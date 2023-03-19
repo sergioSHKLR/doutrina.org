@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="icon" href="../../media/svg/logo.svg">
+  <title>doutrina.org</title>
+  <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+  <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    p {
+      -webkit-text-size-adjust: auto;
+      text-size-adjust: auto;
+    }
+  </style>
+  <script src="https://hypothes.is/embed.js" async></script>
+</head>
+
+<div class="content-wrapper">
+<div class="content">
+  <div class="text-right m-20">
+<!--
+    <audio controls autoplay muted class="btn bg-light">
+      <source src="horse.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+
+  <br />
+  <br /> -->
+  <div class="btn-group" role="group" aria-label="Basic example">
+
+    <button class="btn btn-square btn-action mr-5" onclick="halfmoon.toggleDarkMode()" data-toggle="tooltip" data-title="Trocar contraste"  data-placement="bottom">
+      <i class="fa-solid fa-circle-half-stroke"></i>
+    </button>
+    <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="decreaseText" data-toggle="tooltip" data-title="Diminuir letra"  data-placement="bottom"
+      value="-1">
+      <i class="fa-solid fa-font" aria-hidden="true"></i>
+    </button>
+    <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="increaseText" data-toggle="tooltip" data-title="Aumentar letra"  data-placement="bottom"
+      value="+1">
+      <i class="fa-solid fa-font fa-lg" aria-hidden="true"></i>
+    </button>
+    <button class="btn btn-square btn-action mr-5" type="button"  data-toggle="tooltip" data-title="Ouvir narração"  data-placement="bottom">
+      <i class="fa-solid fa-volume-high"></i>
+    </button>
+    <a href="../../media/sample.pdf" target="ext" class="btn btn-square btn-action mr-5" type="button"
+    data-toggle="tooltip" data-title="Abrir PDF"  data-placement="bottom">
+      <i class="fa-solid fa-file-lines"></i>
+    </a>
+    <input class="btn btn-square btn-action mr-5 result" type="submit" title="Compartilhe esta página" value="🖤" style="color: red;"></input>
+  </div>
+  </div>
+  </div>
+
+  <body>
+    <div class="main ml-20">
+      <p>BLOG SAMPLE</p>
+    </div>
+    <script src="../../assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+    <script>
+      let shareData = {
+        title: 'doutrina.org',
+        text: '❤️ 💋 💞 💕 😘 Amai-vos e instruí-vos 🎓',
+        url: 'https://doutrina.org',
+      }
+
+      const btn = document.querySelector('input');
+      const resultPara = document.querySelector('.result');
+
+      btn.addEventListener('click', () => {
+        navigator.share(shareData)
+          .then(() =>
+            resultPara.textContent = 'Ok'
+          )
+          .catch((e) =>
+            resultPara.textContent = 'Er'
+          )
+      });
+    </script>
+
+  </body>
+
+</html>

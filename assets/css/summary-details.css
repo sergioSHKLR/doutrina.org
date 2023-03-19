@@ -1,0 +1,63 @@
+summary {
+font-family: 'Lora';
+list-style: none;
+margin-left: -10px;
+margin-bottom: 0;
+padding: 10px;
+width: 90%;}
+details > summary {cursor: pointer;}
+details {
+padding: 5px;
+border-bottom:1px solid lightgray;
+font-family: 'Lora';
+list-style: none;
+cursor: default;
+}
+details > p {margin-bottom: 0px;}
+summary::before {
+display:inline-block;
+text-rendering:auto;
+-webkit-font-smoothing:antialiased;
+font:var(--fa-font-solid);
+content:"\f107";
+position: relative;
+left: 105%;
+}
+details[open] summary::before {
+display:inline-block;
+text-rendering:auto;
+-webkit-font-smoothing:antialiased;
+font:var(--fa-font-solid);
+content:"\f106";
+}
+.answer {
+	margin-left: 50px !important;
+	padding: 0px !important;
+	margin-block-start: 0px;
+	color: #0000CD;
+	font-style: italic;
+}
+.commentary {
+	margin-left: 50px;
+	padding-top: 10px !important;
+	margin-block-start: 0px;
+	font-size: 90%;
+	color: dimgrey;
+}
+.kardec {
+	margin-left: 50px;
+	padding-top: 10px !important;
+	margin-block-start: 0px;
+	color: black;
+}
+.bible {
+	margin-left: 50px;
+	padding-top: 10px !important;
+	margin-block-start: 0px;
+	color: black;
+	font-size: 80%;
+}
+.sup {
+	font-style: normal;
+	color: black;
+}
