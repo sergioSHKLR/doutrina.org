@@ -25,145 +25,155 @@
 </head>
 
 <div class="content-wrapper">
-  <div class="content main card" style="margin-right: 50px;;">
+  <div class="content card" style="margin-right: 50px;;">
     <div class="text-right">
-      <!--
-    <audio controls autoplay muted class="btn bg-light">
-      <source src="horse.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
 
-  <br />
-  <br /> -->
+      <div class="btn-group" role="group">
 
-
-
-      <div class="btn-group" role="group" aria-label="Basic example">
-
-        <button class="btn btn-square btn-action mr-5" onclick="halfmoon.toggleDarkMode()" data-toggle="tooltip"
-          data-title="Trocar contraste" data-placement="bottom">
+        <button title="Trocar contraste" class="btn btn-square btn-action mr-5" onclick="halfmoon.toggleDarkMode()">
           <i class="fa-solid fa-circle-half-stroke"></i>
         </button>
-        <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="decreaseText" data-toggle="tooltip"
-          data-title="Diminuir letra" data-placement="bottom" value="-1">
+        <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize" type="button" id="decreaseText"
+          value="-1">
           <i class="fa-solid fa-font" aria-hidden="true"></i>
         </button>
-        <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="increaseText" data-toggle="tooltip"
-          data-title="Aumentar letra" data-placement="bottom" value="+1">
+        <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize" type="button" id="increaseText"
+          value="+1">
           <i class="fa-solid fa-font fa-lg" aria-hidden="true"></i>
         </button>
-        <button class="btn btn-square btn-action mr-5" type="button" data-toggle="tooltip" data-title="Ouvir narração"
-          data-placement="bottom">
+        <button title="" class="btn btn-square btn-action mr-5" type="button">
           <i class="fa-solid fa-volume-high"></i>
         </button>
-        <a target="ext" href="./media/sample.pdf" target="ext" class="btn btn-square btn-action mr-5" type="button"
-          data-toggle="tooltip" data-title="Abrir PDF" data-placement="bottom">
+        <a title="Ouvir narração" target="ext" href="./media/sample.pdf" target="ext"
+          class="btn btn-square btn-action mr-5" type="button">
           <i class="fa-solid fa-file-lines"></i>
         </a>
-        <input class="btn btn-square btn-action mr-5 result" type="submit" title="Compartilhe esta página" value="🖤"
-          style="color: red;"></input>
+        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result" type="submit"
+          value="🖤"></input>
       </div>
+    </div>
+
+    <body>
+
+      <div class="main">
+        <h1 id="dta.1">Avisos legais</h1>
+        <p>Os projetos de <strong>doutrina.org</strong> almejam aperfeiçoar a disseminação da Filosofia e Ciência
+          Espírita
+          tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja
+          o
+          estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio)
+          auxilia
+          no entendimento e retenção do tópico estudado.</p>
+        <p>Entretanto, cremos que alguns ressalvos devam ser feitos.</p>
+        <p>Em primeiro lugar, não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem
+          aos seus respectivos proprietários ou herdeiros.</p>
+
+        <p><em>O Livro dos Espíritos</em><br />
+          <a target="ext"
+            href='https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Espíritos-Guillon-1.pdf'>ISBN
+            978-85-7328-728-8</a>
+        </p>
+
+        <p><em>O Livro dos Médiuns</em><br />
+          <a target="ext"
+            href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Mediuns-Guillon-1.pdf">ISBN
+            978-85-7328-729-5</a>
+
+        <p><em>O Evangelho Segundo o Espiritismo</em><br />
+          <a target="ext"
+            href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Evangelho-segundo-o-Espiritismo-Guillon.pdf">ISBN
+            978-85-7328-730-1</a>
+
+        <p><em>O Céu e o Inferno</em><br />
+          <a target="ext"
+            href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Ceu-e-o-inferno-Guillon.pdf">ISBN
+            978-85-7328-731-8</a>
+
+        <p><em>A Gênese</em><br />
+          <a target="ext" href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-A-Genese-Guillon.pdf">ISBN
+            978-85-7328-732-5</a>
+
+
+        <p>Agradecemos a <a target="ext"
+            href='https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/'>Federação Espírita
+            Brasileira</a>, <a target="ext" href='https://kardecpedia.com'>Kardecpedia.com</a> e <a target="ext"
+            href='https://www.luzespirita.org.br/index.php?lisPage=livro&amp;livroID=1'>Portal Luz Espírita</a> por
+          oferecerem suas obras livremente em seus respectivos <strong>sites</strong>.</p>
+        <p>O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso.
+          Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.</p>
+        <p>Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o <a target="ext"
+            href='http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A'>Artigo
+            46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998</a>.</p>
+        <ul>
+          <li>Art. 41. Os direitos patrimoniais do autor perduram por setenta anos contados de 1° de Janeiro do ano
+            subseqüente ao de seu falecimento, obedecida a ordem sucessória da lei civil.</li>
+          <li>Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária
+            ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os
+            demais campos da propriedade imaterial.</li>
+          <li>Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:</li>
+          <li>I – a reprodução</li>
+          <li>III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de
+            qualquer
+            obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o
+            nome do autor e a origem da obra.</li>
+
+        </ul>
+        <p>Em segundo lugar, tentamos ao máximo manter a integralidade da obra, no entanto, no curso de adaptação do
+          conteúdo para o consumo móvel (<strong>tablets</strong> e celulares) e por claridade/brevidade se achou mais
+          apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um
+          padrão
+          de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo
+          do
+          mesmo.</p>
+        <p>Por último, nossos projetos são sem fins lucrativos. Absolutamente nenhum ganho, compensação, troca,
+          benefício,
+          ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.</p>
+        <p>Em caso de erros, por favor, entrem em contato conosco para assegurar que efetuemos a correção.</p>
+        <p>Deus abençoa sempre.</p>
+        <p><strong>Sergio SHKLR</strong></p>
+        <p>Doutrina.org 2023 por Sergio SHKLR é licenciada sob <a
+            href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. </p>
+        <p>Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo
+          dos
+          livros de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos
+          Dias, ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até
+          mesmo a longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras
+          indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por
+          entidade estabelecidas.</p>
+
+        </p>
+        </p>
+        </p>
+        </p>
       </div>
-    
-  
 
-           <body>
 
-              
-              <h1 id="dta.1">Avisos legais</h1>
-              <p>Os projetos de <strong>doutrina.org</strong> almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita
-                tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o
-                estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia
-                no entendimento e retenção do tópico estudado.</p>
-              <p>Entretanto, cremos que alguns ressalvos devam ser feitos.</p>
-              <p>Em primeiro lugar, não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem
-                aos seus respectivos proprietários ou herdeiros.</p>
-        
-              <p><em>O Livro dos Espíritos</em><br />
-                <a target="ext" href='https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Espíritos-Guillon-1.pdf'>ISBN 978-85-7328-728-8</a>
-              </p>
-        
-              <p><em>O Livro dos Médiuns</em><br />
-                 <a target="ext" href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Mediuns-Guillon-1.pdf">ISBN 978-85-7328-729-5</a>
-        
-              <p><em>O Evangelho Segundo o Espiritismo</em><br />
-                <a target="ext" href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Evangelho-segundo-o-Espiritismo-Guillon.pdf">ISBN 978-85-7328-730-1</a>
-        
-              <p><em>O Céu e o Inferno</em><br />
-                <a target="ext" href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Ceu-e-o-inferno-Guillon.pdf">ISBN 978-85-7328-731-8</a>
-        
-              <p><em>A Gênese</em><br />
-                <a target="ext" href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-A-Genese-Guillon.pdf">ISBN 978-85-7328-732-5</a>
-        
-        
-              <p>Agradecemos a <a target="ext" href='https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/'>Federação Espírita
-                  Brasileira</a>, <a target="ext"  href='https://kardecpedia.com'>Kardecpedia.com</a> e <a target="ext"
-                  href='https://www.luzespirita.org.br/index.php?lisPage=livro&amp;livroID=1'>Portal Luz Espírita</a> por
-                oferecerem suas obras livremente em seus respectivos <strong>sites</strong>.</p>
-              <p>O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso.
-                Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.</p>
-              <p>Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o <a target="ext"
-                  href='http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A'>Artigo
-                  46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998</a>.</p>
-              <ul>
-                <li>Art. 41. Os direitos patrimoniais do autor perduram por setenta anos contados de 1° de Janeiro do ano
-                  subseqüente ao de seu falecimento, obedecida a ordem sucessória da lei civil.</li>
-                <li>Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária
-                  ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os
-                  demais campos da propriedade imaterial.</li>
-                <li>Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:</li>
-                <li>I – a reprodução</li>
-                <li>III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer
-                  obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o
-                  nome do autor e a origem da obra.</li>
-        
-              </ul>
-              <p>Em segundo lugar, tentamos ao máximo manter a integralidade da obra, no entanto, no curso de adaptação do
-                conteúdo para o consumo móvel (<strong>tablets</strong> e celulares) e por claridade/brevidade se achou mais
-                apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão
-                de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do
-                mesmo.</p>
-              <p>Por último, nossos projetos são sem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício,
-                ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.</p>
-              <p>Em caso de erros, por favor, entrem em contato conosco para assegurar que efetuemos a correção.</p>
-              <p>Deus abençoa sempre.</p>
-              <p><strong>Sergio SHKLR</strong></p>
-              <p>Doutrina.org 2023 por Sergio SHKLR é licenciada sob <a
-                  href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. </p>
-              <p>Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo dos
-                livros de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos
-                Dias, ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até
-                mesmo a longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras
-                indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por
-                entidade estabelecidas.</p>
-        
-        
-            </div>
-            <script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-            <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-            <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-            <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
-            <script>
-              let shareData = {
-                title: 'doutrina.org',
-                text: '❤️ Amai-vos e instruí-vos 📚',
-                url: 'https://doutrina.org',
-              }
-        
-              const btn = document.querySelector('input');
-              const resultPara = document.querySelector('.result');
-        
-              btn.addEventListener('click', () => {
-                navigator.share(shareData)
-                  .then(() =>
-                    resultPara.textContent = 'Ok'
-                  )
-                  .catch((e) =>
-                    resultPara.textContent = 'Er'
-                  )
-              });
-            </script>
-        
-          </body>
-        
-        </html>
+  </div>
+  <script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+  <script>
+    let shareData = {
+      title: 'doutrina.org',
+      text: '❤️ Amai-vos e instruí-vos 📚',
+      url: 'https://doutrina.org',
+    }
+
+    const btn = document.querySelector('input');
+    const resultPara = document.querySelector('.result');
+
+    btn.addEventListener('click', () => {
+      navigator.share(shareData)
+        .then(() =>
+          resultPara.textContent = 'Ok'
+        )
+        .catch((e) =>
+          resultPara.textContent = 'Er'
+        )
+    });
+  </script>
+
+  </body>
+
+</html>
