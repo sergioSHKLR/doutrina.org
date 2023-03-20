@@ -48,7 +48,7 @@
           class="btn btn-square btn-action mr-5" type="button">
           <i class="fa-solid fa-file-lines"></i>
         </a>
-        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result" style="font-size: 170%;" type="submit"
+        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result" type="submit"
           value="♥"></input>
       </div>
     </div>
@@ -153,7 +153,7 @@
   <script>
     let shareData = {
       title: 'Amai-vos e instruí-vos',
-      text: 'Plataforma de estudos Espíritas',
+      text: 'Plataforma de Estudos da Filosofia & Ciência Espírita',
       url: 'https://doutrina.org',
     }
 
@@ -163,10 +163,10 @@
     btn.addEventListener('click', () => {
       navigator.share(shareData)
         .then(() =>
-          resultPara.textContent = 'Ok'
+          resultPara.textContent = 'Compartilhado com sucesso!'
         )
         .catch((e) =>
-          resultPara.textContent = 'Er'
+          resultPara.textContent = 'Erro! Tente mais tarde.'
         )
     });
   </script>
