@@ -20,42 +20,47 @@
       -webkit-text-size-adjust: auto;
       text-size-adjust: auto;
     }
+    input[type="submit"] {
+    font-family: "Font Awesome 5 Free";
+    font-size: 1.3333333333333333em;
+    font-weight: 900;
+}
   </style>
   <script src="https://hypothes.is/embed.js" async></script>
 </head>
 
 <div class="content-wrapper">
-  <div class="content card" style="margin-right: 50px;;">
-    <div class="text-right">
+  <div class="content card m-10">
 
-      <div class="btn-group" role="group">
-
-        <button title="Trocar contraste" class="btn btn-square btn-action mr-5" onclick="halfmoon.toggleDarkMode()">
-          <i class="fa-solid fa-circle-half-stroke"></i>
+<div class="dropdown with-arrow">
+  <button class="btn btn-dropdown-alignment mr-5 bg-light-lm" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false">🏠<i class="fa fa-angle-right ml-5" aria-hidden="true"></i>
+  </button>
+  <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
+      <a href="./" class="dropdown-item">🏠&nbsp;Início</a>
+      <a href="#" class="dropdown-item">📔</a>
+      <a href="#" class="dropdown-item">🗂️</a>
+      <a href="#" class="dropdown-item">📑</a>
+      <a href="#" class="dropdown-item">📃</a>
+      </div>
+   
+        <button title="Trocar contraste" class="btn btn-square btn-action mr-5 bg-light-lm" onclick="halfmoon.toggleDarkMode()">
+          🌗
         </button>
-        <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize" type="button" id="decreaseText"
-          value="-1">
-          <i class="fa-solid fa-font" aria-hidden="true"></i>
+        <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="decreaseText"
+          value="-1">🇦
         </button>
-        <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize" type="button" id="increaseText"
-          value="+1">
-          <i class="fa-solid fa-font fa-lg" aria-hidden="true"></i>
-        </button>
-        <button title="Ouvir narração" class="btn btn-square btn-action mr-5" type="button">
-          <i class="fa-solid fa-volume-high"></i>
+        <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="increaseText"
+          value="+1" style="font-size: 120%;">🇦
         </button>
         <a title="Abrir PDF" target="ext" href="./media/sample.pdf" target="ext"
-          class="btn btn-square btn-action mr-5" type="button">
-          <i class="fa-solid fa-file-lines"></i>
-        </a>
-        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result" type="submit"
-          value="♥"></input>
-      </div>
+          class="btn btn-square btn-action mr-5 bg-light-lm" type="button">📓</a>
+        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result bg-light-lm" type="submit"
+          value="❤️"></input>
     </div>
-
     <body>
 
       <div class="main">
+
         <h1 id="dta.1">Avisos legais</h1>
         <p>Os projetos de <strong>doutrina.org</strong> almejam aperfeiçoar a disseminação da Filosofia e Ciência
           Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja
@@ -142,8 +147,21 @@
         </p>
         </p>
         </p>
+ <!-- Up next section start -->
+ <div class="content mb-0">
+  <hr class="mb-20" />
+  
+      <div class="text-right">
+          Próxima:
+          <a href="/docs/button-group/" class="hyperlink ml-5">
+              Button group
+              
+          </a>
       </div>
+    </div>
 
+</div>
+<!-- Up next section end -->
 
   </div>
   <script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
