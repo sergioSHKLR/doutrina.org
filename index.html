@@ -1,194 +1,105 @@
 <!DOCTYPE html>
 <html lang="pt_BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+    <title>doutrina.org</title>
+    <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
+    <meta name="keywords" content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
+    <meta name="author" content="Sergio SHKLR">
+    <!-- PWA -->
+    <link href="./pwa/favicon.svg" rel="icon" type="image/svg+xml">
+    <link href="./pwa/favicon.png" rel="icon" type="image/png">
+    <link href="./pwa/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="./pwa/site.webmanifest" rel="manifest">
+    <meta name="theme-color" content="#333" />
+    <script type="module">
+      import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+      const el = document.createElement('pwa-update');
+      document.body.appendChild(el);
+    </script>
+    <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="./assets/js/fullscreen.js" type="text/javascript" defer></script>
+    <style>
+      p {
+        -webkit-text-size-adjust: auto;
+        text-size-adjust: auto;
+      }
+    </style>
+  </head>
+  <body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true" data-sidebar-shortcut-enabled="true" data-set-preferred-mode-onload="true">
+    <div class="page-wrapper with-navbar with-sidebar" data-sidebar-hidden="hidden">
 
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <meta name="viewport" content="width=device-width" />
-  <link rel="icon" href="./media/svg/logo.svg">
-  <title>doutrina.org</title>
-  <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
-  <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
-  <style>
-    p {
-      -webkit-text-size-adjust: auto;
-      text-size-adjust: auto;
-    }
-    input[type="submit"] {
-    font-family: "Font Awesome 5 Free";
-    font-size: 1.3333333333333333em;
-    font-weight: 900;
-}
-  </style>
-  <script src="https://hypothes.is/embed.js" async></script>
-</head>
+      <nav class="navbar bg-light-lm">
+        <div class="navbar-content text-dark-dm">
+          <button id="toggle-sidebar-btn" class="btn btn-action" type="button" onclick="halfmoon.toggleSidebar()">
+            <i class="fa fa-bars" aria-hidden="true"></i>
+          </button>
+        </div>
+        <a href="./" class="navbar-brand ml-10 ml-sm-20">
+          <img src="./media/svg/logo.svg" alt="logo">
+          <span class="hidden-xs-and-down">doutrina.org</a>&nbsp;&nbsp;<a target="_blank" class="text-reset" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR" style="text-decoration: none;">
+          <i class="fa-brands fa-creative-commons"></i>
+        </a>
+        </span>&nbsp;&nbsp;<span class="badge badge-pill font-size-12 text-monospace px-5 px-sm-10 text-muted">v.19MAR23 </span>
+        <div class="navbar-content ml-auto">
+          <button class="btn btn-square btn-action mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
+            <i class="fa-solid fa-circle-half-stroke"></i>
+          </button>
+          <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia">
+            <i class="fa-solid fa-expand" aria-hidden="true"></i>
+          </button>
+        </div>
+      </nav>
 
-<div class="content-wrapper">
-  <div class="content card m-10">
 
-<div class="dropdown with-arrow">
-  <button class="btn btn-dropdown-alignment mr-5 bg-light-lm" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false">🏠<i class="fa fa-angle-right ml-5" aria-hidden="true"></i>
-  </button>
-  <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
-      <a href="./" class="dropdown-item">🏠&nbsp;Início</a>
-      <a href="#" class="dropdown-item">📔</a>
-      <a href="#" class="dropdown-item">🗂️</a>
-      <a href="#" class="dropdown-item">📑</a>
-      <a href="#" class="dropdown-item">📃</a>
+      <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+      <div class="sidebar bg-light-lm">
+        <div class="sidebar-menu ">
+          <div class="sidebar-content"></div>
+          <div class="sidebar-content">
+            <input type="text" class="form-control" placeholder="Pesquisar">
+            <div class="mt-10 font-size-12"></div>
+          </div>
+          <h5 class="sidebar-title">Obras Básicas</h5>
+          <div class="sidebar-divider"></div>
+          <a target="main" href="./content/1lde/index.html" class="sidebar-link">O Livro dos Espíritos</a>
+          <a target="main" href="./content/2ldm/index.html" class="sidebar-link">O Livro dos Médiuns</a>
+          <a target="main" href="./content/3ese/index.html" class="sidebar-link">O Evangelho</a>
+          <a target="main" href="./content/4ceu/index.html" class="sidebar-link">O Céu e o Inferno </a>
+          <a target="main" href="./content/5gen/index.html" class="sidebar-link">A Gênese </a>
+          <br />
+          <h5 class="sidebar-title">Projeto</h5>
+          <div class="sidebar-divider"></div>
+          <a target="main" href="./content/project/legal.html" class="sidebar-link">Legal </a>
+          <a target="main" href="./content/project/about.html" class="sidebar-link">Detalhes </a>
+          <a target="main" href="./content/project/blog.html" class="sidebar-link">Blog</a>
+          <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link">Contato</a>
+          <br />
+        </div>
       </div>
-   
-        <button title="Trocar contraste" class="btn btn-square btn-action mr-5 bg-light-lm" onclick="halfmoon.toggleDarkMode()">
-          🌗
-        </button>
-        <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="decreaseText"
-          value="-1">🇦
-        </button>
-        <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="increaseText"
-          value="+1" style="font-size: 120%;">🇦
-        </button>
-        <a title="Abrir PDF" target="ext" href="./media/sample.pdf" target="ext"
-          class="btn btn-square btn-action mr-5 bg-light-lm" type="button">📓</a>
-        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result bg-light-lm" type="submit"
-          value="❤️"></input>
-    </div>
-    <body>
-
-      <div class="main">
-
-        <h1 id="dta.1">Avisos legais</h1>
-        <p>Os projetos de <strong>doutrina.org</strong> almejam aperfeiçoar a disseminação da Filosofia e Ciência
-          Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja
-          o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio)
-          auxilia no entendimento e retenção do tópico estudado.</p>
-        <p>Entretanto, cremos que alguns ressalvos devam ser feitos.</p>
-        <p>Em primeiro lugar, não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem
-          aos seus respectivos proprietários ou herdeiros.</p>
-
-        <p><em>O Livro dos Espíritos</em><br />
-          <a target="ext"
-            href='https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Espíritos-Guillon-1.pdf'>ISBN
-            978-85-7328-728-8</a>
-        </p>
-
-        <p><em>O Livro dos Médiuns</em><br />
-          <a target="ext"
-            href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Mediuns-Guillon-1.pdf">ISBN
-            978-85-7328-729-5</a>
-
-        <p><em>O Evangelho Segundo o Espiritismo</em><br />
-          <a target="ext"
-            href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Evangelho-segundo-o-Espiritismo-Guillon.pdf">ISBN
-            978-85-7328-730-1</a>
-
-        <p><em>O Céu e o Inferno</em><br />
-          <a target="ext"
-            href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Ceu-e-o-inferno-Guillon.pdf">ISBN
-            978-85-7328-731-8</a>
-
-        <p><em>A Gênese</em><br />
-          <a target="ext" href="https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-A-Genese-Guillon.pdf">ISBN
-            978-85-7328-732-5</a>
-
-
-        <p>Agradecemos a <a target="ext"
-            href='https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/'>Federação Espírita
-            Brasileira</a>, <a target="ext" href='https://kardecpedia.com'>Kardecpedia.com</a> e <a target="ext"
-            href='https://www.luzespirita.org.br/index.php?lisPage=livro&amp;livroID=1'>Portal Luz Espírita</a> por
-          oferecerem suas obras livremente em seus respectivos <strong>sites</strong>.</p>
-        <p>O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso.
-          Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.</p>
-        <p>Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o <a target="ext"
-            href='http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A'>Artigo
-            46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998</a>.</p>
-        <ul>
-          <li>Art. 41. Os direitos patrimoniais do autor perduram por setenta anos contados de 1° de Janeiro do ano
-            subseqüente ao de seu falecimento, obedecida a ordem sucessória da lei civil.</li>
-          <li>Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária
-            ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os
-            demais campos da propriedade imaterial.</li>
-          <li>Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:</li>
-          <li>I – a reprodução</li>
-          <li>III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de
-            qualquer
-            obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o
-            nome do autor e a origem da obra.</li>
-
-        </ul>
-        <p>Em segundo lugar, tentamos ao máximo manter a integralidade da obra, no entanto, no curso de adaptação do
-          conteúdo para o consumo móvel (<strong>tablets</strong> e celulares) e por claridade/brevidade se achou mais
-          apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um
-          padrão
-          de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo
-          do
-          mesmo.</p>
-        <p>Por último, nossos projetos são sem fins lucrativos. Absolutamente nenhum ganho, compensação, troca,
-          benefício,
-          ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.</p>
-        <p>Em caso de erros, por favor, entrem em contato conosco para assegurar que efetuemos a correção.</p>
-        <p>Deus abençoa sempre.</p>
-        <p><strong>Sergio SHKLR</strong></p>
-        <p>Doutrina.org 2023 por Sergio SHKLR é licenciada sob <a
-            href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. </p>
-        <p>Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo
-          dos
-          livros de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos
-          Dias, ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até
-          mesmo a longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras
-          indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por
-          entidade estabelecidas.</p>
-
-        </p>
-        </p>
-        </p>
-        </p>
- <!-- Up next section start -->
- <div class="content mb-0">
-  <hr class="mb-20" />
-  
-      <div class="text-right">
-          Próxima:
-          <a href="/docs/button-group/" class="hyperlink ml-5">
-              Button group
-              
-          </a>
+     
+      <p>&nbsp;</p>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+            <iframe src="./sample.html" enable annotation name="main" style="border: none; height: 94vh;" class="w-full"></iframe>
+          </div>
+          <div class="col-xl-5 col-lg-5 col-md-5 d-xs-none">
+            <iframe src="./angel-splash.html" name="ext" class="bg-very-dark w-full" style="border: none; height: 94vh;"></iframe>
+          </div>
+        </div>
       </div>
-    </div>
 
-</div>
-<!-- Up next section end -->
+      
 
-  </div>
-  <script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
-  <script>
-    let shareData = {
-      title: 'Amai-vos e instruí-vos',
-      text: 'Plataforma de Estudos da Filosofia & Ciência Espírita',
-      url: 'https://doutrina.org',
-    }
-
-    const btn = document.querySelector('input');
-    const resultPara = document.querySelector('.result');
-
-    btn.addEventListener('click', () => {
-      navigator.share(shareData)
-        .then(() =>
-          resultPara.textContent = 'Compartilhado com sucesso!'
-        )
-        .catch((e) =>
-          resultPara.textContent = 'Erro! Tente mais tarde.'
-        )
-    });
-  </script>
-
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+      <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
   </body>
-
 </html>
