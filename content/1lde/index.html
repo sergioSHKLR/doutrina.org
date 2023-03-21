@@ -24,35 +24,40 @@
   </style>
   <script src="https://hypothes.is/embed.js" async></script>
 </head>
-<div class="content-wrapper" >
-  <div class="content card ml-10 mr-30">
+<!-- PAGE BUTTONS START -->
+<div class="content-wrapper">
+  <div class="content card ml-10 mr-20 mt-10 h-full">
 
-<div class="dropdown with-arrow">
-  <button class="btn btn-dropdown-alignment mr-5 bg-light-lm" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false">🏠<i class="fa fa-angle-right ml-5" aria-hidden="true"></i>
-  </button>
-  <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
-      <a href="./" target="_top" class="dropdown-item">🏠&nbsp;Início</a>
-      <a href="#" class="dropdown-item">📔</a>
-      <a href="#" class="dropdown-item">🗂️</a>
-      <a href="#" class="dropdown-item">📑</a>
-      <a href="#" class="dropdown-item">📃 Avisos legais</a>
-      </div>
+    <div class="d-flex">
+      <!-- Flex grow by a factor of 1 -->
+      <div class="flex-grow-1"><div class="dropdown with-arrow">
+        <button class="btn btn-dropdown-alignment mr-5 bg-light-lm" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false">🏠<i class="fa fa-angle-right ml-5" aria-hidden="true"></i>
+        </button>
+        <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
+            <a href="./" target="_top" class="dropdown-item">🏠&nbsp;Início</a>
+            <a href="#" class="dropdown-item">📔</a>
+            <a href="#" class="dropdown-item">🗂️</a>
+            <a href="#" class="dropdown-item">📑</a>
+            <a href="#" class="dropdown-item">📃 Avisos legais</a>
+            </div></div></div>
+      <div><button title="Trocar contraste" class="btn btn-square btn-action mr-5 bg-light-lm" onclick="halfmoon.toggleDarkMode()">
+        🌗
+      </button>
+      <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="decreaseText"
+        value="-1">🇦
+      </button>
+      <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="increaseText"
+        value="+1" style="font-size: 120%;">🇦
+      </button>
+      <button title="Narrar página" class="btn btn-square btn-action mr-5 bg-light-lm">🗨️</button>
+      <a title="Abrir PDF" target="ext" href="./media/sample.pdf" target="ext"
+        class="btn btn-square btn-action mr-5 bg-light-lm" type="button">📓</a>
+      <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result bg-light-lm" type="submit"
+        value="❤️"></input></div>
    
-        <button title="Trocar contraste" class="btn btn-square btn-action mr-5 bg-light-lm" onclick="halfmoon.toggleDarkMode()">
-          🌗
-        </button>
-        <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="decreaseText"
-          value="-1">🇦
-        </button>
-        <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button" id="increaseText"
-          value="+1" style="font-size: 120%;">🇦
-        </button>
-        <button class="btn btn-square btn-action mr-5 bg-light-lm">💬</button>
-        <a title="Abrir PDF" target="ext" href="./media/sample.pdf" target="ext"
-          class="btn btn-square btn-action mr-5 bg-light-lm" type="button">📓</a>
-        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result bg-light-lm" type="submit"
-          value="❤️"></input>
     </div>
+    <hr class="mb-20" />
+    <!-- PAGE BUTTONS END -->
     <body>
 
       <div class="main">
