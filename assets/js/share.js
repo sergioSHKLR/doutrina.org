@@ -1,18 +1,18 @@
-const shareData = {
-    title: "MDN",
-    text: "Learn web development on MDN!",
-    url: "https://developer.mozilla.org",
-  };
-  
-  const btn = document.querySelector("button");
-  const resultPara = document.querySelector(".result");
-  
-  // Share must be triggered by "user activation"
-  btn.addEventListener("click", async () => {
-    try {
-      await navigator.share(shareData);
-      resultPara.textContent = "MDN shared successfully";
-    } catch (err) {
-      resultPara.textContent = `Error: ${err}`;
-    }
-  });
+let shareData = {
+  title: 'Amai-vos e instruí-vos',
+  text: 'Plataforma de Estudos da Filosofia & Ciência Espírita',
+  url: 'https://doutrina.org',
+}
+
+const btn = document.querySelector('input');
+const resultPara = document.querySelector('.result');
+
+btn.addEventListener('click', () => {
+  navigator.share(shareData)
+    .then(() =>
+      resultPara.textContent = 'Compartilhado com sucesso!'
+    )
+    .catch((e) =>
+      resultPara.textContent = 'Erro! Tente mais tarde.'
+    )
+});
