@@ -60,9 +60,13 @@
               <button class="btn btn-square btn-action mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
                 <i class="fa-solid fa-circle-half-stroke"></i>
               </button>
-              <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia">
-                <i class="fa-solid fa-expand" aria-hidden="true"></i>
+              <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal">
+                <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
               </button>
+              <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia">
+                <i class="fa-solid fa-window-maximize" aria-hidden="true"></i>
+              </button>
+
             </div>
           </nav>
       <!-- Reference: https://www.gethalfmoon.com/docs/navbar -->
@@ -99,15 +103,8 @@
 
     <!-- Content wrapper start -->
         <p>&nbsp;</p>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-              <iframe src="./sample.html" enable annotation name="main" style="border: none; height: 94vh;" class="w-full"></iframe>
-            </div>
-            <div class="col-xl-5 col-lg-5 col-md-5 d-xs-none">
-              <iframe src="./angel-splash.html" name="ext" class="bg-very-dark w-full" style="border: none; height: 94vh;"></iframe>
-            </div>
-          </div>
+        <h1>Fullscreen Toggle</h1>
+        <button id="goFullscreen">go</button>
         </div>
     <!-- Content wrapper end -->
 
@@ -122,5 +119,6 @@
 
   <!-- Halfmoon JS -->
   <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+  <script></script>
 </body>
 </html>

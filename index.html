@@ -51,10 +51,12 @@
           <button class="btn btn-square btn-action mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
             <i class="fa-solid fa-circle-half-stroke"></i>
           </button> -->
-        <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="openFullscreen();"
-          title="Tela cheia">
-          <i class="fa-solid fa-expand" aria-hidden="true"></i>
-        </button>
+          <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal">
+            <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
+          </button>
+          <button class="btn btn-square btn-action mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia">
+            <i class="fa-solid fa-window-maximize" aria-hidden="true"></i>
+          </button>
       </div>
     </nav>
     <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
