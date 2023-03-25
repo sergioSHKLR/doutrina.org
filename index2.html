@@ -3,53 +3,59 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
   <title>doutrina.org</title>
-  <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
-  <meta name="keywords"
-    content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
-  <meta name="author" content="Sergio SHKLR">
-  <!-- PWA -->
-  <link href="./media/png/logo.png" rel="icon" type="image/png">
-  <link href="./pwa/apple-touch-icon.png" rel="apple-touch-icon">
-  <link href="./pwa/site.webmanifest" rel="manifest">
-  <meta name="theme-color" content="#333" />
-  <script type="module">
-    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-    const el = document.createElement('pwa-update');
-    document.body.appendChild(el);
-  </script>
+
   <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
   <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <script src="./assets/js/fullscreen.js" type="text/javascript" defer></script>
-  <style>
-    p {
-      -webkit-text-size-adjust: auto;
-      text-size-adjust: auto;
-    }
-  </style>
-</head>
+  <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      /*loop through a collection of all HTML elements:*/
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        /*search for elements with a certain atrribute:*/
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          /*make an HTTP request using the attribute value as the file name:*/
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+              if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+              if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+              /*remove the attribute, and call this function once more:*/
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }      
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          /*exit the function:*/
+          return;
+        }
+      }
+    };
+    </script></head>
 
 <body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true"
   data-sidebar-shortcut-enabled="true" data-set-preferred-mode-onload="true">
-  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-hidden="hidden">
+  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-hidden="hidden" data-sidebar-type="overlayed-all">
   
-    <div w3-include-html="./navbar.html"></div>
+    <div w3-include-html="navbar.htm"></div>
 
-    <div w3-include-html="./sidebar.html"></div>
+    <div w3-include-html="sidebar.html"></div>
 
-    <div w3-include-html="./content-wrapper.html"></div>
+    <div w3-include-html="content-wrapper.html"></div>
 
     <script>
       includeHTML();
       </script>
-      <script src="./assets/js/include.js"></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
     <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
 </body>
 

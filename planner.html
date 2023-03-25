@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+hr {border: 1px solid lightgrey;}
+#myProgress {
+  width: 100%;
+  background-color: white;
+}
+
+#myBar {
+  width: 10%;
+  height: 60px;
+  background-color: black;
+  border-right: 5px solid red;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+</style>
+<body>
+
+<h1>Weekday hourly planner</h1>
+
+<div class="w3-row w3-border" style="opacity: 1; z-index:0;">
+  <div class="w3-col m1 w3-center w3-border"><p>0600</p><hr /><p style="background-color: lightgreen;">BREAKFAST</p></div>
+  <div class="w3-col m1 w3-center w3-border"><p>0700</p><hr /><p style="background-color: lightcoral;">PT</p></div>
+  <div class="w3-col m1 w3-center w3-border"><p>0800</p><hr /><p style="background-color: lightyellow;">CLEANUP</p></div>
+  <div class="w3-col m3 w3-center w3-border"><p>0900-1100</p><hr /><p style="background-color: lightblue;">DEV OPS</p></div>
+  <div class="w3-col m1 w3-center w3-border"><p>1200</p><hr /><p style="background-color: lightgreen;">LUNCH</p></div>
+  <div class="w3-col m1 w3-center w3-border"><p>1300</p><hr /><p style="background-color: lightyellow;">SIESTA</p></div>
+  <div class="w3-col m4 w3-center w3-border"><p>1400-1700</p><hr /><p style="background-color: lightblue;">DEV OPS</p></div>
+
+</div>
+
+
+<div id="myProgress" style="position: relative; top: -60px; opacity: 2; z-index: 1;">
+  <div id="myBar">&nbsp;</div>
+</div>
+
+<br>
+<button onclick="move()">Start the day</button> 
+
+<script>
+var i = 0;
+function move() {
+  if (i == 0) {
+    i = 1;
+    var elem = document.getElementById("myBar");
+    var width = 10;
+    var id = setInterval(frame, 100);
+    function frame() {
+      if (width >= 100) {
+        clearInterval(id);
+        i = 0;
+      } else {
+        width++;
+        elem.style.width = width + "%";
+        elem.innerHTML = width  + "%";
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>
+
+
+
+</body>
+</html>       
