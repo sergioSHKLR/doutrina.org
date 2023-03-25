@@ -15,12 +15,14 @@ Suas principais características/requisitos são:
 - [x] Modo escuro (usando Halfmoon CSS no momento)
 - [x] Redimensionamento de fonte (usando JS no momento)
 - [x] Compartilhamento (usando Web Share API no momento)
+- [x] Abrir o PDF da obra original
 - [ ] Narração (pesquisando soluções)
 - [ ] Pesquisa de texto completo (pesquisando soluções)
 - [x] Destaques e anotações (usando Hypothes.is no momento)
 - [ ] Comentários sociais (pesquisando soluções, podem ser descartados)
 - [ ] Permitir a tradução/localização (i18n)
 - [x] Instalável como PWA
+- [x] Utilizar links de navegação otimizados para mobile 
 
 
 | Janela de visualização ampla (3 colunas) | | |
@@ -57,12 +59,15 @@ Its main features/requirements are:
 - [x] Dark mode (using Halfmoon CSS at the moment)
 - [x] Resizing of font (using JS at the moment)
 - [x] Sharing (using Web Share API at the moment)
+- [x] Open the original work PDF
 - [ ] Narration (researching solutions)
 - [ ] Full-text search (researching solutions)
 - [x] Highlights and annotations (using Hypothes.is at the moment)
 - [ ] Social comments (researching solutions, might be scrapped)
 - [ ] Allow for the translation/localization (i18n)
 - [x] Installable as PWA
+- [x] Display mobile-friendly breadcrumbs 
+
 
 
 | Wide viewport (3 columns) | | |
