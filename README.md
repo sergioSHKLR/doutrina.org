@@ -3,8 +3,6 @@
 
 Estou desenvolvendo uma plataforma para o estudo de obras em domínio público. Eu imagino uma solução muito melhor do que um simples leitor de ebook. Ao permitir a marcação, anotação e comentários da comunidade em seu layout de divisão exclusivo, podemos manter o foco do usuário.
 
-Um protótipo fica em https://sergioshklr.github.io/doutrina.org/
-
 No momento, é uma aglomeração de HTML, CSS e JS.
 
 Suas principais características/requisitos são:
@@ -24,6 +22,9 @@ Suas principais características/requisitos são:
 - [x] Instalável como PWA
 - [x] Utilizar links de navegação otimizados para mobile 
 
+Um protótipo fica em https://sergioshklr.github.io/doutrina.org/
+
+Use [CTRL] + [SHIFT ] + [I] para mudar seu viewport.
 
 | Janela de visualização ampla (3 colunas) | | |
 | --- | --- | --- |
@@ -47,8 +48,6 @@ Sou apenas um único hobby que adora tecnologia e trabalho sem fins lucrativos. 
 
 I am developing a platform for the study of works in the public domain. I envision a solution much better than a simple ebook reader. By allowing the community markup, annotation, and comments in its unique split layout, we are able to maintain the user focus.
 
-A prototype sits at https://sergioshklr.github.io/doutrina.org/
-
 As of now, it is an aglomeration of HTML, CSS and JS.
 
 Its main features/requirements are:
@@ -68,7 +67,9 @@ Its main features/requirements are:
 - [x] Installable as PWA
 - [x] Display mobile-friendly breadcrumbs 
 
+A prototype sits at https://sergioshklr.github.io/doutrina.org/
 
+Use [CTRL] + [SHIFT ] + [I] para mudar seu viewport.
 
 | Wide viewport (3 columns) | | |
 | --- | --- | --- |
