@@ -24,7 +24,7 @@ Suas principais características/requisitos são:
 
 Um protótipo fica em https://sergioshklr.github.io/doutrina.org/
 
-Use [CTRL] + [SHIFT ] + [I] para mudar seu viewport.
+Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
 
 | Janela de visualização ampla (3 colunas) | | |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ Its main features/requirements are:
 
 A prototype sits at https://sergioshklr.github.io/doutrina.org/
 
-Use [CTRL] + [SHIFT ] + [I] para mudar seu viewport.
+Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
 
 | Wide viewport (3 columns) | | |
 | --- | --- | --- |
