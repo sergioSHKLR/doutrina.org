@@ -29,10 +29,10 @@
   <div class="card ml-10 mr-20 mt-10 mb-10">
     <div class="d-flex">
       <div class="flex-grow-1">
-        <div class="dropdown with-arrow"> <button class="btn btn-dropdown-alignment mr-5 bg-light-lm"
+        <div class="dropdown with-arrow"> <button class="btn btn-dropdown-alignment mr-5"
             data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3" aria-haspopup="true"
-            aria-expanded="false"><i class="fa-solid fa-compass"></i><i class="fa fa-angle-down ml-5" aria-hidden="true"></i> </button>
-          <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3"> <a href="./" target="_top"
+            aria-expanded="false"><i class="fa-solid fa-location-arrow" style="transform: rotate(-45deg);"></i><i class="fa fa-angle-down ml-5" aria-hidden="true"></i> </button>
+          <div class="dropdown-menu" aria-labelledby="dropdown-toggle-btn-3"> <a href="./" target="_top"
               class="dropdown-item"><i class="fa-solid fa-home fa-fw"></i>&nbsp;Início</a>
 
               <a href="./" target="_top" class="dropdown-item"><i class="fa-solid fa-book-bookmark fa-fw"></i>&nbsp;Livro</a>
@@ -46,23 +46,39 @@
         </div>
       </div>
       <div>
-        <button title="Trocar contraste" class="btn btn-square mr-5 bg-light-lm" onclick="halfmoon.toggleDarkMode()"><i class="fa-solid fa-circle-half-stroke"></i></button> 
+
+        <div class="dropdown"> 
+          <button class="btn btn-dropdown-alignment mr-5"
+          data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3" aria-haspopup="true"
+          aria-expanded="false"><i class="fa-solid fa-ellipsis-vertical"></i></button>
           
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown-toggle-btn-3"> 
+          
+          
+          <button title="Trocar contraste" class="btn btn-square mr-5 bg-light-lm" onclick="halfmoon.toggleDarkMode()"><i class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;Trocar contraste<br /><br />
+
           <button title="Diminuir letra"
           class="btn btn-square mr-5 fontSize bg-light-lm" type="button" id="decreaseText" value="-1"><i class="fa-solid fa-font"></i>
-        </button> 
-        
-        <button title="Aumentar letra" class="btn btn-square mr-5 fontSize bg-light-lm"
-          type="button" id="increaseText" value="+1" style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"></i></button> 
-          
-        <button class="btn btn-square mr-5 bg-light-lm"><i class="fa-solid fa-volume-high"></i></button>
-          
-          <a title="Abrir PDF" target="ext"
-          href="./media/sample.pdf" target="ext" class="btn btn-square mr-5 bg-light-lm" type="button"><i class="fa-solid fa-file-pdf"></i></a>
+        </button>&nbsp;Diminuir letra<br /><br />
 
+        <button title="Aumentar letra" class="btn btn-square mr-5 fontSize bg-light-lm" type="button" id="increaseText" value="+1" style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"></i></button>&nbsp;Aumentar letra<br /><br />
+        
+      <button class="btn btn-square mr-5 bg-light-lm"><i class="fa-solid fa-volume-high"></i></button>&nbsp;Narrar tela <br /><br />
+        
+        <a title="Abrir PDF" target="ext"
+        href="./media/sample.pdf" target="ext" class="btn btn-square mr-5 bg-light-lm" type="button"><i class="fa-solid fa-file-pdf"></i></a>&nbsp;Abrir PDF<br /><br />
+        
+      <input title="Compartilhar página" class="btn btn-square mr-5 result bg-light-lm" type="button"
+        value="❤️"></input>&nbsp;Compartilhe!
+          </div>
+      </div>
+
+
+ 
           
-        <input title="Compartilhar página" class="btn btn-square mr-5 result bg-light-lm" type="button"
-          value="❤️"></input> </div>
+      
+        
+      </div>
     </div>
     <hr class="mb-20" /> 
     <!-- PAGE BUTTONS END -->
