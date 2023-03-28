@@ -57,22 +57,22 @@
     <!-- Start NAVBAR -->
     <nav class="navbar bg-light-lm bg-dark-dm">
       <div class="navbar-content">
-        <button id="toggle-sidebar-btn" class="btn btn-square" type="button" onclick="halfmoon.toggleSidebar()">
-          <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+        <button id="toggle-sidebar-btn" class="btn btn-square" type="button" onclick="halfmoon.toggleSidebar()" aria-label="botão de menu">
+          <i class="fa-solid fa-bars fa-fw" aria-hidden="true" title="botão de menu"></i>
         </button>
       </div>
       <a href="./" class="navbar-brand ml-10 ml-sm-20">
-        <img src="./pwa/favicon.svg" alt="logo of doutrina.org"> doutrina.org </a>
+        <img src="./pwa/favicon.svg" alt="logo de doutrina.org"> doutrina.org </a>
       <div class="navbar-content ml-auto">
-        <input class="btn btn-square result mr-5" type="button" value="❤️">
+        <input class="btn btn-square result mr-5" type="button" value="❤️" title="Compartilhe!"  aria-label="compartilhar págima">
         <!-- 
         <button class="btn btn-square mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
           <i class="fa-solid fa-circle-half-stroke"></i>
         </button> -->
-        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal">
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal" aria-label="botão de tela normal">
           <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
         </button>
-        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia">
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia" aria-label="botão de tela cheia">
           <i class="fa-regular fa-square" aria-hidden="true"></i>
         </button>
       </div>
@@ -83,55 +83,55 @@
     <div class="sidebar bg-light-lm bg-dark-dm">
       <div class="sidebar-menu ">
         <div class="sidebar-content">
-          <input type="text" class="form-control" placeholder="Pesquisar">
+          <input type="text" class="form-control" placeholder="Pesquisar" label="area de pesquisa de termos">
           <div class="mt-10 font-size-12"></div>
         </div>
         <h5 class="sidebar-title">Obras Básicas</h5>
         <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
-        <a target="main" href="./content/1lde/index.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/1lde/index.html" class="sidebar-link sidebar-link-with-icon" title="link para O Livro dos Espíritos">
           <span class="sidebar-icon text-white" style="background-color: blue;;">
             <i class="fa-solid fa-ghost"></i>
           </span>O Livro dos Espíritos </a>
-        <a target="main" href="./content/2ldm/index.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/2ldm/index.html" class="sidebar-link sidebar-link-with-icon" title="link para O Livro dos Médiuns">
           <span class="sidebar-icon text-white" style="background-color: purple;">
             <i class="fa-solid fa-pen-fancy"></i>
           </span>O Livro dos Médiuns </spam>
         </a>
-        <a target="main" href="./content/3ese/index.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/3ese/index.html" class="sidebar-link sidebar-link-with-icon" title="link para O Evangelho segundo o Espiritismo">
           <span class="sidebar-icon text-white" style="background-color: orange;">
             <i class="fa-solid fa-dove"></i>
           </span>O Evangelho </span>
         </a>
-        <a target="main" href="./content/4ceu/index.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/4ceu/index.html" class="sidebar-link sidebar-link-with-icon" title="link para O Céu e o Inferno">
           <span class="sidebar-icon text-white" style="background-color: red;">
             <i class="fa-solid fa-cloud"></i>
           </span>O Céu e o Inferno </span>
         </a>
-        <a target="main" href="./content/5gen/index.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/5gen/index.html" class="sidebar-link sidebar-link-with-icon" title="link para A Gênese">
           <span class="sidebar-icon text-white" style="background-color: green;">
             <i class="fa-solid fa-seedling"></i>
           </span>A Gênese </a>
         <br />
         <h5 class="sidebar-title">Projeto</h5>
         <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
-        <a target="main" href="./content/project/legal.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/project/legal.html" class="sidebar-link sidebar-link-with-icon" title="link para Avisos legais">
           <span class="sidebar-icon">
             <i class="fa-solid fa-balance-scale"></i>
           </span>Legal </a>
-        <a target="main" href="./content/project/about.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/project/about.html" class="sidebar-link sidebar-link-with-icon" title="link para Detalhes do projeto">
           <span class="sidebar-icon">
             <i class="fa-solid fa-file-lines"></i>
           </span>Detalhes </a>
-        <a target="main" href="./content/project/blog.html" class="sidebar-link sidebar-link-with-icon">
+        <a target="main" href="./content/project/blog.html" class="sidebar-link sidebar-link-with-icon" title="link para Blog do projeto">
           <span class="sidebar-icon">
             <i class="fa-solid fa-blog"></i>
           </span>Blog </a>
         <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
-          class="sidebar-link sidebar-link-with-icon">
+          class="sidebar-link sidebar-link-with-icon" title="link para repositório do projeto">
           <span class="sidebar-icon">
             <i class="fa-brands fa-github"></i>
           </span>Github </a>
-        <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link sidebar-link-with-icon">
+        <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link sidebar-link-with-icon" title="link para formulário de contato">
           <span class="sidebar-icon">
             <i class="fa-solid fa-comment"></i>
           </span>Contato </a>
@@ -141,7 +141,7 @@
         <span class="sidebar-content" style="margin-top: 0px;">Atualizado em 27Mar23</span>
         <br />
         <span class="sidebar-link" style="margin-top: -50px;">
-          <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/br/" target="_blank">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/br/" target="_blank" title="link para descrição da licensa de uso">
             <i class="fa-brands fa-creative-commons"></i>
             <i class="fa-brands fa-creative-commons-by"></i>
             <i class="fa-brands fa-creative-commons-nc"></i>
