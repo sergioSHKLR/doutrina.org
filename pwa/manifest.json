@@ -1,10 +1,10 @@
 
 {
-  "name": "Doutrina.org | Leia. Reflita. Anote.",
+  "name": "Doutrina.org",
   "short_name": "Doutrina",
   "lang": "pt-BR",
   "orientation": "any",
-  "description": "Plataforma de Estudos da Filosofia & Ciência Espírita",
+  "description": "Repositório de Estudos Integrados",
   "categories": [
     "reference",
     "education",
