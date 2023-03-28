@@ -1,35 +1,67 @@
+<!-- #MASTER INDEX -->
 <!DOCTYPE html>
 <html lang="pt_BR">
+<!-- START HEAD -->
 
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+  <!-- needed to fix bug of Hypothes.is on Chrome mobile (zoom on input type)-->
   <title>doutrina.org</title>
-
+  <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
+  <meta name="keywords"
+    content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
+  <meta name="author" content="Sergio SHKLR">
+  <!-- START PWA -->
+  <link href="./media/png/favicon.png" rel="icon" type="image/png">
+  <link href="/media/svg/favicon.svg" rel="icon" type="image/svg+xml">
+  <link href="./pwa/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="./pwa/site.webmanifest" rel="manifest">
+  <meta name="theme-color" content="#333" />
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+    const el = document.createElement('pwa-update');
+    document.body.appendChild(el); github
+  </script> <!-- taken from PWAbuilder.com -->
+  <!-- END PWA -->
   <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+  <!-- framework chosen for its dark mode and ease of use -->
   <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+  <!-- Font Awesome free kit -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <!-- Google hosted library -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-  <script src="./assets/js/fullscreen.js" type="text/javascript" defer></script>
-  <script src="./assets/js/include.js"></script>
+  <!-- part of Halfmoon CSS framework -->
+  <script src="./assets/js/fullscreen.js" type="text/javascript" defer></script> <!-- API from W3schools.com -->
+  <script src="./assets/js/include.js"></script> <!-- API from W3schools.com -->
+  <style>
+    p {
+      -webkit-text-size-adjust: auto;
+      text-size-adjust: auto;
+    }
+  </style>
 </head>
-  
+<!-- END HEAD-->
+
+<!-- START BODY -->
+
 <body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true"
   data-sidebar-shortcut-enabled="true" data-set-preferred-mode-onload="true">
-  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-hidden="hidden" data-sidebar-type="overlayed-all">
-  
+  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-hidden="hidden">
+
+    <!-- INCLUDE NAVBAR -->
     <div w3-include-html="navbar.html"></div>
 
+    <!-- INCLUDE SIDEBAR -->
     <div w3-include-html="sidebar.html"></div>
 
-    <div w3-include-html="content-wrapper2.html"></div>
+    <!-- INCLUDE CONTENT-WRAPPER -->
+    <div w3-include-html="content-wrapper.html"></div>
 
     <script>
       includeHTML();
-      </script>
-          <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-    <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+    </script> <!-- taken from W3schools.com -->
 </body>
-
+<!-- END BODY -->
 </html>

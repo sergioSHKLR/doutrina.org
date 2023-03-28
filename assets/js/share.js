@@ -1,6 +1,6 @@
 let shareData = {
   title: 'Amai-vos e instruí-vos',
-  text: 'Plataforma de Estudos da Filosofia & Ciência Espírita',
+  text: 'Repositório de Estudos Integrados',
   url: 'https://doutrina.org',
 }
 
