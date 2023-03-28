@@ -1,20 +1,21 @@
+<!-- #MASTER INDEX -->
 <!DOCTYPE html>
 <html lang="pt_BR">
+<!-- Start HEAD -->
 
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />   <!-- needed to fix bug of Hypothes.is on Chrome mobile (zoom on input type)-->
   <meta name="viewport" content="width=device-width" />
-  <link rel="icon" href="./media/svg/logo.svg">
-  <title>doutrina.org</title>
+
+
   <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
   <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
   <style>
     p {
       -webkit-text-size-adjust: auto;
@@ -27,39 +28,35 @@
   </style>
   <script src="https://hypothes.is/embed.js" async></script>
 </head>
-<!-- PAGE BUTTONS START -->
+<!-- Start PAGE BUTTONS -->
 <div class="content-wrapper" style="padding-right: 12px;">
   <div class="card ml-10 mr-20 mt-10 mb-0 bg-white-lm bg-very-dark-dm">
-
     <div class="d-flex">
       <div class="mr-auto">
-
         <div class="dropdown"><button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown" type="button"
             id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-location-arrow"
-              style="transform: rotate(-45deg);"></i></button>
+              style="transform:  translateY(2px) rotate(-45deg);
+              "></i></button>
           <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
-
             <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
-
               <!--
           <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"></i></button>&nbsp;&nbsp;Início</span></a>
           -->
-
               <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
                     class="btn btn-square mb-5"><i
-                      class="fa-solid fa-key fa-fw"></i></button>&nbsp;&nbsp;Index</span></a>
-
+                      class="fa-solid fa-key fa-fw"></i></button></a>&nbsp;&nbsp;Index</span>
               <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-book-bookmark fa-fw"></i></button>&nbsp;&nbsp;Livro</span></a>
-
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-book-bookmark fa-fw"></i></button></a>&nbsp;&nbsp;Livro</span>
               <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-bookmark fa-fw"></i></button>&nbsp;&nbsp;Parte</span></a>
-
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-bookmark fa-fw"></i></button></a>&nbsp;&nbsp;Parte</span>
               <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-folder fa-fw"></i></button>&nbsp;&nbsp;Capítulo</span></a>
-
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-folder fa-fw"></i></button></a>&nbsp;&nbsp;Capítulo</span>
               <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-file fa-fw"></i></button>&nbsp;&nbsp;Item</span></a>
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-file fa-fw"></i></button></a>&nbsp;&nbsp;Item</span>
             </div>
           </div>
         </div>
@@ -67,46 +64,33 @@
     </div>
     <div class="d-flex">
       <div class="ml-auto">
-
-        <div class="dropdown" style="position: relative; top: -34px;">
-
+        <div class="dropdown" style="position: relative; top: -32px;">
           <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3"
             aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-ellipsis-vertical"></i></button>
-
           <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm" aria-labelledby="dropdown-toggle-btn-3">
-
             <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
-
               <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
                     class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar contraste</span>
-
               <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
                     class="fa-solid fa-font"></i> </button>&nbsp;&nbsp;Diminuir letra</span>
-
               <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
                   style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"></i></button>&nbsp;&nbsp;Aumentar
                 letra</span>
-
               <span><button class="btn btn-square mb-5"><i
                     class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span>
-
               <span><a target="ext" href="./media/sample.pdf" target="ext" class="btn btn-square mb-5" type="button"><i
                     class="fa-solid fa-file-pdf"></i></a>&nbsp;&nbsp;Abrir PDF</span>
-
-              <span><input class="btn btn-square result mb-5" type="button" value="♥"
-                  style="font-size: 170%;"></input>&nbsp;&nbsp;Compartilhe!
-
+              <span><input class="btn btn-square result mb-5" type="button" value="🖤"></input>&nbsp;&nbsp;Compartilhe!
             </div>
-
           </div>
         </div>
       </div>
     </div>
-    <hr class="mb-20" style="margin-top: -20px" />
-    <!-- PAGE BUTTONS END -->
+    <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
+    <!-- End PAGE BUTTONS -->
 
     <body>
-      <!-- CONTENT START -->
+      <!-- Start CONTENT -->
       <div class="content">
         <p><b>Avisos legais</b></p>
         <p>Os projetos de <strong>doutrina.org</strong> almejam aperfeiçoar a disseminação da Filosofia e Ciência
@@ -168,29 +152,29 @@
         <p>Deus abençoa sempre.</p>
         <p><strong>Sergio SHKLR</strong></p>
         <details>
-          <summary class="text-muted font-size-14">doutrina.org 2023 por Sergio SHKLR é licenciada sob <a
-              href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>.</summary><p>A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo dos livros
-          de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos Dias,
-          ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até mesmo a
-          longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras
-          indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por
-          entidade estabelecidas.</p>
+          <summary class="text-muted"><small>doutrina.org 2023 por Sergio SHKLR é licenciada sob <a
+                href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4</small></a>.</summary>
+          <p><small>A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO aos
+              conteúdos de: livros
+              de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos Dias,
+              ou quaisquer outras fontes externas.</small></p>
         </details>
         </p>
         </p>
         </p>
-        </p> <!-- CONTENT END -->
-        <!-- FOOTER START -->
-        <hr class="m-20">
+        </p> 
+        <!-- End CONTENT -->
+        <!-- Start FOOTER -->
+        <hr class="m-20 bg-dark-light-lm bg-light-dm">
         <div class="text-right text-muted font-size-14">Próxima&nbsp;&nbsp;<i class="fa-solid fa-arrow-right"></i><br />
-          <a href="./content/1lde/index.html" class="hyperlink ml-5 font-size-18"> O Livro dos Espíritos </a> </div>
+          <a href="./content/1lde/index.html" class="hyperlink ml-5 font-size-18"> O Livro dos Espíritos </a>
+        </div>
       </div>
-  </div> <!-- FOOTER END -->
+  </div> <!-- End FOOTER -->
 </div>
-<script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+<script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
 <script src="./assets/js/share.js"></script>
 </body>
 
