@@ -1,128 +1,284 @@
 <!-- #MASTER INDEX -->
-<!DOCTYPE html>
-<html lang="pt-BR">
-<!-- Start HEAD -->
+<!-- #region  -->
+<DOCTYPE html>
+  <html lang="pt-BR" class="auto-scaling-disabled">
+  <!-- Start HEAD -->
 
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <!-- needed to fix bug of Hypothes.is on Chrome mobile (zoom on input type)-->
-  <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
-  <!-- framework chosen for its dark mode and ease of use -->
-  <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <!-- Font Awesome free kit -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-  <!-- Google hosted library -->
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-  <!-- part of Halfmoon CSS framework -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <style>
-    p {
-      -webkit-text-size-adjust: auto;
-      text-size-adjust: auto;
-    }
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+    <!-- needed to fix bug of Hypothes.is on Chrome mobile (zoom on input type)-->
+    <title>doutrina.org</title>
+    <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
+    <meta name="keywords"
+      content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
+    <meta name="author" content="Sergio SHKLR">
+    <!-- Start PWA -->
+    <link href="../../pwa/favicon.png" rel="icon" type="image/png">
+    <link href="../../pwa/favicon.svg" rel="icon" type="image/svg+xml">
+    <link href="../../pwa/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="./pwa/site.webmanifest" rel="manifest">
+    <meta name="theme-color" content="#333" />
+    <script type="module">
+      import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+      const el = document.createElement('pwa-update');
+      document.body.appendChild(el);
+    </script>
+    <!-- taken from PWAbuilder.com -->
+    <!-- END PWA -->
+    <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+    <!-- framework chosen for its dark mode and ease of use -->
+    <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
+    <!-- Font Awesome free kit -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <!-- Google hosted library -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- part of Halfmoon CSS framework -->
+    <style>
+      p {
+        -webkit-text-size-adjust: auto;
+        text-size-adjust: auto;
+      }
 
-    b {
-      font-size: 150%;
-    }
+      b {
+        font-size: 150%;
+      }
 
-    ul,
-    li {
-      margin-left: 15px;
-    }
-  </style>
-  <script src="https://hypothes.is/embed.js" async></script> <!-- taken from Hypothes.is-->
-</head>
-<!-- Start PAGE BUTTONS -->
-<div class="content-wrapper" style="padding-right: 12px;">
-  <div class="card ml-10 mr-20 mt-10 mb-0 bg-white-lm bg-very-dark-dm">
-    <div class="d-flex">
-      <div class="mr-auto">
-        <div class="dropdown"><button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown" type="button"
-            id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-location-arrow"
-              style="transform:  translateY(2px) rotate(-45deg);
-              "></i></button>
-          <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
-            <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
-              <!--
-          <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"></i></button>&nbsp;&nbsp;Início</span></a>
-          -->
-              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-key fa-fw"
-                      style="color: grey;"></i></button></a>&nbsp;&nbsp;Código</span>
-              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-book-bookmark fa-fw"
-                      style="color: black;"></i></button></a>&nbsp;&nbsp;Livro</span>
-              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-bookmark fa-fw"
-                      style="color: red;"></i></button></a>&nbsp;&nbsp;Parte</span>
-              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-folder fa-fw"
-                      style="color: orange;"></i></button></a>&nbsp;&nbsp;Capítulo</span>
-              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
-                    class="btn btn-square mb-5"><i class="fa-solid fa-file fa-fw"
-                      style="color: lightblue;"></i></button></a>&nbsp;&nbsp;Item</span>
-            </div>
+      ul,
+      li {
+        margin-left: 10px;
+      }
+    </style>
+  </head>
+  <!-- End HEAD-->
+  <!-- Start BODY -->
+
+  <body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true"
+    data-sidebar-shortcut-enabled="true">
+    <div class="page-wrapper with-navbar with-sidebar" data-sidebar-hidden="hidden">
+      <!-- Start NAVBAR -->
+      <nav class="navbar bg-light-lm bg-dark-dm">
+        <div class="navbar-content">
+          <button id="toggle-sidebar-btn" class="btn btn-square" type="button" onclick="halfmoon.toggleSidebar()"
+            aria-label="botão de menu">
+            <i class="fa-solid fa-bars fa-fw" aria-hidden="true" title="botão de menu"></i>
+          </button>
+        </div>
+        <a href="../../" class="navbar-brand ml-10 ml-sm-20">
+          <img src="../../media/svg/logo.svg" alt="logo de doutrina.org" width="48px" height="48px"> doutrina.org </a>
+        <div class="navbar-content ml-auto">
+          <input class="btn btn-square result mr-5" type="button" value="❤️" title="Compartilhe!"
+            aria-label="compartilhar págima">
+          <!-- 
+<button class="btn btn-square mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
+<i class="fa-solid fa-circle-half-stroke"></i>
+</button> -->
+          <button class="btn btn-square mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal"
+            aria-label="botão de tela normal">
+            <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
+          </button>
+          <button class="btn btn-square mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia"
+            aria-label="botão de tela cheia">
+            <i class="fa-regular fa-square" aria-hidden="true"></i>
+          </button>
+        </div>
+      </nav>
+      <!-- End NAVBAR -->
+      <!-- Start SIDEBAR -->
+      <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+      <div class="sidebar bg-light-lm bg-dark-dm">
+        <div class="sidebar-menu ">
+          <h5 class="sidebar-title">Pesquisar</h5>
+          <div class="sidebar-content mt-0">
+            <input type="text" class="form-control bg-white text-dark" placeholder="termos..."
+              label="area de pesquisa de termos">
+            <div class="mt-10 font-size-12"></div>
           </div>
+          <h5 class="sidebar-title">Obras Básicas</h5>
+          <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+          <a target="main" href="./" class="sidebar-link sidebar-link-with-icon"
+            title="link para O Livro dos Espíritos">
+            <span class="sidebar-icon text-white" style="background-color: blue;;">
+              <i class="fa-solid fa-ghost"></i>
+            </span>O Livro dos Espíritos </a>
+          <a target="main" href="../2ldm/" class="sidebar-link sidebar-link-with-icon"
+            title="link para O Livro dos Médiuns">
+            <span class="sidebar-icon text-white" style="background-color: purple;">
+              <i class="fa-solid fa-pen-fancy"></i>
+            </span>O Livro dos Médiuns </spam>
+          </a>
+          <a target="main" href="../3ese/" class="sidebar-link sidebar-link-with-icon"
+            title="link para O Evangelho segundo o Espiritismo">
+            <span class="sidebar-icon text-white" style="background-color: orange;">
+              <i class="fa-solid fa-dove"></i>
+            </span>O Evangelho </span>
+          </a>
+          <a target="main" href="../4ceu/" class="sidebar-link sidebar-link-with-icon"
+            title="link para O Céu e o Inferno">
+            <span class="sidebar-icon text-white" style="background-color: red;">
+              <i class="fa-solid fa-fire"></i>
+            </span>O Céu e o Inferno </span>
+          </a>
+          <a target="main" href="../5gen/" class="sidebar-link sidebar-link-with-icon" title="link para A Gênese">
+            <span class="sidebar-icon text-white" style="background-color: green;">
+              <i class="fa-solid fa-seedling"></i>
+            </span>A Gênese </a>
+          <br />
+          <h5 class="sidebar-title">Projeto</h5>
+          <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+          <a target="main" href="../project/legal.html" class="sidebar-link sidebar-link-with-icon"
+            title="link para Avisos legais">
+            <span class="sidebar-icon">
+              <i class="fa-solid fa-balance-scale"></i>
+            </span>Legal </a>
+          <a target="main" href="../project/about.html" class="sidebar-link sidebar-link-with-icon"
+            title="link para Detalhes do projeto">
+            <span class="sidebar-icon">
+              <i class="fa-solid fa-file-lines"></i>
+            </span>Detalhes </a>
+          <a target="main" href="../project/blog.html" class="sidebar-link sidebar-link-with-icon"
+            title="link para Blog do projeto">
+            <span class="sidebar-icon">
+              <i class="fa-solid fa-blog"></i>
+            </span>Blog </a>
+          <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
+            class="sidebar-link sidebar-link-with-icon" title="link para repositório do projeto">
+            <span class="sidebar-icon">
+              <i class="fa-brands fa-github"></i>
+            </span>Github </a>
+          <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link sidebar-link-with-icon"
+            title="link para formulário de contato">
+            <span class="sidebar-icon">
+              <i class="fa-solid fa-comment"></i>
+            </span>Contato </a>
+          <br />
+          <h5 class="sidebar-title">Notas</h5>
+          <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+          <span class="sidebar-content" style="margin-top: 0px;">Atualizado em 27Mar23</span>
+          <br />
+          <span class="sidebar-link" style="margin-top: -50px;">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/br/" target="_blank"
+              title="link para descrição da licensa de uso">
+              <i class="fa-brands fa-creative-commons"></i>
+              <i class="fa-brands fa-creative-commons-by"></i>
+              <i class="fa-brands fa-creative-commons-nc"></i>
+              <i class="fa-brands fa-creative-commons-sa"></i> 3.0 BR
+            </a>
+          </span>
         </div>
       </div>
     </div>
-    <div class="d-flex">
-      <div class="ml-auto">
-        <div class="dropdown" style="position: relative; top: -32px;">
-          <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3"
-            aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-ellipsis-vertical"></i></button>
-          <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm" aria-labelledby="dropdown-toggle-btn-3">
-            <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
-              <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
-                    class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar contraste</span>
-              <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
-                    class="fa-solid fa-font" style="color: blue;"></i> </button>&nbsp;&nbsp;Diminuir letra</span>
-              <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
-                  style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"
-                    style="color: blue;"></i></button>&nbsp;&nbsp;Aumentar
-                letra</span>
-              <!-- <span>
-                <button class="btn btn-square mb-5"><i
-                    class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span> -->
-              <span><a target="ext" href="./media/sample.pdf" target="ext" class="btn btn-square mb-5" type="button"><i
-                    class="fa-solid fa-file" style="color: red;"></i></a>&nbsp;&nbsp;Abrir PDF</span>
+    </div>
+    <!-- End SIDEBAR -->
+    <!-- Start CONTENT-WRAPPER -->
+    <p>&nbsp;</p>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12"
+          style="height: 98vh; overflow: scroll; overscroll-behavior: none;">
+          <!-- Start PAGE BUTTONS -->
+          <div class="card m-10 bg-white-lm bg-very-dark-dm">
+            <div class="d-flex">
+              <div class="mr-auto">
+                <div class="dropdown"><button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown"
+                    type="button" id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"><i
+                      class="fa-solid fa-location-arrow" style="transform:translateY(2px) rotate(-45deg);
+"></i></button>
+                  <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
+                    <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                      <!--
+<span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"></i></button>&nbsp;&nbsp;Início</span></a>
+-->
+                      <span><a href="../../" target="_top" class="hyperlink text-reset text-decoration-none"><button
+                            class="btn btn-square mb-5"><i class="fa-solid fa-key fa-fw"
+                              style="color: grey;"></i></button></a>&nbsp;&nbsp;Código</span>
+                      <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                            class="btn btn-square mb-5"><i class="fa-solid fa-book-bookmark fa-fw"
+                              style="color: black;"></i></button></a>&nbsp;&nbsp;Livro</span>
+                      <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                            class="btn btn-square mb-5"><i class="fa-solid fa-bookmark fa-fw"
+                              style="color: red;"></i></button></a>&nbsp;&nbsp;Parte</span>
+                      <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                            class="btn btn-square mb-5"><i class="fa-solid fa-folder fa-fw"
+                              style="color: orange;"></i></button></a>&nbsp;&nbsp;Capítulo</span>
+                      <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                            class="btn btn-square mb-5"><i class="fa-solid fa-file fa-fw"
+                              style="color: lightblue;"></i></button></a>&nbsp;&nbsp;Item</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="d-flex">
+              <div class="ml-auto">
+                <div class="dropdown" style="position: relative; top: -32px;">
+                  <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3"
+                    aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-ellipsis-vertical"></i></button>
+                  <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm"
+                    aria-labelledby="dropdown-toggle-btn-3">
+                    <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                      <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
+                            class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar
+                        contraste</span>
+                      <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
+                            class="fa-solid fa-font" style="color: blue;"></i> </button>&nbsp;&nbsp;Diminuir
+                        letra</span>
+                      <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
+                          style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"
+                            style="color: blue;"></i></button>&nbsp;&nbsp;Aumentar
+                        letra</span>
+                      <!-- <span>
+<button class="btn btn-square mb-5"><i
+class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span> -->
+                      <span><a target="ext" href="../../media/sample.pdf" target="ext" class="btn btn-square mb-5"
+                          type="button"><i class="fa-solid fa-file" style="color: red;"></i></a>&nbsp;&nbsp;Abrir
+                        PDF</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
+            <!-- End PAGE BUTTONS -->
+            <!-- Start CONTENT -->
+            <div class="content m-0" style="min-height: 74vh;">
+              <!-- #endregion -->
+              <p><b>ESE</b></p> <!-- used B so heading can scale up or down-->
+              <p>Paragraph</p>
+            </div>
+            <!-- End CONTENT -->
+            <!-- Start FOOTER -->
+            <div class="position-relative bottom-0 left-5 w-full">
+              <hr class="mb-20 bg-dark-light-lm bg-light-dm" />
+              <div class="d-flex justify-content-between">
+                <div class="container-box">
+                  <p class="text-muted m-0 mb-5"><i class="fa-solid fa-arrow-left"></i> Anterior</p>
+                  <a href="#" class="m-0">PREV</a>
+                </div>
+                <div class="container-box text-right">
+                  <p class="text-muted m-0 mb-5">Próxima <i class="fa-solid fa-arrow-right"></i></p>
+                  <a href="#" class="m-0">NEXT</a>
+                </div>
+              </div>
             </div>
           </div>
+          <p>&nbsp;</p>
+        </div>
+        <!-- End FOOTER -->
+        <div class="col-xl-5 col-lg-5 col-md-5 hidden-sm-and-down">
+          <iframe src="../../angel-splash.html" name="ext" class="bg-very-dark w-full"
+            title="Painel de conteúdo complementar"
+            style="border: none; height: 98vh; overflow: scroll; overscroll-behavior: none;"></iframe>
         </div>
       </div>
     </div>
-    <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
-    <!-- End PAGE BUTTONS -->
+    <!-- End CONTENT-WRAPPER -->
+    <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script> <!-- -->
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+    <script src="../../assets/js/share.js" type="text/javascript" defer></script>
+    <script src="../../assets/js/fullscreen.js" type="text/javascript" defer></script>
+    <!-- API from W3schools.com -->
+  </body>
 
-    <body>
-      <!-- Start CONTENT -->
-      <div class="content m-0" style="min-height: 78vh;">
-        <p><b>ESE</b></p> <!-- used B so heading can scale up or down-->
-        <p>Paragraph</p>
-        </div>
-      
-        <!-- End CONTENT -->
-        <!-- Start FOOTER -->
-        <div class="position-relative bottom-0 left-5 w-full">
-          <hr class="mb-20 bg-dark-light-lm bg-light-dm" />
-          <div class="d-flex justify-content-between">
-            <div class="container-box">
-              <p class="text-muted m-0 mb-5"><i class="fa-solid fa-arrow-left"></i> Anterior</p>
-              <a href="#" class="m-0">PREV</a>
-            </div>
-            <div class="container-box text-right">
-              <p class="text-muted m-0 mb-5">Próxima <i class="fa-solid fa-arrow-right"></i></p>
-              <a href="#" class="m-0">NEXT</a>
-            </div>
-          </div>
-          <!-- End FOOTER -->
-          <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
-          <script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-          <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-          <script src="./assets/js/share.js"></script>
-    </body>
-
-</html>
+  </html>
