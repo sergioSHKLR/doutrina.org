@@ -1,151 +1,110 @@
+<!-- #MASTER INDEX -->
 <!DOCTYPE html>
-<html lang="pt_BR">
+<html lang="pt-BR">
+<!-- Start HEAD -->
 
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <meta name="viewport" content="width=device-width" />
-  <link rel="icon" href="./media/svg/logo.svg">
-  <title>doutrina.org</title>
-  <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
-  <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />   <!-- needed to fix bug of Hypothes.is on Chrome mobile (zoom on input type)-->
+  <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />   <!-- framework chosen for its dark mode and ease of use -->
+  <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>   <!-- Font Awesome free kit -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>   <!-- Google hosted library -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">   <!-- part of Halfmoon CSS framework -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
   <style>
     p {
       -webkit-text-size-adjust: auto;
       text-size-adjust: auto;
     }
 
-    ul,
-    li {
-      list-style-type: none;
-      margin-left: 20px;
+    b {
+      font-size: 150%;
     }
-    .badge {font-family: monospace;}
+    ul, li { margin-left: 15px;}
   </style>
-  <script src="https://hypothes.is/embed.js" async></script>
+  <script src="https://hypothes.is/embed.js" async></script> <!-- taken from Hypothes.is-->
 </head>
-<!-- PAGE BUTTONS START -->
-<div class="content-wrapper">
-  <div class="card ml-10 mr-20 mt-10 mb-10">
+<!-- Start PAGE BUTTONS -->
+<div class="content-wrapper" style="padding-right: 12px;">
+  <div class="card ml-10 mr-20 mt-10 mb-0 bg-white-lm bg-very-dark-dm">
     <div class="d-flex">
-      <!-- Flex grow by a factor of 1 -->
-      <div class="flex-grow-1">
-        <div class="dropdown with-arrow">
-          <button class="btn btn-dropdown-alignment mr-5 bg-light-lm" data-toggle="dropdown" type="button"
-            id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false">🏠<i class="fa fa-angle-down ml-5"
-              aria-hidden="true"></i>
-          </button>
+      <div class="mr-auto">
+        <div class="dropdown"><button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown" type="button"
+            id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-location-arrow"
+              style="transform:  translateY(2px) rotate(-45deg);
+              "></i></button>
           <div class="dropdown-menu bg-light-lm" aria-labelledby="dropdown-toggle-btn-3">
-            <a href="./" target="_top" class="dropdown-item">🏠&nbsp;Início</a>
-            <a href="#" class="dropdown-item">📔 O Livro dos Espíritos</a>
-          
-          </div>
-        </div>
-      </div>
-      <div><button title="Trocar contraste" class="btn btn-square btn-action mr-5 bg-light-lm"
-          onclick="halfmoon.toggleDarkMode()">
-          🌗
-        </button>
-        <button title="Diminuir letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button"
-          id="decreaseText" value="-1">🇦
-        </button>
-        <button title="Aumentar letra" class="btn btn-square btn-action mr-5 fontSize bg-light-lm" type="button"
-          id="increaseText" value="+1" style="font-size: 120%;">🇦
-        </button>
-        <button title="Narrar página" class="btn btn-square btn-action mr-5 bg-light-lm">🗨️</button>
-        <a title="Abrir PDF" target="ext" href="./media/sample.pdf" target="ext"
-          class="btn btn-square btn-action mr-5 bg-light-lm" type="button">📓</a>
-        <input title="Compartilhar página" class="btn btn-square btn-action mr-5 result bg-light-lm" type="submit"
-          value="❤️"></input>
-      </div>
-    </div>
-    <hr class="mb-20" />
-    <!-- PAGE BUTTONS END -->
-
-    <body>
-      <div class="content">
-        <p><b><span class="badge badge-pill">📔 lde</span> O LIVRO DOS ESPÍRITOS</b></p>
-        <ul>
-          <li><span class="badge badge-pill">🗂️ lde.0</span> Pré-textual</li>
-          <ul>
-            <li><span class="badge badge-pill">📑 lde.0.1</span> Folha de rosto</li>
-            <li><span class="badge badge-pill">📑 lde.0.2</span> Avisos legais</li>
-            <li><span class="badge badge-pill">📑 lde.0.3</span> Introdução</li>
-            <li><span class="badge badge-pill">📑 lde.0.4</span> Prolegômenos</li>
-          </ul>
-          <li><span class="badge badge-pill">🗂️ lde.1</span> Das causas primárias</li>
-          <ul>
-            <li><span class="badge badge-pill">📑 lde.1.1</span> De Deus</li>
-            <li><span class="badge badge-pill">📑 lde.1.2</span> Dos elementos gerais do Universo</li>
-            <li><span class="badge badge-pill">📑 lde.1.3</span> Da Criação</li>
-            <li><span class="badge badge-pill">📑 lde.1.4</span> Do princípio vital</li>
-          </ul>
-          <li><span class="badge badge-pill">🗂️ lde.2</span> Do mundo espírita</li>
-          <ul>
-            <li><span class="badge badge-pill">📑 lde.2.01</span> Dos Espíritos</li>
-            <li><span class="badge badge-pill">📑 lde.2.02</span> Da encarnação dos espíritos</li>
-            <li><span class="badge badge-pill">📑 lde.2.03</span> Da volta do Espírito à vida espiritual</li>
-            <li><span class="badge badge-pill">📑 lde.2.04</span> Da pluralidade das existências</li>
-            <li><span class="badge badge-pill">📑 lde.2.05</span> Considerações sobre a pluralidade das existências</li>
-            <li><span class="badge badge-pill">📑 lde.2.06</span> Da vida espírita</li>
-            <li><span class="badge badge-pill">📑 lde.2.07</span> Da volta do Espírito à vida corporal</li>
-            <li><span class="badge badge-pill">📑 lde.2.08</span> Da emancipação da alma</li>
-            <li><span class="badge badge-pill">📑 lde.2.09</span> Da intervenção dos Espíritos no mundo corporal</li>
-            <li><span class="badge badge-pill">📑 lde.2.10</span> Das ocupações e missões dos Espíritos</li>
-            <li><span class="badge badge-pill">📑 lde.2.11</span> Dos três reinos</li>
-          </ul>
-          <li><span class="badge badge-pill">🗂️ lde.3</span> Das Leis morais</li>
-          <ul>
-            <li><span class="badge badge-pill">📑 lde.3.01</span> Da lei divina ou natural</li>
-            <li><span class="badge badge-pill">📑 lde.3.02</span> Da lei de adoração</li>
-            <li><span class="badge badge-pill">📑 lde.3.03</span> Da lei do trabalho</li>
-            <li><span class="badge badge-pill">📑 lde.3.04</span> Da lei de reprodução</li>
-            <li><span class="badge badge-pill">📑 lde.3.05</span> Da lei de conservação</li>
-            <li><span class="badge badge-pill">📑 lde.3.06</span> Da lei de destruição</li>
-            <li><span class="badge badge-pill">📑 lde.3.07</span> Da lei de sociedade</li>
-            <li><span class="badge badge-pill">📑 lde.3.08</span> Da lei do progresso</li>
-            <li><span class="badge badge-pill">📑 lde.3.09</span> Da lei de igualdade</li>
-            <li><span class="badge badge-pill">📑 lde.3.10</span> Da lei de liberdade</li>
-            <li><span class="badge badge-pill">📑 lde.3.11</span> Da lei de justiça, de amor, e de caridade</li>
-            <li><span class="badge badge-pill">📑 lde.3.12</span> Da perfeição moral</li>
-          </ul>
-          <li><span class="badge badge-pill">🗂️ lde.4</span> Das esperanças e consolações</li>
-          <ul>
-            <li><span class="badge badge-pill">📑 lde.4.1</span> Das penas e gozos terrestres</li>
-            <li><span class="badge badge-pill">📑 lde.4.2</span> Das penas e gozos futuros</li>
-          </ul>
-          <li><span class="badge badge-pill">🗂️ lde.5</span> Conclusão</li>
-
-          <li><span class="badge badge-pill">🗂️ lde.6</span> Pós-textual</li>
-        </ul>
-        <p>&nbsp;</p>
-        <!-- Up next section start -->
-        <div class="d-flex border bg-light-lm bg-very-dark-dm p-20">
-          <div class="mr-auto">
-            <div class="text-left text-muted font-size-14">
-              <i class="fa-solid fa-arrow-left"></i> Anterior <br />
-              <a href="../../sample.html" class="hyperlink mr-5 font-size-18"> Início</a>
+            <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+              <!--
+          <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"></i></button>&nbsp;&nbsp;Início</span></a>
+          -->
+              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-key fa-fw" style="color: grey;"></i></button></a>&nbsp;&nbsp;<span style="font-family: monospace;">lde</span></span>
+              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-book-bookmark fa-fw" style="color: black;"></i></button></a>&nbsp;&nbsp;O Livro dos Espíritos</span>
+              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-bookmark fa-fw" style="color: red;"></i></button></a>&nbsp;&nbsp;0. Pré-textual</span>
+              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-folder fa-fw" style="color: orange;"></i></button></a>&nbsp;&nbsp;</span>
+              <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none "><button
+                    class="btn btn-square mb-5"><i
+                      class="fa-solid fa-file fa-fw" style="color: lightblue;"></i></button></a>&nbsp;&nbsp;Folha de rosto</span>
             </div>
           </div>
-          <div class="text-right text-muted font-size-14"> Próxima <i class="fa-solid fa-arrow-right"></i>
-            <br />
-            <a href="./lde.0.0.html" class="hyperlink ml-5 font-size-18"> Folha de rosto</a>
+        </div>
+      </div>
+    </div>
+    <div class="d-flex">
+      <div class="ml-auto">
+        <div class="dropdown" style="position: relative; top: -32px;">
+          <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-3"
+            aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-ellipsis-vertical"></i></button>
+          <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm" aria-labelledby="dropdown-toggle-btn-3">
+            <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+              <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
+                    class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar contraste</span>
+              <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
+                    class="fa-solid fa-font" style="color: blue;"></i> </button>&nbsp;&nbsp;Diminuir letra</span>
+              <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
+                  style="font-size: 120%;"><i class="fa-solid fa-font fa-lg" style="color: blue;"></i></button>&nbsp;&nbsp;Aumentar
+                letra</span>
+              <!-- <span>
+                <button class="btn btn-square mb-5"><i
+                    class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span> -->
+              <span><a target="ext" href="./media/sample.pdf" target="ext" class="btn btn-square mb-5" type="button"><i
+                    class="fa-solid fa-file" style="color: red;"></i></a>&nbsp;&nbsp;Abrir PDF</span>
+            </div>
           </div>
         </div>
       </div>
-      <!-- Up next section end -->
-  </div>
-  <script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
-  <script src="./assets/js/share.js"></script>
-  </body>
+    </div>
+    <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
+    <!-- End PAGE BUTTONS -->
+
+    <body>
+      <!-- Start CONTENT -->
+      <div class="content">
+        <p><b>LDE</b></p> <!-- used B so heading can scale up or down-->
+        <p>Paragraph</p>
+        <!-- End CONTENT -->
+        <!-- Start FOOTER -->
+        <hr class="m-20 bg-dark-light-lm bg-light-dm">
+        <p class="text-right text-muted">Próxima&nbsp;&nbsp;<i class="fa-solid fa-arrow-right"></i><br />
+          <a href="#" class="hyperlink ml-5" style="font-size: 120%;">Next Title</a>
+        </div>
+      </div>
+  </div> <!-- End FOOTER -->
+</div>
+<script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+<script src="./assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+<script src="./assets/js/share.js"></script>
+</body>
 
 </html>
