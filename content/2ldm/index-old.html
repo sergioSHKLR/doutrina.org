@@ -1,0 +1,539 @@
+<!-- #MASTER INDEX -->
+<!DOCTYPE html>
+<html lang="pt-BR" class="auto-scaling-disabled">
+
+<head>
+  <!-- Meta tags -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+
+  <title>Doutrina.org</title>
+
+  <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
+  <meta name="keywords"
+    content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
+  <meta name="author" content="Sergio SHKLR">
+
+  <!-- PWA -->
+  <link href="../../pwa/favicon.svg" rel="icon" type="image/svg+xml">
+  <link href="../../pwa/favicon.png" rel="icon" type="image/png">
+  <link href="../../pwa/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="../../pwa/site.webmanifest" rel="manifest">
+  <meta name="theme-color" content="#333" />
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+    const el = document.createElement('pwa-update');
+    document.body.appendChild(el);
+  </script>
+
+  <!-- Halfmoon CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+  <!-- framework chosen for its dark mode and ease of use -->
+  <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
+  <!-- Font Awesome free kit -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <!-- Google hosted library -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <!-- part of Halfmoon CSS framework -->
+  <style>
+    p {
+      -webkit-text-size-adjust: auto;
+      text-size-adjust: auto;
+    }
+
+    b {
+      font-size: 150%;
+    }
+
+    ul,
+    li {
+      margin-left: 10px; list-style-type: none;
+    }
+  </style>
+</head>
+
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true"
+  data-sidebar-shortcut-enabled="true" data-sidebar-hidden="hidden">
+  <!-- Modals go here -->
+  <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
+
+  <!-- Page wrapper start -->
+  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-type="overlayed-all">
+
+    <!-- Navbar start -->
+    <nav class="navbar bg-light-lm bg-dark-dm">
+      <div class="navbar-content">
+        <button id="toggle-sidebar-btn" class="btn btn-square" type="button" onclick="halfmoon.toggleSidebar()"
+          aria-label="botão de menu">
+          <i class="fa-solid fa-bars fa-fw" aria-hidden="true" title="botão de menu"></i>
+        </button>
+      </div>
+      <a href="../../" class="navbar-brand">
+        <img src="../../media/png/logo.png" alt="logo de doutrina.org"> doutrina.org </a>
+      <div class="navbar-content ml-auto">
+        <input class="btn btn-square result mr-5" type="button" value="❤️" title="Compartilhe!"
+          aria-label="compartilhar págima">
+        <!-- 
+<button class="btn btn-square mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
+<i class="fa-solid fa-circle-half-stroke"></i>
+</button> -->
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal"
+          aria-label="botão de tela normal">
+          <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
+        </button>
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia"
+          aria-label="botão de tela cheia">
+          <i class="fa-regular fa-square" aria-hidden="true"></i>
+        </button>
+      </div>
+    </nav>
+    <!-- Navbar end -->
+
+    <!-- Sidebar overlay -->
+    <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+
+    <!-- Sidebar start -->
+    <div class="sidebar bg-light-lm bg-dark-dm">
+      <div class="sidebar-menu ">
+  <!--      <h5 class="sidebar-title">Pesquisar</h5>
+-->        <div class="sidebar-content mt-0">
+       <!-- <input type="text" class="form-control bg-white text-dark" placeholder="termos..."
+            label="area de pesquisa de termos"> -->
+          <div class="mt-10 font-size-12"></div>
+        </div>
+        <h5 class="sidebar-title">Obras Básicas</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <a href="./" class="sidebar-link sidebar-link-with-icon" title="link para O Livro dos Espíritos">
+          <span class="sidebar-icon text-white" style="background-color: blue;;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Livro dos Espíritos </a>
+        <a href="../2ldm/" class="sidebar-link sidebar-link-with-icon" title="link para O Livro dos Médiuns">
+          <span class="sidebar-icon text-white" style="background-color: purple;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Livro dos Médiuns </spam>
+        </a>
+        <a href="../3ese/" class="sidebar-link sidebar-link-with-icon"
+          title="link para O Evangelho segundo o Espiritismo">
+          <span class="sidebar-icon text-white" style="background-color: orange;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Evangelho </span>
+        </a>
+        <a href="../4ceu/" class="sidebar-link sidebar-link-with-icon" title="link para O Céu e o Inferno">
+          <span class="sidebar-icon text-white" style="background-color: red;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Céu e o Inferno </span>
+        </a>
+        <a href="../5gen/" class="sidebar-link sidebar-link-with-icon" title="link para A Gênese">
+          <span class="sidebar-icon text-white" style="background-color: green;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>A Gênese </a>
+        <br />
+        <h5 class="sidebar-title">Projeto</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <a href="../project/legal.html" class="sidebar-link sidebar-link-with-icon" title="link para Avisos legais">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-balance-scale"></i>
+          </span>Legal </a>
+        <a href="../project/about.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Detalhes do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-file-lines"></i>
+          </span>Detalhes </a>
+        <a href="../project/blog.html" class="sidebar-link sidebar-link-with-icon" title="link para Blog do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-blog"></i>
+          </span>Blog </a>
+        <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
+          class="sidebar-link sidebar-link-with-icon" title="link para repositório do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-brands fa-github"></i>
+          </span>Github </a>
+
+          <a target="ext" href="../../video-conf.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para repositório do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-video"></i>
+          </span>Estudo </a>
+
+        <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link sidebar-link-with-icon"
+          title="link para formulário de contato">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-comment"></i>
+          </span>Contato </a>
+        <br />
+        <h5 class="sidebar-title">Notas</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <span class="sidebar-content" style="margin-top: 0px;">Atualizado em 30Mar23</span>
+        <br />
+        <span class="sidebar-link" style="margin-top: -50px;">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/br/" target="_blank"
+            title="link para descrição da licensa de uso">
+            <i class="fa-brands fa-creative-commons"></i>
+            <i class="fa-brands fa-creative-commons-by"></i>
+            <i class="fa-brands fa-creative-commons-nc"></i>
+            <i class="fa-brands fa-creative-commons-sa"></i> 3.0 BR
+          </a>
+        </span>
+      </div>
+    </div>
+    <!-- Sidebar end -->
+
+    <!-- Content wrapper start -->
+    <div class="content-wrapper bg-light-lm bg-dark-light-dm">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12"
+            style="height: 97vh; overflow: scroll; overscroll-behavior: auto;">
+            <!-- Start PAGE BUTTONS -->
+            <div class="card m-10 bg-white-lm bg-dark-dm">
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <div class="dropdown">
+                    <button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown" type="button"
+                      id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"
+                      aria-label="botão de localização / navegação"><i class="fa-solid fa-location-arrow" style="transform:translateY(2px) rotate(-45deg);
+  "></i></button>
+                    <div class="dropdown-menu bg-light-lm w-250" aria-labelledby="dropdown-toggle-btn-1">
+                      <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <!--
+  <span><a href="../../" target="_top" class="hyperlink text-reset text-decoration-none"><button class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"></i></button>&nbsp;&nbsp;Início</span></a>
+  -->
+                        <span><button class="btn btn-square mb-5"><i
+                                class="fa-solid fa-key fa-fw"
+                                style="color: grey;"></i></button>&nbsp;&nbsp;ldm</span>
+                        <span><button
+                              class="btn btn-square mb-5" style="background-color: purple;"><i class="fa-solid fa-book-bookmark fa-fw"
+                                style="color: white;"></i></button>&nbsp;&nbsp;O Livro dos Médiuns</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="ml-auto">
+                  <div class="dropdown" style="position: relative; top: -32px;">
+                    <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-2"
+                      aria-haspopup="true" aria-expanded="false" aria-label="botão de ajustes de tela / texto"><i
+                        class="fa-solid fa-ellipsis-vertical"></i></button>
+                    <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm"
+                      aria-labelledby="dropdown-toggle-btn-3">
+                      <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
+                              class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar
+                          contraste</span>
+                        <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
+                              class="fa-solid fa-font" style="color: blue;"></i> </button>&nbsp;&nbsp;Diminuir
+                          letra</span>
+                        <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
+                            style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"
+                              style="color: blue;"></i></button>&nbsp;&nbsp;Aumentar
+                          letra</span>
+                        <!-- <span>
+  <button class="btn btn-square mb-5"><i
+  class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span> -->
+                        <span><a target="ext" href="../../media/sample.pdf" target="ext" class="btn btn-square mb-5"
+                            type="button"><i class="fa-solid fa-file" style="color: red;"></i></a>&nbsp;&nbsp;Abrir
+                          PDF</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
+              <!-- End PAGE BUTTONS -->
+              <!-- Start CONTENT -->
+              <div class="content m-0" style="min-height: 75vh;">
+                <!-- #endregion -->
+                <style>
+                  .demo {
+                    width:100%;
+                    height:100%;
+                    padding:5px;
+                  }
+                  .demo th {
+                    padding:5px;
+                    background:#F0F0F0;
+                  }
+                  .demo td {
+                    padding:5px;
+                  }
+                </style>
+                <table class="demo">
+                 
+                  	<tbody>
+                    <td>ldm</td>
+                    <td><span class="btn btn-square" style="background-color: purple"><i class="fa-solid fa-book-bookmark fa-fw" style="color: white;"></i></span></td>
+                    <td>O Livro dos Médiuns</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.0</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-bookmark" style="background-color: transparent; color: red; "></i></span></td>
+                    <td>Parte 0. Pré-textual</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.0.1</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-file" style="background-color: transparent; color: lightblue;"></i></span></td>
+                    <td>Folha de rosto</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.0.2</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-file" style="background-color: transparent; color: lightblue;"></i></span></td>
+                    <td>Avisos legais</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.0.3</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-file fa-fw" style="background-color: transparent; color: lightblue;"></i></span></td>
+                    <td>Introdução</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.1</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-bookmark" style="background-color: transparent; color: red; "></i></span></td>
+                    <td>Parte 1. Noções preliminares</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.1.1</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Há Espíritos?</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.1.2</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Do maravilhoso e do sobrenatural</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.1.3</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Do método</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.1.4</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dos sistemas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-bookmark" style="background-color: transparent; color: red; "></i></span></td>
+                    <td>Parte 2. Das manifestações espíritas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.01</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da ação dos Espíritos sobre a matéria</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.02</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das manifestações físicas. Das mesas girantes</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.03</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das manifestações inteligentes</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.04</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da teoria das manifestações físicas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.05</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das manifestações físicas espontâneas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.06</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das manifestações visuais</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.07</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da bicorporeidade e da transfiguração</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.08</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Do laboratório do mundo invisível</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.09</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dos lugares assombrados</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.10</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da natureza das comunicações</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.11</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da sematologia e da tiptologia</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.12</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da pneumatografia ou escrita direta. Da pneumatofonia</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.13</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da psicografia</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.14</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dos médiuns</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.15</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dos médiuns escreventes ou psicógrafos</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.16</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dos médiuns especiais</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.17</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da formação dos médiuns</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.18</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dos inconvenientes e perigos da mediunidade</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.19</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Do papel dos médiuns nas comunicações espíritas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.20</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da influência moral do médium.</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.21</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da influência do meio</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.22</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da mediunidade nos animais</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.23</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da obsessão</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.24</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Da identidade dos Espíritos</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.25</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das evocações</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.26</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das perguntas que se podem fazer aos Espíritos</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.27</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das contradições e das mistificações</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.28</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Do charlatanismo e do embuste</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.29</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Das reuniões e das Sociedades Espíritas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.30</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Regulamento da Sociedade Parisiense de Estudos Espíritas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.31</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Dissertações espíritas</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.2.32</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Vocabulário espírita</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.3</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-bookmark" style="background-color: transparent; color: red; "></i></span></td>
+                    <td>Parte 3. Pós-textual</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.3.1</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-file" style="background-color: transparent; color: lightblue;"></i></span></td>
+                    <td>Nota explicativa</td>
+                  </tr>
+                  <tr>
+                    <td>ldm.3.2</td>
+                    <td><span class="btn btn-square"><i class="fa-solid fa-folder fa-fw" style="background-color: transparent; color: orange;"></i></span></td>
+                    <td>Indíce geral</td>
+                  </tr>
+                  <tbody>
+                </table>
+              </div>
+              <!-- End CONTENT -->
+              <!-- Start FOOTER -->
+              <div class="position-relative bottom-0 left-5 w-full">
+                <hr class="mb-20 bg-dark-light-lm bg-light-dm" />
+                <div class="d-flex justify-content-between">
+                  <div class="container-box">
+                    <p class="text-muted m-0 mb-5"><i class="fa-solid fa-arrow-left"></i> Anterior</p>
+                    <a href="../1lde/" class="m-0">O Livro dos Espíritos</a>
+                  </div>
+                  <div class="container-box text-right">
+                    <p class="text-muted m-0 mb-5">Próxima <i class="fa-solid fa-arrow-right"></i></p>
+                    <a href="../3ese/" class="m-0">O Evangelho</a>
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End FOOTER -->
+          <div class="col-xl-5 col-lg-5 col-md-5 hidden-sm-and-down">
+            <iframe src="../../angel-splash.html" name="ext" class="bg-very-dark w-full"
+              title="Painel de conteúdo complementar"
+              style="border: none; height: 97vh; overflow: scroll; overscroll-behavior: auto;"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Content wrapper end -->
+ 
+  </div>
+
+  <!-- Page wrapper end -->
+
+  <!-- Halfmoon JS -->
+  <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script> <!-- -->
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  <script src="../../assets/js/share.js" type="text/javascript" defer></script>
+  <script src="../../assets/js/fullscreen.js" type="text/javascript" defer></script>
+  <script src="../../assets/js/font-scaler.js" type="text/javascript" defer></script>
+  <!-- API from W3schools.com -->
+</body>
+
+</html>
