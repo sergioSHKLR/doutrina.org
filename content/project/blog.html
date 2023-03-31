@@ -1,91 +1,350 @@
+<!-- #MASTER INDEX -->
 <!DOCTYPE html>
-<html lang="pt_BR">
-
+<html lang="pt-BR" class="auto-scaling-disabled">
 <head>
+  <!-- Meta tags -->
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <meta name="viewport" content="width=device-width" />
-  <link rel="icon" href="../../media/svg/logo.svg">
-  <title>doutrina.org</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+  <title>Doutrina.org</title>
+  <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
+  <meta name="keywords"
+    content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
+  <meta name="author" content="Sergio SHKLR">
+  <!-- PWA -->
+  <link href="./pwa/favicon.svg" rel="icon" type="image/svg+xml">
+  <link href="./pwa/favicon.png" rel="icon" type="image/png">
+  <link href="./pwa/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="./pwa/site.webmanifest" rel="manifest">
+  <meta name="theme-color" content="#333" />
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
+  <!-- Halfmoon CSS -->
   <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+  <!-- framework chosen for its dark mode and ease of use -->
   <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <script src='https://cdnjs.fireflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+  <!-- Font Awesome free kit -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <!-- Google hosted library -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <!-- part of Halfmoon CSS framework -->
   <style>
     p {
       -webkit-text-size-adjust: auto;
       text-size-adjust: auto;
     }
+    b {
+      font-size: 150%;
+    }
+    ul,
+    li {
+      margin-left: 10px;
+    }
+    body {
+      background-color: whitesmoke;
+    }
   </style>
-  <script src="https://hypothes.is/embed.js" async></script>
 </head>
-
-<div class="content-wrapper">
-<div class="content">
-  <div class="text-right m-20">
-<!--
-    <audio controls autoplay muted class="btn bg-light">
-      <source src="horse.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-
-  <br />
-  <br /> -->
-  <div class="btn-group" role="group" aria-label="Basic example">
-
-    <button class="btn btn-square btn-action mr-5" onclick="halfmoon.toggleDarkMode()" data-toggle="tooltip" data-title="Trocar contraste"  data-placement="bottom">
-      <i class="fa-solid fa-circle-half-stroke"></i>
-    </button>
-    <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="decreaseText" data-toggle="tooltip" data-title="Diminuir letra"  data-placement="bottom"
-      value="-1">
-      <i class="fa-solid fa-font" aria-hidden="true"></i>
-    </button>
-    <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="increaseText" data-toggle="tooltip" data-title="Aumentar letra"  data-placement="bottom"
-      value="+1">
-      <i class="fa-solid fa-font fa-lg" aria-hidden="true"></i>
-    </button>
-    <button class="btn btn-square btn-action mr-5" type="button"  data-toggle="tooltip" data-title="Ouvir narração"  data-placement="bottom">
-      <i class="fa-solid fa-volume-high"></i>
-    </button>
-    <a href="../../media/sample.pdf" target="ext" class="btn btn-square btn-action mr-5" type="button"
-    data-toggle="tooltip" data-title="Abrir PDF"  data-placement="bottom">
-      <i class="fa-solid fa-file-lines"></i>
-    </a>
-    <input class="btn btn-square btn-action mr-5 result" type="submit" title="Compartilhe esta página" value="🖤" style="color: red;"></input>
-  </div>
-  </div>
-  </div>
-
-  <body>
-    <div class="main ml-20">
-      <p>BLOG SAMPLE</p>
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true"
+  data-sidebar-shortcut-enabled="true" data-sidebar-hidden="hidden">
+  <!-- Modals go here -->
+  <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
+  <!-- Page wrapper start -->
+  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-type="overlayed-all">
+    <!-- Navbar start -->
+    <nav class="navbar bg-light-lm bg-dark-dm">
+      <div class="navbar-content">
+        <button id="toggle-sidebar-btn" class="btn btn-square" type="button" onclick="halfmoon.toggleSidebar()"
+          aria-label="botão de menu">
+          <i class="fa-solid fa-bars fa-fw" aria-hidden="true" title="botão de menu"></i>
+        </button>
+      </div>
+      <a href="./" class="navbar-brand">
+        <img src="./media/png/logo.png" alt="logo de doutrina.org"> doutrina.org </a>
+      <div class="navbar-content ml-auto">
+        <input class="btn btn-square result mr-5" type="button" value="❤️" title="Compartilhe!"
+          aria-label="compartilhar págima">
+        <!-- 
+<button class="btn btn-square mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
+<i class="fa-solid fa-circle-half-stroke"></i>
+</button> -->
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal"
+          aria-label="botão de tela normal">
+          <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
+        </button>
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia"
+          aria-label="botão de tela cheia">
+          <i class="fa-regular fa-square" aria-hidden="true"></i>
+        </button>
+      </div>
+    </nav>
+    <!-- Navbar end -->
+    <!-- Sidebar overlay -->
+    <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+   <!-- Sidebar start -->
+    <div class="sidebar bg-light-lm bg-dark-dm">
+      <div class="sidebar-menu ">
+        <!--  <h5 class="sidebar-title">Pesquisar</h5> -->
+        <div class="sidebar-content mt-0">
+      <!--<input type="text" class="form-control bg-white text-dark" placeholder="termos..." label="area de pesquisa de termos"> -->
+          <div class="mt-10 font-size-12"></div> 
+        </div>
+        <h5 class="sidebar-title">Obras Básicas</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <a href="./content/1lde/" class="sidebar-link sidebar-link-with-icon"
+          title="link para O Livro dos Espíritos">
+          <span class="sidebar-icon text-white" style="background-color: blue;;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Livro dos Espíritos </a>
+        <a href="./content/2ldm/" class="sidebar-link sidebar-link-with-icon"
+          title="link para O Livro dos Médiuns">
+          <span class="sidebar-icon text-white" style="background-color: purple;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Livro dos Médiuns </spam>
+        </a>
+        <a href="./content/3ese/" class="sidebar-link sidebar-link-with-icon"
+          title="link para O Evangelho segundo o Espiritismo">
+          <span class="sidebar-icon text-white" style="background-color: orange;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Evangelho </span>
+        </a>
+        <a href="./content/4ceu/" class="sidebar-link sidebar-link-with-icon"
+          title="link para O Céu e o Inferno">
+          <span class="sidebar-icon text-white" style="background-color: red;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Céu e o Inferno </span>
+        </a>
+        <a href="./content/5gen/" class="sidebar-link sidebar-link-with-icon" title="link para A Gênese">
+          <span class="sidebar-icon text-white" style="background-color: green;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>A Gênese </a>
+        <br />
+        <h5 class="sidebar-title">Projeto</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <a href="./content/project/legal.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Avisos legais">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-balance-scale"></i>
+          </span>Legal </a>
+        <a href="./content/project/about.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Detalhes do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-file-lines"></i>
+          </span>Detalhes </a>
+        <a href="./content/project/blog.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Blog do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-blog"></i>
+          </span>Blog </a>
+        <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
+          class="sidebar-link sidebar-link-with-icon" title="link para repositório do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-brands fa-github"></i>
+          </span>Github </a>
+        <a target="ext" href="./content/project/video-conf.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para repositório do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-video"></i>
+          </span>Estudo </a>
+        <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link sidebar-link-with-icon"
+          title="link para formulário de contato">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-comment"></i>
+          </span>Contato </a>
+        <br />
+        <h5 class="sidebar-title">Notas</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <span class="sidebar-content" style="margin-top: 0px;">Atualizado em 30Mar23</span>
+        <br />
+        <span class="sidebar-link" style="margin-top: -50px;">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/br/" target="_blank"
+            title="link para descrição da licensa de uso">
+            <i class="fa-brands fa-creative-commons"></i>
+            <i class="fa-brands fa-creative-commons-by"></i>
+            <i class="fa-brands fa-creative-commons-nc"></i>
+            <i class="fa-brands fa-creative-commons-sa"></i> 3.0 BR
+          </a>
+        </span>
+      </div>
     </div>
-    <script src="../../../assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-    <script src='https://cdnjs.fireflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
-    <script>
-      let shareData = {
-        title: 'doutrina.org',
-        text: '❤️ 💋 💞 💕 😘 Amai-vos e instruí-vos 🎓',
-        url: 'https://doutrina.org',
-      }
-
-      const btn = document.querySelector('input');
-      const resultPara = document.querySelector('.result');
-
-      btn.addEventListener('click', () => {
-        navigator.share(shareData)
-          .then(() =>
-            resultPara.textContent = 'Ok'
-          )
-          .catch((e) =>
-            resultPara.textContent = 'Er'
-          )
-      });
-    </script>
-
-  </body>
-
+    <!-- Sidebar end -->
+    <!-- Content wrapper start -->
+    <div class="content-wrapper bg-light-lm bg-dark-light-dm">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12"
+            style="height: 97vh; overflow: scroll; overscroll-behavior: auto;">
+            <!-- Start PAGE BUTTONS -->
+            <div class="card m-10 bg-white-lm bg-dark-dm">
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <div class="dropdown">
+                    <button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown" type="button"
+                      id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"
+                      aria-label="botão de localização / navegação"><i class="fa-solid fa-location-arrow" style="transform:translateY(2px) rotate(-45deg);
+  "></i></button>
+                    <div class="dropdown-menu bg-light-lm w-300" aria-labelledby="dropdown-toggle-btn-1">
+                      <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
+                          class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"
+                            style="color: black;"></i></button></a>&nbsp;&nbsp;Início</span>
+                    <span style="text-indent: 10px;"><a href="./" target="_top" class="hyperlink text-reset text-decoration-none">
+                      
+                      <button
+                          class="btn btn-square mb-5"><i class="fa-solid fa-blog fa-fw"
+                            style="color: black;"></i></button></a>&nbsp;&nbsp;Blog</span>
+                    <span style="text-indent: 20px;"><a href="./" target="_top" class="hyperlink text-reset text-decoration-none">
+                      <!-- 
+                      <button
+                          class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"
+                            style="color: black;"></i></button></a>&nbsp;&nbsp;Início</span>
+                            <span style="text-indent: 30px;"><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
+                              class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"
+                                style="color: black;"></i></button></a>&nbsp;&nbsp;Início</span> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="ml-auto">
+                  <div class="dropdown" style="position: relative; top: -32px;">
+                    <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-2"
+                      aria-haspopup="true" aria-expanded="false" aria-label="botão de ajustes de tela / texto"><i
+                        class="fa-solid fa-ellipsis-vertical"></i></button>
+                    <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm"
+                      aria-labelledby="dropdown-toggle-btn-3">
+                      <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
+                              class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar
+                          contraste</span>
+                        <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
+                              class="fa-solid fa-font" style="color: blue;"></i> </button>&nbsp;&nbsp;Diminuir
+                          letra</span>
+                        <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
+                            style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"
+                              style="color: blue;"></i></button>&nbsp;&nbsp;Aumentar
+                          letra</span>
+                        <!-- <span>
+  <button class="btn btn-square mb-5"><i
+  class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span> -->
+                        <span><a target="ext" href="./media/sample.pdf" target="ext" class="btn btn-square mb-5"
+                            type="button"><i class="fa-solid fa-file" style="color: red;"></i></a>&nbsp;&nbsp;Abrir
+                          PDF</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
+              <!-- End PAGE BUTTONS -->
+              <!-- Start CONTENT -->
+              <div class="content m-0" style="min-height: 75vh;">
+                <!-- #endregion -->
+                <p><b>04 de Agosto de 2022</b></p>
+<p>Comecei este projeto no fim de Dezembro de 2021, estimulado por oradores Espíritas que faziam a tal observação: </p>
+<p>"Lendo apenas 7 páginas por dia, você terá lido todos as cinco obras básicas da Doutrina em apenas um ano."</p>
+<p>Como tenho predileção pelo que é digital, coletei os PDF&#39;s dos cinco livros (LDE, LDM, ESE, CEU e GEN) e retirei de cada um tudo o que não fazia parte do texto principal (capa, contracapa, notas, páginas de título, páginas em branco, sumário, etc). Com isso consegui diminuir o número de páginas diárias para apenas 5 (para ser exato, 1882 ÷ 365 ≈ 5.16).</p>
+<p>Faltava então achar um meio de não sobrecarregar o usuário com um arquivo tão comprido e sem marcações de dias.</p>
+<p>Resolvi então separar o arquivo em 365 partes, a maioria com 5 páginas e o restante (1882 - (365 x 5) = 57) dividido pelo mês de Dezembro, resultando numa carga diária de 7 páginas por dia. Ainda assim, resolvi chamar esta iniciativa de Projeto 5.</p>
+<p>Com os 365 PDF&#39;s prontos, passei então a criar um calendário público no Google para poder anexá-los. Após criar 365 eventos e anexar 365 arquivos (armazenados no Google Drive), tudo estava pronto para que o usuário apenas assinasse o calendário e todo dia este receberia um lembrete (e-mail ou celular) para sua leitura diária, com o seu PDF anexado. Os eventos foram criados com repetição anual e assim todo dia 1 de Janeiro, você poderia começar o ano com a resolução de ler a Doutrina por inteiro.</p>
+<p>Depois de algumas semanas, comecei a identificar pequenos problemas como:</p>
+<ul class="gray">
+	<li>como criar, manter e compartilhar anotações?</li>
+	<li>como alguém poderia aderir fora da data de 1 de Janeiro?</li>
+</ul>
+<p>O <i>Google</i> <i>Drive</i> tem limitações para a anotações de PDF&#39;s e o compartilhamento das mesmas. Entretanto tem uma robusta ferramenta interna para o comentário de <i>Google</i> <i>Docs</i>. Sendo assim, por várias e várias semanas tentei de várias formas extrair, copiar, colar, ou digitar, o texto completo dos cinco livros para o formato <i>Google</i> <i>Docs</i> ou <i>Word</i>, pois qualquer um dos dois seria passível de usufruir da plataforma de comentários e chats do <i>Google</i> <i>Drive</i>. Tive problemas com fidelidade da extração, compatibilidade de editores, e tamanho dos arquivos, já que estes sobrecarregavam o software e este deixava de responder.</p>
+<p>Neste meio tempo de poucos acertos, decidi fazer uma modificação temporária na plataforma dos PDF&#39;s e solucionar os dois problemas citados acima. Migrando para o <i>Adobe</i> <i>Document</i> <i>Cloud</i>, consegui uma plataforma muito mais robusta de marcações, anotações, e o compartilhamento das mesmas.</p>
+<p>Entretanto, o advento de soluções gerou problemas novos. A fragmentação das obras em 365 partes impedia que:</p>
+<ul class="gray">
+	<li>você pudesse fazer buscas por termos entre os cinco livros</li>
+	<li>consultar suas próprias notas, estando as mesmas dispersas entre 365 arquivos</li>
+</ul>
+<p>Para se conseguir facilitar a adesão fora do dia 1 de Janeiro, tive que combinar uma planilha com links pré-determinados e fórmulas que determinassem o link correto, de acordo com a data de adesão do usuário. Após duro trabalho de migrar 365 arquivos, copiar 365 links, e modificar 365 eventos (apontando para <i>Adobe</i> <i>Cloud</i> ao invés do anexo do <i>Google</i> <i>Drive</i>), tive então que pesquisar uma ferramenta de mala-direta que (pelo menos, parcialmente) automatizasse o processo de mandar vários e-mails por dia.</p>
+<p>Dentre vários concorrentes, decidi por usar o <i>YAMM</i> pelo seu <i>free</i> <i>tier</i> e facilidade de acoplação com o <i>Google</i> <i>Sheets</i>. Criei o e-mail padrão e alguns macros para facilitar um pouco mais o processo. Estavam então solucionados dois problemas, enquanto eu passava dificuldades com a formatação <i>DOC</i>/<i>WORD</i>.</p>
+<p>Após semanas de frustrações no modo texto/editor, decidi migrar para o formato EPUB, sendo este a plataforma mais correta para livros. O que se perdia na colaboração em grupo, ganhava-se no pequeno tamanho de arquivo, habilidade de formatação XHTML/HTML, anotações, marcações, e em algumas plataformas, dicionário (e até Wikipedia) embutido.</p>
+<p>Após muita busca online, descobri o portal Luz Espírita, no qual eles disponibilizavam os cinco livros da Doutrina, numa tradução mais acessível do que a de Guillon Ribeiro e com várias notas de rodapé explicativas, e até algumas ilustrações!</p>
+<p>Fiquei muito feliz e agradecido com o achado (obrigado, Louis Neilmoris) e descartando os editores de texto, passei a editar os EPUB&#39;s  usando o Calibre para Linux no meu Chromebook. </p>
+<p>Faziam alguns anos que havia me aposentado e decidi fazer alguns cursos profissionalizantes. Foi minha primeira experiência com <i>textbooks</i> americanos e gostei muito da padronização, uso de cores, e diagramação. Cada uma dessas ferramentas facilitava a busca, discriminação (entre variáveis) e retenção do conteúdo.</p>
+<p>Decidi então quebrar com a monotonia  do livro preto no branco e decidi criar padrões para de cores e tipografia para a nossa querida Doutrina. Para cor de acento, decidi me basear nas cores de capa das edições da Federação Espírita Brasileira (FEB), sendo estas as mais difundidas, facilitaria o reconhecimento das mesmas por usuários de livros impressos.</p>
+<p>Com inspirações em Kardec e na Bíblia, criei os seguintes padrões para serem utilizados nesta nova versão digital da Doutrina:</p>
+<ul>
+	<li>textos de Allan Kardec em <span class="serif">fundo branco, letras negras, e serifa normal</span></li>
+	<li>comunicações espirituais em <span class="blue"><span class="serif">fundo azul, letras negras, e serifa em itálico</span></span></li>
+	<li>passagens bíblicas em <span class="yellow">fundo amarelo, letras negras, e serifa em itálico</span></li>
+	<li>palavras atribuídas a Jesus em <span class="yellow red">fundo amarelo, letras vermelhas e serifa em itálico</span></li>
+	<li>comentários não-originais em <span class="gray sans">fundo branco, letras cinza, e sem-serifa normal</span></li>
+</ul>
+<p>Passei então a limpar e reformatar os arquivos de Louis Neilmoris numa coletânea única, com marcações de partes, capítulos, e na tipografia/cores acima.</p>
+<p>Aprendi muito sobre o formato EPUB mas fiquei decepcionado com a fragmentação de utilidades em plataformas diferentes (<i>Kindle</i>, <i>Google</i> <i>Books</i>, <i>eReaders</i>, etc). Se no formato PDF, os leitores (meio que) obedecem à um certo padrão de utilidades, no formato EPUB, existe fragmentação no formato (MOBI, EPUB, PDF, AZ3, etc) e na utilidades do <i>app</i> em si.</p>
+<p>Mais uma vez, decidi descartar todo o progresso feito para realizar uma mudança de plataforma. Afinal, <u>se o trabalho vale a pena terminar, vale a pena recomeçar também!</u><i></i></p>
+<p>O formato web possibilitava o maior número de soluções possíveis. Entre elas: </p>
+<ul class="gray">
+	<li>Acesso universal, sem necessidade de app específico</li>
+	<li>Acesso ilimitado à tipografia e cores de fundo</li>
+	<li>Livre implementação de scripts que facilitam anotações, marcações, e até accessibilidade (contraste, leitor de tela, tradução, etc)</li>
+	<li>Possibilidade de atualizações sem deixar cópias órfãs </li>
+</ul>
+<p>Mudando para o formato HTML na web, decidi por me limitar à páginas estáticas (sem CMS ou <i>Wordpress</i>). Sou auto-didata mas não inteiramente versado em HTML e CSS, e com conhecimento muito limitado em Java, mas o bastante para fazer ajustes leves em <i>scripts</i> de terceiros.</p>
+<p>Pela certa compatibilidade entre XHTML e HTML, em pouco tempo consegui extrair e modificar todos os cinco livros (Luz Espírita) que já havia reformatado para o formato HTML.</p>
+<p>Sendo um adepto do eco-sistema do <i>Google</i>, tentei até re-utilizar o <i>Google</i> <i>Sites</i> pois já o havia utilizado noutro projeto (Ler sobre olivrodosespiritos.org). Severas limitações orgânicas me proibiram de prosseguir. Entre elas, falta de FTP, CSS <i>styling</i>, <i>iframe</i> de <i>scripts</i>, etc.</p>
+<p>De um modo temporário, decidi migrar o projeto para um provedor grátis e comecei a testar novos formatos de hierarquia de pastas, nomes de arquivos, separação de partes e capítulos, entre outras. Sendo os provedores grátis bem escassos de tutoriais, tive que pesquisar e implementar o FTP e SSL para o site, já que o Chrome identificava qualquer site sem HTTPS como suspeito ou perigoso.</p>
+<p>Consegui implementar o SSL e passei por várias iterações (mais de 30) do site antes de ser detido por problemas sérios no FTP.</p>
+<p>Decidi então por migrar o site para um provedor pago (<i>Dreamhost</i>), sendo este ainda de custo baixo mas com muitas utilidades ausentes no anterior. Com eles, usando o <i>Secure</i> FTP, apesar do DIR <i>listing</i> ser muito mais lento mas a velocidade de <i>upload</i>/<i>download</i> parece ser muito maior.</p>
+<p>Nesta altura do projeto, minha esposa e eu, os dois usuários do projeto até então, já estávamos nos capítulos finais do Livro dos Médiuns. Como boas notícias não vêm desacompanhadas, certo dia ela me disse preferir a versão de Guillon Ribeiro (ótima notícia!). Apesar desta ser mais laboriosa no entendimento, era a que mais se prestava a nos transportar aos dias de Kardec e auxiliar no aprendizado do vocabulário necessário para se auto-aprimorar e disseminar a Doutrina. Apesar de estar realmente feliz com a preferência, tive então que descartar todos os arquivos que estavam baseados na versão da Luz Espírita.</p>
+<p>Aproveitando somente o estrutura das pastas, JS e CSS, tentei de novo, várias formar de extrair o texto de Guillon para um formato que eu pudesse manter a italização original de Kardec. Decidi então por copiar e modificar o trabalho de Kardecpedia, já que este era o mais fiel à tradução original.</p>
+<p>O trabalho de copiar e colar foi de curta duração, mas a reformatação é, e continua a ser demorada (mas certamente, válida).</p>
+<p>Sendo que nas primeiras versões, eu utilizei <i>iframes</i> e páginas diferenciadas de acordo com o tamanho do dispositivo (celular, <i>tablet</i>, <i>laptop</i>) só depois fiquei sabendo da dificuldade da implementação da ferramenta de busca e outros <i>scripts</i>.</p>
+<p>Pesquisando alternativas, cheguei a um método híbrido, desenvolvido por mim, utilizando W3.CSS, <i>iframes</i> e <i>media</i> <i>queries </i>de modo a conseguir uma solução unificada.</p>
+<p>Esta solução, que está em vigor atualmente, consiste de uma página com 3 colunas no modo laptop, duas colunas no modo <i>tablet</i> (ou celular deitado, ou <i>landscape</i>) e uma coluna no modo celular (de pé, <i>portrait</i>).</p>
+<p>A primeira coluna comporta a navegação e ferramentas, a coluna do meio comporta o texto principal e a terceira coluna é a onde informações complementares abrem (Wikipédia, Wikcionário, Bíblia, vídeos, etc).</p>
+<p>Apesar de ser a pior plataforma para o estudo sério (falta de teclado, tamanho da tela, etc), sabemos que pela conveniência, este pode acabar a ser o mais utilizado. Sendo assim, para que conseguisse a maior área de tela (e a persistência da mesma), precisei aprender sobre <i>Progressive</i> <i>Web</i> <i>Apps.</i><i></i></p>
+<p>Depois de algumas adições e modificações, consegui habilitar nosso website, <a href="http://doutrina.org/">Doutrina.org</a>, como <i>PWA</i>, instalável gratuitamente e direto do seu navegador, sem necessidade de <i>App</i> <i>Store</i> ou <i>Google</i> <i>Play.</i><i></i></p>
+<p>Tendo problemas com o <i>Google</i> <i>Search</i>, resolvi implementar uma solução onde tivesse maior controle sobre a indexação das páginas e seu conteúdo. Tentei utilizar o <i>Search360</i> por algum tempo mas decidi em usar uma solução mais simples, o <i>FreeFind</i>. De bônus, adicionei um index (listagem alfabética de TODAS as palavras utilizadas nas cinco obras).</p>
+<p>Ainda ontem, consegui implementar um botão de leitor de tela do <i>ReadAloud</i> no nosso site, aumentando para três o número de extensões recomendados para o <i>Google</i> <i>Chrome</i>, ao lado de <i>Dark</i> <i>Reader</i> (modo escuro) e <i>Google</i> Dicionário. Estando no laptop, e se preferível o uso do leitor de tela, recomendamos a extensão ao invés do botão nativo do site. A extensão permite o acompanhamento do texto lido por <i>highlight</i> amarelo, indisponível no site.</p>
+<p>Atualmente o site se encontra em modo Beta, estando com o conteúdo e infra-estrutura completa mas com defasamento na reformatação de tipo/cores. Como estou tentando não atrasar o andamento do Projeto 5, só comecei a reformatar no Evangelho (ESE) a partir do capítulo 09. Planejo continuar em frente, terminado o ESE, prosseguindo com o CEU e o GEN até virar o ano e terminar o LDE e o LDM.</p>
+<p>No LDE, planejo implementar o <i>tag details/summary </i>de modo a esconder as respostas e incentivar o estudo reflexivo.</p>
+<p>Sigo em frente, contando com a paciência Divina, e de vocês.</p>
+<p><i>Godspeed</i>.</p>
+       </div>
+              <!-- End CONTENT -->
+              <!-- Start FOOTER -->
+              <div class="position-relative bottom-0 left-5 w-full">
+                <hr class="mb-20 bg-dark-light-lm bg-light-dm" />
+                <div class="d-flex justify-content-between">
+                  <div class="container-box">
+                    <p class="text-muted m-0 mb-5"></p>
+                    <a href="#" class="m-0">&nbsp;</a>
+                  </div>
+                  <div class="container-box text-right">
+                    <p class="text-muted m-0 mb-5">Próxima <i class="fa-solid fa-arrow-right"></i></p>
+                    <a href="./content/1lde/" class="m-0">O Livro dos Espíritos</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End FOOTER -->
+          <div class="col-xl-5 col-lg-5 col-md-5 hidden-sm-and-down">
+            <iframe src="./angel-splash.html" name="ext" class="bg-very-dark w-full"
+              title="Painel de conteúdo complementar"
+              style="border: none; height: 97vh; overflow: scroll; overscroll-behavior: auto;"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Content wrapper end -->
+  </div>
+  <!-- Page wrapper end -->
+  <!-- Halfmoon JS -->
+  <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script> <!-- -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  <script src="./assets/js/font-scaler.js" type="text/javascript" defer></script>
+  <script src="./assets/js/share.js" type="text/javascript" defer></script>
+  <script src="./assets/js/fullscreen.js" type="text/javascript" defer></script>
+  <!-- API from W3schools.com -->
+</body>
 </html>

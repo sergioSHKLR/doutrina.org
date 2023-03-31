@@ -1,91 +1,503 @@
+<!-- #MASTER INDEX -->
 <!DOCTYPE html>
-<html lang="pt_BR">
+<html lang="pt-BR" class="auto-scaling-disabled">
 
 <head>
+  <!-- Meta tags -->
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <meta name="viewport" content="width=device-width" />
-  <link rel="icon" href="../../media/svg/logo.svg">
-  <title>doutrina.org</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+  <title>Doutrina.org</title>
+  <meta name="description" content="Plataforma de Estudos da Filosofia & Ciência Espírita">
+  <meta name="keywords"
+    content="Allan Kardec, Espírita, Espiritismo, Estudo, O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, A Gênese">
+  <meta name="author" content="Sergio SHKLR">
+  <!-- PWA -->
+  <link href="./pwa/favicon.svg" rel="icon" type="image/svg+xml">
+  <link href="./pwa/favicon.png" rel="icon" type="image/png">
+  <link href="./pwa/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="./pwa/site.webmanifest" rel="manifest">
+  <meta name="theme-color" content="#333" />
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
+  <!-- Halfmoon CSS -->
   <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+  <!-- framework chosen for its dark mode and ease of use -->
   <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
-  <script src='https://cdnjs.fireflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+  <!-- Font Awesome free kit -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <!-- Google hosted library -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <!-- part of Halfmoon CSS framework -->
   <style>
     p {
       -webkit-text-size-adjust: auto;
       text-size-adjust: auto;
     }
+
+    b {
+      font-size: 150%;
+    }
+
+    ul,
+    li {
+      margin-left: 10px;
+    }
+
+    body {
+      background-color: whitesmoke;
+    }
   </style>
-  <script src="https://hypothes.is/embed.js" async></script>
 </head>
 
-<div class="content-wrapper">
-<div class="content">
-  <div class="text-right m-20">
-<!--
-    <audio controls autoplay muted class="btn bg-light">
-      <source src="horse.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-
-  <br />
-  <br /> -->
-  <div class="btn-group" role="group" aria-label="Basic example">
-
-    <button class="btn btn-square btn-action mr-5" onclick="halfmoon.toggleDarkMode()" data-toggle="tooltip" data-title="Trocar contraste"  data-placement="bottom">
-      <i class="fa-solid fa-circle-half-stroke"></i>
-    </button>
-    <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="decreaseText" data-toggle="tooltip" data-title="Diminuir letra"  data-placement="bottom"
-      value="-1">
-      <i class="fa-solid fa-font" aria-hidden="true"></i>
-    </button>
-    <button class="btn btn-square btn-action mr-5 fontSize" type="button" id="increaseText" data-toggle="tooltip" data-title="Aumentar letra"  data-placement="bottom"
-      value="+1">
-      <i class="fa-solid fa-font fa-lg" aria-hidden="true"></i>
-    </button>
-    <button class="btn btn-square btn-action mr-5" type="button"  data-toggle="tooltip" data-title="Ouvir narração"  data-placement="bottom">
-      <i class="fa-solid fa-volume-high"></i>
-    </button>
-    <a href="../../media/sample.pdf" target="ext" class="btn btn-square btn-action mr-5" type="button"
-    data-toggle="tooltip" data-title="Abrir PDF"  data-placement="bottom">
-      <i class="fa-solid fa-file-lines"></i>
-    </a>
-    <input class="btn btn-square btn-action mr-5 result" type="submit" title="Compartilhe esta página" value="🖤" style="color: red;"></input>
-  </div>
-  </div>
-  </div>
-
-  <body>
-    <div class="main ml-20">
-      <p>DETALHES SAMPLE</p>
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true"
+  data-sidebar-shortcut-enabled="true" data-sidebar-hidden="hidden">
+  <!-- Modals go here -->
+  <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
+  <!-- Page wrapper start -->
+  <div class="page-wrapper with-navbar with-sidebar" data-sidebar-type="overlayed-all">
+    <!-- Navbar start -->
+    <nav class="navbar bg-light-lm bg-dark-dm">
+      <div class="navbar-content">
+        <button id="toggle-sidebar-btn" class="btn btn-square" type="button" onclick="halfmoon.toggleSidebar()"
+          aria-label="botão de menu">
+          <i class="fa-solid fa-bars fa-fw" aria-hidden="true" title="botão de menu"></i>
+        </button>
+      </div>
+      <a href="./" class="navbar-brand">
+        <img src="./media/png/logo.png" alt="logo de doutrina.org"> doutrina.org </a>
+      <div class="navbar-content ml-auto">
+        <input class="btn btn-square result mr-5" type="button" value="❤️" title="Compartilhe!"
+          aria-label="compartilhar págima">
+        <!-- 
+<button class="btn btn-square mr-5" type="button" onclick="halfmoon.toggleDarkMode()" title="Trocar contraste">
+<i class="fa-solid fa-circle-half-stroke"></i>
+</button> -->
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="closeFullscreen();" title="Tela normal"
+          aria-label="botão de tela normal">
+          <i class="fa-solid fa-window-minimize" aria-hidden="true"></i>
+        </button>
+        <button class="btn btn-square mr-5 fullscreen" type="button" onclick="openFullscreen();" title="Tela cheia"
+          aria-label="botão de tela cheia">
+          <i class="fa-regular fa-square" aria-hidden="true"></i>
+        </button>
+      </div>
+    </nav>
+    <!-- Navbar end -->
+    <!-- Sidebar overlay -->
+    <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+    <!-- Sidebar start -->
+    <div class="sidebar bg-light-lm bg-dark-dm">
+      <div class="sidebar-menu ">
+        <!--  <h5 class="sidebar-title">Pesquisar</h5> -->
+        <div class="sidebar-content mt-0">
+          <!--<input type="text" class="form-control bg-white text-dark" placeholder="termos..." label="area de pesquisa de termos"> -->
+          <div class="mt-10 font-size-12"></div>
+        </div>
+        <h5 class="sidebar-title">Obras Básicas</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <a href="./content/1lde/" class="sidebar-link sidebar-link-with-icon" title="link para O Livro dos Espíritos">
+          <span class="sidebar-icon text-white" style="background-color: blue;;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Livro dos Espíritos </a>
+        <a href="./content/2ldm/" class="sidebar-link sidebar-link-with-icon" title="link para O Livro dos Médiuns">
+          <span class="sidebar-icon text-white" style="background-color: purple;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Livro dos Médiuns </spam>
+        </a>
+        <a href="./content/3ese/" class="sidebar-link sidebar-link-with-icon"
+          title="link para O Evangelho segundo o Espiritismo">
+          <span class="sidebar-icon text-white" style="background-color: orange;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Evangelho </span>
+        </a>
+        <a href="./content/4ceu/" class="sidebar-link sidebar-link-with-icon" title="link para O Céu e o Inferno">
+          <span class="sidebar-icon text-white" style="background-color: red;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>O Céu e o Inferno </span>
+        </a>
+        <a href="./content/5gen/" class="sidebar-link sidebar-link-with-icon" title="link para A Gênese">
+          <span class="sidebar-icon text-white" style="background-color: green;">
+            <i class="fa-solid fa-book-bookmark"></i>
+          </span>A Gênese </a>
+        <br />
+        <h5 class="sidebar-title">Projeto</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <a href="./content/project/legal.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Avisos legais">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-balance-scale"></i>
+          </span>Legal </a>
+        <a href="./content/project/about.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Detalhes do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-file-lines"></i>
+          </span>Detalhes </a>
+        <a href="./content/project/blog.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para Blog do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-blog"></i>
+          </span>Blog </a>
+        <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
+          class="sidebar-link sidebar-link-with-icon" title="link para repositório do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-brands fa-github"></i>
+          </span>Github </a>
+        <a target="ext" href="./content/project/video-conf.html" class="sidebar-link sidebar-link-with-icon"
+          title="link para repositório do projeto">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-video"></i>
+          </span>Estudo </a>
+        <a target="ext" href="https://forms.gle/o6C7dg4GyyQ8sQxJ9" class="sidebar-link sidebar-link-with-icon"
+          title="link para formulário de contato">
+          <span class="sidebar-icon">
+            <i class="fa-solid fa-comment"></i>
+          </span>Contato </a>
+        <br />
+        <h5 class="sidebar-title">Notas</h5>
+        <hr class="bg-dark-light-lm bg-light-dm" style="width: 80%;">
+        <span class="sidebar-content" style="margin-top: 0px;">Atualizado em 30Mar23</span>
+        <br />
+        <span class="sidebar-link" style="margin-top: -50px;">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/br/" target="_blank"
+            title="link para descrição da licensa de uso">
+            <i class="fa-brands fa-creative-commons"></i>
+            <i class="fa-brands fa-creative-commons-by"></i>
+            <i class="fa-brands fa-creative-commons-nc"></i>
+            <i class="fa-brands fa-creative-commons-sa"></i> 3.0 BR
+          </a>
+        </span>
+      </div>
     </div>
-    <script src="../../../assets/js/font-scaler.js" type="text/javascript" id="rendered.js"></script>
-    <script src='https://cdnjs.fireflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
-    <script>
-      let shareData = {
-        title: 'doutrina.org',
-        text: '❤️ Amai-vos e instruí-vos 🎓',
-        url: 'https://doutrina.org',
-      }
-
-      const btn = document.querySelector('input');
-      const resultPara = document.querySelector('.result');
-
-      btn.addEventListener('click', () => {
-        navigator.share(shareData)
-          .then(() =>
-            resultPara.textContent = 'Ok'
-          )
-          .catch((e) =>
-            resultPara.textContent = 'Er'
-          )
-      });
-    </script>
-
-  </body>
+    <!-- Sidebar end -->
+    <!-- Content wrapper start -->
+    <div class="content-wrapper bg-light-lm bg-dark-light-dm">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12"
+            style="height: 97vh; overflow: scroll; overscroll-behavior: auto;">
+            <!-- Start PAGE BUTTONS -->
+            <div class="card m-10 bg-white-lm bg-dark-dm">
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <div class="dropdown">
+                    <button class="btn btn-square btn-dropdown-alignment" data-toggle="dropdown" type="button"
+                      id="dropdown-toggle-btn-3" aria-haspopup="true" aria-expanded="false"
+                      aria-label="botão de localização / navegação"><i class="fa-solid fa-location-arrow" style="transform:translateY(2px) rotate(-45deg);
+  "></i></button>
+                    <div class="dropdown-menu bg-light-lm w-300" aria-labelledby="dropdown-toggle-btn-1">
+                      <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <span><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
+                              class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"
+                                style="color: black;"></i></button></a>&nbsp;&nbsp;Início</span>
+                        <span style="text-indent: 10px;"><a href="./" target="_top" class="hyperlink text-reset text-decoration-none">
+                          
+                          <button
+                              class="btn btn-square mb-5"><i class="fa-solid fa-file-lines fa-fw"
+                                style="color: black;"></i></button></a>&nbsp;&nbsp;Detalhes</span>
+                        <span style="text-indent: 20px;"><a href="./" target="_top" class="hyperlink text-reset text-decoration-none">
+                          <!-- 
+                          <button
+                              class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"
+                                style="color: black;"></i></button></a>&nbsp;&nbsp;Início</span>
+                                <span style="text-indent: 30px;"><a href="./" target="_top" class="hyperlink text-reset text-decoration-none"><button
+                                  class="btn btn-square mb-5"><i class="fa-solid fa-home fa-fw"
+                                    style="color: black;"></i></button></a>&nbsp;&nbsp;Início</span> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="d-flex">
+                <div class="ml-auto">
+                  <div class="dropdown" style="position: relative; top: -32px;">
+                    <button class="btn btn-square" data-toggle="dropdown" type="button" id="dropdown-toggle-btn-2"
+                      aria-haspopup="true" aria-expanded="false" aria-label="botão de ajustes de tela / texto"><i
+                        class="fa-solid fa-ellipsis-vertical"></i></button>
+                    <div class="dropdown-menu dropdown-menu-right bg-light-lm bg-dark-dm"
+                      aria-labelledby="dropdown-toggle-btn-3">
+                      <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <span><button class="btn btn-square mb-5" onclick="halfmoon.toggleDarkMode()"><i
+                              class="fa-solid fa-circle-half-stroke"></i></button>&nbsp;&nbsp;Trocar
+                          contraste</span>
+                        <span><button class="btn btn-square fontSize mb-5" type="button" id="decreaseText" value="-1"><i
+                              class="fa-solid fa-font" style="color: blue;"></i> </button>&nbsp;&nbsp;Diminuir
+                          letra</span>
+                        <span><button class="btn btn-square fontSize mb-5" type="button" id="increaseText" value="+1"
+                            style="font-size: 120%;"><i class="fa-solid fa-font fa-lg"
+                              style="color: blue;"></i></button>&nbsp;&nbsp;Aumentar
+                          letra</span>
+                        <!-- <span>
+  <button class="btn btn-square mb-5"><i
+  class="fa-solid fa-volume-high"></i></button>&nbsp;&nbsp;Narrar tela</span> -->
+                        <span><a target="ext" href="./media/sample.pdf" target="ext" class="btn btn-square mb-5"
+                            type="button"><i class="fa-solid fa-file" style="color: red;"></i></a>&nbsp;&nbsp;Abrir
+                          PDF</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr class="mb-20 bg-dark-light-lm bg-light-dm" style="margin-top: -20px" />
+              <!-- End PAGE BUTTONS -->
+              <!-- Start CONTENT -->
+              <div class="content m-0" style="min-height: 75vh;">
+                <!-- #endregion -->
+                <p><b>Melhoramentos primários:</b></p>
+                <details>
+                  <summary>
+                    Ferramenta de anotações
+                  </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> habilita <em>highlights</em> e anotações que persistem na tela</li>
+                    <li><strong>benefício</strong>: auxilia na retenção de conceitos e ideias, contribui com o
+                      desenvolvimento pessoal e do grupo</li>
+                    <li><strong>localização</strong>: canto superior direito</li>
+                    <li><strong>detalhes</strong>: crie uma conta gratuita no endereço abaixo; somente em Inglês</li>
+                    <li><strong>provedor</strong>: <a href="https://web.hypothes.is" rel="noopener"
+                        target="_blank">Hypothes.is</a></li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Painel de conteúdo complementar </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> habilita a abertura de links complementares sem sair da tela
+                      principal.</li>
+                    <li><strong>benefício</strong>: evita a perda de foco e distrações que resultam da pesquisa em
+                      outras abas/janelas</li>
+                    <li><strong>localização</strong>: 40 porcento do lado direito da tela</li>
+                    <li><strong>detalhes</strong>: borda preta dupla; normalmente visível em telas largas (tablets e
+                      desktops/laptops); em celulares, use no modo deitado (landscape);</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <p style="padding-top: 20px;"><b>Melhoramentos secundários:</b></p>
+                <details>
+                  <summary>Use como website ou aplicativo </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> fornecer opções diversas para o usuário</li>
+                    <li><strong>benefício</strong>: embora o modo website seja mais conveniente; o modo aplicativo
+                      fornece maior espaço vertical em telas pequenas (Ajuste Tela Cheia); também habilita consultar as
+                      cinco obras mesmo quando <em>offline</em> (exceto links e serviços externos à Doutrina.org</li>
+                    <li><strong>localização</strong>: o modo para se instalar o aplicativo varia de acordo com a
+                      plataforma</li>
+                    <li><strong>detalhes</strong>: se precisar, procure por "como instalar PWA no meu
+                      (nome_do_dispositivo)" no Google</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Cabeçalho colorido </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> fornecer uma dica visual de qual livro, parte, e capítulo o usuário
+                      se encontra</li>
+                    <li><strong>benefício</strong>: facilita a navegação entre obras, já que as mesmas são identificadas
+                      por cores individuais</li>
+                    <li><strong>localização</strong>: borda superior da tela, abaixo da barra de endereço</li>
+                    <li><strong>detalhes</strong>: cores das obras se assemelham as cores utilizadas pela FEB na sua
+                      coleção Guillon Ribeiro</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Livre de elementos desnecessários </summary>
+                  <ul>
+                    <li><strong>propósito :</strong></li>
+                    <li><strong>benefício</strong>: aumento da performance/velocidade do site em conexões mais lentas;
+                      diminui as chances de distrações que prejudicam os estudos</li>
+                    <li><strong>localização</strong>: toda a interface do website</li>
+                    <li><strong>detalhes</strong>:</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Indicador de rolagem </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> habilita uma barra colorida que acompanha o seu progresso
+                      (vertical) na página</li>
+                    <li><strong>benefício</strong>: fornece uma dica visual de seu progresso e da sua localização atual
+                    </li>
+                    <li><strong>localização</strong>: borda inferior, acima da barra de status</li>
+                    <li><strong>detalhes</strong>: usam a mesma cor do livro</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Numerais romanos removidos </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> facilitar o estudo para aqueles usuários que não são familiares com
+                      estes numerais</li>
+                    <li><strong>benefício</strong>: diminui a extensão do título de partes e capítulos e a probabilidade
+                      de erros de leitura</li>
+                    <li><strong>localização</strong>: disperso pelos cinco livros</li>
+                    <li><strong>detalhes</strong>: cardinais titulares foram mantidos (por exemplo, Jõao Paulo II ou
+                      Luís IX da França</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Ordem de Prefácios/Introduções </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> manter a uniformidade de formatação das partes de um livro</li>
+                    <li><strong>benefício</strong>: facilita a compreensão dos textos</li>
+                    <li><strong>localização</strong>: dispersos entre os cinco livros</li>
+                    <li><strong>detalhes</strong>: O título de Prolegômenos foi alterado para Prefácio</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Títulos de capítulos encurtados </summary>
+                  <ul>
+                    <li><strong>propósito :</strong></li>
+                    <li><strong>benefício</strong>: facilita a compreensão do texto que segue; facilita a formatação
+                      para telas pequenas</li>
+                    <li><strong>localização</strong>: Sumários de cada livro e o título de cada página</li>
+                    <li><strong>detalhes</strong>: Essas modificações foram apenas de formato e não alteram nem o
+                      significado nem o conteúdo</li>
+                    <li><strong>provedor</strong>:</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Ferramenta Letra Menor/Maior </summary>
+                  <ul>
+                    <li><strong>propósito :</strong> habilita o ajuste do tamanho das letras que compõem o texto</li>
+                    <li><strong>benefício</strong>: possibilita melhor conforto de leitura, não obstante o dispositivo
+                      usado (celular, tablet ou laptop/desktop)</li>
+                    <li><strong>localização</strong>: Menu do lado esquerdo, submenu Ferramentas</li>
+                    <li><strong>detalhes</strong>: Aumenta ou diminui as letras em incrementos de 1px; incapaz de
+                      ajustar texto do painel complementar</li>
+                    <li><strong>provedor</strong>: Doutrina.org</li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>Título </summary>
+                  <ul>
+                    <li><strong>propósito:</strong></li>
+                    <li><strong>benefício:</strong></li>
+                    <li><strong>localização:</strong></li>
+                    <li><strong>detalhes:</strong></li>
+                    <li><strong>provedor:</strong></li>
+                  </ul>
+                </details>
+                <details>
+                  <summary>ferramenta Tela Cheia/Normal </summary>disponível no modo desktop, tablet, e celular; esconde
+                  elementos como a barra de status e a de endereço, aumentando o espaço vertical de tela; menu Ajustes;
+                  necessário no modo navegador/celular
+                </details>
+                <details>
+                  <summary>extensão Tela Escura/Clara </summary>adicional para o Google Chrome (Desktop), habilita o
+                  escurecimento das cores de fundo; auxilia a leitura noturna; menu Ajustes
+                </details>
+                <p><b>Melhoramentos em andamento:</b></p>
+                <details>
+                  <summary>links para informações complementares </summary>artigos da Wikipédia (obras, autores, termos,
+                  expressões, figuras históricas, etc.), capítulos dos Evangelhos, mapas no Google Maps, videos de
+                  fontes variadas
+                </details>
+                <details>
+                  <summary>cores e tipografia de realce </summary>servem de dica visual da origem e delimitam o começo e
+                  o fim dos blocos de texto; padrões utilizados são:<br />
+                  • textos de Allan Kardec em <span class="black serif">fundo branco, letras negras, e serifa
+                    normal</span><br />
+                  • comunicações espirituais em <span class="blue">fundo azul, letras negras, e serifa em
+                    itálico</span><br />
+                  • passagens bíblicas em <span class="yellow">fundo amarelo, letras negras, e serifa em
+                    itálico</span><br />
+                  • palavras atribuídas a Jesus em <span class="yellow red">fundo amarelo, letras vermelhas e serifa em
+                    itálico </span> <a href="#nr-b" rel="noopener" title="nota de rodapé b"> <sup>b</sup> </a><br />
+                  • comentários não-originais em <span class="gray sans">fundo branco, letras cinza, e sem-serifa
+                    normal</span>
+                </details>
+                <p><b>Melhoramentos futuros:</b></p>
+                <details>
+                  <summary>links internos entres os cinco livros </summary>
+                </details>
+                <details>
+                  <summary>ilustrações não obstrusivas </summary>abertas por link de texto (exemplo abaixo)
+                </details>
+                <details class="sans" style="margin-left: 20px">
+                  <summary class="gray">figura 1</summary> <img alt="polaroid de Allan Kardec"
+                    src="./assets/img/polaroid.avif" style="width: 90%" />
+                </details>
+                <details>
+                  <summary>método de estudo diferenciado do LDE </summary>respostas só serão visíveis após clicar no
+                  símbolo ＋ (exemplo abaixo)
+                </details>
+                <details style="margin-left: 20px">
+                  <summary class="serif black">1. Que é Deus?</summary>
+                  <p
+                    style="margin-left: 20px; font-family: 'Lora'; font-style: italic; background-color: #e6f3ff; color: black;">
+                    “Deus é a inteligência suprema, causa primária de todas as coisas”</p>
+                </details>
+                <p> </p>
+                <p> </p>
+                <p class="small sans no-margin no-padding">Notas</p>
+                <hr style="border: 1px solid gray; margin-top: 0" />
+                <span class="small sans gray neg-margin neg-padding" id="nr-a">a. A bíblia de <a
+                    href="https://pt.m.wikipedia.org/wiki/A_Bíblia_de_Port-Royal" rel="noopener"
+                    target="external">Port-Royal</a> por <a
+                    href="https://pt.m.wikipedia.org/wiki/Louis-Isaac_Lemaistre_de_Sacy" rel="noopener"
+                    target="external">Louis-Isaac Lemaistre de Sacy</a>, utilizada por Allan Kardec em <em>O Evangelho
+                    segundo o Espiritismo</em> só se encontra no original <a
+                    href="https://fr.m.wikisource.org/wiki/Bible_Sacy" rel="noopener"
+                    target="external">Francês.</a></span><br />
+                <span class="small sans gray neg-margin neg-padding" id="nr-b">b. Adaptação feita mesclando as marcações
+                  vermelhas (palavras de Jesus) da Almeida Revista e Atualizada (ARA) em <a
+                    href="https://www.bible.com/pt/versions/1608-ara-almeida-revista-e-atualizada" rel="noopener"
+                    target="external">Bible.com</a> com a Tradução Brasileira (TB) em <a
+                    href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia" rel="noopener"
+                    target="external">Wikisource</a>.</span><br />
+                <span class="small sans gray neg-margin neg-padding" id="nr-c">c. Visando estimular a reflexão ativa ao
+                  invés da leitura mecânica.</span><br />
+                <span class="small sans gray neg-margin neg-padding" id="nr-d">d. Videos de fontes como: <a
+                    href="https://br.aigrejadejesuscristo.org/" rel="noopener" target="external"
+                    title="site da LDS">Igreja de Jesus Cristo dos Santos dos Últimos Dias</a>, <a
+                    href="https://watch.angelstudios.com/thechosen" rel="noopener" target="external">The Chosen</a>, <a
+                    href="https://bibleproject.com/brazilian-portuguese/" rel="noopener" target="_blank">Bible
+                    Project</a>, <a href="https://www.amigosdaluz.com/" rel="noopener" target="external"> Amigos da
+                    Luz</a>,ou cenas de filmes como <a href="https://www.youtube.com/watch?v=fbH5u0WU-o4" rel="noopener"
+                    target="_blank">Mary Magdalene</a>, <a href="https://www.youtube.com/watch?v=AIzZ6kYe4Rk"
+                    rel="noopener" target="_blank">Son of God</a>, etc.</span>
+              </div>
+              <!-- End CONTENT -->
+              <!-- Start FOOTER -->
+              <div class="position-relative bottom-0 left-5 w-full">
+                <hr class="mb-20 bg-dark-light-lm bg-light-dm" />
+                <div class="d-flex justify-content-between">
+                  <div class="container-box">
+                    <p class="text-muted m-0 mb-5"></p>
+                    <a href="#" class="m-0">&nbsp;</a>
+                  </div>
+                  <div class="container-box text-right">
+                    <p class="text-muted m-0 mb-5">Próxima <i class="fa-solid fa-arrow-right"></i></p>
+                    <a href="./content/1lde/" class="m-0">O Livro dos Espíritos</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End FOOTER -->
+          <div class="col-xl-5 col-lg-5 col-md-5 hidden-sm-and-down">
+            <iframe src="./angel-splash.html" name="ext" class="bg-very-dark w-full"
+              title="Painel de conteúdo complementar"
+              style="border: none; height: 97vh; overflow: scroll; overscroll-behavior: auto;"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Content wrapper end -->
+  </div>
+  <!-- Page wrapper end -->
+  <!-- Halfmoon JS -->
+  <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script> <!-- -->
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  <script src="./assets/js/font-scaler.js" type="text/javascript" defer></script>
+  <script src="./assets/js/share.js" type="text/javascript" defer></script>
+  <script src="./assets/js/fullscreen.js" type="text/javascript" defer></script>
+  <!-- API from W3schools.com -->
+</body>
 
 </html>
