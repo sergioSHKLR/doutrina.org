@@ -4,6 +4,7 @@
   "lang": "pt-BR",
   "orientation": "any",
   "description": "Plataforma de estudos integrados.",
+  "prefer_related_applications": false,
   "categories": [
     "reference",
     "education",
@@ -52,6 +53,5 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ],
-  "prefer_related_applications": false
+  ]
 }
