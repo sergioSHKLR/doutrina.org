@@ -1,5 +1,4 @@
 # EN-US
-## doutrina.org
 
 I am developing a platform for the study of works in the public domain. I envision a solution much better than a simple ebook reader. By allowing the community markup, annotation, and comments in its unique split layout, we are able to maintain the user focus.
 
@@ -43,7 +42,6 @@ I'm just a single hobbyist that loves technology and non-profit work, also a ret
 ---
 
 # PT-BR
-## doutrina.org
 
 Estou desenvolvendo uma plataforma para o estudo de obras em domínio público. Eu imagino uma solução muito melhor do que um simples leitor de ebook. Ao permitir a marcação, anotação e comentários da comunidade em seu layout de divisão exclusivo, podemos manter o foco do usuário.
 
