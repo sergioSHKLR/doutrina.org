@@ -1,0 +1,39 @@
+
+{
+  "name": "Doutrina.org | Leia. Reflita. Anote.",
+  "short_name": "Doutrina",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "description": "Plataforma de Estudos da Filosofia & Ciência Espírita",
+  "categories": [
+    "reference",
+    "education",
+    "personal"
+  ],
+  "icons": [
+    {
+     "src": "/pwa/maskable.png",
+     "sizes": "512x512",
+     "type": "image/png",
+     "purpose": "maskable"
+        },
+    {
+      "src": "/pwa/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#616161",
+  "background_color": "#616161",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+    }
+  
