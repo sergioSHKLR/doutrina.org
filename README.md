@@ -1,46 +1,3 @@
-# EN-US
-
-I am developing a platform for the study of works in the public domain. I envision a solution much better than a simple ebook reader. By allowing the community markup, annotation, and comments in its unique split layout, we are able to maintain the user focus.
-
-As of now, it is an aglomeration of HTML, CSS and JS.
-
-Its main features/requirements are:
-
-- [x] Be hosted as a public repo so it can be cloned and/or forked.
-- [x] Able to build HTML from source MD. (researching multiple SSG)
-- [x] Open external content in iframe (split layout)
-- [x] Dark mode (using Halfmoon CSS at the moment)
-- [x] Resizing of font (using JS at the moment)
-- [x] Sharing (using Web Share API at the moment)
-- [x] Open the original work PDF
-- [ ] Narration (researching solutions)
-- [ ] Full-text search (researching solutions)
-- [x] Highlights and annotations (using Hypothes.is at the moment)
-- [ ] Social comments (researching solutions, might be scrapped)
-- [ ] Allow for the translation/localization (i18n)
-- [x] Installable as PWA
-- [x] Display mobile-friendly breadcrumbs 
-
-<!-- A prototype sits at https://sergioshklr.github.io/doutrina.org/ and also at https://doutrina.org -->
-
-Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
-
-| Wide viewport (3 columns) | | |
-| --- | --- | --- |
-| Side panel (TOC) | Main panel (original work) | External panel (iframe, loads dictionary definitions, articles, videos, maps, inline comments, etc |
-
-| Medium viewport (2 columns) | |
-| --- | --- | 
-| Main panel (original work) | External panel (iframe, loads dictionary definitions, articles, videos, maps, inline comments, etc |
-
-| Narrow viewport (1 column in portrait, same as Medium in landscape| 
-| --- | 
-| Main panel (original work) |
-
-I'm just a single hobbyist that loves technology and non-profit work, also a retired US veterand of Iraq and Afghanistan.  I'd gladly accept assistance in form of code-review.
-
----
-
 # PT-BR
 
 Estou desenvolvendo uma plataforma para o estudo de obras em domínio público. Eu imagino uma solução muito melhor do que um simples leitor de ebook. Ao permitir a marcação, anotação e comentários da comunidade em seu layout de divisão exclusivo, podemos manter o foco do usuário.
@@ -84,3 +41,45 @@ Sou apenas um hobbysta que adora tecnologia e trabalho sem fins lucrativos. Sou 
 
 ---
 
+# EN-US
+
+I am developing a platform for the study of works in the public domain. I envision a solution much better than a simple ebook reader. By allowing the community markup, annotation, and comments in its unique split layout, we are able to maintain the user focus.
+
+As of now, it is an aglomeration of HTML, CSS and JS.
+
+Its main features/requirements are:
+
+- [x] Be hosted as a public repo so it can be cloned and/or forked.
+- [x] Able to build HTML from source MD. (researching multiple SSG)
+- [x] Open external content in iframe (split layout)
+- [x] Dark mode (using Halfmoon CSS at the moment)
+- [x] Resizing of font (using JS at the moment)
+- [x] Sharing (using Web Share API at the moment)
+- [x] Open the original work PDF
+- [ ] Narration (researching solutions)
+- [ ] Full-text search (researching solutions)
+- [x] Highlights and annotations (using Hypothes.is at the moment)
+- [ ] Social comments (researching solutions, might be scrapped)
+- [ ] Allow for the translation/localization (i18n)
+- [x] Installable as PWA
+- [x] Display mobile-friendly breadcrumbs 
+
+<!-- A prototype sits at https://sergioshklr.github.io/doutrina.org/ and also at https://doutrina.org -->
+
+Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
+
+| Wide viewport (3 columns) | | |
+| --- | --- | --- |
+| Side panel (TOC) | Main panel (original work) | External panel (iframe, loads dictionary definitions, articles, videos, maps, inline comments, etc |
+
+| Medium viewport (2 columns) | |
+| --- | --- | 
+| Main panel (original work) | External panel (iframe, loads dictionary definitions, articles, videos, maps, inline comments, etc |
+
+| Narrow viewport (1 column in portrait, same as Medium in landscape| 
+| --- | 
+| Main panel (original work) |
+
+I'm just a single hobbyist that loves technology and non-profit work, also a retired US veterand of Iraq and Afghanistan.  I'd gladly accept assistance in form of code-review.
+
+---
