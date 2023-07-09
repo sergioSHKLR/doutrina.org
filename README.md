@@ -81,5 +81,3 @@ Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
 | Main panel (original work) |
 
 I'm just a single hobbyist that loves technology and non-profit work, also a retired US veterand of Iraq and Afghanistan.  I'd gladly accept assistance in form of code-review.
-
----
