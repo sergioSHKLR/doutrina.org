@@ -33,37 +33,37 @@
 - [`CEU` 🔥 O Céu e o Inferno ]()
 - [`GEN` 🌱 A Gênese ]()
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 1. Objetivo
 
 Intencionamos criar versões mais dinâmicas das cinco obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 2. Análise
 
 Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 3. Formato de arquivo
 
 ~~Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.~~
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 4. Obra original
 
 Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 5. Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 6. Padronização
 
@@ -154,13 +154,13 @@ LIV-iXXXXa
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 7. Navegação
 
 De modo a evitar um sumário extremamente longo, decidimos por dividi-lo em partes incrementais. Ao começo do livro temos o sumário das partes e ao começo dos capítulos temos o sumário de seções. Ao término de cada segmento, você encontra este emoji 🔼, que ao ser clicado, lhe retorna ao nível imediatamente superior (por exemplo, de seção para capítulo ou de capítulo para parte).
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 8. Controle de Qualidade
 
@@ -168,13 +168,13 @@ Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no 
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 9. Autor
 
 Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 10. Agradecimentos
 
@@ -188,7 +188,7 @@ Deus abençoa, sempre!
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=Github) |
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
 
 ## 11. Notas
 
@@ -210,4 +210,4 @@ Deus abençoa, sempre!
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
-[🔼]([#bem-vindo)
+[🔼](#bem-vindo)
