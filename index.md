@@ -1,6 +1,6 @@
 <script src="https://hypothes.is/embed.js" async></script>
 
-# 👻 O Livro dos Espíritos
+# Bem vindo!
 
 *Repo* principal de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
 
