@@ -1,21 +1,12 @@
-<style>
-  code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
-  blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue; }
-  blockquote > blockquote {border-left: 2px solid grey; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
-  code > a:hover {font-style: normal; font-weight: normal;}
-  .bible {border-left: 2px solid brown;}
-</style>
-
-<!-- 📔  🗂️  📑  📃  #️⃣  ✝️   👉   🔼-->
-
 <script src="https://hypothes.is/embed.js" async></script>
 
 <a name="ESE"><code>ESE</code></a>
 
 <h1>🕊️ <b>O Evangelho segundo o Espiritismo</b></h1>
 
-<code>⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.</code><br />
-
+| ⚠️ **AVISO** |
+|---|
+| A obra original (ISBN 978-85-7328-728-8) *Copyright* © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto. |
 
 **DRAFT**
 

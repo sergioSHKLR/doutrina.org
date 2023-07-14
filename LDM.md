@@ -1,9 +1,12 @@
-
 <script src="https://hypothes.is/embed.js" async></script>
 
 <a name="LDM"><code>LDM</code></a>
 
 <h1>✒️ <b>O Livro dos Médiuns</b></h1>
+
+| ⚠️ **AVISO** |
+|---|
+| A obra original (ISBN 978-85-7328-728-8) *Copyright* © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto. |
 
 **DRAFT**
 
