@@ -6,7 +6,7 @@
 
 | ⚠️ **AVISO** |
 |---|
-| A obra original (ISBN 978-85-7328-728-8) *Copyright* © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto. |
+| A obra original (ISBN 978-85-7328-729-5) *Copyright* © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto. |
 
 **DRAFT**
 
