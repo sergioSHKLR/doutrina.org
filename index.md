@@ -22,11 +22,15 @@ Intencionamos criar versões mais dinâmicas das cinco obras básicas, listadas 
 4. O Céu e o Inferno
 5. A Gênese
 
-Utilizaremos emojis, cores, tipografia, padrões de formato, e um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras. Adicionaremos *links* internos quando a indicação para uma leitura adicional é feita (por exemplo, Veja-se questão X de O Livro Y).
+Utilizaremos de diagramação distinta, tipografia, cores, emojis para tal. Ademais, criamos um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras. Adicionaremos *links* internos quando a indicação para uma leitura adicional é feita (por exemplo, Veja-se questão X de O Livro Y).
 
-Em uma fase posterior, iremos adicionar links externos para artigos, mapas, ilustrações, e definições de termos pouco usados.
+Em uma segunda fase, iremos adicionar links externos para artigos, mapas, ilustrações, e definições de termos pouco usados.
+
+Numa terceira fase iremos aperfeiçoar o uso em tablets e celulares, dark mode, ajuste de tamanho de texto, etc.
 
 ## Análise
+
+Visando oferecer uma experiência livre de distrações ou elementos desnecessários... (ADD)
 
 Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
@@ -38,7 +42,7 @@ Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição 
 
 Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira (Copyright 1944). Agradecemos a Federação Espírita Brasileira (FEB), por disponibilizar gratuitamente o PDF das obras básicas, todas [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-### Legenda
+## Legenda
 
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
@@ -76,6 +80,10 @@ Deus abençoa, sempre!
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=LDE.md) |
 
+## Notas
+
+- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
+
 ## Legal
 
 - **LDE.md**, **LDM.md**, **ESE.md**, **CEU.md** e **GEN.md**  e seus variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR.
@@ -93,8 +101,6 @@ Deus abençoa, sempre!
     - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
 
        - I – a reprodução
-       
-       - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
-- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
+       - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
