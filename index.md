@@ -6,7 +6,7 @@ Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/dout
 
 ## Direto ao ponto                       
 
-- <a href="LDE.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
+- <a href="LDE-2023-07-14.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
 - <a href="LDM.html"><code>LDM</code> ✒️ O Livro dos Médiuns</a>
 - <a href="ESE.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo</a>
 - <a href=""><code>CEU</code> 🔥 O Céu e o Inferno (UNRELEASED)</a>
