@@ -551,7 +551,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ---
 
-![Cepa Espírita](./images/vine.png)
+![Cepa Espírita](../images/vine.png)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
@@ -1520,11 +1520,11 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 - [`LDE-2-01` 📑 01. Dos Espíritos](#LDE-2-01)
 - [`LDE-2-02` 📑 02. Da encarnação dos espíritos](#LDE-2-02)
-- [`LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03-)
+- [`LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03)
 - [`LDE-2-04` 📑 04. Da pluralidade das existências](#LDE-2-04)
 - [`LDE-2-05` 📑 05. Considerações sobre a pluralidade das existências](#LDE-2-05)
 - [`LDE-2-06` 📑 06. Da vida espírita](#LDE-2-06)
-- [`LDE-2-07` 📑 07. Da volta do Espírito à vida corporal](#LDE-2-07-)
+- [`LDE-2-07` 📑 07. Da volta do Espírito à vida corporal](#LDE-2-07)
 - [`LDE-2-08` 📑 08. Da emancipação da alma](#LDE-2-08)
 - [`LDE-2-09` 📑 09. Da intervenção dos Espíritos no mundo corporal](#LDE-2-09)
 - [`LDE-2-10` 📑 10. Das ocupações e missões dos Espíritos](#LDE-2-10)
@@ -1553,6 +1553,8 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 <a href="#LDE-2">🔼</a>
 
 ---
+
+<a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
 
 <p><b>📃 Origem e natureza dos Espíritos</b></p>
 
@@ -2155,8 +2157,6 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 <p><b>📃 Objetivo da encarnação</b></p>
 
-<a href="#LDE-2-02">🔼</a>
-
 ---
 
 <a name="LDE-q132"><code>LDE-q132</code></a>
@@ -2338,7 +2338,7 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 >Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-02">🔼</a>
 
 ---
 
@@ -2368,7 +2368,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-02">🔼</a>
 
 ---
 
@@ -2378,8 +2378,9 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ---
 
-- [`LDE-2-03-01` 📃 A alma após a morte- Vida eterna-](#LDE-2-03-01)
+- [`LDE-2-03-01` 📃 A alma após a morte. Vida eterna](#LDE-2-03-01)
 - [`LDE-2-03-02` 📃 Separação da alma e do corpo](#LDE-2-03-02)
+- [`LDE-2-03-03` 📃 Perturbação espiritual](#LDE-2-03-03)
 
 <a href="#LDE-2">🔼</a>
 
@@ -2450,7 +2451,7 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 
 >Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-03">🔼</a>
 
 ---
 
@@ -2534,17 +2535,19 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais **tenazes** os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-03">🔼</a>
 
 ---
 
----
+<a name="LDE-2-03-03"><code>LDE-2-03-03</code></a>
+
+<p><b>📃 Perturbação espiritual</b></p>
 
 <a name="LDE-q163"><code>LDE-q183</code></a>
 #️⃣ 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
 >Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação.
->
+
 Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
 ---
@@ -2571,7 +2574,7 @@ A perturbação que se segue à morte nada tem de penosa para o homem de bem, qu
 
 Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-03">🔼</a>
 
 ---
 
@@ -2655,7 +2658,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 >Espírito bem-aventurado; puro Espírito. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -2678,7 +2681,7 @@ A doutrina da reencarnação, isto é, a que consiste em admitir para o Espírit
 
 O homem, que tem consciência da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -2882,7 +2885,7 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 >Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. [^10]
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -2982,7 +2985,7 @@ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível
 
 O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -3031,7 +3034,7 @@ Semelhante ordem de coisas não corresponderia à Justiça de Deus. Com a reenca
 
 Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -3062,7 +3065,7 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -3103,7 +3106,7 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 >De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram Espíritos elevados. Se bem os Espíritos não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -3196,7 +3199,7 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do Espírito frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a **achar-se de novo** no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o Espírito foi antes? 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
@@ -3253,15 +3256,13 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 >Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-04">🔼</a>
 
 ---
 
 <a name="LDE-2-05"><code>LDE-2-05</code></a>
 
 <h3>📑 05. Considerações sobre a pluralidade das existências</h3>
-
----
 
 ---
 
@@ -3356,15 +3357,15 @@ Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das exist�
 
 As próprias palavras de Jesus não permitem dúvida a tal respeito. 
 
->_Respondendo a Nicodemos, disse Jesus:<br />
+>Respondendo a Nicodemos, disse Jesus:<br />
 ><br />
->_— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.<br />
+>— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.<br />
 ><br />
->_Disse-lhe Nicodemos:<br />
+>Disse-lhe Nicodemos:<br />
 ><br />
->_— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?<br />
+>— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?<br />
 ><br />
->_Respondeu Jesus:<br />
+>Respondeu Jesus:<br />
 ><br />
 >— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
 <br />
@@ -3372,7 +3373,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 👉 ([`LDE-q1010`](#LDE-q1010)) 
 
-<a href="#LDE-2">🔼</a>
+<a href="#LDE-2-05">🔼</a>
 
 ---
 
@@ -3493,7 +3494,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 >Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -3566,15 +3567,13 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
 <a name="LDE-2-06-03"><code>LDE-2-06-03</code></a>
 
 <p><b>📃 Percepções, sensações e sofrimentos dos Espíritos</b></p>
-
-<a href="#LDE">🔼</a>
 
 ---
 
@@ -3748,7 +3747,7 @@ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e q
 
 >É reminiscência do que padecem durante a vida, reminiscência não raro tão aflitiva quanto a realidade. Muitas vezes, no que eles assim dizem apenas há uma comparação mediante a qual, em falta de coisa melhor, procuram exprimir a situação em que se acham. Quando se lembram do corpo que revestiram, têm impressão semelhante à de uma pessoa que, havendo tirado o manto que a envolvia, julga, passado algum tempo, que ainda o traz sobre os ombros. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -3789,7 +3788,7 @@ Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes,
 
 Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -3950,7 +3949,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 #️⃣ 273. Será possível que um homem de raça civilizada reencarne, por expiação, numa raça de selvagens? [^13]
 >É; mas depende do gênero da expiação. Um senhor, que tenha sido de grande crueldade para os seus escravos, poderá, por sua vez, tornar-se escravo e sofrer os maus-tratos que infligiu a seus semelhantes. Um, que em certa época exerceu o mando, pode, em nova existência, ter que obedecer aos que se curvavam ante a sua vontade. Ser-lhe-á isso uma expiação, que Deus lhe imponha, se ele abusou do seu poder. Também um bom Espírito pode querer encarnar no seio daquelas raças, ocupando posição influente, para fazê-las progredir. Em tal caso, desempenha uma missão. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -4102,7 +4101,7 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 
 >Depende isso da elevação deles e do caminho que seguem, procurando progredir. Se um está mais adiantado e caminha mais depressa do que outro, não podem os dois conservar-se juntos. Ver-se-ão de tempos a tempos, mas não estarão reunidos para sempre, senão quando puderem caminhar lado a lado, ou quando se houverem igualado na perfeição. Acresce que a privação de ver os parentes e amigos é, às vezes, uma punição. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -4212,7 +4211,7 @@ Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhe
 
 A teoria das metades eternas encerra uma simples figura, representativa da união de dois Espíritos simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os Espíritos que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois Espíritos tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -4359,7 +4358,7 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 
 >Isso só se dá no primeiro momento e é efeito da perturbação que se segue ao despertar do Espírito. Mais tarde, ele se vai inteirando da sua condição, à medida que lhe volta a lembrança do passado e que a impressão da vida terrena se lhe apaga. 👉 ([`LDE-q163`](#LDE-q163) e seguintes.) 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -4465,7 +4464,7 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 
 >É a consequência natural dessa intuição. Se assim não fosse, nenhuma razão de ser teria esse respeito.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-06">🔼</a>
 
 ---
 
@@ -4606,7 +4605,7 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 
 >Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -4754,7 +4753,7 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 
 >Em tudo vede o cumprimento da vontade de Deus. Não trateis, pois, desatenciosamente, coisas que deveis respeitar. Por que não respeitar as obras da Criação, uma vez que, se se não completaram, é que assim o quis o Criador? Tudo ocorre segundo os seus desígnios e a ninguém é lícito julgar desses desígnios. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -4813,7 +4812,7 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 ><br />
 O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos fenômenos, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados fenômenos consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do Espírito encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos Espíritos teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de Espíritos, em que estes provam suas personalidades e identidade. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -4867,7 +4866,7 @@ Pode-se comparar a ação que a matéria grosseira exerce sobre o Espírito à d
 
 Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -4956,7 +4955,7 @@ A superioridade moral nem sempre guarda proporção com a superioridade intelect
 
 >Como uma recordação. Um peso oprime o Espírito e, como ele não teve a compreensão de tudo o que se passou durante a sua loucura, sempre se faz mister um certo tempo, a fim de se pôr ao corrente de tudo. Por isso é que, quanto mais durar a loucura no curso da vida terrena, tanto mais lhe durará a incerteza, o constrangimento, depois da morte. Liberto do corpo, o Espírito se ressente, por certo tempo, da impressão dos laços que àquele o prendiam. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -5022,7 +5021,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 <br />
 >Assim, portanto, a infância é não só útil, necessária, indispensável, mas também consequência natural das Leis que Deus estabeleceu e que regem o Universo. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -5079,7 +5078,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 >Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um Espírito mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom Espírito sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -5170,7 +5169,7 @@ As vicissitudes da vida corpórea constituem expiação das faltas do passado e,
 
 A natureza dessas vicissitudes e das provas que sofremos também nos podem esclarecer acerca do que fomos e do que fizemos, do mesmo modo que neste mundo julgamos dos atos de um culpado pelo castigo que lhe inflige a lei. Assim, o orgulhoso será castigado no seu orgulho, mediante a humilhação de uma existência subalterna; o mau rico, o avarento, pela miséria; o que foi cruel para os outros, pelas crueldades que sofrerá; o tirano, pela escravidão; o mau filho, pela ingratidão de seus filhos; o preguiçoso, por um trabalho forçado etc. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-07">🔼</a>
 
 ---
 
@@ -5311,7 +5310,7 @@ Os sonhos são efeito da emancipação da alma, que mais independente se torna p
 
 >Pode, pois que o Espírito se acha preso ao corpo qual balão cativo ao poste. Assim como as sacudiduras do balão abalam o poste, a atividade do Espírito reage sobre o corpo e pode fatigá-lo. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5363,7 +5362,7 @@ Pelo termo **antigos** se devem entender os laços de amizade contraída em exis
 
 >Como Espírito, a pessoa que figuras pode ver o seu amigo e conhecer-lhe a sorte. Se lhe não houver sido imposto, por prova, crer na morte desse amigo, poderá ter um pressentimento da sua existência, como poderá tê-lo de sua morte. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5396,7 +5395,7 @@ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos,
 
 Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5434,7 +5433,7 @@ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que 
 
 A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5546,7 +5545,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 >Muito, como o bom ou mau uso que o homem faz de todas as faculdades com que Deus o dotou. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5610,7 +5609,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 >Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5690,7 +5689,7 @@ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, e
 
 >Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5747,7 +5746,7 @@ O poder da vista dupla varia, indo desde a sensação confusa até a percepção
 
 O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-08">🔼</a>
 
 ---
 
@@ -5807,7 +5806,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 >Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os Espíritos sérios se condoem dos vossos reveses e procuram ajudar-vos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -5935,7 +5934,7 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 >Aproveitam as circunstâncias ocorrentes, mas também costumam criá-las, impelindo-vos, mau grado vosso, para aquilo que cobiçais. Assim, por exemplo, encontra um homem, no seu caminho, certa quantia. Não penseis tenham sido os Espíritos que a trouxeram para ali, mas eles podem inspirar ao homem a ideia de tomar aquela direção e sugerir-lhe depois a de se apoderar da importância achada, enquanto outros lhe sugerem a de restituir o dinheiro ao seu legítimo dono. O mesmo se dá com relação a todas as demais tentações. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6001,7 +6000,7 @@ O vocábulo possesso, na sua acepção vulgar, supõe a existência de demônios
 
 >Depende da interpretação que se lhe dê. Se chamais demônio ao mau Espírito que subjugue um indivíduo, desde que se lhe destrua a influência, ele terá sido verdadeiramente expulso. Se ao demônio atribuirdes a causa de uma enfermidade, quando a houverdes curado direis com acerto que expulsastes o demônio. Uma coisa pode ser verdadeira ou falsa, conforme o sentido que empresteis às palavras. As maiores verdades estão sujeitas a parecer absurdos, uma vez que se atenda apenas à forma, ou que se considere como realidade a alegoria. Compreendei bem isto e não o esqueçais nunca, pois que se presta a uma aplicação geral. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6043,7 +6042,7 @@ A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplício
 
 Visto que esses fenômenos dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6099,7 +6098,7 @@ Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as conside
 
 >Muito sensíveis, mas esquecem-se dos que os olvidam. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6394,7 +6393,7 @@ Tendo todo homem Espíritos que com ele simpatizam, claro é que, nos **corpos c
 
 Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o caráter dominante e sobretudo as leis, porque o caráter de uma nação se reflete nas suas leis. Fazendo reinar em seu seio a justiça, os homens combatem a influência dos maus Espíritos. Onde quer que as leis consagrem coisas injustas, contrárias à Humanidade, os bons Espíritos ficam em minoria e a multidão que aflui dos maus mantém a nação aferrada às suas ideias e paralisa as boas influências parciais, que ficam perdidas no conjunto, como insuladas espigas entre espinheiros. Estudando-se os costumes dos povos ou de qualquer reunião de homens, facilmente se forma ideia da população oculta que se lhes imiscui no modo de pensar e nos atos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6425,7 +6424,7 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6565,7 +6564,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 #️⃣ 535b. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 >Assim é, de fato, mas importa ver o fim. Pagarão bem caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6636,7 +6635,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 
 >Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de Deus. Pois bem, do mesmo modo, os Espíritos mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena consciência de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos fenômenos, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado espírito ainda não pode apreender em seu conjunto! 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6711,7 +6710,7 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 >Raras são as mortes verdadeiramente instantâneas. Na maioria dos casos, o Espírito, cujo corpo acaba de ser mortalmente ferido, não tem consciência imediata desse fato. Somente quando ele começa a reconhecer a nova condição em que se acha, é que os assistentes podem distingui-lo, a mover-se ao lado do cadáver. Parece isso tão natural, que nenhum efeito desagradável lhe causa a vista do corpo morto. Tendo-se a vida toda concentrado no Espírito, só ele prende a atenção dos outros. É com ele que estes conversam, ou a ele é que fazem determinações. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6735,7 +6734,7 @@ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores na
 
 >Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra. Isso a que te referes é uma alegoria, que se pode explicar desta maneira: aquele que chama em seu auxílio os Espíritos, para deles obter riquezas, ou qualquer outro favor, rebela-se contra a Providência; renuncia à missão que recebeu e às provas que lhe cumpre suportar neste mundo. Sofrerá na vida futura as consequências desse ato. Não quer isto dizer que sua alma fique para sempre condenada à desgraça, mas, desde que, em lugar de se desprender da matéria, nela cada vez se enterra mais, não terá, no mundo dos Espíritos, a satisfação de que haja gozado na Terra, até que tenha resgatado a sua falta, por meio de novas provas, talvez maiores e mais penosas. Coloca-se, por amor dos gozos materiais, na dependência dos Espíritos impuros. Estabelece-se assim, tacitamente, entre estes e ele, o Espírito delinquente, um pacto que o leva à sua perda, mas que lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos bons Espíritos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6794,7 +6793,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 >A força magnética pode chegar até aí, quando secundada pela pureza dos sentimentos e por um ardente desejo de fazer o bem, porque então os bons Espíritos lhe vêm em auxílio. Cumpre, porém, desconfiar da maneira pela qual contam as coisas pessoas muito crédulas e muito entusiastas, sempre dispostas a considerar maravilhoso o que há de mais simples e mais natural. Importa desconfiar também das narrativas interesseiras, que costumam fazer os que exploram, em seu proveito, a credulidade alheia. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
@@ -6809,15 +6808,13 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 >Deus não escuta a maldição injusta e culpado perante Ele se torna o que a profere. Como temos os dois gênios opostos, o bem e o mal, pode a maldição exercer momentaneamente influência, mesmo sobre a matéria. Tal influência, porém, só se verifica por vontade de Deus como aumento de prova para aquele que é dela objeto. Ademais, o que é comum é serem amaldiçoados os maus e abençoados os bons. Jamais a bênção e a maldição podem desviar da senda da justiça a Providência, que nunca fere o maldito, senão quando mau, e cuja proteção não acoberta senão aquele que a merece. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-09">🔼</a>
 
 ---
 
 <a name="LDE-2-10"><code>LDE-2-10</code></a>
 
 <h3>📑 10. Das ocupações e missões dos Espíritos</h3>
-
----
 
 ---
 
@@ -7085,7 +7082,7 @@ Os Espíritos vulgares se imiscuem em nossas ocupações e diversões.
 
 Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em que praza a Deus proporcionar-lhes meios de se adiantarem. Se praticam o mal, é pelo despeito de ainda não poderem gozar do bem. 
 
-<a href="#LDE-2">🔼</a>
+<a href="#LDE-2-10">🔼</a>
 
 ---
 
@@ -7160,7 +7157,7 @@ O organismo humano nos proporciona exemplo de movimentos análogos, sem particip
 
 >Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-11">🔼</a>
 
 ---
 
@@ -7359,7 +7356,7 @@ Há sempre anéis que ligam as extremidades da cadeia dos seres e dos acontecime
 
 >Não, mas a questão não fora desenvolvida. Ademais, há coisas que só a seu tempo podem ser esclarecidas. O homem é, com efeito, um ser à parte, visto possuir faculdades que o distinguem de todos os outros e ter outro destino. A espécie humana é a que Deus escolheu para a encarnação dos seres **que podem conhecê-lo**. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-11">🔼</a>
 
 ---
 
@@ -7400,7 +7397,7 @@ As diferentes espécies de animais não procedem **intelectualmente** umas das o
 
 Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-11">🔼</a>
 
 ---
 
@@ -7436,7 +7433,7 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 - [`LDE-3-01-03` 📃 O bem e o mal](#LDE-3-01-03)
 - [`LDE-3-01-04` 📃 Divisão da lei natural](#LDE-3-01-04)
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3">🔼</a>
 
 ---
 
@@ -7492,7 +7489,7 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 
 >A razão está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-01">🔼</a>
 
 ---
 
@@ -7584,7 +7581,7 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 
 >Importa que cada coisa venha a seu tempo. A verdade é como a luz: o homem precisa habituar-se a ela pouco a pouco; do contrário, fica deslumbrado.>Jamais permitiu Deus que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma ciência sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes fenômenos, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de filosofia, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o Espiritismo dá de uma imensidade de coisas que até agora se vos afiguraram sem razão alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-01">🔼</a>
 
 ---
 
@@ -7730,17 +7727,13 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 <br />
 >, disse-o Jesus, a propósito do óbolo da viúva.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-01">🔼</a>
 
 ---
 
 <a name="LDE-3-01-04"><code>LDE-3-01-04</code></a>
 
 <p><b>📃 Divisão da lei natural</b></p>
-
-<a href="#LDE">🔼</a>
-
----
 
 ---
 
@@ -7756,7 +7749,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 >Essa divisão da Lei de Deus em dez partes é a de Moisés e de natureza a abranger todas as circunstâncias da vida, o que é essencial. Podes, pois, adotá-la, sem que, por isso, tenha qualquer coisa de absoluta, como não o tem nenhum dos outros sistemas de classificação, que todos dependem do prisma pelo qual se considere o que quer que seja. A última lei é a mais importante, por ser a que faculta ao homem adiantar-se mais na vida espiritual, visto que resume todas as outras. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-01">🔼</a>
 
 ---
 
@@ -7809,7 +7802,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 >A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-02">🔼</a>
 
 ---
 
@@ -7857,7 +7850,7 @@ Não pergunteis, pois, se alguma forma de adoração há que mais convenha, porq
 >Reunidos pela comunhão dos pensamentos e dos sentimentos, mais força têm os homens para atrair a si os bons Espíritos.
 O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que menos valiosa seja a adoração particular, pois que cada um pode adorar a Deus pensando nele. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-02">🔼</a>
 
 ---
 
@@ -7872,7 +7865,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 >Não, porquanto, se é certo que não fazem o mal, também o é que não fazem o bem e são inúteis. Ademais, não fazer o bem já é um mal. Deus quer que o homem pense nele, mas não quer que só nele pense, pois que lhe impôs deveres a cumprir na Terra. Quem passa todo o tempo na meditação e na contemplação nada faz de meritório aos olhos de Deus, porque vive uma vida toda pessoal e inútil à Humanidade e Deus lhe pedirá contas do bem que não houver feito. 👉 ([`LDE-q640`](#LDE-q640)) 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-02">🔼</a>
 
 ---
 
@@ -7956,7 +7949,7 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 
 >Pode-se orar aos bons Espíritos, como os mensageiros de Deus e os executores de suas vontades. O poder deles, porém, está em relação com a superioridade que tenham alcançado e dimana sempre do Senhor de todas as coisas, sem cuja permissão nada se faz. Eis por que as preces que se lhes dirigem só são eficazes se bem-aceitas por Deus.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-02">🔼</a>
 
 ---
 
@@ -7982,7 +7975,7 @@ A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, co
 
 Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenômenos miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-02">🔼</a>
 
 ---
 
@@ -8037,7 +8030,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 >Deus abençoa sempre os que fazem o bem. O melhor meio de honrá-lo consiste em minorar os sofrimentos dos pobres e dos aflitos. Não quero dizer com isto que Ele desaprove as cerimônias que praticais para lhe dirigirdes as vossas preces. Muito dinheiro, porém, aí se gasta que poderia ser empregado mais utilmente do que o é. Deus ama a simplicidade em tudo. O homem que se atém às exterioridades e não ao coração é um Espírito de vistas acanhadas. Dizei, em consciência, se Deus deve atender mais à forma do que ao fundo. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-02">🔼</a>
 
 ---
 
@@ -8114,7 +8107,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 >Certamente, do mesmo modo que os pais têm que trabalhar para seus filhos. Foi por isso que Deus fez do amor filial e do amor paterno um sentimento natural. Foi para que, por essa afeição recíproca, os membros de uma família se sentissem impelidos a ajudarem-se mutuamente, o que, aliás, com muita frequência se esquece na vossa sociedade atual. 👉 ([`LDE-q205`](#LDE-q205)) 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-03">🔼</a>
 
 ---
 
@@ -8159,7 +8152,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que aquele que tem de prover à sua existência por meio do trabalho encontre em que se ocupar, o que nem sempre acontece. Quando se generaliza, a suspensão do trabalho assume as proporções de um flagelo, qual a miséria. A ciência econômica procura remédio para isso no equilíbrio entre a produção e o consumo. Esse equilíbrio, porém, dado seja possível estabelecer-se, sofrerá sempre intermitências, durante as quais não deixa o trabalhador de ter que viver. Há um elemento, que se não costuma fazer pesar na balança e sem o qual a ciência econômica não passa de simples teoria. Esse elemento é a **educação**, não a educação intelectual, mas a educação moral. Não nos referimos, porém, à educação moral pelos livros e sim à que consiste na **arte de formar os caracteres**, à que **incute** **hábitos**, porquanto **a educação é o conjunto dos hábitos adquiridos**. Considerando-se a aluvião de indivíduos que todos os dias são lançados na torrente da população, sem princípios, sem freio e entregues a seus próprios instintos, serão de espantar as consequências desastrosas que daí decorrem? Quando essa arte for conhecida, compreendida e praticada, o homem terá no mundo hábitos de **ordem e de previdência** para consigo mesmo e para com os seus, **de respeito a tudo o que é respeitável**, hábitos que lhe permitirão atravessar menos penosamente os maus dias inevitáveis. A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-03">🔼</a>
 
 ---
 
@@ -8197,7 +8190,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 >Não, Deus a isso provê e mantém sempre o equilíbrio. Ele coisa alguma inútil faz. O homem, que apenas vê um canto do quadro da Natureza, não pode julgar da harmonia do conjunto. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-04">🔼</a>
 
 ---
 
@@ -8242,7 +8235,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 >Que importa seja nulo o seu merecimento, desde que o progresso se realize? Cabe-lhe tornar meritório, pela intenção, o seu trabalho. Ademais, mediante esse trabalho, ele exercita e desenvolve a inteligência e sob este aspecto é que maior proveito tira. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-04">🔼</a>
 
 ---
 
@@ -8271,7 +8264,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 >Isso prova a predominância do corpo sobre a alma e quanto o homem é material. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-04">🔼</a>
 
 ---
 
@@ -8318,7 +8311,7 @@ O estado de natureza é o da união livre e fortuita dos sexos. O casamento cons
 
 Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fez. Nenhum mérito, portanto, pode haver na violação da sua lei. Se o celibato, em si mesmo, não é um estado meritório, outro tanto não se dá quando constitui, pela renúncia, às alegrias da família, um sacrifício praticado em prol da Humanidade. Todo sacrifício pessoal, tendo em vista o bem **e sem qualquer ideia egoísta**, eleva o homem acima da sua condição material. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-04">🔼</a>
 
 ---
 
@@ -8344,7 +8337,7 @@ Se a poligamia fosse conforme a Lei da Natureza, devera ter possibilidade de tor
 
 Deve ser considerada como um uso ou legislação especial apropriada a certos costumes e que o aperfeiçoamento social fez que desaparecesse pouco a pouco.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-04">🔼</a>
 
 ---
 
@@ -8382,7 +8375,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 >Porque todos têm que concorrer para cumprimento dos desígnios da Providência. Por isso foi que Deus lhes deu a necessidade de viver. Acresce que a vida é necessária ao aperfeiçoamento dos seres. Eles o sentem instintivamente, sem disso se aperceberem. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-05">🔼</a>
 
 ---
 
@@ -8443,7 +8436,7 @@ Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, 
 
 >Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-05">🔼</a>
 
 ---
 
@@ -8497,7 +8490,7 @@ Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm,
 
 O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da razão que Deus lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de Deus. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-05">🔼</a>
 
 ---
 
@@ -8528,7 +8521,7 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 
 Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-05">🔼</a>
 
 ---
 
@@ -8613,7 +8606,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 >Contra os perigos e os sofrimentos é que o instinto de conservação foi dado a todos os seres. Fustigai o vosso espírito e não o vosso corpo, mortificai o vosso orgulho, sufocai o vosso egoísmo, que se assemelha a uma serpente a vos roer o coração, e fareis muito mais pelo vosso adiantamento do que infligindo-vos rigores que já não são deste século. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-05">🔼</a>
 
 ---
 
@@ -8709,7 +8702,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 >Esse excesso, no tocante a um sentimento louvável em si mesmo, se torna abusivo e o seu merecimento fica neutralizado por abusos de muitas outras espécies. Entre tais povos, há mais temor supersticioso do que verdadeira bondade. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -8771,7 +8764,7 @@ Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de
 
 Na primeira linha dos flagelos destruidores, naturais e independentes do homem, devem ser colocadas a peste, a fome, as inundações e as intempéries fatais às produções da terra. Não tem, porém, o homem encontrado na Ciência, nas obras de arte, no aperfeiçoamento da agricultura, nos afolhamentos e nas irrigações, no estudo das condições higiênicas, meios de impedir, ou, quando menos, de atenuar muitos desastres? Certas regiões, outrora assoladas por terríveis flagelos, não estão hoje preservadas deles? Que não fará, portanto, o homem pelo seu bem-estar material, quando souber aproveitar-se de todos os recursos da sua inteligência e quando, aos cuidados da sua conservação pessoal, souber aliar o sentimento de verdadeira caridade para com os seus semelhantes? 👉 ([`LDE-q707`](#LDE-q707)) 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -8814,7 +8807,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 >Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -8864,7 +8857,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 >O desenvolvimento intelectual não implica a necessidade do bem. Um Espírito, superior em inteligência, pode ser mau. Isso se dá com aquele que muito tem vivido sem se melhorar: apenas sabe. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -8909,7 +8902,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 >A Humanidade progride. Esses homens, em quem o instinto do mal domina e que se acham deslocados entre pessoas de bem, desaparecerão gradualmente, como o mau grão se separa do bom, quando este é joeirado, mas desaparecerão para renascer sob outros invólucros. Como então terão mais experiência, compreenderão melhor o bem e o mal. Tens disso um exemplo nas plantas e nos animais que o homem há conseguido aperfeiçoar, desenvolvendo neles qualidades novas. Pois bem! só ao cabo de muitas gerações o desenvolvimento se torna completo. É a imagem das diversas existências do homem. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -8956,7 +8949,7 @@ Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os 
 
 Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu alguma falta, ou em perdoar, se de seu lado esteja a razão, e, qualquer que seja o caso, em desprezar os insultos, que o não podem atingir. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -9014,7 +9007,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 >É tomar o homem o lugar de Deus na distribuição da justiça. Os que assim procedem mostram quão longe estão de compreender Deus e que muito ainda têm que expiar. A pena de morte é um crime, quando aplicada em nome de Deus; e os que a impõem se sobrecarregam de outros tantos assassínios. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-06">🔼</a>
 
 ---
 
@@ -9059,7 +9052,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-07">🔼</a>
 
 ---
 
@@ -9111,7 +9104,7 @@ Homem nenhum possui faculdades completas. Mediante a união social é que elas u
 
 O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o homem das relações sociais que lhe podem facultar ocasiões de fazer o bem e de cumprir a lei do progresso. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-07">🔼</a>
 
 ---
 
@@ -9140,7 +9133,7 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 >Uma recrudescência do egoísmo. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-07">🔼</a>
 
 ---
 
@@ -9188,7 +9181,7 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 
 >Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque Deus assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-08">🔼</a>
 
 ---
 
@@ -9272,7 +9265,7 @@ O homem não pode conservar-se indefinidamente na ignorância, porque tem de ati
 
 Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a Humanidade está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-08">🔼</a>
 
 ---
 
@@ -9332,7 +9325,7 @@ Outra dificuldade, no entanto, apresenta aqui o sistema da unicidade das existê
 
 Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As almas vindas no tempo da civilização tiveram sua infância, como todas as outras, **mas já tinham vivido antes** e vêm adiantadas por efeito do progresso realizado anteriormente. Vêm atraídas por um meio que lhes é simpático e que se acha em relação com o estado em que atualmente se encontram. De sorte que, os cuidados dispensados à civilização de um povo não têm como consequência fazer que, de futuro, se criem almas mais perfeitas; têm, sim, o de atrair as que já progrediram, quer tenham vivido no seio do povo que se figura, ao tempo da sua barbaria, quer venham de outra parte. Aqui se nos depara igualmente a chave do progresso da Humanidade inteira. Quando todos os povos estiverem no mesmo nível, no tocante ao sentimento do bem, a Terra será ponto de reunião exclusivamente de bons Espíritos, que viverão fraternalmente unidos. Os maus, sentindo-se aí repelidos e deslocados, irão procurar, em mundos inferiores, o meio que lhes convém, até que sejam dignos de volver ao nosso, então transformado. Da teoria vulgar ainda resulta que os trabalhos de melhoria social só às gerações presentes e futuras aproveitam, sendo de resultados nulos para as gerações passadas, que cometeram o erro de vir muito cedo e que ficam sendo o que podem ser, sobrecarregadas com o peso de seus atos de barbaria. Segundo a Doutrina dos Espíritos, os progressos ulteriores aproveitam igualmente às gerações pretéritas, que voltam a viver em melhores condições e podem assim aperfeiçoar-se no foco da civilização. 👉 ([`LDE-q222`](#LDE-q222)) 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-08">🔼</a>
 
 ---
 
@@ -9386,7 +9379,7 @@ A civilização, como todas as coisas, apresenta gradações diversas. Uma civil
 
 De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima acepção do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a inteligência possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro amor do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa vontade esteja certo de lhe não faltar o necessário. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-08">🔼</a>
 
 ---
 
@@ -9424,7 +9417,7 @@ A civilização criou necessidades novas para o homem, necessidades relativas à
 
 >Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera! 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-08">🔼</a>
 
 ---
 
@@ -9469,7 +9462,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 >Desejaríeis milagres, mas Deus os espalha a mancheias diante dos vossos passos e, no entanto, ainda há homens que o negam. Conseguiu, porventura, o próprio Cristo convencer os seus contemporâneos, mediante os prodígios que operou? Não conheceis presentemente alguns que negam os fatos mais patentes, ocorridos às suas vistas? Não há os que dizem que não acreditariam, mesmo que vissem? Não; não é por meio de prodígios que Deus quer encaminhar os homens. Em sua bondade, Ele lhes deixa o mérito de se convencerem pela razão. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-08">🔼</a>
 
 ---
 
@@ -9504,7 +9497,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. Deus a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9557,7 +9550,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 >Merecem anátema! Ai deles! Serão, a seu turno, oprimidos: renascerão numa existência em que terão de sofrer tudo o que tiverem feito sofrer aos outros. 👉 ([`LDE-q684`](#LDE-q684))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9627,7 +9620,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 >Certamente. Já dissemos que a sociedade é muitas vezes a principal culpada de semelhante coisa. Ademais, não tem ela que velar pela educação moral dos seus membros? Quase sempre, é a má-educação que lhes falseia o critério, em vez de sufocar-lhes as tendências perniciosas. 👉 ([`LDE-q685`](#LDE-q685))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9666,7 +9659,7 @@ Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha d
 
 👉 ([`LDE-q266`](#LDE-q266))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9725,7 +9718,7 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 
 >Dos direitos, sim; das funções, não. Preciso é que cada um esteja no lugar que lhe compete. Ocupe-se do exterior o homem e do interior a mulher, cada um de acordo com a sua aptidão. A lei humana, para ser equitativa, deve consagrar a igualdade dos direitos do homem e da mulher. Todo privilégio a um ou a outro concedido é contrário à justiça. **A emancipação da mulher acompanha o progresso da civilização**. Sua escravização marcha de par com a barbaria. Os sexos, além disso, só existem na organização física. Visto que os Espíritos podem encarnar num e noutro, sob esse aspecto nenhuma diferença há entre eles. Devem, por conseguinte, gozar dos mesmos direitos.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9756,7 +9749,7 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 
 O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelmente todas as distinções humanas. Em vão tenta o rico perpetuar a sua memória, mandando erigir faustosos monumentos. O tempo os destruirá, como lhe consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia espiritual. 👉 ([`LDE-q320`](#LDE-q320) e seguintes.) 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9818,7 +9811,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 >Quanto mais inteligência tem o homem para compreender um princípio, tanto menos escusável é de o não aplicar a si mesmo. Em verdade vos digo que o homem simples, porém sincero, está mais adiantado no caminho de Deus, do que um que pretenda parecer o que não é.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -9855,7 +9848,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 >Digo que esses compreendem melhor os seus interesses. Igual cuidado dispensam aos seus bois e cavalos, para que obtenham bom preço no mercado. Não são tão culpados como os que maltratam os escravos, mas nem por isso deixam de dispor deles como de uma mercadoria, privando-os do direito de se pertencerem a si mesmos.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -9877,7 +9870,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 >Perante Deus, é. Somente a Deus sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -9943,7 +9936,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 >Será aquela que mais homens de bem e menos hipócritas fizer, isto é, pela prática da lei de amor na sua maior pureza e na sua mais ampla aplicação. Esse o sinal por que reconhecereis que uma doutrina é boa, visto que toda doutrina que tiver por efeito semear a desunião e estabelecer uma linha de separação entre os filhos de Deus não pode deixar de ser falsa e perniciosa.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -10007,7 +10000,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 >É fora de dúvida que o mundo tem suas exigências. Deus é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -10152,7 +10145,7 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 
 >Antiga superstição, que prendia às estrelas os destinos dos homens. Alegoria que algumas pessoas fazem a tolice de tomar ao pé da letra.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -10192,7 +10185,7 @@ Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande 
 
 Quanto mais se reflete nas consequências que teria para o homem o conhecimento do futuro, melhor se vê quanto foi sábia a Providência em lho ocultar. A certeza de um acontecimento venturoso o lançaria na inação. A de um acontecimento infeliz o encheria de desânimo. Em ambos os casos, suas forças ficariam paralisadas. Daí o não lhe ser mostrado o futuro, senão como **meta** que lhe cumpre atingir por seus esforços, mas ignorando os trâmites por que terá de passar para alcançá-la. O conhecimento de todos os incidentes da jornada lhe tolheria a iniciativa e o uso do livre-arbítrio. Ele se deixaria resvalar pelo declive fatal dos acontecimentos, sem exercer suas faculdades. Quando o feliz êxito de uma coisa está assegurado, ninguém mais com ela se preocupa.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -10225,7 +10218,7 @@ Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de t
 
 Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de Espíritos maus do que de bons. Tal a razão por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-10">🔼</a>
 
 ---
 
@@ -10319,7 +10312,7 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 
 >O do verdadeiro justo, a exemplo de Jesus, porquanto praticaria também o amor do próximo e a caridade, sem os quais não há verdadeira justiça.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-11">🔼</a>
 
 ---
 
@@ -10390,7 +10383,7 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 
 >É fora de dúvida que tudo o que legitimamente se adquire constitui uma propriedade. Mas, como havemos dito, a legislação dos homens, porque imperfeita, consagra muitos direitos convencionais, que a lei de justiça reprova. Essa a razão por que eles reformam suas leis, à medida que o progresso se efetua e que melhor compreendem a justiça. O que num século parece perfeito, afigura-se bárbaro no século seguinte. 👉 ([`LDE-q795`](#LDE-q795))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-11">🔼</a>
 
 ---
 
@@ -10457,7 +10450,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 
 >“Sem dúvida; mas, se uma boa educação moral lhes houvera ensinado a praticar a Lei de Deus, não teriam caído nos excessos causadores da sua perdição. Disso, sobretudo, é que depende a melhoria do vosso planeta.” 👉 ([`LDE-q707`](#LDE-q707))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-11">🔼</a>
 
 ---
 
@@ -10486,7 +10479,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 
 >Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por encaminhar os filhos para o bem 👉 ([`LDE-q582`](#LDE-q582) a [`LDE-q583`](#LDE-q583)). Ademais, esses desgostos são, amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que semearam. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-11">🔼</a>
 
 ---
 
@@ -10637,7 +10630,7 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 
 >Pois que pode ter consciência do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de Deus e, sobretudo, na da lei de justiça, amor e caridade, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus pendores e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta. 👉 ([`LDE-q919`](#LDE-q919))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-12">🔼</a>
 
 ---
 
@@ -10695,7 +10688,7 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 
 >Praticar a abnegação.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-12">🔼</a>
 
 ---
 
@@ -10748,7 +10741,7 @@ O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo.
 
 O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-12">🔼</a>
 
 ---
 
@@ -10779,7 +10772,7 @@ Não é vingativo. A exemplo de Jesus, perdoa as ofensas, para só se lembrar do
 
 Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-12">🔼</a>
 
 ---
 
@@ -10811,7 +10804,7 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-12">🔼</a>
 
 ---
 
@@ -10839,7 +10832,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 - [`LDE-4-01-05` 📃 Temor da morte](#LDE-4-01-05)
 - [`LDE-4-01-06` 📃 Desgosto da vida- Suicídio](#LDE-4-01-06)
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4">🔼</a>
 
 ---
 
@@ -10974,7 +10967,7 @@ Aquele que só vê felicidade na satisfação do orgulho e dos apetites grosseir
 
 Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra no **sentimento cristão, que lhe dá a esperança de melhor futuro, e no Espiritismo, que lhe dá a certeza desse futuro**. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-01">🔼</a>
 
 ---
 
@@ -11013,7 +11006,7 @@ Pelas provas patentes, que ministra, da vida futura, da presença, em torno de n
 
 Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-01">🔼</a>
 
 ---
 
@@ -11044,7 +11037,7 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 
 A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores gozos que lhe são concedidos na Terra é o de encontrar corações que com o seu simpatizem. Dá-lhe ela, assim, as primícias da felicidade que o aguarda no mundo dos Espíritos perfeitos, onde tudo é amor e benignidade. Desse gozo está excluído o egoísta. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-01">🔼</a>
 
 ---
 
@@ -11075,7 +11068,7 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 
 >Há e para ela é uma dura expiação, mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores. Se a luz da verdade já lhe houver penetrado a alma, em sua fé no futuro haurirá consolação. Todavia, à medida que os preconceitos se enfraquecerem, as causas dessas desgraças íntimas também desaparecerão. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-01">🔼</a>
 
 ---
 
@@ -11102,7 +11095,7 @@ O homem moral, que se colocou acima das necessidades factícias criadas pelas pa
 
 >Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-01">🔼</a>
 
 ---
 
@@ -11260,7 +11253,7 @@ A afinidade que permanece entre o Espírito e o corpo produz, nalguns suicidas, 
 
 A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao Espiritismo estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-01">🔼</a>
 
 ---
 
@@ -11310,7 +11303,7 @@ Crer em Deus, sem admitir a vida futura, fora um contrassenso. O sentimento de u
 
 A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11343,7 +11336,7 @@ A responsabilidade dos nossos atos é a consequência da realidade da vida futur
 
 A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11377,7 +11370,7 @@ Um pai deu a seu filho educação e instrução, isto é, os meios de se guiar. 
 
 Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11566,7 +11559,7 @@ Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam alm
 
 A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11628,7 +11621,7 @@ Nos mundos onde a existência é menos material do que neste, menos grosseiras s
 
 >Inquestionavelmente, essas pessoas não são boas. Expiarão suas faltas, tendo sempre diante da vista aqueles a quem infelicitaram, valendo-lhes isso por uma exprobração. Depois, noutra existência, sofrerão o que fizeram sofrer. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11751,7 +11744,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 
 >O arrependimento lhe apressa a reabilitação, mas não o absolve. Diante dele não se desdobra o futuro, que jamais se lhe tranca? 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11851,7 +11844,7 @@ Na linguagem vulgar, a palavra eterno é muitas vezes empregada figuradamente, p
 
 Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral 👉 ([`LDE-q974`](#LDE-q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11879,7 +11872,7 @@ Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo 
 
 É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
@@ -11971,7 +11964,7 @@ De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das 
 ><br />
 >**São Luís** 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-4-02">🔼</a>
 
 ---
 
