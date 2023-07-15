@@ -551,7 +551,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ---
 
-![Cepa Espírita](../images/vine.png)
+![Cepa Espírita](./images/vine.png)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
