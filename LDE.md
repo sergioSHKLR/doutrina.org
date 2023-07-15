@@ -45,7 +45,7 @@
 |---|---|
 | ⚠️ **AVISO** | A obra original (ISBN 978-85-7328-728-8) *Copyright* © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto. |
 
-**v2023-07-13**
+**v2023-07-14**
 
 **Sumário**
 
@@ -9521,7 +9521,7 @@ Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igua
 
 Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os Espíritos encarnados neles. Deus, portanto, não criou faculdades desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir.👉 ([`LDE-q180`](#LDE-q180))
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-3-09">🔼</a>
 
 ---
 
@@ -9759,14 +9759,14 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-- [`LDE-3-10-01` 📃 Liberdade natural](#LDE-3-10-0-1)
-- [`LDE-3-10-02` 📃 Escravidão](#LDE-3-10-0-2)
-- [`LDE-3-10-03` 📃 Liberdade de pensar](#LDE-3-10-0-3)
-- [`LDE-3-10-04` 📃 Liberdade de consciência](#LDE-3-10-0-4)
-- [`LDE-3-10-05` 📃 Livre-arbítrio](#LDE-3-10-0-5)
-- [`LDE-3-10-06` 📃 Fatalidade](#LDE-3-10-0-6)
-- [`LDE-3-10-07` 📃 Conhecimento do futuro](#LDE-3-10-0-7)
-- [`LDE-3-10-08` 📃 Resumo teórico do móvel das ações humanas](#LDE-3-10-0-8)
+- [`LDE-3-10-01` 📃 Liberdade natural](#LDE-3-10-01)
+- [`LDE-3-10-02` 📃 Escravidão](#LDE-3-10-02)
+- [`LDE-3-10-03` 📃 Liberdade de pensar](#LDE-3-10-03)
+- [`LDE-3-10-04` 📃 Liberdade de consciência](#LDE-3-10-04)
+- [`LDE-3-10-05` 📃 Livre-arbítrio](#LDE-3-10-05)
+- [`LDE-3-10-06` 📃 Fatalidade](#LDE-3-10-06)
+- [`LDE-3-10-07` 📃 Conhecimento do futuro](#LDE-3-10-07)
+- [`LDE-3-10-08` 📃 Resumo teórico do móvel das ações humanas](#LDE-3-10-08)
 
 <a href="#LDE-3">🔼</a>
 
