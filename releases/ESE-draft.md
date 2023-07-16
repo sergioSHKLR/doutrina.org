@@ -478,9 +478,7 @@ Se, portanto, aprouver a um Espírito formular um sistema excêntrico, baseado u
 
 Essa a base em que nos apoiamos, quando formulamos um princípio da doutrina. Não é porque esteja de acordo com as nossas ideias que o temos por verdadeiro. Não nos arvoramos, absolutamente, em árbitro supremo da verdade e a ninguém dizemos:
 
->Crede em tal coisa, porque somos nós que vo-lo dizemos.
-
-<br />
+>Crede em tal coisa, porque somos nós que vo-lo dizemos.<br />
 
 A nossa opinião não passa, aos nossos próprios olhos, de uma opinião pessoal, que pode ser verdadeira ou falsa, visto não nos considerarmos mais infalível do que qualquer outro. Também não é porque um princípio nos foi ensinado que, para nós, ele exprime a verdade, mas porque recebeu a sanção da concordância.
 
