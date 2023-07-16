@@ -422,7 +422,6 @@ L’Évangile selon le spiritisme<br />
 <h2>🗂️ Parte 2. Pós-textual</h2>
 
 - [`ESE-2-01` 📃 Nota explicativa](#ESE-2-01)
-- [`ESE-2-02` Índice Geral](#ESE-2-02)
 
 <a href="#ESE">🔼 voltar um nível</a>
 
