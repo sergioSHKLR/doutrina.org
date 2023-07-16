@@ -8,9 +8,9 @@ Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/dout
 
 - <a href="./releases/LDE-2023-07-15.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
 - <a href="./releases/LDM-2023-07-15.html"><code>LDM</code> ✒️ O Livro dos Médiuns</a>
-- <a href="./releases/ESE-draft.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo</a>
-- <a href=""><code>CEU</code> 🔥 O Céu e o Inferno (UNRELEASED)</a>
-- <a href=""><code>GEN</code> 🌱 A Gênese (UNRELEASED)</a>
+- <a href="./releases/ESE-draft.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo (EM DESENVOLVIMENTO)</a>
+- <a href=""><code>CEU</code> 🔥 O Céu e o Inferno (AGUARDANDO)</a>
+- <a href=""><code>GEN</code> 🌱 A Gênese (AGUARDANDO)</a>
 
 ## Objetivo
 
@@ -78,7 +78,7 @@ Deus abençoa, sempre!
 
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
-| 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=LDE.md) |
+| 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=doutrina@gh) |
 
 ## Notas
 
@@ -86,7 +86,7 @@ Deus abençoa, sempre!
 
 ## Legal
 
-- **LDE.md**, **LDM.md**, **ESE.md**, **CEU.md** e **GEN.md**  e seus variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR.
+- **LDE.md**, **LDM.md**, **ESE.md**, **CEU.md** e **GEN.md**  e seus variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível em https://github.com/sergioSHKLR.
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 

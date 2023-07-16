@@ -330,7 +330,7 @@ ESE-qXXXXa
     </li>
     <li>
       <p>
-        <strong>ESE.md</strong> e seus variantes são licenciados sob <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em <a href='https://github.com/sergioSHKLR' target='_blank' class='url'>https://github.com/sergioSHKLR</a>.
+        <strong>ESE.md</strong> e seu variante HTML são licenciados sob <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em <a href='https://github.com/sergioSHKLR' target='_blank' class='url'>https://github.com/sergioSHKLR</a>.
       </p>
       <hr />
       <p>&nbsp;</p>
@@ -353,7 +353,7 @@ ESE-qXXXXa
 - [`ESE-0-01` 📃 Folha de rosto](#ESE-0-01)
 - [`ESE-0-02` 📑 Introdução](#ESE-0-02)
 
-<a href="#ESE">🔼</a>
+<a href="#ESE">🔼 voltar um nível</a>
 
 ---
 
@@ -376,7 +376,7 @@ Título do original francês<br />
 L’Évangile selon le spiritisme<br />
 (Paris, abril de 1864)
 
- <a href="#ESE-0">🔼</a>
+ <a href="#ESE-0">🔼 voltar um nível</a>
 
 ---
 
@@ -413,7 +413,7 @@ L’Évangile selon le spiritisme<br />
 - [`ESE-1-27` 📑 27. Pedi e obtereis](#ESE-1-27)
 - [`ESE-1-28` 📑 28. Coletânea de preces espíritas](#ESE-1-28)
 
-<a href="#ESE">🔼</a>
+<a href="#ESE">🔼 voltar um nível</a>
 
 ---
 
@@ -424,6 +424,6 @@ L’Évangile selon le spiritisme<br />
 - [`ESE-2-01` 📃 Nota explicativa](#ESE-2-01)
 - [`ESE-2-02` Índice Geral](#ESE-2-02)
 
-<a href="#ESE">🔼</a>
+<a href="#ESE">🔼 voltar um nível</a>
 
 
