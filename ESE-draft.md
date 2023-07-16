@@ -41,9 +41,9 @@
 <script src="https://hypothes.is/embed.js" async></script>
 <a name="ESE"><code>ESE</code></a>
 
-# 👻 O Livro dos Espíritos
+# 🕊️ O Evangelho segundo o Espiritismo
 
-**2023-07-15** 
+**DRAFT** 
 
 <details><summary>❓ <strong>Manual do usuário</strong>
     <hr />
@@ -337,9 +337,6 @@ ESE-qXXXXa
     </li>
   </ul>
 </details>
-
-
-**DRAFT**
 
 **Sumário**
 
