@@ -386,14 +386,20 @@ L’Évangile selon le spiritisme<br />
 <h3>📃 Prefácio</h3>
 
 >Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
->
+><br />
+><br />
 >Eu vos digo, em verdade, que são chegados os tempos em que todas as coisas hão de ser restabelecidas no seu verdadeiro sentido, para dissipar as trevas, confundir os orgulhosos e glorificar os justos.
->
+><br />
+><br />
 >As grandes vozes do Céu ressoam como sons de trombetas, e os cânticos dos anjos se lhes associam. Nós vos convidamos, a vós homens, para o divino concerto. Tomai da lira, fazei uníssonas vossas vozes, e que, num hino sagrado, elas se estendam e repercutam de um extremo a outro do Universo.
->
+><br />
+><br />
 >Homens, irmãos a quem amamos, aqui estamos junto de vós. Amai-vos, também, uns aos outros e dizei do fundo do coração, fazendo as vontades do Pai, que está no Céu: Senhor! Senhor!... e podereis entrar no Reino dos Céus.
->
+><br />
+><br />
 >**O Espírito da Verdade**
+
+<br />
 
 📝 **Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
@@ -473,7 +479,9 @@ Se, portanto, aprouver a um Espírito formular um sistema excêntrico, baseado u
 Essa a base em que nos apoiamos, quando formulamos um princípio da doutrina. Não é porque esteja de acordo com as nossas ideias que o temos por verdadeiro. Não nos arvoramos, absolutamente, em árbitro supremo da verdade e a ninguém dizemos:
 
 >Crede em tal coisa, porque somos nós que vo-lo dizemos.
- 
+
+<br />
+
 A nossa opinião não passa, aos nossos próprios olhos, de uma opinião pessoal, que pode ser verdadeira ou falsa, visto não nos considerarmos mais infalível do que qualquer outro. Também não é porque um princípio nos foi ensinado que, para nós, ele exprime a verdade, mas porque recebeu a sanção da concordância.
 
 Na posição em que nos encontramos, a receber comunicações de perto de mil centros espíritas sérios, disseminados pelos mais diversos pontos da Terra, achamo-nos em condições de observar sobre que princípio se estabelece a concordância. Essa observação é que nos tem guiado até hoje e é a que nos guiará em novos campos que o Espiritismo terá de explorar. Porque, estudando atentamente as comunicações vindas tanto da França como do estrangeiro, reconhecemos, pela natureza toda especial das revelações, que ele tende a entrar por um novo caminho e que lhe chegou o momento de dar um passo para diante. Essas revelações, feitas muitas vezes com palavras veladas, hão frequentemente passado despercebidas a muitos dos que as obtiveram. Outros julgaram-se os únicos a possuí-las. Tomadas insuladamente, elas, para nós, nenhum valor teriam; somente a coincidência lhes imprime gravidade. Depois, chegado o momento de serem entregues à publicidade, cada um se lembrará de haver obtido instruções no mesmo sentido. Esse movimento geral, que observamos e estudamos, com a assistência dos nossos guias espirituais, é que nos auxilia a julgar da oportunidade de fazermos ou não alguma coisa.
