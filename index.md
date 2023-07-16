@@ -9,8 +9,8 @@ Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/dout
 - <a href="./releases/LDE-2023-07-15.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
 - <a href="./releases/LDM-2023-07-15.html"><code>LDM</code> ✒️ O Livro dos Médiuns</a>
 - <a href="./releases/ESE-draft.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo (EM DESENVOLVIMENTO)</a>
-- <a href=""><code>CEU</code> 🔥 O Céu e o Inferno (AGUARDANDO)</a>
-- <a href=""><code>GEN</code> 🌱 A Gênese (AGUARDANDO)</a>
+- <code>CEU</code> 🔥 O Céu e o Inferno (AGUARDANDO)
+- <code>GEN</code> 🌱 A Gênese (AGUARDANDO)
 
 ## Objetivo
 
