@@ -564,6 +564,8 @@ Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de r
 
 [^3]: Nota de Allan Kardec: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
 
+<a href="#ESE-0-03">🔼 voltar um nível</a>
+
 ---
 
 <a name="ESE-0-03-04"><code>ESE-0-03-04</code></a>
