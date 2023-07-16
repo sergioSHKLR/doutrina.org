@@ -514,25 +514,25 @@ Já se desenha o harmonioso conjunto. Este século não passará sem que ele res
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
 
-Samaritanos. – Após o cisma das dez tribos, Samaria se constituiu a capital do reino dissidente de Israel. Destruída e reconstruída várias vezes, tornou-se, sob os romanos, a cabeça da Samaria, uma das quatro divisões da Palestina. Herodes, chamado o Grande, a embelezou de suntuosos monumentos e, para lisonjear Augusto, lhe deu o nome de Augusta, em grego Sebaste.
+**Samaritanos** – Após o cisma das dez tribos, Samaria se constituiu a capital do reino dissidente de Israel. Destruída e reconstruída várias vezes, tornou-se, sob os romanos, a cabeça da Samaria, uma das quatro divisões da Palestina. Herodes, chamado o Grande, a embelezou de suntuosos monumentos e, para lisonjear Augusto, lhe deu o nome de Augusta, em grego Sebaste.
 
 Os samaritanos estiveram quase constantemente em guerra com os reis de Judá. Aversão profunda, datando da época da separação, perpetuou-se entre os dois povos, que evitavam todas as relações recíprocas. Aqueles, para tornarem maior a cisão e não terem de vir a Jerusalém pela celebração das festas religiosas, construíram para si um templo particular e adotaram algumas reformas. Somente admitiam o Pentateuco, que continha a lei de Moisés, e rejeitavam todos os outros livros que a esse foram posteriormente anexados. Seus livros sagrados eram escritos em caracteres hebraicos da mais alta antiguidade. Para os judeus ortodoxos, eles eram heréticos e, portanto, desprezados, anatematizados e perseguidos. O antagonismo das duas nações tinha, pois, por fundamento único a divergência das opiniões religiosas; se bem fosse a mesma a origem das crenças de uma e outra. Eram os protestantes desse tempo.
 
 Ainda hoje se encontram samaritanos em algumas regiões do Levante, particularmente em Nablus e em Jaffa. Observam a lei de Moisés com mais rigor que os outros judeus e só entre si contraem alianças.
 
-Nazarenos. – Nome dado, na antiga lei, aos judeus que faziam voto, perpétuo ou temporário, de guardar perfeita pureza. Eles se comprometiam a observar a castidade, a abster-se de bebidas alcoólicas e a conservar a cabeleira. Sansão, Samuel e João Batista eram nazarenos.
+**Nazarenos** – Nome dado, na antiga lei, aos judeus que faziam voto, perpétuo ou temporário, de guardar perfeita pureza. Eles se comprometiam a observar a castidade, a abster-se de bebidas alcoólicas e a conservar a cabeleira. Sansão, Samuel e João Batista eram nazarenos.
 
 Mais tarde, os judeus deram esse nome aos primeiros cristãos, por alusão a Jesus de Nazaré.
 
 Também foi essa a denominação de uma seita herética dos primeiros séculos da Era Cristã, a qual, do mesmo modo que os ebionitas, de quem adotava certos princípios, misturava as práticas do mosaísmo com os dogmas cristãos, seita essa que desapareceu no século quarto.
 
-Publicanos. – Eram assim chamados, na antiga Roma, os cavalheiros arrendatários das taxas públicas, incumbidos da cobrança dos impostos e das rendas de toda espécie, quer em Roma mesma, quer nas outras partes do Império. Eram como os arrendatários gerais e arrematadores de taxas do antigo regímen na França e que ainda existem nalgumas regiões. Os riscos a que estavam sujeitos faziam que os olhos se fechassem para as riquezas que muitas vezes adquiriam e que, da parte de alguns, eram frutos de exações e de lucros escandalosos. O nome de publicano se estendeu mais tarde a todos os que superintendiam os dinheiros públicos e aos agentes subalternos. Hoje esse termo se emprega em sentido pejorativo, para designar os financistas e os agentes pouco escrupulosos de negócios. Diz-se por vezes: “Ávido como um publicano, rico como um publicano”, com referência a riquezas de mau quilate.
+**Publicanos** – Eram assim chamados, na antiga Roma, os cavalheiros arrendatários das taxas públicas, incumbidos da cobrança dos impostos e das rendas de toda espécie, quer em Roma mesma, quer nas outras partes do Império. Eram como os arrendatários gerais e arrematadores de taxas do antigo regímen na França e que ainda existem nalgumas regiões. Os riscos a que estavam sujeitos faziam que os olhos se fechassem para as riquezas que muitas vezes adquiriam e que, da parte de alguns, eram frutos de exações e de lucros escandalosos. O nome de publicano se estendeu mais tarde a todos os que superintendiam os dinheiros públicos e aos agentes subalternos. Hoje esse termo se emprega em sentido pejorativo, para designar os financistas e os agentes pouco escrupulosos de negócios. Diz-se por vezes: “Ávido como um publicano, rico como um publicano”, com referência a riquezas de mau quilate.
 
 De toda a dominação romana, o imposto foi o que os judeus mais dificilmente aceitaram e o que mais irritação causou entre eles. Daí nasceram várias revoltas, fazendo-se do caso uma questão religiosa, por ser considerada contrária à Lei. Constituiu-se, mesmo, um partido poderoso, a cuja frente se pôs um certo Judá, apelidado o Gaulonita, tendo por princípio o não pagamento do imposto. Os judeus, pois, abominavam o imposto e, como consequência, todos os que eram encarregados de arrecadá-lo, donde a aversão que votavam aos publicanos de todas as categorias, entre os quais podiam encontrar-se pessoas muito estimáveis, mas que, em virtude das suas funções, eram desprezadas, assim como os que com elas mantinham relações, os quais se viam atingidos pela mesma reprovação. Os judeus de destaque consideravam um comprometimento ter com eles intimidade.
 
-Portageiros. – Eram os arrecadadores de baixa categoria, incumbidos principalmente da cobrança dos direitos de entrada nas cidades. Suas funções correspondiam mais ou menos à dos empregados de alfândega e recebedores dos direitos de barreira. Compartilhavam da repulsa que pesava sobre os publicanos em geral. Essa a razão por que, no Evangelho, se depara frequentemente com a palavra publicano ao lado da expressão gente de má vida. Tal qualificação não implicava a de debochados ou vagabundos. Era um termo de desprezo, sinônimo de gente de má companhia, gente indigna de conviver com pessoas distintas.
+**Portageiros** – Eram os arrecadadores de baixa categoria, incumbidos principalmente da cobrança dos direitos de entrada nas cidades. Suas funções correspondiam mais ou menos à dos empregados de alfândega e recebedores dos direitos de barreira. Compartilhavam da repulsa que pesava sobre os publicanos em geral. Essa a razão por que, no Evangelho, se depara frequentemente com a palavra publicano ao lado da expressão gente de má vida. Tal qualificação não implicava a de debochados ou vagabundos. Era um termo de desprezo, sinônimo de gente de má companhia, gente indigna de conviver com pessoas distintas.
 
-Fariseus (do hebreu parush, divisão, separação). – A tradição constituía parte importante da teologia dos judeus. Consistia numa compilação das interpretações sucessivamente dadas ao sentido das Escrituras e tornadas artigos de dogma. Constituía, entre os doutores, assunto de discussões intermináveis, as mais das vezes sobre simples questões de palavras ou de formas, no gênero das disputas teológicas e das sutilezas da escolástica da Idade Média. Daí nasceram diferentes seitas, cada uma das quais pretendia ter o monopólio da verdade, detestando-se umas às outras, como sói acontecer.
+**Fariseus** (do hebreu *parush*, divisão, separação) – A tradição constituía parte importante da teologia dos judeus. Consistia numa compilação das interpretações sucessivamente dadas ao sentido das Escrituras e tornadas artigos de dogma. Constituía, entre os doutores, assunto de discussões intermináveis, as mais das vezes sobre simples questões de palavras ou de formas, no gênero das disputas teológicas e das sutilezas da escolástica da Idade Média. Daí nasceram diferentes seitas, cada uma das quais pretendia ter o monopólio da verdade, detestando-se umas às outras, como sói acontecer.
 
 Entre essas seitas, a mais influente era a dos fariseus, que teve por chefe Hillel, [^2] doutor judeu nascido na Babilônia, fundador de uma escola célebre, onde se ensinava que só se devia depositar fé nas Escrituras. Sua origem remonta a 180 ou 200 anos antes de Jesus Cristo. Os fariseus, em diversas épocas, foram perseguidos, especialmente sob Hircano — soberano pontífice e rei dos judeus —, Aristóbulo e Alexandre, rei da Síria. Este último, porém, lhes deferiu honras e restituiu os bens, de sorte que eles readquiriram o antigo poderio e o conservaram até a ruína de Jerusalém, no ano 70 da Era Cristã, época em que se lhes apagou o nome, em consequência da dispersão dos judeus.
 
@@ -540,19 +540,19 @@ Tomavam parte ativa nas controvérsias religiosas. Servis cumpridores das práti
 
 Acreditavam, ou, pelo menos, fingiam acreditar na Providência, na imortalidade da alma, na eternidade das penas e na ressurreição dos mortos. (Cap. IV, item 4.) Jesus, que prezava, sobretudo, a simplicidade e as qualidades da alma, que, na lei, preferia o espírito, que vivifica, à letra, que mata, se aplicou, durante toda a sua missão, a lhes desmascarar a hipocrisia, pelo que tinha neles encarniçados inimigos. Essa a razão por que se ligaram aos príncipes dos sacerdotes para amotinar contra Ele o povo e eliminá-lo.
 
-Escribas. – Nome dado, a princípio, aos secretários dos reis de Judá e a certos intendentes dos exércitos judeus. Mais tarde, foi aplicado especialmente aos doutores que ensinavam a lei de Moisés e a interpretavam para o povo. Faziam causa comum com os fariseus, de cujos princípios partilhavam, bem como da antipatia que aqueles votavam aos inovadores. Daí o envolvê-los Jesus na reprovação que lançava aos fariseus.
+**Escribas** – Nome dado, a princípio, aos secretários dos reis de Judá e a certos intendentes dos exércitos judeus. Mais tarde, foi aplicado especialmente aos doutores que ensinavam a lei de Moisés e a interpretavam para o povo. Faziam causa comum com os fariseus, de cujos princípios partilhavam, bem como da antipatia que aqueles votavam aos inovadores. Daí o envolvê-los Jesus na reprovação que lançava aos fariseus.
 
-Sinagoga (do grego synagogê, assembleia, congregação). – Um único templo havia na Judeia, o de Salomão, em Jerusalém, onde se celebravam as grandes cerimônias do culto. Os judeus, todos os anos, lá iam em peregrinação para as festas principais, como as da Páscoa, da Dedicação e dos Tabernáculos. Por ocasião dessas festas é que Jesus também costumava ir lá. As outras cidades não possuíam templos, mas apenas sinagogas: edifícios onde os judeus se reuniam aos sábados, para fazer preces públicas, sob a chefia dos anciães, dos escribas, ou doutores da Lei. Nelas também se realizavam leituras dos livros sagrados, seguidas de explicações e comentários, atividades das quais qualquer pessoa podia participar. Por isso é que Jesus, sem ser sacerdote, ensinava aos sábados nas sinagogas.
+**Sinagoga** (do grego *synagogê*, assembleia, congregação) – Um único templo havia na Judeia, o de Salomão, em Jerusalém, onde se celebravam as grandes cerimônias do culto. Os judeus, todos os anos, lá iam em peregrinação para as festas principais, como as da Páscoa, da Dedicação e dos Tabernáculos. Por ocasião dessas festas é que Jesus também costumava ir lá. As outras cidades não possuíam templos, mas apenas sinagogas: edifícios onde os judeus se reuniam aos sábados, para fazer preces públicas, sob a chefia dos anciães, dos escribas, ou doutores da Lei. Nelas também se realizavam leituras dos livros sagrados, seguidas de explicações e comentários, atividades das quais qualquer pessoa podia participar. Por isso é que Jesus, sem ser sacerdote, ensinava aos sábados nas sinagogas.
 
 Desde a ruína de Jerusalém e a dispersão dos judeus, as sinagogas, nas cidades por eles habitadas, servem-lhes de templos para a celebração do culto.
 
-Saduceus. – Seita judia, que se formou por volta do ano 248 antes de Jesus Cristo e cujo nome lhe veio do de Sadoque, seu fundador. Não criam na imortalidade, nem na ressurreição, nem nos anjos bons e maus. Entretanto, criam em Deus; nada, porém, esperando após a morte, só o serviam tendo em vista recompensas temporais, ao que, segundo eles, se limitava a Providência divina. Assim pensando, tinham a satisfação dos sentidos físicos por objetivo essencial da vida. Quanto às Escrituras, atinham-se ao texto da lei antiga. Não admitiam a tradição, nem interpretações quaisquer. Colocavam as boas obras e a observância pura e simples da Lei acima das práticas exteriores do culto. Eram, como se vê, os materialistas, os deístas e os sensualistas da época. Seita pouco numerosa, mas que contava em seu seio importantes personagens e se tornou um partido político oposto constantemente aos fariseus.
+**Saduceus** – Seita judia, que se formou por volta do ano 248 antes de Jesus Cristo e cujo nome lhe veio do de Sadoque, seu fundador. Não criam na imortalidade, nem na ressurreição, nem nos anjos bons e maus. Entretanto, criam em Deus; nada, porém, esperando após a morte, só o serviam tendo em vista recompensas temporais, ao que, segundo eles, se limitava a Providência divina. Assim pensando, tinham a satisfação dos sentidos físicos por objetivo essencial da vida. Quanto às Escrituras, atinham-se ao texto da lei antiga. Não admitiam a tradição, nem interpretações quaisquer. Colocavam as boas obras e a observância pura e simples da Lei acima das práticas exteriores do culto. Eram, como se vê, os materialistas, os deístas e os sensualistas da época. Seita pouco numerosa, mas que contava em seu seio importantes personagens e se tornou um partido político oposto constantemente aos fariseus.
 
-Essênios ou esseus. – Também seita judia fundada cerca do ano 150 antes de Jesus Cristo, ao tempo dos macabeus, e cujos membros, habitando uma espécie de mosteiros, formavam entre si uma como associação moral e religiosa. Distinguiam-se pelos costumes brandos e por austeras virtudes, ensinavam o amor a Deus e ao próximo, a imortalidade da alma e acreditavam na ressurreição. Viviam em celibato, condenavam a escravidão e a guerra, punham em comunhão os seus bens e se entregavam à agricultura.
+**Essênios** ou **Esseus** – Também seita judia fundada cerca do ano 150 antes de Jesus Cristo, ao tempo dos macabeus, e cujos membros, habitando uma espécie de mosteiros, formavam entre si uma como associação moral e religiosa. Distinguiam-se pelos costumes brandos e por austeras virtudes, ensinavam o amor a Deus e ao próximo, a imortalidade da alma e acreditavam na ressurreição. Viviam em celibato, condenavam a escravidão e a guerra, punham em comunhão os seus bens e se entregavam à agricultura.
 
 Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de rígidas práticas exteriores e de virtudes apenas aparentes, nunca os essênios tomaram parte nas querelas que tornaram antagonistas aquelas duas outras seitas. Pelo gênero de vida que levavam, assemelhavam-se muito aos primeiros cristãos, e os princípios da moral que professavam induziram muitas pessoas a supor que Jesus, antes de dar começo à sua missão pública, lhes pertencera à comunidade. É certo que ele há de tê-la conhecido, mas nada prova que se lhe houvesse filiado, sendo, pois, hipotético tudo quanto a esse respeito se escreveu.[^3]
 
-Terapeutas (do grego therapeutai, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores). – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
+**Terapeutas** (do grego *therapeutai*, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
 
 [^2]: N.E. de 1947: Não confundir esse Hillel que fundou a seita dos fariseus com o seu homônimo que viveu duzentos anos mais tarde e estabeleceu os princípios religiosos e sociais de um sistema todo de tolerância e amor, sistema hoje conhecido por Hilelismo.
 
@@ -574,87 +574,133 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 **Resumo da doutrina de Sócrates e de Platão**
 
->1. O homem é uma alma encarnada. Antes da sua encarnação, existia unida aos tipos primordiais das ideias do verdadeiro, do bem e do belo; separa-se deles, encarnando, e, recordando o seu passado, é mais ou menos atormentada pelo desejo de voltar a ele.
+>1 - O homem é uma alma encarnada. Antes da sua encarnação, existia unida aos tipos primordiais das ideias do verdadeiro, do bem e do belo; separa-se deles, encarnando, e, recordando o seu passado, é mais ou menos atormentada pelo desejo de voltar a ele.
+
+<br />
 
 Não se pode enunciar mais claramente a distinção e independência entre o princípio inteligente e o princípio material. É, além disso, a doutrina da preexistência da alma; da vaga intuição que ela guarda de um outro mundo, a que aspira; da sua sobrevivência ao corpo; da sua saída do mundo espiritual, para encarnar, e da sua volta a esse mesmo mundo, após a morte. É, finalmente, o gérmen da doutrina dos anjos decaídos.
 
->2. A alma se transvia e perturba, quando se serve do corpo para considerar qualquer objeto; tem vertigem, como se estivesse ébria, porque se prende a coisas que estão, por sua natureza, sujeitas a mudanças; ao passo que, quando contempla a sua própria essência, dirige-se para o que é puro, eterno, imortal, e, sendo ela dessa natureza, permanece aí ligada, por tanto tempo quanto possa. Cessam então os seus transviamentos, pois que está unida ao que é imutável e a esse estado da alma é que se chama sabedoria.
+>2 - A alma se transvia e perturba, quando se serve do corpo para considerar qualquer objeto; tem vertigem, como se estivesse ébria, porque se prende a coisas que estão, por sua natureza, sujeitas a mudanças; ao passo que, quando contempla a sua própria essência, dirige-se para o que é puro, eterno, imortal, e, sendo ela dessa natureza, permanece aí ligada, por tanto tempo quanto possa. Cessam então os seus transviamentos, pois que está unida ao que é imutável e a esse estado da alma é que se chama sabedoria.
+
+<br />
 
 Assim, ilude a si mesmo o homem que considera as coisas de modo terra a terra, do ponto de vista material. Para as apreciar com justeza, tem de as ver do alto, isto é, do ponto de vista espiritual. Aquele, pois, que está de posse da verdadeira sabedoria, tem de isolar do corpo a alma, para ver com os olhos do Espírito. É o que ensina o Espiritismo. (Cap. II, item 5.)
 
->3. Enquanto tivermos o nosso corpo e a alma se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a verdade. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a alma nos está ligada ao corpo, de duas uma: ou jamais conheceremos a verdade, ou só a conheceremos após a morte. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a razão por que os verdadeiros filósofos se exercitam em morrer e a morte não se lhes afigura, de modo nenhum, temível.
+>3 - Enquanto tivermos o nosso corpo e a alma se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a verdade. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a alma nos está ligada ao corpo, de duas uma: ou jamais conheceremos a verdade, ou só a conheceremos após a morte. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a razão por que os verdadeiros filósofos se exercitam em morrer e a morte não se lhes afigura, de modo nenhum, temível.
+
+<br />
 
 Está aí o princípio das faculdades da alma obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da morte. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (O céu e o inferno, 1a Parte, cap. II; 2a Parte, cap. I.)
 
->4. A alma impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira vida que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira vida constituíam objeto de suas predileções.
+>4 - A alma impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira vida que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira vida constituíam objeto de suas predileções.
+
+<br />
 
 Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o Espiritismo nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da alma, enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o Espiritismo, acrescentando apenas que a alma, que boas resoluções tomou na erraticidade e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e moral. (O céu e o inferno, 2a Parte: Exemplos.)
 
->5. Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
+>5 - Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
+
+<br />
 
 É a doutrina dos anjos guardiães, ou Espíritos protetores, e das reencarnações sucessivas, em seguida a intervalos mais ou menos longos de erraticidade.
 
->6. Os demônios ocupam o espaço que separa o céu da Terra; constituem o laço que une o Grande Todo a si mesmo. Não entrando nunca a divindade em comunicação direta com o homem, é por intermédio dos demônios que os deuses entram em comércio e se entretêm com ele, quer durante a vigília, quer durante o sono.
+>6 - Os demônios ocupam o espaço que separa o céu da Terra; constituem o laço que une o Grande Todo a si mesmo. Não entrando nunca a divindade em comunicação direta com o homem, é por intermédio dos demônios que os deuses entram em comércio e se entretêm com ele, quer durante a vigília, quer durante o sono.
+
+<br />
 
 A palavra daïmon, da qual fizeram o termo demônio, não era, na Antiguidade, tomada à má parte, como nos tempos modernos. Não designava exclusivamente seres malfazejos, mas todos os Espíritos, em geral, dentre os quais se destacavam os Espíritos superiores, chamados deuses, e os menos elevados, ou demônios propriamente ditos, que comunicavam diretamente com os homens. Também o Espiritismo diz que os Espíritos povoam o Espaço; que Deus só se comunica com os homens por intermédio dos Espíritos puros, que são os incumbidos de lhes transmitir as vontades; que os Espíritos se comunicam com eles durante a vigília e durante o sono. Ponde, em lugar da palavra demônio, a palavra Espírito e tereis a Doutrina Espírita; ponde a palavra anjo e tereis a doutrina cristã.
 
->7. A preocupação constante do filósofo (tal como o compreendiam Sócrates e Platão) é a de tomar o maior cuidado com a alma, menos pelo que respeita a esta vida, que não dura mais que um instante, do que tendo em vista a eternidade. Desde que a alma é imortal, não será prudente viver visando à eternidade?
+>7 - A preocupação constante do filósofo (tal como o compreendiam Sócrates e Platão) é a de tomar o maior cuidado com a alma, menos pelo que respeita a esta vida, que não dura mais que um instante, do que tendo em vista a eternidade. Desde que a alma é imortal, não será prudente viver visando à eternidade?
+
+<br />
 
 O Cristianismo e o Espiritismo ensinam a mesma coisa.
 
->8. Se a alma é imaterial, tem de passar, após essa vida, a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a alma pura, verdadeiramente imaterial, que se alimente, como Deus, de ciência e pensamentos, da alma mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na Terra.
+>8 - Se a alma é imaterial, tem de passar, após essa vida, a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a alma pura, verdadeiramente imaterial, que se alimente, como Deus, de ciência e pensamentos, da alma mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na Terra.
+
+<br />
 
 Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da alma. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o Espiritismo o prova com os inúmeros exemplos que nos põe sob as vistas. (O céu e o inferno, 2a Parte.)
 
->9. Se a morte fosse a dissolução completa do homem, muito ganhariam com a morte os maus, pois se veriam livres, ao mesmo tempo, do corpo, da alma e dos vícios. Aquele que guarnecer a alma, não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.
+>9 - Se a morte fosse a dissolução completa do homem, muito ganhariam com a morte os maus, pois se veriam livres, ao mesmo tempo, do corpo, da alma e dos vícios. Aquele que guarnecer a alma, não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.
+
+<br />
 
 Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o nada, anula toda responsabilidade moral ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra vida. Por meio de exemplos, que todos os dias nos apresenta, o Espiritismo mostra quão penoso é, para o mau, o passar desta à outra vida, a entrada na vida futura. (O céu e o inferno, 2a Parte, cap. I.)
 
->10. O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.)
+>10 - O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.)
+
+<br />
 
 Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: “Se alguém vos bater numa face, apresentai-lhe a outra.” (Cap. XII, itens 7 e 8.)
 
->11. De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
+>11 - De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
+
+<br />
 
 Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
 
 Houvessem Sócrates e Platão conhecido os ensinos que o Cristo difundiu quinhentos anos mais tarde e os que agora o Espiritismo espalha, e não teriam falado de outro modo. Não há nisso, entretanto, o que surpreenda, se considerarmos que as grandes verdades são eternas e que os Espíritos adiantados hão de tê-las conhecido antes de virem à Terra, para onde as trouxeram; que Sócrates, Platão e os grandes filósofos daqueles tempos bem podem, depois, ter sido dos que secundaram o Cristo na sua missão divina, escolhidos para esse fim precisamente por se acharem, mais do que outros, em condições de lhe compreenderem as sublimes lições; que, finalmente, pode dar-se façam eles agora parte da plêiade dos Espíritos encarregados de ensinar aos homens as mesmas verdades.
 
->12. Nunca se deve retribuir com outra uma injustiça, nem fazer mal a ninguém, seja qual for o dano que nos hajam causado. Poucos, no entanto, serão os que admitam esse princípio, e os que se desentenderem a tal respeito nada mais farão, sem dúvida, do que se votarem uns aos outros mútuo desprezo.
+>12 - Nunca se deve retribuir com outra uma injustiça, nem fazer mal a ninguém, seja qual for o dano que nos hajam causado. Poucos, no entanto, serão os que admitam esse princípio, e os que se desentenderem a tal respeito nada mais farão, sem dúvida, do que se votarem uns aos outros mútuo desprezo.
+
+<br />
 
 Não está aí o princípio de caridade, que prescreve não se retribua o mal com o mal e se perdoe aos inimigos?
 
->13. É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
+>13 - É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
+
+<br />
 
 Esta máxima: “Pelos frutos é que se conhece a árvore”, se encontra muitas vezes repetida textualmente no Evangelho.
 
->14. A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (Cap. XVI.)
+>14 - A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (Cap. XVI.)
 
->15. As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (Cap. X, itens 7 e 8.)
+<br />
 
->16. Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
+>15 - As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (Cap. X, itens 7 e 8.)
+
+<br />
+
+>16 - Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
+
+<br />
 
 O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que “o amor não é nem um deus, nem um mortal, mas um grande demônio”, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
 
->17. A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
+>17- A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
+
+<br />
 
 É quase a doutrina cristã sobre a graça; mas se a virtude é um dom de Deus, é um favor e, então, pode perguntar-se por que não é concedida a todos. Por outro lado, se é um dom, carece de mérito para aquele que a possui. O Espiritismo é mais explícito, dizendo que aquele que possui a virtude a adquiriu por seus esforços, em existências sucessivas, despojando-se pouco a pouco de suas imperfeições. A graça é a força que Deus faculta ao homem de boa vontade para se expungir do mal e praticar o bem.
 
->18. É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
+<br />
+
+>18 - É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
+
+<br />
 
 Diz o Evangelho: 
 
 >Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.(Cap. X, itens 9 e 10.)
 
->19. Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
+<br />
+
+>19 - Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
+
+<br />
 
 O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
 
->20. Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.
+>20 - Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.
+
+<br />
 
 Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (II, III e IV).
 
->21. Ajuizado serás, não supondo que sabes o que ignoras.
+>21 - Ajuizado serás, não supondo que sabes o que ignoras.
+
+<br />
 
 Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: “Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.” É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
