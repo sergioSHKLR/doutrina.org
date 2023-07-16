@@ -478,13 +478,13 @@ Se, portanto, aprouver a um Espírito formular um sistema excêntrico, baseado u
 
 Essa a base em que nos apoiamos, quando formulamos um princípio da doutrina. Não é porque esteja de acordo com as nossas ideias que o temos por verdadeiro. Não nos arvoramos, absolutamente, em árbitro supremo da verdade e a ninguém dizemos:
 
->Crede em tal coisa, porque somos nós que vo-lo dizemos.<br />
+>Crede em tal coisa, porque somos nós que vo-lo dizemos.
 
 A nossa opinião não passa, aos nossos próprios olhos, de uma opinião pessoal, que pode ser verdadeira ou falsa, visto não nos considerarmos mais infalível do que qualquer outro. Também não é porque um princípio nos foi ensinado que, para nós, ele exprime a verdade, mas porque recebeu a sanção da concordância.
 
 Na posição em que nos encontramos, a receber comunicações de perto de mil centros espíritas sérios, disseminados pelos mais diversos pontos da Terra, achamo-nos em condições de observar sobre que princípio se estabelece a concordância. Essa observação é que nos tem guiado até hoje e é a que nos guiará em novos campos que o Espiritismo terá de explorar. Porque, estudando atentamente as comunicações vindas tanto da França como do estrangeiro, reconhecemos, pela natureza toda especial das revelações, que ele tende a entrar por um novo caminho e que lhe chegou o momento de dar um passo para diante. Essas revelações, feitas muitas vezes com palavras veladas, hão frequentemente passado despercebidas a muitos dos que as obtiveram. Outros julgaram-se os únicos a possuí-las. Tomadas insuladamente, elas, para nós, nenhum valor teriam; somente a coincidência lhes imprime gravidade. Depois, chegado o momento de serem entregues à publicidade, cada um se lembrará de haver obtido instruções no mesmo sentido. Esse movimento geral, que observamos e estudamos, com a assistência dos nossos guias espirituais, é que nos auxilia a julgar da oportunidade de fazermos ou não alguma coisa.
 
-Essa verificação universal constitui uma garantia para a unidade futura do Espiritismo e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da verdade. O que deu lugar ao êxito da doutrina exposta em **O Livro dos Espíritos** e em **O Livro dos Médiuns** foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
+Essa verificação universal constitui uma garantia para a unidade futura do Espiritismo e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da verdade. O que deu lugar ao êxito da doutrina exposta em 👻[**O Livro dos Espíritos**](https://sergioshklr.github.io/doutrina.org/releases/LDE-2023-07-15.html) e em ✒️[**O Livro dos Médiuns**](https://sergioshklr.github.io/doutrina.org/releases/LDM-2023-07-15.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
 
 Suponhamos praza a alguns Espíritos ditar, sob qualquer título, um livro em sentido contrário; suponhamos mesmo que, com intenção hostil, objetivando desacreditar a doutrina, a malevolência suscitasse comunicações apócrifas; que influência poderiam exercer tais escritos, desde que de todos os lados os desmentissem os Espíritos? É com a adesão destes que se deve garantir aquele que queira lançar, em seu nome, um sistema qualquer. Do sistema de um só ao de todos, medeia a distância que vai da unidade ao infinito. Que poderão conseguir os argumentos dos detratores, sobre a opinião das massas, quando milhões de vozes amigas, provindas do Espaço, se façam ouvir em todos os recantos do Universo e no seio das famílias, a infirmá-los? A esse respeito já não foi a teoria confirmada pela experiência? Que é feito das inúmeras publicações que traziam a pretensão de arrasar o Espiritismo? Qual a que nem lhe retardou a marcha? Até agora, não se considera a questão desse ponto de vista, sem contestação um dos mais graves. Cada um contou consigo, sem contar com os Espíritos.
 
@@ -588,15 +588,15 @@ Não se pode enunciar mais claramente a distinção e independência entre o pri
 
 >2 - A alma se transvia e perturba, quando se serve do corpo para considerar qualquer objeto; tem vertigem, como se estivesse ébria, porque se prende a coisas que estão, por sua natureza, sujeitas a mudanças; ao passo que, quando contempla a sua própria essência, dirige-se para o que é puro, eterno, imortal, e, sendo ela dessa natureza, permanece aí ligada, por tanto tempo quanto possa. Cessam então os seus transviamentos, pois que está unida ao que é imutável e a esse estado da alma é que se chama sabedoria.<br />
 
-Assim, ilude a si mesmo o homem que considera as coisas de modo terra a terra, do ponto de vista material. Para as apreciar com justeza, tem de as ver do alto, isto é, do ponto de vista espiritual. Aquele, pois, que está de posse da verdadeira sabedoria, tem de isolar do corpo a alma, para ver com os olhos do Espírito. É o que ensina o Espiritismo. (Cap. II, item 5.)<br />
+Assim, ilude a si mesmo o homem que considera as coisas de modo terra a terra, do ponto de vista material. Para as apreciar com justeza, tem de as ver do alto, isto é, do ponto de vista espiritual. Aquele, pois, que está de posse da verdadeira sabedoria, tem de isolar do corpo a alma, para ver com os olhos do Espírito. É o que ensina o Espiritismo. (Cap. 2, item 5.)<br />
 
 >3 - Enquanto tivermos o nosso corpo e a alma se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a verdade. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a alma nos está ligada ao corpo, de duas uma: ou jamais conheceremos a verdade, ou só a conheceremos após a morte. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a razão por que os verdadeiros filósofos se exercitam em morrer e a morte não se lhes afigura, de modo nenhum, temível.<br />
 
-Está aí o princípio das faculdades da alma obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da morte. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (O céu e o inferno, 1a Parte, cap. II; 2a Parte, cap. I.)<br />
+Está aí o princípio das faculdades da alma obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da morte. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (🔥**O Céu e o Inferno**, 1a Parte, cap. 2; 2a Parte, cap. 1.)<br />
 
 >4 - A alma impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira vida que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira vida constituíam objeto de suas predileções.<br />
 
-Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o Espiritismo nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da alma, enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o Espiritismo, acrescentando apenas que a alma, que boas resoluções tomou na erraticidade e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e moral. (O céu e o inferno, 2a Parte: Exemplos.)<br />
+Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o Espiritismo nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da alma, enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o Espiritismo, acrescentando apenas que a alma, que boas resoluções tomou na erraticidade e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e moral. (🔥**O Céu e o Inferno**, 2a Parte: Exemplos.)<br />
 
 >5 - Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.<br />
 
@@ -612,15 +612,15 @@ O Cristianismo e o Espiritismo ensinam a mesma coisa.<br />
 
 >8 - Se a alma é imaterial, tem de passar, após essa vida, a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a alma pura, verdadeiramente imaterial, que se alimente, como Deus, de ciência e pensamentos, da alma mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na Terra.<br />
 
-Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da alma. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o Espiritismo o prova com os inúmeros exemplos que nos põe sob as vistas. (O céu e o inferno, 2a Parte.)<br />
+Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da alma. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o Espiritismo o prova com os inúmeros exemplos que nos põe sob as vistas. (🔥**O Céu e o Inferno**, 2a Parte.)<br />
 
 >9 - Se a morte fosse a dissolução completa do homem, muito ganhariam com a morte os maus, pois se veriam livres, ao mesmo tempo, do corpo, da alma e dos vícios. Aquele que guarnecer a alma, não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.<br />
 
-Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o nada, anula toda responsabilidade moral ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra vida. Por meio de exemplos, que todos os dias nos apresenta, o Espiritismo mostra quão penoso é, para o mau, o passar desta à outra vida, a entrada na vida futura. (O céu e o inferno, 2a Parte, cap. I.)<br />
+Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o nada, anula toda responsabilidade moral ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra vida. Por meio de exemplos, que todos os dias nos apresenta, o Espiritismo mostra quão penoso é, para o mau, o passar desta à outra vida, a entrada na vida futura. (🔥**O Céu e o Inferno**, 2a Parte, cap. 1.)<br />
 
 >10 - O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.)<br />
 
-Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: “Se alguém vos bater numa face, apresentai-lhe a outra.” (Cap. XII, itens 7 e 8.)<br />
+Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: “Se alguém vos bater numa face, apresentai-lhe a outra.” (Cap. 12, itens 7 e 8.)<br />
 
 >11 - De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)<br />
 
@@ -638,7 +638,7 @@ Esta máxima: “Pelos frutos é que se conhece a árvore”, se encontra muitas
 
 >14 - A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (Cap. XVI.)<br />
 
->15 - As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (Cap. X, itens 7 e 8.)<br />
+>15 - As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (Cap. 10, itens 7 e 8.)<br />
 
 >16 - Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.<br />
 
@@ -652,7 +652,7 @@ O amor, que há de unir os homens por um laço fraternal, é uma consequência d
 
 Diz o Evangelho: 
 
->Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.(Cap. X, itens 9 e 10.)<br />
+>Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.(LIVRO? Cap. 10, itens 9 e 10.)<br />
 
 >19 - Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.<br />
 
@@ -660,7 +660,7 @@ O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e
 
 >20 - Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.<br />
 
-Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (II, III e IV).<br />
+Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (2, 3 e 4).<br />
 
 >21 - Ajuizado serás, não supondo que sabes o que ignoras.<br />
 
@@ -708,6 +708,283 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 <a href="#ESE">🔼 voltar um nível</a>
 
 ---
+
+<a name="ESE-1-01"><code>ESE-1-01</code></a>
+
+<h3>📑 01. Não vim destruir a lei</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+
+<a name="ESE-1-02"><code>ESE-1-02</code></a>
+
+<h3>📑 02. Meu Reino não é deste mundo</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-03"><code>ESE-1-03</code></a>
+
+<h3>📑 03. Há muitas moradas na casa de meu Pai</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-04"><code>ESE-1-04</code></a>
+
+<h3>📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-05"><code>ESE-1-05</code></a>
+
+<h3>📑 05. Bem aventurados os aflitos</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-06"><code>ESE-1-06</code></a>
+
+<h3>📑 06. O Cristo Consolador</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-07"><code>ESE-1-07</code></a>
+
+<h3>📑 07. Bem-aventurados os pobres de espírito</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-08"><code>ESE-1-08</code></a>
+
+<h3>📑 08. Bem-aventurados os que tem puro o coração</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-09"><code>ESE-1-09</code></a>
+
+<h3>📑 09. Bem-aventurados os que são brandos e pacíficos</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-10"><code>ESE-1-10</code></a>
+
+<h3>📑 10. Bem-aventurdaos os que são misericordiosos</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-11"><code>ESE-1-11</code></a>
+
+<h3>📑 11. Amar o próximo como a si mesmo</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-12"><code>ESE-1-12</code></a>
+
+<h3>📑 12. Amai os vossos inimigos</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-13"><code>ESE-1-13</code></a>
+
+<h3>📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-14"><code>ESE-1-14</code></a>
+
+<h3>📑 14. Honrai o vosso pai e a vossa mãe</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-15"><code>ESE-1-15</code></a>
+
+<h3>📑 15. Fora da caridade não há salvação</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-16"><code>ESE-1-16</code></a>
+
+<h3>📑 16. Não se pode servir a Deus e a Mamon</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-17"><code>ESE-1-17</code></a>
+
+<h3>📑 17. Sede perfeitos</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-18"><code>ESE-1-18</code></a>
+
+<h3>📑 18. Muitos os chamados, poucos os escolhidos</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-19"><code>ESE-1-19</code></a>
+
+<h3>📑 19. A fé transporta montanhas</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-20"><code>ESE-1-20</code></a>
+
+<h3>📑 20. Os trabalhadores da última hora</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-21"><code>ESE-1-21</code></a>
+
+<h3>📑 21. Haverá falsos cristos e falsos profetas</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-22"><code>ESE-1-22</code></a>
+
+<h3>📑 22. Não separeis o que Deus juntou</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-23"><code>ESE-1-23</code></a>
+
+<h3>📑 23. Estranha moral</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-24"><code>ESE-1-24</code></a>
+
+<h3>📑 24. Não ponhais a candeia debaixo do alqueire</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-25"><code>ESE-1-25</code></a>
+
+<h3>📑 25. Buscai e achareis</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-26"><code>ESE-1-26</code></a>
+
+<h3>📑 26. Dai gratuitamente o que gratuitamente recebestes</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-27"><code>ESE-1-27</code></a>
+
+<h3>📑 27. Pedi e obtereis</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+<a name="ESE-1-28"><code>ESE-1-28</code></a>
+
+<h3>📑 28. Coletânea de preces espíritas</h3>
+
+CONTENT
+
+<a href="#ESE-1">🔼 voltar um nível</a>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a name="ESE-2"><code>ESE-2</code></a>
 
