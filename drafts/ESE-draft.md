@@ -25,21 +25,17 @@ links:
 
 ---
 
-<a name="ESE-0"><code>ESE-0</code></a>
-
-<h2>🗂️ Parte 0. Pré-textual</h2>
+## `ESE-X` 🗂️ Parte 0. Pré-textual {ESE-X}
 
 - [`ESE-0-01` 📃 Folha de rosto](#ESE-0-01)
 - [`ESE-0-02` 📃 Prefácio](#ESE-0-02)
 - [`ESE-0-03` 📑 Introdução](#ESE-0-03)
 
-<a href="#ESE">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE)
 
 ---
 
-<a name="ESE-0-01"><code>ESE-0-01</code></a>
-
-<h3>📃 Folha de rosto</h3>
+### `ESE-X-XX` 📃 Folha de rosto {ESE-X-XX}
 
 ---
 
@@ -57,13 +53,11 @@ links:
 | L’Évangile selon le spiritisme |
 | (Paris, abril de 1864) |
 
- <a href="#ESE-0">🔼 voltar um nível</a>
+ [🔼 voltar um nível](#ESE-0)
 
 ---
 
-<a name="ESE-0-02"><code>ESE-0-02</code></a>
-
-<h3>📃 Prefácio</h3>
+### `ESE-X-XX` 📃 Prefácio {ESE-X-XX}
 
 >Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 ><br />
@@ -83,26 +77,22 @@ links:
 
 📝 **Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
-<a href="#ESE-0">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-0)
 
 ---
 
-<a name="ESE-0-03"><code>ESE-0-03</code></a>
-
-<h3>📑 Introdução</h3>
+### `ESE-X-XX` 📑 Introdução {ESE-X-XX}
 
 - [`ESE-0-01` 📃 1. Objetivo desta obra](#ESE-0-03-01)
 - [`ESE-0-02` 📃 2. Autoridade da doutrina espírita](#ESE-0-03-02)
 - [`ESE-0-03` 📃 3. Notícias históricas](#ESE-0-03-03)
 - [`ESE-0-04` 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo](#ESE-0-03-04)
 
-<a href="#ESE-0">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-0)
 
 ---
 
-<a name="ESE-0-03-01"><code>ESE-0-03-01</code></a>
-
-<h4>📃 1. Objetivo desta obra</h4>
+#### 📃 1. Objetivo desta obra
 
 Podem dividir-se em cinco partes as matérias contidas nos Evangelhos: os atos comuns da vida do Cristo; os milagres; as predições; as palavras que foram tomadas pela Igreja para fundamento de seus dogmas; e o ensino moral. As quatro primeiras têm sido objeto de controvérsias; a última, porém, conservou-se constantemente inatacável. Diante desse código divino, a própria incredulidade se curva. É terreno onde todos os cultos podem reunir-se, estandarte sob o qual podem todos colocar-se, quaisquer que sejam suas crenças, porquanto jamais ele constituiu matéria das disputas religiosas, que sempre e por toda a parte se originaram das questões dogmáticas. Aliás, se o discutissem, nele teriam as seitas encontrado sua própria condenação, visto que, na maioria, elas se agarram mais à parte mística do que à parte moral, que exige de cada um a reforma de si mesmo. Para os homens, em particular, constitui aquele código uma regra de proceder que abrange todas as circunstâncias da vida privada e da vida pública, o princípio básico de todas as relações sociais que se fundam na mais rigorosa justiça. É, finalmente e acima de tudo, o roteiro infalível para a felicidade vindoura, o levantamento de uma ponta do véu que nos oculta a vida futura. Essa parte é a que será objeto exclusivo desta obra.
 
@@ -124,13 +114,11 @@ Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar co
 
 [^1]: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
 
-<a href="#ESE-0-03">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-0-03)
 
 ---
 
-<a name="ESE-0-03-02"><code>ESE-0-03-02</code></a>
-
-<h4>📃 2. Autoridade da doutrina espírita</h4>
+#### 📃 2. Autoridade da doutrina espírita
 
 **Controle universal do ensino dos Espíritos**
 
@@ -188,13 +176,11 @@ A opinião universal, eis o juiz supremo, o que se pronuncia em última instânc
 
 Já se desenha o harmonioso conjunto. Este século não passará sem que ele resplandeça em todo o seu brilho, de modo a dissipar todas as incertezas, porquanto daqui até lá potentes vozes terão recebido a missão de se fazer ouvir, para congregar os homens sob a mesma bandeira, uma vez que o campo se ache suficientemente lavrado. Enquanto isso se não dá, aquele que flutua entre dois sistemas opostos pode observar em que sentido se forma a opinião geral; essa será a indicação certa do sentido em que se pronuncia a maioria dos Espíritos, nos diversos pontos em que se comunicam, e um sinal não menos certo de qual dos dois sistemas prevalecerá.
 
-<a href="#ESE-0-03">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-0-03)
 
 ---
 
-<a name="ESE-0-03-03"><code>ESE-0-03-03</code></a>
-
-<h4>📃 3. Notícias históricas</h4>
+#### 📃 3. Notícias históricas
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
 
@@ -242,13 +228,11 @@ Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz c
 
 [^3]: A.K.: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
 
-<a href="#ESE-0-03">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-0-03)
 
 ---
 
-<a name="ESE-0-03-04"><code>ESE-0-03-04</code></a>
-
-<h4>📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo</h4>
+#### 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo
 
 Do fato de haver Jesus conhecido a seita dos essênios, fora errôneo concluir-se que a sua doutrina hauriu-a ele dessa seita e que, se houvera vivido noutro meio, teria professado outros princípios. As grandes ideias jamais irrompem de súbito. As que assentam sobre a verdade sempre têm precursores que lhes preparam parcialmente os caminhos. Depois, chegando o tempo, envia Deus um homem com a missão de resumir, coordenar e completar os elementos esparsos, de reuni-los em corpo de doutrina. Desse modo, não surgindo bruscamente, a ideia, ao aparecer, encontra espíritos dispostos a aceitá-la. Tal o que se deu com a ideia cristã, que foi pressentida muitos séculos antes de Jesus e dos essênios, tendo por principais precursores Sócrates e Platão.
 
@@ -357,13 +341,11 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
-<a href="#ESE-0-03">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-0-03)
 
 ---
 
-<a name="ESE-1"><code>ESE-1</code></a>
-
-<h2>🗂️ Parte 1. Miolo</h2>
+## `ESE-X` 🗂️ Parte 1. Miolo {ESE-X}
 
 - [`ESE-1-01` 📑 01. Não vim destruir a lei](#ESE-1-01)
 - [`ESE-1-02` 📑 02. Meu Reino não é deste mundo](#ESE-1-02)
@@ -394,13 +376,11 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-27` 📑 27. Pedi e obtereis](#ESE-1-27)
 - [`ESE-1-28` 📑 28. Coletânea de preces espíritas](#ESE-1-28)
 
-<a href="#ESE">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE)
 
 ---
 
-<a name="ESE-1-01"><code>ESE-1-01</code></a>
-
-<h3>📑 01. Não vim destruir a lei</h3>
+### `ESE-X-XX` 📑 01. Não vim destruir a lei {ESE-X-XX}
 
 - [`ESE-1-01-01` 📃 Moisés](#ESE-1-01-01)
 - [`ESE-1-01-02` 📃 O Cristo](#ESE-1-01-02)
@@ -408,13 +388,13 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-01-04` 📃 Aliança da Ciência e da Religião](#ESE-1-01-04)
 - [`ESE-1-01-05` 📃 Instruções dos Espíritos: A nova era](#ESE-1-01-05)
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
 
 <a name="ESE-1-01-01"><code>ESE-1-01-01</code></a>
 
-<h4>📃 Moisés</h4>
+#### 📃 Moisés
 
 1. >Não penseis que vim revogar a lei ou os profetas; não vim revogar, mas cumprir. Porque em verdade vos digo: Enquanto não passar o céu e a terra, de modo nenhum passará da lei um só i ou um só til, sem que tudo se cumpra.
    ><br /><br />
@@ -450,7 +430,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 <a name="ESE-1-01-02"><code>ESE-1-01-02</code></a>
 
-<h4>📃 O Cristo</h4>
+#### 📃 O Cristo
 
 3. Jesus não veio destruir a lei, isto é, a Lei de Deus; veio cumpri-la, isto é, desenvolvê-la, dar-lhe o verdadeiro sentido e adaptá-la ao grau de adiantamento dos homens. Por isso é que se nos depara, nessa lei, o princípio dos deveres para com Deus e para com o próximo, base da sua doutrina. Quanto às leis de Moisés, propriamente ditas, Ele, ao contrário, as modificou profundamente, quer na substância, quer na forma. Combatendo constantemente o abuso das práticas exteriores e as falsas interpretações, por mais radical reforma não podia fazê-las passar, do que as reduzindo a esta única prescrição: “Amar a Deus acima de todas as coisas e o próximo como a si mesmo”, e acrescentando: aí estão a lei toda e os profetas.
 
@@ -460,7 +440,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 <a name="ESE-1-01-03"><code>ESE-1-01-03</code></a>
 
-<h4>📃 O Espiritismo</h4>
+#### 📃 O Espiritismo
 
 5. O Espiritismo é a ciência nova que vem revelar aos homens, por meio de provas irrecusáveis, a existência e a natureza do mundo espiritual e as suas relações com o mundo corpóreo. Ele no-lo mostra, não mais como coisa sobrenatural, porém, ao contrário, como uma das forças vivas e sem cessar atuantes da Natureza, como a fonte de uma imensidade de fenômenos até hoje incompreendidos e, por isso, relegados para o domínio do fantástico e do maravilhoso. É a essas relações que o Cristo alude em muitas circunstâncias e daí vem que muito do que Ele disse permaneceu ininteligível ou falsamente interpretado. O Espiritismo é a chave com o auxílio da qual tudo se explica de modo fácil.
 
@@ -470,7 +450,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 <a name="ESE-1-01-04"><code>ESE-1-01-04</code></a>
 
-<h4>📃 Aliança da Ciência e da Religião</h4>
+#### 📃 Aliança da Ciência e da Religião
 
 8. A Ciência e a Religião são as duas alavancas da inteligência humana: uma revela as leis do mundo material e a outra as do mundo moral. Tendo, no entanto, essas leis o mesmo princípio, que é Deus, não podem contradizer-se. Se fossem a negação uma da outra, uma necessariamente estaria em erro e a outra com a verdade, porquanto Deus não pode pretender a destruição de sua própria obra. A incompatibilidade que se julgou existir entre essas duas ordens de ideias provém apenas de uma observação defeituosa e de excesso de exclusivismo, de um lado e de outro. Daí um conflito que deu origem à incredulidade e à intolerância.
 
@@ -480,7 +460,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 <a name="ESE-1-01-05"><code>ESE-1-01-05</code></a>
 
-<h4>📃 Instruções dos Espíritos: A nova era</h4>
+#### 📃 Instruções dos Espíritos: A nova era
 
 9. Deus é único e Moisés é o Espírito que Ele enviou em missão para torná-lo conhecido não só dos hebreus, como também dos povos pagãos. O povo hebreu foi o instrumento de que se serviu Deus para se revelar por Moisés e pelos profetas, e as vicissitudes por que passou esse povo destinavam-se a chamar a atenção geral e a fazer cair o véu que ocultava aos homens a divindade.
 
@@ -514,259 +494,203 @@ Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , 
 Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
 
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
 
-<a name="ESE-1-02"><code>ESE-1-02</code></a>
-
-<h3>📑 02. Meu Reino não é deste mundo</h3>
+### `ESE-X-XX` 📑 02. Meu Reino não é deste mundo {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-03"><code>ESE-1-03</code></a>
-
-<h3>📑 03. Há muitas moradas na casa de meu Pai</h3>
+### `ESE-X-XX` 📑 03. Há muitas moradas na casa de meu Pai {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-04"><code>ESE-1-04</code></a>
-
-<h3>📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo</h3>
+### `ESE-X-XX` 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-05"><code>ESE-1-05</code></a>
-
-<h3>📑 05. Bem aventurados os aflitos</h3>
+### `ESE-X-XX` 📑 05. Bem aventurados os aflitos {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-06"><code>ESE-1-06</code></a>
-
-<h3>📑 06. O Cristo Consolador</h3>
+### `ESE-X-XX` 📑 06. O Cristo Consolador {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-07"><code>ESE-1-07</code></a>
-
-<h3>📑 07. Bem-aventurados os pobres de espírito</h3>
+### `ESE-X-XX` 📑 07. Bem-aventurados os pobres de espírito {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-08"><code>ESE-1-08</code></a>
-
-<h3>📑 08. Bem-aventurados os que tem puro o coração</h3>
+### `ESE-X-XX` 📑 08. Bem-aventurados os que tem puro o coração {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-09"><code>ESE-1-09</code></a>
-
-<h3>📑 09. Bem-aventurados os que são brandos e pacíficos</h3>
+### `ESE-X-XX` 📑 09. Bem-aventurados os que são brandos e pacíficos {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-10"><code>ESE-1-10</code></a>
-
-<h3>📑 10. Bem-aventurdaos os que são misericordiosos</h3>
+### `ESE-X-XX` 📑 10. Bem-aventurdaos os que são misericordiosos {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-11"><code>ESE-1-11</code></a>
-
-<h3>📑 11. Amar o próximo como a si mesmo</h3>
+### `ESE-X-XX` 📑 11. Amar o próximo como a si mesmo {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-12"><code>ESE-1-12</code></a>
-
-<h3>📑 12. Amai os vossos inimigos</h3>
+### `ESE-X-XX` 📑 12. Amai os vossos inimigos {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-13"><code>ESE-1-13</code></a>
-
-<h3>📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita</h3>
+### `ESE-X-XX` 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-14"><code>ESE-1-14</code></a>
-
-<h3>📑 14. Honrai o vosso pai e a vossa mãe</h3>
+### `ESE-X-XX` 📑 14. Honrai o vosso pai e a vossa mãe {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-15"><code>ESE-1-15</code></a>
-
-<h3>📑 15. Fora da caridade não há salvação</h3>
+### `ESE-X-XX` 📑 15. Fora da caridade não há salvação {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-16"><code>ESE-1-16</code></a>
-
-<h3>📑 16. Não se pode servir a Deus e a Mamon</h3>
+### `ESE-X-XX` 📑 16. Não se pode servir a Deus e a Mamon {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-17"><code>ESE-1-17</code></a>
-
-<h3>📑 17. Sede perfeitos</h3>
+### `ESE-X-XX` 📑 17. Sede perfeitos {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-18"><code>ESE-1-18</code></a>
-
-<h3>📑 18. Muitos os chamados, poucos os escolhidos</h3>
+### `ESE-X-XX` 📑 18. Muitos os chamados, poucos os escolhidos {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-19"><code>ESE-1-19</code></a>
-
-<h3>📑 19. A fé transporta montanhas</h3>
+### `ESE-X-XX` 📑 19. A fé transporta montanhas {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-20"><code>ESE-1-20</code></a>
-
-<h3>📑 20. Os trabalhadores da última hora</h3>
+### `ESE-X-XX` 📑 20. Os trabalhadores da última hora {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-21"><code>ESE-1-21</code></a>
-
-<h3>📑 21. Haverá falsos cristos e falsos profetas</h3>
+### `ESE-X-XX` 📑 21. Haverá falsos cristos e falsos profetas {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-22"><code>ESE-1-22</code></a>
-
-<h3>📑 22. Não separeis o que Deus juntou</h3>
+### `ESE-X-XX` 📑 22. Não separeis o que Deus juntou {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-23"><code>ESE-1-23</code></a>
-
-<h3>📑 23. Estranha moral</h3>
+### `ESE-X-XX` 📑 23. Estranha moral {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-24"><code>ESE-1-24</code></a>
-
-<h3>📑 24. Não ponhais a candeia debaixo do alqueire</h3>
+### `ESE-X-XX` 📑 24. Não ponhais a candeia debaixo do alqueire {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-25"><code>ESE-1-25</code></a>
-
-<h3>📑 25. Buscai e achareis</h3>
+### `ESE-X-XX` 📑 25. Buscai e achareis {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-26"><code>ESE-1-26</code></a>
-
-<h3>📑 26. Dai gratuitamente o que gratuitamente recebestes</h3>
+### `ESE-X-XX` 📑 26. Dai gratuitamente o que gratuitamente recebestes {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-27"><code>ESE-1-27</code></a>
-
-<h3>📑 27. Pedi e obtereis</h3>
+### `ESE-X-XX` 📑 27. Pedi e obtereis {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
-<a name="ESE-1-28"><code>ESE-1-28</code></a>
-
-<h3>📑 28. Coletânea de preces espíritas</h3>
+### `ESE-X-XX` 📑 28. Coletânea de preces espíritas {ESE-X-XX}
 
 CONTENT
 
-<a href="#ESE-1">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE-1)
 
 ---
 
-<a name="ESE-2"><code>ESE-2</code></a>
-
-<h2>🗂️ Parte 2. Pós-textual</h2>
+## `ESE-X` 🗂️ Parte 2. Pós-textual {ESE-X}
 
 - [`ESE-2-01` 📃 Nota explicativa](#ESE-2-01)
 
-<a href="#ESE">🔼 voltar um nível</a>
+[🔼 voltar um nível](#ESE)
 
