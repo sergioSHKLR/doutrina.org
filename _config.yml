@@ -14,11 +14,11 @@ ui:
   header:
     trianglify: true
     dark:
-      color1: "#964B00"
-      color2: "#FFD700"
+      color1: "#062a48"
+      color2: "#304e67"
     light:
-      color1: "#FFD700"
-      color2: "#964B00"
+      color1: "#080331"
+      color2: "#673051"
   masthead:
     color:
       dark: "#fff"
