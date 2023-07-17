@@ -17,8 +17,8 @@ ui:
       color1: "#062a48"
       color2: "#304e67"
     light:
-      color1: "#080331"
-      color2: "#673051"
+      color1: "#FFD700"
+      color2: "#964B00"
   masthead:
     color:
       dark: "#fff"
