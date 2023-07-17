@@ -18,5 +18,6 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+  parse_block_html: true
 
 
