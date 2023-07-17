@@ -12,9 +12,9 @@
 |----
 
 
-# header 1 {#LDE}
+# `LDE` 📔 Livro {#LDE}
 
-## header 2 {#LDE-1}
+## `LDE-1` 🗂️ Parte {#LDE-1}
 
-### header 3 {#LDE-1-01}
+### `LDE-1-01` 📑 Capítulo {#LDE-1-01}
 
