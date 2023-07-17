@@ -1,5 +1,7 @@
 
-# 🕊️ O Evangelho segundo o Espiritismo
+<script src="https://hypothes.is/embed.js" async></script>
+
+# `ESE` 🕊️ O Evangelho segundo o Espiritismo {#ESE}
 
 **DRAFT** 
 
@@ -39,9 +41,9 @@
 |---
 | Tradução de Guillon Ribeiro |
 |---
-| Título do original francês<br />
-L’Évangile selon le spiritisme<br />
-(Paris, abril de 1864) |
+| Título do original francês |
+| L’Évangile selon le spiritisme |
+| (Paris, abril de 1864) |
 
  <a href="#ESE-0">🔼 voltar um nível</a>
 
