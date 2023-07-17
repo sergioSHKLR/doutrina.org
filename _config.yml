@@ -1,3 +1,8 @@
-remote_theme: just-the-docs/just-the-docs
 title: 💧 doutrina.org
 description: Uma iniciativa para digitalizar as cinco obras básicas da Ciência e Filosofia Espírita.
+
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
+
+
+
