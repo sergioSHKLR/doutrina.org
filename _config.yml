@@ -24,7 +24,7 @@ ui:
       dark: "#fff"
       light: "#fff"
     align:
-      homepage: 'center'
+      homepage: 'left'
       page: 'left'
 
 # Build settings

@@ -1,5 +1,5 @@
 ---
-title: 🕊️ ESE | 💧 doutrina.org
+title: 🕊️ ESE
 disable_anchors : true
 ---
 
