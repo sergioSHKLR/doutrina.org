@@ -27,6 +27,18 @@ ui:
       homepage: 'left'
       page: 'left'
 
+links:
+  header:
+    - title: GitHub
+      url: https://github.com/sergioSHKLR/doutrina.org
+  footer:
+    - title: GitHub
+      url: https://github.com/sergioSHKLR/doutrina.org
+
+project:
+  version: 1.0.0
+  download_url: https://github.com/sergioSHKLR/doutrina.org
+
 # Build settings
 markdown: kramdown
   
