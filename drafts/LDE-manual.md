@@ -1,5 +1,6 @@
 <details><summary>❓ <b>Manual do usuário</b></summary>
-<p>&nbsp;</p>
+
+---
 
 **Intro**
 
@@ -8,7 +9,7 @@ Visto que nosso projeto difere significamente das opções atualmente disponíve
 **Livros**
 
 | Emoji | Sigla | Livro |
-|---|---|---|
+|:---:|:---:|---|
 | 👻 | `LDE` | O Livro dos Espíritos |
 | ✒️ | `LDM` | O Livro dos Médiuns |
 | 🕊️ | `ESE` | O Evangelho segundo o Espiritismo |
@@ -64,7 +65,7 @@ Como ilustrado acima, usamos três letras para o livro, um dígito para partes, 
 Em suma, temos esta tabela descritiva abaixo:
 
 | Emoji | Descrição | Conteúdo | Código chave |
-|---|---|---|---|
+|:---:|---|---|---|
 | 📔 | livro | obra completa | `LDE` |
 | 🗂️ | parte | subdivisão da obra | `LDE-X` |
 | 📑 | capítulo | subdivisão de partes | `LDE-X-XX` |
@@ -76,7 +77,7 @@ Em suma, temos esta tabela descritiva abaixo:
 **Adicionais**
 
 | Emoji | Descrição | Conteúdo |
-|---|---|---|
+|:---:|---|---|
 | ✝️ | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
 | 👉 | segmento relacionado | indicação para leitura complementar |
 
@@ -145,3 +146,7 @@ Deus abençoa, sempre!
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
 - LDE.md e seu variante HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em https://github.com/sergioSHKLR.
+
+---
+
+</details>
