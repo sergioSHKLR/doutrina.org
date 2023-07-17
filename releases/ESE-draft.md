@@ -728,7 +728,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-01-04` 📃 Aliança da Ciência e da Religião](#ESE-1-01-04)
 - [`ESE-1-01-05` 📃 Instruções dos Espíritos: A nova era](#ESE-1-01-05)
 
-<a href="#ESE-1-01">🔼 voltar um nível</a>
+<a href="#ESE-1">🔼 voltar um nível</a>
 
 ---
 
