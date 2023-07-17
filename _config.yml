@@ -39,6 +39,9 @@ search:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 
