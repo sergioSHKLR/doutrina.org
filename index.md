@@ -1,5 +1,14 @@
 <script src="https://hypothes.is/embed.js" async></script>
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Bem vindo!
 
 Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
