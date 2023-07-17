@@ -560,7 +560,7 @@ Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz c
 
 [^2]: N.E. de 1947: Não confundir esse Hillel que fundou a seita dos fariseus com o seu homônimo que viveu duzentos anos mais tarde e estabeleceu os princípios religiosos e sociais de um sistema todo de tolerância e amor, sistema hoje conhecido por Hilelismo.
 
-[^3]: Nota de Allan Kardec: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
+[^3]: A.K.: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
 
 <a href="#ESE-0-03">🔼 voltar um nível</a>
 
