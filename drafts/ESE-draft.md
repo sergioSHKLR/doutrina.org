@@ -1,7 +1,7 @@
 ---
 title: 🕊️ ESE
 disable_anchors : true
-layout: default
+layout: page
 ---
 
 <script src="https://hypothes.is/embed.js" async></script>
