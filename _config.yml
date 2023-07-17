@@ -30,10 +30,22 @@ ui:
 links:
   header:
     - title: GitHub
+      icon: github
+      brand: true
+      url: https://github.com/sergioSHKLR/doutrina.org
+  homepage:
+    - title: View on GitHub
+      icon: github
+      brand: true
       url: https://github.com/sergioSHKLR/doutrina.org
   footer:
     - title: GitHub
+      icon: github
+      brand: true
       url: https://github.com/sergioSHKLR/doutrina.org
+    - title: Issues
+      icon: bug
+      url: https://github.com/sergioSHKLR/doutrina.org/issues?state=open
 
 project:
   version: 1.0.0
