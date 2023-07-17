@@ -1,14 +1,5 @@
 <script src="https://hypothes.is/embed.js" async></script>
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 # Bem vindo!
 
 Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
@@ -56,7 +47,7 @@ Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
 | **Emoji** | **Sigla** | **Livro** |
-|---|---|---|
+|:---:|:---:|---|
 | 👻 | `LDE` | O Livro dos Espíritos |
 | ✒️ | `LDM` | O Livro dos Médiuns |
 | 🕊️ | `ESE` | O Evangelho segundo o Espiritismo |
