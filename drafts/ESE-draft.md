@@ -1,5 +1,6 @@
 ---
 title: 🕊️ ESE
+layout: default
 ---
 
 # `ESE` 🕊️ O Evangelho segundo o Espiritismo {#ESE}
