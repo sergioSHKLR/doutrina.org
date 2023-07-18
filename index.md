@@ -1,5 +1,5 @@
 ---
-title: 💧 doutrina.org
+title: doutrina.org
 homepage: true
 ---
 
