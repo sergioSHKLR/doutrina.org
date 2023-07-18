@@ -16,7 +16,7 @@ layout: page
 
 ---
 
-## `ESE-0` 🗂️ Parte 0. Pré-textual {ESE-0}
+## `ESE-0` 🗂️ Parte 0. Pré-textual {#ESE-0}
 
 - [`ESE-0-01` 📃 Folha de rosto](#ESE-0-01)
 - [`ESE-0-02` 📃 Prefácio](#ESE-0-02)
@@ -663,7 +663,15 @@ CONTENT
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-1-28` 📑 28. Coletânea de preces espíritas {#ESE-2}
+### `ESE-1-28` 📑 28. Coletânea de preces espíritas {#ESE-1-28}
+
+CONTENT
+
+[🔼 voltar um nível](#ESE-1)
+
+---
+
+## `ESE-2` 🗂️ Parte 2. Pós-textual {#ESE-2}
 
 - [`ESE-2-01` 📃 Nota explicativa](#ESE-2-01)
 
