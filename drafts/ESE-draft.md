@@ -1,6 +1,5 @@
 ---
 title: 🕊️ ESE
-disable_anchors : true
 ---
 
 # `ESE` 🕊️ O Evangelho segundo o Espiritismo {#ESE}
