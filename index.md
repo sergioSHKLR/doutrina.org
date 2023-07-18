@@ -110,5 +110,5 @@ Deus abençoa, sempre!
        - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 ---
-
+<p>&nbsp;</p>
 
