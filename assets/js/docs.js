@@ -1,6 +1,6 @@
 const $btn = $this.find('[data-role="toggle"]');
-if ($btn.text() === 'Feche') {
-    $btn.text('Abre');
+if ($btn.text() === 'Hide') {
+    $btn.text('Show');
 } else {
-    $btn.text('Feche');
+    $btn.text('Hide');
 }
