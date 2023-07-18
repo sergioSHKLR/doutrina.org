@@ -1,7 +1,6 @@
 ---
 title: 💧 doutrina.org
-homepage: false
-disable_anchors : true
+homepage: true
 ---
 
 <script src="https://hypothes.is/embed.js" async></script>
