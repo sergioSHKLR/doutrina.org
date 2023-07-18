@@ -5,6 +5,8 @@ homepage: true
 
 # 💧 doutrina.org
 
+---
+
 ## Bem vindo!
 
 Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
@@ -19,13 +21,7 @@ Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/dout
 
 ## Objetivo
 
-Intencionamos criar versões mais dinâmicas das cinco obras básicas, listadas abaixo.
-
-1. O Livro dos Espíritos
-2. O Livro dos Médiuns
-3. O Evangelho segundo o Espiritismo
-4. O Céu e o Inferno
-5. A Gênese
+Intencionamos criar versões mais dinâmicas das cinco obras básicas, listadas acima.
 
 Utilizaremos de diagramação distinta, tipografia, cores, emojis para tal. Ademais, criamos um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras. Adicionaremos *links* internos quando a indicação para uma leitura adicional é feita (por exemplo, Veja-se questão X de O Livro Y).
 
