@@ -1,4 +1,4 @@
-<details><summary>❓ <b>Manual do usuário</b></summary>
+# ❓ Manual do usuário
 
 ---
 
