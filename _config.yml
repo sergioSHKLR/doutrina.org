@@ -1,6 +1,12 @@
 title: 💧 doutrina.org
 description: Uma iniciativa para digitalizar as cinco obras básicas da Ciência e Filosofia Espírita.
 
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+show_downloads: "false" (unquoted) to indicate whether to provide a download URL]
+
 # Build settings
 markdown: kramdown
   
