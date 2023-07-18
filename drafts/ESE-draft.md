@@ -26,7 +26,7 @@ layout: page
 
 ---
 
-### `ESE-0-01` 📃 Folha de rosto {ESE-0-01}
+### `ESE-0-01` 📃 Folha de rosto {#ESE-0-01}
 
 ---
 
@@ -48,7 +48,7 @@ layout: page
 
 ---
 
-### `ESE-0-02` 📃 Prefácio {ESE-0-02}
+### `ESE-0-02` 📃 Prefácio {#ESE-0-02}
 
 >Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 ><br />
@@ -72,7 +72,7 @@ layout: page
 
 ---
 
-### `ESE-0-03` 📑 Introdução {ESE-0-03}
+### `ESE-0-03` 📑 Introdução {#ESE-0-03}
 
 - [`ESE-0-01` 📃 1. Objetivo desta obra](#ESE-0-03-01)
 - [`ESE-0-02` 📃 2. Autoridade da doutrina espírita](#ESE-0-03-02)
@@ -336,7 +336,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-## `ESE-1` 🗂️ Parte 1. Miolo {ESE-1}
+## `ESE-1` 🗂️ Parte 1. Miolo {#ESE-1}
 
 - [`ESE-1-01` 📑 01. Não vim destruir a lei](#ESE-1-01)
 - [`ESE-1-02` 📑 02. Meu Reino não é deste mundo](#ESE-1-02)
