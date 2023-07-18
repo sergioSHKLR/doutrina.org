@@ -1,48 +1,6 @@
 title: 💧 doutrina.org
 description: Uma iniciativa para digitalizar as cinco obras básicas da Ciência e Filosofia Espírita.
 
-remote_theme: allejo/jekyll-docs-theme@v1.0.0
-
-ui:
-  mode: 'auto' # 'auto', 'dark', 'light'
-  brand:
-    dark: "#00ceff"
-    light: "#a20000"
-  border_color:
-    dark: "#5f5f5f"
-    light: "#dee2e6"
-  header:
-    trianglify: true
-    dark:
-      color1: "#062a48"
-      color2: "#304e67"
-    light:
-      color1: "#080331"
-      color2: "#673051"
-  masthead:
-    color:
-      dark: "#fff"
-      light: "#fff"
-    align:
-      homepage: 'left'
-      page: 'left'
-
-links:
-  header:
-    - title: GitHub
-      icon: github
-      brand: true
-      url: https://github.com/sergioSHKLR/doutrina.org
-
-  footer:
-    - title: GitHub
-      icon: github
-      brand: true
-      url: https://github.com/sergioSHKLR/doutrina.org
-    - title: Problemas?
-      icon: bug
-      url: https://github.com/sergioSHKLR/doutrina.org/issues?state=open
-
 # Build settings
 markdown: kramdown
   
