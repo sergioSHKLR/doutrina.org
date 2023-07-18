@@ -1,5 +1,5 @@
 ---
-title: doutrina.org
+title: Início
 homepage: false
 disable_anchors : true
 ---
