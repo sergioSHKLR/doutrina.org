@@ -3,9 +3,9 @@ title: 💧 doutrina.org
 homepage: true
 ---
 
-<script src="https://hypothes.is/embed.js" async></script>
+# 💧 doutrina.org
 
-# Bem vindo!
+## Bem vindo!
 
 Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
 
