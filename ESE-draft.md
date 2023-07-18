@@ -386,12 +386,10 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-<a name="ESE-1-01-01"><code>ESE-1-01-01</code></a>
-
-#### 📃 Moisés
+#### `ESE-1-01-01` 📃 Moisés {#ESE-1-01-01}
 
 1. >Não penseis que vim revogar a lei ou os profetas; não vim revogar, mas cumprir. Porque em verdade vos digo: Enquanto não passar o céu e a terra, de modo nenhum passará da lei um só i ou um só til, sem que tudo se cumpra.
-   ><br /><br />
+   >
    >✝️ Mateus, cap. 5, vers. 17-18
 
 2. Na lei moisaica, há duas partes distintas: a Lei de Deus, promulgada no monte Sinai, e a lei civil ou disciplinar, decretada por Moisés. Uma é invariável; a outra, apropriada aos costumes e ao caráter do povo, se modifica com o tempo.
@@ -399,32 +397,30 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    A Lei de Deus está formulada nos dez mandamentos seguintes:
 
    >Eu sou o Senhor, vosso Deus, que vos tirei do Egito, da casa da servidão. Não tereis, diante de mim, outros deuses estrangeiros. Não fareis imagem esculpida, nem figura alguma do que está em cima do céu, nem embaixo na Terra, nem do que quer que esteja nas águas sob a terra. Não os adorareis e não lhes prestareis culto soberano. [^4]
-   ><br /><br />
+   >
    >Não pronunciareis em vão o nome do Senhor, vosso Deus.
-   ><br /><br />
+   >
    >Lembrai-vos de santificar o dia do sábado.
-   ><br /><br />
+   >
    >Honrai a vosso pai e a vossa mãe, a fim de viverdes longo tempo na terra que o Senhor vosso Deus vos dará.
-   ><br /><br />
+   >
    >Não mateis.
-   ><br /><br />
+   >
    >Não cometais adultério.
-   ><br /><br />
+   >
    >Não roubeis
-   ><br /><br />
+   >
    >Não presteis testemunho falso contra o vosso próximo.
-   ><br /><br />
+   >
    >Não desejeis a mulher do vosso próximo.
-   ><br /><br />
+   >
    >Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.
-   ><br /><br />
+   >
    >✝️ Exôdo, cap. 20, vers. 2-12
 
    É de todos os tempos e de todos os países essa lei e tem, por isso mesmo, caráter divino. Todas as outras são leis que Moisés decretou, obrigado que se via a conter, pelo temor, um povo de seu natural turbulento e indisciplinado, no qual tinha ele de combater arraigados abusos e preconceitos, adquiridos durante a escravidão do Egito. Para imprimir autoridade às suas leis, houve de lhes atribuir origem divina, conforme o fizeram todos os legisladores dos povos primitivos. A autoridade do homem precisava apoiar-se na autoridade de Deus; mas só a ideia de um Deus terrível podia impressionar criaturas ignorantes, nas quais ainda pouco desenvolvidos se encontravam o senso moral e o sentimento de uma justiça reta. É evidente que aquele que incluíra, entre os seus mandamentos, este: “Não matareis; não causareis dano ao vosso próximo”, não poderia contradizer-se, fazendo da exterminação um dever. As leis moisaicas, propriamente ditas, revestiam, pois, um caráter essencialmente transitório.
 
-<a name="ESE-1-01-02"><code>ESE-1-01-02</code></a>
-
-#### 📃 O Cristo
+#### `ESE-1-01-02` 📃 O Cristo {#ESE-1-01-02}
 
 3. Jesus não veio destruir a lei, isto é, a Lei de Deus; veio cumpri-la, isto é, desenvolvê-la, dar-lhe o verdadeiro sentido e adaptá-la ao grau de adiantamento dos homens. Por isso é que se nos depara, nessa lei, o princípio dos deveres para com Deus e para com o próximo, base da sua doutrina. Quanto às leis de Moisés, propriamente ditas, Ele, ao contrário, as modificou profundamente, quer na substância, quer na forma. Combatendo constantemente o abuso das práticas exteriores e as falsas interpretações, por mais radical reforma não podia fazê-las passar, do que as reduzindo a esta única prescrição: “Amar a Deus acima de todas as coisas e o próximo como a si mesmo”, e acrescentando: aí estão a lei toda e os profetas.
 
@@ -432,9 +428,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 4. O papel de Jesus não foi o de um simples legislador moralista, tendo por exclusiva autoridade a sua palavra. Cabia-lhe dar cumprimento às profecias que lhe anunciaram o advento; a autoridade lhe vinha da natureza excepcional do seu Espírito e da sua missão divina. Ele viera ensinar aos homens que a verdadeira vida não é a que transcorre na Terra, e sim a que é vivida no Reino dos Céus; viera ensinar-lhes o caminho que a esse reino conduz, os meios de eles se reconciliarem com Deus e de pressentirem esses meios na marcha das coisas por vir, para a realização dos destinos humanos. Entretanto, não disse tudo, limitando-se, respeito a muitos pontos, a lançar o gérmen de verdades que, segundo Ele próprio o declarou, ainda não podiam ser compreendidas. Falou de tudo, mas em termos mais ou menos implícitos. Para ser apreendido o sentido oculto de algumas palavras suas, mister se fazia que novas ideias e novos conhecimentos lhes trouxessem a chave indispensável, ideias que, porém, não podiam surgir antes que o espírito humano houvesse alcançado um certo grau de madureza. A Ciência tinha de contribuir poderosamente para a eclosão e o desenvolvimento de tais ideias. Importava, pois, dar à Ciência tempo para progredir.
 
-<a name="ESE-1-01-03"><code>ESE-1-01-03</code></a>
-
-#### 📃 O Espiritismo
+#### `ESE-1-01-03` 📃 Espiritismo {#ESE-1-01-03}
 
 5. O Espiritismo é a ciência nova que vem revelar aos homens, por meio de provas irrecusáveis, a existência e a natureza do mundo espiritual e as suas relações com o mundo corpóreo. Ele no-lo mostra, não mais como coisa sobrenatural, porém, ao contrário, como uma das forças vivas e sem cessar atuantes da Natureza, como a fonte de uma imensidade de fenômenos até hoje incompreendidos e, por isso, relegados para o domínio do fantástico e do maravilhoso. É a essas relações que o Cristo alude em muitas circunstâncias e daí vem que muito do que Ele disse permaneceu ininteligível ou falsamente interpretado. O Espiritismo é a chave com o auxílio da qual tudo se explica de modo fácil.
 
@@ -442,17 +436,13 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 7. Assim como o Cristo disse: “Não vim destruir a lei, porém cumpri-la”, também o Espiritismo diz: “Não venho destruir a lei cristã, mas dar-lhe execução.” Nada ensina em contrário ao que ensinou o Cristo; mas desenvolve, completa e explica, em termos claros e para toda gente, o que foi dito apenas sob forma alegórica. Vem cumprir, nos tempos preditos, o que o Cristo anunciou e preparar a realização das coisas futuras. Ele é, pois, obra do Cristo, que preside, conforme igualmente o anunciou, à regeneração que se opera e prepara o Reino de Deus na Terra.
 
-<a name="ESE-1-01-04"><code>ESE-1-01-04</code></a>
-
-#### 📃 Aliança da Ciência e da Religião
+#### `ESE-1-01-04` 📃 Aliança da Ciência e da Religião {#ESE-1-01-04}
 
 8. A Ciência e a Religião são as duas alavancas da inteligência humana: uma revela as leis do mundo material e a outra as do mundo moral. Tendo, no entanto, essas leis o mesmo princípio, que é Deus, não podem contradizer-se. Se fossem a negação uma da outra, uma necessariamente estaria em erro e a outra com a verdade, porquanto Deus não pode pretender a destruição de sua própria obra. A incompatibilidade que se julgou existir entre essas duas ordens de ideias provém apenas de uma observação defeituosa e de excesso de exclusivismo, de um lado e de outro. Daí um conflito que deu origem à incredulidade e à intolerância.
 
    São chegados os tempos em que os ensinamentos do Cristo têm de ser completados; em que o véu intencionalmente lançado sobre algumas partes desse ensino tem de ser levantado; em que a Ciência, deixando de ser exclusivamente materialista, tem de levar em conta o elemento espiritual e em que a Religião, deixando de ignorar as leis orgânicas e imutáveis da matéria, como duas forças que são, apoiando-se uma na outra e marchando combinadas, se prestarão mútuo concurso. Então, não mais desmentida pela Ciência, a Religião adquirirá inabalável poder, porque estará de acordo com a razão, já se lhe não podendo mais opor a irresistível lógica dos fatos.
 
    A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando cada uma as coisas do seu ponto de vista exclusivo, reciprocamente se repeliam. Faltava com que encher o vazio que as separava, um traço de união que as aproximasse. Esse traço de união está no conhecimento das leis que regem o universo espiritual e suas relações com o mundo corpóreo, leis tão imutáveis quanto as que regem o movimento dos astros e a existência dos seres. Uma vez comprovadas pela experiência essas relações, nova luz se fez: a fé dirigiu-se à razão; esta nada encontrou de ilógico na fé: vencido foi o materialismo. Mas nisso, como em tudo, há pessoas que ficam atrás, até serem arrastadas pelo movimento geral, que as esmaga, se tentam resistir-lhe, em vez de o acompanharem. É toda uma revolução que neste momento se opera e trabalha os espíritos. Após uma elaboração que durou mais de dezoito séculos, chega ela à sua plena realização e vai marcar uma nova era na vida da Humanidade. Fáceis são de prever as consequências: acarretará para as relações sociais inevitáveis modificações, às quais ninguém terá força para se opor, porque elas estão nos desígnios de Deus e derivam da lei do progresso, que é Lei de Deus.
-
-<a name="ESE-1-01-05"><code>ESE-1-01-05</code></a>
 
 #### 📃 Instruções dos Espíritos: A nova era
 
@@ -478,8 +468,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-
-
 [^4]: N.E. de 1947: Allan Kardec cita a parte mais importante do primeiro mandamento, e deixa de transcrever as seguintes frases: “...porque eu, o Senhor vosso Deus, sou Deus zeloso, que puno a iniquidade dos pais nos filhos, na terceira e na quarta gerações daqueles que me aborrecem, e uso de misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.” (Êxodo, 20:5 e 6.) 
 Nas traduções feitas pelas Igrejas católica e protestante, essa parte do mandamento foi truncada para harmonizá-la com a doutrina da encarnação única da alma. Onde está “na terceira e na quarta gerações”, conforme a tradução Brasileira da Bíblia, a Vulgata Latina (in tertiam et quartam generationem), a tradução de Zamenhof (en la tria kaj kvara generacioj), mudaram o texto para “até a terceira e quarta gerações”.
 Esses textos truncados que aparecem na tradução da Igreja Anglicana, na Católica de Figueiredo, na Protestante de Almeida e outras, tornam monstruosa a Justiça divina, pois que filhos, netos, bisnetos, tetranetos inocentes teriam de ser castigados pelo pecado dos pais, avós, bisavós, tetravós. Foi uma infeliz tentativa de acomodação da Lei à vida única.
@@ -487,24 +475,171 @@ O texto certo que, por mercê de Deus, já está reproduzido pelas edições rec
 Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , como realmente é o original.
 Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
 
-
 [🔼 voltar um nível](#ESE-1)
 
 ---
+
 ### `ESE-1-02` 📑 02. Meu Reino não é deste mundo {#ESE-1-02}
 
-CONTENT
+- [`ESE-1-02-01` 📃 A vida futura](#ESE-1-02-01)
+- [`ESE-1-02-02` 📃  A realeza de Jesus](#ESE-1-02-02)
+- [`ESE-1-02-03` 📃  O ponto de vista](#ESE-1-02-03)
+- [`ESE-1-02-04` 📃  Instruções dos Espíritos: Uma realeza terrestre](#ESE-1-02-04)
+
+>1. Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui. Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz. (✝️ João, cap. 18. vers. 33, 36 e 37)
+
+#### `ESE-1-02-01` 📃 A vida futura {#ESE-1-02-01}
+
+2. Por essas palavras, Jesus claramente se refere à vida futura, que Ele apresenta, em todas as circunstâncias, como a meta que a Humanidade irá ter e como devendo constituir objeto das maiores preocupações do homem na Terra. Todas as suas máximas se reportam a esse grande princípio. Com efeito, sem a vida futura, nenhuma razão de ser teria a maior parte dos seus preceitos morais, donde vem que os que não creem na vida futura, imaginando que Ele apenas falava na vida presente, não os compreendem, ou os consideram pueris.
+
+Esse dogma pode, portanto, ser tido como o eixo do ensino do Cristo, pelo que foi colocado num dos primeiros lugares à frente desta obra. É que ele tem de ser o ponto de mira de todos os homens; só ele justifica as anomalias da vida terrena e se mostra de acordo com a Justiça de Deus.
+
+3. Apenas ideias muito imprecisas tinham os judeus acerca da vida futura. Acreditavam nos anjos, considerando-os seres privilegiados da Criação; não sabiam, porém, que os homens podem um dia tornar-se anjos e partilhar da felicidade destes. Segundo eles, a observância das Leis de Deus era recompensada com os bens terrenos, com a supremacia da nação a que pertenciam, com vitórias sobre os seus inimigos. As calamidades públicas e as derrotas eram o castigo da desobediência àquelas leis. Moisés não pudera dizer mais do que isso a um povo pastor e ignorante, que precisava ser tocado, antes de tudo, pelas coisas deste mundo. Mais tarde, Jesus lhe revelou que há outro mundo, onde a Justiça de Deus segue o seu curso. É esse o mundo que Ele promete aos que cumprem os mandamentos de Deus e onde os bons acharão sua recompensa. Aí o seu reino; lá é que Ele se encontra na sua glória e para onde voltaria quando deixasse a Terra.
+
+Jesus, porém, conformando seu ensino com o estado dos homens de sua época, não julgou conveniente dar-lhes luz completa, percebendo que eles ficariam deslumbrados, visto que não a compreenderiam. Limitou-se a, de certo modo, apresentar a vida futura apenas como um princípio, como uma Lei da Natureza a cuja ação ninguém pode fugir. Todo cristão, pois, necessariamente crê na vida futura; mas a ideia que muitos fazem dela é ainda vaga, incompleta e, por isso mesmo, falsa em diversos pontos. Para grande número de pessoas, não há, a tal respeito, mais do que uma crença, balda de certeza absoluta, donde as dúvidas e mesmo a incredulidade.
+
+O Espiritismo veio completar, nesse ponto, como em vários outros, o ensino do Cristo, fazendo-o quando os homens já se mostram maduros bastante para apreender a verdade. Com o Espiritismo, a vida futura deixa de ser simples artigo de fé, mera hipótese; torna-se uma realidade material, que os fatos demonstram, porquanto são testemunhas oculares os que a descrevem nas suas fases todas e em todas as suas peripécias, e de tal sorte que, além de impossibilitarem qualquer dúvida a esse propósito, facultam à mais vulgar inteligência a possibilidade de imaginá-la sob seu verdadeiro aspecto, como toda gente imagina um país cuja pormenorizada descrição leia. Ora, a descrição da vida futura é tão circunstanciadamente feita, são tão racionais as condições, ditosas ou infortunadas, da existência dos que lá se encontram, quais eles próprios pintam, que cada um, aqui, a seu mau grado, reconhece e declara a si mesmo que não pode ser de outra forma, porquanto, assim sendo, patente fica a verdadeira Justiça de Deus.
+
+#### `ESE-1-02-02` 📃  A realeza de Jesus {#ESE-1-02-02}
+
+4. Que não é deste mundo o reino de Jesus todos compreendem, mas também na Terra não terá Ele uma realeza? Nem sempre o título de rei implica o exercício do poder temporal. Dá-se esse título, por unânime consenso, a todo aquele que, pelo seu gênio, ascende à primeira plana numa ordem de ideias quaisquer, a todo aquele que domina o seu século e influi sobre o progresso da Humanidade. É nesse sentido que se costuma dizer: o rei ou príncipe dos filósofos, dos artistas, dos poetas, dos escritores etc. Essa realeza, oriunda do mérito pessoal, consagrada pela posteridade, não revela, muitas vezes, preponderância bem maior do que a que cinge a coroa real? Imperecível é a primeira, enquanto esta outra é joguete das vicissitudes; as gerações que se sucedem à primeira sempre a bendizem, ao passo que, por vezes, amaldiçoam a outra. Esta, a terrestre, acaba com a vida; a realeza moral se prolonga e mantém o seu poder, governa, sobretudo, após a morte. Sob esse aspecto não é Jesus mais poderoso rei do que os potentados da Terra? Razão, pois, lhe assistia para dizer a Pilatos, conforme disse: Sou rei, mas o meu reino não é deste mundo.
+
+#### `ESE-1-02-03` 📃  O ponto de vista {#ESE-1-02-03}
+
+5. A ideia clara e precisa que se faça da vida futura proporciona inabalável fé no porvir, fé que acarreta enormes consequências sobre a moralização dos homens, porque muda completamente o ponto de vista sob o qual encaram eles a vida terrena. Para quem se coloca, pelo pensamento, na vida espiritual, que é indefinida, a vida corpórea se torna simples passagem, breve estada num país ingrato. As vicissitudes e tribulações dessa vida não passam de incidentes que ele suporta com paciência, por sabê-las de curta duração, devendo seguir-se-lhes um estado mais ditoso. À morte nada mais restará de aterrador; deixa de ser a porta que se abre para o nada e torna-se a que dá para a libertação, pela qual entra o exilado numa mansão de bem-aventurança e de paz. Sabendo temporária e não definitiva a sua estada no lugar onde se encontra, menos atenção presta às preocupações da vida, resultando-lhe daí uma calma de espírito que tira àquela muito do seu amargor.
+
+Pelo simples fato de duvidar da vida futura, o homem dirige todos os seus pensamentos para a vida terrestre. Sem nenhuma certeza quanto ao porvir, dá tudo ao presente. Nenhum bem divisando mais precioso do que os da Terra, torna-se qual a criança que nada mais vê além de seus brinquedos. E não há o que não faça para conseguir os únicos bens que se lhe afiguram reais. A perda do menor deles lhe ocasiona causticante pesar; um engano, uma decepção, uma ambição insatisfeita, uma injustiça de que seja vítima, o orgulho ou a vaidade feridos são outros tantos tormentos, que lhe transformam a existência numa perene angústia, infligindo-se ele, desse modo, a si próprio, verdadeira tortura de todos os instantes. Colocando o ponto de vista, de onde considera a vida corpórea, no lugar mesmo em que ele aí se encontra, vastas proporções assume tudo o que o rodeia. O mal que o atinja, como o bem que toque aos outros, grande importância adquire aos seus olhos. Àquele que se acha no interior de uma cidade, tudo lhe parece grande: assim os homens que ocupem as altas posições, como os monumentos. Suba ele, porém, a uma montanha, e logo bem pequenos lhe parecerão homens e coisas.
+
+É o que sucede ao que encara a vida terrestre do ponto de vista da vida futura; a Humanidade, tanto quanto as estrelas do firmamento, perde-se na imensidade. Percebe então que grandes e pequenos estão confundidos, como formigas sobre um montículo de terra; que proletários e potentados são da mesma estatura, e lamenta que essas criaturas efêmeras a tantas canseiras se entreguem para conquistar um lugar que tão pouco as elevará e que por tão pouco tempo conservarão. Daí se segue que a importância dada aos bens terrenos está sempre em razão inversa da fé na vida futura.
+
+6. Se toda a gente pensasse dessa maneira, dir-se-ia, tudo na Terra periclitaria, porquanto ninguém mais se ocuparia com as coisas terrenas. Não; o homem, instintivamente, procura o seu bem-estar e, embora certo de que só por pouco tempo permanecerá no lugar em que se encontra, cuida de estar aí o melhor ou o menos mal que lhe seja possível. Ninguém há que, dando com um espinho debaixo de sua mão, não a retire, para se não picar. Ora, o desejo do bem-estar força o homem a tudo melhorar, impelido que é pelo instinto do progresso e da conservação, que está nas Leis da Natureza. Ele, pois, trabalha por necessidade, por gosto e por dever, obedecendo, desse modo, aos desígnios da Providência que, para tal fim, o pôs na Terra. Simplesmente, aquele que se preocupa com o futuro não liga ao presente mais do que relativa importância e facilmente se consola dos seus insucessos, pensando no destino que o aguarda.
+
+Deus, conseguintemente, não condena os gozos terrenos; condena, sim, o abuso desses gozos em detrimento das coisas da alma. Contra tais abusos é que se premunem os que a si próprios aplicam estas palavras de Jesus: Meu reino não é deste mundo.
+
+Aquele que se identifica com a vida futura assemelha-se ao rico que perde sem emoção uma pequena soma. Aquele cujos pensamentos se concentram na vida terrestre assemelha-se ao pobre que perde tudo o que possui e se desespera.
+
+7. O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa visão, acanhada e mesquinha, que o concentra na vida atual, que faz do instante que vivemos na Terra único e frágil eixo do porvir eterno, ele, o Espiritismo, mostra que essa vida não passa de um elo no harmonioso e magnífico conjunto da obra do Criador. Mostra a solidariedade que conjuga todas as existências de um mesmo ser, todos os seres de um mesmo mundo e os seres de todos os mundos. Faculta assim uma base e uma razão de ser à fraternidade universal, enquanto a doutrina da criação da alma por ocasião do nascimento de cada corpo torna estranhos uns aos outros todos os seres. Essa solidariedade entre as partes de um mesmo todo explica o que inexplicável se apresenta, desde que se considere apenas um ponto. Esse conjunto, ao tempo do Cristo, os homens não o teriam podido compreender, motivo por que Ele reservou para outros tempos o fazê-lo conhecido.
+
+#### `ESE-1-02-04` 📃  Instruções dos Espíritos: Uma realeza terrestre {#ESE-1-02-04}
+
+8. Quem melhor do que eu pode compreender a verdade destas palavras de nosso Senhor: O meu reino não é deste mundo? O orgulho me perdeu na Terra. Quem, pois, compreenderia o nenhum valor dos reinos da Terra, se eu o não compreendia? Que trouxe eu comigo da minha realeza terrena? Nada, absolutamente nada. E, como que para tornar mais terrível a lição, ela nem sequer me acompanhou até o túmulo! Rainha entre os homens, como rainha julguei que penetrasse no Reino dos Céus! Que desilusão! Que humilhação, quando, em vez de ser recebida aqui qual soberana, vi acima de mim, mas muito acima, homens que eu julgava insignificantes e aos quais desprezava, por não terem sangue nobre! Oh! como então compreendi a esterilidade das honras e grandezas que com tanta avidez se requestam na Terra!
+
+Para se granjear um lugar neste reino, são necessárias a abnegação, a humildade, a caridade em toda a sua celeste prática, a benevolência para com todos. Não se vos pergunta o que fostes, nem que posição ocupastes, mas que bem fizestes, quantas lágrimas enxugastes.
+
+Ó Jesus, Tu o disseste, teu reino não é deste mundo, porque é preciso sofrer para chegar ao céu, de onde os degraus de um trono a ninguém aproximam. A ele só conduzem as veredas mais penosas da vida. Procurai-lhe, pois, o caminho, através das urzes e dos espinhos, não por entre as flores.
+
+Correm os homens por alcançar os bens terrestres, como se os houvessem de guardar para sempre. Aqui, porém, todas as ilusões se somem. Cedo se apercebem eles de que apenas apanharam uma sombra e desprezaram os únicos bens reais e duradouros, os únicos que lhes aproveitam na morada celeste, os únicos que lhes podem facultar acesso a esta.
+
+Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais. – Uma Rainha de França. (Havre, 1863.)
+
+---
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
+
 ### `ESE-1-03` 📑 03. Há muitas moradas na casa de meu Pai {#ESE-1-03}
 
-CONTENT
+- [`ESE-1-03-01` 📃 Diferentes estados da alma na erraticidade](#ESE-1-03-01)
+- [`ESE-1-03-02` 📃 Diferentes categorias de mundos habitados](#ESE-1-03-02)
+- [`ESE-1-03-03` 📃 Destinação da Terra. Causas das misérias humanas](#ESE-1-03-03)
+- [`ESE-1-03-04` 📃 Instruções dos Espíritos: Mundos inferiores e mundos superiores](#ESE-1-03-04)
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
+
+>1. Não se turbe o vosso coração. Credes em Deus, crede também em mim. Há muitas moradas na casa de meu Pai; se assim não fosse, já Eu vo-lo teria dito, pois me vou para vos preparar o lugar. Depois que me tenha ido e que vos houver preparado o lugar, voltarei e vos retirarei para mim, a fim de que onde Eu estiver, também vós aí estejais. (João, 14:1 a 3.)
+
+#### `ESE-1-03-01` 📃 Diferentes estados da alma na erraticidade {#ESE-1-03-01}
+
+2. A casa do Pai é o Universo. As diferentes moradas são os mundos que circulam no Espaço infinito e oferecem, aos Espíritos que neles encarnam, moradas correspondentes ao adiantamento dos mesmos Espíritos.
+
+Independente da diversidade dos mundos, essas palavras de Jesus também podem referir-se ao estado venturoso ou desgraçado do Espírito na erraticidade. Conforme se ache este mais ou menos depurado e desprendido dos laços materiais, variarão ao infinito o meio em que ele se encontre, o aspecto das coisas, as sensações que experimente, as percepções que tenha. Enquanto uns não se podem afastar da esfera onde viveram, outros se elevam e percorrem o Espaço e os mundos; enquanto alguns Espíritos culpados erram nas trevas, os bem-aventurados gozam de resplendente claridade e do espetáculo sublime do Infinito; finalmente, enquanto o mau, atormentado de remorsos e pesares, muitas vezes insulado, sem consolação, separado dos que constituíam objeto de suas afeições, pena sob o guante dos sofrimentos morais, o justo, em convívio com aqueles a quem ama, frui as delícias de uma felicidade indizível. Também nisso, portanto, há muitas moradas, embora não circunscritas, nem localizadas.
+
+#### `ESE-1-03-02` 📃 Diferentes categorias de mundos habitados {#ESE-1-03-02}
+
+3. Do ensino dado pelos Espíritos, resulta que muito diferentes umas das outras são as condições dos mundos, quanto ao grau de adiantamento ou de inferioridade dos seus habitantes. Entre eles há os em que estes últimos são ainda inferiores aos da Terra, física e moralmente; outros, da mesma categoria que o nosso; e outros que lhe são mais ou menos superiores a todos os respeitos. Nos mundos inferiores, a existência é toda material, reinam soberanas as paixões, sendo quase nula a vida moral. À medida que esta se desenvolve, diminui a influência da matéria, de tal maneira que, nos mundos mais adiantados, a vida é, por assim dizer, toda espiritual.
+
+4. Nos mundos intermédios, misturam-se o bem e o mal, predominando um ou outro, segundo o grau de adiantamento da maioria dos que os habitam. Embora se não possa fazer, dos diversos mundos, uma classificação absoluta, pode-se contudo, em virtude do estado em que se acham e da destinação que trazem, tomando por base os matizes mais salientes, dividi-los, de modo geral, como segue: mundos primitivos, destinados às primeiras encarnações da alma humana; mundos de expiação e provas, onde domina o mal; mundos de regeneração, nos quais as almas que ainda têm o que expiar haurem novas forças, repousando das fadigas da luta; mundos ditosos, onde o bem sobrepuja o mal; mundos celestes ou divinos, habitações de Espíritos depurados, onde exclusivamente reina o bem. A Terra pertence à categoria dos mundos de expiação e provas, razão por que aí vive o homem a braços com tantas misérias.
+
+5. Os Espíritos que encarnam em um mundo não se acham a ele presos indefinidamente, nem nele atravessam todas as fases do progresso que lhes cumpre realizar, para atingir a perfeição. Quando, em um mundo, eles alcançam o grau de adiantamento que esse mundo comporta, passam para outro mais adiantado, e assim por diante, até que cheguem ao estado de puros Espíritos. São outras tantas estações, em cada uma das quais se lhes deparam elementos de progresso apropriados ao adiantamento que já conquistaram. É-lhes uma recompensa ascenderem a um mundo de ordem mais elevada, como é um castigo o prolongarem a sua permanência em um mundo desgraçado, ou serem relegados para outro ainda mais infeliz do que aquele a que se veem impedidos de voltar quando se obstinaram no mal.
+
+#### `ESE-1-03-03` 📃 Destinação da Terra. Causas das misérias humanas {#ESE-1-03-03}
+
+6. Muitos se admiram de que na Terra haja tanta maldade e tantas paixões grosseiras, tantas misérias e enfermidades de toda natureza, e daí concluem que a espécie humana bem triste coisa é. Provém esse juízo do acanhado ponto de vista em que se colocam os que o emitem e que lhes dá uma falsa ideia do conjunto. Deve-se considerar que na Terra não está a Humanidade toda, mas apenas uma pequena fração da Humanidade. Com efeito, a espécie humana abrange todos os seres dotados de razão que povoam os inúmeros orbes do Universo. Ora, que é a população da Terra, em face da população total desses mundos? Muito menos que a de uma aldeia, em confronto com a de um grande império. A situação material e moral da Humanidade terrena nada tem que espante, desde que se leve em conta a destinação da Terra e a natureza dos que a habitam.
+
+7. Faria dos habitantes de uma grande cidade falsíssima ideia quem os julgasse pela população dos seus quarteirões mais ínfimos e sórdidos. Num hospital, ninguém vê senão doentes e estropiados; numa penitenciária, veem-se reunidas todas as torpezas, todos os vícios; nas regiões insalubres, os habitantes, em sua maioria, são pálidos, franzinos e enfermiços. Pois bem: figure-se a Terra como um subúrbio, um hospital, uma penitenciária, um sítio malsão, e ela é simultaneamente tudo isso, e compreender-se-á por que as aflições sobrelevam aos gozos, porquanto não se mandam para o hospital os que se acham com saúde, nem para as casas de correção os que nenhum mal praticaram; nem os hospitais e as casas de correção se podem ter por lugares de deleite.
+
+Ora, assim como, numa cidade, a população não se encontra toda nos hospitais ou nas prisões, também na Terra não está a Humanidade inteira. E, do mesmo modo que do hospital saem os que se curaram e da prisão os que cumpriram suas penas, o homem deixa a Terra quando está curado de suas enfermidades morais.
+
+#### `ESE-1-03-04` 📃 Instruções dos Espíritos: Mundos inferiores e mundos superiores {#ESE-1-03-04}
+
+- [`ESE-1-03-04-01` 📃 Mundos de expiações e de provas](#ESE-1-03-04-01)
+- [`ESE-1-03-04-02` 📃 Mundos regeneradores](#ESE-1-03-04-02)
+- [`ESE-1-03-04-03` 📃 Progressão dos mundos](#ESE-1-03-04-03)
+
+---
+
+##### `ESE-1-03-04-01` 📃 Mundos de expiações e de provas {#ESE-1-03-04-01}
+
+8. A qualificação de mundos inferiores e mundos superiores nada tem de absoluta; é, antes, muito relativa. Tal mundo é inferior ou superior com referência aos que lhe estão acima ou abaixo, na escala progressiva.
+
+Tomada a Terra por termo de comparação, pode-se fazer ideia do estado de um mundo inferior, supondo os seus habitantes na condição das raças selvagens ou das nações bárbaras que ainda entre nós se encontram, restos do estado primitivo do nosso orbe. Nos mais atrasados, são de certo modo rudimentares os seres que os habitam. Revestem a forma humana, mas sem nenhuma beleza. Seus instintos não têm a abrandá-los qualquer sentimento de delicadeza ou de benevolência, nem as noções do justo e do injusto. A força bruta é, entre eles, a única lei. Carentes de indústrias e de invenções, passam a vida na conquista de alimentos. Deus, entretanto, a nenhuma de suas criaturas abandona; no fundo das trevas da inteligência jaz, latente, a vaga intuição, mais ou menos desenvolvida, de um Ente supremo. Esse instinto basta para torná-los superiores uns aos outros e para lhes preparar a ascensão a uma vida mais completa, porquanto eles não são seres degradados, mas crianças que estão a crescer.
+
+Entre os degraus inferiores e os mais elevados, inúmeros outros há, e difícil é reconhecer-se nos Espíritos puros, desmaterializados e resplandecentes de glória, os que foram esses seres primitivos, do mesmo modo que no homem adulto se custa a reconhecer o embrião. [^5]
+
+9. Nos mundos que chegaram a um grau superior, as condições da vida moral e material são muitíssimo diversas das da vida na Terra. Como por toda parte, a forma corpórea aí é sempre a humana, mas embelezada, aperfeiçoada e, sobretudo, purificada. O corpo nada tem da materialidade terrestre e não está, conseguintemente, sujeito às necessidades, nem às doenças ou deteriorações que a predominância da matéria provoca.
+
+Mais apurados, os sentidos são aptos a percepções a que neste mundo a grosseria da matéria obsta. A leveza específica do corpo permite locomoção rápida e fácil: em vez de se arrastar penosamente pelo solo, desliza, a bem dizer, pela superfície, ou plana na atmosfera, sem qualquer outro esforço além do da vontade, conforme se representam os anjos, ou como os antigos imaginavam os manes nos Campos Elíseos. Os homens conservam, a seu grado, os traços de suas passadas migrações e se mostram a seus amigos tais quais estes os conheceram, porém, irradiando uma luz divina, transfigurados pelas impressões interiores, então sempre elevadas. Em lugar de semblantes descorados, abatidos pelos sofrimentos e paixões, a inteligência e a vida cintilam com o fulgor que os pintores hão figurado no nimbo ou auréola dos santos.
+
+A pouca resistência que a matéria oferece a Espíritos já muito adiantados torna rápido o desenvolvimento dos corpos e curta ou quase nula a infância. Isenta de cuidados e angústias, a vida é proporcionalmente muito mais longa do que na Terra. Em princípio, a longevidade guarda proporção com o grau de adiantamento dos mundos. A morte de modo algum acarreta os horrores da decomposição; longe de causar pavor, é considerada uma transformação feliz, por isso que lá não existe a dúvida sobre o porvir. Durante a vida, a alma, já não tendo a constringi-la a matéria compacta, expande-se e goza de uma lucidez que a coloca em estado quase permanente de emancipação e lhe consente a livre transmissão do pensamento.
+
+10. Nesses mundos venturosos, as relações, sempre amistosas entre os povos, jamais são perturbadas pela ambição, da parte de qualquer deles, de escravizar o seu vizinho, nem pela guerra que daí decorre. Não há senhores, nem escravos, nem privilegiados pelo nascimento; só a superioridade moral e intelectual estabelece diferença entre as condições e dá a supremacia. A autoridade merece o respeito de todos, porque somente ao mérito é conferida e se exerce sempre com justiça. O homem não procura elevar-se acima do homem, mas acima de si mesmo, aperfeiçoando-se. Seu objetivo é galgar à categoria dos Espíritos puros, não lhe constituindo um tormento esse desejo, porém, uma ambição nobre, que o induz a estudar com ardor para igualar-se a eles. Lá, todos os sentimentos delicados e elevados da natureza humana se acham engrandecidos e purificados; desconhecem-se os ódios, os mesquinhos ciúmes, as baixas cobiças da inveja; um laço de amor e fraternidade prende uns aos outros todos os homens, ajudando os mais fortes aos mais fracos. Possuem bens, em maior ou menor quantidade, conforme os tenham adquirido, mais ou menos por meio da inteligência; ninguém, todavia, sofre, por lhe faltar o necessário, uma vez que ninguém se acha em expiação. Numa palavra: o mal, nesses mundos, não existe.
+
+11. No vosso, precisais do mal para sentirdes o bem; da noite, para admirardes a luz; da doença, para apreciardes a saúde. Naqueles outros não há necessidade desses contrastes. A eterna luz, a eterna beleza e a eterna serenidade da alma proporcionam uma alegria eterna, livre de ser perturbada pelas angústias da vida material, ou pelo contato dos maus, que lá não têm acesso. Isso o que o espírito humano maior dificuldade encontra para compreender. Ele foi bastante engenhoso para pintar os tormentos do inferno, mas nunca pôde imaginar as alegrias do céu. Por quê? Porque, sendo inferior, só há experimentado dores e misérias, jamais entreviu as claridades celestes; não pode, pois, falar do que não conhece. À medida, porém, que se eleva e depura, o horizonte se lhe dilata e ele compreende o bem que está diante de si, como compreendeu o mal que lhe está atrás.
+
+12. Entretanto, os mundos felizes não são orbes privilegiados, visto que Deus não é parcial para qualquer de seus filhos; a todos dá os mesmos direitos e as mesmas facilidades para chegarem a tais mundos. Fá-los partir todos do mesmo ponto e a nenhum dota melhor do que aos outros; a todos são acessíveis as mais altas categorias: apenas lhes cumpre conquistá-las pelo seu trabalho, alcançá-las mais depressa, ou permanecer inativos por séculos de séculos no lodaçal da Humanidade. (Resumo do ensino de todos os Espíritos superiores.)
+
+##### `ESE-1-03-04-02` 📃 Mundos regeneradores {#ESE-1-03-04-02}
+
+13. Que vos direi dos mundos de expiações que já não saibais, pois basta observeis o em que habitais? A superioridade da inteligência, em grande número dos seus habitantes, indica que a Terra não é um mundo primitivo, destinado à encarnação dos Espíritos que acabaram de sair das mãos do Criador. As qualidades inatas que eles trazem consigo constituem a prova de que já viveram e realizaram certo progresso. Mas também os numerosos vícios a que se mostram propensos constituem o índice de grande imperfeição moral. Por isso os colocou Deus num mundo ingrato, para expiarem aí suas faltas, mediante penoso trabalho e misérias da vida, até que hajam merecido ascender a um planeta mais ditoso.
+
+14. Entretanto, nem todos os Espíritos que encarnam na Terra vão para aí em expiação. As raças a que chamais selvagens são formadas de Espíritos que apenas saíram da infância e que na Terra se acham, por assim dizer, em curso de educação, para se desenvolverem pelo contato com Espíritos mais adiantados. Vêm depois as raças semicivilizadas, constituídas desses mesmos Espíritos em via de progresso. São elas, de certo modo, raças indígenas da Terra, que aí se elevaram pouco a pouco em longos períodos seculares, algumas das quais hão podido chegar ao aperfeiçoamento intelectual dos povos mais esclarecidos.
+
+Os Espíritos em expiação, se nos podemos exprimir dessa forma, são exóticos na Terra; já viveram noutros mundos, donde foram excluídos em consequência da sua obstinação no mal e por se haverem constituído, em tais mundos, causa de perturbação para os bons. Tiveram de ser degredados, por algum tempo, para o meio de Espíritos mais atrasados, com a missão de fazer que estes últimos avançassem, pois que levam consigo inteligências desenvolvidas e o gérmen dos conhecimentos que adquiriram. Daí vem que os Espíritos em punição se encontram no seio das raças mais inteligentes. Por isso mesmo, para essas raças é que de mais amargor se revestem os infortúnios da vida. É que há nelas mais sensibilidade, sendo, portanto, mais provadas pelas contrariedades e desgostos do que as raças primitivas, cujo senso moral se acha mais embotado. [^6]
+
+15. A Terra, conseguintemente, oferece um dos tipos de mundos expiatórios, cuja variedade é infinita, mas revelando todos, como caráter comum, o servirem de lugar de exílio para Espíritos rebeldes à Lei de Deus. Esses Espíritos têm aí de lutar, ao mesmo tempo, com a perversidade dos homens e com a inclemência da Natureza, duplo e árduo trabalho que simultaneamente desenvolve as qualidades do coração e as da inteligência. É assim que Deus, em sua bondade, faz que o próprio castigo redunde em proveito do progresso do Espírito. – Santo Agostinho. (Paris, 1862.)
+
+##### `ESE-1-03-04-02` 📃 Mundos regeneradores {#ESE-1-03-04-02}
+
+16. Entre as estrelas que cintilam na abóbada azul do firmamento, quantos mundos não haverá como o vosso, destinados pelo Senhor à expiação e à provação! Mas também os há mais miseráveis e melhores, como os há de transição, que se podem denominar de regeneradores. Cada turbilhão planetário, a deslocar-se no Espaço em torno de um centro comum, arrasta consigo seus mundos primitivos, de exílio, de provas, de regeneração e de felicidade. Já se vos há falado de mundos onde a alma recém-nascida é colocada, quando ainda ignorante do bem e do mal, mas com a possibilidade de caminhar para Deus, senhora de si mesma, na posse do livre-arbítrio. Já também se vos revelou de que amplas faculdades é dotada a alma para praticar o bem. Mas, ah! há as que sucumbem, e Deus, que não as quer aniquiladas, lhes permite irem para esses mundos onde, de encarnação em encarnação, elas se depuram, regeneram e voltam dignas da glória que lhes fora destinada.
+
+17. Os mundos regeneradores servem de transição entre os mundos de expiação e os mundos felizes. A alma penitente encontra neles a calma e o repouso e acaba por depurar-se. Sem dúvida, em tais mundos o homem ainda se acha sujeito às leis que regem a matéria; a Humanidade experimenta as vossas sensações e desejos, mas liberta das paixões desordenadas de que sois escravos, isenta do orgulho que impõe silêncio ao coração, da inveja que a tortura, do ódio que a sufoca. Em todas as frontes, vê-se escrita a palavra amor; perfeita equidade preside às relações sociais, todos reconhecem Deus e tentam caminhar para Ele, cumprindo-lhe as leis.
+
+Nesses mundos, todavia, ainda não existe a felicidade perfeita, mas a aurora da felicidade. O homem lá é ainda de carne e, por isso, sujeito às vicissitudes de que libertos só se acham os seres completamente desmaterializados. Ainda tem de suportar provas, porém, sem as pungentes angústias da expiação. Comparados à Terra, esses mundos são bastante ditosos e muitos dentre vós se alegrariam de habitá-los, pois que eles representam a calma após a tempestade, a convalescença após a moléstia cruel. Contudo, menos absorvido pelas coisas materiais, o homem divisa, melhor do que vós, o futuro; compreende a existência de outros gozos prometidos pelo Senhor aos que deles se mostrem dignos, quando a morte lhes houver de novo ceifado os corpos, a fim de lhes outorgar a verdadeira vida. Então, liberta, a alma pairará acima de todos os horizontes. Não mais sentidos materiais e grosseiros; somente os sentidos de um perispírito puro e celeste, a aspirar as emanações do próprio Deus, nos aromas de amor e de caridade que do seu seio emanam.
+
+18. Mas, ah! nesses mundos, ainda falível é o homem e o espírito do mal não há perdido completamente o seu império. Não avançar é recuar, e, se o homem não se houver firmado bastante na senda do bem, pode recair nos mundos de expiação, onde, então, novas e mais terríveis provas o aguardam.
+
+Contemplai, pois, à noite, à hora do repouso e da prece, a abóbada azulada e, das inúmeras esferas que brilham sobre as vossas cabeças, indagai de vós mesmos quais as que conduzem a Deus e pedi-lhe que um mundo regenerador vos abra seu seio após a expiação na Terra. – Santo Agostinho. (Paris, 1862.)
+
+##### `ESE-1-03-04-03` 📃 Progressão dos mundos {#ESE-1-03-04-03}
+
+19. O progresso é Lei da Natureza. A essa lei todos os seres da Criação, animados e inanimados, foram submetidos pela bondade de Deus, que quer que tudo se engrandeça e prospere. A própria destruição, que aos homens parece o termo final de todas as coisas, é apenas um meio de se chegar, pela transformação, a um estado mais perfeito, visto que tudo morre para renascer e nada sofre o aniquilamento.
+
+Ao mesmo tempo que todos os seres vivos progridem moralmente, progridem materialmente os mundos em que eles habitam. Quem pudesse acompanhar um mundo em suas diferentes fases, desde o instante em que se aglomeraram os primeiros átomos destinados a constituí-lo, vê-lo-ia a percorrer uma escala incessantemente progressiva, mas de degraus imperceptíveis para cada geração, e a oferecer aos seus habitantes uma morada cada vez mais agradável, à medida que eles próprios avançam na senda do progresso. Marcham assim, paralelamente, o progresso do homem, o dos animais, seus auxiliares, o dos vegetais e o da habitação, porquanto nada em a Natureza permanece estacionário. Quão grandiosa é essa ideia e digna da majestade do Criador! Quanto, ao contrário, é mesquinha e indigna do seu poder a que concentra a sua solicitude e a sua providência no imperceptível grão de areia, que é a Terra, e restringe a Humanidade aos poucos homens que a habitam!
+
+Segundo aquela lei, este mundo esteve material e moralmente num estado inferior ao em que hoje se acha e se alçará sob esse duplo aspecto a um grau mais elevado. Ele há chegado a um dos seus períodos de transformação, em que, de orbe expiatório, mudar-se-á em planeta de regeneração, onde os homens serão ditosos, porque nele imperará a Lei de Deus. – Santo Agostinho. (Paris, 1862.)
+
+[^5]: 5 N.E.: Ver Nota Explicativa.
+
+[^6]: 6. N.E.: Ver Nota Explicativa.
+
+
+[🔼 voltar um nível](#ESE-1)
+
+---
+
 ### `ESE-1-04` 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#ESE-1-04}
 
 CONTENT
