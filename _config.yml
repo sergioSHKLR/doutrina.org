@@ -21,8 +21,8 @@ ui:
       color2: "#673051"
   masthead:
     color:
-      dark: "#fff"
-      light: "#fff"
+      dark: "#000"
+      light: "#000"
     align:
       homepage: 'left'
       page: 'left'
@@ -34,7 +34,7 @@ links:
       brand: true
       url: https://github.com/sergioSHKLR/doutrina.org
   homepage:
-    - title: View on GitHub
+    - title: Veja on GitHub
       icon: github
       brand: true
       url: https://github.com/sergioSHKLR/doutrina.org
