@@ -4,8 +4,6 @@ disable_anchors : true
 layout: page
 ---
 
-<script src="https://hypothes.is/embed.js" async></script>
-
 # `ESE` 🕊️ O Evangelho segundo o Espiritismo {#ESE}
 
 **DRAFT** 
