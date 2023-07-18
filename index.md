@@ -11,9 +11,9 @@ Este é o *repo* principal de [doutrina.org](https://github.com/sergioSHKLR/dout
 
 ## Direto ao ponto                       
 
-- <a href="./releases/LDE-2023-07-15.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
-- <a href="./releases/LDM-2023-07-15.html"><code>LDM</code> ✒️ O Livro dos Médiuns</a>
-- <a href="./drafts/ESE-draft.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo (EM DESENVOLVIMENTO)</a>
+- <a href="./LDE-2023-07-15.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
+- <a href="./LDM-2023-07-15.html"><code>LDM</code> ✒️ O Livro dos Médiuns</a>
+- <a href="./ESE-draft.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo (EM DESENVOLVIMENTO)</a>
 - <code>CEU</code> 🔥 O Céu e o Inferno (AGUARDANDO)
 - <code>GEN</code> 🌱 A Gênese (AGUARDANDO)
 
@@ -108,4 +108,7 @@ Deus abençoa, sempre!
        - I – a reprodução
 
        - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+
+---
+
 
