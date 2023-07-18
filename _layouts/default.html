@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
-    <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-</head>
-
-<body>
+  </head>
+  <body>
     <!--
     <div class="wrapper">
       <header>
@@ -43,13 +41,13 @@
         {% endif %}
       </header>
     -->
-    <section>
-        <div style="float: left; width: 50vw; overflow: hidden;">
-            {{ content }}
+      <section style="float: left; width: 50vw; overflow: scroll;">
 
-    </section>
-    </div>
-    <!--
+      {{ content }}
+
+      </section>
+
+      <!--
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -58,9 +56,7 @@
       </footer>
     -->
     </div>
-    <iframe src="https://pt.m.wikipedia.org" name="ext"
-        style="float: right; width: 45vw; height: 100%; position: absolute; top: 0; right: 0;"></iframe>
-    <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
-</body>
-
+    <iframe src="https://pt.m.wikipedia.org" name="ext" style="float: right; width: 45vw; height: 100%; position: absolute; top: 0; right: 0;"></iframe>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
 </html>
