@@ -1,4 +1,4 @@
-title: doutrina.org
+title: 💧 doutrina.org
 description: Uma iniciativa para digitalizar as cinco obras básicas da Ciência e Filosofia Espírita.
 
 remote_theme: allejo/jekyll-docs-theme@v1.0.0
@@ -33,11 +33,7 @@ links:
       icon: github
       brand: true
       url: https://github.com/sergioSHKLR/doutrina.org
-  homepage:
-    - title: Veja on GitHub
-      icon: github
-      brand: true
-      url: https://github.com/sergioSHKLR/doutrina.org
+
   footer:
     - title: GitHub
       icon: github
