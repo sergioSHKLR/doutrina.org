@@ -6,6 +6,19 @@
 <!-- You can set your favicon here -->
 <link rel="icon" href="./favicon.svg" type="image/svg+xml">
 
-<script src="https://hypothes.is/embed.js" async></script>
+<script src="https://hypothes.is/embed.js" async>
+window.hypothesisConfig = function () {
+  return {
+    branding: {
+      appBackgroundColor: 'white',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#eee',
+      selectionFontFamily: 'helvetica, arial, sans serif'
+      accentColor: 'red'
+    }
+  };
+};
+
+</script>
 
 <!-- end custom head snippets -->
