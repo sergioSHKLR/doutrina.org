@@ -21,8 +21,8 @@ ui:
       color2: "#673051"
   masthead:
     color:
-      dark: "#000"
-      light: "#000"
+      dark: "#fff"
+      light: "#fff"
     align:
       homepage: 'left'
       page: 'left'
