@@ -1,6 +1,6 @@
 ---
 title: 💧 doutrina.org
-homepage: false
+homepage: true
 disable_anchors : true
 ---
 
