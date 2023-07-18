@@ -16,7 +16,7 @@ layout: page
 
 ---
 
-## `ESE-X` 🗂️ Parte 0. Pré-textual {ESE-X}
+## `ESE-0` 🗂️ Parte 0. Pré-textual {ESE-0}
 
 - [`ESE-0-01` 📃 Folha de rosto](#ESE-0-01)
 - [`ESE-0-02` 📃 Prefácio](#ESE-0-02)
@@ -26,7 +26,7 @@ layout: page
 
 ---
 
-### `ESE-X-XX` 📃 Folha de rosto {ESE-X-XX}
+### `ESE-0-01` 📃 Folha de rosto {ESE-0-01}
 
 ---
 
@@ -48,7 +48,7 @@ layout: page
 
 ---
 
-### `ESE-X-XX` 📃 Prefácio {ESE-X-XX}
+### `ESE-0-02` 📃 Prefácio {ESE-0-02}
 
 >Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 ><br />
@@ -72,7 +72,7 @@ layout: page
 
 ---
 
-### `ESE-X-XX` 📑 Introdução {ESE-X-XX}
+### `ESE-0-03` 📑 Introdução {ESE-0-03}
 
 - [`ESE-0-01` 📃 1. Objetivo desta obra](#ESE-0-03-01)
 - [`ESE-0-02` 📃 2. Autoridade da doutrina espírita](#ESE-0-03-02)
@@ -336,7 +336,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-## `ESE-X` 🗂️ Parte 1. Miolo {ESE-X}
+## `ESE-1` 🗂️ Parte 1. Miolo {ESE-1}
 
 - [`ESE-1-01` 📑 01. Não vim destruir a lei](#ESE-1-01)
 - [`ESE-1-02` 📑 02. Meu Reino não é deste mundo](#ESE-1-02)
@@ -371,7 +371,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-### `ESE-X-XX` 📑 01. Não vim destruir a lei {ESE-X-XX}
+### `ESE-1-01` 📑 01. Não vim destruir a lei {ESE-1-01}
 
 - [`ESE-1-01-01` 📃 Moisés](#ESE-1-01-01)
 - [`ESE-1-01-02` 📃 O Cristo](#ESE-1-01-02)
@@ -488,190 +488,189 @@ Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do
 [🔼 voltar um nível](#ESE-1)
 
 ---
-
-### `ESE-X-XX` 📑 02. Meu Reino não é deste mundo {ESE-X-XX}
-
-CONTENT
-
-[🔼 voltar um nível](#ESE-1)
-
----
-### `ESE-X-XX` 📑 03. Há muitas moradas na casa de meu Pai {ESE-X-XX}
+### `ESE-1-02` 📑 02. Meu Reino não é deste mundo {ESE-1-02}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {ESE-X-XX}
+### `ESE-1-03` 📑 03. Há muitas moradas na casa de meu Pai {ESE-1-03}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 05. Bem aventurados os aflitos {ESE-X-XX}
+### `ESE-1-04` 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {ESE-1-04}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 06. O Cristo Consolador {ESE-X-XX}
+### `ESE-1-05` 📑 05. Bem aventurados os aflitos {ESE-1-05}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 07. Bem-aventurados os pobres de espírito {ESE-X-XX}
+### `ESE-1-06` 📑 06. O Cristo Consolador {ESE-1-06}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 08. Bem-aventurados os que tem puro o coração {ESE-X-XX}
+### `ESE-1-07` 📑 07. Bem-aventurados os pobres de espírito {ESE-1-07}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 09. Bem-aventurados os que são brandos e pacíficos {ESE-X-XX}
+### `ESE-1-08` 📑 08. Bem-aventurados os que tem puro o coração {ESE-1-08}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 10. Bem-aventurdaos os que são misericordiosos {ESE-X-XX}
+### `ESE-1-09` 📑 09. Bem-aventurados os que são brandos e pacíficos {ESE-1-09}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 11. Amar o próximo como a si mesmo {ESE-X-XX}
+### `ESE-1-10` 📑 10. Bem-aventurdaos os que são misericordiosos {ESE-1-10}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 12. Amai os vossos inimigos {ESE-X-XX}
+### `ESE-1-11` 📑 11. Amar o próximo como a si mesmo {ESE-1-11}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {ESE-X-XX}
+### `ESE-1-12` 📑 12. Amai os vossos inimigos {ESE-1-12}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 14. Honrai o vosso pai e a vossa mãe {ESE-X-XX}
+### `ESE-1-13` 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {ESE-1-13}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 15. Fora da caridade não há salvação {ESE-X-XX}
+### `ESE-1-14` 📑 14. Honrai o vosso pai e a vossa mãe {ESE-1-14}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 16. Não se pode servir a Deus e a Mamon {ESE-X-XX}
+### `ESE-1-15` 📑 15. Fora da caridade não há salvação {ESE-1-15}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 17. Sede perfeitos {ESE-X-XX}
+### `ESE-1-16` 📑 16. Não se pode servir a Deus e a Mamon {ESE-1-16}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 18. Muitos os chamados, poucos os escolhidos {ESE-X-XX}
+### `ESE-1-17` 📑 17. Sede perfeitos {ESE-1-17}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 19. A fé transporta montanhas {ESE-X-XX}
+### `ESE-1-18` 📑 18. Muitos os chamados, poucos os escolhidos {ESE-1-18}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 20. Os trabalhadores da última hora {ESE-X-XX}
+### `ESE-1-19` 📑 19. A fé transporta montanhas {ESE-1-19}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 21. Haverá falsos cristos e falsos profetas {ESE-X-XX}
+### `ESE-1-20` 📑 20. Os trabalhadores da última hora {ESE-1-20}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 22. Não separeis o que Deus juntou {ESE-X-XX}
+### `ESE-1-21` 📑 21. Haverá falsos cristos e falsos profetas {ESE-1-21}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 23. Estranha moral {ESE-X-XX}
+### `ESE-1-22` 📑 22. Não separeis o que Deus juntou {ESE-1-22}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 24. Não ponhais a candeia debaixo do alqueire {ESE-X-XX}
+### `ESE-1-23` 📑 23. Estranha moral {ESE-1-23}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 25. Buscai e achareis {ESE-X-XX}
+### `ESE-1-24` 📑 24. Não ponhais a candeia debaixo do alqueire {ESE-1-24}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 26. Dai gratuitamente o que gratuitamente recebestes {ESE-X-XX}
+### `ESE-1-25` 📑 25. Buscai e achareis {ESE-1-25}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 27. Pedi e obtereis {ESE-X-XX}
+### `ESE-1-26` 📑 26. Dai gratuitamente o que gratuitamente recebestes {ESE-1-26}
 
 CONTENT
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
-### `ESE-X-XX` 📑 28. Coletânea de preces espíritas {ESE-X-XX}
+### `ESE-1-27` 📑 27. Pedi e obtereis {ESE-1-27}
+
+CONTENT
+
+[🔼 voltar um nível](#ESE-1)
+
+---
+### `ESE-1-28` 📑 28. Coletânea de preces espíritas {ESE-1-28}
 
 CONTENT
 
@@ -679,7 +678,7 @@ CONTENT
 
 ---
 
-## `ESE-X` 🗂️ Parte 2. Pós-textual {ESE-X}
+## `ESE-2` 🗂️ Parte 2. Pós-textual {ESE-2}
 
 - [`ESE-2-01` 📃 Nota explicativa](#ESE-2-01)
 
