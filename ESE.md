@@ -927,121 +927,121 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 ---
 
-#### ESE-1-05-01` 📃 Justiça das aflições (#ESE-1-05-01)
+#### ESE-1-05-01` 📃 Justiça das aflições {#ESE-1-05-01}
 
 CONTENT
 
 ---
 
-#### ESE-1-05-02` 📃 Causas atuais das aflições (#ESE-1-05-02)
+#### ESE-1-05-02` 📃 Causas atuais das aflições {#ESE-1-05-02}
 
 CONTENT
 
 ---
 
-#### ESE-1-05-03` 📃 Causas anteriores das aflições (#ESE-1-05-03)
+#### ESE-1-05-03` 📃 Causas anteriores das aflições {#ESE-1-05-03}
 
 CONTENT
 
 ---
 
-#### ESE-1-05-04` 📃 Esquecimento do passado (#ESE-1-05-04)
+#### ESE-1-05-04` 📃 Esquecimento do passado {#ESE-1-05-04}
 
 CONTENT
 
 ---
 
-#### ESE-1-05-05` 📃 Motivos de resignação (#ESE-1-05-05)
+#### ESE-1-05-05` 📃 Motivos de resignação {#ESE-1-05-05}
 
 CONTENT
 
 ---
 
-#### ESE-1-05-06` 📃 O suicídio e a loucura (#ESE-1-05-06)
+#### ESE-1-05-06` 📃 O suicídio e a loucura {#ESE-1-05-06}
 
 CONTENT
 
 ---
 
-#### ESE-1-05-07` 📃 Instruções dos Espíritos (#ESE-1-05-07)
+#### ESE-1-05-07` 📃 Instruções dos Espíritos {#ESE-1-05-07}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-01` 📃 Bem e mal sofrer (#ESE-1-05-07-01)
+##### ESE-1-05-07-01` 📃 Bem e mal sofrer {#ESE-1-05-07-01}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-02` 📃 O mal e o remédio (#ESE-1-05-07-02)
+##### ESE-1-05-07-02` 📃 O mal e o remédio {#ESE-1-05-07-02}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-03` 📃 A felicidade não é deste mundo (#ESE-1-05-07-03)
+##### ESE-1-05-07-03` 📃 A felicidade não é deste mundo {#ESE-1-05-07-03}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-04` 📃 Perda de pessoas amadas. Mortes prematuras (#ESE-1-05-07-04)
+##### ESE-1-05-07-04` 📃 Perda de pessoas amadas. Mortes prematuras {#ESE-1-05-07-04}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-05` 📃 Se fosse um homem de bem, teria morrido (#ESE-1-05-07-05)
+##### ESE-1-05-07-05` 📃 Se fosse um homem de bem, teria morrido {#ESE-1-05-07-05}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-06` 📃 Os tormentos voluntários (#ESE-1-05-07-06)
+##### ESE-1-05-07-06` 📃 Os tormentos voluntários {#ESE-1-05-07-06}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-07` 📃 A desgraça real (#ESE-1-05-07-07)
+##### ESE-1-05-07-07` 📃 A desgraça real {#ESE-1-05-07-07}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-08` 📃 A melancolia (#ESE-1-05-07-08)
+##### ESE-1-05-07-08` 📃 A melancolia {#ESE-1-05-07-08}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-09` 📃 Provas voluntárias. O verdadeiro cilício (#ESE-1-05-07-09)
+##### ESE-1-05-07-09` 📃 Provas voluntárias. O verdadeiro cilício {#ESE-1-05-07-09}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-10` 📃 Dever-se-á pôr termo às provas do próximo? (#ESE-1-05-07-10)
+##### ESE-1-05-07-10` 📃 Dever-se-á pôr termo às provas do próximo? {#ESE-1-05-07-10}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-11` 📃 Será lícito abreviar a vida de um doente que sofra sem esperança de cura? (#ESE-1-05-07-11)
+##### ESE-1-05-07-11` 📃 Será lícito abreviar a vida de um doente que sofra sem esperança de cura? {#ESE-1-05-07-11}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-12` 📃 Sacrifício da própria vida (#ESE-1-05-07-12)
+##### ESE-1-05-07-12` 📃 Sacrifício da própria vida {#ESE-1-05-07-12}
 
 CONTENT
 
 ---
 
-##### ESE-1-05-07-13` 📃 Proveito dos sofrimentos para outrem (#ESE-1-05-07-13)
+##### ESE-1-05-07-13` 📃 Proveito dos sofrimentos para outrem {#ESE-1-05-07-13}
 
 CONTENT
 
