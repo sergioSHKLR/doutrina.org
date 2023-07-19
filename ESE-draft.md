@@ -288,19 +288,19 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 {:start="11"}
 11. >De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
 
-    Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
+     Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
 
-    Houvessem Sócrates e Platão conhecido os ensinos que o Cristo difundiu quinhentos anos mais tarde e os que agora o Espiritismo espalha, e não teriam falado de outro modo. Não há nisso, entretanto, o que surpreenda, se considerarmos que as grandes verdades são eternas e que os Espíritos adiantados hão de tê-las conhecido antes de virem à Terra, para onde as trouxeram; que Sócrates, Platão e os grandes filósofos daqueles tempos bem podem, depois, ter sido dos que secundaram o Cristo na sua missão divina, escolhidos para esse fim precisamente por se acharem, mais do que outros, em condições de lhe compreenderem as sublimes lições; que, finalmente, pode dar-se façam eles agora parte da plêiade dos Espíritos encarregados de ensinar aos homens as mesmas verdades.
+     Houvessem Sócrates e Platão conhecido os ensinos que o Cristo difundiu quinhentos anos mais tarde e os que agora o Espiritismo espalha, e não teriam falado de outro modo. Não há nisso, entretanto, o que surpreenda, se considerarmos que as grandes verdades são eternas e que os Espíritos adiantados hão de tê-las conhecido antes de virem à Terra, para onde as trouxeram; que Sócrates, Platão e os grandes filósofos daqueles tempos bem podem, depois, ter sido dos que secundaram o Cristo na sua missão divina, escolhidos para esse fim precisamente por se acharem, mais do que outros, em condições de lhe compreenderem as sublimes lições; que, finalmente, pode dar-se façam eles agora parte da plêiade dos Espíritos encarregados de ensinar aos homens as mesmas verdades.
 
 {:start="12"}
 12. >Nunca se deve retribuir com outra uma injustiça, nem fazer mal a ninguém, seja qual for o dano que nos hajam causado. Poucos, no entanto, serão os que admitam esse princípio, e os que se desentenderem a tal respeito nada mais farão, sem dúvida, do que se votarem uns aos outros mútuo desprezo.
 
-    Não está aí o princípio de caridade, que prescreve não se retribua o mal com o mal e se perdoe aos inimigos?
+     Não está aí o princípio de caridade, que prescreve não se retribua o mal com o mal e se perdoe aos inimigos?
 
 {:start="13"}
 13. >É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
 
-    Esta máxima: “Pelos frutos é que se conhece a árvore”, se encontra muitas vezes repetida textualmente no Evangelho.
+     Esta máxima: “Pelos frutos é que se conhece a árvore”, se encontra muitas vezes repetida textualmente no Evangelho.
 
 {:start="14"}
 14. >A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (ESE? Cap. 16)
@@ -311,12 +311,12 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 {:start="16"}
 16. >Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
 
-    O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que: O amor não é nem um deus, nem um mortal, mas um grande demônio, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
+     O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que: O amor não é nem um deus, nem um mortal, mas um grande demônio, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
 
 {:start="17"}
 17. >A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
 
-    É quase a doutrina cristã sobre a graça; mas se a virtude é um dom de Deus, é um favor e, então, pode perguntar-se por que não é concedida a todos. Por outro lado, se é um dom, carece de mérito para aquele que a possui. O Espiritismo é mais explícito, dizendo que aquele que possui a virtude a adquiriu por seus esforços, em existências sucessivas, despojando-se pouco a pouco de suas imperfeições. A graça é a força que Deus faculta ao homem de boa vontade para se expungir do mal e praticar o bem.
+     É quase a doutrina cristã sobre a graça; mas se a virtude é um dom de Deus, é um favor e, então, pode perguntar-se por que não é concedida a todos. Por outro lado, se é um dom, carece de mérito para aquele que a possui. O Espiritismo é mais explícito, dizendo que aquele que possui a virtude a adquiriu por seus esforços, em existências sucessivas, despojando-se pouco a pouco de suas imperfeições. A graça é a força que Deus faculta ao homem de boa vontade para se expungir do mal e praticar o bem.
 
 {:start="18"}
 18. >É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
@@ -331,23 +331,23 @@ Diz o Evangelho:
 {:start="19"}
 19. >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
 
-    O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
+     O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
 
 {:start="20"}
 20. >Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.
 
-    Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (ESE 2, 3 e 4).
+     Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (ESE 2, 3 e 4).
 
 {:start="21"}
 21. >Ajuizado serás, não supondo que sabes o que ignoras.
 
-    Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: 
+     Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: 
 
-    - Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
+     - Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
 
-    É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
+     É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
-    Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
+     Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
 [🔼 voltar um nível](#ESE-0-03)
 
