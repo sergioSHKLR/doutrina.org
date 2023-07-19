@@ -2104,7 +2104,7 @@ O homem é, portanto, formado de três partes essenciais:
 ##### `LDE-q137`
 #️⃣ 137. Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
->Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ( ✒️ [`LDM-2-07`](https://github.com/sergioSHKLR/LDM/blob/main/releases/LDM-v2023-07-10.md#LDM-2-07))
+>Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ( ✒️ [`LDM-2-07`](https://sergioSHKLR.github.io/doutrina.org/LDM.html#LDM-2-07))
 
 ---
 
