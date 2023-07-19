@@ -321,12 +321,12 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 {:start="18"}
 18. >É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
 
-Diz o Evangelho: 
+     Diz o Evangelho: 
 
-    >Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
-    >
-    >✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
-    >LIVRO? Cap. 10, itens 9 e 10
+     >Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
+     >
+     >✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
+     >LIVRO? Cap. 10, itens 9 e 10
 
 {:start="19"}
 19. >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
