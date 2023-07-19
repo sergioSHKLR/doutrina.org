@@ -406,6 +406,7 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 #### `ESE-1-01-01` 📃 Moisés {#ESE-1-01-01}
 
+{:start="2"}
 2. Na lei moisaica, há duas partes distintas: a Lei de Deus, promulgada no monte Sinai, e a lei civil ou disciplinar, decretada por Moisés. Uma é invariável; a outra, apropriada aos costumes e ao caráter do povo, se modifica com o tempo.
 
    A Lei de Deus está formulada nos dez mandamentos seguintes:
