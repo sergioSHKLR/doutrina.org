@@ -80,7 +80,7 @@ layout: default
 
 ---
 
-#### 📃 1. Objetivo desta obra
+#### 📃 1. Objetivo desta obra {#ESE-0-03-01}
 
 Podem dividir-se em cinco partes as matérias contidas nos Evangelhos: os atos comuns da vida do Cristo; os milagres; as predições; as palavras que foram tomadas pela Igreja para fundamento de seus dogmas; e o ensino moral. As quatro primeiras têm sido objeto de controvérsias; a última, porém, conservou-se constantemente inatacável. Diante desse código divino, a própria incredulidade se curva. É terreno onde todos os cultos podem reunir-se, estandarte sob o qual podem todos colocar-se, quaisquer que sejam suas crenças, porquanto jamais ele constituiu matéria das disputas religiosas, que sempre e por toda a parte se originaram das questões dogmáticas. Aliás, se o discutissem, nele teriam as seitas encontrado sua própria condenação, visto que, na maioria, elas se agarram mais à parte mística do que à parte moral, que exige de cada um a reforma de si mesmo. Para os homens, em particular, constitui aquele código uma regra de proceder que abrange todas as circunstâncias da vida privada e da vida pública, o princípio básico de todas as relações sociais que se fundam na mais rigorosa justiça. É, finalmente e acima de tudo, o roteiro infalível para a felicidade vindoura, o levantamento de uma ponta do véu que nos oculta a vida futura. Essa parte é a que será objeto exclusivo desta obra.
 
@@ -106,7 +106,7 @@ Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar co
 
 ---
 
-#### 📃 2. Autoridade da doutrina espírita
+#### 📃 2. Autoridade da doutrina espírita {#ESE-0-03-02}
 
 **Controle universal do ensino dos Espíritos**
 
@@ -168,7 +168,7 @@ Já se desenha o harmonioso conjunto. Este século não passará sem que ele res
 
 ---
 
-#### 📃 3. Notícias históricas
+#### 📃 3. Notícias históricas {#ESE-0-03-03}
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
 
@@ -220,7 +220,7 @@ Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz c
 
 ---
 
-#### 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo
+#### 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo {#ESE-0-03-04}
 
 Do fato de haver Jesus conhecido a seita dos essênios, fora errôneo concluir-se que a sua doutrina hauriu-a ele dessa seita e que, se houvera vivido noutro meio, teria professado outros princípios. As grandes ideias jamais irrompem de súbito. As que assentam sobre a verdade sempre têm precursores que lhes preparam parcialmente os caminhos. Depois, chegando o tempo, envia Deus um homem com a missão de resumir, coordenar e completar os elementos esparsos, de reuni-los em corpo de doutrina. Desse modo, não surgindo bruscamente, a ideia, ao aparecer, encontra espíritos dispostos a aceitá-la. Tal o que se deu com a ideia cristã, que foi pressentida muitos séculos antes de Jesus e dos essênios, tendo por principais precursores Sócrates e Platão.
 
