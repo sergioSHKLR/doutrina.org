@@ -9,8 +9,6 @@ layout: default
 
 # `LDE` 👻 O Livro dos Espíritos {#LDE}
 
-versão 2023-07-15
-
 **Sumário**
 
 - [`LDE-0` 🗂️ Parte 0. Pré-textual](#LDE-0)

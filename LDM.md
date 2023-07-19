@@ -9,8 +9,6 @@ layout: default
 
 # `LDM` ✒️ O Livro dos Médiuns {#LDM}
 
-versão 2023-07-15
-
 **Sumário**
 
 - [`LDM-0` 🗂️ Parte 0. Pré-textual](#LDM-0)
