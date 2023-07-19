@@ -343,7 +343,7 @@ Diz o Evangelho:
 
     Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: 
 
-- Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
+    - Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
 
     É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
