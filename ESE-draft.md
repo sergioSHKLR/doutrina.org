@@ -100,8 +100,6 @@ Como complemento de cada preceito, acrescentamos algumas instruções escolhidas
 
 Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu** que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
 
-[^1]: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
-
 [🔼 voltar um nível](#ESE-0-03)
 
 ---
@@ -211,10 +209,6 @@ Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz c
   Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de rígidas práticas exteriores e de virtudes apenas aparentes, nunca os essênios tomaram parte nas querelas que tornaram antagonistas aquelas duas outras seitas. Pelo gênero de vida que levavam, assemelhavam-se muito aos primeiros cristãos, e os princípios da moral que professavam induziram muitas pessoas a supor que Jesus, antes de dar começo à sua missão pública, lhes pertencera à comunidade. É certo que ele há de tê-la conhecido, mas nada prova que se lhe houvesse filiado, sendo, pois, hipotético tudo quanto a esse respeito se escreveu. [^3]
 
 - **Terapeutas** (do grego *therapeutai*, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
-
-[^2]: N.E. de 1947: Não confundir esse Hillel que fundou a seita dos fariseus com o seu homônimo que viveu duzentos anos mais tarde e estabeleceu os princípios religiosos e sociais de um sistema todo de tolerância e amor, sistema hoje conhecido por Hilelismo.
-
-[^3]: A.K.: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
 
 [🔼 voltar um nível](#ESE-0-03)
 
@@ -395,6 +389,8 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 - [`ESE-1-01-03` 📃 Espiritismo](#ESE-1-01-03)
 - [`ESE-1-01-04` 📃 Aliança da Ciência e da Religião](#ESE-1-01-04)
 - [`ESE-1-01-05` 📃 Instruções dos Espíritos](#ESE-1-01-05)
+   - [`ESE-1-01-05-01` 📃 A nova era](#ESE-1-01-05-01)
+
 
 [🔼 voltar um nível](#ESE-1)
 
@@ -440,7 +436,11 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 {:start="3"}
 3. Jesus não veio destruir a lei, isto é, a Lei de Deus; veio cumpri-la, isto é, desenvolvê-la, dar-lhe o verdadeiro sentido e adaptá-la ao grau de adiantamento dos homens. Por isso é que se nos depara, nessa lei, o princípio dos deveres para com Deus e para com o próximo, base da sua doutrina. Quanto às leis de Moisés, propriamente ditas, Ele, ao contrário, as modificou profundamente, quer na substância, quer na forma. Combatendo constantemente o abuso das práticas exteriores e as falsas interpretações, por mais radical reforma não podia fazê-las passar, do que as reduzindo a esta única prescrição: “Amar a Deus acima de todas as coisas e o próximo como a si mesmo”, e acrescentando: aí estão a lei toda e os profetas.
 
-   Por estas palavras: “O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota”, quis dizer Jesus ser necessário que a Lei de Deus tivesse cumprimento integral, isto é, fosse praticada na Terra inteira, em toda a sua pureza, com todas as suas ampliações e consequências. Efetivamente, de que serviria haver sido promulgada aquela lei, se ela devesse constituir privilégio de alguns homens, ou, ao menos, de um único povo? Sendo filhos de Deus todos os homens, todos, sem distinção nenhuma, são objeto da mesma solicitude.
+   Por estas palavras: 
+   
+   “O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota”
+   
+   , quis dizer Jesus ser necessário que a Lei de Deus tivesse cumprimento integral, isto é, fosse praticada na Terra inteira, em toda a sua pureza, com todas as suas ampliações e consequências. Efetivamente, de que serviria haver sido promulgada aquela lei, se ela devesse constituir privilégio de alguns homens, ou, ao menos, de um único povo? Sendo filhos de Deus todos os homens, todos, sem distinção nenhuma, são objeto da mesma solicitude.
 
 {:start="4"}
 4. O papel de Jesus não foi o de um simples legislador moralista, tendo por exclusiva autoridade a sua palavra. Cabia-lhe dar cumprimento às profecias que lhe anunciaram o advento; a autoridade lhe vinha da natureza excepcional do seu Espírito e da sua missão divina. Ele viera ensinar aos homens que a verdadeira vida não é a que transcorre na Terra, e sim a que é vivida no Reino dos Céus; viera ensinar-lhes o caminho que a esse reino conduz, os meios de eles se reconciliarem com Deus e de pressentirem esses meios na marcha das coisas por vir, para a realização dos destinos humanos. Entretanto, não disse tudo, limitando-se, respeito a muitos pontos, a lançar o gérmen de verdades que, segundo Ele próprio o declarou, ainda não podiam ser compreendidas. Falou de tudo, mas em termos mais ou menos implícitos. Para ser apreendido o sentido oculto de algumas palavras suas, mister se fazia que novas ideias e novos conhecimentos lhes trouxessem a chave indispensável, ideias que, porém, não podiam surgir antes que o espírito humano houvesse alcançado um certo grau de madureza. A Ciência tinha de contribuir poderosamente para a eclosão e o desenvolvimento de tais ideias. Importava, pois, dar à Ciência tempo para progredir.
@@ -490,18 +490,7 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 {:start="11"}
 11. Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam. – Erasto, discípulo de Paulo. (Paris, 1863.)
 
-📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
-
----
-
-[^4]: N.E. de 1947: Allan Kardec cita a parte mais importante do primeiro mandamento, e deixa de transcrever as seguintes frases: “...porque eu, o Senhor vosso Deus, sou Deus zeloso, que puno a iniquidade dos pais nos filhos, na terceira e na quarta gerações daqueles que me aborrecem, e uso de misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.” (Êxodo, 20:5 e 6.) 
-Nas traduções feitas pelas Igrejas católica e protestante, essa parte do mandamento foi truncada para harmonizá-la com a doutrina da encarnação única da alma. Onde está “na terceira e na quarta gerações”, conforme a tradução Brasileira da Bíblia, a Vulgata Latina (in tertiam et quartam generationem), a tradução de Zamenhof (en la tria kaj kvara generacioj), mudaram o texto para “até a terceira e quarta gerações”.
-Esses textos truncados que aparecem na tradução da Igreja Anglicana, na Católica de Figueiredo, na Protestante de Almeida e outras, tornam monstruosa a Justiça divina, pois que filhos, netos, bisnetos, tetranetos inocentes teriam de ser castigados pelo pecado dos pais, avós, bisavós, tetravós. Foi uma infeliz tentativa de acomodação da Lei à vida única.
-O texto certo que, por mercê de Deus, já está reproduzido pelas edições recentíssimas a que nos referimos — traduções Brasileira e de Zamenhof —, que conferem com São Jerônimo, mostra que a Lei ensina veladamente a reencarnação e as expiações e provas. Na primeira e na segunda gerações, como contemporâneos de seus filhos e netos, o Espírito culpado ainda não reencarnou, mas um pouco mais tarde — na terceira e quarta gerações — já ele voltou e recebe as consequências de suas faltas. Assim, o culpado mesmo, e não outrem, paga sua dívida.
-Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , como realmente é o original.
-Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
-
----
+    📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
 [🔼 voltar um nível](#ESE-1)
 
@@ -690,11 +679,6 @@ Entre os degraus inferiores e os mais elevados, inúmeros outros há, e difícil
 
     Segundo aquela lei, este mundo esteve material e moralmente num estado inferior ao em que hoje se acha e se alçará sob esse duplo aspecto a um grau mais elevado. Ele há chegado a um dos seus períodos de transformação, em que, de orbe expiatório, mudar-se-á em planeta de regeneração, onde os homens serão ditosos, porque nele imperará a Lei de Deus. – Santo Agostinho. (Paris, 1862.)
 
-[^5]: 5 N.E.: Ver Nota Explicativa.
-
-[^6]: 6. N.E.: Ver Nota Explicativa.
-
-
 [🔼 voltar um nível](#ESE-1)
 
 ---
@@ -834,8 +818,6 @@ E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesu
 17. A essa autoridade, do ponto de vista religioso, se adita, do ponto de vista filosófico, a das provas que resultam da observação dos fatos. Quando se trata de remontar dos efeitos às causas, a reencarnação surge como de necessidade absoluta, como condição inerente à Humanidade; numa palavra: como Lei da Natureza. Pelos seus resultados, ela se evidencia, de modo, por assim dizer, material, da mesma forma que o motor oculto se revela pelo movimento. Só ela pode dizer ao homem donde ele vem, para onde vai, por que está na Terra, e justificar todas as anomalias e todas as aparentes injustiças que a vida apresenta. [^8]
 
     Sem o princípio da preexistência da alma e da pluralidade das existências, são ininteligíveis, em sua maioria, as máximas do Evangelho, razão por que hão dado lugar a tão contraditórias interpretações. Está nesse princípio a chave que lhes restituirá o sentido verdadeiro.
-
-[^7]: 7 A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: *...genitus ex aqua et Spiritu...* *...et quod genitum est ex Spiritu, spiritus est*. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
 
 ---
 
@@ -1075,3 +1057,26 @@ CONTENT
 
 [🔼 voltar um nível](#ESE)
 
+
+
+---
+
+
+[^1]: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
+
+[^2]: N.E. de 1947: Não confundir esse Hillel que fundou a seita dos fariseus com o seu homônimo que viveu duzentos anos mais tarde e estabeleceu os princípios religiosos e sociais de um sistema todo de tolerância e amor, sistema hoje conhecido por Hilelismo.
+
+[^3]: A.K.: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
+
+[^4]: N.E. de 1947: Allan Kardec cita a parte mais importante do primeiro mandamento, e deixa de transcrever as seguintes frases: “...porque eu, o Senhor vosso Deus, sou Deus zeloso, que puno a iniquidade dos pais nos filhos, na terceira e na quarta gerações daqueles que me aborrecem, e uso de misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.” (Êxodo, 20:5 e 6.) 
+Nas traduções feitas pelas Igrejas católica e protestante, essa parte do mandamento foi truncada para harmonizá-la com a doutrina da encarnação única da alma. Onde está “na terceira e na quarta gerações”, conforme a tradução Brasileira da Bíblia, a Vulgata Latina (in tertiam et quartam generationem), a tradução de Zamenhof (en la tria kaj kvara generacioj), mudaram o texto para “até a terceira e quarta gerações”.
+Esses textos truncados que aparecem na tradução da Igreja Anglicana, na Católica de Figueiredo, na Protestante de Almeida e outras, tornam monstruosa a Justiça divina, pois que filhos, netos, bisnetos, tetranetos inocentes teriam de ser castigados pelo pecado dos pais, avós, bisavós, tetravós. Foi uma infeliz tentativa de acomodação da Lei à vida única.
+O texto certo que, por mercê de Deus, já está reproduzido pelas edições recentíssimas a que nos referimos — traduções Brasileira e de Zamenhof —, que conferem com São Jerônimo, mostra que a Lei ensina veladamente a reencarnação e as expiações e provas. Na primeira e na segunda gerações, como contemporâneos de seus filhos e netos, o Espírito culpado ainda não reencarnou, mas um pouco mais tarde — na terceira e quarta gerações — já ele voltou e recebe as consequências de suas faltas. Assim, o culpado mesmo, e não outrem, paga sua dívida.
+Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , como realmente é o original.
+Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
+
+[^5]: 5 N.E.: Ver Nota Explicativa.
+
+[^6]: 6. N.E.: Ver Nota Explicativa.
+
+[^7]: 7 A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: *...genitus ex aqua et Spiritu...* *...et quod genitum est ex Spiritu, spiritus est*. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
