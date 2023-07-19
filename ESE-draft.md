@@ -769,7 +769,7 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 {:start="11"}
 11. Se o princípio da reencarnação, conforme se acha expresso em João, podia, a rigor, ser interpretado em sentido puramente místico, o mesmo já não acontece com esta passagem de Mateus, que não permite equívoco: ele mesmo é o Elias que há de vir. Não há aí figura, nem alegoria: é uma afirmação positiva. — Desde o tempo de João Batista até o presente o Reino dos Céus é tomado pela violência. Que significam essas palavras, uma vez que João Batista ainda vivia naquele momento? Jesus as explica, dizendo: Se quiserdes compreender o que digo, ele mesmo é o Elias que há de vir. Ora, sendo João o próprio Elias, Jesus alude à época em que João vivia com o nome de Elias. Até o presente o Reino dos Céus é tomado pela violência: outra alusão à violência da lei moisaica, que ordenava o extermínio dos infiéis, para que os demais ganhassem a Terra Prometida, Paraíso dos Hebreus, ao passo que, segundo a nova lei, o céu se ganha pela caridade e pela brandura.
 
-   E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesus tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
+    E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesus tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
 
 {:start="12"}
 12. >Aqueles do vosso povo a quem a morte foi dada viverão de novo; aqueles que estavam mortos em meio a mim ressuscitarão. Despertai do vosso sono e entoai louvores a Deus, vós que habitais no pó; porque o orvalho que cai sobre vós é um orvalho de luz e porque arruinareis a Terra e o reino dos gigantes. 
