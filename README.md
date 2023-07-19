@@ -21,7 +21,7 @@ Suas principais características/requisitos são:
 - [x] Instalável como PWA
 - [x] Utilizar links de navegação otimizados para mobile 
 
-<!-- Um protótipo fica em https://sergioshklr.github.io/doutrina.org/ e também em https://doutrina.org -->
+<!-- Um protótipo fica em https://doutrina.org/ e também em https://doutrina.org -->
 
 Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
 
@@ -64,7 +64,7 @@ Its main features/requirements are:
 - [x] Installable as PWA
 - [x] Display mobile-friendly breadcrumbs 
 
-<!-- A prototype sits at https://sergioshklr.github.io/doutrina.org/ and also at https://doutrina.org -->
+<!-- A prototype sits at https://doutrina.org/ and also at https://doutrina.org -->
 
 Use [ CTRL ] + [ SHIFT ] + [ I ] para mudar seu viewport.
 

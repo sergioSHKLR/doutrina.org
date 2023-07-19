@@ -9,7 +9,7 @@ homepage: true
 
 ## Bem vindo!
 
-Este é o *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
+Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https://github.com/sergioSHKLR/doutrina.org) e todo seu código é accessível.
 
 ## Direto ao ponto                       
 
