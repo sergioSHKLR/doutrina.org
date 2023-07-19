@@ -54,20 +54,14 @@ layout: default
 ### `ESE-0-02` 📃 Prefácio {#ESE-0-02}
 
 >Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
-><br />
-><br />
+>
 >Eu vos digo, em verdade, que são chegados os tempos em que todas as coisas hão de ser restabelecidas no seu verdadeiro sentido, para dissipar as trevas, confundir os orgulhosos e glorificar os justos.
-><br />
-><br />
+>
 >As grandes vozes do Céu ressoam como sons de trombetas, e os cânticos dos anjos se lhes associam. Nós vos convidamos, a vós homens, para o divino concerto. Tomai da lira, fazei uníssonas vossas vozes, e que, num hino sagrado, elas se estendam e repercutam de um extremo a outro do Universo.
-><br />
-><br />
+>
 >Homens, irmãos a quem amamos, aqui estamos junto de vós. Amai-vos, também, uns aos outros e dizei do fundo do coração, fazendo as vontades do Pai, que está no Céu: Senhor! Senhor!... e podereis entrar no Reino dos Céus.
-><br />
-><br />
+>
 >**O Espírito da Verdade**
-
-<br />
 
 📝 **Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
@@ -392,6 +386,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### `ESE-1-01-01` 📃 Moisés {#ESE-1-01-01}
 
+{:start="2"}
 2. Na lei moisaica, há duas partes distintas: a Lei de Deus, promulgada no monte Sinai, e a lei civil ou disciplinar, decretada por Moisés. Uma é invariável; a outra, apropriada aos costumes e ao caráter do povo, se modifica com o tempo.
 
    A Lei de Deus está formulada nos dez mandamentos seguintes:
