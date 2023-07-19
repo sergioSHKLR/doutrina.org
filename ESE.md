@@ -965,10 +965,6 @@ CONTENT
 
 #### ESE-1-05-07` 📃 Instruções dos Espíritos {#ESE-1-05-07}
 
-CONTENT
-
----
-
 ##### ESE-1-05-07-01` 📃 Bem e mal sofrer {#ESE-1-05-07-01}
 
 CONTENT
