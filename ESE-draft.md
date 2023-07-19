@@ -281,9 +281,9 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
     Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 
 
-| Se alguém vos bater numa face, apresentai-lhe a outra. |
-| --- |
-| ✝️ LIVRO? Cap. 12, itens 7 e 8 |
+    >Se alguém vos bater numa face, apresentai-lhe a outra.
+    >
+    >✝️ LIVRO? Cap. 12, itens 7 e 8
 
 {:start="11"}
 11. >De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
@@ -323,10 +323,10 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 Diz o Evangelho: 
 
-| Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso. |
-| --- |
-| ✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42 |
-| LIVRO? Cap. 10, itens 9 e 10 |
+    >Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
+    >
+    >✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
+    >LIVRO? Cap. 10, itens 9 e 10
 
 {:start="19"}
 19. >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
