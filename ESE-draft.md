@@ -505,7 +505,9 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 [🔼 voltar um nível](#ESE-1)
 
->1. Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui. Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz. (✝️ João, cap. 18. vers. 33, 36 e 37)
+1. >Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui. Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.
+   >
+   >(✝️ João, cap. 18. vers. 33, 36 e 37)
 
 #### `ESE-1-02-01` 📃 A vida futura {#ESE-1-02-01}
 
