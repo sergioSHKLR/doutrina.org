@@ -33,15 +33,15 @@ layout: double-pane
 
 | Espiritismo Experimental |
 |:---:|
-|---
+|
 | ✒️ **O Livro dos Médiuns** |
-|---
+|
 | Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 **O Livro dos Espíritos**. |
-|---
+|
 | Por **Allan Kardec**. |
-|---
+|
 | Tradução de Guillon Ribeiro |
-|---
+|
 | Título do original francês |
 | Le livre des médiums |
 | (Paris, 18 de janeiro de 1861) |

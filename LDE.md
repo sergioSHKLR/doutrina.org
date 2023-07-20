@@ -37,17 +37,17 @@ layout: double-pane
 
 | Filosofia Espiritualista |
 |:---:|
-|---
+|
 | 👻 **O Livro dos Espíritos** |
-|---
+|
 | Princípios da Doutrina Espírita |
-|---
+|
 | Sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados |
-|---
+|
 | por **Allan Kardec**. |
-|---
+|
 | Tradução de Guillon Ribeiro |
-|---
+|
 | Título do original francês |
 | Le Livre des esprits |
 | (Paris, 18 de abril de 1857) |
