@@ -33,19 +33,19 @@ layout: default
 
 ---
 
-| 🕊️ **O Evangelho segundo o Espiritismo** |
-|:---:|
+|           🕊️ **O Evangelho segundo o Espiritismo**            |
+| :----------------------------------------------------------: |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
-|---
+|                             ---                              |
 | Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
-|---
-| Por **Allan Kardec**. |
-|---
-| Tradução de Guillon Ribeiro |
-|---
-| Título do original francês |
-| L’Évangile selon le spiritisme |
-| (Paris, abril de 1864) |
+|                             ---                              |
+|                    Por **Allan Kardec**.                     |
+|                             ---                              |
+|                 Tradução de Guillon Ribeiro                  |
+|                             ---                              |
+|                  Título do original francês                  |
+|                L’Évangile selon le spiritisme                |
+|                    (Paris, abril de 1864)                    |
 
 [🔼 voltar um nível](#ESE-0)
 
@@ -487,34 +487,34 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 ##### `ESE-1-01-05-01` 📃 A nova era {#ESE-1-01-05-01}
 
 {:start="9"}
-9.>Deus é único e Moisés é o Espírito que Ele enviou em missão para torná-lo conhecido não só dos hebreus, como também dos povos pagãos. O povo hebreu foi o instrumento de que se serviu Deus para se revelar por Moisés e pelos profetas, e as vicissitudes por que passou esse povo destinavam-se a chamar a atenção geral e a fazer cair o véu que ocultava aos homens a divindade.
->
->Os mandamentos de Deus, dados por intermédio de Moisés, contêm o gérmen da mais ampla moral cristã. Os comentários da Bíblia, porém, restringiam-lhe o sentido, porque, praticada em toda a sua pureza, não na teriam então compreendido. Mas nem por isso os dez mandamentos de Deus deixavam de ser um como frontispício brilhante, qual farol destinado a clarear a estrada que a Humanidade tinha de percorrer.
->
->A moral que Moisés ensinou era apropriada ao estado de adiantamento em que se encontravam os povos que ela se propunha regenerar, e esses povos, semisselvagens quanto ao aperfeiçoamento da alma, não teriam compreendido que se pudesse adorar a Deus de outro modo que não por meio de holocaustos, nem que se devesse perdoar a um inimigo. Notável do ponto de vista da matéria e mesmo do das Artes e das Ciências, a inteligência deles muito atrasada se achava em moralidade e não se houvera convertido sob o império de uma religião inteiramente espiritual. Era-lhes necessária uma representação semimaterial, qual a que apresentava então a religião hebraica. Os holocaustos lhes falavam aos sentidos, do mesmo passo que a ideia de Deus lhes falava ao espírito.
->
->O Cristo foi o iniciador da mais pura, da mais sublime moral, da moral evangélico-cristã, que há de renovar o mundo, aproximar os homens e torná-los irmãos; que há de fazer brotar de todos os corações a caridade e o amor do próximo e estabelecer entre os humanos uma solidariedade comum; de uma perfeita moral, enfim, que há de transformar a Terra, tornando-a morada de Espíritos superiores aos que hoje a habitam. É a lei do progresso, a que a Natureza está submetida, que se cumpre, e o Espiritismo é a alavanca de que Deus se utiliza para fazer que a Humanidade avance.
->
->São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.
->
->Um Espírito israelita
->Mulhouse, 1861
+9. >Deus é único e Moisés é o Espírito que Ele enviou em missão para torná-lo conhecido não só dos hebreus, como também dos povos pagãos. O povo hebreu foi o instrumento de que se serviu Deus para se revelar por Moisés e pelos profetas, e as vicissitudes por que passou esse povo destinavam-se a chamar a atenção geral e a fazer cair o véu que ocultava aos homens a divindade.
+   >
+   >Os mandamentos de Deus, dados por intermédio de Moisés, contêm o gérmen da mais ampla moral cristã. Os comentários da Bíblia, porém, restringiam-lhe o sentido, porque, praticada em toda a sua pureza, não na teriam então compreendido. Mas nem por isso os dez mandamentos de Deus deixavam de ser um como frontispício brilhante, qual farol destinado a clarear a estrada que a Humanidade tinha de percorrer.
+   >
+   >A moral que Moisés ensinou era apropriada ao estado de adiantamento em que se encontravam os povos que ela se propunha regenerar, e esses povos, semisselvagens quanto ao aperfeiçoamento da alma, não teriam compreendido que se pudesse adorar a Deus de outro modo que não por meio de holocaustos, nem que se devesse perdoar a um inimigo. Notável do ponto de vista da matéria e mesmo do das Artes e das Ciências, a inteligência deles muito atrasada se achava em moralidade e não se houvera convertido sob o império de uma religião inteiramente espiritual. Era-lhes necessária uma representação semimaterial, qual a que apresentava então a religião hebraica. Os holocaustos lhes falavam aos sentidos, do mesmo passo que a ideia de Deus lhes falava ao espírito.
+   >
+   >O Cristo foi o iniciador da mais pura, da mais sublime moral, da moral evangélico-cristã, que há de renovar o mundo, aproximar os homens e torná-los irmãos; que há de fazer brotar de todos os corações a caridade e o amor do próximo e estabelecer entre os humanos uma solidariedade comum; de uma perfeita moral, enfim, que há de transformar a Terra, tornando-a morada de Espíritos superiores aos que hoje a habitam. É a lei do progresso, a que a Natureza está submetida, que se cumpre, e o Espiritismo é a alavanca de que Deus se utiliza para fazer que a Humanidade avance.
+   >
+   >São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.
+   >
+   >Um Espírito israelita
+   >Mulhouse, 1861
 
 {:start="10"}
-10.>Um dia, Deus, em sua inesgotável caridade, permitiu que o homem visse a verdade varar as trevas. Esse dia foi o do advento do Cristo. Depois da luz viva, voltaram as trevas. Após alternativas de verdade e obscuridade, o mundo novamente se perdia. Então, semelhantemente aos profetas do Antigo Testamento, os Espíritos se puseram a falar e a vos advertir. O mundo está abalado em seus fundamentos; reboará o trovão. Sede firmes!
->
->O Espiritismo é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a Ciência, desenvolvida à custa do que é de ordem moral, mas conduzindo-vos ao bem-estar material, redundava em proveito do espírito das trevas. Como sabeis, cristãos, o coração e o amor têm de caminhar unidos à Ciência. O reino do Cristo, ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o amor o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas, que foram apanhadas desprevenidas à chegada do esposo.
->
->A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
->
->Fénelon
->Poitiers, 1861
+10. >Um dia, Deus, em sua inesgotável caridade, permitiu que o homem visse a verdade varar as trevas. Esse dia foi o do advento do Cristo. Depois da luz viva, voltaram as trevas. Após alternativas de verdade e obscuridade, o mundo novamente se perdia. Então, semelhantemente aos profetas do Antigo Testamento, os Espíritos se puseram a falar e a vos advertir. O mundo está abalado em seus fundamentos; reboará o trovão. Sede firmes!
+    >
+    >O Espiritismo é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a Ciência, desenvolvida à custa do que é de ordem moral, mas conduzindo-vos ao bem-estar material, redundava em proveito do espírito das trevas. Como sabeis, cristãos, o coração e o amor têm de caminhar unidos à Ciência. O reino do Cristo, ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o amor o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas, que foram apanhadas desprevenidas à chegada do esposo.
+    >
+    >A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
+    >
+    >Fénelon
+    >Poitiers, 1861
 
 {:start="11"}
-11.>Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam. – 
->
->Erasto, discípulo de Paulo.
->Paris, 1863
+11. >Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam. – 
+    >
+    >Erasto, discípulo de Paulo.
+    >Paris, 1863
 
 📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
@@ -538,11 +538,13 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 #### `ESE-1-02-01` 📃 A vida futura {#ESE-1-02-01}
 
 {:start="2"}
+
 2. Por essas palavras, Jesus claramente se refere à vida futura, que Ele apresenta, em todas as circunstâncias, como a meta que a Humanidade irá ter e como devendo constituir objeto das maiores preocupações do homem na Terra. Todas as suas máximas se reportam a esse grande princípio. Com efeito, sem a vida futura, nenhuma razão de ser teria a maior parte dos seus preceitos morais, donde vem que os que não creem na vida futura, imaginando que Ele apenas falava na vida presente, não os compreendem, ou os consideram pueris.
 
 Esse dogma pode, portanto, ser tido como o eixo do ensino do Cristo, pelo que foi colocado num dos primeiros lugares à frente desta obra. É que ele tem de ser o ponto de mira de todos os homens; só ele justifica as anomalias da vida terrena e se mostra de acordo com a Justiça de Deus.
 
 {:start="3"}
+
 3. Apenas ideias muito imprecisas tinham os judeus acerca da vida futura. Acreditavam nos anjos, considerando-os seres privilegiados da Criação; não sabiam, porém, que os homens podem um dia tornar-se anjos e partilhar da felicidade destes. Segundo eles, a observância das Leis de Deus era recompensada com os bens terrenos, com a supremacia da nação a que pertenciam, com vitórias sobre os seus inimigos. As calamidades públicas e as derrotas eram o castigo da desobediência àquelas leis. Moisés não pudera dizer mais do que isso a um povo pastor e ignorante, que precisava ser tocado, antes de tudo, pelas coisas deste mundo. Mais tarde, Jesus lhe revelou que há outro mundo, onde a Justiça de Deus segue o seu curso. É esse o mundo que Ele promete aos que cumprem os mandamentos de Deus e onde os bons acharão sua recompensa. Aí o seu reino; lá é que Ele se encontra na sua glória e para onde voltaria quando deixasse a Terra.
 
 Jesus, porém, conformando seu ensino com o estado dos homens de sua época, não julgou conveniente dar-lhes luz completa, percebendo que eles ficariam deslumbrados, visto que não a compreenderiam. Limitou-se a, de certo modo, apresentar a vida futura apenas como um princípio, como uma Lei da Natureza a cuja ação ninguém pode fugir. Todo cristão, pois, necessariamente crê na vida futura; mas a ideia que muitos fazem dela é ainda vaga, incompleta e, por isso mesmo, falsa em diversos pontos. Para grande número de pessoas, não há, a tal respeito, mais do que uma crença, balda de certeza absoluta, donde as dúvidas e mesmo a incredulidade.
@@ -552,11 +554,13 @@ O Espiritismo veio completar, nesse ponto, como em vários outros, o ensino do C
 #### `ESE-1-02-02` 📃A realeza de Jesus {#ESE-1-02-02}
 
 {:start="4"}
+
 4. Que não é deste mundo o reino de Jesus todos compreendem, mas também na Terra não terá Ele uma realeza? Nem sempre o título de rei implica o exercício do poder temporal. Dá-se esse título, por unânime consenso, a todo aquele que, pelo seu gênio, ascende à primeira plana numa ordem de ideias quaisquer, a todo aquele que domina o seu século e influi sobre o progresso da Humanidade. É nesse sentido que se costuma dizer: o rei ou príncipe dos filósofos, dos artistas, dos poetas, dos escritores etc. Essa realeza, oriunda do mérito pessoal, consagrada pela posteridade, não revela, muitas vezes, preponderância bem maior do que a que cinge a coroa real? Imperecível é a primeira, enquanto esta outra é joguete das vicissitudes; as gerações que se sucedem à primeira sempre a bendizem, ao passo que, por vezes, amaldiçoam a outra. Esta, a terrestre, acaba com a vida; a realeza moral se prolonga e mantém o seu poder, governa, sobretudo, após a morte. Sob esse aspecto não é Jesus mais poderoso rei do que os potentados da Terra? Razão, pois, lhe assistia para dizer a Pilatos, conforme disse: Sou rei, mas o meu reino não é deste mundo.
 
 #### `ESE-1-02-03` 📃O ponto de vista {#ESE-1-02-03}
 
 {:start="5"}
+
 5. A ideia clara e precisa que se faça da vida futura proporciona inabalável fé no porvir, fé que acarreta enormes consequências sobre a moralização dos homens, porque muda completamente o ponto de vista sob o qual encaram eles a vida terrena. Para quem se coloca, pelo pensamento, na vida espiritual, que é indefinida, a vida corpórea se torna simples passagem, breve estada num país ingrato. As vicissitudes e tribulações dessa vida não passam de incidentes que ele suporta com paciência, por sabê-las de curta duração, devendo seguir-se-lhes um estado mais ditoso. À morte nada mais restará de aterrador; deixa de ser a porta que se abre para o nada e torna-se a que dá para a libertação, pela qual entra o exilado numa mansão de bem-aventurança e de paz. Sabendo temporária e não definitiva a sua estada no lugar onde se encontra, menos atenção presta às preocupações da vida, resultando-lhe daí uma calma de espírito que tira àquela muito do seu amargor.
 
 Pelo simples fato de duvidar da vida futura, o homem dirige todos os seus pensamentos para a vida terrestre. Sem nenhuma certeza quanto ao porvir, dá tudo ao presente. Nenhum bem divisando mais precioso do que os da Terra, torna-se qual a criança que nada mais vê além de seus brinquedos. E não há o que não faça para conseguir os únicos bens que se lhe afiguram reais. A perda do menor deles lhe ocasiona causticante pesar; um engano, uma decepção, uma ambição insatisfeita, uma injustiça de que seja vítima, o orgulho ou a vaidade feridos são outros tantos tormentos, que lhe transformam a existência numa perene angústia, infligindo-se ele, desse modo, a si próprio, verdadeira tortura de todos os instantes. Colocando o ponto de vista, de onde considera a vida corpórea, no lugar mesmo em que ele aí se encontra, vastas proporções assume tudo o que o rodeia. O mal que o atinja, como o bem que toque aos outros, grande importância adquire aos seus olhos. Àquele que se acha no interior de uma cidade, tudo lhe parece grande: assim os homens que ocupem as altas posições, como os monumentos. Suba ele, porém, a uma montanha, e logo bem pequenos lhe parecerão homens e coisas.
@@ -564,6 +568,7 @@ Pelo simples fato de duvidar da vida futura, o homem dirige todos os seus pensam
 É o que sucede ao que encara a vida terrestre do ponto de vista da vida futura; a Humanidade, tanto quanto as estrelas do firmamento, perde-se na imensidade. Percebe então que grandes e pequenos estão confundidos, como formigas sobre um montículo de terra; que proletários e potentados são da mesma estatura, e lamenta que essas criaturas efêmeras a tantas canseiras se entreguem para conquistar um lugar que tão pouco as elevará e que por tão pouco tempo conservarão. Daí se segue que a importância dada aos bens terrenos está sempre em razão inversa da fé na vida futura.
 
 {:start="6"}
+
 6. Se toda a gente pensasse dessa maneira, dir-se-ia, tudo na Terra periclitaria, porquanto ninguém mais se ocuparia com as coisas terrenas. Não; o homem, instintivamente, procura o seu bem-estar e, embora certo de que só por pouco tempo permanecerá no lugar em que se encontra, cuida de estar aí o melhor ou o menos mal que lhe seja possível. Ninguém há que, dando com um espinho debaixo de sua mão, não a retire, para se não picar. Ora, o desejo do bem-estar força o homem a tudo melhorar, impelido que é pelo instinto do progresso e da conservação, que está nas Leis da Natureza. Ele, pois, trabalha por necessidade, por gosto e por dever, obedecendo, desse modo, aos desígnios da Providência que, para tal fim, o pôs na Terra. Simplesmente, aquele que se preocupa com o futuro não liga ao presente mais do que relativa importância e facilmente se consola dos seus insucessos, pensando no destino que o aguarda.
 
 Deus, conseguintemente, não condena os gozos terrenos; condena, sim, o abuso desses gozos em detrimento das coisas da alma. Contra tais abusos é que se premunem os que a si próprios aplicam estas palavras de Jesus: Meu reino não é deste mundo.
@@ -571,6 +576,7 @@ Deus, conseguintemente, não condena os gozos terrenos; condena, sim, o abuso de
 Aquele que se identifica com a vida futura assemelha-se ao rico que perde sem emoção uma pequena soma. Aquele cujos pensamentos se concentram na vida terrestre assemelha-se ao pobre que perde tudo o que possui e se desespera.
 
 {:start="7"}
+
 7. O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa visão, acanhada e mesquinha, que o concentra na vida atual, que faz do instante que vivemos na Terra único e frágil eixo do porvir eterno, ele, o Espiritismo, mostra que essa vida não passa de um elo no harmonioso e magnífico conjunto da obra do Criador. Mostra a solidariedade que conjuga todas as existências de um mesmo ser, todos os seres de um mesmo mundo e os seres de todos os mundos. Faculta assim uma base e uma razão de ser à fraternidade universal, enquanto a doutrina da criação da alma por ocasião do nascimento de cada corpo torna estranhos uns aos outros todos os seres. Essa solidariedade entre as partes de um mesmo todo explica o que inexplicável se apresenta, desde que se considere apenas um ponto. Esse conjunto, ao tempo do Cristo, os homens não o teriam podido compreender, motivo por que Ele reservou para outros tempos o fazê-lo conhecido.
 
 #### `ESE-1-02-04` 📃Instruções dos Espíritos {#ESE-1-02-04}
@@ -578,6 +584,7 @@ Aquele que se identifica com a vida futura assemelha-se ao rico que perde sem em
 ##### `ESE-1-02-04` 📃 Uma realeza terrestre {#ESE-1-02-04-01}
 
 {:start="8"}
+
 8. Quem melhor do que eu pode compreender a verdade destas palavras de nosso Senhor: O meu reino não é deste mundo? O orgulho me perdeu na Terra. Quem, pois, compreenderia o nenhum valor dos reinos da Terra, se eu o não compreendia? Que trouxe eu comigo da minha realeza terrena? Nada, absolutamente nada. E, como que para tornar mais terrível a lição, ela nem sequer me acompanhou até o túmulo! Rainha entre os homens, como rainha julguei que penetrasse no Reino dos Céus! Que desilusão! Que humilhação, quando, em vez de ser recebida aqui qual soberana, vi acima de mim, mas muito acima, homens que eu julgava insignificantes e aos quais desprezava, por não terem sangue nobre! Oh! como então compreendi a esterilidade das honras e grandezas que com tanta avidez se requestam na Terra!
 
 Para se granjear um lugar neste reino, são necessárias a abnegação, a humildade, a caridade em toda a sua celeste prática, a benevolência para com todos. Não se vos pergunta o que fostes, nem que posição ocupastes, mas que bem fizestes, quantas lágrimas enxugastes.
@@ -610,6 +617,7 @@ Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas 
 #### `ESE-1-03-01` 📃 Diferentes estados da alma na erraticidade {#ESE-1-03-01}
 
 {:start="2"}
+
 2. A casa do Pai é o Universo. As diferentes moradas são os mundos que circulam no Espaço infinito e oferecem, aos Espíritos que neles encarnam, moradas correspondentes ao adiantamento dos mesmos Espíritos.
 
 Independente da diversidade dos mundos, essas palavras de Jesus também podem referir-se ao estado venturoso ou desgraçado do Espírito na erraticidade. Conforme se ache este mais ou menos depurado e desprendido dos laços materiais, variarão ao infinito o meio em que ele se encontre, o aspecto das coisas, as sensações que experimente, as percepções que tenha. Enquanto uns não se podem afastar da esfera onde viveram, outros se elevam e percorrem o Espaço e os mundos; enquanto alguns Espíritos culpados erram nas trevas, os bem-aventurados gozam de resplendente claridade e do espetáculo sublime do Infinito; finalmente, enquanto o mau, atormentado de remorsos e pesares, muitas vezes insulado, sem consolação, separado dos que constituíam objeto de suas afeições, pena sob o guante dos sofrimentos morais, o justo, em convívio com aqueles a quem ama, frui as delícias de uma felicidade indizível. Também nisso, portanto, há muitas moradas, embora não circunscritas, nem localizadas.
@@ -617,20 +625,25 @@ Independente da diversidade dos mundos, essas palavras de Jesus também podem re
 #### `ESE-1-03-02` 📃 Diferentes categorias de mundos habitados {#ESE-1-03-02}
 
 {:start="3"}
+
 3. Do ensino dado pelos Espíritos, resulta que muito diferentes umas das outras são as condições dos mundos, quanto ao grau de adiantamento ou de inferioridade dos seus habitantes. Entre eles há os em que estes últimos são ainda inferiores aos da Terra, física e moralmente; outros, da mesma categoria que o nosso; e outros que lhe são mais ou menos superiores a todos os respeitos. Nos mundos inferiores, a existência é toda material, reinam soberanas as paixões, sendo quase nula a vida moral. À medida que esta se desenvolve, diminui a influência da matéria, de tal maneira que, nos mundos mais adiantados, a vida é, por assim dizer, toda espiritual.
 
 {:start="4"}
+
 4. Nos mundos intermédios, misturam-se o bem e o mal, predominando um ou outro, segundo o grau de adiantamento da maioria dos que os habitam. Embora se não possa fazer, dos diversos mundos, uma classificação absoluta, pode-se contudo, em virtude do estado em que se acham e da destinação que trazem, tomando por base os matizes mais salientes, dividi-los, de modo geral, como segue: mundos primitivos, destinados às primeiras encarnações da alma humana; mundos de expiação e provas, onde domina o mal; mundos de regeneração, nos quais as almas que ainda têm o que expiar haurem novas forças, repousando das fadigas da luta; mundos ditosos, onde o bem sobrepuja o mal; mundos celestes ou divinos, habitações de Espíritos depurados, onde exclusivamente reina o bem. A Terra pertence à categoria dos mundos de expiação e provas, razão por que aí vive o homem a braços com tantas misérias.
 
 {:start="5"}
+
 5. Os Espíritos que encarnam em um mundo não se acham a ele presos indefinidamente, nem nele atravessam todas as fases do progresso que lhes cumpre realizar, para atingir a perfeição. Quando, em um mundo, eles alcançam o grau de adiantamento que esse mundo comporta, passam para outro mais adiantado, e assim por diante, até que cheguem ao estado de puros Espíritos. São outras tantas estações, em cada uma das quais se lhes deparam elementos de progresso apropriados ao adiantamento que já conquistaram. É-lhes uma recompensa ascenderem a um mundo de ordem mais elevada, como é um castigo o prolongarem a sua permanência em um mundo desgraçado, ou serem relegados para outro ainda mais infeliz do que aquele a que se veem impedidos de voltar quando se obstinaram no mal.
 
 #### `ESE-1-03-03` 📃 Destinação da Terra. Causas das misérias humanas {#ESE-1-03-03}
 
 {:start="6"}
+
 6. Muitos se admiram de que na Terra haja tanta maldade e tantas paixões grosseiras, tantas misérias e enfermidades de toda natureza, e daí concluem que a espécie humana bem triste coisa é. Provém esse juízo do acanhado ponto de vista em que se colocam os que o emitem e que lhes dá uma falsa ideia do conjunto. Deve-se considerar que na Terra não está a Humanidade toda, mas apenas uma pequena fração da Humanidade. Com efeito, a espécie humana abrange todos os seres dotados de razão que povoam os inúmeros orbes do Universo. Ora, que é a população da Terra, em face da população total desses mundos? Muito menos que a de uma aldeia, em confronto com a de um grande império. A situação material e moral da Humanidade terrena nada tem que espante, desde que se leve em conta a destinação da Terra e a natureza dos que a habitam.
 
 {:start="7"}
+
 7. Faria dos habitantes de uma grande cidade falsíssima ideia quem os julgasse pela população dos seus quarteirões mais ínfimos e sórdidos. Num hospital, ninguém vê senão doentes e estropiados; numa penitenciária, veem-se reunidas todas as torpezas, todos os vícios; nas regiões insalubres, os habitantes, em sua maioria, são pálidos, franzinos e enfermiços. Pois bem: figure-se a Terra como um subúrbio, um hospital, uma penitenciária, um sítio malsão, e ela é simultaneamente tudo isso, e compreender-se-á por que as aflições sobrelevam aos gozos, porquanto não se mandam para o hospital os que se acham com saúde, nem para as casas de correção os que nenhum mal praticaram; nem os hospitais e as casas de correção se podem ter por lugares de deleite.
 
 Ora, assim como, numa cidade, a população não se encontra toda nos hospitais ou nas prisões, também na Terra não está a Humanidade inteira. E, do mesmo modo que do hospital saem os que se curaram e da prisão os que cumpriram suas penas, o homem deixa a Terra quando está curado de suas enfermidades morais.
@@ -648,6 +661,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 ##### `ESE-1-03-04-01` 📃 Mundos de expiações e de provas {#ESE-1-03-04-01}
 
 {:start="8"}
+
 8. A qualificação de mundos inferiores e mundos superiores nada tem de absoluta; é, antes, muito relativa. Tal mundo é inferior ou superior com referência aos que lhe estão acima ou abaixo, na escala progressiva.
 
 Tomada a Terra por termo de comparação, pode-se fazer ideia do estado de um mundo inferior, supondo os seus habitantes na condição das raças selvagens ou das nações bárbaras que ainda entre nós se encontram, restos do estado primitivo do nosso orbe. Nos mais atrasados, são de certo modo rudimentares os seres que os habitam. Revestem a forma humana, mas sem nenhuma beleza. Seus instintos não têm a abrandá-los qualquer sentimento de delicadeza ou de benevolência, nem as noções do justo e do injusto. A força bruta é, entre eles, a única lei. Carentes de indústrias e de invenções, passam a vida na conquista de alimentos. Deus, entretanto, a nenhuma de suas criaturas abandona; no fundo das trevas da inteligência jaz, latente, a vaga intuição, mais ou menos desenvolvida, de um Ente supremo. Esse instinto basta para torná-los superiores uns aos outros e para lhes preparar a ascensão a uma vida mais completa, porquanto eles não são seres degradados, mas crianças que estão a crescer.
@@ -978,9 +992,9 @@ A quem, então, há de o homem responsabilizar por todas essas aflições, senã
 
 Os males dessa natureza fornecem, indubitavelmente, um notável contingente ao cômputo das vicissitudes da vida. O homem as evitará quando trabalhar por se melhorar moralmente, tanto quanto intelectualmente.
 
-5. A lei humana atinge certas faltas e as pune. Pode, então, o condenado reconhecer que sofre a consequência do que fez. Mas a lei não atinge, nem pode atingir todas as faltas; incide especialmente sobre as que trazem prejuízo à sociedade e não sobre as que só prejudicam os que as cometem. Deus, porém, quer que todas as suas criaturas progridam e, portanto, não deixa impune qualquer desvio do caminho reto. Não há falta alguma, por mais leve que seja, nenhuma infração da sua lei, que não acarrete forçosas e inevitáveis consequências, mais ou menos deploráveis. Daí se segue que, nas pequenas coisas, como nas grandes, o homem é sempre punido por aquilo em que pecou. Os sofrimentos que decorrem do pecado são-lhe uma advertência de que procedeu mal. Dão-lhe experiência, fazem-lhe sentir a diferença existente entre o bem e o mal e a necessidade de se melhorar para, de futuro, evitar o que lhe originou uma fonte de amarguras; sem o que, motivo não haveria para que se emendasse. Confiante na impunidade, retardaria seu avanço e, consequentemente, a sua felicidade futura.
-
-Entretanto, a experiência, algumas vezes, chega um pouco tarde: quando a vida já foi desperdiçada e turbada; quando as forças já estão gastas e sem remédio o mal. Põe-se então o homem a dizer: “Se no começo dos meus dias eu soubera o que sei hoje, quantos passos em falso teria evitado! Se houvesse de recomeçar, conduzir-me-ia de outra maneira. No entanto, já não há mais tempo!” Como o obreiro preguiçoso, que diz: “Perdi o meu dia”, também ele diz: “Perdi a minha vida.” Contudo, assim como para o obreiro o sol se levanta no dia seguinte, permitindo-lhe neste reparar o tempo perdido, também para o homem, após a noite do túmulo, brilhará o sol de uma nova vida, em que lhe será possível aproveitar a experiência do passado e suas boas resoluções para o futuro.
+   5. A lei humana atinge certas faltas e as pune. Pode, então, o condenado reconhecer que sofre a consequência do que fez. Mas a lei não atinge, nem pode atingir todas as faltas; incide especialmente sobre as que trazem prejuízo à sociedade e não sobre as que só prejudicam os que as cometem. Deus, porém, quer que todas as suas criaturas progridam e, portanto, não deixa impune qualquer desvio do caminho reto. Não há falta alguma, por mais leve que seja, nenhuma infração da sua lei, que não acarrete forçosas e inevitáveis consequências, mais ou menos deploráveis. Daí se segue que, nas pequenas coisas, como nas grandes, o homem é sempre punido por aquilo em que pecou. Os sofrimentos que decorrem do pecado são-lhe uma advertência de que procedeu mal. Dão-lhe experiência, fazem-lhe sentir a diferença existente entre o bem e o mal e a necessidade de se melhorar para, de futuro, evitar o que lhe originou uma fonte de amarguras; sem o que, motivo não haveria para que se emendasse. Confiante na impunidade, retardaria seu avanço e, consequentemente, a sua felicidade futura.
+   
+   Entretanto, a experiência, algumas vezes, chega um pouco tarde: quando a vida já foi desperdiçada e turbada; quando as forças já estão gastas e sem remédio o mal. Põe-se então o homem a dizer: “Se no começo dos meus dias eu soubera o que sei hoje, quantos passos em falso teria evitado! Se houvesse de recomeçar, conduzir-me-ia de outra maneira. No entanto, já não há mais tempo!” Como o obreiro preguiçoso, que diz: “Perdi o meu dia”, também ele diz: “Perdi a minha vida.” Contudo, assim como para o obreiro o sol se levanta no dia seguinte, permitindo-lhe neste reparar o tempo perdido, também para o homem, após a noite do túmulo, brilhará o sol de uma nova vida, em que lhe será possível aproveitar a experiência do passado e suas boas resoluções para o futuro.
 
 #### `ESE-1-05-03` 📃 Causas anteriores das aflições {#ESE-1-05-03}
 
