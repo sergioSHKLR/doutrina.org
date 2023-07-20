@@ -6,7 +6,7 @@
  *    user zoom.
  */
 
-html {
+ html {
     font-family: sans-serif;
     /* 1 */
     -ms-text-size-adjust: 100%;
@@ -506,4 +506,18 @@ blockquote.spirit {
 em {
     color: darkred;
     font-style: normal;
+}
+
+em {
+    color: darkred;
+    font-style: normal;
+}
+
+code {
+    border: 1px solid grey;
+    border-radius: 12px;
+    padding: 1px 10px;
+    background-color: grey;
+    color: white;
+    opacity: .5
 }
