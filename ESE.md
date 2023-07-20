@@ -33,7 +33,6 @@ layout: single-pane
 
 ---
 
-|
 |           🕊️ **O Evangelho segundo o Espiritismo**            |
 | :---: |
 |
