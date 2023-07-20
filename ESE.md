@@ -572,7 +572,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-01)
 
 ---
 
@@ -650,7 +650,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
    Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais. – Uma Rainha de França. (Havre, 1863.)
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-02)
 
 ---
 
@@ -710,8 +710,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-03-04-02` 📃 Mundos regeneradores](#ESE-1-03-04-02)
 - [`ESE-1-03-04-03` 📃 Progressão dos mundos](#ESE-1-03-04-03)
 
-[🔼 voltar um nível](#ESE-1-03)
-
 ---
 
 ##### `ESE-1-03-04-01` 📃 Mundos de expiações e de provas {#ESE-1-03-04-01}
@@ -747,7 +745,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 12. >Entretanto, os mundos felizes não são orbes privilegiados, visto que Deus não é parcial para qualquer de seus filhos; a todos dá os mesmos direitos e as mesmas facilidades para chegarem a tais mundos. Fá-los partir todos do mesmo ponto e a nenhum dota melhor do que aos outros; a todos são acessíveis as mais altas categorias: apenas lhes cumpre conquistá-las pelo seu trabalho, alcançá-las mais depressa, ou permanecer inativos por séculos de séculos no lodaçal da Humanidade. (Resumo do ensino de todos os Espíritos superiores.)
     {:.spirit}
 
-
 ##### `ESE-1-03-04-02` 📃 Mundos regeneradores {#ESE-1-03-04-02}
 
 {:start="13"}
@@ -767,13 +764,11 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Paris, 1862**
     {:.spirit}
 
-
 ##### `ESE-1-03-04-02` 📃 Mundos regeneradores {#ESE-1-03-04-02}
 
 {:start="16"}
 16. >Entre as estrelas que cintilam na abóbada azul do firmamento, quantos mundos não haverá como o vosso, destinados pelo Senhor à expiação e à provação! Mas também os há mais miseráveis e melhores, como os há de transição, que se podem denominar de regeneradores. Cada turbilhão planetário, a deslocar-se no Espaço em torno de um centro comum, arrasta consigo seus mundos primitivos, de exílio, de provas, de regeneração e de felicidade. Já se vos há falado de mundos onde a alma recém-nascida é colocada, quando ainda ignorante do bem e do mal, mas com a possibilidade de caminhar para Deus, senhora de si mesma, na posse do livre-arbítrio. Já também se vos revelou de que amplas faculdades é dotada a alma para praticar o bem. Mas, ah! há as que sucumbem, e Deus, que não as quer aniquiladas, lhes permite irem para esses mundos onde, de encarnação em encarnação, elas se depuram, regeneram e voltam dignas da glória que lhes fora destinada.
     {:.spirit}
-
 
 {:start="17"}
 17. >Os mundos regeneradores servem de transição entre os mundos de expiação e os mundos felizes. A alma penitente encontra neles a calma e o repouso e acaba por depurar-se. Sem dúvida, em tais mundos o homem ainda se acha sujeito às leis que regem a matéria; a Humanidade experimenta as vossas sensações e desejos, mas liberta das paixões desordenadas de que sois escravos, isenta do orgulho que impõe silêncio ao coração, da inveja que a tortura, do ódio que a sufoca. Em todas as frontes, vê-se escrita a palavra amor; perfeita equidade preside às relações sociais, todos reconhecem Deus e tentam caminhar para Ele, cumprindo-lhe as leis.
@@ -790,7 +785,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
      >**Paris, 1862**
      {:.spirit}
 
-     
 ##### `ESE-1-03-04-03` 📃 Progressão dos mundos {#ESE-1-03-04-03}
 
 {:start="19"}
@@ -804,9 +798,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Paris, 1862**
     {:.spirit}
 
-
-[🔼 voltar um nível](#ESE-1)
-
+[🔼 voltar um nível](#ESE-1-03)
 ---
 
 ### `ESE-1-04` 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#ESE-1-04}
@@ -1381,6 +1373,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Paris, 1860**
     {:.spirit}
 
+[🔼 voltar um nível](#ESE-1-05)
+
 ---
 
 ### `ESE-1-06` 📑 06. O Cristo Consolador {#ESE-1-06}
@@ -1465,6 +1459,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >**O Espírito de Verdade**  
    >**Havre, 1863**
    {:.spirit}
+
+[🔼 voltar um nível](#ESE-1-06)
 
 ---
 
@@ -1616,7 +1612,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Bordeaux, 1862**
     {:.spirit}
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-07)
 
 ---
 
@@ -1755,137 +1751,146 @@ CONTENT
 
 CONTENT
 
+[🔼 voltar um nível](#ESE-1-08)
+
 ### `ESE-1-09` 📑 09. Bem-aventurados os que são brandos e pacíficos {#ESE-1-09}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-09)
 
 ---
 ### `ESE-1-10` 📑 10. Bem-aventurdaos os que são misericordiosos {#ESE-1-10}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-10)
 
 ---
 ### `ESE-1-11` 📑 11. Amar o próximo como a si mesmo {#ESE-1-11}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-11)
 
 ---
 ### `ESE-1-12` 📑 12. Amai os vossos inimigos {#ESE-1-12}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-12)
 
 ---
 ### `ESE-1-13` 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ESE-1-13}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-13)
 
 ---
 ### `ESE-1-14` 📑 14. Honrai o vosso pai e a vossa mãe {#ESE-1-14}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-14)
 
 ---
 ### `ESE-1-15` 📑 15. Fora da caridade não há salvação {#ESE-1-15}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-15)
 
 ---
-### `ESE-1-16` 📑 16. Não se pode servir a Deus e a Mamon {#ESE-1-17}
+### `ESE-1-16` 📑 16. Não se pode servir a Deus e a Mamon {#ESE-1-16}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-16)
+
+---
+### `ESE-1-17` 📑 17. Sede perfeitos {#ESE-1-17}
+
+INDEX
+
+[🔼 voltar um nível](#ESE-1-17)
 
 ---
 ### `ESE-1-18` 📑 18. Muitos os chamados, poucos os escolhidos {#ESE-1-18}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-18)
 
 ---
 ### `ESE-1-19` 📑 19. A fé transporta montanhas {#ESE-1-19}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-19)
 
 ---
 ### `ESE-1-20` 📑 20. Os trabalhadores da última hora {#ESE-1-20}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-20)
 
 ---
 ### `ESE-1-21` 📑 21. Haverá falsos cristos e falsos profetas {#ESE-1-21}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-21)
 
 ---
 ### `ESE-1-22` 📑 22. Não separeis o que Deus juntou {#ESE-1-22}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-22)
 
 ---
 ### `ESE-1-23` 📑 23. Estranha moral {#ESE-1-23}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-23)
 
 ---
 ### `ESE-1-24` 📑 24. Não ponhais a candeia debaixo do alqueire {#ESE-1-24}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-24)
 
 ---
 ### `ESE-1-25` 📑 25. Buscai e achareis {#ESE-1-25}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-25)
 
 ---
 ### `ESE-1-26` 📑 26. Dai gratuitamente o que gratuitamente recebestes {#ESE-1-26}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-26)
 
 ---
 ### `ESE-1-27` 📑 27. Pedi e obtereis {#ESE-1-27}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-27)
 
 ---
 ### `ESE-1-28` 📑 28. Coletânea de preces espíritas {#ESE-1-28}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1)
+[🔼 voltar um nível](#ESE-1-28)
 
 ---
 
@@ -1910,14 +1915,16 @@ O texto certo que, por mercê de Deus, já está reproduzido pelas edições rec
 Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , como realmente é o original.
 Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
 
-[^5]: 5 N.E.: Ver Nota Explicativa.
+[^5]: N.E.: Ver Nota Explicativa.
 
-[^6]: 6. N.E.: Ver Nota Explicativa.
+[^6]: N.E.: Ver Nota Explicativa.
 
-[^7]: 7 A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: *...genitus ex aqua et Spiritu...* *...et quod genitum est ex Spiritu, spiritus est*. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
+[^7]: A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: ...genitus ex aqua et Spiritu... ...et quod genitum est ex Spiritu, spiritus est. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
 
+[^8]: A.K.: Veja-se, para os desenvolvimentos do dogma da reencarnação, 👻 **O Livro dos Espíritos**, caps. 4 e 5; 🔍 **O que é o Espiritismo**, cap. 2, por Allan Kardec; Pluralidade das existências, por Pezzani.
 
+[^9]: N.E.: Ver Nota Explicativa.
 
+[^10]: N.E.: Ver Nota Explicativa.
 
-
-[^11]: 11 N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
+[^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
