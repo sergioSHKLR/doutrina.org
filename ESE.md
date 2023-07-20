@@ -1744,6 +1744,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-09)
 
 ---
+
 ### `ESE-1-10` 📑 10. Bem-aventurdaos os que são misericordiosos {#ESE-1-10}
 
 INDEX
@@ -1751,6 +1752,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-10)
 
 ---
+
 ### `ESE-1-11` 📑 11. Amar o próximo como a si mesmo {#ESE-1-11}
 
 INDEX
@@ -1758,6 +1760,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-11)
 
 ---
+
 ### `ESE-1-12` 📑 12. Amai os vossos inimigos {#ESE-1-12}
 
 INDEX
@@ -1765,6 +1768,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-12)
 
 ---
+
 ### `ESE-1-13` 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ESE-1-13}
 
 INDEX
@@ -1772,6 +1776,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-13)
 
 ---
+
 ### `ESE-1-14` 📑 14. Honrai o vosso pai e a vossa mãe {#ESE-1-14}
 
 INDEX
@@ -1779,6 +1784,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-14)
 
 ---
+
 ### `ESE-1-15` 📑 15. Fora da caridade não há salvação {#ESE-1-15}
 
 INDEX
@@ -1786,6 +1792,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-15)
 
 ---
+
 ### `ESE-1-16` 📑 16. Não se pode servir a Deus e a Mamon {#ESE-1-16}
 
 INDEX
@@ -1793,6 +1800,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-16)
 
 ---
+
 ### `ESE-1-17` 📑 17. Sede perfeitos {#ESE-1-17}
 
 INDEX
@@ -1800,6 +1808,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-17)
 
 ---
+
 ### `ESE-1-18` 📑 18. Muitos os chamados, poucos os escolhidos {#ESE-1-18}
 
 INDEX
@@ -1807,6 +1816,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-18)
 
 ---
+
 ### `ESE-1-19` 📑 19. A fé transporta montanhas {#ESE-1-19}
 
 INDEX
@@ -1814,6 +1824,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-19)
 
 ---
+
 ### `ESE-1-20` 📑 20. Os trabalhadores da última hora {#ESE-1-20}
 
 INDEX
@@ -1828,6 +1839,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-21)
 
 ---
+
 ### `ESE-1-22` 📑 22. Não separeis o que Deus juntou {#ESE-1-22}
 
 INDEX
@@ -1835,6 +1847,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-22)
 
 ---
+
 ### `ESE-1-23` 📑 23. Estranha moral {#ESE-1-23}
 
 INDEX
@@ -1842,6 +1855,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-23)
 
 ---
+
 ### `ESE-1-24` 📑 24. Não ponhais a candeia debaixo do alqueire {#ESE-1-24}
 
 INDEX
@@ -1849,6 +1863,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-24)
 
 ---
+
 ### `ESE-1-25` 📑 25. Buscai e achareis {#ESE-1-25}
 
 INDEX
@@ -1856,6 +1871,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-25)
 
 ---
+
 ### `ESE-1-26` 📑 26. Dai gratuitamente o que gratuitamente recebestes {#ESE-1-26}
 
 INDEX
@@ -1863,6 +1879,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-26)
 
 ---
+
 ### `ESE-1-27` 📑 27. Pedi e obtereis {#ESE-1-27}
 
 INDEX
@@ -1870,6 +1887,7 @@ INDEX
 [🔼 voltar um nível](#ESE-1-27)
 
 ---
+
 ### `ESE-1-28` 📑 28. Coletânea de preces espíritas {#ESE-1-28}
 
 INDEX
