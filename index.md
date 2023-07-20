@@ -8,9 +8,6 @@ layout: double-pane
 
 ---
 
-<button onclick="removeElement()">✂️</button>
-
----
 <!-- ## Bem vindo!
 
 Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https://github.com/sergioSHKLR/doutrina.org) e todo seu código é accessível.
@@ -115,10 +112,16 @@ Deus abençoa, sempre!
        - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 ---
-<p>&nbsp;</p>
+
+<button onclick="removeElement()">🔴</button>
+<button onclick="resetElement()">🟢</button>
 
 <script>
 function removeElement() {
   document.getElementById("iframe-wrapper").style.display = "none";
+}
+function resetElement() {
+  document.getElementById("imgbox1").style.display = "block";
+  document.getElementById("imgbox2").style.visibility = "visible";
 }
     </script>
