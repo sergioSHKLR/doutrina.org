@@ -33,21 +33,20 @@ layout: single-pane
 
 ---
 
-|
-|           🕊️ **O Evangelho segundo o Espiritismo**            |
+| 🕊️ **O Evangelho segundo o Espiritismo** |
 | :---: |
 |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
 |
 | Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
 |
-|                    Por **Allan Kardec**.                     |
+| Por **Allan Kardec**. |
 |
-|                 Tradução de Guillon Ribeiro                  |
+| Tradução de Guillon Ribeiro |
 |
-|                  Título do original francês                  |
-|                L’Évangile selon le spiritisme                |
-|                    (Paris, abril de 1864)                    |
+| Título do original francês |
+| L’Évangile selon le spiritisme |
+| (Paris, abril de 1864) |
 
 [🔼 voltar um nível](#ESE-0)
 
