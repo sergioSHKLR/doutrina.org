@@ -439,7 +439,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-01-05` 📃 Instruções dos Espíritos](#ESE-1-01-05)
    - [`ESE-1-01-05-01` 📃 A nova era](#ESE-1-01-05-01)
 
-
 [🔼 voltar um nível](#ESE-1)
 
 ---
@@ -585,6 +584,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 [🔼 voltar um nível](#ESE-1)
 
+---
+
 1. >Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui. Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.
 >
 >(✝️ João, cap. 18. vers. 33, 36 e 37)
@@ -660,6 +661,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-03-02` 📃 Diferentes categorias de mundos habitados](#ESE-1-03-02)
 - [`ESE-1-03-03` 📃 Destinação da Terra. Causas das misérias humanas](#ESE-1-03-03)
 - [`ESE-1-03-04` 📃 Instruções dos Espíritos](#ESE-1-03-04)
+   - [`ESE-1-03-04-01` 📃 Mundos de expiações e de provas](#ESE-1-03-04-01)
+   - [`ESE-1-03-04-02` 📃 Mundos regeneradores](#ESE-1-03-04-02)
+   - [`ESE-1-03-04-03` 📃 Progressão dos mundos](#ESE-1-03-04-03)
 
 [🔼 voltar um nível](#ESE-1)
 
@@ -705,12 +709,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    Ora, assim como, numa cidade, a população não se encontra toda nos hospitais ou nas prisões, também na Terra não está a Humanidade inteira. E, do mesmo modo que do hospital saem os que se curaram e da prisão os que cumpriram suas penas, o homem deixa a Terra quando está curado de suas enfermidades morais.
 
 #### `ESE-1-03-04` 📃 Instruções dos Espíritos {#ESE-1-03-04}
-
-- [`ESE-1-03-04-01` 📃 Mundos de expiações e de provas](#ESE-1-03-04-01)
-- [`ESE-1-03-04-02` 📃 Mundos regeneradores](#ESE-1-03-04-02)
-- [`ESE-1-03-04-03` 📃 Progressão dos mundos](#ESE-1-03-04-03)
-
----
 
 ##### `ESE-1-03-04-01` 📃 Mundos de expiações e de provas {#ESE-1-03-04-01}
 
@@ -806,6 +804,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [`ESE-1-04-01` 📃 Ressurreição e reencarnação](#ESE-1-04-01)
 - [`ESE-1-04-02` 📃 A reencarnação fortalece os laços de família, ao passo que a unicidade da existência os rompe](#ESE-1-04-02)
 - [`ESE-1-04-03` 📃 Instruções dos Espíritos](#ESE-1-04-03)
+   - [`ESE-1-04-03` 📃 Limites da encarnação](#ESE-1-04-03-01)
+   - [`ESE-1-04-03` 📃 Necessidade da encarnação](#ESE-1-04-03-02)
 
 [🔼 voltar um nível](#ESE-1)
 
@@ -832,33 +832,20 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 4. A reencarnação fazia parte dos dogmas dos judeus, sob o nome de ressurreição. Só os saduceus, cuja crença era a de que tudo acaba com a morte, não acreditavam nisso. As ideias dos judeus sobre esse ponto, como sobre muitos outros, não eram claramente definidas, porque apenas tinham vagas e incompletas noções acerca da alma e da sua ligação com o corpo. Criam eles que um homem que vivera podia reviver, sem saberem precisamente de que maneira o fato poderia dar-se. Designavam pelo termo ressurreição o que o Espiritismo, mais judiciosamente, chama reencarnação. Com efeito, a ressurreição dá ideia de voltar à vida o corpo que já está morto, o que a Ciência demonstra ser materialmente impossível, sobretudo quando os elementos desse corpo já se acham desde muito tempo dispersos e absorvidos. A reencarnação é a volta da alma ou Espírito à vida corpórea, mas em outro corpo especialmente formado para ele e que nada tem de comum com o antigo. A palavra ressurreição podia assim aplicar-se a Lázaro, mas não a Elias, nem aos outros profetas. Se, portanto, segundo a crença deles, João Batista era Elias, o corpo de João não podia ser o de Elias, pois que João fora visto criança e seus pais eram conhecidos. João, pois, podia ser Elias reencarnado, porém, não ressuscitado.
 
 {:start="5"}
-5. >Ora, entre os fariseus, havia um homem chamado Nicodemos, senador dos judeus — que veio à noite ter com Jesus e lhe disse: 
-   >
-   >Mestre, sabemos que vieste da parte de Deus para nos instruir como um doutor, porquanto ninguém poderia fazer os milagres que fazes, se Deus não estivesse com ele. 
-   >
-   >Jesus lhe respondeu: 
-   >
-   >Em verdade, em verdade, digo-te: Ninguém pode ver o Reino de Deus se não nascer de novo. 
-   >
-   >Disse-lhe Nicodemos: 
-   >
-   >Como pode nascer um homem já velho? Pode tornar a entrar no ventre de sua mãe, para nascer segunda vez? 
-   >
-   >Retorquiu-lhe Jesus: 
-   >
-   >Em verdade, em verdade, digo-te: Se um homem não renasce da água e do Espírito, não pode entrar no Reino de Deus. 
-   >
-   >O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. — Não te admires de que Eu te haja dito ser preciso que nasças de novo. 
-   >
-   >O Espírito sopra onde quer e ouves a sua voz, mas não sabes donde vem ele, nem para onde vai; o mesmo se dá com todo homem que é nascido do Espírito. 
-   >
-   >Respondeu-lhe Nicodemos: 
-   >
-   >Como pode isso fazer-se?
-   >
-   >Jesus lhe observou:
-   >
-   >Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?
+5. >Ora, entre os fariseus, havia um homem chamado Nicodemos, senador dos judeus — que veio à noite ter com Jesus e lhe disse:  
+   >Mestre, sabemos que vieste da parte de Deus para nos instruir como um doutor, porquanto ninguém poderia fazer os milagres que fazes, se Deus não estivesse com ele.  
+   >Jesus lhe respondeu:  
+   >Em verdade, em verdade, digo-te: Ninguém pode ver o Reino de Deus se não nascer de novo.  
+   >Disse-lhe Nicodemos:  
+   >Como pode nascer um homem já velho? Pode tornar a entrar no ventre de sua mãe, para nascer segunda vez?   
+   >Retorquiu-lhe Jesus:  
+   >Em verdade, em verdade, digo-te: Se um homem não renasce da água e do Espírito, não pode entrar no Reino de Deus.  
+   >O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. — Não te admires de que Eu te haja dito ser preciso que nasças de novo.  
+   >O Espírito sopra onde quer e ouves a sua voz, mas não sabes donde vem ele, nem para onde vai; o mesmo se dá com todo homem que é nascido do Espírito.  
+   >Respondeu-lhe Nicodemos:  
+   >Como pode isso fazer-se?  
+   >Jesus lhe observou:  
+   >Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?  
    >
    >✝️ **João, cap. 3, vers. 1 a 12**
    {:.bible}
@@ -979,9 +966,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 23. Em resumo, quatro alternativas se apresentam ao homem para o seu futuro de além-túmulo: 1a , o nada, de acordo com a doutrina materialista; 2a , a absorção no todo universal, de acordo com a doutrina panteísta; 3a , a individualidade, com fixação definitiva da sorte, segundo a doutrina da Igreja; 4a , a individualidade, com progressão indefinita, conforme a Doutrina Espírita. Segundo as duas primeiras, os laços de família se rompem por ocasião da morte e nenhuma esperança resta às almas de se encontrarem futuramente. Com a terceira, há para elas a possibilidade de se tornarem a ver, desde que sigam para a mesma região, que tanto pode ser o inferno como o paraíso. Com a pluralidade das existências, inseparável da progressão gradativa, há a certeza na continuidade das relações entre os que se amaram, e é isso o que constitui a verdadeira família.
 
 #### `ESE-1-04-03` 📃 Instruções dos Espíritos {#ESE-1-04-03}
-
-- [`ESE-1-04-03` 📃 Limites da encarnação](#ESE-1-04-03-01)
-- [`ESE-1-04-03` 📃 Necessidade da encarnação](#ESE-1-04-03-02)
 
 ##### `ESE-1-04-03` 📃 Limites da encarnação {#ESE-1-04-03-01}
 
