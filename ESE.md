@@ -228,120 +228,140 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 1. >O homem é uma alma encarnada. Antes da sua encarnação, existia unida aos tipos primordiais das ideias do verdadeiro, do bem e do belo; separa-se deles, encarnando, e, recordando o seu passado, é mais ou menos atormentada pelo desejo de voltar a ele.
 
-    Não se pode enunciar mais claramente a distinção e independência entre o princípio inteligente e o princípio material. É, além disso, a doutrina da preexistência da alma; da vaga intuição que ela guarda de um outro mundo, a que aspira; da sua sobrevivência ao corpo; da sua saída do mundo espiritual, para encarnar, e da sua volta a esse mesmo mundo, após a morte. É, finalmente, o gérmen da doutrina dos anjos decaídos.
+Não se pode enunciar mais claramente a distinção e independência entre o princípio inteligente e o princípio material. É, além disso, a doutrina da preexistência da alma; da vaga intuição que ela guarda de um outro mundo, a que aspira; da sua sobrevivência ao corpo; da sua saída do mundo espiritual, para encarnar, e da sua volta a esse mesmo mundo, após a morte. É, finalmente, o gérmen da doutrina dos anjos decaídos.
 
 {:start="2"}
+
 2. >A alma se transvia e perturba, quando se serve do corpo para considerar qualquer objeto; tem vertigem, como se estivesse ébria, porque se prende a coisas que estão, por sua natureza, sujeitas a mudanças; ao passo que, quando contempla a sua própria essência, dirige-se para o que é puro, eterno, imortal, e, sendo ela dessa natureza, permanece aí ligada, por tanto tempo quanto possa. Cessam então os seus transviamentos, pois que está unida ao que é imutável e a esse estado da alma é que se chama sabedoria.
 
-    Assim, ilude a si mesmo o homem que considera as coisas de modo terra a terra, do ponto de vista material. Para as apreciar com justeza, tem de as ver do alto, isto é, do ponto de vista espiritual. Aquele, pois, que está de posse da verdadeira sabedoria, tem de isolar do corpo a alma, para ver com os olhos do Espírito. É o que ensina o Espiritismo. (ESE? Cap. 2, item 5.)
+Assim, ilude a si mesmo o homem que considera as coisas de modo terra a terra, do ponto de vista material. Para as apreciar com justeza, tem de as ver do alto, isto é, do ponto de vista espiritual. Aquele, pois, que está de posse da verdadeira sabedoria, tem de isolar do corpo a alma, para ver com os olhos do Espírito. É o que ensina o Espiritismo. (ESE? Cap. 2, item 5.)
 
 {:start="3"}
+
 3. >Enquanto tivermos o nosso corpo e a alma se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a verdade. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a alma nos está ligada ao corpo, de duas uma: ou jamais conheceremos a verdade, ou só a conheceremos após a morte. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a razão por que os verdadeiros filósofos se exercitam em morrer e a morte não se lhes afigura, de modo nenhum, temível.
 
-    Está aí o princípio das faculdades da alma obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da morte. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (🔥 **O Céu e o Inferno**, 1a Parte, cap. 2; 2a Parte, cap. 1.)
+Está aí o princípio das faculdades da alma obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da morte. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (🔥 **O Céu e o Inferno**, 1a Parte, cap. 2; 2a Parte, cap. 1.)
 
 {:start="4"}
+
 4. >A alma impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira vida que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira vida constituíam objeto de suas predileções.
 
-    Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o Espiritismo nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da alma, enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o Espiritismo, acrescentando apenas que a alma, que boas resoluções tomou na erraticidade e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e moral. (🔥 **O Céu e o Inferno**, 2a Parte: Exemplos.)
+Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o Espiritismo nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da alma, enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o Espiritismo, acrescentando apenas que a alma, que boas resoluções tomou na erraticidade e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e moral. (🔥 **O Céu e o Inferno**, 2a Parte: Exemplos.)
 
 {:start="5"}
+
 5. >Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
 
-    É a doutrina dos anjos guardiães, ou Espíritos protetores, e das reencarnações sucessivas, em seguida a intervalos mais ou menos longos de erraticidade.
+É a doutrina dos anjos guardiães, ou Espíritos protetores, e das reencarnações sucessivas, em seguida a intervalos mais ou menos longos de erraticidade.
 
 {:start="6"}
+
 6. >Os demônios ocupam o espaço que separa o céu da Terra; constituem o laço que une o Grande Todo a si mesmo. Não entrando nunca a divindade em comunicação direta com o homem, é por intermédio dos demônios que os deuses entram em comércio e se entretêm com ele, quer durante a vigília, quer durante o sono.
 
-    A palavra daïmon, da qual fizeram o termo demônio, não era, na Antiguidade, tomada à má parte, como nos tempos modernos. Não designava exclusivamente seres malfazejos, mas todos os Espíritos, em geral, dentre os quais se destacavam os Espíritos superiores, chamados deuses, e os menos elevados, ou demônios propriamente ditos, que comunicavam diretamente com os homens. Também o Espiritismo diz que os Espíritos povoam o Espaço; que Deus só se comunica com os homens por intermédio dos Espíritos puros, que são os incumbidos de lhes transmitir as vontades; que os Espíritos se comunicam com eles durante a vigília e durante o sono. Ponde, em lugar da palavra demônio, a palavra Espírito e tereis a Doutrina Espírita; ponde a palavra anjo e tereis a doutrina cristã.
+A palavra daïmon, da qual fizeram o termo demônio, não era, na Antiguidade, tomada à má parte, como nos tempos modernos. Não designava exclusivamente seres malfazejos, mas todos os Espíritos, em geral, dentre os quais se destacavam os Espíritos superiores, chamados deuses, e os menos elevados, ou demônios propriamente ditos, que comunicavam diretamente com os homens. Também o Espiritismo diz que os Espíritos povoam o Espaço; que Deus só se comunica com os homens por intermédio dos Espíritos puros, que são os incumbidos de lhes transmitir as vontades; que os Espíritos se comunicam com eles durante a vigília e durante o sono. Ponde, em lugar da palavra demônio, a palavra Espírito e tereis a Doutrina Espírita; ponde a palavra anjo e tereis a doutrina cristã.
 
 {:start="7"}
+
 7. >A preocupação constante do filósofo (tal como o compreendiam Sócrates e Platão) é a de tomar o maior cuidado com a alma, menos pelo que respeita a esta vida, que não dura mais que um instante, do que tendo em vista a eternidade. Desde que a alma é imortal, não será prudente viver visando à eternidade?
 
-    O Cristianismo e o Espiritismo ensinam a mesma coisa.
+O Cristianismo e o Espiritismo ensinam a mesma coisa.
 
 {:start="8"}
+
 8. >Se a alma é imaterial, tem de passar, após essa vida, a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a alma pura, verdadeiramente imaterial, que se alimente, como Deus, de ciência e pensamentos, da alma mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na Terra.
 
-    Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da alma. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o Espiritismo o prova com os inúmeros exemplos que nos põe sob as vistas. (🔥**O Céu e o Inferno**, 2a Parte.)
+Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da alma. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o Espiritismo o prova com os inúmeros exemplos que nos põe sob as vistas. (🔥**O Céu e o Inferno**, 2a Parte.)
 
 {:start="9"}
+
 9. >Se a morte fosse a dissolução completa do homem, muito ganhariam com a morte os maus, pois se veriam livres, ao mesmo tempo, do corpo, da alma e dos vícios. Aquele que guarnecer a alma, não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.
 
-    Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o nada, anula toda responsabilidade moral ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra vida. Por meio de exemplos, que todos os dias nos apresenta, o Espiritismo mostra quão penoso é, para o mau, o passar desta à outra vida, a entrada na vida futura. (🔥 **O Céu e o Inferno**, 2a Parte, cap. 1.)
+Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o nada, anula toda responsabilidade moral ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra vida. Por meio de exemplos, que todos os dias nos apresenta, o Espiritismo mostra quão penoso é, para o mau, o passar desta à outra vida, a entrada na vida futura. (🔥 **O Céu e o Inferno**, 2a Parte, cap. 1.)
 
 {:start="10"}
+
 10. >O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.)
 
-    Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 
+Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 
 
-    >Se alguém vos bater numa face, apresentai-lhe a outra.
-    >
-    >✝️ LIVRO? Cap. 12, itens 7 e 8
+>Se alguém vos bater numa face, apresentai-lhe a outra.
+>
+>✝️ LIVRO? Cap. 12, itens 7 e 8
 
 {:start="11"}
+
 11. >De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
 
-     Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
+Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
 
-     Houvessem Sócrates e Platão conhecido os ensinos que o Cristo difundiu quinhentos anos mais tarde e os que agora o Espiritismo espalha, e não teriam falado de outro modo. Não há nisso, entretanto, o que surpreenda, se considerarmos que as grandes verdades são eternas e que os Espíritos adiantados hão de tê-las conhecido antes de virem à Terra, para onde as trouxeram; que Sócrates, Platão e os grandes filósofos daqueles tempos bem podem, depois, ter sido dos que secundaram o Cristo na sua missão divina, escolhidos para esse fim precisamente por se acharem, mais do que outros, em condições de lhe compreenderem as sublimes lições; que, finalmente, pode dar-se façam eles agora parte da plêiade dos Espíritos encarregados de ensinar aos homens as mesmas verdades.
+Houvessem Sócrates e Platão conhecido os ensinos que o Cristo difundiu quinhentos anos mais tarde e os que agora o Espiritismo espalha, e não teriam falado de outro modo. Não há nisso, entretanto, o que surpreenda, se considerarmos que as grandes verdades são eternas e que os Espíritos adiantados hão de tê-las conhecido antes de virem à Terra, para onde as trouxeram; que Sócrates, Platão e os grandes filósofos daqueles tempos bem podem, depois, ter sido dos que secundaram o Cristo na sua missão divina, escolhidos para esse fim precisamente por se acharem, mais do que outros, em condições de lhe compreenderem as sublimes lições; que, finalmente, pode dar-se façam eles agora parte da plêiade dos Espíritos encarregados de ensinar aos homens as mesmas verdades.
 
 {:start="12"}
+
 12. >Nunca se deve retribuir com outra uma injustiça, nem fazer mal a ninguém, seja qual for o dano que nos hajam causado. Poucos, no entanto, serão os que admitam esse princípio, e os que se desentenderem a tal respeito nada mais farão, sem dúvida, do que se votarem uns aos outros mútuo desprezo.
 
-     Não está aí o princípio de caridade, que prescreve não se retribua o mal com o mal e se perdoe aos inimigos?
+Não está aí o princípio de caridade, que prescreve não se retribua o mal com o mal e se perdoe aos inimigos?
 
 {:start="13"}
+
 13. >É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
 
-     Esta máxima: “Pelos frutos é que se conhece a árvore”, se encontra muitas vezes repetida textualmente no Evangelho.
+Esta máxima: “Pelos frutos é que se conhece a árvore”, se encontra muitas vezes repetida textualmente no Evangelho.
 
 {:start="14"}
+
 14. >A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (ESE? Cap. 16)
 
 {:start="15"}
+
 15. >As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (ESE? Cap. 10, itens 7 e 8.)
 
 {:start="16"}
+
 16. >Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
 
-     O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que: O amor não é nem um deus, nem um mortal, mas um grande demônio, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
+O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que: O amor não é nem um deus, nem um mortal, mas um grande demônio, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
 
 {:start="17"}
+
 17. >A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
 
-     É quase a doutrina cristã sobre a graça; mas se a virtude é um dom de Deus, é um favor e, então, pode perguntar-se por que não é concedida a todos. Por outro lado, se é um dom, carece de mérito para aquele que a possui. O Espiritismo é mais explícito, dizendo que aquele que possui a virtude a adquiriu por seus esforços, em existências sucessivas, despojando-se pouco a pouco de suas imperfeições. A graça é a força que Deus faculta ao homem de boa vontade para se expungir do mal e praticar o bem.
+É quase a doutrina cristã sobre a graça; mas se a virtude é um dom de Deus, é um favor e, então, pode perguntar-se por que não é concedida a todos. Por outro lado, se é um dom, carece de mérito para aquele que a possui. O Espiritismo é mais explícito, dizendo que aquele que possui a virtude a adquiriu por seus esforços, em existências sucessivas, despojando-se pouco a pouco de suas imperfeições. A graça é a força que Deus faculta ao homem de boa vontade para se expungir do mal e praticar o bem.
 
 {:start="18"}
+
 18. >É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
 
-     Diz o Evangelho: 
+Diz o Evangelho: 
 
-     >Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
-     >
-     >✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
-     >LIVRO? Cap. 10, itens 9 e 10
+>Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
+>
+>✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
+>LIVRO? Cap. 10, itens 9 e 10
 
 {:start="19"}
+
 19. >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
 
-     O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
+O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
 
 {:start="20"}
+
 20. >Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.
 
      Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (ESE 2, 3 e 4).
 
 {:start="21"}
+
 21. >Ajuizado serás, não supondo que sabes o que ignoras.
 
-     Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: 
+Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: 
 
-     - Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
+- Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
 
-     É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
+É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
-     Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
+Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
 [🔼 voltar um nível](#ESE-0-03)
 
@@ -1355,25 +1375,94 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 #### `ESE-1-08-01` 📃 Simplicidade e pureza de coração {ESE-1-08-01}
 
-CONTENT
+1. Bem-aventurados os que têm puro o coração, porquanto verão a Deus. (Mateus, 5:8.)
+
+2. Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, Jesus, vendo isso, zangou-se e lhes disse: “Deixai que venham a mim as criancinhas e não as impeçais, porquanto o Reino dos Céus é para os que se lhes assemelham. Digo-vos, em verdade, que aquele que não receber o Reino de Deus como uma criança, nele não entrará.” — E, depois de as abraçar, abençoou-as, impondo-lhes as mãos. (Marcos, 10:13 a 16.)
+
+3. A pureza do coração é inseparável da simplicidade e da humildade. Exclui toda ideia de egoísmo e de orgulho. Por isso é que Jesus toma a infância como emblema dessa pureza, do mesmo modo que a tomou como o da humildade.
+
+   Poderia parecer menos justa essa comparação, considerando-se que o Espírito da criança pode ser muito antigo e que traz, renascendo para a vida corporal, as imperfeições de que se não tenha despojado em suas precedentes existências. Só um Espírito que houvesse chegado à perfeição nos poderia oferecer o tipo da verdadeira pureza. É exata a comparação, porém, do ponto de vista da vida presente, porquanto a criancinha, não havendo podido ainda manifestar nenhuma tendência perversa, nos apresenta a imagem da inocência e da candura. Daí o não dizer Jesus, de modo absoluto, que o Reino dos Céus é para elas, mas para os que se lhes assemelhem.
+
+4. Pois que o Espírito da criança já viveu, por que não se mostra, desde o nascimento, tal qual é? Tudo é sábio nas obras de Deus. A criança necessita de cuidados especiais, que somente a ternura materna lhe pode dispensar, ternura que se acresce da fraqueza e da ingenuidade da criança. Para uma mãe, seu filho é sempre um anjo e assim era preciso que fosse, para lhe cativar a solicitude. Ela não houvera podido ter-lhe o mesmo devotamento, se, em vez da graça ingênua, deparasse nele, sob os traços infantis, um caráter viril e as ideias de um adulto e, ainda menos, se lhe viesse a conhecer o passado.
+
+   Aliás, faz-se necessário que a atividade do princípio inteligente seja proporcionada à fraqueza do corpo, que não poderia resistir a uma atividade muito grande do Espírito, como se verifica nos indivíduos grandemente precoces. Essa a razão por que, ao aproximar-se-lhe a encarnação, o Espírito entra em perturbação e perde pouco a pouco a consciência de si mesmo, ficando, por certo tempo, numa espécie de sono, durante o qual todas as suas faculdades permanecem em estado latente. É necessário esse estado de transição para que o Espírito tenha um novo ponto de partida e para que esqueça, em sua nova existência, tudo aquilo que a possa entravar. Sobre ele, no entanto, reage o passado. É assim que o Espírito renasce melhor, mais forte, moral e intelectualmente, sustentado e secundado pela intuição que conserva da experiência adquirida.
+
+   A partir do nascimento, suas ideias tomam gradualmente impulso, à medida que os órgãos se desenvolvem, pelo que se pode dizer que, no curso dos primeiros anos, o Espírito é verdadeiramente criança, por se acharem ainda adormecidas as ideias que lhe formam o fundo do caráter. Durante o tempo em que seus instintos se conservam amodorrados, ele é mais maleável e, por isso mesmo, mais acessível às impressões capazes de lhe modificarem a natureza e de fazê-lo progredir, o que torna mais fácil a tarefa que incumbe aos pais.
+
+   O Espírito, pois, enverga temporariamente a túnica da inocência e, assim, Jesus está com a verdade, quando, sem embargo da anterioridade da alma, toma a criança por símbolo da pureza e da simplicidade.
 
 #### `ESE-1-08-02` 📃 Pecado por pensamentos. Adultério {#ESE-1-08-02}
 
-CONTENT
+5. Aprendestes que foi dito aos antigos: “Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.” (Mateus, 5:27 e 28.)
+
+6. A palavra adultério não deve absolutamente ser entendida aqui no sentido exclusivo da acepção que lhe é própria, porém, num sentido mais geral. Muitas vezes Jesus a empregou por extensão, para designar o mal, o pecado, todo e qualquer pensamento mau, como, por exemplo, nesta passagem: “Porquanto se alguém se envergonhar de mim e das minhas palavras, dentre esta raça adúltera e pecadora, o Filho do Homem também se envergonhará dele, quando vier acompanhado dos santos anjos, na glória de seu Pai.” (Marcos, 8:38.)
+
+A verdadeira pureza não está somente nos atos; está também no pensamento, porquanto aquele que tem puro o coração, nem sequer pensa no mal. Foi o que Jesus quis dizer: Ele condena o pecado, mesmo em pensamento, porque é sinal de impureza.10
+
+7. Esse princípio suscita naturalmente a seguinte questão: Sofrem-se as consequências de um pensamento mau, embora nenhum efeito produza?
+
+   Cumpre se faça aqui uma importante distinção. À medida que avança na vida espiritual, a alma que enveredou pelo mau caminho se esclarece e despoja pouco a pouco de suas imperfeições, conforme a maior ou menor boa vontade que demonstre, em virtude do seu livre-arbítrio. Todo pensamento mau resulta, pois, da imperfeição da alma; mas, de acordo com o desejo que alimenta de depurar-se, mesmo esse mau pensamento se lhe torna uma ocasião de adiantar-se, porque ela o repele com energia. É indício de esforço por apagar uma mancha. Não cederá, se se apresentar oportunidade de satisfazer a um mau desejo. Depois que haja resistido, sentir-se-á mais forte e contente com a sua vitória.
+
+   Aquela que, ao contrário, não tomou boas resoluções, procura ocasião de praticar o mau ato e, se não o leva a efeito, não é por virtude da sua vontade, mas por falta de ensejo. É, pois, tão culpada quanto o seria se o cometesse.
+
+   Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso realizado; naquele a quem essa ideia acode, mas que a repele, há progresso em vias de realizar-se; naquele, finalmente, que pensa no mal e nesse pensamento se compraz, o mal ainda existe na plenitude da sua força. Num, o trabalho está feito; no outro, está por fazer-se. Deus, que é justo, leva em conta todas essas gradações na responsabilidade dos atos e dos pensamentos do homem.
 
 #### `ESE-1-08-03` 📃 Verdadeira pureza. Mãos não lavadas {#ESE-1-08-03}
 
-CONTENT
+8. Então os escribas e os fariseus, que tinham vindo de Jerusalém, aproximaram-se de Jesus e lhe disseram: “Por que violam os teus discípulos a tradição dos antigos, uma vez que não lavam as mãos quando fazem suas refeições?”
+
+   Jesus lhes respondeu: “Por que violais vós outros o mandamento de Deus, para seguir a vossa tradição? Porque Deus pôs este mandamento: Honrai a vosso pai e a vossa mãe; e este outro: Seja punido de morte aquele que disser a seu pai ou a sua mãe palavras ultrajantes; e vós outros, no entanto, dizeis: Aquele que haja dito a seu pai ou a sua mãe: Toda oferenda que faço a Deus vos é proveitosa, satisfaz à lei — ainda que depois não honre, nem assista a seu pai ou a sua mãe. Tornam assim inútil o mandamento de Deus, pela vossa tradição.
+
+   Hipócritas, bem profetizou de vós Isaías, quando disse: Este povo me honra de lábios, mas conserva longe de mim o coração; é em vão que me honram ensinando máximas e ordenações humanas.”
+
+   Depois, tendo chamado o povo, disse: “Escutai e compreendei bem isto: Não é o que entra na boca que macula o homem; o que sai da boca do homem é que o macula. O que sai da boca procede do coração e é o que torna impuro o homem; porquanto do coração é que partem os maus pensamentos, os assassínios, os adultérios, as fornicações, os latrocínios, os falsos-testemunhos, as blasfêmias e as maledicências.
+
+   Essas são as coisas que tornam impuro o homem; o comer sem haver lavado as mãos não é o que o torna impuro.”
+
+   Então, aproximando-se dele, disseram-lhe seus discípulos: “Sabeis que, ouvindo o que acabais de dizer, os fariseus se escandalizaram?” — Ele, porém, respondeu: “Arrancada será toda planta que meu Pai celestial não plantou. — Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.” (Mateus, 15:1 a 20.)
+
+9. Enquanto Ele falava, um fariseu lhe pedia que fosse jantar em sua companhia. Jesus foi e sentou-se à mesa. O fariseu entrou então a dizer consigo mesmo: “Por que não lavou Ele as mãos antes de jantar?” — Disse-lhe, porém, o Senhor: “Vós outros, fariseus, pondes grande cuidado em limpar o exterior do copo e do prato; entretanto, o interior dos vossos corações está cheio de rapinas e de iniquidades. Insensatos que sois! aquele que fez o exterior não é o que faz também o interior?” (Lucas, 11:37 a 40.)
+
+10. Os judeus haviam desprezado os verdadeiros mandamentos de Deus para se aferrarem à prática dos regulamentos que os homens tinham estatuído e da rígida observância desses regulamentos faziam casos de consciência. A substância, muito simples, acabara por desaparecer debaixo da complicação da forma. Como fosse muito mais fácil praticar atos exteriores, do que se reformar moralmente, lavar as mãos do que expurgar o coração, iludiram-se a si próprios os homens, tendo-se como quites para com Deus, por se conformarem com aquelas práticas, conservando-se tais quais eram, visto se lhes ter ensinado que Deus não exigia mais do que isso. Daí o haver dito o profeta: É em vão que este povo me honra de lábios, ensinando máximas e ordenações humanas.
+
+   Verificou-se o mesmo com a doutrina moral do Cristo, que acabou por ser atirada para segundo plano, donde resulta que muitos cristãos, a exemplo dos antigos judeus, consideram mais garantida a salvação por meio das práticas exteriores do que pelas da moral. É a essas adições, feitas pelos homens à Lei de Deus, que Jesus alude, quando diz: Arrancada será toda planta que meu Pai celestial não plantou.
+
+   O objetivo da religião é conduzir a Deus o homem. Ora, este não chega a Deus senão quando se torna perfeito. Logo, toda religião que não torna melhor o homem, não alcança o seu objetivo. Toda aquela em que o homem julgue poder apoiar-se para fazer o mal, ou é falsa, ou está falseada em seu princípio. Tal o resultado que dão as em que a forma sobreleva ao fundo. Nula é a crença na eficácia dos sinais exteriores, se não obsta a que se cometam assassínios, adultérios, espoliações, que se levantem calúnias, que se causem danos ao próximo, seja no que for. Semelhantes religiões fazem supersticiosos, hipócritas, fanáticos; não, porém, homens de bem.
+
+   Não basta se tenham as aparências da pureza; acima de tudo, é preciso ter a do coração.
 
 #### `ESE-1-08-04` 📃 Escândalos. Se a vossa mão é motivo de escândalo, cortai-a {#ESE-1-08-04}
 
-CONTENT
+11. Se algum escandalizar a um destes pequenos que creem em mim, melhor fora que lhe atassem ao pescoço uma dessas mós que um asno faz girar e que o lançassem no fundo do mar.
+
+Ai do mundo por causa dos escândalos [^11]; pois é necessário que venham escândalos; mas ai do homem por quem o escândalo venha.
+
+Tende muito cuidado em não desprezar um destes pequenos. Declaro-vos que seus anjos no céu veem incessantemente a face de meu Pai que está nos céus, porquanto o Filho do Homem veio salvar o que estava perdido.
+
+Se a vossa mão ou o vosso pé vos é objeto de escândalo, cortai-os e lançai-os longe de vós; melhor será para vós que entreis na vida tendo um só pé ou uma só mão, do que terdes dois e serdes lançados no fogo eterno. Se o vosso olho vos é objeto de escândalo, arrancai-o e lançai-o longe de vós; melhor para vós será que entreis na vida tendo um só olho, do que terdes dois e serdes precipitados no fogo do inferno. (Mateus,5:29 e 30; 18:6 a 11.)
+
+12. No sentido vulgar, escândalo se diz de toda ação que de modo ostensivo vá de encontro à moral ou ao decoro. O escândalo não está na ação em si mesma, mas na repercussão que possa ter. A palavra escândalo implica sempre a ideia de um certo arruído. Muitas pessoas se contentam com evitar o escândalo, porque este lhes faria sofrer o orgulho, lhes acarretaria perda de consideração da parte dos homens. Desde que as suas torpezas fiquem ignoradas, é quanto basta para que se lhes conserve em repouso a consciência. São, no dizer de Jesus: “sepulcros branqueados por fora, mas cheios, por dentro, de podridão; vasos limpos no exterior e sujos no interior”.
+
+   No sentido evangélico, a acepção da palavra escândalo, tão amiúde empregada, é muito mais geral, pelo que, em certos casos, não se lhe apreende o significado. Já não é somente o que afeta a consciência de outrem, é tudo o que resulta dos vícios e das imperfeições humanas, toda reação má de um indivíduo para outro, com ou sem repercussão. O escândalo, neste caso, é o resultado efetivo do mal moral.
+
+13. É preciso que haja escândalo no mundo, disse Jesus, porque, imperfeitos como são na Terra, os homens se mostram propensos a praticar o mal, e porque, árvores más, só maus frutos dão. Deve-se, pois, entender por essas palavras que o mal é uma consequência da imperfeição dos homens, e não que haja, para estes, a obrigação de praticá-lo.
+
+14. É necessário que o escândalo venha, porque, estando em expiação na Terra, os homens se punem a si mesmos pelo contato de seus vícios, cujas primeiras vítimas são eles próprios e cujos inconvenientes acabam por compreender. Quando estiverem cansados de sofrer devido ao mal, procurarão remédio no bem. A reação desses vícios serve, pois, ao mesmo tempo, de castigo para uns e de provas para outros. É assim que do mal tira Deus o bem e que os próprios homens utilizam as coisas más ou as escórias.
+
+15. Sendo assim, dirão, o mal é necessário e durará sempre, porquanto, se desaparecesse, Deus se veria privado de um poderoso meio de corrigir os culpados. Logo, é inútil cuidar de melhorar os homens. Deixando, porém, de haver culpados, também desnecessário se tornariam quaisquer castigos. Suponhamos que a Humanidade se transforme e passe a ser constituída de homens de bem: nenhum pensará em fazer mal ao seu próximo e todos serão ditosos por serem bons. Tal a condição dos mundos elevados, donde já o mal foi banido; tal virá a ser a da Terra, quando houver progredido bastante. No entanto, ao mesmo tempo que alguns mundos se adiantam, outros se formam, povoados de Espíritos primitivos e que, além disso, servem de habitação, de exílio e de estância expiatória a Espíritos imperfeitos, rebeldes, obstinados no mal, expulsos de mundos que se tornaram felizes.
+
+16. Mas ai daquele por quem venha o escândalo. Quer dizer que o mal sendo sempre o mal, aquele que a seu mau grado servir de instrumento à Justiça divina, aquele cujos maus instintos foram utilizados, nem por isso deixou de praticar o mal e de merecer punição. Assim é, por exemplo, que um filho ingrato é uma punição ou uma prova para o pai que sofre com isso, porque esse pai talvez tenha sido também um mau filho que fez sofresse seu pai. Passa ele pela pena de talião, mas essa circunstância não pode servir de escusa ao filho que, a seu turno, terá de ser castigado em seus próprios filhos, ou de outra maneira.
+
+17. Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria absurda se tomada ao pé da letra, e que apenas significa que cada um deve destruir em si toda causa de escândalo, isto é, de mal; arrancar do coração todo sentimento impuro e toda tendência viciosa. Quer dizer também que, para o homem, mais vale ter cortada uma das mãos, antes que servir essa mão de instrumento para uma ação má; ficar privado da vista, antes que lhe servirem os olhos para conceber maus pensamentos. Jesus nada disse de absurdo, para quem quer que apreenda o sentido alegórico e profundo de suas palavras. Muitas coisas, entretanto, não podem ser compreendidas sem a chave que para as decifrar o Espiritismo faculta.
+
+
+
+
 
 #### `ESE-1-08-05` 📃 Instruções dos Espíritos {#ESE-1-08-05}
 
 ##### `ESE-1-08-05-01` 📃 Deixai que venham a mim as criancinhas {#ESE-1-08-05-01}
 
-CONTENT
 
 ##### `ESE-1-08-05-02` 📃 Bem-aventurados os que têm fechados os olhos 
 
@@ -1554,3 +1643,9 @@ Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do
 [^6]: 6. N.E.: Ver Nota Explicativa.
 
 [^7]: 7 A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: *...genitus ex aqua et Spiritu...* *...et quod genitum est ex Spiritu, spiritus est*. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
+
+
+
+
+
+[^11]: 11 N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
