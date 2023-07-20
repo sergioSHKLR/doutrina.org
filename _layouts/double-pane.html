@@ -112,9 +112,6 @@
 </head>
 
 <body>
-
-  <button onclick="myFunction()">Abre / Fecha</button>
-
   <!--
     <div class="wrapper">
       <header>
@@ -158,7 +155,7 @@
       </footer>
     -->
   </div>
-  <div id="iframe-wrapper">
+  <div id="iframe-wrapper" class="iframe-wrapper">
     <p style="margin-left: 30px;"><a href="https://pt.m.wikipedia.org" target="ext">Wikipédia <b
           style="color: blue;">⬇</b></a> | <a href="https://pt.m.wiktionary.org" target="ext">Wikicionário <b
           style="color: blue;">⬇</b></a> | <a
@@ -170,16 +167,7 @@
     <iframe id="external" src="../angel-splash.html" name="ext"></iframe>
   </div>
   <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
-  <script>
-    function myFunction() {
-      var x = document.getElementById("iframe-wrapper");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
-      }
-    }
-    </script>
+
 </body>
 
 </html>

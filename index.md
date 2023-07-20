@@ -8,7 +8,7 @@ layout: double-pane
 
 ---
 
-  <button onclick="myFunction()">Abre / Fecha</button>
+<button onclick="removeElement()">✂️</button>
 
 ---
 <!-- ## Bem vindo!
@@ -118,12 +118,7 @@ Deus abençoa, sempre!
 <p>&nbsp;</p>
 
 <script>
-    function myFunction() {
-      var x = document.getElementById("iframe-wrapper");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
-      }
-    }
+function removeElement() {
+  document.getElementById("iframe-wrapper").style.display = "none";
+}
     </script>
