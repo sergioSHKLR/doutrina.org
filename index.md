@@ -6,8 +6,6 @@ layout: single-pane
 
 # 💧 doutrina.org
 
----
-
 <!-- ## Bem vindo!
 
 Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https://github.com/sergioSHKLR/doutrina.org) e todo seu código é accessível.
