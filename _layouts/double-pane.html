@@ -6,8 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://hypothes.is/embed.js" async></script>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
-    <style>
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
+  <style>
     a {
       font-weight: bold;
     }
@@ -47,58 +48,67 @@
       overscroll-behavior: contain;
     }
 
- blockquote.quote {
-     @extend .alert-success;
-     border-left: 4px solid grey;
-     margin-left: 20px;
-     padding-left: 20px;
-     background-color: whitesmoke;
-}
- blockquote.quote p:before {
-     content: open-quote;
-     font-weight:bold;
-     font-family: serif;
-     font-size: 2em;
-     vertical-align: middle;
-     line-height: 1em;
-     margin-right: 0.2em;
-}
- blockquote.quote p:after {
-     content: close-quote;
-     font-weight:bold;
-     font-family: serif;
-     font-size: 2em;
-     vertical-align: bottom;
-     line-height: 1em;
-     margin-left: 0.2em;
-}
- ol.other {
-     border-left: 4px solid dimgrey;
-     margin-left: 0px;
-     padding-left: 30px;
-     background-color: whitesmoke;
-}
- blockquote.bible {
-     border-left: 4px solid purple;
-     margin-left: 20px;
-     padding-left: 20px;
-     background-color: whitesmoke;
-}
- blockquote.spirit {
-     border-left: 4px solid dodgerblue;
-     margin-left: 20px;
-     padding-left: 20px;
-     background-color: whitesmoke;
-}
+    blockquote.quote {
+      border-left: 4px solid grey;
+      margin-left: 20px;
+      padding-left: 20px;
+      background-color: whitesmoke;
+    }
 
+    blockquote.quote p:before {
+      content: open-quote;
+      font-weight: bold;
+      font-family: serif;
+      font-size: 2em;
+      vertical-align: middle;
+      line-height: 1em;
+      margin-right: 0.2em;
+    }
+
+    blockquote.quote p:after {
+      content: close-quote;
+      font-weight: bold;
+      font-family: serif;
+      font-size: 2em;
+      vertical-align: bottom;
+      line-height: 1em;
+      margin-left: 0.2em;
+    }
+
+    ol.other {
+      margin-left: 0px;
+      padding-left: 30px;
+      background-color: whitesmoke;
+    }
+
+    blockquote.bible {
+      border-left: 4px solid mediumorchid;
+      margin-left: 20px;
+      padding-left: 20px;
+      background-color: whitesmoke;
+    }
+
+    ol.bible {
+      border-left: 4px solid mediumorchid;
+      margin-left: 0px;
+      padding-left: 40px;
+      background-color: whitesmoke;
+    }
+
+    blockquote.spirit {
+      border-left: 4px solid dodgerblue;
+      margin-left: 20px;
+      padding-left: 20px;
+      background-color: whitesmoke;
+    }
   </style>
 
-{% seo %}
-<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-<!--[if lt IE 9]>
+  {% seo %}
+  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <!--[if lt IE 9]>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 <![endif]-->
-{% include head-custom.html %}
+  {% include head-custom.html %}
 </head>
 
 <body>
@@ -156,7 +166,7 @@
 
     <iframe id="external" src="../angel-splash.html" name="ext"></iframe>
   </div>
-  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>
