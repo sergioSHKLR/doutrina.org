@@ -1,6 +1,6 @@
 ---
 title: 🕊️ ESE
-layout: double-pane
+layout: single-pane
 ---
 
 [⬅ 💧 doutrina.org](./index.html)
