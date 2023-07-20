@@ -46,6 +46,51 @@
       overflow: scroll;
       overscroll-behavior: contain;
     }
+
+ blockquote.quote {
+     @extend .alert-success;
+     border-left: 4px solid grey;
+     margin-left: 20px;
+     padding-left: 20px;
+     background-color: whitesmoke;
+}
+ blockquote.quote p:before {
+     content: open-quote;
+     font-weight:bold;
+     font-family: serif;
+     font-size: 2em;
+     vertical-align: middle;
+     line-height: 1em;
+     margin-right: 0.2em;
+}
+ blockquote.quote p:after {
+     content: close-quote;
+     font-weight:bold;
+     font-family: serif;
+     font-size: 2em;
+     vertical-align: bottom;
+     line-height: 1em;
+     margin-left: 0.2em;
+}
+ ol.other {
+     border-left: 4px solid dimgrey;
+     margin-left: 0px;
+     padding-left: 30px;
+     background-color: whitesmoke;
+}
+ blockquote.bible {
+     border-left: 4px solid purple;
+     margin-left: 20px;
+     padding-left: 20px;
+     background-color: whitesmoke;
+}
+ blockquote.spirit {
+     border-left: 4px solid dodgerblue;
+     margin-left: 20px;
+     padding-left: 20px;
+     background-color: whitesmoke;
+}
+
   </style>
 
 {% seo %}
