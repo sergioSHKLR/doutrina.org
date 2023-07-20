@@ -1,6 +1,6 @@
 ---
 title: 🕊️ ESE
-layout: single-pane
+layout: double-pane
 ---
 
 [⬅ 💧 doutrina.org](./index.html)
@@ -33,35 +33,21 @@ layout: single-pane
 
 ---
 
-| 🕊️ **O Evangelho segundo o Espiritismo** |
-|:---:|
+|
+|           🕊️ **O Evangelho segundo o Espiritismo**            |
+| :---: |
 |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
 |
 | Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
 |
-| Por **Allan Kardec**. |
+|                    Por **Allan Kardec**.                     |
 |
-| Tradução de Guillon Ribeiro |
+|                 Tradução de Guillon Ribeiro                  |
 |
-| Título do original francês |
-| L’Évangile selon le spiritisme |
-| (Paris, abril de 1864) |
-
-| Espiritismo Experimental |
-|:---:|
-|
-| ✒️ **O Livro dos Médiuns** |
-|
-| Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 **O Livro dos Espíritos**. |
-|
-| Por **Allan Kardec**. |
-|
-| Tradução de Guillon Ribeiro |
-|
-| Título do original francês |
-| Le livre des médiums |
-| (Paris, 18 de janeiro de 1861) |
+|                  Título do original francês                  |
+|                L’Évangile selon le spiritisme                |
+|                    (Paris, abril de 1864)                    |
 
 [🔼 voltar um nível](#ESE-0)
 
@@ -1637,7 +1623,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ### `ESE-1-08` 📑 08. Bem-aventurados os que tem puro o coração {#ESE-1-08}
 
-
 - [`ESE-1-08-01` 📃 Simplicidade e pureza de coração](#ESE-1-08-01) 
 - [`ESE-1-08-02` 📃 Pecado por pensamentos. Adultério](#ESE-1-08-02) 
 - [`ESE-1-08-03` 📃 Verdadeira pureza. Mãos não lavadas](#ESE-1-08-03) 
@@ -1652,75 +1637,104 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### `ESE-1-08-01` 📃 Simplicidade e pureza de coração {ESE-1-08-01}
 
-1. Bem-aventurados os que têm puro o coração, porquanto verão a Deus. (Mateus, 5:8.)
+1. >*Bem-aventurados os que têm puro o coração, porquanto verão a Deus.*
+   >
+   >✝️ **Mateus, cap. 5, vers. 8**
+   {:.bible}
 
-2. Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, Jesus, vendo isso, zangou-se e lhes disse: “Deixai que venham a mim as criancinhas e não as impeçais, porquanto o Reino dos Céus é para os que se lhes assemelham. Digo-vos, em verdade, que aquele que não receber o Reino de Deus como uma criança, nele não entrará.” — E, depois de as abraçar, abençoou-as, impondo-lhes as mãos. (Marcos, 10:13 a 16.)
+2. >Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, Jesus, vendo isso, zangou-se e lhes disse:  
+— *Deixai que venham a mim as criancinhas e não as impeçais, porquanto o Reino dos Céus é para os que se lhes assemelham. Digo-vos, em verdade, que aquele que não receber o Reino de Deus como uma criança, nele não entrará.* E, depois de as abraçar, abençoou-as, impondo-lhes as mãos.
+    >
+    >✝️ **Marcos, cap. 10, vers. 13 a 16**
+    {:.bible}
 
 3. A pureza do coração é inseparável da simplicidade e da humildade. Exclui toda ideia de egoísmo e de orgulho. Por isso é que Jesus toma a infância como emblema dessa pureza, do mesmo modo que a tomou como o da humildade.
 
-Poderia parecer menos justa essa comparação, considerando-se que o Espírito da criança pode ser muito antigo e que traz, renascendo para a vida corporal, as imperfeições de que se não tenha despojado em suas precedentes existências. Só um Espírito que houvesse chegado à perfeição nos poderia oferecer o tipo da verdadeira pureza. É exata a comparação, porém, do ponto de vista da vida presente, porquanto a criancinha, não havendo podido ainda manifestar nenhuma tendência perversa, nos apresenta a imagem da inocência e da candura. Daí o não dizer Jesus, de modo absoluto, que o Reino dos Céus é para elas, mas para os que se lhes assemelhem.
+   Poderia parecer menos justa essa comparação, considerando-se que o Espírito da criança pode ser muito antigo e que traz, renascendo para a vida corporal, as imperfeições de que se não tenha despojado em suas precedentes existências. Só um Espírito que houvesse chegado à perfeição nos poderia oferecer o tipo da verdadeira pureza. É exata a comparação, porém, do ponto de vista da vida presente, porquanto a criancinha, não havendo podido ainda manifestar nenhuma tendência perversa, nos apresenta a imagem da inocência e da candura. Daí o não dizer Jesus, de modo absoluto, que o Reino dos Céus é para elas, mas para os que se lhes assemelhem.
 
 4. Pois que o Espírito da criança já viveu, por que não se mostra, desde o nascimento, tal qual é? Tudo é sábio nas obras de Deus. A criança necessita de cuidados especiais, que somente a ternura materna lhe pode dispensar, ternura que se acresce da fraqueza e da ingenuidade da criança. Para uma mãe, seu filho é sempre um anjo e assim era preciso que fosse, para lhe cativar a solicitude. Ela não houvera podido ter-lhe o mesmo devotamento, se, em vez da graça ingênua, deparasse nele, sob os traços infantis, um caráter viril e as ideias de um adulto e, ainda menos, se lhe viesse a conhecer o passado.
 
-Aliás, faz-se necessário que a atividade do princípio inteligente seja proporcionada à fraqueza do corpo, que não poderia resistir a uma atividade muito grande do Espírito, como se verifica nos indivíduos grandemente precoces. Essa a razão por que, ao aproximar-se-lhe a encarnação, o Espírito entra em perturbação e perde pouco a pouco a consciência de si mesmo, ficando, por certo tempo, numa espécie de sono, durante o qual todas as suas faculdades permanecem em estado latente. É necessário esse estado de transição para que o Espírito tenha um novo ponto de partida e para que esqueça, em sua nova existência, tudo aquilo que a possa entravar. Sobre ele, no entanto, reage o passado. É assim que o Espírito renasce melhor, mais forte, moral e intelectualmente, sustentado e secundado pela intuição que conserva da experiência adquirida.
+   Aliás, faz-se necessário que a atividade do princípio inteligente seja proporcionada à fraqueza do corpo, que não poderia resistir a uma atividade muito grande do Espírito, como se verifica nos indivíduos grandemente precoces. Essa a razão por que, ao aproximar-se-lhe a encarnação, o Espírito entra em perturbação e perde pouco a pouco a consciência de si mesmo, ficando, por certo tempo, numa espécie de sono, durante o qual todas as suas faculdades permanecem em estado latente. É necessário esse estado de transição para que o Espírito tenha um novo ponto de partida e para que esqueça, em sua nova existência, tudo aquilo que a possa entravar. Sobre ele, no entanto, reage o passado. É assim que o Espírito renasce melhor, mais forte, moral e intelectualmente, sustentado e secundado pela intuição que conserva da experiência adquirida.
 
-A partir do nascimento, suas ideias tomam gradualmente impulso, à medida que os órgãos se desenvolvem, pelo que se pode dizer que, no curso dos primeiros anos, o Espírito é verdadeiramente criança, por se acharem ainda adormecidas as ideias que lhe formam o fundo do caráter. Durante o tempo em que seus instintos se conservam amodorrados, ele é mais maleável e, por isso mesmo, mais acessível às impressões capazes de lhe modificarem a natureza e de fazê-lo progredir, o que torna mais fácil a tarefa que incumbe aos pais.
+   A partir do nascimento, suas ideias tomam gradualmente impulso, à medida que os órgãos se desenvolvem, pelo que se pode dizer que, no curso dos primeiros anos, o Espírito é verdadeiramente criança, por se acharem ainda adormecidas as ideias que lhe formam o fundo do caráter. Durante o tempo em que seus instintos se conservam amodorrados, ele é mais maleável e, por isso mesmo, mais acessível às impressões capazes de lhe modificarem a natureza e de fazê-lo progredir, o que torna mais fácil a tarefa que incumbe aos pais.
 
-O Espírito, pois, enverga temporariamente a túnica da inocência e, assim, Jesus está com a verdade, quando, sem embargo da anterioridade da alma, toma a criança por símbolo da pureza e da simplicidade.
+   O Espírito, pois, enverga temporariamente a túnica da inocência e, assim, Jesus está com a verdade, quando, sem embargo da anterioridade da alma, toma a criança por símbolo da pureza e da simplicidade.
 
 #### `ESE-1-08-02` 📃 Pecado por pensamentos. Adultério {#ESE-1-08-02}
 
-5. Aprendestes que foi dito aos antigos: “Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.” (Mateus, 5:27 e 28.)
+{:start="5"}
+5. >Aprendestes que foi dito aos antigos:   
+   >— *Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.*  
+   >
+   >✝️ **Mateus, cap. 5, vers. 27 e 28**
+   {:.bible}
 
-6. A palavra adultério não deve absolutamente ser entendida aqui no sentido exclusivo da acepção que lhe é própria, porém, num sentido mais geral. Muitas vezes Jesus a empregou por extensão, para designar o mal, o pecado, todo e qualquer pensamento mau, como, por exemplo, nesta passagem: “Porquanto se alguém se envergonhar de mim e das minhas palavras, dentre esta raça adúltera e pecadora, o Filho do Homem também se envergonhará dele, quando vier acompanhado dos santos anjos, na glória de seu Pai.” (Marcos, 8:38.)
+6. >A palavra adultério não deve absolutamente ser entendida aqui no sentido exclusivo da acepção que lhe é própria, porém, num sentido mais geral. Muitas vezes Jesus a empregou por extensão, para designar o mal, o pecado, todo e qualquer pensamento mau, como, por exemplo, nesta passagem:  
+   >— *Porquanto se alguém se envergonhar de mim e das minhas palavras, dentre esta raça adúltera e pecadora, o Filho do Homem também se envergonhará dele, quando vier acompanhado dos santos anjos, na glória de seu Pai.*
+   >
+   >✝️ **Marcos, cap. 8, vers. 38**
+   {:.bible}
 
-A verdadeira pureza não está somente nos atos; está também no pensamento, porquanto aquele que tem puro o coração, nem sequer pensa no mal. Foi o que Jesus quis dizer: Ele condena o pecado, mesmo em pensamento, porque é sinal de impureza.10
+   A verdadeira pureza não está somente nos atos; está também no pensamento, porquanto aquele que tem puro o coração, nem sequer pensa no mal. Foi o que Jesus quis dizer: Ele condena o pecado, mesmo em pensamento, porque é sinal de impureza.10
 
 7. Esse princípio suscita naturalmente a seguinte questão: Sofrem-se as consequências de um pensamento mau, embora nenhum efeito produza?
 
-Cumpre se faça aqui uma importante distinção. À medida que avança na vida espiritual, a alma que enveredou pelo mau caminho se esclarece e despoja pouco a pouco de suas imperfeições, conforme a maior ou menor boa vontade que demonstre, em virtude do seu livre-arbítrio. Todo pensamento mau resulta, pois, da imperfeição da alma; mas, de acordo com o desejo que alimenta de depurar-se, mesmo esse mau pensamento se lhe torna uma ocasião de adiantar-se, porque ela o repele com energia. É indício de esforço por apagar uma mancha. Não cederá, se se apresentar oportunidade de satisfazer a um mau desejo. Depois que haja resistido, sentir-se-á mais forte e contente com a sua vitória.
+   Cumpre se faça aqui uma importante distinção. À medida que avança na vida espiritual, a alma que enveredou pelo mau caminho se esclarece e despoja pouco a pouco de suas imperfeições, conforme a maior ou menor boa vontade que demonstre, em virtude do seu livre-arbítrio. Todo pensamento mau resulta, pois, da imperfeição da alma; mas, de acordo com o desejo que alimenta de depurar-se, mesmo esse mau pensamento se lhe torna uma ocasião de adiantar-se, porque ela o repele com energia. É indício de esforço por apagar uma mancha. Não cederá, se se apresentar oportunidade de satisfazer a um mau desejo. Depois que haja resistido, sentir-se-á mais forte e contente com a sua vitória.
 
-Aquela que, ao contrário, não tomou boas resoluções, procura ocasião de praticar o mau ato e, se não o leva a efeito, não é por virtude da sua vontade, mas por falta de ensejo. É, pois, tão culpada quanto o seria se o cometesse.
+   Aquela que, ao contrário, não tomou boas resoluções, procura ocasião de praticar o mau ato e, se não o leva a efeito, não é por virtude da sua vontade, mas por falta de ensejo. É, pois, tão culpada quanto o seria se o cometesse.
 
-Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso realizado; naquele a quem essa ideia acode, mas que a repele, há progresso em vias de realizar-se; naquele, finalmente, que pensa no mal e nesse pensamento se compraz, o mal ainda existe na plenitude da sua força. Num, o trabalho está feito; no outro, está por fazer-se. Deus, que é justo, leva em conta todas essas gradações na responsabilidade dos atos e dos pensamentos do homem.
+   Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso realizado; naquele a quem essa ideia acode, mas que a repele, há progresso em vias de realizar-se; naquele, finalmente, que pensa no mal e nesse pensamento se compraz, o mal ainda existe na plenitude da sua força. Num, o trabalho está feito; no outro, está por fazer-se. Deus, que é justo, leva em conta todas essas gradações na responsabilidade dos atos e dos pensamentos do homem.
 
 #### `ESE-1-08-03` 📃 Verdadeira pureza. Mãos não lavadas {#ESE-1-08-03}
 
-8. Então os escribas e os fariseus, que tinham vindo de Jerusalém, aproximaram-se de Jesus e lhe disseram: “Por que violam os teus discípulos a tradição dos antigos, uma vez que não lavam as mãos quando fazem suas refeições?”
+{:start="8"}
+8. >Então os escribas e os fariseus, que tinham vindo de Jerusalém, aproximaram-se de Jesus e lhe disseram:  
+   >— Por que violam os teus discípulos a tradição dos antigos, uma vez que não lavam as mãos quando fazem suas refeições?  
+   >Jesus lhes respondeu:  
+   >— *Por que violais vós outros o mandamento de Deus, para seguir a vossa tradição? Porque Deus pôs este mandamento: Honrai a vosso pai e a vossa mãe; e este outro: Seja punido de morte aquele que disser a seu pai ou a sua mãe palavras ultrajantes; e vós outros, no entanto, dizeis: Aquele que haja dito a seu pai ou a sua mãe: Toda oferenda que faço a Deus vos é proveitosa, satisfaz à lei — ainda que depois não honre, nem assista a seu pai ou a sua mãe. Tornam assim inútil o mandamento de Deus, pela vossa tradição.*  
+   >*Hipócritas, bem profetizou de vós Isaías, quando disse: Este povo me honra de lábios, mas conserva longe de mim o coração; é em vão que me honram ensinando máximas e ordenações humanas.*  
+   >Depois, tendo chamado o povo, disse:  
+   >— *Escutai e compreendei bem isto: Não é o que entra na boca que macula o homem; o que sai da boca do homem é que o macula. O que sai da boca procede do coração e é o que torna impuro o homem; porquanto do coração é que partem os maus pensamentos, os assassínios, os adultérios, as fornicações, os latrocínios, os falsos-testemunhos, as blasfêmias e as maledicências.*  
+   >*Essas são as coisas que tornam impuro o homem; o comer sem haver lavado as mãos não é o que o torna impuro.*  
+   >Então, aproximando-se dele, disseram-lhe seus discípulos:  
+   >Sabeis que, ouvindo o que acabais de dizer, os fariseus se escandalizaram?
+   >Ele, porém, respondeu:   
+   >— *Arrancada será toda planta que meu Pai celestial não plantou. Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.*
+   >
+   >✝️ **Mateus, cap. 15, vers. 1 a 20**
+   {:.bible}
 
-Jesus lhes respondeu: “Por que violais vós outros o mandamento de Deus, para seguir a vossa tradição? Porque Deus pôs este mandamento: Honrai a vosso pai e a vossa mãe; e este outro: Seja punido de morte aquele que disser a seu pai ou a sua mãe palavras ultrajantes; e vós outros, no entanto, dizeis: Aquele que haja dito a seu pai ou a sua mãe: Toda oferenda que faço a Deus vos é proveitosa, satisfaz à lei — ainda que depois não honre, nem assista a seu pai ou a sua mãe. Tornam assim inútil o mandamento de Deus, pela vossa tradição.
+9. >Enquanto Ele falava, um fariseu lhe pedia que fosse jantar em sua companhia. Jesus foi e sentou-se à mesa. O fariseu entrou então a dizer consigo mesmo:  
+   >— Por que não lavou Ele as mãos antes de jantar?  
+   >Disse-lhe, porém, o Senhor:  
+   >— *Vós outros, fariseus, pondes grande cuidado em limpar o exterior do copo e do prato; entretanto, o interior dos vossos corações está cheio de rapinas e de iniquidades. Insensatos que sois! aquele que fez o exterior não é o que faz também o interior?*
+   >
+   >✝️ **Lucas, cap. 11, vers. 37 a 40**
+   {:.bible}
 
-Hipócritas, bem profetizou de vós Isaías, quando disse: Este povo me honra de lábios, mas conserva longe de mim o coração; é em vão que me honram ensinando máximas e ordenações humanas.”
-
-Depois, tendo chamado o povo, disse: “Escutai e compreendei bem isto: Não é o que entra na boca que macula o homem; o que sai da boca do homem é que o macula. O que sai da boca procede do coração e é o que torna impuro o homem; porquanto do coração é que partem os maus pensamentos, os assassínios, os adultérios, as fornicações, os latrocínios, os falsos-testemunhos, as blasfêmias e as maledicências.
-
-Essas são as coisas que tornam impuro o homem; o comer sem haver lavado as mãos não é o que o torna impuro.”
-
-Então, aproximando-se dele, disseram-lhe seus discípulos: “Sabeis que, ouvindo o que acabais de dizer, os fariseus se escandalizaram?” — Ele, porém, respondeu: “Arrancada será toda planta que meu Pai celestial não plantou. — Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.” (Mateus, 15:1 a 20.)
-
-9. Enquanto Ele falava, um fariseu lhe pedia que fosse jantar em sua companhia. Jesus foi e sentou-se à mesa. O fariseu entrou então a dizer consigo mesmo: “Por que não lavou Ele as mãos antes de jantar?” — Disse-lhe, porém, o Senhor: “Vós outros, fariseus, pondes grande cuidado em limpar o exterior do copo e do prato; entretanto, o interior dos vossos corações está cheio de rapinas e de iniquidades. Insensatos que sois! aquele que fez o exterior não é o que faz também o interior?” (Lucas, 11:37 a 40.)
-
+{:start="10"}
 10. Os judeus haviam desprezado os verdadeiros mandamentos de Deus para se aferrarem à prática dos regulamentos que os homens tinham estatuído e da rígida observância desses regulamentos faziam casos de consciência. A substância, muito simples, acabara por desaparecer debaixo da complicação da forma. Como fosse muito mais fácil praticar atos exteriores, do que se reformar moralmente, lavar as mãos do que expurgar o coração, iludiram-se a si próprios os homens, tendo-se como quites para com Deus, por se conformarem com aquelas práticas, conservando-se tais quais eram, visto se lhes ter ensinado que Deus não exigia mais do que isso. Daí o haver dito o profeta: É em vão que este povo me honra de lábios, ensinando máximas e ordenações humanas.
 
-Verificou-se o mesmo com a doutrina moral do Cristo, que acabou por ser atirada para segundo plano, donde resulta que muitos cristãos, a exemplo dos antigos judeus, consideram mais garantida a salvação por meio das práticas exteriores do que pelas da moral. É a essas adições, feitas pelos homens à Lei de Deus, que Jesus alude, quando diz: Arrancada será toda planta que meu Pai celestial não plantou.
+    Verificou-se o mesmo com a doutrina moral do Cristo, que acabou por ser atirada para segundo plano, donde resulta que muitos cristãos, a exemplo dos antigos judeus, consideram mais garantida a salvação por meio das práticas exteriores do que pelas da moral. É a essas adições, feitas pelos homens à Lei de Deus, que Jesus alude, quando diz: Arrancada será toda planta que meu Pai celestial não plantou.
 
-O objetivo da religião é conduzir a Deus o homem. Ora, este não chega a Deus senão quando se torna perfeito. Logo, toda religião que não torna melhor o homem, não alcança o seu objetivo. Toda aquela em que o homem julgue poder apoiar-se para fazer o mal, ou é falsa, ou está falseada em seu princípio. Tal o resultado que dão as em que a forma sobreleva ao fundo. Nula é a crença na eficácia dos sinais exteriores, se não obsta a que se cometam assassínios, adultérios, espoliações, que se levantem calúnias, que se causem danos ao próximo, seja no que for. Semelhantes religiões fazem supersticiosos, hipócritas, fanáticos; não, porém, homens de bem.
+    O objetivo da religião é conduzir a Deus o homem. Ora, este não chega a Deus senão quando se torna perfeito. Logo, toda religião que não torna melhor o homem, não alcança o seu objetivo. Toda aquela em que o homem julgue poder apoiar-se para fazer o mal, ou é falsa, ou está falseada em seu princípio. Tal o resultado que dão as em que a forma sobreleva ao fundo. Nula é a crença na eficácia dos sinais exteriores, se não obsta a que se cometam assassínios, adultérios, espoliações, que se levantem calúnias, que se causem danos ao próximo, seja no que for. Semelhantes religiões fazem supersticiosos, hipócritas, fanáticos; não, porém, homens de bem.
 
-Não basta se tenham as aparências da pureza; acima de tudo, é preciso ter a do coração.
+    Não basta se tenham as aparências da pureza; acima de tudo, é preciso ter a do coração.
 
 #### `ESE-1-08-04` 📃 Escândalos. Se a vossa mão é motivo de escândalo, cortai-a {#ESE-1-08-04}
 
+{:start="11"}
 11. Se algum escandalizar a um destes pequenos que creem em mim, melhor fora que lhe atassem ao pescoço uma dessas mós que um asno faz girar e que o lançassem no fundo do mar.
 
-Ai do mundo por causa dos escândalos [^11]; pois é necessário que venham escândalos; mas ai do homem por quem o escândalo venha.
+    Ai do mundo por causa dos escândalos [^11]; pois é necessário que venham escândalos; mas ai do homem por quem o escândalo venha.
 
-Tende muito cuidado em não desprezar um destes pequenos. Declaro-vos que seus anjos no céu veem incessantemente a face de meu Pai que está nos céus, porquanto o Filho do Homem veio salvar o que estava perdido.
+    Tende muito cuidado em não desprezar um destes pequenos. Declaro-vos que seus anjos no céu veem incessantemente a face de meu Pai que está nos céus, porquanto o Filho do Homem veio salvar o que estava perdido.
 
-Se a vossa mão ou o vosso pé vos é objeto de escândalo, cortai-os e lançai-os longe de vós; melhor será para vós que entreis na vida tendo um só pé ou uma só mão, do que terdes dois e serdes lançados no fogo eterno. Se o vosso olho vos é objeto de escândalo, arrancai-o e lançai-o longe de vós; melhor para vós será que entreis na vida tendo um só olho, do que terdes dois e serdes precipitados no fogo do inferno. (Mateus,5:29 e 30; 18:6 a 11.)
+    Se a vossa mão ou o vosso pé vos é objeto de escândalo, cortai-os e lançai-os longe de vós; melhor será para vós que entreis na vida tendo um só pé ou uma só mão, do que terdes dois e serdes lançados no fogo eterno. Se o vosso olho vos é objeto de escândalo, arrancai-o e lançai-o longe de vós; melhor para vós será que entreis na vida tendo um só olho, do que terdes dois e serdes precipitados no fogo do inferno. (Mateus,5:29 e 30; 18:6 a 11.)
 
 12. No sentido vulgar, escândalo se diz de toda ação que de modo ostensivo vá de encontro à moral ou ao decoro. O escândalo não está na ação em si mesma, mas na repercussão que possa ter. A palavra escândalo implica sempre a ideia de um certo arruído. Muitas pessoas se contentam com evitar o escândalo, porque este lhes faria sofrer o orgulho, lhes acarretaria perda de consideração da parte dos homens. Desde que as suas torpezas fiquem ignoradas, é quanto basta para que se lhes conserve em repouso a consciência. São, no dizer de Jesus: “sepulcros branqueados por fora, mas cheios, por dentro, de podridão; vasos limpos no exterior e sujos no interior”.
 
-No sentido evangélico, a acepção da palavra escândalo, tão amiúde empregada, é muito mais geral, pelo que, em certos casos, não se lhe apreende o significado. Já não é somente o que afeta a consciência de outrem, é tudo o que resulta dos vícios e das imperfeições humanas, toda reação má de um indivíduo para outro, com ou sem repercussão. O escândalo, neste caso, é o resultado efetivo do mal moral.
+    No sentido evangélico, a acepção da palavra escândalo, tão amiúde empregada, é muito mais geral, pelo que, em certos casos, não se lhe apreende o significado. Já não é somente o que afeta a consciência de outrem, é tudo o que resulta dos vícios e das imperfeições humanas, toda reação má de um indivíduo para outro, com ou sem repercussão. O escândalo, neste caso, é o resultado efetivo do mal moral.
 
 13. É preciso que haja escândalo no mundo, disse Jesus, porque, imperfeitos como são na Terra, os homens se mostram propensos a praticar o mal, e porque, árvores más, só maus frutos dão. Deve-se, pois, entender por essas palavras que o mal é uma consequência da imperfeição dos homens, e não que haja, para estes, a obrigação de praticá-lo.
 
@@ -1736,141 +1750,141 @@ No sentido evangélico, a acepção da palavra escândalo, tão amiúde empregad
 
 ##### `ESE-1-08-05-01` 📃 Deixai que venham a mim as criancinhas {#ESE-1-08-05-01}
 
+CONTENT
 
 ##### `ESE-1-08-05-02` 📃 Bem-aventurados os que têm fechados os olhos 
 
 CONTENT
-{#ESE-1-08-05-02}
 
 ### `ESE-1-09` 📑 09. Bem-aventurados os que são brandos e pacíficos {#ESE-1-09}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-10` 📑 10. Bem-aventurdaos os que são misericordiosos {#ESE-1-10}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-11` 📑 11. Amar o próximo como a si mesmo {#ESE-1-11}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-12` 📑 12. Amai os vossos inimigos {#ESE-1-12}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-13` 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ESE-1-13}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-14` 📑 14. Honrai o vosso pai e a vossa mãe {#ESE-1-14}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-15` 📑 15. Fora da caridade não há salvação {#ESE-1-15}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-16` 📑 16. Não se pode servir a Deus e a Mamon {#ESE-1-17}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-18` 📑 18. Muitos os chamados, poucos os escolhidos {#ESE-1-18}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-19` 📑 19. A fé transporta montanhas {#ESE-1-19}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-20` 📑 20. Os trabalhadores da última hora {#ESE-1-20}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-21` 📑 21. Haverá falsos cristos e falsos profetas {#ESE-1-21}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-22` 📑 22. Não separeis o que Deus juntou {#ESE-1-22}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-23` 📑 23. Estranha moral {#ESE-1-23}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-24` 📑 24. Não ponhais a candeia debaixo do alqueire {#ESE-1-24}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-25` 📑 25. Buscai e achareis {#ESE-1-25}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-26` 📑 26. Dai gratuitamente o que gratuitamente recebestes {#ESE-1-26}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-27` 📑 27. Pedi e obtereis {#ESE-1-27}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
 ---
 ### `ESE-1-28` 📑 28. Coletânea de preces espíritas {#ESE-1-28}
 
-CONTENT
+INDEX
 
 [🔼 voltar um nível](#ESE-1)
 
