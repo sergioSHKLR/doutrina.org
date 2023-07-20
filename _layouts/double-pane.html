@@ -112,6 +112,9 @@
 </head>
 
 <body>
+
+  <button onclick="myFunction()">Abre / Fecha</button>
+
   <!--
     <div class="wrapper">
       <header>
@@ -167,6 +170,16 @@
     <iframe id="external" src="../angel-splash.html" name="ext"></iframe>
   </div>
   <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+  <script>
+    function myFunction() {
+      var x = document.getElementById("iframe-wrapper");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+    </script>
 </body>
 
 </html>
