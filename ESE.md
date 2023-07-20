@@ -33,7 +33,7 @@ layout: single-pane
 
 ---
 
-| 🕊️ **O Evangelho segundo o Espiritismo** |
+| 🕊️ O Evangelho segundo o Espiritismo |
 |:---:|
 |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
