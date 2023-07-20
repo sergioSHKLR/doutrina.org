@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://hypothes.is/embed.js" async></script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
+    <style>
+    a {
+      font-weight: bold;
+    }
+
+    #content-wrapper {
+      float: left;
+      width: 48vw;
+      height: 100vh;
+      overflow: scroll;
+      overscroll-behavior: contain;
+      position: absolute;
+      top: 0px;
+      left: 0;
+      padding: 30px;
+      background-color: whitesmoke;
+    }
+
+    #iframe-wrapper {
+      float: right;
+      width: 47.5vw;
+      height: 100vh;
+      position: absolute;
+      top: 0px;
+      right: 0;
+      overflow: scroll;
+      overscroll-behavior: contain;
+      border: 1px solid grey;
+      padding-top: 20px;
+      background-color: whitesmoke;
+    }
+
+    #external {
+      width: 45vw;
+      height: 100%;
+      border: none;
+      overflow: scroll;
+      overscroll-behavior: contain;
+    }
+  </style>
+
+{% seo %}
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+{% include head-custom.html %}
+</head>
+
+<body>
+  <!--
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+    -->
+  <section id="content-wrapper">
+
+    {{ content }}
+
+  </section>
+
+  <!--
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    -->
+  </div>
+  <!--
+  <div id="iframe-wrapper">
+    <p style="margin-left: 30px;"><a href="https://pt.m.wikipedia.org" target="ext">Wikipédia <b
+          style="color: blue;">⬇</b></a> | <a href="https://pt.m.wiktionary.org" target="ext">Wikicionário <b
+          style="color: blue;">⬇</b></a> | <a
+        href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus" target="ext">Bíblia (TB) <b
+          style="color: blue;">⬇</b></a> | <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré" target="ext">Wikiquotes
+        <b style="color: blue;">⬇</b></a><span style="color: red; position: absolute; right: 35px;">Anote com
+        Hypothes.is&nbsp;&nbsp;➡&nbsp;&nbsp;</span></p>
+
+    <iframe id="external" src="../angel-splash.html" name="ext"></iframe>
+  </div> -->
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+</body>
+
+</html>
