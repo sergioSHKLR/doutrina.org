@@ -507,3 +507,17 @@ em {
     color: darkred;
     font-style: normal;
 }
+
+em {
+    color: darkred;
+    font-style: normal;
+}
+
+code {
+    border: 1px solid grey;
+    border-radius: 12px;
+    padding: 1px 10px;
+    background-color: grey;
+    color: white;
+    opacity: .5
+}
