@@ -40,13 +40,13 @@ layout: single-pane
 |
 | Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
 |
-|                    Por **Allan Kardec**.                     |
+| Por **Allan Kardec**. |
 |
-|                 Tradução de Guillon Ribeiro                  |
+| Tradução de Guillon Ribeiro |
 |
-|                  Título do original francês                  |
-|                L’Évangile selon le spiritisme                |
-|                    (Paris, abril de 1864)                    |
+| Título do original francês |
+| L’Évangile selon le spiritisme |
+| (Paris, abril de 1864) |
 
 | Espiritismo Experimental |
 |:---:|
