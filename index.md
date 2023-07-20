@@ -8,6 +8,9 @@ layout: double-pane
 
 ---
 
+  <button onclick="myFunction()">Abre / Fecha</button>
+
+---
 <!-- ## Bem vindo!
 
 Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https://github.com/sergioSHKLR/doutrina.org) e todo seu código é accessível.
@@ -114,3 +117,13 @@ Deus abençoa, sempre!
 ---
 <p>&nbsp;</p>
 
+<script>
+    function myFunction() {
+      var x = document.getElementById("iframe-wrapper");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+    </script>
