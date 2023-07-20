@@ -1,7 +1,7 @@
 ---
 title: doutrina.org
 homepage: true
-layout: double-pane
+layout: single-pane
 ---
 
 # 💧 doutrina.org
@@ -113,15 +113,3 @@ Deus abençoa, sempre!
 
 ---
 
-<button onclick="removeElement()">🔴</button>
-<button onclick="resetElement()">🟢</button>
-
-<script>
-function removeElement() {
-  document.getElementById("iframe-wrapper").style.display = "none";
-}
-function resetElement() {
-  document.getElementById("imgbox1").style.display = "block";
-  document.getElementById("imgbox2").style.visibility = "visible";
-}
-    </script>
