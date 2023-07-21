@@ -5279,3 +5279,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 [^25]: A.K.: Conhecemos um senhor que foi aceito para um emprego de confiança, numa casa importante, porque era espírita sincero. Entenderam que as suas crenças eram uma garantia da sua moralidade.
 
 [^26]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+
+---
+
+<p>&nbsp;</p>

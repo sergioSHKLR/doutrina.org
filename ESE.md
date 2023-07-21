@@ -1928,3 +1928,7 @@ Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do
 [^10]: N.E.: Ver Nota Explicativa.
 
 [^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
+
+---
+
+<p>&nbsp;</p>
