@@ -85,7 +85,7 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 
 ---
 
-## LDM-1 🗂️ Parte 1 - Noções Preliminares {#LDM-1} 
+## LDM-1 🗂️ Parte 1. Noções Preliminares {#LDM-1} 
 
 - [LDM-1-01 📑 1. Há Espíritos?](#LDM-1-01)
 - [LDM-1-02 📑 2. Do maravilhoso e do sobrenatural](#LDM-1-02)
@@ -625,7 +625,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ---
 
-## LDM-2 🗂️ Parte 2 - Das manifestações espíritas {#LDM-2} 
+## LDM-2 🗂️ Parte 2. Das manifestações espíritas {#LDM-2} 
 
 - [LDM-2-01 📑 1. Da ação dos Espíritos sobre a matéria](#LDM-2-01)
 - [LDM-2-02 📑 2. Das manifestações físicas. Das mesas girantes](#LDM-2-02)
@@ -5149,7 +5149,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 ---
 
-## LDM-3 🗂️ Parte 3 - Pós-textual {#LDM-3} 
+## LDM-3 🗂️ Parte 3. Pós-textual {#LDM-3} 
 
 [⤴️ subir um nível](#LDM)
 
