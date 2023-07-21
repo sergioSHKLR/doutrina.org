@@ -9,6 +9,8 @@
   "short_name": "doutrina",
   "start_url": "/",
   "theme_color": "#4cc4f4",
+  "handle_links": "preferred",
+  "prefer_related_applications": false,
   "categories": [
     "education"
   ],
@@ -25,5 +27,8 @@
   "lang": "pt",
   "display_override": [
     "window-controls-overlay"
-  ]
+  ],
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
 }
