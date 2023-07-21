@@ -542,7 +542,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-##### LDE-q1
+##### LDE-q1 {#LDE-q1}
 #️⃣ 1. O que é Deus?
 
 >Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]

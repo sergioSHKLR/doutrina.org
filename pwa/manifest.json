@@ -14,7 +14,6 @@
   "categories": [
     "education"
   ],
-  "screenshots": [],
   "icons": [
     {
       "src": "../pwa/favicon.png",
@@ -23,12 +22,95 @@
       "purpose": "any"
     }
   ],
-  "shortcuts": [],
   "lang": "pt",
   "display_override": [
     "window-controls-overlay"
   ],
   "edge_side_panel": {
     "preferred_width": 400
-  }
+  },
+  "screenshots" : [
+    {
+      "src": "screenshot.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpg",
+      "platform": "wide"
+    }
+  ],
+  "file_handlers": [
+    {
+      "action": "/open-pdf",
+      "accept": {
+        "application/pdf": [".pdf"]
+      },
+      "icons": [
+        {
+          "src": "pdf-icon.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+      ],
+      "launch_type": "single-client"
+    }],
+    "iarc_rating_id": "e58c174a-81d2-5c3c-32cc-34b8de4a52e9",
+    "protocol_handlers": [
+      {
+        "protocol": "web+music",
+        "url": "/play?track=%s"
+      }
+    ],
+    "related_applications": [
+      {
+        "platform": "windows",
+        "url": "https://www.example-app.com",
+        "id": "example.ExampleApp"
+      },
+      {
+        "platform": "play",
+        "url": "https://www.example-app-2.com"
+      }
+    ],
+    "handle_links": "preferred",
+    "share_target": {
+      "action": "/handle-shared-content/",
+      "method": "GET",
+      "params": {
+        "title": "title",
+        "url": "url"
+      }
+    },
+    
+    "share_target": {
+        "action": "/collect-files",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "params": {
+          "title": "title",
+          "text": "text",
+          "url": "url",
+          "files": [
+            {
+              "name": "lists",
+              "accept": ["text/csv", ".csv"]
+            }
+          ]
+        }
+      },
+      "shortcuts": [
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Send Message",
+          "url": "/new-message",
+          "description": "Open a chat with another user and send a message to them."
+        }
+      ]
+      
+    
+    
+    
+
+  
 }
