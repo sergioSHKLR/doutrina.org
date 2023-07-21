@@ -523,10 +523,11 @@ em {
 }
 
 code {
-    border: 1px solid grey;
+    border: 1px solid dimgrey;
     border-radius: 12px;
     padding: 1px 10px;
     background-color: grey;
     color: white;
-    opacity: .5
+    opacity: .5;
+    vertical-align: middle;
 }
