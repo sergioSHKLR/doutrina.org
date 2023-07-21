@@ -6,11 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script>
+    <script type="module">
         if (typeof navigator.serviceWorker !== 'undefined') {
             navigator.serviceWorker.register('sw.js')
         }
     </script>
+
+    <link href="../_pwa/manifest.json" rel="manifest">
 
 
     <script src="https://hypothes.is/embed.js" async></script>
