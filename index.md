@@ -1,7 +1,7 @@
 ---
 title: doutrina.org
 homepage: true
-layout: single-pane
+layout: default
 ---
 
 # 💧 doutrina.org
