@@ -2,7 +2,7 @@
 title: ✒️ LDM
 layout: single-pane
 ---
-<title>✒️ LDM</title>
+<title>✒️ LDM | doutrina.org</title>
 
 
 [⬅](./) 💧 doutrina.org

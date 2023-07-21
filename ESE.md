@@ -2,7 +2,7 @@
 title: 🕊️ ESE
 layout: single-pane
 ---
-<title>🕊️ ESE</title>
+<title>🕊️ ESE | doutrina.org</title>
 
 
 [⬅](./) 💧 doutrina.org
