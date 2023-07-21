@@ -40,7 +40,7 @@ Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tama
 
 ## Formato de arquivo
 
-Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Entretanto, por necessidade, tivemos que utilizar várias *tags* HTML, tornando o arquivo em um híbrido MD&HTML. Para satisfazer a necessidade de programadores que visam utilizar nossos arquivos para criar outros, mantivemos uma versão MD pura no branch `coding`.
+Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Entretanto, por necessidade, tivemos que utilizar várias *tags* HTML, tornando o arquivo em um híbrido MD&HTML. Para satisfazer a necessidade de programadores que visam utilizar nossos arquivos para criar outros, mantivemos uma versão MD pura no branch coding.
 
 ## Obra original
 
@@ -52,11 +52,11 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
 | **Emoji** | **Sigla** | **Livro** |
 |:---:|:---:|---|
-| 👻 | `LDE` | O Livro dos Espíritos |
-| ✒️ | `LDM` | O Livro dos Médiuns |
-| 🕊️ | `ESE` | O Evangelho segundo o Espiritismo |
-| 🔥 | `CEU` | O Céu e o Inferno |
-| 🌱 | `GEN` | A Gênese |
+| 👻 | LDE | O Livro dos Espíritos |
+| ✒️ | LDM | O Livro dos Médiuns |
+| 🕊️ | ESE | O Evangelho segundo o Espiritismo |
+| 🔥 | CEU | O Céu e o Inferno |
+| 🌱 | GEN | A Gênese |
 
 ## Navegação
 
