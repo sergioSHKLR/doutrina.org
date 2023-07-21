@@ -5,6 +5,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script>
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
+    </script>
+
+
     <script src="https://hypothes.is/embed.js" async></script>
     <link rel="icon" href="data:image/svg+xml,
 						<svg
@@ -13,7 +21,9 @@
 						</svg>" />
     <link rel="stylesheet" href="https://doutrina.org/style.css">
     <style>
-        img { max-width: 100vw;}
+        img {
+            max-width: 100vw;
+        }
 
         button {
             border: 1px solid lightgrey;
@@ -113,9 +123,11 @@
 
 <body>
 
-    <span style=" float: left; margin-left: 20px; margin-top: 5px;"><a href="./" style="font-weight: bold; text-decoration: none;">💧 doutrina.org</a></span>
+    <span style=" float: left; margin-left: 20px; margin-top: 5px;"><a href="./"
+            style="font-weight: bold; text-decoration: none;">💧 doutrina.org</a></span>
 
-    <span style=" float: right; margin-right: 20px; margin-top: 5px; background-color: yellow;">&nbsp; Anote com Hypothes.is ➡ &nbsp;</span>
+    <span style=" float: right; margin-right: 20px; margin-top: 5px; background-color: yellow;">&nbsp; Anote com
+        Hypothes.is ➡ &nbsp;</span>
 
     <div class="buttons"><button id="green" onclick="resetElement()">O</button>&nbsp;<button id="red"
             onclick="removeElement()">X</button></div>
