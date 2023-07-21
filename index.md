@@ -14,11 +14,11 @@ Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https:
 
 ---
 
-- <a href="./LDE.html"><code>LDE</code> 👻 O Livro dos Espíritos</a>
-- <a href="./LDM.html"><code>LDM</code> ✒️ O Livro dos Médiuns</a>
-- <a href="./ESE.html"><code>ESE</code> 🕊️ O Evangelho segundo o Espiritismo (EM DESENVOLVIMENTO)</a>
-- <code>CEU</code> 🔥 O Céu e o Inferno (AGUARDANDO)
-- <code>GEN</code> 🌱 A Gênese (AGUARDANDO)
+- <a href="./LDE.html">LDE 👻 O Livro dos Espíritos</a>
+- <a href="./LDM.html">LDM ✒️ O Livro dos Médiuns</a>
+- <a href="./ESE.html">ESE 🕊️ O Evangelho segundo o Espiritismo (EM DESENVOLVIMENTO)</a>
+- CEU 🔥 O Céu e o Inferno (AGUARDANDO)
+- GEN 🌱 A Gênese (AGUARDANDO)
 
 <!-- 
 
