@@ -523,8 +523,8 @@ em {
 }
 
 code {
-    border: 1px solid dimgrey;
-    border-radius: 12px;
+    border: 1px solid white;
+    border-radius: 50px;
     padding: 1px 10px;
     background-color: grey;
     color: white;

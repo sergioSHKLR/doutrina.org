@@ -3,29 +3,29 @@ title: 🕊️ ESE
 layout: single-pane
 ---
 
-[⬅ 💧 doutrina.org](./index.html)
+[⬅ `💧` doutrina.org](./index.html)
 
 ---
 
-# `ESE` 🕊️ O Evangelho segundo o Espiritismo {#ESE}
+# `ESE` `🕊️` O Evangelho segundo o Espiritismo {#ESE}
 
 **DRAFT** 
 
 **Sumário**
 
-- [`ESE-0` 🗂️ Parte 0. Pré-textual](#ESE-0)
-- [`ESE-1` 🗂️ Parte 1. Miolo](#ESE-1)
-- [`ESE-2` 🗂️ Parte 2. Pós-textual](#ESE-2)
+- [`ESE-0` `🗂️` Parte 0. Pré-textual](#ESE-0)
+- [`ESE-1` `🗂️` Parte 1. Miolo](#ESE-1)
+- [`ESE-2` `🗂️` Parte 2. Pós-textual](#ESE-2)
 
 ---
 
-## `ESE-0` 🗂️ Parte 0. Pré-textual {#ESE-0}
+## `ESE-0` `🗂️ Parte 0. Pré-textual {#ESE-0}
 
-- [`ESE-0-01` 📃 Folha de rosto](#ESE-0-01)
-- [`ESE-0-02` 📃 Prefácio](#ESE-0-02)
-- [`ESE-0-03` 📑 Introdução](#ESE-0-03)
+- [`ESE-0-01` `📃` Folha de rosto](#ESE-0-01)
+- [`ESE-0-02` `📃` Prefácio](#ESE-0-02)
+- [`ESE-0-03` `📑` Introdução](#ESE-0-03)
 
-[🔼 voltar um nível](#ESE)
+[`🔼` voltar um nível](#ESE)
 
 ---
 
