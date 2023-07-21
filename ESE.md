@@ -1291,7 +1291,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ##### `ESE-1-05-07-10` 📃 Dever-se-á pôr termo às provas do próximo? {#ESE-1-05-07-10}
 
-{:start=""}
+{:start="27"}
 27. >Deve alguém pôr termo às provas do seu próximo quando o possa, ou deve, para respeitar os desígnios de Deus, deixar que sigam seu curso?
     >
     >Já vos temos dito e repetido muitíssimas vezes que estais nessa Terra de expiação para concluirdes as vossas provas e que tudo que vos sucede é consequência das vossas existências anteriores, são os juros da dívida que tendes de pagar. Esse pensamento, porém, provoca em certas pessoas reflexões que devem ser combatidas, devido aos funestos efeitos que poderiam determinar.
@@ -1359,7 +1359,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ### `ESE-1-06` 📑 06. O Cristo Consolador {#ESE-1-06}
 
-- [`ESE-1-06-01 📃 O jugo leve](#ESE-1-06-01)
+- [`ESE-1-06-01` 📃 O jugo leve](#ESE-1-06-01)
 - [`ESE-1-06-02` 📃 Consolador prometido](#ESE-1-06-01)
 - [`ESE-1-06-03` 📃 Instruções dos Espíritos](#ESE-1-06-01)
    - [`ESE-1-06-03-01` 📃 Advento do Espírito de Verdade](#ESE-1-06-01)
@@ -1401,7 +1401,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### `ESE-1-06-03` 📃 Instruções dos Espíritos {#ESE-1-06-01}
 
-##### `ESE-1-06-03-01` 📃 Advento do Espírito de Verdade {#ESE-1-06-01}
+   ##### `ESE-1-06-03-01` 📃 Advento do Espírito de Verdade {#ESE-1-06-01}
 
 {:start="5"}
 5. >Venho, como outrora aos transviados filhos de Israel, trazer-vos a verdade e dissipar as trevas. Escutai-me. O Espiritismo, como o fez antigamente a minha palavra, tem de lembrar aos incrédulos que acima deles reina a imutável verdade: o Deus bom, o Deus grande, que faz germinem as plantas e se levantem as ondas. Revelei a doutrina divinal. Como um ceifeiro, reuni em feixes o bem esparso no seio da Humanidade e disse: “Vinde a mim, todos vós que sofreis.”
@@ -1534,7 +1534,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### `ESE-1-07-04` 📃 Instruções dos Espíritos {#ESE-1-07-04}
 
-##### `ESE-1-07-04-01` 📃 O orgulho e a humildade {#ESE-1-07-04-01}
+    ##### `ESE-1-07-04-01` 📃 O orgulho e a humildade {#ESE-1-07-04-01}
 
 {:start="11"}
 11. >Que a paz do Senhor seja convosco, meus queridos amigos! Aqui venho para encorajar-vos a seguir o bom caminho.
