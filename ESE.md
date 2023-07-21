@@ -25,7 +25,7 @@ layout: single-pane
 - [ESE-0-02 📃 Prefácio](#ESE-0-02)
 - [ESE-0-03 📑 Introdução](#ESE-0-03)
 
-[🔼 voltar um nível](#ESE)
+[⤴️ voltar um nível](#ESE)
 
 ---
 
@@ -48,7 +48,7 @@ layout: single-pane
 | L’Évangile selon le spiritisme |
 | (Paris, abril de 1864) |
 
-[🔼 voltar um nível](#ESE-0)
+[⤴️ voltar um nível](#ESE-0)
 
 ---
 
@@ -67,7 +67,7 @@ layout: single-pane
 
 📝 **Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
-[🔼 voltar um nível](#ESE-0)
+[⤴️ voltar um nível](#ESE-0)
 
 ---
 
@@ -78,7 +78,7 @@ layout: single-pane
 - [ESE-0-03 📃 3. Notícias históricas](#ESE-0-03-03)
 - [ESE-0-04 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo](#ESE-0-03-04)
 
-[🔼 voltar um nível](#ESE-0)
+[⤴️ voltar um nível](#ESE-0)
 
 ---
 
@@ -102,7 +102,7 @@ Como complemento de cada preceito, acrescentamos algumas instruções escolhidas
 
 Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu** que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
 
-[🔼 voltar um nível](#ESE-0-03)
+[⤴️ voltar um nível](#ESE-0-03)
 
 ---
 
@@ -164,7 +164,7 @@ A opinião universal, eis o juiz supremo, o que se pronuncia em última instânc
 
 Já se desenha o harmonioso conjunto. Este século não passará sem que ele resplandeça em todo o seu brilho, de modo a dissipar todas as incertezas, porquanto daqui até lá potentes vozes terão recebido a missão de se fazer ouvir, para congregar os homens sob a mesma bandeira, uma vez que o campo se ache suficientemente lavrado. Enquanto isso se não dá, aquele que flutua entre dois sistemas opostos pode observar em que sentido se forma a opinião geral; essa será a indicação certa do sentido em que se pronuncia a maioria dos Espíritos, nos diversos pontos em que se comunicam, e um sinal não menos certo de qual dos dois sistemas prevalecerá.
 
-[🔼 voltar um nível](#ESE-0-03)
+[⤴️ voltar um nível](#ESE-0-03)
 
 ---
 
@@ -212,7 +212,7 @@ Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz c
 
 - **Terapeutas** (do grego *therapeutai*, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
 
-[🔼 voltar um nível](#ESE-0-03)
+[⤴️ voltar um nível](#ESE-0-03)
 
 ---
 
@@ -391,7 +391,7 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
-[🔼 voltar um nível](#ESE-0-03)
+[⤴️ voltar um nível](#ESE-0-03)
 
 ---
 
@@ -426,7 +426,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [ESE-1-27 📑 27. Pedi e obtereis](#ESE-1-27)
 - [ESE-1-28 📑 28. Coletânea de preces espíritas](#ESE-1-28)
 
-[🔼 voltar um nível](#ESE)
+[⤴️ voltar um nível](#ESE)
 
 ---
 
@@ -439,7 +439,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [ESE-1-01-05 📃 Instruções dos Espíritos](#ESE-1-01-05)
    - [ESE-1-01-05-01 📃 A nova era](#ESE-1-01-05-01)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -562,7 +562,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
-[🔼 voltar um nível](#ESE-1-01)
+[⤴️ voltar um nível](#ESE-1-01)
 
 ---
 
@@ -573,7 +573,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [ESE-1-02-03 📃 O ponto de vista](#ESE-1-02-03)
 - [ESE-1-02-04 📃 Instruções dos Espíritos](#ESE-1-02-04)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -642,7 +642,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
    Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais. – Uma Rainha de França. (Havre, 1863.)
 
-[🔼 voltar um nível](#ESE-1-02)
+[⤴️ voltar um nível](#ESE-1-02)
 
 ---
 
@@ -656,7 +656,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    - [ESE-1-03-04-02 📃 Mundos regeneradores](#ESE-1-03-04-02)
    - [ESE-1-03-04-03 📃 Progressão dos mundos](#ESE-1-03-04-03)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -787,7 +787,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Paris, 1862**
     {:.spirit}
 
-[🔼 voltar um nível](#ESE-1-03)
+[⤴️ voltar um nível](#ESE-1-03)
 ---
 
 ### ESE-1-04 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#ESE-1-04}
@@ -798,7 +798,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    - [ESE-1-04-03 📃 Limites da encarnação](#ESE-1-04-03-01)
    - [ESE-1-04-03 📃 Necessidade da encarnação](#ESE-1-04-03-02)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 1. >Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou? — Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: E vós, quem dizeis que Eu sou? — Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.
    >
@@ -993,7 +993,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     Não poderiam os Espíritos encarnar uma única vez em determinado globo e preencher em esferas diferentes suas diferentes existências? Semelhante modo de ver só seria admissível se, na Terra, todos os homens estivessem exatamente no mesmo nível intelectual e moral. As diferenças que há entre eles, desde o selvagem ao homem civilizado, mostram quais os degraus que têm de subir. A encarnação, aliás, precisa ter um fim útil. Ora, qual seria o das encarnações efêmeras das crianças que morrem em tenra idade? Teriam sofrido sem proveito para si, nem para outrem. Deus, cujas leis todas são soberanamente sábias, nada faz de inútil. Pela reencarnação no mesmo globo, quis Ele que os mesmos Espíritos, pondo-se novamente em contato, tivessem ensejo de reparar seus danos recíprocos. Por meio das suas relações anteriores, quis, além disso, estabelecer sobre base espiritual os laços de família e apoiar numa lei natural os princípios da solidariedade, da fraternidade e da igualdade.
 
-[🔼 voltar um nível](#ESE-1-04)
+[⤴️ voltar um nível](#ESE-1-04)
 
 ---
 
@@ -1020,7 +1020,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    - [ESE-1-05-07-12 📃 Sacrifício da própria vida](#ESE-1-05-07-12)
    - [ESE-1-05-07-13 📃 Proveito dos sofrimentos para outrem](#ESE-1-05-07-13)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -1353,7 +1353,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Paris, 1860**
     {:.spirit}
 
-[🔼 voltar um nível](#ESE-1-05)
+[⤴️ voltar um nível](#ESE-1-05)
 
 ---
 
@@ -1364,7 +1364,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [ESE-1-06-03 📃 Instruções dos Espíritos](#ESE-1-06-01)
    - [ESE-1-06-03-01 📃 Advento do Espírito de Verdade](#ESE-1-06-01)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -1440,7 +1440,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >**Havre, 1863**
    {:.spirit}
 
-[🔼 voltar um nível](#ESE-1-06)
+[⤴️ voltar um nível](#ESE-1-06)
 
 ---
 
@@ -1453,7 +1453,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    - [ESE-1-07-04-01 📃 O orgulho e a humildade](#ESE-1-07-04-01)
    - [ESE-1-07-04-02 📃 Missão do homem inteligente na Terra](#ESE-1-07-04-02)
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -1592,7 +1592,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Bordeaux, 1862**
     {:.spirit}
 
-[🔼 voltar um nível](#ESE-1-07)
+[⤴️ voltar um nível](#ESE-1-07)
 
 ---
 
@@ -1606,7 +1606,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    - [ESE-1-08-05-01 📃 Deixai que venham a mim as criancinhas](#ESE-1-08-05-01) 
    - [ESE-1-08-05-02 📃 Bem-aventurados os que têm fechados os olhos](#ESE-1-08-05-02) 
 
-[🔼 voltar um nível](#ESE-1)
+[⤴️ voltar um nível](#ESE-1)
 
 ---
 
@@ -1731,13 +1731,13 @@ CONTENT
 
 CONTENT
 
-[🔼 voltar um nível](#ESE-1-08)
+[⤴️ voltar um nível](#ESE-1-08)
 
 ### ESE-1-09 📑 09. Bem-aventurados os que são brandos e pacíficos {#ESE-1-09}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-09)
+[⤴️ voltar um nível](#ESE-1-09)
 
 ---
 
@@ -1745,7 +1745,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-10)
+[⤴️ voltar um nível](#ESE-1-10)
 
 ---
 
@@ -1753,7 +1753,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-11)
+[⤴️ voltar um nível](#ESE-1-11)
 
 ---
 
@@ -1761,7 +1761,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-12)
+[⤴️ voltar um nível](#ESE-1-12)
 
 ---
 
@@ -1769,7 +1769,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-13)
+[⤴️ voltar um nível](#ESE-1-13)
 
 ---
 
@@ -1777,7 +1777,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-14)
+[⤴️ voltar um nível](#ESE-1-14)
 
 ---
 
@@ -1785,7 +1785,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-15)
+[⤴️ voltar um nível](#ESE-1-15)
 
 ---
 
@@ -1793,7 +1793,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-16)
+[⤴️ voltar um nível](#ESE-1-16)
 
 ---
 
@@ -1801,7 +1801,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-17)
+[⤴️ voltar um nível](#ESE-1-17)
 
 ---
 
@@ -1809,7 +1809,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-18)
+[⤴️ voltar um nível](#ESE-1-18)
 
 ---
 
@@ -1817,7 +1817,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-19)
+[⤴️ voltar um nível](#ESE-1-19)
 
 ---
 
@@ -1825,14 +1825,14 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-20)
+[⤴️ voltar um nível](#ESE-1-20)
 
 ---
 ### ESE-1-21 📑 21. Haverá falsos cristos e falsos profetas {#ESE-1-21}
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-21)
+[⤴️ voltar um nível](#ESE-1-21)
 
 ---
 
@@ -1840,7 +1840,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-22)
+[⤴️ voltar um nível](#ESE-1-22)
 
 ---
 
@@ -1848,7 +1848,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-23)
+[⤴️ voltar um nível](#ESE-1-23)
 
 ---
 
@@ -1856,7 +1856,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-24)
+[⤴️ voltar um nível](#ESE-1-24)
 
 ---
 
@@ -1864,7 +1864,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-25)
+[⤴️ voltar um nível](#ESE-1-25)
 
 ---
 
@@ -1872,7 +1872,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-26)
+[⤴️ voltar um nível](#ESE-1-26)
 
 ---
 
@@ -1880,7 +1880,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-27)
+[⤴️ voltar um nível](#ESE-1-27)
 
 ---
 
@@ -1888,7 +1888,7 @@ INDEX
 
 INDEX
 
-[🔼 voltar um nível](#ESE-1-28)
+[⤴️ voltar um nível](#ESE-1-28)
 
 ---
 
@@ -1896,7 +1896,7 @@ INDEX
 
 - [ESE-2-01 📃 Nota explicativa](#ESE-2-01)
 
-[🔼 voltar um nível](#ESE)
+[⤴️ voltar um nível](#ESE)
 
 ---
 

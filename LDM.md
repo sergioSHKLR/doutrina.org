@@ -23,7 +23,7 @@ layout: single-pane
 - [`LDM-0-01` 📃 Folha de rosto](#LDM-0-01)
 - [`LDM-0-02` 📃 Introdução](#LDM-0-02)
 
-[🔼 voltar um nível](#LDM)
+[⤴️ voltar um nível](#LDM)
 
 ---
 
@@ -46,7 +46,7 @@ layout: single-pane
 | Le livre des médiums |
 | (Paris, 18 de janeiro de 1861) |
 
-[🔼 voltar um nível](#LDM-0)
+[⤴️ voltar um nível](#LDM-0)
 
 ---
 
@@ -78,7 +78,7 @@ Importantes alterações para melhor foram introduzidas nesta segunda edição, 
 
 Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em 👻 **O Livro dos Espíritos**. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
 
-[🔼 voltar um nível](#LDM-0)
+[⤴️ voltar um nível](#LDM-0)
 
 ---
 
@@ -89,7 +89,7 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 - [`LDM-1-03` 📑 3. Do método](#LDM-1-03)
 - [`LDM-1-04` 📑 4. Dos sistemas](#LDM-1-04)
 
-[🔼 voltar um nível](#LDM)
+[⤴️ voltar um nível](#LDM)
 
 ---
 
@@ -657,7 +657,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 - [`LDM-2-31` 📑 31. Dissertações espíritas](#LDM-2-31)
 - [`LDM-2-32` 📑 32. Vocabulário espírita](#LDM-2-32)
 
-[🔼 voltar um nível](#LDM)
+[⤴️ voltar um nível](#LDM)
 
 ---
 
@@ -722,7 +722,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 59. Perguntar-se-á, talvez, como pode o Espírito, com o auxílio de matéria tão sutil, atuar sobre corpos pesados e compactos, suspender mesas etc. Semelhante objeção certo que não será formulada por um homem de ciência, visto que, sem falar das propriedades desconhecidas que esse novo agente pode possuir, não temos exemplos análogos sob as vistas? Não é nos gases mais rarefeitos, nos fluidos imponderáveis que a indústria encontra os seus mais possantes motores? Quando vemos o ar abater edifícios, o vapor deslocar enormes massas, a pólvora gaseificada levantar rochedos, a eletricidade lascar árvores e fender paredes, que dificuldades acharemos em admitir que o Espírito, com o auxílio do seu perispírito, possa levantar uma mesa, sobretudo sabendo que esse perispírito pode tornar-se visível, tangível e comportar-se como um corpo sólido?
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -766,7 +766,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 64. Outro fenômeno que se produz com frequência, de acordo com a natureza do médium, é o das pancadas no próprio tecido da madeira, sem que a mesa faça qualquer movimento. Essas pancadas, às vezes muito fracas, outras vezes muito fortes, se fazem também ouvir nos outros móveis do compartimento, nas paredes e no forro. Dentro em pouco voltaremos a esta questão. Quando as pancadas se dão na mesa, produzem nesta uma vibração muito apreciável por meio dos dedos e que se distingue perfeitamente, aplicando-se-lhe o ouvido.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -812,7 +812,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Voltaremos a tratar destes diferentes meios, a fim de explicá-los minuciosamente. Por ora, limitamo-nos a esboçá-los, para mostrar os fatos sucessivos que levaram os observadores a reconhecer, nestes fenômenos, a intervenção de inteligências ocultas, ou, por outra, dos Espíritos.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
   ---
 
@@ -962,7 +962,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Só por uma causa semelhante se pode explicar o singular fenômeno, tantas vezes observado, de uma pessoa fraca e delicada levantar com dois dedos, sem esforço e como se se tratasse de uma pena, um homem forte e robusto com a cadeira em que está assentado. As intermitências da faculdade provam que a causa é estranha à pessoa que produz o fenômeno.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1275,7 +1275,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
     
   📝 **Nota**. Quanto à teoria da formação espontânea dos objetos, veja 👉 [`LDM-2-08`](#LDM-2-08).
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1526,7 +1526,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   É boa a nossa explicação? Damo-la pelo que possa valer, em falta de outra, e, se quiserem, a título de simples hipótese, enquanto outra melhor não aparece. Qual ela é, dá a razão de ser de todos os casos de visão? Certamente que não. Contudo, desafiamos todos os fisiologistas a que apresentem uma que abranja todos os casos, porquanto nenhuma dão, quando pronunciam as palavras sacramentais — sobre-excitação e exaltação. Assim sendo, desde que todas as teorias da alucinação se mostram incapazes de explicar os fatos, é que alguma outra coisa há, que não a alucinação propriamente dita. Seria falsa a nossa teoria, se a aplicássemos a todos os casos de visão, pois que alguns a contraditariam. É legítima, se restringida a alguns efeitos.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1630,7 +1630,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 125. Resta-nos falar do singular fenômeno dos **agêneres**, que, por muito extraordinário que pareça à primeira vista, não é mais sobrenatural do que os outros. Porém, como o explicamos na 📓 **Revista Espírita** (fevereiro de 1859), julgamos inútil tratar dele aqui pormenorizadamente. Diremos tão somente que é uma variedade da aparição tangível. É o estado de certos Espíritos que podem revestir momentaneamente as formas de uma pessoa viva, ao ponto de causar completa ilusão. (Do grego **a** privativo, e **geine**, **geinomaï**, gerar: que não foi gerado.)
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1740,7 +1740,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Tanto quanto do Espírito errante, a vontade é igualmente atributo do Espírito encarnado; daí o poder do magnetizador, poder que se sabe estar na razão direta da força de vontade. Podendo o Espírito encarnado atuar sobre a matéria elementar, pode do mesmo modo mudar-lhe as propriedades, dentro de certos limites. Assim se explica a faculdade de cura pelo contato e pela imposição das mãos, faculdade que algumas pessoas possuem em grau mais ou menos elevado. 👉 ([`LDM-p175`](#LDM-p175), e 📓 **Revista Espírita**, de julho de 1859: O zuavo de Magenta; Um oficial do exército da Itália.)
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1815,7 +1815,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Os que se prendem a certas localidades ou a certas coisas materiais nunca são Espíritos superiores. Contudo, mesmo que não pertençam a esta categoria, pode dar-se que não sejam maus e nenhuma intenção má alimentem. Não raro, são até comensais mais úteis do que prejudiciais, porquanto, desde que se interessam pelas pessoas, podem protegê-las.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1853,7 +1853,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 138. São variadíssimos os meios de comunicação. Atuando sobre os nossos órgãos e sobre todos os nossos sentidos, podem os Espíritos manifestar-se à nossa visão, por meio das aparições; ao nosso tato, por impressões tangíveis, visíveis ou ocultas; à audição pelos ruídos; ao olfato por meio de odores sem causa conhecida. Este último modo de manifestação, se bem muito real, é, incontestavelmente, o mais incerto, pelas múltiplas causas que podem induzir em erro. Daí o nos não demorarmos em tratar dele. O que devemos examinar com cuidado são os diversos meios de se obterem comunicações, isto é, uma permuta regular e continuada de pensamentos. Esses meios são: **as pancadas**, **a palavra** e **a escrita**. Estudá-los-emos em capítulos especiais.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1914,7 +1914,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Assim, pois, nem todos os Espíritos que se manifestam por pancadas são batedores. Este qualificativo deve ser reservado para os que poderíamos chamar batedores de profissão e que, por este meio, se deleitam em pregar partidas, para divertimentos de umas tantas pessoas, em aborrecer com as suas importunações. Pode-se esperar que algumas vezes deem coisas espirituosas; porém, coisas profundas, nunca. Seria, conseguintemente, perder tempo formular-lhes questões de certo porte científico ou filosófico. A ignorância e a inferioridade que lhes são peculiares deram motivo a que, com justeza, os outros Espíritos os qualificassem de palhaços, ou saltimbancos do mundo espírita. Acrescentemos que, além de agirem quase sempre por conta própria, também são amiúde instrumentos de que lançam mão os Espíritos superiores, quando querem produzir efeitos materiais.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -1971,7 +1971,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   De um modo ou de outro, o fenômeno da pneumatofonia é quase sempre espontâneo e só muito raramente pode ser provocado.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2011,7 +2011,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 158. Nos primeiros tempos das manifestações, quando ainda ninguém tinha sobre o assunto ideias exatas, muitos escritos foram publicados com este título: Comunicações de uma mesa, de uma cesta, de uma prancheta etc. Hoje, bem se percebe o que tais expressões têm de impróprias, ou errôneas, abstração feita do caráter pouco sério que revelam. Efetivamente, como acabamos de ver, as mesas, pranchetas e cestas não são mais do que instrumentos ininteligentes, embora animados, por instantes, de uma vida fictícia, que nada podem comunicar por si mesmos. Dizer o contrário é tomar o efeito pela causa, o instrumento pelo princípio. Fora o mesmo que um autor declarar, no título da sua obra, tê-la escrito com uma pena metálica ou com uma pena de pato. Esses instrumentos, ademais, não são exclusivos. Conhecemos alguém que, em vez da cesta-pião, que acima descrevemos, se servia de um funil, em cujo gargalo introduzia o lápis. Ter-se-ia então podido receber comunicações de um funil, do mesmo modo que de uma caçarola ou de uma saladeira. Se elas são obtidas por meio de pancadas com uma cadeira ou uma bengala, já não há uma mesa falante, mas uma cadeira ou uma bengala falantes. O que importa se conheça não é a natureza do instrumento, e sim o modo de obtenção. Se a comunicação vem por meio da escrita, qualquer que seja o aparelho que sustente o lápis, o que há, para nós, é psicografia; tiptologia, se por meio de pancadas. Tomando o Espiritismo as proporções de uma ciência, indispensável se lhe torna uma linguagem científica.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2193,7 +2193,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Trataremos de modo especial dos médiuns escreventes nos **capítulo**s que se seguem.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2261,7 +2261,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 184. O pressentimento é uma intuição vaga das coisas futuras. Algumas pessoas têm essa faculdade mais ou menos desenvolvida. Pode ser devida a uma espécie de dupla vista, que lhes permite entrever as consequências das coisas atuais e a filiação dos acontecimentos. Mas, muitas vezes, também é resultado de comunicações ocultas e, sobretudo neste caso, é que se pode dar aos que dela são dotados o nome de médiuns de pressentimentos, que constituem uma variedade dos médiuns inspirados.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2533,7 +2533,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Cumpre, além disso, notar que os matizes que a mediunidade apresenta, e aos quais outros mais se poderiam acrescentar, nem sempre guardam relação com o caráter do médium. Assim, por exemplo, um médium naturalmente alegre, jovial, pode obter comumente comunicações graves, mesmo severas e vice-versa. É ainda uma prova evidente de que ele age sob a impulsão de uma influência estranha. Voltaremos ao assunto no capítulo que trata da influência moral do médium. 👉 ([`LDM-2-20`](#LDM-2-20))
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2725,7 +2725,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   16ª. Como pode um homem aperfeiçoar-se mediante o ensino dos Espíritos, quando não tem, nem por si mesmo, nem com o auxílio de outros médiuns, os meios de receber de modo direto esse ensinamento?
   >Não tem ele os livros, como tem o cristão o Evangelho? Para praticar a moral de Jesus, não é preciso que o cristão tenha ouvido as palavras ao lhe saírem da boca.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2897,7 +2897,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Se os que reclamam esses fenômenos, como meio de se convencerem, estudassem previamente a teoria, haviam de saber em que condições excepcionais eles se produzem.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -2990,7 +2990,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >
   >**Erasto**
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -3023,7 +3023,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Em resumo: as condições do meio serão tanto melhores quanto mais homogeneidade houver para o bem, mais sentimentos puros e elevados, mais desejo sincero de instrução, sem ideias preconcebidas.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -3083,7 +3083,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   📝 **Nota**. na 📓 **Revista Espírita** de setembro de 1861, encontra-se, minudenciado, um processo empregado pelos educadores de pássaros sábios, com o fim de fazê-los tirar de um maço de cartas as que se queiram.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -3267,7 +3267,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   7ª. Que se deve pensar dos que, vendo um perigo qualquer no Espiritismo, julgam que o meio de preveni-lo seria proibir as comunicações espíritas?
   >Se podem proibir a certas pessoas que se comuniquem com os Espíritos, não podem impedir que manifestações espontâneas sejam feitas a essas mesmas pessoas, porquanto não podem suprimir os Espíritos, nem lhes impedir que exerçam sua influência oculta. Esses tais se assemelham às crianças que tapam os olhos e ficam crentes de que ninguém as vê. Fora loucura querer suprimir uma coisa que oferece grandes vantagens, só porque imprudentes podem abusar dela. O meio de se lhe prevenirem os inconvenientes consiste, ao contrário, em torná-la conhecida a fundo.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -3497,7 +3497,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 **Nota**. Há médiuns de maior ou menor impressionabilidade nervosa, pelo que a agitação não se pode considerar como regra absoluta. Aqui, como em tudo, devem ter-se em conta as circunstâncias. O caráter penoso e desagradável da impressão é um efeito de contraste, porquanto, se o Espírito do médium simpatiza com o mau Espírito que se manifesta, nada ou muito pouco a proximidade deste o afetará. Todavia, é preciso se não confunda a rapidez da escrita, que deriva da extrema flexibilidade de certos médiuns, com a agitação convulsiva que os médiuns mais lentos podem experimentar ao contato dos Espíritos imperfeitos.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -3868,7 +3868,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   a) Por que não será praticada desde já?
   >É praticável para certas pessoas, mas não para toda gente. Preciso é que os homens se depurem, a fim de que seus Espíritos se desprendam da matéria e isso constitui uma razão a mais para que a evocação se faça em nome de Deus. Até lá, continuará circunscrita às almas de escol e desmaterializadas, o que raramente se encontra nesse mundo, dado o estado dos habitantes da Terra.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -4083,7 +4083,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 **Nota**.. As questões sobre a constituição física e os elementos astronômicos dos mundos se compreendem no campo das pesquisas científicas, para cuja efetivação não devem os Espíritos poupar-nos os trabalhos que demandam. Se não fosse assim, muito cômodo se tornaria para um astrônomo pedir aos Espíritos que lhe fizessem os cálculos, o que, no entanto, depois, sem dúvida, esconderia. Se os Espíritos pudessem, por meio da revelação, evitar o trabalho de uma descoberta, é provável que o fizessem para um sábio que, por bastante modesto, não hesitaria em proclamar abertamente o meio pelo qual o alcançara e não para os orgulhosos que os renegam e a cujo amor-próprio, ao contrário, eles muitas vezes poupam decepções.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -4198,7 +4198,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 **Nota**. A astúcia dos Espíritos mistificadores ultrapassa às vezes tudo o que se possa imaginar. A arte, com que dispõem as suas baterias e combinam os meios de persuadir, seria uma coisa curiosa, se eles nunca passassem dos simples gracejos; porém, as mistificações podem ter consequências desagradáveis para os que não se achem em guarda. Sentimo-nos felizes por termos podido abrir a tempo os olhos a muitas pessoas que se dignaram de pedir o nosso parecer e por lhes havermos poupado ações ridículas e comprometedoras. Entre os meios que esses Espíritos empregam, devem colocar-se na primeira linha, como os mais frequentes, os que têm por fim tentar a cobiça, como a revelação de pretendidos tesouros ocultos, o anúncio de heranças, ou outras fontes de riquezas. Devem, além disso, considerar-se suspeitas, logo à primeira vista, as predições com época determinada, assim como todas as indicações precisas, relativas a interesses materiais. Cumpre não se deem os passos prescritos ou aconselhados pelos Espíritos, quando o fim não seja eminentemente racional; que ninguém nunca se deixe deslumbrar pelos nomes que os Espíritos tomam para dar aparência de veracidade às suas palavras; desconfiar das teorias e sistemas científicos ousados; enfim, de tudo o que se afaste do objetivo moral das manifestações. Encheríamos um volume dos mais curiosos, se houvéramos de referir todas as mistificações de que temos tido conhecimento.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -4330,7 +4330,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Em resumo, repetimos, a melhor garantia está na moralidade notória dos médiuns e na ausência de todas as causas de interesse material, ou de amor-próprio, capazes de estimular-lhes o exercício das faculdades mediúnicas que possuam, porquanto essas mesmas causas poderiam induzi-los a simular as de que não dispõem.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -4529,7 +4529,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Convidamos, pois, todas as Sociedades espíritas a colaborar nessa grande obra. Que de um extremo ao outro do mundo elas se estendam fraternalmente as mãos e eis que terão colhido o mal em inextricáveis malhas.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -4665,7 +4665,7 @@ Art. 29º — O presente regulamento poderá ser modificado, quando for convenie
 
 Pode a Sociedade, sem modificar o seu regulamento nos pontos essenciais, adotar todas as medidas complementares que lhe pareçam necessárias.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -5086,7 +5086,7 @@ Interrogado sobre o motivo que o levara a proceder assim, disse esse Espírito: 
 
 De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo Invisível, sob o pálio de um grande nome, é que anima os Espíritos embusteiros. A lhes frustrar os embustes é que todos devem consagrar a máxima atenção, mas a tanto ninguém pode chegar, senão com a ajuda da experiência adquirida por meio de um estudo sério. Daí o repetirmos incessantemente: Estudai, antes de praticardes, porquanto é esse o único meio de não adquirirdes experiência à vossa própria custa.
 
-[🔼 voltar um nível](#LDM-2)
+[⤴️ voltar um nível](#LDM-2)
 
 ---
 
@@ -5148,7 +5148,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 ## `LDM-3` 🗂️ Parte 3 - Pós-textual {#LDM-3} 
 
-[🔼 voltar um nível](#LDM)
+[⤴️ voltar um nível](#LDM)
 
 ### `LDM-3-01` 📃 1. Nota explicativa {#LDM-3-01} 
 
@@ -5220,7 +5220,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 **A Editora**
 
-[🔼 voltar um nível](#LDM)
+[⤴️ voltar um nível](#LDM)
 
 **📑 Notas de rodapé**
 
