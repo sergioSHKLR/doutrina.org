@@ -3,7 +3,7 @@ title: ✒️ LDM
 layout: single-pane
 ---
 
-[⬅ 💧 doutrina.org](./)
+[⬅](./) 💧 doutrina.org
 
 ---
 

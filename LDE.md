@@ -3,7 +3,7 @@ title: 👻 LDE
 layout: single-pane
 ---
 
-[⬅ 💧 doutrina.org](./)
+[⬅](./) 💧 doutrina.org
 
 ---
 
