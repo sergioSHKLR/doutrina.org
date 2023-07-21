@@ -14,8 +14,12 @@
     <link rel="stylesheet" href="https://doutrina.org/scrap.css">
     <style>
         button {
-            border: transparent
+            border: 1px solid lightgrey;
+            border-radius: 5px;
         }
+
+        #green {background-color: green; color: white; font-weight: bold;}
+        #red {background-color: red;color: white; font-weight: bold;}
 
         html {
             margin-left: 0;
@@ -24,7 +28,7 @@
             padding-right: 20px
         }
 
-        #buttons {
+        .buttons {
             position: absolute;
             right: 45px;
             top: 15px
@@ -96,7 +100,7 @@
 </head>
 
 <body>
-    <div id="buttons"><button onclick="removeElement()">➖</button>&nbsp;<button onclick="resetElement()">🔲</button></div>
+    <div class="buttons"><button id="green" onclick="resetElement()">O</button>&nbsp;<button id="red" onclick="removeElement()">X</button></div>
     <div id="page-wrapper">
         <section id="content-wrapper"> {
             {
@@ -112,7 +116,7 @@
                     href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus" target="ext">Bíblia
                     (TB) <b style="color: blue;">⬇</b></a>| <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré"
                     target="ext">Wikiquotes <b style="color: blue;">⬇</b></a><span
-                    style="color: red; position: absolute; right: 35px;">Anote com Hypothes.is&nbsp;
+                    style=" float: right;">Anote com Hypothes.is&nbsp;
                     &nbsp;
                     ➡&nbsp;
                     &nbsp;
