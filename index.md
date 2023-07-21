@@ -91,7 +91,7 @@ Deus abençoa, sempre!
 
 ## Legal
 
-- **LDE.md**, **LDM.md**, **ESE.md**, **CEU.md** e **GEN.md**  e seus variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível em https://github.com/sergioSHKLR.
+- **LDE.md**, **LDM.md**, **ESE.md**, **CEU.md** e **GEN.md**  e seus variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível aqui [](https://github.com/sergioSHKLR).
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
