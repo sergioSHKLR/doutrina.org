@@ -15,7 +15,10 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "../pwa/favicon.png"
+      "src": "../pwa/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "shortcuts": [],
