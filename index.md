@@ -18,7 +18,7 @@ Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https:
 | --- | ---: |
 | <a href="./LDE.html">LDE 👻 O Livro dos Espíritos</a>   | pronto > 🟢 |
 | <a href="./LDM.html">LDM ✒️ O Livro dos Médiuns</a>   | pronto > 🟢 |
-| <a href="./ESE.html">ESE 🕊️ O Evangelho segundo o Espiritismo</a>   | em andamento > 🟡 |
+| <a href="./ESE.html">ESE 🕊️ O Evangelho (...) </a>   | em andamento > 🟡 |
 | CEU 🔥 O Céu e o Inferno   | aguardando > 🔴 |
 | GEN 🌱 A Gênese   | aguardando > 🔴 |
 
