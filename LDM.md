@@ -2,6 +2,7 @@
 title: ✒️ LDM
 layout: default
 ---
+
 <title>✒️ LDM | doutrina.org</title>
 
 
