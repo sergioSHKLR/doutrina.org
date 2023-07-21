@@ -13,66 +13,67 @@
 						</svg>" />
     <link rel="stylesheet" href="https://doutrina.org/scrap.css">
     <style>
+        button {
+            border: transparent
+        }
 
-        button {border: transparent}
         html {
-            margin-left: 0px;
+            margin-left: 0;
             margin-right: 20px;
-            padding-left: 0px;
-            padding-right: 20px;
+            padding-left: 0;
+            padding-right: 20px
         }
 
         #buttons {
             position: absolute;
-            top: 15px;
             right: 45px;
+            top: 15px
         }
 
         #page-wrapper {
             background-color: white;
             border: 1px solid transparent;
-            width: 95vw;
-            height: 95vh;
             display: flex;
+            height: 95vh;
             padding: 10px;
+            width: 95vw
         }
 
         #content-wrapper {
             background-color: whitesmoke;
             border: 1px solid gainsboro;
-            width: 50vw;
+            flex-grow: 1;
             height: 95vh;
+            margin-right: 10px;
             overflow: scroll;
             overscroll-behavior: contain;
-            flex-grow: 1;
-            margin-right: 10px;
             padding-left: 10px;
             padding-right: 10px;
+            width: 50vw
         }
 
         #ext-wrapper {
+            background-color: whitesmoke;
             border: 1px solid gainsboro;
-            width: 50vw;
             height: 93vh;
             overflow: hide;
             overscroll-behavior: contain;
             padding-top: 20px;
-            background-color: whitesmoke;
+            width: 50vw
         }
 
         #ext {
             border: 1px solid transparent;
-            width: 95%;
             height: 85vh;
+            margin: 10px;
             overflow: scroll;
             overscroll-behavior: contain;
-            margin: 10px;
-
+            width: 95%
         }
 
         @media only screen and (max-width: 486px) {
             body {
-                background-color: whitesmoke;
+                background-color: whitesmoke
             }
 
             #buttons {
@@ -80,47 +81,46 @@
             }
 
             #ext-wrapper {
-                display: none;
+                display: none
             }
 
             @media (prefers-color-scheme: dark) {
                 root {
-                    color: whitesmoke;
                     background-color: #202020;
+                    color: whitesmoke
                 }
             }
         }
     </style>
+
 </head>
 
 <body>
-    <div id="buttons">
-        <button onclick="removeElement()">➖</button>
-        <button onclick="resetElement()">🔲</button>
-    </div>
+    <div id="buttons"><button onclick="removeElement()">➖</button><button onclick="resetElement()">🔲</button></div>
     <div id="page-wrapper">
-        <section id="content-wrapper">
-            {{ content }}
+        <section id="content-wrapper"> {
+            {
+            content
+            }
+            }
+
         </section>
-
-
         <div id="ext-wrapper">
-            <p style="margin-left: 30px;">
-                <a href="https://pt.m.wikipedia.org" target="ext">Wikipédia <b style="color: blue;">⬇</b>
-                </a> | <a href="https://pt.m.wiktionary.org" target="ext">Wikicionário <b style="color: blue;">⬇</b>
-                </a> | <a href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus"
-                    target="ext">Bíblia (TB) <b style="color: blue;">⬇</b>
-                </a> | <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré" target="ext">Wikiquotes <b
-                        style="color: blue;">⬇</b>
-                </a>
-                <span style="color: red; position: absolute; right: 35px;">Anote com
-                    Hypothes.is&nbsp;&nbsp;➡&nbsp;&nbsp;</span>
-            </p>
-            <iframe id="ext" src="../angel-splash.html" name="ext"></iframe>
+            <p style="margin-left: 30px;"><a href="https://pt.m.wikipedia.org" target="ext">Wikipédia <b
+                        style="color: blue;">⬇</b></a>| <a href="https://pt.m.wiktionary.org" target="ext">Wikicionário
+                    <b style="color: blue;">⬇</b></a>| <a
+                    href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus" target="ext">Bíblia
+                    (TB) <b style="color: blue;">⬇</b></a>| <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré"
+                    target="ext">Wikiquotes <b style="color: blue;">⬇</b></a><span
+                    style="color: red; position: absolute; right: 35px;">Anote com Hypothes.is&nbsp;
+                    &nbsp;
+                    ➡&nbsp;
+                    &nbsp;
+
+                </span></p><iframe id="ext" src="../angel-splash.html" name="ext"></iframe>
         </div>
     </div>
-    <script>
-        function removeElement() {
+    <script>function removeElement() {
             document.getElementById("ext-wrapper").style.display = "none";
         }
 
@@ -128,6 +128,7 @@
             document.getElementById("ext-wrapper").style.display = "block";
             document.getElementById("ext-wrapper").style.visibility = "visible";
         }
+
     </script>
 </body>
 
