@@ -959,7 +959,7 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 
 #### LDE-1-03-01 📃 Formação dos mundos {#LDE-1-03-01}
 
-*O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
+O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.
 
 ---
 
@@ -1204,7 +1204,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### LDE-1-04-01 📃 Seres orgânicos e inorgânicos {#LDE-1-04-01}
 
-*Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.*
+Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
 
 ---
 
@@ -11696,7 +11696,7 @@ Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomoni
 
 O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
-Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 **Revista Espírita**, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.” (📓 **Revista Espírita**, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
@@ -11710,7 +11710,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
-É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+É baseado nesses informes “científicos” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
 
 >Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 **Revista Espírita** de 1863)
 >
@@ -11718,7 +11718,7 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 
 É importante compreender, também, que os textos publicados por Allan Kardec na 📓 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
 
->Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
+>Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “interpretação da doutrina dos anjos decaídos”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
