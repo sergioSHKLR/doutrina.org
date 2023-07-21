@@ -9,6 +9,12 @@
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
     <style>
+        #buttons {
+            position: absolute;
+            top: 30px;
+            left: 30px;
+        }
+
         #page-wrapper {
             width: 100vw;
             height: 100vh;
@@ -58,8 +64,11 @@
 </head>
 
 <body>
-  
-
+    <div id="buttons">
+        <p>Painel direito</p>
+        <button onclick="removeElement()">Esconder</button>
+        <button onclick="resetElement()">Mostrar</button>
+    </div>
 
     <div id="page-wrapper">
 
@@ -92,9 +101,7 @@
             <iframe id="ext" src="../angel-splash.html" name="ext"></iframe>
         </div>
     </div>
-    <p> Painel direito</p>
-    <button onclick="removeElement()">Esconder</button>
-    <button onclick="resetElement()">Mostrar</button>
+
     <!--
     <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
     -->
