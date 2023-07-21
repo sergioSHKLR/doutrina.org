@@ -15,9 +15,12 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "../pwa/favicon.svg"
+      "src": "../pwa/favicon.png"
     }
   ],
   "shortcuts": [],
-  "lang": "pt"
+  "lang": "pt",
+  "display_override": [
+    "window-controls-overlay"
+  ]
 }
