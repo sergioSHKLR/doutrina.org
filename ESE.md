@@ -6,7 +6,7 @@ layout: default
 <title>🕊️ ESE | doutrina.org</title>
 
 
-[⬅](./) 💧 doutrina.org
+[⬅️](./) 💧 doutrina.org
 
 ---
 

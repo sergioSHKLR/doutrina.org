@@ -6,7 +6,7 @@ layout: default
 <title>✒️ LDM | doutrina.org</title>
 
 
-[⬅](./) 💧 doutrina.org
+[⬅️](./) 💧 doutrina.org
 
 ---
 
