@@ -3,7 +3,7 @@ title: 🕊️ ESE
 layout: single-pane
 ---
 
-[⬅ 💧 doutrina.org](./index.html)
+[⬅ 💧 doutrina.org](./)
 
 ---
 
