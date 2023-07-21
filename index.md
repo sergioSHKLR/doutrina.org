@@ -3,6 +3,8 @@ title: 🏠 Início
 layout: default
 ---
 
+<title>🏠 Início | doutrina.org</title>
+
 # Bem vindo!
 
 <!-- ## Bem vindo!
