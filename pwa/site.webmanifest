@@ -1,0 +1,101 @@
+
+{
+  "name": "Doutrina.org | Leia. Reflita. Anote.",
+  "short_name": "Doutrina",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "description": "Plataforma de Estudos da Filosofia & Ciência Espírita",
+  "categories": [
+    "reference",
+    "education",
+    "personal"
+  ],
+  "icons": [
+    {
+     "src": "/pwa/maskable.png",
+     "sizes": "512x512",
+     "type": "image/png",
+     "purpose": "maskable"
+        },
+    {
+      "src": "/pwa/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#616161",
+  "background_color": "#616161",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "shortcuts": [
+    {
+      "name": "O Livro dos Espíritos",
+      "short_name": "LDE",
+      "url": "/1lde",
+      "icons": [
+        {
+          "src": "/pwa/ghost.png",
+      "sizes": "512x512",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "O Livro dos Médiuns",
+      "short_name": "LDM",
+      "url": "/2ldm",
+      "icons": [
+        {
+          "src": "/pwa/pen.png",
+      "sizes": "512x512",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "O Evangelho",
+      "short_name": "ESE",
+      "url": "/3ese",
+      "icons": [
+        {
+          "src": "/pwa/dove.png",
+      "sizes": "512x512",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "O Céu e o Inferno",
+      "short_name": "CEU",
+      "url": "/4ceu",
+      "icons": [
+        {
+          "src": "/pwa/cloud.png",
+      "sizes": "512x512",
+          "purpose": "any"
+        }
+      ]
+    },
+        {
+          "name": "A Gênese",
+          "short_name": "GEN",
+          "url": "/5gen",
+          "icons": [
+            {
+              "src": "/pwa/seedling.png",
+      "sizes": "512x512",
+              "purpose": "any"
+            }
+          ]
+        }
+      ]
+    }
+  
