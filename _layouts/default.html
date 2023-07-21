@@ -1,135 +1,122 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://hypothes.is/embed.js" async></script>
-    <link rel="icon"
-        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
+    <link rel="icon" href="data:image/svg+xml,
+						<svg
+							xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+							<text y='0.9em' font-size='90'>💧</text>
+						</svg>" />
     <link rel="stylesheet" href="https://doutrina.org/scrap.css">
-
     <style>
-        html {
-            margin-left: 10px;
-            margin-right: 20px;
-            padding-left: 10px;
-            padding-right: 20px;
+      html {
+        margin-left: 0px;
+        margin-right: 20px;
+        padding-left: 0px;
+        padding-right: 20px;
+      }
+
+      #buttons {
+        position: absolute;
+        top: 15px;
+        right: 45px;
+      }
+
+      #page-wrapper {
+        border: 3px solid red;
+        width: 95vw;
+        height: 100vh;
+        display: flex;
+        padding: 10px;
+      }
+
+      #content-wrapper {
+        border: 3px solid orange;
+        width: 50vw;
+        height: 100vh;
+        overflow: scroll;
+        overscroll-behavior: contain;
+        background-color: transparent;
+        flex-grow: 1;
+      }
+
+      #ext-wrapper {
+        border: 3px solid blue;
+        width: 50vw;
+        height: 100vh;
+        top: 5px;
+        right: 5px;
+        overflow: scroll;
+        overscroll-behavior: contain;
+        border: 1px solid grey;
+        padding-top: 10px;
+        background-color: transparent;
+      }
+
+      #ext {
+        border: 3px solid purple;
+        width: 50vw;
+        height: 100vh;
+        border: none;
+        overflow: scroll;
+        overscroll-behavior: contain;
+      }
+
+      @media only screen and (max-width: 486px) {
+        body {
+          background-color: whitesmoke;
         }
 
         #buttons {
-            position: absolute;
-            top: 10px;
-            left: 45vw;
-        }
-
-        #page-wrapper {
-            border: 3px solid red;
-            width: 50vw;
-            height: 100vh;
-            display: flex;
-        }
-
-        #content-wrapper {
-            border: 3px solid orange;
-            width: 50vw;
-            height: 100vh;
-            overflow: scroll;
-            overscroll-behavior: contain;
-            background-color: transparent;
-            flex-grow: 1;
-            margin: 10px;
-            padding: 10px;
+          display: none
         }
 
         #ext-wrapper {
-            border: 3px solid blue;
-            width: 50vw;
-            height: 100vh;
-            top: 0px;
-            right: 0;
-            overflow: scroll;
-            overscroll-behavior: contain;
-            border: 1px solid grey;
-            padding-top: 10px;
-            background-color: transparent;
+          display: none;
         }
 
-        #ext {
-            border: 3px solid purple;
-            width: 50vw;
-            height: 100vh;
-            border: none;
-            overflow: scroll;
-            overscroll-behavior: contain;
+        @media (prefers-color-scheme: dark) {
+          root {
+            color: whitesmoke;
+            background-color: #202020;
+          }
         }
-
-        @media only screen and (max-width: 486px) {
-            body {
-                background-color: whitesmoke;
-            }
-
-            #buttons {
-                display: none
-            }
-
-            #ext-wrapper {
-                display: none;
-            }
-
-            @media (prefers-color-scheme: dark) {
-                root {
-                    color: whitesmoke;
-                    background-color: #202020;
-                }
-            }
-        }
+      }
     </style>
-
-
-</head>
-
-<body>
+  </head>
+  <body>
     <div id="buttons">
-        <button onclick="removeElement()">X</button>
-        <button onclick="resetElement()">O</button>
+      <button onclick="removeElement()">X</button>
+      <button onclick="resetElement()">O</button>
     </div>
-
     <div id="page-wrapper">
-
-        <section id="content-wrapper">
-
-            {{ content }}
-
-        </section>
-
-        <div id="ext-wrapper" class="ext-wrapper">
-            <p style="margin-left: 30px;"><a href="https://pt.m.wikipedia.org" target="ext">Wikipédia <b
-                        style="color: blue;">⬇</b></a> | <a href="https://pt.m.wiktionary.org" target="ext">Wikicionário
-                    <b style="color: blue;">⬇</b></a> | <a
-                    href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus" target="ext">Bíblia
-                    (TB) <b style="color: blue;">⬇</b></a> | <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré"
-                    target="ext">Wikiquotes
-                    <b style="color: blue;">⬇</b></a><span style="color: red; position: absolute; right: 35px;">Anote
-                    com
-                    Hypothes.is&nbsp;&nbsp;➡&nbsp;&nbsp;</span></p>
-
-            <iframe id="ext" src="../angel-splash.html" name="ext"></iframe>
-        </div>
+      <section id="content-wrapper">
+        {{ content }}
+      </section>
+      <div id="ext-wrapper" class="ext-wrapper">
+        <p style="margin-left: 30px;">
+          <a href="https://pt.m.wikipedia.org" target="ext">Wikipédia <b style="color: blue;">⬇</b>
+          </a> | <a href="https://pt.m.wiktionary.org" target="ext">Wikicionário <b style="color: blue;">⬇</b>
+          </a> | <a href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus" target="ext">Bíblia (TB) <b style="color: blue;">⬇</b>
+          </a> | <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré" target="ext">Wikiquotes <b style="color: blue;">⬇</b>
+          </a>
+          <span style="color: red; position: absolute; right: 35px;">Anote com Hypothes.is&nbsp;&nbsp;➡&nbsp;&nbsp;</span>
+        </p>
+        <iframe id="ext" src="" name="ext"></iframe>
+      </div>
     </div>
-
     <script>
-        function removeElement() {
-            document.getElementById("ext-wrapper").style.display = "none";
-        }
+      function removeElement() {
+        document.getElementById("ext-wrapper").style.display = "none";
+      }
 
-        function resetElement() {
-            document.getElementById("ext-wrapper").style.display = "block";
-            document.getElementById("ext-wrapper").style.visibility = "visible";
-        }
+      function resetElement() {
+        document.getElementById("ext-wrapper").style.display = "block";
+        document.getElementById("ext-wrapper").style.visibility = "visible";
+      }
     </script>
-
-</body>
-
+  </body>
 </html>
