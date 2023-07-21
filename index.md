@@ -3,7 +3,7 @@ title: 🏠 Início
 layout: default
 ---
 
-# 💧 doutrina.org
+# Bem vindo!
 
 <!-- ## Bem vindo!
 
