@@ -1,6 +1,6 @@
 ---
 title: doutrina.org
-homepage: true
+homepage: false
 layout: default
 ---
 
