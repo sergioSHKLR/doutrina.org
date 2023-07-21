@@ -18,8 +18,17 @@
             border-radius: 5px;
         }
 
-        #green {background-color: green; color: white; font-weight: bold;}
-        #red {background-color: red;color: white; font-weight: bold;}
+        #green {
+            background-color: green;
+            color: white;
+            font-weight: bold;
+        }
+
+        #red {
+            background-color: red;
+            color: white;
+            font-weight: bold;
+        }
 
         html {
             margin-left: 0;
@@ -31,7 +40,7 @@
         .buttons {
             position: absolute;
             right: 45px;
-            top: 15px
+            top: 40px
         }
 
         #page-wrapper {
@@ -40,7 +49,8 @@
             display: flex;
             height: 98vh;
             padding: 10px;
-            width: 98vw
+            width: 98vw;
+            margin-top: 20px;
         }
 
         #content-wrapper {
@@ -77,7 +87,7 @@
 
         @media only screen and (max-width: 1450px) {
             body {
-                background-color: whitesmoke
+                background-color: white
             }
 
             #buttons {
@@ -87,26 +97,21 @@
             #ext-wrapper {
                 display: none
             }
-
-            @media (prefers-color-scheme: dark) {
-                root {
-                    background-color: #202020;
-                    color: whitesmoke
-                }
-            }
         }
     </style>
 
 </head>
 
 <body>
-    <div class="buttons"><button id="green" onclick="resetElement()">O</button>&nbsp;<button id="red" onclick="removeElement()">X</button></div>
+
+    <span style=" float: right; background-color: yellow;">Anote com Hypothes.is ➡ </span>
+
+    <div class="buttons"><button id="green" onclick="resetElement()">O</button>&nbsp;<button id="red"
+            onclick="removeElement()">X</button></div>
     <div id="page-wrapper">
-        <section id="content-wrapper"> {
-            {
-            content
-            }
-            }
+        <section id="content-wrapper">
+
+            {{ content }}
 
         </section>
         <div id="ext-wrapper">
@@ -115,13 +120,8 @@
                     <b style="color: blue;">⬇</b></a>| <a
                     href="https://pt.m.wikisource.org/wiki/Tradução_Brasileira_da_Bíblia/Mateus" target="ext">Bíblia
                     (TB) <b style="color: blue;">⬇</b></a>| <a href="//pt.m.wikiquote.org/wiki/Jesus_de_Nazaré"
-                    target="ext">Wikiquotes <b style="color: blue;">⬇</b></a><span
-                    style=" float: right;">Anote com Hypothes.is&nbsp;
-                    &nbsp;
-                    ➡&nbsp;
-                    &nbsp;
-
-                </span></p><iframe id="ext" src="../angel-splash.html" name="ext"></iframe>
+                    target="ext">Wikiquotes <b style="color: blue;">⬇</b></a></p><iframe id="ext"
+                src="../angel-splash.html" name="ext"></iframe>
         </div>
     </div>
     <script>function removeElement() {
