@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+    const el = document.createElement('pwa-update');
+    document.body.appendChild(el);
+  </script>
   <script src="https://hypothes.is/embed.js" async></script>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
-    <style>
-section {width: 100%;}
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
+  <style>
+    section {
+      width: 100%;
+    }
   </style>
-<link rel="stylesheet" href="../scrap.css">
+  <link rel="stylesheet" href="../scrap.css">
 </head>
+
 <body>
   <section>
     {{ content }}
   </section>
-  </div>
 </body>
+
 </html>
