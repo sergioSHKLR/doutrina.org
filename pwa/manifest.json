@@ -15,7 +15,7 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "data:image/svg+xml,\n\t\t\t\t\t\t&lt;svg\n\t\t\t\t\t\t\txmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;\n\t\t\t\t\t\t\t&lt;text y='0.8em' font-size='90'&gt;💧&lt;/text&gt;\n\t\t\t\t\t\t&lt;/svg&gt;"
+      "src": "../pwa/favicon.svg"
     }
   ],
   "shortcuts": [],
