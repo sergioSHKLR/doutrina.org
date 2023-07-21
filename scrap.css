@@ -529,3 +529,6 @@ code {
     opacity: .5;
     vertical-align: middle;
 }
+html {
+    scroll-behavior: smooth;
+  }
