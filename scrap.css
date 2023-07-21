@@ -98,9 +98,7 @@ a {
  */
 
 a:active,
-a:hover {
-    outline: 0;
-}
+a:hover {}
 
 /* Text-level semantics
    ========================================================================== */
@@ -523,10 +521,11 @@ em {
 }
 
 code {
-    border: 1px solid grey;
-    border-radius: 12px;
+    border: 1px solid white;
+    border-radius: 50px;
     padding: 1px 10px;
     background-color: grey;
     color: white;
-    opacity: .5
+    opacity: .5;
+    vertical-align: middle;
 }
