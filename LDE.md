@@ -1399,8 +1399,6 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 ---
 
-<a name="LDE-2"><code>LDE-2</code></a>
-
 ## LDE-2 🗂️ Parte 2. Do mundo espírita {#LDE-2}
 
 - [LDE-2-01 📑 01. Dos Espíritos](#LDE-2-01)
@@ -1591,7 +1589,7 @@ Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É u
 
 ---
 
-##### LDE-q92a"><code>LDE-q92a</code></a
+##### LDE-q92a
 
 #️⃣ 92a. Todos os Espíritos irradiam com igual força?
 
@@ -6384,7 +6382,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 
 ---
 
-##### LDE-q541"><code>LDE-541X</code></a>
+##### LDE-q541
 #️⃣ 541. Durante uma batalha, há Espíritos assistindo e amparando cada um dos exércitos?
 
 >Sim, e que lhes estimulam a coragem.
@@ -7123,8 +7121,6 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 [⤴️ subir um nível](#LDE-2-11)
 
 ---
-
-<a name="LDE-3"><code>LDE-3</code></a>
 
 ## LDE-3 🗂️ Parte 3. Das leis morais {#LDE-3}
 
@@ -10388,8 +10384,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 ---
 
-<a name="LDE-4"><code>LDE-4</code></a>
-
 ## LDE-4 🗂️ Parte 4. Das esperanças e consolações {#LDE-4}
 
 - [LDE-4-01 📑 1. Das penas e gozos terrestres](#LDE-4-01)
@@ -11516,8 +11510,6 @@ De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das 
 
 ---
 
-<a name="LDE-5"><code>LDE-5</code></a>
-
 ## LDE-5 🗂️ Parte 5. Conclusão {#LDE-5}
 
 - [LDE-5-01 📃 01](#LDE-5-01)
@@ -11650,8 +11642,6 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 [⤴️ subir um nível](#LDE-5)
 
 ---
-
-<a name="LDE-6"><code>LDE-6</code></a>
 
 ## LDE-6 🗂️ Parte 6. Pós-textual {#LDE-6}
 

@@ -2272,7 +2272,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ---
 
-#### LDM-p185"><code>LDM-185</code></a>
+#### LDM-p185
 
 - #️⃣ 185. Além das categorias de médiuns que acabamos de enumerar, a mediunidade apresenta uma variedade infinita de matizes, que constituem os chamados médiuns especiais, dotados de aptidões particulares, ainda não definidas, abstração feita das qualidades e conhecimentos do Espírito que se manifesta.
 
@@ -5272,7 +5272,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 [^22]: A.K.: Um dos fatos mais extraordinários desta natureza, pela variedade e singularidade dos fenômenos, é, sem contestação, o que ocorreu em 1852, no Palatinado (Baviera renana), em Bergzabern, perto de Wissemburg. É tanto mais notável quanto denota, reunidos no mesmo indivíduo, quase todos os gêneros de manifestações espontâneas: estrondos de abalar a casa, derribamento dos móveis, arremesso de objetos ao longe por mãos invisíveis, visões e aparições, sonambulismo, êxtase, catalepsia, atração elétrica, gritos e sons aéreos, instrumentos tocando sem contato, comunicações inteligentes etc. e, o que não é de somenos importância, a comprovação destes fatos, durante quase dois anos, por inúmeras testemunhas oculares, dignas de crédito pelo saber e pelas posições sociais que ocupavam. A narração autêntica dos aludidos fenômenos foi publicada, naquela época, em muitos jornais alemães e, especialmente, numa brochura hoje esgotada e raríssima. Na 📓 **Revista Espírita** de 1858 se encontra a tradução completa dessa brochura, com os comentários e explicações indispensáveis. Essa, que saibamos, é a única publicação feita em francês do folheto a que nos referimos. Além do empolgante interesse que tais fenômenos despertam, eles são eminentemente instrutivos, do ponto de vista do estudo prático do Espiritismo.
 
 [^23]: N.E.: No original francês está no grifo. Torpilles humaines. Torpille é um peixe semelhante à raia, ou arraia, que tem órgãos capazes de emitir descargas elétricas. É o peixe-torpedo, à semelhança das denominações que damos, de enguia-elétrica ou peixe-elétrico, ao peixe poraquê amazônico.
-<a name="LDM-X"><code>LDM-X</code></a>
+<a name="LDM-X">LDM-X</a>
 
 [^24]: N.E.: Ver Nota Explicativa.
 
