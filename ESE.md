@@ -1100,6 +1100,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### `ESE-1-05-04` 📃 Esquecimento do passado {#ESE-1-05-04}
 
+{:start="11"}
 11. Em vão se objeta que o esquecimento constitui obstáculo a que se possa aproveitar da experiência de vidas anteriores. Havendo Deus entendido de lançar um véu sobre o passado, é que há nisso vantagem. Com efeito, a lembrança traria gravíssimos inconvenientes. Poderia, em certos casos, humilhar-nos singularmente, ou, então, exaltar-nos o orgulho e, assim, entravar o nosso livre-arbítrio. Em todas as circunstâncias, acarretaria inevitável perturbação nas relações sociais.
 
     Frequentemente, o Espírito renasce no mesmo meio em que já viveu, estabelecendo de novo relações com as mesmas pessoas, a fim de reparar o mal que lhes haja feito. Se reconhecesse nelas as a quem odiara, quiçá o ódio se lhe despertaria outra vez no íntimo. De todo modo, ele se sentiria humilhado em presença daquelas a quem houvesse ofendido.
