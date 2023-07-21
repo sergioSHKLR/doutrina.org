@@ -5,10 +5,6 @@ layout: default
 
 <title>👻 LDE | doutrina.org</title>
 
-[⬅️](./) 🏠 Início
-
----
-
 # LDE 👻 O Livro dos Espíritos {#LDE}
 
 **Sumário**

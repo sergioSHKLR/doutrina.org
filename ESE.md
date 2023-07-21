@@ -5,11 +5,6 @@ layout: default
 
 <title>🕊️ ESE | doutrina.org</title>
 
-
-[⬅️](./) 🏠 Início
-
----
-
 # ESE 🕊️ O Evangelho segundo o Espiritismo {#ESE}
 
 **Sumário**

@@ -5,11 +5,6 @@ layout: default
 
 <title>✒️ LDM | doutrina.org</title>
 
-
-[⬅️](./) 🏠 Início
-
----
-
 # LDM ✒️ O Livro dos Médiuns {#LDM}
 
 **Sumário**
