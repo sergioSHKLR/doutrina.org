@@ -17,11 +17,11 @@ Nosso site, [doutrina.org](https://doutrina.org), é *hosted* no [Github](https:
 
 | Livro  |  Status  |
 | --- | ---: |
-| <a href="./LDE.html">LDE 👻 O Livro dos Espíritos</a>   | pronto > 🟢 |
-| <a href="./LDM.html">LDM ✒️ O Livro dos Médiuns</a>   | pronto > 🟢 |
-| <a href="./ESE.html">ESE 🕊️ O Evangelho (...) </a>   | em andamento > 🟡 |
-| CEU 🔥 O Céu e o Inferno   | aguardando > 🔴 |
-| GEN 🌱 A Gênese   | aguardando > 🔴 |
+| <a href="./LDE.html">LDE 👻 O Livro dos Espíritos</a>   | pronto ➡ 🟢 |
+| <a href="./LDM.html">LDM ✒️ O Livro dos Médiuns</a>   | pronto ➡ 🟢 |
+| <a href="./ESE.html">ESE 🕊️ O Evangelho (...) </a>   | em andamento ➡ 🟡 |
+| CEU 🔥 O Céu e o Inferno   | aguardando ➡ 🔴 |
+| GEN 🌱 A Gênese   | aguardando ➡ 🔴 |
 
 <!-- 
 
