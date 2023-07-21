@@ -2,14 +2,14 @@
 title: 🕊️ ESE
 layout: single-pane
 ---
+<title>🕊️ ESE</title>
+
 
 [⬅](./) 💧 doutrina.org
 
 ---
 
 # ESE 🕊️ O Evangelho segundo o Espiritismo {#ESE}
-
-**DRAFT** 
 
 **Sumário**
 

@@ -2,6 +2,7 @@
 title: 👻 LDE
 layout: single-pane
 ---
+<title>👻 LDE</title>
 
 [⬅](./) 💧 doutrina.org
 
