@@ -33,6 +33,7 @@ layout: single-pane
 
 ---
 
+|
 | 🕊️ **O Evangelho segundo o Espiritismo** |
 |:---:|
 |
@@ -577,7 +578,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-1. >Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui. Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.
+1. >Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: *Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui.* Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: *Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.*
    >
    >✝️ **João, cap. 18. vers. 33, 36 e 37**
    {:.bible}
@@ -800,7 +801,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 [⤴️ subir um nível](#ESE-1)
 
-1. >Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou? — Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: E vós, quem dizeis que Eu sou? — Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.
+1. >Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: *Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou?* — Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: *E vós, quem dizeis que Eu sou?* — Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: *Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.*
    >
    >✝️ **Mateus, 16:13 a 17; Marcos, 8:27 a 30**
    {:.bible}
@@ -812,7 +813,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    {:.bible}
    
 {:start="3"}
-3. >(Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem. — Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
+3. >(Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: *É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem.* — Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
    >
    >✝️ **Mateus, 17:10 a 13; Marcos, 9:11 a 13**
    {:.bible}
@@ -826,17 +827,17 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 5. >Ora, entre os fariseus, havia um homem chamado Nicodemos, senador dos judeus — que veio à noite ter com Jesus e lhe disse:  
    >Mestre, sabemos que vieste da parte de Deus para nos instruir como um doutor, porquanto ninguém poderia fazer os milagres que fazes, se Deus não estivesse com ele.  
    >Jesus lhe respondeu:  
-   >Em verdade, em verdade, digo-te: Ninguém pode ver o Reino de Deus se não nascer de novo.  
+   >*Em verdade, em verdade, digo-te: Ninguém pode ver o Reino de Deus se não nascer de novo.*  
    >Disse-lhe Nicodemos:  
    >Como pode nascer um homem já velho? Pode tornar a entrar no ventre de sua mãe, para nascer segunda vez?   
    >Retorquiu-lhe Jesus:  
-   >Em verdade, em verdade, digo-te: Se um homem não renasce da água e do Espírito, não pode entrar no Reino de Deus.  
-   >O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. — Não te admires de que Eu te haja dito ser preciso que nasças de novo.  
-   >O Espírito sopra onde quer e ouves a sua voz, mas não sabes donde vem ele, nem para onde vai; o mesmo se dá com todo homem que é nascido do Espírito.  
+   >*Em verdade, em verdade, digo-te: Se um homem não renasce da água e do Espírito, não pode entrar no Reino de Deus.*  
+   >*O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. — Não te admires de que Eu te haja dito ser preciso que nasças de novo.*  
+   >*O Espírito sopra onde quer e ouves a sua voz, mas não sabes donde vem ele, nem para onde vai; o mesmo se dá com todo homem que é nascido do Espírito.*  
    >Respondeu-lhe Nicodemos:  
    >Como pode isso fazer-se?  
    >Jesus lhe observou:  
-   >Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?  
+   >*Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?*  
    >
    >✝️ **João, cap. 3, vers. 1 a 12**
    {:.bible}
@@ -860,7 +861,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 9. O Espírito sopra onde quer; ouves-lhe a voz, mas não sabes nem donde ele vem, nem para onde vai: pode-se entender que se trata do Espírito de Deus, que dá vida a quem ele quer, ou da alma do homem. Nesta última acepção — não sabes donde ele vem, nem para onde vai — significa que ninguém sabe o que foi, nem o que será o Espírito. Se o Espírito, ou alma, fosse criado ao mesmo tempo que o corpo, saber-se-ia donde ele veio, pois que se lhe conheceria o começo. Como quer que seja, essa passagem consagra o princípio da preexistência da alma e, por conseguinte, o da pluralidade das existências.
 
 {:start="10"}
-10. >Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir. 
+10. >*Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir.* 
     >
     >✝️ **Mateus, cap. 11, vers. 12 a 15**
     {:.bible}
@@ -871,7 +872,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesus tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
 
 {:start="12"}
-12. >Aqueles do vosso povo a quem a morte foi dada viverão de novo; aqueles que estavam mortos em meio a mim ressuscitarão. Despertai do vosso sono e entoai louvores a Deus, vós que habitais no pó; porque o orvalho que cai sobre vós é um orvalho de luz e porque arruinareis a Terra e o reino dos gigantes. 
+12. >*Aqueles do vosso povo a quem a morte foi dada viverão de novo; aqueles que estavam mortos em meio a mim ressuscitarão. Despertai do vosso sono e entoai louvores a Deus, vós que habitais no pó; porque o orvalho que cai sobre vós é um orvalho de luz e porque arruinareis a Terra e o reino dos gigantes.* 
     >
     >✝️ **Isaías, cap. 26, vers. 19**
     {:.bible}
@@ -1370,7 +1371,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### ESE-1-06-01 📃 O jugo leve {#ESE-1-06-01}
 
-1. >Vinde a mim, todos vós que estais aflitos e sobrecarregados, que Eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração e achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.
+1. >*Vinde a mim, todos vós que estais aflitos e sobrecarregados, que Eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração e achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.*
     >
     >**Mateus, cap. 11, vers. 28 a 30**
     {:.bible}
@@ -1401,7 +1402,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### ESE-1-06-03 📃 Instruções dos Espíritos {#ESE-1-06-01}
 
-   ##### ESE-1-06-03-01 📃 Advento do Espírito de Verdade {#ESE-1-06-01}
+##### ESE-1-06-03-01 📃 Advento do Espírito de Verdade {#ESE-1-06-01}
 
 {:start="5"}
 5. >Venho, como outrora aos transviados filhos de Israel, trazer-vos a verdade e dissipar as trevas. Escutai-me. O Espiritismo, como o fez antigamente a minha palavra, tem de lembrar aos incrédulos que acima deles reina a imutável verdade: o Deus bom, o Deus grande, que faz germinem as plantas e se levantem as ondas. Revelei a doutrina divinal. Como um ceifeiro, reuni em feixes o bem esparso no seio da Humanidade e disse: “Vinde a mim, todos vós que sofreis.”
