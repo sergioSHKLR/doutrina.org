@@ -445,7 +445,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Não penseis que vim revogar a lei ou os profetas; não vim revogar, mas cumprir. Porque em verdade vos digo: Enquanto não passar o céu e a terra, de modo nenhum passará da lei um só i ou um só til, sem que tudo se cumpra.*
 >
->✝️ Mateus, cap. 5, vers. 17-18
+>✝️ **Mateus, cap. 5, vers. 17-18**
 {:.bible}
 
 #### `ESE-1-01-01` 📃 Moisés {#ESE-1-01-01}
@@ -455,27 +455,18 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
    A Lei de Deus está formulada nos dez mandamentos seguintes:
 
->Eu sou o Senhor, vosso Deus, que vos tirei do Egito, da casa da servidão. Não tereis, diante de mim, outros deuses estrangeiros. Não fareis imagem esculpida, nem figura alguma do que está em cima do céu, nem embaixo na Terra, nem do que quer que esteja nas águas sob a terra. Não os adorareis e não lhes prestareis culto soberano. [^4]
+>Eu sou o Senhor, vosso Deus, que vos tirei do Egito, da casa da servidão. Não tereis, diante de mim, outros deuses estrangeiros. Não fareis imagem esculpida, nem figura alguma do que está em cima do céu, nem embaixo na Terra, nem do que quer que esteja nas águas sob a terra. Não os adorareis e não lhes prestareis culto soberano. [^4]  
+>Não pronunciareis em vão o nome do Senhor, vosso Deus.  
+>Lembrai-vos de santificar o dia do sábado.  
+>Honrai a vosso pai e a vossa mãe, a fim de viverdes longo tempo na terra que o Senhor vosso Deus vos dará.  
+>Não mateis.  
+>Não cometais adultério.  
+>Não roubeis.  
+>Não presteis testemunho falso contra o vosso próximo.  
+>Não desejeis a mulher do vosso próximo.  
+>Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.  
 >
->Não pronunciareis em vão o nome do Senhor, vosso Deus.
->
->Lembrai-vos de santificar o dia do sábado.
->
->Honrai a vosso pai e a vossa mãe, a fim de viverdes longo tempo na terra que o Senhor vosso Deus vos dará.
->
->Não mateis.
->
->Não cometais adultério.
->
->Não roubeis
->
->Não presteis testemunho falso contra o vosso próximo.
->
->Não desejeis a mulher do vosso próximo.
->
->Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.
->
->✝️ Exôdo, cap. 20, vers. 2-12
+>✝️ **Exôdo, cap. 20, vers. 2-12**
 {:.bible}
 
 >É de todos os tempos e de todos os países essa lei e tem, por isso mesmo, caráter divino. Todas as outras são leis que Moisés decretou, obrigado que se via a conter, pelo temor, um povo de seu natural turbulento e indisciplinado, no qual tinha ele de combater arraigados abusos e preconceitos, adquiridos durante a escravidão do Egito. Para imprimir autoridade às suas leis, houve de lhes atribuir origem divina, conforme o fizeram todos os legisladores dos povos primitivos. A autoridade do homem precisava apoiar-se na autoridade de Deus; mas só a ideia de um Deus terrível podia impressionar criaturas ignorantes, nas quais ainda pouco desenvolvidos se encontravam o senso moral e o sentimento de uma justiça reta. É evidente que aquele que incluíra, entre os seus mandamentos, este: “Não matareis; não causareis dano ao vosso próximo”, não poderia contradizer-se, fazendo da exterminação um dever. As leis moisaicas, propriamente ditas, revestiam, pois, um caráter essencialmente transitório.
@@ -487,14 +478,14 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 >*Amar a Deus acima de todas as coisas e o próximo como a si mesmo.*
 >
->✝️ Livro, cap. X, vers. Y
+>✝️ **Livro, cap. X, vers. Y**
 {:.bible}
 
 >e acrescentando: aí estão a lei toda e os profetas. Por estas palavras:  
 
 >*O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota.*
 >
->✝️ Livro, cap. X, vers. Y
+>✝️ **Livro, cap. X, vers. Y**
 {:.bible}
 
 >quis dizer Jesus ser necessário que a Lei de Deus tivesse cumprimento integral, isto é, fosse praticada na Terra inteira, em toda a sua pureza, com todas as suas ampliações e consequências. Efetivamente, de que serviria haver sido promulgada aquela lei, se ela devesse constituir privilégio de alguns homens, ou, ao menos, de um único povo? Sendo filhos de Deus todos os homens, todos, sem distinção nenhuma, são objeto da mesma solicitude.
@@ -587,9 +578,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 ---
 
 1. >Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui. Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.
->
->(✝️ João, cap. 18. vers. 33, 36 e 37)
-{:.bible}
+   >
+   >✝️ **João, cap. 18. vers. 33, 36 e 37**
+   {:.bible}
 
 #### `ESE-1-02-01` 📃 A vida futura {#ESE-1-02-01}
 
@@ -670,9 +661,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 ---
 
 1. >Não se turbe o vosso coração. Credes em Deus, crede também em mim. Há muitas moradas na casa de meu Pai; se assim não fosse, já Eu vo-lo teria dito, pois me vou para vos preparar o lugar. Depois que me tenha ido e que vos houver preparado o lugar, voltarei e vos retirarei para mim, a fim de que onde Eu estiver, também vós aí estejais.
->
->✝️ João, cap. 14. vers. 1 a 3
-{:.bible}
+   >
+   >✝️ **João, cap. 14. vers. 1 a 3**
+   {:.bible}
 
 #### `ESE-1-03-01` 📃 Diferentes estados da alma na erraticidade {#ESE-1-03-01}
 
@@ -811,19 +802,19 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou? — Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: E vós, quem dizeis que Eu sou? — Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.
    >
-   >✝️ Mateus, 16:13 a 17; Marcos, 8:27 a 30
+   >✝️ **Mateus, 16:13 a 17; Marcos, 8:27 a 30**
    {:.bible}
 
 {:start="2"}
 2. >Nesse ínterim, Herodes, o Tetrarca, ouvira falar de tudo o que fazia Jesus e seu espírito se achava em suspenso, porque uns diziam que João Batista ressuscitara dentre os mortos; outros que aparecera Elias; e outros que um dos antigos profetas ressuscitara. Disse então Herodes: Mandei cortar a cabeça a João Batista; quem é então esse de quem ouço dizer tão grandes coisas? — E ardia por vê-lo.
    >
-   >✝️ Marcos, 6:14 a 16; Lucas, 9:7 a 9
+   >✝️ **Marcos, 6:14 a 16; Lucas, 9:7 a 9**
    {:.bible}
    
 {:start="3"}
 3. >(Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem. — Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
    >
-   >✝️ Mateus, 17:10 a 13; Marcos, 9:11 a 13
+   >✝️ **Mateus, 17:10 a 13; Marcos, 9:11 a 13**
    {:.bible}
 
 #### `ESE-1-04-01` 📃 Ressurreição e reencarnação {#ESE-1-04-01}
@@ -1151,12 +1142,10 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ##### `ESE-1-05-07-01` 📃 Bem e mal sofrer {#ESE-1-05-07-01}
 
-18. >Quando o Cristo disse: “Bem-aventurados os aflitos, o Reino dos Céus lhes pertence”, não se referia de modo geral aos que sofrem, visto que sofrem todos os que se encontram na Terra, quer ocupem tronos, quer jazam sobre a palha. Mas, ah! poucos sofrem bem; poucos compreendem que somente as provas bem suportadas podem conduzi-los ao Reino de Deus. O desânimo é uma falta. Deus vos recusa consolações, desde que vos falte coragem. A prece é um apoio para a alma; contudo, não basta: é preciso tenha por base uma fé viva na bondade de Deus. Ele já muitas vezes vos disse que não coloca fardos pesados em ombros fracos. O fardo é proporcionado às forças, como a recompensa o será à resignação e à coragem. Mais opulenta será a recompensa, do que penosa a aflição. Cumpre, porém, merecê-la, e é para isso que a vida se apresenta cheia de tribulações.
-    >
-    >O militar que não é mandado para as linhas de fogo fica descontente, porque o repouso no campo nenhuma ascensão de posto lhe faculta. Sede, pois, como o militar e não desejeis um repouso em que o vosso corpo se enervaria e se entorpeceria a vossa alma. Alegrai-vos quando Deus vos enviar para a luta. Não consiste esta no fogo da batalha, mas nos amargores da vida, em que, às vezes, de mais coragem se há mister do que num combate sangrento, porquanto não é raro que aquele que se mantém firme em presença do inimigo fraqueje nas tenazes de uma pena moral. Nenhuma recompensa obtém o homem por essa espécie de coragem; mas Deus lhe reserva palmas de vitória e uma situação gloriosa. Quando vos advenha uma causa de sofrimento ou de contrariedade, sobreponde-vos a ela, e, quando houverdes conseguido dominar os ímpetos da impaciência, da cólera, ou do desespero, dizei, de vós para convosco, cheio de justa satisfação: “Fui o mais forte.”
-    >
+18. >Quando o Cristo disse: “Bem-aventurados os aflitos, o Reino dos Céus lhes pertence”, não se referia de modo geral aos que sofrem, visto que sofrem todos os que se encontram na Terra, quer ocupem tronos, quer jazam sobre a palha. Mas, ah! poucos sofrem bem; poucos compreendem que somente as provas bem suportadas podem conduzi-los ao Reino de Deus. O desânimo é uma falta. Deus vos recusa consolações, desde que vos falte coragem. A prece é um apoio para a alma; contudo, não basta: é preciso tenha por base uma fé viva na bondade de Deus. Ele já muitas vezes vos disse que não coloca fardos pesados em ombros fracos. O fardo é proporcionado às forças, como a recompensa o será à resignação e à coragem. Mais opulenta será a recompensa, do que penosa a aflição. Cumpre, porém, merecê-la, e é para isso que a vida se apresenta cheia de tribulações.  
+    >O militar que não é mandado para as linhas de fogo fica descontente, porque o repouso no campo nenhuma ascensão de posto lhe faculta. Sede, pois, como o militar e não desejeis um repouso em que o vosso corpo se enervaria e se entorpeceria a vossa alma. Alegrai-vos quando Deus vos enviar para a luta. Não consiste esta no fogo da batalha, mas nos amargores da vida, em que, às vezes, de mais coragem se há mister do que num combate sangrento, porquanto não é raro que aquele que se mantém firme em presença do inimigo fraqueje nas tenazes de uma pena moral. Nenhuma recompensa obtém o homem por essa espécie de coragem; mas Deus lhe reserva palmas de vitória e uma situação gloriosa. Quando vos advenha uma causa de sofrimento ou de contrariedade, sobreponde-vos a ela, e, quando houverdes conseguido dominar os ímpetos da impaciência, da cólera, ou do desespero, dizei, de vós para convosco, cheio de justa satisfação: “Fui o mais forte.”  
     >Bem-aventurados os aflitos pode então traduzir-se assim: Bem-aventurados os que têm ocasião de provar sua fé, sua firmeza, sua perseverança e sua submissão à vontade de Deus, porque terão centuplicada a alegria que lhes falta na Terra, porque depois do labor virá o repouso.
-    >    
+    >   
     >**Lacordaire**  
     >**Havre, 1863**
     {:.spirit}
@@ -1164,14 +1153,10 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 ##### `ESE-1-05-07-02` 📃 O mal e o remédio {#ESE-1-05-07-02}
 
 {:start="19"}
-19. >Será a Terra um lugar de gozo, um paraíso de delícias? Já não ressoa mais aos vossos ouvidos a voz do profeta? Não proclamou Ele que haveria prantos e ranger de dentes para os que nascessem nesse vale de dores? Esperai, pois, todos vós que aí viveis, causticantes lágrimas e amargo sofrer e, por mais agudas e profundas sejam as vossas dores, volvei o olhar para o Céu e bendizei o Senhor por ter querido experimentar-vos... Ó homens! dar-se-á não reconheçais o poder do vosso Senhor, senão quando Ele vos haja curado as chagas do corpo e coroado de beatitude e ventura os vossos dias? Dar-se-á não reconheçais o seu amor, senão quando vos tenha adornado o corpo de todas as glórias e lhe haja restituído o brilho e a brancura? Imitai aquele que vos foi dado para exemplo. Tendo chegado ao último grau da abjeção e da miséria, deitado sobre uma estrumeira, disse ele [Jó] a Deus: “Senhor, conheci todos os deleites da opulência e me reduzistes à mais absoluta miséria; obrigado, obrigado, meu Deus, por haverdes querido experimentar o vosso servo!” Até quando os vossos olhares se deterão nos horizontes que a morte limita? Quando, afinal, vossa alma se decidirá a lançar-se para além dos limites de um túmulo? Houvésseis de chorar e sofrer a vida inteira, que seria isso, a par da eterna glória reservada ao que tenha sofrido a prova com fé, amor e resignação? Buscai consolações para os vossos males no porvir que Deus vos prepara e procurai-lhe a causa no passado. E vós, que mais sofreis, considerai-vos os afortunados da Terra.
-    >
-    >Como desencarnados, quando pairáveis no Espaço, escolhestes as vossas provas, julgando-vos bastante fortes para as suportar. Por que agora murmurar? Vós, que pedistes a riqueza e a glória, queríeis sustentar luta com a tentação e vencê-la. Vós, que pedistes para lutar de corpo e espírito contra o mal moral e físico, sabíeis que quanto mais forte fosse a prova, tanto mais gloriosa a vitória e que, se triunfásseis, embora devesse o vosso corpo parar numa estrumeira, dele, ao morrer, se desprenderia uma alma de rutilante alvura e purificada pelo batismo da expiação e do sofrimento.
-    >
-    >Que remédio, então, prescrever aos atacados de obsessões cruéis e de cruciantes males? Só um é infalível: a fé, o apelo ao Céu. Se, na maior acerbidade dos vossos sofrimentos, entoardes hinos ao Senhor, o anjo, à vossa cabeceira, com a mão vos apontará o sinal da salvação e o lugar que um dia ocupareis... A fé é o remédio seguro do sofrimento; mostra sempre os horizontes do infinito diante dos quais se esvaem os poucos dias brumosos do presente. Não nos pergunteis, portanto, qual o remédio para curar tal úlcera ou tal chaga, para tal tentação ou tal prova. Lembrai-vos de que aquele que crê é forte pelo remédio da fé e que aquele que duvida um instante da sua eficácia é imediatamente punido, porque logo sente as pungitivas angústias da aflição.
-    >
-    >O Senhor apôs o seu selo em todos os que nele creem. O Cristo vos disse que com a fé se transportam montanhas e eu vos digo que aquele que sofre e tem a fé por amparo ficará sob a sua égide e não mais sofrerá. Os momentos das mais fortes dores lhe serão as primeiras notas alegres da eternidade. Sua alma se desprenderá de tal maneira do corpo que, enquanto ele se estorcer em convulsões, ela planará nas regiões celestes, entoando, com os anjos, hinos de reconhecimento e de glória ao Senhor.
-    >
+19. >Será a Terra um lugar de gozo, um paraíso de delícias? Já não ressoa mais aos vossos ouvidos a voz do profeta? Não proclamou Ele que haveria prantos e ranger de dentes para os que nascessem nesse vale de dores? Esperai, pois, todos vós que aí viveis, causticantes lágrimas e amargo sofrer e, por mais agudas e profundas sejam as vossas dores, volvei o olhar para o Céu e bendizei o Senhor por ter querido experimentar-vos... Ó homens! dar-se-á não reconheçais o poder do vosso Senhor, senão quando Ele vos haja curado as chagas do corpo e coroado de beatitude e ventura os vossos dias? Dar-se-á não reconheçais o seu amor, senão quando vos tenha adornado o corpo de todas as glórias e lhe haja restituído o brilho e a brancura? Imitai aquele que vos foi dado para exemplo. Tendo chegado ao último grau da abjeção e da miséria, deitado sobre uma estrumeira, disse ele [Jó] a Deus: “Senhor, conheci todos os deleites da opulência e me reduzistes à mais absoluta miséria; obrigado, obrigado, meu Deus, por haverdes querido experimentar o vosso servo!” Até quando os vossos olhares se deterão nos horizontes que a morte limita? Quando, afinal, vossa alma se decidirá a lançar-se para além dos limites de um túmulo? Houvésseis de chorar e sofrer a vida inteira, que seria isso, a par da eterna glória reservada ao que tenha sofrido a prova com fé, amor e resignação? Buscai consolações para os vossos males no porvir que Deus vos prepara e procurai-lhe a causa no passado. E vós, que mais sofreis, considerai-vos os afortunados da Terra.  
+    >Como desencarnados, quando pairáveis no Espaço, escolhestes as vossas provas, julgando-vos bastante fortes para as suportar. Por que agora murmurar? Vós, que pedistes a riqueza e a glória, queríeis sustentar luta com a tentação e vencê-la. Vós, que pedistes para lutar de corpo e espírito contra o mal moral e físico, sabíeis que quanto mais forte fosse a prova, tanto mais gloriosa a vitória e que, se triunfásseis, embora devesse o vosso corpo parar numa estrumeira, dele, ao morrer, se desprenderia uma alma de rutilante alvura e purificada pelo batismo da expiação e do sofrimento.  
+    >Que remédio, então, prescrever aos atacados de obsessões cruéis e de cruciantes males? Só um é infalível: a fé, o apelo ao Céu. Se, na maior acerbidade dos vossos sofrimentos, entoardes hinos ao Senhor, o anjo, à vossa cabeceira, com a mão vos apontará o sinal da salvação e o lugar que um dia ocupareis... A fé é o remédio seguro do sofrimento; mostra sempre os horizontes do infinito diante dos quais se esvaem os poucos dias brumosos do presente. Não nos pergunteis, portanto, qual o remédio para curar tal úlcera ou tal chaga, para tal tentação ou tal prova. Lembrai-vos de que aquele que crê é forte pelo remédio da fé e que aquele que duvida um instante da sua eficácia é imediatamente punido, porque logo sente as pungitivas angústias da aflição.  
+    >O Senhor apôs o seu selo em todos os que nele creem. O Cristo vos disse que com a fé se transportam montanhas e eu vos digo que aquele que sofre e tem a fé por amparo ficará sob a sua égide e não mais sofrerá. Os momentos das mais fortes dores lhe serão as primeiras notas alegres da eternidade. Sua alma se desprenderá de tal maneira do corpo que, enquanto ele se estorcer em convulsões, ela planará nas regiões celestes, entoando, com os anjos, hinos de reconhecimento e de glória ao Senhor.  
     >Ditosos os que sofrem e choram! Alegres estejam suas almas, porque Deus as cumulará de bem-aventuranças.
     >
     >**Santo Agostinho**  
