@@ -5,7 +5,7 @@ layout: default
 
 <title>👻 LDE | doutrina.org</title>
 
-[⬅️](./) 💧 doutrina.org
+[⬅️](./) 🏠 Início
 
 ---
 
