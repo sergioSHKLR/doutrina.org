@@ -25,7 +25,7 @@
 
   "categories": ["education"],
 
-  "icons": [{"src": "../pwa/favicon.png","sizes": "512x512","type": "image/png","purpose": "any"}],
+  "icons": [{"src": "../pwa/favicon.png","sizes": "512x512","type": "image/png","purpose": "any"},{"src": "../pwa/favicon.png","sizes": "512x512","type": "image/png","purpose": "maskable"}],
 
   "lang": "pt",
 
