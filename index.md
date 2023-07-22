@@ -2,7 +2,6 @@
 title:  🏠 Início
 layout: default
 homepage: true
-toc: true
 ---
 
 # Bem vindo!
@@ -36,6 +35,5 @@ toc: true
        - I – a reprodução
 
        - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
-
----
+  
 

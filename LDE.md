@@ -1,7 +1,6 @@
 ---
 title: 👻 LDE
 layout: default
-toc: true
 ---
 
 <title>👻 LDE | doutrina.org</title>
