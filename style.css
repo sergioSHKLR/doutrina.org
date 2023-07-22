@@ -30,7 +30,10 @@ blockquote.bible p:before {
     content: "✝️ ";
 }
 
+blockquote>blockquote.kardec p::before {
+    content: "🖋️ ";
 
+}
 
 /*
 blockquote.quote p:after {
@@ -74,6 +77,7 @@ em {
     color: darkred;
     font-style: normal;
 }
+
 /*
 code {
     border: 1px solid grey;
@@ -87,9 +91,9 @@ code {
 
 html {
     scroll-behavior: smooth;
-  }
+}
 
-  /*
+/*
 font-family: 'Noto Emoji', sans-serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Noto Sans Symbols', sans-serif;
