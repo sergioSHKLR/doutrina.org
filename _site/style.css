@@ -27,7 +27,7 @@ blockquote.bible p:before {
     content: "✝️ ";
 }
 
-blockquote>blockquote.kardec p::before {
+blockquote>blockquote p:first-child::before {
     content: "🖋️ ";
 
 }
