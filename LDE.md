@@ -23,7 +23,7 @@ blockquote.quote p:before {
     content: "💬 ";
 }
 
-blockquote.spirit p:before {
+blockquote.spirit p:first-of-type {
     content: "✏️ ";
 }
 
