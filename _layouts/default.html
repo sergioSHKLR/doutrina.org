@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- PWA -->
-    <link href="../pwa/favicon-large.png" rel="icon" type="image/png">
     <link href="../pwa/manifest.json" rel="manifest">
     <meta name="theme-color" content="#4cc4f4" />
     <script type="module">
@@ -19,6 +18,12 @@
     <!-- HYPOTHES.IS -->
     <script src="https://hypothes.is/embed.js" async></script>
 
+    <!-- EMOJICON -->
+    <link rel="icon" href="data:image/svg+xml,
+    <svg
+        xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+        <text y='0.8em' font-size='90'>💧</text>
+    </svg>" />
 
     {% seo %}
     <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
