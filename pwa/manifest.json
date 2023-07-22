@@ -47,7 +47,9 @@
 
   "share_target": {"action": "/handle-shared-content/","method": "GET","params": {"title": "title","url": "url"}},
 
-  "scope_extensions": [{"origin": "*.pwabuilder.com"},{"origin": "docs.pwabuilder.co.uk"},{"origin": "*.pwabuilder.co.uk"}]
+  "scope_extensions": [{"origin": "*.pwabuilder.com"},{"origin": "docs.pwabuilder.co.uk"},{"origin": "*.pwabuilder.co.uk"}],
+
+  "shortcuts": [{"name": "About","url": "/about"}]
 
   
 }
