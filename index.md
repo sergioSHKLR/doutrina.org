@@ -1,6 +1,6 @@
 ---
 title: 🏠 Início
-layout: single-pane
+layout: default
 ---
 
 <title>🏠 Início | doutrina.org</title>
