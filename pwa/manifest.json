@@ -49,7 +49,7 @@
 
   "scope_extensions": [{"origin": "*.pwabuilder.com"},{"origin": "docs.pwabuilder.co.uk"},{"origin": "*.pwabuilder.co.uk"}],
 
-  "shortcuts": [{"name": "About","url": "/about"}]
+  "shortcuts": [{"name": "Início","url": "/"}]
 
   
 }
