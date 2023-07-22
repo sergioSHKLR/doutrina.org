@@ -1,5 +1,6 @@
 body {
-    font-family: 'Noto Color Emoji', sans-serif;}
+    font-family: 'Noto Sans Symbols 2', sans-serif;
+}
 
 img {
     display: block;
@@ -12,6 +13,7 @@ blockquote.quote {
     padding-left: 20px;
     background-color: whitesmoke;
 }
+
 /*
 blockquote.quote p:before {
     content: open-quote;
@@ -64,6 +66,7 @@ em {
     color: darkred;
     font-style: normal;
 }
+
 /*
 code {
     border: 1px solid grey;
@@ -77,9 +80,9 @@ code {
 
 html {
     scroll-behavior: smooth;
-  }
+}
 
-  /*
+/*
 font-family: 'Noto Emoji', sans-serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Noto Sans Symbols', sans-serif;
