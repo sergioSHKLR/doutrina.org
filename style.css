@@ -15,14 +15,22 @@ blockquote.quote {
 }
 
 blockquote.quote p:before {
-    content: "✏️ ";
-    font-weight: bold;
-    font-family: serif;
-    font-size: 2em;
-    vertical-align: middle;
-    line-height: 1em;
-    margin-right: 0.2em;
+    content: "💬 ";
 }
+
+blockquote.spirit p:before {
+    content: "✏️ ";
+}
+
+blockquote.kardec p:before {
+    content: "🖋️ ";
+}
+
+blockquote.bible p:before {
+    content: "✝️ ";
+}
+
+
 
 /*
 blockquote.quote p:after {
