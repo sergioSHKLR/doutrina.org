@@ -1,6 +1,6 @@
 ---
 title: ✒️ LDM
-layout: default
+layout: single-pane
 ---
 
 <title>✒️ LDM | doutrina.org</title>

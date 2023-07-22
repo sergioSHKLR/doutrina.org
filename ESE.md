@@ -1,6 +1,6 @@
 ---
 title: 🕊️ ESE
-layout: default
+layout: single-pane
 ---
 
 <title>🕊️ ESE | doutrina.org</title>

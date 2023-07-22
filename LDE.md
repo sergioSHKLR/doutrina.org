@@ -1,6 +1,6 @@
 ---
 title: 👻 LDE
-layout: default
+layout: single-pane
 ---
 
 <title>👻 LDE | doutrina.org</title>
