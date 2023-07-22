@@ -1,6 +1,5 @@
 body {
-    font-family: 'Noto Emoji', sans-serif;
-}
+    font-family: 'Noto Color Emoji', sans-serif;}
 
 img {
     display: block;
@@ -78,7 +77,6 @@ code {
 
 html {
     scroll-behavior: smooth;
-    font-family: 'Noto Emoji', sans-serif;
   }
 
   /*
