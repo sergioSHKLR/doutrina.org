@@ -1,6 +1,7 @@
 body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font: 16px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 img {
     display: block;
     margin: 0 auto;
@@ -12,7 +13,6 @@ blockquote.quote {
     padding-left: 20px;
     background-color: whitesmoke;
 }
-
 /*
 blockquote.quote p:before {
     content: open-quote;
@@ -65,7 +65,6 @@ em {
     color: darkred;
     font-style: normal;
 }
-
 /*
 code {
     border: 1px solid grey;
@@ -79,9 +78,9 @@ code {
 
 html {
     scroll-behavior: smooth;
-}
+  }
 
-/*
+  /*
 font-family: 'Noto Emoji', sans-serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Noto Sans Symbols', sans-serif;
