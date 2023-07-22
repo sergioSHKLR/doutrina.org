@@ -33,7 +33,7 @@
 
   "edge_side_panel": {"preferred_width": 400},
 
-  "screenshots": [{"src": "screenshot.jpg","sizes": "1280x720","type": "image/jpg","platform": "wide"}],
+  "screenshots": [{"src": "screenshot.png","sizes": "1920x1010","type": "image/png","platform": "wide"}],
 
   "file_handlers": [{"action": "/open-pdf","accept": {"application/pdf": [".pdf"]}, "icons": [{"src": "pdf-icon.png","sizes": "256x256","type": "image/png"}],"launch_type": "single-client"}],
 
