@@ -13,9 +13,9 @@ blockquote.quote {
     padding-left: 20px;
     background-color: whitesmoke;
 }
-/*
+
 blockquote.quote p:before {
-    content: open-quote;
+    content: "✏️ ";
     font-weight: bold;
     font-family: serif;
     font-size: 2em;
@@ -24,6 +24,7 @@ blockquote.quote p:before {
     margin-right: 0.2em;
 }
 
+/*
 blockquote.quote p:after {
     content: close-quote;
     font-weight: bold;
