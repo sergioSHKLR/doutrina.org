@@ -1,10 +1,8 @@
 ---
-title: 1.👻 O Livro dos Espíritos
+title: 1.👻 LDE
 layout: page
 disable_anchors: true
 ---
-
-<title>1.👻 LDE | doutrina.org</title>
 
 <script src="https://hypothes.is/embed.js" async></script>
 
@@ -53,8 +51,6 @@ blockquote.kardec p:first-child::before {
 }
 
 </style>
-
-# LDE 👻 O Livro dos Espíritos {#LDE}
 
 ## LDE-0 🗂️ Parte 0. Pré-textual {#LDE-0}
 
