@@ -10,9 +10,9 @@ disable_anchors: true
 
 | Livro  |  Status  |
 | --- | ---: |
-| <a href="./LDE.html" title="o livro dos espíritos">LDE 👻 O Livro dos Espíritos</a>   | pronto ➡ 🟢 |
-| <a href="./LDM.html" title="o livro dos médiuns">LDM ✒️ O Livro dos Médiuns</a>   | pronto ➡ 🟢 |
-| <a href="./ESE.html" title="o evangelho segundo o espiritismo">ESE 🕊️ O Evangelho (...) </a>   | em andamento ➡ 🟡 |
+| <a href="./LDE.html" title="o livro dos espíritos">LDE 👻 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
+| <a href="./LDM.html" title="o livro dos médiuns">LDM ✒️ O Livro dos Médiuns</a>   | beta ➡ 🟢 |
+| <a href="./ESE.html" title="o evangelho segundo o espiritismo">ESE 🕊️ O Evangelho (...) </a>   | alfa ➡ 🟡 |
 | CEU 🔥 O Céu e o Inferno   | aguardando ➡ 🔴 |
 | GEN 🌱 A Gênese   | aguardando ➡ 🔴 |
 
