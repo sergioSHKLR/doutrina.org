@@ -1,6 +1,7 @@
-
+---
 title: 2.✒️ LDM
 layout: default
+---
 
 <style>
    html {width: 98vw;}
