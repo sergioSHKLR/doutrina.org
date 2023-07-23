@@ -7,7 +7,7 @@ layout: default
    html {width: 98vw;}
    section {width: 70vw;}
    .wrapper {width: 90vw;}
-    body {font-size: 18px;}
+   body {font-size: 18px;}
     th, td {border: none;}
 </style>
 
