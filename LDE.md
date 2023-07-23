@@ -1,16 +1,8 @@
 ---
 title: 1.👻 LDE
-layout: default
+layout: page
+disable_anchors: true
 ---
-
-<style>
-   html {width: 98vw;}
-   section {width: 70vw;}
-   .wrapper {width: 90vw;}
-    body {font-size: 18px;}
-    th, td {border: none;}
-</style>
-
 
 <script src="https://hypothes.is/embed.js" async></script>
 
@@ -8524,5 +8516,3 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 [^26]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
 
 [^27]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
-
-<p>&nbsp;</p>
