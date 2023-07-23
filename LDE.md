@@ -474,10 +474,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 {:.kardec}
 
-[⤴️ voltar para capítulo](#LDE-1-01)
-
----
-
 #### LDE-1-01-02 📃 Provas da existência de Deus {#LDE-1-01-02}
 
 ---
@@ -535,10 +531,6 @@ Um acaso inteligente já não seria acaso.
 >>
 >>Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 
-[⤴️ voltar para capítulo](#LDE-1-01)
-
----
-
 #### LDE-1-01-03 📃 Atributos da Divindade {#LDE-1-01-03}
 
 ---
@@ -583,10 +575,6 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 
 **É soberanamente justo e bom.** A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
 
-[⤴️ voltar para capítulo](#LDE-1-01)
-
----
-
 #### LDE-1-01-04 📃 Panteísmo {#LDE-1-01-04}
 
 ---
@@ -614,23 +602,8 @@ Esta doutrina faz de Deus um ser material que, embora dotado de suprema intelig�
 
 A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou.
 
-[⤴️ voltar para capítulo](#LDE-1-01)
-
----
-
 ### LDE-1-02 📑 2. Dos elementos gerais do Universo {#LDE-1-02}
-<!--
----
 
-- [LDE-1-02-01 📃 Conhecimento do princípio das coisas](#LDE-1-02-01)
-- [LDE-1-02-02 📃 Espírito e matéria](#LDE-1-02-02)
-- [LDE-1-02-03 📃 Propriedades da matéria](#LDE-1-02-03)
-- [LDE-1-02-04 📃 Espaço universal](#LDE-1-02-04)
-
-[⤴️ voltar para parte](#LDE-1)
-
----
--->
 #### LDE-1-02-01 📃 Conhecimento do princípio das coisas {#LDE-1-02-01}
 
 ---
@@ -664,10 +637,6 @@ Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração
 >Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.
 
 Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
-
-[⤴️ voltar para capítulo](#LDE-1-02)
-
----
 
 #### LDE-1-02-02 📃 Espírito e matéria {#LDE-1-02-02}
 
@@ -756,10 +725,6 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 
 Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
 
-[⤴️ voltar para capítulo](#LDE-1-02)
-
----
-
 #### LDE-1-02-03 📃 Propriedades da matéria {#LDE-1-02-03}
 
 ---
@@ -824,10 +789,6 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 
 >Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar. 
 
-[⤴️ voltar para capítulo](#LDE-1-02)
-
----
-
 #### LDE-1-02-04 📃 Espaço universal {#LDE-1-02-04}
 
 ---
@@ -846,24 +807,7 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 
 >Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos. 
 
-[⤴️ voltar para capítulo](#LDE-1-02)
-
----
-
 ### LDE-1-03 📑 3. Da Criação {#LDE-1-03}
-
----
-
-- [LDE-1-03-01 📃 Formação dos mundos](#LDE-1-03-01)
-- [LDE-1-03-02 📃 Formação dos seres vivos](#LDE-1-03-02)
-- [LDE-1-03-03 📃 Povoamento da Terra- Adão](#LDE-1-03-03)
-- [LDE-1-03-04 📃 Diversidade das raças humanas](#LDE-1-03-04)
-- [LDE-1-03-05 📃 Pluralidade dos mundos](#LDE-1-03-05)
-- [LDE-1-03-06 📃 Considerações e concordâncias bíblicas concernentes à Criação](#LDE-1-03-06)
-
-[⤴️ voltar para parte](#LDE-1)
-
----
 
 #### LDE-1-03-01 📃 Formação dos mundos {#LDE-1-03-01}
 
@@ -917,10 +861,6 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 #️⃣ 42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
 >Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação. 
-
-[⤴️ voltar para capítulo](#LDE-1-03)
-
----
 
 #### LDE-1-03-02 📃 Formação dos seres vivos {#LDE-1-03-02}
 
