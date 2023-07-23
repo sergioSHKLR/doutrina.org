@@ -32,7 +32,6 @@ blockquote.quote {
     margin-left: 10px;
 }
 
-
 blockquote.bible p:first-child::before {
     content: "✝️ ▸ ";
     font-style: normal;
@@ -85,8 +84,6 @@ blockquote.bible {
      margin-left: 5px;
 }
 </style>
-
-
 
 # ESE 🕊️ O Evangelho segundo o Espiritismo {#ESE}
 
@@ -147,20 +144,7 @@ blockquote.bible {
 
 📝 **Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
-[⤴️ subir um nível](#ESE-0)
-
----
-
 ### ESE-0-03 📑 Introdução {#ESE-0-03}
-
-- [ESE-0-01 📃 1. Objetivo desta obra](#ESE-0-03-01)
-- [ESE-0-02 📃 2. Autoridade da doutrina espírita](#ESE-0-03-02)
-- [ESE-0-03 📃 3. Notícias históricas](#ESE-0-03-03)
-- [ESE-0-04 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo](#ESE-0-03-04)
-
-[⤴️ subir um nível](#ESE-0)
-
----
 
 #### 📃 1. Objetivo desta obra {#ESE-0-03-01}
 
@@ -181,10 +165,6 @@ O Espiritismo se nos depara por toda a parte na Antiguidade e nas diferentes ép
 Como complemento de cada preceito, acrescentamos algumas instruções escolhidas, dentre as que os Espíritos ditaram em vários países e por diferentes médiuns. Se elas fossem tiradas de uma fonte única, houveram talvez sofrido uma influência pessoal ou a do meio, ao passo que a diversidade de origens prova que os Espíritos dão indistintamente seus ensinos e que ninguém a esse respeito goza de qualquer privilégio. [^1]
 
 Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu** que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
-
-[⤴️ subir um nível](#ESE-0-03)
-
----
 
 #### 📃 2. Autoridade da doutrina espírita {#ESE-0-03-02}
 
@@ -244,10 +224,6 @@ A opinião universal, eis o juiz supremo, o que se pronuncia em última instânc
 
 Já se desenha o harmonioso conjunto. Este século não passará sem que ele resplandeça em todo o seu brilho, de modo a dissipar todas as incertezas, porquanto daqui até lá potentes vozes terão recebido a missão de se fazer ouvir, para congregar os homens sob a mesma bandeira, uma vez que o campo se ache suficientemente lavrado. Enquanto isso se não dá, aquele que flutua entre dois sistemas opostos pode observar em que sentido se forma a opinião geral; essa será a indicação certa do sentido em que se pronuncia a maioria dos Espíritos, nos diversos pontos em que se comunicam, e um sinal não menos certo de qual dos dois sistemas prevalecerá.
 
-[⤴️ subir um nível](#ESE-0-03)
-
----
-
 #### 📃 3. Notícias históricas {#ESE-0-03-03}
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
@@ -291,10 +267,6 @@ Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz c
   Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de rígidas práticas exteriores e de virtudes apenas aparentes, nunca os essênios tomaram parte nas querelas que tornaram antagonistas aquelas duas outras seitas. Pelo gênero de vida que levavam, assemelhavam-se muito aos primeiros cristãos, e os princípios da moral que professavam induziram muitas pessoas a supor que Jesus, antes de dar começo à sua missão pública, lhes pertencera à comunidade. É certo que ele há de tê-la conhecido, mas nada prova que se lhe houvesse filiado, sendo, pois, hipotético tudo quanto a esse respeito se escreveu. [^3]
 
 - **Terapeutas** (do grego therapeutai, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
-
-[⤴️ subir um nível](#ESE-0-03)
-
----
 
 #### 📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo {#ESE-0-03-04}
 
@@ -471,10 +443,6 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
-[⤴️ subir um nível](#ESE-0-03)
-
----
-
 ## ESE-1 🗂️ Parte 1. Miolo {#ESE-1}
 
 - [ESE-1-01 📑 01. Não vim destruir a lei](#ESE-1-01)
@@ -643,10 +611,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
-[⤴️ subir um nível](#ESE-1-01)
-
----
-
 ### ESE-1-02 📑 02. Meu Reino não é deste mundo {#ESE-1-02}
 
 - [ESE-1-02-01 📃 A vida futura](#ESE-1-02-01)
@@ -722,10 +686,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    Correm os homens por alcançar os bens terrestres, como se os houvessem de guardar para sempre. Aqui, porém, todas as ilusões se somem. Cedo se apercebem eles de que apenas apanharam uma sombra e desprezaram os únicos bens reais e duradouros, os únicos que lhes aproveitam na morada celeste, os únicos que lhes podem facultar acesso a esta.
 
    Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais. – Uma Rainha de França. (Havre, 1863.)
-
-[⤴️ subir um nível](#ESE-1-02)
-
----
 
 ### ESE-1-03 📑 03. Há muitas moradas na casa de meu Pai {#ESE-1-03}
 
@@ -805,11 +765,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 10. >Nesses mundos venturosos, as relações, sempre amistosas entre os povos, jamais são perturbadas pela ambição, da parte de qualquer deles, de escravizar o seu vizinho, nem pela guerra que daí decorre. Não há senhores, nem escravos, nem privilegiados pelo nascimento; só a superioridade moral e intelectual estabelece diferença entre as condições e dá a supremacia. A autoridade merece o respeito de todos, porque somente ao mérito é conferida e se exerce sempre com justiça. O homem não procura elevar-se acima do homem, mas acima de si mesmo, aperfeiçoando-se. Seu objetivo é galgar à categoria dos Espíritos puros, não lhe constituindo um tormento esse desejo, porém, uma ambição nobre, que o induz a estudar com ardor para igualar-se a eles. Lá, todos os sentimentos delicados e elevados da natureza humana se acham engrandecidos e purificados; desconhecem-se os ódios, os mesquinhos ciúmes, as baixas cobiças da inveja; um laço de amor e fraternidade prende uns aos outros todos os homens, ajudando os mais fortes aos mais fracos. Possuem bens, em maior ou menor quantidade, conforme os tenham adquirido, mais ou menos por meio da inteligência; ninguém, todavia, sofre, por lhe faltar o necessário, uma vez que ninguém se acha em expiação. Numa palavra: o mal, nesses mundos, não existe.
     {:.spirit}
 
-
 {:start="11"}
 11. >No vosso, precisais do mal para sentirdes o bem; da noite, para admirardes a luz; da doença, para apreciardes a saúde. Naqueles outros não há necessidade desses contrastes. A eterna luz, a eterna beleza e a eterna serenidade da alma proporcionam uma alegria eterna, livre de ser perturbada pelas angústias da vida material, ou pelo contato dos maus, que lá não têm acesso. Isso o que o espírito humano maior dificuldade encontra para compreender. Ele foi bastante engenhoso para pintar os tormentos do inferno, mas nunca pôde imaginar as alegrias do céu. Por quê? Porque, sendo inferior, só há experimentado dores e misérias, jamais entreviu as claridades celestes; não pode, pois, falar do que não conhece. À medida, porém, que se eleva e depura, o horizonte se lhe dilata e ele compreende o bem que está diante de si, como compreendeu o mal que lhe está atrás.
     {:.spirit}
-
 
 {:start="12"}
 12. >Entretanto, os mundos felizes não são orbes privilegiados, visto que Deus não é parcial para qualquer de seus filhos; a todos dá os mesmos direitos e as mesmas facilidades para chegarem a tais mundos. Fá-los partir todos do mesmo ponto e a nenhum dota melhor do que aos outros; a todos são acessíveis as mais altas categorias: apenas lhes cumpre conquistá-las pelo seu trabalho, alcançá-las mais depressa, ou permanecer inativos por séculos de séculos no lodaçal da Humanidade. (Resumo do ensino de todos os Espíritos superiores.)
@@ -867,10 +825,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Santo Agostinho**  
     >🇫🇷 **Paris, 1862**
     {:.spirit}
-
-[⤴️ subir um nível](#ESE-1-03)
-
----
 
 ### ESE-1-04 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#ESE-1-04}
 
@@ -1075,10 +1029,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     Assim acontece com o homem na Terra. Para o Espírito do selvagem, que está apenas no início da vida espiritual, a encarnação é um meio de ele desenvolver a sua inteligência; contudo, para o homem esclarecido, em quem o senso moral se acha largamente desenvolvido e que é obrigado a percorrer de novo as etapas de uma vida corpórea cheia de angústias, quando já poderia ter chegado ao fim, é um castigo, pela necessidade em que se vê de prolongar sua permanência em mundos inferiores e desgraçados. Aquele que, ao contrário, trabalha ativamente pelo seu progresso moral, além de abreviar o tempo da encarnação material, pode também transpor de uma só vez os degraus intermédios que o separam dos mundos superiores.
 
     Não poderiam os Espíritos encarnar uma única vez em determinado globo e preencher em esferas diferentes suas diferentes existências? Semelhante modo de ver só seria admissível se, na Terra, todos os homens estivessem exatamente no mesmo nível intelectual e moral. As diferenças que há entre eles, desde o selvagem ao homem civilizado, mostram quais os degraus que têm de subir. A encarnação, aliás, precisa ter um fim útil. Ora, qual seria o das encarnações efêmeras das crianças que morrem em tenra idade? Teriam sofrido sem proveito para si, nem para outrem. Deus, cujas leis todas são soberanamente sábias, nada faz de inútil. Pela reencarnação no mesmo globo, quis Ele que os mesmos Espíritos, pondo-se novamente em contato, tivessem ensejo de reparar seus danos recíprocos. Por meio das suas relações anteriores, quis, além disso, estabelecer sobre base espiritual os laços de família e apoiar numa lei natural os princípios da solidariedade, da fraternidade e da igualdade.
-
-[⤴️ subir um nível](#ESE-1-04)
-
----
 
 ### ESE-1-05 📑 05. Bem aventurados os aflitos {#ESE-1-05}
 
@@ -1438,10 +1388,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >🇫🇷 **Paris, 1860**
     {:.spirit}
 
-[⤴️ subir um nível](#ESE-1-05)
-
----
-
 ### ESE-1-06 📑 06. O Cristo Consolador {#ESE-1-06}
 
 - [ESE-1-06-01 📃 O jugo leve](#ESE-1-06-01)
@@ -1524,10 +1470,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >**O Espírito da Verdade**  
    >🇫🇷 **Havre, 1863**
    {:.spirit}
-
-[⤴️ subir um nível](#ESE-1-06)
-
----
 
 ### ESE-1-07 📑 07. Bem-aventurados os pobres de espírito {#ESE-1-07}
 
@@ -1677,10 +1619,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >🇫🇷 **Bordeaux, 1862**
     {:.spirit}
 
-[⤴️ subir um nível](#ESE-1-07)
-
----
-
 ### ESE-1-08 📑 08. Bem-aventurados os que tem puro o coração {#ESE-1-08}
 
 - [ESE-1-08-01 📃 Simplicidade e pureza de coração](#ESE-1-08-01) 
@@ -1822,160 +1760,81 @@ CONTENT
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-09)
-
----
-
 ### ESE-1-10 📑 10. Bem-aventurdaos os que são misericordiosos {#ESE-1-10}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-10)
-
----
 
 ### ESE-1-11 📑 11. Amar o próximo como a si mesmo {#ESE-1-11}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-11)
-
----
-
 ### ESE-1-12 📑 12. Amai os vossos inimigos {#ESE-1-12}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-12)
-
----
 
 ### ESE-1-13 📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ESE-1-13}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-13)
-
----
-
 ### ESE-1-14 📑 14. Honrai o vosso pai e a vossa mãe {#ESE-1-14}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-14)
-
----
 
 ### ESE-1-15 📑 15. Fora da caridade não há salvação {#ESE-1-15}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-15)
-
----
-
 ### ESE-1-16 📑 16. Não se pode servir a Deus e a Mamon {#ESE-1-16}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-16)
-
----
 
 ### ESE-1-17 📑 17. Sede perfeitos {#ESE-1-17}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-17)
-
----
-
 ### ESE-1-18 📑 18. Muitos os chamados, poucos os escolhidos {#ESE-1-18}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-18)
-
----
 
 ### ESE-1-19 📑 19. A fé transporta montanhas {#ESE-1-19}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-19)
-
----
-
 ### ESE-1-20 📑 20. Os trabalhadores da última hora {#ESE-1-20}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-20)
-
----
 ### ESE-1-21 📑 21. Haverá falsos cristos e falsos profetas {#ESE-1-21}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-21)
-
----
 
 ### ESE-1-22 📑 22. Não separeis o que Deus juntou {#ESE-1-22}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-22)
-
----
-
 ### ESE-1-23 📑 23. Estranha moral {#ESE-1-23}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-23)
-
----
 
 ### ESE-1-24 📑 24. Não ponhais a candeia debaixo do alqueire {#ESE-1-24}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-24)
-
----
-
 ### ESE-1-25 📑 25. Buscai e achareis {#ESE-1-25}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-25)
-
----
 
 ### ESE-1-26 📑 26. Dai gratuitamente o que gratuitamente recebestes {#ESE-1-26}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-26)
-
----
-
 ### ESE-1-27 📑 27. Pedi e obtereis {#ESE-1-27}
 
 INDEX
 
-[⤴️ subir um nível](#ESE-1-27)
-
----
-
 ### ESE-1-28 📑 28. Coletânea de preces espíritas {#ESE-1-28}
 
 INDEX
-
-[⤴️ subir um nível](#ESE-1-28)
-
----
 
 ## ESE-2 🗂️ Parte 2. Pós-textual {#ESE-2}
 
@@ -2010,8 +1869,4 @@ Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do
 
 [^10]: N.E.: Ver Nota Explicativa.
 
-[^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
-
----
-
-<p>&nbsp;</p>
+[^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc
