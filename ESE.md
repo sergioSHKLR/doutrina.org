@@ -3,7 +3,7 @@ title: 🕊️ ESE
 layout: default
 ---
 
-<style>💬
+<style>
 
 em {color: darkred;}
 
