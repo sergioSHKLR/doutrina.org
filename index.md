@@ -17,7 +17,7 @@ section {
 body {
   font-size: 18px;
 }
-th, a::anylink {
+th, a:any-link {
   font-weight: normal;
   }
 

@@ -21,7 +21,7 @@ th,
 td {
   border: none;
 }
-th, a::anylink {
+th, a:any-link {
   font-weight: normal;
   }
 
