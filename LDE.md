@@ -1,7 +1,6 @@
 ---
 title: 1.👻 LDE
-layout: page
-disable_anchors: true
+layout: default
 ---
 
 <script src="https://hypothes.is/embed.js" async></script>

@@ -1,7 +1,6 @@
 ---
 title:  0.🏠 Início
-layout: full
-disable_anchors: true
+layout: default
 ---
 
 # Bem vindo!

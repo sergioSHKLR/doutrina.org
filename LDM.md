@@ -1,6 +1,6 @@
 ---
 title: 2.✒️ LDM
-layout: page
+layout: default
 ---
 
 <title>✒️ LDM | doutrina.org</title>
