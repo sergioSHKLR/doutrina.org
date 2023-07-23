@@ -84,7 +84,7 @@ blockquote.bible {
      border-left: 2px solid peru;
      margin-left: 10px;
 }
- blockquote.greek p:first-child::before {
+ blockquote.greek ol:first-child::before {
      content: "🏺 ▸ ";
      font-style: normal;
      margin-left: 5px;
