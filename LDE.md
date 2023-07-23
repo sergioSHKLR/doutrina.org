@@ -53,8 +53,6 @@ blockquote.kardec p:first-child::before {
 
 </style>
 
-**Livro**
-
 # LDE 👻 O Livro dos Espíritos {#LDE}
 
 ## LDE-0 🗂️ Parte 0. Pré-textual {#LDE-0}
