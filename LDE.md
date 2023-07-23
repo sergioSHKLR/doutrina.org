@@ -56,7 +56,7 @@ blockquote.kardec p:first-child::before {
 **Livro**
 
 # LDE 👻 O Livro dos Espíritos {#LDE}
-
+<!--
 ---
 
 **Partes**
@@ -82,7 +82,7 @@ blockquote.kardec p:first-child::before {
 - [LDE-0-03 📃 Prolegômenos](#LDE-0-03)
 
 [⤴️ voltar para livro](#LDE)
-
+-->
 ---
 
 ### LDE-0-01 📃 Folha de rosto {#LDE-0-01}
@@ -111,7 +111,7 @@ blockquote.kardec p:first-child::before {
 ---
 
 ### LDE-0-02 📑 Introdução {#LDE-0-02}
-
+<!--
 ---
 
 **Seções**
@@ -135,7 +135,7 @@ blockquote.kardec p:first-child::before {
 - [LDE-0-02-17 📃 17](#LDE-0-02-17)
 
 [⤴️ voltar para parte](#LDE-0)
-
+-->
 ---
 
 #### LDE-0-02-01 📃 01 {#LDE-0-02-01}
@@ -577,7 +577,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 ## LDE-1 🗂️ Parte 1. Das causas primárias {#LDE-1}
-
+<!--
 ---
 
 **Capítulos**
@@ -603,7 +603,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 - [LDE-1-01-04 📃 Panteísmo](#LDE-1-01-04)
 
 [⤴️ voltar para parte](#LDE-1)
-
+-->
 ---
 
 #### LDE-1-01-01 📃 Deus e o infinito {#LDE-1-01-01}
@@ -780,7 +780,7 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 ---
 
 ### LDE-1-02 📑 2. Dos elementos gerais do Universo {#LDE-1-02}
-
+<!--
 ---
 
 - [LDE-1-02-01 📃 Conhecimento do princípio das coisas](#LDE-1-02-01)
@@ -791,7 +791,7 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 [⤴️ voltar para parte](#LDE-1)
 
 ---
-
+-->
 #### LDE-1-02-01 📃 Conhecimento do princípio das coisas {#LDE-1-02-01}
 
 ---
