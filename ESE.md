@@ -99,7 +99,7 @@ blockquote.greek ol:first-child::before {
 
 </style>
 
-# ESE 🕊️ O Evangelho segundo o Espiritismo {#ESE}
+# ESE 📔 O Evangelho segundo o Espiritismo {#ESE}
 
 ## ESE-0 🗂️ Parte 0. Pré-textual {#ESE-0}
 
