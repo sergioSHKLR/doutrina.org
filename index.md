@@ -1,7 +1,6 @@
 ---
 title:  🏠 Início
-layout: page
-homepage: true
+layout: full
 ---
 
 # Bem vindo!
