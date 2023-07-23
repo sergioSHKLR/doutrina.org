@@ -19,7 +19,7 @@ img {max-width: 50vw;}
 em {color: darkred;}
 
 blockquote.spirit {
-    border-left: 2px solid dodgerblue;
+    border-left: 2px solid gainsboro;
     margin-left: 10px;
 
 }
@@ -31,7 +31,7 @@ blockquote.bible p:first-child::before {
 }
 
 blockquote.bible {
-    border-left: 2px solid mediumorchid;
+    border-left: 2px solid gainsboro;
     margin-left: 10px;
 }
 
@@ -42,7 +42,7 @@ blockquote.spirit p:first-child::before {
 }
 
 blockquote.kardec {
-    border-left: 2px solid grey;
+    border-left: 2px solid gainsboro;
     margin-left: 10px;
 }
 
