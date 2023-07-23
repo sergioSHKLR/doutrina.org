@@ -1,6 +1,6 @@
 ---
 title: 👻 LDE
-layout: full
+layout: page
 ---
 
 <title>👻 LDE | doutrina.org</title>
