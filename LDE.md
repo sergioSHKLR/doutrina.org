@@ -491,6 +491,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 {:.spirit}
 
 >Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
+{:.kardec}
 
 ##### LDE-q7
 #️⃣ 7. Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
@@ -528,6 +529,7 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 10. Pode o homem compreender a natureza íntima de Deus?
 
 >Não; falta-lhe para isso o sentido.
+{:.spirit}
 
 ##### LDE-q11
 #️⃣ 11. Será dado um dia ao homem compreender o mistério da Divindade?
@@ -542,6 +544,7 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
 
 >De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
+{:.spirit}
 
 ##### LDE-q13
 #️⃣ 13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
