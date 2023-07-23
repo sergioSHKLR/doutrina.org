@@ -618,7 +618,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.
    >
    >**Um Espírito israelita**  
-   >**Mulhouse, 1861**
+   >🇫🇷 **Mulhouse, 1861**
    {:.spirit}
 
 {:start="10"}
@@ -629,14 +629,14 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
     >
     >**Fénelon**  
-    >**Poitiers, 1861**
+    >🇫🇷 **Poitiers, 1861**
     {:.spirit}
 
 {:start="11"}
 11. >Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam.
     >
     >**Erasto, discípulo de Paulo.**  
-    >**Paris, 1863**
+    >🇫🇷 **Paris, 1863**
     {:.spirit}
 
     📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
@@ -829,7 +829,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 15. >A Terra, conseguintemente, oferece um dos tipos de mundos expiatórios, cuja variedade é infinita, mas revelando todos, como caráter comum, o servirem de lugar de exílio para Espíritos rebeldes à Lei de Deus. Esses Espíritos têm aí de lutar, ao mesmo tempo, com a perversidade dos homens e com a inclemência da Natureza, duplo e árduo trabalho que simultaneamente desenvolve as qualidades do coração e as da inteligência. É assim que Deus, em sua bondade, faz que o próprio castigo redunde em proveito do progresso do Espírito.
     >
     >**Santo Agostinho**  
-    >**Paris, 1862**
+    >🇫🇷 **Paris, 1862**
     {:.spirit}
 
 ##### ESE-1-03-04-02 📃 Mundos regeneradores {#ESE-1-03-04-02}
@@ -850,7 +850,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
      >Contemplai, pois, à noite, à hora do repouso e da prece, a abóbada azulada e, das inúmeras esferas que brilham sobre as vossas cabeças, indagai de vós mesmos quais as que conduzem a Deus e pedi-lhe que um mundo regenerador vos abra seu seio após a expiação na Terra.
      >
      >**Santo Agostinho**  
-     >**Paris, 1862**
+     >🇫🇷 **Paris, 1862**
      {:.spirit}
 
 ##### ESE-1-03-04-03 📃 Progressão dos mundos {#ESE-1-03-04-03}
@@ -863,7 +863,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >Segundo aquela lei, este mundo esteve material e moralmente num estado inferior ao em que hoje se acha e se alçará sob esse duplo aspecto a um grau mais elevado. Ele há chegado a um dos seus períodos de transformação, em que, de orbe expiatório, mudar-se-á em planeta de regeneração, onde os homens serão ditosos, porque nele imperará a Lei de Deus.
     >
     >**Santo Agostinho**  
-    >**Paris, 1862**
+    >🇫🇷 **Paris, 1862**
     {:.spirit}
 
 [🡅 subir um nível](#ESE-1-03)
@@ -1053,7 +1053,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >Deve também considerar-se que no estado de desencarnado, isto é, no intervalo das existências corporais, a situação do Espírito guarda relação com a natureza do mundo a que o liga o grau do seu adiantamento. Assim, na erraticidade, é ele mais ou menos ditoso, livre e esclarecido, conforme está mais ou menos desmaterializado.
     >
     >**São Luís, IX da França**  
-    >**Paris, 1859**
+    >🇫🇷 **Paris, 1859**
     {:.king}
 
 ##### ESE-1-04-03 📃 Necessidade da encarnação {#ESE-1-04-03-02}
@@ -1064,7 +1064,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >A passagem dos Espíritos pela vida corporal é necessária para que eles possam cumprir, por meio de uma ação material, os desígnios cuja execução Deus lhes confia. É-lhes necessária, a bem deles, visto que a atividade que são obrigados a exercer lhes auxilia o desenvolvimento da inteligência. Sendo soberanamente justo, Deus tem de distribuir tudo igualmente por todos os seus filhos; assim é que estabeleceu para todos o mesmo ponto de partida, a mesma aptidão, as mesmas obrigações a cumprir e a mesma liberdade de proceder. Qualquer privilégio seria uma preferência, e toda preferência, uma injustiça; mas a encarnação, para todos os Espíritos, é apenas um estado transitório. É uma tarefa que Deus lhes impõe, quando iniciam a vida, como primeira experiência do uso que farão do livre-arbítrio. Os que desempenham com zelo essa tarefa transpõem rapidamente e menos penosamente os primeiros graus da iniciação e mais cedo gozam do fruto de seus labores. Os que, ao contrário, usam mal da liberdade que Deus lhes concede retardam a sua marcha e, tal seja a obstinação que demonstrem, podem prolongar indefinidamente a necessidade da reencarnação e é quando se torna um castigo.
     >
     >**São Luís, IX da França**  
-    >**Paris, 1859**
+    >🇫🇷 **Paris, 1859**
     {:.king}
 
 {:start="26"}
@@ -1295,8 +1295,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >Vós que compreendeis a vida espiritual, escutai as pulsações do vosso coração a chamar esses entes bem-amados e, se pedirdes a Deus que os abençoe, em vós sentireis fortes consolações, dessas que secam as lágrimas; sentireis aspirações grandiosas que vos mostrarão o porvir que o soberano Senhor prometeu.
     >
-    >**Sanson, ex-membro da Sociedade Espírita de Paris**  
-    >**1863**
+    >**Sanson, ex-membro da Sociedade Espírita
+    >🇫🇷 **Paris, 1863**
     {:.spirit}
 
 ##### ESE-1-05-07-05 📃 Se fosse um homem de bem, teria morrido {#ESE-1-05-07-05}
@@ -1445,7 +1445,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 - [ESE-1-06-01 📃 O jugo leve](#ESE-1-06-01)
 - [ESE-1-06-02 📃 Consolador prometido](#ESE-1-06-01)
 - [ESE-1-06-03 📃 Instruções dos Espíritos](#ESE-1-06-01)
-   - [ESE-1-06-03-01 📃 Advento do Espírito de Verdade](#ESE-1-06-01)
+   - [ESE-1-06-03-01 📃 Advento do Espírito da Verdade](#ESE-1-06-01)
 
 [🡅 subir um nível](#ESE-1)
 
@@ -1468,15 +1468,15 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 #### ESE-1-06-02 📃 Consolador prometido {#ESE-1-06-01}
 
 {:start="3"}
-3. >*Se me amais, guardai os meus mandamentos; e Eu rogarei a meu Pai e Ele vos enviará outro Consolador, a fim de que fique eternamente convosco: O Espírito de Verdade, que o mundo não pode receber, porque o não vê e absolutamente o não conhece. Mas quanto a vós, conhecê-lo-eis, porque ficará convosco e estará em vós. Porém, o Consolador, que é o Santo Espírito, que meu Pai enviará em meu nome, vos ensinará todas as coisas e vos fará recordar tudo o que vos tenho dito.*
+3. >*Se me amais, guardai os meus mandamentos; e Eu rogarei a meu Pai e Ele vos enviará outro Consolador, a fim de que fique eternamente convosco: O Espírito da Verdade, que o mundo não pode receber, porque o não vê e absolutamente o não conhece. Mas quanto a vós, conhecê-lo-eis, porque ficará convosco e estará em vós. Porém, o Consolador, que é o Santo Espírito, que meu Pai enviará em meu nome, vos ensinará todas as coisas e vos fará recordar tudo o que vos tenho dito.*
     >
     >**João, cap. 14, vers. 15 a 17 e 26**
     {:.bible}
 
 {:start="4"}
-4. Jesus promete outro consolador: o Espírito de Verdade, que o mundo ainda não conhece, por não estar maduro para o compreender, consolador que o Pai enviará para ensinar todas as coisas e para relembrar o que o Cristo há dito. Se, portanto, o Espírito de Verdade tinha de vir mais tarde ensinar todas as coisas, é que o Cristo não dissera tudo; se ele vem relembrar o que o Cristo disse, é que o que este disse foi esquecido ou mal compreendido.
+4. Jesus promete outro consolador: o Espírito da Verdade, que o mundo ainda não conhece, por não estar maduro para o compreender, consolador que o Pai enviará para ensinar todas as coisas e para relembrar o que o Cristo há dito. Se, portanto, o Espírito da Verdade tinha de vir mais tarde ensinar todas as coisas, é que o Cristo não dissera tudo; se ele vem relembrar o que o Cristo disse, é que o que este disse foi esquecido ou mal compreendido.
 
-   O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito de Verdade. Ele chama os homens à observância da lei; ensina todas as coisas fazendo compreender o que Jesus só disse por parábolas. Advertiu o Cristo: “Ouçam os que têm ouvidos para ouvir.” O Espiritismo vem abrir os olhos e os ouvidos, porquanto fala sem figuras, nem alegorias; levanta o véu intencionalmente lançado sobre certos mistérios. Vem, finalmente, trazer a consolação suprema aos deserdados da Terra e a todos os que sofrem, atribuindo causa justa e fim útil a todas as dores.
+   O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito da Verdade. Ele chama os homens à observância da lei; ensina todas as coisas fazendo compreender o que Jesus só disse por parábolas. Advertiu o Cristo: “Ouçam os que têm ouvidos para ouvir.” O Espiritismo vem abrir os olhos e os ouvidos, porquanto fala sem figuras, nem alegorias; levanta o véu intencionalmente lançado sobre certos mistérios. Vem, finalmente, trazer a consolação suprema aos deserdados da Terra e a todos os que sofrem, atribuindo causa justa e fim útil a todas as dores.
 
    Disse o Cristo: “Bem-aventurados os aflitos, pois que serão consolados.” Mas como há de alguém sentir-se ditoso por sofrer, se não sabe por que sofre? O Espiritismo mostra a causa dos sofrimentos nas existências anteriores e na destinação da Terra, onde o homem expia o seu passado. Mostra o objetivo dos sofrimentos, apontando-os como crises salutares que produzem a cura e como meio de depuração que garante a felicidade nas existências futuras. O homem compreende que mereceu sofrer e acha justo o sofrimento. Sabe que este lhe auxilia o adiantamento e o aceita sem murmurar, como o obreiro aceita o trabalho que lhe assegurará o salário. O Espiritismo lhe dá fé inabalável no futuro e a dúvida pungente não mais se lhe apossa da alma. Dando-lhe a ver do alto as coisas, a importância das vicissitudes terrenas some-se no vasto e esplêndido horizonte que ele o faz descortinar, e a perspectiva da felicidade que o espera lhe dá a paciência, a resignação e a coragem de ir até o termo do caminho.
 
@@ -1484,7 +1484,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### ESE-1-06-03 📃 Instruções dos Espíritos {#ESE-1-06-01}
 
-##### ESE-1-06-03-01 📃 Advento do Espírito de Verdade {#ESE-1-06-01}
+##### ESE-1-06-03-01 📃 Advento do Espírito da Verdade {#ESE-1-06-01}
 
 {:start="5"}
 5. >Venho, como outrora aos transviados filhos de Israel, trazer-vos a verdade e dissipar as trevas. Escutai-me. O Espiritismo, como o fez antigamente a minha palavra, tem de lembrar aos incrédulos que acima deles reina a imutável verdade: o Deus bom, o Deus grande, que faz germinem as plantas e se levantem as ondas. Revelei a doutrina divinal. Como um ceifeiro, reuni em feixes o bem esparso no seio da Humanidade e disse: “Vinde a mim, todos vós que sofreis.”
@@ -1507,19 +1507,19 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >Em verdade vos digo: os que carregam seus fardos e assistem os seus irmãos são bem-amados meus. Instruí-vos na preciosa doutrina que dissipa o erro das revoltas e vos mostra o sublime objetivo da provação humana. Assim como o vento varre a poeira, que também o sopro dos Espíritos dissipe os vossos despeitos contra os ricos do mundo, que são, não raro, muito miseráveis, porquanto se acham sujeitos a provas mais perigosas do que as vossas. Estou convosco e meu apóstolo vos instrui. Bebei na fonte viva do amor e preparai-vos, cativos da vida, a lançar-vos um dia, livres e alegres, no seio daquele que vos criou fracos para vos tornar perfectíveis e que quer modeleis vós mesmos a vossa maleável argila, a fim de serdes os artífices da vossa imortalidade.
     >
-    >**O Espírito de Verdade**  
+    >**O Espírito da Verdade**  
     >🇫🇷 **Paris, 1861**
     {:.spirit}
 
 7. >Sou o grande médico das almas e venho trazer-vos o remédio que vos há de curar. Os fracos, os sofredores e os enfermos são os meus filhos prediletos. Venho salvá-los. Vinde, pois, a mim, vós que sofreis e vos achais oprimidos, e sereis aliviados e consolados. Não busqueis alhures a força e a consolação, pois que o mundo é impotente para dá-las. Deus dirige um supremo apelo aos vossos corações, por meio do Espiritismo. Escutai-o. Extirpados sejam de vossas almas doloridas a impiedade, a mentira, o erro, a incredulidade. São monstros que sugam o vosso mais puro sangue e que vos abrem chagas quase sempre mortais. Que, no futuro, humildes e submissos ao Criador, pratiqueis a sua Lei divina. Amai e orai; sede dóceis aos Espíritos do Senhor; invocai-o do fundo de vossos corações. Ele, então, vos enviará o seu Filho bem-amado, para vos instruir e dizer estas boas palavras: “Eis-me aqui; venho até vós, porque me chamastes.”
     >
-    >**O Espírito de Verdade**  
+    >**O Espírito da Verdade**  
     >🇫🇷 **Bordeaux, 1861**
     {:.spirit}
 
 8. >Deus consola os humildes e dá força aos aflitos que lha pedem. Seu poder cobre a Terra e, por toda a parte, junto de cada lágrima colocou Ele um bálsamo que consola. A abnegação e o devotamento são uma prece contínua e encerram um ensinamento profundo. A sabedoria humana reside nessas duas palavras. Possam todos os Espíritos sofredores compreender essa verdade, em vez de clamarem contra suas dores, contra os sofrimentos morais que neste mundo vos cabem em partilha. Tomai, pois, por divisa estas duas palavras: devotamento e abnegação, e sereis fortes, porque elas resumem todos os deveres que a caridade e a humildade vos impõem. O sentimento do dever cumprido vos dará repouso ao espírito e resignação. O coração bate então melhor, a alma se asserena e o corpo se forra aos desfalecimentos, por isso que o corpo tanto menos forte se sente, quanto mais profundamente golpeado é o espírito.
    >
-   >**O Espírito de Verdade**  
+   >**O Espírito da Verdade**  
    >🇫🇷 **Havre, 1863**
    {:.spirit}
 
