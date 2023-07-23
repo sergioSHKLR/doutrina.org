@@ -22,18 +22,7 @@ blockquote.quote p:first-child::before {
 }
 
 blockquote.quote {
-    border-left: 2px solid grey;
-    margin-left: 10px;
-}
-
-blockquote.doctrine p:first-child::before {
-    content: "🍇 ▸ ";
-    font-style: normal;
-    margin-left: 5px;
-}
-
-blockquote.doctrine {
-    border-left: 2px solid darkgreen;
+    border-left: 2px solid gainsboro;
     margin-left: 10px;
 }
 
@@ -50,11 +39,11 @@ blockquote.bible ol:first-child::before {
 }
 
 blockquote.bible {
-    border-left: 2px solid mediumorchid;
+    border-left: 2px solid gainsboro;
     margin-left: 10px;
 }
  blockquote.spirit {
-     border-left: 2px solid dodgerblue;
+     border-left: 2px solid gainsboro;
      margin-left: 10px;
 }
  blockquote.spirit p:first-child::before {
@@ -63,7 +52,7 @@ blockquote.bible {
      margin-left: 5px;
 }
  blockquote.king {
-     border-left: 2px solid gold;
+     border-left: 2px solid gainsboro;
      margin-left: 10px;
 }
  blockquote.king p:first-child::before {
@@ -72,7 +61,7 @@ blockquote.bible {
      margin-left: 5px;
 }
  blockquote.saint {
-     border-left: 2px solid green;
+     border-left: 2px solid gainsboro;
      margin-left: 10px;
 }
  blockquote.saint p:first-child::before {
@@ -81,7 +70,7 @@ blockquote.bible {
      margin-left: 5px;
 }
  blockquote.greek {
-     border-left: 2px solid peru;
+     border-left: 2px solid gainsboro;
      margin-left: 10px;
 }
  blockquote.greek ol:first-child::before {
@@ -1061,7 +1050,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >**São Luís, IX da França**  
     >🇫🇷 **Paris, 1859**
-    {:.king}
+    {:.spirit}
 
 ##### ESE-1-04-03 📃 Necessidade da encarnação {#ESE-1-04-03-02}
 
@@ -1072,7 +1061,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >**São Luís, IX da França**  
     >🇫🇷 **Paris, 1859**
-    {:.king}
+    {:.spirit}
 
 {:start="26"}
 26. 📝 **Nota**. Uma comparação vulgar fará se compreenda melhor essa diferença. O escolar não chega aos estudos superiores da Ciência, senão depois de haver percorrido a série das classes que até lá o conduzirão. Essas classes, qualquer que seja o trabalho que exijam, são um meio de o estudante alcançar o fim, e não um castigo que se lhe inflige. Se ele é esforçado, abrevia o caminho, no qual, então, menos espinhos encontra. Outro tanto não sucede àquele a quem a negligência e a preguiça obrigam a passar duplamente por certas classes. Não é o trabalho da classe que constitui a punição; esta se acha na obrigação de recomeçar o mesmo trabalho.
@@ -1441,7 +1430,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >**São Luís, IX da França**  
     >🇫🇷 **Paris, 1860**
-    {:.king}
+    {:.spirit}
 
 [⤴️ subir um nível](#ESE-1-05)
 
