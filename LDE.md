@@ -1,6 +1,8 @@
+---
 title: 1.👻 O Livro dos Espíritos
 layout: page
 disable_anchors: true
+---
 
 <title>1.👻 LDE | doutrina.org</title>
 
