@@ -3,6 +3,15 @@ title: 2.✒️ LDM
 layout: default
 ---
 
+<style>
+   html {width: 98vw;}
+   section {width: 70vw;}
+   .wrapper {width: 90vw;}
+   body {font-size: 18px;}
+    th, td {border: none;}
+</style>
+
+
 <title>✒️ LDM | doutrina.org</title>
 
 <script src="https://hypothes.is/embed.js" async></script>

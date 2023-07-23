@@ -3,6 +3,13 @@ title:  0.🏠 Início
 layout: default
 ---
 
+<style>
+   html {width: 98vw;}
+   section {width: 70vw;}
+   .wrapper {width: 90vw;}
+   body {font-size: 18px;}
+</style>
+
 # Bem vindo!
 
 ---
