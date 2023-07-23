@@ -3,7 +3,15 @@ title: 🕊️ ESE
 layout: default
 ---
 
+<title>🕊️ ESE | doutrina.org</title>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
 <style>
+
+        html {
+    scroll-behavior: smooth;
+}
 
 em {color: darkred;}
 
@@ -84,7 +92,6 @@ blockquote.bible {
 </style>
 
 
-<title>🕊️ ESE | doutrina.org</title>
 
 # ESE 🕊️ O Evangelho segundo o Espiritismo {#ESE}
 

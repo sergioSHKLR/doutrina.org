@@ -5,7 +5,13 @@ layout: default
 
 <title>✒️ LDM | doutrina.org</title>
 
+<script src="https://hypothes.is/embed.js" async></script>
+
 <style>
+
+      html {
+    scroll-behavior: smooth;
+}
 
   blockquote.spirit {
     border-left: 2px solid dodgerblue;
