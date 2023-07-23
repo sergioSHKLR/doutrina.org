@@ -1,5 +1,5 @@
 ---
-title:  0.🏠 Início
+title: 0. 🏠 Início
 layout: default
 ---
 
@@ -29,11 +29,11 @@ th, a:any-link {
 
 | Livro  |  Status  |
 | --- | ---: |
-| <a href="./LDE.html" title="o livro dos espíritos">O Livro dos Espíritos</a>   | beta ➡ 🟢 |
-| <a href="./LDM.html" title="o livro dos médiuns">O Livro dos Médiuns</a>   | beta ➡ 🟢 |
-| <a href="./ESE.html" title="o evangelho segundo o espiritismo">O Evangelho segundo o Espiritismo </a>   | alfa ➡ 🟡 |
-| CEU 🔥 O Céu e o Inferno   | aguardando ➡ 🔴 |
-| GEN 🌱 A Gênese   | aguardando ➡ 🔴 |
+| <a href="./LDE.html" title="o livro dos espíritos">📔 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
+| <a href="./LDM.html" title="o livro dos médiuns">📔 O Livro dos Médiuns</a>   | beta ➡ 🟢 |
+| <a href="./ESE.html" title="o evangelho segundo o espiritismo">📔 O Evangelho segundo o Espiritismo </a>   | alfa ➡ 🟡 |
+| 📔 O Céu e o Inferno   | aguardando ➡ 🔴 |
+| 📔 A Gênese   | aguardando ➡ 🔴 |
 
 ## Legal
 

@@ -1,5 +1,5 @@
 ---
-title: 1.👻 LDE
+title: 1. 📔 LDE
 layout: default
 ---
 

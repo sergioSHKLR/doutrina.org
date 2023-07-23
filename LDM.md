@@ -1,5 +1,5 @@
 ---
-title: 2.✒️ LDM
+title: 2. 📔 LDM
 layout: default
 ---
 
