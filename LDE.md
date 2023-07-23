@@ -716,16 +716,19 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 30. A matéria é formada de um só ou de muitos elementos?
 
 >De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
+{:.spirit}
 
 ##### LDE-q31
 #️⃣ 31. Donde se originam as diversas propriedades da matéria?
 
 >São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
+{:.spirit}
 
 ##### LDE-q32
 #️⃣ 32. De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
 >Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las.
+{:.spirit}
 
 >A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 
@@ -733,6 +736,7 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 33. A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
 >Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo! [^6]
+{:.spirit}
 
 >O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
@@ -740,16 +744,19 @@ Um acaso inteligente já não seria acaso.
 #️⃣ a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
 >É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
+{:.spirit}
 
 ##### LDE-q34
 #️⃣ 34. As moléculas têm forma determinada?
 
 >Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
+{:.spirit}
 
 ##### LDE-q34a
 #️⃣ 34a. Essa forma é constante ou variável?
 
 >Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar. 
+{:.spirit}
 
 #### 📃 Espaço universal {#LDE-1-02-04}
 
@@ -757,6 +764,7 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 35. O Espaço universal é infinito ou limitado?
 
 >Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a razão te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo.
+{:.spirit}
 
 >Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a razão diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
 
@@ -764,6 +772,7 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 36. O vácuo absoluto existe em alguma parte no Espaço universal?
 
 >Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos. 
+{:.spirit}
 
 ### 📑 3. Da Criação {#LDE-1-03}
 
@@ -775,6 +784,7 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 37. O Universo foi criado, ou existe de toda a eternidade, como Deus?
 
 >É fora de dúvida que ele não pode ter-se feito a si mesmo. Se existisse, como Deus, de toda a eternidade, não seria obra de Deus.
+{:.spirit}
 
 Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de Deus.
 
