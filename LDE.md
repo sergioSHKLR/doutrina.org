@@ -1,6 +1,7 @@
 ---
 title: 1.👻 LDE
 layout: page
+disable_anchors: true
 ---
 
 <title>👻 LDE | doutrina.org</title>
