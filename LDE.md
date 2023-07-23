@@ -871,8 +871,6 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 >O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo. 
 
-[⤴️ voltar para capítulo](#LDE-1-03)
-
 #### 📃 Diversidade das raças humanas {#LDE-1-03-04}
 
 ##### LDE-q52
@@ -894,8 +892,6 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 #️⃣ 54. Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 
 >Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal. 
-
-[⤴️ voltar para capítulo](#LDE-1-03)
 
 #### 📃 Pluralidade dos mundos {#LDE-1-03-05}
 
@@ -922,8 +918,6 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 >Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a eletricidade que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma matéria que vós outros e com órgãos de conformação idêntica à dos vossos.
 
 >As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. 
-
-[⤴️ voltar para capítulo](#LDE-1-03)
 
 #### 📃 Considerações e concordâncias bíblicas concernentes à Criação {#LDE-1-03-06}
 
@@ -1137,8 +1131,6 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 #️⃣ 83. Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 >Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 Mundo normal primitivo {#LDE-2-01-02}
 
 ##### LDE-q84
@@ -1160,8 +1152,6 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 #️⃣ 87. Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 
 >Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados. 
-
-[⤴️ voltar para capítulo](#LDE-2-01)
 
 #### 📃 Forma e ubiquidade dos Espíritos {#LDE-2-01-03}
 
@@ -1210,8 +1200,6 @@ Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É u
 
 Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 Perispírito {#LDE-2-01-04}
 
 ##### LDE-q93
@@ -1236,8 +1224,6 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 >Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 Diferentes ordens de Espíritos {#LDE-2-01-05}
 
 ##### LDE-q96
@@ -1260,8 +1246,6 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 >Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 Escala espírita {#LDE-2-01-06}
 
 ##### LDE-q100
@@ -1276,8 +1260,6 @@ Os Espíritos, em geral, admitem três categorias principais, ou três grandes d
 Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivados. Só nos restava pôr em relevo, mediante subdivisões em número suficiente, os principais matizes do conjunto. Foi o que fizemos, com o concurso dos Espíritos, cujas benévolas instruções jamais nos faltaram.
 
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de confiança ou de estima que mereçam. É, de certo modo, a chave da ciência espírita, porquanto só ele pode explicar as anomalias que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos Espíritos. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre gradual o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se. 
-
-[⤴️ voltar para capítulo](#LDE-2-01)
 
 #### 📃 3ª ordem – Espíritos imperfeitos {#LDE-2-01-07}
 
@@ -1325,8 +1307,6 @@ Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, 
 
 Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 2ª ordem – Bons Espíritos {#LDE-2-01-08}
 
 ##### LDE-q107
@@ -1356,8 +1336,6 @@ Podem ser divididos em quatro grupos principais:
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 1ª ordem – Espíritos puros {#LDE-2-01-09}
 
 ##### LDE-q112
@@ -1367,8 +1345,6 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 #️⃣ 113. Primeira classe. Classe única. — Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. 
-
-[⤴️ voltar para capítulo](#LDE-2-01)
 
 #### 📃 Progressão dos Espíritos {#LDE-2-01-10}
 
@@ -1463,8 +1439,6 @@ Por estas palavras – **as eternidades** – se deve entender a ideia que os Es
 
 Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há Espíritos que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o Espírito, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 #### 📃 Anjos e demônios {#LDE-2-01-11}
 
 ##### LDE-q128
@@ -1506,8 +1480,6 @@ Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram 
 
 Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo. 
 
-[⤴️ voltar para capítulo](#LDE-2-01)
-
 ### 📑 02. Da encarnação dos espíritos {#LDE-2-02}
 
 #### 📃 Objetivo da encarnação {#LDE-2-02-01}
@@ -1528,8 +1500,6 @@ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém
 #️⃣ 133a. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
 
 >Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos. 
-
-[⤴️ voltar para livro](#LDE)
 
 #### 📃 A alma {#LDE-2-02-02}
 
@@ -1643,8 +1613,6 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 >Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais. 
 
-[⤴️ voltar para capítulo](#LDE-2-02)
-
 #### 📃 Materialismo {#LDE-2-02-03}
 
 ##### LDE-q147
@@ -1664,8 +1632,6 @@ O homem tem, instintivamente, a convicção de que nem tudo se lhe acaba com a v
 Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina que não pode ser assim e a razão no-lo confirma. Uma existência futura, porém, vaga e indefinida não apresenta o que satisfaça ao nosso desejo do positivo. Essa, em muitos, a origem da dúvida. Possuímos alma, está bem; mas que é a nossa alma? Tem forma, uma aparência qualquer? É um ser limitado ou indefinido? Dizem alguns que é um sopro de Deus; outros, uma centelha; outros, uma parcela do grande Todo, o princípio da vida e da inteligência. Que é, porém, o que de tudo isto ficamos sabendo? Que nos importa ter uma alma, se, extinguindo-se-nos a vida, ela desaparece na imensidade, como as gotas de água no oceano? A perda da nossa individualidade não equivale, para nós, ao nada? Diz-se também que a alma é imaterial. Ora, uma coisa imaterial carece de proporções determinadas. Desde então, nada é, para nós. A religião ainda nos ensina que seremos felizes ou desgraçados, conforme o bem ou o mal que houvermos feito. Que vem a ser, porém, essa felicidade que nos aguarda no seio de Deus? Será uma beatitude, uma contemplação eterna, sem outra ocupação mais do que entoar louvores ao Criador? As chamas do inferno serão uma realidade ou um símbolo? A própria Igreja lhes dá esta última significação; mas, então, que são aqueles sofrimentos? Onde esse lugar de suplício? Numa palavra, que é o que se faz, que é o que se vê, nesse outro mundo que a todos nos espera? Dizem que ninguém jamais voltou de lá para nos dar informações.
 
 É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro. 
-
-[⤴️ voltar para capítulo](#LDE-2-02)
 
 ### 📑 03. Da volta do Espírito à vida espiritual {#LDE-2-03}
 
@@ -1715,8 +1681,6 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 #️⃣ 153a. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
 
 >Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais. 
-
-[⤴️ voltar para capítulo](#LDE-2-03)
 
 #### 📃 Separação da alma e do corpo {#LDE-2-03-02}
 
@@ -1776,8 +1740,6 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais **tenazes** os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo.
 
-[⤴️ voltar para capítulo](#LDE-2-03)
-
 #### 📃 Perturbação espiritual {#LDE-2-03-03}
 
 ##### LDE-q163
@@ -1806,8 +1768,6 @@ Aquela perturbação apresenta circunstâncias especiais, de acordo com os carac
 A perturbação que se segue à morte nada tem de penosa para o homem de bem, que se conserva calmo, semelhante em tudo a quem acompanha as fases de um tranquilo despertar. Para aquele cuja consciência ainda não está pura, a perturbação é cheia de ansiedade e de angústias, que aumentam à proporção que ele da sua situação se compenetra.
 
 Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam. 
-
-[⤴️ voltar para capítulo](#LDE-2-03)
 
 ### 📑 04. Da pluralidade das existências {#LDE-2-04}
 
@@ -1853,8 +1813,6 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 >Espírito bem-aventurado; puro Espírito. 
 
-[⤴️ voltar para capítulo](#LDE-2-04)
-
 #### 📃 Justiça da reencarnação {#LDE-2-04-02}
 
 ##### LDE-q171
@@ -1869,8 +1827,6 @@ Não obraria Deus com equidade, nem de acordo com a sua bondade, se condenasse p
 A doutrina da reencarnação, isto é, a que consiste em admitir para o Espírito muitas existências sucessivas, é a única que corresponde à ideia que formamos da Justiça de Deus para com os homens que se acham em condição moral inferior; a única que pode explicar o futuro e firmar as nossas esperanças, pois que nos oferece os meios de resgatarmos os nossos erros por novas provações. A razão no-la indica e os Espíritos a ensinam.
 
 O homem, que tem consciência da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência. 
-
-[⤴️ voltar para capítulo](#LDE-2-04)
 
 #### 📃 Encarnação nos diferentes mundos {#LDE-2-04-03}
 
@@ -2016,8 +1972,6 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 >Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. [^10]
 
-[⤴️ voltar para capítulo](#LDE-2-04)
-
 #### 📃 Transmigrações progressivas {#LDE-2-04-04}
 
 ##### LDE-q189
@@ -2088,8 +2042,6 @@ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível
 
 O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição. 
 
-[⤴️ voltar para capítulo](#LDE-2-04)
-
 #### 📃 Sorte das crianças depois da morte {#LDE-2-04-05}
 
 ##### LDE-q197
@@ -2123,8 +2075,6 @@ Semelhante ordem de coisas não corresponderia à Justiça de Deus. Com a reenca
 
 Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus. 
 
-[⤴️ voltar para capítulo](#LDE-2-04)
-
 #### 📃 Sexos nos Espíritos {#LDE-2-04-06}
 
 ##### LDE-q200
@@ -2143,8 +2093,6 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 >Isso pouco lhe importa. O que o guia na escolha são as provas por que haja de passar.
 
 Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens. 
-
-[⤴️ voltar para capítulo](#LDE-2-04)
 
 #### 📃 Parentesco, filiação {#LDE-2-04-07}
 
@@ -2170,8 +2118,6 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 #️⃣ 206. Do fato de não haver filiação entre os Espíritos dos descendentes de qualquer família, seguir-se-á que o culto dos avoengos seja ridículo?
 
 >De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram Espíritos elevados. Se bem os Espíritos não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais. 
-
-[⤴️ voltar para capítulo](#LDE-2-04)
 
 #### 📃 Parecenças físicas e morais {#LDE-2-04-08}
 
@@ -2236,8 +2182,6 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do Espírito frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a **achar-se de novo** no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o Espírito foi antes? 
 
-[⤴️ voltar para capítulo](#LDE-2-04)
-
 #### 📃 Ideias inatas {#LDE-2-04-09}
 
 ##### LDE-q218
@@ -2274,8 +2218,6 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 #️⃣ 221a. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Espírita, que se observam em todos os povos?
 
 >Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição. 
-
-[⤴️ voltar para capítulo](#LDE-2-04)
 
 ### 📑 05. Considerações sobre a pluralidade das existências {#LDE-2-05}
 
@@ -2376,8 +2318,6 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 {:.bible}
 
 👉 ([LDE-q1010](#LDE-q1010)) 
-
-[⤴️ voltar para capítulo](#LDE-2-05)
 
 ### 📑 06. Da vida espírita {#LDE-2-06}
 
