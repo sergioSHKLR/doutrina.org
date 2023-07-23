@@ -10,6 +10,8 @@ layout: default
    body {font-size: 18px;}
 </style>
 
+<script src="https://hypothes.is/embed.js" async></script>
+
 # Bem vindo!
 
 | Livro  |  Status  |
