@@ -87,7 +87,7 @@ blockquote.warrior p:first-child::before {
 ### LDE-0-01 📃 Folha de rosto {#LDM-0-01} 
 
 | Espiritismo Experimental |
-|::|
+|:---:|
 |
 | ✒️ **O Livro dos Médiuns** |
 |
