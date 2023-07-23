@@ -4,10 +4,20 @@ layout: default
 ---
 
 <style>
-   html {width: 98vw;}
-   section {width: 70vw;}
-   .wrapper {width: 90vw;}
-   body {font-size: 18px;}
+html {
+  width: 98vw;
+  scroll-behavior: smooth;
+}
+section {
+  width: 70vw;
+}
+.wrapper {
+  width: 90vw;
+}
+body {
+  font-size: 18px;
+}
+
 </style>
 
 <script src="https://hypothes.is/embed.js" async></script>
