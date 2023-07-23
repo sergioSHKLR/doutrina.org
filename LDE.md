@@ -1098,35 +1098,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ## 🗂️ Parte 2. Do mundo espírita {#LDE-2}
 
-- [LDE-2-01 📑 01. Dos Espíritos](#LDE-2-01)
-- [LDE-2-02 📑 02. Da encarnação dos espíritos](#LDE-2-02)
-- [LDE-2-03 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03)
-- [LDE-2-04 📑 04. Da pluralidade das existências](#LDE-2-04)
-- [LDE-2-05 📑 05. Considerações sobre a pluralidade das existências](#LDE-2-05)
-- [LDE-2-06 📑 06. Da vida espírita](#LDE-2-06)
-- [LDE-2-07 📑 07. Da volta do Espírito à vida corporal](#LDE-2-07)
-- [LDE-2-08 📑 08. Da emancipação da alma](#LDE-2-08)
-- [LDE-2-09 📑 09. Da intervenção dos Espíritos no mundo corporal](#LDE-2-09)
-- [LDE-2-10 📑 10. Das ocupações e missões dos Espíritos](#LDE-2-10)
-- [LDE-2-11 📑 11. Dos três reinos](#LDE-2-11)
-
-[⤴️ voltar para livro](#LDE)
-
 ### 📑 01. Dos Espíritos {#LDE-2-01}
-
-- [LDE-2-01-01 📃 Origem e natureza dos Espíritos](#LDE-2-01-01)
-- [LDE-2-01-02 📃 Mundo normal primitivo](#LDE-2-01-02)
-- [LDE-2-01-03 📃 Forma e ubiquidade dos Espíritos](#LDE-2-01-03)
-- [LDE-2-01-04 📃 Perispírito](#LDE-2-01-04)
-- [LDE-2-01-05 📃 Diferentes ordens de Espíritos](#LDE-2-01-05)
-- [LDE-2-01-06 📃 Escala espírita](#LDE-2-01-06)
-- [LDE-2-01-07 📃 3ª ordem – Espíritos imperfeitos](#LDE-2-01-07)
-- [LDE-2-01-08 📃 2ª ordem – Bons Espíritos](#LDE-2-01-08)
-- [LDE-2-01-09 📃 1ª ordem – Espíritos puros](#LDE-2-01-09)
-- [LDE-2-01-10 📃 Progressão dos Espíritos](#LDE-2-01-10)
-- [LDE-2-01-11 📃 Anjos e demônios](#LDE-2-01-11)
-
-[⤴️ voltar para parte](#LDE-2)
 
 #### 📃 Origem e natureza dos Espíritos {#LDE-2-01-01}
 
@@ -1546,12 +1518,6 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 ### 📑 02. Da encarnação dos espíritos {#LDE-2-02}
 
-- [LDE-2-02-01 📃 Objetivo da encarnação](#LDE-2-02-01)
-- [LDE-2-02-02 📃 A alma](#LDE-2-02-02)
-- [LDE-2-02-03 📃 Materialismo](#LDE-2-02-03)
-
-[⤴️ voltar para parte](#LDE-2)
-
 #### 📃 Objetivo da encarnação {#LDE-2-02-01}
 
 ##### LDE-q132
@@ -1711,12 +1677,6 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ### 📑 03. Da volta do Espírito à vida espiritual {#LDE-2-03}
 
-- [LDE-2-03-01 📃 A alma após a morte. Vida eterna](#LDE-2-03-01)
-- [LDE-2-03-02 📃 Separação da alma e do corpo](#LDE-2-03-02)
-- [LDE-2-03-03 📃 Perturbação espiritual](#LDE-2-03-03)
-
-[⤴️ voltar para parte](#LDE-2)
-
 #### 📃 A alma após a morte. Vida eterna. {#LDE-2-03-01}
 
 ##### LDE-q149
@@ -1858,18 +1818,6 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 [⤴️ voltar para capítulo](#LDE-2-03)
 
 ### 📑 04. Da pluralidade das existências {#LDE-2-04}
-
-- [LDE-2-04-01 📃 A reencarnação](#LDE-2-04-01)
-- [LDE-2-04-02 📃 Justiça da reencarnação](#LDE-2-04-02)
-- [LDE-2-04-03 📃 Encarnação nos diferentes mundos](#LDE-2-04-03)
-- [LDE-2-04-04 📃 Transmigrações progressivas](#LDE-2-04-04)
-- [LDE-2-04-05 📃 Sorte das crianças depois da morte](#LDE-2-04-05)
-- [LDE-2-04-06 📃 Sexos nos Espíritos](#LDE-2-04-06)
-- [LDE-2-04-07 📃 Parentesco, filiação](#LDE-2-04-07)
-- [LDE-2-04-08 📃 Parecenças físicas e morais](#LDE-2-04-08)
-- [LDE-2-04-09 📃 Ideias inatas](#LDE-2-04-09)
-
-[⤴️ voltar para parte](#LDE-2)
 
 #### 📃 A reencarnação {#LDE-2-04-01}
 
@@ -2440,18 +2388,6 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 [⤴️ voltar para capítulo](#LDE-2-05)
 
 ### 📑 06. Da vida espírita {#LDE-2-06}
-
-- [LDE-2-06-01 📃 Espíritos errantes](#LDE-2-06-01)
-- [LDE-2-06-02 📃 Mundos transitórios](#LDE-2-06-02)
-- [LDE-2-06-03 📃 Percepções, sensações e sofrimentos dos Espíritos](#LDE-2-06-03)
-- [LDE-2-06-04 📃 Ensaio teórico da sensação nos Espíritos](#LDE-2-06-04)
-- [LDE-2-06-05 📃 Escolha das provas](#LDE-2-06-05)
-- [LDE-2-06-06 📃 As relações no além-túmulo](#LDE-2-06-06)
-- [LDE-2-06-07 📃 Relações de simpatia e de antipatia entre os Espíritos- Metades eternas](#LDE-2-06-07)
-- [LDE-2-06-08 📃 Recordação da existência corpórea](#LDE-2-06-08)
-- [LDE-2-06-09 📃 Comemoração dos mortos- Funerais](#LDE-2-06-09)
-
-[⤴️ voltar para parte](#LDE-2)
 
 #### 📃 Espíritos errantes {#LDE-2-06-01}
 
@@ -3225,17 +3161,6 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 
 ### 📑 07. Da volta do Espírito à vida corporal {#LDE-2-07}
 
-- [LDE-2-07-01 📃 Prelúdio da volta](#LDE-2-07-01)
-- [LDE-2-07-02 📃 União do espírito e do corpo](#LDE-2-07-02)
-- [LDE-2-07-03 📃 Faculdades morais e intelectuais do homem](#LDE-2-07-03)
-- [LDE-2-07-04 📃 Influência do corpo](#LDE-2-07-04)
-- [LDE-2-07-05 📃 Idiotismo, loucura](#LDE-2-07-05)
-- [LDE-2-07-06 📃 A infância](#LDE-2-07-06)
-- [LDE-2-07-07 📃 Simpatia e antipatia materiais](#LDE-2-07-07)
-- [LDE-2-07-08 📃 Esquecimento do passado](#LDE-2-07-08)
-
-[⤴️ voltar para parte](#LDE-2)
-
 #### 📃 Prelúdio da volta {#LDE-2-07-01}
 
 ##### LDE-q330
@@ -3726,17 +3651,6 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 ### 📑 08. Da emancipação da alma {#LDE-2-08}
 
-- [LDE-2-08-01 📃 O sono e os sonhos](#LDE-2-08-01)
-- [LDE-2-08-02 📃 Visitas espíritas entre pessoas vivas](#LDE-2-08-02)
-- [LDE-2-08-03 📃 Transmissão oculta do pensamento](#LDE-2-08-03)
-- [LDE-2-08-04 📃 Letargia, catalepsia, mortes aparentes](#LDE-2-08-04)
-- [LDE-2-08-05 📃 Sonambulismo](#LDE-2-08-05)
-- [LDE-2-08-06 📃 Êxtase](#LDE-2-08-06)
-- [LDE-2-08-07 📃 Dupla vista](#LDE-2-08-07)
-- [LDE-2-08-08 📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista](#LDE-2-08-08)
-
-[⤴️ voltar para parte](#LDE-2)
-
 #### 📃 O sono e os sonhos {#LDE-2-08-01}
 
 ##### LDE-q400
@@ -4144,22 +4058,6 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 [⤴️ subir um nível](#LDE-2-08)
 
 ### 📑 09. Da intervenção dos Espíritos no mundo corporal {#LDE-2-09}
-
-- [LDE-2-09-01 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos](#LDE-2-09-01)
-- [LDE-2-09-02 📃 Influência oculta dos Espíritos em nossos pensamentos e atos](#LDE-2-09-02)
-- [LDE-2-09-03 📃 Possessos](#LDE-2-09-03)
-- [LDE-2-09-04 📃 Convulsionários](#LDE-2-09-04)
-- [LDE-2-09-05 📃 Afeição que os Espíritos votam a certas pessoas](#LDE-2-09-05)
-- [LDE-2-09-06 📃 Anjos da guarda- Espíritos protetores, familiares ou simpáticos](#LDE-2-09-06)
-- [LDE-2-09-07 📃 Pressentimentos](#LDE-2-09-07)
-- [LDE-2-09-08 📃 Influência dos Espíritos nos acontecimentos da vida](#LDE-2-09-08)
-- [LDE-2-09-09 📃 Ação dos Espíritos nos fenômenos da Natureza](#LDE-2-09-09)
-- [LDE-2-09-10 📃 Os Espíritos durante os combates](#LDE-2-09-10)
-- [LDE-2-09-11 📃 Pactos](#LDE-2-09-11)
-- [LDE-2-09-12 📃 Poder oculto- Talismãs- Feiticeiros](#LDE-2-09-12)
-- [LDE-2-09-13 📃 Bênçãos e maldições](#LDE-2-09-13)
-
-[⤴️ voltar para parte](#LDE-2)
 
 #### 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos {#LDE-2-09-01}
 
@@ -5102,12 +5000,6 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 ### 📑 11. Dos três reinos {#LDE-2-11}
 
-- [LDE-2-11-01 📃 Os minerais e as plantas](#LDE-2-11-01)
-- [LDE-2-11-02 📃 Os animais e o homem](#LDE-2-11-02)
-- [LDE-2-11-03 📃 Metempsicose](#LDE-2-11-03)
-
-[⤴️ voltar para parte](#LDE-2)
-
 #### 📃 Os minerais e as plantas {#LDE-2-11-01}
 
 ##### LDE-q585
@@ -5327,29 +5219,7 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 
 ## 🗂️ Parte 3. Das leis morais {#LDE-3}
 
-- [LDE-3-01 📑 01. Da lei divina ou natural](#LDE-3-01)
-- [LDE-3-02 📑 02. Da lei de adoração](#LDE-3-02)
-- [LDE-3-03 📑 03. Da lei do trabalho](#LDE-3-03)
-- [LDE-3-04 📑 04. Da lei de reprodução](#LDE-3-04)
-- [LDE-3-05 📑 05. Da lei de conservação](#LDE-3-05)
-- [LDE-3-06 📑 06. Da lei de destruição](#LDE-3-06)
-- [LDE-3-07 📑 07. Da lei de sociedade](#LDE-3-07)
-- [LDE-3-08 📑 08. Da lei do progresso](#LDE-3-08)
-- [LDE-3-09 📑 09. Da lei de igualdade](#LDE-3-09)
-- [LDE-3-10 📑 10. Da lei de liberdade](#LDE-3-10)
-- [LDE-3-11 📑 11. Da lei de justiça, de amor, e de caridade](#LDE-3-11)
-- [LDE-3-12 📑 12. Da perfeição moral](#LDE-3-12)
-
-[⤴️ voltar para livro](#LDE)
-
 ### 📑 01. Da lei divina ou natural {#LDE-3-01}
-
-- [LDE-3-01-01 📃 Caracteres da lei natural](#LDE-3-01-01)
-- [LDE-3-01-02 📃 Conhecimento da lei natural](#LDE-3-01-02)
-- [LDE-3-01-03 📃 O bem e o mal](#LDE-3-01-03)
-- [LDE-3-01-04 📃 Divisão da lei natural](#LDE-3-01-04)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 Caracteres da lei natural {#LDE-3-01-01}
 
@@ -5574,15 +5444,6 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 ### 📑 02. Da lei de adoração {#LDE-3-02}
 
-- [LDE-3-02-01 📃 Objetivo da adoração](#LDE-3-02-01)
-- [LDE-3-02-02 📃 Adoração exterior](#LDE-3-02-02)
-- [LDE-3-02-03 📃 Vida contemplativa](#LDE-3-02-03)
-- [LDE-3-02-04 📃 A prece](#LDE-3-02-04)
-- [LDE-3-02-05 📃 Politeísmo](#LDE-3-02-05)
-- [LDE-3-02-06 📃 Sacrifícios](#LDE-3-02-06)
-
-[⤴️ voltar para parte](#LDE-3)
-
 #### 📃 Objetivo da adoração {#LDE-3-02-01}
 
 ##### LDE-q649
@@ -5770,11 +5631,6 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ### 📑 03. Da lei do trabalho {#LDE-3-03}
 
-- [LDE-3-03-01 📃 Necessidade do trabalho](#LDE-3-03-01)
-- [LDE-3-03-02 📃 Limite do trabalho- Repouso](#LDE-3-03-02)
-
-[⤴️ voltar para parte](#LDE-3)
-
 #### 📃 Necessidade do trabalho {#LDE-3-03-01}
 
 ##### LDE-q674
@@ -5851,14 +5707,6 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 [⤴️ subir um nível](#LDE-3-03)
 
 ### 📑 04. Da lei de reprodução {#LDE-3-04}
-
-- [LDE-3-04-01 📃 População do globo](#LDE-3-04-01)
-- [LDE-3-04-02 📃 Sucessão e aperfeiçoamento das raças](#LDE-3-04-02)
-- [LDE-3-04-03 📃 Obstáculos à reprodução](#LDE-3-04-03)
-- [LDE-3-04-04 📃 Casamento e celibato](#LDE-3-04-04)
-- [LDE-3-04-05 📃 Poligamia](#LDE-3-04-05)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 População do globo {#LDE-3-04-01}
 
@@ -5974,14 +5822,6 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 [⤴️ subir um nível](#LDE-3-04)
 
 ### 📑 05. Da lei de conservação {#LDE-3-05}
-
-- [LDE-3-05-01 📃 Instinto de conservação](#LDE-3-05-01)
-- [LDE-3-05-02 📃 Meios de conservação](#LDE-3-05-02)
-- [LDE-3-05-03 📃 Gozo dos bens terrenos](#LDE-3-05-03)
-- [LDE-3-05-04 📃 Necessário e supérfluo](#LDE-3-05-04)
-- [LDE-3-05-05 📃 Privações voluntárias- Mortificações](#LDE-3-05-05)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 Instinto de conservação {#LDE-3-05-01}
 
@@ -6159,16 +5999,6 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 [⤴️ subir um nível](#LDE-3-05)
 
 ### 📑 06. Da lei de destruição {#LDE-3-06}
-
-- [LDE-3-06-01 📃 Destruição necessária e destruição abusiva](#LDE-3-06-01)
-- [LDE-3-06-02 📃 Flagelos destruidores](#LDE-3-06-02)
-- [LDE-3-06-03 📃 Guerras](#LDE-3-06-03)
-- [LDE-3-06-04 📃 Assassínio](#LDE-3-06-04)
-- [LDE-3-06-05 📃 Crueldade](#LDE-3-06-05)
-- [LDE-3-06-06 📃 Duelo](#LDE-3-06-06)
-- [LDE-3-06-07 📃 Pena de morte](#LDE-3-06-07)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 Destruição necessária e destruição abusiva {#LDE-3-06-01}
 
@@ -6442,12 +6272,6 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 ### 📑 07. Da lei de sociedade {#LDE-3-07}
 
-- [LDE-3-07-01 📃 Necessidade da vida social](#LDE-3-07-01)
-- [LDE-3-07-02 📃 Vida de insulamento- Voto de silêncio](#LDE-3-07-02)
-- [LDE-3-07-03 📃 Laços de família](#LDE-3-07-03)
-
-[⤴️ voltar para parte](#LDE-3)
-
 #### 📃 Necessidade da vida social {#LDE-3-07-01}
 
 ##### LDE-q766
@@ -6525,15 +6349,6 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 [⤴️ subir um nível](#LDE-3-07)
 
 ### 📑 08. Da lei do progresso {#LDE-3-08}
-
-- [LDE-3-08-01 📃 Estado de natureza](#LDE-3-08-01)
-- [LDE-3-08-02 📃 Marcha do progresso](#LDE-3-08-02)
-- [LDE-3-08-03 📃 Povos degenerados](#LDE-3-08-03)
-- [LDE-3-08-04 📃 Civilização](#LDE-3-08-04)
-- [LDE-3-08-05 📃 Progresso da legislação humana](#LDE-3-08-05)
-- [LDE-3-08-06 📃 Influência do Espiritismo no progresso](#LDE-3-08-06)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 Estado de natureza {#LDE-3-08-01}
 
@@ -6757,16 +6572,6 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 ### 📑 09. Da lei de igualdade {#LDE-3-09}
 
-- [LDE-3-09-01 📃 Igualdade natural](#LDE-3-09-01)
-- [LDE-3-09-02 📃 Desigualdade das aptidões](#LDE-3-09-02)
-- [LDE-3-09-03 📃 Desigualdades sociais](#LDE-3-09-03)
-- [LDE-3-09-04 📃 Desigualdade das riquezas](#LDE-3-09-04)
-- [LDE-3-09-05 📃 As provas de riqueza e de miséria](#LDE-3-09-05)
-- [LDE-3-09-06 📃 Igualdade dos direitos do homem e da mulher](#LDE-3-09-06)
-- [LDE-3-09-07 📃 Igualdade perante o túmulo](#LDE-3-09-07)
-
-[⤴️ voltar para parte](#LDE-3)
-
 #### 📃 Igualdade natural {#LDE-3-09-01}
 
 ##### LDE-q803
@@ -6954,17 +6759,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 [⤴️ subir um nível](#LDE-3-09)
 
 ### 📑 10. Da lei de liberdade {#LDE-3-10}
-
-- [LDE-3-10-01 📃 Liberdade natural](#LDE-3-10-01)
-- [LDE-3-10-02 📃 Escravidão](#LDE-3-10-02)
-- [LDE-3-10-03 📃 Liberdade de pensar](#LDE-3-10-03)
-- [LDE-3-10-04 📃 Liberdade de consciência](#LDE-3-10-04)
-- [LDE-3-10-05 📃 Livre-arbítrio](#LDE-3-10-05)
-- [LDE-3-10-06 📃 Fatalidade](#LDE-3-10-06)
-- [LDE-3-10-07 📃 Conhecimento do futuro](#LDE-3-10-07)
-- [LDE-3-10-08 📃 Resumo teórico do móvel das ações humanas](#LDE-3-10-08)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 Liberdade natural {#LDE-3-10-01}
 
@@ -7285,13 +7079,6 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ### 📑 11. Da lei de justiça, de amor, e de caridade {#LDE-3-11}
 
-- [LDE-3-11-01 📃 Justiça e direitos naturais](#LDE-3-11-01)
-- [LDE-3-11-02 📃 Direito de propriedade- Roubo](#LDE-3-11-02)
-- [LDE-3-11-03 📃 Caridade e amor do próximo](#LDE-3-11-03)
-- [LDE-3-11-04 📃 Amor materno e filial](#LDE-3-11-04)
-
-[⤴️ voltar para parte](#LDE-3)
-
 #### 📃 Justiça e direitos naturais {#LDE-3-11-01}
 
 ##### LDE-q873
@@ -7480,14 +7267,6 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 [⤴️ subir um nível](#LDE-3-11)
 
 ### 📑 12. Da perfeição moral {#LDE-3-12}
-
-- [LDE-3-12-01 📃 As virtudes e os vícios](#LDE-3-12-01)
-- [LDE-3-12-02 📃 Paixões](#LDE-3-12-02)
-- [LDE-3-12-03 📃 O egoísmo](#LDE-3-12-03)
-- [LDE-3-12-04 📃 Caracteres do homem de bem](#LDE-3-12-04)
-- [LDE-3-12-05 📃 Conhecimento de si mesmo](#LDE-3-12-05)
-
-[⤴️ voltar para parte](#LDE-3)
 
 #### 📃 As virtudes e os vícios {#LDE-3-12-01}
 
@@ -7719,21 +7498,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 ## 🗂️ Parte 4. Das esperanças e consolações {#LDE-4}
 
-- [LDE-4-01 📑 1. Das penas e gozos terrestres](#LDE-4-01)
-- [LDE-4-02 📑 2. Das penas e gozos futuros](#LDE-4-02)
-
-[⤴️ voltar para livro](#LDE)
-
 ### 📑 1. Das penas e gozos terrestres {#LDE-4-01}
-
-- [LDE-4-01-01 📃 Felicidade e infelicidade relativas](#LDE-4-01-01)
-- [LDE-4-01-02 📃 Perda dos entes queridos](#LDE-4-01-02)
-- [LDE-4-01-03 📃 Decepções- Ingratidão- Afeições destruídas](#LDE-4-01-03)
-- [LDE-4-01-04 📃 Uniões antipáticas](#LDE-4-01-04)
-- [LDE-4-01-05 📃 Temor da morte](#LDE-4-01-05)
-- [LDE-4-01-06 📃 Desgosto da vida- Suicídio](#LDE-4-01-06)
-
-[⤴️ voltar para parte](#LDE-4)
 
 #### 📃 Felicidade e infelicidade relativas {#LDE-4-01-01}
 
@@ -8042,18 +7807,6 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 [⤴️ subir um nível](#LDE-4-01)
 
 ### 📑 2. Das penas e gozos futuros {#LDE-4-02}
-
-- [LDE-4-02-01 📃 O nada- Vida futura](#LDE-4-02-01)
-- [LDE-4-02-02 📃 Intuição das penas e gozos futuros](#LDE-4-02-02)
-- [LDE-4-02-03 📃 Intervenção de Deus nas penas e recompensas](#LDE-4-02-03)
-- [LDE-4-02-04 📃 Natureza das penas e gozos futuros](#LDE-4-02-04)
-- [LDE-4-02-05 📃 Penas temporais](#LDE-4-02-05)
-- [LDE-4-02-06 📃 Expiação e arrependimento](#LDE-4-02-06)
-- [LDE-4-02-07 📃 Duração das penas futuras](#LDE-4-02-07)
-- [LDE-4-02-08 📃 Ressurreição da carne](#LDE-4-02-08)
-- [LDE-4-02-09 📃 Paraíso, inferno e purgatório](#LDE-4-02-09)
-
-[⤴️ voltar para parte](#LDE-4)
 
 #### 📃 O nada. Vida futura {#LDE-4-02-XX}
 
@@ -8479,8 +8232,6 @@ Na linguagem vulgar, a palavra eterno é muitas vezes empregada figuradamente, p
 
 Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral 👉 ([LDE-q974](#LDE-q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. 
 
-[⤴️ subir um nível](#LDE-4-02)
-
 #### 📃 Ressurreição da carne {#LDE-4-02-XX}
 
 ##### LDE-q1010
@@ -8498,8 +8249,6 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 
 É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. 
-
-[⤴️ subir um nível](#LDE-4-02)
 
 #### 📃 Paraíso, inferno e purgatório {#LDE-4-02-XX}
 
@@ -8567,33 +8316,15 @@ De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das 
 >
 >**São Luís** 
 
-[⤴️ subir um nível](#LDE-4-02)
-
 ## 🗂️ Parte 5. Conclusão {#LDE-5}
-
-- [LDE-5-01 📃 01](#LDE-5-01)
-- [LDE-5-02 📃 02](#LDE-5-02)
-- [LDE-5-03 📃 03](#LDE-5-03)
-- [LDE-5-04 📃 04](#LDE-5-04)
-- [LDE-5-05 📃 05](#LDE-5-05)
-- [LDE-5-06 📃 06](#LDE-5-06)
-- [LDE-5-07 📃 07](#LDE-5-07)
-- [LDE-5-08 📃 08](#LDE-5-08)
-- [LDE-5-09 📃 09](#LDE-5-09)
-
-[⤴️ voltar para livro](#LDE)
 
 #### 📃 01 {#LDE-5-01}
 
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias. Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma ciência, assim como a solução dos problemas que nenhuma filosofia pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta filosofia como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos Espíritos. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca. Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra de um homem e dizei, do íntimo e em consciência, se, depois de o terdes lido **seriamente**, achais nele matéria para zombaria. 
 
-[⤴️ voltar para parte](#LDE-5)
-
 #### 📃 02 {#LDE-5-02}
 
 O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma doutrina cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciência), eles se acobertam com o manto da razão e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao Espiritismo. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o Espiritismo se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o **maravilhoso** e o **sobrenatural**, também condenam a religião. Com efeito, a religião se funda na revelação e nos milagres. Ora, que é a revelação, senão um conjunto de comunicações extraterrenas? Todos os autores sagrados, desde Moisés, têm falado dessa espécie de comunicações. Que são os milagres, senão fatos maravilhosos e sobrenaturais, por excelência, visto que, no sentido litúrgico, constituem derrogações das Leis da Natureza? Logo, rejeitando o maravilhoso e o sobrenatural, eles rejeitam as bases mesmas da religião. Não é deste ponto de vista, porém, que devemos encarar a questão. Ao Espiritismo não compete examinar se há ou não milagres, isto é, se em certos casos houve Deus por bem derrogar as leis eternas que regem o Universo. Permite, a este respeito, inteira liberdade de crença. Diz e prova que os fenômenos em que se baseia, de sobrenaturais só têm a aparência. E parecem tais a algumas pessoas, apenas porque são insólitos e diferentes dos fatos conhecidos. Não são, contudo, mais sobrenaturais do que todos os fenômenos, cuja explicação a Ciência hoje dá e que pareceram maravilhosos noutra época. Todos os fenômenos espíritas, sem exceção, resultam de leis gerais. Revelam-nos uma das forças da Natureza, força desconhecida, ou, por melhor dizer, incompreendida até agora, mas que a observação demonstra estar na ordem das coisas. Assim, pois, o Espiritismo se apoia menos no maravilhoso e no sobrenatural do que a própria religião. Conseguintemente, os que o atacam por esse lado mostram que o não conhecem e, ainda quando fossem os maiores sábios, lhes diríamos: se a vossa ciência, que vos instruiu em tantas coisas, não vos ensinou que o domínio da Natureza é infinito, sois apenas meio sábios. 
-
-[⤴️ voltar para parte](#LDE-5)
 
 #### 📃 03 {#LDE-5-03}
 
@@ -8601,13 +8332,9 @@ Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mun
 
 Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e do progresso, mas a fraternidade pressupõe desinteresse, abnegação da personalidade. Onde há verdadeira fraternidade, o orgulho é uma anomalia. Com que direito impondes um sacrifício àquele a quem dizeis que, com a morte, tudo se lhe acabará; que amanhã, talvez, ele não será mais do que uma velha máquina desmantelada e atirada ao monturo? Que razões terá ele para impor a si mesmo uma privação qualquer? Não será mais natural que trate de viver o melhor possível, durante os breves instantes que lhe concedeis? Daí o desejo de possuir muito para melhor gozar. Do desejo nasce a inveja dos que possuem mais e, dessa inveja à vontade de apoderar-se do que a estes pertence, o passo é curto. Que é que o detém? A lei? A lei, porém, não abrange todos os casos. Direis que a consciência, o sentimento do dever, mas em que baseais o sentimento do dever? Terá razão de ser esse sentimento, de par com a crença de que tudo se acaba com a vida? Onde essa crença exista, uma só máxima é racional: cada um por si, não passando de vãs palavras as ideias de fraternidade, de consciência, de dever, de humanidade, mesmo de progresso. Oh! vós, que proclamais semelhantes doutrinas, não sabeis quão grande é o mal que fazeis à sociedade, nem de quantos crimes assumis a responsabilidade! Para o cético, tal coisa não existe. Só à matéria rende ele homenagem. 
 
-[⤴️ voltar para parte](#LDE-5)
-
 #### 📃 04 {#LDE-5-04}
 
 O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. 👉 ([LDE-q789](#LDE-q789) e [LDE-q793](#LDE-q793)) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. [^26]
-
-[⤴️ voltar para parte](#LDE-5)
 
 #### 📃 05 {#LDE-5-05}
 
@@ -8616,8 +8343,6 @@ Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, **i
 Por meio do Espiritismo, a Humanidade tem que entrar numa nova fase, a do progresso moral que lhe é consequência inevitável. Não mais, pois, vos espanteis da rapidez com que as ideias espíritas se propagam. A causa dessa celeridade reside na satisfação que trazem a todos os que as aprofundam e que nelas veem alguma coisa mais do que fútil passatempo. Ora, como cada um o que acima de tudo quer é a sua felicidade, nada há de surpreendente em que cada um se apegue a uma ideia que faz ditosos os que a esposam.
 
 Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o da curiosidade, que a singularidade dos fenômenos produzidos desperta; segundo, o do raciocínio e da filosofia; terceiro, o da aplicação e das consequências. O período da curiosidade passou; a curiosidade dura pouco. Uma vez satisfeita, muda de objeto. O mesmo não acontece com o que desafia a meditação séria e o raciocínio. Começou o segundo período, o terceiro virá inevitavelmente. O Espiritismo progrediu principalmente depois que foi sendo mais bem compreendido na sua essência íntima, depois que lhe perceberam o alcance, porque tange a corda mais sensível do homem: a da sua felicidade, mesmo neste mundo. Aí a causa da sua propagação, o segredo da força que o fará triunfar. Enquanto a sua influência não atinge as massas, ele vai felicitando os que o compreendem. Mesmo os que nenhum fenômeno têm testemunhado, dizem: à parte esses fenômenos, há a filosofia, que me explica o que NENHUMA OUTRA me havia explicado. Nela encontro, por meio unicamente do raciocínio, uma solução **racional** para os problemas que no mais alto grau interessam ao meu futuro. Ela me dá calma, firmeza, confiança; livra-me do tormento da incerteza. Ao lado de tudo isto, secundária se torna a questão dos fatos materiais. Quereis, vós todos que o atacais, um meio de combatê-lo com êxito? Aqui o tendes. Substituí-o por alguma coisa melhor; indicai solução MAIS FILOSÓFICA para todas as questões que ele resolveu; dai ao homem OUTRA CERTEZA que o faça mais feliz, porém compreendei bem o alcance desta palavra **certeza**, porquanto o homem não aceita, como **certo**, senão o que lhe parece **lógico**. Não vos contenteis com dizer: isto não é assim; demasiado fácil é semelhante afirmativa. Provai, não por negação, mas por fatos, que isto não é real, nunca o foi e NÃO PODE ser. Se não é, dizei o que o é, em seu lugar. Provai, finalmente, que as consequências do Espiritismo não são tornar melhor o homem e, portanto, mais feliz, pela prática da mais pura moral evangélica, moral a que se tecem muitos louvores, mas que muito pouco se pratica. Quando houverdes feito isso, tereis o direito de o atacar. O Espiritismo é forte porque assenta sobre as próprias bases da religião: Deus, a alma, as penas e as recompensas futuras; sobretudo, porque mostra que essas penas e recompensas são consequências naturais da vida terrestre e, ainda, porque, no quadro que apresenta do futuro, nada há que a razão mais exigente possa recusar. Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina consiste unicamente na negação do futuro? Enquanto vos apoiais na incredulidade, ele se apoia na confiança em Deus; ao passo que convida os homens à felicidade, à esperança, à verdadeira fraternidade, vós lhes ofereceis o **nada** por perspectiva e o **egoísmo** por consolação. Ele tudo explica, vós nada explicais. Ele prova pelos fatos, vós nada provais. Como quereis que se hesite entre as duas doutrinas? 
-
-[⤴️ voltar para parte](#LDE-5)
 
 #### 📃 06 {#LDE-5-06}
 
@@ -8629,8 +8354,6 @@ O Espiritismo não é obra de um homem. Ninguém pode inculcar-se como seu criad
 
 Que faz a moderna ciência espírita? Reúne em corpo de doutrina o que estava esparso; explica, com os termos próprios, o que só era dito em linguagem alegórica; poda o que a superstição e a ignorância engendraram, para só deixar o que é real e positivo. Esse o seu papel. O de fundadora não lhe pertence. Mostra o que existe, coordena, porém não cria, por isso que suas bases são de todos os tempos e de todos os lugares. Quem, pois, ousaria considerar-se bastante forte para abafá-la com sarcasmos, ou, ainda, com perseguições? Se a proscreverem de um lado, renascerá noutras partes, no próprio terreno donde a tenham banido, porque ela está na Natureza e ao homem não é dado aniquilar uma força da Natureza, nem opor veto aos decretos de Deus. 
 Que interesse, ademais, haveria em obstar-se a propagação das ideias espíritas? É exato que elas se erguem contra os abusos que nascem do orgulho e do egoísmo, mas, se é certo que desses abusos há quem aproveite, à coletividade humana eles prejudicam. A coletividade, portanto, será favorável a tais ideias, contando-se-lhes por adversários sérios apenas os interessados em manter aqueles abusos. As ideias espíritas, ao contrário, são um penhor de ordem e tranquilidade, porque, pela sua influência, os homens se tornam melhores uns para com os outros, menos ávidos das coisas materiais e mais resignados aos decretos da Providência. 
-
-[⤴️ voltar para parte](#LDE-5)
 
 #### 📃 07 {#LDE-5-07}
 
@@ -8652,8 +8375,6 @@ O segundo efeito, quase tão geral quanto o primeiro, é a resignação nas vici
 
 O terceiro efeito é o de estimular no homem a indulgência para com os defeitos alheios. Todavia, cumpre dizê-lo, o princípio egoísta e tudo que dele decorre são o que há de mais tenaz no homem e, por conseguinte, de mais difícil de desarraigar. Toda gente faz voluntariamente sacrifícios, contanto que nada custem e de nada privem. Para a maioria dos homens, o dinheiro tem ainda irresistível atrativo e bem poucos compreendem a palavra supérfluo, quando de suas pessoas se trata. Por isso mesmo, a abnegação da personalidade constitui sinal de grandíssimo progresso. 
 
-[⤴️ voltar para parte](#LDE-5)
-
 #### 📃 08 {#LDE-5-08}
 
 Perguntam algumas pessoas: Ensinam os Espíritos qualquer moral nova, qualquer coisa superior ao que disse o Cristo? Se a moral deles não é senão a do Evangelho, de que serve o Espiritismo? Este raciocínio se assemelha notavelmente ao do califa Omar, com relação à Biblioteca de Alexandria: Se ela não contém, dizia ele, mais do que o que está no Alcorão, é inútil. Logo deve ser queimada. Se contém coisa diversa, é nociva. Logo, também deve ser queimada. Não, o Espiritismo não traz moral diferente da de Jesus. Perguntamos, então, por nossa vez: Antes que viesse o Cristo, não tinham os homens a lei dada por Deus a Moisés? A doutrina do Cristo não se acha contida no Decálogo? Dir-se-á, por isso, que a moral de Jesus era inútil? Perguntaremos, ainda, aos que negam utilidade à moral espírita: Por que tão pouco praticada é a do Cristo? E por que, exatamente os que com justiça lhe proclamam a sublimidade, são os primeiros a violar-lhe o preceito capital: o da caridade universal? Os Espíritos vêm não só confirmá-la, mas também mostrar-nos a sua utilidade prática. Tornam inteligíveis e patentes verdades que haviam sido ensinadas sob a forma alegórica. E, justamente com a moral, trazem-nos a definição dos mais abstratos problemas da Psicologia.
@@ -8663,8 +8384,6 @@ Jesus veio mostrar aos homens o caminho do verdadeiro bem. Por que, tendo-o envi
 O mesmo acontecerá com relação ao Espiritismo, que, em breve, gozará do direito de cidadania entre os conhecimentos humanos.
 
 As comunicações com os seres de além-túmulo deram em resultado fazer-nos compreender a vida futura, fazer-nos vê-la, iniciar-nos no conhecimento das penas e gozos que nos estão reservados, de acordo com os nossos méritos e, desse modo, encaminhar para o **espiritualismo** os que no homem somente viam a matéria, a máquina organizada. Razão, portanto, tivemos para dizer que o Espiritismo, com os fatos, matou o materialismo. Fosse este único resultado por ele produzido e já muita gratidão lhe deveria a ordem social. Ele, porém, faz mais: mostra os inevitáveis efeitos do mal e, conseguintemente, a necessidade do bem. Muito maior do que se pensa é, e cresce todos os dias, o número daqueles em que ele há melhorado os sentimentos, neutralizado as más tendências e desviado do mal. É que para esses o futuro deixou de ser coisa imprecisa, simples esperança, por se haver tornado uma verdade que se compreende e explica, quando se **veem** e **ouvem** os que partiram lamentar-se ou felicitar-se pelo que fizeram na Terra. Quem disso é testemunha entra a refletir e sente a necessidade de a si mesmo se conhecer, julgar e emendar. 
-
-[⤴️ voltar para parte](#LDE-5)
 
 #### 📃 09 {#LDE-5-09}
 
@@ -8680,13 +8399,9 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 >
 >**Santo Agostinho**
 
-[⤴️ voltar para parte](#LDE-5)
-
 ## 🗂️ Parte 6. Pós-textual {#LDE-6}
 
 ### 📃 1. Nota explicativa {#LDE-6-01}
-
-[⤴️ voltar para livro](#LDE)
 
 >Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
 
@@ -8753,8 +8468,6 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.[^27]
 
 **A Editora**
-
-[⤴️ voltar ao topo](#LDE)
 
 📑 **Notas de rodapé**
 
