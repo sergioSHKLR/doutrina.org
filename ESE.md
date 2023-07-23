@@ -11,9 +11,6 @@ layout: default
     th, td {border: none;}
 </style>
 
-
-<title>🕊️ ESE | doutrina.org</title>
-
 <script src="https://hypothes.is/embed.js" async></script>
 
 <style>

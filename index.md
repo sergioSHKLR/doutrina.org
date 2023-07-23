@@ -12,8 +12,6 @@ layout: default
 
 # Bem vindo!
 
----
-
 | Livro  |  Status  |
 | --- | ---: |
 | <a href="./LDE.html" title="o livro dos espíritos">LDE 👻 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
