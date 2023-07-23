@@ -499,6 +499,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 {:.spirit}
 
 >>Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
+{:.kardec}
 
 ##### LDE-q8
 #️⃣ 8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
@@ -508,6 +509,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >>A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz.
 Um acaso inteligente já não seria acaso.
+{:.kardec}
 
 ##### LDE-q9
 #️⃣ 9. Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
@@ -516,9 +518,9 @@ Um acaso inteligente já não seria acaso.
 {:.spirit}
 
 >>O poder de uma inteligência se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a causa primária é, conseguintemente, uma inteligência superior à Humanidade.
->{:.spirit}
-
+>>
 >>Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
+{:.kardec}
 
 #### 📃 Atributos da Divindade {#LDE-1-01-03}
 
@@ -531,8 +533,10 @@ Um acaso inteligente já não seria acaso.
 #️⃣ 11. Será dado um dia ao homem compreender o mistério da Divindade?
 
 >Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá.
+{:.spirit}
 
-A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
+>>A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
+{:.kardec}
 
 ##### LDE-q12
 #️⃣ 12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
@@ -543,6 +547,7 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 #️⃣ 13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
 >Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber.
+{:.spirit}
 
 >>**Deus é eterno.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
 >>
@@ -555,6 +560,7 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 >>**É onipotente.** Ele o é, porque é único. Se não dispusesse do soberano poder, algo haveria mais poderoso ou tão poderoso quanto ele, que então não teria feito todas as coisas. As que não houvesse feito seriam obra de outro Deus.
 >>
 >>**É soberanamente justo e bom.** A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
+{:.kardec}
 
 #### 📃 Panteísmo {#LDE-1-01-04}
 
@@ -562,20 +568,24 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 #️⃣ 14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
 >Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
+{:.spirit}
 
 ##### LDE-q15
 #️⃣ 15. Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
 >Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.
+{:.spirit}
 
 ##### LDE-q16
 #️⃣ 16. Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
 
 >A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.
+{:.spirit}
 
 >>Esta doutrina faz de Deus um ser material que, embora dotado de suprema inteligência, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o Criador com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
 >>
 >>A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou.
+{:.kardec}
 
 ### 📑 2. Dos elementos gerais do Universo {#LDE-1-02}
 
@@ -585,25 +595,31 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 #️⃣ 17. É dado ao homem conhecer o princípio das coisas?
 
 >Não, Deus não permite que ao homem tudo seja revelado neste mundo.
+{:.spirit}
 
 ##### LDE-q18
 #️⃣ 18. Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 >O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
+{:.spirit}
 
 ##### LDE-q19
 #️⃣ 19. Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
 >A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu.
+{:.spirit}
 
 >>Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador. Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
+{:.kardec}
 
 ##### LDE-q20
 #️⃣ 20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
 >Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.
+{:.spirit}
 
 >>Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
+{:.kardec}
 
 #### 📃 Espírito e matéria {#LDE-1-02-02}
 
@@ -611,23 +627,28 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 #️⃣ 21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
 >Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?
+{:.spirit}
 
 ##### LDE-q22
 #️⃣ 22. Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
 >Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
+{:.spirit}
 
 ##### LDE-q22a
 #️⃣ 22a. Que definição podeis dar da matéria?
 
 >A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.
+{:.spirit}
 
 >>Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
+{:.kardec}
 
 ##### LDE-q23
 #️⃣ 23. Que é o espírito?
 
 >O princípio inteligente do Universo.
+{:.spirit}
 
 ##### LDE-q23a
 #️⃣ 23a. Qual a natureza íntima do espírito?>Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
@@ -636,38 +657,46 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 #️⃣ 24. É o espírito sinônimo de inteligência?
 
 >A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
+{:.spirit}
 
 ##### LDE-q25
 #️⃣ 25. O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
 >São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.
+{:.spirit}
 
 ##### LDE-q25a
 #️⃣ 25a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
 
 >É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
+{:.spirit}
 
 ##### LDE-q26
 #️⃣ 26. Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 
 >Pode-se, é fora de dúvida, pelo pensamento.
+{:.spirit}
 
 ##### LDE-q27
 #️⃣ 27. Há então dois elementos gerais do Universo: a matéria e o espírito?
 
 >Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
+{:.spirit}
 
 ##### LDE-q27a
 #️⃣ 27a. Esse fluido será o que designamos pelo nome de eletricidade?
 
 >Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
+{:.spirit}
 
 ##### LDE-q28
 #️⃣ 28. Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
 >As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.
+{:.spirit}
 
 >>Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
+{:.kardec}
 
 #### 📃 Propriedades da matéria {#LDE-1-02-03}
 
@@ -675,8 +704,10 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 #️⃣ 29. A ponderabilidade é um atributo essencial da matéria?
 
 >Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.
+{:.spirit}
 
 >>A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo
+{:.kardec}
 
 ##### LDE-q30
 #️⃣ 30. A matéria é formada de um só ou de muitos elementos?
