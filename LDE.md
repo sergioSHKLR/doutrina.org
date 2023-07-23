@@ -21,6 +21,9 @@ th,
 td {
   border: none;
 }
+a::anylink {
+  font-weight: 100;
+  }
 
 </style>
 
@@ -71,7 +74,7 @@ blockquote.kardec p:first-child::before {
 
 </style>
 
-# LDE 👻 O Livro dos Espíritos {#LDE}
+# O Livro dos Espíritos {#LDE}
 
 ## 🗂️ Parte 0. Pré-textual {#LDE-0}
 

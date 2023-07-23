@@ -17,6 +17,9 @@ section {
 body {
   font-size: 18px;
 }
+a::anylink {
+  font-weight: 100;
+  }
 
 </style>
 
@@ -26,9 +29,9 @@ body {
 
 | Livro  |  Status  |
 | --- | ---: |
-| <a href="./LDE.html" title="o livro dos espíritos">LDE 👻 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
-| <a href="./LDM.html" title="o livro dos médiuns">LDM ✒️ O Livro dos Médiuns</a>   | beta ➡ 🟢 |
-| <a href="./ESE.html" title="o evangelho segundo o espiritismo">ESE 🕊️ O Evangelho segundo o Espiritismo </a>   | alfa ➡ 🟡 |
+| <a href="./LDE.html" title="o livro dos espíritos">O Livro dos Espíritos</a>   | beta ➡ 🟢 |
+| <a href="./LDM.html" title="o livro dos médiuns">O Livro dos Médiuns</a>   | beta ➡ 🟢 |
+| <a href="./ESE.html" title="o evangelho segundo o espiritismo">O Evangelho segundo o Espiritismo </a>   | alfa ➡ 🟡 |
 | CEU 🔥 O Céu e o Inferno   | aguardando ➡ 🔴 |
 | GEN 🌱 A Gênese   | aguardando ➡ 🔴 |
 

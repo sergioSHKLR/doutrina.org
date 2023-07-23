@@ -21,6 +21,9 @@ th,
 td {
   border: none;
 }
+a::anylink {
+  font-weight: 100;
+  }
 
 </style>
 
