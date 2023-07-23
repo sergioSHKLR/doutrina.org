@@ -3,6 +3,46 @@ title: 🕊️ ESE
 layout: default
 ---
 
+<style>
+ blockquote.spirit {
+     border-left: 2px solid dodgerblue;
+     margin-left: 10px;
+}
+ blockquote.spirit p:first-child::before {
+     content: "👻 ▸ ";
+     font-style: normal;
+     margin-left: 5px;
+}
+ blockquote.king {
+     border-left: 2px solid gold;
+     margin-left: 10px;
+}
+ blockquote.king p:first-child::before {
+     content: "👑 ▸ ";
+     font-style: normal;
+     margin-left: 5px;
+}
+ blockquote.saint {
+     border-left: 2px solid green;
+     margin-left: 10px;
+}
+ blockquote.saint p:first-child::before {
+     content: "🕊️ ▸ ";
+     font-style: normal;
+     margin-left: 5px;
+}
+ blockquote.greek {
+     border-left: 2px solid peru;
+     margin-left: 10px;
+}
+ blockquote.greek p:first-child::before {
+     content: "🏺 ▸ ";
+     font-style: normal;
+     margin-left: 5px;
+}
+</style>
+
+
 <title>🕊️ ESE | doutrina.org</title>
 
 # ESE 🕊️ O Evangelho segundo o Espiritismo {#ESE}
@@ -440,10 +480,15 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-1. >*Não penseis que vim revogar a lei ou os profetas; não vim revogar, mas cumprir. Porque em verdade vos digo: Enquanto não passar o céu e a terra, de modo nenhum passará da lei um só i ou um só til, sem que tudo se cumpra.*
->
->✝️ **Mateus, cap. 5, vers. 17-18**
-{:.bible}
+  >*Não penseis que vim revogar a lei ou os profetas; não vim revogar, mas cumprir. Porque em verdade vos digo: Enquanto não passar o céu e a terra, de modo nenhum passará da lei um só i ou um só til, sem que tudo se cumpra.*
+  >
+  >**Mateus, cap. 5, vers. 17-18**
+  {:.bible}
+
+  >Agora o ponto de vista científico, ou seja, a essência mesma do perispírito. Isso é outra questão. Compreendei primeiro moralmente. Resta apenas uma discussão sobre a natureza dos fluidos, coisa por ora inexplicável. A ciência ainda não sabe bastante, porém lá chegará, se quiser caminhar com o Espiritismo. O perispírito pode variar e mudar ao infinito. A alma é o pensamento: não muda de natureza. Não vades mais longe, por este lado; trata-se de um ponto que não pode ser explicado. Supondes que, como vós, também eu não perquiro? Vós pesquisais o perispírito; nós outros, agora, pesquisamos a alma. Esperai, pois.
+  >
+  >**Lamennais**
+  {:.spirit}
 
 #### ESE-1-01-01 📃 Moisés {#ESE-1-01-01}
 
