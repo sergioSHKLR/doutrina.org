@@ -583,12 +583,13 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 7. Assim como o Cristo disse: 
 
    >*Não vim destruir a lei, porém cumpri-la.*
+   >
+   >**Livro, cap. X, vers. Y**
    {:.bible}
 
    também o Espiritismo diz: 
 
    >Não venho destruir a lei cristã, mas dar-lhe execução.
-   {:.doctrine}
 
    Nada ensina em contrário ao que ensinou o Cristo; mas desenvolve, completa e explica, em termos claros e para toda gente, o que foi dito apenas sob forma alegórica. Vem cumprir, nos tempos preditos, o que o Cristo anunciou e preparar a realização das coisas futuras. Ele é, pois, obra do Cristo, que preside, conforme igualmente o anunciou, à regeneração que se opera e prepara o Reino de Deus na Terra.
 
