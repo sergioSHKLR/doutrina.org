@@ -1,5 +1,5 @@
 ---
-title: 👻 LDE
+title: 1.👻 LDE
 layout: page
 ---
 
