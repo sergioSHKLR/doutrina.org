@@ -1,7 +1,6 @@
 ---
-title:  🏠 Início
-layout: default
-homepage: true
+title:  0.🏠 Início
+layout: full
 ---
 
 # Bem vindo!
