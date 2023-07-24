@@ -1734,6 +1734,7 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 #️⃣ 148a. Entretanto, alguns Espíritos deram essa definição.
 
 >Os Espíritos ignorantes podem tomar o efeito pela causa.
+{:.spirit}
 
 >A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
 
@@ -1821,6 +1822,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 #️⃣ 150a. Como comprova a alma a sua individualidade, uma vez que não tem mais corpo material?
 
 >Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito.
+{:.spirit}
 
 ##### LDE-q150b
 #️⃣ 150b. A alma nada leva consigo deste mundo?
@@ -1931,6 +1933,7 @@ Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem 
 #️⃣ 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
 >Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação.
+{:.spirit}
 
 Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
@@ -2014,6 +2017,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 #️⃣ 171. Em que se funda o dogma da reencarnação?
 
 >Na Justiça de Deus e na revelação, pois incessantemente repetimos: o bom pai deixa sempre aberta a seus filhos uma porta para o arrependimento. Não te diz a razão que seria injusto privar para sempre da felicidade eterna todos aqueles de quem não dependeu o melhorarem-se? Não são filhos de Deus todos os homens? Só entre os egoístas se encontram a iniquidade, o ódio implacável e os castigos sem remissão.
+{:.spirit}
 
 Todos os Espíritos tendem para a perfeição e Deus lhes faculta os meios de alcançá-la, proporcionando-lhes as provações da vida corporal. Sua Justiça, porém, lhes concede realizar, em novas existências, **o que não puderam fazer ou concluir numa primeira prova**.
 
@@ -2261,6 +2265,7 @@ A marcha dos Espíritos é progressiva, jamais retrógrada. Eles se elevam gradu
 >Aquele que assim pensa em nada crê e a ideia de um castigo eterno não o refrearia mais do que qualquer outra, porque sua razão a repele, e semelhante ideia induz à incredulidade a respeito de tudo. Se unicamente meios racionais se tivessem empregado para guiar os homens, não haveria tantos céticos. De fato, um Espírito imperfeito poderá, durante a vida corporal, pensar como dizes; mas, liberto que se veja da matéria, pensará de outro modo, pois logo verificará que fez cálculo errado e, **então, sentimento oposto a esse trará ele para a sua nova existência**. É assim que se efetua o progresso e essa a razão por que, na Terra, os homens são desigualmente adiantados. Uns já dispõem de experiência que a outros falta, mas que adquirirão pouco a pouco. Deles depende o acelerar-se-lhes o progresso ou retardar-se indefinidamente.
 >
 O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita.
+{:.spirit}
 
 ##### LDE-q196
 #️⃣ 196. Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de **crisol** ou de **depurador**, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?
@@ -2969,6 +2974,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 #️⃣ 263. O Espírito faz a sua escolha logo depois da morte?
 
 >Não, muitos acreditam na eternidade das penas, o que, como já se vos disse, é um castigo.
+{:.spirit}
 
 ##### LDE-q264
 #️⃣ 264. Que é o que dirige o Espírito na escolha das provas que queira sofrer?
@@ -3474,6 +3480,7 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 #️⃣ 329. O instintivo respeito que, em todos os tempos e entre todos os povos, o homem consagrou e consagra aos mortos é efeito da intuição que tem da vida futura?
 
 >É a consequência natural dessa intuição. Se assim não fosse, nenhuma razão de ser teria esse respeito.
+{:.spirit}
 
 ### 📑 07. Da volta do Espírito à vida corporal {#LDE-2-07}
 
@@ -4063,6 +4070,7 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 >Em suma, dentro em pouco vereis vulgarizar-se outra espécie de sonhos. Conquanto tão antiga como a de que vimos falando, vós a desconheceis. Refiro-me aos sonhos de Joana, ao de Jacó, aos dos profetas judeus e aos de alguns adivinhos indianos. São recordações guardadas por almas que se desprendem quase inteiramente do corpo, recordações dessa segunda vida a que ainda há pouco aludíamos.
 >
 >Tratai de distinguir essas duas espécies de sonhos nos de que vos lembrais, do contrário cairíeis em contradições e em erros funestos à vossa fé.
+{:.spirit}
 
 Os sonhos são efeito da emancipação da alma, que mais independente se torna pela suspensão da vida ativa e de relação. Daí uma espécie de clarividência indefinida que se alonga até aos mais afastados lugares e até mesmo a outros mundos. Daí também a lembrança que traz à memória acontecimentos da precedente existência ou das existências anteriores. As singulares imagens do que se passa ou se passou em mundos desconhecidos, entremeados de coisas do mundo atual, é que formam esses conjuntos estranhos e confusos, que nenhum sentido ou ligação parecem ter. A incoerência dos sonhos ainda se explica pelas lacunas que apresenta a recordação incompleta que conservamos do que nos apareceu quando sonhávamos. É como se a uma narração se truncassem frases ou trechos ao acaso. Reunidos depois, os fragmentos restantes nenhuma significação racional teriam.
 
@@ -4673,6 +4681,7 @@ O vocábulo possesso, na sua acepção vulgar, supõe a existência de demônios
 #️⃣ 481. Desempenham os Espíritos algum papel nos fenômenos que se dão com os indivíduos chamados convulsionários?
 
 >Sim e muito importante, bem como o magnetismo, que é a causa originária de tais fenômenos. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
+{:.spirit}
 
 ##### LDE-q481a
 #️⃣ 481a. De que natureza são, em geral, os Espíritos que concorrem para a produção desta espécie de fenômenos?
@@ -5188,6 +5197,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 #️⃣ 540. Os Espíritos que exercem ação nos fenômenos da Natureza operam com conhecimento de causa, usando do livre-arbítrio, ou por efeito de instintivo ou irrefletido impulso?
 
 >Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de Deus. Pois bem, do mesmo modo, os Espíritos mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena consciência de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos fenômenos, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado espírito ainda não pode apreender em seu conjunto! 
+{:.spirit}
 
 #### 📃 Os Espíritos durante os combates {#LDE-2-09-10}
 
@@ -5387,6 +5397,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 #️⃣ 566. Um Espírito, que haja cultivado na Terra uma especialidade artística, que tenha sido, por exemplo, pintor, ou arquiteto, se interessa de preferência pelos trabalhos que constituíram objeto de sua predileção durante a vida?
 
 >Tudo se confunde num objetivo geral. Se for um Espírito bom, esses trabalhos o interessarão na medida do ensejo que lhe proporcionem de auxiliar as almas a se elevarem para Deus. Ademais, esqueceis que um Espírito que cultivou certa arte, na existência em que o conhecestes, pode ter cultivado outra em anterior existência, pois que lhe cumpre saber tudo para ser perfeito. Assim, conforme o grau do seu adiantamento, pode suceder que nada seja para ele uma especialidade. Foi o que eu quis significar, dizendo que tudo se confunde num objetivo geral. Notai ainda o seguinte: o que, no vosso mundo atrasado, considerais sublime, não passa de infantilidade, comparado ao que há em mundos mais adiantados. Como pretenderíeis que os Espíritos que habitam esses mundos, onde existem artes que desconheceis, admirem o que, aos seus olhos, corresponde a trabalhos de colegiais? Por isso disse eu: atentam no que demonstre progresso.
+{:.spirit}
 
 ##### LDE-q566a
 #️⃣ 566a. Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Referimo-nos, porém, a Espíritos mais vulgares, que ainda se não elevaram acima das ideias terrenas.
@@ -5742,6 +5753,7 @@ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e mo
 #️⃣ 607a. Parece que, assim, se pode considerar a alma como tendo sido o princípio inteligente dos seres inferiores da criação, não?
 
 >Já não dissemos que tudo na Natureza se encadeia e tende para a unidade? Nesses seres, cuja totalidade estais longe de conhecer, é que o princípio inteligente se elabora, se individualiza pouco a pouco e se ensaia para a vida, conforme acabamos de dizer. É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio inteligente sofre uma transformação e se torna **Espírito**. Entra então no período da humanização, começando a ter consciência do seu futuro, capacidade de distinguir o bem do mal e a responsabilidade dos seus atos. Assim, à fase da infância se segue a da adolescência, vindo depois a da juventude e da madureza. Nessa origem, coisa alguma há de humilhante para o homem. Sentir-se-ão humilhados os grandes gênios por terem sido fetos informes nas entranhas que os geraram? Se alguma coisa há que lhe seja humilhante, é a sua inferioridade perante Deus e sua impotência para lhe sondar a profundeza dos desígnios e para apreciar a sabedoria das leis que regem a harmonia do Universo. Reconhecei a grandeza de Deus nessa admirável harmonia, mediante a qual tudo é solidário na Natureza. Acreditar que Deus haja feito, seja o que for, sem um fim, e criado seres inteligentes sem futuro, fora blasfemar da sua bondade, que se estende por sobre todas as suas criaturas.
+{:.spirit}
 
 ##### LDE-q607b
 #️⃣ 607b. Esse período de humanização principia na Terra?
@@ -5869,6 +5881,7 @@ A justiça das diversas encarnações do homem é uma consequência deste princ�
 #️⃣ 621. Onde está escrita a Lei de Deus?
 
 >Na consciência.
+{:.spirit}
 
 ##### LDE-q621a
 #️⃣ 621a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade havia de lhe ser ela revelada?
@@ -5915,6 +5928,7 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 
 >Jesus empregava amiúde, na sua linguagem, alegorias e parábolas, porque falava de conformidade com os tempos e os lugares.
 >Faz-se mister agora que a verdade se torne inteligível para todo mundo. Muito necessário é que aquelas leis sejam explicadas e desenvolvidas, tão poucos são os que as compreendem e ainda menos os que as praticam. A nossa missão consiste em abrir os olhos e os ouvidos a todos, confundindo os orgulhosos e desmascarando os hipócritas: os que vestem a capa da virtude e da religião, a fim de ocultarem suas torpezas. O ensino dos Espíritos tem que ser claro e sem equívocos, para que ninguém possa pretextar ignorância e para que todos o possam julgar e apreciar com a razão. Estamos incumbidos de preparar o reino do bem que Jesus anunciou. Daí a necessidade de que a ninguém seja possível interpretar a Lei de Deus ao sabor de suas paixões, nem falsear o sentido de uma lei toda de amor e de caridade.
+{:.spirit}
 
 ##### LDE-q628
 #️⃣ 628. Por que a verdade não foi sempre posta ao alcance de toda gente?
@@ -5943,8 +5957,12 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 {:.spirit}
 
 ##### LDE-q632
-#️⃣ 632. Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal? Jesus disse:
+#️⃣ 632. Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal?
 
+>Jesus disse:
+>
+{:.spirit}
+>
 >*Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.*
 >
 >**Mateus, cap. 7, vers. 12**
@@ -6036,6 +6054,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 #️⃣ 646. Estará subordinado a determinadas condições o mérito do bem que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 
 >O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o Jesus, a propósito do óbolo da viúva. ✝️ ▸ **Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4**
+{:.spirit}
 
 #### 📃 Divisão da lei natural {#LDE-3-01-04}
 
@@ -6065,6 +6084,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 #️⃣ 650. Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 
 >Sentimento inato, como o da existência de Deus. A consciência da sua fraqueza leva o homem a curvar-se diante daquele que o pode proteger.
+{:.spirit}
 
 ##### LDE-q651
 #️⃣ 651. Terá havido povos destituídos de todo sentimento de adoração?
@@ -6175,8 +6195,12 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 {:.spirit}
 
 ##### LDE-q665
-#️⃣ 665. Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho? Aos homens disse o Cristo:
+#️⃣ 665. Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho? 
 
+>Aos homens disse o Cristo:
+>
+{:.spirit}
+>
 >*Amai-vos uns aos outros.*
 >
 >**Mateus, cap. 22, vers. 39**
@@ -6211,8 +6235,7 @@ Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs dest
 #### 📃 Sacrifícios {#LDE-3-02-06}
 
 ##### LDE-q669
-#️⃣ 
-669. Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica que o homem tenha sido levado a crer que tais coisas pudessem agradar a Deus?
+#️⃣ 669. Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica que o homem tenha sido levado a crer que tais coisas pudessem agradar a Deus?
 
 >Primeiramente, porque não compreendia Deus como a fonte da bondade. Nos povos primitivos, a matéria sobrepuja o espírito; eles se entregam aos instintos do animal selvagem. Por isso é que, em geral, são cruéis; é que neles o senso moral ainda não se acha desenvolvido. Em segundo lugar, é natural que os homens primitivos acreditassem ter uma criatura animada muito mais valor, aos olhos de Deus, do que um corpo material. Foi isto que os levou a imolarem, primeiro, animais e, mais tarde, homens. De conformidade com a falsa crença que possuíam, pensavam que o valor do sacrifício era proporcional à importância da vítima. Na vida material, como geralmente a praticais, se houverdes de oferecer a alguém um presente, escolhê-lo-eis sempre de tanto maior valor quanto mais afeto e consideração quiserdes testemunhar a esse alguém. Assim tinha que ser, com relação a Deus, entre homens ignorantes.
 {:.spirit}
@@ -6507,6 +6530,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 #️⃣ 707. É frequente a certos indivíduos faltarem os meios de subsistência, ainda quando os cerca a abundância. A que se deve atribuir isso?
 
 >Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza. 👉 ([LDE-q534](#LDE-q534))
+{:.spirit}
 
 Se é certo que a civilização multiplica as necessidades, também o é que multiplica as fontes de trabalho e os meios de viver. Forçoso, porém, é convir em que, a tal respeito, muito ainda lhe resta por fazer. Quando ela houver concluído a sua obra, ninguém deverá haver que possa queixar-se de lhe faltar o necessário, a não ser por sua própria culpa. A desgraça, para muitos, provém de enveredarem por uma senda diversa da que a Natureza lhes traçou. É então que lhes falece a inteligência para o bom êxito. Para todos há lugar ao sol, mas com a condição de que cada um ocupe o seu e não o dos outros. A Natureza não pode ser responsável pelos defeitos da organização social, nem pelas consequências da ambição e do amor-próprio.
 
@@ -6562,6 +6586,7 @@ Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm,
 #️⃣ 714. Que se deve pensar do homem que procura nos excessos de todo gênero o requinte dos gozos?
 
 >Pobre criatura! mais digna é de lástima que de inveja, pois bem perto está da morte!
+{:.spirit}
 
 ##### LDE-q714a
 #️⃣ 714a. Perto da morte física, ou da morte moral?
@@ -6711,6 +6736,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 #️⃣ 734. Em seu estado atual, tem o homem direito ilimitado de destruição sobre os animais?
 
 >Tal direito se acha regulado pela necessidade que ele tem de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito.
+{:.spirit}
 
 ##### LDE-q735
 #️⃣ 735. Que se deve pensar da destruição, quando ultrapassa os limites que as necessidades e a segurança traçam? Da caça, por exemplo, quando não objetiva senão o prazer de destruir sem utilidade?
@@ -6743,6 +6769,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 >Pode e os emprega todos os dias, pois que deu a cada um os meios de progredir pelo conhecimento do bem e do mal. O homem, porém, não se aproveita desses meios. Necessário, portanto, se torna que seja castigado no seu orgulho e que se lhe faça sentir a sua fraqueza.
 Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa pensa depois da morte. Ora, conforme temos dito, a vida do corpo bem pouca coisa é. Um século no vosso mundo não passa de um **relâmpago na eternidade**. Logo, nada são os sofrimentos de alguns dias ou de alguns meses, de que tanto vos queixais. Representam um ensino que se vos dá e que vos servirá no futuro. Os Espíritos, que preexistem e sobrevivem a tudo, formam o mundo real 👉 ([LDE-q85](#LDE-q85)). Esses os filhos de Deus e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.
+{:.spirit}
 
 ##### LDE-q738b
 #️⃣ 738b. Mas nem por isso as vítimas desses flagelos deixam de o ser.
@@ -6932,6 +6959,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 #️⃣ 762. A pena de morte, que pode vir a ser banida das sociedades civilizadas, não terá sido de necessidade em épocas menos adiantadas?
 
 >Necessidade não é o termo. O homem julga necessária uma coisa, sempre que não descobre outra melhor. À proporção que se instrui, vai compreendendo melhor o que é justo e o que é injusto e repudia os excessos cometidos, nos tempos de ignorância, em nome da justiça.
+{:.spirit}
 
 ##### LDE-q763
 #️⃣ 763. Será um indício de progresso da civilização a restrição dos casos em que se aplica a pena de morte?
@@ -6957,6 +6985,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 #️⃣ 765. Que se deve pensar da pena de morte imposta em nome de Deus?
 
 >É tomar o homem o lugar de Deus na distribuição da justiça. Os que assim procedem mostram quão longe estão de compreender Deus e que muito ainda têm que expiar. A pena de morte é um crime, quando aplicada em nome de Deus; e os que a impõem se sobrecarregam de outros tantos assassínios. 
+{:.spirit}
 
 ### 📑 07. Da lei de sociedade {#LDE-3-07}
 
@@ -6972,6 +7001,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 #️⃣ 767. É contrário à Lei da Natureza o insulamento absoluto?
 
 >Sem dúvida, pois que por instinto os homens buscam a sociedade e todos devem concorrer para o progresso, auxiliando-se mutuamente.
+{:.spirit}
 
 ##### LDE-q768
 #️⃣ 768. Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento pessoal, ou há nesse sentimento algum providencial objetivo de ordem mais geral?
@@ -7271,6 +7301,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 #️⃣ 800. Não será de temer que o Espiritismo não consiga triunfar da negligência dos homens e do seu apego às coisas materiais?
 
 >Conhece bem pouco os homens quem imagine que uma causa qualquer os possa transformar como que por encanto. As ideias só pouco a pouco se modificam, conforme os indivíduos, e preciso é que algumas gerações passem, para que se apaguem totalmente os vestígios dos velhos hábitos. A transformação, pois, somente com o tempo, gradual e progressivamente, se pode operar. Para cada geração uma parte do véu se dissipa. O Espiritismo vem rasgá-lo de alto a baixo. Entretanto, conseguisse ele unicamente corrigir num homem um único defeito que fosse e já o haveria forçado a dar um passo. Ter-lhe-ia feito, só com isso, grande bem, pois esse primeiro passo lhe facilitará os outros.
+{:.spirit}
 
 ##### LDE-q801
 #️⃣ 801. Por que não ensinaram os Espíritos, em todos os tempos, o que ensinam hoje?
@@ -7292,6 +7323,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 #️⃣ 803. Perante Deus, são iguais todos os homens?
 
 >Sim, todos tendem para o mesmo fim e Deus fez suas leis para todos. Dizeis frequentemente: ‘O Sol luz para todos’ e enunciais assim uma verdade maior e mais geral do que pensais.
+{:.spirit}
 
 Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. Deus a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais
 {:.spirit}
@@ -7318,6 +7350,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 #️⃣ 806. É Lei da Natureza a desigualdade das condições sociais?
 
 >Não; é obra do homem e não de Deus.
+{:.spirit}
 
 ##### LDE-q806a
 #️⃣ 806a. Algum dia essa desigualdade desaparecerá?
@@ -7379,6 +7412,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 #️⃣ 812a. Será possível que todos se entendam?
 
 >Os homens se entenderão quando praticarem a lei de justiça.
+{:.spirit}
 
 ##### LDE-q813
 #️⃣ 813. Há pessoas que, por culpa sua, caem na miséria. Nenhuma responsabilidade caberá disso à sociedade?
@@ -7461,6 +7495,7 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 #️⃣ 822a. Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a igualdade dos direitos do homem e da mulher?
 
 >Dos direitos, sim; das funções, não. Preciso é que cada um esteja no lugar que lhe compete. Ocupe-se do exterior o homem e do interior a mulher, cada um de acordo com a sua aptidão. A lei humana, para ser equitativa, deve consagrar a igualdade dos direitos do homem e da mulher. Todo privilégio a um ou a outro concedido é contrário à justiça. **A emancipação da mulher acompanha o progresso da civilização**. Sua escravização marcha de par com a barbaria. Os sexos, além disso, só existem na organização física. Visto que os Espíritos podem encarnar num e noutro, sob esse aspecto nenhuma diferença há entre eles. Devem, por conseguinte, gozar dos mesmos direitos.
+{:.spirit}
 
 #### 📃 Igualdade perante o túmulo {#LDE-3-09-07}
 
@@ -7700,6 +7735,7 @@ As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsuce
 #️⃣ 855. Com que fim nos faz a Providência correr perigos que nenhuma consequência devem ter?
 
 >O fato de ser a tua vida posta em perigo constitui um aviso que tu mesmo desejaste, a fim de te desviares do mal e te tornares melhor. Se escapas desse perigo, quando ainda sob a impressão do risco que correste, cogitas, mais ou menos seriamente, de te melhorares, conforme seja mais ou menos forte sobre ti a influência dos Espíritos bons. Sobrevindo o mau Espírito (digo mau, subentendendo o mal que ainda existe nele), entras a pensar que do mesmo modo escaparás a outros perigos e deixas que de novo tuas paixões se desencadeiem. Por meio dos perigos que correis, Deus vos lembra a vossa fraqueza e a fragilidade da vossa existência. Se examinardes a causa e a natureza do perigo, verificareis que, quase sempre, suas consequências teriam sido a punição de uma falta cometida ou da **negligência no cumprimento de um dever**. Deus, por essa forma, exorta o Espírito a cair em si e a se emendar. 👉 ([LDE-q526](#LDE-q526) a [LDE-q532](#LDE-q532))
+{:.spirit}
 
 ##### LDE-q856
 #️⃣ 856. Sabe o Espírito antecipadamente de que gênero será sua morte?
@@ -7779,6 +7815,7 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 #️⃣ 867. Donde vem a expressão: Nascer sob uma boa estrela?
 
 >Antiga superstição, que prendia às estrelas os destinos dos homens. Alegoria que algumas pessoas fazem a tolice de tomar ao pé da letra.
+{:.spirit}
 
 #### 📃 Conhecimento do futuro {#LDE-3-10-07}
 
@@ -7868,7 +7905,9 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 #️⃣ 876. Posto de parte o direito que a lei humana consagra, qual a base da justiça, segundo a lei natural?
 
 >Disse o Cristo:
-
+>
+>{:.spirit}
+>
 >*Queira cada um para os outros o que quereria para si mesmo.*
 >
 >**Livro, cap. X, vers. Y**
@@ -7930,6 +7969,8 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 
 >E Jesus não disse:
 >
+{:.spirit}
+
 >*Dai a César o que é de César.*?
 >
 >**Mateus, cap. 22, vers. 21**
@@ -7999,6 +8040,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 >
 >A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:
+{:.spirit}
 
 >*Ignore a vossa mão esquerda o que a direita der.*
 >
@@ -8062,6 +8104,7 @@ Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contrast
 #️⃣ 895. Postos de lado os defeitos e os vícios acerca dos quais ninguém se pode equivocar, qual o sinal mais característico da imperfeição?
 
 >O interesse pessoal. Frequentemente, as qualidades morais são como, num objeto de cobre, a douradura, que não resiste à pedra de toque. Pode um homem possuir qualidades reais, que levem o mundo a considerá-lo homem de bem. Mas, essas qualidades, conquanto assinalem um progresso, nem sempre suportam certas provas e às vezes basta que se fira a corda do interesse pessoal para que o fundo fique a descoberto. O verdadeiro desinteresse é coisa ainda tão rara na Terra que, quando se patenteia, todos o admiram como se fora um fenômeno.
+{:.spirit}
 
 O apego às coisas materiais constitui sinal notório de inferioridade, porque, quanto mais se aferra aos bens deste mundo, tanto menos compreende o homem o seu destino. Pelo desinteresse, ao contrário, demonstra que encara de um ponto mais elevado o futuro.
 
@@ -8234,6 +8277,7 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 >O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes o faz egoísta, por sentir a necessidade de colocar-se na defensiva. Notando que os outros pensam em si próprios e não nele, ei-lo levado a ocupar-se consigo, mais do que com os outros. Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade e cada um pensará menos na sua pessoa, assim veja que outros nela pensaram. Todos experimentarão a influência moralizadora do exemplo e do contato. Em face do atual extravasamento de egoísmo, grande virtude é verdadeiramente necessária, para que alguém renuncie à sua personalidade em proveito dos outros, que, de ordinário, absolutamente lhe não agradecem. Principalmente para os que possuem essa virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos, pois em verdade vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver, todo aquele que em si somente houver pensado. 👉 ([LDE-q785](#LDE-q785))
 >
 >**Fénelon**
+{:.spirit}
 
 Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência. Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos.👉 ([LDE-q872](#LDE-q872))
 
@@ -8455,6 +8499,7 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 #️⃣ 938a. Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nascer-lhe a ideia de que seria mais feliz, se fosse menos sensível?
 
 >Pode, se preferir a felicidade do egoísta. Triste felicidade essa! Saiba, pois, que os amigos ingratos que o abandonam não são dignos de sua amizade e que se enganou a respeito deles. Assim sendo, não há de que lamentar o tê-los perdido. Mais tarde achará outros, que saberão compreendê-lo melhor. Lastimai os que usam para convosco de um procedimento que não tenhais merecido, pois bem triste se lhes apresentará o reverso da medalha. Não vos aflijais, porém, com isso: será o meio de vos colocardes acima deles.
+{:.spirit}
 
 A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores gozos que lhe são concedidos na Terra é o de encontrar corações que com o seu simpatizem. Dá-lhe ela, assim, as primícias da felicidade que o aguarda no mundo dos Espíritos perfeitos, onde tudo é amor e benignidade. Desse gozo está excluído o egoísta. 
 
@@ -8487,6 +8532,7 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 
 >Falece-lhes fundamento para semelhante temor. Mas que queres! se procuram persuadi-las, quando crianças, de que há um inferno e um paraíso e que mais certo é irem para o inferno, visto que também lhes disseram que o que está na Natureza constitui pecado mortal para a alma! Sucede então que, tornadas adultas, essas pessoas, se algum juízo têm, não podem admitir tal coisa e se fazem ateias ou materialistas. São assim levadas a crer que, além da vida presente, nada mais há. Quanto aos que persistiram nas suas crenças da infância, esses temem aquele fogo eterno que os queimará sem os consumir.
 Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza do futuro. A **esperança** fá-lo contar com uma vida melhor; e a **caridade**, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. 👉 ([LDE-q730](#LDE-q730))
+{:.spirit}
 
 O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.
 
@@ -8496,6 +8542,7 @@ O homem moral, que se colocou acima das necessidades factícias criadas pelas pa
 #️⃣ 942. Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz na Terra; que neles vejam o que chamam lugares comuns, sediciosas verdades; e que digam, que, afinal, o segredo para ser-se feliz consiste em saber cada um suportar a sua desgraça?
 
 >Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões. 
+{:.spirit}
 
 #### 📃 Desgosto da vida. Suicídio {#LDE-4-01-06}
 
@@ -8521,11 +8568,13 @@ O homem moral, que se colocou acima das necessidades factícias criadas pelas pa
 #️⃣ 945. Que se deve pensar do suicídio que tem como causa o desgosto da vida?
 
 >Insensatos! Por que não trabalhavam? A existência não lhes teria sido tão pesada.
+{:.spirit}
 
 ##### LDE-q946
 #️⃣ 946. E do suicídio cujo fim é fugir, aquele que o comete, às misérias e às decepções deste mundo?
 
 >Pobres Espíritos, que não têm a coragem de suportar as misérias da existência! Deus ajuda aos que sofrem e não aos que carecem de energia e de coragem. As tribulações da vida são provas ou expiações. Felizes os que as suportam sem se queixar, porque serão recompensados! Ai, porém, daqueles que esperam a salvação do que, na sua impiedade, chamam acaso ou fortuna! O acaso, ou a fortuna, para me servir da linguagem deles, podem, com efeito, favorecê-los por um momento, mas para lhes fazer sentir mais tarde, cruelmente, a vacuidade dessas palavras.
+{:.spirit}
 
 ##### LDE-q946a
 #️⃣ 946a. Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as consequências de tal proceder?
@@ -8543,6 +8592,7 @@ O homem moral, que se colocou acima das necessidades factícias criadas pelas pa
 #️⃣ 948. É tão reprovável, como o que tem por causa o desespero, o suicídio daquele que procura escapar à vergonha de uma ação má?
 
 >O suicídio não apaga a falta. Ao contrário, em vez de uma, haverá duas. Quando se teve a coragem de praticar o mal, é preciso ter-se a de lhe sofrer as consequências. Deus, que julga, pode, conforme a causa, abrandar os rigores de sua justiça.
+{:.spirit}
 
 ##### LDE-q949
 #️⃣ 949. Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha caia sobre os filhos, ou sobre a família?
