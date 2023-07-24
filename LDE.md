@@ -8689,6 +8689,7 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 #️⃣ 959. Donde nasce, para o homem, o sentimento instintivo da vida futura?
 
 >Já temos dito: antes de encarnar, o Espírito conhecia todas essas coisas e a alma conserva uma vaga lembrança do que sabe e do que viu no estado espiritual. 👉 ([LDE-q393](#LDE-q393))
+{:.spirit}
 
 Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre?
 
@@ -8738,6 +8739,7 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 >Foste guloso, vou punir-te.
 >
 >Ele traçou um limite; as enfermidades e muitas vezes a morte são a consequência dos excessos. Eis aí a punição: é o resultado da infração da lei. Assim em tudo.
+{:.spirit}
 
 Todas as nossas ações estão submetidas às Leis de Deus. Nenhuma há, **por mais insignificante que nos pareça**, que não possa ser uma violação daquelas leis. Se sofremos as consequências dessa violação, só nos devemos queixar de nós mesmos, que desse modo nos fazemos os causadores da nossa felicidade, ou da nossa infelicidade futuras.
 
@@ -8789,6 +8791,7 @@ Não é verdade que esse campo produzirá na razão dos cuidados que forem dispe
 #️⃣ 971. É sempre boa a influência que os Espíritos exercem uns sobre os outros?
 
 >Sempre boa, está claro, da parte dos bons Espíritos. Os Espíritos perversos, esses procuram desviar da senda do bem e do arrependimento os que lhes parecem suscetíveis de se deixarem levar e que são, muitas vezes, os que eles mesmos arrastaram ao mal durante a vida terrena.
+{:.spirit}
 
 ##### LDE-q971a
 #️⃣ a. Assim, a morte não nos livra da tentação?
@@ -8829,6 +8832,7 @@ As comunicações espíritas tiveram como resultado mostrar o estado futuro da a
 {:.spirit}
 
 >Vede se serve de freio, mesmo entre os que o ensinam. Se ensinardes coisas que mais tarde a razão venha a repelir, causareis uma impressão que não será duradoura, nem salutar.
+{:.spirit}
 
 Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o homem não encontrou comparação mais enérgica do que a do fogo, pois, para ele, o fogo é o tipo do mais cruel suplício e o símbolo da ação mais violenta. Por isso é que a crença no fogo eterno data da mais remota antiguidade, tendo-a os povos modernos herdado dos mais antigos. Por isso também é que o homem diz, em sua linguagem figurada: o fogo das paixões; abrasar de amor, de ciúme etc.
 
@@ -8913,6 +8917,7 @@ A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sob
 
 >É bem verdade que, quando a alma está reencarnada, as tribulações da vida são-lhe um sofrimento; mas, só o corpo sofre materialmente.
 Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como Espírito, está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são expiação das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis. 👉 ([LDE-q273](#LDE-q273), [LDE-q393](#LDE-q393) e [LDE-q399](#LDE-q399))
+{:.spirit}
 
 O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua expiação já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
 
@@ -8934,6 +8939,7 @@ Nos mundos onde a existência é menos material do que neste, menos grosseiras s
 #️⃣ 986. Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma vez no mesmo mundo?
 
 >Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação. 👉 ([LDE-q173](#LDE-q173))
+{:.spirit}
 
 ##### LDE-q987
 #️⃣ 987. Que sucede ao homem que, não fazendo o mal, também nada faz para libertar-se da influência da matéria?
@@ -8971,6 +8977,7 @@ Nos mundos onde a existência é menos material do que neste, menos grosseiras s
 #️⃣ 992. Que consequência produz o arrependimento no estado corporal?
 
 >Fazer que, já na vida atual, o Espírito progrida, se tiver tempo de reparar suas faltas. Quando a consciência o exprobra e lhe mostra uma imperfeição, o homem pode sempre melhorar-se.
+{:.spirit}
 
 ##### LDE-q993
 #️⃣ 993. Não há homens que só têm o instinto do mal e são inacessíveis ao arrependimento?
@@ -9040,11 +9047,13 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 >De que lhe serve privar-se de alguns gozos fúteis, de algumas superfluidades, se permanece integral o dano que causou a outrem?
 >
 >De que lhe serve, finalmente, humilhar-se diante de Deus se, perante os homens, conserva o seu orgulho? 👉 ([LDE-q720](#LDE-q720) e [LDE-q721](#LDE-q721))
+{:.spirit}
 
 ##### LDE-q1001
 #️⃣ 1001. Nenhum mérito haverá em assegurarmos, para depois de nossa morte, emprego útil aos bens que possuímos?
 
 >Nenhum mérito não é o termo. Isso sempre é melhor do que nada. A desgraça, porém, é que aquele, que só depois de morto dá, é quase sempre mais egoísta do que generoso. Quer ter o fruto do bem, sem o trabalho de praticá-lo. Duplo proveito tira aquele que, em vida, se priva de alguma coisa: o mérito do sacrifício e o prazer de ver felizes os que lhe devem a felicidade. Lá, porém, está o egoísmo a dizer-lhe: O que dás tiras aos teus gozos; e, como o egoísmo fala mais alto do que o desinteresse e a caridade, o homem guarda o que possui, pretextando suas necessidades pessoais e as exigências da sua posição! Ah! lastimai aquele que desconhece o prazer de dar; acha-se verdadeiramente privado de um dos mais puros e suaves gozos. Submetendo-o à prova da riqueza, tão escorregadia e perigosa para o seu futuro, houve Deus por bem conceder-lhe, como compensação, a ventura da generosidade, de que já neste mundo pode gozar. 👉 ([LDE-q814](#LDE-q814))
+{:.spirit}
 
 ##### LDE-q1002
 #️⃣ 1002. Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já não tem tempo de as reparar? Basta-lhe nesse caso arrepender-se?
@@ -9066,6 +9075,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 >No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do Espírito, a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.
 >
 >**São Luís**
+{:.spirit}
 
 ##### LDE-q1005
 #️⃣ 1005. Ao Espírito sofredor, o tempo se afigura tão ou menos longo do que quando estava vivo?
@@ -9101,7 +9111,8 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 #️⃣ 1009. Assim, as penas impostas jamais o são por toda a eternidade?
 
 >Interrogai o vosso bom senso, a vossa razão e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de Deus. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por causa de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do Universo um Deus terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o Deus dos cristãos, que classifica como virtudes primordiais o amor, a caridade, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a verdade desta sentença:
-
+>
+{:.spirit}
 >*A cada um segundo as suas obras.*
 >
 >**Romanos, cap. 2, vers. 6**
@@ -9195,6 +9206,7 @@ O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se enten
 #️⃣ 1014a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, porém, se explica que, interrogados acerca da situação em que se achavam, alguns Espíritos tenham respondido que sofriam as torturas do inferno ou do purgatório?
 
 >Quando são inferiores e ainda não completamente desmaterializados, os Espíritos conservam uma parte de suas ideias terrenas e, para dar suas impressões, se servem dos termos que lhes são familiares. Acham-se num meio que só imperfeitamente lhes permite sondar o futuro. Essa a causa de alguns Espíritos errantes, ou recém-desencarnados, falarem como o fariam se estivessem encarnados. **Inferno** se pode traduzir por uma vida de provações, extremamente dolorosa, com a **incerteza** de haver outra melhor; **purgatório**, por uma vida também de provações, mas com a consciência de melhor futuro. Quando experimentas uma grande dor, não costumas dizer que sofres como um danado? Tudo isso são apenas palavras e sempre ditas em sentido figurado.
+{:.spirit}
 
 ##### LDE-q1015
 #️⃣ 1015. Que se deve entender por uma alma a penar?
@@ -9212,6 +9224,7 @@ O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se enten
 #️⃣ 1017. Alguns Espíritos disseram estar habitando o quarto, o quinto céus etc. Que queriam dizer com isso?
 
 >Perguntando-lhes que céu habitam, é que formais ideia de muitos céus dispostos como os andares de uma casa. Eles, então, respondem de acordo com a vossa linguagem. Por estas palavras — quarto e quinto céus —, porém, exprimem diferentes graus de purificação e, por conseguinte, de felicidade. É exatamente como quando se pergunta a um Espírito se está no inferno. Se for desgraçado, dirá — sim, porque, para ele, **inferno** é sinônimo de sofrimento. Sabe, porém, muito bem que não é uma fornalha. Um pagão diria estar no **Tártaro**.
+{:.spirit}
 
 O mesmo ocorre com outras expressões análogas, tais como: cidade das flores, cidade dos eleitos, primeira, segunda, ou terceira esfera etc., que apenas são alegorias usadas por alguns Espíritos, quer como figuras, quer, algumas vezes, por ignorância da realidade das coisas, e até das mais simples noções científicas.
 
