@@ -1315,7 +1315,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-##### LDE-q64
+##### LDE-q64 {#LDE-q64}
 
 #️⃣ 64. Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 
@@ -1592,7 +1592,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-##### LDE-q85
+##### LDE-q85 {#LDE-q85}
 
 #️⃣ 85. Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?
 
@@ -1676,7 +1676,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-##### LDE-q92
+##### LDE-q92 {#LDE-q92}
 
 #️⃣ 92. Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode dividir-se, ou existir em muitos pontos ao mesmo tempo?
 
@@ -1935,7 +1935,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q115
+##### LDE-q115 {#LDE-q115}
 
 #️⃣ 115. Dos Espíritos, uns terão sido criados bons e outros maus?
 
@@ -1967,7 +1967,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q118
+##### LDE-q118 {#LDE-q118}
 
 #️⃣ 118. Podem os Espíritos degenerar?
 
@@ -1976,7 +1976,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q119
+##### LDE-q119 {#LDE-q119}
 
 #️⃣ 119. Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para chegarem à primeira ordem?
 
@@ -2245,7 +2245,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #️⃣ 137. Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
->Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ([LDM-2-07](https://doutrina.org/LDM.html#LDM-2-07))
+>Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ([LDM-2-07 ↗️](https://doutrina.org/LDM.html#LDM-2-07))
 {:.spirit}
 
 ---
@@ -2469,7 +2469,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q155
+##### LDE-q155 {#LDE-q155}
 
 #️⃣ 155. Como se opera a separação da alma e do corpo?
 
@@ -2556,7 +2556,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q163
+##### LDE-q163 {#LDE-q163}
 
 #️⃣ 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
@@ -2577,7 +2577,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q165
+##### LDE-q165 {#LDE-q165}
 
 #️⃣ 165. O conhecimento do Espiritismo exerce alguma influência sobre a duração, mais ou menos longa, da perturbação?
 
@@ -2605,7 +2605,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q166
+##### LDE-q166 {#LDE-q166}
 
 #️⃣ 166. Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
 
@@ -2669,7 +2669,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q171
+##### LDE-q171 {#LDE-q171}
 
 #️⃣ 171. Em que se funda o dogma da reencarnação?
 
@@ -2691,7 +2691,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q172
+##### LDE-q172 {#LDE-q172}
 
 #️⃣ 172. As nossas diversas existências corporais se verificam todas na Terra?
 
@@ -2700,7 +2700,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q173
+##### LDE-q173 {#LDE-q173}
 
 #️⃣ 173. A cada nova existência corporal a alma passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 
@@ -2803,7 +2803,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q180
+##### LDE-q180 {#LDE-q180}
 
 #️⃣ 180. Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?
 
@@ -2821,7 +2821,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q182
+##### LDE-q182 {#LDE-q182}
 
 #️⃣ 182. É-nos possível conhecer exatamente o estado físico e moral dos diferentes mundos?
 
@@ -2899,7 +2899,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q188
+##### LDE-q188 {#LDE-q188}
 
 #️⃣ 188. Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, sem estarem mais ligados a um mundo do que a outros?
 
@@ -2921,7 +2921,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q190
+##### LDE-q190 {#LDE-q190}
 
 #️⃣ 190. Qual o estado da alma na sua primeira encarnação?
 
@@ -2947,7 +2947,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q192
+##### LDE-q192 {#LDE-q192}
 
 #️⃣ 192. Pode alguém, por um proceder impecável na vida atual, transpor todos os graus da escala do aperfeiçoamento e tornar-se Espírito puro, sem passar por outros graus intermédios?
 
@@ -3123,7 +3123,7 @@ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível
 
 ---
 
-##### LDE-q205
+##### LDE-q205 {#LDE-q205}
 
 #️⃣ 205. A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
 
@@ -3236,7 +3236,7 @@ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível
 
 ---
 
-##### LDE-q216
+##### LDE-q216 {#LDE-q216}
 
 #️⃣ 216. Em suas novas existências conservará o Espírito traços do caráter moral de suas existências anteriores?
 
@@ -3316,7 +3316,7 @@ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível
 
 ---
 
-##### LDE-q222
+##### LDE-q222 {#LDE-q222}
 
 #️⃣ 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -3605,7 +3605,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 ---
 
-##### LDE-q237
+##### LDE-q237 {#LDE-q237}
 
 #️⃣ 237. Uma vez de volta ao mundo dos Espíritos, conserva a alma as percepções que tinha quando na Terra?
 
@@ -3632,7 +3632,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 ---
 
-##### LDE-q240
+##### LDE-q240 {#LDE-q240}
 
 #️⃣ 240. A duração, os Espíritos a compreendem como nós?
 
@@ -3819,7 +3819,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 ---
 
-##### LDE-q257
+##### LDE-q257 {#LDE-q257}
 
 #️⃣ 257. O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenômenos espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
 
@@ -3859,7 +3859,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q258
+##### LDE-q258 {#LDE-q258}
 
 #️⃣ 258. Quando na erraticidade, antes de começar nova existência corporal, tem o Espírito consciência e previsão do que lhe sucederá no curso da vida terrena?
 
@@ -3946,7 +3946,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q266
+##### LDE-q266 {#LDE-q266}
 
 #️⃣ 266. Não parece natural que se escolham as provas menos dolorosas?
 
@@ -4031,7 +4031,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q273
+##### LDE-q273 {#LDE-q273}
 
 #️⃣ 273. Será possível que um homem de raça civilizada reencarne, por expiação, numa raça de selvagens? [^13]
 
@@ -4514,7 +4514,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q319
+##### LDE-q319 {#LDE-q319}
 
 #️⃣ 319. Já tendo o Espírito vivido a vida espírita antes da sua encarnação, como se explica o seu espanto ao reingressar no mundo dos Espíritos?
 
@@ -4527,7 +4527,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q320
+##### LDE-q320 {#LDE-q320}
 
 #️⃣ 320. Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
 
@@ -4668,7 +4668,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q332
+##### LDE-q332 {#LDE-q332}
 
 #️⃣ 332. Pode o Espírito apressar ou retardar o momento da sua reencarnação?
 
@@ -4718,7 +4718,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q337
+##### LDE-q337 {#LDE-q337}
 
 #️⃣ 337. Pode a união do Espírito a determinado corpo ser imposta por Deus?
 
@@ -4960,7 +4960,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q361
+##### LDE-q361 {#LDE-q361}
 
 #️⃣ 361. Qual a origem das qualidades morais, boas ou más, do homem?
 
@@ -5001,7 +5001,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-##### LDE-q365
+##### LDE-q365 {#LDE-q365}
 
 #️⃣ 365. Por que alguns homens muito inteligentes, o que indica acharem-se encarnados neles Espíritos superiores, são ao mesmo tempo profundamente viciosos?
 
@@ -5081,7 +5081,7 @@ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de
 
 ---
 
-##### LDE-q371
+##### LDE-q371 {#LDE-q371}
 
 #️⃣ 371. Tem algum fundamento o pretender-se que a alma dos cretinos e dos idiotas é de natureza inferior?
 
@@ -5178,7 +5178,7 @@ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de
 
 ---
 
-##### LDE-q379
+##### LDE-q379 {#LDE-q379}
 
 #️⃣ 379. É tão desenvolvido, quanto o de um adulto, o Espírito que anima o corpo de uma criança?
 
@@ -5235,7 +5235,7 @@ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de
 
 ---
 
-##### LDE-q385
+##### LDE-q385 {#LDE-q385}
 
 #️⃣ 385. Que é o que motiva a mudança que se opera no caráter do indivíduo em certa idade, especialmente ao sair da adolescência? É que o Espírito se modifica?
 
@@ -5318,7 +5318,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q392
+##### LDE-q392 {#LDE-q392}
 
 #️⃣ 392. Por que perde o Espírito encarnado a lembrança do seu passado?
 
@@ -5327,7 +5327,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q393
+##### LDE-q393 {#LDE-q393}
 
 #️⃣ 393. Como pode o homem ser responsável por atos e resgatar faltas de que se não lembra? Como pode aproveitar da experiência de vidas de que se esqueceu? Conceber-se-ia que as tribulações da existência lhe servissem de lição, se se recordasse do que as tenha podido ocasionar. Desde que, porém, disso não se recorda, cada existência é, para ele, como se fosse a primeira e eis que então está sempre a recomeçar. Como conciliar isto com a Justiça de Deus?
 
@@ -5394,7 +5394,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q399
+##### LDE-q399 {#LDE-q399}
 
 #️⃣ 399. Sendo as vicissitudes da vida corporal expiação das faltas do passado e, ao mesmo tempo, provas com vistas ao futuro, seguir-se-á que da natureza de tais vicissitudes se possa deduzir de que gênero foi a existência anterior?
 
@@ -5548,7 +5548,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q411
+##### LDE-q411 {#LDE-q411}
 
 #️⃣ 411. Estando desprendido da matéria e atuando como Espírito, sabe o Espírito encarnado qual será a época de sua morte?
 
@@ -6105,7 +6105,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-##### LDE-q459
+##### LDE-q459 {#LDE-q459}
 
 #️⃣ 459. Influem os Espíritos em nossos pensamentos e em nossos atos?
 
@@ -6792,7 +6792,7 @@ Encarnado, mormente em mundo onde a existência é material, o Espírito se acha
 
 ---
 
-##### LDE-q522
+##### LDE-q522 {#LDE-q522}
 
 #️⃣ 522. O pressentimento é sempre um aviso do Espírito protetor?
 
@@ -6826,7 +6826,7 @@ Encarnado, mormente em mundo onde a existência é material, o Espírito se acha
 
 ---
 
-##### LDE-q525
+##### LDE-q525 {#LDE-q525}
 
 #️⃣ 525. Exercem os Espíritos alguma influência nos acontecimentos da vida?
 
@@ -6843,7 +6843,7 @@ Encarnado, mormente em mundo onde a existência é material, o Espírito se acha
 
 ---
 
-##### LDE-q526
+##### LDE-q526 {#LDE-q526}
 
 #️⃣ 526. Tendo, como têm, ação sobre a matéria, podem os Espíritos provocar certos efeitos, com o objetivo de que se dê um acontecimento? Por exemplo: um homem tem que morrer; sobe uma escada, a escada se quebra e ele morre da queda. Foram os Espíritos que quebraram a escada, para que o destino daquele homem se cumprisse?
 
@@ -6915,7 +6915,7 @@ Encarnado, mormente em mundo onde a existência é material, o Espírito se acha
 
 ---
 
-##### LDE-q532
+##### LDE-q532 {#LDE-q532}
 
 #️⃣ 532. Têm os Espíritos o poder de afastar de certas pessoas os males e de favorecê-las com a prosperidade?
 
@@ -6941,7 +6941,7 @@ Encarnado, mormente em mundo onde a existência é material, o Espírito se acha
 
 ---
 
-##### LDE-q534
+##### LDE-q534 {#LDE-q534}
 
 #️⃣ 534. Será por influência de algum Espírito que, fatalmente, a realização dos nossos projetos parece encontrar obstáculos?
 
@@ -7029,7 +7029,7 @@ Encarnado, mormente em mundo onde a existência é material, o Espírito se acha
 
 ---
 
-##### LDE-q540
+##### LDE-q540 {#LDE-q540}
 
 #️⃣ 540. Os Espíritos que exercem ação nos fenômenos da Natureza operam com conhecimento de causa, usando do livre-arbítrio, ou por efeito de instintivo ou irrefletido impulso?
 
@@ -7487,7 +7487,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 
 ---
 
-##### LDE-q582
+##### LDE-q582 {#LDE-q582}
 
 #️⃣ 582. Pode-se considerar como missão a paternidade?
 
@@ -7496,7 +7496,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 
 ---
 
-##### LDE-q583
+##### LDE-q583 {#LDE-q583}
 
 #️⃣ 583. São responsáveis os pais pelo transviamento de um filho que envereda pelo caminho do mal, apesar dos cuidados que lhe dispensaram?
 
@@ -7740,7 +7740,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 
 ---
 
-##### LDE-q603
+##### LDE-q603 {#LDE-q603}
 
 #️⃣ 603. Nos mundos superiores, os animais conhecem a Deus?
 
@@ -8183,7 +8183,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 
 ---
 
-##### LDE-q640
+##### LDE-q640 {#LDE-q640}
 
 #️⃣ 640. Aquele que não pratica o mal, mas que se aproveita do mal praticado por outrem, é tão culpado quanto este?
 
@@ -8444,7 +8444,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q664
+##### LDE-q664 {#LDE-q664}
 
 #️⃣ 664. Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso, como podem as nossas preces lhes proporcionar alívio e abreviar os sofrimentos? Têm elas o poder de abrandar a Justiça de Deus?
 
@@ -8667,7 +8667,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q684
+##### LDE-q684 {#LDE-q684}
 
 #️⃣ 684. Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores excessivo trabalho?
 
@@ -8676,7 +8676,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q685
+##### LDE-q685 {#LDE-q685}
 
 #️⃣ 685. Tem o homem o direito de repousar na velhice?
 
@@ -8939,7 +8939,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q707
+##### LDE-q707 {#LDE-q707}
 
 #️⃣ 707. É frequente a certos indivíduos faltarem os meios de subsistência, ainda quando os cerca a abundância. A que se deve atribuir isso?
 
@@ -9040,7 +9040,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q715
+##### LDE-q715 {#LDE-q715}
 
 #️⃣ 715. Como pode o homem conhecer o limite do necessário?
 
@@ -9092,7 +9092,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q720
+##### LDE-q720 {#LDE-q720}
 
 #️⃣ 720. São meritórias aos olhos de Deus as privações voluntárias, com o objetivo de uma expiação igualmente voluntária?
 
@@ -9106,7 +9106,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q721
+##### LDE-q721 {#LDE-q721}
 
 #️⃣ 721. É meritória, de qualquer ponto de vista, a vida de mortificações ascéticas que desde a mais remota antiguidade teve praticantes no seio de diversos povos?
 
@@ -9151,7 +9151,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q726
+##### LDE-q726 {#LDE-q726}
 
 #️⃣ 726. Visto que os sofrimentos deste mundo nos elevam, se os suportarmos devidamente, dar-se-á que também nos elevam os que nós mesmos nos criamos?
 
@@ -9200,7 +9200,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-##### LDE-q730
+##### LDE-q730 {#LDE-q730}
 
 #️⃣ 730. Uma vez que a morte nos faz passar a uma vida melhor, nos livra dos males desta, sendo, pois, mais de desejar do que de temer, por que lhe tem o homem, instintivamente, tal horror, que ela lhe é sempre motivo de apreensão?
 
@@ -9351,7 +9351,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q744
+##### LDE-q744 {#LDE-q744}
 
 #️⃣ 744. Que objetivou a Providência, tornando necessária a guerra?
 
@@ -9423,7 +9423,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q751
+##### LDE-q751 {#LDE-q751}
 
 #️⃣ 751. Como se explica que entre alguns povos, já adiantados sob o ponto de vista intelectual, o infanticídio seja um costume e esteja consagrado pela legislação?
 
@@ -9773,7 +9773,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q780
+##### LDE-q780 {#LDE-q780}
 
 #️⃣ 780. O progresso moral acompanha sempre o progresso intelectual?
 
@@ -9830,7 +9830,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q784
+##### LDE-q784 {#LDE-q784}
 
 #️⃣ 784. Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto de vista moral, ele, em vez de avançar, caminha aos recuos?
 
@@ -9839,7 +9839,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q785
+##### LDE-q785 {#LDE-q785}
 
 #️⃣ 785. Qual o maior obstáculo ao progresso?
 
@@ -9895,7 +9895,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q789
+##### LDE-q789 {#LDE-q789}
 
 #️⃣ 789. O progresso fará que todos os povos da Terra se achem um dia reunidos, formando uma só nação?
 
@@ -9954,7 +9954,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q793
+##### LDE-q793 {#LDE-q793}
 
 #️⃣ 793. Por que indícios se pode reconhecer uma civilização completa?
 
@@ -9981,7 +9981,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q795
+##### LDE-q795 {#LDE-q795}
 
 #️⃣ 795. Qual a causa da instabilidade das leis humanas?
 
@@ -10027,7 +10027,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q799
+##### LDE-q799 {#LDE-q799}
 
 #️⃣ 799. De que maneira pode o Espiritismo contribuir para o progresso?
 
@@ -10071,7 +10071,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q803
+##### LDE-q803 {#LDE-q803}
 
 #️⃣ 803. Perante Deus, são iguais todos os homens?
 
@@ -10087,7 +10087,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q804
+##### LDE-q804 {#LDE-q804}
 
 #️⃣ 804. Por que não outorgou Deus as mesmas aptidões a todos os homens?
 
@@ -10139,7 +10139,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q808
+##### LDE-q808 {#LDE-q808}
 
 #️⃣ 808. A desigualdade das riquezas não se originará da das faculdades, em virtude da qual uns dispõem de mais meios de adquirir bens do que outros?
 
@@ -10212,7 +10212,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-##### LDE-q814
+##### LDE-q814 {#LDE-q814}
 
 #️⃣ 814. Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
 
@@ -10837,7 +10837,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 ---
 
-##### LDE-q872
+##### LDE-q872 {#LDE-q872}
 
 #️⃣ 872. A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
 
@@ -11161,7 +11161,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 
 ---
 
-##### LDE-q894
+##### LDE-q894 {#LDE-q894}
 
 #️⃣ 894. Há pessoas que fazem o bem espontaneamente, sem que precisem vencer quaisquer sentimentos que lhes sejam opostos. Terão tanto mérito, quanto as que se veem na contingência de lutar contra a natureza que lhes é própria e a vencem?
 
@@ -11467,7 +11467,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 
 ---
 
-##### LDE-q919
+##### LDE-q919 {#LDE-q919}
 
 #️⃣ 919. Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal?
 
@@ -11665,7 +11665,7 @@ Com uma organização social criteriosa e previdente, ao homem só por culpa sua
 
 ---
 
-##### LDE-q934
+##### LDE-q934 {#LDE-q934}
 
 #️⃣ 934. A perda dos entes que nos são caros não constitui para nós legítima causa de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
 
@@ -11960,7 +11960,7 @@ Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza
 >Muito diversas são as consequências do suicídio. Não há penas determinadas e, em todos os casos, correspondem sempre às causas que o produziram. Há, porém, uma consequência a que o suicida não pode escapar: é o **desapontamento**. A sorte, porém, não é a mesma para todos: depende das circunstâncias; alguns expiam a falta imediatamente, outros em nova existência, que será pior do que aquela cujo curso interromperam.
 {:.spirit}
 
->A observação, realmente, mostra que os efeitos do suicídio não são idênticos. Alguns há, porém, comuns a todos os casos de morte violenta e que são a consequência da interrupção brusca da vida. Há, primeiro, a persistência mais prolongada e tenaz do laço que une o Espírito ao corpo, por estar quase sempre esse laço na plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. 👉 ([LDE-q155](#LDE-q155) e [LDE-q165](#LDE-q265))
+>A observação, realmente, mostra que os efeitos do suicídio não são idênticos. Alguns há, porém, comuns a todos os casos de morte violenta e que são a consequência da interrupção brusca da vida. Há, primeiro, a persistência mais prolongada e tenaz do laço que une o Espírito ao corpo, por estar quase sempre esse laço na plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. 👉 ([LDE-q155](#LDE-q155) e [LDE-q165](#LDE-q165))
 >
 >A afinidade que permanece entre o Espírito e o corpo produz, nalguns suicidas, uma espécie de repercussão do estado do corpo no Espírito, que, assim, a seu mau grado, sente os efeitos da decomposição, donde lhe resulta uma sensação cheia de angústias e de horror, estado esse que também pode durar pelo tempo que devia durar a vida que sofreu interrupção. Não é geral este efeito; mas, em caso algum, o suicida fica isento das consequências da sua falta de coragem e, cedo ou tarde, expia, de um modo ou de outro, a culpa em que incorreu. Assim é que certos Espíritos, que foram muito desgraçados na Terra, disseram ter-se suicidado na existência precedente e submetido voluntariamente a novas provas, para tentarem suportá-las com mais resignação. Em alguns, verifica-se uma espécie de ligação à matéria, de que inutilmente procuram desembaraçar-se, a fim de voarem para mundos melhores, cujo acesso, porém, se lhes conserva interdito. A maior parte deles sofre o pesar de haver feito uma coisa inútil, pois que só decepções encontram.
 >
@@ -12133,7 +12133,7 @@ Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza
 
 ---
 
-##### LDE-q971
+##### LDE-q971 {#LDE-q971}
 
 #️⃣ 971. É sempre boa a influência que os Espíritos exercem uns sobre os outros?
 
@@ -12179,7 +12179,7 @@ Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza
 
 ---
 
-##### LDE-q974
+##### LDE-q974 {#LDE-q974}
 
 #️⃣ 974. Donde procede a doutrina do fogo eterno?
 
@@ -12196,7 +12196,7 @@ Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza
 
 ---
 
-##### LDE-q975
+##### LDE-q975 {#LDE-q975}
 
 #️⃣ 975. Os Espíritos inferiores compreendem a felicidade do justo?
 
@@ -12434,7 +12434,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 ---
 
-##### LDE-q996
+##### LDE-q996 {#LDE-q996}
 
 #️⃣ 996. Pois que os Espíritos veem o mal que lhes resulta de suas imperfeições, como se explica que haja os que agravam suas situações e prolongam o estado de inferioridade em que se encontram, fazendo o mal como Espíritos, afastando do bom caminho os homens?
 
@@ -12632,7 +12632,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 ---
 
-##### LDE-q1010
+##### LDE-q1010 {#LDE-q1010}
 
 #️⃣ 1010. O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos Espíritos?
 
