@@ -5,32 +5,36 @@ layout: default
 
 <style>
 html {
-  width: 95vw;
-  scroll-behavior: smooth;
+     width: 95vw;
+     scroll-behavior: smooth;
 }
-section {
-  width: 55vw;
-  background-color: whitesmoke;
-  padding-left: 50px;
-  padding-right: 50px;
-  margin-top: -60px;
-  padding-top: 60px;
+ section {
+     width: 55vw;
+     background-color: whitesmoke;
+     padding-left: 50px;
+     padding-right: 50px;
+     margin-top: -60px;
+     padding-top: 60px;
+}
+ .wrapper {
+     width: 95vw;
+}
+ body {
+     font-size: 16px;
+}
+ header {
+    font-size: 13px;
+     overflow: scroll;
+     width: 30vw;
+     margin-left: -30px;
+}
+ th, td {
+     border: none;
+}
+ th, a:any-link {
+     font-weight: normal;
+}
 
-}
-.wrapper {
-  width: 95vw;
-}
-body {
-  font-size: 16px;
-}
-header {font-size: 13px; overflow: scroll; width: 30vw; margin-left: -30px;}
-th,
-td {
-  border: none;
-}
-th, a:any-link {
-  font-weight: normal;
-  }
 
 </style>
 
@@ -46,6 +50,11 @@ em {
   color: darkred;
 }
 
+blockquote.grey {
+  border-left: 2px solid gainsboro;
+  margin-left: 10px;
+}
+
 blockquote.spirit {
   border-left: 2px solid gainsboro;
   margin-left: 10px;
@@ -55,11 +64,6 @@ blockquote.spirit p:first-child::before {
   content: "👻 ▸ ";
   font-style: normal;
   margin-left: 5px;
-}
-
-blockquote.grey {
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
 }
 
 blockquote.bible {
@@ -9343,7 +9347,6 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 {:.spirit}
 
 |--------------------------- ⚜️ ---------------------------|
-
 
 ## 🗂️ Parte 6. Pós-textual {#LDE-6}
 

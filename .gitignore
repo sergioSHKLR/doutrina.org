@@ -3,3 +3,7 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+_site/ESE.html
+_site/LDE.html
+_site/LDM.html
+_site/assets/css/style.css.map
