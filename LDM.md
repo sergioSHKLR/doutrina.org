@@ -1,5 +1,5 @@
 ---
-title: 2. 📔 LDM
+title: 2. 📙 LDM
 layout: default
 ---
 
@@ -105,7 +105,7 @@ blockquote.warrior p:first-child::before {
 
   </style>
 
-# 📔 O Livro dos Médiuns {#LDM}
+# 📙 O Livro dos Médiuns {#LDM}
 
 ---
 
