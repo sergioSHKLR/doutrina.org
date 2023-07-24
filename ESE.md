@@ -1,5 +1,5 @@
 ---
-title: 3. 📔 ESE
+title: 3. 📗 ESE
 layout: default
 ---
 
@@ -80,37 +80,11 @@ blockquote.spirit p:first-child::before {
   font-style: normal;
   margin-left: 5px;
 }
-blockquote.king {
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
-}
-blockquote.king p:first-child::before {
-  content: "👑 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-blockquote.saint {
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
-}
-blockquote.saint p:first-child::before {
-  content: "🕊️ ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-blockquote.greek {
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
-}
-blockquote.greek ol:first-child::before {
-  content: "🏺 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
+
 
 </style>
 
-# 📔 O Evangelho segundo o Espiritismo {#ESE}
+# 📗 O Evangelho segundo o Espiritismo {#ESE}
 
 ---
 
