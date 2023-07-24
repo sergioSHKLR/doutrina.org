@@ -9,15 +9,22 @@ html {
   scroll-behavior: smooth;
 }
 section {
-  width: 65vw;
+  width: 70vw;
+  background-color: whitesmoke;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: -60px;
+  padding-top: 60px;
+  height: 100vw;
+
 }
 .wrapper {
-  width: 90vw;
+  width: 95vw;
 }
 body {
   font-size: 18px;
 }
-header {font-size: 13px; overflow: scroll; width: 25vw;}
+header {font-size: 14px; overflow: scroll; width: 30vw; margin-left: -30px;}
 
 th, a:any-link {
   font-weight: normal;
