@@ -4,12 +4,12 @@ layout: default
 ---
 
 <style>
-  html {
-  width: 98vw;
+html {
+  width: 95vw;
   scroll-behavior: smooth;
 }
 section {
-  width: 70vw;
+  width: 65vw;
 }
 .wrapper {
   width: 90vw;
@@ -17,6 +17,7 @@ section {
 body {
   font-size: 18px;
 }
+header {font-size: 13px; overflow: scroll; width: 25vw;}
 th,
 td {
   border: none;
@@ -24,6 +25,7 @@ td {
 th, a:any-link {
   font-weight: normal;
   }
+
 </style>
 
 <script src="https://hypothes.is/embed.js" async></script>
