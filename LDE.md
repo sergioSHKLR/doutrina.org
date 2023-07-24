@@ -1,5 +1,5 @@
 ---
-title: 1. 📔 LDE
+title: 1. 📘 LDE
 layout: default
 ---
 
@@ -93,7 +93,7 @@ blockquote.kardec p:first-child::before {
 
 </style>
 
-# 📔 O Livro dos Espíritos {#LDE}
+# 📘 O Livro dos Espíritos {#LDE}
 
 ---
 
