@@ -24,7 +24,7 @@ blockquote.spirit {
 }
 
 blockquote.bible p:first-child::before {
-    content: "✝️ ▸ ";
+    content: "📜 ▸ ";
     font-style: normal;
     margin-left: 5px;
 }
@@ -7500,7 +7500,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 ##### LDE-q646
 #️⃣ 646. Estará subordinado a determinadas condições o mérito do bem que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 
->O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o Jesus, a propósito do óbolo da viúva. ✝️ ▸ **Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4**
+>O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o Jesus, a propósito do óbolo da viúva. 📜 ▸ **Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4**
 
 [⤴️ subir um nível](#LDE-3-01)
 
@@ -8704,7 +8704,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 ---
 
 ##### LDE-q764
-#️⃣ 764. Disse Jesus: *Quem matou com a espada, pela espada perecerá* (✝️ ▸ **Mateus, cap. 21, vers. 51-52**). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+#️⃣ 764. Disse Jesus: *Quem matou com a espada, pela espada perecerá* (📜 ▸ **Mateus, cap. 21, vers. 51-52**). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 >Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
 {:.spirit}
@@ -10068,7 +10068,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 ##### LDE-q887
-#️⃣ 887. Jesus também disse: *Amai mesmo os vossos inimigos.* (✝️ ▸ **Mateus, cap. 5, vers. 44**) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+#️⃣ 887. Jesus também disse: *Amai mesmo os vossos inimigos.* (📜 ▸ **Mateus, cap. 5, vers. 44**) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 

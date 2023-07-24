@@ -274,7 +274,7 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 
 > **“_Têm olhos e não veem; têm ouvidos e não ouvem._“** 
 >
-> ✝️ Mateus, cap. 13, vers. 14
+> 📜 Mateus, cap. 13, vers. 14
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
@@ -290,7 +290,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 >“_Os grandes serão rebaixados e os pequenos serão elevados._” 
 >
-> ✝️ Mateus, cap. 18, vers. 4
+> 📜 Mateus, cap. 18, vers. 4
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
 
@@ -750,7 +750,7 @@ a. Essa forma é constante ou variável?
 >
 > _**‘Deus disse: Faça-se a luz e a luz foi feita’.**_” 
 >
-> ✝️ Gênesis, cap. 1, vers. 3
+> 📜 Gênesis, cap. 1, vers. 3
 
 ##### `LDE.q39` #️⃣ 39
 39. Poderemos conhecer o modo de formação dos mundos?
@@ -1461,7 +1461,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 > >
 > >“_Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido_” 
 > >
-> > ✝️ Mateus, cap. 24, vers. 29 e 34
+> > 📜 Mateus, cap. 24, vers. 29 e 34
 > >
 > > Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 > >
@@ -2291,7 +2291,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 >
 > _Compreenderam então seus discípulos que era de João Batista que Ele lhes falava._” 
 >
-> ✝️ Mateus, cap. 17, vers. 9 a 13.
+> 📜 Mateus, cap. 17, vers. 9 a 13.
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
 
@@ -2316,7 +2316,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 >
 >_— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**._
 >
->✝️ João, cap. 3, vers. 3 a 7
+>📜 João, cap. 3, vers. 3 a 7
 
 ([`LDE.q101`](#ldeq101-%EF%B8%8F%E2%83%A3-101)) 
 
@@ -2737,7 +2737,7 @@ a. Como devemos entender essa elevação e esse rebaixamento?
 >
 >“_Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado_”? 
 >
-> ✝️ Mateus, cap. 23, vers. 12
+> 📜 Mateus, cap. 23, vers. 12
 
 ##### `LDE.q276` #️⃣ 276
 276. Aquele que foi grande na Terra e que, como Espírito, vem a achar-se entre os de ordem inferior, experimenta com isso alguma humilhação?
@@ -4053,7 +4053,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?
 >
 >“_‘Senhor! não nos deixes cair em tentação, mas livra-nos do mal’._” 
 >
-> ✝️ Mateus, cap. 6, vers. 13
+> 📜 Mateus, cap. 6, vers. 13
 
 ##### `LDE.q470` #️⃣ 470
 470. Os Espíritos, que ao mal procuram induzir-nos e que põem assim em prova a nossa firmeza no bem, procedem desse modo cumprindo missão? E, se assim é, cabe-lhes alguma responsabilidade?
@@ -5223,7 +5223,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 >
 > _— Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis._”
 >
-> ✝️ Mateus, cap. 7, vers. 12
+> 📜 Mateus, cap. 7, vers. 12
 
 ##### `LDE.q633` #️⃣ 633
 633. A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **solidariedade**, é inaplicável ao proceder pessoal do homem para consigo mesmo. Achará ele, na lei natural, a regra desse proceder e um guia seguro?
@@ -5301,7 +5301,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 >
 > _‘Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra’_
 >
-> ✝️ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4
+> 📜 Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4
 >
 > _, disse-o Jesus, a propósito do óbolo da viúva._”
 
@@ -5449,7 +5449,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 >
 > _‘Amai-vos uns aos outros.’_
 >
-> ✝️ Mateus, cap. 22, vers. 39
+> 📜 Mateus, cap. 22, vers. 39
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito._” [^16]
 
@@ -6139,13 +6139,13 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 >“_Podes duvidar disso? Não se revolta o teu Espírito, quando lês a narrativa das carnificinas humanas que outrora se faziam em nome da justiça e, não raro, em honra da Divindade; das torturas que se infligiam ao condenado e até ao simples acusado, para lhe arrancar, pela agudeza do sofrimento, a confissão de um crime que muitas vezes não cometera? Pois bem! Se houvesses vivido nessas épocas, terias achado tudo isso natural e talvez mesmo, se foras juiz, fizesses outro tanto. Assim é que o que pareceu justo, numa época, parece bárbaro em outra. Só as Leis divinas são eternas; as humanas mudam com o progresso e continuarão a mudar, até que tenham sido postas de acordo com aquelas._”
 
 ##### `LDE.q764` #️⃣ 764
-764. Disse Jesus: “_Quem matou com a espada, pela espada perecerá“_ (✝️ Mateus, cap. 21, vers. 51-52). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+764. Disse Jesus: “_Quem matou com a espada, pela espada perecerá“_ (📜 Mateus, cap. 21, vers. 51-52). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 >“_Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:_”
 >
 > _‘Perdoai aos vossos inimigos.’?_ 
 >
-> ✝️ Mateus, cap. 6, vers. 14-15
+> 📜 Mateus, cap. 6, vers. 14-15
 >
 > E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?_” 
 ##### `LDE.q765` #️⃣ 765
@@ -6565,7 +6565,7 @@ a. Será possível que todos se entendam?
 > >
 > >“_Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus._” 
 > >
-> > ✝️ Mateus, cap. 19, vers. 16-30 ([`LDE.q266`](#ldeq266-%EF%B8%8F%E2%83%A3-266))
+> > 📜 Mateus, cap. 19, vers. 16-30 ([`LDE.q266`](#ldeq266-%EF%B8%8F%E2%83%A3-266))
 
 ---
 
@@ -6938,7 +6938,7 @@ No que concerne à morte é que o homem se acha submetido, em absoluto, à inexo
 Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos: 
 >“_Não nos deixes sucumbir à tentação, mas livra-nos do mal._” 
 >
-> ✝️ Mateus, cap. 6, vers. 9-13
+> 📜 Mateus, cap. 6, vers. 9-13
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
@@ -6974,7 +6974,7 @@ a. Que é o que determina esses direitos?
 ##### `LDE.q876` #️⃣ 876
 876. Posto de parte o direito que a lei humana consagra, qual a base da justiça, segundo a lei natural?
 
->“_Disse o Cristo: "Queira cada um para os outros o que quereria para si mesmo." (✝️ Livro, cap. X, vers. Y) No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado._”
+>“_Disse o Cristo: "Queira cada um para os outros o que quereria para si mesmo." (📜 Livro, cap. X, vers. Y) No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado._”
 >
 > > Efetivamente, o critério da verdadeira justiça está em querer cada um para os outros o que para si mesmo quereria e não em querer para si o que quereria para os outros, o que absolutamente não é a mesma coisa. Não sendo natural que haja quem deseje o mal para si, desde que cada um tome por modelo o seu desejo pessoal, é evidente que nunca ninguém desejará para o seu semelhante senão o bem. Em todos os tempos e sob o império de todas as crenças, sempre o homem se esforçou para que prevalecesse o seu direito pessoal. **A sublimidade da religião cristã está em que ela tomou o direito pessoal por base do direito do próximo.**
 
@@ -7018,13 +7018,13 @@ a. Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que
 >
 > _‘Não roubarás?’_
 >
-> ✝️ Êxodo, cap. 20, vers. 15
+> 📜 Êxodo, cap. 20, vers. 15
 >
 > _E Jesus não disse:_
 >
 > _‘Dai a César o que é de César.’?_”
 >
-> ✝️ Mateus, cap. 22, vers. 21
+> 📜 Mateus, cap. 22, vers. 21
 >
 > > O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -7062,12 +7062,12 @@ a. Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que
 > >
 > > **“_Amai-vos uns aos outros como irmãos._”**
 > >
-> > ✝️ Mateus, cap. 22, vers. 39
+> > 📜 Mateus, cap. 22, vers. 39
 > >
 > > A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 
 ##### `LDE.q887` #️⃣ 887
-887. Jesus também disse: Amai mesmo os vossos inimigos. Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? (✝️ Mateus, cap. 5, vers. 44)
+887. Jesus também disse: Amai mesmo os vossos inimigos. Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? (📜 Mateus, cap. 5, vers. 44)
 
 >“_Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança._”
 
@@ -7086,7 +7086,7 @@ a. Dar-se-á reproveis a esmola?
 >
 >“_Ignore a vossa mão esquerda o que a direita der._” 
 >
-> ✝️ Mateus, cap. 6, vers. 3
+> 📜 Mateus, cap. 6, vers. 3
 >
 >“_Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho._”
 >
@@ -7198,7 +7198,7 @@ b. Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fa
 >
 >“_‘Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.’_” 
 >
-> ✝️ Mateus, cap. 7, vers. 3
+> 📜 Mateus, cap. 7, vers. 3
 
 ##### `LDE.q904` #️⃣ 904
 904. Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em público?
@@ -7398,7 +7398,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 >
 >“_‘Bem-aventurados os que sofrem, pois que serão consolados’._” 
 >
-> ✝️ Mateus, cap. 5, vers. 4
+> 📜 Mateus, cap. 5, vers. 4
 
 ##### `LDE.q927` #️⃣ 927
 927. Não há dúvida que, à felicidade, o supérfluo não é forçosamente indispensável, porém o mesmo não se dá com o necessário. Ora, não será real a infelicidade daqueles a quem falta o necessário?
@@ -8020,7 +8020,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 >
 >“_*A cada um segundo as suas obras*._” 
 >
-> ✝️ Romanos, cap. 2, vers. 6
+> 📜 Romanos, cap. 2, vers. 6
 >
 > **Santo Agostinho**
 

@@ -39,12 +39,12 @@ blockquote.doctrine {
 
 
 blockquote.bible p:first-child::before {
-    content: "✝️ ▸ ";
+    content: "📜 ▸ ";
     font-style: normal;
     margin-left: 5px;
 }
 blockquote.bible ol:first-child::before {
-    content: "✝️ ▸ ";
+    content: "📜 ▸ ";
     font-style: normal;
     margin-left: 5px;
 }
@@ -382,7 +382,7 @@ Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de 
 
 >Se alguém vos bater numa face, apresentai-lhe a outra.
 >
->✝️ LIVRO? Cap. 12, itens 7 e 8
+>📜 LIVRO? Cap. 12, itens 7 e 8
 {:.bible}
 
 {:start="11"}
@@ -407,7 +407,7 @@ Esta máxima:
 
 >Pelos frutos é que se conhece a árvore
 >
->✝️ LIVRO? Cap. 12, itens 7 e 8
+>📜 LIVRO? Cap. 12, itens 7 e 8
 {:.bible}
 
 , se encontra muitas vezes repetida textualmente no Evangelho.
@@ -446,7 +446,7 @@ Diz o Evangelho:
 
 >Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
 >
->✝️ Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
+>📜 Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
 >LIVRO? Cap. 10, itens 9 e 10
 {:.bible}
 
