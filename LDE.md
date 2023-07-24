@@ -5,6 +5,8 @@ layout: default
 
 <style>
 
+a {font-style: normal;}
+
 h1,h2,h3,h4 {
     text-align: center;
 }
@@ -54,11 +56,13 @@ em {
 }
 
 blockquote.grey {
+  font-style: normal;
   border-left: 2px solid gainsboro;
   margin-left: 10px;
 }
 
 blockquote.spirit {
+  font-style: normal;
   border-left: 2px solid gainsboro;
   margin-left: 10px;
 }
@@ -81,6 +85,7 @@ blockquote.bible p:first-child::before {
 }
 
 blockquote.kardec {
+  font-style: normal;
   border-left: 2px solid gainsboro;
   margin-left: 10px;
 }
@@ -1023,9 +1028,9 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 >Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:
 >
 {:.spirit}
->Deus disse: Faça-se a luz e a luz foi feita.
->
->**Gênesis, cap. 1, vers. 3**
+>>Deus disse: Faça-se a luz e a luz foi feita.
+>>
+>>**Gênesis, cap. 1, vers. 3**
 {:.bible}
 
 ---
@@ -2122,9 +2127,9 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de Deus, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de Deus suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do Cristo. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 {:.kardec}
 >
->*Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido.*
->
->**Mateus, cap. 24, vers. 29 e 34**
+>>*Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido.*
+>>
+>>**Mateus, cap. 24, vers. 29 e 34**
 {:.bible}
 >
 >Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
@@ -4067,9 +4072,9 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 >Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:
 {:.spirit}
->*Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado.*?
->
->**Mateus, cap. 23, vers. 12**
+>>*Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado.*?
+>>
+>>**Mateus, cap. 23, vers. 12**
 {:.bible}
 
 ---
@@ -6215,9 +6220,9 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 >Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
 {:.spirit}
->*Senhor! não nos deixes cair em tentação, mas livra-nos do mal.*
->
->**Mateus, cap. 6, vers. 13**
+>>*Senhor! não nos deixes cair em tentação, mas livra-nos do mal.*
+>>
+>>**Mateus, cap. 6, vers. 13**
 {:.bible}
 
 ---
@@ -8105,9 +8110,9 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 >
 {:.spirit}
 >
->*Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.*
->
->**Mateus, cap. 7, vers. 12**
+>>*Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.*
+>>
+>>**Mateus, cap. 7, vers. 12**
 {:.bible}
 
 ---
@@ -8459,12 +8464,13 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 >
 {:.spirit}
 >
->*Amai-vos uns aos outros.*
->
->**Mateus, cap. 22, vers. 39**
+>>*Amai-vos uns aos outros.*
+>>
+>>**Mateus, cap. 22, vers. 39**
 {:.bible}
 >
 >Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
+{:.grey}
 
 ---
 
@@ -9579,9 +9585,9 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 >Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
 {:.spirit}
 
->*Perdoai aos vossos inimigos.*?
->
->**Mateus, cap. 6, vers. 14-15**
+>>*Perdoai aos vossos inimigos.*?
+>>
+>>**Mateus, cap. 6, vers. 14-15**
 {:.bible}
 
 >E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem? 
