@@ -4,6 +4,10 @@ layout: default
 ---
 
 <style>
+
+h1,h2,h3,h4 {
+    text-align: center;
+}
 html {
   width: 95vw;
   scroll-behavior: smooth;

@@ -5,9 +5,10 @@ layout: default
 
 <style>
 
-h1,h2,h3,h4 {text-align: center;}
-
-html {
+h1,h2,h3,h4 {
+    text-align: center;
+}
+ html {
      width: 95vw;
      scroll-behavior: smooth;
 }
@@ -26,7 +27,7 @@ html {
      font-size: 16px;
 }
  header {
-    font-size: 13px;
+     font-size: 13px;
      overflow: scroll;
      width: 30vw;
      margin-left: -30px;
@@ -37,7 +38,6 @@ html {
  th, a:any-link {
      font-weight: normal;
 }
-
 
 </style>
 
