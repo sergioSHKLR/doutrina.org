@@ -5,6 +5,8 @@ layout: default
 
 <style>
 
+blockquote {font-style: normal;}
+
 h1,h2,h3,h4 {
     text-align: center;
 }
