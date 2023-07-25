@@ -67,7 +67,7 @@ blockquote.bible {
      margin-left: 10px;
 }
  blockquote.king p:first-child::before {
-     content: "👑 ▸ ";
+     content: "👻 ▸ ";
      font-style: normal;
      margin-left: 5px;
 }

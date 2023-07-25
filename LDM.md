@@ -58,7 +58,7 @@ blockquote.king {
   margin-left: 10px;
 }
 blockquote.king p:first-child::before {
-  content: "👑 ▸ ";
+  content: "� ▸ ";
   font-style: normal;
   margin-left: 5px;
 }
@@ -997,7 +997,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### LDM-p74
 
-- #️⃣ 74. As respostas seguintes nos foram dadas pelo 👑 **Espírito São Luís**. Muitos outros, depois, as confirmaram.
+- #️⃣ 74. As respostas seguintes nos foram dadas pelo � **Espírito São Luís**. Muitos outros, depois, as confirmaram.
 
   1ª. Será o fluido universal uma emanação da divindade?
   >Não.
@@ -2034,7 +2034,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### LDM-p128
 
-- #️⃣ 128. Foi o Espírito 👑 **São Luís** quem nos deu essa solução, mediante as respostas seguintes:
+- #️⃣ 128. Foi o Espírito � **São Luís** quem nos deu essa solução, mediante as respostas seguintes:
 
   1ª. Citamos um caso de aparição do Espírito de uma pessoa viva. Esse Espírito tinha uma caixa de rapé, do qual tomava pitadas. Experimentava ele a sensação que experimenta um indivíduo que faz o mesmo?
   >Não.
