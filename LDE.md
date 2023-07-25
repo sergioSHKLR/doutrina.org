@@ -7,9 +7,12 @@ layout: default
 
 a {font-style: normal;}
 
-h1,h2,h3,h4 {
+h1,h2,h3,h4,h5 {
     text-align: center;
 }
+
+h5 {color: transparent;}
+
  html {
      width: 95vw;
      scroll-behavior: smooth;
