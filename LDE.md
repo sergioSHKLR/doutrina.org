@@ -56,6 +56,7 @@ img {
 
 em {
   color: darkred;
+  font-style: normal;
 }
 
 blockquote.grey {
@@ -377,7 +378,7 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 
 >*Têm olhos e não veem; têm ouvidos e não ouvem.*
 >
->**Mateus, cap. 13, vers. 14**
+>Mateus, cap. 13, vers. 14
 {:.bible}
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
@@ -394,7 +395,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 >*Os grandes serão rebaixados e os pequenos serão elevados.*
 >
->**Mateus, cap. 18, vers. 4**
+>Mateus, cap. 18, vers. 4
 {:.bible}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
@@ -529,7 +530,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 >Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.
 >
->**João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
+>João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
 {:.spirit}
 
 ---
@@ -693,17 +694,17 @@ Um acaso inteligente já não seria acaso.
 >Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber.
 {:.spirit}
 
->**Deus é eterno.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
+>Deus é eterno.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
 >
->**É imutável.** Se estivesse sujeito a mudanças, as leis que regem o Universo nenhuma estabilidade teriam.
+>É imutável.** Se estivesse sujeito a mudanças, as leis que regem o Universo nenhuma estabilidade teriam.
 >
->**É imaterial.** Quer isto dizer que a sua natureza difere de tudo o que chamamos matéria. De outro modo, Ele não seria imutável, porque estaria sujeito às transformações da matéria.
+>É imaterial.** Quer isto dizer que a sua natureza difere de tudo o que chamamos matéria. De outro modo, Ele não seria imutável, porque estaria sujeito às transformações da matéria.
 >
->**É único.** Se muitos deuses houvesse, não haveria unidade de vistas, nem unidade de poder na ordenação do Universo.
+>É único.** Se muitos deuses houvesse, não haveria unidade de vistas, nem unidade de poder na ordenação do Universo.
 >
->**É onipotente.** Ele o é, porque é único. Se não dispusesse do soberano poder, algo haveria mais poderoso ou tão poderoso quanto ele, que então não teria feito todas as coisas. As que não houvesse feito seriam obra de outro Deus.
+>É onipotente.** Ele o é, porque é único. Se não dispusesse do soberano poder, algo haveria mais poderoso ou tão poderoso quanto ele, que então não teria feito todas as coisas. As que não houvesse feito seriam obra de outro Deus.
 >
->**É soberanamente justo e bom.** A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
+>É soberanamente justo e bom.** A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
 {:.kardec}
 
 ---
@@ -1034,7 +1035,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 {:.spirit}
 >>Deus disse: Faça-se a luz e a luz foi feita.
 >>
->>**Gênesis, cap. 1, vers. 3**
+>>Gênesis, cap. 1, vers. 3
 {:.bible}
 
 ---
@@ -2133,7 +2134,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >
 >>*Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido.*
 >>
->>**Mateus, cap. 24, vers. 29 e 34**
+>>Mateus, cap. 24, vers. 29 e 34
 {:.bible}
 >
 >Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
@@ -3395,7 +3396,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 >— *É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.*  
 >Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.  
 >
->**Mateus, cap. 17, vers. 9 a 13**
+>Mateus, cap. 17, vers. 9 a 13
 {:.bible}
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
@@ -3417,7 +3418,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 >Respondeu Jesus:  
 >— *Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.*
 >
->**João, cap. 3, vers. 3 a 7**
+>João, cap. 3, vers. 3 a 7
 {:.bible}
 
 👉 ([LDE-q1010](#LDE-q1010)) 
@@ -3841,7 +3842,7 @@ Ensina-nos a experiência que, por ocasião da morte, o perispírito se desprend
 
 E acrescentava:
 
->**No entanto, sinto os vermes a me roerem**.
+>No entanto, sinto os vermes a me roerem**.
 {:.spirit}
 
 Ora, indubitavelmente, os vermes não lhe roíam o perispírito e ainda menos o Espírito; roíam-lhe apenas o corpo. Como, porém, não era completa a separação do corpo e do perispírito, uma espécie de repercussão moral se produzia, transmitindo ao Espírito o que estava ocorrendo no corpo. Repercussão talvez não seja o termo próprio, porque pode induzir à suposição de um efeito muito material. Era antes a visão do que se passava com o corpo, ao qual ainda o conservava ligado o perispírito, o que lhe causava a ilusão, que ele tomava por realidade. Assim, pois, não haveria no caso uma reminiscência, porquanto ele não fora, em vida, roído pelos vermes: havia o sentimento de um fato da atualidade. Isto mostra que deduções se podem tirar dos fatos, quando atentamente observados.
@@ -4078,7 +4079,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 {:.spirit}
 >>*Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado.*?
 >>
->>**Mateus, cap. 23, vers. 12**
+>>Mateus, cap. 23, vers. 12
 {:.bible}
 
 ---
@@ -6226,7 +6227,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 {:.spirit}
 >>*Senhor! não nos deixes cair em tentação, mas livra-nos do mal.*
 >>
->>**Mateus, cap. 6, vers. 13**
+>>Mateus, cap. 6, vers. 13
 {:.bible}
 
 ---
@@ -6519,7 +6520,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 >
 >Não receeis fatigar-nos com as vossas perguntas. Ao contrário, procurai estar sempre em relação conosco. Sereis assim mais fortes e mais felizes. São essas comunicações de cada um com o seu Espírito familiar que fazem sejam médiuns todos os homens, médiuns ignorados hoje, mas que se manifestarão mais tarde e se espalharão qual oceano sem margens, levando de roldão a incredulidade e a ignorância. Homens doutos, instruí os vossos semelhantes; homens de talento, educai os vossos irmãos. Não imaginais que obra fazeis desse modo: a do Cristo, a que Deus vos impõe. Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna?
 >
->**São Luís, Santo Agostinho**
+>São Luís, Santo Agostinho**
 {:.spirit}
 
 >Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na Terra o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os Espíritos possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
@@ -8116,7 +8117,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 >
 >>*Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.*
 >>
->>**Mateus, cap. 7, vers. 12**
+>>Mateus, cap. 7, vers. 12
 {:.bible}
 
 ---
@@ -8470,7 +8471,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 >
 >>*Amai-vos uns aos outros.*
 >>
->>**Mateus, cap. 22, vers. 39**
+>>Mateus, cap. 22, vers. 39
 {:.bible}
 >
 >Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
@@ -9591,7 +9592,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 >>*Perdoai aos vossos inimigos.*?
 >>
->>**Mateus, cap. 6, vers. 14-15**
+>>Mateus, cap. 6, vers. 14-15
 {:.bible}
 
 >E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem? 
@@ -10252,7 +10253,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 >
 >>*Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus.*
 >>
->>**Mateus, cap. 19, vers. 16-30**
+>>Mateus, cap. 19, vers. 16-30
 {:.bible}
 
 👉 ([LDE-q266](#LDE-q266))
@@ -10863,7 +10864,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 
 >*Não nos deixes sucumbir à tentação, mas livra-nos do mal.*
 >
->**Mateus, cap. 6, vers. 9-13**
+>Mateus, cap. 6, vers. 9-13
 {:.bible}
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
@@ -10922,7 +10923,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 >
 >>*Queira cada um para os outros o que quereria para si mesmo.*
 >>
->>**Livro, cap. X, vers. Y**
+>>Livro, cap. X, vers. Y**
 {:.spirit}
 >
 >No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
@@ -10996,7 +10997,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 >
 >>Não roubarás.?
 >>
->>**Êxodo, cap. 20, vers. 15**
+>>Êxodo, cap. 20, vers. 15
 {:.bible}
 >
 >E Jesus não disse:
@@ -11005,7 +11006,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 >
 >>*Dai a César o que é de César.*?
 >>
->>**Mateus, cap. 22, vers. 21**
+>>Mateus, cap. 22, vers. 21
 {:.bible}
 
 O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
@@ -11063,7 +11064,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 {:.kardec}
 >>*Amai-vos uns aos outros como irmãos.*
 >>
->>**Mateus, cap. 22, vers. 39**
+>>Mateus, cap. 22, vers. 39
 {:.bible}
 >
 >A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
@@ -11097,7 +11098,7 @@ Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao 
 >
 >>*Ignore a vossa mão esquerda o que a direita der.*
 >>
->>**Mateus, cap. 6, vers. 3**
+>>Mateus, cap. 6, vers. 3
 {:.bible}
 >
 >Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
@@ -11107,7 +11108,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >Não esqueçais nunca que o Espírito, qualquer que seja o grau de seu adiantamento, sua situação como reencarnado, ou na erraticidade, está **sempre** colocado entre um superior, que o guia e aperfeiçoa, e um inferior, para com o qual tem que cumprir esses mesmos deveres. Sede, pois, caridosos, praticando, não só a caridade que vos faz dar friamente o óbolo que tirais do bolso ao que vo-lo ousa pedir, mas a que vos leve ao encontro das misérias ocultas. Sede indulgentes com os defeitos dos vossos semelhantes. Em vez de votardes desprezo à ignorância e ao vício, instruí os ignorantes e moralizai os viciados. Sede brandos e benevolentes para com tudo o que vos seja inferior. Sede-o para com os seres mais ínfimos da criação e tereis obedecido à Lei de Deus.
 >
->**São Vicente de Paulo**
+>São Vicente de Paulo**
 {:.grey}
 
 ---
@@ -11275,7 +11276,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >>*Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.*
 >>
->>**Mateus, cap. 7, vers. 3**
+>>Mateus, cap. 7, vers. 3
 {:.bible}
 
 ---
@@ -11427,7 +11428,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes o faz egoísta, por sentir a necessidade de colocar-se na defensiva. Notando que os outros pensam em si próprios e não nele, ei-lo levado a ocupar-se consigo, mais do que com os outros. Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade e cada um pensará menos na sua pessoa, assim veja que outros nela pensaram. Todos experimentarão a influência moralizadora do exemplo e do contato. Em face do atual extravasamento de egoísmo, grande virtude é verdadeiramente necessária, para que alguém renuncie à sua personalidade em proveito dos outros, que, de ordinário, absolutamente lhe não agradecem. Principalmente para os que possuem essa virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos, pois em verdade vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver, todo aquele que em si somente houver pensado. 👉 ([LDE-q785](#LDE-q785))
 >
->**Fénelon**
+>Fénelon**
 {:.spirit}
 
 >Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência.
@@ -11492,7 +11493,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma dúvida em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de fenômenos capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos 👻 **O Livro dos Espíritos**.
 >
->**Santo Agostinho**
+>Santo Agostinho**
 {:.spirit}
 
 >Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós. 
@@ -11580,7 +11581,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >>*Bem-aventurados os que sofrem, pois que serão consolados.*
 >>
->>**Mateus, cap. 5, vers. 4**
+>>Mateus, cap. 5, vers. 4
 {:.bible}
 
 ---
@@ -12540,7 +12541,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 >No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do Espírito, a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.
 >
->**São Luís**
+>São Luís**
 {:.spirit}
 
 ---
@@ -12560,7 +12561,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 >Poderiam, se ele pudesse ser eternamente mau, isto é, se jamais se arrependesse e melhorasse, sofreria eternamente. Deus, porém, não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da vontade de cada um. Mais ou menos tardia pode ser a vontade, do mesmo modo que há crianças mais ou menos precoces, porém, cedo ou tarde, ela aparece, por efeito da irresistível necessidade que o Espírito sente de sair da inferioridade e de se tornar feliz. Eminentemente sábia e magnânima é, pois, a lei que rege a duração das penas, porquanto subordina essa duração aos esforços do Espírito. Jamais o priva do seu livre-arbítrio: se deste faz ele mau uso, sofre as consequências.
 >
->**São Luís**
+>São Luís**
 {:.spirit}
 
 ---
@@ -12571,7 +12572,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 >Há os de arrependimento muito tardio; porém, pretender-se que nunca se melhorarão fora negar a lei do progresso e dizer que a criança não pode tornar-se homem.
 >
->**São Luís**
+>São Luís**
 {:.spirit}
 
 ---
@@ -12582,7 +12583,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 >Sim, ao Espírito podem ser impostas penas por determinado tempo; mas Deus, que só quer o bem de suas criaturas, acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o Espírito manifeste de se melhorar.
 >
->**São Luís**
+>São Luís**
 {:.spirit}
 
 ---
@@ -12596,21 +12597,21 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 {:.spirit}
 >>*A cada um segundo as suas obras.*
 >>
->>**Romanos, cap. 2, vers. 6**
+>>Romanos, cap. 2, vers. 6
 {:.bible}
 
->**Santo Agostinho**
+>Santo Agostinho**
 
 >Aplicai-vos, por todos os meios ao vosso alcance, em combater, em aniquilar a ideia da eternidade das penas, ideia blasfematória da justiça e da bondade de Deus, gérmen fecundo da incredulidade, do materialismo e da indiferença que invadiram as massas humanas, desde que as inteligências começaram a desenvolver-se. O Espírito, prestes a esclarecer-se, ou mesmo apenas desbastado, logo lhe apreendeu a monstruosa injustiça. Sua razão a repele e, então, raro é que não englobe no mesmo repúdio a pena que o revolta e o Deus a quem a atribui. Daí os males sem conta que hão desabado sobre vós e aos quais vimos trazer remédio. Tanto mais fácil será a tarefa que vos apontamos, quanto é certo que todas as autoridades em quem se apoiam os defensores de tal crença evitaram todas pronunciar-se formalmente a respeito. Nem os concílios, nem os Pais da Igreja resolveram essa grave questão. Muito embora, segundo os evangelistas e tomadas ao pé da letra as palavras emblemáticas do Cristo, Ele tenha ameaçado os culpados com um fogo que se não extingue, com um fogo eterno, absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado **eternamente**.
 >
 >Pobres ovelhas desgarradas, aprendei a ver aproximar-se de vós o Bom Pastor, que, longe de vos banir para todo o sempre de sua presença, vem pessoalmente ao vosso encontro, para vos reconduzir ao aprisco. Filhos pródigos, deixai o vosso voluntário exílio; encaminhai vossos passos para a morada paterna. O Pai vos estende os braços e está sempre pronto a festejar o vosso regresso ao seio da família.
 >
->**Lamennais**
+>Lamennais**
 {:.spirit}
 
 >Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: eternidade das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. Eternidade dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa razão humana, porém, tal como a tendes, ela é uma dádiva de Deus e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por eterno o mal. Somente Deus é eterno e não poderia ter criado o mal eterno; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um Deus intrinsecamente bom, absolutamente poderoso, essencialmente justo.
 >
->**Platão**
+>Platão**
 {:.spirit}
 
 >Gravitar para a unidade divina, eis o fim da Humanidade. Para atingi-lo, três coisas são necessárias: a justiça, o amor e a ciência. Três coisas lhe são opostas e contrárias: a ignorância, o ódio e a injustiça. Pois bem! digo-vos, em verdade, que mentis a estes princípios fundamentais, comprometendo a ideia de Deus, com o lhe exagerardes a severidade. Duplamente a comprometeis, deixando que no Espírito da criatura penetre a suposição de que há nela mais clemência, mais virtude, amor e verdadeira justiça, do que atribuís ao ser infinito. Destruís mesmo a ideia do inferno, tornando-o ridículo e inadmissível às vossas crenças, como o é aos vossos corações o horrendo espetáculo das execuções, das fogueiras e das torturas da Idade Média! Pois quê! Quando banida se acha para sempre das legislações humanas a era das cegas represálias, é que esperais mantê-la no ideal? Oh! crede-me, crede-me, irmãos em Deus e em Jesus Cristo, crede-me: ou vos resignais a deixar que pereçam nas vossas mãos todos os vossos dogmas, de preferência a que se modifiquem, ou, então, vivificai-os, abrindo-os aos benfazejos eflúvios que os Bons, neste momento, derramam neles. A ideia do inferno, com as suas fornalhas ardentes, com as suas caldeiras a ferver, pôde ser tolerada, isto é, perdoável, num século de ferro; porém, no século XIX, não passa de vão fantasma, próprio, quando muito, para amedrontar criancinhas e em que estas, crescendo um pouco, logo deixam de crer. Se persistirdes nessa mitologia aterradora, engendrareis a incredulidade, mãe de toda a desorganização social. Tremo, entrevendo toda uma ordem social abalada e a ruir sobre os seus fundamentos, por falta de sanção penal. Homens de fé ardente e viva, vanguardeiros do dia da luz, mãos à obra, não para manter fábulas que envelheceram e se desacreditaram, mas para reavivar, revivificar a verdadeira sanção penal, sob formas condizentes com os vossos costumes, os vossos sentimentos e as luzes da vossa época.
@@ -12620,7 +12621,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 >Que é o castigo? A consequência natural, derivada desse falso movimento; uma certa soma de dores necessária a desgostá-lo da sua deformidade, pela experimentação do sofrimento. O castigo é o aguilhão que estimula a alma, pela amargura, a se dobrar sobre si mesma e a buscar o porto de salvação. O castigo só tem por fim a reabilitação, a redenção. Querê-lo eterno, por uma falta não eterna, é negar-lhe toda a razão de ser.
 >Oh! em verdade vos digo, cessai, cessai de pôr em paralelo, na sua eternidade, o Bem, essência do Criador, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento gradual dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
 >
->**Paulo, apóstolo.**
+>Paulo, apóstolo.**
 {:.spirit}
 
 >Com o atrativo de recompensas e temor de castigos, procura-se estimular o homem para o bem e desviá-lo do mal. Se esses castigos, porém, lhe são apresentados de forma que a sua razão se recuse a admiti-los, nenhuma influência terão sobre ele. Longe disso, rejeitará tudo: a forma e o fundo. Se, ao contrário, lhe apresentarem o futuro de maneira lógica, ele não o repelirá. O Espiritismo lhe dá essa explicação.
@@ -12655,7 +12656,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 
 >É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o Espiritismo ressalta a cada passo do texto mesmo das Escrituras sagradas. Os Espíritos, portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.
 >
->**São Luís**
+>São Luís**
 {:.spirit}
 
 >Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
@@ -12763,7 +12764,7 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 >
 >Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.
 >
->**São Luís** 
+>São Luís** 
 {:.spirit}
 
 ---
@@ -12868,7 +12869,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 >Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um Deus de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O Espiritismo é o laço que um dia os unirá, porque lhes mostrará onde está a verdade, onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o Cristo. Quereis saber sob a influência de que Espíritos estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons Espíritos foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de Jesus, porque seguem a estrada que este lhes indicou para chegarem até Ele.
 >
->**Santo Agostinho**
+>Santo Agostinho**
 {:.spirit}
 
 ---
