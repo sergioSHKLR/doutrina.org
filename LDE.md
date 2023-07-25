@@ -267,9 +267,9 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 9. há no homem três coisas:
 
   a. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
-  
+
   b. a alma ou ser imaterial, Espírito encarnado no corpo;
-  
+
   c. o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;
 
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos instintos lhe são comuns; pela alma, participa da natureza dos Espíritos;
