@@ -103,9 +103,9 @@ blockquote.warrior p:first-child::before {
 | Espiritismo Experimental |
 |:---:|
 |
-| ✒️ **O Livro dos Médiuns** |
+| ✒️  **O Livro dos Médiuns** |
 |
-| Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 **O Livro dos Espíritos**. |
+| Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻  **O Livro dos Espíritos**. |
 |
 | Por **Allan Kardec**. |
 |
@@ -137,15 +137,15 @@ Havíamos publicado uma Instrução Prática com o fito de guiar os médiuns. Es
 
 A essas considerações ainda aditaremos outra, muito importante: a má impressão que produzem nos novatos as experiências levianamente feitas e sem conhecimento de causa, experiências que apresentam o inconveniente de gerar ideias falsas acerca do mundo dos Espíritos e de dar azo à zombaria e a uma crítica quase sempre fundada. De tais reuniões, os incrédulos raramente saem convertidos e dispostos a reconhecer que no Espiritismo haja alguma coisa de sério. Para a opinião errônea de grande número de pessoas, muito mais do que se pensa têm contribuído a ignorância e a leviandade de vários médiuns.
 
-Desde alguns anos, o Espiritismo há realizado grandes progressos: imensos, porém, são os que conseguiu realizar a partir do momento em que tomou rumo filosófico, porque entrou a ser apreciado pela gente instruída. Presentemente, já não é um espetáculo: é uma doutrina de que não mais riem os que zombavam das mesas girantes. Esforçando-nos por levá-lo para esse terreno e por mantê-lo aí, nutrimos a convicção de que lhe granjeamos mais adeptos úteis, do que provocando a torto e a direito manifestações que se prestariam a abusos. Disso temos cotidianamente a prova em o número dos que se hão tornado espíritas unicamente pela leitura de 👻 **O Livro dos Espíritos**.
+Desde alguns anos, o Espiritismo há realizado grandes progressos: imensos, porém, são os que conseguiu realizar a partir do momento em que tomou rumo filosófico, porque entrou a ser apreciado pela gente instruída. Presentemente, já não é um espetáculo: é uma doutrina de que não mais riem os que zombavam das mesas girantes. Esforçando-nos por levá-lo para esse terreno e por mantê-lo aí, nutrimos a convicção de que lhe granjeamos mais adeptos úteis, do que provocando a torto e a direito manifestações que se prestariam a abusos. Disso temos cotidianamente a prova em o número dos que se hão tornado espíritas unicamente pela leitura de 👻  **O Livro dos Espíritos**.
 
-Depois de havermos exposto a parte filosófica da ciência espírita em 👻 **O Livro dos Espíritos**, damos nesta obra a parte prática, para uso dos que queiram ocupar-se com as manifestações, quer para fazerem pessoalmente, quer para se inteirarem dos fenômenos que lhes sejam dados observar.
+Depois de havermos exposto a parte filosófica da ciência espírita em 👻  **O Livro dos Espíritos**, damos nesta obra a parte prática, para uso dos que queiram ocupar-se com as manifestações, quer para fazerem pessoalmente, quer para se inteirarem dos fenômenos que lhes sejam dados observar.
 
-Verão, aí, os óbices com que poderão deparar e terão também um meio de evitá-los. Estas duas obras, se bem a segunda constitua seguimento da primeira, são, até certo ponto, independentes uma da outra. Mas, a quem quer que deseje tratar seriamente da matéria, diremos que primeiro leia 👻 **O Livro dos Espíritos**, porque contém princípios básicos, sem os quais algumas partes deste se tornariam talvez dificilmente compreensíveis.
+Verão, aí, os óbices com que poderão deparar e terão também um meio de evitá-los. Estas duas obras, se bem a segunda constitua seguimento da primeira, são, até certo ponto, independentes uma da outra. Mas, a quem quer que deseje tratar seriamente da matéria, diremos que primeiro leia 👻  **O Livro dos Espíritos**, porque contém princípios básicos, sem os quais algumas partes deste se tornariam talvez dificilmente compreensíveis.
 
 Importantes alterações para melhor foram introduzidas nesta segunda edição, muito mais completa do que a primeira. Acrescentando-lhe grande número de notas e instruções do maior interesse, os Espíritos a corrigiram, com particular cuidado. Como reviram tudo, aprovando-a ou modificando-a à sua vontade, pode dizer-se que ela é, em grande parte, obra deles, porquanto a intervenção que tiveram não se limitou aos artigos que trazem assinaturas. São poucos esses artigos, porque apenas apusemos nomes quando isso nos pareceu necessário, para assinalar que algumas citações um tanto extensas provieram deles textualmente. A não ser assim, houvéramos de citá-los quase que em todas as páginas, especialmente em seguida a todas as respostas dadas às perguntas que lhes foram feitas, o que se nos afigurou de nenhuma utilidade. Os nomes, como se sabe, importam pouco em tais assuntos. O essencial é que o conjunto do trabalho corresponda ao fim que colimamos. O acolhimento dado à primeira edição, posto que imperfeita, faz-nos esperar que a presente não encontre menos receptividade.
 
-Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em 👻 **O Livro dos Espíritos**. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
+Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em 👻  **O Livro dos Espíritos**. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
 
 [⤴️ subir um nível](#LDM-0)
 
@@ -388,7 +388,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
 - #️⃣ 20. Entre os materialistas, importa distinguir duas classes: colocamos na primeira os que o são por **sistema**. Nesses, não há a dúvida, há a negação absoluta, raciocinada a seu modo. O homem, para eles, é simples máquina, que funciona enquanto está montada, que se desarranja e de que, após a morte, só resta a carcaça.
 
-  Felizmente, são em número restrito e não formam escola abertamente confessada. Não precisamos insistir nos deploráveis efeitos que para a ordem social resultariam da vulgarização de semelhante doutrina. Já nos estendemos bastante sobre esse assunto em 👻 **O Livro dos Espíritos**. 👉 ([LDE-q147](https://doutrina.org/LDE.html#LDE-q147) e [LDE-5-03](https://doutrina.org/LDE.html#LDE-5-03)).
+  Felizmente, são em número restrito e não formam escola abertamente confessada. Não precisamos insistir nos deploráveis efeitos que para a ordem social resultariam da vulgarização de semelhante doutrina. Já nos estendemos bastante sobre esse assunto em 👻  **O Livro dos Espíritos**. 👉 ([LDE-q147](https://doutrina.org/LDE.html#LDE-q147) e [LDE-5-03](https://doutrina.org/LDE.html#LDE-5-03)).
 
   Quando dissemos que a dúvida cessa nos incrédulos diante de uma explicação racional, excetuamos os materialistas extremados, os que negam a existência de qualquer força e de qualquer princípio inteligente fora da matéria. A maioria deles se obstina por orgulho na opinião que professa, entendendo que o amor-próprio lhe impõe persistir nela. E persistem, não obstante todas as provas em contrário, porque não querem ficar por baixo. Com tal gente, nada há que fazer; ninguém mesmo se deve deixar iludir pelo falso tom de sinceridade dos que dizem: fazei que eu veja, e acreditarei. Outros são mais francos e dizem sem rebuço: ainda que eu visse, não acreditaria.
 
@@ -487,11 +487,11 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
   - 🔍 **O que é o Espiritismo**. Esta brochura, de uma centena de páginas somente, contém sumária exposição dos princípios da Doutrina Espírita, um apanhado geral desta, permitindo ao leitor apreender-lhe o conjunto dentro de um quadro restrito. Em poucas palavras ele lhe percebe o objetivo e pode julgar do seu alcance. Aí se encontram, além disso, respostas às principais questões ou objeções que os novatos se sentem naturalmente propensos a fazer. Esta primeira leitura, que muito pouco tempo consome, é uma introdução que facilita um estudo mais aprofundado.
 
-  - 👻 **O Livro dos Espíritos**. Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
+  - 👻  **O Livro dos Espíritos**. Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
 
-  - ✒️ **O Livro dos Médiuns**. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os médiuns como para os evocadores, e o complemento de 👻 **O Livro dos Espíritos**.
+  - ✒️  **O Livro dos Médiuns**. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os médiuns como para os evocadores, e o complemento de 👻  **O Livro dos Espíritos**.
 
-  - 📓 **Revista Espírita**. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de 👻 **O Livro dos Espíritos**. [^5]
+  - 📓 **Revista Espírita**. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de 👻  **O Livro dos Espíritos**. [^5]
 
   Isto pelo que nos diz respeito. Os que desejem tudo conhecer de uma ciência devem necessariamente ler tudo o que se ache escrito sobre a matéria, ou, pelo menos, o que haja de principal, não se limitando a um único autor. Devem mesmo ler o pró e o contra, as críticas como as apologias, inteirar-se dos diferentes sistemas, a fim de poderem julgar por comparação.
 
@@ -511,7 +511,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### LDM-p37
 
-- #️⃣ 37. Seguindo metódica ordem, para acompanhar a marcha progressiva das ideias, convém sejam colocados na primeira linha dos sistemas os que se podem classificar como **sistemas de negação**, isto é, os dos adversários do Espiritismo. Já lhes refutamos as objeções, na introdução e na conclusão de 👻 **O Livro dos Espíritos**, assim como no volumezinho que intitulamos 🔍 **O que é o Espiritismo**. Fora supérfluo insistir nisso aqui. Limitar-nos-emos a lembrar, em duas palavras, os motivos em que eles se fundam.
+- #️⃣ 37. Seguindo metódica ordem, para acompanhar a marcha progressiva das ideias, convém sejam colocados na primeira linha dos sistemas os que se podem classificar como **sistemas de negação**, isto é, os dos adversários do Espiritismo. Já lhes refutamos as objeções, na introdução e na conclusão de 👻  **O Livro dos Espíritos**, assim como no volumezinho que intitulamos 🔍 **O que é o Espiritismo**. Fora supérfluo insistir nisso aqui. Limitar-nos-emos a lembrar, em duas palavras, os motivos em que eles se fundam.
 
   De duas espécies são os fenômenos espíritas: efeitos físicos e efeitos inteligentes. Não admitindo a existência dos Espíritos, por não admitirem coisa alguma fora da matéria, concebe-se que neguem os efeitos inteligentes. Quanto aos efeitos físicos, eles os comentam do ponto de vista em que se colocam, e seus argumentos se podem resumir nos quatro sistemas seguintes:
 
@@ -533,7 +533,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Efetivamente, forçoso será convir em que essa loucura, se loucura existe, apresenta uma característica muito singular: a de atingir de preferência a classe instruída, em cujo seio conta o Espiritismo, até o presente, a imensa maioria de seus adeptos. Se entre estes algumas excentricidades se manifestam, elas nada provam contra a Doutrina, do mesmo modo que os loucos religiosos nada provam contra a religião, nem os loucos melômanos contra a música, ou os loucos matemáticos contra a Matemática. Todas as ideias sempre tiveram fanáticos exagerados e é preciso se seja dotado de muito obtuso juízo para confundir a exageração de uma coisa com a coisa mesma.
 
-  Para mais amplas explicações a este respeito, recomendamos ao leitor a nossa brochura: 🔍 **O que é o Espiritismo** e 👻 **O Livro dos Espíritos** ([LDE-0-02-15](https://doutrina.org/LDE.html#LDE-0-02-15)).
+  Para mais amplas explicações a este respeito, recomendamos ao leitor a nossa brochura: 🔍 **O que é o Espiritismo** e 👻  **O Livro dos Espíritos** ([LDE-0-02-15](https://doutrina.org/LDE.html#LDE-0-02-15)).
 
 #### LDM-p40
 
@@ -5694,9 +5694,9 @@ A investigação rigorosamente racional e científica de fatos que revelavam a c
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. 👻 **O Livro dos Espíritos** (1857),
+1. 👻  **O Livro dos Espíritos** (1857),
 
-2. ✒️ **O Livro dos Médiuns** (1861),
+2. ✒️  **O Livro dos Médiuns** (1861),
 
 3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
 
@@ -5718,7 +5718,7 @@ O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básic
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
 
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻  **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
 
 O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
@@ -5774,7 +5774,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 [^8]: A.K.: Esta questão foi tratada em 👉 👻 [LDE-q128](https://doutrina.org/LDE.html#LDE-q128) e seguintes; mas, com relação a este assunto, como acerca de tudo o que respeita à parte religiosa, recomendamos a brochura intitulada: Carta de um católico sobre o espiritismo, do Dr. Grand, ex-cônsul da França (à venda na Livraria Ledoyen, in-18; preço 1 franco), bem como a que vamos publicar sob o título: Os contraditores do espiritismo, do ponto de vista da religião, da ciência e do materialismo.
 
-[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em 👻 **O Livro dos Espíritos** sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
+[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em 👻  **O Livro dos Espíritos** sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
 
 [^10]: N.E.: Confusões, balbúrdias.
 
