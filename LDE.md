@@ -108,6 +108,7 @@ blockquote.kardec p:first-child::before {
 
 ### 📃 Folha de rosto {#LDE-0-01}
 
+|
 | Filosofia Espiritualista |
 | :---: |
 |  |

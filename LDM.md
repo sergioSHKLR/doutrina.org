@@ -115,6 +115,7 @@ blockquote.warrior p:first-child::before {
 
 ### 📃 Folha de rosto {#LDM-0-01} 
 
+|
 | Espiritismo Experimental |
 |:---:|
 |
