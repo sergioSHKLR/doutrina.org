@@ -748,7 +748,7 @@ Um acaso inteligente já não seria acaso.
 
 ---
 
-##### LDE-q17
+##### LDE-q17 {#LDE-q17}
 
 #️⃣ 17. É dado ao homem conhecer o princípio das coisas?
 
@@ -820,7 +820,7 @@ Um acaso inteligente já não seria acaso.
 
 ---
 
-##### LDE-q23
+##### LDE-q23 {#LDE-q23}
 
 #️⃣ 23. Que é o espírito?
 
@@ -1132,7 +1132,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 ---
 
-##### LDE-q49
+##### LDE-q49 {#LDE-q49}
 
 #️⃣ 49. Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 
@@ -1561,7 +1561,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-##### LDE-q82
+##### LDE-q82 {#LDE-q82}
 
 #️⃣ 82. Será certo dizer-se que os Espíritos são imateriais?
 
@@ -1700,7 +1700,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-##### LDE-q93
+##### LDE-q93 {#LDE-q93}
 
 #️⃣ 93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
 
@@ -1779,7 +1779,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-##### LDE-q100
+##### LDE-q100 {#LDE-q100}
 
 #️⃣ 100. Observações preliminares. — A classificação dos Espíritos se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido.
 
@@ -2083,7 +2083,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-##### LDE-q128
+##### LDE-q128 {#LDE-q128}
 
 #️⃣ 128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
 
@@ -3153,7 +3153,7 @@ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível
 
 ---
 
-##### LDE-q207
+##### LDE-q207 {#LDE-q207}
 
 #️⃣ 207. Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
 
@@ -5429,7 +5429,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q400
+##### LDE-q400 {#LDE-q400}
 
 #️⃣ 400. O Espírito encarnado permanece de bom grado no seu envoltório corporal?
 
@@ -5528,7 +5528,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q409
+##### LDE-q409 {#LDE-q409}
 
 #️⃣ 409. Doutras vezes, num estado que ainda não é bem o do adormecimento, estando com os olhos fechados, vemos imagens distintas, figuras cujas mínimas particularidades percebemos. Que há aí, efeito de visão ou de imaginação?
 
@@ -5710,7 +5710,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q425
+##### LDE-q425 {#LDE-q425}
 
 #️⃣ 425. O sonambulismo natural tem alguma relação com os sonhos? Como explicá-lo?
 
@@ -5925,7 +5925,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 ---
 
-##### LDE-q447
+##### LDE-q447 {#LDE-q447}
 
 #️⃣ 447. O fenômeno a que se dá a designação de **dupla vista** tem alguma relação com o sonho e o sonambulismo?
 
@@ -10796,7 +10796,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 ---
 
-##### LDE-q868
+##### LDE-q868 {#LDE-q868}
 
 #️⃣ 868. Pode o futuro ser revelado ao homem?
 
@@ -12890,7 +12890,7 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 
 3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
 
-4. **O Céu e o Inferno** (1865),
+4. 🔥 **O Céu e o Inferno** (1865),
 
 5. 🌱 **A Gênese** (1868),
 
@@ -12922,7 +12922,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 >
 >Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📔 **Revista Espírita**, 1867)
 >
->Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. ( 🌱 **A Gênese**, cap. 1, item 36 Vide também 📔 **Revista Espírita**, 1867)
+>Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 **A Gênese**, cap. 1, item 36 Vide também 📔 **Revista Espírita**, 1867)
 {:.grey}
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
@@ -12936,7 +12936,7 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 
 É importante compreender, também, que os textos publicados por Allan Kardec na 📔 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
 
->Quando, na 📔 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “interpretação da doutrina dos anjos decaídos”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. ( 🌱 **A Gênese**, cap. 11, item 43, Nota)
+>Quando, na 📔 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “interpretação da doutrina dos anjos decaídos”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
 {:.grey}
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
