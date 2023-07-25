@@ -12889,38 +12889,38 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 [^8]: A.K. Ver a explicação sobre o termo **alma**, 👉 [LDE-0-02-02](#LDE-0-02-02).
 
-[^9]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^9]: N.E.: Ver 👉 Nota explicativa.
 
 [^10]: A.K.: Segundo os Espíritos, de todos os mundos que compõem o nosso sistema planetário, a Terra é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de Espíritos menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga. O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a Terra e Saturno menos do que Júpiter. Muitos Espíritos, que na Terra animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos Espíritos, habitantes daquele planeta, foram mandados à Terra para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na Terra e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um Espírito habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris. As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na Terra e as idades não se podem comparar. Evocado, um Espírito que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à inteligência, tenho trinta anos da idade que tive na Terra. Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus.
 
-[^11]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^11]: N.E.: Ver 👉 Nota explicativa.
 
-[^12]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^12]: N.E.: Ver 👉 Nota explicativa.
 
-[^13]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^13]: N.E.: Ver 👉 Nota explicativa.
 
-[^14]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^14]: N.E.: Ver 👉 Nota explicativa.
 
-[^15]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^15]: N.E.: Ver 👉 Nota explicativa.
 
 [^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, LDE-q664, é do Espírito **São Luís**.
 
-[^17]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^17]: N.E.: Ver 👉 Nota explicativa.
 
-[^18]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^18]: N.E.: Ver 👉 Nota explicativa.
 
-[^19]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^19]: N.E.: Ver 👉 Nota explicativa.
 
-[^20]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^20]: N.E.: Ver 👉 Nota explicativa.
 
-[^21]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^21]: N.E.: Ver 👉 Nota explicativa.
 
-[^22]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^22]: N.E.: Ver 👉 Nota explicativa.
 
-[^23]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^23]: N.E.: Ver 👉 Nota explicativa.
 
 [^24]: N.E.: Frase atribuída ao filósofo grego **Sócrates** (470–399 a.C.)
 
 [^25]: N.E.: Na 2ª impressão da 2ª edição de 👻 **O Livro dos Espíritos**, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
 
-[^26]: N.E.: 👉 [LDE-6-01](#LDE-6-01)
+[^26]: N.E.: Ver 👉 Nota explicativa.

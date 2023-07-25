@@ -6254,7 +6254,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 [^23]: N.E.: No original francês está no grifo. Torpilles humaines. Torpille é um peixe semelhante à raia, ou arraia, que tem órgãos capazes de emitir descargas elétricas. É o peixe-torpedo, à semelhança das denominações que damos, de enguia-elétrica ou peixe-elétrico, ao peixe poraquê amazônico.
 <a name="LDM-X">LDM-X</a>
 
-[^24]: N.E.: Ver Nota Explicativa.
+[^24]: N.E.: Ver 👉 Nota explicativa.
 
 [^25]: A.K.: Conhecemos um senhor que foi aceito para um emprego de confiança, numa casa importante, porque era espírita sincero. Entenderam que as suas crenças eram uma garantia da sua moralidade.
 

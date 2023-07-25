@@ -1894,16 +1894,16 @@ O texto certo que, por mercê de Deus, já está reproduzido pelas edições rec
 Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , como realmente é o original.
 Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
 
-[^5]: N.E.: Ver Nota Explicativa.
+[^5]: N.E.: Ver 👉 Nota explicativa.
 
-[^6]: N.E.: Ver Nota Explicativa.
+[^6]: N.E.: Ver 👉 Nota explicativa.
 
 [^7]: A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: ...genitus ex aqua et Spiritu... ...et quod genitum est ex Spiritu, spiritus est. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
 
 [^8]: A.K.: Veja-se, para os desenvolvimentos do dogma da reencarnação, 👻 **O Livro dos Espíritos**, caps. 4 e 5; 🔍 **O que é o Espiritismo**, cap. 2, por Allan Kardec; Pluralidade das existências, por Pezzani.
 
-[^9]: N.E.: Ver Nota Explicativa.
+[^9]: N.E.: Ver 👉 Nota explicativa.
 
-[^10]: N.E.: Ver Nota Explicativa.
+[^10]: N.E.: Ver 👉 Nota explicativa.
 
 [^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc
