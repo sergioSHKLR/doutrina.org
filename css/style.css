@@ -9,7 +9,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
     line-height: 1.5;
-    width: 486px;
+    width: 800px;
     margin: auto;
 }
 
@@ -37,7 +37,7 @@ html {
 }
 
 img {
-    max-width: 300px;
+    max-width: 600px;
     margin: auto;
     display: block;
 }
@@ -77,5 +77,11 @@ blockquote.quote p:first-child::after {
     font-size: 200%;
     vertical-align: bottom;
     line-height: .5;
+}
+
+a {  text-underline-offset: 0.3em;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: .5px;
+    text-decoration-style: dotted;
 }
 
