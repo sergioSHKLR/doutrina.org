@@ -2166,7 +2166,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #️⃣ 137. Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
->Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ([LDM-2-07 ↗️](https://doutrina.org/LDM.html#LDM-2-07))
+>Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ([LDM-2-07 ↗️](https://doutrina.org/2LDM.html#LDM-2-07))
 {:.spirit}
 
 ---
