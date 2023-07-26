@@ -15,12 +15,12 @@ layout: default
 
 ## Legenda
 
-🗂️ - Partes  
-📑 - Capítulos  
-📃 - Secões  
-#️⃣ - Itens  
+🗂️ - Parte  
+📑 - Capítulo  
+📃 - Secão  
+#️⃣ - Item  
 
-👻 - Espírito(s)  
+👻 - Espírito  
 👴🏼 - Allan Kardec  
 📜 - Bíblia  
 
