@@ -1,0 +1,81 @@
+blockquote {
+    border-left: 1px solid gainsboro;
+    margin-left: 10px;
+    padding-left: 50px
+}
+
+body {
+    color: #444;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1.5;
+    width: 486px;
+    margin: auto;
+}
+
+em {
+    color: darkred;
+    font-style: normal
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-align: center
+}
+
+hr {
+    border-bottom: 0;
+    border-top: 1px solid gainsboro;
+    width: 80%
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+img {
+    max-width: 300px;
+    margin: auto;
+    display: block;
+}
+
+li {
+    margin-left: -15px
+}
+
+li::marker {
+    font-weight: bold
+}
+
+section {
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+blockquote>blockquote {
+    margin-left: -50px;
+    border: none
+}
+
+nav {
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+blockquote.quote p:first-child::before {
+    content: open-quote" ";
+    font-size: 200%;
+    vertical-align: bottom;
+    line-height: .5;
+}
+
+blockquote.quote p:first-child::after {
+    content: " "close-quote;
+    font-size: 200%;
+    vertical-align: bottom;
+    line-height: .5;
+}
+

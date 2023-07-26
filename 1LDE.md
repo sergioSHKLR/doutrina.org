@@ -1,105 +1,28 @@
 ---
-title: 1. 📘 LDE
+title: 📘 LDE
 layout: default
 ---
 
 <style>
 
-blockquote {font-style: normal;}
-
-a {font-style: normal;}
-
-h1,h2,h3,h4,h5 {
-    text-align: center;
-}
-
-h5 {color: transparent;}
-
- html {
-     width: 95vw;
-     scroll-behavior: smooth;
-}
- section {
-     width: 55vw;
-     background-color: whitesmoke;
-     padding-left: 50px;
-     padding-right: 50px;
-     margin-top: -60px;
-     padding-top: 60px;
-}
- .wrapper {
-     width: 95vw;
-}
- body {
-     font-size: 16px;
-}
- header {
-     font-size: 13px;
-     overflow: scroll;
-     width: 30vw;
-     margin-left: -30px;
-}
- th, td {
-     border: none;
-}
- th, a:any-link {
-     font-weight: normal;
-}
-
-</style>
-
-<script src="https://hypothes.is/embed.js" async></script>
-
-<style>
-
-img {
-  max-width: 50vw;
-}
-
-em {
-  color: darkred;
-  font-style: normal;
-}
-
-blockquote.grey {
-  font-style: normal;
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
-}
-
-blockquote.spirit {
-  font-style: normal;
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
-}
-
-blockquote.spirit p:first-child::before {
-  content: "👻 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-blockquote.bible {
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
+h5 {
+    color: transparent;
+    display: none
 }
 
 blockquote.bible p:first-child::before {
   content: "📜 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
+  margin-left: -30px;
 }
 
-blockquote.kardec {
-  font-style: normal;
-  border-left: 2px solid gainsboro;
-  margin-left: 10px;
+blockquote.spirit p:first-child::before {
+  content: "👻 ▸ ";
+  margin-left: -30px;
 }
 
 blockquote.kardec p:first-child::before {
   content: "👴🏻 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
+  margin-left: -30px;
 }
 
 </style>
@@ -532,7 +455,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 >Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.
 >
->João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
+>**João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
 {:.spirit}
 
 ---
@@ -955,11 +878,7 @@ Um acaso inteligente já não seria acaso.
 >O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 {:.kardec}
 
----
-
-##### LDE-q33a
-
-#️⃣ a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
+- a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
 >É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 {:.spirit}
@@ -1640,11 +1559,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 >Para vós, não; para nós, sim. O Espírito é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
 {:.spirit}
 
----
-
-##### LDE-q88a
-
-#️⃣ a. Essa chama ou centelha tem cor?
+- a) Essa chama ou centelha tem cor?
 
 >Tem uma cor que, para vós, vai do escuro ao brilho do rubi, conforme o Espírito é mais ou menos puro.
 {:.spirit}
@@ -2212,11 +2127,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >Há o laço que liga a alma ao corpo.
 {:.spirit}
 
----
-
-##### LDE-q135a
-
-#️⃣ a. De que natureza é esse laço?
+- a) De que natureza é esse laço?
 
 >Semimaterial, isto é, de natureza intermédia entre o Espírito e o corpo. É preciso que seja assim para que os dois possam comunicar-se um com o outro. Por meio desse laço é que o Espírito atua sobre a matéria e reciprocamente.
 {:.spirit}
@@ -2863,11 +2774,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os Espíritos, depende do grau da elevação destes.
 {:.spirit}
 
----
-
-##### LDE-q184a
-
-#️⃣ a. Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
+- a) Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
 
 >O grau da sua elevação.
 {:.spirit}
@@ -2964,11 +2871,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o Espírito o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao Espírito cumpre progredir em ciência e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem.
 {:.spirit}
 
----
-
-##### LDE-q192a
-
-#️⃣ a. Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
+- a) Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
 
 >Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**.
 {:.spirit}
@@ -3679,11 +3582,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 >Ainda isto depende da elevação que tenham conquistado. Muitas vezes, apenas o entreveem, **porém, nem sempre lhes é permitido revelá-lo**. Quando o veem, parece-lhes presente. À medida que se aproxima de Deus, tanto mais claramente o Espírito descortina o futuro. Depois da morte, a alma vê e apreende num golpe de vista **suas passadas migrações**, mas não pode ver o que Deus lhe reserva. Para que tal aconteça, preciso é que, ao cabo de múltiplas existências, se haja integrado nele.
 {:.spirit}
 
----
-
-##### LDE-q243a
-
-#️⃣ a. Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo do futuro?
+- a) Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo do futuro?
 
 >Completo não se pode dizer, por isso que só Deus é soberano Senhor e ninguém o pode igualar.
 {:.spirit}
@@ -7797,11 +7696,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 >Do elemento inteligente universal.
 {:.spirit}
 
----
-
-##### LDE-q606a
-
-#️⃣ a. Então, emanam de um único princípio a inteligência do homem e a dos animais?
+- a) Então, emanam de um único princípio a inteligência do homem e a dos animais?
 
 >Sem dúvida alguma, porém, no homem, passou por uma elaboração que a coloca acima da que existe no animal.
 {:.spirit}
@@ -12151,11 +12046,7 @@ Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza
 >Sempre boa, está claro, da parte dos bons Espíritos. Os Espíritos perversos, esses procuram desviar da senda do bem e do arrependimento os que lhes parecem suscetíveis de se deixarem levar e que são, muitas vezes, os que eles mesmos arrastaram ao mal durante a vida terrena.
 {:.spirit}
 
----
-
-##### LDE-q971a
-
-#️⃣ a. Assim, a morte não nos livra da tentação?
+- a) Assim, a morte não nos livra da tentação?
 
 >Não, mas a ação dos maus Espíritos é sempre menor sobre os outros Espíritos do que sobre os homens, porque lhes falta o auxílio das paixões materiais. 👉 ([LDE-q996](#LDE-q996))
 {:.spirit}

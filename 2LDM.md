@@ -5,109 +5,29 @@ layout: default
 
 <style>
 
-blockquote {font-style: normal;}
-
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
     text-align: center;
 }
 
-h4 {color: transparent;}
+h4 {
+    color: transparent;
+    display: none
+}
 
-html {
-  width: 95vw;
-  scroll-behavior: smooth;
+blockquote.bible p:first-child::before {
+    content: "📜 ▸ ";
+    margin-left: -30px;
 }
-section {
-  width: 55vw;
-  background-color: whitesmoke;
-  padding-left: 50px;
-  padding-right: 50px;
-  margin-top: -60px;
-  padding-top: 60px;
 
+blockquote.spirit p:first-child::before {
+    content: "👻 ▸ ";
+    margin-left: -30px;
 }
-.wrapper {
-  width: 95vw;
-}
-body {
-  font-size: 16px;
-}
-header {font-size: 13px; overflow: scroll; width: 30vw; margin-left: -30px;}
-th,
-td {
-  border: none;
-}
-th, a:any-link {
-  font-weight: normal;
-  }
 
 </style>
-
-<script src="https://hypothes.is/embed.js" async></script>
-
-<style>
-
- blockquote.spirit {
-  border-left: 2px solid dodgerblue;
-  margin-left: 10px;
-}
-blockquote.spirit p:first-child::before {
-  content: "👻 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-blockquote.king {
-  border-left: 2px solid gold;
-  margin-left: 10px;
-}
-blockquote.king p:first-child::before {
-  content: "� ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-blockquote.saint {
-  border-left: 2px solid green;
-  margin-left: 10px;
-}
-blockquote.saint p:first-child::before {
-  content: "🕊️ ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-blockquote.greek {
-  border-left: 2px solid peru;
-  margin-left: 10px;
-}
-blockquote.greek p:first-child::before {
-  content: "🏺 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-blockquote.holy {
-  border-left: 2px solid peru;
-  margin-left: 10px;
-}
-blockquote.holy p:first-child::before {
-  content: "🪔 ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-blockquote.warrior {
-  border-left: 2px solid peru;
-  margin-left: 10px;
-}
-blockquote.warrior p:first-child::before {
-  content: "🗡️ ▸ ";
-  font-style: normal;
-  margin-left: 5px;
-}
-
-  </style>
 
 # 📙 O Livro dos Médiuns {#LDM}
 

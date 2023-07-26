@@ -1,54 +1,17 @@
 ---
-title: 0. 🏠 Início
+title: doutrina.org
 layout: default
 ---
-
-<style>
-
-
-h1,h2,h3,h4 {
-    text-align: center;
-}
-
-html {
-  width: 95vw;
-  scroll-behavior: smooth;
-}
-section {
-  width: 55vw;
-  background-color: whitesmoke;
-  padding-left: 50px;
-  padding-right: 50px;
-  margin-top: -60px;
-  padding-top: 60px;
-  height: 100vw;
-
-}
-.wrapper {
-  width: 95vw;
-}
-body {
-  font-size: 16px;
-}
-header {font-size: 13px; overflow: scroll; width: 30vw; margin-left: -30px;}
-
-th, a:any-link {
-  font-weight: normal;
-  }
-
-</style>
-
-<script src="https://hypothes.is/embed.js" async></script>
 
 # Bem vindo!
 
 | Livro  |  Status  | 
 | --- | ---: |
-| <a href="./LDE.html" title="o livro dos espíritos">📘 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
-| <a href="./LDM.html" title="o livro dos médiuns">📙 O Livro dos Médiuns</a>   | beta ➡ 🟢 |
-| <a href="./ESE.html" title="o evangelho segundo o espiritismo">📗 O Evangelho segundo o Espiritismo </a>   | alfa ➡ 🟡 |
-| 📕 O Céu e o Inferno   | aguardando ➡ 🔴 |
-| 📓 A Gênese   | aguardando ➡ 🔴 |
+| <a href="./1LDE.html" title="o livro dos espíritos">📘 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
+| <a href="./2LDM.html" title="o livro dos médiuns">📙 O Livro dos Médiuns</a>   | beta ➡ 🟢 |
+| <a href="./3ESE.html" title="o evangelho segundo o espiritismo">📗 O Evangelho segundo o Espiritismo</a>   | alfa ➡ 🟡 |
+| <a href="./4CEU.html" title="o céu e o inferno">📕 O Céu e o Inferno</a>   | aguardando ➡ 🔴 |
+| <a href="./5GEN.html" title="a gênese">📓 A Gênese</a>   | aguardando ➡ 🔴 |
 
 ## Legal
 
