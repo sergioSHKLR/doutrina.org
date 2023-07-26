@@ -88,3 +88,7 @@ blockquote.quote p:first-child::before {
     content: "💬 ▸ ";
     margin-left: -30px;
 }
+
+blockquote.transparent {
+    border-color: transparent;
+}
