@@ -1,5 +1,5 @@
 blockquote {
-    border-left: 1px solid gainsboro;
+    border-left: 2px solid lightgrey;
     margin-left: 10px;
     padding-left: 50px
 }
@@ -28,7 +28,7 @@ h5 {
 
 hr {
     border-bottom: 0;
-    border-top: 1px solid gainsboro;
+    border-top: 1px solid lightgrey;
     width: 80%
 }
 
@@ -64,7 +64,7 @@ nav {
     background-color: whitesmoke;
     padding: 10px;
 }
-
+/*
 blockquote.quote p:first-child::before {
     content: open-quote" ";
     font-size: 200%;
@@ -78,10 +78,13 @@ blockquote.quote p:first-child::after {
     vertical-align: bottom;
     line-height: .5;
 }
-
+*/
 a {  text-underline-offset: 0.3em;
     text-decoration-skip-ink: auto;
     text-decoration-thickness: .5px;
     text-decoration-style: dotted;
 }
-
+blockquote.quote p:first-child::before {
+    content: "💬 ▸ ";
+    margin-left: -30px;
+}

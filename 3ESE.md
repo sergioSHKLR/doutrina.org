@@ -1,5 +1,5 @@
 ---
-title: 3. 📗 ESE
+title: 📗 ESE
 layout: default
 ---
 
@@ -139,7 +139,7 @@ A nossa opinião não passa, aos nossos próprios olhos, de uma opinião pessoal
 
 Na posição em que nos encontramos, a receber comunicações de perto de mil centros espíritas sérios, disseminados pelos mais diversos pontos da Terra, achamo-nos em condições de observar sobre que princípio se estabelece a concordância. Essa observação é que nos tem guiado até hoje e é a que nos guiará em novos campos que o Espiritismo terá de explorar. Porque, estudando atentamente as comunicações vindas tanto da França como do estrangeiro, reconhecemos, pela natureza toda especial das revelações, que ele tende a entrar por um novo caminho e que lhe chegou o momento de dar um passo para diante. Essas revelações, feitas muitas vezes com palavras veladas, hão frequentemente passado despercebidas a muitos dos que as obtiveram. Outros julgaram-se os únicos a possuí-las. Tomadas insuladamente, elas, para nós, nenhum valor teriam; somente a coincidência lhes imprime gravidade. Depois, chegado o momento de serem entregues à publicidade, cada um se lembrará de haver obtido instruções no mesmo sentido. Esse movimento geral, que observamos e estudamos, com a assistência dos nossos guias espirituais, é que nos auxilia a julgar da oportunidade de fazermos ou não alguma coisa.
 
-Essa verificação universal constitui uma garantia para a unidade futura do Espiritismo e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da verdade. O que deu lugar ao êxito da doutrina exposta em [📘 O Livro dos Espíritos](https://doutrina.org/1LDE.html) e em [📙 O Livro dos Médiuns](https://doutrina.org/2LDM.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
+Essa verificação universal constitui uma garantia para a unidade futura do Espiritismo e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da verdade. O que deu lugar ao êxito da doutrina exposta em [📘 O Livro dos Espíritos](./1LDE.html) e em [📙 O Livro dos Médiuns](./2LDM.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
 
 Suponhamos praza a alguns Espíritos ditar, sob qualquer título, um livro em sentido contrário; suponhamos mesmo que, com intenção hostil, objetivando desacreditar a doutrina, a malevolência suscitasse comunicações apócrifas; que influência poderiam exercer tais escritos, desde que de todos os lados os desmentissem os Espíritos? É com a adesão destes que se deve garantir aquele que queira lançar, em seu nome, um sistema qualquer. Do sistema de um só ao de todos, medeia a distância que vai da unidade ao infinito. Que poderão conseguir os argumentos dos detratores, sobre a opinião das massas, quando milhões de vozes amigas, provindas do Espaço, se façam ouvir em todos os recantos do Universo e no seio das famílias, a infirmá-los? A esse respeito já não foi a teoria confirmada pela experiência? Que é feito das inúmeras publicações que traziam a pretensão de arrasar o Espiritismo? Qual a que nem lhe retardou a marcha? Até agora, não se considera a questão desse ponto de vista, sem contestação um dos mais graves. Cada um contou consigo, sem contar com os Espíritos.
 
@@ -281,9 +281,9 @@ Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o
 
 Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 
 
->*Se alguém vos bater numa face, apresentai-lhe a outra.*
+>*... se qualquer te bater na face direita, oferece-lhe também a outra ...*
 >
->LIVRO? Cap. 12, itens 7 e 8
+>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 39](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=se%20qualquer%20te%20bater%20na%20face%20direita%2C%20oferece%2Dlhe%20tamb%C3%A9m%20a%20outra%3B), [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 {:start="11"}
@@ -336,9 +336,9 @@ O amor, que há de unir os homens por um laço fraternal, é uma consequência d
 
 Diz o Evangelho: 
 
->Vedes a palha que está no olho do vosso próximo e não vedes a trave que está no vosso.
+>*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?*
 >
-> Mateus cap. 7 vers. 5 e Lucas cap. 6 vers. 42
+>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.ARC#:~:text=E%20por%20que%20reparas%20tu%20no%20argueiro%20que%20est%C3%A1%20no%20olho%20do%20teu%20irm%C3%A3o%20e%20n%C3%A3o%20v%C3%AAs%20a%20trave%20que%20est%C3%A1%20no%20teu%20olho%3F), ARC ; Lucas cap. 6 vers. 42
 >LIVRO? Cap. 10, itens 9 e 10
 {:.bible}
 
@@ -372,9 +372,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ### 📑 01. Não vim destruir a lei {#ESE-1-01}
 
-1. >*Não penseis que vim revogar a lei ou os profetas; não vim revogar, mas cumprir. Porque em verdade vos digo: Enquanto não passar o céu e a terra, de modo nenhum passará da lei um só i ou um só til, sem que tudo se cumpra.*
+1. >*Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir. Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota ou um til se omitirá da lei sem que tudo seja cumprido.*
    >
-   >Mateus, cap. 5, vers. 17-18
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 17-18](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=N%C3%A3o%20cuideis%20que%20vim%20destruir%20a%20lei%20ou%20os%20profetas%3B%20n%C3%A3o%20vim%20ab%2Drogar%2C%20mas%20cumprir.%2018Porque%20em%20verdade%20vos%20digo%20que%2C%20at%C3%A9%20que%20o%20c%C3%A9u%20e%20a%20terra%20passem%2C%20nem%20um%20jota%20ou%20um%20til%20se%20omitir%C3%A1%20da%20lei%20sem%20que%20tudo%20seja%20cumprido.)
    {:.bible}
 
 ---
@@ -481,7 +481,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.
    >
    >Um Espírito israelita   
-   >🇫🇷 Mulhouse, 1861
+   >🇫🇷 [Mulhouse](./map.html), 1861
    {:.spirit}
 
 {:start="10"}
@@ -734,7 +734,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: *Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou?* — Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: *E vós, quem dizeis que Eu sou?* — Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: *Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.*
    >
-   >Mateus, 16:13 a 17; Marcos, 8:27 a 30
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), 16:13 a 17; Marcos, 8:27 a 30
    {:.bible}
 
 {:start="2"}
@@ -746,7 +746,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="3"}
 3. >(Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: *É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem.* — Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
    >
-   >Mateus, 17:10 a 13; Marcos, 9:11 a 13
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), 17:10 a 13; Marcos, 9:11 a 13
    {:.bible}
 
 ---
@@ -796,7 +796,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="10"}
 10. >*Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir.* 
     >
-    >Mateus, cap. 11, vers. 12 a 15**
+    >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 11, vers. 12 a 15**
     {:.bible}
 
 {:start="11"}
@@ -940,7 +940,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Bem-aventurados os que choram, pois que serão consolados. Bem-aventurados os famintos e os sequiosos de justiça, pois que serão saciados. Bem-aventurados os que sofrem perseguição pela justiça, pois que é deles o Reino dos Céus.*
     >
-    >Mateus, cap. 5, vers. 4, 6 e 10**
+    >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 4, 6 e 10**
     {:.bible}
 
 2. >*Bem-aventurados vós, que sois pobres, porque vosso é o Reino dos Céus. Bem-aventurados vós, que agora tendes fome, porque sereis saciados. Ditosos sois, vós que agora chorais, porque rireis.*
@@ -1319,7 +1319,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Vinde a mim, todos vós que estais aflitos e sobrecarregados, que Eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração e achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.*
     >
-    >Mateus, cap. 11, vers. 28 a 30**
+    >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 11, vers. 28 a 30**
     {:.bible}
 
 2. Todos os sofrimentos: misérias, decepções, dores físicas, perda de seres amados, encontram consolação na fé no futuro, na confiança na Justiça de Deus, que o Cristo veio ensinar aos homens. Sobre aquele que, ao contrário, nada espera após esta vida, ou que simplesmente duvida, as aflições caem com todo o seu peso e nenhuma esperança lhe mitiga o amargor. Foi isso que levou Jesus a dizer: 
@@ -1403,7 +1403,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Bem-aventurados os pobres de espírito, pois que deles é o Reino dos Céus.*
    >
-   >Mateus, cap. 5, vers. 3
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 3
    {:.bible}
 
 2. A incredulidade zombou desta máxima: Bem-aventurados os pobres de espírito, como tem zombado de muitas outras coisas que não compreende. Por pobres de espírito Jesus não entende os baldos de inteligência, mas os humildes, tanto que diz ser para estes o Reino dos Céus, e não para os orgulhosos.
@@ -1426,7 +1426,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >Jesus, chamando a si um menino, o colocou no meio deles e respondeu:  
    >— *Digo-vos, em verdade, que, se não vos converterdes e tornardes quais crianças, não entrareis no Reino dos Céus. Aquele, portanto, que se humilhar e se tornar pequeno como esta criança será o maior no Reino dos Céus e aquele que recebe em meu nome a uma criança, tal como acabo de dizer, é a mim mesmo que recebe*.
    >
-   >Mateus, cap. 18, vers. 1 a 5
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 18, vers. 1 a 5
    {:.bible}
 
 4. >Então, a mãe dos filhos de Zebedeu se aproximou dele com seus dois filhos e o adorou, dando a entender que lhe queria pedir alguma coisa. Disse-lhe Ele:  
@@ -1440,7 +1440,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >Ouvindo isso, os dez outros apóstolos se encheram de indignação contra os dois irmãos. Jesus, chamando-os para perto de si, lhes disse:  
    >— *Sabeis que os príncipes das nações as dominam e que os grandes as tratam com império. Assim não deve ser entre vós; ao contrário, aquele que quiser tornar-se o maior, seja vosso servo; e aquele que quiser ser o primeiro entre vós seja vosso escravo; do mesmo modo que o Filho do Homem não veio para ser servido, mas para servir e dar a vida pela redenção de muitos.*  
    >
-   >Mateus, cap. 20, vers. 20 a 28
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 20, vers. 20 a 28
    {:.bible}
 
 5. >Jesus entrou em dia de sábado na casa de um dos principais fariseus para aí fazer a sua refeição. Os que lá estavam o observaram. Então, notando que os convidados escolhiam os primeiros lugares, propôs-lhes uma parábola, dizendo:  
@@ -1465,7 +1465,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 7. >Disse, então, Jesus estas palavras:  
    >— *Graças te rendo, meu Pai, Senhor do céu e da Terra, por haveres ocultado estas coisas aos doutos e aos prudentes e por as teres revelado aos simples e aos pequenos.*
    >
-   >Mateus, cap. 11, vers. 25
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 11, vers. 25
    {:.bible}
 
 8. Pode parecer singular que Jesus renda graças a Deus, por haver revelado estas coisas aos simples e aos pequenos, que são os pobres de espírito, e por as ter ocultado aos doutos e aos prudentes, mais aptos, na aparência, a compreendê-las. É que cumpre se entenda que os primeiros são os humildes, são os que se humilham diante de Deus e não se consideram superiores a toda a gente. Os segundos são os orgulhosos, envaidecidos do seu saber mundano, os quais se julgam prudentes porque negam e tratam a Deus de igual para igual, quando não se recusam a admiti-lo, porquanto, na antiguidade, douto era sinônimo de sábio. Por isso é que Deus lhes deixa a pesquisa dos segredos da Terra e revela os do céu aos simples e aos humildes que diante dele se prostram.
@@ -1552,7 +1552,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Bem-aventurados os que têm puro o coração, porquanto verão a Deus.*
    >
-   >Mateus, cap. 5, vers. 8
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 8
    {:.bible}
 
 2. >Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, Jesus, vendo isso, zangou-se e lhes disse:  
@@ -1581,7 +1581,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 5. >Aprendestes que foi dito aos antigos:   
    >— *Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.*  
    >
-   >Mateus, cap. 5, vers. 27 e 28
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 27 e 28
    {:.bible}
 
 6. >A palavra adultério não deve absolutamente ser entendida aqui no sentido exclusivo da acepção que lhe é própria, porém, num sentido mais geral. Muitas vezes Jesus a empregou por extensão, para designar o mal, o pecado, todo e qualquer pensamento mau, como, por exemplo, nesta passagem:  
@@ -1618,7 +1618,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >Ele, porém, respondeu:   
    >— *Arrancada será toda planta que meu Pai celestial não plantou. Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.*
    >
-   >Mateus, cap. 15, vers. 1 a 20
+   >[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 15, vers. 1 a 20
    {:.bible}
 
 9. >Enquanto Ele falava, um fariseu lhe pedia que fosse jantar em sua companhia. Jesus foi e sentou-se à mesa. O fariseu entrou então a dizer consigo mesmo:  
@@ -1669,35 +1669,489 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 #### 05 📃 Instruções dos Espíritos {#ESE-1-08-05}
 
----
-
 **Deixai que venham a mim as criancinhas**
 
-CONTENT
+{:start="18"}
+18. >Disse o Cristo: *Deixai que venham a mim as criancinhas.* Profundas em sua simplicidade, essas palavras não continham um simples chamamento dirigido às crianças, mas também o das almas que gravitam nas regiões inferiores, onde o infortúnio desconhece a esperança. Jesus chamava a si a infância intelectual da criatura formada: os fracos, os escravizados e os viciosos. Ele nada podia ensinar à infância física, presa à matéria, submetida ao jugo do instinto, ainda não incluída na categoria superior da razão e da vontade que se exercem em torno dela e por ela.
+    >
+    >Queria que os homens a Ele fossem com a confiança daqueles entezinhos de passos vacilantes, cujo chamamento conquistava, para o seu, o coração das mulheres, que são todas mães. Submetia assim as almas à sua terna e misteriosa autoridade. Ele foi o facho que ilumina as trevas, a claridade matinal que toca a despertar; foi o iniciador do Espiritismo, que a seu turno atrairá para Ele, não as criancinhas, mas os homens de boa vontade. Está empenhada a ação viril; já não se trata de crer instintivamente, nem de obedecer maquinalmente; é preciso que o homem siga a lei inteligente que se lhe revela na sua universalidade.
+    >
+    >Meus bem-amados, são chegados os tempos em que, explicados, os erros se tornarão verdades. Ensinar-vos-emos o sentido exato das parábolas e vos mostraremos a forte correlação que existe entre o que foi e o que é. Digo-vos, em verdade: a manifestação espírita avulta no horizonte, e aqui está o seu enviado, que vai resplandecer como o Sol no cume dos montes.
+    >
+    >João Evangelista  
+    >🇫🇷 Paris, 1863
+    {:.spirit}
+
+{:start="19"}
+19. >Deixai venham a mim as criancinhas, pois tenho o leite que fortalece os fracos. Deixai venham a mim todos os que, tímidos e débeis, necessitam de amparo e consolação. Deixai venham a mim os ignorantes, para que eu os esclareça. Deixai venham a mim todos os que sofrem, a multidão dos aflitos e dos infortunados: Eu lhes ensinarei o grande remédio que suaviza os males da vida e lhes revelarei o segredo da cura de suas feridas! Qual é, meus amigos, esse bálsamo soberano, que possui tão grande virtude, que se aplica a todas as chagas do coração e as cicatriza? É o amor, é a caridade! Se possuís esse fogo divino, que é o que podereis temer? Direis a todos os instantes de vossa vida: “Meu Pai, que a tua vontade se faça e não a minha; se te apraz experimentar-me pela dor e pelas tribulações, bendito sejas, porquanto é para meu bem, eu o sei, que a tua mão sobre mim se abate. Se é do teu agrado, Senhor, ter piedade da tua criatura fraca, dar-lhe ao coração as alegrias sãs, bendito sejas ainda. Mas faze que o amor divino não lhe fique amodorrado na alma, que incessantemente faça subir aos teus pés o testemunho do seu reconhecimento!”
+    >
+    >Se tendes amor, possuís tudo o que há de desejável na Terra, possuís preciosíssima pérola, que nem os acontecimentos, nem as maldades dos que vos odeiem e persigam poderão arrebatar. Se tendes amor, tereis colocado o vosso tesouro lá onde os vermes e a ferrugem não o podem atacar e vereis apagar-se da vossa alma tudo o que seja capaz de lhe conspurcar a pureza; sentireis diminuir dia a dia o peso da matéria e, qual pássaro que adeja nos ares e já não se lembra da Terra, subireis continuamente, subireis sempre, até que vossa alma, inebriada, se farte do seu elemento de vida no seio do Senhor.
+    >
+    >Um Espírito protetor  
+    >🇫🇷 Bordeaux, 1861
+    {:.spirit}
 
 ---
 
-**Bem-aventurados os que têm fechados os olhos**
+**Bem-aventurados os que têm fechados os olhos [^12]**
 
-CONTENT
+{:start="20"}
+20. >Meus bons amigos, para que me chamastes? Terá sido para que eu imponha as mãos sobre a pobre sofredora que está aqui e a cure? Ah! que sofrimento, bom Deus! Ela perdeu a vista e as trevas a envolveram. Pobre filha! Que ore e espere. Não sei fazer milagres, eu, sem que Deus o queira. Todas as curas que tenho podido obter e que vos foram assinaladas não as atribuais senão àquele que é o Pai de todos nós. Nas vossas aflições, volvei sempre para o céu o olhar e dizei do fundo do coração: “Meu Pai, cura-me, mas faze que minha alma enferma se cure antes que o meu corpo; que a minha carne seja castigada, se necessário, para que minha alma se eleve ao teu seio, com a brancura que possuía quando a criaste.” Após essa prece, meus amigos, que o bom Deus ouvirá sempre, dadas vos serão a força e a coragem e, quiçá, também a cura que apenas timidamente pedistes, em recompensa da vossa abnegação.
+    >
+    >Contudo, uma vez que aqui me acho, numa assembleia onde principalmente se trata de estudos, dir-vos-ei que os que são privados da vista deveriam considerar-se os bem-aventurados da expiação. Lembrai-vos de que o Cristo disse convir que arrancásseis o vosso olho se fosse mau, e que mais valeria lançá-lo ao fogo, do que deixar se tornasse causa da vossa condenação. Ah! quantos há no mundo que um dia, nas trevas, maldirão o terem visto a luz! Oh! sim, como são felizes os que, por expiação, vêm a ser atingidos na vista! Os olhos não lhes serão causa de escândalo e de queda; podem viver inteiramente da vida das almas; podem ver mais do que vós que tendes límpida a visão!... Quando Deus me permite descerrar as pálpebras a algum desses pobres sofredores e lhes restituir a luz, digo a mim mesmo: Alma querida, por que não conheces todas as delícias do Espírito que vive de contemplação e de amor? Não pedirias, então, que se te concedesse ver imagens menos puras e menos suaves do que as que te é dado entrever na tua cegueira!
+    >
+    >Oh! bem-aventurado o cego que quer viver com Deus. Mais ditoso do que vós que aqui estais, ele sente a felicidade, toca-a, vê as almas e pode alçar-se com elas às esferas espirituais que nem mesmo os predestinados da Terra logram divisar. Abertos, os olhos estão sempre prontos a causar a falência da alma; fechados, estão prontos sempre, ao contrário, a fazê-la subir para Deus. Crede-me, bons e caros amigos, a cegueira dos olhos é, muitas vezes, a verdadeira luz do coração, ao passo que a vista é, com frequência, o anjo tenebroso que conduz à morte.
+    >
+    >Agora, algumas palavras dirigidas a ti, minha pobre sofredora. Espera e tem ânimo! Se eu te dissesse: Minha filha, teus olhos vão abrir-se, quão jubilosa te sentirias! Mas quem sabe se esse júbilo não ocasionaria a tua perda! Confia no bom Deus, que fez a ventura e permite a tristeza. Farei tudo o que me for consentido a teu favor; mas, a teu turno, ora e, ainda mais, pensa em tudo quanto acabo de te dizer.
+    >
+    >Antes que me vá, recebei todos vós, que aqui vos achais reunidos, a minha bênção.
+    >
+    >Vianney, cura d’Ars  
+    >🇫🇷 Paris, 1863
+    {:.spirit}
+
+{:start="21"}
+21. 📝 Nota. Quando uma aflição não é consequência dos atos da vida presente, deve-se-lhe buscar a causa numa vida anterior. Tudo aquilo a que se dá o nome de caprichos da sorte mais não é do que efeito da Justiça de Deus, que não inflige punições arbitrárias, pois quer que a pena esteja sempre em correlação com a falta. Se, por sua bondade, lançou um véu sobre os nossos atos passados, por outro lado nos aponta o caminho, dizendo: “Quem matou à espada, pela espada perecerá”, palavras que se podem traduzir assim: “A criatura é sempre punida por aquilo em que pecou.” Se, portanto, alguém sofre o tormento da perda da vista, é que esta lhe foi causa de queda. Talvez tenha sido também causa de que outro perdesse a vista; de que alguém haja perdido a vista em consequência do excesso de trabalho que aquele lhe impôs, ou de maus-tratos, de falta de cuidados etc. Nesse caso, passa ele pela pena de talião. É possível que ele próprio, tomado de arrependimento, haja escolhido essa expiação, aplicando a si estas palavras de Jesus: “Se o teu olho for motivo de escândalo, arranca-o.”
 
 ---
 
 ### 📑 09. Bem-aventurados os que são brandos e pacíficos {#ESE-1-09}
 
-INDEX
+**Injúrias e violências**
+
+1. >*... bem-aventurados os mansos, porque eles herdarão a terra ...*
+   >
+   >Mateus, cap. 5, vers. 5, ARC
+   {:.bible}
+
+2. >*... bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus ...*
+   >
+   >Mateus, cap. 5, vers. 9, ARC
+   {:.bible}
+
+3. >*Ouvistes que foi dito aos antigos: Não matarás; mas qualquer que matar será réu de juízo. Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão será réu de juízo, e qualquer que chamar a seu irmão de raca será réu do Sinédrio; e qualquer que lhe chamar de louco será réu do fogo do inferno.*
+   >
+   >Mateus, cap. 5, vers. 21-22, ARC
+   {:.bible}
+
+4. Por estas máximas, Jesus faz da brandura, da moderação, da mansuetude, da afabilidade e da paciência, uma lei. Condena, por conseguinte, a violência, a cólera e até toda expressão descortês de que alguém possa usar para com seus semelhantes. Raca, entre os hebreus, era um termo desdenhoso que significava — homem que não vale nada, e se pronunciava cuspindo e virando para o lado a cabeça. Vai mesmo mais longe, pois que ameaça com o fogo do inferno aquele que disser a seu irmão: És louco.
+
+    Evidente se torna que aqui, como em todas as circunstâncias, a intenção agrava ou atenua a falta; mas em que pode uma simples palavra revestir-se de tanta gravidade que mereça tão severa reprovação? É que toda palavra ofensiva exprime um sentimento contrário à lei de amor e da caridade que deve presidir às relações entre os homens e manter entre eles a concórdia e a união; é que constitui um golpe desferido na benevolência recíproca e na fraternidade; é que entretém o ódio e a animosidade; é, enfim, que, depois da humildade para com Deus, a caridade para com o próximo é a lei primeira de todo cristão.
+
+5. Que queria Jesus dizer por estas palavras: “Bem-aventurados os que são brandos, porque possuirão a Terra”, tendo recomendado aos homens que renunciassem aos bens deste mundo e havendo-lhes prometido os do céu?
+
+    Enquanto aguarda os bens do céu, tem o homem necessidade dos da Terra para viver. Apenas, o que Ele lhe recomenda é que não ligue a estes últimos mais importância do que aos primeiros.
+
+    Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcados pelos violentos, em prejuízo dos que são brandos e pacíficos; que a estes falta muitas vezes o necessário, ao passo que outros têm o supérfluo. Promete que justiça lhes será feita, assim na Terra como no céu, porque serão chamados filhos de Deus. Quando a Humanidade se submeter à lei de amor e de caridade, deixará de haver egoísmo; o fraco e o pacífico já não serão explorados, nem esmagados pelo forte e pelo violento. Tal a condição da Terra, quando, de acordo com a lei do progresso e a promessa de Jesus, se houver tornado mundo ditoso, por efeito do afastamento dos maus.
+
+#### Instruções dos Espíritos
+
+##### A afabilidade e a doçura
+
+{:start="6"}
+6. >A benevolência para com os seus semelhantes, fruto do amor ao próximo, produz a afabilidade e a doçura, que lhe são as formas de manifestar-se. Entretanto, nem sempre há que fiar nas aparências. A educação e a frequentação do mundo podem dar ao homem o verniz dessas qualidades. Quantos há cuja fingida bonomia não passa de máscara para o exterior, de uma roupagem cujo talhe primoroso dissimula as deformidades interiores! O mundo está cheio dessas criaturas que têm nos lábios o sorriso e no coração o veneno; que são brandas, desde que nada as agaste, mas que mordem à menor contrariedade; cuja língua, de ouro quando falam pela frente, se muda em dardo peçonhento, quando estão por detrás.
+    >
+    >A essa classe também pertencem esses homens, de exterior benigno, que, tiranos domésticos, fazem que suas famílias e seus subordinados lhes sofram o peso do orgulho e do despotismo, como a quererem desforrar-se do constrangimento que, fora de casa, se impõem a si mesmos. Não se atrevendo a usar de autoridade para com os estranhos, que os chamariam à ordem, acham que pelo menos devem fazer-se temidos daqueles que lhes não podem resistir. Envaidecem-se de poderem dizer: “Aqui mando e sou obedecido”, sem lhes ocorrer que poderiam acrescentar: “E sou detestado.”
+    >
+    >Não basta que dos lábios manem leite e mel. Se o coração de modo algum lhes está associado, só há hipocrisia. Aquele cuja afabilidade e doçura não são fingidas nunca se desmente: é o mesmo, tanto em sociedade, como na intimidade. Esse, ademais, sabe que se, pelas aparências, se consegue enganar os homens, a Deus ninguém engana.
+    >
+    >Lázaro  
+    >🇫🇷 Paris, 1861
+    {:.spirit}
+
+##### A paciência
+
+{:start="7"}
+7. >A dor é uma bênção que Deus envia a seus eleitos; não vos aflijais, pois, quando sofrerdes; antes, bendizei de Deus onipotente que, pela dor, neste mundo, vos marcou para a glória no céu.
+   >
+   >Sede pacientes. A paciência também é uma caridade e deveis praticar a lei de caridade ensinada pelo Cristo, enviado de Deus. A caridade que consiste na esmola dada aos pobres é a mais fácil de todas. Outra há, porém, muito mais penosa e, conseguintemente, muito mais meritória: a de perdoarmos aos que Deus colocou em nosso caminho para serem instrumentos do nosso sofrer e para nos porem à prova a paciência.
+   >
+   >A vida é difícil, bem o sei. Compõe-se de mil nadas, que são outras tantas picadas de alfinetes, mas que acabam por ferir. Se, porém, atentarmos nos deveres que nos são impostos, nas consolações e compensações que, por outro lado, recebemos, havemos de reconhecer que são as bênçãos muito mais numerosas do que as dores. O fardo parece menos pesado, quando se olha para o alto, do que quando se curva para a terra a fronte.
+   >
+   >Coragem, amigos! Tendes no Cristo o vosso modelo. Mais sofreu Ele do que qualquer de vós e nada tinha de que se penitenciar, ao passo que vós tendes de expiar o vosso passado e de vos fortalecer para o futuro. Sede, pois, pacientes, sede cristãos. Essa palavra resume tudo.
+   >
+   >Um Espírito amigo  
+   >🇫🇷 Havre, 1862
+    {:.spirit}
+
+##### Obediência e resignação
+
+{:start="8"}
+8. >A doutrina de Jesus ensina, em todos os seus pontos, a obediência e a resignação, duas virtudes companheiras da doçura e muito ativas, se bem os homens erradamente as confundam com a negação do sentimento e da vontade. A obediência é o consentimento da razão; a resignação é o consentimento do coração, forças ativas ambas, porquanto carregam o fardo das provações que a revolta insensata deixa cair. O pusilânime não pode ser resignado, do mesmo modo que o orgulhoso e o egoísta não podem ser obedientes. Jesus foi a encarnação dessas virtudes que a antiguidade material desprezava. Ele veio no momento em que a sociedade romana perecia nos desfalecimentos da corrupção. Veio fazer que, no seio da Humanidade deprimida, brilhassem os triunfos do sacrifício e da renúncia carnal.
+    >
+    >Cada época é marcada, assim, com o cunho da virtude ou do vício que a tem de salvar ou perder. A virtude da vossa geração é a atividade intelectual; seu vício é a indiferença moral. Digo, apenas, atividade, porque o gênio se eleva de repente e descobre, por si só, horizontes que a multidão somente mais tarde verá, enquanto a atividade é a reunião dos esforços de todos para atingir um fim menos brilhante, mas que prova a elevação intelectual de uma época. Submetei-vos à impulsão que vimos dar aos vossos espíritos; obedecei à grande lei do progresso, que é a palavra da vossa geração. Ai do espírito preguiçoso, ai daquele que cerra o seu entendimento! Ai dele! porquanto nós, que somos os guias da Humanidade em marcha, lhe aplicaremos o látego e lhe submeteremos a vontade rebelde, por meio da dupla ação do freio e da espora. Toda resistência orgulhosa terá de, cedo ou tarde, ser vencida. Bem-aventurados, no entanto, os que são brandos, pois prestarão dócil ouvido aos ensinos.
+    >
+    >Lázaro  
+    >🇫🇷 Paris, 1863
+    {:.spirit}
+
+##### A cólera
+
+{:start="9"}
+9. >O orgulho vos induz a julgar-vos mais do que sois; a não suportardes uma comparação que vos possa rebaixar; a vos considerardes, ao contrário, tão acima dos vossos irmãos, quer em espírito, quer em posição social, quer mesmo em vantagens pessoais, que o menor paralelo vos irrita e aborrece. Que sucede então? Entregai-vos à cólera.
+    >
+    >Pesquisai a origem desses acessos de demência passageira que vos assemelham ao bruto, fazendo-vos perder o sangue-frio e a razão; pesquisai e, quase sempre, deparareis com o orgulho ferido. Que é o que vos faz repelir, coléricos, os mais ponderados conselhos, senão o orgulho ferido por uma contradição? Até mesmo as impaciências, que se originam de contrariedades muitas vezes pueris, decorrem da importância que cada um liga à sua personalidade, diante da qual entende que todos se devem dobrar.
+    >
+    >Em seu frenesi, o homem colérico a tudo se atira: à natureza bruta, aos objetos inanimados, quebrando-os porque lhe não obedecem. Ah! se nesses momentos pudesse ele observar-se a sangue-frio, ou teria medo de si próprio, ou bem ridículo se acharia! Imagine ele por aí que impressão produzirá nos outros. Quando não fosse pelo respeito que deve a si mesmo, cumpria-lhe esforçar-se por vencer um pendor que o torna objeto de piedade.
+    >
+    >Se ponderasse que a cólera a nada remedeia, que lhe altera a saúde e compromete até a vida, reconheceria ser ele próprio a sua primeira vítima. Outra consideração, sobretudo, devera contê-lo, a de que torna infelizes todos os que o cercam. Se tem coração, não lhe será motivo de remorso fazer que sofram os entes a quem mais ama? E que pesar mortal se, num acesso de fúria, praticasse um ato que houvesse de deplorar toda a sua vida!
+    >
+    >Em suma, a cólera não exclui certas qualidades do coração, mas impede se faça muito bem e pode levar à prática de muito mal. Isto deve bastar para induzir o homem a esforçar-se pela dominar. O espírita, ademais, é concitado a isso por outro motivo: o de que a cólera é contrária à caridade e à humildade cristãs.
+    >
+    >Um Espírito protetor  
+    >🇫🇷 Bordeaux, 1863
+    {:.spirit}
+
+{:start="10"}
+10. >Segundo a ideia falsíssima de que lhe não é possível reformar a sua própria natureza, o homem se julga dispensado de empregar esforços para se corrigir dos defeitos em que de boa vontade se compraz, ou que exigiriam muita perseverança para serem extirpados. É assim, por exemplo, que o indivíduo, propenso a encolerizar-se, quase sempre se desculpa com o seu temperamento. Em vez de se confessar culpado, lança a culpa ao seu organismo, acusando a Deus, dessa forma, de suas próprias faltas. É ainda uma consequência do orgulho que se encontra de permeio a todas as suas imperfeições.
+    >
+    >Indubitavelmente, temperamentos há que se prestam mais que outros a atos violentos, como há músculos mais flexíveis que se prestam melhor aos atos de força. Não acrediteis, porém, que aí resida a causa primordial da cólera e persuadi-vos de que um Espírito pacífico, ainda que num corpo bilioso, será sempre pacífico, e que um Espírito violento, mesmo num corpo linfático, não será brando; somente a violência tomará outro caráter. Não dispondo de um organismo próprio a lhe secundar a violência, a cólera tornar-se-á concentrada, enquanto no outro caso será expansiva.
+    >
+    >O corpo não dá cólera àquele que não na tem, do mesmo modo que não dá os outros vícios. Todas as virtudes e todos os vícios são inerentes ao Espírito. A não ser assim, onde estariam o mérito e a responsabilidade? O homem deformado não pode tornar-se direito, porque o Espírito nisso não pode atuar; mas pode modificar o que é do Espírito, quando o quer com vontade firme. Não vos mostra a experiência, a vós espíritas, até onde é capaz de ir o poder da vontade, pelas transformações verdadeiramente miraculosas que se operam sob as vossas vistas? Compenetrai-vos, pois, de que o homem não se conserva vicioso, senão porque quer permanecer vicioso; de que aquele que queira corrigir-se sempre o pode. De outro modo, não existiria para o homem a lei do progresso.
+    >
+    >Hahnemann  
+    >🇫🇷 Paris, 1863
+    {:.spirit}
 
 ---
 
-### 📑 10. Bem-aventurdaos os que são misericordiosos {#ESE-1-10}
+### 📑 10. Bem-aventurados os que são misericordiosos {#ESE-1-10}
 
-INDEX
+#### Perdoai, para que Deus vos perdoe
+
+1. >*... bem-aventurados os misericordiosos, porque eles alcançarão misericórdia ...*
+   >
+   >Mateus, cap. 5, vers. 7, ARC
+   {:.bible}
+    
+2. >*Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós. Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.*
+   >
+   >Mateus, cap. 6, vers. 14-15, ARC
+   {:.bible}
+
+3. >*Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão. Então, Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? Jesus lhe disse: Não te digo que até sete, mas até setenta vezes sete.*
+   >
+   >Mateus, cap. 18, vers. 15, 21-22, ARC
+   {:.bible}
+
+4. A misericórdia é o complemento da brandura, porquanto aquele que não for misericordioso não poderá ser brando e pacífico. Ela consiste no esquecimento e no perdão das ofensas. O ódio e o rancor denotam alma sem elevação, nem grandeza. O esquecimento das ofensas é próprio da alma elevada, que paira acima dos golpes que lhe possam desferir. Uma é sempre ansiosa, de sombria suscetibilidade e cheia de fel; a outra é calma, toda mansidão e caridade.
+
+    Ai daquele que diz: nunca perdoarei. Esse, se não for condenado pelos homens, sê-lo-á por Deus. Com que direito reclamaria ele o perdão de suas próprias faltas, se não perdoa as dos outros? Jesus nos ensina que a misericórdia não deve ter limites, quando diz que cada um perdoe ao seu irmão, não sete vezes, mas setenta vezes sete vezes.
+    
+    Há, porém, duas maneiras bem diferentes de perdoar: uma, grande, nobre, verdadeiramente generosa, sem pensamento oculto, que evita, com delicadeza, ferir o amor-próprio e a suscetibilidade do adversário, ainda quando este último nenhuma justificativa possa ter; a segunda é a em que o ofendido, ou aquele que tal se julga, impõe ao outro condições humilhantes e lhe faz sentir o peso de um perdão que irrita, em vez de acalmar; se estende a mão ao ofensor, não o faz com benevolência, mas com ostentação, a fim de poder dizer a toda gente: vede como sou generoso! Nessas circunstâncias, é impossível uma reconciliação sincera de parte a parte. Não, não há aí generosidade; há apenas uma forma de satisfazer ao orgulho. Em toda contenda, aquele que se mostra mais conciliador, que demonstra mais desinteresse, caridade e verdadeira grandeza da alma granjeará sempre a simpatia das pessoas imparciais.
+
+##### Reconciliação com os adversários
+
+{:start="5"}
+5. >*Concilia-te depressa com o teu adversário, enquanto estás no caminho com ele, para que não aconteça que o adversário te entregue ao juiz, e o juiz te entregue ao oficial, e te encerrem na prisão. Em verdade te digo que, de maneira nenhuma, sairás dali, enquanto não pagares o último ceitil.*
+   >
+   >Mateus, cap. 5, vers. 25-26, ARC
+   {:.bible}
+
+{:start="6"}
+6. Na prática do perdão, como, em geral, na do bem, não há somente um efeito moral: há também um efeito material. A morte, como sabemos, não nos livra dos nossos inimigos; os Espíritos vingativos perseguem, muitas vezes, com seu ódio, no além-túmulo, aqueles contra os quais guardam rancor; donde decorre a falsidade do provérbio que diz: “Morto o animal, morto o veneno”, quando aplicado ao homem. O Espírito mau espera que o outro, a quem ele quer mal, esteja preso ao seu corpo e, assim, menos livre, para mais facilmente o atormentar, ferir nos seus interesses, ou nas suas mais caras afeições. Nesse fato reside a causa da maioria dos casos de obsessão, sobretudo dos que apresentam certa gravidade, quais os de subjugação e possessão. O obsidiado e o possesso são, pois, quase sempre vítimas de uma vingança, cujo motivo se encontra em existência anterior, e à qual o que a sofre deu lugar pelo seu proceder. Deus o permite, para os punir do mal que a seu turno praticaram, ou, se tal não ocorreu, por haverem faltado com a indulgência e a caridade, não perdoando. Importa, conseguintemente, do ponto de vista da tranquilidade futura, que cada um repare, quanto antes, os agravos que haja causado ao seu próximo, que perdoe aos seus inimigos, a fim de que, antes que a morte lhe chegue, esteja apagado qualquer motivo de dissensão, toda causa fundada de ulterior animosidade. Por essa forma, de um inimigo encarniçado neste mundo se pode fazer um amigo no outro; pelo menos, o que assim procede põe de seu lado o bom direito e Deus não consente que aquele que perdoou sofra qualquer vingança. Quando Jesus recomenda que nos reconciliemos o mais cedo possível com o nosso adversário, não é somente objetivando apaziguar as discórdias no curso da nossa atual existência; é, principalmente, para que elas se não perpetuem nas existências futuras. Não saireis de lá, da prisão, enquanto não houverdes pago até o último centavo, isto é, enquanto não houverdes satisfeito completamente a Justiça de Deus.
+
+#### O sacrifício mais agradável a Deus
+
+{:start="7"}
+7. >*Portanto, se trouxeres a tua oferta ao altar e aí te lembrares de que teu irmão tem alguma coisa contra ti, deixa ali diante do altar a tua oferta, e vai reconciliar-te primeiro com teu irmão, e depois vem, e apresenta a tua oferta.*
+   >
+   >Mateus, cap. 5, vers. 23-24, ARC
+   {:.bible}
+
+{:start="8"}
+8. Quando diz: “Ide reconciliar-vos com o vosso irmão, antes de depordes a vossa oferenda no altar”, Jesus ensina que o sacrifício mais agradável ao Senhor é o que o homem faça do seu próprio ressentimento; que, antes de se apresentar para ser por Ele perdoado, precisa o homem haver perdoado e reparado o agravo que tenha feito a algum de seus irmãos. Só então a sua oferenda será bem-aceita, porque virá de um coração expungido de todo e qualquer pensamento mau. Ele materializou o preceito, porque os judeus ofereciam sacrifícios materiais; cumpria-lhe conformar suas palavras aos usos ainda em voga. O cristão não oferece dons materiais, pois que espiritualizou o sacrifício. Com isso, porém, o preceito ainda mais força ganha. Ele oferece sua alma a Deus e essa alma tem de ser purificada. Entrando no templo do Senhor, deve ele deixar fora todo sentimento de ódio e de animosidade, todo mau pensamento contra seu irmão. Só então os anjos levarão sua prece aos pés do Eterno. Eis aí o que ensina Jesus por estas palavras: “Deixai a vossa oferenda junto do altar e ide primeiro reconciliar-vos com o vosso irmão, se quiserdes ser agradável ao Senhor.”
+
+#### O argueiro e a trave no olho
+
+{:start="9"}
+9. >*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho? Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, estando uma trave no teu? Hipócrita, tira primeiro a trave do teu olho e, então, cuidarás em tirar o argueiro do olho do teu irmão.*
+   >
+   >Mateus, cap. 7, vers. 3-5, ARC
+   {:.bible}
+
+{:start="10"}
+10. Uma das insensatezes da Humanidade consiste em vermos o mal de outrem, antes de vermos o mal que está em nós. Para julgar-se a si mesmo, fora preciso que o homem pudesse ver seu interior num espelho, pudesse, de certo modo, transportar-se para fora de si próprio, considerar-se como outra pessoa e perguntar: Que pensaria eu se visse alguém fazer o que faço? Incontestavelmente, é o orgulho que induz o homem a dissimular, para si mesmo, os seus defeitos, tanto morais quanto físicos. Semelhante insensatez é essencialmente contrária à caridade, porquanto a verdadeira caridade é modesta, simples e indulgente. Caridade orgulhosa é um contrassenso, visto que esses dois sentimentos se neutralizam um ao outro. Com efeito, como poderá um homem, bastante presunçoso para acreditar na importância da sua personalidade e na supremacia das suas qualidades, possuir ao mesmo tempo abnegação bastante para fazer ressaltar em outrem o bem que o eclipsaria, em vez do mal que o exalçaria? Por isso mesmo, porque é o pai de muitos vícios, o orgulho é também a negação de muitas virtudes. Ele se encontra na base e como móvel de quase todas as ações humanas. Essa a razão por que Jesus se empenhou tanto em combatê-lo, como principal obstáculo ao progresso.
+
+#### Não julgueis, para não serdes julgados. Atire a primeira pedra aquele que estiver sem pecado
+
+{:start="11"}
+11. >*Não julgueis, para que não sejais julgados, porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos hão de medir a vós.*
+    >
+    >Mateus, cap. 7, vers. 1-2, ARC
+    {:.bible}
+
+
+{:start="12"}
+1.  >E os escribas e fariseus trouxeram-lhe uma mulher apanhada em adultério. E, pondo-a no meio, disseram-lhe: Mestre, esta mulher foi apanhada, no próprio ato, adulterando, e, na lei, nos mandou Moisés que as tais sejam apedrejadas. Tu, pois, que dizes? Isso diziam eles, tentando-o, para que tivessem de que o acusar. Mas Jesus, inclinando-se, escrevia com o dedo na terra. E, como insistissem, perguntando-lhe, endireitou-se e disse-lhes: *Aquele que dentre vós está sem pecado seja o primeiro que atire pedra contra ela.* E, tornando a inclinar-se, escrevia na terra. Quando ouviram isso, saíram um a um, a começar pelos mais velhos até aos últimos; ficaram só Jesus e a mulher, que estava no meio.  
+    >
+    >E, endireitando-se Jesus e não vendo ninguém mais do que a mulher, disse-lhe: *Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?* E ela disse: Ninguém, Senhor. E disse-lhe Jesus: *Nem eu também te condeno; vai-te e não peques mais.*
+    >
+    >João, cap. 8, vers. 3-11, ARC
+    {:.bible}
+
+{:start="13"}
+13. “Atire-lhe a primeira pedra aquele que estiver isento de pecado”, disse Jesus. Essa sentença faz da indulgência um dever para nós outros, porque ninguém há que não necessite, para si próprio, de indulgência. Ela nos ensina que não devemos julgar com mais severidade os outros, do que nos julgamos a nós mesmos, nem condenar em outrem aquilo de que nos absolvemos. Antes de profligarmos a alguém uma falta, vejamos se a mesma censura não nos pode ser feita.
+
+    O reproche lançado à conduta de outrem pode obedecer a dois móveis: reprimir o mal, ou desacreditar a pessoa cujos atos se criticam. Não tem escusa nunca este último propósito, porquanto, no caso, então, só há maledicência e maldade. O primeiro pode ser louvável e constitui mesmo, em certas ocasiões, um dever, porque um bem deverá daí resultar, e porque, a não ser assim, jamais, na sociedade, se reprimiria o mal. Não cumpre, aliás, ao homem auxiliar o progresso do seu semelhante? Importa, pois, não se tome em sentido absoluto este princípio: “Não julgueis se não quiserdes ser julgado”, porquanto a letra mata e o espírito vivifica.
+
+    Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele próprio nos deu o exemplo, tendo-o feito, até, em termos enérgicos. O que quis significar é que a autoridade para censurar está na razão direta da autoridade moral daquele que censura. Tornar-se alguém culpado daquilo que condena em outrem é abdicar dessa autoridade, é privar-se do direito de repressão. A consciência íntima, ademais, nega respeito e submissão voluntária àquele que, investido de um poder qualquer, viola as leis e os princípios de cuja aplicação lhe cabe o encargo. Aos olhos de Deus, uma única autoridade legítima existe: a que se apoia no exemplo que dá do bem. É o que, igualmente, ressalta das palavras de Jesus.
+
+#### Instruções dos Espíritos
+
+##### Perdão das ofensas
+
+{:start="14"}
+14. >Quantas vezes perdoarei a meu irmão? Perdoar-lhe-eis, não sete vezes, mas setenta vezes sete vezes. Aí tendes um dos ensinos de Jesus que mais vos devem percutir a inteligência e mais alto falar ao coração. Confrontai essas palavras de misericórdia com a oração tão simples, tão resumida e tão grande em suas aspirações, que ensinou a seus discípulos, e o mesmo pensamento se vos deparará sempre. Ele, o justo por excelência, responde a Pedro: perdoarás, mas ilimitadamente; perdoarás cada ofensa tantas vezes quantas ela te for feita; ensinarás a teus irmãos esse esquecimento de si mesmo, que torna uma criatura invulnerável ao ataque, aos maus procedimentos e às injúrias; serás brando e humilde de coração, sem medir a tua mansuetude; farás, enfim, o que desejas que o Pai celestial por ti faça. Não está Ele a te perdoar frequentemente? Conta porventura as vezes que o seu perdão desce a te apagar as faltas?
+    >
+    >Prestai, pois, ouvidos a essa resposta de Jesus e, como Pedro, aplicai-a a vós mesmos. Perdoai, usai de indulgência, sede caridosos, generosos, pródigos até do vosso amor. Dai, que o Senhor vos restituirá; perdoai, que o Senhor vos perdoará; abaixai-vos, que o Senhor vos elevará; humilhai-vos, que o Senhor fará vos assenteis à sua direita.
+    >
+    >Ide, meus bem-amados, estudai e comentai estas palavras que vos dirijo da parte daquele que, do alto dos esplendores celestes, vos tem sempre sob as suas vistas e prossegue com amor na tarefa ingrata a que deu começo faz dezoito séculos. Perdoai aos vossos irmãos, como precisais que eles vos perdoem. Se seus atos pessoalmente vos prejudicaram, mais um motivo aí tendes para serdes indulgentes, porquanto o mérito do perdão é proporcionado à gravidade do mal. Nenhum merecimento teríeis em relevar os agravos dos vossos irmãos, desde que não passassem de simples arranhões.
+    >
+    >Espíritas, jamais vos esqueçais de que, tanto por palavras como por atos, o perdão das injúrias não deve ser um termo vão. Pois que vos dizeis espíritas, sede-o. Olvidai o mal que vos hajam feito e não penseis senão numa coisa: no bem que podeis fazer. Aquele que enveredou por esse caminho não tem que se afastar daí, ainda que por pensamento, uma vez que sois responsáveis pelos vossos pensamentos, os quais todos Deus conhece. Cuidai, portanto, de os expungir de todo sentimento de rancor. Deus sabe o que demora no fundo do coração de cada um de seus filhos. Feliz, pois, daquele que pode todas as noites adormecer, dizendo: Nada tenho contra o meu próximo.
+    >
+    >Simeão  
+    >🇫🇷 Bordeaux, 1862
+    {:.spirit}
+
+{:start="15"}
+15. >Perdoar aos inimigos é pedir perdão para si próprio; perdoar aos amigos é dar-lhes uma prova de amizade; perdoar as ofensas é mostrar-se melhor do que era. Perdoai, pois, meus amigos, a fim de que Deus vos perdoe, porquanto, se fordes duros, exigentes, inflexíveis, se usardes de rigor até por uma ofensa leve, como querereis que Deus esqueça de que cada dia maior necessidade tendes de indulgência? Oh! ai daquele que diz: “Nunca perdoarei”, pois pronuncia a sua própria condenação. Quem sabe, aliás, se, descendo ao fundo de vós mesmos, não reconhecereis que fostes o agressor? Quem sabe se, nessa luta que começa por uma alfinetada e acaba por uma ruptura, não fostes quem atirou o primeiro golpe, se vos não escapou alguma palavra injuriosa, se não procedestes com toda a moderação necessária? Sem dúvida, o vosso adversário andou mal em se mostrar excessivamente suscetível; razão de mais para serdes indulgentes e para não vos tornardes merecedores da invectiva que lhe lançastes. Admitamos que, em dada circunstância, fostes realmente ofendido: quem dirá que não envenenastes as coisas por meio de represálias e que não fizestes degenerasse em querela grave o que houvera podido cair facilmente no olvido? Se de vós dependia impedir as consequências do fato e não as impedistes, sois culpados. Admitamos, finalmente, que de nenhuma censura vos reconheceis merecedores: mostrai-vos clementes e com isso só fareis que o vosso mérito cresça.
+    >
+    >Há, porém, duas maneiras bem diferentes de perdoar: há o perdão dos lábios e o perdão do coração. Muitas pessoas dizem, com referência ao seu adversário: “Eu lhe perdoo”, mas, interiormente, alegram-se com o mal que lhe advém, comentando que ele tem o que merece. Quantos não dizem: “Perdoo” e acrescentam: “mas não me reconciliarei nunca; não quero tornar a vê-lo em toda a minha vida.” Será esse o perdão, segundo o Evangelho? Não; o perdão verdadeiro, o perdão cristão é aquele que lança um véu sobre o passado; esse o único que vos será levado em conta, visto que Deus não se satisfaz com as aparências. Ele sonda o recesso do coração e os mais secretos pensamentos. Ninguém se lhe impõe por meio de vãs palavras e de simulacros. O esquecimento completo e absoluto das ofensas é peculiar às grandes almas; o rancor é sempre sinal de baixeza e de inferioridade. Não olvideis que o verdadeiro perdão se reconhece muito mais pelos atos do que pelas palavras.
+    >
+    >Paulo, apóstolo  
+    >🇫🇷 Lyon, 1861
+    {:.spirit}
+
+##### A indulgência
+
+{:start="16"}
+16. Espíritas, queremos falar-vos hoje da indulgência, sentimento doce e fraternal que todo homem deve alimentar para com seus irmãos, mas do qual bem poucos fazem uso.
+    >
+    >A indulgência não vê os defeitos de outrem, ou, se os vê, evita falar deles, divulgá-los. Ao contrário, oculta-os, a fim de que se não tornem conhecidos senão dela unicamente, e, se a malevolência os descobre, tem sempre pronta uma escusa para eles, escusa plausível, séria, não das que, com aparência de atenuar a falta, mais a evidenciam com pérfida intenção.
+    >
+    >A indulgência jamais se ocupa com os maus atos de outrem, a menos que seja para prestar um serviço; mas, mesmo neste caso, tem o cuidado de os atenuar tanto quanto possível. Não faz observações chocantes, não tem nos lábios censuras; apenas conselhos e, as mais das vezes, velados. Quando criticais, que consequência se há de tirar das vossas palavras? A de que não tereis feito o que reprovais, visto que estais a censurar; que valeis mais do que o culpado. Ó homens! quando será que julgareis os vossos próprios corações, os vossos próprios pensamentos, os vossos próprios atos, sem vos ocupardes com o que fazem vossos irmãos? Quando só tereis olhares severos sobre vós mesmos?
+    >
+    >Sede, pois, severos para convosco, indulgentes para com os outros. Lembrai-vos daquele que julga em última instância, que vê os pensamentos íntimos de cada coração e que, por conseguinte, desculpa muitas vezes as faltas que censurais, ou condena o que relevais, porque conhece o móvel de todos os atos. Lembrai-vos de que vós, que clamais em altas vozes: anátema! tereis, quiçá, cometido faltas mais graves.
+    >
+    >Sede indulgentes, meus amigos, porquanto a indulgência atrai, acalma, ergue, ao passo que o rigor desanima, afasta e irrita.
+    >
+    >José, Espírito protetor  
+    >🇫🇷 Bordeaux, 1863
+    {:.spirit}
+
+{:start="17"}
+17. >Sede indulgentes com as faltas alheias, quaisquer que elas sejam; não julgueis com severidade senão as vossas próprias ações e o Senhor usará de indulgência para convosco, como de indulgência houverdes usado para com os outros.
+    >
+    >Sustentai os fortes: animai-os à perseverança. Fortalecei os fracos, mostrando-lhes a bondade de Deus, que leva em conta o menor arrependimento; mostrai a todos o anjo da penitência estendendo suas brancas asas sobre as faltas dos humanos e velando-as assim aos olhares daquele que não pode tolerar o que é impuro. Compreendei todos a misericórdia infinita de vosso Pai e não esqueçais nunca de lhe dizer, pelos pensamentos, mas, sobretudo, pelos atos: “Perdoai as nossas ofensas, como perdoamos aos que nos hão ofendido.” Compreendei bem o valor destas sublimes palavras, nas quais não somente a letra é admirável, mas principalmente o ensino que ela veste.
+    >
+    >Que é o que pedis ao Senhor, quando implorais para vós o seu perdão? Será unicamente o olvido das vossas ofensas? Olvido que vos deixaria no nada, porquanto, se Deus se limitasse a esquecer as vossas faltas, Ele não puniria, é exato, mas tampouco recompensaria. A recompensa não pode constituir prêmio do bem que não foi feito, nem, ainda menos, do mal que se haja praticado, embora esse mal fosse esquecido. Pedindo-lhe que perdoe os vossos desvios, o que lhe pedis é o favor de suas graças, para não reincidirdes neles, é a força de que necessitais para enveredar por outras sendas, as da submissão e do amor, nas quais podereis juntar ao arrependimento a reparação.
+    >
+    >Quando perdoardes aos vossos irmãos, não vos contenteis com o estender o véu do esquecimento sobre suas faltas, porquanto, as mais das vezes, muito transparente é esse véu para os olhares vossos. Levai-lhes, simultaneamente, com o perdão, o amor; fazei por eles o que pediríeis fizesse o vosso Pai celestial por vós. Substituí a cólera que conspurca, pelo amor que purifica. Pregai, exemplificando, essa caridade ativa, infatigável, que Jesus vos ensinou; pregai-a, como Ele o fez durante todo o tempo em que esteve na Terra, visível aos olhos corporais e como ainda a prega incessantemente, desde que se tornou visível tão somente aos olhos do Espírito. Segui esse modelo divino; caminhai em suas pegadas; elas vos conduzirão ao refúgio onde encontrareis o repouso após a luta. Como Ele, carregai todos vós as vossas cruzes e subi penosamente, mas com coragem, o vosso calvário, em cujo cimo está a glorificação.
+    >
+    >João, bispo  
+    >🇫🇷 Bordeaux, 1862
+    {:.spirit}
+
+{:start="18"}
+18. >Caros amigos, sede severos convosco, indulgentes para as fraquezas dos outros. É esta uma prática da santa caridade, que bem poucas pessoas observam. Todos vós tendes maus pendores a vencer, defeitos a corrigir, hábitos a modificar; todos tendes um fardo mais ou menos pesado a alijar, para poderdes galgar o cume da montanha do progresso. Por que, então, haveis de mostrar-vos tão clarividentes com relação ao próximo e tão cegos com relação a vós mesmos? Quando deixareis de perceber, nos olhos de vossos irmãos, o pequenino argueiro que os incomoda, sem atentardes na trave que, nos vossos olhos, vos cega, fazendo-vos ir de queda em queda? Crede nos vossos irmãos, os Espíritos. Todo homem, bastante orgulhoso para se julgar superior, em virtude e mérito, aos seus irmãos encarnados, é insensato e culpado: Deus o castigará no dia da sua justiça. O verdadeiro caráter da caridade é a modéstia e a humildade, que consistem em ver cada um apenas superficialmente os defeitos de outrem e esforçar-se por fazer que prevaleça o que há nele de bom e virtuoso, porquanto, embora o coração humano seja um abismo de corrupção, sempre há, nalgumas de suas dobras mais ocultas, o gérmen de bons sentimentos, centelha vivaz da essência espiritual.
+    >
+    >Espiritismo! Doutrina consoladora e bendita! felizes dos que te conhecem e tiram proveito dos salutares ensinamentos dos Espíritos do Senhor! Para esses, iluminado está o caminho, ao longo do qual podem ler estas palavras que lhes indicam o meio de chegarem ao termo da jornada: caridade prática, caridade do coração, caridade para com o próximo, como para si mesmo; numa palavra: caridade para com todos e amor a Deus acima de todas as coisas, porque o amor a Deus resume todos os deveres e porque impossível é amar realmente a Deus, sem praticar a caridade, da qual fez Ele uma lei para todas as criaturas.
+    >
+    >Dufêtre, bispo de Nevers
+    >🇫🇷 Bordeaux
+    {:.spirit}
+
+##### É permitido repreender os outros, notar as imperfeições de outrem, divulgar o mal de outrem?
+
+{:start="19"}
+19. Ninguém sendo perfeito, seguir-se-á que ninguém tem o direito de repreender o seu próximo?
+    >
+    >Certamente que não é essa a conclusão a tirar-se, porquanto cada um de vós deve trabalhar pelo progresso de todos e, sobretudo, daqueles cuja tutela vos foi confiada. Por isso mesmo, deveis fazê-lo com moderação, para um fim útil, e não, como as mais das vezes, pelo prazer de denegrir. Neste último caso, a repreensão é uma maldade; no primeiro, é um dever que a caridade manda seja cumprido com todo o cuidado possível. Ademais, a censura que alguém faça a outrem deve ao mesmo tempo dirigi-la a si próprio, procurando saber se não a terá merecido.
+    >
+    >São Luís, IX da França  
+    >🇫🇷 Paris, 1860
+    {:.spirit}
+
+{:start="20"}
+20. Será repreensível notarem-se as imperfeições dos outros, quando daí nenhum proveito possa resultar para eles, uma vez que não sejam divulgadas?
+    >
+    >Tudo depende da intenção. Decerto, a ninguém é defeso ver o mal, quando ele existe. Fora mesmo inconveniente ver em toda a parte só o bem. Semelhante ilusão prejudicaria o progresso. O erro está no fazer-se que a observação redunde em detrimento do próximo, desacreditando-o, sem necessidade, na opinião geral. Igualmente repreensível seria fazê-lo alguém apenas para dar expansão a um sentimento de malevolência e à satisfação de apanhar os outros em falta. Dá-se inteiramente o contrário quando, estendendo sobre o mal um véu, para que o público não o veja, aquele que note os defeitos do próximo o faça em seu proveito pessoal, isto é, para se exercitar em evitar o que reprova nos outros. Essa observação, em suma, não é proveitosa ao moralista? Como pintaria ele os defeitos humanos, se não estudasse os modelos?
+    >
+    >São Luís, IX da França  
+    >🇫🇷 Paris, 1860
+    {:.spirit}
+
+{:start="21"}
+21. Haverá casos em que convenha se desvende o mal de outrem?
+    >
+    >É muito delicada esta questão e, para resolvê-la, necessário se torna apelar para a caridade bem compreendida. Se as imperfeições de uma pessoa só a ela prejudicam, nenhuma utilidade haverá nunca em divulgá-la. Se, porém, podem acarretar prejuízo a terceiros, deve-se atender de preferência ao interesse do maior número. Segundo as circunstâncias, desmascarar a hipocrisia e a mentira pode constituir um dever, pois mais vale caia um homem, do que virem muitos a ser suas vítimas. Em tal caso, deve-se pesar a soma das vantagens e dos inconvenientes.
+    >
+    >São Luís, IX da França  
+    >🇫🇷 Paris, 1860
+    {:.spirit}
 
 ---
 
 ### 📑 11. Amar o próximo como a si mesmo {#ESE-1-11}
 
-INDEX
+#### O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores
+
+1. >E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: Mestre, qual é o grande mandamento da lei? E Jesus disse-lhe: *Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. Este é o primeiro e grande mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. 40Desses dois mandamentos dependem toda a lei e os profetas.*
+   >
+   >Mateus, cap. 22, vers. 34-40, ARC
+    {:.bible}
+
+2. >*Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
+   >
+   >Mateus, cap. 7, vers. 12, ARC
+    {:.bible}
+
+   >*E como vós quereis que os homens vos façam, da mesma maneira fazei-lhes vós também.*
+   >
+   >Lucas, cap. 6, vers. 31, ARC
+    {:.bible}
+
+3. >*Por isso, o Reino dos céus pode comparar-se a um certo rei que quis fazer contas com os seus servos; e, começando a fazer contas, foi-lhe apresentado um que lhe devia dez mil talentos. E, não tendo ele com que pagar, o seu senhor mandou que ele, e sua mulher, e seus filhos fossem vendidos, com tudo quanto tinha, para que a dívida se lhe pagasse. Então, aquele servo, prostrando-se, o reverenciava, dizendo: Senhor, sê generoso para comigo, e tudo te pagarei. Então, o senhor daquele servo, movido de íntima compaixão, soltou-o e perdoou-lhe a dívida. Saindo, porém, aquele servo, encontrou um dos seus conservos que lhe devia cem dinheiros e, lançando mão dele, sufocava-o, dizendo: Paga-me o que me deves. Então, o seu companheiro, prostrando-se a seus pés, rogava-lhe, dizendo: Sê generoso para comigo, e tudo te pagarei. Ele, porém, não quis; antes, foi encerrá-lo na prisão, até que pagasse a dívida.*
+   >
+   >*Vendo, pois, os seus conservos o que acontecia, contristaram-se muito e foram declarar ao seu senhor tudo o que se passara. Então, o seu senhor, chamando-o à sua presença, disse-lhe: Servo malvado, perdoei-te toda aquela dívida, porque me suplicaste. Não devias tu, igualmente, ter compaixão do teu companheiro, como eu também tive misericórdia de ti? E, indignado, o seu senhor o entregou aos atormentadores, até que pagasse tudo o que devia.*
+   >
+   >*Assim vos fará também meu Pai celestial, se do coração não perdoardes, cada um a seu irmão, as suas ofensas.*
+   >
+   >Mateus, cap. 18, vers. 23-35, ARC
+    {:.bible}
+
+4. “Amar o próximo como a si mesmo: fazer pelos outros o que quereríamos que os outros fizessem por nós”, é a expressão mais completa da caridade, porque resume todos os deveres do homem para com o próximo. Não podemos encontrar guia mais seguro, a tal respeito, que tomar para padrão, do que devemos fazer aos outros, aquilo que para nós desejamos. Com que direito exigiríamos dos nossos semelhantes melhor proceder, mais indulgência, mais benevolência e devotamento para conosco, do que os temos para com eles? A prática dessas máximas tende à destruição do egoísmo. Quando as adotarem para regra de conduta e para base de suas instituições, os homens compreenderão a verdadeira fraternidade e farão que entre eles reinem a paz e a justiça. Não mais haverá ódios, nem dissensões, mas tão somente união, concórdia e benevolência mútua.
+
+#### Dai a César o que é de César
+
+{:start="5"}
+5. >Então, retirando-se os fariseus, consultaram entre si como o surpreenderiam em alguma palavra. E enviaram-lhe os seus discípulos, com os herodianos, dizendo: Mestre, bem sabemos que és verdadeiro e ensinas o caminho de Deus, segundo a verdade, sem te importares com quem quer que seja, porque não olhas à aparência dos homens. Dize-nos, pois, que te parece: é lícito pagar o tributo a César ou não? 
+   >
+   >Jesus, porém, conhecendo a sua malícia, disse: Por que me experimentais, hipócritas? Mostrai-me a moeda do tributo. E eles lhe apresentaram um dinheiro. E ele disse-lhes: *De quem é esta efígie e esta inscrição?* Disseram-lhe eles: De César. Então, ele lhes disse: *Dai, pois, a César o que é de César e a Deus, o que é de Deus.*
+   >
+   >E eles, ouvindo isso, maravilharam-se e, deixando-o, se retiraram.
+   >
+   >Mateus, cap. 18, vers. 23-35, ARC & Marcos, cap. 12, vers. 13-17, ARC
+    {:.bible}
+
+6. A questão proposta a Jesus era motivada pela circunstância de que os judeus, abominando o tributo que os romanos lhes impunham, haviam feito do pagamento desse tributo uma questão religiosa. Numeroso partido se fundara contra o imposto. O pagamento deste constituía, pois, entre eles, uma irritante questão de atualidade, sem o que nenhum senso teria a pergunta feita a Jesus: “É-nos lícito pagar ou deixar de pagar a César o tributo?” Havia nessa pergunta uma armadilha. Contavam os que a formularam poder, conforme a resposta, excitar contra Ele a autoridade romana, ou os judeus dissidentes; mas “Jesus, que lhes conhecia a malícia”, contornou a dificuldade, dando-lhes uma lição de justiça, com o dizer que a cada um seja dado o que lhe é devido. (Veja-se, na Introdução, o artigo: Publicanos.)
+
+7. Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser entendida de modo restritivo e absoluto. Como em todos os ensinos de Jesus, há nela um princípio geral, resumido sob forma prática e usual e deduzido de uma circunstância particular. Esse princípio é consequente daquele, segundo o qual devemos proceder para com os outros como queiramos que os outros procedam para conosco. Ele condena todo prejuízo material e moral que se possa causar a outrem, toda postergação de seus interesses. Prescreve o respeito aos direitos de cada um, como cada um deseja que se respeitem os seus. Estende-se mesmo aos deveres contraídos para com a família, a sociedade, a autoridade, tanto quanto para com os indivíduos em geral.
+
+#### Instruções dos Espíritos
+
+##### A lei de amor
+
+{:start="8"}
+8. >O amor resume a doutrina de Jesus inteira, visto que esse é o sentimento por excelência, e os sentimentos são os instintos elevados à altura do progresso feito. Em sua origem, o homem só tem instintos; quando mais avançado e corrompido, só tem sensações; quando instruído e depurado, tem sentimentos. E o ponto delicado do sentimento é o amor, não o amor no sentido vulgar do termo, mas esse sol interior que condensa e reúne em seu ardente foco todas as aspirações e todas as revelações sobre-humanas. A lei de amor substitui a personalidade pela fusão dos seres; extingue as misérias sociais. Ditoso aquele que, ultrapassando a sua humanidade, ama com amplo amor os seus irmãos em sofrimento! Ditoso aquele que ama, pois não conhece a miséria da alma, nem a do corpo. Tem ligeiros os pés e vive como que transportado, fora de si mesmo. Quando Jesus pronunciou a divina palavra — amor —, os povos sobressaltaram-se e os mártires, ébrios de esperança, desceram ao circo.
+   >
+   >O Espiritismo a seu turno vem pronunciar uma segunda palavra do alfabeto divino. Estai atentos, pois que essa palavra ergue a lápide dos túmulos vazios, e a reencarnação, triunfando da morte, revela às criaturas deslumbradas o seu patrimônio intelectual. Já não é ao suplício que ela conduz o homem: condu-lo à conquista do seu ser, elevado e transfigurado. O sangue resgatou o Espírito e o Espírito tem hoje que resgatar da matéria o homem.
+   >
+   >Disse eu que em seus começos o homem só instintos possuía. Mais próximo, portanto, ainda se acha do ponto de partida do que da meta, aquele em quem predominam os instintos. A fim de avançar para a meta, tem a criatura que vencer os instintos, em proveito dos sentimentos, isto é, que aperfeiçoar estes últimos, sufocando os germens latentes da matéria. Os instintos são a germinação e os embriões do sentimento; trazem consigo o progresso, como a glande encerra em si o carvalho, e os seres menos adiantados são os que, emergindo pouco a pouco de suas crisálidas, se conservam escravizados aos instintos. O Espírito precisa ser cultivado, como um campo. Toda a riqueza futura depende do labor atual, que vos granjeará muito mais do que bens terrenos: a elevação gloriosa. É então que, compreendendo a lei de amor que liga todos os seres, buscareis nela os gozos suavíssimos da alma, prelúdios das alegrias celestes.
+   >
+   >Lázaro  
+   >🇫🇷 Paris, 1862
+   {:.spirit}
+
+
+{:start="9"}
+9. >O amor é de essência divina e todos vós, do primeiro ao último, tendes, no fundo do coração, a centelha desse fogo sagrado. É fato, que já haveis podido comprovar muitas vezes, este: o homem, por mais abjeto, vil e criminoso que seja, vota a um ente ou a um objeto qualquer viva e ardente afeição à prova de tudo quanto tendesse a diminuí-la e que alcança, não raro, sublimes proporções.
+    >
+    >A um ente ou um objeto qualquer, disse eu, porque há entre vós indivíduos que, com o coração a transbordar de amor, despendem tesouros desse sentimento com animais, plantas e, até, com coisas materiais: espécies de misantropos que, a se queixarem da Humanidade em geral e a resistirem ao pendor natural de suas almas, que buscam em torno de si a afeição e a simpatia, rebaixam a lei de amor à condição de instinto. Entretanto, por mais que façam, não logram sufocar o gérmen vivaz que Deus lhes depositou nos corações ao criá-los. Esse gérmen se desenvolve e cresce com a moralidade e a inteligência e, embora comprimido amiúde pelo egoísmo, torna-se a fonte das santas e doces virtudes que geram as afeições sinceras e duráveis e ajudam a criatura a transpor o caminho escarpado e árido da existência humana.
+    >
+    >Há pessoas a quem repugna a reencarnação, com a ideia de que outros venham a partilhar das afetuosas simpatias de que são ciosas. Pobres irmãos! o vosso afeto vos torna egoístas; o vosso amor se restringe a um círculo íntimo de parentes e de amigos, sendo-vos indiferentes os demais. Pois bem! para praticardes a lei de amor, tal como Deus o entende, preciso se faz chegueis passo a passo a amar a todos os vossos irmãos indistintamente. A tarefa é longa e difícil, mas cumprir-se-á: Deus o quer e a lei de amor constitui o primeiro e o mais importante preceito da vossa nova doutrina, porque é ela que um dia matará o egoísmo, qualquer que seja a forma sob que se apresente, dado que, além do egoísmo pessoal, há também o egoísmo de família, de casta, de nacionalidade. Disse Jesus: “Amai o vosso próximo como a vós mesmos.” Ora, qual o limite com relação ao próximo?
+    >
+    >Será a família, a seita, a nação? Não; é a Humanidade inteira. Nos mundos superiores, o amor recíproco é que harmoniza e dirige os Espíritos adiantados que os habitam, e o vosso planeta, destinado a realizar em breve sensível progresso, verá seus habitantes, em virtude da transformação social por que passará, a praticar essa lei sublime, reflexo da Divindade.
+    >
+    >Os efeitos da lei de amor são o melhoramento moral da raça humana e a felicidade durante a vida terrestre. Os mais rebeldes e os mais viciosos se reformarão, quando observarem os benefícios resultantes da prática deste preceito: Não façais aos outros o que não quiserdes que vos façam; fazei-lhes, ao contrário, todo o bem que vos esteja ao alcance fazer-lhes.
+    >
+    >Não acrediteis na esterilidade e no endurecimento do coração humano; ao amor verdadeiro, ele, a seu mau grado, cede. É um ímã a que não lhe é possível resistir. O contato desse amor vivifica e fecunda os germens que dele existem, em estado latente, nos vossos corações. A Terra, orbe de provação e de exílio, será então purificada por esse fogo sagrado e verá praticados na sua superfície a caridade, a humildade, a paciência, o devotamento, a abnegação, a resignação e o sacrifício, virtudes todas filhas do amor. Não vos canseis, pois, de escutar as palavras de João, o Evangelista. Como sabeis, quando a enfermidade e a velhice o obrigaram a suspender o curso de suas prédicas, limitava-se a repetir estas suavíssimas palavras: “Meus filhinhos, amai-vos uns aos outros.”
+    >
+    >Amados irmãos, aproveitai dessas lições; é difícil o praticá-las, porém, a alma colhe delas imenso bem. Crede-me, fazei o sublime esforço que vos peço: “Amai-vos” e vereis a Terra em breve transformada num Paraíso onde as almas dos justos virão repousar.
+    >
+    >Fénelon  
+    >🇫🇷 Bordeaux, 1861
+    {:.spirit}
+
+{:start="10"}
+10. >Meus caros condiscípulos, os Espíritos aqui presentes vos dizem, por meu intermédio: “Amai muito, a fim de serdes amados.” É tão justo esse pensamento, que nele encontrareis tudo o que consola e abranda as penas de cada dia; ou melhor: pondo em prática esse sábio conselho, elevar-vos-eis de tal modo acima da matéria que vos espiritualizareis antes de deixardes o invólucro terrestre. Havendo os estudos espíritas desenvolvido em vós a compreensão do futuro, uma certeza tendes: a de caminhardes para Deus, vendo realizadas todas as promessas que correspondem às aspirações de vossa alma. Por isso, deveis elevar-vos bem alto para julgardes sem as constrições da matéria, e não condenardes o vosso próximo sem terdes dirigido a Deus o pensamento.
+   >
+   >Amar, no sentido profundo do termo, é o homem ser leal, probo, consciencioso, para fazer aos outros o que queira que estes lhe façam; é procurar em torno de si o sentido íntimo de todas as dores que acabrunham seus irmãos, para suavizá-las; é considerar como sua a grande família humana, porque essa família todos a encontrareis, dentro de certo período, em mundos mais adiantados; e os Espíritos que a compõem são, como vós, filhos de Deus, destinados a se elevarem ao infinito. Assim, não podeis recusar aos vossos irmãos o que Deus liberalmente vos outorgou, porquanto, de vosso lado, muito vos alegraria que vossos irmãos vos dessem aquilo de que necessitais. Para todos os sofrimentos, tende, pois, sempre uma palavra de esperança e de conforto, a fim de que sejais inteiramente amor e justiça.
+   >
+   >Crede que esta sábia exortação: “Amai bastante, para serdes amados”, abrirá caminho; revolucionária, ela segue sua rota, que é determinada, invariável. Mas já ganhastes muito, vós que me ouvis, pois que já sois infinitamente melhores do que éreis há cem anos. Mudastes tanto, em proveito vosso, que aceitais de boa mente, sobre a liberdade e a fraternidade, uma imensidade de ideias novas, que outrora rejeitaríeis. Ora, daqui a cem anos, sem dúvida aceitareis com a mesma facilidade as que ainda vos não puderam entrar no cérebro.
+   >
+   >Hoje, quando o movimento espírita há dado tão grande passo, vede com que rapidez as ideias de justiça e de renovação, constantes nos ditados espíritas, são aceitas pela parte mediana do mundo inteligente. É que essas ideias correspondem a tudo o que há de divino em vós. É que estais preparados por uma sementeira fecunda: a do século passado, que implantou no seio da sociedade terrena as grandes ideias de progresso. E, como tudo se encadeia sob a direção do Altíssimo, todas as lições recebidas e aceitas virão a encerrar-se na permuta universal do amor ao próximo. Por aí, os Espíritos encarnados, melhor apreciando e sentindo, se estenderão as mãos, de todos os confins do vosso planeta. Uns e outros reunir-se-ão, para se entenderem e amarem, para destruírem todas as injustiças, todas as causas de desinteligências entre os povos.
+   >
+   >Grande conceito de renovação pelo Espiritismo, tão bem exposto em O livro dos espíritos; tu produzirás o portentoso milagre do século vindouro, o da harmonização de todos os interesses materiais e espirituais dos homens, pela aplicação deste preceito bem compreendido: “Amai bastante, para serdes amados.”
+   >
+   >Sanson, ex-membro da Sociedade Espírita  
+   >🇫🇷 Paris, 1863
+    {:.spirit}
+
+##### O egoísmo
+
+{:start="11"}
+11. >O egoísmo, chaga da Humanidade, tem que desaparecer da Terra, a cujo progresso moral obsta. Ao Espiritismo está reservada a tarefa de fazê-la ascender na hierarquia dos mundos. O egoísmo é, pois, o alvo para o qual todos os verdadeiros crentes devem apontar suas armas, dirigir suas forças, sua coragem. Digo: coragem, porque dela muito mais necessita cada um para vencer-se a si mesmo, do que para vencer os outros. Que cada um, portanto, empregue todos os esforços a combatê-lo em si, certo de que esse monstro devorador de todas as inteligências, esse filho do orgulho é o causador de todas as misérias do mundo terreno. É a negação da caridade e, por conseguinte, o maior obstáculo à felicidade dos homens.
+    >
+    >Jesus vos deu o exemplo da caridade e Pôncio Pilatos o do egoísmo, pois, quando o primeiro, o Justo, vai percorrer as santas estações do seu martírio, o outro lava as mãos, dizendo: “Que me importa!” Animou-se a dizer aos judeus: “Este homem é justo, por que o quereis crucificar?” Entretanto, deixa que o conduzam ao suplício.
+    >
+    >É a esse antagonismo entre a caridade e o egoísmo, à invasão do coração humano por essa chaga moral que se deve atribuir o fato de não haver ainda o Cristianismo desempenhado por completo a sua missão. Cabem a vós, novos apóstolos da fé, que os Espíritos superiores esclarecem, o encargo e o dever de extirpar esse mal, a fim de dar ao Cristianismo toda a sua força e desobstruir o caminho dos pedrouços que lhe embaraçam a marcha. Expulsai da Terra o egoísmo para que ela possa subir na escala dos mundos, porquanto já é tempo de a Humanidade envergar sua veste viril, para o que cumpre que primeiramente o expilais dos vossos corações.
+    >
+    >Emmanuel  
+    >🇫🇷 Paris, 1861
+    {:.spirit}
+
+12. >Se os homens se amassem com mútuo amor, mais bem praticada seria a caridade; mas, para isso, mister fora vos esforçásseis por largar essa couraça que vos cobre os corações, a fim de se tornarem eles mais sensíveis aos sofrimentos alheios. A rigidez mata os bons sentimentos; o Cristo jamais se escusava; não repelia aquele que o buscava, fosse quem fosse: socorria a mulher adúltera, como o criminoso; nunca temeu que a sua reputação sofresse por isso. Quando o tomareis por modelo de todas as vossas ações? Se na Terra a caridade reinasse, o mau não imperaria nela; fugiria envergonhado; ocultar-se-ia, visto que em toda parte se acharia deslocado. O mal então desapareceria, ficai bem certos.
+    >
+    >Começai vós por dar o exemplo; sede caridosos para com todos indistintamente; esforçai-vos por não atentar nos que vos olham com desdém e deixai a Deus o encargo de fazer toda a justiça, a Deus que todos os dias separa, no seu Reino, o joio do trigo.
+    >
+    >O egoísmo é a negação da caridade. Ora, sem a caridade não haverá descanso para a sociedade humana. Digo mais: não haverá segurança. Com o egoísmo e o orgulho, que andam de mãos dadas, a vida será sempre uma carreira em que vencerá o mais esperto, uma luta de interesses, em que se calcarão aos pés as mais santas afeições, em que nem sequer os sagrados laços da família merecerão respeito.
+    >
+    >Pascal  
+    >🇫🇷 Sens, 1862
+    {:.spirit}
+
+##### A fé e a caridade
+
+{:start="13"}
+13. >Disse-vos, não há muito, meus caros filhos, que a caridade, sem a fé, não basta para manter entre os homens uma ordem social capaz de os tornar felizes. Pudera ter dito que a caridade é impossível sem a fé. Na verdade, impulsos generosos se vos depararão, mesmo entre os que nenhuma religião têm; porém, essa caridade austera, que só com abnegação se pratica, com um constante sacrifício de todo interesse egoístico, somente a fé pode inspirá-la, porquanto só ela dá se possa carregar com coragem e perseverança a cruz da vida terrena.
+    >
+    >Sim, meus filhos, é inútil que o homem ávido de gozos procure iludir-se sobre o seu destino nesse mundo, pretendendo ser-lhe lícito ocuparse unicamente com a sua felicidade. Sem dúvida, Deus nos criou para sermos felizes na eternidade; entretanto, a vida terrestre tem que servir exclusivamente ao aperfeiçoamento moral, que mais facilmente se adquire com o auxílio dos órgãos físicos e do mundo material. Sem levar em conta as vicissitudes ordinárias da vida, a diversidade dos gostos, dos pendores e das necessidades, é esse também um meio de vos aperfeiçoardes, exercitando-vos na caridade. Com efeito, só a poder de concessões e sacrifícios mútuos podeis conservar a harmonia entre elementos tão diversos.
+    >
+    >Tereis, contudo, razão, se afirmardes que a felicidade se acha destinada ao homem nesse mundo, desde que ele a procure, não nos gozos materiais, sim no bem. A história da cristandade fala de mártires que se encaminhavam alegres para o suplício. Hoje, na vossa sociedade, para serdes cristãos, não se vos faz mister nem o holocausto do martírio, nem o sacrifício da vida, mas única e exclusivamente o sacrifício do vosso egoísmo, do vosso orgulho e da vossa vaidade. Triunfareis, se a caridade vos inspirar e vos sustentar a fé.
+    >
+    >Espírito protetor  
+    >🇵🇱 Cracóvia, 1861
+    {:.spirit}
+
+##### Caridade para com os criminosos
+
+{:start="14"}
+14. >A verdadeira caridade constitui um dos mais sublimes ensinamentos que Deus deu ao mundo. Completa fraternidade deve existir entre os verdadeiros seguidores da sua doutrina. Deveis amar os desgraçados, os criminosos, como criaturas, que são, de Deus, às quais o perdão e a misericórdia serão concedidos, se se arrependerem, como também a vós, pelas faltas que cometeis contra sua Lei. Considerai que sois mais repreensíveis, mais culpados do que aqueles a quem negardes perdão e comiseração, pois, as mais das vezes, eles não conhecem Deus como o conheceis, e muito menos lhes será pedido do que a vós.
+    >
+    >Não julgueis, oh! não julgueis absolutamente, meus caros amigos, porquanto o juízo que proferirdes ainda mais severamente vos será aplicado e precisais de indulgência para os pecados em que sem cessar incorreis. Ignorais que há muitas ações que são crimes aos olhos do Deus de pureza e que o mundo nem sequer como faltas leves considera?
+    >
+    >A verdadeira caridade não consiste apenas na esmola que dais, nem, mesmo, nas palavras de consolação que lhe aditeis. Não, não é apenas isso o que Deus exige de vós. A caridade sublime, que Jesus ensinou, também consiste na benevolência de que useis sempre e em todas as coisas para com o vosso próximo. Podeis ainda exercitar essa virtude sublime com relação a seres para os quais nenhuma utilidade terão as vossas esmolas, mas que algumas palavras de consolo, de encorajamento, de amor, conduzirão ao Senhor supremo.
+    >
+    >Estão próximos os tempos, repito-o, em que nesse planeta reinará a grande fraternidade, em que os homens obedecerão à lei do Cristo, lei que será freio e esperança e conduzirá as almas às moradas ditosas. Amai-vos, pois, como filhos do mesmo Pai; não estabeleçais diferenças entre os outros infelizes, porquanto quer Deus que todos sejam iguais; a ninguém desprezeis. Permite Deus que entre vós se achem grandes criminosos, para que vos sirvam de ensinamento. Em breve, quando os homens se encontrarem submetidos às verdadeiras Leis de Deus, já não haverá necessidade desses ensinos: todos os Espíritos impuros e revoltados serão relegados para mundos inferiores, de acordo com as suas inclinações.
+    >
+    >Deveis, àqueles de quem falo, o socorro das vossas preces: é a verdadeira caridade. Não vos cabe dizer de um criminoso: “É um miserável; deve-se expurgar da sua presença a Terra; muito branda é, para um ser de tal espécie, a morte que lhe infligem.” Não, não é assim que vos compete falar. Observai o vosso modelo: Jesus. Que diria Ele, se visse junto de si um desses desgraçados? Lamentá-lo-ia; considerá-lo-ia um doente bem digno de piedade; estender-lhe-ia a mão. Em realidade, não podeis fazer o mesmo; mas, pelo menos, podeis orar por ele, assistir-lhe o Espírito durante o tempo que ainda haja de passar na Terra. Pode ele ser tocado de arrependimento, se orardes com fé. É tanto vosso próximo, como o melhor dos homens; sua alma, transviada e revoltada, foi criada, como a vossa, para se aperfeiçoar; ajudai-o, pois, a sair do lameiro e orai por ele.
+    >
+    >Isabel de França  
+    >🇫🇷 Havre, 1862
+    {:.spirit}
+
+##### Deve-se expor a vida por um malfeitor?
+
+15. Acha-se em perigo de morte um homem; para o salvar tem um outro que expor a vida. Sabe-se, porém, que aquele é um malfeitor e que, se escapar, poderá cometer novos crimes. Deve, não obstante, o segundo arriscar-se para o salvar?
+    >
+    >Questão muito grave é esta e que naturalmente se pode apresentar ao espírito. Responderei, na conformidade do meu adiantamento moral, pois o de que se trata é de saber se se deve expor a vida, mesmo por um malfeitor. O devotamento é cego; socorre-se um inimigo; deve-se, portanto, socorrer o inimigo da sociedade, a um malfeitor, em suma. Julgais que será somente à morte que, em tal caso, se corre a arrancar o desgraçado? É, talvez, a toda a sua vida passada. Imaginai, com efeito, que, nos rápidos instantes que lhe arrebatam os derradeiros alentos de vida, o homem perdido volve ao seu passado, ou que, antes, este se ergue diante dele. A morte, quiçá, lhe chega cedo demais; a reencarnação poderá vir a ser-lhe terrível. Lançai-vos, então, ó homens; lançai-vos todos vós a quem a ciência espírita esclareceu; lançai-vos, arrancai-o à sua condenação e, talvez, esse homem, que teria morrido a blasfemar, se atirará nos vossos braços. Todavia, não tendes que indagar se o fará, ou não; socorrei-o, porquanto, salvando-o, obedeceis a essa voz do coração, que vos diz: “Podes salvá-lo, salva-o!”
+    >
+    >Lamennais  
+    >🇫🇷 Paris, 1862
+    {:.spirit}
+
 
 ---
 
@@ -1832,4 +2286,6 @@ Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do
 
 [^10]: N.E.: Ver 👉 Nota explicativa.
 
-[^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc
+[^11]: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
+
+[^12]: A.K.: Esta comunicação foi dada com relação a uma pessoa cega, a cujo favor se evocara o Espírito J.-B. Vianney, cura d’Ars.

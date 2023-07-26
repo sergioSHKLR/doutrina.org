@@ -1,5 +1,5 @@
 ---
-title: 4. 📕 CEU
+title: 📕 CEU
 layout: default
 ---
 

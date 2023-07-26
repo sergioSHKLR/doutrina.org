@@ -15,14 +15,19 @@ layout: default
 
 ## Legenda
 
-🗂️ - Parte  
-📑 - Capítulo  
-📃 - Secão  
-#️⃣ - Item  
+<span style="font-size: 200%">🗂️</span> - Parte  
+<span style="font-size: 200%">📑</span> - Capítulo  
+<span style="font-size: 200%">📃</span> - Seção  
+<span style="font-size: 200%">#️⃣</span> - Item  
 
-👻 - Espírito  
-👴🏼 - Allan Kardec  
-📜 - Bíblia (*Jesus*; outros)
+<span style="font-size: 200%">📝</span> - Nota  
+<span style="font-size: 200%">💬</span> - Dizer  
+
+
+
+<span style="font-size: 200%">👻</span> - Espírito  
+<span style="font-size: 200%">👴🏻</span> - Allan Kardec  
+<span style="font-size: 200%">📜</span> - Bíblia (*Jesus*; outros)
 
 ## Legal
 

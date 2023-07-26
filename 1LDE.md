@@ -303,7 +303,7 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 
 >*Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
->Mateus, cap. 13, vers. 14, ARC
+>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 13](https://pt.m.wikipedia.org/wiki/Mateus_13), [vers. 14](https://www.bible.com/pt/bible/212/MAT.13.ARC#:~:text=Ouvindo%2C%20ouvireis%2C%20mas%20n%C3%A3o%20compreendereis%20e%2C%20vendo%2C%20vereis%2C%20mas%20n%C3%A3o%20percebereis.), [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
@@ -320,7 +320,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 >*E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
 >
->Mateus, cap. 23, vers. 12, ARC
+>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 23, vers. 12, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
@@ -2051,7 +2051,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >
 >>*E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
 >>
->>Mateus, cap. 24, vers. 29 e 34, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 24, vers. 29 e 34, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 >
 >Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
@@ -2166,7 +2166,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #️⃣ 137. Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
->Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ([LDM-2-07 ↗️](https://doutrina.org/2LDM.html#LDM-2-07))
+>Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 ([LDM-2-07 ↗️](./2LDM.html#LDM-2-07))
 {:.spirit}
 
 ---
@@ -3295,7 +3295,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 
 >E, descendo eles do monte, Jesus lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E Jesus, respondendo, disse-lhes: *Em verdade Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
 >
->Mateus, cap. 17, vers. 9 a 13, ARC
+>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 17, vers. 9 a 13, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
@@ -3974,7 +3974,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 {:.spirit}
 >>*E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*?
 >>
->>Mateus, cap. 23, vers. 12, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 23, vers. 12, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 ---
@@ -6122,7 +6122,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 {:.spirit}
 >>*E não nos induzas à tentação, mas livra-nos do mal …*
 >>
->>Mateus, cap. 6, vers. 13, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 6, vers. 13, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 ---
@@ -8008,7 +8008,7 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 >
 >>*Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
 >>
->>Mateus, cap. 7, vers. 12, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, vers. 12, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 ---
@@ -8362,7 +8362,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 >
 >>*Amarás o teu próximo como a ti mesmo.*
 >>
->>Mateus, cap. 22, vers. 39, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 22, vers. 39, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 >
 >Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
@@ -9476,14 +9476,14 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ##### LDE-q764
 
-#️⃣ 764. Disse Jesus: *todos os que lançarem mão da espada à espada morrerão.* (📜 ▸ Mateus, cap. 26, vers. 51-52, ARC). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+#️⃣ 764. Disse Jesus: *todos os que lançarem mão da espada à espada morrerão.* (📜 ▸ Mateus, cap. 26, vers. 51-52, [ARC](https://www.bible.com/pt/versions/212)). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 >Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
 {:.spirit}
 
 >>*Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*?
 >>
->>Mateus, cap. 6, vers. 14, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 6, vers. 14, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 >E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem? 
@@ -10144,7 +10144,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 >
 >>*E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*
 >>
->>Mateus, cap. 19, vers. 24, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 19, vers. 24, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 👉 ([LDE-q266](#LDE-q266))
@@ -10755,7 +10755,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 
 >*E não nos induzas à tentação, mas livra-nos do mal …*
 >
->Mateus, cap. 6, vers. 13, ARC
+>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 6, vers. 13, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
@@ -10888,7 +10888,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 >
 >>Não furtarás.?
 >>
->>Êxodo, cap. 20, vers. 15, ARC
+>>Êxodo, cap. 20, vers. 15, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 >
 >E Jesus não disse:
@@ -10897,7 +10897,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 >
 >>*Dai, pois, a César o que é de César e a Deus, o que é de Deus.*?
 >>
->>Mateus, cap. 22, vers. 21, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 22, vers. 21, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
@@ -10955,7 +10955,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 {:.kardec}
 >>*Amarás o teu próximo como a ti mesmo.*
 >>
->>Mateus, cap. 22, vers. 39, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 22, vers. 39, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 >
 >A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
@@ -10965,7 +10965,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 
 ##### LDE-q887
 
-#️⃣ 887. Jesus também disse: *Amai a vossos inimigos* (📜 ▸ Mateus, cap. 5, vers. 44, ARC) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+#️⃣ 887. Jesus também disse: *Amai a vossos inimigos* (📜 ▸ Mateus, [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 44, [ARC](https://www.bible.com/pt/versions/212)) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 {:.spirit}
@@ -10989,7 +10989,7 @@ Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao 
 >
 >>*… não saiba a tua mão esquerda o que faz a tua direita …*
 >>
->>Mateus, cap. 6, vers. 3, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 6, vers. 3, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 >
 >Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
@@ -11167,7 +11167,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >>*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?*
 >>
->>Mateus, cap. 7, vers. 3, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, vers. 3, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 ---
@@ -11472,7 +11472,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >
 >>*… bem-aventurados os que choram, porque eles serão consolados …*
 >>
->>Mateus, cap. 5, vers. 4, ARC
+>>[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 4, [ARC](https://www.bible.com/pt/versions/212)
 {:.bible}
 
 ---

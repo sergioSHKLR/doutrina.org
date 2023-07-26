@@ -1,5 +1,5 @@
 ---
-title: 5. 📓 GEN
+title: 📓 GEN
 layout: default
 ---
 
