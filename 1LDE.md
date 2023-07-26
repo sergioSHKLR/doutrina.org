@@ -6120,7 +6120,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 >Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
 {:.spirit}
->>*E não nos induzas à tentação, mas livra-nos do mal...*
+>>*E não nos induzas à tentação, mas livra-nos do mal …*
 >>
 >>Mateus, cap. 6, vers. 13, ARC
 {:.bible}
@@ -10753,7 +10753,7 @@ No que concerne à morte é que o homem se acha submetido, em absoluto, à inexo
 
 Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos: 
 
->*E não nos induzas à tentação, mas livra-nos do mal;*
+>*E não nos induzas à tentação, mas livra-nos do mal …*
 >
 >Mateus, cap. 6, vers. 13, ARC
 {:.bible}
@@ -10987,7 +10987,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:
 {:.spirit}
 >
->>*... não saiba a tua mão esquerda o que faz a tua direita ...*
+>>*… não saiba a tua mão esquerda o que faz a tua direita …*
 >>
 >>Mateus, cap. 6, vers. 3, ARC
 {:.bible}
@@ -11470,7 +11470,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:
 {:.spirit}
 >
->>*... bem-aventurados os que choram, porque eles serão consolados ...*
+>>*… bem-aventurados os que choram, porque eles serão consolados …*
 >>
 >>Mateus, cap. 5, vers. 4, ARC
 {:.bible}
