@@ -1958,7 +1958,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >Espiritismo! Doutrina consoladora e bendita! felizes dos que te conhecem e tiram proveito dos salutares ensinamentos dos Espíritos do Senhor! Para esses, iluminado está o caminho, ao longo do qual podem ler estas palavras que lhes indicam o meio de chegarem ao termo da jornada: caridade prática, caridade do coração, caridade para com o próximo, como para si mesmo; numa palavra: caridade para com todos e amor a Deus acima de todas as coisas, porque o amor a Deus resume todos os deveres e porque impossível é amar realmente a Deus, sem praticar a caridade, da qual fez Ele uma lei para todas as criaturas.
     >
-    >Dufêtre, bispo de Nevers
+    >Dufêtre, bispo de Nevers  
     >🇫🇷 Bordeaux
     {:.spirit}
 
