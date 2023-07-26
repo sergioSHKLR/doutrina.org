@@ -7,7 +7,7 @@ layout: default
 
 | Livro  |  Status  | 
 | --- | ---: |
-| <a href="./1LDE.html" title="📘  O Livro dos Espíritos">📘  O Livro dos Espíritos</a>   | beta ➡ 🟢 |
+| <a href="./1LDE.html" title="o livro dos espíritos">📘 O Livro dos Espíritos</a>   | beta ➡ 🟢 |
 | <a href="./2LDM.html" title="o livro dos médiuns">📙 O Livro dos Médiuns</a>   | beta ➡ 🟢 |
 | <a href="./3ESE.html" title="o evangelho segundo o espiritismo">📗 O Evangelho segundo o Espiritismo</a>   | alfa ➡ 🟡 |
 | <a href="./4CEU.html" title="o céu e o inferno">📕 O Céu e o Inferno</a>   | aguardando ➡ 🔴 |
