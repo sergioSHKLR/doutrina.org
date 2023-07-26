@@ -301,9 +301,9 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
->*Têm olhos e não veem; têm ouvidos e não ouvem.*
+>*Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
->Mateus, cap. 13, vers. 14
+>Mateus, cap. 13, vers. 14, ARC
 {:.bible}
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
@@ -318,9 +318,9 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho:
 
->*Os grandes serão rebaixados e os pequenos serão elevados.*
+>*E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
 >
->Mateus, cap. 18, vers. 4
+>Mateus, cap. 23, vers. 12, ARC
 {:.bible}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
@@ -2049,9 +2049,9 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de Deus, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de Deus suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do Cristo. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 {:.kardec}
 >
->>*Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido.*
+>>*E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
 >>
->>Mateus, cap. 24, vers. 29 e 34
+>>Mateus, cap. 24, vers. 29 e 34, ARC
 {:.bible}
 >
 >Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
@@ -3293,15 +3293,9 @@ Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a co
 
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
->Quando desciam da montanha (depois da transfiguração), Jesus lhes fez esta recomendação:  
->— *Não faleis a ninguém do que acabastes de ver, até que o Filho do homem tenha ressuscitado dentre os mortos.*  
->Perguntaram-lhe então seus discípulos:  
->— Por que dizem os escribas ser preciso que primeiro venha Elias?  
->Respondeu-lhes Jesus:  
->— *É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.*  
->Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.  
+>E, descendo eles do monte, Jesus lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E Jesus, respondendo, disse-lhes: *Em verdade Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
 >
->Mateus, cap. 17, vers. 9 a 13
+>Mateus, cap. 17, vers. 9 a 13, ARC
 {:.bible}
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
@@ -3978,9 +3972,9 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 >Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:
 {:.spirit}
->>*Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado.*?
+>>*E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*?
 >>
->>Mateus, cap. 23, vers. 12
+>>Mateus, cap. 23, vers. 12, ARC
 {:.bible}
 
 ---
@@ -6126,9 +6120,9 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 >Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
 {:.spirit}
->>*Senhor! não nos deixes cair em tentação, mas livra-nos do mal.*
+>>*E não nos induzas à tentação, mas livra-nos do mal...*
 >>
->>Mateus, cap. 6, vers. 13
+>>Mateus, cap. 6, vers. 13, ARC
 {:.bible}
 
 ---
@@ -8012,9 +8006,9 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 >
 {:.spirit}
 >
->>*Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.*
+>>*Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
 >>
->>Mateus, cap. 7, vers. 12
+>>Mateus, cap. 7, vers. 12, ARC
 {:.bible}
 
 ---
@@ -8366,9 +8360,9 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 >
 {:.spirit}
 >
->>*Amai-vos uns aos outros.*
+>>*Amarás o teu próximo como a ti mesmo.*
 >>
->>Mateus, cap. 22, vers. 39
+>>Mateus, cap. 22, vers. 39, ARC
 {:.bible}
 >
 >Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
@@ -9482,14 +9476,14 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ##### LDE-q764
 
-#️⃣ 764. Disse Jesus: *Quem matou com a espada, pela espada perecerá* (📜 ▸ **Mateus, cap. 21, vers. 51-52**). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+#️⃣ 764. Disse Jesus: *todos os que lançarem mão da espada à espada morrerão.* (📜 ▸ Mateus, cap. 26, vers. 51-52, ARC). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 >Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
 {:.spirit}
 
->>*Perdoai aos vossos inimigos.*?
+>>*Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*?
 >>
->>Mateus, cap. 6, vers. 14-15
+>>Mateus, cap. 6, vers. 14, ARC
 {:.bible}
 
 >E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem? 
@@ -10148,9 +10142,9 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 >A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse:
 {:.kardec}
 >
->>*Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus.*
+>>*E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*
 >>
->>Mateus, cap. 19, vers. 16-30
+>>Mateus, cap. 19, vers. 24, ARC
 {:.bible}
 
 👉 ([LDE-q266](#LDE-q266))
@@ -10759,9 +10753,9 @@ No que concerne à morte é que o homem se acha submetido, em absoluto, à inexo
 
 Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos: 
 
->*Não nos deixes sucumbir à tentação, mas livra-nos do mal.*
+>*E não nos induzas à tentação, mas livra-nos do mal;*
 >
->Mateus, cap. 6, vers. 9-13
+>Mateus, cap. 6, vers. 13, ARC
 {:.bible}
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
@@ -10892,18 +10886,18 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 >Não disse Deus:
 {:.spirit}
 >
->>Não roubarás.?
+>>Não furtarás.?
 >>
->>Êxodo, cap. 20, vers. 15
+>>Êxodo, cap. 20, vers. 15, ARC
 {:.bible}
 >
 >E Jesus não disse:
 >
 {:.grey}
 >
->>*Dai a César o que é de César.*?
+>>*Dai, pois, a César o que é de César e a Deus, o que é de Deus.*?
 >>
->>Mateus, cap. 22, vers. 21
+>>Mateus, cap. 22, vers. 21, ARC
 {:.bible}
 
 O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
@@ -10959,9 +10953,9 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 >O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de Jesus:
 >
 {:.kardec}
->>*Amai-vos uns aos outros como irmãos.*
+>>*Amarás o teu próximo como a ti mesmo.*
 >>
->>Mateus, cap. 22, vers. 39
+>>Mateus, cap. 22, vers. 39, ARC
 {:.bible}
 >
 >A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
@@ -10971,7 +10965,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 
 ##### LDE-q887
 
-#️⃣ 887. Jesus também disse: *Amai mesmo os vossos inimigos.* (📜 ▸ **Mateus, cap. 5, vers. 44**) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+#️⃣ 887. Jesus também disse: *Amai a vossos inimigos* (📜 ▸ Mateus, cap. 5, vers. 44, ARC) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 {:.spirit}
@@ -10993,9 +10987,9 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:
 {:.spirit}
 >
->>*Ignore a vossa mão esquerda o que a direita der.*
+>>*... não saiba a tua mão esquerda o que faz a tua direita ...*
 >>
->>Mateus, cap. 6, vers. 3
+>>Mateus, cap. 6, vers. 3, ARC
 {:.bible}
 >
 >Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
@@ -11171,9 +11165,9 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de Jesus:
 {:.spirit}
 >
->>*Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.*
+>>*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?*
 >>
->>Mateus, cap. 7, vers. 3
+>>Mateus, cap. 7, vers. 3, ARC
 {:.bible}
 
 ---
@@ -11476,9 +11470,9 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 >Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:
 {:.spirit}
 >
->>*Bem-aventurados os que sofrem, pois que serão consolados.*
+>>*... bem-aventurados os que choram, porque eles serão consolados ...*
 >>
->>Mateus, cap. 5, vers. 4
+>>Mateus, cap. 5, vers. 4, ARC
 {:.bible}
 
 ---
