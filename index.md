@@ -22,7 +22,7 @@ layout: default
 
 👻 - Espírito  
 👴🏼 - Allan Kardec  
-📜 - Bíblia  
+📜 - Bíblia (*Jesus*; outros)
 
 ## Legal
 
