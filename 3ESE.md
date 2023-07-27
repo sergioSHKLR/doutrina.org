@@ -57,7 +57,7 @@ h5 {font-size: 100%;}
 
 |
 | 📗 O Evangelho segundo o Espiritismo |
-|::|
+|:---:|
 |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
 |
@@ -272,12 +272,7 @@ Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o
 
 10. >O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.)
 
-Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 
-
->*... se qualquer te bater na face direita, oferece-lhe também a outra ...*
->
->**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 39](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=se%20qualquer%20te%20bater%20na%20face%20direita%2C%20oferece%2Dlhe%20tamb%C3%A9m%20a%20outra%3B), [ARC](https://www.bible.com/pt/versions/212)**
-{:.bible}
+Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 📜 ▸ *... se qualquer te bater na face direita, oferece-lhe também a outra ...* (**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 39](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=se%20qualquer%20te%20bater%20na%20face%20direita%2C%20oferece%2Dlhe%20tamb%C3%A9m%20a%20outra%3B), [ARC](https://www.bible.com/pt/versions/212)**)
 
 {:start="11"}
 11. >De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
@@ -294,14 +289,7 @@ Não está aí o princípio de caridade, que prescreve não se retribua o mal co
 {:start="13"}
 13. >É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
 
-Esta máxima: 
-
->*Pelos frutos é que se conhece a árvore*
->
->LIVRO? Cap. 12, itens 7 e 8
-{:.bible}
-
-, se encontra muitas vezes repetida textualmente no Evangelho.
+Esta máxima: 📜 ▸ *Pelos frutos é que se conhece a árvore* (**LIVRO, cap. X, vers. Y, ARC**), se encontra muitas vezes repetida textualmente no Evangelho.
 
 {:start="14"}
 14. >A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (ESE? Cap. 16)
@@ -312,12 +300,7 @@ Esta máxima:
 {:start="16"}
 16. >Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
 
-O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que:
-
->O amor não é nem um deus, nem um mortal, mas um grande demônio
-{:.quote}
-
-, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
+O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que: O amor não é nem um deus, nem um mortal, mas um grande demônio, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
 
 {:start="17"}
 17. >A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
@@ -327,16 +310,10 @@ O amor, que há de unir os homens por um laço fraternal, é uma consequência d
 {:start="18"}
 18. >É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
 
-Diz o Evangelho: 
-
->*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?*
->
->**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.[ARC](https://www.bible.com/pt/versions/212)#:~:text=E%20por%20que%20reparas%20tu%20no%20argueiro%20que%20est%C3%A1%20no%20olho%20do%20teu%20irm%C3%A3o%20e%20n%C3%A3o%20v%C3%AAs%20a%20trave%20que%20est%C3%A1%20no%20teu%20olho%3F), ARC ; Lucas cap. 6 vers. 42**
->LIVRO? Cap. 10, itens 9 e 10
-{:.bible}
+Diz o Evangelho: 📜 ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?* (**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.[ARC](https://www.bible.com/pt/versions/212)#:~:text=E%20por%20que%20reparas%20tu%20no%20argueiro%20que%20est%C3%A1%20no%20olho%20do%20teu%20irm%C3%A3o%20e%20n%C3%A3o%20v%C3%AAs%20a%20trave%20que%20est%C3%A1%20no%20teu%20olho%3F), ARC ; Lucas cap. 6 vers. 42**)
 
 {:start="19"}
-19. >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
+19.  >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
 
 O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
 
@@ -348,10 +325,7 @@ Essa sentença de Sócrates fere a grave questão da predominância do mal na Te
 {:start="21"}
 21. >Ajuizado serás, não supondo que sabes o que ignoras.
 
-Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: 
-
->Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
-{:.quote}
+Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
 
 É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
@@ -360,6 +334,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:.hundred}
 
 ## 🗂️ Parte 1. Miolo {#ESE-1}
+
+---
 
 ### 📑 Não vim destruir a lei {#ESE-1-01}
 
@@ -520,6 +496,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 >📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 {:.transparent}
 
+---
+
 ### 📑 02. Meu Reino não é deste mundo {#ESE-1-02}
 
 #️⃣
@@ -604,6 +582,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
    Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais. – Uma Rainha de França. (Havre, 1863.)
 
+---
+
 ### 📑 03. Há muitas moradas na casa de meu Pai {#ESE-1-03}
 
 #️⃣
@@ -614,7 +594,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >**João, cap. 14. vers. 1 a 3**
    {:.bible}
 
-#### 📃 Diferentes estados da alma na erraticidade {#ESE-1-03-01}
+**📃 Diferentes estados da alma na erraticidade**
 
 #️⃣
 {:.hash}
@@ -624,7 +604,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
    Independente da diversidade dos mundos, essas palavras de Jesus também podem referir-se ao estado venturoso ou desgraçado do Espírito na erraticidade. Conforme se ache este mais ou menos depurado e desprendido dos laços materiais, variarão ao infinito o meio em que ele se encontre, o aspecto das coisas, as sensações que experimente, as percepções que tenha. Enquanto uns não se podem afastar da esfera onde viveram, outros se elevam e percorrem o Espaço e os mundos; enquanto alguns Espíritos culpados erram nas trevas, os bem-aventurados gozam de resplendente claridade e do espetáculo sublime do Infinito; finalmente, enquanto o mau, atormentado de remorsos e pesares, muitas vezes insulado, sem consolação, separado dos que constituíam objeto de suas afeições, pena sob o guante dos sofrimentos morais, o justo, em convívio com aqueles a quem ama, frui as delícias de uma felicidade indizível. Também nisso, portanto, há muitas moradas, embora não circunscritas, nem localizadas.
 
-#### 📃 Diferentes categorias de mundos habitados {#ESE-1-03-02}
+**📃 Diferentes categorias de mundos habitados**
 
 #️⃣
 {:.hash}
@@ -644,7 +624,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="5"}
 5. Os Espíritos que encarnam em um mundo não se acham a ele presos indefinidamente, nem nele atravessam todas as fases do progresso que lhes cumpre realizar, para atingir a perfeição. Quando, em um mundo, eles alcançam o grau de adiantamento que esse mundo comporta, passam para outro mais adiantado, e assim por diante, até que cheguem ao estado de puros Espíritos. São outras tantas estações, em cada uma das quais se lhes deparam elementos de progresso apropriados ao adiantamento que já conquistaram. É-lhes uma recompensa ascenderem a um mundo de ordem mais elevada, como é um castigo o prolongarem a sua permanência em um mundo desgraçado, ou serem relegados para outro ainda mais infeliz do que aquele a que se veem impedidos de voltar quando se obstinaram no mal.
 
-#### 📃 Destinação da Terra. Causas das misérias humanas {#ESE-1-03-03}
+**📃 Destinação da Terra. Causas das misérias humanas**
 
 #️⃣
 {:.hash}
@@ -660,9 +640,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
    Ora, assim como, numa cidade, a população não se encontra toda nos hospitais ou nas prisões, também na Terra não está a Humanidade inteira. E, do mesmo modo que do hospital saem os que se curaram e da prisão os que cumpriram suas penas, o homem deixa a Terra quando está curado de suas enfermidades morais.
 
-#### 📃 Instruções dos Espíritos {#ESE-1-03-04}
+**📃 Instruções dos Espíritos**
 
-##### Mundos inferiores e mundos superiores
+**Mundos inferiores e mundos superiores**
 
 #️⃣
 {:.hash}
@@ -707,7 +687,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 12. >Entretanto, os mundos felizes não são orbes privilegiados, visto que Deus não é parcial para qualquer de seus filhos; a todos dá os mesmos direitos e as mesmas facilidades para chegarem a tais mundos. Fá-los partir todos do mesmo ponto e a nenhum dota melhor do que aos outros; a todos são acessíveis as mais altas categorias: apenas lhes cumpre conquistá-las pelo seu trabalho, alcançá-las mais depressa, ou permanecer inativos por séculos de séculos no lodaçal da Humanidade. (Resumo do ensino de todos os Espíritos superiores.)
     {:.spirit}
 
-##### Mundos de expiações e de provas
+**Mundos de expiações e de provas**
 
 #️⃣
 {:.hash}
@@ -735,7 +715,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >🇫🇷 [Paris](./maps/paris.html), 1862
     {:.spirit}
 
-##### Mundos regeneradores
+**Mundos regeneradores**
 
 #️⃣
 {:.hash}
@@ -765,7 +745,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
      >🇫🇷 [Paris](./maps/paris.html), 1862**
      {:.spirit}
 
-##### Progressão dos mundos
+**Progressão dos mundos**
 
 #️⃣
 {:.hash}
@@ -780,6 +760,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Santo Agostinho  
     >🇫🇷 [Paris](./maps/paris.html), 1862**
     {:.spirit}
+
+---
 
 ### 📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#ESE-1-04}
 
@@ -809,7 +791,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), 17:10 a 13; Marcos, 9:11 a 13**
    {:.bible}
 
-#### 📃 Ressurreição e reencarnação {#ESE-1-04-01}
+**📃 Ressurreição e reencarnação**
 
 #️⃣
 {:.hash}
@@ -963,7 +945,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     Sem o princípio da preexistência da alma e da pluralidade das existências, são ininteligíveis, em sua maioria, as máximas do Evangelho, razão por que hão dado lugar a tão contraditórias interpretações. Está nesse princípio a chave que lhes restituirá o sentido verdadeiro.
 
-#### 📃 A reencarnação fortalece os laços de família, ao passo que a unicidade da existência os rompe {#ESE-1-04-02}
+**📃 A reencarnação fortalece os laços de família, ao passo que a unicidade da existência os rompe**
 
 #️⃣
 {:.hash}
@@ -1007,7 +989,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="23"}
 23. Em resumo, quatro alternativas se apresentam ao homem para o seu futuro de além-túmulo: 1a , o nada, de acordo com a doutrina materialista; 2a , a absorção no todo universal, de acordo com a doutrina panteísta; 3a , a individualidade, com fixação definitiva da sorte, segundo a doutrina da Igreja; 4a , a individualidade, com progressão indefinita, conforme a Doutrina Espírita. Segundo as duas primeiras, os laços de família se rompem por ocasião da morte e nenhuma esperança resta às almas de se encontrarem futuramente. Com a terceira, há para elas a possibilidade de se tornarem a ver, desde que sigam para a mesma região, que tanto pode ser o inferno como o paraíso. Com a pluralidade das existências, inseparável da progressão gradativa, há a certeza na continuidade das relações entre os que se amaram, e é isso o que constitui a verdadeira família.
 
-#### 📃 Instruções dos Espíritos {#ESE-1-04-03}
+**📃 Instruções dos Espíritos**
 
 **Limites da encarnação**
 
@@ -1029,7 +1011,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >🇫🇷 [Paris](./maps/paris.html), 1859**
     {:.spirit}
 
-##### Necessidade da encarnação
+**Necessidade da encarnação**
 
 #️⃣
 {:.hash}
@@ -1053,6 +1035,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     Não poderiam os Espíritos encarnar uma única vez em determinado globo e preencher em esferas diferentes suas diferentes existências? Semelhante modo de ver só seria admissível se, na Terra, todos os homens estivessem exatamente no mesmo nível intelectual e moral. As diferenças que há entre eles, desde o selvagem ao homem civilizado, mostram quais os degraus que têm de subir. A encarnação, aliás, precisa ter um fim útil. Ora, qual seria o das encarnações efêmeras das crianças que morrem em tenra idade? Teriam sofrido sem proveito para si, nem para outrem. Deus, cujas leis todas são soberanamente sábias, nada faz de inútil. Pela reencarnação no mesmo globo, quis Ele que os mesmos Espíritos, pondo-se novamente em contato, tivessem ensejo de reparar seus danos recíprocos. Por meio das suas relações anteriores, quis, além disso, estabelecer sobre base espiritual os laços de família e apoiar numa lei natural os princípios da solidariedade, da fraternidade e da igualdade.
 
+---
+
 ### 📑 05. Bem aventurados os aflitos {#ESE-1-05}
 
 #️⃣
@@ -1063,6 +1047,10 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 4, 6 e 10**
     {:.bible}
 
+#️⃣
+{:.hash}
+
+{:start="2"}
 2. >*Bem-aventurados vós, que sois pobres, porque vosso é o Reino dos Céus. Bem-aventurados vós, que agora tendes fome, porque sereis saciados. Ditosos sois, vós que agora chorais, porque rireis.*
     >
     >Lucas, cap. 6, vers. 20 e 21**
@@ -1072,7 +1060,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >**Lucas, cap. 6, vers. 24 e 25**
     {:.bible}
 
-#### 📃 Justiça das aflições {#ESE-1-05-01}
+**📃 Justiça das aflições**
 
 #️⃣
 {:.hash}
@@ -1080,7 +1068,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="3"}
 3. Somente na vida futura podem efetivar-se as compensações que Jesus promete aos aflitos da Terra. Sem a certeza do futuro, estas máximas seriam um contrassenso; mais ainda: seriam um engodo. Mesmo com essa certeza, dificilmente se compreende a conveniência de sofrer para ser feliz. É, dizem, para se ter maior mérito. Mas, então, pergunta-se: por que sofrem uns mais do que outros? Por que nascem uns na miséria e outros na opulência, sem coisa alguma haverem feito que justifique essas posições? Por que uns nada conseguem, ao passo que a outros tudo parece sorrir? Todavia, o que ainda menos se compreende é que os bens e os males sejam tão desigualmente repartidos entre o vício e a virtude; e que os homens virtuosos sofram, ao lado dos maus que prosperam. A fé no futuro pode consolar e infundir paciência, mas não explica essas anomalias, que parecem desmentir a Justiça de Deus. Entretanto, desde que admita a existência de Deus, ninguém o pode conceber sem o infinito das perfeições. Ele necessariamente tem todo o poder, toda a justiça, toda a bondade, sem o que não seria Deus. Se é soberanamente bom e justo, não pode agir caprichosamente, nem com parcialidade. Logo, as vicissitudes da vida derivam de uma causa e, pois que Deus é justo, justa há de ser essa causa. Isso o de que cada um deve bem compenetrar-se. Por meio dos ensinos de Jesus, Deus pôs os homens na direção dessa causa, e hoje, julgando-os suficientemente maduros para compreendê-la, lhes revela completamente a aludida causa, por meio do Espiritismo, isto é, pela palavra dos Espíritos.
 
-#### 📃 Causas atuais das aflições {#ESE-1-05-02}
+**📃 Causas atuais das aflições**
 
 #️⃣
 {:.hash}
@@ -1116,7 +1104,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    
    Entretanto, a experiência, algumas vezes, chega um pouco tarde: quando a vida já foi desperdiçada e turbada; quando as forças já estão gastas e sem remédio o mal. Põe-se então o homem a dizer: “Se no começo dos meus dias eu soubera o que sei hoje, quantos passos em falso teria evitado! Se houvesse de recomeçar, conduzir-me-ia de outra maneira. No entanto, já não há mais tempo!” Como o obreiro preguiçoso, que diz: “Perdi o meu dia”, também ele diz: “Perdi a minha vida.” Contudo, assim como para o obreiro o sol se levanta no dia seguinte, permitindo-lhe neste reparar o tempo perdido, também para o homem, após a noite do túmulo, brilhará o sol de uma nova vida, em que lhe será possível aproveitar a experiência do passado e suas boas resoluções para o futuro.
 
-#### 📃 Causas anteriores das aflições {#ESE-1-05-03}
+**📃 Causas anteriores das aflições**
 
 #️⃣
 {:.hash}
@@ -1135,6 +1123,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 #️⃣
 {:.hash}
 
+{:start="7"}
 7. Os sofrimentos devidos a causas anteriores à existência presente, como os que se originam de culpas atuais, são muitas vezes a consequência da falta cometida, isto é, o homem, pela ação de uma rigorosa justiça distributiva, sofre o que fez sofrer aos outros. Se foi duro e desumano, poderá ser a seu turno tratado duramente e com desumanidade; se foi orgulhoso, poderá nascer em humilhante condição; se foi avaro, egoísta, ou se fez mau uso de suas riquezas, poderá ver-se privado do necessário; se foi mau filho, poderá sofrer pelo procedimento de seus filhos etc.
 
    Assim se explicam pela pluralidade das existências e pela destinação da Terra, como mundo expiatório, as anomalias que apresenta a distribuição da ventura e da desventura entre os bons e os maus neste planeta. Semelhante anomalia, contudo, só existe na aparência, porque considerada tão só do ponto de vista da vida presente. Aquele que se elevar, pelo pensamento, de maneira a apreender toda uma série de existências, verá que a cada um é atribuída a parte que lhe compete, sem prejuízo da que lhe tocará no mundo dos Espíritos, e verá que a Justiça de Deus nunca se interrompe.
@@ -1144,11 +1133,13 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 #️⃣
 {:.hash}
 
+{:start="8"}
 8. As tribulações podem ser impostas a Espíritos endurecidos, ou extremamente ignorantes, para levá-los a fazer uma escolha com conhecimento de causa. Os Espíritos penitentes, porém, desejosos de reparar o mal que hajam feito e de proceder melhor, esses as escolhem livremente. Tal o caso de um que, havendo desempenhado mal sua tarefa, pede lha deixem recomeçar, para não perder o fruto de seu trabalho. As tribulações, portanto, são, ao mesmo tempo, expiações do passado, que recebe nelas o merecido castigo, e provas com relação ao futuro, que elas preparam. Rendamos graças a Deus, que, em sua bondade, faculta ao homem reparar seus erros e não o condena irrevogavelmente por uma primeira falta.
 
 #️⃣
 {:.hash}
 
+{:start="9"}
 9. Não há crer, no entanto, que todo sofrimento suportado neste mundo denote a existência de uma determinada falta. Muitas vezes são simples provas buscadas pelo Espírito para concluir a sua depuração e ativar o seu progresso. Assim, a expiação serve sempre de prova, mas nem sempre a prova é uma expiação. Provas e expiações, todavia, são sempre sinais de relativa inferioridade, porquanto o que é perfeito não precisa ser provado. Pode, pois, um Espírito haver chegado a certo grau de elevação e, nada obstante, desejoso de adiantar-se mais, solicitar uma missão, uma tarefa a executar, pela qual tanto mais recompensado será, se sair vitorioso, quanto mais rude haja sido a luta. Tais são, especialmente, essas pessoas de instintos naturalmente bons, de alma elevada, de nobres sentimentos inatos, que parece nada de mau haverem trazido de suas precedentes existências e que sofrem, com resignação toda cristã, as maiores dores, somente pedindo a Deus que as possam suportar sem murmurar. Pode-se, ao contrário, considerar como expiações as aflições que provocam queixas e impelem o homem à revolta contra Deus.
 
    Sem dúvida, o sofrimento que não provoca queixumes pode ser uma expiação; mas é indício de que foi buscada voluntariamente, antes que imposta, e constitui prova de forte resolução, o que é sinal de progresso.
@@ -1156,9 +1147,10 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 #️⃣
 {:.hash}
 
+{:start="10"}
 10. Os Espíritos não podem aspirar à completa felicidade, até que não se tenham tornado puros: qualquer mácula lhes interdita a entrada nos mundos ditosos. São como os passageiros de um navio onde há pestosos, aos quais se veda o acesso à cidade a que aportem, até que se hajam expurgado. Mediante as diversas existências corpóreas é que os Espíritos se vão expungindo, pouco a pouco, de suas imperfeições. As provações da vida os fazem adiantar-se, quando bem suportadas. Como expiações, elas apagam as faltas e purificam. São o remédio que limpa as chagas e cura o doente. Quanto mais grave é o mal, tanto mais enérgico deve ser o remédio. Aquele, pois, que muito sofre deve reconhecer que muito tinha a expiar e deve regozijar-se à ideia da sua próxima cura. Dele depende, pela resignação, tornar proveitoso o seu sofrimento e não lhe estragar o fruto com as suas impaciências, visto que, do contrário, terá de recomeçar.
 
-#### 📃 Esquecimento do passado {#ESE-1-05-04}
+**📃 Esquecimento do passado**
 
 #️⃣
 {:.hash}
@@ -1176,7 +1168,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     E não é somente após a morte que o Espírito recobra a lembrança do passado. Pode dizer-se que jamais a perde, pois que, como a experiência o demonstra, mesmo encarnado, adormecido o corpo, ocasião em que goza de certa liberdade, o Espírito tem consciência de seus atos anteriores; sabe por que sofre e que sofre com justiça. A lembrança unicamente se apaga no curso da vida exterior, da vida de relação, mas na falta de uma recordação exata, que lhe poderia ser penosa e prejudicá-lo nas suas relações sociais, forças novas haure ele nesses instantes de emancipação da alma, se os sabe aproveitar.
 
-#### 📃 Motivos de resignação {#ESE-1-05-05}
+**📃 Motivos de resignação**
 
 #️⃣
 {:.hash}
@@ -1198,7 +1190,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="13"}
 13. O homem pode suavizar ou aumentar o amargor de suas provas, conforme o modo por que encare a vida terrena. Tanto mais sofre ele, quanto mais longa se lhe afigura a duração do sofrimento. Ora, aquele que a encara pelo prisma da vida espiritual apanha, num golpe de vista, a vida corpórea. Ele a vê como um ponto no infinito, compreende-lhe a curteza e reconhece que esse penoso momento terá presto passado. A certeza de um próximo futuro mais ditoso o sustenta e anima e, longe de se queixar, agradece ao Céu as dores que o fazem avançar. Contrariamente, para aquele que apenas vê a vida corpórea, interminável lhe parece esta, e a dor o oprime com todo o seu peso. Daquela maneira de considerar a vida, resulta ser diminuída a importância das coisas deste mundo, e sentir-se compelido o homem a moderar seus desejos, a contentar-se com a sua posição, sem invejar a dos outros, a receber atenuada a impressão dos reveses e das decepções que experimente. Daí tira ele uma calma e uma resignação tão úteis à saúde do corpo quanto à da alma, ao passo que, com a inveja, o ciúme e a ambição, voluntariamente se condena à tortura e aumenta as misérias e as angústias da sua curta existência.
 
-#### 📃 O suicídio e a loucura {#ESE-1-05-06}
+**📃 O suicídio e a loucura**
 
 #️⃣
 {:.hash}
@@ -1223,9 +1215,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 17. O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positivo e talvez mais decisivo. Apresenta-nos os próprios suicidas a informar-nos da situação desgraçada em que se encontram e a provar que ninguém viola impunemente a Lei de Deus, que proíbe ao homem encurtar a sua vida. Entre os suicidas, alguns há cujos sofrimentos, nem por serem temporários e não eternos, não são menos terríveis e de natureza a fazer refletir os que porventura pensam em daqui sair, antes que Deus o haja ordenado. O espírita tem, assim, vários motivos a contrapor à ideia do suicídio: a certeza de uma vida futura, em que, sabe-o ele, será tanto mais ditoso, quanto mais inditoso e resignado haja sido na Terra; a certeza de que, abreviando seus dias, chega, precisamente, a resultado oposto ao que esperava; que se liberta de um mal, para incorrer num mal pior, mais longo e mais terrível; que se engana, imaginando que, com o matar-se, vai mais depressa para o céu; que o suicídio é um obstáculo a que no outro mundo ele se reúna aos que foram objeto de suas afeições e aos quais esperava encontrar; donde a consequência de que o suicídio, só lhe trazendo decepções, é contrário aos seus próprios interesses. Por isso mesmo, considerável já é o número dos que têm sido, pelo Espiritismo, obstados de suicidar-se, podendo daí concluir-se que, quando todos os homens forem espíritas, deixará de haver suicídios conscientes. Comparando-se, então, os resultados que as doutrinas materialistas produzem com os que decorrem da Doutrina Espírita, somente do ponto de vista do suicídio, forçoso será reconhecer que, enquanto a lógica das primeiras a ele conduz, a da outra o evita, fato que a experiência confirma.
 
-#### 📃 Instruções dos Espíritos {#ESE-1-05-07}
+**📃 Instruções dos Espíritos**
 
-##### Bem e mal sofrer
+**Bem e mal sofrer**
 
 #️⃣
 {:.hash}
@@ -1241,7 +1233,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >🇫🇷 [Havre](./maps/havre.html), 1863**
     {:.spirit}
 
-##### O mal e o remédio
+**O mal e o remédio**
 
 #️⃣
 {:.hash}
