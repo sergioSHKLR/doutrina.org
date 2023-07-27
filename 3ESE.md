@@ -4,10 +4,10 @@ layout: default
 ---
 
 <style>
-
-li::marker {
-    content: "#️⃣ "
-}
+/*
+li::before {content: "#️⃣";
+margin-left: -40px;}
+*/
 
 h1,
 h2,
@@ -41,112 +41,6 @@ h5 {font-size: 100%;}
 </style>
 
 # 📗 O Evangelho segundo o Espiritismo {#ESE}
-
----
-
-- [📗 O Evangelho segundo o Espiritismo {#ESE}](#-o-evangelho-segundo-o-espiritismo-ese)
-  - [🗂️ Parte 0. Pré-textual {#ESE-0}](#️-parte-0-pré-textual-ese-0)
-    - [📃 Folha de rosto {#ESE-0-01}](#-folha-de-rosto-ese-0-01)
-    - [📃 Prefácio {#ESE-0-02}](#-prefácio-ese-0-02)
-    - [📑 Introdução {#ESE-0-03}](#-introdução-ese-0-03)
-      - [📃 1. Objetivo desta obra {#ESE-0-03-01}](#-1-objetivo-desta-obra-ese-0-03-01)
-      - [📃 2. Autoridade da doutrina espírita {#ESE-0-03-02}](#-2-autoridade-da-doutrina-espírita-ese-0-03-02)
-      - [📃 3. Notícias históricas {#ESE-0-03-03}](#-3-notícias-históricas-ese-0-03-03)
-      - [📃 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo {#ESE-0-03-04}](#-4-sócrates-e-platão-precursores-da-ideia-cristã-e-do-espiritismo-ese-0-03-04)
-  - [🗂️ Parte 1. Miolo {#ESE-1}](#️-parte-1-miolo-ese-1)
-    - [📑 01. Não vim destruir a lei {#ESE-1-01}](#-01-não-vim-destruir-a-lei-ese-1-01)
-      - [01 📃 Moisés {#ESE-1-01-p2}](#01--moisés-ese-1-01-p2)
-      - [02 📃 O Cristo {#ESE-1-01-02}](#02--o-cristo-ese-1-01-02)
-      - [03 📃 Espiritismo {#ESE-1-01-03}](#03--espiritismo-ese-1-01-03)
-      - [04 📃 Aliança da Ciência e da Religião {#ESE-1-01-04}](#04--aliança-da-ciência-e-da-religião-ese-1-01-04)
-      - [05 📃 Instruções dos Espíritos {#ESE-1-01-05}](#05--instruções-dos-espíritos-ese-1-01-05)
-        - [A nova era](#a-nova-era)
-    - [📑 02. Meu Reino não é deste mundo {#ESE-1-02}](#-02-meu-reino-não-é-deste-mundo-ese-1-02)
-      - [01 📃 A vida futura {#ESE-1-02-01}](#01--a-vida-futura-ese-1-02-01)
-      - [02 📃A realeza de Jesus {#ESE-1-02-02}](#02-a-realeza-de-jesus-ese-1-02-02)
-      - [03 📃O ponto de vista {#ESE-1-02-03}](#03-o-ponto-de-vista-ese-1-02-03)
-      - [04 📃Instruções dos Espíritos {#ESE-1-02-04}](#04-instruções-dos-espíritos-ese-1-02-04)
-    - [📑 03. Há muitas moradas na casa de meu Pai {#ESE-1-03}](#-03-há-muitas-moradas-na-casa-de-meu-pai-ese-1-03)
-      - [01 📃 Diferentes estados da alma na erraticidade {#ESE-1-03-01}](#01--diferentes-estados-da-alma-na-erraticidade-ese-1-03-01)
-      - [02 📃 Diferentes categorias de mundos habitados {#ESE-1-03-02}](#02--diferentes-categorias-de-mundos-habitados-ese-1-03-02)
-      - [03 📃 Destinação da Terra. Causas das misérias humanas {#ESE-1-03-03}](#03--destinação-da-terra-causas-das-misérias-humanas-ese-1-03-03)
-      - [04 📃 Instruções dos Espíritos {#ESE-1-03-04}](#04--instruções-dos-espíritos-ese-1-03-04)
-    - [📑 04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#ESE-1-04}](#-04-ninguém-poderá-ver-o-reino-de-deus-se-não-nascer-de-novo-ese-1-04)
-      - [01 📃 Ressurreição e reencarnação {#ESE-1-04-01}](#01--ressurreição-e-reencarnação-ese-1-04-01)
-      - [02 📃 A reencarnação fortalece os laços de família, ao passo que a unicidade da existência os rompe {#ESE-1-04-02}](#02--a-reencarnação-fortalece-os-laços-de-família-ao-passo-que-a-unicidade-da-existência-os-rompe-ese-1-04-02)
-      - [03 📃 Instruções dos Espíritos {#ESE-1-04-03}](#03--instruções-dos-espíritos-ese-1-04-03)
-    - [📑 05. Bem aventurados os aflitos {#ESE-1-05}](#-05-bem-aventurados-os-aflitos-ese-1-05)
-      - [01 📃 Justiça das aflições {#ESE-1-05-01}](#01--justiça-das-aflições-ese-1-05-01)
-      - [02 📃 Causas atuais das aflições {#ESE-1-05-02}](#02--causas-atuais-das-aflições-ese-1-05-02)
-      - [03 📃 Causas anteriores das aflições {#ESE-1-05-03}](#03--causas-anteriores-das-aflições-ese-1-05-03)
-      - [04 📃 Esquecimento do passado {#ESE-1-05-04}](#04--esquecimento-do-passado-ese-1-05-04)
-      - [05 📃 Motivos de resignação {#ESE-1-05-05}](#05--motivos-de-resignação-ese-1-05-05)
-      - [06 📃 O suicídio e a loucura {#ESE-1-05-06}](#06--o-suicídio-e-a-loucura-ese-1-05-06)
-      - [07 📃 Instruções dos Espíritos {#ESE-1-05-07}](#07--instruções-dos-espíritos-ese-1-05-07)
-    - [📑 06. O Cristo Consolador {#ESE-1-06}](#-06-o-cristo-consolador-ese-1-06)
-      - [01 📃 O jugo leve {#ESE-1-06-01}](#01--o-jugo-leve-ese-1-06-01)
-      - [02 📃 Consolador prometido {#ESE-1-06-01}](#02--consolador-prometido-ese-1-06-01)
-      - [03 📃 Instruções dos Espíritos {#ESE-1-06-01}](#03--instruções-dos-espíritos-ese-1-06-01)
-    - [📑 07. Bem-aventurados os pobres de espírito {#ESE-1-07}](#-07-bem-aventurados-os-pobres-de-espírito-ese-1-07)
-      - [01 📃 O que se deve entender por pobres de espírito {#ESE-1-07-01}](#01--o-que-se-deve-entender-por-pobres-de-espírito-ese-1-07-01)
-      - [02 📃 Aquele que se eleva será rebaixado {#ESE-1-07-02}](#02--aquele-que-se-eleva-será-rebaixado-ese-1-07-02)
-      - [03 📃 Mistérios ocultos aos doutos e aos prudentes {#ESE-1-07-03}](#03--mistérios-ocultos-aos-doutos-e-aos-prudentes-ese-1-07-03)
-      - [04 📃 Instruções dos Espíritos {#ESE-1-07-04}](#04--instruções-dos-espíritos-ese-1-07-04)
-    - [📑 08. Bem-aventurados os que tem puro o coração {#ESE-1-08}](#-08-bem-aventurados-os-que-tem-puro-o-coração-ese-1-08)
-      - [01 📃 Simplicidade e pureza de coração {ESE-1-08-01}](#01--simplicidade-e-pureza-de-coração-ese-1-08-01)
-      - [02 📃 Pecado por pensamentos. Adultério {#ESE-1-08-02}](#02--pecado-por-pensamentos-adultério-ese-1-08-02)
-      - [03 📃 Verdadeira pureza. Mãos não lavadas {#ESE-1-08-03}](#03--verdadeira-pureza-mãos-não-lavadas-ese-1-08-03)
-      - [04 📃 Escândalos. Se a vossa mão é motivo de escândalo, cortai-a {#ESE-1-08-04}](#04--escândalos-se-a-vossa-mão-é-motivo-de-escândalo-cortai-a-ese-1-08-04)
-      - [05 📃 Instruções dos Espíritos {#ESE-1-08-05}](#05--instruções-dos-espíritos-ese-1-08-05)
-    - [📑 09. Bem-aventurados os que são brandos e pacíficos {#ESE-1-09}](#-09-bem-aventurados-os-que-são-brandos-e-pacíficos-ese-1-09)
-      - [Instruções dos Espíritos](#instruções-dos-espíritos)
-        - [A afabilidade e a doçura](#a-afabilidade-e-a-doçura)
-        - [A paciência](#a-paciência)
-        - [Obediência e resignação](#obediência-e-resignação)
-        - [A cólera](#a-cólera)
-    - [📑 10. Bem-aventurados os que são misericordiosos {#ESE-1-10}](#-10-bem-aventurados-os-que-são-misericordiosos-ese-1-10)
-      - [Perdoai, para que Deus vos perdoe](#perdoai-para-que-deus-vos-perdoe)
-        - [Reconciliação com os adversários](#reconciliação-com-os-adversários)
-      - [O sacrifício mais agradável a Deus](#o-sacrifício-mais-agradável-a-deus)
-      - [O argueiro e a trave no olho](#o-argueiro-e-a-trave-no-olho)
-      - [Não julgueis, para não serdes julgados. Atire a primeira pedra aquele que estiver sem pecado](#não-julgueis-para-não-serdes-julgados-atire-a-primeira-pedra-aquele-que-estiver-sem-pecado)
-      - [Instruções dos Espíritos](#instruções-dos-espíritos-1)
-        - [Perdão das ofensas](#perdão-das-ofensas)
-        - [A indulgência](#a-indulgência)
-        - [É permitido repreender os outros, notar as imperfeições de outrem, divulgar o mal de outrem?](#é-permitido-repreender-os-outros-notar-as-imperfeições-de-outrem-divulgar-o-mal-de-outrem)
-    - [📑 11. Amar o próximo como a si mesmo {#ESE-1-11}](#-11-amar-o-próximo-como-a-si-mesmo-ese-1-11)
-      - [O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores](#o-mandamento-maior-fazermos-aos-outros-o-que-queiramos-que-os-outros-nos-façam-parábola-dos-credores-e-dos-devedores)
-      - [Dai a César o que é de César](#dai-a-césar-o-que-é-de-césar)
-      - [Instruções dos Espíritos](#instruções-dos-espíritos-2)
-        - [A lei de amor](#a-lei-de-amor)
-        - [O egoísmo](#o-egoísmo)
-        - [A fé e a caridade](#a-fé-e-a-caridade)
-        - [Caridade para com os criminosos](#caridade-para-com-os-criminosos)
-        - [Deve-se expor a vida por um malfeitor?](#deve-se-expor-a-vida-por-um-malfeitor)
-    - [📑 12. Amai os vossos inimigos {#ESE-1-12}](#-12-amai-os-vossos-inimigos-ese-1-12)
-      - [Retribuir o mal com o bem](#retribuir-o-mal-com-o-bem)
-        - [Os inimigos desencarnados](#os-inimigos-desencarnados)
-        - [Se alguém vos bater na face direita, apresentai-lhe também a outra](#se-alguém-vos-bater-na-face-direita-apresentai-lhe-também-a-outra)
-      - [Instruções dos Espíritos](#instruções-dos-espíritos-3)
-        - [A vingança](#a-vingança)
-        - [O ódio](#o-ódio)
-    - [📑 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ESE-1-13}](#-13-não-saiba-a-vossa-mão-esquerda-o-que-dê-a-vossa-mão-direita-ese-1-13)
-    - [📑 14. Honrai o vosso pai e a vossa mãe {#ESE-1-14}](#-14-honrai-o-vosso-pai-e-a-vossa-mãe-ese-1-14)
-    - [📑 15. Fora da caridade não há salvação {#ESE-1-15}](#-15-fora-da-caridade-não-há-salvação-ese-1-15)
-    - [📑 16. Não se pode servir a Deus e a Mamon {#ESE-1-16}](#-16-não-se-pode-servir-a-deus-e-a-mamon-ese-1-16)
-    - [📑 17. Sede perfeitos {#ESE-1-17}](#-17-sede-perfeitos-ese-1-17)
-    - [📑 18. Muitos os chamados, poucos os escolhidos {#ESE-1-18}](#-18-muitos-os-chamados-poucos-os-escolhidos-ese-1-18)
-    - [📑 19. A fé transporta montanhas {#ESE-1-19}](#-19-a-fé-transporta-montanhas-ese-1-19)
-    - [📑 20. Os trabalhadores da última hora {#ESE-1-20}](#-20-os-trabalhadores-da-última-hora-ese-1-20)
-    - [📑 21. Haverá falsos cristos e falsos profetas {#ESE-1-21}](#-21-haverá-falsos-cristos-e-falsos-profetas-ese-1-21)
-    - [📑 22. Não separeis o que Deus juntou {#ESE-1-22}](#-22-não-separeis-o-que-deus-juntou-ese-1-22)
-    - [📑 23. Estranha moral {#ESE-1-23}](#-23-estranha-moral-ese-1-23)
-    - [📑 24. Não ponhais a candeia debaixo do alqueire {#ESE-1-24}](#-24-não-ponhais-a-candeia-debaixo-do-alqueire-ese-1-24)
-    - [📑 25. Buscai e achareis {#ESE-1-25}](#-25-buscai-e-achareis-ese-1-25)
-    - [📑 26. Dai gratuitamente o que gratuitamente recebestes {#ESE-1-26}](#-26-dai-gratuitamente-o-que-gratuitamente-recebestes-ese-1-26)
-    - [📑 27. Pedi e obtereis {#ESE-1-27}](#-27-pedi-e-obtereis-ese-1-27)
-    - [📑 28. Coletânea de preces espíritas {#ESE-1-28}](#-28-coletânea-de-preces-espíritas-ese-1-28)
-
 
 ---
 
@@ -335,6 +229,7 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 **Resumo da doutrina de Sócrates e de Platão**
 
+{:start="1"}
 1. >O homem é uma alma encarnada. Antes da sua encarnação, existia unida aos tipos primordiais das ideias do verdadeiro, do bem e do belo; separa-se deles, encarnando, e, recordando o seu passado, é mais ou menos atormentada pelo desejo de voltar a ele.
 
      Não se pode enunciar mais claramente a distinção e independência entre o princípio inteligente e o princípio material. É, além disso, a doutrina da preexistência da alma; da vaga intuição que ela guarda de um outro mundo, a que aspira; da sua sobrevivência ao corpo; da sua saída do mundo espiritual, para encarnar, e da sua volta a esse mesmo mundo, após a morte. É, finalmente, o gérmen da doutrina dos anjos decaídos.
