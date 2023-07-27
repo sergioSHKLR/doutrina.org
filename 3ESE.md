@@ -9,6 +9,11 @@ li::before {content: "#️⃣";
 margin-left: -40px;}
 */
 
+p.hash {
+    margin-left: -20px;
+    margin-bottom: -35px;
+}
+
 h1,
 h2,
 h3,
@@ -16,6 +21,7 @@ h4 {
     text-align: center;
 }
 
+h6 {display: none;}
 
 blockquote.bible p:first-child::before {
     content: "📜 ▸ ";
@@ -370,8 +376,9 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-### 📑 01. Não vim destruir a lei {#ESE-1-01}
+### 📑 Não vim destruir a lei {#ESE-1-01}
 
+###### #️⃣ ESE-1-01-p01 {#ESE-1-01-p01}
 1. >*Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir. Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota ou um til se omitirá da lei sem que tudo seja cumprido.*
    >
    >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 17-18](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=N%C3%A3o%20cuideis%20que%20vim%20destruir%20a%20lei%20ou%20os%20profetas%3B%20n%C3%A3o%20vim%20ab%2Drogar%2C%20mas%20cumprir.%2018Porque%20em%20verdade%20vos%20digo%20que%2C%20at%C3%A9%20que%20o%20c%C3%A9u%20e%20a%20terra%20passem%2C%20nem%20um%20jota%20ou%20um%20til%20se%20omitir%C3%A1%20da%20lei%20sem%20que%20tudo%20seja%20cumprido.)**
@@ -379,7 +386,12 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ---
 
-#### 01 📃 Moisés {#ESE-1-01-p2}
+#### 📃 Moisés {#ESE-1-01-p2}
+
+###### #️⃣ ESE-1-XX-pYY {#ESE-1-XX-pYY}
+
+#️⃣
+{:.hash}
 
 {:start="2"}
 2. Na lei moisaica, há duas partes distintas: a Lei de Deus, promulgada no monte Sinai, e a lei civil ou disciplinar, decretada por Moisés. Uma é invariável; a outra, apropriada aos costumes e ao caráter do povo, se modifica com o tempo.
