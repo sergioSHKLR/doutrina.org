@@ -1,54 +1,3 @@
----
-title: 📗 ESE
-layout: default
----
-
-<style>
-/*
-li::before {content: "#️⃣";
-margin-left: -40px;}
-*/
-
-ol {
-    list-style-type: decimal-leading-zero;
-}
-
-p.hash {
-    margin-left: -30px;
-    margin-bottom: -35px;
-}
-
-h1,
-h2,
-h3,
-h4 {
-    text-align: center;
-}
-
-h6 {display: none;}
-
-blockquote.bible p:first-child::before {
-    content: "📜 ▸ ";
-    margin-left: -30px;
-}
-
-blockquote.spirit p:first-child::before {
-    content: "👻 ▸ ";
-    margin-left: -30px;
-}
-
-li {margin-left: -20px;}
-
-li>blockquote>p {margin-left: -30px;}
-
-li>blockquote.bible>p {margin-left: 0px;}
-
-li>blockquote.spirit>p {margin-left: 0px;}
-
-h5 {font-size: 100%;}
-
-</style>
-
 # 📗 O Evangelho segundo o Espiritismo {#ESE}
 
 ## 🗂️ Parte 0. Pré-textual {#ESE-0}
@@ -70,6 +19,7 @@ h5 {font-size: 100%;}
 | Título do original francês |
 | L’Évangile selon le spiritisme |
 | (Paris, abril de 1864) |
+
 
 ### 📃 Prefácio {#ESE-0-02}
 
@@ -272,10 +222,10 @@ Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o
 
 10. >O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.)
 
-Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 📜 ▸ *... se qualquer te bater na face direita, oferece-lhe também a outra ...* (**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 39](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=se%20qualquer%20te%20bater%20na%20face%20direita%2C%20oferece%2Dlhe%20tamb%C3%A9m%20a%20outra%3B), [ARC](https://www.bible.com/pt/versions/212)**)
+Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: 📜 ▸ *... se qualquer te bater na face direita, oferece-lhe também a outra ...* (**Mateus, cap. 5, [vers. 39](https://www.bible.com/pt/bible/212/MAT.5.ARC), ARC**)
 
 {:start="11"}
-11. >De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
+1.  >De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
 
 Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
 
@@ -310,7 +260,7 @@ O amor, que há de unir os homens por um laço fraternal, é uma consequência d
 {:start="18"}
 18. >É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
 
-Diz o Evangelho: 📜 ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?* (**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.[ARC](https://www.bible.com/pt/versions/212)#:~:text=E%20por%20que%20reparas%20tu%20no%20argueiro%20que%20est%C3%A1%20no%20olho%20do%20teu%20irm%C3%A3o%20e%20n%C3%A3o%20v%C3%AAs%20a%20trave%20que%20est%C3%A1%20no%20teu%20olho%3F), ARC ; Lucas cap. 6 vers. 42**)
+Diz o Evangelho: 📜 ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?* (**Mateus, cap. 7, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.ARC#:~:text=E%20por%20que%20reparas%20tu%20no%20argueiro%20que%20est%C3%A1%20no%20olho%20do%20teu%20irm%C3%A3o%20e%20n%C3%A3o%20v%C3%AAs%20a%20trave%20que%20est%C3%A1%20no%20teu%20olho%3F), ARC ; Lucas cap. 6 vers. 42**)
 
 {:start="19"}
 19.  >Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
@@ -339,252 +289,154 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ### 📑 Não vim destruir a lei {#ESE-1-01}
 
-#️⃣
-{:.hash}
-
-###### #️⃣ ESE-1-01-p01 {#ESE-1-01-p01}
-1. >*Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir. Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota ou um til se omitirá da lei sem que tudo seja cumprido.*
-   >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), [vers. 17-18](https://www.bible.com/pt/bible/212/MAT.5.ARC#:~:text=N%C3%A3o%20cuideis%20que%20vim%20destruir%20a%20lei%20ou%20os%20profetas%3B%20n%C3%A3o%20vim%20ab%2Drogar%2C%20mas%20cumprir.%2018Porque%20em%20verdade%20vos%20digo%20que%2C%20at%C3%A9%20que%20o%20c%C3%A9u%20e%20a%20terra%20passem%2C%20nem%20um%20jota%20ou%20um%20til%20se%20omitir%C3%A1%20da%20lei%20sem%20que%20tudo%20seja%20cumprido.)**
-   {:.bible}
+- #️⃣ 1. 📜 ▸ *Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir. Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota ou um til se omitirá da lei sem que tudo seja cumprido.*  
+  
+  **Mateus, cap. 5, vers. 17-18, ARC**
 
 **📃 Moisés**
 
-###### #️⃣ ESE-1-XX-pYY {#ESE-1-XX-pYY}
-
-#️⃣
-{:.hash}
-
-{:start="2"}
-2. Na lei moisaica, há duas partes distintas: a Lei de Deus, promulgada no monte Sinai, e a lei civil ou disciplinar, decretada por Moisés. Uma é invariável; a outra, apropriada aos costumes e ao caráter do povo, se modifica com o tempo.
+- #️⃣ 2. Na lei moisaica, há duas partes distintas: a Lei de Deus, promulgada no monte Sinai, e a lei civil ou disciplinar, decretada por Moisés. Uma é invariável; a outra, apropriada aos costumes e ao caráter do povo, se modifica com o tempo.
 
    A Lei de Deus está formulada nos dez mandamentos seguintes:
 
-   >Eu sou o Senhor, vosso Deus, que vos tirei do Egito, da casa da servidão. Não tereis, diante de mim, outros deuses estrangeiros. Não fareis imagem esculpida, nem figura alguma do que está em cima do céu, nem embaixo na Terra, nem do que quer que esteja nas águas sob a terra. Não os adorareis e não lhes prestareis culto soberano. [^4]  
-   >Não pronunciareis em vão o nome do Senhor, vosso Deus.  
-   >Lembrai-vos de santificar o dia do sábado.  
-   >Honrai a vosso pai e a vossa mãe, a fim de viverdes longo tempo na terra que o Senhor vosso Deus vos dará.  
-   >Não mateis.  
-   >Não cometais adultério.  
-   >Não roubeis.  
-   >Não presteis testemunho falso contra o vosso próximo.  
-   >Não desejeis a mulher do vosso próximo.  
-   >Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.  
-   >
-   >**Exôdo, cap. 20, vers. 2-12**
-   {:.bible}
-
+   📜 ▸ Eu sou o Senhor, vosso Deus, que vos tirei do Egito, da casa da servidão. Não tereis, diante de mim, outros deuses estrangeiros. Não fareis imagem esculpida, nem figura alguma do que está em cima do céu, nem embaixo na Terra, nem do que quer que esteja nas águas sob a terra. Não os adorareis e não lhes prestareis culto soberano. [^4]  
+   Não pronunciareis em vão o nome do Senhor, vosso Deus.  
+   Lembrai-vos de santificar o dia do sábado.  
+   Honrai a vosso pai e a vossa mãe, a fim de viverdes longo tempo na terra que o Senhor vosso Deus vos dará.  
+   Não mateis.  
+   Não cometais adultério.  
+   Não roubeis.  
+   Não presteis testemunho falso contra o vosso próximo.  
+   Não desejeis a mulher do vosso próximo.  
+   Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.  
+   
+   **Exôdo, cap. 20, vers. 2-12**
+   
    É de todos os tempos e de todos os países essa lei e tem, por isso mesmo, caráter divino. Todas as outras são leis que Moisés decretou, obrigado que se via a conter, pelo temor, um povo de seu natural turbulento e indisciplinado, no qual tinha ele de combater arraigados abusos e preconceitos, adquiridos durante a escravidão do Egito. Para imprimir autoridade às suas leis, houve de lhes atribuir origem divina, conforme o fizeram todos os legisladores dos povos primitivos. A autoridade do homem precisava apoiar-se na autoridade de Deus; mas só a ideia de um Deus terrível podia impressionar criaturas ignorantes, nas quais ainda pouco desenvolvidos se encontravam o senso moral e o sentimento de uma justiça reta. É evidente que aquele que incluíra, entre os seus mandamentos, este: “Não matareis; não causareis dano ao vosso próximo”, não poderia contradizer-se, fazendo da exterminação um dever. As leis moisaicas, propriamente ditas, revestiam, pois, um caráter essencialmente transitório.
 
 **📃 O Cristo**
 
-#️⃣
-{:.hash}
+- #️⃣ 3. Jesus não veio destruir a lei, isto é, a Lei de Deus; veio cumpri-la, isto é, desenvolvê-la, dar-lhe o verdadeiro sentido e adaptá-la ao grau de adiantamento dos homens. Por isso é que se nos depara, nessa lei, o princípio dos deveres para com Deus e para com o próximo, base da sua doutrina. Quanto às leis de Moisés, propriamente ditas, Ele, ao contrário, as modificou profundamente, quer na substância, quer na forma. Combatendo constantemente o abuso das práticas exteriores e as falsas interpretações, por mais radical reforma não podia fazê-las passar, do que as reduzindo a esta única prescrição: 
 
-{:start="3"}
-3. Jesus não veio destruir a lei, isto é, a Lei de Deus; veio cumpri-la, isto é, desenvolvê-la, dar-lhe o verdadeiro sentido e adaptá-la ao grau de adiantamento dos homens. Por isso é que se nos depara, nessa lei, o princípio dos deveres para com Deus e para com o próximo, base da sua doutrina. Quanto às leis de Moisés, propriamente ditas, Ele, ao contrário, as modificou profundamente, quer na substância, quer na forma. Combatendo constantemente o abuso das práticas exteriores e as falsas interpretações, por mais radical reforma não podia fazê-las passar, do que as reduzindo a esta única prescrição: 
+    📜 ▸ *Amar a Deus acima de todas as coisas e o próximo como a si mesmo.*  
+    **Livro, cap. X, vers. Y**
+    
+    e acrescentando: aí estão a lei toda e os profetas. Por estas palavras:  
+    
+    📜 ▸ *O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota.*  
+    **Livro, cap. X, vers. Y**  
+    
+    quis dizer Jesus ser necessário que a Lei de Deus tivesse cumprimento integral, isto é, fosse praticada na Terra inteira, em toda a sua pureza, com todas as suas ampliações e consequências. Efetivamente, de que serviria haver sido promulgada aquela lei, se ela devesse constituir privilégio de alguns homens, ou, ao menos, de um único povo? Sendo filhos de Deus todos os homens, todos, sem distinção nenhuma, são objeto da mesma solicitude.
 
-   >*Amar a Deus acima de todas as coisas e o próximo como a si mesmo.*
-   >
-   >**Livro, cap. X, vers. Y**
-   {:.bible}
-
-   e acrescentando: aí estão a lei toda e os profetas. Por estas palavras:  
-
-   >*O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota.*
-   >
-   >**Livro, cap. X, vers. Y**
-   {:.bible}
-
-   quis dizer Jesus ser necessário que a Lei de Deus tivesse cumprimento integral, isto é, fosse praticada na Terra inteira, em toda a sua pureza, com todas as suas ampliações e consequências. Efetivamente, de que serviria haver sido promulgada aquela lei, se ela devesse constituir privilégio de alguns homens, ou, ao menos, de um único povo? Sendo filhos de Deus todos os homens, todos, sem distinção nenhuma, são objeto da mesma solicitude.
-
-#️⃣
-{:.hash}
-
-{:start="4"}
-4. O papel de Jesus não foi o de um simples legislador moralista, tendo por exclusiva autoridade a sua palavra. Cabia-lhe dar cumprimento às profecias que lhe anunciaram o advento; a autoridade lhe vinha da natureza excepcional do seu Espírito e da sua missão divina. Ele viera ensinar aos homens que a verdadeira vida não é a que transcorre na Terra, e sim a que é vivida no Reino dos Céus; viera ensinar-lhes o caminho que a esse reino conduz, os meios de eles se reconciliarem com Deus e de pressentirem esses meios na marcha das coisas por vir, para a realização dos destinos humanos. Entretanto, não disse tudo, limitando-se, respeito a muitos pontos, a lançar o gérmen de verdades que, segundo Ele próprio o declarou, ainda não podiam ser compreendidas. Falou de tudo, mas em termos mais ou menos implícitos. Para ser apreendido o sentido oculto de algumas palavras suas, mister se fazia que novas ideias e novos conhecimentos lhes trouxessem a chave indispensável, ideias que, porém, não podiam surgir antes que o espírito humano houvesse alcançado um certo grau de madureza. A Ciência tinha de contribuir poderosamente para a eclosão e o desenvolvimento de tais ideias. Importava, pois, dar à Ciência tempo para progredir.
+- #️⃣ 4. O papel de Jesus não foi o de um simples legislador moralista, tendo por exclusiva autoridade a sua palavra. Cabia-lhe dar cumprimento às profecias que lhe anunciaram o advento; a autoridade lhe vinha da natureza excepcional do seu Espírito e da sua missão divina. Ele viera ensinar aos homens que a verdadeira vida não é a que transcorre na Terra, e sim a que é vivida no Reino dos Céus; viera ensinar-lhes o caminho que a esse reino conduz, os meios de eles se reconciliarem com Deus e de pressentirem esses meios na marcha das coisas por vir, para a realização dos destinos humanos. Entretanto, não disse tudo, limitando-se, respeito a muitos pontos, a lançar o gérmen de verdades que, segundo Ele próprio o declarou, ainda não podiam ser compreendidas. Falou de tudo, mas em termos mais ou menos implícitos. Para ser apreendido o sentido oculto de algumas palavras suas, mister se fazia que novas ideias e novos conhecimentos lhes trouxessem a chave indispensável, ideias que, porém, não podiam surgir antes que o espírito humano houvesse alcançado um certo grau de madureza. A Ciência tinha de contribuir poderosamente para a eclosão e o desenvolvimento de tais ideias. Importava, pois, dar à Ciência tempo para progredir.
 
 **📃 Espiritismo**
 
-#️⃣
-{:.hash}
+- #️⃣ 5. O Espiritismo é a ciência nova que vem revelar aos homens, por meio de provas irrecusáveis, a existência e a natureza do mundo espiritual e as suas relações com o mundo corpóreo. Ele no-lo mostra, não mais como coisa sobrenatural, porém, ao contrário, como uma das forças vivas e sem cessar atuantes da Natureza, como a fonte de uma imensidade de fenômenos até hoje incompreendidos e, por isso, relegados para o domínio do fantástico e do maravilhoso. É a essas relações que o Cristo alude em muitas circunstâncias e daí vem que muito do que Ele disse permaneceu ininteligível ou falsamente interpretado. O Espiritismo é a chave com o auxílio da qual tudo se explica de modo fácil.
 
-{:start="5"}
-5. O Espiritismo é a ciência nova que vem revelar aos homens, por meio de provas irrecusáveis, a existência e a natureza do mundo espiritual e as suas relações com o mundo corpóreo. Ele no-lo mostra, não mais como coisa sobrenatural, porém, ao contrário, como uma das forças vivas e sem cessar atuantes da Natureza, como a fonte de uma imensidade de fenômenos até hoje incompreendidos e, por isso, relegados para o domínio do fantástico e do maravilhoso. É a essas relações que o Cristo alude em muitas circunstâncias e daí vem que muito do que Ele disse permaneceu ininteligível ou falsamente interpretado. O Espiritismo é a chave com o auxílio da qual tudo se explica de modo fácil.
+- #️⃣ 6. A lei do Antigo Testamento teve em Moisés a sua personificação; a do Novo Testamento tem-na no Cristo. O Espiritismo é a terceira revelação da Lei de Deus, mas não tem a personificá-la nenhuma individualidade, porque é fruto do ensino dado, não por um homem, sim pelos Espíritos, que são as vozes do Céu, em todos os pontos da Terra, com o concurso de uma multidão inumerável de intermediários. É, de certa maneira, um ser coletivo, formado pelo conjunto dos seres do mundo espiritual, cada um dos quais traz o tributo de suas luzes aos homens, para lhes tornar conhecido esse mundo e a sorte que os espera.
 
-#️⃣
-{:.hash}
-
-{:start="6"}
-6. A lei do Antigo Testamento teve em Moisés a sua personificação; a do Novo Testamento tem-na no Cristo. O Espiritismo é a terceira revelação da Lei de Deus, mas não tem a personificá-la nenhuma individualidade, porque é fruto do ensino dado, não por um homem, sim pelos Espíritos, que são as vozes do Céu, em todos os pontos da Terra, com o concurso de uma multidão inumerável de intermediários. É, de certa maneira, um ser coletivo, formado pelo conjunto dos seres do mundo espiritual, cada um dos quais traz o tributo de suas luzes aos homens, para lhes tornar conhecido esse mundo e a sorte que os espera.
-
-#️⃣
-{:.hash}
-
-{:start="7"}
-7. Assim como o Cristo disse: 
-
-   >*Não vim destruir a lei, porém cumpri-la.*
-   >
-   >**Livro, cap. X, vers. Y**
-   {:.bible}
-
-   também o Espiritismo diz: 
-
-   >Não venho destruir a lei cristã, mas dar-lhe execução.
-
+- #️⃣ 7. Assim como o Cristo disse: *Não vim destruir a lei, porém cumpri-la.* também o Espiritismo diz: Não venho destruir a lei cristã, mas dar-lhe execução.  
+   
    Nada ensina em contrário ao que ensinou o Cristo; mas desenvolve, completa e explica, em termos claros e para toda gente, o que foi dito apenas sob forma alegórica. Vem cumprir, nos tempos preditos, o que o Cristo anunciou e preparar a realização das coisas futuras. Ele é, pois, obra do Cristo, que preside, conforme igualmente o anunciou, à regeneração que se opera e prepara o Reino de Deus na Terra.
 
 **📃 Aliança da Ciência e da Religião**
 
-#️⃣
-{:.hash}
-
-{:start="8"}
-8. A Ciência e a Religião são as duas alavancas da inteligência humana: uma revela as leis do mundo material e a outra as do mundo moral. Tendo, no entanto, essas leis o mesmo princípio, que é Deus, não podem contradizer-se. Se fossem a negação uma da outra, uma necessariamente estaria em erro e a outra com a verdade, porquanto Deus não pode pretender a destruição de sua própria obra. A incompatibilidade que se julgou existir entre essas duas ordens de ideias provém apenas de uma observação defeituosa e de excesso de exclusivismo, de um lado e de outro. Daí um conflito que deu origem à incredulidade e à intolerância.
-
-   São chegados os tempos em que os ensinamentos do Cristo têm de ser completados; em que o véu intencionalmente lançado sobre algumas partes desse ensino tem de ser levantado; em que a Ciência, deixando de ser exclusivamente materialista, tem de levar em conta o elemento espiritual e em que a Religião, deixando de ignorar as leis orgânicas e imutáveis da matéria, como duas forças que são, apoiando-se uma na outra e marchando combinadas, se prestarão mútuo concurso. Então, não mais desmentida pela Ciência, a Religião adquirirá inabalável poder, porque estará de acordo com a razão, já se lhe não podendo mais opor a irresistível lógica dos fatos.
-
-    A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando cada uma as coisas do seu ponto de vista exclusivo, reciprocamente se repeliam. Faltava com que encher o vazio que as separava, um traço de união que as aproximasse. Esse traço de união está no conhecimento das leis que regem o universo espiritual e suas relações com o mundo corpóreo, leis tão imutáveis quanto as que regem o movimento dos astros e a existência dos seres. Uma vez comprovadas pela experiência essas relações, nova luz se fez: a fé dirigiu-se à razão; esta nada encontrou de ilógico na fé: vencido foi o materialismo. Mas nisso, como em tudo, há pessoas que ficam atrás, até serem arrastadas pelo movimento geral, que as esmaga, se tentam resistir-lhe, em vez de o acompanharem. É toda uma revolução que neste momento se opera e trabalha os espíritos. Após uma elaboração que durou mais de dezoito séculos, chega ela à sua plena realização e vai marcar uma nova era na vida da Humanidade. Fáceis são de prever as consequências: acarretará para as relações sociais inevitáveis modificações, às quais ninguém terá força para se opor, porque elas estão nos desígnios de Deus e derivam da lei do progresso, que é Lei de Deus.
+- #️⃣ 8. A Ciência e a Religião são as duas alavancas da inteligência humana: uma revela as leis do mundo material e a outra as do mundo moral. Tendo, no entanto, essas leis o mesmo princípio, que é Deus, não podem contradizer-se. Se fossem a negação uma da outra, uma necessariamente estaria em erro e a outra com a verdade, porquanto Deus não pode pretender a destruição de sua própria obra. A incompatibilidade que se julgou existir entre essas duas ordens de ideias provém apenas de uma observação defeituosa e de excesso de exclusivismo, de um lado e de outro. Daí um conflito que deu origem à incredulidade e à intolerância.  
+  
+  São chegados os tempos em que os ensinamentos do Cristo têm de ser completados; em que o véu intencionalmente lançado sobre algumas partes desse ensino tem de ser levantado; em que a Ciência, deixando de ser exclusivamente materialista, tem de levar em conta o elemento espiritual e em que a Religião, deixando de ignorar as leis orgânicas e imutáveis da matéria, como duas forças que são, apoiando-se uma na outra e marchando combinadas, se prestarão mútuo concurso. Então, não mais desmentida pela Ciência, a Religião adquirirá inabalável poder, porque estará de acordo com a razão, já se lhe não podendo mais opor a irresistível lógica dos fatos.  
+  
+  A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando cada uma as coisas do seu ponto de vista exclusivo, reciprocamente se repeliam. Faltava com que encher o vazio que as separava, um traço de união que as aproximasse. Esse traço de união está no conhecimento das leis que regem o universo espiritual e suas relações com o mundo corpóreo, leis tão imutáveis quanto as que regem o movimento dos astros e a existência dos seres. Uma vez comprovadas pela experiência essas relações, nova luz se fez: a fé dirigiu-se à razão; esta nada encontrou de ilógico na fé: vencido foi o materialismo. Mas nisso, como em tudo, há pessoas que ficam atrás, até serem arrastadas pelo movimento geral, que as esmaga, se tentam resistir-lhe, em vez de o acompanharem. É toda uma revolução que neste momento se opera e trabalha os espíritos. Após uma elaboração que durou mais de dezoito séculos, chega ela à sua plena realização e vai marcar uma nova era na vida da Humanidade. Fáceis são de prever as consequências: acarretará para as relações sociais inevitáveis modificações, às quais ninguém terá força para se opor, porque elas estão nos desígnios de Deus e derivam da lei do progresso, que é Lei de Deus.
 
 **📑 Instruções dos Espíritos**
 
 **✒️ A nova era**
 
-#️⃣
-{:.hash}
+- #️⃣ 9. 👻 ▸ Deus é único e Moisés é o Espírito que Ele enviou em missão para torná-lo conhecido não só dos hebreus, como também dos povos pagãos. O povo hebreu foi o instrumento de que se serviu Deus para se revelar por Moisés e pelos profetas, e as vicissitudes por que passou esse povo destinavam-se a chamar a atenção geral e a fazer cair o véu que ocultava aos homens a divindade.  
+  
+  Os mandamentos de Deus, dados por intermédio de Moisés, contêm o gérmen da mais ampla moral cristã. Os comentários da Bíblia, porém, restringiam-lhe o sentido, porque, praticada em toda a sua pureza, não na teriam então compreendido. Mas nem por isso os dez mandamentos de Deus deixavam de ser um como frontispício brilhante, qual farol destinado a clarear a estrada que a Humanidade tinha de percorrer.  
+  
+  A moral que Moisés ensinou era apropriada ao estado de adiantamento em que se encontravam os povos que ela se propunha regenerar, e esses povos, semisselvagens quanto ao aperfeiçoamento da alma, não teriam compreendido que se pudesse adorar a Deus de outro modo que não por meio de holocaustos, nem que se devesse perdoar a um inimigo. Notável do ponto de vista da matéria e mesmo do das Artes e das Ciências, a inteligência deles muito atrasada se achava em moralidade e não se houvera convertido sob o império de uma religião inteiramente espiritual. Era-lhes necessária uma representação semimaterial, qual a que apresentava então a religião hebraica. Os holocaustos lhes falavam aos sentidos, do mesmo passo que a ideia de Deus lhes falava ao espírito.  
+  
+  O Cristo foi o iniciador da mais pura, da mais sublime moral, da moral evangélico-cristã, que há de renovar o mundo, aproximar os homens e torná-los irmãos; que há de fazer brotar de todos os corações a caridade e o amor do próximo e estabelecer entre os humanos uma solidariedade comum; de uma perfeita moral, enfim, que há de transformar a Terra, tornando-a morada de Espíritos superiores aos que hoje a habitam. É a lei do progresso, a que a Natureza está submetida, que se cumpre, e o Espiritismo é a alavanca de que Deus se utiliza para fazer que a Humanidade avance.  
+  
+  São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.  
+  
+  **Um Espírito israelita  
+  🇫🇷 [Mulhouse](./maps/mulhouse.html), 1861**
 
-{:start="9"}
-9. >Deus é único e Moisés é o Espírito que Ele enviou em missão para torná-lo conhecido não só dos hebreus, como também dos povos pagãos. O povo hebreu foi o instrumento de que se serviu Deus para se revelar por Moisés e pelos profetas, e as vicissitudes por que passou esse povo destinavam-se a chamar a atenção geral e a fazer cair o véu que ocultava aos homens a divindade.
-   >
-   >Os mandamentos de Deus, dados por intermédio de Moisés, contêm o gérmen da mais ampla moral cristã. Os comentários da Bíblia, porém, restringiam-lhe o sentido, porque, praticada em toda a sua pureza, não na teriam então compreendido. Mas nem por isso os dez mandamentos de Deus deixavam de ser um como frontispício brilhante, qual farol destinado a clarear a estrada que a Humanidade tinha de percorrer.
-   >
-   >A moral que Moisés ensinou era apropriada ao estado de adiantamento em que se encontravam os povos que ela se propunha regenerar, e esses povos, semisselvagens quanto ao aperfeiçoamento da alma, não teriam compreendido que se pudesse adorar a Deus de outro modo que não por meio de holocaustos, nem que se devesse perdoar a um inimigo. Notável do ponto de vista da matéria e mesmo do das Artes e das Ciências, a inteligência deles muito atrasada se achava em moralidade e não se houvera convertido sob o império de uma religião inteiramente espiritual. Era-lhes necessária uma representação semimaterial, qual a que apresentava então a religião hebraica. Os holocaustos lhes falavam aos sentidos, do mesmo passo que a ideia de Deus lhes falava ao espírito.
-   >
-   >O Cristo foi o iniciador da mais pura, da mais sublime moral, da moral evangélico-cristã, que há de renovar o mundo, aproximar os homens e torná-los irmãos; que há de fazer brotar de todos os corações a caridade e o amor do próximo e estabelecer entre os humanos uma solidariedade comum; de uma perfeita moral, enfim, que há de transformar a Terra, tornando-a morada de Espíritos superiores aos que hoje a habitam. É a lei do progresso, a que a Natureza está submetida, que se cumpre, e o Espiritismo é a alavanca de que Deus se utiliza para fazer que a Humanidade avance.
-   >
-   >São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.
-   >
-   >**Um Espírito israelita   
-   >🇫🇷 [Mulhouse](./maps/mulhouse.html), 1861**
-   {:.spirit}
+- #️⃣ 10. 👻 ▸ Um dia, Deus, em sua inesgotável caridade, permitiu que o homem visse a verdade varar as trevas. Esse dia foi o do advento do Cristo. Depois da luz viva, voltaram as trevas. Após alternativas de verdade e obscuridade, o mundo novamente se perdia. Então, semelhantemente aos profetas do Antigo Testamento, os Espíritos se puseram a falar e a vos advertir. O mundo está abalado em seus fundamentos; reboará o trovão. Sede firmes!  
+  
+  O Espiritismo é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a Ciência, desenvolvida à custa do que é de ordem moral, mas conduzindo-vos ao bem-estar material, redundava em proveito do espírito das trevas. Como sabeis, cristãos, o coração e o amor têm de caminhar unidos à Ciência. O reino do Cristo, ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o amor o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas, que foram apanhadas desprevenidas à chegada do esposo.  
+  
+  A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.  
+  
+  **Fénelon  
+  🇫🇷 [Poitiers](./maps/poitiers.html), 1861**
 
-#️⃣
-{:.hash}
+- #️⃣ 11. 👻 ▸ Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam.  
+  
+  **Erasto, discípulo de Paulo  
+  🇫🇷 [Paris](./maps/paris.html), 1863**
 
-{:start="10"}
-10. >Um dia, Deus, em sua inesgotável caridade, permitiu que o homem visse a verdade varar as trevas. Esse dia foi o do advento do Cristo. Depois da luz viva, voltaram as trevas. Após alternativas de verdade e obscuridade, o mundo novamente se perdia. Então, semelhantemente aos profetas do Antigo Testamento, os Espíritos se puseram a falar e a vos advertir. O mundo está abalado em seus fundamentos; reboará o trovão. Sede firmes!
-    >
-    >O Espiritismo é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a Ciência, desenvolvida à custa do que é de ordem moral, mas conduzindo-vos ao bem-estar material, redundava em proveito do espírito das trevas. Como sabeis, cristãos, o coração e o amor têm de caminhar unidos à Ciência. O reino do Cristo, ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o amor o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas, que foram apanhadas desprevenidas à chegada do esposo.
-    >
-    >A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
-    >
-    >**Fénelon  
-    >🇫🇷 [Poitiers](./maps/poitiers.html), 1861**
-    {:.spirit}
-
-#️⃣
-{:.hash}
-
-{:start="11"}
-11. >Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam.
-    >
-    >**Erasto, discípulo de Paulo.  
-    >🇫🇷 [Paris](./maps/paris.html), 1863**
-    {:.spirit}
-
->📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
-{:.transparent}
+- 📝 **Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
 ---
 
 ### 📑 02. Meu Reino não é deste mundo {#ESE-1-02}
 
-#️⃣
-{:.hash}
-
-1. >Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: *Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui.* Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: *Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.*
-   >
-   >**João, cap. 18. vers. 33, 36 e 37**
-   {:.bible}
+- #️⃣ 1. 📜 ▸ Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: *Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui.* Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: *Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.*  
+  
+  **João, cap. 18. vers. 33, 36 e 37**
 
 **📃 A vida futura**
 
-#️⃣
-{:.hash}
+- #️⃣ 2. Por essas palavras, Jesus claramente se refere à vida futura, que Ele apresenta, em todas as circunstâncias, como a meta que a Humanidade irá ter e como devendo constituir objeto das maiores preocupações do homem na Terra. Todas as suas máximas se reportam a esse grande princípio. Com efeito, sem a vida futura, nenhuma razão de ser teria a maior parte dos seus preceitos morais, donde vem que os que não creem na vida futura, imaginando que Ele apenas falava na vida presente, não os compreendem, ou os consideram pueris.  
+  
+  Esse dogma pode, portanto, ser tido como o eixo do ensino do Cristo, pelo que foi colocado num dos primeiros lugares à frente desta obra. É que ele tem de ser o ponto de mira de todos os homens; só ele justifica as anomalias da vida terrena e se mostra de acordo com a Justiça de Deus.
 
-{:start="2"}
-2. Por essas palavras, Jesus claramente se refere à vida futura, que Ele apresenta, em todas as circunstâncias, como a meta que a Humanidade irá ter e como devendo constituir objeto das maiores preocupações do homem na Terra. Todas as suas máximas se reportam a esse grande princípio. Com efeito, sem a vida futura, nenhuma razão de ser teria a maior parte dos seus preceitos morais, donde vem que os que não creem na vida futura, imaginando que Ele apenas falava na vida presente, não os compreendem, ou os consideram pueris.
-
-   Esse dogma pode, portanto, ser tido como o eixo do ensino do Cristo, pelo que foi colocado num dos primeiros lugares à frente desta obra. É que ele tem de ser o ponto de mira de todos os homens; só ele justifica as anomalias da vida terrena e se mostra de acordo com a Justiça de Deus.
-
-#️⃣
-{:.hash}
-
-{:start="3"}
-3. Apenas ideias muito imprecisas tinham os judeus acerca da vida futura. Acreditavam nos anjos, considerando-os seres privilegiados da Criação; não sabiam, porém, que os homens podem um dia tornar-se anjos e partilhar da felicidade destes. Segundo eles, a observância das Leis de Deus era recompensada com os bens terrenos, com a supremacia da nação a que pertenciam, com vitórias sobre os seus inimigos. As calamidades públicas e as derrotas eram o castigo da desobediência àquelas leis. Moisés não pudera dizer mais do que isso a um povo pastor e ignorante, que precisava ser tocado, antes de tudo, pelas coisas deste mundo. Mais tarde, Jesus lhe revelou que há outro mundo, onde a Justiça de Deus segue o seu curso. É esse o mundo que Ele promete aos que cumprem os mandamentos de Deus e onde os bons acharão sua recompensa. Aí o seu reino; lá é que Ele se encontra na sua glória e para onde voltaria quando deixasse a Terra.
-
-   Jesus, porém, conformando seu ensino com o estado dos homens de sua época, não julgou conveniente dar-lhes luz completa, percebendo que eles ficariam deslumbrados, visto que não a compreenderiam. Limitou-se a, de certo modo, apresentar a vida futura apenas como um princípio, como uma Lei da Natureza a cuja ação ninguém pode fugir. Todo cristão, pois, necessariamente crê na vida futura; mas a ideia que muitos fazem dela é ainda vaga, incompleta e, por isso mesmo, falsa em diversos pontos. Para grande número de pessoas, não há, a tal respeito, mais do que uma crença, balda de certeza absoluta, donde as dúvidas e mesmo a incredulidade.
-
-   O Espiritismo veio completar, nesse ponto, como em vários outros, o ensino do Cristo, fazendo-o quando os homens já se mostram maduros bastante para apreender a verdade. Com o Espiritismo, a vida futura deixa de ser simples artigo de fé, mera hipótese; torna-se uma realidade material, que os fatos demonstram, porquanto são testemunhas oculares os que a descrevem nas suas fases todas e em todas as suas peripécias, e de tal sorte que, além de impossibilitarem qualquer dúvida a esse propósito, facultam à mais vulgar inteligência a possibilidade de imaginá-la sob seu verdadeiro aspecto, como toda gente imagina um país cuja pormenorizada descrição leia. Ora, a descrição da vida futura é tão circunstanciadamente feita, são tão racionais as condições, ditosas ou infortunadas, da existência dos que lá se encontram, quais eles próprios pintam, que cada um, aqui, a seu mau grado, reconhece e declara a si mesmo que não pode ser de outra forma, porquanto, assim sendo, patente fica a verdadeira Justiça de Deus.
+- #️⃣ 3. Apenas ideias muito imprecisas tinham os judeus acerca da vida futura. Acreditavam nos anjos, considerando-os seres privilegiados da Criação; não sabiam, porém, que os homens podem um dia tornar-se anjos e partilhar da felicidade destes. Segundo eles, a observância das Leis de Deus era recompensada com os bens terrenos, com a supremacia da nação a que pertenciam, com vitórias sobre os seus inimigos. As calamidades públicas e as derrotas eram o castigo da desobediência àquelas leis. Moisés não pudera dizer mais do que isso a um povo pastor e ignorante, que precisava ser tocado, antes de tudo, pelas coisas deste mundo. Mais tarde, Jesus lhe revelou que há outro mundo, onde a Justiça de Deus segue o seu curso. É esse o mundo que Ele promete aos que cumprem os mandamentos de Deus e onde os bons acharão sua recompensa. Aí o seu reino; lá é que Ele se encontra na sua glória e para onde voltaria quando deixasse a Terra.  
+  
+  Jesus, porém, conformando seu ensino com o estado dos homens de sua época, não julgou conveniente dar-lhes luz completa, percebendo que eles ficariam deslumbrados, visto que não a compreenderiam. Limitou-se a, de certo modo, apresentar a vida futura apenas como um princípio, como uma Lei da Natureza a cuja ação ninguém pode fugir. Todo cristão, pois, necessariamente crê na vida futura; mas a ideia que muitos fazem dela é ainda vaga, incompleta e, por isso mesmo, falsa em diversos pontos. Para grande número de pessoas, não há, a tal respeito, mais do que uma crença, balda de certeza absoluta, donde as dúvidas e mesmo a incredulidade.  
+  
+  O Espiritismo veio completar, nesse ponto, como em vários outros, o ensino do Cristo, fazendo-o quando os homens já se mostram maduros bastante para apreender a verdade. Com o Espiritismo, a vida futura deixa de ser simples artigo de fé, mera hipótese; torna-se uma realidade material, que os fatos demonstram, porquanto são testemunhas oculares os que a descrevem nas suas fases todas e em todas as suas peripécias, e de tal sorte que, além de impossibilitarem qualquer dúvida a esse propósito, facultam à mais vulgar inteligência a possibilidade de imaginá-la sob seu verdadeiro aspecto, como toda gente imagina um país cuja pormenorizada descrição leia. Ora, a descrição da vida futura é tão circunstanciadamente feita, são tão racionais as condições, ditosas ou infortunadas, da existência dos que lá se encontram, quais eles próprios pintam, que cada um, aqui, a seu mau grado, reconhece e declara a si mesmo que não pode ser de outra forma, porquanto, assim sendo, patente fica a verdadeira Justiça de Deus.
 
 **📃 A realeza de Jesus**
 
-#️⃣
-{:.hash}
-
-{:start="4"}
-4. Que não é deste mundo o reino de Jesus todos compreendem, mas também na Terra não terá Ele uma realeza? Nem sempre o título de rei implica o exercício do poder temporal. Dá-se esse título, por unânime consenso, a todo aquele que, pelo seu gênio, ascende à primeira plana numa ordem de ideias quaisquer, a todo aquele que domina o seu século e influi sobre o progresso da Humanidade. É nesse sentido que se costuma dizer: o rei ou príncipe dos filósofos, dos artistas, dos poetas, dos escritores etc. Essa realeza, oriunda do mérito pessoal, consagrada pela posteridade, não revela, muitas vezes, preponderância bem maior do que a que cinge a coroa real? Imperecível é a primeira, enquanto esta outra é joguete das vicissitudes; as gerações que se sucedem à primeira sempre a bendizem, ao passo que, por vezes, amaldiçoam a outra. Esta, a terrestre, acaba com a vida; a realeza moral se prolonga e mantém o seu poder, governa, sobretudo, após a morte. Sob esse aspecto não é Jesus mais poderoso rei do que os potentados da Terra? Razão, pois, lhe assistia para dizer a Pilatos, conforme disse: Sou rei, mas o meu reino não é deste mundo.
+- #️⃣ 4. Que não é deste mundo o reino de Jesus todos compreendem, mas também na Terra não terá Ele uma realeza? Nem sempre o título de rei implica o exercício do poder temporal. Dá-se esse título, por unânime consenso, a todo aquele que, pelo seu gênio, ascende à primeira plana numa ordem de ideias quaisquer, a todo aquele que domina o seu século e influi sobre o progresso da Humanidade. É nesse sentido que se costuma dizer: o rei ou príncipe dos filósofos, dos artistas, dos poetas, dos escritores etc. Essa realeza, oriunda do mérito pessoal, consagrada pela posteridade, não revela, muitas vezes, preponderância bem maior do que a que cinge a coroa real? Imperecível é a primeira, enquanto esta outra é joguete das vicissitudes; as gerações que se sucedem à primeira sempre a bendizem, ao passo que, por vezes, amaldiçoam a outra. Esta, a terrestre, acaba com a vida; a realeza moral se prolonga e mantém o seu poder, governa, sobretudo, após a morte. Sob esse aspecto não é Jesus mais poderoso rei do que os potentados da Terra? Razão, pois, lhe assistia para dizer a Pilatos, conforme disse: Sou rei, mas o meu reino não é deste mundo.
 
 **📃 O ponto de vista**
 
-#️⃣
-{:.hash}
+- #️⃣ 5. A ideia clara e precisa que se faça da vida futura proporciona inabalável fé no porvir, fé que acarreta enormes consequências sobre a moralização dos homens, porque muda completamente o ponto de vista sob o qual encaram eles a vida terrena. Para quem se coloca, pelo pensamento, na vida espiritual, que é indefinida, a vida corpórea se torna simples passagem, breve estada num país ingrato. As vicissitudes e tribulações dessa vida não passam de incidentes que ele suporta com paciência, por sabê-las de curta duração, devendo seguir-se-lhes um estado mais ditoso. À morte nada mais restará de aterrador; deixa de ser a porta que se abre para o nada e torna-se a que dá para a libertação, pela qual entra o exilado numa mansão de bem-aventurança e de paz. Sabendo temporária e não definitiva a sua estada no lugar onde se encontra, menos atenção presta às preocupações da vida, resultando-lhe daí uma calma de espírito que tira àquela muito do seu amargor.  
+  
+  Pelo simples fato de duvidar da vida futura, o homem dirige todos os seus pensamentos para a vida terrestre. Sem nenhuma certeza quanto ao porvir, dá tudo ao presente. Nenhum bem divisando mais precioso do que os da Terra, torna-se qual a criança que nada mais vê além de seus brinquedos. E não há o que não faça para conseguir os únicos bens que se lhe afiguram reais. A perda do menor deles lhe ocasiona causticante pesar; um engano, uma decepção, uma ambição insatisfeita, uma injustiça de que seja vítima, o orgulho ou a vaidade feridos são outros tantos tormentos, que lhe transformam a existência numa perene angústia, infligindo-se ele, desse modo, a si próprio, verdadeira tortura de todos os instantes. Colocando o ponto de vista, de onde considera a vida corpórea, no lugar mesmo em que ele aí se encontra, vastas proporções assume tudo o que o rodeia. O mal que o atinja, como o bem que toque aos outros, grande importância adquire aos seus olhos. Àquele que se acha no interior de uma cidade, tudo lhe parece grande: assim os homens que ocupem as altas posições, como os monumentos. Suba ele, porém, a uma montanha, e logo bem pequenos lhe parecerão homens e coisas.  
+  
+  É o que sucede ao que encara a vida terrestre do ponto de vista da vida futura; a Humanidade, tanto quanto as estrelas do firmamento, perde-se na imensidade. Percebe então que grandes e pequenos estão confundidos, como formigas sobre um montículo de terra; que proletários e potentados são da mesma estatura, e lamenta que essas criaturas efêmeras a tantas canseiras se entreguem para conquistar um lugar que tão pouco as elevará e que por tão pouco tempo conservarão. Daí se segue que a importância dada aos bens terrenos está sempre em razão inversa da fé na vida futura.
 
-{:start="5"}
-5. A ideia clara e precisa que se faça da vida futura proporciona inabalável fé no porvir, fé que acarreta enormes consequências sobre a moralização dos homens, porque muda completamente o ponto de vista sob o qual encaram eles a vida terrena. Para quem se coloca, pelo pensamento, na vida espiritual, que é indefinida, a vida corpórea se torna simples passagem, breve estada num país ingrato. As vicissitudes e tribulações dessa vida não passam de incidentes que ele suporta com paciência, por sabê-las de curta duração, devendo seguir-se-lhes um estado mais ditoso. À morte nada mais restará de aterrador; deixa de ser a porta que se abre para o nada e torna-se a que dá para a libertação, pela qual entra o exilado numa mansão de bem-aventurança e de paz. Sabendo temporária e não definitiva a sua estada no lugar onde se encontra, menos atenção presta às preocupações da vida, resultando-lhe daí uma calma de espírito que tira àquela muito do seu amargor.
+- #️⃣ 6. Se toda a gente pensasse dessa maneira, dir-se-ia, tudo na Terra periclitaria, porquanto ninguém mais se ocuparia com as coisas terrenas. Não; o homem, instintivamente, procura o seu bem-estar e, embora certo de que só por pouco tempo permanecerá no lugar em que se encontra, cuida de estar aí o melhor ou o menos mal que lhe seja possível. Ninguém há que, dando com um espinho debaixo de sua mão, não a retire, para se não picar. Ora, o desejo do bem-estar força o homem a tudo melhorar, impelido que é pelo instinto do progresso e da conservação, que está nas Leis da Natureza. Ele, pois, trabalha por necessidade, por gosto e por dever, obedecendo, desse modo, aos desígnios da Providência que, para tal fim, o pôs na Terra. Simplesmente, aquele que se preocupa com o futuro não liga ao presente mais do que relativa importância e facilmente se consola dos seus insucessos, pensando no destino que o aguarda.  
+  
+  Deus, conseguintemente, não condena os gozos terrenos; condena, sim, o abuso desses gozos em detrimento das coisas da alma. Contra tais abusos é que se premunem os que a si próprios aplicam estas palavras de Jesus: Meu reino não é deste mundo.  
+  
+  Aquele que se identifica com a vida futura assemelha-se ao rico que perde sem emoção uma pequena soma. Aquele cujos pensamentos se concentram na vida terrestre assemelha-se ao pobre que perde tudo o que possui e se desespera.
 
-   Pelo simples fato de duvidar da vida futura, o homem dirige todos os seus pensamentos para a vida terrestre. Sem nenhuma certeza quanto ao porvir, dá tudo ao presente. Nenhum bem divisando mais precioso do que os da Terra, torna-se qual a criança que nada mais vê além de seus brinquedos. E não há o que não faça para conseguir os únicos bens que se lhe afiguram reais. A perda do menor deles lhe ocasiona causticante pesar; um engano, uma decepção, uma ambição insatisfeita, uma injustiça de que seja vítima, o orgulho ou a vaidade feridos são outros tantos tormentos, que lhe transformam a existência numa perene angústia, infligindo-se ele, desse modo, a si próprio, verdadeira tortura de todos os instantes. Colocando o ponto de vista, de onde considera a vida corpórea, no lugar mesmo em que ele aí se encontra, vastas proporções assume tudo o que o rodeia. O mal que o atinja, como o bem que toque aos outros, grande importância adquire aos seus olhos. Àquele que se acha no interior de uma cidade, tudo lhe parece grande: assim os homens que ocupem as altas posições, como os monumentos. Suba ele, porém, a uma montanha, e logo bem pequenos lhe parecerão homens e coisas.
-
-   É o que sucede ao que encara a vida terrestre do ponto de vista da vida futura; a Humanidade, tanto quanto as estrelas do firmamento, perde-se na imensidade. Percebe então que grandes e pequenos estão confundidos, como formigas sobre um montículo de terra; que proletários e potentados são da mesma estatura, e lamenta que essas criaturas efêmeras a tantas canseiras se entreguem para conquistar um lugar que tão pouco as elevará e que por tão pouco tempo conservarão. Daí se segue que a importância dada aos bens terrenos está sempre em razão inversa da fé na vida futura.
-
-#️⃣
-{:.hash}
-
-{:start="6"}
-6. Se toda a gente pensasse dessa maneira, dir-se-ia, tudo na Terra periclitaria, porquanto ninguém mais se ocuparia com as coisas terrenas. Não; o homem, instintivamente, procura o seu bem-estar e, embora certo de que só por pouco tempo permanecerá no lugar em que se encontra, cuida de estar aí o melhor ou o menos mal que lhe seja possível. Ninguém há que, dando com um espinho debaixo de sua mão, não a retire, para se não picar. Ora, o desejo do bem-estar força o homem a tudo melhorar, impelido que é pelo instinto do progresso e da conservação, que está nas Leis da Natureza. Ele, pois, trabalha por necessidade, por gosto e por dever, obedecendo, desse modo, aos desígnios da Providência que, para tal fim, o pôs na Terra. Simplesmente, aquele que se preocupa com o futuro não liga ao presente mais do que relativa importância e facilmente se consola dos seus insucessos, pensando no destino que o aguarda.
-
-   Deus, conseguintemente, não condena os gozos terrenos; condena, sim, o abuso desses gozos em detrimento das coisas da alma. Contra tais abusos é que se premunem os que a si próprios aplicam estas palavras de Jesus: Meu reino não é deste mundo.
-
-   Aquele que se identifica com a vida futura assemelha-se ao rico que perde sem emoção uma pequena soma. Aquele cujos pensamentos se concentram na vida terrestre assemelha-se ao pobre que perde tudo o que possui e se desespera.
-
-#️⃣
-{:.hash}
-
-{:start="7"}
-7. O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa visão, acanhada e mesquinha, que o concentra na vida atual, que faz do instante que vivemos na Terra único e frágil eixo do porvir eterno, ele, o Espiritismo, mostra que essa vida não passa de um elo no harmonioso e magnífico conjunto da obra do Criador. Mostra a solidariedade que conjuga todas as existências de um mesmo ser, todos os seres de um mesmo mundo e os seres de todos os mundos. Faculta assim uma base e uma razão de ser à fraternidade universal, enquanto a doutrina da criação da alma por ocasião do nascimento de cada corpo torna estranhos uns aos outros todos os seres. Essa solidariedade entre as partes de um mesmo todo explica o que inexplicável se apresenta, desde que se considere apenas um ponto. Esse conjunto, ao tempo do Cristo, os homens não o teriam podido compreender, motivo por que Ele reservou para outros tempos o fazê-lo conhecido.
+- #️⃣ 7. O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa visão, acanhada e mesquinha, que o concentra na vida atual, que faz do instante que vivemos na Terra único e frágil eixo do porvir eterno, ele, o Espiritismo, mostra que essa vida não passa de um elo no harmonioso e magnífico conjunto da obra do Criador. Mostra a solidariedade que conjuga todas as existências de um mesmo ser, todos os seres de um mesmo mundo e os seres de todos os mundos. Faculta assim uma base e uma razão de ser à fraternidade universal, enquanto a doutrina da criação da alma por ocasião do nascimento de cada corpo torna estranhos uns aos outros todos os seres. Essa solidariedade entre as partes de um mesmo todo explica o que inexplicável se apresenta, desde que se considere apenas um ponto. Esse conjunto, ao tempo do Cristo, os homens não o teriam podido compreender, motivo por que Ele reservou para outros tempos o fazê-lo conhecido.
 
 **📑 Instruções dos Espíritos**
 
 **✒️ Uma realeza terrestre**
 
-#️⃣
-{:.hash}
-
-{:start="8"}
-8. >Quem melhor do que eu pode compreender a verdade destas palavras de nosso Senhor: O meu reino não é deste mundo? O orgulho me perdeu na Terra. Quem, pois, compreenderia o nenhum valor dos reinos da Terra, se eu o não compreendia? Que trouxe eu comigo da minha realeza terrena? Nada, absolutamente nada. E, como que para tornar mais terrível a lição, ela nem sequer me acompanhou até o túmulo! Rainha entre os homens, como rainha julguei que penetrasse no Reino dos Céus! Que desilusão! Que humilhação, quando, em vez de ser recebida aqui qual soberana, vi acima de mim, mas muito acima, homens que eu julgava insignificantes e aos quais desprezava, por não terem sangue nobre! Oh! como então compreendi a esterilidade das honras e grandezas que com tanta avidez se requestam na Terra!
-   >
-   >Para se granjear um lugar neste reino, são necessárias a abnegação, a humildade, a caridade em toda a sua celeste prática, a benevolência para com todos. Não se vos pergunta o que fostes, nem que posição ocupastes, mas que bem fizestes, quantas lágrimas enxugastes.
-   >
-   >Ó Jesus, Tu o disseste, teu reino não é deste mundo, porque é preciso sofrer para chegar ao céu, de onde os degraus de um trono a ninguém aproximam. A ele só conduzem as veredas mais penosas da vida. Procurai-lhe, pois, o caminho, através das urzes e dos espinhos, não por entre as flores.
-   >
-   >Correm os homens por alcançar os bens terrestres, como se os houvessem de guardar para sempre. Aqui, porém, todas as ilusões se somem. Cedo se apercebem eles de que apenas apanharam uma sombra e desprezaram os únicos bens reais e duradouros, os únicos que lhes aproveitam na morada celeste, os únicos que lhes podem facultar acesso a esta.
-   >
-   >Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais.
-   >
-   >Uma Rainha de França  
-   >🇫🇷 [Havre](./maps/havre.html), 1863
-   {:.spirit}
+- #️⃣ 8. >Quem melhor do que eu pode compreender a verdade destas palavras de nosso Senhor: O meu reino não é deste mundo? O orgulho me perdeu na Terra. Quem, pois, compreenderia o nenhum valor dos reinos da Terra, se eu o não compreendia? Que trouxe eu comigo da minha realeza terrena? Nada, absolutamente nada. E, como que para tornar mais terrível a lição, ela nem sequer me acompanhou até o túmulo! Rainha entre os homens, como rainha julguei que penetrasse no Reino dos Céus! Que desilusão! Que humilhação, quando, em vez de ser recebida aqui qual soberana, vi acima de mim, mas muito acima, homens que eu julgava insignificantes e aos quais desprezava, por não terem sangue nobre! Oh! como então compreendi a esterilidade das honras e grandezas que com tanta avidez se requestam na Terra!  
+- 
+- Para se granjear um lugar neste reino, são necessárias a abnegação, a humildade, a caridade em toda a sua celeste prática, a benevolência para com todos. Não se vos pergunta o que fostes, nem que posição ocupastes, mas que bem fizestes, quantas lágrimas enxugastes.  
+  
+  Ó Jesus, Tu o disseste, teu reino não é deste mundo, porque é preciso sofrer para chegar ao céu, de onde os degraus de um trono a ninguém aproximam. A ele só conduzem as veredas mais penosas da vida. Procurai-lhe, pois, o caminho, através das urzes e dos espinhos, não por entre as flores.  
+  
+  Correm os homens por alcançar os bens terrestres, como se os houvessem de guardar para sempre. Aqui, porém, todas as ilusões se somem. Cedo se apercebem eles de que apenas apanharam uma sombra e desprezaram os únicos bens reais e duradouros, os únicos que lhes aproveitam na morada celeste, os únicos que lhes podem facultar acesso a esta.  
+  
+  Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais.  
+  
+  **Uma Rainha de França  
+  🇫🇷 [Havre](./maps/havre.html), 1863**
 
 ---
 
@@ -774,7 +626,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: *Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou?* — Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: *E vós, quem dizeis que Eu sou?* — Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: *Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), 16:13 a 17; Marcos, 8:27 a 30**
+   >**Mateus, 16:13 a 17; Marcos, 8:27 a 30**
    {:.bible}
 
 #️⃣
@@ -792,7 +644,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="3"}
 3. >(Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: *É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem.* — Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), 17:10 a 13; Marcos, 9:11 a 13**
+   >**Mateus, 17:10 a 13; Marcos, 9:11 a 13**
    {:.bible}
 
 **📃 Ressurreição e reencarnação**
@@ -861,7 +713,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="10"}
 10. >*Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir.* 
     >
-    >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 11, vers. 12 a 15**
+    >**Mateus, cap. 11, vers. 12 a 15**
     {:.bible}
 
 #️⃣
@@ -1048,7 +900,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Bem-aventurados os que choram, pois que serão consolados. Bem-aventurados os famintos e os sequiosos de justiça, pois que serão saciados. Bem-aventurados os que sofrem perseguição pela justiça, pois que é deles o Reino dos Céus.*
     >
-    >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 4, 6 e 10**
+    >**Mateus, cap. 5, vers. 4, 6 e 10**
     {:.bible}
 
 #️⃣
@@ -1487,7 +1339,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Vinde a mim, todos vós que estais aflitos e sobrecarregados, que Eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração e achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.*
     >
-    >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 11, vers. 28 a 30**
+    >**Mateus, cap. 11, vers. 28 a 30**
     {:.bible}
 
 #️⃣
@@ -1591,7 +1443,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Bem-aventurados os pobres de espírito, pois que deles é o Reino dos Céus.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 3**
+   >**Mateus, cap. 5, vers. 3**
    {:.bible}
 
 #️⃣
@@ -1619,7 +1471,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >Jesus, chamando a si um menino, o colocou no meio deles e respondeu:  
    >— *Digo-vos, em verdade, que, se não vos converterdes e tornardes quais crianças, não entrareis no Reino dos Céus. Aquele, portanto, que se humilhar e se tornar pequeno como esta criança será o maior no Reino dos Céus e aquele que recebe em meu nome a uma criança, tal como acabo de dizer, é a mim mesmo que recebe*.
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 18, vers. 1 a 5**
+   >**Mateus, cap. 18, vers. 1 a 5**
    {:.bible}
 
 #️⃣
@@ -1637,7 +1489,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >Ouvindo isso, os dez outros apóstolos se encheram de indignação contra os dois irmãos. Jesus, chamando-os para perto de si, lhes disse:  
    >— *Sabeis que os príncipes das nações as dominam e que os grandes as tratam com império. Assim não deve ser entre vós; ao contrário, aquele que quiser tornar-se o maior, seja vosso servo; e aquele que quiser ser o primeiro entre vós seja vosso escravo; do mesmo modo que o Filho do Homem não veio para ser servido, mas para servir e dar a vida pela redenção de muitos.*  
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 20, vers. 20 a 28**
+   >**Mateus, cap. 20, vers. 20 a 28**
    {:.bible}
 
 #️⃣
@@ -1671,7 +1523,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 7. >Disse, então, Jesus estas palavras:  
    >— *Graças te rendo, meu Pai, Senhor do céu e da Terra, por haveres ocultado estas coisas aos doutos e aos prudentes e por as teres revelado aos simples e aos pequenos.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 11, vers. 25**
+   >**Mateus, cap. 11, vers. 25**
    {:.bible}
 
 #️⃣
@@ -1777,7 +1629,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Bem-aventurados os que têm puro o coração, porquanto verão a Deus.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 8**
+   >**Mateus, cap. 5, vers. 8**
    {:.bible}
 
 #️⃣
@@ -1819,7 +1671,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 5. >Aprendestes que foi dito aos antigos:   
    >— *Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.*  
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 27 e 28**
+   >**Mateus, cap. 5, vers. 27 e 28**
    {:.bible}
 
 #️⃣
@@ -1865,7 +1717,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >Ele, porém, respondeu:   
    >— *Arrancada será toda planta que meu Pai celestial não plantou. Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 15, vers. 1 a 20**
+   >**Mateus, cap. 15, vers. 1 a 20**
    {:.bible}
 
 #️⃣
@@ -1906,7 +1758,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
     Se a vossa mão ou o vosso pé vos é objeto de escândalo, cortai-os e lançai-os longe de vós; melhor será para vós que entreis na vida tendo um só pé ou uma só mão, do que terdes dois e serdes lançados no fogo eterno. Se o vosso olho vos é objeto de escândalo, arrancai-o e lançai-o longe de vós; melhor para vós será que entreis na vida tendo um só olho, do que terdes dois e serdes precipitados no fogo do inferno. 
     
-    ([Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)),5:29 e 30; 18:6 a 11.)
+    (Mateus,5:29 e 30; 18:6 a 11.)
 
 #️⃣
 {:.hash}
@@ -2012,7 +1864,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*... bem-aventurados os mansos, porque eles herdarão a terra ...*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 5, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 5, ARC**
    {:.bible}
 
 #️⃣
@@ -2021,7 +1873,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="2"}
 2. >*... bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus ...*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 9, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 9, ARC**
    {:.bible}
 
 #️⃣
@@ -2030,7 +1882,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="3"}
 3. >*Ouvistes que foi dito aos antigos: Não matarás; mas qualquer que matar será réu de juízo. Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão será réu de juízo, e qualquer que chamar a seu irmão de raca será réu do Sinédrio; e qualquer que lhe chamar de louco será réu do fogo do inferno.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 21-22, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 21-22, ARC**
    {:.bible}
 
 #️⃣
@@ -2146,7 +1998,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*... bem-aventurados os misericordiosos, porque eles alcançarão misericórdia ...*
    >
-   **>**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 7, [ARC](https://www.bible.com/pt/versions/212)**
+   **>**Mateus, cap. 5, vers. 7, ARC**
    {:.bible}
     
 #️⃣
@@ -2155,7 +2007,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="2"}
 2. >*Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós. Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 6, vers. 14-15, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 6, vers. 14-15, ARC**
    {:.bible}
 
 #️⃣
@@ -2164,7 +2016,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="3"}
 3. >*Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão. Então, Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? Jesus lhe disse: Não te digo que até sete, mas até setenta vezes sete.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 18, vers. 15, 21-22, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 18, vers. 15, 21-22, ARC**
    {:.bible}
 
 #️⃣
@@ -2185,7 +2037,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="5"}
 1. >*Concilia-te depressa com o teu adversário, enquanto estás no caminho com ele, para que não aconteça que o adversário te entregue ao juiz, e o juiz te entregue ao oficial, e te encerrem na prisão. Em verdade te digo que, de maneira nenhuma, sairás dali, enquanto não pagares o último ceitil.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 25-26, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 25-26, ARC**
    {:.bible}
 
 #️⃣
@@ -2202,7 +2054,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="7"}
 7. >*Portanto, se trouxeres a tua oferta ao altar e aí te lembrares de que teu irmão tem alguma coisa contra ti, deixa ali diante do altar a tua oferta, e vai reconciliar-te primeiro com teu irmão, e depois vem, e apresenta a tua oferta.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 23-24, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 23-24, ARC**
    {:.bible}
 
 #️⃣
@@ -2219,7 +2071,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="9"}
 9. >*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho? Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, estando uma trave no teu? Hipócrita, tira primeiro a trave do teu olho e, então, cuidarás em tirar o argueiro do olho do teu irmão.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, vers. 3-5, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 7, vers. 3-5, ARC**
    {:.bible}
 
 #️⃣
@@ -2236,7 +2088,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="11"}
 11. >*Não julgueis, para que não sejais julgados, porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos hão de medir a vós.*
     >
-    >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, vers. 1-2, [ARC](https://www.bible.com/pt/versions/212)**
+    >**Mateus, cap. 7, vers. 1-2, ARC**
     {:.bible}
 
 #️⃣
@@ -2247,7 +2099,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
     >
     >E, endireitando-se Jesus e não vendo ninguém mais do que a mulher, disse-lhe: *Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?* E ela disse: Ninguém, Senhor. E disse-lhe Jesus: *Nem eu também te condeno; vai-te e não peques mais.*
     >
-    >**João, cap. 8, vers. 3-11, [ARC](https://www.bible.com/pt/versions/212)**
+    >**João, cap. 8, vers. 3-11, ARC**
     {:.bible}
 
 #️⃣
@@ -2389,7 +2241,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: Mestre, qual é o grande mandamento da lei? E Jesus disse-lhe: *Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. Este é o primeiro e grande mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. 40Desses dois mandamentos dependem toda a lei e os profetas.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 22, vers. 34-40, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 22, vers. 34-40, ARC**
     {:.bible}
 
 #️⃣
@@ -2398,12 +2250,12 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="2"}
 2. >*Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 7, vers. 12, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 7, vers. 12, ARC**
     {:.bible}
 
    >*E como vós quereis que os homens vos façam, da mesma maneira fazei-lhes vós também.*
    >
-   >**Lucas, cap. 6, vers. 31, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Lucas, cap. 6, vers. 31, ARC**
     {:.bible}
 
 #️⃣
@@ -2416,7 +2268,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >
    >*Assim vos fará também meu Pai celestial, se do coração não perdoardes, cada um a seu irmão, as suas ofensas.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 18, vers. 23-35, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 18, vers. 23-35, ARC**
     {:.bible}
 
 #️⃣
@@ -2437,7 +2289,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
    >
    >E eles, ouvindo isso, maravilharam-se e, deixando-o, se retiraram.
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), cap. 18, vers. 23-35, [ARC](https://www.bible.com/pt/versions/212) & Marcos, cap. 12, vers. 13-17, ARC**
+   >**Mateus, cap. 18, vers. 23-35, ARC & Marcos, cap. 12, vers. 13-17, ARC**
     {:.bible}
 
 #️⃣
@@ -2601,12 +2453,12 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 1. >*Ouvistes que foi dito: Amarás o teu próximo e aborrecerás o teu inimigo. Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam e orai pelos que vos maltratam e vos perseguem, para que sejais filhos do Pai que está nos céus; porque faz que o seu sol se levante sobre maus e bons e a chuva desça sobre justos e injustos. Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo? E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim?*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 43-47, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 43-47, ARC**
     {:.bible}
 
    >*Porque vos digo que, se a vossa justiça não exceder a dos escribas e fariseus, de modo nenhum entrareis no Reino dos céus.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 20, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 20, ARC**
     {:.bible}
 
 #️⃣
@@ -2666,7 +2518,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 {:start="7"}
 7. >*Ouvistes que foi dito: Olho por olho e dente por dente. Eu, porém, vos digo que não resistais ao mal; mas, se qualquer te bater na face direita, oferece-lhe também a outra; e ao que quiser pleitear contigo e tirar-te a vestimenta, larga-lhe também a capa; e, se qualquer te obrigar a caminhar uma milha, vai com ele duas. Dá a quem te pedir e não te desvies daquele que quiser que lhe emprestes.*
    >
-   >**[Mateus](https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)), [cap. 5](https://pt.m.wikipedia.org/wiki/Mateus_5), vers. 38-42, [ARC](https://www.bible.com/pt/versions/212)**
+   >**Mateus, cap. 5, vers. 38-42, ARC**
     {:.bible}
 
 #️⃣

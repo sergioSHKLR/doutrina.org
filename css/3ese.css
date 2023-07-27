@@ -1,0 +1,37 @@
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
+
+p.hash {
+    margin-left: -30px;
+    margin-bottom: -35px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    text-align: center;
+}
+
+
+blockquote.bible p:first-child::before {
+    content: "📜 ▸ ";
+    margin-left: -30px;
+}
+
+blockquote.spirit p:first-child::before {
+    content: "👻 ▸ ";
+    margin-left: -30px;
+}
+
+li {margin-left: -20px;}
+
+li>blockquote>p {margin-left: -30px;}
+
+li>blockquote.bible>p {margin-left: 0px;}
+
+li>blockquote.spirit>p {margin-left: 0px;}
+
+h5 {font-size: 100%;}
