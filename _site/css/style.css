@@ -1,7 +1,7 @@
 blockquote {
     border-left: 2px solid lightgrey;
     margin-left: 10px;
-    padding-left: 50px
+    padding-left: 50px;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 
 em {
     color: darkred;
-    font-style: normal
+    font-style: normal;
 }
 
 h1,
@@ -23,17 +23,22 @@ h2,
 h3,
 h4,
 h5 {
-    text-align: center
+    text-align: center;
 }
 
 hr {
     border-bottom: 0;
     border-top: 1px solid lightgrey;
-    width: 80%
+    width: 90%;
+}
+
+hr.hundred {
+    border-top: 1px solid grey;
+    width: 100%;
 }
 
 html {
-    scroll-behavior: smooth
+    scroll-behavior: smooth;
 }
 
 img {
@@ -43,21 +48,22 @@ img {
 }
 
 li {
-    margin-left: -15px
+    margin-left: -15px;
 }
 
 li::marker {
-    font-weight: bold
+    font-weight: bold;
 }
 
 section {
     background-color: whitesmoke;
-    padding: 30px;
+    padding: 50px;
 }
+
 
 blockquote>blockquote {
     margin-left: -50px;
-    border: none
+    border: none;
 }
 
 nav {
