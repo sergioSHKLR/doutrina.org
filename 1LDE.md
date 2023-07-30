@@ -7,6 +7,11 @@ layout: default
 
 ---
 
+* TOC
+{:toc}
+
+---
+
 ## 🗂️ Parte 0. Pré-textual {#LDE-0}
 
 ---
