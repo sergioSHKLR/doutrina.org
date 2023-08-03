@@ -1,0 +1,287 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: normal;
+  background-color: whitesmoke;
+  color: #333;
+  line-height: 1.3;
+}
+
+table {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 90%;
+  margin: auto;
+  border: 1px solid gainsboro;
+}
+
+sup {
+  background-color: yellow;
+}
+
+li {
+  margin: 1em;
+  margin-left: 0;
+}
+
+th,
+td {
+  text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+ol > ol {
+  list-style-type: lower-latin;
+  margin-left: -2em;
+}
+
+ol > ol > li {
+  margin-left: -5em;
+}
+
+ol {
+  margin-left: -1em;
+}
+
+.sub-q p {
+  display: list-item;
+  list-style-type: none;
+}
+
+.sub-q::first-letter {
+  font-weight: bold;
+}
+
+ol li::marker {
+  font-weight: bold;
+}
+
+hr {
+  margin-top: -1em;
+  border: 1px solid gainsboro
+}
+
+img {
+  display: block;
+  width: 75vw;
+  margin: auto;
+}
+
+h1 {
+  border-bottom: 1px solid gainsboro;
+  margin-left: -.15em;
+}
+
+.h2 {
+  font-size: 1.5em;
+  border-bottom: 1px solid gainsboro;
+  margin-left: 0;
+}
+
+.h3 {
+  font-size: 1.17em;
+  border-bottom: 1px solid gainsboro;
+  margin-left: 0;
+}
+
+.h4 {
+  font-size: 1em;
+  border-bottom: 1px solid gainsboro;
+  margin-left: 0;
+}
+
+summary.h4 {
+  margin-left: 0;
+}
+
+.h5 {
+  font-size: 0.83em;
+  margin-left: 0;
+}
+
+p {
+  margin-right: 1.5em;
+  margin-left: 0;
+}
+
+p.spirit {
+  margin-right: 1.5em;
+  margin-left: 0;
+}
+
+p {
+  margin-right: 1.5em;
+  margin-left: 0;
+}
+
+blockquote {
+  border-left: 3px solid lightgrey;
+  margin-left: 0em;
+  padding-left: .5em;
+}
+
+blockquote p {
+  margin-left: 0;
+}
+
+summary {
+  cursor: pointer;
+  list-style-type: none;
+  margin-left: 0;
+}
+
+details>details>details {
+  border-bottom: 1px solid gainsboro;
+  margin-left: 0;
+}
+
+details>details>details>p {
+  margin-left: 0;
+}
+
+a:any-link {
+  text-underline-offset: .2em;
+  text-decoration-thickness: 1px;
+}
+
+.jesus {
+  color: crimson;
+}
+/*
+#navbar {
+background-color: gainsboro; 
+position: fixed; 
+top: 0; 
+left: 0;
+width: 100vw; 
+transition: top 0.3s;
+}
+
+#navbar a {
+float: left;
+display: block;
+color: #000;
+text-align: center;
+padding: 15px;
+text-decoration: none;
+}
+
+#navbar a:hover {
+background-color: #fff;
+color: #000;
+}
+*/
+
+#main {
+  height: 94.5vh;
+  width: 59vw;
+  overflow: scroll;
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  padding: 1em;
+  overflow-x: hidden;
+}
+
+#ext-links {
+  border-bottom: 1px solid grey;
+  border-left: 1px solid grey;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 39vw;
+  height: 50px;
+  margin-right: 20px;
+  background-color: #333;
+  color: white;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+#ext-links a {
+  color: white;
+}
+
+#ext-frame {
+  border: 1px solid gainsboro;
+  height: 94.5vh;
+  width: 39vw;
+  overflow: scroll;
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+
+#main-navbar {
+  border-bottom: 1px solid grey;
+  height: 50px;
+  width: 59vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #333;
+}
+
+#main-navbar a {
+  text-decoration: none;
+  padding: 8px;
+  font-size: 1.5em;
+  color: white;
+}
+
+#expAll {
+  font-size: 1.75em;
+  padding: 8px;
+  float: right;
+  border: none;
+}
+
+a#home-link {
+  position: absolute;
+  top: 1vh;
+  left: 2vw;
+}
+
+@media screen and (max-width: 700px) {
+  #ext-links {
+    display: none
+  }
+  #ext-frame {
+    display: none;
+  }
+  #main {
+    width: 97vw;
+  }
+  #main-navbar {
+    width: 100vw;
+    right: 20px;
+    padding-right: 30px;
+  }
+  #expAll {
+    right: 40px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #333;
+    color: gainsboro;
+  }
+  a:any-link {
+    color: dodgerblue
+  }
+  .jesus {
+    color: indianred;
+  }
+  #navbar {
+    border-bottom: 1px solid white;
+  }
+}
