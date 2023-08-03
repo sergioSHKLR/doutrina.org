@@ -14,11 +14,6 @@
    <!-- 🚨 PWA -->
    <link rel="manifest" href="../pwa/site.webmanifest" />
    <meta name="theme-color" content="#616161" />
-   <script type="module">
-   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-   const el = document.createElement('pwa-update');
-   document.body.appendChild(el);
-   </script>
 
     <!-- 🚨 TITLE -->
     <title>📘 LDE | 💧 doutrina.org</title>
@@ -6910,6 +6905,7 @@
       </details>
     </div>
 
+    <!-- FULLSCREEN  -->
     <script>
       var elem = document.documentElement;
 
@@ -6926,6 +6922,7 @@
       }
     </script>
 
+    <!-- EXPAND/COLLAPSE ALL  -->
     <script>
       // Reference the toggle link
       const xa = document.getElementById('expAll');
@@ -6961,6 +6958,15 @@
         element.classList.toggle("dark-mode");
       }
     </script>
+
+    <!-- PWA MODULE -->-->
+<script type="module">
+  import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+  
+  const el = document.createElement('pwa-update');
+  document.body.appendChild(el);
+  </script>
+  
   </body>
 
 </html>
