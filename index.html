@@ -19,7 +19,6 @@
   flex-wrap: wrap;
   font-size: 30px;
   text-align: center;
-    padding: 100px;
 
 }
 
@@ -27,10 +26,12 @@ img {max-width: 30vw;}
 
 .flex-item-left {
   flex: 50%;
+  padding: 50px;
 }
 
 .flex-item-right {
   flex: 50%;
+  padding: 50px;
 }
 
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
@@ -39,6 +40,21 @@ img {max-width: 30vw;}
     flex: 100%;
   }
 }
+@media (prefers-color-scheme: dark) {
+        body {
+          background-color: #333;
+          color: gainsboro;
+        }
+        a:any-link {
+          color: dodgerblue
+        }
+        .jesus {
+          color: indianred;
+        }
+        #navbar {
+          border-bottom: 1px solid white;
+        }
+      }
 </style>
 </head>
 <body>
