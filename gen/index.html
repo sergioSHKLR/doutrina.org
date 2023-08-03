@@ -4,49 +4,61 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width initial-scale=1">
-    <!-- HYPO -->
+
+    <!-- 🚨 HYPO -->
     <script src="https://hypothes.is/embed.js" async></script>
-    <!-- EMOJICON -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💧</text></svg>" />
-    <!-- TITLE -->
+
+    <!-- 🚨 FAVICON -->
+    <link rel="icon" type="image/png" href="../pwa/favicon.png" sizes="512x512" />
+
+   <!-- 🚨 PWA -->
+   <link rel="manifest" href="../pwa/manifest.json" />
+
+    <!-- 🚨 TITLE -->
     <title>📓 GEN | 💧 doutrina.org</title>
-    <!-- CSS -->
+
+    <!-- 🚨 CSS -->
     <link rel="stylesheet" href="../styles.css">
-    <!-- FONTS -->
+
+    <!-- 🚨 FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
 
   </head>
 
+  <!-- 🚨 EXT LINKS -->
   <div id="ext-links">
-    <p style="margin-left: 20px;"><a target="ext" href="https://pt.m.wikipedia.org/">Wikipédia</a> | <a target="ext" href="https://pt.m.wiktionary.org/">Wikicionário</a> | <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC">Bíblia ARC</a> | <a target="ext" href="./videos/list-of-videos.html">Videos LDS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    </p>
+    <p style="margin-left: 20px;">
+    <a target="ext" href="https://pt.m.wikipedia.org/">Wikipédia</a> | 
+    <a target="ext" href="https://pt.m.wiktionary.org/">Wikicionário</a> | 
+    <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC">Bíblia ARC</a> | 
+    <a target="ext" href="../videos/list-of-videos.html">Videos LDS</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
   </div>
 
+  <!-- 🚨 EXT FRAME -->
   <div id="ext-frame">
-
-    <iframe name="ext" src="https://pt.m.wikipedia.org/wiki/A_Gênese" style="position: absolute; top: 0px; width: 100%; height: 100%; overflow-x: hidden;"></iframe>
-
+    <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" ></iframe>
   </div>
-
-  </div>
-
+  
   <body>
 
+  <!-- 🚨 NAVBAR -->
     <div id="main-navbar">
-      <a href="../" id="home-link" title="voltar ao início" style="position: absolute; top: 0; left: 0;">💧 doutrina.org</a>
+      <a href="../" id="home-link" title="voltar ao início">💧 doutrina.org</a>
 
-      <button onclick="openFullscreen();" title="abrir tela cheia" style="border: none; float: right; font-size: 1.6em;
-padding: 8px;background-color: transparent; color: limegreen; font-weight: 700;">🟢</button>
+      <button id="fullscreen" onclick="openFullscreen();" title="abrir tela cheia" >🟢</button>
 
-      <button onclick="closeFullscreen();" title="fechar tela cheia" style="border: none; float: right; font-size: 1.6em;
-padding: 8px;background-color: transparent; color: crimson; font-weight: 700;">🔴</button>
+      <button id="normalscreen" onclick="closeFullscreen();" title="fechar tela cheia" >🔴</button>
 
       <a href='#/' id='expAll' class='col' title="abrir/fechar texto">🟡</a>
-
     </div>
 
+    <div id="gap-closer">&nbsp;</div>
+
+
+   <!-- 🚨 MAIN -->
     <div id="main">
 
     <h1 id='gen'>📓 A GÊNESE</h1>
