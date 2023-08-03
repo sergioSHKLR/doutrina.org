@@ -1,0 +1,77 @@
+<!-- _BOOK _HEADER _COLORHEX _COLORNAME _ICON _WIKI _NEXT _PREVIOUS -->
+<!-- START -->
+<!-- START2 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+        }
+        .container {
+            position: absolute;
+            width: 100%;
+            overflow: hidden;
+            padding-top: 56.25%;
+            /* 16:9 Aspect Ratio */
+            top: 50%;
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+        .responsive-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        body {
+            background-color: black;
+            color: white;
+        }
+        .loading {
+            font-size: 20px;
+        }
+        .loading:after {
+            overflow: hidden;
+            display: inline-block;
+            vertical-align: bottom;
+            -webkit-animation: ellipsis steps(4, end) 900ms infinite;
+            animation: ellipsis steps(4, end) 900ms infinite;
+            content: "\2026";
+            /* ascii code for the ellipsis character */
+            width: 0px;
+        }
+        .article {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+        }
+        @keyframes ellipsis {
+            to {
+                width: 1.25em;
+            }
+        }
+        @-webkit-keyframes ellipsis {
+            to {
+                width: 1.25em;
+            }
+        }
+        a:any-link {color: white;}
+    h1,h2,h3,h4,h5,h6 {font-family: 'Lora';}
+</style>
+</head>
+<body>
+    <div class="container center">
+        <div class="loading">Carregando video </div>
+        <iframe class="responsive-iframe" src='https://www.youtube.com/embed//lj58vmJsTWc?rel=0&hl=pt&cc_load_policy=1&end=61' frameborder='0'
+            allowfullscreen></iframe>
+    </div>
+
+</body>
+</html>
