@@ -14,45 +14,12 @@
   box-sizing: border-box;
 }
 
-.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  font-size: 30px;
-  text-align: center;
+img {padding: 30px; max-height: 50vh; }
 
-}
-
-img {max-width: 30vw;}
-
-.flex-item-left {
-  flex: 50%;
-  padding: 50px;
-}
-
-.flex-item-right {
-  flex: 50%;
-  padding: 50px;
-}
-
-/* Responsive layout - makes a one column-layout instead of a two-column layout */
-@media (max-width: 800px) {
-  .flex-item-right, .flex-item-left {
-    flex: 100%;
-  }
-}
 @media (prefers-color-scheme: dark) {
         body {
           background-color: #333;
           color: gainsboro;
-        }
-        a:any-link {
-          color: dodgerblue
-        }
-        .jesus {
-          color: indianred;
-        }
-        #navbar {
-          border-bottom: 1px solid white;
         }
       }
 </style>
@@ -60,13 +27,13 @@ img {max-width: 30vw;}
 <body>
 
 
-<div class="flex-container">
-  <div class="flex-item-left"><a href="./lde/"><img src="./images/lde.png"></a></div>
-  <div class="flex-item-left"><a href="./ldm/"><img src="./images/ldm.png"></a></div>
-  <div class="flex-item-left"><a href="./ese/"><img src="./images/ese.png"></a></div>
-  <div class="flex-item-left"><a href="./ceu/"><img src="./images/ceu.png"></a></div>
-  <div class="flex-item-left"><a href="./gen/"><img src="./images/gen.png"></a></div>
-</div>
+
+  <span><a href="./lde/"><img src="./images/lde.png"></a>
+  <a href="./ldm/"><img src="./images/ldm.png"></a>
+  <a href="./ese/"><img src="./images/ese.png"></a>
+  <a href="./ceu/"><img src="./images/ceu.png"></a>
+  <a href="./gen/"><img src="./images/gen.png"></a></span>
+
 
 </body>
 </html>
