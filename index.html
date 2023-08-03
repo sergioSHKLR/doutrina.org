@@ -11,11 +11,6 @@
    <!-- 🚨 PWA -->
    <link rel="manifest" href="./pwa/site.webmanifest" />
    <meta name="theme-color" content="#616161" />
-   <script type="module">
-   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-   const el = document.createElement('pwa-update');
-   document.body.appendChild(el);
-   </script>
 
     <!-- 🚨 TITLE -->
     <title>🏠 Início | 💧 doutrina.org</title>
@@ -41,6 +36,14 @@ img {padding: 30px; max-height: 50vh; }
   <a href="./ese/"><img src="./images/ese.png"></a>
   <a href="./ceu/"><img src="./images/ceu.png"></a>
   <a href="./gen/"><img src="./images/gen.png"></a></span>
+
+<!-- PWA MODULE -->-->
+<script type="module">
+import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+const el = document.createElement('pwa-update');
+document.body.appendChild(el);
+</script>
 
 </body>
 </html>
