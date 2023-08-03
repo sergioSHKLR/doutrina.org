@@ -14,20 +14,12 @@ body {
   line-height: 1.3;
 }
 
+/* 🚨 TABLES */
 table {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   width: 90%;
   margin: auto;
   border: 1px solid gainsboro;
-}
-
-sup {
-  background-color: yellow;
-}
-
-li {
-  margin: 1em;
-  margin-left: 0;
 }
 
 th,
@@ -37,6 +29,7 @@ td {
   padding-right: 2em;
 }
 
+/* 🚨 LISTS */
 ol > ol {
   list-style-type: lower-latin;
   margin-left: -2em;
@@ -50,16 +43,22 @@ ol {
   margin-left: -1em;
 }
 
+ol li::marker {
+  font-weight: bold;
+}
+
+li {
+  margin: 1em;
+  margin-left: 0;
+}
+
+
 .sub-q p {
   display: list-item;
   list-style-type: none;
 }
 
 .sub-q::first-letter {
-  font-weight: bold;
-}
-
-ol li::marker {
   font-weight: bold;
 }
 
@@ -74,6 +73,7 @@ img {
   margin: auto;
 }
 
+/* 🚨 HEADINGS */
 h1 {
   border-bottom: 1px solid gainsboro;
   margin-left: -.15em;
@@ -106,6 +106,7 @@ summary.h4 {
   margin-left: 0;
 }
 
+/* 🚨 PARAGRAPHS */
 p {
   margin-right: 1.5em;
   margin-left: 0;
@@ -131,6 +132,11 @@ blockquote p {
   margin-left: 0;
 }
 
+sup {
+  background-color: yellow;
+}
+
+/* 🚨 COLLAPSIBLE */
 summary {
   cursor: pointer;
   list-style-type: none;
@@ -146,39 +152,12 @@ details>details>details>p {
   margin-left: 0;
 }
 
-a:any-link {
-  text-underline-offset: .2em;
-  text-decoration-thickness: 1px;
-}
-
+/* 🚨 BIBLE */
 .jesus {
   color: crimson;
 }
-/*
-#navbar {
-background-color: gainsboro; 
-position: fixed; 
-top: 0; 
-left: 0;
-width: 100vw; 
-transition: top 0.3s;
-}
 
-#navbar a {
-float: left;
-display: block;
-color: #000;
-text-align: center;
-padding: 15px;
-text-decoration: none;
-}
-
-#navbar a:hover {
-background-color: #fff;
-color: #000;
-}
-*/
-
+/* 🚨 FRAMES */
 #main {
   height: 94.5vh;
   width: 59vw;
@@ -206,10 +185,6 @@ color: #000;
   white-space: nowrap;
 }
 
-#ext-links a {
-  color: white;
-}
-
 #ext-frame {
   border: 1px solid gainsboro;
   height: 94.5vh;
@@ -230,6 +205,14 @@ color: #000;
   background-color: #333;
 }
 
+#expAll {
+  font-size: 1.75em;
+  padding: 8px;
+  float: right;
+  border: none;
+}
+
+/* 🚨 LINKS */
 #main-navbar a {
   text-decoration: none;
   padding: 8px;
@@ -237,11 +220,13 @@ color: #000;
   color: white;
 }
 
-#expAll {
-  font-size: 1.75em;
-  padding: 8px;
-  float: right;
-  border: none;
+#ext-links a {
+  color: white;
+}
+
+a:any-link {
+  text-underline-offset: .2em;
+  text-decoration-thickness: 1px;
 }
 
 a#home-link {
@@ -250,6 +235,7 @@ a#home-link {
   left: 2vw;
 }
 
+/* 🚨 MEDIA QUERY */
 @media screen and (max-width: 700px) {
   #ext-links {
     display: none
@@ -270,6 +256,7 @@ a#home-link {
   }
 }
 
+/* 🚨 DARK MODE */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #333;
