@@ -942,68 +942,66 @@
             </details>
         </details>
 
-    <!-- FULLSCREEN  -->
-    <script>
-        var elem = document.documentElement;
+<!-- FULLSCREEN  -->
+<script>
+    var elem = document.documentElement;
   
-        function openFullscreen() {
-          if(elem.requestFullscreen) {
-            elem.requestFullscreen();
-          }
+    function openFullscreen() {
+      if(elem.requestFullscreen) {
+        elem.requestFullscreen();
+      }
+    }
+  
+    function closeFullscreen() {
+      if(document.exitFullscreen) {
+        document.exitFullscreen();
+      }
+    }
+  </script>
+  
+  <!-- EXPAND/COLLAPSE ALL  -->
+  <script>
+    // Reference the toggle link
+    const xa = document.getElementById('expAll');
+    // Register link on click event
+    xa.addEventListener('click', function(e) {
+      /* Toggle the two classes that represent "state"
+      || determined when link is clicked
+      */
+      e.currentTarget.classList.toggle('exp');
+      e.currentTarget.classList.toggle('col');
+      // Collect all <details> into a NodeList
+      const details = document.querySelectorAll('details');
+      /* Convert NodeList into an array then iterate
+      || through it...
+      */
+      Array.from(details).forEach(function(obj, idx) {
+        /* If the link has the class .exp...
+        || make each <detail>'s open attribute true
+        */
+        if(e.currentTarget.classList.contains('exp')) {
+          obj.open = true;
+          // Otherwise remove [open]
+        } else {
+          obj.removeAttribute('open');
         }
+      });
+    }, false);
+  </script>
   
-        function closeFullscreen() {
-          if(document.exitFullscreen) {
-            document.exitFullscreen();
-          }
-        }
-      </script>
+  <!-- DARK MODE-->
+  <script>
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
   
-      <!-- EXPAND/COLLAPSE ALL  -->
-      <script>
-        // Reference the toggle link
-        const xa = document.getElementById('expAll');
-        // Register link on click event
-        xa.addEventListener('click', function(e) {
-          /* Toggle the two classes that represent "state"
-          || determined when link is clicked
-          */
-          e.currentTarget.classList.toggle('exp');
-          e.currentTarget.classList.toggle('col');
-          // Collect all <details> into a NodeList
-          const details = document.querySelectorAll('details');
-          /* Convert NodeList into an array then iterate
-          || through it...
-          */
-          Array.from(details).forEach(function(obj, idx) {
-            /* If the link has the class .exp...
-            || make each <detail>'s open attribute true
-            */
-            if(e.currentTarget.classList.contains('exp')) {
-              obj.open = true;
-              // Otherwise remove [open]
-            } else {
-              obj.removeAttribute('open');
-            }
-          });
-        }, false);
-      </script>
-  
-      <script>
-        function myFunction() {
-          var element = document.body;
-          element.classList.toggle("dark-mode");
-        }
-      </script>
-  
-      <!-- PWA MODULE -->-->
+  <!-- PWA MODULE -->-->
   <script type="module">
-    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-    
-    const el = document.createElement('pwa-update');
-    document.body.appendChild(el);
-    </script>
-    
-    </body>
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate'; const el = document.createElement('pwa-update'); document.body.appendChild(el);
+  </script>
+  
+  </body>
   
   </html>
