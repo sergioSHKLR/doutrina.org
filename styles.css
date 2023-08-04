@@ -1,3 +1,5 @@
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -134,6 +136,12 @@ blockquote p {
 
 sup {
   background-color: yellow;
+}
+
+/* EMOJI */
+em {
+  font-family: 'Noto Color Emoji', sans-serif; 
+  font-style: normal;
 }
 
 /* 🚨 COLLAPSIBLE */
