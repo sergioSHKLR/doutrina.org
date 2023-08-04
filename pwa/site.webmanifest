@@ -45,7 +45,7 @@
   ],
   "shortcuts": [
     {
-      "name":"🏠 Início",
+      "name":"Início",
       "url":"/",
       "description":"voltar à página inicial",
       "icons": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name":"📘 LDE",
+      "name":"O Livro dos Espíritos",
       "url":"./lde/",
       "description":"📘 O Livro dos Espíritos",
       "icons": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name":"📙 LDM",
+      "name":"O Livro dos Médiuns",
       "url":"./ldm/",
       "description":"📙 O Livro dos Médiuns",
       "icons": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "name":"📗 ESE",
+      "name":"O Evangelho segundo o Espiritismo",
       "url":"./ese/",
       "description":"📗 O Evangelho segundo o Espiritismo",
       "icons": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name":"📕 CEU",
+      "name":"O Céu e o Inferno",
       "url":"./ceu/",
       "description":"📕 O Céu e o Inferno",
       "icons": [
@@ -110,12 +110,12 @@
       ]
     },
     {
-      "name":"📓 GEN",
+      "name":"A Gênese",
       "url":"./gen/",
       "description":"📓 A Gênese",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/black-book.png",
+          "src": "https://www.doutrina.org/pwa/black-notebook.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
