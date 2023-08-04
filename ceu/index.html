@@ -68,60 +68,29 @@
  <details open>
  <summary class="h3" id='lde-0-01'>📃 Folha de rosto</summary> <br />
  <table>
- <thead>
- <tr>
- <th>&nbsp;</th>
- </tr>
- </thead>
+ <thead><tr><th>&nbsp;</th></tr></thead>
  <tbody>
+ <tr><td>**Cabeçalho**</td></tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr><td><span style="font-size: 1.5em;">📕 O CÉU E O INFERNO</span></td></tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr><td>ou a Justiça Divina segundo o Espiritismo</td></tr>
  <tr>
- <td>**Cabeçalho**</td>
- </tr>
- <tr>
- <td>&nbsp;</td>
- </tr>
- <tr>
- <td><span style="font-size: 1.5em;">📕 O CÉU E O INFERNO</span></td>
- </tr>
- <tr>
- <td>&nbsp;</td>
- </tr>
- <tr>
- <td>ou a Justiça Divina segundo o Espiritismo</td>
- </tr>
- <tr>
- <td> Exame comparado das doutrinas sobre a passagem da vida corporal à vida espiritual,sobre as
+  <td>&nbsp;</td>
+  </tr>
+ <tr><td> Exame comparado das doutrinas sobre a passagem da vida corporal à vida espiritual,sobre as
  penalidades e recompensas futuras, sobre os anjos e demônios, sobre as penas etc., seguido
- de numerosos exemplos acerca da situação real da alma durante e depois da morte. </td>
- </tr>
- <tr>
- <td>&nbsp;</td>
- </tr>
- <tr>
- <td>Por</td>
- </tr>
- <tr>
- <td><span style="font-family: 'Style Script', cursive; font-size: 200%"><a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" target="ext">Allan Kardec</a></td>
- </tr>
- <tr>
- <td>&nbsp;</td>
- </tr>
- <tr>
- <td><a href="https://pt.m.wikipedia.org/wiki/Manuel_Quintão" target="ext">Tradução de Manuel Quintão</a></td>
- </tr>
- <tr>
- <td>&nbsp;</td>
- </tr>
+ de numerosos exemplos acerca da situação real da alma durante e depois da morte. </td></tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr><td>Por</td></tr>
+ <tr><td><span style="font-family: 'Style Script', cursive; font-size: 200%"><a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" target="ext">Allan Kardec</a></td></tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr><td><a href="https://pt.m.wikipedia.org/wiki/Manuel_Quintão" target="ext">Tradução de Manuel Quintão</a></td></tr>
+ <tr><td>&nbsp;</td></tr>
  
- <tr>
- <td><small>Baseado no original ISBN 978-85-7328-731-8</small></td>
- </tr>
- <tr>
- <td><small>Modificado para o consumo digital por Sergio de<br />⭕<a href="https://shklr.org">shklr.org</a></small></td>
- </tr>
- <tr>
- <td>&nbsp;</td>
- </tr>
+ <tr><td><small>Baseado no original <a target="ext" href="http://www.febnet.org.br/wp-content/uploads/2014/05/ceu-e-inferno-Manuel-Quintao.pdf">ISBN 978-85-7328-731-8</a></small></td></tr>
+ <tr><td><small>Modificado para o consumo digital por Sergio de<br />⭕ <a target="_blank" href="https://shklr.org">shklr.org</a></small></td></tr>
+ <tr><td>&nbsp;</td></tr>
  </tbody>
  </table>
  </details><br />
@@ -779,66 +748,68 @@
  </details>
  </details>
 
+ 
 <!-- FULLSCREEN -->
 <script>
- var elem = document.documentElement;
- 
- function openFullscreen() {
- if(elem.requestFullscreen) {
- elem.requestFullscreen();
- }
- }
- 
- function closeFullscreen() {
- if(document.exitFullscreen) {
- document.exitFullscreen();
- }
- }
- </script>
- 
- <!-- EXPAND/COLLAPSE ALL -->
- <script>
- // Reference the toggle link
- const xa = document.getElementById('expAll');
- // Register link on click event
- xa.addEventListener('click', function(e) {
- /* Toggle the two classes that represent "state"
- || determined when link is clicked
- */
- e.currentTarget.classList.toggle('exp');
- e.currentTarget.classList.toggle('col');
- // Collect all <details> into a NodeList
- const details = document.querySelectorAll('details');
- /* Convert NodeList into an array then iterate
- || through it...
- */
- Array.from(details).forEach(function(obj, idx) {
- /* If the link has the class .exp...
- || make each <detail>'s open attribute true
- */
- if(e.currentTarget.classList.contains('exp')) {
- obj.open = true;
- // Otherwise remove [open]
- } else {
- obj.removeAttribute('open');
- }
- });
- }, false);
- </script>
- 
- <!-- DARK MODE-->
- <script>
- function myFunction() {
- var element = document.body;
- element.classList.toggle("dark-mode");
- }
- </script>
- 
- <!-- PWA MODULE -->-->
- <script type="module">
- import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate'; const el = document.createElement('pwa-update'); document.body.appendChild(el);
- </script>
- 
- </body>
- 
- </html>
+  var elem = document.documentElement;
+  function openFullscreen() {
+    if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) { /* Safari */
+      elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { /* IE11 */
+      elem.msRequestFullscreen();
+    }
+  }
+  
+  function closeFullscreen() {
+    if (document.exitFullscreen) {
+      document.exitFullscreen();
+    } else if (document.webkitExitFullscreen) { /* Safari */
+      document.webkitExitFullscreen();
+    } else if (document.msExitFullscreen) { /* IE11 */
+      document.msExitFullscreen();
+    }
+  }
+  </script>
+  
+  <!-- EXPAND/COLLAPSE ALL -->
+  <script>
+   // Reference the toggle link
+   const xa = document.getElementById('expAll');
+   // Register link on click event
+   xa.addEventListener('click', function(e) {
+   /* Toggle the two classes that represent "state"
+   || determined when link is clicked
+   */
+   e.currentTarget.classList.toggle('exp');
+   e.currentTarget.classList.toggle('col');
+   // Collect all <details> into a NodeList
+   const details = document.querySelectorAll('details');
+   /* Convert NodeList into an array then iterate
+   || through it...
+   */
+   Array.from(details).forEach(function(obj, idx) {
+   /* If the link has the class .exp...
+   || make each <detail>'s open attribute true
+   */
+   if(e.currentTarget.classList.contains('exp')) {
+   obj.open = true;
+   // Otherwise remove [open]
+   } else {
+   obj.removeAttribute('open');
+   }
+   });
+   }, false);
+  </script>
+  
+  <!-- DARK MODE-->
+  <script>
+   function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+   }
+  </script>
+  
+  </body>
+  </html>

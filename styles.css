@@ -265,6 +265,7 @@ a#home-link {
   background-color: transparent;
   color: limegreen;
   font-weight: 700;
+  cursor: pointer;
 }
 
 #normalscreen {
@@ -275,6 +276,7 @@ a#home-link {
   background-color: transparent;
   color: crimson;
   font-weight: 700;
+  cursor: pointer;
 }
 
 /* 🚨 MEDIA QUERY */
