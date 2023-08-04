@@ -294,14 +294,13 @@ a#home-link {
 }
 
 #expand-all {
-  border: 1px solid white;
   float: right;
-  font-size: 1.75em;
+  font-size: 1.6em;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
-  height: 2em;
-  width: 2em;
+  height: 1.9em;
+  width: 1.9em;
   color: white;
 }
 
