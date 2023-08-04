@@ -136,6 +136,12 @@ sup {
   background-color: yellow;
 }
 
+/* EMOJI */
+em {
+  font-family: 'Noto Color Emoji', sans-serif; 
+  font-style: normal;
+}
+
 /* 🚨 COLLAPSIBLE */
 summary {
   cursor: pointer;
@@ -151,11 +157,13 @@ details>details>details>p {
   margin-left: 0;
 }
 
-summary::after {
-  content: ' ＋';
+summary::before {
+  content: "＋ ";
+  font-size: 1em;
 }
-details[open] > summary:after {
-  content: " －";
+details[open] > summary:before {
+  content: "－ ";
+  font-size: 1em;
 }
 
 /* 🚨 BIBLE */
@@ -263,26 +271,16 @@ a#home-link {
 }
 
 /* 🚨 BUTTONS */
-#fullscreen {
-  border: none;
+button {
   float: right;
-  font-size: 1.6em;
-  padding: 8px;
+  font-size: 1.8em;
   background-color: transparent;
-  color: limegreen;
   font-weight: 700;
   cursor: pointer;
-}
-
-#normalscreen {
+  height: 1.9em;
+  width: 1.9em;
+  color: white;
   border: none;
-  float: right;
-  font-size: 1.6em;
-  padding: 8px;
-  background-color: transparent;
-  color: crimson;
-  font-weight: 700;
-  cursor: pointer;
 }
 
 /* 🚨 MEDIA QUERY */
