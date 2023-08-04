@@ -144,12 +144,18 @@ summary {
 }
 
 details>details>details {
-  border-bottom: 1px solid gainsboro;
   margin-left: 0;
 }
 
 details>details>details>p {
   margin-left: 0;
+}
+
+summary::after {
+  content: ' ＋';
+}
+details[open] > summary:after {
+  content: " －";
 }
 
 /* 🚨 BIBLE */

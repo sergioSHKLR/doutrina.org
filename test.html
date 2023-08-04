@@ -2,37 +2,37 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+ details>summary {
+    list-style: none;
+ }
+ summary::marker {
+   display: none;
+   list-style-type: none;
+ }
+ 
+ summary::after {
+   content: ' ＋';S
+ }
+ details[open] > summary:after {
+   content: " －";
+ }
+ </style>
+
+</style>
 </head>
 <body>
 
-<h2>Fullscreen with JavaScript</h2>
-<p>Click on the "Open Fullscreen" button to open this page in fullscreen mode. Close it by either clicking the "Esc" key on your keyboard, or with the "Close Fullscreen" button.</p>
+  <details><summary>Summary</summary>
+  All of the other details
 
-<button onclick="openFullscreen();">Open Fullscreen</button>
-<button onclick="closeFullscreen();">Close Fullscreen</button>
+  <details><summary>Summary</summary>
+    All of the other details</details>
 
-<script>
-var elem = document.documentElement;
-function openFullscreen() {
-  if (elem.requestFullscreen) {
-    elem.requestFullscreen();
-  } else if (elem.webkitRequestFullscreen) { /* Safari */
-    elem.webkitRequestFullscreen();
-  } else if (elem.msRequestFullscreen) { /* IE11 */
-    elem.msRequestFullscreen();
-  }
-}
 
-function closeFullscreen() {
-  if (document.exitFullscreen) {
-    document.exitFullscreen();
-  } else if (document.webkitExitFullscreen) { /* Safari */
-    document.webkitExitFullscreen();
-  } else if (document.msExitFullscreen) { /* IE11 */
-    document.msExitFullscreen();
-  }
-}
-</script>
+
+</details>
 
 </body>
 </html>
