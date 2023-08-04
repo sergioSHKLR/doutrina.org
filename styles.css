@@ -157,11 +157,11 @@ details>details>details>p {
   margin-left: 0;
 }
 
-summary::after {
-  content: ' 🞦';
+summary::before {
+  content: "+ ";
 }
-details[open] > summary:after {
-  content: " ▬";
+details[open] > summary:before {
+  content: "- ";
 
 }
 
