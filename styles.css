@@ -161,7 +161,7 @@ summary::after {
   content: ' 🞦';
 }
 details[open] > summary:after {
-  content: " 🞬";
+  content: " ▬";
 
 }
 
@@ -273,26 +273,24 @@ a#home-link {
 #fullscreen {
   border: 1px solid white;
   float: right;
-  font-size: 2em;
-  padding: 8px;
+  font-size: 1.75em;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
-  height: 2.5em;
-  width: 2.5em;
+  height: 2em;
+  width: 2em;
   color: white;
 }
 
 #normalscreen {
   border: 1px solid white;
   float: right;
-  font-size: 2em;
-  padding: 8px;
+  font-size: 1.75em;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
-  height: 2.5em;
-  width: 2.5em;
+  height: 2em;
+  width: 2em;
   color: white;
 }
 
