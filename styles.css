@@ -293,8 +293,16 @@ a#home-link {
   color: white;
 }
 
-.float-right {
+#expand-all {
+  border: 1px solid white;
   float: right;
+  font-size: 1.75em;
+  background-color: transparent;
+  font-weight: 700;
+  cursor: pointer;
+  height: 2em;
+  width: 2em;
+  color: white;
 }
 
 /* 🚨 MEDIA QUERY */
