@@ -59,7 +59,7 @@
     },
     {
       "name":"O Livro dos Espíritos",
-      "url":"https://www.doutrina.org/lde",
+      "url":"/lde",
       "description":"📘 O Livro dos Espíritos",
       "icons": [
         {
@@ -72,7 +72,7 @@
     },
     {
       "name":"O Livro dos Médiuns",
-      "url":"https://www.doutrina.org/ldm",
+      "url":"/ldm",
       "description":"📙 O Livro dos Médiuns",
       "icons": [
         {
@@ -85,7 +85,7 @@
     },
     {
       "name":"O Evangelho segundo o Espiritismo",
-      "url":"https://www.doutrina.org/ese",
+      "url":"/ese",
       "description":"📗 O Evangelho segundo o Espiritismo",
       "icons": [
         {
@@ -98,7 +98,7 @@
     },
     {
       "name":"O Céu e o Inferno",
-      "url":"https://www.doutrina.org/ceu",
+      "url":"/ceu",
       "description":"📕 O Céu e o Inferno",
       "icons": [
         {
@@ -111,7 +111,7 @@
     },
     {
       "name":"A Gênese",
-      "url":"https://www.doutrina.org/gen",
+      "url":"/gen",
       "description":"📓 A Gênese",
       "icons": [
         {
