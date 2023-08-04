@@ -14,6 +14,44 @@
   "display_override": ["window-controls-overlay"],
   "lang": "pt-BR",
   "dir": "ltr",
+  "handle_links": "preferred",
+  "share_target": {
+    "action": "/handle-shared-content/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "url": "url"
+    }
+  },
+  "scope_extensions": [
+    {"origin": "*.pwabuilder.com"},
+    {"origin": "docs.pwabuilder.co.uk"},
+    {"origin": "*.pwabuilder.co.uk"}
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+music",
+      "url": "/play?track=%s"
+    }
+  ],  
+  "file_handlers": [
+    {
+      "action": "/open-pdf",
+      "accept": {
+        "application/pdf": [".pdf"]
+      },
+      "icons": [
+        {
+          "src": "pdf-icon.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+      ],
+      "launch_type": "single-client"
+    }],
+    "edge_side_panel": {
+      "preferred_width": 400
+    },  
   "icons": [
     {
       "src": "https://www.doutrina.org/pwa/maskable.png",
