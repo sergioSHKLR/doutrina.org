@@ -197,6 +197,7 @@ details[open] > summary:before {
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
+  z-index:2
 }
 
 #ext-frame {
@@ -225,7 +226,8 @@ details[open] > summary:before {
   top: 0;
   left: 0;
   background-color: #444;
-  padding-right: 1.5em;
+  padding-right: .5em;
+  z-index: 1;
 }
 
 #gap-closer {
@@ -236,6 +238,7 @@ details[open] > summary:before {
   right: 39vw;
   width: 2.7em;
   border-bottom: 1px solid grey;
+  z-index: 0;
 }
 
 #expAll {
@@ -248,8 +251,8 @@ details[open] > summary:before {
 /* 🚨 LINKS */
 #main-navbar a {
   text-decoration: none;
-  padding: 8px;
-  font-size: 1.5em;
+  padding: 5px 5px;
+  font-size: 1.7em;
   color: white;
 }
 
@@ -273,14 +276,15 @@ a#home-link {
 /* 🚨 BUTTONS */
 button {
   float: right;
-  font-size: 1.8em;
+  font-size: 2.1em;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
-  height: 1.9em;
-  width: 1.2em;
+  height: 1.5em;
+  width: 1.5em;
   color: white;
-  border: none;
+  margin: 0px;
+  border: none;  
 }
 
 /* 🚨 MEDIA QUERY */
