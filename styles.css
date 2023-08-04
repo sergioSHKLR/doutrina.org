@@ -158,10 +158,12 @@ details>details>details>p {
 }
 
 summary::before {
-  content: "+ ";
+  content: "＋ ";
+  font-size: 1em;
 }
 details[open] > summary:before {
-  content: "- ";
+  content: "－ ";
+  font-size: 1em;
 }
 
 /* 🚨 BIBLE */
