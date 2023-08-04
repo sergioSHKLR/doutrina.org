@@ -275,9 +275,10 @@ a#home-link {
   font-size: 1.6em;
   padding: 8px;
   background-color: transparent;
-  color: limegreen;
   font-weight: 700;
   cursor: pointer;
+  height: 2.5em;
+  width: 2.5em;
 }
 
 #normalscreen {
@@ -286,9 +287,10 @@ a#home-link {
   font-size: 1.6em;
   padding: 8px;
   background-color: transparent;
-  color: crimson;
   font-weight: 700;
   cursor: pointer;
+  height: 2.5em;
+  width: 2.5em;
 }
 
 /* 🚨 MEDIA QUERY */
