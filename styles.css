@@ -271,37 +271,16 @@ a#home-link {
 }
 
 /* 🚨 BUTTONS */
-#fullscreen {
+button {
   float: right;
-  font-size: 1.6em;
+  font-size: 1.8em;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
   height: 1.9em;
   width: 1.9em;
   color: white;
-}
-
-#normalscreen {
-  float: right;
-  font-size: 1.6em;
-  background-color: transparent;
-  font-weight: 700;
-  cursor: pointer;
-  height: 1.9em;
-  width: 1.9em;
-  color: white;
-}
-
-#expand-all {
-  float: right;
-  font-size: 1.6em;
-  background-color: transparent;
-  font-weight: 700;
-  cursor: pointer;
-  height: 1.9em;
-  width: 1.9em;
-  color: white;
+  border: none;
 }
 
 /* 🚨 MEDIA QUERY */
