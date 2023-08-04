@@ -270,27 +270,33 @@ a#home-link {
 
 /* 🚨 BUTTONS */
 #fullscreen {
-  border: none;
+  border: 1px solid white;
   float: right;
-  font-size: 1.6em;
+  font-size: 2em;
   padding: 8px;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
   height: 2.5em;
   width: 2.5em;
+  color: white;
 }
 
 #normalscreen {
-  border: none;
+  border: 1px solid white;
   float: right;
-  font-size: 1.6em;
+  font-size: 2em;
   padding: 8px;
   background-color: transparent;
   font-weight: 700;
   cursor: pointer;
   height: 2.5em;
   width: 2.5em;
+  color: white;
+}
+
+.float-right {
+  float: right;
 }
 
 /* 🚨 MEDIA QUERY */
