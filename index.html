@@ -38,11 +38,10 @@ img {padding: 30px; max-height: 50vh; }
   <a href="./gen/"><img src="./images/gen.png"></a></span>
 
 <!-- PWA MODULE -->
-<script type="module">
-import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-
-const el = document.createElement('pwa-update');
-document.body.appendChild(el);
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
 </script>
 
 </body>
