@@ -251,7 +251,7 @@ details[open] > summary:before {
 /* 🚨 LINKS */
 #main-navbar a {
   text-decoration: none;
-  padding: 5px 5px;
+  padding: 6px 5px;
   font-size: 1.7em;
   color: white;
 }
