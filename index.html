@@ -39,9 +39,16 @@ img {padding: 30px; max-height: 50vh; }
 
 <!-- PWA MODULE -->
 <script>
-  if (typeof navigator.serviceWorker !== 'undefined') {
-    navigator.serviceWorker.register('sw.js')
-  }
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker
+    .register("/sw.js")
+    .then(serviceWorker => {
+      console.log("Service Worker registered: ", serviceWorker);
+    })
+    .catch(error => {
+      console.error("Error registering the Service Worker: ", error);
+    });
+}
 </script>
 
 </body>
