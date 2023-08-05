@@ -211,7 +211,6 @@ html, body {
 #navbar {
   background-color: #333;
   color: white;
-  border-bottom: 1px solid gainsboro;
   padding-right: 40px;
   z-index: 1;
 }
@@ -230,10 +229,12 @@ button#brand {
 .label {display: show;}
 
 /* 🚨 MEDIA QUERY */
-@media screen and (max-width: 700px) {
-.label {display: none;}
+@media screen and (max-width: 850px) {
+  .label {display: none;}
+   
+  .dropbtn3 {right: 20px;}
 
-
-
+  .dropdown-content3 {right: 20px;;
+  }
 
 }

@@ -51,7 +51,6 @@ li {
   margin-left: 0;
 }
 
-
 .sub-q p {
   display: list-item;
   list-style-type: none;
@@ -166,7 +165,6 @@ details[open]>summary.question::before {
   color: crimson;
 }
 
-
 /* 🚨 BLOCKQUOTES */
 blockquote {
   border-left: 2px solid grey;
@@ -199,64 +197,6 @@ blockquote.bible::before {
   left: -1em;
 }
 
-/* 🚨 FRAMES */
-#main {
-  height: 94.5vh;
-  width: 59.5vw;
-  overflow: scroll;
-  position: absolute;
-  top: 50px;
-  left: 0px;
-  padding: 1em;
-  overflow-x: hidden;
-  scroll-behavior: smooth;
-  z-index: 0;
-}
-
-#ext-links {
-  border-left: 1px solid white;
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 39vw;
-  margin-right: 20px;
-  background-color: #333;
-  color: white;
-  overflow-x: auto;
-  overflow-y: hidden;
-  white-space: nowrap;
-  z-index: 2;
-  height: 50px !important;
-}
-
-#ext-frame {
-  border-left: 2px solid grey;
-  height: 94.5vh;
-  width: 39vw;
-  overflow: scroll;
-  position: absolute;
-  top: 50px;
-  right: 20px;
-}
-
-#ext-iframe {
-  position: absolute;
-  top: 0px;
-  width: 100%;
-  height: 100%;
-  overflow-x: hidden;
-}
-
-#gap-closer {
-  height: 50px;
-  position: absolute;
-  top: 0;
-  background-color: #444;
-  right: 39vw;
-  width: 2.7em;
-  border-bottom: 1px solid grey;
-  z-index: 0;
-}
 
 /* 🚨 LINKS */
 
@@ -267,8 +207,8 @@ blockquote.bible::before {
   text-decoration: none;
 }
 
-a:any-link {
-  color: mediumblue ;
+#main a:any-link {
+  color: mediumblue;
   text-underline-offset: .2em;
   text-decoration-thickness: 1px;
 }
@@ -277,35 +217,32 @@ iframe {
   border: none;
 }
 
+#main {
+  background-color: whitesmoke;
+  color: #333;
+}
+
 /* 🚨 MEDIA QUERY */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 850px) {
   #ext-links {
     display: none
   }
 
-  #ext-frame {
-    display: none;
-  }
+  #main {width: 97vw;}
 
-  #main {
-    width: 97vw;
-  }
-
-}
-
-.main {
-  background-color: whitesmoke;
-  color: #222;
 }
 
 /* 🚨 DARK MODE PREFERRED */
 @media (prefers-color-scheme: dark) {
-  .main {
+
+html {background-color: #444;}
+
+  #main {
     background-color: #444;
     color: white;
   }
 
-  a:any-link {
+  #main a:any-link {
     color: dodgerblue
   }
 
@@ -318,19 +255,27 @@ iframe {
 /* 🚨 LIGHT MODE MANUAL */
 .light-mode {
 
-  .main {
+
+  #main {
     background-color: whitesmoke;
-    color: #333;
+    color: #444;
   }
 }
 
 /* 🚨 DARK MODE MANUAL */
 .dark-mode {
 
-  .main {
-    background-color: #222;
+
+  #main {
+    background-color: #444;
     color: white;
   }
 
+  #main a:any-link {
+    color: dodgerblue;
+  }
 
+  .jesus {
+    color: indianred;
+  }
 }
