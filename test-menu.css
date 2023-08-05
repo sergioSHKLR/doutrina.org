@@ -1,3 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 .dropbtn1 {
   background-color: #444;
   color: white;
@@ -37,7 +47,7 @@
 
 .dropdown3 {
   position: relative;
-  display: inline-block;
+  float: right;
 }
 
 .dropdown-content1 {
@@ -55,7 +65,8 @@
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 160px;
+  min-width: 230px;
+  overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
@@ -64,6 +75,7 @@
   font-family: sans-serif;
   display: none;
   position: absolute;
+  right: 0;
   background-color: #f1f1f1;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -125,16 +137,34 @@
   cursor: pointer;
   font-size: 1em;
   width: 100%;
-  text-align: left;
+  text-align: right;
 }
+
+#myInput {
+  box-sizing: border-box;
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 1em;
+  padding: 14px 20px 12px 20px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+#myInput:focus {outline: 3px solid #ddd;}
+
 
 .dropdown-content1 a:hover {
   background-color: #ddd;
 }
 
-.dropdown-content2 a:hover {
-  background-color: #ddd;
+/*
+.dropbtn2:hover, .dropbtn:focus {
+  background-color: #3e8e41;
 }
+*/
+
+.dropdown2 a:hover {background-color: #ddd;}
+
 
 .dropdown-content3 a:hover {
   background-color: #ddd;
@@ -165,13 +195,34 @@
 }
 
 .dropdown1:hover .dropbtn1 {
-  background-color: #000;
+  background-color: black;
 }
 
 .dropdown2:hover .dropbtn2 {
-  background-color: #000;
+  background-color: black;
 }
 
 .dropdown3:hover .dropbtn3 {
-  background-color: #000;
+  background-color: black;
 }
+
+#navbar {
+  background-color: #444;
+  color: white;
+  border-bottom: 1px solid gainsboro;
+  height: 2.5.6em;
+}
+
+button#brand {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 1.25em;
+  padding: .75em;
+}
+
+button#brand:hover {
+  background-color: black;
+}
+
+.show {display: block;}

@@ -5,46 +5,96 @@
 <!-- 🚨 CSS -->
 <link rel="stylesheet" href="./test-menu.css">
 </head>
-<body style="background-color:white;">
 
-<h2>Hoverable Dropdown</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
+<body>
+
+<div id="navbar">
+  <button id="brand">💧<span class="label"> doutrina.org</span></button>
 
 <div class="dropdown1">
-  <button class="dropbtn1">Dropdown</button>
+  <button class="dropbtn1">📚<span class="label"> Livros</span></button>
   <div class="dropdown-content1">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-    <button>Button 1</button>
-    <button>Button 2</button>
-    <button>Button 3</button>
+    <a href="#home">📘 Espíritos</a>
+    <a href="#about">📙 Médiuns</a>
+    <a href="#contact">📗 Evangelho</a>
+    <a href="#about">📕 Céu & Inferno</a>
+    <a href="#contact">📓 Gênese</a>
   </div>
 </div>
 
 <div class="dropdown2">
-  <button class="dropbtn2">Dropdown</button>
-  <div class="dropdown-content2">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-    <button>Button 1</button>
-    <button>Button 2</button>
-    <button>Button 3</button>
+  <button  class="dropbtn2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">📖
+    <span class="label"> Sumário</span></button>
+  <div id="myDropdown2" class="dropdown-content2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">
+    <input type="text" placeholder="🔎 Pesquise por ..." id="myInput" onkeyup="filterFunction()">
+    <a href="#about">About</a>
+    <a href="#base">Base</a>
+    <a href="#blog">Blog</a>
+    <a href="#contact">Contact</a>
+    <a href="#custom">Custom</a>
+    <a href="#support">Support</a>
+    <a href="#tools">Tools</a>
   </div>
 </div>
 
 <div class="dropdown3">
-  <button class="dropbtn3">Dropdown</button>
+  <button class="dropbtn3">🎚️<span class="label"> Ajustes</span></button>
   <div class="dropdown-content3">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-    <button>Button 1</button>
-    <button>Button 2</button>
-    <button>Button 3</button>
+    <button onclick="lightMode()">Claro 🌞</button>
+    <button onclick="darkMode()">Escuro 🌚</button>
+    <button onclick="openAll()">Expandir ➕</button>
+    <button onclick="closeAll()">Comprimir ➖</button>
+    <button onclick="closeFullscreen();">Tela Normal 📱</button>
+    <button onclick="openFullscreen();">Tela Cheia 🖥️</button>
+    <button onclick="increaseFontsize()">Letra Maior 🅰️</button>
+    <button onclick="decreaseFontsize()">Letra Menor
+    <span style="font-size: 80%;">🅰️</span>
   </div>
 </div>
+
+</div>
+
+<div id="main">
+
+  <span>SPAN</span>
+  <p>PARA</p>
+  <details>
+  <summary>SUMMARY</summary>DETAILS
+  </details>
+  <details>
+  <summary>SUMMARY</summary>DETAILS
+  </details>
+  <details>
+  <summary>SUMMARY</summary>DETAILS
+  </details>
+  <details>
+  <summary>PARENT</summary>
+  DETAILS
+  <details>
+  <summary>CHILD 1</summary>
+  DETAILS
+  <details>
+  <summary>CHILD2</summary>
+  DETAILS
+  <details>
+  <summary>CHILD3</summary>
+  DETAILS
+  </details>
+  </details>
+  </details>
+  </details>
+ 
+ </div>
+
+
+<script src="./js/lightMode.js"></script>
+<script src="./js/darkMode.js"></script>
+<script src="./js/openAll.js"></script>
+<script src="./js/closeAll.js"></script>
+<script src="./js/fullscreen.js"></script>
+<script src="./js/increaseFont.js"></script>
+<script src="./js/decreaseFont.js"></script>
+<script src="./js/tocFilter.js"></script>
 
 </body>
 </html>
