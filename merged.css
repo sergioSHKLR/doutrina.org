@@ -215,7 +215,7 @@ html, body {
   z-index: 1;
 }
 
-button#brand {
+#brand {
   background-color: #222;
   border: none;
   color: lightgrey;
