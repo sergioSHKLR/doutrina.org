@@ -12,6 +12,7 @@ body {
   background-color: whitesmoke;
   color: #444;
   line-height: 1.3;
+  scroll-behavior: smooth;
 }
 
 /* 🚨 TABLES */
@@ -210,6 +211,7 @@ blockquote.bible::before {
   left: 0px;
   padding: 1em;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 #ext-links {
