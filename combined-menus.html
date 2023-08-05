@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+.dropbtn2 {
+  background-color: #333;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn2:hover, .dropbtn2:focus {
+  background-color: #555;
+}
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown2 a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+.dropbtn {
+  background-color: #333;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #555;
+}
+
+#myInput {
+  box-sizing: border-box;
+  background-image: url('searchicon.png');
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 14px 20px 12px 45px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+#myInput:focus {outline: 3px solid #ddd;}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  overflow: auto;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+.dropbtn3 {
+  background-color: #333;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn3:hover, .dropbtn3:focus {
+  background-color: #555;
+}
+
+.dropdown3 {
+  float: right;
+  margin-right: 41vw;
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content3 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  right: 0;
+  z-index: 1;
+}
+
+.dropdown-content3 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+}
+
+.dropdown-content3 button {
+  color: black !important;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+  border: none;
+  float: right;
+  background-color: #f1f1f1;
+  min-width: 160px;
+}
+
+.dropdown-content3 button:hover {
+  color: black !important;
+  background-color: #ddd !important;
+}
+
+.dropdown3 a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+
+#navbar button {margin:0; padding: 10px; background-color: transparent; color: white; height: 51px; border: none; font-size: 16px;}
+
+#navbar button:hover {background-color: #555; ;}
+
+.label {display: show;}
+
+#navbar {border-bottom: 1px solid black;}
+
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown2:hover .dropdown-content2 {display: block;}
+.dropdown3:hover .dropdown-content3 {display: block;}
+
+/* 🚨 MEDIA QUERY */
+@media screen and (max-width: 800px) {
+  #ext-links {
+    display: none
+  }
+
+  #ext-frame {
+    display: none;
+  }
+
+  #main {
+    width: 97vw;
+  }
+
+  #main-navbar {
+    width: 100vw;
+    right: 20px;
+    padding-right: 30px;
+  }
+
+  #expAll {
+    right: 40px;
+  }
+
+  .label {display: none;}
+  .dropdown3 {margin-right: 30px;}
+}
+
+/* 🚨 DARK MODE 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #444;
+    color: gainsboro;
+  }
+
+  .jesus {
+    color: indianred;
+  }
+
+  #navbar {
+    border-bottom: 1px solid grey;
+  }
+  .dropdown-content2, .dropdown-content, .dropdown-content3 {background-color: dimgrey;}
+
+  .dropdown-content a:any-link {color: white;}
+  .dropdown-content2 a:any-link {color: white;}
+  .dropdown-content3 a:any-link {color: white;}
+}
+*/
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
+  </style>
+ </head>
+ <body style="margin: 0; padding: 0; font-family: sans-serif;">
+  <div id="navbar" style="width: 100vw; height: 52px; background-color: #333; ">
+   <button style="background-color: #222;">💧<span class="label"> doutrina.org</span></button>
+   <div class="dropdown2">
+    <button onclick="myFunction2()" class="dropbtn2">📚
+     <span class="label"> Livros</span>
+    </button>
+    <div id="myDropdown2" class="dropdown-content2">
+     <a href="#home">📘 LDE</a>
+     <a href="#about">📙 LDM</a>
+     <a href="#contact">📗 ESE</a>
+     <a href="#about">📕 CEU</a>
+     <a href="#contact">📓 GEN</a>
+    </div>
+   </div>
+   <div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">📖
+     <span class="label"> Sumário</span>
+    </button>
+    <div id="myDropdown" class="dropdown-content">
+     <input
+      type="text"
+      placeholder="pesquisar por..."
+      id="myInput"
+      onkeyup="filterFunction()"
+     >
+     <a href="#about">About</a>
+     <a href="#base">Base</a>
+     <a href="#blog">Blog</a>
+     <a href="#contact">Contact</a>
+     <a href="#custom">Custom</a>
+     <a href="#support">Support</a>
+     <a href="#tools">Tools</a>
+    </div>
+   </div>
+   <div class="dropdown3">
+    <button onclick="myFunction3()" class="dropbtn3">🎚️
+     <span class="label"> Ajustes</span>
+    </button>
+    <div id="myDropdown3" class="dropdown-content3">
+     <button onclick="lightMode()" >Claro 🌞</button>
+     <button onclick="darkMode()" >Escuro 🌚</button>
+     <button onclick="openAll()" >Expandir ➕</button>
+     <button onclick="closeAll()" >Comprimir ➖</button>
+     <button onclick="closeFullscreen();">Tela Normal 📱</button>
+     <button onclick="openFullscreen();" >Tela Cheia 🖥️</button>
+     <button onclick="increaseFontsize()" >Letra Maior 🅰️</button>
+     <button onclick="decreaseFontsize()" >Letra Menor <span style="font-size: 80%;">🅰️</span></button>
+    </div>
+   </div>
+  </div>
+
+
+  <div id="main">UNFORMATTED<br />
+
+<span>SPAN</span>
+
+<p>PARA</p>
+
+<details><summary>SUMMARY</summary>DETAILS</details>
+
+<details><summary>SUMMARY</summary>DETAILS</details>
+<details><summary>SUMMARY</summary>DETAILS</details>
+
+
+
+  </div>
+  
+  <script>
+  /* When the user clicks on the button,
+  toggle between hiding and showing the dropdown content */
+  function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+  }
+  
+  function filterFunction() {
+    var input, filter, ul, li, a, i;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    div = document.getElementById("myDropdown");
+    a = div.getElementsByTagName("a");
+    for (i = 0; i < a.length; i++) {
+      txtValue = a[i].textContent || a[i].innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        a[i].style.display = "";
+      } else {
+        a[i].style.display = "none";
+      }
+    }
+  }
+  </script>
+ 
+  <script>
+  function myFunction4() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+  }
+  </script>
+
+  <script>
+  function increaseFontsize() {
+         let mainDiv = document.getElementById("main");
+         mainDiv.style.fontSize = 'x-large'; // change font size to xx-large
+      }
+  </script>
+
+<script>
+  function decreaseFontsize() {
+         let mainDiv = document.getElementById("main");
+         mainDiv.style.fontSize = 'x-small'; // change font size to xx-large
+      }
+  </script>
+
+<script>
+
+var elem = document.documentElement;
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}function closeFullscreen() {
+  if (document.exitFullscreen) {
+    document.exitFullscreen();
+  } else if (document.webkitExitFullscreen) { /* Safari */
+    document.webkitExitFullscreen();
+  } else if (document.msExitFullscreen) { /* IE11 */
+    document.msExitFullscreen();
+  }
+}
+</script>
+
+<script>
+  function darkMode() {
+     var element = document.body;
+     element.classList = ("dark-mode");
+  }
+  </script>
+
+<script>
+  function lightMode() {
+     var element = document.body;
+     element.classList = ("light-mode");
+  }
+  </script>
+
+<script>
+
+function openAll() {
+  var x = document.getElementsByTagName("details");
+  var i;
+  for (i = 0; i < x.length; i++) {
+    x[i].setAttribute("open", "true");
+  }
+}
+
+</script>
+
+<script>
+
+  function closeAll() {
+    var x = document.getElementsByTagName("details");
+    var i;
+    for (i = 0; i < x.length; i++) {
+      x[i].removeAttribute('open');
+    }
+  }
+  
+  </script>
+ </body>
+</html>
