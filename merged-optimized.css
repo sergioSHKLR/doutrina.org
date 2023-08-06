@@ -225,9 +225,10 @@ body {
 	color: #dc143c
 }
 
-.sub-q p {
+p.sub-q {
 	display: list-item;
-	list-style-type: none
+	list-style-type: none;
+	margin-left: 2.5em;
 }
 
 blockquote {
