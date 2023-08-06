@@ -16,7 +16,7 @@
 
 #navbar
 {
-	background-color:#444;
+	background-color:#222;
 	color:#fff;
 	padding-right:40px;
 	z-index:1
@@ -29,7 +29,7 @@
 
 .dropbtn1,.dropbtn2
 {
-	background-color:#444;
+	background-color:#222;
 	border:none;
 	color:#fff;
 	cursor:pointer;
@@ -39,7 +39,7 @@
 
 .dropbtn3
 {
-	background-color:#444;
+	background-color:#222;
 	border:none;
 	color:#fff;
 	cursor:pointer;
@@ -151,9 +151,9 @@
 	display:show
 }
 
-button#brand
+#brand
 {
-	background-color:#222;
+	background-color:#000;
 	border:none;
 	color:#d3d3d3;
 	font-size:1.1em;
@@ -453,7 +453,7 @@ th,td
 
 .light-mode {
 	#main { background-color:#f5f5f5;
-	color:#444
+	color:#333
 }
 
 #main a:any-link {
@@ -462,12 +462,17 @@ th,td
 }
 
 .dark-mode {
-	#main {background-color:#444;
+	#main {
+	background-color:#444;
 	color:#fff
 }
 
 .jesus {
 	color:#cd5c5c
+}
+
+#main a:any-link {
+	color:#1e90ff
 }
 }
 
@@ -494,7 +499,7 @@ th,td
 
 #ext-links
 {
-	background-color:#444;
+	background-color:#222;
 	border-left:1px solid #fff;
 	color:#fff;
 	height:50px!important;
