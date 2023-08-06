@@ -12,59 +12,89 @@
  <link rel="icon" type="image/png" href="../pwa/green-book.png" sizes="512x512" />
 
  <!-- 🚨 PWA -->
- <link rel="manifest" href="../pwa/manifest.json" />
+ <link rel="manifest" href="../pwa/site.webmanifest" />
  <meta name="theme-color" content="#333" />
 
  <!-- 🚨 TITLE -->
  <title>ESE | 💧 doutrina.org</title>
 
  <!-- 🚨 CSS -->
- <link rel="stylesheet" href="../styles.css">
+ <link rel="stylesheet" href="../merged-optimized.css">
 
  <!-- 🚨 FONTS -->
  <link rel="preconnect" href="https://fonts.googleapis.com">
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
  <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Style+Script&display=swap" rel="stylesheet">
 
- <!-- ICONS -->
+<!-- ICONS -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,700,1,0" />
 
- </head>
+</head>
+
+<body>
+
+<div id="navbar">
+ <button id="brand">💧<span class="label1"> doutrina.org</span></button>
+
+<div class="dropdown1">
+ <button class="dropbtn1">📚<span class="label"> Livros</span></button>
+ <div class="dropdown-content1">
+ <a href="../lde/">📘 Espíritos</a>
+ <a href="../ldm/">📙 Médiuns</a>
+ <a href="./">📗 Evangelho</a>
+ <a href="../ceu/">📕 Céu & Inferno</a>
+ <a href="../gen/">📓 Gênese</a>
+ </div>
+</div>
+
+<div class="dropdown2">
+ <button class="dropbtn2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">📖
+ <span class="label"> Sumário</span></button>
+ <div id="myDropdown2" class="dropdown-content2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">
+ <input type="text" placeholder="🔎 Pesquise por ..." id="myInput" onkeyup="filterFunction()">
+ <a href="#about">About</a>
+ <a href="#base">Base</a>
+ <a href="#blog">Blog</a>
+ <a href="#contact">Contact</a>
+ <a href="#custom">Custom</a>
+ <a href="#support">Support</a>
+ <a href="#tools">Tools</a>
+ </div>
+</div>
+
+<div class="dropdown3">
+ <button class="dropbtn3">🎚️<span class="label"> Ajustes</span></button>
+ <div class="dropdown-content3">
+ <button onclick="lightMode()">Claro 🌞</button>
+ <button onclick="darkMode()">Escuro 🌚</button>
+ <button onclick="openAll()">Expandir ➕</button>
+ <button onclick="closeAll()">Comprimir ➖</button>
+ <button onclick="closeFullscreen();">Tela Normal 📱</button>
+ <button onclick="openFullscreen();">Tela Cheia 🖥️</button>
+ <button onclick="increaseFontsize()">Letra Maior 🅰️</button>
+ <button onclick="decreaseFontsize()">Letra Menor
+ <span style="font-size: 80%;">🅰️</span>
+ </div>
+</div>
+
+</div>
 
  <!-- 🚨 EXT LINKS -->
  <div id="ext-links">
- <p style="margin-left: 20px;">
- <a target="ext" href="https://pt.m.wikipedia.org/">Wikipédia</a> | 
- <a target="ext" href="https://pt.m.wiktionary.org/">Wikicionário</a> | 
- <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC">Bíblia ARC</a> | 
- <a target="ext" href="../videos/list-of-videos.html">Videos LDS</a>
+ <p style="margin-left: 20px; margin-top: 1em;">
+ <a target="ext" href="https://pt.m.wikipedia.org/">Wikipédia 🠟</a>|
+ <a target="ext" href="https://pt.m.wiktionary.org/">Wikicionário 🠟</a>|
+ <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC">Bíblia ARC 🠟</a>|
+ <a target="ext" href="../videos/list-of-videos.html">Videos LDS 🠟</a>|
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
  </div>
-
+ 
  <!-- 🚨 EXT FRAME -->
  <div id="ext-frame">
- <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo" ></iframe>
+ <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" ></iframe>
  </div>
- 
- <body>
 
-<!-- 🚨 NAVBAR -->
-<div id="main-navbar">
-  <a href="../" id="home-link" title="voltar ao início"><em>💧</em> doutrina.org</a>
-  <button id="fullscreen" onclick="openFullscreen();" title="abrir tela cheia" ><span class="material-symbols-outlined">
-   fullscreen</span></button>
-  <button id="normalscreen" onclick="closeFullscreen();" title="fechar tela cheia" ><span class="material-symbols-outlined">
-   fullscreen_exit</span></button>
-  <a href='#/' id='expAll' class='col' title="abrir/fechar texto" style="font-size: 1.8em; padding: 8px 13px;
-  margin-left: 0em;"><span class="material-symbols-outlined">
-   exposure</span></a>
-  </div>
- 
-<!-- 🚨 GAP CLOSER -->
-<div id="gap-closer">&nbsp;</div>
-
- <!-- 🚨 MAIN -->
- <div id="main">
+<div id="main">
 
  <h1 id='ese'>📗 O EVANGELHO SEGUNDO O ESPIRITISMO</h1>
  <details open><summary class="h2" id='ese-0'>🗂️ 0. Pré-textual</summary> <br />
