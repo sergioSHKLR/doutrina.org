@@ -510,4 +510,12 @@ td {
 	#main {
 		width: 59vw
 	}
+
 }
+
+
+a.article {color: #333 !important; font-weight: 300 !important}
+a.article:hover {color: royalblue !important}
+
+a.word {color: #333 !important; font-weight: 300 !important}
+a.word:hover {color: royalblue !important}
