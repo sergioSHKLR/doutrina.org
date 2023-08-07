@@ -225,7 +225,7 @@ body {
 }
 
 .jesus {
-	color: #dc143c
+	color: #00ffff
 }
 
 p.sub-q {
@@ -238,7 +238,7 @@ blockquote {
 	border-left: 2px solid grey;
 	margin-left: 3em;
 	padding-left: 1em;
-	padding-top: -1em
+	padding-top: -1em;
 }
 
 blockquote.bible::before {
@@ -246,7 +246,7 @@ blockquote.bible::before {
 	left: -1em;
 	margin-left: -2em;
 	position: relative;
-	top: 0
+	top: 0;
 }
 
 blockquote.kardec::before {
@@ -262,7 +262,7 @@ blockquote.spirit::before {
 	left: -1em;
 	margin-left: -2em;
 	position: relative;
-	top: 0
+	top: 0;
 }
 
 body {
@@ -404,7 +404,7 @@ td {
 	}
 
 	.jesus {
-		color: #cd5c5c
+		color: #DC143C
 	}
 
 	html {
@@ -434,7 +434,7 @@ td {
 	}
 
 	.jesus {
-		color: #cd5c5c
+		color: #DC143C
 	}
 
 	#main a:any-link {
