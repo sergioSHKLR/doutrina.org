@@ -364,6 +364,7 @@ blockquote.spirit::before {
 	text-decoration-thickness: 1px;
 	text-underline-offset: .2em;
 	text-decoration-color: #aaa;
+	text-decoration-style: dashed;
 }
 
 #main a:any-link:hover {
@@ -371,6 +372,7 @@ blockquote.spirit::before {
 	text-decoration-thickness: 1px;
 	text-underline-offset: .2em;
 	text-decoration-color: blue;
+	text-decoration-style: solid;
 }
 
 /*---------- 🚨 LISTS ----------*/
