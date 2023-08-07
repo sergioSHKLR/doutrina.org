@@ -186,15 +186,23 @@ body {
 }
 
 #main {
-	background-color: #f5f5f5;
+	background-color: seashell;
 	color: #333;
 	z-index: 0;
 }
 
 #main a:any-link {
-	color: #2220cd;
+	color: #333;
 	text-decoration-thickness: 1px;
-	text-underline-offset: .2em
+	text-underline-offset: .2em;
+	text-decoration-color: #aaa;
+}
+
+#main a:any-link:hover {
+	color: blue;
+	text-decoration-thickness: 1px;
+	text-underline-offset: .2em;
+	text-decoration-color: blue;
 }
 
 * {
@@ -400,7 +408,12 @@ td {
 	}
 
 	#main a:any-link {
-		color: #1e90ff
+		color: #fff
+	}
+
+	#main a:any-link:hover {
+		color: deepskyblue;
+		text-decoration-color: deepskyblue;
 	}
 
 	.jesus {
@@ -418,13 +431,20 @@ td {
 
 .light-mode {
 	#main {
-		background-color: #f5f5f5;
+		background-color: #fff;
 		color: #333
 	}
 
 	#main a:any-link {
-		color: #1e90ff
+		color: #333;
+		text-decoration-color: #aaa;
 	}
+
+	#main a:any-link:hover {
+		color: blue;
+		text-decoration-color: blue;
+	}
+
 }
 
 .dark-mode {
@@ -438,12 +458,18 @@ td {
 	}
 
 	#main a:any-link {
-		color: #1e90ff
+		color: #fff
+	}
+
+	#main a:any-link:hover {
+		color: deepskyblue;
+		text-decoration-color: deepskyblue;
 	}
 
 	hr {
 		border: 1px solid dimgrey;
 	}
+
 }
 
 #ext-frame {
@@ -512,10 +538,3 @@ td {
 	}
 
 }
-
-
-a.article {color: #333 !important; font-weight: 300 !important}
-a.article:hover {color: royalblue !important}
-
-a.word {color: #333 !important; font-weight: 300 !important}
-a.word:hover {color: royalblue !important}
