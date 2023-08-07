@@ -351,12 +351,6 @@ blockquote.spirit::before {
 	color: #00ffff
 }
 
-/*---------- 🚨 EMOJI ----------*/
-em {
-	font-family: 'Noto Color Emoji', sans-serif;
-	font-style: normal
-}
-
 /*---------- 🚨 LINKS ----------*/
 #ext-links a {
 	color: #fff;
