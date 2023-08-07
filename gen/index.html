@@ -34,81 +34,83 @@
 <body>
 
 <div id="navbar">
- <button id="brand">💧<span class="label"> doutrina.org</span></button>
+ <button id="brand"><em>💧</em><span class="label"> doutrina.org</span></button>
 
 <div class="dropdown1">
- <button class="dropbtn1">📚<span class="label"> Livros</span></button>
+ <button class="dropbtn1"><em>📚</em><span class="label"> Livros</span></button>
  <div class="dropdown-content1">
- <a href="../lde/">📘 Espíritos</a>
- <a href="../ldm/">📙 Médiuns</a>
- <a href="../ese/">📗 Evangelho</a>
- <a href="../ceu/">📕 Céu & Inferno</a>
- <a href="./">📓 Gênese</a>
+ <a href="../lde/"><em>📘</em> Espíritos</a>
+ <a href="../ldm/"><em>📙</em>  Médiuns</a>
+ <a href="../ese/"><em>📗</em> Evangelho</a>
+ <a href="../ceu/"><em>📕</em> Céu & Inferno</a>
+ <a href="./"><em>📓</em> Gênese</a>
  </div>
 </div>
 
+<!-- 🚨 D-DOWN 2 -->
 <div class="dropdown2">
- <button class="dropbtn2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">📖
- <span class="label"> Sumário</span></button>
- <div id="myDropdown2" class="dropdown-content2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">
-<input type="text" placeholder="🔎 Pesquise por ..." id="myInput" onkeyup="filterFunction()" style="font-size: 1em;">
- <a href="#gen-0">Parte 0</a>
- <a href="#gen-1">Parte 1</a>
- <a href="#gen-2">Parte 2</a>
- <a href="#gen-3">Parte 3</a>
- <a href="#gen-4">Parte 4</a>
+  <button class="dropbtn2" onMouseOver="toggleShow()" onMouseOut="toggleShow()"><em>📖</em>
+  <span class="label"> Sumário</span></button>
+  <div id="myDropdown2" class="dropdown-content2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">
+  <input type="text" placeholder="🔎 Pesquise por ..." id="myInput" onkeyup="filterFunction()" style="font-size: 1em; padding: 5px; width: 100%; border: 1px solid grey;">
+ <a href="#gen-0"><em>🗂️</em> Parte 0</a>
+ <a href="#gen-1"><em>🗂️</em> Parte 1</a>
+ <a href="#gen-2"><em>🗂️</em> Parte 2</a>
+ <a href="#gen-3"><em>🗂️</em> Parte 3</a>
+ <a href="#gen-4"><em>🗂️</em> Parte 4</a>
  </div>
 </div>
 
+<!-- 🚨 D-DOWN 3 -->
 <div class="dropdown3">
-  <button class="dropbtn3">🎚️<span class="label"> Ajustes</span></button>
+  <button class="dropbtn3"><em>🎚️</em><span class="label"> Ajustes</span></button>
   <div class="dropdown-content3">
-  <button onclick="darkMode()">Escuro 🌚</button>
-  <button onclick="lightMode()">Claro 🌞</button>
+  <button onclick="darkMode()">Escuro <em>🌚</em></button>
+  <button onclick="lightMode()">Claro <em>🌞</em></button>
   <button onclick="closeAll()">Comprimir ➖</button>
   <button onclick="openAll()">Expandir ➕</button>
-  <button onclick="openFullscreen();">Tela Cheia 🖥️</button>
-  <button onclick="closeFullscreen();">Tela Normal 📱</button>
-  <button onclick="increaseFontsize()">Letra Maior 🅰️</button>
+  <button onclick="openFullscreen();">Tela Cheia <em>🖥️</em></button>
+  <button onclick="closeFullscreen();">Tela Normal <em>📱</em></button>
+  <button onclick="increaseFontsize()">Letra Maior <em>🅰️</em></button>
   <button onclick="decreaseFontsize()">Letra Menor
-  <span style="font-size: 80%;">🅰️</span>
+  <span style="font-size: 80%;"><em>🅰️</em></span>
   </div>
  </div>
-
-</div>
-
- <!-- 🚨 EXT LINKS -->
- <div id="ext-links">
- <p style="margin-left: 20px; margin-top: 1em;">
- <a target="ext" href="https://pt.m.wikipedia.org/">Wikipédia ▼</a>|
- <a target="ext" href="https://pt.m.wiktionary.org/">Wikicionário ▼</a>|
- <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC">Bíblia ARC ▼</a>|
- <a target="ext" href="../videos/list-of-videos.html">Videos LDS ▼</a>|
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
  </div>
  
- <!-- 🚨 EXT FRAME -->
- <div id="ext-frame">
- <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" ></iframe>
- </div>
-
-<div id="main">
+  <!-- 🚨 EXT LINKS -->
+  <div id="ext-links">
+  <p style="margin-left: 20px; margin-top: 1em;">
+  <a target="ext" href="https://pt.m.wikipedia.org/">Wikipédia ▼</a>|
+  <a target="ext" href="https://pt.m.wiktionary.org/">Wikicionário ▼</a>|
+  <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC">Bíblia ARC ▼</a>|
+  <a target="ext" href="../videos/list-of-videos.html">Videos LDS ▼</a>|
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+  </div>
+  
+  <!-- 🚨 EXT FRAME -->
+  <div id="ext-frame">
+  <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/A_Gênese" ></iframe>
+  </div>
+ 
+ <!-- 🚨 MAIN -->
+ <div id="main">
 
  <h1 id='gen'>📓 A GÊNESE</h1>
 
  <details open>
- <summary class="h2" id='gen-0'>🗂️ 0. Pré-textual</summary>
+ <summary class="h2" id='gen-0'><em>🗂️</em> 0. Pré-textual</summary>
  <br />
 
  <details open>
- <summary class="h3" id='gen-0-01'>📃 Folha de rosto</summary>
+ <summary class="h3" id='gen-0-01'><em>📃</em> Folha de rosto</summary>
  <br />
  <table>
  <thead><tr><th>&nbsp;</th></tr></thead>
  <tbody>
  <tr><td>**Cabeçalho**</td></tr>
  <tr><td>&nbsp;</td></tr>
- <tr><td><span style="font-size: 1.5em;">📓 A GÊNESE</span></td></tr>
+ <tr><td><span style="font-size: 1.5em;"><em>📓</em> A GÊNESE</span></td></tr>
  <tr><td>&nbsp;</td></tr>
  <tr><td>Os milagres e as predições segundo o Espiritismo</td></tr>
  <tr><td>&nbsp;</td></tr>
@@ -123,7 +125,7 @@
  <tr><td>Tradução de <a href="https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro" target="ext">Guillon Ribeiro</a></td></tr>
  <tr><td>&nbsp;</td></tr>
  <tr><td><small>Baseado no original <a target="ext" href="http://www.febnet.org.br/wp-content/uploads/2012/07/A-genese_Guillon.pdf">ISBN 978-85-7328-732-5</a></small></td></tr>
- <tr><td><small>Modificado para o consumo digital por Sergio de<br />⭕ <a target="_blank" href="https://shklr.org">shklr.org</a></small></td></tr>
+ <tr><td><small>Modificado para o consumo digital por Sergio de<br /><em>⭕</em> <a target="_blank" href="https://shklr.org">shklr.org</a></small></td></tr>
  <tr><td>&nbsp;</td></tr>
  </tbody>
  </table>
@@ -132,7 +134,7 @@
  </details>
  <br />
  <details>
- <summary class="h2" id='gen-1'>🗂️ 1. A Gênese segundo o Espiritismo</summary>
+ <summary class="h2" id='gen-1'><em>🗂️</em> 1. A Gênese segundo o Espiritismo</summary>
 
  <br />
  <h3 id='gen-1-01'>GEN-1-01</h3>
@@ -541,7 +543,7 @@
  </details>
  <br />
  <details>
- <summary class="h2" id='gen-2'>🗂️ 2. Os milagres segundo o Espiritismo</summary>
+ <summary class="h2" id='gen-2'><em>🗂️</em> 2. Os milagres segundo o Espiritismo</summary>
  <br />
  <h3 id='gen-2-13'>GEN-2-13</h3>
  <h5 id='gen-2-13-p1'>GEN-2-13-p1</h5>
@@ -683,7 +685,7 @@
  </details>
  <br />
  <details>
- <summary class="h2" id='gen-3'>🗂️ 3. As predições segundo o Espiritismo</summary>
+ <summary class="h2" id='gen-3'><em>🗂️</em> 3. As predições segundo o Espiritismo</summary>
  <br />
  <h3 id='gen-3-16'>GEN-3-16</h3>
  <h5 id='gen-3-16-p1'>GEN-3-16-p1</h5>
@@ -811,99 +813,99 @@
  </details>
  <br />
  <details>
- <summary class="h2" id='gen-4'>🗂️ 4. Pós-textual</summary> <br />
+ <summary class="h2" id='gen-4'><em>🗂️</em> 4. Pós-textual</summary> <br />
  <details>
  <summary class="h3" id='gen-4-01'>🗃️ Índice geral</summary><br />
  <details>
- <summary class="h4" id='gen-4-01-a'>🗂️ A</summary>
+ <summary class="h4" id='gen-4-01-a'><em>🗂️</em> A</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-b'>🗂️ B</summary>
+ <summary class="h4" id='gen-4-01-b'><em>🗂️</em> B</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-c'>🗂️ C</summary>
+ <summary class="h4" id='gen-4-01-c'><em>🗂️</em> C</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-d'>🗂️ D</summary>
+ <summary class="h4" id='gen-4-01-d'><em>🗂️</em> D</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-e'>🗂️ E</summary>
+ <summary class="h4" id='gen-4-01-e'><em>🗂️</em> E</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-f'>🗂️ F</summary>
+ <summary class="h4" id='gen-4-01-f'><em>🗂️</em> F</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-g'>🗂️ G</summary>
+ <summary class="h4" id='gen-4-01-g'><em>🗂️</em> G</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-h'>🗂️ H</summary>
+ <summary class="h4" id='gen-4-01-h'><em>🗂️</em> H</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-i'>🗂️ I</summary>
+ <summary class="h4" id='gen-4-01-i'><em>🗂️</em> I</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-j'>🗂️ J</summary>
+ <summary class="h4" id='gen-4-01-j'><em>🗂️</em> J</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-k'>🗂️ K</summary>
+ <summary class="h4" id='gen-4-01-k'><em>🗂️</em> K</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-l'>🗂️ L</summary>
+ <summary class="h4" id='gen-4-01-l'><em>🗂️</em> L</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-m'>🗂️ M</summary>
+ <summary class="h4" id='gen-4-01-m'><em>🗂️</em> M</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-n'>🗂️ N</summary>
+ <summary class="h4" id='gen-4-01-n'><em>🗂️</em> N</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-o'>🗂️ O</summary>
+ <summary class="h4" id='gen-4-01-o'><em>🗂️</em> O</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-p'>🗂️ P</summary>
+ <summary class="h4" id='gen-4-01-p'><em>🗂️</em> P</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-q'>🗂️ Q</summary>
+ <summary class="h4" id='gen-4-01-q'><em>🗂️</em> Q</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-r'>🗂️ R</summary>
+ <summary class="h4" id='gen-4-01-r'><em>🗂️</em> R</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-s'>🗂️ S</summary>
+ <summary class="h4" id='gen-4-01-s'><em>🗂️</em> S</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-t'>🗂️ T</summary>
+ <summary class="h4" id='gen-4-01-t'><em>🗂️</em> T</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-u'>🗂️ U</summary>
+ <summary class="h4" id='gen-4-01-u'><em>🗂️</em> U</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-x'>🗂️ X</summary>
+ <summary class="h4" id='gen-4-01-x'><em>🗂️</em> X</summary>
  <p class="h5">🟨 item</p>
  </details><br />
  <details>
- <summary class="h4" id='gen-4-01-z'>🗂️ Z</summary>
+ <summary class="h4" id='gen-4-01-z'><em>🗂️</em> Z</summary>
  <p class="h5">🟨 item</p>
  </details>
  </details>
