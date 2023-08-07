@@ -21,16 +21,14 @@ body {
 
 /*---------- 🚨 FRAMEWORK ----------*/
 #main {
-	height: 94.5vh;
-	left: 0;
+	height: 95.5vh;
+	width: 60vw;
 	overflow: scroll;
 	overflow-x: hidden;
 	padding: 1em;
 	position: absolute;
 	scroll-behavior: smooth;
 	top: 50px;
-	width: 60vw;
-	z-index: 0;
 	background-color: whitesmoke;
 	color: #333;
 	z-index: 0;
@@ -100,8 +98,8 @@ body {
 	border: none;
 	color: #fff;
 	cursor: pointer;
-	font-size: 1em;
-	padding: 16px
+	font-size: 1.2em;
+	padding: 14px
 }
 
 .dropbtn3 {
@@ -109,10 +107,10 @@ body {
 	border: none;
 	color: #fff;
 	cursor: pointer;
-	font-size: 1em;
-	padding: 16px;
+	font-size: 1.2em;
+	padding: 14px;
 	position: relative;
-	right: 39vw
+	right: 37.5vw
 }
 
 /*---------- 🚨 D-DOWN CONTENT ----------*/
@@ -176,7 +174,7 @@ body {
 	font-family: sans-serif;
 	min-width: 160px;
 	position: absolute;
-	right: 39vw;
+	right: 37.5vw;
 	z-index: 1
 }
 
@@ -427,33 +425,55 @@ hr {
 }
 
 /*---------- 🚨 MEDIA QUERIES ----------*/
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 900px) {
+
+	.dropbtn3 {
+		right: 0px
+	}
 
 	.dropbtn3,
 	.dropdown-content3 {
-		right: 20px
+		right: 0px
 	}
 
 	.label {
 		display: none
 	}
 
-  #ext-frame {
+	#ext-frame {
 		display: none
 	}
 
-  #ext-links {
+	#ext-links {
 		display: none
 	}
 
 	#main {
-		width: 97vw
+		width: 98vw;
+		right: 20px;
 	}
 }
 
 @media screen and (min-width: 1097px) {
 	#main {
-		width: 59vw
+		width: 59vw;
+		right: 41vw
+	}
+
+}
+
+@media screen and (min-width: 2194px) {
+	#main {
+		width: 60vw;
+		right: 40vw
+	}
+
+	.dropbtn3 {
+		right: 38.5vw
+	}
+
+	.dropdown-content3 {
+		right: 38.5vw
 	}
 
 }
