@@ -139,6 +139,12 @@ body {
 	background-color: #ddd
 }
 
+.dropdown-content1 a:hover,
+.dropdown-content2 a:hover,
+.dropdown-content3 a:hover {
+	background-color: #ddd
+}
+
 .dropdown-content1 button,
 .dropdown-content2 button {
 	border: none;
