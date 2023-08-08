@@ -1,4 +1,4 @@
-/* 🛎️ VERSION 2.1 */
+/* 🛎️ VERSION 2.2 */
 
 * {
 	box-sizing: border-box
@@ -25,7 +25,8 @@ body {
 	width: 60vw;
 	overflow: scroll;
 	overflow-x: hidden;
-	padding: 1em;
+	padding-right: 2vw;
+	padding-left: 2vw;
 	position: absolute;
 	scroll-behavior: smooth;
 	top: 50px;
@@ -110,7 +111,7 @@ body {
 	font-size: 1.2em;
 	padding: 14px;
 	position: relative;
-	right: 37.5vw
+	right: 38vw
 }
 
 /*---------- 🚨 D-DOWN CONTENT ----------*/
@@ -344,11 +345,13 @@ blockquote.kardec::before {
 	left: -1em;
 	margin-left: -2em;
 	position: relative;
-	top: 0
+	top: 0;
+
 }
 
 blockquote.kardec {
 	border-left: 3px solid #ccc;
+	color: dimgrey;
 	}
 
 blockquote.spirit::before {
@@ -361,6 +364,7 @@ blockquote.spirit::before {
 
 blockquote.spirit {
 border-left: 3px solid dodgerblue;
+color: #000;
 }
 
 /*---------- 🚨 SPEAKERS ----------*/
