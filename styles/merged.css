@@ -35,7 +35,7 @@ body {
 }
 
 #ext-links {
-	background-color: #222;
+	background-color: lightslategrey;
 	border-left: 1px solid #fff;
 	color: #fff;
 	height: 50px !important;
@@ -72,7 +72,7 @@ body {
 
 /*---------- 🚨 NAVBAR ----------*/
 #navbar {
-	background-color: #222;
+	background-color: lightslategrey;
 	color: #fff;
 	padding-right: 40px;
 	z-index: 1;
@@ -83,9 +83,9 @@ body {
 }
 
 #brand {
-	background-color: #000;
+	background-color: #333;
 	border: none;
-	color: #d3d3d3;
+	color: #fff;
 	font-size: 1.1em;
 	font-weight: 700;
 	padding: .8em
@@ -94,7 +94,7 @@ body {
 /*---------- 🚨 D-DOWN BUTTON ----------*/
 .dropbtn1,
 .dropbtn2 {
-	background-color: #222;
+	background-color: lightslategrey;
 	border: none;
 	color: #fff;
 	cursor: pointer;
@@ -103,7 +103,7 @@ body {
 }
 
 .dropbtn3 {
-	background-color: #222;
+	background-color: lightslategrey;
 	border: none;
 	color: #fff;
 	cursor: pointer;
@@ -581,6 +581,7 @@ a#backTop {
 	cursor: pointer;
 	background-color: transparent;
 	opacity: .5;
+	text-decoration: none;
 }
 
 a#backTop:hover {
