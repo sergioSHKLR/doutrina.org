@@ -422,7 +422,7 @@ hr {
 }
 
 /*---------- 🚨 MEDIA QUERIES ----------*/
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 850px) {
 
 	.dropbtn3 {
 		right: 0px
@@ -448,6 +448,10 @@ hr {
 	#main {
 		width: 98vw;
 		right: 20px;
+	}
+
+	a#backTop {
+		right: 30px !important;
 	}
 }
 
@@ -550,20 +554,19 @@ hr {
 }
 
 /*---------- 🚨 BACK TO TOP ----------*/
-#backTop a {
-  display: block;
-  position: fixed;
-  bottom: 20px;
-  right: 41vw;
-  z-index: 99;
-  font-size: 2em;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  background-color: transparent;
+a#backTop {
+	position: fixed;
+	bottom: 20px;
+	right: 42vw;
+	z-index: 99;
+	font-size: 2em;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background-color: transparent;
 	opacity: .5;
 }
 
-#backTop a:hover {
+a#backTop:hover {
 	opacity: 1;
 }
