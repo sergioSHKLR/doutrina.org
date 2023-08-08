@@ -548,3 +548,22 @@ hr {
 		border: 1px solid dimgrey;
 	}
 }
+
+/*---------- 🚨 BACK TO TOP ----------*/
+#backTop a {
+  display: block;
+  position: fixed;
+  bottom: 20px;
+  right: 41vw;
+  z-index: 99;
+  font-size: 2em;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+	opacity: .5;
+}
+
+#backTop a:hover {
+	opacity: 1;
+}
