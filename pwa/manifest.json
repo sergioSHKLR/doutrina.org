@@ -30,10 +30,8 @@
       "purpose": "any"
     }
   ],
-  "theme_color": "#616161",
-  "background_color": "#616161",
   "start_url": "/",
   "scope": "/",
-  "display": "fullscreen",
+  "display": "fullscreen"
   }
   
