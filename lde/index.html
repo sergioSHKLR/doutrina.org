@@ -38,8 +38,8 @@
 
 <!-- 🚨 D-DOWN 1 -->
 <div class="dropdown1">
- <button class="dropbtn1">📚<span class="label"> Livros</span></button>
- <div class="dropdown-content1">
+ <button onclick="toggleShow1()" class="dropbtn1" >📚<span class="label"> Livros</span></button>
+ <div id="myDropdown1" class="dropdown-content1">
  <a href="./">📘 Espíritos</a>
  <a href="../ldm/">📙 Médiuns</a>
  <a href="../ese/">📗 Evangelho</a>
@@ -50,9 +50,9 @@
 
 <!-- 🚨 D-DOWN 2 -->
 <div class="dropdown2">
- <button class="dropbtn2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">📖
+ <button class="dropbtn2">📖
  <span class="label"> Sumário</span></button>
- <div id="myDropdown2" class="dropdown-content2" onMouseOver="toggleShow()" onMouseOut="toggleShow()">
+ <div id="myDropdown2" class="dropdown-content2" >
  <input type="text" placeholder="🔎 Pesquise por ..." id="myInput" onkeyup="filterFunction()" style="font-size: 1em; padding: 5px; width: 100%; border: 1px solid grey;">
  <a href="#lde-0">🗂️ Parte 0. Pré-textual</a>
  <a href="#lde-0-01">📃 Folha de rosto</a>
@@ -1291,21 +1291,21 @@
  <a href="#lde.5-01">📃 Conclusão 01</a>
  <a href="#lde.5-02">📃 Conclusão 02</a>
  <a href="#lde.5-03">📃 Conclusão 03</a>
- <a href="#lde.5-04">📃 Conclusão 04 26</a>
+ <a href="#lde.5-04">📃 Conclusão 04</a>
  <a href="#lde.5-05">📃 Conclusão 05</a>
  <a href="#lde.5-06">📃 Conclusão 06</a>
  <a href="#lde.5-07">📃 Conclusão 07</a>
  <a href="#lde.5-08">📃 Conclusão 08</a>
  <a href="#lde.5-09">📃 Conclusão 09</a>
  <a href="#lde.6">🗂️ Parte 6. Pós-textual</a>
- <a href="#lde.6-01">📃 1. Nota explicativa 27</a>
+ <a href="#lde.6-01">📃 1. Nota explicativa</a>
  </div>
 </div>
 
 <!-- 🚨 D-DOWN 3 -->
 <div class="dropdown3">
  <button class="dropbtn3">🎚️<span class="label"> Ajustes</span></button>
- <div class="dropdown-content3">
+ <div  id="myDropdown3" class="dropdown-content3">
  <button onclick="darkMode()">Escuro 🌚</button>
  <button onclick="lightMode()">Claro 🌞</button>
  <button onclick="closeAll()">Comprimir ➖</button>
@@ -6576,7 +6576,7 @@
 <script src="../js/increaseFont.js"></script>
 <script src="../js/decreaseFont.js"></script>
 <script src="../js/tocFilter.js"></script>
-<script src="../js/toggleShow.js"></script>
+<script src="../js/toggleShow1.js"></script>
 
 </body>
 </html>
