@@ -21,7 +21,7 @@ body {
 
 /*---------- 🚨 FRAMEWORK ----------*/
 #main {
-	height: 95.5vh;
+	height: 95.3vh;
 	width: 60vw;
 	overflow: scroll;
 	overflow-x: hidden;
@@ -62,7 +62,7 @@ body {
 
 #ext-frame {
 	border-left: 1px solid white;
-	height: 94.5vh;
+	height: 95.3vh;
 	overflow: scroll;
 	position: absolute;
 	right: 20px;
@@ -475,6 +475,14 @@ hr {
 	#main {
 		width: 59vw;
 		right: 41vw
+	}
+
+}
+
+@media screen and (min-width: 1920px) {
+	#main {
+		width: 60vw;
+		right: 40vw
 	}
 
 }
