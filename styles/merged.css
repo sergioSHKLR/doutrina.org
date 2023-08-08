@@ -311,7 +311,7 @@ td {
 
 /*---------- 🚨 BLOCKQUOTES ----------*/
 blockquote {
-	border-left: 2px solid grey;
+	border-left: 3px solid grey;
 	margin-left: 3em;
 	padding-left: 1em;
 	padding-top: -1em;
@@ -325,6 +325,10 @@ blockquote.bible::before {
 	top: 0;
 }
 
+blockquote.bible {
+	border-left: 3px solid #9d6636;
+	}
+
 blockquote.kardec::before {
 	content: "👴🏻 ";
 	left: -1em;
@@ -333,12 +337,20 @@ blockquote.kardec::before {
 	top: 0
 }
 
+blockquote.kardec {
+	border-left: 3px solid #ccc;
+	}
+
 blockquote.spirit::before {
 	content: "👻 ";
 	left: -1em;
 	margin-left: -2em;
 	position: relative;
 	top: 0;
+}
+
+blockquote.spirit {
+border-left: 3px solid dodgerblue;
 }
 
 /*---------- 🚨 SPEAKERS ----------*/
@@ -506,7 +518,7 @@ hr {
 	}
 
 	.jesus {
-		color: #DC143C
+		color: indianred
 	}
 
 	#main a:any-link {
