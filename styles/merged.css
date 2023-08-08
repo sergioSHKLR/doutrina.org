@@ -272,12 +272,14 @@ details>details>details>p {
 
 summary.question::before {
 	content: "＋ #️⃣ ";
-	margin-left: 1em
+	margin-left: 1em;
+	color: grey
 }
 
 summary::before {
 	content: "＋ ";
-	font-size: 1em
+	font-size: 1em;
+	color: grey
 }
 
 details>summary {
@@ -286,12 +288,14 @@ details>summary {
 }
 
 details[open]>summary.question::before {
-	content: "－ #️⃣ "
+	content: "－ #️⃣ ";
+	color: grey
 }
 
 details[open]>summary:before {
 	content: "－ ";
-	font-size: 1em
+	font-size: 1em;
+	color: grey
 }
 
 /*---------- 🚨 TABLES ----------*/
