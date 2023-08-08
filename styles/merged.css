@@ -586,10 +586,10 @@ hr {
 /*---------- 🚨 BACK TO TOP ----------*/
 a#backTop {
 	position: fixed;
-	bottom: 20px;
-	right: 41vw;
+	bottom: 10px;
+	right: 41.5vw;
 	z-index: 99;
-	font-size: 2em;
+	font-size: 1.5em;
 	border: none;
 	outline: none;
 	cursor: pointer;
@@ -600,4 +600,5 @@ a#backTop {
 
 a#backTop:hover {
 	opacity: 1;
+	font-size: 2em;
 }
