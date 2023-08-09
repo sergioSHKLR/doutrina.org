@@ -10,6 +10,7 @@ body {
 	padding: 0;
 	scroll-behavior: smooth;
 	z-index: 0;
+	line-height: 1.4;
 }
 
 body {
@@ -25,7 +26,7 @@ body {
 	width: 60vw;
 	overflow: scroll;
 	overflow-x: hidden;
-	padding-right: 40px;
+	padding-right: 15px;
 	padding-left: 20px;
 	position: absolute;
 	scroll-behavior: smooth;
@@ -274,9 +275,8 @@ summary {
 summary.h4,
 details>details>details,
 details>details>details>p {
-	margin-left: .5em;
-	margin-right: .2em;
-	line-height: 1.4;
+	margin-left: .25em;
+	margin-right: .1em;
 }
 
 summary.question::before {
