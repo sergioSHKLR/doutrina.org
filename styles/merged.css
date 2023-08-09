@@ -281,13 +281,13 @@ details>summary.h4 {
 	margin-left: -1.7em !important
 }
 
-details>details>details>p{width: 85vw; margin-left: -1.25em;}
+details>details>details>p{width: 105%; margin-left: -1.25em; padding-right: -2em !important}
 
 details>details>details>details,
 details>details>details>details>p {
 	margin-left: -2.7em;
 	margin-right: .1em;
-	width: 95vw;
+	width: 100%;
 }
 
 summary.question::before {
