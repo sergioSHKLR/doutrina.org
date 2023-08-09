@@ -474,6 +474,7 @@ hr {
 	#main {
 		width: 98vw;
 		right: 20px;
+  margin-left: 20px;
 	}
 
 	a#backTop {
