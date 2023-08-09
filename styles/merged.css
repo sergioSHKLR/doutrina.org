@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	scroll-behavior: smooth;
 	z-index: 0;
-	line-height: 1.4;
+	line-height: 1.5;
 }
 
 body {
@@ -280,6 +280,8 @@ details {
 details>summary.h4 {
 	margin-left: -1.7em !important
 }
+
+details>details>details>p{width: 85vw; margin-left: -1.25em;}
 
 details>details>details>details,
 details>details>details>details>p {
