@@ -22,7 +22,7 @@ body {
 
 /*---------- 🚨 FRAMEWORK ----------*/
 #main {
-	height: 95.3vh;
+	height: 94.5vh;
 	width: 60vw;
 	overflow: scroll;
 	overflow-x: hidden;
@@ -64,7 +64,7 @@ body {
 
 #ext-frame {
 	border-left: 1px solid white;
-	height: 95.3vh;
+	height: 94.5vh;
 	overflow: scroll;
 	position: absolute;
 	right: 20px;
@@ -245,19 +245,19 @@ h1 {
 .h2 {
 	border-bottom: 1px solid #dcdcdc;
 	font-size: 1.5em;
-	margin-left: 0
+	margin-left: -.4em
 }
 
 .h3 {
 	border-bottom: 1px solid #dcdcdc;
 	font-size: 1.17em;
-	margin-left: .5em
+	margin-left: -.9em
 }
 
 .h4 {
 	border-bottom: 1px solid #dcdcdc;
 	font-size: 1em;
-	margin-left: 1em !important
+	margin-left: -1.2em !important
 }
 
 .h5 {
@@ -269,14 +269,23 @@ h1 {
 summary {
 	cursor: pointer;
 	list-style-type: none;
-	margin-left: 0
+	margin-left: 0px;
 }
 
-summary.h4,
-details>details>details,
-details>details>details>p {
-	margin-left: .25em;
+details {
+	padding: 0;
+	margin: 0;
+}
+
+details>summary.h4 {
+	margin-left: -1.7em !important
+}
+
+details>details>details>details,
+details>details>details>details>p {
+	margin-left: -2.7em;
 	margin-right: .1em;
+	width: 95vw;
 }
 
 summary.question::before {
@@ -294,6 +303,11 @@ summary::before {
 details>summary {
 	cursor: pointer;
 	list-style-type: none
+}
+
+details {
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 details[open]>summary.question::before {
@@ -340,7 +354,7 @@ blockquote.bible::before {
 
 blockquote.bible {
 	border-left: 3px solid #9d6636;
-	}
+}
 
 blockquote.kardec::before {
 	content: "👴🏻 ";
@@ -354,7 +368,7 @@ blockquote.kardec::before {
 blockquote.kardec {
 	border-left: 3px solid #ccc;
 	color: dimgrey;
-	}
+}
 
 blockquote.spirit::before {
 	content: "👻 ";
@@ -365,8 +379,8 @@ blockquote.spirit::before {
 }
 
 blockquote.spirit {
-border-left: 3px solid dodgerblue;
-color: #000;
+	border-left: 3px solid dodgerblue;
+	color: #000;
 }
 
 /*---------- 🚨 SPEAKERS ----------*/
@@ -588,7 +602,9 @@ hr {
 		border: 1px solid dimgrey;
 	}
 
-	blockquote.spirit {color: lightblue}
+	blockquote.spirit {
+		color: lightblue
+	}
 }
 
 /*---------- 🚨 BACK TO TOP ----------*/
