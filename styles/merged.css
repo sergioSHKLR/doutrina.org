@@ -39,7 +39,7 @@ body {
 	background-color: lightslategrey;
 	border-left: 1px solid #fff;
 	color: #fff;
-	height: 50px !important;
+	height: 49px !important;
 	margin-right: 20px;
 	overflow-x: auto;
 	overflow-y: hidden;
@@ -67,7 +67,7 @@ body {
 	overflow: scroll;
 	position: absolute;
 	right: 20px;
-	top: 50px;
+	top: 49px;
 	width: 39vw
 }
 
@@ -100,7 +100,7 @@ body {
 	color: #fff;
 	cursor: pointer;
 	font-size: 1.2em;
-	padding: 14px
+	padding: 13px
 }
 
 .dropbtn3 {
@@ -109,7 +109,7 @@ body {
 	color: #fff;
 	cursor: pointer;
 	font-size: 1.2em;
-	padding: 14px;
+	padding: 13px;
 	position: relative;
 	right: 38vw
 }
