@@ -274,7 +274,9 @@ summary {
 summary.h4,
 details>details>details,
 details>details>details>p {
-	margin-left: 0
+	margin-left: .5em;
+	margin-right: .2em;
+	line-height: 1.4;
 }
 
 summary.question::before {
