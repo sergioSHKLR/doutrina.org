@@ -25,8 +25,8 @@ body {
 	width: 60vw;
 	overflow: scroll;
 	overflow-x: hidden;
-	padding-right: 2vw;
-	padding-left: 2vw;
+	padding-right: 40px;
+	padding-left: 20px;
 	position: absolute;
 	scroll-behavior: smooth;
 	top: 50px;
@@ -474,7 +474,6 @@ hr {
 	#main {
 		width: 98vw;
 		right: 20px;
-  margin-left: 20px;
 	}
 
 	a#backTop {
@@ -586,6 +585,8 @@ hr {
 	hr {
 		border: 1px solid dimgrey;
 	}
+
+	blockquote.spirit {color: lightblue}
 }
 
 /*---------- 🚨 BACK TO TOP ----------*/
