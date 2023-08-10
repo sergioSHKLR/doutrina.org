@@ -1,0 +1,397 @@
+/* 🛎️ VERSION 2.2 */
+
+* {
+	box-sizing: border-box
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+	z-index: 0;
+	line-height: 1.5;
+}
+
+body {
+	font-family: "Trebuchet MS", sans-serif;
+	font-weight: 400;
+	line-height: 1.3;
+	scroll-behavior: smooth
+}
+
+/*---------- 🚨 FRAMEWORK ----------*/
+#main {
+	height: 94.5vh;
+	width: 60vw;
+	overflow: scroll;
+	overflow-x: hidden;
+	padding-right: 15px;
+	padding-left: 20px;
+	position: absolute;
+	scroll-behavior: smooth;
+	top: 50px;
+	background-color: whitesmoke;
+	color: #333;
+	z-index: 0;
+}
+
+#ext-links {
+	background-color: lightslategrey;
+	border-left: 1px solid #fff;
+	color: #fff;
+	height: 49px !important;
+	margin-right: 20px;
+	overflow-x: auto;
+	overflow-y: hidden;
+	position: absolute;
+	right: 0;
+	top: 0;
+	white-space: nowrap;
+	width: 39vw;
+	z-index: 2
+}
+
+#ext-iframe {
+	border-left: 1px solid grey;
+	height: 100%;
+	overflow-x: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+#ext-frame {
+	border-left: 1px solid white;
+	height: 94.5vh;
+	overflow: scroll;
+	position: absolute;
+	right: 20px;
+	top: 49px;
+	width: 39vw
+}
+
+/*---------- 🚨 NAVBAR ----------*/
+#navbar {
+	background-color: lightslategrey;
+	color: #fff;
+	padding-right: 40px;
+	z-index: 1;
+}
+
+.label {
+	display: show
+}
+
+#brand {
+	background-color: #333;
+	border: none;
+	color: #fff;
+	font-size: 1.1em;
+	font-weight: 700;
+	padding: .8em
+}
+
+/*---------- 🚨 D-DOWN BUTTON ----------*/
+.dropbtn1,
+.dropbtn2 {
+	background-color: lightslategrey;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	font-size: 1.2em;
+	padding: 13px
+}
+
+.dropbtn3 {
+	background-color: lightslategrey;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	font-size: 1.2em;
+	padding: 13px;
+	position: relative;
+	right: 38vw
+}
+
+/*---------- 🚨 D-DOWN CONTENT ----------*/
+.dropdown-content1 {
+	background-color: #f1f1f1;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	display: none;
+	font-family: sans-serif;
+	min-width: 180px;
+	position: absolute;
+	z-index: 1
+}
+
+.dropdown-content1 a,
+.dropdown-content2 a,
+.dropdown-content3 a {
+	color: #222;
+	display: block;
+	padding: 12px 16px;
+	text-decoration: none
+}
+
+.dropdown-content1 button:hover,
+.dropdown-content2 button:hover,
+.dropdown-content3 button:hover {
+	background-color: #ddd
+}
+
+.dropdown-content1 a:hover,
+.dropdown-content2 a:hover,
+.dropdown-content3 a:hover {
+	background-color: #ddd
+}
+
+.dropdown-content1 button,
+.dropdown-content2 button {
+	border: none;
+	color: #222;
+	cursor: pointer;
+	display: block;
+	font-size: 1em;
+	padding: 12px 16px;
+	text-align: left;
+	text-decoration: none;
+	width: 100%
+}
+
+.dropdown-content2 {
+	background-color: #f1f1f1;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	display: none;
+	font-family: sans-serif;
+	min-width: 300px;
+	overflow: auto;
+	position: absolute;
+	z-index: 1;
+	max-height: 80vh;
+}
+
+.dropdown-content3 {
+	background-color: #f1f1f1;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	display: none;
+	font-family: sans-serif;
+	min-width: 160px;
+	position: absolute;
+	right: 37.5vw;
+	z-index: 1
+}
+
+.dropdown-content3 button {
+	border: none;
+	color: #222;
+	cursor: pointer;
+	display: block;
+	font-size: 1em;
+	padding: 12px 16px;
+	text-align: right;
+	text-decoration: none;
+	width: 100%
+}
+
+/*---------- 🚨 D-DOWN FX ----------*/
+.dropdown1,
+.dropdown2 {
+	display: inline-block;
+	position: relative
+}
+
+.dropdown1:hover .dropbtn1,
+.dropdown2:hover .dropbtn2,
+.dropdown3:hover .dropbtn3 {
+	background-color: gainsboro;
+	color: black;
+}
+
+.dropdown1:hover .dropdown-content1,
+.dropdown2:hover .dropdown-content2,
+.dropdown3:hover .dropdown-content3,
+.show {
+	display: block
+}
+
+.dropdown3 {
+	float: right;
+	position: relative
+}
+
+/*---------- 🚨 D-DOWN INPUT ----------*/
+#myinput {
+	background-position: 14px 12px;
+	background-repeat: no-repeat;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	box-sizing: border-box;
+	font-size: 1em;
+	padding: 14px 20px 12px;
+}
+
+#myinput:focus {
+	outline: 3px solid #ddd
+}
+
+/*---------- 🚨 TABLES ----------*/
+table {
+	border: 1px solid #dcdcdc;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin: auto;
+	width: 90%
+}
+
+th,
+td {
+	padding-left: 2em;
+	padding-right: 2em;
+	text-align: center
+}
+
+/*---------- 🚨 SPEAKERS ----------*/
+.jesus {
+	color: darkred
+}
+
+/*---------- 🚨 LINKS ----------*/
+#ext-links a {
+	color: #fff;
+	font-size: 1em;
+	padding: 16px;
+	text-decoration: none
+}
+
+#main a:any-link {
+	color: #333;
+	text-decoration-thickness: 1px;
+	text-underline-offset: .2em;
+	text-decoration-color: #aaa;
+	text-decoration-style: dashed;
+}
+
+#main a:any-link:hover {
+	color: blue;
+	text-decoration-thickness: 1px;
+	text-underline-offset: .2em;
+	text-decoration-color: blue;
+	text-decoration-style: solid;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 75%
+}
+
+/*---------- 🚨 MEDIA QUERIES ----------*/
+@media screen and (max-width: 850px) {
+
+	.dropbtn3 {
+		right: 0px
+	}
+
+	.dropbtn3,
+	.dropdown-content3 {
+		right: 0px
+	}
+
+	.label {
+		display: none
+	}
+
+	#ext-frame {
+		display: none
+	}
+
+	#ext-links {
+		display: none
+	}
+
+	#main {
+		width: 98vw;
+		right: 20px;
+	}
+
+	a#backTop {
+		right: 30px !important;
+	}
+}
+
+@media screen and (min-width: 1097px) {
+	#main {
+		width: 59vw;
+		right: 41vw
+	}
+
+}
+
+@media screen and (min-width: 1920px) {
+	#main {
+		width: 60vw;
+		right: 40vw
+	}
+
+}
+
+@media screen and (min-width: 2194px) {
+	#main {
+		width: 60vw;
+		right: 40vw
+	}
+
+	.dropbtn3 {
+		right: 38.5vw
+	}
+
+	.dropdown-content3 {
+		right: 38.5vw
+	}
+
+}
+
+/*---------- 🚨 LIGHT MODE MANUAL ----------*/
+.light-mode {
+	#main {
+		background-color: #fff;
+		color: #333
+	}
+}
+
+/*---------- 🚨 DARK MODE MANUAL ----------*/
+.dark-mode {
+	#main {
+		background-color: #444;
+		color: #fff
+	}
+}
+
+/*---------- 🚨 DARK MODE PREFERRED ----------*/
+@media (prefers-color-scheme: dark) {
+	#main {
+		background-color: #444;
+		color: #fff
+	}
+}
+
+/*---------- 🚨 BACK TO TOP ----------*/
+a#backTop {
+	position: fixed;
+	bottom: 10px;
+	right: 41.5vw;
+	z-index: 99;
+	font-size: 1.5em;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background-color: transparent;
+	opacity: .5;
+	text-decoration: none;
+}
+
+a#backTop:hover {
+	opacity: 1;
+	font-size: 2em;
+}
