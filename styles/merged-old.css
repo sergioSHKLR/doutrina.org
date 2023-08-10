@@ -31,14 +31,15 @@ body {
 	background-color: whitesmoke;
 	color: #333;
 	z-index: 0;
-	padding: 1rem;
+	padding: 0;
 	margin: 0;
 }
 
 #ext-links {
 	background-color: lightslategrey;
+	border-left: 1px solid #fff;
 	color: #fff;
-	height: 2.4rem;
+	height: 2.5rem;
 	overflow-x: auto;
 	overflow-y: hidden;
 	position: absolute;
@@ -47,18 +48,15 @@ body {
 	white-space: nowrap;
 	width: 40vw;
 	z-index: 2;
-	font-size: .8rem;
-	margin: -5px;
-	padding-bottom: 5px;
-	padding-left: 20px;
 }
 
 #ext-frame {
+	border-left: 1px solid white;
 	height: 94.5vh;
 	overflow: scroll;
 	position: absolute;
 	right: 20px;
-	top: 2rem;
+	top: 2.5rem;
 	width: calc(40vw - 20px);
 }
 
@@ -102,13 +100,12 @@ body {
 	color: #fff;
 	cursor: pointer;
 	margin: 0;
-	padding: 10px 5px;
-	width: 6rem;
+	padding: 8px 15px;
 }
 
 .dropbtn3 {
 	float: right;
-	width: 6rem;
+	width: 3rem;
 }
 
 /*---------- 🚨 D-DOWN CONTENT ----------*/
@@ -118,23 +115,20 @@ body {
 	background-color: #f1f1f1;
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 	display: none;
-	min-width: 120px;
+	min-width: 180px;
 	position: absolute;
 	z-index: 1;
 	top: 2rem;
-	padding: .5rem;
-	font-size: .8rem;
-	line-height: 1.5;
 }
 
 .dropdown-content2 {
 	overflow: auto;
 	max-height: 80vh;
-	min-width: 200px;
+	min-width: 300px;
 }
 
 .dropdown-content3 {
-	min-width: 120px;
+	min-width: 160px;
 	right: 0px;
 }
 
@@ -143,9 +137,7 @@ body {
 .dropdown-content3 a {
 	color: #222;
 	display: block;
-	text-decoration: none;
-	font-size: .8rem;
-	line-height: 1.5;
+	text-decoration: none
 }
 
 .dropdown-content1 button:hover,
@@ -166,9 +158,7 @@ body {
 	display: block;
 	text-align: left;
 	text-decoration: none;
-	width: 100%;
-	font-size: .8rem;
-	line-height: 1.5;
+	width: 100%
 }
 
 .dropdown-content3 button {
@@ -203,15 +193,118 @@ body {
 
 /*---------- 🚨 D-DOWN INPUT ----------*/
 #myinput {
-	font-size: .8rem;
-	padding: 5px;
-	border: 1px solid gainsboro;
-	width: 100%;
+	background-position: 14px 12px;
+	background-repeat: no-repeat;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	box-sizing: border-box;
+	padding: 14px 20px 12px;
 }
 
 #myinput:focus {
-	outline: 2px solid #ddd
+	outline: 3px solid #ddd
 }
+
+/*---------- 🚨 HEADINGS ----------*/
+h1 {
+	padding: 1rem 1.75rem;
+	margin: 0;
+	font-size: 1.1rem;
+}
+
+.h2 {
+	padding: .25rem 0;
+	margin: 0 -.1rem;
+}
+
+.h3 {
+	padding: .25rem 0;
+	margin: 0 -.7rem;
+	padding-bottom: .25rem;
+}
+
+.h4 {
+	padding: 0.25rem .35rem;
+	margin: 0;
+}
+
+summary.h4 {
+	padding: 0.25rem -1.5rem !important;
+	margin: 0 -1.5rem !important;
+}
+
+.h5 {
+	padding: 0;
+	margin: 0;
+}
+
+/*---------- 🚨 COLLAPSIBLES ----------*/
+summary {
+	cursor: pointer;
+	list-style-type: none;
+}
+
+details {
+	padding: 0;
+	margin: 0;
+}
+
+details>summary.h4 {
+	margin-left: -1.7em !important
+}
+
+details>details>details>details,
+details>details>details>details>p {
+	margin-left: -2.35em;
+	margin-right: .1em;
+	padding: .25rem 0;
+	width: 100%;
+}
+
+details>details>details>details>summary {
+	width: 112%;
+}
+
+details>details>details>p {
+	margin: 0.5rem -1rem !important;
+}
+
+summary.question::before {
+	content: "＋ #️⃣ ";
+	margin-left: 1em;
+	color: grey
+}
+
+summary::before {
+	content: "＋ ";
+	color: grey
+}
+
+details>summary {
+	cursor: pointer;
+	list-style-type: none
+}
+
+details {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+details[open]>summary.question::before {
+	content: "－ #️⃣ ";
+	color: grey
+}
+
+details[open]>summary:before {
+	content: "－ ";
+	color: grey
+}
+
+summary:focus {
+	background-color: #eee;
+}
+
+summary.question {padding-left: 5rem; margin-left: -1rem; text-indent: -4rem;}
 
 /*---------- 🚨 TABLES ----------*/
 table {
@@ -230,6 +323,10 @@ td {
 
 /*---------- 🚨 BLOCKQUOTES ----------*/
 
+blockquote {
+	padding: 0.25rem 0;
+	margin: 0;
+}
 
 blockquote.bible::before {
 	content: "📜 ";
@@ -237,6 +334,9 @@ blockquote.bible::before {
 
 blockquote.bible {
 	border-left: 3px solid sienna;
+	padding: 0 10px;
+	margin: 10px -5px;
+	width: 105%;
 }
 
 blockquote.kardec::before {
@@ -246,6 +346,9 @@ blockquote.kardec::before {
 blockquote.kardec {
 	border-left: 3px solid #ccc;
 	color: dimgrey;
+	padding-left: .6rem;
+	margin-left: 1.5rem;
+	width: 105%;
 }
 
 blockquote.spirit::before {
@@ -255,16 +358,15 @@ blockquote.spirit::before {
 blockquote.spirit {
 	border-left: 3px solid dodgerblue;
 	color: #222;
+	padding-left: .6rem;
+	margin-left: 1.5rem;
+	width: 105%;
 }
 
 .question {
 	color: #333;
-}
 
-.answer {
-	padding-top: 0 !important;
-	margin-bottom: 0;
-}
+.answer {padding-top: 0 !important; margin-bottom: 0;}
 
 /*---------- 🚨 SPEAKERS ----------*/
 .jesus {
@@ -318,6 +420,16 @@ ol>ol>li {
 }
 
 /*---------- 🚨 ELEMENTS ----------*/
+p {
+	margin-left: 0;
+	margin-right: 1.5em
+}
+
+p.sub-q {
+	display: list-item;
+	list-style-type: none;
+	margin-left: 2.5em;
+}
 
 img {
 	display: block;
@@ -350,7 +462,7 @@ a#backTop:hover {
 	font-size: 2rem;
 }
 
-/*---------- 🚨 MEDIA QUERIES ----------*/
+/*---------- 🚨 MEDIA QUERIES ----------
 @media screen and (max-width: 850px) {
 
 	.dropbtn3 {
@@ -416,7 +528,7 @@ a#backTop:hover {
 
 }
 
-/*---------- 🚨 LIGHT MODE MANUAL ----------*/
+/*---------- 🚨 LIGHT MODE MANUAL ----------
 .light-mode {
 	#main {
 		background-color: #fff;
@@ -435,7 +547,7 @@ a#backTop:hover {
 
 }
 
-/*---------- 🚨 DARK MODE MANUAL ----------*/
+/*---------- 🚨 DARK MODE MANUAL ----------
 .dark-mode {
 	#main {
 		background-color: #444;
@@ -461,7 +573,7 @@ a#backTop:hover {
 
 }
 
-/*---------- 🚨 DARK MODE PREFERRED ----------*/
+/*---------- 🚨 DARK MODE PREFERRED ----------
 @media (prefers-color-scheme: dark) {
 	#main {
 		background-color: #444;
@@ -491,4 +603,4 @@ a#backTop:hover {
 
 	blockquote.spirit {
 		color: lightblue
-	}}
+	}
