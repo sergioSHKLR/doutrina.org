@@ -2,17 +2,22 @@
 layout: first
 ---
 
+Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos …?
+{:.cursive}
+  
+<br />    
+
+São Luís & Santo Agostinho
+{:.cursive}
+
 <br />
-<p class="cursive">Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna?</p>
+
+---
 <br />
-<p class="cursive">São Luís&nbsp;&nbsp;&&nbsp;&nbsp;Santo Agostinho</p>
-<br />
-<p style="text-align: center; font-size: 1rem">
-<ul style="margin-left: 25%; margin-right: 25%;">
-<li><a href="./1lde">📘 ESPÍRITOS</a></li>
-<li><a href="./2ldm">📙 MÉDIUNS</a></li>
-<li><a href="./3ese">📗 EVANGELHO</a></li>
-<li><a href="./4ceu">📕 CÉU & INFERNO</a></li>
-<li><a href="./5gen">📓 GÊNESE</a></li>
-  </ul>
-</p>
+
+[📘 ESPÍRITOS •](./1lde)
+[📙 MÉDIUNS •](./2ldm)
+[📗 EVANGELHO •](./3ese)
+[📕 CÉU & INFERNO •](./4ceu)
+[📓 GÊNESE](./5gen)
+{: style="text-align: center; line-height: 2"}

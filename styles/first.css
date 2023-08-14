@@ -1,55 +1,55 @@
-html {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    scroll-behavior: smooth;
-    transition-duration: 0.4s;
-    transition-timing-function: ease-in-out;
-  }
-  
-  body {
-    font: 1rem/1.5 "Trebuchet MS", sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    height: 100vh;
-    width: 90w;
-    margin: auto;
-  }
-  
-  /*---------- 🚨 NAVBAR ----------*/
-  #navbar {
-    background-color: darkslategrey;
-    height: 3rem;
-    width: 100%;
-    box-sizing: border-box;
-    float: left;
-    border-bottom: 1px solid white;
-    z-index: 3;
-    position: fixed;
-    top: 0;
-    left: 0;
-  }
+a:any-link {
+  text-decoration: none;
+  opacity: .5;
+  color: black;
+  font-family: 'Roboto Slab';
+  font-weight: 100;
+}
 
-  button#brand {
-    background-color: #000;
-    border-right: 1px solid #ccc;
-    border-bottom: 1px solid white;
-    color: #fff;
-    box-sizing: border-box;
-    height: 3rem;
-    width: 9rem;
+a:any-link:hover {
+  opacity: 1;
+  font-weight: 200;
+}
 
+.cursive {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 1.5rem;
+  line-height: 2;
+  word-spacing: .75rem;
+  color: dimgrey;
+  width: 90%;
+  margin: auto;
+}
+
+.box {
+  width: 1000px;
+  height: 300px;
+  position: absolute;
+  top: calc(50% - 150px);
+  left: calc(50% - 500px);
+}
+
+
+/*---------- 🚨 MEDIA QUERY SMALL ----------*/
+@media screen and (min-width: 300px) and (max-width: 780px) {
+
+  .box {
+    width: 350px;
+    height: 700px;
+    position: absolute;
+    top: calc(50% - 350px);
+    left: calc(50% - 175px);
   }
+}
 
-  a:any-link {text-decoration: none;}
+/*---------- 🚨 MEDIA QUERY MEDIUM ----------*/
+@media screen and (min-width: 781px) and (max-width: 1250px) {
 
-  .cursive {
-    font-family: 'Homemade Apple', cursive;
-    font-size: 1.3rem;
-    line-height: 2;
-    word-spacing: .75rem;
-    color: dimgrey;
-    width: 90%;
-    margin: auto;
+  .box {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: calc(50% - 200px);
+    left: calc(50% - 300px);
   }
+}

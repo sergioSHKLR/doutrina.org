@@ -475,7 +475,7 @@ td {
 }
 
 /*---------- 🚨 MEDIA QUERY MEDIUM ----------*/
-@media screen and (min-width: 771px) and (max-width: 1250px) {
+@media screen and (min-width: 781px) and (max-width: 1250px) {
 
   span.label {
     display: none
