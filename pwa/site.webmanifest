@@ -5,64 +5,27 @@
   "display": "fullscreen",
   "start_url": "/",
   "short_name": "doutrina",
-  "theme_color": "#4ec1f5",
-  "description": "Plataforma de estudo da Filosofia Espírita.",
+  "theme_color": "#1d3030",
+  "description": "plataforma de estudo da Filosofia Espírita.",
   "orientation": "landscape-primary",
   "background_color": "#000",
-  "related_applications": [],
-  "prefer_related_applications": false,
-  "display_override": ["window-controls-overlay"],
+  "display_override": [
+    "window-controls-overlay"
+  ],
   "lang": "pt-BR",
   "dir": "ltr",
-  "handle_links": "preferred",
-  "launch_handler": {
-    "client_mode": "navigate-existing"
-},
-  "iarc_rating_id": "e58c174a-81d2-5c3c-32cc-34b8de4a52e9",
-  "share_target": {
-    "action": "/handle-shared-content/",
-    "method": "GET",
-    "params": {
-      "title": "title",
-      "url": "url"
-    }
+  "edge_side_panel": {
+    "preferred_width": 400
   },
-  "scope_extensions": [
-    {"origin": "doutrina.org/*"}
-  ],
-  "protocol_handlers": [
-    {
-      "protocol": "web+music",
-      "url": "/play?track=%s"
-    }
-  ],  
-  "file_handlers": [
-    {
-      "action": "/open-pdf",
-      "accept": {
-        "application/pdf": [".pdf"]
-      },
-      "icons": [
-        {
-          "src": "pdf-icon.png",
-          "sizes": "256x256",
-          "type": "image/png"
-        }
-      ],
-      "launch_type": "single-client"
-    }],
-    "edge_side_panel": {
-      "preferred_width": 400
-    },  
   "icons": [
     {
-      "src": "https://www.doutrina.org/pwa/maskable.png",
+      "src": "./maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://www.doutrina.org/pwa/favicon.png",
+      "src": "./favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -70,8 +33,8 @@
   ],
   "screenshots": [
     {
-      "src": "assets/screenshots/screen.png",
-      "sizes": "1617x1012",
+      "src": "./screen.png",
+      "sizes": "2560x1438",
       "type": "image/png"
     }
   ],
@@ -85,12 +48,12 @@
   ],
   "shortcuts": [
     {
-      "name":"Início",
-      "url":"/",
-      "description":"voltar à página inicial",
+      "name": "Início",
+      "url": "/",
+      "description": "voltar à página inicial",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/home.png",
+          "src": "./home.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -98,12 +61,12 @@
       ]
     },
     {
-      "name":"O Livro dos Espíritos",
-      "url":"/lde",
-      "description":"📘 O Livro dos Espíritos",
+      "name": "ESPÍRITOS",
+      "url": "/lde",
+      "description": "📘 O Livro dos Espíritos",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/blue-book.png",
+          "src": "./blue-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -111,12 +74,12 @@
       ]
     },
     {
-      "name":"O Livro dos Médiuns",
-      "url":"/ldm",
-      "description":"📙 O Livro dos Médiuns",
+      "name": "MÉDIUNS",
+      "url": "/ldm",
+      "description": "📙 O Livro dos Médiuns",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/orange-book.png",
+          "src": "./orange-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -124,12 +87,12 @@
       ]
     },
     {
-      "name":"O Evangelho segundo o Espiritismo",
-      "url":"/ese",
-      "description":"📗 O Evangelho segundo o Espiritismo",
+      "name": "EVANGELHO",
+      "url": "/ese",
+      "description": "📗 O Evangelho segundo o Espiritismo",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/green-book.png",
+          "src": "./green-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -137,12 +100,12 @@
       ]
     },
     {
-      "name":"O Céu e o Inferno",
-      "url":"/ceu",
-      "description":"📕 O Céu e o Inferno",
+      "name": "CÉU & INFERNO",
+      "url": "/ceu",
+      "description": "📕 O Céu e o Inferno",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/red-book.png",
+          "src": "./red-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -150,37 +113,15 @@
       ]
     },
     {
-      "name":"A Gênese",
-      "url":"/gen",
-      "description":"📓 A Gênese",
+      "name": "GÊNESE",
+      "url": "/gen",
+      "description": "📓 A Gênese",
       "icons": [
         {
-          "src": "https://www.doutrina.org/pwa/black-notebook.png",
+          "src": "./black-notebook.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
-        }
-      ]
-    }
-  ],
-  "widgets": [
-    {
-      "name": "Starter Widget",
-      "tag": "starterWidget",
-      "ms_ac_template": "widget/ac.json",
-      "data": "widget/data.json",
-      "description": "A simple widget example from pwa-starter.",
-      "screenshots": [
-        {
-          "src": "assets/screenshots/widget-screen.png",
-          "sizes": "500x500",
-          "label": "Widget screenshot"
-        }
-      ],
-      "icons": [
-        {
-          "src": "assets/icons/48x48.png",
-          "sizes": "48x48"
         }
       ]
     }
