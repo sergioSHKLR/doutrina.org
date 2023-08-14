@@ -1,4 +1,5 @@
-function decreaseFontsize() {
-  let mainDiv = document.getElementById("main");
-  mainDiv.style.fontSize = 'small'; // change font size to xx-large
+function decreaseFont() {
+  const element = document.getElementById("main");
+  element.classList.remove("normal");
+  element.classList.add("smaller");
 }

@@ -1,7 +1,9 @@
-_site/*.*
-_site/11LDE.html
-_site/22LDM.html
-_site/33ESE.html
-_site/44CEU.html
-_site/55GEN.html
+_site/*
+_site/1lde.html
+_site/2ldm.html
+_site/3ese.html
+_site/4ceu.html
+_site/5gen.html
 _site/index.html
+_site/videos/list.html
+.gitignore

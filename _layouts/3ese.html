@@ -1,0 +1,123 @@
+<!-- 🔔 VERSION 4.1 -->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width initial-scale=1">
+
+<!-- 🚨 HYPO -->
+<script src="https://hypothes.is/embed.js" defer async></script>
+
+<!-- 🚨 FAVICON -->
+<link rel="icon" type="image/png" href="./pwa/green-book.png" sizes="512x512" />
+
+<!-- 🚨 PWA -->
+<link rel="manifest" href="./pwa/site.webmanifest" />
+<meta name="theme-color" content="#1d3030" />
+ <title>{{ page.title }} | 💧 doutrina.org</title>
+ 
+<!-- 🚨 METADATA -->
+<meta name="keywords" content="Espiritismo, Allan Kardec">
+<meta name="description" content="Plataforma de estudos integrados.">
+<meta name="author" content="Sergio SHKLR">
+
+<!-- 🚨 CSS -->
+<link rel="stylesheet" href="./styles/frames3.css">
+<link rel="stylesheet" href="./styles/main3.css">
+ 
+<!-- 🚨 FONTS -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
+
+ </head>
+ <body>
+
+<header>
+
+<!-- 🚨 NAVBAR -->
+<div id="navbar">
+<button id="brand">💧 doutrina.org</button>
+
+<!-- 🚨 D-DOWN 1 -->
+<div class="dropdown1">
+<button class="dropbtn1" title="Livros"><span class="label">Livros </span>📚 <span class="arrow">›</span></button>
+<div id="myDropdown1" class="dropdown-content1">
+<a href="./1lde">📘 ESPÍRITOS</a>
+<a href="./2ldm">📙 MÉDIUNS</a>
+<a href="./3ese">📗 EVANGELHO</a>
+<a href="./4ceu">📕 CÉU & INFERNO</a>
+<a href="./5gen">📓 GÊNESE</a>
+</div>
+</div>
+
+<!-- 🚨 D-DOWN 2 -->
+<div class="dropdown2">
+ <button class="dropbtn2" title="Sumário"><span class="label"> Sumário </span> 🔖 <span class="arrow">›</span></button>
+ <div id="myDropdown2" class="dropdown-content2">
+ <input type="text" placeholder="🔎 Pesquise por ..." id="myInput" onkeyup="filterFunction()" style="font-size: 1em; padding: 5px; width: 100%; border: 1px solid grey;">
+ <a href="#ese-0">🗂️ Parte 0</a>
+ <a href="#ese-1">🗂️ Parte 1</a>
+ <a href="#ese-2">🗂️ Parte 2</a>
+ </div>
+ </div>
+
+<!-- 🚨 D-DOWN 3 -->
+<div class="dropdown3">
+<button class="dropbtn3"><span class="label">Ajustes </span>🧰 <span class="arrow">›</span></button>
+<div id="myDropdown3" class="dropdown-content3">
+<button onclick="openFullscreen();">Tela Cheia 🖥️</button>
+<button onclick="closeFullscreen();">Tela Normal 💻</button>
+<!--
+<button class="fontSize" id="increaseText" type="button" value="+1">Letra Maior 🅰️</button>
+<button class="fontSize" id="decreaseText" type="button" value="-1">Letra Menor <span style="font-size: 80%;">🅰️</span></button>
+-->
+</div>
+</div>
+
+<!-- 🚨 D-DOWN 4 -->
+<div class="dropdown4">
+<button class="dropbtn4"><span class="label">Legenda </span>❓ <span class="arrow">›</span></button>
+<div id="myDropdown4" class="dropdown-content4">
+<p>Parte — <span class="emoji">🗂️</span></p>
+<p>Capítulo — <span class="emoji">📑</span></p>
+<p>Seção — <span class="emoji">📃</span></p>
+<p>Item — <span class="emoji">#️⃣</span></p>
+<p>Espírito — <span class="emoji">👻</span></p>
+<p>Kardec — <span class="emoji">👴🏻</span></p>
+<p>Bíblia — <span class="emoji">📜</span></p>
+</div>
+</div>
+</div>
+
+<!-- 🚨 EXT LINKS -->
+<div id="ext-links">
+<button><a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia"><span class="label">Enciclopédia </span>🌐</a></button>
+<button><a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário"><span class="label">Dicionário </span>📒</a></button>
+<button><a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC"><span class="label">Bíblia ARC </span>📜</a></button>
+
+<!-- <button><a target="ext" href="../videos/list-of-videos.html" title="Lista de videos"><span class="label">Videos LDS </span>🎬</a></button> -->
+<button><a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato"><span class="label">Contato </span>💌</a></button>
+</div>
+
+</header>
+
+<!-- 🚨 EXT FRAME -->
+<div id="ext-frame">
+<iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="painel complementar" ></iframe>
+</div>
+
+<!-- 🚨 MAIN -->
+
+<div id="main">
+
+  {{ content }}
+ 
+  </div>
+ 
+  <script src="./js/fullScreen.js" defer async></script>
+  <script src="./js/tocFilter.js" defer async></script>
+ 
+ </body>
+ </html>
