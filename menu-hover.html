@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- 🚨 HYPO -->
+  <script src="https://hypothes.is/embed.js" defer async></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    html {
+      font-family: Arial, Helvetica, sans-serif;
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      background-color: black;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: black;
+    }
+
+    button {
+      font-size: 14px;
+      height: 40px;
+      border: 1px solid black;
+    }
+
+    #wrapper {
+      height: 41px;
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;
+      border: 1px solid red;
+      display: inline-block;
+      background-color: black;
+
+    }
+
+    #brand {
+      position: relative;
+      top: 0;
+      left: 0;
+      height: 40px;
+      width: 110px;
+    }
+
+    #dropbar {
+      position: absolute;
+      top: 0px;
+      left: 110px;
+      border: 1px solid lime;
+      width: calc(60% - 50px);
+      height: 40px;
+    }
+
+    #dropdown1,
+    #dropdown2,
+    #dropdown3 {
+      float: left;
+      overflow: hidden;
+    }
+
+    #dropdown1 #dropbtn1,
+    #dropdown2 #dropbtn2,
+    #dropdown3 #dropbtn3 {
+      margin: 0;
+    }
+
+    #dropdown-content1,
+    #dropdown-content2,
+    #dropdown-content3 {
+      display: none;
+      position: absolute;
+      min-width: 160px;
+      z-index: 1;
+      border: 2px solid orange;
+    }
+
+    #dropdown-content1 a,
+    #dropdown-content2 a,
+    #dropdown-content3 a {
+      float: none;
+      text-decoration: none;
+      display: block;
+    }
+
+    #dropdown-content1 button,
+    #dropdown-content2 button,
+    #dropdown-content3 button {
+      float: none;
+      text-decoration: none;
+      display: block;
+    }
+
+    #dropdown1:hover #dropdown-content1,
+    #dropdown2:hover #dropdown-content2,
+    #dropdown3:hover #dropdown-content3 {
+      display: block;
+    }
+
+    #dropbtn1:hover #dropdown-content1,
+    #dropbtn2:hover #dropdown-content2,
+    #dropbtn3:hover #dropdown-content3 {
+      display: block;
+    }
+
+    .show {display:block;}
+
+    #ext-links {
+      position: absolute;
+      left: 60%;
+      top: 0;
+      height: 40px;
+      width: calc(40% - 50px);
+      border: 1px solid gold;
+      overflow: auto;
+      white-space: nowrap
+    }
+
+    #ext-links a {
+      display: inline-block;
+      text-decoration: none;
+    }
+
+    #hypo {
+      position: absolute;
+      top: 1px;
+      height: 40px;
+      right: 20px;
+      background-color: purple;
+      width: 90px;
+    }
+
+    /*---------- 🚨 EXT FRAME ----------*/
+    #ext-frame {
+      border-left: 1px solid pink;
+      height: 100vh;
+      overflow: scroll;
+      position: fixed;
+      right: 20px;
+      top: 41px;
+      width: calc(40% - 22px);
+      z-index: 1;
+    }
+
+    #ext-iframe {
+      height: 100vh;
+      overflow-x: hidden;
+      top: 0;
+      width: 100%;
+      z-index: 1;
+      background-color: grey;
+    }
+
+    iframe {
+      border: none;
+      filter: grayscale(100%)
+    }
+
+    iframe:hover {
+      filter: grayscale(0%);
+    }
+
+    /*---------- 🚨 MAIN ----------*/
+    #main {
+      height: 100vh;
+      overflow: scroll;
+      overflow-x: hidden;
+      position: fixed;
+      scroll-behavior: smooth;
+      top: 40px;
+      width: 60%;
+      z-index: 0;
+      padding: 10px;
+      box-sizing: border-box;
+      font-weight: 200;
+    }
+  </style>
+</head>
+
+<body style="background-color:white;">
+  <div id="wrapper">
+    <div id="navbar">
+      <div id="brand">
+        <button>
+          <a href="#home">💧 doutrina.org</a>
+        </button>
+      </div>
+      <div id="dropbar">
+        <div id="dropdown1">
+          <button id="dropbtn1">📚 <span class="label">Livros </span><span class="arrow">›</span>
+          </button>
+          <div id="dropdown-content1">
+            <button>
+              <a href="#">#️⃣ Link 1</a>
+            </button>
+            <button>
+              <a href="#">🗂️ Link 2</a>
+            </button>
+            <button>
+              <a href="#">👴🏻 Link 3</a>
+            </button>
+          </div>
+        </div>
+        <div id="dropdown2">
+          <button id="dropbtn2">🔖 <span class="label">Sumário </span><span class="arrow">›</span>
+          </button>
+          <div id="dropdown-content2">
+            <button>
+              <a href="#">#️⃣ Link 1</a>
+            </button>
+            <button>
+              <a href="#">🗂️ Link 2</a>
+            </button>
+            <button>
+              <a href="#">👴🏻 Link 3</a>
+            </button>
+          </div>
+        </div>
+        <div id="dropdown3">
+          <button id="dropbtn3">❓<span class="arrow">›</span>
+          </button>
+          <div id="dropdown-content3">
+            <button>
+              <a href="#">#️⃣ Link 1</a>
+            </button>
+            <button>
+              <a href="#">🗂️ Link 2</a>
+            </button>
+            <button>
+              <a href="#">👴🏻 Link 3</a>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div id="ext-links">
+        <button>
+          <a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia">🌐<span
+              class="label"> Enciclopédia</span></a>
+        </button>
+        <button>
+          <a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário"></span>📒<span
+              class="label"> Dicionário</a>
+        </button>
+        <button>
+          <a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC">📜<span class="label">
+              Bíblia ARC</span></a>
+        </button>
+        <button>
+          <a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato"><span class="label">Contato
+            </span>💌</a>
+        </button>
+
+      </div>
+      <div id="hypo">
+        <button>
+          📝 Anotar
+        </button>
+      </div>
+    </div>
+    <!-- 🚨 EXT FRAME -->
+    <div id="ext-frame">
+      <iframe name="ext" id="ext-iframe" src="" title="painel complementar"></iframe>
+    </div>
+    <!-- 🚨 MAIN -->
+    <div id="main">
+      {{ content }}
+    </div>
+    <script src="./js/tocFilter.js" defer async></script>
+</body>
+
+</html>
+</body>
+
+</html>

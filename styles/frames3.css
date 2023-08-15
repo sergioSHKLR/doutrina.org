@@ -20,7 +20,7 @@ body {
 
 /*---------- 🚨 NAVBAR ----------*/
 #navbar {
-  background-color: white;
+  background-color: #eee;
   color: dimgrey;
   height: 3rem;
   width: 60%;
@@ -37,27 +37,31 @@ body {
 
 #navbar a,
 #navbar button {
-  background-color: white;
+  background-color: #eee;
   filter: grayscale(100%);
-
+  font-weight: 200;
 }
 
 #navbar a:hover,
 #navbar button:hover {
-  background-color: white;
+  background-color: #fff;
+  color: black;
   filter: grayscale(0%);
+  font-weight: 300;
 }
 
 
 /*---------- 🚨 BRAND ----------*/
 button#brand {
-  background-color: white;
+  background-color: #eee;
   border-right: 1px solid grey;
   border-bottom: 1px solid grey;
   color: dimgrey;
   box-sizing: border-box;
   height: 3rem;
-  width: 9rem;
+  width: 10rem;
+  font-family: 'Roboto Slab';
+  font-weight: 400;
 }
 
 /*---------- 🚨 BUTTON ----------*/
@@ -68,28 +72,30 @@ button#brand {
   cursor: pointer;
   box-sizing: border-box;
   z-index: 2;
-  border-bottom: 1px solid grey;
-  height: 3rem;
+  height: 2.9rem;
+  color: black;
+  background-color: #eee;
+  font-weight: 100 !important;
 }
 
 .dropdown-content1 a,
 .dropdown-content2 a,
 .dropdown-content3 a,
 .dropdown-content4 a {
-  background-color: white;
+  background-color: #eee;
   display: block;
   padding: 12px 16px;
   text-decoration: none;
   z-index: 2;
   font-family: 'Roboto Slab';
-  font-weight: 300;
+  font-weight: 100 !important;
 }
 
 .dropdown-content1 button,
 .dropdown-content2 button,
 .dropdown-content3 button,
 .dropdown-content4 button {
-  background-color: white;
+  background-color: #eee;
   cursor: pointer;
   display: block;
   font-size: 1em;
@@ -99,10 +105,15 @@ button#brand {
   width: 100%;
   box-sizing: border-box;
   z-index: 2;
+  color: black;
+  background-color: #eee;
+  font-family: 'Roboto';
+  font-weight: 100 !important;
+
 }
 
 .dropdown-content3 button {
-  background-color: white;
+  background-color: #eee;
   cursor: pointer;
   display: block;
   font-size: 1em;
@@ -112,8 +123,11 @@ button#brand {
   box-sizing: border-box;
   z-index: 2;
   text-align: right;
-  font-family: 'Roboto Slab';
-  font-weight: 300;
+  font-family: 'Roboto';
+  color: black;
+  background-color: #eee;
+  font-weight: 100 !important;
+
 }
 
 .dropdown-content4 p {
@@ -126,7 +140,7 @@ button#brand {
 }
 
 .dropdown-content4 p:hover {
-  background-color: white;
+  background-color: #fff;
   filter: grayscale(0%);
 }
 
@@ -138,11 +152,11 @@ button#brand {
 .dropdown-content2 a:hover,
 .dropdown-content3 a:hover,
 .dropdown-content4 a:hover {
-  background-color: white;
+  background-color: #eee;
 }
 
 .dropdown-content1 {
-  background-color: white;
+  background-color: #eee;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
   display: none;
   max-height: 80vh;
@@ -157,7 +171,7 @@ button#brand {
 }
 
 .dropdown-content2 {
-  background-color: white;
+  background-color: #eee;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
   display: none;
   max-height: 80vh;
@@ -172,7 +186,7 @@ button#brand {
 }
 
 .dropdown-content3 {
-  background-color: white;
+  background-color: #eee;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
   display: none;
   max-height: 80vh;
@@ -189,7 +203,7 @@ button#brand {
 }
 
 .dropdown-content4 {
-  background-color: white;
+  background-color: #eee;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
   display: none;
   max-height: 80vh;
@@ -216,14 +230,14 @@ button#brand {
 .dropdown4 {
   display: inline-block;
   position: relative;
-  height: 3rem;
+  height: 2.9rem;
 }
 
 .dropdown1:hover .dropbtn1,
 .dropdown2:hover .dropbtn2,
 .dropdown3:hover .dropbtn3,
 .dropdown4:hover .dropbtn4 {
-  background-color: white;
+  background-color: #fff;
   color: dimgrey
 }
 
@@ -245,16 +259,18 @@ button#brand {
 }
 
 #myinput:focus {
-  outline: 3px solid white
+  outline: 3px solid #eee
 }
 
-.label {
-  display: inline
+.label span {
+  display: inline;
+  font-weight: 100 !important;
+
 }
 
 /*---------- 🚨 EXT LINKS ----------*/
 #ext-links {
-  background-color: white;
+  background-color: #eee;
   border-left: 1px solid grey;
   margin-right: 20px;
   overflow-x: auto;
@@ -268,7 +284,7 @@ button#brand {
   box-sizing: border-box;
   border-bottom: 1px solid grey;
   height: 3rem;
-  background-color: white;
+  background-color: #eee;
 
 
 }
@@ -282,15 +298,17 @@ button#brand {
   text-decoration: none;
   border-bottom: 1px solid grey;
   filter: grayscale(100%);
-  background-color: white;
+  background-color: #eee;
 
 
 }
 
 #ext-links a:hover {
-  background-color: white;
+  background-color: #fff;
   color: dimgrey;
   filter: grayscale(0%);
+  font-weight: 400 !important;
+
 
 }
 
@@ -298,7 +316,7 @@ button#brand {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: white;
+  background-color: #eee;
 
 }
 
@@ -340,7 +358,7 @@ iframe {
 }
 
 /*---------- 🚨 MAIN ----------*/
-#main {
+#main { 
   height: 100vh;
   margin: 0;
   overflow: scroll;
@@ -352,10 +370,10 @@ iframe {
   top: 3.05rem;
   width: 60%;
   z-index: 0;
-  background-color: whitesmoke;
+  background-color: white;
   box-sizing: border-box;
   font-family: 'Roboto Slab';
-  font-weight: 100;
+  font-weight: 200;
 }
 
 #main a:any-link {
@@ -401,10 +419,10 @@ a#backTop:hover {
 }
 
 button {
-  background-color: white;
+  background-color: #eee;
   border: none;
   font-size: 1em;
-  height: 3rem;
+  height: 2.9rem;
   margin: 0;
   padding: 0;
   padding-left: 1em;

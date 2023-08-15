@@ -1,0 +1,363 @@
+/* 🔔 VERSION 4.1 */
+
+/*---------- 🚨 DOCUMENT ----------*/
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font: 16px/1.5;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+th {
+    font-weight: 400;
+    text-align: center;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding-top: 10px;
+    border-top: 1px solid gainsboro;
+}
+
+h5 {
+    display: none;
+}
+
+.arrow {
+    writing-mode: vertical-lr;
+}
+
+strong {
+    font-style: italic;
+    font-weight: 200;
+}
+
+.wrapper > a:any-link, button, div {
+    font-family: 'Noto Sans';
+    font-size: 14px;
+    color: dimgrey;
+    background-color: #eee;
+    text-decoration: none;
+}
+
+.wrapper a:any-link {
+    color: dimgrey;
+    text-decoration: none;
+    padding: 10px 5px;
+}
+
+.navbar {
+    width: 59.9%;
+    float: left;
+    overflow: hidden;
+}
+
+.navbar a:any-link {
+    float: left;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.arrow {
+    writing-mode: vertical-lr;
+}
+
+.dropdown1,
+.dropdown2,
+.dropdown3 {
+    float: left;
+    overflow: hidden;
+    padding: 10px 5px;
+
+}
+
+.dropdown1 .dropbtn1,
+.dropdown2 .dropbtn2,
+.dropdown3 .dropbtn3 {
+    border: none;
+    outline: none;
+    margin: 0;
+    padding: 10px 5px;
+
+}
+
+.dropdown-content1,
+.dropdown-content2,
+.dropdown-content3 {
+    display: none;
+    position: absolute;
+    background-color: #eee;
+    min-width: 160px;
+    z-index: 1;
+    padding: 10px 5px;
+
+}
+
+.dropdown-content1 a,
+.dropdown-content2 a,
+.dropdown-content3 a {
+    float: none;
+    color: dimgrey;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content1 a:hover,
+.dropdown-content2 a:hover,
+.dropdown-content3 a:hover {
+    background-color: #ddd;
+}
+
+.dropdown1:hover .dropdown-content1,
+.dropdown2:hover .dropdown-content2,
+.dropdown3:hover .dropdown-content3 {
+    display: block;
+}
+
+.ext-links {
+    overflow: auto;
+    white-space: nowrap;
+    border-left: 1px solid grey;
+}
+
+.ext-links a {
+    display: inline-block;
+    text-align: center;
+}
+
+.ext-links a:hover {
+    color: #000;
+}
+
+#myInput {
+    font-size: 14px;
+    width: 94.5%;
+    padding: 10px 5px;
+    background-color: #fff;
+    border: none;
+}
+
+#myinput:focus {
+    outline: 1px solid #eee
+}
+
+.label span {
+    display: inline;
+}
+
+/*---------- 🚨 EXT LINKS ----------*/
+
+/*---------- 🚨 EXT FRAME ----------*/
+#ext-frame {
+    border-left: 1px solid grey;
+    height: 100vh;
+    overflow: scroll;
+    position: fixed;
+    right: 20px;
+    top: 41px;
+    width: calc(40% - 20px);
+    z-index: 1;
+}
+
+#ext-iframe {
+    height: 100vh;
+    overflow-x: hidden;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+iframe {
+    border: none;
+    filter: grayscale(100%)
+}
+
+iframe:hover {
+    filter: grayscale(0%);
+}
+
+/*---------- 🚨 MAIN ----------*/
+#main {
+    height: 100vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    position: fixed;
+    scroll-behavior: smooth;
+    top: 3.05rem;
+    width: 60%;
+    z-index: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-weight: 200;
+}
+
+#main a:any-link {
+    text-decoration-color: #aaa !important;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+}
+
+#main a:any-link:hover {
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+}
+
+hr {
+    border: 3px solid dimgrey
+}
+
+/*---------- 🚨 BACK TOP ----------*/
+a#backTop {
+    background-color: transparent;
+    border: none;
+    bottom: 10px;
+    cursor: pointer;
+    font-size: 1.5em;
+    opacity: .5;
+    outline: none;
+    position: fixed;
+    right: 41.5%;
+    text-decoration: none;
+    z-index: 99
+}
+
+a#backTop:hover {
+    font-size: 2em;
+    opacity: 1
+}
+
+table {
+    border: 1px solid #dcdcdc;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    width: 97.5%
+}
+
+th,
+td {
+    text-align: center
+}
+
+#main a:any-link {
+    text-decoration-color: #aaa;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+}
+
+#main a:any-link:hover {
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+}
+
+#main a:any-link:hover {
+    color: blue;
+    text-decoration-color: blue
+}
+
+/*---------- 🚨 DARK PREFERRED ----------*/
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #444;
+    }
+
+    #main {
+        background-color: #444;
+        color: #fff
+    }
+
+    #main a:any-link {
+        color: #fff
+    }
+
+    #main a:any-link:hover {
+        color: #00bfff;
+        text-decoration-color: #00bfff
+    }
+
+    .jesus {
+        color: #DC143C
+    }
+
+    blockquote.spirit {
+        color: #add8e6
+    }
+
+    hr {
+        border: 3px solid dimgrey
+    }
+}
+
+/*
+  
+  /*---------- 🚨 MEDIA QUERY SMALL ----------
+  @media screen and (min-width: 300px) and (max-width: 780px) {
+  
+    #ext-links,
+    #ext-frame,
+    .label {
+      display: none
+    }
+  
+    #main {
+      width: calc(100% - 20px);
+    }
+  
+    #navbar {
+      margin-right: 20px;
+      width: 97.5vw
+    }
+  
+    a#backTop {
+      right: 2rem !important
+    }
+  
+    .dropbtn1,
+    .dropbtn2,
+    .dropbtn3,
+    .dropbtn4 {
+      padding: 5px;
+      width: 3.5rem;
+    }
+  
+    .dropdown-content2 {
+      width: 15rem;
+    }
+  
+  }
+  
+  
+  /*---------- 🚨 MEDIA QUERY MEDIUM ----------
+  @media screen and (min-width: 781px) and (max-width: 1250px) {
+  
+    span.label {
+      display: none
+    }
+  
+    .dropdown-content2 {
+      width: 17.5rem;
+    }
+  
+  }

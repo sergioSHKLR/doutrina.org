@@ -12,8 +12,10 @@ th,
 td {
   padding-left: 1em;
   padding-right: 1em;
-  text-align: center
+  text-align: center;
 }
+
+th {font-weight: 400;}
 
 /*---------- 🚨 PARAGRAPHS ----------
 p {
@@ -121,4 +123,6 @@ hr {
 
 .arrow {writing-mode: vertical-lr;}
 
-strong {font-weight: 300;}
+strong {font-weight: 400;}
+
+h1, h2, h3, h4, h5, h6 {font-weight: 200}

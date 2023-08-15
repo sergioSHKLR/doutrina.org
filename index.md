@@ -15,9 +15,9 @@ São Luís & Santo Agostinho
 ---
 <br />
 
-[📘 ESPÍRITOS •](./1lde)
-[📙 MÉDIUNS •](./2ldm)
-[📗 EVANGELHO •](./3ese)
-[📕 CÉU & INFERNO •](./4ceu)
-[📓 GÊNESE](./5gen)
+[📘 Espíritos •](./1lde)
+[📙 Médiuns •](./2ldm)
+[📗 Evangelho •](./3ese)
+[📕 Céu & Inferno •](./4ceu)
+[📓 Gênese](./5gen)
 {: style="text-align: center; line-height: 2"}
