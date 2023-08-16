@@ -1,0 +1,62 @@
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 00:55:49 -0500 */
+.cursive {
+    font: 30px 'Homemade Apple', cursive;
+    margin: auto
+}
+
+body {
+    color: dimgrey;
+    line-height: 2;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    width: 80vw;
+    word-spacing: .75rem
+}
+
+footer {
+    bottom: 0;
+    color: grey;
+    font: 10px sans-serif;
+    position: fixed;
+    right: 10px
+}
+
+footer a {
+    color: grey;
+    text-decoration: none
+}
+
+html {
+    background: url(../images/old-paper.jpg) no-repeat center fixed;
+    background-size: cover
+}
+
+table,
+tr,
+td,
+th {
+    border: none;
+    margin: auto;
+    width: 80vw
+}
+
+td.links a {
+    color: grey !important;
+    filter: grayscale(100%);
+    font: 200 20px 'Roboto Slab';
+    text-align: center;
+    text-decoration: none
+}
+
+td.links a:hover {
+    color: #000 !important;
+    filter: grayscale(0%)
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        background: url(../images/old-paper-inverted.jpg) no-repeat center fixed;
+        background-size: cover
+    }
+}

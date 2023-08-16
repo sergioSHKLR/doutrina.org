@@ -1,74 +1,39 @@
-/* 🔔 VERSION 4.1 */
-
-/*---------- 🚨 TABLES ----------*/
-table {
-  border: 1px solid #dcdcdc;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin: auto;
-  width: 97.5%
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 01:06:15 -0500 */
+.arrow {
+  writing-mode: vertical-lr
 }
 
-th,
-td {
-  padding-left: 1em;
-  padding-right: 1em;
+.emoji:hover {
+  font-size: 200%;
+  transition-duration: .4s;
+  transition-timing-function: ease-in-out
+}
+
+.jesus {
+  color: #8b0000
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
   text-align: center;
 }
 
-th {font-weight: 400;}
-
-/*---------- 🚨 PARAGRAPHS ----------
-p {
-  border-left: 3px solid grey;
-  margin-left: 3em;
-  padding-left: 1em;
-  padding-top: -1em;
-} */
-
-p.bible::before {
-  content: "📜 ";
-  left: -1em;
-  margin-left: -2em;
-  position: relative;
-  top: 0;
+hr {
+  border: 1px solid #dcdcdc;
+  margin-top: -1em
 }
 
-p.bible {
-  border-left: 3px solid #9d6636;
+img {
+  display: block;
+  margin: auto;
+  width: 75%
 }
 
-p.kardec::before {
-  content: "👴🏻 ";
-  left: -1em;
-  margin-left: -2em;
-  position: relative;
-  top: 0;
-}
-
-p.kardec {
-  border-left: 3px solid #ccc;
-  color: dimgrey;
-}
-
-p.spirit::before {
-  content: "👻 ";
-  left: -1em;
-  margin-left: -2em;
-  position: relative;
-  top: 0;
-}
-
-p.spirit {
-  border-left: 3px solid dodgerblue;
-  color: #000;
-}
-
-/*---------- 🚨 SPEAKERS ----------*/
-.jesus {
-  color: darkred
-}
-
-/*---------- 🚨 LISTS ----------*/
 li {
   margin: 1em;
   margin-left: 0
@@ -92,37 +57,90 @@ ol>ol>li {
   margin-left: -5em
 }
 
-/*---------- 🚨 ELEMENTS ----------*/
 p {
   margin-left: 0;
   margin-right: 1.5em
 }
 
+p.bible {
+  border-left: 3px solid #9d6636
+}
+
+p.bible::before {
+  content: "📜 ";
+  left: -1em;
+  margin-left: -2em;
+  position: relative;
+  top: 0
+}
+
+p.kardec {
+  border-left: 3px solid #ccc;
+  color: dimgrey
+}
+
+p.kardec::before {
+  content: "👴🏻 ";
+  left: -1em;
+  margin-left: -2em;
+  position: relative;
+  top: 0
+}
+
+p.spirit {
+  border-left: 3px solid #1e90ff;
+  color: #000
+}
+
+p.spirit::before {
+  content: "👻 ";
+  left: -1em;
+  margin-left: -2em;
+  position: relative;
+  top: 0
+}
+
 p.sub-q {
   display: list-item;
   list-style-type: none;
-  margin-left: 2.5em;
+  margin-left: 2.5em
 }
 
 sup {
   background-color: #ff0
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 75%
-}
-
-hr {
+table {
+  background: url(../images/old-paper.jpg) no-repeat center;
+  background-size: cover;
   border: 1px solid #dcdcdc;
-  margin-top: -1em
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: auto;
+  width: 97.5%
 }
 
-.emoji:hover {font-size: 200%; transition-duration: .4s; transition-timing-function: ease-in-out;}
+th {font-weight: 400;}
 
-.arrow {writing-mode: vertical-lr;}
+strong {
+  font-style: italic; font-weight: 300;
+}
 
-strong {font-weight: 400;}
+th,
+td {
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: center
+}
 
-h1, h2, h3, h4, h5, h6 {font-weight: 200}
+@media (prefers-color-scheme: dark) {
+  table {
+    background: url(../images/old-paper-inverted.jpg) no-repeat center fixed;
+    background-size: cover
+  }
+}
+
+#main > a:any-link {
+  text-decoration-line: underline;
+  text-decoration: dashed;
+  text-decoration: dimgrey;
+}

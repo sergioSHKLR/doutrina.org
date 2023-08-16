@@ -1,332 +1,53 @@
-<!DOCTYPE html>
-<html>
-
+<!-- 🔔 VERSION 5 -->
+<!doctype html>
+<html lang="pt-BR">
 <head>
-    <!-- 🚨 HYPO -->
-    <script src="https://hypothes.is/embed.js" defer async></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <style>
-        html {
-            font-family: Arial, Helvetica, sans-serif;
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width initial-scale=1">
 
-        body {
-            margin: 0;
-            padding: 0;
-        }
+<!-- 🚨 HYPO 
+<script src="https://hypothes.is/embed.js" defer async></script> -->
 
-        #brand a:any-link {
-            height: 40px;
-            width: 140px;
-            text-decoration: none;
-            display: inline-block;
-            text-align: center;
-            color: dimgrey;
-            box-sizing: border-box;
-            font-size: 16px;
-            padding: 9px 10px;
-            white-space: nowrap;
-            filter: grayscale(100%)
-        }
+<!-- 🚨 FAVICON -->
+<link rel="icon" type="image/png" href="./pwa/blue-book.png" sizes="512x512" />
 
-        .dropdown1,
-        .dropdown2,
-        .dropdown3,
-        a:any-link {
-            height: 40px;
-            width: 140px;
-            text-decoration: none;
-            display: inline-block;
-            text-align: center;
-            color: dimgrey;
-            box-sizing: border-box;
-            font-size: 16px;
-            padding: 9px 10px;
-            white-space: nowrap;
-            filter: grayscale(100%);
-            background-color: whitesmoke;
-        }
+<!-- 🚨 PWA -->
+<link rel="manifest" href="./pwa/site.webmanifest" />
+<meta name="theme-color" content="#333" />
+ <title>{{ page.title }} | 💧 doutrina.org</title>
+ 
+<!-- 🚨 METADATA -->
+<meta name="keywords" content="Espiritismo, Allan Kardec">
+<meta name="description" content="Plataforma de estudos integrados.">
+<meta name="author" content="Sergio SHKLR">
 
-        #ext-links a:any-link {
-            height: 40px;
-            width: 140px;
-            text-decoration: none;
-            display: inline-block;
-            text-align: center;
-            color: dimgrey;
-            box-sizing: border-box;
-            font-size: 16px;
-            padding: 9px 10px;
-            white-space: nowrap;
-            background-color: whitesmoke;
-        }
+<!-- 🚨 CSS -->
+<link rel="stylesheet" href="./styles/cleaned-up.css">
+ 
+<!-- 🚨 FONTS -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
 
-
-        #hypo {
-            height: 40px;
-            width: 100px;
-            text-decoration: none;
-            text-align: center;
-            color: dimgrey;
-            box-sizing: border-box;
-            font-size: 16px;
-            padding: 9px 10px;
-            white-space: nowrap;
-            position: fixed;
-            top: 0;
-            right: 30px;
-            background-color: whitesmoke;
-        }
-
-        #hypo>span {
-            filter: grayscale(100%)
-        }
-
-        #wrapper {
-            height: 40px;
-            position: relative;
-            top: 0;
-            left: 0;
-            width: 100%;
-            display: inline-block;
-            border-bottom: 1px solid gainsboro;
-            background-color: whitesmoke;
-        }
-
-        #brand {
-            position: relative;
-            top: 0;
-            left: 0;
-            height: 40px;
-            width: 140px;
-            border-right: 1px solid gainsboro;
-        }
-
-        #brand>a {
-            background-color: #444 !important;
-            color: white !important
-        }
-
-        #brand>a:hover {
-            filter: grayscale(0%) !important;
-        }
-
-        .dropdown1:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        .dropdown2:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        .dropdown3:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        #ext-links a:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        #hypo>span:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        #myDropdown1>a:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        #myDropdown2>a:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        #myDropdown3>p:hover {
-            filter: grayscale(0%) !important;
-            color: black
-        }
-
-        #myDropdown3>p {
-            filter: grayscale(100%);
-            color: dimgrey
-        }
-
-        #dropbar {
-            position: absolute;
-            top: 0px;
-            left: 140px;
-            width: calc(60% - 140px);
-            height: 40px;
-            display: flex;
-        }
-
-
-        .dropdown1 {
-            position: relative;
-            display: inline-block;
-            background-color: whitesmoke;
-        }
-
-
-        .dropdown-content1 {
-            display: none;
-            position: absolute;
-            min-width: 160px;
-            overflow: auto;
-            z-index: 1;
-            top: 40px;
-            left: 0;
-            background-color: whitesmoke;
-            text-align: left;
-        }
-
-        .dropdown-content1 a {
-            text-decoration: none;
-            display: block;
-            background-color: whitesmoke;
-            text-align: left;
-
-        }
-
-        .dropdown2 {
-            position: relative;
-            display: inline-block;
-            background-color: whitesmoke;
-
-        }
-
-        .dropdown-content2 {
-            display: none;
-            position: absolute;
-            min-width: 160px;
-            overflow: auto;
-            z-index: 1;
-            top: 40px;
-            left: 0;
-            background-color: whitesmoke;
-
-        }
-
-        .dropdown-content2 a {
-            text-decoration: none;
-            display: block;
-            background-color: whitesmoke;
-        }
-
-        .dropdown3 {
-            position: relative;
-            display: inline-block;
-            background-color: whitesmoke;
-        }
-
-        .dropdown-content3 {
-            display: none;
-            position: absolute;
-            min-width: 160px;
-            overflow: auto;
-            z-index: 1;
-            top: 40px;
-            left: 0px;
-            text-align: left;
-            background-color: whitesmoke;
-            padding: 0 10px 0 10px;
-        }
-
-        .dropdown-content3 a {
-            display: block;
-            background-color: whitesmoke;
-        }
-
-        .show {
-            display: block;
-        }
-
-        #ext-links {
-            position: absolute;
-            left: 60%;
-            top: 0;
-            height: 40px;
-            width: calc(40% - 130px);
-            overflow: auto;
-            white-space: nowrap;
-            display: flex;
-            background-color: whitesmoke;
-        }
-
-        #ext-links a {
-            display: inline-block;
-            text-decoration: none;
-            background-color: whitesmoke;
-        }
-
-        /*---------- 🚨 EXT FRAME ----------*/
-        #ext-frame {
-            border-left: 1px solid pink;
-            height: 100vh;
-            overflow: scroll;
-            position: fixed;
-            right: 20px;
-            top: 41px;
-            width: calc(40% - 22px);
-            z-index: 1;
-
-        }
-
-        #ext-iframe {
-            height: 100vh;
-            overflow-x: hidden;
-            top: 0;
-            width: 100%;
-            z-index: 1;
-            background-color: grey;
-        }
-
-        iframe {
-            border: none;
-            filter: grayscale(100%)
-        }
-
-        iframe:hover {
-            filter: grayscale(0%);
-        }
-
-        /*---------- 🚨 MAIN ----------*/
-        #main {
-            height: 100vh;
-            overflow: scroll;
-            overflow-x: hidden;
-            position: fixed;
-            scroll-behavior: smooth;
-            top: 40px;
-            width: 60%;
-            z-index: 0;
-            padding: 10px;
-            box-sizing: border-box;
-            font-weight: 200;
-        }
-    </style>
-</head>
+ </head>
+ <body>
+<header>
 
 <body>
     <div id="wrapper">
         <div id="navbar">
             <div id="brand">
 
-                <a href="./">💧 doutrina.org</a>
+                <a href="./" title="plataforma de estudos integrados">💧 doutrina.org</a>
 
             </div>
             <div id="dropbar">
                 <div class="dropdown1">
-                    <a type="button" onclick="dropOne()" class="dropbtn1">📚&nbsp;&nbsp;<span class="label">Livros&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="arrow">›</span></a>
+                    <a type="button" onclick="dropOne()" class="dropbtn1" title="obras básicas da Doutrina">📚&nbsp;&nbsp;<span
+                            class="label">Livros&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="arrow">›</span></a>
                     <div id="myDropdown1" class="dropdown-content1">
                         <a href="./1lde">📘 Espíritos</a>
                         <a href="./2ldm">📙 Médiuns</a>
@@ -336,7 +57,8 @@
                     </div>
                 </div>
                 <div class="dropdown2">
-                    <a type="button" onclick="dropTwo()" class="dropbtn2">🔖&nbsp;&nbsp;<span class="label">Sumário&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="arrow">›</span></a>
+                    <a type="button" onclick="dropTwo()" class="dropbtn2" title="lista de partes, capítulos, seções, itens, e etc.">🔖&nbsp;&nbsp;<span
+                            class="label">Sumário&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="arrow">›</span></a>
                     <div id="myDropdown2" class="dropdown-content2">
                         <a href="#home">Home</a>
                         <a href="#about">About</a>
@@ -344,7 +66,8 @@
                     </div>
                 </div>
                 <div class="dropdown3">
-                    <a type="button" onclick="dropThree()" class="dropbtn3">❓&nbsp;&nbsp;<span class="arrow">›</span></a>
+                    <a type="button" onclick="dropThree()" class="dropbtn3" title="legenda de emojis">❓&nbsp;&nbsp;<span
+                            class="label">Legenda&nbsp;&nbsp;</span><span class="arrow">›</span></a>
                     <div id="myDropdown3" class="dropdown-content3">
                         <p>🗂️ = Parte</p>
                         <p>📑 = Capítulo</p>
@@ -377,7 +100,7 @@
             </div>
             <div id="hypo">
 
-                <span>📝 Anotar</span>
+                <span title="selecione uma palavra para começar a criar anotações">📝 Anotar</span>
 
             </div>
         </div>
@@ -388,24 +111,9 @@
         <!-- 🚨 MAIN -->
 
         <script src="./js/tocFilter.js" defer async></script>
-        <script>
-            function dropOne() {
-                document.getElementById("myDropdown1").classList.toggle("show");
-            }
-        </script>
-        <script>
-            function dropTwo() {
-                document.getElementById("myDropdown2").classList.toggle("show");
-            }
-        </script>
-        <script>
-            function dropThree() {
-                document.getElementById("myDropdown3").classList.toggle("show");
-            }
-        </script>
-</body>
+        <script src="./js/drop123.js" defer async></script>
 
-</html>
+
 </body>
 
 </html>
