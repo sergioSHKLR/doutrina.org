@@ -1,5 +1,4 @@
-<!-- 🔔 VERSION 5 -->
-
+<!-- 🔔 VERSION 4.1 -->
 <!doctype html>
 <html lang="pt-BR">
 <head>
@@ -23,58 +22,40 @@
 <meta name="author" content="Sergio SHKLR">
 
 <!-- 🚨 CSS -->
-<link rel="stylesheet" href="../styles/brand.css">
-<link rel="stylesheet" href="../styles/dropdown.css">
-<link rel="stylesheet" href="../styles/ext.css">
-<link rel="stylesheet" href="../styles/main.css">
-<link rel="stylesheet" href="../styles/responsive.css">
-<link rel="stylesheet" href="../styles/dark.css">
-
-<link rel="stylesheet" href="../styles/blur.css">
-<link rel="stylesheet" href="../styles/borders.css">
-<link rel="stylesheet" href="../styles/brightness.css">
-<link rel="stylesheet" href="../styles/colors.css">
-<link rel="stylesheet" href="../styles/greyscale.css">
-<link rel="stylesheet" href="../styles/hover.css">
-<link rel="stylesheet" href="../styles/background-colors.css"> 
+<link rel="stylesheet" href="./styles/frames3.css">
+<link rel="stylesheet" href="./styles/main3.css">
  
 <!-- 🚨 FONTS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
-
- </head>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400&display=swap" rel="stylesheet"></head>
+</head>
  <body>
 <header>
 
-<body>
-    <div id="wrapper">
-        <div id="navbar">
-            <div id="brand">
-
-                <a href="./" title="plataforma de estudos integrados">💧 doutrina.org</a>
-
-            </div>
-            <div id="dropbar">
-                <div class="dropdown1">
-                    <a type="button" onclick="dropOne()" class="dropbtn1" title="obras básicas da Doutrina">📚&nbsp;&nbsp;<span
-                            class="label">Livros&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="arrow">›</span></a>
-                    <div id="myDropdown1" class="dropdown-content1">
-                        <a href="./1lde">📘 Espíritos</a>
-                        <a href="./2ldm">📙 Médiuns</a>
-                        <a href="./3ese">📗 Evangelho</a>
-                        <a href="./4ceu">📕 Céu & Inferno</a>
-                        <a href="./5gen">📓 Gênese</a>
-                    </div>
-                </div>
-                <div class="dropdown2">
-                    <a type="button" onclick="dropTwo()" class="dropbtn2" title="lista de partes, capítulos, seções, itens, e etc.">🔖&nbsp;&nbsp;<span
-                            class="label">Sumário&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="arrow">›</span></a>
-                    <div id="myDropdown2" class="dropdown-content2">
-                     <a href="#lde-0">🗂️ 0. Pré-textual</a>
+ <!-- 🚨 NAVBAR -->
+<div id="navbar">
+    <a href="./" id="brand">💧 doutrina.org</a>
+    
+    <!-- 🚨 D-DOWN 1 -->
+    <div class="dropdown1">
+    <button class="dropbtn1" title="Livros">📚 <span class="label">Livros </span><span class="arrow">›</span></button>
+    <div class="dropdown-content1">
+    <a href="./1lde">📘 Espíritos</a>
+    <a href="./2ldm">📙 Médiuns</a>
+    <a href="./3ese">📗 Evangelho</a>
+    <a href="./4ceu">📕 Céu & Inferno</a>
+    <a href="./5gen">📓 Gênese</a>
+    </div>
+    </div>
+    
+  <!-- 🚨 D-DOWN 2 -->
+ <div class="dropdown2">
+ <button class="dropbtn2" title="Sumário">🔖 <span class="label">Sumário </span><span class="arrow">›</span></button>
+ <div class="dropdown-content2" >
+    <input type="text" placeholder="🔎 Pesquise por ...." id="myInput" onkeyup="filterFunction()" >
+    <a href="#lde-0">🗂️ 0. Pré-textual</a>
     <a href="#lde-0-01">📃 Folha de rosto</a>
     <a href="#lde-0-02">📑 Introdução</a>
     <a href="#lde-0-02-01">📃 Introdução 01</a>
@@ -1319,68 +1300,69 @@
     <a href="#lde-5-09">📃 Conclusão 09</a>
     <a href="#lde-6">🗂️ 6. Pós-textual</a>
     <a href="#lde-6-01">📃 1. Nota explicativa</a>
-   </div>
-</div>
-<div class="dropdown3">
-    <a type="button" onclick="dropThree()" class="dropbtn3" title="legenda de emojis">❓&nbsp;&nbsp;<span
-            class="label">Legenda&nbsp;&nbsp;</span><span class="arrow">›</span></a>
-    <div id="myDropdown3" class="dropdown-content3">
-        <p>🗂️ = Parte</p>
-        <p>📑 = Capítulo</p>
-        <p>📃 = Seção</p>
-        <p>#️⃣ = Item</p>
-        <p>👻 = Espírito</p>
-        <p>👴🏻 = Kardec</p>
-        <p>📜 = Bíblia</p>
     </div>
-</div>
-</div>
-<div id="ext-links">
+    </div>
 
-<a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia">🌐<span
-        class="label"> Enciclopédia</span></a>
-
-
-<a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário"></span>📒<span
-        class="label"> Dicionário</a>
-
-
-<a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC">📜<span
-        class="label">
-        Bíblia ARC</span></a>
-
-
-<a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato">💌<span class="label">
-        Contato</span></a>
-
-</div>
-<div id="hypo">
-
-<span title="selecione uma palavra para começar a criar anotações">📝 Anotar ›</span>
-
-</div>
-</div>
-<!-- 🚨 EXT FRAME -->
-<div id="ext-frame">
-<iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" title="painel complementar" style="filter: blur(1)"></iframe>
-</div>
-<!-- 🚨 MAIN -->
-    
-<div id="main">
-    
-   {{ content }}
   
-   </div>
+<!-- 🚨 D-DOWN 3 -->
+<div class="dropdown3">
+    <button class="dropbtn3">🧰 <span class="label">Ajustes </span><span class="arrow">›</span></button>
+    <div class="dropdown-content3">
+    <button onclick="openFullscreen();">🖥️ Tela Cheia </button>
+    <button onclick="closeFullscreen();">💻 Tela Normal</button>
+    <!--
+    <button class="fontSize" id="increaseText" type="button" value="+1">Letra Maior 🅰️</button>
+    <button class="fontSize" id="decreaseText" type="button" value="-1">Letra Menor <span style="font-size: 80%;">🅰️</span></button>
+    -->
+    </div>
+    </div>
+    
+    <!-- 🚨 D-DOWN 4 -->
+    <div class="dropdown4">
+    <button class="dropbtn4">❓ <span class="label">Legenda </span><span class="arrow">›</span></button>
+    <div class="dropdown-content4">
+    <p><span class="emoji">🗂️</span> = Parte</p>
+    <p><span class="emoji">📑</span> = Capítulo</p>
+    <p><span class="emoji">📃</span> = Seção</p>
+    <p><span class="emoji">#️⃣</span> = Item</p>
+    <p><span class="emoji">👻</span> = Espírito</p>
+    <p><span class="emoji">👴🏻</span> = Kardec</p>
+    <p><span class="emoji">📜</span> = Bíblia</p>
+    </div>
+    </div>
+    </div>
+    
+    <!-- 🚨 EXT LINKS -->
+    <div id="ext-links">
+    <button><a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia">🌐 <span class="label">Enciclopédia </span></a></button>
+    <button><a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário">📒 <span class="label">Dicionário </span></a></button>
+    <button><a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC">📜 <span class="label">Bíblia ARC </span></a></button>
+    
+    <!-- <button><a target="ext" href="../videos/list-of-videos.html" title="Lista de videos"><span class="label">Videos LDS </span>🎬</a></button> -->
+    <button><a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato">💌 <span class="label">Contato </span></a></button>
 
+    <div id="hypo">
 
-<a href="https://github.com/sergioSHKLR/doutrina.org/blob/main/1lde.md" id="Github" title="contribua com esta página">📥</a>
+      <span title="selecione uma palavra para começar a criar anotações">📝 Anotar</span></div>
 
-<a href="#lde" id="backTop" title="voltar ao topo da página">🔝</a>
-
-<script src="./js/tocFilter.js" defer async></script>
-<script src="./js/drop123.js" defer async></script>
-
-
-</body>
-
-</html>
+    </div>
+    </header>
+    
+    <!-- 🚨 EXT FRAME -->
+    <div id="ext-frame">
+    <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" title="painel complementar" ></iframe>
+    </div>
+    
+    <!-- 🚨 MAIN -->
+    
+    <div id="main">
+    
+      {{ content }}
+     
+      </div>
+     
+      <script src="./js/fullScreen.js" defer async></script>
+      <script src="./js/tocFilter.js" defer async></script>
+     
+     </body>
+     </html>
