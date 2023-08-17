@@ -1,7 +1,8 @@
 /* CSSTidy 1.7.3: Wed, 16 Aug 2023 00:55:49 -0500 */
 .cursive {
     font: 30px 'Homemade Apple', cursive;
-    margin: auto
+    margin: auto;
+    text-align: center;
 }
 
 body {
@@ -15,16 +16,17 @@ body {
 }
 
 footer {
-    bottom: 0;
-    color: grey;
+    bottom: 0px;
+    color: dimgrey;
     font: 10px sans-serif;
-    position: fixed;
-    right: 10px
+    word-spacing: normal;
+
 }
 
 footer a {
-    color: grey;
-    text-decoration: none
+    color: dimgrey;
+    text-decoration: none;
+    word-spacing: normal;
 }
 
 html {
@@ -42,7 +44,7 @@ th {
 }
 
 td.links a {
-    color: grey ;
+    color: grey;
     filter: grayscale(100%);
     font: 300 16px 'Roboto Slab' !important;
     text-align: center;
@@ -50,9 +52,29 @@ td.links a {
 }
 
 td.links a:hover {
-    color: #000 ;
+    color: #000;
     filter: grayscale(0%);
 }
+
+span,
+a {
+    word-spacing: unset;
+}
+
+.left {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    word-spacing: normal;
+}
+
+.right {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    word-spacing: normal;
+}
+
 
 @media (prefers-color-scheme: dark) {
     html {
@@ -65,7 +87,7 @@ td.links a:hover {
     }
 
     td.links a {
-        color: lightgrey 
+        color: lightgrey
     }
 
     td.links a:hover {
