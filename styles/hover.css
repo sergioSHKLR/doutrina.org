@@ -1,17 +1,11 @@
 /* 🔔 VERSION 5 -*/
 
-#brand > a:hover {
-    filter: grayscale(0%);
-}
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:16:34 -0500 */
 
-
+#brand>a:hover,
 .dropdown-content1 a:hover,
 .dropdown-content2 a:hover,
-.dropdown-content3 p:hover {
-    filter: grayscale(0%) ;
-}
-
-
+.dropdown-content3 p:hover,
 .dropdown1:hover,
 .dropdown2:hover,
 .dropdown3:hover,
@@ -20,9 +14,9 @@
 #mydropdown1>a:hover,
 #mydropdown2>a:hover,
 #mydropdown3>p:hover {
-    filter: grayscale(0%) ;
+    filter: grayscale(0%)
 }
 
 iframe:hover {
-    filter: brightness(1);
+    filter: brightness(1)
 }

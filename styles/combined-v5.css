@@ -1,0 +1,436 @@
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:07:55 -0500 */
+#brand {
+    height: 40px;
+    left: 0;
+    position: relative;
+    top: 0
+}
+
+#brand>a {
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    height: 22px;
+    padding: 9px 10px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 140px
+}
+
+#brand>a {
+    background-color: #fff;
+    border-bottom: 1px solid grey;
+    border-right: 1px solid grey;
+    color: dimgrey
+}
+
+#brand>a:hover {
+    color: dimgrey
+}
+
+#ext-frame {
+    border-left: 1px solid grey
+}
+
+#ext-iframe,
+.dropbar,
+#ext-links {
+    background-color: #fff
+}
+
+#wrapper {
+    border-bottom: 1px solid grey
+}
+
+.dropbtn1,
+.dropbtn2,
+.dropbtn3,
+.dropbtn4 {
+    background-color: transparent
+}
+
+.dropbtn3 {
+    border-right: 1px solid grey
+}
+
+.dropdown-content1,
+.dropdown-content2,
+.dropdown-content3 {
+    background-color: #eee
+}
+
+.spirit {
+    color: #4682b4
+}
+
+h2,
+h3 {
+    border-top: 1px solid #dcdcdc
+}
+
+h5 {
+    border-bottom: 1px solid #dcdcdc;
+    color: transparent
+}
+
+iframe {
+    border: none;
+    border: none;
+    filter: brightness(.25)
+}
+
+@media (prefers-color-scheme: dark) {
+    * {
+        background-color: #444;
+        color: #d3d3d3
+    }
+
+    iframe {
+        filter: brightness(25%)
+    }
+}
+
+#brand>a,
+#ext-links>a {
+    filter: grayscale(100%)
+}
+
+#brand>a:hover,
+#myDropdown3>p,
+#myDropdown2>a,
+#myDropdown1 a,
+.dropdown-content1,
+.dropdown-content2,
+.dropdown-content3,
+a:hover.dropbtn1,
+a:hover.dropbtn2,
+a:hover.dropbtn3,
+#brand>a:hover,
+.dropdown-content1 a:hover,
+.dropdown-content2 a:hover,
+.dropdown-content3 p:hover {
+    filter: grayscale(0%)
+}
+
+#dropbar {
+    display: flex;
+    height: 40px;
+    left: 160px;
+    position: absolute;
+    top: 0;
+    width: calc(60% - 160px);
+    z-index: 1
+}
+
+#ext-frame {
+    height: 100vh;
+    overflow: scroll;
+    position: fixed;
+    right: 20px;
+    top: 41px;
+    width: calc(40% - 22px);
+    z-index: 1
+}
+
+#ext-iframe {
+    height: 100vh;
+    overflow-x: hidden;
+    top: 0;
+    width: 100%;
+    z-index: 1
+}
+
+#ext-links {
+    display: flex;
+    height: 40px;
+    left: 60%;
+    overflow: auto;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: calc(40% - 130px)
+}
+
+#ext-links a {
+    display: inline-block;
+    text-decoration: none
+}
+
+#ext-links a:any-link {
+    display: inline-block;
+    font-size: 16px;
+    padding: 9px 10px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 140px
+}
+
+#hypo {
+    height: 40px;
+    padding: 9px 10px;
+    position: fixed;
+    right: 30px;
+    text-align: center;
+    text-decoration: none;
+    top: 0;
+    white-space: nowrap;
+    width: 100px
+}
+
+#hypo>span {
+    filter: grayscale(100%);
+}
+
+#main {
+    height: 100vh;
+    left: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding: 20px;
+    position: fixed;
+    scroll-behavior: smooth;
+    top: 40px;
+    width: calc(60% - 40px);
+    z-index: 0
+}
+
+#main>a,
+td>a {
+    color: #333;
+    text-decoration-color: #333 !important;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+}
+
+#main>a:hover,
+td>a:hover {
+    color: blue;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+}
+
+#wrapper {
+    border-bottom: 1px solid #dcdcdc;
+    display: inline-block;
+    height: 40px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 100%
+}
+
+.dropdown-content1 {
+    display: none;
+    left: 0;
+    min-width: 160px;
+    overflow: auto;
+    position: absolute;
+    text-align: left;
+    top: 40px;
+    z-index: 1
+}
+
+.dropdown-content1 a,
+.dropdown-content2 a,
+.dropdown-content3 p,
+.show {
+    display: block
+}
+
+.dropdown-content2 {
+    display: none;
+    left: 0;
+    max-height: 80vh;
+    overflow: auto;
+    overflow: scroll;
+    position: absolute;
+    top: 40px;
+    width: 360px;
+    z-index: 1
+}
+
+.dropdown-content3 {
+    display: none;
+    left: 0;
+    min-width: 160px;
+    overflow: auto;
+    padding: 0 10px;
+    position: absolute;
+    text-align: left;
+    top: 40px;
+    z-index: 1
+}
+
+.dropdown1 a,
+.dropdown2 a {
+    cursor: pointer
+}
+
+.dropdown1 a,
+.dropdown2 a,
+.dropdown3 a {
+    display: block;
+    filter: grayscale(100%);
+    font-size: 16px;
+    height: 23px;
+    padding: 9px 10px;
+    text-align: left;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 120px
+}
+
+.dropdown1,
+.dropdown2,
+.dropdown3 {
+    display: inline-block;
+    position: relative
+}
+
+.dropdown1:hover,
+.dropdown2:hover,
+.dropdown3:hover,
+#ext-links a:hover,
+#hypo>span:hover,
+#mydropdown1>a:hover,
+#mydropdown2>a:hover,
+#mydropdown3>p:hover {
+    filter: grayscale(0%);
+}
+
+.dropdown3 {
+    position: absolute;
+    right: -2px;
+    top: 0
+}
+
+a#Github {
+    background-color: transparent;
+    border: none;
+    bottom: 10px;
+    cursor: pointer;
+    font-size: 1.5em;
+    opacity: .5;
+    outline: none;
+    position: fixed;
+    right: 41.5%;
+    text-decoration: none;
+    z-index: 99
+}
+
+a#backTop {
+    background-color: transparent;
+    border: none;
+    bottom: 60px;
+    cursor: pointer;
+    font-size: 1.5em;
+    opacity: .5;
+    outline: none;
+    position: fixed;
+    right: 41.5%;
+    text-decoration: none;
+    z-index: 99
+}
+
+a#backTop:hover,
+a#Github:hover {
+    font-size: 2em;
+    opacity: 1
+}
+
+body {
+    font: 300 16px 'Roboto Slab';
+    margin: 0;
+    padding: 0
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    text-align: center
+}
+
+h2,
+h3 {
+    margin: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 70%
+}
+
+iframe {
+    border: none;
+    filter: grayscale(100%)
+}
+
+iframe:hover {
+    filter: grayscale(0%);
+    filter: brightness(1)
+}
+
+img {
+    margin: auto;
+    width: 50vw
+}
+
+span.arrow {
+    writing-mode: vertical-lr
+}
+
+strong {
+    font-style: italic;
+    font-weight: 400
+}
+
+@media screen and (min-width: 300px) and (max-width: 780px) {
+
+    #ext-links,
+    #ext-frame,
+    .label {
+        display: none
+    }
+
+    #main {
+        width: calc(100% - 20px)
+    }
+
+    #navbar {
+        margin-right: 20px;
+        width: 97.5vw
+    }
+
+    .dropbtn1,
+    .dropbtn2,
+    .dropbtn3,
+    .dropbtn4 {
+        padding: 5px;
+        width: 3.5rem
+    }
+
+    .dropdown-content2 {
+        width: 15rem
+    }
+
+    a#backtop {
+        right: 2rem !important
+    }
+}
+
+@media screen and (min-width: 781px) and (max-width: 1250px) {
+    .dropdown-content2 {
+        width: 17.5rem
+    }
+
+    span.label {
+        display: none
+    }
+}

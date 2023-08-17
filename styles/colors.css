@@ -1,18 +1,17 @@
 /* 🔔 VERSION 5 -*/
 
-#brand>a:hover {
-    color: dimgrey;
-}
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:15:14 -0500 */
 
+#brand>a:hover,
 #brand>a {
     color: dimgrey
 }
 
 .spirit {
-    color: steelblue
+    color: #4682b4
 }
 
 h5 {
-    color: transparent;
-    border-bottom: 1px solid gainsboro;
+    border-bottom: 1px solid #dcdcdc;
+    color: transparent
 }

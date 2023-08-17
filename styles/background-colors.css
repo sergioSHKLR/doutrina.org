@@ -1,32 +1,23 @@
 /* 🔔 VERSION 5 -*/
 
-#brand>a {
-    background-color: #fff;
-    /*inop*/
-}
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:15:39 -0500 */
 
-#ext-iframe {
-    background-color: #fff;
+#brand>a,
+#ext-iframe,
+.dropbar,
+#ext-links {
+    background-color: #fff
 }
 
 .dropbtn1,
 .dropbtn2,
 .dropbtn3,
 .dropbtn4 {
-    background-color: transparent;
-    /* inop */
+    background-color: transparent
 }
 
 .dropdown-content1,
 .dropdown-content2,
 .dropdown-content3 {
-    background-color: #eee;
-}
-
-.dropbar {
-    background-color: #fff;
-}
-
-#ext-links {
-    background-color: #fff;
+    background-color: #eee
 }

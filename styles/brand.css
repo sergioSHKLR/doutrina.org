@@ -1,20 +1,21 @@
 /* 🔔 VERSION 5 -*/
 
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:13:16 -0500 */
 #brand {
-    position: relative;
-    top: 0;
-    left: 0;
     height: 40px;
+    left: 0;
+    position: relative;
+    top: 0
 }
 
-#brand > a {
+#brand>a {
     display: block;
+    font-size: 16px;
+    font-weight: 400;
+    height: 22px;
+    padding: 9px 10px;
     text-align: center;
     text-decoration: none;
     white-space: nowrap;
-    height: 22px;
-    width: 140px;
-    padding: 9px 10px;
-    font-size: 16px;
-    font-weight: 400;
+    width: 140px
 }

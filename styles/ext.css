@@ -1,5 +1,7 @@
 /* 🔔 VERSION 5 -*/
 
+/* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:17:53 -0500 */
+
 #ext-frame {
     height: 100vh;
     overflow: scroll;
@@ -34,7 +36,6 @@
     text-decoration: none
 }
 
-
 #ext-links a:any-link {
     display: inline-block;
     font-size: 16px;
@@ -57,12 +58,11 @@
     width: 100px
 }
 
-
 iframe {
     border: none;
-    filter: grayscale(100%);
+    filter: grayscale(100%)
 }
 
 iframe:hover {
-    filter: grayscale(0%);
+    filter: grayscale(0%)
 }
