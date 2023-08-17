@@ -1,0 +1,18 @@
+#brand {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 40px;
+}
+
+#brand > a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    height: 22px;
+    width: 140px;
+    padding: 9px 10px;
+    font-size: 16px;
+    font-weight: 400;
+}

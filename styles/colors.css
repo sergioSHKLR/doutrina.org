@@ -1,0 +1,9 @@
+#brand > a:hover {
+    color: dimgrey;
+}
+
+#brand > a {
+    color: dimgrey
+}
+
+

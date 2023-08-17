@@ -1,0 +1,12 @@
+@media (prefers-color-scheme: dark) {
+
+    * {
+        background-color: #444;
+        color: lightgrey;
+    }
+
+    iframe {
+        filter: brightness(25%);
+    }
+
+}

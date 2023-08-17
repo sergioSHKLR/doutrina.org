@@ -1,0 +1,27 @@
+
+#brand > a:hover {
+    filter: grayscale(0%);
+}
+
+
+.dropdown-content1 a:hover,
+.dropdown-content2 a:hover,
+.dropdown-content3 p:hover {
+    filter: grayscale(0%) ;
+}
+
+
+.dropdown1:hover,
+.dropdown2:hover,
+.dropdown3:hover,
+#ext-links a:hover,
+#hypo>span:hover,
+#mydropdown1>a:hover,
+#mydropdown2>a:hover,
+#mydropdown3>p:hover {
+    filter: grayscale(0%) ;
+}
+
+iframe:hover {
+    filter: brightness(1);
+}

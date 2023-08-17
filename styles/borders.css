@@ -1,0 +1,30 @@
+#brand>a {
+    border-bottom: 1px solid grey;
+    border-right: 1px solid grey;
+
+}
+
+
+#ext-frame {
+    border-left: 1px solid grey;
+}
+
+iframe {
+    border: none;
+}
+
+#wrapper {
+    border-bottom: 1px solid grey;
+}
+
+.dropbtn3 {
+    border-right: 1px solid grey;
+}
+
+#ext-frame {
+    border-left: 1px solid grey;
+}
+
+iframe {
+    border: none;
+}

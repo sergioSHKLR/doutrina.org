@@ -1,0 +1,30 @@
+#brand>a {
+    background-color: #fff;
+    /*inop*/
+}
+
+#ext-iframe {
+    background-color: #fff;
+}
+
+.dropbtn1,
+.dropbtn2,
+.dropbtn3,
+.dropbtn4 {
+    background-color: transparent;
+    /* inop */
+}
+
+.dropdown-content1,
+.dropdown-content2,
+.dropdown-content3 {
+    background-color: #eee;
+}
+
+.dropbar {
+    background-color: #fff;
+}
+
+#ext-links {
+    background-color: #fff;
+}

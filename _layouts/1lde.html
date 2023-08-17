@@ -5,15 +5,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width initial-scale=1">
 
-<!-- 🚨 HYPO -->
-<script src="https://hypothes.is/embed.js" defer async></script>
+<!-- 🚨 HYPO 
+<script src="https://hypothes.is/embed.js" defer async></script> -->
 
 <!-- 🚨 FAVICON -->
 <link rel="icon" type="image/png" href="./pwa/blue-book.png" sizes="512x512" />
 
 <!-- 🚨 PWA -->
 <link rel="manifest" href="./pwa/site.webmanifest" />
-<meta name="theme-color" content="#1d3030" />
+<meta name="theme-color" content="#333" />
  <title>{{ page.title }} | 💧 doutrina.org</title>
  
 <!-- 🚨 METADATA -->
@@ -29,24 +29,24 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
-
- </head>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400&display=swap" rel="stylesheet"></head>
+</head>
  <body>
 <header>
 
  <!-- 🚨 NAVBAR -->
 <div id="navbar">
-    <button id="brand">💧 doutrina.org</button>
+    <a href="./" id="brand">💧 doutrina.org</a>
     
     <!-- 🚨 D-DOWN 1 -->
     <div class="dropdown1">
-    <button class="dropbtn1" title="Livros"><span class="label">Livros </span>📚 <span class="arrow">›</span></button>
-    <div id="myDropdown1" class="dropdown-content1">
-    <a href="./1lde">📘 ESPÍRITOS</a>
-    <a href="./2ldm">📙 MÉDIUNS</a>
-    <a href="./3ese">📗 EVANGELHO</a>
-    <a href="./4ceu">📕 CÉU & INFERNO</a>
-    <a href="./5gen">📓 GÊNESE</a>
+    <button class="dropbtn1" title="Livros">📚 <span class="label">Livros </span><span class="arrow">›</span></button>
+    <div class="dropdown-content1">
+    <a href="./1lde">📘 Espíritos</a>
+    <a href="./2ldm">📙 Médiuns</a>
+    <a href="./3ese">📗 Evangelho</a>
+    <a href="./4ceu">📕 Céu & Inferno</a>
+    <a href="./5gen">📓 Gênese</a>
     </div>
     </div>
     
@@ -1306,10 +1306,10 @@
   
 <!-- 🚨 D-DOWN 3 -->
 <div class="dropdown3">
-    <button class="dropbtn3"><span class="label">Ajustes </span>🧰 <span class="arrow">›</span></button>
-    <div id="myDropdown3" class="dropdown-content3">
-    <button onclick="openFullscreen();">Tela Cheia 🖥️</button>
-    <button onclick="closeFullscreen();">Tela Normal 💻</button>
+    <button class="dropbtn3">🧰 <span class="label">Ajustes </span><span class="arrow">›</span></button>
+    <div class="dropdown-content3">
+    <button onclick="openFullscreen();">🖥️ Tela Cheia </button>
+    <button onclick="closeFullscreen();">💻 Tela Normal</button>
     <!--
     <button class="fontSize" id="increaseText" type="button" value="+1">Letra Maior 🅰️</button>
     <button class="fontSize" id="decreaseText" type="button" value="-1">Letra Menor <span style="font-size: 80%;">🅰️</span></button>
@@ -1319,27 +1319,32 @@
     
     <!-- 🚨 D-DOWN 4 -->
     <div class="dropdown4">
-    <button class="dropbtn4"><span class="label">Legenda </span>❓ <span class="arrow">›</span></button>
-    <div id="myDropdown4" class="dropdown-content4">
-    <p>Parte — <span class="emoji">🗂️</span></p>
-    <p>Capítulo — <span class="emoji">📑</span></p>
-    <p>Seção — <span class="emoji">📃</span></p>
-    <p>Item — <span class="emoji">#️⃣</span></p>
-    <p>Espírito — <span class="emoji">👻</span></p>
-    <p>Kardec — <span class="emoji">👴🏻</span></p>
-    <p>Bíblia — <span class="emoji">📜</span></p>
+    <button class="dropbtn4">❓ <span class="label">Legenda </span><span class="arrow">›</span></button>
+    <div class="dropdown-content4">
+    <p><span class="emoji">🗂️</span> = Parte</p>
+    <p><span class="emoji">📑</span> = Capítulo</p>
+    <p><span class="emoji">📃</span> = Seção</p>
+    <p><span class="emoji">#️⃣</span> = Item</p>
+    <p><span class="emoji">👻</span> = Espírito</p>
+    <p><span class="emoji">👴🏻</span> = Kardec</p>
+    <p><span class="emoji">📜</span> = Bíblia</p>
     </div>
     </div>
     </div>
     
     <!-- 🚨 EXT LINKS -->
     <div id="ext-links">
-    <button><a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia"><span class="label">Enciclopédia </span>🌐</a></button>
-    <button><a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário"><span class="label">Dicionário </span>📒</a></button>
-    <button><a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC"><span class="label">Bíblia ARC </span>📜</a></button>
+    <button><a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia">🌐 <span class="label">Enciclopédia </span></a></button>
+    <button><a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário">📒 <span class="label">Dicionário </span></a></button>
+    <button><a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC">📜 <span class="label">Bíblia ARC </span></a></button>
     
     <!-- <button><a target="ext" href="../videos/list-of-videos.html" title="Lista de videos"><span class="label">Videos LDS </span>🎬</a></button> -->
-    <button><a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato"><span class="label">Contato </span>💌</a></button>
+    <button><a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato">💌 <span class="label">Contato </span></a></button>
+
+    <div id="hypo">
+
+      <span title="selecione uma palavra para começar a criar anotações">📝 Anotar</span></div>
+
     </div>
     </header>
     

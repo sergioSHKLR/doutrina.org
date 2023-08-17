@@ -1,0 +1,36 @@
+#main {
+    height: 100vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding: 20px;
+    position: fixed;
+    scroll-behavior: smooth;
+    top: 40px;
+    left: 0px;
+    width: calc(60% - 40px);
+    z-index: 0;
+
+}
+
+#wrapper {
+    border-bottom: 1px solid #dcdcdc;
+    display: inline-block;
+    height: 40px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 100%
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+    font-size: 16px;
+}
+
+span.arrow {
+    writing-mode: vertical-lr
+}

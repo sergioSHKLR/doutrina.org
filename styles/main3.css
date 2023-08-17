@@ -23,6 +23,17 @@ h6 {
   text-align: center;
 }
 
+h2 {
+  border-top: 1px solid lightgrey;
+  padding-top: 15px !important
+}
+
+h5 {
+  color: transparent;
+  border-bottom: 1px solid lightgrey;
+}
+
+
 hr {
   border: 1px solid #dcdcdc;
   margin-top: -1em
@@ -45,7 +56,7 @@ ol {
 
 ol li::marker,
 .sub-q::first-letter {
-  font-weight: 700
+  font-weight: 400
 }
 
 ol>ol {
@@ -89,7 +100,7 @@ p.kardec::before {
 
 p.spirit {
   border-left: 3px solid #1e90ff;
-  color: #000
+  color: cornflowerblue !important
 }
 
 p.spirit::before {
@@ -111,18 +122,19 @@ sup {
 }
 
 table {
-  background: url(../images/old-paper.jpg) no-repeat center;
-  background-size: cover;
   border: 1px solid #dcdcdc;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: auto;
   width: 97.5%
 }
 
-th {font-weight: 400;}
+th {
+  font-weight: 400;
+}
 
 strong {
-  font-style: italic; font-weight: 300;
+  font-style: italic;
+  font-weight: 300;
 }
 
 th,
@@ -133,14 +145,10 @@ td {
 }
 
 @media (prefers-color-scheme: dark) {
-  table {
-    background: url(../images/old-paper-inverted.jpg) no-repeat center fixed;
-    background-size: cover
-  }
-}
 
-#main > a:any-link {
-  text-decoration-line: underline;
-  text-decoration: dashed;
-  text-decoration: dimgrey;
+  #main>a:any-link {
+    text-decoration-line: underline;
+    text-decoration: dashed;
+    text-decoration: dimgrey;
+  }
 }

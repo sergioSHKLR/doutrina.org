@@ -10,8 +10,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20%;
-    width: 80vw;
-    word-spacing: .75rem
+    word-spacing: .75rem;
+    font-weight: 300;
 }
 
 footer {
@@ -42,21 +42,34 @@ th {
 }
 
 td.links a {
-    color: grey !important;
+    color: grey ;
     filter: grayscale(100%);
-    font: 200 20px 'Roboto Slab';
+    font: 300 16px 'Roboto Slab' !important;
     text-align: center;
     text-decoration: none
 }
 
 td.links a:hover {
-    color: #000 !important;
-    filter: grayscale(0%)
+    color: #000 ;
+    filter: grayscale(0%);
 }
 
 @media (prefers-color-scheme: dark) {
     html {
-        background: url(../images/old-paper-inverted.jpg) no-repeat center fixed;
+        background: url(../images/old-paper-dark.jpg) no-repeat center fixed;
         background-size: cover
     }
+
+    body {
+        color: lightgrey;
+    }
+
+    td.links a {
+        color: lightgrey 
+    }
+
+    td.links a:hover {
+        color: white;
+    }
+
 }

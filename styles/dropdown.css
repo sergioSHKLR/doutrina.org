@@ -1,0 +1,84 @@
+.dropdown1,
+.dropdown2,
+.dropdown3 {
+    display: inline-block;
+    position: relative;
+}
+
+.dropdown3 {
+    position: absolute;
+    top: 0;
+    right: -2px;
+}
+
+.dropdown1 a,
+.dropdown2 a,
+.dropdown3 a {
+    display: block;
+    font-size: 16px;
+    height: 23px;
+    padding: 9px 10px;
+    text-align: left;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 120px;
+}
+
+.dropdown1 a,
+.dropdown2 a {cursor: pointer;}
+
+.dropdown-content1 {
+    display: none;
+    left: 0;
+    min-width: 160px;
+    overflow: auto;
+    position: absolute;
+    text-align: left;
+    top: 40px;
+    z-index: 1;
+}
+
+.dropdown-content1 a,
+.dropdown-content2 a,
+.dropdown-content3 p {
+    display: block;
+}
+
+.dropdown-content2 {
+    display: none;
+    left: 0;
+    overflow: auto;
+    position: absolute;
+    top: 40px;
+    z-index: 1;
+    width: 360px;
+    overflow: scroll;
+    max-height: 80vh;
+}
+
+.dropdown-content3 {
+    display: none;
+    left: 0;
+    min-width: 160px;
+    overflow: auto;
+    padding: 0 10px;
+    position: absolute;
+    text-align: left;
+    top: 40px;
+    z-index: 1
+}
+
+
+.show {
+    display: block
+}
+
+#dropbar {
+    display: flex;
+    height: 40px;
+    left: 160px;
+    position: absolute;
+    top: 0;
+    width: calc(60% - 160px);
+    z-index: 1;
+}

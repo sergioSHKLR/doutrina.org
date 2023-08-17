@@ -1,0 +1,73 @@
+#brand>a {
+    filter: grayscale(100%);
+}
+
+#brand>a:hover {
+    filter: grayscale(0%);
+}
+
+
+.dropdown1 a,
+.dropdown2 a,
+.dropdown3 a {
+    filter: grayscale(100%);
+}
+
+.dropdown1:hover,
+.dropdown2:hover,
+.dropdown3:hover,
+#ext-links a:hover,
+#hypo>span:hover,
+#mydropdown1>a:hover,
+#mydropdown2>a:hover,
+#mydropdown3>p:hover {
+    filter: grayscale(0%);
+}
+
+#myDropdown3>p {
+    filter: grayscale(0%);
+}
+
+#myDropdown2>a {
+    filter: grayscale(0%);
+}
+
+#myDropdown1 a {
+    filter: grayscale(0%);
+}
+
+#hypo>span {
+    filter: grayscale(100%);
+}
+
+iframe {
+    border: none;
+    filter: grayscale(100%);
+}
+
+iframe:hover {
+    filter: grayscale(0%);
+}
+
+.dropdown-content1,
+.dropdown-content2,
+.dropdown-content3 {
+    filter: grayscale(0%);
+}
+
+a:hover.dropbtn1,
+a:hover.dropbtn2,
+a:hover.dropbtn3 {
+    filter: grayscale(0%)
+}
+
+#hypo>span {
+    filter: grayscale(100%);
+}
+
+iframe {
+    filter: grayscale(100%);
+}
+
+#ext-links > a {filter: grayscale(100%) ;}
+
