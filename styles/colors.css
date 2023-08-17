@@ -1,9 +1,16 @@
-#brand > a:hover {
+#brand>a:hover {
     color: dimgrey;
 }
 
-#brand > a {
+#brand>a {
     color: dimgrey
 }
 
+.spirit {
+    color: steelblue
+}
 
+h5 {
+    color: transparent;
+    border-bottom: 1px solid gainsboro;
+}

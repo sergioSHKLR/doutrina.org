@@ -34,3 +34,86 @@ body {
 span.arrow {
     writing-mode: vertical-lr
 }
+
+strong {font-style: italic; font-weight: 400;}
+
+h1, h2, h3, h4, h5, h6 {font-weight: 400; text-align: center;}
+
+img {width: 50vw; margin: auto;}
+
+h2, h3 {
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a#backTop {
+    background-color: transparent;
+    border: none;
+    bottom: 60px;
+    cursor: pointer;
+    font-size: 1.5em;
+    opacity: .5;
+    outline: none;
+    position: fixed;
+    right: 41.5%;
+    text-decoration: none;
+    z-index: 99
+  }
+  
+  a#backTop:hover {
+    font-size: 2em;
+    opacity: 1
+  }
+
+  a#Github {
+    background-color: transparent;
+    border: none;
+    bottom: 10px;
+    cursor: pointer;
+    font-size: 1.5em;
+    opacity: .5;
+    outline: none;
+    position: fixed;
+    right: 41.5%;
+    text-decoration: none;
+    z-index: 99
+  }
+  
+  a#Github:hover {
+    font-size: 2em;
+    opacity: 1
+  }
+
+  #main > a {
+    color: #333;
+    text-decoration-color: #333 !important;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+  }
+  
+  td > a {
+    color: #333;
+    text-decoration-color: #333 !important;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+  }
+
+  #main > a:hover {
+    color: blue;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+  }
+
+  td > a:hover {
+    color: blue;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .2em
+  }

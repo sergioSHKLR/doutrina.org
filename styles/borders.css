@@ -28,3 +28,12 @@ iframe {
 iframe {
     border: none;
 }
+
+h2, h3 {
+    border-top: 1px solid gainsboro;
+}
+
+
+h5 {
+    border-bottom: 1px solid gainsboro;
+}
