@@ -1,5 +1,5 @@
 ---
-layout: new-1lde
+layout: 1lde
 title: LDE
 ---
 
