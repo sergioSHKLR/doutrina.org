@@ -54,7 +54,8 @@ a#Github {
     position: fixed;
     right: 41.5%;
     text-decoration: none;
-    z-index: 99
+    z-index: 99;
+    filter: grayscale(100%)
 }
 
 a#backTop {
@@ -68,13 +69,15 @@ a#backTop {
     position: fixed;
     right: 41.5%;
     text-decoration: none;
-    z-index: 99
+    z-index: 99;
+    filter: grayscale(100%)
 }
 
 a#backTop:hover,
 a#Github:hover {
     font-size: 2em;
-    opacity: 1
+    opacity: 1;
+    filter: grayscale(0%);
 }
 
 body {
@@ -114,3 +117,12 @@ strong {
     font-style: italic;
     font-weight: 400
 }
+
+#main {
+    background-image: url("../images/old-paper.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: saturate(.5)
+  }

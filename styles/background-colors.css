@@ -2,22 +2,22 @@
 
 /* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:15:39 -0500 */
 
-#brand>a,
+#brand,
 #ext-iframe,
 .dropbar,
-#ext-links {
-    background-color: #fff
+#ext-links, #hypo, #navbar {
+    background-color: #222;
 }
 
 .dropbtn1,
 .dropbtn2,
 .dropbtn3,
 .dropbtn4 {
-    background-color: transparent
+    background-color: #222
 }
 
 .dropdown-content1,
 .dropdown-content2,
 .dropdown-content3 {
-    background-color: #eee
+    background-color: #333
 }

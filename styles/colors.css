@@ -4,14 +4,17 @@
 
 #brand>a:hover,
 #brand>a {
-    color: dimgrey
+    color: grey
 }
+
+#navbar * {color: lightgrey}
 
 .spirit {
     color: #4682b4
 }
 
 h5 {
-    border-bottom: 1px solid #dcdcdc;
     color: transparent
 }
+
+span.label {color: grey }

@@ -11,29 +11,81 @@
     }
 
     #main {
-        width: calc(100% - 20px)
+        width: calc(100% - 60px)
     }
 
-    #navbar {
-        margin-right: 20px;
-        width: 97.5vw
+    a#backTop {
+        right: 30px;
+        bottom: 90px;
     }
 
-    .dropbtn1,
-    .dropbtn2,
-    .dropbtn3,
-    .dropbtn4 {
-        padding: 5px;
-        width: 3.5rem
+    a#Github {
+        right: 30px;
+        bottom: 40px;
     }
 
-    .dropdown-content2 {
-        width: 15rem
+    #brand>a {
+        width: 30px;
+        margin: 0;
     }
 
-    a#backtop {
-        right: 2rem !important
+    #brand {
+        width: 30px;
+        margin: 0;
     }
+
+    #dropbar {
+        left: 30px;
+    }
+
+    a.dropbtn1 {
+        left: 30px;
+        width: 30px;
+    }
+
+    a.dropbtn2 {
+        left: 60px;
+        width: 30px;
+    }
+
+    a.dropbtn3 {
+        left: 90px;
+        width: 30px;
+    }
+
+    #main {
+        background-image: none;
+    }
+
+    div#navbar {
+        width: calc(100% - 40px);
+        z-index: 0;
+    }
+
+    div#hypo {
+        width: 30px;
+    }
+
+    div#navbar * {
+        filter: grayscale(0%);
+    }
+
+    a#backTop {
+        font-size: 200%;
+    }
+
+    a#Github {
+        font-size: 200%;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .spirit * {
+        color: lightskyblue;
+    }
+
 }
 
 @media screen and (min-width: 781px) and (max-width: 1250px) {
@@ -44,4 +96,6 @@
     span.label {
         display: none
     }
+
+
 }

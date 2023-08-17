@@ -33,7 +33,7 @@
 
 #ext-links a {
     display: inline-block;
-    text-decoration: none
+    text-decoration: none;
 }
 
 #ext-links a:any-link {
@@ -55,7 +55,8 @@
     text-decoration: none;
     top: 0;
     white-space: nowrap;
-    width: 100px
+    width: 100px;
+    border-bottom: 1px solid grey;
 }
 
 iframe {

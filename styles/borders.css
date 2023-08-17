@@ -2,8 +2,7 @@
 
 /* CSSTidy 1.7.3: Wed, 16 Aug 2023 20:13:49 -0500 */
 
-#brand>a {
-    border-bottom: 1px solid grey;
+#brand {
     border-right: 1px solid grey
 }
 
@@ -31,4 +30,10 @@ h5 {
 iframe {
     border: none;
     border: none
+}
+
+#main {border-top: 1px solid grey;}
+
+h5 {
+    border-bottom: 1px solid #dcdcdc;
 }

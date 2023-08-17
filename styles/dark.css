@@ -11,4 +11,16 @@
     iframe {
         filter: brightness(25%)
     }
+
+    a:any-link {
+        color: lightgrey;
+    }
+
+    div#hypo {
+        background-color: #444;
+    }
+
+    #main {
+        background-image: none;
+    }
 }

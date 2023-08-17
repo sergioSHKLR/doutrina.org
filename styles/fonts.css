@@ -1,0 +1,12 @@
+#navbar * {font-family: 'Inconsolata'}
+
+
+span.label {
+    font-weight: 400 !important
+}
+
+.dropdown-content1,
+.dropdown-content2,
+.dropdown-content3 {
+    font-weight: 400 !important
+}

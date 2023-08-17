@@ -5,8 +5,8 @@
   "display": "fullscreen",
   "start_url": "/",
   "short_name": "doutrina",
-  "theme_color": "#1d3030",
-  "description": "plataforma de estudo da Filosofia Espírita.",
+  "theme_color": "#333",
+  "description": "plataforma de estudos integrados.",
   "orientation": "landscape-primary",
   "background_color": "#000",
   "display_override": [
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "name": "ESPÍRITOS",
-      "url": "/lde",
+      "name": "Espíritos",
+      "url": "/1lde",
       "description": "📘 O Livro dos Espíritos",
       "icons": [
         {
@@ -74,8 +74,8 @@
       ]
     },
     {
-      "name": "MÉDIUNS",
-      "url": "/ldm",
+      "name": "Médiuns",
+      "url": "/2ldm",
       "description": "📙 O Livro dos Médiuns",
       "icons": [
         {
@@ -87,8 +87,8 @@
       ]
     },
     {
-      "name": "EVANGELHO",
-      "url": "/ese",
+      "name": "Evangelho",
+      "url": "/3ese",
       "description": "📗 O Evangelho segundo o Espiritismo",
       "icons": [
         {
@@ -100,8 +100,8 @@
       ]
     },
     {
-      "name": "CÉU & INFERNO",
-      "url": "/ceu",
+      "name": "Céu & Inferno",
+      "url": "/4ceu",
       "description": "📕 O Céu e o Inferno",
       "icons": [
         {
@@ -113,8 +113,8 @@
       ]
     },
     {
-      "name": "GÊNESE",
-      "url": "/gen",
+      "name": "Gênese",
+      "url": "/5gen",
       "description": "📓 A Gênese",
       "icons": [
         {

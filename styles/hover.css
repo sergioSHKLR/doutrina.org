@@ -20,3 +20,7 @@
 iframe:hover {
     filter: brightness(1)
 }
+
+span.label {
+    font-weight: 500;
+}
