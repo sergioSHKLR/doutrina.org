@@ -12,7 +12,9 @@
     scroll-behavior: smooth;
     top: 40px;
     width: calc(60% - 40px);
-    z-index: 0
+    z-index: 0;
+    letter-spacing: .05rem;
+    font-weight: 300 !important;
 }
 
 #main>a,
