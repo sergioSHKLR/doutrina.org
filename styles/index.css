@@ -1,37 +1,24 @@
 /* CSSTidy 1.7.3: Wed, 16 Aug 2023 00:55:49 -0500 */
-.cursive {
-    font: 30px 'Homemade Apple', cursive;
-    margin: auto;
-    text-align: center;
+html {
+    background: url(../images/old-paper.jpg) no-repeat center fixed;
+    background-size: cover
 }
 
 body {
-    color: dimgrey;
+    color: #333;
     line-height: 2;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20%;
-    word-spacing: .75rem;
     font-weight: 300;
 }
 
-footer {
-    bottom: 0px;
-    color: dimgrey;
-    font: 10px sans-serif;
-    word-spacing: normal;
+.cursive {
+    font: 28px 'Homemade Apple', cursive;
+    margin: auto;
+    text-align: center;
+    word-spacing: .75rem;
 
-}
-
-footer a {
-    color: dimgrey;
-    text-decoration: none;
-    word-spacing: normal;
-}
-
-html {
-    background: url(../images/old-paper.jpg) no-repeat center fixed;
-    background-size: cover
 }
 
 table,
@@ -40,58 +27,24 @@ td,
 th {
     border: none;
     margin: auto;
-    width: 80vw
+    width: 80vw;
+    word-spacing: .5rem;
+
 }
 
 td.links a {
-    color: grey;
     filter: grayscale(100%);
-    font: 300 16px 'Roboto Slab' !important;
+    font: 300 16px 'Roboto Slab';
     text-align: center;
-    text-decoration: none
+    text-decoration: none;
 }
 
 td.links a:hover {
-    color: #000;
     filter: grayscale(0%);
 }
 
-span,
-a {
-    word-spacing: unset;
-}
 
-.left {
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    word-spacing: normal;
-}
-
-.right {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    word-spacing: normal;
-}
+.nobreak {white-space: nowrap} 
 
 
-@media (prefers-color-scheme: dark) {
-    html {
-        background: url(../images/old-paper-dark.jpg) no-repeat center fixed;
-        background-size: cover
-    }
-
-    body {
-        color: lightgrey;
-    }
-
-    td.links a {
-        color: lightgrey
-    }
-
-    td.links a:hover {
-        color: white;
-    }
-
-}
+@media (prefers-color-scheme: dark) {}
