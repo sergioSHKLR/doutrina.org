@@ -1,0 +1,211 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <!-- Meta tags -->
+ <meta charset="utf-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+ <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+ <meta name="viewport" content="width=device-width" />
+
+ <!-- Chrome, Firefox OS and Opera mobile address bar theming -->
+ <meta name="theme-color" content="#000000">
+ <!-- Windows Phone mobile address bar theming -->
+ <meta name="msapplication-navbutton-color" content="#000000">
+ <!-- iOS Safari mobile address bar theming -->
+ <meta name="apple-mobile-web-app-status-bar-style" content="#000000">
+<script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
+<!-- 🚨 HYPO -->
+<script src="https://hypothes.is/embed.js" defer async></script>
+ <!-- SEO -->
+ <meta name="description" content="Halfmoon is a responsive front-end framework that is great for building dashboards and tools. Built-in dark mode, full customizability using CSS variables (around 1,500 variables), optional JavaScript library (no jQuery), Bootstrap like classes, and cross-browser compatibility (including IE11).">
+ <meta name="author" content="Halfmoon">
+ <meta name="keywords" content="Halfmoon, HTML, CSS, JavaScript, CSS Framework, dark mode, dark-mode, darkmode, dark theme, dark-theme, darktheme, Bootstrap, Foundation, Bulma, dashboard, UI, UI framework, user interface, design, design system">
+
+ <!-- Open graph -->
+ <meta property="og:type" content="article">
+ <meta property="og:url" content="https://www.gethalfmoon.com/page-sections-demo/?sidebar-type=full-height%20overlayed-sm-and-down">
+ <meta property="og:title" content="Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools">
+ <meta property="og:description" content="Halfmoon is a responsive front-end framework that is great for building dashboards and tools. Built-in dark mode, full customizability using CSS variables (around 1,500 variables), optional JavaScript library (no jQuery), Bootstrap like classes, and cross-browser compatibility (including IE11).">
+ <meta property="og:image" content="https://res.cloudinary.com/halfmoon-ui/image/upload/v1599770364/halfmoon-og-image-1.1.0_uofgby.png">
+ <meta name="twitter:card" content="summary_large_image">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ <meta property="fb:app_id" content="2560228000973437">
+ <meta name="twitter:site" content="@halfmoonui">
+
+ <!-- Fav and Title -->
+ <link rel="icon" href="/static/halfmoon/img/halfmoon-fav-alt.png">
+ <title>Page sections demo - Halfmoon</title>
+
+ <!-- Halfmoon -->
+ <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/css/halfmoon.min.css" rel="stylesheet" />
+ <!-- Font awesome -->
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+ <!-- Roboto font (Used when Apple system fonts are not available) -->
+ <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+ <!-- Documentation styles -->
+ <link href="/static/site/css/documentation-styles-4.css" rel="stylesheet">
+
+ <style>iframe:hover {filter: unset};</style>
+</head>
+
+<body class="dark-mode with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true" data-sidebar-shortcut-enabled="true">
+
+ <!-- Page wrapper start -->
+ <div id="page-wrapper" class="page-wrapper with-navbar with-sidebar with-navbar-fixed-bottom" data-sidebar-type="full-height overlayed-sm-and-down">
+
+ <!-- Sticky alerts -->
+ <div class="sticky-alerts"></div>
+
+ <!-- Navbar start -->
+ <nav class="navbar">
+ <div class="navbar-content">
+ <button id="toggle-sidebar-btn" class="btn btn-action" type="button" onclick="halfmoon.toggleSidebar()">
+ <i class="fa fa-bars" aria-hidden="true"></i>
+ </button>
+ </div>
+ <a href="#" class="navbar-brand ml-10 ml-sm-20">
+<i class="fa-solid fa-droplet" style="color: dodgerblue;"></i>&nbsp;&nbsp; <span class="d-none d-sm-flex">doutrina.org</span>
+ </a>
+ <div class="navbar-content ml-auto">
+ <button class="btn btn-action mr-5" type="button" onclick="halfmoon.toggleDarkMode()">
+ <i class="fa-solid fa-circle-half-stroke"></i></i>
+ <span class="sr-only">Toggle dark mode</span>
+ </button>
+ <a href="#" class="btn" role="button"><i class='fab fa-github' style="color: #5352ed;"></i></a>&nbsp;
+ <span class="btn" role="button"><i class='fa-solid fa-marker' style="color: gold;"></i>&nbsp;<i class="fa-solid fa-caret-right"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </div>
+ </nav>
+ <!-- Navbar end -->
+
+ <!-- Sidebar overlay -->
+ <div class="sidebar-overlay" onclick="halfmoon.toggleSidebar()"></div>
+
+ <!-- Sidebar start -->
+ <div class="sidebar">
+ <div class="sidebar-menu">
+ <div class="sidebar-content">
+ <input type="text" class="form-control" placeholder="Search">
+ <div class="mt-10 font-size-12">
+ Press <kbd>/</kbd> to focus
+ </div>
+ </div>
+ <h5 class="sidebar-title">Getting started</h5>
+ <div class="sidebar-divider"></div>
+ <a href="#" class="sidebar-link sidebar-link-with-icon active">
+ <span class="sidebar-icon">
+ <i class="fa fa-code" aria-hidden="true"></i>
+ </span>
+ Installation
+ </a>
+ <a href="#" class="sidebar-link sidebar-link-with-icon">
+ <span class="sidebar-icon">
+ <i class="fa fa-terminal" aria-hidden="true"></i>
+ </span>
+ CLI commands
+ </a>
+ <br />
+ <h5 class="sidebar-title">Components</h5>
+ <div class="sidebar-divider"></div>
+ <a href="#" class="sidebar-link sidebar-link-with-icon">
+ <span class="sidebar-icon">
+ <i class="fa fa-folder-open-o" aria-hidden="true"></i>
+ </span>
+ File explorer
+ </a>
+ <a href="#" class="sidebar-link sidebar-link-with-icon">
+ <span class="sidebar-icon">
+ <i class="fa fa-table" aria-hidden="true"></i>
+ </span>
+ Spreadsheet
+ </a>
+ <a href="#" class="sidebar-link sidebar-link-with-icon">
+ <span class="sidebar-icon">
+ <i class="fa fa-map-o" aria-hidden="true"></i>
+ </span>
+ Map
+ </a>
+ <a href="#" class="sidebar-link sidebar-link-with-icon">
+ <span class="sidebar-icon">
+ <i class="fa fa-commenting-o" aria-hidden="true"></i>
+ </span>
+ Messenger
+ </a>
+ </div>
+ </div>
+ <!-- Sidebar end -->
+
+ <!-- Content wrapper start -->
+ <div class="content-wrapper">
+ <div class="container-fluid">
+ <div class="row row-eq-spacing-lg">
+ <div class="col-lg-9">
+ <div class="content">
+ <h1 class="content-title">
+ </h1>
+ 
+<!-- 🚨 EXT-LINKS -->
+
+
+ <!-- 🚨 MAIN -->
+ <div id="main">
+ 
+
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <!-- Content wrapper end -->
+
+
+    
+ <div id="ext-links" class="btn-group" role="group" aria-label="Basic example"style="position: absolute; top:0; right: 0" >
+    <button class="btn" type="button"><a target="ext" href="https://pt.m.wikipedia.org/wiki/Allan_Kardec" title="Enciclopédia"><i class="fa-solid fa-globe"></i><span
+    class="label"> Enciclopédia</span></a></button>
+    <button class="btn" type="button"><a target="ext" href="https://pt.m.wiktionary.org/wiki/espiritismo" title="Dicionário"></span><i class="fa-solid fa-book"></i><span
+    class="label"> Dicionário</a></button>
+    <button class="btn" type="button"><a target="ext" href="https://www.bible.com/pt/bible/212/MAT.5.ARC" title="Bíblia ARC"><i class="fa-solid fa-cross"></i><span
+    class="label">
+    Bíblia ARC</span></a></button>
+    <button class="btn" type="button"><a target="ext" href="https://forms.gle/MTZadTiqGqes63m49" title="Contato"><i class="fa-solid fa-envelope"></i><span class="label">
+    Contato</span></a></button></div>
+   
+    <iframe name="ext" id="ext-iframe" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" title="painel complementar" style="height: 100vh; width: 40vw; position: fixed; right: 135px; top: 10px;"></iframe>
+    </div> 
+
+ </div>
+ <!-- Page wrapper end -->
+
+ <!-- Halfmoon JS -->
+ <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
+ <script type="text/javascript">
+ // Toasts a default alert
+ function toastAlert() {
+ var alertContent = "This is a default alert with <a href='#' class='alert-link'>a link</a> being toasted.";
+ // Built-in function
+ halfmoon.initStickyAlert({
+ content: alertContent,
+ title: "Toast!"
+ })
+ }
+
+ // Toggles the parent's dark mode (if this page is loaded in an iFrame) 
+ function parentToggleDarkmode() {
+ window.parent.toggleDarkModeFromChild();
+ }
+
+ // Override the dark mode toggle function to call the parent's one
+ // Again, this is for the case where the page is loaded in an iFrame
+ if (window !== window.parent) {
+ halfmoon.toggleDarkMode = parentToggleDarkmode;
+ }
+ </script>
+</body>
+
+</html>
