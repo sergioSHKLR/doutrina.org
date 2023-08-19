@@ -21,9 +21,9 @@ title: LDE
 |
 | Tradução de [Guillon Ribeiro][3]{:target="ext"} |
 |
-| Baseado no original [ISBN 978-85-7328-728-8][4]{:target="ext"} |
+| Baseado no original [ISBN 978-85-7328-728-8][4]{:target="_blank"} |
 | Modificado para o consumo digital por Sergio de |
-| [⭕ shklr.org][5] |
+| [⭕ shklr.org][5]{:target="_blank"} |
 |  |
 
 ### 📑 Introdução  {#lde-0-02}
