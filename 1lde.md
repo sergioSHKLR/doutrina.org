@@ -14,7 +14,7 @@ title: LDE
 | Filosofia Espiritualista |
 |  |
 | :---: |
-| [📘 O LIVRO DOS ESPÍRITOS](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos){:target="ext"} |
+| [📘 O LIVRO DOS ESPÍRITOS][1]{:target="ext"} |
 |
 | Princípios da Doutrina Espírita |
 |
@@ -28,6 +28,8 @@ title: LDE
 | Modificado para o consumo digital por Sergio de |
 | [⭕ shklr.org](https://shklr.org) |
 |  |
+
+[1]: https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos
 
 ### 📑 Introdução  {#lde-0-02}
 
