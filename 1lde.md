@@ -9,10 +9,7 @@ title: LDE
 
 ### 📃 Folha de rosto  {#lde-0-01}
 
-
-|  |
 | Filosofia Espiritualista |
-|  |
 | :---: |
 | [📘 O LIVRO DOS ESPÍRITOS][1]{:target="ext"} |
 |
@@ -20,16 +17,14 @@ title: LDE
 |
 | Sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns. |
 |
-| por [**Allan Kardec**](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
+| por [**Allan Kardec**][2]{:target="ext"}. |
 |
-| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"} |
+| Tradução de [Guillon Ribeiro][3]{:target="ext"} |
 |
-| Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="ext"} |
+| Baseado no original [ISBN 978-85-7328-728-8][4]{:target="ext"} |
 | Modificado para o consumo digital por Sergio de |
-| [⭕ shklr.org](https://shklr.org) |
+| [⭕ shklr.org][5] |
 |  |
-
-[1]: https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos
 
 ### 📑 Introdução  {#lde-0-02}
 
@@ -10306,3 +10301,9 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 [^26]: N.E.: Ver 👉 Nota explicativa.
 
 ---
+
+[1]: https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos
+[2]: https://pt.m.wikipedia.org/wiki/Allan_Kardec
+[3]: https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro
+[4]: http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf
+[5]: https://shklr.org
