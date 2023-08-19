@@ -96,12 +96,12 @@ Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e i
 
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
 
->Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
+>:ghost: Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 {:.spirit}
 
 Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:
 
->Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.
+>:ghost: Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.
 {:.spirit}
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
