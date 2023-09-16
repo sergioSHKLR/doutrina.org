@@ -23,8 +23,29 @@ button {
   color: #555
 }
 
+#ext-top a:any-link {
+  line-height: 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: .1px solid #aaa;
+  font-family: 'Roboto';
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  margin: 6px;
+  padding: 6px 8px;
+  vertical-align: middle;
+  color: #555;
+  text-decoration: none;
+  background-color: #b3dbff;
+}
+
+#ext-top a:any-link:hover {
+background-color: #99cfff;
+}
+
 button:focus {
-  outline: 3px solid crimson;
+  outline: 3px solid dodgerblue;
 }
 
 #side-top button {

@@ -6,7 +6,7 @@
   "start_url": "/",
   "short_name": "doutrina",
   "theme_color": "#4ec1f5",
-  "description": "Plataforma de estudo da Filosofia Espírita.",
+  "description": "Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.",
   "orientation": "landscape-primary",
   "background_color": "#000",
   "related_applications": [],
@@ -28,7 +28,7 @@
     }
   },
   "scope_extensions": [
-    {"origin": "sergioshklr.github.io/boot-leg/*"}
+    {"origin": "doutrina.org/*"}
   ],
   "protocol_handlers": [
     {
@@ -56,13 +56,13 @@
     },  
   "icons": [
     {
-      "src": "https://sergioshklr.github.io/boot-leg/pwa/maskable.png",
+      "src": "https://doutrina.org/pwa/maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://sergioshklr.github.io/boot-leg/pwa/favicon.png",
+      "src": "https://doutrina.org/pwa/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -70,7 +70,7 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshot-pwa.png",
+      "src": "images/screenshot-pwa.png",
       "sizes": "1617x1012",
       "type": "image/png"
     }
@@ -90,7 +90,7 @@
       "description":"voltar à página inicial",
       "icons": [
         {
-          "src": "https://sergioshklr.github.io/boot-leg/pwa/home.png",
+          "src": "https://doutrina.org/pwa/home.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -103,7 +103,7 @@
       "description":"📘 O Livro dos Espíritos",
       "icons": [
         {
-          "src": "https://sergioshklr.github.io/boot-leg/pwa/blue-book.png",
+          "src": "https://doutrina.org/pwa/blue-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -116,7 +116,7 @@
       "description":"📙 O Livro dos Médiuns",
       "icons": [
         {
-          "src": "https://sergioshklr.github.io/boot-leg/pwa/orange-book.png",
+          "src": "https://doutrina.org/pwa/orange-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -129,7 +129,7 @@
       "description":"📗 O Evangelho segundo o Espiritismo",
       "icons": [
         {
-          "src": "https://sergioshklr.github.io/boot-leg/pwa/green-book.png",
+          "src": "https://doutrina.org/pwa/green-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -142,7 +142,7 @@
       "description":"📕 O Céu e o Inferno",
       "icons": [
         {
-          "src": "https://sergioshklr.github.io/boot-leg/pwa/red-book.png",
+          "src": "https://doutrina.org/pwa/red-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -155,7 +155,7 @@
       "description":"📓 A Gênese",
       "icons": [
         {
-          "src": "https://sergioshklr.github.io/boot-leg/pwa/black-notebook.png",
+          "src": "https://doutrina.org/pwa/black-notebook.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
