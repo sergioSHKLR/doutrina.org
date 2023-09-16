@@ -1,0 +1,290 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+button {
+  line-height: 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: .1px solid #aaa;
+  font-family: 'Roboto';
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  margin: 6px;
+  padding: 6px 8px;
+  vertical-align: middle;
+  color: #555
+}
+
+button:focus {
+  outline: 3px solid crimson;
+}
+
+#side-top button {
+  background-color: #222;
+  border-color: #555;
+}
+
+#side-top button:hover {
+  background-color: #333;
+}
+
+#content-top button {
+  background-color: #d9d9d9;
+}
+
+#content-top button:hover {
+  background-color: #cccccc;
+}
+
+#ext-top button {
+  background-color: #b3dbff;
+}
+
+#ext-top button:hover {
+  background-color: #99cfff;
+}
+
+input {
+  background-color: white;
+  line-height: 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #b3dbff;
+  margin: 8px;
+}
+
+#side-wrapper {
+  position: fixed;
+  top: 0;
+  width: 300px;
+  height: 100vh;
+  color: white;
+  display: none;
+}
+
+#side-top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #222;
+  color: white;
+  line-height: 50px;
+  font-size: 16px;
+  padding-left: 0px;
+  overflow: auto;
+  white-space: nowrap;
+  display: inline-flex;
+}
+
+#side {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: 100%;
+  background-color: #333;
+  font-family: sans-serif;
+  overscroll-behavior: contain;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#side li>a:any-link {
+  color: white;
+  text-decoration: none;
+}
+
+#content-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: calc(100% - 20px);
+  height: 100vh;
+}
+
+#content-top {
+  position: fixed;
+  top: 0;
+  width: calc(100% - 20px);
+  height: 50px;
+  background-color: #e6e6e6;
+  overflow: auto;
+  white-space: nowrap;
+  display: inline-flex;
+  overflow-y: hidden;
+}
+
+#content {
+  position: absolute;
+  top: 50px;
+  width: calc(100% - 20px);
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 0 10px 0 10px;
+  overscroll-behavior: contain;
+  scroll-behavior: smooth;
+}
+
+#ext-wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 40%;
+  height: 100vh;
+  margin-right: 20px;
+  background-color: #cce7ff;
+  border-left: 1px solid gainsboro;
+  display: none;
+}
+
+#ext-top {
+  position: fixed;
+  top: 0;
+  width: calc(100vw * .4);
+  height: 50px;
+  background-color: #cce7ff;
+  overflow: auto;
+  white-space: nowrap;
+  display: inline-flex;
+  overflow-y: hidden;
+}
+
+#ext-top a {
+  color: black;
+}
+
+#ext {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #f0f8ff;
+  border: none;
+  overscroll-behavior: contain;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#ext-top button>a {
+  text-decoration: none;
+}
+
+#ext:hover {
+  filter: brightness(1);
+  transition-timing-function: ease-in-out;
+  transition-duration: .5s;
+}
+
+.shades-on {
+  filter: brightness(0.2);
+  transition-timing-function: ease-in-out;
+  transition-duration: .5s;
+}
+
+.sans {
+  font-family: sans-serif;
+}
+
+.serif {
+  font-family: 'Georgia';
+  font-size: 105%
+}
+
+.mono {
+  font-family: monospace;
+  font-size: 95%
+}
+
+.slab {
+  font-family: 'Roboto Slab';
+}
+
+.small {
+  font-size: 12px;
+}
+
+.medium {
+  font-size: 16px;
+}
+
+.large {
+  font-size: 20px;
+}
+
+.narrow {
+  line-height: 1.1;
+}
+
+.normal {
+  line-height: 1.5;
+}
+
+.wide {
+  line-height: 1.9;
+}
+
+p {
+  margin: 30px
+}
+
+.white {
+  background-color: white;
+}
+
+.grey {
+  background-color: #ccc;
+  color: #444;
+}
+
+.sepia {
+  background-color: #f4ecd8;
+  color: #5b4636
+}
+
+.navy {
+  background-color: #09092a;
+  color: lightgrey;
+}
+
+.black {
+  background-color: #222;
+  color: lightgrey;
+}
+
+#side ul,
+#side li {
+  list-style-type: none;
+  margin-left: -10px;
+  font-size: 95%;
+  width: 95%;
+}
+
+#content-controls {
+  display: none;
+}
+
+#ext-links {
+  display: none;
+}
+
+a:any-link {
+  text-underline-offset: .3em;
+  text-decoration-thickness: 1px;
+  text-decoration-color: transparent;
+}
+
+a:any-link:hover {
+  text-decoration-color: #0000EE;
+  text-decoration-thickness: 2px
+}

@@ -5,27 +5,64 @@
   "display": "fullscreen",
   "start_url": "/",
   "short_name": "doutrina",
-  "theme_color": "#333",
-  "description": "plataforma de estudos integrados.",
+  "theme_color": "#4ec1f5",
+  "description": "Plataforma de estudo da Filosofia Espírita.",
   "orientation": "landscape-primary",
   "background_color": "#000",
-  "display_override": [
-    "window-controls-overlay"
-  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "display_override": ["window-controls-overlay"],
   "lang": "pt-BR",
   "dir": "ltr",
-  "edge_side_panel": {
-    "preferred_width": 400
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+},
+  "iarc_rating_id": "e58c174a-81d2-5c3c-32cc-34b8de4a52e9",
+  "share_target": {
+    "action": "/handle-shared-content/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "url": "url"
+    }
   },
+  "scope_extensions": [
+    {"origin": "sergioshklr.github.io/boot-leg/*"}
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+music",
+      "url": "/play?track=%s"
+    }
+  ],  
+  "file_handlers": [
+    {
+      "action": "/open-pdf",
+      "accept": {
+        "application/pdf": [".pdf"]
+      },
+      "icons": [
+        {
+          "src": "pdf-icon.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+      ],
+      "launch_type": "single-client"
+    }],
+    "edge_side_panel": {
+      "preferred_width": 400
+    },  
   "icons": [
     {
-      "src": "./maskable.png",
+      "src": "https://sergioshklr.github.io/boot-leg/pwa/maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./favicon.png",
+      "src": "https://sergioshklr.github.io/boot-leg/pwa/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -33,8 +70,8 @@
   ],
   "screenshots": [
     {
-      "src": "./screen.png",
-      "sizes": "2560x1438",
+      "src": "/screenshot-pwa.png",
+      "sizes": "1617x1012",
       "type": "image/png"
     }
   ],
@@ -48,12 +85,12 @@
   ],
   "shortcuts": [
     {
-      "name": "Início",
-      "url": "/",
-      "description": "voltar à página inicial",
+      "name":"Início",
+      "url":"/",
+      "description":"voltar à página inicial",
       "icons": [
         {
-          "src": "./home.png",
+          "src": "https://sergioshklr.github.io/boot-leg/pwa/home.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -61,12 +98,12 @@
       ]
     },
     {
-      "name": "Espíritos",
-      "url": "/1lde",
-      "description": "📘 O Livro dos Espíritos",
+      "name":"O Livro dos Espíritos",
+      "url":"/lde",
+      "description":"📘 O Livro dos Espíritos",
       "icons": [
         {
-          "src": "./blue-book.png",
+          "src": "https://sergioshklr.github.io/boot-leg/pwa/blue-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -74,12 +111,12 @@
       ]
     },
     {
-      "name": "Médiuns",
-      "url": "/2ldm",
-      "description": "📙 O Livro dos Médiuns",
+      "name":"O Livro dos Médiuns",
+      "url":"/ldm",
+      "description":"📙 O Livro dos Médiuns",
       "icons": [
         {
-          "src": "./orange-book.png",
+          "src": "https://sergioshklr.github.io/boot-leg/pwa/orange-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -87,12 +124,12 @@
       ]
     },
     {
-      "name": "Evangelho",
-      "url": "/3ese",
-      "description": "📗 O Evangelho segundo o Espiritismo",
+      "name":"O Evangelho segundo o Espiritismo",
+      "url":"/ese",
+      "description":"📗 O Evangelho segundo o Espiritismo",
       "icons": [
         {
-          "src": "./green-book.png",
+          "src": "https://sergioshklr.github.io/boot-leg/pwa/green-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -100,12 +137,12 @@
       ]
     },
     {
-      "name": "Céu & Inferno",
-      "url": "/4ceu",
-      "description": "📕 O Céu e o Inferno",
+      "name":"O Céu e o Inferno",
+      "url":"/ceu",
+      "description":"📕 O Céu e o Inferno",
       "icons": [
         {
-          "src": "./red-book.png",
+          "src": "https://sergioshklr.github.io/boot-leg/pwa/red-book.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
@@ -113,15 +150,37 @@
       ]
     },
     {
-      "name": "Gênese",
-      "url": "/5gen",
-      "description": "📓 A Gênese",
+      "name":"A Gênese",
+      "url":"/gen",
+      "description":"📓 A Gênese",
       "icons": [
         {
-          "src": "./black-notebook.png",
+          "src": "https://sergioshklr.github.io/boot-leg/pwa/black-notebook.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
+        }
+      ]
+    }
+  ],
+  "widgets": [
+    {
+      "name": "Starter Widget",
+      "tag": "starterWidget",
+      "ms_ac_template": "widget/ac.json",
+      "data": "widget/data.json",
+      "description": "A simple widget example from pwa-starter.",
+      "screenshots": [
+        {
+          "src": "images/widget-screen.png",
+          "sizes": "500x500",
+          "label": "Widget screenshot"
+        }
+      ],
+      "icons": [
+        {
+          "src": "images/48x48.png",
+          "sizes": "48x48"
         }
       ]
     }
