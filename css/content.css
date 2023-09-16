@@ -2,6 +2,10 @@
     background-color: ivory
 }
 
+p {
+    margin: 30px
+  }
+
 .icon::before {
     display: inline-block;
     font-style: normal;
@@ -172,3 +176,16 @@ h5,
 h6 {
     font-weight: 400;
 }
+
+#content a:any-link {
+    text-underline-offset: .3em;
+    text-decoration-thickness: 1px;
+    text-decoration-color: transparent;
+  }
+  
+#content a:any-link:hover {
+    text-decoration-color: #0000EE;
+    text-decoration-thickness: 1px
+  }
+
+#content-top a:any-link {text-decoration: none;;}

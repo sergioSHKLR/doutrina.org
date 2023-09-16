@@ -255,10 +255,6 @@ input {
   line-height: 1.9;
 }
 
-p {
-  margin: 30px
-}
-
 .white {
   background-color: white;
 }
@@ -299,13 +295,3 @@ p {
   display: none;
 }
 
-a:any-link {
-  text-underline-offset: .3em;
-  text-decoration-thickness: 1px;
-  text-decoration-color: transparent;
-}
-
-a:any-link:hover {
-  text-decoration-color: #0000EE;
-  text-decoration-thickness: 1px
-}

@@ -29,31 +29,7 @@
   },
   "scope_extensions": [
     {"origin": "doutrina.org/*"}
-  ],
-  "protocol_handlers": [
-    {
-      "protocol": "web+music",
-      "url": "/play?track=%s"
-    }
   ],  
-  "file_handlers": [
-    {
-      "action": "/open-pdf",
-      "accept": {
-        "application/pdf": [".pdf"]
-      },
-      "icons": [
-        {
-          "src": "pdf-icon.png",
-          "sizes": "256x256",
-          "type": "image/png"
-        }
-      ],
-      "launch_type": "single-client"
-    }],
-    "edge_side_panel": {
-      "preferred_width": 400
-    },  
   "icons": [
     {
       "src": "https://doutrina.org/pwa/maskable.png",
@@ -99,7 +75,7 @@
     },
     {
       "name":"O Livro dos Espíritos",
-      "url":"/lde",
+      "url":"/1lde.html",
       "description":"📘 O Livro dos Espíritos",
       "icons": [
         {
@@ -112,7 +88,7 @@
     },
     {
       "name":"O Livro dos Médiuns",
-      "url":"/ldm",
+      "url":"/2ldm.html",
       "description":"📙 O Livro dos Médiuns",
       "icons": [
         {
@@ -125,7 +101,7 @@
     },
     {
       "name":"O Evangelho segundo o Espiritismo",
-      "url":"/ese",
+      "url":"/3ese.html",
       "description":"📗 O Evangelho segundo o Espiritismo",
       "icons": [
         {
@@ -138,7 +114,7 @@
     },
     {
       "name":"O Céu e o Inferno",
-      "url":"/ceu",
+      "url":"/4ceu.html",
       "description":"📕 O Céu e o Inferno",
       "icons": [
         {
@@ -151,7 +127,7 @@
     },
     {
       "name":"A Gênese",
-      "url":"/gen",
+      "url":"/5gen.html",
       "description":"📓 A Gênese",
       "icons": [
         {
@@ -159,28 +135,6 @@
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any"
-        }
-      ]
-    }
-  ],
-  "widgets": [
-    {
-      "name": "Starter Widget",
-      "tag": "starterWidget",
-      "ms_ac_template": "widget/ac.json",
-      "data": "widget/data.json",
-      "description": "A simple widget example from pwa-starter.",
-      "screenshots": [
-        {
-          "src": "images/widget-screen.png",
-          "sizes": "500x500",
-          "label": "Widget screenshot"
-        }
-      ],
-      "icons": [
-        {
-          "src": "images/48x48.png",
-          "sizes": "48x48"
         }
       ]
     }

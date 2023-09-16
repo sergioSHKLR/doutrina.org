@@ -1,129 +1,129 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#4ec1f5">
-  <title>doutrina.org</title>
-  <meta name="description" content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
-  <meta name="author" content="sergioSHKLR, info@doutrina.org">
-  <meta charset="UTF-8">
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://doutrina.org">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="doutrina.org">
-  <meta property="og:description" content="uma plataforma de estudos integrados">
-  <meta property="og:image" content="/images/screenshot.png">
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="doutrina.org">
-  <meta name="twitter:description" content="uma plataforma de estudos integrados">
-  <meta name="twitter:image" content="/images/screenshot.png">
-  <!-- Meta Tags Generated via http://heymeta.com -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/scrap.css">
-  <link rel="stylesheet" href="./css/styles.css">
-  <link rel="manifest" href="./pwa/site.webmanifest">
-  <link rel="icon" href="/pwa/favicon.svg" type="image/svg+xml">
-  <!--
-  <script type="application/json" class="js-hypothesis-config">
-    {
-      "openSidebar": false
-    }
-  </script><script async src="https://hypothes.is/embed.js"></script>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="theme-color" content="#4ec1f5">
+ <title>doutrina.org</title>
+ <meta name="description" content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+ <meta name="author" content="sergioSHKLR, info@doutrina.org">
+ <meta charset="UTF-8">
+ <!-- Facebook Meta Tags -->
+ <meta property="og:url" content="https://doutrina.org">
+ <meta property="og:type" content="website">
+ <meta property="og:title" content="doutrina.org">
+ <meta property="og:description" content="uma plataforma de estudos integrados">
+ <meta property="og:image" content="/images/screenshot.png">
+ <!-- Twitter Meta Tags -->
+ <meta name="twitter:card" content="summary_large_image">
+ <meta name="twitter:title" content="doutrina.org">
+ <meta name="twitter:description" content="uma plataforma de estudos integrados">
+ <meta name="twitter:image" content="/images/screenshot.png">
+ <!-- Meta Tags Generated via http://heymeta.com -->
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="./css/content.css">
+ <link rel="stylesheet" href="./css/framework.css">
+ <link rel="manifest" href="./pwa/site.webmanifest">
+ <link rel="icon" href="/pwa/favicon.svg" type="image/svg+xml">
+ <!--
+ <script type="application/json" class="js-hypothesis-config">
+ {
+ "openSidebar": false
+ }
+ </script><script async src="https://hypothes.is/embed.js"></script>
 -->
-  <div id="side-wrapper">
-    <div id="side-top">
-      <button id="close-sidebar" onclick="closeSidebar()" style="position: relative; left: 250px;">✖️</button>
-    </div>
-    <div id="side">
-      <p style="text-align: center; border-bottom: 1px solid gainsboro; font-weight: bold;">Sumário</p>
-      <ul>
-        <li><a href="./1lde.html">📘 O Livro dos Espíritos</a></li>
-        <li><a href="./2ldm.html">📙 O Livro dos Médiuns</a></li>
-        <li><a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a></li>
-        <li><a href="./4ceu.html">📕 O Céu e o Inferno</a></li>
-        <li><a href="./5gen.html">📓 A Gênese</a></li>
-      </ul>
+ <div id="side-wrapper">
+ <div id="side-top">
+ <button id="close-sidebar" onclick="closeSidebar()" style="position: relative; left: 250px;">✖️</button>
+ </div>
+ <div id="side">
+ <p style="text-align: center; border-bottom: 1px solid gainsboro; font-weight: bold;">Sumário</p>
+ <ul>
+ <li><a href="./1lde.html">📘 O Livro dos Espíritos</a></li>
+ <li><a href="./2ldm.html">📙 O Livro dos Médiuns</a></li>
+ <li><a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a></li>
+ <li><a href="./4ceu.html">📕 O Céu e o Inferno</a></li>
+ <li><a href="./5gen.html">📓 A Gênese</a></li>
+ </ul>
 
-    </div>
-  </div>
-  <div id="content-wrapper">
-    <div id="content-top">
-      <button id="open-sidebar" onclick="openSidebar()">➡️</button>
-      <span style="line-height: 50px;"><a href="./">&nbsp;💧&nbsp;doutrina.org&nbsp;</a></span>
-      <button id="btn" title="tela cheia/normal">🖥️</button>
-      <button onclick="toggleContentTop()" style="float: right;" title="padrões tem uma borda fina cinza">➕</button>
-      <button id="open-external" onclick="openExternal()" style="display: block; position: absolute; right: 20px;">⬅️</button>
-      <div id="content-controls" style="z-index: 99;">
-        <button onclick="fontSans()">sans</button>
-        <button onclick="fontSerif()">serif</button>
-        <button onclick="fontSlab()" style="outline: 2px solid grey;">slab</button>
-        <button onclick="fontMono()">mono</button>
-        <button onclick="fontSmall()" title="letra menor">​menor</button>
-        <button onclick="fontMedium()" title="letra normal" style="outline: 2px solid grey;">​normal</button>
-        <button onclick="fontLarge()" title="letra grande">​grande</button>
-        <button onclick="bgSepia()" title="sépia">🟫</button>
-        <button onclick="bgNavy()" title="marinho">🟦</button>
-        <button onclick="bgBlack()" title="negro">⬛</button>
-        <button onclick="bgWhite()" title="branco" style="outline: 2px solid grey;">⬜</button>
-        <button onclick="lineNarrow()" title="estreito">1.1</button>
-        <button onclick="lineNormal()" title="normal" style="outline: 2px solid grey;">1.5</button>
-        <button onclick="lineWide()" title="largo">1.9</button>
-      </div>
-      <p>&nbsp;</p>
-    </div>
-    <div id="content">
-      <h1 id="-início">
-        <a class="header" href="#-início">🏡 Início</a>
-      </h1>
-      <p>
-        <strong>Apresentação</strong>
-      </p>
-      <p>Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos criar uma que permitisse ao estudante a consulta direta de fontes externas sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:</p>
-      <ul>
-        <li>
-          <p>👻 Espíritos, </p>
-        </li>
-        <li>
-          <p>👴🏻 Allan Kardec, e da </p>
-        </li>
-        <li>
-          <p>✝️ bíblia.</p>
-        </li>
-      </ul>
-      <p>Para tal, use o menu, as setas de navegação ou os links abaixo.</p>
-      <p>
-        <a href="./1lde.html">📘 O Livro dos Espíritos</a>
-      </p>
-      <p>
-        <a href="./2ldm.html">📙 O Livro dos Médiuns</a>
-      </p>
-      <p>
-        <a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a>
-      </p>
-      <p>
-        <a href="./4ceu.html">📕 O Céu e o Inferno</a>
-      </p>
-      <p>
-        <a href="./5gen.html">📓 A Gênese</a>
-      </p>
-    </div>
-  </div>
-  <div id="ext-wrapper">
-    <div id="ext-top">
-      <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração"> 🌚 </button>
-      <button onclick="toggleExtLinks()">➕</button>
-      <div id="ext-links">
-        <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
-        <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
-        <a target="ext" href="./maps/paris.html" title="mapa">🗺️</a>
-        <p>&nbsp;</p>
-      </div>
-      <button id="close-external" onclick="closeExternal()">✖️</button>
-    </div>
-    <iframe id="ext" class="shades-on" name="ext" src="./ext.html"></iframe>
-  </div>
-  <script src="./js/combined.js"></script>
-  </body>
+ </div>
+ </div>
+ <div id="content-wrapper">
+ <div id="content-top">
+ <button id="open-sidebar" onclick="openSidebar()">➡️</button>
+ <span style="line-height: 50px;"><a href="./">&nbsp;💧&nbsp;doutrina.org&nbsp;</a></span>
+ <button id="btn" title="tela cheia/normal">🖥️</button>
+ <button onclick="toggleContentTop()" style="float: right;" title="padrões tem uma borda fina cinza">➕</button>
+ <button id="open-external" onclick="openExternal()" style="display: block; position: absolute; right: 20px;">⬅️</button>
+ <div id="content-controls" style="z-index: 99;">
+ <button onclick="fontSans()">sans</button>
+ <button onclick="fontSerif()">serif</button>
+ <button onclick="fontSlab()" style="outline: 2px solid grey;">slab</button>
+ <button onclick="fontMono()">mono</button>
+ <button onclick="fontSmall()" title="letra menor">​menor</button>
+ <button onclick="fontMedium()" title="letra normal" style="outline: 2px solid grey;">​normal</button>
+ <button onclick="fontLarge()" title="letra grande">​grande</button>
+ <button onclick="bgSepia()" title="sépia">🟫</button>
+ <button onclick="bgNavy()" title="marinho">🟦</button>
+ <button onclick="bgBlack()" title="negro">⬛</button>
+ <button onclick="bgWhite()" title="branco" style="outline: 2px solid grey;">⬜</button>
+ <button onclick="lineNarrow()" title="estreito">1.1</button>
+ <button onclick="lineNormal()" title="normal" style="outline: 2px solid grey;">1.5</button>
+ <button onclick="lineWide()" title="largo">1.9</button>
+ </div>
+ <p>&nbsp;</p>
+ </div>
+ <div id="content">
+ <h1 id="-início">
+ <a class="header" href="#-início">🏡 Início</a>
+ </h1>
+ <p>
+ <strong>Apresentação</strong>
+ </p>
+ <p>Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos criar uma que permitisse ao estudante a consulta direta de fontes externas sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:</p>
+ <ul>
+ <li>
+ <p>👻 Espíritos, </p>
+ </li>
+ <li>
+ <p>👴🏻 Allan Kardec, e da </p>
+ </li>
+ <li>
+ <p>✝️ bíblia.</p>
+ </li>
+ </ul>
+ <p>Para tal, use o menu, as setas de navegação ou os links abaixo.</p>
+ <p>
+ <a href="./1lde.html">📘 O Livro dos Espíritos</a>
+ </p>
+ <p>
+ <a href="./2ldm.html">📙 O Livro dos Médiuns</a>
+ </p>
+ <p>
+ <a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a>
+ </p>
+ <p>
+ <a href="./4ceu.html">📕 O Céu e o Inferno</a>
+ </p>
+ <p>
+ <a href="./5gen.html">📓 A Gênese</a>
+ </p>
+ </div>
+ </div>
+ <div id="ext-wrapper">
+ <div id="ext-top">
+ <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração"> 🌚 </button>
+ <button onclick="toggleExtLinks()">➕</button>
+ <div id="ext-links">
+ <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
+ <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
+ <a target="ext" href="./maps/paris.html" title="mapa">🗺️</a>
+ <p>&nbsp;</p>
+ </div>
+ <button id="close-external" onclick="closeExternal()">✖️</button>
+ </div>
+ <iframe id="ext" class="shades-on" name="ext" src="./ext.html"></iframe>
+ </div>
+ <script src="./js/combined.js"></script>
+ </body>
 </html>
