@@ -1,4 +1,3 @@
-
 .bible {
     background-color: ivory
 }
@@ -25,12 +24,12 @@ em {
 blockquote>p>strong {
     font-size: 90%;
     color: #666;
-    font-weight: bold;
+    font-weight: 300;
 }
 
 body {
-    font-family: 'Roboto Slab';
-    font-weight: 300
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
 }
 
 h1 {
@@ -58,7 +57,7 @@ h3::before,
 h4::before,
 h5::before {
     color: lightgrey;
-    font-weight: normal;
+    font-weight: 300;
     white-space: pre
 }
 
@@ -85,7 +84,7 @@ h5 {
 h5,
 h6 {
     border-bottom: 1px solid gainsboro;
-    font-weight: bold;
+    font-weight: 300;
     margin-top: -1em;
     padding-bottom: 10px;
     padding-top: 30px
@@ -106,11 +105,7 @@ h6 {
 html,
 body {
     letter-spacing: 1px !important;
-    scroll-behavior: smooth
-}
-
-li::marker {
-    font-weight: bold
+    scroll-behavior: smooth;
 }
 
 li::marker {
@@ -144,7 +139,9 @@ span.silver-fleuron {
     top: 10px
 }
 
-strong {
+strong,
+em,
+b {
     font-weight: 400
 }
 
@@ -158,7 +155,20 @@ tr {
     margin-right: auto;
 }
 
-blockquote {background-color: aliceblue; padding: 2px 0px 2px 0}
+blockquote {
+    background-color: aliceblue;
+    padding: 2px 0px 2px 0
+}
 
-ul {line-height: 1.65;}
+ul {
+    line-height: 1.65;
+}
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+}

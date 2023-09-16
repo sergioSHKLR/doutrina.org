@@ -20,7 +20,7 @@
   <!-- Meta Tags Generated via http://heymeta.com -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@100;400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./css/scrap.css">
   <link rel="stylesheet" href="./css/styles.css">
   <link rel="manifest" href="./pwa/site.webmanifest">
@@ -36,12 +36,22 @@
     <div id="side-top">
       <button id="close-sidebar" onclick="closeSidebar()" style="position: relative; left: 250px;">✖️</button>
     </div>
-    <div id="side">SIDE</div>
+    <div id="side">
+      <p style="text-align: center; border-bottom: 1px solid gainsboro; font-weight: bold;">Sumário</p>
+      <ul>
+        <li><a href="./1lde.html">📘 O Livro dos Espíritos</a></li>
+        <li><a href="./2ldm.html">📙 O Livro dos Médiuns</a></li>
+        <li><a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a></li>
+        <li><a href="./4ceu.html">📕 O Céu e o Inferno</a></li>
+        <li><a href="./5gen.html">📓 A Gênese</a></li>
+      </ul>
+
+    </div>
   </div>
   <div id="content-wrapper">
     <div id="content-top">
       <button id="open-sidebar" onclick="openSidebar()">➡️</button>
-      <span style="line-height: 50px;">&nbsp;💧&nbsp;doutrina.org&nbsp;</span>
+      <span style="line-height: 50px;"><a href="./">&nbsp;💧&nbsp;doutrina.org&nbsp;</a></span>
       <button id="btn" title="tela cheia/normal">🖥️</button>
       <button onclick="toggleContentTop()" style="float: right;" title="padrões tem uma borda fina cinza">➕</button>
       <button id="open-external" onclick="openExternal()" style="display: block; position: absolute; right: 20px;">⬅️</button>

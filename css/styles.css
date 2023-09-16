@@ -41,7 +41,7 @@ button {
 }
 
 #ext-top a:any-link:hover {
-background-color: #99cfff;
+  background-color: #99cfff;
 }
 
 button:focus {
@@ -228,7 +228,7 @@ input {
 }
 
 .slab {
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab', serif;
 }
 
 .small {
@@ -307,5 +307,5 @@ a:any-link {
 
 a:any-link:hover {
   text-decoration-color: #0000EE;
-  text-decoration-thickness: 2px
+  text-decoration-thickness: 1px
 }
