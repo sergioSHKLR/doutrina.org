@@ -25,6 +25,13 @@
 <link rel="stylesheet" href="./css/fonts.css">
 
 <link rel="manifest" href="./pwa/site.webmanifest">
+
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('/pwa/sw.js')
+  }
+</script>
+
 <link rel="icon" href="/pwa/favicon.svg" type="image/svg+xml">
 <!--
  <script type="application/json" class="js-hypothesis-config">
