@@ -1,25 +1,56 @@
-<html>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">  <link rel="stylesheet" href="./css/scrap.css">
-  <link rel="stylesheet" href="./css/styles.css">
-  <script type="application/json" class="js-hypothesis-config">
-    {
-      "openSidebar": true
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>doutrina.org</title>
+  <meta name="description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+  <meta name="author" content="sergioSHKLR, info@doutrina.org">
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://doutrina.org">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="doutrina.org">
+  <meta property="og:description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+  <meta property="og:image" content="/images/screenshot.png">
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="doutrina.org">
+  <meta name="twitter:description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+  <meta name="twitter:image" content="/images/screenshot.png">
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/content.css">
+  <link rel="stylesheet" href="./css/framework.css">
+  <link rel="stylesheet" href="./css/fonts.css">
+  <!-- PWA -->
+  <link rel="manifest" href="./pwa/site.webmanifest">
+  <meta name="theme-color" content="#4ec1f5">
+  <link rel="icon" href="/pwa/favicon.svg" type="image/svg+xml">
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('/pwa/sw.js')
     }
   </script>
-  <script async src="https://hypothes.is/embed.js"></script>
+  <!-- SCRIPTS -->
+  <!--
+ <script type="application/json" class="js-hypothesis-config">
+ {
+ "openSidebar": false
+ }
+ </script><script async src="https://hypothes.is/embed.js"></script>
+-->
+</head>
 
   <body>
     <div id="side-wrapper">
       <div id="side-top">
-        <button id="close-sidebar" onclick="closeSidebar()" style="position: relative; left: 250px;">✖️</button>
+        <button id="close-sidebar" onclick="closeSidebar()">✖️</button>
       </div>
       <div id="side">
-        <p style="text-align: center; border-bottom: 1px solid gainsboro; font-weight: bold;">Sumário</p>
+        <p id="side-header">Sumário</p>
         <ul>
           <li>
             <a href="#lde-0">🗂️ 0. Pré-textual</a>
@@ -151,25 +182,24 @@
     <div id="content-wrapper">
       <div id="content-top">
         <button id="open-sidebar" onclick="openSidebar()">➡️</button>
-        <span style="line-height: 50px;">&nbsp;💧&nbsp;doutrina.org&nbsp;</span>
+        <span id="logo"><a href="./">&nbsp;💧&nbsp;doutrina.org&nbsp;</a></span>
         <button id="btn" title="tela cheia/normal">🖥️</button>
-        <button onclick="toggleContentTop()" style="float: right;">➕&nbsp;ajustes&nbsp; </span>
-        </button>
-        <button id="open-external" onclick="openExternal()" style="display: block; position: absolute; right: 20px;">⬅️</button>
-        <div id="content-controls" style="z-index: 99;">
+        <button id="open-content-controls" onclick="toggleContentTop()" title="padrões tem uma borda fina cinza">➕</button>
+        <button id="open-external" onclick="openExternal()">⬅️</button>
+        <div id="content-controls">
           <button onclick="fontSans()">sans</button>
           <button onclick="fontSerif()">serif</button>
-          <button onclick="fontSlab()">slab</button>
+          <button class="active" onclick="fontSlab()">slab</button>
           <button onclick="fontMono()">mono</button>
           <button onclick="fontSmall()" title="letra menor">​menor</button>
-          <button onclick="fontMedium()" title="letra normal">​normal</button>
+          <button class="active" onclick="fontMedium()" title="letra normal">​normal</button>
           <button onclick="fontLarge()" title="letra grande">​grande</button>
-          <button onclick="bgWhite()" title="branco">⬜</button>
           <button onclick="bgSepia()" title="sépia">🟫</button>
           <button onclick="bgNavy()" title="marinho">🟦</button>
           <button onclick="bgBlack()" title="negro">⬛</button>
+          <button class="active" onclick="bgWhite()" title="branco">⬜</button>
           <button onclick="lineNarrow()" title="estreito">1.1</button>
-          <button onclick="lineNormal()" title="normal">1.5</button>
+          <button class="active" onclick="lineNormal()" title="normal">1.5</button>
           <button onclick="lineWide()" title="largo">1.9</button>
         </div>
         <p>&nbsp;</p>
@@ -7394,50 +7424,22 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 
       </div>
     </div>
-    <div id="ext-wrapper">
-      <div id="ext-top">
-        <button id="shades" onclick="shadesOff()" title="abrir/fechar cortina anti-distração"> 🌚 </button>
-        <button onclick="toggleExtLinks()">➕&nbsp;links&nbsp; </span>
-        </button>
-        <div id="ext-links">
-          <button>
-            <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓 </a>
-          </button>
-          <button>
-            <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário"> 📔 </a>
-          </button>
-          <button>
-            <a target="ext" href="./maps/paris.html" title="mapa">🗺️ </a>
-          </button>
-          <p>&nbsp;</p>
-        </div>
-        <button id="close-external" onclick="closeExternal()">✖️</button>
+
+   <div id="ext-wrapper">
+    <div id="ext-top">
+      <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração"> 🌚 </button>
+      <button onclick="toggleExtLinks()">➕</button>
+      <div id="ext-links">
+        <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
+        <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
+        <a target="ext" href="./maps/paris.html" title="mapa">🗺️</a>
+        <p>&nbsp;</p>
       </div>
-      <iframe id="ext" class="shades-on" name="ext" src="./ext.html"></iframe>
+      <button id="close-external" onclick="closeExternal()">✖️</button>
     </div>
-    </div>
+    <iframe id="ext" class="shades-on" name="ext" src="./ext.html"></iframe>
+  </div>
+  <script src="./js/combined.js"></script>
+</body>
 
-    <script src="./js/bg-black.js"></script>
-    <script src="./js/bg-grey.js"></script>
-    <script src="./js/bg-navy.js"></script>
-    <script src="./js/bg-sepia.js"></script>
-    <script src="./js/bg-white.js"></script>
-    <script src="./js/font-large.js"></script>
-    <script src="./js/font-medium.js"></script>
-    <script src="./js/font-mono.js"></script>
-    <script src="./js/font-sans.js"></script>
-    <script src="./js/font-serif.js"></script>
-    <script src="./js/font-slab.js"></script>
-    <script src="./js/font-small.js"></script>
-    <script src="./js/line-narrow.js"></script>
-    <script src="./js/line-normal.js"></script>
-    <script src="./js/line-wide.js"></script>
-    <script src="./js/shades-off.js"></script>
-    <script src="./js/toggle-content-tools.js"></script>
-    <script src="./js/toggle-ext-links.js"></script>
-    <script src="./js/toggle-external.js"></script>
-    <script src="./js/toggle-fullscreen.js"></script>
-    <script src="./js/toggle-sidebar.js"></script>
-
-  </body>
 </html>

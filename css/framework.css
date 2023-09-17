@@ -281,15 +281,25 @@ input {
 
 #side ul,
 #side li {
-  list-style-type: disc;
-  margin-left: 0px;
+  list-style-type: none;
+  margin-left: -10px;
   font-size: 95%;
+  font-family: sans-serif;
   width: 95%;
-  line-height: 2;
+  line-height: 1.5;
+}
+
+.active {
+  outline: 2px solid grey;
 }
 
 #content-controls {
   display: none;
+  z-index: 99;
+}
+
+#open-content-controls {
+  float: right;
 }
 
 #ext-links {
@@ -316,6 +326,7 @@ input {
 
 #logo {
   line-height: 50px;
+  font-family: sans-serif;
 }
 
 #open-external {
