@@ -63,11 +63,12 @@
   </div>
   <div id="content-wrapper">
     <div id="content-top">
-      <button id="open-sidebar" onclick="openSidebar()">➡️</button>
-      <span id="logo"><a href="./">&nbsp;💧&nbsp;doutrina.org&nbsp;</a></span>
+      <button id="open-sidebar" onclick="openSidebar()" title="abrir painel de sumário">➡️</button>
+      <a id="logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org</a>
       <button id="btn" title="tela cheia/normal">🖥️</button>
-      <button id="open-content-controls" onclick="toggleContentTop()" title="padrões tem uma borda fina cinza">➕</button>
-      <button id="open-external" onclick="openExternal()">⬅️</button>
+      <button id="open-content-controls" onclick="toggleContentTop()"
+        title="ajustes de aparência (padrões tem uma borda cinza grossa)">➕</button>
+      <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
       <div id="content-controls">
         <button onclick="fontSans()">sans</button>
         <button onclick="fontSerif()">serif</button>
@@ -127,8 +128,25 @@
         <li><a href="./5gen.html">📓 A Gênese</a></li>
       </ul>
       <p>Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre
-        em contato pelo Github.
+        em contato pelo Github.🌢
       </p>
+      <p>&nbsp;</p>
+      <div class="footer">
+        <table>
+          <tr>
+            <td>📅</td>
+            <td>✏️</td>
+            <td>⚖️</td>
+            <td>⭕</td>
+          </tr>
+          <tr>
+            <td>Set 2023</td>
+            <td>Github</td>
+            <td>Avisos</td>
+            <td>shklr.org</td>
+          </tr>
+        </table>
+      </div>
     </div>
   </div>
   <div id="ext-wrapper">
@@ -141,7 +159,7 @@
         <a target="ext" href="./maps/paris.html" title="mapa">🗺️</a>
         <p>&nbsp;</p>
       </div>
-      <button id="close-external" onclick="closeExternal()">✖️</button>
+      <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
     </div>
     <iframe id="ext" class="shades-on" name="ext" src="./ext.html"></iframe>
   </div>

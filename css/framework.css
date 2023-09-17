@@ -325,8 +325,24 @@ input {
 }
 
 #logo {
-  line-height: 50px;
-  font-family: sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 6px;
+  border: .1px solid #aaa;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  margin: 6px;
+  padding: 6px 8px;
+  vertical-align: middle;
+  color: #555;
+  text-decoration: none;
+  background-color: #d9d9d9;
+}
+
+#logo:hover {
+  background-color: #ccc;
 }
 
 #open-external {
