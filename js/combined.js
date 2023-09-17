@@ -119,6 +119,13 @@ function toggleContentTop() {
   } else {
     x.style.display = "none";
   }
+
+  var x = document.getElementById("btn");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 }
 
 // toggles ext links visibility

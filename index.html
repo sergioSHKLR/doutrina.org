@@ -8,6 +8,7 @@
   <meta name="description"
     content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
   <meta name="author" content="sergioSHKLR, info@doutrina.org">
+
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://doutrina.org">
   <meta property="og:type" content="website">
@@ -15,16 +16,19 @@
   <meta property="og:description"
     content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
   <meta property="og:image" content="/images/screenshot.png">
+
   <!-- Twitter Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="doutrina.org">
   <meta name="twitter:description"
     content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
   <meta name="twitter:image" content="/images/screenshot.png">
+
   <!-- CSS -->
   <link rel="stylesheet" href="./css/content.css">
   <link rel="stylesheet" href="./css/framework.css">
   <link rel="stylesheet" href="./css/fonts.css">
+
   <!-- PWA -->
   <link rel="manifest" href="./pwa/site.webmanifest">
   <meta name="theme-color" content="#4ec1f5">
@@ -34,17 +38,20 @@
       navigator.serviceWorker.register('/pwa/sw.js')
     }
   </script>
+
   <!-- SCRIPTS -->
-  <!--
- <script type="application/json" class="js-hypothesis-config">
+
+  <script type="application/json" class="js-hypothesis-config">
  {
  "openSidebar": false
  }
- </script><script async src="https://hypothes.is/embed.js"></script>
--->
+ </script>
+  <script async src="https://hypothes.is/embed.js"></script>
 </head>
 
 <body>
+
+  <!-- SIDE WRAPPER -->
   <div id="side-wrapper">
     <div id="side-top">
       <button id="close-sidebar" onclick="closeSidebar()">✖️</button>
@@ -59,13 +66,23 @@
         <li><a href="./5gen.html">📓 A Gênese</a></li>
       </ul>
 
+      <div class="footer" style="position: fixed; bottom: 0;">
+        <ul>
+        <li>📅 atualizado em 09/23</li>
+        <li><a href="https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a></li>
+        <li>⚖️ Avisos Legais</li>
+        <li><a href="https://shklr.org">⭕ shklr.org</a></li>
+        </ul>
+      </div>
+
     </div>
   </div>
+
+  <!-- CONTENT WRAPPER -->
   <div id="content-wrapper">
     <div id="content-top">
       <button id="open-sidebar" onclick="openSidebar()" title="abrir painel de sumário">➡️</button>
       <a id="logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org</a>
-      <button id="btn" title="tela cheia/normal">🖥️</button>
       <button id="open-content-controls" onclick="toggleContentTop()"
         title="ajustes de aparência (padrões tem uma borda cinza grossa)">➕</button>
       <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
@@ -85,6 +102,8 @@
         <button class="active" onclick="lineNormal()" title="normal">1.5</button>
         <button onclick="lineWide()" title="largo">1.9</button>
       </div>
+      <button id="btn" title="tela cheia/normal" style="position: absolute; right: 60px;">🖥️</button>
+
       <p>&nbsp;</p>
     </div>
     <div id="content">
@@ -130,28 +149,14 @@
       <p>Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre
         em contato pelo Github.🌢
       </p>
-      <p>&nbsp;</p>
-      <div class="footer">
-        <table>
-          <tr>
-            <td>📅</td>
-            <td>✏️</td>
-            <td>⚖️</td>
-            <td>⭕</td>
-          </tr>
-          <tr>
-            <td>Set 2023</td>
-            <td>Github</td>
-            <td>Avisos</td>
-            <td>shklr.org</td>
-          </tr>
-        </table>
-      </div>
+
     </div>
   </div>
+
+  <!-- EXTERNAL WRAPPER -->
   <div id="ext-wrapper">
     <div id="ext-top">
-      <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração"> 🌚 </button>
+      <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">🌚</button>
       <button onclick="toggleExtLinks()">➕</button>
       <div id="ext-links">
         <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
@@ -163,6 +168,8 @@
     </div>
     <iframe id="ext" class="shades-on" name="ext" src="./ext.html"></iframe>
   </div>
+
+  <!-- JAVA -->
   <script src="./js/combined.js"></script>
 </body>
 
