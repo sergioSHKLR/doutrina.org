@@ -4,7 +4,7 @@
 
 p {
     margin: 30px
-  }
+}
 
 .icon::before {
     display: inline-block;
@@ -164,8 +164,10 @@ blockquote {
     padding: 2px 0px 2px 0
 }
 
-ul {
-    line-height: 1.65;
+#content ul, #content ol {
+    line-height: 2;
+    margin-left: 20px;
+    text-indent: 0px;
 }
 
 h1,
@@ -181,11 +183,13 @@ h6 {
     text-underline-offset: .3em;
     text-decoration-thickness: 1px;
     text-decoration-color: transparent;
-  }
-  
+}
+
 #content a:any-link:hover {
     text-decoration-color: #0000EE;
     text-decoration-thickness: 1px
-  }
+}
 
-#content-top a:any-link {text-decoration: none;;}
+#content-top a:any-link {
+    text-decoration: none;
+}

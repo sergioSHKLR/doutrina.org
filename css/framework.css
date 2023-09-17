@@ -281,10 +281,11 @@ input {
 
 #side ul,
 #side li {
-  list-style-type: none;
-  margin-left: -10px;
+  list-style-type: disc;
+  margin-left: 0px;
   font-size: 95%;
   width: 95%;
+  line-height: 2;
 }
 
 #content-controls {
@@ -295,3 +296,30 @@ input {
   display: none;
 }
 
+#close-sidebar {
+  position: absolute;
+  left: 250px;
+  outline: 1px solid red;
+}
+
+#close-external {
+  position: relative;
+  left: 60%;
+  outline: 1px solid red;
+}
+
+#side-header {
+  text-align: center;
+  border-bottom: 1px solid gainsboro;
+  font-weight: bold;
+}
+
+#logo {
+  line-height: 50px;
+}
+
+#open-external {
+  display: block;
+  position: absolute;
+  right: 5px !important;
+}
