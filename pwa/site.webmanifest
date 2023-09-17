@@ -46,7 +46,7 @@
   ],
   "screenshots": [
     {
-      "src": "images/screenshot-pwa.png",
+      "src": "pwa/screenshot-pwa.png",
       "sizes": "1617x1012",
       "type": "image/png"
     }
