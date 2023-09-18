@@ -1,351 +1,226 @@
-html,
 body {
+  margin-right: 20px;
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+
+}
+
+* {
   box-sizing: border-box;
-  font-size: 16px;
-  line-height: 1.5;
-  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
 }
 
-button {
-  line-height: 24px;
-  font-size: 16px;
-  border-radius: 6px;
-  border: .1px solid #aaa;
-  font-family: 'Roboto';
-  box-sizing: border-box;
-  cursor: pointer;
-  display: inline-block;
-  margin: 6px;
-  padding: 6px 8px;
-  vertical-align: middle;
-  color: #555
-}
-
-#ext-top a:any-link {
-  line-height: 24px;
-  font-size: 16px;
-  border-radius: 6px;
-  border: .1px solid #aaa;
-  font-family: 'Roboto';
-  box-sizing: border-box;
-  cursor: pointer;
-  display: inline-block;
-  margin: 6px;
-  padding: 6px 8px;
-  vertical-align: middle;
-  color: #555;
-  text-decoration: none;
-  background-color: #b3dbff;
-}
-
-#ext-top a:any-link:hover {
-  background-color: #99cfff;
-}
-
-button:focus {
-  outline: 3px solid dodgerblue;
-}
-
-#side-top button {
-  background-color: #222;
-  border-color: #555;
-}
-
-#side-top button:hover {
-  background-color: #333;
-}
-
-#content-top button {
-  background-color: #d9d9d9;
-}
-
-#content-top button:hover {
-  background-color: #cccccc;
-}
-
-#ext-top button {
-  background-color: #b3dbff;
-}
-
-#ext-top button:hover {
-  background-color: #99cfff;
-}
-
-input {
-  background-color: white;
-  line-height: 24px;
-  font-size: 16px;
-  border-radius: 6px;
-  border: 1px solid #b3dbff;
-  margin: 8px;
+#page-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  height: 99.8vh;
 }
 
 #side-wrapper {
-  position: fixed;
-  top: 0;
   width: 300px;
+  display: flex;
+  flex-direction: column;
+  background-color: #444;
+  color: #fff;
+  line-height: 150%;
+  font-family: sans-serif;
+  font-size: 80%;
   height: 100vh;
-  color: white;
-  display: none;
+}
+
+#side-wrapper a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#side-panel ul,
+#side-panel ol {
+  line-height: 200%;
+  text-indent: 0;
+  list-style-type: none;
 }
 
 #side-top {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
+  width: 300px;
   height: 50px;
-  background-color: #222;
-  color: white;
-  line-height: 50px;
-  font-size: 16px;
-  padding-left: 0px;
-  overflow: auto;
-  white-space: nowrap;
   display: inline-flex;
-}
-
-#side {
-  position: absolute;
-  top: 50px;
-  width: 100%;
-  height: 100%;
   background-color: #333;
-  font-family: sans-serif;
-  overscroll-behavior: contain;
-  overflow-y: scroll;
-  overflow-x: hidden;
 }
 
-#side li>a:any-link {
-  color: white;
-  text-decoration: none;
+#side-panel {
+  height: calc(100vh - 54px);
+  padding: 0 10px;
+}
+
+#side-header {
+  margin-bottom: 30px;
+}
+
+#side-body {
+  flex: auto;
+}
+
+#side-footer {
+  padding: 30px 0px;
+  background-color: #444;
 }
 
 #content-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: calc(100% - 20px);
-  height: 95vh;
+  width: 60%;
+  flex: auto;
+  height: 100vh;
 }
 
 #content-top {
-  position: fixed;
-  top: 0;
-  width: calc(100% - 20px);
+  width: 100%;
   height: 50px;
-  background-color: #e6e6e6;
-  overflow: auto;
-  white-space: nowrap;
   display: inline-flex;
-  overflow-y: hidden;
+  background-color: #e6e6e6;
 }
 
-#content {
-  position: absolute;
-  top: 50px;
-  width: calc(100% - 20px);
-  height: 100vh;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  overscroll-behavior: contain;
-  scroll-behavior: smooth;
+#content-panel {
+  width: 100%;
+  height: calc(100vh - 54px);
+  padding: 10px;
 }
 
 #ext-wrapper {
-  position: fixed;
-  top: 0;
-  right: 0;
   width: 40%;
-  height: 100vh;
-  margin-right: 20px;
-  background-color: #cce7ff;
-  border-left: 1px solid gainsboro;
-  display: none;
+  background-color: #f0f8ff;
+  height: calc(100vh - 54px);
 }
 
 #ext-top {
-  position: fixed;
-  top: 0;
-  width: calc(100vw * .4);
-  height: 50px;
-  background-color: #cce7ff;
-  overflow: auto;
-  white-space: nowrap;
-  display: inline-flex;
-  overflow-y: hidden;
-}
-
-#ext-top a {
-  color: black;
-}
-
-#ext {
-  position: absolute;
-  top: 50px;
-  right: 0;
   width: 100%;
-  height: 100%;
-  background-color: #f0f8ff;
-  border: none;
-  overscroll-behavior: contain;
-  overflow-y: scroll;
-  overflow-x: hidden;
+  height: 50px;
+  display: inline-flex;
+  background-color: #e6f3ff;
 }
 
-#ext-top button>a {
-  text-decoration: none;
+#ext-panel {
+  width: 100%;
+  height: calc(100% - 50px);
+  background-color: #e6f3ff;
 }
 
-#ext:hover {
-  filter: brightness(1);
-  transition-timing-function: ease-in-out;
-  transition-duration: .5s;
+ul,
+ol {
+  list-style-position: inside;
 }
 
-.shades-on {
-  filter: brightness(0.2);
-  transition-timing-function: ease-in-out;
-  transition-duration: .5s;
+iframe {
+  width: 100%;
+  height: calc(99.8vh - 50px);
+  border-left: 1px solid grey;
 }
 
-.sans {
-  font-family: sans-serif;
+.dropbtn {
+  border: 1px solid grey;
+  padding: 3.5px;
+  margin: 0;
 }
 
-.serif {
-  font-family: 'Georgia';
-  font-size: 105%
+.dropdown {
+  position: relative;
+  display: inline-block;
 }
 
-.mono {
-  font-family: monospace;
-  font-size: 95%
-}
-
-.slab {
-  font-family: 'Roboto Slab', serif;
-}
-
-.small {
-  font-size: 12px;
-}
-
-.medium {
-  font-size: 16px;
-}
-
-.large {
-  font-size: 20px;
-}
-
-.narrow {
-  line-height: 1.1;
-}
-
-.normal {
-  line-height: 1.5;
-}
-
-.wide {
-  line-height: 1.9;
-}
-
-.white {
-  background-color: white;
-}
-
-.grey {
-  background-color: #ccc;
-  color: #444;
-}
-
-.sepia {
-  background-color: #f4ecd8;
-  color: #5b4636
-}
-
-.navy {
-  background-color: #09092a;
-  color: lightgrey;
-}
-
-.black {
-  background-color: #222;
-  color: lightgrey;
-}
-
-#side ul,
-#side li {
-  list-style-type: none;
-  margin-left: -10px;
-  font-size: 95%;
-  font-family: sans-serif;
-  width: 95%;
-  line-height: 1.5;
-}
-
-.active {
-  outline: 2px solid grey;
-}
-
-#content-controls {
+.dropdown-content {
   display: none;
-  z-index: 99;
+  position: absolute;
+  background-color: #f1f1f1;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
 }
 
-#open-content-controls {
-  float: right;
+.dropdown-content a {
+  color: black;
+  text-decoration: none;
+  display: block;
 }
 
-#ext-links {
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #ccc;
+}
+
+#open-sidebar {
   display: none;
 }
 
 #close-sidebar {
-  position: absolute;
-  left: 250px;
-  outline: 1px solid red;
-}
-
-#close-external {
-  position: absolute;
-  right: 20px;
-  outline: 1px solid red;
-}
-
-#side-header {
-  text-align: center;
-  border-bottom: 1px solid gainsboro;
-  font-weight: bold;
-}
-
-#logo {
-  font-family: 'Trebuchet MS', sans-serif;
-  font-weight: bold;
-  font-size: 16px;
-  border-radius: 6px;
-  border: .1px solid #aaa;
-  box-sizing: border-box;
-  cursor: pointer;
-  display: inline-block;
-  margin: 6px;
-  padding: 6px 8px;
-  vertical-align: middle;
-  color: #555;
-  text-decoration: none;
-  background-color: #d9d9d9;
-}
-
-#logo:hover {
-  background-color: #ccc;
+  display: none;
 }
 
 #open-external {
-  display: block;
-  position: absolute;
-  right: 15px !important;
+  display: none;
+}
+
+#close-external {
+  display: none;
+}
+
+
+button {
+  border-radius: 4px;
+  font-size: 24px;
+  line-height: 24px;
+  cursor: pointer;
+  background-color: transparent;
+  margin: 0 5px;
+  padding: 5px 2px;
+  border: 1px solid grey;
+}
+
+#side-top a,
+#content-top a,
+#ext-top a {
+  border-radius: 4px;
+  font-size: 24px;
+  line-height: 24px;
+  background-color: transparent;
+  margin: 0 5px;
+  padding: 5px 2px;
+  border: 1px solid grey;
+}
+
+#side-top {
+  padding: 8px;
+}
+
+#content-top {
+  padding: 8px;
+}
+
+#ext-top {
+  padding: 8px;
+}
+
+.shades-on {
+  filter: brightness(0.15);
+  transition-timing-function: ease-in-out;
+  transition-duration: .5s;
+}
+
+ol>ol>li {
+  text-indent: 10px;
+}
+
+#logo {
+  font-family: 'Trebuchet MS';
+}
+
+a#logo {
+  color: #000;
+  background-color: #ccc;
+  border: 1px solid #aaa;
 }

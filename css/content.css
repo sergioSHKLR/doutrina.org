@@ -1,200 +1,101 @@
-.bible {
-    background-color: ivory
+.sans {
+  font-family: sans-serif;
 }
 
-p {
-    margin: 30px 0px 30px 20px;
+.serif {
+  font-family: 'Georgia';
+  font-size: 105%
 }
 
-.icon::before {
-    display: inline-block;
-    font-style: normal;
-    font-variant: normal;
-    text-rendering: auto
+.mono {
+  font-family: monospace;
+  font-size: 95%
 }
 
-.red em {
-    color: crimson
+.slab {
+  font-family: 'Roboto Slab', serif;
 }
 
-em {
-    color: crimson !important
+.small {
+  font-size: 12px;
 }
 
-.spirit {
-    background-color: azure
+.medium {
+  font-size: 16px;
 }
 
-blockquote>p>strong {
-    font-size: 90%;
-    color: #666;
-    font-weight: 300;
+.large {
+  font-size: 20px;
 }
 
-body {
-    font-family: 'Roboto Slab', serif;
-    font-weight: 300;
-    background-color: whitesmoke;
+.narrow {
+  line-height: 1.1;
 }
 
-h1 {
-    font-size: 2em
+.normal {
+  line-height: 1.5;
 }
 
-h1,
-h2,
-h3,
-h4 {
-    text-align: center
+.wide {
+  line-height: 1.9;
 }
 
-h2 {
-    font-size: 1.8em
+.white {
+  background-color: white;
 }
 
-h2::before {
-    content: "🗂️ "
-        /* content: "Parte \a 🗂️ " */
+.grey {
+  background-color: #ccc;
+  color: #555;
 }
 
-h2::before,
-h3::before,
-h4::before,
-h5::before {
-    color: lightgrey;
-    font-weight: 300;
-    white-space: pre
+.sepia {
+  background-color: #f5deb3;
+  color: #5a3f0c
 }
 
-h3 {
-    font-size: 1.6em
+.navy {
+  background-color: #09092a;
+  color: lightgrey;
 }
 
-h3::before {
-    content: "📑 "
+.black {
+  background-color: #222;
+  color: lightgrey;
 }
 
-h4 {
-    font-size: 1.4em
+#content-panel {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+  line-height: 1.5;
 }
 
-h4::before {
-    content: "📃 "
+#content-panel h1,
+#content-panel h2,
+#content-panel h3,
+#content-panel h4 {
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
-h5 {
-    font-size: 1em
+a:any-link {
+  text-decoration: none;
 }
 
-h5,
-h6 {
-    border-bottom: 1px solid gainsboro;
-    font-weight: 300;
-    margin-top: -1em;
-    padding-bottom: 10px;
-    padding-top: 30px;
-    margin-left: 30px
+a:any-link:focus,
+a:any-link:hover,
+button:focus,
+button:hover {
+  outline: 3px solid orange;
+  border-radius: 4px;
+  padding: 1px 2px;
 }
 
-h5::before {
-    content: "#️⃣ "
+#content-panel {
+  padding: 20px;
 }
 
-h6::before {
-    content: "#️⃣ "
+#content-panel p {
+  margin: 20px 0;
 }
-
-h6 {
-    font-size: 1em
-}
-
-html,
-body {
-    letter-spacing: 1px !important;
-    scroll-behavior: smooth;
-}
-
-li::marker {
-    font-weight: 400
-}
-
-p::after {
-    margin: -10px
-}
-
-div.gold-fleuron {
-    border-bottom: 1px solid goldenrod;
-    text-align: center
-}
-
-div.silver-fleuron {
-    border-bottom: 1px solid lightgrey;
-    text-align: center
-}
-
-span.gold-fleuron {
-    background-color: white;
-    position: relative;
-    top: 10px
-}
-
-span.silver-fleuron {
-    background-color: white;
-    filter: grayscale(100%);
-    position: relative;
-    top: 10px
-}
-
-strong,
-em,
-b {
-    font-weight: 400
-}
-
-table,
-td,
-th,
-tr {
-    background-color: transparent;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-blockquote {
-    background-color: aliceblue;
-    padding: 2px 0px 2px 0
-}
-
-#content ul,
-#content ol {
-    line-height: 2;
-    margin-left: 20px;
-    text-indent: 0px;
-    margin-right: 20px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: 400;
-}
-
-#content a:any-link {
-    text-underline-offset: .3em;
-    text-decoration-thickness: 1px;
-    text-decoration-color: transparent;
-}
-
-#content a:any-link:hover {
-    text-decoration-color: #0000EE;
-    text-decoration-thickness: 1px
-}
-
-#content-top a:any-link {
-    text-decoration: none;
-}
-
