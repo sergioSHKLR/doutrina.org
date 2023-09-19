@@ -88,6 +88,7 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   overflow: auto;
+  z-index: -1;
 }
 
 #ext-wrapper {
@@ -124,7 +125,7 @@ iframe {
 }
 
 .dropbtn {
-  border: 1px solid grey;
+  border: 1px solid #aaa;
   background-color: #ccc !important;
 }
 
@@ -144,13 +145,15 @@ iframe {
   border-radius: 4px;
 }
 
-.dropdown-content a {
+.dropdown-content button {
   color: black;
   text-decoration: none;
   display: block;
   border: none !important;
-  padding: 12px 16px !important;
-  background-color: red !important;
+  padding: 0px 16px !important;
+  margin: -5px 0;
+  font-size: 18px;
+  width: 160px;
 }
 
 .dropdown-content a:hover {
@@ -187,7 +190,7 @@ button {
   cursor: pointer;
   margin: 0 5px;
   padding: 5px 2px;
-  border: 1px solid grey;
+  border: 1px solid #aaa;
 }
 
 #side-top a,
@@ -198,10 +201,12 @@ button {
   line-height: 24px;
   margin: 0 5px;
   padding: 5px 2px;
-  border: 1px solid grey;
+  border: 1px solid #aaa;
 }
 
-#content-top a {background-color: #ccc !important;}
+#content-top a {
+  background-color: #ccc !important;
+}
 
 #side-top {
   padding: 8px;
@@ -215,7 +220,9 @@ button {
   padding: 8px;
 }
 
-#ext-top a {background-color: #cce7ff;}
+#ext-top a {
+  background-color: #cce7ff;
+}
 
 .shades-on {
   filter: brightness(0.15);
@@ -227,12 +234,16 @@ ol>ol>li {
   text-indent: 10px;
 }
 
-#logo {
+#side-logo, #content-logo {
   font-family: 'Trebuchet MS';
 }
 
-a#logo {
+a#side-logo, a#content-logo {
   color: #000;
 }
 
-#shades {background-color: #cce7ff;}
+#content-logo {display: none;}
+
+#shades {
+  background-color: #cce7ff;
+}

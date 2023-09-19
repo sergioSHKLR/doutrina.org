@@ -92,3 +92,39 @@
 
 
 }
+
+@media only screen and (orientation: landscape) and (max-width: 782px) {
+.notice {display: none}
+#side-logo {display: block}
+#content-logo {display: none}
+}
+
+@media only screen and (orientation: portrait) and (max-width: 782px){ 
+.notice {display: block}
+#side-logo {display: none}
+#content-logo {display: block}
+}
+
+@media only screen and (orientation: landscape) and (min-width: 783px) and (max-width: 1000px) {
+.notice {display: none}
+#side-logo {display: none}
+#content-logo {display: block}
+}
+
+@media only screen and (orientation: portrait) and (min-width: 783px) and (max-width: 1000px) { 
+.notice {display: block}
+#side-logo {display: none}
+#content-logo {display: block}
+}
+
+@media only screen and (orientation: landscape) and (min-width: 1001px) {
+.notice {display: none}
+#side-logo {display: block}
+#content-logo {display: none}
+}
+
+@media only screen and (orientation: portrait) and (min-width: 1001px) { 
+.notice {display: block}
+#side-logo {display: none}
+#content-logo {display: block}
+}
