@@ -125,6 +125,7 @@ iframe {
 
 .dropbtn {
   border: 1px solid grey;
+  background-color: #ccc !important;
 }
 
 .dropdown {
@@ -135,7 +136,7 @@ iframe {
 .dropdown-content {
   display: none;
   position: absolute;
-  top: 41px;
+  top: 36px;
   background-color: #f1f1f1;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -147,6 +148,9 @@ iframe {
   color: black;
   text-decoration: none;
   display: block;
+  border: none !important;
+  padding: 12px 16px !important;
+  background-color: red !important;
 }
 
 .dropdown-content a:hover {
@@ -159,6 +163,7 @@ iframe {
 
 #open-sidebar {
   display: none;
+  background-color: #ccc;
 }
 
 #close-sidebar {
@@ -180,7 +185,6 @@ button {
   font-size: 24px;
   line-height: 24px;
   cursor: pointer;
-  background-color: transparent;
   margin: 0 5px;
   padding: 5px 2px;
   border: 1px solid grey;
@@ -192,11 +196,12 @@ button {
   border-radius: 4px;
   font-size: 24px;
   line-height: 24px;
-  background-color: transparent;
   margin: 0 5px;
   padding: 5px 2px;
   border: 1px solid grey;
 }
+
+#content-top a {background-color: #ccc !important;}
 
 #side-top {
   padding: 8px;
@@ -209,6 +214,8 @@ button {
 #ext-top {
   padding: 8px;
 }
+
+#ext-top a {background-color: #cce7ff;}
 
 .shades-on {
   filter: brightness(0.15);
@@ -226,6 +233,6 @@ ol>ol>li {
 
 a#logo {
   color: #000;
-  background-color: #ccc;
-  border: 1px solid grey;
 }
+
+#shades {background-color: #cce7ff;}
