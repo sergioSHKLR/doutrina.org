@@ -89,7 +89,6 @@ button:focus,
 button:hover {
   outline: 3px solid orange;
   border-radius: 4px;
-  padding: 1px 2px;
 }
 
 #content-panel {
