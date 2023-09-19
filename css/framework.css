@@ -8,14 +8,15 @@ body {
 
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 #page-wrapper {
   display: flex;
   flex-wrap: nowrap;
   height: 99.8vh;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 #side-wrapper {
@@ -27,7 +28,7 @@ body {
   line-height: 150%;
   font-family: sans-serif;
   font-size: 80%;
-  height: 100vh;
+  height: 99.8vh;
 }
 
 #side-wrapper a {
@@ -50,8 +51,9 @@ body {
 }
 
 #side-panel {
-  height: calc(100vh - 54px);
+  height: calc(99.8vh - 50px);
   padding: 0 10px;
+  overflow: scroll;
 }
 
 #side-header {
@@ -70,7 +72,7 @@ body {
 #content-wrapper {
   width: 60%;
   flex: auto;
-  height: 100vh;
+  height: 99.8vh;
 }
 
 #content-top {
@@ -82,14 +84,18 @@ body {
 
 #content-panel {
   width: 100%;
-  height: calc(100vh - 54px);
-  padding: 10px;
+  height: calc(99.8vh - 50px);
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #ext-wrapper {
   width: 40%;
   background-color: #f0f8ff;
-  height: calc(100vh - 54px);
+  height: calc(99.8vh - 50px);
+  z-index: 1;
+  height: 99.8vh;
+
 }
 
 #ext-top {
@@ -118,9 +124,11 @@ iframe {
 
 .dropbtn {
   border: 1px solid grey;
-  padding: 3.5px;
-  margin: 0;
+  margin: 0 5px;
+  padding: 5px 2px;
 }
+
+.dropbtn:focus {outline: 3px solid orange;}
 
 .dropdown {
   position: relative;
@@ -130,6 +138,7 @@ iframe {
 .dropdown-content {
   display: none;
   position: absolute;
+  top: 35px;
   background-color: #f1f1f1;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -158,7 +167,8 @@ iframe {
 }
 
 #close-sidebar {
-  display: none;
+  display: block;
+  float: right;
 }
 
 #open-external {

@@ -21,11 +21,11 @@
   }
 
   #open-external {
-    display: block;
+    display: none;  
   }
 
   #close-external {
-    display: block;
+    display: none;
   }
 
 }
