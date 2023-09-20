@@ -123,7 +123,7 @@ ol {
 iframe {
   width: 100%;
   height: calc(99.8vh - 50px);
-  border: none;
+  border: 1px left gainsboro;
 }
 
 .dropbtn {
