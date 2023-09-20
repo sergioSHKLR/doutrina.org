@@ -84,7 +84,12 @@ a:any-link {
 }
 
 a:any-link:focus,
-a:any-link:hover,
+a:any-link:hover {
+  outline: 3px solid orange;
+  border-radius: 4px;
+  padding: 4px;
+}
+
 button:focus,
 button:hover {
   outline: 3px solid orange;
