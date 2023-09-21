@@ -121,16 +121,16 @@ function closeExternal() {
 let myDocument = document.documentElement;
 let btn = document.getElementById("btn");
 btn.addEventListener("click", () => {
-  if (btn.textContent == "🖥️") {
+  if (btn.id == "🖥️") {
     if (myDocument.requestFullscreen) {
       myDocument.requestFullscreen();
     }
-    btn.textContent = "💻";
+    btn.id = "💻";
   } else {
     if (document.exitFullscreen) {
       document.exitFullscreen();
     }
-    btn.textContent = "🖥️";
+    btn.id = "🖥️";
   }
 });
 

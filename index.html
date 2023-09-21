@@ -1,291 +1,60 @@
 <!doctype html>
 <html lang="pt-BR">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>doutrina.org</title>
-    <meta name="description" content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
-    <meta name="author" content="sergioSHKLR, info@doutrina.org">
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://doutrina.org">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="doutrina.org">
-    <meta property="og:description" content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
-    <meta property="og:image" content="./images/screenshot.png">
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="doutrina.org">
-    <meta name="twitter:description" content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
-    <meta name="twitter:image" content="/images/screenshot.png">
-    <!-- CSS -->
-    <link rel="stylesheet" href="./css/framework.css">
-    <link rel="stylesheet" href="./css/fonts.css">
-    <link rel="stylesheet" href="./css/content.css">
-    <link rel="stylesheet" href="./css/media-queries.css">
-    <!-- FONTS -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-    <!-- PWA -->
-    <link rel="manifest" href="./pwa/site.webmanifest">
-    <meta name="theme-color" content="#4ec1f5">
-    <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
 
-    <!-- SCRIPTS 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>doutrina.org</title>
+  <meta name="description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+  <meta name="author" content="sergioSHKLR, info@doutrina.org">
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://doutrina.org">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="doutrina.org">
+  <meta property="og:description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+  <meta property="og:image" content="./images/screenshot.png">
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="doutrina.org">
+  <meta name="twitter:description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
+  <meta name="twitter:image" content="/images/screenshot.png">
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/framework.css">
+  <link rel="stylesheet" href="./css/fonts.css">
+  <link rel="stylesheet" href="./css/content.css">
+  <link rel="stylesheet" href="./css/media-queries.css">
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- PWA -->
+  <link rel="manifest" href="./pwa/site.webmanifest">
+  <meta name="theme-color" content="#4ec1f5">
+  <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
+
+  <!-- SCRIPTS 
     <script type="application/json" class="js-hypothesis-config">
       {
         "openSidebar": false
       }
     </script><script async src="https://hypothes.is/embed.js"></script> -->
-  </head>
-  <body>
-    <div id="page-wrapper">
-      <div id="side-wrapper">
-        <div id="side-top">
-          <a id="side-logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
-          <button id="close-sidebar" onclick="closeSidebar()">✖️</button>
-        </div>
-        <nav>
-          <div id="side-panel">
-            <div id="side-header">
-              <h3>Obras Básicas</h3>
-              <hr>
-              <ul>
-                <li>
-                  <a href="./1lde.html">📘 O Livro dos Espíritos</a>
-                </li>
-                <li>
-                  <a href="./2ldm.html">📙 O Livro dos Médiuns</a>
-                </li>
-                <li>
-                  <a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a>
-                </li>
-                <li>
-                  <a href="./4ceu.html">📕 O Céu e o Inferno</a>
-                </li>
-                <li>
-                  <a href="./5gen.html">📓 A Gênese</a>
-                </li>
-              </ul>
-            </div>
-            <div id="side-body">
-              <h3>Sumário</h3>
-              <hr>
-              <p>🗂️ Parte 0</p>
-              <p>📑 Capítulo</p>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <p>🗂️ Parte 1</p>
-              <p>📑 Capítulo</p>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <p>🗂️ Parte 2</p>
-              <p>📑 Capítulo</p>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <p>🗂️ Parte 3</p>
-              <p>📑 Capítulo</p>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <p>🗂️ Parte 4</p>
-              <p>📑 Capítulo</p>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <p>🗂️ Parte 5</p>
-              <p>📑 Capítulo</p>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <details>
-                <summary>📑 Capítulo</summary>
-                <details>
-                  <summary>📃 Seção</summary>
-                  <p>#️⃣ Item</p>
-                </details>
-              </details>
-              <div id="side-footer">
-                <h3>Detalhes</h3>
-                <hr>
-                <ul>
-                  <li>📅 atualizado em 18 Sep 2023</li>
-                  <li>
-                    <a href=" https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a>
-                  </li>
-                  <li>⚖️ Avisos Legais</li>
-                  <li>
-                    <a href="https://shklr.org">⭕ shklr.org</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-        </nav>
+</head>
+
+<body>
+  <div id="page-wrapper">
+    <div id="side-wrapper">
+      <div id="side-top">
+        <a id="side-logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
+        <button id="close-sidebar" onclick="closeSidebar()">✖️</button>
       </div>
-      <div id="content-wrapper">
-        <div id="content-top">
-          <button id="open-sidebar" onclick="openSidebar()" title="abrir painel de sumário">
-            <span class="material-symbols-outlined">left_panel_open</span>
-          </button>
-          <a id="content-logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
-          <div class="dropdown">
-            <button class="dropbtn">⚙️</button>
-            <div class="dropdown-content" title="ajustes de aparência (padrões tem uma borda cinza grossa)">
-              <button onclick="fontSans()">sans</button>
-              <br>
-              <button onclick="fontSerif()">serif</button>
-              <br>
-              <button class="active" onclick="fontSlab()">slab</button>
-              <br>
-              <button onclick="fontMono()">mono</button>
-              <br>
-              <button onclick="fontSmall()" title="letra menor">​menor</button>
-              <br>
-              <button class="active" onclick="fontMedium()" title="letra normal">​normal</button>
-              <br>
-              <button onclick="fontLarge()" title="letra grande">​grande</button>
-              <br>
-              <button onclick="bgSepia()" title="sépia">🟫</button>
-              <br>
-              <button onclick="bgBlack()" title="negro">⬛</button>
-              <br>
-              <button class="active" onclick="bgWhite()" title="branco">⬜</button>
-              <br>
-              <button onclick="lineNarrow()" title="estreito">1.1</button>
-              <br>
-              <button class="active" onclick="lineNormal()" title="normal">1.5</button>
-              <br>
-              <button onclick="lineWide()" title="largo">1.9</button>
-              <br>
-            </div>
-          </div>
-          <button id="btn" title="tela cheia/normal">🖥️</button>
-          <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
-        </div>
-        <main>
-          <div id="content-panel">
-            <h1 id="-início">
-              <a class="header" href="#-início">🏡 Início</a>
-            </h1>
-            <p>Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:</p>
-            <ul>
-              <li>👻 Espíritos,</li>
-              <li>👴🏻 Allan Kardec, e da</li>
-              <li>✝️ bíblia.</li>
-            </ul>
-            <p>Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterando a mensagem mas facilitando o seu estudo, assimilação.</p>
-            <p>Nossas fases de desenvolvimento são:</p>
-            <ol>
-              <li>extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM e ESE prontos. CEU em desenvolvimento ativo e GEN em seguinte.</li>
-              <li>criação desta plataforma digital inédita, e teste de funcionamento em dispositivos diversos (celular, tablet, laptop, desktop, etc.). Status: em desenvolvimento ativo.</li>
-              <li>inclusão, sequencial (LDE, LDM, ESE, CEU e GEN) de links externos (artigos, definições, mapas, vídeos, etc) </li>
-            </ol>
-            <p>Para tal fim, use o menu, as setas de navegação ou os links abaixo.</p>
+      <nav>
+        <div id="side-panel">
+          <div id="side-header">
+            <h3>Obras Básicas</h3>
+            <hr>
             <ul>
               <li>
                 <a href="./1lde.html">📘 O Livro dos Espíritos</a>
@@ -303,31 +72,195 @@
                 <a href="./5gen.html">📓 A Gênese</a>
               </li>
             </ul>
-            <p>Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github. 🌢</p>
-            <p>&nbsp;</p>
           </div>
-        </main>
-      </div>
-      <div id="ext-wrapper">
-        <div id="ext-top">
-          <!--
-<button onclick="toggleExtLinks()">➕</button><div id="ext-links"> -->
-          <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
-          <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
-          <a target="ext" href="./maps/paris.html" title="mapa">🗺️</a>
-          <!--
-</div> -->
-          <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">🌚</button>
-          <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
-        </div>
-        <aside>
-          <div id="ext-panel">
-            <iframe id="ext" class="shades-on" name="ext" src="./ext.html" title="painel complementar"></iframe>
+          <div id="side-body">
+            <h3>Sumário</h3>
+            <hr>
+            <ul>
+              <li>🗂️ Parte 0
+                <ul>
+                  <li>📑 Capítulo</li>
+                  <li>📑 Capítulo</li>
+                  <li>📑 Capítulo</li>
+
+              </li>
+            </ul>
+            <li>🗂️ Parte 1
+              <ul>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+            </li>
+            </ul>
+            <li>🗂️ Parte 2
+              <ul>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+            </li>
+            </ul>
+            <li>🗂️ Parte 3
+              <ul>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+            </li>
+            </ul>
+            <li>🗂️ Parte 4
+              <ul>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+            </li>
+            </ul>
+            <li>🗂️ Parte 5
+              <ul>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+                <li>📑 Capítulo</li>
+            </li>
+            </ul>
+            </ul>
+            <div id="side-footer">
+              <h3>Detalhes</h3>
+              <hr>
+              <ul>
+                <li>📅 atualizado em 18 Sep 2023</li>
+                <li>
+                  <a href=" https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a>
+                </li>
+                <li>⚖️ Avisos Legais</li>
+                <li>
+                  <a href="https://shklr.org">⭕ shklr.org</a>
+                </li>
+              </ul>
+            </div>
           </div>
-        </aside>
-      </div>
+      </nav>
     </div>
-    <!-- JAVA -->
-    <script src="./js/combined.js"></script>
-  </body>
+    <div id="content-wrapper">
+      <div id="content-top">
+        <button id="open-sidebar" onclick="openSidebar()" title="abrir painel de sumário">➡️</button>
+        <a id="content-logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
+        <div class="dropdown">
+          <button class="dropbtn">⚙️</button>
+          <div class="dropdown-content" title="ajustes de aparência (padrões tem uma borda cinza grossa)">
+            <button onclick="fontSans()">sans</button>
+            <br>
+            <button onclick="fontSerif()">serif</button>
+            <br>
+            <button class="active" onclick="fontSlab()">slab</button>
+            <br>
+            <button onclick="fontMono()">mono</button>
+            <br>
+            <button onclick="fontSmall()" title="letra menor">​menor</button>
+            <br>
+            <button class="active" onclick="fontMedium()" title="letra normal">​normal</button>
+            <br>
+            <button onclick="fontLarge()" title="letra grande">​grande</button>
+            <br>
+            <button onclick="bgSepia()" title="sépia">🟫</button>
+            <br>
+            <button onclick="bgBlack()" title="negro">⬛</button>
+            <br>
+            <button class="active" onclick="bgWhite()" title="branco">⬜</button>
+            <br>
+            <button onclick="lineNarrow()" title="estreito">1.1</button>
+            <br>
+            <button class="active" onclick="lineNormal()" title="normal">1.5</button>
+            <br>
+            <button onclick="lineWide()" title="largo">1.9</button>
+            <br>
+          </div>
+        </div>
+        <button id="btn" title="tela cheia/normal">🖥️</button>
+        <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
+      </div>
+      <main>
+        <div id="content-panel">
+          <h1 id="-início">
+            <a class="header" href="#-início">🏡 Início</a>
+          </h1>
+          <p>Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos
+            criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se
+            perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando
+            ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de
+            fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando
+            artigos, imagens, vídeos e mapas ao texto original dos:</p>
+          <ul>
+            <li>👻 Espíritos,</li>
+            <li>👴🏻 Allan Kardec, e da</li>
+            <li>✝️ bíblia.</li>
+          </ul>
+          <p>Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterando a mensagem mas
+            facilitando o seu estudo, assimilação.</p>
+          <p>Nossas fases de desenvolvimento são:</p>
+          <ol>
+            <li>extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM e ESE
+              prontos. CEU em desenvolvimento ativo e GEN em seguinte.</li>
+            <li>criação desta plataforma digital inédita, e teste de funcionamento em dispositivos diversos (celular,
+              tablet, laptop, desktop, etc.). Status: em desenvolvimento ativo.</li>
+            <li>inclusão, sequencial (LDE, LDM, ESE, CEU e GEN) de links externos (artigos, definições, mapas, vídeos,
+              etc) </li>
+          </ol>
+          <p>Para tal fim, use o menu, as setas de navegação ou os links abaixo.</p>
+          <ul>
+            <li>
+              <a href="./1lde.html">📘 O Livro dos Espíritos</a>
+            </li>
+            <li>
+              <a href="./2ldm.html">📙 O Livro dos Médiuns</a>
+            </li>
+            <li>
+              <a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a>
+            </li>
+            <li>
+              <a href="./4ceu.html">📕 O Céu e o Inferno</a>
+            </li>
+            <li>
+              <a href="./5gen.html">📓 A Gênese</a>
+            </li>
+          </ul>
+          <p>Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto,
+            entre em contato pelo Github. 🌢</p>
+          <p>&nbsp;</p>
+        </div>
+      </main>
+    </div>
+    <div id="ext-wrapper">
+      <div id="ext-top">
+        <!--
+<button onclick="toggleExtLinks()">➕</button><div id="ext-links"> -->
+        <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
+        <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
+        <a target="ext" href="./maps/paris.html" title="mapa">🧭</a>
+        <!--
+</div> -->
+        <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">👁️</button>
+        <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
+      </div>
+      <aside>
+        <div id="ext-panel">
+          <iframe id="ext" class="shades-on" name="ext" src="./ext.html" title="painel complementar"></iframe>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <!-- JAVA -->
+  <script src="./js/combined.js"></script>
+</body>
+
 </html>
