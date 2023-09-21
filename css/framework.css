@@ -145,8 +145,10 @@ ol {
 
 iframe {
   width: 100%;
-  height: calc(99.8vh - 50px);
-  border: 1px left gainsboro;
+  height: calc(100vh - 50px);
+  border-left: 1px solid gainsboro;
+border-top: none;
+border-bottom: none;
 }
 
 .dropbtn {
