@@ -79,27 +79,29 @@
   margin-bottom: 20px;
 }
 
-a:any-link {
-  text-decoration: none;
+#content-panel a:any-link {
+  text-decoration:underline 1.5px solid mediumblue;
+text-underline-offset: 2px;
+color: mediumblue
+
 }
 
 a:any-link:focus,
 a:any-link:hover {
   outline: 3px solid orange;
   border-radius: 4px;
-  padding: 4px;
 }
 
 .active {
   outline: 3px solid dodgerblue;
   border-radius: 4px;
-  padding: 4px;
 }
 
 button:focus,
 button:hover {
   outline: 3px solid orange;
   border-radius: 4px;
+
 }
 
 #content-panel {
