@@ -24,7 +24,7 @@ body {
   display: block;
   flex-direction: column;
   background-color: #444;
-  color: #ddd;
+  color: #fff;
   line-height: 150%;
   font-family: sans-serif;
   font-size: 80%;
@@ -32,7 +32,7 @@ body {
 }
 
 #side-wrapper a {
-  color: #eee;
+  color: #fff;
   text-decoration: none;
 }
 /*
