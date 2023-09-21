@@ -31,12 +31,26 @@
     navigator.serviceWorker.register('sw.js')
   }
 </script>
-<script>
-btn.addEventListener("click", () => {
-  let promise = Notification.requestPermission();
-  // wait for permission
-});
 
+<script>
+      let shareData = {
+        title: "doutrina.org",
+        text: "Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.",
+        url: 'https://doutrina.org',
+      }
+
+      const btn = document.querySelector('button');
+      const resultPara = document.querySelector('.result');
+
+      btn.addEventListener('click', () => {
+        navigator.share(shareData)
+          .then(() =>
+            resultPara.textContent = "Sucesso!"
+          )
+          .catch((e) =>
+            resultPara.textContent = "Erro"
+          )
+      });
 </script>
     <!-- SCRIPTS 
     <script type="application/json" class="js-hypothesis-config">
@@ -268,10 +282,6 @@ btn.addEventListener("click", () => {
 
  <button id="btn" title="tela cheia/normal">🖥️</button>
 
-<button id="enable">💬</button>
-
-
-
  <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
 
  </div>
@@ -341,26 +351,6 @@ btn.addEventListener("click", () => {
  </div>
  <!-- JAVA -->
  <script src="./js/combined.js"></script>
-<script>
-function askNotificationPermission() {
-  // function to actually ask the permissions
-  function handlePermission(permission) {
-    // set the button to shown or hidden, depending on what the user answers
-    notificationBtn.style.display =
-      Notification.permission === "granted" ? "none" : "block";
-  }
-
-  // Let's check if the browser supports notifications
-  if (!("Notification" in window)) {
-    console.log("This browser does not support notifications.");
-  } else {
-    Notification.requestPermission().then((permission) => {
-      handlePermission(permission);
-    });
-  }
-}
-
-</script>
 </body>
 
 </html>

@@ -16,8 +16,3 @@ workbox.routing.registerRoute(
     cacheName: CACHE
   })
 );
-
-btn.addEventListener("click", () => {
-  let promise = Notification.requestPermission();
-  // wait for permission
-});
