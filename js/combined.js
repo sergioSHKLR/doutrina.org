@@ -150,24 +150,3 @@ function closeSidebar() {
   document.getElementById("side-wrapper").style.display = "none";
   document.getElementById("open-sidebar").style.display = "block";
 }
-
-/**
- * Details/summary HTML element
- * Only open one element at a time
- */
-if (document.querySelector('details > details')) {
-    // Fetch all the details elements
-    const details = document.querySelectorAll('details > details');
-
-    // Add onclick listeners
-    details.forEach((targetDetail) => {
-        targetDetail.addEventListener("click", () => {
-            // Close all details that are not targetDetail
-            details.forEach((detail) => {
-                if (detail !== targetDetail) {
-                    detail.removeAttribute("open");
-                }
-            });
-        });
-    });
-}

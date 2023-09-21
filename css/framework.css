@@ -21,7 +21,7 @@ body {
 
 #side-wrapper {
   width: 300px;
-  display: flex;
+  display: block;
   flex-direction: column;
   background-color: #444;
   color: #ccc;
