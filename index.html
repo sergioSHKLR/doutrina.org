@@ -11,7 +11,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="doutrina.org">
     <meta property="og:description" content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.">
-    <meta property="og:image" content="/images/screenshot.png">
+    <meta property="og:image" content="./images/screenshot.png">
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="doutrina.org">
@@ -25,12 +25,19 @@
     <!-- PWA -->
     <link rel="manifest" href="./pwa/site.webmanifest">
     <meta name="theme-color" content="#4ec1f5">
-    <link rel="icon" href="/pwa/favicon.svg" type="image/svg+xml">
-    <script>
-      if (typeof navigator.serviceWorker !== 'undefined') {
-        navigator.serviceWorker.register('/pwa/sw.js')
-      }
-    </script>
+    <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
+   <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
+<script>
+btn.addEventListener("click", () => {
+  let promise = Notification.requestPermission();
+  // wait for permission
+});
+
+</script>
     <!-- SCRIPTS 
     <script type="application/json" class="js-hypothesis-config">
       {
