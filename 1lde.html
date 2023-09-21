@@ -66,7 +66,7 @@
  <h3>Obras Básicas</h3>
  <hr>
  <ul>
- <span class="active">📘 O Livro dos Espíritos</span>
+ <li><span class="active">📘 O Livro dos Espíritos</span></li>
  <li><a href="./2ldm.html">📙 O Livro dos Médiuns</a></li>
  <li><a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a></li>
  <li><a href="./4ceu.html">📕 O Céu e o Inferno</a></li>
@@ -76,25 +76,25 @@
  <div id="side-body">
  <h3>Sumário</h3>
  <hr>
- <ul>
- <li>🗂️ 0. Pré-textual
- <ul>
+ <ol start="0">
+ <li>🗂️ Pré-textual
+ <ol>
  <li><a href="lde-0-01">📃 Folha de rosto</a></li>
- <li><a href="#">📑 Introdução</a></li>
  <li><a href="#">📃 Prefácio</a></li>
+ <li><a href="#">📑 Introdução</a></li>
 
  </li>
- </ul>
- <li>🗂️ 1. Causas Primárias
- <ul>
+ </ol>
+ <li>🗂️ Causas Primárias
+ <ol>
  <li><a href="#">📑 Deus</a></li>
  <li><a href="#">📑 Elementos Gerais</a></li>
  <li><a href="#">📑 Criação</a></li>
  <li><a href="#">📑 Princípio vital</a></li>
  </li>
- </ul>
- <li>🗂️ 2. Mundo Espírita
- <ul>
+ </ol>
+ <li>🗂️ Mundo Espírita
+ <ol>
  <li><a href="#">📑 Espíritos</a></li>
  <li><a href="#">📑 Encarnação</a></li>
  <li><a href="#">📑 Retorno</a></li>
@@ -107,9 +107,9 @@
  <li><a href="#">📑 Ocupações e missões</a></li>
  <li><a href="#">📑 Três reinos</a></li>
  </li>
- </ul>
- <li>🗂️ 3. Leis Morais
- <ul>
+ </ol>
+ <li>🗂️ Leis Morais
+ <ol>
  <li><a href="#">📑 Divina</a></li>
  <li><a href="#">📑 Adoração</a></li>
  <li><a href="#">📑 Trabalho</a></li>
@@ -124,29 +124,27 @@
  <li><a href="#">📑 Perfeição moral</a></li>
 
  </li>
- </ul>
- <li>🗂️ 4. Esperanças e consolações
- <ul>
+ </ol>
+ <li>🗂️ Esperanças e consolações
+ <ol>
  <li><a href="#">📑 Penas e gozos terrenos</a></li>
  <li><a href="#">📑 Penas e gozos futuros</a></li>
  </li>
- </ul>
- <li><a href="#">🗂️ 5. Conclusão</a></li>
+ </ol>
+ <li><a href="#">🗂️ Conclusão</a></li>
 
 
- </ul>
- </ul>
+ </ol>
+
  <div id="side-footer">
  <h3>Detalhes</h3>
  <hr>
- <ul>
- <li><a href="#">📅 atualizado em 18 Sep 2023</a></li>
- <li><a href=" https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a>
- </a></li>
+ <ol>
+ <li><a href="#">📅 atualizado em 21 Sep 2023</a></li>
+ <li><a href=" https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a></li>
  <li><a href="#">⚖️ Avisos Legais</a></li>
- <li><a href="https://shklr.org">⭕ shklr.org</a>
- </a></li>
- </ul>
+ <li><a href="https://shklr.org">⭕ shklr.org</a></li>
+ </ol>
  </div>
  </div>
  </div>
@@ -198,12 +196,12 @@
  <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
  <a target="ext" href="./maps/paris.html" title="mapa">🧭</a>
 
- <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">⬛</button>
+ <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">⬜</button>
  <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
  </div>
  <aside>
- <div id="ext-panel">
- <iframe id="ext" name="ext" src="./angel-splash.html" title="painel complementar"></iframe>
+ <div id="ext-panel" class="shades-on">
+ <iframe id="ext" name="ext" src="https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos" title="painel complementar"></iframe>
  </div>
  </aside>
  </div>

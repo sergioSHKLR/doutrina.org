@@ -135,7 +135,7 @@ btn.addEventListener("click", () => {
 
 // toggles anti-distraction curtain
 function toggleShades() {
-  var element = document.getElementById("ext");
+  var element = document.getElementById("ext-panel");
   element.classList.toggle("shades-on");
   var x = document.getElementById("shades");
   if (x.textContent === "⬛") {

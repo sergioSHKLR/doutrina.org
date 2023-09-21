@@ -45,7 +45,7 @@
  <!-- SCRIPTS -->
  <script type="application/json" class="js-hypothesis-config">
  {
- "openSidebar": true
+ "openSidebar": false
  }
  </script>
 
@@ -87,52 +87,9 @@
  <h3>Sumário</h3>
  <hr>
  <ul>
- <li>🗂️ Parte 0
- <ul>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
-
- </li>
+ 
  </ul>
- <li>🗂️ Parte 1
- <ul>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- </li>
- </ul>
- <li>🗂️ Parte 2
- <ul>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- </li>
- </ul>
- <li>🗂️ Parte 3
- <ul>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- </li>
- </ul>
- <li>🗂️ Parte 4
- <ul>
- <li>📑 Capítulo</li>
- <li>📑 Capítulo</li>
- </li>
- </ul>
- <li>🗂️ Parte 5
- </ul>
- </ul>
+ 
  <div id="side-footer">
  <h3>Detalhes</h3>
  <hr>
@@ -179,9 +136,8 @@
  </div>
  <main>
  <div id="content-panel">
- <h1 id="-início">
- <a class="header" href="#-início">🏠 Início</a>
- </h1>
+
+<h1>Bem-vindo!</h1>
 
  <img src="./images/polaroid.avif" alt="polaroid de Allan Kardec"
  style="max-height: 30vh; display: block; margin-left: auto; margin-right: auto;">
@@ -250,12 +206,12 @@
  <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
  <a target="ext" href="./maps/paris.html" title="mapa">🧭</a>
 
- <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">⬛</button>
+ <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">​⬜</button>
  <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
  </div>
  <aside>
- <div id="ext-panel">
- <iframe id="ext" name="ext" src="./angel-splash.html" title="painel complementar"></iframe>
+ <div id="ext-panel" class="shades-on">
+ <iframe id="ext" name="ext" src="https://pt.m.wikipedia.org/wiki/Espiritismo" title="painel complementar"></iframe>
  </div>
  </aside>
  </div>
