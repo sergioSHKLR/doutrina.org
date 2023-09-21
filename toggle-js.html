@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.mystyle {background-color: red;}
+button {padding: 0px; font-size: 30px; border: none;}
+</style>
+</head>
+<body>
+
+<p>Click the button to swap the text of the DIV element:</p>
+
+<p><button id="btn" onclick="myFunction()">👓</button></p>
+
+<div id="myDIV">Hello</div>
+
+<script>
+function myFunction() {
+  var element = document.getElementById("myDIV");
+  element.classList.toggle("mystyle");
+  var x = document.getElementById("btn");
+  if (x.innerHTML === "👓") {
+    x.innerHTML = "🕶️";
+  } else {
+    x.innerHTML = "👓";
+  }
+}
+</script>
+
+</body>
+</html>
+

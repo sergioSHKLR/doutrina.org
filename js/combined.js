@@ -105,7 +105,6 @@ function lineWide() {
   element.classList.add("wide");
 }
 
-
 // toggles ext panel visibility
 function openExternal() {
   document.getElementById("ext-wrapper").style.display = "block";
@@ -121,16 +120,16 @@ function closeExternal() {
 let myDocument = document.documentElement;
 let btn = document.getElementById("btn");
 btn.addEventListener("click", () => {
-  if (btn.id == "🖥️") {
+  if (btn.textContent == "🖥️") {
     if (myDocument.requestFullscreen) {
       myDocument.requestFullscreen();
     }
-    btn.id = "💻";
+    btn.textContent = "💻";
   } else {
     if (document.exitFullscreen) {
       document.exitFullscreen();
     }
-    btn.id = "🖥️";
+    btn.textContent = "🖥️";
   }
 });
 
@@ -138,6 +137,12 @@ btn.addEventListener("click", () => {
 function toggleShades() {
   var element = document.getElementById("ext");
   element.classList.toggle("shades-on");
+  var x = document.getElementById("shades");
+  if (x.textContent === "⬛") {
+    x.textContent = "⬜";
+  } else {
+    x.textContent = "⬛";
+  }
 }
 
 // toggles sidebar visibility
@@ -149,4 +154,14 @@ function openSidebar() {
 function closeSidebar() {
   document.getElementById("side-wrapper").style.display = "none";
   document.getElementById("open-sidebar").style.display = "block";
+}
+
+// toggles ext links visibility
+function textEffects() {
+  var x = document.getElementById("text-effects");
+  if (x.style.display === "inline-flex") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "inline-flex";
+  }
 }

@@ -1,15 +1,15 @@
 .sans {
-  font-family: sans-serif;
+  font-family: sans-serif !important;
 }
 
 .serif {
-  font-family: 'Georgia';
-  font-size: 105%
+  font-family: 'Georgia' !important;
+  font-size: 105%;
 }
 
 .mono {
-  font-family: monospace;
-  font-size: 95%
+  font-family: monospace !important;
+  font-size: 95%;
 }
 
 .slab {
@@ -29,15 +29,15 @@
 }
 
 .narrow {
-  line-height: 1.1;
+  line-height: 1.1 !important;
 }
 
 .normal {
-  line-height: 1.5;
+  line-height: 1.5 !important;
 }
 
 .wide {
-  line-height: 1.9;
+  line-height: 1.9 !important;
 }
 
 .white {
@@ -90,6 +90,12 @@ a:any-link:hover {
   padding: 4px;
 }
 
+.active {
+  outline: 3px solid dodgerblue;
+  border-radius: 4px;
+  padding: 4px;
+}
+
 button:focus,
 button:hover {
   outline: 3px solid orange;
@@ -105,24 +111,39 @@ button:hover {
 }
 
 div.gold-fleuron {
-    border-bottom: 1px solid goldenrod;
-    text-align: center
+  border-bottom: 1px solid goldenrod;
+  text-align: center
 }
 
 div.silver-fleuron {
-    border-bottom: 1px solid lightgrey;
-    text-align: center
+  border-bottom: 1px solid lightgrey;
+  text-align: center
 }
 
 span.gold-fleuron {
-    background-color: white;
-    position: relative;
-    top: 10px
+  background-color: white;
+  position: relative;
+  top: 10px
 }
 
 span.silver-fleuron {
-    background-color: white;
-    filter: grayscale(100%);
-    position: relative;
-    top: 10px
+  background-color: white;
+  filter: grayscale(100%);
+  position: relative;
+  top: 10px
+}
+
+.flipH {
+  display: inline-block;
+  transform: scale(-1, 1);
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+.rot45 {
+  display: inline-block;
+  transform: rotate(45deg);
 }
