@@ -6,7 +6,7 @@
   "start_url": "/",
   "short_name": "doutrina",
   "theme_color": "#4ec1f5",
-  "description": "Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros e evitando distrações.",
+  "description": "Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.",
   "orientation": "landscape-primary",
   "background_color": "#000",
   "related_applications": [],
@@ -23,8 +23,8 @@
     "action": "/handle-shared-content/",
     "method": "GET",
     "params": {
-      "title": "title",
-      "url": "url"
+      "title": "doutrina.org",
+      "url": "https://doutrina.org"
     }
   },
   "scope_extensions": [
@@ -46,8 +46,8 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot-pwa.png",
-      "sizes": "624x1179",
+      "src": "github-card.png",
+      "sizes": "1280x640",
       "type": "image/png"
     }
   ],
