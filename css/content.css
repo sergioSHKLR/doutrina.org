@@ -103,3 +103,26 @@ button:hover {
 #content-panel p {
   margin: 20px 0;
 }
+
+div.gold-fleuron {
+    border-bottom: 1px solid goldenrod;
+    text-align: center
+}
+
+div.silver-fleuron {
+    border-bottom: 1px solid lightgrey;
+    text-align: center
+}
+
+span.gold-fleuron {
+    background-color: white;
+    position: relative;
+    top: 10px
+}
+
+span.silver-fleuron {
+    background-color: white;
+    filter: grayscale(100%);
+    position: relative;
+    top: 10px
+}
