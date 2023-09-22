@@ -75,10 +75,7 @@ Se a Religião se mostra impotente para sustar a incredulidade, é que lhe falta
 
 O que lhe falta neste século de positivismo, em que se procura compreender antes de crer, é, sem dúvida, a sanção de suas doutrinas por fatos positivos, assim como a concordância das mesmas com os dados positivos da Ciência. Dizendo ela ser branco o que os fatos dizem ser negro, é preciso optar entre a evidência e a fé cega.  
 
-[^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.  
-Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.” — Eis a consequência lógica do niilismo.  
-Se este moço fora espírita, teria dito: “A morte só destruirá o corpo, que deixarei como fato usado, mas o meu Espírito viverá. Serei na vida futura aquilo que eu próprio houver feito de mim nesta vida; do que nela puder adquirir em qualidades morais e intelectuais nada perderei, porque será outro tanto de ganho para o meu adiantamento; toda a imperfeição de que me livrar será um passo a mais para a felicidade. A minha felicidade ou infelicidade depende da utilidade ou inutilidade da presente existência. É portanto de meu interesse aproveitar o pouco tempo que me resta, e evitar tudo o que possa diminuir-me as forças.”  
-Qual destas doutrinas é preferível?
+
 
 ##### 04
 
@@ -271,11 +268,7 @@ O astrônomo Ptolomeu [^3] contava onze e denominava ao último Empíreo [^4] po
 
 É este ainda hoje o nome poético dado ao lugar da glória eterna. A teologia cristã reconhece três céus: o primeiro é o da região do ar e das nuvens; o segundo, o espaço em que giram os astros, e o terceiro, para além deste, é a morada do Altíssimo, a habitação dos que o contemplam face a face. É conforme a esta crença que se diz que Paulo foi alçado ao terceiro céu.  
 
-[^2]: N.E.: Foi realizada pesquisa no Alcorão, livro considerado sagrado pelos muçulmanos, e em várias suratas (capítulos) foi constatada a crença em sete céus, e não em nove como o descrito acima.  
-
-[^3]: Nota de Allan Kardec: Ptolomeu viveu em Alexandria, Egito, no segundo século da Era Cristã.  
-
-[^4]: Nota de Allan Kardec: Do grego, pur ou pyr, fogo.  
+  
 
 ##### 02
 
@@ -353,7 +346,6 @@ Para cada nova existência entra o Espírito com o cabedal adquirido nas anterio
 
 A encarnação é inerente à inferioridade dos Espíritos, deixando de ser necessária desde que estes, transpondo-lhe os limites, ficam aptos para progredir no estado espiritual, ou nas existências corporais de mundos superiores, que nada têm da materialidade terrestre. Da parte destes a encarnação é voluntária, tendo por fim exercer sobre os encarnados uma ação mais direta e tendente ao cumprimento da missão que lhes compete junto dos mesmos. Desse modo aceitam abnegadamente as vicissitudes e sofrimentos da encarnação.  
 
-[^5]: Nota de Allan Kardec: Vede 1a Parte, cap. I, item 3, nota 1
 
 ##### 10
 
@@ -459,11 +451,7 @@ Não podendo compreender senão o que vê, o homem primitivo naturalmente moldou
 
 O inferno pagão, descrito e dramatizado pelos poetas, foi o modelo mais grandioso do gênero, e perpetuou-se no seio dos cristãos, onde, por sua vez, houve poetas e cantores. Comparando-os, encontram-se neles — salvo os nomes e variantes de detalhe — numerosas analogias; ambos têm o fogo material por base de tormentos, como símbolo dos sofrimentos mais atrozes. Mas coisa singular! os cristãos exageraram em muitos pontos o inferno dos pagãos. Se estes tinham o tonel das Danaides [^7], a roda de Íxion [^8], o rochedo de Sísifo [^9], eram estes suplícios individuais; os cristãos, ao contrário, têm para todos, sem distinção, as caldeiras ferventes cujos tampos os anjos levantam para ver as contorções dos supliciados [^10]; e Deus, sem piedade, ouve-lhes os gemidos por toda a eternidade. Jamais os pagãos descreveram os habitantes dos Campos Elíseos deleitando a vista nos suplícios do Tártaro. [^11]
 
-[^7]: N.E.: As cinquenta filhas de Dânaos, Rei de Argos, que, com exceção de uma, mataram seus maridos na noite de núpcias, e foram condenadas a encher eternamente, no inferno, um tonel sem fundo.  
-[^8]: N.E.: Por caluniar Zeus, Íxion foi fulminado por um raio e lançado no Tártaro, onde foi preso a uma roda em chamas e condenado a nela girar pela eternidade.  
-[^9]: N.E.: Por assaltar os viajantes, Zeus condenou Sísifo ao Tártaro, e deu-lhe como castigo eterno a obrigação de empurrar uma pedra até o lugar mais alto da montanha, de onde ela sempre rola de volta.  
-[^10]: Nota de Allan Kardec: Sermão pregado em Montpellier em 1860.  
-[^11]: Nota de Allan Kardec: “Os bem-aventurados, sem deixarem o lugar que ocupam, poderão afastar-se de certo modo em razão do seu dom de inteligência e da vista distinta, a fim de considerarem as torturas dos condenados, e, vendo-os, não somente serão insensíveis à dor, mas até ficarão repletos de alegria e renderão graças a Deus por sua própria felicidade, assistindo à inefável calamidade dos ímpios.” (São Tomás de Aquino.)  
+ 
 
 ##### 04
 
@@ -473,7 +461,6 @@ Já se tem discutido seriamente sobre a natureza desse fogo que queima, mas não
 
 O inferno cristão nada cede, pois, ao inferno pagão.  
 
-[^12]: Nota de Allan Kardec: Sermão pregado em Paris em 1861.
 
 ##### 05
 
@@ -495,9 +482,12 @@ Esta mistura de ideias cristãs e pagãs nada tem de surpreendente. Jesus não p
 
 Localizados o Céu e o inferno, as seitas cristãs foram levadas a não admitir para as almas senão duas situações extremas: a felicidade perfeita e o sofrimento absoluto. O purgatório é apenas uma posição intermediária e passageira, ao sair da qual as almas passam, sem transição, à mansão dos justos.  
 
-Outra não pode ser a hipótese, dada a crença na sorte definitiva da alma após a morte. Se não há mais de duas habitações, a dos eleitos e a dos condenados, não se podem admitir muitos graus em cada uma sem admitir a possibilidade de os franquear e, conseguintemente, o progresso. Ora, se há progresso, não há sorte definitiva, e se há sorte definitiva, não há progresso. Jesus resolveu a questão quando disse: “Há muitas moradas na casa de meu Pai.”[^13] (João, 14:2.)  
+Outra não pode ser a hipótese, dada a crença na sorte definitiva da alma após a morte. Se não há mais de duas habitações, a dos eleitos e a dos condenados, não se podem admitir muitos graus em cada uma sem admitir a possibilidade de os franquear e, conseguintemente, o progresso. Ora, se há progresso, não há sorte definitiva, e se há sorte definitiva, não há progresso. Jesus resolveu a questão quando disse:
 
-[^13]:  Nota de Allan Kardec: Cap. III de O evangelho segundo o espiritismo.
+> ✝️ ▸ *Há muitas moradas na casa de meu Pai.* [^13]
+>
+> **João, cap. 14, vers. 02, ARC**
+
 
 #### Os limbos
 
@@ -565,17 +555,7 @@ Acreditei que os homens eram para os reis o que os cavalos e outros animais de c
 
 O que mais consternou Telêmaco, porém, foi ver nesse abismo de trevas e males um grande número de reis que, tendo passado na Terra pelos melhores, condenaram-se às penas do Tártaro por se terem deixado guiar por homens ardilosos e maus. Tal punição correspondia aos males que tinham deixado praticar em nome da sua autoridade. Ademais, a maior parte desses reis não foram nem bons nem maus, tal a sua fraqueza; não os atemorizava a ignorância da verdade, e assim como nunca experimentaram o prazer da virtude, jamais poderiam fazê-lo consistir na prática do bem.  
 
-[^14]: N.E.: Personagem da Odisseia, filho de Odisseus e Penélope.
-[^15]: N.E.: Deus romano do comércio e dos viajantes.
-[^16]: N.E.: Barqueiro dos infernos que, mediante pagamento, transportava os mortos na travessia das águas infernais.
-[^18]: N.E.: Três deusas gregas da vingança: Alecto, Tisífone e Megera.  
-[^19]: N.E.: Na mitologia grega, monstro fabuloso representado com cabeça de leão, dorso de cabra e cauda de serpente ou dragão.  
-[^20]: N.E.: Herói mitológico, filho de Posêidon. Montou Pégaso, o cavalo alado, e matou a Quimera.  
-[^21]: N.E.: Na mitologia grega, serpente monstruosa com sete cabeças que renasciam tão logo eram cortadas.  
-[^22]: N.E.: Herói romano; deus protetor da agricultura, do comércio e dos exércitos.  
-[^23]: N.E.: Cão tricéfalo, guardião dos infernos.  
-[^24]: N.E.: Na mitologia grega, gigantes ferreiros e construtores, com apenas um olho no meio da testa.  
-[^25]: N.E.: Deus romano do fogo e da metalurgia. 
+
 
 #### Esboço do inferno cristão
 
@@ -583,7 +563,7 @@ O que mais consternou Telêmaco, porém, foi ver nesse abismo de trevas e males 
 
 A opinião dos teólogos sobre o inferno resume-se nas seguintes citações.26 Esta descrição, sendo tomada dos autores sagrados e da vida dos santos, pode tanto melhor ser considerada como expressão da fé ortodoxa na matéria, quanto é ela reproduzida a cada instante, com pequenas variantes, nos sermões do púlpito evangélico e nas instruções pastorais.  
 
-[^26]: Nota de Allan Kardec: Estas citações são tiradas da obra O inferno, de Augusto Callet.  
+
 
 ##### 12
 
@@ -619,19 +599,7 @@ Quase nada se conhece da ralé demoníaca, desses vis Espíritos que compõem as
 
 Eis aí resumida a ideia que nos dão do inferno, sob o ponto de vista da sua natureza física e também das penas físicas que aí sofrem. Compulsai os escritos dos padres e dos antigos doutores; interrogai as pias legendas; observai as esculturas e painéis das nossas igrejas; atentai no que dizem dos púlpitos e sabereis ainda mais.
 
-[^27]: N.E.: “Já foi derrubada na sepultura a tua soberba com o som das tuas violas; os vermes debaixo de ti se estenderão, e os bichos te cobrirão.” (Isaías, 14:11.)  
 
-[^28]:  N.E.: Tofel/Tophel, do hebraico mentiroso, falacioso. Alusão ao demônio Mefistófeles ou ao personagem Mefistófeles da obra Fausto de Goethe.  
-
-[^29]: N.E.: Mateus, 8:12; 13:42; 13:50; 22:13; 24:51; 25:30 e Lucas, 13:28.
-
-[^30]: Nota de Allan Kardec: Nesta visão se reconhecem todos os caracteres dos pesadelos, sendo provável que fosse deste gênero de fenômenos o acontecido a Santa Teresa.
-
-[^31]: N.E.: Segundo os egípcios, é o templo em que as almas dos mortos são reunidas para serem julgadas por Osíris (deus que garante a vida no Além).
-
-[^32]: Nota de Allan Kardec: Singular punição, na verdade, esta de poder continuar em maior escala a prática de mal menor feito na Terra. Mais racional seria o sofrerem os próprios malfeitores as consequências desse mal, em lugar de se darem ao prazer de proporcioná-lo a outrem.
-
-[^33]: Nota de Allan Kardec: Esses mesmos demônios rebeldes a Deus quanto ao bem, são de uma docilidade exemplar quanto à prática do mal. Nenhum se esquiva ou afrouxa durante a eternidade. Que singular metamorfose em quem fora criado puro e perfeito como os anjos! Não é de pasmar vê-los dar exemplos de harmonia, de concórdia inalterável quando os homens sequer não sabem viver em paz na Terra, antes se laceram mutuamente? Vendo-se o requinte dos castigos reservados aos condenados e comparando sua situação à dos demônios, é caso de perguntar quais os mais dignos de lástima — se as vítimas ou os algozes.
 
 ##### 13
 
@@ -647,7 +615,7 @@ Era pouco aparentemente o abandono, depois da morte, à tristeza, ao arrependime
 
 Ainda assim Ele não as abandonará para sempre, em absoluto, visto como Céu e Terra não subsistem senão por ato permanente da sua vontade sempre ativa. Deus terá, portanto, sem cessar, esses condenados à mão, para impedir que o fogo se extinga em seus corpos, consumindo-os, e querendo que contribuam perpetuamente por seus perenes suplícios para edificação dos escolhidos.”  
 
-[^34]: N.E.: Na mitologia grega, esposa de Héracles (Hércules), que, abandonada por ele, provocou-lhe a morte, enviando-lhe uma túnica envenenada.
+
 
 ##### 14
 
@@ -659,7 +627,6 @@ Incontestavelmente, há hoje, no seio da Igreja mesma, muitos homens sensatos qu
 
 Poderíamos perguntar como há homens que têm conseguido ver essas coisas em êxtase, se elas de fato não existem. Não cabe aqui explicar a origem das imagens fantásticas, tantas vezes reproduzidas com visos de realidade. Diremos apenas ser preciso considerar, em princípio, que o êxtase é a mais incerta de todas as revelações [^35], porquanto o estado de sobre-excitação nem sempre importa um desprendimento de alma tão completo que se imponha à crença absoluta, denotando muitas vezes o reflexo de preocupações da véspera. As ideias com que o Espírito se nutre e das quais o cérebro, ou antes o invólucro perispiritual correspondente a este, conserva a forma ou a estampa, se reproduzem amplificadas como em uma miragem, sob formas vaporosas que se cruzam, se confundem e compõem um todo extravagante. Os extáticos de todos os cultos sempre viram coisas em relação com a fé de que se presumem penetrados, não sendo, pois, extraordinário que Santa Teresa e outros, tal qual ela saturados de ideias infernais pelas descrições, verbais ou escritas, hajam tido visões, que não são, propriamente falando, mais que reproduções por efeito de um pesadelo. Um pagão fanático teria antes visto o Tártaro e as Fúrias, ou Júpiter, no Olimpo, empunhando o raio.  
 
-[^35]: Nota de Allan Kardec: O livro dos espíritos, questões 443 e 444.
 
 ### 05. O purgatório
 
@@ -675,7 +642,7 @@ Sem o purgatório, só há para as almas duas alternativas extremas: a suprema f
 
 Necessariamente, porém, a noção do purgatório deveria ser incompleta, porque apenas conhecendo a penalidade do fogo fizeram dele uma atenuante do inferno, visto que as almas aí também ardem, embora em fogo mais brando. Sendo o dogma das penas eternas incompatível com o progresso, as almas do purgatório não se livram dele por efeito do seu adiantamento, mas em virtude das preces que se dizem ou que se mandam dizer em sua intenção. E se foi bom o primeiro pensamento, outro tanto não acontece quanto às consequências dele decorrentes, pelos abusos que originaram. As preces pagas transformaram o purgatório em mina mais rendosa que o inferno. [^36]
 
-[^36]: Nota de Allan Kardec: O purgatório originou o comércio escandaloso das indulgências, por intermédio das quais se vende a entrada no Céu. Este abuso foi a causa primária da Reforma, levando Lutero a rejeitar o purgatório.  
+ 
 
 ##### 03
 
@@ -715,9 +682,7 @@ Mercê, porém, da revelação dos Espíritos e dos exemplos que nos oferecem, s
 
 O Espiritismo não nega, pois, antes confirma, a penalidade futura. O que ele destrói é o inferno localizado com suas fornalhas e penas irremissíveis. Não nega, outrossim, o purgatório, pois prova que nele nos achamos, e definindo-o precisamente, e explicando a causa das misérias terrestres, conduz à crença aqueles mesmos que o negam. Repele as preces pelos mortos? Ao contrário, visto que os Espíritos sofredores as solicitam; eleva-as a um dever de caridade e demonstra a sua eficácia para os conduzir ao bem e, por esse meio, abreviar-lhes os tormentos. [^37] Falando à inteligência, tem levado a fé a muito incrédulo, incutindo a prece no ânimo dos que a escarneciam. O que o Espiritismo afirma é que o valor da prece está no pensamento, e não nas palavras, que as melhores preces são as do coração, e não dos lábios, e, finalmente, as que cada qual murmura de si mesmo, e não as que se mandam dizer por dinheiro. Quem, pois, ousaria censurá-lo?  
 
-[^37]: Nota de Allan Kardec: Vede O evangelho segundo o espiritismo, cap. XXVII, item Ação da prece.  
 
-[^38]: Nota de Allan Kardec: Idem, cap. III, item Progressão dos mundos. 
 
 ##### 09
 
@@ -984,7 +949,7 @@ Aos olhos dos incrédulos o dogma da eternidade das penas afigura-se futilidade 
 
 A quem pretenda encontrar na Bíblia a justificação da eternidade das penas, pode-se opor os textos contrários que a tal respeito não comportam ambiguidades. As seguintes palavras de Ezequiel são a mais explícita negação, não somente das penas irremissíveis, mas da responsabilidade que o pecado do pai do gênero humano acarretasse à sua raça:  
 
-> E veio a mim a palavra do Senhor, dizendo: Que tendes vós, vós que dizeis esta parábola acerca da terra de Israel, dizendo: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram? Vivo eu, diz o Senhor Jeová, que nunca mais direis este provérbio em Israel. Eis que todas as almas são minhas; como a alma do pai, também a alma do filho é minha; a alma que pecar, essa morrerá.
+> ✝️ ▸ E veio a mim a palavra do Senhor, dizendo: Que tendes vós, vós que dizeis esta parábola acerca da terra de Israel, dizendo: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram? Vivo eu, diz o Senhor Jeová, que nunca mais direis este provérbio em Israel. Eis que todas as almas são minhas; como a alma do pai, também a alma do filho é minha; a alma que pecar, essa morrerá.
 >
 > Sendo, pois, o homem justo e fazendo juízo e justiça, não comendo sobre os montes, nem levantando os olhos para os ídolos da casa de Israel, nem contaminando a mulher do seu próximo, nem se chegando à mulher na sua separação; não oprimindo a ninguém, tornando ao devedor o seu penhor, não roubando, dando o seu pão ao faminto, cobrindo ao nu com veste; não dando o seu dinheiro à usura, não recebendo demais, desviando a sua mão da injustiça, fazendo verdadeiro juízo entre homem e homem; andando nos meus estatutos e guardando os meus juízos, para proceder segundo a verdade, o tal justo certamente viverá, diz o Senhor Jeová.
 >
@@ -1000,9 +965,9 @@ A quem pretenda encontrar na Bíblia a justificação da eternidade das penas, p
 >
 > Desejaria eu, de qualquer maneira, a morte do ímpio? Diz o Senhor Jeová; não desejo, antes, que se converta dos seus caminhos e viva?
 >
->**Ezequiel, cap. 18, vers. 1-23, ARC**
+>**Ezequiel, cap. 18, vers. 01-23, ARC**
 
-> Dize-lhes: Vivo eu, diz o Senhor Jeová, que não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva; convertei-vos, convertei-vos dos vossos maus caminhos; pois por que razão morrereis, ó casa de Israel?
+> ✝️ ▸ Dize-lhes: Vivo eu, diz o Senhor Jeová, que não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva; convertei-vos, convertei-vos dos vossos maus caminhos; pois por que razão morrereis, ó casa de Israel?
 >
 >**Ezequiel, cap. 33, vers. 11, ARC**
 
@@ -1045,7 +1010,7 @@ Esta lei explica o insucesso da Medicina em certos casos. Desde que o temperamen
 
 Daí, se puderdes, coragem ao poltrão, e vereis para logo cessados os efeitos fisiológicos do medo. Isto prova ainda uma vez a necessidade, para a arte de curar, de levar em conta a influência espiritual sobre os organismos.(Revista espírita, março de 1869.)  
 
-[^40]: N.E. (1973): O autor escreveu s’est approprié (p. 93, 4ª edição, Paris, 1869), à falta, na época, de verbo mais específico à perfeita tradução da ideia.
+
 
 #### Princípios da Doutrina Espírita sobre as penas futuras
 
@@ -1055,11 +1020,11 @@ Preciso é afirmar que se não trata neste caso das revelações de um só Espí
 
 Trata-se, sim, de inúmeros exemplos fornecidos por Espíritos de todas as categorias, desde os mais elevados aos mais inferiores da escala, por intermédio de outros tantos auxiliares (médiuns) disseminados pelo mundo, de sorte que a revelação deixa de ser privilégio de alguém, pois todos podem prová-la, observando-a, sem obrigar-se à crença pela crença de outrem.  
 
-[^41]: Nota de Allan Kardec: Vede cap. VI, item 7, e O livro dos espíritos, questões 443 e 444.
+
 
 #### Código penal da vida futura
 
-Código penal da vida futuraO Espiritismo não vem, pois, com sua autoridade privada, formular um código de fantasia; a sua lei, no que respeita ao futuro da alma, deduzida das observações do fato, pode resumir-se nos seguintes pontos:  
+O Espiritismo não vem, pois, com sua autoridade privada, formular um código de fantasia; a sua lei, no que respeita ao futuro da alma, deduzida das observações do fato, pode resumir-se nos seguintes pontos:  
 
 1. A alma ou Espírito sofre na vida espiritual as consequências de todas as imperfeições que não conseguiu corrigir na vida corporal. O seu estado, feliz ou desgraçado, é inerente ao seu grau de pureza ou impureza.  
 
@@ -1163,7 +1128,7 @@ Mais tarde, outra encarnação se lhe faculta para novas provas de expiação e 
 
 31. Às penas que o Espírito experimenta na vida espiritual ajuntam-se as da vida corpórea, que são consequentes às imperfeições do homem, às suas paixões, ao mau uso das suas faculdades e à expiação de presentes e passadas faltas. É na vida corpórea que o Espírito repara o mal de anteriores existências, pondo em prática resoluções tomadas na vida espiritual. Assim se explicam as misérias e vicissitudes mundanas que, à primeira vista, parecem não ter razão de ser. Justas são elas, no entanto, como espólio do passado — herança que serve à nossa romagem para a perfectibilidade. [^45]  
 
-[^45]: Nota de Allan Kardec: Vede 1ª Parte, cap. V, O purgatório, item 3 e seguintes; e, após, 2ª Parte, cap. VIII, Expiações terrestres. Vede, também, O evangelho segundo o espiritismo, cap. V, Bem-aventurados os aflitos.
+
 
 32. Deus, diz-se, não daria prova maior de amor às suas criaturas, criando-as infalíveis e, por conseguinte, isentas dos vícios inerentes à imperfeição? Para tanto fora preciso que Ele criasse seres perfeitos, nada mais tendo a adquirir, quer em conhecimentos, quer em moralidade. Certo, porém, Deus poderia fazê-lo, e se o não fez é que em sua sabedoria quis que o progresso constituísse lei geral. Os homens são imperfeitos, e, como tais, sujeitos a vicissitudes mais ou menos penosas. E pois que o fato existe, devemos aceitá-lo.  
 
@@ -1187,13 +1152,7 @@ O bem como o mal são voluntários e facultativos: livre, o homem não é fatalm
 
 A cada um segundo as suas obras, no Céu como na Terra — tal é a lei da Justiça divina.  
 
-[^42]: Nota de Allan Kardec: Vede cap. VI, item 25, citação de Ezequiel.  
 
-[^43]: Nota de Allan Kardec: Perpétuo é sinônimo de eterno. Diz-se o limite das neves perpétuas; o eterno gelo dos polos; também se diz o secretário perpétuo da Academia, o que não significa que o seja ad perpetuam, mas unicamente por tempo ilimitado. Eterno e perpétuo se empregam, pois, no sentido de indeterminado. Nesta acepção pode dizer-se que as penas são eternas, para exprimir que não têm duração limitada; eternas, portanto, para o Espírito que lhes não vê o termo.  
-
-[^44]: Nota de Allan Kardec: A necessidade da reparação é um princípio de rigorosa justiça, que se pode considerar verdadeira lei de reabilitação moral dos Espíritos. Entretanto, essa doutrina Religião alguma ainda a proclamou. Algumas pessoas repelem-na porque acham mais cômodo o poder quitarem-se das más ações por um simples arrependimento, que não custa mais que palavras, por meio de algumas fórmulas; contudo, crendo-se, assim, quites, verão mais tarde se isso lhes bastava. Nós poderíamos perguntar se esse princípio não é consagrado pela lei humana, e se a Justiça divina pode ser inferior à dos homens? E mais, se essas leis se dariam por desafrontadas desde que o indivíduo que as transgredisse, por abuso de confiança, se limitasse a dizer que as respeita infinitamente.  
-Por que hão de vacilar tais pessoas perante uma obrigação que todo homem honesto se impõe como dever, segundo o grau de suas forças?  
-Quando esta perspectiva de reparação for inculcada na crença das massas, será um outro freio aos seus desmandos, e bem mais poderoso que o inferno e respectivas penas eternas, visto como interessa à vida em sua plena atualidade, podendo o homem compreender a procedência das circunstâncias que a tornam penosa, ou a sua verdadeira situação.
 
 ### 08. Os anjos
 
@@ -1208,13 +1167,11 @@ Negando toda a existência espiritual fora da vida orgânica, o materialismo nat
 
 
 
-[^46]: Nota de Allan Kardec: Extraímos este resumo da pastoral do monsenhor Gousset, cardeal-arcebispo de Reims, para a quaresma de 1864. Por ele podemos, pois, considerar os anjos, assim como os demônios, cujo resumo tiramos da mesma origem e citamos no capítulo seguinte, como última expressão do dogma da Igreja neste sentido.  
 
-[^47]: Nota de Allan Kardec: Concílio de Latrão.
 
 ##### 02
 
-“Acreditamos firmemente”, diz um concílio geral e ecumênico,47 “que só há um Deus verdadeiro, eterno e infinito, que no começo dos tempos tirou conjuntamente do nada as duas criaturas — espiritual e corpórea, angélica e mundana — tendo formado depois, como elo entre as duas, a natureza humana, composta de corpo e Espírito.  
+“Acreditamos firmemente”, diz um concílio geral e ecumênico [^47], “que só há um Deus verdadeiro, eterno e infinito, que no começo dos tempos tirou conjuntamente do nada as duas criaturas — espiritual e corpórea, angélica e mundana — tendo formado depois, como elo entre as duas, a natureza humana, composta de corpo e Espírito.  
 
 Tal é, segundo a fé, o plano divino na obra da criação, plano majestoso e completo como convinha à eterna sabedoria. Assim concebido, ele oferece aos nossos pensamentos o ser em todos os seus graus e condições.  
 
@@ -1376,9 +1333,7 @@ Para compreender como do mal pode resultar o bem, é preciso considerar não uma
 
 O duplo princípio do bem e do mal foi, durante muitos séculos, e sob vários nomes, a base de todas as crenças religiosas. Vemo-lo assim sintetizado em Oromaze [^48] e Arimane [^49] entre os persas, em Jeová e Satã entre os hebreus. Todavia, como todo soberano deve ter ministros, as religiões geralmente admitiram potências secundárias, ou bons e maus gênios. Os pagãos fizeram deles individualidades com a denominação genérica de deuses e deram-lhes atribuições especiais para o bem e para o mal, para os vícios e para as virtudes. Os cristãos e os muçulmanos herdaram dos hebreus os anjos e os demônios.  
 
-[^48]: N.E.: Aúra-Masda ou Ormuz, criador e princípio do bem, deus supremo do masdeísmo (religião do Irã antigo, revelada a Zoroastro, que admite dois princípios: um, bom, deus de luz, e o outro, mau, deus das trevas e da morte, que travam combate para o destino da humanidade).  
 
-[^49]: N.E.: Ahriman ou Arimã, princípio do mal, do caos, das trevas no masdeísmo.  
 
 ##### 06
 
@@ -1422,9 +1377,7 @@ A conclusão é esta: Deus quis criar seres perfeitos, porquanto os favorecera c
 
 É sempre a velha crença da Terra como centro do universo, do céu como que formado de nuvens estendendo-se às estrelas, e da limitada região destas, que a Astronomia nos mostra disseminadas ao infinito no infinito Espaço! Sabendo-se, como hoje se sabe, que as nuvens não se elevam a mais de duas léguas da superfície terráquea, e falando-se em dominá-las por mais alto, referindo-se a montanhas, preciso fora que a observação partisse da Terra, sendo ela, de fato, a morada dos anjos. Dado, porém, ser esta em região superior, inútil fora alçar-se acima das nuvens. Emprestar aos anjos uma linguagem tisnada de ignorância, é confessar que os homens contemporâneos são mais sábios que os anjos. A Igreja tem caminhado sempre erradamente, não levando em conta os progressos da Ciência.  
 
-[^51]: Nota de Allan Kardec: Esta doutrina monstruosa é corroborada por Moisés, quando diz (Gênesis, 6:6 e 7): “Ele se arrependeu de haver criado o homem na Terra e, penetrado da mais íntima dor, disse: — Exterminarei a Criação da face da Terra; exterminarei tudo, desde o homem aos animais, desde os que rastejam sobre a terra até os pássaros do céu, porque me arrependo de os ter criado.” Ora, um Deus que se arrepende do que fez não é perfeito nem infalível; portanto, não é Deus. E são estas as palavras que a Igreja proclama! Tampouco se percebe o que poderia haver de comum entre os animais e a perversidade dos homens, para que merecessem tal extermínio.  
-
-[^52]: Nota de Allan Kardec: Encontra-se em Isaías, 14:11 e seguintes: “Teu orgulho foi precipitado nos infernos; teu corpo morto baqueou por terra; tua cama verterá podridão, e vermes tua vestimenta. Como caíste do Céu, Lúcifer, tu que parecias tão brilhante ao romper do dia? Como foste arrojado sobre a Terra, tu que ferias as nações com teus golpes; que dizias de coração: Subirei aos Céus, estabelecerei meu trono acima dos astros de Deus, sentar-me-ei acima das nuvens mais altas e serei igual ao Altíssimo! E todavia foste precipitado dessa glória no inferno, até o mais fundo dos abismos. Os que te virem, aproximando-se, encarar-te-ão, dizendo: — Será este o homem que turbou a Terra, que aterrou seus reinos, que fez do mundo um deserto, que destruiu cidades e reteve acorrentados os que se lhe entregaram prisioneiros?” Estas palavras do profeta não se referem à revolta dos anjos; são, sim, uma alusão ao orgulho e à queda do Rei de Babilônia, que retinha os judeus em cativeiro, como atestam os últimos versículos. O Rei de Babilônia é alegoricamente designado por Lúcifer, mas não se faz aí qualquer menção da cena descrita. Essas palavras são do rei que as tinha no coração e se colocava por orgulho acima de Deus, cujo povo escravizara. A profecia da libertação do povo judeu, da ruína de Babilônia e do destroço dos assírios é, ademais, o assunto exclusivo desse capítulo.  
+ 
 
 ##### 10
 
@@ -1444,7 +1397,7 @@ Dizem: “Este plano (a intervenção do Cristo), concebido desde toda a eternid
 
 Admitindo a falibilidade dos anjos como a dos homens, a punição é consequência, justa e natural, da falta, mas se admitirmos concomitantemente a possibilidade do resgate, a regeneração, a graça, após o arrependimento e a expiação, tudo se esclarece e se conforma com a bondade de Deus. Ele sabia que errariam, que seriam punidos, mas sabia igualmente que tal castigo temporário seria um meio de lhes fazer compreender o erro, revertendo alfim em benefício deles. Eis como se explicam as palavras do profeta Ezequiel: “Deus não quer a morte, porém a salvação do pecador.” [^53]  
 
-[^53]:  Nota de Allan Kardec: Vede 1ª Parte, cap. VI, item 25, citação de Ezequiel.
+
 
 A inutilidade do arrependimento e a impossibilidade de regeneração, isso sim, importaria na negação da divina bondade. Admitida tal hipótese, poder-se-ia mesmo dizer, rigorosa e exatamente, que estes anjos, desde a sua criação, visto Deus não poder ignorá-los, foram votados à perpetuidade do mal, e predestinados a demônios para arrastarem os homens ao mal.  
 
@@ -1580,7 +1533,7 @@ Procuram apagar do símbolo religioso os dogmas do pecado original, da ressurrei
 
 A incredulidade do nosso século facilitou-lhes o caminho. Assim possam as sociedades cristãs, por uma sincera dedicação à fé católica, escapar ao perigo desta nova e terrível invasão!”
 
-[^54]: Nota de Allan Kardec: As citações deste capítulo são extraídas da mesma pastoral indicada no precedente, e da qual são corolários. É a mesma fonte e, por conseguinte, a mesma autoridade.  
+ 
 
 ##### 05
 
@@ -1667,7 +1620,7 @@ Ampliamos estas citações para mostrar que os princípios do Espiritismo não t
 Quanto às curas, reconhecidas como reais na crença precitada, o exemplo está mal selecionado como meio de evitar relações com os Espíritos. Efetivamente, essas curas são outros tantos benefícios que levam à gratidão e que todos podem experimentar. Pouca gente estará disposta a renunciar a elas, mormente depois de haver esgotado outros recursos antes de recorrer ao diabo. Depois, se o diabo cura, força é confessar que faz uma boa e meritória ação. [^55]
 
 
-[^55]: Nota de Allan Kardec: Querendo persuadir as pessoas curadas pelo Espiritismo que o foram pelo diabo, grande número delas se há separado da Igreja, sem que jamais pensassem fazê-lo.
+
 
 ##### 12
 
@@ -1747,7 +1700,7 @@ Outra não era a linguagem dos fariseus relativamente ao Cristo, que, diziam, fa
 
 Para os fariseus eram maus os frutos de Jesus, porque Ele vinha destruir o abuso e proclamar a liberdade que lhes arruinaria a autoridade. Se, em vez disso, Jesus tivesse vindo lisonjear-lhes o orgulho, sancionar os seus erros e sustentar-lhes o poder, então, sim, Ele seria o esperado messias dos judeus. Mas o Cristo era só, pobre e fraco: decretaram-lhe a morte julgando extinguir-lhe a palavra, e a palavra sobreviveu-lhe porque era divina. Importa contudo dizer que essa palavra só lentamente se propagou, e, após dezoito séculos, apenas é conhecida de uma décima parte do gênero humano. [^56] Além disso, em que pesem tais razões, numerosos cismas rebentaram já do seio da cristandade. Pois bem: agora, Deus, em sua misericórdia, envia os Espíritos a confirmá-la, a completá-la, a difundi-la por todos e em toda a Terra — a santa palavra de Jesus. E o grande caso é que os Espíritos não estão encarnados num só homem cuja voz fora limitada: eles são inumeráveis, andam por toda parte e não podem ser tolhidos. Também por isso, o seu ensino se amplia com a rapidez do raio; e porque falam ao coração e à razão, são pelos humildes mais compreendidos.  
 
-[^56]: N.E.: Estima-se que o Cristianismo atualmente seja a religião com maior número de adeptos (aprox. 2,2 bilhões), seguida pelo Islamismo (aprox. 1,6 bilhão) e Hinduísmo (aprox. 900 milhões). O Espiritismo aparece em 8o lugar, com seus 13 milhões de adeptos.
+
 
 ##### 19
 
@@ -1939,7 +1892,7 @@ Repelir as comunicações de além-túmulo é repudiar o meio mais poderoso de i
 
 As seguintes palavras de um Espírito resumem admiravelmente as consequências da evocação, quando praticada com fim caritativo:   
 
-> Todo Espírito sofredor e desolado vos contará a causa da sua queda, os desvarios que o perderam. Esperanças, combates e terrores; remorsos, desesperos e dores, tudo vos dirá, mostrando Deus justamente irritado a punir o culpado com toda a severidade. Ao ouvi-lo, dois sentimentos vos acometerão: o da compaixão e o do temor! compaixão por ele, temor por vós mesmos. E se o seguirdes nos seus queixumes, vereis então que Deus jamais o perde de vista, esperando o pecador arrependido e estendendo-lhe os braços logo que procure regenerar-se. Do culpado vereis, enfim, os progressos benéficos para os quais tereis a felicidade e a glória de contribuir, com a solicitude e o carinho do cirurgião acompanhando a cicatrização da ferida que pensa diariamente.  
+> 👻 ▸ Todo Espírito sofredor e desolado vos contará a causa da sua queda, os desvarios que o perderam. Esperanças, combates e terrores; remorsos, desesperos e dores, tudo vos dirá, mostrando Deus justamente irritado a punir o culpado com toda a severidade. Ao ouvi-lo, dois sentimentos vos acometerão: o da compaixão e o do temor! compaixão por ele, temor por vós mesmos. E se o seguirdes nos seus queixumes, vereis então que Deus jamais o perde de vista, esperando o pecador arrependido e estendendo-lhe os braços logo que procure regenerar-se. Do culpado vereis, enfim, os progressos benéficos para os quais tereis a felicidade e a glória de contribuir, com a solicitude e o carinho do cirurgião acompanhando a cicatrização da ferida que pensa diariamente.  
 >
 >**Bordeaux 🇫🇷, 1861**
 
@@ -2029,7 +1982,7 @@ O espírita sério não se limita a crer porque compreende, e compreende porque 
 
 Com certeza não é só o Espiritismo que nos assegura tão auspicioso resultado, nem ele tem a pretensão de ser o meio exclusivo, a garantia única de salvação para as almas. Força é confessar, porém, que pelos conhecimentos que fornece, pelos sentimentos que inspira, como pelas disposições em que coloca o Espírito, fazendo-lhe compreender a necessidade de melhorar-se, facilita enormemente a salvação. Ele dá a mais, e a cada um, os meios de facilitar o desprendimento doutros Espíritos ao deixarem o invólucro material, abreviando-lhes a perturbação pela evocação e pela prece. Pela prece sincera, que é uma magnetização espiritual, provoca-se a desagregação mais rápida do fluido perispiritual; pela evocação conduzida com sabedoria e prudência, com palavras de benevolência e conforto, combate-se o entorpecimento do Espírito, ajudando-o a reconhecer-se mais cedo, e, se é sofredor, incute-se-lhe o arrependimento — único meio de abreviar seus sofrimentos. [^57]
 
-[^57]: Nota de Allan Kardec: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.  
+
 
 ### 02. Espíritos felizes
 
@@ -2037,11 +1990,11 @@ Com certeza não é só o Espiritismo que nos assegura tão auspicioso resultado
 
 Este antigo membro da Sociedade Espírita de Paris faleceu a 21 de abril de 1862, depois de um ano de atrozes padecimentos. Prevendo a morte, dirigira ao presidente da Sociedade uma carta com o tópico seguinte:  
 
-“Podendo dar-se o caso de ser surpreendido pela separação entre minha alma e meu corpo, ocorre-me reiterar-vos um pedido que vos fiz há cerca de um ano, qual o de evocar o meu Espírito o mais breve possível, a fim de, como membro assaz inútil da nossa Sociedade, poder eu prestar-lhe para alguma coisa depois de morto, esclarecendo fase por fase as circunstâncias decorrentes do que o vulgo chama morte, e que, para nós outros — os espíritas — não passa de uma transformação, segundo os desígnios insondáveis de Deus, mas sempre útil ao fim que Ele se propõe. Além deste pedido — que é uma autorização para me honrardes com essa autópsia espiritual, talvez improfícua em razão do meu quase nulo adiantamento, e que a vossa sabedoria não consentirá ir além de um certo número de ensaios — ouso pedir pessoalmente a vós como a todos os colegas que supliquem ao Todo-Poderoso a assistência de bons Espíritos, e a São Luís, nosso presidente espiritual, em particular, que me guie na escolha e na época de uma nova encarnação, ideia que de há muito me preocupa.  
-
-Arreceio-me de confiar demais nas minhas forças espirituais, rogando a Deus, muito cedo e presunçosamente, um estado corporal no qual eu não possa justificar a divina bondade, de modo a prejudicar o meu próprio adiantamento e prolongar a estação na Terra ou em outra qualquer parte, desde que naufrague.”  
-
-Para satisfazer-lhe o desejo, evocando-o o mais breve possível após o seu falecimento, dirigimo-nos com alguns membros da Sociedade à câmara mortuária, onde, em presença do seu corpo, se passou o seguinte colóquio, precedendo uma hora o respectivo enterro. Era duplo o nosso fim: íamos cumprir uma vontade última e íamos observar, ainda uma vez, a situação de uma alma em momento tão imediato à morte, tratando-se, ademais, de um homem eminentemente esclarecido, inteligente e profundamente convicto das verdades espíritas. Íamos enfim colher nas suas primeiras impressões a prova de quanto, sobre o estado do Espírito, pode influir a compenetração dessas verdades. E não nos iludimos na expectativa, porquanto o Sr. Sanson descreveu, plenamente lúcido, o instante da transição, vendo-se morrer e renascer, o que é uma circunstância pouco comum e só devida à elevação do seu Espírito.  
+> 👻 ▸ Podendo dar-se o caso de ser surpreendido pela separação entre minha alma e meu corpo, ocorre-me reiterar-vos um pedido que vos fiz há cerca de um ano, qual o de evocar o meu Espírito o mais breve possível, a fim de, como membro assaz inútil da nossa Sociedade, poder eu prestar-lhe para alguma coisa depois de morto, esclarecendo fase por fase as circunstâncias decorrentes do que o vulgo chama morte, e que, para nós outros — os espíritas — não passa de uma transformação, segundo os desígnios insondáveis de Deus, mas sempre útil ao fim que Ele se propõe. Além deste pedido — que é uma autorização para me honrardes com essa autópsia espiritual, talvez improfícua em razão do meu quase nulo adiantamento, e que a vossa sabedoria não consentirá ir além de um certo número de ensaios — ouso pedir pessoalmente a vós como a todos os colegas que supliquem ao Todo-Poderoso a assistência de bons Espíritos, e a São Luís, nosso presidente espiritual, em particular, que me guie na escolha e na época de uma nova encarnação, ideia que de há muito me preocupa.  
+>
+> Arreceio-me de confiar demais nas minhas forças espirituais, rogando a Deus, muito cedo e presunçosamente, um estado corporal no qual eu não possa justificar a divina bondade, de modo a prejudicar o meu próprio adiantamento e prolongar a estação na Terra ou em outra qualquer parte, desde que naufrague.  
+>
+> Para satisfazer-lhe o desejo, evocando-o o mais breve possível após o seu falecimento, dirigimo-nos com alguns membros da Sociedade à câmara mortuária, onde, em presença do seu corpo, se passou o seguinte colóquio, precedendo uma hora o respectivo enterro. Era duplo o nosso fim: íamos cumprir uma vontade última e íamos observar, ainda uma vez, a situação de uma alma em momento tão imediato à morte, tratando-se, ademais, de um homem eminentemente esclarecido, inteligente e profundamente convicto das verdades espíritas. Íamos enfim colher nas suas primeiras impressões a prova de quanto, sobre o estado do Espírito, pode influir a compenetração dessas verdades. E não nos iludimos na expectativa, porquanto o Sr. Sanson descreveu, plenamente lúcido, o instante da transição, vendo-se morrer e renascer, o que é uma circunstância pouco comum e só devida à elevação do seu Espírito.  
 
 #### 01
 
@@ -2051,49 +2004,49 @@ Para satisfazer-lhe o desejo, evocando-o o mais breve possível após o seu fale
 
 Evocação.  
 
-> Atendo ao vosso chamado para cumprir a minha promessa.
+> 👻 ▸ Atendo ao vosso chamado para cumprir a minha promessa.
 
 ###### 02
 
 Meu caro Sr. Sanson, cumprindo um dever, com satisfação vos evocamos o mais cedo possível depois da vossa morte, como era do vosso desejo.  
 
-> É uma graça especial que Deus me concede para que possa manifestar-me; agradeço a vossa boa vontade, porém, sou tão fraco que tremo.   
+> 👻 ▸ É uma graça especial que Deus me concede para que possa manifestar-me; agradeço a vossa boa vontade, porém, sou tão fraco que tremo.   
 
 ###### 03
 
 Fostes tão sofredor que podemos, penso eu, perguntar como vos achais agora... Sentis ainda as vossas dores? Comparando a situação de hoje com a de dois dias atrás, que sensações experimentais?   
 
-> A minha situação é bem-ditosa; acho-me regenerado, renovado, como se diz entre vós, nada mais sentindo das antigas dores. A passagem da vida terrena para a dos Espíritos deixou-me de começo num estado incompreensível, porque ficamos algumas vezes muitos dias privados de lucidez. Eu havia feito no entanto um pedido a Deus para permitir-me falar aos que estimo, e Deus ouviu-me.
+> 👻 ▸ A minha situação é bem-ditosa; acho-me regenerado, renovado, como se diz entre vós, nada mais sentindo das antigas dores. A passagem da vida terrena para a dos Espíritos deixou-me de começo num estado incompreensível, porque ficamos algumas vezes muitos dias privados de lucidez. Eu havia feito no entanto um pedido a Deus para permitir-me falar aos que estimo, e Deus ouviu-me.
 
 ###### 04
 
 Ao fim de que tempo recobrastes a lucidez das ideias?  
 
-> Ao fim de oito horas. Deus, repito, deu-me uma prova de sua bondade, maior que o meu merecimento, e eu não sei como agradecer-lhe.
+> 👻 ▸ Ao fim de oito horas. Deus, repito, deu-me uma prova de sua bondade, maior que o meu merecimento, e eu não sei como agradecer-lhe.
 
 ###### 05
 
 Estais bem certo de não pertencerdes mais ao nosso mundo? No caso afirmativo, como comprová-lo?  
 
-> Oh! certamente não sou mais desse mundo, porém, estarei sempre ao vosso lado para vos proteger e sustentar, a fim de pregardes a caridade e a abnegação, que foram os guias da minha vida. Depois, ensinarei a verdadeira fé, a fé espírita, que deve elevar a crença do bom e do justo; estou forte, robusto, em uma palavra — transformado. Em mim não reconhecereis mais o velho enfermo que tudo devia esquecer, fugindo de todo prazer e alegria. Eu sou Espírito e a minha pátria é o Espaço, o meu futuro é Deus, que reina na imensidade. Desejara poder falar a meus filhos, ensinar-lhes aquilo mesmo que sempre desdenharam acreditar.
+> 👻 ▸ Oh! certamente não sou mais desse mundo, porém, estarei sempre ao vosso lado para vos proteger e sustentar, a fim de pregardes a caridade e a abnegação, que foram os guias da minha vida. Depois, ensinarei a verdadeira fé, a fé espírita, que deve elevar a crença do bom e do justo; estou forte, robusto, em uma palavra — transformado. Em mim não reconhecereis mais o velho enfermo que tudo devia esquecer, fugindo de todo prazer e alegria. Eu sou Espírito e a minha pátria é o Espaço, o meu futuro é Deus, que reina na imensidade. Desejara poder falar a meus filhos, ensinar-lhes aquilo mesmo que sempre desdenharam acreditar.
 
 ###### 06
 
 Que efeito vos causa o vosso corpo aqui ao lado?  
 
-> Meu corpo! pobre, mísero despojo... volve ao pó, enquanto eu guardo a lembrança de todos que me estimaram. Vejo essa pobre carne decomposta, morada que foi do meu Espírito, provação de tantos anos! Obrigado, mísero corpo, pois que purificaste o meu Espírito! O meu sofrimento, dez vezes bendito, deu-me um lugar bem meritório, por isso que tão depressa posso comunicar-me convosco...
+> 👻 ▸ Meu corpo! pobre, mísero despojo... volve ao pó, enquanto eu guardo a lembrança de todos que me estimaram. Vejo essa pobre carne decomposta, morada que foi do meu Espírito, provação de tantos anos! Obrigado, mísero corpo, pois que purificaste o meu Espírito! O meu sofrimento, dez vezes bendito, deu-me um lugar bem meritório, por isso que tão depressa posso comunicar-me convosco...
 
 ###### 07
 
 Conservastes as ideias até o último instante?  
 
-> Sim. O meu Espírito conservou as suas faculdades, e quando eu já não mais via, pressentia. Toda a minha existência se desdobrou na memória e o meu último pensamento, a última prece, foi para que pudesse comunicar-me convosco, como o faço agora; em seguida pedi a Deus que vos protegesse, para que o sonho da minha vida se completasse.
+> 👻 ▸ Sim. O meu Espírito conservou as suas faculdades, e quando eu já não mais via, pressentia. Toda a minha existência se desdobrou na memória e o meu último pensamento, a última prece, foi para que pudesse comunicar-me convosco, como o faço agora; em seguida pedi a Deus que vos protegesse, para que o sonho da minha vida se completasse.
 
 ###### 08
 
 Tivestes consciência do momento em que o corpo exalou o derradeiro suspiro? que se passou convosco nesse momento? que sensação experimentastes?  
 
-> Parte-se a vida e a vista, ou antes, a vista do Espírito se extingue; encontra-se o vácuo, o ignoto, e arrastada por não sei que poder, encontra-se a gente num mundo de alegria e grandeza! Eu não sentia, nada compreendia e, no entanto, uma felicidade inefável me extasiava de gozo, livre do peso das dores.  
+> 👻 ▸ Parte-se a vida e a vista, ou antes, a vista do Espírito se extingue; encontra-se o vácuo, o ignoto, e arrastada por não sei que poder, encontra-se a gente num mundo de alegria e grandeza! Eu não sentia, nada compreendia e, no entanto, uma felicidade inefável me extasiava de gozo, livre do peso das dores.  
 
 ###### 09
 
@@ -2101,7 +2054,7 @@ Tendes ciência... do que pretendo ler sobre a vossa campa?
 
 Nota: Apenas pronunciadas as primeiras palavras sobre o assunto, o Espírito respondeu sem que eu terminasse. Também respondeu, sem interrogação alguma, a certa controvérsia suscitada entre os assistentes, sobre se seria oportuno ler esta comunicação no cemitério, achando-se presentes pessoas que poderiam não compartilhar das nossas opiniões.  
 
-> R. Ah! sei, meu amigo, e sei, por que tanto vos via ontem como hoje... que grande é a minha alegria! Obrigado! Obrigado! Falai... falai para que me compreendam e vos estimem; nada tendes que temer, pois que se respeita a morte... falai, pois, para que os incrédulos tenham fé. Adeus; falai; coragem, confiança, e oxalá meus filhos possam converter-se a uma crença sacrossanta.
+> 👻 ▸ Ah! sei, meu amigo, e sei, por que tanto vos via ontem como hoje... que grande é a minha alegria! Obrigado! Obrigado! Falai... falai para que me compreendam e vos estimem; nada tendes que temer, pois que se respeita a morte... falai, pois, para que os incrédulos tenham fé. Adeus; falai; coragem, confiança, e oxalá meus filhos possam converter-se a uma crença sacrossanta.
 >
 >**J. Sanson**
 
@@ -2115,25 +2068,25 @@ Durante a cerimônia do cemitério, ele ditou as palavras seguintes: “Não vos
 
 Evocação.
 
-> Estou perto de vós, meus amigos.  
+> 👻 ▸ Estou perto de vós, meus amigos.  
 
 ##### 02
 
 Consideramo-nos felizes pela entrevista que tivemos no dia do vosso enterro, e, visto que o permitis, mais felizes seremos em completá-la para nossa instrução.
 
-> Estou pronto, e sinto-me feliz por pensardes em mim.  
+> 👻 ▸ Estou pronto, e sinto-me feliz por pensardes em mim.  
 
 ##### 03
 
 A ideia falsa que fazemos do mundo invisível é, o mais das vezes, o que nos leva à descrença, e, assim, tudo que possa esclarecer-nos, a tal respeito, será para nós da mais alta importância. Não vos surpreendam, portanto, as perguntas que porventura vos fizermos.
 
-> Espero-as e não ficarei surpreendido.  
+> 👻 ▸ Espero-as e não ficarei surpreendido.  
 
 ##### 04
 
 Descrevestes luminosamente a transição para a outra vida; dissestes que, no momento de exalar o corpo o derradeiro alento, a vida se parte e a vista se extingue. E será esse momento seguido de qualquer sensação dolorosa?
 
-> Decerto que sim, pois a vida não passa de uma série contínua de dores, das quais a morte é complemento. Daí uma ruptura violenta, como se o Espírito houvesse de fazer um esforço sobre-humano para escapar-se do seu invólucro, esforço que absorve todo o ser, fazendo-lhe perder o conhecimento do seu destino.  
+> 👻 ▸ Decerto que sim, pois a vida não passa de uma série contínua de dores, das quais a morte é complemento. Daí uma ruptura violenta, como se o Espírito houvesse de fazer um esforço sobre-humano para escapar-se do seu invólucro, esforço que absorve todo o ser, fazendo-lhe perder o conhecimento do seu destino.  
 
 📝 **Nota**. Este caso não é geral, pois a experiência prova que muitos Espíritos perdem a consciência antes de expirar, assim como nos que atingiram certo grau de desmaterialização o desprendimento se opera sem esforço.  
 
@@ -2141,13 +2094,13 @@ Descrevestes luminosamente a transição para a outra vida; dissestes que, no mo
 
 Sabeis se há Espíritos para os quais o momento extremo seja mais penoso? Será ele mais doloroso ao materialista, por exemplo?
 
-> Isso é certo, porque o Espírito preparado tem já esquecido o sofrimento, ou, antes, habituou-se com ele e a calma com que encara a morte o impede de sofrer duplamente, prevendo o que por ela o aguarda. O sofrimento moral é mais forte e a sua ausência, por ocasião da morte, é por si só um grande alívio. O descrente assemelha-se ao condenado à pena última, cujo pensamento antevê o cutelo e o ignoto. Entre esta morte e a do ateu, há paridade.  
+> 👻 ▸ Isso é certo, porque o Espírito preparado tem já esquecido o sofrimento, ou, antes, habituou-se com ele e a calma com que encara a morte o impede de sofrer duplamente, prevendo o que por ela o aguarda. O sofrimento moral é mais forte e a sua ausência, por ocasião da morte, é por si só um grande alívio. O descrente assemelha-se ao condenado à pena última, cujo pensamento antevê o cutelo e o ignoto. Entre esta morte e a do ateu, há paridade.  
 
 ##### 06
 
 Haverá materialistas bastante endurecidos para julgarem nesse momento que vão ser arremessados ao nada?
 
-> Sim, eles acreditam no nada até a última hora, mas, no momento da separação, o Espírito recua, a dúvida empolga-o e tortura-o; pergunta-se a si mesmo o que vai ser, quer algo apreender e nada pode. O desprendimento não pode completar-se sem esta impressão.  
+> 👻 ▸ Sim, eles acreditam no nada até a última hora, mas, no momento da separação, o Espírito recua, a dúvida empolga-o e tortura-o; pergunta-se a si mesmo o que vai ser, quer algo apreender e nada pode. O desprendimento não pode completar-se sem esta impressão.  
 
 📝 **Nota**. Em outras circunstâncias, um Espírito fez-nos a seguinte descrição da morte do incrédulo: “Experimentam nos últimos instantes as angústias desses pesadelos terríveis em que se veem em escarpas de abismos prestes a tragá-los; querem fugir e não podem; procuram agarrar-se a qualquer coisa, mas não encontram apoio e sentem precipitar-se: querem clamar, gritar e nem sequer um som podem articular, então vemo-los contorcerem-se, crispar as mãos, dar gritos sufocados, outros tantos sintomas do pesadelo de que são vítimas.  
 
@@ -2157,7 +2110,7 @@ No pesadelo ordinário, do sonho, o despertar tira-vos a inquietação e aliviad
 
 Dissestes que por ocasião de expirar nada víeis, porém pressentíeis. Compreende-se que nada vísseis corporalmente, mas o que pressentíeis antes da extinção seria já a claridade do mundo dos Espíritos?
 
-> Foi o que eu disse precedentemente, o instante da morte dá clarividência ao Espírito; os olhos não veem, porém o Espírito, que possui uma vista bem mais profunda, descobre instantaneamente um mundo desconhecido, e a verdade, brilhando de súbito, lhe dá momentaneamente imensa alegria ou funda mágoa, conforme o estado de consciência e a lembrança da vida passada.  
+> 👻 ▸ Foi o que eu disse precedentemente, o instante da morte dá clarividência ao Espírito; os olhos não veem, porém o Espírito, que possui uma vista bem mais profunda, descobre instantaneamente um mundo desconhecido, e a verdade, brilhando de súbito, lhe dá momentaneamente imensa alegria ou funda mágoa, conforme o estado de consciência e a lembrança da vida passada.  
 
 📝 **Nota**. Trata-se do instante que precede a morte, ou antes, daquele em que se perde a consciência — o que explica a palavra momentaneamente, pois as impressões agradáveis ou penosas, quaisquer que sejam, sobrevivem ao despertar.
 
@@ -2165,7 +2118,7 @@ Dissestes que por ocasião de expirar nada víeis, porém pressentíeis. Compree
 
 Podeis dizer-nos o que vos impressionou, o que vistes no momento em que os vossos olhos se abriram à luz? Podeis descrever-nos, se é possível, o aspecto das coisas que se vos depararam?
 
-> Quando pude voltar a mim e ver o que tinha diante dos olhos, fiquei como que ofuscado, sem poder compreender, porquanto a lucidez não volta repentinamente. Deus, porém, que me deu uma prova exuberante da sua bondade, permitiu-me recuperasse as faculdades, e foi então que me vi cercado de numerosos, bons e fiéis amigos. Todos os Espíritos protetores que nos assistem, rodeavam-me sorrindo; uma alegria sem par irradiava-lhes do semblante e também eu, forte e animado, podia sem esforço percorrer os espaços. O que eu vi não tem nome na linguagem dos homens. Voltarei depois para falar-vos mais amplamente das minhas venturas, sem ultrapassar, já se vê, o limite traçado por Deus. Sabei que a felicidade, como vós outros a compreendeis, não passa de uma ficção. Vivei sabiamente, santamente, pela caridade e pelo amor, e tereis feito jus a impressões e delícias que o maior dos poetas não saberia descrever.  
+> 👻 ▸ Quando pude voltar a mim e ver o que tinha diante dos olhos, fiquei como que ofuscado, sem poder compreender, porquanto a lucidez não volta repentinamente. Deus, porém, que me deu uma prova exuberante da sua bondade, permitiu-me recuperasse as faculdades, e foi então que me vi cercado de numerosos, bons e fiéis amigos. Todos os Espíritos protetores que nos assistem, rodeavam-me sorrindo; uma alegria sem par irradiava-lhes do semblante e também eu, forte e animado, podia sem esforço percorrer os espaços. O que eu vi não tem nome na linguagem dos homens. Voltarei depois para falar-vos mais amplamente das minhas venturas, sem ultrapassar, já se vê, o limite traçado por Deus. Sabei que a felicidade, como vós outros a compreendeis, não passa de uma ficção. Vivei sabiamente, santamente, pela caridade e pelo amor, e tereis feito jus a impressões e delícias que o maior dos poetas não saberia descrever.  
 
 📝 **Nota**. Os contos de fadas estão cheios de coisas absurdas, mas quem sabe se não contêm, de alguma sorte e em parte, algo do que se passa no mundo dos Espíritos? A descrição do Sr. Sanson lembra como que um homem adormecido numa choupana, despertando em palácio esplêndido e rodeado de uma corte brilhante.
 
@@ -2175,19 +2128,21 @@ Podeis dizer-nos o que vos impressionou, o que vistes no momento em que os vosso
 
 Debaixo de que aspecto se vos apresentaram os Espíritos? sob a forma humana?
 
-> Sim, meu caro amigo; os Espíritos nos ensinam aí na Terra, que conservam no outro mundo a mesma forma que lhes serviu de envoltório, e é a verdade. Mas que diferença entre a máquina informe, que penosamente aí se arrasta com seu cortejo de misérias, e a fluidez maravilhosa do corpo espiritual! A fealdade não mais existe, porque os traços perderam a dureza de expressão que forma o caráter distintivo da raça humana. Deus beatificou esses corpos graciosos que se movem com todas as elegâncias; a linguagem tem modulações intraduzíveis para vós e o olhar o alcance de uma estrela! Conjeturai sobre o que Deus pode produzir na sua Onipotência, Ele, o arquiteto dos arquitetos, e tereis feito uma fraca ideia da forma dos Espíritos.  
+> 👻 ▸ Sim, meu caro amigo; os Espíritos nos ensinam aí na Terra, que conservam no outro mundo a mesma forma que lhes serviu de envoltório, e é a verdade. Mas que diferença entre a máquina informe, que penosamente aí se arrasta com seu cortejo de misérias, e a fluidez maravilhosa do corpo espiritual! A fealdade não mais existe, porque os traços perderam a dureza de expressão que forma o caráter distintivo da raça humana. Deus beatificou esses corpos graciosos que se movem com todas as elegâncias; a linguagem tem modulações intraduzíveis para vós e o olhar o alcance de uma estrela! Conjeturai sobre o que Deus pode produzir na sua Onipotência, Ele, o arquiteto dos arquitetos, e tereis feito uma fraca ideia da forma dos Espíritos.  
 
 ##### 10
 
 Quanto a vós, como vedes? Reconheceis em vós uma forma limitada, circunscrita, ainda que imponderável? Sentis em vós mesmo uma cabeça, tronco, pernas e braços?
 
-> O Espírito, conservando a sua forma humana idealizada, divinizada, pode, sem contradição, possuir todos os membros de que falais. Sinto perfeitamente as minhas mãos com os dedos, pois podemos, à vontade, aparecer-vos e apertar-vos as mãos. Estou junto dos meus amigos e aperto-lhes as mãos sem que disso se apercebam. Quanto à nossa fluidez e graças a ela, podemos estar em toda parte sem interceptar o espaço ou produzir quaisquer sensações, se assim o desejamos. Neste momento, entre as vossas mãos cruzadas tenho as minhas. Digo-vos, por exemplo, que vos amo; porém, o meu corpo não ocupa qualquer espaço, a luz atravessa-o e o que chamaríeis — milagre — se acaso vísseis, não passa para o Espírito de ação contínua de todos os instantes. “A vista dos Espíritos não se pode comparar à humana, uma vez que também seu corpo não tem quaisquer semelhanças reais; para eles tudo se transforma na essência, como no conjunto. Repito-vos que o Espírito tem uma perspicácia divina que abrange tudo, podendo adivinhar até o pensamento alheio; também pode oportunamente tomar a forma mais própria para tornar-se conhecido. Na realidade, porém, o Espírito que tem terminado a provação prefere a forma que o conduziu para junto de Deus.”
+> 👻 ▸ O Espírito, conservando a sua forma humana idealizada, divinizada, pode, sem contradição, possuir todos os membros de que falais. Sinto perfeitamente as minhas mãos com os dedos, pois podemos, à vontade, aparecer-vos e apertar-vos as mãos. Estou junto dos meus amigos e aperto-lhes as mãos sem que disso se apercebam. Quanto à nossa fluidez e graças a ela, podemos estar em toda parte sem interceptar o espaço ou produzir quaisquer sensações, se assim o desejamos. Neste momento, entre as vossas mãos cruzadas tenho as minhas. Digo-vos, por exemplo, que vos amo; porém, o meu corpo não ocupa qualquer espaço, a luz atravessa-o e o que chamaríeis — milagre — se acaso vísseis, não passa para o Espírito de ação contínua de todos os instantes.  
+>
+> A vista dos Espíritos não se pode comparar à humana, uma vez que também seu corpo não tem quaisquer semelhanças reais; para eles tudo se transforma na essência, como no conjunto. Repito-vos que o Espírito tem uma perspicácia divina que abrange tudo, podendo adivinhar até o pensamento alheio; também pode oportunamente tomar a forma mais própria para tornar-se conhecido. Na realidade, porém, o Espírito que tem terminado a provação prefere a forma que o conduziu para junto de Deus.  
 
 ##### 11
 
 Os Espíritos não têm sexo; mas como há poucos dias éreis um homem, desejamos saber se no vosso novo estado tendes mais da natureza masculina ou da feminina? E o mesmo que se dá convosco poder-se-á aplicar ao Espírito de longo tempo desencarnado?
 
-> Não temos motivo para ser de natureza masculina ou feminina: os Espíritos não se reproduzem. Deus criou-os como quis, e tendo segundo seus maravilhosos desígnios de dar-lhes a encarnação, sobre a Terra, subordinou-os aí às leis de reprodução das espécies, caracterizada pela junção dos sexos. Mas vós deveis senti-lo, sem mais explicação, que os Espíritos não podem ter sexo.  
+> 👻 ▸ Não temos motivo para ser de natureza masculina ou feminina: os Espíritos não se reproduzem. Deus criou-os como quis, e tendo segundo seus maravilhosos desígnios de dar-lhes a encarnação, sobre a Terra, subordinou-os aí às leis de reprodução das espécies, caracterizada pela junção dos sexos. Mas vós deveis senti-lo, sem mais explicação, que os Espíritos não podem ter sexo.  
 
 Sempre disseram que os Espíritos não têm sexo, sendo este apenas necessário à reprodução dos corpos. De fato, não se reproduzindo, o sexo ser-lhes-ia inútil. A nossa pergunta não visava confirmar o fato, mas saber, visto que o Sr. Sanson desencarnara recentemente, as impressões que guardava do seu estado terreno. Os Espíritos puros compreendem perfeitamente a sua natureza, porém, entre os inferiores, não desmaterializados, muitos há que se acreditam encarnados sobre a Terra, com as mesmas paixões e desejos. Assim, pensam eles que são ainda os mesmos que foram, isto é, homem ou mulher, havendo quem por esta razão suponha ter realmente um sexo. As contradições a tal respeito são oriundas da graduação de adiantamento dos Espíritos que se manifestam, sendo o erro menos deles que de quem os interroga sem se dar ao trabalho de aprofundar as questões.
 
@@ -2195,13 +2150,13 @@ Sempre disseram que os Espíritos não têm sexo, sendo este apenas necessário 
 
 Que tal se vos afigura a sessão? O seu aspecto é o mesmo de quando éreis vivo? As pessoas guardam para vós a mesma aparência? Será tudo tão claro e distinto como outrora?
 
-> Muito mais claro, porquanto posso ler o pensamento de todos vós, sentindo-me igualmente feliz pela benéfica impressão que me causa a boa vontade de todos os Espíritos congregados. Desejo que o mesmo critério se faça sentir não só em Paris, mas na França inteira, onde grupos há que se desligam, invejando-se reciprocamente, dominados por Espíritos turbulentos que se comprazem na discórdia, quando o Espiritismo deve incutir o esquecimento completo e absoluto do eu.  
+> 👻 ▸ Muito mais claro, porquanto posso ler o pensamento de todos vós, sentindo-me igualmente feliz pela benéfica impressão que me causa a boa vontade de todos os Espíritos congregados. Desejo que o mesmo critério se faça sentir não só em Paris, mas na França inteira, onde grupos há que se desligam, invejando-se reciprocamente, dominados por Espíritos turbulentos que se comprazem na discórdia, quando o Espiritismo deve incutir o esquecimento completo e absoluto do eu.  
 
 ##### 13
 
 Dissestes poder ler em nosso pensamento: podeis explicar-nos como se opera essa transmissão?
 
-> Não é fácil. Para vos descrever, explicando-o, este prodígio extraordinário da nossa visão, preciso fora franquear-vos todo um arsenal de agentes novos, com o que, aliás, ficaríeis na mesma, por terdes as vossas faculdades limitadas pela matéria. Paciência... Tornai-vos bons e tudo conseguireis. Atualmente só podeis ter o que Deus vos concede, mas com a esperança de progredir continuamente; mais tarde sereis como nós. Procurai no entanto morrer em graça para muito saberdes. A curiosidade, estímulo do homem que pensa, conduzir-vos-á tranquilamente para a morte, reservando-vos a satisfação de todos os desejos passados, presentes e futuros. Enquanto esperais, direi para responder, ainda que mal, à vossa pergunta: o ar que respirais, impalpável como nós, estereotipa por assim dizer o vosso pensamento; o sopro que exalais é, mais ou menos, a página escrita dos vossos pensamentos lidos e comentados pelos Espíritos que constantemente se encontram convosco, mensageiros de uma telegrafia divina que tudo transmite e grava.  
+> 👻 ▸ Não é fácil. Para vos descrever, explicando-o, este prodígio extraordinário da nossa visão, preciso fora franquear-vos todo um arsenal de agentes novos, com o que, aliás, ficaríeis na mesma, por terdes as vossas faculdades limitadas pela matéria. Paciência... Tornai-vos bons e tudo conseguireis. Atualmente só podeis ter o que Deus vos concede, mas com a esperança de progredir continuamente; mais tarde sereis como nós. Procurai no entanto morrer em graça para muito saberdes. A curiosidade, estímulo do homem que pensa, conduzir-vos-á tranquilamente para a morte, reservando-vos a satisfação de todos os desejos passados, presentes e futuros. Enquanto esperais, direi para responder, ainda que mal, à vossa pergunta: o ar que respirais, impalpável como nós, estereotipa por assim dizer o vosso pensamento; o sopro que exalais é, mais ou menos, a página escrita dos vossos pensamentos lidos e comentados pelos Espíritos que constantemente se encontram convosco, mensageiros de uma telegrafia divina que tudo transmite e grava.  
 
 #### CEU-2-02-02
 
@@ -2846,3 +2801,118 @@ Dissestes poder ler em nosso pensamento: podeis explicar-nos como se opera essa 
 ### CEU-3-Z
 
 ---
+
+[^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
+Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.” — Eis a consequência lógica do niilismo.
+Se este moço fora espírita, teria dito: “A morte só destruirá o corpo, que deixarei como fato usado, mas o meu Espírito viverá. Serei na vida futura aquilo que eu próprio houver feito de mim nesta vida; do que nela puder adquirir em qualidades morais e intelectuais nada perderei, porque será outro tanto de ganho para o meu adiantamento; toda a imperfeição de que me livrar será um passo a mais para a felicidade. A minha felicidade ou infelicidade depende da utilidade ou inutilidade da presente existência. É portanto de meu interesse aproveitar o pouco tempo que me resta, e evitar tudo o que possa diminuir-me as forças.”
+Qual destas doutrinas é preferível?
+
+[^2]: N.E.: Foi realizada pesquisa no Alcorão, livro considerado sagrado pelos muçulmanos, e em várias suratas (capítulos) foi constatada a crença em sete céus, e não em nove como o descrito acima.  
+
+[^3]: A.K.: Ptolomeu viveu em Alexandria, Egito, no segundo século da Era Cristã.  
+
+[^4]: A.K.: Do grego, pur ou pyr, fogo.
+
+[^5]: A.K.: Vede 1a Parte, cap. I, item 3, nota 1
+
+[^6]: A.K.: Um pequeno saboiano, a quem o seu cura fazia a descrição da vida futura,
+perguntou-lhe se todo mundo lá comia pão branco, como em Paris.
+
+[^7]: N.E.: As cinquenta filhas de Dânaos, Rei de Argos, que, com exceção de uma, mataram seus maridos na noite de núpcias, e foram condenadas a encher eternamente, no inferno, um tonel sem fundo.  
+
+[^8]: N.E.: Por caluniar Zeus, Íxion foi fulminado por um raio e lançado no Tártaro, onde foi preso a uma roda em chamas e condenado a nela girar pela eternidade.  
+
+[^9]: N.E.: Por assaltar os viajantes, Zeus condenou Sísifo ao Tártaro, e deu-lhe como castigo eterno a obrigação de empurrar uma pedra até o lugar mais alto da montanha, de onde ela sempre rola de volta.  
+
+[^10]: A.K.: Sermão pregado em Montpellier em 1860.  
+
+[^11]: A.K.: “Os bem-aventurados, sem deixarem o lugar que ocupam, poderão afastar-se de certo modo em razão do seu dom de inteligência e da vista distinta, a fim de considerarem as torturas dos condenados, e, vendo-os, não somente serão insensíveis à dor, mas até ficarão repletos de alegria e renderão graças a Deus por sua própria felicidade, assistindo à inefável calamidade dos ímpios.” (São Tomás de Aquino.) 
+
+[^12]: A.K.: Sermão pregado em Paris em 1861.
+
+[^13]:  A.K.: Cap. III de O evangelho segundo o espiritismo.
+
+[^14]: N.E.: Personagem da Odisseia, filho de Odisseus e Penélope.  
+
+[^15]: N.E.: Deus romano do comércio e dos viajantes.  
+
+[^16]: N.E.: Barqueiro dos infernos que, mediante pagamento, transportava os mortos na travessia das águas infernais.  
+
+[^18]: N.E.: Três deusas gregas da vingança: Alecto, Tisífone e Megera.  
+
+[^19]: N.E.: Na mitologia grega, monstro fabuloso representado com cabeça de leão, dorso de cabra e cauda de serpente ou dragão.  
+
+[^20]: N.E.: Herói mitológico, filho de Posêidon. Montou Pégaso, o cavalo alado, e matou a Quimera.  
+
+[^21]: N.E.: Na mitologia grega, serpente monstruosa com sete cabeças que renasciam tão logo eram cortadas.  
+
+[^22]: N.E.: Herói romano; deus protetor da agricultura, do comércio e dos exércitos.  
+
+[^23]: N.E.: Cão tricéfalo, guardião dos infernos.  
+
+[^24]: N.E.: Na mitologia grega, gigantes ferreiros e construtores, com apenas um olho no meio da testa.  
+
+[^25]: N.E.: Deus romano do fogo e da metalurgia. 
+
+[^26]: A.K.: Estas citações são tiradas da obra O inferno, de Augusto Callet.  
+
+[^27]: N.E.: “Já foi derrubada na sepultura a tua soberba com o som das tuas violas; os vermes debaixo de ti se estenderão, e os bichos te cobrirão.” (Isaías, 14:11.)  
+
+[^28]:  N.E.: Tofel/Tophel, do hebraico mentiroso, falacioso. Alusão ao demônio Mefistófeles ou ao personagem Mefistófeles da obra Fausto de Goethe.  
+
+[^29]: N.E.: Mateus, 8:12; 13:42; 13:50; 22:13; 24:51; 25:30 e Lucas, 13:28.
+
+[^30]: A.K.: Nesta visão se reconhecem todos os caracteres dos pesadelos, sendo provável que fosse deste gênero de fenômenos o acontecido a Santa Teresa.
+
+[^31]: N.E.: Segundo os egípcios, é o templo em que as almas dos mortos são reunidas para serem julgadas por Osíris (deus que garante a vida no Além).
+
+[^32]: A.K.: Singular punição, na verdade, esta de poder continuar em maior escala a prática de mal menor feito na Terra. Mais racional seria o sofrerem os próprios malfeitores as consequências desse mal, em lugar de se darem ao prazer de proporcioná-lo a outrem.
+
+[^33]: A.K.: Esses mesmos demônios rebeldes a Deus quanto ao bem, são de uma docilidade exemplar quanto à prática do mal. Nenhum se esquiva ou afrouxa durante a eternidade. Que singular metamorfose em quem fora criado puro e perfeito como os anjos! Não é de pasmar vê-los dar exemplos de harmonia, de concórdia inalterável quando os homens sequer não sabem viver em paz na Terra, antes se laceram mutuamente? Vendo-se o requinte dos castigos reservados aos condenados e comparando sua situação à dos demônios, é caso de perguntar quais os mais dignos de lástima — se as vítimas ou os algozes.  
+
+[^34]: N.E.: Na mitologia grega, esposa de Héracles (Hércules), que, abandonada por ele, provocou-lhe a morte, enviando-lhe uma túnica envenenada.  
+
+[^35]: A.K.: O livro dos espíritos, questões 443 e 444.
+
+[^36]: A.K.: O purgatório originou o comércio escandaloso das indulgências, por intermédio das quais se vende a entrada no Céu. Este abuso foi a causa primária da Reforma, levando Lutero a rejeitar o purgatório.  
+
+[^37]: A.K.: Vede O evangelho segundo o espiritismo, cap. XXVII, item Ação da prece.  
+
+[^38]: A.K.: Idem, cap. III, item Progressão dos mundos.  
+
+[^40]: N.E. (1973): O autor escreveu s’est approprié (p. 93, 4ª edição, Paris, 1869), à falta, na época, de verbo mais específico à perfeita tradução da ideia.  
+
+[^41]: A.K.: Vede cap. VI, item 7, e O livro dos espíritos, questões 443 e 444.  
+
+[^45]: A.K.: Vede 1ª Parte, cap. V, O purgatório, item 3 e seguintes; e, após, 2ª Parte, cap. VIII, Expiações terrestres. Vede, também, O evangelho segundo o espiritismo, cap. V, Bem-aventurados os aflitos.  
+
+[^42]: A.K.: Vede cap. VI, item 25, citação de Ezequiel.  
+
+[^43]: A.K.: Perpétuo é sinônimo de eterno. Diz-se o limite das neves perpétuas; o eterno gelo dos polos; também se diz o secretário perpétuo da Academia, o que não significa que o seja ad perpetuam, mas unicamente por tempo ilimitado. Eterno e perpétuo se empregam, pois, no sentido de indeterminado. Nesta acepção pode dizer-se que as penas são eternas, para exprimir que não têm duração limitada; eternas, portanto, para o Espírito que lhes não vê o termo.  
+
+[^44]: A.K.: A necessidade da reparação é um princípio de rigorosa justiça, que se pode considerar verdadeira lei de reabilitação moral dos Espíritos. Entretanto, essa doutrina Religião alguma ainda a proclamou. Algumas pessoas repelem-na porque acham mais cômodo o poder quitarem-se das más ações por um simples arrependimento, que não custa mais que palavras, por meio de algumas fórmulas; contudo, crendo-se, assim, quites, verão mais tarde se isso lhes bastava. Nós poderíamos perguntar se esse princípio não é consagrado pela lei humana, e se a Justiça divina pode ser inferior à dos homens? E mais, se essas leis se dariam por desafrontadas desde que o indivíduo que as transgredisse, por abuso de confiança, se limitasse a dizer que as respeita infinitamente.  
+Por que hão de vacilar tais pessoas perante uma obrigação que todo homem honesto se impõe como dever, segundo o grau de suas forças?  
+Quando esta perspectiva de reparação for inculcada na crença das massas, será um outro freio aos seus desmandos, e bem mais poderoso que o inferno e respectivas penas eternas, visto como interessa à vida em sua plena atualidade, podendo o homem compreender a procedência das circunstâncias que a tornam penosa, ou a sua verdadeira situação.  
+
+[^46]: A.K.: Extraímos este resumo da pastoral do monsenhor Gousset, cardeal-arcebispo de Reims, para a quaresma de 1864. Por ele podemos, pois, considerar os anjos, assim como os demônios, cujo resumo tiramos da mesma origem e citamos no capítulo seguinte, como última expressão do dogma da Igreja neste sentido.  
+
+[^47]: A.K.: Concílio de Latrão.  
+
+[^48]: N.E.: Aúra-Masda ou Ormuz, criador e princípio do bem, deus supremo do masdeísmo (religião do Irã antigo, revelada a Zoroastro, que admite dois princípios: um, bom, deus de luz, e o outro, mau, deus das trevas e da morte, que travam combate para o destino da humanidade).  
+
+[^49]: N.E.: Ahriman ou Arimã, princípio do mal, do caos, das trevas no masdeísmo.  
+
+[^51]: A.K.: Esta doutrina monstruosa é corroborada por Moisés, quando diz (Gênesis, 6:6 e 7): “Ele se arrependeu de haver criado o homem na Terra e, penetrado da mais íntima dor, disse: — Exterminarei a Criação da face da Terra; exterminarei tudo, desde o homem aos animais, desde os que rastejam sobre a terra até os pássaros do céu, porque me arrependo de os ter criado.” Ora, um Deus que se arrepende do que fez não é perfeito nem infalível; portanto, não é Deus. E são estas as palavras que a Igreja proclama! Tampouco se percebe o que poderia haver de comum entre os animais e a perversidade dos homens, para que merecessem tal extermínio.  
+
+[^52]: A.K.: Encontra-se em Isaías, 14:11 e seguintes: “Teu orgulho foi precipitado nos infernos; teu corpo morto baqueou por terra; tua cama verterá podridão, e vermes tua vestimenta. Como caíste do Céu, Lúcifer, tu que parecias tão brilhante ao romper do dia? Como foste arrojado sobre a Terra, tu que ferias as nações com teus golpes; que dizias de coração: Subirei aos Céus, estabelecerei meu trono acima dos astros de Deus, sentar-me-ei acima das nuvens mais altas e serei igual ao Altíssimo! E todavia foste precipitado dessa glória no inferno, até o mais fundo dos abismos. Os que te virem, aproximando-se, encarar-te-ão, dizendo: — Será este o homem que turbou a Terra, que aterrou seus reinos, que fez do mundo um deserto, que destruiu cidades e reteve acorrentados os que se lhe entregaram prisioneiros?” Estas palavras do profeta não se referem à revolta dos anjos; são, sim, uma alusão ao orgulho e à queda do Rei de Babilônia, que retinha os judeus em cativeiro, como atestam os últimos versículos. O Rei de Babilônia é alegoricamente designado por Lúcifer, mas não se faz aí qualquer menção da cena descrita. Essas palavras são do rei que as tinha no coração e se colocava por orgulho acima de Deus, cujo povo escravizara. A profecia da libertação do povo judeu, da ruína de Babilônia e do destroço dos assírios é, ademais, o assunto exclusivo desse capítulo.  
+
+[^53]:  A.K.: Vede 1ª Parte, cap. VI, item 25, citação de Ezequiel.  
+
+[^54]: A.K.: As citações deste capítulo são extraídas da mesma pastoral indicada no precedente, e da qual são corolários. É a mesma fonte e, por conseguinte, a mesma autoridade.  
+
+[^55]: A.K.: Querendo persuadir as pessoas curadas pelo Espiritismo que o foram pelo diabo, grande número delas se há separado da Igreja, sem que jamais pensassem fazê-lo.  
+
+[^56]: N.E.: Estima-se que o Cristianismo atualmente seja a religião com maior número de adeptos (aprox. 2,2 bilhões), seguida pelo Islamismo (aprox. 1,6 bilhão) e Hinduísmo (aprox. 900 milhões). O Espiritismo aparece em 8o lugar, com seus 13 milhões de adeptos.  
+
+[^57]: A.K.: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.  
+
