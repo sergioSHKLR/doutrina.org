@@ -60,7 +60,7 @@ h3::before,
 h4::before,
 h5::before {
   color: lightgrey;
-  font-weight: normal;
+  font-weight: 400;
   white-space: pre
 }
 
@@ -87,7 +87,7 @@ h5 {
 h5,
 h6 {
   border-bottom: 1px solid gainsboro;
-  font-weight: bold;
+  font-weight: 500;
   margin-top: -1em;
   padding-bottom: 10px;
   padding-top: 30px
@@ -112,7 +112,7 @@ body {
 }
 
 li::marker {
-  font-weight: bold
+  font-weight: 500
 }
 
 li::marker {
