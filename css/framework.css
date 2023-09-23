@@ -28,7 +28,7 @@ body {
   color: #ddd;
   line-height: 150%;
   font-family: sans-serif;
-  font-size: 80%;
+  font-size: 12px;
   height: 99.8vh;
 }
 
@@ -147,8 +147,8 @@ iframe {
   width: 100%;
   height: calc(100vh - 50px);
   border-left: 1px solid gainsboro;
-border-top: none;
-border-bottom: none;
+  border-top: none;
+  border-bottom: none;
 }
 
 .dropbtn {
