@@ -1,0 +1,142 @@
+
+@media only screen and (max-width: 782px) {
+  #sidebar {
+    display: none;
+  }
+
+  #open-sidebar {
+    display: block;
+  }
+
+  #close-sidebar {
+    display: block;
+  }
+
+  #content-wrapper {
+    display: block;
+  }
+
+  #ext-panel {
+    display: none;
+  }
+
+ #ext-links {
+    display: none;
+  }
+
+  #open-external {
+    display: none;  
+  }
+
+  #close-external {
+    display: none;
+  }
+
+}
+
+@media only screen and (min-width: 783px) and (max-width: 1053px) {
+  #sidebar {
+    display: none;
+  }
+
+  #open-sidebar {
+    display: block;
+  }
+
+  #close-sidebar {
+    display: block;
+  }
+
+  #content-wrapper {
+    display: block;
+  }
+
+  #ext-panel {
+    display: block;
+  }
+
+ #ext-links {
+    display: block;
+  }
+
+  #open-external {
+    display: none;
+  }
+
+  #close-external {
+    display: none;
+  }
+
+}
+
+@media only screen and (min-width: 1054px) {
+  #sidebar {
+    display: block;
+  }
+
+  #open-sidebar {
+    display: none;
+  }
+
+  #close-sidebar {
+    display: none;
+  }
+
+  #content-wrapper {
+    display: block;
+  }
+
+  #ext-panel {
+    display: block;
+  }
+
+ #ext-links {
+    display: block;
+  }
+
+  #open-external {
+    display: none;
+  }
+
+  #close-external {
+    display: none;
+  }
+
+
+}
+
+@media only screen and (orientation: landscape) and (max-width: 782px) {
+.notice {display: none}
+#side-logo {display: block}
+#content-logo {display: none}
+}
+
+@media only screen and (orientation: portrait) and (max-width: 782px){ 
+.notice {display: block}
+#side-logo {display: none}
+#content-logo {display: block}
+}
+
+@media only screen and (orientation: landscape) and (min-width: 783px) and (max-width: 1053px) {
+.notice {display: none}
+#side-logo {display: none}
+#content-logo {display: block}
+}
+
+@media only screen and (orientation: portrait) and (min-width: 783px) and (max-width: 1053px) { 
+.notice {display: block}
+#side-logo {display: none}
+#content-logo {display: block}
+}
+
+@media only screen and (orientation: landscape) and (min-width: 1054px) {
+.notice {display: none}
+#side-logo {display: block}
+#content-logo {display: none}
+}
+
+@media only screen and (orientation: portrait) and (min-width: 1054px) { 
+.notice {display: block}
+#side-logo {display: none}
+#content-logo {display: block}
+}
