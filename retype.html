@@ -1,172 +1,197 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
-<style>
-  body {
-    font-family: sans-serif;
-    box-sizing: border-box;
-    color: #666;
-  }
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>doutrina.org</title>
+  <meta name="description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
+  <meta name="author" content="sergioSHKLR, info@doutrina.org">
 
-  #sidebar {
-    display: flex;
-    flex-direction: column;
-    line-height: 21px;
-    font-size: 14px;
-    font-family: sans-serif;
-    width: 200px;
-    height: calc(100vh - 84px);
-    background-color: #F8F9FC;
-    border-right: 1px solid gainsboro;
-  }
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://doutrina.org">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="doutrina.org">
+  <meta property="og:description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
+  <meta property="og:image" content="./pwa/screenshot.png">
 
-  #sidebar>div {
-    width: 100%;
-    padding: 6px 0 6px 0px;
-    background-color: #F8F9FC;
-  }
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="./pwa/screenshot.png">
+  <meta name="twitter:title" content="doutrina.org">
+  <meta name="twitter:description"
+    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
+  <meta name="twitter:image" content="./pwa/screenshot.png">
 
-  #sidebar>div:hover {
-    color: dodgerblue;
-    fill: dodgerblue;
-  }
+  <style>
+    body {
+      font-family: sans-serif;
+      box-sizing: border-box;
+      color: #666;
+    }
 
-  #side-panel>div:hover {
-    color: dodgerblue;
-    fill: dodgerblue;
-  }
+    #sidebar {
+      display: flex;
+      flex-direction: column;
+      line-height: 21px;
+      font-size: 14px;
+      font-family: sans-serif;
+      width: 200px;
+      height: calc(100vh - 84px);
+      background-color: #F8F9FC;
+      border-right: 1px solid gainsboro;
+    }
 
-  #side-footer>div:hover {
-    color: dodgerblue;
-    fill: dodgerblue;
-  }
+    #sidebar>div {
+      width: 100%;
+      padding: 6px 0 6px 0px;
+      background-color: #F8F9FC;
+    }
 
-  .active {
-    color: dodgerblue;
-    fill: dodgerblue;
-    background-color: #eee;
-  }
+    #sidebar>div:hover {
+      color: dodgerblue;
+      fill: dodgerblue;
+    }
 
-  svg {
-    vertical-align: middle;
-    padding-right: 6px;
-    height: 18px;
-    fill: inherit;
-  }
+    #side-panel>div:hover {
+      color: dodgerblue;
+      fill: dodgerblue;
+    }
 
-  .lvl2 {
-    text-indent: 15px;
-  }
+    #side-footer>div:hover {
+      color: dodgerblue;
+      fill: dodgerblue;
+    }
 
-  .lvl3 {
-    text-indent: 30px;
-  }
+    .active {
+      color: dodgerblue;
+      fill: dodgerblue;
+      background-color: #eee;
+    }
 
-  .lvl4 {
-    text-indent: 45px;
-  }
+    svg {
+      vertical-align: middle;
+      padding-right: 6px;
+      height: 18px;
+      fill: inherit;
+    }
 
-  .lvl5 {
-    text-indent: 60px;
-  }
+    .lvl2 {
+      text-indent: 15px;
+    }
 
-  #side-top {
-    font-size: 24px;
-    line-height: 24px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid gainsboro;
-  }
+    .lvl3 {
+      text-indent: 30px;
+    }
 
-  #logo {
-    border-right: 1px solid gainsboro;
-    width: 200px;
-  }
+    .lvl4 {
+      text-indent: 45px;
+    }
 
-  button {
-    background-color: transparent;
-    border: 0;
-    cursor: pointer;
-    margin-right: auto;
-    margin-left: auto;
-  }
+    .lvl5 {
+      text-indent: 60px;
+    }
 
-  #ext-top {
-    position: absolute;
-    top: 0px;
-    right: 20px;
-    width: 40vw;
-    padding-top: 26px;
-    padding-bottom: 26px;
-  }
+    #side-top {
+      font-size: 24px;
+      line-height: 24px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid gainsboro;
+    }
 
-  #ext-links {
-    border-left: 1px solid gainsboro;
-    padding-left: 20px;
-  }
+    #logo {
+      border-right: 1px solid gainsboro;
+      width: 200px;
+    }
 
-  #ext-panel {
-    position: absolute;
-    top: 72px;
-    right: 20px;
-    width: 40vw;
-    border-left: 1px solid gainsboro;
-    height: calc(100vh - 84px);
-  }
+    button {
+      background-color: transparent;
+      border: 0;
+      cursor: pointer;
+      margin-right: auto;
+      margin-left: auto;
+    }
 
-  #content-top {
-    position: absolute;
-    top: 0px;
-    right: calc(40vw + 40px);
-    padding-top: 27px;
-    padding-bottom: 27px;
-    padding-left: 20px;
-  }
+button>svg {fill: #666;}
 
-  iframe {
-    border: none;
-    position: relative;
-    top: 1px;
-    margin-right: 20px;
-    width: 40vw;
-    height: calc(100vh - 84px);
+    #ext-top {
+      position: absolute;
+      top: 0px;
+      right: 20px;
+      width: 40vw;
+      padding-top: 26px;
+      padding-bottom: 26px;
+    }
 
-  }
+    #ext-links {
+      border-left: 1px solid gainsboro;
+      padding-left: 20px;
+    }
 
-  svg {
-    fill: currentColor
-  }
+    #ext-panel {
+      position: absolute;
+      top: 72px;
+      right: 20px;
+      width: 40vw;
+      border-left: 1px solid gainsboro;
+      height: calc(100vh - 84px);
+    }
 
-  #ext-links a:any-link {
-    color: currentColor;
-  }
+    #content-top {
+      position: absolute;
+      top: 0px;
+      right: calc(40vw + 40px);
+      padding-top: 27px;
+      padding-bottom: 27px;
+      padding-left: 20px;
+    }
 
-  .shades-on {
-    transition-timing-function: ease-in-out;
-    transition-duration: .2s;
-    filter: brightness(0.15);
-  }
+    iframe {
+      border: none;
+      position: relative;
+      top: 1px;
+      margin-right: 20px;
+      width: 40vw;
+      height: calc(100vh - 84px);
 
-  hr {
-    border-color: gainsboro;
-    border-top: none;
-    width: 100%;
-  }
+    }
 
-  #side-footer {
-    line-height: 21px;
-    font-size: 14px;
-    font-family: sans-serif;
-    position: absolute;
-    bottom: 20px;
-    line-height: 2;
-  }
+    svg {
+      fill: currentColor
+    }
 
-  #side-footer a:any-link {
-    text-decoration: none;
-    color: currentColor;
-  }
-</style>
+    #ext-links a:any-link {
+      color: currentColor;
+    }
+
+    .shades-on {
+      transition-timing-function: ease-in-out;
+      transition-duration: .2s;
+      filter: brightness(0.15);
+    }
+
+    hr {
+      border-color: gainsboro;
+      border-top: none;
+      width: 100%;
+    }
+
+    #side-footer {
+      line-height: 21px;
+      font-size: 14px;
+      font-family: sans-serif;
+      position: absolute;
+      bottom: 20px;
+      line-height: 2;
+    }
+
+    #side-footer a:any-link {
+      text-decoration: none;
+      color: currentColor;
+    }
+  </style>
 
 <body>
   <div id="side-top">
@@ -282,12 +307,12 @@
   <div id="content-top">
     <div id="content-buttons">
 
-      <button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+      <button title="ajustes"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
           <path
             d="M7.875 2.292a.114.114 0 0 0-.032.018A7.239 7.239 0 0 0 4.75 8.25a7.248 7.248 0 0 0 3.654 6.297c.57.327.982.955.941 1.682v.002l-.317 6.058a.75.75 0 1 1-1.498-.078l.317-6.062v-.004c.006-.09-.047-.215-.188-.296A8.749 8.749 0 0 1 3.25 8.25a8.738 8.738 0 0 1 3.732-7.169 1.547 1.547 0 0 1 1.709-.064c.484.292.809.835.809 1.46v4.714a.25.25 0 0 0 .119.213l2.25 1.385c.08.05.182.05.262 0l2.25-1.385a.25.25 0 0 0 .119-.213V2.478c0-.626.325-1.169.81-1.461a1.547 1.547 0 0 1 1.708.064 8.741 8.741 0 0 1 3.732 7.17 8.747 8.747 0 0 1-4.41 7.598c-.14.081-.193.206-.188.296v.004l.318 6.062a.75.75 0 1 1-1.498.078l-.317-6.058v-.002c-.041-.727.37-1.355.94-1.682A7.247 7.247 0 0 0 19.25 8.25a7.239 7.239 0 0 0-3.093-5.94.114.114 0 0 0-.032-.018l-.01-.001c-.003 0-.014 0-.031.01-.036.022-.084.079-.084.177V7.19c0 .608-.315 1.172-.833 1.49l-2.25 1.385a1.75 1.75 0 0 1-1.834 0l-2.25-1.384A1.752 1.752 0 0 1 8 7.192V2.477c0-.098-.048-.155-.084-.176a.068.068 0 0 0-.031-.011l-.01.001Z">
           </path>
         </svg></button>
-      <button onclick="toggleFullScreen()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
+      <button title="tela" onclick="toggleFullScreen()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
           height="24">
           <path
             d="M0 3.75C0 2.784.784 2 1.75 2h20.5c.966 0 1.75.784 1.75 1.75v16.5A1.75 1.75 0 0 1 22.25 22H1.75A1.75 1.75 0 0 1 0 20.25ZM22.5 7h-21v13.25c0 .138.112.25.25.25h20.5a.25.25 0 0 0 .25-.25Zm-10-3.5v2h10V3.75a.25.25 0 0 0-.25-.25ZM7 3.5v2h4v-2Zm-5.25 0a.25.25 0 0 0-.25.25V5.5h4v-2Z">
@@ -325,7 +350,7 @@
         </svg></a>
 
 
-      <button id="shades" onclick="toggleShades()" style="float: right;"><svg xmlns="http://www.w3.org/2000/svg"
+      <button id="shades" title="cortina" onclick="toggleShades()" style="float: right;"><svg xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24" width="24" height="24">
           <path
             d="M8.052 5.837A9.715 9.715 0 0 1 12 5c2.955 0 5.309 1.315 7.06 2.864 1.756 1.553 2.866 3.307 3.307 4.08a.11.11 0 0 1 .016.055.122.122 0 0 1-.017.06 16.766 16.766 0 0 1-1.53 2.218.75.75 0 1 0 1.163.946 18.253 18.253 0 0 0 1.67-2.42 1.607 1.607 0 0 0 .001-1.602c-.485-.85-1.69-2.757-3.616-4.46C18.124 5.034 15.432 3.5 12 3.5c-1.695 0-3.215.374-4.552.963a.75.75 0 0 0 .604 1.373Zm11.114 12.15C17.328 19.38 14.933 20.5 12 20.5c-3.432 0-6.125-1.534-8.054-3.24C2.02 15.556.814 13.648.33 12.798a1.606 1.606 0 0 1 .001-1.6A18.283 18.283 0 0 1 3.648 7.01L1.317 5.362a.75.75 0 1 1 .866-1.224l20.5 14.5a.75.75 0 1 1-.866 1.224ZM4.902 7.898c-1.73 1.541-2.828 3.273-3.268 4.044a.112.112 0 0 0-.017.059c0 .015.003.034.016.055.441.774 1.551 2.527 3.307 4.08C6.69 17.685 9.045 19 12 19c2.334 0 4.29-.82 5.874-1.927l-3.516-2.487a3.5 3.5 0 0 1-5.583-3.949L4.902 7.899Z">
