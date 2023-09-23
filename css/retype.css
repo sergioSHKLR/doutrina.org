@@ -14,13 +14,19 @@
       height: calc(100vh - 84px);
       background-color: #F8F9FC;
       border-right: 1px solid gainsboro;
-      padding-left: 20px;
+      padding-left: 10px;
     }
 
     #sidebar>div {
       width: 100%;
       padding: 6px 0 6px 0px;
       background-color: #F8F9FC;
+    }
+
+
+    #sidebar a {
+      text-decoration: none;
+      color: currentColor
     }
 
     #sidebar>div:hover {
@@ -74,7 +80,7 @@
       padding-top: 20px;
       padding-bottom: 20px;
       border-bottom: 1px solid gainsboro;
-      padding-left: 20px;
+      padding-left: 10px;
 
     }
 
@@ -83,7 +89,10 @@
       width: 200px;
     }
 
-    #logo a:any-link {text-decoration: none; color: currentColor}
+    #logo a:any-link {
+      text-decoration: none;
+      color: currentColor
+    }
 
     button {
       background-color: transparent;
@@ -126,7 +135,7 @@
       right: calc(40vw + 40px);
       padding-top: 27px;
       padding-bottom: 27px;
-      padding-left: 20px;
+      padding-left: 10px;
     }
 
     iframe {
@@ -162,11 +171,8 @@
     #side-footer {
       line-height: 21px;
       font-size: 14px;
-      font-family: sans-serif;
-      position: absolute;
-      bottom: 20px;
       line-height: 2;
-      padding-left: 20px;
+      padding-left: 10px;
 
     }
 
