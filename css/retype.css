@@ -39,10 +39,10 @@
     }
 
     .active {
-      color: dodgerblue;
-      fill: dodgerblue;
+      color: #0066cc;
+      fill: #0066cc;
       background-color: #e6f2ff !important;
-      border-right: 1px solid dodgerblue;
+      border-right: 2px solid #0066cc;
     }
 
     svg {
