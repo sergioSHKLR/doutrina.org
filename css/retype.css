@@ -14,6 +14,7 @@
       height: calc(100vh - 84px);
       background-color: #F8F9FC;
       border-right: 1px solid gainsboro;
+      padding-left: 20px;
     }
 
     #sidebar>div {
@@ -72,6 +73,8 @@
       padding-top: 20px;
       padding-bottom: 20px;
       border-bottom: 1px solid gainsboro;
+      padding-left: 20px;
+
     }
 
     #logo {
@@ -160,6 +163,8 @@
       position: absolute;
       bottom: 20px;
       line-height: 2;
+      padding-left: 20px;
+
     }
 
     #side-footer a:any-link {
