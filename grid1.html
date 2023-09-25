@@ -7,6 +7,12 @@
 
   <title>Title</title>
   <style>
+    .shades-on {
+      transition-timing-function: ease-in-out;
+      transition-duration: .2s;
+      filter: brightness(0.15);
+    }
+
     body {
       margin: 0;
       padding: 0;
@@ -34,13 +40,17 @@
     }
 
     .menu {
-      grid-area: 1 / 1 / 2 / 2; border-right: 1px solid gainsboro;
+      grid-area: 1 / 1 / 2 / 2;
+      border-right: 1px solid gainsboro;
     }
 
-    .navbar {border-bottom: 1px solid gainsboro;
-}
+    .navbar {
+      border-bottom: 1px solid gainsboro;
+    }
+
     .tools {
-      grid-area: 1 / 2 / 2 / 3; border-right: 1px solid gainsboro;
+      grid-area: 1 / 2 / 2 / 3;
+      border-right: 1px solid gainsboro;
     }
 
     .links {
@@ -48,7 +58,8 @@
     }
 
     .sidebar {
-      background-color: whitesmoke; border-right: 1px solid gainsboro;
+      background-color: whitesmoke;
+      border-right: 1px solid gainsboro;
     }
 
     .books {
@@ -70,7 +81,8 @@
     }
 
     .aside {
-      grid-area: 2 / 3 / 5 / 4; border-left: 1px solid gainsboro;
+      grid-area: 2 / 3 / 5 / 4;
+      border-left: 1px solid gainsboro;
     }
 
     iframe {
@@ -276,8 +288,8 @@
 
   <div class="container">
     <div class="menu p-10 navbar" style="font-size: 18px;">
-      <button title="menu" onclick="openSidebar()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
-          width="16" height="16">
+      <button title="menu" id="open-sidebar" onclick="openSidebar()"><svg xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 16 16" width="16" height="16">
           <path
             d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z">
           </path>
@@ -332,8 +344,8 @@
           </svg></button>
       </form>
 
-      <button style="position: absolute; right: 30px" title="cortina"><svg xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 16 16" width="16" height="16">
+      <button id="shades" onclick="toggleShades()" style="position: absolute; right: 30px" title="cortina"><svg
+          xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
           <path
             d="M.143 2.31a.75.75 0 0 1 1.047-.167l14.5 10.5a.75.75 0 1 1-.88 1.214l-2.248-1.628C11.346 13.19 9.792 14 8 14c-1.981 0-3.67-.992-4.933-2.078C1.797 10.832.88 9.577.43 8.9a1.619 1.619 0 0 1 0-1.797c.353-.533.995-1.42 1.868-2.305L.31 3.357A.75.75 0 0 1 .143 2.31Zm1.536 5.622A.12.12 0 0 0 1.657 8c0 .021.006.045.022.068.412.621 1.242 1.75 2.366 2.717C5.175 11.758 6.527 12.5 8 12.5c1.195 0 2.31-.488 3.29-1.191L9.063 9.695A2 2 0 0 1 6.058 7.52L3.529 5.688a14.207 14.207 0 0 0-1.85 2.244ZM8 3.5c-.516 0-1.017.09-1.499.251a.75.75 0 1 1-.473-1.423A6.207 6.207 0 0 1 8 2c1.981 0 3.67.992 4.933 2.078 1.27 1.091 2.187 2.345 2.637 3.023a1.62 1.62 0 0 1 0 1.798c-.11.166-.248.365-.41.587a.75.75 0 1 1-1.21-.887c.148-.201.272-.382.371-.53a.119.119 0 0 0 0-.137c-.412-.621-1.242-1.75-2.366-2.717C10.825 4.242 9.473 3.5 8 3.5Z">
           </path>
@@ -453,9 +465,15 @@
       <hr>
 
 
-      <p><a href="https://github.com/sergioSHKLR/doutrina.org/issues"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M4.72.22a.75.75 0 0 1 1.06 0l1 .999a3.488 3.488 0 0 1 2.441 0l.999-1a.748.748 0 0 1 1.265.332.75.75 0 0 1-.205.729l-.775.776c.616.63.995 1.493.995 2.444v.327c0 .1-.009.197-.025.292.408.14.764.392 1.029.722l1.968-.787a.75.75 0 0 1 .556 1.392L13 7.258V9h2.25a.75.75 0 0 1 0 1.5H13v.5c0 .409-.049.806-.141 1.186l2.17.868a.75.75 0 0 1-.557 1.392l-2.184-.873A4.997 4.997 0 0 1 8 16a4.997 4.997 0 0 1-4.288-2.427l-2.183.873a.75.75 0 0 1-.558-1.392l2.17-.868A5.036 5.036 0 0 1 3 11v-.5H.75a.75.75 0 0 1 0-1.5H3V7.258L.971 6.446a.75.75 0 0 1 .558-1.392l1.967.787c.265-.33.62-.583 1.03-.722a1.677 1.677 0 0 1-.026-.292V4.5c0-.951.38-1.814.995-2.444L4.72 1.28a.75.75 0 0 1 0-1.06Zm.53 6.28a.75.75 0 0 0-.75.75V11a3.5 3.5 0 1 0 7 0V7.25a.75.75 0 0 0-.75-.75ZM6.173 5h3.654A.172.172 0 0 0 10 4.827V4.5a2 2 0 1 0-4 0v.327c0 .096.077.173.173.173Z"></path></svg>&nbsp;Erros</a></p>
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/issues"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M4.72.22a.75.75 0 0 1 1.06 0l1 .999a3.488 3.488 0 0 1 2.441 0l.999-1a.748.748 0 0 1 1.265.332.75.75 0 0 1-.205.729l-.775.776c.616.63.995 1.493.995 2.444v.327c0 .1-.009.197-.025.292.408.14.764.392 1.029.722l1.968-.787a.75.75 0 0 1 .556 1.392L13 7.258V9h2.25a.75.75 0 0 1 0 1.5H13v.5c0 .409-.049.806-.141 1.186l2.17.868a.75.75 0 0 1-.557 1.392l-2.184-.873A4.997 4.997 0 0 1 8 16a4.997 4.997 0 0 1-4.288-2.427l-2.183.873a.75.75 0 0 1-.558-1.392l2.17-.868A5.036 5.036 0 0 1 3 11v-.5H.75a.75.75 0 0 1 0-1.5H3V7.258L.971 6.446a.75.75 0 0 1 .558-1.392l1.967.787c.265-.33.62-.583 1.03-.722a1.677 1.677 0 0 1-.026-.292V4.5c0-.951.38-1.814.995-2.444L4.72 1.28a.75.75 0 0 1 0-1.06Zm.53 6.28a.75.75 0 0 0-.75.75V11a3.5 3.5 0 1 0 7 0V7.25a.75.75 0 0 0-.75-.75ZM6.173 5h3.654A.172.172 0 0 0 10 4.827V4.5a2 2 0 1 0-4 0v.327c0 .096.077.173.173.173Z">
+            </path>
+          </svg>&nbsp;Erros</a></p>
 
-      <p><a href="https://github.com/sergioSHKLR/doutrina.org/edit/main/index.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/edit/main/index.html"><svg
+            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
             <path
               d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z">
             </path>
@@ -467,9 +485,19 @@
             </path>
           </svg>&nbsp;Avisos</a></p>
 
-      <p><a href="https://github.com/sergioSHKLR/doutrina.org/wiki"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg>&nbsp;Wiki</a></p>
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/wiki"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z">
+            </path>
+          </svg>&nbsp;Wiki</a></p>
 
-<p><a href="https://github.com/sergioSHKLR/doutrina.org/discussions"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path></svg>&nbsp;Forum</a></p>
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/discussions"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z">
+            </path>
+          </svg>&nbsp;Forum</a></p>
 
 
       <p><a href="https://shklr.org"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -479,12 +507,28 @@
     </div>
     <div class="main p-10">MAIN</div>
 
-    <div class="aside">
+    <div id="ext-panel" class="aside shades-on">
       <iframe name="ext" id="ext-iframe" src="./ext.html"></iframe>
     </div>
   </div>
 
-  <script src="/js/retype.js"></script>
+  <script>
+    // toggles anti-distraction curtain
+    function toggleShades() {
+      var element = document.getElementById("ext-panel");
+      element.classList.toggle("shades-on");
+    }
+
+
+    // enter fullscreen
+    document.addEventListener("fullscreenchange", () => {
+      if (document.fullscreenElement === null) {
+        console.log("Exited fullscreen");
+      } else {
+        console.log("Entered fullscreen");
+      }
+    });
+  </script>
 
 </body>
 
