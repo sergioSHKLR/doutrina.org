@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="UTF-8">
+
+<title>Title</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-size: 16px;
+      font-family: sans-serif;
+    }
+
+    *::-webkit-scrollbar {
+      display: none;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: 200px auto 40%;
+      grid-template-rows: 50px 300px auto 200px;
+      grid-column-gap: 0px;
+      grid-row-gap: 0px;
+      height: 99.8vh;
+      width: 99.8vw;
+    }
+
+    .container>div {
+      border: 1px solid gainsboro;
+    }
+
+    .menu {
+      grid-area: 1 / 1 / 2 / 2;
+    }
+
+    .tools {
+      grid-area: 1 / 2 / 2 / 3;
+    }
+
+    .links {
+      grid-area: 1 / 3 / 2 / 4;
+    }
+
+    .books {
+      grid-area: 2 / 1 / 3 / 2;
+    }
+
+    .summary {
+      grid-area: 3 / 1 / 4 / 2; overflow-y: scroll; overflow-x: hidden;
+    }
+
+    .footer {
+      grid-area: 4 / 1 / 5 / 2;
+    }
+
+    .main {
+      grid-area: 2 / 2 / 5 / 3;
+    }
+
+    .aside {
+      grid-area: 2 / 3 / 5 / 4;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+    }
+
+    iframe {border: none; }
+
+  svg {vertical-align: middle;}
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="menu">
+<button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path></svg></button>
+<a href="">doutrina.org</a>
+</div>
+    <div class="tools">
+<button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M6.71 10H2.332l-.874 2.498a.75.75 0 0 1-1.415-.496l3.39-9.688a1.217 1.217 0 0 1 2.302.018l3.227 9.681a.75.75 0 0 1-1.423.474Zm3.13-4.358C10.53 4.374 11.87 4 13 4c1.5 0 3 .939 3 2.601v5.649a.75.75 0 0 1-1.448.275C13.995 12.82 13.3 13 12.5 13c-.77 0-1.514-.231-2.078-.709-.577-.488-.922-1.199-.922-2.041 0-.694.265-1.411.887-1.944C11 7.78 11.88 7.5 13 7.5h1.5v-.899c0-.54-.5-1.101-1.5-1.101-.869 0-1.528.282-1.84.858a.75.75 0 1 1-1.32-.716ZM6.21 8.5 4.574 3.594 2.857 8.5Zm8.29.5H13c-.881 0-1.375.22-1.637.444-.253.217-.363.5-.363.806 0 .408.155.697.39.896.249.21.63.354 1.11.354.732 0 1.26-.209 1.588-.449.35-.257.412-.495.412-.551Z"></path></svg></button>
+
+<button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M1.75 10a.75.75 0 0 1 .75.75v2.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 1 13.25v-2.5a.75.75 0 0 1 .75-.75Zm12.5 0a.75.75 0 0 1 .75.75v2.5A1.75 1.75 0 0 1 13.25 15h-2.5a.75.75 0 0 1 0-1.5h2.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 .75-.75ZM2.75 2.5a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0v-2.5C1 1.784 1.784 1 2.75 1h2.5a.75.75 0 0 1 0 1.5ZM10 1.75a.75.75 0 0 1 .75-.75h2.5c.966 0 1.75.784 1.75 1.75v2.5a.75.75 0 0 1-1.5 0v-2.5a.25.25 0 0 0-.25-.25h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg></button>
+
+</div>
+    <div class="links">
+
+<form>
+
+    <button id="btn1" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></svg></button>
+
+    <button id="btn2" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M4.75 7a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5ZM5 4.75A.75.75 0 0 1 5.75 4h5.5a.75.75 0 0 1 0 1.5h-5.5A.75.75 0 0 1 5 4.75ZM6.75 10a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5Z"></path><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Z"></path></svg></button>
+
+    <button id="btn3" ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path></svg></button>
+  </form>
+</div>
+    <div class="books">
+<button><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path></svg></button>
+<h3>Obras básicas</h3>
+<hr>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>&nbsp;&nbsp;O Livro dos Espíritos</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>&nbsp;&nbsp;O Livro dos Médiuns</p>
+<p> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>&nbsp;&nbsp;O Evangelho </p>
+<p> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>&nbsp;&nbsp;O Céu e o Inferno</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>&nbsp;&nbsp;A Gênese</p>
+
+
+</div>
+    <div class="summary">
+<h3>Sumário</h3>
+<hr>
+<ol start="0">
+<li>Parte
+<ol style="list-style-type: decimal-leading-zero;">
+<li><a href="">Cap</a></li>
+<li>Cap</li>
+<li>Cap</li>
+</ol></li>
+<li>Parte
+<ol style="list-style-type: decimal-leading-zero;">
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+</ol></li>
+<li>Parte
+<ol style="list-style-type: decimal-leading-zero;">
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+</ol></li>
+<li>Parte
+<ol style="list-style-type: decimal-leading-zero;">
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+</ol></li>
+<li>Parte
+<ol style="list-style-type: decimal-leading-zero;">
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+</ol></li>
+<li>Parte
+<ol style="list-style-type: decimal-leading-zero;">
+<li>Cap</li>
+<li>Cap</li>
+<li>Cap</li>
+</ol></li>
+</ol>
+</div>
+    <div class="footer">
+<h3>Detalhes</h3>
+<hr>
+<p>Edite no Github</p>
+<p>Avisos legais</p>
+<p>shklr.org</p>
+
+</div>
+    <div class="main">MAIN</div>
+    <div class="aside">
+<iframe name="ext" id="ext-iframe" src="./ext.html"></iframe>
+</div>
+  </div>
+
+
+
+<script>
+var frame = document.getElementById("ext-iframe");
+
+var btn1 = document.getElementById("btn1");
+var btn2 = document.getElementById("btn2");
+var btn3 = document.getElementById("btn3");
+
+btn1.addEventListener("click",link1)
+btn2.addEventListener("click",link2)
+btn3.addEventListener("click",link3)
+
+function link1(){
+  frame.src="https://pt.m.wikipedia.org/"
+}
+function link2(){
+  frame.src="https://pt.m.wiktionary.org/"
+}
+function link3(){
+  frame.src="./maps/paris.html"
+}
+</script>
+
+</body>
+</html>

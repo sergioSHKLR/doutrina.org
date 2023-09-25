@@ -32,6 +32,12 @@
     display: none;
   }
 
+  #logo-text {display: none;}
+
+  #logo {border: none;}
+
+  #content-buttons {position: absolute; right: 20px !important;}
+
 }
 
 @media only screen and (min-width: 783px) and (max-width: 1053px) {

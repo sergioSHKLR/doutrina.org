@@ -4,22 +4,21 @@
       color: #666;
     }
 
+* {box-sizing: border-box; border: 1px solid red;}
+
     #sidebar {
       display: flex;
       flex-direction: column;
-      line-height: 21px;
       font-size: 14px;
       font-family: sans-serif;
       width: 200px;
       height: calc(100vh - 84px);
       background-color: #F8F9FC;
       border-right: 1px solid gainsboro;
-      padding-left: 10px;
     }
 
     #sidebar>div {
       width: 100%;
-      padding: 6px 0 6px 0px;
       background-color: #F8F9FC;
     }
 
@@ -29,17 +28,7 @@
       color: currentColor
     }
 
-    #sidebar>div:hover {
-      color: dodgerblue;
-      fill: dodgerblue;
-    }
-
-    #side-panel>div:hover {
-      color: dodgerblue;
-      fill: dodgerblue;
-    }
-
-    #side-footer>div:hover {
+    #sidebar a:hover {
       color: dodgerblue;
       fill: dodgerblue;
     }
@@ -53,35 +42,38 @@
 
     svg {
       vertical-align: middle;
-      padding-right: 6px;
-      height: 18px;
       fill: inherit;
     }
 
     .lvl2 {
-      text-indent: 15px;
+      text-indent: 0px;
     }
 
     .lvl3 {
-      text-indent: 30px;
+      text-indent: 10px;
     }
 
     .lvl4 {
-      text-indent: 45px;
+      text-indent: 20px;
     }
 
     .lvl5 {
-      text-indent: 60px;
+      text-indent: 30px;
     }
 
     #side-top {
-      font-size: 24px;
-      line-height: 24px;
-      padding-top: 20px;
-      padding-bottom: 20px;
       border-bottom: 1px solid gainsboro;
-      padding-left: 10px;
 
+    }
+
+    #logo,
+    #logo-text,
+    #side-top,
+    #content-top,
+    #content-buttons,
+    #ext-links,
+    #ext-top {
+      font-size: 20px;
     }
 
     #logo {
@@ -98,8 +90,11 @@
       background-color: transparent;
       border: 0;
       cursor: pointer;
-      margin-right: auto;
-      margin-left: auto;
+    }
+
+    #ext-links a {
+      background-color: transparent;
+      cursor: pointer;
     }
 
     button>svg {
@@ -111,13 +106,10 @@
       top: 0px;
       right: 20px;
       width: 40vw;
-      padding-top: 26px;
-      padding-bottom: 26px;
     }
 
     #ext-links {
       border-left: 1px solid gainsboro;
-      padding-left: 20px;
     }
 
     #ext-panel {
@@ -133,16 +125,13 @@
       position: absolute;
       top: 0px;
       right: calc(40vw + 40px);
-      padding-top: 27px;
-      padding-bottom: 27px;
-      padding-left: 10px;
+
     }
 
     iframe {
       border: none;
       position: relative;
       top: 1px;
-      margin-right: 20px;
       width: 40vw;
       height: calc(100vh - 84px);
 
@@ -169,14 +158,35 @@
     }
 
     #side-footer {
-      line-height: 21px;
       font-size: 14px;
-      line-height: 2;
-      padding-left: 10px;
 
     }
 
     #side-footer a:any-link {
       text-decoration: none;
       color: currentColor;
+    }
+
+    #open-sidebar {
+      float: left;
+      display: none;
+    }
+
+    .header {
+      cursor: auto;
+      color: currentColor;
+      font-size: 14px;
+    }
+
+
+    #close-sidebar {
+      float: right;
+      display: block;
+      border: 1px solid red;
+      ;
+    }
+
+    #side-footer a:hover {
+      color: dodgerblue;
+      fill: dodgerblue;
     }
