@@ -136,7 +136,7 @@ function toggleShades() {
 
 // toggles sidebar visibility
 function openSidebar() {
-  document.getElementById("sidebar").style.display = "block";
+  document.getElementsByClassName("sidebar").style.display = "block";
   document.getElementById("open-sidebar").style.display = "none";
 }
 
