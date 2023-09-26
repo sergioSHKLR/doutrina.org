@@ -2162,40 +2162,161 @@ Dissestes poder ler em nosso pensamento: podeis explicar-nos como se opera essa 
 
 Em seguida à primeira evocação do Sr. Sanson, feita na Sociedade de Paris, um Espírito deu sob esta epígrafe a comunicação seguinte:  
 
-> 👻 ▸ Foi a de um justo a morte desse homem de quem neste momento vos ocupais, isto é, esperançosa e calma. Como o dia sucede naturalmente à aurora, a vida espiritual se lhe sucedeu à vida terrestre, sem rompimento nem abalo. O seu último suspiro foi tanto como um hino de reconhecimento e amor. E quão poucos os que atravessam assim a rude transição! Quão poucos os que após a confusão e desespero da vida concebem o ritmo harmonioso das esferas! Como o homem de saúde perfeita, de chofre mutilado, sofre nos membros separados ao corpo, assim, a alma do cético, separada do corpo, se despedaça e, lancinante, se precipita no Espaço, inconsciente de si mesma.“Foi a de um justo a morte desse homem de quem neste momento vos ocupais, isto é, esperançosa e calma. Como o dia sucede naturalmente à aurora, a vida espiritual se lhe sucedeu à vida terrestre, sem rompimento nem abalo. O seu último suspiro foi tanto como um hino de reconhecimento e amor. E quão poucos os que atravessam assim a rude transição! Quão poucos os que após a confusão e desespero da vida concebem o ritmo harmonioso das esferas! Como o homem de saúde perfeita, de chofre mutilado, sofre nos membros separados ao corpo, assim, a alma do cético, separada do corpo, se despedaça e, lancinante, se precipita no Espaço, inconsciente de si mesma.  
+> 👻 ▸ Foi a de um justo a morte desse homem de quem neste momento vos ocupais, isto é, esperançosa e calma. Como o dia sucede naturalmente à aurora, a vida espiritual se lhe sucedeu à vida terrestre, sem rompimento nem abalo. O seu último suspiro foi tanto como um hino de reconhecimento e amor. E quão poucos os que atravessam assim a rude transição! Quão poucos os que após a confusão e desespero da vida concebem o ritmo harmonioso das esferas! Como o homem de saúde perfeita, de chofre mutilado, sofre nos membros separados ao corpo, assim, a alma do cético, separada do corpo, se despedaça e, lancinante, se precipita no Espaço, inconsciente de si mesma.
+
+> Foi a de um justo a morte desse homem de quem neste momento vos ocupais, isto é, esperançosa e calma. Como o dia sucede naturalmente à aurora, a vida espiritual se lhe sucedeu à vida terrestre, sem rompimento nem abalo. O seu último suspiro foi tanto como um hino de reconhecimento e amor. E quão poucos os que atravessam assim a rude transição! Quão poucos os que após a confusão e desespero da vida concebem o ritmo harmonioso das esferas! Como o homem de saúde perfeita, de chofre mutilado, sofre nos membros separados ao corpo, assim, a alma do cético, separada do corpo, se despedaça e, lancinante, se precipita no Espaço, inconsciente de si mesma.  
 >
-> Orai por essas almas perturbadas; orai por todos os sofredores, que a caridade não se restringe à humanidade visível, mas deve socorrer e consolar os habitantes do Espaço. Disso tivestes a prova evidente na súbita conversão desse Espírito58 tocado pelas preces espíritas sobre o túmulo do homem de bem que vindes interrogar e que deseja fazer-vos progredir no bom caminho. O amor não tem limites; enche o Espaço e dá e recebe mutuamente as suas divinas consolações. Também o mar se desenrola numa perspectiva infinita, cujo espetáculo deslumbra o espírito, parecendo-lhe confundir-se o mar no seu limite com os céus. São duas grandezas que se extremam. Pois bem; assim é o amor; mais profundo que as ondas, mais infinito que o Espaço, a todos vós, encarnados e desencarnados, deve unir na santa comunhão da caridade, fusão sublime do finito e do eterno.  
+> Orai por essas almas perturbadas; orai por todos os sofredores, que a caridade não se restringe à humanidade visível, mas deve socorrer e consolar os habitantes do Espaço. Disso tivestes a prova evidente na súbita conversão desse Espírito [^58] tocado pelas preces espíritas sobre o túmulo do homem de bem que vindes interrogar e que deseja fazer-vos progredir no bom caminho. O amor não tem limites; enche o Espaço e dá e recebe mutuamente as suas divinas consolações. Também o mar se desenrola numa perspectiva infinita, cujo espetáculo deslumbra o espírito, parecendo-lhe confundir-se o mar no seu limite com os céus. São duas grandezas que se extremam. Pois bem; assim é o amor; mais profundo que as ondas, mais infinito que o Espaço, a todos vós, encarnados e desencarnados, deve unir na santa comunhão da caridade, fusão sublime do finito e do eterno.  
 >
 > Georges
 
-#### CEU-2-02-02
+#### 02. Jobard  
 
-##### CEU-2-02-02-p1
+Diretor do Museu da Indústria de Bruxelas, nascido em Baissey (Alto Marne) e falecido em Bruxelas, de apoplexia fulminante, a 27 de outubro de 1861, com 69 anos.  
 
-##### CEU-2-02-02-p2
+O Sr. Jobard era presidente honorário da Sociedade Espírita de Paris e tratava-se de o evocar, na sessão de 8 de novembro, quando, antecipando-se ao nosso desejo, espontaneamente deu a seguinte comunicação:  
 
-##### CEU-2-02-02-p3
+> 👻 ▸ Aqui estou eu a quem íeis evocar, manifestando-me por este médium que até agora tenho solicitado baldamente. Antes de tudo desejo descrever as minhas impressões por ocasião do meu desprendimento: senti um abalo indizível; lembrei-me instantaneamente do meu nascimento, da minha juventude, da minha velhice; toda a minha vida se me retratou nitidamente na memória. Eu sentia apenas um como piedoso desejo de me achar enfim nas regiões reveladas pela nossa crença. Depois, o tumulto serenou: eu estava livre e o meu corpo jazia inerte. Ah! meus caros amigos, que prazer se experimenta sem o peso do corpo! quanta alegria no abranger o Espaço! Não julgueis, no entanto, que me tenha tornado repentinamente um eleito do Senhor; não, eu estou entre os Espíritos que, tendo aprendido um pouco, muito devem aprender ainda. Não tardou muito que de vós me lembrasse, meus irmãos de exílio, e asseguro-vos toda a minha simpatia, todos os meus votos vos cercam.  
+>
+> Quereis saber que Espíritos me receberam? quais as minhas impressões? pois bem, amigos, foram todos os que evocamos, todos os irmãos que compartilharam dos nossos trabalhos. Eu vi o esplendor, mas não posso descrevê-lo. Apliquei-me a discernir o que era verdadeiro nas comunicações, pronto a contraditar tudo que fosse errôneo, pronto a ser o cavaleiro andante da verdade neste mundo, tal como o fui no vosso.  
+>
+> Jobard
 
-##### CEU-2-02-02-p4
+##### 01
 
-##### CEU-2-02-02-p5
+Quando estáveis na Terra, recomendastes-nos para vos evocarmos, e ora o fazemos, não só para satisfazer aquele desejo, como para testemunhar-vos ainda uma vez a nossa sincera simpatia, instruindo-nos ao mesmo tempo, visto que ninguém melhor que vós pode dar-nos esclarecimentos precisos sobre esse mundo em que hoje habitais. Dar-nos-emos por felizes se houverdes por bem responder às nossas perguntas.
 
-##### CEU-2-02-02-p6
+> 👻 ▸ Presentemente o que mais se impõe é a vossa instrução. Quanto à vossa simpatia, entrevejo-a e tenho a prova dela tão só pelo que ouço, o que é já um enorme progresso.
 
-##### CEU-2-02-02-p7
+##### 02
 
-##### CEU-2-02-02-p8
+Para fixarmos ideias e não divagar, principiamos por perguntar em que lugar vos achais aqui, e como vos veríamos se tal coisa nos fosse facultada?
 
-##### CEU-2-02-02-p9
+> 👻 ▸ Estou junto do médium, com a aparência do mesmo Jobard que se sentava à vossa mesa, visto que os vossos olhos mortais, ainda vendados, não podem ver os Espíritos senão sob a sua forma mortal.  
 
-##### CEU-2-02-02-p10
+##### 03
 
-##### CEU-2-02-02-p11
+Poderíeis tornar-vos visível? No caso contrário, qual a dificuldade?
 
-#### CEU-2-02-03
+> 👻 ▸ A disposição que vos diz respeito é que é toda pessoal. Um médium vidente ver-me-ia, e os outros não.  
 
-#### CEU-2-02-04
+##### 04
 
+O vosso lugar aqui é o mesmo de quando assistíeis encarnado às nossas sessões e que vos reservamos? Aqueles, pois, que em tais condições vos viram, poderão supor que aí estais tal qual éreis então, visto que aí não estais com o corpo material de outrora, estais no entanto com o corpo fluídico de agora e com a mesma forma. Se vos não vemos com os olhos do corpo, vemos-vos com o pensamento; se não podeis comunicar pela palavra, podeis pela escrita, com auxílio de um médium; assim as nossas relações de forma alguma se romperam com a vossa morte e podemos entretê-las tão fácil e completamente como outrora. É assim precisamente que se passam as coisas?
+
+> 👻 ▸ Sim, e há muito que o sabeis. Ocuparei este lugar muitas vezes, e mesmo sem o saberdes, uma vez que o meu Espírito habitará entre vós.  
+
+Chamamos a atenção para esta última frase: o meu Espírito habitará entre vós, que, neste caso, não é uma simples figura, porém, realidade. Pelo conhecimento que o Espiritismo nos dá sobre a natureza dos Espíritos, sabemos que qualquer um pode achar-se entre nós, não só em pensamento, mas pessoalmente, com seu corpo etéreo, que o torna uma individualidade distinta. Um Espírito tanto pode, conseguintemente, habitar entre nós depois de morto como quando vivo, ou, por outra, melhor ainda depois de morto, uma vez que pode ir e vir livre e voluntariamente. Deste modo temos uma multidão de comensais invisíveis, indiferentes uns, outros atraídos por afeição. É a estes últimos que se aplica esta frase: Eles habitam entre nós, que se poderá interpretar assim: Eles nos assistem, inspiram e protegem.
+
+##### 05
+
+Não há muito que encarnado vos sentáveis nesse mesmo lugar. As condições em que ora o fazeis parecer-vos-ão estranhas? Qual o efeito da mudança de estado?
+
+> 👻 ▸ De modo algum se me afiguram estranhas as condições, porque o meu Espírito desencarnado goza de lucidez perfeita para não deixar irresolutas quaisquer questões que encare.  
+
+##### 06
+
+Lembrai-vos de haver estado nas mesmas condições anteriormente à última existência? Experimentais qualquer mudança a este respeito comparando as situações presente e passada?
+
+> 👻 ▸ Recordo-me das existências anteriores e sinto-me melhorado, por isso que me identifico com o que vejo, ao passo que, perturbado nas precedentes existências, só me apercebia das faltas terrenas.  
+
+##### 07
+
+Lembrai-vos da penúltima encarnação, da que precedeu a do Sr. Jobard?
+
+> 👻 ▸ Se me lembro... Fui um operário mecânico acossado pela miséria e pelo desejo de aperfeiçoar a minha arte. Como Jobard, realizei os sonhos do pobre operário, e dou graças a Deus cuja bondade infinita fez germinar a planta, e cuja semente depositara em meu cérebro.  
+
+##### 08
+
+Já vos tendes comunicado em outra parte?
+
+> 👻 ▸ Pouco me tenho comunicado. Em muitos lugares um Espírito tomou-me o nome; algumas vezes estava eu perto dele sem que pudesse comunicar-me diretamente. Tão recente é a minha morte que participo ainda de certas influências terrestres. É preciso que haja perfeita simpatia para poder exprimir o meu pensamento. Em breve operarei incondicionalmente, mas por enquanto, repito, não posso fazê-lo. Quando morre um homem um tanto conhecido, é chamado de todos os lados e inúmeros Espíritos se dão pressa de apossar-se da sua individualidade. Eis o que comigo se tem passado em muitos casos. Asseguro-vos que, logo após ao desprendimento, poucos Espíritos podem comunicar-se, mesmo por um médium predileto.  
+
+##### 09
+
+Vedes os Espíritos que aqui estão conosco?
+
+> 👻 ▸ Vejo, principalmente Lázaro e Erasto; depois, mais afastado, o Espírito de Verdade pairando no Espaço, depois, ainda, uma multidão de Espíritos que vos cercam, solícitos e benévolos. Sede felizes, amigos, pois benéficas influências vos disputam às garras do erro.  
+
+##### 10
+
+Quando encarnado compartilháveis da opinião emitida sobre a formação da Terra pela incrustação de quatro planetas que se teriam unido, sois ainda da mesma opinião?
+
+> 👻 ▸ É um erro. As novas descobertas geológicas provam as convulsões da Terra e sua formação gradual e sucessiva. A Terra, como os outros planetas, teve sua vida própria, e Deus não precisou lançar mão dessa grande desordem que seria a agregação de planetas. A água e o fogo são os únicos elementos orgânicos da Terra.  
+
+##### 11
+
+Admitíeis também que os homens pudessem cair num estado cataléptico por tempo ilimitado, e que o gênero humano tivesse assim aparecido na Terra?
+
+> 👻 ▸ Pura ilusão da minha mente, que ultrapassava sempre o seu fim. A catalepsia pode ser longa, porém, não indeterminada: tradições, legendas exageradas pela imaginação oriental. Meus amigos, muito tenho sofrido já com as ilusões que alimentaram o meu Espírito; não vos iludais a tal respeito. Muito aprendi e posso hoje dizer-vos que a minha inteligência, apta para assimilar diversos e vastos estudos, guardará no entanto, de sua última encarnação, o pendor para o maravilhoso e místico, hauridos nas imaginações populares. Ainda agora, pouco me tenho ocupado das questões puramente intelectuais, no sentido em que as julgais. E como poderia eu fazê-lo, deslumbrado e aturdido pelo maravilhoso espetáculo que me cerca? O vínculo do Espiritismo, que vós homens não podeis compreender, só ele pode atrair-me a esta terra que abandono — não direi com alegria, por ser uma impiedade — mas com o profundo reconhecimento da libertação.  
+
+Nota: Quando a Sociedade abriu uma subscrição em favor dos operários de Lyon, em fevereiro de 1862, um consócio subscreveu 50 fr., sendo 25 por si e 25 em nome do Sr. Jobard, que, então, deu a tal respeito a comunicação seguinte:  
+
+> 👻 ▸ Exulto e lisonjeio-me de não ter sido esquecido entre os meus irmãos espíritas. Agradeço ao coração generoso que vos trouxe o óbolo que eu daria se habitasse ainda o vosso mundo. Neste em que ora resido é nula a necessidade de dinheiro, de modo que me foi preciso recorrer à bolsa da amizade para provar materialmente que também a mim me compungia o infortúnio dos irmãos de Lyon. Intrépidos cultores da vinha do Senhor, muito deveis convencer-vos de que a caridade não é uma palavra oca, pois grandes e pequenos vos patentearam, na emergência, sentimentos de simpatia e fraternidade. Estais na grande via humanitária do progresso.  
+>
+> Pois bem: praza a Deus sejais ditosos na jornada, e os Espíritos amigos que vos sustentem para que triunfeis afinal. Eu começo a viver espiritualmente, mais calmo, menos perturbado pelas evocações constantes que sobre mim choviam. O modismo também atua sobre os Espíritos, e quando Jobard “sair de moda”, pedirá ele então aos seus amigos sérios que o evoquem.  
+>
+> Aprofundaremos então questões superficialmente tratadas, e o vosso Jobard, completamente transfigurado, poderá ser útil, como deseja de todo o coração.  
+>
+> Jobard  
+
+Passados os primeiros tempos consagrados ao alento dos seus amigos, o Sr. Jobard colocou-se entre os Espíritos que ativamente propugnam pela renovação social, esperando uma nova encarnação terrena para tomar parte ainda mais ativa e direta nesse movimento. Depois dessa época, ele deu à Sociedade de Paris, onde continua como cooperador, comunicações de incontestável superioridade, sem se desviar da originalidade e repentes que constituíam o fundo do seu caráter, a ponto de se fazer reconhecido antes de assinar.  
+
+#### 03. Samuel Philippe
+
+> Este era um homem de bem na verdadeira acepção da palavra. Ninguém se lembrava de o ter visto cometer uma ação má ou errar voluntariamente no que quer que fosse. De um devotamento extremo aos amigos, podia-se ter como certo o seu acolhimento, se tratando de quaisquer favores, ainda que contrários ao seu próprio interesse.  
+
+Trabalhos, fadigas, sacrifícios, nada o impedia de ser útil, e isto sem ostentação, admirando-se quando se lhe atribuía por estes predicados um grande mérito. Jamais desprezou os que lhe fizeram mal; antes se dava pressa em servi-los como se bem semelhante lhe houvessem feito. Tratando-se de ingratos, dizia: — Não é a mim, porém a eles que se deve lastimar. Posto que muito inteligente e dotado de natural vivacidade, teve na Terra uma vida obscura, laboriosa e bordada de rudes provações. Podia-se comparar a essas naturezas de escol que vivem na sombra, das quais o mundo não fala e cujo brilho não se reflete na Terra. Haurira no conhecimento do Espiritismo uma fé ardente na vida futura e uma grande resignação para todos os males da existência terrena. Finalmente, faleceu em dezembro de 1862, na idade de 50 anos, de moléstia atroz, sendo o seu passamento muito sensível à família e aos amigos. Evocamo-lo alguns meses depois do trespasse.  
+
+— P. Tendes uma recordação nítida dos últimos instantes da vida na Terra?
+
+> 👻 ▸ Perfeitamente, conquanto essa recordação reaparecesse gradualmente. No instante preciso do desprendimento eram confusas as minhas ideias.
+
+— P. Quereríeis, a bem da nossa instrução e do interesse que nos mereceis pela vossa vida exemplar, descrever como ocorreu o vosso trespasse da vida corporal para a espiritual?
+
+> 👻 ▸ De bom grado, tanto mais quanto a narrativa não aproveitará somente a vós, mas a mim próprio, por isso que, dirigindo o meu pensamento para a Terra, a comparação faz-me apreciar melhor a bondade do Criador. Sabeis que de tribulações provei na vida; entretanto, jamais me faltou coragem na adversidade, graças a Deus! E hoje felicito-me! Quanta coisa perderia se houvesse desanimado! E ainda tremo ao pensar que tudo quanto sofri se anularia caso desfalecesse, tendo de recomeçar novamente as provações! Ó meus amigos, compenetrai-vos firmemente desta verdade, pois nela reside a felicidade do vosso futuro. Não é, por certo, comprar muito caro essa felicidade por alguns anos de sofrimento! Ah! Se soubésseis o que são alguns anos comparados ao infinito! Se de fato a minha última existência teve algum mérito aos vossos olhos, outro tanto não diríeis das que a precederam. E não foi senão à força de trabalho sobre mim mesmo, que me tornei o que ora sou. Para apagar os últimos traços das faltas anteriores, era-me preciso sofrer as últimas provas que voluntariamente aceitei. Foi na firmeza das minhas resoluções que escudei a resignação, a fim de sofrer sem me queixar. Hoje abençoo essas provações, pois a elas devo o ter rompido com o passado — simples recordação agora que me permite contemplar com legítima alegria o caminho percorrido.  
+>
+> “Ó vós que me fizestes padecer na Terra, que fostes cruéis e malévolos para comigo, que me humilhastes e afligistes; vós, cuja má-fé tantas vezes me acarretou duras privações, não somente vos perdoo mas até vos agradeço. Intentando fazer mal, não suspeitáveis do bem que esse mal me proporcionaria. É verdade, portanto, que a vós devo uma grande parte da felicidade de que gozo, uma vez que me facultastes ocasião para perdoar e pagar o mal com o bem. Deus colocou-vos em meu caminho para aferir a minha paciência, exercitando-me igualmente na prática da mais difícil caridade: a de amar os inimigos.  
+>
+> “Não vos impacienteis com esta divagação, porquanto vou responder agora à vossa pergunta. Conquanto sofresse cruelmente com a moléstia que me acometeu, quase não tive agonia: a morte sobreveio-me como um sono, sem lutas nem abalos. Sem temor pelo futuro, não me apeguei à vida e não tive, por conseguinte, de me debater nos últimos momentos. A separação completou-se sem dor, nem esforço, sem que eu mesmo de tal me apercebesse. Ignoro que tempo durou o sono, que foi curto aliás. Meu calmo despertar contrastava com o meu estado precedente: não sentia mais dores e exultava de alegria; queria erguer-me, caminhar, mas um torpor nada desagradável, antes deleitoso, me prendia, e eu me abandonava a ele prazerosamente, sem compreender a minha situação, conquanto não duvidasse ter já deixado a Terra. Tudo que me cercava era como se fora um sonho. Vi minha mulher e alguns amigos ajoelhados no meu quarto, chorando, e considerei de mim para mim que me julgavam morto. Quis então desenganá-los de tal ideia, mas não pude articular uma palavra, e daí concluí que sonhava. O fato de me ver cercado de pessoas caras, de há muito falecidas, e ainda de outras que à primeira vista não podia reconhecer, fortalecia em mim essa ideia de um sonho, em que tais seres por mim velassem.  
+>
+> “Esse estado foi alternado de momentos de lucidez e de sonolência, durante os quais eu recobrava e perdia a consciência do meu ‘eu’.  
+>
+> “Pouco a pouco as minhas ideias adquiriram mais lucidez, a luz que entrevia, por denso nevoeiro, fez-se brilhante; e eu comecei a compreender-me, a reconhecer-me, compreendendo e reconhecendo que não mais pertencia a esse mundo. Certamente, se eu não conhecesse o Espiritismo, a ilusão perduraria por muito mais tempo. O meu invólucro material não estava ainda inumado e eu o olhava com piedade, felicitando-me pela separação, pela liberdade. Pois se eu era tão feliz por me haver enfim desembaraçado! Respirava livremente como quem sai de uma atmosfera nauseante; indizível sensação de bem-estar penetrava todo o meu ser, a presença dos que amara alegrava-me sem me surpreender, antes parecendo-me natural, como se os encontrasse depois de longa viagem. Uma coisa me admirou logo: o compreendermo-nos sem articular uma palavra! Os nossos pensamentos transmitiam-se pelo olhar somente, como que por efeito de uma penetração fluídica.  
+>
+> “Eu não estava, no entanto, completamente livre das preocupações terrenas, e, como para realçar mais a nova situação, a lembrança do que padecera me ocorria de vez em quando à memória.  
+>
+> “Sofrera corporal e moralmente, sobretudo moralmente, como alvo que fui da maledicência, dessas infinitas preocupações mais acerbas talvez que as desgraças reais, quando degeneraram em perpétua ansiedade.  
+>
+> “E ainda bem não se desvaneciam tais impressões, já eu interrogava a mim mesmo se de fato delas me libertara, parecendo-me ouvir ainda umas tantas vozes desagradáveis. Reconsiderando as dificuldades que tanto e tantas vezes me atormentavam, tremia; e procurava, por assim dizer, reconhecer-me, assegurar-me que tudo aquilo não passava de fantástico sonho. E quando cheguei à conclusão, à realidade dessa nova situação, foi como se me aliviasse de um peso enorme.  
+>
+> “É bem verdade, dizia, que estou isento desses cuidados que fazem o tormento da vida! Graças a Deus! Também o pobre, repentinamente enriquecido, duvida da realidade da sua fortuna e alimenta por algum tempo as apreensões da pobreza. Assim era eu.  
+>
+> “Ah! pudessem os homens compreender a vida futura, e que força, que coragem esta convicção não lhes daria na adversidade.  
+>
+> “Quem deixaria então, na Terra, de prover e assegurar-se da felicidade que Deus reserva aos filhos dóceis e submissos? Gozos ambicionados, invejados, tornar-se-iam mesquinhos em relação aos que eles negligenciam!”
+
+— P. Esse mundo tão novo e comparado ao qual nada vale o nosso, bem como os numerosos amigos que nele reencontrastes, fizeram-vos esquecer a família e amigos encarnados?
+
+> 👻 ▸ Se os tivesse esquecido seria indigno da felicidade de que gozo. Deus não recompensa o egoísmo, pune-o.  
+>
+> “O mundo em que me vejo pode fazer com que desdenhe a Terra, mas não os Espíritos nela encarnados. Somente entre os homens é que a prosperidade faz esquecer os companheiros de infortúnio. Muitas vezes venho visitar os que me são caros, exultando com a recordação que de mim guardaram, seu pensamento me atrai para eles. Assisto às suas conversas, e gozo se gozam ou sofro se sofrem.  
+>
+> “O meu sofrimento é, porém, relativo e não se pode comparar ao angustioso sofrimento humano, uma vez que compreendo o alcance, a necessidade e o caráter transitório das provações, que são para o bem. Esse sofrimento é, ademais, suavizado pela convicção de que aqueles a quem amo virão também por sua vez a esta mansão afortunada onde a dor não existe. Para torná-los dignos dela, dessa mansão, é que me esforço por sugerir-lhes bons pensamentos e sobretudo a resignação que tive, consoante a vontade de Deus. A minha desolação avulta quando os vejo retardar o advento por falta de coragem, murmúrios, vacilações e sobretudo por qualquer ato reprovável. Trato então de os desviar do mau caminho, e, se o consigo, é isso uma felicidade não só para mim, como para outros Espíritos; quando, ao contrário, a intervenção é improfícua, exclamo com pesar: Mais um momento de atraso; mas consola-me a ideia de que nada se perde irremissivelmente.”  
+>
+> Samuel Philippe
+
+#### 04. Van Durst
+
+Antigo funcionário, falecido em Antuérpia, em 1863, aos 80 anos.  
+
+Pouco depois do seu decesso, tendo um médium perguntado ao seu guia se poderia evocá-lo, responderam-lhe:  
+
+> “Este Espírito lentamente se refaz da sua perturbação, e, conquanto possa responder-vos imediatamente, muitas mágoas lhe custaria tal comunicação. Peço-vos espereis ainda uns quatro dias, pois até lá ele saberá das boas intenções manifestadas a seu respeito, e a elas corresponderá amistosa e gratamente.”  
+
+Decorridos os quatro dias recebemos a comunicação seguinte:  
+
+> “Meu amigo, bem leve na balança da eternidade foi o fardo da minha existência, e no entanto bem longe estou de ser feliz. A minha condição humilde e relativamente ditosa é de quem não fez o mal, sem que por isso visasse à perfeição. E se pode haver pessoas felizes numa esfera limitada, eu sou desse número. O que sinto é não ter conhecido o que ora conheceis, porque a minha perturbação não se prolongaria por tanto tempo, seria menos dolorosa. De fato, ela foi grande; viver e não viver, estar rudemente preso ao corpo sem poder servir-se dele, ver os que nos foram caros, sentindo extinguir-se o pensamento que a eles nos prende, oh! que coisa horrível! Que momento cruel esse em que o aturdimento nos empolga e constrange, para desfazer-se em trevas logo após! Sentir tudo, para estar um momento depois aniquilado! Quer-se ter a consciência do seu eu, sem encontrá-la; não existir, e sentir que se existe! Perturbação profunda! Depois, transcorrido um tempo incalculável de angústias contidas, sem forças para senti-las, depois, digo, desse tempo que parece interminável — o renascimento gradual da vida, o despertar de uma nova aurora em outro mundo! Nada de corpo material nem de vida terrestre! Vida, sim, mas imortal! Não mais homens carnais, porém formas diáfanas, Espíritos que deslizam, que surgem de todos os lados, que vos cercam e que não podeis abranger com a vista, porque é no infinito que flutuam! Ter ante si o Espaço e poder franqueá-lo à vontade! Comunicar-se pelo pensamento com tudo que vos envolve! Que vida nova, meu amigo, nova, brilhante e cheia de ventura! Salve, oh! salve, eternidade que me conténs em teu seio! Adeus, Terra que por tanto tempo me retiveste afastado do elemento natural da minha alma! Não... eu nada mais de ti queria, porque és a terra do exílio, e a maior das felicidades que dispensas nada vale! Soubesse eu o que sabeis, e quão fácil e agradável me seria a iniciação na vida espiritual! Sim, porque saberia, antes de morrer, o que mais tarde somente deveria conhecer, no momento da separação, de forma a desprender-me facilmente. Estais vós outros no caminho, porém, certificai-vos de que todo o adiantamento é pouco. Dizei-o a meu filho tantas vezes quantas bastem para que se instrua e creia, porque, do contrário, a nossa separação continuará aqui. Amigos, adeus a todos vós; espero-vos, e, enquanto estiverdes na Terra, virei muitas vezes instruir-me convosco, visto como sei menos ainda que muitos dentre vós. Notai que aqui onde estou, sem velhice que me enfraqueça nem entraves de qualquer espécie, aprenderei mais depressa e facilmente. Aqui se vive às claras, caminhando com desassombro, tendo ante os olhos horizontes tão belos que a gente se torna impaciente por abrangê-los. Adeus, deixo-vos, adeus.” Van Durst
 #### CEU-2-02-05
 
 #### CEU-2-02-06
@@ -2926,3 +3047,4 @@ Quando esta perspectiva de reparação for inculcada na crença das massas, ser�
 
 [^57]: A.K.: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.  
 
+[^58]: A.K.: Alusão ao Espírito Bernard, que se manifestou espontaneamente no dia das exéquias do Sr. Sanson. (Ver a Revista espírita de maio de 1862.)
