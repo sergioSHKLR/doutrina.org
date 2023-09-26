@@ -2,51 +2,10 @@
 <html lang="pt-BR">
 
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>grid1</title>
-  <meta name="description"
-    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
-  <meta name="author" content="sergioSHKLR, info@doutrina.org">
 
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://doutrina.org">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="doutrina.org">
-  <meta property="og:description"
-    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
-  <meta property="og:image" content="./pwa/screenshot.png">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="./pwa/screenshot.png">
-  <meta name="twitter:title" content="doutrina.org">
-  <meta name="twitter:description"
-    content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
-  <meta name="twitter:image" content="./pwa/screenshot.png">
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="./css/framework.css">
-
-  <!-- Google Fonts CDN  -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500&display=swap" rel="stylesheet">
-
-  <!-- PWA -->
-  <link rel="manifest" href="./pwa/site.webmanifest">
-  <meta name="theme-color" content="#4ec1f5">
-  <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
-
- <!-- SCRIPTS -->
- <script type="application/json" class="js-hypothesis-config">
- {
- "openSidebar": false
- }
- </script>
-
-<script async src="https://hypothes.is/embed.js">
-</script>
-</head>
+  <title>grid CEU</title>
   <style>
     .shades-on {
       transition-timing-function: ease-in-out;
@@ -54,10 +13,21 @@
       filter: brightness(0.15);
     }
 
+    img {
+      display: block;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     .a-nd a {
       text-decoration: none;
     }
 
+
+    ol {
+      list-style-position: inside;
+    }
 
     body {
       margin: 0;
@@ -76,8 +46,8 @@
       grid-template-columns: 20% 50% 30%;
       grid-column-gap: 0px;
       grid-row-gap: 0px;
-      height: 99.5vh;
-      width: calc(100vw - 23px);
+      height: 99.6vh;
+      width: calc(100vw - 20px);
       grid-auto-flow: column;
     }
 
@@ -125,6 +95,8 @@
 
     .main {
       grid-area: 2 / 2 / 5 / 3;
+      overflow-y: scroll;
+      overflow-x: hidden;
     }
 
     .aside {
@@ -327,6 +299,10 @@
       }
 
     }
+
+    .a-nd a {
+      text-decoration: none;
+    }
   </style>
 
 </head>
@@ -341,7 +317,7 @@
             d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z">
           </path>
         </svg></button>
-      <a href="./grid1.html">💧 doutrina.org</a>
+      <a href="../grid1.html">💧 doutrina.org</a>
     </div>
     <div class="tools p-10 t-14 navbar">
       <button class="left" title="tipografia"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
@@ -382,7 +358,7 @@
           </svg></button>
       </form>
 
-      <form action="./maps/paris.html" target="ext">
+      <form action="../maps/paris.html" target="ext">
         <button type="submit" title="mapa"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
             height="16">
             <path
@@ -411,61 +387,81 @@
 
       <p>Obras básicas</p>
       <hr>
-      <p><a href="./grid/1lde.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+      <p><a href="./1lde.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
             <path
               d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
             </path>
           </svg>&nbsp;&nbsp;O Livro dos Espíritos</a></p>
 
-
-      <p><a href="./grid/2ldm.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+      <p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
           <path
             d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
           </path>
-        </svg>&nbsp;&nbsp;O Livro dos Médiuns</a></p>
-
-      <p><a href="./grid/3ese.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+        </svg>&nbsp;&nbsp;O Livro dos Médiuns</p>
+      <p> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
           <path
             d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
           </path>
-        </svg>&nbsp;&nbsp;O Evangelho</a></p>
-
-      <p><a href="./grid/4ceu.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+        </svg>&nbsp;&nbsp;O Evangelho </p>
+      <p> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
           <path
             d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
           </path>
-        </svg>&nbsp;&nbsp;O Céu e o Inferno</a></p>
-
-      <p><a href="./grid/5gen.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+        </svg>&nbsp;&nbsp;O Céu e o Inferno</p>
+      <p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
           <path
             d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
           </path>
-        </svg>&nbsp;&nbsp;A Gênese</a></p>
+        </svg>&nbsp;&nbsp;A Gênese</p>
 
 
     </div>
     <div class="sidebar summary p-10 t-14">
       <p>Sumário</p>
       <hr>
-    
+
+      <ol start="0">
+ <li>Pré-textual
+ <ol>
+ <li><a href="ceu-0-01">Folha de rosto</a></li>
+ <li><a href="#">Introdução</a></li>
+ <li><a href="#">Prefácio</a></li>
+ </ol>
+ </li>
+ <li>Doutrina
+ <ol>
+ <li><a href="#">O porvir e o nada</a></li>
+ <li><a href="#">Temor da morte</a></li>
+ <li><a href="#">O céu</a></li>
+<li><a href="#">O inferno</a></li>
+ <li><a href="#">O purgatório</a></li>
+<li><a href="#">Doutrina das penas eternas</a></li>
+<li><a href="#">As penas futuras</a></li>
+<li><a href="#">Os anjos</a></li>
+<li><a href="#">Os demônios</a></li>
+<li><a href="#">Intervenção dos demônios</a></li>
+<li><a href="#">Proibição de evocar os mortos</a></li>
+
+</ol>
+ </li>
+ <li>Exemplos
+ <ol>
+ <li><a href="#">O passamento</a></li>
+ <li><a href="#">Espíritos felizes</a></li>
+ <li><a href="#">Espíritos em condições medianas</a></li>
+ <li><a href="#">Espíritos sofredores</a></li>
+ <li><a href="#">Suicidas</a></li>
+ <li><a href="#">Criminosos arrependidos</a></li>
+ <li><a href="#">Espíritos endurecidos</a></li>
+ <li><a href="#">Expiações terrestres</a></li>
+</ol>
+ </li>
+ </ol>
+
     </div>
     <div class="sidebar footer p-10 t-14">
       <p>Detalhes</p>
       <hr>
-
-    <p><a href="https://github.com/sergioSHKLR/doutrina.org/wiki"><svg xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 16 16" width="16" height="16">
-            <path
-              d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z">
-            </path>
-          </svg>&nbsp;Wiki</a></p>
-
-   <p><a href="https://github.com/sergioSHKLR/doutrina.org/discussions"><svg xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 16 16" width="16" height="16">
-            <path
-              d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z">
-            </path>
-          </svg>&nbsp;Forum</a></p>
 
 
       <p><a href="https://github.com/sergioSHKLR/doutrina.org/issues"><svg xmlns="http://www.w3.org/2000/svg"
@@ -488,77 +484,33 @@
             </path>
           </svg>&nbsp;Avisos</a></p>
 
-  
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/wiki"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z">
+            </path>
+          </svg>&nbsp;Wiki</a></p>
 
-   
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/discussions"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z">
+            </path>
+          </svg>&nbsp;Forum</a></p>
+
 
       <p><a href="https://shklr.org"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
             <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"></path>
           </svg>&nbsp;shklr.org</a></p>
-
     </div>
     <div class="main p-10">
-
       <!-- START OF CONTENT -->
-<h1>Bem-vindo!</h1>
-
-          <!-- <img src="./images/polaroid.png"  width="1000" height="1000" alt="polaroid de Allan Kardec"
- style="height: 30%; width: 30%; display: block; margin-left: auto; margin-right: auto;"> -->
-
-          <p>Inspirado em outras iniciativas de ensino digital, tais como <a target="ext"
-              href="https://www.kardecpedia.com/pt">Kardecpedia</a> e <a target="ext"
-              href="https://www.luzespirita.org.br/">Portal Luz Espírita</a>, decidimos
-            criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se
-            perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando
-            ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de
-            fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando
-            artigos, imagens, vídeos e mapas ao texto original dos:</p>
-            <p>• 👻 Espíritos,<br>
-            <p>• 👴🏻 Allan Kardec, e da<br>
-            <p>• ✝️ bíblia.</p>
-          <p>Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterando a mensagem mas
-            facilitando o seu estudo, assimilação.</p>
-          <p>Nossas fases de desenvolvimento são:</p>
-        
-            <p>• extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM e ESE
-              prontos. CEU em desenvolvimento ativo e GEN em seguinte.<br>
-            <p>• criação desta plataforma digital inédita, e teste de funcionamento em dispositivos diversos (celular,
-              tablet, laptop, desktop, etc.). Status: em desenvolvimento ativo.<br>
-            <p>• inclusão, sequencial (LDE, LDM, ESE, CEU e GEN) de links externos (artigos, definições, mapas, vídeos,
-              etc) </p>
-        
-          <p>Para tal fim, use o menu, as setas de navegação ou os links abaixo.</p>
-            <p>• 
-              <a href="./grid/1lde.html">📘 O Livro dos Espíritos</a>
-            <br>
-            <p>• 
-              <a href="./grid/2ldm.html">📙 O Livro dos Médiuns</a>
-           <br>
-            <p>• 
-              <a href="./grid/3ese.html">📗 O Evangelho segundo o Espiritismo</a>
-            <br>
-            <p>• 
-              <a href="./grid/4ceu.html">📕 O Céu e o Inferno</a>
-           <br>
-            <p>• 
-              <a href="./grid/5gen.html">📓 A Gênese</a>
-            <br>
-          <p>Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto,
-            entre em contato pelo Github.</p>
-
-          <!-- <img src="./images/sign.png" alt="assinatura"  width="800" height="130" style="height: 10vh;"> -->
-
-          <div class="gold-fleuron"><span class="gold-fleuron">⚜️</span></div>
-
-          <p>&nbsp;</p>
-        
-      </main>
-      <!-- END OF CONTENT -->
-    </div>
-
-    <div id="ext-panel" class="aside shades-on">
-      <iframe name="ext" id="ext-iframe" src="./ext.html"></iframe>
-    </div>
+  O Céu e o Inferno
+    <!-- END OF CONTENT -->
+  </div>
+  <div id="ext-panel" class="aside shades-on">
+    <iframe name="ext" id="ext-iframe" src="../ext.html"></iframe>
+  </div>
   </div>
 
   <script>
