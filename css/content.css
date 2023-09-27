@@ -4,7 +4,7 @@
 
 .serif {
   font-family: 'Georgia' !important;
-  font-size: 105%;
+  font-size: 100%;
 }
 
 .mono {
@@ -80,10 +80,9 @@
 }
 
 #content-panel a:any-link {
-  text-decoration:underline 1.5px solid mediumblue;
-text-underline-offset: 2px;
-color: mediumblue
-
+  text-decoration: underline 1.5px solid mediumblue;
+  text-underline-offset: 2px;
+  color: mediumblue;
 }
 
 a:any-link:focus,
@@ -94,7 +93,7 @@ a:any-link:hover {
 }
 
 .active {
-  outline: 3px solid dodgerblue;
+  outline: 3px solid mediumblue;
   border-radius: 4px;
   padding: 2px 0;
 }
@@ -152,6 +151,106 @@ span.silver-fleuron {
   transform: rotate(45deg);
 }
 
-small {font-size: 12px;}
+small {
+  font-size: 12px;
+}
 
-hr {margin-top: -10px;}
+hr {
+  margin-top: -10px;
+}
+
+
+/* QUOTE */
+.quote p:nth-of-type(1)::before {
+  font-family: sans-serif;
+  color: #333;
+}
+
+.quote p:nth-of-type(1) {
+  text-indent: 10px;
+  width: 100%;
+  padding: 2px !important;
+  border-radius: 4px 4px 0px 0;
+  color: #333;
+}
+
+.quote p:nth-of-type(2) {
+  padding: 0 20px;
+  font-style: italic;
+  color: #333;
+}
+
+.quote {
+  border-radius: 4px;
+  margin: 0px 10px !important;
+  color: #333;
+}
+
+.quote p:last-of-type {
+  font-family: sans-serif;
+  text-align: right;
+  padding-right: 20px;
+  color: #333;
+}
+
+
+/* QUOTE SPIRIT */
+.spirit p:nth-of-type(1)::before {
+  content: "💨 Espírito";
+}
+
+.spirit p:nth-of-type(1) {
+  background-color: #c9d7e8;
+  border-radius: 4px 4px 0px 0;
+}
+
+.spirit {
+  background-color: #edf2f7;
+  padding: 0px;
+
+}
+
+
+/* QUOTE BIBLE */
+.bible p:nth-of-type(1)::before {
+  content: "📜 Bíblia";
+}
+
+.bible p:nth-of-type(1) {
+  background-color: #ffe4b3;
+  border-radius: 4px 4px 0px 0;
+}
+
+.bible {
+  background-color: #fff6e6;
+  padding: 0px;
+
+}
+
+
+/* QUOTE KARDEC */
+.kardec p:nth-of-type(1)::before {
+  content: "🎓 Kardec";
+  font-family: sans-serif;
+  color: #666;
+}
+
+.kardec p:nth-of-type(1) {
+  text-indent: 10px;
+  background-color: #dcdcdc;
+  width: 100%;
+  padding: 2px !important;
+  border-radius: 4px 4px 0px 0;
+}
+
+.kardec {
+  background-color: #f2f2f2;
+}
+
+
+
+.p-10 {
+  padding: 10px;
+}
+
+em, i {color: crimson;}

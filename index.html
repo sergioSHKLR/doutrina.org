@@ -25,17 +25,9 @@
  <meta name="twitter:image" content="./pwa/screenshot.png">
 
  <!-- CSS -->
- <link rel="stylesheet" href="./css/1lde.css">
  <link rel="stylesheet" href="./css/framework.css">
  <link rel="stylesheet" href="./css/content.css">
  <link rel="stylesheet" href="./css/media-queries.css">
-
- <!-- FONTS -->
- <!--
- <link rel="stylesheet" href="./css/fonts.css"> -->
- <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500&display=swap" rel="stylesheet">
 
  <!-- PWA -->
  <link rel="manifest" href="./pwa/site.webmanifest">
@@ -56,6 +48,10 @@
 
  <script async src="https://hypothes.is/embed.js">
  </script> -->
+
+ <style>
+    blockquote p {border: 1 px solid red !important;
+    content: openquote;}</style>
 
 </head>
 
@@ -115,17 +111,13 @@
  <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
  <div id="text-effects">
  <button onclick="fontSans()" title="sans">🖊️</button>
- <button onclick="fontSerif()" title="serif">🖌️</button>
- <button onclick="fontSlab()" title="slab">🖋️</button>
+ <button onclick="fontSerif()" title="serif">🖋️</button>
  <button onclick="fontMono()" title="mono"><span class="flipH">✏️</span></button>
- <button onclick="fontSmall()" title="letra menor"><span class="rot45">​◾</span></button>
- <button onclick="fontMedium()" title="letra normal">​<span class="rot45">◼️</span></button>
- <button onclick="fontLarge()" title="letra grande"><span class="rot45">​⬛</span></button>
+ <button onclick="fontSmall()" title="letra menor">​🔡</span></button>
+ <button onclick="fontLarge()" title="letra grande">🔠​</span></button>
  <button onclick="bgSepia()" title="sépia">🟤</button>
  <button onclick="bgBlack()" title="negro">⚫</button>
- <button onclick="bgWhite()" title="branco">⚪</button>
  <button onclick="lineNarrow()" title="estreito">1️⃣</button>
- <button onclick="lineNormal()" title="normal">2️⃣</button>
  <button onclick="lineWide()" title="largo">3️⃣</button><br>
  </div>
  <button id="btn" title="tela cheia/normal">🖥️</button>
@@ -145,18 +137,26 @@
  href="https://www.luzespirita.org.br/">Portal Luz Espírita</a>, decidimos
  criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se  perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando
  ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de  fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando
- artigos, imagens, vídeos e mapas ao texto original dos:</p>
- <p>• 👻 Espíritos,<br>
- <p>• 👴🏻 Allan Kardec, e da<br>
- <p>• ✝️ bíblia.</p>
- <p>Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterando a mensagem mas  facilitando o seu estudo, assimilação.</p>
+ artigos, imagens, vídeos e mapas ao texto original.</p>
+
+ <p>Para facilitar a distinção e realçar a origem, iremos utilizar dos padrões abaixo para com os trechos pertinentes.</p>
+
+ <div class="quote spirit"><p>&nbsp;</p><p>Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiatem pela senda que conduz à bem-aventurança, à felicidade eterna?</p>
+<p>São Luiz & Santo Agostinho, LDE #495</p></div>
+
+<div class="quote kardec"><p>&nbsp;</p><p>Quem deseje tornar-se versado numa ciência tem que a estudar metodicamente, começando pelo princípio e acompanhando o encadeamento e o desenvolvimento das ideias.</p>
+<p>Allan Kardec, LDE, Intro, 08</p></div>
+ 
+<div class="quote bible"><p>&nbsp;</p><p><i>Nem se acende a candeia e se coloca debaixo do alqueire, mas, no velador, e dá luz a todos que estão na casa.</i></p>
+<p>Mateus, cap. 5, vers. 15, ARC</p></div>
+
  <p>Nossas fases de desenvolvimento são:</p>
  
- <p>• extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM e ESE  prontos. CEU em desenvolvimento ativo e GEN em seguinte.<br>
+ <p>• extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM e ESE  prontos. CEU em desenvolvimento ativo e GEN em seguida.<br>
  <p>• criação desta plataforma digital inédita, e teste de funcionamento em dispositivos diversos (celular, tablet, laptop, desktop, etc.). Status: em desenvolvimento ativo.<br>
  <p>• inclusão, sequencial (LDE, LDM, ESE, CEU e GEN) de links externos (artigos, definições, mapas, vídeos, etc) </p>
- 
- <p>Para tal fim, use o menu, as setas de navegação ou os links abaixo.</p>
+
+ <p>Para tal fim, use o menu, ou os links abaixo.</p>
  <p>• <a href="./1lde.html">📘 O Livro dos Espíritos</a><br>
  <p>• <a href="./2ldm.html">📙 O Livro dos Médiuns</a><br>
  <p>• <a href="./3ese.html">📗 O Evangelho segundo o Espiritismo</a><br>
@@ -195,6 +195,7 @@
  </div>
  <!-- JAVA -->
  <script src="./js/combined.js"></script>
+
 </body>
 
 </html>

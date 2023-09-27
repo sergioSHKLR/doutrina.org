@@ -88,7 +88,7 @@ body {
 }
 
 #side-footer {
-  padding: 30px 0px;
+  padding: 10px 0px 10px 0;
   background-color: #444;
 }
 
@@ -309,7 +309,8 @@ details>details>p {
 #btn {
   background-color: #ccc;
   padding: 5px 2px;
-
+  position: absolute;
+  left: calc(60vw + 60px);
 }
 
 #text-effects {
