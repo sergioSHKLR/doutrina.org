@@ -2,199 +2,542 @@
 <html lang="pt-BR">
 
 <head>
- <meta charset="utf-8">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>doutrina.org</title>
- <meta name="description"
- content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
- <meta name="author" content="sergioSHKLR, info@doutrina.org">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
- <!-- Facebook Meta Tags -->
- <meta property="og:url" content="https://doutrina.org">
- <meta property="og:type" content="website">
- <meta property="og:title" content="doutrina.org">
- <meta property="og:description"
- content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
- <meta property="og:image" content="./pwa/screenshot.png">
+  <title>grid ESE</title>
+  <style>
+    .shades-on {
+      transition-timing-function: ease-in-out;
+      transition-duration: .2s;
+      filter: brightness(0.15);
+    }
 
- <!-- Twitter Meta Tags -->
- <meta name="twitter:card" content="./pwa/screenshot.png">
- <meta name="twitter:title" content="doutrina.org">
- <meta name="twitter:description"
- content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
- <meta name="twitter:image" content="./pwa/screenshot.png">
+    img {
+      display: block;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
- <!-- CSS -->
- <link rel="stylesheet" href="./css/3ese.css">
- <link rel="stylesheet" href="./css/framework.css">
- <link rel="stylesheet" href="./css/fonts.css">
- <link rel="stylesheet" href="./css/content.css">
- <link rel="stylesheet" href="./css/media-queries.css">
+    .a-nd a {
+      text-decoration: none;
+    }
 
- <!-- FONTS -->
 
- <!-- PWA -->
- <link rel="manifest" href="./pwa/site.webmanifest">
- <meta name="theme-color" content="#4ec1f5">
- <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
- <script>
- if (typeof navigator.serviceWorker !== 'undefined') {
- navigator.serviceWorker.register('/pwa/sw.js')
- }
- </script>
+    ol {
+      list-style-position: inside;
+    }
 
- <!-- SCRIPTS 
- <script type="application/json" class="js-hypothesis-config">
- {
- "openSidebar": false
- }
- </script>
+    body {
+      margin: 0;
+      padding: 0;
+      font-size: 16px;
+      font-family: sans-serif;
+    }
 
-<script async src="https://hypothes.is/embed.js">
-</script>  -->
+    *::-webkit-scrollbar {
+      display: none;
+    }
+
+    .container {
+      display: grid;
+      grid-template-rows: 56px 230px auto 250px;
+      grid-template-columns: 200px 50% 30%;
+      grid-column-gap: 0px;
+      grid-row-gap: 0px;
+      height: 99.6vh;
+      width: calc(100vw - 20px);
+      grid-auto-flow: column;
+    }
+
+    .container>div {
+      color: currentColor;
+    }
+
+    .menu {
+      grid-area: 1 / 1 / 2 / 2;
+      border-right: 1px solid gainsboro;
+    }
+
+    .navbar {
+      border-bottom: 1px solid gainsboro;
+    }
+
+    .tools {
+      grid-area: 1 / 2 / 2 / 3;
+    }
+
+    .links {
+      grid-area: 1 / 3 / 2 / 4;
+      border-left: 1px solid gainsboro;
+
+    }
+
+    .sidebar {
+      background-color: whitesmoke;
+      border-right: 1px solid gainsboro;
+    }
+
+    .books {
+      grid-area: 2 / 1 / 3 / 2;
+    }
+
+    .summary {
+      grid-area: 3 / 1 / 4 / 2;
+      overflow-y: scroll;
+      overflow-x: hidden;
+    }
+
+    .footer {
+      grid-area: 4 / 1 / 5 / 2;
+    }
+
+    .main {
+      grid-area: 2 / 2 / 5 / 3;
+      overflow-y: scroll;
+      overflow-x: hidden;
+    }
+
+    .aside {
+      grid-area: 2 / 3 / 5 / 4;
+      border-left: 1px solid gainsboro;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    svg {
+      vertical-align: text-bottom;
+    }
+
+    .left {
+      float: left;
+      margin: 0 5px;
+    }
+
+    .right {
+      float: right;
+      margin: 0 5px;
+    }
+
+    .p-10 {
+      padding: 10px;
+    }
+
+    .t-14 {
+      font-size: 14px;
+    }
+
+    button {
+      margin: 0px 5px;
+      background-color: transparent;
+      border-radius: 50%;
+      padding: 8px;
+      border: none;
+    }
+
+    button:hover {
+      background-color: #eee;
+    }
+
+    ol {
+      margin-left: -25px;
+      line-height: 2
+    }
+
+    .menu a,
+    .summary a,
+    .footer a {
+      text-decoration: none;
+    }
+
+    ol>li::before {
+      content: url(./svg/note.svg) " "
+    }
+
+    ol>li>ol>li::before {
+      content: url(./svg/bookmark.svg) " "
+    }
+
+    hr {
+      margin-top: -15px;
+    }
+
+
+
+    @media only screen and (max-width: 782px) {
+
+      .container {
+        grid-template-rows: 56px auto;
+        grid-template-columns: 200px auto;
+      }
+
+      .menu {
+        display: block;
+      }
+
+      .tools {
+        display: block;
+        grid-area: 1 / 2 / 2 / 4;
+
+      }
+
+      .links {
+        display: none !important;
+      }
+
+      .books {
+        display: none;
+      }
+
+      .sidebar {
+        display: none;
+      }
+
+      .summary {
+        display: none;
+      }
+
+      .footer {
+        display: none;
+      }
+
+      .main {
+        display: block;
+      }
+
+      .main {
+        grid-area: 2 / 1 / 2 / 4;
+      }
+
+      .aside {
+        display: none;
+      }
+
+    }
+
+    @media only screen and (min-width: 783px) and (max-width: 1053px) {
+
+      .container {
+        grid-template-rows: 56px auto;
+        grid-template-columns: 200px auto 40%;
+      }
+
+      .menu {
+        display: block;
+      }
+
+      .tools {
+        display: block;
+      }
+
+      .links {
+        display: block;
+      }
+
+      .books {
+        display: none;
+      }
+
+      .summary {
+        display: none;
+      }
+
+      .footer {
+        display: none;
+      }
+
+      .main {
+        display: block;
+      }
+
+      .main {
+        grid-area: 2 / 1 / 5 / 3;
+      }
+
+      .aside {
+        display: block;
+      }
+
+    }
+
+    @media only screen and (min-width: 1054px) {
+      .menu {
+        display: block;
+      }
+
+      .tools {
+        display: block;
+      }
+
+      .links {
+        display: block;
+      }
+
+      .books {
+        display: block;
+      }
+
+      .summary {
+        display: block;
+      }
+
+      .footer {
+        display: block;
+      }
+
+      .main {
+        display: block;
+      }
+
+      .aside {
+        display: block;
+      }
+
+    }
+
+    .a-nd a {
+      text-decoration: none;
+    }
+  </style>
+
 </head>
 
 <body>
- <div id="page-wrapper">
- <div id="side-wrapper">
- <div id="side-top">
- <a id="side-logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
- <button id="close-sidebar" onclick="closeSidebar()">✖️</button>
- </div>
- <nav>
- <div id="side-panel">
- <div id="side-header">
- <h3>Obras Básicas</h3>
- <hr>
- <ul>
- <li><a href="./1lde.html">📘 O Livro dos Espíritos</a></li>
- <li><a href="./2ldm.html">📙 O Livro dos Médiuns</a></li>
- <li><span class="active">📗 O Evangelho segundo o Espiritismo</span></li>
- <li><a href="./4ceu.html">📕 O Céu e o Inferno</a></li>
- <li><a href="./5gen.html">📓 A Gênese</a></li>
- </ul>
- </div>   
- <div id="side-body">
- <h3>Sumário</h3>
- <hr>
- <ol start="0">
- <li>🗂️ Pré-textual
- <ol>
- <li><a href="ese-0-01">📃 Folha de rosto</a></li>
- <li><a href="#">📃 Prefácio</a></li>
- <li><a href="#">📑 Introdução</a></li>
- </li>
- </ol>
- <li>🗂️ Miolo
- <ol>
- <li><a href="#">📑 Não vim destruir a lei</a></li>
- <li><a href="#">📑 Meu Reino não é deste mundo</a></li>
- <li><a href="#">📑 Há muitas moradas na casa de meu Pai</a></li>
- <li><a href="#">📑 Ninguém poderá ver o Reino de Deus se não nascer de novo</a></li>
- <li><a href="#">📑 Bem-aventurados os aflitos</a></li>
- <li><a href="#">📑 O Cristo Consolador</a></li>
- <li><a href="#">📑 Bem-aventurados os pobres de espírito</a></li>
- <li><a href="#">📑 Bem-aventurados os que têm puro o coração</a></li>
- <li><a href="#">📑 Bem-aventurados os que são brandos e pacíficos</a></li>
- <li><a href="#">📑 Bem-aventurados os que são misericordiosos</a></li>
- <li><a href="#">📑 Amar o próximo como a si mesmo</a></li>
- <li><a href="#">📑 Amai os vosssos inimigos</a></li>
- <li><a href="#">📑 Não saiba a vossa mão esquerda o que dê a vossa mão direita</a></li>
- <li><a href="#">📑 Honrai a vosso pai e a vossa mãe</a></li>
- <li><a href="#">📑 Fora da caridade não há salvação</a></li>
- <li><a href="#">📑 Não se pode servir a Deus e a Mamon</a></li>
- <li><a href="#">📑 Sede perfeitos</a></li>
- <li><a href="#">📑 Muitos os chamados, poucos os escolhidos</a></li>
- <li><a href="#">📑 A fé transporta montanhas</a></li>
- <li><a href="#">📑 Os trabalhadores da última hora</a></li>
- <li><a href="#">📑 Haverá falsos cristos e falsos profetas</a></li>
- <li><a href="#">📑 Não separeis o que Deus juntou</a></li>
- <li><a href="#">📑 Estranha moral</a></li>
- <li><a href="#">📑 Não ponhais a candeia debaixo do alqueire</a></li>
- <li><a href="#">📑 Buscai e achareis</a></li>
- <li><a href="#">📑 Dai gratuitamente o que gratuitamente recebestes </a></li>
- <li><a href="#">📑 Pedi e obtereis</a></li>
- <li><a href="#">📑 Coletânea de preces espíritas</a></li>
 
+  <div class="container">
+    <div class="menu p-10 navbar" style="font-size: 18px;">
+      <button title="menu" id="open-sidebar" onclick="openSidebar()"><svg xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 16 16" width="16" height="16">
+          <path
+            d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z">
+          </path>
+        </svg></button>
+      <a href="../grid1.html">💧 doutrina.org</a>
+    </div>
+    <div class="tools p-10 t-14 navbar">
+      <button class="left" title="tipografia"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
+          height="16">
+          <path
+            d="M6.71 10H2.332l-.874 2.498a.75.75 0 0 1-1.415-.496l3.39-9.688a1.217 1.217 0 0 1 2.302.018l3.227 9.681a.75.75 0 0 1-1.423.474Zm3.13-4.358C10.53 4.374 11.87 4 13 4c1.5 0 3 .939 3 2.601v5.649a.75.75 0 0 1-1.448.275C13.995 12.82 13.3 13 12.5 13c-.77 0-1.514-.231-2.078-.709-.577-.488-.922-1.199-.922-2.041 0-.694.265-1.411.887-1.944C11 7.78 11.88 7.5 13 7.5h1.5v-.899c0-.54-.5-1.101-1.5-1.101-.869 0-1.528.282-1.84.858a.75.75 0 1 1-1.32-.716ZM6.21 8.5 4.574 3.594 2.857 8.5Zm8.29.5H13c-.881 0-1.375.22-1.637.444-.253.217-.363.5-.363.806 0 .408.155.697.39.896.249.21.63.354 1.11.354.732 0 1.26-.209 1.588-.449.35-.257.412-.495.412-.551Z">
+          </path>
+        </svg></button>
+
+      <button class="right" title="tela cheia"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
+          height="16">
+          <path
+            d="M1.75 10a.75.75 0 0 1 .75.75v2.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 1 13.25v-2.5a.75.75 0 0 1 .75-.75Zm12.5 0a.75.75 0 0 1 .75.75v2.5A1.75 1.75 0 0 1 13.25 15h-2.5a.75.75 0 0 1 0-1.5h2.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 .75-.75ZM2.75 2.5a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0v-2.5C1 1.784 1.784 1 2.75 1h2.5a.75.75 0 0 1 0 1.5ZM10 1.75a.75.75 0 0 1 .75-.75h2.5c.966 0 1.75.784 1.75 1.75v2.5a.75.75 0 0 1-1.5 0v-2.5a.25.25 0 0 0-.25-.25h-2.5a.75.75 0 0 1-.75-.75Z">
+          </path>
+        </svg></button>
+
+    </div>
+    <div class="links p-10 t-14 navbar" style="display: inline-flex;">
+
+      <form action="https://pt.m.wikipedia.org" target="ext">
+        <button type="submit" title="enciclopédia"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+            width="16" height="16">
+            <path
+              d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z">
+            </path>
+          </svg></button>
+      </form>
+
+      <form action="https://pt.m.wiktionary.org" target="ext">
+        <button type="submit" title="dicionário"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
+            height="16">
+            <path
+              d="M4.75 7a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5ZM5 4.75A.75.75 0 0 1 5.75 4h5.5a.75.75 0 0 1 0 1.5h-5.5A.75.75 0 0 1 5 4.75ZM6.75 10a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5h-4.5Z">
+            </path>
+            <path
+              d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Z">
+            </path>
+          </svg></button>
+      </form>
+
+      <form action="../maps/paris.html" target="ext">
+        <button type="submit" title="mapa"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
+            height="16">
+            <path
+              d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z">
+            </path>
+          </svg></button>
+      </form>
+
+      <button id="shades" onclick="toggleShades()" style="position: absolute; right: 30px" title="cortina"><svg
+          xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+          <path
+            d="M.143 2.31a.75.75 0 0 1 1.047-.167l14.5 10.5a.75.75 0 1 1-.88 1.214l-2.248-1.628C11.346 13.19 9.792 14 8 14c-1.981 0-3.67-.992-4.933-2.078C1.797 10.832.88 9.577.43 8.9a1.619 1.619 0 0 1 0-1.797c.353-.533.995-1.42 1.868-2.305L.31 3.357A.75.75 0 0 1 .143 2.31Zm1.536 5.622A.12.12 0 0 0 1.657 8c0 .021.006.045.022.068.412.621 1.242 1.75 2.366 2.717C5.175 11.758 6.527 12.5 8 12.5c1.195 0 2.31-.488 3.29-1.191L9.063 9.695A2 2 0 0 1 6.058 7.52L3.529 5.688a14.207 14.207 0 0 0-1.85 2.244ZM8 3.5c-.516 0-1.017.09-1.499.251a.75.75 0 1 1-.473-1.423A6.207 6.207 0 0 1 8 2c1.981 0 3.67.992 4.933 2.078 1.27 1.091 2.187 2.345 2.637 3.023a1.62 1.62 0 0 1 0 1.798c-.11.166-.248.365-.41.587a.75.75 0 1 1-1.21-.887c.148-.201.272-.382.371-.53a.119.119 0 0 0 0-.137c-.412-.621-1.242-1.75-2.366-2.717C10.825 4.242 9.473 3.5 8 3.5Z">
+          </path>
+        </svg></button>
+
+
+    </div>
+    <div class="sidebar books p-10 t-14 a-nd">
+      <button class="right" title="fechar"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
+          height="16">
+          <path
+            d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z">
+          </path>
+        </svg></button>
+      <br>
+
+      <p>Obras básicas</p>
+      <hr>
+      <p><a href="./1lde.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
+            </path>
+          </svg>&nbsp;&nbsp;O Livro dos Espíritos</a></p>
+
+      <p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+          <path
+            d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
+          </path>
+        </svg>&nbsp;&nbsp;O Livro dos Médiuns</p>
+      <p> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+          <path
+            d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
+          </path>
+        </svg>&nbsp;&nbsp;O Evangelho </p>
+      <p> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+          <path
+            d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
+          </path>
+        </svg>&nbsp;&nbsp;O Céu e o Inferno</p>
+      <p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+          <path
+            d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z">
+          </path>
+        </svg>&nbsp;&nbsp;A Gênese</p>
+
+
+    </div>
+    <div class="sidebar summary p-10 t-14">
+      <p>Sumário</p>
+      <hr>
+
+     <ol start="0">
+ <li>Pré-textual
+ <ol>
+ <li><a href="ese-0-01">Folha de rosto</a></li>
+ <li><a href="#">Prefácio</a></li>
+ <li><a href="#">Introdução</a></li>
+
+ </ol>
  </li>
+ <li>Miolo
+ <ol>
+ <li><a href="#">Não vim destruir a lei</a></li>
+ <li><a href="#">Meu Reino não é deste mundo</a></li>
+ <li><a href="#">Há muitas moradas na casa de meu Pai</a></li>
+ <li><a href="#">Ninguém poderá ver o Reino de Deus se não nascer de novo</a></li>
+ <li><a href="#">Bem-aventurados os aflitos</a></li>
+ <li><a href="#">O Cristo Consolador</a></li>
+ <li><a href="#">Bem-aventurados os pobres de espírito</a></li>
+ <li><a href="#">Bem-aventurados os que têm puro o coração</a></li>
+ <li><a href="#">Bem-aventurados os que são brandos e pacíficos</a></li>
+ <li><a href="#">Bem-aventurados os que são misericordiosos</a></li>
+ <li><a href="#">Amar o próximo como a si mesmo</a></li>
+ <li><a href="#">Amai os vosssos inimigos</a></li>
+ <li><a href="#">Não saiba a vossa mão esquerda o que dê a vossa mão direita</a></li>
+ <li><a href="#">Honrai a vosso pai e a vossa mãe</a></li>
+ <li><a href="#">Fora da caridade não há salvação</a></li>
+ <li><a href="#">Não se pode servir a Deus e a Mamon</a></li>
+ <li><a href="#">Sede perfeitos</a></li>
+ <li><a href="#">Muitos os chamados, poucos os escolhidos</a></li>
+ <li><a href="#">A fé transporta montanhas</a></li>
+ <li><a href="#">Os trabalhadores da última hora</a></li>
+ <li><a href="#">Haverá falsos cristos e falsos profetas</a></li>
+ <li><a href="#">Não separeis o que Deus juntou</a></li>
+ <li><a href="#">Estranha moral</a></li>
+ <li><a href="#">Não ponhais a candeia debaixo do alqueire</a></li>
+ <li><a href="#">Buscai e achareis</a></li>
+ <li><a href="#">Dai gratuitamente o que gratuitamente recebestes </a></li>
+ <li><a href="#">Pedi e obtereis</a></li>
+ <li><a href="#">Coletânea de preces espíritas</a></li>
+
+
 </ol>
- </ol>
-</div>
- 
- <div id="side-footer">
- <h3>Detalhes</h3>
- <hr>
- <ol>
- <li>📅 atualizado em 21 Sep 2023</li>
- <li>
- <a href=" https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a>
- </li>
- <li>⚖️ Avisos Legais</li>
- <li>
- <a href="https://shklr.org">⭕ shklr.org</a>
- </li>
+</li>
  </ol>
 
-<p>&nbsp;</p>
- 
+    </div>
+    <div class="sidebar footer p-10 t-14">
+      <p>Detalhes</p>
+      <hr>
 
- </div>
-</div>
- </nav>
- </div>
 
- <!-- CONTENT WRAPPER -->
- <div id="content-wrapper">
- <div id="content-top">
- <button id="open-sidebar" onclick="openSidebar()" title="abrir painel de sumário">➡️</button>
- <a id="content-logo" href="./" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/issues"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M4.72.22a.75.75 0 0 1 1.06 0l1 .999a3.488 3.488 0 0 1 2.441 0l.999-1a.748.748 0 0 1 1.265.332.75.75 0 0 1-.205.729l-.775.776c.616.63.995 1.493.995 2.444v.327c0 .1-.009.197-.025.292.408.14.764.392 1.029.722l1.968-.787a.75.75 0 0 1 .556 1.392L13 7.258V9h2.25a.75.75 0 0 1 0 1.5H13v.5c0 .409-.049.806-.141 1.186l2.17.868a.75.75 0 0 1-.557 1.392l-2.184-.873A4.997 4.997 0 0 1 8 16a4.997 4.997 0 0 1-4.288-2.427l-2.183.873a.75.75 0 0 1-.558-1.392l2.17-.868A5.036 5.036 0 0 1 3 11v-.5H.75a.75.75 0 0 1 0-1.5H3V7.258L.971 6.446a.75.75 0 0 1 .558-1.392l1.967.787c.265-.33.62-.583 1.03-.722a1.677 1.677 0 0 1-.026-.292V4.5c0-.951.38-1.814.995-2.444L4.72 1.28a.75.75 0 0 1 0-1.06Zm.53 6.28a.75.75 0 0 0-.75.75V11a3.5 3.5 0 1 0 7 0V7.25a.75.75 0 0 0-.75-.75ZM6.173 5h3.654A.172.172 0 0 0 10 4.827V4.5a2 2 0 1 0-4 0v.327c0 .096.077.173.173.173Z">
+            </path>
+          </svg>&nbsp;Erros</a></p>
 
- <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
- <div id="text-effects">
- <button onclick="fontSans()" title="sans">🖊️</button>
- <button onclick="fontSerif()" title="serif">🖌️</button>
- <button onclick="fontSlab()" title="slab">🖋️</button>
- <button onclick="fontMono()" title="mono"><span class="flipH">✏️</span></button>
- <button onclick="fontSmall()" title="letra menor"><span class="rot45">​◾</span></button>
- <button onclick="fontMedium()" title="letra normal">​<span class="rot45">◼️</span></button>
- <button onclick="fontLarge()" title="letra grande"><span class="rot45">​⬛</span></button>
- <button onclick="bgSepia()" title="sépia">🟤</button>
- <button onclick="bgBlack()" title="negro">⚫</button>
- <button onclick="bgWhite()" title="branco">⚪</button>
- <button onclick="lineNarrow()" title="estreito">1️⃣</button>
- <button onclick="lineNormal()" title="normal">2️⃣</button>
- <button onclick="lineWide()" title="largo">3️⃣</button>
- </div>
- <button id="btn" title="tela cheia/normal">🖥️</button>
- <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
- </div>
- <main>
- 
-<div id="content-panel">CONTENT</div>
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/edit/main/index.html"><svg
+            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z">
+            </path>
+          </svg>&nbsp;Editar</a></p>
 
- </main>
- </div>
+      <p><a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M8.75.75V2h.985c.304 0 .603.08.867.231l1.29.736c.038.022.08.033.124.033h2.234a.75.75 0 0 1 0 1.5h-.427l2.111 4.692a.75.75 0 0 1-.154.838l-.53-.53.529.531-.001.002-.002.002-.006.006-.006.005-.01.01-.045.04c-.21.176-.441.327-.686.45C14.556 10.78 13.88 11 13 11a4.498 4.498 0 0 1-2.023-.454 3.544 3.544 0 0 1-.686-.45l-.045-.04-.016-.015-.006-.006-.004-.004v-.001a.75.75 0 0 1-.154-.838L12.178 4.5h-.162c-.305 0-.604-.079-.868-.231l-1.29-.736a.245.245 0 0 0-.124-.033H8.75V13h2.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1 0-1.5h2.5V3.5h-.984a.245.245 0 0 0-.124.033l-1.289.737c-.265.15-.564.23-.869.23h-.162l2.112 4.692a.75.75 0 0 1-.154.838l-.53-.53.529.531-.001.002-.002.002-.006.006-.016.015-.045.04c-.21.176-.441.327-.686.45C4.556 10.78 3.88 11 3 11a4.498 4.498 0 0 1-2.023-.454 3.544 3.544 0 0 1-.686-.45l-.045-.04-.016-.015-.006-.006-.004-.004v-.001a.75.75 0 0 1-.154-.838L2.178 4.5H1.75a.75.75 0 0 1 0-1.5h2.234a.249.249 0 0 0 .125-.033l1.288-.737c.265-.15.564-.23.869-.23h.984V.75a.75.75 0 0 1 1.5 0Zm2.945 8.477c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327Zm-10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327Z">
+            </path>
+          </svg>&nbsp;Avisos</a></p>
 
- <!-- EXTERNAL WRAPPER -->
- <div id="ext-wrapper">
- <div id="ext-top">
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/wiki"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z">
+            </path>
+          </svg>&nbsp;Wiki</a></p>
 
- <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🎓</a>
- <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
- <a target="ext" href="./maps/paris.html" title="mapa">🧭</a>
+      <p><a href="https://github.com/sergioSHKLR/doutrina.org/discussions"><svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 16 16" width="16" height="16">
+            <path
+              d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z">
+            </path>
+          </svg>&nbsp;Forum</a></p>
 
- <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">⬜</button>
- <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
- </div>
- <aside>
- <div id="ext-panel" class="shades-on">
- <iframe id="ext" name="ext" src="https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo" title="painel complementar"></iframe>
- </div>
- </aside>
- </div>
- </div>
- <!-- JAVA -->
- <script src="./js/combined.js"></script>
+
+      <p><a href="https://shklr.org"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+            <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"></path>
+          </svg>&nbsp;shklr.org</a></p>
+    </div>
+    <div class="main p-10">
+      <!-- START OF CONTENT -->
+  O Evangelho
+    <!-- END OF CONTENT -->
+  </div>
+  <div id="ext-panel" class="aside shades-on">
+    <iframe name="ext" id="ext-iframe" src="../ext.html"></iframe>
+  </div>
+  </div>
+
+  <script>
+    // toggles anti-distraction curtain
+    function toggleShades() {
+      var element = document.getElementById("ext-panel");
+      element.classList.toggle("shades-on");
+    }
+
+
+    // enter fullscreen
+    document.addEventListener("fullscreenchange", () => {
+      if (document.fullscreenElement === null) {
+        console.log("Exited fullscreen");
+      } else {
+        console.log("Entered fullscreen");
+      }
+    });
+  </script>
+
 </body>
 
 </html>

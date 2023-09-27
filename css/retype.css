@@ -1,0 +1,296 @@
+.shades-on {
+    transition-timing-function: ease-in-out;
+    transition-duration: .2s;
+    filter: brightness(0.15);
+  }
+
+  img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+  }
+
+  .a-nd a {
+    text-decoration: none;
+  }
+
+
+  ol {
+    list-style-position: inside;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+  }
+
+  *::-webkit-scrollbar {
+    display: none;
+  }
+
+  .container {
+    display: grid;
+    grid-template-rows: 56px 230px auto 250px;
+    grid-template-columns: 200px 50% auto;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    height: 99.6vh;
+    width: calc(100vw - 20px);
+    grid-auto-flow: column;
+  }
+
+  .container>div {
+    color: currentColor;
+  }
+
+  .menu {
+    grid-area: 1 / 1 / 2 / 2;
+    border-right: 1px solid gainsboro;
+  }
+
+  .navbar {
+    border-bottom: 1px solid gainsboro;
+  }
+
+  .tools {
+    grid-area: 1 / 2 / 2 / 3;
+  }
+
+  .links {
+    grid-area: 1 / 3 / 2 / 4;
+    border-left: 1px solid gainsboro;
+
+  }
+
+  .sidebar {
+    background-color: whitesmoke;
+    border-right: 1px solid gainsboro;
+  }
+
+  .books {
+    grid-area: 2 / 1 / 3 / 2;
+  }
+
+  .summary {
+    grid-area: 3 / 1 / 4 / 2;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  .footer {
+    grid-area: 4 / 1 / 5 / 2;
+  }
+
+  .main {
+    grid-area: 2 / 2 / 5 / 3;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  .aside {
+    grid-area: 2 / 3 / 5 / 4;
+    border-left: 1px solid gainsboro;
+  }
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  svg {
+    vertical-align: text-bottom;
+    fill: currentColor;
+  }
+
+  .left {
+    float: left;
+    margin: 0 5px;
+  }
+
+  .right {
+    float: right;
+    margin: 0 5px;
+  }
+
+  .p-10 {
+    padding: 10px;
+  }
+
+  .t-14 {
+    font-size: 14px;
+  }
+
+  button {
+    margin: 0px 5px;
+    background-color: transparent;
+    border-radius: 50%;
+    padding: 8px;
+    border: none;
+  }
+
+  button:hover {
+    background-color: #eee;
+  }
+
+  ol {
+    margin-left: -25px;
+    line-height: 2
+  }
+
+  .menu a,
+  .summary a,
+  .footer a {
+    text-decoration: none;
+  }
+
+  ol>li::before {
+    content: url(./svg/note.svg) " "
+  }
+
+  ol>li>ol>li::before {
+    content: url(./svg/bookmark.svg) " "
+  }
+
+  hr {
+    margin-top: -15px;
+  }
+
+
+
+  @media only screen and (max-width: 782px) {
+
+    .container {
+      grid-template-rows: 56px auto;
+      grid-template-columns: 200px auto;
+    }
+
+    .menu {
+      display: block;
+    }
+
+    .tools {
+      display: block;
+      grid-area: 1 / 2 / 2 / 4;
+
+    }
+
+    .links {
+      display: none !important;
+    }
+
+    .books {
+      display: none;
+    }
+
+    .sidebar {
+      display: none;
+    }
+
+    .summary {
+      display: none;
+    }
+
+    .footer {
+      display: none;
+    }
+
+    .main {
+      display: block;
+    }
+
+    .main {
+      grid-area: 2 / 1 / 2 / 4;
+    }
+
+    .aside {
+      display: none;
+    }
+
+  }
+
+  @media only screen and (min-width: 783px) and (max-width: 1053px) {
+
+    .container {
+      grid-template-rows: 56px auto;
+      grid-template-columns: 200px auto 40%;
+    }
+
+    .menu {
+      display: block;
+    }
+
+    .tools {
+      display: block;
+    }
+
+    .links {
+      display: block;
+    }
+
+    .books {
+      display: none;
+    }
+
+    .summary {
+      display: none;
+    }
+
+    .footer {
+      display: none;
+    }
+
+    .main {
+      display: block;
+    }
+
+    .main {
+      grid-area: 2 / 1 / 5 / 3;
+    }
+
+    .aside {
+      display: block;
+    }
+
+  }
+
+  @media only screen and (min-width: 1054px) {
+    .menu {
+      display: block;
+    }
+
+    .tools {
+      display: block;
+    }
+
+    .links {
+      display: block;
+    }
+
+    .books {
+      display: block;
+    }
+
+    .summary {
+      display: block;
+    }
+
+    .footer {
+      display: block;
+    }
+
+    .main {
+      display: block;
+    }
+
+    .aside {
+      display: block;
+    }
+
+  }
+
+  .a-nd a {
+    text-decoration: none;
+  }
