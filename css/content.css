@@ -60,7 +60,7 @@
 }
 
 .black {
-  background-color: #222;
+  background-color: #555;
   color: lightgrey;
 }
 
@@ -74,15 +74,26 @@
 #content-panel h2,
 #content-panel h3,
 #content-panel h4 {
-  font-weight: 300;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 24px;
+  font-family: 'Trebuchet MS', serif;
+  font-size: 20px;
+}
+
+#content-panel h5,
+#content-panel h6 {
+  font-weight: bold;
   text-align: center;
   margin-bottom: 20px;
+  font-family: 'Trebuchet MS', serif;
+  font-size: 20px;
 }
 
 #content-panel a:any-link {
-  text-decoration: underline 1.5px solid mediumblue;
+  text-decoration: underline 1.5px solid dodgerblue;
   text-underline-offset: 2px;
-  color: mediumblue;
+  color: dodgerblue;
 }
 
 a:any-link:focus,
@@ -93,7 +104,7 @@ a:any-link:hover {
 }
 
 .active {
-  outline: 3px solid mediumblue;
+  outline: 3px solid dodgerblue;
   border-radius: 4px;
   padding: 2px 0;
 }
@@ -253,4 +264,7 @@ hr {
   padding: 10px;
 }
 
-em, i {color: crimson;}
+em,
+i {
+  color: crimson;
+}

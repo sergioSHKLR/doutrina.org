@@ -309,8 +309,6 @@ details>details>p {
 #btn {
   background-color: #ccc;
   padding: 5px 2px;
-  position: absolute;
-  left: calc(60vw + 60px);
 }
 
 #text-effects {
