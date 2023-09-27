@@ -106,7 +106,10 @@ body {
 }
 
 #content-panel {
-  width: 100%;
+  position: relative;
+  left: 300px;
+top: 56px;
+  width: 50vw;
   height: calc(99.8vh - 50px);
   padding-left: 10px;
   padding-right: 10px;

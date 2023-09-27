@@ -150,21 +150,41 @@
 <!-- BRAND -->
 <a id="content-logo" href="./index.html" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
 
-<!-- TEXT EFFECTS -->
+<!-- TEXT TOOLS -->
 <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
 <div id="text-effects">
 <button onclick="fontSans()" title="sans">🖊️</button>
 <button onclick="fontSerif()" title="serif">🖋️</button>
 <button onclick="fontMono()" title="mono"><span class="flipH">✏️</span></button>
-<button onclick="fontSmall()" title="letra menor">​🔡</button>
-<button onclick="fontLarge()" title="letra grande">🔠</button>
+<button onclick="fontSmall()" title="letra menor">​🔡</span></button>
+<button onclick="fontLarge()" title="letra grande">🔠​</span></button>
 <button onclick="bgSepia()" title="sépia">🟤</button>
 <button onclick="bgBlack()" title="negro">⚫</button>
 <button onclick="lineNarrow()" title="estreito">1️⃣</button>
 <button onclick="lineWide()" title="largo">3️⃣</button><br>
 </div>
+
 <button id="btn" title="tela cheia/normal">🖥️</button>
 <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
+</div>
+</div>
+
+<!-- EXTERNAL WRAPPER -->
+<div id="ext-wrapper">
+<div id="ext-top">
+
+<a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🌐</a>
+<a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
+<a target="ext" href="./maps/paris.html" title="mapa">📍</a>
+
+<button id="shades" onclick="toggleShades()" title="cortina anti-distração">​👁️</button>
+
+<button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
+</div>
+<div id="ext-panel" class="shades-on">
+<iframe id="ext" name="ext" src="./ext.html" title="painel complementar"></iframe>
+</div>
+</div>
 </div>
 
 <!-- CONTENT -->
@@ -845,25 +865,6 @@
 <div class="gold-fleuron"><span class="gold-fleuron">⚜️</span></div>
 
 <p>&nbsp;</p>
-</div>
-</div>
-
-<!-- EXTERNAL WRAPPER -->
-<div id="ext-wrapper">
-<div id="ext-top">
-
-<a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🌐</a>
-<a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
-<a target="ext" href="./maps/paris.html" title="mapa">📍</a>
-
-<button id="shades" onclick="toggleShades()" title="cortina anti-distração">​👁️</button>
-
-<button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
-</div>
-<div id="ext-panel" class="shades-on">
-<iframe id="ext" name="ext" src="./ext.html" title="painel complementar"></iframe>
-</div>
-</div>
 </div>
 
 <!-- JAVA -->
