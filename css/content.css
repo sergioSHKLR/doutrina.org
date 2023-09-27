@@ -90,11 +90,13 @@ a:any-link:focus,
 a:any-link:hover {
   outline: 3px solid orange;
   border-radius: 4px;
+  padding: 2px 0;
 }
 
 .active {
   outline: 3px solid dodgerblue;
   border-radius: 4px;
+  padding: 2px 0;
 }
 
 button:focus,
@@ -149,3 +151,7 @@ span.silver-fleuron {
   display: inline-block;
   transform: rotate(45deg);
 }
+
+small {font-size: 12px;}
+
+hr {margin-top: -10px;}

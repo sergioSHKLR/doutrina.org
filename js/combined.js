@@ -137,12 +137,6 @@ btn.addEventListener("click", () => {
 function toggleShades() {
   var element = document.getElementById("ext-panel");
   element.classList.toggle("shades-on");
-  var x = document.getElementById("shades");
-  if (x.textContent === "⬛") {
-    x.textContent = "⬜";
-  } else {
-    x.textContent = "⬛";
-  }
 }
 
 // toggles sidebar visibility

@@ -50,13 +50,13 @@ body {
 #side-panel ul {
   line-height: 2;
   list-style-type: none;
-  margin-left: -25px
+  margin-left: -40px
 }
 
 #side-panel ol {
   line-height: 2;
   list-style-type: decimal;
-  margin-left: -25px
+  margin-left: -35px
 }
 
 #side-panel ol ol {
