@@ -91,9 +91,9 @@
 }
 
 #content-panel a:any-link {
-  text-decoration: underline 1.5px solid dodgerblue;
+  text-decoration: underline 1.5px solid mediumblue;
   text-underline-offset: 2px;
-  color: dodgerblue;
+  color: mediumblue;
 }
 
 a:any-link:focus,
@@ -104,7 +104,7 @@ a:any-link:hover {
 }
 
 .active {
-  outline: 3px solid dodgerblue;
+  outline: 3px solid mediumblue;
   border-radius: 4px;
   padding: 2px 0;
 }
