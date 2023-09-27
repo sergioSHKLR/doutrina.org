@@ -6,7 +6,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>doutrina.org</title>
  <meta name="description"
- content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
+ content="Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original">
  <meta name="author" content="sergioSHKLR, info@doutrina.org">
 
  <!-- Facebook Meta Tags -->
@@ -14,24 +14,24 @@
  <meta property="og:type" content="website">
  <meta property="og:title" content="doutrina.org">
  <meta property="og:description"
- content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
+ content="Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original">
  <meta property="og:image" content="./pwa/screenshot.png">
 
  <!-- Twitter Meta Tags -->
  <meta name="twitter:card" content="./pwa/screenshot.png">
  <meta name="twitter:title" content="doutrina.org">
  <meta name="twitter:description"
- content="Uma plataforma inédita de estudos integrados; usando tipografia, cores, artigos, videos, mapas e outros.">
+ content="Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original">
  <meta name="twitter:image" content="./pwa/screenshot.png">
 
  <!-- CSS -->
  <link rel="stylesheet" href="./css/1lde.css">
  <link rel="stylesheet" href="./css/framework.css">
- <link rel="stylesheet" href="./css/fonts.css">
  <link rel="stylesheet" href="./css/content.css">
  <link rel="stylesheet" href="./css/media-queries.css">
 
  <!-- FONTS -->
+ <link rel="stylesheet" href="./css/fonts.css">
 
  <!-- PWA -->
  <link rel="manifest" href="./pwa/site.webmanifest">
@@ -54,6 +54,7 @@
  </script>
 </head>
 
+<!-- BODY -->
 <body>
  <div id="page-wrapper">
  <div id="side-wrapper">
@@ -61,8 +62,11 @@
   <a id="side-logo" href="./index.html" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
  <button id="close-sidebar" onclick="closeSidebar()">✖️</button>
  </div>
- <nav>
+
+ <!-- SIDE-PANEL -->
  <div id="side-panel">
+
+<!-- SIDE-HEADER -->
  <div id="side-header">
  <p>Obras Básicas</p>
  <hr>
@@ -75,27 +79,34 @@
  </ul>
  </div>
 
+ <!-- SIDE-BODY -->
+ <!-- EMPTY -->
+
+ <!-- SIDE-FOOTER -->
  <div id="side-footer" style="position: absolute; bottom: 0; width: 280px;;">
  <p>Detalhes</p>
  <hr>
  <ul>
- <li>📅 atualizado em 18 Sep 2023</li>
+ <li>📅 atualizado em 27 Sep 2023</li>
  <li> <a href=" https://github.com/sergioSHKLR/doutrina.org">✏️ edite no Github</a></li>
  <li>⚖️ Avisos Legais</li>
  <li><a href="https://shklr.org">⭕ shklr.org</a></li>
  </ul>
  </div>
  </div>
-
- </nav>
  </div>
 
  <!-- CONTENT WRAPPER -->
  <div id="content-wrapper">
+
+  <!-- CONTENT TOP -->
  <div id="content-top">
  <button id="open-sidebar" onclick="openSidebar()" title="abrir painel de sumário">➡️</button>
+
+ <!-- BRAND -->
  <a id="content-logo" href="./index.html" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
 
+ <!-- TEXT EFFECTS -->
  <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
  <div id="text-effects">
  <button onclick="fontSans()" title="sans">🖊️</button>
@@ -115,7 +126,8 @@
  <button id="btn" title="tela cheia/normal">🖥️</button>
  <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
  </div>
- <main>
+
+ <!-- CONTENT -->
  <div id="content-panel">
 
  <h1>Bem-vindo!</h1>
@@ -155,7 +167,6 @@
 
  <p>&nbsp;</p>
  </div>
- </main>
  </div>
 
  <!-- EXTERNAL WRAPPER -->
@@ -167,6 +178,7 @@
  <a target="ext" href="./maps/paris.html" title="mapa">📍</a>
 
  <button id="shades" onclick="toggleShades()" title="abrir/fechar cortina anti-distração">​👁️</button>
+ 
  <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
  </div>
  <aside>
