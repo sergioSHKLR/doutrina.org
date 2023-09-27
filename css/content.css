@@ -104,7 +104,7 @@ a:any-link:hover {
 }
 
 .active {
-  outline: 3px solid mediumblue;
+  outline: 3px solid dodgerblue;
   border-radius: 4px;
   padding: 2px 0;
 }
