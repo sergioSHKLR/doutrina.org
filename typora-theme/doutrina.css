@@ -366,7 +366,7 @@ code {
 }
 
 .md-image>.md-meta {
-    /*border: 1px solid #ddd;*/
+    /*border: 1px solid #eee;*/
     border-radius: 3px;
     padding: 2px 0px 0px 4px;
     font-size: 0.9em;
@@ -388,7 +388,7 @@ code {
 }
 
 #typora-quick-open {
-    border: 1px solid #ddd;
+    border: 1px solid #eee;
     background-color: #f8f8f8;
 }
 
