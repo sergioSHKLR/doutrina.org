@@ -1,204 +1,78 @@
 <html>
 
 <head>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-    }
 
-    .container {
-      display: grid;
-      grid-template-columns: 200px 1fr 1fr;
-      grid-template-rows: 50px 200px 1fr 200px;
-      gap: 0px 0px;
-      grid-auto-flow: column;
-      grid-template-areas:
-        "brand tools links"
-        "books content external"
-        "summary content external"
-        "footer content external";
-      width: 100%;
-      height: 100%;
-    }
+<style>
+* {box-sizing: border-box;}
 
-    .brand {
-      grid-area: brand;
-    }
+body {margin: 0; padding: 0; display: inline-flex;}
 
-    .books {
-      grid-area: books;
-    }
+body * {border: 1px solid red; text-align: center;}
 
-    .summary {
-      grid-area: summary;
-    }
+#col1, #col2, #col3 {height: 99.8vh; border: 1px solid blue}
 
-    .footer {
-      grid-area: footer;
-    }
+#col1 {width: 200px}
 
-    .tools {
-      grid-area: tools;
-    }
+#col2 {width: calc(60vw - 200px);}
 
-    .content {
-      grid-area: content;
-    }
+#col3 {width: calc(40vw - 23px);}
 
-    .links {
-      grid-area: links;
-    }
+.top {height: 50px;}
 
-    .external {
-      grid-area: external;
-    }
+#side-top {height: 250px;}
+#side-mid {height:calc(99.8vh - 550px);}
+#side-bot {height: 250px;}
 
-    .container div {
-      border: 1px solid grey;
-    }
+@media only screen and (max-width: 782px) {
 
-    @media only screen and (max-width: 782px) {
+#col1 {display: none;}
+#col2 {display: block; width:calc(100vw - 23px);}
+#col3 {display: none;}
 
- grid-template-areas:
-        "tools"
-        "content"
-        "content"
-        "content";
+}
 
-      .container {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 50px 1fr;
-      }
+@media only screen and (min-width: 783px) and (max-width: 1053px) {
 
-      .brand {
-        display: none;
-      }
+#col1 {display: none;}
+#col2 {display: block; width: 60vw;}
+#col3 {display: block;}
 
-      .books {
-        display: none;
-      }
+}
 
-      .summary {
-        display: none;
-      }
+@media only screen and (min-width: 1054px) {
 
-      .footer {
-        display: none;
-      }
+#col1 {display: block;}
+#col2 {display: block;}
+#col3 {display: block;}
 
-      .tools {
-        display: block; width: 100vw
-      }
+}
 
-      .content {
-        display: block;
-      }
 
-      .links {
-        display: none;
-      }
+</style>
 
-      .external {
-        display: none;
-      }
-    }
-
-    @media only screen and (min-width: 783px) and (max-width: 1053px) {
-      .container {
-        display: grid;
-        grid-template-columns: 200px 1fr 1fr;
-        grid-template-rows: 50px 200px 1fr 200px;
-      }
-
-      .brand {
-        display: none;
-      }
-
-      .books {
-        display: none;
-      }
-
-      .summary {
-        display: none;
-      }
-
-      .footer {
-        display: none;
-      }
-
-      .tools {
-        display: block;
-      }
-
-      .content {
-        display: block;
-      }
-
-      .links {
-        display: block;
-      }
-
-      .external {
-        display: block;
-      }
-    }
-
-    @media only screen and (min-width: 1054px) {
-
-      .container {
-        display: grid;
-        grid-template-columns: 200px 1fr 1fr;
-        grid-template-rows: 50px 200px 1fr 200px;
-      }
-
-      .brand {
-        display: block;
-      }
-
-      .books {
-        display: block;
-      }
-
-      .summary {
-        display: block;
-      }
-
-      .footer {
-        display: block;
-      }
-
-      .tools {
-        display: block;
-      }
-
-      .content {
-        display: block;
-      }
-
-      .links {
-        display: block;
-      }
-
-      .external {
-        display: block;
-      }
-    }
-  </style>
 </head>
 
 <body>
-  <div class="container">
-    <div class="brand">brand</div>
-    <div class="books">books</div>
-    <div class="summary">summary</div>
-    <div class="footer">footer</div>
-    <div class="tools">tools</div>
-    <div class="content">content</div>
-    <div class="links">links</div>
-    <div class="external">external</div>
-  </div>
-</body>
+<div id="col1">
+<div class="top">brand</div>
 
+<div id="side-top">books</div>
+<div id="side-mid">toc</div>
+<div id="side-bot">footer</div>
+</div></div>
+
+<div id="col2">
+<div class="top">tools</div>
+main
+</div>
+
+<div id="col3">
+<div class="top">links</div>
+aside
+</div>
+
+
+
+
+</body>
 </html>
