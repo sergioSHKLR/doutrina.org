@@ -33,14 +33,11 @@
 <link rel="manifest" href="./pwa/site.webmanifest">
 <meta name="theme-color" content="#4ec1f5">
 <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
-
-<!--
 <script>
  if (typeof navigator.serviceWorker !== 'undefined') {
  navigator.serviceWorker.register('/pwa/sw.js')
  }
 </script>
--->
 
 <!-- HYPO 
 <script type="application/json" class="js-hypothesis-config">
@@ -52,7 +49,9 @@
 <script async src="https://hypothes.is/embed.js">
 </script> -->
 
-
+<style>
+    blockquote p {border: 1 px solid red !important;
+    content: openquote;}</style>
 
 </head>
 
@@ -167,7 +166,7 @@
 <!-- BRAND -->
 <a id="content-logo" href="./index.html" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
 
-<!-- TEXT TOOLS -->
+<!-- TEXT EFFECTS -->
 <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
 <div id="text-effects">
 <button onclick="fontSans()" title="sans">🖊️</button>
@@ -180,28 +179,8 @@
 <button onclick="lineNarrow()" title="estreito">1️⃣</button>
 <button onclick="lineWide()" title="largo">3️⃣</button><br>
 </div>
-
 <button id="btn" title="tela cheia/normal">🖥️</button>
 <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
-</div>
-</div>
-
-<!-- EXTERNAL WRAPPER -->
-<div id="ext-wrapper">
-<div id="ext-top">
-
-<a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🌐</a>
-<a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
-<a target="ext" href="./maps/paris.html" title="mapa">📍</a>
-
-<button id="shades" onclick="toggleShades()" title="cortina anti-distração">​👁️</button>
-
-<button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
-</div>
-<div id="ext-panel" class="shades-on">
-<iframe id="ext" name="ext" src="./ext.html" title="painel complementar"></iframe>
-</div>
-</div>
 </div>
 
 <!-- CONTENT -->
@@ -290,7 +269,7 @@
 <p>Concebe-se que, com uma acepção múltipla, o termo alma não exclui o materialismo, nem o panteísmo. O próprio
   espiritualismo pode entender a alma de acordo com uma ou outra das duas primeiras definições, sem prejuízo do ser
   imaterial distinto, a que então dará um nome qualquer. Assim, aquela palavra não representa uma opinião: é um Proteu
-  <sup class="md-footnote"><a href=" #dfref-footnote-1' name="ref-footnote-1">1</a></sup>, que cada um ajeita a seu bel-prazer. Daí tantas disputas intermináveis.</p>
+  <sup class='md-footnote"><a href=' #dfref-footnote-1' name='ref-footnote-1">1</a></sup>, que cada um ajeita a seu bel-prazer. Daí tantas disputas intermináveis.</p>
 <p>Evitar-se-ia igualmente a confusão, mesmo usando-se do termo <strong>alma</strong> nos três casos, desde que se lhe acrescentasse um qualificativo especificando o ponto de vista em que se está colocado, ou a aplicação que se faz da palavra. Esta teria, então, um caráter genérico, designando, ao mesmo tempo, o princípio da vida material, o da inteligência e o do senso moral, que se distinguiriam mediante um atributo, como os <strong>gases</strong>, por exemplo, que se distinguem aditando-se ao termo genérico as palavras <strong>hidrogênio</strong>, <strong>oxigênio</strong>, ou <strong>azoto</strong>. Poder-se-ia, assim, dizer, e talvez fosse o melhor, a <strong>alma vital</strong> — indicando o princípio da vida material; a <strong>alma intelectual</strong> — o princípio da inteligência, e a <strong>alma espírita</strong> — o da nossa individualidade após a morte. Como se vê, tudo isto não passa de uma questão de palavras, mas questão muito importante quando se trata de nos fazermos entendidos. De conformidade com essa maneira de falar, a alma vital seria comum a todos os seres orgânicos: plantas, animais e homens; a <strong>alma intelectual</strong> pertenceria aos animais e aos homens; e a <strong>alma espírita</strong> somente ao homem.</p>
 <p>Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra <strong>alma</strong>, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.</p>
 <p>Passemos agora ao objeto principal desta instrução preliminar.</p>
@@ -312,7 +291,7 @@
 <p>As primeiras manifestações inteligentes se produziram por meio de mesas que se levantavam e, com um dos pés, davam certo número de pancadas, respondendo desse modo — <strong>sim</strong> ou <strong>não</strong> —, conforme fora convencionado, a uma pergunta feita. Até aí nada de convincente havia para os céticos, porquanto bem podiam crer que tudo fosse obra do acaso. Obtiveram-se depois respostas mais desenvolvidas com o auxílio das letras do alfabeto: dando o móvel um número de pancadas correspondente ao número de ordem de cada letra, chegava-se a formar palavras e frases que respondiam às questões propostas. A precisão das respostas e a correlação que denotavam com as perguntas causaram espanto. O ser misterioso que assim respondia, interrogado sobre a sua natureza, declarou que era <strong>Espírito</strong> ou <strong>Gênio</strong>, declinou um nome e prestou diversas informações a seu respeito. Há aqui uma circunstância muito importante, que se deve assinalar. É que ninguém imaginou os <strong>Espíritos</strong> como meio de explicar o fenômeno; foi o próprio fenômeno que revelou a palavra. Muitas vezes, tratando-se das ciências exatas, formulam-se hipóteses para dar-se uma base ao raciocínio. Não é aqui o caso.</p>
 <p>Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e isto constitui nova circunstância digna de nota) indicou outro. Foi um desses seres invisíveis quem aconselhou a adaptação de um lápis a uma cesta ou a outro objeto. Colocada em cima de uma folha de papel, a cesta é posta em movimento pela mesma potência oculta que move as mesas; mas, em vez de um simples movimento regular, o lápis traça por si mesmo caracteres formando palavras, frases, dissertações de muitas páginas sobre as mais altas questões de filosofia, de moral, de metafísica, de psicologia etc., e com tanta rapidez quanta se se escrevesse com a mão.</p>
 <p>O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:</p>
-<pre><code class=" language-admonish' lang="admonish">Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
+<pre><code class=' language-admonish' lang='admonish">Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 </code></pre>
 <p>&lt;!--</p>
 <blockquote><p>👻 ▸ Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
@@ -333,7 +312,7 @@
 <h4 id="intro-06">Intro 06</h4>
 <p>Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.</p>
 <p>Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos transmitiram, a fim de mais facilmente respondermos a certas objeções:</p>
-<ol start="' >
+<ol start='' >
 <li>Deus é eterno, imutável, imaterial, único, onipotente, soberanamente justo e bom;</li>
 <li>criou o Universo, que abrange todos os seres animados e inanimados, materiais e imateriais;</li>
 <li>os seres materiais constituem o mundo visível ou corpóreo, e os seres imateriais, o mundo invisível ou espírita, isto é, dos Espíritos;</li>
@@ -348,7 +327,7 @@
 <p>a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;</p>
 <p>b) a alma ou ser imaterial, Espírito encarnado no corpo;</p>
 <p>c) o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;</p>
-<ol start=" 10">
+<ol start=' 10'>
     <li>tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos instintos lhe são comuns;
       pela alma, participa da natureza dos Espíritos;</li>
     <li>o laço ou <strong>perispírito</strong>, que prende ao corpo o Espírito, é uma espécie de envoltório
@@ -372,7 +351,7 @@
       perfeição moral;</li>
     <li>deixando o corpo, a alma volve ao mundo dos Espíritos, donde saíra, para passar por nova existência material,
       após um lapso de tempo mais ou menos longo, durante o qual permanece em estado de Espírito errante; <sup
-        class="md-footnote"><a href=" #dfref-footnote-2' name="ref-footnote-2">2</a></sup>:</li>
+        class='md-footnote"><a href=' #dfref-footnote-2' name='ref-footnote-2">2</a></sup>:</li>
 <li>tendo o Espírito que passar por muitas encarnações, segue-se que todos nós temos tido muitas existências e que teremos ainda outras, mais ou menos aperfeiçoadas, quer na Terra, quer em outros mundos;</li>
 <li>a encarnação dos Espíritos se dá sempre na espécie humana; seria erro acreditar-se que a alma ou Espírito possa encarnar no corpo de um animal;</li>
 <li>as diferentes existências corpóreas do Espírito são sempre progressivas e nunca regressivas; mas, a rapidez do seu progresso depende dos esforços que faça para chegar à perfeição;</li>
@@ -418,7 +397,7 @@
 <p>A uma delas serve de base a linguagem de certos Espíritos, que não parece digna da elevação atribuída a seres sobrenaturais. Quem se reportar ao resumo da Doutrina acima apresentado, verá que os próprios Espíritos nos ensinam não haver entre eles igualdade de conhecimentos nem de qualidades morais, e que não se deve tomar ao pé da letra tudo quanto dizem. Às pessoas sensatas incumbe separar o bom do mau. Indubitavelmente, os que desse fato deduzem que só se comunicam conosco seres malfazejos, cuja única ocupação consista em nos mistificar, não conhecem as comunicações que se recebem nas reuniões em que só se manifestam Espíritos superiores; do contrário, assim não pensariam. É de lamentar que o acaso os tenha servido tão mal, que apenas lhes haja mostrado o lado mau do mundo espírita, pois nos repugna supor que uma tendência simpática atraia para eles, em vez dos bons Espíritos, os maus, os mentirosos, ou aqueles cuja linguagem é de revoltante grosseria. Poder-se-ia, quando muito, deduzir daí que a solidez dos princípios dessas pessoas não é bastante forte para preservá-las do mal e que; achando certo prazer em lhes satisfazerem a curiosidade, os maus Espíritos disso se aproveitam para se aproximar delas, enquanto os bons se afastam.</p>
 <p>Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quanto julgar do caráter de um povo pelo que se diz e faz numa reunião de desatinados ou de gente de má nota, com os quais não entretêm relações as pessoas circunspectas nem as sensatas. Os que assim julgam se colocam na situação do estrangeiro que, chegando a uma grande capital pelo mais abjeto dos seus arrabaldes, julgasse de todos os habitantes pelos costumes e linguagem desse bairro ínfimo. No mundo dos Espíritos também há uma sociedade boa e uma sociedade má; dignem-se, os que daquele modo se pronunciam, de estudar o que se passa entre os Espíritos de escol e se convencerão de que a cidade celeste não contém apenas a escória popular.</p>
 <p>Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:</p>
-<pre><code class=" language-admonish' lang="admonish"> *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
+<pre><code class=' language-admonish' lang='admonish"> *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 
  **Mateus, cap. 13, vers. 14, ARC**
 </code></pre>
@@ -487,7 +466,7 @@
 <blockquote><p>👻 ▸ Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.</p>
 <p>Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.</p>
 <p>Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos.</p>
-<p>Porás no cabeçalho do livro a cepa que te desenhamos <sup class=" md-footnote"><a href="#dfref-footnote-3' name="ref-footnote-3">3</a></sup>, porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.</p>
+<p>Porás no cabeçalho do livro a cepa que te desenhamos <sup class=' md-footnote"><a href='#dfref-footnote-3' name='ref-footnote-3">3</a></sup>, porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.</p>
 <p>Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados.</p>
 <p>A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões dissidentes. Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores.</p>
 <p>Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.</p>
@@ -499,9 +478,9 @@
 <h4 id="01-deus-e-o-infinito">01. Deus e o infinito</h4>
 <h6 id="1">1</h6>
 <p>O que é Deus?</p>
-<blockquote><p>👻 ▸ Deus é a inteligência suprema, causa primária de todas as coisas. <sup class=" md-footnote"><a
-            href="#dfref-footnote-4' name="ref-footnote-4">4</a></sup>, <sup class=" md-footnote"><a
-              href="#dfref-footnote-5' name="ref-footnote-5">5</a></sup></p>
+<blockquote><p>👻 ▸ Deus é a inteligência suprema, causa primária de todas as coisas. <sup class=' md-footnote"><a
+            href='#dfref-footnote-4' name='ref-footnote-4">4</a></sup>, <sup class=' md-footnote"><a
+              href='#dfref-footnote-5' name='ref-footnote-5">5</a></sup></p>
 </blockquote>
 <h6 id="2">2</h6>
 <p>Que se deve entender por infinito?</p>
@@ -676,9 +655,9 @@
 <p>👴🏻 ▸ A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.</p>
 <h6 id="33">33</h6>
 <p>A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?</p>
-<blockquote><p>👻 ▸ Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo! <sup class="
-              md-footnote"><a href="#dfref-footnote-6'
-                name="ref-footnote-6">6</a></sup></p>
+<blockquote><p>👻 ▸ Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo! <sup class='
+              md-footnote"><a href='#dfref-footnote-6'
+                name='ref-footnote-6">6</a></sup></p>
 </blockquote>
 <p>👴🏻 ▸ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.</p>
 <h6 id="33a">33.a </h6>
@@ -816,8 +795,8 @@
 <p>A objeção que se lhe pode fazer é a de estar em contradição com o texto dos livros sagrados. Mas um exame sério mostrará que essa contradição é mais aparente do que real e que decorre da interpretação dada ao que muitas vezes só tinha sentido alegórico. A questão de ter sido Adão, como primeiro homem, a origem exclusiva da Humanidade, não é a única a cujo respeito as crenças religiosas tiveram que se modificar. O movimento da Terra pareceu, em determinada época, tão em oposição às letras sagradas, que não houve gênero de perseguições a que essa teoria não tivesse servido de pretexto, e, no entanto, a Terra gira, malgrado os anátemas, não podendo ninguém hoje contestá-lo, sem agravo à sua própria razão.</p>
 <p>Diz também a <strong>Bíblia</strong> que o mundo foi criado em seis dias e põe a época da sua criação há quatro mil anos, mais ou menos, antes da Era Cristã. Anteriormente, a Terra não existia; foi tirada do nada: o texto é formal. Eis, porém, que a Ciência positiva, a inexorável Ciência, prova o contrário. A história da formação do globo terráqueo está escrita em caracteres irrecusáveis no mundo fóssil, achando-se provado que os seis dias da criação indicam outros tantos períodos, cada um de, talvez, muitas centenas de milhares de anos. Isto não é um sistema, uma doutrina, uma opinião isolada; é um fato tão certo como o do movimento da Terra e que a Teologia não pode negar-se a admitir, o que demonstra evidentemente o erro em que se está sujeito a cair tomando ao pé da letra expressões de uma linguagem frequentemente figurada. Dever-se-á daí concluir que a <strong>Bíblia</strong> é um erro? Não; a conclusão a tirar-se é que os homens se equivocaram ao interpretá-la.</p>
 <p>Escavando os arquivos da Terra, a Ciência descobriu em que ordem os seres vivos lhe apareceram na superfície, ordem que está de acordo com o que diz em <strong>Gênesis</strong>, havendo apenas a notar-se a diferença de que essa obra, em vez de executada milagrosamente por Deus em algumas horas, se realizou, sempre pela sua vontade, mas conforme a lei das forças da Natureza, em alguns milhões de anos. Ficou sendo Deus, por isso, menor e menos poderoso? Perdeu em sublimidade a sua obra, por não ter o prestígio da instantaneidade? Indubitavelmente, não. Fora mister fazer-se da Divindade bem mesquinha idéia, para se não reconhecer a sua onipotência nas leis eternas que ela estabeleceu para regerem os mundos. A Ciência, longe de apoucar a obra divina, no-la mostra sob aspecto mais grandioso e mais acorde com as noções que temos do poder e da majestade de Deus, pela razão mesma de ela se haver efetuado sem derrogação das Leis da Natureza.</p>
-<p>De acordo, neste ponto, com Moisés, a Ciência coloca o homem em último lugar na ordem da criação dos seres vivos. Moisés, porém, indica, como o do dilúvio universal, o ano 1654 <sup class="
-                md-footnote"><a href="#dfref-footnote-7' name="ref-footnote-7">7</a></sup> da formação do mundo, ao passo que a Geologia nos aponta o grande cataclismo como anterior ao aparecimento do homem, atendendo a que, até hoje, não se encontrou, nas camadas primitivas, traço algum de sua presença, nem da dos animais de igual categoria, do ponto de vista físico. Contudo, nada prova que isso seja impossível. Muitas descobertas já fizeram surgir dúvidas a tal respeito. Pode dar-se que, de um momento para outro, se adquira a certeza material da anterioridade da raça humana e então se reconhecerá que, a esse propósito, como a tantos outros, o texto bíblico encerra uma figura. A questão está em saber se o cataclismo geológico é o mesmo a que assistiu Noé. Ora, o tempo necessário à formação das camadas fósseis não permite confundi-los e, desde que se achem vestígios da existência do homem antes da grande catástrofe, provado ficará, ou que Adão não foi o primeiro homem, ou que a sua criação se perde na noite dos tempos. Contra a evidência não há raciocínios possíveis; forçoso será aceitar-se esse fato, como se aceitaram o do movimento da Terra e os seis períodos da Criação.</p>
+<p>De acordo, neste ponto, com Moisés, a Ciência coloca o homem em último lugar na ordem da criação dos seres vivos. Moisés, porém, indica, como o do dilúvio universal, o ano 1654 <sup class='
+                md-footnote"><a href='#dfref-footnote-7' name='ref-footnote-7">7</a></sup> da formação do mundo, ao passo que a Geologia nos aponta o grande cataclismo como anterior ao aparecimento do homem, atendendo a que, até hoje, não se encontrou, nas camadas primitivas, traço algum de sua presença, nem da dos animais de igual categoria, do ponto de vista físico. Contudo, nada prova que isso seja impossível. Muitas descobertas já fizeram surgir dúvidas a tal respeito. Pode dar-se que, de um momento para outro, se adquira a certeza material da anterioridade da raça humana e então se reconhecerá que, a esse propósito, como a tantos outros, o texto bíblico encerra uma figura. A questão está em saber se o cataclismo geológico é o mesmo a que assistiu Noé. Ora, o tempo necessário à formação das camadas fósseis não permite confundi-los e, desde que se achem vestígios da existência do homem antes da grande catástrofe, provado ficará, ou que Adão não foi o primeiro homem, ou que a sua criação se perde na noite dos tempos. Contra a evidência não há raciocínios possíveis; forçoso será aceitar-se esse fato, como se aceitaram o do movimento da Terra e os seis períodos da Criação.</p>
 <p>A existência do homem antes do dilúvio geológico ainda é, com efeito, hipotética. Eis aqui, porém, alguma coisa que o é menos. Admitindo-se que o homem tenha aparecido pela primeira vez na Terra 4.000 anos antes do Cristo e que, 1.650 anos mais tarde, toda a raça humana foi destruída, com exceção de uma só família, resulta que o povoamento da Terra data apenas de Noé, ou seja: de 2.350 anos antes da nossa era. Ora, quando os hebreus emigraram para o Egito, por volta de 1700 a.C., encontraram esse país muito povoado e já bastante adiantado em civilização. A História prova que, nessa época, as Índias e outros países também estavam florescentes, sem mesmo se ter em conta a cronologia de certos povos, que remonta a uma época muito mais afastada. Teria sido preciso, nesse caso, que de 2300 a 1700 a.C., isto é, num espaço de 600 anos, não somente a posteridade de um único homem houvesse podido povoar todos os imensos países então conhecidos, suposto que os outros não o fossem, mas também que, nesse curto lapso de tempo, a espécie humana houvesse podido elevar-se da ignorância absoluta do estado primitivo ao mais alto grau de desenvolvimento intelectual, o que é contrário a todas as leis antropológicas.</p>
 <p>A diversidade das raças corrobora, igualmente, esta opinião. O clima e os costumes produzem, é certo, modificações no caráter físico; sabe-se, porém, até onde pode ir a influência dessas causas. Entretanto, o exame fisiológico demonstra haver, entre certas raças, diferenças constitucionais mais profundas do que as que o clima é capaz de determinar. O cruzamento das raças dá origem aos tipos intermediários. Ele tende a apagar os caracteres extremos, mas não os cria; apenas produz variedades. Ora, para que tenha havido cruzamento de raças, preciso era que houvesse raças distintas. Como, porém, se explicará a existência delas, atribuindo-se-lhes uma origem comum e, sobretudo, tão pouco afastada? Como se há de admitir que, em poucos séculos, alguns descendentes de Noé se tenham transformado ao ponto de produzirem a raça etíope, por exemplo? Tão pouco admissível é semelhante metamorfose, quanto à hipótese de uma origem comum para o lobo e o cordeiro, para o elefante e o pulgão, para o pássaro e o peixe. Ainda uma vez: nada pode prevalecer contra a evidência dos fatos.</p>
 <p>Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.</p>
@@ -1261,7 +1240,7 @@
 </blockquote>
 <h6 id="137">137</h6>
 <p>Um Espírito pode encarnar a um tempo em dois corpos diferentes?</p>
-<blockquote><p>👻 ▸ Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 (<a href="
+<blockquote><p>👻 ▸ Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. 👉 (<a href='
                   /2LDM.html#LDM-2-07">LDM-2-07 ↗️</a>)</p>
 </blockquote>
 <h6 id="138">138</h6>
@@ -1285,8 +1264,8 @@
   Espíritos falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais
   ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia,
   donde uma imensidade de equívocos e discussões. Eis por que os Espíritos superiores nos dizem que primeiro nos
-  entendamos acerca das palavras. <sup class="md-footnote"><a href=" #dfref-footnote-8'
-    name="ref-footnote-8">8</a></sup></p>
+  entendamos acerca das palavras. <sup class='md-footnote"><a href=' #dfref-footnote-8'
+    name='ref-footnote-8">8</a></sup></p>
 <h6 id="140">140</h6>
 <p>Que se deve pensar da teoria da alma subdividida em tantas partes quantos são os músculos e presidindo assim a cada uma das funções do corpo?</p>
 <blockquote><p>👻 ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem razão de ser; se se entende por alma o Espírito encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.</p>
@@ -1548,7 +1527,7 @@
 </blockquote>
 <h6 id="180">180</h6>
 <p>Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?</p>
-<blockquote><p>👻 ▸ Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 👉 (<a href="
+<blockquote><p>👻 ▸ Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 👉 (<a href='
     #LDE-2-07-04-4">LDE-2-07-04</a>)</p>
 </blockquote>
 <h6 id="181">181</h6>
@@ -1602,9 +1581,9 @@
   <p>O grau da sua elevação.</p>
 </blockquote>
 <h6 id="185">185</h6>
-<p>O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? <sup class="md-footnote"><a href="
+<p>O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? <sup class='md-footnote"><a href='
     #dfref-footnote-9'
-    name="ref-footnote-9">9</a></sup></p>
+    name='ref-footnote-9">9</a></sup></p>
 <blockquote><p>👻 ▸ Não; os mundos também estão sujeitos à lei do progresso. Todos começaram, como o vosso, por um estado inferior e a própria Terra sofrerá idêntica transformação. Tornar-se-á um paraíso, quando os homens se houverem tornado bons.</p>
 </blockquote>
 <p>👴🏻 ▸ É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras.</p>
@@ -1622,9 +1601,9 @@
 </blockquote>
 <h6 id="188">188</h6>
 <p>Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, sem estarem mais ligados a um mundo do que a outros?</p>
-<blockquote><p>👻 ▸ Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. <sup class="
-    md-footnote"><a href="#dfref-footnote-10'
-      name="ref-footnote-10">10</a></sup></p>
+<blockquote><p>👻 ▸ Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. <sup class='
+    md-footnote"><a href='#dfref-footnote-10'
+      name='ref-footnote-10">10</a></sup></p>
 </blockquote>
 <h4 id="transmigrações-progressivas">Transmigrações progressivas</h4>
 <h6 id="189">189</h6>
@@ -1732,9 +1711,9 @@
 <blockquote><p>👻 ▸ Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um Espírito a quem tenhais estado presos pelos laços da consanguinidade.</p>
 </blockquote>
 <h6 id="205a">205.a </h6>
-<p>Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. <sup class="
-      md-footnote"><a href="#dfref-footnote-11'
-        name="ref-footnote-11">11</a></sup></p>
+<p>Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. <sup class='
+      md-footnote"><a href='#dfref-footnote-11'
+        name='ref-footnote-11">11</a></sup></p>
 <blockquote><p>👻 ▸ É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que Deus formulou as Leis da Natureza.</p>
 </blockquote>
 <h6 id="206">206</h6>
@@ -1743,9 +1722,9 @@
 </blockquote>
 <h4 id="parecenças-físicas-e-morais">Parecenças físicas e morais</h4>
 <h6 id="207">207</h6>
-<p>Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? <sup class=" md-footnote"><a
-          href="#dfref-footnote-12'
-          name="ref-footnote-12">12</a></sup></p>
+<p>Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? <sup class=' md-footnote"><a
+          href='#dfref-footnote-12'
+          name='ref-footnote-12">12</a></sup></p>
 <blockquote><p>👻 ▸ Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.</p>
 </blockquote>
 <h6 id="207a">207.a </h6>
@@ -1804,7 +1783,7 @@
 </blockquote>
 <h6 id="218b">218.b</h6>
 <p>Grande conexão deve então haver entre duas existências consecutivas?</p>
-<blockquote><p>👻 ▸ Nem sempre, tão grande quanto talvez o suponhas, dado que bem diferentes são, muitas vezes, as posições do Espírito nas duas e que, no intervalo de uma a outra, pode ele ter progredido. 👉 (<a href="
+<blockquote><p>👻 ▸ Nem sempre, tão grande quanto talvez o suponhas, dado que bem diferentes são, muitas vezes, as posições do Espírito nas duas e que, no intervalo de uma a outra, pode ele ter progredido. 👉 (<a href='
           #216">216</a>)</p>
 </blockquote>
 <h6 id="219">219</h6>
@@ -1932,7 +1911,7 @@
   individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo,
   de acordo com a crença vulgar, que a alma nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só
   dispõe de faculdades negativas, perguntamos:</p>
-<ol start="">
+<ol start=''>
   <li>Por que mostra a alma aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?</li>
   <li>Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou
     aquela ciência, enquanto outras se conservam inferiores ou medíocres durante a vida toda?</li>
@@ -1974,7 +1953,7 @@
   todos suscetíveis de progredir. Não é este princípio mais conforme a Justiça de Deus?</p>
 <p>Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu
   futuro, esbarraremos nas mesmas dificuldades.</p>
-<ol start="">
+<ol start=''>
   <li>Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições
     respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no
     tocante à soma de felicidade eterna que lhes caiba?</li>
@@ -2056,7 +2035,7 @@
   <p><strong>João, cap. 3, vers. 3-7, ARC</strong></p>
 </blockquote>
 <p>👉 (<a
-    href="#1010">1010</a>)</p>
+    href='#1010">1010</a>)</p>
 <h3 id="06-da-vida-espírita">06. Da vida espírita</h3>
 <h4 id="espíritos-errantes">Espíritos errantes</h4>
 <h6 id="223">223</h6>
@@ -2208,7 +2187,7 @@
 <p>Para verem o que se passa em dois pontos diferentes, precisam transportar-se a esses pontos? Podem, por exemplo, ver simultaneamente nos dois hemisférios do globo?</p>
 <blockquote><p>👻 ▸ Como o Espírito se transporta aonde queira, com a rapidez do pensamento, pode-se dizer que vê em toda parte ao mesmo tempo. Seu pensamento é suscetível de irradiar, dirigindo-se a um tempo para muitos pontos diferentes, mas esta faculdade depende da sua pureza. Quanto menos puro é o Espírito, tanto mais limitada tem a visão. Só os Espíritos superiores podem com a vista abranger um conjunto.</p>
 </blockquote>
-<p>👴🏻 ▸ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No Espírito, como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz. 👉 (<a href="
+<p>👴🏻 ▸ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No Espírito, como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz. 👉 (<a href='
     #92">92</a>)</p>
 <h6 id="248">248</h6>
 <p>O Espírito vê as coisas tão distintamente como nós?</p>
@@ -2623,8 +2602,8 @@
   canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem.</p>
 <h6 id="273">273</h6>
 <p>Será possível que um homem de raça civilizada reencarne, por expiação, numa raça de selvagens? <sup
-    class="md-footnote"><a href=" #dfref-footnote-13'
-    name="ref-footnote-13">13</a></sup></p>
+    class='md-footnote"><a href=' #dfref-footnote-13'
+    name='ref-footnote-13">13</a></sup></p>
 <blockquote><p>👻 ▸ É; mas depende do gênero da expiação. Um senhor, que tenha sido de grande crueldade para os seus escravos, poderá, por sua vez, tornar-se escravo e sofrer os maus-tratos que infligiu a seus semelhantes. Um, que em certa época exerceu o mando, pode, em nova existência, ter que obedecer aos que se curvavam ante a sua vontade. Ser-lhe-á isso uma expiação, que Deus lhe imponha, se ele abusou do seu poder. Também um bom Espírito pode querer encarnar no seio daquelas raças, ocupando posição influente, para fazê-las progredir. Em tal caso, desempenha uma missão.</p>
 </blockquote>
 <h4 id="as-relações-no-além-túmulo">As relações no além-túmulo</h4>
@@ -2848,7 +2827,7 @@
 </blockquote>
 <h6 id="319">319</h6>
 <p>Já tendo o Espírito vivido a vida espírita antes da sua encarnação, como se explica o seu espanto ao reingressar no mundo dos Espíritos?</p>
-<blockquote><p>👻 ▸ Isso só se dá no primeiro momento e é efeito da perturbação que se segue ao despertar do Espírito. Mais tarde, ele se vai inteirando da sua condição, à medida que lhe volta a lembrança do passado e que a impressão da vida terrena se lhe apaga. 👉 (<a href="
+<blockquote><p>👻 ▸ Isso só se dá no primeiro momento e é efeito da perturbação que se segue ao despertar do Espírito. Mais tarde, ele se vai inteirando da sua condição, à medida que lhe volta a lembrança do passado e que a impressão da vida terrena se lhe apaga. 👉 (<a href='
     #163">163</a> e seguintes.)</p>
 </blockquote>
 <h4 id="comemoração-dos-mortos-funerais">Comemoração dos mortos. Funerais</h4>
@@ -2954,7 +2933,7 @@
 <blockquote>
   <p>👻 ▸ Pressentem-na, como sucede ao cego que se aproxima do fogo. Sabem que têm de retomar um corpo, como sabeis que
     tendes de morrer um dia, mas ignoram quando isso se dará. 👉 (<a
-      href="#166">166</a>)</p>
+      href='#166">166</a>)</p>
 </blockquote>
 <h6 id="330a">330.a </h6>
 <p>Então, a reencarnação é uma necessidade da vida espírita, como a morte o é da vida corporal?</p>
@@ -3233,7 +3212,7 @@
 <blockquote><p>👻 ▸ É que o Espírito retoma a natureza que lhe é própria e se mostra qual era.</p>
 <p>Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas são, nem o que o foram, nem o que serão. Contudo, afeição lhes tendes, as acariciais, como se fossem parcelas de vós mesmos, a tal ponto que se considera o amor que uma mãe consagra a seus filhos como o maior amor que um ser possa votar a outro. Donde nasce o meigo afeto, a terna benevolência que mesmo os estranhos sentem por uma criança? Sabeis? Não. Pois bem! Vou explicá-lo.</p>
 <p>As crianças são os seres que Deus manda a novas existências. Para que não lhe possam imputar excessiva severidade, dá-lhes Ele todos os aspectos da inocência. Ainda quando se trata de uma criança de maus pendores, cobrem-se-lhe as más ações com a capa da inconsciência. Essa inocência não constitui superioridade real, com relação ao que eram antes, não. É a imagem do que deveriam ser e, se não o são, o consequente castigo exclusivamente sobre elas recai.</p>
-<p>Não foi, todavia, por elas somente que Deus lhes deu esse aspecto de inocência; foi também e sobretudo por seus pais, de cujo amor necessita a fraqueza que as caracteriza. Ora, esse amor se enfraqueceria grandemente à vista de um caráter áspero e intratável, ao passo que, julgando seus filhos bons e dóceis, os pais lhes dedicam toda a afeição e os cercam dos mais minuciosos cuidados. Desde que, porém, os filhos não mais precisam da proteção e assistência que lhes foram dispensadas durante 15 ou 20 anos, surge-lhes o caráter real e individual em toda a nudez. Conservam-se bons, se eram fundamentalmente bons, mas sempre irisados de matizes que a primeira infância manteve ocultos. Como vedes, os processos de Deus são sempre os melhores e, quando se tem o coração puro, facilmente se lhes apreende a explicação. Com efeito, ponderai que nos vossos lares possivelmente nascem crianças cujos Espíritos vêm de mundos onde contraíram hábitos diferentes dos vossos e dizei-me como poderiam estar no vosso meio esses seres, trazendo paixões diversas das que nutris, inclinações, gostos, inteiramente opostos aos vossos; como poderiam enfileirar-se entre vós, senão como Deus o determinou, isto é, passando pelo tamis da infância? Nesta se vêm confundir todas as ideias, todos os caracteres, todas as variedades de seres gerados pela infinidade dos mundos em que medram as criaturas. E vós mesmos, ao morrerdes, vos achareis num estado que é uma espécie de infância, entre novos irmãos. Ao volverdes à existência extraterrena, ignorareis os hábitos, os costumes, as relações que se observam nesse mundo, para vós, novo. Manejareis com dificuldade uma linguagem que não estais acostumado a falar, linguagem mais vivaz do que o é agora o vosso pensamento. 👉 (<a href="
+<p>Não foi, todavia, por elas somente que Deus lhes deu esse aspecto de inocência; foi também e sobretudo por seus pais, de cujo amor necessita a fraqueza que as caracteriza. Ora, esse amor se enfraqueceria grandemente à vista de um caráter áspero e intratável, ao passo que, julgando seus filhos bons e dóceis, os pais lhes dedicam toda a afeição e os cercam dos mais minuciosos cuidados. Desde que, porém, os filhos não mais precisam da proteção e assistência que lhes foram dispensadas durante 15 ou 20 anos, surge-lhes o caráter real e individual em toda a nudez. Conservam-se bons, se eram fundamentalmente bons, mas sempre irisados de matizes que a primeira infância manteve ocultos. Como vedes, os processos de Deus são sempre os melhores e, quando se tem o coração puro, facilmente se lhes apreende a explicação. Com efeito, ponderai que nos vossos lares possivelmente nascem crianças cujos Espíritos vêm de mundos onde contraíram hábitos diferentes dos vossos e dizei-me como poderiam estar no vosso meio esses seres, trazendo paixões diversas das que nutris, inclinações, gostos, inteiramente opostos aos vossos; como poderiam enfileirar-se entre vós, senão como Deus o determinou, isto é, passando pelo tamis da infância? Nesta se vêm confundir todas as ideias, todos os caracteres, todas as variedades de seres gerados pela infinidade dos mundos em que medram as criaturas. E vós mesmos, ao morrerdes, vos achareis num estado que é uma espécie de infância, entre novos irmãos. Ao volverdes à existência extraterrena, ignorareis os hábitos, os costumes, as relações que se observam nesse mundo, para vós, novo. Manejareis com dificuldade uma linguagem que não estais acostumado a falar, linguagem mais vivaz do que o é agora o vosso pensamento. 👉 (<a href='
       #319">319</a>) A infância ainda tem outra utilidade. Os Espíritos só entram na vida corporal para se
     aperfeiçoarem, para se melhorarem. A delicadeza da idade infantil os torna brandos, acessíveis aos conselhos da
     experiência e dos que devam fazê-los progredir. Nessa fase é que se lhes pode reformar os caracteres e reprimir os
@@ -3254,7 +3233,7 @@
 <p>Não lhes seria mais agradável reconhecerem-se?</p>
 <blockquote>
   <p>👻 ▸ Nem sempre. A recordação das passadas existências teria inconvenientes maiores do que imaginais. Depois de
-    mortos, reconhecer-se-ão e saberão que tempo passaram juntos. 👉 (<a href="#392">392</a>)</p>
+    mortos, reconhecer-se-ão e saberão que tempo passaram juntos. 👉 (<a href='#392">392</a>)</p>
 </blockquote>
 <h6 id="387">387</h6>
 <p>A simpatia tem sempre por princípio um anterior conhecimento?</p>
@@ -3924,9 +3903,9 @@
 <blockquote><p>👻 ▸ Isso às vezes se dá, porém, o que mais frequentemente se verifica é encarregarem dessa missão outros Espíritos encarnados que lhes são simpáticos.</p>
 </blockquote>
 <h6 id="517">517</h6>
-<p>Haverá Espíritos que se liguem a uma família inteira para protegê-la? <sup class=" md-footnote"><a
-        href="#dfref-footnote-14'
-        name="ref-footnote-14">14</a></sup></p>
+<p>Haverá Espíritos que se liguem a uma família inteira para protegê-la? <sup class=' md-footnote"><a
+        href='#dfref-footnote-14'
+        name='ref-footnote-14">14</a></sup></p>
 <blockquote><p>👻 ▸ Alguns Espíritos se ligam aos membros de uma determinada família, que vivem juntos e unidos pela afeição; mas não acrediteis em Espíritos protetores do orgulho das raças.</p>
 </blockquote>
 <h6 id="518">518</h6>
@@ -4168,7 +4147,7 @@
 </blockquote>
 <h6 id="559">559</h6>
 <p>Também desempenham função útil no Universo os Espíritos inferiores e imperfeitos?</p>
-<blockquote><p>👻 ▸ Todos têm deveres a cumprir. Para a construção de um edifício, não concorre tanto o último dos serventes de pedreiro, como o arquiteto? 👉 (<a href="
+<blockquote><p>👻 ▸ Todos têm deveres a cumprir. Para a construção de um edifício, não concorre tanto o último dos serventes de pedreiro, como o arquiteto? 👉 (<a href='
         #540">540</a>)</p>
 </blockquote>
 <h6 id="560">560</h6>
@@ -4674,7 +4653,7 @@
   <p>👻 ▸ Sem dúvida alguma, porém, no homem, passou por uma elaboração que a coloca acima da que existe no animal.</p>
 </blockquote>
 <h6 id="607">607</h6>
-<p>Dissestes 👉 (<a href="#190">190</a>) que o estado da alma do homem, na sua origem, corresponde ao estado da infância na vida corporal, que sua inteligência apenas desabrocha e se ensaia para a vida. Onde passa o Espírito essa primeira fase do seu desenvolvimento?</p>
+<p>Dissestes 👉 (<a href='#190">190</a>) que o estado da alma do homem, na sua origem, corresponde ao estado da infância na vida corporal, que sua inteligência apenas desabrocha e se ensaia para a vida. Onde passa o Espírito essa primeira fase do seu desenvolvimento?</p>
 <blockquote><p>👻 ▸ Numa série de existências que precedem o período a que chamais Humanidade.</p>
 </blockquote>
 <h6 id="607a">607.a </h6>
@@ -4705,20 +4684,20 @@
 </blockquote>
 <h6 id="612">612</h6>
 <p>Poderia encarnar num animal o Espírito que animou o corpo de um homem?</p>
-<blockquote><p>👻 ▸ Isso seria retrogradar e o Espírito não retrograda. O rio não remonta à sua nascente. 👉 (<a href="
+<blockquote><p>👻 ▸ Isso seria retrogradar e o Espírito não retrograda. O rio não remonta à sua nascente. 👉 (<a href='
     #118">118</a>)</p>
 </blockquote>
 <h6 id="613">613</h6>
 <p>Embora de todo errônea, a ideia ligada à metempsicose não terá resultado do sentimento intuitivo que o homem possui
-  de suas diferentes existências? <sup class="md-footnote"><a href=" #dfref-footnote-15'
-    name="ref-footnote-15">15</a></sup></p>
+  de suas diferentes existências? <sup class='md-footnote"><a href=' #dfref-footnote-15'
+    name='ref-footnote-15">15</a></sup></p>
 <blockquote><p>👻 ▸ Nessa, como em muitas outras crenças, se depara esse sentimento intuitivo. O homem, porém, o desnaturou, como costuma fazer com a maioria de suas ideias intuitivas.</p>
 </blockquote>
 <p>👴🏻 ▸ Seria verdadeira a metempsicose, se indicasse a progressão da alma, passando de um estado inferior a outro superior, em que adquirisse desenvolvimentos que lhe transformassem a natureza. É, porém, falsa no sentido de transmigração direta da alma do animal para o homem e reciprocamente, o que implicaria a ideia de uma retrogradação, ou de fusão. Ora, o fato de não poder semelhante fusão operar-se, entre os seres corporais das duas espécies, mostra que estas são de graus inassimiláveis, devendo dar-se o mesmo com relação aos Espíritos que as animam. Se um mesmo Espírito as pudesse animar alternativamente, haveria, como consequência, uma identidade de natureza, traduzindo-se pela possibilidade da reprodução material.</p>
 <blockquote><p>A reencarnação, como os Espíritos a ensinam, se funda, ao contrário, na marcha ascendente da Natureza e na progressão do homem, dentro da sua própria espécie, o que em nada lhe diminui a dignidade. O que o rebaixa é o mau uso que ele faz das faculdades que Deus lhe outorgou para que progrida. Seja como for, a ancianidade e a universalidade da doutrina da metempsicose e, bem assim, a circunstância de a terem professado homens eminentes provam que o princípio da reencarnação se radica na própria Natureza; são, pois, argumentos muito mais a seu favor, do que contrários a ele.</p>
 <p>O ponto inicial do Espírito é uma dessas questões que se prendem à origem das coisas e de que Deus guarda o segredo. Dado não é ao homem conhecê-las de modo absoluto, nada mais lhe sendo possível a tal respeito do que fazer suposições, criar sistemas mais ou menos prováveis. Os próprios Espíritos longe estão de tudo saberem e, acerca do que não sabem, também podem ter opiniões pessoais mais ou menos sensatas.</p>
 <p>É assim, por exemplo, que nem todos pensam da mesma forma quanto às relações existentes entre o homem e os animais. Segundo uns, o Espírito não chega ao período humano senão depois de se haver elaborado e individualizado nos diversos graus dos seres inferiores da Criação. Segundo outros, o Espírito do homem teria pertencido sempre à raça humana, sem passar pela fieira animal. O primeiro desses sistemas apresenta a vantagem de assinar um alvo ao futuro dos animais, que formariam então os primeiros elos da cadeia dos seres pensantes. O segundo é mais conforme a dignidade do homem e pode resumir-se da maneira seguinte.</p>
-<p>As diferentes espécies de animais não procedem <strong>intelectualmente</strong> umas das outras, mediante progressão. Assim, o espírito da ostra não se torna sucessivamente o do peixe, do pássaro, do quadrúpede e do quadrúmano. Cada espécie constitui, física e moralmente, um tipo <strong>absoluto</strong>, cada um de cujos indivíduos haure na fonte universal a quantidade do princípio inteligente que lhe seja necessário, de acordo com a perfeição de seus órgãos e com o trabalho que tenha de executar nos fenômenos da Natureza, quantidade que ele, por sua morte, restitui ao reservatório donde a tirou. Os dos mundos mais adiantados que o nosso 👉 (<a href="
+<p>As diferentes espécies de animais não procedem <strong>intelectualmente</strong> umas das outras, mediante progressão. Assim, o espírito da ostra não se torna sucessivamente o do peixe, do pássaro, do quadrúpede e do quadrúmano. Cada espécie constitui, física e moralmente, um tipo <strong>absoluto</strong>, cada um de cujos indivíduos haure na fonte universal a quantidade do princípio inteligente que lhe seja necessário, de acordo com a perfeição de seus órgãos e com o trabalho que tenha de executar nos fenômenos da Natureza, quantidade que ele, por sua morte, restitui ao reservatório donde a tirou. Os dos mundos mais adiantados que o nosso 👉 (<a href='
     #188">188</a>) constituem igualmente raças distintas, apropriadas às necessidades desses mundos e ao grau de
     adiantamento dos homens, cujos auxiliares eles são, mas de modo nenhum procedem das da Terra, espiritualmente
     falando. Outro tanto não se dá com o homem. Do ponto de vista físico, este forma evidentemente um elo da cadeia dos
@@ -4796,7 +4775,7 @@
   existência, sua inteligência se acha mais desenvolvida e ele compreende melhor o que é bem e o que é mal. Se numa só
   existência tudo lhe devesse ficar ultimado, qual seria a sorte de tantos milhões de seres que morrem todos os dias no
   embrutecimento da selvageria, ou nas trevas da ignorância, sem que deles tenha dependido o se instruírem? 👉 (<a
-    href="#171">171</a> a <a href=" #222">222</a>)</p>
+    href='#171">171</a> a <a href=' #222">222</a>)</p>
 <h6 id="620">620</h6>
 <p>Antes de se unir ao corpo, a alma compreende melhor a Lei de Deus do que depois de encarnada?</p>
 <blockquote>
@@ -4930,7 +4909,7 @@
   condições?</p>
 <blockquote>
   <p>👻 ▸ Já te dissemos: os Espíritos foram criados simples e ignorantes 👉 (<a
-      href="#115">115</a>). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo. 👉 (<a href="
+      href='#115">115</a>). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo. 👉 (<a href='
       #119">119</a>)</p>
 </blockquote>
 <h6 id="635">635</h6>
@@ -5136,7 +5115,7 @@
     deveres a cumprir na Terra. Quem passa todo o tempo na meditação e na contemplação nada faz de meritório aos olhos
     de Deus, porque vive uma vida toda pessoal e inútil à Humanidade e Deus lhe pedirá contas do bem que não houver
     feito. 👉 (<a
-      href="#640">640</a>)</p>
+      href='#640">640</a>)</p>
 </blockquote>
 <h4 id="a-prece">A prece</h4>
 <h6 id="650-2">650</h6>
@@ -5177,9 +5156,9 @@
 <blockquote><p>👻 ▸ Aos homens disse o Cristo:</p>
 <p>✝️ ▸ *Amarás o teu próximo como a ti mesmo.</p>
 <p><strong>Mateus, cap. 22, vers. 39, ARC</strong></p>
-<p>Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas <strong>só</strong> então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. <sup class="
-      md-footnote"><a href="#dfref-footnote-16'
-        name="ref-footnote-16">16</a></sup></p>
+<p>Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas <strong>só</strong> então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. <sup class='
+      md-footnote"><a href='#dfref-footnote-16'
+        name='ref-footnote-16">16</a></sup></p>
 </blockquote>
 <h6 id="666">666</h6>
 <p>Pode-se orar aos Espíritos?</p>
@@ -5192,7 +5171,7 @@
 </blockquote>
 <h6 id="668">668</h6>
 <p>Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idades do mundo, não haverão os fenômenos espíritas contribuído para a difusão da crença na pluralidade dos deuses?</p>
-<blockquote><p>👻 ▸ Sem dúvida, porquanto, chamando <strong>deus</strong> a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto. 👉 (<a href="
+<blockquote><p>👻 ▸ Sem dúvida, porquanto, chamando <strong>deus</strong> a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto. 👉 (<a href='
         #603">603</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, como presentemente, uma
@@ -5346,11 +5325,11 @@
 <blockquote>
   <p>👻 ▸ Deus é justo e, pois, só condena aquele que voluntariamente tornou inútil a sua existência, porquanto esse
     vive a expensas do trabalho dos outros. Ele quer que cada um seja útil, de acordo com as suas faculdades. 👉 (<a
-      href="#64">64</a>)</p>
+      href='#64">64</a>)</p>
 </blockquote>
 <h6 id="681">681</h6>
 <p>A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?</p>
-<blockquote><p>👻 ▸ Certamente, do mesmo modo que os pais têm que trabalhar para seus filhos. Foi por isso que Deus fez do amor filial e do amor paterno um sentimento natural. Foi para que, por essa afeição recíproca, os membros de uma família se sentissem impelidos a ajudarem-se mutuamente, o que, aliás, com muita frequência se esquece na vossa sociedade atual. 👉 (<a href="
+<blockquote><p>👻 ▸ Certamente, do mesmo modo que os pais têm que trabalhar para seus filhos. Foi por isso que Deus fez do amor filial e do amor paterno um sentimento natural. Foi para que, por essa afeição recíproca, os membros de uma família se sentissem impelidos a ajudarem-se mutuamente, o que, aliás, com muita frequência se esquece na vossa sociedade atual. 👉 (<a href='
       #205">205</a>)</p>
 </blockquote>
 <h4 id="limite-do-trabalho-repouso">Limite do trabalho. Repouso</h4>
@@ -5370,7 +5349,7 @@
 <blockquote>
   <p>👻 ▸ Isso é uma das piores ações. Todo aquele que tem o poder de mandar é responsável pelo excesso de trabalho que
     imponha a seus inferiores, porquanto, assim fazendo, transgride a Lei de Deus. 👉 (<a
-      href="#273">273</a>)</p>
+      href='#273">273</a>)</p>
 </blockquote>
 <h6 id="685">685</h6>
 <p>Tem o homem o direito de repousar na velhice?</p>
@@ -5393,24 +5372,24 @@
 </blockquote>
 <h4 id="sucessão-e-aperfeiçoamento-das-raças">Sucessão e aperfeiçoamento das raças</h4>
 <h6 id="688">688</h6>
-<p>Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? <sup class=" md-footnote"><a href="#dfref-footnote-17' name="ref-footnote-17">17</a></sup></p>
+<p>Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? <sup class=' md-footnote"><a href='#dfref-footnote-17' name='ref-footnote-17">17</a></sup></p>
 <blockquote><p>👻 ▸ Assim acontecerá, de fato. É que outras lhes terão tomado o lugar, como outras um dia tomarão o da vossa.</p>
 </blockquote>
 <h6 id="689">689</h6>
-<p>Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados dos seres primitivos? <sup class="
-        md-footnote"><a href="#dfref-footnote-18'
-          name="ref-footnote-18">18</a></sup></p>
+<p>Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados dos seres primitivos? <sup class='
+        md-footnote"><a href='#dfref-footnote-18'
+          name='ref-footnote-18">18</a></sup></p>
 <blockquote><p>👻 ▸ São os mesmos Espíritos que <strong>voltaram</strong>, para se aperfeiçoar em novos corpos, mas que ainda estão longe da perfeição. Assim, a atual raça humana, que, pelo seu crescimento, tende a invadir toda a Terra e a substituir as raças que se extinguem, terá sua fase de decrescimento e de desaparição. Substituí-la-ão outras raças mais aperfeiçoadas, que descenderão da atual, como os homens civilizados de hoje descendem dos seres brutos e selvagens dos tempos primitivos.</p>
 </blockquote>
 <h6 id="690">690</h6>
-<p>Do ponto de vista físico, são de criação especial os corpos da raça atual, ou procedem dos corpos primitivos, mediante reprodução? <sup class="
-          md-footnote"><a href="#dfref-footnote-19' name="ref-footnote-19">19</a></sup></p>
+<p>Do ponto de vista físico, são de criação especial os corpos da raça atual, ou procedem dos corpos primitivos, mediante reprodução? <sup class='
+          md-footnote"><a href='#dfref-footnote-19' name='ref-footnote-19">19</a></sup></p>
 <blockquote><p>👻 ▸ A origem das raças se perde na noite dos tempos. Como todas pertencem, porém, à grande família humana, qualquer que tenha sido o tronco de cada uma, elas puderam aliar-se entre si e produzir tipos novos.</p>
 </blockquote>
 <h6 id="691">691</h6>
-<p>Qual, do ponto de vista físico, o caráter distintivo e dominante das raças primitivas? <sup class=" md-footnote"><a
-              href="#dfref-footnote-20'
-              name="ref-footnote-20">20</a></sup></p>
+<p>Qual, do ponto de vista físico, o caráter distintivo e dominante das raças primitivas? <sup class=' md-footnote"><a
+              href='#dfref-footnote-20'
+              name='ref-footnote-20">20</a></sup></p>
 <blockquote><p>👻 ▸ Desenvolvimento da força bruta, à custa da força intelectual. Agora, dá-se o contrário: o homem faz mais pela inteligência do que pela força do corpo. Todavia, faz cem vezes mais, porque soube tirar proveito das forças da Natureza, o que não conseguem os animais.</p>
 </blockquote>
 <h6 id="692">692</h6>
@@ -5494,7 +5473,7 @@
 </blockquote>
 <h6 id="707">707</h6>
 <p>É frequente a certos indivíduos faltarem os meios de subsistência, ainda quando os cerca a abundância. A que se deve atribuir isso?</p>
-<blockquote><p>👻 ▸ Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza. 👉 (<a href="
+<blockquote><p>👻 ▸ Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza. 👉 (<a href='
               #534">534</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ Se é certo que a civilização multiplica as necessidades, também o é que multiplica as fontes de trabalho e os
@@ -5660,7 +5639,7 @@
   <p>👻 ▸ Sim, se praticar essa privação em benefício dos outros. Aos olhos de Deus, porém, só há mortificação, havendo
     privação séria e útil. Por isso é que qualificamos de hipócritas os que apenas aparentemente se privam de alguma
     coisa. 👉 (<a
-      href="#720">720</a>)</p>
+      href='#720">720</a>)</p>
 </blockquote>
 <h6 id="725">725</h6>
 <p>Que se deve pensar das mutilações operadas no corpo do homem ou dos animais?</p>
@@ -5719,7 +5698,7 @@
 <h4 id="flagelos-destruidores">Flagelos destruidores</h4>
 <h6 id="737">737</h6>
 <p>Com que fim fere Deus a Humanidade por meio de flagelos destruidores?</p>
-<blockquote><p>👻 ▸ Para fazê-la progredir mais depressa. Já não dissemos ser a destruição uma necessidade para a regeneração moral dos Espíritos, que, em cada nova existência, sobem um degrau na escala do aperfeiçoamento? Preciso é que se veja o objetivo, para que os resultados possam ser apreciados. Somente do vosso ponto de vista pessoal os apreciais; daí vem que os qualificais de flagelos, por efeito do prejuízo que vos causam. Essas subversões, porém, são frequentemente necessárias para que mais pronto se dê o advento de uma melhor ordem de coisas e para que se realize em alguns anos o que teria exigido muitos séculos. 👉 (<a href="
+<blockquote><p>👻 ▸ Para fazê-la progredir mais depressa. Já não dissemos ser a destruição uma necessidade para a regeneração moral dos Espíritos, que, em cada nova existência, sobem um degrau na escala do aperfeiçoamento? Preciso é que se veja o objetivo, para que os resultados possam ser apreciados. Somente do vosso ponto de vista pessoal os apreciais; daí vem que os qualificais de flagelos, por efeito do prejuízo que vos causam. Essas subversões, porém, são frequentemente necessárias para que mais pronto se dê o advento de uma melhor ordem de coisas e para que se realize em alguns anos o que teria exigido muitos séculos. 👉 (<a href='
       #744">744</a>)</p>
 </blockquote>
 <h6 id="738">738</h6>
@@ -5740,7 +5719,7 @@
       na eternidade</strong>. Logo, nada são os sofrimentos de alguns dias ou de alguns meses, de que tanto vos
     queixais. Representam um ensino que se vos dá e que vos servirá no futuro. Os Espíritos, que preexistem e sobrevivem
     a tudo, formam o mundo real 👉 (<a
-      href="#85">85</a>). Esses os filhos de Deus e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.</p>
+      href='#85">85</a>). Esses os filhos de Deus e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.</p>
 </blockquote>
 <h6 id="738b">738.b</h6>
 <p>Mas nem por isso as vítimas desses flagelos deixam de o ser.</p>
@@ -5759,7 +5738,7 @@
 <p>Dado é ao homem conjurar os flagelos que o afligem?</p>
 <blockquote><p>👻 ▸ Em parte, é; não, porém, como geralmente o entendem. Muitos flagelos resultam da imprevidência do homem. À medida que adquire conhecimentos e experiência, ele os vai podendo conjurar, isto é, prevenir, se lhes sabe pesquisar as causas. Contudo, entre os males que afligem a Humanidade, alguns há de caráter geral, que estão nos decretos da Providência e dos quais cada indivíduo recebe, mais ou menos, o contragolpe. A esses nada pode o homem opor, a não ser sua submissão à vontade de Deus. Esses mesmos males, entretanto, ele muitas vezes os agrava pela sua negligência.</p>
 </blockquote>
-<p>👴🏻 ▸ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, devem ser colocadas a peste, a fome, as inundações e as intempéries fatais às produções da terra. Não tem, porém, o homem encontrado na Ciência, nas obras de arte, no aperfeiçoamento da agricultura, nos afolhamentos e nas irrigações, no estudo das condições higiênicas, meios de impedir, ou, quando menos, de atenuar muitos desastres? Certas regiões, outrora assoladas por terríveis flagelos, não estão hoje preservadas deles? Que não fará, portanto, o homem pelo seu bem-estar material, quando souber aproveitar-se de todos os recursos da sua inteligência e quando, aos cuidados da sua conservação pessoal, souber aliar o sentimento de verdadeira caridade para com os seus semelhantes? 👉 (<a href="
+<p>👴🏻 ▸ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, devem ser colocadas a peste, a fome, as inundações e as intempéries fatais às produções da terra. Não tem, porém, o homem encontrado na Ciência, nas obras de arte, no aperfeiçoamento da agricultura, nos afolhamentos e nas irrigações, no estudo das condições higiênicas, meios de impedir, ou, quando menos, de atenuar muitos desastres? Certas regiões, outrora assoladas por terríveis flagelos, não estão hoje preservadas deles? Que não fará, portanto, o homem pelo seu bem-estar material, quando souber aproveitar-se de todos os recursos da sua inteligência e quando, aos cuidados da sua conservação pessoal, souber aliar o sentimento de verdadeira caridade para com os seus semelhantes? 👉 (<a href='
       #707">707</a>)</p>
   <h4 id="guerras">Guerras</h4>
   <h6 id="742">742</h6>
@@ -6062,7 +6041,7 @@
     <p>👻 ▸ Diverso do dos animais é o destino do homem. Por que, então, quererem identificá-lo com estes? Há no homem
       alguma coisa mais, além das necessidades físicas: há a necessidade de progredir. Os laços sociais são necessários
       ao progresso e os de família mais apertados tornam os primeiros. Eis por que os segundos constituem uma Lei da
-      Natureza. Quis Deus que, por essa forma, os homens aprendessem a amar-se como irmãos. 👉 (<a href="#205">205</a>)</p>
+      Natureza. Quis Deus que, por essa forma, os homens aprendessem a amar-se como irmãos. 👉 (<a href='#205">205</a>)</p>
 </blockquote>
 <h6 id="775">775</h6>
 <p>Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?</p>
@@ -6090,8 +6069,8 @@
 </blockquote>
 <h6 id="780">780</h6>
 <p>O progresso moral acompanha sempre o progresso intelectual?</p>
-<blockquote><p>👻 ▸ Decorre deste, mas nem sempre o segue imediatamente. 👉 (<a href=" #192">192</a> a <a
-        href="#365">365</a>)</p>
+<blockquote><p>👻 ▸ Decorre deste, mas nem sempre o segue imediatamente. 👉 (<a href=' #192">192</a> a <a
+        href='#365">365</a>)</p>
 </blockquote>
 <h6 id="780a">780.a </h6>
 <p>Como pode o progresso intelectual engendrar progresso moral?</p>
@@ -6099,9 +6078,9 @@
 </blockquote>
 <h6 id="780b">780.b</h6>
 <p>Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos os mais pervertidos também?</p>
-<blockquote><p>👻 ▸ O progresso completo constitui o objetivo. Os povos, porém, como os indivíduos, só passo a passo o atingem. Enquanto não se lhes haja desenvolvido o senso moral, pode mesmo acontecer que se sirvam da inteligência para a prática do mal. O moral e a inteligência são duas forças que só com o tempo chegam a equilibrar-se. 👉 (<a href="
+<blockquote><p>👻 ▸ O progresso completo constitui o objetivo. Os povos, porém, como os indivíduos, só passo a passo o atingem. Enquanto não se lhes haja desenvolvido o senso moral, pode mesmo acontecer que se sirvam da inteligência para a prática do mal. O moral e a inteligência são duas forças que só com o tempo chegam a equilibrar-se. 👉 (<a href='
         #365">365</a> a <a
-        href="#751">751</a>)</p>
+        href='#751">751</a>)</p>
 </blockquote>
 <h6 id="781">781</h6>
 <p>Tem o homem o poder de paralisar a marcha do progresso?</p>
@@ -6127,7 +6106,7 @@
 </blockquote>
 <h6 id="785">785</h6>
 <p>Qual o maior obstáculo ao progresso?</p>
-<blockquote><p>👻 ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o Espírito. Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura. 👉 (<a href="
+<blockquote><p>👻 ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o Espírito. Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura. 👉 (<a href='
         #LDE-3-12-03-3">LDE-3-12-03</a>)</p>
   </blockquote>
   <p>👴🏻 ▸ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado
@@ -6231,7 +6210,7 @@
       ser, sobrecarregadas com o peso de seus atos de barbaria. Segundo a Doutrina dos Espíritos, os progressos
       ulteriores aproveitam igualmente às gerações pretéritas, que voltam a viver em melhores condições e podem assim
       aperfeiçoar-se no foco da civilização. 👉 (<a
-        href="#222">222</a>)</p>
+        href='#222">222</a>)</p>
 </blockquote>
 <h4 id="civilização">Civilização</h4>
 <h6 id="790">790</h6>
@@ -6252,9 +6231,9 @@
 </blockquote>
 <h6 id="792a">792.a </h6>
 <p>Não será também porque, criando novas necessidades, suscita paixões novas?</p>
-<blockquote><p>👻 ▸ É, e ainda porque não progridem simultaneamente todas as faculdades do Espírito. Tempo é preciso para tudo. De uma civilização incompleta não podeis esperar frutos perfeitos. 👉 (<a href="
+<blockquote><p>👻 ▸ É, e ainda porque não progridem simultaneamente todas as faculdades do Espírito. Tempo é preciso para tudo. De uma civilização incompleta não podeis esperar frutos perfeitos. 👉 (<a href='
         #751">751</a> a <a
-        href="#780">780</a>)</p>
+        href='#780">780</a>)</p>
 </blockquote>
 <h6 id="793">793</h6>
 <p>Por que indícios se pode reconhecer uma civilização completa?</p>
@@ -6283,9 +6262,9 @@
 </blockquote>
 <h4 id="influência-do-espiritismo-no-progresso">Influência do Espiritismo no progresso</h4>
 <h6 id="798">798</h6>
-<p>O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como crença, apenas por algumas pessoas? <sup class="
-        md-footnote"><a href="#dfref-footnote-21'
-          name="ref-footnote-21">21</a></sup></p>
+<p>O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como crença, apenas por algumas pessoas? <sup class='
+        md-footnote"><a href='#dfref-footnote-21'
+          name='ref-footnote-21">21</a></sup></p>
 <blockquote><p>👻 ▸ Certamente que se tornará crença geral e marcará nova era na história da Humanidade, porque está na natureza e chegou o tempo em que ocupará lugar entre os conhecimentos humanos. Terá, no entanto, que sustentar grandes lutas, mais contra o interesse, do que contra a convicção, porquanto não há como dissimular a existência de pessoas interessadas em combatê-lo, umas por amor-próprio, outras por causas inteiramente materiais. Porém, como virão a ficar insulados, seus contraditores se sentirão forçados a pensar como os demais, sob pena de se tornarem ridículos.</p>
 </blockquote>
 <p>👴🏻 ▸ As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar.</p>
@@ -6315,7 +6294,7 @@
 <h4 id="desigualdade-das-aptidões">Desigualdade das aptidões</h4>
 <h6 id="804">804</h6>
 <p>Por que não outorgou Deus as mesmas aptidões a todos os homens?</p>
-<blockquote><p>👻 ▸ Deus criou iguais todos os Espíritos, mas cada um destes vive há mais ou menos tempo, e, conseguintemente, tem feito maior ou menor soma de aquisições. A diferença entre eles está na diversidade dos graus da experiência alcançada e da vontade com que obram, vontade que é o livre-arbítrio. Daí o se aperfeiçoarem uns mais rapidamente do que outros, o que lhes dá aptidões diversas. Necessária é a variedade das aptidões, a fim de que cada um possa concorrer para a execução dos desígnios da Providência, no limite do desenvolvimento de suas forças físicas e intelectuais. O que um não faz, fá-lo outro. Assim é que cada qual tem seu papel útil a desempenhar. Ademais, sendo <strong>solidários entre si todos os mundos</strong>, necessário se torna que os habitantes dos mundos superiores, que, na sua maioria, foram criados antes do vosso, venham habitá-lo, para vos dar o exemplo. 👉 (<a href="
+<blockquote><p>👻 ▸ Deus criou iguais todos os Espíritos, mas cada um destes vive há mais ou menos tempo, e, conseguintemente, tem feito maior ou menor soma de aquisições. A diferença entre eles está na diversidade dos graus da experiência alcançada e da vontade com que obram, vontade que é o livre-arbítrio. Daí o se aperfeiçoarem uns mais rapidamente do que outros, o que lhes dá aptidões diversas. Necessária é a variedade das aptidões, a fim de que cada um possa concorrer para a execução dos desígnios da Providência, no limite do desenvolvimento de suas forças físicas e intelectuais. O que um não faz, fá-lo outro. Assim é que cada qual tem seu papel útil a desempenhar. Ademais, sendo <strong>solidários entre si todos os mundos</strong>, necessário se torna que os habitantes dos mundos superiores, que, na sua maioria, foram criados antes do vosso, venham habitá-lo, para vos dar o exemplo. 👉 (<a href='
           #361">361</a>)</p>
   </blockquote>
   <h6 id="805">805</h6>
@@ -6330,7 +6309,7 @@
     desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os
     mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos
     outros, compreendessem a lei de caridade que os deve unir.👉 (<a
-      href="#180">180</a>)</p>
+      href='#180">180</a>)</p>
 <h4 id="desigualdades-sociais">Desigualdades sociais</h4>
 <h6 id="806">806</h6>
 <p>É Lei da Natureza a desigualdade das condições sociais?</p>
@@ -6342,7 +6321,7 @@
 </blockquote>
 <h6 id="807">807</h6>
 <p>Que se deve pensar dos que abusam da superioridade de suas posições sociais, para, em proveito próprio, oprimir os fracos?</p>
-<blockquote><p>👻 ▸ Merecem anátema! Ai deles! Serão, a seu turno, oprimidos: renascerão numa existência em que terão de sofrer tudo o que tiverem feito sofrer aos outros. 👉 (<a href="
+<blockquote><p>👻 ▸ Merecem anátema! Ai deles! Serão, a seu turno, oprimidos: renascerão numa existência em que terão de sofrer tudo o que tiverem feito sofrer aos outros. 👉 (<a href='
       #684">684</a>)</p>
 </blockquote>
 <h4 id="desigualdade-das-riquezas">Desigualdade das riquezas</h4>
@@ -6407,7 +6386,7 @@
 <blockquote>
   <p>👻 ▸ Certamente. Já dissemos que a sociedade é muitas vezes a principal culpada de semelhante coisa. Ademais, não
     tem ela que velar pela educação moral dos seus membros? Quase sempre, é a má-educação que lhes falseia o critério,
-    em vez de sufocar-lhes as tendências perniciosas. 👉 (<a href="#685">685</a>)</p>
+    em vez de sufocar-lhes as tendências perniciosas. 👉 (<a href='#685">685</a>)</p>
 </blockquote>
 <h4 id="as-provas-de-riqueza-e-de-miséria">As provas de riqueza e de miséria</h4>
 <h6 id="814">814</h6>
@@ -6426,7 +6405,7 @@
 <blockquote><p>A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse:</p>
 <p>✝️ ▸ <em>E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.</em></p>
 <p><strong>Mateus, cap. 19, vers. 24, ARC</strong></p>
-<p>👉 (<a href=" #266">266</a>)</p>
+<p>👉 (<a href=' #266">266</a>)</p>
 </blockquote>
 <h4 id="igualdade-dos-direitos-do-homem-e-da-mulher">Igualdade dos direitos do homem e da mulher</h4>
 <h6 id="817">817</h6>
@@ -6501,7 +6480,7 @@
   consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e
   más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia
   espiritual. 👉 (<a
-    href="#320">320</a> e seguintes.)</p>
+    href='#320">320</a> e seguintes.)</p>
 <h3 id="10-da-lei-de-liberdade">10. Da lei de liberdade</h3>
 <h4 id="liberdade-natural">Liberdade natural</h4>
 <h6 id="825">825</h6>
@@ -6535,12 +6514,12 @@
 <blockquote><p>👻 ▸ O mal é sempre o mal e não há sofisma que faça se torne boa uma ação má. A responsabilidade, porém, do mal é relativa aos meios de que o homem disponha para compreendê-lo. Aquele que tira proveito da lei da escravidão é sempre culpado de violação da Lei da Natureza, mas aí, como em tudo, a culpabilidade é relativa. Tendo-se a escravidão introduzido nos costumes de certos povos, possível se tornou que, de boa-fé, o homem se aproveitasse dela como de uma coisa que lhe parecia natural. Entretanto, desde que, mais desenvolvida e, sobretudo, esclarecida pelas luzes do Cristianismo, sua razão lhe mostrou que o escravo era um seu igual perante Deus, nenhuma desculpa mais ele tem.</p>
 </blockquote>
 <h6 id="831">831</h6>
-<p>A desigualdade natural das aptidões não coloca certas raças humanas sob a dependência das raças mais inteligentes? <sup class="
-    md-footnote"><a href="#dfref-footnote-22'
-      name="ref-footnote-22">22</a></sup></p>
-<blockquote><p>👻 ▸ Sim, mas para que estas as elevem, não para embrutecê-las ainda mais pela escravização. Durante longo tempo, os homens consideraram certas raças humanas como animais de trabalho, munidos de braços e mãos, e se julgaram com o direito de vender os dessas raças como bestas de carga. Consideram-se de sangue mais puro os que assim procedem. Insensatos! nada veem senão a matéria. Mais ou menos puro não é o sangue, porém o Espírito. 👉 (<a href="
+<p>A desigualdade natural das aptidões não coloca certas raças humanas sob a dependência das raças mais inteligentes? <sup class='
+    md-footnote"><a href='#dfref-footnote-22'
+      name='ref-footnote-22">22</a></sup></p>
+<blockquote><p>👻 ▸ Sim, mas para que estas as elevem, não para embrutecê-las ainda mais pela escravização. Durante longo tempo, os homens consideraram certas raças humanas como animais de trabalho, munidos de braços e mãos, e se julgaram com o direito de vender os dessas raças como bestas de carga. Consideram-se de sangue mais puro os que assim procedem. Insensatos! nada veem senão a matéria. Mais ou menos puro não é o sangue, porém o Espírito. 👉 (<a href='
       #361">361</a> a <a
-      href="#803">803</a>)</p>
+      href='#803">803</a>)</p>
 </blockquote>
 <h6 id="832">832</h6>
 <p>Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam lhes falte nada e acreditam que a liberdade os exporia a maiores privações. Que dizeis disso?</p>
@@ -6600,7 +6579,7 @@
 </blockquote>
 <h6 id="845">845</h6>
 <p>Não constituem obstáculos ao exercício do livre-arbítrio as predisposições instintivas que o homem traz consigo ao nascer?</p>
-<blockquote><p>👻 ▸ As predisposições instintivas são as do Espírito antes de encarnar. Conforme seja este mais ou menos adiantado, elas podem arrastá-lo à prática de atos repreensíveis, no que será secundado pelos Espíritos que simpatizam com essas disposições. Não há, porém, arrastamento irresistível, uma vez que se tenha a vontade de resistir. Lembrai-vos de que querer é poder. 👉 (<a href="
+<blockquote><p>👻 ▸ As predisposições instintivas são as do Espírito antes de encarnar. Conforme seja este mais ou menos adiantado, elas podem arrastá-lo à prática de atos repreensíveis, no que será secundado pelos Espíritos que simpatizam com essas disposições. Não há, porém, arrastamento irresistível, uma vez que se tenha a vontade de resistir. Lembrai-vos de que querer é poder. 👉 (<a href='
       #361">361</a>)</p>
 </blockquote>
 <h6 id="846">846</h6>
@@ -6614,11 +6593,11 @@
     lho dá; não são seus órgãos que lho dão. Semelhante ao bruto, e ainda pior do que este, se torna aquele que nulifica
     o seu pensamento, para só se ocupar com a matéria, pois que não cuida mais de se premunir contra o mal. Nisto é que
     incorre em falta, porquanto assim procede por vontade sua. 👉 (<a
-      href="#LDE-2-07-04-4">LDE-2-07-04</a>)</p>
+      href='#LDE-2-07-04-4">LDE-2-07-04</a>)</p>
 </blockquote>
 <h6 id="847">847</h6>
 <p>A aberração das faculdades tira ao homem o livre-arbítrio?</p>
-<blockquote><p>👻 ▸ Já não é senhor do seu pensamento aquele cuja inteligência se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o Espírito que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse Espírito, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O Espírito, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria. 👉 (<a href="
+<blockquote><p>👻 ▸ Já não é senhor do seu pensamento aquele cuja inteligência se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o Espírito que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse Espírito, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O Espírito, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria. 👉 (<a href='
       #371">371</a> e seguintes)</p>
 </blockquote>
 <h6 id="848">848</h6>
@@ -6699,7 +6678,7 @@
     vos lembra a vossa fraqueza e a fragilidade da vossa existência. Se examinardes a causa e a natureza do perigo,
     verificareis que, quase sempre, suas consequências teriam sido a punição de uma falta cometida ou da
     <strong>negligência no cumprimento de um dever</strong>. Deus, por essa forma, exorta o Espírito a cair em si e a se
-    emendar. 👉 (<a href="#526">526</a> a <a href=" #532">532</a>)</p>
+    emendar. 👉 (<a href='#526">526</a> a <a href=' #532">532</a>)</p>
 </blockquote>
 <h6 id="856">856</h6>
 <p>Sabe o Espírito antecipadamente de que gênero será sua morte?</p>
@@ -6714,7 +6693,7 @@
   <p>👻 ▸ Muito amiúde tem o homem o pressentimento do seu fim, como pode ter o de que ainda não morrerá. Esse
     pressentimento lhe vem dos Espíritos seus protetores, que assim o advertem para que esteja pronto a partir, ou lhe
     fortalecem a coragem nos momentos em que mais dela necessita. Pode vir-lhe também da intuição que tem da existência
-    que escolheu, ou da missão que aceitou e que sabe ter que cumprir. 👉 (<a href="#411">411</a> a <a href="
+    que escolheu, ou da missão que aceitou e que sabe ter que cumprir. 👉 (<a href='#411">411</a> a <a href='
       #522">522</a>)</p>
 </blockquote>
 <h6 id="858">858</h6>
@@ -6819,7 +6798,7 @@
     o número dos desafortunados é muito superior ao dos felizes deste mundo, atento que os Espíritos, na sua maioria,
     procuram as provas que lhes sejam mais proveitosas. Eles veem perfeitamente bem a futilidade das vossas grandezas e
     gozos. Acresce que a mais ditosa existência é sempre agitada, sempre perturbada, quando mais não seja, pela ausência
-    da dor. 👉 (<a href="#525">525</a> e seguintes)</p>
+    da dor. 👉 (<a href='#525">525</a> e seguintes)</p>
 </blockquote>
 <h6 id="867">867</h6>
 <p>Donde vem a expressão: Nascer sob uma boa estrela?</p>
@@ -6840,9 +6819,9 @@
 </blockquote>
 <h6 id="871">871</h6>
 <p>Pois que Deus tudo sabe, não ignora se um homem sucumbirá ou não em determinada prova. Assim sendo, qual a necessidade dessa prova, uma vez que nada acrescentará ao que Deus já sabe a respeito desse homem?</p>
-<blockquote><p>👻 ▸ Isso equivale a perguntar por que não criou Deus o homem perfeito e acabado 👉 (<a href="
+<blockquote><p>👻 ▸ Isso equivale a perguntar por que não criou Deus o homem perfeito e acabado 👉 (<a href='
       #119">119</a>); por que passa o homem pela infância, antes de chegar à condição de adulto 👉 (<a
-      href="#379">379</a>). A prova não tem por fim dar a Deus esclarecimentos sobre o homem, pois que Deus sabe perfeitamente o que ele vale, mas dar ao homem toda a responsabilidade de sua ação, uma vez que tem a liberdade de fazer ou não fazer. Dotado da faculdade de escolher entre o bem e o mal, a prova tem por efeito pô-lo em luta com as tentações do mal e conferir-lhe todo o mérito da resistência. Ora, conquanto saiba de antemão se ele se sairá bem ou não, Deus não o pode, em sua justiça, punir, nem recompensar, por um ato ainda não praticado. 👉 (<a href="
+      href='#379">379</a>). A prova não tem por fim dar a Deus esclarecimentos sobre o homem, pois que Deus sabe perfeitamente o que ele vale, mas dar ao homem toda a responsabilidade de sua ação, uma vez que tem a liberdade de fazer ou não fazer. Dotado da faculdade de escolher entre o bem e o mal, a prova tem por efeito pô-lo em luta com as tentações do mal e conferir-lhe todo o mérito da resistência. Ora, conquanto saiba de antemão se ele se sairá bem ou não, Deus não o pode, em sua justiça, punir, nem recompensar, por um ato ainda não praticado. 👉 (<a href='
       #258">258</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande que seja a certeza que se
@@ -6874,9 +6853,9 @@
   seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas
   provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de Deus e
   dos bons Espíritos. 👉 (<a
-    href="#337">337</a>)</p>
+    href='#337">337</a>)</p>
 <p>Sem o livre-arbítrio, o homem não teria nem culpa por praticar o mal, nem mérito em praticar o bem. E isto a tal ponto está reconhecido que, no mundo, a censura ou o elogio são feitos à intenção, isto é, à vontade. Ora, quem diz vontade diz liberdade. Nenhuma desculpa poderá, portanto, o homem buscar, para os seus delitos, na sua organização física, sem abdicar da razão e da sua condição de ser humano, para se equiparar ao bruto. Se fora assim quanto ao mal, assim não poderia deixar de ser relativamente ao bem. Mas, quando o homem pratica o bem, tem grande cuidado de averbar o fato à sua conta, como mérito, e não cogita de por ele gratificar os seus órgãos, o que prova que, por instinto, não renuncia, malgrado a opinião de alguns sistemáticos, ao mais belo privilégio de sua espécie: a liberdade de pensar. A fatalidade, como vulgarmente é entendida, supõe a decisão prévia e irrevogável de todos os sucessos da vida, qualquer que seja a importância deles. Se tal fosse a ordem das coisas, o homem seria qual máquina sem vontade. De que lhe serviria a inteligência, desde que houvesse de estar invariavelmente dominado, em todos os seus atos, pela força do destino? Semelhante doutrina, se verdadeira, conteria a destruição de toda liberdade moral; já não haveria para o homem responsabilidade, nem, por conseguinte, bem, nem mal, crimes ou virtudes. Não seria possível que Deus, soberanamente justo, castigasse suas criaturas por faltas cujo cometimento não dependera delas, nem que as recompensasse por virtudes de que nenhum mérito teriam. Ademais, tal lei seria a negação da do progresso, porquanto o homem, tudo esperando da sorte, nada tentaria para melhorar a sua posição, visto que não conseguiria ser mais nem menos.</p>
-<p>Contudo, a fatalidade não é uma palavra vã. Existe na posição que o homem ocupa na Terra e nas funções que aí desempenha, em consequência do gênero de vida que seu Espírito escolheu como <strong>prova</strong>, <strong>expiação</strong> ou <strong>missão</strong>. Ele sofre fatalmente todas as vicissitudes dessa existência e todas as <strong>tendências</strong> boas ou más, que lhe são inerentes. Aí, porém, acaba a fatalidade, pois da sua vontade depende ceder ou não a essas tendências. <strong>Os pormenores dos acontecimentos, esses ficam subordinados às circunstâncias que ele próprio cria pelos seus atos</strong>, sendo que nessas circunstâncias podem os Espíritos influir pelos pensamentos que sugiram. 👉 (<a href="
+<p>Contudo, a fatalidade não é uma palavra vã. Existe na posição que o homem ocupa na Terra e nas funções que aí desempenha, em consequência do gênero de vida que seu Espírito escolheu como <strong>prova</strong>, <strong>expiação</strong> ou <strong>missão</strong>. Ele sofre fatalmente todas as vicissitudes dessa existência e todas as <strong>tendências</strong> boas ou más, que lhe são inerentes. Aí, porém, acaba a fatalidade, pois da sua vontade depende ceder ou não a essas tendências. <strong>Os pormenores dos acontecimentos, esses ficam subordinados às circunstâncias que ele próprio cria pelos seus atos</strong>, sendo que nessas circunstâncias podem os Espíritos influir pelos pensamentos que sugiram. 👉 (<a href='
     #459">459</a>)</p>
 <p>Há fatalidade, portanto, nos acontecimentos que se apresentam, por serem estes consequência da escolha que o Espírito
   fez da sua existência de homem. Pode deixar de haver fatalidade no resultado de tais acontecimentos, visto ser
@@ -7046,12 +7025,12 @@
 <p>Qual o caráter da legítima propriedade?</p>
 <blockquote>
   <p>👻 ▸ Propriedade legítima só é a que foi adquirida sem prejuízo de outrem. 👉 (<a
-      href="#808">808</a>)</p>
+      href='#808">808</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, a lei de amor e de justiça nos proíbe, <strong>ipso facto</strong>, a aquisição de bens por quaisquer meios que lhe sejam contrários.</p>
 <h6 id="885">885</h6>
 <p>Será ilimitado o direito de propriedade?</p>
-<blockquote><p>👻 ▸ É fora de dúvida que tudo o que legitimamente se adquire constitui uma propriedade. Mas, como havemos dito, a legislação dos homens, porque imperfeita, consagra muitos direitos convencionais, que a lei de justiça reprova. Essa a razão por que eles reformam suas leis, à medida que o progresso se efetua e que melhor compreendem a justiça. O que num século parece perfeito, afigura-se bárbaro no século seguinte. 👉 (<a href="
+<blockquote><p>👻 ▸ É fora de dúvida que tudo o que legitimamente se adquire constitui uma propriedade. Mas, como havemos dito, a legislação dos homens, porque imperfeita, consagra muitos direitos convencionais, que a lei de justiça reprova. Essa a razão por que eles reformam suas leis, à medida que o progresso se efetua e que melhor compreendem a justiça. O que num século parece perfeito, afigura-se bárbaro no século seguinte. 👉 (<a href='
       #795">795</a>)</p>
 </blockquote>
 <h4 id="caridade-e-amor-do-próximo">Caridade e amor do próximo</h4>
@@ -7123,18 +7102,18 @@
 <blockquote>
   <p>👻 ▸ “Sem dúvida; mas, se uma boa educação moral lhes houvera ensinado a praticar a Lei de Deus, não teriam caído
     nos excessos causadores da sua perdição. Disso, sobretudo, é que depende a melhoria do vosso planeta.” 👉 (<a
-      href="#707">707</a>)</p>
+      href='#707">707</a>)</p>
 </blockquote>
 <h4 id="amor-materno-e-filial">Amor materno e filial</h4>
 <h6 id="890">890</h6>
 <p>Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens e aos animais?</p>
-<blockquote><p>👻 ▸ Uma e outra coisa. A Natureza deu à mãe o amor a seus filhos no interesse da conservação deles. No animal, porém, esse amor se limita às necessidades materiais; cessa quando desnecessários se tornam os cuidados. No homem, persiste pela vida inteira e comporta um devotamento e uma abnegação que são virtudes. Sobrevive mesmo à morte e acompanha o filho até no além-túmulo. Bem vedes que há nele coisa diversa do que há no amor do animal. 👉 (<a href="
+<blockquote><p>👻 ▸ Uma e outra coisa. A Natureza deu à mãe o amor a seus filhos no interesse da conservação deles. No animal, porém, esse amor se limita às necessidades materiais; cessa quando desnecessários se tornam os cuidados. No homem, persiste pela vida inteira e comporta um devotamento e uma abnegação que são virtudes. Sobrevive mesmo à morte e acompanha o filho até no além-túmulo. Bem vedes que há nele coisa diversa do que há no amor do animal. 👉 (<a href='
       #205">205</a> a <a
-      href="#385">385</a>)</p>
+      href='#385">385</a>)</p>
 </blockquote>
 <h6 id="891">891</h6>
 <p>Estando na Natureza o amor materno, como é que há mães que odeiam os filhos e, não raro, desde a infância destes?</p>
-<blockquote><p>👻 ▸ Às vezes, é uma prova que o Espírito do filho escolheu, ou uma expiação, se aconteceu ter sido mau pai, ou mãe perversa, ou mau filho, noutra existência 👉 (<a href="
+<blockquote><p>👻 ▸ Às vezes, é uma prova que o Espírito do filho escolheu, ou uma expiação, se aconteceu ter sido mau pai, ou mãe perversa, ou mau filho, noutra existência 👉 (<a href='
       #392">392</a>). Em todos os casos, a mãe má não pode deixar de ser animada por um mau Espírito que procura criar
     embaraços ao filho, a fim de que sucumba na prova que buscou. Essa violação das Leis da Natureza, porém, não ficará
     impune e o Espírito do filho será recompensado pelos obstáculos de que haja triunfado.</p>
@@ -7144,7 +7123,7 @@
   que os fariam objeto, em caso contrário?</p>
 <blockquote>
   <p>👻 ▸ Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por
-    encaminhar os filhos para o bem 👉 (<a href="#582">582</a> a <a href=" #583">583</a>). Ademais, esses desgostos são,
+    encaminhar os filhos para o bem 👉 (<a href='#582">582</a> a <a href=' #583">583</a>). Ademais, esses desgostos são,
     amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que
     semearam.</p>
 </blockquote>
@@ -7212,7 +7191,7 @@
     seu próximo que sofre, já se acha num certo grau de progresso, que lhe permitirá alcançar a felicidade muito mais
     depressa do que seu irmão que, mais positivo, faz o bem por cálculo e não impelido pelo ardor natural do seu
     coração. 👉 (<a
-      href="#894">894</a>)</p>
+      href='#894">894</a>)</p>
 </blockquote>
 <h6 id="897b">897.b</h6>
 <p>Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fazer ao nosso próximo e o cuidado que pomos em corrigir-nos dos nossos defeitos? Concebemos que seja pouco meritório fazermos o bem com a ideia de que nos seja levado em conta na outra vida; mas será igualmente indício de inferioridade emendarmo-nos, vencermos as nossas paixões, corrigirmos o nosso caráter, com o propósito de nos aproximarmos dos bons Espíritos e de nos elevarmos?</p>
@@ -7258,7 +7237,7 @@
 </blockquote>
 <h6 id="906">906</h6>
 <p>Será passível de censura o homem, por ter consciência do bem que faz e por confessá-lo a si mesmo?</p>
-<blockquote><p>👻 ▸ Pois que pode ter consciência do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de Deus e, sobretudo, na da lei de justiça, amor e caridade, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus pendores e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta. 👉 (<a href="
+<blockquote><p>👻 ▸ Pois que pode ter consciência do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de Deus e, sobretudo, na da lei de justiça, amor e caridade, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus pendores e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta. 👉 (<a href='
       #919">919</a>)</p>
 </blockquote>
 <h4 id="paixões">Paixões</h4>
@@ -7299,7 +7278,7 @@
 <blockquote>
   <p>👻 ▸ Se o pedir a Deus e ao seu bom gênio, com sinceridade, os bons Espíritos lhe virão certamente em auxílio,
     porquanto é essa a missão deles. 👉 (<a
-      href="#459">459</a>)</p>
+      href='#459">459</a>)</p>
 </blockquote>
 <h6 id="911">911</h6>
 <p>Não haverá paixões tão vivas e irresistíveis, que a vontade seja impotente para dominá-las?</p>
@@ -7324,7 +7303,7 @@
 </blockquote>
 <h6 id="916">916</h6>
 <p>Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o excita e mantém. Como poderá a causa destruir o efeito?</p>
-<blockquote><p>👻 ▸ Quanto maior é o mal, mais hediondo se torna. Era preciso que o egoísmo produzisse muito mal, para que compreensível se fizesse a necessidade de extirpá-lo. Os homens, quando se houverem despojado do egoísmo que os domina, viverão como irmãos, sem se fazerem mal algum, auxiliando-se reciprocamente, impelidos pelo sentimento mútuo da solidariedade. Então, o forte será o amparo e não o opressor do fraco e não mais serão vistos homens a quem falte o indispensável, porque todos praticarão a lei de justiça. Esse o reinado do bem, que os Espíritos estão incumbidos de preparar. 👉 (<a href="
+<blockquote><p>👻 ▸ Quanto maior é o mal, mais hediondo se torna. Era preciso que o egoísmo produzisse muito mal, para que compreensível se fizesse a necessidade de extirpá-lo. Os homens, quando se houverem despojado do egoísmo que os domina, viverão como irmãos, sem se fazerem mal algum, auxiliando-se reciprocamente, impelidos pelo sentimento mútuo da solidariedade. Então, o forte será o amparo e não o opressor do fraco e não mais serão vistos homens a quem falte o indispensável, porque todos praticarão a lei de justiça. Esse o reinado do bem, que os Espíritos estão incumbidos de preparar. 👉 (<a href='
       #784">784</a>)</p>
 </blockquote>
 <h6 id="917">917</h6>
@@ -7349,11 +7328,11 @@
     virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos,
     pois em verdade vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver,
     todo aquele que em si somente houver pensado. 👉 (<a
-      href="#785">785</a>.</p>
+      href='#785">785</a>.</p>
 <p><strong>Fénelon</strong></p>
 </blockquote>
 <p>👴🏻 ▸ Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência.</p>
-<blockquote><p>Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos.👉 (<a href="
+<blockquote><p>Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos.👉 (<a href='
       #872">872</a>.</p>
   <p>O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo. Por isso é que trabalha
     incessantemente para melhorar a sua posição na Terra, que pesquisa as causas de seus males para remediá-los. Quando
@@ -7364,13 +7343,13 @@
     acrescentar, com a sua própria segurança. E quanto mais haja sofrido por efeito desse vício, mais sentirá a
     necessidade de combatê-lo, como se combatem a peste, os animais nocivos e todos os outros flagelos. O seu próprio
     interesse a isso o induzirá. 👉 (<a
-      href="#784">784</a>.</p>
+      href='#784">784</a>.</p>
 <p>O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.</p>
 </blockquote>
 <h4 id="caracteres-do-homem-de-bem">Caracteres do homem de bem</h4>
 <h6 id="918">918</h6>
-<p>Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? <sup class=" md-footnote"><a
-        href="#dfref-footnote-23' name="ref-footnote-23">23</a></sup></p>
+<p>Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? <sup class=' md-footnote"><a
+        href='#dfref-footnote-23' name='ref-footnote-23">23</a></sup></p>
 <blockquote><p>👻 ▸ O Espírito prova a sua elevação, quando todos os atos de sua vida corporal representam a prática da Lei de Deus e quando antecipadamente compreende a vida espiritual.</p>
 </blockquote>
 <p>👴🏻 ▸ Verdadeiramente, homem de bem é o que pratica a lei de justiça, amor e caridade, na sua maior pureza. Se interrogar a própria consciência sobre os atos que praticou, perguntará se não transgrediu essa lei, se não fez o mal, se fez todo bem que podia, se ninguém tem motivos para dele se queixar, enfim, se fez aos outros o que desejara que lhe fizessem.</p>
@@ -7385,9 +7364,9 @@
 <h4 id="conhecimento-de-si-mesmo">Conhecimento de si mesmo</h4>
 <h6 id="919">919</h6>
 <p>Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal?</p>
-<blockquote><p>👻 ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. <sup class=" md-footnote"><a
-          href="#dfref-footnote-24'
-          name="ref-footnote-24">24</a></sup></p>
+<blockquote><p>👻 ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. <sup class=' md-footnote"><a
+          href='#dfref-footnote-24'
+          name='ref-footnote-24">24</a></sup></p>
 </blockquote>
 <h6 id="919a">919.a </h6>
 <p>Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisamente em cada um conhecer-se a si mesmo. Qual o meio de consegui-lo?</p>
@@ -7418,7 +7397,7 @@
 </blockquote>
 <h6 id="923">923</h6>
 <p>O que para um é supérfluo não representará, para outro, o necessário, e reciprocamente, de acordo com as posições respectivas?</p>
-<blockquote><p>👻 ▸ Sim, conforme as vossas ideias materiais, os vossos preconceitos, a vossa ambição e as vossas ridículas extravagâncias, a que o futuro fará justiça, quando compreenderdes a verdade. Não há dúvida de que aquele que tinha cinquenta mil libras de renda, vendo-se reduzido a só ter dez mil, se considera muito desgraçado, por não mais poder fazer a mesma figura, conservar o que chama a sua posição, ter cavalos, lacaios, satisfazer a todas as paixões etc. Acredita que lhe falta o necessário, mas, francamente, achas que seja digno de lástima, quando ao seu lado muitos há, morrendo de fome e frio, sem um abrigo onde repousem a cabeça? O homem criterioso, a fim de ser feliz, olha sempre para baixo e não para cima, a não ser para elevar sua alma ao infinito. 👉 (<a href="
+<blockquote><p>👻 ▸ Sim, conforme as vossas ideias materiais, os vossos preconceitos, a vossa ambição e as vossas ridículas extravagâncias, a que o futuro fará justiça, quando compreenderdes a verdade. Não há dúvida de que aquele que tinha cinquenta mil libras de renda, vendo-se reduzido a só ter dez mil, se considera muito desgraçado, por não mais poder fazer a mesma figura, conservar o que chama a sua posição, ter cavalos, lacaios, satisfazer a todas as paixões etc. Acredita que lhe falta o necessário, mas, francamente, achas que seja digno de lástima, quando ao seu lado muitos há, morrendo de fome e frio, sem um abrigo onde repousem a cabeça? O homem criterioso, a fim de ser feliz, olha sempre para baixo e não para cima, a não ser para elevar sua alma ao infinito. 👉 (<a href='
           #715">715</a>)</p>
 </blockquote>
 <h6 id="924">924</h6>
@@ -7433,7 +7412,7 @@
 <blockquote>
   <p>👻 ▸ Isso significa um favor aos olhos dos que apenas veem o presente, mas, fica sabendo, a riqueza é, de
     ordinário, prova mais perigosa do que a miséria. 👉 (<a
-      href="#814">814</a> e seguintes.)</p>
+      href='#814">814</a> e seguintes.)</p>
 </blockquote>
 <h6 id="926">926</h6>
 <p>Criando novas necessidades, a civilização não constitui uma fonte de novas aflições?</p>
@@ -7462,7 +7441,7 @@
 <p>É evidente que, se não fossem os preconceitos sociais, pelos quais se deixa o homem dominar, ele sempre acharia um trabalho qualquer, que lhe proporcionasse meio de viver, embora pudesse deslocá-lo da sua posição. Entre os que não têm preconceitos ou os põem de lado, porém, não há pessoas que se veem na impossibilidade de prover às suas necessidades, em consequência de moléstias ou outras causas independentes da vontade delas?</p>
 <blockquote><p>👻 ▸ Numa sociedade organizada segundo a lei do Cristo ninguém deve morrer de fome.</p>
 </blockquote>
-<p>Com uma organização social criteriosa e previdente, ao homem só por culpa sua pode faltar o necessário, porém suas próprias faltas são frequentemente resultado do meio onde se acha colocado. Quando praticar a Lei de Deus, terá uma ordem social fundada na justiça e na solidariedade e ele próprio também será melhor. 👉 (<a href="
+<p>Com uma organização social criteriosa e previdente, ao homem só por culpa sua pode faltar o necessário, porém suas próprias faltas são frequentemente resultado do meio onde se acha colocado. Quando praticar a Lei de Deus, terá uma ordem social fundada na justiça e na solidariedade e ele próprio também será melhor. 👉 (<a href='
       #793">793</a>)</p>
   <h6 id="931">931</h6>
   <p>Por que são mais numerosas, na sociedade, as classes sofredoras do que as felizes?</p>
@@ -7650,7 +7629,7 @@
       <strong>esperança</strong> fá-lo contar com uma vida melhor; e a <strong>caridade</strong>, a cuja lei obedece,
       lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. 👉
       (<a
-        href="#730">730</a>)</p>
+        href='#730">730</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.</p>
 <blockquote><p>O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao Espírito calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem.</p>
@@ -7736,7 +7715,7 @@
 </blockquote>
 <h6 id="956">956</h6>
 <p>Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de pessoas que lhes eram caras, se matam na esperança de ir juntar-se-lhes?</p>
-<blockquote><p>👻 ▸ Muito diverso do que esperam é o resultado que colhem. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por longo tempo, pois não é possível que Deus recompense um ato de covardia e o insulto que lhe fazem com o duvidarem da sua providência. Pagarão esse instante de loucura com aflições maiores do que as que pensaram abreviar e não terão, para compensá-las, a satisfação que esperavam. 👉 (<a href="
+<blockquote><p>👻 ▸ Muito diverso do que esperam é o resultado que colhem. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por longo tempo, pois não é possível que Deus recompense um ato de covardia e o insulto que lhe fazem com o duvidarem da sua providência. Pagarão esse instante de loucura com aflições maiores do que as que pensaram abreviar e não terão, para compensá-las, a satisfação que esperavam. 👉 (<a href='
         #934">934</a> e seguintes.)</p>
   </blockquote>
   <h6 id="957">957</h6>
@@ -7753,7 +7732,7 @@
     plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece
     gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste
     estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos
-    tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. 👉 (<a href="#155">155</a> e <a href="
+    tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. 👉 (<a href='#155">155</a> e <a href='
       #165">165</a>.</p>
   <blockquote>
     <p>A afinidade que permanece entre o Espírito e o corpo produz, nalguns suicidas, uma espécie de repercussão do
@@ -7786,7 +7765,7 @@
   <blockquote>
     <p>👻 ▸ Já temos dito: antes de encarnar, o Espírito conhecia todas essas coisas e a alma conserva uma vaga
       lembrança do que sabe e do que viu no estado espiritual. 👉 (<a
-        href="#393">393</a>)</p>
+        href='#393">393</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.</p>
 <blockquote><p>A ideia do nada tem qualquer coisa que repugna à razão. O homem que mais despreocupado seja durante a vida, em chegando o momento supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.</p>
@@ -7828,9 +7807,9 @@
 <h4 id="natureza-das-penas-e-gozos-futuros">Natureza das penas e gozos futuros</h4>
 <h6 id="965">965</h6>
 <p>Têm alguma coisa de material as penas e gozos da alma depois da morte?</p>
-<blockquote><p>👻 ▸ Não podem ser materiais, di-lo o bom senso, pois que a alma não é matéria. Nada têm de carnal essas penas e esses gozos; entretanto, são mil vezes mais vivos do que os que experimentais na Terra, porque o Espírito, uma vez liberto, é mais impressionável. Então, já a matéria não lhe embota as sensações. 👉 (<a href="
+<blockquote><p>👻 ▸ Não podem ser materiais, di-lo o bom senso, pois que a alma não é matéria. Nada têm de carnal essas penas e esses gozos; entretanto, são mil vezes mais vivos do que os que experimentais na Terra, porque o Espírito, uma vez liberto, é mais impressionável. Então, já a matéria não lhe embota as sensações. 👉 (<a href='
         #237">237</a> a <a
-        href="#257">257</a>)</p>
+        href='#257">257</a>)</p>
 </blockquote>
 <h6 id="966">966</h6>
 <p>Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira e absurda ideia?</p>
@@ -7858,7 +7837,7 @@
 </blockquote>
 <h6 id="971a">971.a </h6>
 <p>Assim, a morte não nos livra da tentação?</p>
-<blockquote><p>👻 ▸ Não, mas a ação dos maus Espíritos é sempre menor sobre os outros Espíritos do que sobre os homens, porque lhes falta o auxílio das paixões materiais. 👉 (<a href="
+<blockquote><p>👻 ▸ Não, mas a ação dos maus Espíritos é sempre menor sobre os outros Espíritos do que sobre os homens, porque lhes falta o auxílio das paixões materiais. 👉 (<a href='
         #996">996</a>)</p>
   </blockquote>
   <h6 id="972">972</h6>
@@ -7887,7 +7866,7 @@
     Ensinando-nos que a alma é um ser todo espiritual, a razão, mais esclarecida, nos diz, por isso mesmo, que ela não
     pode ser atingida pelas impressões que apenas sobre a matéria atuam. Não se segue, porém, daí que esteja isenta de
     sofrimentos, nem que não receba o castigo de suas faltas.👉 (<a
-      href="#237">237</a>.</p>
+      href='#237">237</a>.</p>
 <blockquote><p>As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.</p>
 </blockquote>
 <h6 id="974">974</h6>
@@ -7944,17 +7923,17 @@
 </blockquote>
 <h6 id="982">982</h6>
 <p>Será necessário que professemos o Espiritismo e creiamos nas manifestações espíritas, para termos assegurada a nossa sorte na vida futura?</p>
-<blockquote><p>👻 ▸ Se assim fosse, seguir-se-ia que estariam deserdados todos os que não creem, ou que não tiveram ensejo de esclarecer-se, o que seria absurdo. Só o bem assegura a sorte futura. Ora, o bem é sempre o bem, qualquer que seja o caminho que a ele conduza. 👉 (<a href="
+<blockquote><p>👻 ▸ Se assim fosse, seguir-se-ia que estariam deserdados todos os que não creem, ou que não tiveram ensejo de esclarecer-se, o que seria absurdo. Só o bem assegura a sorte futura. Ora, o bem é sempre o bem, qualquer que seja o caminho que a ele conduza. 👉 (<a href='
       #165">165</a> a <a
-      href="#799">799</a>)</p>
+      href='#799">799</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida.</p>
 <h4 id="penas-temporais">Penas temporais</h4>
 <h6 id="983">983</h6>
 <p>Não experimenta sofrimentos materiais o Espírito que expia suas faltas em nova existência? Será então exato dizer-se que, depois da morte, só há para a alma sofrimentos morais?</p>
 <blockquote><p>👻 ▸ É bem verdade que, quando a alma está reencarnada, as tribulações da vida são-lhe um sofrimento; mas, só o corpo sofre materialmente.</p>
-<p>Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como Espírito, está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são expiação das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis. 👉 (<a href="
-      #273">273</a>, <a href="#393">393</a> e <a href=" #399">399</a>)</p>
+<p>Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como Espírito, está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são expiação das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis. 👉 (<a href='
+      #273">273</a>, <a href='#393">393</a> e <a href=' #399">399</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços
   emprega para se melhorar. Muitas vezes começa a sua expiação já nessa mesma vida de efêmera felicidade, mas certamente
@@ -7966,18 +7945,18 @@
     encarnardes, para expiação das faltas cometidas em outra existência, porque jamais fica impune a infração das Leis
     de Deus e, sobretudo, da lei de justiça. Se não for punida nesta existência, sê-lo-á necessariamente noutra. Eis por
     que um, que vos parece justo, muitas vezes sofre. É a punição do seu passado. 👉 (<a
-      href="#393">393</a>)</p>
+      href='#393">393</a>)</p>
 </blockquote>
 <h6 id="985">985</h6>
 <p>Constitui recompensa a reencarnação da alma em um mundo menos grosseiro?</p>
 <blockquote><p>👻 ▸ É a consequência de sua depuração, porquanto, à medida que se vão depurando, os Espíritos passam a encarnar em mundos cada vez mais perfeitos, até que se tenham despojado totalmente da matéria e lavado de todas as impurezas, para eternamente gozarem da felicidade dos Espíritos puros, no seio de Deus.</p>
 </blockquote>
-<p>👴🏻 ▸ Nos mundos onde a existência é menos material do que neste, menos grosseiras são as necessidades e menos agudos os sofrimentos físicos. Lá, os homens desconhecem as paixões más, que, nos mundos inferiores, os fazem inimigos uns dos outros. Nenhum motivo tendo de ódio, ou de ciúme, vivem em paz, porque praticam a lei de justiça, amor e caridade. Não conhecem os aborrecimentos e cuidados que nascem da inveja, do orgulho e do egoísmo, causas do tormento da nossa existência terrestre. 👉 (<a href="
+<p>👴🏻 ▸ Nos mundos onde a existência é menos material do que neste, menos grosseiras são as necessidades e menos agudos os sofrimentos físicos. Lá, os homens desconhecem as paixões más, que, nos mundos inferiores, os fazem inimigos uns dos outros. Nenhum motivo tendo de ódio, ou de ciúme, vivem em paz, porque praticam a lei de justiça, amor e caridade. Não conhecem os aborrecimentos e cuidados que nascem da inveja, do orgulho e do egoísmo, causas do tormento da nossa existência terrestre. 👉 (<a href='
       #172">172</a> e <a
-      href="#182">182</a>)</p>
+      href='#182">182</a>)</p>
 <h6 id="986">986</h6>
 <p>Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma vez no mesmo mundo?</p>
-<blockquote><p>👻 ▸ Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação. 👉 (<a href="
+<blockquote><p>👻 ▸ Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação. 👉 (<a href='
       #173">173</a>)</p>
 </blockquote>
 <h6 id="987">987</h6>
@@ -8019,7 +7998,7 @@
 <blockquote>
   <p>👻 ▸ Desejar o arrependido uma nova encarnação para se purificar. O Espírito compreende as imperfeições que o
     privam de ser feliz e por isso aspira a uma nova existência em que possa expiar suas faltas. 👉 (<a
-      href="#332">332</a> a <a href=" #975">975</a>)</p>
+      href='#332">332</a> a <a href=' #975">975</a>)</p>
 </blockquote>
 <h6 id="992">992</h6>
 <p>Que consequência produz o arrependimento no estado corporal?</p>
@@ -8035,7 +8014,7 @@
     progridam e atinjam a meta. A diferença está somente em que uns gastam mais tempo do que outros, porque assim o
     querem. Aquele, que só tem o instinto do bem, já se purificou, visto que talvez tenha tido o do mal em anterior
     existência. 👉 (<a
-      href="#804">804</a>)</p>
+      href='#804">804</a>)</p>
 </blockquote>
 <h6 id="994">994</h6>
 <p>O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reconhece depois da morte?</p>
@@ -8051,7 +8030,7 @@
 </blockquote>
 <h6 id="996">996</h6>
 <p>Pois que os Espíritos veem o mal que lhes resulta de suas imperfeições, como se explica que haja os que agravam suas situações e prolongam o estado de inferioridade em que se encontram, fazendo o mal como Espíritos, afastando do bom caminho os homens?</p>
-<blockquote><p>👻 ▸ Assim procedem os de tardio arrependimento. Pode também acontecer que, depois de se haver arrependido, o Espírito se deixe arrastar de novo para o caminho do mal, por outros Espíritos ainda mais atrasados. 👉 (<a href="
+<blockquote><p>👻 ▸ Assim procedem os de tardio arrependimento. Pode também acontecer que, depois de se haver arrependido, o Espírito se deixe arrastar de novo para o caminho do mal, por outros Espíritos ainda mais atrasados. 👉 (<a href='
       #971">971</a>)</p>
 </blockquote>
 <h6 id="997">997</h6>
@@ -8062,7 +8041,7 @@
   <p>👻 ▸ A prece só tem efeito sobre o Espírito que se arrepende. Com relação aos que, impelidos pelo orgulho, se
     revoltam contra Deus e persistem nos seus desvarios, chegando mesmo a exagerá-los, como o fazem alguns desgraçados
     Espíritos, a prece nada pode e nada poderá, senão no dia em que um clarão de arrependimento se produza neles. 👉 (<a
-      href="#664">664</a>)</p>
+      href='#664">664</a>)</p>
 </blockquote>
 <p>👴🏻 ▸ Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.</p>
 <h6 id="998">998</h6>
@@ -8079,7 +8058,7 @@
 </blockquote>
 <h6 id="1000">1000</h6>
 <p>Já desde esta vida poderemos ir resgatando as nossas faltas?</p>
-<blockquote><p>👻 ▸ Sim, reparando-as; mas não creiais que as resgateis mediante algumas privações pueris, ou distribuindo em esmolas o que possuirdes, depois que morrerdes, quando de nada mais precisais. Deus não dá valor a um arrependimento estéril, sempre fácil e que apenas custa o esforço de bater no peito. A perda de um dedo mínimo, quando se esteja prestando um serviço, apaga mais faltas do que o suplício da carne suportado durante anos, com objetivo exclusivamente <strong>pessoal</strong>. 👉 (<a href="
+<blockquote><p>👻 ▸ Sim, reparando-as; mas não creiais que as resgateis mediante algumas privações pueris, ou distribuindo em esmolas o que possuirdes, depois que morrerdes, quando de nada mais precisais. Deus não dá valor a um arrependimento estéril, sempre fácil e que apenas custa o esforço de bater no peito. A perda de um dedo mínimo, quando se esteja prestando um serviço, apaga mais faltas do que o suplício da carne suportado durante anos, com objetivo exclusivamente <strong>pessoal</strong>. 👉 (<a href='
       #726">726</a>.</p>
   <p>Só por meio do bem se repara o mal e a reparação nenhum mérito apresenta, se não atinge o homem <em>*nem no seu
       orgulho, nem nos seus interesses materiais.</em>.</p>
@@ -8088,7 +8067,7 @@
   <p>De que lhe serve privar-se de alguns gozos fúteis, de algumas superfluidades, se permanece integral o dano que
     causou a outrem.</p>
   <p>De que lhe serve, finalmente, humilhar-se diante de Deus se, perante os homens, conserva o seu orgulho? 👉 (<a
-      href="#720">720</a> e <a href=" #721">721</a>)</p>
+      href='#720">720</a> e <a href=' #721">721</a>)</p>
 </blockquote>
 <h6 id="1001">1001</h6>
 <p>Nenhum mérito haverá em assegurarmos, para depois de nossa morte, emprego útil aos bens que possuímos?</p>
@@ -8102,7 +8081,7 @@
     verdadeiramente privado de um dos mais puros e suaves gozos. Submetendo-o à prova da riqueza, tão escorregadia e
     perigosa para o seu futuro, houve Deus por bem conceder-lhe, como compensação, a ventura da generosidade, de que já
     neste mundo pode gozar. 👉 (<a
-      href="#814">814</a>)</p>
+      href='#814">814</a>)</p>
 </blockquote>
 <h6 id="1002">1002</h6>
 <p>Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já não tem tempo de as reparar? Basta-lhe nesse caso arrepender-se?</p>
@@ -8120,7 +8099,7 @@
 </blockquote>
 <h6 id="1005">1005</h6>
 <p>Ao Espírito sofredor, o tempo se afigura tão ou menos longo do que quando estava vivo?</p>
-<blockquote><p>👻 ▸ Parece-lhe mais longo: para ele não existe o sono. Só para os Espíritos que já chegaram a certo grau de purificação, o tempo, por assim dizer, se apaga diante do infinito. 👉 (<a href="
+<blockquote><p>👻 ▸ Parece-lhe mais longo: para ele não existe o sono. Só para os Espíritos que já chegaram a certo grau de purificação, o tempo, por assim dizer, se apaga diante do infinito. 👉 (<a href='
       #240">240</a>)</p>
 </blockquote>
 <h6 id="1006">1006</h6>
@@ -8271,7 +8250,7 @@
     apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave
     erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A
     Teologia reconhece hoje que a palavra <strong>fogo</strong> é usada figuradamente e que se deve entender como
-    significando ogo moral 👉 (<a href="#974">974</a>). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra <strong>eterno</strong> se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.</p>
+    significando ogo moral 👉 (<a href='#974">974</a>). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra <strong>eterno</strong> se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.</p>
 </blockquote>
 <h4 id="ressurreição-da-carne">Ressurreição da carne</h4>
 <h6 id="1010">1010</h6>
@@ -8279,9 +8258,9 @@
 <blockquote><p>👻 ▸ Como quereríeis que fosse de outro modo? Conforme sucede com tantas outras, estas palavras só parecem despropositadas, no entender de algumas pessoas, porque as tomam ao pé da letra. Levam, por isso, à incredulidade. Dai-lhes uma interpretação lógica e os que chamais livres-pensadores as admitirão sem dificuldades, precisamente pela razão de que refletem. Por que, não vos enganeis, esses livres-pensadores o que mais pedem e desejam é crer. Têm, como os outros, ou, talvez, mais que os outros, a sede do futuro, mas não podem admitir o que a Ciência desmente. A doutrina da pluralidade das existências é conforme com a Justiça de Deus; só ela explica o que, sem ela, é inexplicável. Como havíeis de pretender que o seu princípio não estivesse na própria religião?</p>
 </blockquote>
 <h6 id="1011">1011</h6>
-<p>Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrina da reencarnação? <sup class="
-      md-footnote"><a href="#dfref-footnote-25'
-        name="ref-footnote-25">25</a></sup></p>
+<p>Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrina da reencarnação? <sup class='
+      md-footnote"><a href='#dfref-footnote-25'
+        name='ref-footnote-25">25</a></sup></p>
 <blockquote><p>👻 ▸ É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o Espiritismo ressalta a cada passo do texto mesmo das Escrituras sagradas. Os Espíritos, portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.</p>
 <p><strong>São Luís</strong></p>
 </blockquote>
@@ -8313,7 +8292,7 @@
 </blockquote>
 <h6 id="1015">1015</h6>
 <p>Que se deve entender por uma alma a penar?</p>
-<blockquote><p>👻 ▸ Uma alma errante e sofredora, incerta de seu futuro e à qual podeis proporcionar o alívio, que muitas vezes solicita, vindo comunicar-se convosco. 👉 (<a href="
+<blockquote><p>👻 ▸ Uma alma errante e sofredora, incerta de seu futuro e à qual podeis proporcionar o alívio, que muitas vezes solicita, vindo comunicar-se convosco. 👉 (<a href='
         #664">664</a>)</p>
 </blockquote>
 <h6 id="1016">1016</h6>
@@ -8461,7 +8440,7 @@
   leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas
   relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças
   diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos
-  que marcham à testa da civilização. 👉 (<a href="#789">789</a> e <a href=" #793">793</a>) A todos estes respeitos, no
+  que marcham à testa da civilização. 👉 (<a href='#789">789</a> e <a href=' #793">793</a>) A todos estes respeitos, no
   entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais
   vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa
   força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que
@@ -8475,7 +8454,7 @@
   proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas
   relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele
   próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal
-  objetivo. <sup class="md-footnote"><a href=" #dfref-footnote-26' name="ref-footnote-26">26</a></sup></p>
+  objetivo. <sup class='md-footnote"><a href=' #dfref-footnote-26' name='ref-footnote-26">26</a></sup></p>
 <h6 id="conclusão-05">Conclusão 05</h6>
 <p>Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, <strong>ipso facto</strong>, a força do Espiritismo, porque jamais poderia tornar-se universal uma ideia sem fundamento e destituída de lógica. Assim, se o Espiritismo se implanta por toda parte, se, principalmente nas classes cultas, recruta adeptos, como todos facilmente reconhecerão, é que tem um fundo de verdade. Baldados, contra essa tendência, serão todos os esforços dos seus detratores e a prova é que o próprio ridículo, de que procuram cobri-lo, longe de lhe amortecer o ímpeto, parece ter-lhe dado novo vigor, resultado que plenamente justifica o que repetidas vezes os Espíritos hão dito: Não vos inquieteis com a oposição; tudo o que contra vós fizerem se tornará a vosso favor e <strong>os vossos maiores adversários, sem o quererem, servirão à vossa causa</strong>. Contra a vontade de Deus não poderá prevalecer a má vontade dos homens.</p>
 <p>Por meio do Espiritismo, a Humanidade tem que entrar numa nova fase, a do progresso moral que lhe é consequência inevitável. Não mais, pois, vos espanteis da rapidez com que as ideias espíritas se propagam. A causa dessa celeridade reside na satisfação que trazem a todos os que as aprofundam e que nelas veem alguma coisa mais do que fútil passatempo. Ora, como cada um o que acima de tudo quer é a sua felicidade, nada há de surpreendente em que cada um se apegue a uma ideia que faz ditosos os que a esposam.</p>
@@ -8489,7 +8468,7 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 <h6 id="conclusão-07">Conclusão 07</h6>
 <p>O Espiritismo se apresenta sob três aspectos diferentes: o das manifestações, o dos princípios e da filosofia que delas decorrem e o da aplicação desses princípios. Daí, três classes, ou, antes, três graus de adeptos: 1o os que creem nas manifestações e se limitam a comprová-las; para esses, o Espiritismo é uma ciência experimental; 2o os que lhe percebem as consequências morais; 3o os que praticam ou se esforçam por praticar essa moral. Qualquer que seja o ponto de vista, científico ou moral, sob que considerem esses estranhos fenômenos, todos compreendem constituírem eles uma ordem, inteiramente nova, de ideias, que surge e da qual não pode deixar de resultar uma profunda modificação no estado da Humanidade e compreendem igualmente que essa modificação não pode deixar de operar-se no sentido do bem.</p>
 <p>Quanto aos adversários, também podemos classificá-los em três categorias.</p>
-<ol start="' >
+<ol start='' >
 <li>A dos que negam sistematicamente tudo o que é novo, ou deles não venha, e que falam sem conhecimento de causa. A esta classe pertencem todos os que não admitem senão o que possa ter o testemunho dos sentidos. Nada viram, nada querem ver e ainda menos aprofundar. Ficariam mesmo aborrecidos se vissem as coisas muito claramente, porque forçoso lhes seria convir em que não têm razão. Para eles, o Espiritismo é uma quimera, uma loucura, uma utopia, não existe: está dito tudo. São os incrédulos de caso pensado. Ao lado desses, podem colocar-se os que não se dignam de dar aos fatos a mínima atenção, sequer por desencargo de consciência, a fim de poderem dizer: Quis ver e nada vi. Não compreendem que seja preciso mais de meia hora para alguém se inteirar de uma ciência.</li>
 <li>A dos que, sabendo muito bem o que pensar da realidade dos atos, os combatem, todavia, por motivos de interesse pessoal. Para estes, o Espiritismo existe, mas lhe receiam as consequências. Atacam-no como a um inimigo.</li>
 <li>A dos que acham na moral espírita uma censura por demais severa aos seus atos ou às suas tendências. Tomado ao sério, o Espiritismo os embaraçaria; não o rejeitam, nem o aprovam: preferem fechar os olhos. Os primeiros são movidos pelo orgulho e pela presunção; os segundos, pela ambição; os terceiros, pelo egoísmo. Concebe-se que, nenhuma solidez tendo, essas causas de oposição venham a desaparecer com o tempo, pois em vão procuraríamos uma quarta classe de antagonistas, a dos que em patentes provas contrárias se apoiassem demonstrando estudo laborioso e porfiado da questão. Todos apenas opõem a negação, nenhum aduz demonstração séria e irrefutável.</li>
@@ -8516,42 +8495,67 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 <hr />
 <p><strong>Notas de rodapé</strong></p>
 
-<div class=" footnotes-area">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class=' footnotes-area'>
     <hr />
-    <div class="footnote-line"><span class=" md-fn-count">1</span> Nota da Editora (N.E.). Na mitologia grega, é deus
+    <div class='footnote-line"><span class=' md-fn-count">1</span> Nota da Editora (N.E.). Na mitologia grega, é deus
       marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
-      <a name="dfref-footnote-1' href="#ref-footnote-1' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">2</span> Nota de Allan Kardec (A.K.): Há entre esta doutrina
+      <a name='dfref-footnote-1' href='#ref-footnote-1' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">2</span> Nota de Allan Kardec (A.K.): Há entre esta doutrina
       da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada
-      no curso da presente obra. <a name="dfref-footnote-2' href="#ref-footnote-2' title="back to document'
-        class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">3</span> A.K.: A cepa que se vê nesta página é uma
-      representação artística da que os Espíritos desenharam. <a name="dfref-footnote-3' href="#ref-footnote-3'
-        title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">4</span> A.K.: O texto colocado entre aspas, em seguida às
+      no curso da presente obra. <a name='dfref-footnote-2' href='#ref-footnote-2' title='back to document'
+        class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">3</span> A.K.: A cepa que se vê nesta página é uma
+      representação artística da que os Espíritos desenharam. <a name='dfref-footnote-3' href='#ref-footnote-3'
+        title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">4</span> A.K.: O texto colocado entre aspas, em seguida às
       perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando
       haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam
       capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
-      <a name="dfref-footnote-4' href="#ref-footnote-4' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">5</span> N.E.: A definição dada na resposta à <a
-        href="#1">1</a> — Cause Première — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como causa primária, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide Reformador de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do Grande dicionário francês-português, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160:&gt; 👻 ▸ premier, ière … Fig. La cause première, a causa primária, Deus. <a name="
-        dfref-footnote-5' href="#ref-footnote-5' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">6</span> A.K.: Este princípio explica o fenômeno conhecido de
+      <a name='dfref-footnote-4' href='#ref-footnote-4' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">5</span> N.E.: A definição dada na resposta à <a
+        href='#1">1</a> — Cause Première — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como causa primária, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide Reformador de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do Grande dicionário francês-português, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160:&gt; 👻 ▸ premier, ière … Fig. La cause première, a causa primária, Deus. <a name='
+        dfref-footnote-5' href='#ref-footnote-5' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">6</span> A.K.: Este princípio explica o fenômeno conhecido de
       todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por
       exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde
       que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse
       elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a
       água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a
       proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade. <a
-        name="dfref-footnote-6' href="#ref-footnote-6' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">7</span> N.E.: Ano do calendário judaico. <a
-        name="dfref-footnote-7' href="#ref-footnote-7' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">8</span> A.K. Ver a explicação sobre o termo
-      <strong>alma</strong>, 👉 <a href="#LDE-0-02-02-2">LDE-0-02-02</a>. <a name=" dfref-footnote-8'
-        href="#ref-footnote-8' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">9</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-9' href="#ref-footnote-9' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">10</span> A.K.: Segundo os Espíritos, de todos os mundos que
+        name='dfref-footnote-6' href='#ref-footnote-6' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">7</span> N.E.: Ano do calendário judaico. <a
+        name='dfref-footnote-7' href='#ref-footnote-7' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">8</span> A.K. Ver a explicação sobre o termo
+      <strong>alma</strong>, 👉 <a href='#LDE-0-02-02-2">LDE-0-02-02</a>. <a name=' dfref-footnote-8'
+        href='#ref-footnote-8' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">9</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-9' href='#ref-footnote-9' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">10</span> A.K.: Segundo os Espíritos, de todos os mundos que
       compõem o nosso sistema planetário, a Terra é dos que têm habitantes menos adiantados, física e moralmente. Marte
       lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo
       habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá
@@ -8581,54 +8585,73 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
       homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos
       talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela
       quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o
-      homem, nada mais seja possível a Deus. <a name="dfref-footnote-10' href="#ref-footnote-10'
-        title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">11</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-11' href="#ref-footnote-11' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">12</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-12' href="#ref-footnote-12' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">13</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-13' href="#ref-footnote-13' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">14</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-14' href="#ref-footnote-14' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">15</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-15' href="#ref-footnote-15' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">16</span> A.K.: Resposta dada pelo Sr. Monod (Espírito),
+      homem, nada mais seja possível a Deus. <a name='dfref-footnote-10' href='#ref-footnote-10'
+        title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">11</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-11' href='#ref-footnote-11' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">12</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-12' href='#ref-footnote-12' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">13</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-13' href='#ref-footnote-13' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">14</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-14' href='#ref-footnote-14' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">15</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-15' href='#ref-footnote-15' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">16</span> A.K.: Resposta dada pelo Sr. Monod (Espírito),
       pastor protestante em Paris, morto em abril de 1856. A resposta anterior, 664, é do Espírito <strong>São
-        Luís</strong>. <a name="dfref-footnote-16' href="#ref-footnote-16' title="back to document'
-        class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">17</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-17' href="#ref-footnote-17' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">18</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-18' href="#ref-footnote-18' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">19</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-19' href="#ref-footnote-19' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">20</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-20' href="#ref-footnote-20' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">21</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-21' href="#ref-footnote-21' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">22</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-22' href="#ref-footnote-22' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">23</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-23' href="#ref-footnote-23' title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">24</span> N.E.: Frase atribuída ao filósofo grego
-      <strong>Sócrates</strong> (470–399 a.C.) <a name="dfref-footnote-24' href="#ref-footnote-24'
-        title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">25</span> N.E.: Na 2ª impressão da 2ª edição de 📘 O Livro dos
+        Luís</strong>. <a name='dfref-footnote-16' href='#ref-footnote-16' title='back to document'
+        class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">17</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-17' href='#ref-footnote-17' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">18</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-18' href='#ref-footnote-18' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">19</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-19' href='#ref-footnote-19' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">20</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-20' href='#ref-footnote-20' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">21</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-21' href='#ref-footnote-21' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">22</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-22' href='#ref-footnote-22' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">23</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-23' href='#ref-footnote-23' title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">24</span> N.E.: Frase atribuída ao filósofo grego
+      <strong>Sócrates</strong> (470–399 a.C.) <a name='dfref-footnote-24' href='#ref-footnote-24'
+        title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">25</span> N.E.: Na 2ª impressão da 2ª edição de 📘 O Livro dos
       Espíritos, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta
       mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº
       1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em
       aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à
       questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar
-      de um simples descuido de revisão gráfica. <a name="dfref-footnote-25' href="#ref-footnote-25'
-        title="back to document' class="reversefootnote">↩</a></div>
-    <div class="footnote-line"><span class=" md-fn-count">26</span> N.E.: Ver 👉 Nota explicativa. <a
-        name="dfref-footnote-26' href="#ref-footnote-26' title="back to document' class="reversefootnote">↩</a></div>
+      de um simples descuido de revisão gráfica. <a name='dfref-footnote-25' href='#ref-footnote-25'
+        title='back to document' class='reversefootnote'>↩</a></div>
+    <div class='footnote-line"><span class=' md-fn-count">26</span> N.E.: Ver 👉 Nota explicativa. <a
+        name='dfref-footnote-26' href='#ref-footnote-26' title='back to document' class='reversefootnote'>↩</a></div>
     </div>
 
 <div class="gold-fleuron"><span class="gold-fleuron">⚜️</span></div>
 
 <p>&nbsp;</p>
+</div>
+</div>
+
+<!-- EXTERNAL WRAPPER -->
+<div id="ext-wrapper">
+<div id="ext-top">
+
+<a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">🌐</a>
+<a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">📔</a>
+<a target="ext" href="./maps/paris.html" title="mapa">📍</a>
+
+<button id="shades" onclick="toggleShades()" title="cortina anti-distração">​👁️</button>
+
+<button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
+</div>
+<div id="ext-panel" class="shades-on">
+<iframe id="ext" name="ext" src="./ext.html" title="painel complementar"></iframe>
+</div>
+</div>
 </div>
 
 <!-- JAVA -->
@@ -8636,5 +8659,4 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 
 </body>
 
-</html>
 </html>

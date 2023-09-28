@@ -1,0 +1,204 @@
+<html>
+
+<head>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: 200px 1fr 1fr;
+      grid-template-rows: 50px 200px 1fr 200px;
+      gap: 0px 0px;
+      grid-auto-flow: column;
+      grid-template-areas:
+        "brand tools links"
+        "books content external"
+        "summary content external"
+        "footer content external";
+      width: 100%;
+      height: 100%;
+    }
+
+    .brand {
+      grid-area: brand;
+    }
+
+    .books {
+      grid-area: books;
+    }
+
+    .summary {
+      grid-area: summary;
+    }
+
+    .footer {
+      grid-area: footer;
+    }
+
+    .tools {
+      grid-area: tools;
+    }
+
+    .content {
+      grid-area: content;
+    }
+
+    .links {
+      grid-area: links;
+    }
+
+    .external {
+      grid-area: external;
+    }
+
+    .container div {
+      border: 1px solid grey;
+    }
+
+    @media only screen and (max-width: 782px) {
+
+ grid-template-areas:
+        "tools"
+        "content"
+        "content"
+        "content";
+
+      .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 50px 1fr;
+      }
+
+      .brand {
+        display: none;
+      }
+
+      .books {
+        display: none;
+      }
+
+      .summary {
+        display: none;
+      }
+
+      .footer {
+        display: none;
+      }
+
+      .tools {
+        display: block; width: 100vw
+      }
+
+      .content {
+        display: block;
+      }
+
+      .links {
+        display: none;
+      }
+
+      .external {
+        display: none;
+      }
+    }
+
+    @media only screen and (min-width: 783px) and (max-width: 1053px) {
+      .container {
+        display: grid;
+        grid-template-columns: 200px 1fr 1fr;
+        grid-template-rows: 50px 200px 1fr 200px;
+      }
+
+      .brand {
+        display: none;
+      }
+
+      .books {
+        display: none;
+      }
+
+      .summary {
+        display: none;
+      }
+
+      .footer {
+        display: none;
+      }
+
+      .tools {
+        display: block;
+      }
+
+      .content {
+        display: block;
+      }
+
+      .links {
+        display: block;
+      }
+
+      .external {
+        display: block;
+      }
+    }
+
+    @media only screen and (min-width: 1054px) {
+
+      .container {
+        display: grid;
+        grid-template-columns: 200px 1fr 1fr;
+        grid-template-rows: 50px 200px 1fr 200px;
+      }
+
+      .brand {
+        display: block;
+      }
+
+      .books {
+        display: block;
+      }
+
+      .summary {
+        display: block;
+      }
+
+      .footer {
+        display: block;
+      }
+
+      .tools {
+        display: block;
+      }
+
+      .content {
+        display: block;
+      }
+
+      .links {
+        display: block;
+      }
+
+      .external {
+        display: block;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="brand">brand</div>
+    <div class="books">books</div>
+    <div class="summary">summary</div>
+    <div class="footer">footer</div>
+    <div class="tools">tools</div>
+    <div class="content">content</div>
+    <div class="links">links</div>
+    <div class="external">external</div>
+  </div>
+</body>
+
+</html>

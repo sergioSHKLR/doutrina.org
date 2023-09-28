@@ -33,13 +33,11 @@
 <link rel="manifest" href="./pwa/site.webmanifest">
 <meta name="theme-color" content="#4ec1f5">
 <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
-<!--
 <script>
  if (typeof navigator.serviceWorker !== 'undefined') {
  navigator.serviceWorker.register('/pwa/sw.js')
  }
 </script>
--->
 
 <!-- HYPO 
 <script type="application/json" class="js-hypothesis-config">
@@ -50,6 +48,10 @@
 
 <script async src="https://hypothes.is/embed.js">
 </script> -->
+
+<style>
+    blockquote p {border: 1 px solid red !important;
+    content: openquote;}</style>
 
 </head>
 
@@ -107,14 +109,14 @@
 <!-- BRAND -->
 <a id="content-logo" href="./index.html" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
 
-<!-- TEXT TOOLS -->
+<!-- TEXT EFFECTS -->
 <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
 <div id="text-effects">
 <button onclick="fontSans()" title="sans">🖊️</button>
 <button onclick="fontSerif()" title="serif">🖋️</button>
 <button onclick="fontMono()" title="mono"><span class="flipH">✏️</span></button>
-<button onclick="fontSmall()" title="letra menor">​🔡</button>
-<button onclick="fontLarge()" title="letra grande">🔠​</button>
+<button onclick="fontSmall()" title="letra menor">​🔡</span></button>
+<button onclick="fontLarge()" title="letra grande">🔠​</span></button>
 <button onclick="bgSepia()" title="sépia">🟤</button>
 <button onclick="bgBlack()" title="negro">⚫</button>
 <button onclick="lineNarrow()" title="estreito">1️⃣</button>

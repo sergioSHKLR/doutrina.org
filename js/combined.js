@@ -169,3 +169,13 @@ function decreaseFontsize() {
   let mainDiv = document.getElementById("content-panel");
   mainDiv.style.fontSize = 'small'; // change font size to xx-large
 }
+
+// When the user scrolls the page, execute scrollIndicator 
+window.onscroll = function() {scrollIndicator()};
+
+function scrollIndicator() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("progressBar").style.width = scrolled + "%";
+}

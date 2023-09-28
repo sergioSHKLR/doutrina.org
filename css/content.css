@@ -91,9 +91,9 @@
 }
 
 #content-panel a:any-link {
-  text-decoration: underline 1.5px solid mediumblue;
+  text-decoration: underline 1.5px solid #0057AD;
   text-underline-offset: 2px;
-  color: mediumblue;
+  color: #0057AD;
 }
 
 a:any-link:focus,
