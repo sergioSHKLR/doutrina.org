@@ -33,11 +33,13 @@
 <link rel="manifest" href="./pwa/site.webmanifest">
 <meta name="theme-color" content="#4ec1f5">
 <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
+<!--
 <script>
  if (typeof navigator.serviceWorker !== 'undefined') {
  navigator.serviceWorker.register('/pwa/sw.js')
  }
 </script>
+-->
 
 <!-- HYPO 
 <script type="application/json" class="js-hypothesis-config">
@@ -208,13 +210,13 @@ CONTENT
 <button id="close-external" onclick="closeExternal()" title="fechar painel complementar">✖️</button>
 </div>
 <div id="ext-panel" class="shades-on">
-<iframe id="ext" name="ext" src="./ext.html" title="painel complementar"></iframe>
+<iframe id="ext" name="ext" src="../ext.html" title="painel complementar"></iframe>
 </div>
 </div>
 </div>
 
 <!-- JAVA -->
-<script src="./js/combined.js"></script>
+<script src="../js/combined.js"></script>
 
 </body>
 
