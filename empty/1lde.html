@@ -33,13 +33,11 @@
 <link rel="manifest" href="./pwa/site.webmanifest">
 <meta name="theme-color" content="#4ec1f5">
 <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
-<!--
 <script>
  if (typeof navigator.serviceWorker !== 'undefined') {
  navigator.serviceWorker.register('/pwa/sw.js')
  }
 </script>
--->
 
 <!-- HYPO 
 <script type="application/json" class="js-hypothesis-config">
@@ -51,7 +49,9 @@
 <script async src="https://hypothes.is/embed.js">
 </script> -->
 
-
+<style>
+    blockquote p {border: 1 px solid red !important;
+    content: openquote;}</style>
 
 </head>
 
@@ -166,7 +166,7 @@
 <!-- BRAND -->
 <a id="content-logo" href="./index.html" title="voltar para o início">💧&nbsp;doutrina.org&nbsp;</a>
 
-<!-- TEXT TOOLS -->
+<!-- TEXT EFFECTS -->
 <button onclick="textEffects()" title="ajustes de texto">⚙️</button>
 <div id="text-effects">
 <button onclick="fontSans()" title="sans">🖊️</button>
@@ -179,9 +179,19 @@
 <button onclick="lineNarrow()" title="estreito">1️⃣</button>
 <button onclick="lineWide()" title="largo">3️⃣</button><br>
 </div>
-
 <button id="btn" title="tela cheia/normal">🖥️</button>
 <button id="open-external" onclick="openExternal()" title="abrir painel complementar">⬅️</button>
+</div>
+
+<!-- CONTENT -->
+<div id="content-panel">
+
+CONTENT
+
+<div class="gold-fleuron"><span class="gold-fleuron">⚜️</span></div>
+
+<p>&nbsp;</p>
+
 </div>
 </div>
 
@@ -201,16 +211,6 @@
 <iframe id="ext" name="ext" src="./ext.html" title="painel complementar"></iframe>
 </div>
 </div>
-</div>
-
-<!-- CONTENT -->
-<div id="content-panel">
-
-CONTENT
-
-<div class="gold-fleuron"><span class="gold-fleuron">⚜️</span></div>
-
-<p>&nbsp;</p>
 </div>
 
 <!-- JAVA -->
