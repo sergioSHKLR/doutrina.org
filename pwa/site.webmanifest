@@ -1,6 +1,6 @@
 {
   "id": "/",
-  "scope": "/",
+  "scope": "https://doutrina.org/",
   "name": "doutrina.org",
   "display": "fullscreen",
   "start_url": "https://doutrina.org",
