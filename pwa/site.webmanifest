@@ -3,7 +3,7 @@
   "scope": "/",
   "name": "doutrina.org",
   "display": "fullscreen",
-  "start_url": "https://doutrina.org/",
+  "start_url": "https://doutrina.org",
   "short_name": "doutrina",
   "theme_color": "#4ec1f5",
   "description": "Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original.",
