@@ -2,80 +2,87 @@
 <html lang="pt-BR">
 
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>grid</title>
-<style>
-* {box-sizing: border-box;}
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>grid</title>
 
-body {margin: 0; padding: 0; display: inline-flex;}
+ <!-- CSS -->
+ <link rel="stylesheet" href="./grid.css">
 
-body * {border: 1px solid red; text-align: center; font-size: 30px;}
+	<link href="./fonts/css/fontawesome.css" rel="stylesheet">
+  <link href="./fonts/css/brands.css" rel="stylesheet">
+  <link href="./fonts/css/solid.css" rel="stylesheet">
 
-#col1, #col2, #col3 {height: 99.8vh; border: 1px solid blue}
-
-#col1 {width: 200px}
-
-#col2 {width: calc(60vw - 200px);}
-
-#col3 {width: calc(40vw - 23px);}
-
-.top {height: 50px;}
-
-#side-top {height: 250px;}
-#side-mid {height:calc(99.8vh - 550px);}
-#side-bot {height: 250px;}
-
-@media only screen and (max-width: 782px) {
-
-#col1 {display: none;}
-#col2 {display: block; width:calc(100vw - 23px);}
-#col3 {display: none;}
-
-}
-
-@media only screen and (min-width: 783px) and (max-width: 1053px) {
-
-#col1 {display: none;}
-#col2 {display: block; width: 60vw;}
-#col3 {display: block;}
-
-}
-
-@media only screen and (min-width: 1054px) {
-
-#col1 {display: block;}
-#col2 {display: block;}
-#col3 {display: block;}
-
-}
-
-
-</style>
-
+ <!-- ICONS -->
+<script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
+	
 </head>
 
-<body>
-<div id="col1">
-<div class="top">brand</div>
+<body class="m-0 p-0 d-flex f-12">
 
-<div id="side-top">books</div>
-<div id="side-mid">toc</div>
-<div id="side-bot">footer</div>
-</div></div>
-
-<div id="col2">
-<div class="top">tools</div>
-main
-</div>
-
-<div id="col3">
-<div class="top">links</div>
-aside
+ <div id="col1" class="side fh bg-dgrey p-10 sans">
+ <div id="brand" class="top lh-50 bg-dgrey"><span>💧 doutrina.org</span>
+	 <button class="f-right f-light"><i class="fa-solid fa-xmark f-20"></i></button>
 </div>
 
 
+ <div id="side-top" class="narrow bor-bottom wide f-light">
+<br>
+<i class="fa-solid fa-book f-16"></i> O Livro dos Espíritos<br>
+<i class="fa-solid fa-book f-16"></i> O Livro dos Médiuns<br>
+<i class="fa-solid fa-book f-16"></i> O Evangelho<br>
+<i class="fa-solid fa-book f-16"></i> O Céu e o Inferno<br>
+<i class="fa-solid fa-book f-16"></i> A Gênese<br>
 
+
+</div>
+ <div id="side-mid" class="bor-bottom">toc</div>
+
+ <div id="side-bot" class="d-block wide f-light">
+
+<br>
+<i class="fa-solid fa-bug f-16"></i> Erros<br>
+<i class="fa-regular fa-calendar-days f-16"></i> Atualizado<br>
+<i class="fa-regular fa-comments f-16"></i> Forum<br>
+<i class="fa-regular fa-circle-question f-16"></i> Wiki<br>
+<i class="fa-solid fa-scale-balanced f-16"></i> Legal<br>
+<i class="fa-solid fa-pencil f-16"></i> Editar<br>
+<i class="fa-regular fa-circle f-16"></i> shklr.org<br>
+	 
+</div>
+ </div>
+ </div>
+
+ <div id="col2" class="main-d fh bg-lwhite ">
+ <div id="tools" class="top bor-bottom bg-dwhite p-10 f-20">
+
+	 <button><i class="fa-solid fa-right-from-bracket f-20"></i></button>
+<button><i class="fa-solid fa-expand f-20"></i></button>
+<button><i class="fa-solid fa-compress f-20"></i></button>
+<button><i class="fa-solid fa-sliders f-20"></i></button>
+
+</div>
+ <div id="main" class="bg-lwhite f-20 p-10">
+
+<p>main</p>
+
+</div>
+ </div>
+
+ <div id="col3" class="aside fh bg-lblue bor-left">
+ <div id="links" class="top bg-dblue bor-bottom bor-left p-10 f-20">
+
+<button><i class="fa-solid fa-globe f-20"></i></button>
+<button><i class="fa-regular fa-file-lines f-20"></i></button>
+	 <button><i class="fa-solid fa-map-pin f-20"></i></button>
+	 <button><i class="fa-solid fa-eye f-20"></i></button>
+<button><i class="fa-solid fa-eye-slash f-20"></i></button>
+</div>
+ <div id="aside" class="">
+ <iframe id="ext-iframe" class="aside fh-panel bor-none" name="ext" src="./ext.html"></iframe>
+ </div>
+ </div>
 
 </body>
+
 </html>
