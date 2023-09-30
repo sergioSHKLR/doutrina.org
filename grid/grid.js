@@ -9,7 +9,7 @@ function openSidebar() {
 
 function closeSidebar() {
   document.getElementById("col1").style.display = "none";
-  document.getElementById("open-sidebar").style.display = "inline-flex";
+  document.getElementById("open-sidebar").style.display = "block";
 }
 
 
