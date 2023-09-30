@@ -187,7 +187,9 @@
 
 #brand {
   font-family: 'Trebuchet MS';
-  font-size: 16px;
+  font-size: 22px;
+position: relative;
+top: -5px
 }
 
 /* BUTTON */
@@ -198,7 +200,7 @@ button {
   border: none;
   height: 40px;
   background-color: transparent;
-  opacity: .75;
+  opacity: .65;
 }
 
 button:hover,
@@ -207,15 +209,23 @@ button:active {
   opacity: 1;
 }
 
+/* SHADES-ON */
+.shades-on {
+  transition-timing-function: ease-in-out;
+  transition-duration: .2s;
+  filter: brightness(0.15);
+}
+
 /* LINKS */
 
+
+/* VERTICAL ALIGN */
+i {vertical-align: middle;}
 
 /* IFRAME */
 iframe {
   filter: invert(.04);
 }
-
-i::after {content: " "" " "}
 
 @media only screen and (max-width: 782px) {
 
@@ -240,9 +250,12 @@ i::after {content: " "" " "}
     display: none;
   }
 
+   #open-sidebar, #close-sidebar {display: inline-flex;}
+
+
   #col2 {
     display: block;
-    width: 60vw;
+    width: calc(60vw - 23px);
   }
 
   #col3 {
@@ -256,6 +269,8 @@ i::after {content: " "" " "}
   #col1 {
     display: block;
   }
+
+  #open-sidebar, #close-sidebar {display: none;}
 
   #col2 {
     display: block;

@@ -6,14 +6,14 @@
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>grid</title>
 
- <!-- CSS -->
+<!-- CSS -->
  <link rel="stylesheet" href="./grid.css">
 
-	<link href="./fonts/css/fontawesome.css" rel="stylesheet">
-  <link href="./fonts/css/brands.css" rel="stylesheet">
-  <link href="./fonts/css/solid.css" rel="stylesheet">
+<link href="./fonts/css/fontawesome.css" rel="stylesheet">
+<link href="./fonts/css/brands.css" rel="stylesheet">
+<link href="./fonts/css/solid.css" rel="stylesheet">
 
- <!-- ICONS -->
+<!-- ICONS -->
 <script src="https://kit.fontawesome.com/891335d1d9.js" crossorigin="anonymous"></script>
 	
 </head>
@@ -22,18 +22,17 @@
 
  <div id="col1" class="side fh bg-dgrey p-10 sans">
  <div id="brand" class="top lh-50 bg-dgrey"><span>💧 doutrina.org</span>
-	 <button class="f-right f-light"><i class="fa-solid fa-xmark f-20"></i></button>
+	 <button class="f-right f-light" id="close-sidebar" onclick="closeSidebar()"><i class="fa-solid fa-xmark f-20"></i></button>
 </div>
 
-
  <div id="side-top" class="narrow bor-bottom wide f-light">
-<br>
-<i class="fa-solid fa-book f-16"></i> O Livro dos Espíritos<br>
-<i class="fa-solid fa-book f-16"></i> O Livro dos Médiuns<br>
-<i class="fa-solid fa-book f-16"></i> O Evangelho<br>
-<i class="fa-solid fa-book f-16"></i> O Céu e o Inferno<br>
-<i class="fa-solid fa-book f-16"></i> A Gênese<br>
 
+<br>
+<i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;O Livro dos Espíritos<br>
+<i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;O Livro dos Médiuns<br>
+<i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;O Evangelho<br>
+<i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;O Céu e o Inferno<br>
+<i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;A Gênese<br>
 
 </div>
  <div id="side-mid" class="bor-bottom">toc</div>
@@ -41,25 +40,24 @@
  <div id="side-bot" class="d-block wide f-light">
 
 <br>
-<i class="fa-solid fa-bug f-16"></i> Erros<br>
-<i class="fa-regular fa-calendar-days f-16"></i> Atualizado<br>
-<i class="fa-regular fa-comments f-16"></i> Forum<br>
-<i class="fa-regular fa-circle-question f-16"></i> Wiki<br>
-<i class="fa-solid fa-scale-balanced f-16"></i> Legal<br>
-<i class="fa-solid fa-pencil f-16"></i> Editar<br>
-<i class="fa-regular fa-circle f-16"></i> shklr.org<br>
+<i class="fa-regular fa-circle-question f-16"></i>&nbsp;&nbsp;Wiki<br>
+<i class="fa-regular fa-comments f-16"></i>&nbsp;&nbsp;Forum<br>
+<i class="fa-solid fa-bug f-16"></i>&nbsp;&nbsp;Erros<br>
+<i class="fa-solid fa-pencil f-16"></i>&nbsp;&nbsp;Editar<br>
+<i class="fa-regular fa-calendar-days f-16"></i>&nbsp;&nbsp;Atualizado<br>
+<i class="fa-solid fa-scale-balanced f-16"></i>&nbsp;&nbsp;Legal<br>
+<i class="fa-regular fa-circle-dot f-16"></i>&nbsp;&nbsp;shklr.org<br>
 	 
 </div>
- </div>
- </div>
+</div>
+</div>
 
- <div id="col2" class="main-d fh bg-lwhite ">
- <div id="tools" class="top bor-bottom bg-dwhite p-10 f-20">
+<div id="col2" class="main-d fh bg-lwhite ">
+<div id="tools" class="top bor-bottom bg-dwhite p-10 f-20">
 
-	 <button><i class="fa-solid fa-right-from-bracket f-20"></i></button>
-<button><i class="fa-solid fa-expand f-20"></i></button>
-<button><i class="fa-solid fa-compress f-20"></i></button>
-<button><i class="fa-solid fa-sliders f-20"></i></button>
+<button id="open-sidebar" onclick="openSidebar()"><i class="fa-solid fa-right-from-bracket f-20"></i></button>
+<button class="f-right" onclick="toggleFullscreen()"><i class="fa-solid fa-expand f-20"></i></button>
+<button class="f-right"><i class="fa-solid fa-sliders f-20"></i></button>
 
 </div>
  <div id="main" class="bg-lwhite f-20 p-10">
@@ -67,22 +65,23 @@
 <p>main</p>
 
 </div>
- </div>
+</div>
 
- <div id="col3" class="aside fh bg-lblue bor-left">
- <div id="links" class="top bg-dblue bor-bottom bor-left p-10 f-20">
+<div id="col3" class="aside fh bg-lblue bor-left">
+<div id="links" class="top bg-dblue bor-bottom bor-left p-10 f-20">
 
 <button><i class="fa-solid fa-globe f-20"></i></button>
-<button><i class="fa-regular fa-file-lines f-20"></i></button>
-	 <button><i class="fa-solid fa-map-pin f-20"></i></button>
-	 <button><i class="fa-solid fa-eye f-20"></i></button>
-<button><i class="fa-solid fa-eye-slash f-20"></i></button>
+<button><i class="fa-regular fa-book f-20"></i></button>
+<button><i class="fa-solid fa-map-pin f-20"></i></button>
+<button class="f-right" onclick="toggleShades()"><i class="fa-solid fa-circle-half-stroke f-20"></i></button>
+
 </div>
  <div id="aside" class="">
  <iframe id="ext-iframe" class="aside fh-panel bor-none" name="ext" src="./ext.html"></iframe>
  </div>
  </div>
 
+<script src="./grid.js"></script>
 </body>
 
 </html>
