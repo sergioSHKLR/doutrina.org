@@ -190,8 +190,7 @@
 #brand {
   font-family: 'Trebuchet MS';
   font-size: 22px;
-position: relative;
-top: -5px
+  color: white !important;
 }
 
 /* BUTTON */
