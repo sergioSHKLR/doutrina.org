@@ -40,16 +40,17 @@
 
 </head>
 
-<body class="m-0 p-0 d-flex f-12">
+<body class="m-0 p-0 d-flex">
 
- <div id="col1" class="side fh bg-dgrey lh-50 p-10 sans">
- <div id="brand" class="top bg-dgrey d-flex"><button class="f-20" title="voltar ao início">💧 doutrina.org</button>
+ <div id="col1" class="side fh bg-dgrey lh-50 f-12 sans">
 
-<button class="f-right f-light w-40" id="close-sidebar" onclick="closeSidebar()" title="fechar painel"><i class="fa-solid fa-xmark f-20"></i></button>
+ <div id="brand" class="top bg-dgrey p-10"><button class="f-20 bor-none f-light" title="voltar ao início">💧 doutrina.org</button>
+
+<button class="f-right w-40 d-none" id="close-sidebar" onclick="closeSidebar()" title="fechar painel"><i class="fa-solid fa-xmark f-20 f-light";"></i></button>
 
 </div>
 
- <div id="side-top" class="narrow bor-bottom wide f-light">
+ <div id="side-top" class="narrow bor-bottom wide f-light p-10">
 
 <br>
 <i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;O Livro dos Espíritos<br>
@@ -59,9 +60,9 @@
 <i class="fa-solid fa-book-bookmark f-16"></i>&nbsp;&nbsp;A Gênese<br>
 
 </div>
- <div id="side-mid" class="bor-bottom">toc</div>
+ <div id="side-mid" class="bor-bottom p-10">toc</div>
 
- <div id="side-bot" class="d-block wide f-light">
+ <div id="side-bot" class="d-block wide f-light p-10">
 
 <br>
 <i class="fa-solid fa-book-open f-16"></i>&nbsp;&nbsp;Wiki<br>
@@ -70,23 +71,19 @@
 <i class="fa-solid fa-pencil f-16"></i>&nbsp;&nbsp;Editar<br>
 <i class="fa-regular fa-calendar-days f-16"></i>&nbsp;&nbsp;Atualizado<br>
 <i class="fa-solid fa-scale-balanced f-16"></i>&nbsp;&nbsp;Legal<br>
-shklr.org 2023&nbsp;&nbsp;
-<i class="fa-brands fa-creative-commons f-16"></i>&nbsp;
-<i class="fa-brands fa-creative-commons-by f-16"></i>&nbsp;
-<i class="fa-brands fa-creative-commons-nc f-16"></i>&nbsp;
-<i class="fa-brands fa-creative-commons-share f-16"></i>
+<i class="fa-brands fa-creative-commons f-16"></i>&nbsp;&nbsp;shklr.org 2023
 </div>
 </div>
 </div>
 
 <div id="col2" class="main-d fh bg-lwhite ">
-<div id="tools" class="top bor-bottom bg-dwhite p-10 f-20">
+<div id="tools" class="top bor-bottom bg-dwhite p-10 f-20 d-flex">
 
-<button id="open-sidebar" class="w-40" onclick="openSidebar()" title="abrir painel"><i class="fa-solid fa-right-from-bracket f-20"></i></button>
+<button id="open-sidebar" class="w-40 d-none" onclick="openSidebar" title="abrir painel"><i class="fa-solid fa-right-from-bracket f-20"></i></button>
 
-<button class="f-right w-40" onclick="toggleFullscreen()" title="ligar/desligar tela cheia"><i class="fa-solid fa-display f-20"></i></button>
+<button class="w-40" onclick="toggleFullscreen()" title="ligar/desligar tela cheia"><i class="fa-solid fa-display f-20"></i></button>
 
-<button class="f-right" class="w-40" title="ajustes de texto"><i class="fa-solid fa-sliders f-20"></i></button>
+<button class="w-40" title="ajustes de texto"><i class="fa-solid fa-sliders f-20"></i></button>
 
 </div>
  <div id="main" class="bg-lwhite f-20 p-10">
@@ -102,10 +99,10 @@ shklr.org 2023&nbsp;&nbsp;
 <button class="w-40" title="enciclopédia"><i class="fa-solid fa-globe f-20"></i></button>
 <button class="w-40" title="dicionário"><i class="fa-solid fa-book f-20"></i></button>
 <button class="w-40" title="mapa"><i class="fa-solid fa-map-pin f-20"></i></button>
-<button class="f-right" onclick="toggleShades()" title="desligar/ligar cortina"><i class="fa-solid fa-circle-half-stroke f-20"></i></button>
+<button class="f-right w-40" onclick="toggleShades()" title="desligar/ligar cortina"><i class="fa-solid fa-circle-half-stroke f-20"></i></button>
 
 </div>
- <div id="aside" class="">
+ <div id="aside" class="f-12">
  <iframe id="ext-iframe" class="aside fh-panel bor-none" name="ext" src="./ext.html"></iframe>
  </div>
  </div>
