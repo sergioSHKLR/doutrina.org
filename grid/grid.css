@@ -6,6 +6,7 @@
 body {
   max-width: calc(100vw - 23px);
   max-height: 99vh;
+  line-height: 21px;
 }
 
 /* BOX SIZING */
@@ -21,19 +22,14 @@ body {
 
 #side-top {
   height: 1fr;
-  line-height: 2;
 }
 
 #side-mid {
   height: 1fr;
-  line-height: 2;
-
 }
 
 #side-bot {
   height: 1fr;
-  line-height: 2;
-
 }
 
 /* MARGIN */
@@ -218,8 +214,8 @@ button#brand {
 
 /* BUTTON */
 button {
-  padding: 0px;
-  border-radius: 5px;
+  padding: 4px;
+  border-radius: 6px;
   border: none;
   height: 40px;
   background-color: transparent;
@@ -227,16 +223,21 @@ button {
   position: relative;
   top: -5px;
   margin: 0 5px;
-  ;
 }
 
 button:hover,
 button:focus,
 button:active {
-  outline: 3px solid orange;
   opacity: 1;
 }
 
+
+/* HR */
+.side hr {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 /* SHADES-ON */
 .shades-on {
@@ -246,6 +247,39 @@ button:active {
 }
 
 /* LINKS */
+.main a:any-link {
+  color: #0057AD;
+  text-decoration: none;
+}
+
+.main a:any-link:hover {
+  color: dodgerblue;
+}
+
+.side a:any-link {
+  color: #adadad;
+  text-decoration: none;
+}
+
+.side a:any-link:hover {
+  color: white;
+}
+
+#links a:any-link {
+  color: #616161;
+  text-decoration: none;
+  border: none;
+  padding: 6px 6px 10px 6px;
+  position: relative;
+  top: 2px;
+  border-radius: 6px;
+  margin: 3px;
+}
+
+#links a:any-link:hover {
+  color: #000;
+}
+
 
 
 /* VERTICAL ALIGN */
@@ -285,7 +319,8 @@ iframe {
     display: none;
   }
 
-  #open-sidebar, #close-sidebar {
+  #open-sidebar,
+  #close-sidebar {
     display: block;
   }
 
@@ -308,7 +343,8 @@ iframe {
     display: block;
   }
 
-  #open-sidebar, #close-sidebar {
+  #open-sidebar,
+  #close-sidebar {
     display: none;
   }
 
