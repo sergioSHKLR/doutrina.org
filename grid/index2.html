@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>doutrina.org</title>
+<meta name="description"
+ content="Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original.">
+<meta name="author" content="sergioSHKLR, info@doutrina.org">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://doutrina.org">
+<meta property="og:type" content="website">
+<meta property="og:title" content="doutrina.org">
+<meta property="og:description"
+ content="Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original.">
+<meta property="og:image" content="./pwa/screenshot.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="./pwa/screenshot.png">
+<meta name="twitter:title" content="doutrina.org">
+<meta name="twitter:description"
+ content="Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original.">
+<meta name="twitter:image" content="./pwa/screenshot.png">
+
+<!-- CSS -->
+ <link rel="stylesheet" href="./grid2.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+<!-- ICONS -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+<!-- PWA -->
+<meta name="theme-color" content="#4ec1f5">
+<link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
+
+<!-- HYPO -->
+<script async src="https://hypothes.is/embed.js">
+</script>
+
+</head>
+
+<body class="m-0 p-0 d-flex" style="font-family: 'Inter';">
+
+ <div id="col1" class="side fh bg-lwhite" style="background-color: #222; color: #fff;">
+
+ <div id="brand" class="top p-10 bor-right"><button class="f-20 bor-none" title="voltar ao início" style="font-size: 20px;">💧 doutrina.org&nbsp;&nbsp;</button>
+
+<button class="f-right w-40" id="close-sidebar" onclick="closeSidebar()" title="fechar painel"><span class="material-symbols-outlined">
+close
+</span></button>
+
+</div>
+
+
+ <div id="side-top" class="side narrow bor-top bor-bottom bor-right wide f-light p-10">
+<span>Obras Básicas</span>
+<br>
+<a href=""><span class="material-symbols-outlined">
+book
+</span>&nbsp;&nbsp;O Livro dos Espíritos</a><br>
+<a href=""><span class="material-symbols-outlined">
+book
+</span>&nbsp;&nbsp;O Livro dos Médiuns</a><br>
+<a href=""><span class="material-symbols-outlined">
+book
+</span>&nbsp;&nbsp;O Evangelho</a><br>
+<a href=""><span class="material-symbols-outlined">
+book
+</span>&nbsp;&nbsp;O Céu e o Inferno</a><br>
+<a href=""><span class="material-symbols-outlined">
+book
+</span>&nbsp;&nbsp;A Gênese</a><br>
+
+</div>
+ <div id="side-mid" class="side bor-bottom bor-right p-10">
+
+<span>Sumário</span>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+</div>
+
+ <div id="side-bot" class="side d-block bor-right wide f-light p-10">
+<span>Detalhes</span>
+<br>
+<a href="https://github.com/sergioSHKLR/doutrina.org/wiki"><span class="material-symbols-outlined">
+info
+</span></i>&nbsp;&nbsp;Wiki</a><br>
+<a href="https://github.com/sergioSHKLR/doutrina.org/discussions"><span class="material-symbols-outlined">
+forum
+</span></i>&nbsp;&nbsp;Forum</a><br>
+<a href="https://github.com/sergioSHKLR/doutrina.org/issues"><span class="material-symbols-outlined">
+bug_report
+</span>&nbsp;&nbsp;Erros</a><br>
+<a href=""><span class="material-symbols-outlined">
+edit
+</span>&nbsp;&nbsp;Editar</a><br>
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br"><span class="material-symbols-outlined">
+balance
+</span>&nbsp;&nbsp;Legal</a><br>
+<a href="https://shklr.org"><span class="material-symbols-outlined">
+trip_origin
+</span>&nbsp;&nbsp;shklr.org</a><br>
+<span class="material-symbols-outlined">
+event
+</span>&nbsp;&nbsp;Atualizado<br><br>
+</div>
+</div>
+</div>
+
+<div id="col2" class="main-d fh" style="background-color: ivory;">
+<div id="tools" class="top bor-bottom p-10 f-20 d-flex">
+
+<button id="open-sidebar" class="w-40" onclick="openSidebar()" title="abrir painel"><span class="material-symbols-outlined">
+left_panel_open
+</span></button>
+
+<button class="w-40" onclick="toggleFullscreen()" title="ligar/desligar tela cheia"><span class="material-symbols-outlined">
+fullscreen
+</span></button>
+
+<button class="w-40" title="ajustes de texto"><span class="material-symbols-outlined">
+custom_typography
+</span></button>
+
+</div>
+ <div id="main" class="f-20 p-10 oy-scroll fh-panel">
+
+
+MAIN
+
+</div>
+</div>
+
+<div id="col3" class="aside fh bor-left" style="background-color: aliceblue;">
+<div id="links" class="top bor-bottom p-10 f-20">
+
+<a target="ext" href="https://pt.m.wikipedia.org" class="w-40" title="enciclopédia"><span class="material-symbols-outlined">
+travel_explore
+</span></a>
+<a target="ext" href="https://pt.m.wiktionary.org" class="w-40" title="dicionário"><span class="material-symbols-outlined">
+quick_reference_all
+</span></a>
+<a target="ext" href="../maps/paris.html" class="w-40" title="mapa"><span class="material-symbols-outlined">
+location_on
+</span></a>
+<button class="f-right w-40" onclick="toggleShades()" title="desligar/ligar cortina" style="cursor: pointer;"><span class="material-symbols-outlined">
+roller_shades
+</span></button>
+
+</div>
+ <div id="aside" class="f-12">
+ <iframe id="ext-iframe" class="aside fh-panel bor-none" name="ext" src="./ext.html"></iframe>
+ </div>
+ </div>
+
+<script src="./grid.js"></script>
+</body>
+
+</html>

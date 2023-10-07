@@ -3,6 +3,8 @@
   box-sizing: border-box;
 }
 
+html {background-color: #222;}
+
 body {
   max-width: calc(100vw - 23px);
   max-height: 99vh;
@@ -46,27 +48,12 @@ body {
   float: right;
 }
 
-/* FONT-SIZE */
-.f-12 {
-  font-size: 12px;
-}
-
-.f-16 {
-  font-size: 16px;
-}
-
-.f-20 {
-  font-size: 20px;
-}
-
 /* FONT COLOR */
 .c-red {
   color: crimson;
 }
 
-.f-light {
-  color: #ddd;
-}
+
 
 /* FONT-FAMILY */
 
@@ -152,15 +139,19 @@ body {
 
 /* BORDER */
 .bor-left {
-  border-left: 1px solid gainsboro;
+  border-left: 1px solid lightgrey;
 }
 
 .bor-right {
-  border-right: 1px solid gainsboro;
+  border-right: 1px solid lightgrey;
 }
 
 .bor-bottom {
-  border-bottom: 1px solid gainsboro;
+  border-bottom: 1px solid lightgrey;
+}
+
+.bor-top {
+  border-top: 1px solid lightgrey;
 }
 
 .bor-none {
@@ -177,12 +168,12 @@ body {
 }
 
 /* BGROUND & COLOR */
-.bg-dgrey {
+.bg-dlightgrey {
   background-color: #222;
   color: #C2C2C2;
 }
 
-.bg-lgrey {
+.bg-llightgrey {
   background-color: #333;
   color: #C2C2C2
 }
@@ -194,41 +185,36 @@ body {
 
 .bg-lwhite {
   background-color: #f5f5f5;
-  color: #000;
+  color: #222;
 }
 
 .bg-dblue {
-  background-color: #cce7ff;
-  color: #333
+  background-color: aliceblue;
+  color: #222
 }
 
 .bg-lblue {
   background-color: aliceblue;
-  color: #333
+  color: #222
 }
 
-button#brand {
+#brand1, #brand2 {
+border: 1px solid red;
   white-space: nowrap;
-  color: white;
+  color: #222;
 }
 
 /* BUTTON */
 button {
   padding: 4px;
-  border-radius: 6px;
+  border-radius: 50%;
   border: none;
   height: 40px;
   background-color: transparent;
-  opacity: .6;
   position: relative;
   top: -5px;
   margin: 0 5px;
-}
-
-button:hover,
-button:focus,
-button:active {
-  opacity: 1;
+  cursor: pointer;
 }
 
 
@@ -252,45 +238,31 @@ button:active {
   text-decoration: none;
 }
 
-.main a:any-link:hover {
-  color: dodgerblue;
-}
-
 .side a:any-link {
-  color: #adadad;
+  color: #222;
   text-decoration: none;
 }
 
-.side a:any-link:hover {
-  color: white;
-}
 
 #links a:any-link {
-  color: #616161;
+  color: #222;
   text-decoration: none;
   border: none;
-  padding: 6px 6px 10px 6px;
-  position: relative;
-  top: 2px;
-  border-radius: 6px;
-  margin: 3px;
+  border-radius: 50%;
+  padding: 10px 3px;
+margin: 0 3px;
 }
-
-#links a:any-link:hover {
-  color: #000;
-}
-
-
 
 /* VERTICAL ALIGN */
-i {
+span {
   vertical-align: middle;
+  margin: 5px;
 }
 
-/* IFRAME */
+/* IFRAME 
 iframe {
-  filter: invert(.04);
-}
+  filter: invert(.07);
+} */
 
 
 @media only screen and (max-width: 782px) {
@@ -301,7 +273,7 @@ iframe {
   }
 
   #col2 {
-    display: inli;
+    display: inline;
     width: calc(100vw - 23px);
   }
 
