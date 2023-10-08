@@ -2,28 +2,15 @@
    height: 10px;
  }
 
- #sidebar-top {
+ #sidebar-body {
    border-top: 1px solid gainsboro;
    border-right: 1px solid gainsboro;
    border-bottom: 1px solid gainsboro;
-   height: 180px;
-   padding: 10px;
- }
-
- #sidebar-middle {
-   border-bottom: 1px solid gainsboro;
-   border-right: 1px solid gainsboro;
-   padding: 10px;
+   padding: 10px 10px 10px 30px;
    overflow-y: scroll;
    overflow-x: hidden;
    overscroll-behavior-block: contain;
-   height: calc(100% - 522px);
- }
-
- #sidebar-bottom {
-   height: 230px;
-   border-right: 1px solid gainsboro;
-   padding: 10px;
+   height: calc(100% - 70px);
  }
 
  #content {
@@ -60,7 +47,7 @@
  }
 
  #sidebar {
-   width: 200px;
+   width: 210px;
  }
 
  #main {
