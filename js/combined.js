@@ -129,6 +129,16 @@ function closePanel() {
   document.getElementById("sidebar").style.display = "none";
 }
 
+// open notes panel
+function openNotes() {
+  document.getElementById("notes").style.display = "block";
+}
+
+// close notes panel
+function closeNotes() {
+  document.getElementById("notes").style.display = "none";
+}
+
 // FULLSCREEN
 
 /* Get the documentElement (<html>) to display the page in fullscreen */

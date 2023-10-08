@@ -75,9 +75,10 @@
  #notes {
    width: 443px;
   background-color: lightgrey;
+padding: 10px;
  }
 
  #toggle-shades {
    position: relative;
-   right: 10px;
+   right: 5px;
  }
