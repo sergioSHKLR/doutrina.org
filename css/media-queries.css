@@ -1,0 +1,53 @@
+ @media only screen and (max-width: 782px) {
+   #sidebar {
+     display: none;
+   }
+
+   #main {
+     display: block;
+   }
+
+   #aside {
+     display: none;
+   }
+
+   #notes {
+     display: none;
+   }
+ }
+
+ @media only screen and (min-width: 783px) and (max-width: 1053px) {
+   #sidebar {
+     display: none;
+   }
+
+   #main {
+     display: block;
+   }
+
+   #aside {
+     display: block;
+   }
+
+   #notes {
+     display: none;
+   }
+ }
+
+ @media only screen and (min-width: 1054px) {
+   #sidebar {
+     display: block;
+   }
+
+   #main {
+     display: block;
+   }
+
+   #aside {
+     display: block;
+   }
+
+   #notes {
+     display: block;
+   }
+ }

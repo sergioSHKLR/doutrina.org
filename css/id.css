@@ -1,0 +1,90 @@
+ .spacer {
+   height: 10px;
+ }
+
+ #top {
+   height: 30px;
+   line-height: 30px;
+   border-right: 1px solid gainsboro;
+   padding: 0 10px 0 10px;
+ }
+
+ #sidebar-top {
+   border-top: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+   border-bottom: 1px solid gainsboro;
+   height: 180px;
+   padding: 10px;
+ }
+
+ #sidebar-middle {
+   border-bottom: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+   padding: 10px;
+   overflow-y: scroll;
+   overflow-x: hidden;
+   overscroll-behavior-block: contain;
+   height: calc(100% - 522px);
+ }
+
+ #sidebar-bottom {
+   height: 230px;
+   border-right: 1px solid gainsboro;
+   padding: 10px;
+ }
+
+ #content {
+   border-top: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+   padding: 10px;
+   font-family: 'Roboto Slab';
+   font-weight: 200;
+   height: calc(100% - 70px);
+   overflow-y: scroll;
+   overflow-x: hidden;
+   overscroll-behavior-block: contain;
+ }
+
+ #ext {
+   border-right: 1px solid gainsboro;
+   border-top: 1px solid gainsboro;
+   overflow: scroll;
+   overscroll-behavior-block: contain;
+ }
+
+ #flex-container {
+   display: flex;
+   justify-content: flex-end;
+   box-sizing: border-box;
+   border-collapse: collapse;
+ }
+
+ #flex-container>div {
+   border: 1px solid transparent;
+   height: 100vh;
+   overflow: scroll;
+   overscroll-behavior-block: contain;
+ }
+
+ #sidebar {
+   width: 200px;
+ }
+
+ #main {
+   flex-grow: 1;
+   max-width: 655px;
+ }
+
+ #aside {
+   flex-grow: 1;
+ }
+
+ #notes {
+   width: 443px;
+  background-color: lightgrey;
+ }
+
+ #toggle-shades {
+   position: relative;
+   right: 10px;
+ }

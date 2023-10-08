@@ -1,0 +1,26 @@
+iframe {
+  height: 100%;
+}
+
+#sidebar-middle {
+  height: calc(100% - 460px);
+}
+
+#content {
+  height: 100vh;
+}
+
+#ext {
+  height: 95vh;
+}
+
+#sidebar,
+#main,
+#aside,
+#notes {
+  height: 100%;
+}
+
+#flex-container {
+  height: 100%;
+}

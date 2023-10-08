@@ -1,0 +1,19 @@
+ .float-right {
+   float: right;
+ }
+
+ .font-12 {
+   font-size: 12px;
+ }
+
+ .bg-grey {
+   background-color: whitesmoke;
+ }
+
+ .shades-on {
+   filter: brightness(.1)
+ }
+
+ .spacer {
+   height: 10px;
+ }
