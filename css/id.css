@@ -2,13 +2,6 @@
    height: 10px;
  }
 
- #top {
-   height: 30px;
-   line-height: 30px;
-   border-right: 1px solid gainsboro;
-   padding: 0 10px 0 10px;
- }
-
  #sidebar-top {
    border-top: 1px solid gainsboro;
    border-right: 1px solid gainsboro;
