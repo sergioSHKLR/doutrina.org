@@ -4,7 +4,7 @@
    }
 
    #main {
-     display: block;
+     display: none;
    }
 
    #aside {
@@ -17,19 +17,35 @@
  }
 
  @media only screen and (min-width: 783px) and (max-width: 1053px) {
+
+   #top-sidebar {
+     padding: 0 10px 0 20px;
+     display: none;
+   }
+
    #sidebar {
      display: none;
    }
 
    #main {
-     display: block;
+     display: none;
    }
 
    #aside {
-     display: block;
+     display: none;
+   }
+
+   #top-aside {
+     padding: 0 40px 0 10px;
+     display: none;
+
    }
 
    #notes {
+     display: none;
+   }
+
+   #open-notes {
      display: none;
    }
  }
@@ -39,15 +55,29 @@
      display: block;
    }
 
+   #menu {
+     display: none;
+   }
+
+   #close {
+     display: none;
+   }
+
    #main {
      display: block;
+     width: 670px;
    }
 
    #aside {
      display: block;
+     width: 670px;
    }
 
    #notes {
      display: block;
+   }
+
+   #error {
+     display: none;
    }
  }

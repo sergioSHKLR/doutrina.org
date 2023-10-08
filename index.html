@@ -45,7 +45,7 @@
 <meta name="theme-color" content="#4ec1f5">
 <link rel="icon" href="./favicon.svg" type="image/svg+xml">
 
- <!-- HYPOTHES.IS -->
+ <!-- HYPOTHES.IS 
  <script type="application/json" class="js-hypothesis-config">
  {
  "openSidebar": true,
@@ -53,7 +53,7 @@
 
  }
 </script>
- <script async src="https://hypothes.is/embed.js"></script>
+ <script async src="https://hypothes.is/embed.js"></script> -->
 
 </head>
 
@@ -65,11 +65,11 @@
 
 <!-- SIDEBAR -->
 
- <div class="top">
+ <div id="top-sidebar">
 
  <a href="./index.html" title="voltar"><img src="./logo.svg" alt="doutrina.org" height="30" width="120"></a> 
 
-<button class="float-right" onclick="closePanel()" title="fechar painel"><span
+<button id="close" class="float-right" onclick="closePanel()" title="fechar painel"><span
  class="material-symbols-outlined">close</span></button>
 
  </div>
@@ -139,7 +139,7 @@
  <div id="main">
  <div class="spacer"></div>
 
- <div class="top"> <button onclick="openPanel()" title="abrir painel"><span class="material-symbols-outlined">menu</span></button>
+ <div id="top-main"> <button id="menu" onclick="openPanel()" title="abrir painel"><span class="material-symbols-outlined">menu</span></button>
 
  <button id="open-fullscreen" class="float-right" onclick="openFullscreen()" title="tela cheia"><span class="material-symbols-outlined">fullscreen</span></button>
 
@@ -163,7 +163,7 @@ Otimizado exclusivamente para desktop
 <!-- ASIDE -->
  <div id="aside">
  <div class="spacer"></div>
- <div class="top">
+ <div id="top-aside">
 
  <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia"><span class="material-symbols-outlined">language</span></a>
 
@@ -171,7 +171,7 @@ Otimizado exclusivamente para desktop
 
  <a target="ext" href="./maps/paris.html" title="mapas"><span class="material-symbols-outlined">location_on</span></a>
 
- <button id="toggle-notes" onclick="openNotes()" class="float-right" title="abrir/fechar notas"><span class="material-symbols-outlined">
+ <button id="open-notes" onclick="openNotes()" class="float-right" title="abrir/fechar notas"><span class="material-symbols-outlined">
  subtitles</span></button>
 
  <button id="toggle-shades" onclick="toggleShades()" class="float-right" title="cortina anti-distração"><span class="material-symbols-outlined">
@@ -193,6 +193,8 @@ Otimizado exclusivamente para desktop
  class="material-symbols-outlined">close</span></button></div>
 
  </div>
+
+<div id="error">⛔<br>Otimizado exclusivamente<br>para telas largas</div>
  <!-- JAVA -->
  <script src="./js/combined.js"></script>
 

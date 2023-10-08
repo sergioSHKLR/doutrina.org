@@ -41,18 +41,23 @@ a:any-link {
   color: #222;
 }
 
-.top a:any-link {
+#top-sidebar a:any-link, 
+#top-main a:any-link,
+#top-aside a:any-link {
   text-decoration: none;
   color: #222;
   padding: 5px 3px;
   border-radius: 50%;
   position: relative;
-  top: -2px;
+  margin: 0 4px;
+  top: -1px;
 }
 
-.top a .material-symbols-outlined {
+#top-sidebar a .material-symbols-outlined,
+#top-main a .material-symbols-outlined,
+#top-aside a .material-symbols-outlined {
   position: relative;
-  top: 5px;
+  top: 4px;
 }
 
 a:any-link:hover {
@@ -62,7 +67,9 @@ a:any-link:hover {
   text-decoration-color: dodgerblue;
 }
 
-.top a:any-link:hover {
+#top-sidebar a:any-link:hover,
+#top-main a:any-link:hover,
+#top-aside a:any-link:hover {
   background-color: whitesmoke;
   transition-duration: .5s;
   transition-timing-function: ease-out;

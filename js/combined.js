@@ -122,11 +122,13 @@ function lineWide() {
 // open right panel
 function openPanel() {
   document.getElementById("sidebar").style.display = "block";
+  document.getElementById("menu").style.display = "none";
 }
 
 // close right panel
 function closePanel() {
   document.getElementById("sidebar").style.display = "none";
+  document.getElementById("menu").style.display = "block";
 }
 
 // open notes panel

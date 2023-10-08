@@ -16,7 +16,7 @@
  #content {
    border-top: 1px solid gainsboro;
    border-right: 1px solid gainsboro;
-   padding: 10px;
+   padding: 20px;
    font-family: 'Roboto Slab';
    font-weight: 200;
    height: calc(100% - 70px);
@@ -52,7 +52,6 @@
 
  #main {
    flex-grow: 1;
-   max-width: 655px;
  }
 
  #aside {
@@ -60,12 +59,45 @@
  }
 
  #notes {
-   width: 443px;
-  background-color: lightgrey;
-padding: 10px;
+   width: 403px;
+   background-color: lightgrey;
+   padding: 10px 50px 10px 10px;
  }
 
  #toggle-shades {
    position: relative;
    right: 5px;
+ }
+
+ #top-sidebar {
+   height: 30px;
+   line-height: 30px;
+   border-right: 1px solid gainsboro;
+   padding: 0 10px 0 40px;
+ }
+
+ #top-main {
+   height: 30px;
+   line-height: 30px;
+   border-right: 1px solid gainsboro;
+   padding: 0 10px 0 10px;
+ }
+
+ #top-aside {
+   height: 30px;
+   line-height: 30px;
+   border-right: 1px solid gainsboro;
+   padding: 0 30px 0 10px;
+ }
+
+ #error {
+   text-align: center;
+   border: 5px solid red;
+   border-radius: 10px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   padding: 10px;
+   font-weight: bold;
  }
