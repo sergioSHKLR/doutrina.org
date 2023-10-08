@@ -41,7 +41,7 @@ a:any-link {
   color: #222;
 }
 
-#top a:any-link {
+.top a:any-link {
   text-decoration: none;
   color: #222;
   padding: 5px 3px;
@@ -50,7 +50,7 @@ a:any-link {
   top: -2px;
 }
 
-#top a .material-symbols-outlined {
+.top a .material-symbols-outlined {
   position: relative;
   top: 5px;
 }
@@ -62,7 +62,7 @@ a:any-link:hover {
   text-decoration-color: dodgerblue;
 }
 
-#top a:any-link:hover {
+.top a:any-link:hover {
   background-color: whitesmoke;
   transition-duration: .5s;
   transition-timing-function: ease-out;
