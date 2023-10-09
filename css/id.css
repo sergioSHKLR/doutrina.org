@@ -10,7 +10,8 @@
    overflow-y: scroll;
    overflow-x: hidden;
    overscroll-behavior-block: contain;
-   height: calc(100% - 70px);
+   height: calc(99.9vh - 50px);
+
  }
 
  #content {
@@ -19,10 +20,11 @@
    padding: 20px;
    font-family: 'Roboto Slab';
    font-weight: 200;
-   height: calc(100% - 70px);
    overflow-y: scroll;
    overflow-x: hidden;
    overscroll-behavior-block: contain;
+   height: calc(99.9vh - 102px);
+
  }
 
  #ext {
@@ -30,6 +32,8 @@
    border-top: 1px solid gainsboro;
    overflow: scroll;
    overscroll-behavior-block: contain;
+   height: calc(99.9vh - 39px);
+
  }
 
  #flex-container {
@@ -37,11 +41,11 @@
    justify-content: flex-end;
    box-sizing: border-box;
    border-collapse: collapse;
+   height: 99.9vh;
  }
 
  #flex-container>div {
    border: 1px solid transparent;
-   height: 100vh;
    overflow: scroll;
    overscroll-behavior-block: contain;
  }
@@ -52,6 +56,7 @@
 
  #main {
    flex-grow: 1;
+  
  }
 
  #aside {
