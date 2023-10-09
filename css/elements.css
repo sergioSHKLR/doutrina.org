@@ -23,7 +23,7 @@ button {
 }
 
 button:hover {
-  background-color: whitesmoke;
+  background-color: #555;
   transition-duration: .5s;
   transition-timing-function: ease-out;
 }
@@ -41,7 +41,7 @@ a:any-link {
   color: #222;
 }
 
-#top-sidebar a:any-link, 
+#top-sidebar a:any-link,
 #top-main a:any-link,
 #top-aside a:any-link {
   text-decoration: none;
@@ -70,7 +70,7 @@ a:any-link:hover {
 #top-sidebar a:any-link:hover,
 #top-main a:any-link:hover,
 #top-aside a:any-link:hover {
-  background-color: whitesmoke;
+  background-color: #555;
   transition-duration: .5s;
   transition-timing-function: ease-out;
 }

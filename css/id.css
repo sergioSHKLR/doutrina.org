@@ -17,13 +17,13 @@
  #content {
    border-top: 1px solid gainsboro;
    border-right: 1px solid gainsboro;
-   padding: 20px;
    font-family: 'Roboto Slab';
    font-weight: 200;
    overflow-y: scroll;
-   overflow-x: hidden;
    overscroll-behavior-block: contain;
    height: calc(99.9vh - 102px);
+   padding: 0 10px;
+
 
  }
 
@@ -45,8 +45,7 @@
  }
 
  #flex-container>div {
-   border: 1px solid transparent;
-   overflow: scroll;
+   overflow-y: scroll;
    overscroll-behavior-block: contain;
  }
 
@@ -56,7 +55,6 @@
 
  #main {
    flex-grow: 1;
-  
  }
 
  #aside {
@@ -79,6 +77,7 @@
    line-height: 30px;
    border-right: 1px solid gainsboro;
    padding: 0 10px 0 40px;
+   background-color: #333;
  }
 
  #top-main {
@@ -86,6 +85,7 @@
    line-height: 30px;
    border-right: 1px solid gainsboro;
    padding: 0 10px 0 10px;
+   background-color: #333;
  }
 
  #top-aside {
@@ -93,6 +93,7 @@
    line-height: 30px;
    border-right: 1px solid gainsboro;
    padding: 0 30px 0 10px;
+   background-color: #333;
  }
 
  #error {

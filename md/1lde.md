@@ -22,7 +22,7 @@ Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content
 
 Modificado para o consumo digital por Sergio de  
 
-[⭕ shklr.org](https://shklr.org)
+⭕ [shklr.org](https://shklr.org)
 
 ### Introdução
 

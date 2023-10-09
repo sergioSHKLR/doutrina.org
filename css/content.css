@@ -1,0 +1,85 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+h1 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+}
+
+h1::before {
+  content: "h1 ";
+  color: #bbb;
+}
+
+h2 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+}
+
+h2::before {
+  content: "h2 🗂️ ";
+  color: #bbb;
+}
+
+h3 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+}
+
+h3::before {
+  content: "h3 📑 ";
+  color: #bbb;
+}
+
+h4 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+}
+
+h4::before {
+  content: "h4 📃 ";
+  color: #bbb;
+}
+
+h5 {
+  border-bottom: 1px solid grey;
+}
+
+h5::before {
+  content: "h5 #️⃣ ";
+  color: #bbb;
+}
+
+h6 {
+  border-bottom: 1px solid grey;
+  margin-bottom: 5px;
+}
+
+h6::before {
+  content: "h6 #️⃣ ";
+  color: #bbb;
+}
+
+
+strong {
+  font-weight: 400;
+}
+
+#content {
+  line-height: 1.7;
+}
+
+#content blockquote {
+  border-left: 4px solid dodgerblue;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+#content blockquote+p:first-of-type {margin-top: 5px;}
