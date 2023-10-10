@@ -47,7 +47,7 @@ a:any-link {
 #top-aside a:any-link {
   text-decoration: none;
   color: #222;
-  padding: 5px 3px;
+  padding: 4px 3px;
   border-radius: 50%;
   position: relative;
   margin: 0 4px;
@@ -58,7 +58,7 @@ a:any-link {
 #top-main a .material-symbols-outlined,
 #top-aside a .material-symbols-outlined {
   position: relative;
-  top: 4px;
+  top: 5px;
 }
 
 a:any-link:hover {
