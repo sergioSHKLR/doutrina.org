@@ -10,7 +10,7 @@
    overflow-y: scroll;
    overflow-x: hidden;
    overscroll-behavior-block: contain;
-   height: calc(99.9vh - 50px);
+   height: calc(99.9% - 70px);
  }
 
  #content {
@@ -50,6 +50,7 @@
    margin-block-end: unset;
    margin-block-start: unset;
     font-size: 14px;
+  height: 100%;
  }
 
  #main {

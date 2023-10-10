@@ -32,9 +32,11 @@ button:hover {
 iframe {
   border: none;
   width: 100%;
-  height: calc(100vh - 54px);
+  height: 100%;
   overscroll-behavior: contain;
   filter: brightness(.97);
+  margin: 0;
+  padding: 0;
 }
 
 a:any-link {
