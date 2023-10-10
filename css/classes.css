@@ -3,7 +3,7 @@
  }
 
  .font-12 {
-   font-size: 12px;
+   font-size: 14px;
  }
 
  .bg-grey {
@@ -29,7 +29,43 @@
 
  .header {
    font-weight: 700;
-   font-size: 14px;
+   font-size: 16px;
  }
 
-.material-symbols-outlined {color: #fff;}
+ .material-symbols-outlined {
+   color: #fff;
+ }
+
+ .tab {
+   overflow: hidden;
+   border: 1px solid #ccc;
+   border-radius: 5px 5px 0 0;
+ }
+
+ .tab button {
+   background-color: inherit;
+   float: left;
+   border: none;
+   outline: none;
+   cursor: pointer;
+   padding: 14px 16px;
+   transition: 0.3s;
+   font-size: 17px;
+ }
+
+ .tab button:hover {
+   background-color: transparent;
+ }
+
+ .tab button.active {
+   border-bottom: 3px inset dodgerblue;
+   color: dodgerblue;
+ }
+
+ .tabcontent {
+   display: none;
+   padding: 6px 12px;
+   border: 1px solid #ccc;
+   border-top: none;
+   border-radius: 0 0 5px 5px;
+ }
