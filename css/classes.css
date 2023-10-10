@@ -69,3 +69,11 @@
    border-top: none;
    border-radius: 0 0 5px 5px;
  }
+
+ .footnotes-area {
+   font-size: 14px;
+ }
+
+ .md-fn-count {
+   font-weight: 700;
+ }
