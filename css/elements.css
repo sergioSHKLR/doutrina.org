@@ -44,7 +44,6 @@ a:any-link {
   color: #222;
 }
 
-#top-sidebar a:any-link,
 #top-main a:any-link,
 #top-aside a:any-link {
   text-decoration: none;
@@ -70,7 +69,6 @@ a:any-link:hover {
   text-decoration-color: dodgerblue;
 }
 
-#top-sidebar a:any-link:hover,
 #top-main a:any-link:hover,
 #top-aside a:any-link:hover {
   background-color: #555;
