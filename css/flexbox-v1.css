@@ -43,6 +43,7 @@
     .flex-body>div {
       min-width: 210px;
       border-right: 1px solid lightgrey;
+      overflow-y: scroll;
     }
 
     #col1 {
@@ -52,6 +53,7 @@
     #col2 {
       /* flex:1 1 auto; */
       flex-grow: 1;
+      max-width: 670px;
     }
 
     #col3 {
@@ -99,6 +101,7 @@
     #col2-body {
       /* flex:1 1 auto; */
       flex-grow: 1;
+      overflow-x: hidden;
     }
 
     #col3-body {
@@ -178,6 +181,13 @@
       left: 50%;
       transform: translate(-50%, -50%);
       font-weight: bold;
+    }
+
+    #content img {
+      max-width: 80%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
 
