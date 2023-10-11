@@ -1,0 +1,283 @@
+<html>
+
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+  <style>
+    html {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .flex {
+      display: flex;
+      height: 100vh;
+    }
+
+    .flex>div {
+      background-color: transparent;
+    }
+
+    .flex-head {
+      display: flex;
+      height: 50px;
+    }
+
+    .flex-head>div {
+      min-width: 210px;
+      border-bottom: 1px solid grey;
+      border-right: 1px solid white;
+      background-color: #222;
+    }
+
+    .flex-body {
+      display: flex;
+      height: calc(100vh - 50px);
+    }
+
+    .flex-body>div {
+      min-width: 210px;
+      border-right: 1px solid grey;
+    }
+
+    #col1 {
+      width: 210px
+    }
+
+    #col2 {
+      /* flex:1 1 auto; */
+      flex-grow: 1;
+    }
+
+    #col3 {
+      /* flex:1 1 auto; */
+      flex-grow: 1;
+    }
+
+    #col4 {
+      flex-shrink: 1;
+      width: 453px;
+    }
+
+    #col1-head {
+      width: 210px;
+    }
+
+    #col2-head {
+      /* flex:1 1 auto; */
+      flex-grow: 1;
+      padding-right: 40px;
+    }
+
+    #col3-head {
+      /* flex:1 1 auto; */
+      flex-grow: 1;
+      padding-right: 40px;
+    }
+
+    #col4-head {
+      flex-shrink: 1;
+      width: 453px;
+      padding-right: 40px;
+      background-color: #eee;
+      border-bottom: none;
+    }
+
+    #col1-body {
+      width: 210px;
+      background-color: #333;
+    }
+
+    #col2-body {
+      /* flex:1 1 auto; */
+      flex-grow: 1;
+    }
+
+    #col3-body {
+      /* flex:1 1 auto; */
+      flex-grow: 1;
+      background-color: #eee;
+      ;
+    }
+
+    #col4-body {
+      flex-shrink: 1;
+      width: 453px;
+      background-color: #eee;
+      ;
+    }
+
+    .head {
+      display: inline-block;
+      padding: 10px;
+    }
+
+    .body {
+      padding: 10px;
+    }
+
+    button {
+      border-radius: 50%;
+      padding: 6px 10px;
+      margin: 0 5px;
+      border: none;
+      background-color: #eee;
+    }
+
+    button:hover {
+      background-color: #666;
+      color: white
+    }
+
+    .fr {
+      float: right;
+    }
+  </style>
+  <!-- HYPOTHES.IS -->
+  <script type="application/json" class="js-hypothesis-config">
+{
+"openSidebar": true,
+"openSidebar": true
+
+}
+</script>
+  <script async src="https://hypothes.is/embed.js"></script>
+
+</head>
+
+<body>
+
+  <div class="flex">
+
+    <div id="col1" class="column">
+
+      <div class="flex-head">
+        <div id="col1-head" class="head">
+          <span style="font-family: 'Russo One'; color: #ddd; font-size: 24px">💧 doutrina.org</span>
+        </div>
+      </div>
+      <div class="flex-body">
+        <div id="col1-body" class="body">1</div>
+      </div>
+    </div>
+
+    <div id="col2" class="column">
+
+      <div class="flex-head">
+        <div id="col2-head" class="head">
+
+          <button onclick="buttonOne()">1</button>
+          <button class="fr" onclick="buttonFour()">4</button>
+          <button class="fr" onclick="buttonThree()">3</button>
+
+        </div>
+      </div>
+      <div class="flex-body">
+        <div id="col2-body" class="body">2</div>
+      </div>
+    </div>
+
+    <div id="col3" class="column">
+
+      <div class="flex-head">
+        <div id="col3-head" class="head">
+          <button>1</button>
+          <button>2</button>
+          <button>3</button>
+          <button class="fr">X</button>
+
+        </div>
+      </div>
+      <div class="flex-body">
+        <div id="col3-body" class="body">3</div>
+      </div>
+    </div>
+
+    <div id="col4" class="column">
+
+      <div class="flex-head">
+        <div id="col4-head" class="head">
+        </div>
+      </div>
+      <div class="flex-body">
+        <div id="col4-body" class="body">4</div>
+      </div>
+    </div>
+
+
+    <script>
+      function buttonOne() {
+        var x = document.getElementById("col1-head");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+        var y = document.getElementById("col1-body");
+        if (y.style.display === "none") {
+          y.style.display = "block";
+        } else {
+          y.style.display = "none";
+        }
+        var z = document.getElementById("col1");
+        if (z.style.display === "none") {
+          z.style.display = "block";
+        } else {
+          z.style.display = "none";
+        }
+      }
+
+      function buttonThree() {
+        var x = document.getElementById("col3-head");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+        var y = document.getElementById("col3-body");
+        if (y.style.display === "none") {
+          y.style.display = "block";
+        } else {
+          y.style.display = "none";
+        }
+        var z = document.getElementById("col3");
+        if (z.style.display === "none") {
+          z.style.display = "block";
+        } else {
+          z.style.display = "none";
+        }
+      }
+
+      function buttonFour() {
+        var x = document.getElementById("col4-head");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+        var y = document.getElementById("col4-body");
+        if (y.style.display === "none") {
+          y.style.display = "block";
+        } else {
+          y.style.display = "none";
+        }
+        var z = document.getElementById("col4");
+        if (z.style.display === "none") {
+          z.style.display = "block";
+        } else {
+          z.style.display = "none";
+        }
+      }
+    </script>
+
+</body>
+
+</html>

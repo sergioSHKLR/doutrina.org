@@ -1,68 +1,58 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
- font-size: 20px;
- font-weight: 500;
-}
 
-h1 {
+#content h1 {
  border-bottom: 1px solid lightgrey;
- text-align: center;
 }
 
-h1::before {
+#content h1::before {
  content: "h1 ";
  color: #bbb;
 }
 
-h2 {
+#content h2 {
  border-bottom: 1px solid lightgrey;
- text-align: center;
+
 }
 
-h2::before {
+#content h2::before {
  content: "h2 🗂️ ";
  color: #bbb;
 }
 
-h3 {
+#content h3 {
  border-bottom: 1px solid lightgrey;
- text-align: center;
+
 }
 
-h3::before {
+#content h3::before {
  content: "h3 📑 ";
  color: #bbb;
 }
 
-h4 {
+#content h4 {
  border-bottom: 1px solid lightgrey;
- text-align: center;
+
 }
 
-h4::before {
+#content h4::before {
  content: "h4 📃 ";
  color: #bbb;
 }
 
-h5 {
+#content h5 {
  border-bottom: 1px solid lightgrey;
 }
 
-h5::before {
+#content h5::before {
  content: "h5 #️⃣ ";
  color: #bbb;
 }
 
-h6 {
+#content h6 {
  border-bottom: 1px solid lightgrey;
  margin-bottom: 5px;
 }
 
-h6::before {
+#content h6::before {
  content: "h6 #️⃣ ";
  color: #bbb;
 }
@@ -72,7 +62,7 @@ strong {
 }
 
 #content {
- line-height: 1.7;
+ line-height: 28px;
 }
 
 #content blockquote {

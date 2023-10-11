@@ -14,9 +14,14 @@
    #notes {
      display: none;
    }
+
+   #splash {
+     display: none;
+   }
+
  }
 
- @media only screen and (min-width: 783px) and (max-width: 1053px) {
+ @media only screen and (min-width: 783px) and (max-width: 1919px) {
 
    #top-sidebar {
      padding: 0 10px 0 20px;
@@ -48,9 +53,13 @@
    #open-notes {
      display: none;
    }
+
+   #splash {
+     display: none;
+   }
  }
 
- @media only screen and (min-width: 1054px) {
+ @media only screen and (min-width: 1920px) {
    #sidebar {
      display: block;
    }

@@ -7,7 +7,7 @@ body {
   margin: 0px;
   padding: 0;
   font-family: 'Inter';
-  font-size: 18px;
+  font-size: 16px;
 }
 
 button {
@@ -32,9 +32,11 @@ button:hover {
 iframe {
   border: none;
   width: 100%;
-  height: calc(100vh - 54px);
+  height: 100%;
   overscroll-behavior: contain;
   filter: brightness(.97);
+  margin: 0;
+  padding: 0;
 }
 
 a:any-link {
@@ -42,7 +44,6 @@ a:any-link {
   color: #222;
 }
 
-#top-sidebar a:any-link,
 #top-main a:any-link,
 #top-aside a:any-link {
   text-decoration: none;
@@ -68,7 +69,6 @@ a:any-link:hover {
   text-decoration-color: dodgerblue;
 }
 
-#top-sidebar a:any-link:hover,
 #top-main a:any-link:hover,
 #top-aside a:any-link:hover {
   background-color: #555;
@@ -82,3 +82,5 @@ a:any-link:hover {
   margin-left: auto;
   margin-right: auto;
 }
+
+ul, ol {line-height: 28px;}
