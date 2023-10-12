@@ -1,4 +1,4 @@
-# 🔥 O Céu e o Inferno
+# O Céu e o Inferno
 
 ## 0. Pré-textual
 
@@ -2139,25 +2139,25 @@ Evocação.
 
 > 👻 ▸ Atendo ao vosso chamado para cumprir a minha promessa.
 
-###### #️⃣ 02
+###### 02
 
 Meu caro Sr. Sanson, cumprindo um dever, com satisfação vos evocamos o mais cedo possível depois da vossa morte, como era do vosso desejo.
 
 > 👻 ▸ É uma graça especial que Deus me concede para que possa manifestar-me; agradeço a vossa boa vontade, porém, sou tão fraco que tremo.
 
-###### #️⃣ 03
+###### 03
 
 Fostes tão sofredor que podemos, penso eu, perguntar como vos achais agora... Sentis ainda as vossas dores? Comparando a situação de hoje com a de dois dias atrás, que sensações experimentais?
 
 > 👻 ▸ A minha situação é bem-ditosa; acho-me regenerado, renovado, como se diz entre vós, nada mais sentindo das antigas dores. A passagem da vida terrena para a dos Espíritos deixou-me de começo num estado incompreensível, porque ficamos algumas vezes muitos dias privados de lucidez. Eu havia feito no entanto um pedido a Deus para permitir-me falar aos que estimo, e Deus ouviu-me.
 
-###### #️⃣ 04
+###### 04
 
 Ao fim de que tempo recobrastes a lucidez das ideias?
 
 > 👻 ▸ Ao fim de oito horas. Deus, repito, deu-me uma prova de sua bondade, maior que o meu merecimento, e eu não sei como agradecer-lhe.
 
-###### #️⃣ 05
+###### 05
 
 Estais bem certo de não pertencerdes mais ao nosso mundo? No caso afirmativo, como comprová-lo?
 
@@ -2165,25 +2165,25 @@ Estais bem certo de não pertencerdes mais ao nosso mundo? No caso afirmativo, c
 
 — transformado. Em mim não reconhecereis mais o velho enfermo que tudo devia esquecer, fugindo de todo prazer e alegria. Eu sou Espírito e a minha pátria é o Espaço, o meu futuro é Deus, que reina na imensidade. Desejara poder falar a meus filhos, ensinar-lhes aquilo mesmo que sempre desdenharam acreditar.
 
-###### #️⃣ 06
+###### 06
 
 Que efeito vos causa o vosso corpo aqui ao lado?
 
 > 👻 ▸ Meu corpo! pobre, mísero despojo... volve ao pó, enquanto eu guardo a lembrança de todos que me estimaram. Vejo essa pobre carne decomposta, morada que foi do meu Espírito, provação de tantos anos! Obrigado, mísero corpo, pois que purificaste o meu Espírito! O meu sofrimento, dez vezes bendito, deu-me um lugar bem meritório, por isso que tão depressa posso comunicar-me convosco...
 
-###### #️⃣ 07
+###### 07
 
 Conservastes as ideias até o último instante?
 
 > 👻 ▸ Sim. O meu Espírito conservou as suas faculdades, e quando eu já não mais via, pressentia. Toda a minha existência se desdobrou na memória e o meu último pensamento, a última prece, foi para que pudesse comunicar-me convosco, como o faço agora; em seguida pedi a Deus que vos protegesse, para que o sonho da minha vida se completasse.
 
-###### #️⃣ 08
+###### 08
 
 Tivestes consciência do momento em que o corpo exalou o derradeiro suspiro? que se passou convosco nesse momento? que sensação experimentastes?
 
 > 👻 ▸ Parte-se a vida e a vista, ou antes, a vista do Espírito se extingue; encontra-se o vácuo, o ignoto, e arrastada por não sei que poder, encontra-se a gente num mundo de alegria e grandeza! Eu não sentia, nada compreendia e, no entanto, uma felicidade inefável me extasiava de gozo, livre do peso das dores.
 
-###### #️⃣ 09
+###### 09
 
 Tendes ciência... do que pretendo ler sobre a vossa campa?
 
@@ -5309,49 +5309,49 @@ Antonio B..., escritor de estimadíssimo merecimento, que exercera com distinç�
 
 — que uma das mãos havia sido comida em parte pelo defunto. Ficou então patente que o infeliz Antonio B... fora enterrado vivo, e deveria ter sucumbido sob a ação do desespero e da fome. Evocado na Sociedade de Paris, em agosto de 1861, a pedido de parentes, deu as seguintes explicações: 
 
-###### #️⃣ 01
+###### 01
 
 Evocação.
 
 👻 ▸ Que quereis? 
 
-###### #️⃣ 02
+###### 02
 
 A pedido de um vosso parente, nós vos evocamos com prazer e seremos felizes se quiserdes responder-nos.
 
 👻 ▸ Sim, desejo fazê-lo. 
 
-###### #️⃣ 03
+###### 03
 
 Lembrai-vos dos incidentes da vossa morte?
 
 👻 ▸ Ah! certamente que me lembro. Mas por que avivar essa lembrança do castigo? 
 
-###### #️⃣ 04
+###### 04
 
 Efetivamente fostes enterrado por descuido?
 
 👻 ▸ Assim deveria ser, visto revestir-se a morte aparente de todos os caracteres da morte real: eu estava quase exangue. [^70] “Não se deve, porém, imputar a ninguém um acontecimento que me estava predestinado desde que nasci.” 
 
-###### #️⃣ 05
+###### 05
 
 Incomodam-vos estas perguntas? Será mister lhes demos fim?
 
 👻 ▸ Não, podeis continuar. 
 
-###### #️⃣ 06
+###### 06
 
 Por que deixastes a reputação de um homem de bem, esperamos fôsseis feliz.
 
 👻 ▸ Eu vos agradeço, pois sei que haveis de interceder por mim. Vou fazer o possível para vos responder, e, se não puder fazê-lo, fá-lo-á um dos vossos guias por mim. 
 
-###### #️⃣ 07
+###### 07
 
 Podeis descrever-nos as vossas sensações daquele momento?
 
 👻 ▸ Que dolorosa provação sentir-me encerrado entre quatro tábuas, tolhido, absolutamente tolhido! Gritar! Impossível! “A voz, por falta de ar, não tinha eco! Ah! que tortura a do infeliz que em vão se esforça para respirar num ambiente limitado! Eu era qual condenado à boca de um forno, abstração feita do calor. A ninguém desejo um fim rematado por semelhantes torturas. Não, não desejo a ninguém um tal fim! Oh! cruel punição de uma cruel e feroz existência! Não saberia dizer no que então pensava; apenas revendo o passado, vagamente entrevia o futuro.” 
 
-###### #️⃣ 08
+###### 08
 
 Dissestes: cruel punição de uma feroz existência... Como se pode conciliar esta afirmativa com a vossa reputação ilibada?
 
@@ -5359,7 +5359,7 @@ Dissestes: cruel punição de uma feroz existência... Como se pode conciliar es
 
 — a minha mulher! Plena de vida e presa numa adega! A pena de talião devia ser-me aplicada. Olho por olho, dente por dente.
 
-###### #️⃣ 09
+###### 09
 
 Agradecemos essas respostas e pedimos a Deus vos perdoe o passado, em atenção ao mérito da vossa última encarnação.
 
@@ -5391,91 +5391,91 @@ Posto nunca tivesse provado as cruciantes angústias da miséria, a Sra. B..., d
 
 (Sociedade Espírita de Paris, 1860.)
 
-###### #️⃣ 01
+###### 01
 
 (A São Luís.) Poderemos evocar o Espírito deste menino?
 
 👻 ▸ Sim, é como se o fizésseis ao Espírito de um desencarnado.
 
-###### #️⃣ 02
+###### 02
 
 Essa resposta faz-nos supor que a evocação se pode fazer a qualquer hora...
 
 👻 ▸ Sim, visto como presa ao corpo por laços materiais, que não espirituais, a sua alma pode desligar-se a qualquer hora.
 
-###### #️⃣ 03
+###### 03
 
 Evocação de Charles.
 
 👻 ▸ Sou um pobre Espírito preso à Terra por um pé, qual um passarinho.
 
-###### #️⃣ 04
+###### 04
 
 Presentemente, isto é, como Espírito, tendes consciência de vossa nulidade neste mundo?
 
 👻 ▸ Decerto que sinto o cativeiro.
 
-###### #️⃣ 05
+###### 05
 
 Quando o corpo adormece e o vosso Espírito se desprende, tendes as ideias tão lúcidas como se estivésseis em estado normal?
 
 👻 ▸ Quando o corpo infeliz repousa, fico um pouco mais livre para alçar-me ao céu a que aspiro.
 
-###### #️⃣ 06
+###### 06
 
 Experimentais no estado espiritual qualquer sensação dolorosa oriunda do vosso estado corpóreo?
 
 👻 ▸ Sim, por isso que é uma punição.
 
-###### #️⃣ 07
+###### 07
 
 Lembrai-vos da precedente encarnação?
 
 👻 ▸ Oh! sim, e ela é a causa do meu exílio atual.
 
-###### #️⃣ 08
+###### 08
 
 Que existência era essa?
 
 👻 ▸ A de um jovem libertino no reinado de Henrique III.
 
-###### #️⃣ 09
+###### 09
 
 Dizeis ser uma punição a vossa condição atual... acaso não a escolhestes?
 
 👻 ▸ Não.
 
-###### #️⃣ 10
+###### 10
 
 Como pode vossa atual existência servir ao vosso adiantamento no estado de nulidade em que vos achais?
 
 👻 ▸ Para mim não há nulidade, pois foi Deus quem me impôs esta contingência.
 
-###### #️⃣ 11
+###### 11
 
 Podeis prever o tempo de duração da existência atual?
 
 👻 ▸ Não, porém, mais ano menos ano, reentrarei na minha pátria.
 
-###### #️⃣ 12
+###### 12
 
 Durante o tempo que mediou entre a vossa última desencarnação e a encarnação atual, que fizestes?
 
 👻 ▸ Deus encarcerou-me; logo, era eu um Espírito leviano.
 
-###### #️⃣ 13
+###### 13
 
 Tendes, quando acordado, a consciência do que se passa, apesar da imperfeição dos vossos órgãos?
 
 👻 ▸ Vejo e ouço, mas meu corpo nada vê nem percebe.
 
-###### #️⃣ 14
+###### 14
 
 Poderemos fazer algo de proveitoso por vós?
 
 👻 ▸ Nada.
 
-###### #️⃣ 15
+###### 15
 
 (A São Luís.) Tratando-se de Espírito encarnado, as preces têm a mesma eficácia para os desencarnados?
 
@@ -5527,19 +5527,19 @@ Evocação.
 
 Era uma menina dos seus 10 anos, filha de uma família de camponeses do sul da França. Havia já 4 anos que se achava profundamente enferma. Durante a vida nunca se lhe ouviu um queixume, um sinal de impaciência, e, conquanto desprovida de instrução, consolava a família nas suas aflições, comentando a vida futura e a felicidade que da mesma deveria decorrer. Desencarnou em setembro de 1862, após 4 dias de convulsivas torturas, durante as quais não cessava de orar. “Não temo a morte”, dizia, “por isso que depois dela me está reservada uma vida feliz.” A seu pai, que chorava, dizia: “Consola-te, porque virei visitar-te; sinto que a hora se aproxima, mas, quando ela chegar, saberei prevenir-te.” E, efetivamente, quando era iminente o momento fatal, chamou por todos os seus e disse-lhes: “Tenho apenas cinco minutos de vida; deem-me as mãos.” E expirou como previra. Daí por diante, um Espírito batedor principiou a visitar a casa dos Rivier: quebra tudo, bate na mesa, agita as roupas, as cortinas, a louça... Sob a forma de Clara ele aparece à irmã mais nova, que conta apenas 5 anos. Segundo afirma essa criança, a irmã lhe aparece frequentemente, e tais aparições lhe provocam exclamações de alegria como esta: “Mas vejam como Clara é bonita!”
 
-###### #️⃣ 01
+###### 01
 
 Evocação.
 
 👻 ▸ Aqui estou, disposta a responder-vos.
 
-###### #️⃣ 02
+###### 02
 
 Tão jovem quando encarnada, donde vos vinham as elevadas ideias sobre a vida futura, manifestadas neste mundo?
 
 👻 ▸ Do pouco tempo que me cumpria passar no vosso planeta e da minha precedente encarnação. Eu era médium tanto ao deixar como ao voltar à Terra; predestinada, sentia e via o que dizia.
 
-###### #️⃣ 03
+###### 03
 
 Como se explica que uma criança da vossa idade não desse um só gemido durante quatro anos de sofrimento?
 
@@ -5547,37 +5547,37 @@ Como se explica que uma criança da vossa idade não desse um só gemido durante
 
 — a do meu guia, continuamente visível ao meu lado. Ele, ao mesmo tempo que me aliviava, sabia incutir-me uma força de vontade superior aos sofrimentos.
 
-###### #️⃣ 04
+###### 04
 
 Como vos apercebestes do momento decisivo da morte?
 
 👻 ▸ Por influxo do meu anjo de guarda, que jamais me iludiu.
 
-###### #️⃣ 05
+###### 05
 
 Dissestes a vosso pai que se resignasse porque viríeis visitá-lo. Como se explica, pois, que, animada de tão bons sentimentos para com vossos pais, viésseis perturbá-los depois com arruídos em sua casa?
 
 👻 ▸ É que eu tenho indubitavelmente uma provação, ou antes uma missão a realizar. Acreditais que venha ver meus pais sem fito algum? Esses rumores, essas lutas derivadas da minha presença são um aviso. Nisso sou também auxiliada por outros Espíritos cuja turbulência tem sua razão de ser, como razão de ser tem a minha aparição à irmãzinha... Graças a nós, muitas convicções vão despontar. Meus pais haviam de passar por uma provação. Bem cedo isso passará, mas não antes de terem convencido uma multidão de espíritos.
 
-###### #️⃣ 06
+###### 06
 
 Então não sois vós, individualmente, o autor desses rumores?
 
 👻 ▸ Sou, porém, ajudada por Espíritos ao serviço da provação reservada aos meus genitores.
 
-###### #️⃣ 07
+###### 07
 
 Como se explica, então, que a irmãzinha só vos reconhecesse, não sendo vós a autora exclusiva de tais manifestações?
 
 👻 ▸ É que ela apenas me viu a mim. Agora dispõe de vista dupla, e ainda terei de confortá-la muitas vezes com a minha presença.
 
-###### #️⃣ 08
+###### 08
 
 Qual a razão dos vossos sofrimentos mortificantes numa idade tão infantil?
 
 👻 ▸ Faltas anteriores, expiação. Na precedente existência eu abusara da saúde, como da posição brilhante que ocupara. Eis por que Deus me disse: “Gozaste demasiada e desmesuradamente, portanto, pagarás a diferença; eras orgulhosa, logo, serás humilde; vaidosa da tua beleza, importa que dela decaias, esforçando-te antes por adquirir a caridade e a bondade.” Procedi consoante a vontade divina e o meu guia me auxiliou.
 
-###### #️⃣ 09
+###### 09
 
 Quereis que digamos algo aos vossos pais?
 
