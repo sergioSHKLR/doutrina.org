@@ -1,4 +1,4 @@
-# 👻 O Livro dos Espíritos
+# O Livro dos Espíritos
 
 ## Pré-textual
 
