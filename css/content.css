@@ -14,7 +14,7 @@
 }
 
 #content h2::before {
- content: "h2 🗂️ ";
+ content: "h2 ";
  color: #bbb;
 }
 
@@ -24,7 +24,7 @@
 }
 
 #content h3::before {
- content: "h3 📑 ";
+ content: "h3 ";
  color: #bbb;
 }
 
@@ -43,7 +43,7 @@
 }
 
 #content h5::before {
- content: "h5 #️⃣ ";
+ content: "h5 ";
  color: #bbb;
 }
 
@@ -53,7 +53,7 @@
 }
 
 #content h6::before {
- content: "h6 #️⃣ ";
+ content: "h6 ";
  color: #bbb;
 }
 

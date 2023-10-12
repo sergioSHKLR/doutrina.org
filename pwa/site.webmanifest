@@ -103,7 +103,7 @@
     {
       "name":"O Evangelho segundo o Espiritismo",
       "url":"/3ese.html",
-      "description":"📗 O Evangelho segundo o Espiritismo",
+      "description":"🕊️ O Evangelho segundo o Espiritismo",
       "icons": [
         {
           "src": "https://doutrina.org/pwa/green-book.png",
@@ -116,7 +116,7 @@
     {
       "name":"O Céu e o Inferno",
       "url":"/4ceu.html",
-      "description":"📕 O Céu e o Inferno",
+      "description":"🔥 O Céu e o Inferno",
       "icons": [
         {
           "src": "https://doutrina.org/pwa/red-book.png",
@@ -129,7 +129,7 @@
     {
       "name":"A Gênese",
       "url":"/5gen.html",
-      "description":"📓 A Gênese",
+      "description":"🌱 A Gênese",
       "icons": [
         {
           "src": "https://doutrina.org/pwa/black-notebook.png",
