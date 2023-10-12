@@ -753,157 +753,519 @@ Transportando-nos a alguns milhões de séculos somente, além da época atual, 
 
 ###### #️⃣ 17
 
-Após haver remontado, tanto quanto o permitia a nossa fraqueza, em direção à fonte oculta donde dimanam os mundos, como de um rio as gotas de água, consideremos a marcha das criações sucessivas e dos seus desenvolvimentos seriais. A matéria cósmica primitiva continha os elementos materiais, fluídicos e vitais de todos os universos que estadeiam suas magnificências diante da eternidade. Ela é a mãe fecunda de todas as coisas, a primeira avó e, sobretudo, a eterna geratriz. Absolutamente não desapareceu essa substância donde provêm as esferas siderais; não morreu essa potência, pois que ainda, incessantemente, dá à luz novas criações e incessantemente recebe, reconstituídos, os princípios dos mundos que se apagam do livro eterno. A substância etérea, mais ou menos rarefeita, que se difunde pelos espaços interplanetários; esse fluido cósmico que enche o mundo, mais ou menos rarefeito, nas regiões imensas, ricas de aglomerações de estrelas; mais ou menos condensado onde o céu astral ainda não brilha; mais ou menos modificado por diversas combinações, de acordo com as localidades da extensão, nada mais é do que a substância primitiva onde residem as forças universais, donde a natureza há tirado todas as coisas.34
+Após haver remontado, tanto quanto o permitia a nossa fraqueza, em direção à fonte oculta donde dimanam os mundos, como de um rio as gotas de água, consideremos a marcha das criações sucessivas e dos seus desenvolvimentos seriais. A matéria cósmica primitiva continha os elementos materiais, fluídicos e vitais de todos os universos que estadeiam suas magnificências diante da eternidade. Ela é a mãe fecunda de todas as coisas, a primeira avó e, sobretudo, a eterna geratriz. Absolutamente não desapareceu essa substância donde provêm as esferas siderais; não morreu essa potência, pois que ainda, incessantemente, dá à luz novas criações e incessantemente recebe, reconstituídos, os princípios dos mundos que se apagam do livro eterno. A substância etérea, mais ou menos rarefeita, que se difunde pelos espaços interplanetários; esse fluido cósmico que enche o mundo, mais ou menos rarefeito, nas regiões imensas, ricas de aglomerações de estrelas; mais ou menos condensado onde o céu astral ainda não brilha; mais ou menos modificado por diversas combinações, de acordo com as localidades da extensão, nada mais é do que a substância primitiva onde residem as forças universais, donde a natureza há tirado todas as coisas. [^34]
+
+[^34]: Nota de Allan Kardec: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
 
 ###### #️⃣ 18
 
+Esse fluido penetra os corpos, como um oceano imenso. É nele que reside o princípio vital que dá origem à vida dos seres e a perpetua em cada globo, conforme a condição deste, princípio que, em estado latente, se conserva adormecido onde a voz de um ser não o chama. Toda criatura, mineral, vegetal, animal ou qualquer outra — porquanto há muitos outros reinos naturais, de cuja existência nem sequer suspeitais [^35] — sabe, em virtude desse princípio vital e universal, apropriar as condições de sua existência e de sua duração.
+
+As moléculas do mineral têm uma certa soma dessa vida, do mesmo modo que a semente do embrião, e se grupam, como no organismo, em figuras simétricas que constituem os indivíduos.
+
+Muito importa nos compenetremos da noção de que a matéria cósmica primitiva se achava revestida, não só das leis que asseguram a estabilidade dos mundos, como também do universal princípio vital que forma gerações espontâneas em cada mundo, à medida que se apresentam as condições da existência sucessiva dos seres e quando soa a hora do aparecimento dos filhos da vida, durante o período criador.
+
+Efetua-se assim a criação universal. É, pois, exato dizer-se que, sendo as operações da natureza a expressão da vontade divina, Deus há criado sempre, cria incessantemente e nunca deixará de criar.
+
+[^35]: N.E.: Atualmente, a Biologia classifica em cinco reinos os seres vivos: monera (bactérias e algas azuis ou cianobactérias), protista (amebas e paramécios), fungos (cogumelos e leveduras), vegetal e animal.
+
 ###### #️⃣ 19
+
+Até aqui, porém, temos guardado silêncio sobre o mundo espiritual, que também faz parte da Criação e cumpre seus destinos conforme as augustas prescrições do Senhor. 
+
+Acerca do modo da criação dos Espíritos, entretanto, não posso ministrar mais que um ensino muito restrito, em virtude da minha própria ignorância e também porque tenho ainda de calar-me no que concerne a certas questões, se bem já me haja sido dado aprofundá-las. 
+
+Aos que desejem religiosamente conhecer e se mostrem humildes perante Deus, direi, rogando-lhes, todavia, que nenhum sistema prematuro baseiem nas minhas palavras: O Espírito não chega a receber a iluminação divina, que lhe dá, simultaneamente com o livre-arbítrio e a consciência, a noção de seus altos destinos, sem haver passado pela série divinamente fatal dos seres inferiores, entre os quais se elabora lentamente a obra da sua individualização. Unicamente a datar do dia em que o Senhor lhe imprime na fronte o seu tipo augusto, o Espírito toma lugar no seio das humanidades. 
+
+De novo peço: não construais sobre as minhas palavras os vossos raciocínios, tão tristemente célebres na história da Metafísica. Eu preferiria mil vezes calar-me sobre tão elevadas questões, tão acima das nossas meditações ordinárias, a vos expor a desnaturar o sentido de meu ensino e a vos lançar, por culpa minha, nos inextricáveis dédalos do deísmo ou do fatalismo.
 
 ###### #️⃣ 20
 
+Sucedeu que, num ponto do universo, perdido entre as miríades de mundos, a matéria cósmica se condensou sob a forma de imensa nebulosa, animada esta das leis universais que regem a matéria. Em virtude dessas leis, notadamente da força molecular de atração, [^36] tomou ela a forma de um esferoide, a única que pode assumir uma massa de matéria insulada no espaço. 
+
+O movimento circular produzido pela gravitação, rigorosamente igual, de todas as zonas moleculares em direção ao centro, logo modificou a esfera primitiva, a fim de a conduzir, de movimento em movimento, à forma lenticular. Falamos do conjunto da nebulosa.
+
+[^36]: N.E.: Atualmente, a força de atração molecular a que se refere Galileu é chamada pelos astrofísicos de colapso gravitacional.
+
 ###### #️⃣ 21
+
+Novas forças surgiram em consequência desse movimento de rotação: a força centrípeta e a força centrífuga, a primeira tendendo a reunir todas as partes no centro, tendendo a segunda a afastá-las dele. Ora, acelerando-se o movimento, à medida que a nebulosa se condensa, e aumentando o seu raio, à medida que ela se aproxima da forma lenticular, a força centrífuga, incessantemente desenvolvida por essas duas causas, logo predominou sobre a atração central. 
+
+Assim como um movimento demasiado rápido da funda [^37] lhe quebra a corda, indo o projetil cair longe, também a predominância da força centrífuga destacou o círculo equatorial da nebulosa e desse anel uma nova massa se formou, isolada da primeira, mas, todavia, submetida ao seu império. Aquela massa conservou o seu movimento equatorial que, modificado, se lhe tornou movimento de translação em torno do astro solar. Ademais, o seu novo estado lhe dá um movimento de rotação em torno do próprio centro.
 
 ###### #️⃣ 22
 
+A nebulosa geratriz, que deu origem a esse novo mundo, condensou-se e retomou a forma esférica; mas, como o primitivo calor, desenvolvido por seus diversos movimentos, só com extrema lentidão se enfraqueceu, o fenômeno que acabamos de descrever se reproduzirá muitas vezes e durante longo período, enquanto a nebulosa não se haja tornado bastante densa, bastante sólida, para oferecer resistência eficaz às modificações de forma, que o seu movimento de rotação sucessivamente lhe imprime. 
+
+Ela, pois, não terá dado nascimento a um só astro, mas a centenas de mundos destacados do foco central, saídos dela pelo modo de formação mencionado acima. Ora, cada um de seus mundos, revestido, como o mundo primitivo, das forças naturais que presidem à criação dos universos gerará sucessivamente novos globos que desde então lhe gravitarão em torno, como ele, juntamente com seus irmãos, gravita em torno do foco que lhes deu existência e vida. Cada um desses mundos será um Sol, centro de um turbilhão de planetas sucessivamente destacados do seu equador. Esses planetas receberão uma vida especial, particular, embora dependente do astro que os gerou.
+
 ###### #️⃣ 23
+
+Os planetas são, assim, formados de massas de matéria condensada, porém, ainda não solidificada, destacadas da massa central pela ação de força centrífuga e que tomam, em virtude das leis do movimento, a forma esferoidal, mais ou menos elíptica, conforme o grau de fluidez que conservaram. Um desses planetas será a Terra que, antes de se resfriar e revestir de uma crosta sólida, dará nascimento à Lua, pelo mesmo processo de formação astral a que ela própria deveu a sua existência. A Terra, doravante inscrita no livro da vida, berço de criaturas cuja fraqueza as asas da divina Providência protege, nova corda colocada na harpa infinita e que, no lugar que ocupa, tem de vibrar no concerto universal dos mundos.
+
+##### Os satélites
 
 ###### #️⃣ 24
 
+Antes que as massas planetárias houvessem atingido um grau de resfriamento, bastante a lhes operar a solidificação, massas menores, verdadeiros glóbulos líquidos, se desprenderam de algumas no plano equatorial, plano em que é maior a força centrífuga, e, por efeito das mesmas leis, adquiriram um movimento de translação em torno do planeta que as gerou, como sucedeu a estes com relação ao astro central que lhes deu origem. 
+
+Foi assim que a Terra deu nascimento à Lua, cuja massa, menos considerável, teve que sofrer um resfriamento mais rápido. Ora, as leis e as forças que presidiram ao fato de ela se destacar do equador terreno, e o seu movimento de translação no mesmo plano, agiram de tal sorte que esse mundo, em vez de revestir a forma esferoidal, tomou a de um globo ovoide, isto é, a forma alongada de um ovo, com o centro de gravidade fixado na parte inferior.
+
 ###### #️⃣ 25
+
+As condições em que se efetuou a desagregação da Lua pouco lhe permitiram afastar-se da Terra e a constrangeram a conservar-se perpetuamente suspensa no seu firmamento, como uma figura ovoide, cujas partes mais pesadas formaram a face inferior voltada para a Terra e as partes menos densas lhe constituíram o vértice, se com essa palavra se designar a face que, do lado oposto à Terra, se eleva para o céu. É o que faz que esse astro nos apresente sempre a mesma face. Para melhor compreender-se o seu estado geológico, pode ele ser comparado a um globo de cortiça, tendo formada de chumbo a face voltada para a Terra. Daí, duas naturezas essencialmente distintas na superfície do mundo lunar: uma, sem qualquer analogia com o nosso, porquanto lhe são desconhecidos os corpos fluidos e etéreos; a outra, leve, relativamente à Terra, pois que todas as substâncias menos densas se encaminharam para esse hemisfério. A primeira, perpetuamente voltada para a Terra, sem águas e sem atmosfera, a não ser, aqui e ali, nos limites desse hemisfério terrestre; a outra, rica de fluidos, perpetuamente oposta ao nosso mundo. [^38], [^39]
+
+[^38]: Nota de Allan Kardec: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade. 
+
+Por muito racional e científica que seja essa teoria, como ainda não foi confirmada por nenhuma observação direta, somente a título de hipótese pode ser aceita e como ideia capaz de servir de baliza à Ciência. Não se pode, porém, deixar de convir em que é a única, até o presente, que dá uma explicação satisfatória das particularidades que apresenta o globo lunar.
+
+[^39]: N.E.: A Lua é o único satélite natural da Terra. Atualmente, a teoria mais aceita para a origem da Lua surgiu em 1975, a teoria do Grande Impacto, proposta pelo Instituto de Ciências Planetárias de Tucson e pelo Instituto Harvard-Smithsonian de Astrofísica. Após a análise de amostras de solo e rochas lunares coletadas pelas missões Apollo, os cientistas chegaram à conclusão que há cerca de 4.5 bilhões de anos, durante a formação da Terra, um objeto do tamanho de Marte colidiu com a Terra, essa violenta colisão lançou material, pedaços de rocha líquida, para a órbita da Terra; a Lua teria se formado, então, a partir da condensação do material expelido por essa colisão, tendo ficado aprisionada pelo campo gravitacional da Terra. 
+
+A Lua leva o mesmo tempo (27,3 dias terrestres) para girar ao redor de seu eixo e para orbitar em volta da Terra; assim, a mesma face (o lado visível) está sempre voltada para a Terra. A quantidade da superfície que podemos ver — a fase da Lua — depende de que fração do lado visível está recebendo a luz do Sol. 
+
+Allan Kardec em suas palavras já demonstrou a necessidade da observação direta da Lua para confirmação de seus dados. Em 1959, a sonda soviética Luna 3 esteve na órbita da Lua, enviando mensagens do lado oculto, encerrando as especulações de que o campo gravitacional lunar seria mais intenso naquela face, tornando possível a existência de atmosfera e vida. Há uma dissimetria entre o lado oculto e o lado visível, uma vez que a crosta na face oculta atinge 100 quilômetros de espessura, enquanto na face visível só atinge um máximo de sessenta quilômetros.
 
 ###### #️⃣ 26
 
+O número e o estado dos satélites de cada planeta têm variado de acordo com as condições especiais em que eles se formaram. Alguns não deram origem a nenhum astro secundário, como se verifica com Mercúrio, Vênus e Marte[^40], ao passo que outros, como a Terra, Júpiter, Saturno etc., formaram um ou vários desses astros secundários.
+
+[^40]: N.E.: Em 1877, foram descobertos dois satélites de Marte: Fobos e Deimos.
+
 ###### #️⃣ 27
+
+Além de seus satélites ou luas, o planeta Saturno apresenta o fenômeno especial do anel que, visto de longe, parece cercá-lo de uma como auréola branca. Essa formação é para nós uma nova prova da universalidade das leis naturais. Esse anel é, com efeito, o resultado de uma separação que se operou no equador de Saturno, ainda nos tempos primitivos, do mesmo modo que uma zona equatorial se escapou da Terra para formar o seu satélite. A diferença consiste em que o anel de Saturno se formou, em todas as suas partes, de moléculas homogêneas, provavelmente já em certo estado de condensação, e pode, dessa maneira, continuar o seu movimento de rotação no mesmo sentido e em tempo quase igual ao do que anima o planeta. Se um dos pontos desse anel houvesse ficado mais denso do que outro, uma ou muitas aglomerações de substância se teriam subitamente operado e Saturno contaria muitos satélites a mais. Desde a época da sua formação, esse anel se solidificou, do mesmo modo que os outros corpos planetários.
+
+##### Os cometas
 
 ###### #️⃣ 28
 
+Astros errantes, ainda mais do que os planetas que conservaram a denominação etimológica, os cometas serão os guias que nos ajudarão a transpor os limites do sistema a que pertence a Terra e nos levarão às regiões longínquas da extensão sideral. 
+
+Mas, antes de explorarmos os domínios celestes, com o auxílio desses viajantes do universo, bom será demos a conhecer, tanto quanto possível, a natureza intrínseca deles e o papel que lhes cabe na economia planetária.
+
 ###### #️⃣ 29
+
+Alguns hão visto, nesses astros dotados de cabeleira [^41], mundos nascentes, a elaborarem, no primitivo caos em que se acham, as condições de vida e de existência, que tocam em partilha às terras habitadas; outros imaginaram que esses corpos extraordinários eram mundos em estado de destruição e, para muitos, a singular aparência que têm foi motivo de apreciações errôneas acerca da natureza deles, isso a tal ponto que não houve, inclusive na astrologia judiciária, quem não os considerasse como pressagiadores de desgraças, enviados, por desígnios providenciais, à Terra, espantada e tremente.
+
+[^41]: 1 N.E.: Nuvem luminosa de gás e poeira, de aparência tênue e brumosa, que envolve o núcleo de um astro; coma.
 
 ###### #️⃣ 30
 
+A lei de variedade se aplica em tão larga escala nos trabalhos da natureza, que admira hajam os naturalistas, os astrônomos e os filósofos fabricado tantos sistemas para assimilar os cometas aos astros planetários e para somente verem neles astros em graus mais ou menos adiantados de desenvolvimento ou de caducidade. Entretanto, os quadros da natureza deveriam bastar amplamente para afastar o observador da preocupação de perquirir relações inexistentes e deixar aos cometas o papel modesto, porém, útil, de astros errantes, que servem de desbravadores dos impérios solares. Porque, os corpos celestes de que tratamos são coisa muito diversa dos corpos planetários; não têm por destinação, como estes, servir de habitação a humanidades. Eles vão sucessivamente de sóis em sóis, enriquecendo-se, às vezes, pelo caminho, de fragmentos planetários reduzidos ao estado de vapor, buscar, nos seus centros, os princípios vivificantes e renovadores que derramam sobre os mundos terrestres. (Cap. IX, item 12.)
+
 ###### #️⃣ 31
+
+Se, quando um desses astros se aproxima do nosso pequenino globo, para lhe atravessar a órbita e voltar ao seu apogeu [^42], situado a uma distância incomensurável do Sol, o acompanhássemos, pelo pensamento, para visitar com ele as regiões siderais, transporíamos a prodigiosa extensão de matéria etérea que separa das estrelas mais próximas o Sol e, observando os movimentos combinados desse astro, que se suporia desgarrado no deserto infinito, ainda aí encontraríamos uma prova eloquente da universalidade das leis da natureza, que atuam a distâncias que a mais ativa imaginação mal pode conceber. 
+
+Aí, a forma elíptica toma a forma parabólica e a marcha se torna tão lenta que o cometa não chega a percorrer mais que alguns metros, no mesmo em que no seu perigeu [^43] percorria muitos milhares de léguas. Talvez um sol mais poderoso, mais importante do que aquele que o cometa acaba de deixar, exerça sobre esse cometa uma atração preponderante e o receba na categoria de seus súditos. Então, na vossa pequenina Terra, em vão as crianças admiradas lhe aguardarão o retorno, que haviam predito, baseando-se em observações incompletas. Nesse caso, nós, que pelo pensamento acompanhamos a essas regiões desconhecidas o cometa errante, depararemos com uma nação nova, que os olhares terrenos não podem encontrar, inimaginável para os Espíritos que habitam a Terra, inconcebível mesmo para as suas mentes, porquanto ela será teatro de inexploradas maravilhas. 
+
+Chegamos ao mundo astral, nesse mundo deslumbrante dos vastos sóis que irradiam pelo espaço infinito e que são as flores brilhantes do magnífico jardim da criação. Lá chegados, apenas saberemos o que é a Terra.
+
+[^42]: N.E.: Posição orbital apresentada por um satélite terrestre (a Lua ou satélite artificial) quando, em sua revolução, se encontra mais afastado da Terra.
+
+[^43]: N.E.: Ponto da órbita de um astro ou satélite em torno da Terra, no qual ele se encontra mais próximo de nosso planeta.
+
+##### A Via Láctea
 
 ###### #️⃣ 32
 
+Pelas belas noites estreladas e sem luar, toda gente há contemplado essa faixa esbranquiçada que atravessa o céu de uma extremidade a outra e que os antigos cognominaram de Via Láctea, por motivo da sua aparência leitosa. Esse clarão difuso o olho do telescópioo tem longamente explorado nos modernos tempos; essa estrada de poeira de ouro, esse regato de leite da mitologia antiga se transformou num vasto campo de desconhecidas maravilhas. As pesquisas dos observadores conduziram ao conhecimento da sua natureza e revelaram que, ali, onde o olhar errante apenas percebia uma fraca luminosidade, há milhões de sóis mais luminosos e mais importantes do que o que nos clareia a Terra.
+
 ###### #️⃣ 33
+
+Com efeito, a Via Láctea é uma campina semeada de flores solares e planetárias, que brilham em toda a sua enorme extensão. O nosso Sol e todos os corpos que o acompanham fazem parte desse conjunto de globos radiosos que formam a Via Láctea. Malgrado, porém, as suas proporções gigantescas, relativamente à Terra, e à grandeza do seu império, ele, o Sol, ocupa inapreciável lugar em tão vasta criação. Podem contar-se por uma trintena de milhões os sóis que, à sua semelhança, gravitam nessa imensa região, afastados uns dos outros de mais de cem mil vezes o raio da órbita terrestre. [^44]
+
+[^44]: Nota de Allan Kardec: Mais de 3 trilhões e 400 bilhões de léguas.
 
 ###### #️⃣ 34
 
+Por esse cálculo aproximativo se pode julgar da extensão de tal região sideral e da relação que existe entre o nosso sistema planetário e a universalidade dos sistemas que o ocupam. Pode-se igualmente julgar da exiguidade do domínio solar e, a fortiori, do nada que é a nossa pequenina Terra. Que seria, então, se se considerassem os seres que a povoam! 
+
+Digo — “do nada” — porque as nossas determinações se aplicam não só à extensão material, física, dos corpos que estudamos — o que pouco seria — mas, também e sobretudo, ao estado moral deles como habitação e ao grau que ocupam na eterna hierarquia dos seres. A criação se mostra aí em toda a sua majestade, engendrando e propagando, em torno do mundo solar e em cada um dos sistemas que o rodeiam por todos os lados, as manifestações da vida e da inteligência.
+
 ###### #️⃣ 35
+
+Assim, fica-se conhecendo a posição que o nosso Sol ou a Terra ocupam no mundo das estrelas. Ainda maior peso ganharão estas considerações, se refletirmos sobre o estado mesmo da Via Láctea que, na imensidade das criações siderais, não representa mais do que um ponto insensível e inapreciável, vista de longe, porquanto ela não é mais do que uma nebulosa estelar, entre os milhões das que existem no espaço. Se ela nos parece mais vasta e mais rica do que outras, é pela única razão de que nos cerca e se desenvolve em toda a sua extensão sob os nossos olhares, ao passo que as outras, sumidas nas profundezas insondáveis, mal se deixam entrever.
 
 ###### #️⃣ 36
 
+Ora, sabendo-se que a Terra nada é, ou quase nada, no sistema solar; que este nada é, ou quase nada, na Via Láctea; esta por sua vez é nada, ou quase nada, na universalidade das nebulosas e essa própria universalidade é bem pouca coisa dentro do imensurável infinito, começa-se a compreender o que é o globo terrestre.
+
+##### As estrelas fixas
+
 ###### #️⃣ 37
+
+As estrelas chamadas “fixas” e que constelam os dois hemisférios do firmamento não se acham de todo isentas de qualquer atração exterior, como geralmente se supõe. Longe disso: elas pertencem todas a uma mesma aglomeração de astros estelares, aglomeração que não é senão a grande nebulosa de que fazemos parte e cujo plano equatorial, projetado no céu, recebeu o nome de Via Láctea. Todos os sóis que a constituem são solidários; suas múltiplas influências reagem perpetuamente umas sobre as outras e a gravitação universal as grupa todas numa mesma família.
 
 ###### #️⃣ 38
 
+Esses diversos sóis estão na sua maioria, como o nosso, cercados de mundos secundários, que eles iluminam e fecundam por intermédio das mesmas leis que presidem à vida do nosso sistema planetário. Uns, como Sírio, são milhares de vezes mais magníficos em dimensões e em riquezas do que o nosso e muito mais importante é o papel que desempenham no universo. Também planetas em muito maior número e muito superiores aos nossos os cercam. Outros são muito dessemelhantes pelas suas funções astrais. É assim que certo número desses sóis, verdadeiros gêmeos da ordem sideral, são acompanhados de seus irmãos da mesma idade, e formam, no espaço, sistemas binários, aos quais a natureza outorgou funções inteiramente diversas das que tocaram ao nosso Sol.[^45] Lá, os anos não se medem pelos mesmos períodos, nem os dias pelos mesmos sóis e esses mundos, iluminados por um duplo facho, foram dotados de condições de existência inimagináveis por parte dos que ainda não saíram deste pequenino mundo terrestre. Outros astros, sem cortejo, privados de planetas, receberam os melhores elementos de habitabilidade concedidos a alguns. Na sua imensidade, as leis da natureza se diversificam e, se a unidade é a grande expressão do universo, a variedade infinita é igualmente seu eterno atributo.
+
+[^45]: Nota de Allan Kardec: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
+
 ###### #️⃣ 39
+
+Malgrado o prodigioso número dessas estrelas e de seus sistemas, malgrado as distâncias incomensuráveis que as separam, elas pertencem todas à mesma nebulosa estelar que os olhos dos mais possantes telescópios mal conseguem atravessar e que as concepções da mais ousada imaginação apenas logram alcançar, nebulosa que, entretanto, é simplesmente uma unidade na ordem das nebulosas que compõem o mundo astral.
 
 ###### #️⃣ 40
 
+As estrelas chamadas fixas não estão imóveis na amplidão. As constelações que se figuraram na abóbada do firmamento não são reais criações simbólicas. A distância a que se acham da Terra e a perspectiva sob a qual se mede, da estação terrena, o universo, constituem as duas causas dessa dupla ilusão de óptica. (Cap. V, item 12.)
+
 ###### #️⃣ 41
+
+Vimos que a totalidade dos astros que cintilam na cúpula azulada se acha encerrada numa aglomeração cósmica, numa mesma nebulosa a que chamais Via Láctea, mas, por pertencerem todos ao mesmo grupo, não se segue que esses astros não estejam animados todos de movimento de translação no espaço, cada um com o seu. Em parte nenhuma existe o repouso absoluto. Eles têm a regê-los as leis universais da gravitação e rolam no espaço ilimitado sob a impulsão incessante dessa força imensa. Rolam, não segundo roteiros traçados pelo acaso, mas segundo órbitas fechadas, cujo centro um astro superior ocupa. Para tornar, por meio de um exemplo, mais compreensíveis as minhas palavras, falarei de modo especial do vosso Sol.
 
 ###### #️⃣ 42
 
+Sabe-se, em consequência de modernas observações, que ele não é fixo, nem central, como se acreditava nos primeiros tempos da nova astronomia; que avança pelo espaço, arrastando consigo o seu vasto sistema de planetas, de satélites e de cometas.
+
+Ora, não é fortuita esta marcha e ele não vai, errando pelos vácuos infinitos, transviar seus filhos e seus súditos, longe das regiões que lhe estão assinadas. Não, sua órbita é determinada e, em concorrência com outros sóis da mesma ordem e rodeados todos de certo número de terras habitadas, ele gravita em torno de um sol central. Seu movimento de gravitação, como o dos sóis seus irmãos, é inapreciável a observações anuais, porque somente grande número de períodos seculares seriam suficientes para marcar um desses anos astrais.
+
 ###### #️⃣ 43
+
+O sol central, de que acabamos de falar, também é um globo secundário relativamente a outro, ainda mais importante, ao derredor daquele ele perpetua uma marcha lenta e compassada, na companhia de outros sóis da mesma ordem. 
+
+Poderíamos comprovar esta subordinação sucessiva de sóis a sóis, até que a nossa imaginação cansasse de subir a uma tal hierarquia, porquanto, não o esqueçamos, em números redondos, uma trintena de milhões de sóis se pode contar na Via Láctea [^46], subordinados uns aos outros, como rodas gigantescas de uma engrenagem imensa.
+
+[^46]: N.E.: Atualmente, a Ciência atribui à Via Láctea uma assombrosa quantidade de estrelas, que varia de 200 a 400 bilhões de sóis.
 
 ###### #️⃣ 44
 
+E esses astros, em números incontáveis, vivem vida solidária. Assim como, na economia do vosso mundinho terrestre, nada se acha isolado, também nada o está no universo incomensurável. 
+
+De longe, ao olhar investigador do filósofo que pudesse abarcar o quadro que o espaço e o tempo desdobram, esses sistemas de sistemas pareceriam uma poeira de grãos de ouro levantada em turbilhão pelo sopro divino, que faz voem nos céus os mundos siderais, como voam os grãos de areia no dorso do deserto. 
+
+Em parte nenhuma há imobilidade, nem silêncio, nem noite! O grande espetáculo que então se nos desdobraria ante os olhos seria a criação real, imensa e cheia da vida etérea, que no seu imenso conjunto o olhar infinito do Criador abrange. 
+
+Mas, até aqui, temos falado de uma única nebulosa, que com os milhões de sóis, e os seus milhões de terras habitadas, forma apenas, como já o dissemos, uma ilha no arquipélago infinito.
+
+##### Os desertos do espaço
+
 ###### #️⃣ 45
+
+Inimaginável deserto, sem limites, se estende para lá da aglomeração de estrelas de que vimos de tratar, e a envolve. A solidões sucedem solidões e incomensuráveis planícies do vácuo se distendem pela amplidão afora. Os amontoados de matéria cósmica se encontram isolados no espaço como ilhas flutuantes de enormíssimo arquipélago. Se quisermos, de alguma forma, apreciar a distância enorme que separa o aglomerado de estrelas, de que fazemos parte, dos outros aglomerados mais próximos, precisamos saber que essas ilhas estelares se encontram disseminadas e raras no vastíssimo oceano dos céus, e que a extensão que as separa, umas das outras, é incomparavelmente maior do que as que lhes medem as respectivas dimensões. 
+
+Ora, a nebulosa estelar mede, como já vimos, em números redondos, mil vezes a distância das estrelas mais aproximadas, tomada por unidade essa distância, isto é, alguns cem mil trilhões de léguas.47 A distância que existe entre elas, sendo muito mais vasta, não poderia ser expressa por números acessíveis à compreensão do nosso espírito. Só a imaginação, em suas concepções mais altas, é capaz de transpor tão prodigiosa imensidade, essas solidões mudas e baldas de toda aparência de vida, e de encarar, de certa maneira, a ideia dessa infinidade relativa.
 
 ###### #️⃣ 46
 
+Todavia, o deserto celeste, que envolve o nosso universo sideral e que parece estender-se como os afastados confins do nosso mundo astral, é abrangido pela visão e o poder infinito do Altíssimo que, além desses céus dos nossos céus, desenvolveu a trama da sua criação ilimitada.
+
 ###### #️⃣ 47
+
+Além de tão vastas solidões, com efeito, rebrilham mundos em sua magnificência, tanto quanto nas regiões acessíveis às investigações humanas; para lá desses desertos, vagam, no éter límpido esplêndidos oásis, que sem cessar renovam as cenas admiráveis da existência e da vida. Sucedem-se lá os agregados longínquos de substância cósmica, que o profundo olhar do telescópio percebe através das regiões transparentes do nosso céu e a que dais o nome de nebulosas irresolúveis, as quais vos parecem ligeiras nuvens de poeira branca, perdidas num ponto desconhecido do espaço etéreo. Lá se revelam e desdobram novos mundos, cujas condições variadas e diversas das que são peculiares ao vosso globo lhes dão uma vida que as vossas concepções não podem imaginar, nem os vossos estudos comprovar. É lá que em toda a sua plenitude resplandece o poder criador. Àquele que vem das regiões que o vosso sistema ocupa, outras leis se deparam em ação e suas forças regem as manifestações da vida. E os novos caminhos que se nos apresentam em tão singulares regiões abrem-nos surpreendentes perspectivas. [^48]
+
+[^48]: Nota de Allan Kardec: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis. 
+
+Uma comparação familiar pode dar ideia, embora muito imperfeita, das nebulosas resolúveis: são os grupos de centelhas projetadas pelas bombas dos fogos de artifício, no momento de explodirem. Cada uma dessas centelhas figurará uma estrela e o conjunto delas a nebulosa, ou grupo de estrelas reunidas num ponto do espaço e submetidas a uma lei comum de atração e de movimento. Vistas de certa distância, mal se distinguem essas centelhas, tendo o grupo por elas formado a aparência de uma nuvenzinha de fumaça. Não seria exata esta comparação, se se tratasse de massas de matéria cósmica condensada. 
+
+A nossa Via Láctea é uma dessas nebulosas. Conta perto de 30 milhões de estrelas ou sóis que ocupam nada menos de algumas centenas de trilhões de léguas de extensão e, entretanto, não é a maior. Suponhamos apenas uma média de 20 planetas habitados circulando em torno de cada sol: teremos 600 milhões de mundos só para o nosso grupo. 
+
+Se nos pudéssemos transportar da nossa nebulosa para outra, aí estaríamos como em meio da nossa Via Láctea, porém com um céu estrelado de aspecto inteiramente diverso e este, malgrado as suas dimensões colossais, nos pareceria, de longe, um pequenino floco lenticular perdido no infinito. Mas, antes de atingirmos a nova nebulosa, seríamos qual viajante que deixa uma cidade e percorre vasto país inabitado, antes que chegue a outra cidade. Teríamos transposto incomensuráveis espaços desprovidos de estrelas e de mundos, o que Galileu denominou os desertos do espaço. À medida que avançássemos, veríamos a nossa nebulosa afastar-se atrás de nós, diminuindo de extensão às nossas vistas, ao mesmo tempo que, diante de nós, se apresentaria aquela para a qual nos dirigíssemos, cada vez mais distinta, semelhante à massa de centelhas de bomba de fogos de artifício. Transportando-nos pelo pensamento às regiões do espaço além do arquipélago da nossa nebulosa, veremos em torno de nós milhões de arquipélagos semelhantes e de formas diversas, contendo cada um milhões de sóis e centenas de milhões de mundos habitados. 
+
+Tudo o que nos possa identificar com a imensidade da extensão e com a estrutura do universo é de utilidade para a ampliação das ideias, tão restringidas pelas crenças vulgares. Deus avulta aos nossos olhos, à medida que melhor compreendemos a grandeza de suas obras e nossa infimidade. Estamos longe, como se vê, da crença que a gênese moisaica implantou e que fez da nossa pequenina, imperceptível Terra, a criação principal de Deus e dos seus habitantes os únicos objetos da sua solicitude. Compreendemos a vaidade dos homens que creem que tudo no universo foi feito para eles e dos que ousam discutir a existência do Ente supremo. Dentro de alguns séculos, causará espanto que uma religião feita para glorificar a Deus o tenha rebaixado a tão mesquinhas proporções e que haja repelido, como concepção do espírito do mal, as descobertas que somente vieram aumentar a nossa admiração pela sua onipotência, iniciando-nos nos grandiosos mistérios da criação. Ainda maior será o espanto, quando souberem que essas descobertas foram repelidas porque emancipariam o espírito dos homens e tirariam a preponderância dos que se diziam representantes de Deus na Terra.
+
+##### Eterna sucessão dos mundos
 
 ###### #️⃣ 48
 
+Vimos que uma única lei, primordial e geral, foi outorgada ao universo, para lhe assegurar eternamente a estabilidade, e que essa lei geral nos é perceptível aos sentidos por muitas ações particulares que nomeamos forças diretrizes da natureza. Vamos agora mostrar que a harmonia do mundo inteiro, considerada sob o duplo aspecto da eternidade e do espaço, é garantida por essa lei suprema.
+
 ###### #️⃣ 49
+
+Com efeito, se remontarmos à origem primária das primitivas aglomerações da substância cósmica, notaremos que, sob o império dessa lei, a matéria sofre as transformações necessárias, que levam do gérmen ao fruto maduro, e que, sob a impulsão das diversas forças nascidas dessa lei, ela percorre a escala das revoluções periódicas. Primeiramente, centro fluídico dos movimentos; em seguida, gerador dos mundos; mais tarde, núcleo central e atrativo das esferas que lhe nasceram do seio. 
+
+Já sabemos que essas leis presidem à história do Cosmo; o que agora importa saber é que elas presidem igualmente à destruição dos astros, porquanto a morte não é apenas uma metamorfose do ser vivo, mas também uma transformação da matéria inanimada. Se é exato dizer-se, em sentido literal, que a vida só é acessível à foice da morte, não menos exato é dizer-se que para a substância é de toda necessidade sofrer as transformações inerentes à sua constituição.
 
 ###### #️⃣ 50
 
+Temos aqui um mundo que, desde o primitivo berço, percorreu toda a extensão dos anos que a sua organização especial lhe permitia percorrer. Extinguiu-se-lhe o foco interior da existência, seus elementos perderam a virtude inicial; os fenômenos da natureza, que reclamavam, para se produzirem, a presença e a ação das forças outorgadas a esse mundo, já não mais podem produzir-se, porque a alavanca da atividade delas já não dispõe do ponto de apoio que lhe era indispensável. 
+
+Ora, dar-se-á que essa terra extinta e sem vida vai continuar a gravitar nos espaços celestes, sem uma finalidade, e passar como cinza inútil pelo turbilhão dos céus? Dar-se-á permaneça inscrita no livro da vida universal, quando já se tornou letra morta e vazia de sentido? Não. As mesmas leis que a elevaram acima do caos tenebroso e que a galardoaram com os esplendores da vida, as mesmas forças que a governaram durante os séculos da sua adolescência, que lhe firmaram os primeiros passos na existência e que a conduziram à idade madura e à velhice, vão também presidir à desagregação de seus elementos constitutivos, a fim de os restituir ao laboratório onde a potência criadora haure incessantemente as condições da estabilidade geral. Esses elementos vão retornar à massa comum do éter, para se assimilarem a outros corpos, ou para regenerarem outros sóis. E a morte não será um acontecimento inútil, nem para a Terra que consideramos, nem para suas irmãs. Noutras regiões, ela renovará outras criações de natureza diferente e, lá onde os sistemas de mundos se desvaneceram, em breve renascerá outro jardim de flores mais brilhantes e mais perfumadas.
+
 ###### #️⃣ 51
+
+Desse modo, a eternidade real e efetiva do universo se acha garantida pelas mesmas leis que dirigem as operações do tempo. Desse modo, mundos sucedem a mundos, sóis a sóis, sem que o imenso mecanismo dos vastos céus jamais seja atingido nas suas gigantescas molas. 
+
+Onde os vossos olhos admiram esplêndidas estrelas na abóbada da noite, onde o vosso espírito contempla irradiações magníficas que resplandecem nos espaços distantes, de há muito o dedo da morte extinguiu esses esplendores, de há muito o vazio sucedeu a esses deslumbramentos e já recebem mesmo novas criações ainda desconhecidas. A distância imensa a que se encontram esses astros, por efeito da qual a luz que nos enviam gasta milhares de anos a chegar até nós, faz com que somente hoje recebamos os raios que eles nos enviaram longo tempo antes da criação da Terra e com que ainda os admiremos durante milhares de anos após a sua desaparição real. [^49]
+
+Que são os seis mil anos da humanidade histórica, diante dos períodos seculares? Segundos em vossos séculos. Que são as vossas observações astronômicas, diante do estado absoluto do mundo? A sombra eclipsada pelo Sol.
+
+[^49]: Nota de Allan Kardec: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
 
 ###### #️⃣ 52
 
+Logo, reconheçamos, aqui como nos nossos outros estudos, que a Terra e o homem são nada em confronto com o que existe e que as mais colossais operações do nosso pensamento ainda se estendem apenas sobre um campo imperceptível, diante da imensidade e da eternidade de um universo que nunca terá fim. 
+
+E, quando esses períodos da nossa imortalidade nos houverem passado sobre as cabeças, quando a história atual da Terra nos aparecer qual sombra vaporosa no fundo da nossa lembrança; quando, durante séculos incontáveis, houvermos habitado esses diversos degraus da nossa hierarquia cosmológica; quando os mais longínquos domínios das idades futuras tiverem sido por nós perlustrados em inúmeras peregrinações, teremos diante de nós a sucessão ilimitada dos mundos e por perspectiva a eternidade imóvel.
+
+##### A vida universal
+
 ###### #️⃣ 53
+
+Essa imortalidade das almas, tendo por base o sistema do mundo físico, pareceu imaginária a certos pensadores prevenidos; qualificaram-na ironicamente de imortalidade viajora e não compreenderam que só ela é verdadeira ante o espetáculo da criação. Entretanto, pode-se tornar compreensível toda a sua grandeza, quase diríamos: toda a sua perfeição.
 
 ###### #️⃣ 54
 
+Que as obras de Deus sejam criadas para o pensamento e a inteligência; que os mundos sejam moradas de seres que as contemplam e lhes descobrem, sob o véu, o poder e a sabedoria daquele que as formou, são questões que já nos não oferecem dúvida; mas, que sejam solidárias as almas que os povoam, é o que importa saber.
+
 ###### #️⃣ 55
+
+Com efeito, a inteligência humana encontra dificuldade em considerar esses globos radiosos que cintilam na amplidão como simples massas de matéria inerte e sem vida. Custa-lhe a pensar que não haja, nessas regiões distantes, magníficos crepúsculos e noites esplendorosas, sóis fecundos e dias transbordantes de luz, vales e montanhas, onde as produções múltiplas da natureza desenvolvam toda a sua luxuriante pompa. Custa-lhe a imaginar, digo, que o espetáculo divino em que a alma pode retemperar-se como em sua própria vida, seja baldo da existência e carente de qualquer ser pensante que o possa conhecer.
 
 ###### #️⃣ 56
 
+Mas a essa ideia eminentemente justa da Criação, faz-se mister acrescentar a da humanidade solidária e é nisso que consiste o mistério da eternidade futura. 
+
+Uma mesma família humana foi criada na universalidade dos mundos e os laços de uma fraternidade que ainda não sabeis apreciar foram postos a esses mundos. Se os astros que se harmonizam em seus vastos sistemas são habitados por inteligências, não o são por seres desconhecidos uns dos outros, mas, ao contrário, por seres que trazem marcado na fronte o mesmo destino, que se hão de encontrar temporariamente segundo suas funções de vida e suas mútuas simpatias. É a grande família dos Espíritos que povoam as terras celestes; é a grande irradiação do Espírito divino que abrange a extensão dos céus e que permanece como tipo primitivo e final da perfeição espiritual.
+
 ###### #️⃣ 57
+
+Por que singular aberração se há podido crer fosse mister negar à imortalidade as vastas regiões do éter, quando a encerravam dentro de um limite inadmissível e de uma dualidade absoluta? O verdadeiro sistema do mundo deveria, então, preceder à verdadeira doutrina dogmática e a Ciência preceder à Teologia? Esta se transviará tanto que irá colocar sua base sobre a Metafísica? A resposta é fácil e nos mostra que a nova filosofia se assentará triunfante nas ruínas da antiga, porque sua base se terá erguido vitoriosa sobre os antigos erros.
+
+##### Diversidade dos mundos
 
 ###### #️⃣ 58
 
+Acompanhando-nos em nossas excursões celestes, visitastes conosco as regiões imensas do espaço. Debaixo das nossas vistas, os sóis sucederam aos sóis, os sistemas aos sistemas, as nebulosas às nebulosas; diante dos nossos passos, desenrolou-se o panorama esplêndido da harmonia do Cosmo e antegozamos a ideia do infinito, que somente de acordo com a nossa perfectibilidade futura poderemos compreender em toda a sua extensão. Os mistérios do éter nos desvendaram o seu enigma até aqui indecifrável e, pelo menos, concebemos a ideia da universalidade das coisas. Cumpre que agora nos detenhamos a refletir.
+
 ###### #️⃣ 59
+
+É belo, sem dúvida, haver reconhecido quanto é ínfima a Terra e medíocre a sua importância na hierarquia dos mundos; é belo haver abatido a presunção humana, que nos é tão cara, e nos termos humilhado ante a grandeza absoluta; ainda mais belo, no entanto, será que interpretemos em sentido moral o espetáculo de que fomos testemunhas. Quero falar do poder infinito da natureza e da ideia que devemos fazer do seu modo de ação nos diversos domínios do vasto universo.
 
 ###### #️⃣ 60
 
+Acostumados, como estamos, a julgar das coisas pela nossa insignificante e pobre habitação, imaginamos que a natureza não pode ou não teve de agir sobre os outros mundos, senão segundo as regras que lhe conhecemos na Terra. Ora, precisamente neste ponto é que importa reformemos a nossa maneira de ver. 
+
+Lançai por um instante o olhar sobre uma região qualquer do vosso globo e sobre uma das produções da vossa natureza. Não reconhecereis aí o cunho de uma variedade infinita e a prova de uma atividade sem par? Não vedes na asa de um passarinho das Canárias, na pétala de um botão de rosa entreaberto a prestigiosa fecundidade dessa bela natureza? 
+
+Apliquem-se aos seres que adejam nos ares os vossos estudos, desçam eles à violeta dos prados, mergulhem nas profundezas do oceano, em tudo e por toda a parte lereis esta verdade universal: A natureza onipotente age conforme os lugares, os tempos e as circunstâncias; ela é una em sua harmonia geral, mas múltipla em suas produções; brinca com um Sol, como com uma gota de água; povoa de seres vivos um mundo imenso com a mesma facilidade com que faz se abra o ovo posto pela borboleta.
+
 ###### #️⃣ 61
+
+Ora, se é tal a variedade que a natureza nos há podido evidenciar em todos os sítios deste pequeno mundo tão acanhado, tão limitado, quão mais ampliado não deveis considerar esse modo de ação, ponderando nas perspectivas dos mundos enormes! quão mais desenvolvida e pujante não a deveis reconhecer, operando nesses mundos maravilhosos que, muito mais do que a Terra, lhe atestam a inapreciável perfeição! 
+
+Não vejais, pois, em torno de cada um dos sóis do espaço, apenas sistemas planetários semelhantes ao vosso sistema planetário; não vejais, nesses planetas desconhecidos, apenas os três reinos que se estadeiam ao vosso derredor. Pensai, ao contrário, que, assim como nenhum rosto de homem se assemelha a outro rosto em todo o gênero humano, também uma portentosa diversidade, inimaginável, se acha espalhada pelas moradas eternas que vogam no seio dos espaços. 
+
+Do fato de que a vossa natureza animada começa no zoófito para terminar no homem, de que a atmosfera alimenta a vida terrestre, de que o elemento líquido a renova incessantemente, de que as vossas estações fazem se sucedam nessa vida os fenômenos que as distinguem, não concluais que os milhões e milhões de terras que rolam pela amplidão sejam semelhantes à que habitais. Longe disso, aquelas diferem, de acordo com as diversas condições que lhes foram prescritas e de acordo com o papel que a cada uma coube no cenário do mundo. São pedrarias variegadas de um imenso mosaico, as diversificadas flores de admirável parque.
 
 ### 07 - Esboço geológico da Terra
 
+#### Períodos geológicos
+
 ###### #️⃣ GEN-1-07-p1
+
+A Terra conserva em si os traços evidentes da sua formação. Acompanham-se-lhe as fases com precisão matemática, nos diferentes terrenos que lhe constituem o arcabouço. O conjunto desses estudos forma a ciência chamada Geologia, ciência nascida neste século (XIX) e que projetou luz sobre a tão controvertida questão da origem do globo terreno e da dos seres vivos que o habitam. Neste ponto, não há simples hipótese; há o resultado rigoroso da observação dos fatos e, diante dos fatos, nenhuma dúvida se justifica. A história da formação da Terra está escrita nas camadas geológicas, de maneira bem mais certa do que nos livros preconcebidos, porque é a própria natureza que fala, que se põe a nu, e não a imaginação dos homens a criar sistemas. Desde que se notem traços de fogo, pode dizer-se com certeza que houve fogo ali; onde se vejam os da água, pode dizer-se que a água ali esteve; desde que se observem os de animais, pode dizer-se que viveram aí animais. A Geologia é, pois, uma ciência toda de observação; só tira deduções do que vê; sobre os pontos duvidosos, nada afirma; não emite opiniões discutíveis, por esperar de observações mais completas a solução procurada. Sem as descobertas da Geologia, como sem as da Astronomia, a Gênese do mundo ainda estaria nas trevas da lenda. Graças a elas, o homem conhece hoje a história da sua habitação, tendo desmoronado, para não mais tornar a erguer-se, a estrutura de fábulas que lhe rodeavam o berço.
 
 ###### #️⃣ GEN-1-07-p2
 
+Em todos os terrenos onde existam valas, escavações naturais ou praticadas pelo homem, nota-se o a que se chama estratificações, isto é, camadas superpostas. Os que apresentam essa disposição se designam pelo nome de terrenos estratificados. Essas camadas, de espessura que varia desde alguns centímetros até 100 metros e mais, se distinguem entre si pela cor e pela natureza das substâncias de que se compõem. Os trabalhos de arte, a perfuração de poços, a exploração de pedreiras e, sobretudo, de minas facultaram observá-las até grande profundidade. 
+
 ###### #️⃣ GEN-1-07-p3
+
+São em geral homogêneas as camadas, isto é, cada uma constituída da mesma substância, ou de substâncias diversas, mas que existiram juntas e formaram um todo compacto. A linha de separação que as isola umas das outras é sempre nitidamente sulcada, como nas fiadas de uma construção. Em nenhuma parte se apresentam misturadas e sumidas umas nas outras, nos pontos de seus respectivos limites, como se dá, por exemplo, com as cores do prisma e do arco-íris. Por esses caracteres, reconhece-se que elas se formaram sucessivamente, depositando-se uma sobre outra, em condições e por causas diferentes. As mais profundas são, naturalmente, as que se formaram em primeiro lugar, tendo-se formado posteriormente as mais superficiais. A última de todas, a que se acha na superfície, é a camada da terra vegetal, que deve suas propriedades aos detritos de matérias orgânicas provenientes das plantas e dos animais.
 
 ###### #️⃣ GEN-1-07-p4
 
+As camadas inferiores, colocadas abaixo da camada vegetal, receberam em Geologia o nome de rochas, palavra que, nessa acepção, nem sempre implica a ideia de uma substância pedrosa, significando antes um leito ou banco feito de uma substância mineral qualquer. Umas são formadas de areia, de argila ou de terra argilosa, de marna, de seixos rolados; outras o são de pedras propriamente ditas, mais ou menos duras, tais como os grés, os mármores, o cré, os calcários ou pedras calcárias, as pedras molares, ou carvões de pedra, os asfaltos etc. Diz-se que uma rocha é mais ou menos possante conforme é mais ou menos considerável a sua espessura. 
+
+Mediante o exame da natureza dessas rochas ou camadas, reconhece-se, por sinais certos, que umas provêm de matérias fundidas e, às vezes, vitrificadas sob a ação do fogo; outras, de substâncias terrosas depostas pelas águas; algumas de tais substâncias se conservaram desagregadas, como as areias; outras, a princípio em estado pastoso, sob a ação de certos agentes químicos ou por outras causas, endureceram e adquiriram, com o tempo, a consistência da pedra. Os bancos de pedras superpostas denunciam depósitos sucessivos. O fogo e a água participaram, pois, da formação dos materiais que compõem o arcabouço sólido do globo terráqueo.
+
 ###### #️⃣ GEN-1-07-p5
+
+A posição normal das camadas terrosas ou pedregosas, provenientes de depósitos aquosos, é a horizontal. Ao vermos essas planícies imensas, que por vezes se estendem a perder de vista, de perfeita horizontalidade, lisas como se as tivessem nivelado com um rolo compressor, ou esses vales profundos, tão planos como a superfície de um lago, podemos estar certos de que, em época mais ou menos afastada, tais lugares estiveram por longo tempo cobertos de águas tranquilas que, ao se retirarem, deixaram em seco as terras que elas depositaram enquanto ali permaneceram. Retiradas as águas, essas terras se cobriram de vegetação. Se, em vez de terras gordas [^50], limosas, argilosas, ou marnosas [^51], próprias a assimilar os princípios nutritivos, as águas apenas depositaram areias silicosas, sem agregação, temos as planícies arenosas que constituem as charnecas e os desertos, dos quais nos podem dar pequena ideia os depósitos que ficam das inundações parciais e os que formam as aluviões na embocadura dos rios.
+
+[^50]: N.E.: Terra que é úmida, coesa, forte.
+
+[^51]: N.E.: Solos de calcário e argila, usados em olarias e como corretivo de terras agrícolas
 
 ###### #️⃣ GEN-1-07-p6
 
+Conquanto a horizontal seja a posição mais generalizada e a que normalmente assumem as formações aquosas, não é raro verem-se, nos países montanhosos e em extensões bem grandes, rochas duras, cuja natureza indica que foram formadas em posição inclinada e, até por vezes, vertical. Ora, como, segundo as leis de equilíbrio dos líquidos e da gravidade, os depósitos aquosos somente em planos horizontais podem formar-se, pois os que se formam sobre planos inclinados são arrastados pelas correntes e pelo próprio peso para as baixadas, evidente se torna que tais depósitos foram levantados por uma força qualquer, depois de se terem solidificado ou transformado em pedras.
+
+Destas considerações se pode concluir, com certeza, que todas as camadas pedrosas que, provindo de depósitos aquosos, se encontram em posição perfeitamente horizontal, foram formadas, durante séculos, por águas tranquilas e que, todas as vezes que se achem em posição inclinada, o solo foi convulsionado e deslocado posteriormente, por subversões gerais ou parciais, mais ou menos consideráveis.
+
 ###### #️⃣ GEN-1-07-p7
+
+Um fato característico e da mais alta importância, pelo testemunho irrecusável que oferece, consiste no existirem, em quantidades enormes, despojos fósseis de animais e vegetais, dentro das diferentes camadas. Como esses despojos se encontram até nas mais duras pedras, há de concluir-se que a existência de tais seres é anterior à formação das aludidas pedras. Ora, se levarmos em conta o prodigioso número de séculos que foram necessários para que se lhes produzisse o endurecimento e para que elas alcançassem o estado em que se acham desde tempos imemoriais, chega-se forçosamente à conclusão de que o aparecimento de seres orgânicos na Terra se perde na noite das idades e é muito anterior, por conseguinte, à data que lhes assina a Gênese. [^52], [^53]
+
+[^52]: Nota de Allan Kardec: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
+
+O termo petrificado se emprega relativamente aos corpos que se transformaram em pedra, pela infiltração de matérias silicosas ou calcárias nos tecidos orgânicos. Todas as petrificações necessariamente são fósseis, mas nem todos os fósseis são petrificações. 
+
+Nos objetos que se revestem de uma camada pedregosa quando mergulhados em certas águas carregadas de substâncias calcárias, como as do regato de Saint Allyre, perto de Clermont, no Auvergne (França), não são petrificações propriamente ditas, porém simples incrustações. 
+
+Os monumentos, inscrições e objetos produzidos por fabricação humana, esses pertencem à Arqueologia.
+
+[^53]: N.E.: Sabemos que as primeiras formas de vida (bactérias e algas azul-esverdeadas) surgiram há cerca de 3.500 milhões de anos, e há 570 milhões de anos as plantas e os animais complexos começaram a se desenvolver.
 
 ###### #️⃣ GEN-1-07-p8
 
+Entre os despojos de vegetais e animais, alguns há que se mostram penetrados em todos os pontos de sua substância, sem que isso lhes alterasse a forma, de matérias silicosas ou calcárias que os transformaram em pedras, algumas das quais apresentam a dureza do mármore. São as petrificações propriamente ditas. Outros foram apenas envolvidos pela matéria no estado de flacidez; são encontrados intactos e, alguns, inteiros, nas mais duras pedras. Outros, finalmente, apenas deixaram marcas, mas de uma nitidez e uma delicadeza perfeitas. No interior de certas pedras, encontraram-se até marcas de passos e, pela forma do pé, dos dedos e das unhas, chegou-se a reconhecer a espécie animal a que pertenceram.
+
 ###### #️⃣ GEN-1-07-p9
+
+Os fósseis de animais absolutamente não contêm, e isso é fácil de conceber-se, senão as partes sólidas e resistentes, isto é, as ossaturas, as escamas e os cornos; são, não raro, esqueletos completos; as mais das vezes, no entanto, são apenas partes destacadas, que a procedência facilmente se reconhece. Examinando-se uma queixada, um dente, logo se vê se pertence a um animal herbívoro ou carnívoro. Como todas as partes do animal guardam necessária correlação, a forma da cabeça, de uma omoplata, de um osso da perna, de um pé, basta para determinar o porte, a forma geral, o gênero de vida do animal. [^54] Os animais terrestres têm uma organização que não permite sejam confundidos com os animais aquáticos. 
+
+São extremamente numerosos os peixes e os moluscos testáceos fósseis; só estes últimos formam, às vezes, bancos inteiros de grande espessura. Pela natureza deles, verifica-se sem dificuldade se são animais marinhos ou de água doce.
+
+[^54]: Nota de Allan Kardec: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
 
 ###### #️⃣ GEN-1-07-p10
 
+Os seixos rolados, que em certos lugares formam rochas formidáveis, constituem inequívoco indício da origem deles. São arredondados como os calhaus de beira-mar, sinal certo do atrito que sofreram, por efeito das águas. As regiões onde eles se encontram enterrados, em massas consideráveis, foram incontestavelmente ocupadas pelo oceano, ou, durante longo tempo, por outras águas movediças, ou violentamente agitadas.
+
 ###### #️⃣ GEN-1-07-p11
+
+Além disso, os terrenos das diversas formações se caracterizam pela natureza mesma dos fósseis que encerram. As mais antigas contêm espécies animais ou vegetais que desapareceram inteiramente da superfície do planeta. Também desapareceram algumas espécies mais recentes; conservaram-se, porém, outras análogas, que apenas diferem daquelas pelo porte e por alguns matizes de forma. Outras, finalmente, cujos últimos representantes ainda vemos, tendem evidentemente a desaparecer em futuro mais ou menos próximo, tais como os elefantes, os rinocerontes, os hipopótamos etc. Assim, à medida que as camadas terrestres se aproximam da nossa época, as espécies animais e vegetais também se aproximam das que hoje existem. 
+
+As perturbações, os cataclismos que se produziram na Terra, desde a sua origem, lhe mudaram as condições de aptidão para entretenimento da vida e fizeram desaparecessem gerações inteiras de seres vivos.
 
 ###### #️⃣ GEN-1-07-p12
 
+Interrogando-se a natureza das camadas geológicas, vem-se a saber, de modo mais positivo, se, na época de sua formação, a região onde elas se apresentam era ocupada pelo mar, pelos lagos, ou por florestas e planícies povoadas de animais terrestres. Conseguintemente, se, numa mesma região, se encontra uma série de camadas superpostas, contendo alternativamente fósseis marinhos, terrestres e de água doce, muitas vezes repetidas, constitui esse fato prova irrecusável de que essa região foi muitas vezes invadida pelo mar, coberta de lagos e posta a seco. 
+
+E quantos séculos de séculos, certamente, quantos milhares de séculos, talvez, não foram precisos para que cada período se completasse! Que força poderosa não foi necessária para deslocar e recolocar o oceano, levantar montanhas! Por quantas revoluções físicas, comoções violentas não teve a Terra de passar, antes de ser qual a vemos desde os tempos históricos! E querer-se que tudo isso fosse obra executada em menos tempo do que o que leva uma planta para germinar!
+
 ###### #️⃣ GEN-1-07-p13
+
+O estudo das camadas geológicas atesta, como já se disse, formações sucessivas, que mudaram o aspecto do Globo e lhe dividem a história em muitas épocas, que constituem os chamados períodos geológicos, cujo conhecimento é essencial para a determinação da Gênese. São em número de seis os principais, designados pelos nomes de períodos primário, de transição, secundário, terciário, diluviano, pós-diluviano ou atual. Os terrenos formados durante cada período também se chamam: terrenos primitivos, de transição, secundários etc. Diz-se, pois, que tal ou tal camada ou rocha, tal ou tal fóssil se encontram nos terrenos de tal ou tal período.
 
 ###### #️⃣ GEN-1-07-p14
 
+Cumpre se note que o número desses períodos não é absoluto, pois depende dos sistemas de classificação. Nos seis principais, mencionados acima, só se compreendem os que estão assinalados por uma mudança notável e geral no estado do planeta; mas a observação prova que muitas formações sucessivas se operaram, enquanto durou cada um deles. Por isso é que são divididos em seis períodos caracterizados pela natureza dos terrenos e que elevam a vinte e seis o número das formações gerais bem assinaladas, sem contar os que provêm de modificações devidas a causas puramente locais.
+
+##### Estado primitivo do globo [^55]
+
 ###### #️⃣ GEN-1-07-p15
+
+O achatamento dos polos e outros fatos concludentes são indícios certos de que o estado da Terra, na sua origem, deve ter sido o de fluidez ou de flacidez, estado esse oriundo de se achar a matéria ou liquefeita pela ação do fogo, ou diluída pela da água. 
+
+Costuma-se dizer, proverbialmente: não há fumaça sem fogo. Rigorosamente verdadeira, esta sentença constitui uma aplicação do princípio: não há efeito sem causa. Pela mesma razão, pode-se dizer: não há fogo sem um foco. Ora, pelos fatos que se passam sob as nossas vistas, não é apenas fumaça o que se produz na Terra, mas fogo bastante real, que há de ter um foco. Vindo esse fogo do interior do planeta e não do alto, o foco lhe há de estar no interior e, como o fogo é permanente, o foco também o há de ser. 
+
+O calor, cujo aumento é progressivo à medida que se penetra no interior da Terra e que, a certa profundidade, chega a uma temperatura altíssima; as fontes térmicas, tanto mais quentes, quanto mais profunda lhes está a nascente; os fogos e as massas de matéria fundida esbraseada que os vulcões vomitam, como por vastos respiradouros, ou pelas fendas que alguns tremores de terra abrem, não deixam dúvida sobre a existência de um fogo interior.
 
 ###### #️⃣ GEN-1-07-p16
 
+A experiência demonstra que a temperatura se eleva de um grau a cada 30 metros de profundidade, donde se segue que, a uma profundidade de 300 metros, o aumento é de 10 graus; a 3.000 metros, de 100 graus, temperatura da água a ferver; a 30.000 metros, ou seja, 7 ou 8 léguas, de 1.000 graus; a 25 léguas, de mais de 3.300 graus, temperatura a que nenhuma matéria conhecida resiste à fusão. Daí ao centro, ainda há um espaço de mais de 1.400 léguas, ou 2.800 léguas em diâmetro, espaço que seria ocupado por matérias fundidas.
+
+Conquanto não haja aí mais do que uma conjetura, julgando da causa pelo efeito, tem ela todos os caracteres da probabilidade e leva à conclusão de que a Terra ainda é uma massa incandescente recoberta de uma crosta sólida da espessura de 25 léguas no máximo, o que é apenas a 120a parte do seu diâmetro. Proporcionalmente, seria muito menos do que a espessura da mais delgada casca de laranja. 
+
+Aliás, é muito variável a espessura da crosta terrestre, porquanto há zonas, sobretudo nos terrenos vulcânicos, onde o calor e a flexibilidade do solo indicam que ela é pouco considerável. A elevada temperatura das águas termais constitui igualmente indício de proximidade do foco central. [^56]
+
+[^56]: N.E.: Estima-se que a espessura da crosta seja de 6km no leito dos oceanos e 40km na crosta continental.
+
 ###### #️⃣ GEN-1-07-p17
+
+Assim sendo, evidente se torna que o primitivo estado de fluidez ou de flacidez da Terra há de ter tido como causa a ação do calor e não a da água. Em sua origem, pois, a Terra era uma massa incandescente. Em virtude da irradiação do calórico [^57], deu-se o que se dá com toda matéria em fusão: ela esfriou pouco a pouco, principiando o resfriamento, como era natural, pela superfície, que então endureceu, ao passo que o interior se conservou fluido. Pode-se assim comparar a Terra a um bloco de carvão ao sair ígneo da fornalha e que sua superfície se apaga e resfria, ao contato do ar, mantendo-se-lhe o interior em estado de ignição, conforme se verificará, quebrando-o.
+
+[^57]: N.E.: Teoria Calórica é uma teoria obsoleta que supunha a existência de um fluido invisível e inodoro, chamado calórico, que todos os corpos conteriam em quantidades determinadas em sua composição, era considerado o causador das alterações de temperatura até metade do século XIX. Quanto maior fosse a temperatura de um corpo, maior seria a sua quantidade de calórico, limitada, para cada corpo, a uma quantidade finita. A teoria do calórico explicava o comportamento dos gases e do vapor em termos de uma distinção entre o estado livre e latente do calor. Calor livre podia ser sentido e medido por termômetros; calor latente, por estar intimamente ligado com as ligações da moléculas, não poderia.
 
 ###### #️⃣ GEN-1-07-p18
 
+Na época em que o globo terrestre era uma massa incandescente, não continha nenhum átomo a mais, nem a menos do que hoje [^58]; apenas, sob a influência da alta temperatura, a maior parte das substâncias que a compõem e que vemos sob a forma de líquidos ou de sólidos, de terras, de pedras, de metais e de cristais se achavam em estado muito diferente. Sofreram unicamente uma transformação. Em consequência do resfriamento, os elementos formaram novas combinações. O ar, enormemente dilatado, decerto se estendia a uma distância imensa; toda a água, forçosamente transformada em vapor, se encontrava misturada com o ar; todas as matérias suscetíveis de se volatilizarem, tais como os metais, o enxofre, o carbono, se achavam em estado de gás. O da atmosfera nada tinha, portanto, de comparável ao que é hoje; a densidade de todos esses vapores lhe dava uma opacidade que nenhum raio de sol podia atravessar. Se nessa época um ser vivo pudesse existir na superfície do planeta, apenas seria iluminado pelos revérberos sinistros da fornalha que lhe estava sob os pés e da atmosfera esbraseada; ele nem sequer suspeitaria da existência do Sol.
+
+[^58]: N.E.: Parece-nos que Kardec se referia apenas à Terra propriamente dita, não levando em conta os aerólitos e a poeira cósmica que a ela se vêm juntando.
+
+##### Período primário [^59]
+
 ###### #️⃣ GEN-1-07-p19
+
+O primeiro efeito do resfriamento foi a solidificação da superfície exterior da massa em fusão e a formação aí de uma crosta resistente que, delgada a princípio, gradativamente se espessou. Essa crosta constitui a pedra chamada granito, de extrema dureza, assim denominada pelo seu aspecto granuloso. Nela se distinguem três substâncias principais: o feldspato, o quartzo ou cristal de rocha e a mica. Esta última tem brilho metálico, embora não seja um metal. 
+
+A camada granítica foi, pois, a primeira que se formou no globo, é a que o envolve por completo, constituindo de certo modo o seu arcabouço ósseo. É o produto direto da consolidação da matéria fundida. Sobre ela e nas cavidades que apresentava a sua superfície torturada foi que se depositaram sucessivamente as camadas dos outros terrenos, posteriormente formados. O que a distingue destes últimos é a ausência de toda e qualquer estratificação; quer dizer: ela forma uma massa compacta e uniforme em toda a sua espessura, que não é disposta em camadas. A efervescência da matéria incandescente havia de produzir nela numerosas e profundas fendas, pelas quais essa mesma matéria extravasava.
+
+[^59]: N.E.: Refere-se à parte da Era Pré-Cambriana, de acordo com a Escala de Tempo Geológico moderna. 
 
 ###### #️⃣ GEN-1-07-p20
 
+O efeito seguinte do resfriamento foi a liquefação de algumas matérias contidas no ar em estado de vapor, as quais se precipitaram na superfície do solo. Houve então chuvas e lagos de enxofre e de betume, verdadeiros regatos de ferro, cobre, chumbo e outros metais fundidos. Infiltrando-se pelas fissuras, essas matérias constituíram os veios e filões metálicos. 
+
+Sob o influxo desses diversos agentes, a superfície granítica experimentou alternativas decomposições. Produziram-se misturas, que formaram os terrenos primitivos propriamente ditos, distintos da rocha granítica, mas em massas confusas e sem estratificação regular. 
+
+Vieram, a seguir, as águas que, caindo sobre um solo ardente, se vaporizavam de novo, recaíam em chuvas torrenciais e assim sucessivamente, até que a temperatura lhes facultou permanecerem no solo em estado líquido. 
+
+É a formação dos terrenos graníticos que dá começo à série dos períodos geológicos, aos quais conviria se acrescentasse o do estado primitivo, de incandescência do globo.
+
 ###### #️⃣ GEN-1-07-p21
+
+Tal o aspecto do primeiro período, verdadeiro caos de todos os elementos confundidos, à procura de estabilização, período em que nenhum ser vivo podia existir. Por isso mesmo, um de seus caracteres distintivos, em Geologia, é a ausência de qualquer vestígio de vida vegetal ou animal. 
+
+Impossível se torna assinar duração determinada a esse período, do mesmo modo que aos que se lhe seguiram. Mas, dado o tempo que se faz mister para que uma bala [^60] de determinado volume, aquecida até o branco, se resfrie na superfície, ao ponto de permitir que uma gota de água possa sobre ela permanecer em estado líquido, calculou-se que, se essa bala tivesse o tamanho da Terra, necessários seriam mais de um milhão de anos.
+
+[^60]: N.E.: No original francês foi usado o termo “boulet”, projetil esférico de metal, munição de canhões.
+
+##### Período de transição [^61]
 
 ###### #️⃣ GEN-1-07-p22
 
+No começo do período de transição, ainda pequena era a espessura da sólida crosta granítica, que, portanto, resistência muito fraca oferecia à efervescência das matérias enfogadas que ela cobria e comprimia. Produziam-se, pois, intumescências, despedaçamentos numerosos, por onde se escapava a lava interior. O solo apresentava desigualdades pouco consideráveis. 
+
+As águas, pouco profundas, cobriam quase toda a superfície do globo, com exceção das partes soerguidas, que, formando terrenos baixos, eram frequentemente alagados. 
+
+O ar gradativamente se purgara das matérias mais pesadas, temporariamente em estado gasoso, as quais, condensando-se por efeito do resfriamento, se haviam precipitado na superfície do solo, sendo depois arrastadas e dissolvidas pelas águas. 
+
+Quando se fala de resfriamento naquela época, deve-se entender essa palavra em sentido relativo, isto é, em relação ao estado primitivo, porquanto a temperatura ainda havia de ser ardente. 
+
+Os espessos vapores aquosos que se elevavam de todos os lados da imensa superfície líquida, recaíam em chuvas copiosas e quentes, que obscureciam o ar. Entretanto, os raios do sol começavam a aparecer, através dessa atmosfera brumosa. 
+
+Uma das últimas substâncias de que o ar teve de expurgar-se, por ser gasoso o seu estado natural, foi o ácido carbônico, então um dos seus componentes.
+
+[^61]: N.E.: Refere-se à maior parte da Era Pré-Cambriana e toda a Era Paleozoica atuais.
+
 ###### #️⃣ GEN-1-07-p23
+
+Por essa época, entraram a formar-se as camadas de terrenos de sedimento, depositadas pelas águas carregadas de limo e de matérias diversas, apropriadas à vida orgânica. 
+
+Surgem aí os primeiros seres vivos do reino vegetal e do reino animal. Deles se encontram vestígios, a princípio em número reduzido, porém, depois, cada vez mais frequentes, à medida que se vai passando às camadas mais elevadas dessa formação. É digno de nota que por toda parte a vida se manifesta, logo que lhe são propícias as condições, nascendo cada espécie desde que se realizam as condições próprias à sua existência.
 
 ###### #️⃣ GEN-1-07-p24
 
+Os primeiros seres orgânicos que apareceram na Terra foram os vegetais de organização menos complicada, designados em Botânica sob os nomes de criptógamos, acotiledôneos, monocotiledôneos, isto é, liquens, cogumelos, musgos, fetos e plantas herbáceas. [^62] Absolutamente, ainda se não veem árvores de tronco lenhoso, mas, apenas, as do gênero palmeira, cuja haste esponjosa é análoga à das ervas.
+
+Os animais desse período, que apareceram em seguida aos primeiros vegetais, eram exclusivamente marinhos: primeiramente, polipeiros, radiários [^63], zoófitos, animais cuja organização simples e, por assim dizer, rudimentar, se aproxima, no máximo grau, da dos vegetais. Mais tarde, aparecem crustáceos e peixes de espécies que já não existem.
+
+[^62]: N.E.: Atualmente se sabe que os primeiros seres vivos eram unicelulares, bactérias muito primitivas e desprovidas de núcleos.
+
+[^63]: N.E.: Classe de animais invertebrados, cujos órgãos estão dispostos simetricamente em torno de um eixo, ex.: equinodermos e pólipos.
+
 ###### #️⃣ GEN-1-07-p25
+
+Sob o império do calor e da umidade e em virtude do excesso de ácido carbônico espalhado no ar, gás impróprio à respiração dos animais terrestres, mas necessário às plantas, os terrenos expostos se cobriram rapidamente de uma vegetação pujante, ao mesmo tempo que as plantas aquáticas se multiplicavam no seio dos pântanos. Plantas que, nos dias atuais, são simples ervas de alguns centímetros, atingiam altura e grossura prodigiosas. Assim é que havia florestas de fetos arborescentes de 8 a 10 metros de altura e de proporcional grossura. Licopódios (marroio, gênero de musgo), do mesmo porte; cavalinhas [^64], de 4 a 5 metros, que a altura não passa hoje de um metro, e uma infinidade de espécies que não mais existem. Pelos fins do período, começam a aparecer algumas árvores do gênero conífero ou pinheiros.
+
+[^64]: Nota de Allan Kardec: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
 
 ###### #️⃣ GEN-1-07-p26
 
+Em consequência do deslocamento das águas, os terrenos que produziam essas massas de vegetais foram submergidos, cobertos de novos sedimentos terrosos, enquanto os que se achavam emersos se adornavam, a seu turno, de vegetação semelhante. Houve assim muitas gerações de vegetais alternativamente aniquiladas e renovadas. O mesmo não se deu com os animais que, sendo todos aquáticos, não estavam sujeitos a essas alternativas. Acumulados durante longa série de séculos, esses destroços formaram camadas de grande espessura. Sob a ação do calor, da umidade, da pressão exercida, pelos posteriores depósitos terrosos e, sem dúvida, de diversos agentes químicos, dos gases, dos ácidos e dos sais produzidos pela combinação dos elementos primitivos, aquelas matérias vegetais sofreram uma fermentação que as converteu em hulha ou carvão de pedra. As minas de hulha são, pois, produto direto da decomposição dos acervos de vegetais acumulados durante o período de transição. É por isso que são encontrados em quase todas as regiões. [^65]
+
+[^65]: Nota de Allan Kardec: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
+
 ###### #️⃣ GEN-1-07-p27
+
+Os restos fósseis da pujante vegetação dessa época, achando-se hoje sob os gelos das terras polares, tanto quanto na zona tórrida, segue-se que, uma vez que a vegetação era uniforme, também a temperatura o havia de ser. Os polos, portanto, não se achavam cobertos de gelo, como agora. É que, então, a Terra tirava de si mesma o calor, do fogo central que aquecia de igual modo toda a camada sólida, ainda pouco espessa. Esse calor era superior de muito ao que podia provir dos raios solares, enfraquecidos, ademais, pela densidade da atmosfera. Só mais tarde, quando a ação do calor central se tornou muito fraca ou nula sobre a superfície exterior do globo, a do Sol passou a preponderar e as regiões polares, que apenas recebiam raios oblíquos, portadores de pequena quantidade de calor, se cobriram de gelo. Compreende-se que na época de que falamos e ainda muito tempo depois, o gelo era desconhecido na Terra. Deve ter sido muito longo esse período, a julgar pelo número e pela espessura das camadas de hulha. [^66]
+
+[^66]: Nota de Allan Kardec: Na baía de Fundy (Nova Escócia), o Sr. Lyell [Charles Lyell (1797–1875), geólogo britânico] encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
+
+Não dando mais de mil anos para a formação de cada um desses níveis, já teríamos 68.000 anos só para essa camada de hulha.
+
+##### Período secundário [^67]
 
 ###### #️⃣ GEN-1-07-p28
 
+Com o período de transição desaparecem a vegetação colossal e os animais que caracterizavam a época, ou porque as condições atmosféricas já não fossem as mesmas, ou porque uma série de cataclismos haja aniquilado tudo o que tinha vida na Terra. É provável que as duas causas tenham contribuído para essa mudança, por isso que, de um lado, o estudo dos terrenos que assinalam o fim desse período comprova a ocorrência de grandes subversões oriundas de levantamentos e erupções que derramaram sobre o solo grandes quantidades de lavas, e, de outro lado, porque grandes mudanças se operaram nos três [^68] reinos.
+
+[^68]: N.E.: Consultar nota 31.
+
 ###### #️⃣ GEN-1-07-p29
 
+O período secundário se caracteriza, sob o aspecto mineral, por numerosas e fortes camadas que atestam uma formação lenta no seio das águas e marcam diferentes épocas bem caracterizadas.
+
+A vegetação é menos rápida e menos colossal que no período precedente, sem dúvida em virtude da diminuição do calor e da umidade e de modificações sobrevindas aos elementos constitutivos da atmosfera. Às plantas herbáceas e polpudas, juntam-se as de caule lenhoso e as primeiras árvores propriamente ditas.
+
 ###### #️⃣ GEN-1-07-p30
+
+Ainda são aquáticos os animais, ou, quando nada, anfíbios, a vida vegetal progride pouco na terra seca. Desenvolve-se no seio dos mares uma prodigiosa quantidade de animais de conchas, devido à formação das matérias calcárias. Nascem novos peixes, de organização mais aperfeiçoada do que no período anterior. Aparecem os primeiros cetáceos. Os mais característicos animais dessa época são os reptis monstruosos, entre os quais se notam: O ictiossauro, espécie de peixe-lagarto que chegava a ter 10 metros de comprimento, com mandíbulas prodigiosamente alongadas, armadas de 180 dentes. Sua forma geral lembra um pouco a do crocodilo, mas sem couraça escamosa. Seus olhos tinham o volume da cabeça de um homem; possuía barbatanas como a baleia e, como esta, expelia água por aberturas próprias para isso. O plesiossauro, outro reptil marinho, tão grande quanto o ictiossauro, tinha pescoço, excessivamente longo, que se dobrava como o do cisne, e lhe dava a aparência de enorme serpente ligada a um corpo de tartaruga. Tinha a cabeça do lagarto e os dentes do crocodilo. Sua pele devia ser lisa, qual a do ictiossauro, porquanto não se lhe descobriu nenhum vestígio de escamas ou de concha.69 O teleossauro, que mais se aproxima dos crocodilos atuais, parecendo estes um seu diminutivo. Como os últimos, tinha uma couraça escamosa e vivia, ao mesmo tempo, na água e em terra. Seu talhe era de cerca de 10 metros, dos quais 3 ou 4 só para a cabeça. A boca tinha de abertura 2 metros. O megalossauro, grande lagarto, espécie de crocodilo, de 14 a 15 metros de comprimento. Essencialmente carnívoro, nutria-se de reptis, de pequenos crocodilos e de tartarugas. Sua formidável mandíbula era armada de dentes em forma de lâmina de podadeira, de gume duplo, recurvados para trás, de tal jeito que, uma vez enterrados na presa, impossível se tornaria a esta desprender-se. O iguanodonte, o maior dos lagartos que já apareceram na Terra. Tinha de 20 a 25 metros da cabeça à extremidade da cauda e sobre o focinho um chifre ósseo, semelhante ao do iguano da atualidade, do qual parece que não diferia senão pelo tamanho. O último tem apenas 1 metro de comprimento. A forma dos dentes prova que ele era herbívoro e a dos pés que era animal terrestre.70 O pterodátilo, animal estranho, do tamanho de um cisne, participando, simultaneamente, do reptil pelo corpo, do pássaro pela cabeça e do morcego pela membrana carnuda que lhe religava os dedos prodigiosamente longos. Essa membrana lhe servia de paraquedas quando se precipitava sobre a presa do alto de uma árvore ou de um rochedo. Não possuía bico córneo, como os pássaros, mas os ossos das mandíbulas, do comprimento da metade do corpo e guarnecidos de dentes, terminavam em ponta como um bico. 31. Durante esse período, que há de ter sido muito longo, como o atestam o número e a pujança das camadas geológicas, a vida animal tomou enorme desenvolvimento no seio das águas, tal qual se dera com a vegetação no período que findara. Mais depurado e mais favorável à respiração, o ar começou a permitir que alguns animais vivessem em terra. O mar se deslocou muitas vezes, mas sem abalos violentos. Com esse período, desaparecem, por sua vez, aquelas raças de gigantescos animais aquáticos, substituídos mais tarde por espécies análogas, de formas menos desproporcionadas e de menor porte.
 
 ###### #️⃣ GEN-1-07-p31
 
