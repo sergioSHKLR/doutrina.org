@@ -195,13 +195,9 @@
  }
 
 
- @media only screen and (max-width: 919px) {
+ @media only screen and (max-width: 782px) {
    #col1 {
      display: none;
-   }
-
-   #col2 {
-     display: block;
    }
 
    #col3 {
@@ -213,18 +209,9 @@
    }
  }
 
- @media only screen and (min-width: 920px) and (max-width: 1419px) {
+ @media only screen and (min-width: 783px) and (max-width: 1419px) {
    #col1 {
      display: none;
-   }
-
-   #col2, #col2-head, #col2-body {
-     max-width: 700px;
-   }
-
-   #col3, #col3-head, #col3-body {
-     max-width: 700px;
-     min-width: 450px
    }
 
    #col4 {
@@ -237,35 +224,18 @@
      display: none;
    }
 
-   #col2, #col2-head, #col2-body {
-     max-width: 900px;
-   }
-
-   #col3, #col3-head, #col3-body {
-     max-width: 900px;
-   }
-
    #col4 {
      display: none;
    }
  }
 
  @media only screen and (min-width: 1920px) {
-   #col1 {
-     display: block;
-   }
-
-   #col2, #col2-head, #col2-body {
-     max-width: 900px;
-   }
-
-   #col3, #col3-head, #col3-body {
-     max-width: 900px;
-   }
 
    #col4 {
      display: none;
    }
 
-   #button-one {display: none;}
+   #button-one {
+     display: none;
+   }
  }
