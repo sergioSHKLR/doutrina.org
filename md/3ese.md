@@ -1,8 +1,8 @@
-# O Evangelho segundo o Espiritismo
+# ESE
 
-## 0. Pré-textual
+## 0
 
-### Folha de rosto
+### 0.01
 
 Ética Espírita
 
@@ -22,7 +22,7 @@ Modificado para o consumo digital por Sergio de
 
 ⭕ [shklr.org](https://shklr.org)
 
-### Prefácio
+### 0.02
 
 > 👻 ▸ Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 >
@@ -38,7 +38,7 @@ Modificado para o consumo digital por Sergio de
 
 ---
 
-### Introdução
+### 0.03
 
 #### 1. Objetivo desta obra
 
@@ -304,9 +304,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ## 1. Miolo
 
----
-
-### 01. Não vim destruir a lei
+### 1.01
 
 #### 01
 
@@ -438,7 +436,7 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 
 ---
 
-### 02. Meu Reino não é deste mundo
+### 1.02
 
 #### 01
 
@@ -512,7 +510,7 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 
 ---
 
-### 03. Há muitas moradas na casa de meu Pai
+### 1.03
 
 #### 01
 
@@ -646,7 +644,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 ---
 
-### 04. Ninguém poderá ver o Reino de Deus se não nascer de novo
+### 1.04
 
 #### 01
 
@@ -847,7 +845,7 @@ Não poderiam os Espíritos encarnar uma única vez em determinado globo e preen
 
 ---
 
-### 05. Bem aventurados os aflitos
+### 1.05
 
 #### 01
 
@@ -1219,7 +1217,7 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 
 ---
 
-### 06. O Cristo Consolador
+### 1.06
 
 #### O jugo leve
 
@@ -1305,7 +1303,7 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 
 ---
 
-### 07. Bem-aventurados os pobres de espírito
+### 1.07
 
 #### O que se deve entender por pobres de espírito
 
@@ -1461,7 +1459,7 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 
 ---
 
-### 08. Bem-aventurados os que tem puro o coração
+### 1.08
 
 #### Simplicidade e pureza de coração
 
@@ -1650,7 +1648,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 
 ---
 
-### 09. Bem-aventurados os que são brandos e pacíficos
+### 1.09
 
 #### Injúrias e violências
 
@@ -1762,7 +1760,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 
 ---
 
-### 10. Bem-aventurados os que são misericordiosos
+### 1.10
 
 #### Perdoai, para que Deus vos perdoe
 
@@ -1955,7 +1953,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 
 ---
 
-### 11. Amar o próximo como a si mesmo
+### 1.11
 
 #### O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores
 
@@ -2133,7 +2131,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 
 ---
 
-### 12. Amai os vossos inimigos
+### 1.12
 
 #### Retribuir o mal com o bem
 
@@ -2283,7 +2281,7 @@ O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos hom
 
 ---
 
-### 13. Não saiba a vossa mão esquerda o que dê a vossa mão direita
+### 1.13
 
 #### Fazer o bem sem ostentação
 
@@ -2537,7 +2535,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 
 ---
 
-### 14. Honrai o vosso pai e a vossa mãe
+### 1.14
 
 #### 01
 
@@ -2641,7 +2639,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 
 ---
 
-### 15. Fora da caridade não há salvação
+### 1.15
 
 #### O de que precisa o Espírito para se salvar. Parábola do Bom Samaritano
 
@@ -2735,7 +2733,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 
 ---
 
-### 16. Não se pode servir a Deus e a Mamon
+### 1.16
 
 #### Salvação dos ricos
 
@@ -2917,7 +2915,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 
 ---
 
-### 17. Sede perfeitos
+### 1.17
 
 #### Caracteres da perfeição
 
@@ -3103,7 +3101,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 
 ---
 
-### 18. Muitos os chamados, poucos os escolhidos
+### 1.18
 
 #### Parábola do Festim das Bodas
 
@@ -3263,7 +3261,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 
 ---
 
-### 19. A fé transporta montanhas
+### 1.19
 
 #### Poder da fé
 
@@ -3367,7 +3365,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 ---
 
-### 20. Os trabalhadores da última hora
+### 1.20
 
 #### 01
 
@@ -3457,7 +3455,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 ---
 
-### 21. Haverá falsos cristos e falsos profetas
+### 1.21
 
 #### Conhece-se a árvore pelo fruto
 
@@ -3591,7 +3589,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 
 ---
 
-### 22. Não separeis o que Deus juntou
+### 1.22
 
 #### Indissolubilidade do casamento
 
@@ -3627,7 +3625,7 @@ Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério
 
 ---
 
-### 23. Estranha moral
+### 1.23
 
 #### Odiar os pais
 
@@ -3753,7 +3751,7 @@ Essas palavras de Jesus devem, pois, entender-se com referência às cóleras qu
 
 ---
 
-### 24. Não ponhais a candeia debaixo do alqueire
+### 1.24
 
 #### Candeia sob o alqueire. Por que fala Jesus por parábolas
 
@@ -3884,7 +3882,7 @@ Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, 
 
 ---
 
-### 25. Buscai e achareis
+### 1.25
 
 #### Ajuda-te a ti mesmo, que o céu te ajudará
 
@@ -3972,7 +3970,7 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 
 ---
 
-### 26. Dai gratuitamente o que gratuitamente recebestes
+### 1.26
 
 #### Dom de curar
 
@@ -4049,7 +4047,7 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 
 ---
 
-### 27. Pedi e obtereis
+### 1.27
 
 #### Qualidades da prece
 
@@ -4232,7 +4230,7 @@ Avançai, avançai pelas veredas da prece e ouvireis as vozes dos anjos. Que har
 
 ---
 
-### 28. Coletânea de preces espíritas
+### 1.28
 
 #### Preâmbulo
 

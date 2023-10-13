@@ -1,8 +1,8 @@
-# ✒️ O Livro dos Médiuns
+# LDM
 
-## Pré-textual
+## 0
 
-### Folha de rosto
+### 0.01
 
 Espiritismo Experimental
 
@@ -20,7 +20,7 @@ Modificado para o consumo digital por Sergio de
 
 ⭕ [shklr.org](https://shklr.org)
 
-### Introdução
+### 0.02
 
 Todos os dias a experiência nos traz a confirmação de que as dificuldades e os desenganos com que muitos topam na prática do Espiritismo se originam da ignorância dos princípios desta ciência e feliz nos sentimos de haver podido comprovar que o nosso trabalho, feito com o objetivo de precaver os adeptos contra os escolhos de um noviciado, produziu frutos e que à leitura desta obra devem muitos o terem logrado evitá-los.
 
@@ -46,9 +46,9 @@ Importantes alterações para melhor foram introduzidas nesta segunda edição, 
 
 Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em 👻 O Livro dos Espíritos. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
 
-## Noções Preliminares
+## 1
 
-### Há Espíritos?
+### 1.01
 
 #### 01
 
@@ -131,7 +131,7 @@ Quando os adversários do Espiritismo nos provarem que isto é impossível, aduz
 
 Dir-nos-ão, com certeza, que cabe a nós provar a realidade das manifestações. Ora, nós lhes damos, pelos fatos e pelo raciocínio, a prova de que elas são reais. Mas, se não admitem nem uma nem outra coisa, se chegam mesmo a negar o que veem, toca-lhes a eles provar que o nosso raciocínio é falso e que os fatos são impossíveis.
 
-### Do maravilhoso e do sobrenatural
+### 1.02
 
 #### 07
 
@@ -242,7 +242,7 @@ Quanto à personagem que se apresentou na Salette, é outra questão. Sua identi
 
 Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fenômenos lhes parecem estar fora da lei comum e porque não logram achar-lhes qualquer explicação. Dai-lhes uma base racional e a dúvida desaparecerá. A explicação, neste século em que ninguém se contenta com palavras, constitui, pois, poderoso motivo de convicção. Daí o vermos, todos os dias, pessoas que nenhum fato testemunharam, que não observaram uma mesa agitar-se ou um médium escrever se tornarem tão convencidas quanto nós, unicamente porque leram e compreenderam. Se houvéssemos de somente acreditar no que vemos com os nossos olhos, a bem pouco se reduziriam as nossas convicções.
 
-### Do método
+### 1.03
 
 #### 18
 
@@ -375,7 +375,7 @@ Isto pelo que nos diz respeito. Os que desejem tudo conhecer de uma ciência dev
 
 Por esse lado, não preconizamos nem criticamos obra alguma, visto não querermos, de nenhum modo, influenciar a opinião que dela se possa formar. Trazendo nossa pedra ao edifício, colocamo-nos nas fileiras. Não nos cabe ser juiz e parte e não alimentamos a ridícula pretensão de ser o único distribuidor da luz. Toca ao leitor separar o bom do mau, o verdadeiro do falso.
 
-### Dos sistemas
+### 1.04
 
 #### 36
 
@@ -559,9 +559,9 @@ Eis aqui a resposta que, sobre este assunto, deu um Espírito:
 
 Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram sondar a natureza da alma. Como poderíamos nós fazê-lo? É, portanto, perder tempo querer perscrutar o princípio das coisas que, como foi dito em 👉(LDE- [17](/1LDE/#17) e 👻 ▸ [49](/1LDE/#49)), está nos segredos de Deus. Pretender esquadrinhar, com o auxílio do Espiritismo, o que escapa à alçada da Humanidade é desviá-lo do seu verdadeiro objetivo, é fazer como a criança que quisesse saber tanto quanto o velho. Aplique o homem o Espiritismo em aperfeiçoar-se moralmente, eis o essencial. O mais não passa de curiosidade estéril e muitas vezes orgulhosa, cuja satisfação não o faria adiantar um passo. O único meio de nos adiantarmos consiste em nos tornarmos melhores. Os Espíritos que ditaram o livro que lhes traz o nome demonstraram a sua sabedoria, mantendo-se, pelo que concerne ao princípio das coisas, dentro dos limites que Deus não permite sejam ultrapassados e deixando aos Espíritos sistemáticos e presunçosos a responsabilidade das teorias prematuras e errôneas, mais sedutoras do que sólidas, e que um dia virão a cair, ante a razão, como tantas outras surgidas dos cérebros humanos. Eles, ao justo, só disseram o que era preciso para que o homem compreendesse o futuro que o aguarda e para, por essa maneira, animá-lo à prática do bem. 👉 ([LDM-2-01](#LDM-2-01))
 
-## Das manifestações espíritas
+## 2
 
-### Da ação dos Espíritos sobre a matéria
+### 2.01
 
 #### 52
 
@@ -619,7 +619,7 @@ Considerada deste modo, facilmente se concebe a ação do Espírito sobre a mat�
 
 Perguntar-se-á, talvez, como pode o Espírito, com o auxílio de matéria tão sutil, atuar sobre corpos pesados e compactos, suspender mesas etc. Semelhante objeção certo que não será formulada por um homem de ciência, visto que, sem falar das propriedades desconhecidas que esse novo agente pode possuir, não temos exemplos análogos sob as vistas? Não é nos gases mais rarefeitos, nos fluidos imponderáveis que a indústria encontra os seus mais possantes motores? Quando vemos o ar abater edifícios, o vapor deslocar enormes massas, a pólvora gaseificada levantar rochedos, a eletricidade lascar árvores e fender paredes, que dificuldades acharemos em admitir que o Espírito, com o auxílio do seu perispírito, possa levantar uma mesa, sobretudo sabendo que esse perispírito pode tornar-se visível, tangível e comportar-se como um corpo sólido?
 
-### Das manifestações físicas. Das mesas girantes
+### 2.02
 
 #### 60
 
@@ -657,7 +657,7 @@ Doutras vezes, ela se agita e se ergue, ora num pé, ora noutro, e, em seguida, 
 
 Outro fenômeno que se produz com frequência, de acordo com a natureza do médium, é o das pancadas no próprio tecido da madeira, sem que a mesa faça qualquer movimento. Essas pancadas, às vezes muito fracas, outras vezes muito fortes, se fazem também ouvir nos outros móveis do compartimento, nas paredes e no forro. Dentro em pouco voltaremos a esta questão. Quando as pancadas se dão na mesa, produzem nesta uma vibração muito apreciável por meio dos dedos e que se distingue perfeitamente, aplicando-se-lhe o ouvido.
 
-### Das manifestações inteligentes
+### 2.03
 
 #### 65
 
@@ -697,7 +697,7 @@ Receberam-se as primeiras deste gênero, adaptando-se um lápis ao pé de uma me
 
 Voltaremos a tratar destes diferentes meios, a fim de explicá-los minuciosamente. Por ora, limitamo-nos a esboçá-los, para mostrar os fatos sucessivos que levaram os observadores a reconhecer, nestes fenômenos, a intervenção de inteligências ocultas, ou, por outra, dos Espíritos.
 
-### Da teoria das manifestações físicas
+### 2.04
 
 #### 72
 
@@ -932,7 +932,7 @@ Dirão talvez que, sendo imponderável esse fluido, um acúmulo dele não pode a
 
 Só por uma causa semelhante se pode explicar o singular fenômeno, tantas vezes observado, de uma pessoa fraca e delicada levantar com dois dedos, sem esforço e como se se tratasse de uma pena, um homem forte e robusto com a cadeira em que está assentado. As intermitências da faculdade provam que a causa é estranha à pessoa que produz o fenômeno.
 
-### Das manifestações físicas espontâneas
+### 2.05
 
 #### 82
 
@@ -1392,7 +1392,7 @@ Como fizeste para tornar visíveis estes objetos que, um momento antes, eram inv
 
 Quanto à teoria da formação espontânea dos objetos, veja 👉 [LDM-2-08](#LDM-2-08).
 
-### Das manifestações visuais
+### 2.06
 
 #### 100
 
@@ -1738,7 +1738,7 @@ Provam os fatos que há aparições verdadeiras, que a teoria espírita explica 
 >
 > É boa a nossa explicação? Damo-la pelo que possa valer, em falta de outra, e, se quiserem, a título de simples hipótese, enquanto outra melhor não aparece. Qual ela é, dá a razão de ser de todos os casos de visão? Certamente que não. Contudo, desafiamos todos os fisiologistas a que apresentem uma que abranja todos os casos, porquanto nenhuma dão, quando pronunciam as palavras sacramentais — sobre-excitação e exaltação. Assim sendo, desde que todas as teorias da alucinação se mostram incapazes de explicar os fatos, é que alguma outra coisa há, que não a alucinação propriamente dita. Seria falsa a nossa teoria, se a aplicássemos a todos os casos de visão, pois que alguns a contraditariam. É legítima, se restringida a alguns efeitos.
 
-### Da bicorporeidade e da transfiguração
+### 2.07
 
 #### 114
 
@@ -1840,7 +1840,7 @@ A teoria do fenômeno da invisibilidade ressalta muito naturalmente das explica�
 
 Resta-nos falar do singular fenômeno dos **agêneres**, que, por muito extraordinário que pareça à primeira vista, não é mais sobrenatural do que os outros. Porém, como o explicamos na 📓 **Revista Espírita** (fevereiro de 1859), julgamos inútil tratar dele aqui pormenorizadamente. Diremos tão somente que é uma variedade da aparição tangível. É o estado de certos Espíritos que podem revestir momentaneamente as formas de uma pessoa viva, ao ponto de causar completa ilusão. (do grego **a** privativo, e **geine**, **geinomaï**, gerar: que não foi gerado.)
 
-### Do laboratório do mundo invisível
+### 2.08
 
 #### 126
 
@@ -1981,7 +1981,7 @@ Sabe-se que papel capital desempenha a vontade em todos os fenômenos do magneti
 
 Tanto quanto do Espírito errante, a vontade é igualmente atributo do Espírito encarnado; daí o poder do magnetizador, poder que se sabe estar na razão direta da força de vontade. Podendo o Espírito encarnado atuar sobre a matéria elementar, pode do mesmo modo mudar-lhe as propriedades, dentro de certos limites. Assim se explica a faculdade de cura pelo contato e pela imposição das mãos, faculdade que algumas pessoas possuem em grau mais ou menos elevado. 👉 ([LDM-p175](#LDM-p175), e 📓 **Revista Espírita**, de julho de 1859: O zuavo de Magenta; Um oficial do exército da Itália.)
 
-### Dos lugares assombrados
+### 2.09
 
 #### 132
 
@@ -2068,7 +2068,7 @@ Resulta das explicações acima haver Espíritos que se prendem a certos lugares
 
 Os que se prendem a certas localidades ou a certas coisas materiais nunca são Espíritos superiores. Contudo, mesmo que não pertençam a esta categoria, pode dar-se que não sejam maus e nenhuma intenção má alimentem. Não raro, são até comensais mais úteis do que prejudiciais, porquanto, desde que se interessam pelas pessoas, podem protegê-las.
 
-### Da natureza das comunicações
+### 2.10
 
 #### 133
 
@@ -2100,7 +2100,7 @@ Qualificando de instrutivas as comunicações, supomo-las **verdadeiras**, pois 
 
 São variadíssimos os meios de comunicação. Atuando sobre os nossos órgãos e sobre todos os nossos sentidos, podem os Espíritos manifestar-se à nossa visão, por meio das aparições; ao nosso tato, por impressões tangíveis, visíveis ou ocultas; à audição pelos ruídos; ao olfato por meio de odores sem causa conhecida. Este último modo de manifestação, se bem muito real, é, incontestavelmente, o mais incerto, pelas múltiplas causas que podem induzir em erro. Daí o nos não demorarmos em tratar dele. O que devemos examinar com cuidado são os diversos meios de se obterem comunicações, isto é, uma permuta regular e continuada de pensamentos. Esses meios são: **as pancadas**, **a palavra** e **a escrita**. Estudá-los-emos em capítulos especiais.
 
-### Da sematologia e da tiptologia
+### 2.11
 
 #### 139
 
@@ -2154,7 +2154,7 @@ Resta-nos destruir um erro assaz espalhado: o de confundirem-se com os Espírito
 
 Assim, pois, nem todos os Espíritos que se manifestam por pancadas são batedores. Este qualificativo deve ser reservado para os que poderíamos chamar batedores de profissão e que, por este meio, se deleitam em pregar partidas, para divertimentos de umas tantas pessoas, em aborrecer com as suas importunações. Pode-se esperar que algumas vezes deem coisas espirituosas; porém, coisas profundas, nunca. Seria, conseguintemente, perder tempo formular-lhes questões de certo porte científico ou filosófico. A ignorância e a inferioridade que lhes são peculiares deram motivo a que, com justeza, os outros Espíritos os qualificassem de palhaços, ou saltimbancos do mundo espírita. Acrescentemos que, além de agirem quase sempre por conta própria, também são amiúde instrumentos de que lançam mão os Espíritos superiores, quando querem produzir efeitos materiais.
 
-### Da pneumatografia ou escrita direta. Da pneumatofonia
+### 2.12
 
 #### 146
 
@@ -2203,7 +2203,7 @@ Os sons espíritas, os pneumatofônicos, se produzem de duas maneiras distintas:
 
 De um modo ou de outro, o fenômeno da pneumatofonia é quase sempre espontâneo e só muito raramente pode ser provocado.
 
-### Da psicografia
+### 2.13
 
 #### 152
 
@@ -2237,7 +2237,7 @@ De todos os meios de comunicação, a escrita manual, que alguns denominam escri
 
 Nos primeiros tempos das manifestações, quando ainda ninguém tinha sobre o assunto ideias exatas, muitos escritos foram publicados com este título: Comunicações de uma mesa, de uma cesta, de uma prancheta etc. Hoje, bem se percebe o que tais expressões têm de impróprias, ou errôneas, abstração feita do caráter pouco sério que revelam. Efetivamente, como acabamos de ver, as mesas, pranchetas e cestas não são mais do que instrumentos ininteligentes, embora animados, por instantes, de uma vida fictícia, que nada podem comunicar por si mesmos. Dizer o contrário é tomar o efeito pela causa, o instrumento pelo princípio. Fora o mesmo que um autor declarar, no título da sua obra, tê-la escrito com uma pena metálica ou com uma pena de pato. Esses instrumentos, ademais, não são exclusivos. Conhecemos alguém que, em vez da cesta-pião, que acima descrevemos, se servia de um funil, em cujo gargalo introduzia o lápis. Ter-se-ia então podido receber comunicações de um funil, do mesmo modo que de uma caçarola ou de uma saladeira. Se elas são obtidas por meio de pancadas com uma cadeira ou uma bengala, já não há uma mesa falante, mas uma cadeira ou uma bengala falantes. O que importa se conheça não é a natureza do instrumento, e sim o modo de obtenção. Se a comunicação vem por meio da escrita, qualquer que seja o aparelho que sustente o lápis, o que há, para nós, é psicografia; tiptologia, se por meio de pancadas. Tomando o Espiritismo as proporções de uma ciência, indispensável se lhe torna uma linguagem científica.
 
-### Dos médiuns
+### 2.14
 
 #### 159
 
@@ -2419,7 +2419,7 @@ Dá-se este nome aos médiuns que têm aptidão para obter a escrita direta, o q
 
 Trataremos de modo especial dos médiuns escreventes nos capítulos que se seguem.
 
-### Dos médiuns escreventes ou psicógrafos
+### 2.15
 
 #### 178
 
@@ -2483,7 +2483,7 @@ As respostas seguintes confirmam esta asserção:
 
 O pressentimento é uma intuição vaga das coisas futuras. Algumas pessoas têm essa faculdade mais ou menos desenvolvida. Pode ser devida a uma espécie de dupla vista, que lhes permite entrever as consequências das coisas atuais e a filiação dos acontecimentos. Mas, muitas vezes, também é resultado de comunicações ocultas e, sobretudo neste caso, é que se pode dar aos que dela são dotados o nome de médiuns de pressentimentos, que constituem uma variedade dos médiuns inspirados.
 
-### Dos médiuns especiais
+### 2.16
 
 #### 185
 
@@ -2755,7 +2755,7 @@ O estudo da especialidade dos médiuns não só lhes é necessário, como també
 
 Cumpre, além disso, notar que os matizes que a mediunidade apresenta, e aos quais outros mais se poderiam acrescentar, nem sempre guardam relação com o caráter do médium. Assim, por exemplo, um médium naturalmente alegre, jovial, pode obter comumente comunicações graves, mesmo severas e vice-versa. É ainda uma prova evidente de que ele age sob a impulsão de uma influência estranha. Voltaremos ao assunto no capítulo que trata da influência moral do médium. 👉 ([LDM-2-20](#LDM-2-20))
 
-### Da formação dos médiuns
+### 2.17
 
 #### 200
 
@@ -2957,7 +2957,7 @@ Deve-se efetivamente observar que aquele que recorre a terceiro para obter comun
 
 > 👻 ▸ Não tem ele os livros, como tem o cristão o Evangelho? Para praticar a moral de Jesus, não é preciso que o cristão tenha ouvido as palavras ao lhe saírem da boca.
 
-### Dos inconvenientes e perigos da mediunidade
+### 2.18
 
 #### 221
 
@@ -2999,7 +2999,7 @@ A prática do Espiritismo, como veremos mais adiante, demanda muito tato, para a
 
 Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de 👻 O Livro dos Espíritos.
 
-### Do papel dos médiuns nas comunicações espíritas
+### 2.19
 
 #### 223
 
@@ -3157,7 +3157,7 @@ Esta análise do papel dos médiuns e dos processos pelos quais os Espíritos se
 
 Se os que reclamam esses fenômenos, como meio de se convencerem, estudassem previamente a teoria, haviam de saber em que condições excepcionais eles se produzem.
 
-### Da influência moral do médium
+### 2.20
 
 #### 226
 
@@ -3259,7 +3259,7 @@ A seguinte instrução deu-no-la sobre o assunto, um Espírito de quem temos ins
 >
 > Erasto
 
-### Da influência do meio
+### 2.21
 
 #### 231
 
@@ -3285,7 +3285,7 @@ Por aí se vê a influência enorme que o meio exerce sobre a natureza das manif
 
 Em resumo: as condições do meio serão tanto melhores quanto mais homogeneidade houver para o bem, mais sentimentos puros e elevados, mais desejo sincero de instrução, sem ideias preconcebidas.
 
-### Da mediunidade nos animais
+### 2.22
 
 #### 234
 
@@ -3341,7 +3341,7 @@ Esta comunicação deu-a ele em seguida a uma discussão, que se travara, sobre 
 
 na **📓 Revista Espírita** de setembro de 1861, encontra-se, minudenciado, um processo empregado pelos educadores de pássaros sábios, com o fim de fazê-los tirar de um maço de cartas as que se queiram.
 
-### Da obsessão
+### 2.23
 
 #### 237
 
@@ -3527,7 +3527,7 @@ Terminaremos este capítulo inserindo as respostas que os Espíritos deram a alg
 
 > 👻 ▸ Se podem proibir a certas pessoas que se comuniquem com os Espíritos, não podem impedir que manifestações espontâneas sejam feitas a essas mesmas pessoas, porquanto não podem suprimir os Espíritos, nem lhes impedir que exerçam sua influência oculta. Esses tais se assemelham às crianças que tapam os olhos e ficam crentes de que ninguém as vê. Fora loucura querer suprimir uma coisa que oferece grandes vantagens, só porque imprudentes podem abusar dela. O meio de se lhe prevenirem os inconvenientes consiste, ao contrário, em torná-la conhecida a fundo.
 
-### Da identidade dos Espíritos
+### 2.24
 
 **Provas possíveis de identidade
 
@@ -3781,7 +3781,7 @@ Questões sobre a natureza e a identidade dos Espíritos
 
 Há médiuns de maior ou menor impressionabilidade nervosa, pelo que a agitação não se pode considerar como regra absoluta. Aqui, como em tudo, devem ter-se em conta as circunstâncias. O caráter penoso e desagradável da impressão é um efeito de contraste, porquanto, se o Espírito do médium simpatiza com o mau Espírito que se manifesta, nada ou muito pouco a proximidade deste o afetará. Todavia, é preciso se não confunda a rapidez da escrita, que deriva da extrema flexibilidade de certos médiuns, com a agitação convulsiva que os médiuns mais lentos podem experimentar ao contato dos Espíritos imperfeitos.
 
-### Das evocações
+### 2.25
 
 #### 269
 
@@ -4243,7 +4243,7 @@ Telegrafia humana
 
 > 👻 ▸ É praticável para certas pessoas, mas não para toda gente. Preciso é que os homens se depurem, a fim de que seus Espíritos se desprendam da matéria e isso constitui uma razão a mais para que a evocação se faça em nome de Deus. Até lá, continuará circunscrita às almas de escol e desmaterializadas, o que raramente se encontra nesse mundo, dado o estado dos habitantes da Terra.
 
-### Das perguntas que se podem fazer aos Espíritos
+### 2.26
 
 **Observações preliminares
 
@@ -4500,7 +4500,7 @@ Sobre outros mundos:
 
 📝 **Nota**.. As questões sobre a constituição física e os elementos astronômicos dos mundos se compreendem no campo das pesquisas científicas, para cuja efetivação não devem os Espíritos poupar-nos os trabalhos que demandam. Se não fosse assim, muito cômodo se tornaria para um astrônomo pedir aos Espíritos que lhe fizessem os cálculos, o que, no entanto, depois, sem dúvida, esconderia. Se os Espíritos pudessem, por meio da revelação, evitar o trabalho de uma descoberta, é provável que o fizessem para um sábio que, por bastante modesto, não hesitaria em proclamar abertamente o meio pelo qual o alcançara e não para os orgulhosos que os renegam e a cujo amor-próprio, ao contrário, eles muitas vezes poupam decepções.
 
-### Das contradições e das mistificações
+### 2.27
 
 **Das contradições
 
@@ -4628,7 +4628,7 @@ Se ser enganado é desagradável, ainda mais desagradável é ser mistificado. E
 
 A astúcia dos Espíritos mistificadores ultrapassa às vezes tudo o que se possa imaginar. A arte, com que dispõem as suas baterias e combinam os meios de persuadir, seria uma coisa curiosa, se eles nunca passassem dos simples gracejos; porém, as mistificações podem ter consequências desagradáveis para os que não se achem em guarda. Sentimo-nos felizes por termos podido abrir a tempo os olhos a muitas pessoas que se dignaram de pedir o nosso parecer e por lhes havermos poupado ações ridículas e comprometedoras. Entre os meios que esses Espíritos empregam, devem colocar-se na primeira linha, como os mais frequentes, os que têm por fim tentar a cobiça, como a revelação de pretendidos tesouros ocultos, o anúncio de heranças, ou outras fontes de riquezas. Devem, além disso, considerar-se suspeitas, logo à primeira vista, as predições com época determinada, assim como todas as indicações precisas, relativas a interesses materiais. Cumpre não se deem os passos prescritos ou aconselhados pelos Espíritos, quando o fim não seja eminentemente racional; que ninguém nunca se deixe deslumbrar pelos nomes que os Espíritos tomam para dar aparência de veracidade às suas palavras; desconfiar das teorias e sistemas científicos ousados; enfim, de tudo o que se afaste do objetivo moral das manifestações. Encheríamos um volume dos mais curiosos, se houvéramos de referir todas as mistificações de que temos tido conhecimento.
 
-### Do charlatanismo e do embuste
+### 2.28
 
 **Médiuns interesseiros
 
@@ -4754,7 +4754,7 @@ As manifestações inteligentes são, conforme as circunstâncias, as que oferec
 
 Em resumo, repetimos, a melhor garantia está na moralidade notória dos médiuns e na ausência de todas as causas de interesse material, ou de amor-próprio, capazes de estimular-lhes o exercício das faculdades mediúnicas que possuam, porquanto essas mesmas causas poderiam induzi-los a simular as de que não dispõem.
 
-### Das reuniões e das Sociedades Espíritas
+### 2.29
 
 **Das reuniões em geral
 
@@ -4947,7 +4947,7 @@ Essa a estrada pela qual temos procurado com esforço fazer que o Espiritismo en
 
 Convidamos, pois, todas as Sociedades espíritas a colaborar nessa grande obra. Que de um extremo ao outro do mundo elas se estendam fraternalmente as mãos e eis que terão colhido o mal em inextricáveis malhas.
 
-### Regulamento da Sociedade Parisiense de Estudos Espíritas
+### 2.30
 
 Fundada a 1 de abril de 1858
 
@@ -5085,7 +5085,7 @@ Todo escrito que um sócio publicar sob o véu da anonímia e sem indicação al
 
 Pode a Sociedade, sem modificar o seu regulamento nos pontos essenciais, adotar todas as medidas complementares que lhe pareçam necessárias.
 
-### Dissertações espíritas
+### 2.31
 
 Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam os princípios exarados nesta obra. Poderíamos inseri-los em muito maior número; limitamo-nos, porém, aos que, de modo mais particular, dizem respeito ao porvir do Espiritismo, aos médiuns e às reuniões. Damo-los também como instrução e como tipos das comunicações verdadeiramente sérias. Encerramos o capítulo com algumas comunicações apócrifas, seguidas de notas apropriadas a torná-las reconhecíveis.
 
@@ -5524,7 +5524,7 @@ Interrogado sobre o motivo que o levara a proceder assim, disse esse Espírito: 
 
 De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo Invisível, sob o pálio de um grande nome, é que anima os Espíritos embusteiros. A lhes frustrar os embustes é que todos devem consagrar a máxima atenção, mas a tanto ninguém pode chegar, senão com a ajuda da experiência adquirida por meio de um estudo sério. Daí o repetirmos incessantemente: Estudai, antes de praticardes, porquanto é esse o único meio de não adquirirdes experiência à vossa própria custa.
 
-### Vocabulário espírita
+### 2.32
 
 - **Agênere** (do grego a, privativo, e géiné, géinomai, gerar; que não foi gerado.) – Modalidade da aparição tangível; estado de certos Espíritos, quando temporariamente revestem as formas de uma pessoa viva, ao ponto de produzirem ilusão completa.
 

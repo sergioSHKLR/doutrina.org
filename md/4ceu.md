@@ -1,8 +1,8 @@
-# O Céu e o Inferno
+# CEU
 
-## 0. Pré-textual
+## 0
 
-### 01. Folha de rosto
+### 0.01
 
 header
 
@@ -22,9 +22,9 @@ Modificado para o consumo digital por Sergio de
 
 ⭕ [shklr.org](https://shklr.org)
 
-## 1. Doutrina
+## 1
 
-### 01. O porvir e o nada
+### 1.01
 
 #### 01
 
@@ -169,7 +169,7 @@ Instintivamente tem o homem a crença no futuro, mas não possuindo até agora n
 
 — congraçará, como já está acontecendo, as opiniões divergentes ou flutuantes e trará gradualmente, pela força das coisas, a unidade de crenças sobre esse ponto, não já baseada em simples hipótese, mas na certeza. A unificação feita relativamente à sorte futura das almas será o primeiro ponto de contato dos diversos cultos, um passo imenso para a tolerância religiosa em primeiro lugar e, mais tarde, para a completa fusão.
 
-### 02. Temor da morte
+### 1.02
 
 #### Causas do temor da morte
 
@@ -259,7 +259,7 @@ Para os espíritas, a alma não é uma abstração; ela tem um corpo etéreo que
 
 Não mais permissível sendo a dúvida sobre o futuro, desaparece o temor da morte; encara-se a sua aproximação a sangue-frio, como quem aguarda a libertação pela porta da vida, e não do nada.
 
-### 03. O céu
+### 1.03
 
 #### 01
 
@@ -443,7 +443,7 @@ Os que recebem hoje uma revelação mais completa são os mesmos Espíritos que 
 
 Antes de a Ciência ter revelado aos homens as forças vivas da natureza, a constituição dos astros, o verdadeiro papel da Terra e sua formação, poderiam eles compreender a imensidade do Espaço e a pluralidade dos mundos? Antes de a Geologia comprovar a formação da Terra, poderiam os homens tirar-lhe o inferno das entranhas e compreender o sentido alegórico dos seis dias da Criação? Antes de a Astronomia descobrir as leis que regem o universo, poderiam compreender que não há alto nem baixo no Espaço, que o Céu não está acima das nuvens nem limitado pelas estrelas? Poderiam identificar-se com a vida espiritual antes dos progressos da ciência psicológica? conceber depois da morte uma vida feliz ou desgraçada, a não ser em lugar circunscrito e sob uma forma material? Não; compreendendo mais pelos sentidos que pelo pensamento, o universo era muito vasto para a sua concepção; era preciso restringi-lo ao seu ponto de vista para alargá-lo mais tarde. Uma revelação parcial tinha sua utilidade, e, embora sábia até então, não satisfaria hoje. O absurdo provém dos que pretendem poder governar os homens de pensamento, sem se darem conta do progresso das ideias, quais se fossem crianças. (Vede O evangelho segundo o espiritismo, cap. III.)
 
-### 04. O inferno
+### 1.04
 
 #### Intuição das penas futuras
 
@@ -683,7 +683,7 @@ Incontestavelmente, há hoje, no seio da Igreja mesma, muitos homens sensatos qu
 
 Poderíamos perguntar como há homens que têm conseguido ver essas coisas em êxtase, se elas de fato não existem. Não cabe aqui explicar a origem das imagens fantásticas, tantas vezes reproduzidas com visos de realidade. Diremos apenas ser preciso considerar, em princípio, que o êxtase é a mais incerta de todas as revelações [^35], porquanto o estado de sobre-excitação nem sempre importa um desprendimento de alma tão completo que se imponha à crença absoluta, denotando muitas vezes o reflexo de preocupações da véspera. As ideias com que o Espírito se nutre e das quais o cérebro, ou antes o invólucro perispiritual correspondente a este, conserva a forma ou a estampa, se reproduzem amplificadas como em uma miragem, sob formas vaporosas que se cruzam, se confundem e compõem um todo extravagante. Os extáticos de todos os cultos sempre viram coisas em relação com a fé de que se presumem penetrados, não sendo, pois, extraordinário que Santa Teresa e outros, tal qual ela saturados de ideias infernais pelas descrições, verbais ou escritas, hajam tido visões, que não são, propriamente falando, mais que reproduções por efeito de um pesadelo. Um pagão fanático teria antes visto o Tártaro e as Fúrias, ou Júpiter, no Olimpo, empunhando o raio.
 
-### 05. O purgatório
+### 1.05
 
 #### 01
 
@@ -753,7 +753,7 @@ O Cristo serviu-se da palavra inferno, a única usada, como termo genérico, par
 
 Reservado ao futuro o esclarecimento sobre a natureza das penas, competia-lhe igualmente reduzir o inferno ao seu justo valor. Uma vez que a Igreja, após seis séculos, houve por bem suprir o silêncio de Jesus quanto ao purgatório, decretando-lhe a existência, é porque ela julgou que Ele não havia dito tudo. E por que não havia de dar-se sobre outros pontos o que com este se deu?
 
-### 06. Doutrina das penas eternas
+### 1.06
 
 #### Origem da doutrina das penas eternas
 
@@ -1028,7 +1028,7 @@ A quem pretenda encontrar na Bíblia a justificação da eternidade das penas, p
 >
 >**Ezequiel, cap. 33, vers. 11, ARC**
 
-### 07. As penas futuras segundo o Espiritismo
+### 1.07
 
 #### A carne é fraca [^39]
 
@@ -1209,7 +1209,7 @@ A cada um segundo as suas obras, no Céu como na Terra
 
 — tal é a lei da Justiça divina.
 
-### 08. Os anjos
+### 1.08
 
 #### Os anjos segundo a Igreja
 
@@ -1355,7 +1355,7 @@ Realiza-se assim a grande lei de unidade da Criação; Deus nunca esteve inativo
 
 E, desse modo, completa-se com igualdade a soberana Justiça do Criador.
 
-### 09. Os demônios
+### 1.09
 
 #### Origem da crença nos demônios
 
@@ -1567,7 +1567,7 @@ Hoje, porém, alargou-se o círculo das ideias: o homem vê mais claro e tem no�
 
 E aqui está por que lhe repugna à razão toda e qualquer doutrina, na qual não resplenda a Justiça divina na plenitude integral da sua pureza.
 
-### 10. Intervenção dos demônios nas modernas manifestações
+### 1.10
 
 #### 01
 
@@ -1815,7 +1815,7 @@ Quem acreditaria que da misérrima manjedoura de Belém pudesse sair a palavra q
 
 Sim! O Cristo é bem o Messias divino. A sua palavra é bem a palavra da verdade, fundada na qual a Religião se torna inabalável, mas sob condição de praticar os sublimes ensinamentos que ela contém, e não de fazer do Deus justo e bom, que nela reconhecemos, um Deus parcial, vingativo e cruel.
 
-### 11. Da proibição de evocar os mortos
+### 1.11
 
 #### 01
 
@@ -2019,9 +2019,9 @@ As seguintes palavras de um Espírito resumem admiravelmente as consequências d
 >
 >**Bordeaux 🇫🇷, 1861**
 
-## 2. Exemplos
+## 2
 
-### 01. O passamento
+### 2.01
 
 #### 01
 
@@ -2109,7 +2109,7 @@ Com certeza não é só o Espiritismo que nos assegura tão auspicioso resultado
 
 — único meio de abreviar seus sofrimentos. [^57]
 
-### 02. Espíritos felizes
+### 2.02
 
 #### 01. Sanson
 
@@ -2949,7 +2949,7 @@ Era filho único e faleceu, aos 18 anos, de uma afecção pulmonar. Inteligênci
 
 👻 ▸ Oh! não, desenganai-vos. Contado estava o tempo que eu deveria passar na Terra, e coisa alguma poderia aí reter-me. Sabia-o meu Espírito nos momentos de desprendimento e considerava-me feliz com a ideia da próxima libertação. “Mas o tempo que aí passei não foi sem proveito, e hoje me felicito de o não ter perdido. “Os sérios estudos feitos fortificaram-me a alma, aumentando-lhe os conhecimentos, e se em virtude da minha curta existência não pude dar-lhes aplicação, nem por isso deixarei de o fazer mais tarde e com maior utilidade. “Adeus, caro amigo: eu parto para junto de meus pais, a fim de predispô-los ao recebimento desta comunicação.” Maurice
 
-### 03. Espíritos em condições medianas
+### 2.03
 
 #### 01. Joseph Bré
 
@@ -3173,7 +3173,7 @@ Importante questão decorre dos fatos supramencionados. Ei-la: Poderá uma pesso
 
 Poder-se-ia ainda admirar a rapidez relativa com que se desprendeu este Espírito, dado o seu apego à vida corporal; cumpre, porém, considerar que tal apego nada tinha de material nem sensual, antes possuindo mesmo a sua face moral, motivado como era pelas necessidades dos filhos ainda tenros. Enfim, era um Espírito adiantado em inteligência e moralidade. Por mais um grau, e poder-se-ia considerá-lo um dos Espíritos dos mais felizes. Não havia, portanto, nos laços perispiríticos a tenacidade resultante da identificação material; pode dizer-se que a vida, debilitada por longa enfermidade, apenas se prendia por tênues fios, que ele desejava impedir se rompessem. Contudo, a sua resistência foi punida com a dilação dos sofrimentos concernentes à própria moléstia, e não com a dificuldade do desprendimento. Assim, realizado este, eis por que a perturbação foi breve. Um outro fato igualmente importante decorre desta, como da maior parte das evocações feitas em épocas diversas, mais ou menos distantes da morte: é a transformação gradual das ideias do Espírito, cujo progresso se traduz, não por melhores sentimentos, mas por uma apreciação mais justa das coisas. O progresso da alma na vida espiritual é, portanto, um fato demonstrado pela experiência. A vida corporal é a prática desse progresso, a demonstração das suas resoluções, o cadinho em que ele se depura. Desde que a alma progrida depois da morte, a sua sorte não pode ser irrevogavelmente fixada, porquanto a fixação definitiva da sorte é, como já o dissemos, a negação do progresso. E não podendo coexistir simultaneamente as duas coisas, resta a que tem por si a sanção dos fatos e da razão.
 
-### 04. Espíritos sofredores
+### 2.04
 
 #### 01. O castigo
 
@@ -3489,7 +3489,7 @@ Ainda sobre este ponto obtivemos a seguinte explicação: “Por sua natureza, p
 
 — O encarnado, em virtude da própria natureza, está numa luta incessante devido aos elementos contrários de que se compõe e que devem conduzi-lo ao seu fim providencial, reagindo um sobre o outro. A matéria facilmente sofre o predomínio de um fluido exterior; se a alma, com todo o poder moral de que é capaz, não reagir, deixar-se-á dominar pelo intermediário do seu corpo, seguindo o impulso das influências perversas que o rodeiam, e isso com facilidade tanto maior quanto os invisíveis, que a subjugavam, atacam de preferência os pontos mais vulneráveis, as tendências para a paixão dominante. Outro tanto se não dá com o desencarnado, que, posto sob a influência semimaterial, não se compara por seu estado ao encarnado. O respeito humano, tão preponderante no homem, não existe para aquele, e só este pensamento é bastante para compeli-lo a não resistir longamente às razões que o próprio interesse lhe aponta como boas. Ele pode lutar, e o faz mesmo geralmente com mais violência do que o encarnado, visto ser mais livre. Nenhuma cogitação de interesse material, de posição social se lhe antepõe ao raciocínio. Luta por amor do mal, porém cedo adquire a convicção da sua impotência, em face da superioridade moral que o domina; a perspectiva de melhor futuro lhe é mais acessível, por se reconhecer na mesma vida em que se deve completar esse futuro; e essa visão não se turva no turbilhão dos prazeres humanos. Em uma palavra, a independência da carne é que facilita a conversão, principalmente quando se tem adquirido um tal ou qual desenvolvimento pelas provações cumpridas. Um Espírito inteiramente primitivo seria pouco acessível ao raciocínio, o que aliás não se dá com o que já tem experiência da vida. Ademais, no encarnado como no desencarnado, é sobre a alma, é sobre o sentimento que se faz mister atuar. Toda ação material pode sustar momentaneamente os sofrimentos do homem vicioso, mas o que ela não pode é destruir o princípio mórbido residente na alma; todo e qualquer ato que não vise aperfeiçoar a alma, não poderá desviá-la do mal. São Luís
 
-### 05. Suicidas
+### 2.05
 
 #### 01. O suicida da Samaritana
 
@@ -4047,7 +4047,7 @@ Evocação.
 
 👻 ▸ Oh! obrigado! Oh! obrigado por tão boas exortações. Delas tenho tanto maior necessidade, quanto sou mais desgraçado do que demonstrava. Vou aproveitá-las, garanto, no preparo da próxima encarnação, durante a qual farei todo o possível por não sucumbir. Já me custa suportar o meio ignóbil do meu exílio. Félicien
 
-### 06. Criminosos arrependidos
+### 2.06
 
 Era o caixa de uma casa bancária do Canadá e suicidou-se a 28 de fevereiro de 1865. Um dos nossos correspondentes, médico e farmacêutico residente na mesma cidade, deu-nos dele as informações que se seguem: “Conhecia-o, havia perto de 20 anos, como homem pacato e chefe de numerosa família. De tempos a certa parte imaginou ter comprado um tóxico na minha farmácia, servindo-se dele para envenenar alguém. Muitas vezes vinha suplicar-me para lhe dizer a época de tal compra, tomado então de alucinações terríveis. Perdia o sono, lamentava-se, batia no peito. A família vivia em constante ansiedade das 4 da tarde às 9 da manhã, hora esta em que se dirigia para a casa bancária, onde, aliás, escriturava os seus livros com muita regularidade, sem que jamais cometesse um só erro. Habitualmente dizia sentir dentro de si um ente que o fazia desempenhar com acerto e ordem a sua contabilidade. Quando se afigurava convencido da extravagância das suas ideias, exclamava:
 
@@ -4767,7 +4767,7 @@ Não se pode desconhecer a profundeza e a alta significação de algumas das fra
 
 [^67]: N.E.: Também chamadas de Erínias ou Fúrias, ver nota 18.
 
-### 07. Espíritos endurecidos
+### 2.07
 
 #### 01. Lapommeray
 
@@ -5165,7 +5165,7 @@ Sob este nome, um Espírito se apresenta espontaneamente ao médium habituado a 
 
 — Filha, terás muito trabalho com este Espírito endurecido, mas o maior mérito não advém de salvar os não perdidos. Coragem, perseverança, e triunfarás afinal. Não há culpados que se não possam regenerar por meio da persuasão e do exemplo, visto como os Espíritos, por mais perversos, acabam por corrigir-se com o tempo. O fato de muitas vezes ser impossível regenerá-los prontamente, não importa na inutilidade de tais esforços. Mesmo a contragosto, as ideias sugeridas a tais Espíritos fazem-nos refletir. São como sementes que, cedo ou tarde, tivessem de frutificar. Não se arrebenta a pedra com a primeira marretada. Isto que te digo pode aplicar-se também aos encarnados e tu deves compreender a razão por que o Espiritismo não faz imediatamente homens perfeitos, mesmo entre os adeptos mais crentes. A crença é o primeiro passo; vindo em seguida a fé e a transformação a seu turno; mas, além disso, força é que muitos venham revigorar-se no mundo espiritual. Entre os Espíritos endurecidos, não há só perversos e maus. Grande é o número dos que, sem fazer o mal, estacionam por orgulho, indiferença ou apatia. Estes, nem por isso, são menos infelizes, pois tanto mais os aflige a inércia quanto mais se veem privados das mundanas compensações. Intolerável, por certo, se lhes torna a perspectiva do infinito, porém eles não têm nem a força nem a vontade para romper com essa situação. Referimo-nos a esses indivíduos que levam uma existência ociosa, inútil a si como ao próximo, acabando muita vez no suicídio, sem motivos sérios, por aborrecimento da vida. Em regra, tais Espíritos são menos passíveis de imediata regeneração, do que os positivamente maus, visto como estes ao menos dispõem de energia, e, uma vez doutrinados, votam-se ao bem com o mesmo ardor que lhes inspirava o mal. Aos outros, muitas encarnações se fazem precisas para que progridam, e isto pouco a pouco, domados pelo tédio, procurando, para se distraírem, qualquer ocupação que mais tarde venha transformar-se em necessidade.
 
-### 08. Expiações terrestres
+### 2.08
 
 #### 01. Marcel, o menino do #4
 
@@ -5646,6 +5646,8 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 — uma quimera. Depois de esgotar baldamente os recursos da Ciência e reputada impossível a cura, resolvi antecipar a morte: suicidei-me. Que despertar, então, que foi o meu, imerso nas mesmas trevas da vida! Contudo, não tardou muito o reconhecimento da minha situação, da minha transferência para o mundo espiritual. Era um Espírito, sim, porém, cego. A vida de além-túmulo tornava-se-me, pois, a realidade! Procurei fugir-lhe, mas em vão... Envolvia-me o vácuo. Pelo que ouvia dizer, essa vida deveria ser eterna, e com ela a minha situação. Ideia horrenda! Eu não sofria, mas impossível é descrever as angústias e tormentos espirituais experimentados. Quanto teriam eles durado? Ignoro-o... Mas quão longo me pareceu este tempo! Extenuado, fatigado, pude finalmente analisar-me a mim mesmo, e compreendi o ascendente de um poder superior, que sobre mim atuava, e considerei que se essa potência podia oprimir-me, também poderia aliviar-me. E implorei piedade. À proporção que orava e o fervor se me aumentava, alguém me dizia que a minha situação teria um termo. Por fim se fez a luz e extremo foi o meu arroubo de alegria ao entrever as claridades celestes, distinguindo os Espíritos que me rodeavam, sorrindo, benévolos, bem como os que, radiosos, flutuavam no Espaço. Ao querer seguir-lhes os passos, força invisível me reteve. Foi então que um deles me disse: “O Deus que negaste teve comiseração do teu arrependimento e permitiu-nos te déssemos a luz, mas tu só cedeste pelo sofrimento, pelo cansaço. Se queres participar desta felicidade aqui fruída, forçoso é provares a sinceridade do teu arrependimento, as boas disposições, recomeçando a prova terrestre em condições que te predisponham às mesmas faltas, porque esta nova provação deverá ser mais rude que a outra.” Aceitei pressuroso, prometendo não mais falir. Assim voltei à Terra nas condições que sabeis. Não me foi difícil compreender a situação, porque eu não era mau por índole; revoltara-me contra Deus, e Deus me puniu. Reencarnei trazendo a fé inata, razão por que não murmurei, antes aceitei a dupla enfermidade resignado, como expiação que era, oriunda da soberana justiça. O insulamento dos meus derradeiros anos nada tinha de desesperador, porquanto me bafejava a fé no futuro e na misericórdia de Deus. Ademais, esse insulamento me foi proveitoso, porque durante a longa noite silenciosa a minha alma mais livremente se alçava ao Eterno, entrevendo o infinito pelo pensamento. Quando, por fim, terminou o exílio, o mundo espiritual só me proporcionou esplendores, inefáveis gozos. O retrospecto ao passado faz que me julgue muito feliz, relativamente, pelo que dou graças a Deus; quando, porém, olho para o futuro, vejo a grande distância que ainda me separa da completa felicidade. Tendo já expiado, ainda me faltava reparar. A última encarnação só a mim aproveitou, pelo que espero recomeçar brevemente por existência que me permita ser útil ao próximo, reparando por esse meio a inutilidade anterior. E só assim me adiantarei na boa senda, sempre franqueada aos Espíritos possuídos de boa vontade. Amigos, eis aí a minha história; e se o meu exemplo puder esclarecer quaisquer dos meus irmãos encarnados, de modo a evitarem a má ação que pratiquei, terei por principiado o resgate da minha dívida.” Joseph
 
 ---
+
+## Notas de rodapé
 
 [^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
 [^]: Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.”
