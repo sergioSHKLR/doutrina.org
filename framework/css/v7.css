@@ -53,6 +53,8 @@
     font-family: 'Roboto Slab';
 }
 
+b, strong {font-weight: 300;}
+
 #col1-body a:any-link {
     text-decoration: none
 }
