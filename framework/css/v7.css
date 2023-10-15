@@ -30,11 +30,13 @@
 }
 
 #jekyll-toc {
+    list-style-type: none;
     margin-left: -40px;
     line-height: 1.7;
 }
 
 .jekyll-toc-2 {
+    list-style-type: none;
     margin-left: -30px;
     line-height: 1.7;
 }
