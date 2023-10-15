@@ -272,8 +272,8 @@ iframe {
     margin-left: -35px;
 }
 
-#jekyll-toc-2 {
-    margin-left: -60px;
+.jekyll-toc-2 {
+    margin-left: -30px;
 }
 
 #jekyll-toc>li::before {
