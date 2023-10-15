@@ -55,6 +55,4 @@ function buttonOne() {
   } else {
     z.style.display = "block";
   }
-  var element = document.getElementById("col2");
-  element.classList.toggle("margin-0");
 }
