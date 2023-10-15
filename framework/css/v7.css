@@ -29,7 +29,9 @@
     width: 200px
 }
 
-#jekyll-toc ul, #jekyll-toc li {list-style-type: none; margin-left: -35px;}
+#jekyll-toc ul {list-style-type: none; margin-left: -35px;}
+
+#jekyll-toc2 ul {list-style-type: none; margin-left: -35px;}
 
 #content {font-family: 'Noto Emoji';}
 
