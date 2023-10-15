@@ -266,11 +266,14 @@ iframe {
     }
 }
 
-#col1 ul {list-style-type: none;}
+#col1 ul {list-style-type: none; line-height: 1.7;}
 
 #jekyll-toc {
     margin-left: -30px;
-    line-height: 1.7;
+}
+
+#jekyll-toc-2 {
+    margin-left: -30px;
 }
 
 #jekyll-toc>li::before {
