@@ -266,9 +266,15 @@ iframe {
     }
 }
 
+#col1 ul {list-style-type: none; line-height: 1.7;}
+
 #jekyll-toc {
-    list-style-type: none;
     margin-left: -40px;
+    line-height: 1.7;
+}
+
+.jekyll-toc-2 {
+    margin-left: -30px;
     line-height: 1.7;
 }
 
@@ -277,6 +283,5 @@ iframe {
 }
 
 #jekyll-toc>li>ul>li::before {
-    list-style-type: none;
     content: "🗂️ Cap. "
 }

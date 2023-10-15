@@ -1,0 +1,90 @@
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+body {
+   margin: 0;
+   padding: 0;
+   font-family: 'Homemade Apple', cursive;
+}
+.hero {
+   position: relative;
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.hero::before {
+   content: "";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   /*
+   background: url(https://doutrina.org/content/images/angel-hero.avif);
+   */
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   filter: brightness(60%);
+}
+.hero-content {
+   position: relative;
+   text-align: center;
+   margin: 0.625rem;
+}
+.hero-title {
+   font-size: 3rem;
+   font-weight: 600;
+   margin-bottom: 0;
+}
+.hero-subtitle {
+   font-size: 2rem;
+   font-weight: 200;
+   margin-top: 1rem;
+}
+.hero-button {
+   background-color: #ae2d59;
+   color: white;
+   border: 1px solid #cb376a;
+   margin-top: 5rem;
+   padding: 0.9375rem1.875rem;
+   font-family: "Monserrat", sans-serif;
+   font-size: 1.125rem;
+   font-weight: 200;
+   cursor: pointer;
+}
+.hero-button:hover {
+   background-color: #cb376a;
+   border: 1px solid #db7598;
+}
+</style>
+</head>
+
+<body>
+
+
+<section class="hero">
+
+    <div class="hero-content">
+         
+       <h2 class="hero-subtitle">
+             Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para
+      fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna?<br><br>
+      São Luiz e Santo Agostinho
+       </h2>
+         
+       <button type="button" class="hero-button" onclick="location.href='welcome.html'">
+            entrar
+       </button>
+    
+    </div>
+
+</section>
+
+</body>
+</html>
