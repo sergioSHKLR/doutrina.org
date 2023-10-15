@@ -3,7 +3,7 @@
 }
 
 #brand-col2 a:any-link {
-    color: #555
+    color: #ccc
 }
 
 #col1 {
@@ -13,7 +13,7 @@
 #col1,
 #col1 a:any-link,
 #col3-head a:any-link {
-    color: #555;
+    color: #ccc;
     text-decoration: none
 }
 
