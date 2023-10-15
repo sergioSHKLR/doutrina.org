@@ -212,11 +212,6 @@ iframe {
     width: 100%
 }
 
-#margin-0 {
-    position: relative;
-    left: -200px;
-}
-
 @media only screen and (max-width:782px) {
     #brand-col2 {
         display: inline-flex
