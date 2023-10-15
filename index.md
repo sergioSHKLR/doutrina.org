@@ -1,8 +1,12 @@
-<style>
+<head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zeyada&display=swap" rel="stylesheet">
+<style>
+#col1 {background-color: #f2f2f2;}
+#col2-body {background-color: #f5f5f5;}
 </style>
+</head>
 
 # Bem-vindo à doutrina.org!
 
