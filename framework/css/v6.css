@@ -209,7 +209,9 @@ img {
     text-decoration-color: royalblue;
 }
 
-.cursive {font-family: 'Zeyada', cursive;}
+.cursive {
+    font-family: 'Zeyada', cursive;
+}
 
 @media only screen and (max-width:782px) {
     #brand-col2 {
