@@ -106,7 +106,6 @@
     background-color: #eee;
     border-bottom: none;
     flex-shrink: 1;
-    padding-right: 30px;
     width: 453px
 }
 
@@ -208,6 +207,7 @@ iframe {
 }
 
 @media only screen and (max-width:782px) {
+
     #brand-col2 {
         display: inline-flex
     }
@@ -218,6 +218,8 @@ iframe {
     #col4 {
         display: none
     }
+
+    #col4-head {padding-right: 30px;}
 }
 
 @media only screen and (min-width:783px) and (max-width:1419px) {
