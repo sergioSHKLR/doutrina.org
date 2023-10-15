@@ -10,9 +10,13 @@
     width: 200px
 }
 
-#col1 a:any-link {color: #222;}
+#col1 a:any-link {
+    color: #ccc;
+}
 
-#col1-head a:any-link {text-decoration: none;}
+#col1-head a:any-link {
+    text-decoration: none;
+}
 
 #col3-head a:any-link {
     text-decoration: none
@@ -60,7 +64,6 @@
 
 #col2-body {
     flex-grow: 1;
-    font-family: 'Roboto Slab', serif !important;
     font-weight: 200;
     line-height: 1.7;
     overflow-x: hidden
@@ -148,7 +151,9 @@
     background-color: #222;
 }
 
-.material-symbols-outlined {color: #fff;}
+.material-symbols-outlined {
+    color: #fff;
+}
 
 .shades-on {
     filter: brightness(.1)
