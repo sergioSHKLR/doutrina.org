@@ -266,7 +266,7 @@ iframe {
     }
 }
 
-ul#jekyll-toc {
+#jekyll-toc {
     list-style-type: none;
     margin-left: -40px;
     line-height: 1.7;
