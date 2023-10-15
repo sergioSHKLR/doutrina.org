@@ -1,4 +1,8 @@
-# 🔥 CEU
+<style>
+#col2-body {background-color: #fcf1e9;}
+</style>
+
+# 🔥 O Céu e o Inferno
 
 ## 0
 

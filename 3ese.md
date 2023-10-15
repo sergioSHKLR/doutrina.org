@@ -1,4 +1,8 @@
-# 🕊️ ESE
+<style>
+#col2-body {background-color: #e6ffff;}
+</style>
+
+# 🕊️ O Evangelho segundo o Espiritismo
 
 ## 0
 

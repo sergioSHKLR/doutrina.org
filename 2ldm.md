@@ -1,4 +1,8 @@
-# ✒️ LDM
+<style>
+#col2-body {background-color: #ffe6ff;}
+</style>
+
+# ✒️ O Livro dos Médiuns
 
 ## 0
 

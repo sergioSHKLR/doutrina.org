@@ -1,4 +1,8 @@
-# 👻 LDE
+<style>
+#col2-body {background-color: #e6e6ff;}
+</style>
+
+# 👻 O Livro dos Espíritos
 
 ## 0
 
