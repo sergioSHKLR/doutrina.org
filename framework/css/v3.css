@@ -266,4 +266,6 @@ iframe {
     }
 }
 
-ul#jekyll-toc {list-style-type: none; margin-left: -10px;}
+ul#jekyll-toc {list-style-type: none; margin-left: -30px;}
+
+ul#jekyll-toc::before {content: "🗃️ Parte "}
