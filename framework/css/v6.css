@@ -212,9 +212,9 @@ iframe {
     width: 100%
 }
 
-#margin-0 {
+.margin-0 {
     position: relative;
-    left: -200px;
+    left: -200px
 }
 
 @media only screen and (max-width:782px) {
@@ -223,7 +223,7 @@ iframe {
     }
 
     #col1 {
-        min-width: 300px;
+        min-width: 300px
     }
 
     #brand-col1,
