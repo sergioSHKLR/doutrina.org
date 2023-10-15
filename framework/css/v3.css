@@ -266,8 +266,17 @@ iframe {
     }
 }
 
-ul#jekyll-toc {list-style-type: none; margin-left: -40px; line-height: 1.7;}
+ul#jekyll-toc {
+    list-style-type: none;
+    margin-left: -40px;
+    line-height: 1.7;
+}
 
-#jekyll-toc > li::before {content: "🗃️ Parte "}
+#jekyll-toc>li::before {
+    content: "🗃️ Parte "
+}
 
-#jekyll-toc >li>li::before {content: "🗂️ Cap. "}
+#jekyll-toc>li>ul>li::before {
+    list-style-type: none;
+    content: "🗂️ Cap. "
+}
