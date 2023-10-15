@@ -198,6 +198,17 @@ img {
     margin-right: auto;
 }
 
+#col2-body a:any-link {
+    text-decoration: none;
+}
+
+#col2-body a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+}
+
+
 @media only screen and (max-width:782px) {
     #brand-col2 {
         display: inline-flex
