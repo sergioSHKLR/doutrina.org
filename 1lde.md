@@ -9222,7 +9222,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ---
 
-### Notas de rodapé
+#### Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 

@@ -2556,7 +2556,7 @@ Galgado o ponto em que nos achamos com relação à Gênese, o materialismo se d
 
 ---
 
-## Notas de rodapé
+#### Notas de rodapé
 
 [^1]: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
 
