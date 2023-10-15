@@ -266,4 +266,4 @@ iframe {
     }
 }
 
-ul#jekyll-toc {background-color: red;}
+ul#jekyll-toc {list-style-type: none; margin-left: -10px;}
