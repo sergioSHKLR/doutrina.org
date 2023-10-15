@@ -1,5 +1,6 @@
 <style>
-#col1, #col2-body {background-color: #ffe6ff;}
+#col1 {background-color: #ffccff;}
+#col2-body {background-color: #ffe6ff;}
 </style>
 
 # ✒️ O Livro dos Médiuns

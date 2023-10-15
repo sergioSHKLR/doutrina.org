@@ -1,5 +1,6 @@
 <style>
-#col1, #col2-body {background-color: #e6ffff;}
+#col1 {background-color: #ccffff;}
+#col2-body {background-color: #e6ffff;}
 </style>
 
 # 🕊️ O Evangelho segundo o Espiritismo

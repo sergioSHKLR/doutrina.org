@@ -1,5 +1,6 @@
 <style>
-#col1, #col2-body {background-color: #e6e6ff;}
+#col1 {background-color: #ccccff;}
+#col2-body {background-color: #e6e6ff;}
 </style>
 
 # 👻 O Livro dos Espíritos
