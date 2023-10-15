@@ -28,27 +28,31 @@ function closeFullscreen() {
 }
 
 // CURTAIN
-
-// toggles anti-distraction curtain
 function toggleShades() {
   var element = document.getElementById("ext-iframe");
   element.classList.toggle("shades-on");
 }
 
-// col1 buttons
+// MENU BUTTON
 function buttonOne() {
+
+// show-hide column 1 head
   var x = document.getElementById("col1-head");
   if (x.style.display === "block") {
     x.style.display = "none";
   } else {
     x.style.display = "block";
   }
+
+  // show-hide column 1 body
   var y = document.getElementById("col1-body");
   if (y.style.display === "block") {
     y.style.display = "none";
   } else {
     y.style.display = "block";
   }
+
+  // show-hide column 1
   var z = document.getElementById("col1");
   if (z.style.display === "block") {
     z.style.display = "none";
