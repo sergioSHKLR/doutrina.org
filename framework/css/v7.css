@@ -46,7 +46,7 @@ ul#jekyll-toc-2 li::before {
 }
 
 #content {
-    font-family: 'Noto Color Emoji';
+    font-family: 'Roboto Slab';
 }
 
 #col1-body a:any-link {
@@ -200,7 +200,7 @@ button:hover {
 }
 
 html {
-    font: 16px 'Noto Color Emoji', sans-serif;
+    font: 16px 'Inter', sans-serif;
     margin: 0 23px 0 0;
     padding: 0
 }
