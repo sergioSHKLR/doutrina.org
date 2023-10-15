@@ -44,7 +44,7 @@
     width: calc(100vh * .5)
 }
 
-#col2, #col3 {min-width: 250px;}
+#col2, #col3 {min-width: 270px;}
 
 #brand-col2 {position: relative; top: -5px;}
 
