@@ -29,9 +29,9 @@
     width: 200px
 }
 
-ul#jekyll-toc {
+ul#jekyll-toc, ul#jekyll-toc-2 {
     list-style-type: none !important;
-    margin-left: -30px;
+    margin-left: -35px;
     line-height: 1.7;
 }
 
@@ -41,7 +41,7 @@ ul#jekyll-toc li::before {
     content: "🗃️ Parte "
 }
 
-ul#jekyll-toc2 li::before {
+ul#jekyll-toc-2 li::before {
     content: "🗂️ Cap. "
 }
 
