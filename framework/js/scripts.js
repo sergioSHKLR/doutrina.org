@@ -55,46 +55,11 @@ function buttonOne() {
   } else {
     z.style.display = "block";
   }
-}
 
-function buttonThree() {
-  var x = document.getElementById("col3-head");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-  var y = document.getElementById("col3-body");
-  if (y.style.display === "none") {
-    y.style.display = "block";
-  } else {
-    y.style.display = "none";
-  }
-  var z = document.getElementById("col3");
-  if (z.style.display === "none") {
-    z.style.display = "block";
-  } else {
+  var w = document.getElementById("brand-col1");
+  if (z.style.display === "block") {
     z.style.display = "none";
-  }
-}
-
-function buttonFour() {
-  var x = document.getElementById("col4-head");
-  if (x.style.display === "none") {
-    x.style.display = "block";
   } else {
-    x.style.display = "none";
-  }
-  var y = document.getElementById("col4-body");
-  if (y.style.display === "none") {
-    y.style.display = "block";
-  } else {
-    y.style.display = "none";
-  }
-  var z = document.getElementById("col4");
-  if (z.style.display === "none") {
     z.style.display = "block";
-  } else {
-    z.style.display = "none";
   }
 }
