@@ -1,64 +1,91 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>doutrina.org</title>
-  <meta name="description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
-  <meta name="author" content="sergioSHKLR, info@doutrina.org">
-
-  <!-- FACEBOOK META TAGS -->
-  <meta property="og:url" content="https://doutrina.org">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="doutrina.org">
-  <meta property="og:description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
-  <meta property="og:image" content="./framework/pwa/screenshot.png">
-
-  <!-- TWITTER META TAGS -->
-  <meta name="twitter:card" content="./framework/pwa/screenshot.png">
-  <meta name="twitter:title" content="doutrina.org">
-  <meta name="twitter:description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
-  <meta name="twitter:image" content="./framework/pwa/screenshot.png">
-
-  <!-- GOOGLE FONTS -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Inter:wght@100;200;300;400;500;600;700&display=swap"
-    rel="stylesheet">
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="./framework/css/splash.css">
-
-  <!-- PWA -->
-  <meta name="theme-color" content="#4ec1f5">
-  <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
-
-</head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+body {
+   margin: 0;
+   padding: 0;
+   font-family: 'Homemade Apple', cursive;
+}
+.hero {
+   position: relative;
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.hero::before {
+   content: "";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   /*
+   background: url(https://doutrina.org/content/images/angel-hero.avif);
+   */
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   filter: brightness(60%);
+}
+.hero-content {
+   position: relative;
+   font-family: "Monserrat", sans-serif;
+   color: white;
+   text-align: center;
+   margin: 0.625rem;
+}
+.hero-title {
+   font-size: 3rem;
+   font-weight: 600;
+   margin-bottom: 0;
+}
+.hero-subtitle {
+   font-size: 2rem;
+   font-weight: 200;
+   margin-top: 1rem;
+}
+.hero-button {
+   background-color: #ae2d59;
+   color: white;
+   border: 1px solid #cb376a;
+   margin-top: 5rem;
+   padding: 0.9375rem1.875rem;
+   font-family: "Monserrat", sans-serif;
+   font-size: 1.125rem;
+   font-weight: 200;
+   cursor: pointer;
+}
+.hero-button:hover {
+   background-color: #cb376a;
+   border: 1px solid #db7598;
+}
+</style>
 
 <body>
 
-  <div id="splash">
-    <p>&nbsp;</p>
 
-    <blockquote>
+<section class="hero">
 
-      Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para
+    <div class="hero-content">
+         
+       <h2 class="hero-subtitle">
+             Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para
       fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna?<br><br>
+      São Luiz e Santo Agostinho
+       </h2>
+         
+       <button type="button" class="hero-button" onclick="location.href='welcome.html'">
+            entrar
+       </button>
+    
+    </div>
 
-      São Luís e&nbsp;&nbsp;Santo Agostinho
-
-    </blockquote>
-
-    <br><br><br>
-    <p id="body" style="font-family: 'Inter', sans-serif; font-size: 16px;"><a href="./welcome.html">continue para<br>
-        <img src="./framework/doutrina-logo-dark.svg" style="width: 30%; height: 30%;" alt="doutrina.org"></a></p>
-  </div>
+</section>
 
 </body>
-
 </html>
