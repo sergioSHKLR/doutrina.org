@@ -44,6 +44,8 @@
     width: calc(100vh * .5)
 }
 
+#col2, #col3 {min-width: 250px;}
+
 #brand-col2 {position: relative; top: -5px;}
 
 #brand-col2 a:any-link {text-decoration: none;}
