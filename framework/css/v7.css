@@ -33,7 +33,7 @@
 
 #jekyll-toc2 ul {list-style-type: none; margin-left: -20px;}
 
-#content {font-family: 'Noto Emoji';}
+#content {font-family: 'Noto Color Emoji';}
 
 #col1-body a:any-link {
     text-decoration: none
@@ -186,7 +186,7 @@ button:hover {
 }
 
 html {
-    font: 16px 'Noto Emoji', sans-serif;
+    font: 16px 'Noto Color Emoji', sans-serif;
     margin: 0 23px 0 0;
     padding: 0
 }
