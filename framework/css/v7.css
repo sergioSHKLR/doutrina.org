@@ -29,16 +29,18 @@
     width: 200px
 }
 
-#jekyll-toc ul {
+ul#jekyll-toc {
     list-style-type: none !important;
     margin-left: -30px;
 }
 
-#jekyll-toc li::before {content: "Parte "}
-#jekyll-toc2 li > ul > li::before {content: "Cap. "}
+ul#jekyll-toc li::before {
+    content: "Parte "
+}
 
-
-
+ul#jekyll-toc2 li>ul>li::before {
+    content: "Cap. "
+}
 
 #content {
     font-family: 'Noto Color Emoji';
