@@ -30,12 +30,12 @@
 }
 
 #jekyll-toc ul {
-    list-style-type: none;
-    margin-left: -20px;
+    list-style-type: none !important;
+    margin-left: -30px;
 }
 
 #jekyll-toc li::before {content: "Parte "}
-#jekyll-toc2 li::before {content: "Cap. "}
+#jekyll-toc2 li > ul > li::before {content: "Cap. "}
 
 
 
