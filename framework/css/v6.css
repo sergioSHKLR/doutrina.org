@@ -2,7 +2,7 @@
     display: none
 }
 
-#brand-col2 a:any-link {
+#brand-col2 a:any-link, #brand-col1 a:any-link {
     color: #ccc !important
 }
 
