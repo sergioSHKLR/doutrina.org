@@ -60,7 +60,7 @@
 
 #col2-body {
     flex-grow: 1;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif !important;
     font-weight: 200;
     line-height: 1.7;
     overflow-x: hidden
