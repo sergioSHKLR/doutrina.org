@@ -167,7 +167,7 @@ button {
 }
 
 button:hover {
-  transition-duration: .5;
+  transition-duration: .5s;
   transition-timing-function: ease-in-out;
   color: #000;
 }
@@ -197,7 +197,7 @@ button:hover {
 }
 
 #col3-head a:any-link:hover {
-  transition-duration: .5;
+  transition-duration: .5s;
   transition-timing-function: ease-in-out;
   color: #000;
 }
