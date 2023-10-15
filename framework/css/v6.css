@@ -206,8 +206,10 @@ img {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 2px;
+    text-decoration-color: royalblue;
 }
 
+.cursive {font-family: 'Zeyada', cursive;}
 
 @media only screen and (max-width:782px) {
     #brand-col2 {

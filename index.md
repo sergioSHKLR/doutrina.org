@@ -1,3 +1,9 @@
+<style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zeyada&display=swap" rel="stylesheet">
+</style>
+
 # Bem-vindo à doutrina.org!
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita em três colunas, dispostas assim:
@@ -32,4 +38,4 @@ Por fim, necessitamos de programadores front-end e full-stack. Caso queira contr
 
 Deus sempre abençoa!
 
-![assinado, Sergio](./content/images/sign.png)
+[assinado, Sergio]{:class="cursive"}
