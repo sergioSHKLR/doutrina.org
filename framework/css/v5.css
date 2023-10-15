@@ -217,10 +217,6 @@ iframe {
         display: inline-flex
     }
 
-    #col1 {
-        min-width: 300px;
-    }
-
     #brand-col1,
     #col1,
     #col3,
