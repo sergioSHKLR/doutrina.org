@@ -266,6 +266,7 @@ iframe {
     }
 }
 
-ul#jekyll-toc {list-style-type: none; margin-left: -50px;}
+ul#jekyll-toc {list-style-type: none; margin-left: -40px;}
 
-#jekyll-toc li::before {content: "🗃️ Parte "}
+#jekyll-toc ul>li::before {content: "🗃️ Parte "}
+#jekyll-toc ul>ul>li::before {content: "🗂️ Cap. "}
