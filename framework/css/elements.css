@@ -1,0 +1,110 @@
+#brand-col2 a:any-link
+{
+	color:#555
+}
+
+#col1-body a:any-link
+{
+	text-decoration:none
+}
+
+#col1-body a:any-link:hover
+{
+	text-decoration:underline royalblue;
+	text-decoration-thickness:2px;
+	text-underline-offset:2px
+}
+
+.flex>div
+{
+	background-color:transparent
+}
+
+.flex-head>div
+{
+	border-bottom:1px solid lightgrey;
+	border-right:1px solid lightgrey;
+	min-width:210px
+}
+
+.flex-body>div
+{
+	border-right:1px solid lightgrey;
+	min-width:210px;
+	overflow-y:scroll
+}
+
+html
+{
+	font-family:'Inter',sans-serif;
+	font-size:16px;
+	margin:0 23px 0 0;
+	padding:0
+}
+
+body
+{
+	margin:0;
+	padding:0
+}
+
+*
+{
+	box-sizing:border-box
+}
+
+button
+{
+	background-color:transparent;
+	border:none;
+	color:#555;
+	cursor:pointer;
+	height:30px;
+	margin:0 5px;
+	padding:2.5px 0 0;
+	padding:3px 0 0 0;
+	text-align:center!important;
+	width:30px
+}
+
+#col3-head a
+{
+	margin:0 8px
+}
+
+#col1 a:any-link,#col1,#col3-head a:any-link
+{
+	color:#555;
+	text-decoration:none
+}
+
+#col3-head a:any-link
+{
+	background-color:transparent;
+	color:#555;
+	cursor:pointer;
+	height:30px;
+	padding:12px 0 0 5px;
+	width:30px
+}
+
+hr
+{
+	border-color:lightgrey;
+	border-top:none
+}
+
+iframe
+{
+	border:none;
+	filter:brightness(.95);
+	height:100%;
+	width:100%
+}
+
+button:hover,#col3-head a:any-link:hover
+{
+	color:#000;
+	transition-duration:.5s;
+	transition-timing-function:ease-in-out
+}

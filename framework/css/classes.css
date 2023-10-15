@@ -1,40 +1,51 @@
-.flex {
-    display: flex;
-    height: 100vh;
-    overflow-y: scroll;
+.flex
+{
+	display:flex;
+	height:100vh;
+	overflow-y:scroll
 }
 
-.flex>div {
-    background-color: transparent;
+.flex-head
+{
+	display:flex;
+	height:50px
 }
 
-.flex-head {
-    display: flex;
-    height: 50px;
+.flex-body
+{
+	display:flex;
+	height:calc(100vh - 50px)
 }
 
-.flex-head>div {
-    min-width: 210px;
-    border-bottom: 1px solid lightgrey;
-    border-right: 1px solid lightgrey;
+.fr
+{
+	float:right
 }
 
-.flex-body {
-    display: flex;
-    height: calc(100vh - 50px);
+.shades-on
+{
+	filter:brightness(.1)
 }
 
-.flex-body>div {
-    min-width: 210px;
-    border-right: 1px solid lightgrey;
-    overflow-y: scroll;
+.head
+{
+	display:inline-block;
+	padding:10px
 }
 
-
-.fr {
-    float: right;
+.body
+{
+	padding:10px
 }
 
-.shades-on {
-    filter: brightness(.1)
+.h3
+{
+	border-bottom:1px solid gainsboro;
+	font-size:16px;
+	font-weight:700
+}
+
+.indent
+{
+	text-indent:10px
 }

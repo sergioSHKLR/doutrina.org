@@ -1,95 +1,94 @@
-#col1 {
-    width: 210px;
+#col1
+{
+	width:210px
 }
 
-#col2 {
-    /* flex:1 1 auto; */
-    flex-grow: 1;
-    width: calc(100vh * .5)
+#col4
+{
+	flex-shrink:1;
+	width:453px
 }
 
-#col3 {
-    /* flex:1 1 auto; */
-    flex-grow: 1;
-    width: calc(100vh * .5)
+#col1-head
+{
+	background-color:aliceblue;
+	width:210px
 }
 
-#col4 {
-    flex-shrink: 1;
-    width: 453px;
+#col2-head
+{
+	background-color:aliceblue;
+	flex-grow:1;
+	padding-right:40px
 }
 
-#col1-head {
-    width: 210px;
-    background-color: aliceblue;
+#brand-col2
+{
+	display:none
 }
 
-#col2-head {
-    /* flex:1 1 auto; */
-    flex-grow: 1;
-    padding-right: 40px;
-    background-color: aliceblue;
+#col3-head
+{
+	background-color:aliceblue;
+	flex-grow:1;
+	margin-top:-2px;
+	padding-right:40px;
+	padding-top:13px
 }
 
-#brand-col2 {
-    display: none;
+#col4-head
+{
+	background-color:#eee;
+	border-bottom:none;
+	flex-shrink:1;
+	padding-right:40px;
+	width:453px
 }
 
-#brand-col2 a:any-link {
-    color: #555;
+#col1-body
+{
+	font-size:14px;
+	overflow-y:scroll;
+	width:210px
 }
 
-#col3-head {
-    /* flex:1 1 auto; */
-    flex-grow: 1;
-    padding-right: 40px;
-    background-color: aliceblue;
-    padding-top: 13px;
-    margin-top: -2px;
+#col2-body
+{
+	flex-grow:1;
+	font-family:'Roboto Slab',serif;
+	font-weight:200;
+	line-height:1.7;
+	overflow-x:hidden
 }
 
-#col4-head {
-    flex-shrink: 1;
-    width: 453px;
-    padding-right: 40px;
-    border-bottom: none;
-    background-color: #eee;
+#col3-body
+{
+	background-color:#eee;
+	flex-grow:1
 }
 
-#col1-body {
-    width: 210px;
-    font-size: 14px;
-    overflow-y: scroll;
+#col4-body
+{
+	background-color:#eee;
+	flex-shrink:1;
+	width:453px
 }
 
-#col1-body a:any-link {
-    text-decoration: none;
+#content img
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	max-width:80%
 }
 
-#col1-body a:any-link:hover {
-    text-decoration: underline royalblue;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 2px;
+#content strong
+{
+	font-weight:1.2
 }
 
-
-#col2-body {
-    /* flex:1 1 auto; */
-    flex-grow: 1;
-    overflow-x: hidden;
-    font-family: 'Roboto Slab', serif;
-    font-weight: 200;
-    line-height: 1.7;
-}
-
-#col3-body {
-    /* flex:1 1 auto; */
-    flex-grow: 1;
-    background-color: #eee;
-}
-
-#col4-body {
-    flex-shrink: 1;
-    width: 453px;
-    background-color: #eee;
+#col2,#col3
+{
+	flex-grow:1;
+	width:calc(100vh * .5)
 }
