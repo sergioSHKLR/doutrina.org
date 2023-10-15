@@ -7,7 +7,7 @@
 }
 
 #col1 {
-    width: 210px
+    width: 200px
 }
 
 #col1,
@@ -20,7 +20,7 @@
 #col1-body {
     font-size: 14px;
     overflow-y: scroll;
-    width: 210px
+    width: 200px
 }
 
 #col1-body a:any-link {
@@ -35,7 +35,7 @@
 
 #col1-head {
     background-color: #f0f8ff;
-    width: 210px
+    width: 200px
 }
 
 #col2,
