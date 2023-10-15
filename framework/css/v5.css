@@ -136,7 +136,7 @@
 
 .flex-body>div {
     border-right: 1px solid #d3d3d3;
-    min-width: 210px;
+    min-width: 200px;
     overflow-y: scroll
 }
 
