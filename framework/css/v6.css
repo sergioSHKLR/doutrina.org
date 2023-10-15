@@ -34,7 +34,6 @@
 }
 
 #col1-head {
-    background-color: #f0f8ff;
     width: 200px
 }
 
@@ -67,17 +66,14 @@
 }
 
 #col2-head {
-    background-color: #f0f8ff;
     flex-grow: 1
 }
 
 #col3-body {
-    background-color: #eee;
     flex-grow: 1
 }
 
 #col3-head {
-    background-color: #f0f8ff;
     flex-grow: 1;
     margin-top: -2px;
     padding-top: 13px
@@ -88,7 +84,6 @@
 }
 
 #col3-head a:any-link {
-    background-color: transparent;
     color: #555;
     cursor: pointer;
     height: 30px;
@@ -130,9 +125,11 @@
     border-right: 1px solid #d3d3d3
 }
 
+/*
 .flex>div {
     background-color: transparent
 }
+*/
 
 .fr {
     float: right
@@ -146,8 +143,11 @@
 
 .head {
     display: inline-block;
-    padding: 10px
+    padding: 10px;
+    background-color: #333;
 }
+
+.material-symbols-outlined {color: #fff;}
 
 .shades-on {
     filter: brightness(.1)
