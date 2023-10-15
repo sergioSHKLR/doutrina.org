@@ -269,4 +269,4 @@ iframe {
 ul#jekyll-toc {list-style-type: none; margin-left: -40px; line-height: 1.7;}
 
 #jekyll-toc ul>li::before {content: "🗃️ Parte "}
-#jekyll-toc ul>ul>li::before {content: "🗂️ Cap. "}
+#jekyll-toc ul>li>ul>li::before {content: "🗂️ Cap. "}
