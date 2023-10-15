@@ -191,6 +191,13 @@ iframe {
     width: 100%
 }
 
+img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media only screen and (max-width:782px) {
     #brand-col2 {
         display: inline-flex
