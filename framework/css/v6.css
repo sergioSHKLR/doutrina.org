@@ -10,8 +10,8 @@
     width: 200px
 }
 
-#col1 a:any-link {
-    color: #ccc;
+#col1-body a:any-link {
+    color: #222;
 }
 
 #col1-head a:any-link {
