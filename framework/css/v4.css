@@ -44,6 +44,11 @@
     width: calc(100vh * .5)
 }
 
+#brand-col2 {position: relative; top: -5px;}
+
+#brand-col2 a:any-link {text-decoration: none;}
+
+
 #col2-body {
     flex-grow: 1;
     font-family: 'Roboto Slab', serif;
