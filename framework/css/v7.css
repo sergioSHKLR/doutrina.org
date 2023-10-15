@@ -29,7 +29,7 @@
     width: 200px
 }
 
-#col1-body ul, #col1-body ol {list-style-type: none;}
+#jekyll-toc ul {list-style-type: none; margin-left: -35px;}
 
 #col1-body a:any-link {
     text-decoration: none
