@@ -1,0 +1,40 @@
+.flex {
+    display: flex;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.flex>div {
+    background-color: transparent;
+}
+
+.flex-head {
+    display: flex;
+    height: 50px;
+}
+
+.flex-head>div {
+    min-width: 210px;
+    border-bottom: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
+}
+
+.flex-body {
+    display: flex;
+    height: calc(100vh - 50px);
+}
+
+.flex-body>div {
+    min-width: 210px;
+    border-right: 1px solid lightgrey;
+    overflow-y: scroll;
+}
+
+
+.fr {
+    float: right;
+}
+
+.shades-on {
+    filter: brightness(.1)
+}
