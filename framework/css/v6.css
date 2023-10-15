@@ -3,7 +3,7 @@
 }
 
 #brand-col2 a:any-link {
-    color: #ccc
+    color: #ccc !important
 }
 
 #col1 {
