@@ -266,20 +266,15 @@ iframe {
     }
 }
 
+#col1 ul {list-style-type: none;}
+
 #jekyll-toc {
-    list-style-type: none;
     margin-left: -40px;
     line-height: 1.7;
 }
 
 #jekyll-toc>li::before {
     content: "🗃️ Parte "
-}
-
-jekyll-toc > li > ul {
-    list-style-type: none;
-    margin-left: -40px;
-    line-height: 1.7;
 }
 
 #jekyll-toc>li>ul>li::before {
