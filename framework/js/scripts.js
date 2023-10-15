@@ -55,11 +55,4 @@ function buttonOne() {
   } else {
     z.style.display = "block";
   }
-
-  var w = document.getElementById("brand-col1");
-  if (z.style.display === "block") {
-    z.style.display = "none";
-  } else {
-    z.style.display = "block";
-  }
 }
