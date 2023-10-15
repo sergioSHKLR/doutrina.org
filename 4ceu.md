@@ -1,6 +1,6 @@
 <style>
 #col1 {background-color: #f9e2d2;}
-#col2-body {background-color: #fcf1e9;}
+#col2-body {background-color: #FFF6E6;}
 </style>
 
 # 🔥 O Céu e o Inferno

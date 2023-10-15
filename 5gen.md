@@ -1,6 +1,6 @@
 <style>
 #col1 {background-color: #ccffcc;}
-#col2-body {background-color: #e6ffe6;}
+#col2-body {background-color: #E6F0E6;}
 </style>
 
 # 🌱 A Gênese
