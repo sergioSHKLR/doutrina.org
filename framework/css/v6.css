@@ -20,7 +20,6 @@
 #col1-body {
     font-size: 14px;
     overflow-y: scroll;
-    width: 200px
 }
 
 #col1-body a:any-link {
@@ -35,7 +34,6 @@
 
 #col1-head {
     background-color: #f0f8ff;
-    width: 200px
 }
 
 #col2,
@@ -80,7 +78,6 @@
     background-color: #f0f8ff;
     flex-grow: 1;
     margin-top: -2px;
-    padding-right: 40px;
     padding-top: 13px
 }
 
@@ -95,24 +92,6 @@
     height: 30px;
     padding: 12px 0 0 5px;
     width: 30px
-}
-
-#col4 {
-    flex-shrink: 1;
-    width: 453px
-}
-
-#col4-body {
-    background-color: #eee;
-    flex-shrink: 1;
-    width: 453px
-}
-
-#col4-head {
-    background-color: #eee;
-    border-bottom: none;
-    flex-shrink: 1;
-    width: 453px
 }
 
 * {
@@ -136,7 +115,6 @@
 
 .flex-body>div {
     border-right: 1px solid #d3d3d3;
-    min-width: 200px;
     overflow-y: scroll
 }
 
@@ -148,7 +126,6 @@
 .flex-head>div {
     border-bottom: 1px solid #d3d3d3;
     border-right: 1px solid #d3d3d3;
-    min-width: 200px
 }
 
 .flex>div {
@@ -212,18 +189,9 @@ iframe {
     width: 100%
 }
 
-.margin-0 {
-    position: relative;
-    left: -200px
-}
-
 @media only screen and (max-width:782px) {
     #brand-col2 {
         display: inline-flex
-    }
-
-    #col1 {
-        min-width: 300px
     }
 
     #brand-col1,
