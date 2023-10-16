@@ -1,5 +1,5 @@
 <style>
-#col1 {background-color: #ffccff;}
+#col1 {background-color: #E6CCE6;}
 #col2-body {background-color: #F2E6F2;}
 </style>
 
