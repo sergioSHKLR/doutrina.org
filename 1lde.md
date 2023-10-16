@@ -1,6 +1,12 @@
 <style>
 #col1 {background-color: #D9E1F9;}
 #col2-body {background-color: #ECF0FC;}
+h2,h3,h4,h5,h6 {font-size: 20px;}
+h2:before {content: "🗃️ Parte "}
+h3:before {content: "🗂️ Cap. "}
+h4:before {content: "📑 Seção "}
+h5:before {content: "📄 Para. "}
+h6:before {content: "#️⃣ Item "}
 </style>
 
 # 👻 O Livro dos Espíritos

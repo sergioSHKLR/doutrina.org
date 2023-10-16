@@ -1,6 +1,12 @@
 <style>
 #col1 {background-color: #E8DAD0;}
 #col2-body {background-color: #F3ECE7;}
+h2,h3,h4,h5,h6 {font-size: 20px;}
+h2:before {content: "🗃️ Parte "}
+h3:before {content: "🗂️ Cap. "}
+h4:before {content: "📑 Seção "}
+h5:before {content: "📄 Para. "}
+h6:before {content: "#️⃣ Item "}
 </style>
 
 # 🔥 O Céu e o Inferno

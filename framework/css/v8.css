@@ -42,11 +42,11 @@
 }
 
 #jekyll-toc>li::before {
-    content: "🗃️ "
+    content: "🗃️ Parte"
 }
 
 #jekyll-toc>li>ul>li::before {
-    content: "🗂️ "
+    content: "🗂️ Cap."
 }
 
 #content {
