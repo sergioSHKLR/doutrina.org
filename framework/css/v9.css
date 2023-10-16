@@ -213,6 +213,15 @@ p.h3 {
     font-size: 60px;
 }
 
+.hero {
+    text-align: center;
+    background-image: url(/framework/yellow-paper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Homemade Apple', cursive;
+    font-size: 72px;
+}
+
 @media only screen and (max-width:782px) {
 
     #brand-col1,
