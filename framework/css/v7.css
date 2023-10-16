@@ -42,11 +42,11 @@
 }
 
 #jekyll-toc>li::before {
-    content: "🗃️ Parte "
+    content: "🗃️ "
 }
 
 #jekyll-toc>li>ul>li::before {
-    content: "🗂️ Cap. "
+    content: "🗂️ "
 }
 
 #content {
@@ -163,7 +163,7 @@ strong {
     float: right
 }
 
-.h3 {
+p.h3 {
     border-bottom: 1px solid #333;
     font-size: 16px;
     font-weight: 700
