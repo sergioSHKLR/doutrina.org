@@ -1,5 +1,5 @@
 ---
-title: LDM
+title: ✒️ O Livro dos Médiuns
 layout: default
 ---
 

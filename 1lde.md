@@ -1,5 +1,5 @@
 ---
-title: LDE
+title: 👻 O Livro dos Espíritos
 layout: default
 ---
 

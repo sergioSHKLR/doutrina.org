@@ -1,5 +1,5 @@
 ---
-title: ESE
+title: 🕊️ O Evangelho segundo o Espiritismo
 layout: default
 ---
 

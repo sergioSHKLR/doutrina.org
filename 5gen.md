@@ -1,5 +1,5 @@
 ---
-title: GEN
+title: 🌱 A Gênese
 layout: default
 ---
 
