@@ -53,7 +53,10 @@
     font-family: 'Roboto Slab';
 }
 
-b, strong {font-weight: 300;}
+b,
+strong {
+    font-weight: 300;
+}
 
 #col1-body a:any-link {
     text-decoration: none
@@ -229,7 +232,15 @@ iframe {
     text-decoration-color: #4169e1
 }
 
-.cursive {font-family: 'Zeyada'; font-size: 30px;}
+hr {
+    border-top: none;
+    border-bottom: 1px solid #333;
+}
+
+.cursive {
+    font-family: 'Zeyada';
+    font-size: 30px;
+}
 
 @media only screen and (max-width:782px) {
     #brand-col2 {
