@@ -88,17 +88,18 @@
     }
     
     #jekyll-toc {
-    line-height:2.2;
     list-style-type:none;
     margin-left:-40px
     }
     
     #jekyll-toc>li::before {
-    content:"🗃️ Parte "
+    content:"🗃️ Parte ";
+    line-height:2.2;
     }
     
     #jekyll-toc>li>ul>li::before {
-    content:"🗂️ Cap. "
+    content:"🗂️ Cap. ";
+    line-height:2.2;
     }
     
     * {
