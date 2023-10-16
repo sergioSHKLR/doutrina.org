@@ -229,6 +229,8 @@ iframe {
     text-decoration-color: #4169e1
 }
 
+.cursive {font-family: 'Zeyada'; font-size: 30px;}
+
 @media only screen and (max-width:782px) {
     #brand-col2 {
         display: inline-flex

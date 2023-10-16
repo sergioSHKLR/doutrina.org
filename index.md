@@ -42,5 +42,5 @@ Por fim, necessitamos de programadores front-end e full-stack. Caso queira contr
 
 Deus sempre abençoa!
 
-assinado, Sergio
+Sergio
 {:class="cursive"}
