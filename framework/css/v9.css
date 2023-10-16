@@ -219,7 +219,14 @@ p.h3 {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Homemade Apple', cursive;
-    font-size: 72px;
+    font-size: 36px;
+    word-spacing: 5px;
+}
+
+.center-button {
+    text-align: center;
+    border: 1px solid gainsboro;
+    background-color: #4ec1f5;
 }
 
 @media only screen and (max-width:782px) {
