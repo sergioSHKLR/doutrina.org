@@ -233,6 +233,8 @@ p.h3 {
     text-align: center;
     border: 1px solid gainsboro;
     background-color: #4ec1f5;
+    padding: 12px 18px;
+    border-radius: 5px;
 }
 
 @media only screen and (max-width:782px) {
