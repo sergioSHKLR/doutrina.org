@@ -515,7 +515,7 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 >
 > Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais.
 >
-> **Uma Rainha de França
+> **Uma Rainha da França
 > [Havre](./maps/havre.html) 🇫🇷
 > 1863**
 
@@ -2124,7 +2124,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Deveis, àqueles de quem falo, o socorro das vossas preces: é a verdadeira caridade. Não vos cabe dizer de um criminoso: “É um miserável; deve-se expurgar da sua presença a Terra; muito branda é, para um ser de tal espécie, a morte que lhe infligem.” Não, não é assim que vos compete falar. Observai o vosso modelo: Jesus. Que diria Ele, se visse junto de si um desses desgraçados? Lamentá-lo-ia; considerá-lo-ia um doente bem digno de piedade; estender-lhe-ia a mão. Em realidade, não podeis fazer o mesmo; mas, pelo menos, podeis orar por ele, assistir-lhe o Espírito durante o tempo que ainda haja de passar na Terra. Pode ele ser tocado de arrependimento, se orardes com fé. É tanto vosso próximo, como o melhor dos homens; sua alma, transviada e revoltada, foi criada, como a vossa, para se aperfeiçoar; ajudai-o, pois, a sair do lameiro e orai por ele.
 >
-> **Isabel de França
+> **Isabel da França
 > [Havre](./maps/havre.html) 🇫🇷
 > 1862**
 
