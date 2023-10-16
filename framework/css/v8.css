@@ -41,6 +41,14 @@
     line-height: 1.7
 }
 
+#jekyll-toc>li::before {
+    content: "Parte "
+}
+
+#jekyll-toc>li>ul>li::before {
+    content: "Cap. "
+}
+
 #content {
     font-family: 'Roboto Slab'
 }
