@@ -223,6 +223,7 @@ p.h3 {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     background-color: floralwhite;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .center-button {
@@ -232,9 +233,9 @@ p.h3 {
     margin-right: auto;
     text-align: center;
     border: 1px solid gainsboro;
-    background-color: #4ec1f5;
     padding: 12px 18px;
     border-radius: 5px;
+    text-decoration: none;
 }
 
 @media only screen and (max-width:782px) {
