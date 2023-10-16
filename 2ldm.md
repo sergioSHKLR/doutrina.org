@@ -1,3 +1,8 @@
+---
+title: LDM
+layout: default
+---
+
 <style>
 #col1 {background-color: #DBCCE6;}
 #col2-body {background-color: #EDE6F3;}

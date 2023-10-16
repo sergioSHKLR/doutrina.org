@@ -1,3 +1,8 @@
+---
+title: GEN
+layout: default
+---
+
 <style>
 #col1 {background-color: #CCE0CC;}
 #col2-body {background-color: #E6F0E6;}

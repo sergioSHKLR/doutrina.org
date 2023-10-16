@@ -1,3 +1,8 @@
+---
+title: CEU
+layout: default
+---
+
 <style>
 #col1 {background-color: #E8DAD0;}
 #col2-body {background-color: #F3ECE7;}

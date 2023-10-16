@@ -1,3 +1,8 @@
+---
+title: LDE
+layout: default
+---
+
 <style>
 #col1 {background-color: #D9E1F9;}
 #col2-body {background-color: #ECF0FC;}

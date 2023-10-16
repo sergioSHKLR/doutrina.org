@@ -1,3 +1,8 @@
+---
+title: ESE
+layout: default
+---
+
 <style>
 #col1 {background-color: #CCE6E6;}
 #col2-body {background-color: #E6F2F2;}
