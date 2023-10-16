@@ -1,6 +1,6 @@
 <style>
-#col1 {background-color: #E6CCE6;}
-#col2-body {background-color: #F2E6F2;}
+#col1 {background-color: #DBCCE6;}
+#col2-body {background-color: #EDE6F3;}
 </style>
 
 # ✒️ O Livro dos Médiuns
