@@ -164,7 +164,7 @@ strong {
 }
 
 .h3 {
-    border-bottom: 1px solid #dcdcdc;
+    border-bottom: 1px solid #333;
     font-size: 16px;
     font-weight: 700
 }
@@ -230,11 +230,6 @@ iframe {
     text-decoration-thickness: 2px;
     text-underline-offset: 2px;
     text-decoration-color: #4169e1
-}
-
-hr {
-    border-top: none;
-    border-bottom: 1px solid #333;
 }
 
 .cursive {
