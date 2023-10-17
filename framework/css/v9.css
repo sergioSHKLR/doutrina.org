@@ -110,7 +110,8 @@ button:hover {
 }
 
 * {
-    box-sizing: border-box
+    box-sizing: border-box;
+    overscroll-behavior-block:contain;
 }
 
 .body {
