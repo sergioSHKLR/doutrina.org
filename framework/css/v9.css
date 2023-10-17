@@ -216,15 +216,14 @@ p.h3 {
 .hero {
     text-align: center;
     font-family: 'Homemade Apple', cursive;
-    font-size: 30px;
+    font-size: 24px;
     word-spacing: 5px;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    color: #555;
     background-color: floralwhite;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    padding: 20px;
+    padding: 40px;
+    margin: 40px;
+    transform: rotate(1deg);
 }
 
 .center-button {
@@ -241,8 +240,8 @@ p.h3 {
 }
 
 .center-button:hover {
-background-color: #4ec1f5;
-color: #000;
+    background-color: #4ec1f5;
+    color: #000;
 }
 
 @media only screen and (max-width:782px) {
@@ -294,5 +293,20 @@ color: #000;
     #button-one,
     #col4 {
         display: none
+    }
+}
+
+@media (orientation: landscape) {
+    .hero {
+        max-width: 600px;
+        max-height: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (orientation: portrait) {
+    .hero {
+        width: 80vw;
     }
 }
