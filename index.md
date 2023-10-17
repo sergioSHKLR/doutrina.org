@@ -14,4 +14,3 @@ layout: hero
 ><br>
 >[entrar](./home.html){:class="center-button"}
 {:class="hero"}
-
