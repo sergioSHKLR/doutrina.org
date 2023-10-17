@@ -12,5 +12,6 @@ layout: hero
 > São Luiz e &nbsp;Santo Agostinho
 ><br>
 ><br>
->[entrar](./home.html){:class="center-button"}
 {:class="hero"}
+
+[entrar](./home.html){:class="center-button"}
