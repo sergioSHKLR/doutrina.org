@@ -3,6 +3,9 @@ title: 🔥 O Céu e o Inferno
 layout: default
 ---
 
+<head>
+  <meta name="theme-color" content="chocolate">
+
 <style>
 #col1 {background-color: #E8DAD0;}
 #col2-body {background-color: #F3ECE7;}
@@ -14,6 +17,7 @@ h4:before {content: "📑 "}
 h5:before {content: "📄 "}
 h6:before {content: "#️⃣ "}
 </style>
+</head>
 
 # 🔥 O Céu e o Inferno
 

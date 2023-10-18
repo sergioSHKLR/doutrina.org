@@ -3,6 +3,9 @@ title: ✒️ O Livro dos Médiuns
 layout: default
 ---
 
+<head>
+  <meta name="theme-color" content="purple">
+
 <style>
 #col1 {background-color: #DBCCE6;}
 #col2-body {background-color: #EDE6F3;}
@@ -14,6 +17,7 @@ h4:before {content: "📑 "}
 h5:before {content: "📄 "}
 h6:before {content: "#️⃣ "}
 </style>
+</head>
 
 # ✒️ O Livro dos Médiuns
 

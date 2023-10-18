@@ -4,8 +4,7 @@ layout: default
 ---
 <head>
   <link rel="stylesheet" href="../framework/css/blockquote1.css">
-
-
+  <meta name="theme-color" content="mediumblue">
 <style>
 #col1 {background-color: #D9E1F9;}
 #col2-body {background-color: #ECF0FC;}

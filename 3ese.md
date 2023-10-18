@@ -5,6 +5,8 @@ layout: default
 
 <head>
   <link rel="stylesheet" href="../framework/css/blockquote1.css">
+    <meta name="theme-color" content="teal">
+
 <style>
 #col1 {background-color: #CCE6E6;}
 #col2-body {background-color: #E6F2F2;}

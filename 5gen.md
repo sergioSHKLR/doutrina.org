@@ -3,7 +3,11 @@ title: 🌱 A Gênese
 layout: default
 ---
 
+<head>
+  <meta name="theme-color" content="darkgreen">
+
 <style>
+table, th, tr, td {border: 1px solid gainsboro; border-collapse: collapse; padding: 10px;}
 #col1 {background-color: #CCE0CC;}
 #col2-body {background-color: #E6F0E6;}
 #maps-button {display: none;}
@@ -14,6 +18,7 @@ h4:before {content: "📑 "}
 h5:before {content: "📄 "}
 h6:before {content: "#️⃣ "}
 </style>
+</head>
 
 # 🌱 A Gênese
 
@@ -1890,297 +1895,1003 @@ Galgado o ponto em que nos achamos com relação à Gênese, o materialismo se d
 
 ##### 11 - Gênese espiritual
 
-######  GEN-1-11-p1
+######  01
 
-######  GEN-1-11-p2
+A existência do princípio espiritual é um fato que, por assim dizer, não precisa de demonstração, do mesmo modo que o da existência do princípio material. É, de certa forma, uma verdade axiomática. Ele se afirma pelos seus efeitos, como a matéria pelos que lhe são próprios.
 
-######  GEN-1-11-p3
+De acordo com este princípio: “Todo efeito tendo uma causa, todo efeito inteligente há de ter uma causa inteligente”, ninguém há que não faça distinção entre o movimento mecânico de um sino que o vento agite e o movimento desse mesmo sino para dar um sinal, um aviso, atestando, só por isso, que obedece a um pensamento, a uma intenção. Ora, não podendo acudir a ninguém a ideia de atribuir pensamento à matéria do sino, tem-se de concluir que o move uma inteligência à qual ele serve de instrumento para que ela se manifeste.
 
-######  GEN-1-11-p4
+Pela mesma razão, ninguém terá a ideia de atribuir pensamento ao corpo de um homem morto. Se, pois, vivo, o homem pensa, é que há nele alguma coisa que não há quando está morto. A diferença que existe entre ele e o sino é que a inteligência, que faz com que este se mova, está fora dele, ao passo que está no homem a que faz que este obre.
 
-######  GEN-1-11-p5
+######  02
 
-######  GEN-1-11-p6
+O princípio espiritual é corolário da existência de Deus; sem esse princípio, Deus não teria razão de ser, visto que não se poderia conceber a soberana inteligência a reinar, pela eternidade afora, unicamente sobre a matéria bruta, como não se poderia conceber que um monarca terreno, durante toda a sua vida, reinasse exclusivamente sobre pedras. Não se podendo admitir Deus sem os atributos essenciais da Divindade: a justiça e a bondade, inúteis seriam essas qualidades, se Ele as houvesse de exercitar somente sobre a matéria.
 
-######  GEN-1-11-p7
+######  03
 
-######  GEN-1-11-p8
+Por outro lado, não se poderia conceber um Deus soberanamente justo e bom, a criar seres inteligentes e sensíveis, para lançá-los ao nada, após alguns dias de sofrimento sem compensações, a recrear-se na contemplação dessa sucessão indefinita de seres que nascem, sem que o hajam pedido, pensam por um instante, apenas para conhecerem a dor, e se extinguem para sempre, ao cabo de efêmera existência.
 
-######  GEN-1-11-p9
+Sem a sobrevivência do ser pensante, os sofrimentos da vida seriam, da parte de Deus, uma crueldade sem objetivo. Eis por que o materialismo e o ateísmo são corolários um do outro; negando o efeito, não podem eles admitir a causa. O materialismo é, pois, consequente consigo mesmo, embora não o seja com a razão.
 
-######  GEN-1-11-p10
+######  04
 
-######  GEN-1-11-p11
+É inata no homem a ideia da perpetuidade do ser espiritual; essa ideia se acha nele em estado de intuição e de aspiração. O homem compreende que somente aí está a compensação às misérias da vida. Essa a razão por que sempre houve e haverá cada vez mais espiritualistas do que materialistas e mais devotos do que ateus.
 
-######  GEN-1-11-p12
+À ideia intuitiva e à força do raciocínio o Espiritismo junta a sanção dos fatos, a prova material da existência do ser espiritual, da sua sobrevivência, da sua imortalidade e da sua individualidade. Torna precisa e define o que aquela ideia tinha de vago e de abstrato. Mostra o ser inteligente a atuar fora da matéria, quer depois, quer durante a vida do corpo.
 
-######  GEN-1-11-p13
+######  05
 
-######  GEN-1-11-p14
+São a mesma coisa o princípio espiritual e o princípio vital?
 
-######  GEN-1-11-p15
+Partindo, como sempre, da observação dos fatos, diremos que, se o princípio vital fosse inseparável do princípio inteligente, haveria certa razão para que os confundíssemos. Mas, havendo, como há, seres que vivem e não pensam, quais as plantas; corpos humanos que ainda se revelam animados de vida orgânica quando já não há qualquer manifestação de pensamento; uma vez que no ser vivo se produzem movimentos vitais independentes de qualquer intervenção da vontade; que durante o sono a vida orgânica se conserva em plena atividade, enquanto a vida intelectual por nenhum sinal exterior se manifesta, é cabível se admita que a vida orgânica reside num princípio inerente à matéria, independente da vida espiritual, que é inerente ao Espírito. Ora, desde que a matéria tem uma vitalidade independente do Espírito e que o Espírito tem uma vitalidade independente da matéria, evidente se torna que essa dupla vitalidade repousa em dois princípios diferentes. (Cap. X, itens 16 a 19.)
 
-######  GEN-1-11-p16
+######  06
 
-######  GEN-1-11-p17
+Terá o princípio espiritual sua fonte de origem no elemento cósmico universal? Será ele apenas uma transformação, um modo de existência desse elemento, como a luz, a eletricidade, o calor etc.?
 
-######  GEN-1-11-p18
+Se fosse assim, o princípio espiritual sofreria as vicissitudes da matéria; extinguir-se-ia pela desagregação, como o princípio vital; momentânea seria, como a do corpo, a existência do ser inteligente que, então, ao morrer, volveria ao nada, ou, o que daria na mesma, ao todo universal. Seria, numa palavra, a sanção das doutrinas materialistas.
 
-######  GEN-1-11-p19
+As propriedades sui generis (peculiares) que se reconhecem ao princípio espiritual provam que ele tem existência própria, pois que, se sua origem estivesse na matéria, aquelas propriedades lhe faltariam. Desde que a inteligência e o pensamento não podem ser atributos da matéria, chega-se, remontando dos efeitos à causa, à conclusão de que o elemento material e o elemento espiritual são os dois princípios constitutivos do universo. Individualizado, o elemento espiritual constitui os seres chamados Espíritos, como, individualizado, o elemento material constitui os diferentes corpos da natureza, orgânicos e inorgânicos.
 
-######  GEN-1-11-p20
+######  07
 
-######  GEN-1-11-p21
+Admitido o ser espiritual e não podendo ele proceder da matéria, qual a sua origem, seu ponto de partida?
 
-######  GEN-1-11-p22
+Aqui, falecem absolutamente os meios de investigação, como para tudo o que diz respeito à origem das coisas. O homem apenas pode comprovar o que existe; acerca de tudo o mais, apenas lhe é dado formular hipóteses e, quer porque esse conhecimento esteja fora do alcance da sua inteligência atual, quer porque lhe seja inútil ou prejudicial presentemente, Deus não lho outorga, nem mesmo pela revelação.
 
-######  GEN-1-11-p23
+O que Deus permite que seus mensageiros lhe digam e o que, aliás, o próprio homem pode deduzir do princípio da soberana justiça, atributo essencial da Divindade, é que todos procedem do mesmo ponto de partida; que todos são criados simples e ignorantes, com igual aptidão para progredir pelas suas atividades individuais; que todos atingirão o grau máximo da perfeição com seus esforços pessoais; que todos, sendo filhos do mesmo Pai, são objeto de igual solicitude; que nenhum há mais favorecido ou melhor dotado do que os outros, nem dispensado do trabalho imposto aos demais para atingirem a meta.
 
-######  GEN-1-11-p24
+######  08
 
-######  GEN-1-11-p25
+Ao mesmo tempo que criou, desde toda a eternidade, mundos materiais, Deus há criado, desde toda a eternidade, seres espirituais. Se assim não fora, os mundos materiais careceriam de finalidade. Mais fácil seria conceberem-se os seres espirituais sem os mundos materiais, do que estes últimos sem aqueles. Os mundos materiais é que teriam de fornecer aos seres espirituais elementos de atividade para o desenvolvimento de suas inteligências.
 
-######  GEN-1-11-p26
+######  09
 
-######  GEN-1-11-p27
+Progredir é condição normal dos seres espirituais e a perfeição relativa o fim que lhes cumpre alcançar. Ora, havendo Deus criado desde toda a eternidade, e criando incessantemente, também desde toda a eternidade tem havido seres que atingiram o ponto culminante da escala.
 
-######  GEN-1-11-p28
+Antes que existisse a Terra, mundos sem conta haviam sucedido a mundos e, quando a Terra saiu do caos dos elementos, o espaço estava povoado de seres espirituais em todos os graus de adiantamento, desde os que surgiam para a vida até os que, desde toda a eternidade, haviam tomado lugar entre os puros Espíritos, vulgarmente chamados anjos.
 
-######  GEN-1-11-p29
+##### União do princípio espiritual à matéria
 
-######  GEN-1-11-p30
+######  10
 
-######  GEN-1-11-p31
+Tendo a matéria que ser objeto do trabalho do Espírito para desenvolvimento de suas faculdades, era necessário que ele pudesse atuar sobre ela, pelo que veio habitá-la, como o lenhador habita a floresta. Tendo a matéria que ser, no mesmo tempo, objeto e instrumento do trabalho, Deus, em vez de unir o Espírito à pedra rígida, criou, para seu uso, corpos organizados, flexíveis, capazes de receber todas as impulsões da sua vontade e de se prestarem a todos os seus movimentos.
 
-######  GEN-1-11-p32
+O corpo é, pois, simultaneamente, o envoltório e o instrumento do Espírito e, à medida que este adquire novas aptidões, reveste outro invólucro apropriado ao novo gênero de trabalho que lhe cabe executar, tal qual se faz com o operário, a quem é dado instrumento menos grosseiro, à proporção que ele se vai mostrando apto a executar obra mais bem cuidada
 
-######  GEN-1-11-p33
+######  11
 
-######  GEN-1-11-p34
+Para ser mais exato, é preciso dizer que é o próprio Espírito que modela o seu envoltório e o apropria às suas novas necessidades; aperfeiçoa-o e lhe desenvolve e completa o organismo, à medida que experimenta a necessidade de manifestar novas faculdades; numa palavra, talha-o de acordo com a sua inteligência. Deus fornece ao Espírito os materiais; cabe a ele empregá-los. É assim que as raças adiantadas têm um organismo ou, se quiserem, um aparelhamento cerebral mais aperfeiçoado do que as raças primitivas. Desse modo igualmente se explica o cunho especial que o caráter do Espírito imprime aos traços da fisionomia e às linhas do corpo. (Cap. VIII, item 7: Alma da Terra.) [^115]
 
-######  GEN-1-11-p35
+[^115]: N.E.: Ver Nota Explicativa.
 
-######  GEN-1-11-p36
+######  12
 
-######  GEN-1-11-p37
+Desde que um Espírito nasce para a vida espiritual, tem, por adiantar-se, que fazer uso de suas faculdades, rudimentares a princípio. Por isso é que reveste um envoltório adequado ao seu estado de infância intelectual, envoltório que ele abandona para tomar outro, à proporção que se lhe aumentam as forças. Ora, como em todos os tempos houve mundos e esses mundos deram nascimento a corpos organizados próprios a receber Espíritos, em todos os tempos os Espíritos, qualquer que fosse o grau de adiantamento que houvessem alcançado, encontraram os elementos necessários à sua vida carnal.
 
-######  GEN-1-11-p38
+######  13
 
-######  GEN-1-11-p39
+Por ser exclusivamente material, o corpo sofre as vicissitudes da matéria. Depois de funcionar por algum tempo, ele se desorganiza e decompõe. O princípio vital, não mais encontrando elemento para sua atividade, se extingue e o corpo morre. O Espírito, para quem, este, carente de vida, se torna inútil, deixa-o, como se deixa uma casa em ruínas, ou uma roupa imprestável
 
-######  GEN-1-11-p40
+######  14
 
-######  GEN-1-11-p41
+O corpo, conseguintemente, não passa de um envoltório destinado a receber o Espírito. Desde então, pouco importam a sua origem e os materiais que entraram na sua construção. Seja ou não o corpo do homem uma criação especial, o que não padece dúvida é que tem a formá-lo os mesmos elementos que o dos animais, a animá-lo o mesmo princípio vital, ou, por outra, a aquecê-lo o mesmo fogo, como tem a iluminá-lo a mesma luz e se acha sujeito às mesmas vicissitudes e às mesmas necessidades. É um ponto este que não sofre contestação.
 
-######  GEN-1-11-p42
+A não se considerar, pois, senão a matéria, abstraindo do Espírito, o homem nada tem que o distinga do animal. Tudo, porém, muda de aspecto, logo que se estabelece distinção entre a habitação e o habitante.
 
-######  GEN-1-11-p43
+Ou numa choupana, ou envergando as vestes de um campônio, um nobre senhor não deixa de o ser. O mesmo se dá com o homem: não é a sua vestidura de carne que o coloca acima do bruto e faz dele um ser à parte; é o seu ser espiritual, seu Espírito.
 
-######  GEN-1-11-p44
+##### Hipótese sobre a origem do corpo humano
 
-######  GEN-1-11-p45
+######  15
 
-######  GEN-1-11-p46
+Da semelhança, que há, de formas exteriores entre o corpo do homem e o do macaco, concluíram alguns fisiologistas que o primeiro é apenas uma transformação do segundo. Nada aí há de impossível, nem o que, se assim for, afete a dignidade do homem. Bem pode dar-se que corpos de macaco tenham servido de vestidura aos primeiros Espíritos humanos, forçosamente pouco adiantados, que viessem encarnar na ­Terra, sendo essa vestidura mais apropriada às suas necessidades e mais adequadas ao exercício de suas faculdades, do que o corpo de qualquer outro animal. Em vez de se fazer para o Espírito um invólucro especial, ele teria achado um já pronto. Vestiu-se então da pele do macaco, sem deixar de ser Espírito humano, como o homem não raro se reveste da pele de certos animais, sem deixar de ser homem.
 
-######  GEN-1-11-p47
+Fique bem entendido que aqui unicamente se trata de uma hipótese, de modo algum posta como princípio, mas apresentada apenas para mostrar que a origem do corpo em nada prejudica o Espírito, que é o ser principal, e que a semelhança do corpo do homem com o do macaco não implica paridade entre o seu Espírito e o do macaco.
 
-######  GEN-1-11-p48
+######  16
 
-######  GEN-1-11-p49
+Admitida essa hipótese, pode dizer-se que, sob a influência e por efeito da atividade intelectual do seu novo habitante, o envoltório se modificou, embelezou-se nas particularidades, conservando a forma geral do conjunto (item 11). Melhorados, os corpos, pela procriação, se reproduziram nas mesmas condições, como sucede com as árvores de enxerto. Deram origem a uma espécie nova, que pouco a pouco se afastou do tipo primitivo, à proporção que o Espírito progrediu. O Espírito macaco, que não foi aniquilado, continuou a procriar, para seu uso, corpos de macaco, do mesmo modo que o fruto da árvore silvestre reproduz árvores dessa espécie, e o Espírito humano procriou corpos de homem, variantes do primeiro molde em que ele se meteu. O tronco se bifurcou: produziu um ramo, que por sua vez se tornou tronco.
+
+Como na natureza não há transições bruscas, é provável que os primeiros homens aparecidos na Terra pouco diferissem do macaco pela forma exterior e não muito também pela inteligência. Em nossos dias ainda há selvagens que, pelo comprimento dos braços e dos pés e pela conformação da cabeça, têm tanta parecença com o macaco, que só lhes falta ser peludos, para se tornar completa a semelhança.
+
+##### Encarnação dos Espíritos
+
+######  17
+
+O Espiritismo ensina de que maneira se opera a união do ­Espírito com o corpo, na encarnação.
+
+Pela sua essência espiritual, o Espírito é um ser indefinido, abstrato, que não pode ter ação direta sobre a matéria, sendo-lhe indispensável um intermediário, que é o envoltório fluídico, o qual, de certo modo, faz parte integrante dele. É semimaterial esse envoltório, isto é, pertence à matéria pela sua origem e à espiritualidade pela sua natureza etérea. Como toda matéria, ele é extraído do fluido cósmico universal que, nessa circunstância, sofre uma modificação especial. Esse envoltório, denominado perispírito, faz de um ser abstrato, do Espírito, um ser concreto, definido, apreensível pelo pensamento. Torna-o apto a atuar sobre a matéria tangível, conforme se dá com todos os fluidos imponderáveis, que são, como se sabe, os mais poderosos motores.
+
+O fluido perispirítico constitui, pois, o traço de união entre o Espírito e a matéria. Enquanto aquele se acha unido ao corpo, serve-lhe ele de veículo ao pensamento, para transmitir o movimento às diversas partes do organismo, as quais atuam sob a impulsão da sua vontade e para fazer que repercutam no Espírito as sensações que os agentes exteriores produzam. Servem-lhe de fios condutores os nervos como, no telégrafo, ao fluido elétrico serve de condutor o fio metálico.
+
+######  18
+
+Quando o Espírito tem de encarnar num corpo humano em vias de formação, um laço fluídico, que mais não é do que uma expansão Capítulo XI 190 do seu perispírito, o liga ao gérmen que o atrai por uma força irresistível, desde o momento da concepção. À medida que o gérmen se desenvolve, o laço se encurta. Sob a influência do princípio vital e material do gérmen, o perispírito, que possui certas propriedades da matéria, se une, molécula a molécula, ao corpo em formação, donde o poder dizer-se que o Espírito, por intermédio do seu perispírito, se enraíza, de certa maneira, nesse gérmen, como uma planta na terra. Quando o gérmen chega ao seu pleno desenvolvimento, completa é a união; nasce então o ser para a vida exterior.
+
+Por um efeito contrário, a união do perispírito e da matéria carnal, que se efetuara sob a influência do princípio vital do gérmen, cessa, desde que esse princípio deixa de atuar, em consequência da desorganização do corpo. Mantida que era por uma força atuante, tal união se desfaz, logo que essa força deixa de atuar. Então, o perispírito se desprende, molécula a molécula, conforme se unira, e ao Espírito é restituída a liberdade. Assim, não é a partida do Espírito que causa a morte do corpo; a morte é que determina a partida do Espírito.
+
+Dado que, um instante após a morte, completa é a integração do Espírito; que suas faculdades adquirem até maior poder de penetração, ao passo que o princípio de vida se acha extinto no corpo, provado evidentemente fica que são distintos o princípio vital e o princípio espiritual.
+
+######  19
+
+O Espiritismo, pelos fatos cuja observação ele faculta, dá a conhecer os fenômenos que acompanham essa separação, que, às vezes, é rápida, fácil, suave e insensível, ao passo que doutras é lenta, laboriosa, horrivelmente penosa, conforme o estado moral do Espírito, e pode durar meses inteiros.
+
+######  20
+
+Um fenômeno particular, que a observação igualmente assinala, acompanha sempre a encarnação do Espírito. Desde que este é apanhado no laço fluídico que o prende ao gérmen, entra em estado de perturbação, que aumenta, à medida que o laço se aperta, perdendo o Espírito, nos últimos momentos, toda a consciência de si próprio, de sorte que jamais presencia o seu nascimento. Quando a criança respira, começa o Espírito a recobrar as faculdades, que se desenvolvem à proporção que se formam e consolidam os órgãos que lhe hão de servir às manifestações.
+
+######  21
+
+Mas, ao mesmo tempo que o Espírito recobra a consciência de si mesmo, perde a lembrança do seu passado, sem perder as faculdades, as qualidades e as aptidões anteriormente adquiridas, que haviam ficado temporariamente em estado de latência e que, voltando à atividade, vão ajudá-lo a fazer mais e melhor do que antes. Ele renasce qual se fizera pelo seu trabalho anterior; o seu renascimento lhe é um novo ponto de partida, um novo degrau a subir. Ainda aí a bondade do Criador se manifesta, porquanto, adicionada aos amargores de uma nova existência, a lembrança, muitas vezes aflitiva e humilhante, do passado, poderia turbá-lo e lhe criar embaraços. Ele apenas se lembra do que aprendeu, por lhe ser isso útil. Se às vezes lhe é dado ter uma intuição dos acontecimentos passados, essa intuição é como a lembrança de um sonho fugitivo. Ei-lo, pois, novo homem por mais antigo que seja como Espírito. Adota novos processos, auxiliado pelas suas aquisições precedentes. Quando retorna à vida espiritual, seu passado se lhe desdobra diante dos olhos e ele julga de como empregou o tempo, se bem ou mal.
+
+######  22
+
+Não há, portanto, solução de continuidade na vida espiritual, sem embargo do esquecimento do passado. Cada Espírito é sempre o mesmo eu, antes, durante e depois da encarnação, sendo esta, apenas, uma fase da sua existência. O próprio esquecimento se dá tão só no curso da vida exterior de relação. Durante o sono, desprendido, em parte, dos liames carnais, restituído à liberdade e à vida espiritual, o Espírito se lembra, pois que, então, já não tem a visão tão obscurecida pela matéria.
+
+######  23
+
+Tomando-se a humanidade no grau mais ínfimo da escala espiritual, como se encontra entre os mais atrasados selvagens, perguntar-se-á se é aí o ponto inicial da alma humana.
+
+Na opinião de alguns filósofos espiritualistas, o princípio inteligente, distinto do princípio material, se individualiza e elabora, passando pelos diversos graus da animalidade. É aí que a alma se ensaia para a vida e desenvolve, pelo exercício, suas primeiras faculdades. Esse seria para ela, por assim dizer, o período de incubação. Chegada ao grau de desenvolvimento que esse estado comporta, ela recebe as faculdades especiais que constituem a alma humana. Haveria assim filiação espiritual do animal para o homem, como há filiação corporal.
+
+Este sistema, fundado na grande lei de unidade que preside à criação, corresponde, forçoso é convir, à justiça e à bondade do Criador; dá uma saída, uma finalidade, um destino aos animais, que deixam então de formar uma categoria de seres deserdados, para terem, no futuro que lhes está reservado, uma compensação a seus sofrimentos. O que constitui o homem espiritual não é a sua origem: são os atributos especiais de que ele se apresenta dotado ao entrar na humanidade, atributos que o transformam, tornando-o um ser distinto, como o fruto saboroso é distinto da raiz amarga que lhe deu origem. Por haver passado pela fieira da animalidade, o homem não deixaria de ser homem; já não seria animal, como o fruto não é a raiz, como o sábio não é o feto informe que o pôs no mundo.
+
+Mas este sistema levanta múltiplas questões, cujos prós e contras não é oportuno discutir aqui, como não o é o exame das diferentes hipóteses que se têm formulado sobre este assunto. Sem, pois, pesquisarmos a origem do Espírito, sem procurarmos conhecer as fieiras pelas quais haja ele, porventura, passado, tomamo-lo ao entrar na humanidade, no ponto em que, dotado de senso moral e de livre-arbítrio, começa a pesar-lhe a responsabilidade dos seus atos.
+
+######  24
+
+A obrigação que tem o Espírito encarnado de prover ao alimento do corpo, à sua segurança, ao seu bem-estar, o força a empregar suas faculdades em investigações, a exercitá-las e desenvolvê-las. Útil, portanto, ao seu adiantamento é a sua união com a matéria. Daí o constituir uma necessidade a encarnação. Além disso, pelo trabalho inteligente que ele executa em seu proveito, sobre a matéria, auxilia a transformação e o progresso material do globo que lhe serve de habitação. É assim que, progredindo, colabora na obra do Criador, da qual se torna fator inconsciente.
+
+######  25
+
+Todavia, a encarnação do Espírito não é constante, nem perpétua: é transitória. Deixando um corpo, ele não retoma imediatamente outro. Durante mais ou menos considerável lapso de tempo, vive da vida espiritual, que é sua vida normal, de tal sorte que insignificante vem a ser o tempo que lhe duram as encarnações, se comparado ao que passa no estado de Espírito livre.
+
+No intervalo de suas encarnações, o Espírito progride igualmente, no sentido de que aplica ao seu adiantamento os conhecimentos e a experiência que alcançou no decorrer da vida corporal; examina o que fez enquanto habitou a Terra, passa em revista o que aprendeu, reconhece suas faltas, traça planos e toma resoluções pelas quais conta guiar-se em nova existência, com a ideia de melhor se conduzir. Desse jeito, cada existência representa um passo para a frente no caminho do progresso, uma espécie de escola de aplicação.
+
+######  26
+
+Normalmente, a encarnação não é uma punição para o Espírito, conforme pensam alguns, mas uma condição inerente à inferioridade do Espírito e um meio de ele progredir. (O céu e o inferno, cap. III, itens 8 e seguintes.)
+
+À medida que progride moralmente, o Espírito se desmaterializa, isto é, depura-se, com o subtrair-se à influência da matéria; sua vida se espiritualiza, suas faculdades e percepções se ampliam; sua felicidade se torna proporcional ao progresso realizado. Entretanto, como atua em virtude do seu livre-arbítrio, pode ele, por negligência ou má vontade, retardar o seu avanço; prolonga, conseguintemente, a duração de suas encarnações materiais, que, então, se lhe tornam uma punição, pois que, por falta sua, ele permanece nas categorias inferiores, obrigado a recomeçar a mesma tarefa. Depende, pois, do Espírito abreviar, pelo trabalho de depuração executado sobre si mesmo, a extensão do período das encarnações.
+
+######  27
+
+O progresso material de um planeta acompanha o progresso moral de seus habitantes. Ora, sendo incessante, como é a criação dos mundos e dos Espíritos e progredindo estes mais ou menos rapidamente, conforme o uso que façam do livre-arbítrio, segue-se que há mundos mais ou menos antigos, em graus diversos de adiantamento físico e moral, onde é mais ou menos material a encarnação e onde, por conseguinte, o trabalho, para os Espíritos, é mais ou menos rude. Deste ponto de vista, a Terra é um dos menos adiantados. Povoada de Espíritos relativamente inferiores, a vida corpórea é aí mais penosa do que noutros orbes, havendo-os também mais atrasados, onde a existência é ainda mais penosa do que na Terra e em confronto com os quais esta seria, relativamente, um mundo ditoso.
+
+######  28
+
+Quando, em um mundo, os Espíritos hão realizado a soma de progresso que o estado desse mundo comporta, deixam-no para encarnar em outro mais adiantado, onde adquiram novos conhecimentos e assim por diante, até que, não lhes sendo mais de proveito algum a encarnação em corpos materiais, passam a viver exclusivamente da vida espiritual, na qual continuam a progredir, mas noutro sentido e por outros meios. Chegados ao ponto culminante do progresso, gozam da suprema felicidade. Admitidos nos conselhos do Onipotente, conhecem-lhe o pensamento e se tornam seus mensageiros, seus ministros diretos no governo dos mundos, tendo sob suas ordens os Espíritos de todos os graus de adiantamento.
+
+Assim, qualquer que seja o grau em que se achem na hierarquia espiritual, do mais ínfimo ao mais elevado, têm eles suas atribuições no grande mecanismo do universo; todos são úteis ao conjunto, ao mesmo tempo que a si próprios. Aos menos adiantados, como a simples serviçais, incumbe o desempenho, a princípio inconsciente, depois, cada vez mais inteligente, de tarefas materiais. Por toda parte, no mundo espiritual, atividade, em nenhum ponto a ociosidade inútil.
+
+A coletividade dos Espíritos constitui, de certo modo, a alma do universo. Por toda parte, o elemento espiritual é que atua em tudo, sob o influxo do pensamento divino. Sem esse elemento, só há matéria inerte, carente de finalidade, de inteligência, tendo por único motor as forças materiais, cuja exclusividade deixa insolúveis uma imensidade de problemas. Com a ação do elemento espiritual individualizado, tudo tem uma finalidade, uma razão de ser, tudo se explica. Prescindindo da espiritualidade, o homem esbarra em dificuldades insuperáveis.
+
+######  29
+
+Quando a Terra se encontrou em condições climáticas apropriadas à existência da espécie humana, encarnaram nela Espíritos humanos. Donde vinham? Quer eles tenham sido criados naquele momento; quer tenham procedido, completamente formados, do espaço, de outros mundos, ou da própria Terra, a presença deles nesta, a partir de certa época, é um fato, pois que antes deles só animais havia. Revestiram-se de corpos adequados às suas necessidades especiais, às suas aptidões, e que, fisiologicamente, tinham as características da animalidade. Sob a influência deles e por meio do exercício de suas faculdades, esses corpos se modificaram e aperfeiçoaram: é o que a observação comprova. Deixemos então de lado a questão da origem, insolúvel por enquanto; consideremos o Espírito, não em seu ponto de partida, mas no momento em que, manifestando-se nele os primeiros germens do livre-arbítrio e do senso moral o vemos a desempenhar o seu papel humanitário, sem cogitarmos do meio onde haja transcorrido o período de sua infância, ou, se o preferirem, de sua incubação. Malgrado a analogia do seu envoltório com o dos animais, poderemos diferençá-lo destes últimos pelas faculdades intelectuais e morais que o caracterizam, como, debaixo das mesmas vestes grosseiras, distinguimos o rústico do homem civilizado.
+
+######  30
+
+Conquanto devessem ser pouco adiantados os primeiros que vieram, pela razão mesma de terem de encarnar em corpos muito imperfeitos, diferenças sensíveis haveria decerto entre seus caracteres e aptidões. Os que se assemelhavam, naturalmente se agruparam por analogia e simpatia. Achou-se a Terra, assim, povoada de Espíritos de diversas categorias, mais ou menos aptos ou rebeldes ao progresso. Recebendo os corpos a impressão do caráter do Espírito e procriando-se esses corpos na conformidade dos respectivos tipos, resultaram daí diferentes raças, quer quanto ao físico, quer quanto ao moral (item 11). Continuando a encarnar entre os que se lhes assemelhavam, os Espíritos similares perpetuaram o caráter distintivo, físico e moral, das raças e dos povos, caráter que só com o tempo desaparece, mediante a fusão e o progresso deles. (Revista espírita, julho de 1860: Frenologia e Fisiognomonia.) [^116]
+
+[^116]: N.E.: Ver Nota Explicativa.
+
+######  31
+
+Podem comparar-se os Espíritos que vieram povoar a Terra a esses bandos de emigrantes de origens diversas, que vão estabelecer-se numa terra virgem, onde encontram madeira e pedra para erguerem habitações, cada um dando à sua um cunho especial, de acordo com o grau do seu saber e com o seu gênio particular. Grupam-se então por analogia de origens e de gostos, acabando os grupos por formar tribos, em seguida povos, cada qual com costumes e caracteres próprios.
+
+######  32
+
+Não foi, portanto, uniforme o progresso em toda a espécie humana. Como era natural, as raças mais inteligentes adiantaram-se às outras, mesmo sem se levar em conta que muitos Espíritos recém-nascidos para a vida espiritual, vindo encarnar na Terra com os primeiros aí chegados, tornaram ainda mais sensível a diferença em matéria de progresso. Fora, com efeito, impossível atribuir-se a mesma ancianidade de criação aos selvagens, que mal se distinguem do macaco, e aos chineses, nem, ainda menos, aos europeus civilizados. Entretanto, os Espíritos dos selvagens também fazem parte da humanidade e alcançarão um dia o nível em que se acham seus irmãos mais velhos. Mas sem dúvida, não será em corpos da mesma raça física, impróprios a um certo desenvolvimento intelectual e moral. Quando o instrumento já não estiver em correspondência com o progresso que hajam alcançado, eles emigrarão daquele meio, para encarnar noutro mais elevado e assim por diante, até que tenham conquistado todas as graduações terrestres, ponto em que deixarão a Terra, para passar a mundos mais avançados. (Revista espírita, abril de 1862: Perfectibilidade da Raça Negra.)
+
+##### Reencarnações
+
+######  33
+
+O princípio da reencarnação é uma consequência necessária da lei de progresso. Sem a reencarnação, como se explicaria a diferença que existe entre o presente estado social e o dos tempos de barbárie? Se as almas são criadas ao mesmo tempo que os corpos, as que nascem hoje são tão novas, tão primitivas, quanto as que viviam há mil anos; acrescentemos que nenhuma conexão haveria entre elas, nenhuma relação necessária; seriam de todo estranhas umas às outras. Por que, então, as de hoje haviam de ser melhor dotadas por Deus, do que as que as precederam? Por que têm aquelas melhor compreensão? Por que possuem instintos mais apurados, costumes mais brandos? Por que têm a intuição de certas coisas, sem as haverem aprendido? Duvidamos de que alguém saia desses dilemas, a menos admita que Deus cria almas de diversas qualidades, de acordo com os tempos e lugares, proposição inconciliável com a ideia de uma justiça soberana. (Cap. II, item 10.)
+
+Admiti, ao contrário, que as almas de agora já viveram em tempos distantes; que possivelmente foram bárbaras como os séculos em que estiveram no mundo, mas que progrediram; que para cada nova existência trazem o que adquiriram nas existências precedentes; que, por conseguinte, as dos tempos civilizados não são almas criadas mais perfeitas, porém que se aperfeiçoaram por si mesmas com o tempo, e tereis a única explicação plausível da causa do progresso social. (O livro dos espíritos, Parte 2a , caps. IV e V.)
+
+######  34
+
+Pensam alguns que as diferentes existências da alma se efetuam, passando elas de mundo em mundo e não num mesmo orbe, onde cada Espírito viria uma única vez.
+
+Seria admissível esta doutrina, se todos os habitantes da Terra estivessem no mesmo nível intelectual e moral. Eles então só poderiam progredir indo de um mundo a outro e nenhuma utilidade lhes adviria da encarnação na Terra. Desde que aí se notam a inteligência e a moralidade em todos os graus, desde a selvajaria que beira o animal até a mais adiantada civilização, é evidente que esse mundo constitui um vasto campo de progresso. Por que haveria o selvagem de ir procurar alhures o grau de progresso logo acima do em que ele está, quando esse grau se lhe acha ao lado e assim sucessivamente? Por que não teria podido o homem adiantado fazer os seus primeiros estágios senão em mundos inferiores, quando ao seu derredor estão seres análogos aos desses mundos? quando, não só de povo a povo, mas no seio do mesmo povo e da mesma família, há diferentes graus de adiantamento? Se fosse assim, Deus houvera feito coisa inútil, colocando lado a lado a ignorância e o saber, a barbaria e a civilização, o bem e o mal, quando precisamente esse contato é que faz que os retardatários avancem.
+
+Não há, pois, necessidade de que os homens mudem de mundo a cada etapa de aperfeiçoamento, como não há de que o estudante mude de colégio para passar de uma classe a outra. Longe de ser isso vantagem para o progresso, ser-lhe-ia um entrave, porquanto o Espírito ficaria privado do exemplo que lhe oferece a observação do que ocorre nos graus mais elevados e da possibilidade de reparar seus erros no mesmo meio e em presença dos a quem ofendeu, possibilidade que é, para ele, o mais poderoso modo de realizar o seu progresso moral. Após curta coabitação, dispersando-se os Espíritos e tornando-se estranhos uns aos outros, romper-se-iam os laços de família, à falta de tempo para se consolidarem.
+
+Ao inconveniente moral se juntaria um inconveniente material. A natureza dos elementos, as leis orgânicas, as condições de existência variam, de acordo com os mundos; sob esse aspecto, não há dois perfeitamente idênticos. Os tratados de Física, de Química, de Anatomia, de Medicina, de Botânica etc., para nada serviriam nos outros mundos; entretanto, não fica perdido o que neles se aprende; não só isso desenvolve a inteligência, como também as ideias que se colhem de tais obras auxiliam a aquisição de outras. (Cap. VI, itens 61 e seguintes.) Se apenas uma única vez fizesse o Espírito a sua aparição, frequentemente brevíssima, num mesmo mundo, em cada imigração ele se acharia em condições inteiramente diversas; operaria de cada vez sobre elementos novos, com força e segundo leis que desconheceria, antes de ter tido tempo de elaborar os elementos conhecidos, de os estudar, de os aplicar. Teria de fazer, de cada vez, um novo aprendizado e essas mudanças contínuas representariam um obstáculo ao progresso. O Espírito, portanto, tem que permanecer no mesmo mundo, até que haja adquirido a soma de conhecimentos e o grau de perfeição que esse mundo comporta. (Item 31.)
+
+Que os Espíritos deixem, por um mundo mais adiantado, aquele do qual nada mais podem auferir, é como deve ser e é. Tal o princípio. Se alguns há que antecipadamente deixam o mundo em que vinham encarnando, é isso devido a causas individuais que Deus pesa em sua sabedoria.
+
+Tudo na Criação tem uma finalidade, sem o que Deus não seria nem prudente, nem sábio. Ora, se a Terra se destinasse a ser uma única etapa do progresso para cada indivíduo, que utilidade haveria, para os Espíritos das crianças que morrem em tenra idade, vir passar aí alguns anos, alguns meses, algumas horas, durante os quais nada podem haurir dele? O mesmo ocorre se pondere com referência aos idiotas e aos cretinos. Uma teoria somente é boa sob a condição de resolver todas as questões a que diz respeito. A questão das mortes prematuras há sido uma pedra de tropeço para todas as doutrinas, exceto para a Doutrina Espírita, que a resolveu de maneira racional e completa.
+
+Para o progresso daqueles que cumprem na Terra uma missão normal, há vantagem real em volverem ao mesmo meio para aí continuarem o que deixaram inacabado, muitas vezes na mesma família ou em contato com as mesmas pessoas, a fim de repararem o mal que tenham feito, ou de sofrerem a pena de talião.
+
+##### Emigrações e imigrações dos Espíritos
+
+######  35
+
+No intervalo de suas existências corporais, os Espíritos se encontram no estado de erraticidade e formam a população espiritual ambiente da Terra. Pelas mortes e pelos nascimentos, as duas populações, terrestre e espiritual, deságuam incessantemente uma na outra. Há, pois, diariamente, emigrações do mundo corpóreo para o mundo espiritual e imigrações deste para aquele: é o estado normal.
+
+######  36
+
+Em certas épocas, determinadas pela sabedoria divina, essas emigrações e imigrações se operam por massas mais ou menos consideráveis, em virtude das grandes revoluções que lhes ocasionam a partida simultânea em quantidades enormes, logo substituídas por equivalentes quantidades de encarnações. Os flagelos destruidores e os cataclismos devem, portanto, considerar-se como ocasiões de chegadas e partidas coletivas, meios providenciais de renovamento da população corporal do globo, de ela se retemperar pela introdução de novos elementos espirituais mais depurados. Na destruição, que por essas catástrofes se verifica, de grande número de corpos, nada mais há do que rompimento de vestiduras; nenhum Espírito perece; eles apenas mudam de planos; em vez de partirem isoladamente, partem em bandos, essa a única diferença, visto que, ou por uma causa ou por outra, fatalmente têm que partir, cedo ou tarde.
+
+As renovações rápidas, quase instantâneas, que se produzem no elemento espiritual da população, por efeito dos flagelos destruidores, apressam o progresso social; sem as emigrações e imigrações que de tempos a tempos lhe vêm dar violento impulso, só com extrema lentidão esse progresso se realizaria.
+
+É de notar-se que todas as grandes calamidades que dizimam as populações são sempre seguidas de uma era de progresso de ordem física, intelectual, ou moral e, por conseguinte, no estado social das nações que as experimentam. É que elas têm por fim operar uma remodelação na população espiritual, que é a população normal e ativa do globo.
+
+######  37
+
+Essa transfusão, que se efetua entre a população encarnada e desencarnada de um planeta, igualmente se efetua entre os mundos, quer individualmente, nas condições normais, quer por massas, em circunstâncias especiais. Há, pois, emigrações e imigrações coletivas de um mundo para outro, donde resulta a introdução, na população de um deles, de elementos inteiramente novos. Novas raças de Espíritos, vindo misturar-se às existentes, constituem novas raças de homens. Ora, como os Espíritos nunca mais perdem o que adquiriram, consigo trazem eles sempre a inteligência e a intuição dos conhecimentos que possuem, o que faz que imprimam o caráter que lhes é peculiar à raça corpórea que venham animar. Para isso, só necessitam de que novos corpos sejam criados para serem por eles usados. Uma vez que a espécie corporal existe, eles encontram sempre corpos prontos para os receber. Não são mais, portanto, do que novos habitantes. chegando à Terra, integram-lhe, a princípio, a população espiritual; depois, encarnam, como os outros.
+
+##### Raça adâmica
+
+######  38
+
+De acordo com o ensino dos Espíritos, foi uma dessas grandes imigrações, ou, se quiserem, uma dessas colônias de Espíritos, vinda de outra esfera, que deu origem à raça simbolizada na pessoa de Adão e, por essa razão mesma, chamada raça adâmica. Quando ela aqui chegou, a Terra já estava povoada desde tempos imemoriais, como a América, quando aí chegaram os europeus.
+
+Mais adiantada do que as que a tinham precedido neste planeta, a raça adâmica é, com efeito, a mais inteligente, a que impele ao progresso todas as outras. A Gênese no-la mostra, desde os seus primórdios, industriosa, apta às artes e às ciências, sem haver passado aqui pela infância espiritual, o que não se dá com as raças primitivas, mas concorda com a opinião de que ela se compunha de Espíritos que já tinham progredido bastante. Tudo prova que a raça adâmica não é antiga na Terra e nada se opõe a que seja considerada como habitando este globo desde apenas alguns milhares de anos, o que não estaria em contradição nem com os fatos geológicos, nem com as observações antropológicas, antes tenderia a confirmá-las.
+
+######  39
+
+No estado atual dos conhecimentos, não é admissível a doutrina segundo a qual todo o gênero humano procede de uma individualidade única, de há seis mil anos somente a esta parte. Tomadas à ordem física e à ordem moral, as considerações que a contradizem se resumem no seguinte:
+
+Do ponto de vista fisiológico, algumas raças apresentam característicos tipos particulares, que não permitem se lhes assinale uma origem comum. Há diferenças que evidentemente não são simples efeito do clima, pois que os brancos que se reproduzem nos países dos negros não se tornam negros e reciprocamente. O ardor do Sol tosta e brune a epiderme, porém, nunca transformou um branco em negro, nem lhe achatou o nariz, ou mudou a forma dos traços da fisionomia, nem lhe tornou lanzudo e encarapinhado o cabelo comprido e sedoso. Sabe-se hoje que a cor do negro provém de um tecido especial subcutâneo,117 peculiar à espécie.
+
+Há, pois, de se considerar as raças negras, mongólicas, caucásicas como tendo origem própria, como tendo nascido simultânea ou sucessivamente em diversas partes do globo. O cruzamento delas produziu as raças mistas secundárias. Os caracteres fisiológicos das raças primitivas constituem indício evidente de que elas procedem de tipos especiais. As mesmas considerações se aplicam, conseguintemente, assim aos homens, quanto aos animais, no que concerne à pluralidade dos troncos. (Cap. X, itens 2 e seguintes.)
+
+######  40
+
+Adão e seus descendentes são apresentados na Gênese como homens sobremaneira inteligentes, pois que, desde a segunda geração, constroem cidades, cultivam a terra, trabalham os metais. São rápidos e duradouros seus progressos nas artes e nas ciências. Não se conceberia, portanto, que esse tronco tenha tido, como ramos, numerosos povos tão atrasados, de inteligência tão rudimentar, que ainda em nossos dias rastejam a animalidade, que hajam perdido todos os traços e, até, a menor lembrança do que faziam seus pais. Tão radical diferença nas aptidões intelectuais e no desenvolvimento moral atesta, com evidência não menor, uma diferença de origem.
+
+######  41
+
+Independentemente dos fatos geológicos, da população do globo se tira a prova da existência do homem na Terra, antes da época fixada pela Gênese. Sem falar da cronologia chinesa, que remonta, dizem, a trinta mil anos,118 documentos mais autênticos provam que o Egito, a Índia e outros países já eram povoados e floresciam, pelo menos, três mil anos antes da Era Cristã, mil anos, portanto, depois da criação do primeiro homem, segundo a cronologia bíblica. Documentos e observações recentes não consentem hoje dúvida alguma quanto às relações que existiram entre a América e os antigos egípcios, donde se tem de concluir que essa região já era povoada naquela época. Forçoso então seria admitir-se que, em mil anos, a posteridade de um único homem pôde povoar a maior parte da Terra. Ora, semelhante fecundidade estaria em antagonismo com todas as leis antropológicas. [^119]
+
+[^119]: Nota de Allan Kardec: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
+
+“Não é conveniente se publiquem, prematuramente, as descobertas feitas, do ponto de vista da história do homem, pela recente expedição científica do México.
+
+Entretanto, nada se opõe a que o público saiba, desde já, que a exploração assinalou a existência de grande número de cidades desaparecidas com o tempo, mas que a picareta e o incêndio podem retirar de suas mortalhas. As escavações puseram a descoberto, por toda parte, três camadas de civilizações, que dão ao mundo americano uma antiguidade fabulosa.”
+
+É assim que todos os dias a Ciência opõe o desmentido dos fatos à doutrina que limita a 6.000 anos a aparição do homem na Terra e pretende fazê-lo derivar de um tronco único.
+
+######  42
+
+Ainda mais evidente se torna a impossibilidade, desde que se admita, com a Gênese, que o dilúvio destruiu todo o gênero humano, com exceção de Noé e de sua família, que não era numerosa, no ano de 1656 do mundo, ou seja, 2.348 anos antes da Era Cristã. Em realidade, pois, daquele patriarca é que dataria o povoamento da Terra. Ora, quando os hebreus se estabeleceram no Egito, 612 anos após o dilúvio, já o Egito era um poderoso império, que teria sido povoado, sem falar de outros países, em menos de seis séculos, só pelos descendentes de Noé, o que não é admissível.
+
+Notemos, de passagem, que os egípcios acolheram os hebreus como estrangeiros. Seria de espantar que houvessem perdido a lembrança de uma tão próxima comunidade de origem, quando conservaram religiosamente os monumentos de sua história.
+
+Rigorosa lógica, com os fatos a corroborá-la da maneira mais peremptória, mostra, pois, que o homem está na Terra desde tempo indeterminado, muito anterior à época que a Gênese assinala. O mesmo ocorre com a diversidade dos troncos primitivos, porquanto demonstrar a impossibilidade de uma proposição é demonstrar a proposição contrária. Se a Geologia descobre traços autênticos da presença do homem antes do grande período diluviano, ainda mais completa é a demonstração.
+
+##### ##### Doutrina dos anjos decaídos e da perda do paraíso [^120]
+
+######  43
+
+Os mundos progridem, fisicamente, pela elaboração da matéria e, moralmente, pela purificação dos Espíritos que os habitam. A felicidade neles está na razão direta da predominância do bem sobre o mal e a predominância do bem resulta do adiantamento moral dos Espíritos. O progresso intelectual não basta, pois que com a inteligência podem eles fazer o mal.
+
+Logo que um mundo tem chegado a um de seus períodos de transformação, a fim de ascender na hierarquia dos mundos, operam-se mutações na sua população encarnada e desencarnada. É quando se dão as grandes emigrações e imigrações (itens 34 e 35). Os que, apesar da sua inteligência e do seu saber, perseveraram no mal, sempre revoltados contra Deus e suas leis, se tornariam daí em diante um embaraço ao ulterior progresso moral, uma causa permanente de perturbação para a tranquilidade e a felicidade dos bons, pelo que são excluídos da humanidade a que até então pertenceram e tangidos para mundos menos adiantados, onde aplicarão a inteligência e a intuição dos conhecimentos que adquiriram ao progresso daqueles entre os quais passam a viver, ao mesmo tempo que expiarão, por uma série de existências penosas e por meio de árduo trabalho, suas passadas faltas e seu voluntário endurecimento.
+
+Que serão tais seres, entre essas outras populações, para eles novas, ainda na infância da barbárie, senão anjos ou Espíritos decaídos, ali vindos em expiação? Não é, precisamente, para eles, um paraíso perdido a terra donde foram expulsos? Essa terra não lhes era um lugar de delícias, em comparação com o meio ingrato onde vão ficar relegados por milhares de séculos, até que hajam merecido libertar-se dele? A vaga lembrança intuitiva que guardam da terra donde vieram é uma como longínqua miragem a lhes recordar o que perderam por culpa própria.
+
+[^120]: Nota de Allan Kardec: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+
+######  44
+
+Ao mesmo tempo que os maus se afastam do mundo em que habitavam, Espíritos melhores aí os substituem, vindos quer da erraticidade, concernente a esse mundo, quer de um mundo menos adiantado, que mereceram abandonar; Espíritos esses para os quais a nova habitação é uma recompensa. Assim renovada e depurada a população espiritual dos seus piores elementos, ao cabo de algum tempo o estado moral do mundo se encontra melhorado.
+
+São às vezes parciais essas mutações, isto é, circunscritas a um povo, a uma raça; doutras vezes, são gerais, quando chega para o globo o período de renovação.
+
+######  45
+
+A raça adâmica apresenta todos os caracteres de uma raça proscrita. Os Espíritos que a integram foram exilados para a Terra, já povoada, mas de homens primitivos, imersos na ignorância, que aqueles tiveram por missão fazer progredir, levando-lhes as luzes de uma inteligência desenvolvida. Não é esse, com efeito, o papel que essa raça há desempenhado até hoje? Sua superioridade intelectual prova que o mundo donde vieram os Espíritos que a compõem era mais adiantado do que a Terra. Havendo entrado esse mundo numa nova fase de progresso e não tendo tais Espíritos querido, pela sua obstinação, colocar-se à altura desse progresso, lá estariam deslocados e constituiriam um obstáculo à marcha providencial das coisas. Foram, em consequência, desterrados de lá e substituídos por outros que isso mereceram.
+
+Relegando aquela raça para esta terra de labor e de sofrimentos, teve Deus razão para lhe dizer: “Dela tirarás o alimento com o suor da tua fronte.” Na sua mansuetude, prometeu-lhe que lhe enviaria um Salvador, isto é, um ser que a esclareceria sobre o caminho que lhe cumpria tomar, para sair desse lugar de miséria, desse inferno, e ganhar a felicidade dos eleitos. Esse Salvador, Ele lho enviou na pessoa do Cristo, que lhe ensinou a lei de amor e de caridade que ela, a raça, desconhecia e que seria a verdadeira âncora de salvação.
+
+É igualmente com o objetivo de fazer que a humanidade se adiante em determinado sentido que Espíritos superiores, embora não tenham as qualidades do Cristo, encarnam de tempos a tempos na Terra para desempenhar missões especiais, proveitosas, simultaneamente, ao adiantamento pessoal deles, se as cumprirem de acordo com os desígnios do Criador
+
+######  46
+
+Sem a reencarnação, a missão do Cristo seria um contrassenso, assim como a promessa feita por Deus. Suponhamos, com efeito, que a alma de cada homem seja criada por ocasião do nascimento do corpo e não faça mais do que aparecer e desaparecer da Terra: nenhuma relação haveria entre as que vieram desde Adão até Jesus Cristo, nem entre as que vieram depois; todas são estranhas umas às outras. A promessa que Deus fez de um Salvador não poderia entender-se com os descendentes de Adão, uma vez que suas almas ainda não estavam criadas. Para que a missão do Cristo pudesse corresponder às palavras de Deus, fora mister se aplicassem às mesmas almas. Se estas são novas, não podem estar maculadas pela falta do primeiro pai, que é apenas pai carnal e não pai espiritual. A não ser assim, Deus houvera criado almas com a mácula de uma falta que não podia deixar nelas vestígio, pois que elas não existiam. A doutrina vulgar do pecado original implica, conseguintemente, a necessidade de uma relação entre as almas do tempo do Cristo e as do tempo de Adão; implica, portanto, a reencarnação.
+
+Dizei que todas essas almas faziam parte da colônia de Espíritos exilados na Terra ao tempo de Adão e que se achavam manchadas dos vícios que lhes acarretaram ser excluídas de um mundo melhor e tereis a única interpretação racional do pecado original, pecado peculiar a cada indivíduo e não resultado da responsabilidade da falta de outrem a quem ele jamais conheceu. Dizei que essas almas ou Espíritos renascem diversas vezes na Terra para a vida corpórea, a fim de progredirem, depurando-se; que o Cristo veio esclarecer essas mesmas almas, não só acerca de suas vidas passadas, como também com relação às suas vidas ulteriores e então, mas só então, lhe dareis à missão um sentido real e sério, que a razão pode aceitar.
+
+######  47
+
+Um exemplo familiar, mas frisante pela analogia, ainda mais compreensíveis tornará os princípios que acabam de ser expostos.
+
+A 24 de maio de 1861, a fragata Ifigênia transportou à Nova ­Caledônia [^121] uma companhia disciplinar composta de 291 homens. À chegada, o comandante lhes baixou uma ordem do dia concebida assim: “Pondo os pés nesta terra longínqua, já sem dúvida compreendestes o papel que vos está reservado.
+
+A exemplo dos bravos soldados da nossa marinha, que servem sob as vossas vistas, ajudar-nos-eis a levar com brilho o facho da civilização ao seio das tribos selvagens da Nova Caledônia. Não é uma bela e nobre missão, pergunto? Desempenhá-la-eis dignamente.
+
+Escutai a palavra e os conselhos dos vossos chefes. Estou à frente deles. Entendei bem as minhas palavras.
+
+A escolha do vosso comandante, dos vossos oficiais, dos vossos suboficiais e cabos constitui garantia certa de que todos os esforços serão tentados para fazer-vos excelentes soldados, digo mais: para vos elevar à altura de bons cidadãos e vos transformar em colonos honrados, se o quiserdes.
+
+A nossa disciplina é severa e assim tem que ser. Colocada em nossas mãos, ela será firme e inflexível, ficai sabendo, do mesmo modo que, justa e paternal, saberá distinguir o erro do vício e da degradação...”
+
+Aí tendes um punhado de homens expulsos, pelo seu mau proceder, de um país civilizado e mandados, por punição, para o meio de um povo bárbaro. Que lhes diz o chefe? — “Infringistes as leis do vosso país; nele vos tornastes causa de perturbação e escândalo e fostes expulsos; mandam-vos para aqui, mas aqui podeis resgatar o vosso passado; podeis, pelo trabalho, criar-vos aqui uma posição honrosa e tornar-vos cidadãos honestos. Tendes uma bela missão a cumprir: levar a civilização a estas tribos selvagens. A disciplina será severa, mas justa, e saberemos distinguir os que procederem bem. Tendes nas mãos a vossa sorte; podeis melhorá-la, se o quiserdes, porque tendes o livre-arbítrio.”
+
+Para aqueles homens, lançados ao seio da selvajaria, a mãe-pátria não é um paraíso que eles perderam pelas suas próprias faltas e por se rebelarem contra a lei? Naquela terra distante, não são eles anjos decaídos? A linguagem do chefe não é idêntica à de que usou Deus falando aos Espíritos exilados na Terra: “Desobedecestes às minhas leis e, por isso, eu vos expulsei do mundo onde podíeis viver ditosos e em paz. Aqui, estareis condenados ao trabalho; mas, podereis, pelo vosso bom procedimento, merecer perdão e reganhar a pátria que perdestes por vossa falta, isto é, o Céu?”
+
+[^121]: N.E.: Território francês ultramarino.
+
+######  48
+
+À primeira vista, a ideia de decaimento parece em contradição com o princípio segundo o qual os Espíritos não podem retrogradar. Deve-se, porém, considerar que não se trata de um retrocesso ao estado primitivo. O Espírito, ainda que numa posição inferior, nada perde do que adquiriu; seu desenvolvimento moral e intelectual é o mesmo, qualquer que seja o meio onde se ache colocado. Ele está na situação do homem do mundo condenado à prisão por seus delitos. Certamente, esse homem se encontra degradado, decaído, do ponto de vista social, mas não se torna nem mais estúpido, nem mais ignorante.
+
+######  49
+
+Será crível, perguntamos agora, que esses homens mandados para a Nova Caledônia vão transformar-se de súbito em modelos de virtude? Que vão abjurar repentinamente seus erros do passado? Para supor tal coisa, fora necessário desconhecer a humanidade. Pela mesma razão, os Espíritos da raça adâmica, uma vez transplantados para a terra do exílio, não se despojaram instantaneamente do seu orgulho e de seus maus instintos; ainda por muito tempo conservaram as tendências que traziam, um resto da velha levedura. Ora, não é esse o pecado original?
 
 ### 1.12
 
-######  GEN-1-12-p1
+##### Os seis dias
 
-######  GEN-1-12-p2
+######  01
 
-######  GEN-1-12-p3
+> **GÊNESIS 1**
+>
+> **A criação do céu e da terra e de tudo o que neles se contém**
+>
+>No princípio, criou Deus os céus e a terra. E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.
+>
+>E disse Deus: Haja luz. E houve luz. E viu Deus que era boa a luz; e fez Deus separação entre a luz e as trevas. E Deus chamou à luz Dia; e às trevas chamou Noite. E foi a tarde e a manhã: o dia primeiro.
+>
+>E disse Deus: Haja uma expansão no meio das águas, e haja separação entre águas e águas. E fez Deus a expansão e fez separação entre as águas que estavam debaixo da expansão e as águas que estavam sobre a expansão. E assim foi. E chamou Deus à expansão Céus; e foi a tarde e a manhã: o dia segundo.
+>
+>E disse Deus: Ajuntem-se as águas debaixo dos céus num lugar; e apareça a porção seca. E assim foi. E chamou Deus à porção seca Terra; e ao ajuntamento das águas chamou Mares. E viu Deus que era bom. E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que dê fruto segundo a sua espécie, cuja semente esteja nela sobre a terra. E assim foi. E a terra produziu erva, erva dando semente conforme a sua espécie e árvore frutífera, cuja semente está nela conforme a sua espécie. E viu Deus que era bom. 13E foi a tarde e a manhã: o dia terceiro.
+>
+>E disse Deus: Haja luminares na expansão dos céus, para haver separação entre o dia e a noite; e sejam eles para sinais e para tempos determinados e para dias e anos. E sejam para luminares na expansão dos céus, para alumiar a terra. E assim foi. E fez Deus os dois grandes luminares: o luminar maior para governar o dia, e o luminar menor para governar a noite; e fez as estrelas. E Deus os pôs na expansão dos céus para alumiar a terra, e para governar o dia e a noite, e para fazer separação entre a luz e as trevas. E viu Deus que era bom. 19E foi a tarde e a manhã: o dia quarto.
+>
+>E disse Deus: Produzam as águas abundantemente répteis de alma vivente; e voem as aves sobre a face da expansão dos céus. E Deus criou as grandes baleias, e todo réptil de alma vivente que as águas abundantemente produziram conforme as suas espécies, e toda ave de asas conforme a sua espécie. E viu Deus que era bom. E Deus os abençoou, dizendo: Frutificai, e multiplicai-vos, e enchei as águas nos mares; e as aves se multipliquem na terra. E foi a tarde e a manhã: o dia quinto.
+>
+>**A criação dos seres viventes**
+>
+>E disse Deus: Produza a terra alma vivente conforme a sua espécie; gado, e répteis, e bestas-feras da terra conforme a sua espécie. E assim foi. E fez Deus as bestas-feras da terra conforme a sua espécie, e o gado conforme a sua espécie, e todo o réptil da terra conforme a sua espécie. E viu Deus que era bom.
+>
+>E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo réptil que se move sobre a terra. E criou Deus o homem à sua imagem; à imagem de Deus o criou; macho e fêmea os criou. E Deus os abençoou e Deus lhes disse: Frutificai, e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar, e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra. E disse Deus: Eis que vos tenho dado toda erva que dá semente e que está sobre a face de toda a terra e toda árvore em que há fruto de árvore que dá semente; ser-vos-ão para mantimento. E a todo animal da terra, e a toda ave dos céus, e a todo réptil da terra, em que há alma vivente, toda a erva verde lhes será para mantimento. E assim foi. E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã: o dia sexto.
+>
+>**GÊNESIS 2**
+>
+>Assim, os céus, e a terra, e todo o seu exército foram acabados. E, havendo Deus acabado no dia sétimo a sua obra, que tinha feito, descansou no sétimo dia de toda a sua obra, que tinha feito. E abençoou Deus o dia sétimo e o santificou; porque nele descansou de toda a sua obra, que Deus criara e fizera.
+>
+>**A formação do jardim do Éden**
+>
+>Estas são as origens dos céus e da terra, quando foram criados; no dia em que o Senhor Deus fez a terra e os céus. Toda planta do campo ainda não estava na terra, e toda erva do campo ainda não brotava; porque ainda o Senhor Deus não tinha feito chover sobre a terra, e não havia homem para lavrar a terra. Um vapor, porém, subia da terra e regava toda a face da terra. E formou o Senhor Deus o homem do pó da terra e soprou em seus narizes o fôlego da vida; e o homem foi feito alma vivente.
+>
+> Gênesis, cap. 01, vers. 01-31 e cap. 02, vers. 01-07, ARC
+{:.bible-multi}
 
-######  GEN-1-12-p4
+######  02
 
-######  GEN-1-12-p5
+Depois das explanações contidas nos capítulos precedentes sobre a origem e a constituição do universo, conformemente aos dados fornecidos pela Ciência, quanto à parte material, e pelo Espiritismo, quanto à parte espiritual, convém ponhamos em confronto com tudo isso o próprio texto da Gênese de Moisés, a fim de que cada um faça a comparação e julgue com conhecimento de causa. Algumas explicações complementares bastarão para tornar compreensíveis as partes que precisam de esclarecimentos especiais.
 
-######  GEN-1-12-p6
+######  03
 
-######  GEN-1-12-p7
+Sobre alguns pontos, há, sem dúvida, notável concordância entre a Gênese moisaica e a doutrina científica, mas fora erro acreditar que basta se substituam os seis dias de 24 horas da Criação por seis períodos indeterminados, para se tornar completa a analogia. Não menor erro seria o acreditar-se que, afora o sentido alegórico de algumas palavras, a Gênese e a Ciência caminham lado a lado, sendo uma, como se vê, simples paráfrase da outra.
 
-######  GEN-1-12-p8
+######  04
 
-######  GEN-1-12-p9
+Notemos, em primeiro lugar, que, como já se disse (cap. VII, item 14), é inteiramente arbitrário o número de seis períodos geológicos, pois que se eleva a mais de vinte e cinco o das formações bem caracterizadas, número que, ademais, apenas determina as grandes fases gerais. Ele só foi adotado, em começo, para encaixar as coisas, o mais possível, no texto bíblico, numa época, aliás, pouco distante, em que se entendia que a Ciência devia ser controlada pela Bíblia. Essa a razão por que os autores da maior parte das teorias cosmogônicas, tendo em vista facilitar-lhe a aceitação, se esforçaram por pôr-se de acordo com o texto sagrado. Logo que se apoiou no método experimental, a Ciência sentiu-se mais forte e se emancipou. Hoje, é ela que controla a Bíblia.
 
-######  GEN-1-12-p10
+Doutro lado, a Geologia, tomando por ponto de partida unicamente a formação dos terrenos graníticos, não abrange, no cômputo de seus períodos, o estado primitivo da Terra. Tampouco se ocupa com o Sol, com a Lua e com as estrelas, nem com o conjunto do universo, assuntos esses que pertencem à Astronomia. Para enquadrar tudo na ­Gênese, cumpre se acrescente um primeiro período, que abarque essa ordem de fenômenos e ao qual se poderia chamar — período astronômico.
 
-######  GEN-1-12-p11
+Além disso, nem todos os geólogos consideram o diluviano como formando um período distinto, mas como um fato transitório e passageiro, que não mudou sensivelmente o estado climático do globo, nem marcou uma fase nova para as espécies vegetais e animais, pois que, com poucas exceções, as mesmas espécies se encontram, assim antes, como depois do dilúvio. Pode-se, pois, abstrair desse período, sem menosprezo da verdade.
 
-######  GEN-1-12-p12
+######  05
 
-######  GEN-1-12-p13
+O quadro comparativo aqui abaixo, em o qual se acham resumidos os fenômenos que caracterizam cada um dos seis períodos, permite se considere o conjunto e se notem as relações e as diferenças que existem entre os referidos períodos e a gênese bíblica.
 
-######  GEN-1-12-p14
+| CIÊNCIA | GÊNESE |
+|---|---|
+| I\. PERÍODO ASTRONÔMICO – Aglomeração da matéria cósmica universal, num ponto do espaço, em nebulosa que deu origem, pela condensação da matéria em diversos pontos, às estrelas, ao Sol, à Terra, à Lua e a todos os planetas\. Estado primitivo, fluídico e incandescente da Terra\. – Atmosfera imensa, carregada de toda a água em vapor e de todas as matérias volatilizáveis\. | 1o DIA – O Céu e a Terra\. – A luz\. |
+| II\. PERÍODO PRIMÁRIO – Endurecimento da superfície da Terra, pelo resfriamento; formação das camadas graníticas\. – Atmosfera espessa e ardente, impenetrável aos raios solares\. – Precipitação gradual da água e das matérias sólidas volatilizadas no ar\. – Ausência completa de vida orgânica\. | 2o DIA – O firmamento\. – Separação das águas que estão acima do firmamento das que lhe estão debaixo\. |
+| III\. PERÍODO DE TRANSIÇÃO – As águas cobrem toda a superfície do globo\. – Primeiros depósitos de sedimentos formados pelas águas\. – Calor úmido\. – O Sol começa a atravessar a atmosfera brumosa\. – Primeiros seres organizados da mais rudimentar constituição\. – Liquens, musgos, fetos, licopódios, plantas herbáceas\. Vegetação colossal\. – Primeiros animais marinhos: zoófitos, polipeiros, crustáceos\. — Depósitos de hulha\. | 3o DIA – As águas que estão debaixo do firmamento se reúnem; aparece o elemento árido\. – A terra e os mares\. – As plantas\. |
+| IV\. PERÍODO SECUNDÁRIO – Superfície da Terra pouco acidentada; águas pouco profundas e paludosas\. Temperatura menos ardente; atmosfera mais depurada\. Consideráveis depósitos de calcários pelas águas\. – Vegetação menos colossal; novas espécies; plantas lenhosas; primeiras árvores\. – Peixes; cetáceos; animais aquáticos e anfíbios\.  | 4o DIA – O Sol, a Lua e as estrelas\. |
+| V\. PERÍODO TERCIÁRIO – Grandes intumescimentos da crosta sólida; formação dos continentes\. Retirada das águas para os lugares baixos; formação dos mares\. – Atmosfera depurada; temperatura atual produzida pelo calor solar\. – Gigantescos animais terrestres\. Vegetais e animais da atualidade\. Pássaros\. | 5o DIA – Os peixes e os pássaros\. |
+| DILÚVIO UNIVERSAL |  |
+| VI\. PERÍODO QUATERNÁRIO OU PÓS\-DILUVIANO – Terrenos de aluvião\. – Vegetais e animais da atualidade\. – O homem\. | 6o DIA – Os animais terrestres\. – O homem |
 
-######  GEN-1-12-p15
+######  06
 
-######  GEN-1-12-p16
+Desse quadro comparativo, o primeiro fato que ressalta é que a obra de cada um dos seis dias não corresponde de maneira rigorosa, como o supõem muitos, a cada um dos seis períodos geológicos. A concordância mais notável se verifica na sucessão dos seres orgânicos, que é quase a mesma, com pequena diferença, e no aparecimento do homem, por último. É esse um fato importante.
 
-######  GEN-1-12-p17
+Há também coincidência, não quanto à ordem numérica dos períodos, mas quanto ao fato em si, na passagem em que se lê que, ao terceiro dia, “as águas que estão debaixo do céu se reuniram num só lugar e apareceu o elemento árido”. É a expressão do que ocorreu no período terciário, quando as elevações da crosta sólida puseram a descoberto os continentes e repeliram as águas, que foram formar os mares. Foi somente então que apareceram os animais terrestres [^122], segundo a Geologia e segundo Moisés.
 
-######  GEN-1-12-p18
+[^122]: N.E.: Anfíbios e insetos foram os primeiros animais presentes no planeta, sugiram no Período Devoniano, da Era Paleozoica.
 
-######  GEN-1-12-p19
+######  07
 
-######  GEN-1-12-p20
+Dizendo que a Criação foi feita em seis dias, terá Moisés querido falar de dias de 24 horas, ou terá empregado essa palavra no sentido de período, de duração? É mais provável a primeira hipótese, se nos ativermos ao texto acima, primeiramente, porque esse é o sentido próprio da palavra hebraica iôm, traduzida por dia. Depois, a referência à tarde e à manhã, como limitações de cada um dos seis dias, dá lugar a que se suponha haja ele querido falar de dias comuns. Não se pode conceber qualquer dúvida a tal respeito, estando dito, no versículo 5: “Ele deu à luz o nome de dia e às trevas o nome de noite; e da tarde e da manhã se fez o primeiro dia.” Isto, evidentemente, só se pode aplicar ao dia de 24 horas, constituído de períodos de luz e de trevas. Ainda mais preciso se torna o sentido, quando ele diz, no versículo 17, falando do Sol, da Lua e das estrelas: “Colocou-as no firmamento do céu, para luzirem sobre a Terra; para presidirem ao dia e à noite e para separarem a luz das trevas. E da tarde e da manhã se fez o quarto dia.”
 
-######  GEN-1-12-p21
+Aliás, tudo, na Criação, era miraculoso e, desde que se envereda pela senda dos milagres, pode-se perfeitamente crer que a Terra foi feita em seis vezes 24 horas, sobretudo quando se ignoram as primeiras leis naturais. Todos os povos civilizados partilharam dessa crença, até o momento em que a Geologia surgiu a lhe demonstrar a impossibilidade.
 
-######  GEN-1-12-p22
+######  08
 
-######  GEN-1-12-p23
+Um dos pontos que mais criticados têm sido na gênese é o da criação do Sol depois da luz. Tentaram explicá-lo, com o auxílio mesmo dos dados fornecidos pela Geologia, dizendo que, nos primeiros tempos de sua formação, por se achar carregada de vapores densos e opacos, a atmosfera terrestre não permitia se visse o Sol que, assim, efetivamente não existia para a Terra. Semelhante explicação seria, porventura, admissível se, naquela época, já houvesse na Terra habitantes que verificassem a presença ou a ausência do Sol. Ora, segundo o próprio Moisés, então, somente plantas havia, as quais, contudo, não teriam podido crescer e multiplicar-se sem o calor solar.
 
-######  GEN-1-12-p24
+Há, pois, evidentemente, um anacronismo na ordem que Moisés estabeleceu para a criação do Sol; mas, involuntariamente ou não, ele não errou, dizendo que a luz precedeu o Sol.
 
-######  GEN-1-12-p25
+O Sol não é o princípio da luz universal; é uma concentração do elemento luminoso em um ponto, ou, por outra, do fluido que, em dadas circunstâncias, adquire as propriedades luminosas. Esse fluido, que é a causa, havia necessariamente de preceder ao Sol, que é apenas um efeito. O Sol é causa, relativamente à luz que dele se irradia; é efeito, com relação à que recebeu.
 
-######  GEN-1-12-p26
+Numa câmara escura, uma vela acesa é um pequeno sol. Que é que se fez para acender a vela? Desenvolveu-se a propriedade iluminante do fluido luminoso e concentrou-se num ponto esse fluido. A vela é a causa da luz que se difunde pela câmara; mas, se não existira o princípio luminoso antes da vela, esta não pudera ter sido acesa.
+
+O mesmo se dá com o Sol. O erro provém da ideia falsa, alimentada por longo tempo, de que o universo inteiro começou com a Terra. Daí o não compreenderem que o Sol pudesse ser criado depois da luz. Em princípio, pois, a asserção de Moisés é perfeitamente exata: é falsa no fazer crer que a Terra tenha sido criada antes do Sol. Estando, pelo seu movimento de translação, sujeita a esse último, a Terra houve de ser formada depois dele. É o que Moisés não podia saber, pois que ignorava a lei de gravitação. [^123] Com a mesma ideia se depara na Gênese dos antigos persas. No primeiro capítulo do Vendidad, [^124] Ormuzd [^125], narrando a origem do mundo, diz: “Eu criei a luz que foi iluminar o Sol, a Lua e as estrelas.” (Dicionário de mitologia universal) A forma, aqui, é sem dúvida mais clara e mais científica do que em Moisés e não reclama comentários.
+
+[^123]: N.E.: A lei da gravitação universal foi formulada pelo cientista inglês Isaac Newton (1642–1727), que concluiu: “Duas partículas se atraem com forças cuja intensidade é diretamente proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância que as separa.
+
+[^124]: N.E.: Um dos livros do Avesta, que são os textos sagrados do Zoroastrismo. Código de leis civis e religiosas.
+
+[^125]: 5N.E.: Aúra-Masda, Ormasde — deus supremo da Criação; princípio do bem, da harmonia, da beleza e da luz, na religião zoroastriana (antiga religião persa, fundada no século VII a.C. por Zoroastro, caracterizada pelo dualismo ético, cósmico e teogônico, que implica a luta primordial entre dois deuses, representantes do bem e do mal. O zoroastrismo influenciou em diversos aspectos doutrinários a tradição judaico-cristã).
+
+######  09
+
+Moisés, evidentemente, partilhava das mais primitivas crenças sobre a cosmogonia. Como os do seu tempo, ele acreditava na solidez da abóbada celeste e em reservatórios superiores para as águas. Essa ideia se acha expressa sem alegoria, nem ambiguidade, neste passo (versículos 6 e seguintes): “Deus disse: ‘Faça-se o firmamento no meio das águas para separar das águas as águas.’ Deus fez o firmamento e separou as águas que estavam debaixo do firmamento das que estavam por cima do firmamento.” (Veja-se: cap. V, Antigos e modernos sistemas do mundo, itens 3 a 5.)
+
+Segundo uma crença antiga, a água era tida como o princípio primitivo, o elemento gerador, pelo que Moisés não fala da criação das águas, parecendo que já elas existiam. “As trevas cobriam o abismo”, isto é, as profundezas do espaço, que a imaginação imprecisamente figurava ocupada pelas águas e em trevas, antes da criação da luz. Eis aí por que Moisés diz: “O Espírito de Deus era levado (ou boiava) sobre as águas.” Tida a Terra como formada no meio das águas, era preciso insulá-la. Imaginou-se então que Deus fizera o firmamento, uma abóbada sólida, para separar as águas de cima das que estavam sobre a Terra.
+
+A fim de compreendermos certas partes da Gênese, faz-se indispensável que nos coloquemos no ponto de vista das ideias cosmogônicas da época que ela reflete.
+
+######  10
+
+Em face dos progressos da Física e da Astronomia, é insustentável semelhante doutrina. [^126] Entretanto, Moisés atribui ao próprio Deus aquelas palavras. Ora, visto que elas exprimem um fato notoriamente falso, uma de duas: ou Deus se enganou na narrativa que fez da sua obra, ou essa narrativa não é de origem divina. Não sendo admissível a primeira hipótese, forçoso é concluir que Moisés apenas exprimiu suas próprias ideias. (Cap. I, item 3.)
+
+[^126]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+######  11
+
+Ele se houve com mais acerto, dizendo que Deus formou o homem do limo da Terra. [^127] A Ciência, com efeito, mostra (cap. X) que o corpo do homem se compõe de elementos tomados à matéria inorgânica, ou, por outra, ao limo da terra.
+
+A mulher formada de uma costela de Adão é uma alegoria, aparentemente pueril, se admitida ao pé da letra, mas profunda, quanto ao sentido. Tem por fim mostrar que a mulher é da mesma natureza que o homem, que é por conseguinte igual a este perante Deus e não uma criatura à parte, feita para ser escravizada e tratada qual hilota. Tendo-a como saída da própria carne do homem, a imagem da igualdade é bem mais expressiva, do que se ela fora tida como formada, separadamente, do mesmo limo. Equivale a dizer ao homem que ela é sua igual e não sua escrava, que ele a deve amar como parte de si mesmo.
+
+[^127]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+######  12
+
+Para espíritos incultos, sem nenhuma ideia das leis gerais, incapazes de apreender o conjunto e de conceber o infinito, essa criação milagrosa e instantânea apresentava qualquer coisa de fantástico que feria a imaginação. O quadro do universo tirado do nada em alguns dias, por um só ato da vontade criadora, era, para tais espíritos, o sinal mais evidente do poder de Deus. Que configuração, com efeito, mais sublime e mais poética desse poder, do que a que estas palavras traçam: “Deus disse: ‘Faça-se a luz e a luz foi feita!’” Deus, a criar o universo pela ação lenta e gradual das leis da natureza, lhes houvera parecido menor e menos poderoso. Fazia-se-lhes indispensável qualquer coisa de maravilhoso, que saísse dos moldes comuns, do contrário teriam dito que Deus não era mais hábil do que os homens. Uma teoria científica e racional da Criação os deixaria frios e indiferentes.
+
+Não rejeitemos, pois, a Gênese bíblica; ao contrário, estudemo-la, como se estuda a história da infância dos povos. Trata-se de uma época rica de alegorias, e seu sentido oculto se deve pesquisar; que se devem comentar e explicar com o auxílio das luzes da razão e da Ciência. Fazendo, porém, ressaltar as suas belezas poéticas e os seus ensinamentos velados pela forma imaginosa, cumpre se lhe apontem expressamente os erros, no próprio interesse da religião. Esta será muito mais respeitada, quando esses erros deixarem de ser impostos à fé, como verdade, e Deus parecerá maior e mais poderoso, quando não lhe envolverem o nome em fatos de pura invenção.
+
+##### Perda do paraíso [^128] [^129]
+
+[^128]: Nota de Allan Kardec: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
+
+######  13
+
+**GÊNESIS 2**
+
+E plantou o Senhor Deus um jardim no Éden, da banda do Oriente, e pôs ali o homem que tinha formado. E o Senhor Deus fez brotar da terra toda árvore agradável à vista e boa para comida, e a árvore da vida no meio do jardim, e a árvore da ciência do bem e do mal.
+
+E saía um rio do Éden para regar o jardim; e dali se dividia e se tornava em quatro braços. O nome do primeiro é Pisom; este é o que rodeia toda a terra de Havilá, onde há ouro. E o ouro dessa terra é bom; ali há o bdélio e a pedra sardônica. E o nome do segundo rio é Giom; este é o que rodeia toda a terra de Cuxe. E o nome do terceiro rio é  Hidéquel; este é o que vai para a banda do oriente da Assíria; e o quarto rio é o Eufrates.
+
+E tomou o Senhor Deus o homem e o pôs no jardim do Éden para o lavrar e o guardar. E ordenou o Senhor Deus ao homem, dizendo: De toda árvore do jardim comerás livremente, mas da árvore da ciência do bem e do mal, dela não comerás; porque, no dia em que dela comeres, certamente morrerás.
+
+######  14
+
+**GÊNESIS 3**
+
+**A tentação de Eva e a queda do homem**
+
+Ora, a serpente era mais astuta que todas as alimárias do campo que o Senhor Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda árvore do jardim? E disse a mulher à serpente: Do fruto das árvores do jardim comeremos, mas, do fruto da árvore que está no meio do jardim, disse Deus: Não comereis dele, nem nele tocareis, para que não morrais. Então, a serpente disse à mulher: Certamente não morrereis. Porque Deus sabe que, no dia em que dele comerdes, se abrirão os vossos olhos, e sereis como Deus, sabendo o bem e o mal. E, vendo a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento, tomou do seu fruto, e comeu, e deu também a seu marido, e ele comeu com ela. Então, foram abertos os olhos de ambos, e conheceram que estavam nus; e coseram folhas de figueira, e fizeram para si aventais.
+
+E ouviram a voz do Senhor Deus, que passeava no jardim pela viração do dia; e escondeu-se Adão e sua mulher da presença do Senhor Deus, entre as árvores do jardim. E chamou o Senhor Deus a Adão e disse-lhe: Onde estás? E ele disse: Ouvi a tua voz soar no jardim, e temi, porque estava nu, e escondi-me. E Deus disse: Quem te mostrou que estavas nu? Comeste tu da árvore de que te ordenei que não comesses? Então, disse Adão: A mulher que me deste por companheira, ela me deu da árvore, e comi. E disse o Senhor Deus à mulher: Por que fizeste isso? E disse a mulher: A serpente me enganou, e eu comi. Então, o Senhor Deus disse à serpente: Porquanto fizeste isso, maldita serás mais que toda besta e mais que todos os animais do campo; sobre o teu ventre andarás e pó comerás todos os dias da tua vida. E porei inimizade entre ti e a mulher e entre a tua semente e a sua semente; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar. E à mulher disse: Multiplicarei grandemente a tua dor e a tua conceição; com dor terás filhos; e o teu desejo será para o teu marido, e ele te dominará. E a Adão disse: Porquanto deste ouvidos à voz de tua mulher e comeste da árvore de que te ordenei, dizendo: Não comerás dela, maldita é a terra por causa de ti; com dor comerás dela todos os dias da tua vida. Espinhos e cardos também te produzirá; e comerás a erva do campo. No suor do teu rosto, comerás o teu pão, até que te tornes à terra; porque dela foste tomado, porquanto és pó e em pó te tornarás.
+
+E chamou Adão o nome de sua mulher Eva, porquanto ela era a mãe de todos os viventes. E fez o Senhor Deus a Adão e a sua mulher túnicas de peles e os vestiu.
+
+Então, disse o Senhor Deus: Eis que o homem é como um de nós, sabendo o bem e o mal; ora, pois, para que não estenda a sua mão, e tome também da árvore da vida, e coma, e viva eternamente, o Senhor Deus, pois, o lançou fora do jardim do Éden, para lavrar a terra, de que fora tomado. E, havendo lançado fora o homem, pôs querubins ao oriente do jardim do Éden e uma espada inflamada que andava ao redor, para guardar o caminho da árvore da vida.
+
+[^129]: Nota de Allan Kardec: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
+
+######  15
+
+Sob uma imagem pueril e às vezes ridícula, se nos ativermos à forma, a alegoria oculta frequentemente as maiores verdades. Haverá fábula mais absurda, à primeira vista, do que a de Saturno, o deus que devorava pedras, tomando-as por seus filhos? Todavia, que de mais profundamente filosófico e verdadeiro do que essa figura, se lhe procuramos o sentido moral! Saturno é a personificação do tempo; sendo todas as coisas obra do tempo, ele é o pai de tudo o que existe; mas, também, tudo se destrói com o tempo. Saturno a devorar pedras é o símbolo da destruição, pelo tempo, dos mais duros corpos, seus filhos, visto que se formaram com o tempo. E quem, segundo essa mesma alegoria, escapa a semelhante destruição? Somente Júpiter, símbolo da inteligência superior, do princípio espiritual, que é indestrutível. É mesmo tão natural essa imagem, que, na linguagem moderna, sem alusão à fábula antiga, se diz, de uma coisa que afinal se deteriorou, ter sido devorada pelo tempo, carcomida, devastada pelo tempo.
+
+Toda a mitologia pagã, aliás, nada mais é, em realidade, do que um vasto quadro alegórico das diversas faces, boas e más, da humanidade. Para quem lhe busca o espírito, é um curso completo da mais alta filosofia, como acontece com as modernas fábulas. O absurdo estava em tomarem a forma pelo fundo.
+
+######  16
+
+Outro tanto se dá com a Gênese, onde se tem que perceber grandes verdades morais debaixo das figuras materiais que, tomadas ao pé da letra, seriam tão absurdas como se, em nossas fábulas, tomássemos em sentido literal as cenas e os diálogos atribuídos aos animais.
+
+Adão personifica a humanidade; sua falta individualiza a fraqueza do homem, em quem predominam os instintos materiais a que ele não sabe resistir. [^131]
+
+A árvore, como árvore de vida, é o emblema da vida espiritual; como árvore da Ciência, é o da consciência, que o homem adquire, do bem e do mal, pelo desenvolvimento da sua inteligência e do livre-arbítrio, em virtude do qual ele escolhe entre um e outro. Assinala o ponto em que a alma do homem, deixando de ser guiada unicamente pelos instintos, toma posse da sua liberdade e incorre na responsabilidade dos seus atos.
+
+O fruto da árvore simboliza o objeto dos desejos materiais do homem; é a alegoria da cobiça e da concupiscência; concretiza, numa figura única, os motivos de arrastamento ao mal. O comer é sucumbir à tentação. A árvore se ergue no meio do jardim de delícias, para mostrar que a sedução está no seio mesmo dos prazeres e para lembrar que, se dá preponderância aos gozos materiais, o homem se prende à Terra e se afasta do seu destino espiritual. [^132]
+
+A morte de que ele é ameaçado, caso infrinja a proibição que se lhe faz, é um aviso das consequências inevitáveis, físicas e morais, decorrentes da violação das Leis divinas que Deus lhe gravou na consciência. É por demais evidente que aqui não se trata da morte corporal, pois que, depois de cometida a falta, Adão ainda viveu longo tempo, mas sim da morte espiritual, ou, por outras palavras, da perda dos bens que resultam do adiantamento moral, perda figurada pela sua expulsão do jardim de delícias.
+
+[^131]: Nota de Allan Kardec: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
+
+[^132]: Nota de Allan Kardec: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
+
+######  17
+
+A serpente está longe hoje de ser tida como tipo da astúcia. Ela, pois, entra aqui mais pela sua forma do que pelo seu caráter, como alusão à perfídia dos maus conselhos, que se insinuam como a serpente e da qual, por essa razão, o homem, muitas vezes, não desconfia. Ademais, se a serpente, por haver enganado a mulher, é que foi condenada a andar de rojo sobre o ventre, dever-se-á deduzir que antes esse animal tinha pernas; mas, neste caso, não era serpente. Por que, então, se há de impor à fé ingênua e crédula das crianças, como verdades, tão evidentes alegorias, com o que, falseando-se-lhes o juízo, se faz que mais tarde venham a considerar a Bíblia um tecido de fábulas absurdas?
+
+Deve-se, além disso, notar que o termo hebreu nâhâsch, traduzido por serpente, vem da raiz nâhâsch, que significa: fazer encantamentos, adivinhar as coisas ocultas, podendo, pois, significar: encantador, adivinho. Com esta acepção, ele é encontrado na própria Gênesis, 44:5 e 15, a propósito da taça que José mandou esconder no saco de Benjamim: “A taça que roubaste é a em que meu Senhor bebe e de que se serve para adivinhar (nâhâsch).133 — Ignoras que não há quem me iguale na ciência de adivinhar (nâhâsch)?” — No livro Números, 23:23: “Não há encantamentos (nâhâsch) em Jacó, nem adivinhos em Israel.” Daí o haver a palavra nâhâsch tomado também a significação de serpente, réptil que os encantadores tinham a pretensão de encantar, ou de que se serviam em seus encantamentos.
+
+A palavra nâhâsch só foi traduzida por serpente na versão dos Setenta — os quais, segundo Hutcheson, corromperam o texto hebreu em muitos lugares — versão essa escrita em grego antes do segundo século da Era Cristã. As suas inexatidões resultaram, sem dúvida, das modificações que a língua hebraica sofrera no intervalo transcorrido, porquanto o hebreu do tempo de Moisés era uma língua morta, que diferia do hebreu vulgar, tanto quanto o grego antigo e o árabe literário diferem do grego e do árabe modernos. [^134]
+
+[^134]: Nota de Allan Kardec: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
+
+É, pois, provável que Moisés tenha apresentado como sedutor da mulher o desejo de conhecer as coisas ocultas, suscitado pelo Espírito de adivinhação, o que concorda com o sentido primitivo da palavra nâhâsch, adivinhar, e, por outro lado, com estas palavras: “Deus sabe que, logo que houverdes comido desse fruto, vossos olhos se abrirão e sereis como deuses. — Ela, a mulher, viu que era cobiçável a árvore para compreender (léaskil) e tomou do seu fruto.” Não se deve esquecer que Moisés queria proscrever de entre os hebreus a arte da adivinhação praticada pelos egípcios, como o prova o haver proibido que aqueles interrogassem os mortos e o Espírito Píton. (O céu e o inferno, cap. XI.)
+
+######  18
+
+A passagem que diz: “O Senhor passeava pelo jardim à tarde, quando se levanta vento brando”, é uma imagem ingênua e um tanto pueril, que a crítica não deixou de assinalar; mas nada tem que surpreenda, se nos reportamos à ideia que os hebreus dos tempos primitivos faziam de Deus. Para aquelas inteligências frustas, incapazes de conceber abstrações, Deus havia de ter uma forma concreta e eles tudo referiam à humanidade, como único ponto que conheciam. Moisés, por isso, lhes falava como a crianças, por meio de imagens sensíveis. No caso de que se trata, tem-se personificada a Potência Soberana, como os pagãos personificavam, em figuras alegóricas, as virtudes, os vícios e as ideias abstratas. Mais tarde, os homens despojaram da forma a ideia, do mesmo modo que a criança, tornada adulta, procura o sentido moral dos contos com que a acalentaram. Deve-se, portanto, considerar essa passagem como uma alegoria, figurando a Divindade a vigiar em pessoa os objetos da sua criação. O grande rabino Wogue a traduziu assim: “Eles ouviram a voz do eterno Deus, percorrendo o jardim, do lado donde vem o dia.”
+
+######  19
+
+Se a falta de Adão consistiu literalmente em ter comido um fruto, essa falta não poderia, incontestavelmente, pela sua natureza quase pueril, justificar o rigor com que foi punida. Não se poderia tampouco admitir, racionalmente, que o fato seja qual geralmente o supõem; se o fosse, teríamos Deus, considerando-o irremissível crime, a condenar a sua própria obra, pois que Ele criara o homem para a propagação. Se Adão houvesse entendido assim a proibição de tocar no fruto da árvore e com ela se houvesse conformado escrupulosamente, onde estaria a humanidade e que teria sido feito dos desígnios do Criador?
+
+Deus não criara Adão e Eva para ficarem sós na Terra; a prova disso está nas próprias palavras que lhes dirige logo depois de os ter formado, quando eles ainda estavam no paraíso terrestre: “Deus os abençoou e lhes disse: ‘Crescei e multiplicai-vos, enchei a Terra e submetei-a ao vosso domínio.’” (Gênesis,1:28.) Uma vez que a multiplicação era lei já no paraíso terrenal, a expulsão deles dali não pode ter tido como causa o fato suposto.
+
+O que deu crédito a essa suposição foi o sentimento de vergonha que Adão e Eva manifestaram ante o olhar de Deus e que os levou a se ocultarem. Mas essa própria vergonha é uma figura por comparação: simboliza a confusão que todo culpado experimenta em presença de quem foi por ele ofendido.
+
+######  20
+
+Qual, então, em definitivo, a falta tão grande que mereceu acarretar a reprovação perpétua de todos os descendentes daquele que a cometeu? Caim, o fratricida, não foi tratado tão severamente. Nenhum teólogo a pode definir logicamente, porque todos, apegados à letra, giraram dentro de um círculo vicioso.
+
+Sabemos hoje que essa falta não é um ato isolado, pessoal, de um indivíduo, mas que compreende, sob um único fato alegórico, o conjunto das prevaricações de que a humanidade da Terra, ainda imperfeita, pode tornar-se culpada e que se resumem nisto: infração da Lei de Deus. Eis por que a falta do primeiro homem, simbolizando este a humanidade, tem por símbolo um ato de desobediência.
+
+######  21
+
+Dizendo a Adão que ele tiraria da terra a alimentação com o suor de seu rosto, Deus simboliza a obrigação do trabalho; mas por que fez do trabalho uma punição? Que seria da inteligência do homem, se ele não a desenvolvesse pelo trabalho? Que seria da Terra, se não fosse fecundada, transformada, saneada pelo trabalho inteligente do homem?
+
+Lá está dito (Gênesis, 2:5 e 7): “O Senhor Deus ainda não havia feito chover sobre a Terra e não havia nela homens que a cultivassem. O Senhor formou então, do limo da Terra, o homem.” Essas palavras, aproximadas destas outras: “Enchei a Terra”, provam que o homem, desde a sua origem, estava destinado a ocupar toda a Terra e a cultivá-la, assim como, ademais, que o paraíso não era um lugar circunscrito a um canto do globo. Se a cultura da Terra houvesse de ser uma consequência da falta de Adão, seguir-se-ia que, se Adão não tivesse pecado, a Terra permaneceria inculta e os desígnios de Deus não se teriam cumprido.
+
+Por que disse ele à mulher que, em consequência de haver cometido a falta, pariria com dor? Como pode a dor do parto ser um castigo, quando é um efeito do organismo e quando está provado que é uma necessidade fisiológica? Como pode ser punição uma coisa que se produz segundo as leis da natureza? É o que os teólogos absolutamente ainda não explicaram e que não poderão explicar, enquanto não abandonarem o ponto de vista em que se colocaram. Entretanto, podem justificar-se aquelas palavras que parecem tão contraditórias.
+
+######  22
+
+Notemos, antes de tudo, que, se no momento de serem criados os dois, as almas de Adão e Eva tivessem vindo do nada, como ainda se ensina, eles haviam de ser bisonhos em todas as coisas; haviam, pois, de ignorar o que é morrer. Estando sós na Terra, como estavam, enquanto viveram no paraíso, não tinham assistido à morte de ninguém. Como, então, teriam podido compreender em que consistia a ameaça de morte que Deus lhes fazia? Como teria Eva podido compreender que parir com dor seria uma punição, visto que, tendo acabado de nascer para a vida, ela jamais tivera filhos e era a única mulher existente no mundo?
+
+Nenhum sentido, portanto, deviam ter, para Adão e Eva, as palavras de Deus. Mal surgidos do nada, eles não podiam saber como nem por que haviam surgido dali; não podiam compreender nem o Criador nem o motivo da proibição que lhes era feita. Sem nenhuma experiência das condições da vida, pecaram como crianças que agem sem discernimento, o que ainda mais incompreensível torna a terrível responsabilidade que Deus fez pesar sobre eles e sobre a humanidade inteira.
+
+######  23
+
+Entretanto, o que constitui para a Teologia um beco sem saída, o Espiritismo o explica sem dificuldade e de maneira racional, pela anterioridade da alma e pela pluralidade das existências, lei sem a qual tudo é mistério e anomalia na vida do homem. Com efeito, admitamos que Adão e Eva já tivessem vivido e tudo logo se justifica: Deus não lhes fala como a crianças, mas como a seres em estado de o compreenderem e que o compreendem, prova evidente de que ambos trazem aquisições anteriormente realizadas. Admitamos, ademais, que hajam vivido em um mundo mais adiantado e menos material do que o nosso, onde o trabalho do Espírito substituía o do corpo; que, por se haverem rebelado contra a Lei de Deus, figurada na desobediência, tenham sido afastados de lá e exilados, por punição, para a Terra, onde o homem, pela natureza do globo, é constrangido a um trabalho corporal e reconheceremos que a Deus assistia razão para lhes dizer: “No mundo onde, daqui em diante, ides viver, cultivareis a terra e dela tirareis o alimento, com o suor da vossa fronte”; e, à mulher: “Parirás com dor”, porque tal é a condição desse mundo. (Cap. XI, item 31 e seguintes.)
+
+O paraíso terrestre, cujos vestígios têm sido inutilmente procurados na Terra, era, por conseguinte, a figura do mundo ditoso, onde vivera Adão, ou, antes, a raça dos Espíritos que ele personifica. A expulsão do paraíso marca o momento em que esses Espíritos vieram encarnar entre os habitantes do mundo terráqueo e a mudança de situação foi a consequência da expulsão. O anjo que, empunhando uma espada flamejante, veda a entrada do paraíso simboliza a impossibilidade em que se acham os Espíritos dos mundos inferiores, de penetrar nos mundos superiores, antes que o mereçam pela sua depuração. (Veja-se, adiante, o cap. XIV, itens 8 e seguintes.)
+
+######  24
+
+>Então, disse Caim ao Senhor: É maior a minha maldade que a que possa ser perdoada. Eis que hoje me lanças da face da terra, e da tua face me esconderei; e serei fugitivo e errante na terra, e será que todo aquele que me achar me matará. O Senhor, porém, disse-lhe: Portanto, qualquer que matar a Caim sete vezes será castigado. E pôs o Senhor um sinal em Caim, para que não o ferisse qualquer que o achasse. 16E saiu Caim de diante da face do Senhor e habitou na terra de Node, da banda do oriente do Éden.
+>
+> Gênesis, cap. 3, vers. 13-16, ARC
+{:.bible-multi}
+
+######  25
+
+Se nos apegarmos à letra da Gênese, eis as consequências a que chegaremos: Adão e Eva estavam sós no mundo, depois de expulsos do paraíso terrestre; só posteriormente tiveram os dois filhos Caim e Abel. Ora, tendo-se Caim retirado para outra região depois de haver assassinado o irmão, não tornou a ver seus pais, que de novo ficaram isolados. Só muito mais tarde, na idade de cento e trinta anos, foi que Adão teve um terceiro filho, que se chamou Set, depois desse nascimento, ele ainda viveu, segundo a genealogia bíblica, oitocentos anos, e teve mais filhos e filhas.
+
+Quando, pois, Caim foi estabelecer-se a leste do Éden, somente havia na Terra três pessoas: seu pai e sua mãe, e ele, sozinho, de seu lado. Entretanto, Caim teve mulher e um filho. Que mulher podia ser essa e onde pudera ele desposá-la? O texto hebreu diz: Ele estava construindo uma cidade e não: ele construiu, o que indica ação presente e não ulterior. Mas uma cidade pressupõe a existência de habitantes, visto não ser de presumir que Caim a fizesse para si, sua mulher e seu filho, nem que a pudesse edificar sozinho.
+
+Dessa própria narrativa, portanto, se tem de inferir que a região era povoada. Ora, não podia sê-lo pelos descendentes de Adão, que então se reduziam a um só: Caim.
+
+Aliás, a presença de outros habitantes ressalta igualmente destas palavras de Caim: “Serei fugitivo e vagabundo e quem quer que me encontre matar-me-á”, e da resposta que Deus lhe deu. Quem poderia ele temer que o matasse e que utilidade teria o sinal que Deus lhe pôs para preservá-lo de ser morto, uma vez que ele a ninguém iria encontrar? Ora, se havia na Terra outros homens afora a família de Adão, é que esses homens aí estavam antes dele, donde se deduz esta consequência, tirada do texto mesmo do Gênesis: Adão não é nem o primeiro, nem o único pai do gênero humano. (Cap. XI, item 34.)135
+
+######  26
+
+Eram necessários os conhecimentos que o Espiritismo ministrou acerca das relações do princípio espiritual com o princípio material, acerca da natureza da alma, da sua criação em estado de simplicidade e de ignorância, da sua união com o corpo, da sua indefinida marcha progressiva através de sucessivas existências e através dos mundos, que são outros tantos degraus da senda do aperfeiçoamento, acerca da sua gradual libertação da influência da matéria, mediante o uso do livre-arbítrio, da causa dos seus pendores bons ou maus e de suas aptidões, do fenômeno do nascimento e da morte, da situação do Espírito na erraticidade e, finalmente, do futuro como prêmio de seus esforços por se melhorar e da sua perseverança no bem, para que se fizesse luz sobre todas as partes da Gênese espiritual.
+
+Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que está na Terra e por que sofre. Sabe que tem nas mãos o seu futuro e que a duração do seu cativeiro neste mundo unicamente dele depende. Despida da alegoria acanhada e mesquinha, a Gênese se lhe apresenta grande e digna da majestade, da bondade e da justiça do Criador. Considerada desse ponto de vista, ela confundirá a incredulidade e triunfará.
 
 ## 2
 
 ### 2.13
 
-######  GEN-2-13-p1
+######  01
 
-######  GEN-2-13-p2
+Na acepção etimológica, a palavra milagre (de miracŭlum, admirar) significa: prodígio, maravilha; coisa extraordinária. A Academia definiu-a deste modo: Um ato do poder divino contrário às leis da natureza, conhecidas.
 
-######  GEN-2-13-p3
+Na acepção usual, essa palavra perdeu, como tantas outras, a significação primitiva. De geral, que era, se tornou de aplicação restrita a uma ordem particular de fatos. No entender das massas, um milagre implica a ideia de um fato extranatural; no sentido teológico, é uma derrogação das leis da natureza, por meio da qual Deus manifesta o seu poder. Tal, com efeito, a acepção vulgar, que se tornou o sentido próprio, de modo que só por comparação e por metáfora a palavra se aplica às circunstâncias ordinárias da vida.
 
-######  GEN-2-13-p4
+Um dos caracteres do milagre propriamente dito é o ser inexplicável, por isso mesmo que se realiza com exclusão das leis naturais. É tanto essa a ideia que se lhe associa, que, se um fato milagroso vem a encontrar explicação, se diz que já não constitui milagre, por muito espantoso que seja. O que, para a Igreja, dá valor aos milagres é, precisamente, a origem sobrenatural deles e a impossibilidade de serem explicados. Ela se firmou tão bem sobre esse ponto, que o assimilarem-se os milagres aos fenômenos da natureza constitui para ela uma heresia, um atentado contra a fé, tanto assim que excomungou e até queimou muita gente por não ter querido crer em certos milagres.
 
-######  GEN-2-13-p5
+Outro caráter do milagre é o ser insólito, isolado, excepcional. Logo que um fenômeno se reproduz, quer espontânea, quer voluntariamente, é que está submetido a uma lei e, desde então, seja ou não seja conhecida a lei, já não pode haver milagres.
 
-######  GEN-2-13-p6
+######  02
 
-######  GEN-2-13-p7
+Aos olhos dos ignorantes, a Ciência faz milagres todos os dias. Se um homem, que se ache realmente morto, for chamado à vida por intervenção divina, haverá verdadeiro milagre, por ser esse um fato contrário às leis da natureza. Mas se em tal homem houver apenas aparências de morte, se lhe restar uma vitalidade latente e a Ciência, ou uma ação magnética, conseguir reanimá-lo, para as pessoas esclarecidas ter-se-á dado um fenômeno natural, mas, para o vulgo ignorante, o fato passará por miraculoso. Lance um físico, do meio de certas campinas, um papagaio elétrico e faça que o raio caia sobre uma árvore e certamente esse novo Prometeu [^136] será tido por armado de diabólico poder. Houvesse, porém, Josué [^137] detido o movimento do Sol, ou, antes, da Terra e teríamos aí o verdadeiro milagre, porquanto nenhum magnetizador existe dotado de bastante poder para operar semelhante prodígio.
 
-######  GEN-2-13-p8
+Foram fecundos em milagres os séculos de ignorância, porque se considerava sobrenatural tudo aquilo cuja causa não se conhecia. À proporção que a Ciência revelou novas leis, o círculo do maravilhoso se foi restringindo; mas como a Ciência ainda não explorara todo o vasto campo da natureza, larga parte dele ficou reservada para o maravilhoso.
 
-######  GEN-2-13-p9
+[^136]: 6N.E.: Na mitologia grega é um dos Titãs, roubou o fogo sagrado dos deuses e transmitiu-o aos homens. Zeus, para puni-lo, acorrentou-o ao Cáucaso, onde uma águia comia-lhe o fígado, que se regenerava incessantemente. Foi libertado por Hércules.
 
-######  GEN-2-13-p10
+[^137]: N.E.: Também chamado de Oseias. Depois da morte de Moisés, Josué liderou o povo de Israel na conquista de Canaã e foi responsável por conduzir os israelitas à Terra Prometida. Sua liderança é narrada no Livro de Josué, em que se destaca a tomada da cidade de Jericó entre outros fatos que contaram com prodigiosa intervenção divina, como no dia em que o sol e a lua chegaram a parar durante a batalha de Josué em defesa dos gibeonitas, contra o ataque de reis cananeus.
 
-######  GEN-2-13-p11
+######  03
 
-######  GEN-2-13-p12
+Expulso do domínio da materialidade, pela Ciência, o maravilhoso se encastelou no da espiritualidade, onde encontrou o seu último refúgio. Demonstrando que o elemento espiritual é uma das forças vivas da natureza, força que incessantemente atua em concorrência com a força material, o Espiritismo faz que voltem ao rol dos efeitos naturais os que dele haviam saído, porque, como os outros, também tais efeitos se acham sujeitos a leis. Se for expulso da espiritualidade, o maravilhoso já não terá razão de ser e só então se poderá dizer que passou o tempo dos milagres. (Cap. I, item 18.)
 
-######  GEN-2-13-p13
+##### O Espiritismo não faz milagres
 
-######  GEN-2-13-p14
+######  04
 
-######  GEN-2-13-p15
+O Espiritismo, pois, vem, a seu turno, fazer o que cada ciência fez no seu advento: revelar novas leis e explicar, conseguintemente, os fenômenos compreendidos na alçada dessas leis.
 
-######  GEN-2-13-p16
+Esses fenômenos, é certo, se prendem à existência dos Espíritos e à intervenção deles no mundo material e isso é, dizem, o em que consiste o sobrenatural. Mas, então, fora mister se provasse que os Espíritos e suas manifestações são contrárias às leis da natureza; que aí não há, nem pode haver, a ação de uma dessas leis.
 
-######  GEN-2-13-p17
+O Espírito mais não é do que a alma sobrevivente ao corpo; é o ser principal, pois que não morre, ao passo que o corpo é simples acessório sujeito à destruição. Sua existência, portanto, é tão natural depois, como durante a encarnação; está submetido às leis que regem o princípio espiritual, como o corpo o está às que regem o princípio material; mas como estes dois princípios têm necessária afinidade, como reagem incessantemente um sobre o outro, como da ação simultânea deles resultam o movimento e a harmonia do conjunto, segue-se que a espiritualidade e a materialidade são duas partes de um mesmo todo, tão natural uma quanto a outra, não sendo, pois, a primeira uma exceção, uma anomalia na ordem das coisas. O Espiritismo, pois, vem, a seu turno, fazer o que cada ciência fez no seu advento: revelar novas leis e explicar, conseguintemente, os fenômenos compreendidos na alçada dessas leis. Esses fenômenos, é certo, se prendem à existência dos Espíritos e à intervenção deles no mundo material e isso é, dizem, o em que consiste o sobrenatural. Mas, então, fora mister se provasse que os Espíritos e suas manifestações são contrárias às leis da natureza; que aí não há, nem pode haver, a ação de uma dessas leis. O Espírito mais não é do que a alma sobrevivente ao corpo; é o ser principal, pois que não morre, ao passo que o corpo é simples acessório sujeito à destruição. Sua existência, portanto, é tão natural depois, como durante a encarnação; está submetido às leis que regem o princípio espiritual, como o corpo o está às que regem o princípio material; mas como estes dois princípios têm necessária afinidade, como reagem incessantemente um sobre o outro, como da ação simultânea deles resultam o movimento e a harmonia do conjunto, segue-se que a espiritualidade e a materialidade são duas partes de um mesmo todo, tão natural uma quanto a outra, não sendo, pois, a primeira uma exceção, uma anomalia na ordem das coisas.
 
-######  GEN-2-13-p18
+######  05
 
-######  GEN-2-13-p19
+Durante a sua encarnação, o Espírito atua sobre a matéria por intermédio do seu corpo fluídico ou perispírito, dando-se o mesmo quando ele não está encarnado. Como Espírito e na medida de suas capacidades, faz o que fazia como homem; apenas, por já não ter o corpo carnal para instrumento, serve-se, quando necessário, dos órgãos materiais de um encarnado, que vem a ser o a que se chama médium. Procede então como um que, não podendo escrever por si mesmo, se vale de um secretário, ou que, não sabendo uma língua, recorre a um intérprete. O secretário e o intérprete são os médiuns de um encarnado, do mesmo modo que o médium é o secretário ou o intérprete de um Espírito.
+
+######  06
+
+Já não sendo o mesmo que no estado de encarnação o meio em que atuam os Espíritos e os modos por que atuam, diferentes são os efeitos, que parecem sobrenaturais unicamente porque se produzem com o auxílio de agentes que não são os de que nos servimos. Desde, porém, que esses agentes estão na natureza e as manifestações se dão em virtude de certas leis, nada há de sobrenatural, ou de maravilhoso. Antes de se conhecerem as propriedades da eletricidade, os fenômenos elétricos passavam por prodígios para certa gente; desde que se tornou conhecida a causa, desapareceu o maravilhoso. O mesmo ocorre com os fenômenos espíritas, que não são mais aberrantes das leis naturais do que os fenômenos elétricos, acústicos, luminosos e outros, que serviram de fundamento a uma imensidade de crenças supersticiosas
+
+######  07
+
+Entretanto, dir-se-á, admitis que um Espírito pode levantar uma mesa e mantê-la no espaço sem ponto de apoio; não está aí uma derrogação da lei da gravidade? — Sim, da lei conhecida. Conhecem-se, porém, todas as leis? Antes que se houvesse experimentado a força ascensional de alguns gases, quem diria que uma pesada máquina, transportando muitos homens, poderia triunfar da força de atração? Ao vulgo, isso não pareceria maravilhoso, diabólico? Aquele que se houvera proposto, há um século, a transmitir uma mensagem a 500 léguas e receber a resposta dentro de alguns minutos, teria passado por louco; se o fizesse, teriam acreditado estar o diabo às suas ordens, porquanto, então, só o diabo era capaz de andar tão depressa. Hoje, no entanto, não só se reconhece possível o fato, como ele parece naturalíssimo. Por que, pois, um fluido desconhecido careceria da propriedade de contrabalançar, em dadas circunstâncias, o efeito da gravidade, como o hidrogênio contrabalança o peso do balão? É, efetivamente, o que sucede, no caso de que se trata. (O livro dos médiuns, 2a Parte, cap. IV.)
+
+######  08
+
+Uma vez que estão no quadro dos da natureza, os fenômenos espíritas se hão produzido em todos os tempos; mas, precisamente, porque não podiam ser estudados pelos meios materiais de que dispõe a ciência vulgar, permaneceram muito mais tempo do que outros no domínio do sobrenatural, donde o Espiritismo agora os tira.
+
+Baseado em aparências inexplicadas, o sobrenatural deixa livre curso à imaginação que, a vagar pelo desconhecido, gera as crenças supersticiosas. Uma explicação racional, fundada nas leis da natureza, reconduzindo o homem ao terreno da realidade, fixa um ponto de parada aos transviamentos da imaginação e destrói as superstições. Longe de ampliar o domínio do sobrenatural, o Espiritismo o restringe até os seus limites extremos e lhe arrebata o último refúgio. Se é certo que ele faz crer na possibilidade de alguns fatos, não menos certo é que, por outro lado, impede a crença em diversos outros, porque demonstra, no campo da espiritualidade, a exemplo da Ciência no da materialidade, o que é possível e o que não o é. Todavia, como não alimenta a pretensão de haver dito a última palavra seja sobre o que for, nem mesmo sobre o que é da sua competência, ele não se apresenta como absoluto regulador do possível e deixa de parte os conhecimentos reservados ao futuro.
+
+######  09
+
+Os fenômenos espíritas consistem nos diferentes modos de manifestação da alma ou Espírito, quer durante a encarnação, quer no estado de erraticidade. É pelas manifestações que produz que a alma revela sua existência, sua sobrevivência e sua individualidade; julga-se dela pelos seus efeitos; sendo natural a causa, o efeito também o é. São esses efeitos que constituem objeto especial das pesquisas e do estudo do Espiritismo, a fim de chegar-se a um conhecimento tão completo quanto possível, assim da natureza e dos atributos da alma, como das leis que regem o princípio espiritual.
+
+######  10
+
+Para os que negam a existência do princípio espiritual independente, que negam, por conseguinte, a da alma individual e sobrevivente, a natureza toda está na matéria tangível; todos os fenômenos que concernem à espiritualidade são, para esses negadores, sobrenaturais e, portanto, quiméricos. Não admitindo a causa não podem eles admitir os efeitos e, quando estes são patentes, os atribuem à imaginação, à ilusão, à alucinação e se negam a aprofundá-los. Daí, a opinião preconcebida em que se acastelam e que os torna inaptos a apreciar judiciosamente o Espiritismo, porque parte do princípio de negação de tudo o que não seja material.
+
+######  11
+
+Do fato, porém, de o Espiritismo admitir os efeitos, que são corolário da existência da alma, não se segue que admita todos os efeitos qualificados de maravilhosos e que se proponha a justificá-los e dar-lhes crédito; que se faça campeão de todos os devaneios, de todas as utopias, de todas as excentricidades sistemáticas, de todas as lendas miraculosas. Fora preciso conhecê-lo muito pouco, para pensar assim. Seus adversários julgam opor-lhe um argumento irreplicável, quando, depois de haverem feito eruditas pesquisas sobre os convulsionários de Saint-Médard [^138], sobre os camisardos das Cevenas [^139], ou sobre as religiosas de Loudun [^140], chegaram a descobrir fatos patentes de embuste, que ninguém contesta. Mas essas histórias serão, porventura, o Evangelho do Espiritismo? Já terão seus adeptos negado que o charlatanismo haja explorado em proveito próprio alguns fatos; que a imaginação os tenha criado; que o fanatismo os haja exagerado muitíssimo? Ele é tão solidário com as extravagâncias que se cometam em seu nome, como a Ciência o é com os abusos da ignorância e a verdadeira religião com os abusos do fanatismo. Muitos críticos julgam do Espiritismo pelos contos de fadas e pelas lendas populares, ficções daqueles contos. O mesmo seria julgar da História pelos romances históricos ou pelas tragédias.
+
+[^138]: N.E.: Em 1729, no Cemitério de Saint-Médard, junto ao túmulo do diácono Francisco de Paris, morto em 1727 e considerado homem muito caridoso, começaram a ocorrer milagres, pessoas passaram a visitar o túmulo e lá sofriam convulsões e se autoinfligiam torturas.
+
+[^139]: N.E.: Protestantes franceses que foram expatriados por pegarem em armas após a revogação do Édito de Nantes (1685); eram assim chamados por vestir camisa sobre suas roupas.
+
+[^140]: N.E.: A Possessão das Freiras de Loudun foi um suposto conjunto de possessões demoníacas que ocorreram em Loudun, França, em 1634; as freiras sofreram convulsões e proferiram linguagem abusiva.
+
+######  12
+
+Os fenômenos espíritas são as mais das vezes espontâneos e se produzem sem nenhuma ideia preconcebida da parte das pessoas com quem eles se dão e que, em regra, são as que neles menos pensam. Alguns há que, em certas circunstâncias, podem ser provocados pelos agentes denominados médiuns. No primeiro caso, o médium é inconsciente do que se produz por seu intermédio; no segundo, age com conhecimento de causa, donde a classificação de médiuns conscientes e médiuns inconscientes. Estes últimos são os mais numerosos e se encontram com frequência entre os mais obstinados incrédulos que, assim, praticam o Espiritismo sem o saberem, nem quererem. Por isso mesmo, os fenômenos espontâneos revestem capital importância, visto não se poder suspeitar da boa-fé dos que os obtêm. Dá-se aqui o que se dá com o sonambulismo que, em certos indivíduos, é natural e involuntário, enquanto noutros é provocado pela ação magnética. [^141]
+
+Resultem, porém, ou não esses fenômenos de um ato da vontade, a causa primária é exatamente a mesma e não se afasta uma linha das leis naturais. Os médiuns, portanto, nada absolutamente produzem de sobrenatural; por conseguinte, nenhum milagre fazem. As próprias curas instantâneas não são mais milagrosas, do que os outros efeitos, dado que resultam da ação de um agente fluídico, que desempenha o papel de agente terapêutico, suas propriedades não deixam de ser naturais por terem sido ignoradas até agora. É, pois, totalmente impróprio o epíteto de taumaturgos que a crítica ignorante dos princípios do Espiritismo há dado a certos médiuns. A qualificação de milagres emprestada, por comparação, a esta espécie de fenômenos, somente pode induzir em erro sobre o verdadeiro caráter deles.
+
+[^141]: Nota de Allan Kardec: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
+
+######  13
+
+A intervenção de inteligências ocultas nos fenômenos espíritas não os torna mais milagrosos do que todos os outros fenômenos devidos a agentes invisíveis, porque esses seres ocultos que povoam os espaços são uma das forças da natureza, força cuja ação é incessante sobre o mundo material, tanto quanto sobre o mundo moral.
+
+Esclarecendo-nos acerca dessa força, o Espiritismo faculta a elucidação de uma imensidade de coisas inexplicadas e inexplicáveis por qualquer outro meio e que, por isso, passaram por prodígios nos tempos idos. Do mesmo modo que o magnetismo, ele revela uma lei, senão desconhecida, pelo menos mal compreendida; ou, melhor dizendo, conheciam-se os efeitos, porque eles em todos os tempos se produziram, porém não se conhecia a lei e foi o desconhecimento desta que gerou a superstição. Conhecida essa lei, desaparece o maravilhoso e os fenômenos entram na ordem das coisas naturais. Eis por que tanto operam um milagre os espíritas quando fazem que uma mesa se mova sozinha, ou que os mortos escrevam, como um milagre opera o médico, quando faz que um moribundo reviva, ou o físico, quando faz que o raio caia. Aquele que pretendesse, com o auxílio desta ciência, fazer milagres seria ou um ignorante do assunto, ou um enganador de tolos.
+
+######  14
+
+Pois que o Espiritismo repudia toda pretensão às coisas miraculosas, haverá, fora dele, milagres, na acepção usual desta palavra? Digamos, primeiramente, que, dos fatos reputados milagrosos, ocorridos antes do advento do Espiritismo e que ainda no presente ocorrem, a maior parte, senão todos, encontram explicação nas novas leis que ele veio revelar. Esses fatos, portanto, se compreendem, embora sob outro nome, na ordem dos fenômenos espíritas e, como tais, nada têm de sobrenatural. Fique, porém, bem entendido que nos referimos aos fatos autênticos e não aos que, com a denominação de milagres, são produto de uma indigna trampolinice, com o fito de explorar a credulidade. Tampouco nos referimos a certos fatos lendários que podem ter tido, originariamente, um fundo de verdade, mas que a superstição ampliou até o absurdo. Sobre esses fatos é que o Espiritismo projeta luz, fornecendo meios de apartar do erro a verdade.
+
+
+##### Faz Deus milagres?
+
+######  15
+
+Quanto aos milagres propriamente ditos, Deus, visto que nada lhe é impossível, pode fazê-los. Mas fá-los? Ou, por outras palavras; derroga as leis que dele próprio emanaram? Não cabe ao homem prejulgar os atos da Divindade, nem os subordinar à fraqueza do seu entendimento. Contudo, em face das coisas divinas, temos, para critério do nosso juízo, os atributos mesmos de Deus. Ao poder soberano reúne ele a soberana sabedoria, donde se deve concluir que não faz coisa alguma inútil. 
+
+Por que, então, faria milagres? Para atestar o seu poder, dizem. Mas o poder de Deus não se manifesta de maneira muito mais imponente pelo grandioso conjunto das obras da criação, pela sábia previdência que essa criação revela, assim nas partes mais gigantescas, como nas mínimas, e pela harmonia das leis que regem o mecanismo do universo, do que por algumas pequeninas e pueris derrogações que todos os prestímanos sabem imitar? Que se diria de um sábio mecânico que, para provar a sua habilidade, desmantelasse um relógio construído pelas suas mãos, obra-prima de ciência, a fim de mostrar que pode desmanchar o que fizera? Seu saber, ao contrário, não ressalta muito mais da regularidade e da precisão do movimento da sua obra?
+
+Não é, pois, da alçada do Espiritismo a questão dos milagres; mas, ponderando que Deus não faz coisas inúteis, emite a seguinte opinião: Não sendo necessários os milagres para a glorificação de Deus, nada no universo se produz fora do âmbito das leis gerais. Deus não faz milagres, porque, sendo, como são, perfeitas as suas leis, não lhe é necessário derrogá-las. Se há fatos que não compreendemos, é que ainda nos faltam os conhecimentos necessários.
+
+######  16
+
+Admitido que Deus houvesse alguma vez, por motivos que nos escapam, derrogado acidentalmente leis por ele estabelecidas, tais leis já não seriam imutáveis. Mesmo, porém, que semelhante derrogação seja possível, ter-se-á, pelo menos, de reconhecer que só Ele, Deus, dispõe desse poder; sem se negar ao Espírito do mal a onipotência, não se pode admitir lhe seja dado desfazer a obra divina, operando, de seu lado, prodígios capazes de seduzir até os eleitos, pois que isso implicaria a ideia de um poder igual ao de Deus. É, no entanto, o que ensinam. Se Satanás tem o poder de sustar o curso das leis naturais, que são obra de Deus, sem a permissão deste, mais poderoso é ele do que a Divindade. Logo, Deus não possui a onipotência e se, como pretendem, delega poderes a Satanás, para mais facilmente induzir os homens ao mal, falta-lhe a soberana bondade. Em ambos os casos, há negação de um dos atributos sem os quais Deus não seria Deus.
+
+Daí vem a Igreja distinguir os bons milagres, que procedem de Deus, dos maus milagres, que procedem de Satanás. Mas como diferençá-los? Seja satânico ou divino um milagre, haverá sempre uma derrogação de leis emanadas unicamente de Deus. Se um indivíduo é curado por suposto milagre, quer seja Deus quem o opere, quer Satanás, não deixará por isso de ter havido a cura. Forçoso se torna fazer pobríssima ideia da inteligência humana para se pretender que semelhantes doutrinas possam ser aceitas nos dias de hoje.
+
+Reconhecida a possibilidade de alguns fatos considerados miraculosos, há de se concluir que, seja qual for a origem que se lhes atribua, eles são efeitos naturais de que se podem utilizar Espíritos desencarnados ou encarnados, como de tudo, como da própria inteligência e dos conhecimentos científicos de que disponham, para o bem ou para o mal, conforme neles preponderem a bondade ou a perversidade. Valendo-se do saber que haja adquirido, pode um ser perverso fazer coisas que passem por prodígios aos olhos dos ignorantes; mas quando tais efeitos dão em resultado um bem qualquer, fora ilógico atribuir-se-lhes uma origem diabólica.
+
+######  17
+
+Mas a religião, dizem, se apoia em fatos que nem explicados, nem explicáveis são. Inexplicados, talvez; inexplicáveis, é questão muito outra. Que sabe o homem das descobertas e dos conhecimentos que o futuro lhe reserva? Sem falar do milagre da criação, o maior de todos sem contestação possível, já pertencente ao domínio da lei universal, não vemos reproduzirem-se hoje, sob o império do magnetismo, do sonambulismo, do Espiritismo, os êxtases, as visões, as aparições, as percepções a distância, as curas instantâneas, as suspensões, as comunicações orais e outras com os seres do mundo invisível, fenômenos esses conhecidos desde tempos imemoráveis, tidos outrora por maravilhosos e que presentemente se demonstra pertencerem à ordem das coisas naturais, de acordo com a lei constitutiva dos seres? Os livros sagrados estão cheios de fatos desse gênero, qualificados de sobrenaturais; como, porém, outros análogos e ainda mais maravilhosos se encontram em todas as religiões pagãs da Antiguidade, se a veracidade de uma religião dependesse do número e da natureza de tais fatos, não se saberia dizer qual a que devesse prevalecer.
+
+##### O sobrenatural e as religiões
+
+######  18
+
+Pretender-se que o sobrenatural é o fundamento de toda religião, que ele é o fecho de abóbada do edifício cristão, é sustentar perigosa tese. Assentar exclusivamente as verdades do Cristianismo sobre a base do maravilhoso é dar-lhe fraco alicerce, cujas pedras facilmente se soltam. Essa tese, de que se constituíram defensores eminentes teólogos, leva direito à conclusão de que, em breve tempo, já não haverá religião possível, nem mesmo a cristã, desde que se chegue a demonstrar que é natural o que se considerava sobrenatural, visto que, por mais que se acumulem argumentos, não se logrará sustentar a crença de que um fato é miraculoso, depois de se haver provado que não o é. Ora, a prova existe de que um fato não constitui exceção às leis naturais, logo que pode ser explicado por essas mesmas leis e que, podendo reproduzir-se por intermédio de um indivíduo qualquer, deixa de ser privilégio dos santos. O de que necessitam as religiões não é do sobrenatural, mas do princípio espiritual, que erradamente costumam confundir com o maravilhoso e sem o qual não há religião possível.
+
+O Espiritismo considera de um ponto mais elevado a religião cristã; dá-lhe base mais sólida do que a dos milagres: as imutáveis Leis de Deus, a que obedecem assim o princípio espiritual, como o princípio material. Essa base desafia o tempo e a Ciência, pois que o tempo e a Ciência virão sancioná-la.
+
+Deus não se torna menos digno da nossa admiração, do nosso reconhecimento, do nosso respeito, por não haver derrogado suas leis, grandiosas, sobretudo, pela imutabilidade que as caracteriza. Não se faz mister o sobrenatural, para que se preste a Deus o culto que lhe é devido. A natureza não é de si mesma tão imponente, que dispense se lhe acrescente seja o que for para provar a suprema potestade? Tanto menos incrédulos topará a religião, quanto mais a razão a sancionar em todos os pontos. O Cristianismo nada tem que perder com semelhante sanção; ao contrário, só tem que ganhar. Se alguma coisa o há prejudicado na opinião de muitas pessoas, foi precisamente o abuso do sobrenatural e do maravilhoso.
+
+######  19
+
+Se tomarmos a palavra milagre em sua acepção etimológica, no sentido de coisa admirável, teremos milagres incessantemente sob as vistas. Aspiramo-los no ar e calcamo-los aos pés, porque tudo então é milagre na natureza.
+
+Querem dar ao povo, aos ignorantes, aos pobres de espírito uma ideia do poder de Deus? Mostrem-no na sabedoria infinita que preside a tudo, no admirável organismo de tudo o que vive, na frutificação das plantas, na apropriação de todas as partes de cada ser às suas necessidades, de acordo com o meio onde ele é posto a viver. Mostrem-lhes a ação de Deus na vergôntea de um arbusto, na flor que desabrocha, no Sol que tudo vivifica. Mostrem-lhes a sua bondade na solicitude que dispensa a todas as criaturas, por mais ínfimas que sejam, a sua previdência, na razão de ser de todas as coisas, entre as quais nenhuma inútil se conta, no bem que sempre decorre de um mal aparente e temporário. Façam-lhes compreender, principalmente, que o mal real é obra do homem e não de Deus; não procurem espavori-los com o quadro das penas eternas, em que acabam não mais crendo e que os levam a duvidar da Bondade de Deus; antes, deem-lhes coragem, mediante a certeza de poderem um dia redimir-se e reparar o mal que hajam praticado. Apontem-lhes as descobertas da Ciência como revelações das Leis divinas e não como obras de Satanás. Ensinem-lhes, finalmente, a ler no livro da natureza, constantemente aberto diante deles; nesse livro inesgotável, em cada uma de cujas páginas se acham inscritas a sabedoria e a bondade do Criador. Eles, então, compreenderão que um Ser tão grande, que com tudo se ocupa, que por tudo vela, que tudo prevê, forçosamente dispõe do poder supremo. Vê-lo-á o lavrador, ao sulcar o seu campo; e o desditoso, nas suas aflições, o bendirá dizendo: Se sou infeliz, é por culpa minha. Então, os homens serão verdadeiramente religiosos, racionalmente religiosos, sobretudo, muito mais do que acreditando em pedras que suam sangue, ou em estátuas que piscam os olhos e derramam lágrimas.
 
 ### 2.14
 
-######  GEN-2-14-p1
+##### Elementos fluídicos
 
-######  GEN-2-14-p2
+######  01
 
-######  GEN-2-14-p3
+A Ciência resolveu a questão dos milagres que mais particularmente derivam do elemento material, quer explicando-os, quer lhes demonstrando a impossibilidade, em face das leis que regem a matéria. Mas os fenômenos em que prepondera o elemento espiritual, esses, não podendo ser explicados unicamente por meio das leis da natureza, escapam às investigações da Ciência. Tal a razão por que eles, mais do que os outros, apresentam os caracteres aparentes do maravilhoso. É, pois, nas leis que regem a vida espiritual que se pode encontrar a explicação dos milagres dessa categoria.
 
-######  GEN-2-14-p4
+######  02
 
-######  GEN-2-14-p5
+O fluido cósmico universal é, como já foi demonstrado, a matéria elementar primitiva, cujas modificações e transformações constituem a inumerável variedade dos corpos da natureza. (Cap. X.) Como princípio elementar do universo, ele assume dois estados distintos: o de eterização ou imponderabilidade, que se pode considerar o primitivo estado normal, e o de materialização ou de ponderabilidade, que é, de certa maneira, consecutivo àquele. O ponto intermédio é o da transformação do fluido em matéria tangível. Mas, ainda aí, não há transição brusca, porquanto podem considerar-se os nossos fluidos imponderáveis [^142] como termo médio entre os dois estados. (Cap. VI, itens 10 e seguintes.)
 
-######  GEN-2-14-p6
+Cada um desses dois estados dá lugar, naturalmente, a fenômenos especiais: ao segundo pertencem os do mundo visível e ao primeiro os do mundo invisível. Uns, os chamados fenômenos materiais, são da alçada da Ciência propriamente dita, os outros, qualificados de fenômenos espirituais ou psíquicos, porque se ligam de modo especial à existência dos Espíritos, cabem nas atribuições do Espiritismo. Como, porém, a vida espiritual e a vida corporal se acham incessantemente em contato, os fenômenos das duas categorias muitas vezes se produzem simultaneamente. No estado de encarnação, o homem somente pode perceber os fenômenos psíquicos que se prendem à vida corpórea; os do domínio espiritual escapam aos sentidos materiais e só podem ser percebidos no estado de Espírito. [^143]
 
-######  GEN-2-14-p7
+[^142]: N.E.: Os gases são exemplo desse fluido, invisíveis, embora possam ser detectados e pesados
 
-######  GEN-2-14-p8
+[^143]: Nota de Allan Kardec: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
 
-######  GEN-2-14-p9
+######  03
 
-######  GEN-2-14-p10
+No estado de eterização, o fluido cósmico não é uniforme; sem deixar de ser etéreo, sofre modificações tão variadas em gênero e mais numerosas talvez do que no estado de matéria tangível. Essas modificações constituem fluidos distintos que, embora procedentes do mesmo princípio, são dotados de propriedades especiais e dão lugar aos fenômenos peculiares ao mundo invisível.
 
-######  GEN-2-14-p11
+Dentro da relatividade de tudo, esses fluidos têm para os Espíritos, que também são fluídicos, uma aparência tão material quanto a dos objetos tangíveis para os encarnados e são, para eles, os Espíritos, o que são para nós as substâncias do mundo terrestre. Os Espíritos os elaboram e combinam para produzirem determinados efeitos, como fazem os homens com os seus materiais, ainda que por processos diferentes.
 
-######  GEN-2-14-p12
+Lá, porém, como neste mundo, somente aos Espíritos mais esclarecidos é dado compreender o papel que desempenham os elementos constitutivos do mundo onde eles se acham. Os ignorantes do mundo invisível são tão incapazes de explicar a si mesmos os fenômenos a que assistem e para os quais muitas vezes concorrem maquinalmente, como os ignorantes da Terra o são para explicar os efeitos da luz ou da eletricidade, para dizer de que modo é que veem e escutam.
 
-######  GEN-2-14-p13
+######  04
 
-######  GEN-2-14-p14
+Os elementos fluídicos do mundo espiritual escapam aos nossos instrumentos de análise e à percepção dos nossos sentidos, feitos para perceberem a matéria tangível e não a matéria etérea. Alguns há, pertencentes a um meio diverso a tal ponto do nosso, que deles só podemos fazer ideia mediante comparações tão imperfeitas como aquelas mediante as quais um cego de nascença procura fazer ideia da teoria das cores.
 
-######  GEN-2-14-p15
+Mas entre tais fluidos, há os tão intimamente ligados à vida corporal, que, de certa forma, pertencem ao meio terreno. Em falta de observação direta, seus efeitos podem observar-se, como se observam os do fluido do ímã, fluido que jamais se viu, podendo-se adquirir sobre a natureza deles conhecimentos de alguma precisão. É essencial esse estudo, porque está nele a chave de uma imensidade de fenômenos que não se conseguem explicar unicamente com as leis da matéria.
 
-######  GEN-2-14-p16
+######  05
 
-######  GEN-2-14-p17
+A pureza absoluta, da qual nada nos pode dar ideia, é o ponto de partida do fluido universal; o ponto oposto é o em que ele se transforma em matéria tangível. Entre esses dois extremos, dão-se inúmeras transformações, mais ou menos aproximadas de um e de outro. Os fluidos mais próximos da materialidade, os menos puros, conseguintemente, compõem o que se pode chamar a atmosfera espiritual da Terra. É desse meio, onde igualmente vários são os graus de pureza, que os Espíritos encarnados e desencarnados, deste planeta, haurem os elementos necessários à economia de suas existências. Por muito sutis e impalpáveis que nos sejam esses fluidos, não deixam por isso de ser de natureza grosseira, em comparação com os fluidos etéreos das regiões superiores.
 
-######  GEN-2-14-p18
+O mesmo se dá na superfície de todos os mundos, salvo as diferenças de constituição e as condições de vitalidade próprias de cada um. Quanto menos material é a vida neles, tanto menos afinidades têm os fluidos espirituais com a matéria propriamente dita.
 
-######  GEN-2-14-p19
+Não é rigorosamente exata a qualificação de fluidos espirituais, pois que, em definitivo, eles são sempre matéria mais ou menos quintessenciada. De realmente espiritual, só a alma ou princípio inteligente. Dá-se-lhes essa denominação por comparação apenas e, sobretudo, pela afinidade que eles guardam com os Espíritos. Pode dizer-se que são a matéria do mundo espiritual, razão por que são chamados fluidos espirituais.
 
-######  GEN-2-14-p20
+######  06
 
-######  GEN-2-14-p21
+Quem conhece, aliás, a constituição íntima da matéria tangível? Ela talvez somente seja compacta em relação aos nossos sentidos; prová-lo-ia a facilidade com que a atravessam os fluidos espirituais e os Espíritos, aos quais não oferece maior obstáculo, do que o que os corpos transparentes oferecem à luz. [^144] Tendo por elemento primitivo o fluido cósmico etéreo, à matéria tangível há de ser possível, desagregando-se, voltar ao estado de eterização, do mesmo modo que o diamante, o mais duro dos corpos, pode volatilizar-se em gás impalpável. Na realidade, a solidificação da matéria não é mais do que um estado transitório do fluido universal, que pode volver ao seu estado primitivo, quando deixam de existir as condições de coesão. Quem sabe mesmo se, no estado de tangibilidade, a matéria não é suscetível de adquirir uma espécie de eterização que lhe daria propriedades particulares? Certos fenômenos, que parecem autênticos, tenderiam a fazer supor esse estado. Ainda não conhecemos senão as fronteiras do mundo invisível; o porvir, sem dúvida, nos reserva o conhecimento de novas leis, que nos permitirão compreender o que se nos conserva em mistério.
 
-######  GEN-2-14-p22
+[^144]: N.E.: Hoje, sabemos que a matéria parece ser compacta e impenetrável em razão da repulsão elétrica que existe entre os átomos que a constituem, impedindo que os seres e objetos materiais se interpenetrem. No mais, a massa do átomo se concentra no seu núcleo, seríamos então uma grande aglomerado de moléculas.
 
-######  GEN-2-14-p23
+##### Formação e propriedades do perispírito
 
-######  GEN-2-14-p24
+######  07
 
-######  GEN-2-14-p25
+O perispírito, ou corpo fluídico dos Espíritos, é um dos mais importantes produtos do fluido cósmico; é uma condensação desse fluido em torno de um foco de inteligência ou alma. Já vimos que também o corpo carnal tem seu princípio de origem nesse mesmo fluido condensado e transformado em matéria tangível. No perispírito, a transformação molecular se opera diferentemente, porquanto o fluido conserva a sua imponderabilidade e suas qualidades etéreas. O corpo perispirítico e o corpo carnal têm pois origem no mesmo elemento primitivo; ambos são matéria, ainda que em dois estados diferentes.
 
-######  GEN-2-14-p26
+######  08
 
-######  GEN-2-14-p27
+Do meio onde se encontra é que o Espírito extrai o seu perispírito, isto é, esse envoltório ele o forma dos fluidos ambientes. Resulta daí que os elementos constitutivos do perispírito naturalmente variam, conforme os mundos. Dando-se Júpiter como orbe muito adiantado em comparação com a Terra, como um orbe onde a vida corpórea não apresenta a materialidade da nossa, os envoltórios perispirituais hão de ser lá de natureza muito mais quintessenciada do que aqui. Ora, assim como não poderíamos existir naquele mundo com o nosso corpo carnal, também os nossos Espíritos não poderiam nele penetrar com o perispírito terrestre que os reveste. Emigrando da Terra, o Espírito deixa aí o seu invólucro fluídico e toma outro apropriado ao mundo onde vai habitar.
 
-######  GEN-2-14-p28
+######  09
 
-######  GEN-2-14-p29
+A natureza do envoltório fluídico está sempre em relação com o grau de adiantamento moral do Espírito. Os Espíritos inferiores não podem mudar de envoltório a seu bel-prazer, pelo que não podem passar, à vontade, de um mundo para outro. Alguns há, portanto, cujo envoltório fluídico, se bem que etéreo e imponderável com relação à matéria tangível, ainda é por demais pesado, se assim nos podemos exprimir, com relação ao mundo espiritual, para não permitir que eles saiam do meio que lhes é próprio. Nessa categoria se devem incluir aqueles cujo perispírito é tão grosseiro, que eles o confundem com o corpo carnal, razão por que continuam a crer-se vivos. Esses Espíritos, cujo número é avultado, permanecem na superfície da Terra, como os encarnados, julgando-se entregues às suas ocupações terrenas. Outros um pouco mais desmaterializados não o são, contudo, suficientemente, para se elevarem acima das regiões terrestres. [^145]
 
-######  GEN-2-14-p30
+Os Espíritos superiores, ao contrário, podem vir aos mundos inferiores, e, até, encarnar neles. Tiram, dos elementos constitutivos do mundo onde entram, os materiais para a formação do envoltório fluídico ou carnal apropriado ao meio em que se encontrem. Fazem como o nobre que despe temporariamente suas vestes, para envergar os trajes plebeus, sem deixar por isso de ser nobre.
 
-######  GEN-2-14-p31
+É assim que os Espíritos da categoria mais elevada podem manifestar-se aos habitantes da Terra ou encarnar em missão entre estes. Tais Espíritos trazem consigo, não o invólucro, mas a lembrança, por intuição, das regiões donde vieram e que, em pensamento, eles veem. São videntes entre cegos.
 
-######  GEN-2-14-p32
+######  10
 
-######  GEN-2-14-p33
+A camada de fluidos espirituais que cerca a Terra se pode comparar às camadas inferiores da atmosfera, mais pesadas, mais compactas, menos puras, do que as camadas superiores. Não são homogêneos esses fluidos; são uma mistura de moléculas de diversas qualidades, entre as quais necessariamente se encontram as moléculas elementares que lhes formam a base, porém, mais ou menos alteradas. Os efeitos que esses fluidos produzem estarão na razão da soma das partes puras que eles encerram. Tal, por comparação, o álcool retificado, ou misturado, em diferentes proporções, com água ou outras substâncias: seu peso específico aumenta, por efeito dessa mistura, ao mesmo tempo que sua força e sua inflamabilidade diminuem, embora no todo continue a haver álcool puro.
 
-######  GEN-2-14-p34
+Os Espíritos chamados a viver naquele meio tiram dele seus perispíritos; porém, conforme seja mais ou menos depurado o Espírito, seu perispírito se formará das partes mais puras ou das mais grosseiras do fluido peculiar ao mundo onde ele encarna. O Espírito produz aí, sempre por comparação e não por assimilação, o efeito de um reativo químico que atrai a si as moléculas que a sua natureza pode assimilar.
 
-######  GEN-2-14-p35
+Resulta disso este fato capital: a constituição íntima do perispírito não é idêntica em todos os Espíritos encarnados ou desencarnados que povoam a Terra ou o espaço que a circunda. O mesmo já não se dá com o corpo carnal, que, como foi demonstrado, se forma dos mesmos elementos, qualquer que seja a superioridade ou a inferioridade do Espírito. Por isso, em todos, são os mesmos os efeitos que o corpo produz, semelhantes as necessidades, ao passo que diferem em tudo o que respeita ao perispírito.
 
-######  GEN-2-14-p36
+Também resulta que: o envoltório perispirítico de um Espírito se modifica com o progresso moral que este realiza em cada encarnação, embora ele encarne no mesmo meio; que os Espíritos superiores, encarnando excepcionalmente, em missão, num mundo inferior, têm perispírito menos grosseiro do que o dos indígenas [^146] desse mundo.
 
-######  GEN-2-14-p37
+[^146]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico
+às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
 
-######  GEN-2-14-p38
+######  11
 
-######  GEN-2-14-p39
+O meio está sempre em relação com a natureza dos seres que têm de nele viver: os peixes, na água; os seres terrestres, no ar; os seres espirituais no fluido espiritual ou etéreo, mesmo que estejam na Terra. O fluido etéreo está para as necessidades do Espírito, como a atmosfera para as dos encarnados. Ora, do mesmo modo que os peixes não podem viver no ar; que os animais terrestres não podem viver numa atmosfera muito rarefeita para seus pulmões, os Espíritos inferiores não podem suportar o brilho e a impressão dos fluidos mais etéreos. Não morreriam no meio desses fluidos, porque o Espírito não morre, mas uma força instintiva os mantêm afastados dali, como a criatura terrena se afasta de um fogo muito ardente ou de uma luz muito deslumbrante. Eis aí por que não podem sair do meio que lhes é apropriado à natureza; para mudarem de meio, precisam antes mudar de natureza, despojar-se dos instintos materiais que os retêm nos meios materiais; numa palavra, que se depurem e moralmente se transformem. Então, gradualmente se identificam com um meio mais depurado, que se lhes torna uma necessidade, como os olhos, para quem viveu longo tempo nas trevas, insensivelmente se habituam à luz do dia e ao fulgor do Sol.
 
-######  GEN-2-14-p40
+######  12
 
-######  GEN-2-14-p41
+Assim, tudo no universo se liga, tudo se encadeia; tudo se acha submetido à grande e harmoniosa lei de unidade, desde a mais compacta materialidade, até a mais pura espiritualidade. A Terra é qual vaso donde se escapa uma fumaça densa que vai clareando à medida que se eleva e essas parcelas rarefeitas se perdem no espaço infinito.
 
-######  GEN-2-14-p42
+A potência divina refulge em todas as partes desse grandioso conjunto e, no entanto, quer-se que Deus, não contente com o que há feito, venha perturbar essa harmonia! que se rebaixe ao papel de mágico, produzindo efeitos pueris, dignos de um prestidigitador! E ousa-se, ainda por cima, dar-lhe como rival em habilidade o próprio Satanás! Não haveria modo de amesquinhar mais a majestade divina e admiram-se de que a incredulidade progrida.
 
-######  GEN-2-14-p43
+Tendes razão de dizer: “A fé vai-se.”, mas a que se vai é a fé em tudo o que aberra do bom senso e da razão; é a fé idêntica à que outrora levava a dizerem: “Vão-se os deuses!” A fé, porém, nas coisas sérias, a fé em Deus e na imortalidade, essa está sempre vivaz no coração do homem e, por mais sufocada que tenha sido sob o amontoado de histórias pueris com que a oprimiram, ela se reerguerá mais forte, desde que se sinta libertada, tal como a planta que, comprimida, se levanta de novo, logo que a banham os raios do sol!
 
-######  GEN-2-14-p44
+Efetivamente, tudo é milagre na natureza, porque tudo é admirável e dá testemunho da sabedoria divina! Esses milagres se patenteiam a toda gente, a todos os que têm olhos de ver e ouvidos de ouvir e não em proveito apenas de alguns! Não! milagres não há no sentido que comumente emprestam a essa palavra, porque tudo decorre das leis eternas da Criação, leis essas perfeitas.
 
-######  GEN-2-14-p45
+##### Ação dos Espíritos sobre os fluidos. Criações fluídicas. Fotografia do pensamento
 
-######  GEN-2-14-p46
+######  13
 
-######  GEN-2-14-p47
+Os fluidos espirituais, que constituem um dos estados do fluido cósmico universal, são, a bem dizer, a atmosfera dos seres espirituais; o elemento donde eles tiram os materiais sobre que operam; o meio onde ocorrem os fenômenos especiais, perceptíveis à visão e à audição do Espírito, mas que escapam aos sentidos carnais, impressionáveis somente à matéria tangível; o meio onde se forma a luz peculiar ao mundo espiritual, diferente, pela causa e pelos efeitos da luz ordinária; finalmente, o veículo do pensamento, como o ar o é do som.
 
-######  GEN-2-14-p48
+######  14
+
+Os Espíritos atuam sobre os fluidos espirituais, não manipulando-os como os homens manipulam os gases, mas empregando o pensamento e a vontade. Para os Espíritos, o pensamento e a vontade são o que é a mão para o homem. Pelo pensamento, eles imprimem àqueles fluidos tal ou qual direção, os aglomeram, combinam ou dispersam, organizam com eles conjuntos que apresentam uma aparência, uma forma, uma coloração determinadas; mudam-lhes as propriedades, como um químico muda a dos gases ou de outros corpos, combinando-os segundo certas leis. É a grande oficina ou laboratório da vida espiritual. 
+
+Algumas vezes, essas transformações resultam de uma intenção; doutras, são produto de um pensamento inconsciente. Basta que o ­Espírito pense uma coisa, para que esta se produza, como basta que modele uma ária, para que esta repercuta na atmosfera.
+
+É assim, por exemplo, que um Espírito se faz visível a um encarnado que possua a vista psíquica, sob as aparências que tinha quando vivo na época em que o segundo o conheceu, embora haja ele tido, depois dessa época, muitas encarnações. Apresenta-se com o vestuário, os sinais exteriores — enfermidades, cicatrizes, membros amputados etc. — que tinha então. Um decapitado se apresentará sem a cabeça. Não quer isso dizer que haja conservado essas aparências, certo que não, porquanto, como Espírito, ele não é coxo, nem maneta, nem zarolho, nem decapitado; o que se dá é que, retrocedendo o seu pensamento à época em que tinha tais defeitos, seu perispírito lhes toma instantaneamente as aparências, que deixam de existir logo que o mesmo pensamento cessa de agir naquele sentido. Se, pois, de uma vez ele foi negro e branco de outra, apresentar-se-á como branco ou negro, conforme a encarnação a que se refira a sua evocação e à que se transporte o seu pensamento.
+
+Por análogo efeito, o pensamento do Espírito cria fluidicamente os objetos que ele esteja habituado a usar. Um avarento manuseará ouro, um militar trará suas armas e seu uniforme, um fumante o seu cachimbo, um lavrador a sua charrua e seus bois, uma mulher velha a sua roca. Para o Espírito, que é, também ele, fluídico, esses objetos fluídicos são tão reais, como o eram, no estado material, para o homem vivo; mas, pela razão de serem criações do pensamento, a existência deles é tão fugitiva quanto a deste. [^147]
+
+[^147]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
+
+######  15
+
+Sendo os fluidos o veículo do pensamento, este atua sobre os fluidos como o som sobre o ar; eles nos trazem o pensamento, como o ar nos traz o som. Pode-se pois dizer, sem receio de errar, que há, nesses fluidos, ondas e raios de pensamentos, que se cruzam sem se confundirem, como há no ar ondas e vibrações sonoros.
+
+Há mais: criando imagens fluídicas, o pensamento se reflete no envoltório perispirítico, como num espelho; toma nele corpo e aí de certo modo se fotografa. Tenha um homem, por exemplo, a ideia de matar a outro: embora o corpo material se lhe conserve impassível, seu corpo fluídico é posto em ação pelo pensamento e reproduz todos os matizes deste último; executa fluidicamente o gesto, o ato que intentou praticar.
+
+O pensamento cria a imagem da vítima e a cena inteira é pintada, como num quadro, tal qual se lhe desenrola no espírito.
+
+Desse modo é que os mais secretos movimentos da alma repercutem no envoltório fluídico; que uma alma pode ler noutra alma como num livro e ver o que não é perceptível aos olhos do corpo. Contudo, vendo a intenção, pode ela pressentir a execução do ato que lhe será a consequência, mas não pode determinar o instante em que o mesmo ato será executado, nem lhe assinalar os pormenores, nem, ainda, afirmar que ele se dê, porque circunstâncias ulteriores poderão modificar os planos assentados e mudar as disposições. Ele não pode ver o que ainda não esteja no pensamento do outro; o que vê é a preocupação habitual do indivíduo, seus desejos, seus projetos, seus desígnios bons ou maus.
+
+##### Qualidades dos fluidos
+
+######  16
+
+Tem consequências de importância capital e direta para os encarnados a ação dos Espíritos sobre os fluidos espirituais. Sendo esses fluidos o veículo do pensamento e podendo este modificar-lhes as propriedades, é evidente que eles devem achar-se impregnados das qualidades boas ou más dos pensamentos que os fazem vibrar, modificando-se pela pureza ou impureza dos sentimentos. Os maus pensamentos corrompem os fluidos espirituais, como os miasmas deletérios corrompem o ar respirável. Os fluidos que envolvem os Espíritos maus, ou que estes projetam são, portanto, viciados, ao passo que os que recebem a influência dos bons Espíritos são tão puros quanto o comporta o grau da perfeição moral destes.
+
+######  17
+
+Fora impossível fazer-se uma enumeração ou classificação dos bons e dos maus fluidos, ou especificar-lhes as respectivas qualidades, por ser tão grande quanto a dos pensamentos a diversidade deles.
+
+Os fluidos não possuem qualidades sui generis, mas as que adquirem no meio onde se elaboram; modificam-se pelos eflúvios desse meio, como o ar pelas exalações, a água pelos sais das camadas que atravessa. Conforme as circunstâncias, suas qualidades são, como as da água e do ar, temporárias ou permanentes, o que os torna muito especialmente apropriados à produção de tais ou tais efeitos.
+
+Também carecem de denominações particulares. Como os odores, eles são designados pelas suas propriedades, seus efeitos e tipos originais. Sob o ponto de vista moral, trazem o cunho dos sentimentos de ódio, de inveja, de ciúme, de orgulho, de egoísmo, de violência, de hipocrisia, de bondade, de benevolência, de amor, de caridade, de doçura etc. Sob o aspecto físico, são excitantes, calmantes, penetrantes, adstringentes, irritantes, dulcificantes, soporíficos, narcóticos, tóxicos, reparadores, expulsivos; tornam-se força de transmissão, de propulsão etc. O quadro dos fluidos seria, pois, o de todas as paixões, das virtudes e dos vícios da humanidade e das propriedades da matéria, correspondentes aos efeitos que eles produzem.
+
+######  18
+
+Sendo apenas Espíritos encarnados, os homens têm uma parcela da vida espiritual, visto que vivem dessa vida tanto quanto da vida corporal; primeiramente, durante o sono e, muitas vezes, no estado de vigília. O Espírito, encarnado, conserva, com as qualidades que lhe são próprias, o seu perispírito que, como se sabe, não fica circunscrito pelo corpo, mas irradia ao seu derredor e o envolve como que de uma atmosfera fluídica. 
+
+Pela sua união íntima com o corpo, o perispírito desempenha preponderante papel no organismo. Pela sua expansão, põe o Espírito encarnado em relação mais direta com os Espíritos livres e também com os Espíritos encarnados.
+
+O pensamento do encarnado atua sobre os fluidos espirituais, como o dos desencarnados, e se transmite de Espírito a Espírito pelas mesmas vias e, conforme seja bom ou mau, saneia ou vicia os fluidos ambientes.
+
+Desde que estes se modificam pela projeção dos pensamentos do Espírito, seu invólucro perispirítico, que é parte constituinte do seu ser e que recebe de modo direto e permanente a impressão de seus pensamentos, há de, ainda mais, guardar a de suas qualidades boas ou más. Os fluidos viciados pelos eflúvios dos maus Espíritos podem depurar-se pelo afastamento destes, cujos perispíritos, porém, serão sempre os mesmos, enquanto o Espírito não se modificar por si próprio.
+
+Sendo o perispírito dos encarnados de natureza idêntica à dos fluidos espirituais, ele os assimila com facilidade, como uma esponja se embebe de um líquido. Esses fluidos exercem sobre o perispírito uma ação tanto mais direta, quanto, por sua expansão e sua irradiação, o perispírito com eles se confunde.
+
+Atuando esses fluidos sobre o perispírito, este, a seu turno, reage sobre o organismo material com que se acha em contato molecular. Se os eflúvios são de boa natureza, o corpo ressente uma impressão salutar; se são maus, a impressão é penosa. Se são permanentes e enérgicos, os eflúvios maus podem ocasionar desordens físicas; não é outra a causa de certas enfermidades.
+
+Os meios onde superabundam os maus Espíritos são, pois, impregnados de maus fluidos que o encarnado absorve pelos poros perispiríticos, como absorve pelos poros do corpo os miasmas pestilenciais.
+
+######  19
+
+Assim se explicam os efeitos que se produzem nos lugares de reunião. Uma assembleia é um foco de irradiação de pensamentos diversos. É como uma orquestra, um coro de pensamentos, onde cada um emite uma nota. Resulta daí uma multiplicidade de correntes e de eflúvios fluídicos cuja impressão cada um recebe pelo sentido espiritual, como num coro musical cada um recebe a impressão dos sons pelo sentido da audição.
+
+Mas, do mesmo modo que há radiações sonoras, harmoniosas ou dissonantes, também há pensamentos harmônicos ou discordantes. Se o conjunto é harmonioso, agradável é a impressão; penosa, se aquele é discordante. Ora, para isso, não se faz mister que o pensamento se exteriorize por palavras; quer ele se externe, quer não, a irradiação existe sempre.
+
+Tal a causa da satisfação que se experimenta numa reunião simpática, animada de pensamentos bons e benévolos. Envolve-a uma como salubre atmosfera moral, onde se respira à vontade; sai-se reconfortado dali, porque impregnado de salutares eflúvios fluídicos. Basta, porém, que se lhe misturem alguns pensamentos maus, para produzirem o efeito de uma corrente de ar gelado num meio tépido, ou o de uma nota desafinada num concerto. Desse modo também se explica a ansiedade, o indefinível mal-estar que se experimenta numa reunião antipática, onde malévolos pensamentos provocam correntes de fluido nauseabundo.
+
+######  20
+
+O pensamento, portanto, produz uma espécie de efeito físico que reage sobre o moral, fato este que só o Espiritismo podia tornar compreensível. O homem o sente instintivamente, visto que procura as reuniões homogêneas e simpáticas, onde sabe que pode haurir novas forças morais, podendo-se dizer que, em tais reuniões, ele recupera as perdas fluídicas que sofre todos os dias pela irradiação do pensamento, como recupera, por meio dos alimentos, as perdas do corpo material. É que, com efeito, o pensamento é uma emissão que ocasiona perda real de fluidos espirituais e, conseguintemente, de fluidos materiais, de maneira tal que o homem precisa retemperar-se com os eflúvios que recebe do exterior.
+
+Quando se diz que um médico opera a cura de um doente, por meio de boas palavras, enuncia-se uma verdade absoluta, pois que um pensamento bondoso traz consigo fluidos reparadores que atuam sobre o físico, tanto quanto sobre o moral.
+
+######  21
+
+Dir-se-á que se podem evitar os homens sabidamente mal-intencionados. É fora de dúvida; mas, como fugiremos à influência dos maus Espíritos que pululam em torno de nós e por toda parte se insinuam, sem serem vistos?
+
+O meio é muito simples, porque depende da vontade do homem, que traz consigo o necessário preservativo. Os fluidos se combinam pela semelhança de suas naturezas; os dessemelhantes se repelem; há incompatibilidade entre os bons e os maus fluidos, como entre o óleo e a água.
+
+Que se faz quando está viciado o ar? Procede-se ao seu saneamento, cuida-se de depurá-lo, destruindo o foco dos miasmas, expelindo os eflúvios malsãos, por meio de mais fortes correntes de ar salubre. À invasão, pois, dos maus fluidos, cumpre se oponham os fluidos bons e, como cada um tem no seu próprio perispírito uma fonte fluídica permanente, todos trazem consigo o remédio aplicável. Trata-se apenas de purificar essa fonte e de lhe dar qualidades tais, que se constitua para as más influências um repulsor, em vez de ser uma força atrativa. O perispírito, portanto, é uma couraça a que se deve dar a melhor têmpera possível. Ora, como as suas qualidades guardam relação com as da alma, importa se trabalhe por melhorá-la, pois que são as imperfeições da alma que atraem os Espíritos maus.
+
+As moscas são atraídas pelos focos de corrupção; destruídos esses focos, elas desaparecerão. Os maus Espíritos, igualmente, vão para onde o mal os atrai; eliminado o mal, eles se afastarão. Os Espíritos realmente bons, encarnados ou desencarnados, nada têm que temer da influência dos maus.
+
+##### II. Explicação de alguns fenômenos considerados sobrenaturais
+
+**Vista espiritual ou psíquica. Dupla vista. Sonambulismo. Sonhos**
+
+######  22
+
+O perispírito é o traço de união entre a vida corpórea e a vida espiritual. É por seu intermédio que o Espírito encarnado se acha em relação contínua com os desencarnados; é, em suma, por seu intermédio, que se operam no homem fenômenos especiais, cuja causa fundamental não se encontra na matéria tangível e que, por essa razão, parecem sobrenaturais.
+
+É nas propriedades e nas irradiações do fluido perispirítico que se tem de procurar a causa da dupla vista, ou vista espiritual, a que também se pode chamar vista psíquica, da qual muitas pessoas são dotadas, frequentemente a seu mau grado, assim como da vista sonambúlica.
+
+O perispírito é o órgão sensitivo do Espírito, por meio do qual este percebe coisas espirituais que escapam aos sentidos corpóreos. Pelos órgãos do corpo, a visão, a audição e as diversas sensações são localizadas e limitadas à percepção das coisas materiais; pelo sentido espiritual, ou psíquico, elas se generalizam: o Espírito vê, ouve e sente, por todo o seu ser, tudo o que se encontra na esfera de irradiação do seu fluido perispirítico.
+
+No homem, tais fenômenos constituem a manifestação da vida espiritual; é a alma a atuar fora do organismo. Na dupla vista ou percepção pelo sentido psíquico, ele não vê com os olhos do corpo, embora, muitas vezes, por hábito, dirija o olhar para o ponto que lhe chama a atenção. Vê com os olhos da alma e a prova está em que vê perfeitamente bem com os olhos fechados e vê o que está muito além do alcance do raio visual. Lê o pensamento figurado no raio fluídico (Item 15). [^148]
+
+[^148]: Nota de Allan Kardec: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
+
+######  23
+
+Embora, durante a vida, o Espírito se encontre preso ao corpo pelo perispírito, não se lhe acha tão escravizado, que não possa alongar a cadeia que o prende e transportar-se a um ponto distante, quer sobre a Terra, quer do espaço. Repugna ao Espírito estar ligado ao corpo, porque a sua vida normal é a de liberdade e a vida corporal é a do servo preso à gleba. 
+
+Ele, por conseguinte, se sente feliz em deixar o corpo, como o pássaro em se encontrar fora da gaiola, pelo que aproveita todas as ocasiões que se lhe oferecem para dela se escapar, de todos os instantes em que a sua presença não é necessária à vida de relação. Tem-se então o fenômeno a que se dá o nome de emancipação da alma, fenômeno que se produz sempre durante o sono. De todas as vezes que o corpo repousa, que os sentidos ficam inativos, o Espírito se desprende. (O livro dos espíritos, Parte 2a , cap. VIII.)
+
+Nesses momentos ele vive da vida espiritual, enquanto que o corpo vive apenas da vida vegetativa; acha-se, em parte, no estado em que se achará após a morte: percorre o espaço, confabula com os amigos e outros Espíritos, livres ou encarnados também.
+
+O laço fluídico que o prende ao corpo só por ocasião da morte se rompe definitivamente; a separação completa somente se dá por efeito da extinção absoluta da atividade vital. Enquanto o corpo vive, o Espírito, a qualquer distância que esteja, é instantaneamente chamado à sua prisão, desde que a sua presença aí se torne necessária. Ele, então, retoma o curso da vida exterior de relação. Por vezes, ao despertar, conserva das suas peregrinações uma lembrança, uma imagem mais ou menos precisa, que constitui o sonho. Quando nada, traz delas intuições que lhe sugerem ideias e pensamentos novos e justificam o provérbio: A noite é boa conselheira.
+
+Assim igualmente se explicam certos fenômenos característicos do sonambulismo natural e magnético, da catalepsia, da letargia, do êxtase etc., e que mais não são do que manifestações da vida espiritual.149
+
+######  24
+
+Pois que a visão espiritual não se opera por meio dos olhos do corpo, segue-se que a percepção das coisas não se verifica mediante a luz ordinária: de fato, a luz material é feita para o mundo material; para o mundo espiritual, uma luz especial existe, cuja natureza desconhecemos, porém que é, sem dúvida, uma das propriedades do fluido etéreo, adequada às percepções visuais da alma. Há, portanto, luz material e luz espiritual. A primeira emana de focos circunscritos aos corpos luminosos; a segunda tem o seu foco em toda parte: tal a razão por que não há obstáculo para a visão espiritual, que não é embaraçada nem pela distância, nem pela opacidade da matéria, não existindo para ela a obscuridade. O mundo espiritual é, pois, iluminado pela luz espiritual, que tem seus efeitos próprios, como o mundo material é iluminado pela luz solar.
+
+######  25
+
+Assim, envolta no seu perispírito, a alma tem consigo o seu princípio luminoso. Penetrando a matéria por virtude da sua essência etérea, não há, para a sua visão, corpos opacos.
+
+Entretanto, a vista espiritual não é idêntica, quer em extensão, quer em penetração, para todos os Espíritos. Somente os Espíritos puros a possuem em todo o seu poder. Nos inferiores ela se acha enfraquecida pela relativa grosseria do perispírito, que se lhe interpõe qual nevoeiro.
+
+Manifesta-se em diferentes graus, nos Espíritos encarnados, pelo fenômeno da segunda vista, tanto no sonambulismo natural ou magnético, quanto no estado de vigília. Conforme o grau de poder da faculdade, diz-se que a lucidez é maior ou menor. Com o auxílio dessa faculdade é que certas pessoas veem o interior do organismo humano e descrevem as causas das enfermidades.
+
+######  26
+
+A vista espiritual, portanto, faculta percepções especiais que, não tendo por sede os órgãos materiais, se operam em condições muito diversas das que decorrem da vida corporal. Efetuando-se fora do organismo, tem ela uma mobilidade que derrui todas as previsões. Indispensável se torna estudá-la em seus efeitos e em suas causas e não assimilando-a à vista ordinária, que ela não se destina a suprir, salvo casos excepcionais, que se não poderiam tomar como regra.
+
+######  27
+
+Necessariamente incompleta e imperfeita é a vista espiritual nos Espíritos encarnados e, por conseguinte, sujeita a aberrações. Tendo por sede a própria alma, o estado desta há de influir nas percepções que aquela vista faculte. Segundo o grau de desenvolvimento, as circunstâncias e o estado moral do indivíduo, pode ela dar, quer durante o sono, quer no estado de vigília: 1o a percepção de certos fatos materiais e reais, como o conhecimento de alguns que ocorram a grande distância, os detalhes descritivos de uma localidade, as causas de uma enfermidade e os remédios convenientes; 2o a percepção de coisas igualmente reais do mundo espiritual, como a presença dos Espíritos; 3o imagens fantásticas criadas pela imaginação, análogas às criações fluídicas do pensamento (veja-se, acima, o item 14). Estas criações se acham sempre em relação com as disposições morais do Espírito que as gera. É assim que o pensamento de pessoas fortemente imbuídas de certas crenças religiosas e com elas preocupadas lhes apresenta o inferno, suas fornalhas, suas torturas e seus demônios, tais quais essas pessoas os imaginam. Às vezes, é toda uma epopeia. Os pagãos viam o Olimpo e o Tártaro, como os cristãos veem o inferno e o paraíso. Se, ao despertarem, ou ao saírem do êxtase, conservam lembrança exata de suas visões, os que as tiveram tomam-nas como realidades confirmativas de suas crenças, quando tudo não passa de produto de seus próprios pensamentos. [^150] Cumpre, pois, se faça uma distinção muito rigorosa nas visões extáticas, antes que se lhes dê crédito. A tal propósito, o remédio para a excessiva credulidade é o estudo das leis que regem o mundo espiritual.
+
+[^150]: Nota de Allan Kardec: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg.
+
+######  28
+
+Os sonhos propriamente ditos apresentam os três caracteres das visões acima descritas. Às duas primeiras categorias dessas visões pertencem os sonhos de previsões, pressentimentos e avisos. [^151] Na terceira, isto é, nas criações fluídicas do pensamento, é que se pode deparar com a causa de certas imagens fantásticas, que nada têm de real, com relação à vida corpórea, mas que apresentam às vezes, para o Espírito, uma realidade tal, que o corpo lhe sente o contrachoque, havendo casos em que os cabelos embranquecem sob a impressão de um sonho. Podem essas criações ser provocadas: pela exaltação das crenças; por lembranças retrospectivas; por gostos, desejos, paixões, temor, remorsos; pelas preocupações habituais; pelas necessidades do corpo, ou por um embaraço nas funções do organismo; finalmente, por outros Espíritos, com objetivo benévolo ou maléfico, conforme a sua natureza. [^152]
+
+[^151]: Nota de Allan Kardec: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
+
+[^152]: Nota de Allan Kardec: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
+
+##### Catalepsia. Ressurreições
+
+######  29
+
+A matéria inerte é insensível; o fluido perispirítico igualmente o é, mas transmite a sensação ao centro sensitivo, que é o Espírito.
+
+As lesões dolorosas do corpo repercutem, pois, no Espírito, qual choque elétrico, por intermédio do fluido perispiritual, que parece ter nos nervos os seus fios condutores. É o influxo nervoso dos fisiologistas que, desconhecendo as relações desse fluido com o princípio espiritual, ainda não puderam achar explicação para todos os efeitos.
+
+A interrupção pode dar-se pela separação de um membro, ou pela secção de um nervo, mas, também, parcialmente ou de maneira geral e sem nenhuma lesão, nos momentos de emancipação, de grande sobre-excitação ou preocupação do Espírito. Nesse estado, o Espírito não pensa no corpo e, em sua febril atividade, atrai a si, por assim dizer, o fluido perispiritual que, retirando-se da superfície, produz aí uma insensibilidade momentânea. Poder-se-ia também admitir que, em certas circunstâncias, no próprio fluido perispiritual uma modificação molecular se opera, que lhe tira temporariamente a propriedade de transmissão. É por isso que, muitas vezes, no ardor do combate, um militar não percebe que está ferido e que uma pessoa, cuja atenção se acha concentrada num trabalho, não ouve o ruído que se lhe faz em torno. Efeito análogo, porém mais pronunciado, se verifica nalguns sonâmbulos, na letargia e na catalepsia. Finalmente, do mesmo modo também se pode explicar a insensibilidade dos convulsionários e de muitos mártires. (Revista espírita, janeiro de 1868: “Estudo sobre os Aïssaouas”.)
+
+A paralisia já não tem absolutamente a mesma causa: aí o efeito é todo orgânico; são os próprios nervos, os fios condutores que se tornam inaptos à circulação fluídica; são as cordas do instrumento que se alteraram.
+
+######  30
+
+######  31
+
+######  32
+
+######  33
+
+######  34
+
+######  35
+
+######  36
+
+######  37
+
+######  38
+
+######  39
+
+######  40
+
+######  41
+
+######  42
+
+######  43
+
+######  44
+
+######  45
+
+######  46
+
+######  47
+
+######  48
 
 ### 2.15
 
