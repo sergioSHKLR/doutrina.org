@@ -1,5 +1,3 @@
-
-
 div#content>p>img {
     display: block;
     max-width: 75%;
@@ -25,40 +23,28 @@ figcaption {
     text-align: center;
 }
 
-blockquote {
-    padding: 5px 5px 5px 10px;
-    border: 1px solid lightgrey;
-    border-left: 4px solid grey;
+.box-center {
+    text-align: center;
 }
 
-blockquote>p>em {
+h1,
+h2 {
+    border-bottom: 1px solid lightgrey;
+    text-align: center;
+}
+
+h3,
+h4 {
+    border-bottom: 1px solid lightgrey;
+}
+
+
+h6 {
+    border-top: 1px solid gainsboro;
+    margin-bottom: -20px;
+    padding-top: 10px;
+}
+
+em {
     color: crimson;
-}
-
-blockquote>p>img {
-    vertical-align: middle;
-}
-
-blockquote {
-    overflow: hidden;
-}
-
-blockquote::before {
-    content: "❝";
-    font-size: 5em;
-    position: relative;
-    top: -42px;
-    left: -14px;
-}
-
-blockquote.spirit::first-letter {
-    background-color: dodgerblue;
-    padding: 5px;
-    border-radius: 50%;
-}
-
-blockquote.bible::first-letter {
-    background-color: orange;
-    padding: 5px;
-    border-radius: 50%;
 }

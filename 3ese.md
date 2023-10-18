@@ -3,16 +3,19 @@ title: 🕊️ O Evangelho segundo o Espiritismo
 layout: default
 ---
 
+<head>
+  <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <style>
 #col1 {background-color: #CCE6E6;}
 #col2-body {background-color: #E6F2F2;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
 h3:before {content: "🗂️ Cap. "}
-h4:before {content: "📑 Seção "}
-h5:before {content: "📄 Para. "}
-h6:before {content: "#️⃣ Item "}
+h4:before {content: "📑 "}
+h5:before {content: "📄 "}
+h6:before {content: "#️⃣ "}
 </style>
+</head>
 
 # 🕊️ O Evangelho segundo o Espiritismo
 
@@ -48,7 +51,8 @@ Modificado para o consumo digital por Sergio de
 >
 > Homens, irmãos a quem amamos, aqui estamos junto de vós. Amai-vos, também, uns aos outros e dizei do fundo do coração, fazendo as vontades do Pai, que está no Céu: Senhor! Senhor!… e podereis entrar no Reino dos Céus.
 >
-> **O Espírito da Verdade**
+> O Espírito da Verdade
+{:.spirit-multi}
 
 **📝 Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
@@ -108,7 +112,7 @@ A nossa opinião não passa, aos nossos próprios olhos, de uma opinião pessoal
 
 Na posição em que nos encontramos, a receber comunicações de perto de mil centros espíritas sérios, disseminados pelos mais diversos pontos da Terra, achamo-nos em condições de observar sobre que princípio se estabelece a concordância. Essa observação é que nos tem guiado até hoje e é a que nos guiará em novos campos que o Espiritismo terá de explorar. Porque, estudando atentamente as comunicações vindas tanto da França como do estrangeiro, reconhecemos, pela natureza toda especial das revelações, que ele tende a entrar por um novo caminho e que lhe chegou o momento de dar um passo para diante. Essas revelações, feitas muitas vezes com palavras veladas, hão frequentemente passado despercebidas a muitos dos que as obtiveram. Outros julgaram-se os únicos a possuí-las. Tomadas insuladamente, elas, para nós, nenhum valor teriam; somente a coincidência lhes imprime gravidade. Depois, chegado o momento de serem entregues à publicidade, cada um se lembrará de haver obtido instruções no mesmo sentido. Esse movimento geral, que observamos e estudamos, com a assistência dos nossos guias espirituais, é que nos auxilia a julgar da oportunidade de fazermos ou não alguma coisa.
 
-Essa verificação universal constitui uma garantia para a unidade futura do Espiritismo e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da verdade. O que deu lugar ao êxito da doutrina exposta em [**📔 O Livro dos Espíritos**](./1lde.html) e em [**📙 O Livro dos Médiuns**](./2ldm.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
+Essa verificação universal constitui uma garantia para a unidade futura do Espiritismo e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da verdade. O que deu lugar ao êxito da doutrina exposta em 👻 [**O Livro dos Espíritos**](./1lde.html) e em ✒️ [**O Livro dos Médiuns**](./2ldm.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
 
 Suponhamos praza a alguns Espíritos ditar, sob qualquer título, um livro em sentido contrário; suponhamos mesmo que, com intenção hostil, objetivando desacreditar a doutrina, a malevolência suscitasse comunicações apócrifas; que influência poderiam exercer tais escritos, desde que de todos os lados os desmentissem os Espíritos? É com a adesão destes que se deve garantir aquele que queira lançar, em seu nome, um sistema qualquer. Do sistema de um só ao de todos, medeia a distância que vai da unidade ao infinito. Que poderão conseguir os argumentos dos detratores, sobre a opinião das massas, quando milhões de vozes amigas, provindas do Espaço, se façam ouvir em todos os recantos do Universo e no seio das famílias, a infirmá-los? A esse respeito já não foi a teoria confirmada pela experiência? Que é feito das inúmeras publicações que traziam a pretensão de arrasar o Espiritismo? Qual a que nem lhe retardou a marcha? Até agora, não se considera a questão desse ponto de vista, sem contestação um dos mais graves. Cada um contou consigo, sem contar com os Espíritos.
 
@@ -326,7 +330,8 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 > ✝️ ▸ *Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir. Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota ou um til se omitirá da lei sem que tudo seja cumprido.*
 >
-> **Mateus, cap. 5, vers. 17-18, ARC**
+> Mateus, cap. 5, vers. 17-18, ARC
+{:.bible-multi}
 
 #### Moisés
 
