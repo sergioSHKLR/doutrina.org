@@ -6,12 +6,13 @@ layout: default
 <style>
 #col1 {background-color: #E8DAD0;}
 #col2-body {background-color: #F3ECE7;}
+#maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
 h3:before {content: "🗂️ Cap. "}
-h4:before {content: "📑 Seção "}
-h5:before {content: "📄 Para. "}
-h6:before {content: "#️⃣ Item "}
+h4:before {content: "📑 "}
+h5:before {content: "📄 "}
+h6:before {content: "#️⃣ "}
 </style>
 
 # 🔥 O Céu e o Inferno

@@ -1,5 +1,5 @@
 ---
-title: Início
+title: 🏠 Início
 layout: default
 ---
 
@@ -10,6 +10,7 @@ layout: default
 <style>
 #col1 {background-color: #E6E6E6;}
 #col2-body {background-color: #F2F2F2;}
+#maps-button {display: none;}
 </style>
 </head>
 

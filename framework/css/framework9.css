@@ -111,7 +111,8 @@ button:hover {
 
 * {
     box-sizing: border-box;
-    overscroll-behavior-block: contain;
+    overscroll-behavior-block: none;
+    overscroll-behavior: none;
 }
 
 .body {
@@ -212,18 +213,20 @@ p.h3 {
 .cursive {
     font-family: 'Zeyada', cursive;
     font-size: 60px;
+    margin-top: -20px;
 }
 
 p>img {
     vertical-align: middle;
 }
 
+/*
 p.emoji::first-letter {
     padding: 6px;
     border-radius: 50%;
     background-color: #fff;
 }
-
+*/
 
 @media only screen and (max-width:782px) {
 

@@ -9,6 +9,8 @@ layout: default
 <style>
 #col1 {background-color: #D9E1F9;}
 #col2-body {background-color: #ECF0FC;}
+    #maps-button {display: none;}
+
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
 h3:before {content: "🗂️ Cap. "}
