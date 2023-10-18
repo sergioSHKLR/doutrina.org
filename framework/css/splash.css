@@ -4,11 +4,11 @@
   font-size: 20px;
   word-spacing: 5px;
   color: #555;
-  background-color: floralwhite;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #fffaf0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
   padding: 30px;
   margin: 40px;
-  transform: rotate(1deg);
+  transform: rotate(1deg)
 }
 
 .center-button {
@@ -16,37 +16,37 @@
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  border: 1px solid gainsboro;
+  border: 1px solid #dcdcdc;
   padding: 12px 18px;
   border-radius: 5px;
   text-decoration: none;
   color: #333;
   display: block;
   width: 50px;
-  background-color: #ddd;
+  background-color: #ddd
 }
 
 .center-button:hover {
   background-color: #4ec1f5;
-  color: #000;
+  color: #000
 }
 
-@media (orientation: landscape) {
+@media (orientation:landscape) {
   .hero {
     font-size: 18px;
-      max-width: 380px;
-      max-height: 380px;
-      margin-left: auto;
-      margin-right: auto;
+    max-width: 380px;
+    max-height: 380px;
+    margin-left: auto;
+    margin-right: auto
   }
 }
 
-@media (orientation: portrait) {
+@media (orientation:portrait) {
   .hero {
     font-size: 17px;
     max-width: 350px;
     max-height: 350px;
     margin-left: auto;
-    margin-right: auto;;
+    margin-right: auto
   }
 }
