@@ -2,14 +2,15 @@
 title: 👻 O Livro dos Espíritos
 layout: default
 ---
+
 <head>
-  <link rel="stylesheet" href="../framework/css/blockquote1.css">
-  <meta name="theme-color" content="mediumblue">
+<link rel="stylesheet" href="../framework/css/blockquote1.css">
+<meta name="theme-color" content="mediumblue">
 <style>
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
 #col1 {background-color: #D9E1F9;}
 #col2-body {background-color: #ECF0FC;}
-    #maps-button {display: none;}
-
+#maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
 h3:before {content: "🗂️ Cap. "}
@@ -38,23 +39,26 @@ h6:before {content: "#️⃣ "}
 
 ### 0-01
 
-Filosofia Espiritualista
+|  |
+|:---:|
+| Filosofia Espiritualista |
+|  |
+| 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos){:target="ext"} |
+|  |
+| Princípios da Doutrina Espírita |
+|  |
+| Sobre a imortalidade da alma, a natureza dos 👻 Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns. |
+|  |
+| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"} |
+|  |
+| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"} |
+|  |
+| Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"} |
+|  |
+| Modificado para o consumo digital por Sergio de |
+| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
+|  |
 
-👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos){:target="ext"}
-
-Princípios da Doutrina Espírita
-
-Sobre a imortalidade da alma, a natureza dos 👻 Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns.
-
-por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.
-
-Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}
-
-Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}
-
-Modificado para o consumo digital por Sergio de  
-
-⭕ [shklr.org](https://shklr.org){:target="_blank"}
 
 ### 0-02
 

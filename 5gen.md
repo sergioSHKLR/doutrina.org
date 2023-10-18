@@ -4,11 +4,10 @@ layout: default
 ---
 
 <head>
-  <meta name="theme-color" content="darkgreen">
-
+<link rel="stylesheet" href="../framework/css/blockquote1.css">
+<meta name="theme-color" content="darkgreen">
 <style>
-table, th, tr, td {border: 1px solid gainsboro; border-collapse: collapse; padding: 10px;}
-#col1 {background-color: #CCE0CC;}
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}#col1 {background-color: #CCE0CC;}
 #col2-body {background-color: #E6F0E6;}
 #maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
@@ -26,23 +25,25 @@ h6:before {content: "#️⃣ "}
 
 ### 0.01
 
-Ética Espírita
-
-🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese){:target="ext"}
-
-Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.
-
-Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.
-
-por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.
-
-Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}.
-
-Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"}
-
-Modificado para o consumo digital por Sergio de 
-
-⭕ [shklr.org](https://shklr.org){:target="_blank"}
+|  |
+|:---:|
+| Ética Espírita |
+|  |
+| 🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese){:target="ext"} |
+|  |
+| Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
+|  |
+| Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
+|  |
+| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
+|  |
+| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}. |
+|  |
+| Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"} |
+|  |
+| Modificado para o consumo digital por Sergio de |
+| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
+|  |
 
 ### 0.02
 

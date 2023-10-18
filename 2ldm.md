@@ -4,9 +4,10 @@ layout: default
 ---
 
 <head>
-  <meta name="theme-color" content="purple">
-
+<link rel="stylesheet" href="../framework/css/blockquote1.css">
+<meta name="theme-color" content="purple">
 <style>
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
 #col1 {background-color: #DBCCE6;}
 #col2-body {background-color: #EDE6F3;}
 #maps-button {display: none;}
@@ -25,21 +26,23 @@ h6:before {content: "#️⃣ "}
 
 ### 0.01
 
-Espiritismo Experimental
-
-✒️ [O Livro dos Médiuns](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){:target="ext"}
-
-Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}.
-
-por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.
-
-Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}
-
-Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){:target="_blank"}
-
-Modificado para o consumo digital por Sergio de
-
-⭕ [shklr.org](https://shklr.org){:target="_blank"}
+|  |
+|:---:|
+Espiritismo Experimental |
+|  |
+| ✒️ [O Livro dos Médiuns](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){:target="ext"} |
+|  |
+| Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}. |
+|  |
+| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
+|  |
+| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}
+|  | |
+| Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){:target="_blank"} |
+|  |
+| Modificado para o consumo digital por Sergio de |
+| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
+|  |
 
 ### 0.02
 
