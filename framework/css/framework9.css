@@ -230,6 +230,8 @@ p.emoji::first-letter {
 }
 */
 
+.hide {display: none;}
+
 @media only screen and (max-width:782px) {
 
     #brand-col1,
