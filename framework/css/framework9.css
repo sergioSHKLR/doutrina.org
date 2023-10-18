@@ -111,8 +111,10 @@ button:hover {
 
 * {
     box-sizing: border-box;
+    /*
     overscroll-behavior-block: none;
     overscroll-behavior: none;
+    */
 }
 
 .body {
