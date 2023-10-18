@@ -48,3 +48,5 @@ h6 {
 em {
     color: crimson;
 }
+
+#content a:any-link {color: mediumblue;}
