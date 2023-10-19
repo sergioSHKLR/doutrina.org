@@ -9,6 +9,7 @@ layout: default
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}#col1 {background-color: #CCE0CC;}
 #col2-body {background-color: #E6F0E6;}
+#col2-head {background-color: darkgreen;}
 #maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
