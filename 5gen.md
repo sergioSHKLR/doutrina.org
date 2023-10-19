@@ -7,7 +7,7 @@ layout: default
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="darkgreen">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}#col1 {background-color: #CCE0CC;}
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
 #col2-body {background-color: #E6F0E6;}
 #col2-head {background-color: darkgreen;}
 #maps-button {display: none;}

@@ -8,7 +8,6 @@ layout: default
 <meta name="theme-color" content="chocolate">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
-#col1 {background-color: #E8DAD0;}
 #col2-head {background-color: chocolate;}
 #col2-body {background-color: #F3ECE7;}
 #maps-button {display: none;}
