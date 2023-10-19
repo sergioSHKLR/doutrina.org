@@ -23,9 +23,9 @@ h6:before {content: "#️⃣ "}
 
 # 🕊️ O Evangelho segundo o Espiritismo
 
-## 0
+## 0. Pré-textual {#0}
 
-### 0.01
+### 0.01. Folha de rosto {#0.01}
 
 |  |
 |:---:|
@@ -47,7 +47,7 @@ h6:before {content: "#️⃣ "}
 | ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
 |  |
 
-### 0.02
+### 0.02. Prefácio {#0.02}
 
 > 👻 ▸ Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 >
@@ -64,7 +64,7 @@ h6:before {content: "#️⃣ "}
 
 ---
 
-### 0.03
+### 0.03. Intrudução {#0.03}
 
 #### 1. Objetivo desta obra
 
@@ -328,9 +328,9 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
-## 1
+## 1. Miolo {#1}
 
-### 1.01
+### 1.01. Não vim destruir a lei {#1.01}
 
 #### 01
 
@@ -463,7 +463,7 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 
 ---
 
-### 1.02
+### 1.02. Meu Reino não é deste mundo {#1.02}
 
 #### 01
 
@@ -537,7 +537,7 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 
 ---
 
-### 1.03
+### 1.03. Há muitas moradas na casa de meu Pai {#1.03}
 
 #### 01
 
@@ -671,7 +671,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 ---
 
-### 1.04
+### 1.04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#1.04}
 
 #### 01
 
@@ -872,7 +872,7 @@ Não poderiam os Espíritos encarnar uma única vez em determinado globo e preen
 
 ---
 
-### 1.05
+### 1.05. Bem-aventurados os aflitos {#1.05}
 
 #### 01
 
@@ -1244,7 +1244,7 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 
 ---
 
-### 1.06
+### 1.06. O Cristo Consolador {#1.06}
 
 #### O jugo leve
 
@@ -1330,7 +1330,7 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 
 ---
 
-### 1.07
+### 1.07. Bem-aventurados os pobres de espírito {#1.07}
 
 #### O que se deve entender por pobres de espírito
 
@@ -1486,7 +1486,7 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 
 ---
 
-### 1.08
+### 1.08. Bem-aventurados os que têm puro o coração {#1.08}
 
 #### Simplicidade e pureza de coração
 
@@ -1675,7 +1675,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 
 ---
 
-### 1.09
+### 1.09. Bem-aventurados os que são brandos e pacíficos {#1.09}
 
 #### Injúrias e violências
 
@@ -1787,7 +1787,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 
 ---
 
-### 1.10
+### 1.10. Bem-aventurados os que são misericordiosos {#1.10}
 
 #### Perdoai, para que Deus vos perdoe
 
@@ -1980,7 +1980,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 
 ---
 
-### 1.11
+### 1.11. Amar o próximo como a si mesmo {#1.11}
 
 #### O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores
 
@@ -2158,7 +2158,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 
 ---
 
-### 1.12
+### 1.12. Amai os vossos inimigos {#1.12}
 
 #### Retribuir o mal com o bem
 
@@ -2308,7 +2308,7 @@ O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos hom
 
 ---
 
-### 1.13
+### 1.13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#1.13}
 
 #### Fazer o bem sem ostentação
 
@@ -2562,7 +2562,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 
 ---
 
-### 1.14
+### 1.14. Honrai a vosso pai e a vossa mãe {#1.14}
 
 #### 01
 
@@ -2666,7 +2666,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 
 ---
 
-### 1.15
+### 1.15. Fora da caridade não há salvação {#1.15}
 
 #### O de que precisa o Espírito para se salvar. Parábola do Bom Samaritano
 
@@ -2760,7 +2760,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 
 ---
 
-### 1.16
+### 1.16. Não se pode servir a Deus e a Mamon {#1.16}
 
 #### Salvação dos ricos
 
@@ -2942,7 +2942,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 
 ---
 
-### 1.17
+### 1.17. Sede perfeitos {#1.17}
 
 #### Caracteres da perfeição
 
@@ -3128,7 +3128,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 
 ---
 
-### 1.18
+### 1.18. Muitos os chamados, poucos os escolhidos {#1.18}
 
 #### Parábola do Festim das Bodas
 
@@ -3288,7 +3288,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 
 ---
 
-### 1.19
+### 1.19. A fé transporta montanhas {#1.19}
 
 #### Poder da fé
 
@@ -3392,7 +3392,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 ---
 
-### 1.20
+### 1.20. Os trabalhadores da última hora {#1.20}
 
 #### 01
 
@@ -3482,7 +3482,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 ---
 
-### 1.21
+### 1.21. Haverá falsos cristos e falsos profetas {#1.21}
 
 #### Conhece-se a árvore pelo fruto
 
@@ -3616,7 +3616,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 
 ---
 
-### 1.22
+### 1.22. Não separeis o que Deus juntou {#1.22}
 
 #### Indissolubilidade do casamento
 
@@ -3652,7 +3652,7 @@ Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério
 
 ---
 
-### 1.23
+### 1.23. Estranha moral {#1.23}
 
 #### Odiar os pais
 
@@ -3778,7 +3778,7 @@ Essas palavras de Jesus devem, pois, entender-se com referência às cóleras qu
 
 ---
 
-### 1.24
+### 1.24. Não ponhais a candeia debaixo do alqueire {#1.24}
 
 #### Candeia sob o alqueire. Por que fala Jesus por parábolas
 
@@ -3909,7 +3909,7 @@ Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, 
 
 ---
 
-### 1.25
+### 1.25. Buscai e achareis {#1.25}
 
 #### Ajuda-te a ti mesmo, que o céu te ajudará
 
@@ -3997,7 +3997,7 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 
 ---
 
-### 1.26
+### 1.26. Dai gratuitamente o que gratuitamente recebestes {#1.26}
 
 #### Dom de curar
 
@@ -4074,7 +4074,7 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 
 ---
 
-### 1.27
+### 1.27. Pedi e obtereis {#1.27}
 
 #### Qualidades da prece
 
@@ -4257,7 +4257,7 @@ Avançai, avançai pelas veredas da prece e ouvireis as vozes dos anjos. Que har
 
 ---
 
-### 1.28
+### 1.28. Coletânea de preces espíritas {#1.28}
 
 #### Preâmbulo
 

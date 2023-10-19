@@ -204,6 +204,8 @@ p>img {
     border-right: 1px solid #d3d3d3
 }
 
+#portrait-notice {color: crimson; border: 1px solid crimson; text-align: center;}
+
 /* #endregion */
 
 /* #region ID's */
@@ -298,5 +300,15 @@ p>img {
         display: none
     }
 }
+
+@media only screen and (orientation:portrait) {
+    #portrait-notice {
+      display: block
+    }}
+
+@media only screen and (orientation:landscape) {
+        #portrait-notice {
+          display: none
+        }}
 
 /* #endregion */

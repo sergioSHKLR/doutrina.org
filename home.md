@@ -18,6 +18,8 @@ layout: default
 
 **Pré-release Alpha 10.23. Em desenvolvimento diário. Última atualização em 16 Out 2023.**
 
+<div id="portrait-notice">❗<br> No tablet ou celular?<br>Clique no botão acima <span class="material-symbols-outlined" style="color: red; vertical-align: bottom">fullscreen</span> para entrar no modo tela cheia e use seu dispositivo no modo deitado (landscape) para poder visualizar o painel complementar.</div>
+
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita em três colunas, dispostas assim:
 
 ![ilustração de um website com três colunas](./content/images/doutrina-layout.svg)

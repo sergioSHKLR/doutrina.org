@@ -1,0 +1,66 @@
+.sans {
+    font-family: sans-serif !important;
+  }
+  
+  .serif {
+    font-family: 'Georgia' !important;
+    font-size: 105%
+  }
+  
+  .mono {
+    font-family: monospace !important;
+    font-size: 95%
+  }
+  
+  .slab {
+    font-family: 'Roboto Slab';
+  }
+  
+  .small {
+    font-size: 14px;
+  }
+  
+  .medium {
+    font-size: 16px;
+  }
+  
+  .large {
+    font-size: 18px;
+  }
+  
+  .narrow {
+    line-height: 1.3;
+  }
+  
+  .normal {
+    line-height: 1.5;
+  }
+  
+  .wide {
+    line-height: 1.7;
+  }
+  
+  .white {
+    background-color: white;
+  }
+  
+  .grey {
+    background-color: #ccc;
+    color: #444;
+  }
+  
+  .sepia {
+    background-color: #f4ecd8;
+    color: #5b4636
+  }
+  
+  .navy {
+    background-color: #09092a;
+    color: lightgrey;
+  }
+  
+  .black {
+    background-color: #222;
+    color: lightgrey;
+  }
+  
