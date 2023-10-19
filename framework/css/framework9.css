@@ -1,4 +1,12 @@
-/* CSSTidy 1.7.3: Sun, 15 Oct 2023 20:04:30 -0500 */
+* {
+    box-sizing: border-box;
+    /*
+    overscroll-behavior-block: none;
+    overscroll-behavior: none;
+    */
+}
+
+/* #region BRAND */
 #brand-col1 a:any-link,
 #brand-col2 a:any-link {
     color: #fff !important
@@ -10,6 +18,9 @@
     top: -5px
 }
 
+/* #endregion */
+
+/* #region COL1 */
 #col1,
 #col1-head {
     width: 200px
@@ -32,19 +43,9 @@
     text-underline-offset: 2px
 }
 
-#col1-head a:any-link,
-#brand-col2 a:any-link,
-#col2-body a:any-link {
-    text-decoration: none
-}
+/* #endregion */
 
-#col2,
-#col3 {
-    flex-grow: 1;
-    min-width: 270px;
-    width: calc(100vh * .5)
-}
-
+/* #region COL2 */
 #col2-body {
     flex-grow: 1;
     font-weight: 300;
@@ -59,11 +60,9 @@
     text-underline-offset: 2px
 }
 
-#col2-head,
-#col3-body {
-    flex-grow: 1
-}
+/* #endregion */
 
+/* #region COL3 */
 #col3-head {
     flex-grow: 1;
     margin-top: -2px;
@@ -90,87 +89,9 @@ button:hover {
     transition-timing-function: ease-in-out
 }
 
-#content {
-    font-family: 'Roboto Slab'
-}
+/* #endregion */
 
-#jekyll-toc {
-    list-style-type: none;
-    margin-left: -40px
-}
-
-#jekyll-toc>li::before {
-    content: "🗃️ Parte ";
-    line-height: 2.2;
-}
-
-#jekyll-toc>li>ul>li::before {
-    content: "🗂️ Cap. ";
-    line-height: 2.2;
-}
-
-* {
-    box-sizing: border-box;
-    /*
-    overscroll-behavior-block: none;
-    overscroll-behavior: none;
-    */
-}
-
-.body {
-    padding: 10px
-}
-
-.flex {
-    display: flex;
-    height: 100vh;
-    overflow-y: scroll
-}
-
-.flex-body {
-    display: flex;
-    height: calc(100vh - 50px)
-}
-
-.flex-body>div {
-    border-right: 1px solid #d3d3d3;
-    overflow-y: scroll
-}
-
-.flex-head {
-    display: flex;
-    height: 50px
-}
-
-.flex-head>div {
-    border-bottom: 1px solid #d3d3d3;
-    border-right: 1px solid #d3d3d3
-}
-
-.fr {
-    float: right
-}
-
-.head {
-    background-color: #222;
-    display: inline-block;
-    padding: 10px
-}
-
-.jekyll-toc-2 {
-    line-height: 2.2;
-    list-style-type: none;
-    margin-left: -30px
-}
-
-.material-symbols-outlined {
-    color: #fff
-}
-
-.shades-on {
-    filter: brightness(.1)
-}
-
+/* #region ELEMENTS */
 strong {
     font-weight: bolder !important
 }
@@ -222,16 +143,110 @@ p>img {
     vertical-align: middle;
 }
 
-/*
-p.emoji::first-letter {
-    padding: 6px;
-    border-radius: 50%;
-    background-color: #fff;
+/* #endregion */
+
+/* #region CLASSES */
+.flex {
+    display: flex;
+    height: 100vh;
+    overflow-y: scroll
 }
-*/
 
-.hide {display: none;}
+.body {
+    padding: 10px
+}
 
+.fr {
+    float: right
+}
+
+.head {
+    background-color: #222;
+    display: inline-block;
+    padding: 10px
+}
+
+.jekyll-toc-2 {
+    line-height: 2.2;
+    list-style-type: none;
+    margin-left: -30px
+}
+
+.material-symbols-outlined {
+    color: #fff
+}
+
+.shades-on {
+    filter: brightness(.1)
+}
+
+.hide {
+    display: none;
+}
+
+.flex-body {
+    display: flex;
+    height: calc(100vh - 50px)
+}
+
+.flex-body>div {
+    border-right: 1px solid #d3d3d3;
+    overflow-y: scroll
+}
+
+.flex-head {
+    display: flex;
+    height: 50px
+}
+
+.flex-head>div {
+    border-bottom: 1px solid #d3d3d3;
+    border-right: 1px solid #d3d3d3
+}
+
+/* #endregion */
+
+/* #region ID's */
+#col1-head a:any-link,
+#brand-col2 a:any-link,
+#col2-body a:any-link {
+    text-decoration: none
+}
+
+#col2,
+#col3 {
+    flex-grow: 1;
+    min-width: 270px;
+    width: calc(100vh * .5)
+}
+
+#col2-head,
+#col3-body {
+    flex-grow: 1
+}
+
+#content {
+    font-family: 'Roboto Slab'
+}
+
+#jekyll-toc {
+    list-style-type: none;
+    margin-left: -40px
+}
+
+#jekyll-toc>li::before {
+    content: "🗃️ Parte ";
+    line-height: 2.2;
+}
+
+#jekyll-toc>li>ul>li::before {
+    content: "🗂️ Cap. ";
+    line-height: 2.2;
+}
+
+/* #endregion */
+
+/* #region MEDIA QUERIES */
 @media only screen and (max-width:782px) {
 
     #brand-col1,
@@ -283,3 +298,5 @@ p.emoji::first-letter {
         display: none
     }
 }
+
+/* #endregion */

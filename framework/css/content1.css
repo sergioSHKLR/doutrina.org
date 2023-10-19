@@ -50,3 +50,49 @@ em {
 }
 
 #content a:any-link {color: mediumblue;}
+
+blockquote {
+    padding: 5px 5px 5px 10px;
+    border: 1px solid lightgrey;
+    border-left: 4px solid grey;
+    margin-left: 0px;
+    width: 100%;
+}
+
+blockquote>p>em {
+    color: crimson;
+}
+
+blockquote>p>img {
+    vertical-align: middle;
+}
+
+/* ONE LINE */
+
+
+/* MULTI LINE */
+
+blockquote.spirit-multi>p:last-child {
+    text-align: right;
+    padding-right: 10px;
+    font-weight: bolder;
+}
+
+
+blockquote,
+blockquote.spirit-multi {
+    border-left: 4px solid dodgerblue;
+}
+
+/* BIBLE */
+
+
+blockquote.bible-multi>p:nth-child(2) {
+    text-align: right;
+    padding-right: 10px;
+}
+
+blockquote.bible,
+blockquote.bible-multi {
+    border-left: 4px solid orchid;
+}

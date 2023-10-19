@@ -3,6 +3,7 @@ title: 🌱 A Gênese
 layout: default
 ---
 
+<!-- #region HEAD -->
 <head>
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="darkgreen">
@@ -19,6 +20,7 @@ h5:before {content: "📄 "}
 h6:before {content: "#️⃣ "}
 </style>
 </head>
+<!-- #endregion -->
 
 # 🌱 A Gênese
 

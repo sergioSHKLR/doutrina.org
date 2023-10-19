@@ -3,6 +3,7 @@ title: 👻 O Livro dos Espíritos
 layout: default
 ---
 
+<!-- #region  HEAD -->
 <head>
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="mediumblue">
@@ -19,6 +20,7 @@ h5:before {content: "📄 "}
 h6:before {content: "#️⃣ "}
 </style>
 </head>
+<!-- #endregion -->
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns

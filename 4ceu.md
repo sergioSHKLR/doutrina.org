@@ -3,6 +3,7 @@ title: 🔥 O Céu e o Inferno
 layout: default
 ---
 
+<!-- #region HEAD -->
 <head>
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="chocolate">
@@ -19,6 +20,7 @@ h5:before {content: "📄 "}
 h6:before {content: "#️⃣ "}
 </style>
 </head>
+<!-- #endregion -->
 
 # 🔥 O Céu e o Inferno
 

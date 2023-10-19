@@ -1,6 +1,6 @@
 // this js handles fullscreen, side panel, notes panels and anti-distraction curtain.
 
-// FULLSCREEN
+/* #region FULLSCREEN */
 
 /* Get the documentElement (<html>) to display the page in fullscreen */
 var elem = document.documentElement;
@@ -26,18 +26,17 @@ function closeFullscreen() {
     document.msExitFullscreen();
   }
 }
+/* #endregion */
 
-// CURTAIN
+/* #region CURTAIN */
 function toggleShades() {
   var element = document.getElementById("ext-iframe");
   element.classList.toggle("shades-on");
 }
+/* #endregion */
 
-// MENU BUTTON
+/* #region  MENU */
 function buttonOne() {
-
-
-
   // show-hide column 1
   var z = document.getElementById("col1");
   if (z.style.display === "block") {
@@ -46,5 +45,4 @@ function buttonOne() {
     z.style.display = "block";
   }
 }
-
-
+/* #endregion */
