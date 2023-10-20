@@ -8,7 +8,7 @@ layout: default
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="mediumblue">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: .5;}
 #col2-head {background-color: mediumblue;}
 #col2-body {background-color: #ECF0FC;}
 #maps-button {display: none;}

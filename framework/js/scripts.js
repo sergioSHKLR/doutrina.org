@@ -89,12 +89,8 @@ function buttonOne() {
 
 // changes bg color to black
 function bgBlack() {
-  var element = document.getElementById("content");
-  element.classList.remove("grey", "sepia", "navy", "white");
-  element.classList.add("black");
-  var element = document.getElementById("col2-body");
-  element.classList.remove("grey", "sepia", "navy", "white");
-  element.classList.add("black");
+  var element = document.body;
+  element.classList.toggle("dark-mode");
 }
 
 // changes bg color to grey
@@ -125,19 +121,7 @@ function bgWhite() {
   element.classList.add("white");
 }
 
-// changes font size to large
-function fontLarge() {
-  var element = document.getElementById("content");
-  element.classList.remove("small", "medium");
-  element.classList.add("large");
-}
 
-// changes font size to medium (default)
-function fontMedium() {
-  var element = document.getElementById("content");
-  element.classList.remove("small", "large");
-  element.classList.add("medium");
-}
 
 // changes font family to monospace
 function fontMono() {
@@ -203,5 +187,11 @@ function toggleAdjusts() {
     a.style.display = "none";
   } else {
     a.style.display = "block";
+  }
+  var b = document.getElementById("descriptor");
+  if (b.style.display === "block") {
+    b.style.display = "none";
+  } else {
+    b.style.display = "block";
   }
 }

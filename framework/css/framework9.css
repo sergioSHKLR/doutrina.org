@@ -50,7 +50,8 @@
     flex-grow: 1;
     font-weight: 300;
     line-height: 1.7;
-    overflow-x: hidden
+    overflow-x: hidden;
+    padding: 40px;
 }
 
 #col2-body a:hover {
@@ -265,6 +266,8 @@ p>img {
     #col2-head {
         padding-right: 10px
     }
+
+    #content-adjusts {top: 7px;}
 }
 
 @media only screen and (min-width:783px) and (max-width:1419px) {
@@ -278,6 +281,9 @@ p>img {
     #brand-col2 {
         display: inline-flex
     }
+
+    #content-adjusts {top: 7px;}
+
 }
 
 @media only screen and (min-width:1420px) and (max-width:1919px) {
@@ -291,6 +297,9 @@ p>img {
     #brand-col2 {
         display: inline-flex
     }
+
+    #content-adjusts {top: 7px;}
+
 }
 
 @media only screen and (min-width:1920px) {
@@ -299,6 +308,9 @@ p>img {
     #col4 {
         display: none
     }
+
+    #content-adjusts {top: 40px;}
+
 }
 
 @media only screen and (orientation:portrait) {

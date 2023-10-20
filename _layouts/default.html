@@ -59,7 +59,8 @@
   <!-- CSS -->
   <link rel="stylesheet" href="../framework/css/framework9.css">
   <link rel="stylesheet" href="../framework/css/content1.css">
-  <link rel="stylesheet" href="../framework/css/adjusts.css">
+  <!--
+  <link rel="stylesheet" href="../framework/css/adjusts.css"> -->
 
   <!-- PWA -->
   <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
@@ -121,11 +122,6 @@
 
           <!-- DETAILS -->
           <p class="h3">Detalhes</p>
-          <!--
-<p>📔&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/wiki" title="wiki">Wiki</a></p>
-<p>💬&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/discussions"
- title="forum">Forum</a></p>
- -->
 
           <p class="emoji">⚖️&nbsp;<a target="_blank" href="./info.md" title="Info">Info</a></p>
           <p class="emoji">🕷️&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues"
@@ -149,55 +145,58 @@
           <span id="brand-col2" style="font-family: 'Russo One'; font-size: 24px; margin-left: -10px;">💧<a
               href="./home.html" title="voltar ao início">doutrina.org</a></span>
 
-              <button id="open-fullscreen" class="fr" onclick="openFullscreen()" title="tela cheia">
-                <span class="material-symbols-outlined">fullscreen</span></button>
+          <button id="open-fullscreen" class="fr" onclick="openFullscreen()" title="tela cheia">
+            <span class="material-symbols-outlined">fullscreen</span></button>
 
-                <button id="close-fullscreen" class="fr" hidden onclick="closeFullscreen()" title="tela normal">
-                  <span class="material-symbols-outlined">fullscreen_exit</span></button>
+          <button id="close-fullscreen" class="fr" hidden onclick="closeFullscreen()" title="tela normal">
+            <span class="material-symbols-outlined">fullscreen_exit</span></button>
+<!--
+          <button class="fr" onclick="toggleAdjusts()"><span class="material-symbols-outlined">
+              tune
+            </span></button>
 
-              <button class="fr" onclick="toggleAdjusts()"><span class="material-symbols-outlined">
-                tune
-                </span></button>
+          <div id="content-adjusts"
+            style="padding: 12px 10px; margin: 0 -10px; display: none; z-index: 1; position:relative; right: 0; background-color: #222; opacity: .5;">
 
-            <div id="content-adjusts" style="padding: 5px 10px; margin: 0 -10px; display: none; z-index: 1; top: 51px; right: 0; background-color: #222; opacity: .5;">
-            
-              <button onclick="bgBlack()"><span class="material-symbols-outlined">
+            <button id="btn1" onclick="bgBlack()"><span class="material-symbols-outlined">
                 dark_mode
-                </span></button>
-              <button onclick="fontSmall()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn2"  onclick="fontSmall()"><span class="material-symbols-outlined">
                 text_decrease
-                </span></button>
-              
-              <button onclick="fontLarge()"><span class="material-symbols-outlined">
+              </span></button>
+
+            <button id="btn3"  onclick="fontLarge()"><span class="material-symbols-outlined">
                 text_increase
-                </span></button>
-              <button onclick="fontMono()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn4"  onclick="fontMono()"><span class="material-symbols-outlined">
                 looks_one
-                </span></button>
-              <button onclick="fontSans()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn5"  onclick="fontSans()"><span class="material-symbols-outlined">
                 looks_two
-                </span></button>
-              <button onclick="fontSerif()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn6"  onclick="fontSerif()"><span class="material-symbols-outlined">
                 looks_3
-                </span></button>
-              <button onclick="fontSlab()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn7"  onclick="fontSlab()"><span class="material-symbols-outlined">
                 looks_4
-                </span></button>
-              <button onclick="lineNarrow()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn8"  onclick="lineNarrow()"><span class="material-symbols-outlined">
                 density_small
-                </span></button>
-              <button onclick="lineNormal()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn9"  onclick="lineNormal()"><span class="material-symbols-outlined">
                 density_medium
-                </span></button>
-              <button onclick="lineWide()"><span class="material-symbols-outlined">
+              </span></button>
+            <button id="btn10"  onclick="lineWide()"><span class="material-symbols-outlined">
                 density_large
-                </span></button>
-            </div>
+              </span></button>
+          </div>
+          <div id="descriptor"
+            style="padding: 3px 10px; margin: 0 -10px; display: none; z-index: 1; position:relative; top:40px; right: 0; background-color: #4ec1f5; opacity: .95;">
+            <p>&nbsp;<span id="desc1">tela escura</span><span id="desc2">fonte menor</span><span id="desc3">fonte maior</span><span id="desc4">fonte mono</span><span
+                id="desc5">fonte serifa</span><span id="desc6">fonte slab</span><span id="desc7">linha estreita</span><span id="desc8">linha normal</span><span id="desc9">linha larga</span></p>
 
+          </div>  -->
 
-        
-          <!--<button onclick="closeFullscreen()" title="tela normal"><span
- class="material-symbols-outlined">fullscreen_exit</span></button>&nbsp;-->
         </div>
       </div>
       <div class="flex-body">
