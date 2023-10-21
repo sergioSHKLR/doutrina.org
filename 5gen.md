@@ -2979,13 +2979,53 @@ A aptidão de um médium para coisas que lhe são estranhas também tem frequent
 
 [^165]: Nota de Allan Kardec: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
 
+##### Obsessões e possessões
+
 ######  45
+
+Pululam em torno da Terra os maus Espíritos, em consequência da inferioridade moral de seus habitantes. A ação malfazeja desses Espíritos é parte integrante dos flagelos com que a humanidade se vê a braços neste mundo. A obsessão que é um dos efeitos de semelhante ação, como as enfermidades e todas as atribulações da vida, deve, pois, ser considerada como provação ou expiação e aceita com esse caráter.
+
+Chama-se obsessão à ação persistente que um Espírito mau exerce sobre um indivíduo. Apresenta caracteres muito diferentes, que vão desde a simples influência moral, sem perceptíveis sinais exteriores, até a perturbação completa do organismo e das faculdades mentais. Ela oblitera todas as faculdades mediúnicas. Na mediunidade audiente e psicográfica, traduz-se pela obstinação de um Espírito em querer manifestar-se, com exclusão de qualquer outro.
 
 ######  46
 
+Assim como as enfermidades resultam das imperfeições físicas que tornam o corpo acessível às perniciosas influências exteriores, a obsessão decorre sempre de uma imperfeição moral, que dá ascendência a um Espírito mau. A uma causa física, opõe-se uma força física; a uma causa moral preciso é se contraponha uma força moral. Para preservá-lo das enfermidades, fortifica-se o corpo; para garanti-la contra a obsessão, tem-se que fortalecer a alma; donde, para o obsidiado, a necessidade de trabalhar por se melhorar a si próprio, o que as mais das vezes basta para livrá-lo do obsessor, sem o socorro de terceiros. Necessário se torna este socorro, quando a obsessão degenera em subjugação e em possessão, porque nesse caso o paciente não raro perde a vontade e o livre-arbítrio.
+
+Quase sempre a obsessão exprime vingança tomada por um Espírito e cuja origem frequentemente se encontra nas relações que o obsidiado manteve com o obsessor, em precedente existência.
+
+Nos casos de obsessão grave, o obsidiado fica como que envolto e impregnado de um fluido pernicioso, que neutraliza a ação dos fluidos salutares e os repele. É daquele fluido que importa desembaraçá-lo. Ora, um fluido mau não pode ser eliminado por outro igualmente mau. Por meio de ação idêntica à do médium curador, nos casos de enfermidade, preciso se faz expelir um fluido mau com o auxílio de um fluido melhor.
+
+Nem sempre, porém, basta esta ação mecânica; cumpre, sobretudo, atuar sobre o ser inteligente, ao qual é preciso se possua o direito de falar com autoridade, que, entretanto, falece a quem não tenha superioridade moral. Quanto maior esta for, tanto maior também será aquela.
+
+Mas, ainda não é tudo: para assegurar a libertação da vítima, indispensável se torna que o Espírito perverso seja levado a renunciar aos seus maus desígnios; que se faça que o arrependimento desponte nele, assim como o desejo do bem, por meio de instruções habilmente ministradas, em evocações particularmente feitas com o objetivo de dar-lhe educação moral. Pode-se então ter a grata satisfação de libertar um encarnado e de converter um Espírito imperfeito.
+
+O trabalho se torna mais fácil quando o obsidiado, compreendendo a sua situação, para ele concorre com a vontade e a prece. Outro tanto não sucede quando, seduzido pelo Espírito que o domina, se ilude com relação às qualidades deste último e se compraz no erro a que é conduzido, porque, então, longe de a secundar, o obsidiado repele toda assistência. É o caso da fascinação, infinitamente mais rebelde sempre, do que a mais violenta subjugação. (O livro dos médiuns, 2a Parte, cap. XXIII.)
+
+Em todos os casos de obsessão, a prece é o mais poderoso meio de que se dispõe para demover de seus propósitos maléficos o obsessor.
+
 ######  47
 
+Na obsessão, o Espírito atua exteriormente, com a ajuda do seu perispírito, que ele identifica com o do encarnado, ficando este afinal enlaçado por uma como teia e constrangido a proceder contra a sua vontade.
+
+Na possessão, em vez de agir exteriormente, o Espírito atuante se substitui, por assim dizer, ao Espírito encarnado; toma-lhe o corpo para domicílio, sem que este, no entanto, seja abandonado pelo seu dono, pois que isso só se pode dar pela morte. A possessão, conseguintemente, é sempre temporária e intermitente, porque um Espírito desencarnado não pode tomar definitivamente o lugar de um encarnado, pela razão de que a união molecular do perispírito e do corpo só se pode operar no momento da concepção. (Cap. XI, item 18.)
+
+De posse momentânea do corpo do encarnado, o Espírito se serve dele como se seu próprio fora: fala pela sua boca, vê pelos seus olhos, opera com seus braços, conforme o faria se estivesse vivo. Não é como na mediunidade falante, em que o Espírito encarnado fala transmitindo o pensamento de um desencarnado; no caso da possessão é mesmo o último que fala e obra; quem o haja conhecido em vida, reconhece-lhe a linguagem, a voz, os gestos e até a expressão da fisionomia.
+
 ######  48
+
+Na obsessão há sempre um Espírito malfeitor. Na possessão pode tratar-se de um Espírito bom que queira falar e que, para causar maior impressão nos ouvintes, toma do corpo de um encarnado, que voluntariamente lho empresta, como emprestaria seu fato a outro encarnado. Isso se verifica sem qualquer perturbação ou incômodo, durante o tempo em que o Espírito encarnado se acha em liberdade, como no estado de emancipação, conservando-se este último ao lado do seu substituto para ouvi-lo.
+
+Quando é mau o Espírito possessor, as coisas se passam de outro modo. Ele não toma moderadamente o corpo do encarnado, arrebata-o, se este não possui bastante força moral para lhe resistir. Fá-lo por maldade para com este, a quem tortura e martiriza de todas as formas, indo ao extremo de tentar exterminá-lo, já por estrangulação, já atirando-o ao fogo ou a outros lugares perigosos. Servindo-se dos órgãos e dos membros do infeliz paciente, blasfema, injuria e maltrata os que o cercam; entrega-se a excentricidades e a atos que apresentam todos os caracteres da loucura furiosa.
+
+São numerosos os fatos deste gênero, em diferentes graus de intensidade, e não derivam de outra causa muitos casos de loucura. Amiúde, há também desordens patológicas, que são meras consequências e contra as quais nada adiantam os tratamentos médicos, enquanto subsiste a causa originária. Dando a conhecer essa fonte donde provém uma parte das misérias humanas, o Espiritismo indica o remédio a ser aplicado: atuar sobre o autor do mal que, sendo um ser inteligente, deve ser tratado por meio da inteligência. [^166]
+
+[^166]: Nota de Allan Kardec: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
+
+###### 49
+
+São as mais das vezes individuais a obsessão e a possessão; mas, não raro são epidêmicas. Quando sobre uma localidade se lança uma revoada de maus Espíritos, é como se uma tropa de inimigos a invadisse. Pode então ser muito considerável o número dos indivíduos atacados.[^167]
+
+[^167]: Nota de Allan Kardec: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
 
 ### 2.15
 
