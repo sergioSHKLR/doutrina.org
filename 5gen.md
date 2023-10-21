@@ -2464,7 +2464,7 @@ O paraíso terrestre, cujos vestígios têm sido inutilmente procurados na Terra
 
 ######  24
 
->Então, disse Caim ao Senhor: É maior a minha maldade que a que possa ser perdoada. Eis que hoje me lanças da face da terra, e da tua face me esconderei; e serei fugitivo e errante na terra, e será que todo aquele que me achar me matará. O Senhor, porém, disse-lhe: Portanto, qualquer que matar a Caim sete vezes será castigado. E pôs o Senhor um sinal em Caim, para que não o ferisse qualquer que o achasse. 16E saiu Caim de diante da face do Senhor e habitou na terra de Node, da banda do oriente do Éden.
+>Então, disse Caim ao Senhor: É maior a minha maldade que a que possa ser perdoada. Eis que hoje me lanças da face da terra, e da tua face me esconderei; e serei fugitivo e errante na terra, e será que todo aquele que me achar me matará. O Senhor, porém, disse-lhe: Portanto, qualquer que matar a Caim sete vezes será castigado. E pôs o Senhor um sinal em Caim, para que não o ferisse qualquer que o achasse. saiu Caim de diante da face do Senhor e habitou na terra de Node, da banda do oriente do Éden.
 >
 > Gênesis, cap. 3, vers. 13-16, ARC
 {:.bible-multi}
@@ -2861,33 +2861,123 @@ A paralisia já não tem absolutamente a mesma causa: aí o efeito é todo orgâ
 
 ######  30
 
+Em certos estados patológicos, quando o Espírito há deixado o corpo e o perispírito só por alguns pontos se lhe acha aderido, apresenta ele, o corpo, todas as aparências da morte e enuncia-se uma verdade absoluta, dizendo que a vida aí está por um fio. Semelhante estado pode durar mais ou menos tempo; podem mesmo algumas partes do corpo entrar em decomposição, sem que, no entanto, a vida se ache definitivamente extinta. Enquanto não se haja rompido o último fio, pode o Espírito, quer por uma ação enérgica, da sua própria vontade, quer por um influxo fluídico estranho, igualmente forte, ser chamado a volver ao corpo. É como se explicam certos fatos de prolongamento da vida contra todas as probabilidades e algumas supostas ressurreições. É a planta a renascer, como às vezes se dá, de uma só fibrila da raiz. Quando, porém, as últimas moléculas do corpo fluídico se têm destacado do corpo carnal, ou quando este último há chegado a um estado irreparável de degradação, impossível se torna todo regresso à vida. [^153]
+
+[^153]: Nota de Allan Kardec: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
+
+##### Curas
+
 ######  31
+
+Como se há visto, o fluido universal é o elemento primitivo do corpo carnal e do perispírito, os quais são simples transformações dele. Pela identidade da sua natureza, esse fluido, condensado no perispírito, pode fornecer princípios reparadores ao corpo; o Espírito, encarnado ou desencarnado, é o agente propulsor que infiltra num corpo deteriorado uma parte da substância do seu envoltório fluídico. A cura se opera mediante a substituição de uma molécula malsã por uma molécula sã. O poder curativo estará, pois, na razão direta da pureza da substância inoculada; mas, depende também da energia da vontade que, quanto maior for, tanto mais abundante emissão fluídica provocará e tanto maior força de penetração dará ao fluido. Depende ainda das intenções daquele que deseje realizar a cura, seja homem ou Espírito. Os fluidos que emanam de uma fonte impura são quais substâncias medicamentosas alteradas.
 
 ######  32
 
+São extremamente variados os efeitos da ação fluídica sobre os doentes, de acordo com as circunstâncias. Algumas vezes é lenta e reclama tratamento prolongado, como no magnetismo ordinário; doutras vezes é rápida, como uma corrente elétrica. Há pessoas dotadas de tal poder, que operam curas instantâneas nalguns doentes, por meio apenas da imposição das mãos, ou, até, exclusivamente por ato da vontade. Entre os dois polos extremos dessa faculdade, há infinitos matizes. Todas as curas desse gênero são variedades do magnetismo e só diferem pela intensidade e pela rapidez da ação. O princípio é sempre o mesmo: o fluido, a desempenhar o papel de agente terapêutico e cujo efeito se acha subordinado à sua qualidade e a circunstâncias especiais.
+
 ######  33
+
+A ação magnética pode produzir-se de muitas maneiras: 
+
+1o ) pelo próprio fluido do magnetizador; é o magnetismo propriamente dito, ou magnetismo humano, cuja ação se acha adstrita à força e, sobretudo, à qualidade do fluido; 
+
+2o ) pelo fluido dos Espíritos, atuando diretamente e sem intermediário sobre um encarnado, seja para o curar ou acalmar um sofrimento, seja para provocar o sono sonambúlico espontâneo, seja para exercer sobre o indivíduo uma influência física ou moral qualquer. É o magnetismo espiritual, cuja qualidade está na razão direta das qualidades do Espírito; [^154] 
+
+3o ) pelos fluidos que os Espíritos derramam sobre o magnetizador, que serve de veículo para esse derramamento. É o magnetismo misto, semiespiritual, ou, se o preferirem, humano-espiritual. Combinado com o fluido humano, o fluido espiritual lhe imprime qualidades de que ele carece. Em tais circunstâncias, o concurso dos Espíritos é amiúde espontâneo, porém, as mais das vezes, provocado por um apelo do magnetizador.
+
+[^154]: Nota de Allan Kardec: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
 
 ######  34
 
+É muito comum a faculdade de curar pela influência fluídica e pode desenvolver-se por meio do exercício; mas, a de curar instantaneamente, pela imposição das mãos, essa é mais rara e o seu grau máximo se deve considerar excepcional. No entanto, em épocas diversas e no seio de quase todos os povos, surgiram indivíduos que a possuíam em grau eminente. Nestes últimos tempos, apareceram muitos exemplos notáveis, cuja autenticidade não sofre contestação. Uma vez que as curas desse gênero assentam num princípio natural e que o poder de operá-las não constitui privilégio, o que se segue é que elas não se operam fora da natureza e que só são miraculosas na aparência. [^155]
+
+[^155]: Nota de Allan Kardec: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
+
+##### Aparições. Transfigurações
+
 ######  35
+
+Para nós, o perispírito, no seu estado normal, é invisível; mas, como é formado de substância etérea, o Espírito, em certos casos, pode, por ato da sua vontade, fazê-lo passar por uma modificação molecular que o torna momentaneamente visível. É assim que se produzem as aparições, que não se dão, do mesmo modo que os outros fenômenos, fora das leis da natureza. Nada tem esse de mais extraordinário, do que o do vapor que, quando muito rarefeito, é invisível, mas que se torna visível, quando condensado.
+
+Conforme o grau de condensação do fluido perispirítico, a aparição é às vezes vaga e vaporosa; doutras vezes, mais nitidamente definida; doutras, enfim, com todas as aparências da matéria tangível. Pode, mesmo, chegar, até, à tangibilidade real, ao ponto de o observador se enganar com relação à natureza do ser que tem diante de si. 
+
+São frequentes as aparições vaporosas, forma sob a qual muitos indivíduos, depois de terem morrido, se apresentam às pessoas que lhes são afeiçoadas. As aparições tangíveis são mais raras, se bem haja delas numerosíssimos casos, perfeitamente autenticados. Se o Espírito quer dar-se a conhecer, imprime ao seu envoltório todos os sinais exteriores que tinha quando vivo. [^156]
+
+[^156]: Nota de Allan Kardec: O livro dos médiuns, 2a Parte, caps. VI e VII.
 
 ######  36
 
+É de notar-se que as aparições tangíveis só têm da matéria carnal as aparências; não poderiam ter dela as qualidades. Em virtude da sua natureza fluídica, não podem ter a coesão da matéria, porque, em realidade, não há nelas carne. Formam-se instantaneamente e instantaneamente desaparecem, ou se evaporam pela desagregação das moléculas fluídicas. [^157] Os seres que se apresentam nessas condições não nascem, nem morrem, como os outros homens. São vistos e deixam de ser vistos, sem que se saiba donde vêm, como vieram, nem para onde vão. Ninguém os poderia matar, nem prender, nem encarcerar, visto carecerem de corpo carnal. Atingiriam o vácuo os golpes que se lhes desferissem. Tal o caráter dos agêneres, com os quais se pode confabular, sem suspeitar de que eles o sejam, mas que não demoram longo tempo entre os humanos e não podem tornar-se comensais de uma casa, nem figurar entre os membros de uma família. [^158] Ao demais, denotam sempre, em suas atitudes, qualquer coisa de estranho e de insólito que deriva ao mesmo tempo da materialidade e da espiritualidade: neles, o olhar é simultaneamente vaporoso e brilhante, carece da nitidez do olhar através dos olhos da carne; a linguagem, breve e quase sempre sentenciosa, nada tem do brilho e da volubilidade da linguagem humana; a aproximação deles causa uma sensação singular e indefinível de surpresa, que inspira uma espécie de temor; e quem com eles se põe em contato, embora os tome por indivíduos quais todos os outros, é levado a dizer involuntariamente: Ali está uma criatura singular. [^159]
+
+[^157]: N.E.: As materializações prolongadas, quais as verificadas por William Crookes, não eram, então, conhecidas.
+
+[^158]: N.E.: Segundo a Bíblia, este fato se deu na família de Tobias. (Ver O livro de Tobias.)
+
+[^159]: Nota de Allan Kardec: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
+
 ######  37
+
+Sendo o mesmo o perispírito, assim nos encarnados, como nos desencarnados, um Espírito encarnado, por efeito completamente idêntico, pode, num momento de liberdade, aparecer em ponto diverso do em que repousa seu corpo, com os traços que lhe são habituais e com todos os sinais de sua identidade. Foi esse fenômeno, do qual se conhecem muitos casos autênticos, que deu lugar à crença nos homens duplos. [^160]
+
+[^160]: Nota de Allan Kardec: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
 
 ######  38
 
+Um efeito peculiar aos fenômenos dessa espécie consiste em que as aparições vaporosas e, mesmo, tangíveis, não são perceptíveis a toda gente, indistintamente. Os Espíritos só se mostram quando o querem e a quem também o querem. Um Espírito, pois, poderia aparecer, numa assembleia, a um ou a muitos dos presentes e não ser visto pelos demais. Dá-se isso, porque as percepções desse gênero se efetuam por meio da vista espiritual, e não por intermédio da vista carnal; pois não só aquela não é dada a toda gente, como pode, se for conveniente, ser retirada, pela só vontade do Espírito, àquele a quem ele não queira mostrar-se, como pode dá-la, momentaneamente, se entender necessário. À condensação do fluido perispirítico nas aparições, indo mesmo até a tangibilidade, faltam as propriedades da matéria ordinária: se tal não se desse, as aparições seriam perceptíveis pelos olhos do corpo e, então, todas as pessoas presentes as perceberiam. [^161]
+
+[^161]: Nota de Allan Kardec: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
+
 ######  39
+
+Podendo o Espírito operar transformações na contextura do seu envoltório perispirítico e irradiando-se esse envoltório em torno do corpo qual atmosfera fluídica, pode produzir-se na superfície mesma do corpo um fenômeno análogo ao das aparições. Pode a imagem real do corpo apagar-se mais ou menos completamente, sob a camada fluídica, e assumir outra aparência; ou, então, vistos através da camada fluídica modificada, os traços primitivos podem tomar outra expressão. Se, saindo do terra a terra, o Espírito encarnado se identifica com as coisas do mundo espiritual, pode a expressão de um semblante feio tornar-se bela, radiosa e até luminosa; se, ao contrário, o Espírito é presa de paixões más, um semblante belo pode tomar um aspecto horrendo. 
+
+Assim se operam as transfigurações, que refletem sempre qualidades e sentimentos predominantes no Espírito. O fenômeno resulta, portanto, de uma transformação fluídica; é uma espécie de aparição perispirítica, que se produz sobre o próprio corpo do vivo e, algumas vezes, no momento da morte, em lugar de se produzir ao longe, como nas aparições propriamente ditas. O que distingue as aparições desse gênero é o serem, geralmente, perceptíveis por todos os assistentes e com os olhos do corpo, precisamente por se basearem na matéria carnal visível, ao passo que, nas aparições puramente fluídicas, não há matéria tangível. [^162]
+
+[^162]: Nota de Allan Kardec: Exemplo e teoria da transfiguração: Revista espírita, março de 1859. (O livro dos médiuns, 2a Parte, cap. VII.)
+
+##### Manifestações físicas. Mediunidade
 
 ######  40
 
+Os fenômenos das mesas girantes e falantes, da suspensão etérea de corpos pesados, da escrita mediúnica, tão antigos quanto o mundo, porém vulgares hoje, facultam a explicação de alguns outros, análogos e espontâneos, aos quais, pela ignorância da lei que os rege, se atribuía caráter sobrenatural e miraculoso. Tais fenômenos têm por base as propriedades do fluido perispirítico, quer dos encarnados, quer dos Espíritos livres.
+
 ######  41
+
+Por meio do seu perispírito é que o Espírito atuava sobre o seu corpo vivo; ainda por intermédio desse mesmo fluido é que ele se manifesta; atuando sobre a matéria inerte, é que produz ruídos, movimentos de mesa e outros objetos, que os levanta, derriba, ou transporta. Nada tem de surpreendente esse fenômeno, se considerarmos que, entre nós, os mais possantes motores se encontram nos fluidos mais rarefeitos e mesmo imponderáveis, como o ar, o vapor e a eletricidade. 
+
+É igualmente com o concurso do seu perispírito que o Espírito faz que os médiuns escrevam, falem, desenhem. Já não dispondo de corpo tangível para agir ostensivamente quando quer manifestar-se, ele se serve do corpo do médium, cujos órgãos toma de empréstimo, corpo ao qual faz que atue como se fora o seu próprio, mediante o eflúvio fluídico que verte sobre ele.
 
 ######  42
 
+Pelo mesmo processo atua o Espírito sobre a mesa, quer para que esta se mova, sem que o seu movimento tenha significação determinada, quer para que dê pancadas inteligentes, indicativas das letras do alfabeto, a fim de formarem palavras e frases, fenômeno esse denominado tiptologia. A mesa não passa de um instrumento de que o Espírito se utiliza, como se utiliza do lápis para escrever. Para esse efeito, dá-lhe ele uma vitalidade momentânea, por meio do fluido que lhe inocula, porém absolutamente não se identifica com ela. 
+
+Praticam um ato ridículo as pessoas que, tomadas de emoção ao manifestar-se um ser que lhes é caro, abraçam a mesa; é exatamente como se abraçassem a bengala de que um amigo se sirva para bater no chão. O mesmo fazem os que dirigem a palavra à mesa, como se o Espírito se achasse metido na madeira, ou como se a madeira se houvesse tornado Espírito. 
+
+Quando comunicações são transmitidas por esse meio, deve-se imaginar que o Espírito está, não na mesa, mas ao lado, tal qual estaria se vivo se achasse e como seria visto, se no momento pudesse tornar-se visível. O mesmo ocorre nas comunicações pela escrita: ver-se-ia o Espírito ao lado do médium, dirigindo-lhe a mão ou transmitindo-lhe pensamentos por meio de uma corrente fluídica.
+
 ######  43
 
+Quando a mesa se destaca do solo e flutua no espaço sem ponto de apoio, o Espírito não a ergue com a força de um braço; envolve-a e penetra-a de uma espécie de atmosfera fluídica que neutraliza o efeito da gravitação, como faz o ar com os balões e papagaios. O fluido que se infiltra na mesa dá-lhe momentaneamente maior leveza específica. Quando fica pregada ao solo, ela se acha numa situação análoga à da campânula pneumática sob a qual se fez o vácuo. Não há aqui mais que simples comparações destinadas a mostrar a analogia dos efeitos e não a semelhança absoluta das causas. (O livro dos médiuns, 2a Parte, cap. IV.)
+
+Compreende-se, depois do que fica dito, que não há para o Espírito, maior dificuldade em arrebatar uma pessoa, do que em arrebatar uma mesa, em transportar um objeto de um lugar para outro, ou em atirá-lo seja onde for. Todos esses fenômenos se produzem em virtude da mesma lei. [^163] 
+
+Quando as pancadas são ouvidas na mesa ou algures, não é que o Espírito esteja a bater com a mão, ou com qualquer objeto. Ele apenas dirige sobre o ponto donde vem o ruído um jato de fluido e este produz o efeito de um choque elétrico. Tão possível lhe é modificar o ruído, como a qualquer pessoa modificar os sons produzidos pelo ar. [^164]
+
+[^163]: Nota de Allan Kardec: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias.
+
+Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muito mais raro, porque mais difícil de ser imitado. É sabido que o Sr. Home se elevou mais de uma vez até ao teto, dando assim volta à sala. Dizem que São Cupertino possuía a mesma faculdade, não sendo o fato mais miraculoso com este do que com aquele.
+
+[^164]: Nota de Allan Kardec: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
+
 ######  44
+
+Fenômeno muito frequente na mediunidade é a aptidão de certos médiuns para escrever em língua que lhes é estranha; a explanar, oralmente ou por escrito, assuntos que lhes estão fora do alcance da instrução recebida. Não é raro o caso de alguns que escrevem correntemente sem nunca terem aprendido a escrever; de outros que compõem poesias, sem jamais na vida terem sabido fazer um verso; de outros que desenham, pintam, esculpem, compõem música, tocam um instrumento, sem conhecerem desenho, pintura, escultura, ou a arte musical. Ocorre frequentemente o fato de um médium escrevente reproduzir com perfeição a grafia e a assinatura que os Espíritos, que por ele se comunicam, tinham quando vivos, se bem não as haja ele conhecido.
+
+Nada, porém, apresenta esse fenômeno de mais maravilhoso, do que o de se fazer que uma criança escreva, guiando-se-lhe a mão; pode-se, dessa maneira, conseguir que ela execute tudo o que se queira. Pode-se fazer que qualquer pessoa escreva num idioma que ela ignore, ditando-se-lhe as palavras letra por letra. Compreende-se que o mesmo se possa dar com a mediunidade, desde que se atente na maneira por que os Espíritos se comunicam com os médiuns que, para eles, mais não são do que instrumentos passivos. Se, porém, o médium tem o mecanismo, se venceu as dificuldades práticas, se lhe são familiares as expressões, se, finalmente, possui no cérebro os elementos daquilo que o Espírito quer fazê-lo executar, ele se acha na posição do homem que sabe ler e escrever correntemente; o trabalho se torna mais fácil e mais rápido; ao Espírito já não resta senão transmitir seus pensamentos ao intérprete, para que este os reproduza pelos meios de que dispõe.
+
+A aptidão de um médium para coisas que lhe são estranhas também tem frequentemente suas raízes nos conhecimentos que ele possuiu noutra existência e dos quais seu Espírito conservou a intuição. Se, por exemplo, ele foi poeta ou músico, mais facilidade encontrará para assimilar o pensamento poético ou musical que um Espírito queira fazê-lo expressar. A língua que ele hoje ignora pode ter-lhe sido familiar noutra existência, donde maior aptidão sua para escrever mediunicamente nessa língua. [^165]
+
+[^165]: Nota de Allan Kardec: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
 
 ######  45
 

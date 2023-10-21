@@ -90,12 +90,12 @@ blockquote.spirit-multi {
 
 blockquote.spirit-multi > p:nth-child(1)::before {
     content: "👻 ▸ ";
-    font-style: normal;
+    font-style: normal !important;
 }
 
 blockquote.spirit > p:nth-child(1)::before {
     content: "👻 ▸ ";
-    font-style: normal;
+    font-style: normal !important;
 }
 
 
