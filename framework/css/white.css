@@ -4,7 +4,7 @@
 
 #brand-col1 a:any-link,
 #brand-col2 a:any-link {
-    color: #000 !important
+    color: currentColor;
 }
 
 #col1-head {
@@ -41,7 +41,7 @@
 }
 
 #col1-body a:any-link {
-    color: #000;
+    color: currentColor;
     text-decoration: none
 }
 
@@ -76,35 +76,39 @@
     padding-top: 13px
 }
 
-#col3-head a {
+#col3-head a:any-link {
     margin: 0 8px
 }
 
 #col3-head a:any-link {
-    color: #000;
+    color: currentColor;
     cursor: pointer;
     height: 30px;
     padding: 12px 0 0 5px;
     text-decoration: none;
-    width: 30px
-}
-
-#col3-head a:any-link:hover,
-button:hover {
-    color: #000;
-    transition-duration: .5s;
-    transition-timing-function: ease-in-out
+    width: 30px;
 }
 
 body {
     margin: 0;
-    padding: 0
+    padding: 0;
+    background-color: #fff;
+    color: #222;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
+
+.dark-mode #content a {
+    color: dodgerblue !important;
 }
 
 button {
     background-color: transparent;
     border: none;
-    color: #555;
+    color: currentColor;
     cursor: pointer;
     height: 30px;
     margin: 0 5px;
@@ -116,7 +120,7 @@ button {
 
 html {
     font: 16px Inter, sans-serif;
-    margin: 10px 80px 0px 80px !important;
+    margin: 30px 120px 0px 120px !important;
     padding: 0px;
 }
 
@@ -130,7 +134,7 @@ p.h3 {
     border-bottom: 1px solid gainsboro;
     font-size: 16px;
     font-weight: 700;
-    color: #000
+    color: currentColor
 }
 
 div#portrait-notice p {
@@ -143,7 +147,7 @@ div#portrait-notice p {
 .flex {
     display: flex;
     height: 100vh;
-    overflow-y: scroll
+    overflow-y: scroll;
 }
 
 .body {
@@ -181,7 +185,7 @@ div#portrait-notice p {
 }
 
 .material-symbols-outlined {
-    color: #000
+    color: currentColor;
 }
 
 .shades-on {
@@ -213,7 +217,8 @@ div#portrait-notice p {
 #brand-col2 a:any-link,
 #col1-head a:any-link,
 #col2-body a:any-link {
-    text-decoration: none
+    text-decoration: none;
+    color: currentColor;
 }
 
 #col2,
@@ -315,7 +320,7 @@ div#portrait-notice p {
     }
 
 
-    
+
 }
 
 @media only screen and (min-width:1920px) {

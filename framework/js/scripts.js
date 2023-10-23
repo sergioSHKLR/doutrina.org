@@ -121,8 +121,6 @@ function bgWhite() {
   element.classList.add("white");
 }
 
-
-
 // changes font family to monospace
 function fontMono() {
   var element = document.getElementById("content");
@@ -194,4 +192,9 @@ function toggleAdjusts() {
   } else {
     b.style.display = "block";
   }
+}
+
+function toggleDark() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
 }

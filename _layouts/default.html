@@ -59,17 +59,14 @@
   <!-- PWA -->
   <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
 
-  <!-- HYPOTHES.IS -->
+  <!-- HYPOTHES.IS 
   <script type="application/json" class="js-hypothesis-config">
  {
  "openSidebar": false,
  "showHighlights": true
  }
 </script>
-  <script defer src="https://hypothes.is/embed.js"></script>
-
-  <!-- STYLES -->
-  <style></style>
+  <script defer src="https://hypothes.is/embed.js"></script>  -->
 
 </head>
 
@@ -140,20 +137,16 @@
 
           <button id="open-fullscreen" class="fr" onclick="openFullscreen()" title="tela cheia">
             <span class="material-symbols-outlined">fullscreen</span></button>
-          <!--
-              <div class="fr">
-         <link href="../framework/css/search.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
-              </div> -->
-
+        
           <button id="close-fullscreen" class="fr" hidden onclick="closeFullscreen()" title="tela normal">
             <span class="material-symbols-outlined">fullscreen_exit</span></button>
+          
+            <button id="dark-button" class="fr" onclick="toggleDark()" title="modo escuro">
+              <span class="material-symbols-outlined">dark_mode</span></button>
+
+              <button id="light-button" class="fr" hidden onclick="toggleDark()" title="modo claro">
+                <span class="material-symbols-outlined">light_mode</span></button>
+  
           <!--
           <button class="fr" onclick="toggleAdjusts()"><span class="material-symbols-outlined">
               tune
@@ -258,6 +251,26 @@
   <!-- SCRIPTS -->
   <script defer src="../framework/js/scripts.js"></script>
   <script defer src="../framework/js/crisp.js"></script>
+
+  <script>
+
+function toggleDark() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+  var d = document.getElementById("light-button");
+  if (d.style.display === "block") {
+    d.style.display = "none";
+  } else {
+    d.style.display = "block";
+  }
+  var l = document.getElementById("dark-button");
+  if (l.style.display === "none") {
+    l.style.display = "block";
+  } else {
+    l.style.display = "none";
+  }
+}
+  </script>
 
 </body>
 <!-- #endregion -->
