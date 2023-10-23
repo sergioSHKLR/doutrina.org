@@ -97,12 +97,12 @@ body {
 }
 
 .dark-mode {
-    background-color: #222;
-    color: #fff;
+        background-color: #222;
+        color: #fff;
 }
 
 .dark-mode #content a {
-    color: dodgerblue !important;
+    color: #66B3FF !important;
 }
 
 button {
@@ -274,7 +274,7 @@ div#portrait-notice p {
     }
 
     html {
-        margin: 0px 23px 0px 0px !important;
+        margin: 0px 0px 0px 0px !important;
     }
 
 

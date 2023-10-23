@@ -7,7 +7,6 @@ div#content>p>img {
     border-right: 1px solid lightgrey;
     border-top: 1px solid lightgrey;
     margin-bottom: -17px;
-    background-color: rgba(255, 255, 255, .5);
     padding: 0 30px;
 
 }
@@ -25,7 +24,6 @@ figcaption {
     border-right: 1px solid lightgrey;
     border-bottom: 1px solid lightgrey;
     text-align: center;
-    background-color: rgba(255, 255, 255, .5);
     padding: 30px;
 }
 

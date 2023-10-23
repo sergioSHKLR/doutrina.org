@@ -8,7 +8,7 @@ layout: default
 <link rel="stylesheet" href="../framework/css/1lde.css">
 <meta name="theme-color" content="mediumblue">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse;background-color: rgba(255, 255, 255, .5)}
+table {outline: 1px solid gainsboro; border-collapse: collapse;/* background-color: rgba(255, 255, 255, .5)*/}
 td {padding: 0 30px;}
 /*
 #col2-head {background-color: mediumblue;}
