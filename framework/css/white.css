@@ -97,8 +97,8 @@ body {
 }
 
 .dark-mode {
-        background-color: #222;
-        color: #fff;
+    background-color: #222;
+    color: #fff;
 }
 
 .dark-mode #content a {
@@ -201,6 +201,11 @@ div#portrait-notice p {
     height: calc(100vh - 50px)
 }
 
+#col3-buttons,
+#col2-buttons {
+    display: inline;
+}
+
 .flex-body>div {
     overflow-y: scroll
 }
@@ -297,7 +302,11 @@ div#portrait-notice p {
     }
 
     html {
-        margin: 0px 23px 0px 0px !important;
+        margin: 0px 0px 0px 0px !important;
+    }
+
+    #col2-buttons {
+        display: none;
     }
 
 
@@ -319,7 +328,9 @@ div#portrait-notice p {
         top: 7px
     }
 
-
+    #col2-buttons {
+        display: none;
+    }
 
 }
 
@@ -332,6 +343,10 @@ div#portrait-notice p {
 
     #content-adjusts {
         top: 40px
+    }
+
+    #col2-buttons {
+        display: none;
     }
 
     #brand-col2 {
