@@ -163,14 +163,14 @@ button {
 }
 
 #col3-top a:any-link {
-    height: 50px;
+    height: 50px
 }
 
 p.h3 {
     font-weight: 700;
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    width: 60%;
+    width: 80%;
 }
 
 #col2-menu,
