@@ -8,8 +8,10 @@ layout: default
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zeyada&display=swap" rel="stylesheet">
 <style>
+/*
 #col1 {background-color: #E6E6E6;}
 #col2-body {background-color: #F2F2F2;}
+*/
 #maps-button {display: none;}
 </style>
 </head>

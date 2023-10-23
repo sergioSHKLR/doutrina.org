@@ -9,8 +9,10 @@ layout: default
 <meta name="theme-color" content="darkgreen">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
+/*
 #col2-body {background-color: #E6F0E6;}
 #col2-head {background-color: darkgreen;}
+*/
 #maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
@@ -3029,315 +3031,932 @@ São as mais das vezes individuais a obsessão e a possessão; mas, não raro s�
 
 ### 2.15
 
-######  GEN-2-15-p1
+##### Superioridade da natureza de Jesus
 
-######  GEN-2-15-p2
+######  01
 
-######  GEN-2-15-p3
+Os fatos que o Evangelho relata e que foram até hoje considerados milagrosos pertencem, na sua maioria, à ordem dos fenômenos psíquicos, isto é, dos que têm como causa primária as faculdades e os atributos da alma. Confrontando-os com os que ficaram descritos e explicados no capítulo precedente, reconhecer-se-á sem dificuldade que há entre eles identidade de causa e de efeito. A História registra outros análogos, em todos os tempos e no seio de todos os povos, pela razão de que, desde que há almas encarnadas e desencarnadas, os mesmos efeitos forçosamente se produziram. Pode-se, é certo, contestar, no que concerne a este ponto, a veracidade da História; mas, hoje, eles se produzem às nossas vistas e, por assim dizer, à vontade e por indivíduos que nada têm de excepcionais. O só fato da reprodução de um fenômeno, em condições idênticas, basta para provar que ele é possível e se acha submetido a uma lei, não sendo, portanto, miraculoso.
 
-######  GEN-2-15-p4
+O princípio dos fenômenos psíquicos repousa, como já vimos, nas propriedades do fluido perispiritual, que constitui o agente magnético; nas manifestações da vida espiritual durante a vida corpórea e depois da morte; e, finalmente, no estado constitutivo dos Espíritos e no papel que eles desempenham como força ativa da natureza. Conhecidos estes elementos e comprovados os seus efeitos, tem-se, como consequência, de admitir a possibilidade de certos fatos que eram rejeitados enquanto se lhes atribuía uma origem sobrenatural.
 
-######  GEN-2-15-p5
+######  02
 
-######  GEN-2-15-p6
+Sem nada prejulgar quanto à natureza do Cristo, natureza cujo exame não entra no quadro desta obra, considerando-o apenas um Espírito superior, não podemos deixar de reconhecê-lo um dos de ordem mais elevada e colocado, por suas virtudes, muitíssimo acima da humanidade terrestre. Pelos imensos resultados que produziu, a sua encarnação neste mundo forçosamente há de ter sido uma dessas missões que a Divindade somente a seus mensageiros diretos confia, para cumprimento de seus desígnios. Mesmo sem supor que ele fosse o próprio Deus, mas unicamente um enviado de Deus para transmitir sua palavra aos homens, seria mais do que um profeta, porquanto seria um Messias divino. 
 
-######  GEN-2-15-p7
+Como homem, tinha a organização dos seres carnais; porém, como Espírito puro, desprendido da matéria, havia de viver mais da vida espiritual, do que da vida corporal, de cujas fraquezas não era passível. A sua superioridade com relação aos homens não derivava das qualidades particulares do seu corpo, mas das do seu Espírito, que dominava de modo absoluto a matéria e da do seu perispírito, tirado da parte mais quintessenciada dos fluidos terrestres (cap. XIV, item 9). Sua alma, provavelmente, não se achava presa ao corpo, senão pelos laços estritamente indispensáveis. Constantemente desprendida, ela decerto lhe dava dupla vista, não só permanente, como de excepcional penetração e superior de muito à que de ordinário possuem os homens comuns. O mesmo havia de dar-se, nele, com relação a todos os fenômenos que dependem dos fluidos perispirituais ou psíquicos. A qualidade desses fluidos lhe conferia imensa forca magnética, secundada pelo incessante desejo de fazer o bem. 
 
-######  GEN-2-15-p8
+Agiria como médium nas curas que operava? Poder-se-á considerá-lo poderoso médium curador? Não, porquanto o médium é um intermediário, um instrumento de que se servem os Espíritos desencarnados e o Cristo não precisava de assistência, pois que era ele quem assistia os outros. Agia por si mesmo, em virtude do seu poder pessoal, como o podem fazer, em certos casos, os encarnados, na medida de suas forças. Que Espírito, ao demais, ousaria insuflar-lhe seus próprios pensamentos e encarregá-lo de os transmitir? Se algum influxo estranho recebia, esse só de Deus lhe poderia vir. Segundo definição dada por um Espírito, ele era médium de Deus.
 
-######  GEN-2-15-p9
+##### Sonhos
 
-######  GEN-2-15-p10
+######  03
 
-######  GEN-2-15-p11
+> Morto, porém, Herodes, eis que o anjo do Senhor apareceu, num sonho, a José, no Egito, dizendo: Levanta-te, e toma o menino e sua mãe, e vai para a terra de Israel, porque já estão mortos os que procuravam a morte do menino. Então, ele se levantou, e tomou o menino e sua mãe, e foi para a terra de Israel. E, ouvindo que Arquelau reinava na Judeia em lugar de Herodes, seu pai, receou ir para lá; mas, avisado em sonhos por divina revelação, foi para as regiões da Galileia. E chegou e habitou numa cidade chamada Nazaré, para que se cumprisse o que fora dito pelos profetas: Ele será chamado Nazareno.
+>
+> Mateus, cap. 02, vers. 19-23, ARC
 
-######  GEN-2-15-p12
+Os avisos por meio de sonhos desempenham grande papel nos livros sagrados de todas as religiões. Sem garantir a exatidão de todos os fatos narrados e sem os discutir, o fenômeno em si mesmo nada tem de anormal, sabendo-se, como se sabe, que, durante o sono, é quando o Espírito, desprendido dos laços da matéria, entra momentaneamente na vida espiritual, onde se encontra com os que lhe são conhecidos. É com frequência essa a ocasião que os Espíritos protetores aproveitam para se manifestar a seus protegidos e lhes dar conselhos mais diretos. São numerosos os casos de avisos em sonho, porém, não se deve inferir daí que todos os sonhos são avisos, nem, ainda menos, que tem uma significação tudo o que se vê em sonho. Cumpre se inclua entre as crenças supersticiosas e absurdas a arte de interpretar os sonhos. (Cap. XIV, itens 27 e 28.)
 
-######  GEN-2-15-p13
+##### Estrela dos magos
 
-######  GEN-2-15-p14
+######  04
 
-######  GEN-2-15-p15
+> E, tendo nascido Jesus em Belém da Judeia, no tempo do rei Herodes, eis que uns magos vieram do Oriente a Jerusalém, e perguntaram: Onde está aquele que é nascido rei dos judeus? Porque vimos a sua estrela no Oriente e viemos a adorá-lo. E o rei Herodes, ouvindo isso, perturbou-se, e toda a Jerusalém, com ele. E, congregados todos os príncipes dos sacerdotes e os escribas do povo, perguntou-lhes onde havia de nascer o Cristo. E eles lhe disseram: Em Belém da Judeia, porque assim está escrito pelo profeta: E tu, Belém, terra de Judá, de modo nenhum és a menor entre as capitais de Judá, porque de ti sairá o Guia que há de apascentar o meu povo de Israel. Então, Herodes, chamando secretamente os magos, inquiriu exatamente deles acerca do tempo em que a estrela lhes aparecera. 8E, enviando-os a Belém, disse: Ide, e perguntai diligentemente pelo menino, e, quando o achardes, participai-mo, para que também eu vá e o adore. E, tendo eles ouvido o rei, partiram; e eis que a estrela que tinham visto no Oriente ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino. E, vendo eles a estrela, alegraram-se muito com grande júbilo. E, entrando na casa, acharam o menino com Maria, sua mãe, e, prostrando-se, o adoraram; e, abrindo os seus tesouros, lhe ofertaram dádivas: ouro, incenso e mirra. E, sendo por divina revelação avisados em sonhos para que não voltassem para junto de Herodes, partiram para a sua terra por outro caminho.
+>
+> Mateus, cap. 02, vers. 01-12, ARC
 
-######  GEN-2-15-p16
+Não se trata de saber se o fato que Mateus narra é real, ou se não passa de uma figura indicativa de que os magos foram guiados de forma misteriosa ao lugar onde estava o menino, dado que não há meio algum de verificação; trata-se de saber se é possível um fato de tal natureza. O que é certo é que, naquela circunstância, a luz não podia ser uma estrela. Na época em que o fato ocorreu, era possível acreditassem que fosse, porquanto então se cria serem as estrelas pontos luminosos pregados no firmamento e suscetíveis de cair sobre a Terra; não hoje, quando se conhece a natureza das estrelas. Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser possível o fato da aparição de uma luz com o aspecto de uma estrela. Um Espírito pode aparecer sob forma luminosa, ou transformar uma parte do seu fluido perispirítico em foco luminoso. Muitos fatos desse gênero, modernos e perfeitamente autênticos, não procedem de outra causa, que nada apresenta de sobrenatural. (Cap. XIV, itens 13 e seguintes.)
 
-######  GEN-2-15-p17
+##### Dupla vista
 
-######  GEN-2-15-p18
+**Entrada de Jesus em Jerusalém**
 
-######  GEN-2-15-p19
+######  05
 
-######  GEN-2-15-p20
+> Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu rei virá a ti, justo e Salvador, pobre e montado sobre um jumento, sobre um asninho, filho de jumenta. E destruirei os carros de Efraim e os cavalos de Jerusalém, e o arco de guerra será destruído; e ele anunciará paz às nações; e o seu domínio se estenderá de um mar a outro mar e desde o rio até às extremidades da terra.
+>
+> Zacarias, cap. 09, vers 09-10, ARC
 
-######  GEN-2-15-p21
+> E, quando se aproximaram de Jerusalém e chegaram a Betfagé, ao monte das Oliveiras, enviou, então, Jesus dois discípulos, dizendo-lhes: Ide à aldeia que está defronte de vós e logo encontrareis uma jumenta presa e um jumentinho com ela; desprendei-a e trazei-mos. E, se alguém vos disser alguma coisa, direis que o Senhor precisa deles; e logo os enviará. Ora, tudo isso aconteceu para que se cumprisse o que foi dito pelo profeta, que diz: Dizei à filha de Sião: Eis que o teu Rei aí te vem, humilde e assentado sobre uma jumenta e sobre um jumentinho, filho de animal de carga. E, indo os discípulos e fazendo como Jesus lhes ordenara, trouxeram a jumenta e o jumentinho, e sobre eles puseram as suas vestes, e fizeram-no assentar em cima.
+>
+> Mateus, cap. 21, vers. 01-07, ARC
 
-######  GEN-2-15-p22
+##### Beijo de Judas
 
-######  GEN-2-15-p23
+######  06
 
-######  GEN-2-15-p24
+> Levantai-vos, partamos; eis que é chegado o que me trai. E, estando ele ainda a falar, eis que chegou Judas, um dos doze, e com ele, grande multidão com espadas e porretes, vinda da parte dos príncipes dos sacerdotes e dos anciãos do povo. E o traidor tinha-lhes dado um sinal, dizendo: O que eu beijar é esse; prendei-o. E logo, aproximando-se de Jesus, disse: Eu te saúdo, Rabi. E beijou-o. 50Jesus, porém, lhe disse: Amigo, a que vieste? Então, aproximando-se eles, lançaram mão de Jesus e o prenderam.
+>
+> Mateus, cap. 26, vers. 46-50, ARC
 
-######  GEN-2-15-p25
+##### Pesca milagrosa
 
-######  GEN-2-15-p26
+######  07
 
-######  GEN-2-15-p27
+> E aconteceu que, apertando-o a multidão para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré. E viu estar dois barcos junto à praia do lago; e os pescadores, havendo descido deles, estavam lavando as redes. E, entrando num dos barcos, que era o de Simão, pediu-lhe que o afastasse um pouco da terra; e, assentando-se, ensinava do barco a multidão. E, quando acabou de falar, disse a Simão: faze-te ao mar alto, e lançai as vossas redes para pescar. E, respondendo Simão, disse-lhe: Mestre, havendo trabalhado toda a noite, nada apanhamos; mas, porque mandas, lançarei a rede. E, fazendo assim, colheram uma grande quantidade de peixes, e rompia-se-lhes a rede. E fizeram sinal aos companheiros que estavam no outro barco, para que os fossem ajudar. E foram e encheram ambos os barcos, de maneira tal que quase iam a pique.
+>
+> Lucas, cap. 05, vers. 01-07, ARC
 
-######  GEN-2-15-p28
+##### Vocação de Pedro, André, Tiago, João e Mateus
 
-######  GEN-2-15-p29
+######  08
 
-######  GEN-2-15-p30
+> E Jesus, andando junto ao mar da Galileia, viu dois irmãos, Simão, chamado Pedro, e André, os quais lançavam as redes ao mar, porque eram pescadores. 19E disse-lhes: Vinde após mim, e eu vos farei pescadores de homens. 20Então, eles, deixando logo as redes, seguiram-no. 21E, adiantando-se dali, viu outros dois irmãos: Tiago, filho de Zebedeu, e João, seu irmão, num barco com Zebedeu, seu pai, consertando as redes; e chamou-os. 22Eles, deixando imediatamente o barco e seu pai, seguiram-no.
+>
+> Mateus, cap. 04, vers. 18-22, ARC
 
-######  GEN-2-15-p31
+> **E disse-lhe: Tudo isto te darei se, prostrado, me adorares.** ERRADO Mateus 4:9
 
-######  GEN-2-15-p32
+######  09
 
-######  GEN-2-15-p33
+Nada apresentam de surpreendentes estes fatos, desde que se conheça o poder da dupla vista e a causa, muito natural, dessa faculdade. Jesus a possuía em grau elevado e pode dizer-se que ela constituía o seu estado normal, conforme o atesta grande número de atos da sua vida, os quais, hoje, têm a explicá-los os fenômenos magnéticos e o ­Espiritismo. 
 
-######  GEN-2-15-p34
+A pesca qualificada de miraculosa igualmente se explica pela dupla vista. Jesus não produziu espontaneamente peixes onde não os havia; Ele viu, com a vista da alma, como teria podido fazê-lo um lúcido vígil, o lugar onde se achavam os peixes e disse com segurança aos pescadores que lançassem aí suas redes. 
 
-######  GEN-2-15-p35
+A acuidade do pensamento e, por conseguinte, certas previsões decorrem da vista espiritual. Quando Jesus chama a si Pedro, André, Tiago, João e Mateus, é que lhes conhecia as disposições íntimas e sabia que eles o acompanhariam e que eram capazes de desempenhar a missão que tencionava confiar-lhes. E mister se fazia que eles próprios tivessem intuição da missão que iriam desempenhar para, sem hesitação, atenderem ao chamamento de Jesus. O mesmo se deu quando, por ocasião da Ceia, Ele anunciou que um dos doze o trairia e o apontou, dizendo ser aquele que punha a mão no prato; e deu-se também, quando predisse que Pedro o negaria. 
 
-######  GEN-2-15-p36
+Em muitos passos do Evangelho se lê: “Mas Jesus, conhecendo-lhes os pensamentos, lhes diz...” Ora, como poderia Ele conhecer os pensamentos dos seus interlocutores, senão pelas irradiações fluídicas desses pensamentos e, ao mesmo tempo, pela vista espiritual que lhe permitia ler-lhes no foro íntimo? 
 
-######  GEN-2-15-p37
+Muitas vezes, supondo que um pensamento se acha sepultado nos refolhos da alma, o homem não suspeita que traz em si um espelho onde se reflete aquele pensamento, um revelador na sua própria irradiação fluídica, impregnada dele. Se víssemos o mecanismo do mundo invisível que nos cerca, as ramificações dos fios condutores do pensamento, a ligarem todos os seres inteligentes, corporais e incorpóreos, os eflúvios fluídicos carregados das marcas do mundo moral, os quais, como correntes aéreas, atravessam o espaço, muito menos surpreendidos ficaríamos diante de certos efeitos que a ignorância atribui ao acaso. (Cap. XIV, itens 15, 22 e seguintes.)
 
-######  GEN-2-15-p38
+##### Curas
 
-######  GEN-2-15-p39
+**Perda de sangue**
 
-######  GEN-2-15-p40
+######  10
 
-######  GEN-2-15-p41
+> E certa mulher, que havia doze anos tinha um fluxo de sangue, e que havia padecido muito com muitos médicos, e despendido tudo quanto tinha, nada lhe aproveitando isso, antes indo a pior, ouvindo falar de Jesus, veio por detrás, entre a multidão, e tocou na sua vestimenta. Porque dizia: Se tão somente tocar nas suas vestes, sararei. E logo se lhe secou a fonte do seu sangue, e sentiu no seu corpo estar já curada daquele mal. E logo Jesus, conhecendo que a virtude de si mesmo saíra, voltou-se para a multidão e disse: Quem tocou nas minhas vestes? E disseram-lhe os seus discípulos: Vês que a multidão te aperta, e dizes: Quem me tocou? E ele olhava em redor, para ver a que isso fizera. Então, a mulher, que sabia o que lhe tinha acontecido, temendo e tremendo, aproximou-se, e prostrou-se diante dele, e disse-lhe toda a verdade. E ele lhe disse: Filha, a tua fé te salvou; vai em paz e sê curada deste teu mal.
+>
+> Marcos, cap. 05, vers. 25-34, ARC
 
-######  GEN-2-15-p42
+######  11
 
-######  GEN-2-15-p43
+Estas palavras: conhecendo em si mesmo a virtude que dele saíra, são significativas. Exprimem o movimento fluídico que se operara de Jesus para a doente; ambos experimentaram a ação que acabara de produzir-se. É de notar-se que o efeito não foi provocado por nenhum ato da vontade de Jesus; não houve magnetização, nem imposição das mãos. Bastou a irradiação fluídica normal para realizar a cura. 
 
-######  GEN-2-15-p44
+Mas por que essa irradiação se dirigiu para aquela mulher e não para outras pessoas, uma vez que Jesus não pensava nela e tinha a cercá-lo a multidão? 
 
-######  GEN-2-15-p45
+É bem simples a razão. Considerado como matéria terapêutica, o fluido tem que atingir a matéria orgânica, a fim de repará-la; pode então ser dirigido sobre o mal pela vontade do curador, ou atraído pelo desejo ardente, pela confiança, numa palavra: pela fé do doente. 
 
-######  GEN-2-15-p46
+Com relação à corrente fluídica, o primeiro age como uma bomba calcante e o segundo como uma bomba aspirante. Algumas vezes, é necessária a simultaneidade das duas ações; doutras, basta uma só. O segundo caso foi o que ocorreu na circunstância de que tratamos. 
 
-######  GEN-2-15-p47
+Razão, pois, tinha Jesus para dizer: “Tua fé te salvou.” Compreende-se que a fé a que Ele se referia não é uma virtude mística, qual a entendem muitas pessoas, mas uma verdadeira força atrativa, de sorte que aquele que não a possui opõe à corrente fluídica uma força repulsiva, ou, pelo menos, uma força de inércia, que paralisa a ação. Assim sendo, também, se compreende que, apresentando-se ao curador dois doentes da mesma enfermidade, possa um ser curado e outro não. É este um dos mais importantes princípios da mediunidade curadora e que explica certas anomalias aparentes, apontando-lhes uma causa muito natural. (Cap. XIV, itens 31 a 33.)
 
-######  GEN-2-15-p48
+##### Cego de Betsaida
 
-######  GEN-2-15-p49
+######  12
 
-######  GEN-2-15-p50
+> E chegou a Betsaida; e trouxeram-lhe um cego e rogaram-lhe que lhe tocasse. E, tomando o cego pela mão, levou-o para fora da aldeia; e, cuspindo-lhe nos olhos e impondo-lhe as mãos, perguntou-lhe se via alguma coisa. E, levantando ele os olhos, disse: Vejo os homens, pois os vejo como árvores que andam. Depois, tornou a pôr-lhe as mãos nos olhos, e ele, olhando firmemente, ficou restabelecido e já via ao longe e distintamente a todos. E mandou-o para sua casa, dizendo: Não entres na aldeia.
+>
+> Marcos, cap. 08, vers. 22-26, ARC
 
-######  GEN-2-15-p51
+######  13
 
-######  GEN-2-15-p52
+Aqui, é evidente o efeito magnético; a cura não foi instantânea, porém gradual e consequente a uma ação prolongada e reiterada, se bem que mais rápida do que na magnetização ordinária. A primeira sensação que o homem teve foi exatamente a que experimentam os cegos ao recobrarem a vista. Por um efeito de óptica, os objetos lhes parecem de tamanho exagerado.
 
-######  GEN-2-15-p53
+##### Paralítico
 
-######  GEN-2-15-p54
+######  14
 
-######  GEN-2-15-p55
+> E, entrando no barco, passou para a outra margem, e chegou à sua cidade. E eis que lhe trouxeram um paralítico deitado numa cama. E Jesus, vendo a fé deles, disse ao paralítico: Filho, tem bom ânimo; perdoados te são os teus pecados. E eis que alguns dos escribas diziam entre si: Ele blasfema. Mas Jesus, conhecendo os seus pensamentos, disse: Por que pensais mal em vosso coração? Pois o que é mais fácil? Dizer ao paralítico: Perdoados te são os teus pecados, ou: Levanta-te e anda? Ora, para que saibais que o Filho do Homem tem na terra autoridade para perdoar pecados — disse então ao paralítico: Levanta-te, toma a tua cama e vai para tua casa. E, levantando-se, foi para sua casa. E a multidão, vendo isso, maravilhou-se e glorificou a Deus, que dera tal poder aos homens.
+>
+> Mateus, cap. 09, vers. 01-09, ARC
 
-######  GEN-2-15-p56
+######  15
 
-######  GEN-2-15-p57
+Que significariam aquelas palavras: “Teus pecados te são remitidos” e em que podiam elas influir para a cura? O Espiritismo lhes dá a explicação, como a uma infinidade de outras palavras incompreendidas até hoje. Por meio da pluralidade das existências, ele ensina que os males e aflições da vida são muitas vezes expiações do passado, bem como que sofremos na vida presente as consequências das faltas que cometemos em existência anterior e, assim, até que tenhamos pago a dívida de nossas imperfeições, pois que as existências são solidárias umas com as outras. 
 
-######  GEN-2-15-p58
+Se, portanto, a enfermidade daquele homem era uma expiação do mal que ele praticara, o dizer-lhe Jesus: “Teus pecados te são remitidos” equivalia a dizer-lhe: “Pagaste a tua dívida; a fé que agora possuis elidiu a causa da tua enfermidade; conseguintemente, mereces ficar livre dela.” Daí o haver dito aos escribas: “Tão fácil é dizer: Teus pecados te são perdoados, como: Levanta-te e anda.” Cessada a causa, o efeito tem que cessar. É precisamente o caso do encarcerado a quem se declara: “Teu crime está expiado e perdoado”, o que equivaleria a se lhe dizer: “Podes sair da prisão.”
 
-######  GEN-2-15-p59
+##### Os dez leprosos
 
-######  GEN-2-15-p60
+######  16
 
-######  GEN-2-15-p61
+> E aconteceu que, indo ele a Jerusalém, passou pelo meio de Samaria e da Galileia; e, entrando numa certa aldeia, saíram-lhe ao encontro dez homens leprosos, os quais pararam de longe. E levantaram a voz, dizendo: Jesus, Mestre, tem misericórdia de nós! E ele, vendo-os, disse-lhes: Ide e mostrai-vos aos sacerdotes. E aconteceu que, indo eles, ficaram limpos. E um deles, vendo que estava são, voltou glorificando a Deus em alta voz. E caiu aos seus pés, com o rosto em terra, dando-lhe graças; e este era samaritano. E, respondendo Jesus, disse: Não foram dez os limpos? E onde estão os nove? Não houve quem voltasse para dar glória a Deus, senão este estrangeiro? E disse-lhe: Levanta-te e vai; a tua fé te salvou.
+>
+> Lucas, cap. 17, vers. 11-19, ARC
 
-######  GEN-2-15-p62
+######  17
 
-######  GEN-2-15-p63
+Os samaritanos eram cismáticos,168 mais ou menos como os protestantes com relação aos católicos, e os judeus os tinham em desprezo, como heréticos. Curando indistintamente os judeus e os samaritanos, dava Jesus, ao mesmo tempo, uma lição e um exemplo de tolerância; e fazendo ressaltar que só o samaritano voltara a glorificar a Deus, mostrava que havia nele maior soma de verdadeira fé e de reconhecimento, do que nos que se diziam ortodoxos. Acrescentando: “Tua fé te salvou”, fez ver que Deus considera o que há no âmago do coração e não a forma exterior da adoração. Entretanto, também os outros tinham sido curados. Fora mister que tal se verificasse, para que Ele pudesse dar a lição que tinha em vista e tornar-lhes evidente a ingratidão. Quem sabe, porém, o que daí lhes haja resultado; quem sabe se eles terão se beneficiado da graça que lhes foi concedida? Dizendo ao samaritano: “Tua fé te salvou”, dá Jesus a entender que o mesmo não aconteceu aos outros.
 
-######  GEN-2-15-p64
+##### Mão seca
 
-######  GEN-2-15-p65
+######  18
 
-######  GEN-2-15-p66
+> E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada. E estavam observando-o se curaria no sábado, para o acusarem. E disse ao homem que tinha a mão mirrada: Levanta-te e vem para o meio. E perguntou-lhes: É lícito no sábado fazer bem ou fazer mal? Salvar a vida ou matar? E eles calaram-se. E, olhando para eles em redor com indignação, condoendo-se da dureza do seu coração, disse ao homem: Estende a mão. E ele a estendeu, e foi-lhe restituída a mão, sã como a outra. E, tendo saído os fariseus, tomaram logo conselho com os herodianos contra ele, procurando ver como o matariam.
+E retirou-se Jesus com os seus discípulos para o mar, e seguia-o uma grande multidão da Galileia, e da Judeia, 8e de Jerusalém, e da Idumeia, e dalém do Jordão, e de perto de Tiro, e de Sidom; uma grande multidão que, ouvindo quão grandes coisas fazia, vinha ter com ele.
+>
+> Marcos, cap. 03, vers. 01-08, ARC
 
-######  GEN-2-15-p67
+##### A mulher curvada
+
+######  19
+
+> E ensinava no sábado, numa das sinagogas. E eis que estava ali uma mulher que tinha um espírito de enfermidade havia já dezoito anos; e andava curvada e não podia de modo algum endireitar-se. E, vendo-a Jesus, chamou-a a si, e disse-lhe: Mulher, estás livre da tua enfermidade. E impôs as mãos sobre ela, e logo se endireitou e glorificava a Deus. E, tomando a palavra o príncipe da sinagoga, indignado porque Jesus curava no sábado, disse à multidão: Seis dias há em que é mister trabalhar; nestes, pois, vinde para serdes curados e não no dia de sábado. Respondeu-lhe, porém, o Senhor e disse: Hipócrita, no sábado não desprende da manjedoura cada um de vós o seu boi ou jumento e não o leva a beber água? E não convinha soltar desta prisão, no dia de sábado, esta filha de Abraão, a qual há dezoito anos Satanás mantinha presa? E, dizendo ele isso, todos os seus adversários ficaram envergonhados, e todo o povo se alegrava por todas as coisas gloriosas que eram feitas por ele.
+>
+> Lucas, cap. 13, vers. 10-17, ARC
+
+######  20
+
+Este fato prova que naquela época a maior parte das enfermidades era atribuída ao demônio e que todos confundiam, como ainda hoje, os possessos com os doentes, mas em sentido inverso, isto é, hoje, os que não acreditam nos maus Espíritos confundem as obsessões com as moléstias patológicas.
+
+##### O paralítico da piscina
+
+######  21
+
+> Depois disso, havia uma festa entre os judeus, e Jesus subiu a Jerusalém. Ora, em Jerusalém há, próximo à Porta das Ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres. Nestes jazia grande multidão de enfermos: cegos, coxos e paralíticos, esperando o movimento das águas. Porquanto um anjo descia em certo tempo ao tanque e agitava a água; e o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse. E estava ali um homem que, havia trinta e oito anos, se achava enfermo. E Jesus, vendo este deitado e sabendo que estava neste estado havia muito tempo, disse-lhe: Queres ficar são? O enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me coloque no tanque; mas, enquanto eu vou, desce outro antes de mim. Jesus disse-lhe: Levanta-te, toma tua cama e anda. Logo, aquele homem ficou são, e tomou a sua cama, e partiu. E aquele dia era sábado. 10Então, os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar a cama. Ele respondeu-lhes: Aquele que me curou, ele próprio disse: Toma a tua cama e anda. Perguntaram-lhe, pois: Quem é o homem que te disse: Toma a tua cama e anda? E o que fora curado não sabia quem era, porque Jesus se havia retirado, em razão de naquele lugar haver grande multidão. Depois, Jesus encontrou-o no templo e disse-lhe: Eis que já estás são; não peques mais, para que te não suceda alguma coisa pior. E aquele homem foi e anunciou aos judeus que Jesus era o que o curara. E, por essa causa, os judeus perseguiram Jesus e procuravam matá-lo, porque fazia essas coisas no sábado. E Jesus lhes respondeu: Meu Pai trabalha até agora, e eu trabalho também.
+>
+> João, cap. 05, vers. 01-17, ARC
+
+######  22
+
+“Piscina” (da palavra latina piscis, peixe), entre os romanos, eram chamados os reservatórios ou viveiros onde se criavam peixes. Mais tarde, o termo se tornou extensivo aos tanques destinados a banhos em comum. 
+
+A piscina de Betesda, em Jerusalém, era uma cisterna, próxima ao Templo, alimentada por uma fonte natural, cuja água parece ter tido propriedades curativas. Era, sem dúvida, uma fonte intermitente que, em certas épocas, jorrava com força, agitando a água. Segundo a crença vulgar, esse era o momento mais propício às curas. Talvez que, na realidade, ao brotar da fonte a água, mais ativas fossem as suas propriedades, ou que a agitação que o jorro produzia na água fizesse vir à tona a vasa [^169] salutar para algumas moléstias. Tais efeitos são muito naturais e perfeitamente conhecidos hoje; mas, então, as ciências estavam pouco adiantadas e à maioria dos fenômenos incompreendidos se atribuíam uma causa sobrenatural. Os judeus, pois, tinham a agitação da água como devida à presença de um anjo e tanto mais fundadas lhes pareciam essas crenças, quanto viam que, naquelas ocasiões, mais curativa se mostrava a água. 
+
+Depois de haver curado aquele paralítico, disse-lhe Jesus: “Para o futuro não tornes a pecar, a fim de que não te aconteça coisa pior.” Por essas palavras, deu-lhe a entender que a sua doença era uma punição e que, se ele não se melhorasse, poderia vir a ser de novo punido e com mais rigor, doutrina essa inteiramente conforme à do Espiritismo.
+
+[^169]: N.E.: Espécie de lama, fina e inconsistente, característica de certos fundos oceânicos, constituída por carapaças microscópicas de animais ou elementos minerais.
+
+######  23
+
+Jesus como que fazia questão de operar suas curas em dia de sábado, para ter ensejo de protestar contra o rigorismo dos fariseus no tocante à guarda desse dia. Queria mostrar-lhes que a verdadeira piedade não consiste na observância das práticas exteriores e das formalidades; que a piedade está nos sentimentos do coração. Justificava-se, declarando: “Meu Pai não cessa de trabalhar até ao presente e eu também trabalho incessantemente.” Quer dizer: Deus não interrompe suas obras, nem sua ação sobre as coisas da natureza, em dia de sábado. Ele não deixa de fazer que se produza tudo quanto é necessário à vossa alimentação e à vossa saúde; eu lhe sigo o exemplo.
+
+##### Cego de nascença
+
+######  24
+
+> E, passando Jesus, viu um homem cego de nascença. E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego? Jesus respondeu: Nem ele pecou, nem seus pais; mas foi assim para que se manifestem nele as obras de Deus. Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar. Enquanto estou no mundo, sou a luz do mundo. Tendo dito isso, cuspiu na terra, e, com a saliva, fez lodo, e untou com o lodo os olhos do cego. E disse-lhe: Vai, lava-te no tanque de Siloé (que significa o Enviado). Foi, pois, e lavou-se, e voltou vendo. Então, os vizinhos e aqueles que dantes tinham visto que era cego diziam: Não é este aquele que estava assentado e mendigava? Uns diziam: É este. E outros: Parece-se com ele. Ele dizia: Sou eu. Diziam-lhe, pois: Como se te abriram os olhos? Ele respondeu e disse-lhes: O homem chamado Jesus fez lodo, e untou-me os olhos, e disse-me: Vai ao tanque de Siloé e lava-te. Então, fui, e lavei-me, e vi. Disseram-lhe, pois: Onde está ele? Respondeu: Não sei. Levaram, pois, aos fariseus o que dantes era cego. E era sábado quando Jesus fez o lodo e lhe abriu os olhos. Tornaram, pois, também os fariseus a perguntar-lhe como vira, e ele lhes disse: Pôs-me lodo sobre os olhos, lavei-me e vejo. Então, alguns dos fariseus diziam: Este homem não é de Deus, pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles. Tornaram, pois, a dizer ao cego: Tu que dizes daquele que te abriu os olhos? E ele respondeu: Que é profeta. Os judeus, porém, não creram que ele tivesse sido cego e que agora visse, enquanto não chamaram os pais do que agora via. E perguntaram-lhes, dizendo: É este o vosso filho, que vós dizeis ter nascido cego? Como, pois, vê agora? Seus pais responderam e disseram-lhes: Sabemos que este é nosso filho e que nasceu cego, mas como agora vê não sabemos; ou quem lhe tenha aberto os olhos não sabemos; tem idade; perguntai-lho a ele mesmo, e ele falará por si mesmo. Seus pais disseram isso, porque temiam os judeus, porquanto já os judeus tinham resolvido que, se alguém confessasse ser ele o Cristo, fosse expulso da sinagoga. Por isso, é que seus pais disseram: Tem idade; perguntai-lho a ele mesmo. Chamaram, pois, pela segunda vez o homem que tinha sido cego e disseram-lhe: Dá glória a Deus; nós sabemos que esse homem é pecador. Respondeu ele, pois, e disse: Se é pecador, não sei; uma coisa sei, e é que, havendo eu sido cego, agora vejo. E tornaram a dizer-lhe: Que te fez ele? Como te abriu os olhos? Respondeu-lhes: Já vo-lo disse e não ouvistes; para que o quereis tornar a ouvir? Quereis vós, porventura, fazer-vos também seus discípulos? Então, o injuriaram e disseram: Discípulo dele sejas tu; nós, porém, somos discípulos de Moisés. Nós bem sabemos que Deus falou a Moisés, mas este não sabemos de onde é. O homem respondeu e disse-lhes: Nisto, pois, está a maravilha: que vós não saibais de onde ele é e me abrisse os olhos. Ora, nós sabemos que Deus não ouve a pecadores; mas, se alguém é temente a Deus e faz a sua vontade, a esse ouve. Desde o princípio do mundo, nunca se ouviu que alguém abrisse os olhos a um cego de nascença. Se este não fosse de Deus, nada poderia fazer. Responderam eles e disseram-lhe: Tu és nascido todo em pecados e nos ensinas a nós? E expulsaram-no.
+>
+> João, cap. 09, vers. 01-34, ARC
+
+######  25
+
+Esta narrativa, tão simples e singela, traz em si evidente o cunho da veracidade. Nada aí há de fantasista, nem de maravilhoso. É uma cena da vida real apanhada em flagrante. A linguagem do cego é exatamente a desses homens simples, nos quais o bom senso supre a falta de saber e que retrucam com bonomia aos argumentos de seus adversários, expendendo razões a que não faltam justeza, nem oportunidade. O tom dos fariseus, por outro lado, é o dos orgulhosos que nada admitem acima de suas inteligências e que se enchem de indignação à só ideia de que um homem do povo lhes possa fazer observações. Afora a cor local dos nomes, dir-se-ia ser do nosso tempo o fato. 
+
+Ser expulso da sinagoga equivalia a ser posto fora da Igreja. Era uma espécie de excomunhão. Os espíritas, cuja doutrina é a do Cristo de acordo com o progresso das luzes atuais, são tratados como os judeus que reconheciam em Jesus o Messias. Excomungando-os, a Igreja os põe fora de seu seio, como fizeram os escribas e os fariseus com os seguidores do Cristo. Assim, aí está um homem que é expulso porque não pode admitir seja um possesso do demônio aquele que o curara e porque rende graças a Deus pela sua cura! 
+
+Não é o que fazem com os espíritas? Obter dos Espíritos salutares conselhos, a reconciliação com Deus e com o bem, curas, tudo isso é obra do diabo e sobre os que isso conseguem lança-se anátema. Não se têm visto padres declararem, do alto do púlpito, que é melhor uma pessoa conservar-se incrédula do que recobrar a fé por meio do Espiritismo? Não há os que dizem a doentes que estes não deviam ter procurado curar-se com os espíritas que possuem esse dom, porque esse dom é satânico? Não há os que pregam que os necessitados não devem aceitar o pão que os espíritas distribuem, por ser do diabo esse pão? Que outra coisa diziam ou faziam os padres judeus e os fariseus? Aliás, fomos avisados de que tudo hoje tem que se passar como ao tempo do Cristo. 
+
+A pergunta dos discípulos: “Foi algum pecado deste homem que deu causa a que ele nascesse cego?” revela que eles tinham a intuição de uma existência anterior, pois, do contrário, ela careceria de sentido, visto que um pecado somente pode ser causa de uma enfermidade de nascença, se cometido antes do nascimento, portanto, numa existência anterior. Se Jesus considerasse falsa semelhante ideia, ter-lhes-ia dito: “Como houvera este homem podido pecar antes de ter nascido?” Em vez disso, porém, diz que aquele homem estava cego, não por ter pecado, mas para que nele se patenteasse o poder de Deus, isto é, para que servisse de instrumento a uma manifestação do poder de Deus. Se não era uma expiação do passado, era uma provação apropriada ao progresso daquele Espírito, porquanto Deus, que é justo, não lhe imporia um sofrimento sem utilidade. 
+
+Quanto ao meio empregado para a sua cura, evidentemente aquela espécie de lama feita de saliva e terra nenhuma virtude podia encerrar, a não ser pela ação do fluido curativo de que fora impregnada. É assim que as mais insignificantes substâncias, como a água, por exemplo, podem adquirir qualidades poderosas e efetivas, sob a ação do fluido espiritual ou magnético, ao qual elas servem de veículo, ou, se quiserem, de reservatório.
+
+##### Numerosas curas operadas por Jesus
+
+######  26
+
+> E percorria Jesus toda a Galileia, ensinando nas suas sinagogas, e pregando o evangelho do Reino, e curando todas as enfermidades e moléstias entre o povo. E a sua fama correu por toda a Síria; e traziam-lhe todos os que padeciam acometidos de várias enfermidades e tormentos, os endemoninhados, os lunáticos e os paralíticos, e ele os curava. E seguia-o uma grande multidão da Galileia, de Decápolis, de Jerusalém, da Judeia e dalém do Jordão.
+>
+> Mateus, cap. 04, vers. 23-25, ARC
+
+######  27
+
+De todos os fatos que dão testemunho do poder de Jesus, os mais numerosos são, não há contestar, as curas. Queria Ele provar dessa forma que o verdadeiro poder é o daquele que faz o bem; que o seu objetivo era ser útil e não satisfazer à curiosidade dos indiferentes, por meio de coisas extraordinárias. 
+
+Aliviando os sofrimentos, prendia a si as criaturas pelo coração e fazia prosélitos mais numerosos e sinceros, do que se apenas os maravilhasse com espetáculos para os olhos. Daquele modo, fazia-se amado, ao passo que se se limitasse a produzir surpreendentes fatos materiais, conforme os fariseus reclamavam, a maioria das pessoas não teria visto nele senão um feiticeiro, ou um mágico hábil, que os desocupados iriam apreciar para se distraírem. 
+
+Assim, quando João Batista manda, por seus discípulos, perguntar-lhe se Ele era o Cristo, a sua resposta não foi: “Eu o sou”, como qualquer impostor houvera podido dizer. Tampouco lhes fala de prodígios, nem de coisas maravilhosas; responde-lhes simplesmente: “Ide dizer a João: os cegos veem, os doentes são curados, os surdos ouvem, o Evangelho é anunciado aos pobres.” O mesmo era que dizer: “Reconhecei-me pelas minhas obras; julgai da árvore pelo fruto”, porquanto era esse o verdadeiro caráter da sua missão divina.
+
+######  28
+
+O Espiritismo, igualmente, pelo bem que faz é que prova a sua missão providencial. Ele cura os males físicos, mas cura, sobretudo, as doenças morais e são esses os maiores prodígios que lhe atestam a procedência. Seus mais sinceros adeptos não são os que se sentem tocados pela observação de fenômenos extraordinários, mas os que dele recebem a consolação para suas almas; os a quem liberta das torturas da dúvida; aqueles a quem levantou o ânimo na aflição, que hauriram forças na certeza, que lhes trouxe, acerca do futuro, no conhecimento do seu ser espiritual e de seus destinos. Esses os de fé inabalável, porque sentem e compreendem. 
+
+Os que no Espiritismo unicamente procuram efeitos materiais, não lhe podem compreender a força moral. Daí vem que os incrédulos, que apenas o conhecem pelos fenômenos cuja causa primária não admitem, consideram os espíritas meros prestidigitadores e charlatães. Não será, pois, por meio de prodígios que o Espiritismo triunfará da incredulidade será pela multiplicação dos seus benefícios morais, porquanto, se é certo que os incrédulos não admitem os prodígios, não menos certo é que conhecem, como toda gente, o sofrimento e as aflições e ninguém recusa alívio e consolação.
+
+##### Possessos
+
+######  29
+
+> Entraram em Cafarnaum, e, logo no sábado, indo ele à sinagoga, ali ensinava. E maravilharam-se da sua doutrina, porque os ensinava como tendo autoridade e não como os escribas. E estava na sinagoga deles um homem com um espírito imundo, o qual exclamou, dizendo: Ah! Que temos contigo, Jesus Nazareno? Vieste destruir-nos? Bem sei quem és: o Santo de Deus. E repreendeu-o Jesus, dizendo: Cala-te e sai dele. Então, o espírito imundo, agitando-o e clamando com grande voz, saiu dele. E todos se admiraram, a ponto de perguntarem entre si, dizendo: Que é isto? Que nova doutrina é esta? Pois com autoridade ordena aos espíritos imundos, e eles lhe obedecem!
+>
+> Marcos, cap. 01, vers. 21-27, ARC
+
+######  30
+
+> E, havendo-se eles retirado, trouxeram-lhe um homem mudo e endemoninhado. E, expulso o demônio, falou o mudo; e a multidão se maravilhou, dizendo: Nunca tal se viu em Israel. Mas os fariseus diziam: Ele expulsa os demônios pelo príncipe dos demônios.
+>
+> Mateus, 09, cap. vers. 32-34, ARC
+
+######  31
+
+> Digo-vos, porém, que Elias já veio, e fizeram-lhe tudo o que quiseram, como dele está escrito. E, quando se aproximou dos discípulos, viu ao redor deles grande multidão e alguns escribas que disputavam com eles. E logo toda a multidão, vendo-o, ficou espantada, e, correndo para ele, o saudaram. E perguntou aos escribas: Que é que discutis com eles? E um da multidão, respondendo, disse: Mestre, trouxe-te o meu filho, que tem um espírito mudo; e este, onde quer que o apanha, despedaça-o, e ele espuma, e range os dentes, e vai-se secando; e eu disse aos teus discípulos que o expulsassem, e não puderam. E ele, respondendo-lhes, disse: Ó geração incrédula! Até quando estarei convosco? Até quando vos sofrerei ainda? Trazei-mo. E trouxeram-lho; e, quando ele o viu, logo o espírito o agitou com violência; e, caindo o endemoninhado por terra, revolvia-se, espumando. E perguntou ao pai dele: Quanto tempo há que lhe sucede isto? E ele disse-lhe: Desde a infância. E muitas vezes o tem lançado no fogo e na água, para o destruir; mas, se tu podes fazer alguma coisa, tem compaixão de nós e ajuda-nos. E Jesus disse-lhe: Se tu podes crer; tudo é possível ao que crê. E logo o pai do menino, clamando, com lágrimas, disse: Eu creio, Senhor! Ajuda a minha incredulidade. E Jesus, vendo que a multidão concorria, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno: sai dele e não entres mais nele. E ele, clamando e agitando-o com violência, saiu; e ficou o menino como morto, de tal maneira que muitos diziam que estava morto. Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou. E, quando entrou em casa, os seus discípulos lhe perguntaram à parte: Por que o não pudemos nós expulsar?
+>
+> Marcos, cap. 09, vers. 13-28, ARC
+
+######  32
+
+> Trouxeram-lhe, então, um endemoninhado cego e mudo; e, de tal modo o curou, que o cego e mudo falava e via. E toda a multidão se admirava e dizia: Não é este o Filho de Davi? Mas os fariseus, ouvindo isso, diziam: Este não expulsa os demônios senão por Belzebu, príncipe dos demônios. Jesus, porém, conhecendo os seus pensamentos, disse-lhes: Todo reino dividido contra si mesmo é devastado; e toda cidade ou casa dividida contra si mesma não subsistirá. E, se Satanás expulsa a Satanás, está dividido contra si mesmo; como subsistirá, pois, o seu reino? E, se eu expulso os demônios por Belzebu, por quem os expulsam, então, os vossos filhos? Portanto, eles mesmos serão os vossos juízes. Mas, se eu expulso os demônios pelo Espírito de Deus, é conseguintemente chegado a vós o Reino de Deus.
+>
+> Mateus, cap. 12, vers. 22-28, ARC
+
+######  33
+
+Com as curas, as libertações de possessos figuram entre os mais numerosos atos de Jesus. Alguns há, entre os fatos dessa natureza, como os acima narrados, no item 30, em que a possessão não é evidente. Provavelmente, naquela época, como ainda hoje acontece, atribuía-se à influência dos demônios todas as enfermidades cuja causa se não conhecia, principalmente a mudez, a epilepsia e a catalepsia. Outros há, todavia, em que nada tem de duvidosa a ação dos maus Espíritos, casos esses que guardam com os de que somos testemunhas tão frisante analogia, que neles se reconhecem todos os sintomas de tal gênero de afecção. A prova da participação de uma inteligência oculta, em tal caso, ressalta de um fato material: são as múltiplas curas radicais obtidas, nalguns centros espíritas, pela só evocação e doutrinação dos Espíritos obsessores, sem magnetização, nem medicamentos e, muitas vezes, na ausência do paciente e a grande distância deste. A imensa superioridade do Cristo lhe dava tal autoridade sobre os Espíritos imperfeitos, chamados então demônios, que lhe bastava ordenar se retirassem para que não pudessem resistir a essa injunção. (Cap. XIV, item 46.)
+
+######  34
+
+O fato de serem alguns maus Espíritos mandados meter-se em corpos de porcos é o que pode haver de menos provável. Aliás, seria difícil explicar a existência de tão numeroso rebanho de porcos num país onde esse animal era tido em horror e nenhuma utilidade oferecia para a alimentação. Um Espírito, porque mau, não deixa de ser um Espírito humano, embora tão imperfeito que continue a fazer mal, depois de desencarnar, como o fazia antes, e é contra todas as leis da natureza que lhe seja possível fazer morada no corpo de um animal. No fato, pois, a que nos referimos, temos que reconhecer a existência de uma dessas ampliações tão comuns nos tempos de ignorância e de superstição; ou, então, será uma alegoria destinada a caracterizar os pendores imundos de certos Espíritos.
+
+######  35
+
+Parece que, ao tempo de Jesus, eram em grande número, na Judeia, os obsidiados e os possessos, donde a oportunidade que Ele teve de curar a muitos. Sem dúvida, os Espíritos maus haviam invadido aquele país e causado uma epidemia de possessões. (Cap. XIV, item 49.) 
+
+Sem apresentarem caráter epidêmico, as obsessões individuais são muitíssimo frequentes e se apresentam sob os mais variados aspectos que, entretanto, por um conhecimento amplo do Espiritismo, facilmente se descobrem. Podem, não raro, trazer consequências danosas à saúde, seja agravando afecções orgânicas já existentes, seja ocasionando-as. Um dia, virão a ser, incontestavelmente, arroladas entre as causas patológicas que requerem, pela sua natureza especial, especiais meios de tratamento. Revelando a causa do mal, o Espiritismo rasga nova senda à arte de curar e fornece à Ciência meio de alcançar êxito onde até hoje quase sempre vê malogrados seus esforços, pela razão de não atender à primordial causa do mal. (O livro dos médiuns, 2a Parte, cap. XXIII.)
+
+######  36
+
+Os fariseus diziam que por influência dos demônios é que Jesus expulsava os demônios; segundo eles, o bem que Jesus fazia era obra de Satanás; não refletiam que, se Satanás expulsasse a si mesmo, praticaria rematada insensatez. É de notar-se que os fariseus daquele tempo já pretendessem que toda faculdade transcendente e, por esse motivo, reputada sobrenatural, era obra do demônio, pois que, na opinião deles, era do demônio que Jesus recebia o poder de que dispunha. É esse mais um ponto de semelhança daquela com a época atual e tal doutrina é ainda a que a Igreja procura fazer que prevaleça hoje, contra as manifestações espíritas. [^170]
+
+[^170]: Nota de Allan Kardec: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825):
+
+“Se Jesus operasse seus milagres pelo poder do demônio, este houvera trabalhado pela destruição do seu império e teria empregado contra si próprio o seu poder. Certamente, um demônio que procurasse destruir o reinado do vício para implantar o da virtude, seria um demônio muito singular. Eis por que Jesus, para repelir a absurda acusação dos judeus, lhes dizia: “Se opero prodígios em nome do demônio, o demônio está dividido consigo mesmo, trabalha, conseguintemente, por se destruir a si próprio!” Resposta que não admite réplica. 
+
+É precisamente o argumento que os espíritas opõem aos que atribuem ao demônio os bons conselhos que os Espíritos lhes dão. O demônio agiria então como um ladrão profissional que restituísse tudo o que houvesse roubado e exortasse os outros ladrões a se tornarem pessoas honestas.
+
+##### Ressurreições
+
+**A filha de Jairo**
+
+######  37
+
+E, passando Jesus outra vez num barco para o outro lado, ajuntou-se a ele uma grande multidão; e ele estava junto do mar. E eis que chegou um dos principais da sinagoga, por nome Jairo, e, vendo-o, prostrou-se aos seus pés e rogava-lhe muito, dizendo: Minha filha está moribunda; rogo-te que venhas e lhe imponhas as mãos para que sare e viva. E foi com ele, e seguia-o uma grande multidão, que o apertava. E certa mulher, que havia doze anos tinha um fluxo de sangue, e que havia padecido muito com muitos médicos, e despendido tudo quanto tinha, nada lhe aproveitando isso, antes indo a pior, ouvindo falar de Jesus, veio por detrás, entre a multidão, e tocou na sua vestimenta. Porque dizia: Se tão somente tocar nas suas vestes, sararei. E logo se lhe secou a fonte do seu sangue, e sentiu no seu corpo estar já curada daquele mal. E logo Jesus, conhecendo que a virtude de si mesmo saíra, voltou-se para a multidão e disse: Quem tocou nas minhas vestes? E disseram-lhe os seus discípulos: Vês que a multidão te aperta, e dizes: Quem me tocou? E ele olhava em redor, para ver a que isso fizera. Então, a mulher, que sabia o que lhe tinha acontecido, temendo e tremendo, aproximou-se, e prostrou-se diante dele, e disse-lhe toda a verdade. E ele lhe disse: Filha, a tua fé te salvou; vai em paz e sê curada deste teu mal. Estando ele ainda falando, chegaram alguns do principal da sinagoga, a quem disseram: A tua filha está morta; para que enfadas mais o Mestre? E Jesus, tendo ouvido essas palavras, disse ao principal da sinagoga: Não temas, crê somente. E não permitiu que alguém o seguisse, a não ser Pedro, e Tiago, e João, irmão de Tiago. E, tendo chegado à casa do principal da sinagoga, viu o alvoroço e os que choravam muito e pranteavam. E, entrando, disse-lhes: Por que vos alvoroçais e chorais? A menina não está morta, mas dorme. E riam-se dele; porém ele, tendo-os feito sair, tomou consigo o pai e a mãe da menina e os que com ele estavam e entrou onde a menina estava deitada. E, tomando a mão da menina, disse-lhe: Talitá cumi, que, traduzido, é: Menina, a ti te digo: levanta-te. E logo a menina se levantou e andava, pois já tinha doze anos; e assombraram-se com grande espanto. E mandou-lhes expressamente que ninguém o soubesse; e disse que lhe dessem de comer.
+
+##### O filho da viúva de Naim
+
+######  38
+
+**O filho da viúva de Naim**
+
+> E aconteceu, pouco depois, ir ele à cidade chamada Naim, e com ele iam muitos dos seus discípulos e uma grande multidão. E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade. E, vendo-a, o Senhor moveu-se de íntima compaixão por ela e disse-lhe: Não chores. E, chegando-se, tocou o esquife (e os que o levavam pararam) e disse: Jovem, eu te digo: Levanta-te. E o defunto assentou-se e começou a falar. E entregou-o à sua mãe. E de todos se apoderou o temor, e glorificavam a Deus, dizendo: Um grande profeta se levantou entre nós, e Deus visitou o seu povo. E correu dele esta fama por toda a Judeia e por toda a terra circunvizinha.
+>
+> Lucas, cap. 07, vers. 11-17, ARC
+
+######  39
+
+Contrário seria às leis da natureza e, portanto, milagroso, o fato de voltar à vida corpórea um indivíduo que se achasse realmente morto. Ora, não há mister se recorra a essa ordem de fatos, para ter-se a explicação das ressurreições que Jesus operou. 
+
+Se, mesmo na atualidade, as aparências enganam por vezes os profissionais, quão mais frequentes não haviam de ser os acidentes daquela natureza, num país onde nenhuma precaução se tomava contra eles e onde o sepultamento era imediato. [^171] É, pois, de todo ponto provável que, nos dois casos acima, apenas síncope ou letargia houvesse. O próprio Jesus declara positivamente, com relação à filha de Jairo: “Esta menina,” disse Ele, “não está morta, está apenas adormecida.” 
+
+Dado o poder fluídico que Ele possuía, nada de espantoso há em que esse fluido vivificante, acionado por uma vontade forte, haja reanimado os sentidos em torpor; que haja mesmo feito voltar ao corpo o Espírito, prestes a abandoná-lo, uma vez que o laço perispirítico ainda se não rompera definitivamente. Para os homens daquela época, que consideravam morto o indivíduo desde que deixara de respirar, havia ressurreição em casos tais; mas, o que na realidade havia era cura e não ressurreição, na acepção legítima do termo.
+
+[^171]: Nota de Allan Kardec: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. 
+
+“Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito. Aqueles rapazes, voltando, a encontraram morta e, levando-a, enterraram-na junto do marido.”
+
+######  40
+
+A ressurreição de Lázaro, digam o que disserem, de nenhum modo infirma este princípio. Ele estava, dizem, havia quatro dias no sepulcro; sabe-se, porém, que há letargias que duram oito dias e até mais. Acrescentam que já cheirava mal, o que é sinal de decomposição. Esta alegação também nada prova, dado que em certos indivíduos há decomposição parcial do corpo, mesmo antes da morte, havendo em tal caso cheiro de podridão. A morte só se verifica quando são atacados os órgãos essenciais à vida. 
+
+E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o disse. Mas como o sabia ela? Por haver já quatro dias que Lázaro fora enterrado, ela o supunha; nenhuma certeza, entretanto, podia ter. (Cap. XIV, item 29.) [^172]
+
+[^172]: Nota de Allan Kardec: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
+
+##### Jesus caminha sobre a água
+
+######  41
+
+> E logo ordenou Jesus que os seus discípulos entrassem no barco e fossem adiante, para a outra banda, enquanto despedia a multidão. E, despedida a multidão, subiu ao monte para orar à parte. E, chegada já a tarde, estava ali só. E o barco estava já no meio do mar, açoitado pelas ondas, porque o vento era contrário. Mas, à quarta vigília da noite, dirigiu-se Jesus para eles, caminhando por cima do mar. [^173] E os discípulos, vendo-o caminhar sobre o mar, assustaram-se, dizendo: É um fantasma. E gritaram, com medo. Jesus, porém, lhes falou logo, dizendo: Tende bom ânimo, sou eu; não temais. E respondeu-lhe Pedro e disse: Senhor, se és tu, manda-me ir ter contigo por cima das águas. E ele disse: Vem. E Pedro, descendo do barco, andou sobre as águas para ir ter com Jesus. Mas, sentindo o vento forte, teve medo; e, começando a ir para o fundo, clamou, dizendo: Senhor, salva-me. E logo Jesus, estendendo a mão, segurou-o e disse-lhe: Homem de pequena fé, por que duvidaste? E, quando subiram para o barco, acalmou o vento. Então, aproximaram-se os que estavam no barco e adoraram-no, dizendo: És verdadeiramente o Filho de Deus.
+>
+> Mateus, cap. 14, vers. 22-33, ARC
+
+[^173]: Nota de Allan Kardec: O lago de Genesaré ou de Tiberíades.
+
+######  42
+
+Este fenômeno encontra explicação natural nos princípios acima expostos, cap. XIV, item 43.
+
+Exemplos análogos provam que ele nada tem de impossível, nem de miraculoso, pois que se produz sob a ação das leis da natureza. Pode operar-se de duas maneiras. 
+
+Jesus, embora estivesse vivo, pôde aparecer sobre a água, com uma forma tangível, estando alhures o seu corpo. É a hipótese mais provável. Fácil é mesmo descobrir-se na narrativa alguns sinais característicos das aparições tangíveis. (Cap. XIV, itens 35 a 37.) 
+
+Por outro lado, também pode ter sucedido que seu corpo fosse sustentado e neutralizada a sua gravidade pela mesma força fluídica que mantém no espaço uma mesa, sem ponto de apoio. Idêntico efeito se produz muitas vezes com os corpos humanos.
+
+##### Transfiguração
+
+######  43
+
+> Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o Reino de Deus com poder. E, seis dias depois, Jesus tomou consigo a Pedro, a Tiago e a João, e os levou sós, em particular, a um alto monte [^174], e transfigurou-se diante deles. E as suas vestes tornaram-se resplandecentes, em extremo brancas como a neve, tais como nenhum lavadeiro sobre a terra as poderia branquear. E apareceram-lhes Elias e Moisés e falavam com Jesus. E Pedro, tomando a palavra, disse a Jesus: Mestre, bom é que nós estejamos aqui e façamos três cabanas, uma para ti, outra para Moisés e outra para Elias. Pois não sabia o que dizia, porque estavam assombrados. E desceu uma nuvem que os cobriu com a sua sombra, e saiu da nuvem uma voz, que dizia: Este é o meu Filho amado; a ele ouvi. E, tendo olhado ao redor, ninguém mais viram, senão Jesus com eles. E, descendo eles do monte, ordenou-lhes que a ninguém contassem o que tinham visto, até que o Filho do Homem ressuscitasse dos mortos.
+>
+> Marcos, cap. 09, vers. 01-09, ARC
+
+[^174]: Nota de Allan Kardec: O Monte Tabor, a sudoeste do lago de Tabarich e a 11 quilômetros a sudeste de Nazaré, com cerca de 1.000 metros de altura.
+
+######  44
+
+É ainda nas propriedades do fluido perispirítico que se encontra a explicação deste fenômeno. A transfiguração, explicada no cap. XIV, item 39, é um fato muito comum que, em virtude da irradiação fluídica, pode modificar a aparência de um indivíduo; mas, a pureza do perispírito de Jesus permitiu que seu Espírito lhe desse excepcional fulgor. Quanto à aparição de Moisés e Elias cabe inteiramente no rol de todos os fenômenos do mesmo gênero. (Cap. XIV, itens 35 e seguintes.) 
+
+De todas faculdades que Jesus revelou, nenhuma se pode apontar estranha às condições da humanidade e que se não encontre comumente nos homens, porque estão todas na ordem da natureza. Pela superioridade, porém, da sua essência moral e de suas qualidades fluídicas, aquelas faculdades atingiam nele proporções muito acima das que são vulgares. Posto de lado o seu envoltório carnal, Ele nos patenteava o estado dos puros Espíritos.
+
+##### Tempestade aplacada
+
+######  45
+
+> E aconteceu que, num daqueles dias, entrou num barco com seus discípulos e disse-lhes: Passemos para a outra banda do lago. E partiram. E, navegando eles, adormeceu; e sobreveio uma tempestade de vento no lago, e o barco enchia-se de água, estando eles em perigo. E, chegando-se a ele, o despertaram, dizendo: Mestre, Mestre, estamos perecendo. E ele, levantando-se, repreendeu o vento e a fúria da água; e cessaram, e fez-se bonança. E disse-lhes: Onde está a vossa fé? E eles, temendo, maravilharam-se, dizendo uns aos outros: Quem é este, que até aos ventos e à água manda, e lhe obedecem?
+>
+> Lucas, cap. 08, vers. 22-25, ARC
+
+######  46
+
+Ainda não conhecemos bastante os segredos da natureza para dizer se há ou não inteligências ocultas presidindo à ação dos elementos. Na hipótese de haver, o fenômeno em questão poderia ter resultado de um ato de autoridade sobre essas inteligências e provaria um poder que a nenhum homem é dado exercer. 
+
+Como quer que seja, o fato de estar Jesus a dormir tranquilamente, durante a tempestade, atesta de sua parte uma segurança que se pode explicar pela circunstância de que seu Espírito via não haver perigo nenhum e que a tempestade ia amainar.
+
+##### Bodas de Caná
+
+######  47
+
+Este milagre, referido unicamente no Evangelho de João, é apresentado como o primeiro que Jesus operou e, nessas condições, devera ter sido um dos mais notados. Entretanto, bem fraca impressão parece haver produzido, pois que nenhum outro evangelista dele trata. Fato tão extraordinário era para deixar espantados, no mais alto grau, os convivas e, sobretudo, o dono da casa, os quais, todavia, parece que não o perceberam.
+
+Considerado em si mesmo, pouca importância tem o fato, em comparação com os que, verdadeiramente, atestam as qualidades espirituais de Jesus. Admitido que as coisas hajam ocorrido, conforme foram narradas, é de notar-se seja esse, de tal gênero, o único fenômeno que se tenha produzido. Jesus era de natureza extremamente elevada, para se ater a efeitos puramente materiais, próprios apenas a aguçar a curiosidade da multidão que, então, o teria nivelado a um mágico. Ele sabia que as coisas úteis lhe conquistariam mais simpatias e lhe granjeariam mais adeptos, do que as que facilmente passariam por fruto de grande habilidade e destreza (Item 27).
+
+Se bem que, a rigor, o fato se possa explicar, até certo ponto, por uma ação fluídica que houvesse, como o magnetismo oferece muitos exemplos, mudado as propriedades da água, dando-lhe o sabor do vinho, pouco provável é se tenha verificado semelhante hipótese, dado que, em tal caso, a água, tendo do vinho unicamente o sabor, houvera conservado a sua coloração, o que não deixaria de ser notado. Mais racional é se reconheça aí uma daquelas parábolas tão frequentes nos ensinos de Jesus, como a do filho pródigo, a do festim de bodas, do mau rico, da figueira que secou e tantas outras que, todavia, se apresentam com caráter de fatos ocorridos. Provavelmente, durante o repasto, terá Ele aludido ao vinho e à água, tirando de ambos um ensinamento. Justificam esta opinião as palavras que a respeito lhe dirige o mordomo: “Toda gente serve em primeiro lugar o vinho bom e, depois que todos o têm bebido muito, serve o menos fino; tu, porém, guardas até agora o bom vinho.”
+
+Entre duas hipóteses, deve-se preferir a mais racional e os espíritas não são tão crédulos que por toda parte vejam manifestações, nem tão absolutos em suas opiniões, que pretendam explicar tudo por meio dos fluidos.
+
+##### Multiplicação dos pães
+
+######  48
+
+A multiplicação dos pães é um dos milagres que mais têm intrigado os comentadores e alimentado, ao mesmo tempo, as zombarias dos incrédulos. Sem se darem ao trabalho de lhe perscrutar o sentido alegórico, para estes últimos ele não passa de um conto pueril.
+
+­Entretanto, a maioria das pessoas sérias há visto na narrativa desse fato, embora sob forma diferente da ordinária, uma parábola, em que se compara o alimento espiritual da alma ao alimento do corpo.
+
+Pode-se, todavia, perceber nela mais do que uma simples figura e admitir, de certo ponto de vista, a realidade de um fato material, sem que, para isso, seja preciso se recorra ao prodígio. É sabido que uma grande preocupação de espírito, bem como a atenção fortemente presa a uma coisa fazem esquecer a fome. Ora, os que acompanhavam a Jesus eram criaturas ávidas de ouvi-lo; nada há, pois, de espantar em que, fascinadas pela sua palavra e também, talvez, pela poderosa ação magnética que Ele exercia sobre os que o cercavam, elas não tenham experimentado a necessidade material de comer.
+
+Prevendo esse resultado, Jesus nenhuma dificuldade teve para tranquilizar os discípulos, dizendo-lhes, na linguagem figurada que lhe era habitual e admitido que realmente houvessem trazido alguns pães, que estes bastariam para matar a fome à multidão. Simultaneamente, ministrava aos referidos discípulos um ensinamento, com o lhes dizer: “Dai-lhes vós mesmos de comer.” Ensinava-lhes assim que também eles podiam alimentar por meio da palavra.
+
+Desse modo, a par do sentido moral alegórico, produziu-se um efeito fisiológico, natural e muito conhecido. O prodígio, no caso, está no ascendente da palavra de Jesus, poderosa bastante para cativar a atenção de uma multidão imensa, ao ponto de fazê-la esquecer-se de comer. Esse poder moral comprova a superioridade de Jesus, muito mais do que o fato puramente material da multiplicação dos pães, que tem de ser considerada como alegoria.
+
+Esta explicação, aliás, o próprio Jesus a confirmou nas duas passagens seguintes:
+
+##### O fermento dos fariseus
+
+######  49
+
+> E, passando seus discípulos para a outra banda, tinham-se esquecido de fornecer-se de pão. E Jesus disse-lhes: Adverti e acautelai-vos do fermento dos fariseus e saduceus. E eles arrazoavam entre si, dizendo: É porque não nos fornecemos de pão. E Jesus, percebendo isso, disse: Por que arrazoais entre vós, homens de pequena fé, sobre o não vos terdes fornecido de pão? Não compreendeis ainda, nem vos lembrais dos cinco pães para cinco mil homens e de quantos cestos levantastes? Nem dos sete pães para quatro mil e de quantos cestos levantastes? Como não compreendestes que não vos falei a respeito do pão, mas que vos guardásseis do fermento dos fariseus e saduceus? Então, compreenderam que não dissera que se guardassem do fermento do pão, mas da doutrina dos fariseus.
+>
+> Mateus, cap. 16, vers. 05-12, ARC
+
+##### O pão do céu
+
+######  50
+
+No dia seguinte, a multidão que estava do outro lado do mar, vendo que não havia ali mais do que um barquinho e que Jesus não entrara com seus discípulos naquele barquinho, mas que os seus discípulos tinham ido sós (contudo, outros barquinhos tinham chegado de Tiberíades, perto do lugar onde comeram o pão, havendo o Senhor dado graças); vendo, pois, a multidão que Jesus não estava ali, nem os seus discípulos, entraram eles também nos barcos e foram a Cafarnaum, em busca de Jesus. E, achando-o no outro lado do mar, disseram-lhe: Rabi, quando chegaste aqui? Jesus respondeu e disse-lhes: Na verdade, na verdade vos digo que me buscais não pelos sinais que vistes, mas porque comestes do pão e vos saciastes. Trabalhai não pela comida que perece, mas pela comida que permanece para a vida eterna, a qual o Filho do Homem vos dará, porque a este o Pai, Deus, o selou. Disseram-lhe, pois: Que faremos para executarmos as obras de Deus? Jesus respondeu e disse-lhes: A obra de Deus é esta: que creiais naquele que ele enviou. Disseram-lhe, pois: Que sinal, pois, fazes tu, para que o vejamos, e creiamos em ti? Que operas tu? Nossos pais comeram o maná no deserto, como está escrito: Deu-lhes a comer o pão do céu. Disse-lhes, pois, Jesus: Na verdade, na verdade vos digo que Moisés não vos deu o pão do céu, mas meu Pai vos dá o verdadeiro pão do céu. Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo. Disseram-lhe, pois: Senhor, dá-nos sempre desse pão. E Jesus lhes disse: Eu sou o pão da vida; aquele que vem a mim não terá fome; e quem crê em mim nunca terá sede. Mas já vos disse que também vós me vistes e, contudo, não credes.
+
+######  51
+
+Na primeira passagem, lembrando o fato precedentemente operado, Jesus dá claramente a entender que não se tratara de pães materiais, pois, a não ser assim, careceria de objeto a comparação por Ele estabelecida com o fermento dos fariseus: “Ainda não compreendeis, diz Ele, e não vos recordais de que cinco pães bastaram para cinco mil pessoas e que dois pães foram bastantes para quatro mil? Como não compreendestes que não era de pão que eu vos falava, quando vos dizia que vos preservásseis do fermento dos fariseus?” Esse confronto nenhuma razão de ser teria, na hipótese de uma multiplicação material. O fato fora de si mesmo muito extraordinário para ter impressionado fortemente a imaginação dos discípulos, que, entretanto, pareciam não mais lembrar-se dele. 
+
+É também o que não menos claramente ressalta, do que Jesus expendeu sobre o pão do céu, empenhado em fazer que seus ouvintes compreendessem o verdadeiro sentido do alimento espiritual. “Trabalhai, diz Ele, não por conseguir o alimento que perece, mas pelo que se conserva para a vida eterna e que o Filho do Homem vos dará.” Esse alimento é a sua palavra, pão que desceu do céu e dá vida ao mundo. “Eu sou, declara Ele, o pão da vida; aquele que vem a mim não terá fome e aquele que em mim crê nunca terá sede.” 
+
+Tais distinções, porém, eram por demais sutis para aquelas naturezas rudes, que somente compreendiam as coisas tangíveis. Para eles, o maná, que alimentara o corpo de seus antepassados, era o verdadeiro pão do céu; aí é que estava o milagre. Se, portanto, houvesse ocorrido materialmente o fato da multiplicação dos pães, como teria Ele impressionado tão fracamente aqueles mesmos homens, a cujo benefício essa multiplicação se operara poucos dias antes, ao ponto de perguntarem a Jesus: “Que milagre farás para que, vendo-o, te creiamos? Que farás de extraordinário?” Eles entendiam por milagres os prodígios que os fariseus pediam, isto é, sinais que aparecessem no céu por ordem de Jesus, como pela varinha de um mágico. Ora, o que Jesus fazia era extremamente simples e não se afastava das leis da natureza; as próprias curas não revelavam caráter muito singular, nem muito extraordinário. Para eles, os milagres espirituais não apresentavam grande vulto.
+
+##### Tentação de Jesus
+
+######  52
+
+Jesus, transportado pelo diabo ao pináculo do Templo, depois ao cume de uma montanha e por ele tentado, constitui uma daquelas parábolas que lhe eram familiares e que a credulidade pública transformou em fatos materiais. [^175]
+
+[^175]: Nota de Allan Kardec: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
+
+######  53
+
+“Jesus não foi arrebatado. Ele apenas quis fazer que os homens compreendessem que a humanidade se acha sujeita a falir e que deve estar sempre em guarda contra as más inspirações a que, pela sua natureza fraca, é impelida a ceder. A tentação de Jesus é, pois, uma figura e fora preciso ser cego para tomá-la ao pé da letra. Como pretenderíeis que o Messias, o Verbo de Deus encarnado, tenha estado submetido, por algum tempo, embora muito curto fosse este, às sugestões do demônio e que, como o diz o Evangelho de Lucas, o demônio o houvesse deixado por algum tempo, o que daria a supor que o Cristo continuou submetido ao poder daquela entidade? Não; compreendei melhor os ensinos que vos foram dados. O Espírito do mal nada poderia sobre a essência do bem. Ninguém diz ter visto Jesus no cume da montanha, nem no pináculo do Templo. Certamente, tal fato teria sido de natureza a se espalhar por todos os povos. A tentação, portanto, não constituiu um ato material e físico. Quanto ao ato moral, admitiríeis que o Espírito das trevas pudesse dizer àquele que conhecia sua própria origem e o seu poder: “Adora-me, que te darei todos os remos da Terra?” Desconheceria então o demônio aquele a quem fazia tais oferecimentos? Não é provável. Ora, se o conhecia, suas propostas eram uma insensatez, pois ele não ignorava que seria repelido por aquele que viera destruir-lhe o império sobre os homens.
+
+“Compreendei, portanto, o sentido dessa parábola, que outra coisa aí não tendes, do mesmo modo que nos casos do Filho Pródigo e do Bom Samaritano. Aquela mostra os perigos que correm os homens, se não resistem à voz íntima que lhes clama sem cessar: ‘Podes ser mais do que és; podes possuir mais do que possuis; podes engrandecer-te, adquirir muito; cede à voz da ambição e todos os teus desejos serão satisfeitos’. Ela vos mostra o perigo e o meio de o evitardes, dizendo às más inspirações: Retira-te, Satanás ou, por outras palavras: Vai-te, tentação!
+
+“As duas outras parábolas que lembrei mostram o que ainda pode esperar aquele que, por muito fraco para expulsar o demônio, lhe sucumbiu às tentações. Mostram a misericórdia do pai de família, pousando a mão sobre a fronte do filho arrependido e concedendo-lhe, com amor, o perdão implorado. Mostram o culpado, o cismático, o homem repelido por seus irmãos, valendo mais, aos olhos do Juiz supremo, do que os que o desprezam, por praticar ele as virtudes que a lei de amor ensina.
+
+“Pesai bem os ensinamentos que os Evangelhos contêm; sabei distinguir o que ali está em sentido próprio, ou em sentido figurado, e os erros que vos hão cegado durante tanto tempo se apagarão pouco a pouco, cedendo lugar à brilhante luz da Verdade.” — João Evangelista, Bordeaux, 1862.
+
+##### Prodígios por ocasião da morte de Jesus
+
+######  54
+
+>
+>
+> Mateus, cap. 27, vers. 45, 51-53, ARC
+
+######  55
+
+É singular que tais prodígios, operando-se no momento mesmo em que a atenção da cidade se fixava no suplício de Jesus, que era o acontecimento do dia, não tenham sido notados, pois que nenhum historiador os menciona. Parece impossível que um tremor de terra e o ficar toda a Terra envolta em trevas durante três horas, numa região onde o céu é sempre de perfeita limpidez, hajam podido passar despercebidos.
+
+A duração de tal obscuridade teria sido quase a de um eclipse do Sol, mas os eclipses dessa espécie só se produzem na lua nova, e a morte de Jesus ocorreu em fase de lua cheia, a 14 de Nissan, dia da Páscoa dos judeus.
+
+O obscurecimento do Sol também pode ser produzido pelas manchas que se lhe notam na superfície. Em tal caso, o brilho da luz se enfraquece sensivelmente, porém, nunca ao ponto de determinar obscuridade e trevas. Admitido que um fenômeno desse gênero se houvesse dado, ele decorreria de uma causa perfeitamente natural. [^176]
+
+Quanto aos mortos que ressuscitaram, possivelmente algumas pessoas tiveram visões ou viram aparições, o que não é excepcional. Entretanto, como então não se conhecia a causa desse fenômeno, supuseram que as figuras vistas saíam dos sepulcros.
+
+Compungidos com a morte de seu Mestre, os discípulos de Jesus sem dúvida ligaram a essa morte alguns fatos particulares, aos quais noutra ocasião nenhuma atenção houveram prestado. Bastou, talvez, que um fragmento de rochedo se haja destacado naquele momento, para que pessoas inclinadas ao maravilhoso tenham visto nesse fato um prodígio e, ampliando-o, tenham dito que as pedras se fenderam.
+
+Jesus é grande pelas suas obras e não pelos quadros fantásticos de que um entusiasmo pouco ponderado entendeu de cercá-lo.
+
+[^176]: Nota de Allan Kardec: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
+
+##### Aparição de Jesus após sua morte
+
+######  56
+
+>
+>
+> João, cap. 20, vers. 11-18, ARC
+
+######  57
+
+>
+>
+> Lucas, cap. 24, vers. 13-49, ARC
+
+######  58
+
+>
+>
+> João, cap. 20, vers. 24-29, ARC
+
+######  59
+
+>
+>
+> João, cap. 21, vers. 01-08, ARC
+
+######  60
+
+>
+>
+> Lucas, cap. 24, vers. 50-53, ARC
+
+######  61
+
+Todos os evangelistas narram as aparições de Jesus, após sua morte, com circunstanciados pormenores que não permitem se duvide da realidade do fato. Elas, aliás, se explicam perfeitamente pelas leis fluídicas e pelas propriedades do perispírito e nada de anômalo apresentam em face dos fenômenos do mesmo gênero, cuja história, antiga e contemporânea, oferece numerosos exemplos, sem lhes faltar sequer a tangibilidade. Se notarmos as circunstâncias em que se deram as suas diversas aparições, nele reconheceremos, em tais ocasiões, todos os caracteres de um ser fluídico. Aparece inopinadamente e do mesmo modo desaparece; uns o veem, outros não, sob aparências que não o tornam reconhecível nem sequer aos seus discípulos; mostra-se em recintos fechados, onde um corpo carnal não poderia penetrar; sua própria linguagem carece da vivacidade da de um ser corpóreo; fala em tom breve e sentencioso, peculiar aos Espíritos que se manifestam daquela maneira; todas as suas atitudes, numa palavra, denotam alguma coisa que não é do mundo terreno. Sua presença causa simultaneamente surpresa e medo; ao vê-lo, seus discípulos não lhe falam com a mesma liberdade de antes; sentem que já não é um homem.
+
+Jesus, portanto, se mostrou com o seu corpo perispirítico, o que explica que só tenha sido visto pelos que Ele quis que o vissem. Se estivesse com o seu corpo carnal, todos o veriam, como quando estava vivo. Ignorando a causa originária do fenômeno das aparições, seus discípulos não se apercebiam dessas particularidades, a que, provavelmente, não davam atenção. Desde que viam o Senhor e o tocavam, haviam de achar que aquele era o seu corpo ressuscitado. (Cap. XIV, itens 14 e 35 a 38.)
+
+######  62
+
+Ao passo que a incredulidade rejeita todos os fatos que Jesus produziu, por terem uma aparência sobrenatural, e os considera, sem exceção, lendários, o Espiritismo dá explicação natural à maior parte desses fatos. Prova a possibilidade deles, não só pela teoria das leis fluídicas, como pela identidade que apresentam com análogos fatos produzidos por uma imensidade de pessoas nas mais vulgares condições. Por serem, de certo modo, tais fatos do domínio público, eles nada provam, em princípio, com relação à natureza excepcional de Jesus. [^178]
+
+[^178]: Nota de Allan Kardec: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
+
+######  63
+
+O maior milagre que Jesus operou, o que verdadeiramente atesta a sua superioridade, foi a revolução que seus ensinos produziram no mundo, malgrado a exiguidade dos seus meios de ação.
+
+Com efeito, Jesus, obscuro, pobre, nascido na mais humilde condição, no seio de um povo pequenino, quase ignorado e sem preponderância política, artística ou literária, apenas durante três anos prega a sua doutrina; em todo esse curto espaço de tempo é desatendido e perseguido pelos seus concidadãos; vê-se obrigado a fugir para não ser lapidado; é traído por um de seus apóstolos, renegado por outro, abandonado por todos no momento em que cai nas mãos de seus inimigos. Só fazia o bem e isso não o punha ao abrigo da malevolência, que dos próprios serviços que Ele prestava tirava motivos para o acusar. Condenado ao suplício que só aos criminosos era infligido, morre ignorado do mundo, visto que a História daquela época nada diz a seu respeito.179 Nada escreveu; entretanto, ajudado por alguns homens tão obscuros quanto Ele, sua palavra bastou para regenerar o mundo; sua doutrina matou o paganismo onipotente e se tornou o facho da civilização. Tinha contra si tudo o que causa o malogro das obras dos homens, razão por que dizemos que o triunfo alcançado pela sua doutrina foi o maior dos seus milagres, ao mesmo tempo que prova ser divina a sua missão. Se, em vez de princípios sociais e regeneradores, fundados sobre o futuro espiritual do homem, Ele apenas houvesse legado à posteridade alguns fatos maravilhosos, talvez hoje mal o conhecessem de nome.
+
+##### Desaparecimento do corpo de Jesus
+
+######  64
+
+O desaparecimento do corpo de Jesus após sua morte há sido objeto de inúmeros comentários. Atestam-no os quatro evangelistas, baseados nas narrativas das mulheres que foram ao sepulcro no terceiro dia depois da crucificação e lá não o encontraram. Viram alguns, nesse desaparecimento, um fato milagroso, atribuindo-o outros a uma subtração clandestina.
+
+Segundo outra opinião, Jesus não teria tido um corpo carnal, mas apenas um corpo fluídico; não teria sido, em toda a sua vida, mais do que uma aparição tangível; numa palavra: uma espécie de agênere. Seu nascimento, sua morte e todos os atos materiais de sua vida teriam sido apenas aparentes. Assim foi que, dizem, seu corpo, voltado ao estado fluídico, pôde desaparecer do sepulcro e com esse mesmo corpo é que Ele se teria mostrado depois de sua morte.
+
+É fora de dúvida que semelhante fato não se pode considerar radicalmente impossível, dentro do que hoje se sabe acerca das propriedades dos fluidos; mas, seria, pelo menos, inteiramente excepcional e em formal oposição ao caráter dos agêneres. (Cap. XIV, item 36.) Trata-se, pois, de saber se tal hipótese é admissível, se os fatos a confirmam ou contradizem.
+
+######  65
+
+A estada de Jesus na Terra apresenta dois períodos: o que precedeu e o que se seguiu à sua morte. No primeiro, desde o momento da concepção até o nascimento, tudo se passa, pelo que respeita à sua mãe, como nas condições ordinárias da vida.180, 181 Desde o seu nascimento até a sua morte, tudo, em seus atos, na sua linguagem e nas diversas circunstâncias da sua vida, revela os caracteres inequívocos da corporeidade. São acidentais os fenômenos de ordem psíquica que nele se produzem e nada têm de anômalos, pois que se explicam pelas propriedades do perispírito e se dão, em graus diferentes, noutros indivíduos. Depois de sua morte, ao contrário, tudo nele revela o ser fluídico. É tão marcada a diferença entre os dois estados, que não podem ser assimilados.
+
+O corpo carnal tem as propriedades inerentes à matéria propriamente dita, propriedades que diferem essencialmente das dos fluidos etéreos; naquela, a desorganização se opera pela ruptura da coesão molecular. Ao penetrar no corpo material, um instrumento cortante lhe divide os tecidos; se os órgãos essenciais à vida são atacados, cessa-lhes o funcionamento e sobrevém a morte, isto é, a do corpo. Não existindo nos corpos fluídicos essa coesão, a vida aí já não repousa no jogo de órgãos especiais e não se podem produzir desordens análogas àquelas. Um instrumento cortante ou outro qualquer penetra num corpo fluídico como se penetrasse numa massa de vapor, sem lhe ocasionar qualquer lesão. Tal a razão por que não podem morrer os corpos dessa espécie e por que os seres fluídicos, designados pelo nome de agêneres, não podem ser mortos.
+
+Após o suplício de Jesus, seu corpo se conservou inerte e sem vida; foi sepultado como o são de ordinário os corpos e todos o puderam ver e tocar. Após a sua ressurreição, quando quis deixar a Terra, não morreu de novo; seu corpo se elevou, desvaneceu e desapareceu, sem deixar qualquer vestígio, prova evidente de que aquele corpo era de natureza diversa da do que pereceu na cruz; donde forçoso é concluir que, se foi possível que Jesus morresse, é que carnal era o seu corpo.
+
+Por virtude das suas propriedades materiais, o corpo carnal é a sede das sensações e das dores físicas, que repercutem no centro sensitivo ou Espírito. Quem sofre não é o corpo, é o Espírito recebendo o contragolpe das lesões ou alterações dos tecidos orgânicos. Num corpo sem Espírito, absolutamente nula é a sensação. Pela mesma razão, o Espírito, sem corpo material, não pode experimentar os sofrimentos, visto que estes resultam da alteração da matéria, donde também forçoso é se conclua que, se Jesus sofreu materialmente, do que não se pode duvidar, é que Ele tinha um corpo material de natureza semelhante ao de toda gente.
+
+######  66
+
+Aos fatos materiais juntam-se fortíssimas considerações morais.
+
+Se as condições de Jesus, durante a sua vida, fossem as dos seres fluídicos, Ele não teria experimentado nem a dor, nem as necessidades do corpo. Supor que assim haja sido é tirar-lhe o mérito da vida de privações e de sofrimentos que escolhera, como exemplo de resignação. Se tudo nele fosse aparente, todos os atos de sua vida, a reiterada predição de sua morte, a cena dolorosa do Jardim das Oliveiras, sua prece a Deus para que lhe afastasse dos lábios o cálice de amarguras, sua paixão, sua agonia, tudo, até o último brado, no momento de entregar o Espírito, não teria passado de vão simulacro, para enganar com relação à sua natureza e fazer crer num sacrifício ilusório de sua vida, numa comédia indigna de um homem simplesmente honesto, indigna, portanto, e com mais forte razão de um ser tão superior. Numa palavra: Ele teria abusado da boa-fé dos seus contemporâneos e da posteridade. Tais as consequências lógicas desse sistema, consequências inadmissíveis, porque o rebaixariam moralmente, em vez de o elevarem. [^182]
+
+Jesus, pois, teve, como todo homem, um corpo carnal e um corpo fluídico, o que é atestado pelos fenômenos materiais e pelos fenômenos psíquicos que lhe assinalaram a existência.
+
+[^182]: N.E.: Diante das comunicações e dos fenômenos surgidos após a partida de Kardec, concluiu-se que não houve realmente vão simulacro, como igualmente não houve simulacro de Jesus, após a sua morte, ao pronunciar as palavras que foram registradas por Lucas, 24:39: — “Sou eu mesmo, apalpaime e vede, porque um Espírito não tem carne nem osso, como vedes que eu tenho.”
+
+######  67
+
+Não é nova essa ideia sobre a natureza do corpo de Jesus. No quarto século, Apolinário, de Laodiceia, chefe da seita dos apolinaristas, pretendia que Jesus não tomara um corpo como o nosso, mas um corpo impassível, que descera do céu ao seio da santa virgem e que não nascera dela; que, assim, Jesus não nascera, não sofrera e não morrera, senão em aparência. Os apolinaristas foram anatematizados no concílio de Alexandria, em 360; no de Roma, em 374; e no de Constantinopla, em 381. Tinham a mesma crença os docetas (do grego dokéō, aparecer), seita numerosa dos Gnósticos, que subsistiu durante os três primeiros séculos. [^183]
+
+[^183]: N.E.: Não somente foram anatematizados os apolinaristas, mas também os reencarnacionistas e os que se põem em comunicação com os mortos.
 
 ## 3
 
 ### 3.16
 
-######  GEN-2-16-p1
+######  01
 
-######  GEN-2-16-p2
+Como é possível o conhecimento do futuro? Compreende-se a possibilidade da previsão dos acontecimentos que devam resultar do estado presente; porém, não a dos que nenhuma relação guardem com esse estado, nem, ainda menos, a dos que são comumente atribuídos ao acaso. Não existem as coisas futuras, dizem; elas ainda se encontram no nada; como, pois, se há de saber que se darão? São, no entanto, em grande número os casos de predições realizadas, donde forçosa se torna a conclusão de que ocorre aí um fenômeno para cuja explicação falta a chave, porquanto não há efeito sem causa. É essa causa que vamos tentar descobrir e é ainda o Espiritismo, já de si mesmo chave de tantos mistérios, que no-la fornecerá, mostrando-nos, ao demais, que o próprio fato das predições não se produz com exclusão das leis naturais.
 
-######  GEN-2-16-p3
+Tomemos, para comparação, um exemplo nas coisas usuais. Ele nos ajudará a compreender o princípio que teremos de desenvolver.
 
-######  GEN-2-16-p4
+######  02
 
-######  GEN-2-16-p5
+Suponhamos um homem colocado no cume de uma alta montanha, a observar a vasta extensão da planície em derredor. Nessa situação, o espaço de uma légua pouca coisa será para ele, que poderá facilmente apanhar, de um golpe de vista, todos os acidentes do terreno, de um extremo a outro da estrada que lhe esteja diante dos olhos. O viajor, que pela primeira vez percorra essa estrada, sabe que, caminhando, chegará ao fim dela. Constitui isso uma simples previsão da consequência que terá a sua marcha. Entretanto, os acidentes do terreno, as subidas e descidas, os cursos de água que terá de transpor, os bosques que haja de atravessar, os precipícios em que poderá cair, as casas hospitaleiras onde lhe será possível repousar, os ladrões que o espreitem para roubá-lo, tudo isso independe da sua pessoa; é para ele o desconhecido, o futuro, porque a sua vista não vai além da pequena área que o cerca. Quanto à duração, mede-a pelo tempo que gasta em perlustrar o caminho. Tirai-lhe os pontos de referência e a duração desaparecerá. Para o homem que está em cima da montanha e que o acompanha com o olhar, tudo aquilo está presente. Suponhamos que esse homem desce do seu ponto de observação e, indo ao encontro do viajante, lhe diz: “Em tal momento, encontrarás tal coisa, serás atacado e socorrido.” Estará predizendo o futuro, mas, futuro para o viajante, não para ele, autor da previsão, pois que, para ele, esse futuro é presente.
 
-######  GEN-2-16-p6
+######  03
 
-######  GEN-2-16-p7
+Se, agora, sairmos do âmbito das coisas puramente materiais e entrarmos, pelo pensamento, no domínio da vida espiritual, veremos o mesmo fenômeno produzir-se em maior escala. Os Espíritos desmaterializados são como o homem da montanha; o espaço e a duração não existem para eles. Mas a extensão e a penetração da vista são proporcionadas à depuração deles e à elevação que alcançaram na hierarquia espiritual. Com relação aos Espíritos inferiores, aqueles são quais homens munidos de possantes telescópios, ao lado de outros que apenas dispõem dos olhos. Nos Espíritos inferiores, a visão é circunscrita, não só porque eles dificilmente podem afastar-se do globo a que se acham presos, como também porque a grosseria de seus perispíritos lhes vela as coisas distantes, do mesmo modo que um nevoeiro as oculta aos olhos do corpo.
 
-######  GEN-2-16-p8
+Bem se compreende, pois, que, de conformidade com o grau de sua perfeição, possa um Espírito abarcar um período de alguns anos, de alguns séculos, mesmo de muitos milhares de anos, porquanto, que é um século em face do infinito? Diante dele, os acontecimentos não se desenrolam sucessivamente, como os incidentes da estrada diante do viajor: ele vê simultaneamente o começo e o fim do período; todos os eventos que, nesse período, constituem o futuro para o homem da Terra são o presente para ele, que poderia então vir dizer-nos com certeza: Tal coisa acontecerá em tal época, porque essa coisa ele a vê como o homem da montanha vê o que espera o viajante no curso da viagem. Se assim não procede, é porque poderia ser prejudicial ao homem o conhecimento do futuro, conhecimento que lhe pearia o livre-arbítrio, paralisá-lo-ia no trabalho que lhe cumpre executar a bem do seu progresso. O se lhe conservarem desconhecidos o bem e o mal com que topará constitui para o homem uma prova.
 
-######  GEN-2-16-p9
+Se tal faculdade, mesmo restrita, se pode contar entre os atributos da criatura, em que grau de potencialidade não existirá no Criador, que abrange o infinito? Para o Criador, o tempo não existe: o princípio e o fim dos mundos lhe são o presente. Dentro desse panorama imenso, que é a duração da vida de um homem, de uma geração, de um povo?
 
-######  GEN-2-16-p10
+######  04
 
-######  GEN-2-16-p11
+Entretanto, como o homem tem de concorrer para o progresso geral, como certos acontecimentos devem resultar da sua cooperação, pode convir que, em casos especiais, ele pressinta esses acontecimentos, a fim de lhes preparar o encaminhamento e de estar pronto a agir, em chegando a ocasião. Por isso é que Deus, às vezes, permite se levante uma ponta do véu; mas, sempre com fim útil, nunca para satisfação de vã curiosidade. Tal missão pode, pois, ser conferida, não a todos os Espíritos, porquanto muitos há que do futuro não conhecem mais do que os homens, porém a alguns Espíritos bastante adiantados para desempenhá-la. Ora, é de notar-se que as revelações dessa espécie são sempre feitas espontaneamente e jamais, ou, pelo menos, muito raramente, em resposta a uma pergunta direta.
 
-######  GEN-2-16-p12
+######  05
 
-######  GEN-2-16-p13
+Pode também semelhante missão ser confiada a certos homens, desta maneira:
 
-######  GEN-2-16-p14
+Aquele a quem é dado o encargo de revelar uma coisa oculta recebe, à sua revelia e por inspiração dos Espíritos que a conhecem, a revelação dela e a transmite maquinalmente, sem se aperceber do que faz. É sabido, ao demais, que, assim durante o sono, como em estado de vigília, nos êxtases da dupla vista, a alma se desprende e adquire, em grau mais ou menos alto, as faculdades do Espírito livre. Se for um Espírito adiantado, se, sobretudo, houver recebido, como os profetas, uma missão especial para esse efeito, gozará, nos momentos de emancipação da alma, da faculdade de abarcar, por si mesmo, um período mais ou menos extenso, e verá, como presente, os sucessos desse período. Pode então revelá-los no mesmo instante, ou conservar lembrança deles ao despertar. Se os sucessos hajam de permanecer secretos, ele os esquecerá, ou apenas guardará uma vaga intuição do que lhe foi revelado, bastante para o guiar instintivamente.
 
-######  GEN-2-16-p15
+######  06
 
-######  GEN-2-16-p16
+É assim que em certas ocasiões essa faculdade se desenvolve providencialmente, na iminência de perigos, nas grandes calamidades, nas revoluções, e é assim também que a maioria das seitas perseguidas adquire numerosos videntes. É ainda por isso que se veem os grandes capitães avançar resolutamente contra o inimigo, certos da vitória; que homens de gênio, como, por exemplo, Cristóvão Colombo, caminham para uma meta, anunciando previamente, por assim dizer, o instante em que a alcançarão. É que eles viram, essa meta, que, para seus Espíritos, deixou de ser o desconhecido.
 
-######  GEN-2-16-p17
+Nada, pois, tem de sobrenatural o dom da predição, mais do que uma imensidade de outros fenômenos. Ele se funda nas propriedades da alma e na lei das relações do mundo visível com o mundo invisível, que o Espiritismo veio dar a conhecer.
 
-######  GEN-2-16-p18
+A teoria da presciência talvez não resolva de modo absoluto todos os casos que se possam apresentar de revelação do futuro, mas não se pode deixar de convir em que lhe estabelece o princípio fundamental.
+
+######  07
+
+Muitas vezes, as pessoas dotadas da faculdade de prever, seja no estado de êxtase, seja no de sonambulismo, veem os acontecimentos como que desenhados num quadro, o que também se poderia explicar pela fotografia do pensamento. Atravessando o pensamento o espaço, como os sons atravessam o ar, um sucesso que esteja no dos Espíritos que trabalham para que ele se dê, ou no dos homens cujos atos devam provocá-lo, pode formar uma imagem para o vidente; mas, como a sua realização pode ser apressada ou retardada por um concurso de circunstâncias, este último vê o fato, sem poder, todavia, determinar o momento em que se dará. Não raro acontece que aquele pensamento não passa de um projeto, de um desejo, que se não concretizem em realidade, donde os frequentes erros de fato e de data nas previsões. (Cap. XIV, itens13 e seguintes.)
+
+######  08
+
+Para compreendermos as coisas espirituais, isto é, para fazermos delas ideia tão clara como a que fazemos de uma paisagem que tenhamos ante os olhos, falta-nos em verdade um sentido, exatamente como ao cego de nascença falta um que lhe faculte compreender os efeitos da luz, das cores e da vista, sem o contato. Daí se segue que somente por esforço da imaginação e por meio de comparações com coisas materiais que nos sejam familiares chegamos a consegui-lo. As coisas materiais, porém, não nos podem dar das coisas espirituais senão ideias muito imperfeitas, razão por que não se devem tomar ao pé da letra essas comparações e crer, por exemplo, que a extensão das faculdades perceptivas dos Espíritos depende da efetiva elevação deles, nem que eles precisem estar em cima de uma montanha ou acima das nuvens para abrangerem o tempo e o espaço.
+
+Tal faculdade lhes é inerente ao estado de espiritualização, ou, se o preferirem, de desmaterialização. Quer isto dizer que a espiritualização produz um efeito que se pode comparar, se bem muito imperfeitamente, ao da visão de conjunto que tem o homem colocado sobre a montanha. Esta comparação objetivava simplesmente mostrar que acontecimentos pertencentes ainda, para uns, ao futuro, estão, para outros, ao presente e podem assim ser preditos, o que não implica que o efeito se produza de igual maneira.
+
+Para, portanto, gozar dessa percepção, não precisa o Espírito transportar-se a um ponto qualquer do espaço. Pode possuí-la em toda a sua plenitude aquele que na Terra se acha ao nosso lado, tanto quanto se achasse a mil léguas de distância, ao passo que nós nada vemos além do nosso horizonte visual. Não se operando a visão, nos Espíritos, do mesmo modo, nem com os mesmos elementos que no homem, muito diverso é o horizonte visual dos primeiros. Ora, é precisamente esse o sentido que nos falece para o concebermos. O Espírito, ao lado do encarnado, é como o vidente ao lado do cego.
+
+######  09
+
+Devemos, além disso, ponderar que essa percepção não se limita ao que diz respeito à extensão; que ela abrange a penetração de todas as coisas. É, repetimo-lo, uma faculdade inerente e proporcionada ao estado de desmaterialização. A encarnação amortece-a, sem, contudo, a anular completamente, porque a alma não fica encerrada no corpo como numa caixa. O encarnado a possui, embora sempre em grau menor do que quando se acha completamente desprendido; é o que confere a certos homens um poder de penetração que a outros falece inteiramente; maior agudeza de visão moral; compreensão mais fácil das coisas extramateriais.
+
+O Espírito encarnado não somente percebe, como também se lembra do que viu no estado de Espírito livre e essa lembrança é como um quadro que se lhe desenha na mente. Na encarnação, ele vê, mas vagamente, como através de um véu; no estado de liberdade, vê e concebe claramente. O princípio da visão não lhe é exterior, está nele; essa a razão por que não precisa da luz exterior. Por efeito do desenvolvimento moral, alarga-se o círculo das ideias e da concepção; por efeito da desmaterialização gradual do perispírito, este se purifica dos elementos grosseiros que lhe alteravam a delicadeza das percepções, o que torna fácil compreender-se que a ampliação de todas as faculdades acompanha o progresso do Espírito.
+
+######  10
+
+O grau da extensão das faculdades do Espírito é que, na encarnação, o torna mais ou menos apto a conceber as coisas espirituais. Essa aptidão, todavia, não é corolário forçoso do desenvolvimento da inteligência; a ciência vulgar não a dá, tanto assim que há homens de grande saber tão cegos para as coisas espirituais, quanto outros o são para as coisas materiais; são-lhes refratários, porque não as compreendem, o que significa que ainda não progrediram em tal sentido, ao passo que outros, de instrução e inteligência vulgares, as aprendem com a maior facilidade, o que prova que já tinham de tais coisas uma intuição prévia. É, para estes, uma lembrança retrospectiva do que viram e souberam, quer na erraticidade, quer em suas existências anteriores, como alguns têm a intuição das línguas e das ciências de que já foram conhecedores.
+
+######  11
+
+Quanto ao futuro do Espiritismo, os Espíritos, como se sabe, são unânimes em afirmar o seu triunfo próximo, a despeito dos obstáculos que lhe criem. Fácil lhes é essa previsão, primeiramente, porque a sua propagação é obra pessoal deles: concorrendo para o movimento, ou dirigindo-o, eles naturalmente sabem o que devem fazer; em segundo lugar, basta-lhes entrever um período de curta duração: veem, nesse período, ao longo do caminho, os poderosos auxiliares que Deus lhe suscita e que não tardarão a manifestar-se.
+
+Transportem-se os espíritas, embora sem serem Espíritos desencarnados, a trinta anos apenas para diante, ao seio da geração que surge; daí considerem o que se passa hoje com o Espiritismo; acompanhem-lhe a marcha progressiva e verão consumir-se em vãos esforços os que se creem destinados a derrocá-lo. Verão que esses tais pouco a pouco desaparecem de cena e que, paralelamente, a árvore cresce e alonga cada dia mais as suas raízes.
+
+######  12
+
+As mais das vezes, os acontecimentos vulgares da vida privada são consequência da maneira de proceder de cada um: este, de acordo com as suas capacidades, com a sua habilidade, com a sua perseverança, prudência e energia, terá êxito naquilo em que outro verá malogrados todos os seus esforços, por efeito da sua inaptidão, de sorte que se pode dizer que cada um é o artífice do seu próprio futuro, futuro que jamais se encontra sujeito a uma cega fatalidade, independente da sua personalidade. Conhecendo-se o caráter de um indivíduo, facilmente se lhe pode predizer a sorte que o espera no caminho por onde haja ele enveredado.
+
+######  13
+
+Os acontecimentos que envolvem interesses gerais da humanidade têm a regulá-los a Providência. Quando uma coisa está nos desígnios de Deus, ela se cumpre a despeito de tudo, ou por um meio, ou por outro. Os homens concorrem para que ela se execute; nenhum, porém, é indispensável, pois, do contrário, o próprio Deus estaria à mercê das suas criaturas. Se faltar aquele a quem incumba a missão de a executar, outro será dela encarregado. Não há missão fatal; o homem tem sempre a liberdade de cumprir ou não a que lhe foi confiada e que ele voluntariamente aceitou. Se não o faz, perde os benefícios que daí lhe resultariam e assume a responsabilidade dos atrasos que possam resultar da sua negligência ou da sua má vontade. Se se tornar um obstáculo a que ela se cumpra, está em Deus afastá-lo com um sopro.
+
+######  14
+
+Pode, portanto, ser certo o resultado final de um acontecimento, por se achar este nos desígnios de Deus; como, porém, quase sempre, os pormenores e o modo de execução se encontram subordinados às circunstâncias e ao livre-arbítrio dos homens, podem ser eventuais as sendas e os meios. Está nas possibilidades dos Espíritos prevenir-nos do conjunto, se convier que sejamos avisados; mas, para determinarem lugar e data, fora mister conhecessem previamente a decisão que tomará este ou aquele indivíduo. Ora, se essa decisão ainda não lhe estiver na mente, poderá, tal venha ela a ser, apressar ou demorar a realização do fato, modificar os meios secundários de ação, embora o mesmo resultado chegue sempre a produzir-se. É assim, por exemplo, que, pelo conjunto das circunstâncias, podem os Espíritos prever que uma guerra se acha mais ou menos próxima, que é inevitável, sem, contudo, poderem predizer o dia em que começará, nem os incidentes pormenorizados que possam ser modificados pela vontade dos homens.
+
+######  15
+
+Para determinação da época dos acontecimentos futuros, será preciso, ao demais, se leve em conta uma circunstância inerente à natureza mesma dos Espíritos.
+
+O tempo, como o espaço, não pode ser avaliado senão com o auxílio de pontos de referências que o dividam em períodos que se contem. Na Terra, a divisão natural do tempo em dias e anos tem a marcá-la o levantar e o pôr do sol, assim como a duração do movimento de translação do planeta terreno. As unidades de medida do tempo necessariamente variam conforme os mundos, pois que são diferentes os períodos astronômicos. Assim, por exemplo, em Júpiter, os dias equivalem a dez das horas terrestres e os anos a mais de doze anos nossos.
+
+Há, pois, para cada mundo, um modo diferente de computar-se a duração, de acordo com a natureza das revoluções astrais que nele se efetuam. Já haverá aí uma dificuldade para que Espíritos que não conheçam o nosso mundo determinem datas com relação a nós. Além disso, fora dos mundos, não existem tais meios de apreciação. Para um Espírito, no espaço, não há levantar nem pôr de sol a marcar os dias, nem revolução periódica a marcar os anos; só há, para ele, a duração e o espaço infinitos. (Cap. VI, itens 1 e seguintes.) Aquele, portanto, que jamais houvesse vindo à Terra nenhum conhecimento possuiria dos nossos cálculos que, aliás, lhe seriam completamente inúteis. Mais ainda: aquele que jamais houvesse encarnado em nenhum mundo, nenhuma noção teria das frações da duração. Quando um Espírito estranho à Terra vem aqui manifestar-se, não pode assinar datas aos acontecimentos, senão identificando-se com os nossos usos; ora, isso sem dúvida lhe é possível, porém, as mais das vezes, ele nenhuma utilidade descobre nessa identificação.
+
+######  16
+
+Os Espíritos, que formam a população invisível do nosso globo, onde eles já viveram e onde continuam a imiscuir-se na nossa vida, estão naturalmente identificados com os nossos hábitos, cuja lembrança conservam na erraticidade. Poderão, por conseguinte, com maior facilidade, determinar datas aos acontecimentos futuros, desde que os conheçam; mas, além de que isso nem sempre lhes é permitido, eles se veem impedidos pela razão de que, sempre que as circunstâncias de minúcias estão subordinadas ao livre-arbítrio e à decisão eventual do homem, nenhuma data precisa existe realmente, senão depois que o acontecimento se tenha dado.
+
+Eis aí por que as predições circunstanciadas não podem apresentar cunho de certeza e somente como prováveis devem ser acolhidas, mesmo que não tragam eiva que as torne legitimamente suspeitas. Por isso mesmo, os Espíritos verdadeiramente ponderados nada nunca predizem para épocas determinadas, limitando-se a prevenir-nos do seguimento das coisas que convenha conheçamos. Insistir por obter informes precisos é expor-se às mistificações dos Espíritos levianos que predizem tudo o que se queira, sem se preocuparem com a verdade, divertindo-se com os terrores e as decepções que causem.
+
+######  17
+
+A forma geralmente empregada até agora nas predições faz delas verdadeiros enigmas, as mais das vezes indecifráveis. Essa forma misteriosa e cabalística, de que Nostradamus nos oferece o tipo mais completo, lhes dá certo prestígio perante o vulgo, que tanto mais valor lhes atribui, quanto mais incompreensíveis se mostrem. Pela sua ambiguidade, elas se prestam a interpretações muito diferentes, de tal sorte que, conforme o sentido que se atribua a certas palavras alegóricas ou convencionais, conforme a maneira por que se efetue o cálculo, singularmente complicado, das datas e, com um pouco de boa vontade, nelas se encontra quase tudo o que se queira.
+
+Seja como for, não se pode deixar de convir em que algumas apresentam caráter sério e confundem pela sua veracidade. É provável que a forma velada tenha tido, em certo tempo, sua razão de ser e mesmo sua necessidade.
+
+Hoje, as circunstâncias são outras; o positivismo do século dar-se-ia mal com a linguagem sibilina. Daí vem que presentemente as predições já não se revestem dessas formas singulares; nada têm de místicas as que os Espíritos fazem; eles usam a linguagem de toda gente, como o teriam feito quando vivos na Terra, porque não deixaram de pertencer à humanidade. Avisam-nos das coisas futuras, pessoais ou gerais, quando necessário, na medida da perspicácia de que são dotados, como o fariam conselheiros e amigos. Suas previsões, pois, são antes advertências, do que predições propriamente ditas, as quais implicariam numa fatalidade absoluta. Além disso, quase sempre motivam a opinião que manifestam, por não quererem que o homem anule a sua razão sob uma fé cega e desejarem que este último lhe aprecie a exatidão.
+
+######  18
+
+A humanidade contemporânea também conta seus profetas. Mais de um escritor, poeta, literato, historiador ou filósofo hão traçado, em seus escritos, a marcha futura de acontecimentos a cuja realização agora assistimos.
+
+Essa aptidão, sem dúvida, decorre, muitas vezes, da retidão do juízo, no deduzir as consequências lógicas do presente; mas, doutras vezes, também resulta de uma especial clarividência inconsciente, ou de uma inspiração vinda do exterior. O que tais homens fizeram quando vivos, podem, com razão mais forte e maior exatidão, fazer no estado de Espíritos livres, quando não têm a visão espiritual obscurecida pela matéria.
 
 ### 3.17
 
-######  GEN-2-17-p1
+######  01
 
-######  GEN-2-17-p2
+>
+>
+> Mateus, cap. 13, vers. 54-58, ARC
 
-######  GEN-2-17-p3
+######  02
 
-######  GEN-2-17-p4
+Enunciou Jesus dessa forma uma verdade que se tornou provérbio, que é de todos os tempos e à qual se poderia dar maior amplitude, dizendo que ninguém é profeta em vida.
 
-######  GEN-2-17-p5
+Na linguagem usual, essa máxima se aplica ao crédito de que alguém goza entre os seus e entre aqueles em cujo seio vive, à confiança que lhes inspira pela superioridade do saber e da inteligência. Se ela sofre exceções, são raras estas e, em nenhum caso, absolutas. O princípio de tal verdade reside numa consequência natural da fraqueza humana e pode explicar-se deste modo:
 
-######  GEN-2-17-p6
+O hábito de se verem desde a infância, em todas as circunstâncias ordinárias da vida, estabelece entre os homens uma espécie de igualdade material que, muitas vezes, faz que a maioria deles se negue a reconhecer superioridade moral num de quem foram companheiros ou comensais, que saiu do mesmo meio que eles e cujas primeiras fraquezas todos testemunharam. Sofre-lhes o orgulho com o terem de reconhecer o ascendente do outro. Quem quer que se eleve acima do nível comum está sempre em luta com o ciúme e a inveja. Os que se sentem incapazes de chegar à altura em que aquele se encontra esforçam-se para rebaixá-lo, por meio da difamação, da maledicência e da calúnia; tanto mais forte gritam, quanto menores se acham, crendo que se engrandecem e o eclipsam pelo arruído que promovem. Tal foi e será a História da humanidade, enquanto os homens não houverem compreendido a sua natureza espiritual e alargado seu horizonte moral. Por aí se vê que semelhante preconceito é próprio dos espíritos acanhados e vulgares, que tomam suas personalidades por ponto de aferição de tudo.
 
-######  GEN-2-17-p7
+Doutro lado, toda gente, em geral, faz dos homens apenas conhecidos pelo espírito um ideal que cresce à medida que os tempos e os lugares se vão distanciando. Eles são como que despojados de todo cunho de humanidade; parece que não devem ter falado, nem sentido como os demais; que a linguagem de que usaram e seus pensamentos hão de ter ressoado constantemente no diapasão da sublimidade, sem se lembrarem, os que tal imaginam, que o espírito não poderia permanecer constantemente em estado de tensão e de perpétua superexcitação. No contato da vida privada, vê-se por demais que o homem material em nada se distingue do vulgo. O homem corpóreo, que os sentidos humanos percebem, quase que apaga o homem espiritual, do qual somente o espírito se percebe. De longe, apenas se veem os relâmpagos do gênio; de perto, veem-se as paradas do espírito.
 
-######  GEN-2-17-p8
+Depois da morte, nenhuma comparação mais sendo possível, unicamente o homem espiritual subsiste e tanto maior parece, quanto mais longínqua se torna a lembrança do homem corporal. É por isso que aqueles cuja passagem pela Terra se assinalou por obras de real valor são mais apreciados depois de mortos do que quando vivos. São julgados com mais imparcialidade, porque, já tendo desaparecido os invejosos e os ciosos, cessaram os antagonismos pessoais. A posteridade é juiz desinteressado no apreciar a obra do espírito; aceita-a sem entusiasmo cego, se é boa, e a rejeita sem rancor, se é má, abstraindo da individualidade que a produziu.
 
-######  GEN-2-17-p9
+Tanto menos podia Jesus escapar às consequências deste princípio, inerente à natureza humana, quanto pouco esclarecido era o meio em que Ele vivia, meio esse constituído de criaturas votadas inteiramente à vida material. Nele, seus compatriotas apenas viam o filho do carpinteiro, o irmão de homens tão ignorantes quanto Ele e, assim sendo, não percebiam o que lhe dava superioridade e o investia do direito de os censurar. Verificando então que a sua palavra tinha menos autoridade sobre os seus, que o desprezavam, do que sobre os estranhos, preferiu ir pregar para os que o escutavam e aos quais inspirava simpatia.
 
-######  GEN-2-17-p10
+Pode-se fazer ideia dos sentimentos que para com Ele nutriam os que lhe eram aparentados, pelo fato de que seus próprios irmãos, acompanhados de sua mãe, foram a uma reunião onde Ele se encontrava, para dele se apoderarem, dizendo que perdera o juízo. (Marcos, 3:20 e 21, 31 a 35; O evangelho segundo o espiritismo, cap. XIV.)
 
-######  GEN-2-17-p11
+Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo demônio; de outro, era tachado de louco pelos seus parentes mais próximos. Não é o que se dá em nossos dias com relação aos espíritas? E deverão estes queixar-se de que os seus concidadãos não os tratem melhor do que os de Jesus o tratavam? O que há de estranhável é que, no século XIX e no seio de nações civilizadas, se dê o que, há dois mil anos, nada tinha de espantoso, por parte de um povo ignorante.
 
-######  GEN-2-17-p12
+##### Morte e paixão de Jesus
 
-######  GEN-2-17-p13
+######  03
 
-######  GEN-2-17-p14
+>
+>
+> Lucas, cap. 9, vers. 44-45, ARC
 
-######  GEN-2-17-p15
+######  04
 
-######  GEN-2-17-p16
+>
+>
+> Mateus, cap. 16, vers. 21, ARC
 
-######  GEN-2-17-p17
+######  05
 
-######  GEN-2-17-p18
+>
+>
+> Mateus, cap. 17, vers. 21-22, ARC
 
-######  GEN-2-17-p19
+######  06
 
-######  GEN-2-17-p20
+>
+>
+> Mateus, cap. 20, vers. 17-19, ARC
 
-######  GEN-2-17-p21
+######  07
 
-######  GEN-2-17-p22
+>
+>
+> Lucas, cap. 18, vers. 31-34, ARC
 
-######  GEN-2-17-p23
+######  08
 
-######  GEN-2-17-p24
+>
+>
+> Mateus, cap. 26, vers. 01-05, ARC
 
-######  GEN-2-17-p25
+######  09
 
-######  GEN-2-17-p26
+>
+>
+> Lucas, cap. 13, vers. 31-32, ARC
 
-######  GEN-2-17-p27
+##### Perseguição aos apóstolos
 
-######  GEN-2-17-p28
+######  10
 
-######  GEN-2-17-p29
+>
+>
+> Mateus, 10:17 e 18
 
-######  GEN-2-17-p30
+######  11
 
-######  GEN-2-17-p31
+>
+>
+> João, 16:1 a 4
 
-######  GEN-2-17-p32
+######  12
 
-######  GEN-2-17-p33
+>
+>
+> Lucas, 21:16 a 19
 
-######  GEN-2-17-p34
+######  13
 
-######  GEN-2-17-p35
+>
+>
+> João, 21:18 e 19
 
-######  GEN-2-17-p36
 
-######  GEN-2-17-p37
+##### Cidades impenitentes
 
-######  GEN-2-17-p38
+######  14
 
-######  GEN-2-17-p39
+>
+>
+> Mateus, 11:20 a 24
 
-######  GEN-2-17-p40
+##### Ruína do Templo e de Jerusalém
 
-######  GEN-2-17-p41
+######  15
 
-######  GEN-2-17-p42
+>
+>
+> Mateus, 24:1 e 2
 
-######  GEN-2-17-p43
+######  16
 
-######  GEN-2-17-p44
+>
+>
+> Lucas, 19:41 a 44
 
-######  GEN-2-17-p45
+######  17
 
-######  GEN-2-17-p46
+>
+>
+> Lucas, 13:33 a 35
 
-######  GEN-2-17-p47
+######  18
 
-######  GEN-2-17-p48
+>
+>
+> Lucas, 21:20 a 24
 
-######  GEN-2-17-p49
+######  19
 
-######  GEN-2-17-p50
+>
+>
+> Lucas, 23:27 a 31
 
-######  GEN-2-17-p51
+######  20
 
-######  GEN-2-17-p52
+A faculdade de pressentir as coisas porvindouras é um dos atributos da alma e se explica pela teoria da presciência. Jesus a possuía, como todos os outros, em grau eminente. Pôde, portanto, prever os acontecimentos que se seguiriam à sua morte, sem que nesse fato algo haja de sobrenatural, pois que o vemos reproduzir-se aos nossos olhos, nas mais vulgares condições. Não é raro que indivíduos anunciem com precisão o instante em que morrerão; é que a alma deles, no estado de desprendimento, está como o homem da montanha (cap. XVI, item 1): abarca a estrada a ser percorrida e lhe vê o termo.
 
-######  GEN-2-17-p53
+######  21
 
-######  GEN-2-17-p54
+Tanto mais assim havia de dar-se com Jesus, quanto, tendo consciência da missão que viera desempenhar, sabia que a morte no suplício forçosamente lhe seria a consequência. A visão espiritual, permanente nele, assim como a penetração do pensamento, haviam de mostrar-lhe as circunstâncias e a época fatal. Pela mesma razão podia prever a ruína do Templo, a de Jerusalém, as desgraças que se iam abater sobre seus habitantes e a dispersão dos judeus.
 
-######  GEN-2-17-p55
+##### Maldição contra os fariseus
 
-######  GEN-2-17-p56
+######  22
 
-######  GEN-2-17-p57
+>
+>
+> Mateus, 3:7 a 10
 
-######  GEN-2-17-p58
+######  23
 
-######  GEN-2-17-p59
+>
+>
+> Mateus, 23:13 a 36
 
-######  GEN-2-17-p60
+##### Minhas palavras não passarão
 
-######  GEN-2-17-p61
+######  24
 
-######  GEN-2-17-p62
+>
+>
+> Mateus, 15:12 a 14
 
-######  GEN-2-17-p63
+######  25
 
-######  GEN-2-17-p64
+>
+>
+> Mateus, 24:35
 
-######  GEN-2-17-p65
+######  26
 
-######  GEN-2-17-p66
+As palavras de Jesus não passarão, porque serão verdadeiras em todos os tempos. Será eterno o seu código de moral, porque consagra as condições do bem que conduz o homem ao seu destino eterno. Mas terão as suas palavras chegado até nós puras de toda ganga e de falsas interpretações? Apreenderam-lhes o espírito todas as seitas cristãs? Nenhuma as terá desviado do verdadeiro sentido, em consequência dos preconceitos e da ignorância das leis da natureza? Nenhuma as transformou em instrumento de dominação, para servir às suas ambições e aos seus interesses materiais, em degrau, não para se elevar ao céu, mas para elevar-se na Terra? Terão todas adotado como regra de proceder a prática das virtudes, prática da qual fez Jesus condição expressa de salvação? Estarão todas isentas das apóstrofes que Ele dirigiu aos fariseus de seu tempo? Todas, finalmente, serão, assim em teoria, como na prática, expressão pura da sua doutrina?
 
-######  GEN-2-17-p67
+Sendo uma só, e única, a verdade não pode achar-se contida em
+afirmações contrárias e Jesus não pretendeu imprimir duplo sentido às suas
+palavras. Se, pois, as diferentes seitas se contradizem; se umas consideram
+verdadeiro o que outras condenam como heresias, impossível é que todas
+estejam com a verdade. Se todas houvessem apreendido o sentido verdadeiro do ensino evangélico, todas se teriam encontrado no mesmo terreno
+e não existiriam seitas.
+
+O que não passará é o verdadeiro sentido das palavras de Jesus; o que passará é o que os homens construíram sobre o sentido falso que deram a essas mesmas palavras.
+
+Tendo por missão transmitir aos homens o pensamento de Deus, somente a sua doutrina, em toda a pureza, pode exprimir esse pensamento. Por isso foi que Ele disse: Toda planta que meu Pai celestial não plantou será arrancada.
+
+######  27
+
+######  28
+
+######  29
+
+######  30
+
+######  31
+
+######  32
+
+######  33
+
+######  34
+
+######  35
+
+######  36
+
+######  37
+
+######  38
+
+######  39
+
+######  40
+
+######  41
+
+######  42
+
+######  43
+
+######  44
+
+######  45
+
+######  46
+
+######  47
+
+######  48
+
+######  49
+
+######  50
+
+######  51
+
+######  52
+
+######  53
+
+######  54
+
+######  55
+
+######  56
+
+######  57
+
+######  58
+
+######  59
+
+######  60
+
+######  61
+
+######  62
+
+######  63
+
+######  64
+
+######  65
+
+######  66
+
+######  67
 
 ### 3.18
 

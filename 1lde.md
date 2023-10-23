@@ -10,8 +10,10 @@ layout: default
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse;background-color: rgba(255, 255, 255, .5)}
 td {padding: 0 30px;}
+/*
 #col2-head {background-color: mediumblue;}
 #col2-body {background-color: #ECF0FC;}
+*/
 #maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
@@ -40,7 +42,7 @@ h6:before {content: "#️⃣ "}
 
 ## 0
 
-### 0-01
+### 0-01 
 
 |  |
 |:---:|

@@ -9,8 +9,10 @@ layout: default
 <meta name="theme-color" content="purple">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
+/*
 #col2-head {background-color: purple;}
 #col2-body {background-color: #EDE6F3;}
+*/
 #maps-button {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
