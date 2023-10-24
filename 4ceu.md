@@ -8,7 +8,7 @@ layout: default
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="chocolate">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: rgba(255, 255, 255, .5)}
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; }
 #col3-link3 {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}

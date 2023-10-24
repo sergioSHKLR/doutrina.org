@@ -5,10 +5,9 @@ layout: default
 
 <!-- #region  HEAD -->
 <head>
-<link rel="stylesheet" href="../framework/css/1lde.css">
 <meta name="theme-color" content="mediumblue">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse; background-color: rgba(255, 255, 255, .5)}
+table {outline: 1px solid gainsboro; border-collapse: collapse; }
 td {padding: 0 30px;}
 #col3-link3 {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
