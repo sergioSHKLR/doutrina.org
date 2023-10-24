@@ -3872,6 +3872,8 @@ O que não passará é o verdadeiro sentido das palavras de Jesus; o que passar�
 
 Tendo por missão transmitir aos homens o pensamento de Deus, somente a sua doutrina, em toda a pureza, pode exprimir esse pensamento. Por isso foi que Ele disse: Toda planta que meu Pai celestial não plantou será arrancada.
 
+##### A pedra angular
+
 ######  27
 
 ######  28
