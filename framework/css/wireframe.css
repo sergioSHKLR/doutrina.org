@@ -22,7 +22,7 @@ body {
 .flex {
     display: flex;
     overflow-y: scroll;
-    height: 95vh;
+    height: 98vh;
 }
 
 .head {
@@ -35,7 +35,7 @@ body {
 }
 
 .body {
-    height: calc(95vh - 70px);
+    height: calc(98vh - 70px);
     overflow-y: scroll;
 }
 
@@ -48,7 +48,9 @@ body {
     text-decoration: none;
 }
 
-#col1-top {color: currentColor;}
+#col1-top {
+    color: currentColor;
+}
 
 #col1-bottom {
     font-size: 14px;
@@ -91,7 +93,7 @@ body {
     overflow-y: scroll;
     border-top-width: 1px;
     border-top-style: solid;
-    height: calc(95vh - 70px);
+    height: calc(98vh - 70px);
 }
 
 .dark-mode {
@@ -221,6 +223,7 @@ button,
     outline: none;
 }
 
+
 .show {
     display: inline-block;
 }
@@ -229,14 +232,28 @@ button,
     display: none;
 }
 
+.emoji {
+    white-space: nowrap;
+    font-size: 14px;
+}
+
 .cursive {
     font-family: 'Zeyada', cursive;
     font-size: 60px;
     margin-top: -10px;
 }
 
-#jekyll-toc {list-style-type: none; margin-left: -35px;}
+#jekyll-toc {
+    list-style-type: none;
+    margin-left: -35px;
+}
 
-.jekyll-toc-2 {list-style-type: none; margin-left: -30px;}
+.jekyll-toc-2 {
+    list-style-type: none;
+    margin-left: -30px;
+}
 
-#portrait-notice {text-align: center; border: 1px solid crimson}
+#portrait-notice {
+    text-align: center;
+    border: 1px solid crimson
+}

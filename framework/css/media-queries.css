@@ -7,7 +7,9 @@
     }
 
     #col3-dark-mode,
-    #col3-full-screen {display: inline;}
+    #col3-full-screen {
+        display: inline;
+    }
 
     #col1-bottom {
         height: 100vh;
@@ -23,8 +25,12 @@
         border-top: none;
     }
 
+    .flex, .body {
+        height: 100vh;
+    }
+
     html {
-        margin: 10px 10px 0px 10px !important;
+        margin: 0px 10px 0px 10px !important;
     }
 }
 
@@ -42,9 +48,12 @@
         border-top: none;
     }
 
+    .flex, .body {
+        height: 100vh;
+    }
 
     html {
-        margin: 10px 10px 0px 10px !important;
+        margin: 0px 10px 0px 10px !important;
     }
 
 }
@@ -72,7 +81,9 @@
         display: none;
     }
 
-    #col1 {display: inline-block;}
+    #col1 {
+        display: inline-block;
+    }
 }
 
 @media only screen and (orientation:portrait) {
