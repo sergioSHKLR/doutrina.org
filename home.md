@@ -17,6 +17,7 @@ tr, td {width: 33%; text-align: center; border: 1px solid gainsboro; padding: 10
 th {padding: 10px}
 #maps-button {display: none;}
 ul, li {line-height: 1.7;}
+#col1-bottom > p:nth-child(7) {display: none;}
 </style>
 </head>
 

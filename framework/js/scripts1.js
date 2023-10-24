@@ -27,9 +27,6 @@ function activeDark3() {
     element.classList.toggle("hide");
     var element = document.getElementById("col3-light-mode");
     element.classList.toggle("show");
-    var element = document.getElementById("ext-iframe");
-    element.classList.remove("shades-on");
-    element.classList.add("darken");
 }
 
 function inactiveDark3() {

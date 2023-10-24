@@ -58,13 +58,13 @@ body {
     border-top-style: solid;
     border-right-width: 1px;
     border-right-style: solid;
-    padding-left: 35px;
+    padding-left: 0px;
 }
 
 #col2 {
     flex-grow: 1;
     min-width: 270px;
-    width: calc(100vh * .5)
+    width: calc(100vw * .5)
 }
 
 #col2-top {
@@ -86,7 +86,7 @@ body {
 #col3 {
     flex-grow: 1;
     min-width: 270px;
-    width: calc(100vh * .5)
+    width: calc(100vw * .5)
 }
 
 #col3-bottom {
@@ -157,6 +157,7 @@ button {
 #col1-brand,
 #col2-brand {
     font-family: 'Russo One';
+    margin-left: -5px;
 }
 
 #col1-brand a:any-link,

@@ -48,7 +48,7 @@
         border-top: none;
     }
 
-    .flex, .body {
+    .flex, .body, iframe, #ext-iframe {
         height: 100vh;
     }
 
