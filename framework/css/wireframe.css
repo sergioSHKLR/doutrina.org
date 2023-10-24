@@ -2,6 +2,7 @@
     box-sizing: border-box;
     border-color: rgba(150, 150, 150, .5);
     color: currentColor;
+    overscroll-behavior: contain;
 }
 
 * a:any-link {
@@ -91,9 +92,10 @@ body {
 
 #col3-bottom {
     overflow-y: scroll;
+    overscroll-behavior: contain;
     border-top-width: 1px;
     border-top-style: solid;
-    height: calc(98vh - 70px);
+    height: 100vh;
 }
 
 .dark-mode {
@@ -258,3 +260,5 @@ button,
     text-align: center;
     border: 1px solid crimson
 }
+
+#ext-iframe {height: 100vh;}
