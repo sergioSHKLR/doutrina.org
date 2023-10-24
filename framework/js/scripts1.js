@@ -54,10 +54,11 @@ function openFullscreen2() {
         elem.msRequestFullscreen();
     }
     var element = document.getElementById("col2-full-screen");
-    element.classList.toggle("hide");
+    element.classList.add("hide");
+    element.classList.remove("show");
     var element = document.getElementById("col2-normal-screen");
-    element.classList.toggle("show");
-}
+    element.classList.add("show");
+    element.classList.remove("hide");}
 
 /* Close fullscreen */
 function closeFullscreen2() {
@@ -68,11 +69,12 @@ function closeFullscreen2() {
     } else if (document.msExitFullscreen) { /* IE11 */
         document.msExitFullscreen();
     }
-    var element = document.getElementById("col2-full-screen");
-    element.classList.toggle("hide");
     var element = document.getElementById("col2-normal-screen");
-    element.classList.toggle("show");
-}
+    element.classList.add("hide");
+    element.classList.remove("show");
+    var element = document.getElementById("col2-full-screen");
+    element.classList.add("show");
+    element.classList.remove("hide");}
 
 var elem = document.documentElement;
 
@@ -86,9 +88,11 @@ function openFullscreen3() {
         elem.msRequestFullscreen();
     }
     var element = document.getElementById("col3-full-screen");
-    element.classList.toggle("hide");
+    element.classList.add("hide");
+    element.classList.remove("show");
     var element = document.getElementById("col3-normal-screen");
-    element.classList.toggle("show");
+    element.classList.add("show");
+    element.classList.remove("hide");
 }
 
 /* Close fullscreen */
@@ -100,11 +104,14 @@ function closeFullscreen3() {
     } else if (document.msExitFullscreen) { /* IE11 */
         document.msExitFullscreen();
     }
-    var element = document.getElementById("col3-full-screen");
-    element.classList.toggle("hide");
     var element = document.getElementById("col3-normal-screen");
-    element.classList.toggle("show");
-}
+    element.classList.add("hide");
+    element.classList.remove("show");
+    var element = document.getElementById("col3-full-screen");
+    element.classList.add("show");
+    element.classList.remove("hide");
+
+} 
 
 //--------------------------------------------------------------
 
@@ -131,3 +138,13 @@ function shadesOff() {
 }
 
 //--------------------------------------------------------------
+
+
+function toggleMenu() {
+    var x = document.getElementById("col1");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }

@@ -24,7 +24,7 @@ body {
     height: 95vh;
 }
 
-.column {}
+.column {color: currentColor}
 
 .head {
     display: inline;
@@ -38,6 +38,7 @@ body {
 
 #col1 {
     width: 250px;
+    display: none;
 }
 
 #col1-bottom a:any-link {
@@ -45,7 +46,7 @@ body {
     color: currentColor;
 }
 
-#col1-top {}
+#col1-top {color: currentColor;}
 
 #col1-bottom {
     font-size: 14px;
@@ -85,7 +86,7 @@ body {
     width: calc(100vh * .5)
 }
 
-#col3-top {}
+#col3-top {color: currentColor}
 
 #col3-top a:any-link {
     color: currentColor;

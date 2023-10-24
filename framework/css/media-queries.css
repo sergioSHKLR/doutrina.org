@@ -6,6 +6,9 @@
         display: none;
     }
 
+    #col3-dark-mode,
+    #col3-full-screen {display: inline;}
+
     #col1-bottom {
         height: 100vh;
     }
@@ -68,6 +71,8 @@
     #col2-full-screen {
         display: none;
     }
+
+    #col1 {display: inline-block;}
 }
 
 @media only screen and (orientation:portrait) {
