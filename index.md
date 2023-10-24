@@ -18,4 +18,6 @@ body {background-color: #eee;}
 ><br>
 {:class="hero"}
 
-[entrar](./home.html){:class="center-button"}
+[entrar](./.html){:class="center-button"}
+
+Projeto ainda em desenvolvimento. Lançamento em 2024!
