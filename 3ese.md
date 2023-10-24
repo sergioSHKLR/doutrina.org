@@ -8,11 +8,7 @@ layout: default
 <link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="teal">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: 1;}
-/*
-#col2-head {background-color: teal;}
-#col2-body {background-color: #E6F2F2;}
-*/
+table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: rgba(255, 255, 255, .5)}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
 h3:before {content: "🗂️ Cap. "}
