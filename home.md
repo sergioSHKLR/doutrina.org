@@ -12,22 +12,29 @@ layout: default
 #col1 {background-color: #E6E6E6;}
 #col2-body {background-color: #F2F2F2;}
 */
+table {width: 100%; border: 1px solid gainsboro; border-collapse: collapse;}
+tr, td {width: 33%; text-align: center; border: 1px solid gainsboro; padding: 10px;}
+th {padding: 10px}
 #maps-button {display: none;}
+ul, li {line-height: 1.7;}
 </style>
 </head>
 
 # Bem-vindo à doutrina.org!
 
-**Pré-release Alpha 10.23. Em desenvolvimento diário. Última atualização em 16 Out 2023.**
+**Pré-release Alpha 10.23. Em desenvolvimento diário. Última atualização em 23 Out 2023.**
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita em três colunas, dispostas assim:
 
-![ilustração de um website com três colunas](./content/images/doutrina-layout.svg)
+| doutrina.org |  | 🔴🟡🟢 |
+| :--- | --- | ---: |
+Coluna 1<br>livros<br>sumário<br>detalhes  | Coluna 2<br>conteúdo<br>principal<br>links | Coluna 3<br>enciclopédia<br>dicionário<br>mapas |
 
-1.  Menu, contendo links dos livros, o sumário do mesmo, e ferramentas do projeto (esconde em telas médias e pequenas)
-2.  Conteúdo, dispondo da obra original em uma página única (sempre visível)
-3.  Referências, possibilitando a consulta de enciclopédia, dicionário e atlas (com cortina anti-distração, esconde em telas pequenas)
-4.  Adicionalmente, existe um quarto painel, escamoteavel, que possibilita grifos em amarelo e anotações (interface em Inglês, requere uma conta)
+1.  Coluna 1, contendo links dos livros, o sumário do mesmo, e detalhes do projeto (visível em telas grandes)
+2.  Coluna 2, dispondo da obra original em uma página única (visível em telas grandes, médias e pequenas)
+3.  Coluna 3, possibilitando a consulta de enciclopédia, dicionário e atlas (com cortina anti-distração, visível em telas grandes e médias)
+
+<!-- 4.  Adicionalmente, existe um quarto painel, escamoteavel, que possibilita grifos em amarelo e anotações (interface em Inglês, requere uma conta) -->
 
 Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações para realçar as mensagens de origem espiritual, diferenciando-as de Kardec., exemplificado abaixo.
 

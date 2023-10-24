@@ -95,6 +95,7 @@ body {
     overflow-y: scroll;
     border-top-width: 1px;
     border-top-style: solid;
+    height: calc(95vh - 70px);
 }
 
 .dark-mode {
@@ -108,7 +109,7 @@ body {
 
 iframe {
     border: none;
-    height: calc(95vh - 50px);
+    height: 100%;
     width: 100%;
     /*
     position: relative;
@@ -222,3 +223,6 @@ button,
 
 .show {display: inline-block;}
 .hide {display: none;}
+
+.cursive {font-family: 'Zeyada', cursive;
+    font-size: 60px; margin-top: -10px;}
