@@ -9,27 +9,21 @@
     content="Uma plataforma inédita de estudos integrados; permitindo anotações e a consulta de referências externas, sem a necessidade de sair da janela original.">
   <meta name="author" content="sergioSHKLR, info@doutrina.org">
 
-  <!-- PRIMARY META TAGS -->
-  <title>doutrina.org</title>
-  <meta name="title" content="doutrina.org" />
-  <meta name="description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original." />
-
   <!-- OPEN GRAPH / FACEBOOK -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://doutrina.org/" />
-  <meta property="og:title" content="doutrina.org" />
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://doutrina.org/">
+  <meta property="og:title" content="doutrina.org">
   <meta property="og:description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original." />
-  <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
+  <meta property="og:image" content="https://metatags.io/images/meta-tags.png">
 
   <!-- TWITTER / X -->
-  <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="http://doutrina.org/" />
-  <meta property="twitter:title" content="doutrina.org" />
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="http://doutrina.org/">
+  <meta property="twitter:title" content="doutrina.org">
   <meta property="twitter:description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original." />
-  <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+    content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
+  <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png">
 
   <!-- GOOGLE FONTS -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,28 +51,20 @@
     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="../framework/css/framework9.css">
-  <link rel="stylesheet" href="../framework/css/content1.css">
-  <!--
-  <link rel="stylesheet" href="../framework/css/adjusts.css"> -->
+  <link rel="stylesheet" href="../framework/css/wireframe.css">
+  <link rel="stylesheet" href="../framework/css/media-queries.css">
 
   <!-- PWA -->
   <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
 
-  <!-- HYPOTHES.IS -->
+  <!-- HYPOTHES.IS 
   <script type="application/json" class="js-hypothesis-config">
  {
  "openSidebar": false,
  "showHighlights": true
  }
 </script>
-  <script defer src="https://hypothes.is/embed.js"></script>
-
-  <!-- CACHE -->
-  <meta http-equiv="cache-control" content="no-cache" />
-
-  <!-- STYLES -->
-  <style></style>
+  <script defer src="https://hypothes.is/embed.js"></script>  -->
 
 </head>
 
@@ -91,45 +77,41 @@
     <div id="col1" class="column">
       <div class="flex-head">
         <!-- COL1-HEAD -->
-        <div id="col1-head" class="head">
+        <div id="col1-top" class="head">
           <!-- BRAND 1 -->
-          <span id="brand-col1" style="font-family: 'Russo One'; font-size: 24px; margin-left: -10px;">💧<a
-              href="./home.html" title="voltar ao início">doutrina.org</a>
-          </span>
+          <button id="col1-brand">💧<a href="./home.html" title="voltar ao início">doutrina.org</a>
+          </button>
         </div>
       </div>
       <div class="flex-body">
         <!-- COL1-BODY -->
-        <div id="col1-body" class="body">
+        <div id="col1-bottom" class="body">
           <!-- LINKS -->
-          <!--
-            <button class="fr" onclick="buttonOne()" style="background-color: #ccc; border-radius: 50%;"><span class="material-symbols-outlined">close</span></button> -->
           <p class="h3">Obras básicas</p>
-          <p class="emoji">👻&nbsp;<a href="./1lde.html">O Livro dos Espíritos</a>
-          </p>
-          <p class="emoji">✒️&nbsp;<a href="./2ldm.html">O Livro dos Médiuns</a>
-          </p>
-          <p class="emoji">🕊️&nbsp;<a href="./3ese.html">O Evangelho</a>
-          </p>
-          <p class="emoji">🔥&nbsp;<a href="./4ceu.html">O Céu e o Inferno</a>
-          </p>
-          <p class="emoji">🌱&nbsp;<a href="./5gen.html">A Gênese</a>
-          </p>
+          <p>👻&nbsp;<a href="./1lde.html">O Livro dos Espíritos</a></p>
+          <p>✒️&nbsp;<a href="./2ldm.html">O Livro dos Médiuns</a></p>
+          <p>🕊️&nbsp;<a href="./3ese.html">O Evangelho</a></p>
+          <p>🔥&nbsp;<a href="./4ceu.html">O Céu e o Inferno</a></p>
+          <p>🌱&nbsp;<a href="./5gen.html">A Gênese</a></p>
           <!-- TOC -->
           <p class="h3">Sumário</p>
+
+          <!--
+          <input type="text" id="filter-toc" onkeyup="filterTOC()" placeholder="Filtrar por número" title="filtre por parte ou cap."> -->
 
           {% include toc.html html=content h_min=2 h_max=3 id="jekyll-toc" submenu_class="jekyll-toc-%level%" %}
 
           <!-- DETAILS -->
           <p class="h3">Detalhes</p>
 
-          <p class="emoji">⚖️&nbsp;<a target="_blank" href="./info.md" title="Info">Info</a></p>
-          <p class="emoji">🕷️&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues"
+          <p>📋&nbsp;<a target="_blank" href="./info.md" title="Info">Info</a></p>
+
+          <p>🕷️&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues"
               title="erros">Erros</a></p>
-          <p class="emoji">📦&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
-              title="repositório">Repo</a>
+          <p>📦&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">Repo</a>
           </p>
-          <p class="emoji">⭕&nbsp;<a target="_blank" href="https://shklr.org" title="matriz">shklr.org</a></p>
+          <p>⚖️&nbsp;<a target="_blank" href="./legal.md" title="Legal">Legal</a></p>
+          <p>⭕&nbsp;<a target="_blank" href="https://shklr.org" title="matriz">shklr.org</a></p>
           <br>
         </div>
       </div>
@@ -138,19 +120,29 @@
     <div id="col2" class="column">
       <div class="flex-head">
         <!-- COL2-HEAD -->
-        <div id="col2-head" class="head">
-          <button id="button-one" onclick="buttonOne()" title="painel 1">
-            <span class="material-symbols-outlined">menu</span></button>
+        <div id="col2-top" class="head">
+
           <!-- BRAND 2 -->
-          <span id="brand-col2" style="font-family: 'Russo One'; font-size: 24px; margin-left: -10px;">💧<a
-              href="./home.html" title="voltar ao início">doutrina.org</a></span>
+          <button id="col2-brand">💧<a href="./home.html" title="voltar ao início">doutrina.org</a></button>
 
-          <button id="open-fullscreen" class="fr" onclick="openFullscreen()" title="tela cheia">
-            <span class="material-symbols-outlined">fullscreen</span></button>
+          <button title="spacer">&nbsp;</button>
 
-          <button id="close-fullscreen" class="fr" hidden onclick="closeFullscreen()" title="tela normal">
-            <span class="material-symbols-outlined">fullscreen_exit</span></button>
-<!--
+          <button id="col2-menu" class="fl" onclick="toggleMenu()" title="painel 1">
+            <span class="material-symbols-outlined">menu</span></button>
+
+          <button id="col2-full-screen" class="fr" onclick="openFullscreen2()" title="tela cheia"><span
+              class="material-symbols-outlined">fullscreen</span></button>
+
+          <button id="col2-normal-screen" hidden class="fr" onclick="closeFullscreen2()" title="tela normal"><span
+              class="material-symbols-outlined">fullscreen_exit</span></button>
+
+          <button id="col2-dark-mode" class="fr" onclick="activeDark2()" title="modo escuro">
+            <span class="material-symbols-outlined">dark_mode</span></button>
+
+          <button id="col2-light-mode" hidden class="fr" onclick="inactiveDark2()" title="modo claro">
+            <span class="material-symbols-outlined">light_mode</span></button>
+
+          <!--
           <button class="fr" onclick="toggleAdjusts()"><span class="material-symbols-outlined">
               tune
             </span></button>
@@ -201,11 +193,19 @@
       </div>
       <div class="flex-body">
         <!-- COL2-BODY -->
-        <div id="col2-body" class="body">
-          <div id="content">
+        <div id="col2-bottom" class="body">
+          <div id="portrait-notice">
+            <p>No tablet ou celular?<br>Clique no botão acima <span class="material-symbols-outlined"
+                style="color: red; vertical-align: bottom">fullscreen</span> para entrar
+              no modo tela cheia e use seu dispositivo no modo deitado (landscape) para poder visualizar o painel
+              complementar.</p>
+          </div>
+          <div id="content" name="top">
             <!-- #endregion -->
             <!-- CONTENT START -->
+
             {{ content }}
+
             <!-- CONTENT END -->
             <!-- #region BOTTOM -->
 
@@ -217,36 +217,58 @@
     <div id="col3" class="column">
       <div class="flex-head">
         <!-- COL3-HEAD -->
-        <div id="col3-head" class="head">
-          <button id="shades-off" onclick="toggleShades()" title="desativar cortina anti-distração">
-            <span class="material-symbols-outlined">visibility</span>
-          </button>
-          <button id="shades-on" hidden onclick="toggleShades()" title="ativar cortina anti-distração">
-            <span class="material-symbols-outlined">visibility_off</span>
-          </button>
-          <a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia">
-            <span class="material-symbols-outlined">language</span>
-          </a>
-          <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
-            <span class="material-symbols-outlined">book_2</span>
-          </a>
-          <a id="maps-button" target="ext" href="./content/maps/paris.html" title="atlas">
-            <span class="material-symbols-outlined">location_on</span>
-          </a>
+        <div id="col3-top" class="head">
+
+          <button id="col3-shades-off" hidden onclick="shadesOn()" title="desativar cortina anti-distração"><span
+              class="material-symbols-outlined">visibility</span></button>
+
+          <button id="col3-shades-on" onclick="shadesOff()" title="ativar cortina anti-distração"><span
+              class="material-symbols-outlined">visibility_off</span></button>
+
+          <button id="col3-link1"><a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia"><span
+                class="material-symbols-outlined">language</span></a></button>
+
+          <button id="col3-link2" class="round"><a target="ext" href="https://pt.m.wiktionary.org"
+              title="dicionário"><span class="material-symbols-outlined">book_2</span></a></button>
+
+          <button id="col3-link3"><a target="ext" href="./content/maps/paris.html" title="atlas"><span
+                class="material-symbols-outlined">location_on</span></a></button>
+
+          <button id="col3-full-screen" class="fr" onclick="openFullscreen3()" title="tela cheia"><span
+              class="material-symbols-outlined">fullscreen</span></button>
+
+          <button id="col3-normal-screen" hidden class="fr" onclick="closeFullscreen3()" title="tela normal"><span
+              class="material-symbols-outlined">fullscreen_exit</span></button>
+
+          <button id="col3-dark-mode" class="fr" onclick="activeDark3()" title="modo escuro">
+            <span class="material-symbols-outlined">dark_mode</span></button>
+
+          <button id="col3-light-mode" class="fr" hidden onclick="inactiveDark3()" title="modo claro">
+            <span class="material-symbols-outlined">light_mode</span></button>
+
         </div>
       </div>
       <div class="flex-body">
         <!-- COL3-BODY -->
-        <div id="col3-body">
-          <iframe id="ext-iframe" loading="lazy" name="ext" src="./ext.html" title="painel complementar"
-            class="shades-on"></iframe>
+        <div id="col3-bottom">
+
+          <iframe id="ext-iframe" loading="lazy" name="ext" src="https://pt.m.wikipedia.org/wiki/Educação_continuada"
+            title="painel complementar" class="shades-on"></iframe>
         </div>
       </div>
     </div>
   </div>
+
+
+
   <!-- SCRIPTS -->
-  <script defer src="../framework/js/scripts.js"></script>
+  <script defer src="../framework/js/scripts1.js"></script>
   <script defer src="../framework/js/crisp.js"></script>
+
+  <script>
+
+    </script>
+
 </body>
 <!-- #endregion -->
 

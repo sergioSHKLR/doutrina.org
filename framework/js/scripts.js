@@ -6,7 +6,7 @@
 var elem = document.documentElement;
 
 /* View in fullscreen */
-function openFullscreen() {
+function toggleFullscreen2() {
   if (elem.requestFullscreen) {
     elem.requestFullscreen();
   } else if (elem.webkitRequestFullscreen) { /* Safari */
@@ -14,18 +14,42 @@ function openFullscreen() {
   } else if (elem.msRequestFullscreen) { /* IE11 */
     elem.msRequestFullscreen();
   }
-  var z = document.getElementById("open-fullscreen");
+  var z = document.getElementById("col2-full-screen");
   if (z.style.display === "none") {
     z.style.display = "block";
   } else {
     z.style.display = "none";
   }
 
-  var z = document.getElementById("close-fullscreen");
+  var z = document.getElementById("col2-normal-screen");
   if (z.style.display === "block") {
     z.style.display = "none";
   } else {
     z.style.display = "block";
+  }
+}
+
+/* View in fullscreen */
+function toggleFullscreen3() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+  var y = document.getElementById("col3-full-screen");
+  if (y.style.display === "none") {
+    y.style.display = "block";
+  } else {
+    y.style.display = "none";
+  }
+
+  var y = document.getElementById("col3-normal-screen");
+  if (y.style.display === "block") {
+    y.style.display = "none";
+  } else {
+    y.style.display = "block";
   }
 }
 
@@ -76,13 +100,13 @@ function toggleShades() {
 /* #endregion */
 
 /* #region  MENU */
-function buttonOne() {
+function toggleMenu() {
   // show-hide column 1
-  var z = document.getElementById("col1");
-  if (z.style.display === "block") {
-    z.style.display = "none";
+  var w = document.getElementById("col1");
+  if (w.style.display === "block") {
+    w.style.display = "none";
   } else {
-    z.style.display = "block";
+    w.style.display = "block";
   }
 }
 /* #endregion */
@@ -120,8 +144,6 @@ function bgWhite() {
   element.classList.remove("grey", "sepia", "navy", "black");
   element.classList.add("white");
 }
-
-
 
 // changes font family to monospace
 function fontMono() {
@@ -194,4 +216,9 @@ function toggleAdjusts() {
   } else {
     b.style.display = "block";
   }
+}
+
+function toggleDark() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
 }

@@ -53,10 +53,12 @@ em {
     color: crimson;
 }
 
-#content a:any-link {color: mediumblue;}
+#content a:any-link {
+    color: mediumblue;
+}
 
 blockquote {
-    padding: 1px 30px ;
+    padding: 1px 30px;
     border: none;
     margin-left: 0px;
     width: 100%;
@@ -64,7 +66,7 @@ blockquote {
 }
 
 blockquote>p>em {
-    color: crimson;
+    color: darkred;
 }
 
 blockquote>p>img {
@@ -86,23 +88,23 @@ blockquote.spirit-multi {
     background-color: rgba(30, 144, 255, .1);
 }
 
-blockquote.spirit-multi > p:nth-child(1)::before {
+blockquote.spirit-multi>p:nth-child(1)::before {
     content: "👻 ▸ ";
-    font-style: normal;
+    font-style: normal !important;
 }
 
-blockquote.spirit > p:nth-child(1)::before {
+blockquote.spirit>p:nth-child(1)::before {
     content: "👻 ▸ ";
-    font-style: normal;
+    font-style: normal !important;
 }
 
 
-blockquote.bible > p:nth-child(1)::before {
+blockquote.bible>p:nth-child(1)::before {
     content: "✝️ ▸ ";
     font-style: normal;
 }
 
-blockquote.bible-multi > p:nth-child(1)::before {
+blockquote.bible-multi>p:nth-child(1)::before {
     content: "✝️ ▸ ";
     font-style: normal;
 }
@@ -126,5 +128,47 @@ blockquote.spirit-multi>p:nth-child(2) {
 
 blockquote.bible,
 blockquote.bible-multi {
-    background-color: rgba(218, 112, 214, .1);
+    background-color: rgba(218, 112, 214, .05);
+}
+
+table {
+    outline: 1px solid gainsboro;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, .5)
+}
+
+td {
+    padding: 0 30px;
+}
+
+#col3-link3 {
+    display: none;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 20px;
+}
+
+h2:before {
+    content: "🗃️ Parte "
+}
+
+h3:before {
+    content: "🗂️ Cap. "
+}
+
+h4:before {
+    content: "📑 "
+}
+
+h5:before {
+    content: "📄 "
+}
+
+h6:before {
+    content: "#️⃣ "
 }

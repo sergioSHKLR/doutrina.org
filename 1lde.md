@@ -5,13 +5,11 @@ layout: default
 
 <!-- #region  HEAD -->
 <head>
-<link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="mediumblue">
 <style>
-table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; background-color: #fff; opacity: .5;}
-#col2-head {background-color: mediumblue;}
-#col2-body {background-color: #ECF0FC;}
-#maps-button {display: none;}
+table {outline: 1px solid gainsboro; border-collapse: collapse; }
+td {padding: 0 30px;}
+#col3-link3 {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 h2:before {content: "🗃️ Parte "}
 h3:before {content: "🗂️ Cap. "}
@@ -39,7 +37,7 @@ h6:before {content: "#️⃣ "}
 
 ## 0
 
-### 0-01
+### 0-01 
 
 |  |
 |:---:|
@@ -100,7 +98,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a [Deus][0]{:target="ext"} com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus][0]{:target="ext"}. São um véu lançado sobre as claridades celestes, e [Deus][0]{:target="ext"} não pode servir-se do cego para fazer perceptível a luz.
 >
 > João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.
-{:.spirit-multi}
+{:.spirit}
 
 ### 0-03
 
@@ -324,7 +322,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de [Jesus][1]{:target="ext"}:
 
-> ✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
+> *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
 > [Mateus][Mt]{:target="ext"}, cap. 13, vers. 14, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
@@ -431,7 +429,6 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 O que é [Deus][0]{:target="ext"}?
 
 > 👻 ▸ [Deus][0]{:target="ext"} é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
-{:.spirit}
 
 ###### Q.2
 
@@ -645,7 +642,7 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 
 Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
 
-> É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
+> 👻 ▸ É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
 
 ###### Q.26
 

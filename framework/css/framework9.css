@@ -178,7 +178,11 @@ p>img {
 }
 
 .shades-on {
-    filter: brightness(.1)
+    filter: brightness(1)
+}
+
+.shades-off {
+    filter: brightness(0)
 }
 
 .hide {
@@ -247,6 +251,8 @@ p>img {
     line-height: 2.2;
 }
 
+#filter-toc {height: 30px; width: 180px; border: 1px solid gainsboro;}
+
 /* #endregion */
 
 /* #region MEDIA QUERIES */
@@ -268,6 +274,8 @@ p>img {
     }
 
     #content-adjusts {top: 7px;}
+    #brand-text {display: none;}
+
 }
 
 @media only screen and (min-width:783px) and (max-width:1419px) {
@@ -283,6 +291,7 @@ p>img {
     }
 
     #content-adjusts {top: 7px;}
+    #brand-text {display: none;}
 
 }
 
@@ -299,7 +308,6 @@ p>img {
     }
 
     #content-adjusts {top: 7px;}
-
 }
 
 @media only screen and (min-width:1920px) {
