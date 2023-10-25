@@ -21,7 +21,7 @@ ul, li {line-height: 1.7;}
 </style>
 </head>
 
-# Bem-vindo à doutrina.org!
+# 🏠 Bem-vindo!
 
 **Pré-release Alpha 10.23. Em desenvolvimento diário. Última atualização em 23 Out 2023.**
 

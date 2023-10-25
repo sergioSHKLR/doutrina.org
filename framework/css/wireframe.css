@@ -3,6 +3,7 @@
     border-color: rgba(150, 150, 150, .5);
     color: currentColor;
     overscroll-behavior: contain;
+    scroll-behavior: smooth;
 }
 
 * a:any-link {
@@ -13,16 +14,17 @@ html {
     font: 16px Inter, sans-serif;
     margin: 30px 120px 0px 120px !important;
     padding: 0px;
+    height: 100vh;
 }
 
 body {
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 .flex {
     display: flex;
-    overflow-y: scroll;
     height: 98vh;
 }
 
@@ -130,7 +132,6 @@ iframe {
 }
 
 .material-symbols-outlined {
-    vertical-align: baseline;
     color: currentColor
 }
 
@@ -257,8 +258,45 @@ button,
 }
 
 #portrait-notice {
+    margin-top: 30px;
     text-align: center;
-    border: 1px solid crimson
+    border: 1px solid crimson;
+    padding: 10px;
+    color: crimson;
 }
 
-#ext-iframe {height: 100vh;}
+#ext-iframe {
+    height: 100vh;
+}
+
+
+#content {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+em,
+strong {
+    font-weight: 400;
+}
+
+#back-to-top {
+    position: absolute;
+    bottom: 30px;
+    right: 46vw;
+    display: none;
+}
+
+#content a:any-link {
+    text-decoration: none;
+    color: royalblue;
+}
+
+#content a:any-link:hover {
+    text-decoration-line: underline;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: royalblue;
+    text-underline-offset: 2px;
+}

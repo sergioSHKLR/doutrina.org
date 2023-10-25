@@ -5,7 +5,6 @@ layout: default
 
 <!-- #region HEAD -->
 <head>
-<link rel="stylesheet" href="../framework/css/blockquote1.css">
 <meta name="theme-color" content="chocolate">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; }

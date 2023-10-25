@@ -3,6 +3,6 @@ title: ⚖️ Avisos legais
 layout: default
 ---
 
-# Avisos legais
+# ⚖️ Avisos legais
 
 body

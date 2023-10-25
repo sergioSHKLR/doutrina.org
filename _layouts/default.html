@@ -88,11 +88,11 @@
         <div id="col1-bottom" class="body">
           <!-- LINKS -->
           <p class="h3">Obras básicas</p>
-          <p class="emoji">👻&nbsp;<a href="./1lde.html">O Livro dos Espíritos</a></p>
-          <p class="emoji">✒️&nbsp;<a href="./2ldm.html">O Livro dos Médiuns</a></p>
-          <p class="emoji">🕊️&nbsp;<a href="./3ese.html">O Evangelho</a></p>
-          <p class="emoji">🔥&nbsp;<a href="./4ceu.html">O Céu e o Inferno</a></p>
-          <p class="emoji">🌱&nbsp;<a href="./5gen.html">A Gênese</a></p>
+          <p>👻&nbsp;<a href="./1lde.html">O Livro dos Espíritos</a></p>
+          <p>✒️&nbsp;<a href="./2ldm.html">O Livro dos Médiuns</a></p>
+          <p>🕊️&nbsp;<a href="./3ese.html">O Evangelho</a></p>
+          <p>🔥&nbsp;<a href="./4ceu.html">O Céu e o Inferno</a></p>
+          <p>🌱&nbsp;<a href="./5gen.html">A Gênese</a></p>
           <!-- TOC -->
           <p class="h3">Sumário</p>
 
@@ -104,12 +104,14 @@
           <!-- DETAILS -->
           <p class="h3">Detalhes</p>
 
-          <p class="emoji">⚖️&nbsp;<a target="_blank" href="./info.md" title="Info">Info</a></p>
-          <p class="emoji">🕷️&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues"
+          <p>📋&nbsp;<a target="_blank" href="./info.md" title="Info">Info</a></p>
+
+          <p>🕷️&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues"
               title="erros">Erros</a></p>
-          <p class="emoji">📦&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org"
-              title="repositório">Repo</a></p>
-          <p class="emoji">⭕&nbsp;<a target="_blank" href="https://shklr.org" title="matriz">shklr.org</a></p>
+          <p>📦&nbsp;<a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">Repo</a>
+          </p>
+          <p>⚖️&nbsp;<a target="_blank" href="./legal.md" title="Legal">Legal</a></p>
+          <p>⭕&nbsp;<a target="_blank" href="https://shklr.org" title="matriz">shklr.org</a></p>
           <br>
         </div>
       </div>
@@ -128,14 +130,16 @@
           <button id="col2-menu" class="fl" onclick="toggleMenu()" title="painel 1">
             <span class="material-symbols-outlined">menu</span></button>
 
-          <button id="col2-full-screen"  class="fr"  onclick="openFullscreen2()" title="tela cheia"><span class="material-symbols-outlined">fullscreen</span></button>
+          <button id="col2-full-screen" class="fr" onclick="openFullscreen2()" title="tela cheia"><span
+              class="material-symbols-outlined">fullscreen</span></button>
 
-          <button id="col2-normal-screen" hidden class="fr"  onclick="closeFullscreen2()" title="tela normal"><span class="material-symbols-outlined">fullscreen_exit</span></button>
+          <button id="col2-normal-screen" hidden class="fr" onclick="closeFullscreen2()" title="tela normal"><span
+              class="material-symbols-outlined">fullscreen_exit</span></button>
 
-          <button id="col2-dark-mode"  class="fr"  onclick="activeDark2()" title="modo escuro">
+          <button id="col2-dark-mode" class="fr" onclick="activeDark2()" title="modo escuro">
             <span class="material-symbols-outlined">dark_mode</span></button>
 
-          <button id="col2-light-mode" hidden class="fr"  onclick="inactiveDark2()" title="modo claro">
+          <button id="col2-light-mode" hidden class="fr" onclick="inactiveDark2()" title="modo claro">
             <span class="material-symbols-outlined">light_mode</span></button>
 
           <!--
@@ -190,18 +194,18 @@
       <div class="flex-body">
         <!-- COL2-BODY -->
         <div id="col2-bottom" class="body">
-<br>
           <div id="portrait-notice">
-            <p>❗<br> No tablet ou celular?<br>Clique no botão acima <span class="material-symbols-outlined"
+            <p>No tablet ou celular?<br>Clique no botão acima <span class="material-symbols-outlined"
                 style="color: red; vertical-align: bottom">fullscreen</span> para entrar
               no modo tela cheia e use seu dispositivo no modo deitado (landscape) para poder visualizar o painel
               complementar.</p>
           </div>
-
-          <div id="content">
+          <div id="content" name="top">
             <!-- #endregion -->
             <!-- CONTENT START -->
+
             {{ content }}
+
             <!-- CONTENT END -->
             <!-- #region BOTTOM -->
 
@@ -215,21 +219,28 @@
         <!-- COL3-HEAD -->
         <div id="col3-top" class="head">
 
-          <button id="col3-shades-off"  hidden onclick="shadesOn()" title="desativar cortina anti-distração"><span class="material-symbols-outlined">visibility</span></button>
+          <button id="col3-shades-off" hidden onclick="shadesOn()" title="desativar cortina anti-distração"><span
+              class="material-symbols-outlined">visibility</span></button>
 
-          <button id="col3-shades-on"  onclick="shadesOff()" title="ativar cortina anti-distração"><span class="material-symbols-outlined">visibility_off</span></button>
+          <button id="col3-shades-on" onclick="shadesOff()" title="ativar cortina anti-distração"><span
+              class="material-symbols-outlined">visibility_off</span></button>
 
-          <button id="col3-link1"  ><a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia"><span class="material-symbols-outlined">language</span></a></button>
+          <button id="col3-link1"><a target="ext" href="https://pt.m.wikipedia.org" title="enciclopédia"><span
+                class="material-symbols-outlined">language</span></a></button>
 
-          <button id="col3-link2" class="round"><a target="ext" href="https://pt.m.wiktionary.org" title="dicionário"><span class="material-symbols-outlined">book_2</span></a></button>
+          <button id="col3-link2" class="round"><a target="ext" href="https://pt.m.wiktionary.org"
+              title="dicionário"><span class="material-symbols-outlined">book_2</span></a></button>
 
-          <button id="col3-link3"  ><a target="ext" href="./content/maps/paris.html" title="atlas"><span class="material-symbols-outlined">location_on</span></a></button>
+          <button id="col3-link3"><a target="ext" href="./content/maps/paris.html" title="atlas"><span
+                class="material-symbols-outlined">location_on</span></a></button>
 
-          <button id="col3-full-screen"  class="fr"  onclick="openFullscreen3()" title="tela cheia"><span class="material-symbols-outlined">fullscreen</span></button>
+          <button id="col3-full-screen" class="fr" onclick="openFullscreen3()" title="tela cheia"><span
+              class="material-symbols-outlined">fullscreen</span></button>
 
-          <button id="col3-normal-screen" hidden class="fr"   onclick="closeFullscreen3()" title="tela normal"><span class="material-symbols-outlined">fullscreen_exit</span></button>
+          <button id="col3-normal-screen" hidden class="fr" onclick="closeFullscreen3()" title="tela normal"><span
+              class="material-symbols-outlined">fullscreen_exit</span></button>
 
-          <button id="col3-dark-mode"  class="fr"  onclick="activeDark3()" title="modo escuro">
+          <button id="col3-dark-mode" class="fr" onclick="activeDark3()" title="modo escuro">
             <span class="material-symbols-outlined">dark_mode</span></button>
 
           <button id="col3-light-mode" class="fr" hidden onclick="inactiveDark3()" title="modo claro">
@@ -240,17 +251,23 @@
       <div class="flex-body">
         <!-- COL3-BODY -->
         <div id="col3-bottom">
-          
-         <iframe id="ext-iframe" loading="lazy" name="ext" src="https://pt.m.wikipedia.org/wiki/Educação_continuada" title="painel complementar"
-            class="shades-on"></iframe>
+
+          <iframe id="ext-iframe" loading="lazy" name="ext" src="https://pt.m.wikipedia.org/wiki/Educação_continuada"
+            title="painel complementar" class="shades-on"></iframe>
         </div>
       </div>
     </div>
   </div>
 
+
+
   <!-- SCRIPTS -->
   <script defer src="../framework/js/scripts1.js"></script>
   <script defer src="../framework/js/crisp.js"></script>
+
+  <script>
+
+    </script>
 
 </body>
 <!-- #endregion -->
