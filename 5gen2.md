@@ -809,7 +809,7 @@ Transportando-nos a alguns milhões de séculos somente, além da época atual, 
 
 Após haver remontado, tanto quanto o permitia a nossa fraqueza, em direção à fonte oculta donde dimanam os mundos, como de um rio as gotas de água, consideremos a marcha das criações sucessivas e dos seus desenvolvimentos seriais. A matéria cósmica primitiva continha os elementos materiais, fluídicos e vitais de todos os universos que estadeiam suas magnificências diante da eternidade. Ela é a mãe fecunda de todas as coisas, a primeira avó e, sobretudo, a eterna geratriz. Absolutamente não desapareceu essa substância donde provêm as esferas siderais; não morreu essa potência, pois que ainda, incessantemente, dá à luz novas criações e incessantemente recebe, reconstituídos, os princípios dos mundos que se apagam do livro eterno. A substância etérea, mais ou menos rarefeita, que se difunde pelos espaços interplanetários; esse fluido cósmico que enche o mundo, mais ou menos rarefeito, nas regiões imensas, ricas de aglomerações de estrelas; mais ou menos condensado onde o céu astral ainda não brilha; mais ou menos modificado por diversas combinações, de acordo com as localidades da extensão, nada mais é do que a substância primitiva onde residem as forças universais, donde a natureza há tirado todas as coisas. [^34]
 
-[^34]: Nota de Allan Kardec: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
+[^34]: A.K.: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
 
 ######  18
 
@@ -869,7 +869,7 @@ Foi assim que a Terra deu nascimento à Lua, cuja massa, menos considerável, te
 
 As condições em que se efetuou a desagregação da Lua pouco lhe permitiram afastar-se da Terra e a constrangeram a conservar-se perpetuamente suspensa no seu firmamento, como uma figura ovoide, cujas partes mais pesadas formaram a face inferior voltada para a Terra e as partes menos densas lhe constituíram o vértice, se com essa palavra se designar a face que, do lado oposto à Terra, se eleva para o céu. É o que faz que esse astro nos apresente sempre a mesma face. Para melhor compreender-se o seu estado geológico, pode ele ser comparado a um globo de cortiça, tendo formada de chumbo a face voltada para a Terra. Daí, duas naturezas essencialmente distintas na superfície do mundo lunar: uma, sem qualquer analogia com o nosso, porquanto lhe são desconhecidos os corpos fluidos e etéreos; a outra, leve, relativamente à Terra, pois que todas as substâncias menos densas se encaminharam para esse hemisfério. A primeira, perpetuamente voltada para a Terra, sem águas e sem atmosfera, a não ser, aqui e ali, nos limites desse hemisfério terrestre; a outra, rica de fluidos, perpetuamente oposta ao nosso mundo. [^38], [^39]
 
-[^38]: Nota de Allan Kardec: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade. 
+[^38]: A.K.: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade. 
 
 Por muito racional e científica que seja essa teoria, como ainda não foi confirmada por nenhuma observação direta, somente a título de hipótese pode ser aceita e como ideia capaz de servir de baliza à Ciência. Não se pode, porém, deixar de convir em que é a única, até o presente, que dá uma explicação satisfatória das particularidades que apresenta o globo lunar.
 
@@ -929,7 +929,7 @@ Pelas belas noites estreladas e sem luar, toda gente há contemplado essa faixa 
 
 Com efeito, a Via Láctea é uma campina semeada de flores solares e planetárias, que brilham em toda a sua enorme extensão. O nosso Sol e todos os corpos que o acompanham fazem parte desse conjunto de globos radiosos que formam a Via Láctea. Malgrado, porém, as suas proporções gigantescas, relativamente à Terra, e à grandeza do seu império, ele, o Sol, ocupa inapreciável lugar em tão vasta criação. Podem contar-se por uma trintena de milhões os sóis que, à sua semelhança, gravitam nessa imensa região, afastados uns dos outros de mais de cem mil vezes o raio da órbita terrestre. [^44]
 
-[^44]: Nota de Allan Kardec: Mais de 3 trilhões e 400 bilhões de léguas.
+[^44]: A.K.: Mais de 3 trilhões e 400 bilhões de léguas.
 
 ######  34
 
@@ -955,7 +955,7 @@ As estrelas chamadas “fixas” e que constelam os dois hemisférios do firmame
 
 Esses diversos sóis estão na sua maioria, como o nosso, cercados de mundos secundários, que eles iluminam e fecundam por intermédio das mesmas leis que presidem à vida do nosso sistema planetário. Uns, como Sírio, são milhares de vezes mais magníficos em dimensões e em riquezas do que o nosso e muito mais importante é o papel que desempenham no universo. Também planetas em muito maior número e muito superiores aos nossos os cercam. Outros são muito dessemelhantes pelas suas funções astrais. É assim que certo número desses sóis, verdadeiros gêmeos da ordem sideral, são acompanhados de seus irmãos da mesma idade, e formam, no espaço, sistemas binários, aos quais a natureza outorgou funções inteiramente diversas das que tocaram ao nosso Sol.[^45] Lá, os anos não se medem pelos mesmos períodos, nem os dias pelos mesmos sóis e esses mundos, iluminados por um duplo facho, foram dotados de condições de existência inimagináveis por parte dos que ainda não saíram deste pequenino mundo terrestre. Outros astros, sem cortejo, privados de planetas, receberam os melhores elementos de habitabilidade concedidos a alguns. Na sua imensidade, as leis da natureza se diversificam e, se a unidade é a grande expressão do universo, a variedade infinita é igualmente seu eterno atributo.
 
-[^45]: Nota de Allan Kardec: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
+[^45]: A.K.: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
 
 ######  39
 
@@ -1009,7 +1009,7 @@ Todavia, o deserto celeste, que envolve o nosso universo sideral e que parece es
 
 Além de tão vastas solidões, com efeito, rebrilham mundos em sua magnificência, tanto quanto nas regiões acessíveis às investigações humanas; para lá desses desertos, vagam, no éter límpido esplêndidos oásis, que sem cessar renovam as cenas admiráveis da existência e da vida. Sucedem-se lá os agregados longínquos de substância cósmica, que o profundo olhar do telescópio percebe através das regiões transparentes do nosso céu e a que dais o nome de nebulosas irresolúveis, as quais vos parecem ligeiras nuvens de poeira branca, perdidas num ponto desconhecido do espaço etéreo. Lá se revelam e desdobram novos mundos, cujas condições variadas e diversas das que são peculiares ao vosso globo lhes dão uma vida que as vossas concepções não podem imaginar, nem os vossos estudos comprovar. É lá que em toda a sua plenitude resplandece o poder criador. Àquele que vem das regiões que o vosso sistema ocupa, outras leis se deparam em ação e suas forças regem as manifestações da vida. E os novos caminhos que se nos apresentam em tão singulares regiões abrem-nos surpreendentes perspectivas. [^48]
 
-[^48]: Nota de Allan Kardec: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis. 
+[^48]: A.K.: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis. 
 
 Uma comparação familiar pode dar ideia, embora muito imperfeita, das nebulosas resolúveis: são os grupos de centelhas projetadas pelas bombas dos fogos de artifício, no momento de explodirem. Cada uma dessas centelhas figurará uma estrela e o conjunto delas a nebulosa, ou grupo de estrelas reunidas num ponto do espaço e submetidas a uma lei comum de atração e de movimento. Vistas de certa distância, mal se distinguem essas centelhas, tendo o grupo por elas formado a aparência de uma nuvenzinha de fumaça. Não seria exata esta comparação, se se tratasse de massas de matéria cósmica condensada. 
 
@@ -1045,7 +1045,7 @@ Onde os vossos olhos admiram esplêndidas estrelas na abóbada da noite, onde o 
 
 Que são os seis mil anos da humanidade histórica, diante dos períodos seculares? Segundos em vossos séculos. Que são as vossas observações astronômicas, diante do estado absoluto do mundo? A sombra eclipsada pelo Sol.
 
-[^49]: Nota de Allan Kardec: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
+[^49]: A.K.: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
 
 ######  52
 
@@ -1143,7 +1143,7 @@ Destas considerações se pode concluir, com certeza, que todas as camadas pedro
 
 Um fato característico e da mais alta importância, pelo testemunho irrecusável que oferece, consiste no existirem, em quantidades enormes, despojos fósseis de animais e vegetais, dentro das diferentes camadas. Como esses despojos se encontram até nas mais duras pedras, há de concluir-se que a existência de tais seres é anterior à formação das aludidas pedras. Ora, se levarmos em conta o prodigioso número de séculos que foram necessários para que se lhes produzisse o endurecimento e para que elas alcançassem o estado em que se acham desde tempos imemoriais, chega-se forçosamente à conclusão de que o aparecimento de seres orgânicos na Terra se perde na noite das idades e é muito anterior, por conseguinte, à data que lhes assina a Gênese. [^52], [^53]
 
-[^52]: Nota de Allan Kardec: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
+[^52]: A.K.: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
 
 O termo petrificado se emprega relativamente aos corpos que se transformaram em pedra, pela infiltração de matérias silicosas ou calcárias nos tecidos orgânicos. Todas as petrificações necessariamente são fósseis, mas nem todos os fósseis são petrificações. 
 
@@ -1163,7 +1163,7 @@ Os fósseis de animais absolutamente não contêm, e isso é fácil de conceber-
 
 São extremamente numerosos os peixes e os moluscos testáceos fósseis; só estes últimos formam, às vezes, bancos inteiros de grande espessura. Pela natureza deles, verifica-se sem dificuldade se são animais marinhos ou de água doce.
 
-[^54]: Nota de Allan Kardec: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
+[^54]: A.K.: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
 
 ###### 10
 
@@ -1287,19 +1287,19 @@ Os animais desse período, que apareceram em seguida aos primeiros vegetais, era
 
 Sob o império do calor e da umidade e em virtude do excesso de ácido carbônico espalhado no ar, gás impróprio à respiração dos animais terrestres, mas necessário às plantas, os terrenos expostos se cobriram rapidamente de uma vegetação pujante, ao mesmo tempo que as plantas aquáticas se multiplicavam no seio dos pântanos. Plantas que, nos dias atuais, são simples ervas de alguns centímetros, atingiam altura e grossura prodigiosas. Assim é que havia florestas de fetos arborescentes de 8 a 10 metros de altura e de proporcional grossura. Licopódios (marroio, gênero de musgo), do mesmo porte; cavalinhas [^64], de 4 a 5 metros, que a altura não passa hoje de um metro, e uma infinidade de espécies que não mais existem. Pelos fins do período, começam a aparecer algumas árvores do gênero conífero ou pinheiros.
 
-[^64]: Nota de Allan Kardec: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
+[^64]: A.K.: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
 
 ###### 26
 
 Em consequência do deslocamento das águas, os terrenos que produziam essas massas de vegetais foram submergidos, cobertos de novos sedimentos terrosos, enquanto os que se achavam emersos se adornavam, a seu turno, de vegetação semelhante. Houve assim muitas gerações de vegetais alternativamente aniquiladas e renovadas. O mesmo não se deu com os animais que, sendo todos aquáticos, não estavam sujeitos a essas alternativas. Acumulados durante longa série de séculos, esses destroços formaram camadas de grande espessura. Sob a ação do calor, da umidade, da pressão exercida, pelos posteriores depósitos terrosos e, sem dúvida, de diversos agentes químicos, dos gases, dos ácidos e dos sais produzidos pela combinação dos elementos primitivos, aquelas matérias vegetais sofreram uma fermentação que as converteu em hulha ou carvão de pedra. As minas de hulha são, pois, produto direto da decomposição dos acervos de vegetais acumulados durante o período de transição. É por isso que são encontrados em quase todas as regiões. [^65]
 
-[^65]: Nota de Allan Kardec: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
+[^65]: A.K.: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
 
 ###### 27
 
 Os restos fósseis da pujante vegetação dessa época, achando-se hoje sob os gelos das terras polares, tanto quanto na zona tórrida, segue-se que, uma vez que a vegetação era uniforme, também a temperatura o havia de ser. Os polos, portanto, não se achavam cobertos de gelo, como agora. É que, então, a Terra tirava de si mesma o calor, do fogo central que aquecia de igual modo toda a camada sólida, ainda pouco espessa. Esse calor era superior de muito ao que podia provir dos raios solares, enfraquecidos, ademais, pela densidade da atmosfera. Só mais tarde, quando a ação do calor central se tornou muito fraca ou nula sobre a superfície exterior do globo, a do Sol passou a preponderar e as regiões polares, que apenas recebiam raios oblíquos, portadores de pequena quantidade de calor, se cobriram de gelo. Compreende-se que na época de que falamos e ainda muito tempo depois, o gelo era desconhecido na Terra. Deve ter sido muito longo esse período, a julgar pelo número e pela espessura das camadas de hulha. [^66]
 
-[^66]: Nota de Allan Kardec: Na baía de Fundy (Nova Escócia), o Sr. Lyell [Charles Lyell (1797–1875), geólogo britânico] encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
+[^66]: A.K.: Na baía de Fundy (Nova Escócia), o Sr. Lyell [Charles Lyell (1797–1875), geólogo britânico] encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
 
 Não dando mais de mil anos para a formação de cada um desses níveis, já teríamos 68.000 anos só para essa camada de hulha.
 
@@ -1333,7 +1333,7 @@ O iguanodonte, o maior dos lagartos que já apareceram na Terra. Tinha de 20 a 2
 
 O pterodátilo, animal estranho, do tamanho de um cisne, participando, simultaneamente, do reptil pelo corpo, do pássaro pela cabeça e do morcego pela membrana carnuda que lhe religava os dedos prodigiosamente longos. Essa membrana lhe servia de paraquedas quando se precipitava sobre a presa do alto de uma árvore ou de um rochedo. Não possuía bico córneo, como os pássaros, mas os ossos das mandíbulas, do comprimento da metade do corpo e guarnecidos de dentes, terminavam em ponta como um bico.
 
-[^69]: Nota de Allan Kardec: O primeiro fóssil deste animal foi descoberto, na Inglaterra, em 1823. Depois, encontraram-se outros na França e na Alemanha.
+[^69]: A.K.: O primeiro fóssil deste animal foi descoberto, na Inglaterra, em 1823. Depois, encontraram-se outros na França e na Alemanha.
 
 [^70]: N.E.: Somente após a desencarnação do autor, ocorrida em 1869, foram descobertos, na Inglaterra, fragmentos suficientes à montagem de um exemplar completo, pelos paleontólogos, permitindo melhor elucidar detalhes da descrição desse dinossauro. Ficou, então, claro que ele tinha uma calosidade óssea sobre o focinho, como os iguanídeos uma crista espinhosa no dorso, inexistindo chifres, que, no entanto, eram bastante evidentes em outros monstros, como nos saurópodes.
 
@@ -1417,7 +1417,7 @@ Um dos vestígios mais significativos desse grande desastre são os penedos cham
 
 [^75]: N.E.: Corresponde à época do Pleistoceno, no Período Quaternário da Era Cenozoica
 
-[^76]: Nota de Allan Kardec: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
+[^76]: A.K.: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
 
 ###### 44
 
@@ -1427,7 +1427,7 @@ Outro fato não menos característico e cuja causa se não descobriu ainda é qu
 
 Foi também por essa época que os polos começaram a cobrir-se de gelo e que se formaram as geleiras das montanhas, o que indica notável mudança na temperatura da Terra, mudança que deve ter sido súbita, porquanto, se se houvesse operado gradualmente, os animais, como os elefantes, que hoje só vivem nos climas quentes e que são encontrados em tão grande número no estado fóssil nas terras polares, teriam tido de retirar-se pouco a pouco para as regiões mais temperadas. Tudo denota, ao contrário, que eles provavelmente foram colhidos de surpresa por um grande frio e sitiados pelos gelos. [^77]
 
-[^77]: Nota de Allan Kardec: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
+[^77]: A.K.: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
 
 ###### 46
 
@@ -1460,7 +1460,7 @@ Ademais, por haver sido curto, o período antediluviano não determinou mudança
 
 Como quer que seja, tenha o homem aparecido ou não antes do grande dilúvio universal, o que é certo é que o seu papel humanitário somente no período pós-diluviano começou a esboçar-se. Pode-se, portanto, considerar caracterizado pela sua presença esse período.
 
-[^80]: Nota de Allan Kardec: Veja-se: O homem antediluviano, por Boucher de [Chévecoeur de] Perthes. — Os instrumentos de pedra, idem. — Discurso sobre as revoluções do globo, por Georges Cuvier, anotado pelo Dr. Hoefer.
+[^80]: A.K.: Veja-se: O homem antediluviano, por Boucher de [Chévecoeur de] Perthes. — Os instrumentos de pedra, idem. — Discurso sobre as revoluções do globo, por Georges Cuvier, anotado pelo Dr. Hoefer.
 
 [^81]: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
 
@@ -1499,13 +1499,13 @@ A teoria de Buffon, contraditada pelas novas descobertas da Ciência, está pres
 
 [^84]: N.E.: A Ciência atualmente define os cometas como blocos de gelo e rocha com alguns quilômetros de extensão; quando um cometa se aproxima do Sol, o gelo superficial se evapora, formando uma “bola” de vapor que adquire a forma de longa cauda. Hoje, sabemos que os cometas não são tão inofensivos quando se chocam com planetas; mas em choque com o Sol não causaria qualquer dano a essa estrela.
 
-[^85]: Nota de Allan Kardec: Completa dissertação, à altura da ciência moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
+[^85]: A.K.: Completa dissertação, à altura da ciência moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
 
 [^86]: N.E.: Juno, Ceres e Palas são alguns dos mais de 4.000 asteroides identificados pelos astrônomos; asteroides são fragmentos de rocha que giram em torno do Sol.
 
 [^87]: N.E.: Estima-se que a Terra tenha iniciado seu processo de formação há 4.600 milhões de anos. O processo de solidificação da crosta teria ocorrido nos primeiros 500 milhões de anos.
 
-[^88]: Nota de Allan Kardec: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
+[^88]: A.K.: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
 
 ##### Teoria da condensação
 
@@ -1597,9 +1597,9 @@ O dilúvio asiático foi evidentemente posterior ao aparecimento do homem na Ter
 
 É igualmente posterior ao grande dilúvio universal que assinalou o início do atual período geológico. Quando se fala de homens e de animais antediluvianos, a referência é àquele primeiro cataclismo.
 
-[^92]: Nota de Allan Kardec: O século XVIII registrou notável exemplo de um fenômeno desse gênero. A seis dias de marcha da cidade do México, existia, em 1750, uma região fértil e bem cultivada, onde davam em abundância arroz, milho e bananas. No mês de junho, pavorosos tremores de terra abalaram o solo, renovando-se continuamente durante dois meses inteiros. Na noite de 28 para 29 de setembro, violenta convulsão se produziu; um território de muitas léguas de extensão entrou a erguer-se pouco a pouco e acabou por alcançar a altitude de 500 pés, numa superfície de 10 léguas quadradas. O terreno ondulava, como as vagas do mar ao sopro da tempestade, milhares de montículos se elevavam e afundavam alternativamente; afinal, abriu-se um abismo de perto de 3 léguas, donde eram lançados à prodigiosa altura fumo, fogo, pedras esbraseadas e cinzas. Seis montanhas surgiram desse abismo hiante, entre as quais o vulcão a que foi dado o nome de Jorullo, que agora se eleva a 550 metros acima da antiga planície. No momento em que principiaram os abalos do solo, os dois rios Cuitimba e San Pedro, refluindo, inundaram toda a planície hoje ocupada pelo Jorullo; no terreno, porém, que sem cessar se elevava, outro sorvedouro se abriu e os absorveu. Os dois reapareceram mais tarde, a oeste, num ponto muito afastado de seus antigos leitos. (Lois Figuier, A Terra antes do dilúvio, p. 370.)
+[^92]: A.K.: O século XVIII registrou notável exemplo de um fenômeno desse gênero. A seis dias de marcha da cidade do México, existia, em 1750, uma região fértil e bem cultivada, onde davam em abundância arroz, milho e bananas. No mês de junho, pavorosos tremores de terra abalaram o solo, renovando-se continuamente durante dois meses inteiros. Na noite de 28 para 29 de setembro, violenta convulsão se produziu; um território de muitas léguas de extensão entrou a erguer-se pouco a pouco e acabou por alcançar a altitude de 500 pés, numa superfície de 10 léguas quadradas. O terreno ondulava, como as vagas do mar ao sopro da tempestade, milhares de montículos se elevavam e afundavam alternativamente; afinal, abriu-se um abismo de perto de 3 léguas, donde eram lançados à prodigiosa altura fumo, fogo, pedras esbraseadas e cinzas. Seis montanhas surgiram desse abismo hiante, entre as quais o vulcão a que foi dado o nome de Jorullo, que agora se eleva a 550 metros acima da antiga planície. No momento em que principiaram os abalos do solo, os dois rios Cuitimba e San Pedro, refluindo, inundaram toda a planície hoje ocupada pelo Jorullo; no terreno, porém, que sem cessar se elevava, outro sorvedouro se abriu e os absorveu. Os dois reapareceram mais tarde, a oeste, num ponto muito afastado de seus antigos leitos. (Lois Figuier, A Terra antes do dilúvio, p. 370.)
 
-[^93]: Nota de Allan Kardec: A lenda indiana sobre o dilúvio refere, segundo o livro dos Vedas, que Brama, transformado em peixe, se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-me-ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com eles povoasse a Terra. 
+[^93]: A.K.: A lenda indiana sobre o dilúvio refere, segundo o livro dos Vedas, que Brama, transformado em peixe, se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-me-ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com eles povoasse a Terra. 
 
 É flagrante a analogia desta lenda com a narrativa bíblica de Noé. Da Índia ela passara ao Egito, como uma multidão de outras crenças. Ora, sendo o livro dos Vedas anteriores ao de Moisés, a narração que naquele se encontra, do dilúvio, não pode ser uma cópia da deste último. O que é provável é que Moisés, que aprendera as doutrinas dos sacerdotes egípcios, haja tomado a estes a sua descrição.
 
@@ -1621,7 +1621,7 @@ Com o tempo, esses poucos minutos fazem horas, dias, meses e anos, resultando da
 
 Desse movimento cônico do eixo, resulta que os polos da Terra não olham constantemente os mesmos pontos do céu; que a Estrela Polar não será sempre estrela polar; que os polos gradualmente se inclinam mais ou menos para o Sol e recebem dele raios mais ou menos diretos, donde se segue que a Islândia e a Lapônia, por exemplo, localizadas sob o círculo polar, poderão, em dado tempo, receber raios solares como se estivessem na latitude da Espanha e da Itália e que, na posição do extremo oposto, a Espanha e a Itália poderão ter a temperatura da Islândia e da Lapônia, e assim por diante, a cada renovação do período de 25.000 anos. [^95]
 
-[^95]: Nota de Allan Kardec: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
+[^95]: A.K.: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
 
 ###### 09
 
@@ -1639,7 +1639,7 @@ A lentidão com que se opera esse movimento do mar torna-o quase imperceptível 
 
 O deslocamento demorado, gradual e periódico do mar é fato que a experiência comprova e numerosos exemplos confirmam, em todos os pontos do globo. Tem por efeito o entretenimento das forças produtivas da Terra. A longa imersão é para os terrenos um tempo de repouso, durante o qual eles recuperam os princípios vitais esgotados por uma não menos longa produção. Os imensos depósitos de matérias orgânicas, formados pela permanência das águas durante séculos e séculos, são adubações naturais, periodicamente renovadas, e as gerações se sucedem sem se aperceberem de tais mudanças. [^96]
 
-[^96]: Nota de Allan Kardec: Entre os fatos mais recentes que provam o deslocamento do mar, podem citar-se estes: 
+[^96]: A.K.: Entre os fatos mais recentes que provam o deslocamento do mar, podem citar-se estes: 
 
 No golfo da Gasconha [ou Golfo de Biscaia, separa a costa oeste da França da costa norte da Espanha], entre o velho Soulac e a Torre de Cordouan, quando o mar está calmo, percebe-se no fundo da água trechos de muralha: são os restos da antiga e grande cidade de Noviomagus, invadida pelas ondas em 580. O rochedo de Cordouan, que se achava então ligado à margem, está agora a 12 quilômetros. 
 
@@ -1671,7 +1671,7 @@ A natureza fluídica, já bem comprovada (cap. VI, itens 28 e seguintes), que lh
 
 Ainda menos de temer é a cauda que arrastam, visto que essa mais não é do que a reflexão da luz solar na imensa atmosfera que os envolve, tanto assim que se mostra constantemente dirigida para o lado oposto ao Sol, mudando de direção conformemente à posição deste astro. Essa matéria gasosa também poderia, em virtude da rapidez com que eles caminham, constituir uma espécie de cabeleira, semelhante à esteira deixada por um navio em marcha, ou à fumaça de uma locomotiva. Aliás, muitos cometas já se têm aproximado da Terra, sem lhe causarem qualquer dano. Em virtude das suas respectivas densidades, a Terra exerceria sobre o cometa uma atração maior do que a dele sobre ela. Somente uns restos de velhos preconceitos podem fazer que a presença de um cometa inspire terror. [^99]
 
-[^99]: Nota de Allan Kardec: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
+[^99]: A.K.: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
 
 ###### 13
 
@@ -1705,9 +1705,9 @@ Há uma opinião segundo a qual o globo aumentaria de massa e de volume pelo afl
 
 “Mas, então, como o poder de atração está na razão direta da massa, não digo do volume, diminuída a massa do globo, modificam-se as suas condições de equilíbrio no espaço. Dominado por planetas mais poderosos, aos quais ele não pode fazer contrapeso, resultam daí desvios nos seus movimentos e, portanto, também profundas mudanças nas condições da vida em sua superfície. Assim, nascimento, vida e morte; ou infância, virilidade, decrepitude são as três fases por que passa toda aglomeração de matéria orgânica ou inorgânica. Indestrutível, só o Espírito, que não é matéria.” (Galileu, Sociedade de Paris, 1868.) [^102]
 
-[^101]: Nota de Allan Kardec: No seu movimento de translação em torno do Sol, a velocidade da Terra é de 400 léguas por minuto. Sendo de 9.000 léguas a sua circunferência, em seu movimento de rotação ao redor do seu eixo, cada ponto do Equador percorre 9.000 léguas em 24 horas, ou 6,3 léguas por minuto.
+[^101]: A.K.: No seu movimento de translação em torno do Sol, a velocidade da Terra é de 400 léguas por minuto. Sendo de 9.000 léguas a sua circunferência, em seu movimento de rotação ao redor do seu eixo, cada ponto do Equador percorre 9.000 léguas em 24 horas, ou 6,3 léguas por minuto.
 
-[^102]: N.E.: Ver Nota Explicativa, p. 375.
+[^102]: N.E.: Ver Nota Explicativa.
 
 ### 1-10. 🗂️ Gênese orgânica
 
@@ -1789,7 +1789,7 @@ A análise química mostra que todas as substâncias vegetais e animais são com
 
 [^105]: N.E.: Os tecidos orgânicos que formam os músculos, os ossos, o sangue, o caule etc., são constituídos por células, seres vivos microscópicos que desempenham funções especializadas, necessárias ao funcionamento de cada órgão do ser a que pertencem.
 
-[^106]: Nota de Allan Kardec: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
+[^106]: A.K.: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
 
 ###### 13
 
@@ -1873,7 +1873,7 @@ No estado atual dos nossos conhecimentos, não podemos estabelecer a teoria da g
 
 [^112]: N.E.: Atualmente temos a Teoria da Evolução Química ou Molecular, que postula que a vida surgiu a partir do processo de evolução química de compostos inorgânicos, dando origem a moléculas orgânicas e, depois, às primeiras e mais simples formas de vida.
 
-[^113]: Nota de Allan Kardec: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. [Artigo: A geração espontânea e A gênese.]
+[^113]: A.K.: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. [Artigo: A geração espontânea e A gênese.]
 
 ##### Escala dos seres orgânicos
 
@@ -2183,7 +2183,7 @@ Adão e seus descendentes são apresentados na Gênese como homens sobremaneira 
 
 Independentemente dos fatos geológicos, da população do globo se tira a prova da existência do homem na Terra, antes da época fixada pela Gênese. Sem falar da cronologia chinesa, que remonta, dizem, a trinta mil anos,118 documentos mais autênticos provam que o Egito, a Índia e outros países já eram povoados e floresciam, pelo menos, três mil anos antes da Era Cristã, mil anos, portanto, depois da criação do primeiro homem, segundo a cronologia bíblica. Documentos e observações recentes não consentem hoje dúvida alguma quanto às relações que existiram entre a América e os antigos egípcios, donde se tem de concluir que essa região já era povoada naquela época. Forçoso então seria admitir-se que, em mil anos, a posteridade de um único homem pôde povoar a maior parte da Terra. Ora, semelhante fecundidade estaria em antagonismo com todas as leis antropológicas. [^119]
 
-[^119]: Nota de Allan Kardec: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
+[^119]: A.K.: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
 
 “Não é conveniente se publiquem, prematuramente, as descobertas feitas, do ponto de vista da história do homem, pela recente expedição científica do México.
 
@@ -2209,7 +2209,7 @@ Logo que um mundo tem chegado a um de seus períodos de transformação, a fim d
 
 Que serão tais seres, entre essas outras populações, para eles novas, ainda na infância da barbárie, senão anjos ou Espíritos decaídos, ali vindos em expiação? Não é, precisamente, para eles, um paraíso perdido a terra donde foram expulsos? Essa terra não lhes era um lugar de delícias, em comparação com o meio ingrato onde vão ficar relegados por milhares de séculos, até que hajam merecido libertar-se dele? A vaga lembrança intuitiva que guardam da terra donde vieram é uma como longínqua miragem a lhes recordar o que perderam por culpa própria.
 
-[^120]: Nota de Allan Kardec: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+[^120]: A.K.: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
 
 ######  44
 
@@ -2375,7 +2375,7 @@ A fim de compreendermos certas partes da Gênese, faz-se indispensável que nos 
 
 Em face dos progressos da Física e da Astronomia, é insustentável semelhante doutrina. [^126] Entretanto, Moisés atribui ao próprio Deus aquelas palavras. Ora, visto que elas exprimem um fato notoriamente falso, uma de duas: ou Deus se enganou na narrativa que fez da sua obra, ou essa narrativa não é de origem divina. Não sendo admissível a primeira hipótese, forçoso é concluir que Moisés apenas exprimiu suas próprias ideias. (Cap. I, item 3.)
 
-[^126]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+[^126]: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
 
 ######  11
 
@@ -2383,7 +2383,7 @@ Ele se houve com mais acerto, dizendo que Deus formou o homem do limo da Terra. 
 
 A mulher formada de uma costela de Adão é uma alegoria, aparentemente pueril, se admitida ao pé da letra, mas profunda, quanto ao sentido. Tem por fim mostrar que a mulher é da mesma natureza que o homem, que é por conseguinte igual a este perante Deus e não uma criatura à parte, feita para ser escravizada e tratada qual hilota. Tendo-a como saída da própria carne do homem, a imagem da igualdade é bem mais expressiva, do que se ela fora tida como formada, separadamente, do mesmo limo. Equivale a dizer ao homem que ela é sua igual e não sua escrava, que ele a deve amar como parte de si mesmo.
 
-[^127]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+[^127]: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
 
 ######  12
 
@@ -2393,7 +2393,7 @@ Não rejeitemos, pois, a Gênese bíblica; ao contrário, estudemo-la, como se e
 
 ##### Perda do paraíso [^128] [^129]
 
-[^128]: Nota de Allan Kardec: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
+[^128]: A.K.: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
 
 ######  13
 
@@ -2419,7 +2419,7 @@ E chamou Adão o nome de sua mulher Eva, porquanto ela era a mãe de todos os vi
 
 Então, disse o Senhor Deus: Eis que o homem é como um de nós, sabendo o bem e o mal; ora, pois, para que não estenda a sua mão, e tome também da árvore da vida, e coma, e viva eternamente, o Senhor Deus, pois, o lançou fora do jardim do Éden, para lavrar a terra, de que fora tomado. E, havendo lançado fora o homem, pôs querubins ao oriente do jardim do Éden e uma espada inflamada que andava ao redor, para guardar o caminho da árvore da vida.
 
-[^129]: Nota de Allan Kardec: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
+[^129]: A.K.: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
 
 ######  15
 
@@ -2439,9 +2439,9 @@ O fruto da árvore simboliza o objeto dos desejos materiais do homem; é a alego
 
 A morte de que ele é ameaçado, caso infrinja a proibição que se lhe faz, é um aviso das consequências inevitáveis, físicas e morais, decorrentes da violação das Leis divinas que Deus lhe gravou na consciência. É por demais evidente que aqui não se trata da morte corporal, pois que, depois de cometida a falta, Adão ainda viveu longo tempo, mas sim da morte espiritual, ou, por outras palavras, da perda dos bens que resultam do adiantamento moral, perda figurada pela sua expulsão do jardim de delícias.
 
-[^131]: Nota de Allan Kardec: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
+[^131]: A.K.: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
 
-[^132]: Nota de Allan Kardec: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
+[^132]: A.K.: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
 
 ######  17
 
@@ -2451,7 +2451,7 @@ Deve-se, além disso, notar que o termo hebreu nâhâsch, traduzido por serpente
 
 A palavra nâhâsch só foi traduzida por serpente na versão dos Setenta — os quais, segundo Hutcheson, corromperam o texto hebreu em muitos lugares — versão essa escrita em grego antes do segundo século da Era Cristã. As suas inexatidões resultaram, sem dúvida, das modificações que a língua hebraica sofrera no intervalo transcorrido, porquanto o hebreu do tempo de Moisés era uma língua morta, que diferia do hebreu vulgar, tanto quanto o grego antigo e o árabe literário diferem do grego e do árabe modernos. [^134]
 
-[^134]: Nota de Allan Kardec: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
+[^134]: A.K.: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
 
 É, pois, provável que Moisés tenha apresentado como sedutor da mulher o desejo de conhecer as coisas ocultas, suscitado pelo Espírito de adivinhação, o que concorda com o sentido primitivo da palavra nâhâsch, adivinhar, e, por outro lado, com estas palavras: “Deus sabe que, logo que houverdes comido desse fruto, vossos olhos se abrirão e sereis como deuses. — Ela, a mulher, viu que era cobiçável a árvore para compreender (léaskil) e tomou do seu fruto.” Não se deve esquecer que Moisés queria proscrever de entre os hebreus a arte da adivinhação praticada pelos egípcios, como o prova o haver proibido que aqueles interrogassem os mortos e o Espírito Píton. (O céu e o inferno, cap. XI.)
 
@@ -2597,7 +2597,7 @@ Os fenômenos espíritas são as mais das vezes espontâneos e se produzem sem n
 
 Resultem, porém, ou não esses fenômenos de um ato da vontade, a causa primária é exatamente a mesma e não se afasta uma linha das leis naturais. Os médiuns, portanto, nada absolutamente produzem de sobrenatural; por conseguinte, nenhum milagre fazem. As próprias curas instantâneas não são mais milagrosas, do que os outros efeitos, dado que resultam da ação de um agente fluídico, que desempenha o papel de agente terapêutico, suas propriedades não deixam de ser naturais por terem sido ignoradas até agora. É, pois, totalmente impróprio o epíteto de taumaturgos que a crítica ignorante dos princípios do Espiritismo há dado a certos médiuns. A qualificação de milagres emprestada, por comparação, a esta espécie de fenômenos, somente pode induzir em erro sobre o verdadeiro caráter deles.
 
-[^141]: Nota de Allan Kardec: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
+[^141]: A.K.: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
 
 ######  13
 
@@ -2664,7 +2664,7 @@ Cada um desses dois estados dá lugar, naturalmente, a fenômenos especiais: ao 
 
 [^142]: N.E.: Os gases são exemplo desse fluido, invisíveis, embora possam ser detectados e pesados
 
-[^143]: Nota de Allan Kardec: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
+[^143]: A.K.: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
 
 ######  03
 
@@ -2835,7 +2835,7 @@ O perispírito é o órgão sensitivo do Espírito, por meio do qual este perceb
 
 No homem, tais fenômenos constituem a manifestação da vida espiritual; é a alma a atuar fora do organismo. Na dupla vista ou percepção pelo sentido psíquico, ele não vê com os olhos do corpo, embora, muitas vezes, por hábito, dirija o olhar para o ponto que lhe chama a atenção. Vê com os olhos da alma e a prova está em que vê perfeitamente bem com os olhos fechados e vê o que está muito além do alcance do raio visual. Lê o pensamento figurado no raio fluídico (Item 15). [^148]
 
-[^148]: Nota de Allan Kardec: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
+[^148]: A.K.: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
 
 ######  23
 
@@ -2869,15 +2869,15 @@ A vista espiritual, portanto, faculta percepções especiais que, não tendo por
 
 Necessariamente incompleta e imperfeita é a vista espiritual nos Espíritos encarnados e, por conseguinte, sujeita a aberrações. Tendo por sede a própria alma, o estado desta há de influir nas percepções que aquela vista faculte. Segundo o grau de desenvolvimento, as circunstâncias e o estado moral do indivíduo, pode ela dar, quer durante o sono, quer no estado de vigília: 1o a percepção de certos fatos materiais e reais, como o conhecimento de alguns que ocorram a grande distância, os detalhes descritivos de uma localidade, as causas de uma enfermidade e os remédios convenientes; 2o a percepção de coisas igualmente reais do mundo espiritual, como a presença dos Espíritos; 3o imagens fantásticas criadas pela imaginação, análogas às criações fluídicas do pensamento (veja-se, acima, o item 14). Estas criações se acham sempre em relação com as disposições morais do Espírito que as gera. É assim que o pensamento de pessoas fortemente imbuídas de certas crenças religiosas e com elas preocupadas lhes apresenta o inferno, suas fornalhas, suas torturas e seus demônios, tais quais essas pessoas os imaginam. Às vezes, é toda uma epopeia. Os pagãos viam o Olimpo e o Tártaro, como os cristãos veem o inferno e o paraíso. Se, ao despertarem, ou ao saírem do êxtase, conservam lembrança exata de suas visões, os que as tiveram tomam-nas como realidades confirmativas de suas crenças, quando tudo não passa de produto de seus próprios pensamentos. [^150] Cumpre, pois, se faça uma distinção muito rigorosa nas visões extáticas, antes que se lhes dê crédito. A tal propósito, o remédio para a excessiva credulidade é o estudo das leis que regem o mundo espiritual.
 
-[^150]: Nota de Allan Kardec: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg.
+[^150]: A.K.: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg.
 
 ######  28
 
 Os sonhos propriamente ditos apresentam os três caracteres das visões acima descritas. Às duas primeiras categorias dessas visões pertencem os sonhos de previsões, pressentimentos e avisos. [^151] Na terceira, isto é, nas criações fluídicas do pensamento, é que se pode deparar com a causa de certas imagens fantásticas, que nada têm de real, com relação à vida corpórea, mas que apresentam às vezes, para o Espírito, uma realidade tal, que o corpo lhe sente o contrachoque, havendo casos em que os cabelos embranquecem sob a impressão de um sonho. Podem essas criações ser provocadas: pela exaltação das crenças; por lembranças retrospectivas; por gostos, desejos, paixões, temor, remorsos; pelas preocupações habituais; pelas necessidades do corpo, ou por um embaraço nas funções do organismo; finalmente, por outros Espíritos, com objetivo benévolo ou maléfico, conforme a sua natureza. [^152]
 
-[^151]: Nota de Allan Kardec: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
+[^151]: A.K.: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
 
-[^152]: Nota de Allan Kardec: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
+[^152]: A.K.: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
 
 ##### Catalepsia. Ressurreições
 
@@ -2895,7 +2895,7 @@ A paralisia já não tem absolutamente a mesma causa: aí o efeito é todo orgâ
 
 Em certos estados patológicos, quando o Espírito há deixado o corpo e o perispírito só por alguns pontos se lhe acha aderido, apresenta ele, o corpo, todas as aparências da morte e enuncia-se uma verdade absoluta, dizendo que a vida aí está por um fio. Semelhante estado pode durar mais ou menos tempo; podem mesmo algumas partes do corpo entrar em decomposição, sem que, no entanto, a vida se ache definitivamente extinta. Enquanto não se haja rompido o último fio, pode o Espírito, quer por uma ação enérgica, da sua própria vontade, quer por um influxo fluídico estranho, igualmente forte, ser chamado a volver ao corpo. É como se explicam certos fatos de prolongamento da vida contra todas as probabilidades e algumas supostas ressurreições. É a planta a renascer, como às vezes se dá, de uma só fibrila da raiz. Quando, porém, as últimas moléculas do corpo fluídico se têm destacado do corpo carnal, ou quando este último há chegado a um estado irreparável de degradação, impossível se torna todo regresso à vida. [^153]
 
-[^153]: Nota de Allan Kardec: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
+[^153]: A.K.: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
 
 ##### Curas
 
@@ -2917,13 +2917,13 @@ A ação magnética pode produzir-se de muitas maneiras:
 
 3o ) pelos fluidos que os Espíritos derramam sobre o magnetizador, que serve de veículo para esse derramamento. É o magnetismo misto, semiespiritual, ou, se o preferirem, humano-espiritual. Combinado com o fluido humano, o fluido espiritual lhe imprime qualidades de que ele carece. Em tais circunstâncias, o concurso dos Espíritos é amiúde espontâneo, porém, as mais das vezes, provocado por um apelo do magnetizador.
 
-[^154]: Nota de Allan Kardec: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
+[^154]: A.K.: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
 
 ######  34
 
 É muito comum a faculdade de curar pela influência fluídica e pode desenvolver-se por meio do exercício; mas, a de curar instantaneamente, pela imposição das mãos, essa é mais rara e o seu grau máximo se deve considerar excepcional. No entanto, em épocas diversas e no seio de quase todos os povos, surgiram indivíduos que a possuíam em grau eminente. Nestes últimos tempos, apareceram muitos exemplos notáveis, cuja autenticidade não sofre contestação. Uma vez que as curas desse gênero assentam num princípio natural e que o poder de operá-las não constitui privilégio, o que se segue é que elas não se operam fora da natureza e que só são miraculosas na aparência. [^155]
 
-[^155]: Nota de Allan Kardec: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
+[^155]: A.K.: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
 
 ##### Aparições. Transfigurações
 
@@ -2939,15 +2939,15 @@ Para nós, o perispírito, no seu estado normal, é invisível; mas, como é for
 
 [^158]: N.E.: Segundo a Bíblia, este fato se deu na família de Tobias. (Ver O livro de Tobias.)
 
-[^159]: Nota de Allan Kardec: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
+[^159]: A.K.: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
 
 ######  37
 
 Sendo o mesmo o perispírito, assim nos encarnados, como nos desencarnados, um Espírito encarnado, por efeito completamente idêntico, pode, num momento de liberdade, aparecer em ponto diverso do em que repousa seu corpo, com os traços que lhe são habituais e com todos os sinais de sua identidade. Foi esse fenômeno, do qual se conhecem muitos casos autênticos, que deu lugar à crença nos homens duplos. [^160]
 
-[^160]: Nota de Allan Kardec: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
+[^160]: A.K.: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
 
-[^161]: Nota de Allan Kardec: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
+[^161]: A.K.: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
 
 ######  38
 
@@ -2985,11 +2985,11 @@ Compreende-se, depois do que fica dito, que não há para o Espírito, maior dif
 
 Quando as pancadas são ouvidas na mesa ou algures, não é que o Espírito esteja a bater com a mão, ou com qualquer objeto. Ele apenas dirige sobre o ponto donde vem o ruído um jato de fluido e este produz o efeito de um choque elétrico. Tão possível lhe é modificar o ruído, como a qualquer pessoa modificar os sons produzidos pelo ar. [^164]
 
-[^163]: Nota de Allan Kardec: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias.
+[^163]: A.K.: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias.
 
 Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muito mais raro, porque mais difícil de ser imitado. É sabido que o Sr. Home se elevou mais de uma vez até ao teto, dando assim volta à sala. Dizem que São Cupertino possuía a mesma faculdade, não sendo o fato mais miraculoso com este do que com aquele.
 
-[^164]: Nota de Allan Kardec: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
+[^164]: A.K.: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
 
 ######  44
 
@@ -2999,7 +2999,7 @@ Nada, porém, apresenta esse fenômeno de mais maravilhoso, do que o de se fazer
 
 A aptidão de um médium para coisas que lhe são estranhas também tem frequentemente suas raízes nos conhecimentos que ele possuiu noutra existência e dos quais seu Espírito conservou a intuição. Se, por exemplo, ele foi poeta ou músico, mais facilidade encontrará para assimilar o pensamento poético ou musical que um Espírito queira fazê-lo expressar. A língua que ele hoje ignora pode ter-lhe sido familiar noutra existência, donde maior aptidão sua para escrever mediunicamente nessa língua. [^165]
 
-[^165]: Nota de Allan Kardec: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
+[^165]: A.K.: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
 
 ##### Obsessões e possessões
 
@@ -3041,13 +3041,13 @@ Quando é mau o Espírito possessor, as coisas se passam de outro modo. Ele não
 
 São numerosos os fatos deste gênero, em diferentes graus de intensidade, e não derivam de outra causa muitos casos de loucura. Amiúde, há também desordens patológicas, que são meras consequências e contra as quais nada adiantam os tratamentos médicos, enquanto subsiste a causa originária. Dando a conhecer essa fonte donde provém uma parte das misérias humanas, o Espiritismo indica o remédio a ser aplicado: atuar sobre o autor do mal que, sendo um ser inteligente, deve ser tratado por meio da inteligência. [^166]
 
-[^166]: Nota de Allan Kardec: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
+[^166]: A.K.: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
 
 ###### 49
 
 São as mais das vezes individuais a obsessão e a possessão; mas, não raro são epidêmicas. Quando sobre uma localidade se lança uma revoada de maus Espíritos, é como se uma tropa de inimigos a invadisse. Pode então ser muito considerável o número dos indivíduos atacados.[^167]
 
-[^167]: Nota de Allan Kardec: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
+[^167]: A.K.: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
 
 ### 2.15
 
@@ -3355,7 +3355,7 @@ Sem apresentarem caráter epidêmico, as obsessões individuais são muitíssimo
 
 Os fariseus diziam que por influência dos demônios é que Jesus expulsava os demônios; segundo eles, o bem que Jesus fazia era obra de Satanás; não refletiam que, se Satanás expulsasse a si mesmo, praticaria rematada insensatez. É de notar-se que os fariseus daquele tempo já pretendessem que toda faculdade transcendente e, por esse motivo, reputada sobrenatural, era obra do demônio, pois que, na opinião deles, era do demônio que Jesus recebia o poder de que dispunha. É esse mais um ponto de semelhança daquela com a época atual e tal doutrina é ainda a que a Igreja procura fazer que prevaleça hoje, contra as manifestações espíritas. [^170]
 
-[^170]: 170Nota de Allan Kardec: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825): 
+[^170]: 170A.K.: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825): 
 
 “Se Jesus operasse seus milagres pelo poder do demônio, este houvera trabalhado pela destruição do seu império e teria empregado contra si próprio o seu poder. Certamente, um demônio que procurasse destruir o reinado do vício para implantar o da virtude, seria um demônio muito singular. Eis por que Jesus, para repelir a absurda acusação dos judeus, lhes dizia: “Se opero prodígios em nome do demônio, o demônio está dividido consigo mesmo, trabalha, conseguintemente, por se destruir a si próprio!” Resposta que não admite réplica. 
 
@@ -3385,7 +3385,7 @@ Se, mesmo na atualidade, as aparências enganam por vezes os profissionais, quã
 
 Dado o poder fluídico que Ele possuía, nada de espantoso há em que esse fluido vivificante, acionado por uma vontade forte, haja reanimado os sentidos em torpor; que haja mesmo feito voltar ao corpo o Espírito, prestes a abandoná-lo, uma vez que o laço perispirítico ainda se não rompera definitivamente. Para os homens daquela época, que consideravam morto o indivíduo desde que deixara de respirar, havia ressurreição em casos tais; mas, o que na realidade havia era cura e não ressurreição, na acepção legítima do termo.
 
-[^171]: Nota de Allan Kardec: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito. Aq
+[^171]: A.K.: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito. Aq
 
 ###### 40
 
@@ -3393,7 +3393,7 @@ A ressurreição de Lázaro, digam o que disserem, de nenhum modo infirma este p
 
 E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o disse. Mas como o sabia ela? Por haver já quatro dias que Lázaro fora enterrado, ela o supunha; nenhuma certeza, entretanto, podia ter. (Cap. XIV, item 29.) [^172]
 
-[^172]: Nota de Allan Kardec: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
+[^172]: A.K.: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
 
 ##### Jesus caminha sobre a água
 
@@ -3793,7 +3793,7 @@ Sem apresentarem caráter epidêmico, as obsessões individuais são muitíssimo
 
 Os fariseus diziam que por influência dos demônios é que Jesus expulsava os demônios; segundo eles, o bem que Jesus fazia era obra de Satanás; não refletiam que, se Satanás expulsasse a si mesmo, praticaria rematada insensatez. É de notar-se que os fariseus daquele tempo já pretendessem que toda faculdade transcendente e, por esse motivo, reputada sobrenatural, era obra do demônio, pois que, na opinião deles, era do demônio que Jesus recebia o poder de que dispunha. É esse mais um ponto de semelhança daquela com a época atual e tal doutrina é ainda a que a Igreja procura fazer que prevaleça hoje, contra as manifestações espíritas. [^170]
 
-[^170]: Nota de Allan Kardec: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825):
+[^170]: A.K.: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825):
 
 “Se Jesus operasse seus milagres pelo poder do demônio, este houvera trabalhado pela destruição do seu império e teria empregado contra si próprio o seu poder. Certamente, um demônio que procurasse destruir o reinado do vício para implantar o da virtude, seria um demônio muito singular. Eis por que Jesus, para repelir a absurda acusação dos judeus, lhes dizia: “Se opero prodígios em nome do demônio, o demônio está dividido consigo mesmo, trabalha, conseguintemente, por se destruir a si próprio!” Resposta que não admite réplica. 
 
@@ -3825,7 +3825,7 @@ Se, mesmo na atualidade, as aparências enganam por vezes os profissionais, quã
 
 Dado o poder fluídico que Ele possuía, nada de espantoso há em que esse fluido vivificante, acionado por uma vontade forte, haja reanimado os sentidos em torpor; que haja mesmo feito voltar ao corpo o Espírito, prestes a abandoná-lo, uma vez que o laço perispirítico ainda se não rompera definitivamente. Para os homens daquela época, que consideravam morto o indivíduo desde que deixara de respirar, havia ressurreição em casos tais; mas, o que na realidade havia era cura e não ressurreição, na acepção legítima do termo.
 
-[^171]: Nota de Allan Kardec: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. 
+[^171]: A.K.: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. 
 
 “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito. Aqueles rapazes, voltando, a encontraram morta e, levando-a, enterraram-na junto do marido.”
 
@@ -3835,7 +3835,7 @@ A ressurreição de Lázaro, digam o que disserem, de nenhum modo infirma este p
 
 E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o disse. Mas como o sabia ela? Por haver já quatro dias que Lázaro fora enterrado, ela o supunha; nenhuma certeza, entretanto, podia ter. (Cap. XIV, item 29.) [^172]
 
-[^172]: Nota de Allan Kardec: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
+[^172]: A.K.: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
 
 ##### Jesus caminha sobre a água
 
@@ -3845,7 +3845,7 @@ E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o diss
 >
 > Mateus, cap. 14, vers. 22-33, ARC
 
-[^173]: Nota de Allan Kardec: O lago de Genesaré ou de Tiberíades.
+[^173]: A.K.: O lago de Genesaré ou de Tiberíades.
 
 ######  42
 
@@ -3865,7 +3865,7 @@ Por outro lado, também pode ter sucedido que seu corpo fosse sustentado e neutr
 >
 > Marcos, cap. 09, vers. 01-09, ARC
 
-[^174]: Nota de Allan Kardec: O Monte Tabor, a sudoeste do lago de Tabarich e a 11 quilômetros a sudeste de Nazaré, com cerca de 1.000 metros de altura.
+[^174]: A.K.: O Monte Tabor, a sudoeste do lago de Tabarich e a 11 quilômetros a sudeste de Nazaré, com cerca de 1.000 metros de altura.
 
 ######  44
 
@@ -3943,7 +3943,7 @@ Tais distinções, porém, eram por demais sutis para aquelas naturezas rudes, q
 
 Jesus, transportado pelo diabo ao pináculo do Templo, depois ao cume de uma montanha e por ele tentado, constitui uma daquelas parábolas que lhe eram familiares e que a credulidade pública transformou em fatos materiais. [^175]
 
-[^175]: Nota de Allan Kardec: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
+[^175]: A.K.: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
 
 ######  53
 
@@ -3977,7 +3977,7 @@ Compungidos com a morte de seu Mestre, os discípulos de Jesus sem dúvida ligar
 
 Jesus é grande pelas suas obras e não pelos quadros fantásticos de que um entusiasmo pouco ponderado entendeu de cercá-lo.
 
-[^176]: Nota de Allan Kardec: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
+[^176]: A.K.: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
 
 ##### Aparição de Jesus após sua morte
 
@@ -4021,7 +4021,7 @@ Jesus, portanto, se mostrou com o seu corpo perispirítico, o que explica que s�
 
 Ao passo que a incredulidade rejeita todos os fatos que Jesus produziu, por terem uma aparência sobrenatural, e os considera, sem exceção, lendários, o Espiritismo dá explicação natural à maior parte desses fatos. Prova a possibilidade deles, não só pela teoria das leis fluídicas, como pela identidade que apresentam com análogos fatos produzidos por uma imensidade de pessoas nas mais vulgares condições. Por serem, de certo modo, tais fatos do domínio público, eles nada provam, em princípio, com relação à natureza excepcional de Jesus. [^178]
 
-[^178]: Nota de Allan Kardec: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
+[^178]: A.K.: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
 
 ######  63
 
@@ -4832,7 +4832,7 @@ O Espiritismo realiza, como ficou demonstrado (cap. I, item 30), todas as condi�
 
 A doutrina de Moisés, incompleta, ficou circunscrita ao povo judeu; a de Jesus, mais completa, se espalhou por toda a Terra, mediante o Cristianismo, mas não converteu a todos; o Espiritismo, ainda mais completo, com raízes em todas as crenças, converterá a humanidade. [^185]
 
-[^185]: Nota de Allan Kardec: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
+[^185]: A.K.: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
 
 ######  41
 
@@ -4892,7 +4892,7 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > Mateus, 24:15 a 22
 
-[^186]: Nota de Allan Kardec: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
+[^186]: A.K.: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
 
 ######  50
 
@@ -5076,10 +5076,10 @@ Se a Terra já não tem que temer os cataclismos gerais, nem por isso deixa de e
 
 **Arago**
 
-[^188]: N.E.: Ver Nota Explicativa, p. 375
+[^188]: N.E.: Ver Nota Explicativa.
 
 
-[^187]: Nota de Allan Kardec: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
+[^187]: A.K.: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
 
 ###### 09
 
@@ -5103,7 +5103,7 @@ Se, pelo encadeamento e a solidariedade das causas e dos efeitos, os períodos d
 
 Anunciando a época de renovação que se havia de abrir para a humanidade e determinar o fim do velho mundo, a Jesus, pois, foi lícito dizer que ela se assinalaria por fenômenos extraordinários, tremores de terra, flagelos diversos, sinais no céu, que mais não são do que meteoros, sem ab-rogação das leis naturais. O vulgo, porém, ignorante, viu nessas palavras a predição de fatos miraculosos. [^189]
 
-[^189]: Nota de Allan Kardec: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
+[^189]: A.K.: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
 
 ###### 11
 
@@ -5113,7 +5113,7 @@ A previsão dos movimentos progressivos da humanidade nada apresenta de surpreen
 
 A humanidade é um ser coletivo em quem se operam as mesmas revoluções morais por que passa todo ser individual, com a diferença de que umas se realizam de ano em ano e as outras de século em século. Acompanhe-se a humanidade em suas evoluções através dos tempos e ver-se-á a vida das diversas raças marcada por períodos que dão a cada época uma fisionomia especial. [^190]
 
-[^190]:  N.E.: Ver Nota Explicativa, p. 375
+[^190]:  N.E.: Ver Nota Explicativa.
 >>>>>>> 0aaf0c72692b3a8bb5d0f43d461803aaea712c69
 
 ###### 13
@@ -5216,7 +5216,7 @@ Tudo, pois, se processará exteriormente, como sói acontecer, com a única, mas
 Muito menos, pois, se trata de uma nova geração corpórea, do que de uma nova geração de Espíritos. Sem dúvida, neste sentido é que Jesus entendia as coisas, quando declarava: “Digo-vos, em verdade, que esta geração não passará sem que estes fatos tenham ocorrido.” Assim, decepcionados ficarão os que contem ver a transformação operar-se por efeitos sobrenaturais e maravilhosos. [^192]
 
 
-[^192]: 2 N.E.: Ver Nota Explicativa, p. 375.
+[^192]: 2 N.E.: Ver Nota Explicativa.
 
 ###### 28
 
@@ -5272,40 +5272,46 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 ---
 
-## 4. 📃 Notas de rodapé
+## 4. 🗃️ Pós-textual
+
+### 4.01 📄 Nota explicativa
+
+PLACEHOLDER
+
+### 4.02 📃 Notas de rodapé
 
 [^1]: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
 
 [^2]: Fogo, água, terra e ar.
 
-[^3]: Nota de Allan Kardec: A palavra elemento não é empregada aqui no sentido de corpo simples, elementar, de moléculas primitivas, mas no de parte constitutiva de um todo. Neste sentido, pode dizer-se que o elemento espiritual tem parte ativa na economia do universo, como se diz que o elemento civil e o elemento militar figuram no cálculo de uma população; que o elemento religioso entra na educação; ou que na Argélia existem o elemento árabe e o elemento europeu.
+[^3]: A.K.: A palavra elemento não é empregada aqui no sentido de corpo simples, elementar, de moléculas primitivas, mas no de parte constitutiva de um todo. Neste sentido, pode dizer-se que o elemento espiritual tem parte ativa na economia do universo, como se diz que o elemento civil e o elemento militar figuram no cálculo de uma população; que o elemento religioso entra na educação; ou que na Argélia existem o elemento árabe e o elemento europeu.
 
 [^4]: N.E.: Refere-se ao século XIX.
 
 [^5]: N.E.: Arca da aliança, onde os hebreus guardavam as tábuas da lei a mando de Moisés.
 
-[^6]: N.E.: Ver Nota Explicativa, p. 375.
+[^6]: N.E.: Ver Nota Explicativa.
 
-[^7]: Nota de Allan Kardec: Muitos pais deploram a morte prematura dos filhos, para a educação deles fizeram grandes sacrifícios, e dizem consigo mesmos que tudo foi em pura perda. À luz do Espiritismo, porém, não lamentariam esses sacrifícios e estariam prontos a fazê-los, mesmo tendo a certeza de que veriam morrer seus filhos, porque sabem que se estes não a aproveitam na vida presente, essa educação servirá, primeiro que tudo, para o seu adiantamento espiritual; e, mais, que serão aquisições novas para outra existência e que, quando voltarem a este mundo, terão um patrimônio intelectual que os tornará mais aptos a adquirirem novos conhecimentos. Tais essas crianças que trazem, ao nascer, ideias inatas — que sabem, por assim dizer, sem que tenham aprendido na presente vida. Se os pais não têm a satisfação imediata de ver os filhos aproveitarem da educação que lhes deram, gozá-la-ão certamente mais tarde, quer como Espíritos, quer como homens. Talvez sejam eles de novo os pais desses mesmos filhos, que se apontam como afortunadamente dotados pela natureza e que devem as suas aptidões a uma educação precedente; assim também, se os filhos se desviam para o mal, pela negligência dos pais, estes podem vir a sofrer mais tarde desgostos e pesares que aqueles lhes suscitarão em nova existência. (O evangelho segundo o espiritismo, cap. V, item 21, Perda de pessoas amadas. Mortes prematuras.)
+[^7]: A.K.: Muitos pais deploram a morte prematura dos filhos, para a educação deles fizeram grandes sacrifícios, e dizem consigo mesmos que tudo foi em pura perda. À luz do Espiritismo, porém, não lamentariam esses sacrifícios e estariam prontos a fazê-los, mesmo tendo a certeza de que veriam morrer seus filhos, porque sabem que se estes não a aproveitam na vida presente, essa educação servirá, primeiro que tudo, para o seu adiantamento espiritual; e, mais, que serão aquisições novas para outra existência e que, quando voltarem a este mundo, terão um patrimônio intelectual que os tornará mais aptos a adquirirem novos conhecimentos. Tais essas crianças que trazem, ao nascer, ideias inatas — que sabem, por assim dizer, sem que tenham aprendido na presente vida. Se os pais não têm a satisfação imediata de ver os filhos aproveitarem da educação que lhes deram, gozá-la-ão certamente mais tarde, quer como Espíritos, quer como homens. Talvez sejam eles de novo os pais desses mesmos filhos, que se apontam como afortunadamente dotados pela natureza e que devem as suas aptidões a uma educação precedente; assim também, se os filhos se desviam para o mal, pela negligência dos pais, estes podem vir a sofrer mais tarde desgostos e pesares que aqueles lhes suscitarão em nova existência. (O evangelho segundo o espiritismo, cap. V, item 21, Perda de pessoas amadas. Mortes prematuras.)
 
-[^8]: Nota de Allan Kardec: O nosso papel pessoal, no grande movimento de ideias que se prepara pelo Espiritismo e que começa a operar-se, é o de um observador atento, que estuda os fatos para lhes descobrir a causa e tirar-lhes as consequências. Confrontamos todos os que nos têm sido possível reunir, comparamos e comentamos as instruções dadas pelos Espíritos em todos os pontos do globo e depois coordenamos metodicamente o conjunto; em suma, estudamos e demos ao público o fruto das nossas indagações, sem atribuirmos aos nossos trabalhos valor maior do que o de uma obra filosófica deduzida da observação e da experiência, sem nunca nos considerarmos chefe da doutrina, nem procurarmos impor as nossas ideias a quem quer que seja. Publicando-as, usamos de um direito comum e aqueles que as aceitaram o fizeram livremente. Se essas ideias acharam numerosas simpatias, é porque tiveram a vantagem de corresponder às aspirações de avultado número de criaturas, mas disso não colhemos vaidade alguma, dado que a sua origem não nos pertence. O nosso maior mérito é a perseverança e a dedicação à causa que abraçamos. Em tudo isso, fizemos o que outro qualquer poderia ter feito como nós, razão pela qual nunca tivemos a pretensão de nos julgarmos profeta ou messias, nem, ainda menos, de nos apresentarmos como tal.
+[^8]: A.K.: O nosso papel pessoal, no grande movimento de ideias que se prepara pelo Espiritismo e que começa a operar-se, é o de um observador atento, que estuda os fatos para lhes descobrir a causa e tirar-lhes as consequências. Confrontamos todos os que nos têm sido possível reunir, comparamos e comentamos as instruções dadas pelos Espíritos em todos os pontos do globo e depois coordenamos metodicamente o conjunto; em suma, estudamos e demos ao público o fruto das nossas indagações, sem atribuirmos aos nossos trabalhos valor maior do que o de uma obra filosófica deduzida da observação e da experiência, sem nunca nos considerarmos chefe da doutrina, nem procurarmos impor as nossas ideias a quem quer que seja. Publicando-as, usamos de um direito comum e aqueles que as aceitaram o fizeram livremente. Se essas ideias acharam numerosas simpatias, é porque tiveram a vantagem de corresponder às aspirações de avultado número de criaturas, mas disso não colhemos vaidade alguma, dado que a sua origem não nos pertence. O nosso maior mérito é a perseverança e a dedicação à causa que abraçamos. Em tudo isso, fizemos o que outro qualquer poderia ter feito como nós, razão pela qual nunca tivemos a pretensão de nos julgarmos profeta ou messias, nem, ainda menos, de nos apresentarmos como tal.
 
 [^9]: N.E.: Assim compreendendo, a Federação Espírita Brasileira passou a publicar obras espíritas na língua internacional — o Esperanto.
 
-[^10]: 0 Nota de Allan Kardec: O livro dos espíritos, a primeira obra que levou o Espiritismo a ser considerado de um ponto de vista filosófico, pela dedução das consequências morais dos fatos; que considerou todas as partes da Doutrina, tocando nas questões mais importantes que ela suscita, foi, desde o seu aparecimento, o ponto de união para o qual convergiram espontaneamente os trabalhos individuais. É notório que da publicação desse livro data a era do Espiritismo filosófico, que até então era conservado no domínio das experiências curiosas. Se esse livro conquistou as simpatias da maioria é que exprimia os sentimentos dela, correspondia às suas aspirações e encerrava também a confirmação e a explicação racional do que cada um obtinha em particular. Se ele estivesse em desacordo com o ensino geral dos Espíritos, teria caído no descrédito e no esquecimento. Ora, qual foi aquele ponto de convergência? Decerto não foi o homem, que nada vale por si mesmo, que morre e desaparece; mas, a ideia, que não fenece quando emanada de uma fonte superior ao homem.
+[^10]: 0 A.K.: O livro dos espíritos, a primeira obra que levou o Espiritismo a ser considerado de um ponto de vista filosófico, pela dedução das consequências morais dos fatos; que considerou todas as partes da Doutrina, tocando nas questões mais importantes que ela suscita, foi, desde o seu aparecimento, o ponto de união para o qual convergiram espontaneamente os trabalhos individuais. É notório que da publicação desse livro data a era do Espiritismo filosófico, que até então era conservado no domínio das experiências curiosas. Se esse livro conquistou as simpatias da maioria é que exprimia os sentimentos dela, correspondia às suas aspirações e encerrava também a confirmação e a explicação racional do que cada um obtinha em particular. Se ele estivesse em desacordo com o ensino geral dos Espíritos, teria caído no descrédito e no esquecimento. Ora, qual foi aquele ponto de convergência? Decerto não foi o homem, que nada vale por si mesmo, que morre e desaparece; mas, a ideia, que não fenece quando emanada de uma fonte superior ao homem.
 Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima correspondência, monumento único no mundo, quadro vivo da verdadeira história do Espiritismo moderno, em que se refletem ao mesmo tempo os trabalhos parciais, os sentimentos múltiplos nascidos da Doutrina, dos resultados morais, das dedicações, dos desfalecimentos — arquivos preciosos para a posteridade, que poderá julgar os homens e as coisas por meio de documentos autênticos. Em presença desses testemunhos irrecusáveis, a que se reduzirão, com o tempo, todas as falsas alegações, as difamações da inveja e do ciúme?
 
-[^11]: Nota de Allan Kardec: Significativo testemunho, tão notável quão tocante, dessa comunhão de ideias que se estabeleceu entre os espíritas, pela conformidade de suas crenças, são os pedidos de preces que nos chegam dos mais distantes países, desde o Peru até as extremidades da Ásia, feitos por pessoas de religiões e nacionalidades diversas e as quais nunca vimos. Não é isso um prelúdio da grande unificação que se prepara? Não é a prova de que por toda parte o Espiritismo lança raízes fortes? Digno de nota é que, de todos os grupos que se têm formado com a intenção premeditada de cindir, proclamando princípios divergentes, e de tantos outros que, apoiando-se em razões de amor-próprio ou de outras quaisquer, para não parecer que se submetem à lei comum, e por considerarem-se fortes o bastante para caminhar sozinhos, julgando-se possuidores de luzes suficientes para prescindirem de conselhos, nenhum chegou a constituir uma ideia que fosse preponderante e viável. Todos se extinguiram e/ou vegetaram na sombra. Nem de outro modo poderia ser, dado que, para se exalçarem, em vez de se esforçarem por proporcionar maior soma de satisfações, esses grupos discordantes rejeitavam princípios da Doutrina, precisamente os mais atraentes há nela: o que de mais consolador, de encorajador e de mais racional ela contém. Se tivessem compreendido a força dos elementos morais que lhe constituíram a unidade, não se teriam embalado com ilusões quiméricas. Ao contrário, tomando como se fosse o universo o pequeno círculo que constituíam, não viram nos seus novos adeptos mais do que uma camarilha facilmente derrubável por outra contrária. Era equivocar-se de modo singular no tocante aos caracteres essenciais da Doutrina Espírita, e semelhante erro só decepções podia acarretar. Em lugar de romperem a unidade, quebraram o único laço que lhes podia dar força e vida. (Veja-se: Revista espírita, abril de 1866: O Espiritismo sem os Espíritos, O Espiritismo independente.)
+[^11]: A.K.: Significativo testemunho, tão notável quão tocante, dessa comunhão de ideias que se estabeleceu entre os espíritas, pela conformidade de suas crenças, são os pedidos de preces que nos chegam dos mais distantes países, desde o Peru até as extremidades da Ásia, feitos por pessoas de religiões e nacionalidades diversas e as quais nunca vimos. Não é isso um prelúdio da grande unificação que se prepara? Não é a prova de que por toda parte o Espiritismo lança raízes fortes? Digno de nota é que, de todos os grupos que se têm formado com a intenção premeditada de cindir, proclamando princípios divergentes, e de tantos outros que, apoiando-se em razões de amor-próprio ou de outras quaisquer, para não parecer que se submetem à lei comum, e por considerarem-se fortes o bastante para caminhar sozinhos, julgando-se possuidores de luzes suficientes para prescindirem de conselhos, nenhum chegou a constituir uma ideia que fosse preponderante e viável. Todos se extinguiram e/ou vegetaram na sombra. Nem de outro modo poderia ser, dado que, para se exalçarem, em vez de se esforçarem por proporcionar maior soma de satisfações, esses grupos discordantes rejeitavam princípios da Doutrina, precisamente os mais atraentes há nela: o que de mais consolador, de encorajador e de mais racional ela contém. Se tivessem compreendido a força dos elementos morais que lhe constituíram a unidade, não se teriam embalado com ilusões quiméricas. Ao contrário, tomando como se fosse o universo o pequeno círculo que constituíam, não viram nos seus novos adeptos mais do que uma camarilha facilmente derrubável por outra contrária. Era equivocar-se de modo singular no tocante aos caracteres essenciais da Doutrina Espírita, e semelhante erro só decepções podia acarretar. Em lugar de romperem a unidade, quebraram o único laço que lhes podia dar força e vida. (Veja-se: Revista espírita, abril de 1866: O Espiritismo sem os Espíritos, O Espiritismo independente.)
 
-[^12]: Nota de Allan Kardec: Esse o objeto das nossas publicações, que se podem considerar o resultado de um trabalho de despojamento e renúncia. Nelas, todas as opiniões são discutidas, mas as questões não são apresentadas em forma de princípios, somente depois de haverem recebido a consagração de todas as comprovações, as quais lhes podem imprimir força de lei e permitir afirmações. Eis por que não preconizamos levianamente nenhuma teoria e é nisso exatamente que a doutrina, decorrendo do ensino geral, não representa de modo algum o produto de um sistema preconcebido. É isso que constitui a sua força e lhe garante o futuro.
+[^12]: A.K.: Esse o objeto das nossas publicações, que se podem considerar o resultado de um trabalho de despojamento e renúncia. Nelas, todas as opiniões são discutidas, mas as questões não são apresentadas em forma de princípios, somente depois de haverem recebido a consagração de todas as comprovações, as quais lhes podem imprimir força de lei e permitir afirmações. Eis por que não preconizamos levianamente nenhuma teoria e é nisso exatamente que a doutrina, decorrendo do ensino geral, não representa de modo algum o produto de um sistema preconcebido. É isso que constitui a sua força e lhe garante o futuro.
 
 [^13]: N.E.: Locução latina que significa como professor; magistralmente; com verdadeiro conhecimento de causa.
 
-[^14]: Nota de Allan Kardec: Veja-se, em O evangelho segundo o espiritismo, Introdução, item II, e Revista espírita, de abril de 1864: Autoridade da Doutrina Espírita. Controle universal do ensino dos Espíritos.
+[^14]: A.K.: Veja-se, em O evangelho segundo o espiritismo, Introdução, item II, e Revista espírita, de abril de 1864: Autoridade da Doutrina Espírita. Controle universal do ensino dos Espíritos.
 
-[^15]: Nota de Allan Kardec: Diante de declarações tão nítidas e tão categóricas, quais as que se contêm neste capítulo, caem por terra todas as alegações de tendências ao absolutismo e à autocracia dos princípios, bem como todas as falsas assimilações que algumas pessoas prevenidas ou mal informadas emprestam à Doutrina. Não são novas, aliás, estas declarações; temo-las repetido muitíssimas vezes nos nossos escritos, para que nenhuma dúvida persista a tal respeito. Elas, ao demais, assinalam o verdadeiro papel que nos cabe, único que ambicionamos: o de mero trabalhador.
+[^15]: A.K.: Diante de declarações tão nítidas e tão categóricas, quais as que se contêm neste capítulo, caem por terra todas as alegações de tendências ao absolutismo e à autocracia dos princípios, bem como todas as falsas assimilações que algumas pessoas prevenidas ou mal informadas emprestam à Doutrina. Não são novas, aliás, estas declarações; temo-las repetido muitíssimas vezes nos nossos escritos, para que nenhuma dúvida persista a tal respeito. Elas, ao demais, assinalam o verdadeiro papel que nos cabe, único que ambicionamos: o de mero trabalhador.
 
-[^16]: Nota de Allan Kardec: A anteposição do artigo à palavra Cristo (do gr. Khristós, ungido), empregada em sentido absoluto, é mais correta, atento que essa palavra não é o nome do Messias de Nazaré, mas uma qualidade tomada substantivamente. Dir-se-á, pois: Jesus era Cristo; era o Cristo; era o Cristo anunciado; a morte do Cristo e não de Cristo, ao passo que se diz: a morte de Jesus e não do Jesus. Em Jesus Cristo, as duas palavras reunidas formam um só nome próprio. É pela mesma razão que se diz: o Buda; Gautama conquistou a dignidade de Buda por suas virtudes e austeridades. Diz-se: a vida do Buda, do mesmo modo que: o exército do Faraó e não de Faraó; Henrique IV era rei; o título de rei; a morte do rei e não de rei.
+[^16]: A.K.: A anteposição do artigo à palavra Cristo (do gr. Khristós, ungido), empregada em sentido absoluto, é mais correta, atento que essa palavra não é o nome do Messias de Nazaré, mas uma qualidade tomada substantivamente. Dir-se-á, pois: Jesus era Cristo; era o Cristo; era o Cristo anunciado; a morte do Cristo e não de Cristo, ao passo que se diz: a morte de Jesus e não do Jesus. Em Jesus Cristo, as duas palavras reunidas formam um só nome próprio. É pela mesma razão que se diz: o Buda; Gautama conquistou a dignidade de Buda por suas virtudes e austeridades. Diz-se: a vida do Buda, do mesmo modo que: o exército do Faraó e não de Faraó; Henrique IV era rei; o título de rei; a morte do rei e não de rei.
 
 [^17]: N.E.: Fídias, escultor grego do séc. V a.C. Incumbido por Péricles de dirigir os trabalhos do Pártenon, encarregou-se da decoração esculpida (friso das Panateneias), apogeu do estilo clássico grego.
 
@@ -5315,11 +5321,11 @@ Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima
 
 [^20]:
 
-[^21]: Nota de Allan Kardec: O erro está em pretender-se que a alma haja saído perfeita das mãos do Criador, quando este, ao contrário, quis que a perfeição resulte da depuração gradual do Espírito e seja obra sua. Houve Deus por bem que a alma, dotada de livre-arbítrio, pudesse optar entre o bem e o mal e chegasse às suas finalidades últimas de forma militante e resistindo ao mal. Se houvera criado a alma tão perfeita quanto Ele e, ao sair-lhe ela das mãos, a houvesse associado à sua beatitude eterna, Deus tê-la-ia feito, não à sua imagem, mas semelhante a si próprio. (Bonnamy, A razão do espiritismo, cap. VI.)
+[^21]: A.K.: O erro está em pretender-se que a alma haja saído perfeita das mãos do Criador, quando este, ao contrário, quis que a perfeição resulte da depuração gradual do Espírito e seja obra sua. Houve Deus por bem que a alma, dotada de livre-arbítrio, pudesse optar entre o bem e o mal e chegasse às suas finalidades últimas de forma militante e resistindo ao mal. Se houvera criado a alma tão perfeita quanto Ele e, ao sair-lhe ela das mãos, a houvesse associado à sua beatitude eterna, Deus tê-la-ia feito, não à sua imagem, mas semelhante a si próprio. (Bonnamy, A razão do espiritismo, cap. VI.)
 
-[^22]: Nota de Allan Kardec: Veja-se: Revista espírita, agosto de 1864, Extinção das raças.
+[^22]: A.K.: Veja-se: Revista espírita, agosto de 1864, Extinção das raças.
 
-[^23]: Nota de Allan Kardec: Sem prejulgar das consequências que se possam tirar desse princípio, apenas quisemos demonstrar, mediante essa explicação, que a destruição de uns seres vivos por outros em nada infirma a sabedoria divina e que, nas leis da natureza, tudo se encadeia. Esse encadeamento forçosamente se quebra, desde que se abstraia do princípio espiritual, razão por que muitas questões permanecem insolúveis, por só se levar em conta a matéria. As doutrinas materialistas trazem em si o princípio de sua própria destruição; têm contra si não só o antagonismo em que se acham com as aspirações da universalidade dos homens e suas consequências morais, que farão sejam elas, as doutrinas, repelidas como dissolventes da sociedade, mas também a necessidade que o homem experimenta de se inteirar de tudo o que resulta do progresso. O desenvolvimento intelectual conduz o homem à pesquisa das causas. Ora, por pouco que ele reflita, não tardará a reconhecer a impotência do materialismo para tudo explicar. Como é possível que doutrinas que não satisfazem ao coração, nem a razão, nem à inteligência, que deixam problemáticas as mais vitais questões, venham a prevalecer? O progresso das ideias matará o materialismo, como matou o fanatismo.
+[^23]: A.K.: Sem prejulgar das consequências que se possam tirar desse princípio, apenas quisemos demonstrar, mediante essa explicação, que a destruição de uns seres vivos por outros em nada infirma a sabedoria divina e que, nas leis da natureza, tudo se encadeia. Esse encadeamento forçosamente se quebra, desde que se abstraia do princípio espiritual, razão por que muitas questões permanecem insolúveis, por só se levar em conta a matéria. As doutrinas materialistas trazem em si o princípio de sua própria destruição; têm contra si não só o antagonismo em que se acham com as aspirações da universalidade dos homens e suas consequências morais, que farão sejam elas, as doutrinas, repelidas como dissolventes da sociedade, mas também a necessidade que o homem experimenta de se inteirar de tudo o que resulta do progresso. O desenvolvimento intelectual conduz o homem à pesquisa das causas. Ora, por pouco que ele reflita, não tardará a reconhecer a impotência do materialismo para tudo explicar. Como é possível que doutrinas que não satisfazem ao coração, nem a razão, nem à inteligência, que deixam problemáticas as mais vitais questões, venham a prevalecer? O progresso das ideias matará o materialismo, como matou o fanatismo.
 
 [^24]: N.E.: Kardec se refere aos séculos XVII e XVIII.
 
@@ -5331,18 +5337,18 @@ Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima
 
 [^28]: N.E.: Atualmente, Júpiter possui 66 satélites conhecidos, quatro dos quais de dimensões planetárias.
 
-[^29]: Nota de Allan Kardec: Este capítulo é textualmente extraído de uma série de comunicações ditadas à Sociedade Espírita de Paris, em 1862 e 1863, sob o título — Estudos uranográficos, e assinada GALILEU. Médium: C. F. [Estas são as iniciais do nome de Camille Flammarion.]
+[^29]: A.K.: Este capítulo é textualmente extraído de uma série de comunicações ditadas à Sociedade Espírita de Paris, em 1862 e 1863, sob o título — Estudos uranográficos, e assinada GALILEU. Médium: C. F. [Estas são as iniciais do nome de Camille Flammarion.]
 
-[^30]: Nota de Allan Kardec: Os principais corpos simples são: entre os não metálicos, o oxigênio, o hidrogênio, o azoto [nitrogênio], o cloro, o carbono, o fósforo, o enxofre, o iodo; entre os metálicos, o ouro, a prata, a platina, o mercúrio, o chumbo, o estanho, o zinco, o ferro, o cobre, o arsênico, o sódio, o potássio, o cálcio, o alumínio etc.
+[^30]: A.K.: Os principais corpos simples são: entre os não metálicos, o oxigênio, o hidrogênio, o azoto [nitrogênio], o cloro, o carbono, o fósforo, o enxofre, o iodo; entre os metálicos, o ouro, a prata, a platina, o mercúrio, o chumbo, o estanho, o zinco, o ferro, o cobre, o arsênico, o sódio, o potássio, o cálcio, o alumínio etc.
 
 [^31]: N.E.: Os elementos químicos (denominação atual dos corpos simples) são classificados de acordo com a Classificação Periódica dos Elementos, de Mendeleiev (1834–1907, químico russo). A Química cataloga 105 elementos, dos quais 92 são encontrados na natureza e os demais, chamados transurânicos (porque são mais pesados que o elemento urânio), foram sintetizados em laboratório. A Classificação distribui os elementos de acordo com as suas propriedades, agrupando os metais, os não metais, os semimetais e os gases nobres. O elemento químico hidrogênio, por suas características especiais, é classificado à parte. Também se sabe que os elementos químicos são decomponíveis em subpartículas, as mais importantes são o próton, o nêutron e o elétron.
 
-[^32]: Nota de Allan Kardec: Tal também a situação dos negadores do mundo dos Espíritos, quando, após se haverem despojado do envoltório carnal, contemplam, desdobrados às suas vistas, os horizontes desse mundo. Compreendem, então, quão ocas eram as teorias com que pretendiam tudo explicar por meio exclusivamente da matéria. Contudo, esses horizontes ainda lhes ocultam mistérios que só posteriormente se lhes desvendam, à medida que, depurando-se, eles se elevam. Desde, porém, os seus primeiros momentos no outro mundo, veem-se forçados a reconhecer a própria cegueira e quão longe estavam da verdade.
+[^32]: A.K.: Tal também a situação dos negadores do mundo dos Espíritos, quando, após se haverem despojado do envoltório carnal, contemplam, desdobrados às suas vistas, os horizontes desse mundo. Compreendem, então, quão ocas eram as teorias com que pretendiam tudo explicar por meio exclusivamente da matéria. Contudo, esses horizontes ainda lhes ocultam mistérios que só posteriormente se lhes desvendam, à medida que, depurando-se, eles se elevam. Desde, porém, os seus primeiros momentos no outro mundo, veem-se forçados a reconhecer a própria cegueira e quão longe estavam da verdade.
 
-[^33]: Nota de Allan Kardec: Tudo reportamos ao que conhecemos e do que escapa à percepção dos nossos sentidos não compreendemos, como não compreende o cego de nascença os efeitos da luz e da utilidade dos olhos. Possível é, pois, que noutros meios, o fluido cósmico possua propriedades, seja suscetível de combinações de que não fazemos nenhuma ideia, produza efeitos apropriados a necessidades que desconhecemos, dando lugar a percepções novas ou a outros modos de percepção. Não compreendemos, por exemplo, que se possa ver sem os olhos do corpo e sem a luz. Quem nos diz, porém, que não existam outros agentes, afora a luz, aos quais são adequados organismos especiais? A vista sonambúlica, que nem a distância, nem os obstáculos materiais, nem a obscuridade detêm, nos oferece um exemplo disso. Suponhamos que, num mundo qualquer, os seres sejam normalmente o que só excepcionalmente o são os nossos sonâmbulos; eles, sem precisarem da nossa luz, nem dos nossos olhos, verão o que não podemos ver. O mesmo se dá com todas as outras sensações. As condições de vitalidade e de perceptibilidade, as sensações e as necessidades variam de conformidade com os meios.
+[^33]: A.K.: Tudo reportamos ao que conhecemos e do que escapa à percepção dos nossos sentidos não compreendemos, como não compreende o cego de nascença os efeitos da luz e da utilidade dos olhos. Possível é, pois, que noutros meios, o fluido cósmico possua propriedades, seja suscetível de combinações de que não fazemos nenhuma ideia, produza efeitos apropriados a necessidades que desconhecemos, dando lugar a percepções novas ou a outros modos de percepção. Não compreendemos, por exemplo, que se possa ver sem os olhos do corpo e sem a luz. Quem nos diz, porém, que não existam outros agentes, afora a luz, aos quais são adequados organismos especiais? A vista sonambúlica, que nem a distância, nem os obstáculos materiais, nem a obscuridade detêm, nos oferece um exemplo disso. Suponhamos que, num mundo qualquer, os seres sejam normalmente o que só excepcionalmente o são os nossos sonâmbulos; eles, sem precisarem da nossa luz, nem dos nossos olhos, verão o que não podemos ver. O mesmo se dá com todas as outras sensações. As condições de vitalidade e de perceptibilidade, as sensações e as necessidades variam de conformidade com os meios.
 
 
-[^34]: Nota de Allan Kardec: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
+[^34]: A.K.: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
 
 [^35]: N.E.: Atualmente, a Biologia classifica em cinco reinos os seres vivos: monera (bactérias e algas azuis ou cianobactérias), protista (amebas e paramécios), fungos (cogumelos e leveduras), vegetal e animal.
 
@@ -5350,7 +5356,7 @@ Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima
 
 [^37]: N.E.: Funda é arma de arremesso constituída por uma correia, ou corda dobrada, em cujo centro é colocado o objeto que se deseja lançar; atiradeira, catapulta etc. 
 
-[^38]: Nota de Allan Kardec: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade. 
+[^38]: A.K.: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade. 
 
 Por muito racional e científica que seja essa teoria, como ainda não foi confirmada por nenhuma observação direta, somente a título de hipótese pode ser aceita e como ideia capaz de servir de baliza à Ciência. Não se pode, porém, deixar de convir em que é a única, até o presente, que dá uma explicação satisfatória das particularidades que apresenta o globo lunar.
 
@@ -5366,23 +5372,23 @@ Grande, por certo, é ainda o número dos retardatários; mas, que podem eles co
 
 [^43]: N.E.: Ponto da órbita de um astro ou satélite em torno da Terra, no qual ele se encontra mais próximo de nosso planeta.
 
-[^44]: Nota de Allan Kardec: Mais de 3 trilhões e 400 bilhões de léguas.
+[^44]: A.K.: Mais de 3 trilhões e 400 bilhões de léguas.
 
-[^45]: Nota de Allan Kardec: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
+[^45]: A.K.: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
 
 [^46]: N.E.: Atualmente, a Ciência atribui à Via Láctea uma assombrosa quantidade de estrelas, que varia de 200 a 400 bilhões de sóis.
 
 [^47]: 
 
-[^48]: Nota de Allan Kardec: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis.
+[^48]: A.K.: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis.
 
-[^49]: Nota de Allan Kardec: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
+[^49]: A.K.: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
 
 [^50]: N.E.: Terra que é úmida, coesa, forte.
 
 [^51]: N.E.: Solos de calcário e argila, usados em olarias e como corretivo de terras agrícolas.
 
-[^52]: Nota de Allan Kardec: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
+[^52]: A.K.: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
 
 O termo petrificado se emprega relativamente aos corpos que se transformaram em pedra, pela infiltração de matérias silicosas ou calcárias nos tecidos orgânicos. Todas as petrificações necessariamente são fósseis, mas nem todos os fósseis são petrificações. 
 
@@ -5392,7 +5398,7 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^53]: N.E.: Sabemos que as primeiras formas de vida (bactérias e algas azul-esverdeadas) surgiram há cerca de 3.500 milhões de anos, e há 570 milhões de anos as plantas e os animais complexos começaram a se desenvolver.
 
-[^54]: Nota de Allan Kardec: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
+[^54]: A.K.: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
 
 [^55]: 
 
@@ -5412,17 +5418,17 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^63]: N.E.: Classe de animais invertebrados, cujos órgãos estão dispostos simetricamente em torno de um eixo, ex.: equinodermos e pólipos.
 
-[^64]: Nota de Allan Kardec: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
+[^64]: A.K.: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
 
-[^65]: Nota de Allan Kardec: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
+[^65]: A.K.: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
 
-[^66]: Nota de Allan Kardec: Na baía de Fundy (Nova Escócia), o Sr. Lyell [Charles Lyell (1797–1875), geólogo britânico] encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
+[^66]: A.K.: Na baía de Fundy (Nova Escócia), o Sr. Lyell [Charles Lyell (1797–1875), geólogo britânico] encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
 
 [^67]: 
 
 [^68]: N.E.: Consultar nota 31.
 
-[^69]: Nota de Allan Kardec: O primeiro fóssil deste animal foi descoberto, na Inglaterra, em 1823. Depois, encontraram-se outros na França e na Alemanha.
+[^69]: A.K.: O primeiro fóssil deste animal foi descoberto, na Inglaterra, em 1823. Depois, encontraram-se outros na França e na Alemanha.
 
 [^70]: N.E.: Somente após a desencarnação do autor, ocorrida em 1869, foram descobertos, na Inglaterra, fragmentos suficientes à montagem de um exemplar completo, pelos paleontólogos, permitindo melhor elucidar detalhes da descrição desse dinossauro. Ficou, então, claro que ele tinha uma calosidade óssea sobre o focinho, como os iguanídeos uma crista espinhosa no dorso, inexistindo chifres, que, no entanto, eram bastante evidentes em outros monstros, como nos saurópodes.
 
@@ -5436,15 +5442,15 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^75]: N.E.: Corresponde à época do Pleistoceno, no Período Quaternário da Era Cenozoica
 
-[^76]: Nota de Allan Kardec: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
+[^76]: A.K.: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
 
-[^77]: Nota de Allan Kardec: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
+[^77]: A.K.: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
 
 [^78]: Período pós-diluviano ou atual.
 
 [^79]: Nascimento do homem.
 
-[^80]: Nota de Allan Kardec: Veja-se: O homem antediluviano, por Boucher de [Chévecoeur de] Perthes. — Os instrumentos de pedra, idem. — Discurso sobre as revoluções do globo, por Georges Cuvier, anotado pelo Dr. Hoefer.
+[^80]: A.K.: Veja-se: O homem antediluviano, por Boucher de [Chévecoeur de] Perthes. — Os instrumentos de pedra, idem. — Discurso sobre as revoluções do globo, por Georges Cuvier, anotado pelo Dr. Hoefer.
 
 [^81]: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
 
@@ -5454,13 +5460,13 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^84]: N.E.: A Ciência atualmente define os cometas como blocos de gelo e rocha com alguns quilômetros de extensão; quando um cometa se aproxima do Sol, o gelo superficial se evapora, formando uma “bola” de vapor que adquire a forma de longa cauda. Hoje, sabemos que os cometas não são tão inofensivos quando se chocam com planetas; mas em choque com o Sol não causaria qualquer dano a essa estrela.
 
-[^85]: Nota de Allan Kardec: Completa dissertação, à altura da ciência moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
+[^85]: A.K.: Completa dissertação, à altura da ciência moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
 
 [^86]: N.E.: Juno, Ceres e Palas são alguns dos mais de 4.000 asteroides identificados pelos astrônomos; asteroides são fragmentos de rocha que giram em torno do Sol.
 
 [^87]: N.E.: Estima-se que a Terra tenha iniciado seu processo de formação há 4.600 milhões de anos. O processo de solidificação da crosta teria ocorrido nos primeiros 500 milhões de anos.
 
-[^88]: Nota de Allan Kardec: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
+[^88]: A.K.: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
 
 [^89]: 
 
@@ -5468,15 +5474,15 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^91]: 
 
-[^92]: Nota de Allan Kardec: O século XVIII registrou notável exemplo de um fenômeno desse gênero. A seis dias de marcha da cidade do México, existia, em 1750, uma região fértil e bem cultivada, onde davam em abundância arroz, milho e bananas. No mês de junho, pavorosos tremores de terra abalaram o solo, renovando-se continuamente durante dois meses inteiros. Na noite de 28 para 29 de setembro, violenta convulsão se produziu; um território de muitas léguas de extensão entrou a erguer-se pouco a pouco e acabou por alcançar a altitude de 500 pés, numa superfície de 10 léguas quadradas. O terreno ondulava, como as vagas do mar ao sopro da tempestade, milhares de montículos se elevavam e afundavam alternativamente; afinal, abriu-se um abismo de perto de 3 léguas, donde eram lançados à prodigiosa altura fumo, fogo, pedras esbraseadas e cinzas. Seis montanhas surgiram desse abismo hiante, entre as quais o vulcão a que foi dado o nome de Jorullo, que agora se eleva a 550 metros acima da antiga planície. No momento em que principiaram os abalos do solo, os dois rios Cuitimba e San Pedro, refluindo, inundaram toda a planície hoje ocupada pelo Jorullo; no terreno, porém, que sem cessar se elevava, outro sorvedouro se abriu e os absorveu. Os dois reapareceram mais tarde, a oeste, num ponto muito afastado de seus antigos leitos. (Lois Figuier, A Terra antes do dilúvio, p. 370.)
+[^92]: A.K.: O século XVIII registrou notável exemplo de um fenômeno desse gênero. A seis dias de marcha da cidade do México, existia, em 1750, uma região fértil e bem cultivada, onde davam em abundância arroz, milho e bananas. No mês de junho, pavorosos tremores de terra abalaram o solo, renovando-se continuamente durante dois meses inteiros. Na noite de 28 para 29 de setembro, violenta convulsão se produziu; um território de muitas léguas de extensão entrou a erguer-se pouco a pouco e acabou por alcançar a altitude de 500 pés, numa superfície de 10 léguas quadradas. O terreno ondulava, como as vagas do mar ao sopro da tempestade, milhares de montículos se elevavam e afundavam alternativamente; afinal, abriu-se um abismo de perto de 3 léguas, donde eram lançados à prodigiosa altura fumo, fogo, pedras esbraseadas e cinzas. Seis montanhas surgiram desse abismo hiante, entre as quais o vulcão a que foi dado o nome de Jorullo, que agora se eleva a 550 metros acima da antiga planície. No momento em que principiaram os abalos do solo, os dois rios Cuitimba e San Pedro, refluindo, inundaram toda a planície hoje ocupada pelo Jorullo; no terreno, porém, que sem cessar se elevava, outro sorvedouro se abriu e os absorveu. Os dois reapareceram mais tarde, a oeste, num ponto muito afastado de seus antigos leitos. (Lois Figuier, A Terra antes do dilúvio, p. 370.)
 
-[^93]: Nota de Allan Kardec: A lenda indiana sobre o dilúvio refere, segundo o livro dos Vedas, que Brama, transformado em peixe, se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-me-ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com eles povoasse a Terra. 
+[^93]: A.K.: A lenda indiana sobre o dilúvio refere, segundo o livro dos Vedas, que Brama, transformado em peixe, se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-me-ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com eles povoasse a Terra. 
 
 [^94]: 
 
-[^95]: Nota de Allan Kardec: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
+[^95]: A.K.: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
 
-[^96]: Nota de Allan Kardec: Entre os fatos mais recentes que provam o deslocamento do mar, podem citar-se estes: 
+[^96]: A.K.: Entre os fatos mais recentes que provam o deslocamento do mar, podem citar-se estes: 
 
 No golfo da Gasconha [ou Golfo de Biscaia, separa a costa oeste da França da costa norte da Espanha], entre o velho Soulac e a Torre de Cordouan, quando o mar está calmo, percebe-se no fundo da água trechos de muralha: são os restos da antiga e grande cidade de Noviomagus, invadida pelas ondas em 580. O rochedo de Cordouan, que se achava então ligado à margem, está agora a 12 quilômetros. 
 
@@ -5494,13 +5500,13 @@ O dilúvio bíblico não pode ter tido essa causa, pois que foi repentina a inva
 
 [^98]: 8 N.E.: Hoje sabemos que o núcleo cometário é sólido, formado por gelo e rocha, e que um impacto direto com a Terra ou outro planeta qualquer poderia causar sérios danos.
 
-[^99]: Nota de Allan Kardec: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
+[^99]: A.K.: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
 
 [^100]: N.E.: O movimento orbital dos planetas em torno do Sol é regido por três propriedades conhecidas como Leis de Kepler — 1a Lei: os planetas descrevem elipses das quais o Sol é um dos focos; 2a Lei: as áreas percorridas pelo raio vetor (reta que une um planeta ao Sol), são proporcionais ao tempo gasto em percorrê-las; 3a Lei: os quadrados dos tempos de revolução são proporcionais aos cubos dos semieixos maiores das órbitas.
 
-[^101]: Nota de Allan Kardec: No seu movimento de translação em torno do Sol, a velocidade da Terra é de 400 léguas por minuto. Sendo de 9.000 léguas a sua circunferência, em seu movimento de rotação ao redor do seu eixo, cada ponto do Equador percorre 9.000 léguas em 24 horas, ou 6,3 léguas por minuto.
+[^101]: A.K.: No seu movimento de translação em torno do Sol, a velocidade da Terra é de 400 léguas por minuto. Sendo de 9.000 léguas a sua circunferência, em seu movimento de rotação ao redor do seu eixo, cada ponto do Equador percorre 9.000 léguas em 24 horas, ou 6,3 léguas por minuto.
 
-[^102]: N.E.: Ver Nota Explicativa, p. 375.
+[^102]: N.E.: Ver Nota Explicativa.
 
 [^103]: N.E.: Segundo Charles Darwin [1809–1882, naturalista britânico, autor de Sobre a origem das espécies por meio da seleção natural (1859)], as espécies teriam evoluído pelo processo de seleção natural, ou seja, os indivíduos mais aptos a sobreviver em um determinado ambiente, apresentam mais probabilidade de gerar uma prole que herde suas características genéticas, que por sua vez sofrem imperceptíveis mutações genéticas de geração em geração. Ao longo de séculos, o acúmulo de pequenas mutações genéticas acaba resultando em grandes modificações e aperfeiçoamentos se compararmos com a primeira geração daquela espécie, podendo surgir até novas espécies, bem diversas da primeira.
 
@@ -5510,7 +5516,7 @@ A teoria mais aceita atualmente é, então, a de que todas as espécies do plane
 
 [^105]: N.E.: Os tecidos orgânicos que formam os músculos, os ossos, o sangue, o caule etc., são constituídos por células, seres vivos microscópicos que desempenham funções especializadas, necessárias ao funcionamento de cada órgão do ser a que pertencem.
 
-[^106]: Nota de Allan Kardec: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
+[^106]: A.K.: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
 
 [^108]: 8 N.E.: Hoje sabemos que os processos de reprodução de qualquer ser vivo dependem das informações contidas nos genes dos ascendentes do ser que está sendo gerado. Cada indivíduo, com as características e funções de seus órgãos, está relacionado com o ambiente em que vive, o que o torna melhor adaptado e garante a sobrevivência da sua espécie.
 
@@ -5522,7 +5528,7 @@ A teoria mais aceita atualmente é, então, a de que todas as espécies do plane
 
 [^112]: N.E.: Atualmente temos a Teoria da Evolução Química ou Molecular, que postula que a vida surgiu a partir do processo de evolução química de compostos inorgânicos, dando origem a moléculas orgânicas e, depois, às primeiras e mais simples formas de vida.
 
-[^113]: Nota de Allan Kardec: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. [Artigo: A geração espontânea e A gênese.]
+[^113]: A.K.: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. [Artigo: A geração espontânea e A gênese.]
 
 [^114]: 
 
@@ -5534,7 +5540,7 @@ A teoria mais aceita atualmente é, então, a de que todas as espécies do plane
 
 [^118]: 
 
-[^119]: Nota de Allan Kardec: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
+[^119]: A.K.: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
 
 “Não é conveniente se publiquem, prematuramente, as descobertas feitas, do ponto de vista da história do homem, pela recente expedição científica do México.
 
@@ -5542,7 +5548,7 @@ Entretanto, nada se opõe a que o público saiba, desde já, que a exploração 
 
 É assim que todos os dias a Ciência opõe o desmentido dos fatos à doutrina que limita a 6.000 anos a aparição do homem na Terra e pretende fazê-lo derivar de um tronco único.
 
-[^120]: Nota de Allan Kardec: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+[^120]: A.K.: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
 
 [^121]: N.E.: Território francês ultramarino.
 
@@ -5554,23 +5560,23 @@ Entretanto, nada se opõe a que o público saiba, desde já, que a exploração 
 
 [^125]: 5N.E.: Aúra-Masda, Ormasde — deus supremo da Criação; princípio do bem, da harmonia, da beleza e da luz, na religião zoroastriana (antiga religião persa, fundada no século VII a.C. por Zoroastro, caracterizada pelo dualismo ético, cósmico e teogônico, que implica a luta primordial entre dois deuses, representantes do bem e do mal. O zoroastrismo influenciou em diversos aspectos doutrinários a tradição judaico-cristã).
 
-[^126]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+[^126]: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
 
-[^127]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+[^127]: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
 
-[^128]: Nota de Allan Kardec: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
+[^128]: A.K.: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
 
-[^129]: Nota de Allan Kardec: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
+[^129]: A.K.: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
 
 [^130]: 
 
-[^131]: Nota de Allan Kardec: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
+[^131]: A.K.: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
 
-[^132]: Nota de Allan Kardec: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
+[^132]: A.K.: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
 
 [^133]:
 
-[^134]: Nota de Allan Kardec: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
+[^134]: A.K.: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
 
 [^135]: 
 
@@ -5584,11 +5590,11 @@ Entretanto, nada se opõe a que o público saiba, desde já, que a exploração 
 
 [^140]: N.E.: A Possessão das Freiras de Loudun foi um suposto conjunto de possessões demoníacas que ocorreram em Loudun, França, em 1634; as freiras sofreram convulsões e proferiram linguagem abusiva.
 
-[^141]: Nota de Allan Kardec: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
+[^141]: A.K.: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
 
 [^142]: N.E.: Os gases são exemplo desse fluido, invisíveis, embora possam ser detectados e pesados
 
-[^143]: Nota de Allan Kardec: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
+[^143]: A.K.: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
 
 [^144]: N.E.: Hoje, sabemos que a matéria parece ser compacta e impenetrável em razão da repulsão elétrica que existe entre os átomos que a constituem, impedindo que os seres e objetos materiais se interpenetrem. No mais, a massa do átomo se concentra no seu núcleo, seríamos então uma grande aglomerado de moléculas.
 
@@ -5598,21 +5604,21 @@ Entretanto, nada se opõe a que o público saiba, desde já, que a exploração 
 
 [^147]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
 
-[^148]: Nota de Allan Kardec: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
+[^148]: A.K.: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
 
 [^149]: 
 
-[^150]: Nota de Allan Kardec: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg
+[^150]: A.K.: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg
 
-[^151]: Nota de Allan Kardec: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
+[^151]: A.K.: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
 
-[^152]: Nota de Allan Kardec: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
+[^152]: A.K.: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
 
-[^153]: Nota de Allan Kardec: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
+[^153]: A.K.: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
 
-[^154]: Nota de Allan Kardec: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
+[^154]: A.K.: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
 
-[^155]: Nota de Allan Kardec: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
+[^155]: A.K.: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
 
 [^156]: 
 
@@ -5620,51 +5626,51 @@ Entretanto, nada se opõe a que o público saiba, desde já, que a exploração 
 
 [^158]: N.E.: Segundo a Bíblia, este fato se deu na família de Tobias. (Ver O livro de Tobias.)
 
-[^159]: Nota de Allan Kardec: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
+[^159]: A.K.: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
 
-[^160]: Nota de Allan Kardec: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
+[^160]: A.K.: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
 
-[^161]: Nota de Allan Kardec: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
+[^161]: A.K.: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
 
 [^162]: 
 
-[^163]: Nota de Allan Kardec: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias. 
+[^163]: A.K.: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias. 
 
 Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muito mais raro, porque mais difícil de ser imitado. É sabido que o Sr. Home se elevou mais de uma vez até ao teto, dando assim volta à sala. Dizem que São Cupertino possuía a mesma faculdade, não sendo o fato mais miraculoso com este do que com aquele.
 
-[^164]: Nota de Allan Kardec: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
+[^164]: A.K.: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
 
-[^165]: Nota de Allan Kardec: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
+[^165]: A.K.: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
 
-[^166]: Nota de Allan Kardec: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
+[^166]: A.K.: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
 
-[^167]: Nota de Allan Kardec: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
+[^167]: A.K.: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
 
 [^168]:
 
 [^169]: N.E.: Espécie de lama, fina e inconsistente, característica de certos fundos oceânicos, constituída por carapaças microscópicas de animais ou elementos minerais.
 
-[^170]: 170Nota de Allan Kardec: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825): 
+[^170]: A.K.: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825): 
 
 “Se Jesus operasse seus milagres pelo poder do demônio, este houvera trabalhado pela destruição do seu império e teria empregado contra si próprio o seu poder. Certamente, um demônio que procurasse destruir o reinado do vício para implantar o da virtude, seria um demônio muito singular. Eis por que Jesus, para repelir a absurda acusação dos judeus, lhes dizia: “Se opero prodígios em nome do demônio, o demônio está dividido consigo mesmo, trabalha, conseguintemente, por se destruir a si próprio!” Resposta que não admite réplica. 
 
 É precisamente o argumento que os espíritas opõem aos que atribuem ao demônio os bons conselhos que os Espíritos lhes dão. O demônio agiria então como um ladrão profissional que restituísse tudo o que houvesse roubado e exortasse os outros ladrões a se tornarem pessoas honestas.
 
-[^171]: Nota de Allan Kardec: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito. Aq
+[^171]: A.K.: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito.
 
-[^172]: Nota de Allan Kardec: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
+[^172]: A.K.: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
 
-[^173]: Nota de Allan Kardec: O lago de Genesaré ou de Tiberíades.
+[^173]: A.K.: O lago de Genesaré ou de Tiberíades.
 
 [^174]:
 
-[^175]: Nota de Allan Kardec: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
+[^175]: A.K.: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
 
-[^176]: Nota de Allan Kardec: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
+[^176]: A.K.: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
 
 [^177]:
 
-[^178]: Nota de Allan Kardec: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
+[^178]: A.K.: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
 
 [^179]:
 
@@ -5678,19 +5684,121 @@ Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muit
 
 [^184]: N.E.: Kardec pressentia a supressão das barreiras linguísticas vinte anos antes do aparecimento do Esperanto, quando Zamenhof tinha somente sete anos. Hoje a profecia se cumpre sob nossos olhos com o progresso constante do Esperanto.
 
-[^185]: Nota de Allan Kardec: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
+[^185]: A.K.: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
 
-[^186]: Nota de Allan Kardec: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
+[^186]: A.K.: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
 
-[^187]: Nota de Allan Kardec: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
+[^187]: A.K.: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
 
-[^188]: N.E.: Ver Nota Explicativa, p. 375
+[^188]: N.E.: Ver Nota Explicativa.
 
 
-[^189]: Nota de Allan Kardec: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
+[^189]: A.K.: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
 
-[^190]:  N.E.: Ver Nota Explicativa, p. 375
+[^190]:  N.E.: Ver Nota Explicativa.
 
 [^191]: N.E.: Nada mais além.
 
-[^192]: 2 N.E.: Ver Nota Explicativa, p. 375.
+[^192]: 2 N.E.: Ver Nota Explicativa.
+
+### 4.03 📑 Indíce geral
+
+#### A
+
+##### 🔖 item
+
+#### B
+
+##### 🔖 item
+
+#### C
+
+##### 🔖 item
+
+#### D
+
+##### 🔖 item
+
+#### E
+
+##### 🔖 item
+
+#### F
+
+##### 🔖 item
+
+#### G
+
+##### 🔖 item
+
+#### H
+
+##### 🔖 item
+
+#### I
+
+##### 🔖 item
+
+#### J
+
+##### 🔖 item
+
+#### K
+
+##### 🔖 item
+
+#### L
+
+##### 🔖 item
+
+#### M
+
+##### 🔖 item
+
+#### N
+
+##### 🔖 item
+
+#### P
+
+##### 🔖 item
+
+#### Q
+
+##### 🔖 item
+
+#### R
+
+##### 🔖 item
+
+#### S
+
+##### 🔖 item
+
+#### T
+
+##### 🔖 item
+
+#### U
+
+##### 🔖 item
+
+#### V
+
+##### 🔖 item
+
+#### W
+
+##### 🔖 item
+
+#### X
+
+##### 🔖 item
+
+#### Y
+
+##### 🔖 item
+
+#### Z
+
+##### 🔖 item

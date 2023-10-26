@@ -5160,7 +5160,13 @@ A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, po
 
 ---
 
-## 2. 📃 Notas de rodapé
+## 2. 🗃️ Pós-textual
+
+### 2.01 📄 Nota explicativa
+
+PLACEHOLDER
+
+### 2.02 📃 Notas de rodapé
 
 [^1]: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
 
@@ -5221,3 +5227,106 @@ Sem a Terceira Revelação o mundo estaria irremediavelmente perdido pelo choque
 Joel, 2:29: “Também sobre os servos e sobre as servas naqueles dias derramarei o meu Espírito.” – Atos, 2:18: “E, sobre os meus servos e sobre as minhas servas derramarei do meu Espírito naqueles dias, e profetizarão.”
 Na tradução em Esperanto está ainda mais claro que se trata até dos escravos e escravas dos homens, e não de servos de Deus. Ei-la: “Joel, 2:29: Eĉ sur la sklavojn kaj sur la sklavinojn Mi en tiu tempo elverŝos Mian spiriton!” – Atos, 2:18: “Kaj ĉ sur Miajn sklavojn kaj Miajn sklavinojn en tiu tempo Mi elverŝos Mian spiriton, kaj ili profetos.”
 Até os escravos e escravas (dos homens) receberão o Espírito, não somente os servos e servas de Deus (sacerdotes e sacerdotisas). A profecia em sua forma original está se cumprindo em nossos dias, porque a mediunidade brota em todas as classes, até nas pessoas mais humildes e obscuras, e não somente, como faz supor o texto de Atos, entre os sacerdotes (servos de Deus).
+
+### 2.03 📑 Indíce geral
+
+#### A
+
+##### 🔖 item
+
+#### B
+
+##### 🔖 item
+
+#### C
+
+##### 🔖 item
+
+#### D
+
+##### 🔖 item
+
+#### E
+
+##### 🔖 item
+
+#### F
+
+##### 🔖 item
+
+#### G
+
+##### 🔖 item
+
+#### H
+
+##### 🔖 item
+
+#### I
+
+##### 🔖 item
+
+#### J
+
+##### 🔖 item
+
+#### K
+
+##### 🔖 item
+
+#### L
+
+##### 🔖 item
+
+#### M
+
+##### 🔖 item
+
+#### N
+
+##### 🔖 item
+
+#### P
+
+##### 🔖 item
+
+#### Q
+
+##### 🔖 item
+
+#### R
+
+##### 🔖 item
+
+#### S
+
+##### 🔖 item
+
+#### T
+
+##### 🔖 item
+
+#### U
+
+##### 🔖 item
+
+#### V
+
+##### 🔖 item
+
+#### W
+
+##### 🔖 item
+
+#### X
+
+##### 🔖 item
+
+#### Y
+
+##### 🔖 item
+
+#### Z
+
+##### 🔖 item
+

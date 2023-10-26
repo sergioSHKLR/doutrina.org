@@ -5679,7 +5679,13 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 ---
 
-## 3. 📃 Notas de rodapé
+## 3. 🗃️ Pós-textual
+
+### 3.01 📄 Nota explicativa
+
+PLACEHOLDER
+
+### 3.02 📃 Notas de rodapé
 
 [^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
 [^]: Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.”
@@ -5803,3 +5809,105 @@ Quando esta perspectiva de reparação for inculcada na crença das massas, ser�
 [^57]: A.K.: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.
 
 [^58]: A.K.: Alusão ao Espírito Bernard, que se manifestou espontaneamente no dia das exéquias do Sr. Sanson. (Ver a Revista espírita de maio de 1862.)
+
+### 3.03 📑 Indíce geral
+
+#### A
+
+##### 🔖 item
+
+#### B
+
+##### 🔖 item
+
+#### C
+
+##### 🔖 item
+
+#### D
+
+##### 🔖 item
+
+#### E
+
+##### 🔖 item
+
+#### F
+
+##### 🔖 item
+
+#### G
+
+##### 🔖 item
+
+#### H
+
+##### 🔖 item
+
+#### I
+
+##### 🔖 item
+
+#### J
+
+##### 🔖 item
+
+#### K
+
+##### 🔖 item
+
+#### L
+
+##### 🔖 item
+
+#### M
+
+##### 🔖 item
+
+#### N
+
+##### 🔖 item
+
+#### P
+
+##### 🔖 item
+
+#### Q
+
+##### 🔖 item
+
+#### R
+
+##### 🔖 item
+
+#### S
+
+##### 🔖 item
+
+#### T
+
+##### 🔖 item
+
+#### U
+
+##### 🔖 item
+
+#### V
+
+##### 🔖 item
+
+#### W
+
+##### 🔖 item
+
+#### X
+
+##### 🔖 item
+
+#### Y
+
+##### 🔖 item
+
+#### Z
+
+##### 🔖 item

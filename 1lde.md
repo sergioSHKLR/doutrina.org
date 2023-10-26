@@ -9226,7 +9226,13 @@ Se é certo que, entre os adeptos do [Espiritismo][3]{:target="ext"}, se contam 
 
 ---
 
-## 6. 📃 Notas de rodapé
+## 6. 🗃️ Pós-textual
+
+### 6.01 📄 Nota explicativa
+
+PLACEHOLDER
+
+### 6.02 📃 Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
@@ -9279,3 +9285,105 @@ Se é certo que, entre os adeptos do [Espiritismo][3]{:target="ext"}, se contam 
 [^25]: N.E.: Na 2ª impressão da 2ª edição de 👻 O Livro dos Espíritos, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
 
 [^26]: N.E.: Ver 👉 Nota explicativa.
+
+### 6.03 📑 Indíce geral
+
+#### A
+
+##### 🔖 item
+
+#### B
+
+##### 🔖 item
+
+#### C
+
+##### 🔖 item
+
+#### D
+
+##### 🔖 item
+
+#### E
+
+##### 🔖 item
+
+#### F
+
+##### 🔖 item
+
+#### G
+
+##### 🔖 item
+
+#### H
+
+##### 🔖 item
+
+#### I
+
+##### 🔖 item
+
+#### J
+
+##### 🔖 item
+
+#### K
+
+##### 🔖 item
+
+#### L
+
+##### 🔖 item
+
+#### M
+
+##### 🔖 item
+
+#### N
+
+##### 🔖 item
+
+#### P
+
+##### 🔖 item
+
+#### Q
+
+##### 🔖 item
+
+#### R
+
+##### 🔖 item
+
+#### S
+
+##### 🔖 item
+
+#### T
+
+##### 🔖 item
+
+#### U
+
+##### 🔖 item
+
+#### V
+
+##### 🔖 item
+
+#### W
+
+##### 🔖 item
+
+#### X
+
+##### 🔖 item
+
+#### Y
+
+##### 🔖 item
+
+#### Z
+
+##### 🔖 item

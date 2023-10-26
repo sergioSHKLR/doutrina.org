@@ -5610,7 +5610,13 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 ---
 
-## 3. 📃 Notas de rodapé
+## 3. 🗃️ Pós-textual
+
+### 3.01 📄 Nota explicativa
+
+PLACEHOLDER
+
+### 3.02 📃 Notas de rodapé
 
 [^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
@@ -5661,3 +5667,105 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 [^24]: N.E.: Ver 👉 Nota explicativa.
 
 [^25]: A.K.: Conhecemos um senhor que foi aceito para um emprego de confiança, numa casa importante, porque era espírita sincero. Entenderam que as suas crenças eram uma garantia da sua moralidade.
+
+### 3.03 📑 Indíce geral
+
+#### A
+
+##### 🔖 item
+
+#### B
+
+##### 🔖 item
+
+#### C
+
+##### 🔖 item
+
+#### D
+
+##### 🔖 item
+
+#### E
+
+##### 🔖 item
+
+#### F
+
+##### 🔖 item
+
+#### G
+
+##### 🔖 item
+
+#### H
+
+##### 🔖 item
+
+#### I
+
+##### 🔖 item
+
+#### J
+
+##### 🔖 item
+
+#### K
+
+##### 🔖 item
+
+#### L
+
+##### 🔖 item
+
+#### M
+
+##### 🔖 item
+
+#### N
+
+##### 🔖 item
+
+#### P
+
+##### 🔖 item
+
+#### Q
+
+##### 🔖 item
+
+#### R
+
+##### 🔖 item
+
+#### S
+
+##### 🔖 item
+
+#### T
+
+##### 🔖 item
+
+#### U
+
+##### 🔖 item
+
+#### V
+
+##### 🔖 item
+
+#### W
+
+##### 🔖 item
+
+#### X
+
+##### 🔖 item
+
+#### Y
+
+##### 🔖 item
+
+#### Z
+
+##### 🔖 item
