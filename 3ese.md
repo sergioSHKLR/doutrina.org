@@ -8,21 +8,30 @@ layout: default
 <meta name="theme-color" content="teal">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; }
+td {padding: 0 30px;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
-h2:before {content: "🗃️ Parte "}
-h3:before {content: "🗂️ Cap. "}
-h4:before {content: "📑 "}
-h5:before {content: "📄 "}
-h6:before {content: "#️⃣ "}
 </style>
 </head>
 <!-- #endregion -->
 
+*[LDE]: O Livro dos Espíritos
+*[LDM]: O Livro dos Médiuns
+*[ESE]: O Evangelho segundo o Espiritismo
+*[CEU]: O Céu e o Inferno
+*[GEN]: A Gênese
+
+[0]: https://pt.m.wikipedia.org/wiki/Deus
+[1]: https://pt.m.wikipedia.org/wiki/Jesus
+[2]: https://pt.m.wikipedia.org/wiki/Cristo
+[3]: https://pt.m.wikipedia.org/wiki/Espiritismo
+[Mt]: https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)
+[ARC]: https://www.bible.com/pt/versions/212
+
 # 🕊️ O Evangelho segundo o Espiritismo
 
-## 0. Pré-textual {#0}
+## 0. 🗃️ Pré-textual
 
-### 0.01. Folha de rosto {#0.01}
+### 0-01. 🗂️ Folha de rosto
 
 |  |
 |:---:|
@@ -44,7 +53,7 @@ h6:before {content: "#️⃣ "}
 | ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
 |  |
 
-### 0.02. Prefácio {#0.02}
+### 0-02. 🗂️ Prefácio
 
 > 👻 ▸ Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 >
@@ -61,9 +70,9 @@ h6:before {content: "#️⃣ "}
 
 ---
 
-### 0.03. Intrudução {#0.03}
+### 0-03. 🗂️ Introdução
 
-#### 1. Objetivo desta obra
+#### 0-03.1. Objetivo desta obra
 
 Podem dividir-se em cinco partes as matérias contidas nos Evangelhos: os atos comuns da vida do Cristo; os milagres; as predições; as palavras que foram tomadas pela Igreja para fundamento de seus dogmas; e o ensino moral. As quatro primeiras têm sido objeto de controvérsias; a última, porém, conservou-se constantemente inatacável. Diante desse código divino, a própria incredulidade se curva. É terreno onde todos os cultos podem reunir-se, estandarte sob o qual podem todos colocar-se, quaisquer que sejam suas crenças, porquanto jamais ele constituiu matéria das disputas religiosas, que sempre e por toda a parte se originaram das questões dogmáticas. Aliás, se o discutissem, nele teriam as seitas encontrado sua própria condenação, visto que, na maioria, elas se agarram mais à parte mística do que à parte moral, que exige de cada um a reforma de si mesmo. Para os homens, em particular, constitui aquele código uma regra de proceder que abrange todas as circunstâncias da vida privada e da vida pública, o princípio básico de todas as relações sociais que se fundam na mais rigorosa justiça. É, finalmente e acima de tudo, o roteiro infalível para a felicidade vindoura, o levantamento de uma ponta do véu que nos oculta a vida futura. Essa parte é a que será objeto exclusivo desta obra.
 
@@ -83,7 +92,7 @@ Como complemento de cada preceito, acrescentamos algumas instruções escolhidas
 
 Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu**que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
 
-#### 2. Autoridade da doutrina espírita
+#### 0-03.2. Autoridade da doutrina espírita
 
 ###### Controle universal do ensino dos Espíritos
 
@@ -141,7 +150,7 @@ A opinião universal, eis o juiz supremo, o que se pronuncia em última instânc
 
 Já se desenha o harmonioso conjunto. Este século não passará sem que ele resplandeça em todo o seu brilho, de modo a dissipar todas as incertezas, porquanto daqui até lá potentes vozes terão recebido a missão de se fazer ouvir, para congregar os homens sob a mesma bandeira, uma vez que o campo se ache suficientemente lavrado. Enquanto isso se não dá, aquele que flutua entre dois sistemas opostos pode observar em que sentido se forma a opinião geral; essa será a indicação certa do sentido em que se pronuncia a maioria dos Espíritos, nos diversos pontos em que se comunicam, e um sinal não menos certo de qual dos dois sistemas prevalecerá.
 
-#### 3. Notícias históricas
+#### 0-03.3. Notícias históricas
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
 
@@ -185,7 +194,7 @@ Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de r
 
 **Terapeutas**(do grego therapeutai, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
 
-#### 4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo
+#### 0-03.4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo
 
 Do fato de haver Jesus conhecido a seita dos essênios, fora errôneo concluir-se que a sua doutrina hauriu-a ele dessa seita e que, se houvera vivido noutro meio, teria professado outros princípios. As grandes ideias jamais irrompem de súbito. As que assentam sobre a verdade sempre têm precursores que lhes preparam parcialmente os caminhos. Depois, chegando o tempo, envia Deus um homem com a missão de resumir, coordenar e completar os elementos esparsos, de reuni-los em corpo de doutrina. Desse modo, não surgindo bruscamente, a ideia, ao aparecer, encontra espíritos dispostos a aceitá-la. Tal o que se deu com a ideia cristã, que foi pressentida muitos séculos antes de Jesus e dos essênios, tendo por principais precursores Sócrates e Platão.
 
@@ -325,9 +334,9 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
-## 1. Miolo {#1}
+## 1. 🗃️ Miolo
 
-### 1.01. Não vim destruir a lei {#1.01}
+### 1-01. 🗂️ Não vim destruir a lei
 
 #### 01
 
@@ -460,7 +469,7 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 
 ---
 
-### 1.02. Meu Reino não é deste mundo {#1.02}
+### 1-02. 🗂️ Meu Reino não é deste mundo
 
 #### 01
 
@@ -534,7 +543,7 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 
 ---
 
-### 1.03. Há muitas moradas na casa de meu Pai {#1.03}
+### 1-03. 🗂️ Há muitas moradas na casa de meu Pai
 
 #### 01
 
@@ -668,7 +677,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 ---
 
-### 1.04. Ninguém poderá ver o Reino de Deus se não nascer de novo {#1.04}
+### 1-04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo
 
 #### 01
 
@@ -869,7 +878,7 @@ Não poderiam os Espíritos encarnar uma única vez em determinado globo e preen
 
 ---
 
-### 1.05. Bem-aventurados os aflitos {#1.05}
+### 1-05. 🗂️ Bem-aventurados os aflitos
 
 #### 01
 
@@ -1241,7 +1250,7 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 
 ---
 
-### 1.06. O Cristo Consolador {#1.06}
+### 1-06. 🗂️ O Cristo Consolador
 
 #### O jugo leve
 
@@ -1327,7 +1336,7 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 
 ---
 
-### 1.07. Bem-aventurados os pobres de espírito {#1.07}
+### 1-07. 🗂️ Bem-aventurados os pobres de espírito
 
 #### O que se deve entender por pobres de espírito
 
@@ -1483,7 +1492,7 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 
 ---
 
-### 1.08. Bem-aventurados os que têm puro o coração {#1.08}
+### 1-08. 🗂️ Bem-aventurados os que têm puro o coração
 
 #### Simplicidade e pureza de coração
 
@@ -1672,7 +1681,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 
 ---
 
-### 1.09. Bem-aventurados os que são brandos e pacíficos {#1.09}
+### 1-09. 🗂️ Bem-aventurados os que são brandos e pacíficos
 
 #### Injúrias e violências
 
@@ -1784,7 +1793,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 
 ---
 
-### 1.10. Bem-aventurados os que são misericordiosos {#1.10}
+### 1-10. 🗂️ Bem-aventurados os que são misericordiosos
 
 #### Perdoai, para que Deus vos perdoe
 
@@ -1977,7 +1986,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 
 ---
 
-### 1.11. Amar o próximo como a si mesmo {#1.11}
+### 1-11. 🗂️ Amar o próximo como a si mesmo
 
 #### O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores
 
@@ -2155,7 +2164,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 
 ---
 
-### 1.12. Amai os vossos inimigos {#1.12}
+### 1-12. 🗂️ Amai os vossos inimigos
 
 #### Retribuir o mal com o bem
 
@@ -2305,7 +2314,7 @@ O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos hom
 
 ---
 
-### 1.13. Não saiba a vossa mão esquerda o que dê a vossa mão direita {#1.13}
+### 1-13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita
 
 #### Fazer o bem sem ostentação
 
@@ -2559,7 +2568,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 
 ---
 
-### 1.14. Honrai a vosso pai e a vossa mãe {#1.14}
+### 1-14. 🗂️ Honrai a vosso pai e a vossa mãe
 
 #### 01
 
@@ -2663,7 +2672,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 
 ---
 
-### 1.15. Fora da caridade não há salvação {#1.15}
+### 1-15. 🗂️ Fora da caridade não há salvação
 
 #### O de que precisa o Espírito para se salvar. Parábola do Bom Samaritano
 
@@ -2757,7 +2766,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 
 ---
 
-### 1.16. Não se pode servir a Deus e a Mamon {#1.16}
+### 1-16. 🗂️ Não se pode servir a Deus e a Mamon
 
 #### Salvação dos ricos
 
@@ -2939,7 +2948,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 
 ---
 
-### 1.17. Sede perfeitos {#1.17}
+### 1-17. 🗂️ Sede perfeitos
 
 #### Caracteres da perfeição
 
@@ -3125,7 +3134,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 
 ---
 
-### 1.18. Muitos os chamados, poucos os escolhidos {#1.18}
+### 1-18. 🗂️ Muitos os chamados, poucos os escolhidos
 
 #### Parábola do Festim das Bodas
 
@@ -3285,7 +3294,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 
 ---
 
-### 1.19. A fé transporta montanhas {#1.19}
+### 1-19. 🗂️ A fé transporta montanhas
 
 #### Poder da fé
 
@@ -3389,7 +3398,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 ---
 
-### 1.20. Os trabalhadores da última hora {#1.20}
+### 1-20. 🗂️ Os trabalhadores da última hora
 
 #### 01
 
@@ -3479,7 +3488,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 ---
 
-### 1.21. Haverá falsos cristos e falsos profetas {#1.21}
+### 1-21. 🗂️ Haverá falsos cristos e falsos profetas
 
 #### Conhece-se a árvore pelo fruto
 
@@ -3613,7 +3622,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 
 ---
 
-### 1.22. Não separeis o que Deus juntou {#1.22}
+### 1-22. 🗂️ Não separeis o que Deus juntou
 
 #### Indissolubilidade do casamento
 
@@ -3649,7 +3658,7 @@ Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério
 
 ---
 
-### 1.23. Estranha moral {#1.23}
+### 1-23. 🗂️ Estranha moral
 
 #### Odiar os pais
 
@@ -3775,7 +3784,7 @@ Essas palavras de Jesus devem, pois, entender-se com referência às cóleras qu
 
 ---
 
-### 1.24. Não ponhais a candeia debaixo do alqueire {#1.24}
+### 1-24. 🗂️ Não ponhais a candeia debaixo do alqueire
 
 #### Candeia sob o alqueire. Por que fala Jesus por parábolas
 
@@ -3906,7 +3915,7 @@ Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, 
 
 ---
 
-### 1.25. Buscai e achareis {#1.25}
+### 1-25. 🗂️ Buscai e achareis
 
 #### Ajuda-te a ti mesmo, que o céu te ajudará
 
@@ -3994,7 +4003,7 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 
 ---
 
-### 1.26. Dai gratuitamente o que gratuitamente recebestes {#1.26}
+### 1-26. 🗂️ Dai gratuitamente o que gratuitamente recebestes
 
 #### Dom de curar
 
@@ -4071,7 +4080,7 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 
 ---
 
-### 1.27. Pedi e obtereis {#1.27}
+### 1-27. 🗂️ Pedi e obtereis
 
 #### Qualidades da prece
 
@@ -4254,7 +4263,7 @@ Avançai, avançai pelas veredas da prece e ouvireis as vozes dos anjos. Que har
 
 ---
 
-### 1.28. Coletânea de preces espíritas {#1.28}
+### 1-28. 🗂️ Coletânea de preces espíritas
 
 #### Preâmbulo
 
@@ -5151,7 +5160,7 @@ A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, po
 
 ---
 
-#### Notas de rodapé
+## 2. 📃 Notas de rodapé
 
 [^1]: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
 

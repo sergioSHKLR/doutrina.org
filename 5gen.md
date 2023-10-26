@@ -8,22 +8,31 @@ layout: default
 <meta name="theme-color" content="darkgreen">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; }
+td {padding: 0 30px;}
 #col3-link3 {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
-h2:before {content: "🗃️ Parte "}
-h3:before {content: "🗂️ Cap. "}
-h4:before {content: "📑 "}
-h5:before {content: "📄 "}
-h6:before {content: "#️⃣ "}
 </style>
 </head>
 <!-- #endregion -->
 
+*[LDE]: O Livro dos Espíritos
+*[LDM]: O Livro dos Médiuns
+*[ESE]: O Evangelho segundo o Espiritismo
+*[CEU]: O Céu e o Inferno
+*[GEN]: A Gênese
+
+[0]: https://pt.m.wikipedia.org/wiki/Deus
+[1]: https://pt.m.wikipedia.org/wiki/Jesus
+[2]: https://pt.m.wikipedia.org/wiki/Cristo
+[3]: https://pt.m.wikipedia.org/wiki/Espiritismo
+[Mt]: https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)
+[ARC]: https://www.bible.com/pt/versions/212
+
 # 🌱 A Gênese
 
-## 0
+## 0. 🗃️ Pré-textual
 
-### 0.01
+### 0-01. 🗂️ Folha de rosto
 
 |  |
 |:---:|
@@ -45,15 +54,37 @@ h6:before {content: "#️⃣ "}
 | ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
 |  |
 
-### 0.02
+### 0-02. 🗂️ Introdução
 
 À primeira edição publicada em janeiro de 1868
 
-Esta nova obra é mais um passo dado para as consequências e aplicações do Espiritismo. Conforme seu título o indica, tem ela por objeto o estudo dos três pontos até hoje diversamente interpretados e comentados: a Gênese, os milagres e as predições em suas relações com as novas leis que decorrem da observação dos fenômenos espíritas. Dois elementos, ou, se quiserdes, duas forças regem o universo: o elemento espiritual e o material. Da ação simultânea desses dois princípios nascem fenômenos especiais, naturalmente inexplicáveis, desde que se abstraia de um deles, do mesmo modo que a formação da água seria inexplicável, se se abstraísse de um dos seus elementos constituintes: o oxigênio e o hidrogênio. Demonstrando a existência do mundo espiritual e suas relações com o mundo material, o Espiritismo fornece o esclarecimento de uma imensidade de fenômenos incompreendidos e considerados, por isso mesmo, inadmissíveis, por uma certa classe de pensadores. Abundam nas Escrituras esses fatos e, por desconhecerem a lei que os rege, é que os comentadores dos dois campos opostos, girando sempre dentro do mesmo círculo de ideias, fazendo, uns, abstração dos dados positivos da ciência, outros, do princípio espiritual, não conseguiram chegar a uma solução racional. Essa solução se encontra na ação recíproca entre o Espírito e a matéria. É exato que ela tira à maioria de tais fatos o caráter de sobrenatural. Porém, que é o que vale mais: admiti-los como resultado das leis da natureza, ou rejeitá-los completamente? Sua rejeição absoluta arrasta a da própria base do edifício, ao passo que a admissão a tal título, suprimindo-se apenas os acessórios, deixa intacta a base. Tal a razão por que o Espiritismo conduz tantas pessoas à crença em verdades que elas antes consideravam meras utopias. Esta obra é, pois, como já o dissemos, um complemento das aplicações do Espiritismo, de um ponto de vista especial. Os materiais se achavam prontos, ou, pelo menos, elaborados desde longo tempo; mas ainda não chegara o momento de serem publicados. Era preciso, primeiramente, que as ideias destinadas a lhes servirem de base houvessem atingido a maturidade e, além disso, também se fazia mister levar em conta a oportunidade das circunstâncias. O Espiritismo não tem mistérios, nem teorias secretas; tudo nele é revelado claramente, a fim de que todos o possam julgar com conhecimento de causa. Cada coisa, entretanto, tem que vir a seu tempo, para vir com segurança. Uma solução dada precipitadamente, primeiro que a elucidação completa da questão, seria antes causa de atraso do que de avanço. A importância do assunto que aqui tratamos nos impunha o dever de evitar qualquer precipitação. Antes de entrarmos em matéria, pareceu-nos necessário definir claramente os papéis respectivos dos Espíritos e dos homens na elaboração da nova doutrina. Essas considerações preliminares, que a escoimam de toda ideia de misticismo, fazem objeto do primeiro capítulo, intitulado: Caráter da revelação espírita. Pedimos séria atenção para esse ponto, porque, de certo modo, está aí o nó da questão. Sem embargo da parte que toca à atividade humana na elaboração desta Doutrina, a iniciativa da obra pertence aos Espíritos, porém não a constitui a opinião pessoal de nenhum deles. Ela é, e não pode deixar de ser, a resultante do ensino coletivo e concorde por eles dado. Somente sob tal condição se lhe pode chamar Doutrina dos Espíritos. Doutra forma, não seria mais do que a doutrina de um Espírito e então teria o valor de uma opinião pessoal. Generalidade e concordância no ensino, esse o caráter essencial da Doutrina, a condição mesma da sua existência, donde resulta que todo princípio que ainda não haja recebido a consagração do controle da generalidade não pode ser considerado parte integrante dessa mesma doutrina. Será uma simples opinião isolada, da qual não pode o Espiritismo assumir a responsabilidade. Essa coletividade concordante da opinião dos Espíritos, passada, ademais, pelo critério da lógica, é que constitui a força da Doutrina Espírita e lhe assegura a perpetuidade. Para que ela mudasse, fora mister que a universalidade dos Espíritos mudasse de opinião e viesse um dia dizer o contrário do que tem dito. Pois que ela tem sua fonte de origem no ensino dos Espíritos; para que sucumbisse seria necessário que os Espíritos deixassem de existir. É também o que fará que prevaleça sobre todos os sistemas pessoais, cujas raízes não se encontram por toda parte, como com ela se dá. O livro dos espíritos só teve consolidado o seu crédito por ser a expressão de um pensamento coletivo, geral. Em abril de 1867, completou o seu primeiro período decenal. Nesse intervalo, os princípios fundamentais, cujas bases o livro assentara, foram sucessivamente completados e desenvolvidos, por virtude da progressividade do ensino dos Espíritos. Nenhum, porém, recebeu desmentido da experiência; todos, sem exceção, permaneceram de pé, mais vivazes do que nunca, enquanto, de todas as ideias contraditórias que alguns tentaram opor-lhe, nenhuma prevaleceu, precisamente porque, de todos os lados, era ensinado o contrário. Este o resultado característico que podemos proclamar sem vaidade, pois que jamais nos atribuímos o mérito de tal fato. Os mesmos escrúpulos havendo presidido à redação das nossas outras obras, podemos, com toda verdade, dizê-las segundo o Espiritismo, porque estamos certos da conformidade delas com o ensino geral dos Espíritos. O mesmo sucede com esta, que podemos, por motivos semelhantes, apresentar como complemento das que a precederam, com exceção, todavia, de algumas teorias ainda hipotéticas, que tivemos o cuidado de indicar como tais e que devem ser consideradas simples opiniões pessoais, enquanto não forem confirmadas ou contraditadas, a fim de que não pese sobre a Doutrina a responsabilidade delas. [^1] Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, sem dúvida, em forma de esboços, a maioria das ideias desenvolvidas aqui nesta obra, conforme o fizemos com relação às anteriores. A Revista, muita vez, representa para nós um terreno de ensaio, destinado a sondar a opinião dos homens e dos Espíritos sobre alguns princípios, antes de os admitir como partes constitutivas da Doutrina.
+Esta nova obra é mais um passo dado para as consequências e aplicações do Espiritismo. Conforme seu título o indica, tem ela por objeto o estudo dos três pontos até hoje diversamente interpretados e comentados: a Gênese, os milagres e as predições em suas relações com as novas leis que decorrem da observação dos fenômenos espíritas. 
 
-## 1
+Dois elementos, ou, se quiserdes, duas forças regem o universo: o elemento espiritual e o material. Da ação simultânea desses dois princípios nascem fenômenos especiais, naturalmente inexplicáveis, desde que se abstraia de um deles, do mesmo modo que a formação da água seria inexplicável, se se abstraísse de um dos seus elementos constituintes: o oxigênio e o hidrogênio. 
 
-### 1.01
+Demonstrando a existência do mundo espiritual e suas relações com o mundo material, o Espiritismo fornece o esclarecimento de uma imensidade de fenômenos incompreendidos e considerados, por isso mesmo, inadmissíveis, por uma certa classe de pensadores. Abundam nas Escrituras esses fatos e, por desconhecerem a lei que os rege, é que os comentadores dos dois campos opostos, girando sempre dentro do mesmo círculo de ideias, fazendo, uns, abstração dos dados positivos da ciência, outros, do princípio espiritual, não conseguiram chegar a uma solução racional. 
+
+Essa solução se encontra na ação recíproca entre o Espírito e a matéria. É exato que ela tira à maioria de tais fatos o caráter de sobrenatural. Porém, que é o que vale mais: admiti-los como resultado das leis da natureza, ou rejeitá-los completamente? Sua rejeição absoluta arrasta a da própria base do edifício, ao passo que a admissão a tal título, suprimindo-se apenas os acessórios, deixa intacta a base. Tal a razão por que o Espiritismo conduz tantas pessoas à crença em verdades que elas antes consideravam meras utopias. 
+
+Esta obra é, pois, como já o dissemos, um complemento das aplicações do Espiritismo, de um ponto de vista especial. Os materiais se achavam prontos, ou, pelo menos, elaborados desde longo tempo; mas ainda não chegara o momento de serem publicados. Era preciso, primeiramente, que as ideias destinadas a lhes servirem de base houvessem atingido a maturidade e, além disso, também se fazia mister levar em conta a oportunidade das circunstâncias. O Espiritismo não tem mistérios, nem teorias secretas; tudo nele é revelado claramente, a fim de que todos o possam julgar com conhecimento de causa. Cada coisa, entretanto, tem que vir a seu tempo, para vir com segurança. Uma solução dada precipitadamente, primeiro que a elucidação completa da questão, seria antes causa de atraso do que de avanço. A importância do assunto que aqui tratamos nos impunha o dever de evitar qualquer precipitação. 
+
+Antes de entrarmos em matéria, pareceu-nos necessário definir claramente os papéis respectivos dos Espíritos e dos homens na elaboração da nova doutrina. Essas considerações preliminares, que a escoimam de toda ideia de misticismo, fazem objeto do primeiro capítulo, intitulado: Caráter da revelação espírita. Pedimos séria atenção para esse ponto, porque, de certo modo, está aí o nó da questão. 
+
+Sem embargo da parte que toca à atividade humana na elaboração desta Doutrina, a iniciativa da obra pertence aos Espíritos, porém não a constitui a opinião pessoal de nenhum deles. Ela é, e não pode deixar de ser, a resultante do ensino coletivo e concorde por eles dado. Somente sob tal condição se lhe pode chamar Doutrina dos Espíritos. Doutra forma, não seria mais do que a doutrina de um Espírito e então teria o valor de uma opinião pessoal. 
+
+Generalidade e concordância no ensino, esse o caráter essencial da Doutrina, a condição mesma da sua existência, donde resulta que todo princípio que ainda não haja recebido a consagração do controle da generalidade não pode ser considerado parte integrante dessa mesma doutrina. Será uma simples opinião isolada, da qual não pode o Espiritismo assumir a responsabilidade. 
+
+Essa coletividade concordante da opinião dos Espíritos, passada, ademais, pelo critério da lógica, é que constitui a força da Doutrina Espírita e lhe assegura a perpetuidade. Para que ela mudasse, fora mister que a universalidade dos Espíritos mudasse de opinião e viesse um dia dizer o contrário do que tem dito. Pois que ela tem sua fonte de origem no ensino dos Espíritos; para que sucumbisse seria necessário que os Espíritos deixassem de existir. É também o que fará que prevaleça sobre todos os sistemas pessoais, cujas raízes não se encontram por toda parte, como com ela se dá. 
+
+O Livro dos Espíritos só teve consolidado o seu crédito por ser a expressão de um pensamento coletivo, geral. Em abril de 1867, completou o seu primeiro período decenal. Nesse intervalo, os princípios fundamentais, cujas bases o livro assentara, foram sucessivamente completados e desenvolvidos, por virtude da progressividade do ensino dos Espíritos. Nenhum, porém, recebeu desmentido da experiência; todos, sem exceção, permaneceram de pé, mais vivazes do que nunca, enquanto, de todas as ideias contraditórias que alguns tentaram opor-lhe, nenhuma prevaleceu, precisamente porque, de todos os lados, era ensinado o contrário. Este o resultado característico que podemos proclamar sem vaidade, pois que jamais nos atribuímos o mérito de tal fato. 
+
+Os mesmos escrúpulos havendo presidido à redação das nossas outras obras, podemos, com toda verdade, dizê-las segundo o Espiritismo, porque estamos certos da conformidade delas com o ensino geral dos Espíritos. O mesmo sucede com esta, que podemos, por motivos semelhantes, apresentar como complemento das que a precederam, com exceção, todavia, de algumas teorias ainda hipotéticas, que tivemos o cuidado de indicar como tais e que devem ser consideradas simples opiniões pessoais, enquanto não forem confirmadas ou contraditadas, a fim de que não pese sobre a Doutrina a responsabilidade delas. [^1] 
+
+Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, sem dúvida, em forma de esboços, a maioria das ideias desenvolvidas aqui nesta obra, conforme o fizemos com relação às anteriores. A Revista, muita vez, representa para nós um terreno de ensaio, destinado a sondar a opinião dos homens e dos Espíritos sobre alguns princípios, antes de os admitir como partes constitutivas da Doutrina.
+
+## 1. 🗃️ A Gênese segundo o Espiritismo
+
+### 1-01. 🗂️ Caráter da revelação espírita 
 
 ######  01
 
@@ -308,7 +339,7 @@ Qual, então, a utilidade dessas manifestações, ou, se o preferirem, dessa rev
 
 Uma comparação vulgar tornará ainda melhor compreensível a situação. Parte para destino longínquo um navio carregado de emigrantes. Leva homens de todas as condições, parentes e amigos dos que ficam. Vem-se a saber que esse navio naufragou. Nenhum vestígio resta dele, nenhuma notícia chega sobre a sua sorte. Acredita-se que todos os passageiros pereceram e o luto penetra em todas as suas famílias. Entretanto, a equipagem inteira, sem faltar um único homem, foi ter a uma ilha desconhecida, abundante e fértil, onde todos passam a viver ditosos, sob um céu clemente. Ninguém, todavia, sabe disso. Ora, um belo dia, outro navio aporta a essa terra e lá encontra sãos e salvos os náufragos. A feliz nova se espalha com a rapidez do relâmpago. Exclamam todos: “Não estão perdidos os nossos amigos!” E rendem graças a Deus. Não podem ver-se uns aos outros, mas correspondem-se; permutam demonstrações de afeto e assim a alegria substitui a tristeza. Tal a imagem da vida terrena e da vida de além-túmulo, antes e depois da revelação moderna. A última, semelhante ao segundo navio, nos traz a boa-nova da sobrevivência dos que nos são caros e a certeza de que a eles nos reuniremos um dia. Deixa de existir a dúvida sobre a sorte deles e a nossa. O desânimo se desfaz diante da esperança. Outros resultados fecundam essa revelação. Achando madura a humanidade para penetrar o mistério do seu destino e contemplar, a sangue-frio, novas maravilhas, permitiu Deus fosse erguido o véu que ocultava o mundo invisível ao mundo visível. Nada têm de extra-humanas as manifestações; é a humanidade espiritual que vem conversar com a humanidade corporal e dizer-lhe: “Nós existimos, logo, o nada não existe; eis o que somos e o que sereis; o futuro vos pertence, como a nós. Caminhais nas trevas, vimos clarear-vos o caminho e traçar-vos o roteiro; andais ao acaso, vimos apontar-vos a meta. A vida terrena era, para vós, tudo, porque nada víeis além dela; vimos dizer-vos, mostrando a vida espiritual: a vida terrestre nada é. A vossa visão se detinha no túmulo, nós vos desvendamos, para lá deste, um esplêndido horizonte. Não sabíeis por que sofreis na Terra; agora, no sofrimento, vedes a justiça de Deus. O bem nenhum fruto aparente produzia para o futuro. Doravante, ele terá uma finalidade e constituirá uma necessidade; a fraternidade, que não passava de bela teoria, assenta agora numa lei da natureza. Sob o domínio da crença de que tudo acaba com a vida, a imensidade é o vazio, o egoísmo reina soberano entre vós e a vossa palavra de ordem é: ‘Cada um por si.’ Com a certeza do porvir, os espaços infinitos se povoam ao infinito, em parte alguma há o vazio e a solidão; a solidariedade liga todos os seres aquém e além da tumba. É o reino da caridade, sob a divisa: ‘Um por todos e todos por um.’ Enfim, ao termo da vida, dizíeis eterno adeus aos que vos são caros; agora, dir-lhes-eis: ‘Até breve!’” Tais são, em resumo, os resultados da revelação nova, que veio encher o vácuo que a incredulidade cavara, levantar os ânimos abatidos pela dúvida ou pela perspectiva do nada e imprimir a todas as coisas uma razão de ser. Carecerá de importância esse resultado, apenas porque os Espíritos não vêm resolver os problemas da Ciência, dar saber aos ignorantes e aos preguiçosos os meios de se enriquecerem sem trabalho? Nem só, entretanto, à vida futura dizem respeito os frutos que o homem deve colher da nova revelação. Ele os saboreará na Terra, pela transformação que estas novas crenças hão de necessariamente operar no seu caráter, nos seus gostos, nas suas tendências e, por conseguinte, nos hábitos e nas relações sociais. Pondo fim ao reino do egoísmo, do orgulho e da incredulidade, as novas crenças preparam o do bem, que é o reino de Deus, anunciado pelo Cristo. [^16]
 
-### 1.02
+### 1-02. 🗂️ Deus
 
 ######  Existência de Deus
 
@@ -466,7 +497,7 @@ Nenhum homem, conseguintemente, pode ver a Deus com os olhos da carne. Se essa g
 
 Sob que aparência se apresenta Deus aos que se tornaram dignos de vê-lo? Será sob uma forma qualquer? Sob uma figura humana, ou como um foco de resplendente luz? A linguagem humana é impotente para dizê-lo, porque não existe para nós nenhum ponto de comparação capaz de nos facultar uma ideia de tal coisa. Somos quais cegos de nascença a quem procurassem inutilmente fazer compreendessem o brilho do Sol. A nossa linguagem é limitada pelas nossas necessidades e pelo círculo das nossas ideias; a dos selvagens não poderia descrever as maravilhas da civilização; a dos povos mais civilizados é extremamente pobre para descrever os esplendores dos céus, a nossa inteligência muito restrita para os compreender e a nossa vista, por muito fraca, ficaria deslumbrada.
 
-### 1.03
+### 1-03. 🗂️ O bem e o mal
 
 ######  Origem do bem e do mal
 
@@ -571,7 +602,7 @@ Há também considerações morais de ordem elevada. É necessária a luta para 
 
 Nos seres inferiores da Criação, naqueles a quem ainda falta o senso moral, nos quais a inteligência ainda não substituiu o instinto, a luta não pode ter por móvel senão a satisfação de uma necessidade material. Ora, uma das mais imperiosas dessas necessidades é a da alimentação. Eles, pois, lutam unicamente para viver, isto é, para fazer ou defender uma presa, visto que nenhum móvel mais elevado os poderia estimular. É nesse primeiro período que a alma se elabora e ensaia para a vida. No homem, há um período de transição em que ele mal se distingue do bruto. Nas primeiras idades, domina o instinto animal e a luta ainda tem por móvel a satisfação das necessidades materiais. Mais tarde, contrabalançam-se o instinto animal e o sentimento moral; luta então o homem, não mais para se alimentar, porém, para satisfazer à sua ambição, ao seu orgulho, a sua necessidade de dominar. Para isso, ainda lhe é preciso destruir. Todavia, à medida que o senso moral prepondera, desenvolve-se a sensibilidade, diminui a necessidade de destruir, acaba mesmo por desaparecer, por se tornar odiosa essa necessidade. O homem ganha horror ao sangue. Contudo, a luta é sempre necessária ao desenvolvimento do Espírito, pois, mesmo chegando a esse ponto, que nos parece culminante, ele ainda está longe de ser perfeito. Só à custa de sua atividade que o Espírito adquire conhecimento, experiência e se despoja dos últimos vestígios da animalidade. Mas, nessa ocasião, a luta, de sangrenta e brutal que era, se torna puramente intelectual. O homem luta contra as dificuldades, não mais contra os seus semelhantes. [^23]
 
-### 1.04
+### 1-04. 🗂️ Papel da Ciência na Gênese
 
 ######  01
 
@@ -641,7 +672,7 @@ Até o presente, o estudo do princípio espiritual, compreendido na Metafísica,
 
 Estando o mundo espiritual e o mundo material em incessante contato, os dois são solidários um com o outro; ambos têm a sua parcela de ação na Gênese. Sem o conhecimento das leis que regem o primeiro, tão impossível seria constituir-se uma Gênese completa, quanto a um estatuário dar vida a uma estátua. Somente agora, conquanto nem a Ciência material, nem a Ciência espiritual hajam dito a última palavra, possui o homem os dois elementos próprios a lançar luz sobre esse imenso problema. Eram-lhe absolutamente indispensáveis essas duas chaves para chegar a uma solução, ainda que aproximativa.
 
-### 1.05
+### 1-05. 🗂️ Antigos e modernos sistemas do mundo
 
 ######  01
 
@@ -699,7 +730,7 @@ A partir de Copérnico e Galileu, as velhas cosmogonias jamais foram destruídas
 
 Estava desde então aberto o caminho em que ilustres e numerosos sábios iam entrar, a fim de completarem a obra encetada. Na Alemanha, Kepler descobre as célebres leis que lhe conservam o nome e por meio das quais se reconhece que as órbitas que os planetas descrevem não são circulares, mas elipses, das quais o sol ocupa um dos focos. Newton, na Inglaterra, descobre a lei da gravitação universal. Laplace, na França, cria a mecânica celeste. Finalmente, a Astronomia deixa de ser um sistema fundado em conjeturas ou probabilidades e torna-se uma ciência assente nas mais rigorosas bases, as do cálculo e da geometria. Fica assim lançada uma das pedras fundamentais da Gênese, cerca de 3.300 anos depois de Moisés.
 
-### 1.06
+### 1-06. 🗂️ Uranografia geral
 
 ######  01
 
@@ -1072,29 +1103,29 @@ Não vejais, pois, em torno de cada um dos sóis do espaço, apenas sistemas pla
 
 Do fato de que a vossa natureza animada começa no zoófito para terminar no homem, de que a atmosfera alimenta a vida terrestre, de que o elemento líquido a renova incessantemente, de que as vossas estações fazem se sucedam nessa vida os fenômenos que as distinguem, não concluais que os milhões e milhões de terras que rolam pela amplidão sejam semelhantes à que habitais. Longe disso, aquelas diferem, de acordo com as diversas condições que lhes foram prescritas e de acordo com o papel que a cada uma coube no cenário do mundo. São pedrarias variegadas de um imenso mosaico, as diversificadas flores de admirável parque.
 
-### 1.07
+### 1-07. 🗂️ Esboço geológico da Terra
 
 #### Períodos geológicos
 
-######  GEN-1-07-p1
+###### 01
 
 A Terra conserva em si os traços evidentes da sua formação. Acompanham-se-lhe as fases com precisão matemática, nos diferentes terrenos que lhe constituem o arcabouço. O conjunto desses estudos forma a ciência chamada Geologia, ciência nascida neste século (XIX) e que projetou luz sobre a tão controvertida questão da origem do globo terreno e da dos seres vivos que o habitam. Neste ponto, não há simples hipótese; há o resultado rigoroso da observação dos fatos e, diante dos fatos, nenhuma dúvida se justifica. A história da formação da Terra está escrita nas camadas geológicas, de maneira bem mais certa do que nos livros preconcebidos, porque é a própria natureza que fala, que se põe a nu, e não a imaginação dos homens a criar sistemas. Desde que se notem traços de fogo, pode dizer-se com certeza que houve fogo ali; onde se vejam os da água, pode dizer-se que a água ali esteve; desde que se observem os de animais, pode dizer-se que viveram aí animais. A Geologia é, pois, uma ciência toda de observação; só tira deduções do que vê; sobre os pontos duvidosos, nada afirma; não emite opiniões discutíveis, por esperar de observações mais completas a solução procurada. Sem as descobertas da Geologia, como sem as da Astronomia, a Gênese do mundo ainda estaria nas trevas da lenda. Graças a elas, o homem conhece hoje a história da sua habitação, tendo desmoronado, para não mais tornar a erguer-se, a estrutura de fábulas que lhe rodeavam o berço.
 
-######  GEN-1-07-p2
+###### 02
 
 Em todos os terrenos onde existam valas, escavações naturais ou praticadas pelo homem, nota-se o a que se chama estratificações, isto é, camadas superpostas. Os que apresentam essa disposição se designam pelo nome de terrenos estratificados. Essas camadas, de espessura que varia desde alguns centímetros até 100 metros e mais, se distinguem entre si pela cor e pela natureza das substâncias de que se compõem. Os trabalhos de arte, a perfuração de poços, a exploração de pedreiras e, sobretudo, de minas facultaram observá-las até grande profundidade. 
 
-######  GEN-1-07-p3
+###### 03
 
 São em geral homogêneas as camadas, isto é, cada uma constituída da mesma substância, ou de substâncias diversas, mas que existiram juntas e formaram um todo compacto. A linha de separação que as isola umas das outras é sempre nitidamente sulcada, como nas fiadas de uma construção. Em nenhuma parte se apresentam misturadas e sumidas umas nas outras, nos pontos de seus respectivos limites, como se dá, por exemplo, com as cores do prisma e do arco-íris. Por esses caracteres, reconhece-se que elas se formaram sucessivamente, depositando-se uma sobre outra, em condições e por causas diferentes. As mais profundas são, naturalmente, as que se formaram em primeiro lugar, tendo-se formado posteriormente as mais superficiais. A última de todas, a que se acha na superfície, é a camada da terra vegetal, que deve suas propriedades aos detritos de matérias orgânicas provenientes das plantas e dos animais.
 
-######  GEN-1-07-p4
+###### 04
 
 As camadas inferiores, colocadas abaixo da camada vegetal, receberam em Geologia o nome de rochas, palavra que, nessa acepção, nem sempre implica a ideia de uma substância pedrosa, significando antes um leito ou banco feito de uma substância mineral qualquer. Umas são formadas de areia, de argila ou de terra argilosa, de marna, de seixos rolados; outras o são de pedras propriamente ditas, mais ou menos duras, tais como os grés, os mármores, o cré, os calcários ou pedras calcárias, as pedras molares, ou carvões de pedra, os asfaltos etc. Diz-se que uma rocha é mais ou menos possante conforme é mais ou menos considerável a sua espessura. 
 
 Mediante o exame da natureza dessas rochas ou camadas, reconhece-se, por sinais certos, que umas provêm de matérias fundidas e, às vezes, vitrificadas sob a ação do fogo; outras, de substâncias terrosas depostas pelas águas; algumas de tais substâncias se conservaram desagregadas, como as areias; outras, a princípio em estado pastoso, sob a ação de certos agentes químicos ou por outras causas, endureceram e adquiriram, com o tempo, a consistência da pedra. Os bancos de pedras superpostas denunciam depósitos sucessivos. O fogo e a água participaram, pois, da formação dos materiais que compõem o arcabouço sólido do globo terráqueo.
 
-######  GEN-1-07-p5
+###### 05
 
 A posição normal das camadas terrosas ou pedregosas, provenientes de depósitos aquosos, é a horizontal. Ao vermos essas planícies imensas, que por vezes se estendem a perder de vista, de perfeita horizontalidade, lisas como se as tivessem nivelado com um rolo compressor, ou esses vales profundos, tão planos como a superfície de um lago, podemos estar certos de que, em época mais ou menos afastada, tais lugares estiveram por longo tempo cobertos de águas tranquilas que, ao se retirarem, deixaram em seco as terras que elas depositaram enquanto ali permaneceram. Retiradas as águas, essas terras se cobriram de vegetação. Se, em vez de terras gordas [^50], limosas, argilosas, ou marnosas [^51], próprias a assimilar os princípios nutritivos, as águas apenas depositaram areias silicosas, sem agregação, temos as planícies arenosas que constituem as charnecas e os desertos, dos quais nos podem dar pequena ideia os depósitos que ficam das inundações parciais e os que formam as aluviões na embocadura dos rios.
 
@@ -1102,13 +1133,13 @@ A posição normal das camadas terrosas ou pedregosas, provenientes de depósito
 
 [^51]: N.E.: Solos de calcário e argila, usados em olarias e como corretivo de terras agrícolas
 
-######  GEN-1-07-p6
+###### 06
 
 Conquanto a horizontal seja a posição mais generalizada e a que normalmente assumem as formações aquosas, não é raro verem-se, nos países montanhosos e em extensões bem grandes, rochas duras, cuja natureza indica que foram formadas em posição inclinada e, até por vezes, vertical. Ora, como, segundo as leis de equilíbrio dos líquidos e da gravidade, os depósitos aquosos somente em planos horizontais podem formar-se, pois os que se formam sobre planos inclinados são arrastados pelas correntes e pelo próprio peso para as baixadas, evidente se torna que tais depósitos foram levantados por uma força qualquer, depois de se terem solidificado ou transformado em pedras.
 
 Destas considerações se pode concluir, com certeza, que todas as camadas pedrosas que, provindo de depósitos aquosos, se encontram em posição perfeitamente horizontal, foram formadas, durante séculos, por águas tranquilas e que, todas as vezes que se achem em posição inclinada, o solo foi convulsionado e deslocado posteriormente, por subversões gerais ou parciais, mais ou menos consideráveis.
 
-######  GEN-1-07-p7
+###### 07
 
 Um fato característico e da mais alta importância, pelo testemunho irrecusável que oferece, consiste no existirem, em quantidades enormes, despojos fósseis de animais e vegetais, dentro das diferentes camadas. Como esses despojos se encontram até nas mais duras pedras, há de concluir-se que a existência de tais seres é anterior à formação das aludidas pedras. Ora, se levarmos em conta o prodigioso número de séculos que foram necessários para que se lhes produzisse o endurecimento e para que elas alcançassem o estado em que se acham desde tempos imemoriais, chega-se forçosamente à conclusão de que o aparecimento de seres orgânicos na Terra se perde na noite das idades e é muito anterior, por conseguinte, à data que lhes assina a Gênese. [^52], [^53]
 
@@ -1122,11 +1153,11 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^53]: N.E.: Sabemos que as primeiras formas de vida (bactérias e algas azul-esverdeadas) surgiram há cerca de 3.500 milhões de anos, e há 570 milhões de anos as plantas e os animais complexos começaram a se desenvolver.
 
-######  GEN-1-07-p8
+###### 08
 
 Entre os despojos de vegetais e animais, alguns há que se mostram penetrados em todos os pontos de sua substância, sem que isso lhes alterasse a forma, de matérias silicosas ou calcárias que os transformaram em pedras, algumas das quais apresentam a dureza do mármore. São as petrificações propriamente ditas. Outros foram apenas envolvidos pela matéria no estado de flacidez; são encontrados intactos e, alguns, inteiros, nas mais duras pedras. Outros, finalmente, apenas deixaram marcas, mas de uma nitidez e uma delicadeza perfeitas. No interior de certas pedras, encontraram-se até marcas de passos e, pela forma do pé, dos dedos e das unhas, chegou-se a reconhecer a espécie animal a que pertenceram.
 
-######  GEN-1-07-p9
+###### 09
 
 Os fósseis de animais absolutamente não contêm, e isso é fácil de conceber-se, senão as partes sólidas e resistentes, isto é, as ossaturas, as escamas e os cornos; são, não raro, esqueletos completos; as mais das vezes, no entanto, são apenas partes destacadas, que a procedência facilmente se reconhece. Examinando-se uma queixada, um dente, logo se vê se pertence a um animal herbívoro ou carnívoro. Como todas as partes do animal guardam necessária correlação, a forma da cabeça, de uma omoplata, de um osso da perna, de um pé, basta para determinar o porte, a forma geral, o gênero de vida do animal. [^54] Os animais terrestres têm uma organização que não permite sejam confundidos com os animais aquáticos. 
 
@@ -1134,33 +1165,33 @@ São extremamente numerosos os peixes e os moluscos testáceos fósseis; só est
 
 [^54]: Nota de Allan Kardec: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
 
-######  GEN-1-07-p10
+###### 10
 
 Os seixos rolados, que em certos lugares formam rochas formidáveis, constituem inequívoco indício da origem deles. São arredondados como os calhaus de beira-mar, sinal certo do atrito que sofreram, por efeito das águas. As regiões onde eles se encontram enterrados, em massas consideráveis, foram incontestavelmente ocupadas pelo oceano, ou, durante longo tempo, por outras águas movediças, ou violentamente agitadas.
 
-######  GEN-1-07-p11
+###### 11
 
 Além disso, os terrenos das diversas formações se caracterizam pela natureza mesma dos fósseis que encerram. As mais antigas contêm espécies animais ou vegetais que desapareceram inteiramente da superfície do planeta. Também desapareceram algumas espécies mais recentes; conservaram-se, porém, outras análogas, que apenas diferem daquelas pelo porte e por alguns matizes de forma. Outras, finalmente, cujos últimos representantes ainda vemos, tendem evidentemente a desaparecer em futuro mais ou menos próximo, tais como os elefantes, os rinocerontes, os hipopótamos etc. Assim, à medida que as camadas terrestres se aproximam da nossa época, as espécies animais e vegetais também se aproximam das que hoje existem. 
 
 As perturbações, os cataclismos que se produziram na Terra, desde a sua origem, lhe mudaram as condições de aptidão para entretenimento da vida e fizeram desaparecessem gerações inteiras de seres vivos.
 
-######  GEN-1-07-p12
+###### 12
 
 Interrogando-se a natureza das camadas geológicas, vem-se a saber, de modo mais positivo, se, na época de sua formação, a região onde elas se apresentam era ocupada pelo mar, pelos lagos, ou por florestas e planícies povoadas de animais terrestres. Conseguintemente, se, numa mesma região, se encontra uma série de camadas superpostas, contendo alternativamente fósseis marinhos, terrestres e de água doce, muitas vezes repetidas, constitui esse fato prova irrecusável de que essa região foi muitas vezes invadida pelo mar, coberta de lagos e posta a seco. 
 
 E quantos séculos de séculos, certamente, quantos milhares de séculos, talvez, não foram precisos para que cada período se completasse! Que força poderosa não foi necessária para deslocar e recolocar o oceano, levantar montanhas! Por quantas revoluções físicas, comoções violentas não teve a Terra de passar, antes de ser qual a vemos desde os tempos históricos! E querer-se que tudo isso fosse obra executada em menos tempo do que o que leva uma planta para germinar!
 
-######  GEN-1-07-p13
+###### 13
 
 O estudo das camadas geológicas atesta, como já se disse, formações sucessivas, que mudaram o aspecto do Globo e lhe dividem a história em muitas épocas, que constituem os chamados períodos geológicos, cujo conhecimento é essencial para a determinação da Gênese. São em número de seis os principais, designados pelos nomes de períodos primário, de transição, secundário, terciário, diluviano, pós-diluviano ou atual. Os terrenos formados durante cada período também se chamam: terrenos primitivos, de transição, secundários etc. Diz-se, pois, que tal ou tal camada ou rocha, tal ou tal fóssil se encontram nos terrenos de tal ou tal período.
 
-######  GEN-1-07-p14
+###### 14
 
 Cumpre se note que o número desses períodos não é absoluto, pois depende dos sistemas de classificação. Nos seis principais, mencionados acima, só se compreendem os que estão assinalados por uma mudança notável e geral no estado do planeta; mas a observação prova que muitas formações sucessivas se operaram, enquanto durou cada um deles. Por isso é que são divididos em seis períodos caracterizados pela natureza dos terrenos e que elevam a vinte e seis o número das formações gerais bem assinaladas, sem contar os que provêm de modificações devidas a causas puramente locais.
 
 ##### Estado primitivo do globo [^55]
 
-######  GEN-1-07-p15
+###### 15
 
 O achatamento dos polos e outros fatos concludentes são indícios certos de que o estado da Terra, na sua origem, deve ter sido o de fluidez ou de flacidez, estado esse oriundo de se achar a matéria ou liquefeita pela ação do fogo, ou diluída pela da água. 
 
@@ -1168,9 +1199,9 @@ Costuma-se dizer, proverbialmente: não há fumaça sem fogo. Rigorosamente verd
 
 O calor, cujo aumento é progressivo à medida que se penetra no interior da Terra e que, a certa profundidade, chega a uma temperatura altíssima; as fontes térmicas, tanto mais quentes, quanto mais profunda lhes está a nascente; os fogos e as massas de matéria fundida esbraseada que os vulcões vomitam, como por vastos respiradouros, ou pelas fendas que alguns tremores de terra abrem, não deixam dúvida sobre a existência de um fogo interior.
 
-######  GEN-1-07-p16
+###### 16
 
-A experiência demonstra que a temperatura se eleva de um grau a cada 30 metros de profundidade, donde se segue que, a uma profundidade de 300 metros, o aumento é de 10 graus; a 3.000 metros, de 100 graus, temperatura da água a ferver; a 30.000 metros, ou seja, 7 ou 8 léguas, de 1.000 graus; a 25 léguas, de mais de 3.300 graus, temperatura a que nenhuma matéria conhecida resiste à fusão. Daí ao centro, ainda há um espaço de mais de 1.400 léguas, ou 2.800 léguas em diâmetro, espaço que seria ocupado por matérias fundidas.
+A experiência demonstra que a temperatura se eleva de um grau a cada 30 metros de profundidade, donde se segue que, a uma profundidade de 300 metros, o aumento é de 10 graus; a 3.000 metros, de 100 graus, temperatura da água a ferver; a 30.000 metros, ou seja, 7 ou 8 léguas, de 1-000 graus; a 25 léguas, de mais de 3.300 graus, temperatura a que nenhuma matéria conhecida resiste à fusão. Daí ao centro, ainda há um espaço de mais de 1.400 léguas, ou 2.800 léguas em diâmetro, espaço que seria ocupado por matérias fundidas.
 
 Conquanto não haja aí mais do que uma conjetura, julgando da causa pelo efeito, tem ela todos os caracteres da probabilidade e leva à conclusão de que a Terra ainda é uma massa incandescente recoberta de uma crosta sólida da espessura de 25 léguas no máximo, o que é apenas a 120a parte do seu diâmetro. Proporcionalmente, seria muito menos do que a espessura da mais delgada casca de laranja. 
 
@@ -1178,13 +1209,13 @@ Aliás, é muito variável a espessura da crosta terrestre, porquanto há zonas,
 
 [^56]: N.E.: Estima-se que a espessura da crosta seja de 6km no leito dos oceanos e 40km na crosta continental.
 
-######  GEN-1-07-p17
+###### 17
 
 Assim sendo, evidente se torna que o primitivo estado de fluidez ou de flacidez da Terra há de ter tido como causa a ação do calor e não a da água. Em sua origem, pois, a Terra era uma massa incandescente. Em virtude da irradiação do calórico [^57], deu-se o que se dá com toda matéria em fusão: ela esfriou pouco a pouco, principiando o resfriamento, como era natural, pela superfície, que então endureceu, ao passo que o interior se conservou fluido. Pode-se assim comparar a Terra a um bloco de carvão ao sair ígneo da fornalha e que sua superfície se apaga e resfria, ao contato do ar, mantendo-se-lhe o interior em estado de ignição, conforme se verificará, quebrando-o.
 
 [^57]: N.E.: Teoria Calórica é uma teoria obsoleta que supunha a existência de um fluido invisível e inodoro, chamado calórico, que todos os corpos conteriam em quantidades determinadas em sua composição, era considerado o causador das alterações de temperatura até metade do século XIX. Quanto maior fosse a temperatura de um corpo, maior seria a sua quantidade de calórico, limitada, para cada corpo, a uma quantidade finita. A teoria do calórico explicava o comportamento dos gases e do vapor em termos de uma distinção entre o estado livre e latente do calor. Calor livre podia ser sentido e medido por termômetros; calor latente, por estar intimamente ligado com as ligações da moléculas, não poderia.
 
-######  GEN-1-07-p18
+###### 18
 
 Na época em que o globo terrestre era uma massa incandescente, não continha nenhum átomo a mais, nem a menos do que hoje [^58]; apenas, sob a influência da alta temperatura, a maior parte das substâncias que a compõem e que vemos sob a forma de líquidos ou de sólidos, de terras, de pedras, de metais e de cristais se achavam em estado muito diferente. Sofreram unicamente uma transformação. Em consequência do resfriamento, os elementos formaram novas combinações. O ar, enormemente dilatado, decerto se estendia a uma distância imensa; toda a água, forçosamente transformada em vapor, se encontrava misturada com o ar; todas as matérias suscetíveis de se volatilizarem, tais como os metais, o enxofre, o carbono, se achavam em estado de gás. O da atmosfera nada tinha, portanto, de comparável ao que é hoje; a densidade de todos esses vapores lhe dava uma opacidade que nenhum raio de sol podia atravessar. Se nessa época um ser vivo pudesse existir na superfície do planeta, apenas seria iluminado pelos revérberos sinistros da fornalha que lhe estava sob os pés e da atmosfera esbraseada; ele nem sequer suspeitaria da existência do Sol.
 
@@ -1192,7 +1223,7 @@ Na época em que o globo terrestre era uma massa incandescente, não continha ne
 
 ##### Período primário [^59]
 
-######  GEN-1-07-p19
+###### 19
 
 O primeiro efeito do resfriamento foi a solidificação da superfície exterior da massa em fusão e a formação aí de uma crosta resistente que, delgada a princípio, gradativamente se espessou. Essa crosta constitui a pedra chamada granito, de extrema dureza, assim denominada pelo seu aspecto granuloso. Nela se distinguem três substâncias principais: o feldspato, o quartzo ou cristal de rocha e a mica. Esta última tem brilho metálico, embora não seja um metal. 
 
@@ -1200,7 +1231,7 @@ A camada granítica foi, pois, a primeira que se formou no globo, é a que o env
 
 [^59]: N.E.: Refere-se à parte da Era Pré-Cambriana, de acordo com a Escala de Tempo Geológico moderna. 
 
-######  GEN-1-07-p20
+###### 20
 
 O efeito seguinte do resfriamento foi a liquefação de algumas matérias contidas no ar em estado de vapor, as quais se precipitaram na superfície do solo. Houve então chuvas e lagos de enxofre e de betume, verdadeiros regatos de ferro, cobre, chumbo e outros metais fundidos. Infiltrando-se pelas fissuras, essas matérias constituíram os veios e filões metálicos. 
 
@@ -1210,7 +1241,7 @@ Vieram, a seguir, as águas que, caindo sobre um solo ardente, se vaporizavam de
 
 É a formação dos terrenos graníticos que dá começo à série dos períodos geológicos, aos quais conviria se acrescentasse o do estado primitivo, de incandescência do globo.
 
-######  GEN-1-07-p21
+###### 21
 
 Tal o aspecto do primeiro período, verdadeiro caos de todos os elementos confundidos, à procura de estabilização, período em que nenhum ser vivo podia existir. Por isso mesmo, um de seus caracteres distintivos, em Geologia, é a ausência de qualquer vestígio de vida vegetal ou animal. 
 
@@ -1220,7 +1251,7 @@ Impossível se torna assinar duração determinada a esse período, do mesmo mod
 
 ##### Período de transição [^61]
 
-######  GEN-1-07-p22
+###### 22
 
 No começo do período de transição, ainda pequena era a espessura da sólida crosta granítica, que, portanto, resistência muito fraca oferecia à efervescência das matérias enfogadas que ela cobria e comprimia. Produziam-se, pois, intumescências, despedaçamentos numerosos, por onde se escapava a lava interior. O solo apresentava desigualdades pouco consideráveis. 
 
@@ -1236,13 +1267,13 @@ Uma das últimas substâncias de que o ar teve de expurgar-se, por ser gasoso o 
 
 [^61]: N.E.: Refere-se à maior parte da Era Pré-Cambriana e toda a Era Paleozoica atuais.
 
-######  GEN-1-07-p23
+###### 23
 
 Por essa época, entraram a formar-se as camadas de terrenos de sedimento, depositadas pelas águas carregadas de limo e de matérias diversas, apropriadas à vida orgânica. 
 
 Surgem aí os primeiros seres vivos do reino vegetal e do reino animal. Deles se encontram vestígios, a princípio em número reduzido, porém, depois, cada vez mais frequentes, à medida que se vai passando às camadas mais elevadas dessa formação. É digno de nota que por toda parte a vida se manifesta, logo que lhe são propícias as condições, nascendo cada espécie desde que se realizam as condições próprias à sua existência.
 
-######  GEN-1-07-p24
+###### 24
 
 Os primeiros seres orgânicos que apareceram na Terra foram os vegetais de organização menos complicada, designados em Botânica sob os nomes de criptógamos, acotiledôneos, monocotiledôneos, isto é, liquens, cogumelos, musgos, fetos e plantas herbáceas. [^62] Absolutamente, ainda se não veem árvores de tronco lenhoso, mas, apenas, as do gênero palmeira, cuja haste esponjosa é análoga à das ervas.
 
@@ -1252,19 +1283,19 @@ Os animais desse período, que apareceram em seguida aos primeiros vegetais, era
 
 [^63]: N.E.: Classe de animais invertebrados, cujos órgãos estão dispostos simetricamente em torno de um eixo, ex.: equinodermos e pólipos.
 
-######  GEN-1-07-p25
+###### 25
 
 Sob o império do calor e da umidade e em virtude do excesso de ácido carbônico espalhado no ar, gás impróprio à respiração dos animais terrestres, mas necessário às plantas, os terrenos expostos se cobriram rapidamente de uma vegetação pujante, ao mesmo tempo que as plantas aquáticas se multiplicavam no seio dos pântanos. Plantas que, nos dias atuais, são simples ervas de alguns centímetros, atingiam altura e grossura prodigiosas. Assim é que havia florestas de fetos arborescentes de 8 a 10 metros de altura e de proporcional grossura. Licopódios (marroio, gênero de musgo), do mesmo porte; cavalinhas [^64], de 4 a 5 metros, que a altura não passa hoje de um metro, e uma infinidade de espécies que não mais existem. Pelos fins do período, começam a aparecer algumas árvores do gênero conífero ou pinheiros.
 
 [^64]: Nota de Allan Kardec: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
 
-######  GEN-1-07-p26
+###### 26
 
 Em consequência do deslocamento das águas, os terrenos que produziam essas massas de vegetais foram submergidos, cobertos de novos sedimentos terrosos, enquanto os que se achavam emersos se adornavam, a seu turno, de vegetação semelhante. Houve assim muitas gerações de vegetais alternativamente aniquiladas e renovadas. O mesmo não se deu com os animais que, sendo todos aquáticos, não estavam sujeitos a essas alternativas. Acumulados durante longa série de séculos, esses destroços formaram camadas de grande espessura. Sob a ação do calor, da umidade, da pressão exercida, pelos posteriores depósitos terrosos e, sem dúvida, de diversos agentes químicos, dos gases, dos ácidos e dos sais produzidos pela combinação dos elementos primitivos, aquelas matérias vegetais sofreram uma fermentação que as converteu em hulha ou carvão de pedra. As minas de hulha são, pois, produto direto da decomposição dos acervos de vegetais acumulados durante o período de transição. É por isso que são encontrados em quase todas as regiões. [^65]
 
 [^65]: Nota de Allan Kardec: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
 
-######  GEN-1-07-p27
+###### 27
 
 Os restos fósseis da pujante vegetação dessa época, achando-se hoje sob os gelos das terras polares, tanto quanto na zona tórrida, segue-se que, uma vez que a vegetação era uniforme, também a temperatura o havia de ser. Os polos, portanto, não se achavam cobertos de gelo, como agora. É que, então, a Terra tirava de si mesma o calor, do fogo central que aquecia de igual modo toda a camada sólida, ainda pouco espessa. Esse calor era superior de muito ao que podia provir dos raios solares, enfraquecidos, ademais, pela densidade da atmosfera. Só mais tarde, quando a ação do calor central se tornou muito fraca ou nula sobre a superfície exterior do globo, a do Sol passou a preponderar e as regiões polares, que apenas recebiam raios oblíquos, portadores de pequena quantidade de calor, se cobriram de gelo. Compreende-se que na época de que falamos e ainda muito tempo depois, o gelo era desconhecido na Terra. Deve ter sido muito longo esse período, a julgar pelo número e pela espessura das camadas de hulha. [^66]
 
@@ -1274,19 +1305,19 @@ Não dando mais de mil anos para a formação de cada um desses níveis, já ter
 
 ##### Período secundário [^67]
 
-######  GEN-1-07-p28
+###### 28
 
 Com o período de transição desaparecem a vegetação colossal e os animais que caracterizavam a época, ou porque as condições atmosféricas já não fossem as mesmas, ou porque uma série de cataclismos haja aniquilado tudo o que tinha vida na Terra. É provável que as duas causas tenham contribuído para essa mudança, por isso que, de um lado, o estudo dos terrenos que assinalam o fim desse período comprova a ocorrência de grandes subversões oriundas de levantamentos e erupções que derramaram sobre o solo grandes quantidades de lavas, e, de outro lado, porque grandes mudanças se operaram nos três [^68] reinos.
 
 [^68]: N.E.: Consultar nota 31.
 
-######  GEN-1-07-p29
+###### 29
 
 O período secundário se caracteriza, sob o aspecto mineral, por numerosas e fortes camadas que atestam uma formação lenta no seio das águas e marcam diferentes épocas bem caracterizadas.
 
 A vegetação é menos rápida e menos colossal que no período precedente, sem dúvida em virtude da diminuição do calor e da umidade e de modificações sobrevindas aos elementos constitutivos da atmosfera. Às plantas herbáceas e polpudas, juntam-se as de caule lenhoso e as primeiras árvores propriamente ditas.
 
-######  GEN-1-07-p30
+###### 30
 
 Ainda são aquáticos os animais, ou, quando nada, anfíbios, a vida vegetal progride pouco na terra seca. Desenvolve-se no seio dos mares uma prodigiosa quantidade de animais de conchas, devido à formação das matérias calcárias. Nascem novos peixes, de organização mais aperfeiçoada do que no período anterior. Aparecem os primeiros cetáceos. Os mais característicos animais dessa época são os reptis monstruosos, entre os quais se notam: 
 
@@ -1306,23 +1337,23 @@ O pterodátilo, animal estranho, do tamanho de um cisne, participando, simultane
 
 [^70]: N.E.: Somente após a desencarnação do autor, ocorrida em 1869, foram descobertos, na Inglaterra, fragmentos suficientes à montagem de um exemplar completo, pelos paleontólogos, permitindo melhor elucidar detalhes da descrição desse dinossauro. Ficou, então, claro que ele tinha uma calosidade óssea sobre o focinho, como os iguanídeos uma crista espinhosa no dorso, inexistindo chifres, que, no entanto, eram bastante evidentes em outros monstros, como nos saurópodes.
 
-######  GEN-1-07-p31
+###### 31
 
 Durante esse período, que há de ter sido muito longo, como o atestam o número e a pujança das camadas geológicas, a vida animal tomou enorme desenvolvimento no seio das águas, tal qual se dera com a vegetação no período que findara. Mais depurado e mais favorável à respiração, o ar começou a permitir que alguns animais vivessem em terra. O mar se deslocou muitas vezes, mas sem abalos violentos. Com esse período, desaparecem, por sua vez, aquelas raças de gigantescos animais aquáticos, substituídos mais tarde por espécies análogas, de formas menos desproporcionadas e de menor porte.
 
-######  GEN-1-07-p32
+###### 32
 
 O orgulho levou o homem a dizer que todos os animais foram criados por sua causa e para satisfação de suas necessidades. Mas, qual o número dos que lhe servem diretamente, dos que lhe foi possível submeter, comparado ao número incalculável daqueles com os quais nunca teve ele, nem nunca terá, quaisquer relações? Como se pode sustentar semelhante tese, em face das inumeráveis espécies que exclusivamente povoaram a Terra por milhares e milhares de séculos, antes que ele aí surgisse, e que afinal desapareceram? Poder-se-á afirmar que elas foram criadas em seu proveito? Entretanto, tinham todas a sua razão de ser, a sua utilidade. Deus, decerto, não as criou por simples capricho da sua vontade, para dar a si mesmo, em seguida, o prazer de as aniquilar, pois que todas tinham vida, instintos, sensação de dor e de bem-estar. Com que fim ele o fez? Com um fim que há de ter sido soberanamente sábio, embora ainda o não compreendamos. Certamente, um dia será dado ao homem conhecê-lo, para confusão do seu orgulho; mas, enquanto isso não se verifica, como se lhe ampliam as ideias ante os novos horizontes em que lhe é permitido, agora, mergulhar a vista, em presença do imponente espetáculo dessa Criação, tão majestosa no seu lento caminhar, tão admirável na sua previdência, tão pontual, tão precisa e tão invariável nos seus resultados!
 
 ##### Período terciário [^71]
 
-######  GEN-1-07-p33
+###### 33
 
 Com o período terciário nova ordem de coisas começa para a Terra. O estado da sua superfície muda completamente de aspecto; modificam-se profundamente as condições de vitalidade e se aproximam do estado atual. Os primeiros tempos desse período se assinalam por uma interrupção da produção vegetal e animal; tudo revela traços de uma destruição quase geral dos seres vivos, depois do que aparecem sucessivamente novas espécies, cuja organização, mais perfeita, se adapta à natureza do meio onde são chamados a viver.
 
 [^71]: N.E.: Período Terciário da Era Cenozoica atual.
 
-######  GEN-1-07-p34
+###### 34
 
 Durante os períodos anteriores, a crosta sólida do globo, em virtude da sua pequena espessura, apresentava, como já se disse, bem fraca resistência à ação do fogo interior. Facilmente despedaçado, esse envoltório permitia que as matérias em fusão se derramassem livremente pela superfície do solo. Outro tanto já não se deu quando este ganhou certa espessura. Então, comprimidas de todos os lados, as matérias esbraseadas, como a água em ebulição num vaso fechado, acabaram por produzir uma espécie de explosão. Violentamente quebrada num sem-número de pontos, a massa granítica ficou crivada de fendas, como um vaso rachado. Ao longo dessas fendas, a crosta sólida, levantada e deprimida, formou os picos, as cadeias de montanhas e suas ramificações. Certas partes do envoltório não chegaram a ser despedaçadas, foram apenas soerguidas, enquanto noutros pontos decalcamentos e escavações se produziram. 
 
@@ -1330,25 +1361,25 @@ A superfície do solo tornou-se então muito desigual; as águas que, até aquel
 
 Tal o grande fenômeno que se operou no período terciário e que transformou o aspecto do globo. Ele não se produziu instantânea, nem simultaneamente em todos os pontos, mas sucessivamente e em épocas mais ou menos distanciadas.
 
-######  GEN-1-07-p35
+###### 35
 
 Uma das primeiras consequências desses levantamentos foi, como já ficou dito, a inclinação das camadas de sedimento, primitivamente horizontais e assim conservadas onde quer que o solo não sofreu subversões. Foi, portanto, nos flancos e nas proximidades das montanhas que essas inclinações mais se pronunciaram.
 
-######  GEN-1-07-p36
+###### 36
 
 Nas regiões onde as camadas de sedimento conservaram a horizontalidade, para se chegar às de formação primária tem-se que atravessar todas as outras, até considerável profundidade, ao cabo da qual se encontra inevitavelmente a rocha granítica. Quando, porém, se ergueram em montanhas, aquelas camadas foram levadas acima do seu nível normal, indo às vezes até a grande altura, de tal sorte que, feito um corte vertical no flanco da montanha, elas se mostram em toda a sua espessura e superpostas como as fiadas de uma construção. É assim que a grandes elevações se encontram enormes bancos de conchas, primitivamente formados no fundo dos mares. Está hoje perfeitamente comprovado que em nenhuma época o mar há podido alcançar semelhantes alturas, visto que para tanto não bastariam todas as águas existentes na Terra, ainda mesmo que fossem em quantidade cem vezes maior. Ter-se-ia, pois, de supor que a quantidade de água diminuiu e, então, caberia perguntar o que fora feito da porção que desapareceu. Os levantamentos, fato hoje incontestável, explicam de maneira lógica e rigorosa os depósitos marinhos que se encontram em certas montanhas. [^72]
 
-######  GEN-1-07-p37
+###### 37
 
 Nos lugares onde o levantamento da rocha primitiva produziu completa rasgadura do solo, quer pela rapidez do fenômeno, quer pela forma, altura e volume da massa levantada, o granito foi posto a nu, qual um dente que irrompeu da gengiva. Levantadas, quebradas e arrumadas, as camadas que o revestiam ficaram a descoberto. É assim que terrenos pertencentes às mais antigas formações e que, na posição primitiva, se achavam a grande profundidade, compõem hoje o solo de certas regiões.
 
-######  GEN-1-07-p38
+###### 38
 
 Deslocada por efeito dos soerguimentos, a massa granítica deixou nalguns sítios fendas por onde se escapa o fogo interior e se escoam as matérias em fusão; os vulcões, que são como que chaminés da imensa fornalha, ou, melhor, válvulas de segurança que, dando saída ao excesso das matérias ígneas, preservam o globo de comoções muito mais terríveis. Daí o poder dizer-se que os vulcões em atividade são uma segurança para o conjunto da superfície do solo.
 
 Da intensidade desse fogo é possível fazer-se ideia, ponderando-se que no seio mesmo dos mares se abrem vulcões e que a massa de água que os recobre e neles penetra não consegue extingui-los.
 
-######  GEN-1-07-p39
+###### 39
 
 Os levantamentos operados na massa sólida necessariamente deslocaram as águas, sendo estas impelidas para as partes côncavas, que ao mesmo tempo se haviam tornado mais profundas pela elevação dos terrenos emergidos e pela depressão de outros. Mas, esses terrenos tornados baixos, levantados por sua vez ora num ponto, ora noutro, expulsaram as águas, que refluíram para outros lugares e assim por diante, até que houvessem podido tomar um leito mais estável. 
 
@@ -1360,11 +1391,11 @@ As matérias carreadas pelas correntes de água formaram as camadas do período 
 
 As camadas dos períodos primário, de transição e secundário, formadas sobre uma superfície pouco acidentada, são mais ou menos uniformes na Terra toda; as do período terciário, formadas, em vez disso, sobre base muito desigual e pela ação carreadora das águas, apresentam caráter mais local. Por toda parte, fazendo-se escavações de certa profundidade, encontram-se todas as camadas anteriores, na ordem em que se formaram, ao passo que não se encontra por toda parte o terreno terciário, nem todas as suas camadas.
 
-######  GEN-1-07-p40
+###### 40
 
 Durante os reviramentos do solo, ocorridos no princípio deste período, a vida orgânica, como é fácil de conceber-se, teve que ficar estacionária por algum tempo, o que se reconhece examinando terrenos baldos de fósseis. Desde, porém, que sobreveio um estado mais calmo, reapareceram os vegetais e os animais. Estando mudadas as condições de vitalidade, mais depurada a atmosfera, formaram-se novas espécies, com organização mais perfeita. As plantas, sob o ponto de vista da estrutura, diferem pouco das de hoje.
 
-######  GEN-1-07-p41
+###### 41
 
 No correr dos dois períodos precedentes, eram pouco extensos os terrenos que as águas não cobriam; eram, ainda assim, pantanosos e com frequência ficavam submersos. Essa a razão por que só havia animais aquáticos ou anfíbios. O período terciário, em o qual vários continentes se formaram, caracterizou-se pelo aparecimento dos animais terrestres. [^73]
 
@@ -1376,11 +1407,11 @@ Assim como o período de transição assistiu ao nascimento de uma vegetação c
 
 ##### Período diluviano [^75]
 
-######  GEN-1-07-p42
+###### 42
 
 Este período teve a assinalá-lo um dos maiores cataclismos que revolveram o globo, cuja superfície ele mudou mais uma vez de aspecto, destruindo uma imensidade de espécies vivas, das quais apenas restam despojos. Por toda a parte deixou traços que atestam a sua generalidade. As águas, violentamente arremessadas fora dos respectivos leitos, invadiram os continentes, arrastando consigo as terras e os rochedos, desnudando as montanhas, desarraigando as florestas seculares. Os novos depósitos que elas formaram são designados, em Geologia, pelo nome de terrenos diluvianos.
 
-######  GEN-1-07-p43
+###### 43
 
 Um dos vestígios mais significativos desse grande desastre são os penedos chamados blocos erráticos. Dá-se essa denominação a rochedos de granito que se encontram isolados nas planícies, repousando sobre terrenos terciários e no meio de terrenos diluvianos, algumas vezes a muitas centenas de léguas das montanhas donde foram arrancados. É claro que só a violência das correntes há podido transportá-los a tão grandes distâncias. [^76]
 
@@ -1388,17 +1419,17 @@ Um dos vestígios mais significativos desse grande desastre são os penedos cham
 
 [^76]: Nota de Allan Kardec: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
 
-######  GEN-1-07-p44
+###### 44
 
 Outro fato não menos característico e cuja causa se não descobriu ainda é que só nos terrenos diluvianos se encontram os primeiros aerólitos. Pois que somente nessa época eles começaram a cair, segue-se que anteriormente não existia a causa que os produz.
 
-######  GEN-1-07-p45
+###### 45
 
 Foi também por essa época que os polos começaram a cobrir-se de gelo e que se formaram as geleiras das montanhas, o que indica notável mudança na temperatura da Terra, mudança que deve ter sido súbita, porquanto, se se houvesse operado gradualmente, os animais, como os elefantes, que hoje só vivem nos climas quentes e que são encontrados em tão grande número no estado fóssil nas terras polares, teriam tido de retirar-se pouco a pouco para as regiões mais temperadas. Tudo denota, ao contrário, que eles provavelmente foram colhidos de surpresa por um grande frio e sitiados pelos gelos. [^77]
 
 [^77]: Nota de Allan Kardec: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
 
-######  GEN-1-07-p46
+###### 46
 
 Esse foi, pois, o verdadeiro dilúvio universal. Dividem-se as opiniões relativamente às causas que devam tê-lo produzido. Quaisquer, porém, que elas sejam, o que é certo é que o fato se deu. 
 
@@ -1406,17 +1437,17 @@ A suposição mais generalizada é a de que uma brusca mudança sofreu a posiç�
 
 O deslocamento repentino das águas também pode ter ocasionado o levantamento de certas partes da crosta sólida e a formação de novas montanhas dentro dos mares, conforme se verificou em começo do período terciário. Mas, além de que, então, o cataclismo não teria sido geral, isso não explicaria a mudança subitânea da temperatura dos polos.
 
-######  GEN-1-07-p47
+###### 47
 
 Na tormenta determinada pelo deslocamento das águas, pereceram muitos animais; outros, a fim de escaparem à inundação, se retiraram para os lugares altos, para as cavernas e fendas, onde sucumbiram em massa, ou de fome, ou entredevorando-se, ou, ainda, talvez, pela irrupção das águas nos sítios onde se tinham refugiado e donde não puderam fugir. Assim se explica a grande quantidade de ossadas de animais diversos, carnívoros e outros, que são encontrados de mistura em certas cavernas, que por essa razão foram chamadas brechas ou cavernas ossosas. São encontradas as mais das vezes sob as estalagmites. Nalgumas, as ossadas parecem ter sido arrastadas para ali pela correnteza das águas. [^78]
 
 Período pós-diluviano ou atual.[^79] Nascimento do homem
 
-######  GEN-1-07-p48
+###### 48
 
 Uma vez restabelecido o equilíbrio na superfície do planeta, prontamente a vida vegetal e animal retomou o seu curso. Consolidado, o solo assumiu uma colocação mais estável; o ar, purificado, se tornara apropriado a órgãos mais delicados. O Sol, brilhando em todo o seu esplendor através de uma atmosfera límpida, difundia, com a luz, um calor menos sufocante e mais vivificador do que o da fornalha interna. A Terra se povoava de animais menos ferozes e mais sociáveis; mais suculentos, os vegetais proporcionavam alimentação menos grosseira; tudo, enfim, se achava preparado no planeta para o novo hóspede que o viria habitar. Apareceu então o homem, último ser da criação, a inteligência desse ser concorreria, dali em diante, para o progresso geral, progredindo ele próprio.
 
-######  GEN-1-07-p49
+###### 49
 
 O homem só terá existido na Terra depois do período diluviano, ou terá surgido antes dessa época? Questão é esta muito controvertida hoje, mas sua solução, seja qual for, nada mudará no conjunto dos fatos verificados, nem fará que o aparecimento da espécie humana não seja anterior, de muitos milhares de anos, à data que lhe assina a Gênese bíblica.
 
@@ -1433,11 +1464,11 @@ Como quer que seja, tenha o homem aparecido ou não antes do grande dilúvio uni
 
 [^81]: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
 
-### 1.08
+### 1-08. 🗂️ Teorias sobre a formação da Terra
 
 ##### Teoria da projeção
 
-######  GEN-1-08-p1
+###### 01
 
 De todas as teorias concernentes à origem da Terra, a que alcançou maior voga, nestes últimos tempos,82 é a de Buffon, 83 quer pela posição que ele desfrutava no mundo sábio, quer pela razão de não se saber mais do que ele disse naquela época.
 
@@ -1451,7 +1482,7 @@ Em virtude do gradual abaixamento do calor central, a Terra chegaria, ao cabo de
 
 Tal, segundo Buffon, o estado atual da Lua que, menor do que a Terra, seria hoje um mundo extinto, do qual a vida se acha para sempre excluída. O próprio Sol viria a ter, afinal, a mesma sorte. De acordo com os seus cálculos, a Terra teria gasto cerca de 74.000 anos para chegar à sua temperatura atual e dentro de 93.000 anos veria o termo da existência da natureza organizada.
 
-######  GEN-1-08-p2
+###### 02
 
 A teoria de Buffon, contraditada pelas novas descobertas da Ciência, está presentemente abandonada, quase de todo, pelas razões seguintes:
 
@@ -1478,7 +1509,7 @@ A teoria de Buffon, contraditada pelas novas descobertas da Ciência, está pres
 
 ##### Teoria da condensação
 
-######  GEN-1-08-p3
+###### 03
 
 A teoria da formação da Terra pela condensação da matéria cósmica é a que hoje prevalece na Ciência, como a que a observação melhor justifica, a que resolve maior número de dificuldades e que se apoia, mais do que todas as outras, no grande princípio da unidade universal. É a que deixamos exposta acima, no cap. VI: Uranografia geral.
 
@@ -1488,7 +1519,7 @@ A Geologia toma a Terra no ponto em que é possível a observação direta. Seu 
 
 ##### Teoria da incrustação
 
-######  GEN-1-08-p4
+###### 04
 
 Apenas por não deixar de mencioná-la, falamos desta teoria, que nada tem de científica, mas, que, entretanto, conseguiu certa repercussão nos últimos tempos e seduziu algumas pessoas. Acha-se resumida na carta seguinte:
 
@@ -1498,7 +1529,7 @@ Apenas por não deixar de mencioná-la, falamos desta teoria, que nada tem de ci
 
 “Assim, certos animais, de que apenas os despojos são encontrados, nunca teriam vivido na Terra atual, mas teriam sido transportados de outros mundos desmanchados pela velhice. Os fósseis, que se encontram em climas sob os quais não teriam podido existir neste mundo, viviam sem dúvida em zonas muito diferentes nos globos onde nasceram. Tais despojos na Terra se encontram nos polos, ao passo que os animais viviam no equador dos globos a que pertenciam.”
 
-######  GEN-1-08-p5
+###### 05
 
 Esta teoria tem contra si os mais positivos dados da ciência experimental, além de que deixa intacta a questão mesma que ela pretende resolver, a questão da origem. Diz, é certo, como a Terra se teria formado, mas não diz como se formaram os quatro mundos que se reuniram para constituí-la.
 
@@ -1506,7 +1537,7 @@ Se as coisas se houvessem passado assim, como se explicaria a inexistência abso
 
 Ademais, é de perguntar-se o que teria sido feito do mar, que ocupa o vazio deixado pela Lua, se esta não se houvesse recusado a reunir-se às suas irmãs. Que aconteceria à Terra atual, se um dia a Lua tivesse a fantasia de vir tomar o seu lugar, expulsando deste o mar?
 
-######  GEN-1-08-p6
+###### 06
 
 Semelhante sistema seduziu algumas pessoas, porque parecia explicar a presença das diferentes raças de homens na Terra e a localização delas. Mas, uma vez que essas raças puderam proliferar em mundos distintos, por que não teriam podido desenvolver-se em pontos diversos do mesmo globo? É querer resolver uma dificuldade por meio de outra dificuldade maior. Efetivamente, quaisquer que fossem a rapidez e a destreza com que a operação se praticasse, aquela junção não se houvera podido realizar sem violentos abalos. Quanto mais rápida ela fosse, tanto mais desastrosos haviam de ser os cataclismos. Parece, pois, impossível que seres apenas mergulhados em sono cataléptico hajam podido resistir-lhes, para, em seguida, despertarem tranquilamente. Se fossem unicamente germens, em que consistiriam? Como é que seres inteiramente formados se reduziriam ao estado de germens? Restaria sempre a questão de saber-se como esses germens novamente se desenvolveram. Ainda aí, teríamos a Terra a formar-se por processo miraculoso, processo, porém, menos poético e menos grandioso do que o da Gênese bíblica, enquanto que as leis naturais dão, da sua formação, uma explicação muito mais completa e, sobretudo, mais racional, deduzida da observação. [^90], [^91]
 
@@ -1516,7 +1547,7 @@ Semelhante sistema seduziu algumas pessoas, porque parecia explicar a presença 
 
 ##### Alma da Terra
 
-######  GEN-1-08-p7
+###### 07
 
 A alma da Terra desempenhou papel principal na teoria da incrustação. Vejamos se esta ideia tem melhor fundamento.
 
@@ -1526,15 +1557,15 @@ Por alma da Terra, pode entender-se, mais racionalmente, a coletividade dos Esp�
 
 Um Espírito, incumbido de missão tão importante qual a do governo de um mundo, não poderia ter caprichos, ou, então, teríamos de reconhecer em Deus a imprevidência de confiar a execução de suas leis a seres capazes de lhes contravir, a seu bel-prazer. Ora, segundo a doutrina da incrustação, a má vontade da alma da Lua é que houvera dado causa a que a Terra ficasse incompleta. Há ideias que a si mesmas se refutam. (Revista espírita, setembro de 1868.)
 
-### 1.09
+### 1-09. 🗂️ Revoluções do globo
 
 ##### Revoluções gerais ou parciais
 
-######  GEN-1-09-p1
+###### 01
 
 Os períodos geológicos marcam as fases do aspecto geral do globo, em consequência das suas transformações. Mas, com exceção do período diluviano, que se caracterizou por uma subversão repentina, todos os demais transcorreram lentamente, sem transições bruscas. Durante todo o tempo que os elementos constitutivos do globo levaram para tomar suas posições definitivas, as mutações houveram de ser gerais. Uma vez consolidada a base, só se devem ter produzido modificações parciais, na superfície.
 
-######  GEN-1-09-p2
+###### 02
 
 Além das revoluções gerais, a Terra experimentou grande número de perturbações locais, que mudaram o aspecto de certas regiões. Como no tocante às outras duas causas contribuíram para essas perturbações: o fogo e a água.
 
@@ -1544,7 +1575,7 @@ Quanto à água, essa atuou, produzindo: ou a irrupção ou a retirada do mar na
 
 ##### Idade das montanhas
 
-######  GEN-1-09-p3
+###### 03
 
 Examinando-se os terrenos dilacerados pelo erguimento das montanhas e das camadas que lhes formam os contrafortes, possível se torna determinar-lhes a idade geológica. Por idade geológica das montanhas, não se deve entender o número de anos que elas contam de existência, mas o período em que se formaram e, portanto, a relativa ancianidade que apresentam. Fora errôneo acreditar-se que semelhante ancianidade corresponde à elevação que lhes é própria, ou à natureza exclusivamente granítica que revelem, uma vez que a massa de granito, ao dar-se o seu levantamento, pode ter perfurado e separado as camadas superpostas.
 
@@ -1554,13 +1585,13 @@ Esses levantamentos hão de ter ocasionado grandes perturbações locais e inund
 
 ##### Dilúvio bíblico
 
-######  GEN-1-09-p4
+###### 04
 
 O dilúvio bíblico, também conhecido pela denominação de “grande dilúvio asiático”, é fato cuja realidade não se pode contestar. Deve tê-lo ocasionado o levantamento de uma parte das montanhas daquela região, como o do México. Corrobora esta opinião a existência de um mar interior, que ia outrora do mar Negro ao oceano Boreal, comprovada pelas observações geológicas. O mar de Azov, o mar Cáspio, cujas águas são salgadas, embora nenhuma comunicação tenham com nenhum outro mar; o lago Aral e os inúmeros lagos espalhados pelas imensas planícies da Tartália e as estepes da Rússia parecem restos daquele antigo mar. Por ocasião do levantamento das montanhas do Cáucaso, posterior ao dilúvio universal, parte daquelas águas foi recalcada para o Norte, na direção do oceano Boreal; outra parte, para o Sul, em direção ao oceano Índico. Estas inundaram e devastaram precisamente a ­Mesopotâmia e toda a região em que habitaram os antepassados do povo hebreu. Embora esse dilúvio se tenha estendido por uma superfície muito grande, é atualmente ponto averiguado que ele foi apenas local; que não pode ter sido causado pela chuva, pois, por muito copiosa que esta fosse e ainda que se prolongasse por quarenta dias, o cálculo prova que a quantidade de água caída das nuvens não podia bastar para cobrir toda a terra, até acima das mais altas montanhas.
 
 Para os homens de então, que não conheciam mais do que uma extensão muito limitada da superfície do globo e que nenhuma ideia tinham da sua configuração, desde que a inundação invadiu os países conhecidos, invadida fora, para eles, a Terra inteira. Se a essa crença aditarmos a forma imaginosa e hiperbólica da descrição, forma peculiar ao estilo oriental, já não nos surpreenderá o exagero da narração bíblica.
 
-######  GEN-1-09-p5
+###### 05
 
 O dilúvio asiático foi evidentemente posterior ao aparecimento do homem na Terra, visto que a lembrança dele se conservou pela tradição em todos os povos daquela parte do mundo, os quais o consagraram em suas teogonias. [^93]
 
@@ -1574,11 +1605,11 @@ O dilúvio asiático foi evidentemente posterior ao aparecimento do homem na Ter
 
 ##### Revoluções periódicas
 
-######  GEN-1-09-p6
+###### 06
 
 Além do seu movimento anual em torno do Sol, origem das estações, do seu movimento de rotação sobre si mesma em 24 horas, origem do dia e da noite, tem a Terra um terceiro movimento que se completa em cerca de 25.000 anos, ou, mais exatamente, em 25.868 anos, e que produz o fenômeno denominado, em Astronomia, precessão dos equinócios (cap. V, item 11). Este movimento, que não se pode explicar em poucas palavras, sem o auxílio de figuras e sem uma demonstração geométrica, consiste numa espécie de oscilação circular, que se há comparado à de um pião a morrer, e por virtude da qual o eixo da Terra, mudando de inclinação, descreve um duplo cone, cujo vértice está no centro do planeta, abrangendo as bases desses cones a superfície circunscrita pelos círculos polares, isto é, uma amplitude de 23 graus e meio de raio.
 
-######  GEN-1-09-p7
+###### 07
 
 O equinócio é o instante em que o Sol, passando de um hemisfério a outro, se encontra perpendicular ao Equador, o que acontece duas vezes por ano, a 21 de março, quando o Sol passa para o hemisfério boreal, e a 22 de setembro, quando volta ao hemisfério austral.
 
@@ -1586,13 +1617,13 @@ Mas em consequência da gradual mudança na obliquidade do eixo, o que acarreta 
 
 Com o tempo, esses poucos minutos fazem horas, dias, meses e anos, resultando daí que o equinócio da primavera, que agora se verifica no mês de março, em dado tempo se verificará em fevereiro, depois em janeiro, depois em dezembro. Então o mês de dezembro terá a temperatura de março e março a de junho e assim por diante, até que, voltando ao mês de março, as coisas se encontrarão de novo no estado atual, o que se dará ao cabo de 25.868 anos, para recomeçar indefinidamente a mesma revolução. [^94]
 
-######  GEN-1-09-p8
+###### 08
 
 Desse movimento cônico do eixo, resulta que os polos da Terra não olham constantemente os mesmos pontos do céu; que a Estrela Polar não será sempre estrela polar; que os polos gradualmente se inclinam mais ou menos para o Sol e recebem dele raios mais ou menos diretos, donde se segue que a Islândia e a Lapônia, por exemplo, localizadas sob o círculo polar, poderão, em dado tempo, receber raios solares como se estivessem na latitude da Espanha e da Itália e que, na posição do extremo oposto, a Espanha e a Itália poderão ter a temperatura da Islândia e da Lapônia, e assim por diante, a cada renovação do período de 25.000 anos. [^95]
 
 [^95]: Nota de Allan Kardec: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
 
-######  GEN-1-09-p9
+###### 09
 
 Ainda não puderam ser determinadas com precisão as consequências deste movimento, porque somente se há podido observar uma pequena parte da sua revolução. A respeito, pois, não há mais do que presunções, algumas das quais com caráter de probabilidade.
 
@@ -1604,7 +1635,7 @@ Essas consequências são:
 
 A lentidão com que se opera esse movimento do mar torna-o quase imperceptível para cada geração. Faz-se, porém, sensível ao cabo de alguns séculos. Nenhum cataclismo súbito pode ele causar, porque os homens se retiram, de geração em geração, à proporção que o mar avança, e avançam pelas terras donde o mar se retira. É a essa causa, mais que provável, que alguns sábios atribuem o afastamento do mar de certas costas e a invasão de outras por ele.
 
-######  GEN-1-09-p10
+###### 10
 
 O deslocamento demorado, gradual e periódico do mar é fato que a experiência comprova e numerosos exemplos confirmam, em todos os pontos do globo. Tem por efeito o entretenimento das forças produtivas da Terra. A longa imersão é para os terrenos um tempo de repouso, durante o qual eles recuperam os princípios vitais esgotados por uma não menos longa produção. Os imensos depósitos de matérias orgânicas, formados pela permanência das águas durante séculos e séculos, são adubações naturais, periodicamente renovadas, e as gerações se sucedem sem se aperceberem de tais mudanças. [^96]
 
@@ -1622,15 +1653,15 @@ Navegar-se-á por sobre regiões que atualmente se percorrem de caminho de ferro
 
 O dilúvio bíblico não pode ter tido essa causa, pois que foi repentina a invasão das águas e de curta duração a permanência delas, ao passo que, de outro modo, essa permanência houvera sido de muitos milhares de anos e ainda duraria, sem que os homens dessem por isso.
 
-######  GEN-1-09-p11
+###### 11
 
 As grandes comoções telúricas se têm produzido nas épocas em que a crosta sólida da Terra, pela sua fraca espessura, quase nenhuma resistência oferecia à efervescência das matérias em ignição no seu interior. Tais comoções foram diminuindo à proporção que aquela crosta se consolidava. Numerosos vulcões já se acham extintos, outros os terrenos de formação posterior soterraram.
 
 Ainda, certamente, poderão produzir-se perturbações locais, por efeito de erupções vulcânicas, da eclosão de alguns vulcões novos, de inundações repentinas de algumas regiões; poderão do mar surgir ilhas e outras ser por ele tragadas; mas passou o tempo dos cataclismos gerais, como os que assinalaram os grandes períodos geológicos. A Terra adquiriu uma estabilidade que, sem ser absolutamente invariável, coloca doravante o gênero humano ao abrigo de perturbações gerais, a menos que intervenham causas desconhecidas, a ela estranhas e que de modo nenhum se possam prever. [^97]
 
-[^97]: N.E.: Em 15/2/2013, cai na Rússia (região dos Montes Urais) um meteoro. A rocha, estimada em 10 toneladas, entrou na atmosfera e começou a se desfazer; a onda de choque causada por sua queda quebrou vidraças, balançou prédios, causando ferimentos em 1.100 pessoas. (Fonte: Jornal O Globo)
+[^97]: N.E.: Em 15/2/2013, cai na Rússia (região dos Montes Urais) um meteoro. A rocha, estimada em 10 toneladas, entrou na atmosfera e começou a se desfazer; a onda de choque causada por sua queda quebrou vidraças, balançou prédios, causando ferimentos em 1-100 pessoas. (Fonte: Jornal O Globo)
 
-######  GEN-1-09-p12
+###### 12
 
 Quanto aos cometas, estamos hoje perfeitamente tranquilizados com relação à influência que exercem, mais salutar do que nociva, por parecerem eles destinados a reabastecer os mundos, se assim nos podemos exprimir, trazendo-lhes os princípios vitais que eles armazenam em sua corrida pelo espaço e com o se aproximarem dos sóis. Assim, pois, seriam antes fontes de prosperidade, do que mensageiros de desgraças.
 
@@ -1642,7 +1673,7 @@ Ainda menos de temer é a cauda que arrastam, visto que essa mais não é do que
 
 [^99]: Nota de Allan Kardec: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
 
-######  GEN-1-09-p13
+###### 13
 
 Deve-se igualmente lançar ao rol das hipóteses quiméricas a possibilidade do encontro da Terra com outro planeta. A regularidade e a invariabilidade das leis que presidem aos movimentos dos corpos celestes tornam carente de toda probabilidade semelhante encontro. [^100]
 
@@ -1650,13 +1681,13 @@ Deve-se igualmente lançar ao rol das hipóteses quiméricas a possibilidade do 
 
 A Terra, no entanto, terá um fim. Como? Isso ainda permanece no domínio das conjeturas; mas, visto estar ela ainda longe da perfeição que pode alcançar e da vetustez que lhe indicaria o declínio, seus habitantes atuais podem estar certos de que tal não se dará ao tempo deles. (Cap. VI, item 48 e seguintes.)
 
-######  GEN-1-09-p14
+###### 14
 
 Fisicamente, a Terra teve as convulsões da sua infância; entrou agora num período de relativa estabilidade: na do progresso pacífico, que se efetua pelo regular retorno dos mesmos fenômenos físicos e pelo concurso inteligente do homem. Está, porém, ainda, em pleno trabalho de gestação do progresso moral. Aí residirá a causa das suas maiores comoções. Até que a humanidade se haja avantajado suficientemente em perfeição, pela inteligência e pela observância das Leis divinas, as maiores perturbações ainda serão causadas pelos homens, mais do que pela natureza, isto é, serão antes morais e sociais do que físicas.
 
 ##### Aumento ou diminuição do volume da Terra
 
-######  GEN-1-09-p15
+###### 15
 
 O volume da Terra aumenta, diminui ou permanece estacionário?
 
@@ -1678,13 +1709,13 @@ Há uma opinião segundo a qual o globo aumentaria de massa e de volume pelo afl
 
 [^102]: N.E.: Ver Nota Explicativa, p. 375.
 
-### 1.10
+### 1-10. 🗂️ Gênese orgânica
 
-######  GEN-1-10-p1
+###### 01
 
 Tempo houve em que não existiam animais; logo, eles tiveram começo. Cada espécie foi aparecendo, à proporção que o globo adquiria as condições necessárias à existência delas. Isto é positivo. Como se formaram os primeiros indivíduos de cada espécie? Compreende-se que, existindo um primeiro casal, os indivíduos se multiplicaram. Mas, esse primeiro casal, donde saiu? É um desses mistérios que entendem com o princípio das coisas e sobre os quais apenas se podem formular hipóteses. A Ciência ainda não pode resolver o problema; pode entretanto, pelo menos, encaminhá-lo para a solução.
 
-######  GEN-1-10-p2
+###### 02
 
 É esta a questão primordial que se apresenta: cada espécie animal saiu de um casal primitivo ou de muitos casais criados, ou, se o preferirem, germinados simultaneamente em diversos lugares?
 
@@ -1698,31 +1729,31 @@ Tudo, pois, concorre a provar que houve criação simultânea e múltipla dos pr
 
 A teoria mais aceita atualmente é, então, a de que todas as espécies do planeta estão de alguma forma interligadas, das mais simples às mais complexas.
 
-######  GEN-1-10-p3
+###### 03
 
 A formação dos primeiros seres vivos se pode deduzir, por analogia, da mesma lei em virtude da qual se formaram e formam todos os dias os corpos inorgânicos. À medida que se aprofunda o estudo das leis da natureza, as engrenagens que, de início, pareciam tão complicadas se vão simplificando e confundindo na grande lei de unidade que preside a toda a obra da criação. Isso se compreenderá melhor, quando estiver compreendida a formação dos corpos inorgânicos, que é o degrau primário daquela outra.
 
-######  GEN-1-10-p4
+###### 04
 
 A Química considera elementares umas tantas substâncias, como o oxigênio, o hidrogênio, o azoto, o carbono, o cloro, o iodo, o flúor, o enxofre, o fósforo e todos os metais. Combinando-se, elas formam os corpos compostos: os óxidos, os ácidos, os álcalis, os sais e as inúmeras variedades que resultam da combinação destes.
 
 A combinação de dois corpos para formar um terceiro exige especial concurso de circunstâncias: seja um determinado grau de calor, de sequidão, ou de umidade; seja o movimento ou o repouso; seja uma corrente elétrica etc. Se essas circunstâncias não se verificarem, a combinação não se operará.
 
-######  GEN-1-10-p5
+###### 05
 
 Quando há combinação, os corpos componentes perdem suas propriedades características, enquanto o composto que deles resulta adquire outras, diferentes das daqueles. É assim, por exemplo, que o oxigênio e o hidrogênio, que são gases invisíveis, quimicamente combinados formam a água, que é líquida, sólida ou vaporosa, conforme a temperatura. Na água, a bem dizer, já não há oxigênio nem hidrogênio, mas um corpo novo. Decomposta essa água, os dois gases, tornados livres, recobram suas propriedades: já não há água. A mesma quantidade desse líquido pode ser assim, alternativamente, decomposta e recomposta, ao infinito.
 
-######  GEN-1-10-p6
+###### 06
 
 A composição e decomposição dos corpos se dão em virtude do grau de afinidade que os princípios elementares guardam entre si. [^104] A formação da água, por exemplo, resulta da afinidade recíproca que existe entre o oxigênio e o hidrogênio; mas, se se puser em contato com a água um corpo que tenha com o oxigênio mais afinidade do que a que este tem com o hidrogênio, a água se decompõe: o oxigênio é absorvido e o hidrogênio se liberta. Já não haverá água.
 
 [^104]: N.E.: Eletronegatividade é a maior ou menor tendência de um átomo para receber elétrons e formar um íon negativo.
 
-######  GEN-1-10-p7
+###### 07
 
 Os corpos compostos se formam sempre em proporções definidas, isto é, pela combinação de uma certa quantidade dos princípios constituintes. Assim, para formar a água, são necessárias uma parte de oxigênio e duas de hidrogênio. Se duas partes de oxigênio forem combinadas com duas de hidrogênio, em vez de água ter-se-á o deutóxido de hidrogênio, líquido corrosivo, formado, no entanto, dos mesmos elementos que entram na composição da água, porém, noutra proporção.
 
-######  GEN-1-10-p8
+###### 08
 
 Tal, em poucas palavras, a lei que preside à formação de todos os corpos da natureza. A inumerável variedade deles resulta de um número pequeno de princípios elementares combinados em proporções diferentes.
 
@@ -1730,7 +1761,7 @@ Por exemplo: o oxigênio, combinado em certas proporções, com o carbono, o enx
 
 O oxigênio, com os metais chamados cálcio, sódio, potássio, forma a cal, a soda, a potassa. A cal, unida ao ácido carbônico, forma os carbonatos de cal ou pedras calcárias, tais como o mármore, a cré, as estalactites das grutas; unida ao ácido sulfúrico, forma o sulfato de cálcio ou gesso e o alabastro; ao ácido fosfórico, o fosfato de cálcio, base sólida, dos ossos; o cloro e o hidrogênio formam o ácido clorídrico ou hidroclórico; o cloro e o sódio formam o cloreto de sódio ou sal marinho.
 
-######  GEN-1-10-p9
+###### 09
 
 Todas essas combinações e milhares de outras se obtêm artificialmente, em pequenas quantidades, nos laboratórios de Química; elas se operam em larga escala no grande laboratório da natureza.
 
@@ -1738,11 +1769,11 @@ Em sua origem, a Terra não continha essas matérias em combinação, mas, apena
 
 Suponhamos que, por uma causa qualquer, a Terra voltasse ao estado primitivo de incandescência: tudo se decomporia; os elementos se separariam; todas as substâncias fusíveis se fundiriam; todas as que são volatilizáveis se volatilizariam. Depois, outro resfriamento determinaria nova precipitação e de novo se formariam as antigas combinações.
 
-######  GEN-1-10-p10
+###### 10
 
 Estas considerações provam quanto a Química era necessária para a inteligência da Gênese. Antes de se conhecerem as leis da afinidade molecular, não era possível compreender-se a formação da Terra. Esta ciência lançou grande luz sobre a questão, como o fizeram a Astronomia e a Geologia, doutros pontos de vista.
 
-######  GEN-1-10-p11
+###### 11
 
 Na formação dos corpos sólidos, um dos mais notáveis fenômenos é o da cristalização, que consiste na forma regular que assumem certas substâncias, ao passarem do estado líquido, ou gasoso, ao estado sólido. Essa forma, que varia de acordo com a natureza da substância, é geralmente a de sólidos geométricos, tais como o prisma, o romboide, o cubo, a pirâmide. Toda gente conhece os cristais de açúcar cândi; os cristais de rocha, ou sílica cristalizada, são prismas de seis faces que terminam em pirâmide igualmente hexagonal. O diamante é carbono puro, ou carvão cristalizado. Os desenhos que no inverno se produzem sobre as vidraças são devidos à cristalização do vapor de água durante a congelação, sob a forma de agulhas prismáticas.
 
@@ -1750,7 +1781,7 @@ A disposição regular dos cristais corresponde à forma particular das molécul
 
 A cristalização só se opera em certas circunstâncias favoráveis, fora das quais ela não pode dar-se. São condições essenciais o grau da temperatura e o repouso absoluto. Compreende-se que um calor muito forte, mantendo afastadas as moléculas, não lhes permitiria condensarem-se e que a agitação, impossibilitando-lhes um arranjo simétrico, não lhes consentiria formar senão uma massa confusa e irregular, donde o não haver cristalização propriamente dita.
 
-######  GEN-1-10-p12
+###### 12
 
 A lei que preside à formação dos minerais conduz naturalmente à formação dos corpos orgânicos.
 
@@ -1760,7 +1791,7 @@ A análise química mostra que todas as substâncias vegetais e animais são com
 
 [^106]: Nota de Allan Kardec: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
 
-######  GEN-1-10-p13
+###### 13
 
 Alguns exemplos comuns darão a compreender as transformações que se operam no reino orgânico, pela só modificação dos elementos constitutivos.
 
@@ -1770,11 +1801,11 @@ No pão e nos legumes que se comem, não há certamente carne, nem sangue, nem o
 
 Na semente de uma árvore, não há madeiras, folhas, flores ou frutos e fora erro pueril crer-se que a árvore inteira, sob microscópica forma, ali se encontra. Quase não há, sequer, na semente, oxigênio, hidrogênio e carbono em quantidade necessária a formar uma folha da árvore. A semente107 contém um gérmen que desabrocha em favoráveis condições. Esse gérmen se desenvolve por efeito dos sucos que haure da terra e dos gases que aspira do ar. Tais sucos, que não são lenho, nem folhas, nem flores, nem frutos, infiltrando-se na planta, lhe formam a seiva, como nos animais formam o sangue. Levada pela circulação a todas as partes do vegetal, a seiva, conforme o órgão a que vai ter e onde sofre uma elaboração especial, se transforma em lenho, folhas e frutos, como o sangue se transforma em carne, osso, bile etc. Contudo, são sempre os mesmos elementos: oxigênio, hidrogênio, azoto e carbono, diversamente combinados.
 
-######  GEN-1-10-p14
+###### 14
 
 As diferentes combinações dos elementos, para formação das substâncias minerais, vegetais e animais, não podem, pois, operar-se, a não ser nos meios e em circunstâncias propícias; fora dessas circunstâncias, os princípios elementares estão numa espécie de inércia. Mas desde que as circunstâncias se tornam favoráveis, começa um trabalho de elaboração; as moléculas entram em movimento, agitam-se, atraem-se, aproximando-se e se separam em virtude da lei de afinidades e, por suas múltiplas combinações, compõem a infinita variedade das substâncias. Desapareçam essas condições e o trabalho subitamente cessa, para recomeçar quando elas de novo se apresentarem. É assim que a vegetação se ativa, enfraquece, para e prossegue, sob a ação do calor, da luz, da umidade, do frio ou da seca; que esta planta prospera, num clima ou num terreno, e se estiola ou perece noutros.
 
-######  GEN-1-10-p15
+###### 15
 
 O que diariamente se passa às nossas vistas pode colocar-nos na pista do que se passou na origem dos tempos, porquanto as leis da natureza não variam.
 
@@ -1786,25 +1817,25 @@ A semelhança de forma e de cores, na reprodução dos indivíduos de cada espé
 
 ##### Princípio vital
 
-######  GEN-1-10-p16
+###### 16
 
 Dizendo que as plantas e os animais são formados dos mesmos princípios constituintes dos minerais, falamos em sentido exclusivamente material, pois que aqui apenas do corpo se trata.
 
 Sem falar do princípio inteligente, que é questão à parte, há, na matéria orgânica, um princípio especial, inapreensível e que ainda não pode ser definido: o princípio vital. Ativo no ser vivente, esse princípio se acha extinto no ser morto; mas nem por isso deixa de dar à substância propriedades que a distinguem das substâncias inorgânicas. A Química, que decompõe e recompõe a maior parte dos corpos inorgânicos, também conseguiu decompor os corpos orgânicos, porém, jamais chegou a reconstituir, sequer, uma folha morta, prova evidente de que há nestes últimos o que quer que seja, inexistente nos outros.
 
-######  GEN-1-10-p17
+###### 17
 
 Será o princípio vital alguma coisa particular, que tenha existência própria? Ou, integrado no sistema da unidade do elemento gerador, apenas será um estado especial, uma das modificações do fluido cósmico, pela qual este se torne princípio de vida, como se torna luz, fogo, calor, eletricidade? É neste último sentido que as comunicações acima reproduzidas resolvem a questão. (Cap. VI, Uranografia geral.)
 
 Seja, porém, qual for a opinião que se tenha sobre a natureza do princípio vital, o certo é que ele existe, pois que se lhe apreciam os efeitos. Pode-se, portanto, logicamente, admitir que, ao se formarem, os seres orgânicos assimilaram o princípio vital, por ser necessário à destinação deles; ou, se o preferirem, que esse princípio se desenvolveu em cada indivíduo, por efeito mesmo da combinação dos elementos, tal como se desenvolvem, dadas certas circunstâncias, o calor, a luz e a eletricidade.
 
-######  GEN-1-10-p18
+###### 18
 
 Combinando-se sem o princípio vital, o oxigênio, o hidrogênio, o azoto e o carbono unicamente teriam formado um mineral ou corpo inorgânico; o princípio vital, modificando a constituição molecular desse corpo, dá-lhe propriedades especiais. Em lugar de uma molécula mineral, tem-se uma molécula de matéria orgânica.
 
 A atividade do princípio vital é alimentada durante a vida pela ação do funcionamento dos órgãos, do mesmo modo que o calor, pelo movimento de rotação de uma roda. Cessada aquela ação, por motivo da morte, o princípio vital se extingue, como o calor, quando a roda deixa de girar. Mas o efeito produzido por esse princípio sobre o estado molecular do corpo subsiste, mesmo depois dele extinto, como a carbonização da madeira subsiste à extinção do calor. Na análise dos corpos orgânicos, a Química encontra os elementos que os constituem: oxigênio, hidrogênio, azoto e carbono; mas não pode reconstituir aqueles corpos, porque, já não existindo a causa, não lhe é possível reproduzir o efeito, ao passo que possível lhe é reconstituir uma pedra.
 
-######  GEN-1-10-p19
+###### 19
 
 Tomamos para termo de comparação o calor que se desenvolve pelo movimento de uma roda, por ser um efeito vulgar, que todo mundo conhece, e mais fácil de compreender-se. Mais exato, no entanto, houvéramos sido, dizendo que, na combinação dos elementos para formarem os corpos orgânicos, desenvolve-se eletricidade. Os corpos orgânicos seriam, então, verdadeiras pilhas elétricas, que funcionam enquanto os elementos dessas pilhas se acham em condições de produzir eletricidade: é a vida; que deixam de funcionar, quando tais condições desaparecem: é a morte. Segundo essa maneira de ver, o princípio vital não seria mais do que uma espécie particular de eletricidade, denominada eletricidade animal, que durante a vida se desprende pela ação dos órgãos [^109] e cuja produção cessa, quando da morte, por se extinguir tal ação.
 
@@ -1812,7 +1843,7 @@ Tomamos para termo de comparação o calor que se desenvolve pelo movimento de u
 
 ##### Geração espontânea [^110]
 
-######  GEN-1-10-p20
+###### 20
 
 É natural se pergunte por que não mais se formam seres vivos nas mesmas condições em que se formaram os primeiros que surgiram na Terra. [^111]
 
@@ -1820,11 +1851,11 @@ Sobre esse ponto, não pode deixar de lançar luz a questão da geração espont
 
 Os partidários da geração espontânea respondem afirmativamente, apoiando-se em observações diretas, que parecem concludentes. Pensam outros que todos os seres vivos se reproduzem uns pelos outros, firmados sobre o fato, que a experiência comprova, de que os germens de certas espécies vegetais e animais, mesmo dispersos, conservam latente vitalidade, durante longo tempo, até que as circunstâncias lhes favoreçam a eclosão. Esta maneira de entender deixa sempre em aberto a questão da formação dos primeiros tipos de cada espécie.
 
-######  GEN-1-10-p21
+###### 21
 
 Sem discutir os dois sistemas, convém acentuar que o princípio da geração espontânea evidentemente só se pode aplicar aos seres das ordens mais ínfimas do reino vegetal e do reino animal, àqueles em os quais a vida começa a despontar, em organismo extremamente simples e, de certo modo, rudimentar. Foram esses, com efeito, os primeiros que apareceram na Terra e cuja formação houve de ser espontânea. Assistiríamos assim a uma criação permanente, análoga à que se produziu nas primeiras idades do mundo.
 
-######  GEN-1-10-p22
+###### 22
 
 Mas, então, por que não se formam da mesma maneira os seres de complexa organização? Que esses seres não existiram sempre, é fato positivo; logo, tiveram um começo. Se o musgo, o líquen, o zoófito, o infusório, os vermes intestinais e outros podem produzir-se espontaneamente, por que não se dá o mesmo com as árvores, os peixes, os cães, os cavalos?
 
@@ -1834,7 +1865,7 @@ Param aí, por enquanto, as investigações; desaparece o fio condutor e, até q
 
 [^111]: N.E.: O planeta não apresenta as mesmas condições que possibilitaram a existência de seus primeiros habitantes.
 
-######  GEN-1-10-p23
+###### 23
 
 Se a geração espontânea é fato demonstrado [^112], por muito limitado que seja, não deixa de constituir um fato capital, um marco de natureza a indicar o caminho para novas observações. Sabe-se que os seres orgânicos complexos não se produzem dessa maneira; mas, quem sabe como eles começaram? Quem conhece o segredo de todas as transformações? Vendo o carvalho sair da glande, quem pode afirmar que não exista um laço misterioso entre o pólipo e o elefante? (Item 25.)
 
@@ -1846,7 +1877,7 @@ No estado atual dos nossos conhecimentos, não podemos estabelecer a teoria da g
 
 ##### Escala dos seres orgânicos
 
-######  GEN-1-10-p24
+###### 24
 
 Entre o reino vegetal e o reino animal, nenhuma delimitação há nitidamente marcada. Nos confins dos dois reinos estão os zoófitos ou animais-plantas, cujo nome indica que eles participam de um e outro: serve-lhes de traço de união.
 
@@ -1856,7 +1887,7 @@ O zoófito tem a aparência exterior da planta. Como planta, mantém-se preso ao
 
 Um degrau acima, o animal é livre e procura o alimento: em primeiro lugar, vêm as inúmeras variedades de pólipos, de corpos gelatinosos, sem órgãos bem definidos, só diferindo das plantas pela faculdade da locomoção; seguem-se, na ordem do desenvolvimento dos órgãos, da atividade vital e do instinto, os helmintos ou vermes intestinais; os moluscos, animais carnudos sem ossos, alguns deles nus, como as lesmas, os polvos, outros providos de conchas, como o caracol, a ostra; os crustáceos, cuja pele é revestida de uma crosta dura, como o caranguejo, a lagosta; os insetos, aos quais a vida assume prodigiosa atividade e se manifesta o instinto engenhoso, como a formiga, a abelha, a aranha. Alguns se metamorfoseiam, como a lagarta, que se transforma em elegante borboleta. Vem depois a ordem dos vertebrados, animais de esqueleto ósseo, ordem que abrange os peixes, os reptis, os pássaros; seguem-se, por fim, os mamíferos cuja organização é a mais completa.
 
-######  GEN-1-10-p25
+###### 25
 
 Se se considerarem apenas os dois pontos extremos da cadeia, nenhuma analogia aparente haverá; mas, se se passar de um anel a outro sem solução de continuidade, chega-se, sem transição brusca, da planta aos animais vertebrados. Compreende-se então a possibilidade de que os animais de organização complexa não sejam mais do que uma transformação, ou, se quiserem, um desenvolvimento gradual, a princípio insensível, da espécie imediatamente inferior e, assim, sucessivamente, até o primitivo ser elementar. Entre a glande e o carvalho é grande a diferença; entretanto, se acompanharmos passo a passo o desenvolvimento da glande, chegaremos ao carvalho e já não nos admiraremos de que este proceda de tão pequena semente. Ora, se a glande encerra em latência os elementos próprios à formação de uma árvore gigantesca, por que não se daria o mesmo do ácaro ao elefante? (Item 23.)
 
@@ -1866,25 +1897,25 @@ Esta teoria, sem estar admitida ainda, de maneira definitiva, é a que tende evi
 
 ##### O homem corpóreo
 
-######  GEN-1-10-p26
+###### 26
 
 Do ponto de vista corpóreo e puramente anatômico, o homem pertence à classe dos mamíferos, dos quais unicamente difere por alguns matizes na forma exterior. Quanto ao mais, a mesma composição de todos os animais, os mesmos órgãos, as mesmas funções e os mesmos modos de nutrição, de respiração, de secreção, de reprodução. Ele nasce, vive e morre nas mesmas condições e, quando morre, seu corpo se decompõe, como tudo o que vive. Não há, em seu sangue, na sua carne, em seus ossos, um átomo diferente dos que se encontram no corpo dos animais. Como estes, ao morrer, o homem restitui à terra o oxigênio, o hidrogênio, o azoto e o carbono que se haviam combinado para formá-lo; e esses elementos, por meio de novas combinações, vão formar outros corpos minerais, vegetais e animais. É tão grande a analogia que suas funções orgânicas são estudadas em certos animais, quando as experiências não podem ser feitas nele próprio.
 
-######  GEN-1-10-p27
+###### 27
 
 Na classe dos mamíferos, o homem pertence à ordem dos bímanos. Logo abaixo dele vêm os quadrúmanos (animais de quatro mãos) ou macacos, alguns dos quais, como o orangotango, o chimpanzé, o jocó,114 têm certos ademanes do homem, a tal ponto que, por muito tempo, foram denominados: homens das florestas. Como o homem, esses macacos caminham eretos, usam cajados, constroem choças e levam à boca, com a mão, os alimentos: sinais característicos.
 
-######  GEN-1-10-p28
+###### 28
 
 Por pouco que se observe a escala dos seres vivos, do ponto de vista do organismo, é-se forçado a reconhecer que, desde o líquen até a árvore e desde o zoófito até o homem, há uma cadeia que se eleva gradativamente, sem solução de continuidade e seus anéis todos têm um ponto de contato com o anel precedente. Acompanhando-se passo a passo a série dos seres, dir-se-ia que cada espécie é um aperfeiçoamento, uma transformação da espécie imediatamente inferior. Visto que são idênticas às dos outros corpos as condições do corpo do homem, química e constitucionalmente; visto que ele nasce, vive e morre da mesma maneira, também nas mesmas condições que os outros se há de ele ter formado.
 
-######  GEN-1-10-p29
+###### 29
 
 Ainda que isso lhe fira o orgulho, tem o homem que se resignar a não ver no seu corpo material mais do que o último anel da animalidade na Terra. Aí está o inexorável argumento dos fatos, contra o qual seria inútil protestar.
 
 Todavia, quanto mais o corpo diminui de valor aos seus olhos, tanto mais cresce de importância o princípio espiritual. Se o primeiro o nivela ao bruto, o segundo o eleva a incomensurável altura. Vemos o limite extremo do animal: não vemos o limite a que chegará o espírito do homem.
 
-######  GEN-1-10-p30
+###### 30
 
 O materialismo pode por aí ver que o Espiritismo, longe de temer as descobertas da Ciência e o seu positivismo, lhe vai ao encontro e os provoca, por possuir a certeza de que o princípio espiritual, que tem existência própria, em nada pode com elas sofrer.
 
@@ -2228,7 +2259,9 @@ Para aqueles homens, lançados ao seio da selvajaria, a mãe-pátria não é um 
 
 Será crível, perguntamos agora, que esses homens mandados para a Nova Caledônia vão transformar-se de súbito em modelos de virtude? Que vão abjurar repentinamente seus erros do passado? Para supor tal coisa, fora necessário desconhecer a humanidade. Pela mesma razão, os Espíritos da raça adâmica, uma vez transplantados para a terra do exílio, não se despojaram instantaneamente do seu orgulho e de seus maus instintos; ainda por muito tempo conservaram as tendências que traziam, um resto da velha levedura. Ora, não é esse o pecado original?
 
-### 1.12
+### 1-11. 🗂️ Gênese espiritual
+
+### 1-12. 🗂️ Gênese moisaica
 
 ##### Os seis dias
 
@@ -2482,9 +2515,9 @@ Eram necessários os conhecimentos que o Espiritismo ministrou acerca das relaç
 
 Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que está na Terra e por que sofre. Sabe que tem nas mãos o seu futuro e que a duração do seu cativeiro neste mundo unicamente dele depende. Despida da alegoria acanhada e mesquinha, a Gênese se lhe apresenta grande e digna da majestade, da bondade e da justiça do Criador. Considerada desse ponto de vista, ela confundirá a incredulidade e triunfará.
 
-## 2
+## 2. 🗃️ Os Milagres
 
-### 2.13
+### 2-13. 🗂️ Caracteres dos milagres
 
 ######  01
 
@@ -2613,7 +2646,7 @@ Se tomarmos a palavra milagre em sua acepção etimológica, no sentido de coisa
 
 Querem dar ao povo, aos ignorantes, aos pobres de espírito uma ideia do poder de Deus? Mostrem-no na sabedoria infinita que preside a tudo, no admirável organismo de tudo o que vive, na frutificação das plantas, na apropriação de todas as partes de cada ser às suas necessidades, de acordo com o meio onde ele é posto a viver. Mostrem-lhes a ação de Deus na vergôntea de um arbusto, na flor que desabrocha, no Sol que tudo vivifica. Mostrem-lhes a sua bondade na solicitude que dispensa a todas as criaturas, por mais ínfimas que sejam, a sua previdência, na razão de ser de todas as coisas, entre as quais nenhuma inútil se conta, no bem que sempre decorre de um mal aparente e temporário. Façam-lhes compreender, principalmente, que o mal real é obra do homem e não de Deus; não procurem espavori-los com o quadro das penas eternas, em que acabam não mais crendo e que os levam a duvidar da Bondade de Deus; antes, deem-lhes coragem, mediante a certeza de poderem um dia redimir-se e reparar o mal que hajam praticado. Apontem-lhes as descobertas da Ciência como revelações das Leis divinas e não como obras de Satanás. Ensinem-lhes, finalmente, a ler no livro da natureza, constantemente aberto diante deles; nesse livro inesgotável, em cada uma de cujas páginas se acham inscritas a sabedoria e a bondade do Criador. Eles, então, compreenderão que um Ser tão grande, que com tudo se ocupa, que por tudo vela, que tudo prevê, forçosamente dispõe do poder supremo. Vê-lo-á o lavrador, ao sulcar o seu campo; e o desditoso, nas suas aflições, o bendirá dizendo: Se sou infeliz, é por culpa minha. Então, os homens serão verdadeiramente religiosos, racionalmente religiosos, sobretudo, muito mais do que acreditando em pedras que suam sangue, ou em estátuas que piscam os olhos e derramam lágrimas.
 
-### 2.14
+### 2-14. 🗂️ Os fluidos
 
 ##### Elementos fluídicos
 
@@ -3024,7 +3057,7 @@ São as mais das vezes individuais a obsessão e a possessão; mas, não raro s�
 
 [^167]: Nota de Allan Kardec: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
 
-### 2.15
+### 2-15. 🗂️ Os milagres do Evangelho
 
 ##### Superioridade da natureza de Jesus
 
@@ -3575,9 +3608,9 @@ Não é nova essa ideia sobre a natureza do corpo de Jesus. No quarto século, A
 
 [^183]: N.E.: Não somente foram anatematizados os apolinaristas, mas também os reencarnacionistas e os que se põem em comunicação com os mortos.
 
-## 3
+## 3. 🗃️ As Predições
 
-### 3.16
+### 3-16. 🗂️ Teoria da presciência
 
 ######  01
 
@@ -3683,7 +3716,7 @@ A humanidade contemporânea também conta seus profetas. Mais de um escritor, po
 
 Essa aptidão, sem dúvida, decorre, muitas vezes, da retidão do juízo, no deduzir as consequências lógicas do presente; mas, doutras vezes, também resulta de uma especial clarividência inconsciente, ou de uma inspiração vinda do exterior. O que tais homens fizeram quando vivos, podem, com razão mais forte e maior exatidão, fazer no estado de Espíritos livres, quando não têm a visão espiritual obscurecida pela matéria.
 
-### 3.17
+### 3-17. 🗂️ Predições do Evangelho
 
 ######  01
 
@@ -3873,163 +3906,522 @@ Tendo por missão transmitir aos homens o pensamento de Deus, somente a sua dout
 
 ##### A pedra angular
 
-######  27
+###### 27
 
-######  28
+> 
+>
+> Mateus, 21:42 a 46
 
-######  29
+###### 28
 
-######  30
+A palavra de Jesus se tornou a pedra angular, isto é, a pedra de consolidação do novo edifício da fé, erguido sobre as ruínas do antigo. Havendo os judeus, os príncipes dos sacerdotes e os fariseus rejeitado essa pedra, ela os esmagou, do mesmo modo que esmagará os que, depois, a desconheceram, ou lhe desfiguraram o sentido em prol de suas ambições.
 
-######  31
+##### Parábola dos vinhateiros homicidas
 
-######  32
+###### 29
 
-######  33
+>
+>
+> Mateus, 21:33 a 41
 
-######  34
+###### 30
 
-######  35
+O pai de família é Deus; a vinha que Ele plantou é a lei que estabeleceu; os vinhateiros a quem arrendou a vinha são os homens que devem ensinar e praticar a lei; os servos que enviou aos arrendatários são os profetas que estes últimos massacraram; seu filho, enviado por último, é Jesus, a quem eles igualmente eliminaram. Como tratará o Senhor os seus mandatários prevaricadores da lei? Tratá-los-á como seus enviados foram por eles tratados e chamará outros arrendatários que lhe prestem melhores contas de sua propriedade e do proceder do seu rebanho.
 
-######  36
+Assim aconteceu com os escribas, com os príncipes dos sacerdotes e com os fariseus; assim será, quando Ele vier de novo pedir a cada um contas do que fez da sua doutrina; retirará toda a autoridade ao que dela houver abusado, porquanto Ele quer que seu campo seja administrado de acordo com a sua vontade.
 
-######  37
+Ao cabo de dezoito séculos, tendo chegado à idade viril, a humanidade está suficientemente madura para compreender o que o Cristo apenas esflorou, porque então, como Ele próprio o disse, não o teriam compreendido. Ora, a que resultado chegaram os que, durante esse longo período, tiveram a seu cargo a educação religiosa da mesma humanidade? Ao de verem que a indiferença sucedeu à fé e que a incredulidade se alçou em doutrina. Em nenhuma outra época, com efeito, o ceticismo e o espírito de negação estiveram mais espalhados em todas as classes da sociedade.
 
-######  38
+Mas se algumas das palavras do Cristo se apresentam encobertas pelo véu da alegoria, pelo que concerne à regra de proceder, às relações de homem para homem, aos princípios morais a que Ele expressamente condicionou a salvação, seus ensinos são claros, explícitos, sem ambiguidade. (O evangelho segundo o espiritismo, cap. XV.)
 
-######  39
+Que fizeram das suas máximas de caridade, de amor e de tolerância; das recomendações que fez a seus apóstolos para que convertessem os homens pela brandura e pela persuasão; da simplicidade, da humildade, do desinteresse e de todas as virtudes que Ele exemplificou? Em seu nome, os homens se anatematizaram mutuamente e reciprocamente se amaldiçoaram; estrangularam-se em nome daquele que disse: “Todos os homens são irmãos.” Do Deus infinitamente justo, bom e misericordioso que Ele revelou, fizeram um Deus cioso, cruel, vingativo e parcial; àquele Deus, de paz e de verdade, sacrificaram nas fogueiras, pelas torturas e perseguições, muito maior número de vítimas, do que as que em todos os tempos os pagãos sacrificaram aos seus falsos deuses; venderam-se as orações e as graças do céu em nome daquele que expulsou do Templo os vendedores e que disse a seus discípulos: “Dai de graça o que de graça recebestes.”
 
-######  40
+Que diria o Cristo, se viesse hoje entre nós? Se visse os que se dizem seus representantes a ambicionar as honras, as riquezas, o poder e o fausto dos príncipes do mundo, ao passo que Ele, mais rei do que todos os reis da Terra, fez a sua entrada em Jerusalém montado num jumento? Não teria o direito de dizer-lhes: “Que fizestes dos meus ensinos, vós que incensais o bezerro de ouro, que dais a maior parte das vossas preces aos ricos, reservando uma parte insignificante aos pobres, sem embargo de haver eu dito: Os primeiros serão os últimos e os últimos serão os primeiros no reino dos céus?” Mas, se Ele não está carnalmente entre nós, está em Espírito e, como o senhor da parábola, virá pedir contas aos seus vinhateiros do produto da sua vinha, quando chegar o tempo da colheita.
 
-######  41
+##### Um só rebanho e um só pastor
 
-######  42
+###### 31
 
-######  43
+>
+>
+> João, 10:16
 
-######  44
+###### 32
 
-######  45
+Por essas palavras, Jesus claramente anuncia que os homens um dia se unirão por uma crença única; mas como poderá efetuar-se essa união? Difícil parecerá isso, tendo-se em vista as diferenças que existem entre as religiões, o antagonismo que elas alimentam entre seus adeptos, a obstinação que manifestam em se acreditarem na posse exclusiva da verdade. Todas querem a unidade, mas cada uma se lisonjeia de que essa unidade se fará em seu proveito e nenhuma admite a possibilidade de fazer qualquer concessão, no que respeita às suas crenças.
 
-######  46
+Entretanto, a unidade se fará em religião, como já tende a fazer-se socialmente, politicamente, comercialmente, pela queda das barreiras que separam os povos, pela assimilação dos costumes, dos usos, da linguagem. [^184] Os povos do mundo inteiro já confraternizam, como os das províncias de um mesmo império. Pressente-se essa unidade e todos a desejam. Ela se fará pela força das coisas, porque há de tornar-se uma necessidade, para que se estreitem os laços da fraternidade entre as nações; far-se-á pelo desenvolvimento da razão humana, que se tornará apta a compreender a puerilidade de todas as dissidências; pelo progresso das ciências, a demonstrar cada dia mais os erros materiais sobre que tais dissidências assentam e a destacar pouco a pouco das suas fiadas as pedras estragadas. Demolindo nas religiões o que é obra dos homens e fruto de sua ignorância das leis da natureza, a Ciência não poderá destruir, malgrado a opinião de alguns, o que é obra de Deus e eterna verdade. Afastando os acessórios, ela prepara as vias para a unidade.
 
-######  47
+A fim de chegarem a esta, as religiões terão que encontrar-se num terreno neutro, se bem que comum a todas; para isso, todas terão que fazer concessões e sacrifícios mais ou menos importantes, conformemente à multiplicidade dos seus dogmas particulares. Mas, em virtude do processo de imutabilidade que todas professam, a iniciativa das concessões não poderá partir do campo oficial; em lugar de tomarem no alto o ponto de partida, tomá-lo-ão embaixo por iniciativa individual. Desde algum tempo, um movimento se vem operando de descentralização, tendente a adquirir irresistível força. O princípio da imutabilidade, que as religiões hão sempre considerado uma égide conservadora, tornar-se-á elemento de destruição, dado que, imobilizando-se, ao passo que a sociedade caminha para a frente, os cultos serão ultrapassados e depois absorvidos pela corrente das ideias de progressão.
 
-######  48
+A imobilidade, em vez de ser uma força, torna-se uma causa de fraqueza e de ruína para quem não acompanha o movimento geral; ela quebra a unidade, porque os que querem avançar se separam dos que se obstinam em permanecer parados.
 
-######  49
+No estado atual da opinião e dos conhecimentos, a religião, que terá de congregar um dia todos os homens sob o mesmo estandarte, será a que melhor satisfaça à razão e às legítimas aspirações do coração e do espírito; que não seja em nenhum ponto desmentida pela ciência positiva; que, em vez de se imobilizar, acompanhe a humanidade em sua marcha progressiva, sem nunca deixar que a ultrapassem; que não for nem exclusivista, nem intolerante; que for a emancipadora da inteligência, com o não admitir senão a fé racional; aquela cujo código de moral seja o mais puro, o mais lógico, o mais de harmonia com as necessidades sociais, o mais apropriado, enfim, a fundar na Terra o reinado do Bem, pela prática da caridade e da fraternidade universais.
 
-######  50
+O que alimenta o antagonismo entre as religiões é a ideia, generalizada por todas elas, de que cada uma tem o seu deus particular e a pretensão de que este é o único verdadeiro e o mais poderoso, em luta constante com os deuses dos outros cultos e ocupado em lhes combater a influência. Quando elas se houverem convencido de que só existe um Deus no universo e que, em definitiva, Ele é o mesmo que elas adoram sob os nomes de Jeová, Alá ou Deus; quando se puserem de acordo sobre os atributos essenciais da Divindade, compreenderão que, sendo um único o Ser, uma única tem que ser a vontade suprema; estender-se-ão as mãos umas às outras, como os servidores de um mesmo Mestre e os filhos de um mesmo Pai e, assim, grande passo terão dado para a unidade.
 
-######  51
+##### Advento de Elias
 
-######  52
+###### 33
 
-######  53
+> 
+> 
+> Mateus, 17:10 a 13
 
-######  54
+###### 34
 
-######  55
+Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de modo explícito. Ora, como ele não pode voltar, senão tomando um novo corpo, aí temos a consagração formal do princípio da pluralidade das existências. (O evangelho segundo o espiritismo, cap. IV, item 10.)
 
-######  56
+##### Anunciação do Consolador
 
-######  57
+###### 35
 
-######  58
+>
+>
+> João, 14:15 a 17 e 26; O evangelho segundo o espiritismo, cap. VI.
 
-######  59
+###### 36
 
-######  60
+>
+>
+> João, 16:7 a 14
 
-######  61
+###### 37
 
-######  62
+Esta predição, não há contestar, é uma das mais importantes, do ponto de vista religioso, porquanto comprova, sem a possibilidade do menor equívoco, que Jesus não disse tudo o que tinha a dizer, pela razão de que não o teriam compreendido nem mesmo seus apóstolos, visto que a eles é que o Mestre se dirigia. Se lhes houvesse dado instruções secretas, os Evangelhos fariam referência a tais instruções. Ora, desde que Ele não disse tudo a seus apóstolos, os sucessores destes não terão podido saber mais do que eles, com relação ao que foi dito; ter-se-ão possivelmente enganado, quanto ao sentido das palavras do Senhor, ou dado interpretação falsa aos seus pensamentos, muitas vezes velados sob a forma parabólica. As religiões que se fundaram no Evangelho não podem, pois, dizer-se possuidoras de toda a verdade, porquanto Ele, Jesus, reservou para si a completação ulterior de seus ensinamentos. O princípio da imutabilidade, em que elas se firmam, constitui um desmentido às próprias palavras do Cristo.
 
-######  63
+Sob o nome de Consolador e de Espírito de Verdade, Jesus anunciou a vinda daquele que havia de ensinar todas as coisas e de lembrar o que Ele dissera. Logo, não estava completo o seu ensino. E, ao demais, prevê não só que ficaria esquecido, como também que seria desvirtuado o que por Ele fora dito, visto que o Espírito de Verdade viria tudo lembrar e, de combinação com Elias, restabelecer todas as coisas, isto é, pô-las de acordo com o verdadeiro pensamento de seus ensinos.
 
-######  64
+###### 38
 
-######  65
+Quando terá de vir esse novo revelador? É evidente que se, na época em que Jesus falava, os homens não se achavam em estado de compreender as coisas que lhe restavam a dizer, não seria em alguns anos apenas que poderiam adquirir as luzes necessárias a entendê-las. Para a inteligência de certas partes do Evangelho, excluídos os preceitos morais, faziam-se mister conhecimentos que só o progresso das ciências facultaria e que tinham de ser obra do tempo e de muitas gerações. Se, portanto, o novo Messias tivesse vindo pouco tempo depois do Cristo, houvera encontrado o terreno ainda nas mesmas condições e não teria feito mais do que o mesmo Cristo. Ora, desde aquela época até os nossos dias, nenhuma grande revelação se produziu que haja completado o Evangelho e elucidado suas partes obscuras, indício seguro de que o Enviado ainda não aparecera.
 
-######  66
+###### 39
 
-######  67
+Qual deverá ser esse Enviado? Dizendo: “Pedirei a meu Pai e Ele vos enviará outro Consolador”, Jesus claramente indica que esse Consolador não seria Ele, pois, do contrário, dissera: “Voltarei a completar o que vos tenho ensinado.” Não só tal não disse, como acrescentou: “A fim de que fique eternamente convosco e ele estará em vós.” Esta proposição não poderia referir-se a uma individualidade encarnada, visto que não poderia ficar eternamente conosco, nem, ainda menos, estar em nós; compreendemo-la, porém, muito bem com referência a uma doutrina, a qual, com efeito, quando a tenhamos assimilado, poderá estar eternamente em nós. O Consolador é, pois, segundo o pensamento de Jesus, a personificação de uma doutrina soberanamente consoladora, cujo inspirador há de ser o Espírito de Verdade.
 
-### 3.18
+###### 40
 
-######  GEN-2-18-p1
+O Espiritismo realiza, como ficou demonstrado (cap. I, item 30), todas as condições do Consolador que Jesus prometeu. Não é uma doutrina individual, nem de concepção humana; ninguém pode dizer-se seu criador. É fruto do ensino coletivo dos Espíritos, ensino a que preside o Espírito de Verdade. Nada suprime do Evangelho: antes o completa e elucida. Com o auxílio das novas leis que revela, conjugadas essas leis às que a Ciência já descobrira, faz se compreenda o que era ininteligível e se admita a possibilidade daquilo que a incredulidade considerava inadmissível. Teve precursores e profetas, que lhe pressentiram a vinda. Pela sua força moralizadora, ele prepara o reinado do bem na Terra.
 
-######  GEN-2-18-p2
+A doutrina de Moisés, incompleta, ficou circunscrita ao povo judeu; a de Jesus, mais completa, se espalhou por toda a Terra, mediante o Cristianismo, mas não converteu a todos; o Espiritismo, ainda mais completo, com raízes em todas as crenças, converterá a humanidade. [^185]
 
-######  GEN-2-18-p3
+###### 41
 
-######  GEN-2-18-p4
+Dizendo a seus apóstolos: “Outro virá mais tarde, que vos ensinará o que agora não posso ensinar”, proclamava Jesus a necessidade da reencarnação. Como poderiam aqueles homens aproveitar do ensino mais completo que ulteriormente seria ministrado; como estariam aptos a compreendê-lo, se não tivessem de viver novamente? Jesus houvera proferido uma coisa inconsequente se, de acordo com a doutrina vulgar, os homens futuros houvessem de ser homens novos, almas saídas do nada por ocasião do nascimento. Admita-se, ao contrário, que os apóstolos e os homens do tempo deles tenham vivido depois; que ainda hoje revivem, e plenamente justificada estará a promessa de Jesus. Tendo-se desenvolvido ao contato do progresso social, a inteligência deles pode presentemente comportar o que então não podia. Sem a reencarnação a promessa de Jesus fora ilusória.
 
-######  GEN-2-18-p5
+###### 42
 
-######  GEN-2-18-p6
+Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da descida do Espírito Santo, poder-se-á responder que o Espírito Santo os inspirou, que lhes desanuviou a inteligência, que desenvolveu neles as aptidões mediúnicas destinadas a facilitar-lhes a missão, porém que nada lhes ensinou além daquilo que Jesus já ensinara, porquanto, no que deixaram, nenhum vestígio se encontra de um ensinamento especial. O Espírito Santo, pois, não realizou o que Jesus anunciara relativamente ao Consolador; a não ser assim, os apóstolos teriam elucidado o que, no Evangelho, permaneceu obscuro até o dia de hoje e cuja interpretação contraditória deu origem às inúmeras seitas que dividiram o Cristianismo desde os primeiros séculos.
 
-######  GEN-2-18-p7
+##### Segundo advento do Cristo
 
-######  GEN-2-18-p8
+###### 43
 
-######  GEN-2-18-p9
+>
+>
+> Mateus, 16:24 a 28
 
-######  GEN-2-18-p10
+###### 44
 
-######  GEN-2-18-p11
+>
+>
+> Marcos, 16:60 a 63
 
-######  GEN-2-18-p12
+###### 45
 
-######  GEN-2-18-p13
+Jesus anuncia o seu segundo advento, mas não diz que voltará à Terra com um corpo carnal, nem que personificará o Consolador. Apresenta-se como tendo de vir em Espírito, na glória de seu Pai, a julgar o mérito e o demérito e dar a cada um segundo as suas obras, quando os tempos forem chegados.
 
-######  GEN-2-18-p14
+Estas palavras: “Alguns há dos que aqui estão que não sofrerão a morte sem terem visto vir o Filho do Homem no seu reinado” parecem encerrar uma contradição, pois é incontestável que Ele não veio em vida de nenhum daqueles que estavam presentes. Jesus, entretanto, não podia enganar-se numa previsão daquela natureza e, sobretudo, com relação a uma coisa contemporânea e que lhe dizia pessoalmente respeito. Há, primeiro, que indagar se suas palavras foram sempre reproduzidas fielmente. É de duvidar-se, desde que se considere que Ele nada escreveu; que elas só foram registradas depois de sua morte; que o mesmo discurso cada evangelista o exarou em termos diferentes, o que constitui prova evidente de que as expressões de que eles se serviram não são textualmente as de que se serviu Jesus. Além disso, é provável que o sentido tenha sofrido alterações ao passar pelas traduções sucessivas.
 
-######  GEN-2-18-p15
+Por outro lado, é indubitável que, se Jesus houvesse dito tudo o que pudera dizer, Ele se teria expressado sobre todas as coisas de modo claro e preciso, sem dar lugar a qualquer equívoco, conforme o fez com relação aos princípios de moral, ao passo que foi obrigado a velar o seu pensamento acerca dos assuntos que não julgou conveniente aprofundar. Persuadidos de que a geração de que faziam parte testemunharia o que Ele anunciava, os discípulos foram levados a interpretar o pensamento de Jesus de acordo com aquela ideia. Assim é que redigiram do ponto de vista do presente o que o Mestre dissera, fazendo-o de maneira mais absoluta do que Ele próprio o teria feito. Seja como for, o fato é que as coisas não se passaram como eles o supuseram.
 
-######  GEN-2-18-p16
+###### 46
 
-######  GEN-2-18-p17
+A grande e importante lei da reencarnação foi um dos pontos capitais que Jesus não pôde desenvolver, porque os homens do seu tempo não se achavam suficientemente preparados para ideias dessa ordem e para as suas consequências. Contudo, assentou o princípio da referida lei, como o fez relativamente a tudo mais. Estudada e posta em evidência nos dias atuais pelo Espiritismo, a lei da reencarnação constitui a chave para o entendimento de muitas passagens do Evangelho que, sem ela, parecem verdadeiros contrassensos.
 
-######  GEN-2-18-p18
+É por meio dessa lei que se encontra a explicação racional das palavras acima, admitidas que sejam como textuais. Uma vez que elas não podem ser aplicadas às pessoas dos apóstolos, é evidente que se referem ao futuro reinado do Cristo, isto é, ao tempo em que a sua doutrina, mais bem compreendida, for lei universal. Dizendo que alguns dos ali presentes na ocasião veriam o seu advento, Ele forçosamente se referia aos que estarão vivos de novo nessa época. Os judeus, porém, imaginavam que lhes seria dado ver tudo o que Jesus anunciava e tomavam ao pé da letra suas frases alegóricas.
 
-######  GEN-2-18-p19
+Aliás, algumas de suas predições se realizaram no devido tempo, tais como a ruína de Jerusalém, as desgraças que se lhe seguiram e a dispersão dos judeus. Sua visão, porém, se projetava muito mais longe, de sorte que, quando falava do presente, sempre aludia ao futuro.
 
-######  GEN-2-18-p20
+##### Sinais precursores
 
-######  GEN-2-18-p21
+###### 47
 
-######  GEN-2-18-p22
+>
+>
+> Mateus, 24:6 a 8
 
-######  GEN-2-18-p23
+###### 48
 
-######  GEN-2-18-p24
+>
+>
+> Marcos, 13:12 e 13
 
-######  GEN-2-18-p25
+###### 49
 
-######  GEN-2-18-p26
+>
+>
+> Mateus, 24:15 a 22
 
-######  GEN-2-18-p27
+###### 50
 
-######  GEN-2-18-p28
+>
+>
+> Mateus, 24:29 a 34
 
-######  GEN-2-18-p29
+>
+>
+> Mateus, 24:37 a 39
 
-######  GEN-2-18-p30
+###### 51
 
-######  GEN-2-18-p31
+>
+>
+> Marcos, 13:32
 
-######  GEN-2-18-p32
+###### 52
 
-######  GEN-2-18-p33
+>
+>
+> João, 16:20 a 22
 
-######  GEN-2-18-p34
+###### 53
 
-######  GEN-2-18-p35
+>
+>
+> Mateus, 24:11 a 14
+
+###### 54
+
+É evidentemente alegórico este quadro do fim dos tempos, como a maioria dos que Jesus compunha. Pelo seu vigor, as imagens que Ele encerra são de natureza a impressionar inteligências ainda rudes. Para tocar fortemente aquelas imaginações pouco sutis, eram necessárias pinturas vigorosas, de cores bem acentuadas. Ele se dirigia principalmente ao povo, aos homens menos esclarecidos, incapazes de compreender as abstrações metafísicas e de apanhar a delicadeza das formas. A fim de atingir o coração, fazia-se-lhe mister falar aos olhos, com o auxílio de sinais materiais, e aos ouvidos, por meio da força da linguagem.
+
+Como consequência natural daquela disposição de espírito, à suprema potestade, segundo a crença de então, não era possível manifestar-se, a não ser por meio de fatos extraordinários, sobrenaturais. Quanto mais impossíveis fossem esses fatos, tanto mais facilmente aceita era a probabilidade deles.
+
+O Filho do Homem, a vir sobre nuvens, com grande majestade, cercado de seus anjos e ao som de trombetas, lhes parecia de muito maior imponência, do que a simples vinda de uma entidade investida apenas de poder moral. Por isso mesmo, os judeus, que esperavam no Messias um rei terreno, mais poderoso do que todos os outros reis, destinado a colocar-lhes a nação à frente de todas as demais e a reerguer o trono de Davi e de Salomão, não quiseram reconhecê-lo no humilde filho de um carpinteiro, sem autoridade material.
+
+No entanto, aquele pobre proletário da Judeia se tornou o maior entre os grandes; conquistou para a sua soberania maior número de reinos, do que os mais poderosos potentados; exclusivamente com a sua palavra e o concurso de alguns miseráveis pescadores, revolucionou o mundo e a Ele é que os judeus virão a dever sua reabilitação. Disse, pois, uma verdade, quando, respondendo a esta pergunta de Pilatos: “És rei?” respondeu: “Tu o dizes.”
+
+###### 55
+
+É de notar-se que, entre os antigos, os tremores de terra e o obscurecimento do Sol eram acessórios forçados de todos os acontecimentos e de todos os presságios sinistros. Com eles deparamos, por ocasião da morte de Jesus, da de César e num sem-número de outras circunstâncias da história do paganismo. Se tais fenômenos se houvessem produzido tão amiudadas vezes quantas são relatados, fora de ter-se por impossível que os homens não houvessem guardado deles lembrança pela tradição. Aqui, acrescenta-se a queda de estrelas do céu, como que a mostrar às gerações futuras, mais esclarecidas, que não há nisso senão uma ficção, pois que agora se sabe que as estrelas não podem cair.
+
+###### 56
+
+Entretanto, sob essas alegorias, grandes verdades se ocultam. Há, primeiramente, a predição das calamidades de todo gênero que assolarão e dizimarão a humanidade, calamidades decorrentes da luta suprema entre o bem e o mal, entre a fé e a incredulidade, entre as ideias progressistas e as ideias retrógradas. Há, em segundo lugar, a da difusão, por toda a Terra, do Evangelho restaurado na sua pureza primitiva; depois, a do reinado do bem, que será o da paz e da fraternidade universais, a derivar do código de moral evangélica, posto em prática por todos os povos. Será, verdadeiramente, o reino de Jesus, pois que Ele presidirá à sua implantação, passando os homens a viver sob a égide da sua lei. Será o reinado da felicidade, porquanto diz Ele que — “depois dos dias de aflição, virão os de alegria”.
+
+###### 57
+
+Quando sucederão tais coisas? “Ninguém o sabe” diz Jesus, “nem mesmo o Filho.” Mas, quando chegar o momento, os homens serão advertidos por meio de sinais precursores. Esses indícios, porém, não estarão nem no Sol, nem nas estrelas; mostrar-se-ão no estado social e nos fenômenos mais de ordem moral do que físicos e que, em parte, se podem deduzir das suas alusões.
+
+É indubitável que aquela mutação não poderia operar-se em vida dos apóstolos, pois, do contrário, Jesus não lhe desconheceria o momento. Aliás, semelhante transformação não era possível se desse dentro de apenas alguns anos. Contudo, dela lhes fala como se eles a houvessem de presenciar; é que, com efeito, eles poderão estar reencarnados quando a transformação se der e, até, colaborar na sua efetivação. Ele ora fala da sorte próxima de Jerusalém, ora toma esse fato por ponto de referência ao que ocorreria no futuro.
+
+###### 58
+
+Será que, predizendo a sua segunda vinda, era o fim do mundo o que Jesus anunciava, dizendo: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim?”
+
+Não é racional se suponha que Deus destrua o mundo precisamente quando ele entre no caminho do progresso moral, pela prática dos ensinos evangélicos. Nada, aliás, nas palavras do Cristo, indica uma destruição universal que, em tais condições, não se justificaria.
+
+Devendo a prática geral do Evangelho determinar grande melhora no estado moral dos homens, ela, por isso mesmo, trará o reinado do bem e acarretará a queda do mal. É, pois, o fim do mundo velho, do mundo governado pelos preconceitos, pelo orgulho, pelo egoísmo, pelo fanatismo, pela incredulidade, pela cupidez, por todas as paixões pecaminosas, que o Cristo aludia, ao dizer: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim.” Esse fim, porém, para chegar, ocasionaria uma luta e é dessa luta que advirão os males por Ele previstos.
+
+##### Vossos filhos e vossas filhas profetizarão
+
+###### 59
+
+>
+>
+> Atos, 2:17 e 18; Joel, 2:28 e 29
+
+###### 60
+
+Se considerarmos o estado atual do mundo físico e do mundo moral, as tendências, aspirações e pressentimentos das massas, a decadência das ideias antigas que em vão se debatem há um século contra as ideias novas, não poderemos duvidar de que uma nova ordem de coisas se prepara e que o mundo velho chega a seu termo.
+
+Se, agora, levando em conta a forma alegórica de alguns quadros e perscrutando o sentido profundo das palavras de Jesus, compararmos a situação atual com os tempos por Ele descritos, como assinaladores da era da renovação, não poderemos deixar de convir em que muitas das suas predições se estão presentemente realizando; donde a conclusão de que atingimos os tempos anunciados, o que confirmam, em todos os pontos do globo, os Espíritos que se manifestam.
+
+###### 61
+
+Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento do Espiritismo realiza uma das mais importantes predições de Jesus, pela influência que ele forçosamente tem de exercer sobre as ideias. Ele se encontra, além disso, anunciado, nos Atos dos Apóstolos: “Nos últimos tempos, diz o Senhor, derramarei do meu Espírito sobre toda carne; vossos filhos e filhas profetizarão.”
+
+É a predição inequívoca da vulgarização da mediunidade, que presentemente se revela em indivíduos de todas as idades, de ambos os sexos e de todas as condições; a predição, por conseguinte, da manifestação universal dos Espíritos, pois que sem os Espíritos não haveria médiuns. Isso, conforme está dito, acontecerá nos últimos tempos; ora, visto que não chegamos ao fim do mundo, mas, ao contrário, à época da sua regeneração, devemos entender aquelas palavras como indicativas dos últimos tempos do mundo moral que chega a seu termo. (O evangelho segundo o espiritismo, cap. XXI.)
+
+##### Juízo final
+
+###### 62
+
+>
+>
+> Mateus, 25:31 a 46; O evangelho segundo o espiritismo, cap. XV
+
+###### 63
+
+Tendo que reinar na Terra o bem, necessário é sejam dela excluídos os Espíritos endurecidos no mal e que possam acarretar-lhe perturbações. Deus permitiu que eles aí permanecessem o tempo de que precisavam para se melhorarem; mas, chegado o momento em que, pelo progresso moral de seus habitantes, o globo terráqueo tem de ascender na hierarquia dos mundos, interdito será ele, como morada, a encarnados e desencarnados que não hajam aproveitado os ensinamentos que uns e outros se achavam em condições de aí receber. Serão exilados para mundos inferiores, como o foram outrora para a Terra os da raça adâmica, vindo substituí-los Espíritos melhores. Essa separação, a que Jesus presidirá, é que se acha figurada por estas palavras sobre o juízo final: “Os bons passarão à minha direita e os maus à minha esquerda.” (Cap. XI, itens 31 e seguintes.)
+
+###### 64
+
+A doutrina de um juízo final, único e universal, pondo fim para sempre à humanidade, repugna à razão, por implicar a inatividade de Deus, durante a eternidade que precedeu à criação da Terra e durante a eternidade que se seguirá à sua destruição. Que utilidade teriam então o Sol, a Lua e as estrelas que, segundo a Gênese, foram feitos para iluminar o mundo? Causa espanto que tão imensa obra se haja produzido para tão pouco tempo e a benefício de seres votados de antemão, em sua maioria, aos suplícios eternos.
+
+###### 65
+
+Materialmente, a ideia de um julgamento único seria, até certo ponto, admissível para os que não procuram a razão das coisas, quando se cria que a humanidade toda se achava concentrada na Terra e que para seus habitantes fora feito tudo o que o universo contém. É, porém, inadmissível, desde que se sabe que há milhares de milhares de mundos semelhantes, que perpetuam as humanidades pela eternidade em fora e entre os quais a Terra é dos menos consideráveis, simples ponto imperceptível.
+
+Vê-se, só por este fato, que Jesus tinha razão de declarar a seus discípulos: “Há muitas coisas que não vos posso dizer, porque não as compreenderíeis”, dado que o progresso das ciências era indispensável para uma interpretação legítima de algumas de suas palavras. Certamente, os apóstolos, Paulo e os primeiros discípulos teriam estabelecido de modo muito diverso alguns dogmas se tivessem os conhecimentos astronômicos, geológicos, físicos, químicos, fisiológicos e psicológicos que hoje possuímos. Daí vem o ter Jesus adiado a completação de seus ensinos e anunciado que todas as coisas haviam de ser restabelecidas.
+
+###### 66
+
+Moralmente, um juízo definitivo e sem apelação não se concilia com a bondade infinita do Criador, que Jesus nos apresenta de contínuo como um bom Pai, que deixa sempre aberta uma senda para o arrependimento e que está pronto sempre a estender os braços ao filho pródigo. Se Jesus entendesse o juízo naquele sentido, desmentiria suas próprias palavras.
+
+Além disso, se o juízo final houvesse de apanhar de improviso os homens, em meio de seus trabalhos ordinários, e grávidas as mulheres, caberia perguntar-se com que fim Deus, que não faz coisa alguma inútil ou injusta, faria nascessem crianças e criaria almas novas naquele momento supremo, no termo fatal da humanidade. Seria para submetê-las a julgamento logo ao saírem do ventre materno, antes de terem consciência de si mesmas, quando, a outros, milhares de anos foram concedidos para se inteirarem do que respeita à própria individualidade? Para que lado, direito ou esquerdo, iriam essas almas, que ainda não são nem boas nem más e para as quais, no entanto, todos os caminhos de ulterior progresso se encontrariam desde então fechados, visto que a humanidade não mais existiria? (Cap. II, item 19.)
+
+Conservem-nas os que se contentam com semelhantes crenças; estão no seu direito e ninguém nada tem que dizer a isso; mas, não achem mau que nem toda gente partilhe delas.
+
+###### 67
+
+O juízo, pelo processo da emigração, conforme ficou explicado acima (item 63), é racional; funda-se na mais rigorosa justiça, visto que conserva para o Espírito, eternamente, o seu livre-arbítrio; não constitui privilégio para ninguém; a todas as suas criaturas, sem exceção alguma, concede Deus igual liberdade de ação para progredirem; o próprio aniquilamento de um mundo, acarretando a destruição do corpo, nenhuma interrupção ocasionará à marcha progressiva do Espírito. Tais as consequências da pluralidade dos mundos e da pluralidade das existências.
+
+Segundo essa interpretação, não é exata a qualificação de juízo final, pois que os Espíritos passam por análogas fieiras a cada renovação dos mundos por eles habitados, até que atinjam certo grau de perfeição. Não há, portanto, juízo final propriamente dito, mas juízos gerais em todas as épocas de renovação parcial ou total da população dos mundos, por efeito das quais se operam as grandes emigrações e imigrações de Espíritos.
+
+### 3-18. 🗂️ São chegados os tempos
+
+##### Sinais dos tempos
+
+###### 01
+
+São chegados os tempos, dizem-nos de todas as partes, marcados por Deus, em que grandes acontecimentos se vão dar para regeneração da humanidade. Em que sentido se devem entender essas palavras proféticas? Para os incrédulos, nenhuma importância têm; aos seus olhos, nada mais exprimem que uma crença pueril, sem fundamento. Para a maioria dos crentes, elas apresentam qualquer coisa de místico e de sobrenatural, parecendo-lhes prenunciadoras da subversão das leis da natureza. São igualmente errôneas ambas essas interpretações: a primeira, porque envolve uma negação da Providência; a segunda, porque tais palavras não anunciam a perturbação das leis da natureza, mas o cumprimento dessas leis.
+
+###### 02
+
+Tudo na Criação é harmonia; tudo revela uma previdência que não se desmente, nem nas menores, nem nas maiores coisas. Temos, pois, que afastar, desde logo, toda ideia de capricho, por inconciliável com a Sabedoria divina. Em segundo lugar, se a nossa época está designada para a realização de certas coisas, é que estas têm uma razão de ser na marcha do conjunto.
+
+Isto posto, diremos que o nosso globo, como tudo o que existe, esta submetido à lei do progresso. Ele progride, fisicamente, pela transformação dos elementos que o compõem e, moralmente, pela depuração dos Espíritos encarnados e desencarnados que o povoam. Ambos esses progressos se realizam paralelamente, porquanto o melhoramento da habitação guarda relação com o do habitante. Fisicamente, o globo terráqueo há experimentado transformações que a Ciência tem comprovado e que o tornaram sucessivamente habitável por seres cada vez mais aperfeiçoados. Moralmente, a humanidade progride pelo desenvolvimento da inteligência, do senso moral e do abrandamento dos costumes. Ao mesmo tempo que o melhoramento do globo se opera sob a ação das forças materiais, os homens para isso concorrem pelos esforços de sua inteligência. Saneiam as regiões insalubres, tornam mais fáceis as comunicações e mais produtiva a terra.
+
+De duas maneiras se executa esse duplo progresso: uma, lenta, gradual e insensível; a outra, caracterizada por mudanças bruscas, a cada uma das quais corresponde um movimento ascensional mais rápido, que assinala, mediante impressões bem acentuadas, os períodos progressivos da humanidade. Esses movimentos, subordinados, quanto às particularidades, ao livre-arbítrio dos homens, são, de certo modo, fatais em seu conjunto, porque estão sujeitos a leis, como os que se verificam na germinação, no crescimento e na maturidade das plantas. Por isso é que o movimento progressivo se efetua, às vezes, de modo parcial, isto é, limitado a uma raça ou a uma nação, doutras vezes, de modo geral.
+
+O progresso da humanidade se cumpre, pois, em virtude de uma lei. Ora, como todas as leis da natureza são obra eterna da sabedoria e da presciência divinas, tudo o que é efeito dessas leis resulta da vontade de Deus, não de uma vontade acidental e caprichosa, mas de uma vontade imutável. Quando, por conseguinte, a humanidade está madura para subir um degrau, pode dizer-se que são chegados os tempos marcados por Deus, como se pode dizer também que, em tal estação, eles chegam para a maturação dos frutos e sua colheita.
+
+###### 03
+
+Do fato de ser inevitável, porque é da natureza o movimento progressivo da humanidade, não se segue que Deus lhe seja indiferente e que, depois de ter estabelecido leis, se haja recolhido à inação, deixando que as coisas caminhem por si sós. Sem dúvida, suas leis são eternas e imutáveis, mas porque a sua própria vontade é eterna e constante e porque o seu pensamento anima sem interrupção todas as coisas. Esse pensamento, que em tudo penetra, é a força inteligente e permanente que mantém a harmonia em tudo. Cessasse ele um só instante de atuar e o universo seria como um relógio sem pêndulo regulador. Deus, pois, vela incessantemente pela execução de suas leis e os Espíritos que povoam o espaço são seus ministros, encarregados de atender aos pormenores, dentro de atribuições que correspondem ao grau de adiantamento que tenham alcançado.
+
+###### 04
+
+O universo é, ao mesmo tempo, um mecanismo incomensurável, acionado por um número incontável de inteligências, e um imenso governo em o qual cada ser inteligente tem a sua parte de ação sob as vistas do soberano Senhor, cuja vontade única mantém por toda parte a unidade. Sob o império dessa vasta potência reguladora, tudo se move, tudo funciona em perfeita ordem. Onde nos parece haver perturbações, o que há são movimentos parciais e isolados, que se nos afiguram irregulares apenas porque circunscrita é a nossa visão. Se lhes pudéssemos abarcar o conjunto, veríamos que tais irregularidades são apenas aparentes e que se harmonizam com o todo.
+
+###### 05
+
+A humanidade tem realizado, até o presente, incontestáveis progressos. Os homens, com a sua inteligência, chegaram a resultados que jamais haviam alcançado, sob o ponto de vista das ciências, das artes e do bem-estar material. Resta-lhes ainda um imenso progresso a realizar: o de fazerem que entre si reinem a caridade, a fraternidade, a solidariedade, que lhes assegurem o bem-estar moral. Não poderiam consegui-lo nem com as suas crenças, nem com as suas instituições antiquadas, restos de outra idade, boas para certa época, suficientes para um estado transitório, mas que, havendo dado tudo o que comportavam, seriam hoje um entrave. Já não é somente de desenvolver a inteligência o de que os homens necessitam, mas de elevar o sentimento e, para isso, faz-se preciso destruir tudo o que superexcite neles o egoísmo e o orgulho.
+
+Tal o período em que doravante vão entrar e que marcará uma das fases principais da vida da humanidade. Essa fase, que neste momento se elabora, é o complemento indispensável do estado precedente, como a idade viril o é da juventude. Ela podia, pois, ser prevista e predita de antemão e é por isso que se diz que são chegados os tempos determinados por Deus.
+
+###### 06
+
+Nestes tempos, porém, não se trata de uma mudança parcial, de uma renovação limitada a certa região, ou a um povo, a uma raça.
+
+Trata-se de um movimento universal, a operar-se no sentido do progresso moral. Uma nova ordem de coisas tende a estabelecer-se, e os homens, que mais opostos lhe são, para ela trabalham a seu mau grado. A geração futura, desembaraçada das escórias do velho mundo e formada de elementos mais depurados, se achará possuída de ideias e de sentimentos muito diversos dos da geração presente, que se vai a passo de gigante. O velho mundo estará morto e apenas viverá na História, como o estão hoje os tempos da Idade Média, com seus costumes bárbaros e suas crenças supersticiosas.
+
+Aliás, todos sabem quanto ainda deixa a desejar a atual ordem de coisas. Depois de se haver, de certo modo, considerado todo o bem-estar material, produto da inteligência, logra-se compreender que o complemento desse bem-estar somente pode achar-se no desenvolvimento moral. Quanto mais se avança, tanto mais se sente o que falta, sem que, entretanto, se possa ainda definir claramente o que seja: é isso efeito do trabalho íntimo que se opera em prol da regeneração. Surgem desejos, aspirações, que são como que o pressentimento de um estado melhor.
+
+###### 07
+
+Mas uma mudança tão radical como a que se está elaborando não pode realizar-se sem comoções. Há, inevitavelmente, luta de ideias. Desse conflito forçosamente se originarão passageiras perturbações, até que o terreno se ache aplanado e restabelecido o equilíbrio. É, pois, da luta das ideias que surgirão os graves acontecimentos preditos e não de cataclismos ou catástrofes puramente materiais. Os cataclismos gerais foram consequência do estado de formação da Terra. Hoje, não são mais as entranhas do planeta que se agitam: são as da humanidade.
+
+###### 08
+
+Se a Terra já não tem que temer os cataclismos gerais, nem por isso deixa de estar sujeita a periódicas revoluções, cujas causas, do ponto de vista científico, se encontram explicadas nas instruções seguintes, promanantes de dois Espíritos eminentes: [^187]
+
+“Cada corpo celeste, além das leis simples que presidem à divisão dos dias e das noites, das estações etc., experimenta revoluções que demandam milhares de séculos para sua realização completa, porém que, como as revoluções mais breves, passam por todos os períodos, desde o de nascimento até o de um máximo de efeito, após o qual há decrescimento, até o limite extremo, para recomeçar em seguida o percurso das mesmas fases.
+
+“O homem apenas apreende as fases de duração relativamente curta e cuja periodicidade ele pode comprovar. Algumas, no entanto, há que abrangem longas gerações de seres e, até, sucessões de raças, revoluções essas cujos efeitos, conseguintemente, se lhe apresentam com caráter de novidade e de espontaneidade, ao passo que, se seu olhar pudesse projetar-se para trás alguns milhares de séculos, veria, entre aqueles mesmos efeitos e suas causas, uma correlação de que nem suspeita. Esses períodos que, pela sua extensão relativa, confundem a imaginação dos humanos, não são, contudo, mais do que instantes na duração eterna.
+
+“Num mesmo sistema planetário, todos os corpos que o constituem reagem uns sobre os outros; todas as influências físicas são nele solidárias e nem um só há, dos efeitos que designais pelo nome de grandes perturbações, que não seja consequência da componente das influências de todo o sistema.
+
+“Vou mais longe: digo que os sistemas planetários reagem uns sobre os outros, na razão da proximidade ou do afastamento resultantes do movimento de translação deles, através das miríades de sistemas que compõem a nossa nebulosa. Ainda vou mais longe: digo que a nossa nebulosa, que é um como arquipélago na imensidade, tendo também seu movimento de translação através das miríades de nebulosas, sofre a influência das de que ela se aproxima.
+
+“De sorte que as nebulosas reagem sobre as nebulosas, os sistemas reagem sobre os sistemas, como os planetas reagem sobre os planetas, como os elementos de cada planeta reagem uns sobre os outros e assim sucessivamente até o átomo. Daí, em cada mundo, revoluções locais ou gerais, que sê não parecem perturbações porque a brevidade da vida não permite se lhes percebam mais do que os efeitos parciais.
+
+“A matéria orgânica não poderia escapar a essas influências; as perturbações que ela sofre podem, pois, alterar o estado físico dos seres vivos e determinar algumas dessas enfermidades que atacam de modo geral as plantas, os animais e os homens, enfermidades que, como todos os flagelos, são, para a inteligência humana, um estimulante que a impele, por força da necessidade, a procurar meios de os combater e a descobrir leis da natureza.
+
+“Mas a matéria orgânica, a seu turno, reage sobre o Espírito. Este, pelo seu contato e sua ligação íntima com os elementos materiais, também sofre influências que lhe modificam as disposições, sem, no entanto, privá-lo do livre-arbítrio, que lhe sobre-excitam ou atenuam a atividade e que, pois, contribuem para o seu desenvolvimento. A efervescência que por vezes se manifesta em toda uma população, entre os homens de uma mesma raça, não é coisa fortuita, nem resultado de um capricho; tem sua causa nas leis da natureza. Essa efervescência, inconsciente a princípio, não passando de vago desejo, de aspiração indefinida por alguma coisa melhor, de certa necessidade de mudança, traduz-se por uma surda agitação, depois por atos que levam às revoluções sociais, que, acreditai-o, também têm sua periodicidade, como as revoluções físicas, pois que tudo se encadeia. Se não tivésseis a visão espiritual limitada pelo véu da matéria, veríeis as correntes fluídicas que, como milhares de fios condutores, ligam as coisas do mundo espiritual às do mundo material.
+
+“Quando se vos diz que a humanidade chegou a um período de transformação e que a Terra tem que se elevar na hierarquia dos mundos, nada de místico vejais nessas palavras; vede, ao contrário, a execução da uma das grandes leis fatais do universo, contra as quais se quebra toda a má vontade humana.” [^188]
+
+**Arago**
+
+###### 09
+
+Sim, decerto, a humanidade se transforma, como já se transformou noutras épocas, e cada transformação se assinala por uma crise que é, para o gênero humano, o que são, para os indivíduos, as crises de crescimento. Aquelas se tornam, muitas vezes, penosas, dolorosas, e arrebatam consigo as gerações e as instituições, mas, são sempre seguidas de uma fase de progresso material e moral.
+
+A humanidade terrestre, tendo chegado a um desses períodos de crescimento, está em cheio, há quase um século, no trabalho da sua transformação, pelo que a vemos agitar-se de todos os lados, presa de uma espécie de febre e como que impelida por invisível força. Assim continuará, até que se haja outra vez estabilizado em novas bases. Quem a observar, então, achá-la-á muito mudada em seus costumes, em seu caráter, nas suas leis, em suas crenças, numa palavra: em todo o seu estado social.
+
+“Uma coisa que vos parecerá estranhável, mas que por isso não deixa de ser rigorosa verdade, é que o mundo dos Espíritos, mundo que vos rodeia, experimenta o contrachoque de todas as comoções que abalam o mundo dos encarnados. Digo mesmo que aquele toma parte ativa nessas comoções. Nada tem isto de surpreendente, para quem sabe que os Espíritos fazem corpo com a humanidade; que eles saem dela e a ela têm de voltar, sendo, pois, natural se interessem pelos movimentos que se operam entre os homens. Ficai, portanto, certos de que, quando uma revolução social se produz na Terra, abala igualmente o mundo invisível, onde todas as paixões, boas e más, se exacerbam, como entre vós. Indizível efervescência entra a reinar na coletividade dos Espíritos que ainda pertencem ao vosso mundo e que aguardam o momento de a ele volver.
+
+“À agitação dos encarnados e desencarnados se juntam às vezes, e frequentemente mesmo, já que tudo se conjuga em a natureza, as perturbações dos elementos físicos. Dá-se então, durante algum tempo, verdadeira confusão geral, mas que passa como furacão, após o qual o céu volta a estar sereno, e a humanidade, reconstituída sobre novas bases, imbuída de novas ideias, começa a percorrer nova etapa de progresso.
+
+“É no período que ora se inicia que o Espiritismo florescerá e dará frutos. Trabalhais, portanto, mais para o futuro, do que para o presente. Era, porém, necessário que esses trabalhos se preparassem antecipadamente, porque eles traçam as sendas da regeneração, pela unificação e racionalidade das crenças. Ditosos os que deles aproveitam desde já. Tantas penas se pouparão esses, quantos forem os proveitos que deles aufiram.”
+
+**Doutor Barry**
+
+###### 10
+
+Do que precede resulta que, em consequência do movimento de translação que executam no espaço, os corpos celestes exercem, uns sobre os outros, maior ou menor influência, conforme a proximidade em que se achem entre si e as suas respectivas posições; que essa influência pode acarretar uma perturbação momentânea aos seus elementos constitutivos e modificar as condições de vitalidade dos seus habitantes; que a regularidade dos movimentos determina a volta periódica das mesmas causas e dos mesmos efeitos; que, se demasiado curta é a duração de certos períodos para que os homens os apreciem, outros veem passar gerações e raças que deles não se apercebem e às quais se afigura normal o estado de coisas que observam. Ao contrário, as gerações contemporâneas da transição lhe sofrem o contrachoque e tudo lhes parece fora das leis ordinárias. Essas gerações veem uma causa sobrenatural, maravilhosa, miraculosa no que, em realidade, mais não é do que a execução das leis da natureza.
+
+Se, pelo encadeamento e a solidariedade das causas e dos efeitos, os períodos de renovação moral da humanidade coincidem, como tudo leva a crer, com as revoluções físicas do globo, podem os referidos períodos ser acompanhados ou precedidos de fenômenos naturais, insólitos para os que com eles não se acham familiarizados, de meteoros que parecem estranhos, de recrudescência e intensificação desusadas dos flagelos destruidores, que não são nem causa, nem presságios sobrenaturais, mas uma consequência do movimento geral que se opera no mundo físico e no mundo moral.
+
+Anunciando a época de renovação que se havia de abrir para a humanidade e determinar o fim do velho mundo, a Jesus, pois, foi lícito dizer que ela se assinalaria por fenômenos extraordinários, tremores de terra, flagelos diversos, sinais no céu, que mais não são do que meteoros, sem ab-rogação das leis naturais. O vulgo, porém, ignorante, viu nessas palavras a predição de fatos miraculosos. [^189]
+
+
+###### 11
+
+A previsão dos movimentos progressivos da humanidade nada apresenta de surpreendente, quando feita por seres desmaterializados, que veem o fim a que tendem todas as coisas, tendo alguns deles conhecimento direto do pensamento de Deus. Pelos movimentos parciais, esses seres veem em que época poderá operar-se um movimento geral, do mesmo modo que o homem pode calcular de antemão o tempo que uma árvore levará para dar frutos, do mesmo modo que os astrônomos calculam a época de um fenômeno astronômico, pelo tempo que um astro gasta para efetuar a sua revolução.
+
+###### 12
+
+A humanidade é um ser coletivo em quem se operam as mesmas revoluções morais por que passa todo ser individual, com a diferença de que umas se realizam de ano em ano e as outras de século em século. Acompanhe-se a humanidade em suas evoluções através dos tempos e ver-se-á a vida das diversas raças marcada por períodos que dão a cada época uma fisionomia especial. [^190]
+
+###### 13
+
+De duas maneiras se opera, como já o dissemos, a marcha progressiva da humanidade: uma, gradual, lenta, imperceptível, se se considerarem as épocas consecutivas, a traduzir-se por sucessivas melhoras nos costumes, nas leis, nos usos, melhoras que só com a continuação se podem perceber, como as mudanças que as correntes de água ocasionam na superfície do globo; a outra, por movimentos relativamente bruscos, semelhantes aos de uma torrente que, rompendo os diques que a continham, transpõe nalguns anos o espaço que levaria séculos a percorrer. É, então, um cataclismo moral que traga em breves instantes as instituições do passado e ao qual sobrevém uma nova ordem de coisas que pouco a pouco se estabiliza, à medida que se restabelece a calma, e que acaba por se tornar definitiva.
+
+Àquele que viva bastante para abranger com a vista as duas vertentes da nova fase, parecerá que um mundo novo surgiu das ruínas do antigo. O caráter, os costumes, os usos, tudo está mudado. É que, com efeito, surgiram homens novos, ou, melhor, regenerados. As ideias, que a geração que se extinguiu levou consigo, cederam lugar a ideias novas que desabrocham com a geração que se ergue.
+
+###### 14
+
+Tornada adulta, a humanidade tem novas necessidades, aspirações mais vastas e mais elevadas; compreende o vazio com que foi embalada, a insuficiência de suas instituições para lhe dar felicidade; já não encontra, no estado das coisas, as satisfações legítimas a que se sente com direito. Despoja-se, em consequência, das faixas infantis e se lança, impelida por irresistível força, para as margens desconhecidas, em busca de novos horizontes menos limitados.
+
+É a um desses períodos de transformação, ou, se o preferirem, de crescimento moral, que ora chega a humanidade. Da adolescência chega ao estado viril. O passado já não pode bastar às suas novas aspirações, às suas novas necessidades; ela já não pode ser conduzida pelos mesmos métodos; não mais se deixa levar por ilusões, nem fantasmagorias; sua razão amadurecida reclama alimentos mais substanciosos. É demasiado efêmero o presente; ela sente que mais amplo é o seu destino e que a vida corpórea é excessivamente restrita para encerrá-lo inteiramente. Por isso, mergulha o olhar no passado e no futuro, a fim de descobrir num ou noutro o mistério da sua existência e de adquirir uma consoladora certeza.
+
+E é no momento em que ela se encontra muito apertada na esfera material, em que transbordante se encontra de vida intelectual, em que o sentimento da espiritualidade lhe desabrocha no seio, que homens que se dizem filósofos pretendem encher o vazio com as doutrinas do niilismo e do materialismo! Singular aberração! Esses mesmos homens, que intentam impelir para a frente a humanidade, se esforçam por circunscrevê-la no acanhado círculo da matéria, donde ela anseia por escapar-se. Velam-lhe o aspecto da vida infinita e lhe dizem, apontando para o túmulo: Nec plus ultra! [^191]
+
+###### 15
+
+Quem quer que haja meditado sobre o Espiritismo e suas consequências e não o circunscreva à produção de alguns fenômenos terá compreendido que ele abre à humanidade uma estrada nova e lhe desvenda os horizontes do infinito. Iniciando-a nos mistérios do mundo invisível, mostra-lhe o seu verdadeiro papel na criação, papel perpetuamente ativo, tanto no estado espiritual, como no estado corporal. O homem já não caminha às cegas: sabe donde vem, para onde vai e por que está na Terra. O futuro se lhe revela em sua realidade, despojado dos prejuízos da ignorância e da superstição. Já não se trata de uma vaga esperança, mas de uma verdade palpável, tão certa como a sucessão do dia e da noite. Ele sabe que o seu ser não se acha limitado a alguns instantes de uma existência transitória; que a vida espiritual não se interrompe por efeito da morte; que já viveu e tornará a viver e que nada se perde do que haja ganho em perfeição; em suas existências anteriores depara com a razão do que é hoje e reconhece que: do que ele é hoje, qual se fez a si mesmo, poderá deduzir o que virá a ser um dia.
+
+###### 16
+
+Com a ideia de que a atividade e a cooperação individuais na obra geral da civilização se limitam à vida presente, que, antes, a criatura nada foi e nada será depois, em que interessa ao homem o progresso ulterior da humanidade? Que lhe importa que no futuro os povos sejam mais bem governados, mais ditosos, mais esclarecidos, melhores uns para com os outros? Não fica perdido para ele todo o progresso, pois que deste nenhum proveito tirará? De que lhe serve trabalhar para os que hão de vir depois, se nunca lhe será dado conhecê-los, se os seus pósteros serão criaturas novas, que pouco depois voltarão por sua vez ao nada? Sob o domínio da negação do futuro individual, tudo forçosamente se amesquinha às insignificantes proporções do momento e da personalidade.
+
+Entretanto, que amplitude, ao contrário, dá ao pensamento do homem a certeza da perpetuidade do seu ser espiritual! Que de mais racional, de mais grandioso, de mais digno do Criador do que a lei segundo a qual a vida espiritual e a vida corpórea são apenas dois modos de existência, que se alternam para a realização do progresso! Que de mais justo há e de mais consolador do que a ideia de estarem os mesmos seres a progredir incessantemente, primeiro, pelas gerações de um mesmo mundo, de mundo em mundo depois, até a perfeição, sem solução de continuidade! Todas as ações têm, então, uma finalidade, porquanto, trabalhando para todos, cada um trabalha para si e reciprocamente, de sorte que nunca se podem considerar infecundos nem o progresso individual, nem o progresso coletivo. De ambos esses progressos aproveitarão as gerações e as individualidades porvindouras, que outras não virão a ser senão as gerações e as individualidades passadas, em mais alto grau de adiantamento.
+
+###### 17
+
+A fraternidade será a pedra angular da nova ordem social; mas, não há fraternidade real, sólida, efetiva, senão assente em base inabalável e essa base é a fé, não a fé em tais ou tais dogmas particulares, que mudam com os tempos e os povos e que mutuamente se apedrejam, porquanto, anatematizando-se uns aos outros, alimentam o antagonismo, mas a fé nos princípios fundamentais que toda a gente pode aceitar e aceitará: Deus, a alma, o futuro, o progresso individual indefinito, a perpetuidade das relações entre os seres. Quando todos os homens estiverem convencidos de que Deus é o mesmo para todos; de que esse Deus, soberanamente justo e bom, nada de injusto pode querer; que não dele, porém dos homens vem o mal, todos se considerarão filhos do mesmo Pai e se estenderão as mãos uns aos outros.
+
+Essa a fé que o Espiritismo faculta e que doravante será o eixo em torno do qual girará o gênero humano, quaisquer que sejam os cultos e as crenças particulares.
+
+###### 18
+
+O progresso intelectual realizado até o presente, nas mais largas proporções, constitui um grande passo e marca uma primeira fase no avanço geral da humanidade; impotente, porém, ele é para regenerá-la. Enquanto o orgulho e o egoísmo o dominarem, o homem se servirá da sua inteligência e dos seus conhecimentos para satisfazer às suas paixões e aos seus interesses pessoais, razão por que os aplica em aperfeiçoar os meios de prejudicar os seus semelhantes e de os destruir.
+
+###### 19
+
+Somente o progresso moral pode assegurar aos homens a felicidade na Terra, refreando as paixões más; somente esse progresso pode fazer que entre os homens reinem a concórdia, a paz, a fraternidade.
+
+Será ele que deitará por terra as barreiras que separam os povos, que fará caiam os preconceitos de casta e se calem os antagonismos de seitas, ensinando os homens a se considerarem irmãos que têm por dever auxiliarem-se mutuamente e não destinados a viver à custa uns dos outros.
+
+Será ainda o progresso moral que, secundado então pelo da inteligência, confundirá os homens numa mesma crença fundada nas verdades eternas, não sujeitas a controvérsias e, em consequência, aceitáveis por todos.
+
+A unidade de crença será o laço mais forte, o fundamento mais sólido da fraternidade universal, obstada, desde todos os tempos pelos antagonismos religiosos que dividem os povos e as famílias, que fazem sejam uns, os dissidentes, vistos, pelos outros, como inimigos a serem evitados, combatidos, exterminados, em vez de irmãos a serem amados.
+
+###### 20
+
+Semelhante estado de coisas pressupõe uma mudança radical no sentimento das massas, um progresso geral que não se podia realizar senão fora do círculo das ideias acanhadas e corriqueiras que fomentam o egoísmo. Em diversas épocas, homens de escol procuraram impelir a humanidade por esse caminho; mas, ainda muito jovem, ela se conservou surda e os ensinamentos que eles ministraram foram como a boa semente caída no pedregulho.
+
+Hoje, a humanidade está madura para lançar o olhar a alturas que nunca tentou divisar, a fim de nutrir-se de ideias mais amplas e compreender o que antes não compreendia.
+
+A geração que desaparece levará consigo seus erros e prejuízos; a geração que surge, retemperada em fonte mais pura, imbuída de ideias mais sãs, imprimirá ao mundo ascensional movimento, no sentido do progresso moral que assinalará a nova fase da evolução humana.
+
+###### 21
+
+Essa fase já se revela por sinais inequívocos, por tentativas de reformas úteis e que começam a encontrar eco. Assim é que vemos fundar-se uma imensidade de instituições protetoras, civilizadoras e emancipadoras, sob o influxo e por iniciativa de homens evidentemente predestinados à obra da regeneração; que as leis penais se vão apresentando dia a dia impregnadas de sentimentos mais humanos. Enfraquecem-se os preconceitos de raça, os povos entram a considerar-se membros de uma grande família; pela uniformidade e facilidade dos meios de realizarem suas transações, eles suprimem as barreiras que os separavam e de todos os pontos do mundo reúnem-se em comícios universais, para as justas pacíficas da inteligência.
+
+Falta, porém, a essas reformas uma base que permita se desenvolvam, completem e consolidem; falta uma predisposição moral mais generalizada, para fazer que elas frutifiquem e que as massas as acolham. Ainda aí há um sinal característico da época, porque há o prelúdio do que se efetuará em mais larga escala, à proporção que o terreno se for tornando mais favorável.
+
+###### 22
+
+Outro sinal não menos característico do período em que entramos encontra-se na reação que se opera no sentido das ideias espiritualistas; na repulsão instintiva que se manifesta contra as ideias materialistas. O espírito de incredulidade, que se apoderara das massas, ignorantes ou esclarecidas, e as levava a rejeitar com a forma a substância mesma de toda crença, parece ter sido um sono, a cujo despertar se sente a necessidade de respirar um ar mais vivificante. Involuntariamente, lá onde o vácuo se fizera, procura-se alguma coisa, um ponto de apoio.
+
+###### 23
+
+Se supusermos possuída desses sentimentos a maioria dos homens, poderemos facilmente imaginar as modificações que daí decorrerão para as relações sociais; todos terão por divisa: caridade, fraternidade, benevolência para com todos, tolerância para todas as crenças. É a meta para que tende evidentemente a humanidade; esse o objeto de suas aspirações, de seus desejos, sem que, entretanto, ela perceba claramente por que meio as há de realizar. Ensaia, tateia, mas é detida por muitas resistências ativas, ou pela força de inércia dos preconceitos, das crenças estacionárias e refratárias ao progresso. Faz-se-lhe mister vencer tais resistências e essa será a obra da nova geração. Quem acompanhar o curso atual das coisas reconhecerá que tudo parece predestinado a lhe abrir caminho. Ela terá por si a dupla força do número e das ideias e, de acréscimo, a experiência do passado.
+
+###### 24
+
+A nova geração marchará, pois, para a realização de todas as ideias humanitárias compatíveis com o grau de adiantamento a que houver chegado. Avançando para o mesmo alvo e realizando seus objetivos, o Espiritismo se encontrará com ela no mesmo terreno. Aos homens progressistas se deparará nas ideias espíritas poderosa alavanca e o Espiritismo achará, nos novos homens, espíritos inteiramente dispostos a acolhê-lo. Dado esse estado de coisas, que poderão fazer os que entendam de opor-se-lhe?
+
+###### 25
+
+O Espiritismo não cria a renovação social; a madureza da humanidade é que fará dessa renovação uma necessidade. Pelo seu poder moralizador, por suas tendências progressistas, pela amplitude de suas vistas, pela generalidade das questões que abrange, o Espiritismo é mais apto, do que qualquer outra doutrina, a secundar o movimento de regeneração; por isso, é ele contemporâneo desse movimento. Surgiu na hora em que podia ser de utilidade, visto que também para ele os tempos são chegados. Se viera mais cedo, teria esbarrado em obstáculos insuperáveis; houvera inevitavelmente sucumbido, porque, satisfeitos com o que tinham, os homens ainda não sentiriam falta do que ele lhes traz. Hoje, nascido com as ideias que fermentam, encontra preparado o terreno para recebê-lo. Os espíritos cansados da dúvida e da incerteza, horrorizados com o abismo que se lhes abre à frente, o acolhem como âncora de salvação e consolação suprema.
+
+###### 26
+
+Grande, por certo, é ainda o número dos retardatários; mas, que podem eles contra a onda que se alteia, senão atirar-lhe algumas pedras? Essa onda é a geração que surge, ao passo que eles se somem com a geração que vai desaparecendo todos os dias a passos largos. Até lá, porém, eles defenderão palmo a palmo o terreno. Haverá, portanto, uma luta inevitável, mas luta desigual, porque é a do passado decrépito, a cair em frangalhos, contra o futuro juvenil. Será a luta da estagnação contra o progresso, da criatura contra a vontade do Criador, uma vez que chegados são os tempos por Ele determinados.
+
+##### A geração nova
+
+###### 27
+
+Para que na Terra sejam felizes os homens, preciso é que somente a povoem Espíritos bons, encarnados e desencarnados, que somente ao bem se dediquem. Havendo chegado o tempo, grande emigração se verifica dos que a habitam: a dos que praticam o mal pelo mal, ainda não tocados pelo sentimento do bem, os quais, já não sendo dignos do planeta transformado, serão excluídos, porque, senão, lhe ocasionariam de novo perturbação e confusão e constituiriam obstáculo ao progresso. Irão expiar o endurecimento de seus corações, uns em mundos inferiores, outros em raças terrestres ainda atrasadas, equivalentes a mundos daquela ordem, aos quais levarão os conhecimentos que hajam adquirido, tendo por missão fazê-las avançar. Substituí-los-ão Espíritos melhores, que farão reinem em seu seio a justiça, a paz e a fraternidade.
+
+A Terra, no dizer dos Espíritos, não terá de transformar-se por meio de um cataclismo que aniquile de súbito uma geração. A atual desaparecerá gradualmente e a nova lhe sucederá do mesmo modo, sem que haja mudança alguma na ordem natural das coisas.
+
+Tudo, pois, se processará exteriormente, como sói acontecer, com a única, mas capital diferença de que uma parte dos Espíritos que encarnavam na Terra aí não mais tornarão a encarnar. Em cada criança que nascer, em vez de um Espírito atrasado e inclinado ao mal, que antes nela encarnaria, virá um Espírito mais adiantado e propenso ao bem.
+
+Muito menos, pois, se trata de uma nova geração corpórea, do que de uma nova geração de Espíritos. Sem dúvida, neste sentido é que Jesus entendia as coisas, quando declarava: “Digo-vos, em verdade, que esta geração não passará sem que estes fatos tenham ocorrido.” Assim, decepcionados ficarão os que contem ver a transformação operar-se por efeitos sobrenaturais e maravilhosos. [^192]
+
+###### 28
+
+A época atual é de transição; confundem-se os elementos das duas gerações. Colocados no ponto intermédio, assistimos à partida de uma e à chegada da outra, já se assinalando cada uma, no mundo, pelos caracteres que lhes são peculiares.
+
+Têm ideias e pontos de vista opostos as duas gerações que se sucedem. Pela natureza das disposições morais, porém, sobretudo das disposições intuitivas e inatas, torna-se fácil distinguir a qual das duas pertence cada indivíduo.
+
+Cabendo-lhe fundar a era do progresso moral, a nova geração se distingue por inteligência e razão geralmente precoces, juntas ao sentimento inato do bem e a crenças espiritualistas, o que constitui sinal indubitável de certo grau de adiantamento anterior. Não se comporá exclusivamente de Espíritos eminentemente superiores, mas dos que, já tendo progredido, se acham predispostos a assimilar todas as ideias progressistas e aptos a secundar o movimento de regeneração.
+
+O que, ao contrário, distingue os Espíritos atrasados é, em primeiro lugar, a revolta contra Deus, pelo se negarem a reconhecer qualquer poder superior aos poderes humanos; a propensão instintiva para as paixões degradantes, para os sentimentos antifraternos de egoísmo, de orgulho, de inveja, de ciúme; enfim, o apego a tudo o que é material: a sensualidade, a cupidez, a avareza.
+
+Desses vícios é que a Terra tem de ser expurgada pelo afastamento dos que se obstinam em não emendar-se; porque são incompatíveis com o reinado da fraternidade e porque o contato com eles constituirá sempre um sofrimento para os homens de bem. Quando a Terra se achar livre deles, os homens caminharão sem óbices para o futuro melhor que lhes está reservado, mesmo neste mundo, por prêmio de seus esforços e de sua perseverança, enquanto esperem que uma depuração mais completa lhes abra o acesso aos mundos superiores.
+
+###### 29
+
+Não se deve entender que por meio dessa emigração de Espíritos sejam expulsos da Terra e relegados para mundos inferiores todos os Espíritos retardatários. Muitos, ao contrário, aí voltarão, porquanto muitos há que o são porque cederam ao arrastamento das circunstâncias e do exemplo. Nesses, a casca é pior do que o cerne. Uma vez subtraídos à influência da matéria e dos prejuízos do mundo corporal, eles, em sua maioria, verão as coisas de maneira inteiramente diversa daquela por que as viam quando em vida, conforme os múltiplos casos que conhecemos. Para isso, têm a auxiliá-los Espíritos benévolos que por eles se interessam e se dão pressa em esclarecê-los e em lhes mostrar quão falso era o caminho que seguiam. Nós mesmos, pelas nossas preces e exortações, podemos concorrer para que eles se melhorem, visto que entre mortos e vivos há perpétua solidariedade.
+
+É muito simples o modo por que se opera a transformação, sendo, como se vê, todo ele de ordem moral, sem se afastar em nada das leis da natureza.
+
+###### 30
+
+Sejam os que componham a nova geração Espíritos melhores, ou Espíritos antigos que se melhoraram, o resultado é o mesmo. Desde que trazem disposições melhores, há sempre uma renovação. Assim, segundo suas disposições naturais, os Espíritos encarnados formam duas categorias: de um lado, os retardatários, que partem; de outro, os progressistas, que chegam. O estado dos costumes e da sociedade estará, portanto, no seio de um povo, de uma raça, ou do mundo inteiro, em relação com aquela das duas categorias que preponderar.
+
+###### 31
+
+Uma comparação vulgar ainda melhor dará a compreender o que se passa nessa circunstância. Figuremos um regimento composto na sua maioria de homens turbulentos e indisciplinados, os quais ocasionarão nele constantes desordens que a lei penal terá por vezes dificuldades em reprimir. Esses homens são os mais fortes, porque mais numerosos do que os outros. Eles se amparam, animam e estimulam pelo exemplo. Os poucos bons nenhuma influência exercem; seus conselhos são desprezados; sofrem com a companhia dos outros, que os achincalham e maltratam. Não é essa uma imagem da sociedade atual?
+
+Suponhamos que esses homens são retirados um a um, dez a dez, cem a cem, do regimento e substituídos gradativamente por iguais números de bons soldados, mesmo por alguns dos que, já tendo sido expulsos, se corrigiram. Ao cabo de algum tempo, existirá o mesmo regimento, mas transformado. A boa ordem terá sucedido à desordem
+
+###### 32
+
+As grandes partidas coletivas, entretanto, não têm por único fim ativar as saídas; têm igualmente o de transformar mais rapidamente o espírito da massa, livrando-a das más influências e o de dar maior ascendente às ideias novas.
+
+Por estarem muitos, apesar de suas imperfeições, maduros para a transformação, é que muitos partem, a fim de apenas se retemperarem em fonte mais pura. Enquanto se conservassem no mesmo meio e sob as mesmas influências, persistiriam nas suas opiniões e nas suas maneiras de apreciar as coisas. Uma estada no mundo dos Espíritos bastará para lhes descerrar os olhos, por isso que aí veem o que não podiam ver na Terra. O incrédulo, o fanático, o absolutista, poderão, conseguintemente, voltar com ideias inatas de fé, tolerância e liberdade. Ao regressarem, acharão mudadas as coisas e experimentarão a influência do novo meio em que houverem nascido. Longe de se oporem às novas ideias, constituir-se-ão seus auxiliares
+
+###### 33
+
+A regeneração da humanidade, portanto, não exige absolutamente a renovação integral dos Espíritos: basta uma modificação em suas disposições morais. Essa modificação se opera em todos quantos lhe estão predispostos, desde que sejam subtraídos à influência perniciosa do mundo. Assim, nem sempre os que voltam são outros Espíritos; são com frequência os mesmos Espíritos, mas pensando e sentindo de outra maneira.
+
+Quando insulado e individual, esse melhoramento passa despercebido e nenhuma influência ostensiva alcança sobre o mundo. Muito outro é o efeito, quando a melhora se produz simultaneamente sobre grandes massas, porque, então, conforme as proporções que assuma, numa geração, pode modificar profundamente as ideias de um povo ou de uma raça.
+
+É o que quase sempre se nota depois dos grandes choques que dizimam as populações. Os flagelos destruidores apenas destroem corpos, não atingem o Espírito; ativam o movimento de vaivém entre o mundo corporal e o mundo espiritual e, por conseguinte, o movimento progressivo dos Espíritos encarnados e desencarnados. É de notar-se que em todas as épocas da História, às grandes crises sociais se seguiu uma era de progresso.
+
+###### 34
+
+Opera-se presentemente um desses movimentos gerais, destinados a realizar uma remodelação da humanidade. A multiplicidade das causas de destruição constitui sinal característico dos tempos, visto que elas apressarão a eclosão dos novos germens. São as folhas que caem no outono e às quais sucedem outras folhas cheias de vida, porquanto a humanidade tem suas estações, como os indivíduos têm suas várias idades. As folhas mortas da humanidade caem batidas pelas rajadas e pelos golpes de vento, porém, para renascerem mais vivazes sob o mesmo sopro de vida, que não se extingue, mas se purifica.
+
+###### 35
+
+Para o materialista, os flagelos destruidores são calamidades carentes de compensação, sem resultados aproveitáveis, pois que, na opinião deles, os aludidos flagelos aniquilam os seres para sempre. Para aquele, porém, que sabe que a morte unicamente destrói o envoltório, tais flagelos não acarretam as mesmas consequências e não lhe causam o mínimo pavor; ele lhes compreende o objetivo e não ignora que os homens não perdem mais por morrerem juntos, do que por morrerem isolados, dado que, duma forma ou doutra, a isso hão de todos sempre chegar.
+
+Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, digam o que disserem, não fugirão à lei comum; cairão a seu turno, como os outros, e, então, que lhes acontecerá? Eles dizem: Nada! Viverão, no entanto, a despeito de si próprios e se verão, um dia, forçados a abrir os olhos.
 
 ---
 
-#### Notas de rodapé
+## 4. 📃 Notas de rodapé
 
 [^1]: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
 
@@ -4098,3 +4490,355 @@ Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima
 
 [^33]: Nota de Allan Kardec: Tudo reportamos ao que conhecemos e do que escapa à percepção dos nossos sentidos não compreendemos, como não compreende o cego de nascença os efeitos da luz e da utilidade dos olhos. Possível é, pois, que noutros meios, o fluido cósmico possua propriedades, seja suscetível de combinações de que não fazemos nenhuma ideia, produza efeitos apropriados a necessidades que desconhecemos, dando lugar a percepções novas ou a outros modos de percepção. Não compreendemos, por exemplo, que se possa ver sem os olhos do corpo e sem a luz. Quem nos diz, porém, que não existam outros agentes, afora a luz, aos quais são adequados organismos especiais? A vista sonambúlica, que nem a distância, nem os obstáculos materiais, nem a obscuridade detêm, nos oferece um exemplo disso. Suponhamos que, num mundo qualquer, os seres sejam normalmente o que só excepcionalmente o são os nossos sonâmbulos; eles, sem precisarem da nossa luz, nem dos nossos olhos, verão o que não podemos ver. O mesmo se dá com todas as outras sensações. As condições de vitalidade e de perceptibilidade, as sensações e as necessidades variam de conformidade com os meios.
 
+[^34]: Nota de Allan Kardec: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
+
+[^35]: N.E.: Atualmente, a Biologia classifica em cinco reinos os seres vivos: monera (bactérias e algas azuis ou cianobactérias), protista (amebas e paramécios), fungos (cogumelos e leveduras), vegetal e animal.
+
+[^36]: N.E.: Atualmente, a força de atração molecular a que se refere Galileu é chamada pelos astrofísicos de colapso gravitacional.
+
+[^37]: N.E.: Funda é arma de arremesso constituída por uma correia, ou corda dobrada, em cujo centro é colocado o objeto que se deseja lançar; atiradeira, catapulta etc. 
+
+[^38]: Nota de Allan Kardec: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade. 
+
+Por muito racional e científica que seja essa teoria, como ainda não foi confirmada por nenhuma observação direta, somente a título de hipótese pode ser aceita e como ideia capaz de servir de baliza à Ciência. Não se pode, porém, deixar de convir em que é a única, até o presente, que dá uma explicação satisfatória das particularidades que apresenta o globo lunar.
+
+Grande, por certo, é ainda o número dos retardatários; mas, que podem eles contra a onda que se alteia, senão atirar-lhe algumas pedras? Essa onda é a geração que surge, ao passo que eles se somem com a geração que vai desaparecendo todos os dias a passos largos. Até lá, porém, eles defenderão palmo a palmo o terreno. Haverá, portanto, uma luta inevitável, mas luta desigual, porque é a do passado decrépito, a cair em frangalhos, contra o futuro juvenil. Será a luta da estagnação contra o progresso, da criatura contra a vontade do Criador, uma vez que chegados são os tempos por Ele determinados.
+
+[^39]: N.E.: A Lua é o único satélite natural da Terra. Atualmente, a teoria mais aceita para a origem da Lua surgiu em 1975, a teoria do Grande Impacto, proposta pelo Instituto de Ciências Planetárias de Tucson e pelo Instituto Harvard-Smithsonian de Astrofísica. Após a análise de amostras de solo e rochas lunares coletadas pelas missões Apollo, os cientistas chegaram à conclusão que há cerca de 4.5 bilhões de anos, durante a formação da Terra, um objeto do tamanho de Marte colidiu com a Terra, essa violenta colisão lançou material, pedaços de rocha líquida, para a órbita da Terra; a Lua teria se formado, então, a partir da condensação do material expelido por essa colisão, tendo ficado aprisionada pelo campo gravitacional da Terra. 
+
+[^40]: N.E.: Em 1877, foram descobertos dois satélites de Marte: Fobos e Deimos.
+
+[^41]: N.E.: Nuvem luminosa de gás e poeira, de aparência tênue e brumosa, que envolve o núcleo de um astro; coma.
+
+[^42]: N.E.: Posição orbital apresentada por um satélite terrestre (a Lua ou satélite artificial) quando, em sua revolução, se encontra mais afastado da Terra.
+
+[^43]: N.E.: Ponto da órbita de um astro ou satélite em torno da Terra, no qual ele se encontra mais próximo de nosso planeta.
+
+[^44]: Nota de Allan Kardec: Mais de 3 trilhões e 400 bilhões de léguas.
+
+[^45]: Nota de Allan Kardec: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
+
+[^46]: N.E.: Atualmente, a Ciência atribui à Via Láctea uma assombrosa quantidade de estrelas, que varia de 200 a 400 bilhões de sóis.
+
+[^47]: 
+
+[^48]: Nota de Allan Kardec: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis.
+
+[^49]: Nota de Allan Kardec: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
+
+[^50]: N.E.: Terra que é úmida, coesa, forte.
+
+[^51]: N.E.: Solos de calcário e argila, usados em olarias e como corretivo de terras agrícolas.
+
+[^52]: Nota de Allan Kardec: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
+
+O termo petrificado se emprega relativamente aos corpos que se transformaram em pedra, pela infiltração de matérias silicosas ou calcárias nos tecidos orgânicos. Todas as petrificações necessariamente são fósseis, mas nem todos os fósseis são petrificações. 
+
+Nos objetos que se revestem de uma camada pedregosa quando mergulhados em certas águas carregadas de substâncias calcárias, como as do regato de Saint Allyre, perto de Clermont, no Auvergne (França), não são petrificações propriamente ditas, porém simples incrustações. 
+
+Os monumentos, inscrições e objetos produzidos por fabricação humana, esses pertencem à Arqueologia.
+
+[^53]: N.E.: Sabemos que as primeiras formas de vida (bactérias e algas azul-esverdeadas) surgiram há cerca de 3.500 milhões de anos, e há 570 milhões de anos as plantas e os animais complexos começaram a se desenvolver.
+
+[^54]: Nota de Allan Kardec: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
+
+[^55]: 
+
+[^56]: N.E.: Estima-se que a espessura da crosta seja de 6km no leito dos oceanos e 40km na crosta continental.
+
+[^57]: N.E.: Teoria Calórica é uma teoria obsoleta que supunha a existência de um fluido invisível e inodoro, chamado calórico, que todos os corpos conteriam em quantidades determinadas em sua composição, era considerado o causador das alterações de temperatura até metade do século XIX. Quanto maior fosse a temperatura de um corpo, maior seria a sua quantidade de calórico, limitada, para cada corpo, a uma quantidade finita. A teoria do calórico explicava o comportamento dos gases e do vapor em termos de uma distinção entre o estado livre e latente do calor. Calor livre podia ser sentido e medido por termômetros; calor latente, por estar intimamente ligado com as ligações da moléculas, não poderia.
+
+[^58]: N.E.: Parece-nos que Kardec se referia apenas à Terra propriamente dita, não levando em conta os aerólitos e a poeira cósmica que a ela se vêm juntando.
+
+[^59]: N.E.: Refere-se à parte da Era Pré-Cambriana, de acordo com a Escala de Tempo Geológico moderna. 
+
+[^60]: N.E.: No original francês foi usado o termo “boulet”, projetil esférico de metal, munição de canhões.
+
+[^61]: N.E.: Refere-se à maior parte da Era Pré-Cambriana e toda a Era Paleozoica atuais.
+
+[^62]: N.E.: Atualmente se sabe que os primeiros seres vivos eram unicelulares, bactérias muito primitivas e desprovidas de núcleos.
+
+[^63]: N.E.: Classe de animais invertebrados, cujos órgãos estão dispostos simetricamente em torno de um eixo, ex.: equinodermos e pólipos.
+
+[^64]: Nota de Allan Kardec: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
+
+[^65]: Nota de Allan Kardec: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
+
+[^66]: Nota de Allan Kardec: Na baía de Fundy (Nova Escócia), o Sr. Lyell [Charles Lyell (1797–1875), geólogo britânico] encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
+
+[^67]: 
+
+[^68]: N.E.: Consultar nota 31.
+
+[^69]: Nota de Allan Kardec: O primeiro fóssil deste animal foi descoberto, na Inglaterra, em 1823. Depois, encontraram-se outros na França e na Alemanha.
+
+[^70]: N.E.: Somente após a desencarnação do autor, ocorrida em 1869, foram descobertos, na Inglaterra, fragmentos suficientes à montagem de um exemplar completo, pelos paleontólogos, permitindo melhor elucidar detalhes da descrição desse dinossauro. Ficou, então, claro que ele tinha uma calosidade óssea sobre o focinho, como os iguanídeos uma crista espinhosa no dorso, inexistindo chifres, que, no entanto, eram bastante evidentes em outros monstros, como nos saurópodes.
+
+[^71]: N.E.: Período Terciário da Era Cenozoica atual.
+
+[^72]: 
+
+[^73]: N.E.: No Período Secundário, que corresponde à Era Mesozoica, ocorre o desenvolvimento e expansão dos dinossauros; nesta mesma Era os continentes já estavam formados. No final da Era Mesozoica, há 65 milhões de anos, ocorre a extinção dos dinossauros.
+
+[^74]: N.E.: A Paleontologia situa o surgimento dos pássaros na Era Mesozoica moderna, mais exatamente no Período Jurássico, que corresponde ao Período Secundário desta obra.
+
+[^75]: N.E.: Corresponde à época do Pleistoceno, no Período Quaternário da Era Cenozoica
+
+[^76]: Nota de Allan Kardec: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
+
+[^77]: Nota de Allan Kardec: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
+
+[^78]: Período pós-diluviano ou atual.
+
+[^79]: Nascimento do homem.
+
+[^80]: Nota de Allan Kardec: Veja-se: O homem antediluviano, por Boucher de [Chévecoeur de] Perthes. — Os instrumentos de pedra, idem. — Discurso sobre as revoluções do globo, por Georges Cuvier, anotado pelo Dr. Hoefer.
+
+[^81]: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
+
+[^82]: 
+
+[^83]: 
+
+[^84]: N.E.: A Ciência atualmente define os cometas como blocos de gelo e rocha com alguns quilômetros de extensão; quando um cometa se aproxima do Sol, o gelo superficial se evapora, formando uma “bola” de vapor que adquire a forma de longa cauda. Hoje, sabemos que os cometas não são tão inofensivos quando se chocam com planetas; mas em choque com o Sol não causaria qualquer dano a essa estrela.
+
+[^85]: Nota de Allan Kardec: Completa dissertação, à altura da ciência moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
+
+[^86]: N.E.: Juno, Ceres e Palas são alguns dos mais de 4.000 asteroides identificados pelos astrônomos; asteroides são fragmentos de rocha que giram em torno do Sol.
+
+[^87]: N.E.: Estima-se que a Terra tenha iniciado seu processo de formação há 4.600 milhões de anos. O processo de solidificação da crosta teria ocorrido nos primeiros 500 milhões de anos.
+
+[^88]: Nota de Allan Kardec: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
+
+[^89]: 
+
+[^90]: 
+
+[^91]: 
+
+[^92]: Nota de Allan Kardec: O século XVIII registrou notável exemplo de um fenômeno desse gênero. A seis dias de marcha da cidade do México, existia, em 1750, uma região fértil e bem cultivada, onde davam em abundância arroz, milho e bananas. No mês de junho, pavorosos tremores de terra abalaram o solo, renovando-se continuamente durante dois meses inteiros. Na noite de 28 para 29 de setembro, violenta convulsão se produziu; um território de muitas léguas de extensão entrou a erguer-se pouco a pouco e acabou por alcançar a altitude de 500 pés, numa superfície de 10 léguas quadradas. O terreno ondulava, como as vagas do mar ao sopro da tempestade, milhares de montículos se elevavam e afundavam alternativamente; afinal, abriu-se um abismo de perto de 3 léguas, donde eram lançados à prodigiosa altura fumo, fogo, pedras esbraseadas e cinzas. Seis montanhas surgiram desse abismo hiante, entre as quais o vulcão a que foi dado o nome de Jorullo, que agora se eleva a 550 metros acima da antiga planície. No momento em que principiaram os abalos do solo, os dois rios Cuitimba e San Pedro, refluindo, inundaram toda a planície hoje ocupada pelo Jorullo; no terreno, porém, que sem cessar se elevava, outro sorvedouro se abriu e os absorveu. Os dois reapareceram mais tarde, a oeste, num ponto muito afastado de seus antigos leitos. (Lois Figuier, A Terra antes do dilúvio, p. 370.)
+
+[^93]: Nota de Allan Kardec: A lenda indiana sobre o dilúvio refere, segundo o livro dos Vedas, que Brama, transformado em peixe, se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-me-ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com eles povoasse a Terra. 
+
+[^94]: 
+
+[^95]: Nota de Allan Kardec: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
+
+[^96]: Nota de Allan Kardec: Entre os fatos mais recentes que provam o deslocamento do mar, podem citar-se estes: 
+
+No golfo da Gasconha [ou Golfo de Biscaia, separa a costa oeste da França da costa norte da Espanha], entre o velho Soulac e a Torre de Cordouan, quando o mar está calmo, percebe-se no fundo da água trechos de muralha: são os restos da antiga e grande cidade de Noviomagus, invadida pelas ondas em 580. O rochedo de Cordouan, que se achava então ligado à margem, está agora a 12 quilômetros. 
+
+No mar da Mancha, sobre a costa do Havre, as águas dia a dia ganham terreno e minam as penedias de Sainte-Adresse, que pouco a pouco desmoronam. A dois quilômetros da costa entre Sainte-Adresse e o cabo de Hève, existe um banco que outrora se achava à vista e ligado à terra firme. Antigos documentos atestam que nesse lugar, por sobre o qual hoje se navega, existia a aldeia de Saint-Denis-chef-de-Caux. Tendo o mar invadido, no século XIV, o terreno, a igreja foi tragada em 1378. Dizem que, com bom tempo, se lhe veem os restos no fundo do mar. 
+
+Em quase toda a extensão do litoral da Holanda, o mar só é contido a poder de diques, que de tempos a tempos se rompem. O antigo lago de Flevo, que se reuniu ao mar em 1225, forma hoje o golfo de Zuyderzée. Essa irrupção do oceano tragou muitas povoações. 
+
+Segundo isto, o território de Paris e da França toda seria de novo ocupado pelo mar, como já o foi muitas vezes, conforme o demonstram as observações geológicas. Então, as partes montanhosas formarão ilhas, como o são agora Jersey, Guernesey e a Inglaterra, outrora contíguas ao continente.
+
+Navegar-se-á por sobre regiões que atualmente se percorrem de caminho de ferro; os navios aportarão a Montmartre, ao monte Valeriano, aos outeiros de Saint-Cloud e de Meudon; os bosques e florestas, agora lugares de passeio, ficarão sepultados nas águas, cobertos de limo e povoados de peixes, que substituirão as aves. 
+
+O dilúvio bíblico não pode ter tido essa causa, pois que foi repentina a invasão das águas e de curta duração a permanência delas, ao passo que, de outro modo, essa permanência houvera sido de muitos milhares de anos e ainda duraria, sem que os homens dessem por isso.
+
+[^97]: N.E.: Em 15/2/2013, cai na Rússia (região dos Montes Urais) um meteoro. A rocha, estimada em 10 toneladas, entrou na atmosfera e começou a se desfazer; a onda de choque causada por sua queda quebrou vidraças, balançou prédios, causando ferimentos em 1.100 pessoas. (Fonte: Jornal O Globo)
+
+[^98]: 8 N.E.: Hoje sabemos que o núcleo cometário é sólido, formado por gelo e rocha, e que um impacto direto com a Terra ou outro planeta qualquer poderia causar sérios danos.
+
+[^99]: Nota de Allan Kardec: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
+
+[^100]: N.E.: O movimento orbital dos planetas em torno do Sol é regido por três propriedades conhecidas como Leis de Kepler — 1a Lei: os planetas descrevem elipses das quais o Sol é um dos focos; 2a Lei: as áreas percorridas pelo raio vetor (reta que une um planeta ao Sol), são proporcionais ao tempo gasto em percorrê-las; 3a Lei: os quadrados dos tempos de revolução são proporcionais aos cubos dos semieixos maiores das órbitas.
+
+[^101]: Nota de Allan Kardec: No seu movimento de translação em torno do Sol, a velocidade da Terra é de 400 léguas por minuto. Sendo de 9.000 léguas a sua circunferência, em seu movimento de rotação ao redor do seu eixo, cada ponto do Equador percorre 9.000 léguas em 24 horas, ou 6,3 léguas por minuto.
+
+[^102]: N.E.: Ver Nota Explicativa, p. 375.
+
+[^103]: N.E.: Segundo Charles Darwin [1809–1882, naturalista britânico, autor de Sobre a origem das espécies por meio da seleção natural (1859)], as espécies teriam evoluído pelo processo de seleção natural, ou seja, os indivíduos mais aptos a sobreviver em um determinado ambiente, apresentam mais probabilidade de gerar uma prole que herde suas características genéticas, que por sua vez sofrem imperceptíveis mutações genéticas de geração em geração. Ao longo de séculos, o acúmulo de pequenas mutações genéticas acaba resultando em grandes modificações e aperfeiçoamentos se compararmos com a primeira geração daquela espécie, podendo surgir até novas espécies, bem diversas da primeira.
+
+A teoria mais aceita atualmente é, então, a de que todas as espécies do planeta estão de alguma forma interligadas, das mais simples às mais complexas.
+
+[^104]: N.E.: Eletronegatividade é a maior ou menor tendência de um átomo para receber elétrons e formar um íon negativo.
+
+[^105]: N.E.: Os tecidos orgânicos que formam os músculos, os ossos, o sangue, o caule etc., são constituídos por células, seres vivos microscópicos que desempenham funções especializadas, necessárias ao funcionamento de cada órgão do ser a que pertencem.
+
+[^106]: Nota de Allan Kardec: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
+
+[^108]: 8 N.E.: Hoje sabemos que os processos de reprodução de qualquer ser vivo dependem das informações contidas nos genes dos ascendentes do ser que está sendo gerado. Cada indivíduo, com as características e funções de seus órgãos, está relacionado com o ambiente em que vive, o que o torna melhor adaptado e garante a sobrevivência da sua espécie.
+
+[^109]: N.E.: Hoje sabemos que se refere às células. O metabolismo celular, na troca iônica da bomba de sódio e potássio, produz uma diferença de potencial elétrico, ou seja, produz eletricidade animalizada, pois que é realizada por um ser vivo, a célula. Com a morte da célula, cessa a produção de eletricidade resultante de seu metabolismo, do conjunto dos órgãos, do corpo como um todo.
+
+[^110]: N.E.: Até meados do século XIX, os cientistas acreditavam que os seres vivos eram gerados espontaneamente do corpo de cadáveres em decomposição; que rãs, cobras e crocodilos eram gerados a partir do lodo dos rios. Essa hipótese, geração espontânea ou abiogênese, foi descartada.
+
+[^111]: N.E.: O planeta não apresenta as mesmas condições que possibilitaram a existência de seus primeiros habitantes.
+
+[^112]: N.E.: Atualmente temos a Teoria da Evolução Química ou Molecular, que postula que a vida surgiu a partir do processo de evolução química de compostos inorgânicos, dando origem a moléculas orgânicas e, depois, às primeiras e mais simples formas de vida.
+
+[^113]: Nota de Allan Kardec: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. [Artigo: A geração espontânea e A gênese.]
+
+[^114]: 
+
+[^115]: N.E.: Ver Nota Explicativa.
+
+[^116]: N.E.: Ver Nota Explicativa.
+
+[^117]: 
+
+[^118]: 
+
+[^119]: Nota de Allan Kardec: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
+
+“Não é conveniente se publiquem, prematuramente, as descobertas feitas, do ponto de vista da história do homem, pela recente expedição científica do México.
+
+Entretanto, nada se opõe a que o público saiba, desde já, que a exploração assinalou a existência de grande número de cidades desaparecidas com o tempo, mas que a picareta e o incêndio podem retirar de suas mortalhas. As escavações puseram a descoberto, por toda parte, três camadas de civilizações, que dão ao mundo americano uma antiguidade fabulosa.”
+
+É assim que todos os dias a Ciência opõe o desmentido dos fatos à doutrina que limita a 6.000 anos a aparição do homem na Terra e pretende fazê-lo derivar de um tronco único.
+
+[^120]: Nota de Allan Kardec: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+
+[^121]: N.E.: Território francês ultramarino.
+
+[^122]: N.E.: Anfíbios e insetos foram os primeiros animais presentes no planeta, sugiram no Período Devoniano, da Era Paleozoica.
+
+[^123]: N.E.: A lei da gravitação universal foi formulada pelo cientista inglês Isaac Newton (1642–1727), que concluiu: “Duas partículas se atraem com forças cuja intensidade é diretamente proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância que as separa.
+
+[^124]: N.E.: Um dos livros do Avesta, que são os textos sagrados do Zoroastrismo. Código de leis civis e religiosas.
+
+[^125]: 5N.E.: Aúra-Masda, Ormasde — deus supremo da Criação; princípio do bem, da harmonia, da beleza e da luz, na religião zoroastriana (antiga religião persa, fundada no século VII a.C. por Zoroastro, caracterizada pelo dualismo ético, cósmico e teogônico, que implica a luta primordial entre dois deuses, representantes do bem e do mal. O zoroastrismo influenciou em diversos aspectos doutrinários a tradição judaico-cristã).
+
+[^126]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+[^127]: Nota de Allan Kardec: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+[^128]: Nota de Allan Kardec: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
+
+[^129]: Nota de Allan Kardec: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
+
+[^130]: 
+
+[^131]: Nota de Allan Kardec: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
+
+[^132]: Nota de Allan Kardec: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
+
+[^133]:
+
+[^134]: Nota de Allan Kardec: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
+
+[^135]: 
+
+[^136]: N.E.: Na mitologia grega é um dos Titãs, roubou o fogo sagrado dos deuses e transmitiu-o aos homens. Zeus, para puni-lo, acorrentou-o ao Cáucaso, onde uma águia comia-lhe o fígado, que se regenerava incessantemente. Foi libertado por Hércules.
+
+[^137]: N.E.: Também chamado de Oseias. Depois da morte de Moisés, Josué liderou o povo de Israel na conquista de Canaã e foi responsável por conduzir os israelitas à Terra Prometida. Sua liderança é narrada no Livro de Josué, em que se destaca a tomada da cidade de Jericó entre outros fatos que contaram com prodigiosa intervenção divina, como no dia em que o sol e a lua chegaram a parar durante a batalha de Josué em defesa dos gibeonitas, contra o ataque de reis cananeus.
+
+[^138]: N.E.: Em 1729, no Cemitério de Saint-Médard, junto ao túmulo do diácono Francisco de Paris, morto em 1727 e considerado homem muito caridoso, começaram a ocorrer milagres, pessoas passaram a visitar o túmulo e lá sofriam convulsões e se autoinfligiam torturas.
+
+[^139]: N.E.: Protestantes franceses que foram expatriados por pegarem em armas após a revogação do Édito de Nantes (1685); eram assim chamados por vestir camisa sobre suas roupas.
+
+[^140]: N.E.: A Possessão das Freiras de Loudun foi um suposto conjunto de possessões demoníacas que ocorreram em Loudun, França, em 1634; as freiras sofreram convulsões e proferiram linguagem abusiva.
+
+[^141]: Nota de Allan Kardec: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
+
+[^142]: N.E.: Os gases são exemplo desse fluido, invisíveis, embora possam ser detectados e pesados
+
+[^143]: Nota de Allan Kardec: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
+
+[^144]: N.E.: Hoje, sabemos que a matéria parece ser compacta e impenetrável em razão da repulsão elétrica que existe entre os átomos que a constituem, impedindo que os seres e objetos materiais se interpenetrem. No mais, a massa do átomo se concentra no seu núcleo, seríamos então uma grande aglomerado de moléculas.
+
+[^145]:
+
+[^146]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
+
+[^147]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
+
+[^148]: Nota de Allan Kardec: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
+
+[^149]: 
+
+[^150]: Nota de Allan Kardec: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg
+
+[^151]: Nota de Allan Kardec: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
+
+[^152]: Nota de Allan Kardec: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
+
+[^153]: Nota de Allan Kardec: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
+
+[^154]: Nota de Allan Kardec: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
+
+[^155]: Nota de Allan Kardec: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
+
+[^156]: 
+
+[^157]: N.E.: As materializações prolongadas, quais as verificadas por William Crookes, não eram, então, conhecidas.
+
+[^158]: N.E.: Segundo a Bíblia, este fato se deu na família de Tobias. (Ver O livro de Tobias.)
+
+[^159]: Nota de Allan Kardec: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
+
+[^160]: Nota de Allan Kardec: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
+
+[^161]: Nota de Allan Kardec: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
+
+[^162]: 
+
+[^163]: Nota de Allan Kardec: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias. 
+
+Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muito mais raro, porque mais difícil de ser imitado. É sabido que o Sr. Home se elevou mais de uma vez até ao teto, dando assim volta à sala. Dizem que São Cupertino possuía a mesma faculdade, não sendo o fato mais miraculoso com este do que com aquele.
+
+[^164]: Nota de Allan Kardec: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
+
+[^165]: Nota de Allan Kardec: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
+
+[^166]: Nota de Allan Kardec: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
+
+[^167]: Nota de Allan Kardec: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
+
+[^168]:
+
+[^169]: N.E.: Espécie de lama, fina e inconsistente, característica de certos fundos oceânicos, constituída por carapaças microscópicas de animais ou elementos minerais.
+
+[^170]: 170Nota de Allan Kardec: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825): 
+
+“Se Jesus operasse seus milagres pelo poder do demônio, este houvera trabalhado pela destruição do seu império e teria empregado contra si próprio o seu poder. Certamente, um demônio que procurasse destruir o reinado do vício para implantar o da virtude, seria um demônio muito singular. Eis por que Jesus, para repelir a absurda acusação dos judeus, lhes dizia: “Se opero prodígios em nome do demônio, o demônio está dividido consigo mesmo, trabalha, conseguintemente, por se destruir a si próprio!” Resposta que não admite réplica. 
+
+É precisamente o argumento que os espíritas opõem aos que atribuem ao demônio os bons conselhos que os Espíritos lhes dão. O demônio agiria então como um ladrão profissional que restituísse tudo o que houvesse roubado e exortasse os outros ladrões a se tornarem pessoas honestas.
+
+[^171]: Nota de Allan Kardec: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito. Aq
+
+[^172]: Nota de Allan Kardec: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
+
+[^173]: Nota de Allan Kardec: O lago de Genesaré ou de Tiberíades.
+
+[^174]:
+
+[^175]: Nota de Allan Kardec: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
+
+[^176]: Nota de Allan Kardec: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
+
+[^177]:
+
+[^178]: Nota de Allan Kardec: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
+
+[^179]:
+
+[^180]:
+
+[^181]: 
+
+[^182]: N.E.: Diante das comunicações e dos fenômenos surgidos após a partida de Kardec, concluiu-se que não houve realmente vão simulacro, como igualmente não houve simulacro de Jesus, após a sua morte, ao pronunciar as palavras que foram registradas por Lucas, 24:39: — “Sou eu mesmo, apalpaime e vede, porque um Espírito não tem carne nem osso, como vedes que eu tenho.”
+
+[^183]: N.E.: Não somente foram anatematizados os apolinaristas, mas também os reencarnacionistas e os que se põem em comunicação com os mortos.
+
+[^184]: N.E.: Kardec pressentia a supressão das barreiras linguísticas vinte anos antes do aparecimento do Esperanto, quando Zamenhof tinha somente sete anos. Hoje a profecia se cumpre sob nossos olhos com o progresso constante do Esperanto.
+
+[^185]: Nota de Allan Kardec: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
+
+[^186]: Nota de Allan Kardec: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
+
+[^187]: Nota de Allan Kardec: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
+
+[^188]: N.E.: Ver Nota Explicativa, p. 375
+
+
+[^189]: Nota de Allan Kardec: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
+
+[^190]:  N.E.: Ver Nota Explicativa, p. 375
+
+[^191]: N.E.: Nada mais além.
+
+[^192]: 2 N.E.: Ver Nota Explicativa, p. 375.

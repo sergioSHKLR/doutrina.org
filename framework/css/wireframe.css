@@ -3,6 +3,7 @@
     border-color: rgba(150, 150, 150, .5);
     color: currentColor;
     overscroll-behavior: contain;
+    overscroll-behavior-block: contain;
     scroll-behavior: smooth;
 }
 
@@ -227,7 +228,6 @@ button,
     outline: none;
 }
 
-
 .show {
     display: inline-block;
 }
@@ -247,14 +247,16 @@ button,
     margin-top: -10px;
 }
 
-#jekyll-toc {
+ul#jekyll-toc {
     list-style-type: none;
     margin-left: -35px;
+    line-height: 2 !important;
 }
 
-.jekyll-toc-2 {
+ul.jekyll-toc-2 {
     list-style-type: none;
     margin-left: -30px;
+    line-height: 2 !important;
 }
 
 #portrait-notice {
@@ -268,7 +270,6 @@ button,
 #ext-iframe {
     height: 100vh;
 }
-
 
 #content {
     font-family: 'Roboto Slab', serif;
