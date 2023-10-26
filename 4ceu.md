@@ -5685,7 +5685,7 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 PLACEHOLDER
 
-### 3.02 📑 Indíce geral
+### 3.02 📑 Índice geral
 
 #### A
 

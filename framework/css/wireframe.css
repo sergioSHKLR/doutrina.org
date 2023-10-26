@@ -44,7 +44,7 @@ body {
 }
 
 #col1 {
-    width: 250px;
+    width: 300px;
     display: none;
 }
 
@@ -302,4 +302,14 @@ strong {
     text-underline-offset: 2px;
 }
 
-details>p>a {margin-left: 15px;}
+details>p>a {margin-left: 10px;}
+
+summary::marker { 
+    content:"＋ "; 
+  }
+  
+  details[open] summary::marker { 
+    content:"－ "; 
+  }
+
+  h6 {margin: 0 0 -20px 0; padding-top: 10px; border-top: 1px solid gainsboro;}

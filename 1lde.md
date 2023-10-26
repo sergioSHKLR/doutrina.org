@@ -58,6 +58,7 @@ h2,h3,h4,h5,h6 {font-size: 20px;}
 ### 0-02. 🗂️ Prefácio
 
 ![Cepa Espírita](./content/images/vine.png)
+
 <figcaption>Interpretação artística do desenho original (mediúnico).</figcaption>
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
@@ -76,7 +77,7 @@ No número dos Espíritos que concorreram para a execução desta obra, muitos s
 
 Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de escrever este livro:
 
-> Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
+> 👻 ▸ Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
 >
 > Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.
 >
@@ -317,7 +318,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de [Jesus][1]{:target="ext"}:
 
-> *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
+> ✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
 > [Mateus][Mt]{:target="ext"}, cap. 13, vers. 14, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
@@ -9232,7 +9233,7 @@ Se é certo que, entre os adeptos do [Espiritismo][3]{:target="ext"}, se contam 
 
 PLACEHOLDER
 
-### 6.02 📑 Indíce geral
+### 6.02 📑 Índice geral
 
 #### A
 

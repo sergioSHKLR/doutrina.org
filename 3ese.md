@@ -5166,7 +5166,7 @@ A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, po
 
 PLACEHOLDER
 
-### 2.02 📑 Indíce geral
+### 2.02 📑 Índice geral
 
 #### A
 

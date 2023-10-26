@@ -5279,7 +5279,7 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 PLACEHOLDER
 
 
-### 4.03 📑 Indíce geral
+### 4.03 📑 Índice geral
 
 #### A
 

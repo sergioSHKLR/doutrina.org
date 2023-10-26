@@ -1,6 +1,6 @@
 ---
 title: ✒️ O Livro dos Médiuns
-layout: default
+layout: layout-2ldm
 ---
 
 <!-- #region HEAD -->
@@ -5616,7 +5616,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 PLACEHOLDER
 
-### 3.02 📑 Indíce geral
+### 3.02 📑 Índice geral
 
 #### A
 

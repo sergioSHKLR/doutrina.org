@@ -1,8 +1,8 @@
 ---
-title: 🏷️ Indíce geral
+title: 🏷️ Índice geral
 layout: default
 ---
 
-# 🏷️ Indíce geral
+# 🏷️ Índice geral
 
 body
