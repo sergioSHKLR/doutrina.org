@@ -5278,6 +5278,109 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 PLACEHOLDER
 
+
+### 4.03 📑 Indíce geral
+
+#### A
+
+##### 🏷️ item
+
+#### B
+
+##### 🏷️ item
+
+#### C
+
+##### 🏷️ item
+
+#### D
+
+##### 🏷️ item
+
+#### E
+
+##### 🏷️ item
+
+#### F
+
+##### 🏷️ item
+
+#### G
+
+##### 🏷️ item
+
+#### H
+
+##### 🏷️ item
+
+#### I
+
+##### 🏷️ item
+
+#### J
+
+##### 🏷️ item
+
+#### K
+
+##### 🏷️ item
+
+#### L
+
+##### 🏷️ item
+
+#### M
+
+##### 🏷️ item
+
+#### N
+
+##### 🏷️ item
+
+#### P
+
+##### 🏷️ item
+
+#### Q
+
+##### 🏷️ item
+
+#### R
+
+##### 🏷️ item
+
+#### S
+
+##### 🏷️ item
+
+#### T
+
+##### 🏷️ item
+
+#### U
+
+##### 🏷️ item
+
+#### V
+
+##### 🏷️ item
+
+#### W
+
+##### 🏷️ item
+
+#### X
+
+##### 🏷️ item
+
+#### Y
+
+##### 🏷️ item
+
+#### Z
+
+##### 🏷️ item
+
 ### 4.02 📃 Notas de rodapé
 
 [^1]: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
@@ -5700,105 +5803,3 @@ Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muit
 [^191]: N.E.: Nada mais além.
 
 [^192]: 2 N.E.: Ver Nota Explicativa.
-
-### 4.03 📑 Indíce geral
-
-#### A
-
-##### 🔖 item
-
-#### B
-
-##### 🔖 item
-
-#### C
-
-##### 🔖 item
-
-#### D
-
-##### 🔖 item
-
-#### E
-
-##### 🔖 item
-
-#### F
-
-##### 🔖 item
-
-#### G
-
-##### 🔖 item
-
-#### H
-
-##### 🔖 item
-
-#### I
-
-##### 🔖 item
-
-#### J
-
-##### 🔖 item
-
-#### K
-
-##### 🔖 item
-
-#### L
-
-##### 🔖 item
-
-#### M
-
-##### 🔖 item
-
-#### N
-
-##### 🔖 item
-
-#### P
-
-##### 🔖 item
-
-#### Q
-
-##### 🔖 item
-
-#### R
-
-##### 🔖 item
-
-#### S
-
-##### 🔖 item
-
-#### T
-
-##### 🔖 item
-
-#### U
-
-##### 🔖 item
-
-#### V
-
-##### 🔖 item
-
-#### W
-
-##### 🔖 item
-
-#### X
-
-##### 🔖 item
-
-#### Y
-
-##### 🔖 item
-
-#### Z
-
-##### 🔖 item

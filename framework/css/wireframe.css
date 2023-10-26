@@ -301,3 +301,5 @@ strong {
     text-decoration-color: royalblue;
     text-underline-offset: 2px;
 }
+
+details>p>a {margin-left: 15px;}

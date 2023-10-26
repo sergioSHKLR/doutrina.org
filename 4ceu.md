@@ -5685,7 +5685,109 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 PLACEHOLDER
 
-### 3.02 📃 Notas de rodapé
+### 3.02 📑 Indíce geral
+
+#### A
+
+##### 🏷️ item
+
+#### B
+
+##### 🏷️ item
+
+#### C
+
+##### 🏷️ item
+
+#### D
+
+##### 🏷️ item
+
+#### E
+
+##### 🏷️ item
+
+#### F
+
+##### 🏷️ item
+
+#### G
+
+##### 🏷️ item
+
+#### H
+
+##### 🏷️ item
+
+#### I
+
+##### 🏷️ item
+
+#### J
+
+##### 🏷️ item
+
+#### K
+
+##### 🏷️ item
+
+#### L
+
+##### 🏷️ item
+
+#### M
+
+##### 🏷️ item
+
+#### N
+
+##### 🏷️ item
+
+#### P
+
+##### 🏷️ item
+
+#### Q
+
+##### 🏷️ item
+
+#### R
+
+##### 🏷️ item
+
+#### S
+
+##### 🏷️ item
+
+#### T
+
+##### 🏷️ item
+
+#### U
+
+##### 🏷️ item
+
+#### V
+
+##### 🏷️ item
+
+#### W
+
+##### 🏷️ item
+
+#### X
+
+##### 🏷️ item
+
+#### Y
+
+##### 🏷️ item
+
+#### Z
+
+##### 🏷️ item
+
+### 3.03 📃 Notas de rodapé
 
 [^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
 [^]: Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.”
@@ -5810,104 +5912,3 @@ Quando esta perspectiva de reparação for inculcada na crença das massas, ser�
 
 [^58]: A.K.: Alusão ao Espírito Bernard, que se manifestou espontaneamente no dia das exéquias do Sr. Sanson. (Ver a Revista espírita de maio de 1862.)
 
-### 3.03 📑 Indíce geral
-
-#### A
-
-##### 🔖 item
-
-#### B
-
-##### 🔖 item
-
-#### C
-
-##### 🔖 item
-
-#### D
-
-##### 🔖 item
-
-#### E
-
-##### 🔖 item
-
-#### F
-
-##### 🔖 item
-
-#### G
-
-##### 🔖 item
-
-#### H
-
-##### 🔖 item
-
-#### I
-
-##### 🔖 item
-
-#### J
-
-##### 🔖 item
-
-#### K
-
-##### 🔖 item
-
-#### L
-
-##### 🔖 item
-
-#### M
-
-##### 🔖 item
-
-#### N
-
-##### 🔖 item
-
-#### P
-
-##### 🔖 item
-
-#### Q
-
-##### 🔖 item
-
-#### R
-
-##### 🔖 item
-
-#### S
-
-##### 🔖 item
-
-#### T
-
-##### 🔖 item
-
-#### U
-
-##### 🔖 item
-
-#### V
-
-##### 🔖 item
-
-#### W
-
-##### 🔖 item
-
-#### X
-
-##### 🔖 item
-
-#### Y
-
-##### 🔖 item
-
-#### Z
-
-##### 🔖 item

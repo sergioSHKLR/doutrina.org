@@ -1,6 +1,6 @@
 ---
 title: 👻 O Livro dos Espíritos
-layout: default
+layout: layout-1lde
 ---
 
 <!-- #region  HEAD -->
@@ -9232,7 +9232,109 @@ Se é certo que, entre os adeptos do [Espiritismo][3]{:target="ext"}, se contam 
 
 PLACEHOLDER
 
-### 6.02 📃 Notas de rodapé
+### 6.02 📑 Indíce geral
+
+#### A
+
+##### 🏷️ item
+
+#### B
+
+##### 🏷️ item
+
+#### C
+
+##### 🏷️ item
+
+#### D
+
+##### 🏷️ item
+
+#### E
+
+##### 🏷️ item
+
+#### F
+
+##### 🏷️ item
+
+#### G
+
+##### 🏷️ item
+
+#### H
+
+##### 🏷️ item
+
+#### I
+
+##### 🏷️ item
+
+#### J
+
+##### 🏷️ item
+
+#### K
+
+##### 🏷️ item
+
+#### L
+
+##### 🏷️ item
+
+#### M
+
+##### 🏷️ item
+
+#### N
+
+##### 🏷️ item
+
+#### P
+
+##### 🏷️ item
+
+#### Q
+
+##### 🏷️ item
+
+#### R
+
+##### 🏷️ item
+
+#### S
+
+##### 🏷️ item
+
+#### T
+
+##### 🏷️ item
+
+#### U
+
+##### 🏷️ item
+
+#### V
+
+##### 🏷️ item
+
+#### W
+
+##### 🏷️ item
+
+#### X
+
+##### 🏷️ item
+
+#### Y
+
+##### 🏷️ item
+
+#### Z
+
+##### 🏷️ item
+
+### 6.03 📃 Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
@@ -9286,104 +9388,3 @@ PLACEHOLDER
 
 [^26]: N.E.: Ver 👉 Nota explicativa.
 
-### 6.03 📑 Indíce geral
-
-#### A
-
-##### 🔖 item
-
-#### B
-
-##### 🔖 item
-
-#### C
-
-##### 🔖 item
-
-#### D
-
-##### 🔖 item
-
-#### E
-
-##### 🔖 item
-
-#### F
-
-##### 🔖 item
-
-#### G
-
-##### 🔖 item
-
-#### H
-
-##### 🔖 item
-
-#### I
-
-##### 🔖 item
-
-#### J
-
-##### 🔖 item
-
-#### K
-
-##### 🔖 item
-
-#### L
-
-##### 🔖 item
-
-#### M
-
-##### 🔖 item
-
-#### N
-
-##### 🔖 item
-
-#### P
-
-##### 🔖 item
-
-#### Q
-
-##### 🔖 item
-
-#### R
-
-##### 🔖 item
-
-#### S
-
-##### 🔖 item
-
-#### T
-
-##### 🔖 item
-
-#### U
-
-##### 🔖 item
-
-#### V
-
-##### 🔖 item
-
-#### W
-
-##### 🔖 item
-
-#### X
-
-##### 🔖 item
-
-#### Y
-
-##### 🔖 item
-
-#### Z
-
-##### 🔖 item
