@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | doutrina.org</title>
+    <meta name="description" content="Uma plataforma inédita de estudos integrados; permitindo anotações e a consulta de referências externas, sem a necessidade de sair da janela original.">
+    <meta name="author" content="sergioSHKLR, info@doutrina.org">
+    <!-- OPEN GRAPH / FACEBOOK -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://doutrina.org/">
+    <meta property="og:title" content="doutrina.org">
+    <meta property="og:description" content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
+    <meta property="og:image" content="https://metatags.io/images/meta-tags.png">
+    <!-- TWITTER / X -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://doutrina.org/">
+    <meta property="twitter:title" content="doutrina.org">
+    <meta property="twitter:description" content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
+    <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png">
+    <!-- GOOGLE FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- RUSSO ONE -->
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <!-- INTER -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- ROBOTO SLAB -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- ZEYADA -->
+    <link href="https://fonts.googleapis.com/css2?family=Zeyada&display=swap" rel="stylesheet">
+    <!-- HOMEMADE APPLE -->
+    <link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap" rel="stylesheet">
+    <!-- GOOGLE ICONS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0">
+    <!-- CSS -->
+    <!-- PWA -->
+    <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
+    <!-- HYPOTHES.IS -->
+    <script type="application/json" class="js-hypothesis-config">
+      {
+        "openSidebar": false,
+        "showHighlights": true
+      }
+    </script>
+    <script defer src="https://hypothes.is/embed.js"></script>
+    <style>
+      html,
+      body {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        border-collapse: collapse;
+      }
+
+      .head {
+        position: fixed;
+        top: 0;
+        height: 40px;
+        padding: 10px 0 0 0px;
+        line-height: 1.5 !important;
+        ;
+      }
+
+      .body {
+        position: fixed;
+        top: 51px;
+        height: calc(100vh - 50px);
+        overflow-x: hidden;
+        overflow-y: scroll;
+        scroll-behavior: smooth;
+        overscroll-behavior: contain;
+      }
+
+      .col1.body p {
+        margin: 10px 50px;
+        line-height: 1.7;
+        font-size: 14px;
+        font-family: 'Inter';
+      }
+
+      .col2.body p {
+        margin: 10px 50px;
+        font-family: 'Roboto Slab';
+        line-height: 1.7;
+        font-size: 16px;
+        font-weight: 300;
+      }
+
+      .col1 {
+        width: 300px;
+      }
+
+      .col2 {
+        width: calc((100vw - 300px) * .5);
+        left: 300px;
+      }
+
+      .col3 {
+        width: calc((100vw - 353px) * .5);
+        right: 23px;
+      }
+
+      iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+
+      button {
+        margin-left: 10px;
+        font-size: 24px;
+        cursor: pointer;
+        padding: 0px;
+        border-radius: 50%;
+        padding: 2px 4px;
+        border: none;
+        background-color: #fff;
+      }
+
+      button:hover {
+        outline: 3px solid orange;
+        border-radius: 50%;
+      }
+
+      .fr {
+        float: right;
+        margin-right: 10px;
+        margin-left: 0;
+      }
+
+      a {
+        margin: 0;
+        padding: 0;
+      }
+
+      .brand {
+        font-family: 'Russo One', sans-serif;
+        font-size: 24px;
+        border-radius: 0% !important;
+        background-color: transparent;
+        border: none;
+      }
+
+      .material-symbols-outlined {
+        vertical-align: text-bottom;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="col1-head" class="col1 head">
+      <button id="col1-brand" class="brand">💧 doutrina.org</button>
+    </div>
+    <div id="col1-body" class="col1 body">
+      <!-- LINKS -->
+      <p class="h3">Obras básicas</p>
+      <p>👻&nbsp; <a href="./1lde.html">O Livro dos Espíritos</a>
+      </p>
+      <p>✒️&nbsp; <a href="./2ldm.html">O Livro dos Médiuns</a>
+      </p>
+      <p>🕊️&nbsp; <a href="./3ese.html">O Evangelho</a>
+      </p>
+      <p>🔥&nbsp; <a href="./4ceu.html">O Céu e o Inferno</a>
+      </p>
+      <p>🌱&nbsp; <a href="./5gen.html">A Gênese</a>
+      </p>
+      <!-- TOC -->
+      <p class="h3">Sumário</p>
+      <details>
+        <summary>0. 🗃️ Pré-textual</summary>
+        <p>
+          <a href="">0-01. 📄 Folha de rosto</a>
+        </p>
+        <p>
+          <a href="">0-02. 📄 Prefácio</a>
+        </p>
+        <p>
+          <a href="">0-03. 🗂️ Introdução</a>
+        </p>
+      </details>
+      <br>
+      <details>
+        <summary>1. 🗃️ Causas Primárias</summary>
+        <p>
+          <a href="">1-01. 🗂️ Deus</a>
+        </p>
+        <p>
+          <a href="">1-02. 🗂️ Elementos gerais</a>
+        </p>
+        <p>
+          <a href="">1-03. 🗂️ Criação</a>
+        </p>
+        <p>
+          <a href="">1-03. 🗂️ Princípio vital</a>
+        </p>
+      </details>
+      <br>
+      <details>
+        <summary>2. 🗃️ Mundo Espírita</summary>
+        <p>
+          <a href="">2-01. 🗂️ Espíritos</a>
+        </p>
+        <p>
+          <a href="">2-02. 🗂️ Encarnação</a>
+        </p>
+        <p>
+          <a href="">2-03. 🗂️ Retorno</a>
+        </p>
+        <p>
+          <a href="">2-04. 🗂️ Existências</a>
+        </p>
+        <p>
+          <a href="">2-05. 🗂️ Considerações</a>
+        </p>
+        <p>
+          <a href="">2-06. 🗂️ Vida espírita</a>
+        </p>
+        <p>
+          <a href="">2-07. 🗂️ Vida material</a>
+        </p>
+        <p>
+          <a href="">2-08. 🗂️ Emancipação</a>
+        </p>
+        <p>
+          <a href="">2-09. 🗂️ Intervenção</a>
+        </p>
+        <p>
+          <a href="">2-10. 🗂️ Missões</a>
+        </p>
+        <p>
+          <a href="">2-11. 🗂️ Três reinos</a>
+        </p>
+      </details>
+      <br>
+      <details>
+        <summary>3. 🗃️ Leis morais</summary>
+        <p>
+          <a href="">3-01. 🗂️ Divina</a>
+        </p>
+        <p>
+          <a href="">3-02. 🗂️ Adoração</a>
+        </p>
+        <p>
+          <a href="">3-03. 🗂️ Trabalho</a>
+        </p>
+        <p>
+          <a href="">3-04. 🗂️ Reprodução</a>
+        </p>
+        <p>
+          <a href="">3-05. 🗂️ Conservação</a>
+        </p>
+        <p>
+          <a href="">3-06. 🗂️ Destruição</a>
+        </p>
+        <p>
+          <a href="">3-07. 🗂️ Sociedade</a>
+        </p>
+        <p>
+          <a href="">3-08. 🗂️ Progresso</a>
+        </p>
+        <p>
+          <a href="">3-09. 🗂️ Igualdade</a>
+        </p>
+        <p>
+          <a href="">3-10. 🗂️ Liberdade</a>
+        </p>
+        <p>
+          <a href="">3-11. 🗂️ Justiça, amor, e caridade</a>
+        </p>
+        <p>
+          <a href="">3-12. 🗂️ Perfeição moral</a>
+        </p>
+      </details>
+      <br>
+      <details>
+        <summary>4. 🗃️ Penas e gozos</summary>
+        <p>
+          <a href="">4-01. 🗂️ Terrenos</a>
+        </p>
+        <p>
+          <a href="">4-02. 🗂️ Futuros</a>
+        </p>
+      </details>
+      <br>
+      <details>
+        <summary>5. 🗃️ Conclusão</summary>
+        <p>
+          <a href="">5-01. 📄 Conclusão 01</a>
+        </p>
+        <p>
+          <a href="">5-02. 📄 Conclusão 02</a>
+        </p>
+        <p>
+          <a href="">5-03. 📄 Conclusão 03</a>
+        </p>
+        <p>
+          <a href="">5-04. 📄 Conclusão 04</a>
+        </p>
+        <p>
+          <a href="">5-05. 📄 Conclusão 05</a>
+        </p>
+        <p>
+          <a href="">5-06. 📄 Conclusão 06</a>
+        </p>
+        <p>
+          <a href="">5-07. 📄 Conclusão 07</a>
+        </p>
+        <p>
+          <a href="">5-08. 📄 Conclusão 08</a>
+        </p>
+        <p>
+          <a href="">5-09. 📄 Conclusão 09</a>
+        </p>
+      </details>
+      <br>
+      <details>
+        <summary>6. 🗃️ Pós-textual</summary>
+        <p>
+          <a href="">6-01. 📄 Nota explicativa</a>
+        </p>
+        <p>
+          <a href="">6-02. 🏷️ Índice geral</a>
+        </p>
+        <p>
+          <a href="">6-03. ✏️ Notas de rodapé</a>
+        </p>
+      </details>
+      <br>
+      <!-- DETAILS -->
+      <p class="h3">Detalhes</p>
+      <p>📋&nbsp; <a href="./info.md" title="informações">Info</a>
+      </p>
+      <p>📄&nbsp; <a href="./nota.md" title="nota explicativa">Nota</a>
+      </p>
+      <p>🏷️&nbsp; <a href="./indice.md" title="Índice geral">Índice</a>
+      </p>
+      <p>🕷️&nbsp; <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros">Erros</a>
+      </p>
+      <p>📦&nbsp; <a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">Repo</a>
+      </p>
+      <p>⚖️&nbsp; <a href="./legal.md" title="Legal">Legal</a>
+      </p>
+      <p>⭕&nbsp; <a target="_blank" href="https://shklr.org" title="matriz">shklr.org</a>
+      </p>
+      <br>
+    </div>
+    <div id="col2-head" class="col2 head">
+      <button>
+        <span class="material-symbols-outlined">menu</span>
+      </button>
+      <button id="col2-brand" class="brand">💧 doutrina.org</button>
+      <button class="fr">
+        <span class="material-symbols-outlined">fullscreen</span>
+      </button>
+      <button class="fr" hidden>
+        <span class="material-symbols-outlined">fullscreen_exit</span>
+      </button>
+      <button class="fr">
+        <span class="material-symbols-outlined">dark_mode</span>
+      </button>
+      <button class="fr" hidden>
+        <span class="material-symbols-outlined">light_mode</span>
+      </button>
+    </div>
+    <div id="col2-body" class="col2 body">
+      {{ content }}
+    </div>
+    <div id="col3-head" class="col3 head">
+      <button>
+        <span class="material-symbols-outlined">visibility</span></button>
+      <a href="">
+        <button>
+          <span class="material-symbols-outlined">language</span>
+        </button>
+      </a>
+      <a href="">
+        <button>
+          <span class="material-symbols-outlined">book_2</span>
+        </button>
+      </a>
+      <a href="">
+        <button>
+          <span class="material-symbols-outlined">location_on</span>
+        </button>
+      </a>
+      <button class="fr">
+        <span class="material-symbols-outlined">fullscreen</span>
+      </button>
+      <button class="fr" hidden>
+        <span class="material-symbols-outlined">fullscreen_exit</span>
+      </button>
+      <button class="fr">
+        <span class="material-symbols-outlined">dark_mode</span>
+      </button>
+      <button class="fr" hidden>
+        <span class="material-symbols-outlined">light_mode</span>
+      </button>
+    </div>
+    <div id="col3-body" class="col3 body">
+      <iframe src="https://pt.m.wikipedia.org"></iframe>
+    </div>
+    <!-- SCRIPTS -->
+    <script defer src="../framework/js/scripts1.js"></script>
+    <script defer src="../framework/js/crisp.js"></script>
+    <script></script>
+  </body>
+  <!-- #endregion -->
+</html>

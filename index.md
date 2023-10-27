@@ -25,6 +25,4 @@ Projeto ainda em desenvolvimento. Lançamento em 2024!
 ><br>
 {:class="hero"}
 
-<!-- [entrar](./home.html){:class="center-button"} -->
-
-[enter](./home.html){:.enter}
+[entrar](./#.html){:class="center-button"}

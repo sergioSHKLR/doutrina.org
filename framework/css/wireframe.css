@@ -34,6 +34,20 @@ body {
     line-height: 50px;
 }
 
+#col2-head {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    border-bottom: 1px solid gainsboro;
+}
+
+#col2-bottom.body {
+    position: fixed;
+    top: 50px;
+    width: calc(100vw * .5);
+    border-right: 1px solid gainsboro;
+}
+
 .head a:any-link {
     color: currentColor;
 }
@@ -103,11 +117,27 @@ body {
 
 .dark-mode {
     background-color: #222;
-    color: #fff;
+    color: #eee;
+}
+
+.dark-mode table {
+    background-color: rgba(238, 238, 238, .1);
 }
 
 .dark-mode #content a {
     color: #66B3FF !important;
+}
+
+.dark-mode img {
+    background-color: rgba(250, 250, 250, .1)
+}
+
+.dark-mode figcaption {
+    background-color: rgba(250, 250, 250, .1)
+}
+
+.dark-mode blockquote {
+    background-color: rgba(240, 248, 255, .1);
 }
 
 iframe {
@@ -126,6 +156,7 @@ iframe {
     float: right;
     position: relative;
     top: 0px;
+    right: 20px;
 }
 
 .fl {
@@ -302,14 +333,73 @@ strong {
     text-underline-offset: 2px;
 }
 
-details>p>a {margin-left: 10px;}
+details>p>a {
+    margin-left: 10px;
+}
 
-summary::marker { 
-    content:"＋ "; 
-  }
-  
-  details[open] summary::marker { 
-    content:"－ "; 
-  }
+summary::marker {
+    content: "＋ ";
+}
 
-  h6 {margin: 0 0 -20px 0; padding-top: 10px; border-top: 1px solid gainsboro;}
+details[open] summary::marker {
+    content: "－ ";
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 20px;
+}
+
+
+h6 {
+    margin: 0 0 -20px 0;
+    padding-top: 10px;
+    border-top: 1px solid gainsboro;
+}
+
+
+td {
+    padding: 0 30px;
+}
+
+table {
+    outline: 1px solid rgba(200, 200, 200, .5);
+    background-color: rgba(250, 250, 250, 1);
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+blockquote {
+    padding: 5px 20px;
+    background-color: rgba(240, 248, 255, 1);
+    border-left: 1px solid rgba(200, 200, 200, .5);
+    border-top: 1px solid rgba(200, 200, 200, .5);
+    border-bottom: 1px solid rgba(200, 200, 200, .5);
+    border-right: 4px solid dodgerblue;
+}
+
+#col3-link3 {
+    display: none;
+}
+
+img {
+    width: 100%;
+    border-left: 1px solid rgba(200, 200, 200, .5);
+    border-right: 1px solid rgba(200, 200, 200, .5);
+    border-top: 1px solid rgba(200, 200, 200, .5);
+    margin-bottom: -13px;
+    background-color: rgba(250, 250, 250, 1)
+}
+
+figcaption {
+    text-align: center;
+    font-size: 12px;
+    border-left: 1px solid rgba(200, 200, 200, .5);
+    border-right: 1px solid rgba(200, 200, 200, .5);
+    border-bottom: 1px solid rgba(200, 200, 200, .5);
+    margin-top: -12px;
+    background-color: rgba(250, 250, 250, 1)
+}
