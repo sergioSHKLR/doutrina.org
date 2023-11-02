@@ -1,0 +1,165 @@
+#col2-body {
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.7;
+    box-sizing: border-box;
+    border-left: 30px inset transparent;
+    padding-right: 30px;
+}
+
+#col2-body > p > img {
+    display: block;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 1px solid var(--light-mode-border);
+    border-right: 1px solid var(--light-mode-border);
+    border-top: 1px solid var(--light-mode-border);
+    margin-bottom: -17px;
+    padding: 0 30px;
+}
+
+figcaption {
+    margin-top: -17px;
+    display: block;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 80%;
+    font-family: sans-serif;
+    border-left: 1px solid var(--light-mode-border);
+    border-right: 1px solid var(--light-mode-border);
+    border-bottom: 1px solid var(--light-mode-border);
+    text-align: center;
+    padding: 30px;
+}
+
+.box-center {
+    text-align: center;
+}
+
+h1,
+h2 {
+    border-bottom: 1px solid lightgrey;
+}
+
+/*
+h3,
+h4 {
+    border-bottom: 1px solid lightgrey;
+}
+*/
+
+h6 {
+    border-top: 1px solid gainsboro;
+    margin-bottom: -20px;
+    padding-top: 10px;
+}
+
+em {
+    color: crimson;
+}
+
+#content a:any-link {
+    color: mediumblue;
+}
+
+blockquote {
+    padding: 1px 30px;
+    border: none;
+}
+
+blockquote>p>em {
+    color: darkred;
+}
+
+blockquote>p>img {
+    vertical-align: middle;
+}
+
+/* ONE LINE */
+
+
+/* MULTI LINE */
+
+blockquote.spirit-multi>p:last-child {
+    text-align: right;
+    padding-right: 20px;
+}
+
+blockquote,
+blockquote.spirit-multi {
+    background-color: rgba(30, 144, 255, .1);
+}
+
+/*
+blockquote.spirit-multi>p:nth-child(1)::before {
+    content: "👻 ▸ ";
+    font-style: normal !important;
+}
+
+blockquote.spirit>p:nth-child(1)::before {
+    content: "👻 ▸ ";
+    font-style: normal !important;
+}
+
+blockquote.bible>p:nth-child(1)::before {
+    content: "✝️ ▸ ";
+    font-style: normal;
+}
+
+blockquote.bible-multi>p:nth-child(1)::before {
+    content: "✝️ ▸ ";
+    font-style: normal;
+}
+*/
+
+/* BIBLE */
+
+
+blockquote.bible-multi>p:nth-child(2) {
+    text-align: right;
+    padding: 0px 20px;
+    font-style: normal !important;
+    font-weight: 300;
+}
+
+blockquote.spirit-multi>p:nth-child(2) {
+    text-align: right;
+    padding: 0px 20px;
+    font-style: normal !important;
+    font-weight: 300;
+}
+
+blockquote.bible,
+blockquote.bible-multi {
+    background-color: rgba(218, 112, 214, .05);
+}
+
+table {
+    outline: 1px solid gainsboro;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, .5)
+}
+
+td {
+    padding: 0 30px;
+}
+
+#col3-link3 {
+    display: none;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 20px;
+}
+
+strong {font-weight: 400;}
+
+
+
