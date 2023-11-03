@@ -165,7 +165,8 @@ blockquote {
     background-color: rgba(30, 144, 255, .05);
 }
 
-blockquote>p, blockquote>p>a {
+blockquote>p,
+blockquote>p>a {
     background-color: transparent !important;
 }
 
@@ -184,10 +185,21 @@ blockquote.bible {
     background-color: rgba(218, 112, 214, .05);
 }
 
-blockquote.spirit>p, blockquote.spirit>p>a  {
+blockquote.spirit>p,
+blockquote.spirit>p>a {
     background-color: transparent !important;
 }
 
-blockquote.bible>p, blockquote.bible>p>a {
+blockquote.bible>p,
+blockquote.bible>p>a {
     background-color: transparent !important;
+}
+
+a:any-link {
+    text-decoration: none;
+}
+
+a:any-link:hover {
+    text-underline-offset: 3px !important;
+    text-decoration: underline !important
 }
