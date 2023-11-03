@@ -13,9 +13,9 @@
     max-width: 75%;
     margin-left: auto;
     margin-right: auto;
-    border-left: 1px solid gainsboro;
-    border-right: 1px solid gainsboro;
-    border-top: 1px solid gainsboro;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
     margin-bottom: -17px;
     padding: 0 30px;
 }
@@ -28,9 +28,9 @@ figcaption {
     margin-right: auto;
     font-size: 80%;
     font-family: sans-serif;
-    border-left: 1px solid gainsboro;
-    border-right: 1px solid gainsboro;
-    border-bottom: 1px solid gainsboro;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
     text-align: center;
     padding: 30px;
 }
@@ -41,26 +41,18 @@ figcaption {
 
 h1,
 h2 {
-    border-bottom: 1px solid gainsboro;
+    border-bottom: 1px solid #ccc;
 }
 
 h3,
 h4 {
-    border-bottom: 1px solid gainsboro;
+    border-bottom: 1px solid #ccc;
 }
 
 h6 {
-    border-top: 1px solid gainsboro;
+    border-top: 1px solid #ccc;
     margin-bottom: -20px;
     padding-top: 10px;
-}
-
-em {
-    color: crimson;
-}
-
-#content a:any-link {
-    color: mediumblue;
 }
 
 blockquote {
@@ -69,28 +61,13 @@ blockquote {
 }
 
 blockquote>p>em {
-    color: darkred;
+    color: crimson;
 }
 
 blockquote>p>img {
     vertical-align: middle;
 }
 
-/* ONE LINE */
-
-
-/* MULTI LINE */
-
-blockquote.spirit-multi>p:last-child {
-    text-align: right;
-    padding-right: 20px;
-}
-
-blockquote.spirit,
-blockquote.spirit-multi {
-    background-color: rgba(30, 144, 255, .1) !important;
-    border-left: 5px solid dodgerblue;
-}
 
 /*
 blockquote.spirit-multi>p:nth-child(1)::before {
@@ -114,29 +91,10 @@ blockquote.bible-multi>p:nth-child(1)::before {
 }
 
 /* BIBLE */
-blockquote.bible-multi>p:nth-child(2) {
-    text-align: right;
-    padding: 0px 20px;
-    font-style: normal !important;
-    font-weight: 300;
-}
 
-blockquote.spirit-multi>p:nth-child(2) {
-    text-align: right;
-    padding: 0px 20px;
-    font-style: normal !important;
-    font-weight: 300;
-}
-
-blockquote.bible,
-blockquote.bible-multi {
-    background-color: rgba(218, 112, 214, .05) !important;
-    border-left: 5px solid orchid;
-
-}
 
 table {
-    border: 1px solid gainsboro;
+    border: 1px solid #ccc;
     background-color: rgba(255, 255, 255, .5) !important
 }
 
@@ -160,9 +118,11 @@ strong {
     font-weight: 400;
 }
 
+/*----- SPIRIT -----*/
+
 blockquote {
     border-left: 5px solid dodgerblue;
-    background-color: rgba(30, 144, 255, .05);
+    background-color: aliceblue;
 }
 
 blockquote>p,
@@ -170,19 +130,66 @@ blockquote>p>a {
     background-color: transparent !important;
 }
 
-blockquote {
-    border-left: 5px solid dodgerblue;
-    background-color: rgba(30, 144, 255, .05) !important;
+blockquote.spirit-multi>p:last-child {
+    text-align: right;
+    padding-right: 20px;
 }
 
-blockquote.spirit {
+blockquote.spirit,
+blockquote.spirit-multi {
     border-left: 5px solid dodgerblue;
-    background-color: rgba(30, 144, 255, .05);
+    background-color: aliceblue;
 }
+
+/*----- DARKMODE SPIRIT -----*/
+.dark-mode blockquote { 
+    background-color: #114F8C;
+}
+
+.dark-mode blockquote>p,
+.dark-mode blockquote>p>a {
+    background-color: transparent !important;
+}
+
+.dark-mode blockquote.spirit {
+    background-color: #114F8C;
+}
+
+.dark-mode blockquote.spirit-multi>p:last-child {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.dark-mode blockquote.spirit,
+.dark-mode blockquote.spirit-multi {
+    background-color: #114F8C;
+}
+
+/*----- BIBLE -----*/
 
 blockquote.bible {
     border-left: 5px solid orchid;
-    background-color: rgba(218, 112, 214, .05);
+    background-color: #DE7EDA;
+}
+
+blockquote.bible-multi>p:nth-child(2) {
+    text-align: right;
+    padding: 0px 20px;
+    font-style: normal !important;
+    font-weight: 300;
+}
+
+blockquote.spirit-multi>p:nth-child(2) {
+    text-align: right;
+    padding: 0px 20px;
+    font-style: normal !important;
+    font-weight: 300;
+}
+
+blockquote.bible,
+blockquote.bible-multi {
+    border-left: 5px solid orchid;
+    background-color: #DE7EDA !important;
 }
 
 blockquote.spirit>p,
