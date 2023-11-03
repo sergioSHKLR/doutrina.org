@@ -8,14 +8,14 @@
     padding-right: 30px;
 }
 
-#col2-body > p > img {
+#col2-body>p>img {
     display: block;
     max-width: 75%;
     margin-left: auto;
     margin-right: auto;
-    border-left: 1px solid #666;
-    border-right: 1px solid #666;
-    border-top: 1px solid #666;
+    border-left: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
+    border-top: 1px solid gainsboro;
     margin-bottom: -17px;
     padding: 0 30px;
 }
@@ -28,9 +28,9 @@ figcaption {
     margin-right: auto;
     font-size: 80%;
     font-family: sans-serif;
-    border-left: 1px solid #666;
-    border-right: 1px solid #666;
-    border-bottom: 1px solid #666;
+    border-left: 1px solid gainsboro;
+    border-right: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
     text-align: center;
     padding: 30px;
 }
@@ -41,15 +41,13 @@ figcaption {
 
 h1,
 h2 {
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid gainsboro;
 }
 
-/*
 h3,
 h4 {
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid gainsboro;
 }
-*/
 
 h6 {
     border-top: 1px solid gainsboro;
@@ -88,9 +86,10 @@ blockquote.spirit-multi>p:last-child {
     padding-right: 20px;
 }
 
-blockquote,
+blockquote.spirit,
 blockquote.spirit-multi {
-    background-color: rgba(30, 144, 255, .1);
+    background-color: rgba(30, 144, 255, .1) !important;
+    border-left: 5px solid dodgerblue;
 }
 
 /*
@@ -113,11 +112,8 @@ blockquote.bible-multi>p:nth-child(1)::before {
     content: "✝️ ▸ ";
     font-style: normal;
 }
-*/
 
 /* BIBLE */
-
-
 blockquote.bible-multi>p:nth-child(2) {
     text-align: right;
     padding: 0px 20px;
@@ -134,13 +130,14 @@ blockquote.spirit-multi>p:nth-child(2) {
 
 blockquote.bible,
 blockquote.bible-multi {
-    background-color: rgba(218, 112, 214, .05);
+    background-color: rgba(218, 112, 214, .05) !important;
+    border-left: 5px solid orchid;
+
 }
 
 table {
-    outline: 1px solid gainsboro;
-    border-collapse: collapse;
-    background-color: rgba(255, 255, 255, .5)
+    border: 1px solid gainsboro;
+    background-color: rgba(255, 255, 255, .5) !important
 }
 
 td {
@@ -159,7 +156,38 @@ h6 {
     font-size: 20px;
 }
 
-strong {font-weight: 400;}
+strong {
+    font-weight: 400;
+}
 
+blockquote {
+    border-left: 5px solid dodgerblue;
+    background-color: rgba(30, 144, 255, .05);
+}
 
+blockquote>p, blockquote>p>a {
+    background-color: transparent !important;
+}
 
+blockquote {
+    border-left: 5px solid dodgerblue;
+    background-color: rgba(30, 144, 255, .05) !important;
+}
+
+blockquote.spirit {
+    border-left: 5px solid dodgerblue;
+    background-color: rgba(30, 144, 255, .05);
+}
+
+blockquote.bible {
+    border-left: 5px solid orchid;
+    background-color: rgba(218, 112, 214, .05);
+}
+
+blockquote.spirit>p, blockquote.spirit>p>a  {
+    background-color: transparent !important;
+}
+
+blockquote.bible>p, blockquote.bible>p>a {
+    background-color: transparent !important;
+}

@@ -2,6 +2,11 @@
 <html lang="pt-BR">
 
 <head>
+    <!-- remove below -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <!-- remove above -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} | doutrina.org</title>
@@ -42,7 +47,7 @@
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0">
     <!-- CSS -->
     <link rel="stylesheet" href="../framework/css/doutrina-framework.css">
-    <!--  <link rel="stylesheet" href="../framework/css/doutrina-content.css">  -->
+    <link rel="stylesheet" href="../framework/css/doutrina-content.css">
     <link rel="stylesheet" href="../framework/css/doutrina-media-queries.css">
 
     <!-- PWA -->
@@ -69,7 +74,7 @@
     </div>
 
     <div id="col1-body"
-        class="sidebar-w pos-fixed left-0 top-50 h-body overflow border-top border-right ff-inter underline-0 fs-3 pl-15 focus outline"
+        class="sidebar-w pos-fixed left-0 top-50 h-body overflow border-top border-right ff-inter underline-0 fs-3 pl-15"
         style="z-index: 1;">
 
         <!-- COL1 LINKS -->
@@ -189,10 +194,9 @@
                 class="material-symbols-outlined">light_mode</span></button>
     </div>
 
-    <div id="col2-body"
-        class="w-auto pos-fixed top-50 left-sidebar h-body border-top outline focus overflow fc-cc">
+    <div id="col2-body" class="w-auto pos-fixed top-50 left-sidebar h-body border-top overflow fc-cc">
 
-        <!-- {{ content }} -->
+        {{ content }}
 
     </div>
 
@@ -233,9 +237,9 @@
     </div>
     <div id="col3-body" class="w-auto pos-fixed right-0 top-50 right-23 h-body border-left border-top fc-cc">
 
-        
-        <iframe id="ext-iframe" loading="lazy" name="ext"
-            class="h-100 w-100 border-0" src="https://pt.m.wikipedia.org/wiki/Espiritismo"></iframe>
+
+        <iframe id="ext-iframe" loading="lazy" name="ext" class="h-100 w-100 border-0"
+            src="https://pt.m.wikipedia.org/wiki/Espiritismo"></iframe>
     </div>
     <!-- SCRIPTS -->
     <script defer src="../framework/js/doutrina-script.js"></script>
