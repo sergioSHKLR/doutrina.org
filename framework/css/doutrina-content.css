@@ -146,18 +146,8 @@ blockquote.spirit-multi {
     background-color: #114F8C;
 }
 
-.dark-mode blockquote>p,
-.dark-mode blockquote>p>a {
-    background-color: transparent !important;
-}
-
 .dark-mode blockquote.spirit {
     background-color: #114F8C;
-}
-
-.dark-mode blockquote.spirit-multi>p:last-child {
-    text-align: right;
-    padding-right: 20px;
 }
 
 .dark-mode blockquote.spirit,
@@ -166,12 +156,6 @@ blockquote.spirit-multi {
 }
 
 /*----- BIBLE -----*/
-
-blockquote.bible {
-    border-left: 5px solid orchid;
-    background-color: #DE7EDA;
-}
-
 blockquote.bible-multi>p:nth-child(2) {
     text-align: right;
     padding: 0px 20px;
@@ -189,7 +173,7 @@ blockquote.spirit-multi>p:nth-child(2) {
 blockquote.bible,
 blockquote.bible-multi {
     border-left: 5px solid orchid;
-    background-color: #DE7EDA !important;
+    background-color: #F4D4F3 !important;
 }
 
 blockquote.spirit>p,
@@ -197,10 +181,13 @@ blockquote.spirit>p>a {
     background-color: transparent !important;
 }
 
-blockquote.bible>p,
-blockquote.bible>p>a {
-    background-color: transparent !important;
+/*----- DARK MODE BIBLE ----*/
+blockquote.bible,
+blockquote.bible-multi {
+    background-color: #6D386B !important;
 }
+
+/*------ LINKS -----*/
 
 a:any-link {
     text-decoration: none;
