@@ -1,14 +1,32 @@
 :root {
     --sidebar-width: 250px;
     --head-height: 50px;
-    --light-mode-border: rgba(200, 200, 200, 1);
-    --light-mode-bg: #fff;
-    --dark-mode-border: rgba(200, 200, 200, .1);
-    --dark-mode-bg: #222;
-
+    --white: #fff;
+    --black: #000;
+    --grey: #949494;
 }
 
-/* MARGINS */
+* {
+    background-color: var(--white);
+    color: var(--black);
+    border-color: var(--grey);
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+html {
+    background-color: transparent;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: transparent;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ----- MARGINS  ----- */
 .m-0 {
     margin: 0
 }
@@ -33,12 +51,24 @@
     margin-top: 50px
 }
 
+.ml-n10 {
+    margin-left: -10px;
+}
+
+.ml-n5 {
+    margin-left: -5px
+}
+
 .ml-0 {
     margin-left: 0
 }
 
 .ml-10 {
     margin-left: 10px
+}
+
+.ml-15 {
+    margin-left: 15px
 }
 
 .ml-20 {
@@ -62,18 +92,26 @@
 }
 
 .mr-10 {
-    margin-right: 10px
+    margin-right: 10px !important
+}
+
+.mr-20 {
+    margin-right: 20px !important
+}
+
+.mr-23 {
+    margin-right: 23px !important
+}
+
+.mr-30 {
+    margin-right: 30px !important
 }
 
 .mr-50 {
     margin-right: 50px
 }
 
-.ml-n10 {
-    margin-left: -10px;
-}
-
-/* PADDING */
+/* ----- PADDING  ----- */
 .p-0 {
     padding: 0
 }
@@ -106,12 +144,20 @@
     padding-left: 10px
 }
 
+.pl-15 {
+    padding-left: 15px
+}
+
 .pl-50 {
     padding-left: 50px
 }
 
 .pb-0 {
     padding-bottom: 0
+}
+
+.pb-5 {
+    padding-bottom: 5px
 }
 
 .pb-10 {
@@ -134,34 +180,34 @@
     padding-right: 50px
 }
 
-/* BORDER */
+/* ----- BORDER  ----- */
 .border-0 {
-    border: none
+    border: none !important
 }
 
 .border {
-    border: 1px solid solid var(--light-mode-border);
+    border: 1px solid var(--grey);
 }
 
 .border-top {
-    border-top: 1px solid var(--light-mode-border);
+    border-top: 1px solid var(--grey);
 }
 
 .border-right {
-    border-right: 1px solid var(--light-mode-border);
+    border-right: 1px solid var(--grey);
 }
 
 .border-bottom {
-    border-bottom: 1px solid var(--light-mode-border);
+    border-bottom: 1px solid var(--grey);
 }
 
 .border-short {
-    border-bottom: 1px solid var(--light-mode-border);
+    border-bottom: 1px solid var(--grey);
     width: 70%;
 }
 
 .border-left {
-    border-left: 1px solid var(--light-mode-border);
+    border-left: 1px solid var(--grey);
 }
 
 .border-circle {
@@ -176,7 +222,7 @@
     border-radius: 5px !important;
 }
 
-/* OVERFLOW */
+/* ----- OVERFLOW  ----- */
 .overflow {
     overflow-x: hidden;
     overflow-y: scroll;
@@ -184,7 +230,7 @@
     scroll-behavior: smooth;
 }
 
-/* FONT SIZE */
+/* ----- FONT SIZE  ----- */
 .fs-0 {
     font-size: 24px;
 }
@@ -205,7 +251,7 @@
     font-size: 10px;
 }
 
-/* FONT WEIGHT */
+/* ----- FONT WEIGHT  ----- */
 .fw-normal {
     font-weight: 300;
 }
@@ -222,7 +268,7 @@
     font-weight: 700;
 }
 
-/* FONT FAMILY */
+/* ----- FONT FAMILY  ----- */
 .ff-inter {
     font-family: 'Inter', sans-serif;
 }
@@ -239,9 +285,21 @@
     font-family: 'Material Symbols Outlined';
 }
 
-/* POSITION */
+/* ----- POSITION  ----- */
 .pos-fixed {
     position: fixed;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.top-n5 {
+    top: -5px;
+}
+
+.top-n10 {
+    top: -10px;
 }
 
 .top-0 {
@@ -252,10 +310,6 @@
     top: 50px
 }
 
-.top-51 {
-    top: 51px;
-}
-
 .top-100 {
     top: 100px;
 }
@@ -264,28 +318,25 @@
     left: var(--sidebar-width)
 }
 
+.right-0 {
+    right: 0px !important
+}
+
 .right-23 {
-    right: 23px
+    right: 23px !important
 }
 
-.right-22 {
-    right: 22px
+.right-33 {
+    right: 33px
 }
 
-/* FLOAT */
+/* ----- FLOAT  ----- */
 .fr {
+    display: block;
     float: right;
-    margin-right: 10px;
-    margin-left: 0;
 }
 
-.fr-23 {
-    float: right;
-    margin-right: 23px;
-    margin-left: 0;
-}
-
-/* HEIGHT */
+/* ----- HEIGHT  ----- */
 .h-100 {
     height: 100%
 }
@@ -302,7 +353,7 @@
     height: 40px;
 }
 
-/* WIDTH */
+/* ----- WIDTH  ----- */
 .w-100 {
     width: 100%;
 }
@@ -311,16 +362,12 @@
     width: 100vw;
 }
 
-/* AUTO-WIDTH */
+/* ----- AUTO-WIDTH  ----- */
 .w-auto {
-    width: calc((100vw * .5) - var(--sidebar-width) * .5) !important
+    width: calc(((100vw - 23px) * .5) - var(--sidebar-width) * .5) !important
 }
 
-.w-auto-r23 {
-    width: calc(((100vw * .5) - var(--sidebar-width) * .5) - 23px) !important
-}
-
-/* SIDEBAR */
+/* ----- SIDEBAR  ----- */
 .sidebar-w {
     width: var(--sidebar-width);
 }
@@ -329,12 +376,12 @@
     height: var(--sidebar-height);
 }
 
-/* DISPLAY */
+/* ----- DISPLAY  ----- */
 .hidden {
     display: none;
 }
 
-/* LINKS */
+/* ----- LINKS  ----- */
 
 .underline-0 a {
     text-decoration: none;
@@ -353,7 +400,11 @@
     border-radius: 3px;
 }
 
-/* BUTTON */
+.outline-0 {
+    outline: none !important;
+}
+
+/* ----- BUTTON  ----- */
 button {
     margin-left: 10px;
     font-size: 24px;
@@ -372,13 +423,17 @@ button:hover {
     border-radius: 50%;
 }
 
-/* ICONS */
+a:hover {
+    outline: 3px solid orange;
+}
+
+/* ----- ICONS  ----- */
 span.material-symbols-outlined {
     vertical-align: top;
     color: currentColor;
 }
 
-/* DETAILS SUMMARY */
+/* ----- DETAILS SUMMARY  ----- */
 details,
 summary {
     cursor: pointer;
@@ -396,18 +451,26 @@ details>p>a {
     margin-left: 10px;
 }
 
-/* DARK MODE */
-
+/* ----- DARK MODE  ----- */
 .dark-mode {
     background-color: #222;
     color: #eee;
+}
+
+.dark-mode * {
+    background-color: #222;
+    color: #eee;
+}
+
+.dark-mode col1-body {
+    background-color: #222;
 }
 
 .dark-mode table {
     background-color: rgba(238, 238, 238, .1);
 }
 
-.dark-mode #content a {
+.dark-mode #col2-body a {
     color: #66B3FF !important;
 }
 
@@ -423,7 +486,7 @@ details>p>a {
     background-color: rgba(240, 248, 255, .1);
 }
 
-/* HIDE SHOW */
+/* ----- HIDE SHOW  ----- */
 .hide {
     display: none;
 }
@@ -432,8 +495,7 @@ details>p>a {
     display: inline;
 }
 
-/* SHADES */
-
+/* ----- SHADES  ----- */
 .shades-on {
     filter: blur(6px) grayscale(1)
 }
@@ -442,6 +504,11 @@ details>p>a {
     filter: grayscale(0)
 }
 
-/* BACKGROUND */
-.bg-light {background-color: var(--light-mode-bg)}
-.bg-dark {background-color: var(--dark-mode-bg);}
+/* ----- BACKGROUND  ----- */
+.bg-light {
+    background-color: var(--light-mode-bg)
+}
+
+.bg-dark {
+    background-color: var(--dark-mode-bg);
+}

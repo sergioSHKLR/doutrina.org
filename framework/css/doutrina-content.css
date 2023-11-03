@@ -13,9 +13,9 @@
     max-width: 75%;
     margin-left: auto;
     margin-right: auto;
-    border-left: 1px solid var(--light-mode-border);
-    border-right: 1px solid var(--light-mode-border);
-    border-top: 1px solid var(--light-mode-border);
+    border-left: 1px solid #666;
+    border-right: 1px solid #666;
+    border-top: 1px solid #666;
     margin-bottom: -17px;
     padding: 0 30px;
 }
@@ -28,9 +28,9 @@ figcaption {
     margin-right: auto;
     font-size: 80%;
     font-family: sans-serif;
-    border-left: 1px solid var(--light-mode-border);
-    border-right: 1px solid var(--light-mode-border);
-    border-bottom: 1px solid var(--light-mode-border);
+    border-left: 1px solid #666;
+    border-right: 1px solid #666;
+    border-bottom: 1px solid #666;
     text-align: center;
     padding: 30px;
 }
@@ -41,13 +41,13 @@ figcaption {
 
 h1,
 h2 {
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid #666;
 }
 
 /*
 h3,
 h4 {
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid #666;
 }
 */
 

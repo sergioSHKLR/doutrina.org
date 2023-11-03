@@ -1,4 +1,5 @@
 @media only screen and (max-width:782px) {
+
     #col1-head,
     #col1-body,
     #col3-head,
@@ -8,18 +9,13 @@
 
     #col2-head,
     #col2-body {
-        left: 0;
+        left: 0px;
         width: 100vw !important;
     }
-
-    #col2-fs-btn,
-    #col2-ns-btn {
-        margin-right: 23px;
-    }
-
 }
 
 @media only screen and (min-width:783px) and (max-width:1419px) {
+
     #col1-head,
     #col1-body,
     #col1-brand,
@@ -36,29 +32,38 @@
 
     #col3-head,
     #col3-body {
-        right: 22px;
+        right: 23px;
         width: calc((100vw * .5) - 23px) !important
     }
 }
 
 @media only screen and (min-width:1420px) and (max-width:1919px) {
+
     #col2-menu,
     #col2-brand,
-    #col2-dm-btn,
-    #col2-fs-btn {
-        display: none;
-    }
-
-}
-
-@media only screen and (min-width:1920px) {
-    #col2-brand,
-    #col2-menu,
     #col2-dm-btn,
     #col2-fs-btn {
         display: none;
     }
 }
+
+@media only screen and (min-width:1920px) {
+
+    #col2-brand,
+    #col2-menu,
+    #col2-dm-btn,
+    #col2-fs-btn {
+        display: none;
+    }
+
+    #col2-fs-btn,
+    #col2-ns-btn {
+        display: none;
+    }
+
+}
+
+/* ----- ORIENTATION ----- */
 
 @media only screen and (orientation:portrait) {
     div#portrait-notice {
