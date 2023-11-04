@@ -14,6 +14,16 @@ layout: doutrina-1lde
 [2]: https://pt.m.wikipedia.org/wiki/Cristo
 [3]: https://pt.m.wikipedia.org/wiki/Espiritismo
 [Mt]: https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)
+[Mt05]: https://pt.m.wikipedia.org/wiki/Mateus_5
+[Mt06]: https://pt.m.wikipedia.org/wiki/Mateus_6
+[Mt07]: https://pt.m.wikipedia.org/wiki/Mateus_7
+[Mt13]: https://pt.m.wikipedia.org/wiki/Mateus_13
+[Mt17]: https://pt.m.wikipedia.org/wiki/Mateus_17
+[Mt19]: https://pt.m.wikipedia.org/wiki/Mateus_19
+[Mt22]: https://pt.m.wikipedia.org/wiki/Mateus_22
+[Mt23]: https://pt.m.wikipedia.org/wiki/Mateus_23
+[Mt24]: https://pt.m.wikipedia.org/wiki/Mateus_24
+[Mt29]: https://pt.m.wikipedia.org/wiki/Mateus_29
 [ARC]: https://www.bible.com/pt/versions/212
 
 # 👻 O Livro dos Espíritos {#lde}
@@ -41,7 +51,6 @@ layout: doutrina-1lde
 | Modificado para o consumo digital por Sergio de |
 | ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
 |  |
-
 
 ### 🗂️ Prefácio {#lde-0-02}
 
@@ -81,7 +90,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a [Deus][0]{:target="ext"} com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus][0]{:target="ext"}. São um véu lançado sobre as claridades celestes, e [Deus][0]{:target="ext"} não pode servir-se do cego para fazer perceptível a luz.
 >
-> João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.
+> <p id="author" style="text-align: right;">João Evangelista,<br>Santo Agostinho,<br>São Vicente de Paulo,<br>São Luís, IX de França,<br>O Espírito da Verdade,<br>Sócrates,<br>Platão,<br>Fénelon,<br>Franklin,<br>Swedenborg,<br>entre outros.</p>
 {:.spirit}
 
 ### 🗂️ Introdução {#lde-0-03}
@@ -308,7 +317,7 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 
 > ✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
-> [Mateus][Mt]{:target="ext"}, cap. 13, vers. 14, [ARC][ARC]{:target="ext"}
+> [Mateus][Mt]{:target="ext"}, [cap. 13][Mt13]{:target="ext"}, [vers. 14](https://www.bible.com/pt/bible/212/MAT.13.ARC){:target="ext"}, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
@@ -319,7 +328,7 @@ Efetivamente, como acreditar que [Deus][0]{:target="ext"} só ao Espírito do ma
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
-Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho: ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* ([Mateus][Mt]{:target="ext"}, cap. 23, vers. 12, [ARC][ARC]{:target="ext"}) devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
+Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho: ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* ([Mateus][Mt]{:target="ext"}, [cap. 23][Mt23]{:target="ext"}, [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC){:target="ext"}, [ARC][ARC]{:target="ext"}) devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
 
 #### 📑 Intro 12 {#lde-0-03-12}
 
@@ -1530,7 +1539,7 @@ A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no
 
 > ✝️ ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
 >
-> [Mateus][Mt]{:target="ext"}, cap. 24, vers. 29 e 34, [ARC][ARC]{:target="ext"}
+> [Mateus][Mt]{:target="ext"}, [cap. 24][Mt24]{:target="ext"}, [vers. 29 e 34](https://www.bible.com/pt/bible/212/MAT.24.ARC){:target="ext"}, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
 
 Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o [Cristo][2]{:target="ext"}, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
@@ -2481,7 +2490,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 
 > ✝️ ▸ E, descendo eles do monte, [Jesus][1]{:target="ext"} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus][1]{:target="ext"}, respondendo, disse-lhes: *Em verdade Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.
 >
-> [Mateus][Mt]{:target="ext"}, cap. 17, vers. 9 a 13, [ARC][ARC]{:target="ext"}
+> [Mateus][Mt]{:target="ext"}, [cap. 17][Mt17]{:target="ext"}, [vers. 09 a 13](https://www.bible.com/pt/bible/212/MAT.17.ARC){:target="ext"}, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
@@ -2990,7 +2999,7 @@ Como devemos entender essa elevação e esse rebaixamento?
 
 > 👻 ▸ Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse [Jesus][1]{:target="ext"}: 
 >
-> ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*. ([Mateus][Mt]{:target="ext"}, cap. 23, vers. 12, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*. ([Mateus][Mt]{:target="ext"}, [cap. 23][Mt23]{:target="ext"}, [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 
 ###### Q.276
 
@@ -4510,7 +4519,7 @@ Por que meio podemos neutralizar a influência dos maus Espíritos?
 
 > 👻 ▸ Praticando o bem e pondo em [Deus][0]{:target="ext"} toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que [Jesus][1]{:target="ext"}, na oração dominical, vos ensinou a dizer:
 >
-> ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* ([Mateus][Mt]{:target="ext"}, cap. 6, vers. 13, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* ([Mateus][Mt]{:target="ext"}, [cap. 06][Mt06]{:target="ext"}, [vers. 13](https://www.bible.com/pt/bible/212/MAT.6.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 
 ###### Q.470
 
@@ -4716,7 +4725,7 @@ Poderá dar-se que o Espírito protetor abandone o seu protegido, por se lhe mos
 >
 > Não receeis fatigar-nos com as vossas perguntas. Ao contrário, procurai estar sempre em relação conosco. Sereis assim mais fortes e mais felizes. São essas comunicações de cada um com o seu Espírito familiar que fazem sejam médiuns todos os homens, médiuns ignorados hoje, mas que se manifestarão mais tarde e se espalharão qual oceano sem margens, levando de roldão a incredulidade e a ignorância. Homens doutos, instruí os vossos semelhantes; homens de talento, educai os vossos irmãos. Não imaginais que obra fazeis desse modo: a do [Cristo][2]{:target="ext"}, a que [Deus][0]{:target="ext"} vos impõe. Para que vos outorgou [Deus][0]{:target="ext"} a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna.
 >
-> São Luís, Santo Agostinho
+> São Luís, IX de França e Santo Agostinho
 
 Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na Terra o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os Espíritos possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 
@@ -5872,7 +5881,7 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 
 > 👻 ▸ [Jesus][1]{:target="ext"} disse:
 >
-> ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* ([Mateus][Mt]{:target="ext"}, cap. 7, vers. 12, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* ([Mateus][Mt]{:target="ext"}, [cap. 07][Mt07]{:target="ext"}, [vers. 12](https://www.bible.com/pt/bible/212/MAT.7.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 
 ###### Q.633
 
@@ -6114,7 +6123,7 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 
 > 👻 ▸ Aos homens disse o [Cristo][2]{:target="ext"}:
 >
-> ✝️ ▸ *Amarás o teu próximo como a ti mesmo.* ([Mateus][Mt]{:target="ext"}, cap. 22, vers. 39, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *Amarás o teu próximo como a ti mesmo.* ([Mateus][Mt]{:target="ext"}, [cap. 22][Mt22]{:target="ext"}, [vers. 39](https://www.bible.com/pt/bible/212/MAT.22.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o [Cristo][2]{:target="ext"} recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 
@@ -6879,11 +6888,16 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 
 ###### Q.764
 
-Disse [Jesus][1]{:target="ext"}: ✝️ ▸ *todos os que lançarem mão da espada à espada morrerão.* ([Mateus][Mt]{:target="ext"}, cap. 26, vers. 51-52, [ARC][ARC]{:target="ext"}) Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+Disse [Jesus][1]{:target="ext"}: ✝️ ▸ *todos os que lançarem mão da espada à espada morrerão.*
+([Mateus][Mt]{:target="ext"}, 
+ [cap. 26][Mt26]{:target="ext"}, 
+ [vers. 51-52](https://www.bible.com/pt/bible/212/MAT.26.ARC){:target="ext"},
+ [ARC][ARC]{:target="ext"})
+Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 > 👻 ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus][0]{:target="ext"}. É [Deus][0]{:target="ext"} quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus][1]{:target="ext"}. Não vos disse Ele também:
 >
-> ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* ([Mateus][Mt]{:target="ext"}, cap. 6, vers. 14, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* ([Mateus][Mt]{:target="ext"}, [cap. 06][Mt06]{:target="ext"}, [vers. 14](https://www.bible.com/pt/bible/212/MAT.6.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 >
 > E não vos ensinou a pedir a [Deus][0]{:target="ext"} que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?
 
@@ -7351,7 +7365,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 
 > ✝️ ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus][0]{:target="ext"}.*
 >
-> [Mateus][Mt]{:target="ext"}, cap. 19, vers. 24, [ARC][ARC]{:target="ext"} 👉 ([Q.266](#q266))
+> [Mateus][Mt]{:target="ext"}, [cap. 19][Mt19]{:target="ext"}, [vers. 24](https://www.bible.com/pt/bible/212/MAT.19.ARC){:target="ext"}, [ARC][ARC]{:target="ext"} 👉 ([Q.266](#q266))
 {:.bible-multi}
 
 #### Igualdade dos direitos do homem e da mulher
@@ -7770,7 +7784,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 
 > ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
 >
-> [Mateus][Mt]{:target="ext"}, cap. 6, vers. 13, [ARC][ARC]{:target="ext"}
+> [Mateus][Mt]{:target="ext"}, [cap. 06][Mt06]{:target="ext"}, [vers. 13](https://www.bible.com/pt/bible/212/MAT.6.ARC){:target="ext"}, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
@@ -7865,7 +7879,7 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 >
 > E [Jesus][1]{:target="ext"} não disse:  
 >
-> ✝️ ▸ *Dai, pois, a César o que é de César e a [Deus][0]{:target="ext"}, o que é de [Deus][0]{:target="ext"}.* ([Mateus][Mt]{:target="ext"}, cap. 22, vers. 21, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *Dai, pois, a César o que é de César e a [Deus][0]{:target="ext"}, o que é de [Deus][0]{:target="ext"}.* ([Mateus][Mt]{:target="ext"}, [cap. 22][Mt22]{:target="ext"}, [vers. 21](https://www.bible.com/pt/bible/212/MAT.22.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 >
 >O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -7907,14 +7921,14 @@ O amor e a caridade são o complemento da lei de justiça, pois amar o próximo 
 
 > ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
 >
-> [Mateus][Mt]{:target="ext"}, cap. 22, vers. 39, [ARC][ARC]{:target="ext"}
+> [Mateus][Mt]{:target="ext"}, [cap. 22][Mt22]{:target="ext"}, [vers. 39](https://www.bible.com/pt/bible/212/MAT.22.ARC){:target="ext"}, [ARC][ARC]{:target="ext"}
 {:.bible-multi}
 
 A caridade, segundo [Jesus][1]{:target="ext"}, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 
 ###### Q.887
 
-[Jesus][1]{:target="ext"} também disse: ✝️ ▸ *Amai a vossos inimigos* ( [Mateus][Mt]{:target="ext"}, cap. 5, vers. 44, [ARC][ARC]{:target="ext"} ) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+[Jesus][1]{:target="ext"} também disse: ✝️ ▸ *Amai a vossos inimigos* ( [Mateus][Mt]{:target="ext"}, [cap. 05][Mt05]{:target="ext"}, [vers. 44](https://www.bible.com/pt/bible/212/MAT.5.ARC){:target="ext"}, [ARC][ARC]{:target="ext"} ) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 > 👻 ▸ Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que [Jesus][1]{:target="ext"} entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
@@ -7933,7 +7947,7 @@ Dar-se-á reproveis a esmola?
 > A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 Lembrai-vos também de que, aos olhos de [Deus][0]{:target="ext"}, a ostentação tira o mérito ao benefício. Disse [Jesus][1]{:target="ext"}:
 >
-> ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….* ([Mateus][Mt]{:target="ext"}, cap. 6, vers. 3, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….* ([Mateus][Mt]{:target="ext"}, [cap. 06][Mt06]{:target="ext"}, [vers. 03](https://www.bible.com/pt/bible/212/MAT.6.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 >
 > Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
 >
@@ -8056,7 +8070,7 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 
 > 👻 ▸ Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de [Jesus][1]{:target="ext"}:
 >
-> ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.* ([Mateus][Mt]{:target="ext"}, cap. 7, vers. 3, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.* ([Mateus][Mt]{:target="ext"}, [cap. 07][Mt07]{:target="ext"}, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 
 ###### Q.904
 
@@ -8272,7 +8286,7 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 
 > 👻 ▸ Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. [Deus][0]{:target="ext"} algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de [Jesus][1]{:target="ext"}:
 >
-> ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* ([Mateus][Mt]{:target="ext"}, cap. 5, vers. 4, [ARC][ARC]{:target="ext"})
+> ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* ([Mateus][Mt]{:target="ext"}, [cap. 05][Mt05]{:target="ext"}, [vers. 04](https://www.bible.com/pt/bible/212/MAT.5.ARC){:target="ext"}, [ARC][ARC]{:target="ext"})
 
 ###### Q.927
 
@@ -8962,7 +8976,7 @@ Em que se baseia a duração dos sofrimentos do culpado?
 
 > 👻 ▸ No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do Espírito, a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.
 >
-> São Luís
+> São Luís, IX de França
 
 ###### Q.1005
 
@@ -8976,7 +8990,7 @@ Poderão durar eternamente os sofrimentos do Espírito?
 
 > 👻 ▸ Poderiam, se ele pudesse ser eternamente mau, isto é, se jamais se arrependesse e melhorasse, sofreria eternamente. [Deus][0]{:target="ext"}, porém, não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da vontade de cada um. Mais ou menos tardia pode ser a vontade, do mesmo modo que há crianças mais ou menos precoces, porém, cedo ou tarde, ela aparece, por efeito da irresistível necessidade que o Espírito sente de sair da inferioridade e de se tornar feliz. Eminentemente sábia e magnânima é, pois, a lei que rege a duração das penas, porquanto subordina essa duração aos esforços do Espírito. Jamais o priva do seu livre-arbítrio: se deste faz ele mau uso, sofre as consequências.
 >
-> São Luís
+> São Luís, IX de França
 
 ###### Q.1007
 
@@ -8984,7 +8998,7 @@ Haverá Espíritos que nunca se arrependem?
 
 > 👻 ▸ Há os de arrependimento muito tardio; porém, pretender-se que nunca se melhorarão fora negar a lei do progresso e dizer que a criança não pode tornar-se homem.
 >
-> São Luís
+> São Luís, IX de França
 
 ###### Q.1008
 
@@ -8992,7 +9006,7 @@ Depende sempre da vontade do Espírito a duração das penas? Algumas não haver
 
 > 👻 ▸ Sim, ao Espírito podem ser impostas penas por determinado tempo; mas [Deus][0]{:target="ext"}, que só quer o bem de suas criaturas, acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o Espírito manifeste de se melhorar.
 >
-> São Luís
+> São Luís, IX de França
 
 ###### Q.1009
 
@@ -9048,7 +9062,7 @@ Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrin
 
 > É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o [Espiritismo][3]{:target="ext"} ressalta a cada passo do texto mesmo das Escrituras sagradas. Os Espíritos, portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.
 >
-> São Luís
+> São Luís, IX de França
 
 Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 
@@ -9128,7 +9142,7 @@ Poderá jamais implantar-se na Terra o reinado do bem?
 >
 > Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.
 >
-> São Luís
+> São Luís, IX de França
 
 ## 5. 🗃️ Conclusão {#lde-5}
 
@@ -9355,7 +9369,7 @@ PLACEHOLDER
 
 [^15]: N.E.: Ver 👉 Nota explicativa.
 
-[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, 664, é do Espírito **São Luís**.
+[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, 664, é do Espírito **São Luís, IX de França**.
 
 [^17]: N.E.: Ver 👉 Nota explicativa.
 

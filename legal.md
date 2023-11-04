@@ -1,6 +1,6 @@
 ---
 title: ⚖️ Avisos legais
-layout: default
+layout: doutrina-generic
 ---
 
 # ⚖️ Avisos legais

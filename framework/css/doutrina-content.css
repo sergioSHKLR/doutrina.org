@@ -56,12 +56,10 @@ h6 {
 }
 
 blockquote {
-    padding: 1px 30px;
+    padding: 1px 20px;
     border: none;
-}
-
-blockquote>p>em {
-    color: crimson;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
 }
 
 blockquote>p>img {
@@ -121,7 +119,8 @@ strong {
 /*----- SPIRIT -----*/
 
 blockquote {
-    border-left: 5px solid dodgerblue;
+    border-left: 4px solid;
+    border-color: dodgerblue;
     background-color: aliceblue;
 }
 
@@ -133,26 +132,35 @@ blockquote>p>a {
 blockquote.spirit-multi>p:last-child {
     text-align: right;
     padding-right: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+p#author {
+    background-color: transparent;
+    padding-right: 20px;
+    font-style: normal;
+    font-weight: 400 !important;
 }
 
 blockquote.spirit,
 blockquote.spirit-multi {
-    border-left: 5px solid dodgerblue;
-    background-color: aliceblue;
+    border-left: 4px solid dodgerblue;
+    background-color: #F4FAFF;
 }
 
 /*----- DARKMODE SPIRIT -----*/
-.dark-mode blockquote { 
-    background-color: #114F8C;
+.dark-mode blockquote {
+    background-color: #082440;
 }
 
 .dark-mode blockquote.spirit {
-    background-color: #114F8C;
+    background-color: #082440;
 }
 
 .dark-mode blockquote.spirit,
 .dark-mode blockquote.spirit-multi {
-    background-color: #114F8C;
+    background-color: #082440;
 }
 
 /*----- BIBLE -----*/
@@ -160,20 +168,20 @@ blockquote.bible-multi>p:nth-child(2) {
     text-align: right;
     padding: 0px 20px;
     font-style: normal !important;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 blockquote.spirit-multi>p:nth-child(2) {
     text-align: right;
     padding: 0px 20px;
     font-style: normal !important;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 blockquote.bible,
 blockquote.bible-multi {
-    border-left: 5px solid orchid;
-    background-color: #F4D4F3 !important;
+    border-left: 4px solid orchid;
+    background-color: #FCF4FC !important;
 }
 
 blockquote.spirit>p,
@@ -182,18 +190,50 @@ blockquote.spirit>p>a {
 }
 
 /*----- DARK MODE BIBLE ----*/
-blockquote.bible,
-blockquote.bible-multi {
-    background-color: #6D386B !important;
+.dark-mode blockquote.bible,
+.dark-mode blockquote.bible-multi {
+    background-color: #371C36 !important;
+}
+
+/*------ GREY ------*/
+blockquote.grey {
+    border-left: 4px solid;
+    border-color: #ccc;
+    background-color: #eee;
+}
+
+blockquote.grey>p,
+blockquote.grey>p>a {
+    background-color: transparent !important;
+}
+
+/*------ GREY DARK MODE ------*/
+.dark-mode blockquote.grey {
+    border-color: #ccc;
+    background-color: #383838;
+}
+
+.dark-mode blockquote.grey>p,
+.dark-mode blockquote.grey>p>a {
+    background-color: transparent !important;
 }
 
 /*------ LINKS -----*/
 
-a:any-link {
-    text-decoration: none;
+a {
+    text-decoration: none !important;
 }
 
-a:any-link:hover {
+#col2-body a:hover {
     text-underline-offset: 3px !important;
     text-decoration: underline !important
+}
+
+/*------ EM ------*/
+em {
+    color: crimson;
+}
+
+.dark-mode em {
+    color: #FF9494;
 }

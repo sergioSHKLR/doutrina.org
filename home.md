@@ -1,6 +1,6 @@
 ---
 title: 🏠 Início
-layout: default
+layout: doutrina-generic
 ---
 
 <head>
