@@ -105,7 +105,7 @@ function closeFullscreen3() {
     var element = document.getElementById("col3-fs-btn");
     element.classList.toggle("hide");
 
-} 
+}
 
 //--------------------------------------------------------------
 
@@ -133,7 +133,7 @@ function shadesOff() {
 
 //--------------------------------------------------------------
 
-
+/*
 function toggleMenu() {
     var x = document.getElementById("col1-body");
     if (x.style.display === "block") {
@@ -142,3 +142,16 @@ function toggleMenu() {
       x.style.display = "block";
     }
   }
+  */
+
+  function menuOn() {
+    document.getElementById("col1-body").style.display = 'inline-block';
+    document.getElementById("col2-menu-on").style.display = 'none';
+    document.getElementById("col2-menu-off").style.display = 'inline-block';
+}
+
+function menuOff() {
+    document.getElementById("col1-body").style.display = 'none';
+    document.getElementById("col2-menu-off").style.display = 'none';
+    document.getElementById("col2-menu-on").style.display = 'inline-block';
+}

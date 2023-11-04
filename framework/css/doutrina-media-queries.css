@@ -24,6 +24,7 @@
         display: none;
     }
 
+
     #col2-head,
     #col2-body {
         left: 0;
@@ -39,7 +40,7 @@
 
 @media only screen and (min-width:1420px) and (max-width:1919px) {
 
-    #col2-menu,
+    #col2-menu-on,
     #col2-brand,
     #col2-dm-btn,
     #col2-fs-btn {
@@ -50,7 +51,7 @@
 @media only screen and (min-width:1920px) {
 
     #col2-brand,
-    #col2-menu,
+    #col2-menu-on,
     #col2-dm-btn,
     #col2-fs-btn {
         display: none;
