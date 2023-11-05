@@ -14,7 +14,7 @@ layout: template-generic
 */
 table {width: 100%; border: 1px solid gainsboro; border-collapse: collapse;}
 tr, td {width: 33%; text-align: center; border: 1px solid gainsboro; padding: 10px;}
-th {padding: 10px; background-color: #eee}
+th {padding: 10px; background-color: #eee; white-space: nowrap;}
 #maps-button {display: none;}
 ul, li {line-height: 1.7;}
 #col1-bottom > p:nth-child(7) {display: none;}

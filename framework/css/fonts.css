@@ -105,15 +105,6 @@
     src: url('../../framework/fonts/roboto-slab-v34-latin/roboto-slab-v34-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
 
-  /* material-symbols-outlined-regular - latin */
-@font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'Material Symbols Outlined';
-    font-style: normal;
-    font-weight: 400;
-    src: url('../../framework/fonts/material-symbols-outlined-v146-latin/material-symbols-outlined-v146-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-  }
-
   /* zeyada-regular - latin */
 @font-face {
     font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */

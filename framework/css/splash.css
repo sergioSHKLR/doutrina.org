@@ -34,8 +34,8 @@
 @media (orientation:landscape) {
   .hero {
     font-size: 18px;
-    max-width: 380px;
-    max-height: 380px;
+    max-width: 430px;
+    max-height: 430px;
     margin-left: auto;
     margin-right: auto
   }
@@ -44,8 +44,8 @@
 @media (orientation:portrait) {
   .hero {
     font-size: 17px;
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 380px;
+    max-height: 380px;
     margin-left: auto;
     margin-right: auto
   }

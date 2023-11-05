@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    
+
 <head>
 
     <meta charset="utf-8">
@@ -23,21 +23,23 @@
     <meta property="twitter:description"
         content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
     <meta property="twitter:image" content="../framework/pwa/twitter.png">
-   
+
     <!-- CSS -->
     <link rel="stylesheet" href="../framework/css/framework.css">
     <link rel="stylesheet" href="../framework/css/content.css">
-    <link rel="stylesheet" href="../framework/css/media-queries.css"> 
-<link rel="stylesheet" href="../framework/css/fonts.css">
+    <link rel="stylesheet" href="../framework/css/media-queries.css">
+    <link rel="stylesheet" href="../framework/css/fonts.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0" />
 
     <!-- PWA -->
     <link rel="icon" href="" type="image/svg+xml">
     <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
 
     <!-- HYPOTHES.IS -->
-   <script type="application/json" class="js-hypothesis-config">
+    <script type="application/json" class="js-hypothesis-config">
       {
-        "openSidebar": true,
+        "openSidebar": false,
         "showHighlights": true
       }
     </script>
@@ -48,6 +50,7 @@
 </head>
 
 <body>
+
     <div id="col1-head" class="sidebar-w pos-fixed top-0 h-50 left-0 pt-10 border-0 pl-10 underline-0">
 
         <a href="./home.html" id="col1-brand"
@@ -79,7 +82,7 @@
         <!--
       <p><a href="./nota.html" title="nota explicativa">📄 Nota</a></p>
       <p><a href="./indice.html" title="Índice geral">🏷️ Índice</a></p> -->
-        <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros">🕷️ Erros</a></p>
+        <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros">🐛 Erros</a></p>
         <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">📦 Repo</a></p>
         <p><a target="_blank" href="https://shklr.org" title="matriz">⭕ shklr.org</a></p>
         <br>
@@ -112,7 +115,11 @@
 
     <div id="col2-body" class="w-auto pos-fixed top-50 left-sidebar h-body border-top overflow fc-cc">
 
-      {{ content }}
+        <div id="progress">
+            <span id="progress-value">&#x1F815;</span>
+          </div>
+
+        {{ content }}
 
     </div>
 
@@ -161,7 +168,10 @@
     <script defer src="../framework/js/script.js"></script>
     <script defer src="../framework/js/crisp.js"></script>
 
-    <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel-2.svg" alt="Stand With Us" title="Stand With Us"></a>
+    <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel-2.svg"
+            alt="Stand With Us" title="Stand With Us"></a>
+
+
 
 </body>
 <!-- #endregion -->
