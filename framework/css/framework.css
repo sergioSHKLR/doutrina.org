@@ -442,7 +442,6 @@ a:hover {
 span.material-symbols-outlined {
     vertical-align: middle;
     color: currentColor;
-    font-family: 'Material Symbols Outlined';
     position: relative;
     top: -5px;
     font-weight: 200 !important ;
