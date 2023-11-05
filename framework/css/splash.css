@@ -52,7 +52,7 @@
 }
 
 img#israel {
-  position: absolute;
+  position: fixed;
   bottom: -10px;
   left: -50px;
   z-index: 99;
