@@ -527,3 +527,12 @@ details>p>a {
 .bg-dark {
     background-color: var(--black) !important
 }
+
+img#israel {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 99;
+    width: 100px;
+    height: 100px;
+}

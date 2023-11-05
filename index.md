@@ -3,17 +3,6 @@ title: doutrina.org
 layout: hero
 ---
 
-<head>
-<meta name="theme-color" content="#4ec1f5">
-
-<style>
-body {background-color: #eee;}
-.banner {margin-left: auto; margin-right: auto; text-align: center; font-family: sans-serif; color: red;}
-.enter {position: absolute; bottom: 0; right: 0; color: transparent;}
-</style>
-</head>
-
-
 Projeto ainda em desenvolvimento. Lançamento em 2024!  
 {:.banner}
 

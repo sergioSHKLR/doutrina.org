@@ -4,7 +4,7 @@
   font-size: 20px;
   word-spacing: 5px;
   color: #555;
-  background-color: #fffaf0;
+  background-color: lightyellow;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
   padding: 30px;
   margin: 40px;
@@ -49,4 +49,13 @@
     margin-left: auto;
     margin-right: auto
   }
+}
+
+img#israel {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  z-index: 99;
+  width: 100px;
+  height: 100px;
 }

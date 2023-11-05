@@ -27,7 +27,7 @@ ul, li {line-height: 1.7;}
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita em três colunas, dispostas assim:
 
-| doutrina.org |  | 🔴🟡🟢 |
+| 🔴🟡🟢 | 💧doutrina.org |  |
 | :--- | --- | ---: |
 Coluna 1<br>livros<br>sumário<br>detalhes  | Coluna 2<br>conteúdo<br>principal<br>links | Coluna 3<br>enciclopédia<br>dicionário<br>mapas |
 
