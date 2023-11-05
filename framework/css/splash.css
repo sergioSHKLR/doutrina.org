@@ -52,10 +52,11 @@
 }
 
 img#israel {
-  position: fixed;
-  bottom: 0px;
-  left: 0px;
+  position: absolute;
+  bottom: -10px;
+  left: -50px;
   z-index: 99;
-  width: 100px;
-  height: 100px;
+  width: 141px;
+  transform: rotate(45deg);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
