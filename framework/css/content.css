@@ -236,3 +236,9 @@ em {
 .dark-mode em {
     color: #FF9494;
 }
+
+p.cursive {
+    font-family: 'Zeyada' !important;
+    font-size: 60px;
+    margin-top: -20px;
+}
