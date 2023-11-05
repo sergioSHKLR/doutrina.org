@@ -1,6 +1,6 @@
 ---
 title: ✒️ O Livro dos Médiuns
-layout: layout-2ldm
+layout: template-2ldm
 ---
 
 <!-- #region HEAD -->

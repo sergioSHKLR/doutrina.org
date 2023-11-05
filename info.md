@@ -1,6 +1,6 @@
 ---
 title: ⚖️ Informações
-layout: doutrina-generic
+layout: template-generic
 ---
 
 # 📋 Informações

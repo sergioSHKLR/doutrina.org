@@ -1,6 +1,6 @@
 ---
 title: 🌱 A Gênese
-layout: default
+layout: template-5gen
 ---
 
 <!-- #region HEAD -->

@@ -1,6 +1,6 @@
 ---
 title: 🕊️ O Evangelho segundo o Espiritismo
-layout: default
+layout: template-3ese
 ---
 
 <!-- #region HEAD -->

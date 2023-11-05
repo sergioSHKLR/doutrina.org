@@ -4,8 +4,7 @@
     font-weight: 300;
     line-height: 1.7;
     box-sizing: border-box;
-    border-left: 30px inset transparent;
-    padding-right: 30px;
+    padding: 0 30px;
 }
 
 #col2-body>p>img {

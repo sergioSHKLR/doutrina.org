@@ -1,6 +1,6 @@
 ---
 title: 📃 Nota explicativa
-layout: doutrina-generic
+layout: template-generic
 ---
 
 # 📃 Nota explicativa

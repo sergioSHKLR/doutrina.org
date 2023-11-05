@@ -1,5 +1,5 @@
 ---
-layout: doutrina-1lde
+layout: template-1lde
 ---
 
 > 👻 ▸ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim diam vulputate ut pharetra sit amet aliquam id. Aliquam id diam maecenas ultricies mi. *Pharetra convallis posuere morbi leo urna molestie at elementum eu. Nibh cras pulvinar* mattis nunc sed. Ut pharetra sit amet aliquam id diam maecenas ultricies. Laoreet sit amet cursus sit. Odio euismod lacinia at quis risus sed vulputate. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Mi tempus imperdiet nulla malesuada pellentesque. Suspendisse sed nisi lacus sed viverra tellus in. Etiam non quam lacus suspendisse faucibus interdum posuere. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet.

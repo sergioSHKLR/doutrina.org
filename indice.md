@@ -1,6 +1,6 @@
 ---
 title: 🏷️ Índice geral
-layout: doutrina-generic
+layout: template-generic
 ---
 
 # 🏷️ Índice geral
