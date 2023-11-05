@@ -220,14 +220,12 @@ blockquote.grey>p>a {
 /*------ LINKS -----*/
 
 a {
-    color: #0057AD;
     text-decoration: none !important;
 }
 
 #col2-body a:hover {
     text-underline-offset: 3px !important;
     text-decoration: underline !important;
-    text-decoration-color: #0057AD;
 }
 
 /*------ EM ------*/
