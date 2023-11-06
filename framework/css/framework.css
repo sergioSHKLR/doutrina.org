@@ -3,14 +3,14 @@
     --head-height: 50px;
     --white: #fff;
     --black: #000;
-    --grey: #666;
+    --grey: #cccccc85;
 }
 
 * {
     /*
     background-color: var(--white);
     color: var(--black); */
-    border-color: var(--grey);
+    border-color: var(--grey) !important;
     box-sizing: border-box;
     border-collapse: collapse;
 }
