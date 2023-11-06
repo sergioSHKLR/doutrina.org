@@ -3,7 +3,7 @@
     --head-height: 50px;
     --white: #fff;
     --black: #000;
-    --grey: #ccc;
+    --grey: #666;
 }
 
 * {
@@ -538,29 +538,3 @@ img#israel {
     transform: rotate(45deg);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-#progress {
-    position: fixed;
-    bottom: 20px;
-    left: 10px;
-    height: 70px;
-    width: 70px;
-    display: none;
-    place-items: center;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-    z-index: 10;
-  }
-  #progress-value {
-    display: block;
-    height: calc(100% - 15px);
-    width: calc(100% - 15px);
-    background-color: #ffffff;
-    border-radius: 50%;
-    display: grid;
-    place-items: center;
-    font-size: 35px;
-    color: #001a2e;
-  }
-  
