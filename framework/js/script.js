@@ -177,3 +177,11 @@ let calcScrollValue = () => {
 };
 window.onscroll = calcScrollValue;
 window.onload = calcScrollValue;
+
+// open col2-body links in ext frame
+window.onload = function(){
+    var anchors = document.getElementById('col2-body').getElementsByTagName('a');
+    for (var i=0; i<anchors.length; i++){
+      anchors[i].setAttribute('target', 'ext');
+    }
+  }
