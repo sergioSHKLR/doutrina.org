@@ -44,13 +44,7 @@ Nossas fases de desenvolvimento são:
 *   extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM, ESE e CEU prontos. GEN em desenvolvimento ativo.
 *   inclusão, sequencial (LDE, LDM, ESE, CEU e GEN) de links internos e externos (artigos, definições, mapas, vídeos, etc)
 
-Para tal fim, use o menu ao lado ou os links abaixo.
-
-*   👻  [O Livro dos Espíritos](./1lde.html )
-*   ✒️  [O Livro dos Médiuns](./2ldm.html )
-*   🕊️  [O Evangelho segundo o Espiritismo](./3ese.html )
-*   🔥  [O Céu e o Inferno](./4ceu.html )
-*   🌱  [A Gênese](./5gen.html )
+Para tal fim, use os links no menu ao lado.
 
 Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
 
