@@ -34,7 +34,7 @@ layout: template-1lde
 
 |  |
 |:---:|
-| Filosofia Espiritualista |
+| [Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia){:target="ext"} Espiritualista |
 |  |
 | 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos){:target="ext"} |
 |  |
