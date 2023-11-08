@@ -445,7 +445,7 @@ span.material-symbols-outlined {
     font-family: 'Material Symbols Outlined';
     position: relative;
     top: -5px;
-    font-weight: 200 !important ;
+    font-weight: 200 !important;
 }
 
 /* ----- DETAILS SUMMARY  ----- */
@@ -539,4 +539,37 @@ img#israel {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-#col2-body {padding-bottom: 150px;}
+#col2-body {
+    padding-bottom: 150px;
+}
+
+table {
+    width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+    font-family: inherit;
+    background-color: rgba(238, 238, 238, .25);
+}
+
+tr,
+td {
+    width: 33%;
+    text-align: center;
+    padding: 10px;
+    font-family: inherit;
+    background-color: rgba(238, 238, 238, .25);
+}
+
+th {
+    padding: 10px;
+    white-space: nowrap;
+    font-family: inherit;
+    background-color: rgba(238, 238, 238, .25);
+}
+
+ul,
+li {
+    line-height: 1.7;
+}
+
+img, figcaption {background-color: rgba(238, 238, 238, .25);}

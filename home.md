@@ -3,24 +3,6 @@ title: 🏠 Início
 layout: template-generic
 ---
 
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zeyada&display=swap" rel="stylesheet">
-<style>
-/*
-#col1 {background-color: #E6E6E6;}
-#col2-body {background-color: #F2F2F2;}
-*/
-table {width: 100%; border: 1px solid gainsboro; border-collapse: collapse;}
-tr, td {width: 33%; text-align: center; border: 1px solid gainsboro; padding: 10px;}
-th {padding: 10px; background-color: #eee; white-space: nowrap;}
-#maps-button {display: none;}
-ul, li {line-height: 1.7;}
-#col1-bottom > p:nth-child(7) {display: none;}
-</style>
-</head>
-
 # 🏠 Bem-vindo!
 
 **Pré-release Alpha 11.23. Em desenvolvimento diário. Última atualização em 05 Nov 2023.**

@@ -56,7 +56,6 @@ h6 {
 
 blockquote {
     padding: 1px 20px;
-    border: none;
     margin-inline-start: 10px;
     margin-inline-end: 10px;
 }
@@ -119,7 +118,7 @@ strong {
 
 blockquote {
     border-left: 4px solid;
-    border-color: dodgerblue;
+    border-color: dodgerblue !important;
     background-color: aliceblue;
 }
 
@@ -144,7 +143,7 @@ p#author {
 
 blockquote.spirit,
 blockquote.spirit-multi {
-    border-left: 4px solid dodgerblue;
+    border-left: 4px solid dodgerblue !important;
     background-color: #F4FAFF;
 }
 
@@ -179,7 +178,7 @@ blockquote.spirit-multi>p:nth-child(2) {
 
 blockquote.bible,
 blockquote.bible-multi {
-    border-left: 4px solid orchid;
+    border-left: 4px solid orchid !important;
     background-color: #FCF4FC !important;
 }
 
