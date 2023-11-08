@@ -156,32 +156,17 @@ function menuOff() {
     document.getElementById("col2-menu-on").style.display = 'inline-block';
 }
 
-// SCROLL INDICATOR
-let calcScrollValue = () => {
-    let scrollProgress = document.getElementById("progress");
-    let progressValue = document.getElementById("progress-value");
-    let pos = document.documentElement.scrollTop;
-    let calcHeight =
-        document.documentElement.scrollHeight -
-        document.documentElement.clientHeight;
-    let scrollValue = Math.round((pos * 100) / calcHeight);
-    if (pos > 100) {
-        scrollProgress.style.display = "grid";
-    } else {
-        scrollProgress.style.display = "none";
-    }
-    scrollProgress.addEventListener("click", () => {
-        document.documentElement.scrollTop = 0;
-    });
-    scrollProgress.style.background = `conic-gradient(#03cc65 ${scrollValue}%, #d7d7d7 ${scrollValue}%)`;
-};
-window.onscroll = calcScrollValue;
-window.onload = calcScrollValue;
-
 // open col2-body links in ext frame
-window.onload = function(){
-    var anchors = document.getElementById('col2-body').getElementsByTagName('a');
-    for (var i=0; i<anchors.length; i++){
-      anchors[i].setAttribute('target', 'ext');
-    }
-  }
+(function () {
+    const links = document.querySelectorAll("a[href^='https://'], a[href^='http://']")
+    const host = window.location.hostname
+  
+    const isInternalLink = link => new URL(link).hostname === host
+  
+    links.forEach(link => {
+      if (isInternalLink(link)) return
+  
+      link.setAttribute("target", "ext")
+      link.setAttribute("rel", "noopener")
+    })
+  })()
