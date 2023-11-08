@@ -5,7 +5,7 @@ layout: template-generic
 
 # 🏠 Bem-vindo!
 
-**Pré-release Alpha 11.23. Em desenvolvimento diário. Última atualização em 05 Nov 2023.**
+**Pré-release Alpha 11.23. Em desenvolvimento diário. Última atualização em 07 Nov 2023.**
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita em três colunas, dispostas assim:
 
