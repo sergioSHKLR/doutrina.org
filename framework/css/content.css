@@ -223,7 +223,12 @@ a:any-link {
     color: #3366cc;
 }
 
-#col1-head a:any-link, #col1-body a:any-link, #col3-head a:any-link {color: currentColor}
+#col1-head a:any-link,
+#col2-head a:any-link,
+#col1-body a:any-link,
+#col3-head a:any-link {
+    color: currentColor
+}
 
 #col2-body a:hover {
     text-underline-offset: 3px !important;
@@ -231,8 +236,12 @@ a:any-link {
 }
 
 /*------ EM ------*/
-em {
+blockquote em {
     color: crimson;
+}
+
+em {
+    font-style: italic;
 }
 
 .dark-mode em {
