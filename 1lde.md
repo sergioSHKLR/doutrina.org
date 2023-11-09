@@ -39,9 +39,9 @@ layout: template-1lde
 |  |
 | 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos) |
 |  |
-| Princípios da Doutrina Espírita |
+| Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Doutrina) Espírita |
 |  |
-| Sobre a imortalidade da alma, a natureza dos 👻 Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns. |
+| Sobre a imortalidade da alma, a natureza dos 👻 Espíritos e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade). |
 |  |
 | por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) |
 |  |
@@ -59,15 +59,15 @@ layout: template-1lde
 
 <figcaption>Interpretação artística do desenho original (mediúnico).</figcaption>
 
-[[](https://pt.m.wiktionary.org/wiki/fenómeno)](https://pt.m.wiktionary.org/wiki/fenómeno) alheios às leis da [ciência](https://pt.m.wikipedia.org/wiki/Ciência) humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência).
+[Fenômenos](https://pt.m.wiktionary.org/wiki/fenómeno) alheios às leis da [ciência](https://pt.m.wikipedia.org/wiki/Ciência) humana se dão por toda parte, revelando na causa que os produz a ação de uma [vontade](https://pt.m.wikipedia.org/wiki/Vontade) livre e [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência).
 
 A [razão](https://pt.m.wikipedia.org/wiki/Razão) diz que um efeito inteligente há de ter como causa uma força inteligente, e os fatos hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
 
-Interrogada acerca da sua natureza, essa força declarou pertencer ao mundo dos seres espirituais que se despojaram do [invólucro](https://pt.m.wiktionary.org/wiki/invólucro) corporal do homem. Assim é que foi revelada a [Doutrina](https://pt.m.wiktionary.org/wiki/doutrina) dos Espíritos.
+Interrogada acerca da sua natureza, essa força declarou pertencer ao mundo dos seres espirituais que se despojaram do [invólucro](https://pt.m.wiktionary.org/wiki/invólucro) corporal do [homem](https://pt.m.wikipedia.org/wiki/Humano). Assim é que foi revelada a [Doutrina](https://pt.m.wiktionary.org/wiki/doutrina) dos Espíritos.
 
-As comunicações entre o mundo espírita e o mundo corpóreo estão na ordem natural das coisas e não constituem fato [sobrenatural](https://pt.m.wiktionary.org/wiki/sobrenatural), tanto que de tais comunicações se acham vestígios entre todos os povos e em todas as épocas. Hoje se generalizaram e tornaram patentes a todos.
+As comunicações entre o mundo espírita e o mundo corpóreo estão na ordem natural das coisas e não constituem fato [sobrenatural](https://pt.m.wiktionary.org/wiki/sobrenatural), tanto que de tais comunicações se acham [vestígios](https://pt.m.wiktionary.org/wiki/vestígio) entre todos os povos e em todas as épocas. Hoje se generalizaram e tornaram patentes a todos.
 
-Os Espíritos anunciam que chegaram os tempos marcados pela Providência para uma manifestação universal e que, sendo eles os ministros de [Deus][0] e os agentes de sua vontade, têm por missão instruir e esclarecer os homens, abrindo uma nova era para a [regeneração](https://pt.m.wiktionary.org/wiki/regenerar) da Humanidade.
+Os Espíritos anunciam que chegaram os tempos marcados pela [Providência](https://pt.m.wikipedia.org/wiki/Divina_Providência) para uma manifestação universal e que, sendo eles os ministros de [Deus][0] e os agentes de sua vontade, têm por missão instruir e esclarecer os homens, abrindo uma nova era para a [regeneração](https://pt.m.wiktionary.org/wiki/regenerar) da Humanidade.
 
 Este livro é o [repositório](https://pt.m.wiktionary.org/wiki/repositório) de seus ensinos. Foi escrito por ordem e mediante ditado de Espíritos superiores, para estabelecer os fundamentos de uma filosofia racional, isenta dos preconceitos do espírito de sistema. Nada contém que não seja a expressão do pensamento deles e que não tenha sido por eles examinado. Só a ordem e a distribuição [metódica](https://pt.m.wiktionary.org/wiki/método) das matérias, assim como as notas e a forma de algumas partes da redação, constituem obra daquele que recebeu a missão de os publicar.
 

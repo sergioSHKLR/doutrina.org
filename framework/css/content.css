@@ -218,9 +218,12 @@ blockquote.grey>p>a {
 
 /*------ LINKS -----*/
 
-a {
+a:any-link {
     text-decoration: none !important;
+    color: #3366cc;
 }
+
+#col1-head a:any-link, #col1-body a:any-link, #col3-head a:any-link {color: currentColor}
 
 #col2-body a:hover {
     text-underline-offset: 3px !important;
