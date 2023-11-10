@@ -514,11 +514,11 @@ details>p>a {
 
 /* ----- SHADES  ----- */
 .shades-on {
-    filter: blur(6px) grayscale(1) brightness(.96) !important;
+    filter: blur(6px) grayscale(1) brightness(.97) !important;
 }
 
 .shades-off {
-    filter: blur(0px) grayscale(0) brightness(.96);
+    filter: blur(0px) grayscale(0) brightness(.97);
 }
 
 img#israel {
@@ -570,9 +570,9 @@ figcaption {
 }
 
 iframe {
-    filter: brightness(.96) !important;
+    filter: brightness(.97) !important;
 }
 
 #col3-body {
-    filter: brightness(.96);
+    filter: brightness(.97);
 }
