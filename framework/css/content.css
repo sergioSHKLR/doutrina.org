@@ -112,6 +112,7 @@ h6 {
 
 strong {
     font-weight: 400;
+    background-color: transparent !important;
 }
 
 /*----- SPIRIT -----*/
@@ -242,6 +243,8 @@ blockquote em {
 
 em {
     font-style: italic;
+    background-color: transparent;
+    color: currentColor;
 }
 
 .dark-mode em {
