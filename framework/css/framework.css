@@ -481,10 +481,17 @@ details>p>a {
     background-color: #222;
 }
 
-.dark-mode a {background-color: transparent;}
+.dark-mode a {
+    background-color: transparent;
+}
 
-.dark-mode table, .dark-mode th, .dark-mode tr, .dark-mode td, .dark-mode img, .dark-mode figcaption {
-    background-color:  rgba(250, 250, 250, .1) !important
+.dark-mode table,
+.dark-mode th,
+.dark-mode tr,
+.dark-mode td,
+.dark-mode img,
+.dark-mode figcaption {
+    background-color: rgba(250, 250, 250, .1) !important
 }
 
 .dark-mode #col2-body a {
@@ -507,20 +514,11 @@ details>p>a {
 
 /* ----- SHADES  ----- */
 .shades-on {
-    filter: blur(6px) grayscale(1)
+    filter: blur(6px) grayscale(1) brightness(.96) !important;
 }
 
 .shades-off {
-    filter: grayscale(0)
-}
-
-/* ----- BACKGROUND  ----- */
-.bg-light {
-    background-color: var(--white) !important
-}
-
-.bg-dark {
-    background-color: var(--black) !important
+    filter: blur(0px) grayscale(0) brightness(.96);
 }
 
 img#israel {
@@ -566,6 +564,15 @@ li {
     line-height: 1.7;
 }
 
-img, figcaption {background-color: rgba(238, 238, 238, .25);}
+img,
+figcaption {
+    background-color: rgba(238, 238, 238, .25);
+}
 
-iframe {filter: brightness(.98);}
+iframe {
+    filter: brightness(.96) !important;
+}
+
+#col3-body {
+    filter: brightness(.96);
+}

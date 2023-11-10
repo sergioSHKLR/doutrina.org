@@ -133,17 +133,6 @@ function shadesOff() {
 
 //--------------------------------------------------------------
 
-/*
-function toggleMenu() {
-    var x = document.getElementById("col1-body");
-    if (x.style.display === "block") {
-      x.style.display = "none";
-    } else {
-      x.style.display = "block";
-    }
-  }
-  */
-
 function menuOn() {
     document.getElementById("col1-body").style.display = 'inline-block';
     document.getElementById("col2-menu-on").style.display = 'none';
