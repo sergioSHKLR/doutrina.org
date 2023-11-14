@@ -44,5 +44,7 @@ Por fim, necessitamos de programadores front-end e full-stack. Caso queira contr
 
 Deus sempre abençoa!
 
+![bitmoji](./framework/baldy.png){:style="all: unset; width: 100px; transform: scaleX(-1)"}
+
 Sergio
 {:.cursive}
