@@ -64,7 +64,6 @@ blockquote>p>img {
     vertical-align: middle;
 }
 
-
 /*
 blockquote.spirit-multi>p:nth-child(1)::before {
     content: "👻 ▸ ";
@@ -87,7 +86,6 @@ blockquote.bible-multi>p:nth-child(1)::before {
 }
 
 /* BIBLE */
-
 
 table {
     border: 1px solid #ccc;
