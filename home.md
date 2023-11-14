@@ -33,15 +33,6 @@ Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https
 
 Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações para realçar as mensagens de origem mediúnica (👻), e bíblicas (✝️), diferenciando-as de Kardec (👴🏻).
 
-Nossas fases de desenvolvimento são:
-
-*   extração (manual, copy & paste) do texto original em PDF para a formato MD. Status: LDE, LDM, ESE e CEU prontos. GEN em desenvolvimento ativo.
-*   inclusão, sequencial (LDE, LDM, ESE, CEU e GEN) de links internos e externos (artigos, definições, mapas, vídeos, etc)
-
-Para tal fim, use os links no menu ao lado.
-
-Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
-
 Deus sempre abençoa!
 
 ![bitmoji](./framework/baldy.png){:style="all: unset; width: 100px; transform: scaleX(-1)"}

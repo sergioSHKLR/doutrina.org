@@ -288,7 +288,9 @@ body {
     font-family: 'Material Symbols Outlined';
 }
 
-.ff-mono {font-family: 'Roboto Mono';}
+.ff-mono {
+    font-family: 'Roboto Mono';
+}
 
 /* ----- POSITION  ----- */
 .pos-fixed {
@@ -473,13 +475,14 @@ details>p>a {
     color: #eee;
 }
 
-.dark-mode * {
+.dark-mode #col1-body,
+.dark-mode #col2-body,
+.dark-mode #col3-body,
+.dark-mode #col1-head,
+.dark-mode #col2-head,
+.dark-mode #col3-head  {
     background-color: #222;
     color: #eee;
-}
-
-.dark-mode col1-body {
-    background-color: #222;
 }
 
 .dark-mode a {
@@ -519,7 +522,7 @@ details>p>a {
 }
 
 .shades-off {
-    filter: blur(0px) grayscale(0) brightness(.97);
+    filter: blur(0px) grayscale(0) brightness(.99);
 }
 
 img#israel {
@@ -571,9 +574,9 @@ figcaption {
 }
 
 iframe {
-    filter: brightness(.97) !important;
+    filter: brightness(.99) !important;
 }
 
 #col3-body {
-    filter: brightness(.97);
+    filter: brightness(.99);
 }
