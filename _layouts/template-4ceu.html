@@ -46,7 +46,7 @@
     <!-- HYPOTHES.IS -->
     <script type="application/json" class="js-hypothesis-config">
       {
-        "openSidebar": false,
+        "openSidebar": true,
         "showHighlights": true
       }
     </script>
@@ -177,12 +177,6 @@
 
     <div id="col3-head" class="w-auto pos-fixed top-0 right-23 h-50 mh-40 pt-10 border-0 underline-0">
 
-        <button id="col3-sh-on-btn" onclick="shadesOn()" title="desativar cortina anti-distração"><span
-                class=" material-symbols-outlined">visibility</span></button>
-
-        <button id="col3-sh-off-btn" hidden onclick="shadesOff()" title="ativar cortina anti-distração"><span
-                class="material-symbols-outlined">visibility_off</span></button>
-
         <a target="ext" class="outline-0" href="https://pt.m.wikipedia.org" title="enciclopédia">
             <button id="col3-link1"><span class="material-symbols-outlined">language</span>
             </button></a>
@@ -206,6 +200,12 @@
 
         <button id="col3-lm-btn" class="fr hide" onclick="inactiveDark3()" title="modo claro"><span
                 class="material-symbols-outlined">light_mode</span></button>
+                
+        <button class="fr" id="col3-sh-on-btn" onclick="shadesOn()" title="desativar cortina anti-distração"><span
+                    class=" material-symbols-outlined">visibility</span></button>
+    
+        <button class="fr" id="col3-sh-off-btn" hidden onclick="shadesOff()" title="ativar cortina anti-distração"><span
+                    class="material-symbols-outlined">visibility_off</span></button>
 
     </div>
     <div id="col3-body" class="w-auto pos-fixed right-0 top-50 right-23 h-body border-left border-top fc-cc">

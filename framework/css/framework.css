@@ -335,7 +335,6 @@ body {
 
 /* ----- FLOAT  ----- */
 .fr {
-    display: block;
     float: right;
 }
 
