@@ -515,7 +515,7 @@ details>p>a {
 
 /* ----- SHADES  ----- */
 .shades-on {
-    filter: blur(6px) grayscale(1) brightness(.97) !important;
+    filter: blur(0px) grayscale(1) brightness(.1) !important;
 }
 
 .shades-off {
