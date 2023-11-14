@@ -288,6 +288,8 @@ body {
     font-family: 'Material Symbols Outlined';
 }
 
+.ff-mono {font-family: 'Roboto Mono';}
+
 /* ----- POSITION  ----- */
 .pos-fixed {
     position: fixed;
