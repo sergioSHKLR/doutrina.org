@@ -147,7 +147,7 @@ function menuOff() {
 
 // open col2-body links in ext frame
 (function () {
-    const links = document.querySelectorAll("a[href^='https://pt.m'], a[href^='http://pt.m']")
+    const links = document.querySelectorAll("a[href^='https://pt.m'], a[href^='http://pt.m'], a[href^='https://www.bible'], a[href^='https://www.bible']")
     const host = window.location.hostname
   
     const isInternalLink = link => new URL(link).hostname === host
