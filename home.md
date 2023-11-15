@@ -21,12 +21,12 @@ layout: template-generic
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar uma alternativa que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita em três colunas, dispostas assim:
 
-| 🔴🟡🟢 | 💧doutrina.org |  |
-| :--- | --- | ---: |
-**Coluna 1**<br>livros<br>sumário<br>detalhes  | **Coluna 2**<br>conteúdo<br>principal<br>links | **Coluna 3**<br>enciclopédia<br>dicionário<br>atlas |  
+| 💧doutrina.org  |  |  |
+| :---: | :---: | :---: |
+<br><br><br>**Coluna 1**<br><br><br><br>  | **Coluna 2** | **Coluna 3** |  
 
 
-<details><summary>Detalhes</summary><small>
+<details><summary>obs.:</summary><small>
 <ol>
 <li>Coluna 1, contendo links dos livros, o sumário do mesmo, e detalhes do projeto (visível em telas grandes)</li>
 <li>Coluna 2, dispondo da obra original em uma página única (visível em telas grandes, médias e pequenas)</li>
