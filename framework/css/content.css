@@ -254,3 +254,5 @@ p.cursive {
     font-size: 60px;
     margin-top: -20px;
 }
+
+kbd {padding: 3px; border-radius: 3px; border: 1px solid gainsboro; background-color: whitesmoke;}

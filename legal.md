@@ -14,11 +14,19 @@ layout: template-generic
 *[MD]: Markdown file
 *[HTML]: Hyper Text Markup Language
 
+## Monetário
+
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
+
+## Direitos
 
 - Não exercemos direitos sobre as obras originais (LDE, LDM, ESE, CEU, GEN, traduções da Bíblia, vídeos bíblicos, etc), suas traduções, ou derivativos que pertencem aos seus respectivos proprietários e/ou herdeiros.
 
+## Endossos
+
 - O nome e/ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços e/ou produtos.
+
+## Uso permitido
 
 - Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998. Reproduzimos abaixo alguns trechos pertinentes.
 
@@ -30,4 +38,6 @@ layout: template-generic
 
         - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
-- Nossos arquivos MD e seus respectivos variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível, clique no link 📦 Repo do menu da esquerda.
+## Licensa
+
+- Nossos arquivos MD e seus respectivos variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível, clique no link `📦 Repo` do menu da esquerda.
