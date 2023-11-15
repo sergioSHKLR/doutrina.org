@@ -111,31 +111,3 @@ Decidimos utilizar um tipo *sans-serif*, mais apropriada para o consumo digital 
 Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
 
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
-
-### Formatação de texto (arquivo MD)
-
-Exemplificado abaixo estão exemplos da formatação que escolhemos.
-
-#### Questões (arquivo MD)
-
----
-
-`LDE.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
-
->Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.
-
-Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
-
----
-
-#### Trechos bíblicos (arquivo MD)
-
----
-
-E disse Jesus:
-
->A cada um, de acordo com suas obras.
->
->✝️ Romanos, cap. 2, vers. 6
-
----

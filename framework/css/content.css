@@ -255,4 +255,23 @@ p.cursive {
     margin-top: -20px;
 }
 
-kbd {padding: 3px; border-radius: 3px; border: 1px solid gainsboro; background-color: whitesmoke;}
+kbd {
+    padding: 3px;
+    border-radius: 3px;
+    border: 1px solid gainsboro;
+    background-color: whitesmoke;
+}
+
+.dark-mode kbd {
+    padding: 3px;
+    border-radius: 3px;
+    border: 1px solid gainsboro;
+    background-color: whitesmoke;
+    color: #000 !important
+}
+
+pre {
+    background-color: whitesmoke;
+    padding: 10px;
+    border: 1px solid gainsboro;
+}
