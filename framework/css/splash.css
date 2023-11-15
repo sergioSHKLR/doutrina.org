@@ -20,17 +20,15 @@
   padding: 12px 18px;
   border-radius: 5px;
   text-decoration: none;
-  color: #333;
   display: block;
   width: 100px;
-  background-color: #ddd
-}
-
-a:any-link {text-decoration: none; color: currentColor}
-
-.center-button:hover {
   background-color: #4ec1f5;
   color: #fff;
+}
+
+a:any-link {
+  text-decoration: none;
+  color: currentColor
 }
 
 @media (orientation:landscape) {
