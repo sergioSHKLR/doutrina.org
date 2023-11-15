@@ -26,7 +26,7 @@ Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https
 <br><br><br>**Coluna 1**<br><br><br><br>  | **Coluna 2** | **Coluna 3** |  
 
 
-<details><summary>obs.:</summary><small>
+<details><summary>detalhes</summary><small>
 <ol>
 <li>Coluna 1, contendo links dos livros, o sumário do mesmo, e detalhes do projeto (visível em telas grandes)</li>
 <li>Coluna 2, dispondo da obra original em uma página única (visível em telas grandes, médias e pequenas)</li>
