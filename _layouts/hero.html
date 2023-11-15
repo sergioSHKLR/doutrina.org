@@ -66,6 +66,24 @@
       right: 0;
       color: transparent;
     }
+
+    .center-button {
+      animation: fade-me-in 5s;
+    }
+
+    @keyframes fade-me-in {
+      0% {
+        opacity: 0;
+      }
+
+      80% {
+        opacity: 0;
+      }
+
+      100% {
+        opacity: 1;
+      }
+    }
   </style>
 
 </head>
@@ -78,9 +96,10 @@
 
   {{ content }}
 
+  <button class="center-button"><a href="#">entrar</a></button>
+
   <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel-2.svg"
       alt="Stand With Us" title="Stand With Us"></a>
 
 </body>
-
 </html>
