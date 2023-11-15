@@ -4,15 +4,12 @@ layout: template-2ldm
 ---
 
 <!-- #region HEAD -->
-<head>
-<meta name="theme-color" content="purple">
 <style>
 table {outline: 1px solid gainsboro; border-collapse: collapse; margin: 10px; }
 td {padding: 0 30px;}
 #col3-link3 {display: none;}
 h2,h3,h4,h5,h6 {font-size: 20px;}
 </style>
-</head>
 <!-- #endregion -->
 
 *[LDE]: O Livro dos Espíritos
