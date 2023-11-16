@@ -17,7 +17,7 @@ layout: template-generic
 
 Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos criar uma seção anterior à `LDE-1` 🗂️ Parte 1 como `LDE-0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Similarmente, criamos uma seção posterior à `LDE-5` 🗂️ Parte 5, e por dar-lhes o nome de `LDE-6` 🗂️ Parte 6 e o título de Pós-textual.
+Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal de Pré-textual. Similarmente, nomeamos as seções posteriores ao conteúdo principal de Pós-textual. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
 
 ## Padrões
 
@@ -26,19 +26,19 @@ Analisando a divisão do livro em partes, decidimos criar uma seção anterior �
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
 | **Emoji** | **Sigla** | **Livro** |
-|---|---|---|
-| 👻 | `LDE` | O Livro dos Espíritos |
-| ✒️ | `LDM` | O Livro dos Médiuns |
-| 🕊️ | `ESE` | O Evangelho segundo o Espiritismo |
-| 🔥 | `CEU` | O Céu e o Inferno |
-| 🌱 | `GEN` | A Gênese |
+| :--- | :--- | :--- |
+| 👻 (fantasma) | `LDE` | O Livro dos Espíritos |
+| ✒️ (caneta tinteiro) | `LDM` | O Livro dos Médiuns |
+| 🕊️ (pomba branca) | `ESE` | O Evangelho segundo o Espiritismo |
+| 🔥 (fogo) | `CEU` | O Céu e o Inferno |
+| 🌱 (muda de planta) | `GEN` | A Gênese |
 
 ### Hierarquia
 
 Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
 
 <pre>
-📔 livro
+❓ livro (podendo ser 👻, ✒️, 🕊️, 🔥 ou 🌱)
  |
  └── 🗂️ parte
       |
@@ -49,12 +49,12 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
                 └── #️⃣ questão
 </pre>
 
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.
 
 ### Código chave
 
 <pre>
-LDE-X-XX-XX
+LIV-X-XX-XX
  |  |  |  |
  |  |  |  └── 📃 seção
  |  |  | 
@@ -68,35 +68,52 @@ LDE-X-XX-XX
 E em especial no LDE, o código para questões é modificado da sequência lógica de `LDE-X-XX-XX-XXXX` para:
 
 <pre>
-LDE-qXXXXa
+LIV-qXXXXa
  |   |   |
  |   |   └── sub-questão
  |   |
  |   └── #️⃣ questão
  |
- └── 📔 livro
+ └── ❓ livro (podendo ser 👻, ✒️, 🕊️, 🔥 ou 🌱)
 </pre>
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra `p`, de um a quatro dígitos, para identificar parágrafos numericamente.
 
 Em suma, temos esta tabela descritiva abaixo:
 
-| **Emoji** | **Descrição** | **Conteúdo** | **Código chave** |
-|---|---|---|---|
-| 📔 | livro | obra completa | `LDE` |
-| 🗂️ | parte | subdivisão da obra | `LDE-X` |
-| 📑 | capítulo | subdivisão de partes | `LDE-X-XX` |
-| 📃 | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
-| #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
+| **Emoji** | **Descrição** | **Código chave** |
+| :--- | :--- | :--- | :--- |
+| 📔 | livro | `LIV` |
+| 🗂️ | parte | `LIV-X` |
+| 📑 | capítulo | `LIV-X-XX` |
+| 📃 | seção | `LIV-X-XX-XX` |
+| #️⃣ | questão | `LIV.(q)(p)X` |
 
-/* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
+Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
 
 **Adicionais**
 
 | **Emoji** | **Descrição** | **Conteúdo** |
-|---|---|---|
-| ✝️ | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
+| :--- | :--- | :--- |
 | 👉 | segmento relacionado | indicação para leitura complementar |
+
+Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
+
+De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica
+
+> 👻 ▸ Mensagem
+>
+> Espírito
+{:.spirit}
+
+e este outro formato para mensagesn bíblicas
+
+> ✝️ ▸ Mensagem
+>
+> Livro, cap. X, vers. Y, ARC
+{:.bible}
+
+Nas passagens acima, trechos atribuídos à Jesus serão indicados pelas letras avermelhadas.
 
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
@@ -106,9 +123,7 @@ Em suma, temos esta tabela descritiva abaixo:
 
 ## Padrões estabelecidos
 
-Decidimos utilizar um tipo *sans-serif*, mais apropriada para o consumo digital e formatar todo o texto em estilo normal com a seguinte exceção: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
-
-Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
+Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
 
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
@@ -127,23 +142,6 @@ Adicionalmente, numerais romanos foram substituídos por seus equivalentes aráb
 </details>
   
 Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
-
-De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica
-
-> 👻 ▸ Mensagem
->
-> Espírito
-{:.spirit}
-
-e este outro formato para mensagesn bíblicas
-
-> ✝️ ▸ Mensagem
->
-> Livro, cap. X, vers. Y, ARC
-{:.bible}
-
-Nas passagens acima, trechos atribuídos à Jesus serão indicados pelas letras avermelhadas.
-
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

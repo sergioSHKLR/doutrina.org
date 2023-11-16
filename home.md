@@ -32,7 +32,7 @@ Para tal fim desenvolvemos uma interface inédita em três colunas, dispostas as
 
 Lembre-se que nossas atualizações são diárias. Se a parte que você queira utilizar não está pronta ainda, aguarde um pouco que chegaremos lá. Ressalvo somente que nosso progresso é sequencial, indo do começo de um livro, até o fim do mesmo, indo em seguida para o próximo livro da sequência.
 
-Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. Caso tenha alguma dúvida, entre em contato utilizando do ![crisp-chat](./framework/crisp-logo.svg){:style="all: unset; height: 20px; vertical-align: text-bottom;"} Chat (canto inferior direito).
+Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). ![crisp-chat](./framework/crisp-logo.svg){:style="all: unset; height: 30px; vertical-align: text-bottom;"}
 
 Deus sempre abençoa!
 
