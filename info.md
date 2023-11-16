@@ -112,6 +112,39 @@ Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnic
 
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
+| 💧doutrina.org  |  |  |
+| :---: | :---: | :---: |
+<br>**Coluna 1**<br><br>menu<br><br>  | <br>**Coluna 2**<br><br>principal<br><br> | <br>**Coluna 3**<br><br>complementar<br><br> |  
+
+<details><summary>detalhes</summary><small>
+<ol>
+<li>Coluna 1, contendo links dos livros, o sumário do mesmo, e detalhes do projeto (visível em telas grandes)</li>
+<li>Coluna 2, dispondo da obra original em uma página única (visível em telas grandes, médias e pequenas)</li>
+<li>Coluna 3, possibilitando a consulta de enciclopédia, dicionário, atlas (somente ESE) e vídeo reunião (visível em telas grandes e médias)</li>
+<li>Adicionalmente, existe um quarto painel, escamoteavel, que possibilita grifos em amarelo e anotações (interface em Inglês, requere uma conta)</li></ol>
+<hr></small>
+
+</details>
+  
+Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
+
+De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica
+
+> 👻 ▸ Mensagem
+>
+> Espírito
+{:.spirit}
+
+e este outro formato para mensagesn bíblicas
+
+> ✝️ ▸ Mensagem
+>
+> Livro, cap. X, vers. Y, ARC
+{:.bible}
+
+Nas passagens acima, trechos atribuídos à Jesus serão indicados pelas letras avermelhadas.
+
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

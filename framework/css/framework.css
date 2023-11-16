@@ -480,7 +480,7 @@ details>p>a {
 .dark-mode #col3-body,
 .dark-mode #col1-head,
 .dark-mode #col2-head,
-.dark-mode #col3-head  {
+.dark-mode #col3-head {
     background-color: #222;
     color: #eee;
 }
@@ -577,4 +577,6 @@ iframe {
     filter: brightness(.99);
 }
 
-kbd {white-space: nowrap}
+kbd {
+    white-space: nowrap
+}

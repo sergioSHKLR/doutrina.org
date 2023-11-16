@@ -13,6 +13,7 @@ layout: template-generic
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 *[PDF]: Portable Document Format
+*[ARC]: Almeida Revista e Corrigida
 *[MD]: Markdown file
 
 # 🏠 Bem-vindo!
@@ -21,7 +22,7 @@ layout: template-generic
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar esta alternativa.
 
-Aqui permitimos ao estudante a consulta direta de fontes complementares sem que seu foco se perca ao navegar em janelas externas. 
+Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca se fosse forçado a navegar em janelas externas. 
 
 Para tal fim desenvolvemos uma interface inédita em três colunas, dispostas assim:
 
@@ -29,36 +30,9 @@ Para tal fim desenvolvemos uma interface inédita em três colunas, dispostas as
 | :---: | :---: | :---: |
 <br>**Coluna 1**<br><br>menu<br><br>  | <br>**Coluna 2**<br><br>principal<br><br> | <br>**Coluna 3**<br><br>complementar<br><br> |  
 
-
-<details><summary>detalhes</summary><small>
-<ol>
-<li>Coluna 1, contendo links dos livros, o sumário do mesmo, e detalhes do projeto (visível em telas grandes)</li>
-<li>Coluna 2, dispondo da obra original em uma página única (visível em telas grandes, médias e pequenas)</li>
-<li>Coluna 3, possibilitando a consulta de enciclopédia, dicionário, atlas (somente ESE) e vídeo reunião (visível em telas grandes e médias)</li>
-<li>Adicionalmente, existe um quarto painel, escamoteavel, que possibilita grifos em amarelo e anotações (interface em Inglês, requere uma conta)</li></ol>
-<hr></small>
-
-</details>
-  
-Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
-
-De modo a realçar certos trechos, usaremos o seguinte padrão para as mensagens de origem mediúnica
-
-> 👻 ▸ Mensagem
->
-> Espírito
-{:.spirit}
-
-e este outro formato para mensagesn bíblicas
-
-> ✝️ ▸ Mensagem
->
-> Livro, cap. X, vers. Y, ARC
-{:.bible}
-
 Lembre-se que nossas atualizações são diárias. Se a parte que você queira utilizar não está pronta ainda, aguarde um pouco que chegaremos lá. Ressalvo somente que nosso progresso é sequencial, indo do começo de um livro, até o fim do mesmo, indo em seguida para o próximo livro da sequência.
 
-Em qualquer caso não abordado acima ou na página <kbd>📋 Info</kbd>, no menu da esquerda, entre em contato utilizando do <kbd>Chat</kbd> (botão azul, canto inferior direito)
+Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. Caso tenha alguma dúvida, entre em contato utilizando do ![crisp-chat](./framework/crisp-logo.svg){:style="all: unset; height: 20px; vertical-align: text-bottom;"} Chat (canto inferior direito).
 
 Deus sempre abençoa!
 
