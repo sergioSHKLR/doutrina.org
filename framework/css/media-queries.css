@@ -13,15 +13,15 @@
         width: 100vw !important;
     }
 
-    .screenshot1 {
+    iframe#screenshot1 {
         display: none ;
     }
 
-    .screenshot2 {
+    iframe#screenshot2 {
         display: none 
     }
 
-    .screenshot3 {
+    iframe#screenshot3 {
         display: block 
     }
 
@@ -50,15 +50,15 @@
         width: calc((100vw * .5) - 23px) !important
     }
 
-    .screenshot1 {
+    iframe#screenshot1 {
         display: none ;
     }
 
-    .screenshot2 {
+    iframe#screenshot2 {
         display: block 
     }
 
-    .screenshot3 {
+    iframe#screenshot3 {
         display: none 
     }
 }
@@ -72,15 +72,15 @@
         display: none;
     }
 
-    .screenshot1 {
+    iframe#screenshot1 {
         display: block ;
     }
 
-    .screenshot2 {
+    iframe#screenshot2 {
         display: none 
     }
 
-    .screenshot3 {
+    iframe#screenshot3 {
         display: none 
     }
 }
@@ -99,15 +99,15 @@
         display: none;
     }
 
-    .screenshot1 {
+    iframe#screenshot1 {
         display: block ;
     }
 
-    .screenshot2 {
+    iframe#screenshot2 {
         display: none 
     }
 
-    .screenshot3 {
+    iframe#screenshot3 {
         display: none 
     }
 

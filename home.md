@@ -24,17 +24,19 @@ Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https
 
 Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca se fosse forçado a navegar em janelas externas. 
 
-Para tal fim desenvolvemos uma interface inédita em três colunas, dispostas assim:
+Para tal fim desenvolvemos uma interface inédita em três colunas, que se ajustam automaticamente de acordo com a largura do dispositivo em que é visualizado (desktop, laptop, tablet ou celular).
+
+Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando um tablet ou celular, você pode mudar a orientação (pé ou deitado) para obter uma largura maior.
 
 <style>
-    img {all: unset; width: 100%; border: none; }
+    iframe {width: 100%; border: none; height: 400px; overflow: hidden; }
 </style>
 
-![desktop](./framework/desktop.png){:class="screenshot1"}
+<iframe id="screenshot1" src="./iframe_content/desktop.html"></iframe>
 
-![tablet](./framework/tablet.png){:class="screenshot2"}
+<iframe id="screenshot2" src="./iframe_content/tablet.html"></iframe>
 
-![celular](./framework/celular.png){:class="screenshot3"}
+<iframe id="screenshot3" src="./iframe_content/celular.html"></iframe>
 
 <br>
 
