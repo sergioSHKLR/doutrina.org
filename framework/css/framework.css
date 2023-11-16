@@ -576,3 +576,5 @@ iframe {
 #col3-body {
     filter: brightness(.99);
 }
+
+kbd {white-space: nowrap}
