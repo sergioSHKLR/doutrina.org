@@ -1,5 +1,5 @@
 ---
-title: ⚖️ Informações
+title: 📋 Informações
 layout: template-generic
 ---
 
