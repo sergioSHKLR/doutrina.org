@@ -40,12 +40,12 @@ Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando 
 
 <br>
 
-Os botões ao topo da Coluna 3 servem aos seguintes propósitos:
+Os botões ao topo da página servem aos seguintes propósitos:
 
-<p><span class="material-symbols-outlined">language</span>&nbsp;-&nbsp;Abrir página do Wikipédia</p>
-<p><span class="material-symbols-outlined">book_2</span>&nbsp;-&nbsp;Abrir página do Wikicionário</p>
-<p><span class="material-symbols-outlined">video_call</span>&nbsp;-&nbsp;Iniciar vídeo reunião (estudos em grupo)</p>
-<p><span class="material-symbols-outlined">visibility_off</span> e <span class="material-symbols-outlined">visibility</span>&nbsp;-&nbsp;Ativar ou desativar cortina anti-distração</p>
+<p class="hidebtn"><span class="material-symbols-outlined">language</span>&nbsp;-&nbsp;Abrir página do Wikipédia</p>
+<p class="hidebtn"><span class="material-symbols-outlined">book_2</span>&nbsp;-&nbsp;Abrir página do Wikicionário</p>
+<p class="hidebtn"><span class="material-symbols-outlined">video_call</span>&nbsp;-&nbsp;Iniciar vídeo reunião (estudos em grupo)</p>
+<p class="hidebtn"><span class="material-symbols-outlined">visibility_off</span> e <span class="material-symbols-outlined">visibility</span>&nbsp;-&nbsp;Ativar ou desativar cortina anti-distração</p>
 <p><span class="material-symbols-outlined">dark_mode</span> e <span class="material-symbols-outlined">light_mode</span>&nbsp;-&nbsp;Alternar entre modo escuro e modo claro</p>
 <p><span class="material-symbols-outlined">fullscreen</span> e <span class="material-symbols-outlined">fullscreen_exit</span>&nbsp;-&nbsp;Alternar entre tela cheia e tela normal</p>
 
