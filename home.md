@@ -26,17 +26,27 @@ Aqui permitiremos ao estudante a consulta direta de fontes complementares sem qu
 
 Para tal fim desenvolvemos uma interface inédita em três colunas, dispostas assim:
 
-| 💧doutrina.org  |  |  |
 | :---: | :---: | :---: |
-<br>**Coluna 1**<br><br>menu<br><br>  | <br>**Coluna 2**<br><br>principal<br><br> | <br>**Coluna 3**<br><br>complementar<br><br> |  
+💧 **doutrina.org**<br><br>**Coluna 1**<br><br>menu<br><br><br><br>  | <br><br>**Coluna 2**<br><br>obra original<br><br><br><br> | <span class="material-symbols-outlined">language</span><span class="material-symbols-outlined">book_2</span><span class="material-symbols-outlined">video_call</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="material-symbols-outlined">visibility_off</span><span class="material-symbols-outlined">dark_mode</span><span class="material-symbols-outlined">fullscreen</span><br><br>**Coluna 3**<br><br>artigos<br>definições<br>mapas<br>vídeos |
+
+Os botões ao topo da Coluna 3 servem aos seguintes propósitos:
+
+<p><span class="material-symbols-outlined">language</span>&nbsp;-&nbsp;Abrir página do Wikipédia</p>
+<p><span class="material-symbols-outlined">book_2</span>&nbsp;-&nbsp;Abrir página do Wikicionário</p>
+<p><span class="material-symbols-outlined">video_call</span>&nbsp;-&nbsp;Iniciar vídeo reunião (estudos em grupo)</p>
+<p><span class="material-symbols-outlined">visibility_off</span> e <span class="material-symbols-outlined">visibility</span>&nbsp;-&nbsp;Ativar ou desativar cortina anti-distração</p>
+<p><span class="material-symbols-outlined">dark_mode</span> e <span class="material-symbols-outlined">light_mode</span>&nbsp;-&nbsp;Alternar entre modo escuro e modo claro</p>
+<p><span class="material-symbols-outlined">fullscreen</span> e <span class="material-symbols-outlined">fullscreen_exit</span>&nbsp;-&nbsp;Alternar entre tela cheia e tela normal</p>
 
 Lembre-se que nossas atualizações são diárias. Se a parte que você queira utilizar não está pronta ainda, aguarde um pouco que chegaremos lá. Ressalvo somente que nosso progresso é sequencial, indo do começo de um livro, até o fim do mesmo, indo em seguida para o próximo livro da sequência.
 
-Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). ![crisp-chat](./framework/crisp-logo.svg){:style="all: unset; height: 30px; vertical-align: text-bottom;"}
+Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. 
+
+<!-- Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). ![crisp-chat](./framework/crisp-logo.svg){:style="all: unset; height: 30px; vertical-align: text-bottom;"} -->
 
 Deus sempre abençoa!
 
-![bitmoji](./framework/baldy.png){:style="all: unset; width: 100px; transform: scaleX(-1)"}
+![bitmoji](./framework/baldy.png){:style="all: unset; background-color: transparent !important ; width: 100px; transform: scaleX(-1)"}
 
 Sergio
 {:.cursive}

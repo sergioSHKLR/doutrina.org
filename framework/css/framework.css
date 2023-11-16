@@ -485,26 +485,19 @@ details>p>a {
     color: #eee;
 }
 
+#col1-body {font-family: 'Roboto Mono', monospace;}
+
 .dark-mode a {
     background-color: transparent;
 }
 
-.dark-mode table,
-.dark-mode th,
-.dark-mode tr,
-.dark-mode td,
 .dark-mode img,
 .dark-mode figcaption {
-    background-color: rgba(250, 250, 250, .1) !important
+    background-color: rgba(255, 255, 255, .1) !important
 }
 
 .dark-mode #col2-body a {
     color: #66B3FF !important;
-}
-
-.dark-mode em {
-    color: red;
-    background-color: transparent;
 }
 
 /* ----- HIDE SHOW  ----- */
@@ -536,28 +529,41 @@ img#israel {
 }
 
 table {
-    width: 100%;
+    max-width: 100%;
     border: 1px solid;
     border-collapse: collapse;
     font-family: inherit;
+}
+
+pre {
+    max-width: 100%;
+    border: 1px solid;
+    border-collapse: collapse;
+    font-family: 'Roboto Mono';
     background-color: rgba(238, 238, 238, .25);
 }
 
 tr,
 td {
-    width: 33%;
     text-align: center;
+    max-width: 33%;
     padding: 10px;
     font-family: inherit;
-    background-color: rgba(238, 238, 238, .25);
+    border: 1px solid currentColor;
+    background-color: rgba(238, 238, 238, .25);   
 }
 
 th {
+    text-align: center !important;
+    font-weight: bold;
     padding: 10px;
     white-space: nowrap;
     font-family: inherit;
+    border: 1px solid currentColor;
     background-color: rgba(238, 238, 238, .25);
 }
+
+.dark-mode table, .dark-mode th, .dark-mode tr, .dark-mode td {background-color: #333;}
 
 ul,
 li {

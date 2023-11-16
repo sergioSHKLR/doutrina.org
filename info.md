@@ -12,6 +12,7 @@ layout: template-generic
 *[GEN]: A Gênese
 *[PDF]: Portable Document Format
 *[MD]: Markdown file
+*[LIV]: Abreviatura de livro
 
 ## Método
 
@@ -62,7 +63,7 @@ LIV-X-XX-XX
  |  |
  |  └── 🗂️ parte
  |
- └── 📔 livro
+ └── 📔 livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
 E em especial no LDE, o código para questões é modificado da sequência lógica de `LDE-X-XX-XX-XXXX` para:
@@ -72,9 +73,9 @@ LIV-qXXXXa
  |   |   |
  |   |   └── sub-questão
  |   |
- |   └── #️⃣ questão
+ |   └── questão
  |
- └── ❓ livro (podendo ser 👻, ✒️, 🕊️, 🔥 ou 🌱)
+ └── livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra `p`, de um a quatro dígitos, para identificar parágrafos numericamente.
@@ -108,12 +109,12 @@ De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens
 
 e este outro formato para mensagesn bíblicas
 
-> ✝️ ▸ Mensagem
+> ✝️ ▸ Mensagem (*Jesus*)
 >
 > Livro, cap. X, vers. Y, ARC
 {:.bible}
 
-Nas passagens acima, trechos atribuídos à Jesus serão indicados pelas letras avermelhadas.
+Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras avermelhadas.
 
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |

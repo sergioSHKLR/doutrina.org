@@ -92,10 +92,6 @@ table {
     background-color: rgba(255, 255, 255, .5) !important
 }
 
-td {
-    padding: 0 30px;
-}
-
 #col3-link3 {
     display: none;
 }
@@ -245,8 +241,8 @@ em {
     color: currentColor;
 }
 
-.dark-mode em {
-    color: #FF9494;
+.dark-mode blockquote em {
+    color: #F797AA;
 }
 
 p.cursive {
@@ -275,3 +271,8 @@ pre {
     padding: 10px;
     border: 1px solid gainsboro;
 }
+
+.dark-mode pre, .dark-mode table {background-color: rgba(255, 255, 255, .1) !important
+    ;}
+
+.dark-mode kbd {background-color: #333; color: #fff !important;}
