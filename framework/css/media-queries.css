@@ -13,6 +13,18 @@
         width: 100vw !important;
     }
 
+    .screenshot1 {
+        display: none ;
+    }
+
+    .screenshot2 {
+        display: none 
+    }
+
+    .screenshot3 {
+        display: block 
+    }
+
 }
 
 @media only screen and (min-width:783px) and (max-width:1419px) {
@@ -37,6 +49,18 @@
         right: 23px;
         width: calc((100vw * .5) - 23px) !important
     }
+
+    .screenshot1 {
+        display: none ;
+    }
+
+    .screenshot2 {
+        display: block 
+    }
+
+    .screenshot3 {
+        display: none 
+    }
 }
 
 @media only screen and (min-width:1420px) and (max-width:1919px) {
@@ -46,6 +70,18 @@
     #col2-dm-btn,
     #col2-fs-btn {
         display: none;
+    }
+
+    .screenshot1 {
+        display: block ;
+    }
+
+    .screenshot2 {
+        display: none 
+    }
+
+    .screenshot3 {
+        display: none 
     }
 }
 
@@ -61,6 +97,18 @@
     #col2-fs-btn,
     #col2-ns-btn {
         display: none;
+    }
+
+    .screenshot1 {
+        display: block ;
+    }
+
+    .screenshot2 {
+        display: none 
+    }
+
+    .screenshot3 {
+        display: none 
     }
 
 }

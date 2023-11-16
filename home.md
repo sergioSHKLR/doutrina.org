@@ -26,8 +26,17 @@ Aqui permitiremos ao estudante a consulta direta de fontes complementares sem qu
 
 Para tal fim desenvolvemos uma interface inédita em três colunas, dispostas assim:
 
-| :---: | :---: | :---: |
-💧 **doutrina.org**<br><br>**Coluna 1**<br><br>menu<br><br><br><br>  | <br><br>**Coluna 2**<br><br>obra original<br><br><br><br> | <span class="material-symbols-outlined">language</span><span class="material-symbols-outlined">book_2</span><span class="material-symbols-outlined">video_call</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="material-symbols-outlined">visibility_off</span><span class="material-symbols-outlined">dark_mode</span><span class="material-symbols-outlined">fullscreen</span><br><br>**Coluna 3**<br><br>artigos<br>definições<br>mapas<br>vídeos |
+<style>
+    img {all: unset; width: 100%; border: none; }
+</style>
+
+![desktop](./framework/desktop.png){:class="screenshot1"}
+
+![tablet](./framework/tablet.png){:class="screenshot2"}
+
+![celular](./framework/celular.png){:class="screenshot3"}
+
+<br>
 
 Os botões ao topo da Coluna 3 servem aos seguintes propósitos:
 
