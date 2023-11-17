@@ -23,6 +23,7 @@ function inactiveDark2() {
 function activeDark3() {
     var element = document.body;
     element.classList.add("dark-mode");
+    document.getElementById("ext-iframe").classList.add('is-dark')
     var element = document.getElementById("col3-dm-btn");
     element.classList.toggle("hide");
     var element = document.getElementById("col3-lm-btn");
@@ -32,6 +33,7 @@ function activeDark3() {
 function inactiveDark3() {
     var element = document.body;
     element.classList.remove("dark-mode");
+    document.getElementById("ext-iframe").classList.remove('is-dark')
     var element = document.getElementById("col3-lm-btn");
     element.classList.toggle("show");
     var element = document.getElementById("col3-dm-btn");
@@ -161,4 +163,5 @@ function menuOff() {
 })()
 
 //-----
+
 

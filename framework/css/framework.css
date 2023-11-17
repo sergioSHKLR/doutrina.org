@@ -569,14 +569,10 @@ li {
     line-height: 1.7;
 }
 
-iframe {
-    filter: brightness(.99) !important;
-}
-
-#col3-body {
-    filter: brightness(.99);
-}
-
 kbd {
     white-space: nowrap
+}
+
+.is-dark {
+  filter: invert(80%);
 }
