@@ -506,11 +506,11 @@ details>p>a {
 
 /* ----- SHADES  ----- */
 .shades-on {
-    filter: grayscale(1) brightness(.1) !important;
+    filter: blur(0px) grayscale(1) brightness(0) !important;
 }
 
 .shades-off {
-    filter: grayscale(0) brightness(1);
+    filter: blur(0) grayscale(0) brightness(1);
 }
 
 img#israel {
