@@ -33,13 +33,13 @@
   ],  
   "icons": [
     {
-      "src": "https://doutrina.org/pwa/maskable.png",
+      "src": "https://doutrina.org/framework/pwa/maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://doutrina.org/pwa/favicon.png",
+      "src": "https://doutrina.org/framework/pwa/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
