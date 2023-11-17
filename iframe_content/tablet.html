@@ -25,7 +25,7 @@
 
     table {
         font-family: 'Inter';
-        font-size: 14px;
+        
     }
 
     .caption {
@@ -36,13 +36,21 @@
     }
 
     .material-symbols-outlined {
-        font-size: 16px;
+        font-size: 18px;
+        vertical-align: middle;
     }
+    span:hover,
+        .material-symbols-outlined:hover,
+        img:hover {
+            outline: 3px solid orange;
+            border-radius: 10px;
+            padding: 1px;
+        }
 </style>
 </head>
 
 <body style="background-color: #fff; margin:0; padding: 0;">
-  <table style="width: 100%">
+  <table style="width: 100%;  border-right: 13px solid #eee;">
 
     <tbody>
       <tr>
@@ -51,7 +59,7 @@
       <tr style="border: none">
         <td colspan="2" style="border-right: none">
           <span class="material-symbols-outlined">menu</span>&nbsp;
-          <span style="font-family: 'Russo One'; border-right: none; font-size: 16px;">💧doutrina.org</span>
+          <span style="font-family: 'Russo One'; border-right: none; ">💧doutrina.org</span>
         </td>
         <td style="border-right: none; border-left: none"><span class="material-symbols-outlined">language</span>&nbsp;
           <span class="material-symbols-outlined">book_2</span>&nbsp;
@@ -77,7 +85,7 @@
   <p class="caption">
     Tablet
   </p> 
-  <img src="../framework/hypo-3.svg" style="position: fixed; top: 38px; right: 0; width: 83px;">
+  <img src="../framework/hypo-3.svg" style="position: fixed; top: 38px; right: 0; width: 23px;">
 
 </body>
 
