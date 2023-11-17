@@ -42,6 +42,16 @@ Os botões ao topo da página servem aos seguintes propósitos:
 <p><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">dark_mode</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">light_mode</span>&nbsp;-&nbsp;Alternar entre modo escuro e modo claro</p>
 <p><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">fullscreen</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">fullscreen_exit</span>&nbsp;-&nbsp;Alternar entre tela cheia e tela normal</p></div>
 
+<p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
+
+<div style="padding: 10px; border: 1px solid gainsboro;  background-color: rgba(238, 238, 238, .25);
+">
+<p><img src="./framework/hypo-a.svg" style="all: unset; width: 35px; vertical-align: middle"> - Mostrar/esconder barra de anotações</p>
+<p><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle"> - Mostras/esconder anotações (grifados em amarelo)</p>
+<p><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle"> - Criar nova anotação de página</p>
+</div>
+
+
 Lembre-se que nossas atualizações são diárias. Se a parte que você queira utilizar não está pronta ainda, aguarde um pouco que chegaremos lá. Ressalvo somente que nosso progresso é sequencial, indo do começo de um livro, até o fim do mesmo, indo em seguida para o próximo livro da sequência.
 
 Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. Ficaríamos muito agradecidos com seu feedback, para tal use a página <kbd>💌 Comentários</kbd>

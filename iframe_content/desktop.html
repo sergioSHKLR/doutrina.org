@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
     <style>
+        html {margin: 0; padding: 0;}
         table,
         th,
         td {
@@ -19,6 +20,7 @@
             padding: 10px;
             vertical-align: top;
             background-color: #fff;
+            margin-top: -18px;
         }
 
         table {
@@ -26,25 +28,29 @@
             font-size: 14px;
         }
 
-        caption {
+        .caption {
             color: #000;
             padding: 15px;
+            font-family: 'Roboto Mono', mono;
+            text-align: center;
         }
-        .material-symbols-outlined {font-size: 14px;}
 
+        .material-symbols-outlined {
+            font-size: 16px;
+        }
     </style>
 </head>
 
-<body style="background-color: #fff">
-    <table style="width: 100%;">
-        <caption>
-            Desktop ou Laptop
-        </caption>
+<body style="background-color: #fff; margin:0; padding: 0;">
+    <table style="width: 100%; border-right: 13px solid #eee;">
+ 
         <tbody>
             <tr>
-                <td colspan="4" style="background-color: #eee">🔴🟡🟢&nbsp; 🔒 https://doutrina.org</td>
+                <td colspan="4" style="background-color: #eee">🔴🟡🟢&nbsp; <span
+                        style="padding: 3px 10px; border-radius: 50px; background-color: #fff; ">🔒
+                        https://doutrina.org</span></td>
             </tr>
-            <tr style="border: none">
+            <tr style="border: none; font-size: 16px;">
                 <td colspan="2" style="font-family: 'Russo One'; border-right: none">💧doutrina.org
                 </td>
                 <td style="border-right: none; border-left: none"><span
@@ -53,7 +59,7 @@
                     <span class="material-symbols-outlined">video_call</span>
                 </td>
                 &nbsp;
-                <td style="text-align: right; border-left: none">
+                <td style="text-align: right; border-left: none; padding-right: 20px;">
                     <span class="material-symbols-outlined">visibility_off</span>&nbsp;
                     <span class="material-symbols-outlined">dark_mode</span>&nbsp;
                     <span class="material-symbols-outlined">fullscreen</span>
@@ -61,17 +67,22 @@
             </tr>
 
             <tr>
-                <td style="font-family: 'Roboto Mono'; ">Coluna 1<br><br>menu</td>
+                <td style="font-family: 'Inter'; ">Coluna 1<br><br>menu</td>
 
                 <td style="font-family: 'Roboto Slab'; width: 30%;  height: 200px;">Coluna
                     2<br><br>obra original</td>
 
                 <td colspan="2">Coluna 3<br><br>artigos<br>definições<br>mapas<br>vídeos</td>
 
+                <img src="../framework/hypo-3.svg" style="position: fixed; top: 38px; right: 0; width: 83px;">
+
             </tr>
 
         </tbody>
     </table>
+    <p class="caption">
+        Desktop ou Laptop
+    </p>
 </body>
 
 </html>
