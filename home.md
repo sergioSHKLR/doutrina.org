@@ -43,7 +43,7 @@ Os botões ao topo da página servem aos seguintes propósitos:
 
 Lembre-se que nossas atualizações são diárias. Se a parte que você queira utilizar não está pronta ainda, aguarde um pouco que chegaremos lá. Ressalvo somente que nosso progresso é sequencial, indo do começo de um livro, até o fim do mesmo, indo em seguida para o próximo livro da sequência.
 
-Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. 
+Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto. Ficaríamos muito agradecidos com seu feedback, para tal use a página <kbd>💌 Comentários</kbd>
 
 <!-- Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). ![crisp-chat](./framework/crisp-logo.svg){:style="all: unset; height: 30px; vertical-align: text-bottom;"} -->
 

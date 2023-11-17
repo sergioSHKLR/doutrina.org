@@ -237,6 +237,7 @@ kbd {
     border-radius: 3px;
     border: 1px solid gainsboro;
     background-color: whitesmoke;
+    vertical-align: bottom;
 }
 
 .dark-mode kbd {
