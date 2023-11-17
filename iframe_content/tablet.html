@@ -11,35 +11,39 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
   <style>
+    html {margin: 0; padding: 0;}
     table,
     th,
     td {
-      border-collapse: collapse;
-      border: 1px solid gainsboro;
-      padding: 10px;
-      vertical-align: top;
-      background-color: #fff;
+        border-collapse: collapse;
+        border: 1px solid gainsboro;
+        padding: 10px;
+        vertical-align: top;
+        background-color: #fff;
+        margin-top: -18px;
     }
 
     table {
-      font-family: 'Inter';
-      font-size: 14px;
+        font-family: 'Inter';
+        font-size: 14px;
     }
 
-    caption {
-      color: #000;
-      padding: 15px;
+    .caption {
+        color: #000;
+        padding: 15px;
+        font-family: 'Roboto Mono', mono;
+        text-align: center;
     }
 
-    .material-symbols-outlined {font-size: 14px;}
-  </style>
+    .material-symbols-outlined {
+        font-size: 16px;
+    }
+</style>
 </head>
 
-<body style="background-color: #fff">
+<body style="background-color: #fff; margin:0; padding: 0;">
   <table style="width: 100%">
-    <caption>
-      Tablet
-    </caption>
+
     <tbody>
       <tr>
         <td colspan="4" style="background-color: #eee"><span style="padding: 3px 10px; border-radius: 50px; background-color: #fff; ">🔒 https://doutrina.org</span></td>
@@ -47,14 +51,14 @@
       <tr style="border: none">
         <td colspan="2" style="border-right: none">
           <span class="material-symbols-outlined">menu</span>&nbsp;
-          <span style="font-family: 'Russo One'; border-right: none">💧doutrina.org</span>
+          <span style="font-family: 'Russo One'; border-right: none; font-size: 16px;">💧doutrina.org</span>
         </td>
         <td style="border-right: none; border-left: none"><span class="material-symbols-outlined">language</span>&nbsp;
           <span class="material-symbols-outlined">book_2</span>&nbsp;
           <span class="material-symbols-outlined">video_call</span>
         </td>
         &nbsp;
-        <td style="text-align: right; border-left: none">
+        <td style="text-align: right; border-left: none;  padding-right: 30px;">
           <span class="material-symbols-outlined">visibility_off</span>&nbsp;
           <span class="material-symbols-outlined">dark_mode</span>&nbsp;
           <span class="material-symbols-outlined">fullscreen</span>
@@ -70,6 +74,11 @@
       </tr>
     </tbody>
   </table>
+  <p class="caption">
+    Tablet
+  </p> 
+  <img src="../framework/hypo-3.svg" style="position: fixed; top: 38px; right: 0; width: 83px;">
+
 </body>
 
 </html>
