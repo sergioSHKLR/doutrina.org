@@ -574,6 +574,6 @@ kbd {
 }
 
 .is-dark {
-  filter: invert(1);
+  filter: invert(.87);
 }
 
