@@ -510,7 +510,7 @@ details>p>a {
 }
 
 .shades-off {
-    filter: blur(0px) grayscale(0) brightness(.99);
+    filter: blur(0px) grayscale(0) brightness(1);
 }
 
 img#israel {
