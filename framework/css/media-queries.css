@@ -26,6 +26,7 @@
     }
 
     p.hidebtn {display: none;}
+    p.hidebtn2 {display: block;}
 
 }
 
@@ -63,6 +64,9 @@
     iframe#screenshot3 {
         display: none 
     }
+
+    p.hidebtn2 {display: block;}
+
 }
 
 @media only screen and (min-width:1101px) and (max-width:1419px) {
@@ -99,6 +103,9 @@
     iframe#screenshot3 {
         display: none 
     }
+
+    p.hidebtn2 {display: block;}
+
 }
 
 
@@ -122,6 +129,9 @@
     iframe#screenshot3 {
         display: none 
     }
+
+    p.hidebtn2 {display: none;}
+
 }
 
 @media only screen and (min-width:1920px) {
@@ -149,6 +159,9 @@
     iframe#screenshot3 {
         display: none 
     }
+
+    p.hidebtn2 {display: none;}
+
 
 }
 

@@ -251,8 +251,10 @@ body {
 }
 
 .fs-4 {
-    font-size: 10px;
+    font-size: 12px;
 }
+
+.fs-5 {font-size: 10px;}
 
 /* ----- FONT WEIGHT  ----- */
 .fw-normal {
@@ -485,8 +487,6 @@ details>p>a {
     color: #eee;
 }
 
-#col1-body {font-family: 'Roboto Mono', monospace;}
-
 .dark-mode a {
     background-color: transparent;
 }
@@ -550,7 +550,7 @@ td {
     padding: 10px;
     font-family: inherit;
     border: 1px solid currentColor;
-    background-color: rgba(238, 238, 238, .25);   
+    background-color: rgba(238, 238, 238, .25);
 }
 
 th {
@@ -563,7 +563,12 @@ th {
     background-color: rgba(238, 238, 238, .25);
 }
 
-.dark-mode table, .dark-mode th, .dark-mode tr, .dark-mode td {background-color: #333;}
+.dark-mode table,
+.dark-mode th,
+.dark-mode tr,
+.dark-mode td {
+    background-color: #333;
+}
 
 ul,
 li {
@@ -586,6 +591,3 @@ iframe {
 kbd {
     white-space: nowrap
 }
-
-
-

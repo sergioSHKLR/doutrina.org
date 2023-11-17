@@ -262,3 +262,9 @@ pre {
     background-color: #333;
     color: #fff !important;
 }
+
+.hidebtn,
+.hidebtn2 {
+    font-size: 16px;
+    vertical-align: bottom !important;
+}
