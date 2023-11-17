@@ -14,6 +14,44 @@ layout: template-generic
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
+**Pré-release Alpha <kbd>11.23</kbd>. Em desenvolvimento diário. Atualização mais recente em 14 Nov 2023.**
+
+Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar esta alternativa.
+
+Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca se fosse forçado a navegar em janelas externas. 
+
+Para tal fim desenvolvemos uma interface inédita em três colunas, que se ajustam automaticamente de acordo com a largura do dispositivo em que é visualizado. Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colunas (1 escondida) e em telas pequenas, somente 1 coluna (2 escondidas).
+
+Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando um tablet ou celular, você pode mudar a orientação (de pé para deitado) para obter uma largura maior.
+
+<iframe id="screenshot1" src="./iframe_content/desktop.html" style="width: 100%; border: none; height: 400px; overflow: hidden; "></iframe>
+
+<iframe id="screenshot2" src="./iframe_content/tablet.html" style="width: 100%; border: none; height: 400px; overflow: hidden; "></iframe>
+
+<iframe id="screenshot3" src="./iframe_content/celular.html" style="width: 100%; border: none; height: 400px; overflow: hidden; "></iframe>
+
+Os botões ao topo da página servem aos seguintes propósitos:
+
+<div style="padding: 10px; border: 1px solid gainsboro;  background-color: rgba(238, 238, 238, .25);
+">
+<p class="hidebtn2"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">menu</span>&nbsp;-&nbsp;Mostrar/esconder Coluna 1</p>
+<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">language</span>&nbsp;-&nbsp;Abrir página do Wikipédia</p>
+<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">book_2</span>&nbsp;-&nbsp;Abrir página do Wikicionário</p>
+<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">video_call</span>&nbsp;-&nbsp;Iniciar vídeo reunião (estudos em grupo)</p>
+<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">visibility_off</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">visibility</span>&nbsp;-&nbsp;Ativar ou desativar cortina anti-distração</p>
+<p><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">dark_mode</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">light_mode</span>&nbsp;-&nbsp;Alternar entre modo escuro e modo claro</p>
+<p><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">fullscreen</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">fullscreen_exit</span>&nbsp;-&nbsp;Alternar entre tela cheia e tela normal</p></div>
+
+<p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
+
+<div style="padding: 10px; border: 1px solid gainsboro;  background-color: rgba(238, 238, 238, .25);
+">
+<p><img src="./framework/hypo-a.svg" style="all: unset; width: 35px; vertical-align: middle"> - Mostrar/esconder barra de anotações</p>
+<p><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle"> - Mostras/esconder anotações (grifados em amarelo)</p>
+<p><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle"> - Criar nova anotação de página</p>
+</div>
+
+
 ## Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
