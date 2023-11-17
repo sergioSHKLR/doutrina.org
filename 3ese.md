@@ -22,25 +22,16 @@ layout: template-3ese
 
 ### 0-01. 🗂️ Folha de rosto
 
-|  |
 |:---:|
 | Ética Espírita
-|  |
 | 🕊️ [O Evangelho segundo o Espiritismo](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"} |
-|  |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
-|  |
 | Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
-|  |
 | por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
-|  |
 | Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"} |
-|  |
 | Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"} |
-|  |
 | Modificado para o consumo digital por Sergio de |
 | ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
-|  |
 
 ### 0-02. 🗂️ Prefácio
 
@@ -52,8 +43,8 @@ layout: template-3ese
 >
 > Homens, irmãos a quem amamos, aqui estamos junto de vós. Amai-vos, também, uns aos outros e dizei do fundo do coração, fazendo as vontades do Pai, que está no Céu: Senhor! Senhor!… e podereis entrar no Reino dos Céus.
 >
-> O Espírito da Verdade
-{:.spirit-multi}
+> <p style="text-align: right; font-weight: 400;">O Espírito da Verdade</p>
+{:.spirit}
 
 **📝 Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
@@ -143,25 +134,25 @@ Já se desenha o harmonioso conjunto. Este século não passará sem que ele res
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
 
-**Samaritanos**– Após o cisma das dez tribos, Samaria se constituiu a capital do reino dissidente de Israel. Destruída e reconstruída várias vezes, tornou-se, sob os romanos, a cabeça da Samaria, uma das quatro divisões da Palestina. Herodes, chamado o Grande, a embelezou de suntuosos monumentos e, para lisonjear Augusto, lhe deu o nome de Augusta, em grego Sebaste.
+**Samaritanos** – Após o cisma das dez tribos, Samaria se constituiu a capital do reino dissidente de Israel. Destruída e reconstruída várias vezes, tornou-se, sob os romanos, a cabeça da Samaria, uma das quatro divisões da Palestina. Herodes, chamado o Grande, a embelezou de suntuosos monumentos e, para lisonjear Augusto, lhe deu o nome de Augusta, em grego Sebaste.
 
 Os samaritanos estiveram quase constantemente em guerra com os reis de Judá. Aversão profunda, datando da época da separação, perpetuou-se entre os dois povos, que evitavam todas as relações recíprocas. Aqueles, para tornarem maior a cisão e não terem de vir a Jerusalém pela celebração das festas religiosas, construíram para si um templo particular e adotaram algumas reformas. Somente admitiam o Pentateuco, que continha a lei de Moisés, e rejeitavam todos os outros livros que a esse foram posteriormente anexados. Seus livros sagrados eram escritos em caracteres hebraicos da mais alta antiguidade. Para os judeus ortodoxos, eles eram heréticos e, portanto, desprezados, anatematizados e perseguidos. O antagonismo das duas nações tinha, pois, por fundamento único a divergência das opiniões religiosas; se bem fosse a mesma a origem das crenças de uma e outra. Eram os protestantes desse tempo.
 
 Ainda hoje se encontram samaritanos em algumas regiões do Levante, particularmente em Nablus e em Jaffa. Observam a lei de Moisés com mais rigor que os outros judeus e só entre si contraem alianças.
 
-**Nazarenos**– Nome dado, na antiga lei, aos judeus que faziam voto, perpétuo ou temporário, de guardar perfeita pureza. Eles se comprometiam a observar a castidade, a abster-se de bebidas alcoólicas e a conservar a cabeleira. Sansão, Samuel e João Batista eram nazarenos.
+**Nazarenos** – Nome dado, na antiga lei, aos judeus que faziam voto, perpétuo ou temporário, de guardar perfeita pureza. Eles se comprometiam a observar a castidade, a abster-se de bebidas alcoólicas e a conservar a cabeleira. Sansão, Samuel e João Batista eram nazarenos.
 
 Mais tarde, os judeus deram esse nome aos primeiros cristãos, por alusão a Jesus de Nazaré.
 
 Também foi essa a denominação de uma seita herética dos primeiros séculos da Era Cristã, a qual, do mesmo modo que os ebionitas, de quem adotava certos princípios, misturava as práticas do mosaísmo com os dogmas cristãos, seita essa que desapareceu no século quarto.
 
-**Publicanos**– Eram assim chamados, na antiga Roma, os cavalheiros arrendatários das taxas públicas, incumbidos da cobrança dos impostos e das rendas de toda espécie, quer em Roma mesma, quer nas outras partes do Império. Eram como os arrendatários gerais e arrematadores de taxas do antigo regímen na França e que ainda existem nalgumas regiões. Os riscos a que estavam sujeitos faziam que os olhos se fechassem para as riquezas que muitas vezes adquiriam e que, da parte de alguns, eram frutos de exações e de lucros escandalosos. O nome de publicano se estendeu mais tarde a todos os que superintendiam os dinheiros públicos e aos agentes subalternos. Hoje esse termo se emprega em sentido pejorativo, para designar os financistas e os agentes pouco escrupulosos de negócios. Diz-se por vezes: “Ávido como um publicano, rico como um publicano”, com referência a riquezas de mau quilate.
+**Publicanos** – Eram assim chamados, na antiga Roma, os cavalheiros arrendatários das taxas públicas, incumbidos da cobrança dos impostos e das rendas de toda espécie, quer em Roma mesma, quer nas outras partes do Império. Eram como os arrendatários gerais e arrematadores de taxas do antigo regímen na França e que ainda existem nalgumas regiões. Os riscos a que estavam sujeitos faziam que os olhos se fechassem para as riquezas que muitas vezes adquiriam e que, da parte de alguns, eram frutos de exações e de lucros escandalosos. O nome de publicano se estendeu mais tarde a todos os que superintendiam os dinheiros públicos e aos agentes subalternos. Hoje esse termo se emprega em sentido pejorativo, para designar os financistas e os agentes pouco escrupulosos de negócios. Diz-se por vezes: “Ávido como um publicano, rico como um publicano”, com referência a riquezas de mau quilate.
 
 De toda a dominação romana, o imposto foi o que os judeus mais dificilmente aceitaram e o que mais irritação causou entre eles. Daí nasceram várias revoltas, fazendo-se do caso uma questão religiosa, por ser considerada contrária à Lei. Constituiu-se, mesmo, um partido poderoso, a cuja frente se pôs um certo Judá, apelidado o Gaulonita, tendo por princípio o não pagamento do imposto. Os judeus, pois, abominavam o imposto e, como consequência, todos os que eram encarregados de arrecadá-lo, donde a aversão que votavam aos publicanos de todas as categorias, entre os quais podiam encontrar-se pessoas muito estimáveis, mas que, em virtude das suas funções, eram desprezadas, assim como os que com elas mantinham relações, os quais se viam atingidos pela mesma reprovação. Os judeus de destaque consideravam um comprometimento ter com eles intimidade.
 
-**Portageiros**– Eram os arrecadadores de baixa categoria, incumbidos principalmente da cobrança dos direitos de entrada nas cidades. Suas funções correspondiam mais ou menos à dos empregados de alfândega e recebedores dos direitos de barreira. Compartilhavam da repulsa que pesava sobre os publicanos em geral. Essa a razão por que, no Evangelho, se depara frequentemente com a palavra publicano ao lado da expressão gente de má vida. Tal qualificação não implicava a de debochados ou vagabundos. Era um termo de desprezo, sinônimo de gente de má companhia, gente indigna de conviver com pessoas distintas.
+**Portageiros** – Eram os arrecadadores de baixa categoria, incumbidos principalmente da cobrança dos direitos de entrada nas cidades. Suas funções correspondiam mais ou menos à dos empregados de alfândega e recebedores dos direitos de barreira. Compartilhavam da repulsa que pesava sobre os publicanos em geral. Essa a razão por que, no Evangelho, se depara frequentemente com a palavra publicano ao lado da expressão gente de má vida. Tal qualificação não implicava a de debochados ou vagabundos. Era um termo de desprezo, sinônimo de gente de má companhia, gente indigna de conviver com pessoas distintas.
 
-**Fariseus**(do hebreu parush, divisão, separação) – A tradição constituía parte importante da teologia dos judeus. Consistia numa compilação das interpretações sucessivamente dadas ao sentido das Escrituras e tornadas artigos de dogma. Constituía, entre os doutores, assunto de discussões intermináveis, as mais das vezes sobre simples questões de palavras ou de formas, no gênero das disputas teológicas e das sutilezas da escolástica da Idade Média. Daí nasceram diferentes seitas, cada uma das quais pretendia ter o monopólio da verdade, detestando-se umas às outras, como sói acontecer.
+**Fariseus** (do hebreu parush, divisão, separação) – A tradição constituía parte importante da teologia dos judeus. Consistia numa compilação das interpretações sucessivamente dadas ao sentido das Escrituras e tornadas artigos de dogma. Constituía, entre os doutores, assunto de discussões intermináveis, as mais das vezes sobre simples questões de palavras ou de formas, no gênero das disputas teológicas e das sutilezas da escolástica da Idade Média. Daí nasceram diferentes seitas, cada uma das quais pretendia ter o monopólio da verdade, detestando-se umas às outras, como sói acontecer.
 
 Entre essas seitas, a mais influente era a dos fariseus, que teve por chefe Hillel, [^2] doutor judeu nascido na Babilônia, fundador de uma escola célebre, onde se ensinava que só se devia depositar fé nas Escrituras. Sua origem remonta a 180 ou 200 anos antes de Jesus Cristo. Os fariseus, em diversas épocas, foram perseguidos, especialmente sob Hircano — soberano pontífice e rei dos judeus —, Aristóbulo e Alexandre, rei da Síria. Este último, porém, lhes deferiu honras e restituiu os bens, de sorte que eles readquiriram o antigo poderio e o conservaram até a ruína de Jerusalém, no ano 70 da Era Cristã, época em que se lhes apagou o nome, em consequência da dispersão dos judeus.
 
@@ -169,19 +160,19 @@ Tomavam parte ativa nas controvérsias religiosas. Servis cumpridores das práti
 
 Acreditavam, ou, pelo menos, fingiam acreditar na Providência, na imortalidade da alma, na eternidade das penas e na ressurreição dos mortos. (Cap. IV, item 4.) Jesus, que prezava, sobretudo, a simplicidade e as qualidades da alma, que, na lei, preferia o espírito, que vivifica, à letra, que mata, se aplicou, durante toda a sua missão, a lhes desmascarar a hipocrisia, pelo que tinha neles encarniçados inimigos. Essa a razão por que se ligaram aos príncipes dos sacerdotes para amotinar contra Ele o povo e eliminá-lo.
 
-**Escribas**– Nome dado, a princípio, aos secretários dos reis de Judá e a certos intendentes dos exércitos judeus. Mais tarde, foi aplicado especialmente aos doutores que ensinavam a lei de Moisés e a interpretavam para o povo. Faziam causa comum com os fariseus, de cujos princípios partilhavam, bem como da antipatia que aqueles votavam aos inovadores. Daí o envolvê-los Jesus na reprovação que lançava aos fariseus.
+**Escribas** – Nome dado, a princípio, aos secretários dos reis de Judá e a certos intendentes dos exércitos judeus. Mais tarde, foi aplicado especialmente aos doutores que ensinavam a lei de Moisés e a interpretavam para o povo. Faziam causa comum com os fariseus, de cujos princípios partilhavam, bem como da antipatia que aqueles votavam aos inovadores. Daí o envolvê-los Jesus na reprovação que lançava aos fariseus.
 
-**Sinagoga**(do grego synagogê, assembleia, congregação) – Um único templo havia na Judeia, o de Salomão, em Jerusalém, onde se celebravam as grandes cerimônias do culto. Os judeus, todos os anos, lá iam em peregrinação para as festas principais, como as da Páscoa, da Dedicação e dos Tabernáculos. Por ocasião dessas festas é que Jesus também costumava ir lá. As outras cidades não possuíam templos, mas apenas sinagogas: edifícios onde os judeus se reuniam aos sábados, para fazer preces públicas, sob a chefia dos anciães, dos escribas, ou doutores da Lei. Nelas também se realizavam leituras dos livros sagrados, seguidas de explicações e comentários, atividades das quais qualquer pessoa podia participar. Por isso é que Jesus, sem ser sacerdote, ensinava aos sábados nas sinagogas.
+**Sinagoga** (do grego synagogê, assembleia, congregação) – Um único templo havia na Judeia, o de Salomão, em Jerusalém, onde se celebravam as grandes cerimônias do culto. Os judeus, todos os anos, lá iam em peregrinação para as festas principais, como as da Páscoa, da Dedicação e dos Tabernáculos. Por ocasião dessas festas é que Jesus também costumava ir lá. As outras cidades não possuíam templos, mas apenas sinagogas: edifícios onde os judeus se reuniam aos sábados, para fazer preces públicas, sob a chefia dos anciães, dos escribas, ou doutores da Lei. Nelas também se realizavam leituras dos livros sagrados, seguidas de explicações e comentários, atividades das quais qualquer pessoa podia participar. Por isso é que Jesus, sem ser sacerdote, ensinava aos sábados nas sinagogas.
 
 Desde a ruína de Jerusalém e a dispersão dos judeus, as sinagogas, nas cidades por eles habitadas, servem-lhes de templos para a celebração do culto.
 
-**Saduceus**– Seita judia, que se formou por volta do ano 248 antes de Jesus Cristo e cujo nome lhe veio do de Sadoque, seu fundador. Não criam na imortalidade, nem na ressurreição, nem nos anjos bons e maus. Entretanto, criam em Deus; nada, porém, esperando após a morte, só o serviam tendo em vista recompensas temporais, ao que, segundo eles, se limitava a Providência divina. Assim pensando, tinham a satisfação dos sentidos físicos por objetivo essencial da vida. Quanto às Escrituras, atinham-se ao texto da lei antiga. Não admitiam a tradição, nem interpretações quaisquer. Colocavam as boas obras e a observância pura e simples da Lei acima das práticas exteriores do culto. Eram, como se vê, os materialistas, os deístas e os sensualistas da época. Seita pouco numerosa, mas que contava em seu seio importantes personagens e se tornou um partido político oposto constantemente aos fariseus.
+**Saduceus** – Seita judia, que se formou por volta do ano 248 antes de Jesus Cristo e cujo nome lhe veio do de Sadoque, seu fundador. Não criam na imortalidade, nem na ressurreição, nem nos anjos bons e maus. Entretanto, criam em Deus; nada, porém, esperando após a morte, só o serviam tendo em vista recompensas temporais, ao que, segundo eles, se limitava a Providência divina. Assim pensando, tinham a satisfação dos sentidos físicos por objetivo essencial da vida. Quanto às Escrituras, atinham-se ao texto da lei antiga. Não admitiam a tradição, nem interpretações quaisquer. Colocavam as boas obras e a observância pura e simples da Lei acima das práticas exteriores do culto. Eram, como se vê, os materialistas, os deístas e os sensualistas da época. Seita pouco numerosa, mas que contava em seu seio importantes personagens e se tornou um partido político oposto constantemente aos fariseus.
 
-**Essênios**ou **Esseus**– Também seita judia fundada cerca do ano 150 antes de Jesus Cristo, ao tempo dos macabeus, e cujos membros, habitando uma espécie de mosteiros, formavam entre si uma como associação moral e religiosa. Distinguiam-se pelos costumes brandos e por austeras virtudes, ensinavam o amor a Deus e ao próximo, a imortalidade da alma e acreditavam na ressurreição. Viviam em celibato, condenavam a escravidão e a guerra, punham em comunhão os seus bens e se entregavam à agricultura.
+**Essênios** ou **Esseus**– Também seita judia fundada cerca do ano 150 antes de Jesus Cristo, ao tempo dos macabeus, e cujos membros, habitando uma espécie de mosteiros, formavam entre si uma como associação moral e religiosa. Distinguiam-se pelos costumes brandos e por austeras virtudes, ensinavam o amor a Deus e ao próximo, a imortalidade da alma e acreditavam na ressurreição. Viviam em celibato, condenavam a escravidão e a guerra, punham em comunhão os seus bens e se entregavam à agricultura.
 
 Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de rígidas práticas exteriores e de virtudes apenas aparentes, nunca os essênios tomaram parte nas querelas que tornaram antagonistas aquelas duas outras seitas. Pelo gênero de vida que levavam, assemelhavam-se muito aos primeiros cristãos, e os princípios da moral que professavam induziram muitas pessoas a supor que Jesus, antes de dar começo à sua missão pública, lhes pertencera à comunidade. É certo que ele há de tê-la conhecido, mas nada prova que se lhe houvesse filiado, sendo, pois, hipotético tudo quanto a esse respeito se escreveu. [^3]
 
-**Terapeutas**(do grego therapeutai, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
+**Terapeutas** (do grego therapeutai, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
 
 #### 0-03.4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo
 
@@ -221,7 +212,7 @@ Não somente o princípio da reencarnação se acha aí claramente expresso, mas
 
 ###### 05
 
->Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
+> Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
 
 É a doutrina dos anjos guardiães, ou Espíritos protetores, e das reencarnações sucessivas, em seguida a intervalos mais ou menos longos de erraticidade.
 
@@ -362,7 +353,8 @@ A Lei de Deus está formulada nos dez mandamentos seguintes:
 >
 > 10. Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.
 >
-> **Exôdo, cap. 20, vers. 2-12**
+> <p style="text-align: right; font-weight: 400;">Exôdo, cap. 20, vers. 2-12</p>
+{:.bible}
 
 É de todos os tempos e de todos os países essa lei e tem, por isso mesmo, caráter divino. Todas as outras são leis que Moisés decretou, obrigado que se via a conter, pelo temor, um povo de seu natural turbulento e indisciplinado, no qual tinha ele de combater arraigados abusos e preconceitos, adquiridos durante a escravidão do Egito. Para imprimir autoridade às suas leis, houve de lhes atribuir origem divina, conforme o fizeram todos os legisladores dos povos primitivos. A autoridade do homem precisava apoiar-se na autoridade de Deus; mas só a ideia de um Deus terrível podia impressionar criaturas ignorantes, nas quais ainda pouco desenvolvidos se encontravam o senso moral e o sentimento de uma justiça reta. É evidente que aquele que incluíra, entre os seus mandamentos, este: *“Não matareis; não causareis dano ao vosso próximo”*, não poderia contradizer-se, fazendo da exterminação um dever. As leis moisaicas, propriamente ditas, revestiam, pois, um caráter essencialmente transitório.
 
@@ -375,12 +367,14 @@ Jesus não veio destruir a lei, isto é, a Lei de Deus; veio cumpri-la, isto é,
 > ✝️ ▸ *Amar a Deus acima de todas as coisas e o próximo como a si mesmo.*
 >
 > **Livro, cap. X, vers. Y**
+{:.bible-multi}
 
 e acrescentando: aí estão a lei toda e os profetas. Por estas palavras:
 
 > ✝️ ▸ *O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota.*
 >
 > **Livro, cap. X, vers. Y**
+{:.bible-multi}
 
 quis dizer Jesus ser necessário que a Lei de Deus tivesse cumprimento integral, isto é, fosse praticada na Terra inteira, em toda a sua pureza, com todas as suas ampliações e consequências. Efetivamente, de que serviria haver sido promulgada aquela lei, se ela devesse constituir privilégio de alguns homens, ou, ao menos, de um único povo? Sendo filhos de Deus todos os homens, todos, sem distinção nenhuma, são objeto da mesma solicitude.
 
@@ -442,16 +436,16 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 >
 > A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
 >
-> **Fénelon
-> [Poitiers](./maps/poitiers.html) 🇫🇷
+> **Fénelon  
+> [Poitiers](./maps/poitiers.html) 🇫🇷  
 > 1861**
 
 ###### 11
 
 > 👻 ▸ Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam.
 >
-> **Erasto, discípulo de Paulo
-> [Paris](./maps/paris.html) 🇫🇷
+> **Erasto, discípulo de Paulo  
+> [Paris](./maps/paris.html) 🇫🇷  
 > 1863**
 
 **📝 Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
@@ -464,7 +458,8 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 
 > ✝️ ▸ Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: *Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui.*Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: *Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.*
 >
-> **João, cap. 18. vers. 33, 36-37**
+> **João, cap. 18. vers. 33, 36-37, ARC**
+{:.bible-multi}
 
 #### A vida futura
 
@@ -526,8 +521,8 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 >
 > Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais.
 >
-> **Uma Rainha da França
-> [Havre](./maps/havre.html) 🇫🇷
+> **Uma Rainha da França  
+> [Havre](./maps/havre.html) 🇫🇷  
 > 1863**
 
 ---
@@ -538,7 +533,8 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 
 > ✝️ ▸ Não se turbe o vosso coração. Credes em Deus, crede também em mim. Há muitas moradas na casa de meu Pai; se assim não fosse, já Eu vo-lo teria dito, pois me vou para vos preparar o lugar. Depois que me tenha ido e que vos houver preparado o lugar, voltarei e vos retirarei para mim, a fim de que onde Eu estiver, também vós aí estejais.
 >
-> **João, cap. 14. vers. 1-3**
+> **João, cap. 14. vers. 1-3, ARC**
+{:.bible-multi}
 
 #### Diferentes estados da alma na erraticidade
 
@@ -624,8 +620,8 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > 👻 ▸ A Terra, conseguintemente, oferece um dos tipos de mundos expiatórios, cuja variedade é infinita, mas revelando todos, como caráter comum, o servirem de lugar de exílio para Espíritos rebeldes à Lei de Deus. Esses Espíritos têm aí de lutar, ao mesmo tempo, com a perversidade dos homens e com a inclemência da Natureza, duplo e árduo trabalho que simultaneamente desenvolve as qualidades do coração e as da inteligência. É assim que Deus, em sua bondade, faz que o próprio castigo redunde em proveito do progresso do Espírito.
 >
-> **Santo Agostinho
-> [Paris](./maps/paris.html) 🇫🇷
+> **Santo Agostinho  
+> [Paris](./maps/paris.html) 🇫🇷  
 > 1862**
 
 #### Mundos regeneradores
@@ -672,19 +668,22 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > ✝️ ▸ Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: *Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou?*— Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: *E vós, quem dizeis que Eu sou?*— Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: *Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.*
 >
-> **Mateus, 16:13 a 17; Marcos, 8:27 a 30**
+> **Mateus, 16:13 a 17; Marcos, 8:27 a 30, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ Nesse ínterim, Herodes, o Tetrarca, ouvira falar de tudo o que fazia Jesus e seu espírito se achava em suspenso, porque uns diziam que João Batista ressuscitara dentre os mortos; outros que aparecera Elias; e outros que um dos antigos profetas ressuscitara. Disse então Herodes: Mandei cortar a cabeça a João Batista; quem é então esse de quem ouço dizer tão grandes coisas? — E ardia por vê-lo.
 >
-> **Marcos, 6:14 a 16; Lucas, 9:7 a 9**
+> **Marcos, 6:14 a 16; Lucas, 9:7 a 9, ARC**
+{:.bible-multi}
 
 ###### 03
 
 > ✝️ ▸ (Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: *É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem.*— Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
 >
-> **Mateus, 17:10 a 13; Marcos, 9:11 a 13**
+> **Mateus, 17:10 a 13; Marcos, 9:11 a 13, ARC**
+{:.bible-multi}
 
 #### Ressurreição e reencarnação
 
@@ -709,7 +708,8 @@ A reencarnação fazia parte dos dogmas dos judeus, sob o nome de ressurreição
 > Jesus lhe observou:
 > *Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?*
 >
-> **João, cap. 3, vers. 1 a 12**
+> **João, cap. 3, vers. 1 a 12, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -737,7 +737,8 @@ O Espírito sopra onde quer; ouves-lhe a voz, mas não sabes nem donde ele vem, 
 
 > ✝️ ▸ *Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir.*
 >
-> **Mateus, cap. 11, vers. 12 a 15**
+> **Mateus, cap. 11, vers. 12 a 15, ARC**
+{:.bible-multi}
 
 ###### 11
 
@@ -749,7 +750,8 @@ E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesu
 
 > ✝️ ▸ *Aqueles do vosso povo a quem a morte foi dada viverão de novo; aqueles que estavam mortos em meio a mim ressuscitarão. Despertai do vosso sono e entoai louvores a Deus, vós que habitais no pó; porque o orvalho que cai sobre vós é um orvalho de luz e porque arruinareis a Terra e o reino dos gigantes.*
 >
-> **Isaías, cap. 26, vers. 19**
+> **Isaías, cap. 26, vers. 19, ARC**
+{:.bible-multi}
 
 ###### 13
 
@@ -760,14 +762,17 @@ E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesu
 > ✝️ ▸ Mas quando o homem há morrido uma vez, quando seu corpo, separado de seu espírito, foi consumido, que é feito dele? Tendo morrido uma vez, poderia o homem reviver de novo? Nesta guerra em que me acho todos os dias da minha vida, espero que chegue a minha mutação.
 >
 > **Jó, cap. 14, vers. 10 e 14. Tradução de Lemaistre de Sacy**
+{:.bible-multi}
 
 > ✝️ ▸ Quando o homem morre, perde toda a sua força, expira. Depois, onde está ele? — Se o homem morre, viverá de novo? Esperarei todos os dias de meu combate, até que venha alguma mutação?
 >
 > **Idem. Tradução protestante de Osterwald**
+{:.bible-multi}
 
 > ☦️ Quando o homem está morto, vive sempre; acabando os dias da minha existência terrestre, esperarei, porquanto a ela voltarei de novo.
 >
 > **Idem. Versão da Igreja grega**
+{:.bible-multi}
 
 ###### 15
 
@@ -873,17 +878,20 @@ Não poderiam os Espíritos encarnar uma única vez em determinado globo e preen
 
 > ✝️ ▸ *Bem-aventurados os que choram, pois que serão consolados. Bem-aventurados os famintos e os sequiosos de justiça, pois que serão saciados. Bem-aventurados os que sofrem perseguição pela justiça, pois que é deles o Reino dos Céus.*
 >
-> **Mateus, cap. 5, vers. 4, 6 e 10**
+> **Mateus, cap. 5, vers. 4, 6 e 10, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *Bem-aventurados vós, que sois pobres, porque vosso é o Reino dos Céus. Bem-aventurados vós, que agora tendes fome, porque sereis saciados. Ditosos sois, vós que agora chorais, porque rireis.*
 >
-> **Lucas, cap. 6, vers. 20 e 21**
+> **Lucas, cap. 6, vers. 20 e 21, ARC**
+{:.bible-multi}
 
 > ✝️ ▸ *Mas ai de vós, ricos! que tendes no mundo a vossa consolação. Ai de vós que estais saciados, porque tereis fome. Ai de vós que agora rides, porque sereis constrangidos a gemer e a chorar.*
 >
-> **Lucas, cap. 6, vers. 24 e 25**
+> **Lucas, cap. 6, vers. 24 e 25, ARC**
+{:.bible-multi}
 
 #### Justiça das aflições
 
@@ -1247,7 +1255,8 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 
 > ✝️ ▸ *Vinde a mim, todos vós que estais aflitos e sobrecarregados, que Eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração e achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.*
 >
-> **Mateus, cap. 11, vers. 28 a 30**
+> **Mateus, cap. 11, vers. 28 a 30, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -1263,7 +1272,8 @@ Entretanto, faz depender de uma condição a sua assistência e a felicidade que
 
 > ✝️ ▸ *Se me amais, guardai os meus mandamentos; e Eu rogarei a meu Pai e Ele vos enviará outro Consolador, a fim de que fique eternamente convosco: O Espírito da Verdade, que o mundo não pode receber, porque o não vê e absolutamente o não conhece. Mas quanto a vós, conhecê-lo-eis, porque ficará convosco e estará em vós. Porém, o Consolador, que é o Santo Espírito, que meu Pai enviará em meu nome, vos ensinará todas as coisas e vos fará recordar tudo o que vos tenho dito.*
 >
-> **João, cap. 14, vers. 15 a 17 e 26**
+> **João, cap. 14, vers. 15 a 17 e 26, ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -1333,7 +1343,8 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 
 > ✝️ ▸ *Bem-aventurados os pobres de espírito, pois que deles é o Reino dos Céus.*
 >
-> **Mateus, cap. 5, vers. 3**
+> **Mateus, cap. 5, vers. 3, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -1371,14 +1382,16 @@ Dizendo que o Reino dos Céus é dos simples, quis Jesus significar que a ningu�
 > Ouvindo isso, os dez outros apóstolos se encheram de indignação contra os dois irmãos. Jesus, chamando-os para perto de si, lhes disse:
 > — *Sabeis que os príncipes das nações as dominam e que os grandes as tratam com império. Assim não deve ser entre vós; ao contrário, aquele que quiser tornar-se o maior, seja vosso servo; e aquele que quiser ser o primeiro entre vós seja vosso escravo; do mesmo modo que o Filho do Homem não veio para ser servido, mas para servir e dar a vida pela redenção de muitos.*
 >
-> **Mateus, cap. 20, vers. 20 a 28**
+> **Mateus, cap. 20, vers. 20 a 28, ARC**
+{:.bible-multi}
 
 ###### 05
 
 > ✝️ ▸ Jesus entrou em dia de sábado na casa de um dos principais fariseus para aí fazer a sua refeição. Os que lá estavam o observaram. Então, notando que os convidados escolhiam os primeiros lugares, propôs-lhes uma parábola, dizendo:
 > — *Quando fordes convidados para bodas, não tomeis o primeiro lugar, para que não suceda que, havendo entre os convidados uma pessoa mais considerada do que vós, aquele que vos haja convidado venha a dizer-vos: dai o vosso lugar a este, e vos vejais constrangidos a ocupar, cheios de vergonha, o último lugar. Quando fordes convidados, ide colocar-vos no último lugar, a fim de que, quando aquele que vos convidou chegar, vos diga: meu amigo, venha mais para cima. Isso então será para vós um motivo de glória, diante de todos os que estiverem convosco à mesa; porquanto todo aquele que se eleva será rebaixado e todo aquele que se abaixa será elevado.*
 >
-> **Lucas, cap. 14, vers. 1 e 7 a 11**
+> **Lucas, cap. 14, vers. 1 e 7 a 11, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -1397,7 +1410,8 @@ O Espiritismo aponta-nos outra aplicação do mesmo princípio nas encarnações
 > ✝️ ▸ Disse, então, Jesus estas palavras:
 > — *Graças te rendo, meu Pai, Senhor do céu e da Terra, por haveres ocultado estas coisas aos doutos e aos prudentes e por as teres revelado aos simples e aos pequenos.*
 >
-> **Mateus, cap. 11, vers. 25**
+> **Mateus, cap. 11, vers. 25, ARC**
+{:.bible-multi}
 
 ###### 08
 
@@ -1489,14 +1503,16 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 
 > ✝️ ▸ *Bem-aventurados os que têm puro o coração, porquanto verão a Deus.*
 >
-> **Mateus, cap. 5, vers. 8**
+> **Mateus, cap. 5, vers. 8, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, Jesus, vendo isso, zangou-se e lhes disse:
 — *Deixai que venham a mim as criancinhas e não as impeçais, porquanto o Reino dos Céus é para os que se lhes assemelham. Digo-vos, em verdade, que aquele que não receber o Reino de Deus como uma criança, nele não entrará.*E, depois de as abraçar, abençoou-as, impondo-lhes as mãos.
 >
-> **Marcos, cap. 10, vers. 13 a 16**
+> **Marcos, cap. 10, vers. 13 a 16, ARC**
+{:.bible-multi}
 
 ###### 03
 
@@ -1521,14 +1537,16 @@ O Espírito, pois, enverga temporariamente a túnica da inocência e, assim, Jes
 > ✝️ ▸ Aprendestes que foi dito aos antigos:
 > — *Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.*
 >
-> **Mateus, cap. 5, vers. 27 e 28**
+> **Mateus, cap. 5, vers. 27 e 28, ARC**
+{:.bible-multi}
 
 ###### 06
 
 A palavra adultério não deve absolutamente ser entendida aqui no sentido exclusivo da acepção que lhe é própria, porém, num sentido mais geral. Muitas vezes Jesus a empregou por extensão, para designar o mal, o pecado, todo e qualquer pensamento mau, como, por exemplo, nesta passagem:
 > ✝️ ▸ — *Porquanto se alguém se envergonhar de mim e das minhas palavras, dentre esta raça adúltera e pecadora, o Filho do Homem também se envergonhará dele, quando vier acompanhado dos santos anjos, na glória de seu Pai.*
 >
-> **Marcos, cap. 8, vers. 38**
+> **Marcos, cap. 8, vers. 38, ARC**
+{:.bible-multi}
 
 A verdadeira pureza não está somente nos atos; está também no pensamento, porquanto aquele que tem puro o coração, nem sequer pensa no mal. Foi o que Jesus quis dizer: Ele condena o pecado, mesmo em pensamento, porque é sinal de impureza. [^10]
 
@@ -1559,7 +1577,8 @@ Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso real
 > Ele, porém, respondeu:
 > — *Arrancada será toda planta que meu Pai celestial não plantou. Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.*
 >
-> **Mateus, cap. 15, vers. 1 a 20**
+> **Mateus, cap. 15, vers. 1 a 20, ARC**
+{:.bible-multi}
 
 ###### 09
 
@@ -1568,7 +1587,8 @@ Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso real
 > Disse-lhe, porém, o Senhor:
 > — *Vós outros, fariseus, pondes grande cuidado em limpar o exterior do copo e do prato; entretanto, o interior dos vossos corações está cheio de rapinas e de iniquidades. Insensatos que sois! aquele que fez o exterior não é o que faz também o interior?*
 >
-> **Lucas, cap. 11, vers. 37 a 40**
+> **Lucas, cap. 11, vers. 37 a 40, ARC**
+{:.bible-multi}
 
 ###### 10
 
@@ -1679,18 +1699,21 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 > ✝️ ▸ *… bem-aventurados os mansos, porque eles herdarão a terra …*
 >
 > **Mateus, cap. 5, vers. 5, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *… bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus …*
 >
 > **Mateus, cap. 5, vers. 9, ARC**
+{:.bible-multi}
 
 ###### 03
 
 > ✝️ ▸ *Ouvistes que foi dito aos antigos: Não matarás; mas qualquer que matar será réu de juízo. Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão será réu de juízo, e qualquer que chamar a seu irmão de raca será réu do Sinédrio; e qualquer que lhe chamar de louco será réu do fogo do inferno.*
 >
 > **Mateus, cap. 5, vers. 21-22, ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -1791,18 +1814,21 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 > ✝️ ▸ *… bem-aventurados os misericordiosos, porque eles alcançarão misericórdia …*
 >
 > **Mateus, cap. 5, vers. 7, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós. Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.*
 >
 > **Mateus, cap. 6, vers. 14-15, ARC**
+{:.bible-multi}
 
 ###### 03
 
 > ✝️ ▸ *Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão. Então, Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? Jesus lhe disse: Não te digo que até sete, mas até setenta vezes sete.*
 >
 > **Mateus, cap. 18, vers. 15, 21-22, ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -1819,6 +1845,7 @@ Há, porém, duas maneiras bem diferentes de perdoar: uma, grande, nobre, verdad
 > ✝️ ▸ *Concilia-te depressa com o teu adversário, enquanto estás no caminho com ele, para que não aconteça que o adversário te entregue ao juiz, e o juiz te entregue ao oficial, e te encerrem na prisão. Em verdade te digo que, de maneira nenhuma, sairás dali, enquanto não pagares o último ceitil.*
 >
 > **Mateus, cap. 5, vers. 25-26, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -1831,6 +1858,7 @@ Na prática do perdão, como, em geral, na do bem, não há somente um efeito mo
 > ✝️ ▸ *Portanto, se trouxeres a tua oferta ao altar e aí te lembrares de que teu irmão tem alguma coisa contra ti, deixa ali diante do altar a tua oferta, e vai reconciliar-te primeiro com teu irmão, e depois vem, e apresenta a tua oferta.*
 >
 > **Mateus, cap. 5, vers. 23-24, ARC**
+{:.bible-multi}
 
 ###### 08
 
@@ -1843,6 +1871,7 @@ Quando diz: “Ide reconciliar-vos com o vosso irmão, antes de depordes a vossa
 > ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho? Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, estando uma trave no teu? Hipócrita, tira primeiro a trave do teu olho e, então, cuidarás em tirar o argueiro do olho do teu irmão.*
 >
 > **Mateus, cap. 7, vers. 3-5, ARC**
+{:.bible-multi}
 
 ###### 10
 
@@ -1855,6 +1884,7 @@ Uma das insensatezes da Humanidade consiste em vermos o mal de outrem, antes de 
 > ✝️ ▸ *Não julgueis, para que não sejais julgados, porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos hão de medir a vós.*
 >
 > **Mateus, cap. 7, vers. 1-2, ARC**
+{:.bible-multi}
 
 ###### 12
 
@@ -1863,6 +1893,7 @@ Uma das insensatezes da Humanidade consiste em vermos o mal de outrem, antes de 
 > E, endireitando-se Jesus e não vendo ninguém mais do que a mulher, disse-lhe: *Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?*E ela disse: Ninguém, Senhor. E disse-lhe Jesus: *Nem eu também te condeno; vai-te e não peques mais.*
 >
 > **João, cap. 8, vers. 3-11, ARC**
+{:.bible-multi}
 
 ###### 13
 
@@ -1984,16 +2015,19 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 > ✝️ ▸ E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: Mestre, qual é o grande mandamento da lei? E Jesus disse-lhe: *Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. Este é o primeiro e grande mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. 40Desses dois mandamentos dependem toda a lei e os profetas.*
 >
 > **Mateus, cap. 22, vers. 34-40, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
 >
 > **Mateus, cap. 7, vers. 12, ARC**
+{:.bible-multi}
 
 > ✝️ ▸ *E como vós quereis que os homens vos façam, da mesma maneira fazei-lhes vós também.*
 >
 > **Lucas, cap. 6, vers. 31, ARC**
+{:.bible-multi}
 
 ###### 03
 
@@ -2004,6 +2038,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 > *Assim vos fará também meu Pai celestial, se do coração não perdoardes, cada um a seu irmão, as suas ofensas.*
 >
 > **Mateus, cap. 18, vers. 23-35, ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -2020,6 +2055,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 > E eles, ouvindo isso, maravilharam-se e, deixando-o, se retiraram.
 >
 > **Mateus, cap. 18, vers. 23-35 & Marcos, cap. 12, vers. 13-17, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -2162,16 +2198,19 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > ✝️ ▸ *Ouvistes que foi dito: Amarás o teu próximo e aborrecerás o teu inimigo. Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam e orai pelos que vos maltratam e vos perseguem, para que sejais filhos do Pai que está nos céus; porque faz que o seu sol se levante sobre maus e bons e a chuva desça sobre justos e injustos. Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo? E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim?*
 >
 > **Mateus, cap. 5, vers. 43-47, ARC**
+{:.bible-multi}
 
 > ✝️ ▸ *Porque vos digo que, se a vossa justiça não exceder a dos escribas e fariseus, de modo nenhum entrareis no Reino dos céus.*
 >
 > **Mateus, cap. 5, vers. 20, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *E, se amardes aos que vos amam, que recompensa tereis? Também os pecadores amam aos que os amam. E, se fizerdes bem aos que vos fazem bem, que recompensa tereis? Também os pecadores fazem o mesmo. E, se emprestardes àqueles de quem esperais tornar a receber, que recompensa tereis? Também os pecadores emprestam aos pecadores, para tornarem a receber outro tanto. Amai, pois, a vossos inimigos, e fazei o bem, e emprestai, sem nada esperardes, e será grande o vosso galardão, e sereis filhos do Altíssimo; porque ele é benigno até para com os ingratos e maus. Sede, pois, misericordiosos, como também vosso Pai é misericordioso.*
 >
 > **Lucas, cap. 6, vers. 32-36, ARC**
+{:.bible-multi}
 
 ###### 03
 
@@ -2212,6 +2251,7 @@ Outrora, sacrificavam-se vítimas sangrentas para aplacar os deuses infernais, q
 > ✝️ ▸ *Ouvistes que foi dito: Olho por olho e dente por dente. Eu, porém, vos digo que não resistais ao mal; mas, se qualquer te bater na face direita, oferece-lhe também a outra; e ao que quiser pleitear contigo e tirar-te a vestimenta, larga-lhe também a capa; e, se qualquer te obrigar a caminhar uma milha, vai com ele duas. Dá a quem te pedir e não te desvies daquele que quiser que lhe emprestes.*
 >
 > **Mateus, cap. 5, vers. 38-42, ARC**
+{:.bible-multi}
 
 ###### 08
 
@@ -2312,12 +2352,14 @@ O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos hom
 > ✝️ ▸ *Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tereis galardão junto de vosso Pai, que está nos céus. Quando, pois, deres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que já receberam o seu galardão. Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a tua direita, para que a tua esmola seja dada ocultamente, e teu Pai, que vê em secreto, te recompensará publicamente.*
 >
 > **Mateus, cap. 6, vers. 1-4, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ E, descendo ele do monte, seguiu-o uma grande multidão. E eis que veio um leproso [^14] e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo. E Jesus, estendendo a mão, tocou-o, dizendo: *Quero; sê limpo.*E logo ficou purificado da lepra. Disse-lhe, então, Jesus: *Olha, não o digas a alguém, mas vai, mostra-te ao sacerdote e apresenta a oferta que Moisés determinou, para lhes servir de testemunho.*
 >
 > **Mateus, cap. 8, vers. 1-4, ARC**
+{:.bible-multi}
 
 ###### 03
 
@@ -2350,6 +2392,7 @@ Em casa, é a mulher do mundo, porque a sua posição o exige. Ignoram, porém, 
 > ✝️ ▸ E, estando Jesus assentado defronte da arca do tesouro, observava a maneira como a multidão lançava o dinheiro na arca do tesouro; e muitos ricos depositavam muito. Vindo, porém, uma pobre viúva, depositou duas pequenas moedas, que valiam cinco réis. E, chamando os seus discípulos, disse-lhes: *Em verdade vos digo que esta pobre viúva depositou mais do que todos os que depositaram na arca do tesouro; porque todos ali depositaram do que lhes sobejava, mas esta, da sua pobreza, depositou tudo o que tinha, todo o seu sustento.*
 >
 > **Mateus, cap. 5, vers. 38-42 & Lucas, cap. 21, vers. 1-4, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -2366,12 +2409,14 @@ Aqueles cuja intenção está isenta de qualquer ideia pessoal, devem consolar-s
 > E, ouvindo isso um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado o que comer pão no Reino de Deus!
 >
 > **Lucas, cap. 14, vers. 12-15, ARC**
+{:.bible-multi}
 
 ###### 08
 
 > ✝️ ▸ “Quando derdes um festim”, disse Jesus, “não convideis para ele os vossos amigos, mas os pobres e os estropiados.” Estas palavras, absurdas se tomadas ao pé da letra, são sublimes, se lhes buscarmos o espírito. Não é possível que Jesus haja pretendido que, em vez de seus amigos, alguém reúna à sua mesa os mendigos da rua. Sua linguagem era quase sempre figurada e, para os homens incapazes de apanhar os delicados matizes do pensamento, precisava servir-se de imagens fortes, que produzissem o efeito de um colorido vivo. O âmago do seu pensamento se revela nesta proposição: “E sereis ditosos por não terem eles meios de vo-lo retribuir.” Quer dizer que não se deve fazer o bem tendo em vista uma retribuição, mas tão só pelo prazer de o praticar. Usando de uma comparação vibrante, disse: Convidai para os vossos festins os pobres, pois sabeis que eles nada vos podem retribuir. Por festins deveis entender, não os repastos propriamente ditos, mas a participação na abundância de que desfrutais.
 >
 > **Livro, cap. X, vers. Y, ARC**
+{:.bible-multi}
 
 Todavia, aquela advertência também pode ser aplicada em sentido mais literal. Quantos não convidam para suas mesas apenas os que podem, como eles dizem, fazer-lhes honra ou, a seu turno, convidá-los! Outros, ao contrário, encontram satisfação em receber os parentes e amigos menos felizes. Ora, quem não os conta entre os seus? Dessa forma, grande serviço, às vezes, se lhes presta, sem que o pareça. Aqueles, sem irem recrutar os cegos e os estropiados, praticam a máxima de Jesus, se o fazem por benevolência, sem ostentação, e sabem dissimular o benefício, por meio de uma sincera cordialidade.
 
@@ -2564,12 +2609,14 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 > ✝️ ▸ Disse-lhe ele: Quais? E Jesus disse: *Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho; honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo.*
 >
 > **Mateus, cap. 19, vers. 18-19 & Marcos, cap. 10, vers. 19 & Lucas, cap. 18, vers. 20, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o Senhor, teu Deus, te dá.
 >
 > **Decálogo: Exôdo, cap. 20; vers. 12, ARC**
+{:.bible-multi}
 
 #### Piedade filial
 
@@ -2598,6 +2645,7 @@ No entanto, ao verificar-se o advento de Jesus, eles já tinham mais desenvolvid
 > ✝️ ▸ E, falando ele ainda à multidão, eis que estavam fora sua mãe e seus irmãos, pretendendo falar-lhe. E disse-lhe alguém: Eis que estão ali fora tua mãe e teus irmãos, que querem falar-te. Porém ele, respondendo, disse ao que lhe falara: Quem é minha mãe? E quem são meus irmãos? E, estendendo a mão para os seus discípulos, disse: Eis aqui minha mãe e meus irmãos; porque qualquer que fizer a vontade de meu Pai, que está nos céus, este é meu irmão, e irmã, e mãe.
 >
 > **Mateus, cap. 12, vers. 46-50 & Marcos, cap. 3, vers. 20, 21, 31-35, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -2678,6 +2726,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 > *Então, eles também lhe responderão, dizendo: Senhor, quando te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou enfermo, ou na prisão e não te servimos? Então, lhes responderá, dizendo: Em verdade vos digo que, quando a um destes pequeninos o não fizestes, não o fizestes a mim. E irão estes para o tormento eterno, mas os justos, para a vida eterna.*
 >
 > **Mateus, cap. 25; vers. 31-46, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -2692,6 +2741,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 > Disse, pois, Jesus: *Vai e faze da mesma maneira.*
 >
 > **Lucas, cap. 10; vers. 25-37, ARC**
+{:.bible-multi}
 
 ###### 03
 
@@ -2708,6 +2758,7 @@ Naquele julgamento supremo, quais os considerandos da sentença? Sobre que se ba
 > ✝️ ▸ E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: Mestre, qual é o grande mandamento da lei? E Jesus disse-lhe: Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. Este é o primeiro e grande mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. Desses dois mandamentos dependem toda a lei e os profetas.
 >
 > **Mateus, cap. 22; vers. 34-40, ARC**
+{:.bible-multi}
 
 ###### 05
 
@@ -2722,6 +2773,7 @@ Caridade e humildade, tal a senda única da salvação. Egoísmo e orgulho, tal 
 > Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.
 >
 > **1Coríntios, cap. 13; vers. 1-7, 13, ARC**
+{:.bible-multi}
 
 ###### 07
 
@@ -2764,12 +2816,14 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 > ✝️ ▸ *Nenhum servo pode servir a dois senhores, porque ou há de aborrecer a um e amar ao outro ou se há de chegar a um e desprezar ao outro. Não podeis servir a Deus e a Mamom.*
 >
 > **Lucas, cap. 16, vers. 13, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ E eis que, aproximando-se dele um jovem, disse-lhe: Bom Mestre, que bem farei, para conseguir a vida eterna? E ele disse-lhe: *Por que me chamas bom? Não há bom, senão um só que é Deus. Se queres, porém, entrar na vida, guarda os mandamentos.*Disse-lhe ele: Quais? E Jesus disse: *Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho; honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo.*Disse-lhe o jovem: Tudo isso tenho guardado desde a minha mocidade; que me falta ainda? Disse-lhe Jesus: *Se queres ser perfeito, vai, vende tudo o que tens, dá-o aos pobres e terás um tesouro no céu; e vem e segue-me.*E o jovem, ouvindo essa palavra, retirou-se triste, porque possuía muitas propriedades. Disse, então, Jesus aos seus discípulos: *Em verdade vos digo que é difícil entrar um rico no Reino dos céus. E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*[^15]
 >
 > **Mateus cap. 19, vers. 16-24 & Lucas, cap. 18, vers. 18-25 & Marcos, cap. 10, vers. 17-25, ARC**
+{:.bible-multi}
 
 #### Preservar-se da avareza
 
@@ -2792,6 +2846,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 > E, levantando-se Zaqueu, disse ao Senhor: Senhor, eis que eu dou aos pobres metade dos meus bens; e, se em alguma coisa tenho defraudado alguém, o restituo quadruplicado. E disse-lhe Jesus: *Hoje, veio a salvação a esta casa, pois também este é filho de Abraão. Porque o Filho do Homem veio buscar e salvar o que se havia perdido.*
 >
 > **Lucas cap. 19, vers. 1-10, ARC**
+{:.bible-multi}
 
 #### Parábola do Mau Rico
 
@@ -2806,6 +2861,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 > *E disse ele: Rogo-te, pois, ó pai, que o mandes à casa de meu pai, pois tenho cinco irmãos, para que lhes dê testemunho, a fim de que não venham também para este lugar de tormento. Disse-lhe Abraão: Eles têm Moisés e os Profetas; ouçam-nos. E disse ele: Não, Abraão, meu pai; mas, se algum dos mortos fosse ter com eles, arrepender-se-iam. Porém Abraão lhe disse: Se não ouvem a Moisés e aos Profetas, tampouco acreditarão, ainda que algum dos mortos ressuscite.*
 >
 > **Lucas cap. 16, vers. 19-31, ARC**
+{:.bible-multi}
 
 #### Parábola dos Talentos
 
@@ -2946,6 +3002,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 > ✝️ ▸ *Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam e orai pelos que vos maltratam e vos perseguem … Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo? E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim? Sede vós, pois, perfeitos, como é perfeito o vosso Pai, que está nos céus.*
 >
 > **Mateus cap. 5, vers. 44, 46-48, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -3020,10 +3077,12 @@ Aquele que pode ser, com razão, qualificado de espírita verdadeiro e sincero, 
 > ✝️ ▸ Tendo Jesus saído de casa naquele dia, estava assentado junto ao mar. E ajuntou-se muita gente ao pé dele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia. E falou-lhe de muitas coisas por parábolas, dizendo: *Eis que o semeador saiu a semear. E, quando semeava, uma parte da semente caiu ao pé do caminho, e vieram as aves e comeram-na; e outra parte caiu em pedregais, onde não havia terra bastante, e logo nasceu, porque não tinha terra funda. Mas, vindo o sol, queimou-se e secou-se, porque não tinha raiz. E outra caiu entre espinhos, e os espinhos cresceram e sufocaram-na. E outra caiu em boa terra e deu fruto: um, a cem, outro, a sessenta, e outro, a trinta. Quem tem ouvidos para ouvir, que ouça.*
 >
 > **Mateus cap. 13, vers. 1-9, ARC**
+{:.bible-multi}
 
 > ✝️ ▸ *Escutai vós, pois, a parábola do semeador. Ouvindo alguém a palavra do Reino e não a entendendo, vem o maligno e arrebata o que foi semeado no seu coração; este é o que foi semeado ao pé do caminho; porém o que foi semeado em pedregais é o que ouve a palavra e logo a recebe com alegria; mas não tem raiz em si mesmo; antes, é de pouca duração; e, chegada a angústia e a perseguição por causa da palavra, logo se ofende; e o que foi semeado entre espinhos é o que ouve a palavra, mas os cuidados deste mundo e a sedução das riquezas sufocam a palavra, e fica infrutífera; mas o que foi semeado em boa terra é o que ouve e compreende a palavra; e dá fruto, e um produz cem, outro, sessenta, e outro, trinta.*
 >
 > **Mateus cap. 13, vers. 18-23, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -3136,6 +3195,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 > *E o rei, entrando para ver os convidados, viu ali um homem que não estava trajado com veste nupcial. E disse-lhe: Amigo, como entraste aqui, não tendo veste nupcial? E ele emudeceu. Disse, então, o rei aos servos: Amarrai-o de pés e mãos, levai-o e lançai-o nas trevas exteriores; ali, haverá pranto e ranger de dentes. Porque muitos são chamados, mas poucos, escolhidos.*
 >
 > **Mateus cap. 22, vers. 1-14, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -3160,12 +3220,14 @@ No entanto, não basta a ninguém ser convidado; não basta dizer-se cristão, n
 > ✝️ ▸ *Entrai pela porta estreita, porque larga é a porta, e espaçoso, o caminho que conduz à perdição, e muitos são os que entram por ela; E porque estreita é a porta, e apertado, o caminho que leva à vida, e poucos há que a encontrem.*
 >
 > **Mateus, cap. 7 vers. 13-14, ARC**
+{:.bible-multi}
 
 ###### 04
 
 > ✝️ ▸ E disse-lhe um: Senhor, são poucos os que se salvam? E ele lhe respondeu: *Porfiai por entrar pela porta estreita, porque eu vos digo que muitos procurarão entrar e não poderão. Quando o pai de família se levantar e cerrar a porta, e começardes a estar de fora e a bater à porta, dizendo: Senhor, Senhor, abre-nos; e, respondendo ele, vos disser: Não sei de onde vós sois, então, começareis a dizer: Temos comido e bebido na tua presença, e tu tens ensinado nas nossas ruas. E ele vos responderá: Digo-vos que não sei de onde vós sois; apartai-vos de mim, vós todos os que praticais a iniquidade. Ali, haverá choro e ranger de dentes, quando virdes Abraão, e Isaque, e Jacó, e todos os profetas no Reino de Deus e vós, lançados fora. E virão do Oriente, e do Ocidente, e do Norte, e do Sul e assentar-se-ão à mesa no Reino de Deus. E eis que derradeiros há que serão os primeiros; e primeiros há que serão os derradeiros.*
 >
 > **Lucas, cap. 13 vers. 23-30, ARC**
+{:.bible-multi}
 
 ###### 05
 
@@ -3182,18 +3244,21 @@ Todavia, de que delitos esta Humanidade se houvera feito culpada para merecer t�
 > ✝️ ▸ *Nem todo o que me diz: Senhor, Senhor! entrará no Reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus. Muitos me dirão naquele Dia: Senhor, Senhor, não profetizamos nós em teu nome? E, em teu nome, não expulsamos demônios? E, em teu nome, não fizemos muitas maravilhas? E, então, lhes direi abertamente: Nunca vos conheci; apartai-vos de mim, vós que praticais a iniquidade.*
 >
 > **Mateus, cap. 7 vers. 21-23, ARC**
+{:.bible-multi}
 
 ###### 07
 
 > ✝️ ▸ *Todo aquele, pois, que escuta estas minhas palavras e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha. E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e não caiu, porque estava edificada sobre a rocha. E aquele que ouve estas minhas palavras e as não cumpre, compará-lo-ei ao homem insensato, que edificou a sua casa sobre a areia. E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e caiu, e foi grande a sua queda.*
 >
 > **Mateus, cap. 7 vers. 21-23 & Lucas, cap. 6; vers. 46-49, ARC**
+{:.bible-multi}
 
 ###### 08
 
 > ✝️ ▸ *Qualquer, pois, que violar um destes menores mandamentos e assim ensinar aos homens será chamado o menor no Reino dos céus; aquele, porém, que os cumprir e ensinar será chamado grande no Reino dos céus.*
 >
 > **Mateus, cap. 5 vers. 19, ARC**
+{:.bible-multi}
 
 ###### 09
 
@@ -3208,12 +3273,14 @@ São eternas as palavras de Jesus, porque são a verdade. Constituem não só a 
 > ✝️ ▸ *E o servo que soube a vontade do seu senhor e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites. Mas o que a não soube e fez coisas dignas de açoites com poucos açoites será castigado. E a qualquer que muito for dado, muito se lhe pedirá, e ao que muito se lhe confiou, muito mais se lhe pedirá.*
 >
 > **Lucas, cap. 12, vers. 47-48, ARC**
+{:.bible-multi}
 
 ###### 11
 
 > ✝️ ▸ *E disse-lhe Jesus: Eu vim a este mundo para juízo, a fim de que os que não veem vejam e os que veem sejam cegos. Aqueles dos fariseus que estavam com ele, ouvindo isso, disseram-lhe: Também nós somos cegos? Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas como agora dizeis: Vemos, por isso, o vosso pecado permanece.*
 >
 > **João, cap. 9, vers. 39-41, ARC**
+{:.bible-multi}
 
 ###### 12
 
@@ -3240,12 +3307,14 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 > ✝️ ▸ E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? Ele, respondendo, disse-lhes: *Porque a vós é dado conhecer os mistérios do Reino dos céus, mas a eles não lhes é dado; porque àquele que tem se dará, e terá em abundância; mas aquele que não tem, até aquilo que tem lhe será tirado. Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem. E neles se cumpre a profecia de Isaías, que diz: Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
 > **Mateus, cap. 13, vers. 10-14, ARC**
+{:.bible-multi}
 
 ###### 14
 
 > ✝️ ▸ E disse-lhes: *Atendei ao que ides ouvir. Com a medida com que medirdes vos medirão a vós, e ser-vos-á ainda acrescentada. Porque ao que tem, ser-lhe-á dado; e, ao que não tem, até o que tem lhe será tirado.*
 >
 > **Marcos, cap. 4, vers. 24-25, ARC**
+{:.bible-multi}
 
 ###### 15
 
@@ -3292,6 +3361,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 > ✝️ ▸ E, quando chegaram à multidão, aproximou-se-lhe um homem, pondo-se de joelhos diante dele e dizendo: Senhor, tem misericórdia de meu filho, que é lunático e sofre muito; pois muitas vezes cai no fogo e, muitas vezes, na água; e trouxe-o aos teus discípulos e não puderam curá-lo. E Jesus, respondendo, disse: *Ó geração incrédula e perversa! Até quando estarei eu convosco e até quando vos sofrerei? Trazei-mo aqui.*E repreendeu Jesus o demônio, que saiu dele; e, desde aquela hora, o menino sarou. Então, os discípulos, aproximando-se de Jesus em particular, disseram: Porque não pudemos nós expulsá-lo? E Jesus lhes disse: *Por causa da vossa pequena fé; porque em verdade vos digo que, se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá — e há de passar; e nada vos será impossível.*
 >
 > **Mateus, cap. 17, vers. 14-20, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -3336,6 +3406,7 @@ A esse resultado conduz o Espiritismo, pelo que triunfa da incredulidade, sempre
 > E eles, passando pela manhã, viram que a figueira se tinha secado desde as raízes. E Pedro, lembrando-se, disse-lhe: Mestre, eis que a figueira que tu amaldiçoaste se secou. E Jesus, respondendo, disse-lhes: *Tende fé em Deus, porque em verdade vos digo que qualquer que disser a este monte: Ergue-te e lança-te no mar, e não duvidar em seu coração, mas crer que se fará aquilo que diz, tudo o que disser lhe será feito.*
 >
 > **Marcos, cap. 11, vers. 12-14 e 20-23, ARC**
+{:.bible-multi}
 
 ###### 09
 
@@ -3486,18 +3557,21 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 > ✝️ ▸ *Porque não há boa árvore que dê mau fruto, nem má árvore que dê bom fruto. Porque cada árvore se conhece pelo seu próprio fruto; pois não se colhem figos dos espinheiros, nem se vindimam uvas dos abrolhos. O homem bom, do bom tesouro do seu coração, tira o bem, e o homem mau, do mau tesouro do seu coração, tira o mal, porque da abundância do seu coração fala a boca.*
 >
 > **Lucas, cap. 6, vers. 43-45, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *Acautelai-vos, porém, dos falsos profetas, que vêm até vós vestidos como ovelhas, mas interiormente são lobos devoradores. Por seus frutos os conhecereis. Porventura, colhem-se uvas dos espinheiros ou figos dos abrolhos? Assim, toda árvore boa produz bons frutos, e toda árvore má produz frutos maus. Não pode a árvore boa dar maus frutos, nem a árvore má dar frutos bons. Toda árvore que não dá bom fruto corta-se e lança-se no fogo. Portanto, pelos seus frutos os conhecereis.*
 >
 > **Mateus, cap. 7, vers. 15-20, ARC**
+{:.bible-multi}
 
 ###### 03
 
 > ✝️ ▸ *E Jesus, respondendo, disse-lhes: Acautelai-vos, que ninguém vos engane, porque muitos virão em meu nome, dizendo: Eu sou o Cristo; e enganarão a muitos. E surgirão muitos falsos profetas e enganarão a muitos. E, por se multiplicar a iniquidade, o amor de muitos se esfriará. Mas aquele que perseverar até ao fim será salvo. Então, se alguém vos disser: Eis que o Cristo está aqui ou ali, não lhe deis crédito, porque surgirão falsos cristos e falsos profetas e farão tão grandes sinais e prodígios, que, se possível fora, enganariam até os escolhidos.*
 >
 > **Mateus, cap. 22, vers. 4-5, 11-13, 23-24 & Marcos, cap. 13, vers. 5-6, 21-22, ARC**
+{:.bible-multi}
 
 #### Missão dos profetas
 
@@ -3520,6 +3594,7 @@ Para o vulgo ignorante, todo fenômeno cuja causa é desconhecida passa por sobr
 > ✝️ ▸ Amados, não creiais em todo espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo.
 >
 > **1João, cap. 4, vers. 1, ARC**
+{:.bible-multi}
 
 ###### 07
 
@@ -3600,6 +3675,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 > Não mandei os profetas; todavia, eles foram correndo; não lhes falei a eles; todavia, eles profetizaram. Tenho ouvido o que dizem aqueles profetas, profetizando mentiras em meu nome, dizendo: Sonhei! Sonhei! Até quando sucederá isso no coração dos profetas que profetizam mentiras e que são só profetas do engano do seu coração? Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo: Qual é o peso do Senhor?, então, lhe dirás: Vós sois o peso, eu vos deixarei, diz o Senhor.
 >
 > **Jeremias, cap. 23, vers. 16-18, 21, 25-26, 33, ARC**
+{:.bible-multi}
 
 > 👻 ▸ É dessa passagem do profeta Jeremias que quero tratar convosco, meus amigos. Falando pela sua boca, diz Deus: “É a visão do coração deles que os faz falar.” Essas palavras claramente indicam que, já naquela época, os charlatães e os exaltados abusavam do dom de profecia e o exploravam. Abusavam, por conseguinte, da fé simples e quase cega do povo, predizendo, por dinheiro, coisas boas e agradáveis. Muito generalizada se achava essa espécie de fraude na nação judia, e fácil é de compreender-se que o pobre povo, em sua ignorância, nenhuma possibilidade tinha de distinguir os bons dos maus, sendo sempre mais ou menos ludibriado pelos pseudoprofetas, que não passavam de impostores ou fanáticos. Nada há de mais significativo do que estas palavras: “Eu não enviei esses profetas e eles correram por si mesmos; não lhes falei e eles profetizaram.” Mais adiante, diz: “Eu ouvi esses profetas que profetizavam a mentira em meu nome, dizendo: “Sonhei, sonhei.” Indicava assim um dos meios que eles empregavam para explorar a confiança de que eram objeto. A multidão, sempre crédula, não pensava em lhes contestar a veracidade dos sonhos, ou das visões; achava isso muito natural e constantemente os convidava a falar.
 >
@@ -3620,6 +3696,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 > ✝️ ▸ Então, chegaram ao pé dele os fariseus, tentando-o e dizendo-lhe: É lícito ao homem repudiar sua mulher por qualquer motivo? Ele, porém, respondendo, disse-lhes: *Não tendes lido que, no princípio, o Criador os fez macho e fêmea e disse: Portanto, deixará o homem pai e mãe e se unirá à sua mulher, e serão dois numa só carne? Assim não são mais dois, mas uma só carne. Portanto, o que Deus ajuntou não separe o homem.*Disseram-lhe eles: Então, por que mandou Moisés dar-lhe carta de divórcio e repudiá-la? Disse-lhes ele: *Moisés, por causa da dureza do vosso coração, vos permitiu repudiar vossa mulher; mas, ao princípio, não foi assim. Eu vos digo, porém, que qualquer que repudiar sua mulher, não sendo por causa de prostituição, e casar com outra, comete adultério; e o que casar com a repudiada também comete adultério.*
 >
 > **Mateus, cap. 19, vers. 3-9, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -3656,12 +3733,14 @@ Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério
 > ✝️ ▸ Ora, ia com ele uma grande multidão; e, voltando-se, disse-lhe: *Se alguém vier a mim e não aborrecer a seu pai, e mãe, e mulher, e filhos, e irmãos, e irmãs, e ainda também a sua própria vida, não pode ser meu discípulo. E qualquer que não levar a sua cruz e não vier após mim não pode ser meu discípulo. Assim, pois, qualquer de vós que não renuncia a tudo quanto tem não pode ser meu discípulo.*
 >
 > **Lucas, cap. 14, vers. 25-27, 33, ARC**
+{:.bible-multi}
 
 ###### 02
 
 > ✝️ ▸ *Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim.*
 >
 > **Mateus, cap. 10, vers. 37, ARC**
+{:.bible-multi}
 
 ###### 03
 
@@ -3682,18 +3761,21 @@ Estas notas encontram aplicação especial na interpretação das Santas Escritu
 > ✝️ ▸ *E todo aquele que tiver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou terras, por amor do meu nome, receberá cem vezes tanto e herdará a vida eterna.*
 >
 > **Mateus, cap. 19, vers. 29, ARC**
+{:.bible-multi}
 
 ###### 05
 
 > ✝️ ▸ E disse Pedro: Eis que nós deixamos tudo e te seguimos. E ele lhes disse: *Na verdade vos digo que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos pelo Reino de Deus e não haja de receber muito mais neste mundo e, na idade vindoura, a vida eterna.*
 >
 > **Lucas, cap. 18, vers. 28-30, ARC**
+{:.bible-multi}
 
 ###### 06
 
 > ✝️ ▸ Disse também outro: Senhor, eu te seguirei, mas deixa-me despedir primeiro dos que estão em minha casa. E Jesus lhe disse: *Ninguém que lança mão do arado e olha para trás é apto para o Reino de Deus.*
 >
 > **Lucas, cap. 9, vers. 61-62, ARC**
+{:.bible-multi}
 
 Sem discutir as palavras, deve-se aqui procurar o pensamento, que era, evidentemente, este: “Os interesses da vida futura prevalecem sobre todos os interesses e todas as considerações humanas”, porque esse pensamento está de acordo com a substância da doutrina de Jesus, ao passo que a ideia de uma renunciação à família seria a negação dessa doutrina.
 
@@ -3708,6 +3790,7 @@ Aqui, as coisas são consideradas apenas do ponto de vista terreno. O Espiritism
 > ✝️ ▸ E disse a outro: *Segue-me.*Mas ele respondeu: Senhor, deixa que primeiro eu vá enterrar meu pai. Mas Jesus lhe observou: *Deixa aos mortos o enterrar os seus mortos; porém tu, vai e anuncia o Reino de Deus.*
 >
 > **Lucas, cap. 9, vers. 59-60, ARC**
+{:.bible-multi}
 
 ###### 08
 
@@ -3722,12 +3805,14 @@ A vida espiritual é, com efeito, a verdadeira vida, é a vida normal do Espíri
 > ✝️ ▸ *Não cuideis que vim trazer a paz à terra; não vim trazer paz, mas espada; porque eu vim pôr em dissensão o homem contra seu pai, e a filha contra sua mãe, e a nora contra sua sogra. E, assim, os inimigos do homem serão os seus familiares.*
 >
 > **Mateus, cap. 10, vers. 34-36, ARC**
+{:.bible-multi}
 
 ###### 10
 
 > ✝️ ▸ *Vim lançar fogo na terra e que mais quero, se já está aceso? Importa, porém, que eu seja batizado com um certo batismo, e como me angustio até que venha a cumprir-se! Cuidais vós que vim trazer paz à terra? Não, vos digo, mas, antes, dissensão. Porque, daqui em diante, estarão cinco divididos numa casa: três contra dois, e dois contra três. O pai estará dividido contra o filho, e o filho, contra o pai, a mãe, contra a filha, e a filha, contra a mãe, a sogra, contra sua nora, e a nora, contra sua sogra.*
 >
 > **Lucas, cap. 12, vers. 49-53, ARC**
+{:.bible-multi}
 
 ###### 11
 
@@ -3782,18 +3867,21 @@ Essas palavras de Jesus devem, pois, entender-se com referência às cóleras qu
 > ✝️ ▸ *Nem se acende a candeia e se coloca debaixo do alqueire, mas, no velador, e dá luz a todos que estão na casa.*
 >
 > **Mateus, cap. 5, vers. 15, ARC**
+{:.bible-multi}
 
 ###### 02
 >
 > ✝️ ▸ *E ninguém, acendendo uma candeia, a cobre com algum vaso ou a põe debaixo da cama; mas põe-na no velador, para que os que entram vejam a luz. Porque não há coisa oculta que não haja de manifestar-se, nem escondida que não haja de saber-se e vir à luz.*
 >
 > **Lucas, cap. 8, vers. 16-17, ARC**
+{:.bible-multi}
 
 ###### 03
 
 > ✝️ ▸ E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? Ele, respondendo, disse-lhes: *Porque a vós é dado conhecer os mistérios do Reino dos céus, mas a eles não lhes é dado; porque àquele que tem se dará, e terá em abundância; mas aquele que não tem, até aquilo que tem lhe será tirado [^23]. Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem. E neles se cumpre a profecia de Isaías, que diz: Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis. Porque o coração deste povo está endurecido, e ouviu de mau grado com seus ouvidos e fechou os olhos, para que não veja com os olhos, e ouça com os ouvidos, e compreenda com o coração, e se converta, e eu o cure.*
 >
 > **Mateus, cap. 13, vers. 10-15, ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -3824,6 +3912,7 @@ O Espiritismo, hoje, projeta luz sobre uma imensidade de pontos obscuros; não a
 >✝️ ▸ Jesus enviou estes doze e lhes ordenou, dizendo: *Não ireis pelo caminho das gentes, nem entrareis em cidade de samaritanos; mas ide, antes, às ovelhas perdidas da casa de Israel; e, indo, pregai, dizendo: É chegado o Reino dos céus.*
 >
 >**Mateus, cap. 10, vers. 5-7, ARC**
+{:.bible-multi}
 
 ###### 09
 
@@ -3842,6 +3931,7 @@ Na época de Jesus e em consequência das ideias acanhadas e materiais então em
 >✝️ ▸ E aconteceu que, estando ele em casa sentado à mesa, chegaram muitos publicanos e pecadores e sentaram-se juntamente com Jesus e seus discípulos. E os fariseus, vendo isso, disseram aos seus discípulos: Por que come o vosso Mestre com os publicanos e pecadores? Jesus, porém, ouvindo, disse-lhes: *Não necessitam de médico os sãos, mas sim, os doentes.*
 >
 >**Mateus, cap. 9, vers. 10-12, ARC**
+{:.bible-multi}
 
 ###### 12
 
@@ -3862,12 +3952,14 @@ A mediunidade não implica necessariamente relações habituais com os Espírito
 >✝️ ▸ *Portanto, qualquer que me confessar diante dos homens, eu o confessarei diante de meu Pai, que está nos céus. Mas qualquer que me negar diante dos homens, eu o negarei também diante de meu Pai, que está nos céus.*
 >
 >**Mateus, cap. 10, vers. 32-33, ARC**
+{:.bible-multi}
 
 ###### 14
 
 >✝️ ▸ *Porque qualquer que de mim e das minhas palavras se envergonhar, dele se envergonhará o Filho do Homem, quando vier na sua glória e na do Pai e dos santos anjos.*
 >
 >**Lucas, cap. 9, vers. 26, ARC**
+{:.bible-multi}
 
 ###### 15
 
@@ -3886,15 +3978,20 @@ Assim será com os adeptos do Espiritismo. Pois que a doutrina que professam mai
 >✝️ ▸ *Bem-aventurados sereis quando os homens vos aborrecerem, e quando vos separarem, e vos injuriarem, e rejeitarem o vosso nome como mau, por causa do Filho do Homem. 23Folgai nesse dia, exultai, porque é grande o vosso galardão no céu, pois assim faziam os seus pais aos profetas.*
 >
 >**Lucas, &nbsp;cap. 06, vers. 22-23, ARC**
+{:.bible-multi}
 
 ###### 18
 
 >✝️ ▸ *E quem não toma a sua cruz e não segue após mim não é digno de mim. Quem achar a sua vida perdê-la-á; e quem perder a sua vida por amor de mim achá-la-á.*
 >
 >**Mateus, cap. 10, vers. 38-39, ARC**
+{:.bible-multi}
 >**Marcos, cap. 08, vers. 34-36, ARC**
+{:.bible-multi}
 >**Lucas, &nbsp;cap. 09, vers. 23-25, ARC**
+{:.bible-multi}
 >**João, &nbsp;&nbsp;cap. 12, vers. 25-26, ARC**
+{:.bible-multi}
 
 ###### 19
 
@@ -3913,6 +4010,7 @@ Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, 
 >✝️ ▸ *Pedi, e dar-se-vos-á; buscai e encontrareis; batei, e abrir-se-vos-á. 8Porque aquele que pede recebe; e o que busca encontra; e, ao que bate, se abre. 9E qual dentre vós é o homem que, pedindo-lhe pão o seu filho, lhe dará uma pedra? 10E, pedindo-lhe peixe, lhe dará uma serpente? 11Se, vós, pois, sendo maus, sabeis dar boas coisas aos vossos filhos, quanto mais vosso Pai, que está nos céus, dará bens aos que lhe pedirem?*
 >
 >**Mateus, cap. 07, vers. 38-39, ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -3953,6 +4051,7 @@ Tal o sentido das palavras: buscai e achareis; batei e abrir-se-vos-á.
 >*Mas buscai primeiro o Reino de Deus, e a sua justiça, e todas essas coisas vos serão acrescentadas. Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal.*
 >
 >**Mateus, cap. 06, vers. 19-21, 25-34, ARC**
+{:.bible-multi}
 
 ###### 07
 
@@ -3979,6 +4078,7 @@ A caridade e a fraternidade não se decretam em leis. Se uma e outra não estive
 >*E, em qualquer cidade ou aldeia em que entrardes, procurai saber quem nela seja digno e hospedai-vos aí até que vos retireis. E, quando entrardes nalguma casa, saudai-a; e, se a casa for digna, desça sobre ela a vossa paz; mas, se não for digna, torne para vós a vossa paz. E, se ninguém vos receber, nem escutar as vossas palavras, saindo daquela casa ou cidade, sacudi o pó dos vossos pés. Em verdade vos digo que, no Dia do Juízo, haverá menos rigor para o país de Sodoma e Gomorra do que para aquela cidade.*
 >
 >**Mateus, cap. 10, vers. 09-15 ARC**
+{:.bible-multi}
 
 ###### 11
 
@@ -4001,6 +4101,7 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 >✝️ ▸ *Curai os enfermos, limpai os leprosos, ressuscitai os mortos, expulsai os demônios; de graça recebestes, de graça dai.*
 >
 >**Mateus, cap. 10, vers. 09-15 ARC**
+{:.bible-multi}
 
 ###### 02
 
@@ -4013,8 +4114,11 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 >✝️ ▸ *Ai de vós, escribas e fariseus, hipócritas! Pois que devorais as casas das viúvas, sob pretexto de prolongadas orações; por isso, sofrereis mais rigoroso juízo.*
 >
 >**Mateus, cap. 23, vers. 14 ARC**
+{:.bible-multi}
 >**Lucas, cap. 20, vers. 45-47 ARC**
+{:.bible-multi}
 >**Marcos, cap. 12, vers. 38-40 ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -4031,7 +4135,9 @@ Ainda outro inconveniente apresentam as preces pagas: é que aquele que as compr
 >✝️ ▸ E entrou Jesus no templo de Deus, e expulsou todos os que vendiam e compravam no templo, e derribou as mesas dos cambistas e as cadeiras dos que vendiam pombas. E disse-lhes: *Está escrito: A minha casa será chamada casa de oração. Mas vós a tendes convertido em covil de ladrões.*
 >
 >**Mateus, cap. 21, vers. 12-13, ARC**
+{:.bible-multi}
 >**Marcos, cap. 11, vers. 15-18, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -4080,18 +4186,21 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 >E, orando, não useis de vãs repetições, como os gentios, que pensam que, por muito falarem, serão ouvidos. 8Não vos assemelheis, pois, a eles, porque vosso Pai sabe o que vos é necessário antes de vós lho pedirdes.
 >
 >**Mateus, cap. 06, vers. 05-08, ARC**
+{:.bible-multi}
 
 ###### 02
 
 >✝️ ▸ E, quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que vosso Pai, que está nos céus, vos perdoe as vossas ofensas. 26Mas, se vós não perdoardes, também vosso Pai, que está nos céus, vos não perdoará as vossas ofensas.
 >
 >**Marcos, cap. 11, vers. 25-26, ARC**
+{:.bible-multi}
 
 ###### 03
 
 >✝️ ▸ E disse também esta parábola a uns que confiavam em si mesmos, crendo que eram justos, e desprezavam os outros: 10Dois homens subiram ao templo, a orar; um, fariseu, e o outro, publicano. 11O fariseu, estando em pé, orava consigo desta maneira: Ó Deus, graças te dou, porque não sou como os demais homens, roubadores, injustos e adúlteros; nem ainda como este publicano. 12Jejuo duas vezes na semana e dou os dízimos de tudo quanto possuo. 13O publicano, porém, estando em pé, de longe, nem ainda queria levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, tem misericórdia de mim, pecador! 14Digo-vos que este desceu justificado para sua casa, e não aquele;
 >
 >**Lucas, cap. 18, vers. 09-14, ARC**
+{:.bible-multi}
 
 ###### 04
 
@@ -4104,6 +4213,7 @@ Jesus definiu claramente as qualidades da prece. Quando orardes, diz Ele, não v
 >✝️ ▸ Por isso, vos digo que tudo o que pedirdes, orando, crede que o recebereis e tê-lo-eis.
 >
 >**Marcos, cap. 11, vers. 24, ARC**
+{:.bible-multi}
 
 ###### 06
 
@@ -4174,6 +4284,7 @@ Está no pensamento o poder da prece, que por nada depende nem das palavras, nem
 >✝️ ▸ Mas, se eu ignorar o sentido da voz, serei bárbaro para aquele a quem falo, e o que fala será bárbaro para mim. Porque, se eu orar em língua estranha, o meu espírito ora bem, mas o meu entendimento fica sem fruto. Doutra maneira, se tu bendisseres com o espírito, como dirá o que ocupa o lugar de indouto o Amém sobre a tua ação de graças, visto que não sabe o que dizes? 17Porque realmente tu dás bem as graças, mas o outro não é edificado.
 >
 >**1Coríntios, cap. 14, vers. 11, 14, 16-17, ARC**
+{:.bible-multi}
 
 ###### 17
 
@@ -4293,6 +4404,7 @@ Para preencher o que de vago a concisão desta prece deixa na mente, a cada uma 
 >1\. *Pai nosso, que estás no céu, santificado seja o teu nome!*
 >
 >**Livro, cap. X, vers. Y, ARC**
+{:.bible-multi}
 
 Cremos em ti, Senhor, porque tudo revela o teu poder e a tua bondade. A harmonia do Universo dá testemunho de uma sabedoria, de uma prudência e de uma previdência que ultrapassam todas as faculdades humanas. Em todas as obras da Criação, desde o raminho de erva minúscula e o pequenino inseto, até os astros que se movem no Espaço, o nome se acha inscrito de um ser soberanamente grande e sábio. Por toda parte se nos depara a prova de paternal solicitude. Cego, portanto, é aquele que te não reconhece nas tuas obras, orgulhoso aquele que te não glorifica e ingrato aquele que te não rende graças.
 
@@ -4382,6 +4494,7 @@ Nota – Aqui, podem formular-se os agradecimentos que se queiram dirigir a Deus
 >*Porque onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles.*
 >
 >**Mateus, cap. 18, vers. 20, ARC**
+{:.bible-multi}
 
 ###### 05. Prefácio
 
@@ -4510,6 +4623,7 @@ que a vossa bondosa influência nos penetre a alma; fazei sintamos que um amigo 
 >*Ai de vós, escribas e fariseus, hipócritas! Pois que limpais o exterior do copo e do prato, mas o interior está cheio de rapina e de iniquidade. Fariseu cego! Limpa primeiro o interior do copo e do prato, para que também o exterior fique limpo. Ai de vós, escribas e fariseus, hipócritas! Pois que sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda imundícia. Assim, também vós exteriormente pareceis justos aos homens, mas interiormente estais cheios de hipocrisia e de iniquidade.*
 >
 >**Mateus, cap. 23, vers. 25-28, ARC**
+{:.bible-multi}
 
 ###### 16. Prefácio
 
@@ -4793,10 +4907,12 @@ Não desejar mal aos seus inimigos é ser apenas meio caridoso. A verdadeira car
 > Bem-aventurados sois vós quando vos injuriarem, e perseguirem, e, mentindo, disserem todo o mal contra vós, por minha causa. Exultai e alegrai-vos, porque é grande o vosso galardão nos céus; porque assim perseguiram os profetas que foram antes de vós.
 >
 >**Mateus, cap. 05, vers. 06, 10-12, ARC**
+{:.bible-multi}
 
 > E não temais os que matam o corpo e não podem matar a alma; temei, antes, aquele que pode fazer perecer no inferno a alma e o corpo.
 >
 >**Mateus, cap. 10, vers. 28, ARC**
+{:.bible-multi}
 
 ###### 51. Prefácio
 

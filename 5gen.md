@@ -22,25 +22,16 @@ layout: template-5gen
 
 ### 0-01. 🗂️ Folha de rosto
 
-|  |
 |:---:|
 | Ética Espírita |
-|  |
 | 🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese){:target="ext"} |
-|  |
 | Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
-|  |
 | Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
-|  |
 | por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
-|  |
 | Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}. |
-|  |
 | Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"} |
-|  |
 | Modificado para o consumo digital por Sergio de |
 | ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
-|  |
 
 ### 0-02. 🗂️ Introdução
 
@@ -2316,8 +2307,7 @@ O quadro comparativo aqui abaixo, em o qual se acham resumidos os fenômenos que
 | III\. PERÍODO DE TRANSIÇÃO – As águas cobrem toda a superfície do globo\. – Primeiros depósitos de sedimentos formados pelas águas\. – Calor úmido\. – O Sol começa a atravessar a atmosfera brumosa\. – Primeiros seres organizados da mais rudimentar constituição\. – Liquens, musgos, fetos, licopódios, plantas herbáceas\. Vegetação colossal\. – Primeiros animais marinhos: zoófitos, polipeiros, crustáceos\. — Depósitos de hulha\. | 3o DIA – As águas que estão debaixo do firmamento se reúnem; aparece o elemento árido\. – A terra e os mares\. – As plantas\. |
 | IV\. PERÍODO SECUNDÁRIO – Superfície da Terra pouco acidentada; águas pouco profundas e paludosas\. Temperatura menos ardente; atmosfera mais depurada\. Consideráveis depósitos de calcários pelas águas\. – Vegetação menos colossal; novas espécies; plantas lenhosas; primeiras árvores\. – Peixes; cetáceos; animais aquáticos e anfíbios\.  | 4o DIA – O Sol, a Lua e as estrelas\. |
 | V\. PERÍODO TERCIÁRIO – Grandes intumescimentos da crosta sólida; formação dos continentes\. Retirada das águas para os lugares baixos; formação dos mares\. – Atmosfera depurada; temperatura atual produzida pelo calor solar\. – Gigantescos animais terrestres\. Vegetais e animais da atualidade\. Pássaros\. | 5o DIA – Os peixes e os pássaros\. |
-| DILÚVIO UNIVERSAL |  |
-| VI\. PERÍODO QUATERNÁRIO OU PÓS\-DILUVIANO – Terrenos de aluvião\. – Vegetais e animais da atualidade\. – O homem\. | 6o DIA – Os animais terrestres\. – O homem |
+| DILÚVIO UNIVERSAL | VI\. PERÍODO QUATERNÁRIO OU PÓS\-DILUVIANO – Terrenos de aluvião\. – Vegetais e animais da atualidade\. – O homem\. | 6o DIA – Os animais terrestres\. – O homem |
 
 ######  06
 
