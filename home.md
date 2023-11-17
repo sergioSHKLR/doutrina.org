@@ -12,7 +12,7 @@ layout: template-generic
 *[ARC]: Almeida Revista e Corrigida
 *[MD]: Markdown file
 
-# 🏠 Bem-vindo!
+# 🏠 Início
 
 **Pré-release Alpha <kbd>11.23</kbd>. Em desenvolvimento diário. Atualização mais recente em 14 Nov 2023.**
 
