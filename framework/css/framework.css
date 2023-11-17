@@ -491,11 +491,6 @@ details>p>a {
     background-color: transparent;
 }
 
-.dark-mode img,
-.dark-mode figcaption {
-    background-color: rgba(255, 255, 255, .1) !important
-}
-
 .dark-mode #col2-body a {
     color: #66B3FF !important;
 }
@@ -549,7 +544,6 @@ td {
     max-width: 33%;
     padding: 10px;
     font-family: inherit;
-    border: 1px solid currentColor;
     background-color: rgba(238, 238, 238, .25);
 }
 
@@ -573,11 +567,6 @@ th {
 ul,
 li {
     line-height: 1.7;
-}
-
-img,
-figcaption {
-    background-color: rgba(238, 238, 238, .25);
 }
 
 iframe {

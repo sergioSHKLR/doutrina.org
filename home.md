@@ -32,7 +32,8 @@ Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando 
 
 Os botões ao topo da página servem aos seguintes propósitos:
 
-<div style="padding: 10px; border: 1px solid gainsboro">
+<div style="padding: 10px; border: 1px solid gainsboro;  background-color: rgba(238, 238, 238, .25);
+">
 <p class="hidebtn2"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">menu</span>&nbsp;-&nbsp;Mostrar/esconder Coluna 1</p>
 <p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">language</span>&nbsp;-&nbsp;Abrir página do Wikipédia</p>
 <p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">book_2</span>&nbsp;-&nbsp;Abrir página do Wikicionário</p>
