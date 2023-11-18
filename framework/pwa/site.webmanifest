@@ -48,8 +48,9 @@
   "screenshots": [
     {
       "src": "screenshot.png",
-      "sizes": "1280x640",
-      "type": "image/png"
+      "sizes": "2560x1600",
+      "type": "image/png",
+      "purpose": "wide"
     }
   ],
   "features": [

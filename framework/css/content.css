@@ -1,286 +1,232 @@
 #col2-body {
-    font-family: 'Roboto Slab', serif;
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 1.7;
-    box-sizing: border-box;
-    padding: 0 30px;
+box-sizing:border-box;
+font-family:'Roboto Slab',serif;
+font-size:16px;
+font-weight:300;
+line-height:1.7;
+padding:0 30px
 }
 
 #col2-body>p>img {
-    max-width: 100%;
-    border: 1px solid #ccc;
-    padding: 10px;
+border:1px solid #ccc;
+max-width:100%;
+padding:10px
 }
 
 .box-center {
-    text-align: center;
-}
-
-h1,
-h2 {
-    border-bottom: 1px solid #ccc;
-}
-
-h3,
-h4 {
-    border-bottom: 1px solid #ccc;
+text-align:center
 }
 
 h6 {
-    border-top: 1px solid #ccc;
-    margin-bottom: -20px;
-    padding-top: 10px;
+border-top:1px solid #ccc;
+margin-bottom:-20px;
+padding-top:10px
 }
 
 blockquote {
-    padding: 1px 20px;
-    margin-inline-start: 10px;
-    margin-inline-end: 10px;
+background-color:aliceblue;
+border-color:dodgerblue!important;
+border-left:4px solid;
+margin-inline-end:10px;
+margin-inline-start:10px;
+padding:1px 20px
 }
 
 blockquote>p>img {
-    vertical-align: middle;
+vertical-align:middle
 }
-
-/*
-blockquote.spirit-multi>p:nth-child(1)::before {
-    content: "👻 ▸ ";
-    font-style: normal !important;
-}
-
-blockquote.spirit>p:nth-child(1)::before {
-    content: "👻 ▸ ";
-    font-style: normal !important;
-}
-
-blockquote.bible>p:nth-child(1)::before {
-    content: "✝️ ▸ ";
-    font-style: normal;
-}
-
-blockquote.bible-multi>p:nth-child(1)::before {
-    content: "✝️ ▸ ";
-    font-style: normal;
-}
-
-/* BIBLE */
 
 table {
-    border: 1px solid #ccc;
-    background-color: rgba(255, 255, 255, .5) !important
+background-color:rgba(255,255,255,.5)!important;
+border:1px solid #ccc;
+border:1px solid;
+border-collapse:collapse;
+font-family:inherit;
+max-width:100%
 }
 
 #col3-link3 {
-    display: none;
+display:none
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-size: 20px;
+h2,h3,h4,h5,h6 {
+font-size:20px
 }
 
 strong {
-    font-weight: 400;
-    background-color: transparent !important;
-}
-
-/*----- SPIRIT -----*/
-
-blockquote {
-    border-left: 4px solid;
-    border-color: dodgerblue !important;
-    background-color: aliceblue;
-}
-
-blockquote>p,
-blockquote>p>a {
-    background-color: transparent !important;
+background-color:transparent!important;
+font-weight:400
 }
 
 blockquote.spirit-multi>p:last-child {
-    text-align: right;
-    padding-right: 20px;
-    font-style: normal;
-    font-weight: 400;
+font-style:normal;
+font-weight:400;
+padding-right:20px;
+text-align:right
 }
 
 p#author {
-    background-color: transparent;
-    padding-right: 20px;
-    font-style: normal;
-    font-weight: 400 !important;
+background-color:transparent;
+font-style:normal;
+font-weight:400!important;
+padding-right:20px
 }
 
-blockquote.spirit,
-blockquote.spirit-multi {
-    border-left: 4px solid dodgerblue !important;
-    background-color: #F4FAFF;
+blockquote.spirit,blockquote.spirit-multi {
+background-color:#F4FAFF;
+border-left:4px solid dodgerblue!important
 }
 
-/*----- DARKMODE SPIRIT -----*/
-.dark-mode blockquote {
-    background-color: #082440;
+blockquote.bible,blockquote.bible-multi {
+background-color:#FCF4FC!important;
+border-left:4px solid orchid!important
 }
 
-.dark-mode blockquote.spirit {
-    background-color: #082440;
+.dark-mode blockquote.bible,.dark-mode blockquote.bible-multi {
+background-color:#371C36!important
 }
 
-.dark-mode blockquote.spirit,
-.dark-mode blockquote.spirit-multi {
-    background-color: #082440;
-}
-
-/*----- BIBLE -----*/
-blockquote.bible-multi>p:nth-child(2) {
-    text-align: right;
-    padding: 0px 20px;
-    font-style: normal !important;
-    font-weight: 400;
-}
-
-blockquote.spirit-multi>p:nth-child(2) {
-    text-align: right;
-    padding: 0px 20px;
-    font-style: normal !important;
-    font-weight: 400;
-}
-
-blockquote.bible,
-blockquote.bible-multi {
-    border-left: 4px solid orchid !important;
-    background-color: #FCF4FC !important;
-}
-
-blockquote.spirit>p,
-blockquote.spirit>p>a {
-    background-color: transparent !important;
-}
-
-/*----- DARK MODE BIBLE ----*/
-.dark-mode blockquote.bible,
-.dark-mode blockquote.bible-multi {
-    background-color: #371C36 !important;
-}
-
-/*------ GREY ------*/
 blockquote.grey {
-    border-left: 4px solid;
-    border-color: #ccc;
-    background-color: #eee;
+background-color:#eee;
+border-color:#ccc;
+border-left:4px solid
 }
 
-blockquote.grey>p,
-blockquote.grey>p>a {
-    background-color: transparent !important;
-}
-
-/*------ GREY DARK MODE ------*/
 .dark-mode blockquote.grey {
-    border-color: #ccc;
-    background-color: #383838;
+background-color:#383838;
+border-color:#ccc
 }
-
-.dark-mode blockquote.grey>p,
-.dark-mode blockquote.grey>p>a {
-    background-color: transparent !important;
-}
-
-/*------ LINKS -----*/
 
 a:any-link {
-    text-decoration: none !important;
-    color: #3366cc;
+color:#3366cc;
+text-decoration:none!important
 }
 
-#col1-head a:any-link,
-#col2-head a:any-link,
-#col1-body a:any-link,
-#col3-head a:any-link {
-    color: currentColor
+#col1-head a:any-link,#col2-head a:any-link,#col1-body a:any-link,#col3-head a:any-link {
+color:currentColor
 }
 
 #col2-body a:hover {
-    text-underline-offset: 3px !important;
-    text-decoration: underline !important;
+text-decoration:underline!important;
+text-underline-offset:3px!important
 }
 
-/*------ EM ------*/
 blockquote em {
-    color: crimson;
+color:crimson
 }
 
 em {
-    font-style: italic;
-    background-color: transparent;
-    color: currentColor;
+background-color:transparent;
+color:currentColor;
+font-style:italic
 }
 
 .dark-mode blockquote em {
-    color: #F797AA;
+color:#F797AA
 }
 
 p.cursive {
-    font-family: 'Zeyada' !important;
-    font-size: 60px;
-    margin-top: -20px;
+font-family:'Zeyada'!important;
+font-size:60px;
+margin-top:-20px
 }
 
 kbd {
-    padding: 3px;
-    border-radius: 3px;
-    border: 1px solid gainsboro;
-    background-color: whitesmoke;
-    vertical-align: bottom;
+background-color:whitesmoke;
+border:1px solid gainsboro;
+border-radius:3px;
+padding:3px;
+vertical-align:bottom;
+white-space:nowrap
 }
 
 .dark-mode kbd {
-    padding: 3px;
-    border-radius: 3px;
-    border: 1px solid gainsboro;
-    background-color: whitesmoke;
-    color: #000 !important
+background-color:whitesmoke;
+background-color:#333;
+border:1px solid gainsboro;
+border-radius:3px;
+color:#000!important;
+color:#fff!important;
+padding:3px
 }
 
 pre {
-    background-color: whitesmoke;
-    padding: 10px;
-    border: 1px solid gainsboro;
+background-color:whitesmoke;
+background-color:rgba(238,238,238,.25);
+border:1px solid gainsboro;
+border:1px solid;
+border-collapse:collapse;
+font-family:'Roboto Mono';
+max-width:100%;
+padding:10px
 }
 
-.dark-mode pre,
-.dark-mode table {
-    background-color: rgba(255, 255, 255, .1) !important;
+.dark-mode pre,.dark-mode table {
+background-color:rgba(255,255,255,.1)!important
 }
 
-.dark-mode kbd {
-    background-color: #333;
-    color: #fff !important;
-}
-
-.hidebtn,
-.hidebtn2 {
-    font-size: 16px;
-    vertical-align: bottom !important;
+.hidebtn,.hidebtn2 {
+font-size:16px;
+vertical-align:bottom!important
 }
 
 blockquote.image {
-    padding: 10px;
-    border: 1px solid gainsboro !important;
-    font-size: 12px;
-    text-align: center;
-    background-color: rgba(238, 238, 238, .25);
+background-color:rgba(238,238,238,.25);
+border:1px solid gainsboro!important;
+font-size:12px;
+padding:10px;
+text-align:center
 }
 
 blockquote.image img {
-    width: 100%;
+width:100%
 }
 
-tr.rosto,
-td.rosto {
-    border: none !important
+tr.rosto,td.rosto {
+border:none!important
+}
+
+tr,td {
+background-color:rgba(238,238,238,.25);
+font-family:inherit;
+max-width:33%;
+padding:10px;
+text-align:center
+}
+
+th {
+background-color:rgba(238,238,238,.25);
+border:1px solid currentColor;
+font-family:inherit;
+font-weight:bold;
+padding:10px;
+text-align:center;
+white-space:nowrap
+}
+
+.dark-mode table,.dark-mode th,.dark-mode tr,.dark-mode td {
+background-color:#333
+}
+
+ul,li {
+line-height:1.7
+}
+
+h1,h2,h3,h4 {
+border-bottom:1px solid #ccc
+}
+
+blockquote>p,blockquote>p>a,blockquote.spirit>p,blockquote.spirit>p>a,blockquote.grey>p,blockquote.grey>p>a,.dark-mode blockquote.grey>p,.dark-mode blockquote.grey>p>a {
+background-color:transparent!important
+}
+
+.dark-mode blockquote,.dark-mode blockquote.spirit,.dark-mode blockquote.spirit,.dark-mode blockquote.spirit-multi {
+background-color:#082440
+}
+
+blockquote.bible-multi>p:nth-child(2),blockquote.spirit-multi>p:nth-child(2) {
+font-style:normal!important;
+font-weight:400;
+padding:0 20px;
+text-align:right
 }

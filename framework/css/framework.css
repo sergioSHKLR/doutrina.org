@@ -10,7 +10,7 @@
     /*
     background-color: var(--white);
     color: var(--black); */
-    border-color: var(--grey) !important;
+    border-color: var(--grey);
     box-sizing: border-box;
     border-collapse: collapse;
 }
@@ -95,19 +95,19 @@ body {
 }
 
 .mr-10 {
-    margin-right: 10px !important
+    margin-right: 10px
 }
 
 .mr-20 {
-    margin-right: 20px !important
+    margin-right: 20px
 }
 
 .mr-23 {
-    margin-right: 23px !important
+    margin-right: 23px
 }
 
 .mr-30 {
-    margin-right: 30px !important
+    margin-right: 30px
 }
 
 .mr-50 {
@@ -185,7 +185,7 @@ body {
 
 /* ----- BORDER  ----- */
 .border-0 {
-    border: none !important
+    border: none
 }
 
 .border {
@@ -218,11 +218,11 @@ body {
 }
 
 .border-square {
-    border-radius: 0px !important;
+    border-radius: 0px;
 }
 
 .border-round {
-    border-radius: 5px !important;
+    border-radius: 5px;
 }
 
 /* ----- OVERFLOW  ----- */
@@ -291,8 +291,11 @@ body {
 }
 
 .ff-mono {
-    font-family: 'Roboto Mono';
+    font-family: 'Roboto Mono', monospace;
 }
+
+/* ----- FONT COLOR ----- */
+.fc-cc {color: currentColor}
 
 /* ----- POSITION  ----- */
 .pos-fixed {
@@ -328,11 +331,11 @@ body {
 }
 
 .right-0 {
-    right: 0px !important
+    right: 0px
 }
 
 .right-23 {
-    right: 23px !important
+    right: 23px
 }
 
 .right-33 {
@@ -376,7 +379,7 @@ body {
 
 /* ----- AUTO-WIDTH  ----- */
 .w-auto {
-    width: calc(((100vw - 23px) * .5) - var(--sidebar-width) * .5) !important
+    width: calc(((100vw - 23px) * .5) - var(--sidebar-width) * .5)
 }
 
 /* ----- SIDEBAR  ----- */
@@ -396,7 +399,7 @@ body {
 /* ----- LINKS  ----- */
 
 .underline-0 a {
-    text-decoration: none !important;
+    text-decoration: none;
     color: currentColor
 }
 
@@ -415,7 +418,7 @@ body {
 */
 
 .outline-0 {
-    outline: none !important;
+    outline: none;
 }
 
 /* ----- BUTTON  ----- */
@@ -450,7 +453,6 @@ span.material-symbols-outlined {
     font-family: 'Material Symbols Outlined';
     position: relative;
     top: -5px;
-    font-weight: 200 !important;
 }
 
 /* ----- DETAILS SUMMARY  ----- */
@@ -492,7 +494,7 @@ details>p>a {
 }
 
 .dark-mode #col2-body a {
-    color: #66B3FF !important;
+    color: #66B3FF;
 }
 
 /* ----- HIDE SHOW  ----- */
@@ -506,7 +508,7 @@ details>p>a {
 
 /* ----- SHADES  ----- */
 .shades-on {
-    filter: blur(0px) grayscale(1) brightness(0) !important;
+    filter: blur(0px) grayscale(1) brightness(0);
 }
 
 .shades-off {
@@ -521,56 +523,6 @@ img#israel {
     width: 141px;
     transform: rotate(45deg);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-table {
-    max-width: 100%;
-    border: 1px solid;
-    border-collapse: collapse;
-    font-family: inherit;
-}
-
-pre {
-    max-width: 100%;
-    border: 1px solid;
-    border-collapse: collapse;
-    font-family: 'Roboto Mono';
-    background-color: rgba(238, 238, 238, .25);
-}
-
-tr,
-td {
-    text-align: center;
-    max-width: 33%;
-    padding: 10px;
-    font-family: inherit;
-    background-color: rgba(238, 238, 238, .25);
-}
-
-th {
-    text-align: center !important;
-    font-weight: bold;
-    padding: 10px;
-    white-space: nowrap;
-    font-family: inherit;
-    border: 1px solid currentColor;
-    background-color: rgba(238, 238, 238, .25);
-}
-
-.dark-mode table,
-.dark-mode th,
-.dark-mode tr,
-.dark-mode td {
-    background-color: #333;
-}
-
-ul,
-li {
-    line-height: 1.7;
-}
-
-kbd {
-    white-space: nowrap
 }
 
 .is-dark {
