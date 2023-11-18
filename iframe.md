@@ -9,7 +9,6 @@ body {
     background-color: currentColor;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 
 img {
