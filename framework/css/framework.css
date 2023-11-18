@@ -254,7 +254,9 @@ body {
     font-size: 12px;
 }
 
-.fs-5 {font-size: 10px;}
+.fs-5 {
+    font-size: 10px;
+}
 
 /* ----- FONT WEIGHT  ----- */
 .fw-normal {
@@ -295,7 +297,9 @@ body {
 }
 
 /* ----- FONT COLOR ----- */
-.fc-cc {color: currentColor}
+.fc-cc {
+    color: currentColor
+}
 
 /* ----- POSITION  ----- */
 .pos-fixed {
@@ -526,6 +530,6 @@ img#israel {
 }
 
 .is-dark {
-  filter: invert(.87);
+    filter: invert(.87);
 }
 
