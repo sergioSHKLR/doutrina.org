@@ -49,9 +49,7 @@
     {
       "src": "screenshot.png",
       "sizes": "2560x1600",
-      "type": "image/png",
-      "form_factor": "wide"
-    }
+      "type": "image/png"    }
   ],
   "features": [
     "Cross Platform",
