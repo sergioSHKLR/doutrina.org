@@ -50,7 +50,7 @@
       "src": "screenshot.png",
       "sizes": "2560x1600",
       "type": "image/png",
-      "purpose": "wide"
+      "form_factor": "wide"
     }
   ],
   "features": [
