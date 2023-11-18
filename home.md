@@ -30,7 +30,7 @@ Ficaríamos muito agradecidos com seu feedback! Para tal use a página <kbd>💌
 
 🙏🏼 Que assim seja!
 
-![bitmoji](../framework/baldy.webp){:style="all: unset; background-color: transparent !important ; width: 100px; transform: scaleX(-1)"}
+<img src="../framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent !important ; width: 100px; transform: scaleX(-1)">
 
 Sergio
 {:.cursive}
