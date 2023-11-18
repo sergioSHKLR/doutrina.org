@@ -8,7 +8,7 @@
 }
 
 #col2-body>p>img {
-    border: 1px solid #ccc;
+    border: 1px solid var(--grey);
     max-width: 100%;
     padding: 10px
 }
@@ -18,7 +18,7 @@
 }
 
 h6 {
-    border-top: 1px solid #ccc;
+    border-bottom: 1px solid var(--grey);
     margin-bottom: -20px;
     padding-top: 10px
 }
@@ -37,9 +37,7 @@ blockquote>p>img {
 }
 
 table {
-    background-color: rgba(255, 255, 255, .5) !important;
-    border: 1px solid #ccc;
-    border: 1px solid;
+    border-bottom: 1px solid var(--grey);
     border-collapse: collapse;
     font-family: inherit;
     max-width: 100%
@@ -88,21 +86,12 @@ blockquote.bible-multi {
     border-left: 4px solid orchid !important
 }
 
-.dark-mode blockquote.bible,
-.dark-mode blockquote.bible-multi {
-    background-color: #371C36 !important
-}
-
 blockquote.grey {
     background-color: #eee;
-    border-color: #ccc;
+    border-color: solid var(--grey);
     border-left: 4px solid
 }
 
-.dark-mode blockquote.grey {
-    background-color: #383838;
-    border-color: #ccc
-}
 
 a:any-link {
     color: #3366cc;
@@ -131,10 +120,6 @@ em {
     font-style: italic
 }
 
-.dark-mode blockquote em {
-    color: #F797AA
-}
-
 p.cursive {
     font-family: 'Zeyada' !important;
     font-size: 60px;
@@ -142,38 +127,19 @@ p.cursive {
 }
 
 kbd {
-    background-color: whitesmoke;
-    border: 1px solid gainsboro;
+    border: 1px solid var(--grey);
     border-radius: 3px;
     padding: 3px;
     vertical-align: bottom;
     white-space: nowrap
 }
 
-.dark-mode kbd {
-    background-color: whitesmoke;
-    background-color: #333;
-    border: 1px solid gainsboro;
-    border-radius: 3px;
-    color: #000 !important;
-    color: #fff !important;
-    padding: 3px
-}
-
 pre {
-    background-color: whitesmoke;
-    background-color: rgba(238, 238, 238, .25);
-    border: 1px solid gainsboro;
-    border: 1px solid;
+    border: 1px solid var(--grey);
     border-collapse: collapse;
     font-family: 'Roboto Mono';
     max-width: 100%;
     padding: 10px
-}
-
-.dark-mode pre,
-.dark-mode table {
-    background-color: rgba(255, 255, 255, .1) !important
 }
 
 .hidebtn,
@@ -183,8 +149,7 @@ pre {
 }
 
 blockquote.image {
-    background-color: rgba(238, 238, 238, .25);
-    border: 1px solid gainsboro !important;
+    border: 1px solid var(--grey);
     font-size: 12px;
     padding: 10px;
     text-align: center
@@ -199,9 +164,18 @@ td.rosto {
     border: none !important
 }
 
+.grid {    border-bottom: 1px solid var(--grey);
+}
+
+.grid table,
+.grid th,
+.grid tr,
+.grid td {
+    border-bottom: 1px solid var(--grey);
+}
+
 tr,
 td {
-    background-color: rgba(238, 238, 238, .25);
     font-family: inherit;
     max-width: 33%;
     padding: 10px;
@@ -209,20 +183,12 @@ td {
 }
 
 th {
-    background-color: rgba(238, 238, 238, .25);
-    border: 1px solid currentColor;
+    border: 1px solid var(--grey);
     font-family: inherit;
     font-weight: bold;
     padding: 10px;
     text-align: center;
     white-space: nowrap
-}
-
-.dark-mode table,
-.dark-mode th,
-.dark-mode tr,
-.dark-mode td {
-    background-color: #333
 }
 
 ul,
@@ -242,17 +208,8 @@ blockquote>p>a,
 blockquote.spirit>p,
 blockquote.spirit>p>a,
 blockquote.grey>p,
-blockquote.grey>p>a,
-.dark-mode blockquote.grey>p,
-.dark-mode blockquote.grey>p>a {
+blockquote.grey>p>a {
     background-color: transparent !important
-}
-
-.dark-mode blockquote,
-.dark-mode blockquote.spirit,
-.dark-mode blockquote.spirit,
-.dark-mode blockquote.spirit-multi {
-    background-color: #082440
 }
 
 blockquote.bible-multi>p:nth-child(2),

@@ -71,6 +71,7 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 | 🕊️ (pomba branca) | `ESE` | O Evangelho segundo o Espiritismo |
 | 🔥 (fogo) | `CEU` | O Céu e o Inferno |
 | 🌱 (muda de planta) | `GEN` | A Gênese |
+{:.grid}
 
 ### Hierarquia
 
@@ -165,20 +166,6 @@ Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras av
 Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
 
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
-
-| 💧doutrina.org  |  |  |
-| :---: | :---: | :---: |
-<br>**Coluna 1**<br><br>menu<br><br>  | <br>**Coluna 2**<br><br>principal<br><br> | <br>**Coluna 3**<br><br>complementar<br><br> |  
-
-<details><summary>detalhes</summary><small>
-<ol>
-<li>Coluna 1, contendo links dos livros, o sumário do mesmo, e detalhes do projeto (visível em telas grandes)</li>
-<li>Coluna 2, dispondo da obra original em uma página única (visível em telas grandes, médias e pequenas)</li>
-<li>Coluna 3, possibilitando a consulta de enciclopédia, dicionário, atlas (somente ESE) e vídeo reunião (visível em telas grandes e médias)</li>
-<li>Adicionalmente, existe um quarto painel, escamoteavel, que possibilita grifos em amarelo e anotações (interface em Inglês, requere uma conta)</li></ol>
-<hr></small>
-
-</details>
   
 Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
 
