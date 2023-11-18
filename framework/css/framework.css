@@ -228,7 +228,7 @@ body {
 /* ----- OVERFLOW  ----- */
 .overflow {
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: scroll;
     overscroll-behavior: contain;
     scroll-behavior: smooth;
 }
