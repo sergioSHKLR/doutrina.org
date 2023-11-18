@@ -1,248 +1,255 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
+<!-- VERSION 11/18/23 -->
 <head>
 
- <meta charset="utf-8">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>{{ page.title }} | doutrina.org</title>
- <meta name="description"
- content="Uma plataforma inédita de estudos integrados; permitindo anotações e a consulta de referências externas, sem a necessidade de sair da janela original.">
- <meta name="author" content="sergioSHKLR, info@doutrina.org">
- 
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} | doutrina.org</title>
+<meta name="description"
+content="Uma plataforma inédita de estudos integrados; permitindo anotações e a consulta de referências externas, sem a necessidade de sair da janela original.">
+<meta name="author" content="sergioSHKLR, info@doutrina.org">
+
 <!-- OPEN GRAPH / FACEBOOK -->
- <meta property="og:type" content="website">
- <meta property="og:url" content="https://doutrina.org/">
- <meta property="og:title" content="doutrina.org">
- <meta property="og:description"
- content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
- <meta property="og:image" content="./framework/pwa/opengraph.png">
- 
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://doutrina.org/">
+<meta property="og:title" content="doutrina.org">
+<meta property="og:description"
+content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
+<meta property="og:image" content="./framework/pwa/opengraph.png">
+
 <!-- TWITTER / X -->
- <meta property="twitter:card" content="summary_large_image">
- <meta property="twitter:url" content="https://doutrina.org/">
- <meta property="twitter:title" content="doutrina.org">
- <meta property="twitter:description"
- content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
- <meta property="twitter:image" content="./framework/pwa/twitter.png">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://doutrina.org/">
+<meta property="twitter:title" content="doutrina.org">
+<meta property="twitter:description"
+content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
+<meta property="twitter:image" content="./framework/pwa/twitter.png">
+
+<!-- GOOGLE PRECONNECT -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <!-- GOOGLE FONTS -->
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link
- href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Inter:wght@100;200;300;400;500;600;700&family=Roboto+Slab:wght@200;300;400;500;600;700&family=Russo+One&family=Zeyada&family=Roboto+Mono&display=swap"
- rel="stylesheet">
- <link rel="stylesheet"
- href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0">
+<link
+href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Inter:wght@100;200;300;400;500;600;700&family=Roboto+Slab:wght@200;300;400;500;600;700&family=Russo+One&family=Zeyada&family=Roboto+Mono&display=swap"
+rel="stylesheet">
+<link rel="stylesheet"
+href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0&display=swap">
 
 <!-- CSS -->
- <link rel="stylesheet" href="./framework/css/framework.css">
- <link rel="stylesheet" href="./framework/css/content.css">
- <link rel="stylesheet" href="./framework/css/media-queries.css">
+<link rel="stylesheet" href="../framework/css/framework.css">
+<link rel="stylesheet" href="../framework/css/content-v1.css">
+<link rel="stylesheet" href="../framework/css/media-queries-v1.css">
 
 <!-- PWA -->
- <link rel="icon" href="./framework/pwa/favicon.png" type="image/png">
- <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="./framework/pwa/favicon.png" type="image/png">
+<link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#8f00cc">
 
 <!-- HYPOTHES.IS -->
- <script type="application/json" class="js-hypothesis-config">
- {
- "openSidebar": false,
- "showHighlights": true
- }
- </script>
- <script defer src="https://hypothes.is/embed.js"></script>
+<script type="application/json" class="js-hypothesis-config">
+{
+"openSidebar": false,
+"showHighlights": true
+}
+</script>
+<script defer src="https://hypothes.is/embed.js"></script>
 
 </head>
 
-<body>
- <div id="col1-head" class="sidebar-w pos-fixed top-0 h-50 left-0 pt-10 border-0 pl-10 underline-0">
+<!-- COL1 HEAD -->
+<div id="col1-head" class="sidebar-w pos-fixed top-0 h-50 left-0 pt-10 border-0 pl-10 underline-0">
 
- <a href="./home.html" id="col1-brand"
- class="ff-russo ml-n5 fs-0 pos-rel pt-50 pl-0 pb-5 top-10 border-0 border-round"
- style="color: currentColor;">💧doutrina.org</a>
+<a href="./home.html" id="col1-brand"
+class="ff-russo ml-n5 fs-0 pos-rel pt-50 pl-0 pb-5 top-10 border-0 border-round"
+style="color: currentColor;">💧doutrina.org</a>
 
- </div>
+</div>
 
- <div id="col1-body"
- class="sidebar-w pos-fixed left-0 top-50 h-body overflow border-top border-right ff-inter underline-0 fs-3 pl-15"
- style="z-index: 1; background-color: inherit;">
+<!-- COL1 BODY -->
+<div id="col1-body"
+class="sidebar-w pos-fixed left-0 top-50 h-body overflow border-top border-right ff-inter underline-0 fs-3 pl-15"
+style="z-index: 1; background-color: inherit;">
 
 <!-- COL1 DETAILS -->
- <p class="fs-2 fw-strong border-short">Detalhes</p>
- <p><a href="./home.html" title="início">🏠 Início</a></p>
- <p><a href="./info.html" title="informações">📋 Informações</a></p>
- <p><a href="./legal.html" title="Legal">⚖️ Avisos legais</a></p>
- <p><a href="./comments.html" title="Comentários">💌 Comentários</a></p>
+<p class="fs-2 fw-strong border-short">Detalhes</p>
+<p><a href="./home.html" title="início">🏠 Início</a></p>
+<p><a href="./info.html" title="informações">📋 Informações</a></p>
+<p><a href="./legal.html" title="Legal">⚖️ Avisos legais</a></p>
+<p><a href="./comments.html" title="Comentários">💌 Comentários</a></p>
 
 <!-- COL1 LINKS -->
- <p class="fs-2 fw-strong border-short">Obras básicas</p>
- <p><a href="./1lde.html" title="O Livro dos Espíritos">👻 O Livro dos Espíritos</a></p>
- <p><a href="./2ldm.html" title="O Livro dos Médiuns">✒️  O Livro dos Médiuns</a></p>
- <p><a href="./3ese.html" title="O Evangelho segundo o Espiritismo">🕊️ O Evangelho</a></p>
- <p><a href="./4ceu.html" title="O Céu e o Inferno">🔥 Céu e Inferno</a></p>
- <p><a href="./5gen.html" title="A Gênese">🌱 A Gênese</a></p>
+<p class="fs-2 fw-strong border-short">Obras básicas</p>
+<p><a href="./1lde.html" title="O Livro dos Espíritos">👻 O Livro dos Espíritos</a></p>
+<p><a href="./2ldm.html" title="O Livro dos Médiuns">✒️  O Livro dos Médiuns</a></p>
+<p><a href="./3ese.html" title="O Evangelho segundo o Espiritismo">🕊️ O Evangelho</a></p>
+<p><a href="./4ceu.html" title="O Céu e o Inferno">🔥 Céu e Inferno</a></p>
+<p><a href="./5gen.html" title="A Gênese">🌱 A Gênese</a></p>
 
 <!-- COL1 TOC -->
- <p class="fs-2 fw-strong border-short">Sumário</p>
+<p class="fs-2 fw-strong border-short">Sumário</p>
 
- <details class="ff-mono fs-4">
- <summary class="ff-mono">0. 🗃️ Pré-textual</summary>
- <p><a href="">0.01. 🗂️ Folha de rosto</a></p>
- <p><a href="">0.02. 🗂️ Introdução</a></p>
- </details>
- <br>
+<details class="ff-mono fs-4">
+<summary class="ff-mono">0. 🗃️ Pré-textual</summary>
+<p><a href="">0.01. 🗂️ Folha de rosto</a></p>
+<p><a href="">0.02. 🗂️ Introdução</a></p>
+</details>
+<br>
 
- <details class="ff-mono fs-4">
- <summary class="ff-mono">1. 🗃️ Noções preliminares</summary>
- <p><a href="">1.01. 🗂️ Há Espíritos?</a></p>
- <p><a href="">1.02. 🗂️ Sobrenatural</a></p>
- <p><a href="">1.03. 🗂️ Método</a></p>
- <p><a href="">1.03. 🗂️ Sistemas</a></p>
- </details>
- <br>
+<details class="ff-mono fs-4">
+<summary class="ff-mono">1. 🗃️ Noções preliminares</summary>
+<p><a href="">1.01. 🗂️ Há Espíritos?</a></p>
+<p><a href="">1.02. 🗂️ Sobrenatural</a></p>
+<p><a href="">1.03. 🗂️ Método</a></p>
+<p><a href="">1.03. 🗂️ Sistemas</a></p>
+</details>
+<br>
 
- <details class="ff-mono fs-4">
- <summary class="ff-mono">2. 🗃️ Manifestações espíritas</summary>
- <p><a href="">2.01. 🗂️ Ação sobre a matéria</a></p>
- <p><a href="">2.02. 🗂️ Manifestações físicas</a></p>
- <p><a href="">2.03. 🗂️ Manifestações inteligentes</a></p>
- <p><a href="">2.04. 🗂️ Teoria sobre manifestações</a></p>
- <p><a href="">2.05. 🗂️ Manifestações espontâneas</a></p>
- <p><a href="">2.06. 🗂️ Manifestações visuais</a></p>
- <p><a href="">2.07. 🗂️ Bicorporeidade</a></p>
- <p><a href="">2.08. 🗂️ Mundo invisível</a></p>
- <p><a href="">2.09. 🗂️ Lugares assombrados</a></p>
- <p><a href="">2.10. 🗂️ Natureza das comunicações</a></p>
- <p><a href="">2.11. 🗂️ Sematologia e tiptologia</a></p>
- <p><a href="">2.12. 🗂️ Pneumatografia e pneumatofonia</a></p>
- <p><a href="">2.13. 🗂️ Psicografia</a></p>
- <p><a href="">2.14. 🗂️ Médiuns</a></p>
- <p><a href="">2.15. 🗂️ Psicógrafos</a></p>
- <p><a href="">2.16. 🗂️ Médiuns especiais</a></p>
- <p><a href="">2.17. 🗂️ Formação dos médiuns</a></p>
- <p><a href="">2.18. 🗂️ Perigos da mediunidade</a></p>
- <p><a href="">2.19. 🗂️ Papel dos médiuns</a></p>
- <p><a href="">2.20. 🗂️ Influência moral</a></p>
- <p><a href="">2.21. 🗂️ Influência do meio</a></p>
- <p><a href="">2.22. 🗂️ Mediunidade nos animais</a></p>
- <p><a href="">2.23. 🗂️ Obsessão</a></p>
- <p><a href="">2.24. 🗂️ Identidade dos Espíritos</a></p>
- <p><a href="">2.25. 🗂️ Evocações</a></p>
- <p><a href="">2.26. 🗂️ Perguntas que se podem fazer</a></p>
- <p><a href="">2.27. 🗂️ Contradições</a></p>
- <p><a href="">2.28. 🗂️ Charlatanismo</a></p>
- <p><a href="">2.29. 🗂️ Sociedades Espíritas</a></p>
- <p><a href="">2.30. 🗂️ Sociedade Parisiense</a></p>
- <p><a href="">2.31. 🗂️ Dissertações</a></p>
- <p><a href="">2.32. 🗂️ Vocabulário</a></p>
- </details>
- <br>
+<details class="ff-mono fs-4">
+<summary class="ff-mono">2. 🗃️ Manifestações espíritas</summary>
+<p><a href="">2.01. 🗂️ Ação sobre a matéria</a></p>
+<p><a href="">2.02. 🗂️ Manifestações físicas</a></p>
+<p><a href="">2.03. 🗂️ Manifestações inteligentes</a></p>
+<p><a href="">2.04. 🗂️ Teoria sobre manifestações</a></p>
+<p><a href="">2.05. 🗂️ Manifestações espontâneas</a></p>
+<p><a href="">2.06. 🗂️ Manifestações visuais</a></p>
+<p><a href="">2.07. 🗂️ Bicorporeidade</a></p>
+<p><a href="">2.08. 🗂️ Mundo invisível</a></p>
+<p><a href="">2.09. 🗂️ Lugares assombrados</a></p>
+<p><a href="">2.10. 🗂️ Natureza das comunicações</a></p>
+<p><a href="">2.11. 🗂️ Sematologia e tiptologia</a></p>
+<p><a href="">2.12. 🗂️ Pneumatografia e pneumatofonia</a></p>
+<p><a href="">2.13. 🗂️ Psicografia</a></p>
+<p><a href="">2.14. 🗂️ Médiuns</a></p>
+<p><a href="">2.15. 🗂️ Psicógrafos</a></p>
+<p><a href="">2.16. 🗂️ Médiuns especiais</a></p>
+<p><a href="">2.17. 🗂️ Formação dos médiuns</a></p>
+<p><a href="">2.18. 🗂️ Perigos da mediunidade</a></p>
+<p><a href="">2.19. 🗂️ Papel dos médiuns</a></p>
+<p><a href="">2.20. 🗂️ Influência moral</a></p>
+<p><a href="">2.21. 🗂️ Influência do meio</a></p>
+<p><a href="">2.22. 🗂️ Mediunidade nos animais</a></p>
+<p><a href="">2.23. 🗂️ Obsessão</a></p>
+<p><a href="">2.24. 🗂️ Identidade dos Espíritos</a></p>
+<p><a href="">2.25. 🗂️ Evocações</a></p>
+<p><a href="">2.26. 🗂️ Perguntas que se podem fazer</a></p>
+<p><a href="">2.27. 🗂️ Contradições</a></p>
+<p><a href="">2.28. 🗂️ Charlatanismo</a></p>
+<p><a href="">2.29. 🗂️ Sociedades Espíritas</a></p>
+<p><a href="">2.30. 🗂️ Sociedade Parisiense</a></p>
+<p><a href="">2.31. 🗂️ Dissertações</a></p>
+<p><a href="">2.32. 🗂️ Vocabulário</a></p>
+</details>
+<br>
 
- <details class="ff-mono fs-4">
- <summary class="ff-mono">3. 🗃️ Pós-textual</summary>
- <p><a href="">3.01. 📄 Nota explicativa</a></p>
- <p><a href="">3.02. 🏷️ Índice geral</a></p>
- <p><a href="">3.03. ✏️ Notas de rodapé</a></p>
- </details>
- <br>
+<details class="ff-mono fs-4">
+<summary class="ff-mono">3. 🗃️ Pós-textual</summary>
+<p><a href="">3.01. 📄 Nota explicativa</a></p>
+<p><a href="">3.02. 🏷️ Índice geral</a></p>
+<p><a href="">3.03. ✏️ Notas de rodapé</a></p>
+</details>
+<br>
 
 <!-- COL1 REPO -->
- <p class="fs-2 fw-strong border-short">Código fonte</p>
- <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">📦 Repositório</a></p>
- <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros">🐛 Falhas de Código</a></p>
+<p class="fs-2 fw-strong border-short">Código fonte</p>
+<p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">📦 Repositório</a></p>
+<p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros">🐛 Falhas de Código</a></p>
 
 <!-- COL1 PART OF -->
- <p class="fs-2 fw-strong border-short">Parte de</p>
- <p><a target="_blank" href="https://shklr.org" title="matriz">⭕ shklr.org</a></p>
- <br>
- </div>
+<p class="fs-2 fw-strong border-short">Parte de</p>
+<p><a target="_blank" href="https://shklr.org" title="matriz">⭕ shklr.org</a></p>
+<br>
+</div>
 
-<!-- COL2 -->
- <div id="col2-head" class="w-auto pos-fixed top-0 left-sidebar mh-40 h-50 pt-10 underline-0">
+<!-- COL2 HEAD -->
+<div id="col2-head" class="w-auto pos-fixed top-0 left-sidebar mh-40 h-50 pt-10 underline-0">
 
- <button id="col2-menu-on" onclick="menuOn()" title="abrir/fechar menu"><span
- class="material-symbols-outlined">menu</span></button>
+<button id="col2-menu-on" onclick="menuOn()" title="abrir/fechar menu"><span
+class="material-symbols-outlined">menu</span></button>
 
- <button id="col2-menu-off" hidden onclick="menuOff()" title="abrir/fechar menu"><span
- class="material-symbols-outlined">menu</span></button>
+<button id="col2-menu-off" hidden onclick="menuOff()" title="abrir/fechar menu"><span
+class="material-symbols-outlined">menu</span></button>
 
- <a href="./home.html" id="col2-brand"
- class="ff-russo fs-0 pos-rel pb-5 pl-0 pr-5 top-n5 border-0 border-round">💧doutrina.org</a>
+<a href="./home.html" id="col2-brand"
+class="ff-russo fs-0 pos-rel pb-5 pl-0 pr-5 top-n5 border-0 border-round">💧doutrina.org</a>
 
- <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen2()" title="tela cheia"><span
- class="material-symbols-outlined">fullscreen</span></button>
+<button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen2()" title="tela cheia"><span
+class="material-symbols-outlined">fullscreen</span></button>
 
- <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen2()" title="tela normal"><span
- class="material-symbols-outlined">fullscreen_exit</span></button>
+<button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen2()" title="tela normal"><span
+class="material-symbols-outlined">fullscreen_exit</span></button>
 
- <button id="col2-dm-btn" class="fr" onclick="activeDark2()" title="modo escuro"><span
- class="material-symbols-outlined">dark_mode</span></button>
+<button id="col2-dm-btn" class="fr" onclick="activeDark2()" title="modo escuro"><span
+class="material-symbols-outlined">dark_mode</span></button>
 
- <button id="col2-lm-btn" class="fr hide" onclick="inactiveDark2()" title="modo claro"><span
- class="material-symbols-outlined">light_mode</span></button>
- </div>
+<button id="col2-lm-btn" class="fr hide" onclick="inactiveDark2()" title="modo claro"><span
+class="material-symbols-outlined">light_mode</span></button>
+</div>
 
- <div id="col2-body" class="w-auto pos-fixed top-50 left-sidebar h-body border-top overflow fc-cc">
+<!-- COL2 BODY -->
+<div id="col2-body" class="w-auto pos-fixed top-50 left-sidebar h-body border-top overflow fc-cc">
 
- {{ content }}
+{{ content }}
 
- </div>
+</div>
 
-<!-- COL3 -->
- <div id="col3-head" class="w-auto pos-fixed top-0 right-23 h-50 mh-40 pt-10 border-0 underline-0">
+<!-- COL3 HEAD -->
+<div id="col3-head" class="w-auto pos-fixed top-0 right-23 h-50 mh-40 pt-10 border-0 underline-0">
 
- <a target="ext" class="outline-0" href="https://pt.m.wikipedia.org" title="enciclopédia">
- <button id="col3-link1"><span class="material-symbols-outlined">language</span>
- </button></a>
+<a target="ext" class="outline-0" href="https://pt.m.wikipedia.org" title="enciclopédia">
+<button id="col3-link1"><span class="material-symbols-outlined">language</span>
+</button></a>
 
- <a target="ext" class="outline-0" href="https://pt.m.wiktionary.org" title="dicionário">
- <button id="col3-link2"><span class="material-symbols-outlined">book_2</span>
- </button></a>
+<a target="ext" class="outline-0" href="https://pt.m.wiktionary.org" title="dicionário">
+<button id="col3-link2"><span class="material-symbols-outlined">book_2</span>
+</button></a>
 
- <a target="ext" class="outline-0" href="./content/maps/paris.html" title="atlas">
- <button id="col3-link3"><span class="material-symbols-outlined">location_on</span>
- </button></a>
+<a target="ext" class="outline-0" href="./content/maps/paris.html" title="atlas">
+<button id="col3-link3"><span class="material-symbols-outlined">location_on</span>
+</button></a>
 
- <a target="_blank" class="outline-0"
- href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
- title="reunião por vídeo">
+<a target="_blank" class="outline-0"
+href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
+title="reunião por vídeo">
 
- <button id="col3-link4"><span class="material-symbols-outlined">video_call</span>
- </button></a>
+<button id="col3-link4"><span class="material-symbols-outlined">video_call</span>
+</button></a>
 
- <button id="col3-fs-btn" class="fr mr-20" onclick="openFullscreen3()" title="tela cheia"><span
- class="material-symbols-outlined">fullscreen</span></button>
+<button id="col3-fs-btn" class="fr mr-20" onclick="openFullscreen3()" title="tela cheia"><span
+class="material-symbols-outlined">fullscreen</span></button>
 
- <button id="col3-ns-btn" class="fr mr-20 hide" onclick="closeFullscreen3()" title="tela normal"><span
- class="material-symbols-outlined">fullscreen_exit</span></button>
+<button id="col3-ns-btn" class="fr mr-20 hide" onclick="closeFullscreen3()" title="tela normal"><span
+class="material-symbols-outlined">fullscreen_exit</span></button>
 
- <button id="col3-dm-btn" class="fr" onclick="activeDark3()" title="modo escuro"><span
- class="material-symbols-outlined">dark_mode</span></button>
+<button id="col3-dm-btn" class="fr" onclick="activeDark3()" title="modo escuro"><span
+class="material-symbols-outlined">dark_mode</span></button>
 
- <button id="col3-lm-btn" class="fr hide" onclick="inactiveDark3()" title="modo claro"><span
- class="material-symbols-outlined">light_mode</span></button>
+<button id="col3-lm-btn" class="fr hide" onclick="inactiveDark3()" title="modo claro"><span
+class="material-symbols-outlined">light_mode</span></button>
 
- <button class="fr" id="col3-sh-on-btn" onclick="shadesOn()" title="ativar cortina anti-distração"><span
- class=" material-symbols-outlined">visibility_off</span></button>
- 
- <button class="fr" id="col3-sh-off-btn" hidden onclick="shadesOff()" title="desativar cortina anti-distração"><span
- class="material-symbols-outlined">visibility</span></button>
+<button class="fr" id="col3-sh-on-btn" onclick="shadesOn()" title="ativar cortina anti-distração"><span
+class=" material-symbols-outlined">visibility_off</span></button>
 
- </div>
- <div id="col3-body" class="w-auto pos-fixed right-0 top-50 right-23 h-body border-left border-top fc-cc">
+<button class="fr" id="col3-sh-off-btn" hidden onclick="shadesOff()" title="desativar cortina anti-distração"><span
+class="material-symbols-outlined">visibility</span></button>
 
- <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" class="h-100 w-100 border-0"
- src="./iframe.html" style="background-color: #fff;"></iframe>
- </div>
+</div>
+
+<!-- COL3 BODY -->
+<div id="col3-body" class="w-auto pos-fixed right-0 top-50 right-23 h-body border-left border-top fc-cc">
+
+<iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" class="h-100 w-100 border-0"
+src="./iframe.html" style="background-color: #fff;"></iframe>
+</div>
 
 <!-- SCRIPTS -->
- <script defer src="./framework/js/script.js"></script>
- <script defer src="./framework/js/crisp.js"></script>
+<script defer src="./framework/js/script.js"></script>
+<script defer src="./framework/js/crisp.js"></script>
 
- <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./framework/israel-2.svg"
- alt="Stand With Us" title="Stand With Us"></a>
+<!-- STAND WIHT US -->
+<a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./framework/israel-2.svg"
+alt="Stand With Us" title="Stand With Us"></a>
 
 </body>
 </html>
