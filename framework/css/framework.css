@@ -278,7 +278,7 @@ body {
     font-size: 10px;
 }
 
-.fs-xxl {font-size: 60px;}
+.fs-xxl {font-size: 60px !important;}
 
 /* ----- FONT WEIGHT  ----- */
 .fw-normal {
@@ -323,7 +323,7 @@ body {
 }
 
 .ff-z {
-    font-family: 'Zeyada', cursive;
+    font-family: 'Zeyada', cursive !important;
 }
 
 /* ----- FONT COLOR ----- */

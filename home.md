@@ -32,8 +32,7 @@ Ficaríamos muito agradecidos com seu feedback! Para tal use a página <kbd>💌
 
 <img src="../framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; transform: scaleX(-1)">
 
-Sergio
-{:class="ff-z fs-xxl mt-n10"}
+<p class="ff-z fs-xxl mt-n10">Sergio</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
