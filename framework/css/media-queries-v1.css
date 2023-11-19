@@ -121,6 +121,9 @@
     iframe#screenshot3 {
         display: none
     }
+
+    tr.d {display: table-row;}
+
 }
 
 @media only screen and (orientation:portrait) {
