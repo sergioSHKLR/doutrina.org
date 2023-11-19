@@ -47,7 +47,8 @@ layout: template-1lde
 
  Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}  
  
- Modificado para o consumo digital por Sergio de |
+ Modificado para o consumo digital por Sergio de  
+
  ⭕ [shklr.org](https://shklr.org){:target="_blank"} 
 
 ### 🗂️ Prefácio {#lde-0-02}

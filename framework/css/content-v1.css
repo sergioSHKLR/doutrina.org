@@ -62,8 +62,9 @@ h6 {
 
 h6 {
     border-bottom: 1px solid var(--grey);
-    margin-bottom: -20px;
-    padding-top: 10px
+    margin-bottom: -15px;
+    padding-top: 10px;
+    margin-top: 0;
 }
 
 /*----- LINKS -----*/
@@ -98,7 +99,9 @@ kbd {
     background-color: var(--light-grey) !important;
 }
 
-abbr {text-underline-offset: 2px;}
+abbr {
+    text-underline-offset: 2px;
+}
 
 pre {
     border: 1px solid var(--grey);
@@ -127,6 +130,7 @@ span.material-symbols-outlined {
     font-size: 16px;
     font-family: 'Roboto Slab';
     font-weight: 300;
+    line-height: 1.7;
 }
 
 /*----- IMAGE -----*/
@@ -208,15 +212,21 @@ blockquote>p>img {
     vertical-align: middle
 }
 
-blockquote.image {
+#col2-body>blockquote.image {
     border: 1px solid var(--grey);
     font-size: 12px;
     padding: 10px;
-    text-align: center
+    text-align: center;
+    background-color: var(--light-grey);
+    width: calc(100% - 60px);
 }
 
-blockquote.image img {
-    width: 100%
+#col2-body>blockquote.image p {
+    font-size: 12px;
+}
+
+blockquote img {
+    width: 100%;
 }
 
 blockquote em {
@@ -234,9 +244,17 @@ blockquote.grey>p>a {
     background-color: transparent
 }
 
-blockquote strong {font-weight: 300;}
+blockquote strong {
+    font-weight: 300;
+}
 
 /*----- VIS -----*/
-.d, .t, .c {display: none;}
+.d,
+.t,
+.c {
+    display: none;
+}
 
-strong {font-weight: 400;}
+strong {
+    font-weight: 400;
+}

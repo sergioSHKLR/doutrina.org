@@ -156,7 +156,7 @@ LIV-X-XX-XX
  |  |
  |  └── 🗂️ parte
  |
- └── 📔 livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
+ └── 📔 livro (LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
 E em especial no LDE, o código para questões é modificado da sequência lógica de LDE-X-XX-XX-XXXX para:
@@ -168,7 +168,7 @@ LIV-qXXXXa
  |  |
  |  └── questão
  |
- └── livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
+ └── livro (LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra <kbd>q</kbd>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra <kbd>p</kbd>, de um a quatro dígitos, para identificar parágrafos numericamente.
