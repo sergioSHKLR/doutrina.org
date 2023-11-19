@@ -418,7 +418,7 @@ A [ciência](https://pt.m.wikipedia.org/wiki/Ciência) espírita compreende duas
 
 Concluamos, fazendo uma última consideração. Alguns [astrônomos](https://pt.m.wiktionary.org/wiki/astrônomo), sondando o espaço, encontraram, na distribuição dos corpos celestes, [lacunas](https://pt.m.wiktionary.org/wiki/lacuna) não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja causa lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma [causa](https://pt.m.wikipedia.org/wiki/Causalidade). Julgando então da causa pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este [raciocínio](https://pt.m.wikipedia.org/wiki/Raciocínio_lógico) a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a matéria bruta até o homem mais inteligente. Entre o homem e [Deus][0], porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A [razão](https://pt.m.wikipedia.org/wiki/Razão) nos diz que entre o homem e [Deus][0] outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que [filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) já preencheu essa lacuna? O [Espiritismo][3] no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) dos homens, nos diferentes graus que levam à [perfeição](https://pt.m.wikipedia.org/wiki/Perfeição). Tudo então se liga, tudo se encadeia, desde o [alfa até o ômega](https://pt.m.wikipedia.org/wiki/Alfa_e_ómega). Vós, que negais a existência dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), cumulai o [vácuo](https://pt.m.wikipedia.org/wiki/Vácuo) que eles ocupam. E vós, que rides deles, ousai rir das obras de [Deus][0] e da sua [onipotência](https://pt.m.wikipedia.org/wiki/Omnipotência)!
 
-<p class="ff-gv" style="text-align: right;">👴🏻 ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
+<p class="ff-gv fs-lg" style="text-align: right;">👴🏻 ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
 
 
 ## 1. 🗃️ Causas Primárias {#lde-1}
@@ -2316,9 +2316,9 @@ Do fato de não haver filiação entre os [Espíritos](https://pt.m.wikipedia.or
 
 ###### Q.207
 
-> 👻 ▸ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
+Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
 
-> Não, que diferentes são as almas ou [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de uns e outros. O corpo deriva do corpo, mas o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não procede do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Entre os descendentes das raças apenas há consanguinidade.
+> 👻 ▸ Não, que diferentes são as almas ou [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de uns e outros. O corpo deriva do corpo, mas o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não procede do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Entre os descendentes das raças apenas há consanguinidade.
 
 ###### Q.207.a
 

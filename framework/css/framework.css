@@ -278,6 +278,8 @@ body {
     font-size: 10px;
 }
 
+.fs-lg { font-size: 36px !important}
+
 .fs-xxl {font-size: 60px !important;}
 
 /* ----- FONT WEIGHT  ----- */
@@ -319,7 +321,7 @@ body {
 }
 
 .ff-gv {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Great Vibes', cursive !important;
 }
 
 .ff-z {
