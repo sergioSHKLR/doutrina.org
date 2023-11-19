@@ -33,14 +33,48 @@ Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando 
 Os botões ao topo da página servem aos seguintes propósitos:
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
-<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr class="hidebtn2"><td><span class="fs-1a material-symbols-outlined">menu</span></td><td class="fs-3">Mostrar/esconder Coluna 1</td></tr>
-<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">language</span></td><td class="fs-3">Abrir página do Wikipédia</td></tr>
-<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">book_2</span></td><td class="fs-3">Abrir página do Wikicionário</td></tr>
-<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">video_call</span></td><td class="fs-3">Iniciar vídeo reunião (estudos em grupo)</td></tr>
-<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td><td class="fs-3">Ativar ou desativar cortina anti-distração</td></tr>
-<tr><td><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td><td class="fs-3">Alternar entre modo escuro e modo claro</td></tr>
-<tr><td><span class="fs-1a material-symbols-outlined">fullscreen</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">fullscreen_exit</span></td><td class="fs-3">Alternar entre tela cheia e tela normal</td></tr>
+<tr class="bg-lg"><th style="width: 20%">Ícone</th>
+<th  style="width: 30%">Nome</th><th>Ação</th></tr>
+<tr class="t c">
+<td><span class="fs-1a material-symbols-outlined">menu</span></td>
+<td class="fs-3">menu</td>
+<td class="fs-3">mostrar/esconder menu</td>
+</tr>
+<tr class="d t">
+<td><span class="fs-1a material-symbols-outlined">language</span></td>
+<td class="fs-3">enciclopédia</td>
+<td class="fs-3">abrir página inicial Wikipédia</td>
+</tr>
+<tr class="d t">
+<td><span class="fs-1a material-symbols-outlined">book_2</span></td>
+<td class="fs-3">dicionário</td>
+<td class="fs-3">abrir página incial Wikicionário</td>
+</tr>
+<tr class="d t">
+<td><span class="fs-1a material-symbols-outlined">location_on</span></td>
+<td class="fs-3">atlas</td>
+<td class="fs-3">abrir atlas geográfico (somente ESE)</td>
+</tr>
+<tr class="d t">
+<td><span class="fs-1a material-symbols-outlined">video_call</span></td>
+<td class="fs-3">vídeo chamada</td>
+<td class="fs-3">iniciar vídeo reunião (estudos em grupo)</td>
+</tr>
+<tr class="d t">
+<td><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td>
+<td class="fs-3">cortina anti-distração</td>
+<td class="fs-3">ativar ou desativar cortina anti-distração</td>
+</tr>
+<tr class="d t c">
+<td><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td>
+<td class="fs-3">modo escuro/claro</td>
+<td class="fs-3">alternar entre modo escuro e modo claro (inativo)</td>
+</tr>
+<tr class="t c">
+<td><span class="fs-1a material-symbols-outlined">fullscreen</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">fullscreen_exit</span></td>
+<td class="fs-3">tela cheia/normal</td>
+<td class="fs-3">alternar entre tela cheia e tela normal</td>
+</tr>
 </table>
 
 <p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>

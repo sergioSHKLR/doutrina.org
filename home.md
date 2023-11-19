@@ -14,7 +14,7 @@ layout: template-generic
 
 # 🏠 Início
 
-**Pré-release Alpha <kbd>11.23</kbd>. Em desenvolvimento diário. Atualização mais recente em 14 Nov 2023.**
+**Pré-release Alpha <kbd>11.23</kbd>. Em desenvolvimento diário. Atualização mais recente em 19 Nov 2023.**
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar esta alternativa.
 
@@ -30,10 +30,10 @@ Ficaríamos muito agradecidos com seu feedback! Para tal use a página <kbd>💌
 
 🙏🏼 Que assim seja!
 
-<img src="../framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent !important ; width: 100px; transform: scaleX(-1)">
+<img src="../framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; transform: scaleX(-1)">
 
 Sergio
-{:.cursive}
+{:class="ff-z fs-xxl mt-n10"}
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

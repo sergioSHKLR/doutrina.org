@@ -35,7 +35,7 @@ td {
     border: 1px solid var(--grey);
     padding-left: 10px;
     font-weight: 300;
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 
 /*----- HEADINGS -----*/
@@ -91,7 +91,7 @@ kbd {
     border: 1px solid var(--grey);
     border-radius: 3px;
     padding: 3px;
-    vertical-align: bottom;
+    vertical-align: middle;
     white-space: nowrap
 }
 
@@ -107,12 +107,12 @@ pre {
 .hidebtn,
 .hidebtn2 {
     font-size: 16px;
-    vertical-align: bottom !
+    vertical-align: middle !
 }
 
 /*----- MATERIAL ICONS -----*/
 span.material-symbols-outlined {
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 
 /*----- PARAGRAPH -----*/
@@ -145,7 +145,7 @@ span.material-symbols-outlined {
 
 /*----- ALIGN ----*/
 .va-b {
-    vertical-align: bottom !important;
+    vertical-align: middle !important;
 }
 
 /*----- BLOCKQUOTE -----*/
@@ -235,3 +235,6 @@ blockquote.grey>p>a {
 }
 
 blockquote strong {font-weight: 300;}
+
+/*----- VIS -----*/
+.d, .t, .c {display: none;}
