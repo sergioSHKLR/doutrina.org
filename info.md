@@ -73,9 +73,9 @@ Os botões ao topo da página servem aos seguintes propósitos:
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td><img src="./framework/hypo-a.svg" style="all: unset; width: 25px; vertical-align: middle"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td><img src="./framework/hypo-b.svg" style="all: unset; width: 20px; vertical-align: middle"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td><img src="./framework/hypo-c.svg" style="all: unset; width: 20px; vertical-align: middle"></td><td>Criar nova anotação de página</td></tr>
+<tr><td><img src="./framework/hypo-a.svg" style="all: unset; width: 35px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
 </table>
 
 ## Método
