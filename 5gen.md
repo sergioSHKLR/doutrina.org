@@ -22,16 +22,25 @@ layout: template-5gen
 
 ### 0-01. 🗂️ Folha de rosto
 
-|:---:|
-| Ética Espírita |
-| 🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese){:target="ext"} |
-| Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida. |
-| Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade. |
-| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
-| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}. |
-| Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"} |
-| Modificado para o consumo digital por Sergio de |
-| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
+><br>
+> Ética Espírita  
+><br>
+> 🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese){:target="ext"}  
+><br>
+> Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.  
+><br>
+> Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.  
+><br>
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.  
+><br>
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}.  
+><br>
+> Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"}  
+><br>
+> Modificado para o consumo digital por Sergio de  
+> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+><br> 
+{:.grey-center}
 
 ### 0-02. 🗂️ Introdução
 
