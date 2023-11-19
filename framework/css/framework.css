@@ -4,13 +4,13 @@
     --white: #fff;
     --black: #000;
     --grey: #cccccc85;
+    --light-grey: #eeeeee66;
 }
 
 * {
     /*
     background-color: var(--white);
     color: var(--black); */
-    border-color: var(--grey);
     box-sizing: border-box;
     border-collapse: collapse;
 }
@@ -48,6 +48,10 @@ body {
 
 .mt-0 {
     margin-top: 0
+}
+
+.mt-5 {
+    margin-top: 5px
 }
 
 .mt-10 {
@@ -133,6 +137,10 @@ body {
 
 .pt-0 {
     padding-top: 0
+}
+
+.pt-5 {
+    padding-top: 5px
 }
 
 .pt-10 {

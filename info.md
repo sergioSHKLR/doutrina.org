@@ -14,21 +14,13 @@ layout: template-generic
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
-**Pré-release Alpha <kbd>11.23</kbd>. Em desenvolvimento diário. Atualização mais recente em 14 Nov 2023.**
-
-Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar esta alternativa.
-
-Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca se fosse forçado a navegar em janelas externas. 
-
-Para tal fim desenvolvemos uma interface inédita em três colunas, que se ajustam automaticamente de acordo com a largura do dispositivo em que é visualizado. Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colunas (1 escondida) e em telas pequenas, somente 1 coluna (2 escondidas).
-
 Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando um tablet ou celular, você pode mudar a orientação (de pé para deitado) para obter uma largura maior.
 
-<iframe id="screenshot1" class="border-0 overflow-h w-100" src="./iframe_content/desktop.html" style="height: 400px;"></iframe>
+<iframe id="screenshot1" class="border-0 overflow-h w-100" src="./iframe_content/desktop.html" style="height: 350px;"></iframe>
 
-<iframe id="screenshot2" class="border-0 overflow-h w-100" src="./iframe_content/tablet.html" style="height: 400px; "></iframe>
+<iframe id="screenshot2" class="border-0 overflow-h w-100" src="./iframe_content/tablet.html" style="height: 350px; "></iframe>
 
-<iframe id="screenshot3" class="border-0 overflow-h w-100" src="./iframe_content/celular.html" style="height: 400px; "></iframe>
+<iframe id="screenshot3" class="border-0 overflow-h w-100" src="./iframe_content/celular.html" style="height: 350px; "></iframe>
 
 Os botões ao topo da página servem aos seguintes propósitos:
 
@@ -36,42 +28,42 @@ Os botões ao topo da página servem aos seguintes propósitos:
 <tr class="bg-lg"><th style="width: 20%">Ícone</th>
 <th  style="width: 30%">Nome</th><th>Ação</th></tr>
 <tr class="t c">
-<td><span class="fs-1a material-symbols-outlined">menu</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">menu</span></td>
 <td class="fs-3">menu</td>
 <td class="fs-3">mostrar/esconder menu</td>
 </tr>
 <tr class="d t">
-<td><span class="fs-1a material-symbols-outlined">language</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">language</span></td>
 <td class="fs-3">enciclopédia</td>
 <td class="fs-3">abrir página inicial Wikipédia</td>
 </tr>
 <tr class="d t">
-<td><span class="fs-1a material-symbols-outlined">book_2</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">book_2</span></td>
 <td class="fs-3">dicionário</td>
 <td class="fs-3">abrir página incial Wikicionário</td>
 </tr>
 <tr class="d t">
-<td><span class="fs-1a material-symbols-outlined">location_on</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">location_on</span></td>
 <td class="fs-3">atlas</td>
 <td class="fs-3">abrir atlas geográfico (somente ESE)</td>
 </tr>
 <tr class="d t">
-<td><span class="fs-1a material-symbols-outlined">video_call</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">video_call</span></td>
 <td class="fs-3">vídeo chamada</td>
-<td class="fs-3">iniciar vídeo reunião (estudos em grupo)</td>
+<td class="fs-3">iniciar vídeo chamada (estudos em grupo)</td>
 </tr>
 <tr class="d t">
-<td><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td>
 <td class="fs-3">cortina anti-distração</td>
 <td class="fs-3">ativar ou desativar cortina anti-distração</td>
 </tr>
 <tr class="d t c">
-<td><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td>
 <td class="fs-3">modo escuro/claro</td>
 <td class="fs-3">alternar entre modo escuro e modo claro (inativo)</td>
 </tr>
 <tr class="t c">
-<td><span class="fs-1a material-symbols-outlined">fullscreen</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">fullscreen_exit</span></td>
+<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">fullscreen</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">fullscreen_exit</span></td>
 <td class="fs-3">tela cheia/normal</td>
 <td class="fs-3">alternar entre tela cheia e tela normal</td>
 </tr>
@@ -81,9 +73,9 @@ Os botões ao topo da página servem aos seguintes propósitos:
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td><img src="./framework/hypo-a.svg" style="all: unset; width: 35px; vertical-align: middle"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle"></td><td>Criar nova anotação de página</td></tr>
+<tr><td><img src="./framework/hypo-a.svg" style="all: unset; width: 25px; vertical-align: middle"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td><img src="./framework/hypo-b.svg" style="all: unset; width: 20px; vertical-align: middle"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td><img src="./framework/hypo-c.svg" style="all: unset; width: 20px; vertical-align: middle"></td><td>Criar nova anotação de página</td></tr>
 </table>
 
 ## Método
@@ -179,7 +171,7 @@ LIV-qXXXXa
  └── livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra `p`, de um a quatro dígitos, para identificar parágrafos numericamente.
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra <kbd>q</kbd>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra <kbd>p</kbd>, de um a quatro dígitos, para identificar parágrafos numericamente.
 
 Em suma, temos esta tabela descritiva abaixo:
 

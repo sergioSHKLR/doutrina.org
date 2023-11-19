@@ -33,17 +33,22 @@ layout: template-1lde
 
 ### 🗂️ Folha de rosto {#lde-0-01}
 
-|:---:|
-| [Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo) |
-| 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos) |
-| Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita |
-| Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade). |
-| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻) |
-| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro) |
-| Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"} |
-| Modificado para o consumo digital por Sergio de |
-| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
-{:.rosto}
+ [Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo)  
+
+ 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos)  
+
+ Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita  
+
+ Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade).  
+
+ por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻)  
+
+ Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
+
+ Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}  
+ 
+ Modificado para o consumo digital por Sergio de |
+ ⭕ [shklr.org](https://shklr.org){:target="_blank"} 
 
 ### 🗂️ Prefácio {#lde-0-02}
 
@@ -84,7 +89,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 >
 > Lembra-te de que os bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) só dispensam assistência aos que servem a [Deus][0] com [humildade](https://pt.m.wiktionary.org/wiki/humildade) e desinteresse e que [repudiam](https://pt.m.wiktionary.org/wiki/repudiar) a todo aquele que busca na [senda](https://pt.m.wiktionary.org/wiki/senda) do [Céu](https://pt.m.wikipedia.org/wiki/Céu_(religião)) um degrau para conquistar as coisas da Terra; que se afastam do [orgulhoso](https://pt.m.wiktionary.org/wiki/orgulhoso) e do [ambicioso](https://pt.m.wiktionary.org/wiki/ambicioso). O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus][0]. São um véu lançado sobre as claridades celestes, e [Deus][0] não pode servir-se do cego para fazer perceptível a luz.
 >
-> <p id="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://pt.m.wikipedia.org/wiki/O_Espírito_da_Verdade_(espiritismo)">O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
+> <p id="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://pt.m.wikipedia.org/wiki/O_Espírito_da_Verdade_(espiritismo)">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
 >
 > {:.spirit}
 
