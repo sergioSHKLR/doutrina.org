@@ -1,6 +1,6 @@
 blockquote {
     background-color: aliceblue;
-    border-color: dodgerblue !important;
+    border-color: dodgerblue;
     border-left: 4px solid;
     margin-inline-end: 10px;
     margin-inline-start: 10px;
@@ -8,10 +8,8 @@ blockquote {
 }
 
 blockquote>p,
-blockquote>p>a, 
-blockquote.grey>p,
-blockquote.grey>p>a {
-    background-color: transparent !important
+blockquote>p>a {
+    background-color: transparent
 }
 
 blockquote>p>img {
@@ -37,4 +35,9 @@ blockquote.grey {
     background-color: #eee;
     border-color: solid var(--grey);
     border-left: 4px solid
+}
+
+blockquote.grey>p,
+blockquote.grey>p>a {
+    background-color: transparent
 }

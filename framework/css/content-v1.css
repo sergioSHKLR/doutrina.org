@@ -134,10 +134,104 @@ span.material-symbols-outlined {
 }
 
 /*----- WIDTH -----*/
-.col2-w {width: calc(100% - 20px)}
+.col2-w {
+    width: calc(100% - 20px)
+}
 
 /*----- BGROUND -----*/
-.bg-lg {background-color: #eeeeee66;}
+.bg-lg {
+    background-color: #eeeeee66;
+}
 
 /*----- ALIGN ----*/
-.va-b {vertical-align: bottom !important;}
+.va-b {
+    vertical-align: bottom !important;
+}
+
+/*----- BLOCKQUOTE -----*/
+blockquote {
+    background-color: aliceblue;
+    border-color: dodgerblue;
+    border-left: 4px solid;
+    margin-inline-end: 10px;
+    margin-inline-start: 10px;
+    padding: 1px 20px
+}
+
+blockquote>p,
+blockquote>p>a {
+    background-color: transparent
+}
+
+/*----- BQUOTE SPIRIT ------*/
+blockquote.spirit-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    padding-right: 20px;
+    text-align: right
+}
+
+blockquote.spirit,
+blockquote.spirit-multi {
+    background-color: #F4FAFF;
+    border-left: 4px solid dodgerblue
+}
+
+blockquote.spirit>p,
+blockquote.spirit>p>a {
+    background-color: transparent
+}
+
+blockquote.spirit-multi>p:nth-child(2) {
+    font-style: normal;
+    font-weight: 400;
+    padding: 0 20px;
+    text-align: right
+}
+
+/*----- BQUOTE BIBLE ----*/
+blockquote.bible,
+blockquote.bible-multi {
+    background-color: #FCF4FC;
+    border-left: 4px solid orchid
+}
+
+blockquote.bible-multi>p:nth-child(2) {
+    font-style: normal;
+    font-weight: 400;
+    padding: 0 20px;
+    text-align: right
+}
+
+/*----- BQUOTE ELEMENTS ----*/
+blockquote>p>img {
+    vertical-align: middle
+}
+
+blockquote.image {
+    border: 1px solid var(--grey);
+    font-size: 12px;
+    padding: 10px;
+    text-align: center
+}
+
+blockquote.image img {
+    width: 100%
+}
+
+blockquote em {
+    color: crimson
+}
+
+blockquote.grey {
+    background-color: #eee;
+    border-color: solid var(--grey);
+    border-left: 4px solid
+}
+
+blockquote.grey>p,
+blockquote.grey>p>a {
+    background-color: transparent
+}
+
+blockquote strong {font-weight: 300;}

@@ -1,12 +1,11 @@
 blockquote.bible,
 blockquote.bible-multi {
-    background-color: #FCF4FC !important;
-    border-left: 4px solid orchid !important
+    background-color: #FCF4FC;
+    border-left: 4px solid orchid
 }
 
-
 blockquote.bible-multi>p:nth-child(2) {
-    font-style: normal !important;
+    font-style: normal;
     font-weight: 400;
     padding: 0 20px;
     text-align: right

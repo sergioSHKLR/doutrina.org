@@ -214,14 +214,14 @@ De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens
 > 👻 ▸ Mensagem
 >
 > Espírito
-{:.spirit}
+{:.spirit-multi}
 
 e este outro formato para mensagesn bíblicas
 
 > ✝️ ▸ Mensagem (*Jesus*)
 >
 > Livro, cap. X, vers. Y, ARC
-{:.bible}
+{:.bible-multi}
 
 Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras avermelhadas.
 
