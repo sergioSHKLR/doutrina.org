@@ -3,11 +3,20 @@
 #col2-body tr,
 #col2-body pre {
     width: calc(100% - 40px);
-    margin: 10px;
-    padding: 10px;
+    padding: 0 10px;
     gap: 10px;
     margin-left: 10px;
     margin-right: 30px;
+    line-height: 1.7;
+}
+
+#col2-body p>ul,
+#col2-body p>ol {
+    width: calc(100% - 40px);
+    padding: 0 10px;
+    margin-left: 20px;
+    margin-right: 30px;
+    line-height: 1.7;
 }
 
 table,
@@ -166,8 +175,13 @@ blockquote {
     border-left: 4px solid dodgerblue;
     margin-inline-end: 20px;
     margin-inline-start: 20px;
-    padding: 1px 10px;
+    padding: 5px 10px;
     margin-right: 40px;
+}
+
+#col2-body>blockquote p {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 blockquote>p>a {
@@ -214,7 +228,6 @@ blockquote>p>img {
 
 #col2-body>blockquote.image {
     border: 1px solid var(--grey);
-    font-size: 12px;
     padding: 10px;
     text-align: center;
     background-color: var(--light-grey);
@@ -222,7 +235,7 @@ blockquote>p>img {
 }
 
 #col2-body>blockquote.image p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 blockquote img {
@@ -234,9 +247,16 @@ blockquote em {
 }
 
 blockquote.grey {
-    background-color: #eee;
+    background-color: var(--light-grey);
     border-color: solid var(--grey);
-    border-left: 4px solid
+    border-left: 4px solid var(--grey)
+}
+
+blockquote.grey-center {
+    background-color: var(--light-grey);
+    border-color: solid var(--grey);
+    border-left: 4px solid var(--grey);
+    text-align: center;
 }
 
 blockquote.grey>p,

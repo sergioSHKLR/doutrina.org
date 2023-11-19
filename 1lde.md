@@ -33,23 +33,24 @@ layout: template-1lde
 
 ### 🗂️ Folha de rosto {#lde-0-01}
 
- [Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo)  
-
- 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos)  
-
- Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita  
-
- Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade).  
-
- por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻)  
-
- Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
-
- Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}  
- 
- Modificado para o consumo digital por Sergio de  
-
- ⭕ [shklr.org](https://shklr.org){:target="_blank"} 
+>[Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo)  
+>
+> 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos)  
+>
+> Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita  
+>
+> Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade).  
+>
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻)  
+>
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
+>
+>Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}  
+>
+> Modificado para o consumo digital por Sergio de  
+>
+> ⭕ [shklr.org](https://shklr.org){:target="_blank"} 
+{:.grey-center}
 
 ### 🗂️ Prefácio {#lde-0-02}
 
@@ -333,7 +334,7 @@ Acham também singular que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espí
 
 > ✝️ ▸ *E o que a si mesmo se [exaltar](https://pt.m.wiktionary.org/wiki/exaltar) será humilhado; e o que a si mesmo se humilhar será exaltado.*  
 >
-> ([Mateus][Mt], [cap. 23][Mt23], [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC), [ARC][ARC])  
+> [Mateus][Mt], [cap. 23][Mt23], [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC), [ARC][ARC]  
 {:.bible-multi}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na [Terra](https://pt.m.wikipedia.org/wiki/Terra) pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso [monarca](https://pt.m.wiktionary.org/wiki/monarca) pode achar-se lá muito abaixo do último dos seus soldados.
