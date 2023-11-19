@@ -233,6 +233,10 @@ body {
     scroll-behavior: smooth;
 }
 
+.overflow-0 {
+    overflow: hidden;
+}
+
 /* ----- FONT SIZE  ----- */
 .fs-0 {
     font-size: 24px;
@@ -240,6 +244,10 @@ body {
 
 .fs-1 {
     font-size: 20px;
+}
+
+.fs-1a {
+    font-size: 18px;
 }
 
 .fs-2 {
@@ -373,6 +381,10 @@ body {
 }
 
 /* ----- WIDTH  ----- */
+.w-50 {
+    width: 50%
+}
+
 .w-100 {
     width: 100%;
 }
@@ -533,3 +545,11 @@ img#israel {
     filter: invert(.87);
 }
 
+/*----- ALIGN -----*/
+.va-m {
+    vertical-align: middle;
+}
+
+.va-b {
+    vertical-align: bottom !important;
+}

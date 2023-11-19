@@ -1,0 +1,24 @@
+blockquote.spirit-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    padding-right: 20px;
+    text-align: right
+}
+
+blockquote.spirit,
+blockquote.spirit-multi {
+    background-color: #F4FAFF;
+    border-left: 4px solid dodgerblue !important
+}
+
+blockquote.spirit>p,
+blockquote.spirit>p>a {
+    background-color: transparent !important
+}
+
+blockquote.spirit-multi>p:nth-child(2) {
+    font-style: normal !important;
+    font-weight: 400;
+    padding: 0 20px;
+    text-align: right
+}

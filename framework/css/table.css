@@ -1,0 +1,31 @@
+table,
+tr,
+pre {
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    gap: 10px;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px solid var(--grey);
+    border-collapse: collapse;
+}
+
+th {
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid var(--grey);
+}
+
+tr {
+    border: 1px solid var(--grey);
+}
+
+td {
+    text-align: left;
+    border: 1px solid var(--grey);
+}

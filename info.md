@@ -24,33 +24,33 @@ Para tal fim desenvolvemos uma interface inédita em três colunas, que se ajust
 
 Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando um tablet ou celular, você pode mudar a orientação (de pé para deitado) para obter uma largura maior.
 
-<iframe id="screenshot1" src="./iframe_content/desktop.html" style="width: 100%; border: none; height: 400px; overflow: hidden; "></iframe>
+<iframe id="screenshot1" class="border-0 overflow-h w-100" src="./iframe_content/desktop.html" style="height: 400px;"></iframe>
 
-<iframe id="screenshot2" src="./iframe_content/tablet.html" style="width: 100%; border: none; height: 400px; overflow: hidden; "></iframe>
+<iframe id="screenshot2" class="border-0 overflow-h w-100" src="./iframe_content/tablet.html" style="height: 400px; "></iframe>
 
-<iframe id="screenshot3" src="./iframe_content/celular.html" style="width: 100%; border: none; height: 400px; overflow: hidden; "></iframe>
+<iframe id="screenshot3" class="border-0 overflow-h w-100" src="./iframe_content/celular.html" style="height: 400px; "></iframe>
 
 Os botões ao topo da página servem aos seguintes propósitos:
 
-<div style="padding: 10px; border: 1px solid gainsboro;  background-color: rgba(238, 238, 238, .25);
-">
-<p class="hidebtn2"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">menu</span>&nbsp;-&nbsp;Mostrar/esconder Coluna 1</p>
-<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">language</span>&nbsp;-&nbsp;Abrir página do Wikipédia</p>
-<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">book_2</span>&nbsp;-&nbsp;Abrir página do Wikicionário</p>
-<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">video_call</span>&nbsp;-&nbsp;Iniciar vídeo reunião (estudos em grupo)</p>
-<p class="hidebtn"><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">visibility_off</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">visibility</span>&nbsp;-&nbsp;Ativar ou desativar cortina anti-distração</p>
-<p><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">dark_mode</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">light_mode</span>&nbsp;-&nbsp;Alternar entre modo escuro e modo claro</p>
-<p><span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">fullscreen</span> | <span class="material-symbols-outlined" style="font-size: 18px; vertical-align: bottom;">fullscreen_exit</span>&nbsp;-&nbsp;Alternar entre tela cheia e tela normal</p></div>
+<table class="border p-10 fs-3 ff-slab col2-w ml-10">
+<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr class="hidebtn2"><td><span class="fs-1a material-symbols-outlined">menu</span></td><td class="fs-3">Mostrar/esconder Coluna 1</td></tr>
+<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">language</span></td><td class="fs-3">Abrir página do Wikipédia</td></tr>
+<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">book_2</span></td><td class="fs-3">Abrir página do Wikicionário</td></tr>
+<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">video_call</span></td><td class="fs-3">Iniciar vídeo reunião (estudos em grupo)</td></tr>
+<tr class="hidebtn"><td><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td><td class="fs-3">Ativar ou desativar cortina anti-distração</td></tr>
+<tr><td><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td><td class="fs-3">Alternar entre modo escuro e modo claro</td></tr>
+<tr><td><span class="fs-1a material-symbols-outlined">fullscreen</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">fullscreen_exit</span></td><td class="fs-3">Alternar entre tela cheia e tela normal</td></tr>
+</table>
 
 <p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
 
-<div style="padding: 10px; border: 1px solid gainsboro;  background-color: rgba(238, 238, 238, .25);
-">
-<p><img src="./framework/hypo-a.svg" style="all: unset; width: 35px; vertical-align: middle"> - Mostrar/esconder barra de anotações</p>
-<p><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle"> - Mostras/esconder anotações (grifados em amarelo)</p>
-<p><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle"> - Criar nova anotação de página</p>
-</div>
-
+<table class="border p-10 fs-3 ff-slab col2-w ml-10">
+<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr><td><img src="./framework/hypo-a.svg" style="all: unset; width: 35px; vertical-align: middle"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle"></td><td>Criar nova anotação de página</td></tr>
+</table>
 
 ## Método
 
@@ -64,20 +64,48 @@ Analisando a divisão dos livro em partes, decidimos por nomear as seções ante
 
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
-| **Emoji** | **Sigla** | **Livro** |
-| :--- | :--- | :--- |
-| 👻 (fantasma) | `LDE` | O Livro dos Espíritos |
-| ✒️ (caneta tinteiro) | `LDM` | O Livro dos Médiuns |
-| 🕊️ (pomba branca) | `ESE` | O Evangelho segundo o Espiritismo |
-| 🔥 (fogo) | `CEU` | O Céu e o Inferno |
-| 🌱 (muda de planta) | `GEN` | A Gênese |
-{:.grid}
+<table class="ff-slab fs-3 border">
+ <thead class="bg-lg">
+ <tr>
+ <th style="width: 20%">Emoji</th>
+ <th style="width: 30%">Sigla</th>
+ <th>Livro</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>👻 (fantasma)</td>
+ <td>LDE</td>
+ <td>O Livro dos Espíritos</td>
+ </tr>
+ <tr>
+ <td>✒️ (caneta tinteiro)</td>
+ <td>LDM</td>
+ <td>O Livro dos Médiuns</td>
+ </tr>
+ <tr>
+ <td>🕊️ (pomba branca)</td>
+ <td>ESE</td>
+ <td>O Evangelho segundo o Espiritismo</td>
+ </tr>
+ <tr>
+ <td>🔥 (fogo)</td>
+ <td>CEU</td>
+ <td>O Céu e o Inferno</td>
+ </tr>
+ <tr>
+ <td>🌱 (muda de planta)</td>
+ <td>GEN</td>
+ <td>A Gênese</td>
+ </tr>
+ </tbody>
+</table>
 
 ### Hierarquia
 
 Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
 
-<pre>
+<pre class="fs-3 col2-w bg-lg">
 ❓ livro (podendo ser 👻, ✒️, 🕊️, 🔥 ou 🌱)
  |
  └── 🗂️ parte
@@ -85,7 +113,7 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
       └── 📑 capítulo
            |
            └── 📃 seção
-                |     
+                | 
                 └── #️⃣ questão
 </pre>
 
@@ -93,7 +121,7 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 ### Código chave
 
-<pre>
+<pre class="fs-3 col2-w bg-lg">
 LIV-X-XX-XX
  |  |  |  |
  |  |  |  └── 📃 seção
@@ -105,14 +133,14 @@ LIV-X-XX-XX
  └── 📔 livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
-E em especial no LDE, o código para questões é modificado da sequência lógica de `LDE-X-XX-XX-XXXX` para:
+E em especial no LDE, o código para questões é modificado da sequência lógica de LDE-X-XX-XX-XXXX para:
 
-<pre>
+<pre class="fs-3 col2-w bg-lg">
 LIV-qXXXXa
- |   |   |
- |   |   └── sub-questão
- |   |
- |   └── questão
+ |  |    |
+ |  |    └── sub-questão
+ |  |
+ |  └── questão
  |
  └── livro (podendo ser LDE, LDM, ESE, CEU ou GEN)
 </pre>
@@ -121,21 +149,63 @@ Como ilustrado acima, usamos três letras para o livro, um dígito para partes, 
 
 Em suma, temos esta tabela descritiva abaixo:
 
-| **Emoji** | **Descrição** | **Código chave** |
-| :--- | :--- | :--- | :--- |
-| 📔 | livro | `LIV` |
-| 🗂️ | parte | `LIV-X` |
-| 📑 | capítulo | `LIV-X-XX` |
-| 📃 | seção | `LIV-X-XX-XX` |
-| #️⃣ | questão | `LIV.(q)(p)X` |
+<table class="ff-slab fs-3 border">
+ <thead class="bg-lg">
+ <tr>
+ <th style="width: 20%">Emoji</th>
+ <th style="width: 30%">Descrição</th>
+ <th>Código chave</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>📔</td>
+ <td>livro</td>
+ <td>LIV</td>
+ </tr>
+ <tr>
+ <td>🗂️</td>
+ <td>parte</td>
+ <td>LIV-X</td>
+ </tr>
+ <tr>
+ <td>📑</td>
+ <td>capítulo</td>
+ <td>LIV-X-XX</td>
+ </tr>
+ <tr>
+ <td>📃</td>
+ <td>seção</td>
+ <td>LIV-X-XX-XX</td>
+ </tr>
+ <tr>
+ <td>#️⃣</td>
+ <td>questão</td>
+ <td>LIV-(q)(p)X</td>
+ </tr>
+ </tbody>
+</table>
 
 Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
 
 **Adicionais**
 
-| **Emoji** | **Descrição** | **Conteúdo** |
-| :--- | :--- | :--- |
-| 👉 | segmento relacionado | indicação para leitura complementar |
+<table class="ff-slab fs-3 border">
+ <thead class="bg-lg">
+ <tr>
+ <th style="width: 20%">Emoji</th>
+ <th style="width: 30%">Descrição</th>
+ <th>Conteúdo</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>👉</td>
+ <td>segmento relacionado</td>
+ <td>indicação para leitura complementar</td>
+ </tr>
+ </tbody>
+</table>
 
 Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
 
@@ -166,7 +236,7 @@ Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras av
 Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
 
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
-  
+ 
 Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
 
 <p>&nbsp;</p>
