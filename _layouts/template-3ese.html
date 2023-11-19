@@ -45,14 +45,8 @@ content="Uma plataforma inédita de estudos integrados; permitindo anotações, 
 <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#1fada6">
 
-<!-- HYPOTHES.IS -->
-<script type="application/json" class="js-hypothesis-config">
-{
-"openSidebar": false,
-"showHighlights": true
-}
-</script>
-<script defer src="https://hypothes.is/embed.js"></script>
+<!-- CRISP -->
+<script src="../framework/js/crisp.js"></script>
 
 </head>
 
@@ -235,8 +229,14 @@ src="./iframe.html" style="background-color: #fff;"></iframe>
 </div>
 
 <!-- SCRIPTS -->
-<script defer src="./framework/js/script.js"></script>
-<script defer src="./framework/js/crisp.js"></script>
+<script async src="../framework/js/script.js"></script>
+<script type="application/json" class="js-hypothesis-config">
+    {
+    "openSidebar": false,
+    "showHighlights": true
+    }
+    </script>
+    <script async src="https://hypothes.is/embed.js"></script>
 
 <!-- STAND WIHT US -->
 <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./framework/israel-2.svg"
