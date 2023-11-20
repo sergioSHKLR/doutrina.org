@@ -52,11 +52,13 @@ Os botões ao topo da página servem aos seguintes propósitos:
 <td class="fs-3">vídeo chamada</td>
 <td class="fs-3">iniciar vídeo chamada (estudos em grupo)</td>
 </tr>
+<!--
 <tr class="d t">
 <td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td>
 <td class="fs-3">cortina anti-distração</td>
 <td class="fs-3">ativar ou desativar cortina anti-distração</td>
 </tr>
+-->
 <tr class="d t c">
 <td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td>
 <td class="fs-3">modo escuro/claro</td>
