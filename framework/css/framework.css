@@ -20,6 +20,8 @@ html {
     padding: 0px;
 }
 
+* {transition: background-color 800ms ease}
+
 body {
     margin: 0px;
     padding: 0px;
