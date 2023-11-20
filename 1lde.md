@@ -935,7 +935,8 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### Seres orgânicos e inorgânicos
 
-Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
+> Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
+{:.grey}
 
 ###### Q.60
 
@@ -2084,9 +2085,9 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 À medida que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se purifica, o corpo que o reveste se aproxima igualmente da natureza espírita. Torna-se-lhe menos densa a matéria, deixa de rastejar penosamente pela superfície do solo, menos grosseiras se lhe fazem as necessidades físicas, não mais sendo preciso que os seres vivos se destruam mutuamente para se nutrirem. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se acha mais livre e tem, das coisas longínquas, percepções que desconhecemos. Vê com os olhos do corpo o que só pelo pensamento entrevemos.
 
-> Da purificação do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) decorre o aperfeiçoamento moral, para os seres que eles constituem, quando encarnados. As paixões animais se enfraquecem e o egoísmo cede lugar ao sentimento da fraternidade. Assim é que, nos mundos superiores ao nosso, se desconhecem as guerras, carecendo de objeto os ódios e as discórdias, porque ninguém pensa em causar dano ao seu semelhante. A intuição que seus habitantes têm do futuro, a segurança que uma [consciência](https://pt.m.wikipedia.org/wiki/Consciência) isenta de remorsos lhes dá, fazem que a [morte](https://pt.m.wikipedia.org/wiki/Morte) nenhuma apreensão lhes cause. Encaram-na de frente, sem temor, como simples transformação.
-> 
-> A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos.
+Da purificação do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) decorre o aperfeiçoamento moral, para os seres que eles constituem, quando encarnados. As paixões animais se enfraquecem e o egoísmo cede lugar ao sentimento da fraternidade. Assim é que, nos mundos superiores ao nosso, se desconhecem as guerras, carecendo de objeto os ódios e as discórdias, porque ninguém pensa em causar dano ao seu semelhante. A intuição que seus habitantes têm do futuro, a segurança que uma [consciência](https://pt.m.wikipedia.org/wiki/Consciência) isenta de remorsos lhes dá, fazem que a [morte](https://pt.m.wikipedia.org/wiki/Morte) nenhuma apreensão lhes cause. Encaram-na de frente, sem temor, como simples transformação.
+ 
+A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos.
 
 ###### Q.183
 
@@ -4736,6 +4737,7 @@ Poderá dar-se que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) prot
 > Não receeis fatigar-nos com as vossas perguntas. Ao contrário, procurai estar sempre em relação conosco. Sereis assim mais fortes e mais felizes. São essas comunicações de cada um com o seu [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) familiar que fazem sejam [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade) todos os homens, [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade) ignorados hoje, mas que se manifestarão mais tarde e se espalharão qual oceano sem margens, levando de roldão a incredulidade e a ignorância. Homens doutos, instruí os vossos semelhantes; homens de talento, educai os vossos irmãos. Não imaginais que obra fazeis desse modo: a do [Cristo][2], a que [Deus][0] vos impõe. Para que vos outorgou [Deus][0] a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna.
 >
 > São Luís, IX de França e Santo Agostinho
+{:.spirit-multi}
 
 Nada tem de surpreendente a doutrina dos [anjos](https://pt.m.wikipedia.org/wiki/Anjo) guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na [Terra](https://pt.m.wikipedia.org/wiki/Terra) o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 
@@ -5635,9 +5637,9 @@ Nos mundos superiores, os animais conhecem a [Deus][0]?
 
 ###### Q.604
 
-> 👻 ▸ Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, são sempre inferiores ao homem, segue-se que [Deus][0] criou seres intelectuais perpetuamente destinados à inferioridade, o que parece em desacordo com a unidade de vistas e de progresso que todas as suas obras revelam.
+Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, são sempre inferiores ao homem, segue-se que [Deus][0] criou seres intelectuais perpetuamente destinados à inferioridade, o que parece em desacordo com a unidade de vistas e de progresso que todas as suas obras revelam.
 
-> Tudo na Natureza se encadeia por elos que ainda não podeis apreender. Assim, as coisas aparentemente mais díspares têm pontos de contato que o homem, no seu estado atual, nunca chegará a compreender. Por um esforço da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) poderá entrevê-los, mas, somente quando essa [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) estiver no máximo grau de desenvolvimento e liberta dos preconceitos do orgulho e da ignorância, logrará ver claro na obra de [Deus][0]. Até lá, suas muito restritas ideias lhe farão observar as coisas por um mesquinho e acanhado prisma. Sabei não ser possível que [Deus][0] se contradiga e que, na Natureza, tudo se harmoniza mediante leis gerais, que por nenhum de seus pontos deixam de corresponder à sublime [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) do Criador.
+> 👻 ▸ Tudo na Natureza se encadeia por elos que ainda não podeis apreender. Assim, as coisas aparentemente mais díspares têm pontos de contato que o homem, no seu estado atual, nunca chegará a compreender. Por um esforço da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) poderá entrevê-los, mas, somente quando essa [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) estiver no máximo grau de desenvolvimento e liberta dos preconceitos do orgulho e da ignorância, logrará ver claro na obra de [Deus][0]. Até lá, suas muito restritas ideias lhe farão observar as coisas por um mesquinho e acanhado prisma. Sabei não ser possível que [Deus][0] se contradiga e que, na Natureza, tudo se harmoniza mediante leis gerais, que por nenhum de seus pontos deixam de corresponder à sublime [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) do Criador.
 
 ###### Q.604.a
 
@@ -8239,14 +8241,15 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 Concebemos toda a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) desta máxima, porém a dificuldade está precisamente em cada um conhecer-se a si mesmo. Qual o meio de consegui-lo?
 
 > 👻 ▸ Fazei o que eu fazia, quando vivi na Terra: ao fim do dia, interrogava a minha consciência, passava revista ao que fizera e perguntava a mim mesmo se não faltara a algum dever, se ninguém tivera motivo para de mim se queixar. Foi assim que cheguei a me conhecer e a ver o que em mim precisava de reforma. Aquele que, todas as noites, evocasse todas as ações que praticara durante o dia e inquirisse de si mesmo o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) ou o mal que houvera feito, rogando a [Deus][0] e ao seu [anjo](https://pt.m.wikipedia.org/wiki/Anjo) de guarda que o esclarecessem, grande força adquiriria para se aperfeiçoar, porque, crede-me, [Deus][0] o assistiria. Dirigi, pois, a vós mesmos perguntas, interrogai-vos sobre o que tendes feito e com que objetivo procedestes em tal ou tal circunstância, sobre se fizestes alguma coisa que, feita por outrem, censuraríeis, sobre se obrastes alguma ação que não ousaríeis confessar. Perguntai ainda mais: ‘Se aprouvesse a [Deus][0] chamar-me neste momento, teria que temer o olhar de alguém, ao entrar de novo no mundo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), onde nada pode ser ocultado?’.
->
+>  
 > Examinai o que pudestes ter obrado contra [Deus][0], depois contra o vosso próximo e, finalmente, contra vós mesmos. As respostas vos darão, ou o descanso para a vossa consciência, ou a indicação de um mal que precise ser curado.
->
+>  
 > O conhecimento de si mesmo é, portanto, a chave do progresso individual. Direis, como há de alguém julgar-se a si mesmo? Não está aí a ilusão do amor-próprio para atenuar as faltas e torná-las desculpáveis? O avarento se considera apenas econômico e previdente; o orgulhoso julga que em si só há dignidade. Isto é muito real, mas tendes um meio de verificação que não pode iludir-vos. Quando estiverdes indecisos sobre o valor de uma de vossas ações, inquiri como a qualificaríeis, se praticada por outra pessoa. Se a censurais noutrem, não na podereis ter por legítima quando fordes o seu autor, pois que [Deus][0] não usa de duas medidas na aplicação de sua justiça. Procurai também saber o que dela pensam os vossos semelhantes e não desprezeis a opinião dos vossos inimigos, porquanto esses nenhum interesse têm em mascarar a [verdade](https://pt.m.wikipedia.org/wiki/Verdade) e [Deus][0] muitas vezes os coloca ao vosso lado como um espelho, a fim de que sejais advertidos com mais franqueza do que o faria um amigo. Perscrute, conseguintemente, a sua [consciência](https://pt.m.wikipedia.org/wiki/Consciência) aquele que se sinta possuído do desejo sério de melhorar-se, a fim de extirpar de si os maus pendores, como do seu jardim arranca as ervas daninhas; dê balanço no seu dia moral para, a exemplo do comerciante, avaliar suas perdas e seus lucros e eu vos asseguro que a conta destes será mais avultada que a daquelas. Se puder dizer que foi bom o seu dia, poderá dormir em paz e aguardar sem receio o despertar na outra vida.
->
+>  
 > Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos).
 >  
 > Santo Agostinho
+{:.spirit-multi}
 
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) ou de mal que existe em nós.
 
@@ -8365,7 +8368,6 @@ De ordinário, o homem só é infeliz pela importância que liga às coisas dest
 Aquele que só vê felicidade na satisfação do orgulho e dos apetites grosseiros é infeliz, desde que não os pode satisfazer, ao passo que aquele que nada pede ao supérfluo é feliz com os que outros consideram calamidades.
 
 Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra no **sentimento cristão, que lhe dá a esperança de melhor futuro, e no [Espiritismo][3], que lhe dá a certeza desse futuro**.
-{:.kardec}
 
 #### Perda dos entes queridos
 
@@ -8993,6 +8995,7 @@ Em que se baseia a duração dos sofrimentos do culpado?
 > 👻 ▸ No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.
 >
 > São Luís, IX de França
+{:.spirit-multi}
 
 ###### Q.1005
 
@@ -9007,6 +9010,7 @@ Poderão durar eternamente os sofrimentos do [Espírito](https://pt.m.wikipedia.
 > 👻 ▸ Poderiam, se ele pudesse ser eternamente mau, isto é, se jamais se arrependesse e melhorasse, sofreria eternamente. [Deus][0], porém, não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da [vontade](https://pt.m.wikipedia.org/wiki/Vontade) de cada um. Mais ou menos tardia pode ser a vontade, do mesmo modo que há crianças mais ou menos precoces, porém, cedo ou tarde, ela aparece, por efeito da irresistível necessidade que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) sente de sair da inferioridade e de se tornar feliz. Eminentemente sábia e magnânima é, pois, a lei que rege a duração das penas, porquanto subordina essa duração aos esforços do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Jamais o priva do seu livre-arbítrio: se deste faz ele mau uso, sofre as consequências.
 >
 > São Luís, IX de França
+{:.spirit-multi}
 
 ###### Q.1007
 
@@ -9015,6 +9019,7 @@ Haverá [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que nunca se arr
 > 👻 ▸ Há os de arrependimento muito tardio; porém, pretender-se que nunca se melhorarão fora negar a lei do progresso e dizer que a criança não pode tornar-se homem.
 >
 > São Luís, IX de França
+{:.spirit-multi}
 
 ###### Q.1008
 
@@ -9023,6 +9028,7 @@ Depende sempre da [vontade](https://pt.m.wikipedia.org/wiki/Vontade) do [Espíri
 > 👻 ▸ Sim, ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) podem ser impostas penas por determinado tempo; mas [Deus][0], que só quer o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) de suas criaturas, acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) manifeste de se melhorar.
 >
 > São Luís, IX de França
+{:.spirit-multi}
 
 ###### Q.1009
 
@@ -9033,16 +9039,19 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 > ✝️ ▸ *A cada um segundo as suas obras.* (Romanos, cap. 2, vers. 6, [ARC][ARC])
 >
 > Santo Agostinho
+{:.spirit-multi}
 
 > 👻 ▸ Aplicai-vos, por todos os meios ao vosso alcance, em combater, em aniquilar a ideia da eternidade das penas, ideia blasfematória da justiça e da bondade de [Deus][0], gérmen fecundo da incredulidade, do materialismo e da indiferença que invadiram as massas humanas, desde que as inteligências começaram a desenvolver-se. O [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), prestes a esclarecer-se, ou mesmo apenas desbastado, logo lhe apreendeu a monstruosa injustiça. Sua [razão](https://pt.m.wikipedia.org/wiki/Razão) a repele e, então, raro é que não englobe no mesmo repúdio a pena que o revolta e o [Deus][0] a quem a atribui. Daí os males sem conta que hão desabado sobre vós e aos quais vimos trazer remédio. Tanto mais fácil será a tarefa que vos apontamos, quanto é certo que todas as autoridades em quem se apoiam os defensores de tal crença evitaram todas pronunciar-se formalmente a respeito. Nem os concílios, nem os Pais da Igreja resolveram essa grave questão. Muito embora, segundo os evangelistas e tomadas ao pé da letra as palavras emblemáticas do [Cristo][2], Ele tenha ameaçado os culpados com um fogo que se não extingue, com um fogo eterno, absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado **eternamente**.
 >
 > Pobres ovelhas desgarradas, aprendei a ver aproximar-se de vós o Bom Pastor, que, longe de vos banir para todo o sempre de sua presença, vem pessoalmente ao vosso encontro, para vos reconduzir ao aprisco. Filhos pródigos, deixai o vosso voluntário exílio; encaminhai vossos passos para a morada paterna. O Pai vos estende os braços e está sempre pronto a festejar o vosso regresso ao seio da família.
 >  
 > Lamennais
+{:.spirit-multi}
 
 > 👻 ▸ Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: eternidade das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. Eternidade dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa [razão](https://pt.m.wikipedia.org/wiki/Razão) humana, porém, tal como a tendes, ela é uma dádiva de [Deus][0] e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por eterno o mal. Somente [Deus][0] é eterno e não poderia ter criado o mal eterno; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um [Deus][0] intrinsecamente bom, absolutamente poderoso, essencialmente justo.
 >  
 > Platão
+{:.spirit-multi}
 
 > 👻 ▸ Gravitar para a unidade divina, eis o fim da Humanidade. Para atingi-lo, três coisas são necessárias: a justiça, o [amor](https://pt.m.wikipedia.org/wiki/amor) e a ciência. Três coisas lhe são opostas e contrárias: a ignorância, o ódio e a injustiça. Pois bem! digo-vos, em [verdade](https://pt.m.wikipedia.org/wiki/Verdade), que mentis a estes princípios fundamentais, comprometendo a ideia de [Deus][0], com o lhe exagerardes a severidade. Duplamente a comprometeis, deixando que no [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da criatura penetre a suposição de que há nela mais clemência, mais virtude, [amor](https://pt.m.wikipedia.org/wiki/amor) e verdadeira justiça, do que atribuís ao ser infinito. Destruís mesmo a ideia do inferno, tornando-o ridículo e inadmissível às vossas crenças, como o é aos vossos corações o horrendo espetáculo das execuções, das fogueiras e das torturas da Idade Média! Pois quê! Quando banida se acha para sempre das legislações humanas a era das cegas represálias, é que esperais mantê-la no ideal? Oh! crede-me, crede-me, irmãos em [Deus][0] e em [Jesus][1] [Cristo][2], crede-me: ou vos resignais a deixar que pereçam nas vossas mãos todos os vossos dogmas, de preferência a que se modifiquem, ou, então, vivificai-os, abrindo-os aos benfazejos eflúvios que os Bons, neste momento, derramam neles. A ideia do inferno, com as suas fornalhas ardentes, com as suas caldeiras a ferver, pôde ser tolerada, isto é, perdoável, num século de ferro; porém, no século XIX, não passa de vão fantasma, próprio, quando muito, para amedrontar criancinhas e em que estas, crescendo um pouco, logo deixam de crer. Se persistirdes nessa mitologia aterradora, engendrareis a incredulidade, mãe de toda a desorganização social. Tremo, entrevendo toda uma ordem social abalada e a ruir sobre os seus fundamentos, por falta de sanção penal. Homens de fé ardente e viva, vanguardeiros do dia da luz, mãos à obra, não para manter fábulas que envelheceram e se desacreditaram, mas para reavivar, revivificar a verdadeira sanção penal, sob formas condizentes com os vossos costumes, os vossos sentimentos e as luzes da vossa época.
 >
@@ -9052,7 +9061,8 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 >
 > Oh! em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) vos digo, cessai, cessai de pôr em paralelo, na sua eternidade, o Bem, essência do Criador, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento [gradual](https://pt.m.wiktionary.org/wiki/gradual) dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
 >  
-> Paulo, apóstolo.
+> Paulo, apóstolo
+{:.spirit-multi}
 
 > 👻 ▸ Com o atrativo de recompensas e temor de castigos, procura-se estimular o homem para o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e desviá-lo do mal. Se esses castigos, porém, lhe são apresentados de forma que a sua [razão](https://pt.m.wikipedia.org/wiki/Razão) se recuse a admiti-los, nenhuma influência terão sobre ele. Longe disso, rejeitará tudo: a forma e o fundo. Se, ao contrário, lhe apresentarem o futuro de maneira lógica, ele não o repelirá. O [Espiritismo][3] lhe dá essa explicação.
 >
@@ -9079,6 +9089,7 @@ Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrin
 > 👻 ▸ É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o [Espiritismo][3] ressalta a cada passo do texto mesmo das Escrituras sagradas. Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.
 >  
 > São Luís, IX de França
+{:.spirit-multi}
 
 Efetivamente, a [Ciência](https://pt.m.wikipedia.org/wiki/Ciência) demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 
@@ -9159,6 +9170,7 @@ Poderá jamais implantar-se na [Terra](https://pt.m.wikipedia.org/wiki/Terra) o 
 > Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.
 >  
 > São Luís, IX de França
+{:.spirit-multi}
 
 ## 5. 🗃️ Conclusão {#lde-5}
 
@@ -9242,6 +9254,7 @@ Se é certo que, entre os adeptos do [Espiritismo][3], se contam os que divergem
 > 👻 ▸ Por [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um [Deus][0] de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O [Espiritismo][3] é o laço que um dia os unirá, porque lhes mostrará onde está a [verdade](https://pt.m.wikipedia.org/wiki/Verdade), onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o [Cristo][2]. Quereis saber sob a influência de que [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de [Jesus][1], porque seguem a estrada que este lhes indicou para chegarem até Ele.
 >  
 > Santo Agostinho
+{:.spirit-multi}
 
 ---
 
