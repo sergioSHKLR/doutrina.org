@@ -2,6 +2,14 @@
 
 // DARK MODE --------------------------------------------------
 
+// check and enable if dark mode
+(function () {
+    let mode = localStorage.getItem("mode");
+    if (mode == "dark2") {
+        activeDark2()
+    }
+})();
+
 function activeDark2() {
     var element = document.body;
     element.classList.add("dark-mode");
@@ -22,6 +30,14 @@ function inactiveDark2() {
     var element = document.getElementById("col2-dm-btn");
     element.classList.toggle("hide");
 }
+
+// check and enable if dark mode
+(function () {
+    let mode = localStorage.getItem("mode");
+    if (mode == "dark3") {
+        activeDark3()
+    }
+})();
 
 function activeDark3() {
     var element = document.body;
@@ -44,22 +60,6 @@ function inactiveDark3() {
     var element = document.getElementById("col3-dm-btn");
     element.classList.toggle("hide");
 }
-
-// check and enable if dark mode
-(function () {
-    let mode = localStorage.getItem("mode");
-    if (mode == "dark2") {
-        activeDark2()
-    }
-})();
-
-// check and enable if dark mode
-(function () {
-    let mode = localStorage.getItem("mode");
-    if (mode == "dark3") {
-        activeDark3()
-    }
-})();
 
 //---------------------------------------------------------------
 
