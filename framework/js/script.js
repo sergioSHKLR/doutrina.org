@@ -2,25 +2,32 @@
 
 // DARK MODE --------------------------------------------------
 
-// check and enable if dark mode
+// CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
 (function () {
-    let mode = localStorage.getItem("mode");
+    let mode2 = localStorage.getItem("mode");
     if (mode == "dark2") {
         activeDark2()
     }
 })();
 
+// DARK MODE COL2 --------------------------------------------------
 function activeDark2() {
+    // selects body and adds dark mode class
     var element = document.body;
     element.classList.add("dark-mode");
+    // set localstorage var mode to dark2
     localStorage.setItem("mode", "dark2");
+    // selects iframe and adds dark mode class
     document.getElementById("ext-iframe").classList.add('is-dark')
+    // select dark  mode button col2 and hides it
     var element = document.getElementById("col2-dm-btn");
     element.classList.toggle("hide");
+    // selects light mode button and shows it
     var element = document.getElementById("col2-lm-btn");
     element.classList.toggle("show");
 }
 
+// LIGHT MODE COL2--------------------------------------------------
 function inactiveDark2() {
     var element = document.body;
     element.classList.remove("dark-mode");
@@ -31,7 +38,7 @@ function inactiveDark2() {
     element.classList.toggle("hide");
 }
 
-// check and enable if dark mode
+// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
 (function () {
     let mode = localStorage.getItem("mode");
     if (mode == "dark3") {
@@ -39,6 +46,7 @@ function inactiveDark2() {
     }
 })();
 
+// DARK MODE COL3 --------------------------------------------------
 function activeDark3() {
     var element = document.body;
     element.classList.add("dark-mode");
@@ -50,6 +58,7 @@ function activeDark3() {
     element.classList.toggle("show");
 }
 
+// DARK MODE COL3 --------------------------------------------------
 function inactiveDark3() {
     var element = document.body;
     element.classList.remove("dark-mode");
@@ -61,13 +70,11 @@ function inactiveDark3() {
     element.classList.toggle("hide");
 }
 
-//---------------------------------------------------------------
 
 // FULLSCREEN ---------------------------------------------------
-
 var elem = document.documentElement;
 
-/* View in fullscreen */
+// OPEN FULLSCREEN COL2 -----------------------------------------
 function openFullscreen2() {
     if (elem.requestFullscreen) {
         elem.requestFullscreen();
@@ -82,7 +89,7 @@ function openFullscreen2() {
     element.classList.toggle("show");
 }
 
-/* Close fullscreen */
+// CLOSE FULLSCREEN COL2 -----------------------------------------
 function closeFullscreen2() {
     if (document.exitFullscreen) {
         document.exitFullscreen();
@@ -99,7 +106,7 @@ function closeFullscreen2() {
 
 var elem = document.documentElement;
 
-/* View in fullscreen */
+// OPEN FULLSCREEN COL3 ------------------------------------------
 function openFullscreen3() {
     if (elem.requestFullscreen) {
         elem.requestFullscreen();
@@ -114,7 +121,7 @@ function openFullscreen3() {
     element.classList.toggle("show");
 }
 
-/* Close fullscreen */
+// CLOSE FULLSCREEN COL3 -----------------------------------------
 function closeFullscreen3() {
     if (document.exitFullscreen) {
         document.exitFullscreen();
@@ -130,7 +137,37 @@ function closeFullscreen3() {
 
 }
 
-//--------------------------------------------------------------
+// MENU ----------------------------------------------------------
+
+// MENU ON -------------------------------------------------------
+function menuOn() {
+    document.getElementById("col1-body").style.display = 'inline-block';
+    document.getElementById("col2-menu-on").style.display = 'none';
+    document.getElementById("col2-menu-off").style.display = 'inline-block';
+}
+
+// MENU OFF -------------------------------------------------------
+function menuOff() {
+    document.getElementById("col1-body").style.display = 'none';
+    document.getElementById("col2-menu-off").style.display = 'none';
+    document.getElementById("col2-menu-on").style.display = 'inline-block';
+}
+
+
+// SETS COL2 LINKS TO TARGET EXT --------------------------------
+(function () {
+    const links = document.querySelectorAll("a[href^='https://pt.m'], a[href^='http://pt.m'], a[href^='https://www.bible'], a[href^='https://www.bible']")
+    const host = window.location.hostname
+
+    const isInternalLink = link => new URL(link).hostname === host
+
+    links.forEach(link => {
+        if (isInternalLink(link)) return
+
+        link.setAttribute("target", "ext")
+        link.setAttribute("rel", "noopener")
+    })
+})()
 
 // SHADE ------------------------------------------------------
 
@@ -156,43 +193,11 @@ function shadesOff() {
     element.classList.toggle("hide");
 }
 
-// check and enable if dark mode
 (function () {
     let shades = localStorage.getItem("shades");
     if (shades == "shadesOn") {
         shadesOn()
     }
 })();
-
-//--------------------------------------------------------------
-
-function menuOn() {
-    document.getElementById("col1-body").style.display = 'inline-block';
-    document.getElementById("col2-menu-on").style.display = 'none';
-    document.getElementById("col2-menu-off").style.display = 'inline-block';
-}
-
-function menuOff() {
-    document.getElementById("col1-body").style.display = 'none';
-    document.getElementById("col2-menu-off").style.display = 'none';
-    document.getElementById("col2-menu-on").style.display = 'inline-block';
-}
-
-// open col2-body links in ext frame
-(function () {
-    const links = document.querySelectorAll("a[href^='https://pt.m'], a[href^='http://pt.m'], a[href^='https://www.bible'], a[href^='https://www.bible']")
-    const host = window.location.hostname
-
-    const isInternalLink = link => new URL(link).hostname === host
-
-    links.forEach(link => {
-        if (isInternalLink(link)) return
-
-        link.setAttribute("target", "ext")
-        link.setAttribute("rel", "noopener")
-    })
-})()
-
-//-----
 
 

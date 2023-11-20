@@ -133,6 +133,7 @@ abbr {
 }
 
 pre {
+    background-color: var(--light-grey);
     border: 1px solid var(--grey);
     border-collapse: collapse;
     font-family: 'Roboto Mono', monospace;
@@ -182,6 +183,10 @@ span.material-symbols-outlined {
 /*----- BGROUND -----*/
 .bg-lg {
     background-color: #eeeeee66;
+}
+
+.bg-dk {
+    background-color: #333;
 }
 
 /*----- ALIGN ----*/
@@ -335,7 +340,13 @@ p.author {
 .dark-mode table,
 .dark-mode th,
 .dark-mode tr,
-.dark-mode td {
+.dark-mode td,
+.dark-mode pre {
+    background-color: #444
+}
+
+
+.dark-mode th {
     background-color: #333
 }
 
@@ -363,4 +374,7 @@ p.author {
     color: #fff
 }
 
-.dark-mode #col2-body a {color: dodgerblue; text-decoration-color: dodgerblue;}
+.dark-mode #col2-body a {
+    color: dodgerblue;
+    text-decoration-color: dodgerblue;
+}
