@@ -4,7 +4,7 @@
 
 // CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
 (function () {
-    let mode2 = localStorage.getItem("mode");
+    let mode = localStorage.getItem("mode");
     if (mode == "dark2") {
         activeDark2()
     }
