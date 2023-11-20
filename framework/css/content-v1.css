@@ -316,6 +316,11 @@ p.author {
 }
 
 /*----- DARK MODE -----*/
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
+
 .dark-mode blockquote.bible,
 .dark-mode blockquote.bible-multi {
     background-color: #371C36 !important
