@@ -10,5 +10,4 @@ layout: hero
 ><br>
 {:class="hero"}
 
-Projeto em desenvolvimento. Botão abaixo inativo. Lançamento em 2024!  
 {:.banner}
