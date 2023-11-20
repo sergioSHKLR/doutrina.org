@@ -251,7 +251,7 @@ blockquote>p>img {
     vertical-align: middle
 }
 
-#col2-body>blockquote.image {
+blockquote.image {
     border: 1px solid var(--grey);
     padding: 10px;
     text-align: center;
@@ -259,7 +259,7 @@ blockquote>p>img {
     width: calc(100% - 60px);
 }
 
-#col2-body>blockquote.image p {
+blockquote.image p {
     font-size: 14px;
 }
 
@@ -351,10 +351,6 @@ p.author {
 }
 
 
-.dark-mode th {
-    background-color: #333
-}
-
 .dark-mode blockquote.grey>p,
 .dark-mode blockquote.grey>p>a {
     background-color: transparent !important
@@ -382,4 +378,10 @@ p.author {
 .dark-mode #col2-body a {
     color: dodgerblue;
     text-decoration-color: dodgerblue;
+}
+
+.dark-mode blockquote.grey-center,
+.dark-mode th,
+.dark-mode blockquote.image {
+    background-color: #333;
 }
