@@ -69,10 +69,10 @@ blockquote.spirit-multi>p:last-child {
     text-align: right
 }
 
-p#author {
+p.author {
     background-color: transparent;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400 !important
     padding-right: 20px
 }
 

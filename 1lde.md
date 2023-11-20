@@ -33,24 +33,24 @@ layout: template-1lde
 
 ### 🗂️ Folha de rosto {#lde-0-01}
 
-><br>
+> <br>
 >[Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo) 
-><br>
+> <br>
 > 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos) 
-><br>
+> <br>
 > Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita 
-><br>
+> <br>
 > Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade). 
-><br>
+> <br>
 > por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻) 
-><br>
+> <br>
 > Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro) 
-><br>
+> <br>
 >Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"} 
-><br>
+> <br>
 > Modificado para o consumo digital por Sergio de 
 > ⭕ [shklr.org](https://shklr.org){:target="_blank"} 
-><br>
+> <br>
 {:.grey-center}
 
 ### 🗂️ Prefácio {#lde-0-02}
@@ -92,7 +92,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 >
 > Lembra-te de que os bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) só dispensam assistência aos que servem a [Deus][0] com [humildade](https://pt.m.wiktionary.org/wiki/humildade) e desinteresse e que [repudiam](https://pt.m.wiktionary.org/wiki/repudiar) a todo aquele que busca na [senda](https://pt.m.wiktionary.org/wiki/senda) do [Céu](https://pt.m.wikipedia.org/wiki/Céu_(religião)) um degrau para conquistar as coisas da Terra; que se afastam do [orgulhoso](https://pt.m.wiktionary.org/wiki/orgulhoso) e do [ambicioso](https://pt.m.wiktionary.org/wiki/ambicioso). O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus][0]. São um véu lançado sobre as claridades celestes, e [Deus][0] não pode servir-se do cego para fazer perceptível a luz.
 >
-> <p id="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://pt.m.wikipedia.org/wiki/O_Espírito_da_Verdade_(espiritismo)">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
+> <p class="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://pt.m.wikipedia.org/wiki/O_Espírito_da_Verdade_(espiritismo)">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
 >
 > {:.spirit}
 
@@ -319,7 +319,7 @@ Julgar a questão dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) po
 Perguntam eles: os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de escol descem até nós? Responderemos: Não fiqueis no [subúrbio](https://pt.m.wiktionary.org/wiki/subúrbio); vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de [Jesus][1]:
 
 > ✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
->
+> <br>
 > [Mateus][Mt], [cap. 13][Mt13], [vers. 14](https://www.bible.com/pt/bible/212/MAT.13.ARC), [ARC][ARC]
 {:.bible-multi}
 
@@ -334,7 +334,7 @@ Esquisito é, acrescentam, que só se fale dos [Espíritos](https://pt.m.wikiped
 Acham também singular que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) dos homens [eminentes](https://pt.m.wiktionary.org/wiki/eminente) acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma [supremacia](https://pt.m.wiktionary.org/wiki/supremacia) lhes dá no mundo espírita. Nisto, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) confirmam estas palavras do [Evangelho](https://pt.m.wikipedia.org/wiki/Evangelho):
 
 > ✝️ ▸ *E o que a si mesmo se [exaltar](https://pt.m.wiktionary.org/wiki/exaltar) será humilhado; e o que a si mesmo se humilhar será exaltado.* 
->
+> <br>
 > [Mateus][Mt], [cap. 23][Mt23], [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC), [ARC][ARC] 
 {:.bible-multi}
 
@@ -766,7 +766,7 @@ Diz-nos a [razão](https://pt.m.wikipedia.org/wiki/Razão) não ser possível qu
 Como criou [Deus][0] o Universo?
 
 > 👻 ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa [vontade](https://pt.m.wikipedia.org/wiki/Vontade) onipotente do que estas belas palavras:
->
+> <br>
 > ✝️ ▸ [Deus][0] disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC])
 
 ###### Q.39
@@ -1548,8 +1548,8 @@ Por demônios, segundo a acepção vulgar da palavra, se entendem seres essencia
 
 A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de [Deus][0], admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de [Deus][0] suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do [Cristo][2]. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 
-> ✝️ ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
->
+> ✝️ ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
+> <br>
 > [Mateus][Mt], [cap. 24][Mt24], [vers. 29 e 34](https://www.bible.com/pt/bible/212/MAT.24.ARC), [ARC][ARC]
 {:.bible-multi}
 
@@ -2506,7 +2506,7 @@ Vimos de apreciar a [alma](https://pt.m.wikipedia.org/wiki/Alma) com relação a
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de [Deus][0]. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma [religião](https://pt.m.wikipedia.org/wiki/Religião) que proclama ser [Deus][0] a bondade e a [razão](https://pt.m.wikipedia.org/wiki/Razão) por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da [ciência](https://pt.m.wikipedia.org/wiki/Ciência), se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma [religião](https://pt.m.wikipedia.org/wiki/Religião) fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a [religião](https://pt.m.wikipedia.org/wiki/Religião) e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da [Terra](https://pt.m.wikipedia.org/wiki/Terra) e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
 > ✝️ ▸ E, descendo eles do monte, [Jesus][1] lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus][1], respondendo, disse-lhes: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.
->
+> <br>
 > [Mateus][Mt], [cap. 17][Mt17], [vers. 09 a 13](https://www.bible.com/pt/bible/212/MAT.17.ARC), [ARC][ARC]
 {:.bible-multi}
 
@@ -2523,7 +2523,7 @@ Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das exist�
 As próprias palavras de [Jesus][1] não permitem [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) a tal respeito:
 
 > ✝️ ▸ Respondendo a Nicodemos, disse [Jesus][1]: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade), em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de [Deus][0].*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu [Jesus][1]: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade), em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) te digo que, se um homem não renascer da água e do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), não poderá entrar no Reino de [Deus][0]. O que é nascido da carne é carne e o que é nascido do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.
->
+> <br>
 > João, cap. 3, vers. 3-7, [ARC][ARC]
 {:.bible-multi}
  
@@ -3019,7 +3019,7 @@ O poder e a consideração de que um homem gozou na [Terra](https://pt.m.wikiped
 Como devemos entender essa elevação e esse rebaixamento?
 
 > 👻 ▸ Não sabes que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são de diferentes ordens, conforme seus méritos? Pois bem! O maior da [Terra](https://pt.m.wikipedia.org/wiki/Terra) pode pertencer à última categoria entre os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse [Jesus][1]: 
->
+> <br>
 > ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* ([Mateus][Mt], [cap. 23][Mt23], [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC), [ARC][ARC])
 
 ###### Q.276
@@ -4547,7 +4547,7 @@ Renunciam às suas tentativas os [Espíritos](https://pt.m.wikipedia.org/wiki/Es
 Por que meio podemos neutralizar a influência dos maus [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Praticando o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e pondo em [Deus][0] toda a vossa confiança, repelireis a influência dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a [razão](https://pt.m.wikipedia.org/wiki/Razão) por que [Jesus][1], na oração dominical, vos ensinou a dizer:
->
+> <br>
 > ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* ([Mateus][Mt], [cap. 06][Mt06], [vers. 13](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC])
 
 ###### Q.470
@@ -5922,7 +5922,7 @@ Tem meios o homem de distinguir por si mesmo o que é [bem](https://pt.m.wikiped
 Estando sujeito ao erro, não pode o homem enganar-se na apreciação do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e do mal e crer que pratica o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) quando em realidade pratica o mal?
 
 > 👻 ▸ [Jesus][1] disse:
->
+> <br>
 > ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* ([Mateus][Mt], [cap. 07][Mt07], [vers. 12](https://www.bible.com/pt/bible/212/MAT.7.ARC), [ARC][ARC])
 
 ###### Q.633
@@ -6016,6 +6016,7 @@ Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal 
 Estará subordinado a determinadas condições o mérito do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 
 > 👻 ▸ O mérito do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem [Deus][0] o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o [Jesus][1], a propósito do óbolo da viúva. 
+> <br>
 > ✝️ ▸ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4, [ARC][ARC]
 
 #### Divisão da lei natural
@@ -6170,7 +6171,7 @@ Será útil que oremos pelos mortos e pelos [Espíritos](https://pt.m.wikipedia.
 Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 
 > 👻 ▸ Aos homens disse o [Cristo][2]:
->
+> <br>
 > ✝️ ▸ *Amarás o teu próximo como a ti mesmo.* ([Mateus][Mt], [cap. 22][Mt22], [vers. 39](https://www.bible.com/pt/bible/212/MAT.22.ARC), [ARC][ARC])
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma [alma](https://pt.m.wikipedia.org/wiki/Alma) simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa [alma](https://pt.m.wikipedia.org/wiki/Alma) lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o [amor](https://pt.m.wikipedia.org/wiki/amor) que o [Cristo][2] recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de [amor](https://pt.m.wikipedia.org/wiki/amor) e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). [^16]
@@ -6964,7 +6965,7 @@ Disse [Jesus][1]: ✝️ ▸ *todos os que lançarem mão da espada à espada mo
 Estas palavras não consagram a pena de talião e, assim, a [morte](https://pt.m.wikipedia.org/wiki/Morte) dada ao assassino não constitui uma aplicação dessa pena?
 
 > 👻 ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus][0]. É [Deus][0] quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus][1]. Não vos disse Ele também:
->
+> <br>
 > ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* ([Mateus][Mt], [cap. 06][Mt06], [vers. 14](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC])
 >
 > E não vos ensinou a pedir a [Deus][0] que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?
@@ -7452,7 +7453,7 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que [Jesus][1] disse:
 
 > ✝️ ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus][0].*
->
+> <br>
 > [Mateus][Mt], [cap. 19][Mt19], [vers. 24](https://www.bible.com/pt/bible/212/MAT.19.ARC), [ARC][ARC]
 {:.bible-multi}
 
@@ -7897,7 +7898,7 @@ No que concerne à [morte](https://pt.m.wikipedia.org/wiki/Morte) é que o homem
 Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a [Deus][0] a força necessária e reclamando, para tal fim, a assistência dos bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Foi o que [Jesus][1] nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos:
 
 > ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
->
+> <br>
 > [Mateus][Mt], [cap. 06][Mt06], [vers. 13](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC]
 {:.bible-multi}
 
@@ -7938,7 +7939,7 @@ Que é o que determina esses direitos?
 Posto de parte o direito que a lei humana consagra, qual a base da justiça, segundo a lei natural?
 
 > 👻 ▸ Disse o [Cristo][2]:
->
+> <br>
 > ✝️ ▸ *Queira cada um para os outros o que quereria para si mesmo.* (Livro, cap. X, vers. Y)
 >
 > No coração do homem imprimiu [Deus][0] a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria [consciência](https://pt.m.wikipedia.org/wiki/Consciência) não lhe podia [Deus][0] haver dado.
@@ -8038,7 +8039,7 @@ Qual o verdadeiro sentido da palavra caridade, como a entendia [Jesus][1]?
 O [amor](https://pt.m.wikipedia.org/wiki/amor) e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de [Jesus][1]:
 
 > ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
->
+> <br>
 > [Mateus][Mt], [cap. 22][Mt22], [vers. 39](https://www.bible.com/pt/bible/212/MAT.22.ARC), [ARC][ARC]
 {:.bible-multi}
 
