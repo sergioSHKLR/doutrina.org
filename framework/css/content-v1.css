@@ -19,10 +19,21 @@
     line-height: 1.7;
 }
 
-#col2-body blockquote p {padding-top: 5px; padding-bottom: 5px;}
+#col2-body blockquote p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
 /*----- BODY -----*/
-#col1-head, #col1-body, #col2-head, #col2-body, #col3-head, #col3-body  {color: #000; background-color: #fff;}
+#col1-head,
+#col1-body,
+#col2-head,
+#col2-body,
+#col3-head,
+#col3-body {
+    color: #000;
+    background-color: #fff;
+}
 
 
 /*---- TABLES -----*/
@@ -296,7 +307,9 @@ p.author {
     padding-right: 20px
 }
 
-#col1-body {background-color: inherit;}
+#col1-body {
+    background-color: inherit;
+}
 
 /*----- DARK MODE -----*/
 .dark-mode blockquote.bible,
@@ -339,6 +352,15 @@ p.author {
     background-color: #082440
 }
 
-.dark-mode col1-body {background-color: #222 !important;}
+.dark-mode body
+.dark-mode #col1-head,
+.dark-mode #col1-body,
+.dark-mode #col2-head,
+.dark-mode #col2-body,
+.dark-mode #col3-head,
+.dark-mode #col3-body {
+    background-color: #222 !important;
+    color: #fff
+}
 
-.dark-mode body {color: #fff; background-color: #222;}
+.dark-mode #col2-body a {color: dodgerblue; text-decoration-color: dodgerblue;}

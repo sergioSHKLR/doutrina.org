@@ -33,24 +33,24 @@ layout: template-1lde
 
 ### 🗂️ Folha de rosto {#lde-0-01}
 
-> <br>
->[Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo) 
-> <br>
-> 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos) 
-> <br>
-> Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita 
-> <br>
-> Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade). 
-> <br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻) 
-> <br>
-> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro) 
-> <br>
->Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"} 
-> <br>
-> Modificado para o consumo digital por Sergio de 
-> ⭕ [shklr.org](https://shklr.org){:target="_blank"} 
-> <br>
+><br>
+>[Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo)  
+><br>
+> 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos)  
+><br>
+> Princípios da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita  
+><br>
+> Sobre a imortalidade da [alma](https://pt.m.wikipedia.org/wiki/Alma), a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) (👻) e suas relações com os homens, as leis morais, a [vida](https://pt.m.wikipedia.org/wiki/Vida) presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores com o concurso de diversos [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade).  
+><br>
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻)  
+><br>
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
+><br>
+>Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}  
+><br>
+> Modificado para o consumo digital por Sergio de  
+> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+><br>
 {:.grey-center}
 
 ### 🗂️ Prefácio {#lde-0-02}
