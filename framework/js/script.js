@@ -8,7 +8,7 @@
     if (mode == "dark2") {
         activeDark2()
     }
-})();
+})
 
 // DARK MODE COL2 --------------------------------------------------
 function activeDark2() {
@@ -44,7 +44,7 @@ function inactiveDark2() {
     if (mode == "dark3") {
         activeDark3()
     }
-})();
+})
 
 // DARK MODE COL3 --------------------------------------------------
 function activeDark3() {
