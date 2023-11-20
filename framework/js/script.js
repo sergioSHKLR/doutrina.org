@@ -2,14 +2,6 @@
 
 // DARK MODE --------------------------------------------------
 
-// CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
-(function () {
-    let mode = localStorage.getItem("mode");
-    if (mode == "dark2") {
-        activeDark2()
-    }
-})
-
 // DARK MODE COL2 --------------------------------------------------
 function activeDark2() {
     // selects body and adds dark mode class
@@ -27,6 +19,14 @@ function activeDark2() {
     element.classList.toggle("show");
 }
 
+// CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
+(function () {
+    let mode = localStorage.getItem("mode");
+    if (mode == "dark2") {
+        activeDark2()
+    }
+})
+
 // LIGHT MODE COL2--------------------------------------------------
 function inactiveDark2() {
     var element = document.body;
@@ -37,14 +37,6 @@ function inactiveDark2() {
     var element = document.getElementById("col2-dm-btn");
     element.classList.toggle("hide");
 }
-
-// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
-(function () {
-    let mode = localStorage.getItem("mode");
-    if (mode == "dark3") {
-        activeDark3()
-    }
-})
 
 // DARK MODE COL3 --------------------------------------------------
 function activeDark3() {
@@ -57,6 +49,14 @@ function activeDark3() {
     var element = document.getElementById("col3-lm-btn");
     element.classList.toggle("show");
 }
+
+// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
+(function () {
+    let mode = localStorage.getItem("mode");
+    if (mode == "dark3") {
+        activeDark3()
+    }
+})
 
 // DARK MODE COL3 --------------------------------------------------
 function inactiveDark3() {

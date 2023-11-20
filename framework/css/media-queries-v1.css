@@ -19,8 +19,8 @@
         display: block
     }
 
-    #col2-dm-btn  {
-        display: block; padding-right: 50px;
+    #col2-dm-btn, #col2-lm-btn  {
+     padding-right: 50px;
     }
 
     tr.c {display: table-row;}
