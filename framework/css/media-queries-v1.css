@@ -15,7 +15,8 @@
         display: none
     }
 
-    iframe#screenshot3 {
+    iframe#screenshot3,
+    #col2-dm-btn  {
         display: block
     }
 
