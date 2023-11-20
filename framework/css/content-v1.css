@@ -35,7 +35,6 @@
     background-color: #fff;
 }
 
-
 /*---- TABLES -----*/
 table,
 th,
@@ -352,7 +351,8 @@ p.author {
     background-color: #082440
 }
 
-.dark-mode body
+.dark-mode html,
+.dark-mode body,
 .dark-mode #col1-head,
 .dark-mode #col1-body,
 .dark-mode #col2-head,

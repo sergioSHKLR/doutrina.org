@@ -64,7 +64,7 @@ class="ff-russo ml-n5 fs-0 pos-rel pt-50 pl-0 pb-5 top-10 border-0 border-round 
 <!-- COL1 BODY -->
 <div id="col1-body"
 class="sidebar-w pos-fixed left-0 top-50 h-body overflow border-top border-right ff-inter underline-0 fs-3 pl-15"
-style="z-index: 1; background-color: inherit;">
+style="z-index: 1; background-color: #fff;">
 
 <!-- COL1 DETAILS -->
 <p class="fs-2 fw-strong border-short">Detalhes</p>
@@ -128,7 +128,7 @@ class="material-symbols-outlined">light_mode</span></button>
 </div>
 
 <!-- COL3 HEAD -->
-<div id="col3-head" class="w-auto pos-fixed top-0 right-23 h-50 mh-40 pt-10 border-0 underline-0">
+<div id="col3-head" class="w-auto pos-fixed top-0 right-0 pr-30 h-50 mh-40 pt-10 border-0 underline-0">
 
 <a target="ext" class="outline-0" href="https://pt.m.wikipedia.org" title="enciclopédia">
 <button id="col3-link1"><span class="material-symbols-outlined">language</span>
@@ -148,10 +148,10 @@ title="vídeo chamada">
 <button id="col3-link4"><span class="material-symbols-outlined">video_call</span>
 </button></a>
 
-<button id="col3-fs-btn" class="fr mr-20" onclick="openFullscreen3()" title="tela cheia"><span
+<button id="col3-fs-btn" class="fr" onclick="openFullscreen3()" title="tela cheia"><span
 class="material-symbols-outlined">fullscreen</span></button>
 
-<button id="col3-ns-btn" class="fr mr-20 hide" onclick="closeFullscreen3()" title="tela normal"><span
+<button id="col3-ns-btn" class="fr hide" onclick="closeFullscreen3()" title="tela normal"><span
 class="material-symbols-outlined">fullscreen_exit</span></button>
 
 <button id="col3-dm-btn" class="fr" onclick="activeDark3()" title="modo escuro"><span
@@ -160,16 +160,18 @@ class="material-symbols-outlined">dark_mode</span></button>
 <button id="col3-lm-btn" class="fr hide" onclick="inactiveDark3()" title="modo claro"><span
 class="material-symbols-outlined">light_mode</span></button>
 
+<!--
 <button class="fr" id="col3-sh-on-btn" onclick="shadesOn()" title="ativar cortina anti-distração"><span
 class=" material-symbols-outlined">visibility_off</span></button>
 
 <button class="fr" id="col3-sh-off-btn" hidden onclick="shadesOff()" title="desativar cortina anti-distração"><span
 class="material-symbols-outlined">visibility</span></button>
+-->
 
 </div>
 
 <!-- COL3 BODY -->
-<div id="col3-body" class="w-auto pos-fixed right-0 top-50 right-23 h-body border-left border-top fc-cc">
+<div id="col3-body" class="w-auto pos-fixed right-0 top-50 h-body border-left border-top fc-cc">
 
 <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" class="h-100 w-100 border-0 shadesOff"
 src="https://pt.m.wikipedia.org/wiki/Espiritismo"></iframe>

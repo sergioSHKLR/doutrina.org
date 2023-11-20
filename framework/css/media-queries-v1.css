@@ -51,6 +51,7 @@
     }
 
     tr.t {display: table-row;}
+    #col3-head {padding-right: 20px;}
 
 }
 
@@ -83,6 +84,7 @@
     }
 
     tr.t {display: table-row;}
+    #col3-head {padding-right: 20px;}
 
 }
 
@@ -102,6 +104,7 @@
     }
 
     tr.d {display: table-row;}
+    #col3-head {padding-right: 20px;}
 
 }
 
@@ -124,6 +127,9 @@
 
     tr.d {display: table-row;}
 
+    #col3-fs-btn {display: none;}
+    #col3-head {padding-right: 40px;}
+    
 }
 
 @media only screen and (orientation:portrait) {

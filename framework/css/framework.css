@@ -16,15 +16,11 @@
 }
 
 html {
-    background-color: #fff;
-    color: #000;
     margin: 0px;
     padding: 0px;
 }
 
 body {
-    background-color: #fff;
-    color: #000;
     margin: 0px;
     padding: 0px;
 }
@@ -118,6 +114,10 @@ body {
     margin-right: 30px
 }
 
+.mr-40 {
+    margin-right: 40px
+}
+
 .mr-50 {
     margin-right: 50px
 }
@@ -189,6 +189,10 @@ body {
 
 .pr-10 {
     padding-right: 10px
+}
+
+.pr-30 {
+    padding-right: 30px
 }
 
 .pr-50 {
@@ -423,7 +427,7 @@ body {
 
 /* ----- AUTO-WIDTH  ----- */
 .w-auto {
-    width: calc(((100vw - 23px) * .5) - var(--sidebar-width) * .5)
+    width: calc((50vw) - var(--sidebar-width) * .5)
 }
 
 /* ----- SIDEBAR  ----- */
