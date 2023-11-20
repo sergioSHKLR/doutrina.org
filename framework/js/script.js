@@ -4,17 +4,12 @@
 
 // DARK MODE COL2 --------------------------------------------------
 function activeDark2() {
-    // selects body and adds dark mode class
     var element = document.body;
     element.classList.add("dark-mode");
-    // set localstorage var mode to dark2
     localStorage.setItem("mode", "dark2");
-    // selects iframe and adds dark mode class
     document.getElementById("ext-iframe").classList.add('is-dark')
-    // select dark  mode button col2 and hides it
     var element = document.getElementById("col2-dm-btn");
     element.classList.toggle("hide");
-    // selects light mode button and shows it
     var element = document.getElementById("col2-lm-btn");
     element.classList.toggle("show");
 }
@@ -22,10 +17,10 @@ function activeDark2() {
 // CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
 (function () {
     let mode = localStorage.getItem("mode");
-    if (mode == "dark2") {
+    if (mode === "dark2") {
         activeDark2()
     }
-})
+});
 
 // LIGHT MODE COL2--------------------------------------------------
 function inactiveDark2() {
@@ -56,7 +51,7 @@ function activeDark3() {
     if (mode == "dark3") {
         activeDark3()
     }
-})
+});
 
 // DARK MODE COL3 --------------------------------------------------
 function inactiveDark3() {
