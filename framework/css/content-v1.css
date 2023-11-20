@@ -21,6 +21,11 @@
 
 #col2-body blockquote p {padding-top: 5px; padding-bottom: 5px;}
 
+/*----- BODY -----*/
+#col1-head, #col1-body, #col2-head, #col2-body, #col3-head, #col3-body  {color: #000; background-color: #fff;}
+
+
+/*---- TABLES -----*/
 table,
 th,
 tr,
@@ -290,3 +295,50 @@ p.author {
     font-weight: 400 !important;
     padding-right: 20px
 }
+
+#col1-body {background-color: inherit;}
+
+/*----- DARK MODE -----*/
+.dark-mode blockquote.bible,
+.dark-mode blockquote.bible-multi {
+    background-color: #371C36 !important
+}
+
+.dark-mode blockquote.grey {
+    background-color: #383838;
+    border-color: solid var(--grey);
+}
+
+.dark-mode blockquote em {
+    color: #F797AA
+}
+
+.dark-mode kbd {
+    border: 1px solid var(--grey);
+    border-radius: 3px;
+    color: #fff !important;
+    padding: 3px
+}
+
+.dark-mode table,
+.dark-mode th,
+.dark-mode tr,
+.dark-mode td {
+    background-color: #333
+}
+
+.dark-mode blockquote.grey>p,
+.dark-mode blockquote.grey>p>a {
+    background-color: transparent !important
+}
+
+.dark-mode blockquote,
+.dark-mode blockquote.spirit,
+.dark-mode blockquote.spirit,
+.dark-mode blockquote.spirit-multi {
+    background-color: #082440
+}
+
+.dark-mode col1-body {background-color: #222 !important;}
+
+.dark-mode body {color: #fff; background-color: #222;}

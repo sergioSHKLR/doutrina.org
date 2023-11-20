@@ -18,7 +18,7 @@ layout: template-generic
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar esta alternativa.
 
-Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca se fosse forçado a navegar em janelas externas. 
+Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca ao navegar sites externos. 
 
 Para tal fim desenvolvemos uma interface inédita em três colunas, que se ajustam automaticamente de acordo com a largura do dispositivo em que é visualizado. Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colunas e em telas pequenas, somente 1 coluna. Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados neste nosso projeto.
 

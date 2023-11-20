@@ -15,7 +15,6 @@
 .dark-mode kbd {
     border: 1px solid var(--grey);
     border-radius: 3px;
-    color: #000 !important;
     color: #fff !important;
     padding: 3px
 }
