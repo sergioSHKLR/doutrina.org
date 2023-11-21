@@ -308,7 +308,49 @@ a {
 }
 
 /*---------- MEDIA QUERIES ----------*/
-@media only screen and (max-width:782px) {
+@media only screen and (max-width:479px) {
+
+    #col2-brand,
+    #col2-menu-on {
+        display: inline-block
+    }
+
+    #col1-head,
+    #col1-body,
+    #col3-head,
+    #col3-body, .label {
+        display: none
+    }
+
+    #col2-dm-btn,
+    #col2-lm-btn {
+        padding-right: 25px
+    }
+
+    #col2-head,
+    #col2-body {
+        left: 0;
+        width: 100vw
+    }
+
+    iframe#screenshot1 {
+        display: block
+    }
+
+    iframe#screenshot2 {
+        display: block
+    }
+
+    iframe#screenshot3 {
+        display: block
+    }
+
+    tr.c {
+        display: table-row
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:782px) {
 
     #col2-brand,
     #col2-menu-on {
