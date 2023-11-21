@@ -145,6 +145,11 @@
  <p class="sidebar-heading">Parte de</p>
  <p><a target="_blank" href="https://shklr.org" title="matriz">⭕ shklr.org</a></p>
  <br>
+
+ <p>&nbsp;</p>
+ <p>&nbsp;</p>
+ <p>&nbsp;</p>
+
  </div>
 
  <!-- COL2 HEAD -->
@@ -153,17 +158,16 @@
  <button id="col2-menu-on" onclick="menuOn()" title="abrir/fechar menu"><span
  class="icon">menu</span></button>
 
- <button id="col2-menu-off" onclick="menuOff()" title="abrir/fechar menu"><span
+ <button id="col2-menu-off" hidden onclick="menuOff()" title="abrir/fechar menu"><span
  class="icon">menu</span></button>
 
  <a href="./home.html" id="col2-brand">💧doutrina.org</a>
 
- <!--
 <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen2()" title="tela cheia"><span
-class="icon">fullscreen</span></button>
+class="icon">fullscreen</span><span class="label">tela cheia</span></button>
 
 <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen2()" title="tela normal"><span
-class="icon">fullscreen_exit</span></button> -->
+class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
 
  <button id="col2-dm-btn" class="fr" onclick="darkMode2()" title="modo escuro"><span
  class="icon">dark_mode</span><span class="label">escuro</span></button>
@@ -176,7 +180,7 @@ class="icon">fullscreen_exit</span></button> -->
  <div id="col2-body">
 
     {{ content }}
-    
+
  </div>
 
  <!-- COL3 HEAD -->
@@ -200,12 +204,11 @@ class="icon">fullscreen_exit</span></button> -->
  <button id="col3-link4"><span class="icon">video_call</span><span class="label">video chamada</span>
  </button></a>
 
- <!-- 
 <button id="col3-fs-btn" class="fr" onclick="openFullscreen3()" title="tela cheia"><span
-class="icon">fullscreen</span></button>
+class="icon">fullscreen</span><span class="label">tela cheia</span></button>
 
 <button id="col3-ns-btn" class="fr hide" onclick="closeFullscreen3()" title="tela normal"><span
-class="icon">fullscreen_exit</span></button> -->
+class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
 
  <button id="col3-dm-btn" class="fr" onclick="darkMode3()" title="modo escuro"><span
  class="icon">dark_mode</span><span class="label">escuro</span></button>
@@ -229,7 +232,7 @@ class="icon">visibility</span></button>
  <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" src="https://pt.m.wikipedia.org/wiki/Espiritismo"></iframe>
  </div>
 
- <!-- SCRIPTS 
+ <!-- SCRIPTS -->
 <script async src="../framework/js/crisp.js"></script>
 <script async type="application/json" class="js-hypothesis-config">
  {
@@ -237,7 +240,7 @@ class="icon">visibility</span></button>
  "showHighlights": true
  }
  </script>
- <script async src="https://hypothes.is/embed.js"></script> -->
+ <script async src="https://hypothes.is/embed.js"></script>
 
 <script async src="../framework/js/dark-mode.js"></script>
 <script async src="../framework/js/fullscreen.js"></script>

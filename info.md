@@ -14,6 +14,7 @@ layout: 0-generic
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
+<!--
 Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando um tablet ou celular, você pode mudar a orientação (de pé para deitado) para obter uma largura maior.
 
 <iframe id="screenshot1" class="border-0 overflow-h w-100" src="./iframe_content/desktop.html" style="height: 350px;"></iframe>
@@ -40,7 +41,7 @@ Os botões ao topo da página servem aos seguintes propósitos:
 <tr class="d t">
 <td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">book_2</span></td>
 <td class="fs-3">dicionário</td>
-<td class="fs-3">abrir página incial Wikicionário</td>
+<td class="fs-3">abrir página inicial Wikicionário</td>
 </tr>
 <tr class="d t">
 <td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">location_on</span></td>
@@ -52,13 +53,13 @@ Os botões ao topo da página servem aos seguintes propósitos:
 <td class="fs-3">vídeo chamada</td>
 <td class="fs-3">iniciar vídeo chamada (estudos em grupo)</td>
 </tr>
-<!--
+
 <tr class="d t">
 <td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td>
 <td class="fs-3">cortina anti-distração</td>
 <td class="fs-3">ativar ou desativar cortina anti-distração</td>
 </tr>
--->
+
 <tr class="d t c">
 <td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td>
 <td class="fs-3">modo escuro/claro</td>
@@ -69,7 +70,7 @@ Os botões ao topo da página servem aos seguintes propósitos:
 <td class="fs-3">tela cheia/normal</td>
 <td class="fs-3">alternar entre tela cheia e tela normal</td>
 </tr>
-</table>
+</table> -->
 
 <p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
 
