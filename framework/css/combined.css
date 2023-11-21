@@ -214,7 +214,7 @@ a {
 /*---------- DARK MODE ----------*/
 .dark-mode {
     background-color: #222;
-    color: white
+    color: #fff
 }
 
 .dark-mode,
@@ -237,7 +237,7 @@ a {
 
 .dark-mode blockquote.grey {
     background-color: #383838;
-    border-color: solid var(--grey)
+    border-color: #dcdcdc80
 }
 
 .dark-mode blockquote em {
@@ -252,7 +252,7 @@ a {
 }
 
 .dark-mode kbd {
-    border: 1px solid var(--grey);
+    border: 1px solid #dcdcdc80;
     border-radius: 3px;
     color: #fff !important;
     padding: 3px
@@ -318,7 +318,8 @@ a {
     #col1-head,
     #col1-body,
     #col3-head,
-    #col3-body, .label {
+    #col3-body, 
+    .label {
         display: none
     }
 
@@ -331,6 +332,10 @@ a {
     #col2-body {
         left: 0;
         width: 100vw
+    }
+
+    #col3-head {
+        padding-right: 30px
     }
 
     iframe#screenshot1 {
@@ -375,6 +380,10 @@ a {
         width: 100vw
     }
 
+    #col3-head {
+        padding-right: 30px
+    }
+
     iframe#screenshot1 {
         display: block
     }
@@ -404,6 +413,10 @@ a {
     #col2-dm-btn,
     .label {
         display: none
+    }
+
+    #col3-head {
+        padding-right: 30px
     }
 
     iframe#screenshot1 {
@@ -436,7 +449,7 @@ a {
     }
 
     #col3-head {
-        padding-right: 50px
+        padding-right: 30px
     }
 
     #col3-head,
@@ -482,7 +495,7 @@ a {
     }
 
     #col3-head {
-        padding-right: 50px
+        padding-right: 30px
     }
 
     #col3-head,
@@ -524,7 +537,7 @@ a {
     }
 
     #col3-head {
-        padding-right: 50px
+        padding-right: 30px
     }
 
     tr.d {
@@ -555,7 +568,7 @@ a {
     }
 
     #col3-head {
-        padding-right: 50px
+        padding-right: 30px
     }
 
     iframe#screenshot1 {
