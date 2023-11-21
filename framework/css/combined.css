@@ -179,7 +179,6 @@ a {
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
     border-collapse: collapse;
-
     border-bottom: 1px solid #dcdcdc80;
     width: 70%;
     font-size: 16px;
@@ -223,7 +222,6 @@ a {
 .dark-mode {
     background-color: #222;
     color: white;
-
 }
 
 .dark-mode,
@@ -274,7 +272,6 @@ a {
 .dark-mode pre {
     background-color: #444
 }
-
 
 .dark-mode blockquote.grey>p,
 .dark-mode blockquote.grey>p>a {
@@ -430,9 +427,10 @@ a {
 
 @media only screen and (min-width:1420px) and (max-width:1919px) {
 
-    #col2-menu-on,
     #col2-brand,
-    #col2-fs-btn,
+    #col2-menu-on,
+    #col2-menu-off,
+    #col2-dm-btn,
     iframe#screenshot2,
     iframe#screenshot3 {
         display: none
@@ -455,12 +453,10 @@ a {
 
     #col2-brand,
     #col2-menu-on,
-    #col2-fs-btn,
-    #col2-fs-btn,
-    #col2-ns-btn,
+    #col2-menu-off,
+    #col2-dm-btn,
     iframe#screenshot2,
-    iframe#screenshot3,
-    #col3-fs-btn {
+    iframe#screenshot3 {
         display: none
     }
 
