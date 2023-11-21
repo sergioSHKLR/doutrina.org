@@ -104,7 +104,7 @@
     position: fixed;
     right: 23px !important;
     top: 0;
-    width: calc((50vw) - 250px * .5)
+    width: calc((50vw - 273px) * .5)
 }
 
 #col3-head button {
@@ -123,7 +123,7 @@
     position: fixed;
     right: 23px !important;
     top: 50px;
-    width: calc((50vw) - 250px * .5)
+    width: calc((50vw - 273px) * .5)
 }
 
 #ext-iframe {
@@ -330,7 +330,7 @@ a {
     #col2-head,
     #col2-body {
         left: 0;
-        width: 100vw
+        width: calc(100vw - 23px)
     }
 
     iframe#screenshot1 {
@@ -372,7 +372,7 @@ a {
     #col2-head,
     #col2-body {
         left: 0;
-        width: 100vw
+        width: calc(100vw - 23px)
     }
 
     iframe#screenshot1 {
@@ -432,7 +432,7 @@ a {
     #col2-head,
     #col2-body {
         left: 0;
-        width: calc(100vw * .5)
+        width: calc(50vw - 12px)
     }
 
     #col3-head {
@@ -441,7 +441,7 @@ a {
 
     #col3-head,
     #col3-body {
-        width: calc(100vw * .5)
+        width: calc(50vw - 12px)
     }
 
     iframe#screenshot1 {
@@ -478,7 +478,7 @@ a {
     #col2-head,
     #col2-body {
         left: 0;
-        width: calc(100vw * .5)
+        width: calc(50vw - 12px)
     }
 
     #col3-head {
@@ -488,7 +488,7 @@ a {
     #col3-head,
     #col3-body {
         right: 0;
-        width: calc(100vw * .5)
+        width: calc(50vw - 12px)
     }
 
     iframe#screenshot1 {
