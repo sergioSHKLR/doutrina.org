@@ -87,7 +87,7 @@
     overflow-x: hidden;
     overflow-y: scroll;
     overscroll-behavior: contain;
-    padding: 16px 55px;
+    padding: 16px 15px;
     position: fixed;
     scroll-behavior: smooth;
     top: 50px;
