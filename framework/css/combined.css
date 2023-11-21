@@ -55,6 +55,14 @@
     top: -3px
 }
 
+#col2-brand a:any-link,
+#col2-head button,
+#col2-head a:any-link,
+#col3-head button,
+#col3-head a:any-link {
+    color: currentColor
+}
+
 #col2-head {
     background-color: transparent;
     border-collapse: collapse;
@@ -160,7 +168,7 @@ button {
     text-align: center
 }
 
-a {
+a:any-link {
     outline: 0
 }
 
@@ -182,7 +190,13 @@ a {
 }
 
 .icon {
-    font-family: 'Material Symbols Outlined'
+    font-family: 'Material Symbols Outlined';
+    padding: 0 2px;
+}
+
+.icon:hover {
+    outline: 3px solid orange;
+    border-radius: 50%;
 }
 
 .fr {
@@ -201,9 +215,8 @@ a {
 #col1-body a:any-link,
 #col2-head a:any-link,
 #col3-head a:any-link {
-    color: #333;
+    color: currentColor;
     text-decoration: none;
-    text-underline-offset: 2px
 }
 
 #col2-body a:any-link {
@@ -230,6 +243,7 @@ a {
     color: #fff
 }
 
+/*
 .dark-mode blockquote.bible,
 .dark-mode blockquote.bible-multi {
     background-color: #371C36 !important
@@ -302,10 +316,76 @@ a {
     color: fff;
     text-decoration: 1px solid fff
 }
+*/
 
 .dark-mode iframe {
     filter: invert(87%)
 }
+
+/*---------- COL2-BODY ----------*/
+#col2-body img {
+    width: 100%;
+}
+
+#col2-body {
+    line-height: 1.7;
+}
+
+#col2-body blockquote {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(128, 128, 128, .1);
+    border-left: 4px solid rgba(128, 128, 128, 1);
+}
+
+#col2-body blockquote.spirit::first-letter,
+#col2-body blockquote.spirit-multi::first-letter {
+    background-color: dodgerblue;
+    padding: 1px;
+    border-radius: 2px;
+    border-bottom: 1.5px solid #0066cc;
+    border-right: 1.5px solid #0066cc;
+    font-size: 80%
+}
+
+#col2-body blockquote:hover,
+#col2-body blockquote.grey-center:hover,
+#col2-body blockquote.spirit:hover,
+#col2-body blockquote.spirit-multi:hover,
+#col2-body blockquote.bible:hover,
+#col2-body blockquote.bible-multi:hover,
+#col2-body img:hover {
+    transform: scale(110%);
+}
+
+#col2-body blockquote.spirit,
+#col2-body blockquote.spirit-multi {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(30, 144, 255, .1);
+    border-left: 4px solid rgba(30, 144, 255, 1);
+}
+
+#col2-body blockquote.spirit-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right;
+}
+
+#col2-body blockquote.bible,
+#col2-body blockquote.bible-multi {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(218, 112, 214, .1);
+    border-left: 4px solid rgba(218, 112, 214, 1);
+}
+
+#col2-body blockquote.bible-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right;
+}
+
 
 /*---------- MEDIA QUERIES ----------*/
 @media only screen and (max-width:479px) {
@@ -318,7 +398,7 @@ a {
     #col1-head,
     #col1-body,
     #col3-head,
-    #col3-body, 
+    #col3-body,
     .label {
         display: none
     }
