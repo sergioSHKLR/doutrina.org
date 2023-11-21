@@ -1,6 +1,6 @@
 ---
 title: 🕊️ O Evangelho segundo o Espiritismo
-layout: template-3ese
+layout: 3-ese
 ---
 
 *[LDE]: O Livro dos Espíritos

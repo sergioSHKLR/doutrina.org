@@ -1,6 +1,6 @@
 ---
 title: ✒️ O Livro dos Médiuns
-layout: template-2ldm
+layout: 2-ldm
 ---
 
 *[LDE]: **O Livro dos Espíritos**

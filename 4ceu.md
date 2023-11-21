@@ -1,6 +1,6 @@
 ---
 title: 🔥 O Céu e o Inferno
-layout: template-4ceu
+layout: 4-ceu
 ---
 
 *[LDE]: O Livro dos Espíritos

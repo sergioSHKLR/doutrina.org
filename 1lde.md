@@ -1,6 +1,6 @@
 ---
 title: 👻 O Livro dos Espíritos
-layout: template-1lde
+layout: 1-lde
 ---
 
 *[LDE]: O Livro dos Espíritos

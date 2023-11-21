@@ -1,6 +1,6 @@
 ---
 title: 🏷️ Índice geral
-layout: template-generic
+layout: 0-generic
 ---
 
 # 🏷️ Índice geral

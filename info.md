@@ -1,6 +1,6 @@
 ---
 title: 📋 Informações
-layout: template-generic
+layout: 0-generic
 ---
 
 # 📋 Informações

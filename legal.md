@@ -1,6 +1,6 @@
 ---
 title: ⚖️ Avisos legais
-layout: template-generic
+layout: 0-generic
 ---
 
 # ⚖️ Avisos legais

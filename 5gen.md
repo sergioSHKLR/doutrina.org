@@ -1,6 +1,6 @@
 ---
 title: 🌱 A Gênese
-layout: template-5gen
+layout: 5-gen
 ---
 
 *[LDE]: O Livro dos Espíritos

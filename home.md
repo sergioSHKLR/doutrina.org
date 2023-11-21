@@ -1,6 +1,6 @@
 ---
 title: 🏠 Início
-layout: template-generic
+layout: 0-generic
 ---
 
 *[LDE]: O Livro dos Espíritos
@@ -24,13 +24,13 @@ Para tal fim desenvolvemos uma interface inédita em três colunas, que se ajust
 
 <!-- Lembre-se que fazemos atualizações diariamente. Se a parte que você queira utilizar não se acha pronta ainda, aguarde um pouco que chegaremos lá. Ressalvo somente que nosso progresso é sequencial, partindo do começo de um livro, chegando até o fim do mesmo, para então começar o próximo livro da sequência. -->
 
-Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). <img src="../framework/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;">
+Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). <img src="./framework/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;">
 
 Ficaríamos muito agradecidos com seu feedback! Para tal use a página <kbd>💌 Comentários</kbd>
 
 🙏🏼 Que assim seja!
 
-<img src="../framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; transform: scaleX(-1)">
+<img src="./framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; transform: scaleX(-1)">
 
 <p class="ff-z fs-xxl mt-n10">Sergio</p>
 
