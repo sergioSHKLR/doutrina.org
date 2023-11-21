@@ -220,8 +220,8 @@ a:any-link {
 }
 
 #col2-body a:any-link {
-    color: darkblue;
-    text-decoration: 1px solid darkblue
+    color: #3366cc;
+    text-decoration: 1px solid #3366cc
 }
 
 /*---------- DARK MODE ----------*/
