@@ -65,7 +65,7 @@
     padding-top: 3px;
     position: fixed;
     top: 0;
-    width: calc((50vw - 273px) * .5)
+    width: calc((100vw - 23px) * .5))
 }
 
 #col2-head button {
@@ -91,7 +91,7 @@
     position: fixed;
     scroll-behavior: smooth;
     top: 50px;
-    width: calc((50vw - 273px) * .5)
+    width: calc((100vw - 23px) * .5))
 }
 
 #col3-head {
