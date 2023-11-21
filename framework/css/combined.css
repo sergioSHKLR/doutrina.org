@@ -441,11 +441,14 @@ a {
 
     #col2-brand,
     #col2-menu-on,
-    #col2-dm-btn, #col1-head {
+    #col2-dm-btn,
+    #col1-head {
         display: none;
     }
 
-#col1-head {display: inline-block;}
+    #col1-head {
+        display: inline-block;
+    }
 
     #col3-head {
         padding-right: 50px
@@ -459,7 +462,8 @@ a {
 @media only screen and (min-width:1920px) {
 
     #col2-brand,
-    #col2-menu-on {
+    #col2-menu-on,
+    #col2-dm-btn {
         display: none;
     }
 
