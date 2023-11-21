@@ -15,7 +15,7 @@
 }
 
 #col1-body {
-    background-color: transparent;
+    background-color: #fff;
     border-collapse: collapse;
     border-right: 1px solid #dcdcdc80;
     border-top: 1px solid #dcdcdc80;
@@ -319,6 +319,7 @@ a {
 @media only screen and (max-width:782px) {
 
     #col1-head,
+    #col2-menu-off,
     #col1-body,
     #col3-head,
     #col3-body,
@@ -329,7 +330,7 @@ a {
 
     #col2-dm-btn,
     #col2-lm-btn {
-        padding-right: 55px
+        padding-right: 25px
     }
 
     #col2-head,
@@ -356,10 +357,10 @@ a {
 
 @media only screen and (min-width:783px) and (max-width:1100px) {
 
-    #col1-head,
-    #col1-body,
     #col1-brand,
-    #col2-fs-btn,
+    #col1-body,
+    #col2-menu-off,
+    #col2-dm-btn,
     iframe#screenshot1,
     iframe#screenshot3 {
         display: none
@@ -391,10 +392,10 @@ a {
 
 @media only screen and (min-width:1101px) and (max-width:1419px) {
 
-    #col1-head,
-    #col1-body,
-    #col1-brand,
-    #col2-fs-btn,
+    #col2-brand,
+    #col2-menu-on,
+    #col2-menu-off,
+    #col2-dm-btn,
     iframe#screenshot1,
     iframe#screenshot3 {
         display: none
