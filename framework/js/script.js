@@ -3,68 +3,64 @@
 // DARK MODE -------------------------------------------------------
 
 // DARK MODE COL2 --------------------------------------------------
-function activeDark2() {
+function darkMode2() {
     var element = document.body;
     element.classList.add("dark-mode");
-    localStorage.setItem("mode", "dark2");
-    document.getElementById("ext-iframe").classList.add('is-dark')
     var element = document.getElementById("col2-dm-btn");
-    element.classList.toggle("hide");
+    element.classList.add("hide");
     var element = document.getElementById("col2-lm-btn");
-    element.classList.toggle("show");
+    element.classList.remove("hide");
+    localStorage.setItem("contrast","dark");
 }
 
-// CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
-(function () {
-    let mode = localStorage.getItem("mode");
-    if (mode === "dark2") {
-        activeDark2()
-    }
-});
-
 // LIGHT MODE COL2--------------------------------------------------
-function inactiveDark2() {
+function lightMode2() {
     var element = document.body;
     element.classList.remove("dark-mode");
-    localStorage.setItem("mode", "light2");
     var element = document.getElementById("col2-lm-btn");
-    element.classList.toggle("show");
+    element.classList.add("hide");
     var element = document.getElementById("col2-dm-btn");
-    element.classList.toggle("hide");
+    element.classList.remove("hide");
+    localStorage.setItem("contrast","light");
 }
 
 // DARK MODE COL3 --------------------------------------------------
-function activeDark3() {
+function darkMode3() {
     var element = document.body;
     element.classList.add("dark-mode");
-    localStorage.setItem("mode", "dark3");
-    document.getElementById("ext-iframe").classList.add('is-dark')
     var element = document.getElementById("col3-dm-btn");
-    element.classList.toggle("hide");
+    element.classList.add("hide");
     var element = document.getElementById("col3-lm-btn");
-    element.classList.toggle("show");
+    element.classList.remove("hide");
+    localStorage.setItem("contrast","dark");
+}
+
+// LIGHT MODE COL3--------------------------------------------------
+function lightMode3() {
+    var element = document.body;
+    element.classList.remove("dark-mode");
+    var element = document.getElementById("col3-lm-btn");
+    element.classList.add("hide");
+    var element = document.getElementById("col3-dm-btn");
+    element.classList.remove("hide");
+    localStorage.setItem("contrast","light");
 }
 
 // CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
-(function () {
-    let mode = localStorage.getItem("mode");
-    if (mode == "dark3") {
-        activeDark3()
+function checkMode() {
+    let mode = localStorage.getItem("contrast");
+    if (mode == "dark") {
+        darkMode2()
     }
-});
-
-// DARK MODE COL3 --------------------------------------------------
-function inactiveDark3() {
-    var element = document.body;
-    element.classList.remove("dark-mode");
-    localStorage.setItem("mode", "light3");
-    document.getElementById("ext-iframe").classList.remove('is-dark')
-    var element = document.getElementById("col3-lm-btn");
-    element.classList.toggle("show");
-    var element = document.getElementById("col3-dm-btn");
-    element.classList.toggle("hide");
 }
 
+// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
+function checkMode() {
+    let mode = localStorage.getItem("contrast");
+    if (mode == "dark") {
+        darkMode3()
+    }
+}
 
 // FULLSCREEN ---------------------------------------------------
 var elem = document.documentElement;
@@ -196,3 +192,10 @@ function shadesOff() {
 })();
 
 
+// CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
+(function () {
+    let mode = localStorage.getItem("mode");
+    if (mode === "dark2") {
+        activeDark2()
+    }
+});
