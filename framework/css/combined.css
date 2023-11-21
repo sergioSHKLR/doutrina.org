@@ -220,8 +220,41 @@ a:any-link {
 }
 
 #col2-body a:any-link {
+    text-decoration: none;
     color: #3366cc;
-    text-decoration: 1px solid #3366cc
+}
+
+#col2-body a:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: #3366cc99;
+}
+
+em {
+    color: currentColor;
+    font-style: italic
+}
+
+p.cursive {
+    font-family: 'Zeyada';
+    font-size: 60px;
+    margin-top: -20px
+}
+
+kbd {
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    padding: 3px 3px 2px 3px;
+    vertical-align: middle;
+    white-space: nowrap;
+    background-color: #f1f1f166;
+    color: currentColor;
+    font-family: 'Inter';
+    font-size: 14px;
+}
+
+abbr {
+    text-underline-offset: 2px;
 }
 
 /*---------- DARK MODE ----------*/
