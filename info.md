@@ -236,6 +236,12 @@ Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
  </tbody>
 </table>
 
+[desktop](https://docs.google.com/presentation/d/e/2PACX-1vQrQkWlbQyJM1zs2WBtHia0YJ2FSrPA4GUa_nBRGi5DP1Yqb1wGanZS8ucqEqQiiGdz7L-mE2ejn2yE/pub?start=true&loop=true&delayms=3000)
+
+[tablet]()
+
+[celular]()
+
 Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
 
 De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica
