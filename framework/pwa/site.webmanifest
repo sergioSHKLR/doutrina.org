@@ -8,29 +8,34 @@
   "theme_color": "#4ec1f5",
   "description": "Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original.",
   "orientation": "any",
-  "background_color": "#222",
+  "background_color": "#222222",
   "related_applications": [],
   "prefer_related_applications": false,
-  "display_override": ["window-controls-overlay"],
+  "display_override": [
+    "window-controls-overlay",
+    "fullscreen"
+  ],
   "lang": "pt-BR",
   "dir": "ltr",
   "handle_links": "preferred",
   "launch_handler": {
     "client_mode": "navigate-existing"
-},
+  },
   "iarc_rating_id": "",
   "share_target": {
     "action": "/handle-shared-content/",
     "method": "GET",
-    "enctype":"application/x-www-form-urlencoded",
+    "enctype": "application/x-www-form-urlencoded",
     "params": {
       "title": "doutrina.org",
       "url": "https://doutrina.org"
     }
   },
   "scope_extensions": [
-    {"origin": "doutrina.org/*"}
-  ],  
+    {
+      "origin": "doutrina.org/*"
+    }
+  ],
   "icons": [
     {
       "src": "https://doutrina.org/framework/pwa/maskable.png",
@@ -49,7 +54,8 @@
     {
       "src": "screenshot.png",
       "sizes": "2560x1600",
-      "type": "image/png"    }
+      "type": "image/png"
+    }
   ],
   "features": [
     "Cross Platform",
