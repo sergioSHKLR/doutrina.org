@@ -1,0 +1,220 @@
+/*---------- FRAMEWORK ----------*/
+#col1-head {
+    background-color: transparent;
+    border: none;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    height: 50px;
+    left: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+    position: fixed;
+    top: 0;
+    width: 250px
+}
+
+#col1-body {
+    background-color: #fff;
+    border-collapse: collapse;
+    border-right: 1px solid #dcdcdc80;
+    border-top: 1px solid #dcdcdc80;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    height: calc(100vh - (50px));
+    left: 0;
+    line-height: 1.5;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    overscroll-behavior: contain;
+    padding-left: 15px;
+    position: fixed;
+    scroll-behavior: smooth;
+    top: 50px;
+    width: 250px;
+    z-index: 1
+}
+
+#col1-brand,
+#col2-brand {
+    border: none;
+    border-collapse: collapse;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: currentColor;
+    font-family: 'Russo One', sans-serif;
+    font-size: 24px;
+    margin-left: -5px;
+    padding-bottom: 5px;
+    padding-left: 0;
+    position: relative;
+    text-decoration: none
+}
+
+#col2-brand {
+    top: -3px
+}
+
+#col2-brand a:any-link,
+#col2-head button,
+#col2-head a:any-link,
+#col3-head button,
+#col3-head a:any-link {
+    color: currentColor
+}
+
+#col2-head {
+    background-color: transparent;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    height: 50px;
+    left: 250px;
+    padding-right: 20px;
+    padding-top: 3px;
+    position: fixed;
+    top: 0;
+    width: calc((100vw - 273px) * .5)
+}
+
+#col2-head button {
+    position: relative;
+    top: 2px
+}
+
+#col2-body {
+    background-color: transparent;
+    border-collapse: collapse;
+    border-top: 1px solid #dcdcdc80;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 300;
+    height: calc(100vh - (50px));
+    left: 250px;
+    line-height: 1.5;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    overscroll-behavior: contain;
+    padding: 0 55px 0 55px;
+    position: fixed;
+    scroll-behavior: smooth;
+    top: 50px;
+    width: calc((100vw - 273px) * .5);
+}
+
+#col3-head {
+    background-color: transparent;
+    border: none;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    height: 50px;
+    padding-top: 10px;
+    position: fixed;
+    right: 23px !important;
+    top: 0;
+    width: calc((100vw - 273px) * .5)
+}
+
+#col3-head button {
+    position: relative;
+    top: -5px
+}
+
+#col3-body {
+    background-color: transparent;
+    border-collapse: collapse;
+    border-left: 1px solid #dcdcdc80;
+    border-top: 1px solid #dcdcdc80;
+    box-sizing: border-box;
+    color: #000;
+    height: calc(100vh - (50px));
+    position: fixed;
+    right: 23px !important;
+    top: 50px;
+    width: calc((100vw - 273px) * .5);
+}
+
+#ext-iframe {
+    border: none;
+    height: 100%;
+    width: 100%
+}
+
+#israel {
+    border-collapse: collapse;
+    bottom: -10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+    left: -50px;
+    position: fixed;
+    transform: rotate(45deg);
+    width: 141px;
+    z-index: 99
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    border-collapse: collapse;
+    border-radius: 50%;
+    box-sizing: border-box;
+    color: currentColor;
+    cursor: pointer;
+    font-size: 24px;
+    justify-content: center;
+    margin-left: 10px;
+    outline: 0;
+    padding: 6px 5px 0 0;
+    text-align: center
+}
+
+a:any-link {
+    outline: 0
+}
+
+.label {
+    font-size: 12px;
+    left: 5px;
+    position: relative;
+    top: -9px
+}
+
+.sidebar-heading {
+    border-bottom: 1px solid #dcdcdc80;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    width: 70%
+}
+
+.icon {
+    font-family: 'Material Symbols Outlined';
+    padding: 0 2px;
+}
+
+.icon:hover {
+    outline: 3px solid orange;
+    border-radius: 50%;
+}
+
+.fr {
+    float: right
+}
+
+.hide {
+    display: none
+}
+
+.show {
+    display: block
+}
+
+#col1-head a:any-link,
+#col1-body a:any-link,
+#col2-head a:any-link,
+#col3-head a:any-link {
+    color: currentColor;
+    text-decoration: none;
+}

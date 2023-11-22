@@ -1,0 +1,56 @@
+h1,
+h2,
+h3,
+h4 {
+    border-bottom: 1px solid #dcdcdc80;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    font-size: 20px;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+}
+
+h6 {
+    border-bottom: 1px solid #dcdcdc80;
+    margin-bottom: -15px;
+    padding-top: 20px;
+    margin-top: 0;
+    font-size: 16px;
+    font-family: 'Roboto Slab';
+}
+
+h1:before {
+    content: "h1 ";
+    color: #ddd
+}
+
+h2:before {
+    content: "h2 ";
+    color: #ddd
+}
+
+h3:before {
+    content: "h3 ";
+    color: #ddd
+}
+
+h4:before {
+    content: "h4 ";
+    color: #ddd
+}
+
+h5:before {
+    content: "h5 ";
+    color: #ddd
+}
+
+h6:before {
+    content: "h6 ";
+    color: #ddd
+}

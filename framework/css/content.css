@@ -1,5 +1,3 @@
-
-
 button {
     background-color: transparent;
     border: none;
@@ -144,8 +142,6 @@ abbr {
     border-collapse: collapse;
 }
 
-
-
 em {
     color: currentColor;
     font-style: italic
@@ -178,4 +174,3 @@ strong {
 .ff-mono {
     font-family: 'Roboto Mono';
 }
-
