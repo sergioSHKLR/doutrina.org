@@ -95,7 +95,7 @@
     overflow-x: hidden;
     overflow-y: scroll;
     overscroll-behavior: contain;
-    padding: 0 15px 0 15px;
+    padding: 0 55px 0 55px;
     position: fixed;
     scroll-behavior: smooth;
     top: 50px;
@@ -367,6 +367,39 @@ abbr {
 #col2-body blockquote {
     padding: 1px 20px;
     margin: 10px;
+    background-color: rgba(30, 144, 255, .1);
+    border-left: 4px solid rgba(30, 144, 255, 1);
+}
+
+#col2-body blockquote:first-letter {
+    background-color: dodgerblue;
+    padding: 1px;
+    border-radius: 2px;
+    border-bottom: 1.5px solid #0066cc;
+    border-right: 1.5px solid #0066cc;
+    font-size: 80%
+}
+
+#col2-body blockquote.grey {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(128, 128, 128, .1);
+    border-left: 4px solid rgba(128, 128, 128, 1);
+}
+
+#col2-body blockquote.grey::first-letter {
+    all: unset;
+}
+
+#col2-body blockquote.bible::first-letter,
+#col2-body blockquote.bible-multi::first-letter {
+    all: unset;
+}
+
+#col2-body blockquote.grey-center {
+    padding: 1px 20px;
+    margin: 10px;
+    text-align: center;
     background-color: rgba(128, 128, 128, .1);
     border-left: 4px solid rgba(128, 128, 128, 1);
 }
@@ -379,16 +412,6 @@ abbr {
     border-bottom: 1.5px solid #0066cc;
     border-right: 1.5px solid #0066cc;
     font-size: 80%
-}
-
-#col2-body blockquote:hover,
-#col2-body blockquote.grey-center:hover,
-#col2-body blockquote.spirit:hover,
-#col2-body blockquote.spirit-multi:hover,
-#col2-body blockquote.bible:hover,
-#col2-body blockquote.bible-multi:hover,
-#col2-body img:hover {
-    transform: scale(110%);
 }
 
 #col2-body blockquote.spirit,
@@ -417,6 +440,126 @@ abbr {
     font-style: normal;
     font-weight: 400;
     text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+#col2-body table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#col2-body th {
+    border: 1px solid #dcdcdc80;
+    background-color: rgba(230, 230, 230, .3);
+    padding: 0 10px;
+    font-weight: 400;
+}
+
+#col2-body td {
+    border: 1px solid #dcdcdc80;
+    background-color: rgba(230, 230, 230, .1);
+    padding: 0 10px;
+}
+
+#col2-body pre {
+    background-color: rgba(230, 230, 230, .1);
+    border: 1px solid #dcdcdc80;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    border-bottom: 1px solid #dcdcdc80;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    font-size: 20px;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+}
+
+h6 {
+    border-bottom: 1px solid #dcdcdc80;
+    margin-bottom: -15px;
+    padding-top: 20px;
+    margin-top: 0;
+    font-size: 16px;
+    font-family: 'Roboto Slab';
+}
+
+h1:before {
+    content: "h1 ";
+    color: #ddd
+}
+
+h2:before {
+    content: "h2 ";
+    color: #ddd
+}
+
+h3:before {
+    content: "h3 ";
+    color: #ddd
+}
+
+h4:before {
+    content: "h4 ";
+    color: #ddd
+}
+
+h5:before {
+    content: "h5 ";
+    color: #ddd
+}
+
+h6:before {
+    content: "h6 ";
+    color: #ddd
+}
+
+
+em {
+    color: currentColor;
+    font-style: italic
+}
+
+p.cursive {
+    font-family: 'Zeyada' !;
+    font-size: 60px;
+    margin-top: -20px
+}
+
+kbd {
+    border: 1px solid #dcdcdc80;
+    border-radius: 3px;
+    padding: 3px;
+    vertical-align: middle;
+    white-space: nowrap;
+    background-color: rgba(128, 128, 128, .1);
+}
+
+abbr {
+    text-underline-offset: 2px;
+}
+
+.author,
+strong {
+    font-weight: 400;
+}
+
+.ff-mono {
+    font-family: 'Roboto Mono';
 }
 
 

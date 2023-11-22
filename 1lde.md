@@ -58,7 +58,7 @@ layout: 1-lde
 > ![Cepa Espírita](../content/images/vine.png)
 > 
 > Interpretação artística do desenho original (mediúnico).
-{:.image}
+{:.grey-center}
 
 [Fenômenos](https://pt.m.wiktionary.org/wiki/fenómeno) alheios às leis da [ciência](https://pt.m.wikipedia.org/wiki/Ciência) humana se dão por toda parte, revelando na causa que os produz a ação de uma [vontade](https://pt.m.wikipedia.org/wiki/Vontade) livre e [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência).
 
@@ -94,7 +94,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 >
 > <p class="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://pt.m.wikipedia.org/wiki/O_Espírito_da_Verdade_(espiritismo)">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
 >
-> {:.spirit}
+{:.spirit}
 
 ### 🗂️ Introdução {#lde-0-03}
 
@@ -752,6 +752,7 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 #### Formação dos mundos
 
 > O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.
+{:.grey}
 
 ###### Q.37
 
@@ -2115,7 +2116,7 @@ Se o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) nada pedir, que é o
 
 O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? [^9]
 
-> Não; os mundos também estão sujeitos à lei do progresso. Todos começaram, como o vosso, por um estado inferior e a própria [Terra](https://pt.m.wikipedia.org/wiki/Terra) sofrerá idêntica transformação. Tornar-se-á um paraíso, quando os homens se houverem tornado bons.
+> 👻 ▸ Não; os mundos também estão sujeitos à lei do progresso. Todos começaram, como o vosso, por um estado inferior e a própria [Terra](https://pt.m.wikipedia.org/wiki/Terra) sofrerá idêntica transformação. Tornar-se-á um paraíso, quando os homens se houverem tornado bons.
 
 É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras.
 
@@ -2303,13 +2304,13 @@ Uma vez que temos tido muitas existências, a nossa parentela vai além da que a
 
 A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
 
-> Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) a quem tenhais estado presos pelos laços da consanguinidade.
+> 👻 ▸ Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) a quem tenhais estado presos pelos laços da consanguinidade.
 
 ###### Q.205.a
 
 Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. [^11]
 
-> É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que [Deus][0] formulou as Leis da Natureza.
+> 👻 ▸ É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que [Deus][0] formulou as Leis da Natureza.
 
 ###### Q.206
 
@@ -4919,7 +4920,7 @@ Poderiam os nossos bom e mau gênios encarnar, a fim de mais de perto nos acompa
 
 Haverá [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se liguem a uma família inteira para protegê-la? [^14]
 
-> Alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se ligam aos membros de uma determinada família, que vivem juntos e unidos pela afeição; mas não acrediteis em [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) protetores do orgulho das raças.
+> 👻 ▸ Alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se ligam aos membros de uma determinada família, que vivem juntos e unidos pela afeição; mas não acrediteis em [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) protetores do orgulho das raças.
 
 ###### Q.518
 
@@ -5089,7 +5090,7 @@ Que sucederia se nos esquecêssemos de agradecer?
 
 No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 
-> Assim é, de fato, mas importa ver o fim. Pagarão [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar.
+> 👻 ▸ Assim é, de fato, mas importa ver o fim. Pagarão [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar.
 
 #### Ação dos Espíritos nos fenônemos da Natureza
 
@@ -5353,7 +5354,7 @@ Um [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), que haja cultivado n
 
 Concebemos que seja assim, em se tratando de [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) muito adiantados. Referimo-nos, porém, a [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) mais vulgares, que ainda se não elevaram acima das ideias terrenas.
 
-> Com relação a esses, o caso é diferente. Mais restrito é o ponto de vista donde observam as coisas. Podem, portanto, admirar o que vos cause admiração.
+> 👻 ▸ Com relação a esses, o caso é diferente. Mais restrito é o ponto de vista donde observam as coisas. Podem, portanto, admirar o que vos cause admiração.
 
 ###### Q.567
 
@@ -8314,6 +8315,7 @@ Qual o meio de destruir-se o egoísmo?
 > 👉 ([Q.785](#q785))  
 >  
 > Fénelon
+{:.spirit-multi}
 
 Louváveis esforços indubitavelmente se empregam para fazer que a [Humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência.
 

@@ -76,9 +76,9 @@ Os botões ao topo da página servem aos seguintes propósitos:
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td><img src="./framework/hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
+<tr><td class="center"><img src="./framework/hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td class="center"><img src="./framework/hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td class="center"><img src="./framework/hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
 </table>
 
 ## Método
@@ -103,28 +103,28 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
  </thead>
  <tbody>
  <tr>
- <td>👻 (fantasma)</td>
- <td>LDE</td>
+ <td class="center">👻<br>(fantasma)</td>
+ <td class="center">LDE</td>
  <td>O Livro dos Espíritos</td>
  </tr>
  <tr>
- <td>✒️ (caneta tinteiro)</td>
- <td>LDM</td>
+ <td class="center">✒️<br>(caneta tinteiro)</td>
+ <td class="center">LDM</td>
  <td>O Livro dos Médiuns</td>
  </tr>
  <tr>
- <td>🕊️ (pomba branca)</td>
- <td>ESE</td>
+ <td class="center">🕊️<br>(pomba branca)</td>
+ <td class="center">ESE</td>
  <td>O Evangelho segundo o Espiritismo</td>
  </tr>
  <tr>
- <td>🔥 (fogo)</td>
- <td>CEU</td>
+ <td class="center">🔥<br>(fogo)</td>
+ <td class="center">CEU</td>
  <td>O Céu e o Inferno</td>
  </tr>
  <tr>
- <td>🌱 (muda de planta)</td>
- <td>GEN</td>
+ <td class="center">🌱<br>(muda de planta)</td>
+ <td class="center">GEN</td>
  <td>A Gênese</td>
  </tr>
  </tbody>
@@ -135,7 +135,7 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
 
 <pre class="fs-3 col2-w bg-lg">
-❓ livro (podendo ser 👻, ✒️, 🕊️, 🔥 ou 🌱)
+❓ livro (👻, ✒️, 🕊️, 🔥 ou 🌱)
  |
  └── 🗂️ parte
       |
@@ -188,29 +188,29 @@ Em suma, temos esta tabela descritiva abaixo:
  </thead>
  <tbody>
  <tr>
- <td>📔</td>
- <td>livro</td>
- <td>LIV</td>
+ <td class="center">📔</td>
+ <td class="center">livro</td>
+ <td class="center">LIV</td>
  </tr>
  <tr>
- <td>🗂️</td>
- <td>parte</td>
- <td>LIV-X</td>
+ <td class="center">🗂️</td>
+ <td class="center">parte</td>
+ <td class="center">LIV-X</td>
  </tr>
  <tr>
- <td>📑</td>
- <td>capítulo</td>
- <td>LIV-X-XX</td>
+ <td class="center">📑</td>
+ <td class="center">capítulo</td>
+ <td class="center">LIV-X-XX</td>
  </tr>
  <tr>
- <td>📃</td>
- <td>seção</td>
- <td>LIV-X-XX-XX</td>
+ <td class="center">📃</td>
+ <td class="center">seção</td>
+ <td class="center">LIV-X-XX-XX</td>
  </tr>
  <tr>
- <td>#️⃣</td>
- <td>questão</td>
- <td>LIV-(q)(p)X</td>
+ <td class="center">#️⃣</td>
+ <td class="center">questão</td>
+ <td class="center">LIV-(q)(p)X</td>
  </tr>
  </tbody>
 </table>
@@ -229,18 +229,12 @@ Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
  </thead>
  <tbody>
  <tr>
- <td>👉</td>
- <td>segmento relacionado</td>
- <td>indicação para leitura complementar</td>
+ <td class="center">👉</td>
+ <td class="center">segmento relacionado</td>
+ <td class="center">indicação para leitura complementar</td>
  </tr>
  </tbody>
 </table>
-
-[desktop](https://docs.google.com/presentation/d/e/2PACX-1vQrQkWlbQyJM1zs2WBtHia0YJ2FSrPA4GUa_nBRGi5DP1Yqb1wGanZS8ucqEqQiiGdz7L-mE2ejn2yE/pub?start=true&loop=true&delayms=3000)
-
-[tablet]()
-
-[celular]()
 
 Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
 
