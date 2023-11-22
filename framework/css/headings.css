@@ -27,30 +27,30 @@ h6 {
 
 h1:before {
     content: "h1 ";
-    color: #ddd
+    color: #dddddd99
 }
 
 h2:before {
     content: "h2 ";
-    color: #ddd
+    color: #dddddd99
 }
 
 h3:before {
     content: "h3 ";
-    color: #ddd
+    color: #dddddd99
 }
 
 h4:before {
     content: "h4 ";
-    color: #ddd
+    color: #dddddd99
 }
 
 h5:before {
     content: "h5 ";
-    color: #ddd
+    color: #dddddd99
 }
 
 h6:before {
     content: "h6 ";
-    color: #ddd
+    color: #dddddd99
 }
