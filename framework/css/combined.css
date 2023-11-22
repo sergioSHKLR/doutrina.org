@@ -442,6 +442,22 @@ abbr {
     text-align: right;
 }
 
+#col2-body blockquote.greek {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(252, 184, 135, .1);
+    border-left: 4px solid rgba(252, 184, 135, 1);
+}
+
+#col2-body blockquote.greek::first-letter {
+    background-color: #fcb887;
+    padding: 1px;
+    border-radius: 2px;
+    border-bottom: 1.5px solid #e29f6d;
+    border-right: 1.5px solid #e29f6d;
+    font-size: 80%
+}
+
 .center {
     text-align: center;
 }

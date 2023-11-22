@@ -3,6 +3,10 @@ title: 🕊️ O Evangelho segundo o Espiritismo
 layout: 3-ese
 ---
 
+<style>
+    h6 {margin-bottom: 0px;}
+</style>
+
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
 *[ESE]: O Evangelho segundo o Espiritismo
@@ -57,7 +61,6 @@ layout: 3-ese
 
 **📝 Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
----
 
 ### 0-03. 🗂️ Introdução
 
@@ -197,67 +200,78 @@ Além disso, estas citações provarão que, se Sócrates e Platão pressentiram
 
 ###### 01
 
-> O homem é uma alma encarnada. Antes da sua encarnação, existia unida aos tipos primordiais das ideias do verdadeiro, do bem e do belo; separa-se deles, encarnando, e, recordando o seu passado, é mais ou menos atormentada pelo desejo de voltar a ele.
+> 🏺 ▸ O homem é uma alma encarnada. Antes da sua encarnação, existia unida aos tipos primordiais das ideias do verdadeiro, do bem e do belo; separa-se deles, encarnando, e, recordando o seu passado, é mais ou menos atormentada pelo desejo de voltar a ele.
+{:.greek}
 
 Não se pode enunciar mais claramente a distinção e independência entre o princípio inteligente e o princípio material. É, além disso, a doutrina da preexistência da alma; da vaga intuição que ela guarda de um outro mundo, a que aspira; da sua sobrevivência ao corpo; da sua saída do mundo espiritual, para encarnar, e da sua volta a esse mesmo mundo, após a morte. É, finalmente, o gérmen da doutrina dos anjos decaídos.
 
 ###### 02
 
-> A alma se transvia e perturba, quando se serve do corpo para considerar qualquer objeto; tem vertigem, como se estivesse ébria, porque se prende a coisas que estão, por sua natureza, sujeitas a mudanças; ao passo que, quando contempla a sua própria essência, dirige-se para o que é puro, eterno, imortal, e, sendo ela dessa natureza, permanece aí ligada, por tanto tempo quanto possa. Cessam então os seus transviamentos, pois que está unida ao que é imutável e a esse estado da alma é que se chama sabedoria.
+> 🏺 ▸ A alma se transvia e perturba, quando se serve do corpo para considerar qualquer objeto; tem vertigem, como se estivesse ébria, porque se prende a coisas que estão, por sua natureza, sujeitas a mudanças; ao passo que, quando contempla a sua própria essência, dirige-se para o que é puro, eterno, imortal, e, sendo ela dessa natureza, permanece aí ligada, por tanto tempo quanto possa. Cessam então os seus transviamentos, pois que está unida ao que é imutável e a esse estado da alma é que se chama sabedoria.
+{:.greek}
 
 Assim, ilude a si mesmo o homem que considera as coisas de modo terra a terra, do ponto de vista material. Para as apreciar com justeza, tem de as ver do alto, isto é, do ponto de vista espiritual. Aquele, pois, que está de posse da verdadeira sabedoria, tem de isolar do corpo a alma, para ver com os olhos do Espírito. É o que ensina o Espiritismo. (ESE? Cap. 2, item 5.)
 
 ###### 03
 
-> Enquanto tivermos o nosso corpo e a alma se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a verdade. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a alma nos está ligada ao corpo, de duas uma: ou jamais conheceremos a verdade, ou só a conheceremos após a morte. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a razão por que os verdadeiros filósofos se exercitam em morrer e a morte não se lhes afigura, de modo nenhum, temível.
+> 🏺 ▸ Enquanto tivermos o nosso corpo e a alma se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a verdade. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a alma nos está ligada ao corpo, de duas uma: ou jamais conheceremos a verdade, ou só a conheceremos após a morte. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a razão por que os verdadeiros filósofos se exercitam em morrer e a morte não se lhes afigura, de modo nenhum, temível.
+{:.greek}
 
 Está aí o princípio das faculdades da alma obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da morte. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (**🔥 O Céu e o Inferno**, 1a Parte, cap. 2; 2a Parte, cap. 1.)
 
 ###### 04
 
-> A alma impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira vida que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira vida constituíam objeto de suas predileções.
+> 🏺 ▸ A alma impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira vida que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira vida constituíam objeto de suas predileções.
+{:.greek}
 
 Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o Espiritismo nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da alma, enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o Espiritismo, acrescentando apenas que a alma, que boas resoluções tomou na erraticidade e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e moral. (🔥 O Céu e o Inferno, 2a Parte: Exemplos.)
 
 ###### 05
 
-> Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
+> 🏺 ▸ Após a nossa morte, o gênio (daïmon, demônio), que nos fora designado durante a vida, leva-nos a um lugar onde se reúnem todos os que têm de ser conduzidos ao Hades, para serem julgados. As almas, depois de haverem estado no Hades o tempo necessário, são reconduzidas a esta vida em múltiplos e longos períodos.
+{:.greek}
 
 É a doutrina dos anjos guardiães, ou Espíritos protetores, e das reencarnações sucessivas, em seguida a intervalos mais ou menos longos de erraticidade.
 
 ###### 06
 
-> Os demônios ocupam o espaço que separa o céu da Terra; constituem o laço que une o Grande Todo a si mesmo. Não entrando nunca a divindade em comunicação direta com o homem, é por intermédio dos demônios que os deuses entram em comércio e se entretêm com ele, quer durante a vigília, quer durante o sono.
+> 🏺 ▸ Os demônios ocupam o espaço que separa o céu da Terra; constituem o laço que une o Grande Todo a si mesmo. Não entrando nunca a divindade em comunicação direta com o homem, é por intermédio dos demônios que os deuses entram em comércio e se entretêm com ele, quer durante a vigília, quer durante o sono.
+{:.greek}
 
 A palavra daïmon, da qual fizeram o termo demônio, não era, na Antiguidade, tomada à má parte, como nos tempos modernos. Não designava exclusivamente seres malfazejos, mas todos os Espíritos, em geral, dentre os quais se destacavam os Espíritos superiores, chamados deuses, e os menos elevados, ou demônios propriamente ditos, que comunicavam diretamente com os homens. Também o Espiritismo diz que os Espíritos povoam o Espaço; que Deus só se comunica com os homens por intermédio dos Espíritos puros, que são os incumbidos de lhes transmitir as vontades; que os Espíritos se comunicam com eles durante a vigília e durante o sono. Ponde, em lugar da palavra demônio, a palavra Espírito e tereis a Doutrina Espírita; ponde a palavra anjo e tereis a doutrina cristã.
 
 ###### 07
 
-> A preocupação constante do filósofo (tal como o compreendiam Sócrates e Platão) é a de tomar o maior cuidado com a alma, menos pelo que respeita a esta vida, que não dura mais que um instante, do que tendo em vista a eternidade. Desde que a alma é imortal, não será prudente viver visando à eternidade?
+> 🏺 ▸ A preocupação constante do filósofo (tal como o compreendiam Sócrates e Platão) é a de tomar o maior cuidado com a alma, menos pelo que respeita a esta vida, que não dura mais que um instante, do que tendo em vista a eternidade. Desde que a alma é imortal, não será prudente viver visando à eternidade?
+{:.greek}
 
 ###### O Cristianismo e o Espiritismo ensinam a mesma coisa
 
 ###### 08
 
-> Se a alma é imaterial, tem de passar, após essa vida, a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a alma pura, verdadeiramente imaterial, que se alimente, como Deus, de ciência e pensamentos, da alma mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na Terra.
+> 🏺 ▸ Se a alma é imaterial, tem de passar, após essa vida, a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a alma pura, verdadeiramente imaterial, que se alimente, como Deus, de ciência e pensamentos, da alma mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na Terra.
+{:.greek}
 
 Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da alma. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o Espiritismo o prova com os inúmeros exemplos que nos põe sob as vistas. (**🔥 O Céu e o Inferno**, 2a Parte.)
 
 ###### 09
 
-> Se a morte fosse a dissolução completa do homem, muito ganhariam com a morte os maus, pois se veriam livres, ao mesmo tempo, do corpo, da alma e dos vícios. Aquele que guarnecer a alma, não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.
+> 🏺 ▸ Se a morte fosse a dissolução completa do homem, muito ganhariam com a morte os maus, pois se veriam livres, ao mesmo tempo, do corpo, da alma e dos vícios. Aquele que guarnecer a alma, não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.
+{:.greek}
 
 Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o nada, anula toda responsabilidade moral ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra vida. Por meio de exemplos, que todos os dias nos apresenta, o Espiritismo mostra quão penoso é, para o mau, o passar desta à outra vida, a entrada na vida futura. (**🔥 O Céu e o Inferno**, 2a Parte, cap. 1.)
 
 ###### 10
 
-> O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.
+> 🏺 ▸ O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.
+{:.greek}
 
 Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: ✝️ ▸ *… se qualquer te bater na face direita, oferece-lhe também a outra …*(Mateus, cap. 5, vers. 39, ARC)
 
 ###### 11
 
-> De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
+> 🏺 ▸ De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar. Se tudo tem de extinguir-se, a morte será como uma dessas raras noites que passamos sem sonho e sem nenhuma consciência de nós mesmos. Todavia, se a morte é apenas uma mudança de morada, a passagem para o lugar onde os mortos se têm de reunir, que felicidade a de encontrarmos lá aqueles a quem conhecemos! O meu maior prazer seria examinar de perto os habitantes dessa outra morada e de distinguir lá, como aqui, os que são dignos dos que se julgam tais e não o são. No entanto, é tempo de nos separarmos, eu para morrer, vós para viverdes. (Sócrates aos seus juízes.)
+{:.greek}
 
 Segundo Sócrates, os que viveram na Terra se encontram após a morte e se reconhecem. Mostra o Espiritismo que continuam as relações que entre eles se estabeleceram, de tal maneira que a morte não é nem uma interrupção, nem a cessação da vida, mas uma transformação, sem solução de continuidade.
 
@@ -265,57 +279,67 @@ Houvessem Sócrates e Platão conhecido os ensinos que o Cristo difundiu quinhen
 
 ###### 12
 
-> Nunca se deve retribuir com outra uma injustiça, nem fazer mal a ninguém, seja qual for o dano que nos hajam causado. Poucos, no entanto, serão os que admitam esse princípio, e os que se desentenderem a tal respeito nada mais farão, sem dúvida, do que se votarem uns aos outros mútuo desprezo.
+> 🏺 ▸ Nunca se deve retribuir com outra uma injustiça, nem fazer mal a ninguém, seja qual for o dano que nos hajam causado. Poucos, no entanto, serão os que admitam esse princípio, e os que se desentenderem a tal respeito nada mais farão, sem dúvida, do que se votarem uns aos outros mútuo desprezo.
+{:.greek}
 
 Não está aí o princípio de caridade, que prescreve não se retribua o mal com o mal e se perdoe aos inimigos?
 
 ###### 13
 
-> É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
+> 🏺 ▸ É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
+{:.greek}
 
 Esta máxima: ✝️ ▸ *Pelos frutos é que se conhece a árvore*(LIVRO, cap. X, vers. Y, ARC), se encontra muitas vezes repetida textualmente no Evangelho.
 
 ###### 14
 
-> A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (ESE? Cap. 16)
+> 🏺 ▸ A riqueza é um grande perigo. Todo homem que ama a riqueza não ama a si mesmo, nem ao que é seu; ama a uma coisa que lhe é ainda mais estranha do que o que lhe pertence. (ESE? Cap. 16)
+{:.greek}
 
 ###### 15
 
-> As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (ESE? Cap. 10, itens 7 e 8.)
+> 🏺 ▸ As mais belas preces e os mais belos sacrifícios prazem menos à Divindade do que uma alma virtuosa que faz esforços por se lhe assemelhar. Grave coisa fora que os deuses dispensassem mais atenção às nossas oferendas do que à nossa alma; se tal se desse, poderiam os mais culpados conseguir que eles se lhes tornassem propícios. Mas não: verdadeiramente justos e retos só o são os que, por suas palavras e atos, cumprem seus deveres para com os deuses e para com os homens. (ESE? Cap. 10, itens 7 e 8.)
+{:.greek}
 
 ###### 16
 
-> Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
+> 🏺 ▸ Chamo homem vicioso a esse amante vulgar, que mais ama o corpo do que a alma. O amor está por toda parte em a Natureza, que nos convida ao exercício da nossa inteligência; até no movimento dos astros o encontramos. É o amor que orna a Natureza de seus ricos tapetes; ele se enfeita e fixa morada onde se lhe deparem flores e perfumes. É ainda o amor que dá paz aos homens, calma ao mar, silêncio aos ventos e sono à dor.
+{:.greek}
 
 O amor, que há de unir os homens por um laço fraternal, é uma consequência dessa teoria de Platão sobre o amor universal como Lei da Natureza. Tendo dito Sócrates que: O amor não é nem um deus, nem um mortal, mas um grande demônio, isto é, um grande Espírito que preside ao amor universal, essa proposição lhe foi imputada como crime.
 
 ###### 17
 
-> A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
+> 🏺 ▸ A virtude não pode ser ensinada; vem por dom de Deus aos que a possuem.
+{:.greek}
 
 É quase a doutrina cristã sobre a graça; mas se a virtude é um dom de Deus, é um favor e, então, pode perguntar-se por que não é concedida a todos. Por outro lado, se é um dom, carece de mérito para aquele que a possui. O Espiritismo é mais explícito, dizendo que aquele que possui a virtude a adquiriu por seus esforços, em existências sucessivas, despojando-se pouco a pouco de suas imperfeições. A graça é a força que Deus faculta ao homem de boa vontade para se expungir do mal e praticar o bem.
 
 ###### 18
 
-> É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
+> 🏺 ▸ É disposição natural em todos nós a de nos apercebermos muito menos dos nossos defeitos, do que dos de outrem.
+{:.greek}
 
 Diz o Evangelho: ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?*(Mateus, cap. 7, vers. 3, ARC & Lucas cap. 6 vers. 42, ARC)
 
 ###### 19
 
-> Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
+> 🏺 ▸ Se os médicos são malsucedidos, tratando da maior parte das moléstias, é que tratam do corpo, sem tratarem da alma. Ora, não se achando o todo em bom estado, impossível é que uma parte dele passe bem.
+{:.greek}
 
 O Espiritismo fornece a chave das relações existentes entre a alma e o corpo e prova que um reage incessantemente sobre o outro. Abre, assim, nova senda para a Ciência. Com o lhe mostrar a verdadeira causa de certas afecções, faculta-lhe os meios de as combater. Quando a Ciência levar em conta a ação do elemento espiritual na economia, menos frequentes serão os seus maus êxitos.
 
 ###### 20
 
-> Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.
+> 🏺 ▸ Todos os homens, a partir da infância, muito mais fazem de mal do que de bem.
+{:.greek}
 
 Essa sentença de Sócrates fere a grave questão da predominância do mal na Terra, questão insolúvel sem o conhecimento da pluralidade dos mundos e da destinação do planeta terreno, habitado apenas por uma fração mínima da Humanidade. Somente o Espiritismo resolve essa questão, que se encontra explanada aqui adiante, nos capítulos (ESE 2, 3 e 4).
 
 ###### 21
 
-> Ajuizado serás, não supondo que sabes o que ignoras.
+> 🏺 ▸ Ajuizado serás, não supondo que sabes o que ignoras.
+{:.greek}
 
 Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os primeiros termos. Platão completa esse pensamento de Sócrates, dizendo: Tentemos, primeiro, torná-los, se for possível, mais honestos nas palavras; se não o forem, não nos preocupemos com eles e não procuremos senão a verdade. Cuidemos de instruir-nos, mas não nos injuriemos.
 
@@ -433,9 +457,10 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 >
 >São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de Deus. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da moral tocarão os espíritos, que então abraçarão uma ciência que lhes dá a chave da vida futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; Jesus continuou a obra; o Espiritismo a concluirá.
 >
->**Um Espírito israelita
->[Mulhouse](./maps/mulhouse.html) 🇫🇷
-1861**
+> Um Espírito israelita  
+> [Mulhouse](../content/maps/mulhouse.html){:target="ext"} 🇫🇷  
+> 1861
+{:.spirit-multi}
 
 ###### 10
 
@@ -445,21 +470,22 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 >
 > A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
 >
-> **Fénelon  
-> [Poitiers](./maps/poitiers.html) 🇫🇷  
-> 1861**
+> Fénelon  
+> [Poitiers](../content/maps/poitiers.html){:target="ext"} 🇫🇷  
+> 1861
+{:.spirit-multi}
 
 ###### 11
 
 > 👻 ▸ Santo Agostinho é um dos maiores vulgarizadores do Espiritismo. Manifesta-se quase por toda parte. A razão disso encontramo-la na vida desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da verdade. Quando, entregue aos maiores excessos, sentiu em sua alma aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu Deus! Meu Deus! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente Espírito deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da morte de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na vida futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a razão por que hoje, vendo chegada a hora de divulgar-se a verdade que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam.
 >
-> **Erasto, discípulo de Paulo  
-> [Paris](./maps/paris.html) 🇫🇷  
-> 1863**
+> Erasto, discípulo de Paulo  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863
+{:.spirit-multi}
 
 **📝 Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
----
 
 ### 1-02. 🗂️ Meu Reino não é deste mundo
 
@@ -530,11 +556,11 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 >
 > Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a Terra: não o esqueçais.
 >
-> **Uma Rainha da França  
-> [Havre](./maps/havre.html) 🇫🇷  
-> 1863**
+> Uma Rainha da França  
+> [Havre](../content/maps/havre.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
----
 
 ### 1-03. 🗂️ Há muitas moradas na casa de meu Pai
 
@@ -629,9 +655,10 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > 👻 ▸ A Terra, conseguintemente, oferece um dos tipos de mundos expiatórios, cuja variedade é infinita, mas revelando todos, como caráter comum, o servirem de lugar de exílio para Espíritos rebeldes à Lei de Deus. Esses Espíritos têm aí de lutar, ao mesmo tempo, com a perversidade dos homens e com a inclemência da Natureza, duplo e árduo trabalho que simultaneamente desenvolve as qualidades do coração e as da inteligência. É assim que Deus, em sua bondade, faz que o próprio castigo redunde em proveito do progresso do Espírito.
 >
-> **Santo Agostinho  
-> [Paris](./maps/paris.html) 🇫🇷  
-> 1862**
+> Santo Agostinho  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Mundos regeneradores
 
@@ -651,9 +678,10 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 >
 > Contemplai, pois, à noite, à hora do repouso e da prece, a abóbada azulada e, das inúmeras esferas que brilham sobre as vossas cabeças, indagai de vós mesmos quais as que conduzem a Deus e pedi-lhe que um mundo regenerador vos abra seu seio após a expiação na Terra.
 >
-> **Santo Agostinho
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Santo Agostinho  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Progressão dos mundos
 
@@ -665,11 +693,11 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 >
 > Segundo aquela lei, este mundo esteve material e moralmente num estado inferior ao em que hoje se acha e se alçará sob esse duplo aspecto a um grau mais elevado. Ele há chegado a um dos seus períodos de transformação, em que, de orbe expiatório, mudar-se-á em planeta de regeneração, onde os homens serão ditosos, porque nele imperará a Lei de Deus.
 >
-> **Santo Agostinho
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Santo Agostinho  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
----
 
 ### 1-04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo
 
@@ -855,9 +883,10 @@ Quais os limites da encarnação?
 >
 > Deve também considerar-se que no estado de desencarnado, isto é, no intervalo das existências corporais, a situação do Espírito guarda relação com a natureza do mundo a que o liga o grau do seu adiantamento. Assim, na erraticidade, é ele mais ou menos ditoso, livre e esclarecido, conforme está mais ou menos desmaterializado.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1859**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1859  
+{:.spirit-multi}
 
 ###### Necessidade da encarnação
 
@@ -867,9 +896,10 @@ Quais os limites da encarnação?
 >
 > 👻 ▸ A passagem dos Espíritos pela vida corporal é necessária para que eles possam cumprir, por meio de uma ação material, os desígnios cuja execução Deus lhes confia. É-lhes necessária, a bem deles, visto que a atividade que são obrigados a exercer lhes auxilia o desenvolvimento da inteligência. Sendo soberanamente justo, Deus tem de distribuir tudo igualmente por todos os seus filhos; assim é que estabeleceu para todos o mesmo ponto de partida, a mesma aptidão, as mesmas obrigações a cumprir e a mesma liberdade de proceder. Qualquer privilégio seria uma preferência, e toda preferência, uma injustiça; mas a encarnação, para todos os Espíritos, é apenas um estado transitório. É uma tarefa que Deus lhes impõe, quando iniciam a vida, como primeira experiência do uso que farão do livre-arbítrio. Os que desempenham com zelo essa tarefa transpõem rapidamente e menos penosamente os primeiros graus da iniciação e mais cedo gozam do fruto de seus labores. Os que, ao contrário, usam mal da liberdade que Deus lhes concede retardam a sua marcha e, tal seja a obstinação que demonstrem, podem prolongar indefinidamente a necessidade da reencarnação e é quando se torna um castigo.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1859**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1859  
+{:.spirit-multi}
 
 ###### 26
 
@@ -879,7 +909,6 @@ Assim acontece com o homem na Terra. Para o Espírito do selvagem, que está ape
 
 Não poderiam os Espíritos encarnar uma única vez em determinado globo e preencher em esferas diferentes suas diferentes existências? Semelhante modo de ver só seria admissível se, na Terra, todos os homens estivessem exatamente no mesmo nível intelectual e moral. As diferenças que há entre eles, desde o selvagem ao homem civilizado, mostram quais os degraus que têm de subir. A encarnação, aliás, precisa ter um fim útil. Ora, qual seria o das encarnações efêmeras das crianças que morrem em tenra idade? Teriam sofrido sem proveito para si, nem para outrem. Deus, cujas leis todas são soberanamente sábias, nada faz de inútil. Pela reencarnação no mesmo globo, quis Ele que os mesmos Espíritos, pondo-se novamente em contato, tivessem ensejo de reparar seus danos recíprocos. Por meio das suas relações anteriores, quis, além disso, estabelecer sobre base espiritual os laços de família e apoiar numa lei natural os princípios da solidariedade, da fraternidade e da igualdade.
 
----
 
 ### 1-05. 🗂️ Bem-aventurados os aflitos
 
@@ -1042,9 +1071,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Bem-aventurados os aflitos pode então traduzir-se assim: Bem-aventurados os que têm ocasião de provar sua fé, sua firmeza, sua perseverança e sua submissão à vontade de Deus, porque terão centuplicada a alegria que lhes falta na Terra, porque depois do labor virá o repouso.
 >
-> **Lacordaire
-> [Havre](./maps/havre.html) 🇫🇷
-> 1863**
+> Lacordaire  
+> [Havre](../content/maps/havre.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### O mal e o remédio
 
@@ -1060,9 +1090,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Ditosos os que sofrem e choram! Alegres estejam suas almas, porque Deus as cumulará de bem-aventuranças.
 >
-> **Santo Agostinho
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Santo Agostinho  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### A felicidade não é deste mundo
 
@@ -1084,9 +1115,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Assim, pois, meus queridos filhos, que uma santa emulação vos anime e que cada um de vós se despoje do homem velho. Deveis todos consagrar-vos à propagação desse Espiritismo que já deu começo à vossa própria regeneração. Corre-vos o dever de fazer que os vossos irmãos participem dos raios da sagrada luz. Mãos, portanto, à obra, meus muito queridos filhos! Que nesta reunião solene todos os vossos corações aspirem a esse grandioso objetivo de preparar para as gerações porvindouras um mundo no qual já não seja vã a palavra felicidade.
 >
-> **François-Nicolas-Madeleine, cardeal Morlot
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> François-Nicolas-Madeleine, cardeal Morlot  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Perda de pessoas amadas. Mortes prematuras
 
@@ -1104,9 +1136,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Vós que compreendeis a vida espiritual, escutai as pulsações do vosso coração a chamar esses entes bem-amados e, se pedirdes a Deus que os abençoe, em vós sentireis fortes consolações, dessas que secam as lágrimas; sentireis aspirações grandiosas que vos mostrarão o porvir que o soberano Senhor prometeu.
 >
-> **Sanson, ex-membro da Sociedade Espírita
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Sanson, ex-membro da Sociedade Espírita  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Se fosse um homem de bem, teria morrido
 
@@ -1118,9 +1151,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Habituai-vos a não censurar o que não podeis compreender e crede que Deus é justo em todas as coisas. Muitas vezes, o que vos parece um mal é um bem. Tão limitadas, no entanto, são as vossas faculdades, que o conjunto do grande todo não o apreendem os vossos sentidos obtusos. Esforçai-vos por sair, pelo pensamento, da vossa acanhada esfera e, à medida que vos elevardes, diminuirá para vós a importância da vida material que, nesse caso, se vos apresentará como simples incidente, no curso infinito da vossa existência espiritual, única existência verdadeira.
 >
-> **Fénelon
-> [Sens](./maps/sens.html) 🇫🇷
-> 1861**
+> Fénelon  
+> [Sens](../content/maps/sens.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### Os tormentos voluntários
 
@@ -1134,8 +1168,9 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > E não será uma felicidade a calma, em meio das tempestades da vida?
 >
-> **Fénelon
-> 🇫🇷 [Lyon](./maps/lyon.html), 1860**
+> Fénelon  
+> 🇫🇷 [Lyon](../content/maps/lyon.html){:target="ext"}, 1860  
+{:.spirit-multi}
 
 #### A desgraça real
 
@@ -1151,9 +1186,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Que, pois, o Espiritismo vos esclareça e recoloque, para vós, sob verdadeiros prismas, a verdade e o erro, tão singularmente deformados pela vossa cegueira! Agireis então como bravos soldados que, longe de fugirem ao perigo, preferem as lutas dos combates arriscados à paz que lhes não pode dar glória, nem promoção! Que importa ao soldado perder na refrega armas, bagagens e uniforme, desde que saia vencedor e com glória? Que importa ao que tem fé no futuro deixar no campo de batalha da vida a riqueza e o manto de carne, contanto que sua alma entre gloriosa no Reino celeste?
 >
-> **Delfina de Girardin
-> [Paris](./maps/paris.html) 🇫🇷
-> 1861**
+> Delfina de Girardin  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### A melancolia
 
@@ -1163,8 +1199,9 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Crede-me, resisti com energia a essas impressões que vos enfraquecem a vontade. São inatas no espírito de todos os homens as aspirações por uma vida melhor; mas não as busqueis neste mundo e, agora, quando Deus vos envia os Espíritos que lhe pertencem, para vos instruírem acerca da felicidade que Ele vos reserva, aguardai pacientemente o anjo da libertação, para vos ajudar a romper os liames que vos mantêm cativo o Espírito. Lembrai-vos de que, durante o vosso degredo na Terra, tendes de desempenhar uma missão de que não suspeitais, quer dedicando-vos à vossa família, quer cumprindo as diversas obrigações que Deus vos confiou. Se, no curso desse degredo–provação, exonerando-vos dos vossos encargos, sobre vós desabarem os cuidados, as inquietações e tribulações, sede fortes e corajosos para os suportar. Afrontai-os resolutos. Duram pouco e vos conduzirão à companhia dos amigos por quem chorais e que, jubilosos por ver-vos de novo entre eles, vos estenderão os braços, a fim de guiar-vos a uma região inacessível às aflições da Terra.
 >
-> **François de Genève
-> 🇫🇷 [Bordeaux](./maps/bordeaux.html)**
+> François de Genève
+> 🇫🇷 [Bordeaux](../content/maps/bordeaux.html){:target="ext"}
+{:.spirit-multi}
 
 #### Provas voluntárias. O verdadeiro cilício
 
@@ -1180,9 +1217,10 @@ O Espiritismo ainda produz, sob esse aspecto, outro resultado igualmente positiv
 >
 > Vós, porém, que vos retirais do mundo, para lhe evitar as seduções e viver no insulamento, que utilidade tendes na Terra? Onde a vossa coragem nas provações, uma vez que fugis à luta e desertais do combate? Se quereis um cilício, aplicai-o às vossas almas, e não aos vossos corpos; mortificai o vosso Espírito, e não a vossa carne; fustigai o vosso orgulho, recebei sem murmurar as humilhações; flagiciai o vosso amor-próprio; enrijai-vos contra a dor da injúria e da calúnia, mais pungente do que a dor física. Aí tendes o verdadeiro cilício cujas feridas vos serão contadas, porque atestarão a vossa coragem e a vossa submissão à vontade de Deus.
 >
-> **Um anjo guardião
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Um anjo guardião  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Dever-se-á pôr termo às provas do próximo?
 
@@ -1200,9 +1238,10 @@ Deve alguém pôr termo às provas do seu próximo quando o possa, ou deve, para
 >
 > Não haveria imenso orgulho, da parte do homem, em se considerar no direito de, por assim dizer, revirar a arma dentro da ferida? De aumentar a dose do veneno nas vísceras daquele que está sofrendo, sob o pretexto de que tal é a sua expiação? Oh! considerai-vos sempre como instrumento para fazê-la cessar. Resumindo: todos estais na Terra para expiar; mas todos, sem exceção, deveis esforçar-vos por abrandar a expiação dos vossos semelhantes, de acordo com a lei de amor e caridade.
 >
-> **Bernardino, Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1863**
+> Bernardino, Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Será lícito abreviar a vida de um doente que sofra sem esperança de cura?
 
@@ -1216,9 +1255,10 @@ Um homem está agonizante, presa de cruéis sofrimentos. Sabe-se que seu estado 
 >
 > O materialista, que apenas vê o corpo e em nenhuma conta tem a alma, é inapto a compreender essas coisas; o espírita, porém, que já sabe o que se passa no além-túmulo, conhece o valor de um último pensamento. Minorai os derradeiros sofrimentos, quanto o puderdes; mas guardai-vos de abreviar a vida, ainda que de um minuto, porque esse minuto pode evitar muitas lágrimas no futuro.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 #### Sacrifício da própria vida
 
@@ -1228,9 +1268,10 @@ Aquele que se acha desgostoso da vida, mas que não quer extingui-la por suas pr
 >
 > Que o homem se mate ele próprio, ou faça que outrem o mate, seu propósito é sempre cortar o fio da existência: há, por conseguinte, suicídio intencional, se não de fato. É ilusória a ideia de que sua morte servirá para alguma coisa; isso não passa de pretexto para colorir o ato e escusá-lo aos seus próprios olhos. Se ele desejasse seriamente servir ao seu país, cuidaria de viver para defendê-lo; não procuraria morrer, pois que, morto, de nada mais lhe serviria. O verdadeiro devotamento consiste em não temer a morte, quando se trate de ser útil, em afrontar o perigo, em fazer, de antemão e sem pesar, o sacrifício da vida, se for necessário; mas buscar a morte com premeditada intenção, expondo-se a um perigo, ainda que para prestar serviço, anula o mérito da ação.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 ###### 30
 
@@ -1238,9 +1279,10 @@ Se um homem se expõe a um perigo iminente para salvar a vida a um de seus semel
 >
 > Desde que no ato não entre a intenção de buscar a morte, não há suicídio, e sim, apenas, devotamento e abnegação, embora também haja a certeza de que morrerá. Mas quem pode ter essa certeza? Quem poderá dizer que a Providência não reserva um inesperado meio de salvação para o momento mais crítico? Não poderia ela salvar mesmo aquele que se achasse diante da boca de um canhão? Pode muitas vezes dar-se que ela queira levar ao extremo limite a prova da resignação e, nesse caso, uma circunstância inopinada desvia o golpe fatal.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 #### Proveito dos sofrimentos para outrem
 
@@ -1250,11 +1292,11 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 >
 > Podem esses sofrimentos ser de proveito para outrem, material e moralmente: materialmente se, pelo trabalho, pelas privações e pelos sacrifícios que tais criaturas se imponham, contribuem para o bem-estar material de seus semelhantes; moralmente, pelo exemplo que elas oferecem de sua submissão à vontade de Deus. Esse exemplo do poder da fé espírita pode induzir os desgraçados à resignação e salvá-los do desespero e de suas consequências funestas para o futuro.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
----
 
 ### 1-06. 🗂️ O Cristo Consolador
 
@@ -1310,9 +1352,10 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 >
 > Espíritas! amai-vos, este o primeiro ensinamento; instruí-vos, este o segundo. No Cristianismo encontram-se todas as verdades; são de origem humana os erros que nele se enraizaram. Eis que do além-túmulo, que julgáveis o nada, vozes vos clamam: “Irmãos! nada perece. Jesus Cristo é o vencedor do mal, sede os vencedores da impiedade.”
 >
-> **O Espírito da Verdade
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> O Espírito da Verdade  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 ###### 06
 
@@ -1322,27 +1365,29 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 >
 > Em verdade vos digo: os que carregam seus fardos e assistem os seus irmãos são bem-amados meus. Instruí-vos na preciosa doutrina que dissipa o erro das revoltas e vos mostra o sublime objetivo da provação humana. Assim como o vento varre a poeira, que também o sopro dos Espíritos dissipe os vossos despeitos contra os ricos do mundo, que são, não raro, muito miseráveis, porquanto se acham sujeitos a provas mais perigosas do que as vossas. Estou convosco e meu apóstolo vos instrui. Bebei na fonte viva do amor e preparai-vos, cativos da vida, a lançar-vos um dia, livres e alegres, no seio daquele que vos criou fracos para vos tornar perfectíveis e que quer modeleis vós mesmos a vossa maleável argila, a fim de serdes os artífices da vossa imortalidade.
 >
-> **O Espírito da Verdade
-> [Paris](./maps/paris.html) 🇫🇷
-> 1861**
+> O Espírito da Verdade  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 07
 
 > 👻 ▸ Sou o grande médico das almas e venho trazer-vos o remédio que vos há de curar. Os fracos, os sofredores e os enfermos são os meus filhos prediletos. Venho salvá-los. Vinde, pois, a mim, vós que sofreis e vos achais oprimidos, e sereis aliviados e consolados. Não busqueis alhures a força e a consolação, pois que o mundo é impotente para dá-las. Deus dirige um supremo apelo aos vossos corações, por meio do Espiritismo. Escutai-o. Extirpados sejam de vossas almas doloridas a impiedade, a mentira, o erro, a incredulidade. São monstros que sugam o vosso mais puro sangue e que vos abrem chagas quase sempre mortais. Que, no futuro, humildes e submissos ao Criador, pratiqueis a sua Lei divina. Amai e orai; sede dóceis aos Espíritos do Senhor; invocai-o do fundo de vossos corações. Ele, então, vos enviará o seu Filho bem-amado, para vos instruir e dizer estas boas palavras: “Eis-me aqui; venho até vós, porque me chamastes.”
 >
-> **O Espírito da Verdade
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> O Espírito da Verdade  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 08
 
 > 👻 ▸ Deus consola os humildes e dá força aos aflitos que lha pedem. Seu poder cobre a Terra e, por toda a parte, junto de cada lágrima colocou Ele um bálsamo que consola. A abnegação e o devotamento são uma prece contínua e encerram um ensinamento profundo. A sabedoria humana reside nessas duas palavras. Possam todos os Espíritos sofredores compreender essa verdade, em vez de clamarem contra suas dores, contra os sofrimentos morais que neste mundo vos cabem em partilha. Tomai, pois, por divisa estas duas palavras: devotamento e abnegação, e sereis fortes, porque elas resumem todos os deveres que a caridade e a humildade vos impõem. O sentimento do dever cumprido vos dará repouso ao espírito e resignação. O coração bate então melhor, a alma se asserena e o corpo se forra aos desfalecimentos, por isso que o corpo tanto menos forte se sente, quanto mais profundamente golpeado é o espírito.
 >
-> **O Espírito da Verdade
-> [Havre](./maps/havre.html) 🇫🇷
-> 1863**
+> O Espírito da Verdade  
+> [Havre](../content/maps/havre.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
----
 
 ### 1-07. 🗂️ Bem-aventurados os pobres de espírito
 
@@ -1468,9 +1513,10 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 >
 > Despertai, meus irmãos, meus amigos. Que a voz dos Espíritos ecoe nos vossos corações. Sede generosos e caridosos, sem ostentação, isto é, fazei o bem com humildade. Que cada um proceda pouco a pouco à demolição dos altares que todos ergueram ao orgulho. Numa palavra: sede verdadeiros cristãos e tereis o Reino da Verdade. Não continueis a duvidar da bondade de Deus, quando dela vos dá Ele tantas provas. Vimos preparar os caminhos para que as profecias se cumpram. Quando o Senhor vos der uma manifestação mais retumbante da sua clemência, que o enviado celeste já vos encontre formando uma grande família; que os vossos corações, mansos e humildes, sejam dignos de ouvir a palavra divina que Ele vos vem trazer; que ao eleito somente se deparem em seu caminho as palmas que aí tenhais deposto, volvendo ao bem, à caridade, à fraternidade. Então, o vosso mundo se tornará o paraíso terrestre. No entanto, se permanecerdes insensíveis à voz dos Espíritos enviados para depurar e renovar a vossa sociedade civilizada, rica de ciências, mas tão pobre de bons sentimentos, ah! então não nos restará senão chorar e gemer pela vossa sorte. Mas não, assim não será. Voltai para Deus, vosso Pai, e todos nós que houvermos contribuído para o cumprimento da sua vontade entoaremos o cântico de ação de graças, agradecendo-lhe a inesgotável bondade e glorificando-o por todos os séculos dos séculos. Assim seja
 >
-> **Lacordaire
-> 🇩🇿 [Constantina](./maps/constantine.html)
-> 1863**
+> Lacordaire  
+> 🇩🇿 [Constantina](../content/maps/constantine.html){:target="ext"}  
+> 1863  
+{:.spirit-multi}
 
 ###### 12
 
@@ -1486,9 +1532,10 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 >
 > Pobre raça humana, cujo egoísmo corrompeu todas as sendas, toma novamente coragem, apesar de tudo. Em sua misericórdia infinita, Deus te envia poderoso remédio para os teus males, um inesperado socorro à tua miséria. Abre os olhos à luz: aqui estão as almas dos que já não vivem na Terra e que te vêm chamar ao cumprimento dos deveres reais. Eles te dirão, com a autoridade da experiência, quanto as vaidades e as grandezas da vossa passageira existência são mesquinhas a par da eternidade. Dir-te-ão que, lá, o maior é aquele que haja sido o mais humilde entre os pequenos deste mundo; que aquele que mais amou os seus irmãos será também o mais amado no céu; que os poderosos da Terra, se abusaram da sua autoridade, ver-se-ão reduzidos a obedecer aos seus servos; que, finalmente, a humildade e a caridade, irmãs que andam sempre de mãos dadas, são os meios mais eficazes de se obter graça diante do Eterno.
 >
-> **Adolfo, bispo de Argel
-> 🇫🇷 [Marmande](./maps/marmande.html)
-> 1862**
+> Adolfo, bispo de Argel  
+> 🇫🇷 [Marmande](../content/maps/marmande.html){:target="ext"}  
+> 1862  
+{:.spirit-multi}
 
 #### Missão do homem inteligente na Terra
 
@@ -1498,11 +1545,11 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 >
 > A inteligência é rica de méritos para o futuro, mas sob a condição de ser bem empregada. Se todos os homens que a possuem dela se servissem de conformidade com a vontade de Deus, fácil seria, para os Espíritos, a tarefa de fazer que a Humanidade avance. Infelizmente, muitos a tornam instrumento de orgulho e de perdição contra si mesmos. O homem abusa da inteligência como de todas as suas outras faculdades e, no entanto, não lhe faltam ensinamentos que o advirtam de que uma poderosa mão pode retirar o que lhe concedeu.
 >
-> **Ferdinando, Espírito protetor
-> 🇫🇷 [Bordeaux](./maps/bordeaux.html)
-> 1862**
+> Ferdinando, Espírito protetor  
+> 🇫🇷 [Bordeaux](../content/maps/bordeaux.html){:target="ext"}  
+> 1862  
+{:.spirit-multi}
 
----
 
 ### 1-08. 🗂️ Bem-aventurados os que têm puro o coração
 
@@ -1661,9 +1708,10 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 >
 > Meus bem-amados, são chegados os tempos em que, explicados, os erros se tornarão verdades. Ensinar-vos-emos o sentido exato das parábolas e vos mostraremos a forte correlação que existe entre o que foi e o que é. Digo-vos, em verdade: a manifestação espírita avulta no horizonte, e aqui está o seu enviado, que vai resplandecer como o Sol no cume dos montes.
 >
-> **João Evangelista
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> João Evangelista  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 ###### 19
 
@@ -1671,9 +1719,10 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 >
 > Se tendes amor, possuís tudo o que há de desejável na Terra, possuís preciosíssima pérola, que nem os acontecimentos, nem as maldades dos que vos odeiem e persigam poderão arrebatar. Se tendes amor, tereis colocado o vosso tesouro lá onde os vermes e a ferrugem não o podem atacar e vereis apagar-se da vossa alma tudo o que seja capaz de lhe conspurcar a pureza; sentireis diminuir dia a dia o peso da matéria e, qual pássaro que adeja nos ares e já não se lembra da Terra, subireis continuamente, subireis sempre, até que vossa alma, inebriada, se farte do seu elemento de vida no seio do Senhor.
 >
-> **Um Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Um Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### Bem-aventurados os que têm fechados os olhos [^12]
 
@@ -1689,15 +1738,15 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 >
 > Antes que me vá, recebei todos vós, que aqui vos achais reunidos, a minha bênção.
 >
-> **Vianney, cura d’Ars
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Vianney, cura d’Ars  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 ###### 📝 Nota
 
 Quando uma aflição não é consequência dos atos da vida presente, deve-se-lhe buscar a causa numa vida anterior. Tudo aquilo a que se dá o nome de caprichos da sorte mais não é do que efeito da Justiça de Deus, que não inflige punições arbitrárias, pois quer que a pena esteja sempre em correlação com a falta. Se, por sua bondade, lançou um véu sobre os nossos atos passados, por outro lado nos aponta o caminho, dizendo: “Quem matou à espada, pela espada perecerá”, palavras que se podem traduzir assim: “A criatura é sempre punida por aquilo em que pecou.” Se, portanto, alguém sofre o tormento da perda da vista, é que esta lhe foi causa de queda. Talvez tenha sido também causa de que outro perdesse a vista; de que alguém haja perdido a vista em consequência do excesso de trabalho que aquele lhe impôs, ou de maus-tratos, de falta de cuidados etc. Nesse caso, passa ele pela pena de talião. É possível que ele próprio, tomado de arrependimento, haja escolhido essa expiação, aplicando a si estas palavras de Jesus: “Se o teu olho for motivo de escândalo, arranca-o.”
 
----
 
 ### 1-09. 🗂️ Bem-aventurados os que são brandos e pacíficos
 
@@ -1750,9 +1799,10 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 >
 > Não basta que dos lábios manem leite e mel. Se o coração de modo algum lhes está associado, só há hipocrisia. Aquele cuja afabilidade e doçura não são fingidas nunca se desmente: é o mesmo, tanto em sociedade, como na intimidade. Esse, ademais, sabe que se, pelas aparências, se consegue enganar os homens, a Deus ninguém engana.
 >
-> **Lázaro
-> [Paris](./maps/paris.html) 🇫🇷
-> 1861**
+> Lázaro  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### A paciência
 
@@ -1766,9 +1816,10 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 >
 > Coragem, amigos! Tendes no Cristo o vosso modelo. Mais sofreu Ele do que qualquer de vós e nada tinha de que se penitenciar, ao passo que vós tendes de expiar o vosso passado e de vos fortalecer para o futuro. Sede, pois, pacientes, sede cristãos. Essa palavra resume tudo.
 >
-> **Um Espírito amigo
-> [Havre](./maps/havre.html) 🇫🇷
-> 1862**
+> Um Espírito amigo  
+> [Havre](../content/maps/havre.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Obediência e resignação
 
@@ -1778,9 +1829,10 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 >
 > Cada época é marcada, assim, com o cunho da virtude ou do vício que a tem de salvar ou perder. A virtude da vossa geração é a atividade intelectual; seu vício é a indiferença moral. Digo, apenas, atividade, porque o gênio se eleva de repente e descobre, por si só, horizontes que a multidão somente mais tarde verá, enquanto a atividade é a reunião dos esforços de todos para atingir um fim menos brilhante, mas que prova a elevação intelectual de uma época. Submetei-vos à impulsão que vimos dar aos vossos espíritos; obedecei à grande lei do progresso, que é a palavra da vossa geração. Ai do espírito preguiçoso, ai daquele que cerra o seu entendimento! Ai dele! porquanto nós, que somos os guias da Humanidade em marcha, lhe aplicaremos o látego e lhe submeteremos a vontade rebelde, por meio da dupla ação do freio e da espora. Toda resistência orgulhosa terá de, cedo ou tarde, ser vencida. Bem-aventurados, no entanto, os que são brandos, pois prestarão dócil ouvido aos ensinos.
 >
-> **Lázaro
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Lázaro  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### A cólera
 
@@ -1796,9 +1848,10 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 >
 > Em suma, a cólera não exclui certas qualidades do coração, mas impede se faça muito bem e pode levar à prática de muito mal. Isto deve bastar para induzir o homem a esforçar-se pela dominar. O espírita, ademais, é concitado a isso por outro motivo: o de que a cólera é contrária à caridade e à humildade cristãs.
 >
-> **Um Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1863**
+> Um Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 ###### 10
 
@@ -1808,11 +1861,11 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 >
 > O corpo não dá cólera àquele que não na tem, do mesmo modo que não dá os outros vícios. Todas as virtudes e todos os vícios são inerentes ao Espírito. A não ser assim, onde estariam o mérito e a responsabilidade? O homem deformado não pode tornar-se direito, porque o Espírito nisso não pode atuar; mas pode modificar o que é do Espírito, quando o quer com vontade firme. Não vos mostra a experiência, a vós espíritas, até onde é capaz de ir o poder da vontade, pelas transformações verdadeiramente miraculosas que se operam sob as vossas vistas? Compenetrai-vos, pois, de que o homem não se conserva vicioso, senão porque quer permanecer vicioso; de que aquele que queira corrigir-se sempre o pode. De outro modo, não existiria para o homem a lei do progresso.
 >
-> **Hahnemann
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Hahnemann  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
----
 
 ### 1-10. 🗂️ Bem-aventurados os que são misericordiosos
 
@@ -1926,9 +1979,10 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Espíritas, jamais vos esqueçais de que, tanto por palavras como por atos, o perdão das injúrias não deve ser um termo vão. Pois que vos dizeis espíritas, sede-o. Olvidai o mal que vos hajam feito e não penseis senão numa coisa: no bem que podeis fazer. Aquele que enveredou por esse caminho não tem que se afastar daí, ainda que por pensamento, uma vez que sois responsáveis pelos vossos pensamentos, os quais todos Deus conhece. Cuidai, portanto, de os expungir de todo sentimento de rancor. Deus sabe o que demora no fundo do coração de cada um de seus filhos. Feliz, pois, daquele que pode todas as noites adormecer, dizendo: Nada tenho contra o meu próximo.
 >
-> **Simeão
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1862**
+> Simeão  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 ###### 15
 
@@ -1936,9 +1990,10 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Há, porém, duas maneiras bem diferentes de perdoar: há o perdão dos lábios e o perdão do coração. Muitas pessoas dizem, com referência ao seu adversário: “Eu lhe perdoo”, mas, interiormente, alegram-se com o mal que lhe advém, comentando que ele tem o que merece. Quantos não dizem: “Perdoo” e acrescentam: “mas não me reconciliarei nunca; não quero tornar a vê-lo em toda a minha vida.” Será esse o perdão, segundo o Evangelho? Não; o perdão verdadeiro, o perdão cristão é aquele que lança um véu sobre o passado; esse o único que vos será levado em conta, visto que Deus não se satisfaz com as aparências. Ele sonda o recesso do coração e os mais secretos pensamentos. Ninguém se lhe impõe por meio de vãs palavras e de simulacros. O esquecimento completo e absoluto das ofensas é peculiar às grandes almas; o rancor é sempre sinal de baixeza e de inferioridade. Não olvideis que o verdadeiro perdão se reconhece muito mais pelos atos do que pelas palavras.
 >
-> **Paulo, apóstolo
-> [Lyon](./maps/lyon.html) 🇫🇷
-> 1861**
+> Paulo, apóstolo  
+> [Lyon](../content/maps/lyon.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### A indulgência
 
@@ -1954,9 +2009,10 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Sede indulgentes, meus amigos, porquanto a indulgência atrai, acalma, ergue, ao passo que o rigor desanima, afasta e irrita.
 >
-> **José, Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1863**
+> José, Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 ###### 17
 
@@ -1968,9 +2024,10 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Quando perdoardes aos vossos irmãos, não vos contenteis com o estender o véu do esquecimento sobre suas faltas, porquanto, as mais das vezes, muito transparente é esse véu para os olhares vossos. Levai-lhes, simultaneamente, com o perdão, o amor; fazei por eles o que pediríeis fizesse o vosso Pai celestial por vós. Substituí a cólera que conspurca, pelo amor que purifica. Pregai, exemplificando, essa caridade ativa, infatigável, que Jesus vos ensinou; pregai-a, como Ele o fez durante todo o tempo em que esteve na Terra, visível aos olhos corporais e como ainda a prega incessantemente, desde que se tornou visível tão somente aos olhos do Espírito. Segui esse modelo divino; caminhai em suas pegadas; elas vos conduzirão ao refúgio onde encontrareis o repouso após a luta. Como Ele, carregai todos vós as vossas cruzes e subi penosamente, mas com coragem, o vosso calvário, em cujo cimo está a glorificação.
 >
-> **João, bispo
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1862**
+> João, bispo  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 ###### 18
 
@@ -1978,8 +2035,9 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Espiritismo! Doutrina consoladora e bendita! felizes dos que te conhecem e tiram proveito dos salutares ensinamentos dos Espíritos do Senhor! Para esses, iluminado está o caminho, ao longo do qual podem ler estas palavras que lhes indicam o meio de chegarem ao termo da jornada: caridade prática, caridade do coração, caridade para com o próximo, como para si mesmo; numa palavra: caridade para com todos e amor a Deus acima de todas as coisas, porque o amor a Deus resume todos os deveres e porque impossível é amar realmente a Deus, sem praticar a caridade, da qual fez Ele uma lei para todas as criaturas.
 >
-> **Dufêtre, bispo de Nevers
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷**
+> Dufêtre, bispo de Nevers  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+{:.spirit-multi}
 
 #### É permitido repreender os outros, notar as imperfeições de outrem, divulgar o mal de outrem?
 
@@ -1989,9 +2047,10 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Certamente que não é essa a conclusão a tirar-se, porquanto cada um de vós deve trabalhar pelo progresso de todos e, sobretudo, daqueles cuja tutela vos foi confiada. Por isso mesmo, deveis fazê-lo com moderação, para um fim útil, e não, como as mais das vezes, pelo prazer de denegrir. Neste último caso, a repreensão é uma maldade; no primeiro, é um dever que a caridade manda seja cumprido com todo o cuidado possível. Ademais, a censura que alguém faça a outrem deve ao mesmo tempo dirigi-la a si próprio, procurando saber se não a terá merecido.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 ###### 20
 
@@ -1999,9 +2058,10 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > Tudo depende da intenção. Decerto, a ninguém é defeso ver o mal, quando ele existe. Fora mesmo inconveniente ver em toda a parte só o bem. Semelhante ilusão prejudicaria o progresso. O erro está no fazer-se que a observação redunde em detrimento do próximo, desacreditando-o, sem necessidade, na opinião geral. Igualmente repreensível seria fazê-lo alguém apenas para dar expansão a um sentimento de malevolência e à satisfação de apanhar os outros em falta. Dá-se inteiramente o contrário quando, estendendo sobre o mal um véu, para que o público não o veja, aquele que note os defeitos do próximo o faça em seu proveito pessoal, isto é, para se exercitar em evitar o que reprova nos outros. Essa observação, em suma, não é proveitosa ao moralista? Como pintaria ele os defeitos humanos, se não estudasse os modelos?
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 ###### 21
 
@@ -2009,11 +2069,11 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > É muito delicada esta questão e, para resolvê-la, necessário se torna apelar para a caridade bem compreendida. Se as imperfeições de uma pessoa só a ela prejudicam, nenhuma utilidade haverá nunca em divulgá-la. Se, porém, podem acarretar prejuízo a terceiros, deve-se atender de preferência ao interesse do maior número. Segundo as circunstâncias, desmascarar a hipocrisia e a mentira pode constituir um dever, pois mais vale caia um homem, do que virem muitos a ser suas vítimas. Em tal caso, deve-se pesar a soma das vantagens e dos inconvenientes.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
----
 
 ### 1-11. 🗂️ Amar o próximo como a si mesmo
 
@@ -2086,9 +2146,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Disse eu que em seus começos o homem só instintos possuía. Mais próximo, portanto, ainda se acha do ponto de partida do que da meta, aquele em quem predominam os instintos. A fim de avançar para a meta, tem a criatura que vencer os instintos, em proveito dos sentimentos, isto é, que aperfeiçoar estes últimos, sufocando os germens latentes da matéria. Os instintos são a germinação e os embriões do sentimento; trazem consigo o progresso, como a glande encerra em si o carvalho, e os seres menos adiantados são os que, emergindo pouco a pouco de suas crisálidas, se conservam escravizados aos instintos. O Espírito precisa ser cultivado, como um campo. Toda a riqueza futura depende do labor atual, que vos granjeará muito mais do que bens terrenos: a elevação gloriosa. É então que, compreendendo a lei de amor que liga todos os seres, buscareis nela os gozos suavíssimos da alma, prelúdios das alegrias celestes.
 >
-> **Lázaro
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Lázaro  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 ###### 09
 
@@ -2106,9 +2167,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Amados irmãos, aproveitai dessas lições; é difícil o praticá-las, porém, a alma colhe delas imenso bem. Crede-me, fazei o sublime esforço que vos peço: “Amai-vos” e vereis a Terra em breve transformada num Paraíso onde as almas dos justos virão repousar.
 >
-> **Fénelon
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Fénelon  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 10
 
@@ -2122,9 +2184,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Grande conceito de renovação pelo Espiritismo, tão bem exposto em O livro dos espíritos; tu produzirás o portentoso milagre do século vindouro, o da harmonização de todos os interesses materiais e espirituais dos homens, pela aplicação deste preceito bem compreendido: “Amai bastante, para serdes amados.”
 >
-> **Sanson, ex-membro da Sociedade Espírita
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Sanson, ex-membro da Sociedade Espírita  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### O egoísmo
 
@@ -2136,9 +2199,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > É a esse antagonismo entre a caridade e o egoísmo, à invasão do coração humano por essa chaga moral que se deve atribuir o fato de não haver ainda o Cristianismo desempenhado por completo a sua missão. Cabem a vós, novos apóstolos da fé, que os Espíritos superiores esclarecem, o encargo e o dever de extirpar esse mal, a fim de dar ao Cristianismo toda a sua força e desobstruir o caminho dos pedrouços que lhe embaraçam a marcha. Expulsai da Terra o egoísmo para que ela possa subir na escala dos mundos, porquanto já é tempo de a Humanidade envergar sua veste viril, para o que cumpre que primeiramente o expilais dos vossos corações.
 >
-> **Emmanuel
-> [Paris](./maps/paris.html) 🇫🇷
-> 1861**
+> Emmanuel  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 12
 
@@ -2148,9 +2212,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > O egoísmo é a negação da caridade. Ora, sem a caridade não haverá descanso para a sociedade humana. Digo mais: não haverá segurança. Com o egoísmo e o orgulho, que andam de mãos dadas, a vida será sempre uma carreira em que vencerá o mais esperto, uma luta de interesses, em que se calcarão aos pés as mais santas afeições, em que nem sequer os sagrados laços da família merecerão respeito.
 >
-> **Pascal
-> [Sens](./maps/sens.html) 🇫🇷
-> 1862**
+> Pascal  
+> [Sens](../content/maps/sens.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### A fé e a caridade
 
@@ -2162,9 +2227,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Tereis, contudo, razão, se afirmardes que a felicidade se acha destinada ao homem nesse mundo, desde que ele a procure, não nos gozos materiais, sim no bem. A história da cristandade fala de mártires que se encaminhavam alegres para o suplício. Hoje, na vossa sociedade, para serdes cristãos, não se vos faz mister nem o holocausto do martírio, nem o sacrifício da vida, mas única e exclusivamente o sacrifício do vosso egoísmo, do vosso orgulho e da vossa vaidade. Triunfareis, se a caridade vos inspirar e vos sustentar a fé.
 >
-> **Espírito protetor
-> [Cracóvia](./maps/krakow.html) 🇵🇱
-> 1861**
+> Espírito protetor  
+> [Cracóvia](../content/maps/krakow.html){:target="ext"} 🇵🇱  
+> 1861  
+{:.spirit-multi}
 
 #### Caridade para com os criminosos
 
@@ -2180,9 +2246,10 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Deveis, àqueles de quem falo, o socorro das vossas preces: é a verdadeira caridade. Não vos cabe dizer de um criminoso: “É um miserável; deve-se expurgar da sua presença a Terra; muito branda é, para um ser de tal espécie, a morte que lhe infligem.” Não, não é assim que vos compete falar. Observai o vosso modelo: Jesus. Que diria Ele, se visse junto de si um desses desgraçados? Lamentá-lo-ia; considerá-lo-ia um doente bem digno de piedade; estender-lhe-ia a mão. Em realidade, não podeis fazer o mesmo; mas, pelo menos, podeis orar por ele, assistir-lhe o Espírito durante o tempo que ainda haja de passar na Terra. Pode ele ser tocado de arrependimento, se orardes com fé. É tanto vosso próximo, como o melhor dos homens; sua alma, transviada e revoltada, foi criada, como a vossa, para se aperfeiçoar; ajudai-o, pois, a sair do lameiro e orai por ele.
 >
-> **Isabel da França
-> [Havre](./maps/havre.html) 🇫🇷
-> 1862**
+> Isabel da França  
+> [Havre](../content/maps/havre.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Deve-se expor a vida por um malfeitor?
 
@@ -2192,11 +2259,11 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 >
 > Questão muito grave é esta e que naturalmente se pode apresentar ao espírito. Responderei, na conformidade do meu adiantamento moral, pois o de que se trata é de saber se se deve expor a vida, mesmo por um malfeitor. O devotamento é cego; socorre-se um inimigo; deve-se, portanto, socorrer o inimigo da sociedade, a um malfeitor, em suma. Julgais que será somente à morte que, em tal caso, se corre a arrancar o desgraçado? É, talvez, a toda a sua vida passada. Imaginai, com efeito, que, nos rápidos instantes que lhe arrebatam os derradeiros alentos de vida, o homem perdido volve ao seu passado, ou que, antes, este se ergue diante dele. A morte, quiçá, lhe chega cedo demais; a reencarnação poderá vir a ser-lhe terrível. Lançai-vos, então, ó homens; lançai-vos todos vós a quem a ciência espírita esclareceu; lançai-vos, arrancai-o à sua condenação e, talvez, esse homem, que teria morrido a blasfemar, se atirará nos vossos braços. Todavia, não tendes que indagar se o fará, ou não; socorrei-o, porquanto, salvando-o, obedeceis a essa voz do coração, que vos diz: “Podes salvá-lo, salva-o!”
 >
-> **Lamennais
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Lamennais  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
----
 
 ### 1-12. 🗂️ Amai os vossos inimigos
 
@@ -2280,9 +2347,10 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 >
 > Fora, pois, com esses costumes selvagens! Fora com esses processos de outros tempos! Todo espírita que ainda hoje pretendesse ter o direito de vingar-se seria indigno de figurar por mais tempo na falange que tem como divisa: Sem caridade não há salvação! Mas não, não posso deter-me a pensar que um membro da grande família espírita ouse jamais, de futuro, ceder ao impulso da vingança, senão para perdoar.
 >
-> **Júlio Olivier
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Júlio Olivier  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### O ódio
 
@@ -2290,9 +2358,10 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 
 > 👻 ▸ Amai-vos uns aos outros e sereis felizes. Tomai sobretudo a peito amar os que vos inspiram indiferença, ódio, ou desprezo. O Cristo, que deveis considerar modelo, deu-vos o exemplo desse devotamento. Missionário do amor, Ele amou até dar o sangue e a vida por amor. Penoso vos é o sacrifício de amardes os que vos ultrajam e perseguem; mas, precisamente, esse sacrifício é que vos torna superiores a eles. Se os odiásseis, como vos odeiam, não valeríeis mais do que eles. Amá-los é a hóstia imácula que ofereceis a Deus na ara dos vossos corações, hóstia de agradável aroma e cujo perfume lhe sobe até o seio. Se bem a lei de amor mande que cada um ame indistintamente a todos os seus irmãos, ela não couraça o coração contra os maus procederes; esta é, ao contrário, a prova mais angustiosa, e eu o sei bem, porquanto, durante a minha última existência terrena, experimentei essa tortura; mas Deus lá está e pune nesta vida e na outra os que violam a lei de amor. Não esqueçais, meus queridos filhos, que o amor aproxima de Deus a criatura e o ódio a distancia dele.
 >
-> **Fénelon
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Fénelon  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### O duelo
 
@@ -2302,9 +2371,10 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 >
 > Há crime no homicídio em duelo; a vossa própria legislação o reconhece. Ninguém tem o direito, em caso algum, de atentar contra a vida de seu semelhante: é um crime aos olhos de Deus, que vos traçou a linha de conduta que tendes de seguir. Nisso, mais do que em qualquer outra circunstância, sois juízes em causa própria. Lembrai-vos de que somente vos será perdoado, conforme perdoardes; pelo perdão vos acercais da Divindade, pois a clemência é irmã do poder. Enquanto na Terra correr uma gota de sangue humano, vertida pela mão dos homens, o verdadeiro Reino de Deus ainda se não terá implantado aí, reino de paz e de amor, que há de banir para sempre do vosso planeta a animosidade, a discórdia, a guerra. Então, a palavra duelo somente existirá na vossa linguagem como longínqua e vaga recordação de um passado que se foi. Nenhum outro antagonismo existirá entre os homens, afora a nobre rivalidade do bem.
 >
-> **Adolfo, bispo de Argel
-> [Marmande](./maps/marmande.html) 🇫🇷
-> 1861**
+> Adolfo, bispo de Argel  
+> [Marmande](../content/maps/marmande.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 12
 
@@ -2312,9 +2382,10 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 >
 > Amigos, lembrai-vos deste preceito: “Amai-vos uns aos outros” e, então, a um golpe desferido pelo ódio respondereis com um sorriso, e ao ultraje com o perdão. O mundo, sem dúvida, se levantará furioso e vos tratará de covardes; erguei bem alto a fronte e mostrai que também ela se não temeria de cingir-se de espinhos, a exemplo do Cristo, mas, que a vossa mão não quer ser cúmplice de um assassínio autorizado por falsos ares de honra, que, entretanto, não passa de orgulho e amor-próprio. Dar-se-á que, ao criar-vos, Deus vos outorgou o direito de vida e de morte, uns sobre os outros? Não, só à Natureza conferiu Ele esse direito, para se reformar e reconstruir; quanto a vós, não permite, sequer, que disponhais de vós mesmos. Como o suicida, o duelista se achará marcado com sangue, quando comparecer perante Deus, e a um e outro o Soberano Juiz reserva rudes e longos castigos. Se Ele ameaçou com a sua justiça aquele que disser raca a seu irmão, quão mais severa não será a pena que comine ao que chegar à sua presença com as mãos tintas do sangue de seu irmão!
 >
-> **Santo Agostinho
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Santo Agostinho  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 ###### 13
 
@@ -2322,9 +2393,10 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 >
 > Ó estúpido amor-próprio, tola vaidade e louco orgulho, quando sereis substituídos pela caridade cristã, pelo amor do próximo e pela humildade que o Cristo exemplificou e preceituou? Só quando isso se der desaparecerão esses preceitos monstruosos que ainda governam os homens, e que as leis são impotentes para reprimir, porque não basta interditar o mal e prescrever o bem; é preciso que o princípio do bem e o horror ao mal morem no coração do homem.
 >
-> **Um Espírito protetor
-> [Boardeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Um Espírito protetor  
+> [Boardeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 14
 
@@ -2332,17 +2404,19 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 >
 > Quando a caridade regular a conduta dos homens, eles conformarão seus atos e palavras a esta máxima: “Não façais aos outros o que não quiserdes que vos façam.” Verificando-se isso, desaparecerão todas as causas de dissensões e, com elas, as dos duelos e das guerras, que são os duelos de povo a povo.
 >
-> **Francisco Xavier [^13]
-> [Boardeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Francisco Xavier [^13]  
+> [Boardeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 15
 
 > 👻 ▸ O homem do mundo, o homem venturoso, que por uma palavra chocante, uma coisa ligeira, joga a vida que lhe veio de Deus, joga a vida do seu semelhante, que só a Deus pertence, esse é cem vezes mais culpado do que o miserável que, impelido pela cupidez, algumas vezes pela necessidade, se introduz numa habitação para roubar e matar os que se lhe opõem aos desígnios. Trata-se quase sempre de uma criatura sem educação, com imperfeitas noções do bem e do mal, ao passo que o duelista pertence, em regra, à classe mais culta. Um mata brutalmente, enquanto o outro o faz com método e polidez, pelo que a sociedade o desculpa. Acrescentarei mesmo que o duelista é infinitamente mais culpado do que o desgraçado que, cedendo a um sentimento de vingança, mata num momento de exasperação. O duelista não tem por escusa o arrebatamento da paixão, pois que, entre o insulto e a reparação, dispõe ele sempre de tempo para refletir. Age, portanto, friamente e com premeditado desígnio; estuda e calcula tudo, para com mais segurança matar o seu adversário. É certo que também expõe a vida e é isso o que reabilita o duelo aos olhos do mundo, que nele então só vê um ato de coragem e pouco caso da vida. Mas haverá coragem da parte daquele que está seguro de si? O duelo, remanescente dos tempos de barbárie, em os quais o direito do mais forte constituía a lei, desaparecerá por efeito de uma melhor apreciação do verdadeiro ponto de honra e à medida que o homem for depositando fé mais viva na vida futura.
 >
-> **Agostinho
-> [Boardeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Agostinho
+> [Boardeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷
+> 1861
+{:.spirit-multi}
 
 ###### 16
 
@@ -2350,7 +2424,6 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 
 O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos homens o espírito de caridade e de fraternidade.
 
----
 
 ### 1-13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita
 
@@ -2451,9 +2524,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Lembrai-vos de que Jesus disse que todos somos irmãos e pensai sempre nisso, antes de repelirdes o leproso ou o mendigo. Adeus: pensai nos que sofrem e orai.
 >
-> **Irmã Rosália
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> Irmã Rosália  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 ###### 10
 
@@ -2465,9 +2539,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Meus amigos, a cada regimento novo o general entrega um estandarte. Eu vos dou por divisa esta máxima do Cristo: “Amai-vos uns aos outros.” Observai esse preceito, reuni-vos todos sob essa bandeira e tereis ventura e consolação.
 >
-> **Um Espírito protetor
-> [Lyon](./maps/lyon.html) 🇫🇷
-> 1860**
+> Um Espírito protetor  
+> [Lyon](../content/maps/lyon.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 #### A beneficência
 
@@ -2477,9 +2552,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Caridade! Sublime palavra que sintetiza todas as virtudes, és tu que hás de conduzir os povos à felicidade. Praticando-te, criarão eles para si infinitos gozos no futuro e, quando se acharem exilados na Terra, tu lhes serás a consolação, o prelibar das alegrias de que fruirão mais tarde, quando se encontrarem reunidos no seio do Deus de amor. Foste tu, virtude divina, que me proporcionaste os únicos momentos de satisfação de que gozei na Terra. Que os meus irmãos encarnados creiam na palavra do amigo que lhes fala, dizendo-lhes: “É na caridade que deveis procurar a paz do coração, o contentamento da alma, o remédio para as aflições da vida.” Oh! quando estiverdes a ponto de acusar a Deus, lançai um olhar para baixo de vós; vede que de misérias a aliviar, que de pobres crianças sem família, que de velhos sem qualquer mão amiga que os ampare e lhes feche os olhos quando a morte os reclame! Quanto bem a fazer! Oh! não vos queixeis; ao contrário, agradecei a Deus e prodigalizai a mancheias a vossa simpatia, o vosso amor, o vosso dinheiro por todos os que, deserdados dos bens desse mundo, enlanguescem na dor e no insulamento! Colhereis nesse mundo bem doces alegrias e, mais tarde… só Deus o sabe!…
 >
-> **Adolfo, bispo de Argel
-> [Boardeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Adolfo, bispo de Argel  
+> [Boardeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 12
 
@@ -2495,9 +2571,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Não ouso falar do que fiz, porque também os Espíritos têm o pudor de suas obras; considero, porém, a que iniciei como uma das que mais hão de contribuir para o alívio dos vossos semelhantes. Vejo com frequência os Espíritos a pedirem lhes seja dado, por missão, continuar a minha tarefa. Vejo-os, minhas bondosas e queridas irmãs, no piedoso e divino ministério; vejo-os praticando a virtude que vos recomendo, com todo o júbilo que deriva de uma existência de dedicação e sacrifícios. Imensa dita é a minha, por ver quanto lhes honra o caráter, quão estimada e protegida é a missão que desempenham. Homens de bem, de boa e firme vontade, uni-vos para continuar amplamente a obra de propagação da caridade; no exercício mesmo dessa virtude, encontrareis a vossa recompensa; não há alegria espiritual que ela não proporcione já na vida presente. Sede unidos, amai-vos uns aos outros, segundo os preceitos do Cristo. Assim seja.
 >
-> **São Vicente de Paulo
-> [Paris](./maps/paris.html) 🇫🇷
-> 1858**
+> São Vicente de Paulo  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1858  
+{:.spirit-multi}
 
 ###### 13
 
@@ -2509,9 +2586,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Mas, se peço, também dou e dou muito. Convido-vos para um grande banquete e forneço a árvore onde todos vos saciareis! Vede quanto é bela, como está carregada de flores e de frutos! Ide, ide, colhei, apanhai todos os frutos dessa magnificente árvore que se chama a beneficência. No lugar dos ramos que lhe tirardes, atarei todas as boas ações que praticardes e levarei a árvore a Deus, que a carregará de novo, porquanto a beneficência é inexaurível. Acompanhai-me, pois, meus amigos, a fim de que eu vos conte entre os que se arrolam sob a minha bandeira. Nada temais; eu vos conduzirei pelo caminho da salvação, porque sou — a Caridade.
 >
-> **Cárita, martirizada em Roma
-> [Lyon](./maps/lyon.html) 🇫🇷
-> 1861**
+> Cárita, martirizada em Roma  
+> [Lyon](../content/maps/lyon.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 14
 
@@ -2523,9 +2601,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Como essas trabalhadoras precisam de encorajamento, vejo chegarem-lhes de todos os lados as comunicações dos bons Espíritos. Os homens que fazem parte dessa sociedade lhes trazem também seu concurso, fazendo-lhes uma dessas leituras que agradam tanto. E nós, para recompensarmos o zelo de todos e de cada um em particular, prometemos às laboriosas obreiras boa clientela, que lhes pagará à vista, em bênçãos, única moeda que tem curso no Céu, garantindo-lhes, além disso, sem receio de errar, que essa moeda não lhes faltará.
 >
-> **Cárita
-> [Lyon](./maps/lyon.html) 🇫🇷
-> 1861**
+> Cárita  
+> [Lyon](../content/maps/lyon.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 15
 
@@ -2533,9 +2612,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Dois homens acabavam de morrer. Dissera Deus: “Enquanto esses dois homens viverem, deitar-se-ão em sacos diferentes as boas ações de cada um deles, para que por ocasião de sua morte sejam pesados.” Quando ambos chegaram aos últimos momentos, mandou Deus que lhe trouxessem os dois sacos. Um estava cheio, volumoso, atochado, e nele ressoava o metal que o enchia; o outro era pequenino e tão vazio que se podiam contar as moedas que continha. “Este o meu”, disse um, “reconheço-o; fui rico e dei muito.” “Este o meu”, disse o outro, “sempre fui pobre, oh! quase nada tinha para repartir.” Mas, oh! surpresa! postos na balança os dois sacos, o mais volumoso se revelou leve, mostrando-se pesado o outro, tanto que fez se elevasse muito o primeiro no prato da balança. Deus, então, disse ao rico: “Deste muito, é certo, mas deste por ostentação e para que o teu nome figurasse em todos os templos do orgulho e, ademais, dando, de nada te privaste. Vai para a esquerda e fica satisfeito com o te serem as tuas esmolas contadas por qualquer coisa.” Depois, disse ao pobre: “Tu deste pouco, meu amigo; mas cada uma das moedas que estão nesta balança representa uma privação que te impuseste; não deste esmolas, entretanto, praticaste a caridade, e, o que vale muito mais, fizeste a caridade naturalmente, sem cogitar de que te fosse levada em conta; foste indulgente; não te constituíste juiz do teu semelhante; ao contrário, todas as suas ações lhe relevaste: passa à direita e vai receber a tua recompensa.
 >
-> **Um Espírito protetor
-> [Lyon](./maps/lyon.html) 🇫🇷
-> 1861**
+> Um Espírito protetor  
+> [Lyon](../content/maps/lyon.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 ###### 16
 
@@ -2549,9 +2629,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Todos vós podeis dar. Qualquer que seja a classe a que pertençais, de alguma coisa dispondes que podeis dividir. Seja o que for que Deus vos haja outorgado, uma parte do que Ele vos deu deveis àquele que carece do necessário, porquanto, em seu lugar, muito gostaríeis que outro dividisse convosco. Os vossos tesouros da Terra serão um pouco menores; contudo, os vossos tesouros do céu ficarão acrescidos. Lá colhereis pelo cêntuplo o que houverdes semeado em benefícios neste mundo.
 >
-> **João
-> [Boardeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> João  
+> [Boardeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### A piedade
 
@@ -2565,9 +2646,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 >
 > Quão longe, no entanto, se acha a piedade de causar o distúrbio e o aborrecimento de que se arreceia o egoísta! Sem dúvida, ao contato da desgraça de outrem, a alma, voltando-se para si mesma, experimenta um confrangimento natural e profundo, que põe em vibração todo o ser e o abala penosamente. Grande, porém, é a compensação, quando chegais a dar coragem e esperança a um irmão infeliz que se enternece ao aperto de uma mão amiga e cujo olhar, úmido, por vezes, de emoção e de reconhecimento, para vós se dirige docemente, antes de se fixar no Céu em agradecimento por lhe ter enviado um consolador, um amparo. A piedade é o melancólico, mas celeste precursor da caridade, primeira das virtudes que a tem por irmã e cujos benefícios ela prepara e enobrece.
 >
-> **Miguel
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1862**
+> Miguel  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Os órfãos
 
@@ -2575,9 +2657,10 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 
 > 👻 ▸ Meus irmãos, amai os órfãos. Se soubésseis quanto é triste ser só e abandonado, sobretudo na infância! Deus permite que haja órfãos, para exortar-nos a servir-lhes de pais. Que divina caridade amparar uma pobre criaturinha abandonada, evitar que sofra fome e frio, dirigir-lhe a alma, a fim de que não desgarre para o vício! Agrada a Deus quem estende a mão a uma criança abandonada, porque compreende e pratica a sua lei. Ponderai também que muitas vezes a criança que socorreis vos foi cara noutra encarnação, caso em que, se pudésseis lembrar-vos, já não estaríeis praticando a caridade, mas cumprindo um dever. Assim, pois, meus amigos, todo sofredor é vosso irmão e tem direito à vossa caridade; não, porém, a essa caridade que magoa o coração, não a essa esmola que queima a mão em que cai, pois frequentemente bem amargos são os vossos óbolos! Quantas vezes seriam eles recusados, se na choupana a enfermidade e a miséria não os estivessem esperando! Dai delicadamente, juntai ao benefício que fizerdes o mais precioso de todos os benefícios: o de uma boa palavra, de uma carícia, de um sorriso amistoso. Evitai esse ar de proteção, que equivale a revolver a lâmina no coração que sangra e considerai que, fazendo o bem, trabalhais por vós mesmos e pelos vossos.
 >
-> **Um Espírito familiar
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> Um Espírito familiar  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
 #### Benefícios pagos com a ingratidão
 
@@ -2593,9 +2676,10 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 >
 > Ah! meus amigos, se conhecêsseis todos os laços que prendem a vossa vida atual às vossas existências anteriores; se pudésseis apanhar num golpe de vista a imensidade das relações que ligam uns aos outros os seres, para o efeito de um progresso mútuo, admiraríeis muito mais a sabedoria e a bondade do Criador, que vos concede reviver para chegardes a Ele.
 >
-> **Guia protetor
-> 🇫🇷 Sens
-> 1862**
+> Guia protetor  
+> 🇫🇷 Sens  
+> 1862  
+{:.spirit-multi}
 
 #### Beneficência exclusiva
 
@@ -2605,11 +2689,11 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 
 > 👻 ▸ Não, porquanto precisamente o espírito de seita e de partido é que precisa ser abolido, visto que são irmãos todos os homens. O verdadeiro cristão vê somente irmãos em seus semelhantes e não procura saber, antes de socorrer o necessitado, qual a sua crença, ou a sua opinião, seja sobre o que for. Obedeceria o cristão, porventura, ao preceito de Jesus Cristo, segundo o qual devemos amar os nossos inimigos, se repelisse o desgraçado, por professar uma crença diferente da sua? Socorra-o, portanto, sem lhe pedir contas à consciência, pois, se for um inimigo da religião, esse será o meio de conseguir que ele a ame; repelindo-o, faria que a odiasse.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
----
 
 ### 1-14. 🗂️ Honrai a vosso pai e a vossa mãe
 
@@ -2712,11 +2796,11 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 >
 > Acolhei-os, portanto, como irmãos; auxiliai-os, e depois, no mundo dos Espíritos, a família se felicitará por haver salvo alguns náufragos que, a seu turno, poderão salvar outros.
 >
-> **Santo Agostinho
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Santo Agostinho  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
----
 
 ### 1-15. 🗂️ Fora da caridade não há salvação
 
@@ -2810,11 +2894,11 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 >
 > Meus amigos, agradecei a Deus o haver permitido que pudésseis gozar a luz do Espiritismo. Não é que somente os que a possuem hajam de ser salvos; é que, ajudando-vos a compreender os ensinos do Cristo, ela vos faz melhores cristãos. Esforçai-vos, pois, para que os vossos irmãos, observando-vos, sejam induzidos a reconhecer que verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa, dado que todos quantos praticam a caridade são discípulos de Jesus, sem embargo da seita a que pertençam.
 >
-> **Paulo, o apóstolo
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> Paulo, o apóstolo  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
----
 
 ### 1-16. 🗂️ Não se pode servir a Deus e a Mamon
 
@@ -2914,9 +2998,10 @@ Deploram-se, com razão, o péssimo uso que alguns fazem das suas riquezas, as i
 >
 > Ao viajante que chega a um albergue, bom alojamento é dado, se o pode pagar. A outro, de parcos recursos, toca um menos agradável. Quanto ao que nada tenha de seu, vai dormir numa enxerga. O mesmo sucede ao homem à sua chegada no mundo dos Espíritos: depende dos seus haveres o lugar para onde vá. Não será, todavia, com o seu ouro que ele o pagará. Ninguém lhe perguntará: Quanto tinhas na Terra? Que posição ocupavas? Eras príncipe ou operário? Perguntar-lhe-ão: Que trazes contigo? Não se lhe avaliarão os bens, nem os títulos, mas a soma das virtudes que possua. Ora, sob esse aspecto, pode o operário ser mais rico do que o príncipe. Em vão alegará que antes de partir da Terra pagou a peso de ouro a sua entrada no outro mundo. Responder-lhe-ão: Os lugares aqui não se compram: conquistam-se por meio da prática do bem. Com a moeda terrestre, hás podido comprar campos, casas, palácios; aqui, tudo se paga com as qualidades da alma. És rico dessas qualidades? Sê bem-vindo e vai para um dos lugares da primeira categoria, onde te esperam todas as venturas. És pobre delas? Vai para um dos da última, onde serás tratado de acordo com os teus haveres.
 >
-> **Pascal
-> Genebra 🇨🇭
-> 1860**
+> Pascal  
+> Genebra 🇨🇭  
+> 1860  
+{:.spirit-multi}
 
 ###### 10
 
@@ -2924,9 +3009,10 @@ Deploram-se, com razão, o péssimo uso que alguns fazem das suas riquezas, as i
 >
 > Direis, porventura, que isso se compreende no tocante aos bens hereditários, porém, não relativamente aos que são adquiridos pelo trabalho. Sem dúvida alguma, se há riquezas legítimas, são estas últimas, quando honestamente conseguidas, porquanto uma propriedade só é legitimamente adquirida quando, da sua aquisição, não resulta dano para ninguém. Contas serão pedidas até mesmo de um único ceitil mal ganho, isto é, com prejuízo de outrem. O fato, porém, de um homem dever a si próprio a riqueza que possua, seguir-se-á que, ao morrer, alguma vantagem lhe advenha desse fato? Não são amiúde inúteis as precauções que ele toma para transmiti-la a seus descendentes? Decerto, porquanto, se Deus não quiser que ela lhes vá ter às mãos, nada prevalecerá contra a sua vontade. Poderá o homem usar e abusar de seus haveres durante a vida, sem ter de prestar contas? Não. Permitindo-lhe que a adquirisse, é possível haja Deus tido em vista recompensar-lhe, no curso da existência atual, os esforços, a coragem, a perseverança. Se, porém, ele somente os utilizou na satisfação dos seus sentidos ou do seu orgulho; se tais haveres se lhe tornaram causa de falência, melhor fora não os ter possuído, visto que perde de um lado o que ganhou do outro, anulando o mérito de seu trabalho. Quando deixar a Terra, Deus lhe dirá que já recebeu a sua recompensa.
 >
-> **M., Espírito protetor
-> Bruxelas 🇧🇪
-> 1861**
+> M., Espírito protetor  
+> Bruxelas 🇧🇪  
+> 1861  
+{:.spirit-multi}
 
 ###### 11
 
@@ -2934,9 +3020,10 @@ Deploram-se, com razão, o péssimo uso que alguns fazem das suas riquezas, as i
 >
 > Qual, então, o melhor emprego que se pode dar à riqueza? Procurai nestas palavras: “Amai-vos uns aos outros”, a solução do problema. Elas guardam o segredo do bom emprego das riquezas. Aquele que se acha animado do amor do próximo tem aí toda traçada a sua linha de proceder. Na caridade está, para as riquezas, o emprego que mais apraz a Deus. Não nos referimos, é claro, a essa caridade fria e egoísta, que consiste em a criatura espalhar ao seu derredor o supérfluo de uma existência dourada. Referimo-nos à caridade plena de amor, que procura a desgraça e a ergue, sem a humilhar. Rico!... dá do que te sobra; faze mais: dá um pouco do que te é necessário, porquanto o de que necessitas ainda é supérfluo; mas dá com sabedoria. Não repilas o que se queixa, com receio de que te engane; vai às origens do mal. Alivia, primeiro; em seguida, informa-te, e vê se o trabalho, os conselhos, mesmo a afeição não serão mais eficazes do que a tua esmola. Difunde em torno de ti, como os socorros materiais, o amor de Deus, o amor do trabalho, o amor do próximo. Coloca tuas riquezas sobre uma base que nunca lhes faltará e que te trará grandes lucros: a das boas obras. A riqueza da inteligência deves utilizá-la como a do ouro. Derrama em torno de ti os tesouros da instrução; derrama sobre teus irmãos os tesouros do teu amor e eles frutificarão.
 >
-> **Cheverus
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1861**
+> Cheverus  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### Emprego da riqueza
 
@@ -2944,17 +3031,19 @@ Deploram-se, com razão, o péssimo uso que alguns fazem das suas riquezas, as i
 
 > 👻 ▸ Quando considero a brevidade da vida, dolorosamente me impressiona a incessante preocupação de que é para vós objeto o bem-estar material, ao passo que tão pouca importância dais ao vosso aperfeiçoamento moral, a que pouco ou nenhum tempo consagrais e que, no entanto, é o que importa para a eternidade. Dir-se-ia, diante da atividade que desenvolveis, tratar-se de uma questão do mais alto interesse para a Humanidade, quando não se trata, na maioria dos casos, senão de vos pordes em condições de satisfazer a necessidades exageradas, à vaidade, ou de vos entregardes a excessos. Que de penas, de amofinações, de tormentos cada um se impõe; que de noites de insônia, para aumentar haveres muitas vezes mais que suficientes! Por cúmulo de cegueira, frequentemente se encontram pessoas escravizadas a penosos trabalhos, pelo amor imoderado da riqueza e dos gozos que ela proporciona, a se vangloriarem de viver uma existência dita de sacrifício e de mérito — como se trabalhassem para os outros, e não para si mesmas! Insensatos! Credes, então, realmente, que vos serão levados em conta os cuidados e os esforços que despendeis movidos pelo egoísmo, pela cupidez ou pelo orgulho, enquanto negligenciais do vosso futuro, bem como dos deveres que a solidariedade fraterna impõe a todos os que gozam das vantagens da vida social? Unicamente no vosso corpo haveis pensado; seu bem-estar, seus prazeres foram o objeto exclusivo da vossa solicitude egoística. Por ele, que morre, desprezastes o vosso Espírito, que viverá sempre. Por isso mesmo, esse senhor tão amimado e acariciado se tornou o vosso tirano; ele manda sobre o vosso Espírito, que se lhe constituiu escravo. Seria essa a finalidade da existência que Deus vos outorgou?
 >
-> **Um Espírito protetor
-> Cracóvia 🇵🇱
-> 1861**
+> Um Espírito protetor  
+> Cracóvia 🇵🇱  
+> 1861  
+{:.spirit-multi}
 
 ###### 13
 
 > 👻 ▸ Sendo o homem o depositário, o administrador dos bens que Deus lhe pôs nas mãos, contas severas lhe serão pedidas do emprego que lhes haja Ele dado, em virtude do seu livre-arbítrio. O mau uso consiste em os aplicar exclusivamente na sua satisfação pessoal; bom é o uso, ao contrário, todas as vezes que deles resulta um bem qualquer para outrem. O merecimento de cada um está na proporção do sacrifício que se impõe a si mesmo. A beneficência é apenas um modo de empregar-se a riqueza; ela dá alívio à miséria presente; aplaca a fome, preserva do frio e proporciona abrigo ao que não o tem. Dever, porém, igualmente imperioso e meritório é o de prevenir a miséria. Tal, sobretudo, a missão das grandes fortunas, missão a ser cumprida mediante os trabalhos de todo gênero que com elas se podem executar. Nem, pelo fato de tirarem desses trabalhos legítimo proveito os que assim as empregam, deixaria de existir o bem resultante delas, porquanto o trabalho desenvolve a inteligência e exalça a dignidade do homem, facultando-lhe dizer, altivo, que ganha o pão que come, enquanto a esmola humilha e degrada. A riqueza concentrada em uma mão deve ser qual fonte de água viva que espalha a fecundidade e o bem-estar ao seu derredor. Ó vós, ricos, que a empregardes segundo as vistas do Senhor! O vosso coração será o primeiro a dessedentar-se nessa fonte benfazeja; já nesta existência fruireis os inefáveis gozos da alma, em vez dos gozos materiais do egoísta, que produzem no coração o vazio. Vossos nomes serão benditos na Terra e, quando a deixardes, o soberano Senhor vos dirá, como na Parábola dos Talentos: “Bom e fiel servo, entra na alegria do teu Senhor.” Nessa parábola, o servidor que enterrou o dinheiro que lhe fora confiado é a representação dos avarentos, em cujas mãos se conserva improdutiva a riqueza. Se, entretanto, Jesus fala principalmente das esmolas, é que naquele tempo e no país em que Ele vivia não se conheciam os trabalhos que as Artes e a Indústria criaram depois e nas quais as riquezas podem ser aplicadas utilmente para o bem geral. A todos os que podem dar, pouco ou muito, direi, pois: dai esmola quando for preciso; mas, tanto quanto possível, convertei-a em salário, a fim de que aquele que a receba não se envergonhe dela.
 >
-> **Fénelon
-> Argel 🇩🇿
-> 1860**
+> Fénelon  
+> Argel 🇩🇿  
+> 1860  
+{:.spirit-multi}
 
 #### Desprendimento dos bens terrenos
 
@@ -2984,9 +3073,10 @@ Deploram-se, com razão, o péssimo uso que alguns fazem das suas riquezas, as i
 >
 > Aí tendes, meus amigos, o que eu vos queria ensinar acerca do desprendimento dos bens terrenos. Resumirei o que expus, dizendo: Sabei contentar-vos com pouco. Se sois pobres, não invejeis os ricos, porquanto a riqueza não é necessária à felicidade. Se sois ricos, não esqueçais que os bens de que dispondes apenas vos estão confiados e que tendes de justificar o emprego que lhes derdes, como se prestásseis contas de uma tutela. Não sejais depositário infiel, utilizando-os unicamente em satisfação do vosso orgulho e da vossa sensualidade. Não vos julgueis com o direito de dispor em vosso exclusivo proveito daquilo que recebestes, não por doação, mas simplesmente como empréstimo. Se não sabeis restituir, não tendes o direito de pedir, e lembrai-vos de que aquele que dá aos pobres, salda a dívida que contraiu com Deus.
 >
-> **Lacordaire
-> Constantina 🇩🇿
-> 1863**
+> Lacordaire  
+> Constantina 🇩🇿  
+> 1863  
+{:.spirit-multi}
 
 #### Transmissão da riqueza
 
@@ -2996,11 +3086,11 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 
 > 👻 ▸ O homem pode perfeitamente transmitir, por sua morte, aquilo de que gozou durante a vida, porque o efeito desse direito está subordinado sempre à vontade de Deus, que pode, quando quiser, impedir que aqueles descendentes gozem do que lhes foi transmitido. Não é outra a razão por que desmoronam fortunas que parecem solidamente constituídas. É, pois, impotente a vontade do homem para conservar nas mãos da sua descendência a fortuna que possua. Isso, entretanto, não o priva do direito de transmitir o empréstimo que recebeu de Deus, uma vez que Deus pode retirá-lo, quando o julgue oportuno.
 >
-> **São Luís, IX da França
-> [Paris](./maps/paris.html) 🇫🇷
-> 1860**
+> São Luís, IX da França  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1860  
+{:.spirit-multi}
 
----
 
 ### 1-17. 🗂️ Sede perfeitos
 
@@ -3117,9 +3207,10 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 >
 > O dever cresce e irradia sob mais elevada forma, em cada um dos estágios superiores da Humanidade. Jamais cessa a obrigação moral da criatura para com Deus. Tem esta de refletir as virtudes do Eterno, que não aceita esboços imperfeitos, porque quer que a beleza da sua obra resplandeça a seus próprios olhos.
 >
-> **Lázaro
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Lázaro  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### A virtude
 
@@ -3135,9 +3226,10 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 >
 > Ó vós todos a quem a fé espírita aqueceu com seus raios, e que sabeis quão longe da perfeição está o homem, jamais esbarreis em semelhante escolho. A virtude é uma graça que desejo a todos os espíritas sinceros. Contudo, dir-lhes-ei: Mais vale pouca virtude com modéstia do que muita com orgulho. Pelo orgulho é que as humanidades sucessivamente se hão perdido; pela humildade é que um dia elas se hão de redimir.
 >
-> **François-Nicolas-Madeleine
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> François-Nicolas-Madeleine  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Os superiores e os inferiores
 
@@ -3153,9 +3245,10 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 >
 > Se o superior tem deveres a cumprir, o inferior, de seu lado, também os tem e não menos sagrados. Se for espírita, sua consciência ainda mais imperiosamente lhe dirá que não pode considerar-se dispensado de cumpri-los, nem mesmo quando o seu chefe deixe de dar cumprimento aos que lhe correm, porquanto sabe muito bem não ser lícito retribuir o mal com o mal e que as faltas de uns não justificam as de outrem. Se a sua posição lhe acarreta sofrimentos, reconhecerá que sem dúvida os mereceu, porque, provavelmente, abusou outrora da autoridade que tinha, cabendo-lhe, portanto, experimentar a seu turno o que fizera sofressem os outros. Se se vê forçado a suportar essa posição, por não encontrar outra melhor, o Espiritismo lhe ensina a resignar-se, como constituindo isso uma prova para a sua humildade, necessária ao seu adiantamento. Sua crença lhe orienta a conduta e o induz a proceder como quereria que seus subordinados procedessem para com ele, caso fosse o chefe. Por isso mesmo, mais escrupuloso se mostra no cumprimento de suas obrigações, pois compreende que toda negligência no trabalho que lhe está determinado redunda em prejuízo para aquele que o remunera e a quem deve ele o seu tempo e os seus esforços. Numa palavra: solicita-o o sentimento do dever, oriundo da sua fé, e a certeza de que todo afastamento do caminho reto implica uma dívida que, cedo ou tarde, terá de pagar.
 >
-> **François-Nicolas-Madeleine, cardeal Morlot
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> François-Nicolas-Madeleine, cardeal Morlot  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### O homem no mundo
 
@@ -3173,9 +3266,10 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 >
 > Não imagineis, portanto, que, para viverdes em comunicação constante conosco, para viverdes sob as vistas do Senhor, seja preciso vos cilicieis e cubrais de cinzas. Não, não, ainda uma vez vos dizemos. Ditosos sede, segundo as necessidades da Humanidade; mas que jamais na vossa felicidade entre um pensamento ou um ato que o possa ofender, ou fazer se vele o semblante dos que vos amam e dirigem. Deus é amor, e aqueles que amam santamente Ele os abençoa.
 >
-> **Um Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1863**
+> Um Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Cuidar do corpo e do espírito
 
@@ -3185,11 +3279,11 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 >
 > Dois sistemas se defrontam: o dos ascetas, que tem por base o aniquilamento do corpo, e o dos materialistas, que se baseia no rebaixamento da alma. Duas violências quase tão insensatas uma quanto a outra. Ao lado desses dois grandes partidos, formiga a numerosa tribo dos indiferentes que, sem convicção e sem paixão, são mornos no amar e econômicos no gozar. Onde, então, a sabedoria? Onde, então, a ciência de viver? Em parte alguma; e o grande problema ficaria sem solução, se o Espiritismo não viesse em auxílio dos pesquisadores, demonstrando-lhes as relações que existem entre o corpo e a alma e dizendo-lhes que, por se acharem em dependência mútua, importa cuidar de ambos. Amai, pois, a vossa alma, porém, cuidai igualmente do vosso corpo, instrumento daquela. Desatender as necessidades que a própria Natureza indica, é desatender a Lei de Deus. Não castigueis o corpo pelas faltas que o vosso livre-arbítrio o induziu a cometer e pelas quais é ele tão responsável quanto o cavalo mal dirigido, pelos acidentes que causa. Sereis, porventura, mais perfeitos se, martirizando o corpo, não vos tornardes menos egoístas, nem menos orgulhosos e mais caritativos para com o vosso próximo? Não, a perfeição não está nisso: está toda nas reformas por que fizerdes passar o vosso Espírito. Dobrai-o, submetei-o, humilhai-o, mortificai-o: esse o meio de o tornardes dócil à vontade de Deus e o único de alcançardes a perfeição.
 >
-> **Georges, Espírito protetor
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Georges, Espírito protetor
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷
+> 1863
+{:.spirit-multi}
 
----
 
 ### 1-18. 🗂️ Muitos os chamados, poucos os escolhidos
 
@@ -3333,9 +3427,10 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 >
 > Aquele que não cultiva o campo que o trabalho de seu pai lhe granjeou, e que lhe coube em herança, o vê cobrir-se de ervas parasitas. É seu pai quem lhe tira as colheitas que ele não quis preparar? Se, à falta de cuidado, deixou fenecessem as sementes destinadas a produzir nesse campo, é a seu pai que lhe cabe acusar por nada produzirem elas? Não e não. Em vez de acusar aquele que tudo lhe preparara Deus, de criticar as suas doações, queixe-se do verdadeiro autor de suas misérias si mesmo e, arrependido e operoso, meta, corajoso, mãos à obra; arroteie o solo ingrato com o esforço de sua vontade; lavre-o fundo com auxílio do arrependimento e da esperança; lance nele, confiante, a semente que haja separado, por boa, dentre as más; regue-o com o seu amor e a sua caridade, e Deus, o Deus de amor e de caridade, dará àquele que já recebera. Verá ele, então, coroados de êxito os seus esforços e um grão produzir cem e outro mil. Ânimo, trabalhadores! Tomai dos vossos arados e das vossas charruas; lavrai os vossos corações; arrancai deles a cizânia; semeai a boa semente que o Senhor vos confia e o orvalho do amor lhe fará produzir frutos de caridade.
 >
-> **Um Espírito amigo
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1862**
+> Um Espírito amigo  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Pelas suas obras é que se reconhece o cristão
 
@@ -3355,11 +3450,11 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 >
 > Que o Senhor de bênçãos vos abençoe; que o Deus de luz vos ilumine; que a árvore da vida vos ofereça abundantemente seus frutos! Crede e orai.
 >
-> **Simeão
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1863**
+> Simeão  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
----
 
 ### 1-19. 🗂️ A fé transporta montanhas
 
@@ -3443,9 +3538,10 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > Tende, pois, a fé, com o que ela contém de belo e de bom, com a sua pureza, com a sua racionalidade. Não admitais a fé sem comprovação, cega filha da cegueira. Amai a Deus, mas sabendo porque o amais; crede nas suas promessas, mas sabendo porque acreditais nelas; segui os nossos conselhos, mas compenetrados do fim que vos apontamos e dos meios que vos trazemos para o atingirdes. Crede e esperai sem desfalecimento: os milagres são obras da fé.
 >
-> **José, Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1862**
+> José, Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### A fé humana e a divina
 
@@ -3461,11 +3557,11 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > Repito: a fé é humana e divina. Se todos os encarnados se achassem bem persuadidos da força que em si trazem, e se quisessem pôr a vontade a serviço dessa força, seriam capazes de realizar o a que, até hoje, eles chamaram prodígios e que, no entanto, não passa de um desenvolvimento das faculdades humanas.
 >
-> **Um Espírito protetor
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Um Espírito protetor  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
----
 
 ### 1-20. 🗂️ Os trabalhadores da última hora
 
@@ -3493,9 +3589,10 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > Bons espíritas, meus bem-amados, sois todos obreiros da última hora. Bem orgulhoso seria aquele que dissesse: Comecei o trabalho ao alvorecer do dia e só o terminarei ao anoitecer. Todos viestes quando fostes chamados, um pouco mais cedo, um pouco mais tarde, para a encarnação cujos grilhões arrastais; mas há quantos séculos e séculos o Senhor vos chamava para a sua vinha, sem que quisésseis penetrar nela! Eis-vos no momento de embolsar o salário; empregai bem a hora que vos resta e não esqueçais nunca que a vossa existência, por longa que vos pareça, mais não é do que um instante fugitivo na imensidade dos tempos que formam para vós a eternidade.
 >
-> **Constantino, Espírito protetor
-> [Bordeaux](./maps/bordeaux.html) 🇫🇷
-> 1863**
+> Constantino, Espírito protetor  
+> [Bordeaux](../content/maps/bordeaux.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 ###### 03
 
@@ -3505,9 +3602,10 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > Tal um dos verdadeiros sentidos desta parábola, que encerra, como todas as de que Jesus se utilizou falando ao povo, o gérmen do futuro e também, sob todas as formas, sob todas as imagens, a revelação da magnífica unidade que harmoniza todas as coisas no Universo, da solidariedade que liga todos os seres presentes ao passado e ao futuro.
 >
-> **Henri Heine
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**
+> Henri Heine  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863  
+{:.spirit-multi}
 
 #### Missão dos espíritas
 
@@ -3539,9 +3637,10 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > Resposta. – Reconhecê-los-eis pelos princípios da verdadeira caridade que eles ensinarão e praticarão. Reconhecê-los-eis pelo número de aflitos a que levem consolo; reconhecê-los-eis pelo seu amor ao próximo, pela sua abnegação, pelo seu desinteresse pessoal; reconhecê-los-eis, finalmente, pelo triunfo de seus princípios, porque Deus quer o triunfo de sua lei; os que seguem sua lei, esses são os escolhidos e Ele lhes dará a vitória; mas Ele destruirá aqueles que falseiam o espírito dessa lei e fazem dela degrau para contentar sua vaidade e sua ambição.
 >
-> **Erasto, anjo da guarda do médium
-> [Paris](./maps/paris.html) 🇫🇷
-> 1863**[^19]
+> Erasto, anjo da guarda do médium  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1863 [^19]  
+{:.spirit-multi}
 
 #### Os obreiros do Senhor
 
@@ -3551,11 +3650,11 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > Deus procede, neste momento, ao censo dos seus servidores fiéis e já marcou com o dedo aqueles cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos, pois aos que não recuarem diante de suas tarefas é que Ele vai confiar os postos mais difíceis na grande obra da regeneração pelo Espiritismo. Cumprir-se-ão estas palavras: “Os primeiros serão os últimos e os últimos serão os primeiros no Reino dos Céus.”
 >
-> **O Espírito da verdade
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> O Espírito da verdade  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
----
 
 ### 1-21. 🗂️ Haverá falsos cristos e falsos profetas
 
@@ -3627,9 +3726,10 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 >
 > Ide, portanto, meus filhos bem-amados, caminhai sem tergiversações, sem pensamentos ocultos, na rota bendita que tomastes. Ide, ide sempre, sem temor; afastai, cuidadosamente, tudo o que vos possa entravar a marcha para o objetivo eterno. Viajores, só por pouco tempo mais estareis nas trevas e nas dores da provação, se abrirdes o vosso coração a essa suave doutrina que vos vem revelar as leis eternas e satisfazer a todas as aspirações de vossa alma acerca do desconhecido. Já podeis dar corpo a esses silfos ligeiros que vedes passar nos vossos sonhos e que, efêmeros, apenas vos encantavam o espírito, sem coisa alguma dizerem ao vosso coração. Agora, meus amados, a morte desapareceu, dando lugar ao anjo radioso que conheceis, o anjo do novo encontro e da reunião! Agora, vós que bem desempenhado haveis a tarefa que o Criador confia às suas criaturas, nada mais tendes de temer da sua justiça, pois Ele é pai e perdoa sempre aos filhos transviados que clamam por misericórdia. Continuai, portanto, avançai incessantemente. Seja vossa divisa a do progresso, do progresso contínuo em todas as coisas, até que, finalmente, chegueis ao termo feliz da jornada, onde vos esperam todos os que vos precederam.
 >
-> **Luís
-> Bordeaux 🇫🇷
-> 1861**
+> Luís  
+> Bordeaux 🇫🇷  
+> 1861  
+{:.spirit-multi}
 
 #### Caracteres do verdadeiro profeta
 
@@ -3647,9 +3747,10 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 >
 > Desconfiai, pois, dos falsos profetas, máxime numa época de renovação, qual a presente, porque muitos impostores se dirão enviados de Deus. Eles procuram satisfazer na Terra à sua vaidade; mas uma terrível justiça os espera, podeis estar certos.
 >
-> **Erasto
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Erasto  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 #### Os falsos profetas da erraticidade
 
@@ -3669,9 +3770,10 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 >
 > É incontestável que, submetendo ao crivo da razão e da lógica todos os dados e todas as comunicações dos Espíritos, fácil se torna rejeitar a absurdidade e o erro. Pode um médium ser fascinado, e iludido um grupo; mas a verificação severa a que procedam os outros grupos, a ciência adquirida, a alta autoridade moral dos diretores de grupos, as comunicações que os principais médiuns recebam, com um cunho de lógica e de autenticidade dos melhores Espíritos, justiçarão rapidamente esses ditados mentirosos e astuciosos, emanados de uma turba de Espíritos mistificadores ou maus.
 >
-> **Erasto, discípulo de Paulo
-> [Paris](./maps/paris.html) 🇫🇷
-> 1862**
+> Erasto, discípulo de Paulo  
+> [Paris](../content/maps/paris.html){:target="ext"} 🇫🇷  
+> 1862  
+{:.spirit-multi}
 
 (Veja-se, na Introdução, item II: Controle universal do ensino dos Espíritos. O livro dos médiuns, a Parte, cap. XXIII, Da obsessão.)
 
@@ -3690,11 +3792,11 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 >
 > Após as palavras do profeta, escutai os sábios conselhos do apóstolo João, quando diz: “Não acrediteis em todo Espírito; experimentai se os Espíritos são de Deus”, porque, entre os invisíveis, também há os que se comprazem em iludir, se se lhes depara ocasião. Os iludidos são, está-se a ver, os médiuns que se não precatam bastante. Aí se encontra, é fora de toda dúvida, um dos maiores escolhos em que muitos funestamente esbarram, mormente se são novatos no Espiritismo. É-lhes isso uma prova de que só com muita prudência podem triunfar. Aprendei, pois, antes de tudo, a distinguir os bons e os maus Espíritos, para, por vossa vez, não vos tornardes falsos profetas.
 >
-> **Luoz, Espírito protetor
-> Carlsruhe 🇩🇪
-> 1861**
+> Luoz, Espírito protetor  
+> Carlsruhe 🇩🇪  
+> 1861  
+{:.spirit-multi}
 
----
 
 ### 1-22. 🗂️ Não separeis o que Deus juntou
 
@@ -3731,7 +3833,6 @@ Nem mesmo Jesus consagrou a indissolubilidade absoluta do casamento. Não disse 
 
 Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério. Ora, não existe adultério onde reina sincera afeição recíproca. É verdade que Ele proíbe ao homem desposar a mulher repudiada; mas cumpre se tenham em vista os costumes e o caráter dos homens daquela época. A lei moisaica, nesse caso, prescrevia a lapidação. Querendo abolir um uso bárbaro, precisou de uma penalidade que o substituísse e a encontrou no opróbrio que adviria da proibição de um segundo casamento. Era, de certo modo, uma lei civil substituída por outra lei civil, mas que, como todas as leis dessa natureza, tinha de passar pela prova do tempo.
 
----
 
 ### 1-23. 🗂️ Estranha moral
 
@@ -3865,7 +3966,6 @@ O Espiritismo vem realizar, na época prevista, as promessas do Cristo. Entretan
 
 Essas palavras de Jesus devem, pois, entender-se com referência às cóleras que a sua doutrina provocaria, aos conflitos momentâneos a que ia dar causa, às lutas que teria de sustentar antes de se firmar, como aconteceu aos hebreus antes de entrarem na Terra Prometida, e não como decorrentes de um desígnio premeditado de sua parte de semear a desordem e a confusão. O mal viria dos homens, e não dele, que era como o médico que se apresenta para curar, mas cujos remédios provocam uma crise salutar, atacando os maus humores do doente.
 
----
 
 ### 1-24. 🗂️ Não ponhais a candeia debaixo do alqueire
 
@@ -4008,7 +4108,6 @@ Assim será com os adeptos do Espiritismo. Pois que a doutrina que professam mai
 
 Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, suporte corajosamente as tribulações que sua fé lhe acarretar, dado que aquele que quiser salvar a vida e seus bens, renunciando a mim, perderá as vantagens do Reino dos Céus, enquanto os que tudo houverem perdido neste mundo, mesmo a vida, para que a verdade triunfe, receberão, na vida futura, o prêmio da coragem, da perseverança e da abnegação de que deram prova. Mas aos que sacrificam os bens celestes aos gozos terrestres, Deus dirá: “Já recebestes a vossa recompensa.”
 
----
 
 ### 1-25. 🗂️ Buscai e achareis
 
@@ -4099,7 +4198,6 @@ Quanto aos que não os quisessem receber, nem ouvir, recomendou Ele porventura a
 
 O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciência; a ninguém forceis para que deixe a sua crença, a fim de adotar a vossa; não anatematizeis os que não pensem como vós; acolhei os que venham ter convosco e deixai tranquilos os que vos repelem. Lembrai-vos das palavras do Cristo. Outrora, o céu era tomado com violência; hoje o é pela brandura. (Cap. IV, itens 10 e 11.)
 
----
 
 ### 1-26. 🗂️ Dai gratuitamente o que gratuitamente recebestes
 
@@ -4124,8 +4222,10 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 >
 >**Mateus, cap. 23, vers. 14 ARC**
 {:.bible-multi}
+
 >**Lucas, cap. 20, vers. 45-47 ARC**
 {:.bible-multi}
+
 >**Marcos, cap. 12, vers. 38-40 ARC**
 {:.bible-multi}
 
@@ -4145,6 +4245,7 @@ Ainda outro inconveniente apresentam as preces pagas: é que aquele que as compr
 >
 >**Mateus, cap. 21, vers. 12-13, ARC**
 {:.bible-multi}
+
 >**Marcos, cap. 11, vers. 15-18, ARC**
 {:.bible-multi}
 
@@ -4182,7 +4283,6 @@ A mediunidade é coisa santa, que deve ser praticada santamente, religiosamente.
 
 Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos na mediunidade; não lhe consagre, se assim for preciso, senão o tempo de que materialmente possa dispor. Os Espíritos lhe levarão em conta o devotamento e os sacrifícios, ao passo que se afastam dos que esperam fazer deles uma escada por onde subam.
 
----
 
 ### 1-27. 🗂️ Pedi e obtereis
 
@@ -4370,7 +4470,6 @@ Vinde, vós que desejais crer. Os Espíritos celestes acorrem a vos anunciar gra
 
 Avançai, avançai pelas veredas da prece e ouvireis as vozes dos anjos. Que harmonia! Já não são o ruído confuso e os sons estrídulos da Terra; são as liras dos arcanjos; são as vozes brandas e suaves dos serafins, mais delicadas do que as brisas matinais, quando brincam na folhagem dos vossos bosques. Por entre que delícias não caminhareis! A vossa linguagem não poderá exprimir essa ventura, tão rápida entra ela por todos os vossos poros, tão vivo e refrigerante é o manancial em que, orando, se bebe. Dulçorosas vozes, inebriantes perfumes, que a alma ouve e aspira, quando se lança a essas esferas desconhecidas e habitadas pela prece! Sem mescla de desejos carnais, são divinas todas as aspirações. Também vós, orai como o Cristo, levando a sua cruz ao Gólgota, ao Calvário. Carregai a vossa cruz e sentireis as doces emoções que lhe perpassavam na alma, se bem que vergado ao peso de um madeiro infamante. Ele ia morrer, mas para viver a vida celestial na morada de seu Pai. – Santo Agostinho. (Paris, 1861.)
 
----
 
 ### 1-28. 🗂️ Coletânea de preces espíritas
 
@@ -4392,7 +4491,17 @@ Condição essencial à prece, segundo Paulo (cap. XXVII, item 16), é que seja 
 
 A qualidade principal da prece é ser clara, simples e concisa, sem fraseologia inútil, nem luxo de epítetos, que são meros adornos de lentejoulas. Cada palavra deve ter alcance próprio, despertar uma ideia, pôr em vibração uma fibra da alma. Numa palavra: deve fazer refletir. Somente sob essa condição pode a prece alcançar o seu objetivo; de outro modo, não passa de ruído. Entretanto, notai com que ar distraído e com que volubilidade elas são ditas na maioria dos casos. Veem-se lábios a mover-se; mas, pela expressão da fisionomia, pelo som mesmo da voz, verifica-se que ali apenas há um ato maquinal, puramente exterior, ao qual se conserva indiferente a alma.
 
-Estão divididas em cinco categorias as preces constantes nesta coletânea; 1a ) Preces gerais; 2a ) Preces por aquele mesmo que ora; 3a ) Preces pelos vivos; 4a ) Preces pelos mortos; 5a ) Preces especiais pelos enfermos e pelos obsidiados.
+Estão divididas em cinco categorias as preces constantes nesta coletânea; 
+
+1. Preces gerais; 
+
+2. Preces por aquele mesmo que ora; 
+
+3. Preces pelos vivos; 
+
+4. Preces pelos mortos; 
+
+5. Preces especiais pelos enfermos e pelos obsidiados.
 
 Com o propósito de chamar, de maneira especial, a atenção sobre o objeto de cada prece e de lhe tornar mais compreensível o alcance, vão todas precedidas de uma instrução preliminar, de uma espécie de exposição de motivos, sob o título de prefácio.
 
@@ -5272,7 +5381,6 @@ Observação – A cura das obsessões graves requer muita paciência, persevera
 
 A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, por vezes, tratamento simultâneo ou consecutivo, quer magnético, quer médico, para restabelecer a saúde do organismo. Destruída a causa, resta combater os efeitos. (Veja-se: O livro dos médiuns, 2a Parte, cap. XXIII – Da obsessão. Revue spirite, fevereiro e março de 1864; abril de 1865: exemplos de curas de obsessões.)
 
----
 
 ## 2. 🗃️ Pós-textual
 
