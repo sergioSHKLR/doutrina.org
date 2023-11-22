@@ -24,7 +24,7 @@ layout: 3-ese
 
 ## 0. 🗃️ Pré-textual
 
-### 0-01. 🗂️ Folha de rosto
+### 0-01. 📄  Folha de rosto {#ese-0-01}
 
 ><br>
 > Ética Espírita  
@@ -46,7 +46,7 @@ layout: 3-ese
 ><br>
 {:.grey-center}
 
-### 0-02. 🗂️ Prefácio
+### 0-02. 📄  Prefácio {#ese-0-02}
 
 > 👻 ▸ Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 >
@@ -62,9 +62,9 @@ layout: 3-ese
 **📝 Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
 
-### 0-03. 🗂️ Introdução
+### 0-03. 🗂️ Introdução {#ese-0-03}
 
-#### 0-03.1. Objetivo desta obra
+#### 0-03-01. 📄 Objetivo desta obra {#ese-0-03-01}
 
 Podem dividir-se em cinco partes as matérias contidas nos Evangelhos: os atos comuns da vida do Cristo; os milagres; as predições; as palavras que foram tomadas pela Igreja para fundamento de seus dogmas; e o ensino moral. As quatro primeiras têm sido objeto de controvérsias; a última, porém, conservou-se constantemente inatacável. Diante desse código divino, a própria incredulidade se curva. É terreno onde todos os cultos podem reunir-se, estandarte sob o qual podem todos colocar-se, quaisquer que sejam suas crenças, porquanto jamais ele constituiu matéria das disputas religiosas, que sempre e por toda a parte se originaram das questões dogmáticas. Aliás, se o discutissem, nele teriam as seitas encontrado sua própria condenação, visto que, na maioria, elas se agarram mais à parte mística do que à parte moral, que exige de cada um a reforma de si mesmo. Para os homens, em particular, constitui aquele código uma regra de proceder que abrange todas as circunstâncias da vida privada e da vida pública, o princípio básico de todas as relações sociais que se fundam na mais rigorosa justiça. É, finalmente e acima de tudo, o roteiro infalível para a felicidade vindoura, o levantamento de uma ponta do véu que nos oculta a vida futura. Essa parte é a que será objeto exclusivo desta obra.
 
@@ -84,7 +84,7 @@ Como complemento de cada preceito, acrescentamos algumas instruções escolhidas
 
 Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu**que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
 
-#### 0-03.2. Autoridade da doutrina espírita
+#### 0-03-02. 📄 Autoridade da doutrina espírita {#ese-0-03-02}
 
 ###### Controle universal do ensino dos Espíritos
 
@@ -142,7 +142,7 @@ A opinião universal, eis o juiz supremo, o que se pronuncia em última instânc
 
 Já se desenha o harmonioso conjunto. Este século não passará sem que ele resplandeça em todo o seu brilho, de modo a dissipar todas as incertezas, porquanto daqui até lá potentes vozes terão recebido a missão de se fazer ouvir, para congregar os homens sob a mesma bandeira, uma vez que o campo se ache suficientemente lavrado. Enquanto isso se não dá, aquele que flutua entre dois sistemas opostos pode observar em que sentido se forma a opinião geral; essa será a indicação certa do sentido em que se pronuncia a maioria dos Espíritos, nos diversos pontos em que se comunicam, e um sinal não menos certo de qual dos dois sistemas prevalecerá.
 
-#### 0-03.3. Notícias históricas
+#### 0-03-03. 📄 Notícias históricas {#ese-0-03-03}
 
 Para bem se compreenderem algumas passagens dos Evangelhos, necessário se faz conhecer o valor de muitas palavras nelas frequentemente empregadas e que caracterizam o estado dos costumes e da sociedade judia naquela época. Já não tendo para nós o mesmo sentido, essas palavras foram com frequência mal-interpretadas, causando isso uma espécie de incerteza. A inteligência da significação delas explica, ademais, o verdadeiro sentido de certas máximas que, à primeira vista, parecem singulares.
 
@@ -186,7 +186,7 @@ Contrários aos saduceus sensuais, que negavam a imortalidade; aos fariseus de r
 
 **Terapeutas** (do grego therapeutai, formado de therapeuein, servir, cuidar, isto é: servidores de Deus ou curadores) – Eram sectários judeus contemporâneos do Cristo, estabelecidos principalmente em Alexandria, no Egito. Tinham muita relação com os essênios, cujos princípios adotavam, aplicando-se, como esses últimos, à prática de todas as virtudes. Eram de extrema frugalidade na alimentação. Também celibatários, votados à contemplação e vivendo vida solitária, constituíam uma verdadeira ordem religiosa. Fílon, filósofo judeu platônico, de Alexandria, foi o primeiro a falar dos terapeutas, considerando-os uma seita do Judaísmo. Eusébio, São Jerônimo e outros Pais da Igreja pensam que eles eram cristãos. Fossem tais, ou fossem judeus, o que é evidente é que, do mesmo modo que os essênios, eles representam o traço de união entre o Judaísmo e o Cristianismo.
 
-#### 0-03.4. Sócrates e Platão, precursores da ideia cristã e do Espiritismo
+#### 0-03-04. 📄 Sócrates e Platão, precursores da ideia cristã e do Espiritismo {#ese-0-03-04}
 
 Do fato de haver Jesus conhecido a seita dos essênios, fora errôneo concluir-se que a sua doutrina hauriu-a ele dessa seita e que, se houvera vivido noutro meio, teria professado outros princípios. As grandes ideias jamais irrompem de súbito. As que assentam sobre a verdade sempre têm precursores que lhes preparam parcialmente os caminhos. Depois, chegando o tempo, envia Deus um homem com a missão de resumir, coordenar e completar os elementos esparsos, de reuni-los em corpo de doutrina. Desse modo, não surgindo bruscamente, a ideia, ao aparecer, encontra espíritos dispostos a aceitá-la. Tal o que se deu com a ideia cristã, que foi pressentida muitos séculos antes de Jesus e dos essênios, tendo por principais precursores Sócrates e Platão.
 
@@ -349,7 +349,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 ## 1. 🗃️ Miolo
 
-### 1-01. 🗂️ Não vim destruir a lei
+### 1-01. 🗂️ Não vim destruir a lei {#ese-1-01}
 
 #### 01
 
@@ -487,7 +487,7 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 **📝 Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
 
-### 1-02. 🗂️ Meu Reino não é deste mundo
+### 1-02. 🗂️ Meu Reino não é deste mundo {#ese-1-02}
 
 #### 01
 
@@ -562,7 +562,7 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 {:.spirit-multi}
 
 
-### 1-03. 🗂️ Há muitas moradas na casa de meu Pai
+### 1-03. 🗂️ Há muitas moradas na casa de meu Pai {#ese-1-03}
 
 #### 01
 
@@ -699,7 +699,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 {:.spirit-multi}
 
 
-### 1-04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo
+### 1-04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo {#ese-1-04}
 
 #### 01
 
@@ -910,7 +910,7 @@ Assim acontece com o homem na Terra. Para o Espírito do selvagem, que está ape
 Não poderiam os Espíritos encarnar uma única vez em determinado globo e preencher em esferas diferentes suas diferentes existências? Semelhante modo de ver só seria admissível se, na Terra, todos os homens estivessem exatamente no mesmo nível intelectual e moral. As diferenças que há entre eles, desde o selvagem ao homem civilizado, mostram quais os degraus que têm de subir. A encarnação, aliás, precisa ter um fim útil. Ora, qual seria o das encarnações efêmeras das crianças que morrem em tenra idade? Teriam sofrido sem proveito para si, nem para outrem. Deus, cujas leis todas são soberanamente sábias, nada faz de inútil. Pela reencarnação no mesmo globo, quis Ele que os mesmos Espíritos, pondo-se novamente em contato, tivessem ensejo de reparar seus danos recíprocos. Por meio das suas relações anteriores, quis, além disso, estabelecer sobre base espiritual os laços de família e apoiar numa lei natural os princípios da solidariedade, da fraternidade e da igualdade.
 
 
-### 1-05. 🗂️ Bem-aventurados os aflitos
+### 1-05. 🗂️ Bem-aventurados os aflitos {#ese-1-05}
 
 #### 01
 
@@ -1298,7 +1298,7 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 {:.spirit-multi}
 
 
-### 1-06. 🗂️ O Cristo Consolador
+### 1-06. 🗂️ O Cristo Consolador {#ese-1-06}
 
 #### O jugo leve
 
@@ -1389,7 +1389,7 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 {:.spirit-multi}
 
 
-### 1-07. 🗂️ Bem-aventurados os pobres de espírito
+### 1-07. 🗂️ Bem-aventurados os pobres de espírito {#ese-1-07}
 
 #### O que se deve entender por pobres de espírito
 
@@ -1551,7 +1551,7 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 {:.spirit-multi}
 
 
-### 1-08. 🗂️ Bem-aventurados os que têm puro o coração
+### 1-08. 🗂️ Bem-aventurados os que têm puro o coração {#ese-1-08}
 
 #### Simplicidade e pureza de coração
 
@@ -1748,7 +1748,7 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 Quando uma aflição não é consequência dos atos da vida presente, deve-se-lhe buscar a causa numa vida anterior. Tudo aquilo a que se dá o nome de caprichos da sorte mais não é do que efeito da Justiça de Deus, que não inflige punições arbitrárias, pois quer que a pena esteja sempre em correlação com a falta. Se, por sua bondade, lançou um véu sobre os nossos atos passados, por outro lado nos aponta o caminho, dizendo: “Quem matou à espada, pela espada perecerá”, palavras que se podem traduzir assim: “A criatura é sempre punida por aquilo em que pecou.” Se, portanto, alguém sofre o tormento da perda da vista, é que esta lhe foi causa de queda. Talvez tenha sido também causa de que outro perdesse a vista; de que alguém haja perdido a vista em consequência do excesso de trabalho que aquele lhe impôs, ou de maus-tratos, de falta de cuidados etc. Nesse caso, passa ele pela pena de talião. É possível que ele próprio, tomado de arrependimento, haja escolhido essa expiação, aplicando a si estas palavras de Jesus: “Se o teu olho for motivo de escândalo, arranca-o.”
 
 
-### 1-09. 🗂️ Bem-aventurados os que são brandos e pacíficos
+### 1-09. 🗂️ Bem-aventurados os que são brandos e pacíficos {#ese-1-09}
 
 #### Injúrias e violências
 
@@ -1867,7 +1867,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 {:.spirit-multi}
 
 
-### 1-10. 🗂️ Bem-aventurados os que são misericordiosos
+### 1-10. 🗂️ Bem-aventurados os que são misericordiosos {#ese-1-10}
 
 #### Perdoai, para que Deus vos perdoe
 
@@ -2075,7 +2075,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 {:.spirit-multi}
 
 
-### 1-11. 🗂️ Amar o próximo como a si mesmo
+### 1-11. 🗂️ Amar o próximo como a si mesmo {#ese-1-11}
 
 #### O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores
 
@@ -2265,7 +2265,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 {:.spirit-multi}
 
 
-### 1-12. 🗂️ Amai os vossos inimigos
+### 1-12. 🗂️ Amai os vossos inimigos {#ese-1-12}
 
 #### Retribuir o mal com o bem
 
@@ -2425,7 +2425,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos homens o espírito de caridade e de fraternidade.
 
 
-### 1-13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita
+### 1-13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ese-1-13}
 
 #### Fazer o bem sem ostentação
 
@@ -2695,7 +2695,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 {:.spirit-multi}
 
 
-### 1-14. 🗂️ Honrai a vosso pai e a vossa mãe
+### 1-14. 🗂️ Honrai a vosso pai e a vossa mãe {#ese-1-14}
 
 #### 01
 
@@ -2802,7 +2802,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 {:.spirit-multi}
 
 
-### 1-15. 🗂️ Fora da caridade não há salvação
+### 1-15. 🗂️ Fora da caridade não há salvação {#ese-1-15}
 
 #### O de que precisa o Espírito para se salvar. Parábola do Bom Samaritano
 
@@ -2900,7 +2900,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 {:.spirit-multi}
 
 
-### 1-16. 🗂️ Não se pode servir a Deus e a Mamon
+### 1-16. 🗂️ Não se pode servir a Deus e a Mamon {#ese-1-16}
 
 #### Salvação dos ricos
 
@@ -3092,7 +3092,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 {:.spirit-multi}
 
 
-### 1-17. 🗂️ Sede perfeitos
+### 1-17. 🗂️ Sede perfeitos {#ese-1-17}
 
 #### Caracteres da perfeição
 
@@ -3285,7 +3285,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 {:.spirit-multi}
 
 
-### 1-18. 🗂️ Muitos os chamados, poucos os escolhidos
+### 1-18. 🗂️ Muitos os chamados, poucos os escolhidos {#ese-1-18}
 
 #### Parábola do Festim das Bodas
 
@@ -3456,7 +3456,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 {:.spirit-multi}
 
 
-### 1-19. 🗂️ A fé transporta montanhas
+### 1-19. 🗂️ A fé transporta montanhas {#ese-1-19}
 
 #### Poder da fé
 
@@ -3563,7 +3563,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 {:.spirit-multi}
 
 
-### 1-20. 🗂️ Os trabalhadores da última hora
+### 1-20. 🗂️ Os trabalhadores da última hora {#ese-1-20}
 
 #### 01
 
@@ -3656,7 +3656,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 {:.spirit-multi}
 
 
-### 1-21. 🗂️ Haverá falsos cristos e falsos profetas
+### 1-21. 🗂️ Haverá falsos cristos e falsos profetas {#ese-1-21}
 
 #### Conhece-se a árvore pelo fruto
 
@@ -3798,7 +3798,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 {:.spirit-multi}
 
 
-### 1-22. 🗂️ Não separeis o que Deus juntou
+### 1-22. 🗂️ Não separeis o que Deus juntou {#ese-1-22}
 
 #### Indissolubilidade do casamento
 
@@ -3834,7 +3834,7 @@ Nem mesmo Jesus consagrou a indissolubilidade absoluta do casamento. Não disse 
 Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério. Ora, não existe adultério onde reina sincera afeição recíproca. É verdade que Ele proíbe ao homem desposar a mulher repudiada; mas cumpre se tenham em vista os costumes e o caráter dos homens daquela época. A lei moisaica, nesse caso, prescrevia a lapidação. Querendo abolir um uso bárbaro, precisou de uma penalidade que o substituísse e a encontrou no opróbrio que adviria da proibição de um segundo casamento. Era, de certo modo, uma lei civil substituída por outra lei civil, mas que, como todas as leis dessa natureza, tinha de passar pela prova do tempo.
 
 
-### 1-23. 🗂️ Estranha moral
+### 1-23. 🗂️ Estranha moral {#ese-1-23}
 
 #### Odiar os pais
 
@@ -3967,7 +3967,7 @@ O Espiritismo vem realizar, na época prevista, as promessas do Cristo. Entretan
 Essas palavras de Jesus devem, pois, entender-se com referência às cóleras que a sua doutrina provocaria, aos conflitos momentâneos a que ia dar causa, às lutas que teria de sustentar antes de se firmar, como aconteceu aos hebreus antes de entrarem na Terra Prometida, e não como decorrentes de um desígnio premeditado de sua parte de semear a desordem e a confusão. O mal viria dos homens, e não dele, que era como o médico que se apresenta para curar, mas cujos remédios provocam uma crise salutar, atacando os maus humores do doente.
 
 
-### 1-24. 🗂️ Não ponhais a candeia debaixo do alqueire
+### 1-24. 🗂️ Não ponhais a candeia debaixo do alqueire {#ese-1-24}
 
 #### Candeia sob o alqueire. Por que fala Jesus por parábolas
 
@@ -4109,7 +4109,7 @@ Assim será com os adeptos do Espiritismo. Pois que a doutrina que professam mai
 Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, suporte corajosamente as tribulações que sua fé lhe acarretar, dado que aquele que quiser salvar a vida e seus bens, renunciando a mim, perderá as vantagens do Reino dos Céus, enquanto os que tudo houverem perdido neste mundo, mesmo a vida, para que a verdade triunfe, receberão, na vida futura, o prêmio da coragem, da perseverança e da abnegação de que deram prova. Mas aos que sacrificam os bens celestes aos gozos terrestres, Deus dirá: “Já recebestes a vossa recompensa.”
 
 
-### 1-25. 🗂️ Buscai e achareis
+### 1-25. 🗂️ Buscai e achareis {#ese-1-25}
 
 #### Ajuda-te a ti mesmo, que o céu te ajudará
 
@@ -4199,7 +4199,7 @@ Quanto aos que não os quisessem receber, nem ouvir, recomendou Ele porventura a
 O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciência; a ninguém forceis para que deixe a sua crença, a fim de adotar a vossa; não anatematizeis os que não pensem como vós; acolhei os que venham ter convosco e deixai tranquilos os que vos repelem. Lembrai-vos das palavras do Cristo. Outrora, o céu era tomado com violência; hoje o é pela brandura. (Cap. IV, itens 10 e 11.)
 
 
-### 1-26. 🗂️ Dai gratuitamente o que gratuitamente recebestes
+### 1-26. 🗂️ Dai gratuitamente o que gratuitamente recebestes {#ese-1-26}
 
 #### Dom de curar
 
@@ -4284,7 +4284,7 @@ A mediunidade é coisa santa, que deve ser praticada santamente, religiosamente.
 Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos na mediunidade; não lhe consagre, se assim for preciso, senão o tempo de que materialmente possa dispor. Os Espíritos lhe levarão em conta o devotamento e os sacrifícios, ao passo que se afastam dos que esperam fazer deles uma escada por onde subam.
 
 
-### 1-27. 🗂️ Pedi e obtereis
+### 1-27. 🗂️ Pedi e obtereis {#ese-1-27}
 
 #### Qualidades da prece
 
@@ -4471,7 +4471,7 @@ Vinde, vós que desejais crer. Os Espíritos celestes acorrem a vos anunciar gra
 Avançai, avançai pelas veredas da prece e ouvireis as vozes dos anjos. Que harmonia! Já não são o ruído confuso e os sons estrídulos da Terra; são as liras dos arcanjos; são as vozes brandas e suaves dos serafins, mais delicadas do que as brisas matinais, quando brincam na folhagem dos vossos bosques. Por entre que delícias não caminhareis! A vossa linguagem não poderá exprimir essa ventura, tão rápida entra ela por todos os vossos poros, tão vivo e refrigerante é o manancial em que, orando, se bebe. Dulçorosas vozes, inebriantes perfumes, que a alma ouve e aspira, quando se lança a essas esferas desconhecidas e habitadas pela prece! Sem mescla de desejos carnais, são divinas todas as aspirações. Também vós, orai como o Cristo, levando a sua cruz ao Gólgota, ao Calvário. Carregai a vossa cruz e sentireis as doces emoções que lhe perpassavam na alma, se bem que vergado ao peso de um madeiro infamante. Ele ia morrer, mas para viver a vida celestial na morada de seu Pai. – Santo Agostinho. (Paris, 1861.)
 
 
-### 1-28. 🗂️ Coletânea de preces espíritas
+### 1-28. 🗂️ Coletânea de preces espíritas {#ese-1-28}
 
 #### Preâmbulo
 
@@ -5384,11 +5384,82 @@ A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, po
 
 ## 2. 🗃️ Pós-textual
 
-### 2.01 📄 Nota explicativa
+### 2.01 📄 Nota explicativa {#ese-2-01}
 
-PLACEHOLDER
+> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
+{:.grey}
 
-### 2.02 📑 Índice geral
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. 👻 **O Livro dos Espíritos** (1857),
+
+2. ✒️ **O Livro dos Médiuns** (1861),
+
+3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
+
+4. 🔥 **O Céu e o Inferno** (1865),
+
+5. 🌱 **A Gênese** (1868),
+
+além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 **Revista Espírita** (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 **Obras Póstumas** (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 **Revista Espírita**, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (👻 **O Livro dos Espíritos**, [`LDE-q207`](#LDE-q207))
+> 
+> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 **Revista Espírita**, 1861)
+> 
+> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 **Revista Espírita**, 1867)
+> 
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 **A Gênese**, cap. 1, item 36 Vide também 📓 **Revista Espírita**, 1867)
+{:.grey}
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 **Revista Espírita** de 1863)
+> 
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ **O Evangelho segundo o Espiritismo**, cap. 17, item 3)
+{:.grey}
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
+
+> Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
+{:.grey}
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 **Revista Espírita**, 1862, p. 38.)
+{:.grey}
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.[^27]
+
+A Editora
+{:.author}
+
+
+### 2.02 📑 Índice geral {#ese-2-02}
 
 #### A
 
@@ -5490,7 +5561,7 @@ PLACEHOLDER
 
 ##### 🏷️ item
 
-### 2.03 📃 Notas de rodapé
+### 2.03 📃 Notas de rodapé {#ese-2-03}
 
 [^1]: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
 

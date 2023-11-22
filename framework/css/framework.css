@@ -218,3 +218,12 @@ a:any-link {
     color: currentColor;
     text-decoration: none;
 }
+
+p.banner {
+    color: currentColor;
+    padding: 10px;
+    font-family: 'Inter';
+    background-color: #ffff0066;
+    text-align: center;
+    border-left: 4px solid gold;
+}

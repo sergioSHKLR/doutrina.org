@@ -20,7 +20,7 @@ layout: 5-gen
 
 ## 0. 🗃️ Pré-textual
 
-### 0-01. 🗂️ Folha de rosto
+### 0-01. 🗂️ Folha de rosto {#gen-0-01}
 
 ><br>
 > Ética Espírita  
@@ -42,7 +42,7 @@ layout: 5-gen
 ><br> 
 {:.grey-center}
 
-### 0-02. 🗂️ Introdução
+### 0-02. 🗂️ Introdução {#gen-0-02}
 
 À primeira edição publicada em janeiro de 1868
 
@@ -72,7 +72,7 @@ Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, se
 
 ## 1. 🗃️ A Gênese segundo o Espiritismo
 
-### 1-01. 🗂️ Caráter da revelação espírita 
+### 1-01. 🗂️ Caráter da revelação espírita {#gen-1-01}
 
 ######  01
 
@@ -327,7 +327,7 @@ Qual, então, a utilidade dessas manifestações, ou, se o preferirem, dessa rev
 
 Uma comparação vulgar tornará ainda melhor compreensível a situação. Parte para destino longínquo um navio carregado de emigrantes. Leva homens de todas as condições, parentes e amigos dos que ficam. Vem-se a saber que esse navio naufragou. Nenhum vestígio resta dele, nenhuma notícia chega sobre a sua sorte. Acredita-se que todos os passageiros pereceram e o luto penetra em todas as suas famílias. Entretanto, a equipagem inteira, sem faltar um único homem, foi ter a uma ilha desconhecida, abundante e fértil, onde todos passam a viver ditosos, sob um céu clemente. Ninguém, todavia, sabe disso. Ora, um belo dia, outro navio aporta a essa terra e lá encontra sãos e salvos os náufragos. A feliz nova se espalha com a rapidez do relâmpago. Exclamam todos: “Não estão perdidos os nossos amigos!” E rendem graças a Deus. Não podem ver-se uns aos outros, mas correspondem-se; permutam demonstrações de afeto e assim a alegria substitui a tristeza. Tal a imagem da vida terrena e da vida de além-túmulo, antes e depois da revelação moderna. A última, semelhante ao segundo navio, nos traz a boa-nova da sobrevivência dos que nos são caros e a certeza de que a eles nos reuniremos um dia. Deixa de existir a dúvida sobre a sorte deles e a nossa. O desânimo se desfaz diante da esperança. Outros resultados fecundam essa revelação. Achando madura a humanidade para penetrar o mistério do seu destino e contemplar, a sangue-frio, novas maravilhas, permitiu Deus fosse erguido o véu que ocultava o mundo invisível ao mundo visível. Nada têm de extra-humanas as manifestações; é a humanidade espiritual que vem conversar com a humanidade corporal e dizer-lhe: “Nós existimos, logo, o nada não existe; eis o que somos e o que sereis; o futuro vos pertence, como a nós. Caminhais nas trevas, vimos clarear-vos o caminho e traçar-vos o roteiro; andais ao acaso, vimos apontar-vos a meta. A vida terrena era, para vós, tudo, porque nada víeis além dela; vimos dizer-vos, mostrando a vida espiritual: a vida terrestre nada é. A vossa visão se detinha no túmulo, nós vos desvendamos, para lá deste, um esplêndido horizonte. Não sabíeis por que sofreis na Terra; agora, no sofrimento, vedes a justiça de Deus. O bem nenhum fruto aparente produzia para o futuro. Doravante, ele terá uma finalidade e constituirá uma necessidade; a fraternidade, que não passava de bela teoria, assenta agora numa lei da natureza. Sob o domínio da crença de que tudo acaba com a vida, a imensidade é o vazio, o egoísmo reina soberano entre vós e a vossa palavra de ordem é: ‘Cada um por si.’ Com a certeza do porvir, os espaços infinitos se povoam ao infinito, em parte alguma há o vazio e a solidão; a solidariedade liga todos os seres aquém e além da tumba. É o reino da caridade, sob a divisa: ‘Um por todos e todos por um.’ Enfim, ao termo da vida, dizíeis eterno adeus aos que vos são caros; agora, dir-lhes-eis: ‘Até breve!’” Tais são, em resumo, os resultados da revelação nova, que veio encher o vácuo que a incredulidade cavara, levantar os ânimos abatidos pela dúvida ou pela perspectiva do nada e imprimir a todas as coisas uma razão de ser. Carecerá de importância esse resultado, apenas porque os Espíritos não vêm resolver os problemas da Ciência, dar saber aos ignorantes e aos preguiçosos os meios de se enriquecerem sem trabalho? Nem só, entretanto, à vida futura dizem respeito os frutos que o homem deve colher da nova revelação. Ele os saboreará na Terra, pela transformação que estas novas crenças hão de necessariamente operar no seu caráter, nos seus gostos, nas suas tendências e, por conseguinte, nos hábitos e nas relações sociais. Pondo fim ao reino do egoísmo, do orgulho e da incredulidade, as novas crenças preparam o do bem, que é o reino de Deus, anunciado pelo Cristo. [^16]
 
-### 1-02. 🗂️ Deus
+### 1-02. 🗂️ Deus {#gen-1-02}
 
 ######  Existência de Deus
 
@@ -485,7 +485,7 @@ Nenhum homem, conseguintemente, pode ver a Deus com os olhos da carne. Se essa g
 
 Sob que aparência se apresenta Deus aos que se tornaram dignos de vê-lo? Será sob uma forma qualquer? Sob uma figura humana, ou como um foco de resplendente luz? A linguagem humana é impotente para dizê-lo, porque não existe para nós nenhum ponto de comparação capaz de nos facultar uma ideia de tal coisa. Somos quais cegos de nascença a quem procurassem inutilmente fazer compreendessem o brilho do Sol. A nossa linguagem é limitada pelas nossas necessidades e pelo círculo das nossas ideias; a dos selvagens não poderia descrever as maravilhas da civilização; a dos povos mais civilizados é extremamente pobre para descrever os esplendores dos céus, a nossa inteligência muito restrita para os compreender e a nossa vista, por muito fraca, ficaria deslumbrada.
 
-### 1-03. 🗂️ O bem e o mal
+### 1-03. 🗂️ O bem e o mal {#gen-1-03}
 
 ######  Origem do bem e do mal
 
@@ -590,7 +590,7 @@ Há também considerações morais de ordem elevada. É necessária a luta para 
 
 Nos seres inferiores da Criação, naqueles a quem ainda falta o senso moral, nos quais a inteligência ainda não substituiu o instinto, a luta não pode ter por móvel senão a satisfação de uma necessidade material. Ora, uma das mais imperiosas dessas necessidades é a da alimentação. Eles, pois, lutam unicamente para viver, isto é, para fazer ou defender uma presa, visto que nenhum móvel mais elevado os poderia estimular. É nesse primeiro período que a alma se elabora e ensaia para a vida. No homem, há um período de transição em que ele mal se distingue do bruto. Nas primeiras idades, domina o instinto animal e a luta ainda tem por móvel a satisfação das necessidades materiais. Mais tarde, contrabalançam-se o instinto animal e o sentimento moral; luta então o homem, não mais para se alimentar, porém, para satisfazer à sua ambição, ao seu orgulho, a sua necessidade de dominar. Para isso, ainda lhe é preciso destruir. Todavia, à medida que o senso moral prepondera, desenvolve-se a sensibilidade, diminui a necessidade de destruir, acaba mesmo por desaparecer, por se tornar odiosa essa necessidade. O homem ganha horror ao sangue. Contudo, a luta é sempre necessária ao desenvolvimento do Espírito, pois, mesmo chegando a esse ponto, que nos parece culminante, ele ainda está longe de ser perfeito. Só à custa de sua atividade que o Espírito adquire conhecimento, experiência e se despoja dos últimos vestígios da animalidade. Mas, nessa ocasião, a luta, de sangrenta e brutal que era, se torna puramente intelectual. O homem luta contra as dificuldades, não mais contra os seus semelhantes. [^23]
 
-### 1-04. 🗂️ Papel da Ciência na Gênese
+### 1-04. 🗂️ Papel da Ciência na Gênese {#gen-1-04}
 
 ######  01
 
@@ -660,7 +660,7 @@ Até o presente, o estudo do princípio espiritual, compreendido na Metafísica,
 
 Estando o mundo espiritual e o mundo material em incessante contato, os dois são solidários um com o outro; ambos têm a sua parcela de ação na Gênese. Sem o conhecimento das leis que regem o primeiro, tão impossível seria constituir-se uma Gênese completa, quanto a um estatuário dar vida a uma estátua. Somente agora, conquanto nem a Ciência material, nem a Ciência espiritual hajam dito a última palavra, possui o homem os dois elementos próprios a lançar luz sobre esse imenso problema. Eram-lhe absolutamente indispensáveis essas duas chaves para chegar a uma solução, ainda que aproximativa.
 
-### 1-05. 🗂️ Antigos e modernos sistemas do mundo
+### 1-05. 🗂️ Antigos e modernos sistemas do mundo {#gen-1-05}
 
 ######  01
 
@@ -718,7 +718,7 @@ A partir de Copérnico e Galileu, as velhas cosmogonias jamais foram destruídas
 
 Estava desde então aberto o caminho em que ilustres e numerosos sábios iam entrar, a fim de completarem a obra encetada. Na Alemanha, Kepler descobre as célebres leis que lhe conservam o nome e por meio das quais se reconhece que as órbitas que os planetas descrevem não são circulares, mas elipses, das quais o sol ocupa um dos focos. Newton, na Inglaterra, descobre a lei da gravitação universal. Laplace, na França, cria a mecânica celeste. Finalmente, a Astronomia deixa de ser um sistema fundado em conjeturas ou probabilidades e torna-se uma ciência assente nas mais rigorosas bases, as do cálculo e da geometria. Fica assim lançada uma das pedras fundamentais da Gênese, cerca de 3.300 anos depois de Moisés.
 
-### 1-06. 🗂️ Uranografia geral
+### 1-06. 🗂️ Uranografia geral {#gen-1-06}
 
 ######  01
 
@@ -1091,7 +1091,7 @@ Não vejais, pois, em torno de cada um dos sóis do espaço, apenas sistemas pla
 
 Do fato de que a vossa natureza animada começa no zoófito para terminar no homem, de que a atmosfera alimenta a vida terrestre, de que o elemento líquido a renova incessantemente, de que as vossas estações fazem se sucedam nessa vida os fenômenos que as distinguem, não concluais que os milhões e milhões de terras que rolam pela amplidão sejam semelhantes à que habitais. Longe disso, aquelas diferem, de acordo com as diversas condições que lhes foram prescritas e de acordo com o papel que a cada uma coube no cenário do mundo. São pedrarias variegadas de um imenso mosaico, as diversificadas flores de admirável parque.
 
-### 1-07. 🗂️ Esboço geológico da Terra
+### 1-07. 🗂️ Esboço geológico da Terra {#gen-1-07}
 
 #### Períodos geológicos
 
@@ -1452,7 +1452,7 @@ Como quer que seja, tenha o homem aparecido ou não antes do grande dilúvio uni
 
 [^81]: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
 
-### 1-08. 🗂️ Teorias sobre a formação da Terra
+### 1-08. 🗂️ Teorias sobre a formação da Terra {#gen-1-08}
 
 ##### Teoria da projeção
 
@@ -1545,7 +1545,7 @@ Por alma da Terra, pode entender-se, mais racionalmente, a coletividade dos Esp�
 
 Um Espírito, incumbido de missão tão importante qual a do governo de um mundo, não poderia ter caprichos, ou, então, teríamos de reconhecer em Deus a imprevidência de confiar a execução de suas leis a seres capazes de lhes contravir, a seu bel-prazer. Ora, segundo a doutrina da incrustação, a má vontade da alma da Lua é que houvera dado causa a que a Terra ficasse incompleta. Há ideias que a si mesmas se refutam. (Revista espírita, setembro de 1868.)
 
-### 1-09. 🗂️ Revoluções do globo
+### 1-09. 🗂️ Revoluções do globo {#gen-1-09}
 
 ##### Revoluções gerais ou parciais
 
@@ -1697,7 +1697,7 @@ Há uma opinião segundo a qual o globo aumentaria de massa e de volume pelo afl
 
 [^102]: N.E.: Ver Nota Explicativa.
 
-### 1-10. 🗂️ Gênese orgânica
+### 1-10. 🗂️ Gênese orgânica {#gen-1-10}
 
 ###### 01
 
@@ -2247,9 +2247,9 @@ Para aqueles homens, lançados ao seio da selvajaria, a mãe-pátria não é um 
 
 Será crível, perguntamos agora, que esses homens mandados para a Nova Caledônia vão transformar-se de súbito em modelos de virtude? Que vão abjurar repentinamente seus erros do passado? Para supor tal coisa, fora necessário desconhecer a humanidade. Pela mesma razão, os Espíritos da raça adâmica, uma vez transplantados para a terra do exílio, não se despojaram instantaneamente do seu orgulho e de seus maus instintos; ainda por muito tempo conservaram as tendências que traziam, um resto da velha levedura. Ora, não é esse o pecado original?
 
-### 1-11. 🗂️ Gênese espiritual
+### 1-11. 🗂️ Gênese espiritual {#gen-1-11}
 
-### 1-12. 🗂️ Gênese moisaica
+### 1-12. 🗂️ Gênese moisaica {#gen-1-12}
 
 ##### Os seis dias
 
@@ -2506,7 +2506,7 @@ Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que est
 
 ## 2. 🗃️ Os Milagres
 
-### 2-13. 🗂️ Caracteres dos milagres
+### 2-13. 🗂️ Caracteres dos milagres {#gen-2-13}
 
 ######  01
 
@@ -2635,7 +2635,7 @@ Se tomarmos a palavra milagre em sua acepção etimológica, no sentido de coisa
 
 Querem dar ao povo, aos ignorantes, aos pobres de espírito uma ideia do poder de Deus? Mostrem-no na sabedoria infinita que preside a tudo, no admirável organismo de tudo o que vive, na frutificação das plantas, na apropriação de todas as partes de cada ser às suas necessidades, de acordo com o meio onde ele é posto a viver. Mostrem-lhes a ação de Deus na vergôntea de um arbusto, na flor que desabrocha, no Sol que tudo vivifica. Mostrem-lhes a sua bondade na solicitude que dispensa a todas as criaturas, por mais ínfimas que sejam, a sua previdência, na razão de ser de todas as coisas, entre as quais nenhuma inútil se conta, no bem que sempre decorre de um mal aparente e temporário. Façam-lhes compreender, principalmente, que o mal real é obra do homem e não de Deus; não procurem espavori-los com o quadro das penas eternas, em que acabam não mais crendo e que os levam a duvidar da Bondade de Deus; antes, deem-lhes coragem, mediante a certeza de poderem um dia redimir-se e reparar o mal que hajam praticado. Apontem-lhes as descobertas da Ciência como revelações das Leis divinas e não como obras de Satanás. Ensinem-lhes, finalmente, a ler no livro da natureza, constantemente aberto diante deles; nesse livro inesgotável, em cada uma de cujas páginas se acham inscritas a sabedoria e a bondade do Criador. Eles, então, compreenderão que um Ser tão grande, que com tudo se ocupa, que por tudo vela, que tudo prevê, forçosamente dispõe do poder supremo. Vê-lo-á o lavrador, ao sulcar o seu campo; e o desditoso, nas suas aflições, o bendirá dizendo: Se sou infeliz, é por culpa minha. Então, os homens serão verdadeiramente religiosos, racionalmente religiosos, sobretudo, muito mais do que acreditando em pedras que suam sangue, ou em estátuas que piscam os olhos e derramam lágrimas.
 
-### 2-14. 🗂️ Os fluidos
+### 2-14. 🗂️ Os fluidos {#gen-2-14}
 
 ##### Elementos fluídicos
 
@@ -3498,7 +3498,7 @@ Esta explicação, aliás, o próprio Jesus a confirmou nas duas passagens segui
 ###### 65
 
 
-### 2-15. 🗂️ Os milagres do Evangelho
+### 2-15. 🗂️ Os milagres do Evangelho {#gen-2-15}
 
 ###### 66
 
@@ -4054,7 +4054,7 @@ Não é nova essa ideia sobre a natureza do corpo de Jesus. No quarto século, A
 
 ## 3. 🗃️ As Predições
 
-### 3-16. 🗂️ Teoria da presciência
+### 3-16. 🗂️ Teoria da presciência {#gen-3-16}
 
 ######  01
 
@@ -4160,7 +4160,7 @@ A humanidade contemporânea também conta seus profetas. Mais de um escritor, po
 
 Essa aptidão, sem dúvida, decorre, muitas vezes, da retidão do juízo, no deduzir as consequências lógicas do presente; mas, doutras vezes, também resulta de uma especial clarividência inconsciente, ou de uma inspiração vinda do exterior. O que tais homens fizeram quando vivos, podem, com razão mais forte e maior exatidão, fazer no estado de Espíritos livres, quando não têm a visão espiritual obscurecida pela matéria.
 
-### 3-17. 🗂️ Predições do Evangelho
+### 3-17. 🗂️ Predições do Evangelho {#gen-3-17}
 
 ######  01
 
@@ -4625,7 +4625,7 @@ O juízo, pelo processo da emigração, conforme ficou explicado acima (item 63)
 
 Segundo essa interpretação, não é exata a qualificação de juízo final, pois que os Espíritos passam por análogas fieiras a cada renovação dos mundos por eles habitados, até que atinjam certo grau de perfeição. Não há, portanto, juízo final propriamente dito, mas juízos gerais em todas as épocas de renovação parcial ou total da população dos mundos, por efeito das quais se operam as grandes emigrações e imigrações de Espíritos.
 
-### 3-18. 🗂️ São chegados os tempos
+### 3-18. 🗂️ São chegados os tempos {#gen-3-18}
 
 ##### Sinais dos tempos
 
@@ -5261,12 +5261,81 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 ## 4. 🗃️ Pós-textual
 
-### 4.01 📄 Nota explicativa
+### 4.01 📄 Nota explicativa {#gen-4-01}
 
-PLACEHOLDER
+> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
+{:.grey}
 
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
 
-### 4.03 📑 Índice geral
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. 👻 **O Livro dos Espíritos** (1857),
+
+2. ✒️ **O Livro dos Médiuns** (1861),
+
+3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
+
+4. 🔥 **O Céu e o Inferno** (1865),
+
+5. 🌱 **A Gênese** (1868),
+
+além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 **Revista Espírita** (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 **Obras Póstumas** (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 **Revista Espírita**, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (👻 **O Livro dos Espíritos**, [`LDE-q207`](#LDE-q207))
+> 
+> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 **Revista Espírita**, 1861)
+> 
+> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 **Revista Espírita**, 1867)
+> 
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 **A Gênese**, cap. 1, item 36 Vide também 📓 **Revista Espírita**, 1867)
+{:.grey}
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 **Revista Espírita** de 1863)
+> 
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ **O Evangelho segundo o Espiritismo**, cap. 17, item 3)
+{:.grey}
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
+
+> Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
+{:.grey}
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 **Revista Espírita**, 1862, p. 38.)
+{:.grey}
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.[^27]
+
+A Editora
+{:.author}
+
+### 4.02 📑 Índice geral {#gen-4-02}
 
 #### A
 
@@ -5368,7 +5437,7 @@ PLACEHOLDER
 
 ##### 🏷️ item
 
-### 4.02 📃 Notas de rodapé
+### 4.03 📃 Notas de rodapé {#gen-4-03}
 
 [^1]: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
 

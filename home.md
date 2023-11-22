@@ -14,8 +14,6 @@ layout: 0-generic
 
 # 🏠 Início
 
-**Pré-release Alpha <kbd>11.23</kbd>. Em desenvolvimento diário. Atualização mais recente em 21 Nov 2023.**
-
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){:target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){:target="ext"}, decidimos criar esta alternativa.
 
 Aqui permitiremos ao estudante a consulta direta de fontes complementares sem que seu foco se perca ao navegar sites externos. 
