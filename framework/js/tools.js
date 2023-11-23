@@ -4,10 +4,10 @@ function function1() {
     localStorage.setItem("text","increased");
     var element = document.getElementById("col2-body");
     element.classList.remove("td");
-    element.classList.add("ti");
+    element.classList.toggle("ti");
 }
 
-function checkMode() {
+function checkMode1() {
     let text = localStorage.getItem("text");
     if (text == "increased") {
         function1()
@@ -23,7 +23,7 @@ function function2() {
     element.classList.add("td");
 }
 
-function checkMode() {
+function checkMode2() {
     let text = localStorage.getItem("text");
     if (text == "increased") {
         function2()
@@ -39,7 +39,7 @@ function function3() {
     element.classList.add("al");
 }
 
-function checkMode() {
+function checkMode3() {
     let align = localStorage.getItem("align");
     if (align == "left") {
         function3()
@@ -55,7 +55,7 @@ function function4() {
     element.classList.add("aj");
 }
 
-function checkMode() {
+function checkMode4() {
     let align = localStorage.getItem("align");
     if (align == "justified") {
         function4()
@@ -73,7 +73,7 @@ function function5() {
     element.classList.add("f1");
 }
 
-function checkMode() {
+function checkMode5() {
     let font = localStorage.getItem("font");
     if (font == "sans") {
         function5()
@@ -91,7 +91,7 @@ function function6() {
     element.classList.add("f2");
 }
 
-function checkMode() {
+function checkMode6() {
     let font = localStorage.getItem("font");
     if (font == "serif") {
         function6()
@@ -109,7 +109,7 @@ function function7() {
     element.classList.add("f3");
 }
 
-function checkMode() {
+function checkMode7() {
     let font = localStorage.getItem("font");
     if (font == "mono") {
         function7()
@@ -127,7 +127,7 @@ function function8() {
     element.classList.add("f4");
 }
 
-function checkMode() {
+function checkMode8() {
     let font = localStorage.getItem("font");
     if (font == "slab") {
         function8()
@@ -143,7 +143,7 @@ function function9() {
     element.classList.add("ds");
 }
 
-function checkMode() {
+function checkMode9() {
     let density = localStorage.getItem("density");
     if (density == "small") {
         function9()
@@ -159,7 +159,7 @@ function function10() {
     element.classList.add("dm");
 }
 
-function checkMode() {
+function checkMode10() {
     let density = localStorage.getItem("density");
     if (density == "medium") {
         function10()
@@ -176,7 +176,7 @@ function function11() {
     element.classList.add("b1");
 }
 
-function checkMode() {
+function checkMode11() {
     let bground = localStorage.getItem("bground");
     if (bground == "amarelado") {
         function11()
@@ -193,7 +193,7 @@ function function12() {
     element.classList.add("b2");
 }
 
-function checkMode() {
+function checkMode12() {
     let bground = localStorage.getItem("bground");
     if (bground == "esverdeado") {
         function12()
@@ -210,7 +210,7 @@ function function13() {
     element.classList.add("b3");
 }
 
-function checkMode() {
+function checkMode13() {
     let bground = localStorage.getItem("bground");
     if (bground == "roseado") {
         function13()
