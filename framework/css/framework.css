@@ -134,6 +134,10 @@
     width: calc((100vw - 273px) * .5);
 }
 
+#col1-head, #col2-head, #col3-head {background-color: #4ec1f511;}
+#col1-body {background-color: #4ec1f511;}
+#col2-body {background-color: #ffff0005;}
+
 #ext-iframe {
     border: none;
     height: 100%;

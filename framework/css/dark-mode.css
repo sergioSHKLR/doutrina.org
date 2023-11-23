@@ -6,13 +6,7 @@
 
 .dark-mode,
 .dark-mode html,
-.dark-mode body,
-.dark-mode #col1-head,
-.dark-mode #col1-body,
-.dark-mode #col2-head,
-.dark-mode #col2-body,
-.dark-mode #col3-head,
-.dark-mode #col3-body {
+.dark-mode body {
     background-color: #222;
     color: #fff
 }
