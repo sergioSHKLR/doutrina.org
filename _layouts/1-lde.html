@@ -46,6 +46,8 @@
  <link rel="stylesheet" href="../framework/css/framework.css">
  <link rel="stylesheet" href="../framework/css/headings.css">
  <link rel="stylesheet" href="../framework/css/media-queries.css">
+ <link rel="stylesheet" href="../framework/css/tools.css">
+
 
  <!-- PWA -->
  <link rel="manifest" href="../framework/pwa/site.webmanifest">
@@ -234,6 +236,25 @@ class="icon">fullscreen_exit</span><span class="label">tela normal</span></butto
  <!-- COL2 BODY -->
  <div id="col2-body">
 
+   <div class="dropdown">
+      <button class="dropbtn"><span class="icon" title="ajustes de tipografia">more_vert</span></button>
+      <div class="dropdown-content">
+         <button class="tools" id="ti-btn" onclick="function1()" title="aumentar letra"><span class="icon">text_increase</span></button>
+         <button class="tools" id="td-btn" onclick="function2()" title="diminuir letra"><span class="icon">text_decrease</span></button>
+         <button class="tools" id="al-btn" onclick="function3()" title="texto à esquerda"><span class="icon">format_align_left</span></button>
+         <button class="tools" id="aj-btn" onclick="function4()" title="texto justificado"><span class="icon">format_align_justify</span></button>
+         <button class="tools" id="f1-btn" onclick="function5()" title="tipo sans"><span class="icon">counter_1</span></button>
+         <button class="tools" id="f2-btn" onclick="function6()" title="tipo serif"><span class="icon">counter_2</span></button>
+         <button class="tools" id="f3-btn" onclick="function7()" title="tipo mono"><span class="icon">counter_3</span></button>
+         <button class="tools" id="f4-btn" onclick="function8()" title="tipo slab"><span class="icon">counter_4</span></button>
+         <button class="tools" id="ds-btn" onclick="function9()" title="entrelinhas menor"><span class="icon">density_small</span></button>
+         <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span class="icon">density_medium</span></button>
+         <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span class="icon">looks_one</span></button>
+         <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span class="icon">looks_two</span></button>
+         <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span class="icon">looks_3</span></button>
+      </div>
+    </div>
+
     {{ content }}
 
  </div>
@@ -301,6 +322,7 @@ class="icon">visibility</span></button>
 <script async src="../framework/js/fullscreen.js"></script>
 <script async src="../framework/js/menu.js"></script>
 <script async src="../framework/js/shades.js"></script>
+<script async src="../framework/js/tools.js"></script>
 
 <!-- STAND WIHT US -->
  <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel.svg"
