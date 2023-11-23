@@ -272,5 +272,10 @@
 
 @media only screen and (display-mode: fullscreen) {
 
-    #col2-fs-btn, #col2-ns-btn, #col3-fs-btn, #col3-ns-btn {display: none;}
-  }
+    #col2-fs-btn,
+    #col2-ns-btn,
+    #col3-fs-btn,
+    #col3-ns-btn {
+        display: none;
+    }
+}

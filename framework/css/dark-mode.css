@@ -6,9 +6,11 @@
 
 .dark-mode,
 .dark-mode html,
-.dark-mode body {
+.dark-mode body,
+.dark-mode #col2-body {
     background-color: #222;
-    color: #fff
+    color: #fff;
+    box-shadow: none;
 }
 
 /*
