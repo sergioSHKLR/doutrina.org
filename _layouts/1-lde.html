@@ -27,9 +27,9 @@
  content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
  <meta property="twitter:image" content="./framework/pwa/twitter.png">
 
- <!-- GOOGLE PRECONNECT 
+ <!-- GOOGLE PRECONNECT -->
  <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
  <!-- GOOGLE FONTS -->
  <link rel="stylesheet"
@@ -48,20 +48,22 @@
  <link rel="stylesheet" href="../framework/css/media-queries.css">
  <link rel="stylesheet" href="../framework/css/tools.css">
 
-
  <!-- PWA -->
  <link rel="manifest" href="../framework/pwa/site.webmanifest">
  <link rel="icon" href="../framework/pwa/favicon.svg" type="image/svg+xml">
  <meta name="theme-color" content="#4ec1f5">
-
- <!-- SCRIPTS -->
- <script src="../framework/js/script.js"></script>
+ <script type="text/javascript" async>
+   if (typeof navigator.serviceWorker !== 'undefined') {
+   navigator.serviceWorker.register('../framework/pwa/sw.js')
+   }
+   </script>
 
  <style>
     #col3-link3 {display: none;}
  </style>
 
 </head>
+
 <body onload="checkMode()">
 
  <!-- COL1 HEAD -->
@@ -311,21 +313,19 @@ class="icon">visibility</span></button>
  <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" src="https://pt.m.wikipedia.org/wiki/Espiritismo"></iframe>
  </div>
 
- <!-- SCRIPTS -->
-<script async src="../framework/js/crisp.js"></script>
-<script async type="application/json" class="js-hypothesis-config">
+<!-- SCRIPTS -->
+<script type="text/javascript" async src="../framework/js/crisp.js"></script>
+<script type="text/javascript" async src="../framework/js/dark-mode.js"></script>
+<script type="text/javascript" async src="../framework/js/fullscreen.js"></script>
+<script type="text/javascript" async src="../framework/js/menu.js"></script>
+<script type="text/javascript" async src="../framework/js/tools.js"></script>
+<script type="application/json" async class="js-hypothesis-config">
  {
  "openSidebar": false,
  "showHighlights": true
  }
  </script>
  <script async src="https://hypothes.is/embed.js"></script>
-
-<script async src="../framework/js/dark-mode.js"></script>
-<script async src="../framework/js/fullscreen.js"></script>
-<script async src="../framework/js/menu.js"></script>
-<script async src="../framework/js/shades.js"></script>
-<script async src="../framework/js/tools.js"></script>
 
 <!-- STAND WIHT US -->
  <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel.svg"

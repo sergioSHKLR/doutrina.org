@@ -3,12 +3,14 @@
 <!-- START2 -->
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
             margin: 0;
         }
+
         .container {
             position: absolute;
             width: 100%;
@@ -19,6 +21,7 @@
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
         }
+
         .responsive-iframe {
             position: absolute;
             top: 0;
@@ -29,13 +32,16 @@
             height: 100%;
             border: none;
         }
+
         body {
             background-color: black;
             color: white;
         }
+
         .loading {
             font-size: 20px;
         }
+
         .loading:after {
             overflow: hidden;
             display: inline-block;
@@ -46,31 +52,48 @@
             /* ascii code for the ellipsis character */
             width: 0px;
         }
+
         .article {
             position: absolute;
             bottom: 0;
             width: 100%;
             text-align: center;
         }
+
         @keyframes ellipsis {
             to {
                 width: 1.25em;
             }
         }
+
         @-webkit-keyframes ellipsis {
             to {
                 width: 1.25em;
             }
         }
-        a:any-link {color: white;}
-    h1,h2,h3,h4,h5,h6 {font-family: 'Inter';}
-</style>
+
+        a:any-link {
+            color: white;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: 'Inter';
+        }
+    </style>
 </head>
+
 <body>
     <div class="container center">
         <div class="loading">Carregando video </div>
-        <iframe class="responsive-iframe" src="https://www.youtube.com/embed//In3EaR-veOw?rel=0&hl=pt&cc_load_policy=1' frameborder="0'
-            allowfullscreen></iframe>
+        <iframe class="responsive-iframe"
+            src="https://www.youtube.com/embed/In3EaR-veOw?autoplay=1&modestbranding=1&rel=0&cc_load_policy=1&iv_load_policy=3&hl=pt-BR"
+            frameborder="0" allowfullscreen>></iframe>
     </div>
 </body>
+
 </html>
