@@ -76,11 +76,6 @@ a:any-link {
     text-decoration-color: #3366cc99;
 }
 
-em {
-    color: currentColor;
-    font-style: italic
-}
-
 p.cursive {
     font-family: 'Zeyada';
     font-size: 60px;
@@ -173,4 +168,8 @@ strong {
 
 .ff-mono {
     font-family: 'Roboto Mono';
+}
+
+blockquote em {
+    color: crimson
 }
