@@ -199,9 +199,10 @@ class="icon">fullscreen_exit</span><span class="label">tela normal</span></butto
  <div id="col2-body">
 
    <div class="dropdown">
-      <button class="dropbtn"><span class="icon" title="ajustes de tipografia">more_vert</span></button>
-      <div class="dropdown-content">
+      <button onclick="menuDropdown()" class="dropbtn">⋮</button>
+      <div id="myDropdown" class="dropdown-content">
          <button class="tools" id="ti-btn" onclick="function1()" title="aumentar letra"><span class="icon">text_increase</span></button>
+         <button class="tools" id="tn-btn" onclick="function0()" title="letra normal"><span class="icon">spellcheck</span></button>
          <button class="tools" id="td-btn" onclick="function2()" title="diminuir letra"><span class="icon">text_decrease</span></button>
          <button class="tools" id="al-btn" onclick="function3()" title="texto à esquerda"><span class="icon">format_align_left</span></button>
          <button class="tools" id="aj-btn" onclick="function4()" title="texto justificado"><span class="icon">format_align_justify</span></button>
@@ -210,10 +211,12 @@ class="icon">fullscreen_exit</span><span class="label">tela normal</span></butto
          <button class="tools" id="f3-btn" onclick="function7()" title="tipo mono"><span class="icon">counter_3</span></button>
          <button class="tools" id="f4-btn" onclick="function8()" title="tipo slab"><span class="icon">counter_4</span></button>
          <button class="tools" id="ds-btn" onclick="function9()" title="entrelinhas menor"><span class="icon">density_small</span></button>
-         <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span class="icon">density_medium</span></button>
+         <button class="tools" id="dn-btn" onclick="function9a()" title="entrelinhas normal"><span class="icon">density_medium</span></button>
+         <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span class="icon">density_large</span></button>
          <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span class="icon">looks_one</span></button>
          <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span class="icon">looks_two</span></button>
          <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span class="icon">looks_3</span></button>
+         <button class="tools" id="b4-btn" onclick="function14()" title="fundo branco"><span class="icon">looks_4</span></button>
       </div>
     </div>
 
