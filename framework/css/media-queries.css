@@ -269,3 +269,8 @@
         display: table-row
     }
 }
+
+@media only screen and (display-mode: fullscreen) {
+
+    #col2-fs-btn, #col2-ns-btn, #col3-fs-btn, #col3-ns-btn {display: none;}
+  }
