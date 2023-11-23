@@ -21,7 +21,7 @@
 
 .dark-mode blockquote.grey {
     background-color: #383838;
-    border-color: #dcdcdc80
+    border-color: #59595980
 }
 
 .dark-mode blockquote em {
@@ -36,7 +36,7 @@
 }
 
 .dark-mode kbd {
-    border: 1px solid #dcdcdc80;
+    border: 1px solid #59595980;
     border-radius: 3px;
     color: #fff !important;
     padding: 3px

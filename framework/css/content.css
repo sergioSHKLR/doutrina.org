@@ -26,7 +26,7 @@ a:any-link {
 }
 
 .sidebar-heading {
-    border-bottom: 1px solid #dcdcdc80;
+    border-bottom: 1px solid #59595980;
     border-collapse: collapse;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
@@ -123,21 +123,21 @@ abbr {
 }
 
 #col2-body th {
-    border: 1px solid #dcdcdc80;
+    border: 1px solid #59595980;
     background-color: rgba(230, 230, 230, .3);
     padding: 0 10px;
     font-weight: 400;
 }
 
 #col2-body td {
-    border: 1px solid #dcdcdc80;
+    border: 1px solid #59595980;
     background-color: rgba(230, 230, 230, .1);
     padding: 0 10px;
 }
 
 #col2-body pre {
     background-color: rgba(230, 230, 230, .1);
-    border: 1px solid #dcdcdc80;
+    border: 1px solid #59595980;
     width: 100%;
     border-collapse: collapse;
 }
@@ -154,7 +154,7 @@ p.cursive {
 }
 
 kbd {
-    border: 1px solid #dcdcdc80;
+    border: 1px solid #59595980;
     border-radius: 3px;
     padding: 3px;
     vertical-align: middle;

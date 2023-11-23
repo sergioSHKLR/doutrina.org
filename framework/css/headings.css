@@ -2,7 +2,7 @@ h1,
 h2,
 h3,
 h4 {
-    border-bottom: 1px solid #dcdcdc80;
+    border-bottom: 1px solid #59595980;
     font-family: 'Roboto Slab';
     font-weight: 400;
 }
@@ -17,7 +17,7 @@ h5 {
 }
 
 h6 {
-    border-bottom: 1px solid #dcdcdc80;
+    border-bottom: 1px solid #59595980;
     margin-bottom: -15px;
     padding-top: 20px;
     margin-top: 0;

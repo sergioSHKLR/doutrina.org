@@ -16,8 +16,8 @@
 #col1-body {
     background-color: #fff;
     border-collapse: collapse;
-    border-right: 1px solid #dcdcdc80;
-    border-top: 1px solid #dcdcdc80;
+    border-right: 1px solid #59595980;
+    border-top: 1px solid #59595980;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
     font-size: 14px;
@@ -88,7 +88,7 @@
 #col2-body {
     background-color: transparent;
     border-collapse: collapse;
-    border-top: 1px solid #dcdcdc80;
+    border-top: 1px solid #59595980;
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
     font-size: 16px;
@@ -128,8 +128,8 @@
 #col3-body {
     background-color: transparent;
     border-collapse: collapse;
-    border-left: 1px solid #dcdcdc80;
-    border-top: 1px solid #dcdcdc80;
+    border-left: 1px solid #59595980;
+    border-top: 1px solid #59595980;
     box-sizing: border-box;
     color: #000;
     height: calc(100vh - (50px));
@@ -199,7 +199,7 @@ a:any-link {
 }
 
 .sidebar-heading {
-    border-bottom: 1px solid #dcdcdc80;
+    border-bottom: 1px solid #59595980;
     border-collapse: collapse;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
