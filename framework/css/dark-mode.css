@@ -13,6 +13,8 @@
     box-shadow: none;
 }
 
+.dark-mode #col1-body {background-color: #28343c;}
+
 /*
 .dark-mode blockquote.bible,
 .dark-mode blockquote.bible-multi {
