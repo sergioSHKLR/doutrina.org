@@ -1,5 +1,5 @@
 /*---------- FRAMEWORK ----------*/
-html {
+html, iframe, img {
     overflow: clip !important
 }
 
