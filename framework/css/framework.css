@@ -1,4 +1,8 @@
 /*---------- FRAMEWORK ----------*/
+html {
+    overflow: clip !important
+}
+
 #col1-head {
     background-color: transparent;
     border: none;
@@ -104,7 +108,7 @@
     scroll-behavior: smooth;
     top: 50px;
     width: calc((100vw - 273px) * .5);
-    box-shadow: inset 1px 1px 25px 6px rgba(246,238,227,1);
+    box-shadow: inset 1px 1px 25px 6px rgba(246, 238, 227, 1);
 }
 
 #col3-head {
