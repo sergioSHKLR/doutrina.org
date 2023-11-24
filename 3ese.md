@@ -355,7 +355,7 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 
 > ✝️ ▸ *Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir. Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota ou um til se omitirá da lei sem que tudo seja cumprido.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 17-18, ARC
 {:.bible-multi}
 
@@ -408,7 +408,7 @@ e acrescentando: aí estão a lei toda e os profetas. Por estas palavras:
 
 > ✝️ ▸ *O céu e a Terra não passarão sem que tudo esteja cumprido até o último iota.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
 
@@ -469,7 +469,7 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 
 > 👻 ▸ Um dia, Deus, em sua inesgotável caridade, permitiu que o homem visse a verdade varar as trevas. Esse dia foi o do advento do Cristo. Depois da luz viva, voltaram as trevas. Após alternativas de verdade e obscuridade, o mundo novamente se perdia. Então, semelhantemente aos profetas do Antigo Testamento, os Espíritos se puseram a falar e a vos advertir. O mundo está abalado em seus fundamentos; reboará o trovão. Sede firmes!
 >
-> O Espiritismo é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a Ciência, desenvolvida à custa do que é de ordem moral, mas conduzindo-vos ao bem-estar material, redundava em proveito do espírito das trevas. Como sabeis, cristãos, o coração e o amor têm de caminhar unidos à Ciência. O reino do Cristo, ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o amor o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas, que foram apanhadas desprevenidas à chegada do esposo.
+> O Espiritismo é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a Ciência, desenvolvida à custa do que é de ordem moral, mas conduzindo-vos ao bem-estar material, redundava em proveito do espírito das trevas. Como sabeis, cristãos, o coração e o amor têm de caminhar unidos à Ciência. O reino do Cristo, ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o amor o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas [📽️](./content/videos/virgens.html){:target="ext"}, que foram apanhadas desprevenidas à chegada do esposo.
 >
 > A revolução que se apresta é antes moral do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
 >
@@ -496,7 +496,7 @@ A Ciência e a Religião não puderam, até hoje, entender-se, porque, encarando
 
 > ✝️ ▸ Pilatos, tendo entrado de novo no palácio e feito vir Jesus à sua presença, perguntou-lhe: És o rei dos judeus? — Respondeu-lhe Jesus: *Meu reino não é deste mundo. Se o meu reino fosse deste mundo, a minha gente houvera combatido para impedir que eu caísse nas mãos dos judeus; mas o meu reino ainda não é aqui.*Disse-lhe então Pilatos: És, pois, rei? — Jesus lhe respondeu: *Tu o dizes; sou rei; não nasci e não vim a este mundo senão para dar testemunho da verdade. Aquele que pertence à verdade escuta a minha voz.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > João, cap. 18. vers. 33, 36-37, ARC
 {:.bible-multi}
 
@@ -572,7 +572,7 @@ O Espiritismo dilata o pensamento e lhe rasga horizontes novos. Em vez dessa vis
 
 > ✝️ ▸ Não se turbe o vosso coração. Credes em Deus, crede também em mim. Há muitas moradas na casa de meu Pai; se assim não fosse, já Eu vo-lo teria dito, pois me vou para vos preparar o lugar. Depois que me tenha ido e que vos houver preparado o lugar, voltarei e vos retirarei para mim, a fim de que onde Eu estiver, também vós aí estejais.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > João, cap. 14. vers. 1-3, ARC
 {:.bible-multi}
 
@@ -710,7 +710,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > ✝️ ▸ Jesus, tendo vindo às cercanias de Cesareia de Filipe, interrogou assim seus discípulos: *Que dizem os homens com relação ao Filho do Homem? Quem dizem que Eu sou?*— Eles lhe responderam: Dizem uns que és João Batista; outros, que Elias; outros, que Jeremias, ou algum dos profetas. — Perguntou-lhes Jesus: *E vós, quem dizeis que Eu sou?*— Simão Pedro, tomando a palavra, respondeu: Tu és o Cristo, o Filho do Deus vivo. — Replicou-lhe Jesus: *Bem-aventurado és, Simão, filho de Jonas, porque não foram a carne nem o sangue que isso te revelaram, mas meu Pai, que está nos céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/filho.html){:target="ext"}
 > Mateus, 16:13 a 17; Marcos, 8:27 a 30, ARC
 {:.bible-multi}
 
@@ -718,7 +718,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > ✝️ ▸ Nesse ínterim, Herodes, o Tetrarca, ouvira falar de tudo o que fazia Jesus e seu espírito se achava em suspenso, porque uns diziam que João Batista ressuscitara dentre os mortos; outros que aparecera Elias; e outros que um dos antigos profetas ressuscitara. Disse então Herodes: Mandei cortar a cabeça a João Batista; quem é então esse de quem ouço dizer tão grandes coisas? — E ardia por vê-lo.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Marcos, 6:14 a 16; Lucas, 9:7 a 9, ARC
 {:.bible-multi}
 
@@ -726,7 +726,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > ✝️ ▸ (Após a transfiguração.) Seus discípulos então o interrogaram desta forma: Por que dizem os escribas ser preciso que antes volte Elias? — Jesus lhes respondeu: *É verdade que Elias há de vir e restabelecer todas as coisas, mas Eu vos declaro que Elias já veio e eles não o conheceram e o trataram como lhes aprouve. É assim que farão sofrer o Filho do Homem.*— Então, seus discípulos compreenderam que fora de João Batista que Ele falara.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, 17:10 a 13; Marcos, 9:11 a 13, ARC
 {:.bible-multi}
 
@@ -753,7 +753,7 @@ A reencarnação fazia parte dos dogmas dos judeus, sob o nome de ressurreição
 > Jesus lhe observou:
 > *Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/renascer.html){:target="ext"}
 > João, cap. 3, vers. 1 a 12, ARC
 {:.bible-multi}
 
@@ -783,7 +783,7 @@ O Espírito sopra onde quer; ouves-lhe a voz, mas não sabes nem donde ele vem, 
 
 > ✝️ ▸ *Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 11, vers. 12 a 15, ARC
 {:.bible-multi}
 
@@ -797,7 +797,7 @@ E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesu
 
 > ✝️ ▸ *Aqueles do vosso povo a quem a morte foi dada viverão de novo; aqueles que estavam mortos em meio a mim ressuscitarão. Despertai do vosso sono e entoai louvores a Deus, vós que habitais no pó; porque o orvalho que cai sobre vós é um orvalho de luz e porque arruinareis a Terra e o reino dos gigantes.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Isaías, cap. 26, vers. 19, ARC
 {:.bible-multi}
 
@@ -927,7 +927,7 @@ Não poderiam os Espíritos encarnar uma única vez em determinado globo e preen
 
 > ✝️ ▸ *Bem-aventurados os que choram, pois que serão consolados. Bem-aventurados os famintos e os sequiosos de justiça, pois que serão saciados. Bem-aventurados os que sofrem perseguição pela justiça, pois que é deles o Reino dos Céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 4, 6 e 10, ARC
 {:.bible-multi}
 
@@ -935,13 +935,13 @@ Não poderiam os Espíritos encarnar uma única vez em determinado globo e preen
 
 > ✝️ ▸ *Bem-aventurados vós, que sois pobres, porque vosso é o Reino dos Céus. Bem-aventurados vós, que agora tendes fome, porque sereis saciados. Ditosos sois, vós que agora chorais, porque rireis.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 6, vers. 20 e 21, ARC
 {:.bible-multi}
 
 > ✝️ ▸ *Mas ai de vós, ricos! que tendes no mundo a vossa consolação. Ai de vós que estais saciados, porque tereis fome. Ai de vós que agora rides, porque sereis constrangidos a gemer e a chorar.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 6, vers. 24 e 25, ARC
 {:.bible-multi}
 
@@ -1320,7 +1320,7 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de Deus e te
 
 > ✝️ ▸ *Vinde a mim, todos vós que estais aflitos e sobrecarregados, que Eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração e achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 11, vers. 28 a 30, ARC
 {:.bible-multi}
 
@@ -1338,7 +1338,7 @@ Entretanto, faz depender de uma condição a sua assistência e a felicidade que
 
 > ✝️ ▸ *Se me amais, guardai os meus mandamentos; e Eu rogarei a meu Pai e Ele vos enviará outro Consolador, a fim de que fique eternamente convosco: O Espírito da Verdade, que o mundo não pode receber, porque o não vê e absolutamente o não conhece. Mas quanto a vós, conhecê-lo-eis, porque ficará convosco e estará em vós. Porém, o Consolador, que é o Santo Espírito, que meu Pai enviará em meu nome, vos ensinará todas as coisas e vos fará recordar tudo o que vos tenho dito.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > João, cap. 14, vers. 15 a 17 e 26, ARC
 {:.bible-multi}
 
@@ -1413,7 +1413,7 @@ Assim, o Espiritismo realiza o que Jesus disse do Consolador prometido: conhecim
 
 > ✝️ ▸ *Bem-aventurados os pobres de espírito, pois que deles é o Reino dos Céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 3, ARC
 {:.bible-multi}
 
@@ -1453,7 +1453,7 @@ Dizendo que o Reino dos Céus é dos simples, quis Jesus significar que a ningu�
 > Ouvindo isso, os dez outros apóstolos se encheram de indignação contra os dois irmãos. Jesus, chamando-os para perto de si, lhes disse:
 > — *Sabeis que os príncipes das nações as dominam e que os grandes as tratam com império. Assim não deve ser entre vós; ao contrário, aquele que quiser tornar-se o maior, seja vosso servo; e aquele que quiser ser o primeiro entre vós seja vosso escravo; do mesmo modo que o Filho do Homem não veio para ser servido, mas para servir e dar a vida pela redenção de muitos.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 20, vers. 20 a 28, ARC
 {:.bible-multi}
 
@@ -1462,7 +1462,7 @@ Dizendo que o Reino dos Céus é dos simples, quis Jesus significar que a ningu�
 > ✝️ ▸ Jesus entrou em dia de sábado na casa de um dos principais fariseus para aí fazer a sua refeição. Os que lá estavam o observaram. Então, notando que os convidados escolhiam os primeiros lugares, propôs-lhes uma parábola, dizendo:
 > — *Quando fordes convidados para bodas, não tomeis o primeiro lugar, para que não suceda que, havendo entre os convidados uma pessoa mais considerada do que vós, aquele que vos haja convidado venha a dizer-vos: dai o vosso lugar a este, e vos vejais constrangidos a ocupar, cheios de vergonha, o último lugar. Quando fordes convidados, ide colocar-vos no último lugar, a fim de que, quando aquele que vos convidou chegar, vos diga: meu amigo, venha mais para cima. Isso então será para vós um motivo de glória, diante de todos os que estiverem convosco à mesa; porquanto todo aquele que se eleva será rebaixado e todo aquele que se abaixa será elevado.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 14, vers. 1 e 7 a 11, ARC
 {:.bible-multi}
 
@@ -1483,7 +1483,7 @@ O Espiritismo aponta-nos outra aplicação do mesmo princípio nas encarnações
 > ✝️ ▸ Disse, então, Jesus estas palavras:
 > — *Graças te rendo, meu Pai, Senhor do céu e da Terra, por haveres ocultado estas coisas aos doutos e aos prudentes e por as teres revelado aos simples e aos pequenos.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 11, vers. 25, ARC
 {:.bible-multi}
 
@@ -1587,7 +1587,7 @@ Perguntar-se-á: não poderia Deus tocá-los pessoalmente, por meio de manifesta
 > ✝️ ▸ Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, Jesus, vendo isso, zangou-se e lhes disse:
 — *Deixai que venham a mim as criancinhas e não as impeçais, porquanto o Reino dos Céus é para os que se lhes assemelham. Digo-vos, em verdade, que aquele que não receber o Reino de Deus como uma criança, nele não entrará.*E, depois de as abraçar, abençoou-as, impondo-lhes as mãos.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/pequeninos.html){:target="ext"}
 > Marcos, cap. 10, vers. 13 a 16, ARC
 {:.bible-multi}
 
@@ -1614,7 +1614,7 @@ O Espírito, pois, enverga temporariamente a túnica da inocência e, assim, Jes
 > ✝️ ▸ Aprendestes que foi dito aos antigos:
 > — *Não cometereis adultério. Eu, porém, vos digo que aquele que houver olhado uma mulher, com mau desejo para com ela, já em seu coração cometeu adultério com ela.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 27 e 28, ARC
 {:.bible-multi}
 
@@ -1624,7 +1624,7 @@ A palavra adultério não deve absolutamente ser entendida aqui no sentido exclu
 
 > ✝️ ▸ — *Porquanto se alguém se envergonhar de mim e das minhas palavras, dentre esta raça adúltera e pecadora, o Filho do Homem também se envergonhará dele, quando vier acompanhado dos santos anjos, na glória de seu Pai.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Marcos, cap. 8, vers. 38, ARC
 {:.bible-multi}
 
@@ -1657,7 +1657,7 @@ Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso real
 > Ele, porém, respondeu:
 > — *Arrancada será toda planta que meu Pai celestial não plantou. Deixai-os, são cegos que conduzem cegos; se um cego conduz outro, caem ambos no fosso.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 15, vers. 1 a 20, ARC
 {:.bible-multi}
 
@@ -1668,7 +1668,7 @@ Em resumo, naquele que nem sequer concebe a ideia do mal, já há progresso real
 > Disse-lhe, porém, o Senhor:
 > — *Vós outros, fariseus, pondes grande cuidado em limpar o exterior do copo e do prato; entretanto, o interior dos vossos corações está cheio de rapinas e de iniquidades. Insensatos que sois! aquele que fez o exterior não é o que faz também o interior?*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 11, vers. 37 a 40, ARC
 {:.bible-multi}
 
@@ -1694,7 +1694,9 @@ Não basta se tenham as aparências da pureza; acima de tudo, é preciso ter a d
 >
 >Se a vossa mão ou o vosso pé vos é objeto de escândalo, cortai-os e lançai-os longe de vós; melhor será para vós que entreis na vida tendo um só pé ou uma só mão, do que terdes dois e serdes lançados no fogo eterno. Se o vosso olho vos é objeto de escândalo, arrancai-o e lançai-o longe de vós; melhor para vós será que entreis na vida tendo um só olho, do que terdes dois e serdes precipitados no fogo do inferno.
 >
->**Mateus, 5:29 e 30; 18:6 a 11**
+> [📽️](./content/videos/escandalo.html){:target="ext"}
+> Mateus, 5:29 e 30; 18:6 a 11
+{:.bible-multi}
 
 ###### 12
 
@@ -1782,7 +1784,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 
 > ✝️ ▸ *… bem-aventurados os mansos, porque eles herdarão a terra …*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > **Mateus, cap. 5, vers. 5, ARC**
 {:.bible-multi}
 
@@ -1790,7 +1792,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 
 > ✝️ ▸ *… bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus …*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 9, ARC
 {:.bible-multi}
 
@@ -1798,7 +1800,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 
 > ✝️ ▸ *Ouvistes que foi dito aos antigos: Não matarás; mas qualquer que matar será réu de juízo. Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão será réu de juízo, e qualquer que chamar a seu irmão de raca será réu do Sinédrio; e qualquer que lhe chamar de louco será réu do fogo do inferno.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 21-22, ARC
 {:.bible-multi}
 
@@ -1904,7 +1906,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 
 > ✝️ ▸ *… bem-aventurados os misericordiosos, porque eles alcançarão misericórdia …*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 7, ARC
 {:.bible-multi}
 
@@ -1912,7 +1914,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 
 > ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós. Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 6, vers. 14-15, ARC
 {:.bible-multi}
 
@@ -1920,7 +1922,7 @@ Por aquelas palavras quis dizer que até agora os bens da Terra são açambarcad
 
 > ✝️ ▸ *Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão. Então, Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? Jesus lhe disse: Não te digo que até sete, mas até setenta vezes sete.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/setenta.html){:target="ext"}
 > Mateus, cap. 18, vers. 15, 21-22, ARC
 {:.bible-multi}
 
@@ -1938,7 +1940,7 @@ Há, porém, duas maneiras bem diferentes de perdoar: uma, grande, nobre, verdad
 
 > ✝️ ▸ *Concilia-te depressa com o teu adversário, enquanto estás no caminho com ele, para que não aconteça que o adversário te entregue ao juiz, e o juiz te entregue ao oficial, e te encerrem na prisão. Em verdade te digo que, de maneira nenhuma, sairás dali, enquanto não pagares o último ceitil.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 25-26, ARC
 {:.bible-multi}
 
@@ -1952,7 +1954,7 @@ Na prática do perdão, como, em geral, na do bem, não há somente um efeito mo
 
 > ✝️ ▸ *Portanto, se trouxeres a tua oferta ao altar e aí te lembrares de que teu irmão tem alguma coisa contra ti, deixa ali diante do altar a tua oferta, e vai reconciliar-te primeiro com teu irmão, e depois vem, e apresenta a tua oferta.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 23-24, ARC
 {:.bible-multi}
 
@@ -1966,7 +1968,7 @@ Quando diz: “Ide reconciliar-vos com o vosso irmão, antes de depordes a vossa
 
 > ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho? Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, estando uma trave no teu? Hipócrita, tira primeiro a trave do teu olho e, então, cuidarás em tirar o argueiro do olho do teu irmão.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7, vers. 3-5, ARC
 {:.bible-multi}
 
@@ -1980,7 +1982,7 @@ Uma das insensatezes da Humanidade consiste em vermos o mal de outrem, antes de 
 
 > ✝️ ▸ *Não julgueis, para que não sejais julgados, porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos hão de medir a vós.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7, vers. 1-2, ARC
 {:.bible-multi}
 
@@ -1990,7 +1992,7 @@ Uma das insensatezes da Humanidade consiste em vermos o mal de outrem, antes de 
 >
 > E, endireitando-se Jesus e não vendo ninguém mais do que a mulher, disse-lhe: *Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?*E ela disse: Ninguém, Senhor. E disse-lhe Jesus: *Nem eu também te condeno; vai-te e não peques mais.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/peque.html){:target="ext"}
 > João, cap. 8, vers. 3-11, ARC
 {:.bible-multi}
 
@@ -2120,7 +2122,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 
 > ✝️ ▸ E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: Mestre, qual é o grande mandamento da lei? E Jesus disse-lhe: *Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. Este é o primeiro e grande mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. 40Desses dois mandamentos dependem toda a lei e os profetas.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 22, vers. 34-40, ARC
 {:.bible-multi}
 
@@ -2128,13 +2130,13 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 
 > ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7, vers. 12, ARC
 {:.bible-multi}
 
 > ✝️ ▸ *E como vós quereis que os homens vos façam, da mesma maneira fazei-lhes vós também.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 6, vers. 31, ARC
 {:.bible-multi}
 
@@ -2146,7 +2148,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > *Assim vos fará também meu Pai celestial, se do coração não perdoardes, cada um a seu irmão, as suas ofensas.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 18, vers. 23-35, ARC
 {:.bible-multi}
 
@@ -2164,7 +2166,7 @@ Não é possível que Jesus haja proibido se profligue o mal, uma vez que Ele pr
 >
 > E eles, ouvindo isso, maravilharam-se e, deixando-o, se retiraram.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/cesar.html){:target="ext"}
 > Mateus, cap. 18, vers. 23-35 & Marcos, cap. 12, vers. 13-17, ARC
 {:.bible-multi}
 
@@ -2315,13 +2317,13 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 
 > ✝️ ▸ *Ouvistes que foi dito: Amarás o teu próximo e aborrecerás o teu inimigo. Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam e orai pelos que vos maltratam e vos perseguem, para que sejais filhos do Pai que está nos céus; porque faz que o seu sol se levante sobre maus e bons e a chuva desça sobre justos e injustos. Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo? E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim?*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 43-47, ARC
 {:.bible-multi}
 
 > ✝️ ▸ *Porque vos digo que, se a vossa justiça não exceder a dos escribas e fariseus, de modo nenhum entrareis no Reino dos céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 20, ARC
 {:.bible-multi}
 
@@ -2329,7 +2331,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 
 > ✝️ ▸ *E, se amardes aos que vos amam, que recompensa tereis? Também os pecadores amam aos que os amam. E, se fizerdes bem aos que vos fazem bem, que recompensa tereis? Também os pecadores fazem o mesmo. E, se emprestardes àqueles de quem esperais tornar a receber, que recompensa tereis? Também os pecadores emprestam aos pecadores, para tornarem a receber outro tanto. Amai, pois, a vossos inimigos, e fazei o bem, e emprestai, sem nada esperardes, e será grande o vosso galardão, e sereis filhos do Altíssimo; porque ele é benigno até para com os ingratos e maus. Sede, pois, misericordiosos, como também vosso Pai é misericordioso.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 6, vers. 32-36, ARC
 {:.bible-multi}
 
@@ -2371,7 +2373,7 @@ Outrora, sacrificavam-se vítimas sangrentas para aplacar os deuses infernais, q
 
 > ✝️ ▸ *Ouvistes que foi dito: Olho por olho e dente por dente. Eu, porém, vos digo que não resistais ao mal; mas, se qualquer te bater na face direita, oferece-lhe também a outra; e ao que quiser pleitear contigo e tirar-te a vestimenta, larga-lhe também a capa; e, se qualquer te obrigar a caminhar uma milha, vai com ele duas. Dá a quem te pedir e não te desvies daquele que quiser que lhe emprestes.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5, vers. 38-42, ARC
 {:.bible-multi}
 
@@ -2479,7 +2481,7 @@ O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos hom
 
 > ✝️ ▸ *Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; aliás, não tereis galardão junto de vosso Pai, que está nos céus. Quando, pois, deres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que já receberam o seu galardão. Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a tua direita, para que a tua esmola seja dada ocultamente, e teu Pai, que vê em secreto, te recompensará publicamente.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 6, vers. 1-4, ARC
 {:.bible-multi}
 
@@ -2487,7 +2489,7 @@ O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos hom
 
 > ✝️ ▸ E, descendo ele do monte, seguiu-o uma grande multidão. E eis que veio um leproso [^14] e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo. E Jesus, estendendo a mão, tocou-o, dizendo: *Quero; sê limpo.*E logo ficou purificado da lepra. Disse-lhe, então, Jesus: *Olha, não o digas a alguém, mas vai, mostra-te ao sacerdote e apresenta a oferta que Moisés determinou, para lhes servir de testemunho.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/leproso.html){:target="ext"}
 > Mateus, cap. 8, vers. 1-4, ARC
 {:.bible-multi}
 
@@ -2521,7 +2523,7 @@ Em casa, é a mulher do mundo, porque a sua posição o exige. Ignoram, porém, 
 
 > ✝️ ▸ E, estando Jesus assentado defronte da arca do tesouro, observava a maneira como a multidão lançava o dinheiro na arca do tesouro; e muitos ricos depositavam muito. Vindo, porém, uma pobre viúva, depositou duas pequenas moedas, que valiam cinco réis. E, chamando os seus discípulos, disse-lhes: *Em verdade vos digo que esta pobre viúva depositou mais do que todos os que depositaram na arca do tesouro; porque todos ali depositaram do que lhes sobejava, mas esta, da sua pobreza, depositou tudo o que tinha, todo o seu sustento.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/viuva.html){:target="ext"}
 > Mateus, cap. 5, vers. 38-42 & Lucas, cap. 21, vers. 1-4, ARC
 {:.bible-multi}
 
@@ -2539,7 +2541,7 @@ Aqueles cuja intenção está isenta de qualquer ideia pessoal, devem consolar-s
 >
 > E, ouvindo isso um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado o que comer pão no Reino de Deus!
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 14, vers. 12-15, ARC
 {:.bible-multi}
 
@@ -2547,7 +2549,7 @@ Aqueles cuja intenção está isenta de qualquer ideia pessoal, devem consolar-s
 
 > ✝️ ▸ “Quando derdes um festim”, disse Jesus, “não convideis para ele os vossos amigos, mas os pobres e os estropiados.” Estas palavras, absurdas se tomadas ao pé da letra, são sublimes, se lhes buscarmos o espírito. Não é possível que Jesus haja pretendido que, em vez de seus amigos, alguém reúna à sua mesa os mendigos da rua. Sua linguagem era quase sempre figurada e, para os homens incapazes de apanhar os delicados matizes do pensamento, precisava servir-se de imagens fortes, que produzissem o efeito de um colorido vivo. O âmago do seu pensamento se revela nesta proposição: “E sereis ditosos por não terem eles meios de vo-lo retribuir.” Quer dizer que não se deve fazer o bem tendo em vista uma retribuição, mas tão só pelo prazer de o praticar. Usando de uma comparação vibrante, disse: Convidai para os vossos festins os pobres, pois sabeis que eles nada vos podem retribuir. Por festins deveis entender, não os repastos propriamente ditos, mas a participação na abundância de que desfrutais.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
 
@@ -2759,7 +2761,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 
 > ✝️ ▸ Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o Senhor, teu Deus, te dá.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Decálogo: Exôdo, cap. 20; vers. 12, ARC
 {:.bible-multi}
 
@@ -2789,7 +2791,7 @@ No entanto, ao verificar-se o advento de Jesus, eles já tinham mais desenvolvid
 
 > ✝️ ▸ E, falando ele ainda à multidão, eis que estavam fora sua mãe e seus irmãos, pretendendo falar-lhe. E disse-lhe alguém: Eis que estão ali fora tua mãe e teus irmãos, que querem falar-te. Porém ele, respondendo, disse ao que lhe falara: Quem é minha mãe? E quem são meus irmãos? E, estendendo a mão para os seus discípulos, disse: Eis aqui minha mãe e meus irmãos; porque qualquer que fizer a vontade de meu Pai, que está nos céus, este é meu irmão, e irmã, e mãe.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 12, vers. 46-50 & Marcos, cap. 3, vers. 20, 21, 31-35, ARC
 {:.bible-multi}
 
@@ -2871,7 +2873,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 >
 > *Então, eles também lhe responderão, dizendo: Senhor, quando te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou enfermo, ou na prisão e não te servimos? Então, lhes responderá, dizendo: Em verdade vos digo que, quando a um destes pequeninos o não fizestes, não o fizestes a mim. E irão estes para o tormento eterno, mas os justos, para a vida eterna.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/fizeste.html){:target="ext"}
 > Mateus, cap. 25; vers. 31-46, ARC
 {:.bible-multi}
 
@@ -2887,7 +2889,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 >
 > Disse, pois, Jesus: *Vai e faze da mesma maneira.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/samaritano.html){:target="ext"}
 > Lucas, cap. 10; vers. 25-37, ARC
 {:.bible-multi}
 
@@ -2905,7 +2907,7 @@ Naquele julgamento supremo, quais os considerandos da sentença? Sobre que se ba
 
 > ✝️ ▸ E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: Mestre, qual é o grande mandamento da lei? E Jesus disse-lhe: Amarás o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. Este é o primeiro e grande mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. Desses dois mandamentos dependem toda a lei e os profetas.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 22; vers. 34-40, ARC
 {:.bible-multi}
 
@@ -2921,7 +2923,7 @@ Caridade e humildade, tal a senda única da salvação. Egoísmo e orgulho, tal 
 >
 > Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/amor.html){:target="ext"}
 > 1Coríntios, cap. 13; vers. 1-7, 13, ARC
 {:.bible-multi}
 
@@ -2965,7 +2967,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 
 > ✝️ ▸ *Nenhum servo pode servir a dois senhores, porque ou há de aborrecer a um e amar ao outro ou se há de chegar a um e desprezar ao outro. Não podeis servir a Deus e a Mamom.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 16, vers. 13, ARC
 {:.bible-multi}
 
@@ -2973,7 +2975,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 
 > ✝️ ▸ E eis que, aproximando-se dele um jovem, disse-lhe: Bom Mestre, que bem farei, para conseguir a vida eterna? E ele disse-lhe: *Por que me chamas bom? Não há bom, senão um só que é Deus. Se queres, porém, entrar na vida, guarda os mandamentos.*Disse-lhe ele: Quais? E Jesus disse: *Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho; honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo.*Disse-lhe o jovem: Tudo isso tenho guardado desde a minha mocidade; que me falta ainda? Disse-lhe Jesus: *Se queres ser perfeito, vai, vende tudo o que tens, dá-o aos pobres e terás um tesouro no céu; e vem e segue-me.*E o jovem, ouvindo essa palavra, retirou-se triste, porque possuía muitas propriedades. Disse, então, Jesus aos seus discípulos: *Em verdade vos digo que é difícil entrar um rico no Reino dos céus. E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*[^15]
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/jovem-rico.html){:target="ext"}
 > Mateus cap. 19, vers. 16-24 & Lucas, cap. 18, vers. 18-25 & Marcos, cap. 10, vers. 17-25, ARC
 {:.bible-multi}
 
@@ -2987,7 +2989,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 >
 >É o que acontece àquele que acumula tesouros para si próprio e que não é rico diante de Deus.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, 12:13 a 21, ARC
 {:.bible-multi}
 
@@ -2999,7 +3001,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 >
 > E, levantando-se Zaqueu, disse ao Senhor: Senhor, eis que eu dou aos pobres metade dos meus bens; e, se em alguma coisa tenho defraudado alguém, o restituo quadruplicado. E disse-lhe Jesus: *Hoje, veio a salvação a esta casa, pois também este é filho de Abraão. Porque o Filho do Homem veio buscar e salvar o que se havia perdido.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas cap. 19, vers. 1-10, ARC
 {:.bible-multi}
 
@@ -3015,7 +3017,7 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 >
 > *E disse ele: Rogo-te, pois, ó pai, que o mandes à casa de meu pai, pois tenho cinco irmãos, para que lhes dê testemunho, a fim de que não venham também para este lugar de tormento. Disse-lhe Abraão: Eles têm Moisés e os Profetas; ouçam-nos. E disse ele: Não, Abraão, meu pai; mas, se algum dos mortos fosse ter com eles, arrepender-se-iam. Porém Abraão lhe disse: Se não ouvem a Moisés e aos Profetas, tampouco acreditarão, ainda que algum dos mortos ressuscite.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas cap. 16, vers. 19-31, ARC
 {:.bible-multi}
 
@@ -3024,6 +3026,10 @@ Fora da verdade não há salvação equivaleria ao Fora da Igreja não há salva
 ###### 06
 
 > ✝️ ▸ *Porque isto é também como um homem que, partindo para fora da terra, chamou os seus servos, e entregou-lhes os seus bens, e a um deu cinco talentos, e a outro, dois, e a outro, um, a cada um segundo a sua capacidade, e ausentou-se logo para longe. E, tendo ele partido, o que recebera cinco talentos negociou com eles e granjeou outros cinco talentos. Da mesma sorte, o que recebera dois granjeou também outros dois. Mas o que recebera um foi, e cavou na terra, e escondeu o dinheiro do seu senhor. E, muito tempo depois, veio o senhor daqueles servos e ajustou contas com eles. Então, aproximou-se o que recebera cinco talentos e trouxe-lhe outros cinco talentos, dizendo: Senhor, entregaste-me cinco talentos; eis aqui outros cinco talentos que ganhei com eles. E o seu senhor lhe disse: Bem está, servo bom e fiel. Sobre o pouco foste fiel, sobre muito te colocarei; entra no gozo do teu senhor. E, chegando também o que tinha recebido dois talentos, disse: Senhor, entregaste-me dois talentos; eis que com eles ganhei outros dois talentos. Disse-lhe o seu senhor: Bem está, bom e fiel servo. Sobre o pouco foste fiel, sobre muito te colocarei; entra no gozo do teu senhor. Mas, chegando também o que recebera um talento disse: Senhor, eu conhecia-te, que és um homem duro, que ceifas onde não semeaste e ajuntas onde não espalhaste; e, atemorizado, escondi na terra o teu talento; aqui tens o que é teu. Respondendo, porém, o seu senhor, disse-lhe: Mau e negligente servo; sabes que ceifo onde não semeei e ajunto onde não espalhei; devias, então, ter dado o meu dinheiro aos banqueiros, e, quando eu viesse, receberia o que é meu com os juros. Tirai-lhe, pois, o talento e dai-o ao que tem os dez talentos. Porque a qualquer que tiver será dado, e terá em abundância; mas ao que não tiver, até o que tem ser-lhe-á tirado. Lançai, pois, o servo inútil nas trevas exteriores; ali, haverá pranto e ranger de dentes.*
+>
+> [📽️](./content/videos/talentos.html){:target="ext"}
+> Mateus, cap. 25, vers. 14-30, ARC
+{:.bible-multi}
 
 #### Utilidade providencial da riqueza. Provas da riqueza e da miséria
 
@@ -3163,7 +3169,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que Deus l
 
 > ✝️ ▸ *Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam e orai pelos que vos maltratam e vos perseguem … Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo? E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim? Sede vós, pois, perfeitos, como é perfeito o vosso Pai, que está nos céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus cap. 5, vers. 44, 46-48, ARC
 {:.bible-multi}
 
@@ -3239,13 +3245,13 @@ Aquele que pode ser, com razão, qualificado de espírita verdadeiro e sincero, 
 
 > ✝️ ▸ Tendo Jesus saído de casa naquele dia, estava assentado junto ao mar. E ajuntou-se muita gente ao pé dele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia. E falou-lhe de muitas coisas por parábolas, dizendo: *Eis que o semeador saiu a semear. E, quando semeava, uma parte da semente caiu ao pé do caminho, e vieram as aves e comeram-na; e outra parte caiu em pedregais, onde não havia terra bastante, e logo nasceu, porque não tinha terra funda. Mas, vindo o sol, queimou-se e secou-se, porque não tinha raiz. E outra caiu entre espinhos, e os espinhos cresceram e sufocaram-na. E outra caiu em boa terra e deu fruto: um, a cem, outro, a sessenta, e outro, a trinta. Quem tem ouvidos para ouvir, que ouça.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/semeador.html){:target="ext"}
 > Mateus cap. 13, vers. 1-9, ARC
 {:.bible-multi}
 
 > ✝️ ▸ *Escutai vós, pois, a parábola do semeador. Ouvindo alguém a palavra do Reino e não a entendendo, vem o maligno e arrebata o que foi semeado no seu coração; este é o que foi semeado ao pé do caminho; porém o que foi semeado em pedregais é o que ouve a palavra e logo a recebe com alegria; mas não tem raiz em si mesmo; antes, é de pouca duração; e, chegada a angústia e a perseguição por causa da palavra, logo se ofende; e o que foi semeado entre espinhos é o que ouve a palavra, mas os cuidados deste mundo e a sedução das riquezas sufocam a palavra, e fica infrutífera; mas o que foi semeado em boa terra é o que ouve e compreende a palavra; e dá fruto, e um produz cem, outro, sessenta, e outro, trinta.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/semeador.html){:target="ext"}
 > Mateus cap. 13, vers. 18-23, ARC
 {:.bible-multi}
 
@@ -3363,7 +3369,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 >
 > *E o rei, entrando para ver os convidados, viu ali um homem que não estava trajado com veste nupcial. E disse-lhe: Amigo, como entraste aqui, não tendo veste nupcial? E ele emudeceu. Disse, então, o rei aos servos: Amarrai-o de pés e mãos, levai-o e lançai-o nas trevas exteriores; ali, haverá pranto e ranger de dentes. Porque muitos são chamados, mas poucos, escolhidos.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus cap. 22, vers. 1-14, ARC
 {:.bible-multi}
 
@@ -3389,7 +3395,7 @@ No entanto, não basta a ninguém ser convidado; não basta dizer-se cristão, n
 
 > ✝️ ▸ *Entrai pela porta estreita, porque larga é a porta, e espaçoso, o caminho que conduz à perdição, e muitos são os que entram por ela; E porque estreita é a porta, e apertado, o caminho que leva à vida, e poucos há que a encontrem.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7 vers. 13-14, ARC
 {:.bible-multi}
 
@@ -3397,7 +3403,7 @@ No entanto, não basta a ninguém ser convidado; não basta dizer-se cristão, n
 
 > ✝️ ▸ E disse-lhe um: Senhor, são poucos os que se salvam? E ele lhe respondeu: *Porfiai por entrar pela porta estreita, porque eu vos digo que muitos procurarão entrar e não poderão. Quando o pai de família se levantar e cerrar a porta, e começardes a estar de fora e a bater à porta, dizendo: Senhor, Senhor, abre-nos; e, respondendo ele, vos disser: Não sei de onde vós sois, então, começareis a dizer: Temos comido e bebido na tua presença, e tu tens ensinado nas nossas ruas. E ele vos responderá: Digo-vos que não sei de onde vós sois; apartai-vos de mim, vós todos os que praticais a iniquidade. Ali, haverá choro e ranger de dentes, quando virdes Abraão, e Isaque, e Jacó, e todos os profetas no Reino de Deus e vós, lançados fora. E virão do Oriente, e do Ocidente, e do Norte, e do Sul e assentar-se-ão à mesa no Reino de Deus. E eis que derradeiros há que serão os primeiros; e primeiros há que serão os derradeiros.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 13 vers. 23-30, ARC
 {:.bible-multi}
 
@@ -3415,7 +3421,7 @@ Todavia, de que delitos esta Humanidade se houvera feito culpada para merecer t�
 
 > ✝️ ▸ *Nem todo o que me diz: Senhor, Senhor! entrará no Reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus. Muitos me dirão naquele Dia: Senhor, Senhor, não profetizamos nós em teu nome? E, em teu nome, não expulsamos demônios? E, em teu nome, não fizemos muitas maravilhas? E, então, lhes direi abertamente: Nunca vos conheci; apartai-vos de mim, vós que praticais a iniquidade.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7 vers. 21-23, ARC
 {:.bible-multi}
 
@@ -3423,7 +3429,7 @@ Todavia, de que delitos esta Humanidade se houvera feito culpada para merecer t�
 
 > ✝️ ▸ *Todo aquele, pois, que escuta estas minhas palavras e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha. E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e não caiu, porque estava edificada sobre a rocha. E aquele que ouve estas minhas palavras e as não cumpre, compará-lo-ei ao homem insensato, que edificou a sua casa sobre a areia. E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e caiu, e foi grande a sua queda.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7 vers. 21-23 & Lucas, cap. 6; vers. 46-49, ARC
 {:.bible-multi}
 
@@ -3431,7 +3437,7 @@ Todavia, de que delitos esta Humanidade se houvera feito culpada para merecer t�
 
 > ✝️ ▸ *Qualquer, pois, que violar um destes menores mandamentos e assim ensinar aos homens será chamado o menor no Reino dos céus; aquele, porém, que os cumprir e ensinar será chamado grande no Reino dos céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 5 vers. 19, ARC
 {:.bible-multi}
 
@@ -3447,7 +3453,7 @@ São eternas as palavras de Jesus, porque são a verdade. Constituem não só a 
 
 > ✝️ ▸ *E o servo que soube a vontade do seu senhor e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites. Mas o que a não soube e fez coisas dignas de açoites com poucos açoites será castigado. E a qualquer que muito for dado, muito se lhe pedirá, e ao que muito se lhe confiou, muito mais se lhe pedirá.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 12, vers. 47-48, ARC
 {:.bible-multi}
 
@@ -3455,7 +3461,7 @@ São eternas as palavras de Jesus, porque são a verdade. Constituem não só a 
 
 > ✝️ ▸ *E disse-lhe Jesus: Eu vim a este mundo para juízo, a fim de que os que não veem vejam e os que veem sejam cegos. Aqueles dos fariseus que estavam com ele, ouvindo isso, disseram-lhe: Também nós somos cegos? Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas como agora dizeis: Vemos, por isso, o vosso pecado permanece.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > João, cap. 9, vers. 39-41, ARC
 {:.bible-multi}
 
@@ -3483,7 +3489,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 
 > ✝️ ▸ E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? Ele, respondendo, disse-lhes: *Porque a vós é dado conhecer os mistérios do Reino dos céus, mas a eles não lhes é dado; porque àquele que tem se dará, e terá em abundância; mas aquele que não tem, até aquilo que tem lhe será tirado. Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem. E neles se cumpre a profecia de Isaías, que diz: Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/parabolas.html){:target="ext"}
 > Mateus, cap. 13, vers. 10-14, ARC
 {:.bible-multi}
 
@@ -3491,7 +3497,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 
 > ✝️ ▸ E disse-lhes: *Atendei ao que ides ouvir. Com a medida com que medirdes vos medirão a vós, e ser-vos-á ainda acrescentada. Porque ao que tem, ser-lhe-á dado; e, ao que não tem, até o que tem lhe será tirado.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Marcos, cap. 4, vers. 24-25, ARC
 {:.bible-multi}
 
@@ -3540,7 +3546,7 @@ O Espiritismo vem multiplicar o número dos chamados. Pela fé que faculta, mult
 
 > ✝️ ▸ E, quando chegaram à multidão, aproximou-se-lhe um homem, pondo-se de joelhos diante dele e dizendo: Senhor, tem misericórdia de meu filho, que é lunático e sofre muito; pois muitas vezes cai no fogo e, muitas vezes, na água; e trouxe-o aos teus discípulos e não puderam curá-lo. E Jesus, respondendo, disse: *Ó geração incrédula e perversa! Até quando estarei eu convosco e até quando vos sofrerei? Trazei-mo aqui.*E repreendeu Jesus o demônio, que saiu dele; e, desde aquela hora, o menino sarou. Então, os discípulos, aproximando-se de Jesus em particular, disseram: Porque não pudemos nós expulsá-lo? E Jesus lhes disse: *Por causa da vossa pequena fé; porque em verdade vos digo que, se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá — e há de passar; e nada vos será impossível.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 17, vers. 14-20, ARC
 {:.bible-multi}
 
@@ -3586,7 +3592,7 @@ A esse resultado conduz o Espiritismo, pelo que triunfa da incredulidade, sempre
 >
 > E eles, passando pela manhã, viram que a figueira se tinha secado desde as raízes. E Pedro, lembrando-se, disse-lhe: Mestre, eis que a figueira que tu amaldiçoaste se secou. E Jesus, respondendo, disse-lhes: *Tende fé em Deus, porque em verdade vos digo que qualquer que disser a este monte: Ergue-te e lança-te no mar, e não duvidar em seu coração, mas crer que se fará aquilo que diz, tudo o que disser lhe será feito.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Marcos, cap. 11, vers. 12-14 e 20-23, ARC
 {:.bible-multi}
 
@@ -3651,7 +3657,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 >
 > *Mas ele, respondendo, disse a um deles: Amigo, não te faço injustiça; não ajustaste tu comigo um dinheiro? Toma o que é teu e retira-te; eu quero dar a este derradeiro tanto como a ti. Ou não me é lícito fazer o que quiser do que é meu? Ou é mau o teu olho porque eu sou bom? Assim, os derradeiros serão primeiros, e os primeiros, derradeiros, porque muitos são chamados, mas poucos, escolhidos.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/vinha.html){:target="ext"}
 > Mateus, cap. 20, vers. 1-16, ARC Ver também: “Parábola do Festim das Bodas”, cap. XVIII, item 1.)
 {:.bible-multi}
 
@@ -3744,7 +3750,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 > ✝️ ▸ *Porque não há boa árvore que dê mau fruto, nem má árvore que dê bom fruto. Porque cada árvore se conhece pelo seu próprio fruto; pois não se colhem figos dos espinheiros, nem se vindimam uvas dos abrolhos. O homem bom, do bom tesouro do seu coração, tira o bem, e o homem mau, do mau tesouro do seu coração, tira o mal, porque da abundância do seu coração fala a boca.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 6, vers. 43-45, ARC
 {:.bible-multi}
 
@@ -3752,7 +3758,7 @@ Os médiuns são os intérpretes dos Espíritos; suprem, nestes últimos, a falt
 
 > ✝️ ▸ *Acautelai-vos, porém, dos falsos profetas, que vêm até vós vestidos como ovelhas, mas interiormente são lobos devoradores. Por seus frutos os conhecereis. Porventura, colhem-se uvas dos espinheiros ou figos dos abrolhos? Assim, toda árvore boa produz bons frutos, e toda árvore má produz frutos maus. Não pode a árvore boa dar maus frutos, nem a árvore má dar frutos bons. Toda árvore que não dá bom fruto corta-se e lança-se no fogo. Portanto, pelos seus frutos os conhecereis.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 7, vers. 15-20, ARC
 {:.bible-multi}
 
@@ -3783,7 +3789,7 @@ Para o vulgo ignorante, todo fenômeno cuja causa é desconhecida passa por sobr
 
 > ✝️ ▸ Amados, não creiais em todo espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > 1João, cap. 4, vers. 1, ARC
 {:.bible-multi}
 
@@ -3868,7 +3874,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 >
 > Não mandei os profetas; todavia, eles foram correndo; não lhes falei a eles; todavia, eles profetizaram. Tenho ouvido o que dizem aqueles profetas, profetizando mentiras em meu nome, dizendo: Sonhei! Sonhei! Até quando sucederá isso no coração dos profetas que profetizam mentiras e que são só profetas do engano do seu coração? Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo: Qual é o peso do Senhor?, então, lhe dirás: Vós sois o peso, eu vos deixarei, diz o Senhor.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Jeremias, cap. 23, vers. 16-18, 21, 25-26, 33, ARC
 {:.bible-multi}
 
@@ -3890,7 +3896,7 @@ O Espiritismo revela outra categoria bem mais perigosa de falsos cristos e de fa
 
 > ✝️ ▸ Então, chegaram ao pé dele os fariseus, tentando-o e dizendo-lhe: É lícito ao homem repudiar sua mulher por qualquer motivo? Ele, porém, respondendo, disse-lhes: *Não tendes lido que, no princípio, o Criador os fez macho e fêmea e disse: Portanto, deixará o homem pai e mãe e se unirá à sua mulher, e serão dois numa só carne? Assim não são mais dois, mas uma só carne. Portanto, o que Deus ajuntou não separe o homem.*Disseram-lhe eles: Então, por que mandou Moisés dar-lhe carta de divórcio e repudiá-la? Disse-lhes ele: *Moisés, por causa da dureza do vosso coração, vos permitiu repudiar vossa mulher; mas, ao princípio, não foi assim. Eu vos digo, porém, que qualquer que repudiar sua mulher, não sendo por causa de prostituição, e casar com outra, comete adultério; e o que casar com a repudiada também comete adultério.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 19, vers. 3-9, ARC
 {:.bible-multi}
 
@@ -3927,7 +3933,7 @@ Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério
 
 > ✝️ ▸ Ora, ia com ele uma grande multidão; e, voltando-se, disse-lhe: *Se alguém vier a mim e não aborrecer a seu pai, e mãe, e mulher, e filhos, e irmãos, e irmãs, e ainda também a sua própria vida, não pode ser meu discípulo. E qualquer que não levar a sua cruz e não vier após mim não pode ser meu discípulo. Assim, pois, qualquer de vós que não renuncia a tudo quanto tem não pode ser meu discípulo.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 14, vers. 25-27, 33, ARC
 {:.bible-multi}
 
@@ -3935,7 +3941,7 @@ Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério
 
 > ✝️ ▸ *Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 37, ARC
 {:.bible-multi}
 
@@ -3964,7 +3970,7 @@ Estas notas encontram aplicação especial na interpretação das Santas Escritu
 
 > ✝️ ▸ E disse Pedro: Eis que nós deixamos tudo e te seguimos. E ele lhes disse: *Na verdade vos digo que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos pelo Reino de Deus e não haja de receber muito mais neste mundo e, na idade vindoura, a vida eterna.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 18, vers. 28-30, ARC
 {:.bible-multi}
 
@@ -3972,7 +3978,7 @@ Estas notas encontram aplicação especial na interpretação das Santas Escritu
 
 > ✝️ ▸ Disse também outro: Senhor, eu te seguirei, mas deixa-me despedir primeiro dos que estão em minha casa. E Jesus lhe disse: *Ninguém que lança mão do arado e olha para trás é apto para o Reino de Deus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 9, vers. 61-62, ARC
 {:.bible-multi}
 
@@ -3988,7 +3994,7 @@ Aqui, as coisas são consideradas apenas do ponto de vista terreno. O Espiritism
 
 > ✝️ ▸ E disse a outro: *Segue-me.*Mas ele respondeu: Senhor, deixa que primeiro eu vá enterrar meu pai. Mas Jesus lhe observou: *Deixa aos mortos o enterrar os seus mortos; porém tu, vai e anuncia o Reino de Deus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 9, vers. 59-60, ARC
 {:.bible-multi}
 
@@ -4004,7 +4010,7 @@ A vida espiritual é, com efeito, a verdadeira vida, é a vida normal do Espíri
 
 > ✝️ ▸ *Não cuideis que vim trazer a paz à terra; não vim trazer paz, mas espada; porque eu vim pôr em dissensão o homem contra seu pai, e a filha contra sua mãe, e a nora contra sua sogra. E, assim, os inimigos do homem serão os seus familiares.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 34-36, ARC
 {:.bible-multi}
 
@@ -4012,7 +4018,7 @@ A vida espiritual é, com efeito, a verdadeira vida, é a vida normal do Espíri
 
 > ✝️ ▸ *Vim lançar fogo na terra e que mais quero, se já está aceso? Importa, porém, que eu seja batizado com um certo batismo, e como me angustio até que venha a cumprir-se! Cuidais vós que vim trazer paz à terra? Não, vos digo, mas, antes, dissensão. Porque, daqui em diante, estarão cinco divididos numa casa: três contra dois, e dois contra três. O pai estará dividido contra o filho, e o filho, contra o pai, a mãe, contra a filha, e a filha, contra a mãe, a sogra, contra sua nora, e a nora, contra sua sogra.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 12, vers. 49-53, ARC
 {:.bible-multi}
 
@@ -4074,7 +4080,7 @@ Essas palavras de Jesus devem, pois, entender-se com referência às cóleras qu
 >
 > ✝️ ▸ *E ninguém, acendendo uma candeia, a cobre com algum vaso ou a põe debaixo da cama; mas põe-na no velador, para que os que entram vejam a luz. Porque não há coisa oculta que não haja de manifestar-se, nem escondida que não haja de saber-se e vir à luz.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 8, vers. 16-17, ARC
 {:.bible-multi}
 
@@ -4082,7 +4088,7 @@ Essas palavras de Jesus devem, pois, entender-se com referência às cóleras qu
 
 > ✝️ ▸ E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? Ele, respondendo, disse-lhes: *Porque a vós é dado conhecer os mistérios do Reino dos céus, mas a eles não lhes é dado; porque àquele que tem se dará, e terá em abundância; mas aquele que não tem, até aquilo que tem lhe será tirado [^23]. Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem. E neles se cumpre a profecia de Isaías, que diz: Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis. Porque o coração deste povo está endurecido, e ouviu de mau grado com seus ouvidos e fechou os olhos, para que não veja com os olhos, e ouça com os ouvidos, e compreenda com o coração, e se converta, e eu o cure.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 13, vers. 10-15, ARC
 {:.bible-multi}
 
@@ -4114,7 +4120,7 @@ O Espiritismo, hoje, projeta luz sobre uma imensidade de pontos obscuros; não a
 
 >✝️ ▸ Jesus enviou estes doze e lhes ordenou, dizendo: *Não ireis pelo caminho das gentes, nem entrareis em cidade de samaritanos; mas ide, antes, às ovelhas perdidas da casa de Israel; e, indo, pregai, dizendo: É chegado o Reino dos céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 5-7, ARC
 {:.bible-multi}
 
@@ -4134,7 +4140,7 @@ Na época de Jesus e em consequência das ideias acanhadas e materiais então em
 
 >✝️ ▸ E aconteceu que, estando ele em casa sentado à mesa, chegaram muitos publicanos e pecadores e sentaram-se juntamente com Jesus e seus discípulos. E os fariseus, vendo isso, disseram aos seus discípulos: Por que come o vosso Mestre com os publicanos e pecadores? Jesus, porém, ouvindo, disse-lhes: *Não necessitam de médico os sãos, mas sim, os doentes.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 9, vers. 10-12, ARC
 {:.bible-multi}
 
@@ -4156,7 +4162,7 @@ A mediunidade não implica necessariamente relações habituais com os Espírito
 
 >✝️ ▸ *Portanto, qualquer que me confessar diante dos homens, eu o confessarei diante de meu Pai, que está nos céus. Mas qualquer que me negar diante dos homens, eu o negarei também diante de meu Pai, que está nos céus.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 32-33, ARC
 {:.bible-multi}
 
@@ -4164,7 +4170,7 @@ A mediunidade não implica necessariamente relações habituais com os Espírito
 
 >✝️ ▸ *Porque qualquer que de mim e das minhas palavras se envergonhar, dele se envergonhará o Filho do Homem, quando vier na sua glória e na do Pai e dos santos anjos.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 9, vers. 26, ARC
 {:.bible-multi}
 
@@ -4184,7 +4190,7 @@ Assim será com os adeptos do Espiritismo. Pois que a doutrina que professam mai
 
 >✝️ ▸ *Bem-aventurados sereis quando os homens vos aborrecerem, e quando vos separarem, e vos injuriarem, e rejeitarem o vosso nome como mau, por causa do Filho do Homem. 23Folgai nesse dia, exultai, porque é grande o vosso galardão no céu, pois assim faziam os seus pais aos profetas.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, &nbsp;cap. 06, vers. 22-23, ARC
 {:.bible-multi}
 
@@ -4192,7 +4198,7 @@ Assim será com os adeptos do Espiritismo. Pois que a doutrina que professam mai
 
 >✝️ ▸ *E quem não toma a sua cruz e não segue após mim não é digno de mim. Quem achar a sua vida perdê-la-á; e quem perder a sua vida por amor de mim achá-la-á.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 38-39, ARC
 {:.bible-multi}
 > Marcos, cap. 08, vers. 34-36, ARC
@@ -4217,7 +4223,7 @@ Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, 
 
 >✝️ ▸ *Pedi, e dar-se-vos-á; buscai e encontrareis; batei, e abrir-se-vos-á. 8Porque aquele que pede recebe; e o que busca encontra; e, ao que bate, se abre. 9E qual dentre vós é o homem que, pedindo-lhe pão o seu filho, lhe dará uma pedra? 10E, pedindo-lhe peixe, lhe dará uma serpente? 11Se, vós, pois, sendo maus, sabeis dar boas coisas aos vossos filhos, quanto mais vosso Pai, que está nos céus, dará bens aos que lhe pedirem?*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 07, vers. 38-39, ARC
 {:.bible-multi}
 
@@ -4259,7 +4265,7 @@ Tal o sentido das palavras: buscai e achareis; batei e abrir-se-vos-á.
 >
 >*Mas buscai primeiro o Reino de Deus, e a sua justiça, e todas essas coisas vos serão acrescentadas. Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+> [📽️](./content/videos/reino.html){:target="ext"}
 > Mateus, cap. 06, vers. 19-21, 25-34, ARC
 {:.bible-multi}
 
@@ -4287,7 +4293,7 @@ A caridade e a fraternidade não se decretam em leis. Se uma e outra não estive
 
 >*E, em qualquer cidade ou aldeia em que entrardes, procurai saber quem nela seja digno e hospedai-vos aí até que vos retireis. E, quando entrardes nalguma casa, saudai-a; e, se a casa for digna, desça sobre ela a vossa paz; mas, se não for digna, torne para vós a vossa paz. E, se ninguém vos receber, nem escutar as vossas palavras, saindo daquela casa ou cidade, sacudi o pó dos vossos pés. Em verdade vos digo que, no Dia do Juízo, haverá menos rigor para o país de Sodoma e Gomorra do que para aquela cidade.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 09-15 ARC
 {:.bible-multi}
 
@@ -4310,7 +4316,7 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 
 >✝️ ▸ *Curai os enfermos, limpai os leprosos, ressuscitai os mortos, expulsai os demônios; de graça recebestes, de graça dai.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 09-15 ARC
 {:.bible-multi}
 
@@ -4324,7 +4330,7 @@ O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciên
 
 >✝️ ▸ *Ai de vós, escribas e fariseus, hipócritas! Pois que devorais as casas das viúvas, sob pretexto de prolongadas orações; por isso, sofrereis mais rigoroso juízo.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 23, vers. 14 ARC
 {:.bible-multi}
 
@@ -4348,7 +4354,7 @@ Ainda outro inconveniente apresentam as preces pagas: é que aquele que as compr
 
 >✝️ ▸ E entrou Jesus no templo de Deus, e expulsou todos os que vendiam e compravam no templo, e derribou as mesas dos cambistas e as cadeiras dos que vendiam pombas. E disse-lhes: *Está escrito: A minha casa será chamada casa de oração. Mas vós a tendes convertido em covil de ladrões.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 21, vers. 12-13, ARC
 {:.bible-multi}
 
@@ -4400,7 +4406,7 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 >
 >E, orando, não useis de vãs repetições, como os gentios, que pensam que, por muito falarem, serão ouvidos. 8Não vos assemelheis, pois, a eles, porque vosso Pai sabe o que vos é necessário antes de vós lho pedirdes.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 06, vers. 05-08, ARC
 {:.bible-multi}
 
@@ -4408,7 +4414,7 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 
 >✝️ ▸ E, quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que vosso Pai, que está nos céus, vos perdoe as vossas ofensas. 26Mas, se vós não perdoardes, também vosso Pai, que está nos céus, vos não perdoará as vossas ofensas.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Marcos, cap. 11, vers. 25-26, ARC
 {:.bible-multi}
 
@@ -4416,7 +4422,7 @@ Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos
 
 >✝️ ▸ E disse também esta parábola a uns que confiavam em si mesmos, crendo que eram justos, e desprezavam os outros: 10Dois homens subiram ao templo, a orar; um, fariseu, e o outro, publicano. 11O fariseu, estando em pé, orava consigo desta maneira: Ó Deus, graças te dou, porque não sou como os demais homens, roubadores, injustos e adúlteros; nem ainda como este publicano. 12Jejuo duas vezes na semana e dou os dízimos de tudo quanto possuo. 13O publicano, porém, estando em pé, de longe, nem ainda queria levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, tem misericórdia de mim, pecador! 14Digo-vos que este desceu justificado para sua casa, e não aquele;
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Lucas, cap. 18, vers. 09-14, ARC
 {:.bible-multi}
 
@@ -4430,7 +4436,7 @@ Jesus definiu claramente as qualidades da prece. Quando orardes, diz Ele, não v
 
 >✝️ ▸ Por isso, vos digo que tudo o que pedirdes, orando, crede que o recebereis e tê-lo-eis.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Marcos, cap. 11, vers. 24, ARC
 {:.bible-multi}
 
@@ -4502,7 +4508,7 @@ Está no pensamento o poder da prece, que por nada depende nem das palavras, nem
 
 >✝️ ▸ Mas, se eu ignorar o sentido da voz, serei bárbaro para aquele a quem falo, e o que fala será bárbaro para mim. Porque, se eu orar em língua estranha, o meu espírito ora bem, mas o meu entendimento fica sem fruto. Doutra maneira, se tu bendisseres com o espírito, como dirá o que ocupa o lugar de indouto o Amém sobre a tua ação de graças, visto que não sabe o que dizes? 17Porque realmente tu dás bem as graças, mas o outro não é edificado.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > 1Coríntios, cap. 14, vers. 11, 14, 16-17, ARC
 {:.bible-multi}
 
@@ -4632,7 +4638,7 @@ Para preencher o que de vago a concisão desta prece deixa na mente, a cada uma 
 
 >1\. *Pai nosso, que estás no céu, santificado seja o teu nome!*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
 
@@ -4723,7 +4729,7 @@ Nota – Aqui, podem formular-se os agradecimentos que se queiram dirigir a Deus
 
 >*Porque onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 18, vers. 20, ARC
 {:.bible-multi}
 
@@ -4767,7 +4773,7 @@ próximo.
 
 > E nos últimos dias acontecerá, diz Deus, que do meu Espírito derramarei sobre toda a carne; e os vossos filhos e as vossas filhas profetizarão, os vossos jovens terão visões, e os vossos velhos sonharão sonhos; e também do meu Espírito derramarei sobre os meus servos e minhas servas, naqueles dias, e profetizarão;
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Atos, cap. 2, vers. 17-18, ARC [^25]
 {:.bible-multi}
 
@@ -4855,7 +4861,7 @@ que a vossa bondosa influência nos penetre a alma; fazei sintamos que um amigo 
 
 >*Ai de vós, escribas e fariseus, hipócritas! Pois que limpais o exterior do copo e do prato, mas o interior está cheio de rapina e de iniquidade. Fariseu cego! Limpa primeiro o interior do copo e do prato, para que também o exterior fique limpo. Ai de vós, escribas e fariseus, hipócritas! Pois que sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda imundícia. Assim, também vós exteriormente pareceis justos aos homens, mas interiormente estais cheios de hipocrisia e de iniquidade.*
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 23, vers. 25-28, ARC
 {:.bible-multi}
 
@@ -5140,13 +5146,13 @@ Não desejar mal aos seus inimigos é ser apenas meio caridoso. A verdadeira car
 >
 > Bem-aventurados sois vós quando vos injuriarem, e perseguirem, e, mentindo, disserem todo o mal contra vós, por minha causa. Exultai e alegrai-vos, porque é grande o vosso galardão nos céus; porque assim perseguiram os profetas que foram antes de vós.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 05, vers. 06, 10-12, ARC
 {:.bible-multi}
 
 > E não temais os que matam o corpo e não podem matar a alma; temei, antes, aquele que pode fazer perecer no inferno a alma e o corpo.
 >
-> [📽️](./content/videos/video-alt.html){:target="ext"}
+<!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
 > Mateus, cap. 10, vers. 28, ARC
 {:.bible-multi}
 
