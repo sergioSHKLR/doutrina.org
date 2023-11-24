@@ -1,0 +1,181 @@
+
+
+button {
+    background-color: transparent;
+    border: none;
+    border-collapse: collapse;
+    border-radius: 50%;
+    box-sizing: border-box;
+    color: currentColor;
+    cursor: pointer;
+    font-size: 24px;
+    justify-content: center;
+    margin-left: 10px;
+    outline: 0;
+    padding: 6px 5px 0 0;
+    text-align: center
+}
+
+a:any-link {
+    outline: 0
+}
+
+.label {
+    font-size: 12px;
+    left: 5px;
+    position: relative;
+    top: -9px
+}
+
+.sidebar-heading {
+    border-bottom: 1px solid #dcdcdc80;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    width: 70%
+}
+
+.icon {
+    font-family: 'Material Symbols Outlined';
+    padding: 0 2px;
+}
+
+.icon:hover {
+    outline: 3px solid orange;
+    border-radius: 50%;
+}
+
+.fr {
+    float: right
+}
+
+.hide {
+    display: none
+}
+
+.show {
+    display: block
+}
+
+#col1-head a:any-link,
+#col1-body a:any-link,
+#col2-head a:any-link,
+#col3-head a:any-link {
+    color: currentColor;
+    text-decoration: none;
+}
+
+#col2-body a:any-link {
+    text-decoration: none;
+    color: #3366cc;
+}
+
+#col2-body a:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: #3366cc99;
+}
+
+em {
+    color: currentColor;
+    font-style: italic
+}
+
+p.cursive {
+    font-family: 'Zeyada';
+    font-size: 60px;
+    margin-top: -20px
+}
+
+kbd {
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    padding: 3px 3px 2px 3px;
+    vertical-align: middle;
+    white-space: nowrap;
+    background-color: #f1f1f166;
+    color: currentColor;
+    font-family: 'Inter';
+    font-size: 14px;
+}
+
+abbr {
+    text-underline-offset: 2px;
+}
+
+/*---------- COL2-BODY ----------*/
+#col2-body img {
+    width: 100%;
+}
+
+#col2-body {
+    line-height: 1.7;
+}
+
+
+.center {
+    text-align: center;
+}
+
+#col2-body table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#col2-body th {
+    border: 1px solid #dcdcdc80;
+    background-color: rgba(230, 230, 230, .3);
+    padding: 0 10px;
+    font-weight: 400;
+}
+
+#col2-body td {
+    border: 1px solid #dcdcdc80;
+    background-color: rgba(230, 230, 230, .1);
+    padding: 0 10px;
+}
+
+#col2-body pre {
+    background-color: rgba(230, 230, 230, .1);
+    border: 1px solid #dcdcdc80;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+
+em {
+    color: currentColor;
+    font-style: italic
+}
+
+p.cursive {
+    font-family: 'Zeyada' !;
+    font-size: 60px;
+    margin-top: -20px
+}
+
+kbd {
+    border: 1px solid #dcdcdc80;
+    border-radius: 3px;
+    padding: 3px;
+    vertical-align: middle;
+    white-space: nowrap;
+    background-color: rgba(128, 128, 128, .1);
+}
+
+abbr {
+    text-underline-offset: 2px;
+}
+
+.author,
+strong {
+    font-weight: 400;
+}
+
+.ff-mono {
+    font-family: 'Roboto Mono';
+}
+

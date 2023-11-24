@@ -1,9 +1,9 @@
 ---
 title: ✒️ O Livro dos Médiuns
-layout: template-2ldm
+layout: 2-ldm
 ---
 
-*[LDE]: O Livro dos Espíritos
+*[LDE]: **O Livro dos Espíritos**
 *[LDM]: O Livro dos Médiuns
 *[ESE]: O Evangelho segundo o Espiritismo
 *[CEU]: O Céu e o Inferno
@@ -20,27 +20,27 @@ layout: template-2ldm
 
 ## 0. 🗃️ Pré-textual
 
-### 0-01. 🗂️ 
+### 0-01. 📄 Folha de rosto {#ldm-0-01} 
 
-|  |
-|:---:|
-Espiritismo Experimental |
-|  |
-| ✒️ [O Livro dos Médiuns](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){:target="ext"} |
-|  |
-| Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}. |
-|  |
-| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
-|  |
-| Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}
-|  | |
-| Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){:target="_blank"} |
-|  |
-| Modificado para o consumo digital por Sergio de |
-| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
-|  |
+><br>
+> Espiritismo Experimental   
+><br>
+> ✒️ [O Livro dos Médiuns](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){:target="ext"}  
+><br>
+> Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 [**O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}.  
+><br>
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.  
+><br>
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}  
+><br>
+> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){:target="_blank"}  
+><br>
+> Modificado para o consumo digital por Sergio de  
+> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+><br>
+{:.grey-center}
 
-### 0-02. 🗂️ 
+### 0-02. 📄 Introdução {#ldm-0-02} 
 
 Todos os dias a experiência nos traz a confirmação de que as dificuldades e os desenganos com que muitos topam na prática do Espiritismo se originam da ignorância dos princípios desta ciência e feliz nos sentimos de haver podido comprovar que o nosso trabalho, feito com o objetivo de precaver os adeptos contra os escolhos de um noviciado, produziu frutos e que à leitura desta obra devem muitos o terem logrado evitá-los.
 
@@ -56,19 +56,19 @@ Havíamos publicado uma Instrução Prática com o fito de guiar os médiuns. Es
 
 A essas considerações ainda aditaremos outra, muito importante: a má impressão que produzem nos novatos as experiências levianamente feitas e sem conhecimento de causa, experiências que apresentam o inconveniente de gerar ideias falsas acerca do mundo dos Espíritos e de dar azo à zombaria e a uma crítica quase sempre fundada. De tais reuniões, os incrédulos raramente saem convertidos e dispostos a reconhecer que no Espiritismo haja alguma coisa de sério. Para a opinião errônea de grande número de pessoas, muito mais do que se pensa têm contribuído a ignorância e a leviandade de vários médiuns.
 
-Desde alguns anos, o Espiritismo há realizado grandes progressos: imensos, porém, são os que conseguiu realizar a partir do momento em que tomou rumo filosófico, porque entrou a ser apreciado pela gente instruída. Presentemente, já não é um espetáculo: é uma doutrina de que não mais riem os que zombavam das mesas girantes. Esforçando-nos por levá-lo para esse terreno e por mantê-lo aí, nutrimos a convicção de que lhe granjeamos mais adeptos úteis, do que provocando a torto e a direito manifestações que se prestariam a abusos. Disso temos cotidianamente a prova em o número dos que se hão tornado espíritas unicamente pela leitura de 👻 O Livro dos Espíritos.
+Desde alguns anos, o Espiritismo há realizado grandes progressos: imensos, porém, são os que conseguiu realizar a partir do momento em que tomou rumo filosófico, porque entrou a ser apreciado pela gente instruída. Presentemente, já não é um espetáculo: é uma doutrina de que não mais riem os que zombavam das mesas girantes. Esforçando-nos por levá-lo para esse terreno e por mantê-lo aí, nutrimos a convicção de que lhe granjeamos mais adeptos úteis, do que provocando a torto e a direito manifestações que se prestariam a abusos. Disso temos cotidianamente a prova em o número dos que se hão tornado espíritas unicamente pela leitura de 👻 **O Livro dos Espíritos**.
 
-Depois de havermos exposto a parte filosófica da ciência espírita em 👻 O Livro dos Espíritos, damos nesta obra a parte prática, para uso dos que queiram ocupar-se com as manifestações, quer para fazerem pessoalmente, quer para se inteirarem dos fenômenos que lhes sejam dados observar.
+Depois de havermos exposto a parte filosófica da ciência espírita em 👻 **O Livro dos Espíritos**, damos nesta obra a parte prática, para uso dos que queiram ocupar-se com as manifestações, quer para fazerem pessoalmente, quer para se inteirarem dos fenômenos que lhes sejam dados observar.
 
-Verão, aí, os óbices com que poderão deparar e terão também um meio de evitá-los. Estas duas obras, se bem a segunda constitua seguimento da primeira, são, até certo ponto, independentes uma da outra. Mas, a quem quer que deseje tratar seriamente da matéria, diremos que primeiro leia 👻 O Livro dos Espíritos, porque contém princípios básicos, sem os quais algumas partes deste se tornariam talvez dificilmente compreensíveis.
+Verão, aí, os óbices com que poderão deparar e terão também um meio de evitá-los. Estas duas obras, se bem a segunda constitua seguimento da primeira, são, até certo ponto, independentes uma da outra. Mas, a quem quer que deseje tratar seriamente da matéria, diremos que primeiro leia 👻 **O Livro dos Espíritos**, porque contém princípios básicos, sem os quais algumas partes deste se tornariam talvez dificilmente compreensíveis.
 
 Importantes alterações para melhor foram introduzidas nesta segunda edição, muito mais completa do que a primeira. Acrescentando-lhe grande número de notas e instruções do maior interesse, os Espíritos a corrigiram, com particular cuidado. Como reviram tudo, aprovando-a ou modificando-a à sua vontade, pode dizer-se que ela é, em grande parte, obra deles, porquanto a intervenção que tiveram não se limitou aos artigos que trazem assinaturas. São poucos esses artigos, porque apenas apusemos nomes quando isso nos pareceu necessário, para assinalar que algumas citações um tanto extensas provieram deles textualmente. A não ser assim, houvéramos de citá-los quase que em todas as páginas, especialmente em seguida a todas as respostas dadas às perguntas que lhes foram feitas, o que se nos afigurou de nenhuma utilidade. Os nomes, como se sabe, importam pouco em tais assuntos. O essencial é que o conjunto do trabalho corresponda ao fim que colimamos. O acolhimento dado à primeira edição, posto que imperfeita, faz-nos esperar que a presente não encontre menos receptividade.
 
-Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em 👻 O Livro dos Espíritos. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
+Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em 👻 **O Livro dos Espíritos**. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
 
 ## 1. 🗃️ Noções Preliminares
 
-### 1-01. 🗂️ 
+### 1-01. 📄 Há Espíritos? {#ldm-1-01} 
 
 #### 01
 
@@ -151,7 +151,7 @@ Quando os adversários do Espiritismo nos provarem que isto é impossível, aduz
 
 Dir-nos-ão, com certeza, que cabe a nós provar a realidade das manifestações. Ora, nós lhes damos, pelos fatos e pelo raciocínio, a prova de que elas são reais. Mas, se não admitem nem uma nem outra coisa, se chegam mesmo a negar o que veem, toca-lhes a eles provar que o nosso raciocínio é falso e que os fatos são impossíveis.
 
-### 1-02. 🗂️ 
+### 1-02. 📄 Sobrenatural {#ldm-1-02} 
 
 #### 07
 
@@ -262,7 +262,7 @@ Quanto à personagem que se apresentou na Salette, é outra questão. Sua identi
 
 Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fenômenos lhes parecem estar fora da lei comum e porque não logram achar-lhes qualquer explicação. Dai-lhes uma base racional e a dúvida desaparecerá. A explicação, neste século em que ninguém se contenta com palavras, constitui, pois, poderoso motivo de convicção. Daí o vermos, todos os dias, pessoas que nenhum fato testemunharam, que não observaram uma mesa agitar-se ou um médium escrever se tornarem tão convencidas quanto nós, unicamente porque leram e compreenderam. Se houvéssemos de somente acreditar no que vemos com os nossos olhos, a bem pouco se reduziriam as nossas convicções.
 
-### 1-03. 🗂️ 
+### 1-03. 📄 Método {#ldm-1-03} 
 
 #### 18
 
@@ -286,7 +286,7 @@ Todo ensino metódico tem que partir do conhecido para o desconhecido. Ora, para
 
 Entre os materialistas, importa distinguir duas classes: colocamos na primeira os que o são por **sistema**. Nesses, não há a dúvida, há a negação absoluta, raciocinada a seu modo. O homem, para eles, é simples máquina, que funciona enquanto está montada, que se desarranja e de que, após a morte, só resta a carcaça.
 
-Felizmente, são em número restrito e não formam escola abertamente confessada. Não precisamos insistir nos deploráveis efeitos que para a ordem social resultariam da vulgarização de semelhante doutrina. Já nos estendemos bastante sobre esse assunto em 👻 O Livro dos Espíritos. 👉 (147 e LDE-5-03).
+Felizmente, são em número restrito e não formam escola abertamente confessada. Não precisamos insistir nos deploráveis efeitos que para a ordem social resultariam da vulgarização de semelhante doutrina. Já nos estendemos bastante sobre esse assunto em 👻 **O Livro dos Espíritos**. 👉 (147 e LDE-5-03).
 
 Quando dissemos que a dúvida cessa nos incrédulos diante de uma explicação racional, excetuamos os materialistas extremados, os que negam a existência de qualquer força e de qualquer princípio inteligente fora da matéria. A maioria deles se obstina por orgulho na opinião que professa, entendendo que o amor-próprio lhe impõe persistir nela. E persistem, não obstante todas as provas em contrário, porque não querem ficar por baixo. Com tal gente, nada há que fazer; ninguém mesmo se deve deixar iludir pelo falso tom de sinceridade dos que dizem: fazei que eu veja, e acreditarei. Outros são mais francos e dizem sem rebuço: ainda que eu visse, não acreditaria.
 
@@ -385,17 +385,17 @@ Aos que quiserem adquirir essas noções preliminares pela leitura das nossas ob
 
 - 🔍 **O que é o Espiritismo**. Esta brochura, de uma centena de páginas somente, contém sumária exposição dos princípios da Doutrina Espírita, um apanhado geral desta, permitindo ao leitor apreender-lhe o conjunto dentro de um quadro restrito. Em poucas palavras ele lhe percebe o objetivo e pode julgar do seu alcance. Aí se encontram, além disso, respostas às principais questões ou objeções que os novatos se sentem naturalmente propensos a fazer. Esta primeira leitura, que muito pouco tempo consome, é uma introdução que facilita um estudo mais aprofundado.
 
-- 👻 O Livro dos Espíritos. Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
+- 👻 **O Livro dos Espíritos**. Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
 
-- ✒️ **O Livro dos Médiuns**. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os médiuns como para os evocadores, e o complemento de 👻 O Livro dos Espíritos.
+- ✒️ **O Livro dos Médiuns**. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os médiuns como para os evocadores, e o complemento de 👻 **O Livro dos Espíritos**.
 
-- 📓 **Revista Espírita**. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de 👻 O Livro dos Espíritos. [^5]
+- 📓 **Revista Espírita**. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de 👻 **O Livro dos Espíritos**. [^5]
 
 Isto pelo que nos diz respeito. Os que desejem tudo conhecer de uma ciência devem necessariamente ler tudo o que se ache escrito sobre a matéria, ou, pelo menos, o que haja de principal, não se limitando a um único autor. Devem mesmo ler o pró e o contra, as críticas como as apologias, inteirar-se dos diferentes sistemas, a fim de poderem julgar por comparação.
 
 Por esse lado, não preconizamos nem criticamos obra alguma, visto não querermos, de nenhum modo, influenciar a opinião que dela se possa formar. Trazendo nossa pedra ao edifício, colocamo-nos nas fileiras. Não nos cabe ser juiz e parte e não alimentamos a ridícula pretensão de ser o único distribuidor da luz. Toca ao leitor separar o bom do mau, o verdadeiro do falso.
 
-### 1-04. 🗂️ 
+### 1-04. 📄 Sistemas {#ldm-1-04} 
 
 #### 36
 
@@ -405,7 +405,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### 37
 
-Seguindo metódica ordem, para acompanhar a marcha progressiva das ideias, convém sejam colocados na primeira linha dos sistemas os que se podem classificar como **sistemas de negação**, isto é, os dos adversários do Espiritismo. Já lhes refutamos as objeções, na introdução e na conclusão de 👻 O Livro dos Espíritos, assim como no volumezinho que intitulamos 🔍 **O que é o Espiritismo**. Fora supérfluo insistir nisso aqui. Limitar-nos-emos a lembrar, em duas palavras, os motivos em que eles se fundam.
+Seguindo metódica ordem, para acompanhar a marcha progressiva das ideias, convém sejam colocados na primeira linha dos sistemas os que se podem classificar como **sistemas de negação**, isto é, os dos adversários do Espiritismo. Já lhes refutamos as objeções, na introdução e na conclusão de 👻 **O Livro dos Espíritos**, assim como no volumezinho que intitulamos 🔍 **O que é o Espiritismo**. Fora supérfluo insistir nisso aqui. Limitar-nos-emos a lembrar, em duas palavras, os motivos em que eles se fundam.
 
 De duas espécies são os fenômenos espíritas: efeitos físicos e efeitos inteligentes. Não admitindo a existência dos Espíritos, por não admitirem coisa alguma fora da matéria, concebe-se que neguem os efeitos inteligentes. Quanto aos efeitos físicos, eles os comentam do ponto de vista em que se colocam, e seus argumentos se podem resumir nos quatro sistemas seguintes:
 
@@ -427,7 +427,7 @@ Afinal, semelhante maneira de atacar se tornou ridícula, tal a sua banalidade, 
 
 Efetivamente, forçoso será convir em que essa loucura, se loucura existe, apresenta uma característica muito singular: a de atingir de preferência a classe instruída, em cujo seio conta o Espiritismo, até o presente, a imensa maioria de seus adeptos. Se entre estes algumas excentricidades se manifestam, elas nada provam contra a Doutrina, do mesmo modo que os loucos religiosos nada provam contra a religião, nem os loucos melômanos contra a música, ou os loucos matemáticos contra a Matemática. Todas as ideias sempre tiveram fanáticos exagerados e é preciso se seja dotado de muito obtuso juízo para confundir a exageração de uma coisa com a coisa mesma.
 
-Para mais amplas explicações a este respeito, recomendamos ao leitor a nossa brochura: 🔍 **O que é o Espiritismo** e 👻 O Livro dos Espíritos ([LDE-0-02-15](/1LDE/#LDE-0-02-15)).
+Para mais amplas explicações a este respeito, recomendamos ao leitor a nossa brochura: 🔍 **O que é o Espiritismo** e 👻 **O Livro dos Espíritos** ([LDE-0-02-15](/1LDE/#LDE-0-02-15)).
 
 #### 40
 
@@ -576,12 +576,13 @@ Eis aqui a resposta que, sobre este assunto, deu um Espírito:
 > Agora o ponto de vista científico, ou seja, a essência mesma do perispírito. Isso é outra questão. Compreendei primeiro moralmente. Resta apenas uma discussão sobre a natureza dos fluidos, coisa por ora inexplicável. A ciência ainda não sabe bastante, porém lá chegará, se quiser caminhar com o Espiritismo. O perispírito pode variar e mudar ao infinito. A alma é o pensamento: não muda de natureza. Não vades mais longe, por este lado; trata-se de um ponto que não pode ser explicado. Supondes que, como vós, também eu não perquiro? Vós pesquisais o perispírito; nós outros, agora, pesquisamos a alma. Esperai, pois.
 >
 > Lamennais
+{:.spirit-multi}
 
 Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram sondar a natureza da alma. Como poderíamos nós fazê-lo? É, portanto, perder tempo querer perscrutar o princípio das coisas que, como foi dito em 👉(LDE- [17](/1LDE/#17) e 👻 ▸ [49](/1LDE/#49)), está nos segredos de Deus. Pretender esquadrinhar, com o auxílio do Espiritismo, o que escapa à alçada da Humanidade é desviá-lo do seu verdadeiro objetivo, é fazer como a criança que quisesse saber tanto quanto o velho. Aplique o homem o Espiritismo em aperfeiçoar-se moralmente, eis o essencial. O mais não passa de curiosidade estéril e muitas vezes orgulhosa, cuja satisfação não o faria adiantar um passo. O único meio de nos adiantarmos consiste em nos tornarmos melhores. Os Espíritos que ditaram o livro que lhes traz o nome demonstraram a sua sabedoria, mantendo-se, pelo que concerne ao princípio das coisas, dentro dos limites que Deus não permite sejam ultrapassados e deixando aos Espíritos sistemáticos e presunçosos a responsabilidade das teorias prematuras e errôneas, mais sedutoras do que sólidas, e que um dia virão a cair, ante a razão, como tantas outras surgidas dos cérebros humanos. Eles, ao justo, só disseram o que era preciso para que o homem compreendesse o futuro que o aguarda e para, por essa maneira, animá-lo à prática do bem. 👉 ([LDM-2-01](#LDM-2-01))
 
 ## 2. 🗃️ Manifestações Espíritas
 
-### 2-01. 🗂️ 
+### 2-01. 🗂️ Ação sobre a matéria {#ldm-2-01} 
 
 #### 52
 
@@ -639,7 +640,7 @@ Considerada deste modo, facilmente se concebe a ação do Espírito sobre a mat�
 
 Perguntar-se-á, talvez, como pode o Espírito, com o auxílio de matéria tão sutil, atuar sobre corpos pesados e compactos, suspender mesas etc. Semelhante objeção certo que não será formulada por um homem de ciência, visto que, sem falar das propriedades desconhecidas que esse novo agente pode possuir, não temos exemplos análogos sob as vistas? Não é nos gases mais rarefeitos, nos fluidos imponderáveis que a indústria encontra os seus mais possantes motores? Quando vemos o ar abater edifícios, o vapor deslocar enormes massas, a pólvora gaseificada levantar rochedos, a eletricidade lascar árvores e fender paredes, que dificuldades acharemos em admitir que o Espírito, com o auxílio do seu perispírito, possa levantar uma mesa, sobretudo sabendo que esse perispírito pode tornar-se visível, tangível e comportar-se como um corpo sólido?
 
-### 2-02. 🗂️ 
+### 2-02. 🗂️ Manifestações físicas {#ldm-2-02} 
 
 #### 60
 
@@ -677,7 +678,7 @@ Doutras vezes, ela se agita e se ergue, ora num pé, ora noutro, e, em seguida, 
 
 Outro fenômeno que se produz com frequência, de acordo com a natureza do médium, é o das pancadas no próprio tecido da madeira, sem que a mesa faça qualquer movimento. Essas pancadas, às vezes muito fracas, outras vezes muito fortes, se fazem também ouvir nos outros móveis do compartimento, nas paredes e no forro. Dentro em pouco voltaremos a esta questão. Quando as pancadas se dão na mesa, produzem nesta uma vibração muito apreciável por meio dos dedos e que se distingue perfeitamente, aplicando-se-lhe o ouvido.
 
-### 2-03. 🗂️ 
+### 2-03. 🗂️ Manifestações inteligentes {#ldm-2-03} 
 
 #### 65
 
@@ -717,7 +718,7 @@ Receberam-se as primeiras deste gênero, adaptando-se um lápis ao pé de uma me
 
 Voltaremos a tratar destes diferentes meios, a fim de explicá-los minuciosamente. Por ora, limitamo-nos a esboçá-los, para mostrar os fatos sucessivos que levaram os observadores a reconhecer, nestes fenômenos, a intervenção de inteligências ocultas, ou, por outra, dos Espíritos.
 
-### 2-04. 🗂️ 
+### 2-04. 🗂️ Teoria sobre manifestações {#ldm-2-04} 
 
 #### 72
 
@@ -952,7 +953,7 @@ Dirão talvez que, sendo imponderável esse fluido, um acúmulo dele não pode a
 
 Só por uma causa semelhante se pode explicar o singular fenômeno, tantas vezes observado, de uma pessoa fraca e delicada levantar com dois dedos, sem esforço e como se se tratasse de uma pena, um homem forte e robusto com a cadeira em que está assentado. As intermitências da faculdade provam que a causa é estranha à pessoa que produz o fenômeno.
 
-### 2-05. 🗂️ 
+### 2-05. 🗂️ Manifestações espontâneas {#ldm-2-05} 
 
 #### 82
 
@@ -1037,6 +1038,7 @@ A este respeito, apenas citaremos o diálogo provocado a propósito dos fatos oc
 ###### 01
 
 (A São Luís) Quererias ter a bondade de nos dizer se são reais os fatos que se dizem passados na rua des Noyers? Quanto à possibilidade deles se darem, disso não duvidamos.
+
 > 👻 ▸ São reais esses fatos; simplesmente, a imaginação dos homens os exagerará, seja por medo, seja por ironia. Mas, repito, são reais. Produz essas manifestações um Espírito que se diverte um pouco à custa dos habitantes do lugar.
 
 ###### 02
@@ -1088,11 +1090,13 @@ Diálogo com o Espírito perturbador da rua des Noyers:
 ###### 01
 
 Evocação.
+
 > 👻 ▸ Que tinhas de me chamar? Queres umas pedradas? Então é que se havia de ver um bonito salve-se quem puder, não obstante o teu ar de valentia.
 
 ###### 02
 
 Quando mesmo nos atirasses pedras aqui, isso não nos amedrontaria; até te pedimos positivamente que, se puderes, nos atires algumas.
+
 > 👻 ▸ Aqui talvez eu não pudesse, porque tens um guarda a velar por ti.
 
 ###### 03
@@ -1122,11 +1126,13 @@ Procedias assim com algum propósito hostil?
 ###### 07
 
 Que queres dizer com isso? Não te compreendemos.
+
 > 👻 ▸ Eu só cuidava de me divertir; vós outros, porém, estudareis a coisa e tereis mais um fato a mostrar que nós existimos.
 
 ###### 08
 
 Dizes que não alimentavas nenhum propósito hostil; entretanto, quebraste todo o ladrilho da casa. Causaste assim um prejuízo real.
+
 > 👻 ▸ É um acidente.
 
 ###### 09
@@ -1138,6 +1144,7 @@ Onde foste buscar os objetos que atiraste?
 ###### 10
 
 Achaste-os todos ou fabricaste algum? (**Ver adiante o cap. 8**)
+
 > 👻 ▸ Não criei nem compus coisa alguma.
 
 ###### 11
@@ -1155,6 +1162,7 @@ Agora, dize-nos; como os atiraste?
 ###### 13
 
 Vais dar-nos de boa vontade, assim o esperamos, algumas informações acerca da tua pessoa. Dize-nos, primeiramente, se já morreste há muito tempo.
+
 > 👻 ▸ Há muito tempo; há bem cinquenta anos.
 
 ###### 14
@@ -1238,6 +1246,7 @@ A teoria do fenômeno dos transportes e das manifestações físicas em geral se
 > Bem sei que ides dizer: é que estes são úteis para convencer os incrédulos. Mas, ficai sabendo, se não houvésseis disposto de outros meios de convicção, não contaríeis hoje a centésima parte dos espíritas que existem. Falai ao coração; por aí é que fareis maior número de conversões sérias. Se julgardes conveniente, para certas pessoas, valer-vos dos fatos materiais, ao menos apresentai-os em circunstâncias tais que não possam permitir nenhuma interpretação falsa e, sobretudo, não vos afasteis das condições normais dos mesmos fatos, porque, apresentados em más condições, eles fornecem argumentos aos incrédulos, em vez de convencê-los.
 >
 > Erasto
+{:.spirit-multi}
 
 #### 99
 
@@ -1283,6 +1292,7 @@ Onde foste buscar as flores e os confeitos que trouxeste para aqui?
 ###### 06
 
 E os confeitos? Devem ter feito falta ao respectivo negociante.
+
 > 👻 ▸ Tomo-os onde me apraz. O negociante nada absolutamente percebeu, porque pus outros no lugar dos que tirei.
 
 ###### 07
@@ -1412,7 +1422,7 @@ Como fizeste para tornar visíveis estes objetos que, um momento antes, eram inv
 
 Quanto à teoria da formação espontânea dos objetos, veja 👉 [LDM-2-08](#LDM-2-08).
 
-### 2-06. 🗂️ 
+### 2-06. 🗂️ Manifestações visuais {#ldm-2-06} 
 
 #### 100
 
@@ -1639,8 +1649,7 @@ Poderiam os Espíritos apresentar-se sob a forma de animais?
 
 > 👻 ▸ Isso pode dar-se, mas somente Espíritos muito inferiores tomam essas aparências. Em caso algum, porém, será mais do que uma aparência momentânea. Fora absurdo acreditar-se que um qualquer animal verdadeiro pudesse ser a encarnação de um Espírito. Os animais são sempre animais e nada mais do que isto.
 
-📝 **Nota**
-**. Somente a superstição pode fazer crer que certos animais são animados por Espíritos. É preciso uma imaginação muito complacente, ou muito impressionada, para ver qualquer coisa de sobrenatural nas circunstâncias um pouco extravagantes em que eles algumas vezes se apresentam. O medo faz que amiúde se veja o que não existe. Mas não só no medo tem sua origem essa ideia. Conhecemos uma senhora, muito inteligente aliás, que consagrava desmedida afeição a um gato preto, porque acreditava ser ele de natureza **sobreanimal**. Entretanto, essa senhora jamais ouvira falar do Espiritismo. Se o houvesse conhecido, ele lhe teria feito compreender o ridículo da causa de sua predileção pelo animal, provando-lhe a impossibilidade de tal metamorfose.
+📝 **Nota**. Somente a superstição pode fazer crer que certos animais são animados por Espíritos. É preciso uma imaginação muito complacente, ou muito impressionada, para ver qualquer coisa de sobrenatural nas circunstâncias um pouco extravagantes em que eles algumas vezes se apresentam. O medo faz que amiúde se veja o que não existe. Mas não só no medo tem sua origem essa ideia. Conhecemos uma senhora, muito inteligente aliás, que consagrava desmedida afeição a um gato preto, porque acreditava ser ele de natureza **sobreanimal**. Entretanto, essa senhora jamais ouvira falar do Espiritismo. Se o houvesse conhecido, ele lhe teria feito compreender o ridículo da causa de sua predileção pelo animal, provando-lhe a impossibilidade de tal metamorfose.
 
 Ensaio teórico sobre as aparições
 
@@ -1758,7 +1767,7 @@ Provam os fatos que há aparições verdadeiras, que a teoria espírita explica 
 >
 > É boa a nossa explicação? Damo-la pelo que possa valer, em falta de outra, e, se quiserem, a título de simples hipótese, enquanto outra melhor não aparece. Qual ela é, dá a razão de ser de todos os casos de visão? Certamente que não. Contudo, desafiamos todos os fisiologistas a que apresentem uma que abranja todos os casos, porquanto nenhuma dão, quando pronunciam as palavras sacramentais — sobre-excitação e exaltação. Assim sendo, desde que todas as teorias da alucinação se mostram incapazes de explicar os fatos, é que alguma outra coisa há, que não a alucinação propriamente dita. Seria falsa a nossa teoria, se a aplicássemos a todos os casos de visão, pois que alguns a contraditariam. É legítima, se restringida a alguns efeitos.
 
-### 2-07. 🗂️ 
+### 2-07. 🗂️ Bicorporeidade {#ldm-2-07} 
 
 #### 114
 
@@ -1860,7 +1869,7 @@ A teoria do fenômeno da invisibilidade ressalta muito naturalmente das explica�
 
 Resta-nos falar do singular fenômeno dos **agêneres**, que, por muito extraordinário que pareça à primeira vista, não é mais sobrenatural do que os outros. Porém, como o explicamos na 📓 **Revista Espírita** (fevereiro de 1859), julgamos inútil tratar dele aqui pormenorizadamente. Diremos tão somente que é uma variedade da aparição tangível. É o estado de certos Espíritos que podem revestir momentaneamente as formas de uma pessoa viva, ao ponto de causar completa ilusão. (do grego **a** privativo, e **geine**, **geinomaï**, gerar: que não foi gerado.)
 
-### 2-08. 🗂️ 
+### 2-08. 🗂️ Mundo invisível {#ldm-2-08} 
 
 #### 126
 
@@ -1919,6 +1928,7 @@ Dar-se-á que a matéria inerte se desdobre? Ou que haja no mundo invisível uma
 
 Formulo novamente a questão, de modo categórico, a fim de evitar todo e qualquer equívoco:
 São alguma coisa as vestes de que os Espíritos se cobrem?
+
 > 👻 ▸ Parece-me que a minha resposta precedente resolve a questão. Não sabes que o próprio perispírito é alguma coisa?
 
 ###### 06
@@ -2001,7 +2011,7 @@ Sabe-se que papel capital desempenha a vontade em todos os fenômenos do magneti
 
 Tanto quanto do Espírito errante, a vontade é igualmente atributo do Espírito encarnado; daí o poder do magnetizador, poder que se sabe estar na razão direta da força de vontade. Podendo o Espírito encarnado atuar sobre a matéria elementar, pode do mesmo modo mudar-lhe as propriedades, dentro de certos limites. Assim se explica a faculdade de cura pelo contato e pela imposição das mãos, faculdade que algumas pessoas possuem em grau mais ou menos elevado. 👉 ([LDM-p175](#LDM-p175), e 📓 **Revista Espírita**, de julho de 1859: O zuavo de Magenta; Um oficial do exército da Itália.)
 
-### 2-09. 🗂️ 
+### 2-09. 🗂️ Lugares assombrados {#ldm-2-09} 
 
 #### 132
 
@@ -2024,6 +2034,7 @@ As manifestações espontâneas, que em todos os tempos se hão produzido, e a p
 > 👻 ▸ Nenhum. Os Espíritos vão a tais lugares, como a todos os outros. A imaginação dos homens é que, despertada pelo aspecto lúgubre de certos sítios, atribui à presença dos Espíritos o que não passa, quase sempre, de efeito muito natural. Quantas vezes o medo não tem feito que se tome por fantasma a sombra de uma árvore e por espectros o grito de um animal ou o sopro do vento? Os Espíritos gostam da presença dos homens; daí o preferirem os lugares habitados aos lugares desertos.
 
 - a) Contudo, pelo que sabemos da diversidade dos caracteres entre os Espíritos, podemos inferir a existência de Espíritos misantropos, que prefiram a solidão
+
 > 👻 ▸ Por isso mesmo, não respondi de modo absoluto à questão. Disse que eles podem vir aos lugares desertos, como a toda parte. É evidente que, se alguns se conservam insulados, é porque assim lhes apraz. Isso, porém, não constitui motivo para que forçosamente tenham predileção pelas ruínas. Em muito maior número os há nas cidades e nos palácios, do que no interior dos bosques.
 
 5 Em geral, as crenças populares guardam um fundo de verdade. Qual terá sido a origem da crença em lugares mal-assombrados?
@@ -2088,7 +2099,7 @@ Resulta das explicações acima haver Espíritos que se prendem a certos lugares
 
 Os que se prendem a certas localidades ou a certas coisas materiais nunca são Espíritos superiores. Contudo, mesmo que não pertençam a esta categoria, pode dar-se que não sejam maus e nenhuma intenção má alimentem. Não raro, são até comensais mais úteis do que prejudiciais, porquanto, desde que se interessam pelas pessoas, podem protegê-las.
 
-### 2-10. 🗂️ 
+### 2-10. 🗂️ Natureza das comunicações {#ldm-2-10} 
 
 #### 133
 
@@ -2120,7 +2131,7 @@ Qualificando de instrutivas as comunicações, supomo-las **verdadeiras**, pois 
 
 São variadíssimos os meios de comunicação. Atuando sobre os nossos órgãos e sobre todos os nossos sentidos, podem os Espíritos manifestar-se à nossa visão, por meio das aparições; ao nosso tato, por impressões tangíveis, visíveis ou ocultas; à audição pelos ruídos; ao olfato por meio de odores sem causa conhecida. Este último modo de manifestação, se bem muito real, é, incontestavelmente, o mais incerto, pelas múltiplas causas que podem induzir em erro. Daí o nos não demorarmos em tratar dele. O que devemos examinar com cuidado são os diversos meios de se obterem comunicações, isto é, uma permuta regular e continuada de pensamentos. Esses meios são: **as pancadas**, **a palavra** e **a escrita**. Estudá-los-emos em capítulos especiais.
 
-### 2-11. 🗂️ 
+### 2-11. 🗂️ Sematologia e tiptologia {#ldm-2-11} 
 
 #### 139
 
@@ -2174,7 +2185,7 @@ Resta-nos destruir um erro assaz espalhado: o de confundirem-se com os Espírito
 
 Assim, pois, nem todos os Espíritos que se manifestam por pancadas são batedores. Este qualificativo deve ser reservado para os que poderíamos chamar batedores de profissão e que, por este meio, se deleitam em pregar partidas, para divertimentos de umas tantas pessoas, em aborrecer com as suas importunações. Pode-se esperar que algumas vezes deem coisas espirituosas; porém, coisas profundas, nunca. Seria, conseguintemente, perder tempo formular-lhes questões de certo porte científico ou filosófico. A ignorância e a inferioridade que lhes são peculiares deram motivo a que, com justeza, os outros Espíritos os qualificassem de palhaços, ou saltimbancos do mundo espírita. Acrescentemos que, além de agirem quase sempre por conta própria, também são amiúde instrumentos de que lançam mão os Espíritos superiores, quando querem produzir efeitos materiais.
 
-### 2-12. 🗂️ 
+### 2-12. 🗂️ Pneumatografia e pneumatofonia {#ldm-2-12} 
 
 #### 146
 
@@ -2223,7 +2234,7 @@ Os sons espíritas, os pneumatofônicos, se produzem de duas maneiras distintas:
 
 De um modo ou de outro, o fenômeno da pneumatofonia é quase sempre espontâneo e só muito raramente pode ser provocado.
 
-### 2-13. 🗂️ 
+### 2-13. 🗂️ Psicografia {#ldm-2-13} 
 
 #### 152
 
@@ -2257,7 +2268,7 @@ De todos os meios de comunicação, a escrita manual, que alguns denominam escri
 
 Nos primeiros tempos das manifestações, quando ainda ninguém tinha sobre o assunto ideias exatas, muitos escritos foram publicados com este título: Comunicações de uma mesa, de uma cesta, de uma prancheta etc. Hoje, bem se percebe o que tais expressões têm de impróprias, ou errôneas, abstração feita do caráter pouco sério que revelam. Efetivamente, como acabamos de ver, as mesas, pranchetas e cestas não são mais do que instrumentos ininteligentes, embora animados, por instantes, de uma vida fictícia, que nada podem comunicar por si mesmos. Dizer o contrário é tomar o efeito pela causa, o instrumento pelo princípio. Fora o mesmo que um autor declarar, no título da sua obra, tê-la escrito com uma pena metálica ou com uma pena de pato. Esses instrumentos, ademais, não são exclusivos. Conhecemos alguém que, em vez da cesta-pião, que acima descrevemos, se servia de um funil, em cujo gargalo introduzia o lápis. Ter-se-ia então podido receber comunicações de um funil, do mesmo modo que de uma caçarola ou de uma saladeira. Se elas são obtidas por meio de pancadas com uma cadeira ou uma bengala, já não há uma mesa falante, mas uma cadeira ou uma bengala falantes. O que importa se conheça não é a natureza do instrumento, e sim o modo de obtenção. Se a comunicação vem por meio da escrita, qualquer que seja o aparelho que sustente o lápis, o que há, para nós, é psicografia; tiptologia, se por meio de pancadas. Tomando o Espiritismo as proporções de uma ciência, indispensável se lhe torna uma linguagem científica.
 
-### 2-14. 🗂️ 
+### 2-14. 🗂️ Médiuns {#ldm-2-14} 
 
 #### 159
 
@@ -2439,7 +2450,7 @@ Dá-se este nome aos médiuns que têm aptidão para obter a escrita direta, o q
 
 Trataremos de modo especial dos médiuns escreventes nos capítulos que se seguem.
 
-### 2-15. 🗂️ 
+### 2-15. 🗂️ Psicógrafos {#ldm-2-15} 
 
 #### 178
 
@@ -2503,7 +2514,7 @@ As respostas seguintes confirmam esta asserção:
 
 O pressentimento é uma intuição vaga das coisas futuras. Algumas pessoas têm essa faculdade mais ou menos desenvolvida. Pode ser devida a uma espécie de dupla vista, que lhes permite entrever as consequências das coisas atuais e a filiação dos acontecimentos. Mas, muitas vezes, também é resultado de comunicações ocultas e, sobretudo neste caso, é que se pode dar aos que dela são dotados o nome de médiuns de pressentimentos, que constituem uma variedade dos médiuns inspirados.
 
-### 2-16. 🗂️ 
+### 2-16. 🗂️ Médiuns especiais {#ldm-2-16} 
 
 #### 185
 
@@ -2564,6 +2575,7 @@ Variedades especiais para os efeitos físicos:
 > 👻 ▸ Certamente se pode fazer disso uma especialidade, mas esse fenômeno é devido mais às condições ambientes do que à natureza do médium ou dos Espíritos. Devo acrescentar que alguns escapam a essa influência do meio e que os médiuns noturnos, em sua maioria, poderiam chegar, pelo exercício, a operar tão bem no claro quanto na obscuridade. É pouco numerosa esta espécie de médiuns. E, cumpre dizê-lo, graças a essa condição, que oferece plena liberdade ao emprego dos truques da ventriloquia e dos tubos acústicos, é que os charlatães hão abusado muito da credulidade, fazendo-se passar por médiuns, a fim de ganharem dinheiro. Mas que importa? Os trampolineiros de gabinete, como os da praça pública, serão cruelmente desmascarados e os Espíritos lhes provarão que andam mal, imiscuindo-se na obra deles. Repito: alguns charlatães receberão, de modo bastante rude, o castigo que os desgostará do ofício de falsos médiuns. Aliás, tudo isso pouco durará.
 >
 > Erasto
+{:.spirit-multi}
 
 **Médiuns pneumatógrafos**: os que obtêm a escrita direta. Fenômeno muito raro e, sobretudo, muito fácil de ser imitado pelos trapaceiros. 👉 ([LDM-p177](#LDM-p177))
 
@@ -2597,7 +2609,7 @@ Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta e
 
 **Médiuns proféticos**: variedade dos médiuns inspirados ou de pressentimentos. Recebem, permitindo-o Deus, com mais precisão do que os médiuns de pressentimentos, a revelação de futuras coisas de interesse geral e são incumbidos de dá-las a conhecer aos homens, para instrução destes.
 
-> 👻 ▸ Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais. (**Veja-se**, em 👻 O Livro dos Espíritos, a questão 624, sobre as características do verdadeiro profeta.)
+> 👻 ▸ Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais. (**Veja-se**, em 👻 **O Livro dos Espíritos**, a questão 624, sobre as características do verdadeiro profeta.)
 
 **Médiuns sonâmbulos**: os que, em estado de sonambulismo, são assistidos por Espíritos. 👉 ([LDM-p172](#LDM-p172))
 
@@ -2622,6 +2634,7 @@ Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta e
 **Médiuns semimecânicos**: aqueles cuja mão se move involuntariamente, mas que têm, instantaneamente, consciência das palavras ou das frases, à medida que escrevem. São os mais comuns. 👉 ([LDM-p181](#LDM-p181))
 
 **Médiuns intuitivos**: aqueles com quem os Espíritos se comunicam pelo pensamento e cuja mão é conduzida voluntariamente. Diferem dos médiuns inspirados que não precisam escrever, ao passo que o médium intuitivo escreve o pensamento que lhe é sugerido instantaneamente sobre um assunto determinado e provocado. 👉 ([LDM-p180](#LDM-p180))
+
 > 👻 ▸ São muito comuns, mas também muito sujeitos a erro, por não poderem, muitas vezes, discernir o que provém dos Espíritos do que deles próprios emana.
 
 **Médiuns polígrafos**: aqueles cuja escrita muda com o Espírito que se comunica, ou aptos a reproduzir a escrita que o Espírito tinha em vida. O primeiro caso é muito vulgar; o segundo, o da identidade da escrita, é mais raro. 👉 ([LDM-p219](#LDM-p219))
@@ -2629,6 +2642,7 @@ Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta e
 **Médiuns poliglotas**: os que têm a faculdade de falar ou escrever em línguas que lhes são desconhecidas. Muito raros.
 
 **Médiuns iletrados**: os que escrevem, como médiuns, sem saberem ler, nem escrever, no estado ordinário.
+
 > 👻 ▸ Mais raros do que os precedentes; há maior dificuldade material a vencer.
 
 #### 192
@@ -2644,20 +2658,25 @@ Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta e
 **Médiuns lacônicos**: aqueles cujas comunicações, embora recebidas com facilidade, são breves e sem desenvolvimento.
 
 **Médiuns explícitos**: as comunicações que recebem têm toda a amplitude e toda a extensão que se podem esperar de um escritor consumado.
+
 > 👻 ▸ Esta aptidão resulta da expansão e da facilidade de combinação dos fluidos. Os Espíritos os procuram para tratar de assuntos que comportam grandes desenvolvimentos.
 
 **Médiuns experimentados**: a facilidade de execução é uma questão de hábito e que muitas vezes se adquire em pouco tempo, enquanto a experiência resulta de um estudo sério de todas as dificuldades que se apresentam na prática do Espiritismo. A experiência dá ao médium o tato necessário para apreciar a natureza dos Espíritos que se manifestam, para lhes apreciar as qualidades boas ou más, pelos mais minuciosos sinais, para distinguir o embuste dos Espíritos zombeteiros, que se acobertam com as aparências da verdade. Facilmente se compreende a importância desta qualidade, sem a qual todas as outras ficam destituídas de real utilidade. O mal é que muitos médiuns confundem a experiência, fruto do estudo, com a aptidão, produto da organização física. Julgam-se mestres, porque escrevem com facilidade; repelem todos os conselhos e se tornam presas de Espíritos mentirosos e hipócritas, que os captam, lisonjeando-lhes o orgulho. 👉 ([LDM-2-23](#LDM-2-23))
 
 **Médiuns maleáveis**: aqueles cuja faculdade se presta mais facilmente aos diversos gêneros de comunicações e pelos quais todos os Espíritos, ou quase todos, podem manifestar-se espontaneamente ou por evocação.
+
 > 👻 ▸ Esta espécie de médiuns se aproxima muito da dos médiuns sensitivos.
 
 **Médiuns exclusivos**: aqueles pelos quais se manifesta de preferência um Espírito, até com exclusão de todos os demais, o qual responde pelos outros que são chamados.
+
 > 👻 ▸ Isto resulta sempre de falta de maleabilidade. Quando o Espírito é bom, pode ligar-se ao médium, por simpatia ou com um intento louvável; quando mau, é sempre objetivando pôr o médium na sua dependência. É mais um defeito do que uma qualidade e muito próximo da obsessão. 👉 ([LDM-2-23](#LDM-2-23))
 
 **Médiuns para evocação**: os médiuns maleáveis são naturalmente os mais próprios para este gênero de comunicação e para as questões de minudências que se podem propor aos Espíritos. Sob este aspecto, há médiuns inteiramente especiais.
+
 > 👻 ▸ As respostas que dão não saem quase nunca de um quadro restrito, incompatível com o desenvolvimento dos assuntos gerais.
 
 **Médiuns para ditados espontâneos**: recebem comunicações espontâneas de Espíritos que se apresentam sem ser chamados. Quando esta faculdade é especial num médium, torna-se difícil, às vezes impossível mesmo, fazer-se por ele uma evocação.
+
 > 👻 ▸ Entretanto, são mais bem aparelhados que os da classe precedente. Atenta em que o aparelhamento de que aqui se trata é o de materiais do cérebro, pois mister se faz, frequentemente, direi mesmo — sempre, maior soma de inteligência para os ditados espontâneos do que para as evocações. Entende por ditados espontâneos os que verdadeiramente merecem essa denominação e não algumas frases incompletas ou algumas ideias corriqueiras, que se deparam em todos os escritos humanos.
 
 #### 193
@@ -2673,6 +2692,7 @@ Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta e
 **Médiuns literários**: não apresentam nem o que há de impreciso nos médiuns poéticos, nem o terra a terra dos médiuns positivos; porém, dissertam com sagacidade. Têm o estilo correto, elegante e, frequentemente, de notável eloquência.
 
 **Médiuns incorretos**: podem obter excelentes coisas, pensamentos de inatacável moralidade, mas num estilo prolixo, incorreto, sobrecarregado de repetições e de termos impróprios.
+
 > 👻 ▸ A incorreção material do estilo decorre geralmente de falta de cultura intelectual do médium que, então, não é, sob esse aspecto, um bom instrumento para o Espírito, que a isso, aliás, pouca importância liga. Tendo como essencial o pensamento, ele vos deixa a liberdade de dar-lhe a forma que convenha. Já assim não é com relação às ideias falsas e ilógicas que uma comunicação possa conter, as quais constituem sempre um índice da inferioridade do Espírito que se manifesta.
 
 **Médiuns historiadores**: os que revelam aptidão especial para as explanações históricas. Esta faculdade, como todas as demais, independe dos conhecimentos do médium, porquanto não é raro verem-se pessoas sem instrução e até crianças tratar de assuntos que lhes não estão ao alcance. Variedade rara dos médiuns positivos.
@@ -2698,9 +2718,11 @@ Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta e
 **Médiuns calmos**: escrevem sempre com certa lentidão e sem experimentar a mais ligeira agitação.
 
 **Médiuns velozes**: escrevem com rapidez maior do que poderiam voluntariamente, no estado ordinário. Os Espíritos se comunicam por meio deles com a rapidez do relâmpago. Dir-se-ia haver neles uma superabundância de fluido, que lhes permite identificarem-se instantaneamente com o Espírito. Esta qualidade apresenta às vezes seu inconveniente: o de que a rapidez da escrita a torna muito difícil de ser lida por quem quer que não seja o médium.
+
 > 👻 ▸ É mesmo muito fatigante, porque desprende muito fluido inutilmente.
 
 **Médiuns convulsivos**: ficam num estado de sobre-excitação quase febril. A mão e algumas vezes todo o corpo se lhes agitam num tremor que é impossível dominar. A causa primária desse fato está, sem dúvida, na organização, mas também depende muito da natureza dos Espíritos que por eles se comunicam. Os bons e benévolos produzem sempre uma impressão suave e agradável; os maus, ao contrário, produzem-na penosa.
+
 > 👻 ▸ É preciso que esses médiuns só raramente se sirvam de sua faculdade mediúnica, cujo uso frequente lhes poderia afetar o sistema nervoso. 👉 ([LDM-p262](#LDM-p262))
 
 #### 195
@@ -2728,9 +2750,11 @@ Mencionamo-las sumariamente e de memória, apenas para completar o quadro, visto
 **Médiuns orgulhosos**: os que se envaidecem das comunicações que lhes são dadas; julgam que nada mais têm que aprender no Espiritismo e não tomam para si as lições que recebem frequentemente dos Espíritos. Não se contentam com as faculdades que possuem, querem tê-las todas.
 
 **Médiuns suscetíveis**: variedade dos médiuns orgulhosos, suscetibilizam-se com as críticas de que sejam objeto suas comunicações; zangam-se com a menor contradição e, se mostram o que obtêm, é para que seja admirado, e não para que se lhes dê um parecer. Geralmente, tomam aversão às pessoas que os não aplaudem sem restrições e fogem das reuniões onde não possam impor-se e dominar.
+
 > 👻 ▸ Deixai que se vão pavonear algures e procurar ouvidos mais complacentes, ou que se isolem; nada perdem as reuniões que da presença deles ficam privadas.
 >
 > Erasto
+{:.spirit-multi}
 
 **Médiuns mercenários**: os que exploram suas faculdades.
 
@@ -2753,6 +2777,7 @@ Bons médiuns:
 **Médiuns devotados**: os que compreendem que o verdadeiro médium tem uma missão a cumprir e deve, quando necessário, sacrificar gostos, hábitos, prazeres, tempo e mesmo interesses materiais ao bem dos outros.
 
 **Médiuns seguros**: os que, além da facilidade de execução, merecem toda a confiança, pelo próprio caráter, pela natureza elevada dos Espíritos que os assistem; os que, portanto, menos expostos se acham a ser iludidos. Veremos mais tarde que esta segurança de modo algum depende dos nomes mais ou menos respeitáveis com que os Espíritos se manifestem.
+
 > 👻 ▸ É incontestável, bem o sentis, que, epilogando assim as qualidades e os defeitos dos médiuns, isto suscitará contrariedades e até a animosidade de alguns; mas que importa? A mediunidade se espalha cada vez mais e o médium que levasse a mal estas reflexões apenas uma coisa provaria: que não é bom médium, isto é, que tem a assisti-lo Espíritos maus. Ademais, como já eu disse, tudo isto será passageiro e os maus médiuns, os que abusam ou usam mal de suas faculdades, experimentarão tristes consequências, conforme já se tem dado com alguns. Aprenderão à sua custa o que resulta de aplicarem, no interesse de suas paixões terrenas, um dom que Deus lhes outorgara unicamente para o adiantamento moral deles. Se os não puderdes reconduzir ao bom caminho, lamentai-os, porquanto, posso dizê-lo, Deus os reprova.
 >
 > Erasto
@@ -2760,6 +2785,7 @@ Bons médiuns:
 > 👻 ▸ Este quadro é de grande importância não só para os médiuns sinceros que, lendo-o, procurarem de boa-fé preservar-se dos escolhos a que estão expostos, mas também para todos os que se servem dos médiuns, porque lhes dará a medida do que podem racionalmente esperar. Ele deverá estar constantemente sob as vistas de todo aquele que se ocupa de manifestações, do mesmo modo que a escala espírita, a que serve de complemento. Esses dois quadros reúnem todos os princípios da Doutrina e contribuirão, mais do que o supondes, para trazer o Espiritismo ao verdadeiro caminho.
 >
 > Sócrates
+{:.spirit-multi}
 
 #### 198
 
@@ -2768,6 +2794,7 @@ Todas estas variedades de médiuns apresentam uma infinidade de graus em sua int
 > 👻 ▸ Quando existe o princípio, o gérmen de uma faculdade, esta se manifesta sempre por sinais inequívocos. Limitando-se à sua especialidade, pode o médium tornar-se excelente e obter grandes e belas coisas; ocupando-se de todo, nada de bom obterá. Notai, de passagem, que o desejo de ampliar indefinidamente o âmbito de suas faculdades é uma pretensão orgulhosa, que os Espíritos nunca deixam impune. Os bons abandonam o presunçoso, que se torna então joguete dos mentirosos. Infelizmente, não é raro verem-se médiuns que, não contentes com os dons que receberam, aspiram, por amor-próprio ou ambição, a possuir faculdades excepcionais, capazes de os tornarem notados. Essa pretensão lhes tira a qualidade mais preciosa: a de médiuns seguros.
 >
 > Sócrates
+{:.spirit-multi}
 
 #### 199
 
@@ -2775,7 +2802,7 @@ O estudo da especialidade dos médiuns não só lhes é necessário, como també
 
 Cumpre, além disso, notar que os matizes que a mediunidade apresenta, e aos quais outros mais se poderiam acrescentar, nem sempre guardam relação com o caráter do médium. Assim, por exemplo, um médium naturalmente alegre, jovial, pode obter comumente comunicações graves, mesmo severas e vice-versa. É ainda uma prova evidente de que ele age sob a impulsão de uma influência estranha. Voltaremos ao assunto no capítulo que trata da influência moral do médium. 👉 ([LDM-2-20](#LDM-2-20))
 
-### 2-17. 🗂️ 
+### 2-17. 🗂️ Formação dos médiuns {#ldm-2-17} 
 
 #### 200
 
@@ -2810,12 +2837,14 @@ Para se evitarem tentativas inúteis, pode consultar-se, por outro médium, um E
 Sou médium?
 
 O Espírito pode responder:
+
 > 👻 ▸ Sim.
 
 A esta outra mais precisa:
 Sou médium escrevente?
 
 Pode responder:
+
 > 👻 ▸ Não.
 
 Deve também levar-se em conta a natureza do Espírito a quem é feita a pergunta. Há os tão levianos e ignorantes, que respondem a torto e a direito, como verdadeiros estúrdios. Por isso aconselhamos se dirija o interrogante a Espíritos esclarecidos, que, geralmente, respondem de boa vontade a essas perguntas e indicam o melhor caminho a seguir-se, desde que haja possibilidade de bom êxito.
@@ -2849,6 +2878,7 @@ O primeiro indício de disposição para escrever é uma espécie de frêmito no
 Alguns médiuns escrevem desde o princípio correntemente com facilidade, às vezes mesmo desde a primeira sessão, o que é muito raro. Outros, durante muito tempo, traçam riscos e fazem verdadeiros exercícios caligráficos. Dizem os Espíritos que é para lhes soltar a mão. Prolongando-se demasiado esses exercícios, ou degenerando na grafia de sinais ridículos, não há duvidar de que se trata de um Espírito que se diverte, porquanto os bons Espíritos nunca fazem nada que seja inútil. Nesse caso, cumpre redobrar de fervor no apelo à assistência destes. Se, apesar de tudo, nenhuma alteração houver, deve o médium parar, uma vez reconheça que nada de sério obtém. A tentativa pode ser feita todos os dias, mas convém cesse aos primeiros sinais equívocos, a fim de não ser dada satisfação aos Espíritos zombeteiros.
 
 A estas observações, acrescenta um Espírito:
+
 > 👻 ▸ Há médiuns cuja faculdade não pode produzir senão esses sinais. Quando, ao cabo de alguns meses, nada mais obtêm do que coisas insignificantes, ora um sim, ora um não, ou letras sem conexão, é inútil continuarem, será gastar papel em pura perda. São médiuns, mas médiuns improdutivos. Demais, as primeiras comunicações obtidas devem considerar-se meros exercícios, tarefa que é confiada a Espíritos secundários. Não se lhes deve dar muita importância, visto que procedem de Espíritos empregados, por assim dizer, como mestres de escrita, para desembaraçarem o médium principiante. Não creiais sejam alguma vez Espíritos elevados os que se aplicam a fazer com o médium esses exercícios preparatórios; acontece, porém, que, se o médium não colima um fim sério, esses Espíritos continuam e acabam por se lhe ligarem. Quase todos os médiuns passaram por este cadinho para se desenvolver; cabe-lhes fazer o que seja preciso para captar a simpatia dos Espíritos verdadeiramente superiores.
 
 #### 211
@@ -2928,6 +2958,7 @@ A faculdade mediúnica está sujeita a intermitências e a suspensões temporár
 > Em suma, a interrupção da faculdade nem sempre é uma punição; demonstra às vezes a solicitude do Espírito para com o médium, a quem consagra afeição, tendo por objetivo proporcionar-lhe um repouso material de que o julgou necessitado, caso em que não permite que outros Espíritos o substituam.
 
 5. Veem-se, no entanto, médiuns de muito mérito, moralmente falando, que nenhuma necessidade de repouso sentem e que muito se contrariam com essas interrupções, cujo fim lhes escapa.
+
 > 👻 ▸ Servem para lhes pôr a paciência à prova e para lhes experimentar a perseverança. Por isso é que os Espíritos nenhum termo, em geral, assinam à suspensão da faculdade mediúnica; é para verem se o médium descoroçoa. É também para lhe dar tempo de meditar as instruções recebidas. Por essa meditação dos nossos ensinos é que reconhecemos os espíritas verdadeiramente sérios. Não podemos dar esse nome aos que, na realidade, não passam de amadores de comunicações.
 
 6. Será preciso, então, que, nesse caso, o médium prossiga nas suas tentativas para escrever?
@@ -2963,6 +2994,7 @@ Deve-se efetivamente observar que aquele que recorre a terceiro para obter comun
 > 👻 ▸ É uma missão de que se incumbiram e cujo desempenho os faz ditosos. São os intérpretes dos Espíritos com os homens.
 
 13. Entretanto, médiuns há que manifestam repugnância ao uso de suas faculdades.
+
 > 👻 ▸ São médiuns imperfeitos; desconhecem o valor da graça que lhes é concedida.
 
 14. Se é uma missão, como se explica que não constitua privilégio dos homens de bem e que semelhante faculdade seja concedida a pessoas que nenhuma estima merecem e que dela podem abusar?
@@ -2977,7 +3009,7 @@ Deve-se efetivamente observar que aquele que recorre a terceiro para obter comun
 
 > 👻 ▸ Não tem ele os livros, como tem o cristão o Evangelho? Para praticar a moral de Jesus, não é preciso que o cristão tenha ouvido as palavras ao lhe saírem da boca.
 
-### 2-18. 🗂️ 
+### 2-18. 🗂️ Perigos da mediunidade {#ldm-2-18} 
 
 #### 221
 
@@ -3017,9 +3049,9 @@ Deve-se efetivamente observar que aquele que recorre a terceiro para obter comun
 
 A prática do Espiritismo, como veremos mais adiante, demanda muito tato, para a inutilização das tramas dos Espíritos enganadores. Se estes iludem a homens feitos, claro é que a infância e a juventude mais expostas se acham a ser vítimas deles. Sabe-se, além disso, que o recolhimento é uma condição sem a qual não se pode lidar com Espíritos sérios. As evocações feitas estouvadamente e por gracejo constituem verdadeira profanação, que facilita o acesso aos Espíritos zombeteiros ou malfazejos. Ora, não se podendo esperar de uma criança a gravidade necessária a semelhante ato, muito de temer é que ela faça disso um brinquedo, se ficar entregue a si mesma. Ainda nas condições mais favoráveis, é de desejar que uma criança dotada de faculdade mediúnica não a exercite senão sob a vigilância de pessoas experientes, que lhe ensinem, pelo exemplo, o respeito devido às almas dos que viveram no mundo. Por aí se vê que a questão de idade está subordinada às circunstâncias, assim de temperamento, como de caráter. Todavia, o que ressalta com clareza das respostas acima é que não se deve forçar o desenvolvimento dessas faculdades nas crianças, quando não é espontânea, e que, em todos os casos, se deve proceder com grande circunspeção, não convindo nem excitá-las, nem animá-las nas pessoas débeis. Do seu exercício cumpre afastar, por todos os meios possíveis, as que apresentem sintomas, ainda que mínimos, de excentricidade nas ideias ou de enfraquecimento das faculdades mentais, porquanto, nessas pessoas, há predisposição evidente para a loucura, que se pode manifestar por efeito de qualquer sobre-excitação. As ideias espíritas não têm, a esse respeito, maior influência do que outras, mas, vindo a loucura a declarar-se, tomará o caráter de preocupação dominante, como tomaria o caráter religioso, se a pessoa se entregasse em excesso às práticas de devoção, e a responsabilidade seria lançada ao Espiritismo. O que de melhor se tem a fazer com todo indivíduo que mostre tendência à ideia fixa é dar outra diretriz às suas preocupações, a fim de lhe proporcionar repouso aos órgãos enfraquecidos.
 
-Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de 👻 O Livro dos Espíritos.
+Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de 👻 **O Livro dos Espíritos**.
 
-### 2-19. 🗂️ 
+### 2-19. 🗂️ Papel dos médiuns {#ldm-2-19} 
 
 #### 223
 
@@ -3170,6 +3202,7 @@ A dissertação que se segue, dada espontaneamente por um Espírito superior, qu
 > Conforme acima dissemos, os Espíritos não precisam vestir seus pensamentos; eles os percebem e transmitem, reciprocamente, pelo só fato de os pensamentos existirem neles. Os seres corpóreos, ao contrário, só podem perceber os pensamentos, quando revestidos. Enquanto a letra, a palavra, o substantivo, o verbo, a frase, em suma, vos são necessários para perceberdes, mesmo mentalmente, as ideias, nenhuma forma visível ou tangível nos é necessária.
 >
 > Erasto e Timóteo
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -3177,7 +3210,7 @@ Esta análise do papel dos médiuns e dos processos pelos quais os Espíritos se
 
 Se os que reclamam esses fenômenos, como meio de se convencerem, estudassem previamente a teoria, haviam de saber em que condições excepcionais eles se produzem.
 
-### 2-20. 🗂️ 
+### 2-20. 🗂️ Influência moral {#ldm-2-20} 
 
 #### 226
 
@@ -3278,8 +3311,9 @@ A seguinte instrução deu-no-la sobre o assunto, um Espírito de quem temos ins
 > O Espiritismo já está bastante espalhado entre os homens e já moralizou suficientemente os adeptos sinceros da sua santa doutrina, para que os Espíritos já não se vejam constrangidos a usar de maus instrumentos, de médiuns imperfeitos. Se, pois, agora, um médium, qualquer que ele seja, se tornar objeto de legítima suspeição, pelo seu proceder, pelos seus costumes, pelo seu orgulho, pela sua falta de amor e de caridade, repeli, repeli suas comunicações, porquanto aí estará uma serpente oculta entre as ervas. É esta a conclusão a que chego sobre a influência moral dos médiuns.
 >
 > Erasto
+{:.spirit-multi}
 
-### 2-21. 🗂️ 
+### 2-21. 🗂️ Influência do meio {#ldm-2-21} 
 
 #### 231
 
@@ -3305,7 +3339,7 @@ Por aí se vê a influência enorme que o meio exerce sobre a natureza das manif
 
 Em resumo: as condições do meio serão tanto melhores quanto mais homogeneidade houver para o bem, mais sentimentos puros e elevados, mais desejo sincero de instrução, sem ideias preconcebidas.
 
-### 2-22. 🗂️ 
+### 2-22. 🗂️ Mediunidade nos animais {#ldm-2-22} 
 
 #### 234
 
@@ -3356,12 +3390,13 @@ Esta comunicação deu-a ele em seguida a uma discussão, que se travara, sobre 
 > Resumindo: os fatos mediúnicos não podem dar-se sem o concurso consciente ou inconsciente dos médiuns; e somente entre os encarnados, Espíritos como nós, podemos encontrar os que nos sirvam de médiuns. Quanto a educar cães, pássaros, ou outros animais, para fazerem tais ou tais exercícios, é trabalho vosso, e não nosso. [^24]
 >
 > Erasto
+{:.spirit-multi}
 
 📝 **Nota**
 
 na **📓 Revista Espírita** de setembro de 1861, encontra-se, minudenciado, um processo empregado pelos educadores de pássaros sábios, com o fim de fazê-los tirar de um maço de cartas as que se queiram.
 
-### 2-23. 🗂️ 
+### 2-23. 🗂️ Obsessão {#ldm-2-23} 
 
 #### 237
 
@@ -3547,7 +3582,7 @@ Terminaremos este capítulo inserindo as respostas que os Espíritos deram a alg
 
 > 👻 ▸ Se podem proibir a certas pessoas que se comuniquem com os Espíritos, não podem impedir que manifestações espontâneas sejam feitas a essas mesmas pessoas, porquanto não podem suprimir os Espíritos, nem lhes impedir que exerçam sua influência oculta. Esses tais se assemelham às crianças que tapam os olhos e ficam crentes de que ninguém as vê. Fora loucura querer suprimir uma coisa que oferece grandes vantagens, só porque imprudentes podem abusar dela. O meio de se lhe prevenirem os inconvenientes consiste, ao contrário, em torná-la conhecida a fundo.
 
-### 2-24. 🗂️ 
+### 2-24. 🗂️ Identidade dos Espíritos {#ldm-2-24} 
 
 **Provas possíveis de identidade
 
@@ -3801,7 +3836,7 @@ Questões sobre a natureza e a identidade dos Espíritos
 
 Há médiuns de maior ou menor impressionabilidade nervosa, pelo que a agitação não se pode considerar como regra absoluta. Aqui, como em tudo, devem ter-se em conta as circunstâncias. O caráter penoso e desagradável da impressão é um efeito de contraste, porquanto, se o Espírito do médium simpatiza com o mau Espírito que se manifesta, nada ou muito pouco a proximidade deste o afetará. Todavia, é preciso se não confunda a rapidez da escrita, que deriva da extrema flexibilidade de certos médiuns, com a agitação convulsiva que os médiuns mais lentos podem experimentar ao contato dos Espíritos imperfeitos.
 
-### 2-25. 🗂️ 
+### 2-25. 🗂️ Evocações {#ldm-2-25} 
 
 #### 269
 
@@ -3926,6 +3961,7 @@ Questões sobre as evocações
 > 👻 ▸ Sim, com a diferença de que o som não pode fazer-se ouvir senão dentro de um espaço muito limitado, enquanto o pensamento alcança o infinito. O Espírito, no Além, é como o viajante que, em meio de vasta planície, ouvindo pronunciar o seu nome, se dirige para o lado de onde o chamam.
 
 6. Sabemos que as distâncias nada são para os Espíritos; contudo, causa espanto ver que respondem tão prontamente ao chamado, como se estivessem muito perto.
+
 > 👻 ▸ É que, com efeito, às vezes, o estão. Se a evocação é premeditada, o Espírito se acha de antemão prevenido e frequentemente se encontra no lugar onde o vão evocar, antes que o chamem.
 
 7. Dar-se-á que o pensamento do evocador seja mais ou menos facilmente percebido, conforme as circunstâncias?
@@ -4214,7 +4250,7 @@ A coisa era, de fato, real, mas, poucos dias depois, o parente destruiu seu test
 
 📝 **Nota**
 
-A encarnação não se torna definitiva senão no momento em que a criança respira; porém, desde a concepção do corpo, o Espírito designado para animá-lo é presa de uma perturbação que aumenta à medida que o nascimento se aproxima e lhe tira a consciência de si mesmo e, por conseguinte, a faculdade de responder. (**Veja-se**: 👻 O Livro dos Espíritos: Da volta do Espírito à vida corporal, União da alma e do corpo, questão 344)
+A encarnação não se torna definitiva senão no momento em que a criança respira; porém, desde a concepção do corpo, o Espírito designado para animá-lo é presa de uma perturbação que aumenta à medida que o nascimento se aproxima e lhe tira a consciência de si mesmo e, por conseguinte, a faculdade de responder. (**Veja-se**: 👻 **O Livro dos Espíritos**: Da volta do Espírito à vida corporal, União da alma e do corpo, questão 344)
 
 52. Poderia um Espírito mistificador tomar o lugar de uma pessoa viva que se evocasse?
 
@@ -4237,6 +4273,7 @@ Se a evocação dos Espíritos errantes nem sempre dá resultado, conforme expre
 A brusca suspensão das qualidades intelectuais, durante o estado de vigília, também poderia oferecer perigo, se a pessoa nesse momento precisasse de toda a sua presença de espírito.
 
 55. Durante a evocação de uma pessoa viva, seu corpo, embora ausente, experimenta fadiga por efeito do trabalho a que se entrega seu Espírito? Uma pessoa, que se encontrava nesse estado e que pretendia que seu corpo se fatigava, respondeu assim a essa pergunta:
+
 > 👻 ▸ Meu Espírito é como um balão cativo preso a um poste; meu corpo é o poste, que as oscilações do balão sacodem.
 
 56. Pois que a evocação das pessoas vivas pode ter inconvenientes, quando feitas sem precaução, deixa de existir perigo quando se evoca um Espírito que não se sabe se está encarnado e que poderia não se encontrar em condições favoráveis?
@@ -4263,7 +4300,7 @@ Telegrafia humana
 
 > 👻 ▸ É praticável para certas pessoas, mas não para toda gente. Preciso é que os homens se depurem, a fim de que seus Espíritos se desprendam da matéria e isso constitui uma razão a mais para que a evocação se faça em nome de Deus. Até lá, continuará circunscrita às almas de escol e desmaterializadas, o que raramente se encontra nesse mundo, dado o estado dos habitantes da Terra.
 
-### 2-26. 🗂️ 
+### 2-26. 🗂️ Perguntas que se podem fazer {#ldm-2-26} 
 
 **Observações preliminares
 
@@ -4279,7 +4316,7 @@ Não se segue daí que dos Espíritos não se possam obter úteis esclarecimento
 
 #### 287
 
-Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, 👻 O Livro dos Espíritos e O livro dos médiuns ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
+Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, 👻 **O Livro dos Espíritos** e O livro dos médiuns ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
 
 Têm ainda outra vantagem: a de concorrerem para o desmascaramento dos Espíritos mistificadores que, mais pretensiosos do que sábios, raramente suportam a prova das perguntas feitas com cerrada lógica, por meio das quais o interrogante os leva aos seus últimos redutos. Os Espíritos Superiores, como nada têm que temer de semelhante questionário, são os primeiros a provocar explicações sobre os pontos obscuros. Os outros, ao contrário, receando ter que se haver com antagonistas mais fortes, cuidadosamente as evitam. Por isso mesmo, em geral, recomendam aos médiuns, que eles desejam dominar, e aos quais querem impor suas utopias, se abstenham de toda controvérsia a propósito de seus ensinos.
 
@@ -4480,6 +4517,7 @@ Sobre a saúde
 Sobre as invenções e descobertas:
 
 28. Podem os Espíritos guiar os homens nas pesquisas científicas e nas descobertas
+
 > 👻 ▸ A ciência é obra do gênio; só pelo trabalho deve ser adquirida, pois só pelo trabalho é que o homem se adianta no seu caminho. Que mérito teria ele, se não lhe fosse preciso mais do que interrogar os Espíritos para saber tudo? A esse preço, qualquer imbecil poderia tornar-se sábio. O mesmo se dá com as invenções e descobertas que interessam à indústria. Há ainda uma outra consideração e é que cada coisa tem que vir a seu tempo e quando as ideias estão maduras para a receber. Se o homem dispusesse desse poder, subverteria a ordem das coisas, fazendo que os frutos brotassem antes da estação própria.
 >
 > Disse Deus ao homem: **tirarás da terra o teu alimento, com o suor do teu rosto.** Admirável figura, que pinta a condição em que ele se encontra nesse mundo. Tem que progredir em tudo, pelo esforço no trabalho. Se lhe dessem as coisas inteiramente prontas, de que lhe serviria a inteligência? Seria como o estudante cujos deveres um outro faça.
@@ -4520,7 +4558,7 @@ Sobre outros mundos:
 
 📝 **Nota**.. As questões sobre a constituição física e os elementos astronômicos dos mundos se compreendem no campo das pesquisas científicas, para cuja efetivação não devem os Espíritos poupar-nos os trabalhos que demandam. Se não fosse assim, muito cômodo se tornaria para um astrônomo pedir aos Espíritos que lhe fizessem os cálculos, o que, no entanto, depois, sem dúvida, esconderia. Se os Espíritos pudessem, por meio da revelação, evitar o trabalho de uma descoberta, é provável que o fizessem para um sábio que, por bastante modesto, não hesitaria em proclamar abertamente o meio pelo qual o alcançara e não para os orgulhosos que os renegam e a cujo amor-próprio, ao contrário, eles muitas vezes poupam decepções.
 
-### 2-27. 🗂️ 
+### 2-27. 🗂️ Contradições {#ldm-2-27} 
 
 **Das contradições
 
@@ -4648,7 +4686,7 @@ Se ser enganado é desagradável, ainda mais desagradável é ser mistificado. E
 
 A astúcia dos Espíritos mistificadores ultrapassa às vezes tudo o que se possa imaginar. A arte, com que dispõem as suas baterias e combinam os meios de persuadir, seria uma coisa curiosa, se eles nunca passassem dos simples gracejos; porém, as mistificações podem ter consequências desagradáveis para os que não se achem em guarda. Sentimo-nos felizes por termos podido abrir a tempo os olhos a muitas pessoas que se dignaram de pedir o nosso parecer e por lhes havermos poupado ações ridículas e comprometedoras. Entre os meios que esses Espíritos empregam, devem colocar-se na primeira linha, como os mais frequentes, os que têm por fim tentar a cobiça, como a revelação de pretendidos tesouros ocultos, o anúncio de heranças, ou outras fontes de riquezas. Devem, além disso, considerar-se suspeitas, logo à primeira vista, as predições com época determinada, assim como todas as indicações precisas, relativas a interesses materiais. Cumpre não se deem os passos prescritos ou aconselhados pelos Espíritos, quando o fim não seja eminentemente racional; que ninguém nunca se deixe deslumbrar pelos nomes que os Espíritos tomam para dar aparência de veracidade às suas palavras; desconfiar das teorias e sistemas científicos ousados; enfim, de tudo o que se afaste do objetivo moral das manifestações. Encheríamos um volume dos mais curiosos, se houvéramos de referir todas as mistificações de que temos tido conhecimento.
 
-### 2-28. 🗂️ 
+### 2-28. 🗂️ Charlatanismo {#ldm-2-28} 
 
 **Médiuns interesseiros
 
@@ -4743,6 +4781,7 @@ Os médiuns trapaceiros são estigmatizados, como merecem, na seguinte carta que
 > Aceitai etc.
 >
 > Mateus
+{:.grey}
 
 #### 318
 
@@ -4774,7 +4813,7 @@ As manifestações inteligentes são, conforme as circunstâncias, as que oferec
 
 Em resumo, repetimos, a melhor garantia está na moralidade notória dos médiuns e na ausência de todas as causas de interesse material, ou de amor-próprio, capazes de estimular-lhes o exercício das faculdades mediúnicas que possuam, porquanto essas mesmas causas poderiam induzi-los a simular as de que não dispõem.
 
-### 2-29. 🗂️ 
+### 2-29. 🗂️ Sociedades Espíritas {#ldm-2-29} 
 
 **Das reuniões em geral
 
@@ -4913,7 +4952,7 @@ As manifestações físicas, conforme já dissemos, têm grande utilidade, visto
 
 #### 343
 
-Os que evocam seus parentes e amigos, ou certas personagens célebres, para lhes comparar as opiniões de Além-Túmulo com as que sustentavam quando vivos, ficam, não raro, embaraçados para manter com eles a conversação, sem caírem nas banalidades e futilidades. Pensam muitas pessoas, ademais, que 👻 O Livro dos Espíritos esgotou a série das questões de moral e de filosofia. É um erro. Por isso julgamos útil indicar a fonte donde se pode tirar assuntos de estudo, por assim dizer inesgotáveis.
+Os que evocam seus parentes e amigos, ou certas personagens célebres, para lhes comparar as opiniões de Além-Túmulo com as que sustentavam quando vivos, ficam, não raro, embaraçados para manter com eles a conversação, sem caírem nas banalidades e futilidades. Pensam muitas pessoas, ademais, que 👻 **O Livro dos Espíritos** esgotou a série das questões de moral e de filosofia. É um erro. Por isso julgamos útil indicar a fonte donde se pode tirar assuntos de estudo, por assim dizer inesgotáveis.
 
 #### 344
 
@@ -4967,7 +5006,7 @@ Essa a estrada pela qual temos procurado com esforço fazer que o Espiritismo en
 
 Convidamos, pois, todas as Sociedades espíritas a colaborar nessa grande obra. Que de um extremo ao outro do mundo elas se estendam fraternalmente as mãos e eis que terão colhido o mal em inextricáveis malhas.
 
-### 2-30. 🗂️ 
+### 2-30. 🗂️ Sociedade Parisiense {#ldm-2-30} 
 
 Fundada a 1 de abril de 1858
 
@@ -5105,7 +5144,7 @@ Todo escrito que um sócio publicar sob o véu da anonímia e sem indicação al
 
 Pode a Sociedade, sem modificar o seu regulamento nos pontos essenciais, adotar todas as medidas complementares que lhe pareçam necessárias.
 
-### 2-31. 🗂️ 
+### 2-31. 🗂️ Dissertações {#ldm-2-31} 
 
 Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam os princípios exarados nesta obra. Poderíamos inseri-los em muito maior número; limitamo-nos, porém, aos que, de modo mais particular, dizem respeito ao porvir do Espiritismo, aos médiuns e às reuniões. Damo-los também como instrução e como tipos das comunicações verdadeiramente sérias. Encerramos o capítulo com algumas comunicações apócrifas, seguidas de notas apropriadas a torná-las reconhecíveis.
 
@@ -5117,7 +5156,8 @@ Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam 
 >
 > Não vos será dado, é certo, gozá-la nesta existência; porém, não sereis ditosos, se não tornardes a viver neste globo, por poderdes considerar do alto que a obra, que houverdes começado, se desenvolve sob as vossas vistas?
 >
-> Couraçai-vos de fé firme e inabalável contra os obstáculos que, ao que parece, hão de levantar-se contra o edifício cujos fundamentos pondes. São sólidas as bases em que ele > 👻 ▸ assenta: a primeira pedra colocou-a o Cristo. Coragem, pois, arquitetos do divino Mestre!
+> Couraçai-vos de fé firme e inabalável contra os obstáculos que, ao que parece, hão de levantar-se contra o edifício cujos fundamentos pondes. São sólidas as bases em que ele 
+> assenta: a primeira pedra colocou-a o Cristo. Coragem, pois, arquitetos do divino Mestre!
 > Trabalhai, construí! Deus vos coroará a obra.
 >
 > Mas lembrai-vos bem de que o Cristo renega, como seu discípulo, todo aquele que só nos lábios tem a caridade.
@@ -5125,6 +5165,7 @@ Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam 
 > Não basta crer; é preciso, sobretudo, dar exemplos de bondade, de tolerância e de desinteresse, sem o que estéril será a vossa fé.
 >
 > Santo Agostinho
+{:.spirit-multi}
 
 ###### 02
 
@@ -5137,6 +5178,7 @@ Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam 
 > Eu pressentira, malgrado os prejuízos de infância e de educação, malgrado o culto da lembrança, a época atual. Sou feliz por isso e mais feliz ainda por vos vir dizer: Irmãos, coragem! trabalhai por vós e pelo futuro dos vossos; trabalhai, sobretudo, por vos melhorardes pessoalmente e gozareis, na vossa primeira existência, de uma ventura de que tão difícil vos é fazer ideia, quanto a mim vo-la fazer compreender.
 >
 > Chateaubriand
+{:.spirit-multi}
 
 ###### 03
 
@@ -5150,19 +5192,22 @@ Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam 
 >
 > Ressuscitando o espiritualismo, o Espiritismo restituirá à sociedade o surto, que a uns dará a dignidade interior; a outros, a resignação; a todos, a necessidade de se elevarem para o Ente supremo, olvidado e desconhecido pelas suas ingratas criaturas.
 >
-> **J. J. Rousseau
+> J. J. Rousseau
+{:.spirit-multi}
 
 ###### 04
 
 > 👻 ▸ Se Deus envia os Espíritos a instruir os homens, é para que estes se esclareçam sobre seus deveres, é para lhes mostrarem o caminho por onde poderão abreviar suas provas e, conseguintemente apressar o seu progresso. Ora, do mesmo modo que o fruto chega à madureza, também o homem chegará à perfeição. Porém, de par com Espíritos bons, que desejam o vosso bem, há igualmente os Espíritos imperfeitos, que desejam o vosso mal. Ao passo que uns vos impelem para frente, outros vos puxam para trás. A saber distingui-los é que deve aplicar-se toda a vossa atenção. É fácil o meio: trata-se unicamente de compreenderdes que o que vem de um Espírito bom não pode prejudicar a quem quer que seja e que tudo o que seja mal só de um mau Espírito pode provir. Se não escutardes os sábios conselhos dos Espíritos que vos querem bem, se vos ofenderdes pelas verdades, que eles vos digam, evidente é que são maus os Espíritos que vos inspiram. Só o orgulho pode impedir que vos vejais quais realmente sois. Mas se vós mesmos não o vedes, outros o veem por vós. De sorte que, então, sois censurados pelos homens, que de vós se riem por detrás, e pelos Espíritos.
 >
 > Um Espírito familiar
+{:.spirit-multi}
 
 ###### 05
 
 > 👻 ▸ É bela e santa a vossa Doutrina. O primeiro marco está plantado e plantado solidamente. Agora, só tendes que caminhar. A estrada que vos está aberta é grande e majestosa. Feliz daquele que chegar ao porto; quanto mais prosélitos houver feito, tanto mais lhe será contado. Para isso, cumpre não abraçar friamente a Doutrina; é preciso fazê-lo com ardor e esse ardor será duplicado, porquanto Deus está convosco, sempre que fazeis o bem. Todos os que atrairdes serão outras tantas ovelhas que voltaram ao aprisco. Pobres ovelhas meio transviadas! Crede que o mais cético, o mais ateu, o mais incrédulo, enfim, tem sempre no coração um cantinho que ele desejara poder ocultar a si mesmo. Esse cantinho é que é preciso procurar, é que é preciso achar. É o lado vulnerável que se deve atacar. É uma brechazinha que Deus intencionalmente deixa aberta, para facilitar à sua criatura o meio de lhe voltar ao seio.
 >
 > São Bento
+{:.spirit-multi}
 
 ###### 06
 
@@ -5175,12 +5220,14 @@ Reunimos neste capítulo alguns ditados espontâneos, que completam e confirmam 
 > Por ordem de Deus, os Espíritos trabalham pelo progresso de todos, sem exceção. Fazei o mesmo, vós outros, espíritas.
 >
 > São Luís
+{:.spirit-multi}
 
 ###### 07
 
 > 👻 ▸ Qual a instituição humana, ou mesmo divina, que não encontrou obstáculos a vencer, cismas contra que lutar? Se apenas tivésseis uma existência triste e lânguida, ninguém vos atacaria, sabendo perfeitamente que havíeis de sucumbir de um momento para outro. Mas como a vossa vitalidade é forte e ativa, como a árvore espírita tem fortes raízes, admitem que ela poderá viver longo tempo e tentam golpeá-la a machado. Que conseguirão esses invejosos? Quando muito, deceparão alguns galhos, que renascerão com seiva nova e serão mais robustos do que nunca.
 >
-> 👻 ▸ **Channing
+> Channing
+{:.spirit-multi}
 
 ###### 08
 
@@ -5223,6 +5270,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 > Escutai essa voz interior, esse bom gênio, que incessantemente vos fala, e chegareis progressivamente a ouvir o vosso anjo guardião, que do alto dos céus vos estende as mãos. Repito: a voz íntima que fala ao coração é a dos bons Espíritos e é deste ponto de vista que todos os homens são médiuns.
 >
 > Channing
+{:.spirit-multi}
 
 ###### 11
 
@@ -5235,6 +5283,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 > O Espírito humano segue em marcha necessária, imagem da graduação que experimenta tudo o que povoa o Universo visível e invisível. Todo progresso vem na sua hora: a da elevação moral soou para a Humanidade. Ela não se operará ainda nos vossos dias, mas agradecei ao Senhor o haver permitido assistais à aurora bendita.
 >
 > Pedro Jouty, pai do médium
+{:.spirit-multi}
 
 ###### 12
 
@@ -5247,6 +5296,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 > Espero que esta comunicação produza frutos e desejo que ela possa ajudar os médiuns a se terem em guarda contra o escolho que os faria naufragar. Esse escolho, já o disse, é o orgulho.
 >
 > Joana d’Arc
+{:.spirit-multi}
 
 ###### 13
 
@@ -5257,6 +5307,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 > Que, dentre vós, o médium que não se sinta com forças para perseverar no ensino espírita se abstenha; porquanto, não fazendo proveitosa a luz que o ilumina, será menos escusável do que outro qualquer e terá que expiar a sua cegueira.
 >
 > Pascal
+{:.spirit-multi}
 
 ###### 14
 
@@ -5269,6 +5320,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 > Não é racional se suponha que Espíritos bons possam auxiliar quem vise satisfazer ao orgulho, ou à ambição. Deus permite que eles se comuniquem com os homens para os tirarem do paul terrestre, e não para servirem de instrumentos às paixões mundanas. Logo, não pode Ele ver com bons olhos os que desviam do seu verdadeiro objetivo o dom que lhes concedeu e vos asseguro que esses serão punidos, mesmo aí nesse mundo, pelas mais amargas decepções.
 >
 > Delfina de Girardin
+{:.spirit-multi}
 
 ###### 15
 
@@ -5281,6 +5333,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 > Lembrem-se sempre destas palavras: Aquele que se exalçar será humilhado e o que se humilhar será exalçado.
 >
 > O Espírito da Verdade
+{:.spirit-multi}
 
 #### Sobre as Sociedades Espíritas
 
@@ -5297,6 +5350,7 @@ Das comunicações que se seguem, algumas foram dadas na Sociedade Parisiense de
 > Lembrai-vos de que um dia pode vir em que o mundo tenha postos sobre vós os olhos. Fazei, conseguintemente, que nada empane o brilho das boas coisas que saírem do vosso seio. Por isso é que vos recomendamos pedirdes a Deus que vos assista.
 >
 > Santo Agostinho
+{:.spirit-multi}
 
 Instado para ditar uma fórmula de invocação geral, Santo Agostinho respondeu:
 
@@ -5325,6 +5379,7 @@ A seguinte fórmula de invocação geral foi redigida com o concurso do Espírit
 > Deixai de lado as questões de ciência: a missão dos Espíritos não é resolvê-las, poupando-vos ao trabalho das pesquisas, mas procurai tornar-vos melhores, porquanto é assim que realmente progredireis.
 >
 > São Luís
+{:.spirit-multi}
 
 ###### 18
 
@@ -5335,6 +5390,7 @@ A seguinte fórmula de invocação geral foi redigida com o concurso do Espírit
 > Que supondes sois, aos olhos dos Espíritos Superiores, quando fazeis que uma mesa gire, ou se levante? Simples colegiais. Passa o sábio o tempo a repetir o abc da ciência? Entretanto, ao ver-vos buscar as comunicações sérias, eles vos consideram como homens sérios, à procura da verdade.
 >
 > São Luís
+{:.spirit-multi}
 
 Perguntando nós a São Luís se, com essas palavras, tinha o intento de condenar as manifestações físicas, respondeu ele:
 
@@ -5347,6 +5403,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > Que o espírito de caridade vos reúna, tanto da caridade que dá como da que ama. Mostrai-vos pacientes ante as injúrias dos vossos detratores; sede firmes no bem e, sobretudo, humildes diante de Deus. Somente a humildade eleva. Essa a grandeza única que Deus reconhece. Só então os bons Espíritos virão a vós; do contrário o do mal se apossaria de vossa alma. Sede benditos em nome do Criador e crescereis aos olhos dos homens, ao mesmo tempo que aos olhos de Deus.
 >
 > São Luís
+{:.spirit-multi}
 
 ###### 20
 
@@ -5355,6 +5412,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > O Espiritismo germinou, deitou raízes profundas. Vai estender por sobre a terra sua ramagem benfazeja. É preciso vos torneis invulneráveis aos dardos envenenados da calúnia e da negra falange dos Espíritos ignorantes, egoístas e hipócritas. Para chegardes a isso, mister se faz que uma indulgência e uma tolerância recíprocas presidam às vossas relações; que os vossos defeitos passem despercebidos; que somente as vossas qualidades sejam notórias; que o facho da amizade santa vos funda, ilumine e aqueça os corações. Assim resistireis aos ataques impotentes do mal como o rochedo inabalável à vaga furiosa.
 >
 > São Vicente de Paulo
+{:.spirit-multi}
 
 ###### 21
 
@@ -5369,6 +5427,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > Tal deve ser, meus amigos, um grupo de verdadeiros espíritas. Doutra feita, dar-vos-ei novos conselhos.
 >
 > Fénelon
+{:.spirit-multi}
 
 ###### 22
 
@@ -5379,6 +5438,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > Os que pretendam que os seus guias são Espíritos melhores que os dos outros deverão prová-lo, mostrando melhores sentimentos. Haja, pois, luta entre eles, mas luta de grandeza de alma, de abnegação, de bondade e de humildade. O que atirar pedra a outro provará, por esse simples fato, que se acha influenciado por maus Espíritos. A natureza dos sentimentos recíprocos que dois homens manifestem é a pedra de toque para se conhecer a natureza dos Espíritos que os assistem.
 >
 > Fénelon
+{:.spirit-multi}
 
 ###### 23
 
@@ -5387,6 +5447,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > Nenhuma conversa deveis tolerar, enquanto os Espíritos estão sendo questionados. Recebeis, às vezes, comunicações que exigem de vós uma réplica séria e respostas não menos sérias da parte dos Espíritos evocados, aos quais muito desagradam, crede-o, os cochichos contínuos de certos assistentes. Daí, em consequência, nada obterdes por completo, nem de verdadeiramente sério. Também o médium que escreve experimenta distrações muito prejudiciais ao seu ministério.
 >
 > São Luís
+{:.spirit-multi}
 
 ###### 24
 
@@ -5396,7 +5457,8 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 > É excelente o trabalho de exame das comunicações. Nunca será demais aprofundarem-se as questões e, principalmente, as respostas. O erro é fácil, mesmo para os Espíritos animados das melhores intenções. A lentidão da escrita, durante a qual o Espírito se afasta do assunto, que ele esgota logo que o concebeu, a mobilidade e a indiferença para com certas formas convindas, todas estas razões e muitas outras vos criam o dever de só limitada confiança dispensardes ao que obtiverdes, subordinando-o sempre ao exame, ainda quando se trate das mais autênticas comunicações.
 >
-> Jorge, Espírito familiar.
+> Jorge, Espírito familiar
+{:.spirit-multi}
 
 ###### 25
 
@@ -5405,6 +5467,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > O nosso objetivo é tornar-vos melhores. Ora, quando verificamos que as nossas palavras nenhum fruto produzem, que, da vossa parte, tudo se resume numa estéril aprovação, vamos em busca de almas mais dóceis. Cedemos então o lugar aos Espíritos que só fazem questão de falar e esses não faltam. Causa-vos espanto que deixemos tomem eles os nossos nomes. Que vos importa, uma vez que, para vós, não há nisso nem mais, nem menos? Ficai, porém, sabendo que não o permitimos quando se trata daqueles por quem realmente nos interessamos, isto é, daqueles com quem o nosso tempo não é perdido. Esses são os que preferimos e cuidadosamente os preservamos da mentira. Se, portanto, sois tão frequentemente enganados, queixai-vos tão só de vós mesmos. Para nós, o homem sério não é aquele que se abstém de rir, mas aquele cujo coração as nossas palavras tocam, que as medita e tira delas proveito. (**Veja-se** o item 268, questões 19 e 20.)
 >
 > Massillon
+{:.spirit-multi}
 
 ###### 26
 
@@ -5415,6 +5478,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 > Mostrem-se, por conseguinte, mais pacientes, mais dignos e mais conciliadores aqueles que no mais alto grau se achem penetrados dos sentimentos dos deveres que lhes impõe a urbanidade, tanto quanto o vero Espiritismo. Pode dar-se que, às vezes, os bons Espíritos permitam essas lutas, para facultarem, assim aos bons, como aos maus sentimentos, ensejo de se revelarem, a fim de separar-se o trigo do joio. Eles, porém, estarão sempre do lado em que houver mais humildade e verdadeira caridade.
 >
 > São Vicente de Paulo
+{:.spirit-multi}
 
 ###### 27
 
@@ -5428,7 +5492,8 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 > É incontestável que, submetendo ao cadinho da razão e da lógica todos os dados e todas as comunicações dos Espíritos, fácil será descobrir-se o absurdo e o erro. Pode um médium ser fascinado, como pode um grupo ser mistificado. Mas a verificação severa dos outros grupos, o conhecimento adquirido e a alta autoridade moral dos diretores de grupos, as comunicações dos principais médiuns, com um cunho de lógica e de autenticidade dos melhores Espíritos, farão justiça rapidamente a esses ditados mentirosos e astuciosos, emanados de uma turba de Espíritos enganadores e malignos.
 >
-> 👻 ▸ **Erasto, discípulo de Paulo.
+> Erasto, discípulo de Paulo
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5457,6 +5522,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 > 👻 ▸ A criação perpétua e incessante dos mundos é, para Deus, um como gozo perpétuo, porque Ele vê incessantemente seus raios se tornarem cada dia mais luminosos em felicidade. Para Deus, não há número, do mesmo modo que não há tempo. Eis por que centenas ou milhares não são, para Ele, mais nem menos uns do que outros. É um Pai, cuja felicidade se forma da felicidade coletiva de seus filhos e que, a cada segundo da Criação, vê uma nova felicidade vir fundir-se na felicidade geral. Não há parada, nem suspensão, nesse movimento perpétuo, nessa grande felicidade incessante que fecunda a terra e o céu. Do mundo, não se conhece mais do que uma pequena fração e tendes irmãos que vivem em latitudes onde o homem ainda não chegou a penetrar. Que significam esses calores de torrar e esses frios mortais, que detêm os esforços dos mais ousados? Julgais, com simplicidade, haver chegado ao limite do vosso mundo, quando não podeis mais avançar com os insignificantes meios de que dispondes? Poderíeis então medir exatamente o vosso planeta? Não creiais isso. Há no vosso planeta mais lugares ignorados do que lugares conhecidos. Porém, como é inútil que se propaguem ainda mais todas as vossas instituições más, todas as vossas leis más, ações e existências, há um limite que vos detém aqui e ali e que vos deterá até que tenhais de transportar as boas sementes que o vosso livre-arbítrio fez. Oh! não, não conheceis esse mundo, a que chamais Terra. Vereis na vossa existência um grande começo de provas desta comunicação. Eis que vai soar a hora em que haverá uma outra descoberta diferente da última que foi feita; eis que se vai alargar o círculo da vossa Terra conhecida e, quando toda a imprensa cantar esse Hosana em todas as línguas, vós, pobres filhos, que amais a Deus e que procurais sua voz, o tereis sabido antes daqueles mesmos que darão nome à nova Terra.
 >
 > Vicente de Paulo
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5467,6 +5533,7 @@ Do ponto de vista do estilo, esta comunicação não resiste à crítica. As inc
 > 👻 ▸ Meus filhos, o nosso mundo material e o Mundo Espiritual, que bem poucos ainda conhecem, formam como que os dois pratos da balança perpétua. Até aqui, as nossas religiões, as nossas leis, os nossos costumes e as nossas paixões têm feito de tal modo descer o prato do mal e subir o do bem, que se há visto o mal reinar soberanamente na Terra. Desde séculos, é sempre a mesma a queixa que se desprende da boca do homem e a conclusão fatal é a injustiça de Deus. Alguns há mesmo que vão até a negação da existência de Deus. Vedes tudo aqui e nada lá; vedes o supérfluo que choca a necessidade, o ouro que brilha junto da lama; todos os mais chocantes contrastes que vos deveriam provar a vossa dupla natureza. Donde vem isto? De quem a falta? Eis o que é preciso pesquisar com tranquilidade e com imparcialidade. Quando sinceramente se deseja achar um bom remédio, acha-se. Pois bem! malgrado a essa dominação do mal sobre o bem, por culpa vossa, por que não vedes o resto ir direito pela linha traçada por Deus? Vedes as estações se desarranjarem? os calores e os frios se chocarem inconsideradamente? a luz do sol esquecer-se de iluminar a Terra? a terra esquecer em seu seio as sementes que o homem aí depositou? Vedes a cessação dos mil milagres perpétuos que se produzem sob nossos olhos, desde o nascimento do arbusto até o nascimento da criança, o homem futuro? Mas tudo vai bem do lado de Deus, tudo vai mal do lado do homem. Qual o remédio para isto? É muito simples: aproximarem-se de Deus, amarem-se, unirem-se, entenderem-se e seguirem tranquilamente a estrada cujos marcos se veem com os olhos da fé e da consciência.
 >
 > Vicente de Paulo
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5483,6 +5550,7 @@ Esta comunicação foi obtida no mesmo círculo, mas quanto difere da precedente
 > Vós, que combateis pela liberdade dos povos e pela regeneração da grande família humana, ide, filhos, coragem e perseverança. Deus vos ajudará. Boa noite; até a vista.
 >
 > Napoleão
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5493,6 +5561,7 @@ Napoleão era, em vida, um homem grave e sério. Toda gente lhe conhece o estilo
 > 👻 ▸ Não, não se pode mudar de religião, quando não se tem uma que possa, ao mesmo tempo, satisfazer ao senso comum e à inteligência que se tem e que possa, sobretudo, dar ao homem consolações presentes. Não, não se muda de religião, cai-se da inépcia e da dominação na sabedoria e na liberdade. Ide, ide, pequeno exército nosso! ide e não temais as balas inimigas; as que vos hão de matar ainda não foram feitas, se estiverdes sempre, do fundo do coração, na senda do Senhor, isto é, se quiserdes sempre combater pacificamente e vitoriosamente pelo bem-estar e pela liberdade.
 >
 > Vicente de Paulo
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5505,6 +5574,7 @@ Quem reconheceria São Vicente de Paulo por esta linguagem, por estes pensamento
 > Filhos espiritualistas da minha nova doutrina, estai prontos a suportar, a afrontar as ondas da adversidade, os sarcasmos de vossos inimigos. A fé caminhará sem cessar seguindo a vossa estrela, que vos conduzirá ao caminho da felicidade eterna, tal como a estrela conduziu pela fé os magos do Oriente à manjedoura. Quaisquer que sejam as vossas adversidades, quaisquer que sejam as vossas penas e as lágrimas que houverdes derramado nessa esfera de exílio, tomai coragem, ficai persuadidos de que a alegria que vos inundará no mundo dos Espíritos estará muito acima dos tormentos da vossa existência passageira. O vale de lágrimas é um vale que há de desaparecer para dar lugar à brilhante morada de alegria, de fraternidade e de união, onde chegareis pela vossa boa obediência à santa revelação. A vida, meus caros irmãos, nesta esfera terrestre, toda preparatória, não pode durar senão o tempo necessário para viver bem preparado para essa vida que não poderá jamais acabar. Amai-vos, amai-vos, como Eu vos amei e como vos amo ainda; irmãos, coragem, irmãos! Eu vos abençoo; no Céu vos espero.
 >
 > Jesus
+{:.spirit-multi}
 
 > 👻 ▸ Nestas brilhantes e luminosas regiões onde o pensamento humano mal pode chegar, o eco de vossas palavras e das minhas veio tocar o meu coração.
 >
@@ -5515,6 +5585,7 @@ Quem reconheceria São Vicente de Paulo por esta linguagem, por estes pensamento
 > Sede benditos vós, que hoje tomais lugar na família regenerada! Ide, coragem, filhos!
 >
 > Jesus
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5535,6 +5606,7 @@ Indubitavelmente, nada há de mau nestas duas comunicações; porém, teve o Cri
 > Quanto aos que, por cálculo, aproveitam dos desastres, crede-o, serão punidos. Deus quer que todos os seus seres vivam; o homem não deve brincar com a necessidade, nem traficar com o supérfluo. Justo em seus benefícios, grande na sua clemência, demasiado bom para com a nossa ingratidão, Deus, em seus desígnios, é impenetrável.
 >
 > Bossuet, Alfredo de Marignac
+{:.spirit-multi}
 
 📝 **Nota**
 
@@ -5544,7 +5616,7 @@ Interrogado sobre o motivo que o levara a proceder assim, disse esse Espírito: 
 
 De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo Invisível, sob o pálio de um grande nome, é que anima os Espíritos embusteiros. A lhes frustrar os embustes é que todos devem consagrar a máxima atenção, mas a tanto ninguém pode chegar, senão com a ajuda da experiência adquirida por meio de um estudo sério. Daí o repetirmos incessantemente: Estudai, antes de praticardes, porquanto é esse o único meio de não adquirirdes experiência à vossa própria custa.
 
-### 2-32. 🗂️ 
+### 2-32. 🗂️ Vocabulário {#ldm-2-32} 
 
 - **Agênere** (do grego a, privativo, e géiné, géinomai, gerar; que não foi gerado.) – Modalidade da aparição tangível; estado de certos Espíritos, quando temporariamente revestem as formas de uma pessoa viva, ao ponto de produzirem ilusão completa.
 
@@ -5600,11 +5672,82 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 ## 3. 🗃️ Pós-textual
 
-### 3.01 📄 Nota explicativa
+### 3.01 📄 Nota explicativa {#ldm-3-01} 
 
-PLACEHOLDER
+> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
+{:.grey}
 
-### 3.02 📑 Índice geral
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. 👻 **O Livro dos Espíritos** (1857),
+
+2. ✒️ **O Livro dos Médiuns** (1861),
+
+3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
+
+4. 🔥 **O Céu e o Inferno** (1865),
+
+5. 🌱 **A Gênese** (1868),
+
+além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 **Revista Espírita** (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 **Obras Póstumas** (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 **Revista Espírita**, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (👻 **O Livro dos Espíritos**, [`LDE-q207`](#LDE-q207))
+> 
+> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 **Revista Espírita**, 1861)
+> 
+> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 **Revista Espírita**, 1867)
+> 
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 **A Gênese**, cap. 1, item 36 Vide também 📓 **Revista Espírita**, 1867)
+{:.grey}
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 **Revista Espírita** de 1863)
+> 
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ **O Evangelho segundo o Espiritismo**, cap. 17, item 3)
+{:.grey}
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
+
+> Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
+{:.grey}
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 **Revista Espírita**, 1862, p. 38.)
+{:.grey}
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.[^27]
+
+A Editora
+{:.author}
+
+
+### 3.02 📑 Índice geral {#ldm-3-02} 
 
 #### A
 
@@ -5706,7 +5849,7 @@ PLACEHOLDER
 
 ##### 🏷️ item
 
-### 3.03 📃 Notas de rodapé
+### 3.03 📃 Notas de rodapé {#ldm-3-03} 
 
 [^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
@@ -5724,7 +5867,7 @@ PLACEHOLDER
 
 [^8]: A.K.: Esta questão foi tratada em 👉 👻 ▸ [128](/1LDE/#128) e seguintes; mas, com relação a este assunto, como acerca de tudo o que respeita à parte religiosa, recomendamos a brochura intitulada: Carta de um católico sobre o espiritismo, do Dr. Grand, ex-cônsul da França (à venda na Livraria Ledoyen, in-18; preço 1 franco), bem como a que vamos publicar sob o título: Os contraditores do espiritismo, do ponto de vista da religião, da ciência e do materialismo.
 
-[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em 👻 O Livro dos Espíritos sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
+[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em 👻 **O Livro dos Espíritos** sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
 
 [^10]: N.E.: Confusões, balbúrdias.
 
@@ -5734,7 +5877,7 @@ PLACEHOLDER
 
 [^13]: A.K.: Entre outros, o Sr. Home.
 
-[^14]: N.E.: Relativo a antigo aparelho fotográfico inventado por Daguerre [inventor e pintor francês (1787- 1851), que fixava as imagens obtidas na câmara escura numa folha de prata sobre uma placa de cobre.
+[^14]: N.E.: Relativo a antigo aparelho fotográfico inventado por Daguerre (inventor e pintor francês, 1787- 1851), que fixava as imagens obtidas na câmara escura numa folha de prata sobre uma placa de cobre.
 
 [^15]: N.E.: O fato histórico ocorreu exatamente como relatamos acima, embora no original francês Allan Kardec o tenha narrado sob a seguinte versão: Santo Antônio de Pádua estava na Espanha e no instante em que ali pregava, seu pai, que se encontrava em Pádua, ia ser supliciado, sob a acusação de haver cometido um assassínio. No momento da execução, o santo aparece e demonstra a inocência de seu pai, dando a conhecer o verdadeiro criminoso, que mais tarde sofreu o castigo. Comprovou-se que nesse momento Santo Antônio não havia deixado a Espanha.
 

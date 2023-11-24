@@ -1,0 +1,102 @@
+/*---------- COL2-BODY ----------*/
+#col2-body img {
+    width: 100%;
+}
+
+#col2-body {
+    line-height: 1.7;
+}
+
+#col2-body blockquote {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(30, 144, 255, .1);
+    border-left: 4px solid rgba(30, 144, 255, 1);
+}
+
+#col2-body blockquote:first-letter {
+    background-color: dodgerblue;
+    padding: 1px;
+    border-radius: 2px;
+    border-bottom: 1.5px solid #0066cc;
+    border-right: 1.5px solid #0066cc;
+    font-size: 80%
+}
+
+#col2-body blockquote.grey {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(128, 128, 128, .1);
+    border-left: 4px solid rgba(128, 128, 128, 1);
+}
+
+#col2-body blockquote.grey::first-letter {
+    all: unset;
+}
+
+#col2-body blockquote.bible::first-letter,
+#col2-body blockquote.bible-multi::first-letter {
+    all: unset;
+}
+
+#col2-body blockquote.grey-center {
+    padding: 1px 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, .1);
+    border-left: 4px solid rgba(128, 128, 128, 1);
+}
+
+#col2-body blockquote.spirit::first-letter,
+#col2-body blockquote.spirit-multi::first-letter {
+    background-color: dodgerblue;
+    padding: 1px;
+    border-radius: 2px;
+    border-bottom: 1.5px solid #0066cc;
+    border-right: 1.5px solid #0066cc;
+    font-size: 80%
+}
+
+#col2-body blockquote.spirit,
+#col2-body blockquote.spirit-multi {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(30, 144, 255, .1);
+    border-left: 4px solid rgba(30, 144, 255, 1);
+}
+
+#col2-body blockquote.spirit-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right;
+}
+
+#col2-body blockquote.bible,
+#col2-body blockquote.bible-multi {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(218, 112, 214, .1);
+    border-left: 4px solid rgba(218, 112, 214, 1);
+}
+
+#col2-body blockquote.bible-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right;
+}
+
+#col2-body blockquote.greek {
+    padding: 1px 20px;
+    margin: 10px;
+    background-color: rgba(252, 184, 135, .1);
+    border-left: 4px solid rgba(252, 184, 135, 1);
+}
+
+#col2-body blockquote.greek::first-letter {
+    background-color: #fcb887;
+    padding: 1px;
+    border-radius: 2px;
+    border-bottom: 1.5px solid #e29f6d;
+    border-right: 1.5px solid #e29f6d;
+    font-size: 80%
+}

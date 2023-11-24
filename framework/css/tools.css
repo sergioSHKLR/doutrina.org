@@ -1,0 +1,113 @@
+button.tools {
+    margin-left: 20px;
+    font-family: 'Material Symbols Outlined' !important;
+    font-size: 22px !important
+}
+
+#tools-group {
+    display: inline;
+    position: fixed;
+    top: 5px;
+    font-family: sans-serif !important;
+    font-size: 22px !important;
+}
+
+.ti {
+    font-size: 18px !important
+}
+
+.tn {
+    font-size: 16px !important
+}
+
+.td {
+    font-size: 14px !important
+}
+
+.al {
+    text-align: left !important
+}
+
+.aj {
+    text-align: justify !important
+}
+
+.f1 {
+    font-family: 'Inter' !important
+}
+
+.f2 {
+    font-family: 'Georgia' !important
+}
+
+.f3 {
+    font-family: 'Roboto Mono' !important
+}
+
+.f4 {
+    font-family: 'Roboto Slab' !important
+}
+
+.ds {
+    line-height: 1.3 !important
+}
+
+.dn {
+    line-height: 1.5 !important
+}
+
+.dm {
+    line-height: 1.7 !important
+}
+
+.b1 {
+    background-color: #ffff001a !important; box-shadow: none !important; 
+}
+
+.b2 {
+    background-color: #00ff001a !important; box-shadow: none !important; 
+}
+
+.b3 {
+    background-color: #ffc0cb22 !important; box-shadow: none !important; 
+}
+
+.b4 {
+    background-color: #fff !important; box-shadow: none !important; 
+}
+
+
+.dropbtn {
+    cursor: pointer;
+    position: relative;
+    top: 20px;
+    padding: 0 13px 2px 13px;
+    border-radius: 50%;
+}
+
+.dropdown {
+    float: right;
+    position: relative;
+    display: inline-block;
+    left: 35px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    z-index: 2;
+    overflow: auto;
+    left: 17px;
+    top: 50px;
+}
+
+.dropdown-content button {
+    display: block;
+    margin: 20px 0;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.show {
+    display: block;
+}

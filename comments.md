@@ -1,6 +1,6 @@
 ---
 title: Comentários
-layout: template-generic
+layout: 0-generic
 ---
 
 # Comentários

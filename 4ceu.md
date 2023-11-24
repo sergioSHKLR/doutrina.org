@@ -1,6 +1,6 @@
 ---
 title: 🔥 O Céu e o Inferno
-layout: template-4ceu
+layout: 4-ceu
 ---
 
 *[LDE]: O Livro dos Espíritos
@@ -20,31 +20,31 @@ layout: template-4ceu
 
 ## 0. 🗃️ Pré-textual
 
-### 0-01 🗂️ Folha de rosto
+### 0-01. 🗂️ Folha de rosto {#ceu-0-01}
 
-|  |
-|:---:|
-| header |
-|  |
-| 🔥 [O Céu e o Inferno](https://pt.m.wikipedia.org/wiki/O_Céu_e_o_Inferno_(espiritismo)){:target="ext"} |
-|  |
-| Ou a justiça divina segundo o Espiritismo |
-|  |
-| Exame comparado das doutrinas sobre a passagem da vida corporal à vida espiritual, sobre as penalidades e recompensas futuras, sobre os anjos e demônios, sobre as penas etc., seguido de numerosos exemplos acerca da situação real da alma durante e depois da morte. |
-|  |
-| por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}. |
-|  |
-| Tradução de [Manuel Quintão](https://pt.m.wikipedia.org/wiki/Manuel_Quintão){:target="ext"} |
-|  |
-| Baseado no original [ISBN 978-85-7328-731-8](http://www.febnet.org.br/wp-content/uploads/2014/05/ceu-e-inferno-Manuel-Quintao.pdf){:target="_blank"} |
-|  |
-| Modificado para o consumo digital por Sergio de |
-| ⭕ [shklr.org](https://shklr.org){:target="_blank"} |
-|  |
+><br>
+> header
+><br>
+> 🔥 [O Céu e o Inferno](https://pt.m.wikipedia.org/wiki/O_Céu_e_o_Inferno_(espiritismo)){:target="ext"}  
+><br>
+> Ou a justiça divina segundo o Espiritismo  
+><br>
+> Exame comparado das doutrinas sobre a passagem da vida corporal à vida espiritual, sobre as penalidades e recompensas futuras, sobre os anjos e demônios, sobre as penas etc., seguido de numerosos exemplos acerca da situação real da alma durante e depois da morte.  
+><br>
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.  
+><br>
+> Tradução de [Manuel Quintão](https://pt.m.wikipedia.org/wiki/Manuel_Quintão){:target="ext"}  
+><br>
+> Baseado no original [ISBN 978-85-7328-731-8](http://www.febnet.org.br/wp-content/uploads/2014/05/ceu-e-inferno-Manuel-Quintao.pdf){:target="_blank"}  
+><br>
+> Modificado para o consumo digital por Sergio de  
+> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+><br>
+{:.grey-center}
 
 ## 1. 🗃️ Doutrina
 
-### 1-01 🗂️
+### 1-01. 🗂️ O porvir e o nada {#ceu-1-01}
 
 #### 01
 
@@ -74,7 +74,7 @@ Acreditam estes últimos que as leis humanas não atingem senão os ineptos e as
 
 Se há doutrina insensata e antissocial, é, seguramente, o niilismo que rompe os verdadeiros laços de solidariedade e fraternidade, em que se fundam as relações sociais.
 
-##### 03
+###### 03
 
 Suponhamos que, por uma circunstância qualquer, todo um povo adquire a certeza de que em oito dias, num mês, ou num ano será aniquilado; que nem um só indivíduo lhe sobreviverá, como de sua existência não sobreviverá nem um só traço: Que fará esse povo condenado, aguardando o extermínio?
 
@@ -100,13 +100,13 @@ Se a Religião se mostra impotente para sustar a incredulidade, é que lhe falta
 
 O que lhe falta neste século de positivismo, em que se procura compreender antes de crer, é, sem dúvida, a sanção de suas doutrinas por fatos positivos, assim como a concordância das mesmas com os dados positivos da Ciência. Dizendo ela ser branco o que os fatos dizem ser negro, é preciso optar entre a evidência e a fé cega.
 
-##### 04
+###### 04
 
 É nestas circunstâncias que o Espiritismo vem opor um dique à difusão da incredulidade, não somente pelo raciocínio, não somente pela perspectiva dos perigos que ela acarreta, mas pelos fatos materiais, tornando visíveis e tangíveis a alma e a vida futura.
 
 Todos somos livres na escolha das nossas crenças; podemos crer em alguma coisa ou em nada crer, mas aqueles que procuram fazer prevalecer no espírito das massas, da juventude principalmente, a negação do futuro, apoiando-se na autoridade do seu saber e no ascendente da sua posição, semeiam na sociedade germens de perturbação e dissolução, incorrendo em grande responsabilidade.
 
-##### 05
+###### 05
 
 Há uma doutrina que se defende da pecha de materialista porque admite a existência de um princípio inteligente fora da matéria: é a da absorção no Todo Universal.
 
@@ -124,31 +124,31 @@ O futuro afigura-se-lhe sempre nulo, e a vida presente é a única coisa que o i
 
 Sob o ponto de vista das consequências morais, esta doutrina é, pois, tão insensata, tão desesperadora, tão subversiva como o materialismo propriamente dito.
 
-##### 06
+###### 06
 
 Pode-se, além disso, fazer esta objeção: todas as gotas d’água tomadas ao oceano se assemelham e possuem idênticas propriedades como partes de um mesmo todo; por que, pois, as almas tomadas ao grande oceano da inteligência universal tão pouco se assemelham? Por que o gênio e a estupidez, as mais sublimes virtudes e os vícios mais ignóbeis? Por que a bondade, a doçura, a mansuetude ao lado da maldade, da crueldade, da barbaria? Como podem ser tão diferentes entre si as partes de um mesmo todo homogêneo? Dir-se-á que é a educação que a modifica? Neste caso donde vêm as qualidades inatas, as inteligências precoces, os bons e maus instintos independentes de toda a educação e tantas vezes em desarmonia com o meio no qual se desenvolvem?
 
 Não resta dúvida de que a educação modifica as qualidades intelectuais e morais da alma, mas aqui ocorre uma outra dificuldade: Quem dá a esta a educação para fazê-la progredir? Outras almas que por sua origem comum não devem ser mais adiantadas. Além disso, reentrando a alma no Todo Universal donde saiu, e havendo progredido durante a vida, leva-lhe um elemento mais perfeito. Daí se infere que esse Todo se encontraria, pela continuação, profundamente modificado e melhorado. Assim, como se explica saírem incessantemente desse Todo almas ignorantes e perversas?
 
-##### 07
+###### 07
 
 Nesta doutrina, a fonte universal de inteligência que abastece as almas humanas é independente da Divindade; não é precisamente o panteísmo.
 
 O panteísmo propriamente dito considera o princípio universal de vida e de inteligência como constituindo a Divindade. Deus é concomitantemente Espírito e matéria; todos os seres, todos os corpos da natureza compõem a Divindade, da qual são as moléculas e os elementos constitutivos; Deus é o conjunto de todas as inteligências reunidas; cada indivíduo, sendo uma parte do todo, é Deus ele próprio; nenhum ser superior e independente rege o conjunto; o universo é uma imensa república sem chefe, ou antes, onde cada qual é chefe com poder absoluto.
 
-##### 08
+###### 08
 
 A este sistema podem opor-se inumeráveis objeções, das quais são estas as principais: não se podendo conceber divindade sem infinita perfeição, pergunta-se como um todo perfeito pode ser formado de partes tão imperfeitas, tendo necessidade de progredir? Devendo cada parte ser submetida à lei do progresso, força é convir que o próprio Deus deve progredir; e se Ele progride constantemente, deveria ter sido, na origem dos tempos, muito imperfeito.
 
 E como pôde um ser imperfeito, formado de ideias tão divergentes, conceber leis tão harmônicas, tão admiráveis de unidade, de sabedoria e previdência quais as que regem o universo? Se todas as almas são porções da Divindade, todos concorreram para as Leis da natureza; como sucede, pois, que elas murmurem sem cessar contra essas leis que são obra sua? Uma teoria não pode ser aceita como verdadeira senão com a condição de satisfazer a razão e dar conta de todos os fatos que abrange; se um só fato lhe trouxer um desmentido, é que não contém a verdade absoluta.
 
-##### 09
+###### 09
 
 Sob o ponto de vista moral, as consequências são igualmente ilógicas. Em primeiro lugar é para as almas, tal como no sistema precedente, a absorção num todo e a perda da individualidade. Dado que se admita, consoante a opinião de alguns panteístas, que as almas conservem essa individualidade, Deus deixaria de ter vontade única para ser um composto de miríades de vontades divergentes.
 
 Além disso, sendo cada alma parte integrante da Divindade, deixa de ser dominada por um poder superior; não incorre em responsabilidade por seus atos bons ou maus; soberana, não tendo interesse algum na prática do bem, ela pode praticar o mal impunemente.
 
-##### 10
+###### 10
 
 Ademais, estes sistemas não satisfazem nem a razão nem a aspiração humanas; deles decorrem dificuldades insuperáveis, pois são impotentes para resolver todas as questões de fato que suscitam. O homem tem, pois, três alternativas: o nada, a absorção ou a individualidade da alma antes e depois da morte.
 
@@ -156,7 +156,7 @@ Ademais, estes sistemas não satisfazem nem a razão nem a aspiração humanas; 
 
 E se a lógica nos conduz à individualidade da alma, também nos aponta esta outra consequência: a sorte de cada alma deve depender das suas qualidades pessoais, pois seria irracional admitir que a alma atrasada do selvagem, como a do homem perverso, estivesse no nível da do sábio, do homem de bem. Segundo os princípios de justiça, as almas devem ter a responsabilidade dos seus atos, mas para haver essa responsabilidade, preciso é que elas sejam livres na escolha do bem e do mal; sem o livre-arbítrio há fatalidade, e com a fatalidade não coexistiria a responsabilidade.
 
-##### 11
+###### 11
 
 Todas as religiões admitiram igualmente o princípio da felicidade ou infelicidade da alma após a morte, ou, por outra, as penas e gozos futuros, que se resumem na doutrina do Céu e do inferno encontrada em toda parte.
 
@@ -165,13 +165,13 @@ outras.
 
 Daí os pontos de fé contraditórios dando origem a cultos diferentes, e os deveres impostos por estes, consecutivamente, para honrar a Deus e alcançar por esse meio o Céu, evitando o inferno.
 
-##### 12
+###### 12
 
 Todas as religiões houveram de ser em sua origem relativas ao grau de adiantamento moral e intelectual dos homens: estes, assaz materializados para compreenderem o mérito das coisas puramente espirituais, fizeram consistir a maior parte dos deveres religiosos no cumprimento de fórmulas exteriores.
 
 Por muito tempo essas fórmulas lhes satisfizeram a razão; porém, mais tarde, porque se fizesse a luz em seu espírito, sentindo o vácuo dessas fórmulas, uma vez que a Religião não o preenchia, abandonaram-na e tornaram-se filósofos.
 
-##### 13
+###### 13
 
 Se a Religião, apropriada em começo aos conhecimentos limitados do homem, tivesse acompanhado sempre o movimento progressivo do espírito humano, não haveria incrédulos, porque está na própria natureza do homem a necessidade de crer, e ele crerá desde que se lhe dê o pábulo espiritual de harmonia com as suas necessidades intelectuais.
 
@@ -181,7 +181,7 @@ Apresente-se-lhe, porém, um futuro condicionalmente lógico, digno em tudo da g
 
 O Espiritismo dá coisa melhor; eis por que é acolhido pressurosamente por todos os atormentados da dúvida, os que não encontram nem nas crenças nem nas filosofias vulgares o que procuram. O Espiritismo tem por si a lógica do raciocínio e a sanção dos fatos, e é por isso que inutilmente o têm combatido.
 
-##### 14
+###### 14
 
 Instintivamente tem o homem a crença no futuro, mas não possuindo até agora nenhuma base certa para defini-lo, a sua imaginação fantasiou os sistemas que originaram a diversidade de crenças. A Doutrina Espírita sobre o futuro
 
@@ -189,29 +189,29 @@ Instintivamente tem o homem a crença no futuro, mas não possuindo até agora n
 
 — congraçará, como já está acontecendo, as opiniões divergentes ou flutuantes e trará gradualmente, pela força das coisas, a unidade de crenças sobre esse ponto, não já baseada em simples hipótese, mas na certeza. A unificação feita relativamente à sorte futura das almas será o primeiro ponto de contato dos diversos cultos, um passo imenso para a tolerância religiosa em primeiro lugar e, mais tarde, para a completa fusão.
 
-### 1-02 🗂️
+### 1-02. 🗂️ Temor da morte {#ceu-1-01}
 
 #### Causas do temor da morte
 
-##### 01
+###### 01
 
 O homem, seja qual for a escala de sua posição social, desde selvagem tem o sentimento inato do futuro; diz-lhe a intuição que a morte não é a última fase da existência e que aqueles cuja perda lamentamos não estão irremissivelmente perdidos.
 
 A crença da imortalidade é intuitiva e muito mais generalizada do que a do nada. Entretanto, a maior parte dos que nela creem apresentam-se-nos possuídos de grande amor às coisas terrenas e temerosos da morte! Por quê?
 
-##### 02
+###### 02
 
 Este temor é um efeito da sabedoria da Providência e uma consequência do instinto de conservação comum a todos os viventes. Ele é necessário enquanto não se está suficientemente esclarecido sobre as condições da vida futura, como contrapeso à tendência que, sem esse freio, nos levaria a deixar prematuramente a vida e a negligenciar o trabalho terreno que deve servir ao nosso próprio adiantamento.
 
 Assim é que, nos povos primitivos, o futuro é uma vaga intuição, mais tarde tornada simples esperança e, finalmente, uma certeza apenas atenuada por secreto apego à vida corporal.
 
-##### 03
+###### 03
 
 À proporção que o homem compreende melhor a vida futura, o temor da morte diminui; uma vez esclarecida a sua missão terrena, aguarda-lhe o fim calmo, resignado e serenamente. A certeza da vida futura dá-lhe outro curso às ideias, outro fito ao trabalho; antes dela nada que se não prenda ao presente; depois dela tudo pelo futuro sem desprezo do presente, porque sabe que aquele depende da boa ou da má direção deste.
 
 A certeza de reencontrar seus amigos depois da morte, de reatar as relações que tivera na Terra, de não perder um só fruto do seu trabalho, de engrandecer-se incessantemente em inteligência, perfeição, dá-lhe paciência para esperar e coragem para suportar as fadigas transitórias da vida terrestre. A solidariedade entre vivos e mortos faz-lhe compreender a que deve existir na Terra, onde a fraternidade e a caridade têm desde então um fim e uma razão de ser, no presente como no futuro.
 
-##### 04
+###### 04
 
 Para libertar-se do temor da morte é mister poder encará-la sob o seu verdadeiro ponto de vista, isto é, ter penetrado pelo pensamento no mundo espiritual, fazendo dele uma ideia tão exata quanto possível, o que denota da parte do Espírito encarnado um tal ou qual desenvolvimento e aptidão para desprender-se da matéria.
 
@@ -225,7 +225,7 @@ Esse temor decresce, à proporção que a certeza aumenta, e desaparece quando e
 
 Eis aí o lado providencial da questão. Ao homem não suficientemente esclarecido, cuja razão mal pudesse suportar a perspectiva muito positiva e sedutora de um futuro melhor, prudente seria não o deslumbrar com tal ideia, desde que por ela pudesse negligenciar o presente, necessário ao seu adiantamento material e intelectual.
 
-##### 05
+###### 05
 
 Este estado de coisas é entretido e prolongado por causas puramente humanas, que o progresso fará desaparecer. A primeira é a feição com que se insinua a vida futura, feição que poderia contentar as inteligências pouco desenvolvidas, mas que não conseguiria satisfazer a razão esclarecida dos pensadores refletidos. Assim, dizem estes: “Desde que nos apresentam como verdades absolutas princípios contestados pela lógica e pelos dados positivos da Ciência, é que eles não são verdades.” Daí, a incredulidade de uns e a crença dúbia de um grande número.
 
@@ -237,7 +237,7 @@ Os entes que lhes são caros, reduzidos ao estado de átomos no seu modo de pens
 
 É considerável o número dos dominados por este pensamento.
 
-##### 06
+###### 06
 
 Outra causa de apego às coisas terrenas, mesmo nos que mais firmemente creem na vida futura, é a impressão do ensino que relativamente a ela se lhes há dado desde a infância. Convenhamos que o quadro pela Religião esboçado, sobre o assunto, é nada sedutor e ainda menos consolatório.
 
@@ -249,7 +249,7 @@ Este estado não satisfaz nem as aspirações nem a instintiva ideia de progress
 
 — de senso moral obtuso —, esteja no mesmo nível do homem que atingiu, após longos anos de trabalho, o mais alto grau de ciência e moralidade práticas. Menos concebível ainda é que a criança falecida em tenra idade, antes de ter consciência de seus atos, goze dos mesmos privilégios somente por força de uma cerimônia na qual a sua vontade não teve parte alguma. Estes raciocínios não deixam de preocupar os mais fervorosos crentes, por pouco que meditem.
 
-##### 07
+###### 07
 
 Não dependendo a felicidade futura do trabalho progressivo na Terra, a facilidade com que se acredita adquirir essa felicidade, por meio de algumas práticas exteriores, e a possibilidade até de a comprar a dinheiro, sem regeneração de caráter e costumes, dão aos gozos do mundo o melhor valor.
 
@@ -257,13 +257,13 @@ Mais de um crente considera, em seu foro íntimo, que assegurado o seu futuro pe
 
 Seguramente, nem todos pensam assim, havendo mesmo muitas e honrosas exceções; mas não se poderia contestar que assim pensa o maior número, sobretudo das massas pouco esclarecidas, e que a ideia que fazem das condições de felicidade no outro mundo não entretenha o apego aos bens deste, acoroçoando o egoísmo.
 
-##### 08
+###### 08
 
 Acrescentemos ainda a circunstância de tudo nas usanças concorrer para lamentar a perda da vida terrestre e temer a passagem da Terra ao Céu. A morte é rodeada de cerimônias lúgubres, mais próprias a infundirem terror do que a provocarem a esperança. Se descrevem a morte, é sempre com aspecto repelente e nunca como sono de transição; todos os seus emblemas lembram a destruição do corpo, mostrando-o hediondo e descarnado; nenhum simboliza a alma desembaraçando-se radiosa dos grilhões terrestres. A partida para esse mundo mais feliz só se faz acompanhar do lamento dos sobreviventes, como se imensa desgraça atingira os que partem; dizem-lhes eternos adeuses como se jamais devessem revê-los. Lastima-se por eles a perda dos gozos mundanos, como se não fossem encontrar maiores gozos no além-túmulo. Que desgraça, dizem, morrer tão jovem, rico e feliz, tendo a perspectiva de um futuro brilhante! A ideia de um futuro melhor apenas toca de leve o pensamento, porque não tem nele raízes. Tudo concorre, assim, para inspirar o terror da morte, em vez de infundir esperança.
 
 Sem dúvida que muito tempo será preciso para o homem se desfazer desses preconceitos, o que não quer dizer que isto não suceda, à medida que a sua fé se for firmando, a ponto de conceber uma ideia mais sensata da vida espiritual.
 
-##### 09
+###### 09
 
 Ademais, a crença vulgar coloca as almas em regiões apenas acessíveis ao pensamento, onde se tornam de alguma sorte estranhas aos vivos; a própria Igreja põe entre umas e outras uma barreira insuperável, declarando rotas todas as relações e impossível qualquer comunicação. Se as almas estão no inferno, perdida é toda a esperança de as rever, a menos que lá se vá ter também; se estão entre os eleitos, vivem completamente absortas em contemplativa beatitude. Tudo isso interpõe entre mortos e vivos uma distância tal que faz supor eterna a separação, e é por isso que muitos preferem ter junto de si, embora sofram, os entes caros, antes que vê-los partir, ainda mesmo que para o Céu.
 
@@ -271,7 +271,7 @@ E a alma que estiver no Céu será realmente feliz vendo, por exemplo, arder ete
 
 #### Por que os espíritas não temem a morte
 
-##### 10
+###### 10
 
 A Doutrina Espírita transforma completamente a perspectiva do futuro. A vida futura deixa de ser uma hipótese para ser realidade. O estado das almas depois da morte não é mais um sistema, porém o resultado da observação. Ergueu-se o véu; o mundo espiritual aparece-nos na plenitude de sua realidade prática; não foram os homens que o descobriram pelo esforço de uma concepção engenhosa, são os próprios habitantes desse mundo que nos vêm descrever a sua situação; aí os vemos em todos os graus da escala espiritual, em todas as fases da felicidade e da desgraça, assistindo, enfim, a todas as peripécias da vida de além-túmulo. Eis aí por que os espíritas encaram a morte calmamente e se revestem de serenidade nos seus últimos momentos sobre a Terra. Já não é só a esperança, mas a certeza que os conforta; sabem que a vida futura é a continuação da vida terrena em melhores condições e aguardam-na com a mesma confiança com que aguardariam o despontar do Sol após uma noite de tempestade. Os motivos dessa confiança decorrem, outrossim, dos fatos testemunhados e da concordância desses fatos com a lógica, com a justiça e bondade de Deus, correspondendo às íntimas aspirações da humanidade.
 
@@ -279,7 +279,7 @@ Para os espíritas, a alma não é uma abstração; ela tem um corpo etéreo que
 
 Não mais permissível sendo a dúvida sobre o futuro, desaparece o temor da morte; encara-se a sua aproximação a sangue-frio, como quem aguarda a libertação pela porta da vida, e não do nada.
 
-### 1-03 🗂️
+### 1-03. 🗂️ O céu {#ceu-1-01}
 
 #### 01
 
@@ -319,13 +319,13 @@ A Terra não é mais o eixo do universo, porém um dos menores astros que rolam 
 
 Revelando-nos a Ciência mundos semelhantes ao nosso, Deus não podia tê-los criado sem intuito, antes deve tê-los povoado de seres capazes de os governar.
 
-##### 04
+###### 04
 
 As ideias do homem estão na razão do que ele sabe; como todas as descobertas importantes, a da constituição dos mundos deveria imprimir-lhes outro curso; sob a influência desses conhecimentos novos, as crenças se modificaram; o Céu foi deslocado e a região estelar, sendo ilimitada, não mais lhe pode servir. Onde está ele, pois? E ante esta questão emudecem todas as religiões.
 
 O Espiritismo vem resolvê-las demonstrando o verdadeiro destino do homem. Tomando-se por base a natureza deste último e os atributos divinos, chega-se a uma conclusão; isto quer dizer que partindo do conhecido atinge-se o desconhecido por uma dedução lógica, sem falar das observações diretas que o Espiritismo faculta.
 
-##### 05
+###### 05
 
 O homem compõe-se de corpo e Espírito: o Espírito é o ser principal, racional, inteligente; o corpo é o invólucro material que reveste o Espírito temporariamente, para preenchimento da sua missão na Terra e execução do trabalho necessário ao seu adiantamento. O corpo, usado, destrói-se e o Espírito sobrevive à sua destruição. Privado do Espírito, o corpo é apenas matéria inerte, qual instrumento privado da mola real de função; sem o corpo, o Espírito é tudo; a vida, a inteligência. Ao deixar o corpo, torna ao mundo espiritual, onde paira, para depois reencarnar.
 
@@ -333,7 +333,7 @@ Existem, portanto, dois mundos: o corporal, composto de Espíritos encarnados; e
 
 A morte do corpo não é mais que a ruptura dos laços que os retinham cativos.
 
-##### 06
+###### 06
 
 Os Espíritos são criados simples e ignorantes, mas dotados de aptidão para tudo conhecerem e para progredirem, em virtude do seu livre-arbítrio. Pelo progresso adquirem novos conhecimentos, novas faculdades, novas percepções e, conseguintemente, novos gozos desconhecidos dos Espíritos inferiores; eles veem, ouvem, sentem e compreendem o que os Espíritos atrasados não podem ver, sentir, ouvir ou compreender.
 
@@ -345,7 +345,7 @@ Uma comparação vulgar fará compreender melhor esta situação. Se se encontra
 
 O mundo espiritual tem esplendores por toda parte, harmonias e sensações que os Espíritos inferiores, submetidos à influência da matéria, não entreveem sequer, e que somente são acessíveis aos Espíritos purificados.
 
-##### 07
+###### 07
 
 O progresso nos Espíritos é o fruto do próprio trabalho; mas, como são livres, trabalham no seu adiantamento com maior ou menor atividade, com mais ou menos negligência, segundo sua vontade, acelerando ou retardando o progresso e, por conseguinte, a própria felicidade.
 
@@ -359,7 +359,7 @@ O progresso intelectual e o progresso moral raramente marcham juntos, mas o que 
 
 Eis por que se veem muitas vezes homens inteligentes e instruídos pouco adiantados moralmente, e vice-versa.
 
-##### 08
+###### 08
 
 A encarnação é necessária ao duplo progresso moral e intelectual do Espírito: ao progresso intelectual pela atividade obrigatória do trabalho; ao progresso moral pela necessidade recíproca dos homens entre si. A vida social é a pedra de toque das boas ou más qualidades.
 
@@ -367,7 +367,7 @@ A bondade, a maldade, a doçura, a violência, a benevolência, a caridade, o eg
 
 Para o homem que vivesse isolado não haveria vícios nem virtudes; preservando-se do mal pelo isolamento, o bem de si mesmo se anularia.
 
-##### 09
+###### 09
 
 Uma só existência corporal é manifestamente insuficiente para o Espírito adquirir todo o bem que lhe falta e eliminar o mal que lhe sobra.
 
@@ -381,7 +381,7 @@ Para cada nova existência entra o Espírito com o cabedal adquirido nas anterio
 
 A encarnação é inerente à inferioridade dos Espíritos, deixando de ser necessária desde que estes, transpondo-lhe os limites, ficam aptos para progredir no estado espiritual, ou nas existências corporais de mundos superiores, que nada têm da materialidade terrestre. Da parte destes a encarnação é voluntária, tendo por fim exercer sobre os encarnados uma ação mais direta e tendente ao cumprimento da missão que lhes compete junto dos mesmos. Desse modo aceitam abnegadamente as vicissitudes e sofrimentos da encarnação.
 
-##### 10
+###### 10
 
 No intervalo das existências corporais o Espírito torna a entrar no mundo espiritual, onde é feliz ou desgraçado segundo o bem ou o mal que fez.
 
@@ -391,7 +391,7 @@ O estado corporal é transitório e passageiro. É no estado espiritual sobretud
 
 O Espírito progride igualmente na erraticidade, adquirindo conhecimentos especiais que não poderia obter na Terra, e modificando as suas ideias. O estado corporal e o espiritual constituem a fonte de dois gêneros de progresso, pelos quais o Espírito tem de passar alternadamente, nas existências peculiares a cada um dos dois mundos.
 
-##### 11
+###### 11
 
 A reencarnação pode dar-se na Terra ou em outros mundos. Há entre os mundos alguns mais adiantados onde a existência se exerce em condições menos penosas que na Terra, física e moralmente, mas onde também só são admitidos Espíritos chegados a um grau de perfeição relativo ao estado desses mundos.
 
@@ -401,7 +401,7 @@ Reina lá a verdadeira fraternidade, porque não há egoísmo; a verdadeira igua
 
 Comparados à Terra, esses mundos são verdadeiros paraísos, quais pousos ao longo do caminho do progresso conducente ao estado definitivo. Sendo a Terra um mundo inferior destinado à purificação dos Espíritos imperfeitos, está nisso a razão do mal que aí predomina, até que praza a Deus fazer dela morada de Espíritos mais adiantados. Assim é que o Espírito, progredindo gradualmente à medida que se desenvolve, chega ao apogeu da felicidade; porém, antes de ter atingido a culminância da perfeição, goza de uma felicidade relativa ao seu progresso. A criança também frui os prazeres da infância, mais tarde os da mocidade, e finalmente os mais sólidos, da madureza.
 
-##### 12
+###### 12
 
 A felicidade dos Espíritos bem-aventurados não consiste na ociosidade contemplativa, que seria, como temos dito muitas vezes, uma eterna e fastidiosa inutilidade.
 
@@ -409,7 +409,7 @@ A vida espiritual em todos os seus graus é, ao contrário, uma constante ativid
 
 A suprema felicidade consiste no gozo de todos os esplendores da Criação, que nenhuma linguagem humana jamais poderia descrever, que a imaginação mais fecunda não poderia conceber. Consiste também na penetração de todas as coisas, na ausência de sofrimentos físicos e morais, numa satisfação íntima, numa serenidade da alma imperturbável, no amor que envolve todos os seres, e portanto na ausência de atrito proveniente do contato com os maus, e, acima de tudo, na contemplação de Deus e na compreensão dos seus mistérios revelados aos mais dignos. A felicidade também existe nas tarefas cujo encargo nos faz felizes. Os puros Espíritos são os messias ou mensageiros de Deus pela transmissão e execução das suas vontades. Preenchem as grandes missões, presidem à formação dos mundos e à harmonia geral do universo, tarefa gloriosa a que se não chega senão pela perfeição. Os da ordem mais elevada são os únicos a possuírem os segredos de Deus, inspirando-se no seu pensamento, de que são diretos representantes.
 
-##### 13
+###### 13
 
 As atribuições dos Espíritos são proporcionadas ao seu progresso, às luzes que possuem, às suas capacidades, experiência e grau de confiança inspirada ao Senhor soberano.
 
@@ -417,11 +417,11 @@ Nem favores, nem privilégios que não sejam o prêmio ao mérito; tudo é medid
 
 As missões mais importantes são confiadas somente àqueles que Deus julga capazes de as cumprir e incapazes de desfalecimento ou comprometimento. E enquanto que os mais dignos compõem o supremo conselho, sob as vistas de Deus, a chefes superiores é cometida a direção de turbilhões planetários, e a outros conferida a de mundos especiais. Vêm, depois, pela ordem de adiantamento e subordinação hierárquica, as atribuições mais restritas dos prepostos ao progresso dos povos, à proteção das famílias e indivíduos, ao impulso de cada ramo de progresso, às diversas operações da natureza até os mais ínfimos pormenores da Criação. Neste vasto e harmônico conjunto há ocupações para todas as capacidades, aptidões e esforços; ocupações aceitas com júbilo, solicitadas com ardor, por serem um meio de adiantamento para os Espíritos que ao progresso aspiram.
 
-##### 14
+###### 14
 
 Ao lado das grandes missões confiadas aos Espíritos superiores, há outras de importância relativa em todos os graus, concedidas a Espíritos de todas as categorias, podendo afirmar-se que cada encarnado tem a sua, isto é, deveres a preencher a bem dos seus semelhantes, desde o chefe de família, a quem incumbe o progresso dos filhos, até o homem de gênio que lança às sociedades novos germens de progresso. É nessas missões secundárias que se verificam desfalecimentos, prevaricações e renúncias que prejudicam o indivíduo sem afetar o todo.
 
-##### 15
+###### 15
 
 Todas as inteligências concorrem, pois, para a obra geral, qualquer que seja o grau atingido, e cada uma na medida das suas forças, seja no estado de encarnação ou no de espírito. Por toda parte a atividade, desde a base ao ápice da escala, instruindo-se, coadjuvando-se em mútuo apoio, dando-se as mãos para alcançarem o zênite.
 
@@ -433,19 +433,19 @@ Das qualidades do indivíduo depende-lhe a felicidade, e não do estado material
 
 Onde quer que se encontrem, os Espíritos podem contemplar a majestade divina, porque Deus está em toda parte.
 
-##### 16
+###### 16
 
 Entretanto, a felicidade não é pessoal: se a possuíssemos somente em nós mesmos, sem poder reparti-la com outrem, ela seria tristemente egoísta. Também a encontramos na comunhão de ideias que une os seres simpáticos. Os Espíritos felizes, atraindo-se pela similitude de ideias, gostos e sentimentos, formam vastos agrupamentos ou famílias homogêneas, no seio das quais cada individualidade irradia as qualidades próprias e satura-se dos eflúvios serenos e benéficos emanados do conjunto.
 
 Os membros deste, ora se dispersam para se darem à sua missão, ora se reúnem em dado ponto do Espaço a fim de se prestarem contas do trabalho realizado, ora se congregam em torno dum Espírito mais elevado para receberem instruções e conselhos.
 
-##### 17
+###### 17
 
 Posto que os Espíritos estejam por toda parte, os mundos são de preferência os seus centros de atração, em virtude da analogia existente entre eles e os que os habitam. Em torno dos mundos adiantados abundam Espíritos superiores, como em torno dos atrasados pululam Espíritos inferiores. Cada globo tem, de alguma sorte, sua população própria de Espíritos encarnados e desencarnados, alimentada em sua maioria pela encarnação e desencarnação dos mesmos. Esta população é mais estável nos mundos inferiores, pelo apego dos Espíritos à matéria, e mais flutuante nos superiores.
 
 Destes últimos, porém, verdadeiros focos de luz e felicidade, Espíritos se destacam para mundos inferiores a fim de neles semearem os germens do progresso, levar-lhes consolação e esperança, levantar os ânimos abatidos pelas provações da vida. Por vezes também se encarnam para cumprir com mais eficácia a sua missão.
 
-##### 18
+###### 18
 
 Nessa imensidade ilimitada, onde está o Céu? Em toda parte. Nenhum contorno lhe traça limites. Os mundos adiantados são as últimas estações do seu caminho, que as virtudes franqueiam e os vícios interditam. Ante este quadro grandioso que povoa o universo, que dá a todas as coisas da Criação um fim e uma razão de ser, quanto é pequena e mesquinha a doutrina que circunscreve a humanidade a um ponto imperceptível do Espaço, que no-la mostra começando em dado instante para acabar igualmente com o mundo que a contém, não abrangendo mais que um minuto na eternidade!
 
@@ -453,7 +453,7 @@ Como é triste, fria, glacial essa doutrina quando nos mostra o resto do univers
 
 Oh! quão mesquinha se nos afigura essa ideia da grandeza, do poder e da bondade de Deus! Quanto é sublime a ideia que dele fazemos pelo Espiritismo! Quanto a sua doutrina engrandece as ideias e amplia o pensamento! Mas quem diz que ela é verdadeira? A razão primeiro, a revelação depois, e, finalmente, a sua concordância com os progressos da Ciência. Entre duas doutrinas, das quais uma amesquinha e a outra exalta os atributos de Deus; das quais uma só está em desacordo e a outra em harmonia com o progresso; das quais uma se deixa ficar na retaguarda enquanto a outra caminha, o bom senso diz de que lado está a verdade. Que, confrontando-as, consulte cada qual a consciência, e uma voz íntima lhe falará por ela. Pois bem, essas aspirações íntimas são a voz de Deus, que não pode enganar os homens.
 
-##### 19
+###### 19
 
 Dir-se-á, por que Deus não lhes revelou de princípio toda a verdade? Pela mesma razão por que se não ensina à infância o que se ensina aos de idade madura.
 
@@ -463,11 +463,11 @@ Os que recebem hoje uma revelação mais completa são os mesmos Espíritos que 
 
 Antes de a Ciência ter revelado aos homens as forças vivas da natureza, a constituição dos astros, o verdadeiro papel da Terra e sua formação, poderiam eles compreender a imensidade do Espaço e a pluralidade dos mundos? Antes de a Geologia comprovar a formação da Terra, poderiam os homens tirar-lhe o inferno das entranhas e compreender o sentido alegórico dos seis dias da Criação? Antes de a Astronomia descobrir as leis que regem o universo, poderiam compreender que não há alto nem baixo no Espaço, que o Céu não está acima das nuvens nem limitado pelas estrelas? Poderiam identificar-se com a vida espiritual antes dos progressos da ciência psicológica? conceber depois da morte uma vida feliz ou desgraçada, a não ser em lugar circunscrito e sob uma forma material? Não; compreendendo mais pelos sentidos que pelo pensamento, o universo era muito vasto para a sua concepção; era preciso restringi-lo ao seu ponto de vista para alargá-lo mais tarde. Uma revelação parcial tinha sua utilidade, e, embora sábia até então, não satisfaria hoje. O absurdo provém dos que pretendem poder governar os homens de pensamento, sem se darem conta do progresso das ideias, quais se fossem crianças. (Vede O evangelho segundo o espiritismo, cap. III.)
 
-### 1-04 🗂️
+### 1-04. 🗂️ O inferno {#ceu-1-01}
 
 #### Intuição das penas futuras
 
-##### 01
+###### 01
 
 Desde todas as épocas o homem acreditou, por intuição, que a vida futura seria feliz ou infeliz, conforme o bem ou o mal praticado neste mundo. A ideia que ele faz, porém, dessa vida, está em relação com o seu desenvolvimento, senso moral e noções mais ou menos justas do bem e do mal.
 
@@ -475,13 +475,13 @@ As penas e recompensas são o reflexo dos instintos predominantes. Os povos guer
 
 Mais tarde já se encontra nas crenças sobre a vida futura um misto de espiritualismo e materialismo: a beatitude contemplativa concorrendo com o inferno das torturas físicas.
 
-##### 02
+###### 02
 
 Não podendo compreender senão o que vê, o homem primitivo naturalmente moldou o seu futuro pelo presente; para compreender outros tipos, além dos que tinha à vista, ser-lhe-ia preciso um desenvolvimento intelectual que só o tempo deveria completar. Também o quadro por ele ideado sobre as penas futuras não é senão o reflexo dos males da humanidade, em mais vasta proporção, reunindo-lhe todas as torturas, suplícios e aflições que achou na Terra. Nos climas abrasadores imaginou um inferno de fogo, e nas regiões boreais um inferno de gelo. Não estando ainda desenvolvido o sentido que mais tarde o levaria a compreender o mundo espiritual, não podia conceber senão penas materiais; e assim, com pequenas diferenças de forma, os infernos de todas as religiões se assemelham.
 
 #### O inferno cristão imitado do inferno pagão
 
-##### 03
+###### 03
 
 O inferno pagão, descrito e dramatizado pelos poetas, foi o modelo mais grandioso do gênero, e perpetuou-se no seio dos cristãos, onde, por sua vez, houve poetas e cantores. Comparando-os, encontram-se neles
 
@@ -489,7 +489,7 @@ O inferno pagão, descrito e dramatizado pelos poetas, foi o modelo mais grandio
 
 — numerosas analogias; ambos têm o fogo material por base de tormentos, como símbolo dos sofrimentos mais atrozes. Mas coisa singular! os cristãos exageraram em muitos pontos o inferno dos pagãos. Se estes tinham o tonel das Danaides [^7], a roda de Íxion [^8], o rochedo de Sísifo [^9], eram estes suplícios individuais; os cristãos, ao contrário, têm para todos, sem distinção, as caldeiras ferventes cujos tampos os anjos levantam para ver as contorções dos supliciados [^10]; e Deus, sem piedade, ouve-lhes os gemidos por toda a eternidade. Jamais os pagãos descreveram os habitantes dos Campos Elíseos deleitando a vista nos suplícios do Tártaro. [^11]
 
-##### 04
+###### 04
 
 Os cristãos têm, como os pagãos, o seu rei dos infernos
 
@@ -501,7 +501,7 @@ Já se tem discutido seriamente sobre a natureza desse fogo que queima, mas não
 
 O inferno cristão nada cede, pois, ao inferno pagão.
 
-##### 05
+###### 05
 
 As mesmas considerações que, entre os antigos, tinham feito localizar o reino da felicidade, fizeram circunscrever igualmente o lugar dos suplícios. Tendo-se colocado o primeiro nas regiões superiores, era natural reservar ao segundo os lugares inferiores, isto é, o centro da Terra, para onde se acreditava servirem de entradas certas cavidades sombrias, de aspecto terrível. Os cristãos também colocaram aí, por muito tempo, a habitação dos condenados.
 
@@ -513,11 +513,11 @@ Os infernos não eram, portanto, um lugar unicamente de suplício: estavam, tal 
 
 A morada dos anjos, assim como o Olimpo, era nos lugares elevados. Colocaram-na para além do céu estelar, que se reputava limitado.
 
-##### 06
+###### 06
 
 Esta mistura de ideias cristãs e pagãs nada tem de surpreendente. Jesus não podia de um só golpe destruir inveteradas crenças, faltando aos homens conhecimentos necessários para conceber a infinidade do Espaço e o número infinito dos mundos; a Terra para eles era o centro do universo; não lhe conheciam a forma nem a estrutura internas; tudo se limitava ao seu ponto de vista: as noções do futuro não podiam ir além dos seus conhecimentos. Jesus encontrava-se, pois, na impossibilidade de os iniciar no verdadeiro estado das coisas, mas não querendo, por outro lado, com sua autoridade, sancionar preconceitos, absteve-se de os retificar, deixando ao tempo essa missão. Ele limitou-se a falar vagamente da vida bem-aventurada, dos castigos reservados aos culpados, sem referir-se jamais nos seus ensinos a castigos e suplícios corporais, que constituíram para os cristãos um artigo de fé. Eis aí como as ideias do inferno pagão se perpetuaram até os nossos dias. E foi preciso a difusão das modernas luzes, o desenvolvimento geral da inteligência humana para se lhe fazer justiça. Como, porém, nada de positivo houvesse substituído as ideias recebidas, ao longo período de uma crença cega sucedeu, transitoriamente, o período de incredulidade a que vem pôr termo a Nova Revelação. Era preciso demolir para reconstruir, visto como é mais fácil insinuar ideias justas aos que em nada creem, sentindo que algo lhes falta, do que fazê-lo aos que possuem uma ideia robusta, ainda que absurda.
 
-##### 07
+###### 07
 
 Localizados o Céu e o inferno, as seitas cristãs foram levadas a não admitir para as almas senão duas situações extremas: a felicidade perfeita e o sofrimento absoluto. O purgatório é apenas uma posição intermediária e passageira, ao sair da qual as almas passam, sem transição, à mansão dos justos.
 
@@ -525,11 +525,12 @@ Outra não pode ser a hipótese, dada a crença na sorte definitiva da alma apó
 
 > ✝️ ▸ *Há muitas moradas na casa de meu Pai.* [^13]
 >
-> **João, cap. 14, vers. 02, ARC**
+> João, cap. 14, vers. 02, ARC
+{:.bible-multi}
 
 #### Os limbos
 
-##### 08
+###### 08
 
 É verdade que a Igreja admite uma posição especial em casos particulares.
 
@@ -537,13 +538,13 @@ As crianças falecidas em tenra idade, sem fazer mal algum, não podem ser conde
 
 #### Quadro do inferno pagão
 
-##### 09
+###### 09
 
 O conhecimento do inferno pagão nos é fornecido quase exclusivamente pela narrativa dos poetas. Homero e Virgílio dele deram a mais completa descrição, devendo, contudo, levar-se em conta as necessidades poéticas impostas à forma. A descrição de Fénelon, no Aventuras de Telêmaco, posto que haurida na mesma fonte quanto às crenças fundamentais, tem a simplicidade mais concisa da prosa.
 
 Descrevendo o aspecto lúgubre dos lugares, preocupa-se, principalmente, em realçar o gênero de sofrimento dos culpados, estendendo-se sobre a sorte dos maus reis com vista à instrução do seu régio discípulo. Por muito popular que seja esta obra, nem todos têm presente à memória a sua descrição, ou não meditaram sobre ela de modo a estabelecer comparação, e assim acreditamos de utilidade reproduzir os tópicos que mais diretamente interessam ao nosso assunto, isto é, os que se referem especialmente às penas individuais.
 
-##### 10
+###### 10
 
 “Ao entrar, Telêmaco [^14] ouve gemidos de uma sombra inconsolável:
 
@@ -631,11 +632,11 @@ O que mais consternou Telêmaco, porém, foi ver nesse abismo de trevas e males 
 
 #### Esboço do inferno cristão
 
-##### 11
+###### 11
 
 A opinião dos teólogos sobre o inferno resume-se nas seguintes citações.26 Esta descrição, sendo tomada dos autores sagrados e da vida dos santos, pode tanto melhor ser considerada como expressão da fé ortodoxa na matéria, quanto é ela reproduzida a cada instante, com pequenas variantes, nos sermões do púlpito evangélico e nas instruções pastorais.
 
-##### 12
+###### 12
 
 “Os demônios são puros Espíritos, e os condenados, presentemente no inferno, podem ser considerados puros Espíritos, uma vez que só a alma aí desce, e os restos entregues à terra se transformam em ervas, em plantas, em minerais e líquidos, sofrendo inconscientemente as metamorfoses constantes da matéria. Os condenados, porém, como os santos, devem ressuscitar no dia do juízo final, retomando, para não mais deixá-los, os mesmos corpos carnais que os revestiam na vida. Os eleitos ressuscitarão, contudo, em corpos purificados e resplendentes, e os condenados em corpos maculados e desfigurados pelo pecado. Isso os distinguirá, não havendo mais no inferno puros Espíritos, porém homens como nós. Conseguintemente, o inferno é um lugar físico, geográfico, material, uma vez que tem de ser povoado por criaturas terrestres, dotadas de pés, mãos, boca, língua, dentes, ouvidos, olhos semelhantes aos nossos, sangue nas veias e nervos sensíveis.
 
@@ -669,7 +670,7 @@ Quase nada se conhece da ralé demoníaca, desses vis Espíritos que compõem as
 
 Eis aí resumida a ideia que nos dão do inferno, sob o ponto de vista da sua natureza física e também das penas físicas que aí sofrem. Compulsai os escritos dos padres e dos antigos doutores; interrogai as pias legendas; observai as esculturas e painéis das nossas igrejas; atentai no que dizem dos púlpitos e sabereis ainda mais.
 
-##### 13
+###### 13
 
 O autor acompanha esse quadro das seguintes reflexões, cujo alcance procuraremos cada qual compreender:
 
@@ -693,17 +694,17 @@ Era pouco aparentemente o abandono, depois da morte, à tristeza, ao arrependime
 
 Ainda assim Ele não as abandonará para sempre, em absoluto, visto como Céu e Terra não subsistem senão por ato permanente da sua vontade sempre ativa. Deus terá, portanto, sem cessar, esses condenados à mão, para impedir que o fogo se extinga em seus corpos, consumindo-os, e querendo que contribuam perpetuamente por seus perenes suplícios para edificação dos escolhidos.”
 
-##### 14
+###### 14
 
 Dissemos, e com razão, que o inferno dos cristãos excedera o dos pagãos. Efetivamente, no Tártaro veem-se culpados torturados pelo remorso, ante suas vítimas e seus crimes, acabrunhados por aqueles que espezinharam na vida terrestre; vemo-los fugirem à luz que os penetra, procurando em vão esconderem-se aos olhares que os perseguem; aí o orgulho é abatido e humilhado, trazendo todos o estigma do seu passado, punidos pelas próprias faltas, a ponto tal que, para alguns, basta entregá-los a si mesmos sem ser preciso aumentar-lhes os castigos. Contudo, são sombras, isto é, almas com corpos fluídicos, imagens da sua vida terrestre; lá não se vê os homens retomarem o corpo carnal para sofrer materialmente, com fogo a penetrar-lhes a pele, saturando-os até a medula dos ossos. Tampouco se vê o requinte das torturas que constituem o fundo do inferno cristão. Juízes inflexíveis, porém justos, proferem a sentença proporcional ao delito, ao passo que no império de Satã são todos confundidos nas mesmas torturas, com a materialidade por base, e banida toda e qualquer equidade.
 
 Incontestavelmente, há hoje, no seio da Igreja mesma, muitos homens sensatos que não admitem essas coisas à risca, vendo nelas antes simples alegorias cujo sentido convém interpretar. Estas opiniões, no entanto, são individuais e não fazem lei, continuando a crença no inferno material, com suas consequências, a constituir um artigo de fé.
 
-##### 15
+###### 15
 
 Poderíamos perguntar como há homens que têm conseguido ver essas coisas em êxtase, se elas de fato não existem. Não cabe aqui explicar a origem das imagens fantásticas, tantas vezes reproduzidas com visos de realidade. Diremos apenas ser preciso considerar, em princípio, que o êxtase é a mais incerta de todas as revelações [^35], porquanto o estado de sobre-excitação nem sempre importa um desprendimento de alma tão completo que se imponha à crença absoluta, denotando muitas vezes o reflexo de preocupações da véspera. As ideias com que o Espírito se nutre e das quais o cérebro, ou antes o invólucro perispiritual correspondente a este, conserva a forma ou a estampa, se reproduzem amplificadas como em uma miragem, sob formas vaporosas que se cruzam, se confundem e compõem um todo extravagante. Os extáticos de todos os cultos sempre viram coisas em relação com a fé de que se presumem penetrados, não sendo, pois, extraordinário que Santa Teresa e outros, tal qual ela saturados de ideias infernais pelas descrições, verbais ou escritas, hajam tido visões, que não são, propriamente falando, mais que reproduções por efeito de um pesadelo. Um pagão fanático teria antes visto o Tártaro e as Fúrias, ou Júpiter, no Olimpo, empunhando o raio.
 
-### 1-05 🗂️
+### 1-05. 🗂️ O purgatório {#ceu-1-01}
 
 #### 01
 
@@ -713,11 +714,11 @@ O princípio do purgatório funda-se na equidade, pois é a detenção temporár
 
 Sem o purgatório, só há para as almas duas alternativas extremas: a suprema felicidade ou o eterno suplício. E nessa hipótese, que seria das almas somente culpadas de ligeiras faltas? Ou compartilhariam da felicidade dos eleitos, ainda quando imperfeitas, ou sofreriam o castigo dos maiores criminosos, ainda quando não houvessem feito muito mal, o que não seria nem justo, nem racional.
 
-##### 02
+###### 02
 
 Necessariamente, porém, a noção do purgatório deveria ser incompleta, porque apenas conhecendo a penalidade do fogo fizeram dele uma atenuante do inferno, visto que as almas aí também ardem, embora em fogo mais brando. Sendo o dogma das penas eternas incompatível com o progresso, as almas do purgatório não se livram dele por efeito do seu adiantamento, mas em virtude das preces que se dizem ou que se mandam dizer em sua intenção. E se foi bom o primeiro pensamento, outro tanto não acontece quanto às consequências dele decorrentes, pelos abusos que originaram. As preces pagas transformaram o purgatório em mina mais rendosa que o inferno. [^36]
 
-##### 03
+###### 03
 
 Jamais foram determinados e definidos claramente o lugar do purgatório e a natureza das penas aí sofridas. À Nova Revelação estava reservado o preenchimento dessa lacuna, explicando-nos a causa das terrenas misérias da vida, das quais só a pluralidade de existências poderia mostrar-nos a justiça.
 
@@ -727,7 +728,7 @@ O mais das vezes ele é desgraçado por sua própria culpa, porém, se é imperf
 
 O prêmio da vitória está na vida espiritual, onde a alma entra radiante e triunfadora como soldado que se destaca da refrega para receber a palma gloriosa.
 
-##### 04
+###### 04
 
 Em cada existência, uma ocasião se depara à alma para dar um passo avante; de sua vontade depende a maior ou menor extensão desse passo: franquear muitos degraus ou ficar no mesmo ponto. Neste último caso, e porque cedo ou tarde se impõe sempre o pagamento de suas dívidas, terá de recomeçar nova existência em condições ainda mais penosas, porque a uma nódoa não apagada ajunta outra nódoa.
 
@@ -735,27 +736,27 @@ Em cada existência, uma ocasião se depara à alma para dar um passo avante; de
 
 O purgatório não é, portanto, uma ideia vaga e incerta; é antes uma realidade material que vemos, tocamos e sentimos. Ele existe nos mundos de expiação como a Terra, onde os homens expiam o passado e o presente, em proveito do futuro. Contrariamente, porém, à ideia que dele se faz, depende de cada um prolongar ou abreviar a sua permanência, segundo o grau de adiantamento e pureza atingido pelo próprio esforço sobre si mesmo. O livramento se dá, não por conclusão de tempo nem por alheios méritos, mas pelo próprio mérito de cada um, consoante estas palavras do Cristo: “A cada um segundo as suas obras”, palavras que resumem integralmente a Justiça de Deus.
 
-##### 05
+###### 05
 
 Aquele, pois, que sofre nesta vida pode dizer-se que é porque não se purificou suficientemente em sua existência anterior, devendo, se o não fizer nesta, sofrer ainda na seguinte. Isto é ao mesmo tempo equitativo e lógico. Sendo o sofrimento inerente à imperfeição, tanto mais tempo se sofre quanto mais imperfeito se for, da mesma forma por que tanto mais tempo persistirá uma enfermidade quanto maior a demora em tratá-la. Assim é que, enquanto o homem for orgulhoso, sofrerá as consequências do orgulho; enquanto egoísta, as do egoísmo.
 
-##### 06
+###### 06
 
 Devido às suas imperfeições, o Espírito culpado sofre primeiro na vida espiritual, sendo-lhe depois facultada a vida corporal como meio de reparação. É por isso que ele se acha nessa nova existência, quer com as pessoas a quem ofendeu, quer em meios análogos àqueles em que praticou o mal, quer ainda em situações opostas à sua vida precedente, como, por exemplo, na miséria, se foi mau rico, ou humilhado, se orgulhoso.
 
 A expiação no mundo dos Espíritos e na Terra não constitui duplo castigo para o Espírito, porém um complemento, um desdobramento do trabalho efetivo a facilitar o progresso. Do Espírito depende aproveitá-lo. E não lhe será preferível voltar à Terra, com probabilidades de alcançar o Céu, a ser condenado sem remissão, deixando-a definitivamente? A concessão dessa liberdade é uma prova da sabedoria, da bondade e da Justiça de Deus, que quer que o homem tudo deva aos seus esforços e seja o obreiro do seu futuro; que, infeliz por mais ou menos tempo, não se queixe senão de si mesmo, pois que a rota do progresso lhe está sempre franca.
 
-##### 07
+###### 07
 
 Considerando-se quão grande é o sofrimento de certos Espíritos culpados no mundo invisível, quanto é terrível a situação de outros, tanto mais penosa pela impotência de preverem o termo desses sofrimentos, poder-se-ia dizer que se acham no inferno, se tal vocábulo não implicasse a ideia de um castigo eterno e material.
 
 Mercê, porém, da revelação dos Espíritos e dos exemplos que nos oferecem, sabemos que o prazo da expiação está subordinado ao melhoramento do culpado.
 
-##### 08
+###### 08
 
 O Espiritismo não nega, pois, antes confirma, a penalidade futura. O que ele destrói é o inferno localizado com suas fornalhas e penas irremissíveis. Não nega, outrossim, o purgatório, pois prova que nele nos achamos, e definindo-o precisamente, e explicando a causa das misérias terrestres, conduz à crença aqueles mesmos que o negam. Repele as preces pelos mortos? Ao contrário, visto que os Espíritos sofredores as solicitam; eleva-as a um dever de caridade e demonstra a sua eficácia para os conduzir ao bem e, por esse meio, abreviar-lhes os tormentos. [^37] Falando à inteligência, tem levado a fé a muito incrédulo, incutindo a prece no ânimo dos que a escarneciam. O que o Espiritismo afirma é que o valor da prece está no pensamento, e não nas palavras, que as melhores preces são as do coração, e não dos lábios, e, finalmente, as que cada qual murmura de si mesmo, e não as que se mandam dizer por dinheiro. Quem, pois, ousaria censurá-lo?
 
-##### 09
+###### 09
 
 Seja qual for a duração do castigo, na vida espiritual ou na Terra, onde quer que se verifique, tem sempre um termo, próximo ou remoto. Na realidade não há para o Espírito mais que duas alternativas, a saber: punição temporária e proporcional à culpa, e recompensa graduada segundo o mérito. Repele o Espiritismo a terceira alternativa, da eterna condenação. O inferno reduz-se à figura simbólica dos maiores sofrimentos cujo termo é desconhecido. O purgatório, sim, é a realidade.
 
@@ -765,7 +766,7 @@ Melhorados os homens, não fornecerão ao mundo invisível senão bons Espírito
 
 Aliás, por esta transformação, que neste momento se opera, a Terra se elevará na hierarquia dos mundos. [^38]
 
-##### 10
+###### 10
 
 Por que não teria o Cristo falado do purgatório? É que, não existindo a ideia, não havia palavra que a representasse.
 
@@ -773,11 +774,11 @@ O Cristo serviu-se da palavra inferno, a única usada, como termo genérico, par
 
 Reservado ao futuro o esclarecimento sobre a natureza das penas, competia-lhe igualmente reduzir o inferno ao seu justo valor. Uma vez que a Igreja, após seis séculos, houve por bem suprir o silêncio de Jesus quanto ao purgatório, decretando-lhe a existência, é porque ela julgou que Ele não havia dito tudo. E por que não havia de dar-se sobre outros pontos o que com este se deu?
 
-### 1-06 🗂️
+### 1-06. 🗂️ Doutrina das penas eternas {#ceu-1-01}
 
 #### Origem da doutrina das penas eternas
 
-##### 01
+###### 01
 
 A crença na eternidade das penas perde terreno dia a dia, de modo que, sem ser profeta, pode prever-se-lhe o fim próximo.
 
@@ -787,7 +788,7 @@ Não se pode contestar, porém, que, apesar de caduca, ainda constitui o baluart
 
 Por este lado, a questão merece sério exame.
 
-##### 02
+###### 02
 
 A doutrina das penas eternas teve sua razão de ser, como a do inferno material, enquanto o temor podia constituir um freio para os homens pouco adiantados intelectual e moralmente.
 
@@ -795,7 +796,7 @@ Na impossibilidade de apreenderem as nuanças tantas vezes delicadas do bem e do
 
 Tampouco compreenderiam a temporalidade dessas penas e a justiça decorrente das suas gradações e proporções.
 
-##### 03
+###### 03
 
 Quanto mais próximo do estado primitivo, mais material é o homem.
 
@@ -809,7 +810,7 @@ Para tais homens eram precisas crenças religiosas assimiladas à sua natureza r
 
 Não censuremos, pois, a Moisés sua legislação draconiana, apenas bastante para conter o povo indócil, nem o haver feito de Deus um Deus vingativo. A época assim o exigia, essa época em que a doutrina de Jesus não encontraria eco e até se anularia.
 
-##### 04
+###### 04
 
 À medida que o Espírito se desenvolvia, o véu material ia-se-lhe dissipando pouco a pouco, e os homens habilitavam-se a compreender as coisas espirituais. Mas isso não aconteceu senão lenta e gradualmente. Por ocasião de sua vinda, já Jesus pôde proclamar um Deus clemente, falando do seu reino, não deste mundo, e acrescentando: «Amai-vos uns aos outros e fazei bem aos que vos odeiam” (Lucas, 6:27), ao passo que os antigos diziam: “olho por olho, dente por dente”.
 
@@ -817,7 +818,7 @@ Ora, quais eram os homens que viviam no tempo de Jesus?
 
 Seriam almas novamente criadas e encarnadas? Mas se assim fosse, Deus teria criado para o tempo de Jesus almas mais adiantadas que para o tempo de Moisés? E daí o que teria decorrido para estas últimas? Consumir-se-iam por toda a eternidade no embrutecimento? O mais comezinho bom senso repele essa suposição. Não; essas almas eram as mesmas que viviam sob o império das leis mosaicas e que tinham adquirido, em várias existências, o desenvolvimento suficiente à compreensão de uma doutrina mais elevada, assim como hoje mais adiantadas se encontram para receber um ensino ainda mais completo.
 
-##### 05
+###### 05
 
 O Cristo não pôde, no entanto, revelar aos seus contemporâneos todos os mistérios do futuro. Ele próprio o disse: Muitas outras coisas vos diria se estivésseis em estado de as compreender, e eis por que vos falo em parábolas. Sobretudo no que diz respeito à moral, isto é, aos deveres do homem, foi o Cristo muito explícito porque, tocando na corda sensível da vida material, sabia fazer-se compreender; quanto a outros pontos, limitou-se a semear sob a forma alegórica os germens que deveriam ser desenvolvidos mais tarde.
 
@@ -827,7 +828,7 @@ Se o Cristo prometia o reino dos Céus aos bons, esse reino estaria interdito ao
 
 Eis a razão por que Jesus não entrou em minúcias supérfluas a este respeito; nessa época não era preciso mais do que opor uma punição à recompensa.
 
-##### 06
+###### 06
 
 Se Jesus ameaçou os culpados com o fogo eterno, também os ameaçou de serem lançados na Geena. Ora, que vem a ser a Geena? Nada mais nada menos que um lugar nos arredores de Jerusalém, um monturo onde se despejavam as imundícies da cidade.
 
@@ -839,19 +840,19 @@ Esse perdão é, porém, incondicional? É uma remissão pura e simples da pena 
 
 O Pai-nosso é um protesto cotidiano contra a eterna vingança de Deus.
 
-##### 07
+###### 07
 
 Para homens que só possuíam da espiritualidade da alma uma ideia confusa, o fogo material nada tinha de improcedente, mesmo porque já participava da crença pagã, quase universalmente propagada. Igualmente a eternidade das penas nada tinha que pudesse repugnar a homens desde muitos séculos submetidos à legislação do terrível Jeová. No pensamento de Jesus o fogo eterno não podia passar, portanto, de simples figura, pouco lhe importando fosse essa figura interpretada à letra, desde que ela servisse de freio às paixões humanas. Sabia Ele ademais que o tempo e o progresso se incumbiriam de explicar o sentido alegórico, mesmo porque, segundo a sua predição, o Espírito de Verdade viria esclarecer aos homens todas as coisas. O caráter essencial das penas irrevogáveis é a ineficácia do arrependimento, e Jesus nunca disse que o arrependimento não mereceria a graça do Pai.
 
 Ao contrário, sempre que se lhe deparou ensejo, Ele falou de um Deus clemente, misericordioso, solícito em receber o filho pródigo que voltasse ao lar paterno; inflexível, sim, para o pecador obstinado, porém, pronto sempre a trocar o castigo pelo perdão do culpado sinceramente arrependido. Este não é, por certo, o traço de um Deus sem piedade. Também convém assinalar que Jesus nunca pronunciou contra quem quer que fosse, mesmo contra os maiores culpados, a condenação irremissível.
 
-##### 08
+###### 08
 
 Todas as religiões primitivas, revestindo o caráter dos povos, tiveram deuses guerreiros que combatiam à frente dos exércitos.
 
 O Jeová dos hebreus facultava-lhes mil modos de exterminar os inimigos; recompensava-os com a vitória ou punia-nos com a derrota. Tal ideia a respeito de Deus levava a honrá-lo ou apaziguá-lo com sangue de animais ou de homens, e daí os sacrifícios sangrentos que representavam papel tão saliente em todas as religiões da Antiguidade. Os judeus tinham abolido os sacrifícios humanos; os cristãos, apesar dos ensinamentos do Cristo, por muito tempo julgaram honrar o Criador votando, aos milhares, às chamas e às torturas, os que denominavam hereges, o que constituía sob outra forma verdadeiros sacrifícios humanos, pois que os promoviam para a maior glória de Deus, e com acompanhamento de cerimônias religiosas. Hoje, ainda invocam o Deus dos exércitos antes do combate, glorificam-no após a vitória, e quantas vezes por causas as mais injustas e anticristãs.
 
-##### 09
+###### 09
 
 Quão tardo é o homem em desfazer-se dos seus hábitos, prejuízos e primitivas ideias! Quarenta séculos nos separam de Moisés, e a nossa geração cristã ainda vê traços de antigos usos bárbaros, senão consagrados, ao menos aprovados pela Religião atual! Foi preciso a poderosa opinião dos não-ortodoxos para acabar com as fogueiras e fazer compreender a verdadeira grandeza de Deus. À falta de fogueiras, porém, prevalecem ainda as perseguições materiais e morais, tão radicada está no homem a ideia da crueldade divina. Nutrido por sentimentos inculcados desde a infância, poderá o homem estranhar que o Deus que lhe apresentam, lisonjeado por atos bárbaros, condene a eternas torturas e veja sem piedade o sofrimento dos culpados? Sim, são filósofos, ímpios como querem alguns, que se hão escandalizado vendo o nome de Deus profanado por atos indignos dele. São eles que o mostram aos homens na plenitude da sua grandeza, despojando-o de paixões e baixezas atribuídas por uma crença menos esclarecida.
 
@@ -861,7 +862,7 @@ Ao lado destes, porém, quantos não têm sido levados, sem mais reflexão, a ne
 
 #### Argumentos a favor das penas eternas
 
-##### 10
+###### 10
 
 Voltemos ao dogma das penas eternas. Eis o principal argumento invocado em seu favor: “É doutrina sancionada entre os homens que a gravidade da ofensa é proporcionada à qualidade do ofendido. O crime de lesa-majestade, por exemplo, o atentado à pessoa de um soberano, sendo considerado mais grave do que o fora em relação a qualquer súdito, é, por isso mesmo, mais severamente punido. E sendo Deus muito mais que um soberano, pois é Infinito, deve ser infinita a ofensa a Ele, como infinito o respectivo castigo, isto é, eterno.”
 
@@ -875,7 +876,7 @@ E porque são infinitos, os atributos divinos não sofrem aumento nem diminuiç�
 
 O infinito de uma qualidade exclui a possibilidade da existência de outra qualidade contrária que pudesse diminuí-la ou anulá-la. Um ser infinitamente bom não pode ter a menor parcela de maldade, nem o ser infinitamente mau pode ter a menor parcela de bondade. Assim também um objeto não seria de um negro absoluto com a mais leve nuança de branco, e vice-versa. Estabelecido este ponto de partida, oporemos aos argumentos supra os seguintes:
 
-##### 11
+###### 11
 
 Só um ser infinito pode fazer algo de infinito. O homem, finito nas virtudes, nos conhecimentos, no poderio, nas aptidões e na existência terrestre, não pode produzir senão coisas limitadas.
 
@@ -887,11 +888,11 @@ Se Deus é inexorável para o culpado que se arrepende, não é misericordioso; 
 
 Achando-se em toda parte e tudo vendo, Deus deve ver também as torturas dos condenados; e se Ele se conserva insensível aos gemidos por toda a eternidade, será eternamente impiedoso; ora, sem piedade, não há bondade infinita.
 
-##### 12
+###### 12
 
 A isto se responde que o pecador arrependido, antes da morte, tem a misericórdia de Deus, e que mesmo o maior culpado pode receber essa graça. Quanto a isto não há dúvida, e compreende-se que Deus só perdoe ao arrependido, mantendo-se inflexível para com os obstinados; mas se Ele é todo misericordioso para a alma arrependida antes da morte, por que deixará de o ser para quem se arrepende depois dela? Por que a eficácia do arrependimento só durante a vida, um breve instante, e não na eternidade que não tem fim? Circunscritas a um dado tempo, a bondade e Misericórdia divinas teriam limites, e Deus não seria infinitamente bom.
 
-##### 13
+###### 13
 
 Deus é soberanamente justo. A soberana justiça não é inexorável absolutamente, nem leva a complacência ao ponto de deixar impunes todas as faltas; ao contrário, pondera rigorosamente o bem e o mal, recompensando um e punindo outro equitativa e proporcionalmente, sem se enganar jamais na aplicação.
 
@@ -901,17 +902,17 @@ Se por uma falta passageira, resultante sempre da natureza imperfeita do homem e
 
 Se a pena é irrevogável, inútil será o arrependimento, e o culpado, nada tendo a esperar de sua correção, persiste no mal, de modo que Deus não só o condena a sofrer perpetuamente, mas ainda a permanecer no mal por toda a eternidade. Nisso não há nem bondade nem justiça.
 
-##### 14
+###### 14
 
 Sendo em tudo infinito, Deus deve abranger o passado e o futuro; deve saber, ao criar uma alma, se ela virá a falir, assaz gravemente, para ser eternamente condenada. Se o não souber, a sua sabedoria deixará de ser infinita, e Ele deixará de ser Deus. Sabendo-o, cria voluntariamente uma alma desde logo votada ao eterno suplício, e, nesse caso, deixa de ser bom.
 
 Uma vez que Deus pode conferir a graça ao pecador arrependido, tirando-o do inferno, deixam de existir penas eternas, e o juízo dos homens está revogado.
 
-##### 15
+###### 15
 
 Conseguintemente, a doutrina das penas eternas absolutas conduz à negação, ou, pelo menos, ao enfraquecimento de alguns atributos de Deus, sendo incompatível com a perfeição absoluta, donde resulta este dilema: Ou Deus é perfeito e não há penas eternas, ou há penas eternas e Deus não é perfeito.
 
-##### 16
+###### 16
 
 Também se invoca a favor do dogma da eternidade das penas o seguinte argumento:
 
@@ -929,7 +930,7 @@ E Deus seria justo se lhe recusasse os respectivos meios?
 
 Sendo o bem o fim supremo da Criação, a felicidade, que é o seu prêmio, deve ser eterna; e o castigo, como meio de alcançá-la, temporário. A noção mais comezinha da justiça humana prescreve que se não pode castigar perpetuamente quem se mostra desejoso de praticar o bem.
 
-##### 17
+###### 17
 
 Um último argumento a favor das penas eternas é este:
 
@@ -953,7 +954,7 @@ Assim, impotente para reprimir os próprios profitentes, que império poderá ex
 
 #### Impossibilidade material das penas eternas
 
-##### 18
+###### 18
 
 Até aqui, só temos combatido o dogma das penas eternas com o raciocínio. Demonstremo-lo agora em contradição com os fatos positivos que observamos, provando-lhe a impossibilidade.
 
@@ -965,20 +966,20 @@ E poder-se-á duvidar desse progresso, vendo a variedade enorme de aptidões mor
 
 — o que seria incompatível com a justiça, que, aliás, deve ser igual para todas as criaturas.
 
-##### 19
+###### 19
 
 É incontestável que a alma atrasada moral e intelectualmente,
 como a dos povos bárbaros, não pode ter os mesmos elementos de felicidade, as mesmas aptidões para gozar dos esplendores do Infinito, como a alma cujas faculdades estão largamente desenvolvidas. Se, portanto, estas almas não progredirem, não podem em condições mais favoráveis gozar na eternidade senão de uma felicidade, por assim dizer, negativa.
 
 Para estar de acordo com a rigorosa justiça, chegaremos, pois, à conclusão de que as almas mais adiantadas são as atrasadas de outro tempo, com progressos posteriormente realizados. Aqui, então, atingimos a questão magna da pluralidade das existências como meio único e racional de resolver a dificuldade. Façamos abstração, porém, dessa questão e consideremos a alma sob o ponto de vista de uma única existência.
 
-##### 20
+###### 20
 
 Figuremos um rapaz de 20 anos, desses que comumente se encontram, ignorante, viciado por índole, cético, negando-se a sua alma e a Deus, entregue à desordem e cometendo toda sorte de malvadeza. Esse rapaz encontra-se, depois, num meio favorável, melhor; trabalha, instrui-se, corrige-se gradualmente e acaba por tornar-se crente e piedoso. Eis aí um exemplo palpável do progresso da alma durante a vida, exemplo que se reproduz todos os dias. Esse homem morre em avançada idade, como um santo, e naturalmente certa se lhe torna a salvação; mas qual seria a sua sorte se um acidente lhe pusesse termo à existência, trinta ou quarenta anos mais cedo? Ele estava nas condições exigidas para ser condenado, e, se o fosse, todo o progresso se lhe tornaria impossível.
 
 E assim, segundo a doutrina das penas eternas, teremos um homem salvo somente pela circunstância de viver mais tempo, circunstância, aliás, fragilíssima, uma vez que um acidente qualquer poderia tê-la anulado fortuitamente. Desde que sua alma pôde progredir em um tempo dado, por que razão não mais poderia progredir depois da morte, se uma causa alheia à sua vontade a tivesse impedido de fazê-lo durante a vida? Por que lhe recusaria Deus os meios de regenerar-se na outra vida, concedendo-lhos nesta? Neste caso, o arrependimento veio, posto que tardio, mas se desde o momento da morte se impusesse irrevogável condenação, esse arrependimento seria infrutífero por todo o sempre, como destruídas seriam as aptidões dessa alma para o progresso, para o bem.
 
-##### 21
+###### 21
 
 O dogma da eternidade absoluta das penas é, portanto, incompatível com o progresso das almas, ao qual opõe uma barreira insuperável. Esses dois princípios destroem-se, e a condição indeclinável da existência de um é o aniquilamento do outro. Qual dos dois existe de fato? A lei do progresso é evidente: não é uma teoria, é um fato corroborado pela experiência: é uma Lei da natureza, divina, imprescritível. E, pois, que esta lei existe inconciliável com a outra, é porque a outra não existe. Se o dogma das penas eternas existisse verdadeiramente, Santo Agostinho, Paulo e tantos outros jamais teriam visto o Céu, caso morressem antes de realizar o progresso que lhes trouxe a conversão.
 
@@ -990,11 +991,11 @@ Segundo a Doutrina Espírita, de acordo mesmo com as palavras do Evangelho, com 
 
 #### A doutrina das penas eternas fez sua época
 
-##### 22
+###### 22
 
 A crença na eternidade das penas prevaleceu salutarmente enquanto os homens não tiveram ao seu alcance a compreensão do poder moral. É o que sucede com as crianças durante certo tempo contidas pela ameaça de seres quiméricos com os quais são intimidadas; chegadas ao período do raciocínio, repelem por si mesmas essas quimeras da infância, tornando-se absurdo o querer governá-las por tais meios. Se os que as dirigem pretendessem incutir-lhes ainda a veracidade de tais fábulas, certo decairiam da sua confiança. É isso que se dá hoje com a humanidade, saindo da infância e abandonando, por assim dizer, os cueiros. O homem não é mais passivo instrumento vergado à força material, nem o ente crédulo de outrora que tudo aceitava de olhos fechados.
 
-##### 23
+###### 23
 
 A crença é um ato de entendimento que, por isso mesmo, não pode ser imposta. Se, durante certo período da humanidade, o dogma da eternidade das penas se manteve inofensivo e benéfico mesmo, chegou o momento de tornar-se perigoso. Imposto como verdade absoluta, quando a razão o repele, ou o homem quer acreditar e procura uma crença mais racional, afastando-se dos que o professam, ou, então, descrê absolutamente de tudo. Quem quer que estude o assunto, calmamente, verá que, em nossos dias, o dogma da eternidade das penas tem feito mais ateus e materialistas do que todos os filósofos.
 
@@ -1008,7 +1009,7 @@ Esta crença tem sido grandemente explorada pela ideia de que com dinheiro se ab
 
 De bom grado cede a criança o bolo a quem lhe promete afugentar o lobisomem, mas se a criança já não acreditar em lobisomens, guardará o bolo.
 
-##### 24
+###### 24
 
 A Nova Revelação, dando noções mais sensatas da vida futura e provando que podemos, cada um de nós, promover a felicidade pelas próprias obras, deve encontrar tremenda oposição, tanto mais viva por estancar uma das mais rendosas fontes de receita. E assim tem sido, sempre que uma nova descoberta ou invento abala costumes inveterados e preestabelecidos.
 
@@ -1022,7 +1023,7 @@ Aos olhos dos incrédulos o dogma da eternidade das penas afigura-se futilidade 
 
 #### Ezequiel contra a eternidade das penas e o pecado original
 
-##### 25
+###### 25
 
 A quem pretenda encontrar na Bíblia a justificação da eternidade das penas, pode-se opor os textos contrários que a tal respeito não comportam ambiguidades. As seguintes palavras de Ezequiel são a mais explícita negação, não somente das penas irremissíveis, mas da responsabilidade que o pecado do pai do gênero humano acarretasse à sua raça:
 
@@ -1042,20 +1043,19 @@ A quem pretenda encontrar na Bíblia a justificação da eternidade das penas, p
 >
 > Desejaria eu, de qualquer maneira, a morte do ímpio? Diz o Senhor Jeová; não desejo, antes, que se converta dos seus caminhos e viva?
 >
->**Ezequiel, cap. 18, vers. 01-23, ARC**
+> Ezequiel, cap. 18, vers. 01-23, ARC
+{:.bible-multi}
 
 > ✝️ ▸ Dize-lhes: Vivo eu, diz o Senhor Jeová, que não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva; convertei-vos, convertei-vos dos vossos maus caminhos; pois por que razão morrereis, ó casa de Israel?
 >
->**Ezequiel, cap. 33, vers. 11, ARC**
+> Ezequiel, cap. 33, vers. 11, ARC
+{:.bible-multi}
 
-### 1-07 🗂️
+### 1-07. 🗂️ As penas futuras segundo o Espiritismo {#ceu-1-01}
 
 #### A carne é fraca [^39]
 
-Há tendências viciosas que são evidentemente próprias do Espírito, porque se apegam mais ao moral do que ao físico; outras parecem
-antes dependentes do organismo, e, por esse motivo, menos responsáveis
-são julgados os que as possuem: consideram-se como tais as disposições
-à cólera, à preguiça, à sensualidade etc.
+Há tendências viciosas que são evidentemente próprias do Espírito, porque se apegam mais ao moral do que ao físico; outras parecem antes dependentes do organismo, e, por esse motivo, menos responsáveis são julgados os que as possuem: consideram-se como tais as disposições à cólera, à preguiça, à sensualidade etc.
 
 Hoje está plenamente reconhecido pelos filósofos espiritualistas que os órgãos cerebrais correspondentes a diversas aptidões devem o seu desenvolvimento à atividade do Espírito. Assim, esse desenvolvimento é um efeito, e não uma causa. Um homem não é músico porque tenha a bossa da música, mas possui essa tendência porque o seu Espírito é musical. Se a atividade do Espírito reage sobre o cérebro, deve também reagir sobre as outras partes do organismo.
 
@@ -1229,17 +1229,17 @@ A cada um segundo as suas obras, no Céu como na Terra
 
 — tal é a lei da Justiça divina.
 
-### 1-08 🗂️
+### 1-08. 🗂️ Os anjos {#ceu-1-01}
 
 #### Os anjos segundo a Igreja
 
-##### 01
+###### 01
 
 Todas as religiões têm tido anjos sob vários nomes, isto é, seres superiores à humanidade, intermediários entre Deus e os homens.
 
 Negando toda a existência espiritual fora da vida orgânica, o materialismo naturalmente classificou os anjos entre as ficções e alegorias. A crença nos anjos é parte essencial dos dogmas da Igreja, que assim os define: [^46]
 
-##### 02
+###### 02
 
 “Acreditamos firmemente”, diz um concílio geral e ecumênico [^47], “que só há um Deus verdadeiro, eterno e infinito, que no começo dos tempos tirou conjuntamente do nada as duas criaturas
 
@@ -1279,7 +1279,7 @@ Os da terceira hierarquia têm por missão a direção das sociedades e das pess
 
 #### Refutação
 
-##### 03
+###### 03
 
 O princípio geral resultante dessa doutrina é que os anjos são seres puramente espirituais, anteriores e superiores à humanidade, criaturas privilegiadas e votadas à felicidade suprema e eterna desde a sua formação, dotadas, por sua própria natureza, de todas as virtudes e conhecimentos, nada tendo feito, aliás, para adquiri-los. Estão, por assim dizer, no primeiro plano da Criação, contrastando com o último onde a vida é puramente material; e, entre os dois, medianamente existe a humanidade, isto é, as almas, seres inferiores aos anjos e ligados a corpos materiais.
 
@@ -1293,7 +1293,7 @@ Evidentemente, esta divisão é obscura e não se compadece com a observação; 
 
 Essa teoria, porém, embora incompleta, é, até certo ponto, verdadeira, quanto à existência dos três termos: faltam-lhe os pontos de contato desses termos, como é fácil demonstrar.
 
-##### 04
+###### 04
 
 Diz a Igreja que esses três pontos culminantes da Criação são necessários à harmonia do conjunto. Desde que lhe falte um só que seja, a obra incompleta não mais se compadece com a Sabedoria eterna. Entretanto, um dos dogmas fundamentais diz que a Terra, os animais, as plantas, o Sol e as estrelas e até a luz foram criados do nada, há seis mil anos. Antes dessa época não havia, portanto, criatura humana nem corpórea
 
@@ -1303,7 +1303,7 @@ Apesar disso, o concílio de Latrão, concílio ecumênico que faz lei em matér
 
 — espiritual e corpórea.” Por começo dos tempos só podemos inferir a eternidade transcorrida, visto ser o tempo infinito como o Espaço, sem começo nem fim. Esta expressão, começo dos tempos, é antes uma figura, que implica a ideia de uma anterioridade ilimitada. O concílio de Latrão acredita, pois, firmemente, que as criaturas espirituais como as corpóreas foram simultaneamente formadas e tiradas em conjunto do nada, numa época indeterminada, no passado. A que fica reduzido, assim, o texto bíblico que data a Criação de seis mil dos nossos anos? E, ainda que se admita seja tal o começo do universo visível, esse não é seguramente o começo dos tempos. Em qual crer: no concílio ou na Bíblia?
 
-##### 05
+###### 05
 
 O concílio formula, além disso, uma estranha proposição: “Nossa alma, diz, igualmente espiritual, é associada ao corpo de maneira a não formar com ele mais que uma pessoa, e tal é, essencialmente, o seu destino.” Ora, se o destino essencial da alma é estar unida ao corpo, esta união constitui o estado normal, o desígnio, o fim, por isso que é o seu destino. Entretanto, a alma é imortal, e o corpo não; a união daquela com este só se realiza uma vez, segundo a Igreja, e ainda que durasse um século, nada seria em relação à eternidade. E sendo apenas de algumas horas para muitos, que utilidade teria para a alma união tão efêmera? Mas que se prolongue essa união tanto quanto se pode prolongar uma existência terrena e, ainda assim, poder-se-á afirmar que o seu destino é estar essencialmente integrada ao corpo? Não, essa união mais não é na realidade do que um incidente, um estádio da alma, nunca o seu estado essencial.
 
@@ -1313,11 +1313,11 @@ Se o destino essencial da alma é estar ligada ao corpo humano; se, por sua natu
 
 É verdadeiramente estranhável que um concílio, havido por um dos luminares da Igreja, tenha a tal ponto identificado os seres espiritual e material, de modo a não subsistirem por si mesmos, pois que a condição essencial da sua criação é estarem unidos.
 
-##### 06
+###### 06
 
 O quadro hierárquico dos anjos nos mostra que várias ordens têm, nas suas atribuições, o governo físico do mundo e da humanidade, para cujo fim foram criados. Mas, segundo o Gênesis, o mundo físico e a humanidade não existem senão há seis mil anos; e o que faziam, pois, tais anjos, anteriormente a essa era, durante a eternidade, quando não existia o objetivo das suas ocupações? E teriam eles sido criados de toda a eternidade? Assim deve ser, uma vez que servem à glorificação do Todo-Poderoso. Mas, criando-os numa época qualquer determinada, Deus ficaria até então, isto é, durante uma eternidade, sem adoradores.
 
-##### 07
+###### 07
 
 Diz ainda o concílio: “Enquanto dura esta união tão íntima da alma com o corpo.” Há, por conseguinte, um momento em que a união se desfaz? Esta proposição contradita a que sustenta a essencialidade dessa união. E diz mais o concílio: “As ideias lhes chegam pelos sentidos, na comparação dos objetos exteriores.” Eis aí uma doutrina filosófica em parte verdadeira, que não em sentido absoluto.
 
@@ -1325,29 +1325,29 @@ Receber as ideias pelos sentidos é, segundo o eminente teólogo, uma condição
 
 “Os conhecimentos dos anjos não resultam da indução e do raciocínio”; têm-nos porque são anjos, sem necessidade de aprendê-los, pois tais foram por Deus criados: quanto à alma, essa deve aprender. Mas se a alma só recebe as ideias por meio dos órgãos corporais, que ideias pode ter a alma de uma criança morta ao fim de alguns dias, se admitirmos com a Igreja que essa alma não renasce?
 
-##### 08
+###### 08
 
 Aqui reponta uma questão vital, qual a de saber-se se a alma pode adquirir conhecimentos após a morte do corpo. Se uma vez liberta do corpo não pode adquirir novos conhecimentos, a alma da criança, do selvagem, do imbecil, do idiota ou do ignorante permanecerá tal qual era no momento da morte, condenada à nulidade por todo o sempre. Mas se, ao contrário, ela adquire novos conhecimentos depois da vida atual, então, é que pode progredir.
 
 Sem progresso ulterior para a alma, chega-se a conclusões absurdas, tanto quanto admitindo-o se conclui pela negação de todos os dogmas fundados sobre o estacionamento, a sorte irrevogável, as penas eternas etc. Progredindo a alma, qual o limite do progresso? Não há razão para não atingir por ele o grau dos anjos ou puros Espíritos. Ora, com tal possibilidade não se justificaria a criação de seres especiais e privilegiados, isentos de qualquer labor, gozando incondicionalmente de eterna felicidade, ao passo que outros seres menos favorecidos só obtêm essa felicidade a troco de longos, de cruéis sofrimentos e rudes provas. Sem dúvida que Deus poderia ter assim determinado, mas, admitindo-lhe o infinito de perfeição sem o qual não fora Deus, força é admitir que coisa alguma criaria inutilmente, desmentindo a sua justiça e bondade soberanas.
 
-##### 09
+###### 09
 
 “E se a majestade dos reis ostenta o seu brilhantismo pelo número dos vassalos, oficiais e súditos, que haverá de mais próprio a dar-nos ideia da majestade do Rei dos reis do que essa inumerável multidão de anjos que povoam Céu e terra, mar e abismos, a dignidade dos que permanecem continuamente prostrados ou de pé ante seu trono?”
 
 E não será rebaixar a Divindade confrontá-la com o fausto dos soberanos da Terra? Essa ideia, inculcada no espírito das massas ignorantes, falseia a opinião de sua verdadeira grandeza. Sempre Deus reduzido às mesquinhas proporções da humanidade! Atribuir-lhe, como necessidade, milhões de adoradores, perenemente genuflexos ou de pé diante dele, é emprestar-lhe vaidade e fraqueza próprias dos orgulhosos déspotas do Oriente! E que é que faz os soberanos verdadeiramente grandes? É o número e brilho dos cortesãos? não; é a bondade, é a justiça, é o título merecido de pais do seu povo. Perguntareis se haverá algo de mais próprio a dar-nos a ideia da grandeza e majestade de Deus do que a multidão de anjos que lhe compõem a corte... Mas, certamente que há, e essa coisa melhor é apresentar-se Deus às suas criaturas soberanamente bom, justo e misericordioso, que não colérico, invejoso, vingativo, exterminador e parcial, criando para sua própria glória esses seres privilegiados, cumulados de todos os dons e nascidos para a felicidade eterna, enquanto a outros impõe condições penosas na aquisição de bens, punindo erros momentâneos com eternos suplícios...
 
-##### 10
+###### 10
 
 A respeito da união da alma com o corpo, o Espiritismo professa uma doutrina infinitamente mais espiritualista, para não dizer menos materialista, tendo ademais a seu favor a conformidade com a observação e o destino da alma. Ele ensina-nos que a alma é independente do corpo, não passando este de temporário invólucro: a espiritualidade é-lhe a essência, e a sua vida normal é a vida espiritual. O corpo é apenas instrumento da alma para exercício das suas faculdades nas relações com o mundo material; separada desse corpo, goza dessas faculdades mais livre e altamente.
 
-##### 11
+###### 11
 
 A união da alma com o corpo, em ser necessária aos seus primeiros progressos, ocorre no período que poderemos classificar como da sua infância e adolescência; atingido, porém, que seja, um certo grau de perfeição e desmaterialização, essa união é prescindível, e o progresso faz-se na sua vida de Espírito. Ademais, por numerosas que sejam as existências corpóreas, elas são limitadas à existência do corpo, e a sua soma total não compreende, em todos os casos, senão uma parte imperceptível da vida espiritual, que é ilimitada.
 
 #### Os anjos segundo o Espiritismo
 
-##### 12
+###### 12
 
 Que haja seres dotados de todas as qualidades atribuídas aos anjos, não restam dúvidas. A revelação espírita neste ponto confirma a crença de todos os povos, fazendo-nos conhecer ao mesmo tempo a origem e natureza de tais seres.
 
@@ -1357,35 +1357,35 @@ As almas ou Espíritos são criados simples e ignorantes, isto é, sem conhecime
 
 — é para todos o mesmo. Conseguem-no mais ou menos prontamente em virtude do livre-arbítrio e na razão direta dos seus esforços; todos têm os mesmos degraus a franquear, o mesmo trabalho a concluir. Deus não aquinhoa melhor a uns do que a outros, porquanto é justo, e, visto serem todos seus filhos, não tem predileções. Ele lhes diz: Eis a lei que deve constituir a vossa norma de conduta; ela só pode levar-vos ao fim; tudo que lhe for conforme é o bem; tudo que lhe for contrário é o mal. Tendes inteira liberdade de observar ou infringir esta lei, e assim sereis os árbitros da vossa própria sorte. Conseguintemente, Deus não criou o mal; todas as suas leis são para o bem, e foi o homem que criou esse mal, divorciando-se dessas leis; se ele as observasse escrupulosamente, jamais se desviaria do bom caminho.
 
-##### 13
+###### 13
 
 Entretanto, a alma, qual criança, é inexperiente nas primeiras fases da existência, e daí o ser falível. Não lhe dá Deus essa experiência, mas dá-lhe meios de adquiri-la. Assim, um passo em falso na senda do mal é um atraso para a alma, que, sofrendo-lhe as consequências, aprende à sua custa o que importa evitar.
 
 Deste modo, pouco a pouco, se desenvolve, aperfeiçoa e adianta na hierarquia espiritual até o estado de puro Espírito ou anjo. Os anjos são, pois, as almas dos homens chegados ao grau de perfeição que a criatura comporta, fruindo em sua plenitude a prometida felicidade. Antes, porém, de atingir o grau supremo, gozam de felicidade relativa ao seu adiantamento, felicidade que consiste, não na ociosidade, mas nas funções que a Deus apraz confiar-lhes, e por cujo desempenho se sentem ditosas, tendo ainda nele um meio de progresso. (Vede 1ª Parte, cap. III, O céu.)
 
-##### 14
+###### 14
 
 A humanidade não se limita à Terra: habita inúmeros mundos, que no Espaço circulam, já habitou os desaparecidos, e habitará os que se formarem. Tendo-a criado de toda a eternidade, Deus jamais cessa de criá-la. Muito antes que a Terra existisse e por mais remota que a suponhamos, outros mundos havia, nos quais Espíritos encarnados percorreram as mesmas fases que ora percorrem os de mais recente formação, atingindo seu fim antes mesmo que houvéramos saído das mãos do Criador.
 
 De toda a eternidade têm havido, pois, puros Espíritos ou anjos, mas, como a sua existência humana se passou num infinito passado, eis que os supomos como se tivessem sido sempre anjos de todos os tempos.
 
-##### 15
+###### 15
 
 Realiza-se assim a grande lei de unidade da Criação; Deus nunca esteve inativo e sempre teve puros Espíritos, experimentados e esclarecidos, para transmissão de suas ordens e direção do universo, desde o governo dos mundos até os mais ínfimos detalhes. Tampouco teve Deus necessidade de criar seres privilegiados, isentos de obrigações; todos, antigos e novos, adquiriram suas posições na luta e por mérito próprio; todos, enfim, são filhos de suas obras.
 
 E, desse modo, completa-se com igualdade a soberana Justiça do Criador.
 
-### 1-09 🗂️
+### 1-09. 🗂️ Os demônios {#ceu-1-01}
 
 #### Origem da crença nos demônios
 
-##### 01
+###### 01
 
 Em todos os tempos os demônios representaram papel saliente nas diversas teogonias, e, posto que consideravelmente decaídos no conceito geral, a importância que se lhes atribui, ainda hoje, dá à questão uma tal ou qual gravidade, por tocar o fundo mesmo das crenças religiosas. Eis por que útil se torna examiná-la, com os desenvolvimentos que comporta.
 
 A crença num poder superior é instintiva no homem. Encontramo-la, sob diferentes formas, em todas as idades do mundo. Mas se hoje, dado o grau de cultura atingido, ainda se discute sobre a natureza e atributos desse poder, calcule-se que noções teria o homem a respeito, na infância da humanidade.
 
-##### 02
+###### 02
 
 Como prova da sua inocência, o quadro dos homens primitivos extasiados ante a natureza e admirando nela a bondade do Criador é, sem dúvida, muito poético, mas pouco real. De fato, quanto mais se aproxima do primitivo estado, mais o homem se escraviza ao instinto, como se verifica ainda hoje nos povos bárbaros e selvagens contemporâneos; o que mais o preocupa, ou, antes, o que exclusivamente o preocupa é a satisfação das necessidades materiais, mesmo porque não tem outras.
 
@@ -1395,7 +1395,7 @@ Sem nos remontarmos aos tempos primeiros, olhemos em torno a gente do campo e pe
 
 Eis aí tudo o que essa gente almeja, ou, o que é mais, tudo o que da natureza apreende, conquanto muito distanciada já dos primitivos homens.
 
-##### 03
+###### 03
 
 Se nos remontarmos a estes últimos, então, surpreendê-los-emos mais exclusivamente preocupados com a satisfação de necessidades materiais, resumindo o bem e o mal neste mundo somente no que concerne à satisfação ou prejuízo dessas necessidades.
 
@@ -1407,7 +1407,7 @@ Mas o homem é comumente mais sensível ao mal que ao bem; este lhe parece natur
 
 Durante muito tempo o homem não compreendeu senão o bem e o mal físicos; os sentimentos morais só mais tarde marcaram o progresso da inteligência humana, fazendo-lhe entrever na espiritualidade um poder extra-humano fora do mundo visível e das coisas materiais. Esta obra foi, seguramente, realizada por inteligências de escol, mas que não puderam exceder certos limites.
 
-##### 04
+###### 04
 
 Provada e patente a luta entre o bem e o mal, triunfante este muitas vezes sobre aquele, e não se podendo racionalmente admitir que o mal derivasse de um benéfico poder, concluiu-se pela existência de dois poderes rivais no governo do mundo. Daí nasceu a doutrina dos dois princípios, aliás lógica numa época em que o homem se encontrava incapaz de, raciocinando, penetrar a essência do Ser supremo. Como compreenderia, então, que o mal não passa de estado transitório do qual pode emanar o bem, conduzindo-o à felicidade pelo sofrimento e auxiliando-lhe o progresso? Os limites do seu horizonte moral, nada lhe permitindo ver para além do seu presente, no passado como no futuro, também não lhe permitia compreender que já houvesse progredido, que progrediria ainda individualmente, e muito menos que as vicissitudes da vida resultavam das imperfeições do ser espiritual nele residente, o qual preexiste e sobrevive ao corpo, na dependência de uma série de existências purificadoras até atingir a perfeição.
 
@@ -1417,11 +1417,11 @@ Para compreender como do mal pode resultar o bem, é preciso considerar não uma
 
 — resultam nítidas as causas e respectivos efeitos.
 
-##### 05
+###### 05
 
 O duplo princípio do bem e do mal foi, durante muitos séculos, e sob vários nomes, a base de todas as crenças religiosas. Vemo-lo assim sintetizado em Oromaze [^48] e Arimane [^49] entre os persas, em Jeová e Satã entre os hebreus. Todavia, como todo soberano deve ter ministros, as religiões geralmente admitiram potências secundárias, ou bons e maus gênios. Os pagãos fizeram deles individualidades com a denominação genérica de deuses e deram-lhes atribuições especiais para o bem e para o mal, para os vícios e para as virtudes. Os cristãos e os muçulmanos herdaram dos hebreus os anjos e os demônios.
 
-##### 06
+###### 06
 
 A doutrina dos demônios tem, por conseguinte, origem na antiga crença dos dois princípios. Compete-nos examiná-la aqui tão somente no ponto de vista cristão, para ver se está de acordo com as noções mais exatas que possuímos hoje, dos atributos da Divindade.
 
@@ -1431,13 +1431,13 @@ Foi por isso que algures dissemos (1ª Parte, cap. VI, Doutrina das penas eterna
 
 #### Os demônios segundo a Igreja
 
-##### 07
+###### 07
 
 Satanás, o chefe ou o rei dos demônios, não é, segundo a Igreja, uma personificação alegórica do mal, mas uma entidade real, praticando exclusivamente o mal, enquanto Deus pratica exclusivamente o bem.
 
 Tomemo-lo, pois, tal qual no-lo representam. Satanás existe de toda a eternidade, como Deus, ou ser-lhe-á posterior? Existindo de toda a eternidade é incriado, e, por consequência, igual a Deus. Este Deus, por sua vez deixará de ser único, pois haverá um deus do mal. Mas se lhe for posterior? Neste caso passa a ser uma criatura de Deus. Como tal, só praticando o mal por incapaz de fazer o bem e tampouco de arrepender-se, Deus teria criado um ser votado exclusiva e eternamente ao mal. Não sendo o mal obra de Deus, seria contudo de uma das suas criaturas, e nem por isso deixava Deus de ser o autor, deixando igualmente de ser profundamente bom. O mesmo se dá, exatamente, em relação aos seres maus chamados demônios.
 
-##### 08
+###### 08
 
 Tal foi, por muito tempo, a crença neste sentido. Hoje dizem:50 “Deus, que é a bondade e santidade por excelência, não os havia criado perversos e maus. A mão paternal que se apraz imprimir em todas as suas obras o cunho de infinitas perfeições, cumulara-os de magníficos predicados. Às qualidades eminentíssimas de sua natureza, juntara as liberalidades da sua graça; em tudo os fizera iguais aos Espíritos sublimes de glória e felicidade; subdivididos por todas as suas ordens e adstritos a todas as classes, eles tinham o mesmo fim e idênticos destinos. Foi seu chefe o mais belo dos arcanjos. Eles poderiam até ter alcançado a confirmação de justos para todo o sempre, e serem admitidos ao gozo da bem-aventurança dos Céus. Este último favor, que deverá ser o complemento de todos os outros, constituía o prêmio da sua docilidade, mas dele desmereceram por insensata e audaciosa revolta.
 
@@ -1453,7 +1453,7 @@ E chegarão eles a ver esta humanidade, que lhes é tão inferior, deificada pel
 
 Lúcifer e a terça parte dos anjos sucumbiram a tais pensamentos de inveja e de orgulho. São Miguel e com ele muitos exclamaram: ‘Quem é semelhante a Deus? Ele é o dono de seus dons, o soberano Senhor de todas as coisas. Glória a Deus e ao Cordeiro, que tem de ser imolado à salvação do mundo.’ O chefe dos rebeldes, porém, esquecido de que a Deus devia a sua nobreza e prerrogativas, raiando pela temeridade, disse: ‘Sou eu quem ao Céu subirá; fixarei residência acima dos astros; sentar-me-ei sobre o monte da aliança, nos flancos do Aquilão, dominarei as nuvens mais elevadas e serei semelhante ao Altíssimo.’ Os que de tais sentimentos partilharam, acolheram essas palavras com murmúrios de aprovação, e partidários houve em todas as hierarquias. A sua multidão, contudo, não os preserva do castigo.”
 
-##### 09
+###### 09
 
 Esta doutrina suscita várias objeções:
 
@@ -1469,7 +1469,7 @@ A conclusão é esta: Deus quis criar seres perfeitos, porquanto os favorecera c
 
 É sempre a velha crença da Terra como centro do universo, do céu como que formado de nuvens estendendo-se às estrelas, e da limitada região destas, que a Astronomia nos mostra disseminadas ao infinito no infinito Espaço! Sabendo-se, como hoje se sabe, que as nuvens não se elevam a mais de duas léguas da superfície terráquea, e falando-se em dominá-las por mais alto, referindo-se a montanhas, preciso fora que a observação partisse da Terra, sendo ela, de fato, a morada dos anjos. Dado, porém, ser esta em região superior, inútil fora alçar-se acima das nuvens. Emprestar aos anjos uma linguagem tisnada de ignorância, é confessar que os homens contemporâneos são mais sábios que os anjos. A Igreja tem caminhado sempre erradamente, não levando em conta os progressos da Ciência.
 
-##### 10
+###### 10
 
 A resposta à primeira objeção acha-se na seguinte passagem:
 
@@ -1479,25 +1479,25 @@ A resposta à primeira objeção acha-se na seguinte passagem:
 
 Do que precede se infere que os anjos decaídos pertenciam a uma categoria menos elevada e perfeita, não tendo atingido ainda o lugar supremo em que o erro é impossível. Pois seja, mas, então, há manifesta contradição nesta afirmativa: Deus em tudo os tinha criado semelhantes aos espíritos sublimes que, subdivididos em todas as ordens e adstritos a todas as classes, tinham o mesmo fim e idênticos destinos, e que seu chefe era o mais belo dos arcanjos. Ora, em tudo semelhantes aos outros, não lhes seriam inferiores em natureza; idênticos em categorias, não podiam permanecer em um lugar especial. Intacta subsiste, portanto, a objeção.
 
-##### 11
+###### 11
 
 E ainda há uma outra que é, certamente, a mais séria e a mais grave.
 
 Dizem: “Este plano (a intervenção do Cristo), concebido desde toda a eternidade, foi manifestado aos anjos muito antes da sua execução.” Deus sabia, portanto, e de toda a eternidade, que os anjos, tanto quanto os homens, teriam necessidade dessa intervenção. Ainda mais: o Deus onisciente sabia que alguns dentre esses anjos viriam a falir, arcando com a eterna condenação e arrastando a igual sorte uma parte da humanidade. E assim, de caso pensado, previamente condenava o gênero humano, a sua própria criação. Deste raciocínio não há fugir, porquanto de outro modo teríamos que admitir a inconsciência divina, apregoando a não presciência de Deus. Para nós é impossível identificar uma tal criação com a soberana bondade. Em ambos os casos vemos a negação de atributos, sem a plenitude absoluta dos quais Deus não seria Deus.
 
-##### 12
+###### 12
 
 Admitindo a falibilidade dos anjos como a dos homens, a punição é consequência, justa e natural, da falta, mas se admitirmos concomitantemente a possibilidade do resgate, a regeneração, a graça, após o arrependimento e a expiação, tudo se esclarece e se conforma com a bondade de Deus. Ele sabia que errariam, que seriam punidos, mas sabia igualmente que tal castigo temporário seria um meio de lhes fazer compreender o erro, revertendo alfim em benefício deles. Eis como se explicam as palavras do profeta Ezequiel: “Deus não quer a morte, porém a salvação do pecador.” [^53]
 
 A inutilidade do arrependimento e a impossibilidade de regeneração, isso sim, importaria na negação da divina bondade. Admitida tal hipótese, poder-se-ia mesmo dizer, rigorosa e exatamente, que estes anjos, desde a sua criação, visto Deus não poder ignorá-los, foram votados à perpetuidade do mal, e predestinados a demônios para arrastarem os homens ao mal.
 
-##### 13
+###### 13
 
 Vejamos agora qual a sorte desses tais anjos e o que fazem:
 
 “Mal apenas se manifestou a revolta na linguagem dos Espíritos, isto é, no arrojo dos seus pensamentos, foram eles banidos da celestial mansão e precipitados no abismo. Por estas palavras entendemos que foram arremessados a um lugar de suplícios, no qual sofrem a pena de fogo, conforme o texto do Evangelho, que é a palavra do Salvador. ‘Ide, malditos, ao fogo eterno preparado pelo demônio e seus anjos.’ O apóstolo Pedro expressamente diz: ‘que Deus os prendeu às cadeias e torturas infernais, sem que lá estejam, contudo, perpetuamente, visto como só no fim do mundo serão para sempre enclausurados com os réprobos. Presentemente, Deus ainda permite que ocupem lugar nesta criação, à qual pertencem, na ordem de coisas idênticas à sua existência, nas relações enfim que deviam ter com os homens, e das quais fazem o mais pernicioso abuso. Enquanto uns ficam na tenebrosa morada, servindo de instrumento da Justiça divina contra as almas infelizes que seduziram, outros, em número infinito, formam legiões e residem nas camadas inferiores da atmosfera, percorrendo todo o globo. Envolvem-se em tudo que aqui se passa, tomando mesmo parte muito ativa nos acontecimentos terrenos’.”
 
-##### 14
+###### 14
 
 Por esta doutrina, apenas uma parte dos demônios está no inferno; a outra vaga em liberdade, envolvendo-se em tudo que aqui se passa, dando-se ao prazer de praticar o mal e isso até o fim do mundo, cuja época indeterminada não chegará tão cedo, provavelmente. Mas por que uma tal distinção? Serão estes menos culpados? Certo que não, a menos que se não revezem, como se pode inferir destas palavras: “Enquanto uns ficam na tenebrosa morada, servindo de instrumento da Justiça divina contra as almas infelizes que seduziram.”
 
@@ -1507,7 +1507,7 @@ Suas ocupações consistem, pois, em martirizar as almas que seduziram. Assim, n
 
 Como pode a Justiça de Deus ser menos perfeita que a dos homens?
 
-##### 15
+###### 15
 
 Mas ainda não é tudo: “Deus permite que ocupem lugar nesta criação, nas relações que com o homem deviam ter e das quais abusam perniciosamente.” Deus podia ignorar, no entanto, o abuso que fariam de uma liberdade por Ele mesmo concedida? Então, por que a concedeu? Mas nesse caso é com conhecimento de causa que Deus abandona suas criaturas à mercê delas mesmas, sabendo, pela sua onisciência, que vão sucumbir, tendo a sorte dos demônios. Não serão elas de si mesmas bastante fracas para falirem, sem a provocação de um inimigo tanto mais perigoso quanto invisível? Ainda se o castigo fora temporário e o culpado pudesse remir-se pela reparação! Mas não: a condenação é irrevogável, eterna! Arrependimento, regeneração, lamentos, tudo supérfluo!
 
@@ -1515,7 +1515,7 @@ Os demônios não passam portanto de agentes provocadores e de antemão destinad
 
 — Não é, não pode ser tal, ou Deus não fora Deus!
 
-##### 16
+###### 16
 
 O castigo segue por toda a parte os seres decaídos: o inferno está neles e com eles: nem paz nem repouso, transformadas em amargores as doçuras da esperança, que se lhes torna odiosa. A mão de Deus desferiu-lhes o castigo no ato mesmo de pecarem, e sua vontade galvanizou-se no mal.
 
@@ -1533,13 +1533,13 @@ As leis pelas quais Deus rege o universo não lhes são acessíveis, razão por 
 
 A sua substância simples e imaterial subtrai-os às nossas vistas; permanecem ao nosso lado sem que os vejamos, interessam-nos a alma sem que nos firam o ouvido. Acreditando obedecer aos nossos pensamentos, estamos no entanto, e muitas vezes, debaixo da sua funesta influência. As nossas disposições, ao contrário, são deles conhecidas pelas impressões que delas transparecem em nós, e atacam-nos ordinariamente pelo lado mais fraco. Para nos seduzirem com mais segurança, costumam servir-se de sugestões e engodos conformes com as nossas inclinações. Modificam a ação segundo as circunstâncias e os traços característicos de cada temperamento. Contudo, suas armas favoritas são a hipocrisia e a mentira.
 
-##### 17
+###### 17
 
 Afirmam que o castigo os segue por toda parte; que não sabem o que seja paz nem repouso. Esta asserção de modo algum destrói a observação que fizemos quanto ao privilégio dos que estão fora do inferno, e que reputamos tanto menos justificado por isso que podem fazer, e fazem, maior mal. É de crer que esses demônios extrainfernais não sejam tão felizes como os bons anjos, mas não se deverá ter em conta a sua relativa liberdade? Eles não possuirão a felicidade moral que a virtude defere, mas são incontestavelmente mais felizes que os seus comparsas do inferno em chamas. Depois, para o mau, sempre há um certo gozo na prática do mal, de mais a mais livremente. Perguntai ao criminoso o que prefere: se ficar na prisão, ou percorrer livremente os campos, agindo à vontade? Pois o caso é exatamente o mesmo.
 
 Afirmam, outrossim, que o remorso os persegue sem tréguas nem misericórdia, esquecidos de que o remorso é o precursor imediato do arrependimento, quando não é o próprio arrependimento. “Tornados perversos, obstinam-se em o ser, e sê-lo-ão para sempre.” Mas desde que se obstinam em ser perversos, é que não têm remorsos; do contrário, ao menor sentimento de pesar, renunciariam ao mal e pediriam perdão. Logo, o remorso não é para eles um castigo.
 
-##### 18
+###### 18
 
 “São, depois do pecado, o que é o homem depois da morte. A reabilitação dos que caíram torna-se, portanto, impossível.”
 
@@ -1549,7 +1549,7 @@ Acaso provirá da própria vontade dos demônios? Porventura da vontade divina? 
 
 No segundo caso, ainda menos se compreende que Deus inflija como castigo a impossibilidade da reparação, após uma primeira falta. O Evangelho nada diz que com isso se pareça.
 
-##### 19
+###### 19
 
 “A sua perda é desde então irreparável, mantendo-se eles no seu orgulho perante Deus.” E de que lhes serviria não manterem tal orgulho, uma vez que é inútil todo o arrependimento? O bem só poderia interessá-los se eles tivessem uma esperança de reabilitação, fosse qual fosse o seu preço. Assim não acontece, no entanto, e pois se perseveram no mal é porque lhes trancaram a porta da esperança. Mas por que lhes trancaria Deus essa porta? Para se vingar da ofensa decorrente da sua insubmissão. E, assim, para saciar o seu ressentimento contra alguns culpados, Deus prefere não somente vê-los sofrer, mas agravar o mal com mal maior; induzir à perdição eterna toda a humanidade, quando por um simples ato de clemência podia evitar tão grande desastre, aliás previsto de toda a eternidade!
 
@@ -1557,7 +1557,7 @@ Trata-se, no caso vertente, de um ato de clemência, de uma graça pura e simple
 
 #### Os demônios segundo o Espiritismo
 
-##### 20
+###### 20
 
 Segundo o Espiritismo, nem anjos nem demônios são entidades distintas, por isso que a criação de seres inteligentes é uma só. Unidos a corpos materiais, esses seres constituem a humanidade que povoa a Terra e as outras esferas habitadas; uma vez libertos do corpo material, constituem o mundo espiritual ou dos Espíritos, que povoam os Espaços. Deus criou-os perfectíveis e deu-lhes por escopo a perfeição, com a felicidade que dela decorre. Não lhes deu, contudo, a perfeição, pois quis que a obtivessem por seu próprio esforço, a fim de que também e realmente lhes pertencesse o mérito. Desde o momento da sua criação que os seres progridem, quer encarnados, quer no estado espiritual. Atingido o apogeu, tornam-se puros Espíritos ou anjos segundo a expressão vulgar, de sorte que, a partir do embrião do ser inteligente até o anjo, há uma cadeia na qual cada um dos elos assinala um grau de progresso.
 
@@ -1565,13 +1565,13 @@ Do exposto resulta que há Espíritos em todos os graus de adiantamento, moral e
 
 Em todos os graus existe, portanto, ignorância e saber, bondade e maldade. Nas classes inferiores destacam-se Espíritos ainda profundamente propensos ao mal e comprazendo-se com o mal. A estes pode-se denominar demônios, pois são capazes de todos os malefícios aos ditos atribuídos. O Espiritismo não lhes dá tal nome por se prender ele à ideia de uma criação distinta do gênero humano, como seres de natureza essencialmente perversa, votados ao mal eternamente e incapazes de qualquer progresso para o bem.
 
-##### 21
+###### 21
 
 Segundo a doutrina da Igreja os demônios foram criados bons e tornaram-se maus por sua desobediência: são anjos colocados primitivamente por Deus no ápice da escala, tendo dela decaído. Segundo o Espiritismo os demônios são Espíritos imperfeitos, suscetíveis de regeneração e que, colocados na base da escala, hão de nela graduar-se. Os que por apatia, negligência, obstinação ou má vontade persistem em ficar, por mais tempo, nas classes inferiores, sofrem as consequências dessa atitude, e o hábito do mal dificulta-lhes a regeneração. Chega-lhes, porém, um dia a fadiga dessa vida penosa e das suas respectivas consequências; eles comparam a sua situação à dos bons Espíritos e compreendem que o seu interesse está no bem, procurando então melhorarem-se, mas por ato de espontânea vontade, sem que haja nisso o mínimo constrangimento. Submetidos à lei geral do progresso, em virtude da sua aptidão para o mesmo, não progridem, ainda assim, contra a vontade. Deus fornece-lhes constantemente os meios, porém, com a faculdade de aceitá-los ou recusá-los. Se o progresso fosse obrigatório não haveria mérito, e Deus quer que todos tenhamos o mérito de nossas obras. Ninguém é colocado em primeiro lugar por privilégio, mas o primeiro lugar a todos é franqueado à custa do esforço próprio.
 
 Os anjos mais elevados conquistaram a sua graduação, passando, como os demais, pela rota comum.
 
-##### 22
+###### 22
 
 Chegados a certo grau de pureza, os Espíritos têm missões adequadas ao seu progresso; preenchem assim todas as funções atribuídas aos anjos de diferentes categorias.
 
@@ -1579,7 +1579,7 @@ E como Deus criou de toda a eternidade, segue-se que de toda a eternidade houve 
 
 Por fim, a unidade da Criação, aliada à ideia de uma origem comum, tendo o mesmo ponto de partida e trajetória, elevando-se pelo próprio mérito, corresponde melhor à Justiça de Deus do que a criação de espécies diferentes, mais ou menos favorecidas de dotes naturais, que seriam outros tantos privilégios.
 
-##### 23
+###### 23
 
 A doutrina vulgar sobre a natureza dos anjos, dos demônios e das almas, não admitindo a lei do progresso, mas vendo todavia seres de diversos graus, concluiu que seriam produto de outras tantas criações especiais. E assim foi que chegou a fazer de Deus um pai parcial, tudo concedendo a alguns de seus filhos, e a outros impondo o mais rude trabalho. Não admira que por muito tempo os homens achassem justificação para tais preferências, quando eles próprios delas usavam em relação aos filhos, estabelecendo direitos de primogenitura e outros privilégios de nascimento. Podiam tais homens acreditar que andavam mais errados que Deus?
 
@@ -1587,13 +1587,13 @@ Hoje, porém, alargou-se o círculo das ideias: o homem vê mais claro e tem no�
 
 E aqui está por que lhe repugna à razão toda e qualquer doutrina, na qual não resplenda a Justiça divina na plenitude integral da sua pureza.
 
-### 1-10 🗂️
+### 1-10. 🗂️ Intervenção dos demônios nas modernas manifestações {#ceu-1-01}
 
 #### 01
 
 Os modernos fenômenos do Espiritismo têm atraído a atenção sobre fatos análogos de todos os tempos, e nunca a História foi tão compulsada neste sentido como ultimamente. Pela semelhança dos efeitos, inferiu-se a unidade da causa. Como sempre acontece relativamente a fatos extraordinários que o senso comum desconhece, o vulgo viu nos fenômenos espíritas uma causa sobrenatural, e a superstição completou o erro ajuntando-lhes absurdas crendices. Provém daí uma multidão de lendas que, pela maior parte, são um amálgama de poucas verdades e muitas mentiras.
 
-##### 02
+###### 02
 
 As doutrinas sobre o demônio, prevalecendo por tanto tempo, haviam de tal maneira exagerado o seu poder, que fizeram, por assim dizer, esquecer Deus; por toda parte surgia o dedo de Satanás, bastando para tanto que o fato observado ultrapassasse os limites do poder humano. Até as coisas melhores, as descobertas mais úteis, sobretudo as que podiam abalar a ignorância e alargar o círculo das ideias
 
@@ -1605,11 +1605,11 @@ Enquanto se não possuía do mundo espiritual noções mais que incertas e siste
 
 — hoje, dizemos, a questão se resolve por fatos. Sabemos, agora, que essas inteligências ocultas são as almas dos que viveram na Terra. Sabemos também que as diversas categorias de bons e maus Espíritos não são seres de espécies diferentes, porém que apenas representam graus diversos de adiantamento. Segundo a posição que ocupam em virtude do desenvolvimento intelectual e moral, os seres que se manifestam apresentam os mais fundos contrastes, sem que por isso possamos supor não tenham saído todos da grande família humana, do mesmo modo que o selvagem, o bárbaro e o homem civilizado.
 
-##### 03
+###### 03
 
 Sobre este ponto, como sobre muitos outros, a Igreja mantém as velhas crenças a respeito dos demônios. Diz ela: “Há princípios que não variam há dezoito séculos, porque são imutáveis.” O seu erro é precisamente esse de não levar em conta o progresso das ideias; é supor Deus insuficientemente sábio para não proporcionar a revelação ao desenvolvimento das inteligências; é, em suma, falar aos contemporâneos a mesma linguagem do passado. Ora, progredindo a humanidade enquanto a Igreja se broquela em velhos erros sistematicamente, tanto em matéria espiritual como na científica, cedo virá a incredulidade, avassalando a própria Igreja.
 
-##### 04
+###### 04
 
 Eis como esta explica a intervenção exclusiva dos demônios nas manifestações espíritas: [^54]
 
@@ -1635,19 +1635,19 @@ Procuram apagar do símbolo religioso os dogmas do pecado original, da ressurrei
 
 A incredulidade do nosso século facilitou-lhes o caminho. Assim possam as sociedades cristãs, por uma sincera dedicação à fé católica, escapar ao perigo desta nova e terrível invasão!”
 
-##### 05
+###### 05
 
 Toda esta teoria deriva do princípio de que os anjos e os demônios são seres distintos das almas humanas, sendo estas antes o produto de uma criação especial, aliás inferiores aos demônios em inteligência, em conhecimento e em toda espécie de faculdade. E é assim que opina pela exclusiva intervenção dos maus anjos, nas antigas como nas modernas manifestações dos Espíritos.
 
 A possibilidade da comunicação dos mortos é uma questão de fato, é o resultado de observações e experiências que não vêm ao caso discutir aqui. Admitamos, porém, como hipótese, a doutrina citada, e vejamos se ela não se destrói por si mesma com os seus próprios argumentos.
 
-##### 06
+###### 06
 
 Das três categorias de anjos segundo a Igreja, a primeira ocupa-se exclusivamente do Céu; a segunda, do governo do universo, e a terceira, da Terra. É nesta última que se encontram os anjos de guarda encarregados da proteção de cada indivíduo. Somente uma parte dos anjos, desta última categoria, é que compartilhou da revolta e foi transformada em demônios. Ora, desde que Deus lhes permitira com tanta liberdade, já por sugestões ocultas, já por ostensivas manifestações, induzir os homens em erro, e porque esse Deus é soberanamente justo e bom, devia ao menos, para atenuar os males de tão odiosa concessão, permitir também a manifestação dos bons anjos. Ao menos, assim, os homens teriam a liberdade e o recurso da escolha. Dar, porém, aos anjos maus o monopólio da tentação, com poderes amplos de simular o bem para melhor seduzir; e vedando ao mesmo tempo toda e qualquer intervenção dos bons, é atribuir a Deus o intuito inconcebível de agravar a fraqueza, a inexperiência e a boa-fé dos homens.
 
 É mais ainda: é supor da parte de Deus um abuso de confiança, pela fé que nos merece. A razão recusa admitir tanta parcialidade em proveito do mal. Vejamos os fatos.
 
-##### 07
+###### 07
 
 Aos demônios concedem-se faculdades transcendentes: nada perderam da natureza angélica; possuem o saber, a perspicácia, a previdência e a penetração dos anjos, tendo ainda, a mais, astúcia, ardil e artifício, tudo em grau mais elevado. O objetivo que os move é desviar os homens do bem, afastá-los de Deus e arrastá-los ao inferno, do qual são provedores e recrutadores. Assim, compreende-se que se dirijam de preferência aos que estão no bom caminho e nele persistem; compreende-se o emprego das seduções e simulacros do bem para atraí-los e perdê-los, mas o que se não compreende é que se dirijam aos que já lhes pertencem de corpo e alma, procurando reconduzi-los a Deus e ao bem.
 
@@ -1667,21 +1667,23 @@ Ainda por influência dessas manifestações têm-se visto
 
 E como não se trata de simples suposição, mas de fato experimental contra o qual não há argumento, havemos de concluir, ou que o demônio é um desazado de primeira ordem, ou que não é tão astuto e mau como se pretende, e, conseguintemente, tão temível quanto dizem; ou, então, que todas as manifestações não partem dele.
 
-##### 08
+###### 08
 
 > ✝️ ▸ E há de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, os vossos jovens terão visões. E também sobre os servos e sobre as servas, naqueles dias, derramarei o meu Espírito.
 >
-> **Joel, cap. 2, vers. 28-29, ARC**
+> Joel, cap. 2, vers. 28-29, ARC
+{:.bible-multi}
 
 > ✝️ ▸ E nos últimos dias acontecerá, diz Deus, que do meu Espírito derramarei sobre toda a carne; e os vossos filhos e as vossas filhas profetizarão, os vossos jovens terão visões, e os vossos velhos sonharão sonhos; e também do meu Espírito derramarei sobre os meus servos e minhas servas, naqueles dias, e profetizarão.
 >
-> **Atos, cap. 02, vers. 17-18, ARC**
+> Atos, cap. 02, vers. 17-18, ARC
+{:.bible-multi}
 
 Não estará nessas palavras a predição tácita da mediunidade dos nossos dias a todos concedida, mesmo às crianças? E essa faculdade foi anatematizada pelos Apóstolos? Não; eles a apregoam como graça divina, e não como obra do demônio.
 
 Terão os teólogos de hoje mais autoridade que os Apóstolos? Por que não ver antes o dedo de Deus na realização daquelas palavras?
 
-##### 09
+###### 09
 
 “Por meio das operações da moderna magia vemos reproduzirem-se no presente as evocações, as consultas, as curas e os sortilégios que ilustraram os templos dos ídolos e os antros das sibilas.”
 
@@ -1691,7 +1693,7 @@ Houve tempo em que tais operações faziam fé e acreditava-se na sua eficácia,
 
 A troco da própria alma, ninguém os evocava que não fosse para obter favores da sorte e da fortuna, achar tesouros, revelar o futuro ou obter filtros. A magia com seus sinais, fórmulas e práticas cabalísticas era increpada de fornecer segredos para operar prodígios, constranger Espíritos a ficarem às ordens dos homens e satisfazerem-lhes os desejos. Hoje sabemos que os Espíritos são as almas dos mortos e não os evocamos senão para receber conselhos dos bons, moralizar os maus e continuar relações com seres que nos são caros. Eis o que diz o Espiritismo a tal respeito:
 
-##### 10
+###### 10
 
 Não podereis obrigar nunca a presença de um Espírito vosso igual ou superior em moralidade, por vos faltar autoridade sobre ele; mas, do vosso inferior, e sendo para seu benefício, consegui-lo-eis, visto como outros Espíritos vos secundam. (O livro dos médiuns, 2a Parte, cap. XXV.)
 
@@ -1725,13 +1727,13 @@ Pessoas há que fazem das evocações uma ideia muito falsa: há mesmo quem acre
 
 O Espiritismo, que nunca fez milagres, também não faz esse, pois que jamais fez reviver um corpo morto. O Espírito, fluídico, inteligente, esse não baixa à campa com o grosseiro invólucro, que lá fica definitivamente. Separa-se dele no momento da morte, e nada mais têm de comum entre si. (O que é o espiritismo, cap. II, item 48.)
 
-##### 11
+###### 11
 
 Ampliamos estas citações para mostrar que os princípios do Espiritismo não têm relação alguma com os da magia. Assim, nem Espíritos às ordens dos homens; nem meios de os constranger; nem sinais ou fórmulas cabalísticas; nem descobertas de tesouros; nem processos para enriquecer, e tampouco milagres ou prodígios, adivinhações e aparições fantásticas: nada, enfim, do que constitui o fim e os elementos essenciais da magia. O Espiritismo não só reprova tais coisas como demonstra a impossibilidade e ineficácia delas. Não há, afirmamo-lo ainda uma vez, analogia alguma entre os processos e fins da magia e os do Espiritismo; só a ignorância e a má-fé poderão confundi-los. Dessa forma, tal erro não pode prevalecer, uma vez que os princípios espíritas não se furtam ao exame, e aí estão formulados inequívoca e claramente para todos.
 
 Quanto às curas, reconhecidas como reais na crença precitada, o exemplo está mal selecionado como meio de evitar relações com os Espíritos. Efetivamente, essas curas são outros tantos benefícios que levam à gratidão e que todos podem experimentar. Pouca gente estará disposta a renunciar a elas, mormente depois de haver esgotado outros recursos antes de recorrer ao diabo. Depois, se o diabo cura, força é confessar que faz uma boa e meritória ação. [^55]
 
-##### 12
+###### 12
 
 “Quais são os agentes secretos de tais fenômenos, os verdadeiros autores dessas cenas inexplicáveis? Os anjos, esses não aceitariam papéis indignos, como também não se prestariam aos caprichos todos da curiosidade.”
 
@@ -1745,7 +1747,7 @@ Por papéis indignos devemos entender os que são ridículos e os que estimulam 
 
 Ora, o Espiritismo diz expressamente que os papéis indignos não cabem aos Espíritos superiores, como se infere dos seguintes preceitos:
 
-##### 13
+###### 13
 
 A categoria do Espírito se reconhece por sua linguagem: os verdadeiramente bons e superiores têm-na sempre digna, nobre, lógica, imune de qualquer contradição; ressumbra sabedoria, modéstia, benevolência e a mais pura moral.
 
@@ -1759,7 +1761,7 @@ As manifestações físicas ou puramente materiais competem mais comumente aos E
 
 Qual é o homem de boa-fé que pode lobrigar nestes preceitos atribuições incompatíveis com Espíritos elevados? Não, o Espiritismo não confunde os Espíritos, antes, pelo contrário, distingue-os. A Igreja, sim, atribui aos demônios uma inteligência igual à dos anjos, ao passo que o Espiritismo afirma e confirma, baseado na observação dos fatos, que os Espíritos inferiores são mais ou menos ignorantes, tendo muito limitados o seu horizonte moral e perspicácia, de feição a terem das coisas uma ideia muita vez falsa e incompleta, incapazes de resolver certas questões e, conseguintemente, de fazer tudo quanto se atribui aos demônios.
 
-##### 14
+###### 14
 
 “As almas dos mortos, que Deus proíbe evocar, essas demoram no lugar que lhes designa a sua justiça, e não podem, sem sua permissão, colocar-se à disposição dos vivos.”
 
@@ -1777,13 +1779,13 @@ O Espírito superior não deixa de vir sempre que é evocado para um fim útil, 
 
 Tanto os espíritas estão convencidos de que nada podem sobre os Espíritos diretamente, sem a permissão de Deus, que dizem, quando evocam: “Rogamos a Deus todo-poderoso permitir que um bom Espírito se comunique conosco, bem como aos nossos anjos de guarda assistir-nos e afastarem os maus Espíritos.” E tratando-se de evocação de um Espírito determinado: “Rogamos a Deus todo-poderoso permitir que tal Espírito se comunique conosco” etc. (O livro dos médiuns, 2a Parte, cap. XVII, item 203.)
 
-##### 15
+###### 15
 
 As acusações formuladas pela Igreja, contra as evocações, não atingem, portanto, o Espiritismo, porém as práticas da magia, com a qual este nada tem de comum. O Espiritismo condena tanto quanto a Igreja as referidas práticas, ao mesmo tempo que não confere aos Espíritos superiores um papel indigno deles, nem algo pergunta ou pretende obter sem a permissão de Deus.
 
 Certo, pode haver quem abuse das evocações, quem delas faça um jogo, quem lhes desnature o caráter providencial em proveito de interesses pessoais, ou ainda quem por ignorância, leviandade, orgulho ou ambição se afaste dos verdadeiros princípios da Doutrina; o verdadeiro Espiritismo, o Espiritismo sério os condena porém, tanto quanto a verdadeira Religião condena os crentes hipócritas e os fanáticos. Portanto, não é lógico nem razoável imputar ao Espiritismo os abusos que ele é o primeiro a condenar, e os erros daqueles que o não compreendem. Antes de formular qualquer acusação, convém saber se é justa. Assim, diremos: A censura da Igreja recai nos charlatães, nos especuladores, nos praticantes de magia e sortilégio, e com razão. Quando a crítica religiosa ou cética, dissecando abusos, profliga o charlatanismo, não faz mais que realçar a pureza da sã doutrina, auxiliando-a no expurgo de maus elementos e facilitando-nos a tarefa. O erro da crítica está no confundir o bom e o mau, o que muitas vezes sucede pela má-fé de alguns e pela ignorância do maior número. Mas a distinção que uma tal crítica não faz, outros a fazem. Finalmente, a censura aplicada ao mal e à qual todo espírita sincero e reto se associa, essa nem prejudica nem afeta a Doutrina.
 
-##### 16
+###### 16
 
 “Assim, os seres misteriosos que acodem ao primeiro apelo do herege, do ímpio ou do crente
 
@@ -1799,13 +1801,13 @@ Não se encontra, pois, entre os anjos, entre as criaturas privilegiadas de Deus
 
 Mas vós vos admirais que bons Espíritos venham ao herege e ao ímpio, certamente porque vos esquecestes desta parábola do Cristo: “Não é o homem são que precisa de médico.” Então não tendes um ponto de vista mais elevado que o dos fariseus daquele tempo? E vós mesmos, vós vos recusareis mostrar o bom caminho ao descrente que vos chamasse? Pois bem: os bons Espíritos fazem o que faríeis; dirigem-se ao ímpio para dar-lhe bons conselhos. Oh! em lugar de anatematizardes as comunicações de além-túmulo, melhor fora bendissésseis os decretos do Senhor, admirando-lhe a onipotência e bondade infinitas.
 
-##### 17
+###### 17
 
 Dizem que há anjos de guarda, mas quando não podem insinuar-se pela voz misteriosa da consciência ou da inspiração, por que não empregarem meios de ação mais diretos e materiais de modo a sensibilizar os sentidos, uma vez que tais meios existem? Deus oferece para isso esses meios, que pertencem a sua própria obra, desde que tudo provém dele e nada ocorre sem a sua permissão, podemos admitir que Ele faculte tais meios aos maus Espíritos e os recuse aos bons?
 
 Nesse caso é preciso confessar que Deus facilita mais poderes ao demônio para perder os homens, do que aos anjos de guarda para salvá-los! Pois bem! o que os anjos de guarda, segundo a Igreja, não podem fazer, fazem por si os demônios: servindo-se de tais comunicações, ditas infernais, reconduzem a Deus os que o renegavam e ao bem os escravizados do mal. Esses demônios fazem mais: dão-nos o espetáculo de milhões de homens acreditando em Deus por intercessão da sua potência diabólica, ao passo que a Igreja era impotente para convertê-los. Homens que jamais oraram, fazem-no hoje com fervor, graças às instruções desses demônios! Quantos orgulhosos, egoístas e debochados se tornaram humildes, caridosos e recatados?! E tudo por obra do diabo! Ah! mas se assim for, claro é que a toda essa gente o demônio tem prestado melhor serviço e guarda que os próprios anjos. É necessário, porém, formar uma triste opinião do senso humano dos nossos tempos, para crer que os homens aceitem cegamente tais ideias. Uma Religião, porém, que faz pedra angular de tal doutrina, uma Religião que se destrói pela base, tirando-se-lhe os seus demônios, o seu inferno, as suas penas eternas e o seu deus impiedoso; uma Religião tal, dizemos, é uma Religião que se suicida.
 
-##### 18
+###### 18
 
 Dizem que Deus enviou o Cristo, seu filho, para salvar os homens, provando-lhes com isso o seu amor. Como se explica, entretanto, que os deixasse depois em abandono?
 
@@ -1821,7 +1823,7 @@ Para os fariseus eram maus os frutos de Jesus, porque Ele vinha destruir o abuso
 
 — a santa palavra de Jesus. E o grande caso é que os Espíritos não estão encarnados num só homem cuja voz fora limitada: eles são inumeráveis, andam por toda parte e não podem ser tolhidos. Também por isso, o seu ensino se amplia com a rapidez do raio; e porque falam ao coração e à razão, são pelos humildes mais compreendidos.
 
-##### 19
+###### 19
 
 Não é indigno de celestes mensageiros
 
@@ -1835,7 +1837,7 @@ Quem acreditaria que da misérrima manjedoura de Belém pudesse sair a palavra q
 
 Sim! O Cristo é bem o Messias divino. A sua palavra é bem a palavra da verdade, fundada na qual a Religião se torna inabalável, mas sob condição de praticar os sublimes ensinamentos que ela contém, e não de fazer do Deus justo e bom, que nela reconhecemos, um Deus parcial, vingativo e cruel.
 
-### 1-11 🗂️
+### 1-11. 🗂️ Da proibição de evocar os mortos {#ceu-1-01}
 
 #### 01
 
@@ -1845,13 +1847,15 @@ A Igreja de modo algum nega a realidade das manifestações. Ao contrário, como
 
 > ✝️ ▸ Não vos virareis para os adivinhadores e encantadores; não os busqueis, contaminando-vos com eles. Eu sou o Senhor, vosso Deus.
 >
-> **Levítico, cap. 19, vers. 31, ARC**
+> Levítico, cap. 19, vers. 31, ARC
+{:.bible-multi}
 
 “Morra de morte o homem ou a mulher em quem houver Espírito pitônico; sejam apedrejados e sobre eles recaia seu sangue.” (20:27.)
 
 > ✝️ ▸ Quando, pois, algum homem ou mulher em si tiver um espírito adivinho ou for encantador, certamente morrerão; com pedras se apedrejarão; o seu sangue é sobre eles.
 >
-> **Levítico, cap. 20, vers. 27, ARC**
+> Levítico, cap. 20, vers. 27, ARC
+{:.bible-multi}
 
 “O Deuteronômio diz:
 
@@ -1859,9 +1863,10 @@ A Igreja de modo algum nega a realidade das manifestações. Ao contrário, como
 
 > ✝️ ▸ Entre ti se não achará quem faça passar pelo fogo o seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro, nem encantador de encantamentos, nem quem consulte um espírito adivinhante, nem mágico, nem quem consulte os mortos, pois todo aquele que faz tal coisa é abominação ao Senhor; e por estas abominações o Senhor, teu Deus, as lança fora de diante de ti.
 >
-> **Deuteronômio, cap. 18, vers. 10-12, ARC**
+> Deuteronômio, cap. 18, vers. 10-12, ARC
+{:.bible-multi}
 
-##### 02
+###### 02
 
 É útil, para melhor compreensão do verdadeiro sentido das palavras de Moisés, reproduzir por completo o texto um tanto abreviado na citação antecedente. Ei-lo:
 
@@ -1869,21 +1874,24 @@ A Igreja de modo algum nega a realidade das manifestações. Ao contrário, como
 
 > ✝️ ▸ Não vos virareis para os adivinhadores e encantadores; não os busqueis, contaminando-vos com eles. Eu sou o Senhor, vosso Deus.
 >
-> **Levítico, cap. 19, vers. 31, ARC**
+> Levítico, cap. 19, vers. 31, ARC
+{:.bible-multi}
 
 “O homem ou a mulher que tiver Espírito pitônico, ou de adivinho, morra de morte. Serão apedrejados, e o seu sangue recairá sobre eles.” (Levítico, 20:27.)
 
 > ✝️ ▸ Quando, pois, algum homem ou mulher em si tiver um espírito adivinho ou for encantador, certamente morrerão; com pedras se apedrejarão; o seu sangue é sobre eles.
 >
-> **Levítico, cap. 20, vers. 27, ARC**
+> Levítico, cap. 20, vers. 27, ARC
+{:.bible-multi}
 
 “Quando houverdes entrado na terra que o Senhor vosso Deus vos há de dar, guardai-vos; tomai cuidado em não imitar as abominações de tais povos; e entre vós ninguém haja que pretenda purificar filho ou filha passando-os pelo fogo; que use de malefícios, sortilégios e encantamentos; que consulte os que têm o Espírito de Píton e se propõem adivinhar, interrogando os mortos para saber a verdade. O Senhor abomina todas essas coisas e exterminará todos esses povos, à vossa entrada, por causa dos crimes que têm cometido.” (Deuteronômio, 18:9 a 12.)
 
 > ✝️ ▸ Quando entrares na terra que o Senhor, teu Deus, te der, não aprenderás a fazer conforme as abominações daquelas nações. 10Entre ti se não achará quem faça passar pelo fogo o seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro, 11nem encantador de encantamentos, nem quem consulte um espírito adivinhante, nem mágico, nem quem consulte os mortos, 12pois todo aquele que faz tal coisa é abominação ao Senhor; e por estas abominações o Senhor, teu Deus, as lança fora de diante de ti.
 >
-> **Deuteronômio, cap. 18, vers. 09-12, ARC**
+> Deuteronômio, cap. 18, vers. 09-12, ARC
+{:.bible-multi}
 
-##### 03
+###### 03
 
 Se a lei de Moisés deve ser tão rigorosamente observada neste ponto, força é que o seja igualmente em todos os outros. Por que seria ela boa no tocante às evocações e má em outras de suas partes? É preciso ser consequente. Desde que se reconhece que a lei mosaica não está mais de acordo com a nossa época e costumes em dados casos, a mesma razão procede para a proibição de que tratamos.
 
@@ -1891,11 +1899,12 @@ Ademais, é preciso expender os motivos que justificavam essa proibição e que 
 
 > ✝️ ▸ E o espírito dos egípcios se esvaecerá dentro deles; eu destruirei o seu conselho, e eles consultarão os seus ídolos, e encantadores, e adivinhos, e mágicos.
 >
-> **Isaías, cap. 19, vers. 03, ARC**
+> Isaías, cap. 19, vers. 03, ARC
+{:.bible-multi}
 
 Os israelitas não deviam contratar alianças com as nações estrangeiras, e sabido era que naquelas nações que iam combater encontrariam as mesmas práticas. Moisés devia pois, por política, inspirar aos hebreus aversão a todos os costumes que pudessem ter semelhanças e pontos de contato com o inimigo. Para justificar essa aversão, preciso era que apresentasse tais práticas como reprovadas pelo próprio Deus, e daí estas palavras: “O Senhor abomina todas essas coisas e destruirá, na vossa chegada, as nações que cometem tais crimes.”
 
-##### 04
+###### 04
 
 A proibição de Moisés era assaz justa, porque a evocação dos mortos não se originava nos sentimentos de respeito, afeição ou piedade para com eles, sendo antes um recurso para adivinhações, tal como nos augúrios e presságios explorados pelo charlatanismo e pela superstição. Essas práticas, ao que parece, também eram objeto de negócio, e Moisés, por mais que fizesse, não conseguiu desentranhá-las dos costumes populares.
 
@@ -1908,16 +1917,18 @@ As seguintes palavras do profeta justificam o asserto:
 — Não consulta cada povo ao seu Deus? E aos mortos se fala do que compete aos vivos?” (Isaías, 8:19.)
 
 > ✝️ ▸ Quando vos disserem: Consultai os que têm espíritos familiares e os adivinhos, que chilreiam e murmuram entre dentes;
-
-— não recorrerá um povo ao seu Deus? A favor dos vivos interrogar-se-ão os mortos?
 >
-> **Isaías, cap. 08, vers. 19, ARC**
+> — não recorrerá um povo ao seu Deus? A favor dos vivos interrogar-se-ão os mortos?
+>
+> Isaías, cap. 08, vers. 19, ARC
+{:.bible-multi}
 
 “Sou eu quem aponta a falsidade dos prodígios mágicos; quem enlouquece os que se propõem adivinhar, quem transtorna o espírito dos sábios e confunde a sua ciência vã.” (44:25.)
 
 > ✝️ ▸ ... que desfaço os sinais dos inventores de mentiras e enlouqueço os adivinhos; que faço tornar atrás os sábios e transtorno a ciência deles; ...
 >
-> **Isaías, cap. 44, vers. 25, ARC**
+> Isaías, cap. 44, vers. 25 , ARC
+{:.bible-multi}
 
 “Que esses adivinhos, que estudam o céu, contemplam os astros e contam os meses para fazer predições, dizendo revelar-vos o futuro, venham agora salvar-vos.
 
@@ -1927,7 +1938,8 @@ As seguintes palavras do profeta justificam o asserto:
 
 > ✝️ ▸ Cansaste-te na multidão dos teus conselhos; levantem-se, pois, agora, os agoureiros dos céus, os que contemplavam os astros, os prognosticadores das luas novas, e salvem-te do que há de vir sobre ti. Eis que serão como a pragana, o fogo os queimará; não poderão salvar a sua vida do poder da labareda; ela não será um braseiro, para se aquentarem, nem fogo, para se assentarem junto dele. Assim serão para contigo aqueles com quem trabalhaste, os teus negociantes desde a tua mocidade; cada qual irá vagueando pelo seu caminho; ninguém te salvará.
 >
-> **Isaías, cap. 47, vers. 13-15, ARC**
+> Isaías, cap. 47, vers. 13-15 , ARC
+{:.bible-multi}
 
 Neste capítulo, Isaías dirige-se aos babilônios sob a figura alegórica “da virgem filha de Babilônia, filha de caldeus”. (v. 1.) Diz ele que os adivinhos não impedirão a ruína da monarquia. No seguinte capítulo dirige-se diretamente aos israelitas.
 
@@ -1939,7 +1951,8 @@ Neste capítulo, Isaías dirige-se aos babilônios sob a figura alegórica “da
 
 > ✝️ ▸ Mas chegai-vos aqui, vós, filhos da agoureira, semente de adultério e de prostituição. De quem fazeis o vosso passatempo? Contra quem escancarais a boca e deitais para fora a língua? Porventura, não sois filhos da transgressão, semente da falsidade, 5que vos esquentais com os ídolos debaixo de toda árvore verde e sacrificais os filhos nos ribeiros, nas aberturas dos penhascos? Nas pedras lisas dos ribeiros, está a tua parte; estas, estas são a tua sorte; sobre elas também derramas a tua libação e lhes ofereces ofertas; contentar-me-ia eu com essas coisas?
 >
-> **Isaías, cap. 57, vers. 3-6, ARC**
+> Isaías, cap. 57, vers. 3-6 , ARC
+{:.bible-multi}
 
 Estas palavras são inequívocas e provam claramente que nesse tempo as evocações tinham por fim a adivinhação, ao mesmo tempo que constituíam comércio, associadas às práticas da magia e do sortilégio, acompanhadas até de sacrifícios humanos. Moisés tinha razão, portanto, proibindo tais coisas e afirmando que Deus as abominava.
 
@@ -1957,21 +1970,23 @@ Contudo, se ele pronunciou a pena última contra os delinquentes, é porque lhe 
 
 > ✝️ ▸ E será que, se ouvires a voz do Senhor, teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu te ordeno hoje, o Senhor, teu Deus, te exaltará sobre todas as nações da terra. E todas estas bênçãos virão sobre ti e te alcançarão, quando ouvires a voz do Senhor, teu Deus:
 >
-> **Deuteronômio, cap. 28, vers. 01-02, ARC**
+> Deuteronômio, cap. 28, vers. 01-02 , ARC
+{:.bible-multi}
 
-##### 05
+###### 05
 
 Há duas partes distintas na lei de Moisés: a Lei de Deus propriamente dita, promulgada sobre o Sinai, e a lei civil ou disciplinar, apropriada aos costumes e caráter do povo. Uma dessas leis é invariável, ao passo que a outra se modifica com o tempo, e a ninguém ocorre que possamos ser governados pelos mesmos meios por que o eram os judeus no deserto e tampouco que os capitulares de Carlos Magno se moldem à França do século XIX. Quem pensaria hoje, por exemplo, em reviver este artigo da lei mosaica: “Se um boi escornar um homem ou mulher, que disso morram, seja o boi apedrejado e ninguém coma de sua carne, mas o dono do boi será julgado inocente?” (Êxodo, 21:28 e seguintes.)
 
 > ✝️ ▸ E, se algum boi escornar homem ou mulher, que morra, o boi será apedrejado certamente, e a sua carne se não comerá; mas o dono do boi será absolvido.
 >
-> **Êxodo, cap. 21, vers. 28, ARC**
+> Êxodo, cap. 21, vers. 28 , ARC
+{:.bible-multi}
 
 Este artigo, que nos parece tão absurdo, não tinha, no entanto, outro objetivo que o de punir o boi e inocentar o dono, equivalendo simplesmente à confiscação do animal, causa do acidente, para obrigar o proprietário a maior vigilância. A perda do boi era a punição que devia ser bem sensível para um povo de pastores, a ponto de dispensar outra qualquer; entretanto, essa perda a ninguém aproveitava, por ser proibido comer a carne. Outros artigos prescrevem o caso em que o proprietário é responsável.
 
 Tudo tinha sua razão de ser na legislação de Moisés, uma vez que tudo ela previa em detalhes, mas a forma, bem como o fundo, adaptavam-se às circunstâncias ocasionais. Se Moisés voltasse em nossos dias para legislar sobre uma nação civilizada, decerto não lhe daria um código igual ao dos hebreus.
 
-##### 06
+###### 06
 
 A esta objeção opõem a afirmativa de que todas as leis de Moisés foram ditadas em nome de Deus, assim como as do Sinai, mas, julgando-as todas de fonte divina, por que ao decálogo limitam os mandamentos? Qual a razão de ser da diferença? Pois não é certo que se todas essas leis emanam de Deus devem todas ser igualmente obrigatórias? E por que não conservaram a circuncisão, à qual Jesus se submeteu e não aboliu? Ah! esquecem que, para dar autoridade às suas leis, todos os legisladores antigos lhes atribuíam uma origem divina. Pois bem: Moisés, mais que nenhum outro, tinha necessidade desse recurso, atento o caráter do seu povo; e se, a despeito disso, ele teve dificuldade em se fazer obedecer, que não sucederia se as leis fossem promulgadas em seu próprio nome!
 
@@ -1979,11 +1994,11 @@ Não veio Jesus modificar a lei mosaica, fazendo da sua lei o código dos crist�
 
 Não disse Ele: “Vós sabeis o que foi dito aos antigos, tal e tal coisa, e Eu vos digo tal outra coisa?” Entretanto Jesus não proscreveu, antes sancionou a lei do Sinai, da qual toda a sua doutrina moral é um desdobramento. Ora, Jesus nunca aludiu em parte alguma à proibição de evocar os mortos, quando este era um assunto bastante grave para ser omitido nas suas prédicas, mormente tendo Ele tratado de outros assuntos secundários.
 
-##### 07
+###### 07
 
 Finalmente convém saber se a Igreja coloca a lei mosaica acima da evangélica, ou por outra, se é mais judia que cristã. Convém também notar que, de todas as religiões, precisamente a judia é que faz menos oposição ao Espiritismo, porquanto não invoca a lei de Moisés contrária às relações com os mortos, como fazem as seitas cristãs.
 
-##### 08
+###### 08
 
 Mas temos ainda outra contradição: Se Moisés proibiu evocar os mortos, é que estes podiam vir, pois do contrário inútil fora a proibição. Ora, se os mortos podiam vir naqueles tempos, também o podem hoje; e se são Espíritos de mortos os que vêm, não são exclusivamente demônios. Ademais, Moisés de modo algum fala nesses últimos.
 
@@ -1991,19 +2006,19 @@ Mas temos ainda outra contradição: Se Moisés proibiu evocar os mortos, é que
 
 O próprio vocábulo interrogação, junto aos de adivinho e agoureiro, prova que entre os hebreus as evocações eram um meio de adivinhar; entretanto, os espíritas só evocam mortos para receber sábios conselhos e obter alívio em favor dos que sofrem, nunca para conseguir revelações ilícitas. Certo, se os hebreus usassem das comunicações como fazem os espíritas, longe de as proibir, Moisés acoroçoá-las-ia, porque o seu povo só teria que lucrar.
 
-##### 09
+###### 09
 
 É certo que alguns críticos jucundos ou mal-intencionados têm descrito as reuniões espíritas como assembleias de nigromantes ou feiticeiros, e os médiuns como astrólogos e ciganos, isto porque talvez quaisquer charlatães tenham afeiçoado tais nomes às suas práticas, que o Espiritismo não pode, aliás, aprovar.
 
 Em compensação, há também muita gente que faz justiça e testemunha o caráter essencialmente moral e grave das reuniões sérias. Além disso, a Doutrina, escrita em livros ao alcance de todo o mundo, protesta bem alto contra os abusos, para que a calúnia recaia sobre quem a merece.
 
-##### 10
+###### 10
 
 A evocação, dizem, é uma falta de consideração para com os mortos, cujas cinzas devem ser respeitadas. Mas quem é que diz tal? São os antagonistas de dois campos opostos, isto é, os incrédulos, que nas almas não creem, e os crédulos que pretendem que só os demônios, e não as almas, podem vir.
 
 Quando a evocação é feita com recolhimento e religiosamente; quando os Espíritos são chamados, não por curiosidade, mas por um sentimento de afeição e simpatia, com desejo sincero de instrução e progresso, não vemos nada de irreverente em apelar-se para as pessoas depois de mortas, como se fizera com os vivos. Há, contudo, uma outra resposta peremptória a essa objeção, e é que os Espíritos se apresentam espontaneamente, sem constrangimento, muitas vezes mesmo sem que sejam chamados. Eles também dão testemunho da satisfação que experimentam por comunicar-se com os homens, e queixam-se às vezes do esquecimento em que os deixam. Se os Espíritos se perturbassem ou se agastassem com os nossos chamados, certo o diriam e não retornariam; porém, nessas evocações, livres como são, se se manifestam, é porque lhes convém.
 
-##### 11
+###### 11
 
 Ainda uma outra razão é alegada: As almas permanecem na morada que a Justiça divina lhes designa
 
@@ -2013,15 +2028,15 @@ Restam ainda as almas do purgatório, porém, estas, sofredoras como devem ser, 
 
 Então é o caso de dizer: se as almas não podem vir, não há de que recear pela perturbação do seu repouso.
 
-##### 12
+###### 12
 
 Mas aqui reponta uma outra dificuldade. Se as almas bem-aventuradas não podem deixar a mansão gloriosa para socorrer os mortais, por que invoca a Igreja a assistência dos santos que devem fruir ainda maior soma de beatitude? Por que aconselha invocá-los em casos de moléstia, de aflição, de flagelos? Por que razão e segundo essa mesma Igreja os santos e a própria Virgem aparecem aos homens e fazem milagres? Estes deixam o Céu para baixar à Terra; entretanto os que estão menos elevados não o podem fazer!
 
-##### 13
+###### 13
 
 Que os céticos neguem a manifestação das almas, vá, isto que nelas não acreditam, mas o que se torna estranhável é ver encarniçar-se contra os meios de provar a sua existência, esforçando-se por demonstrar a impossibilidade desses meios, aqueles mesmos cujas crenças repousam na existência e no futuro das almas! Parece que seria mais natural acolherem como benefício da Providência os meios de confundir os céticos com provas irrecusáveis, pois que são os negadores da própria religião. Os que têm interesse na existência da alma deploram constantemente a avalancha da incredulidade que invade, dizimando-o, o rebanho de fiéis: entretanto, quando se lhes apresenta o meio mais poderoso de combatê-la, eles recusam-no com tanta ou mais obstinação que os próprios incrédulos. Depois, quando as provas avultam de modo a não deixar dúvidas, eis que procuram como recurso de supremo argumento a interdição do assunto, buscando, para justificá-la, um artigo da lei mosaica do qual ninguém cogitara, emprestando-lhe, à força, um sentido e aplicação inexistentes. E tão felizes se julgam com a descoberta, que não percebem que esse artigo é ainda uma justificativa da Doutrina Espírita.
 
-##### 14
+###### 14
 
 Todas as razões alegadas para condenar as relações com os Espíritos não resistem a um exame sério. Pelo ardor com que se combate nesse sentido é fácil deduzir o grande interesse ligado ao assunto. Daí a insistência. Vendo esta cruzada de todos os cultos contra as manifestações, dir-se-ia que delas se atemorizam.
 
@@ -2029,7 +2044,7 @@ O verdadeiro motivo poderia bem ser o receio de que os Espíritos muito esclarec
 
 O culto que estiver com a verdade absoluta nada terá que temer da luz, pois a luz faz brilhar a verdade e o demônio nada pode contra esta.
 
-##### 15
+###### 15
 
 Repelir as comunicações de além-túmulo é repudiar o meio mais poderoso de instruir-se, já pela iniciação nos conhecimentos da vida futura, já pelos exemplos que tais comunicações nos fornecem. A experiência nos ensina, além disso, o bem que podemos fazer, desviando do mal os Espíritos imperfeitos, ajudando os que sofrem a desprenderem-se da matéria e a se aperfeiçoarem. Interdizer as comunicações é, portanto, privar as almas sofredoras da assistência que lhes podemos e devemos dispensar.
 
@@ -2041,7 +2056,7 @@ As seguintes palavras de um Espírito resumem admiravelmente as consequências d
 
 ## 2. 🗃️ Exemplos
 
-### 2-01 🗂️
+### 2-01. 🗂️ O passamento {#ceu-2-01}
 
 #### 01
 
@@ -2129,7 +2144,7 @@ Com certeza não é só o Espiritismo que nos assegura tão auspicioso resultado
 
 — único meio de abreviar seus sofrimentos. [^57]
 
-### 2-02 🗂️
+### 2-02. 🗂️ Espíritos felizes {#ceu-2-02}
 
 #### 01. Sanson
 
@@ -2153,7 +2168,7 @@ Este antigo membro da Sociedade Espírita de Paris faleceu a 21 de abril de 1862
 
 (Câmara mortuária, 23 de abril de 1862.)
 
-##### 01
+###### 01
 
 Evocação.
 
@@ -2211,7 +2226,7 @@ Nota: Apenas pronunciadas as primeiras palavras sobre o assunto, o Espírito res
 
 > 👻 ▸ Ah! sei, meu amigo, e sei, por que tanto vos via ontem como hoje... que grande é a minha alegria! Obrigado! Obrigado! Falai... falai para que me compreendam e vos estimem; nada tendes que temer, pois que se respeita a morte... falai, pois, para que os incrédulos tenham fé. Adeus; falai; coragem, confiança, e oxalá meus filhos possam converter-se a uma crença sacrossanta.
 >
-> **J. Sanson**
+> J. Sanson**
 
 Durante a cerimônia do cemitério, ele ditou as palavras seguintes: “Não vos atemorize a morte, meus amigos: ela é um estágio da vida, se bem souberdes viver; é uma felicidade, se bem a merecerdes e melhor cumprirdes as vossas provações. Repito: coragem e boa vontade! Não deis mais que medíocre valor aos bens terrenos, e sereis recompensados. Não se pode muito gozar, sem tirar de outrem o bem-estar e sem fazer moralmente um grande, um imenso mal. A terra me seja leve.”
 
@@ -2219,25 +2234,25 @@ Durante a cerimônia do cemitério, ele ditou as palavras seguintes: “Não vos
 
 (Sociedade Espírita de Paris, 25 de abril de 1862.)
 
-##### 01
+###### 01
 
 Evocação.
 
 > 👻 ▸ Estou perto de vós, meus amigos.
 
-##### 02
+###### 02
 
 Consideramo-nos felizes pela entrevista que tivemos no dia do vosso enterro, e, visto que o permitis, mais felizes seremos em completá-la para nossa instrução.
 
 > 👻 ▸ Estou pronto, e sinto-me feliz por pensardes em mim.
 
-##### 03
+###### 03
 
 A ideia falsa que fazemos do mundo invisível é, o mais das vezes, o que nos leva à descrença, e, assim, tudo que possa esclarecer-nos, a tal respeito, será para nós da mais alta importância. Não vos surpreendam, portanto, as perguntas que porventura vos fizermos.
 
 > 👻 ▸ Espero-as e não ficarei surpreendido.
 
-##### 04
+###### 04
 
 Descrevestes luminosamente a transição para a outra vida; dissestes que, no momento de exalar o corpo o derradeiro alento, a vida se parte e a vista se extingue. E será esse momento seguido de qualquer sensação dolorosa?
 
@@ -2245,13 +2260,13 @@ Descrevestes luminosamente a transição para a outra vida; dissestes que, no mo
 
 📝 **Nota**. Este caso não é geral, pois a experiência prova que muitos Espíritos perdem a consciência antes de expirar, assim como nos que atingiram certo grau de desmaterialização o desprendimento se opera sem esforço.
 
-##### 05
+###### 05
 
 Sabeis se há Espíritos para os quais o momento extremo seja mais penoso? Será ele mais doloroso ao materialista, por exemplo?
 
 > 👻 ▸ Isso é certo, porque o Espírito preparado tem já esquecido o sofrimento, ou, antes, habituou-se com ele e a calma com que encara a morte o impede de sofrer duplamente, prevendo o que por ela o aguarda. O sofrimento moral é mais forte e a sua ausência, por ocasião da morte, é por si só um grande alívio. O descrente assemelha-se ao condenado à pena última, cujo pensamento antevê o cutelo e o ignoto. Entre esta morte e a do ateu, há paridade.
 
-##### 06
+###### 06
 
 Haverá materialistas bastante endurecidos para julgarem nesse momento que vão ser arremessados ao nada?
 
@@ -2261,7 +2276,7 @@ Haverá materialistas bastante endurecidos para julgarem nesse momento que vão 
 
 No pesadelo ordinário, do sonho, o despertar tira-vos a inquietação e aliviados sois pela compreensão de que sonháveis; o pesadelo da morte prolonga-se muita vez por longo tempo, por anos mesmo, e o que torna a sensação ainda mais penosa para o Espírito são as trevas em que se encontra imerso.”
 
-##### 07
+###### 07
 
 Dissestes que por ocasião de expirar nada víeis, porém pressentíeis. Compreende-se que nada vísseis corporalmente, mas o que pressentíeis antes da extinção seria já a claridade do mundo dos Espíritos?
 
@@ -2271,7 +2286,7 @@ Dissestes que por ocasião de expirar nada víeis, porém pressentíeis. Compree
 
 — o que explica a palavra momentaneamente, pois as impressões agradáveis ou penosas, quaisquer que sejam, sobrevivem ao despertar.
 
-##### 08
+###### 08
 
 Podeis dizer-nos o que vos impressionou, o que vistes no momento em que os vossos olhos se abriram à luz? Podeis descrever-nos, se é possível, o aspecto das coisas que se vos depararam?
 
@@ -2281,13 +2296,13 @@ Podeis dizer-nos o que vos impressionou, o que vistes no momento em que os vosso
 
 #### 03
 
-##### 09
+###### 09
 
 Debaixo de que aspecto se vos apresentaram os Espíritos? sob a forma humana?
 
 > 👻 ▸ Sim, meu caro amigo; os Espíritos nos ensinam aí na Terra, que conservam no outro mundo a mesma forma que lhes serviu de envoltório, e é a verdade. Mas que diferença entre a máquina informe, que penosamente aí se arrasta com seu cortejo de misérias, e a fluidez maravilhosa do corpo espiritual! A fealdade não mais existe, porque os traços perderam a dureza de expressão que forma o caráter distintivo da raça humana. Deus beatificou esses corpos graciosos que se movem com todas as elegâncias; a linguagem tem modulações intraduzíveis para vós e o olhar o alcance de uma estrela! Conjeturai sobre o que Deus pode produzir na sua Onipotência, Ele, o arquiteto dos arquitetos, e tereis feito uma fraca ideia da forma dos Espíritos.
 
-##### 10
+###### 10
 
 Quanto a vós, como vedes? Reconheceis em vós uma forma limitada, circunscrita, ainda que imponderável? Sentis em vós mesmo uma cabeça, tronco, pernas e braços?
 
@@ -2299,7 +2314,7 @@ Quanto a vós, como vedes? Reconheceis em vós uma forma limitada, circunscrita,
 >
 > A vista dos Espíritos não se pode comparar à humana, uma vez que também seu corpo não tem quaisquer semelhanças reais; para eles tudo se transforma na essência, como no conjunto. Repito-vos que o Espírito tem uma perspicácia divina que abrange tudo, podendo adivinhar até o pensamento alheio; também pode oportunamente tomar a forma mais própria para tornar-se conhecido. Na realidade, porém, o Espírito que tem terminado a provação prefere a forma que o conduziu para junto de Deus.
 
-##### 11
+###### 11
 
 Os Espíritos não têm sexo; mas como há poucos dias éreis um homem, desejamos saber se no vosso novo estado tendes mais da natureza masculina ou da feminina? E o mesmo que se dá convosco poder-se-á aplicar ao Espírito de longo tempo desencarnado?
 
@@ -2307,13 +2322,13 @@ Os Espíritos não têm sexo; mas como há poucos dias éreis um homem, desejamo
 
 Sempre disseram que os Espíritos não têm sexo, sendo este apenas necessário à reprodução dos corpos. De fato, não se reproduzindo, o sexo ser-lhes-ia inútil. A nossa pergunta não visava confirmar o fato, mas saber, visto que o Sr. Sanson desencarnara recentemente, as impressões que guardava do seu estado terreno. Os Espíritos puros compreendem perfeitamente a sua natureza, porém, entre os inferiores, não desmaterializados, muitos há que se acreditam encarnados sobre a Terra, com as mesmas paixões e desejos. Assim, pensam eles que são ainda os mesmos que foram, isto é, homem ou mulher, havendo quem por esta razão suponha ter realmente um sexo. As contradições a tal respeito são oriundas da graduação de adiantamento dos Espíritos que se manifestam, sendo o erro menos deles que de quem os interroga sem se dar ao trabalho de aprofundar as questões.
 
-##### 12
+###### 12
 
 Que tal se vos afigura a sessão? O seu aspecto é o mesmo de quando éreis vivo? As pessoas guardam para vós a mesma aparência? Será tudo tão claro e distinto como outrora?
 
 > 👻 ▸ Muito mais claro, porquanto posso ler o pensamento de todos vós, sentindo-me igualmente feliz pela benéfica impressão que me causa a boa vontade de todos os Espíritos congregados. Desejo que o mesmo critério se faça sentir não só em Paris, mas na França inteira, onde grupos há que se desligam, invejando-se reciprocamente, dominados por Espíritos turbulentos que se comprazem na discórdia, quando o Espiritismo deve incutir o esquecimento completo e absoluto do eu.
 
-##### 13
+###### 13
 
 Dissestes poder ler em nosso pensamento: podeis explicar-nos como se opera essa transmissão?
 
@@ -2329,7 +2344,7 @@ Em seguida à primeira evocação do Sr. Sanson, feita na Sociedade de Paris, um
 >
 > Orai por essas almas perturbadas; orai por todos os sofredores, que a caridade não se restringe à humanidade visível, mas deve socorrer e consolar os habitantes do Espaço. Disso tivestes a prova evidente na súbita conversão desse Espírito [^58] tocado pelas preces espíritas sobre o túmulo do homem de bem que vindes interrogar e que deseja fazer-vos progredir no bom caminho. O amor não tem limites; enche o Espaço e dá e recebe mutuamente as suas divinas consolações. Também o mar se desenrola numa perspectiva infinita, cujo espetáculo deslumbra o espírito, parecendo-lhe confundir-se o mar no seu limite com os céus. São duas grandezas que se extremam. Pois bem; assim é o amor; mais profundo que as ondas, mais infinito que o Espaço, a todos vós, encarnados e desencarnados, deve unir na santa comunhão da caridade, fusão sublime do finito e do eterno.
 >
-> **Georges**
+> Georges**
 
 #### 02. Jobard
 
@@ -2341,27 +2356,27 @@ O Sr. Jobard era presidente honorário da Sociedade Espírita de Paris e tratava
 >
 > Quereis saber que Espíritos me receberam? quais as minhas impressões? pois bem, amigos, foram todos os que evocamos, todos os irmãos que compartilharam dos nossos trabalhos. Eu vi o esplendor, mas não posso descrevê-lo. Apliquei-me a discernir o que era verdadeiro nas comunicações, pronto a contraditar tudo que fosse errôneo, pronto a ser o cavaleiro andante da verdade neste mundo, tal como o fui no vosso.
 >
-> **Jobard**
+> Jobard**
 
-##### 01
+###### 01
 
 Quando estáveis na Terra, recomendastes-nos para vos evocarmos, e ora o fazemos, não só para satisfazer aquele desejo, como para testemunhar-vos ainda uma vez a nossa sincera simpatia, instruindo-nos ao mesmo tempo, visto que ninguém melhor que vós pode dar-nos esclarecimentos precisos sobre esse mundo em que hoje habitais. Dar-nos-emos por felizes se houverdes por bem responder às nossas perguntas.
 
 > 👻 ▸ Presentemente o que mais se impõe é a vossa instrução. Quanto à vossa simpatia, entrevejo-a e tenho a prova dela tão só pelo que ouço, o que é já um enorme progresso.
 
-##### 02
+###### 02
 
 Para fixarmos ideias e não divagar, principiamos por perguntar em que lugar vos achais aqui, e como vos veríamos se tal coisa nos fosse facultada?
 
 > 👻 ▸ Estou junto do médium, com a aparência do mesmo Jobard que se sentava à vossa mesa, visto que os vossos olhos mortais, ainda vendados, não podem ver os Espíritos senão sob a sua forma mortal.
 
-##### 03
+###### 03
 
 Poderíeis tornar-vos visível? No caso contrário, qual a dificuldade?
 
 > 👻 ▸ A disposição que vos diz respeito é que é toda pessoal. Um médium vidente ver-me-ia, e os outros não.
 
-##### 04
+###### 04
 
 O vosso lugar aqui é o mesmo de quando assistíeis encarnado às nossas sessões e que vos reservamos? Aqueles, pois, que em tais condições vos viram, poderão supor que aí estais tal qual éreis então, visto que aí não estais com o corpo material de outrora, estais no entanto com o corpo fluídico de agora e com a mesma forma. Se vos não vemos com os olhos do corpo, vemos-vos com o pensamento; se não podeis comunicar pela palavra, podeis pela escrita, com auxílio de um médium; assim as nossas relações de forma alguma se romperam com a vossa morte e podemos entretê-las tão fácil e completamente como outrora. É assim precisamente que se passam as coisas?
 
@@ -2369,43 +2384,43 @@ O vosso lugar aqui é o mesmo de quando assistíeis encarnado às nossas sessõe
 
 Chamamos a atenção para esta última frase: o meu Espírito habitará entre vós, que, neste caso, não é uma simples figura, porém, realidade. Pelo conhecimento que o Espiritismo nos dá sobre a natureza dos Espíritos, sabemos que qualquer um pode achar-se entre nós, não só em pensamento, mas pessoalmente, com seu corpo etéreo, que o torna uma individualidade distinta. Um Espírito tanto pode, conseguintemente, habitar entre nós depois de morto como quando vivo, ou, por outra, melhor ainda depois de morto, uma vez que pode ir e vir livre e voluntariamente. Deste modo temos uma multidão de comensais invisíveis, indiferentes uns, outros atraídos por afeição. É a estes últimos que se aplica esta frase: Eles habitam entre nós, que se poderá interpretar assim: Eles nos assistem, inspiram e protegem.
 
-##### 05
+###### 05
 
 Não há muito que encarnado vos sentáveis nesse mesmo lugar. As condições em que ora o fazeis parecer-vos-ão estranhas? Qual o efeito da mudança de estado?
 
 > 👻 ▸ De modo algum se me afiguram estranhas as condições, porque o meu Espírito desencarnado goza de lucidez perfeita para não deixar irresolutas quaisquer questões que encare.
 
-##### 06
+###### 06
 
 Lembrai-vos de haver estado nas mesmas condições anteriormente à última existência? Experimentais qualquer mudança a este respeito comparando as situações presente e passada?
 
 > 👻 ▸ Recordo-me das existências anteriores e sinto-me melhorado, por isso que me identifico com o que vejo, ao passo que, perturbado nas precedentes existências, só me apercebia das faltas terrenas.
 
-##### 07
+###### 07
 
 Lembrai-vos da penúltima encarnação, da que precedeu a do Sr. Jobard?
 
 > 👻 ▸ Se me lembro... Fui um operário mecânico acossado pela miséria e pelo desejo de aperfeiçoar a minha arte. Como Jobard, realizei os sonhos do pobre operário, e dou graças a Deus cuja bondade infinita fez germinar a planta, e cuja semente depositara em meu cérebro.
 
-##### 08
+###### 08
 
 Já vos tendes comunicado em outra parte?
 
 > 👻 ▸ Pouco me tenho comunicado. Em muitos lugares um Espírito tomou-me o nome; algumas vezes estava eu perto dele sem que pudesse comunicar-me diretamente. Tão recente é a minha morte que participo ainda de certas influências terrestres. É preciso que haja perfeita simpatia para poder exprimir o meu pensamento. Em breve operarei incondicionalmente, mas por enquanto, repito, não posso fazê-lo. Quando morre um homem um tanto conhecido, é chamado de todos os lados e inúmeros Espíritos se dão pressa de apossar-se da sua individualidade. Eis o que comigo se tem passado em muitos casos. Asseguro-vos que, logo após ao desprendimento, poucos Espíritos podem comunicar-se, mesmo por um médium predileto.
 
-##### 09
+###### 09
 
 Vedes os Espíritos que aqui estão conosco?
 
 > 👻 ▸ Vejo, principalmente Lázaro e Erasto; depois, mais afastado, o Espírito de Verdade pairando no Espaço, depois, ainda, uma multidão de Espíritos que vos cercam, solícitos e benévolos. Sede felizes, amigos, pois benéficas influências vos disputam às garras do erro.
 
-##### 10
+###### 10
 
 Quando encarnado compartilháveis da opinião emitida sobre a formação da Terra pela incrustação de quatro planetas que se teriam unido, sois ainda da mesma opinião?
 
 > 👻 ▸ É um erro. As novas descobertas geológicas provam as convulsões da Terra e sua formação gradual e sucessiva. A Terra, como os outros planetas, teve sua vida própria, e Deus não precisou lançar mão dessa grande desordem que seria a agregação de planetas. A água e o fogo são os únicos elementos orgânicos da Terra.
 
-##### 11
+###### 11
 
 Admitíeis também que os homens pudessem cair num estado cataléptico por tempo ilimitado, e que o gênero humano tivesse assim aparecido na Terra?
 
@@ -2423,7 +2438,7 @@ Nota: Quando a Sociedade abriu uma subscrição em favor dos operários de Lyon,
 >
 > Aprofundaremos então questões superficialmente tratadas, e o vosso Jobard, completamente transfigurado, poderá ser útil, como deseja de todo o coração.
 >
-> **Jobard**
+> Jobard**
 
 Passados os primeiros tempos consagrados ao alento dos seus amigos, o Sr. Jobard colocou-se entre os Espíritos que ativamente propugnam pela renovação social, esperando uma nova encarnação terrena para tomar parte ainda mais ativa e direta nesse movimento. Depois dessa época, ele deu à Sociedade de Paris, onde continua como cooperador, comunicações de incontestável superioridade, sem se desviar da originalidade e repentes que constituíam o fundo do seu caráter, a ponto de se fazer reconhecido antes de assinar.
 
@@ -2473,7 +2488,7 @@ Trabalhos, fadigas, sacrifícios, nada o impedia de ser útil, e isto sem ostent
 >
 > O meu sofrimento é, porém, relativo e não se pode comparar ao angustioso sofrimento humano, uma vez que compreendo o alcance, a necessidade e o caráter transitório das provações, que são para o bem. Esse sofrimento é, ademais, suavizado pela convicção de que aqueles a quem amo virão também por sua vez a esta mansão afortunada onde a dor não existe. Para torná-los dignos dela, dessa mansão, é que me esforço por sugerir-lhes bons pensamentos e sobretudo a resignação que tive, consoante a vontade de Deus. A minha desolação avulta quando os vejo retardar o advento por falta de coragem, murmúrios, vacilações e sobretudo por qualquer ato reprovável. Trato então de os desviar do mau caminho, e, se o consigo, é isso uma felicidade não só para mim, como para outros Espíritos; quando, ao contrário, a intervenção é improfícua, exclamo com pesar: Mais um momento de atraso; mas consola-me a ideia de que nada se perde irremissivelmente.”
 >
-> **Samuel Philippe**
+> Samuel Philippe**
 
 #### 04. Van Durst
 
@@ -2495,7 +2510,7 @@ Decorridos os quatro dias recebemos a comunicação seguinte:
 >
 > Amigos, adeus a todos vós; espero-vos, e, enquanto estiverdes na Terra, virei muitas vezes instruir-me convosco, visto como sei menos ainda que muitos dentre vós. Notai que aqui onde estou, sem velhice que me enfraqueça nem entraves de qualquer espécie, aprenderei mais depressa e facilmente. Aqui se vive às claras, caminhando com desassombro, tendo ante os olhos horizontes tão belos que a gente se torna impaciente por abrangê-los. Adeus, deixo-vos, adeus.
 >
-> **Van Durst**
+> Van Durst**
 
 #### 05. Sixdeniers
 
@@ -2588,17 +2603,17 @@ Relações de mútua e viva simpatia se haviam estabelecido entre nós, correspo
 >
 > Ágil como o pássaro que cruza célere os horizontes do vosso céu nebuloso, admiro, contemplo, bendigo, amo e curvo-me, átomo que sou, ante a grandeza e sabedoria do Criador, sintetizadas nas maravilhas que me cercam. Feliz! feliz na glória! Oh! quem poderá jamais traduzir a esplêndida beleza da mansão dos eleitos; os céus, os mundos, os sóis e seu concurso na harmonia do universo? Pois bem: eu ensaiarei fazê-lo, ó meu mestre; vou estudar, e virei trazer-vos o resultado dos meus trabalhos de Espírito e que de antemão, como homenagem, eu vos dedico. Até breve.
 >
-> **Demeure**
+> Demeure**
 
 📝 **Nota**. As duas comunicações seguintes, dadas em data de 1o e 2 de fevereiro, dizem respeito à enfermidade de que fomos acometidos na ocasião. Posto que de caráter pessoal, reproduzimo-las como provas de que o Dr. Demeure se mostrava tão bom como Espírito, quanto o fora como homem.
 
 > 👻 ▸ Meu bom amigo, tende coragem e confiança em nós, porquanto essa crise, apesar de ser fatigante e dolorosa, não será longa, e, com os conselhos prescritos, podereis, conforme desejais, completar a obra que vos propusestes como fito da vossa existência. Sou eu quem aqui está, perto de vós, e com o Espírito de Verdade, que me permite falar em seu nome, por ser eu dos vossos amigos o mais recentemente desencarnado. É como se me fizessem as honras da recepção. Caro mestre, quanto me sinto feliz por ter desencarnado a tempo de estar com esses amigos neste momento! mais cedo, livre, eu poderia talvez ter-vos poupado essa crise que não previa. Era muito recente o meu desprendimento para ocupar-me de outras coisas que não as espirituais, mas agora velarei por vós, caro mestre. Aqui estou para, feliz como Espírito, ao vosso lado, prestar os meus serviços. Conheceis o provérbio: ‘ajuda-te, o Céu te ajudará’. Pois bem, ajudai os bons Espíritos que vos assistem, conformando-vos com as suas prescrições. Está muito quente aqui; este carvão é fatigante. Enquanto estiverdes doente, convém não o queimeis mais, a fim de não aumentar o vosso sufocamento. Os gases que daí se desprendem são deletérios.
 >
-> **Vosso amigo, Demeure**
+> Vosso amigo, Demeure**
 
 > 👻 ▸ Sou eu, Demeure, o amigo do Sr. Kardec. Venho dizer-lhe que o acompanhava quando lhe sobreveio o acidente. Este seria certamente funesto sem a intervenção eficaz para a qual me ufano de haver concorrido. De acordo com as minhas observações e com os informes colhidos em boa fonte, é evidente para mim que, quanto mais cedo se der a sua desencarnação, tanto mais breve reencarnará para completar a sua obra. É preciso, contudo, antes de partir, dar a última demão às obras complementares da teoria doutrinal de que é o iniciador. Se, portanto, por excesso de trabalho, não atendendo à imperfeição do seu organismo, antecipar a partida para cá, será passível da pena de homicídio voluntário. É mister dizer-lhe toda a verdade, para que se previna e siga estritamente as nossas prescrições.
 >
-> **Demeure**
+> Demeure**
 
 A seguinte comunicação foi obtida em Montauban, aos 26 de janeiro, dia seguinte ao da sua desencarnação, num Centro de amigos espíritas que havia nessa cidade.
 
@@ -2610,7 +2625,7 @@ A seguinte comunicação foi obtida em Montauban, aos 26 de janeiro, dia seguint
 >
 > Não choreis, meus amigos, porque me faríeis lamentar o haver-vos conhecido. Deixai correr o tempo, e Deus vos encaminhará para esta mansão, onde nos devemos todos reunir finalmente. Boa noite, amigos; que Deus vos conforte, ficando eu ao vosso lado.
 >
-> **Demeure**
+> Demeure**
 
 Ainda de uma carta de Montauban extraímos a narrativa seguinte:
 
@@ -2644,7 +2659,7 @@ Desencarnou, finalmente, com a serenidade decorrente de uma consciência ilibada
 
 Logo que soubemos do trespasse da Sra. Foulon, tivemos por primeiro cuidado o de evocá-la. As relações de amizade e simpatia, que a Doutrina estabelecera entre nós, explicam algumas das suas frases e justificam a familiaridade de linguagem.
 
-##### 01
+###### 01
 
 (Paris, 6 de fevereiro de 1865, três dias após o decesso.)
 
@@ -2666,9 +2681,9 @@ Mas quanto trabalho para reproduzir uma obra-prima, digna da grandiosa cena que 
 >
 > Até breve, bons e caros amigos; até logo.
 >
-> **Viúva Foulon**
+> Viúva Foulon**
 
-##### 02
+###### 02
 
 (8 de fevereiro de 1865.)
 
@@ -2708,9 +2723,9 @@ De algumas das vossas palavras pode inferir-se que não prestareis mui ativa col
 >
 > Adeus e até breve, caro mestre. A vossa boa amiga ama-vos e amará sempre, visto como a vós exclusivamente deve a única consolação duradoura e verdadeira que teve na Terra.
 >
-> **Viúva Foulon**
+> Viúva Foulon**
 
-##### 03
+###### 03
 
 A comunicação seguinte foi destinada a seus filhos em data de 9 de fevereiro:
 
@@ -2728,7 +2743,7 @@ A comunicação seguinte foi destinada a seus filhos em data de 9 de fevereiro:
 >
 > Voltarei, meus filhos, mas é preciso consolar a filha que de mim tanto precisa agora. Adeus, até breve. Eu vo-lo suplico por vós: crede na bondade divina. Até sempre.
 >
-> **Viúva Foulon**
+> Viúva Foulon**
 
 📝 **Nota**. Todo Espírito esclarecido e sério tirará, com facilidade, destas comunicações os ensinamentos que delas ressaltam. Nós apenas lhe chamaremos a atenção para os dois pontos seguintes:
 
@@ -2796,7 +2811,7 @@ O Sr. P., de Moscou, era um médico tão eminente pelo saber como pelas qualidad
 
 > 👻 ▸ Mas por certo que bem longe estais da perfeição. Não obstante o vosso ardor na divulgação das sãs doutrinas; o cuidado em manter a fé dos que vos ouvem; em aconselhar a caridade, a bondade e a benevolência, mesmo para os que convosco mal se conduzem; a resistência aos instintos de cólera, que aliás facilmente poderíeis descarregar nos que vos afligem, por ignorantes das vossas intenções; tudo isso atenua a maldade que ainda possuís. Convém que o diga: o perdão das ofensas é, de tantas, uma das mais poderosas atenuantes do mal. Deus vos cumula de graças pela faculdade que vos concedeu, e que deveis desenvolver pelo esforço próprio, a fim de cooperardes na salvação do próximo. Vou deixar-vos, porém contai sempre comigo. Preciso se faz modereis as ideias terrenas, vivendo o mais possível com os amigos do Espaço.
 >
-> **P.**
+> P.**
 
 #### 09. Bernardin
 
@@ -2969,7 +2984,7 @@ Era filho único e faleceu, aos 18 anos, de uma afecção pulmonar. Inteligênci
 
 👻 ▸ Oh! não, desenganai-vos. Contado estava o tempo que eu deveria passar na Terra, e coisa alguma poderia aí reter-me. Sabia-o meu Espírito nos momentos de desprendimento e considerava-me feliz com a ideia da próxima libertação. “Mas o tempo que aí passei não foi sem proveito, e hoje me felicito de o não ter perdido. “Os sérios estudos feitos fortificaram-me a alma, aumentando-lhe os conhecimentos, e se em virtude da minha curta existência não pude dar-lhes aplicação, nem por isso deixarei de o fazer mais tarde e com maior utilidade. “Adeus, caro amigo: eu parto para junto de meus pais, a fim de predispô-los ao recebimento desta comunicação.” Maurice
 
-### 2-03 🗂️
+### 2-03. 🗂️ Espíritos em condições medianas {#ceu-2-03}
 
 #### 01. Joseph Bré
 
@@ -2997,49 +3012,49 @@ Jovem de 25 anos, falecida subitamente no lar, sem sofrimentos, sem causa previa
 
 (Falecido em 1860 e evocado, a pedido de uma sua irmã, consóror da Sociedade de Paris, em 16 de maio de 1861.)
 
-##### CEU-2-03-03-p1
+###### CEU-2-03-03-p1
 
 Evocação:
 
 👻 ▸ Eis-me aqui.
 
-##### CEU-2-03-03-p2
+###### CEU-2-03-03-p2
 
 . Vossa irmã pediu-nos para evocar-vos, pois, conquanto seja médium, não está ainda bastante desenvolvida.
 
 👻 ▸ Responderei da melhor forma possível.
 
-##### CEU-2-03-03-p3
+###### CEU-2-03-03-p3
 
 Em primeiro lugar ela deseja saber se sois feliz.
 
 👻 ▸ Estou na erraticidade, estado transitório que não proporciona nem felicidade nem castigo absolutos.
 
-##### CEU-2-03-03-p4
+###### CEU-2-03-03-p4
 
 Permanecestes por muito tempo inconsciente do vosso estado?
 
 👻 ▸ Estive muito tempo perturbado e só voltei a mim para bendizer da piedade dos que, lembrando-se de mim, por mim oraram.
 
-##### CEU-2-03-03-p5
+###### CEU-2-03-03-p5
 
 E podeis precisar o tempo dessa perturbação?
 
 👻 ▸ Não.
 
-##### CEU-2-03-03-p6
+###### CEU-2-03-03-p6
 
 Quais os parentes que reconhecestes primeiro?
 
 👻 ▸ Minha mãe e meu pai, os quais me receberam ao despertar, iniciando-me na nova vida.
 
-##### CEU-2-03-03-p7
+###### CEU-2-03-03-p7
 
 A que atribuir o fato de parecer que nos últimos extremos da moléstia confabuláveis com as pessoas caras da Terra?
 
 👻 ▸ Ao conhecimento antecipado pela revelação do mundo que viria habitar. Vidente antes da morte, meus olhos só se turbaram no momento da separação do corpo, porque os laços carnais eram ainda muito vigorosos.
 
-##### CEU-2-03-03-p8
+###### CEU-2-03-03-p8
 
 Como explicar as recordações da infância que de preferência vos ocorriam?
 
@@ -3049,7 +3064,7 @@ Como explicar as recordações da infância que de preferência vos ocorriam?
 
 👻 ▸ Importa dizer que os moribundos lembram e veem, como miragem consoladora, a pureza infantil dos primeiros anos. É provavelmente por motivo providencial semelhante que os velhos, à proporção que se aproximam do termo da vida, têm, por vezes, nítida lembrança dos mais ínfimos episódios da infância.
 
-##### CEU-2-03-03-p9
+###### CEU-2-03-03-p9
 
 Por que, referindo-vos ao corpo, faláveis sempre na terceira pessoa?
 
@@ -3057,7 +3072,7 @@ Por que, referindo-vos ao corpo, faláveis sempre na terceira pessoa?
 
 — respondia: “Não, é ele.” Aqui ressaltam perfeitamente as duas existências: o eu pensante está no Espírito, e não no corpo; o Espírito, em parte desprendido, considerava o corpo outra individualidade, que a bem dizer lhe não pertencia; era portanto ao seu corpo que se fazia mister dessedentar, e não a ele Espírito. Este fenômeno é notado também em alguns sonâmbulos.
 
-##### CEU-2-03-03-p10
+###### CEU-2-03-03-p10
 
 O que dissestes sobre a erraticidade do vosso Espírito e sua respectiva perturbação, levaria a duvidar da vossa felicidade, ao contrário do que se poderia inferir das vossas qualidades. Ademais, há Espíritos errantes felizes e infelizes.
 
@@ -3073,73 +3088,73 @@ Passara uma parte da sua vida na marinha mercante, como médico de navio baleeir
 
 — E seus olhos cerraram-se, desta vez para sempre; seu rosto, porém, conservou uma expressão tão imponente que, até o momento de ser amortalhado, numerosa turba veio contemplá-lo, tomada de admiração. Tendo-nos um amigo da família fornecido estes pormenores assaz interessantes, lembramo-nos que a evocação podia tornar-se instrutiva a todos nós, e útil ao próprio Espírito.
 
-##### CEU-2-03-04-p1
+###### CEU-2-03-04-p1
 
 Evocação:
 
 👻 ▸ Estou perto de vós.
 
-##### CEU-2-03-04-p2
+###### CEU-2-03-04-p2
 
 Relataram-nos as circunstâncias em que se deu a vossa passagem e ficamos cheios de admiração. Quereis ter a bondade de nos descrever ainda mais minuciosamente o que vistes no intervalo do que poderíamos denominar as vossas duas mortes?
 
 👻 ▸ O que vi... E poderíeis compreendê-lo? Não sei, visto como não encontraria expressões apropriadas à compreensão do que pude ver durante os instantes em que me foi possível deixar o envoltório mortal.
 
-##### CEU-2-03-04-p3
+###### CEU-2-03-04-p3
 
 E sabeis em que lugar estivestes? Seria longe da Terra, em outro planeta, ou no Espaço?
 
 👻 ▸ O Espírito não mede distâncias, nem lhes conhece o valor como a vós acontece. Arrebatado por não sei que agente maravilhoso, eu vi os esplendores de um céu, desses que só em sonho podemos imaginar. Esse percurso, através do infinito, fazia-se com celeridade tal que eu não pude precisar os instantes nele empregados pelo meu Espírito.
 
-##### CEU-2-03-04-p4
+###### CEU-2-03-04-p4
 
 E fruís atualmente a felicidade que entrevistes?
 
 👻 ▸ Não; bem desejaria poder fruí-la, mas Deus não deveria recompensar-me de tal maneira. Revoltei-me muitas vezes contra os pensamentos abençoados que o coração me ditava e a morte parecia-me uma injustiça. “Médico incrédulo, eu havia assimilado na arte de curar uma aversão profunda à segunda natureza, que é o nosso impulso inteligente, divino; para mim a imortalidade da alma não passava de ficção própria para seduzir as naturezas pouco instruídas, embora o nada me espantasse, maldizendo o misterioso agente que atua perenemente. A Filosofia desviara-me, sem que eu desse por isto, da compreensão da grandeza do Eterno, que sabe distribuir a dor e a alegria para ensino da humanidade.”
 
-##### CEU-2-03-04-p5
+###### CEU-2-03-04-p5
 
 Logo após o definitivo desprendimento reconhecestes o vosso estado?
 
 👻 ▸ Não; eu só me reconheci durante a transição que o meu Espírito experimentou para percorrer a etérea região. Isto, porém, não ocorreu imediatamente, sendo-me precisos alguns dias para o meu despertar. “Deus concedera-me uma graça, em razão do que vos vou explicar: A minha primitiva descrença não mais existia; tornara-me crente antes da morte, depois de haver cientificamente sondado a matéria grave que me atormentava, de não haver encontrado ao fim das razões terrestres senão a razão divina, que me inspirou e consolou, dando-me coragem mais forte que a dor. Assim, bendizia o que amaldiçoara, encarava a morte como uma libertação. A ideia de Deus é grande como o mundo! Oh! que supremo consolo na prece, que nos enternece e comove: ela é o elemento mais positivo da nossa natureza imaterial; foi por ela que compreendi, que cri firme, soberanamente, e, por isso, Deus, levando em conta os meus atos, houve por bem recompensar-me antes do termo da minha encarnação.”
 
-##### CEU-2-03-04-p6
+###### CEU-2-03-04-p6
 
 Poder-se-ia dizer que estivestes morto nessa primeira crise?
 
 👻 ▸ Sim e não: tendo o Espírito abandonado o corpo, naturalmente a carne extinguia-se; entretanto, retomando posse da morada terrena, a vida voltou ao corpo, que passou por uma transição, por um sono.
 
-##### CEU-2-03-04-p7
+###### CEU-2-03-04-p7
 
 E sentíeis então os laços que vos prendiam ao corpo?
 
 👻 ▸ Sem dúvida; o Espírito tem um grilhão fortíssimo a prendê-lo, e não entra na vida natural antes que dê o último estremecimento da carne.
 
-##### CEU-2-03-04-p8
+###### CEU-2-03-04-p8
 
 Como, pois, na vossa morte aparente e durante alguns minutos, pôde o vosso Espírito desprender-se súbita e imperturbavelmente, ao passo que o desprendimento efetivo se fez acompanhar da perturbação por alguns dias? Parece-nos que no primeiro caso, os laços entre corpo e Espírito subsistindo mais que no segundo, o desprendimento deverá ser mais lento, ao contrário justamente do que se deu.
 
 👻 ▸ Tendes muitas vezes evocado um Espírito encarnado, recebendo respostas exatas; eu estava nas condições desses tais, porque Deus me chamava e os seus servidores me diziam: “Vem...” Obedeci, agradecendo-lhe o favor especial que houve por bem conceder-me para que pudesse entrever, compreendendo-a, a sua infinita grandeza. Obrigado a vós, que antes da morte real me permitistes doutrinar os meus, para que façam boas e justas encarnações.
 
-##### CEU-2-03-04-p9
+###### CEU-2-03-04-p9
 
 Donde provinham as belas palavras que após o despertar dirigistes à vossa família?
 
 👻 ▸ Eram o reflexo do que tinha visto e ouvido; os bons Espíritos inspiravam-me a linguagem e davam fulgor à minha fisionomia.
 
-##### CEU-2-03-04-p10
+###### CEU-2-03-04-p10
 
 Que impressão julgais ter a vossa revelação produzido nos assistentes, notadamente nos vossos filhos?
 
 👻 ▸ Surpreendente, profunda; a morte não é mentirosa; os filhos, por mais ingratos que possam ser, curvam-se sempre à encarnação que termina. Se pudéssemos penetrar o coração dos filhos, junto de um túmulo entreaberto, vê-lo-íamos apenas palpitar de sentimentos verdadeiros, sinceros, tocados pela mão secreta dos Espíritos, que dizem em todos os pensamentos: “Tremei se duvidais”; a morte é a reparação, a Justiça de Deus, e eu vos asseguro, em que pese aos incrédulos, que a minha família e os amigos creram nas palavras por mim pronunciadas antes da morte. Eu era, ademais, intérprete de um outro mundo.
 
-##### CEU-2-03-04-p11
+###### CEU-2-03-04-p11
 
 Dizendo não gozardes da felicidade entrevista, pode inferir-se que sejais infeliz?
 
 👻 ▸ Não, uma vez que me tornei crente antes da morte, e isto de coração e consciência. A dor acabrunha nesse mundo, mas fortalece sob o ponto de vista do futuro espiritual. Notai que Deus teve em conta as minhas preces e a crença nele depositada em absoluto; estou firme no caminho da perfeição, e chegarei ao fim que me foi permitido lobrigar. Orai, meus amigos, por este mundo invisível que preside aos vossos destinos; esta permuta fraternal é de caridade; é a alavanca que põe em comunhão os Espíritos de todos os mundos.
 
-##### CEU-2-03-04-p12
+###### CEU-2-03-04-p12
 
 Acaso quereríeis dirigir algumas palavras à vossa mulher e filhos?
 
@@ -3193,7 +3208,7 @@ Importante questão decorre dos fatos supramencionados. Ei-la: Poderá uma pesso
 
 Poder-se-ia ainda admirar a rapidez relativa com que se desprendeu este Espírito, dado o seu apego à vida corporal; cumpre, porém, considerar que tal apego nada tinha de material nem sensual, antes possuindo mesmo a sua face moral, motivado como era pelas necessidades dos filhos ainda tenros. Enfim, era um Espírito adiantado em inteligência e moralidade. Por mais um grau, e poder-se-ia considerá-lo um dos Espíritos dos mais felizes. Não havia, portanto, nos laços perispiríticos a tenacidade resultante da identificação material; pode dizer-se que a vida, debilitada por longa enfermidade, apenas se prendia por tênues fios, que ele desejava impedir se rompessem. Contudo, a sua resistência foi punida com a dilação dos sofrimentos concernentes à própria moléstia, e não com a dificuldade do desprendimento. Assim, realizado este, eis por que a perturbação foi breve. Um outro fato igualmente importante decorre desta, como da maior parte das evocações feitas em épocas diversas, mais ou menos distantes da morte: é a transformação gradual das ideias do Espírito, cujo progresso se traduz, não por melhores sentimentos, mas por uma apreciação mais justa das coisas. O progresso da alma na vida espiritual é, portanto, um fato demonstrado pela experiência. A vida corporal é a prática desse progresso, a demonstração das suas resoluções, o cadinho em que ele se depura. Desde que a alma progrida depois da morte, a sua sorte não pode ser irrevogavelmente fixada, porquanto a fixação definitiva da sorte é, como já o dissemos, a negação do progresso. E não podendo coexistir simultaneamente as duas coisas, resta a que tem por si a sanção dos fatos e da razão.
 
-### 2-04 🗂️
+### 2-04. 🗂️ Espíritos sofredores {#ceu-2-04}
 
 #### 01. O castigo
 
@@ -3257,13 +3272,13 @@ Homens, meus irmãos, eu vivi só para mim e agora expio e sofro! Conceda-vos De
 
 Um Espírito sofredor inscreve-se com o nome de Lisbeth.
 
-##### 01
+###### 01
 
 Quereis dar-nos algumas informações a respeito da vossa posição, assim como da causa dos vossos sofrimentos?
 
 👻 ▸ Sede humilde de coração, submisso à vontade de Deus, paciente na provação, caridoso para com o pobre, consolador do fraco, sensível a todos os sofrimentos e não sofrereis as torturas que amargo.
 
-##### 02
+###### 02
 
 Pareceis sentir as falhas decorrentes de contrário procedimento... O arrependimento deverá dar-vos alívio?
 
@@ -3275,19 +3290,19 @@ Pareceis sentir as falhas decorrentes de contrário procedimento... O arrependim
 
 — profundos ensinamentos, pondo-nos a par dos mais íntimos pormenores da vida espiritual. O homem superficial pode não ver nesses exemplos mais que pitorescas narrativas, mas o homem sério e refletido encontrará neles abundante manancial de estudos.
 
-##### 03
+###### 03
 
 Farei o que desejais. Podereis dar-me alguns pormenores da vossa última existência corporal? Daí talvez nos advenha um ensinamento útil e assim tornareis proveitoso o arrependimento. (O Espírito vacila na resposta, não só desta pergunta, como de algumas das que se seguem.)
 
 👻 ▸ Tive um nascimento de elevada condição. Possuía tudo o que os homens julgam a fonte da felicidade. Rica, tornei-me egoísta; bela, fui vaidosa, insensível, hipócrita; nobre, era ambiciosa. Calquei ao meu poderio os que se me não rolavam aos pés e oprimia ainda mais os que sob eles se colocavam, esquecida de que também a cólera do Senhor esmaga, cedo ou tarde, as mais altivas frontes.
 
-##### 04
+###### 04
 
 Em que época vivestes?
 
 👻 ▸ Há 150 anos, na Prússia
 
-##### 05
+###### 05
 
 Desde então não fizestes progresso algum como Espírito?
 
@@ -3295,13 +3310,13 @@ Desde então não fizestes progresso algum como Espírito?
 
 — esse demônio multiforme que se amolda a todas as aberrações do Espírito, que se oculta em todos os refolhos do coração; que penetra as velas; que absorve e arrasta às trevas da eterna geena! Oh! sim... eterna! Provavelmente, o Espírito diz não ter feito progresso algum, por ser a sua situação sempre penosa; a maneira pela qual descreve o orgulho e lhe deplora as consequências é, incontestavelmente, um progresso. Certo, quando encarnado e mesmo logo após a morte, ele não poderia raciocinar assim. Compreende o mal, o que já é alguma coisa, e a coragem e o propósito de o evitar lhe advirão mais tarde.
 
-##### 06
+###### 06
 
 Deus é muito bom para condenar seus filhos a penas eternas. Confiai na sua misericórdia.
 
 👻 ▸ Dizem que isto pode ter um termo, mas onde e quando? Há muito que o procuro e só vejo sofrimento, sempre, sempre, sempre!
 
-##### 07
+###### 07
 
 Como viestes hoje aqui?
 
@@ -3315,7 +3330,7 @@ Como viestes hoje aqui?
 
 👻 ▸ (Depois de longa reflexão.) Sim, tendes razão: foi daí para cá que principiei a vê-lo.
 
-##### 08
+###### 08
 
 Compreendeis agora a relação existente entre o arrependimento e o auxílio prestado por vosso protetor? Tomai por origem desse apoio o amor de Deus, cujo fim será o seu perdão e misericórdia infinitos.
 
@@ -3323,7 +3338,7 @@ Compreendeis agora a relação existente entre o arrependimento e o auxílio pre
 
 — Creio poder prometer-vo-lo no nome, aliás sacratíssimo, daquele que jamais foi surdo à voz dos filhos aflitos.
 
-##### 09
+###### 09
 
 Pedi de coração e sereis ouvida.
 
@@ -3333,7 +3348,7 @@ Pedi de coração e sereis ouvida.
 
 👻 ▸ Sim. Obrigada! Não me esqueçais.
 
-##### 10
+###### 10
 
 Vinde inscrever-vos aqui todos os dias.
 
@@ -3437,19 +3452,19 @@ Era um velho celibatário, avarento e muito popular, falecido em C., em 1857, le
 
 O Espírito que forneceu os ditados seguintes pertenceu a uma senhora que o médium conhecera quando na Terra. A sua conduta, como o seu caráter, justificam plenamente os tormentos que lhe sobrevieram. Além do mais, ela era dominada por um sentimento exagerado de orgulho e egoísmo pessoais, sentimento que se patenteia na terceira das mensagens, quando pretende que o médium apenas se ocupe com ela. As comunicações foram obtidas em diferentes épocas, sendo que as três últimas já denotam sensível progresso nas disposições do Espírito, graças ao cuidado do médium, que empreendera a sua educação moral.
 
-##### 01
+###### 01
 
 Eis-me aqui, eu, a desgraçada Claire. Que queres tu que te diga? A resignação, a esperança não passam de palavras, para os que sabem que, inumeráveis como as pedras da saraivada, os sofrimentos lhe perdurarão na sucessão interminável dos séculos. Posso suavizá-los, dizes tu... Que vaga palavra! Onde encontrar coragem e esperança para tanto? Procura, pois, inteligência obtusa, compreender o que seja um dia eterno. Um dia, um ano, um século... que sei eu? se as horas o não dividem, as estações não variam; eterno e lento como a água que do rochedo roreja, este dia execrando, maldito, pesa sobre mim como avalancha de chumbo... Eu sofro! Em torno de mim, apenas sombras silenciosas e indiferentes... Eu sofro! Contudo, sei que acima desta miséria reina o Deus Pai, para o qual tudo se encaminha. Quero pensar nele, quero implorar-lhe misericórdia. Debato-me e vivo de rojo como o estropiado que rasteja ao longo do caminho. Não sei que poder me atrai para ti; talvez sejas a salvação. Eu te deixo mais calma, mais reanimada, qual anciã enregelada que se aquecesse a um raio de sol. Gélida, minha alma se reanima à tua aproximação.
 
-##### 02
+###### 02
 
 A minha desgraça aumenta dia a dia, proporcionalmente ao conhecimento da eternidade. Ó miséria! Malditas sejam as horas de egoísmo e inércia, nas quais, esquecida de toda a caridade, de todo o afeto, eu só pensava no meu bem-estar! Malditos interesses humanos, preocupações materiais que me cegaram e perderam! Agora o remorso do tempo perdido. Que te direi a ti, que me ouves? Olha, vela constantemente, ama os outros mais que a ti mesmo, não retardes a marcha nem engordes o corpo em detrimento da alma. Vela, conforme pregava o Salvador aos seus discípulos. Não me agradeças estes conselhos, porque se o meu Espírito os concebe, o coração nunca os ouviu. Qual o cão escorraçado, rastejando de medo, assim me humilho sem conhecer ainda o voluntário amor. Muito tarda a sua divina aurora a despontar! Ora por minha alma dessecada e tão miserável!
 
-##### 03
+###### 03
 
 Por que me esqueces, até aqui venho procurar-te. Acreditas que preces isoladas e a simples pronúncia do meu nome bastarão ao apaziguamento das minhas penas? Não, cem vezes não. Eu urro de dor, errante, sem repouso, sem asilo, sem esperança, sentindo o aguilhão eterno do castigo a enterrar-se-me na alma revoltada. Quando ouço os vossos lamentos, rio-me, assim como quando vos vejo abatido. As vossas efêmeras misérias, as lágrimas, tormentos que o sono susta, que são? Durmo eu aqui? Quero (ouviste?) quero que, deixando as tuas lucubrações filosóficas, te ocupes de mim, além de fazeres com que outros mais também se ocupem. Não tenho expressões para definir esse tempo que se escoa, sem que as horas lhe assinalem períodos. Vejo apenas um tênue raio de esperança, foste tu que ma deste: não me abandones, pois.
 
-##### 04
+###### 04
 
 (O Espírito São Luís.)
 
@@ -3461,23 +3476,23 @@ Por que me esqueces, até aqui venho procurar-te. Acreditas que preces isoladas 
 
 — verme a corroer-lhe o coração, seu verdadeiro demônio. São Luís
 
-##### 05
+###### 05
 
 Falar-vos-ei da importante diferença existente entre a moral divina e a moral humana. A primeira assiste a mulher adúltera no seu abandono e diz aos pecadores: “Arrependei-vos, e aberto vos será o reino dos Céus.” Finalmente, a moral divina aceita todo arrependimento, todas as faltas confessadas, ao passo que a moral humana rejeita aquele e sorri aos pecados ocultos que, diz, são em parte perdoados. Cabe a uma a graça do perdão, e a outra a hipocrisia. Escolhei, Espíritos ávidos da verdade! Escolhei entre os Céus abertos ao arrependimento e a tolerância que admite o mal, repelindo os soluços do arrependimento francamente patenteado, só para não ferir o seu egoísmo e preconceitos. Arrependei-vos todos vós que pecais; renunciai ao mal e principalmente à hipocrisia
 
 — véu que é de torpezas, máscara risonha de recíprocas conveniências.
 
-##### 06
+###### 06
 
 “Estou mais calma e resignada à expiação das minhas faltas. O mal não está fora de mim, reside em mim, devendo ser eu a me transformar, e não as coisas exteriores. “Em nós e conosco trazemos o Céu e o inferno; as nossas faltas, gravadas na consciência, são lidas correntemente no dia da ressurreição. E uma vez que o estado da alma nos abate ou eleva, somos nós os juízes de nós mesmos. Explico-me: um Espírito impuro e sobrecarregado de culpas não pode conceber nem anelar uma elevação que lhe seria insuportável. Assim como as diferentes espécies de seres vivem, cada qual, na esfera que lhes é própria, assim os Espíritos, segundo o grau de adiantamento, movem-se no meio adequado às suas faculdades e não concebem outro senão quando o progresso (instrumento da lenta transformação das almas) lhes subtrai as baixas tendências, despojando-os da crisálida do pecado, a fim de que possam adejar antes de se lançarem, rápidos quais flechas, para o fim único e almejado
 
 — Deus! Ah! rastejo ainda, mas não odeio mais, e concebo a indizível felicidade do amor divino. Orai, pois, sempre por mim, que espero e aguardo.” Na comunicação a seguir, Claire fala de seu marido, que muito a martirizara, e da posição em que ele se encontra no mundo espiritual. Esse quadro que ela por si não pôde completar, foi concluído pelo guia espiritual do médium.
 
-##### 07
+###### 07
 
 Venho procurar-te, a ti, que por tanto tempo me deixas no esquecimento. Tenho, porém, adquirido paciência e não mais me desespero. Queres saber qual a situação do pobre Félix? Erra nas trevas entregue à profunda nudez de sua alma. Superficial e leviano, aviltado pelo sensualismo, nunca soube o que eram o amor e a amizade. Nem mesmo a paixão esclareceu suas sombrias luzes. Seu estado presente é comparável ao da criança inapta para as funções da vida e privada de todo o amparo. Félix vaga aterrorizado nesse mundo estranho onde tudo fulgura ao brilho desse Deus por ele negado.
 
-##### 08
+###### 08
 
 O guia do médium
 
@@ -3509,103 +3524,103 @@ Ainda sobre este ponto obtivemos a seguinte explicação: “Por sua natureza, p
 
 — O encarnado, em virtude da própria natureza, está numa luta incessante devido aos elementos contrários de que se compõe e que devem conduzi-lo ao seu fim providencial, reagindo um sobre o outro. A matéria facilmente sofre o predomínio de um fluido exterior; se a alma, com todo o poder moral de que é capaz, não reagir, deixar-se-á dominar pelo intermediário do seu corpo, seguindo o impulso das influências perversas que o rodeiam, e isso com facilidade tanto maior quanto os invisíveis, que a subjugavam, atacam de preferência os pontos mais vulneráveis, as tendências para a paixão dominante. Outro tanto se não dá com o desencarnado, que, posto sob a influência semimaterial, não se compara por seu estado ao encarnado. O respeito humano, tão preponderante no homem, não existe para aquele, e só este pensamento é bastante para compeli-lo a não resistir longamente às razões que o próprio interesse lhe aponta como boas. Ele pode lutar, e o faz mesmo geralmente com mais violência do que o encarnado, visto ser mais livre. Nenhuma cogitação de interesse material, de posição social se lhe antepõe ao raciocínio. Luta por amor do mal, porém cedo adquire a convicção da sua impotência, em face da superioridade moral que o domina; a perspectiva de melhor futuro lhe é mais acessível, por se reconhecer na mesma vida em que se deve completar esse futuro; e essa visão não se turva no turbilhão dos prazeres humanos. Em uma palavra, a independência da carne é que facilita a conversão, principalmente quando se tem adquirido um tal ou qual desenvolvimento pelas provações cumpridas. Um Espírito inteiramente primitivo seria pouco acessível ao raciocínio, o que aliás não se dá com o que já tem experiência da vida. Ademais, no encarnado como no desencarnado, é sobre a alma, é sobre o sentimento que se faz mister atuar. Toda ação material pode sustar momentaneamente os sofrimentos do homem vicioso, mas o que ela não pode é destruir o princípio mórbido residente na alma; todo e qualquer ato que não vise aperfeiçoar a alma, não poderá desviá-la do mal. São Luís
 
-### 2-05 🗂️
+### 2-05. 🗂️ Suicidas {#ceu-2-05}
 
 #### 01. O suicida da Samaritana
 
 A 7 de abril de 1858, pelas 7 horas da noite, um homem de cerca de 50 anos e decentemente trajado apresentou-se no estabelecimento da Samaritana, de Paris, e mandou que lhe preparassem um banho. Decorridas cerca de 2 horas, o criado de serviço, admirado pelo silêncio do freguês, resolveu entrar no seu gabinete, a fim de verificar o que ocorria. Deparou-se-lhe então um quadro horroroso: o infeliz degolara-se com uma navalha e todo o seu sangue misturava-se à água da banheira. E como a identidade do suicida não pôde ser averiguada, foi o cadáver removido para o necrotério.
 
-##### 01
+###### 01
 
 Evocação. (Resposta do guia do médium.)
 
 — Esperai, ele aí está.
 
-##### 02
+###### 02
 
 Onde vos achais hoje?
 
 👻 ▸ Não sei... dizei-mo.
 
-##### 03
+###### 03
 
 Estais numa reunião de pessoas que estudam o Espiritismo e que são benévolas para convosco.
 
 👻 ▸ Dizei-me se vivo, pois este ambiente me sufoca. Sua alma, posto que separada do corpo, está ainda completamente imersa no que poderia chamar-se o turbilhão da matéria corporal; vivazes lhe são as ideias terrenas, a ponto de se acreditar encarnado.
 
-##### 04
+###### 04
 
 Quem vos impeliu a vir aqui?
 
 👻 ▸ Sinto-me aliviado.
 
-##### 05
+###### 05
 
 Qual o motivo que vos arrastou ao suicídio?
 
 👻 ▸ Morto? Eu? Não... que habito o meu corpo... Não sabeis como sofro! Sufoco-me... Oxalá que mão compassiva me aniquilasse de vez!
 
-##### 06
+###### 06
 
 Por que não deixastes indícios que pudessem tornar-vos reconhecível?
 
 👻 ▸ Estou abandonado; fugi ao sofrimento para entregar-me à tortura.
 
-##### 07
+###### 07
 
 Tendes ainda os mesmos motivos para ficar incógnito?
 
 👻 ▸ Sim; não revolvais com ferro candente a ferida que sangra.
 
-##### 08
+###### 08
 
 Podereis dar-nos o vosso nome, idade, profissão e domicílio?
 
 👻 ▸ Absolutamente não.
 
-##### 09
+###### 09
 
 Tínheis família, mulher, filhos?
 
 👻 ▸ Era um desprezado, ninguém me amava.
 
-##### 10
+###### 10
 
 E que fizestes para ser assim repudiado?
 
 👻 ▸ Quantos o são como eu! Um homem pode viver abandonado no seio da família, quando ninguém o preza.
 
-##### 11
+###### 11
 
 No momento de vos suicidardes não experimentastes qualquer hesitação?
 
 👻 ▸ Ansiava pela morte... Esperava repousar
 
-##### 12
+###### 12
 
 Como é que a ideia do futuro não vos fez renunciar a um tal projeto?
 
 👻 ▸ Não acreditava nele, absolutamente. Era um desiludido. O futuro é a esperança.
 
-##### 13
+###### 13
 
 Que reflexões vos ocorreram ao sentirdes a extinção da vida?
 
 👻 ▸ Não refleti, senti... Mas a vida não se me extinguiu... minha alma está ligada ao corpo... Sinto os vermes a corroer-me.
 
-##### 14
+###### 14
 
 Que sensação experimentastes no momento decisivo da morte?
 
 👻 ▸ Pois ela se completou?
 
-##### 15
+###### 15
 
 Foi doloroso o momento em que a vida se vos extinguiu?
 
 👻 ▸ Menos doloroso que depois. Só o corpo sofreu.
 
-##### 16
+###### 16
 
 (Ao Espírito São Luís.)
 
@@ -3613,13 +3628,13 @@ Foi doloroso o momento em que a vida se vos extinguiu?
 
 👻 ▸ O Espírito descarregou o fardo que o oprimia; ele se ressentia da volúpia da dor.
 
-##### 17
+###### 17
 
 Tal estado sobrevém sempre ao suicídio?
 
 👻 ▸ Sim. O Espírito do suicida fica ligado ao corpo até o termo dessa vida. A morte natural é a libertação da vida: o suicídio a rompe por completo.
 
-##### 18
+###### 18
 
 Dar-se-á o mesmo nas mortes acidentais, embora involuntárias, mas que abreviam a existência?
 
@@ -3637,59 +3652,59 @@ No começo da guerra da Itália, em 1859, um negociante de Paris, pai de famíli
 
 👻 ▸ Sim, e ele ganhará com isso, porque ficará mais aliviado.
 
-##### 01
+###### 01
 
 Evocação.
 
 👻 ▸ Oh! obrigado! Sofro muito, mas... é justo. Contudo, Ele me perdoará. O Espírito escreve com grande dificuldade; os caracteres são irregulares e malformados; depois da palavra mas, ele para, e, procurando em vão escrever, apenas consegue fazer alguns traços indecifráveis e pontos. É evidente que foi a palavra Deus que ele não conseguiu escrever.
 
-##### 02
+###### 02
 
 Tende a bondade de preencher a lacuna com a palavra que deixastes de escrever.
 
 👻 ▸ Sou indigno de escrevê-la.
 
-##### 03
+###### 03
 
 Dissestes que sofreis; compreendeis que fizestes muito mal em vos suicidar; mas o motivo que vos acarretou esse ato não provocou qualquer indulgência?
 
 👻 ▸ A punição será menos longa, mas nem por isso a ação deixa de ser má.
 
-##### 04
+###### 04
 
 Podereis descrever-nos essa punição?
 
 👻 ▸ Sofro duplamente, na alma e no corpo; e sofro neste último, conquanto o não possua, como sofre o operado a falta de um membro amputado.
 
-##### 05
+###### 05
 
 A realização do vosso suicídio teve por causa unicamente a isenção do vosso filho, ou concorreram para ele outras razões?
 
 👻 ▸ Fui completamente inspirado pelo amor paterno, porém, mal inspirado. Em atenção a isso, a minha pena será abreviada
 
-##### 06
+###### 06
 
 Podeis precisar a duração dos vossos padecimentos?
 
 👻 ▸ Não lhes entrevejo o termo, mas tenho certeza de que ele existe, o que é um alívio para mim.
 
-##### 07
+###### 07
 
 Há pouco não vos foi possível escrever a palavra Deus, e no entanto temos visto Espíritos muito sofredores fazê-lo: será isso uma consequência da vossa punição?
 
 👻 ▸ Poderei fazê-lo com grandes esforços de arrependimento.
 
-##### 08
+###### 08
 
 Pois então fazei esses esforços para escrevê-lo, porque estamos certos de que sereis aliviado. (O Espírito acabou por traçar esta frase com caracteres grossos, irregulares e trêmulos: Deus é muito bom.)
 
-##### 09
+###### 09
 
 Estamos satisfeitos pela boa vontade com que correspondestes à nossa evocação, e vamos pedir a Deus para que estenda sobre vós a sua misericórdia.
 
 👻 ▸ Sim, obrigado.
 
-##### 10
+###### 10
 
 (A São Luís.)
 
@@ -3747,7 +3762,7 @@ Evocação da mãe.
 
 É de um jornal de 13 de junho de 1862 a seguinte narrativa: “A jovem Palmyre, modista, residindo com seus pais, era dotada de aparência encantadora e de caráter afável. Por isso, era, também, muito requestada a sua mão. Entre todos os pretendentes ela escolheu o Sr. B., que lhe retribuía essa preferência com a mais viva das paixões. Não obstante essa afeição, por deferência aos pais, Palmyre consentiu em desposar o Sr. D., cuja posição social se afigurava mais vantajosa àqueles do que a do seu rival. Os Srs. B. e D. eram amigos íntimos, e posto não houvesse entre eles quaisquer relações de interesse, jamais deixaram de se avistar. O amor recíproco de B. e Palmyre, que passou a ser a Sra. D., de modo algum se atenuara, e como se esforçassem ambos por contê-lo, aumentava-se ele de intensidade na razão direta daquele esforço. Visando extingui-lo, B. tomou o partido de se casar, e desposou, de fato, uma jovem possuidora de eminentes predicados, fazendo o possível por amá-la. Cedo, contudo, percebeu que esse meio heroico lhe fora inútil à cura. Decorreram quatro anos sem que B. ou a senhora D. faltassem aos seus deveres. O que padeceram, só eles o sabem, pois D., que estimava deveras o seu amigo, atraía-o sempre ao seu lar, insistindo para que nele ficasse quando tentava retirar-se. Aproximados um dia por circunstâncias fortuitas e independentes da própria vontade, os dois amantes deram-se ciência do mal que os torturava e acharam que a morte era, no caso, o único remédio que se lhes deparava. Assentaram que se suicidariam juntamente no dia seguinte, em que o Sr. D. estaria ausente de casa mais prolongadamente. Feitos os últimos aprestos, escreveram longa e tocante missiva, explicando a causa da sua resolução: para não prevaricarem. Essa carta terminava pedindo que lhes perdoassem e, mais, para serem enterrados na mesma sepultura. De regresso a casa, o Sr. D. encontrou-os asfixiados. Respeitou-lhes os últimos desejos, e, assim, não consentiu fossem os corpos separados no cemitério.” Sendo esta ocorrência submetida à Sociedade de Paris, como assunto de estudo, um Espírito respondeu: “Os dois amantes suicidas não vos podem responder ainda. Vejo-os imersos na perturbação e aterrorizados pela perspectiva da eternidade. As consequências morais da falta cometida lhes pesarão por migrações sucessivas, durante as quais suas almas separadas se buscarão incessantemente, sujeitas ao duplo suplício de se pressentirem e desejarem em vão. Completa a expiação, ficarão reunidos para sempre, no seio do amor eterno. Dentro de oito dias, na próxima sessão, podereis evocá-los. Eles aqui virão sem se avistarem, porque profundas trevas os separarão por muito tempo.”
 
-##### 01
+###### 01
 
 Evocação da suicida.
 
@@ -3755,13 +3770,13 @@ Evocação da suicida.
 
 👻 ▸ Nada vejo, nem mesmo os Espíritos que comigo erram neste mundo. Que noite! Que noite! E que véu espesso me circunda a fronte!
 
-##### 02
+###### 02
 
 Que sensação experimentastes ao despertar no outro mundo?
 
 👻 ▸ Singular! Tinha frio e escaldava. Tinha gelo nas veias e fogo na fronte! Coisa estranha, conjunto inaudito! Fogo e gelo pareciam consumir-me! E eu julgava que ia sucumbir uma segunda vez!
 
-##### 03
+###### 03
 
 Experimentais qualquer dor física?
 
@@ -3771,37 +3786,37 @@ Experimentais qualquer dor física?
 
 👻 ▸ Aqui, no meu cérebro; aqui, no meu coração... É provável que, visível, o Espírito levasse a mão à cabeça e ao coração.
 
-##### 04
+###### 04
 
 Acreditais na perenidade dessa situação?
 
 👻 ▸ Oh! sempre! sempre! Ouço às vezes risos infernais, vozes horrendas que bradam: sempre assim!
 
-##### 05
+###### 05
 
 Pois bem, podemos com segurança dizer-vos que nem sempre assim será. Pelo arrependimento obtereis o perdão.
 
 👻 ▸ Que dizeis? Não ouço.
 
-##### 06
+###### 06
 
 Repetimos que os vossos sofrimentos terão um termo, que os podereis abreviar pelo arrependimento, sendo-nos possível auxiliar-vos com a prece.
 
 👻 ▸ Não ouvi além de sons confusos, mais que uma palavra. Essa palavra é: graça! Seria efetivamente graça o que pronunciastes? Falastes em graça, mas sem dúvida o fizestes à alma que por aqui passou junto de mim, pobre criança que chora e espera. Uma senhora, presente à reunião, declarou que fizera fervorosa prece pela infeliz, o que sem dúvida a comoveu, e que de fato, mentalmente, havia implorado em seu favor a graça de Deus.
 
-##### 07
+###### 07
 
 Dissestes estar em trevas e nada ouvir?
 
 👻 ▸ É-me permitido ouvir algumas das vossas palavras, mas o que vejo é apenas um crepe negro, no qual de vez em quando se desenha um semblante que chora.
 
-##### 08
+###### 08
 
 Mas uma vez que ele aqui está por não o avistardes, nem sequer vos apercebeis da presença do vosso amante?
 
 👻 ▸ Ah! não me faleis dele. Devo esquecê-lo presentemente para que do crepe se extinga a imagem retratada.
 
-##### 09
+###### 09
 
 Que imagem é essa?
 
@@ -3817,7 +3832,7 @@ Havia sete para oito meses que Luís G., oficial sapateiro, namorava uma jovem, 
 
 (Sociedade Espírita de Paris, agosto de 1858.)
 
-##### 01
+###### 01
 
 (Ao Espírito São Luís.)
 
@@ -3825,25 +3840,25 @@ Havia sete para oito meses que Luís G., oficial sapateiro, namorava uma jovem, 
 
 👻 ▸ Sim, porque o não amava.
 
-##### 02
+###### 02
 
 Então para prevenir a desgraça deveria desposá-lo a despeito da repugnância que lhe causava?
 
 👻 ▸ Ela procurava uma ocasião de descartar-se, e assim fez em começo da ligação o que viria a fazer mais tarde.
 
-##### 03
+###### 03
 
 Neste caso, a sua responsabilidade decorre de haver alimentado sentimentos dos quais não participava e que deram em resultado o suicídio do moço?
 
 👻 ▸ Sim, exatamente.
 
-##### 04
+###### 04
 
 Mas então essa responsabilidade deve ser proporcional à falta, e não tão grande como se consciente e voluntariamente houvesse provocado o suicídio...
 
 👻 ▸ É evidente.
 
-##### 05
+###### 05
 
 E o suicídio de Luís tem desculpa pelo desvario que lhe acarretou a obstinação de Victorine?
 
@@ -3851,49 +3866,49 @@ E o suicídio de Luís tem desculpa pelo desvario que lhe acarretou a obstinaç�
 
 Ao Espírito Luís G., evocado mais tarde, foram feitas as seguintes perguntas:
 
-##### 01
+###### 01
 
 Que julgais da ação que praticastes?
 
 👻 ▸ Victorine era uma ingrata, e eu fiz mal em suicidar-me por sua causa, pois ela não o merecia.
 
-##### 02
+###### 02
 
 Então não vos amava?
 
 👻 ▸ Não. A princípio iludia-se, mas a desavença que tivemos abriu-lhe os olhos, e ela até se deu por feliz achando um pretexto para se desembaraçar de mim.
 
-##### 03
+###### 03
 
 E o vosso amor por ela era sincero?
 
 👻 ▸ Paixão somente, creia; pois se o amor fosse puro, eu me teria poupado de lhe causar um desgosto.
 
-##### 04
+###### 04
 
 E se acaso ela adivinhasse a vossa intenção persistiria na sua recusa?
 
 👻 ▸ Não sei, penso mesmo que não, porque ela não é má. Mas, ainda assim, não seria feliz, e melhor foi para ela que as coisas se passassem de tal forma.
 
-##### 05
+###### 05
 
 Batendo-lhe à porta, tínheis já a ideia de vos matar, caso se desse a recusa?
 
 👻 ▸ Não, em tal não pensava, porque também não contava com a sua obstinação. Foi somente à vista desta que perdi a razão.
 
-##### 06
+###### 06
 
 Parece que não deplorais o suicídio senão pelo fato de Victorine o não merecer... É realmente o vosso único pesar?
 
 👻 ▸ Neste momento, sim; estou ainda perturbado, afigura-se-me estar ainda à porta, conquanto também experimente outra sensação que não posso definir.
 
-##### 07
+###### 07
 
 Chegareis a compreendê-la mais tarde?
 
 👻 ▸ Sim, quando estiver livre desta perturbação. Fiz mal, deveria resignar-me... Fui fraco e sofro as consequências da minha fraqueza. A paixão cega o homem a ponto de praticar loucuras, e infelizmente ele só o compreende bastante tarde.
 
-##### 08
+###### 08
 
 Dizeis que tendes um desgosto... qual é?
 
@@ -3903,103 +3918,103 @@ Dizeis que tendes um desgosto... qual é?
 
 O Sr. J.-B. D. era um homem instruído, mas em extremo saturado de ideias materialistas, não acreditando em Deus nem na existência da alma. A pedido de um parente, foi evocado dois anos depois de desencarnado, na Sociedade Espírita de Paris.
 
-##### 01
+###### 01
 
 Evocação.
 
 👻 ▸ Sofro. Sou um réprobo.
 
-##### 02
+###### 02
 
 Fomos levados a evocar-vos em nome de parentes que, como tais, desejam conhecer da vossa sorte. Podereis dizer-nos se esta nossa evocação vos é penosa ou agradável?
 
 👻 ▸ Penosa.
 
-##### 03
+###### 03
 
 A vossa morte foi voluntária?
 
 👻 ▸ Sim. O Espírito escreve com extrema dificuldade. A letra é grossa, irregular, convulsa e quase ininteligível. Ao terminar a escrita encoleriza-se, quebra o lápis e rasga o papel.
 
-##### 04
+###### 04
 
 Tende calma, que nós todos pediremos a Deus por vós.
 
 👻 ▸ Sou forçado a crer nesse Deus.
 
-##### 05
+###### 05
 
 Que motivo poderia ter-vos levado ao suicídio?
 
 👻 ▸ O tédio de uma vida sem esperança. Concebe-se o suicídio quando a vida é sem esperança; procura-se então fugir-lhe a qualquer preço. Com o Espiritismo, ao contrário, a esperança se fortalece porque o futuro se nos desdobra. O suicídio deixa de ser objetivo, uma vez reconhecido que apenas se isenta a gente do mal para arrostar com um mal cem vezes pior. Eis por que o Espiritismo tem sequestrado muita gente a uma morte voluntária. Grandemente culpados são os que se esforçam por acreditar, com sofismas científicos e a pretexto de uma falsa razão, nessa ideia desesperadora, fonte de tantos crimes e males, de que tudo acaba com a vida. Esses serão responsáveis não só pelos próprios erros, como igualmente por todos os males a que os mesmos derem causa.
 
-##### 06
+###### 06
 
 Quisestes escapar às vicissitudes da vida... Adiantastes alguma coisa? Sois agora mais feliz?
 
 👻 ▸ Por que não existe o nada?
 
-##### 07
+###### 07
 
 Tende a bondade de nos descrever do melhor modo possível a vossa atual situação.
 
 👻 ▸ Sofro pelo constrangimento em que estou de crer em tudo quanto negava. Meu Espírito está como num braseiro, horrivelmente atormentado.
 
-##### 08
+###### 08
 
 Donde provinham as vossas ideias materialistas de outrora?
 
 👻 ▸ Em anterior encarnação eu fora mau e por isso condenei-me na seguinte aos tormentos da incerteza, e assim foi que me suicidei. Aqui há todo um corolário de ideias. Muitas vezes nos perguntamos como pode haver materialistas quando, tendo eles passado pelo mundo espiritual, deveriam ter do mesmo a intuição; ora, é precisamente essa intuição que é recusada a alguns Espíritos que, conservando o orgulho, não se arrependeram das suas faltas. Para esses tais, a prova consiste na aquisição, durante a vida corporal e à custa do próprio raciocínio, da prova da existência de Deus e da vida futura que têm, por assim dizer, incessantemente sob os olhos. Muitas vezes, porém, a presunção de nada admitir, acima de si, os empolga e absorve. Assim, sofrem eles a pena até que, domado o orgulho, se rendem à evidência.
 
-##### 09
+###### 09
 
 Quando vos afogastes, que ideias tínheis das consequências? Que reflexões fizestes nesse momento?
 
 👻 ▸ Nenhuma, pois tudo era o nada para mim. Depois é que vi que, tendo cumprido toda a sentença, teria de sofrer mais ainda.
 
-##### 10
+###### 10
 
 Estais bem convencido agora da existência de Deus, da alma e da vida futura?
 
 👻 ▸ Ah! Tudo isso muito me atormenta!
 
-##### 11
+###### 11
 
 Tornastes a ver vosso irmão?
 
 👻 ▸ Oh! não.
 
-##### 12
+###### 12
 
 E por que não?
 
 👻 ▸ Para que confundir os nossos desesperos? Exila-se a gente na desgraça e na ventura se reúne, eis o que é.
 
-##### 13
+###### 13
 
 Incomodar-vos-ia a presença de vosso irmão, que poderíamos atrair aí para junto de vós?
 
 👻 ▸ Não o façais, que o não mereço.
 
-##### 14
+###### 14
 
 Por que vos opondes?
 
 👻 ▸ Porque ele também não é feliz.
 
-##### 15
+###### 15
 
 Receais a sua presença, e no entanto ela só poderia ser benéfica para vós.
 
 👻 ▸ Não; mais tarde...
 
-##### 16
+###### 16
 
 Tendes algum recado para os vossos parentes?
 
 👻 ▸ Que orem por mim.
 
-##### 17
+###### 17
 
 Parece que na roda das vossas relações há quem partilhe das vossas opiniões. Quereis que lhes digamos algo a respeito?
 
@@ -4007,31 +4022,31 @@ Parece que na roda das vossas relações há quem partilhe das vossas opiniões.
 
 (Evocação de um irmão do precedente, que professava as mesmas teorias, mas que não se suicidou. Posto que também infeliz, este se apresenta mais calmo; a sua escrita é clara e legível.)
 
-##### 18
+###### 18
 
 Evocação.
 
 👻 ▸ Possa o quadro dos nossos sofrimentos ser útil lição, persuadindo-vos da realidade de uma outra existência, na qual se expiam as faltas oriundas da incredulidade.
 
-##### 19
+###### 19
 
 Vós, e vosso irmão que acabamos de evocar, vos vedes reciprocamente?
 
 👻 ▸ Não; ele me foge. Poder-se-ia perguntar como é que os Espíritos se podem evitar no mundo espiritual, uma vez que aí não existem obstáculos materiais nem refúgios impenetráveis à vista. Tudo é, porém, relativo nesse mundo e conforme a natureza fluídica dos seres que o habitam. Só os Espíritos superiores têm percepções indefinidas, que nos inferiores são limitadas. Para estes, os obstáculos fluídicos equivalem a obstáculos materiais. Os Espíritos furtam-se às vistas dos semelhantes por efeito volitivo, que atua sobre o envoltório perispiritual e fluidos ambientes. A Providência, porém, qual mãe, por todos os seus filhos vela, e por intermédio dos mesmos, individualmente, lhes concede ou nega essa faculdade, conforme as suas disposições morais, o que constitui, conforme as circunstâncias, um castigo ou uma recompensa.
 
-##### 20
+###### 20
 
 Estais mais calmo do que vosso irmão. Podereis dar-nos uma descrição mais precisa dos vossos sofrimentos?
 
 👻 ▸ Não sofreis aí na Terra no vosso orgulho, no vosso amor-próprio, quando obrigados a reconhecer os vossos erros? “O vosso Espírito não se revolta com a ideia de vos humilhardes a quem vos demonstre o vosso erro? Pois bem! Julgai quanto deve sofrer o Espírito que durante toda a sua vida se persuadiu de que nada existia além dele, e que sobre a de todos prevalecia sempre a sua razão. Encontrando-se de súbito em face da verdade imponente, esse Espírito sente-se aniquilado, humilhado. A isso vem ainda juntar-se o remorso de haver por tanto tempo esquecido a existência de um Deus tão bom, tão indulgente. A situação é insuportável; não há calma nem repouso; não se encontra um pouco de tranquilidade senão no momento em que a graça divina, isto é, o amor de Deus, nos toca, pois o orgulho de tal modo se apossa de nós, que de todo nos embota, a ponto de ser preciso ainda muito tempo para que nos despojemos completamente dessa roupagem fatal. Só a prece dos nossos irmãos pode ajudar-nos nesses transes.”
 
-##### 21
+###### 21
 
 Quereis falar dos irmãos encarnados, ou dos Espíritos?
 
 👻 ▸ De uns como de outros.
 
-##### 22
+###### 22
 
 Enquanto nos entretínhamos com o vosso irmão, uma das pessoas aqui presentes orava por ele, essa prece lhe foi proveitosa?
 
@@ -4067,7 +4082,7 @@ Evocação.
 
 👻 ▸ Oh! obrigado! Oh! obrigado por tão boas exortações. Delas tenho tanto maior necessidade, quanto sou mais desgraçado do que demonstrava. Vou aproveitá-las, garanto, no preparo da próxima encarnação, durante a qual farei todo o possível por não sucumbir. Já me custa suportar o meio ignóbil do meu exílio. Félicien
 
-### 2-06 🗂️
+### 2-06. 🗂️ Criminosos arrependidos {#ceu-2-06}
 
 Era o caixa de uma casa bancária do Canadá e suicidou-se a 28 de fevereiro de 1865. Um dos nossos correspondentes, médico e farmacêutico residente na mesma cidade, deu-nos dele as informações que se seguem: “Conhecia-o, havia perto de 20 anos, como homem pacato e chefe de numerosa família. De tempos a certa parte imaginou ter comprado um tóxico na minha farmácia, servindo-se dele para envenenar alguém. Muitas vezes vinha suplicar-me para lhe dizer a época de tal compra, tomado então de alucinações terríveis. Perdia o sono, lamentava-se, batia no peito. A família vivia em constante ansiedade das 4 da tarde às 9 da manhã, hora esta em que se dirigia para a casa bancária, onde, aliás, escriturava os seus livros com muita regularidade, sem que jamais cometesse um só erro. Habitualmente dizia sentir dentro de si um ente que o fazia desempenhar com acerto e ordem a sua contabilidade. Quando se afigurava convencido da extravagância das suas ideias, exclamava:
 
@@ -4079,13 +4094,13 @@ Evocação.
 
 👻 ▸ Que pretendeis de mim? Sujeitar-me a um interrogatório? É inútil, tudo confessarei.
 
-##### 02
+###### 02
 
 Bem longe de nós o pensamento de vos afligir com perguntas indiscretas; desejamos saber apenas qual a vossa posição nesse mundo, bem como se poderemos ser-vos úteis...
 
 👻 ▸ Ah! Se for possível, ser-vos-ei extremamente grato. Tenho horror ao meu crime e sou muito infeliz!
 
-##### 03
+###### 03
 
 Temos a esperança de que as nossas preces atenuarão as vossas penas. Afigura-se-nos que vos achais em boas condições, visto como o arrependimento já vos assedia o coração
 
@@ -4093,13 +4108,13 @@ Temos a esperança de que as nossas preces atenuarão as vossas penas. Afigura-s
 
 👻 ▸ Deixai primeiro que vos agradeça por esta esperança que fizestes raiar no meu coração. Oh! há já bastante tempo que vivia numa cidade banhada pelo Mediterrâneo. Amava, então, uma bela moça que me correspondia; mas, pelo fato de ser pobre, fui repelido pela família. A minha eleita participou-me que desposaria o filho de um negociante cujas transações se estendiam para além de dois mares, e assim fui eu desprezado. Louco de dor, resolvi acabar com a vida, não sem deixar de assassinar o detestado rival, saciando o meu desejo de vingança. Repugnando-me os meios violentos, horrorizava-me a perpetração do crime, porém o meu ciúme a tudo sobrepujou. Na véspera do casamento, morria o meu rival envenenado, pelo meio que me pareceu mais fácil. Eis como se explicam as reminiscências do passado... Sim, eu já reencarnei, e preciso é que reencarne ainda... Ó meu Deus, tende piedade das minhas lágrimas e da minha fraqueza!
 
-##### 04
+###### 04
 
 Deploramos essa infelicidade que retardou vosso progresso e sinceramente vos lamentamos; dado, porém, que vos arrependais, Deus se compadecerá de vós. Dizei-nos se chegastes a executar o vosso projeto de suicídio...
 
 👻 ▸ Não; e confesso, para vergonha minha, que a esperança se me desabrochou novamente no coração, com o desejo de me aproveitar do crime já cometido. Traíram-me, porém, os remorsos e acabei por expiar, no último suplício, aquele meu desvario: enforquei-me.
 
-##### 05
+###### 05
 
 Na vossa última encarnação tínheis a consciência do mal praticado na penúltima?
 
@@ -4109,13 +4124,13 @@ Na vossa última encarnação tínheis a consciência do mal praticado na penúl
 
 — que atravessei calmo e tímido. Tinha em mim como que vaga intuição da minha inata fraqueza, bem como da culpa anterior, cuja lembrança em estado latente conservara. “Mas um Espírito obsessor e vingativo, que não era outro senão o pai da minha vítima, facilmente se apoderou de mim e fez reviver no meu coração, como em mágico espelho, as lembranças do passado. “Alternadamente influenciado por ele e por meu guia, que me protegia, eu era o envenenador e ao mesmo tempo o pai de família angariando pelo trabalho o sustento dos filhos. Fascinado por esse demônio obsessor, deixei-me arrastar para o suicídio. Sou muito culpado realmente, porém menos do que se deliberasse por mim mesmo. Os suicidas da minha categoria, incapazes por sua fraqueza de resistir aos obsessores, são menos culpados e menos punidos do que os que abandonam a vida por efeito exclusivo da própria vontade. “Orai comigo para que o Espírito que tão fatalmente me obsidiou renuncie à sua vingança, e orai por mim para que adquira a energia, a força necessária para não ceder à prova do suicídio voluntário, prova a que serei submetido, dizem-me, na próxima encarnação.”
 
-##### 06
+###### 06
 
 (Ao guia do médium.) Um Espírito obsessor pode, realmente, levar o obsidiado ao suicídio?
 
 👻 ▸ Certamente, pois a obsessão que, de si mesma, é já um gênero de provação, pode revestir todas as formas. Mas isso não quer dizer isenção de culpabilidade. O homem dispõe sempre do seu livre-arbítrio e, conseguintemente, está em si o ceder ou resistir às sugestões a que o submetem. Assim é que, sucumbindo, o faz sempre por assentimento da sua vontade. Quanto ao mais, o Espírito tem razão dizendo que a ação instigada por outrem é menos culposa e repreensível do que quando voluntariamente cometida. Contudo, nem por isso se inocenta de culpa, visto como, afastando-se do caminho reto, mostra que o bem ainda não está vinculado ao seu coração.
 
-##### 07
+###### 07
 
 Como, apesar da prece e do arrependimento terem libertado esse Espírito da visão tormentosa da sua vítima, pôde ele ser atingido pela vingança de um obsessor na última encarnação?
 
@@ -4129,67 +4144,67 @@ A 3 de janeiro de 1857, Mons. Sibour, arcebispo de Paris, ao sair da Igreja de S
 
 Evocado no mesmo dia da execução, deu as seguintes respostas:
 
-##### 01
+###### 01
 
 Evocação.
 
 👻 ▸ Ainda estou preso ao corpo.
 
-##### 02
+###### 02
 
 Então a vossa alma não está inteiramente liberta?
 
 👻 ▸ Não... tenho medo... não sei... Esperai que torne a mim. Não estou morto, não é assim?
 
-##### 03
+###### 03
 
 Arrependei-vos do que fizestes?
 
 👻 ▸ Fiz mal em matar, mas a isso fui levado pelo meu caráter, que não podia tolerar humilhações... Evocar-me-eis de outra vez.
 
-##### 04
+###### 04
 
 Por que vos retirais?
 
 👻 ▸ Se o visse, muito me atemorizaria, pelo receio de que me fizesse outro tanto.
 
-##### 05
+###### 05
 
 Mas nada tendes a temer, uma vez que a vossa alma está separada do corpo. Renunciai a qualquer inquietação, que não é razoável agora.
 
 👻 ▸ Que quereis? Acaso sois senhor das vossas impressões? Quanto a mim, não sei onde estou... estou doido.
 
-##### 06
+###### 06
 
 Esforçai-vos por ser calmo.
 
 👻 ▸ Não posso, porque estou louco... Esperai, que vou invocar toda a minha lucidez.
 
-##### 07
+###### 07
 
 Se orásseis, talvez pudésseis concentrar os vossos pensamentos...
 
 👻 ▸ Intimido-me... não me atrevo a orar.
 
-##### 08
+###### 08
 
 Orai, que grande é a misericórdia de Deus! Oraremos convosco.
 
 👻 ▸ Sim; eu sempre acreditei na infinita misericórdia de Deus.
 
-##### 09
+###### 09
 
 Compreendeis melhor, agora, a vossa situação?
 
 👻 ▸ Ela é tão extraordinária que ainda não posso apreendê-la.
 
-##### 10
+###### 10
 
 Vedes a vossa vítima?
 
 👻 ▸ Parece-me ouvir uma voz semelhante à sua, dizendo-me: “Não mais te quero...” Será, talvez, um efeito da imaginação!... Estou doido, vo-lo asseguro, pois que vejo meu corpo de um lado e a cabeça de outro... afigurando-se-me, porém, que vivo no Espaço, entre a Terra e o que denominais céu... Sinto como o frio de uma faca prestes a decepar-me o pescoço, mas isso será talvez o terror da morte... Também me parece ver uma multidão de Espíritos a rodear-me, olhando-me compadecidos... E falam-me, mas não os compreendo.
 
-##### 11
+###### 11
 
 Entretanto, entre esses Espíritos há talvez um cuja presença vos humilha por causa do vosso crime.
 
@@ -4197,25 +4212,25 @@ Entretanto, entre esses Espíritos há talvez um cuja presença vos humilha por 
 
 — o daquele a quem matei.
 
-##### 12
+###### 12
 
 Lembrai-vos das anteriores existências?
 
 👻 ▸ Não; estou indeciso, acreditando sonhar... Ainda uma vez, preciso tornar a mim.
 
-##### 13
+###### 13
 
 (Três dias depois.) Reconhecei-vos melhor agora?
 
 👻 ▸ Já sei que não mais pertenço a esse mundo, e não o deploro. Pesa-me o que fiz, porém meu Espírito está mais livre. Sei a mais que há uma série de encarnações que nos dão conhecimentos úteis, a fim de nos tornarmos tão perfeitos quanto possível à criatura humana.
 
-##### 14
+###### 14
 
 Sois punido pelo crime que cometestes?
 
 👻 ▸ Sim; lamento o que fiz e isso faz-me sofrer.
 
-##### 15
+###### 15
 
 Qual a vossa punição?
 
@@ -4223,13 +4238,13 @@ Qual a vossa punição?
 
 — o que aliás não fiz.
 
-##### 16
+###### 16
 
 Qual a vossa sensação quando vos evocamos?
 
 👻 ▸ De prazer e de temor, por isso que não sou mau.
 
-##### 17
+###### 17
 
 Em que consiste tal prazer e tal temor?
 
@@ -4237,7 +4252,7 @@ Em que consiste tal prazer e tal temor?
 
 — um quê de vergonha por ter sido um assassino.
 
-##### 18
+###### 18
 
 Desejais reencarnar na Terra?
 
@@ -4253,25 +4268,25 @@ Desejais reencarnar na Terra?
 
 Condenado à pena última pelo júri de Aisne, e executado a 31 de dezembro de 1857. Evocado em 29 de janeiro de 1858.
 
-##### 01
+###### 01
 
 Evocação.
 
 👻 ▸ Aqui estou.
 
-##### 02
+###### 02
 
 Vendo-nos, que sensação experimentais?
 
 👻 ▸ A da vergonha.
 
-##### 03
+###### 03
 
 Retivestes os sentidos até o último momento?
 
 👻 ▸ Sim.
 
-##### 04
+###### 04
 
 Após a execução tivestes imediata noção dessa nova existência?
 
@@ -4281,13 +4296,13 @@ Após a execução tivestes imediata noção dessa nova existência?
 
 👻 ▸ Não; figurai-vos antes um remorso, uma grande dor moral.
 
-##### 05
+###### 05
 
 Mas a dor física do suplício, quem a experimentava: o corpo ou o Espírito?
 
 👻 ▸ A dor moral estava em meu Espírito, sentindo o corpo a dor física; mas o Espírito desligado também dela se ressentia.
 
-##### 06
+###### 06
 
 Vistes o corpo mutilado?
 
@@ -4297,31 +4312,31 @@ Vistes o corpo mutilado?
 
 👻 ▸ Eu sentia muito a minha dor, estava completamente ligado a ela.
 
-##### 07
+###### 07
 
 Será verdade que o corpo viva ainda alguns instantes depois da decapitação, tendo o supliciado a consciência das suas ideias?
 
 👻 ▸ O Espírito retira-se pouco a pouco; quanto mais o retêm os laços materiais, menos pronta é a separação.
 
-##### 08
+###### 08
 
 Dizem que se há notado a expressão da cólera e movimentos na fisionomia de certos supliciados, como se estes quisessem falar; será isso efeito de contrações nervosas, ou um ato da vontade?
 
 👻 ▸ Da vontade, visto como o Espírito não se tem desligado.
 
-##### 09
+###### 09
 
 Qual o primeiro sentimento que experimentastes ao penetrar na vossa nova existência?
 
 👻 ▸ Um sofrimento intolerável, uma espécie de remorso pungente cuja causa ignorava.
 
-##### 10
+###### 10
 
 Acaso vos achastes reunido aos vossos cúmplices concomitantemente supliciados?
 
 👻 ▸ Infelizmente, sim, por desgraça nossa, pois essa visão recíproca é um suplício contínuo, exprobrando-se uns aos outros os seus crimes.
 
-##### 11
+###### 11
 
 Tendes encontrado as vossas vítimas?
 
@@ -4335,25 +4350,25 @@ Tendes encontrado as vossas vítimas?
 
 👻 ▸ Piedade.
 
-##### 12
+###### 12
 
 Terão por sua vez o ódio e o desejo de vingança?
 
 👻 ▸ Não; os olhares que volvem lembram-me a minha expiação. Vós não podeis avaliar o suplício horrível de tudo devermos àqueles a quem odiamos.
 
-##### 13
+###### 13
 
 Lamentais a perda da vida corporal?
 
 👻 ▸ Apenas lamento os meus crimes. Se o fato ainda dependesse de mim, não mais sucumbiria.
 
-##### 14
+###### 14
 
 O pendor para o mal estava na vossa natureza, ou fostes ainda influenciado pelo meio em que vivestes?
 
 👻 ▸ Sendo eu um Espírito inferior, a tendência para o mal estava na minha própria natureza. Quis elevar-me rapidamente, mas pedi mais do que comportavam as minhas forças. Acreditando-me forte, escolhi uma rude prova e acabei por ceder às tentações do mal.
 
-##### 15
+###### 15
 
 Se tivésseis recebido sãos princípios de educação, ter-vos-íeis desviado da senda criminosa?
 
@@ -4363,7 +4378,7 @@ Se tivésseis recebido sãos princípios de educação, ter-vos-íeis desviado d
 
 👻 ▸ Um homem fraco é incapaz, tanto para o bem como para o mal. Poderia, talvez, corrigir na vida o mal inerente à minha natureza, mas nunca me elevar à prática do bem.
 
-##### 16
+###### 16
 
 Quando encarnado acreditáveis em Deus?
 
@@ -4381,13 +4396,13 @@ Quando encarnado acreditáveis em Deus?
 
 👻 ▸ Sinto-o e não o compreendo.
 
-##### 17
+###### 17
 
 Parece-vos justo o castigo que vos infligiram na Terra?
 
 👻 ▸ Sim.
 
-##### 18
+###### 18
 
 Esperais obter o perdão dos vossos crimes?
 
@@ -4397,7 +4412,7 @@ Esperais obter o perdão dos vossos crimes?
 
 👻 ▸ Por novas provações, conquanto me pareça que uma eternidade existe entre elas e mim.
 
-##### 19
+###### 19
 
 Onde vos achais agora?
 
@@ -4405,7 +4420,7 @@ Onde vos achais agora?
 
 - Perguntamos qual o lugar em que vos encontrais... –– R. Perto da médium.
 
-##### 20
+###### 20
 
 Uma vez que assim é, sob que forma vos veríamos, se tal nos fosse possível?
 
@@ -4415,13 +4430,13 @@ Uma vez que assim é, sob que forma vos veríamos, se tal nos fosse possível?
 
 👻 ▸ Não; deixai-me.
 
-##### 21
+###### 21
 
 Poderíeis dizer-nos como vos evadistes da prisão de Montdidier?
 
 👻 ▸ Nada mais sei... é tão grande o meu sofrimento, que apenas guardo a lembrança do crime... Deixai-me.
 
-##### 22
+###### 22
 
 Poderíamos concorrer para vos aliviar desse sofrimento?
 
@@ -4433,91 +4448,91 @@ Poderíamos concorrer para vos aliviar desse sofrimento?
 
 Um Espírito apresenta-se espontaneamente ao médium, sob o nome de Benoist, dizendo ter morrido em 1704 e padecer horríveis sofrimentos.
 
-##### 01
+###### 01
 
 Que fostes na Terra?
 
 👻 ▸ Frade sem fé.
 
-##### 02
+###### 02
 
 Foi a descrença a vossa única falta?
 
 👻 ▸ Só ela é bastante para acarretar outras.
 
-##### 03
+###### 03
 
 Podereis dar-nos alguns pormenores sobre a vossa vida? Ser-vos-á levada em boa conta a sinceridade da confissão.
 
 👻 ▸ Pobre e indolente, ordenei-me para ter uma posição, sem pendor aliás para tal encargo. Inteligente, consegui essa posição; influente, abusei do meu poderio; vicioso, corrompi aqueles que tinha por missão salvar; cruel, persegui os que me pareciam querer verberar os meus excessos; os pacíficos foram por mim inquietados. As torturas da fome de muitas vítimas eram extintas amiúde pela violência. Agora, sofro todas as torturas do inferno, ateando-me as vítimas o fogo que me devora. A luxúria e a fome insaciáveis perseguem-me; cresta-me a sede os lábios escaldantes, sem que uma gota lhes caia em refrigério. Os elementos todos se encarniçam contra mim. Orai pelo meu Espírito.
 
-##### 04
+###### 04
 
 As preces feitas pelos finados deverão ser-vos atribuídas como aos outros?
 
 👻 ▸ Acreditais que sejam edificantes, e no entanto elas têm para mim o valor das que eu simulava fazer. Não executei o meu trabalho, e, assim, recebo o salário.
 
-##### 05
+###### 05
 
 Nunca vos arrependestes?
 
 👻 ▸ Há muito tempo, mas o arrependimento só veio pelo sofrimento. E como fui surdo ao clamor de vítimas inocentes, o Senhor também é surdo aos meus clamores. Justiça!
 
-##### 06
+###### 06
 
 Reconheceis a Justiça do Senhor; pois bem, confiai na sua bondade e socorrei-vos do seu auxílio.
 
 👻 ▸ Os demônios berram mais do que eu; seus gritos sufocam-me; enchem-me a boca de pez fervente!... Eu o fiz, grande... (O Espírito não pôde escrever a palavra Deus.)
 
-##### 07
+###### 07
 
 Não estais suficientemente liberto das ideias terrenas de modo a compreender que essas torturas são todas morais?
 
 👻 ▸ Sofro-as... sinto-as... vejo os meus carrascos, todos têm uma cara conhecida, um nome que repercute em meu cérebro.
 
-##### 08
+###### 08
 
 Mas que poderia impelir-vos ao cometimento de tantas infâmias?
 
 👻 ▸ Os vícios de que me achava saturado, a brutalidade das paixões.
 
-##### 09
+###### 09
 
 Nunca implorastes a assistência dos bons Espíritos para vos ajudarem a sair dessa contingência?
 
 👻 ▸ Apenas vejo os demônios do inferno.
 
-##### 10
+###### 10
 
 E quando estáveis na Terra temíeis esses demônios?
 
 👻 ▸ Não, absolutamente, visto que só cria no nada. Os prazeres a todo o transe constituíam o meu culto. E, pois que lhes consagrei a vida, as divindades do inferno não mais me abandonaram, nem abandonarão!
 
-##### 11
+###### 11
 
 Então não lobrigais um termo para esses sofrimentos?
 
 👻 ▸ O infinito não tem termo.
 
-##### 12
+###### 12
 
 Mas Deus é infinito na sua misericórdia, e tudo pode ter um fim quando lhe aprouver.
 
 👻 ▸ Se Ele o quisesse!
 
-##### 13
+###### 13
 
 Por que vos viestes inscrever aqui?
 
 👻 ▸ Não sei mesmo como, mas eu queria falar e gritar para que me aliviassem.
 
-##### 14
+###### 14
 
 E esses demônios não vos inibem de escrever?
 
 👻 ▸ Não, mas conservam-se à minha frente, e esperam-me... Também por isso, eu desejaria não terminar.
 
-##### 15
+###### 15
 
 É a primeira vez que deste modo escreveis?
 
@@ -4531,37 +4546,37 @@ E esses demônios não vos inibem de escrever?
 
 👻 ▸ Não sei.
 
-##### 16
+###### 16
 
 Que sensações experimentastes ao acercar-vos de mim?
 
 👻 ▸ Um como entorpecimento dos meus terrores.
 
-##### 17
+###### 17
 
 Como vos apercebestes da vossa presença aqui?
 
 👻 ▸ Como quando se acorda.
 
-##### 18
+###### 18
 
 Como procedestes para comunicar comigo?
 
 👻 ▸ Não posso compreender, mas tu também não sentiste?
 
-##### 19
+###### 19
 
 Não se trata de mim, porém de vós... Procurai assegurar-vos do que fazeis enquanto escrevo.
 
 👻 ▸ És o meu pensamento, eis tudo.
 
-##### 20
+###### 20
 
 Não tivestes, pois, o desejo de me fazer escrever?
 
 👻 ▸ Não, sou eu quem escreve, e tu pensas por mim.
 
-##### 21
+###### 21
 
 Procurai assegurar-vos do vosso estado, porque os bons Espíritos que vos cercam vos ajudarão.
 
@@ -4571,13 +4586,13 @@ Procurai assegurar-vos do vosso estado, porque os bons Espíritos que vos cercam
 
 👻 ▸ Sinto que me auxiliam a atuar sobre ti... a tua mão obedece-me... não te toco, aliás, e seguro-te... Como? Não sei...
 
-##### 22
+###### 22
 
 Implorai a assistência dos vossos protetores. Vamos pedir ambos.
 
 👻 ▸ Queres deixar-me? Fica comigo, porque vão reapossar-se de mim. Eu to peço... Fica! Fica!...
 
-##### 23
+###### 23
 
 Não posso demorar-me por mais tempo. Voltai diariamente para orarmos juntos e os bons Espíritos vos auxiliarão.
 
@@ -4597,13 +4612,13 @@ Rumores e outras estranhas e várias manifestações ocorridas numa casinha pert
 
 👻 ▸ Por que não? pois não o são todos, este como os outros? É possível entretanto que haja nisso dificuldades, porém a permuta do bem pelo mal acabará por sensibilizá-lo. Orai em primeiro lugar, e, se o evocardes daqui a um mês, vereis a transformação operada. Evocado mais tarde, o Espírito mostrou-se mais brando e, pouco a pouco, submisso e arrependido. Explicações posteriores, ministradas não só por ele como por outros Espíritos, deram em resultado saber-se que, em 1608, habitando aquela casa, assassinara um irmão por motivos de terrível ciúme, degolando-o durante o sono. Alguns anos decorridos, também assassinara a esposa. O seu falecimento ocorreu em 1659, aos 80 anos, sem que houvesse respondido por estes crimes, que pouca atenção despertaram naquela época de balbúrdias. Depois da morte, jamais cessara de praticar o mal, provocando vários acidentes ocorridos na tal casa. Um médium vidente que assistiu à primeira evocação viu-o, no momento em que pretendiam forçá-lo a escrever, quando sacudiu violentamente o braço do médium. De medonha catadura, trajava uma camisa ensanguentada, tendo na mão um punhal.
 
-##### 01
+###### 01
 
 P. (A São Luís.) Tende a bondade de nos descrever o gênero de suplício deste Espírito.
 
 👻 ▸ É atroz, porque está condenado a habitar a casa em que cometeu o crime, sem poder fixar o pensamento noutra coisa que não no crime, tendo-o sempre ante os olhos e acreditando na eternidade de tal tortura. Está como no momento do próprio crime, porque qualquer outra recordação lhe foi retirada e interdita toda comunicação com qualquer outro Espírito. Sobre a Terra, só pode permanecer naquela casa, e no Espaço só lhe restam solidão e trevas.
 
-##### 02
+###### 02
 
 Haveria um meio de o desalojar dessa casa? Qual seria esse meio?
 
@@ -4611,61 +4626,61 @@ Haveria um meio de o desalojar dessa casa? Qual seria esse meio?
 
 — orar por eles. Contudo, é precisamente isso que se deixa de fazer muitas vezes, preferindo-se intimidá-los com exorcismos formulados que, aliás, muito os divertem.
 
-##### 03
+###### 03
 
 Insinuando às pessoas interessadas essa ideia de orar por ele, fazendo-o também nós, conseguiríamos desalojá-lo?
 
 👻 ▸ Sim, mas reparai que eu disse para orar, e não para mandar orar.
 
-##### 04
+###### 04
 
 Estando em tal situação há dois séculos, apreciará ele todo esse tempo como se fora encarnado, isto é, o tempo parecer-lhe-á tanto ou menos longo do que quando na Terra?
 
 👻 ▸ Mais longo: o sono não existe para ele.
 
-##### 05
+###### 05
 
 Disseram-nos que o tempo não existe para os Espíritos e que um século, para eles, não passa de um instante na eternidade. Dar-se-á efetivamente esse fato para com todos os Espíritos?
 
 👻 ▸ Não, decerto, porquanto isso só se dá com os Espíritos que têm atingido elevadíssimo grau de adiantamento; para os inferiores, porém, o tempo é frequentemente moroso, sobretudo quando sofrem.
 
-##### 06
+###### 06
 
 Donde vinha esse Espírito antes da sua encarnação?
 
 👻 ▸ Tivera uma existência entre tribos das mais ferozes e selvagens, e, precedentemente, em planeta inferior à Terra.
 
-##### 07
+###### 07
 
 Severamente punido agora por esse crime, sê-lo-ia igualmente pelos que porventura tivesse cometido, como é de supor, quando vivendo entre selvagens?
 
 👻 ▸ Sim, porém não tanto, visto como, em ser mais ignorante, menos alcançava a extensão do delito.
 
-##### 08
+###### 08
 
 O estado em que se vê esse Espírito é o dos seres vulgarmente designados por danados?
 
 👻 ▸ Absolutamente não, pois há condições ainda mais horrorosas. Os sofrimentos estão longe de ser os mesmos para todos, variando conforme seja o culpado mais ou menos acessível ao arrependimento. Para este, aquela casa é o seu inferno, outros trazem esse inferno em si mesmos, pelas paixões que os atormentam sem que possam saciá-las.
 
-##### 09
+###### 09
 
 Apesar da sua inferioridade, este Espírito é sensível aos efeitos da prece, o que também temos verificado com Espíritos igualmente perversos e da mais grosseira natureza; entretanto, Espíritos há que, esclarecidos, de mais desenvolvida inteligência, demonstram completa ausência de bons sentimentos, motejando de tudo que há de mais sagrado; a nada se comovendo e até não dando tréguas ao seu cinismo...
 
 👻 ▸ A prece só aproveita ao Espírito que se arrepende; para aqueles que, arrebatados de orgulho, se revoltam contra Deus e persistem no erro, exagerando-o mesmo, tal como procedem os infelizes, para esses a prece nada adianta, nem adiantará senão quando tênue vislumbre de arrependimento começar a germinar-lhes na consciência. A ineficácia da prece também é para eles um castigo. Enfim, ela só alivia os não totalmente endurecidos.
 
-##### 10
+###### 10
 
 Vendo-se um Espírito insensível à ação da prece, será motivo para que se deixe de orar por ele?
 
 👻 ▸ Não, porquanto, cedo ou tarde, a prece poderá triunfar do seu endurecimento, sugerindo-lhe benéficos pensamentos. O mesmo sucede com certos doentes nos quais a ação medicamentosa só se torna sensível depois de muito tempo, e vice-versa. Compenetrando-nos bem de que todos os Espíritos são suscetíveis de progresso, e que nenhum é fatal e eternamente condenado, fácil nos será compreender a eficácia da prece em quaisquer circunstâncias. Por mais ineficaz que ela possa parecer-nos à primeira vista, o certo é que contém germens em si mesma, bastante benéficos, para bem predisporem o Espírito, quando o não afetem imediatamente. Erro seria, pois, desanimarmos por não colher dela imediato resultado.
 
-##### 11
+###### 11
 
 Ao reencarnar-se este Espírito, qual será a sua categoria?
 
 👻 ▸ Depende dele e do arrependimento que então tiver. Muitos colóquios com este Espírito deram em resultado notável transformação do seu moral. Eis aqui algumas das suas respostas:
 
-##### 12
+###### 12
 
 (Ao Espírito.) Por que não pudestes escrever da primeira vez que vos evocamos?
 
@@ -4675,7 +4690,7 @@ Ao reencarnar-se este Espírito, qual será a sua categoria?
 
 👻 ▸ Ignorância e embrutecimento.
 
-##### 13
+###### 13
 
 Agora podeis deixar, quando vos apraz, a casa de Castelnaudary?
 
@@ -4685,7 +4700,7 @@ Agora podeis deixar, quando vos apraz, a casa de Castelnaudary?
 
 👻 ▸ Começo a ter esperança.
 
-##### 14
+###### 14
 
 Se possível nos fora o vermo-vos, qual a vossa aparência?
 
@@ -4695,7 +4710,7 @@ Se possível nos fora o vermo-vos, qual a vossa aparência?
 
 👻 ▸ Amaldiçoando-o, Deus arrebatou-mo das vistas.
 
-##### 15
+###### 15
 
 Se o filho do Sr. D... (o da bofetada) voltasse àquela casa, que lhe faríeis?
 
@@ -4705,25 +4720,25 @@ Se o filho do Sr. D... (o da bofetada) voltasse àquela casa, que lhe faríeis?
 
 👻 ▸ Não me façais essa pergunta! Eu não me dominaria, isso está acima das minhas forças, pois sou um miserável.
 
-##### 16
+###### 16
 
 Lobrigais um termo aos vossos padecimentos?
 
 👻 ▸ Oh! ainda não. É já muito o saber, graças à vossa intercessão, que esses padecimentos não serão eternos.
 
-##### 17
+###### 17
 
 Tende a bondade de nos descrever a vossa situação antes de vos evocarmos pela primeira vez. Não é preciso acrescentarmos que este pedido tem por fim sabermos como ser-vos úteis, e não a simples e fútil curiosidade.
 
 👻 ▸ Já vos disse que nada mais compreendia além do meu crime, e que não podia abandonar a casa em que o cometi, a não ser para vagar no Espaço, solitário e obscuro; disso não poderia eu dar-vos uma ideia, porque nunca pude compreender o que se passava. Desde que me alçava ao Espaço, era tudo negrume e vácuo, ou, antes, não sei mesmo o que era... Hoje o meu remorso é muito maior, e no entanto não sou constrangido a permanecer naquela casa fatal, sendo-me permitido vagar sobre a Terra e orientar-me pela observação de quanto aí vejo, compreendendo melhor, assim, a enormidade dos meus crimes, e, se menos sofro por um lado, por outro aumentam as torturas do remorso... Mas... ainda bem que tenho esperança.
 
-##### 18
+###### 18
 
 A terdes de reencarnar, que existência preferiríeis?
 
 👻 ▸ Sobre isso não tenho meditado suficientemente.
 
-##### 19
+###### 19
 
 Durante o vosso longo insulamento
 
@@ -4733,7 +4748,7 @@ Durante o vosso longo insulamento
 
 👻 ▸ Nenhum, e por isso sofri tão longamente. Somente quando o senti, foi que ele provocou, sem que disso me apercebesse, as circunstâncias determinantes da vossa evocação ao meu Espírito para início da libertação. Obrigado, pois, a vós que de mim vos apiedastes e me esclarecestes. Efetivamente, temos visto avaros sofrerem à vista do ouro, que para eles não passava de verdadeira quimera; orgulhosos, atormentados pelo ciúme das honrarias prestadas a outros que não eles; homens que dominavam na Terra, humilhados pela potência invisível, constrangidos à obediência, em presença de subordinados que não mais se lhe curvavam; ateus atônitos pela dúvida, em face da imensidade, no mais absoluto insulamento, sem um ser que os esclareça. No mundo dos Espíritos há compensações para todas as virtudes, mas há também penalidades para todas as faltas, e, destas, as que escaparam às leis dos homens são infalivelmente atingidas pelas Leis de Deus. Devemos ainda notar que as mesmas faltas, ainda que cometidas em circunstâncias idênticas, são diversamente punidas, conforme o grau de adiantamento do Espírito delinquente. Aos Espíritos mais atrasados, de natureza mais grosseira, como este de que vimos de nos ocupar, são infligidos castigos de alguma sorte mais materiais que morais, ao passo que o contrário se dá para com aqueles cuja inteligência e sensibilidade estejam mais desenvolvidas. Aos primeiros impõe-se o castigo apropriado à rudeza do seu discernimento, para compreenderem o erro e dele se libertarem. Assim é que a vergonha, por exemplo, causando pouca ou nenhuma impressão para estes, torna-se para aqueles intolerável. Neste divino código penal, a sabedoria, a bondade, a Providência de Deus para com as suas criaturas revelam-se até nas mínimas particularidades, sendo tudo proporcionado e concatenado com admirável solicitude para facilitar ao culpado os meios de reabilitação. As mínimas aspirações são consideradas e recolhidas. Pelos dogmas das penas eternas, ao contrário, são no inferno confundidos os grandes e pequenos criminosos, os culpados de momento e os reincidentes contumazes, os endurecidos e os arrependidos. Além disso, nenhuma tábua de salvação se lhes oferece; a falta momentânea pode acarretar uma condenação eterna e, o que mais é, qualquer benefício que porventura hajam feito, de nada lhes valerá. De que lado, pois, a verdadeira justiça, a verdadeira bondade? Esta evocação nada tem de casual; e como deveria aproveitar a esse infeliz, visto que ele já começava a compreender a enormidade do seu crime, eis que os Espíritos que velavam julgaram oportuno esse socorro eficaz e entraram a facilitar-lhe as circunstâncias propícias. É este um fato que temos visto reproduzir-se frequentemente. Perguntar-se-á que seria deste Espírito se não fosse evocado, o que será de todos os sofredores que o não podem ser, bem como daqueles em que se não pensa... Poderíamos redarguir que os meios de que Deus dispõe para salvar as criaturas são inumeráveis, sendo a evocação um dentre esses meios, porém, não único, certamente. Deus não deixa ninguém olvidado, além de que, sobre os Espíritos suscetíveis de arrependimento, as preces coletivas devem exercer alguma influência. A sorte dos Espíritos sofredores não poderia ser por Deus subordinada à boa vontade e aos conhecimentos humanos. Desde que os homens puderam estabelecer relações regulares com o mundo invisível, uma das primeiras consequências do Espiritismo foi o ensino dos serviços que por meio dessas relações podem prestar aos seus irmãos desencarnados. Deus patenteia por esse modo a solidariedade existente entre todos os seres do universo, ao mesmo tempo que dá a Lei da natureza por base ao princípio da fraternidade. Deus demonstra-nos a feição verdadeira, útil e séria das evocações, até então desviadas do seu fim providencial pela ignorância e pela superstição. Aos sofredores jamais faltaram socorros em qualquer época e, se as evocações lhes proporcionam uma nova via de salvação, aproveitam ainda mais, talvez, aos encarnados, por lhes proporcionar novos meios de fazer o benefício, instruindo-se ao mesmo tempo sobre as condições da vida futura.
 
-##### 05. Jacques Latour
+###### 05. Jacques Latour
 
 (Assassino condenado pelo júri de Foix e executado em setembro de 1864.)
 
@@ -4755,13 +4770,13 @@ Em reunião íntima de sete a oito pessoas, havida em Bruxelas a 13 de setembro 
 
 Um membro da Sociedade Espírita de Paris, que tinha orado por este infeliz, evocando-o, obteve intervaladamente as seguintes comunicações:
 
-##### 01
+###### 01
 
 “Fui evocado quase imediatamente depois da minha morte, porém não pude manifestar-me logo, de modo que muitos Espíritos levianos tomaram-me o nome e a vez. Aproveitei a estada em Bruxelas do Presidente da Sociedade de Paris, e comuniquei-me, com a aquiescência de Espíritos superiores. Voltarei a manifestar-me na Sociedade, a fim de fazer revelações que serão um começo de reparação às minhas faltas, podendo também servir de ensinamento a todos os criminosos que me lerem e meditarem na exposição dos meus sofrimentos. É somente sobre o Espírito dos homens fracos ou das crianças que a narrativa de penas infernais pode produzir efeitos terroristas. Ora; um grande malfeitor não é um Espírito pusilânime, e o temor de um polícia é para ele mais real que a descrição dos tormentos do inferno. Eis por que todos os que me lerem ficarão comovidos com as minhas palavras e com os meus padecimentos, que não são ficções. Não há um só padre que possa dizer que viu o que tenho visto, porque tenho assistido às torturas dos danados. Mas quando eu vier dizer: Eis o que se passou após a minha morte, a morte do corpo; eis a minha enorme decepção ao reconhecer-me vivo, ao contrário do que supunha e tinha tomado pelo termo dos suplícios, quando era o começo de outras torturas, aliás indescritíveis!
 
 — então, mais de um ser estará à borda do precipício em que ia despenhar-se, e cada um dos desgraçados, desviados por mim da senda criminosa, concorrerá para o resgate das minhas faltas. Foi-me permitido libertar-me do olhar das minhas vítimas transformadas em carrascos, a fim de comunicar-me convosco; ao deixar-vos, entretanto, tornarei a vê-las e só esta ideia me causa tal sofrimento que eu não poderia descrevê-lo. Sou feliz quando me evocam, porque assim deixo o meu inferno por alguns instantes. Orai sempre ao Senhor por mim, pedi-lhe que me liberte do olhar das minhas vítimas. Sim, oremos juntos. A prece faz tanto bem... Estou mais aliviado; não sinto tão pesado o fardo que me acabrunha. Vejo um resquício de esperança luzindo-me aos olhos e, contrito, exclamo: Bendita a mão do Senhor e seja feita a sua vontade!”
 
-##### 02
+###### 02
 
 O médium.
 
@@ -4769,11 +4784,11 @@ O médium.
 
 — Eu preferiria livrar-me de tais olhares. Se soubésseis o quanto sofro... O homem mais insensível comover-se-ia vendo impressos na minha fisionomia, como que a fogo, os sofrimentos de minha alma. Farei, entretanto, o que me aconselhais, pois compreendo ser esse um meio de expiar um pouco mais rapidamente as minhas faltas. É qual dolorosa operação que viesse curar um corpo gravemente adoentado. Ah! Pudessem ver-me os culpados da Terra, e ficariam apavorados das consequências de seus crimes, desses crimes que, ignorados dos homens, são, no entanto, vistos pelos Espíritos. Como a ignorância é fatal para tantas pessoas! “Que responsabilidade assumem os que recusam instrução às classes pobres da sociedade! Acreditam que com polícia e soldados se previnem crimes... Que grande erro!”
 
-##### 03
+###### 03
 
 “Terríveis são os meus sofrimentos, porém, depois que por mim orais, sinto-me confortado por bons Espíritos, os quais me dizem para ter esperança. Compreendo a eficácia do remédio heroico que me aconselhastes e peço a Deus me dê forças para suportar esta dura expiação, aliás igual, posso afirmá-lo, ao mal que fiz. Não quero escusar-me das minhas atrocidades; mas o certo é que, para nenhuma das minhas vítimas, salvo a precedência de alguns instantes, na morte, a dor não existia, e as que tinham terminado a provação terrena foram receber a recompensa que as aguardava. Para mim, entretanto, ao voltar ao mundo dos Espíritos, só houve sofrimentos infernais, excetuados os curtos instantes em que me manifestava. Em que pesem aos seus quadros terroristas, os padres só têm uma fraca noção dos verdadeiros sofrimentos que a Justiça divina reserva aos infratores da lei do amor e da caridade. Como insinuar a pessoas sensatas que uma alma, isto é, uma coisa imaterial, possa sofrer ao contato do fogo material? É absurdo, e por isso tantos e tantos criminosos se riem desses painéis fantásticos do inferno. O mesmo porém não se dá quanto à dor moral do condenado, após a morte física. Orai para que o desespero não se aposse de mim.”
 
-##### 04
+###### 04
 
 “Muito grato vos sou pela perspectiva que me trouxestes e a cujo fim glorioso sei que devo chegar quando purificado. Sofro muito, mas parece-me que os sofrimentos diminuem. Não posso acreditar que, no mundo dos Espíritos, a dor diminua pouco a pouco à força de hábito. Não. O que eu depreendo é que as vossas preces salutares me aumentaram as forças, de modo que, pelas mesmas dores, com mais resignação, eu menos sofro. O pensamento se me volve então para a última existência e vejo as faltas que teria conjurado se soubesse orar. Hoje compreendo a eficácia da prece; compreendo o valor dessas mulheres honestas e piedosas, fracas pela carne, porém fortes pela fé; compreendo, enfim, esse mistério ignorado pelos supostos sábios da Terra. Prece! palavra que por si só provoca o riso dos Espíritos fortes. Aqui os espero no mundo espiritual, e, quando a venda que encobre a verdade se romper para eles, então, a seu nuto se prosternarão aos pés do Eterno a quem desprezaram e serão felizes em se humilhar para que seus pecados e crimes sejam revelados! Hão de compreender então a virtude da prece. Orar é amar, e amar é orar! E eles amarão o Senhor e lhe dirigirão preces de reconhecimento e de amor, regenerados pelo sofrimento. E, pois que devem sofrer, pedirão como eu peço a força necessária ao sofrimento e à expiação. Deixando de sofrer, hão de orar ainda para agradecer o perdão merecido por sua submissão e resignação. Oremos, irmão, para que mais me fortaleça... Oh! obrigado à tua caridade, meu irmão, pois que estou perdoado. Deus me liberta do olhar das minhas vítimas. Ó meu Deus! Bendito sejais vós por toda a eternidade, pela graça que me concedeis! Ó meu Deus! Sinto a enormidade dos meus crimes e curvo-me ante a vossa onipotência. Senhor! eu vos amo de todo o meu coração e vos suplico a graça de me permitirdes, ao vosso arbítrio, sofrer novas provações na Terra; voltar a ela como missionário da paz e da caridade, ensinando as crianças a pronunciar com respeito o vosso nome. Peço-vos que me seja possível ensinar que vos amem, a vós, Pai que sois de todas as criaturas. Obrigado, meu Deus! Sou um Espírito arrependido, e sincero é o meu arrependimento. Tanto quanto meu impuro coração pode comportá-lo, eu vos amo com esse sentimento que é pura emanação da vossa divindade. Irmão, oremos, pois meu coração transborda de reconhecimento. Estou livre, quebrei os grilhões, não sou mais um réprobo. Sou um Espírito sofredor, mas arrependido, a desejar que o meu exemplo pudesse conter nos umbrais do crime todas as mãos criminosas que vejo prestes a levantarem-se. Oh! para trás, recuai, irmãos, pois as torturas que preparais serão atrozes! Não acrediteis que o Senhor se deixará tão prontamente submeter à prece dos seus filhos. São séculos de torturas que vos esperam.” O guia do médium.
 
@@ -4787,7 +4802,7 @@ Não se pode desconhecer a profundeza e a alta significação de algumas das fra
 
 [^67]: N.E.: Também chamadas de Erínias ou Fúrias, ver nota 18.
 
-### 2-07 🗂️
+### 2-07. 🗂️ Espíritos endurecidos {#ceu-2-07}
 
 #### 01. Lapommeray
 
@@ -4829,7 +4844,7 @@ Além de se completarem reciprocamente, estas três comunicações, obtidas simu
 
 Com este nome, um Espírito se apresentou espontaneamente ao médium.
 
-##### 01
+###### 01
 
 Arrependei-vos das vossas faltas?
 
@@ -4851,7 +4866,7 @@ Arrependei-vos das vossas faltas?
 
 👻 ▸ A paz. Certos Espíritos só consideram sofrimento o que lhes lembra as suas dores físicas, convindo, não obstante, ser intolerável o seu estado moral.
 
-##### 02
+###### 02
 
 Como pode faltar-vos a paz na vida espiritual?
 
@@ -4865,13 +4880,13 @@ Como pode faltar-vos a paz na vida espiritual?
 
 👻 ▸ O desconhecido.
 
-##### 03
+###### 03
 
 Estais disposta a dizer-me o que fizestes na última encarnação? Isso talvez me facilite a orientar-vos.
 
 👻 ▸ Nada.
 
-##### 04
+###### 04
 
 Qual a vossa posição social?
 
@@ -4885,7 +4900,7 @@ Qual a vossa posição social?
 
 👻 ▸ Não; meu marido entediava-me, bem como meus filhos.
 
-##### 05
+###### 05
 
 E de que modo preenchestes a existência?
 
@@ -4899,7 +4914,7 @@ E de que modo preenchestes a existência?
 
 👻 ▸ A criada.
 
-##### 06
+###### 06
 
 Não será cabível atribuir a essa inércia a causa dos vossos pesares e temores?
 
@@ -4933,7 +4948,7 @@ Instruções do guia do médium – Damos-te instrução, facultando-te o conhec
 
 Este Espírito apresenta-se espontaneamente ao médium, reclamando preces.
 
-##### 01
+###### 01
 
 Que vos leva a pedir preces?
 
@@ -4947,7 +4962,7 @@ Que vos leva a pedir preces?
 
 👻 ▸ Nada de bom.
 
-##### 02
+###### 02
 
 Qual a vossa posição entre os Espíritos?
 
@@ -4957,7 +4972,7 @@ Qual a vossa posição entre os Espíritos?
 
 👻 ▸ Entre nós, tudo forma categoria. Cada sensação encontra suas semelhantes, ou suas simpatias que se reúnem.
 
-##### 03
+###### 03
 
 Por que permanecestes tanto tempo estacionário, sem que fôsseis condenado a sofrer?
 
@@ -4973,37 +4988,37 @@ Por que permanecestes tanto tempo estacionário, sem que fôsseis condenado a so
 
 — fagulhas, que lembram às cinzas ainda compactas a sua proveniência, a causa do seu nascimento, ou, se o quiseres, da destruição do papel. Essas fagulhas são a lembrança dos laços terrestres que vinculam o Espírito, até que este disperse as cinzas do seu corpo. Então, e só então, tem ele, eterizada essência, o conhecimento de si mesmo, desejando o progresso.
 
-##### 04
+###### 04
 
 Qual poderia ter sido a causa desse aborrecimento de que vos acusais?
 
 👻 ▸ Consequências da existência. O tédio é filho da inação; por não ter eu sabido utilizar o longo tempo de encarnação, as consequências vieram refletir-se neste mundo.
 
-##### 05
+###### 05
 
 Os Espíritos que, como vós, foram tomados de tédio, não podem libertar-se de tal contingência desde que o desejem?
 
 👻 ▸ Não, nem sempre, porque o tédio lhes paralisa a vontade. Sofrem as consequências da vida que levaram, e, como foram inúteis, desprovidos de iniciativa, assim também não encontram entre si concurso algum. Entregues a si mesmos, nesse estado permanecem, até que o cansaço, decorrente de tal neutralidade, os agite em sentido contrário, momento no qual a sua menor vontade vai encontrar apoio e bons conselhos e secundar-lhes o esforço e a perseverança.
 
-##### 06
+###### 06
 
 Podeis dizer-me algo da vossa existência terrena?
 
 👻 ▸ Oh! Deveis compreender que pouco me é dado dizer, visto como o tédio, a nulidade e a inação provêm da preguiça, que, por sua vez, é mãe da ignorância.
 
-##### 07
+###### 07
 
 E não vos aproveitaram as existências anteriores?
 
 👻 ▸ Sim, todas, porém, parcamente, visto serem reflexos umas das outras. O progresso existe sempre, porém tão insensível que se nos torna inapreciável.
 
-##### 08
+###### 08
 
 Enquanto esperais uma nova encarnação, apraz-vos repetir as vossas comunicações?
 
 👻 ▸ Evocai-me para me obrigardes a vir, pois com isso me prestareis um benefício.
 
-##### 09
+###### 09
 
 Podeis dizer-nos por que tão frequentemente varia a vossa caligrafia?
 
@@ -5015,7 +5030,7 @@ Podeis dizer-nos por que tão frequentemente varia a vossa caligrafia?
 
 (Falecida em França, em 1858.)
 
-##### 01
+###### 01
 
 Quais as vossas sensações ao deixardes o mundo terrestre?
 
@@ -5025,7 +5040,7 @@ Quais as vossas sensações ao deixardes o mundo terrestre?
 
 👻 ▸ Tenho saudades da vida... não sei... experimento acerba dor da qual a vida me libertaria... quisera que o corpo se levantasse do túmulo...
 
-##### 02
+###### 02
 
 Lamentais o ter sido sepultada entre cristãos, que não no vosso país?
 
@@ -5035,7 +5050,7 @@ Lamentais o ter sido sepultada entre cristãos, que não no vosso país?
 
 👻 ▸ Não foram grande coisa, pois eu era rainha e nem todos se curvaram diante de mim... Deixai-me... forçam-me a falar, quando não quero que saibais o que ora sou... Asseguro-vos, eu era rainha...
 
-##### 03
+###### 03
 
 Respeitamos a vossa hierarquia e só insistimos para que nos respondais no propósito de nos instruirmos. Acreditais que vosso filho recupere de futuro os Estados de seu pai?
 
@@ -5045,13 +5060,13 @@ Respeitamos a vossa hierarquia e só insistimos para que nos respondais no prop�
 
 👻 ▸ Meu sangue não pode confundir-se na multidão.
 
-##### 04
+###### 04
 
 Não se pôde fazer constar na respectiva certidão de óbito o lugar do vosso nascimento; podereis no-lo dizer, agora?
 
 👻 ▸ Sou oriunda do mais nobre dos sangues da Índia. Penso que nasci em Delhi.
 
-##### 05
+###### 05
 
 Vós, que vivestes nos esplendores do luxo, cercada de honras, que pensais hoje de tudo isso?
 
@@ -5061,7 +5076,7 @@ Vós, que vivestes nos esplendores do luxo, cercada de honras, que pensais hoje 
 
 👻 ▸ Continuo a ser rainha... que se enviem escravas para me servirem!... Mas... não sei... parece-me que pouco se preocupam com a minha pessoa aqui... e contudo eu... sou sempre a mesma.
 
-##### 06
+###### 06
 
 Professáveis a religião muçulmana ou a hindu?
 
@@ -5083,7 +5098,7 @@ Professáveis a religião muçulmana ou a hindu?
 
 👻 ▸ O filho do carpinteiro não é digno de preocupar meus pensamentos.
 
-##### 07
+###### 07
 
 Que pensais desse uso pelo qual as mulheres muçulmanas se furtam aos olhos masculinos?
 
@@ -5093,13 +5108,13 @@ Que pensais desse uso pelo qual as mulheres muçulmanas se furtam aos olhos masc
 
 👻 ▸ Que poderia importar-me tal liberdade? Servem-nas, acaso, de joelhos?
 
-##### 08
+###### 08
 
 Tendes reminiscências de encarnações anteriores a esta que vindes de deixar?
 
 👻 ▸ Deveria ter sido sempre rainha.
 
-##### 09
+###### 09
 
 Por que acudistes tão prontamente ao nosso apelo?
 
@@ -5109,13 +5124,13 @@ Por que acudistes tão prontamente ao nosso apelo?
 
 👻 ▸ Eu mesma não sei... posto que não deva existir ninguém mais poderoso do que eu.
 
-##### 10
+###### 10
 
 Sob que forma vos apresentais aqui?
 
 👻 ▸ Sempre rainha... e pensas que eu tenha deixado de o ser? És pouco respeitoso... fica sabendo que não é desse modo que se fala a rainhas.
 
-##### 11
+###### 11
 
 Se nos fosse dado enxergar-vos, ver-vos-íamos com os vossos ornatos e pedrarias?
 
@@ -5125,7 +5140,7 @@ Se nos fosse dado enxergar-vos, ver-vos-íamos com os vossos ornatos e pedrarias
 
 👻 ▸ É que eles me não deixaram. Sou tão bela quanto era, e não compreendo o juízo que de mim fazeis! É verdade que nunca me vistes.
 
-##### 12
+###### 12
 
 Qual a impressão que vos causa em vos achardes entre nós?
 
@@ -5185,7 +5200,7 @@ Sob este nome, um Espírito se apresenta espontaneamente ao médium habituado a 
 
 — Filha, terás muito trabalho com este Espírito endurecido, mas o maior mérito não advém de salvar os não perdidos. Coragem, perseverança, e triunfarás afinal. Não há culpados que se não possam regenerar por meio da persuasão e do exemplo, visto como os Espíritos, por mais perversos, acabam por corrigir-se com o tempo. O fato de muitas vezes ser impossível regenerá-los prontamente, não importa na inutilidade de tais esforços. Mesmo a contragosto, as ideias sugeridas a tais Espíritos fazem-nos refletir. São como sementes que, cedo ou tarde, tivessem de frutificar. Não se arrebenta a pedra com a primeira marretada. Isto que te digo pode aplicar-se também aos encarnados e tu deves compreender a razão por que o Espiritismo não faz imediatamente homens perfeitos, mesmo entre os adeptos mais crentes. A crença é o primeiro passo; vindo em seguida a fé e a transformação a seu turno; mas, além disso, força é que muitos venham revigorar-se no mundo espiritual. Entre os Espíritos endurecidos, não há só perversos e maus. Grande é o número dos que, sem fazer o mal, estacionam por orgulho, indiferença ou apatia. Estes, nem por isso, são menos infelizes, pois tanto mais os aflige a inércia quanto mais se veem privados das mundanas compensações. Intolerável, por certo, se lhes torna a perspectiva do infinito, porém eles não têm nem a força nem a vontade para romper com essa situação. Referimo-nos a esses indivíduos que levam uma existência ociosa, inútil a si como ao próximo, acabando muita vez no suicídio, sem motivos sérios, por aborrecimento da vida. Em regra, tais Espíritos são menos passíveis de imediata regeneração, do que os positivamente maus, visto como estes ao menos dispõem de energia, e, uma vez doutrinados, votam-se ao bem com o mesmo ardor que lhes inspirava o mal. Aos outros, muitas encarnações se fazem precisas para que progridam, e isto pouco a pouco, domados pelo tédio, procurando, para se distraírem, qualquer ocupação que mais tarde venha transformar-se em necessidade.
 
-### 2-08 🗂️
+### 2-08. 🗂️ Expiações terrestres {#ceu-2-08}
 
 #### 01. Marcel, o menino do #4
 
@@ -5669,113 +5684,184 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 ## 3. 🗃️ Pós-textual
 
-### 3.01 📄 Nota explicativa
+### 3.01 📄 Nota explicativa {#ceu-3-01}
 
-PLACEHOLDER
+> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
+{:.grey}
 
-### 3.02 📑 Índice geral
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. 👻 **O Livro dos Espíritos** (1857),
+
+2. ✒️ **O Livro dos Médiuns** (1861),
+
+3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
+
+4. 🔥 **O Céu e o Inferno** (1865),
+
+5. 🌱 **A Gênese** (1868),
+
+além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 **Revista Espírita** (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 **Obras Póstumas** (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 **Revista Espírita**, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (👻 **O Livro dos Espíritos**, [`LDE-q207`](#LDE-q207))
+> 
+> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 **Revista Espírita**, 1861)
+> 
+> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 **Revista Espírita**, 1867)
+> 
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 **A Gênese**, cap. 1, item 36 Vide também 📓 **Revista Espírita**, 1867)
+{:.grey}
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 **Revista Espírita** de 1863)
+> 
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ **O Evangelho segundo o Espiritismo**, cap. 17, item 3)
+{:.grey}
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
+
+> Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
+{:.grey}
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 **Revista Espírita**, 1862, p. 38.)
+{:.grey}
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.[^27]
+
+A Editora
+{:.author}
+
+
+### 3.02 📑 Índice geral {#ceu-3-02}
 
 #### A
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### B
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### C
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### D
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### E
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### F
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### G
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### H
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### I
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### J
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### K
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### L
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### M
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### N
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### P
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### Q
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### R
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### S
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### T
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### U
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### V
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### W
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### X
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### Y
 
-##### 🏷️ item
+###### 🏷️ item
 
 #### Z
 
-##### 🏷️ item
+###### 🏷️ item
 
-### 3.03 📃 Notas de rodapé
+### 3.03 📃 Notas de rodapé {#ceu-3-03}
 
 [^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
 [^]: Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.”
