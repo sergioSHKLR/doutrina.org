@@ -72,6 +72,38 @@ Os botões ao topo da página servem aos seguintes propósitos:
 </tr>
 </table> -->
 
+Nossas fases de desenvolvimento são: 
+
+| --- | --- |
+| Fase | Estado |
+| Estabelecer um padrão hierárquico, de diagramação, e de tipografia que permita seu uso através dos cinco livros distintos |  |
+| Copiar e colar cada parágrafo da obra original, utilizando-se do PDF livremente disponível no site da FEB (veja [Avisos legais](./legal.md)) |  |
+| Criar um repositório de nosso código fonte para acesso de programadores afins |  |
+| Verificar que cada termo grifado em itálico no original está também grifado em nosso projeto |  |
+| Substituir numerais romanos por seus equivalentes |  |
+| Substituir Bíblia de Sacy por Almeida Revista e Corrigida |  |
+| Assinalar cada comunicação mediúnica com o padrão determinado em fase anterior |  |
+| Assinalar cada trecho bíblico com o padrão determinado em fase anterior, adicionar livro, capítulo, versículos e versão |  |
+| Adicionar links de artigos, definicões, mapas, vídeos e etc |  |
+| Estabelecer links entre partes do mesmo livro e entre livros |  |
+| Digitalizar o indíce geral de cada livro e estabelecer links |  |
+| Criar um indíce combinado de todos os cinco livros |  |
+| Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas |  |
+
+Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
+
+- [Wikipedia](https://pt.m.wikipedia.org){:target="ext"}
+- [Wikicionário](https://pt.m.wiktionary.org){:target="ext"}
+- [Kardecpedia](https://kardecpedia.com/pt){:target="ext"}
+- [Portal Luz Espírita](https://www.luzespirita.org.br){:target="ext"}
+- [Bible.com](https://www.bible.com/pt){:target="ext"}
+- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
+- [O Escolhido, Série](https://www.youtube.com/@thechosentvbr){:target="_blank"}
+- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=pt-br){:target="_blank"}
+- [Hypothes.is](https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}
+- [Whereby](https://whereby.com/){:target="ext"}
+- [Crisp](https://crisp.chat/pt/){:target="_blank"}
+
 <p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
