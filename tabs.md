@@ -1,20 +1,16 @@
 ---
 layout: 0-generic
 ---
-
+<head>
 <style>
         body {
             font-family: Arial;
         }
-
-        /* Style the tab */
         .tab {
             overflow: hidden;
             border: 1px solid #ccc;
             background-color: #f1f1f1;
         }
-
-        /* Style the buttons inside the tab */
         .tab button {
             background-color: inherit;
             float: left;
@@ -25,14 +21,9 @@ layout: 0-generic
             transition: 0.3s;
             font-size: 17px;
         }
-
-
-        /* Create an active/current tablink class */
         .tab button.active {
             border-bottom: 3px solid dodgerblue;
         }
-
-        /* Style the tab content */
         .tabcontent {
             display: none;
             padding: 6px 12px;
@@ -40,6 +31,8 @@ layout: 0-generic
             border-top: none;
         }
     </style>
+         <script async src="https://hypothes.is/embed.js"></script>
+</head>
 
      <div class="tab">
         <button class="tablinks" onclick="openTab(event, 'doutrina')" id="defaultOpen">doutrina.org</button>
@@ -56,4 +49,3 @@ layout: 0-generic
         <p>Lorem ipsum</p>
     </div>
 
-     <script async src="https://hypothes.is/embed.js"></script>
