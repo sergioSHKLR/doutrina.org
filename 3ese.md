@@ -761,28 +761,15 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 ###### 04
 
-A reencarnação fazia parte dos dogmas dos judeus, sob o nome de ressurreição. Só os saduceus, cuja crença era a de que tudo acaba com a morte, não acreditavam nisso. As ideias dos judeus sobre esse ponto, como sobre muitos outros, não eram claramente definidas, porque apenas tinham vagas e incompletas noções acerca da alma e da sua ligação com o corpo. Criam eles que um homem que vivera podia reviver, sem saberem precisamente de que maneira o fato poderia dar-se. Designavam pelo termo ressurreição o que o Espiritismo, mais judiciosamente, chama reencarnação. Com efeito, a ressurreição dá ideia de voltar à vida o corpo que já está morto, o que a Ciência demonstra ser materialmente impossível, sobretudo quando os elementos desse corpo já se acham desde muito tempo dispersos e absorvidos. A reencarnação é a volta da alma ou Espírito à vida corpórea, mas em outro corpo especialmente formado para ele e que nada tem de comum com o antigo. A palavra ressurreição podia assim aplicar-se a Lázaro, mas não a Elias, nem aos outros profetas. Se, portanto, segundo a crença deles, João Batista era Elias, o corpo de João não podia ser o de Elias, pois que João fora visto criança e seus pais eram conhecidos. João, pois, podia ser Elias reencarnado, porém, não ressuscitado.
+A [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarna%C3%A7%C3%A3o) fazia parte dos [dogmas](https://pt.m.wiktionary.org/wiki/dogma) dos judeus, sob o nome de [ressurreição](https://pt.m.wikipedia.org/wiki/Ressurrei%C3%A7%C3%A3o). Só os [saduceus](https://pt.m.wikipedia.org/wiki/Saduceus), cuja crença era a de que tudo acaba com a [morte](https://pt.m.wikipedia.org/wiki/Morte), não acreditavam nisso. As ideias dos [judeus](https://pt.m.wikipedia.org/wiki/Judeus) sobre esse ponto, como sobre muitos outros, não eram claramente definidas, porque apenas tinham vagas e incompletas noções acerca da [alma](https://pt.m.wikipedia.org/wiki/Alma) e da sua ligação com o corpo. Criam eles que um homem que vivera podia reviver, sem saberem precisamente de que maneira o fato poderia dar-se. Designavam pelo termo ressurreição o que o [Espiritismo](https://pt.m.wikipedia.org/wiki/Espiritismo), mais judiciosamente, chama reencarnação. Com efeito, a ressurreição dá ideia de voltar à vida o corpo que já está morto, o que a [Ciência](https://pt.m.wikipedia.org/wiki/Ci%C3%AAncia) demonstra ser materialmente impossível, sobretudo quando os elementos desse corpo já se acham desde muito tempo dispersos e absorvidos. A reencarnação é a volta da alma ou Espírito à vida corpórea, mas em outro corpo especialmente formado para ele e que nada tem de comum com o antigo. A palavra ressurreição podia assim aplicar-se a [Lázaro](https://pt.m.wikipedia.org/wiki/L%C3%A1zaro), mas não a [Elias](https://pt.m.wikipedia.org/wiki/Elias), nem aos outros profetas. Se, portanto, segundo a crença deles, [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista) era Elias, o corpo de João não podia ser o de Elias, pois que João fora visto criança e seus pais eram conhecidos. João, pois, podia ser Elias reencarnado, porém, não ressuscitado.
 
 ###### 05
 
-> ✝️ ▸ Ora, entre os fariseus, havia um homem chamado Nicodemos, senador dos judeus — que veio à noite ter com Jesus e lhe disse:
-> Mestre, sabemos que vieste da parte de Deus para nos instruir como um doutor, porquanto ninguém poderia fazer os milagres que fazes, se Deus não estivesse com ele.
-> Jesus lhe respondeu:
-> *Em verdade, em verdade, digo-te: Ninguém pode ver o Reino de Deus se não nascer de novo.*
-> Disse-lhe Nicodemos:
-> Como pode nascer um homem já velho? Pode tornar a entrar no ventre de sua mãe, para nascer segunda vez?
-> Retorquiu-lhe Jesus:
-> *Em verdade, em verdade, digo-te: Se um homem não renasce da água e do Espírito, não pode entrar no Reino de Deus.*
-> *O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. — Não te admires de que Eu te haja dito ser preciso que nasças de novo.*
-> *O Espírito sopra onde quer e ouves a sua voz, mas não sabes donde vem ele, nem para onde vai; o mesmo se dá com todo homem que é nascido do Espírito.*
-> Respondeu-lhe Nicodemos:
-> Como pode isso fazer-se?
-> Jesus lhe observou:
-> *Pois quê! és mestre em Israel e ignoras estas coisas? Digo-te em verdade, em verdade, que não dizemos senão o que sabemos e que não damos testemunho, senão do que temos visto. Entretanto, não aceitas o nosso testemunho. Mas se não me credes quando vos falo das coisas da Terra, como me crereis quando vos fale das coisas do céu?*
->
+> ✝️ ▸ E havia entre os fariseus um homem chamado Nicodemos, príncipe dos judeus. Este foi ter de noite com Jesus e disse-lhe: Rabi, bem sabemos que és mestre vindo de Deus, porque ninguém pode fazer estes sinais que tu fazes, se Deus não for com ele. Jesus respondeu e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo não pode ver o Reino de Deus. Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Porventura, pode tornar a entrar no ventre de sua mãe e nascer? Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no Reino de Deus. O que é nascido da carne é carne, e o que é nascido do Espírito é espírito. Não te maravilhes de te ter dito: Necessário vos é nascer de novo. O vento assopra onde quer, e ouves a sua voz, mas não sabes donde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito. Nicodemos respondeu e disse-lhe: Como pode ser isso? Jesus respondeu e disse-lhe: Tu és mestre de Israel e não sabes isso? Na verdade, na verdade te digo que nós dizemos o que sabemos e testificamos o que vimos, e não aceitais o nosso testemunho. Se vos falei de coisas terrestres, e não crestes, como crereis, se vos falar das celestiais? 
+> 
 > [📽️](./content/videos/renascer.html){:target="ext"}
-> João, cap. 3, vers. 1 a 12, [ARC][ARC]
-{:.bible-multi}
+> [João](https://pt.m.wikipedia.org/wiki/João,_o_Evangelista), [cap. 03](https://pt.m.wikipedia.org/wiki/João_3), [vers. 01 a 12](https://www.bible.com/pt/bible/212/JHN.3.ARC), [ARC][ARC]
+> {:.bible-multi}
 
 ###### 06
 
