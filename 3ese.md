@@ -735,7 +735,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 #### 01
 
-> ✝️ ▸ E, chegando Jesus às partes de Cesareia de Filipe, interrogou os seus discípulos, dizendo: *Quem dizem os homens ser o Filho do Homem?* E eles disseram: Uns, João Batista; outros, Elias, e outros, Jeremias ou um dos profetas. Disse-lhes ele: *E vós, quem dizeis que eu sou?* E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo. E Jesus, respondendo, disse-lhe: *Bem-aventurado és tu, Simão Barjonas, porque não foi carne e sangue quem to revelou, mas meu Pai, que está nos céus.*
+> ✝️ ▸ E, chegando [Jesus][1] às partes de [Cesareia](https://pt.m.wikipedia.org/wiki/Cesareia_(Israel)) de Filipe, interrogou os seus [discípulos](https://pt.m.wiktionary.org/wiki/discípulo), dizendo: *Quem dizem os homens ser o [Filho do Homem](https://pt.m.wikipedia.org/wiki/Filho_do_Homem)?* E eles disseram: Uns, [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista); outros, [Elias](https://pt.m.wikipedia.org/wiki/Elias), e outros, [Jeremias](https://pt.m.wikipedia.org/wiki/Jeremias) ou um dos [profetas](https://pt.m.wikipedia.org/wiki/Profeta). Disse-lhes ele: *E vós, quem dizeis que eu sou?* E [Simão Pedro](https://pt.m.wikipedia.org/wiki/Pedro_(apóstolo)), respondendo, disse: Tu és o [Cristo](https://pt.m.wikipedia.org/wiki/Cristo), o Filho do Deus vivo. E Jesus, respondendo, disse-lhe: *Bem-aventurado és tu, Simão Barjonas, porque não foi carne e sangue quem to revelou, mas meu Pai, que está nos céus.*
 >
 > [📽️](./content/videos/filho.html){:target="ext"}
 > [Mateus][Mt], [cap. 16][Mt16], [vers. 13 a 17](https://www.bible.com/pt/bible/212/MAT.16.ARC); [Marcos][Mc], [cap. 08](https://pt.m.wikipedia.org/wiki/Marcos_8), [vers. 27 a 30](https://www.bible.com/pt/bible/212/MRK.8.ARC), [ARC][ARC]  
@@ -743,18 +743,18 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 ###### 02
 
-> ✝️ ▸ Nesse ínterim, Herodes, o Tetrarca, ouvira falar de tudo o que fazia Jesus e seu espírito se achava em suspenso, porque uns diziam que João Batista ressuscitara dentre os mortos; outros que aparecera Elias; e outros que um dos antigos profetas ressuscitara. Disse então Herodes: Mandei cortar a cabeça a João Batista; quem é então esse de quem ouço dizer tão grandes coisas? — E ardia por vê-lo.
+> ✝️ ▸ Nesse ínterim, [Herodes](https://pt.m.wikipedia.org/wiki/Herodes_Antipas), o [Tetrarca](https://pt.m.wikipedia.org/wiki/Tetrarca), ouvira falar de tudo o que fazia [Jesus][1] e seu espírito se achava em suspenso, porque uns diziam que [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista) ressuscitara dentre os mortos; outros que aparecera [Elias](https://pt.m.wikipedia.org/wiki/Elias); e outros que um dos antigos profetas ressuscitara. Disse então Herodes: Mandei cortar a cabeça a João Batista; quem é então esse de quem ouço dizer tão grandes coisas? — E ardia por vê-lo.
 >
 > <!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
-> [Marcos][Mc], cap. 06, vers. 14 a 16; Lucas, cap. 09, vers. 07 a 09, [ARC][ARC]  
+> [Marcos][Mc], [cap. 06](https://pt.m.wikipedia.org/wiki/Marcos_6), [vers. 14 a 16](https://www.bible.com/pt/bible/212/MRK.8.ARC); [Lucas](https://pt.m.wikipedia.org/wiki/Lucas,_o_Evangelista), [cap. 09](https://pt.m.wikipedia.org/wiki/Lucas_9), [vers. 07 a 09](https://www.bible.com/pt/bible/212/LUK.9.ARC), [ARC][ARC]  
 {:.bible-multi}
 
 ###### 03
 
-> ✝️ ▸ E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E Jesus, respondendo, disse-lhes: *Em verdade Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.
+> ✝️ ▸ E os seus [discípulos](https://pt.m.wiktionary.org/wiki/discípulo) o interrogaram, dizendo: Por que dizem, então, os [escribas](https://pt.m.wikipedia.org/wiki/Escriba) que é [mister](https://pt.m.wiktionary.org/wiki/mister) que Elias venha primeiro? E [Jesus][1], respondendo, disse-lhes: *Em verdade [Elias](https://pt.m.wikipedia.org/wiki/Elias) virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o [Filho do Homem](https://pt.m.wikipedia.org/wiki/Filho_do_Homem).* Então, entenderam os discípulos que lhes falara de [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista).
 >
 > <!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
-> [Mateus][Mt], [cap. 17][Mt17], vers. 10 a 13; Marcos, cap. 09, vers. 11 a 13, [ARC][ARC]  
+> [Mateus][Mt], [cap. 17][Mt17], [vers. 10 a 13](https://www.bible.com/pt/bible/212/MAT.17.ARC); [Marcos](https://pt.m.wikipedia.org/wiki/Marcos,_o_Evangelista), [cap. 09](https://pt.m.wikipedia.org/wiki/Marcos_9), [vers. 11 a 13](https://www.bible.com/pt/bible/212/MRK.9.ARC), [ARC][ARC]  
 {:.bible-multi}
 
 #### Ressurreição e reencarnação

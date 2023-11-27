@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo bundle exec jekyll serve --livereload
+sudo bundle exec jekyll serve --livereload --port 5000
