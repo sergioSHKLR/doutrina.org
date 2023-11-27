@@ -20,7 +20,8 @@
     border-radius: 2px;
     border-bottom: 1.5px solid #0066cc;
     border-right: 1.5px solid #0066cc;
-    font-size: 80%
+    font-size: 80%;
+    font-style: normal;
 }
 
 #col2-body blockquote.grey {
@@ -32,11 +33,13 @@
 
 #col2-body blockquote.grey::first-letter {
     all: unset;
+    font-style: normal;
 }
 
 #col2-body blockquote.bible::first-letter,
 #col2-body blockquote.bible-multi::first-letter {
     all: unset;
+    font-style: normal;
 }
 
 #col2-body blockquote.grey-center {
@@ -54,7 +57,8 @@
     border-radius: 2px;
     border-bottom: 1.5px solid #0066cc;
     border-right: 1.5px solid #0066cc;
-    font-size: 80%
+    font-size: 80%;
+    font-style: normal;
 }
 
 #col2-body blockquote.spirit,
@@ -77,6 +81,7 @@
     margin: 10px;
     background-color: rgba(218, 112, 214, .1);
     border-left: 4px solid rgba(218, 112, 214, 1);
+    font-style: italic;
 }
 
 #col2-body blockquote.bible-multi>p:last-child {
@@ -98,5 +103,6 @@
     border-radius: 2px;
     border-bottom: 1.5px solid #e29f6d;
     border-right: 1.5px solid #e29f6d;
-    font-size: 80%
+    font-size: 80%;
+    font-style: normal;
 }
