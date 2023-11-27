@@ -765,7 +765,7 @@ A [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarna%C3%A7%C3%A3o) fazia
 
 ###### 05
 
-> ✝️ ▸ E havia entre os fariseus um homem chamado Nicodemos, príncipe dos judeus. Este foi ter de noite com Jesus e disse-lhe: Rabi, bem sabemos que és mestre vindo de Deus, porque ninguém pode fazer estes sinais que tu fazes, se Deus não for com ele. Jesus respondeu e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo não pode ver o Reino de Deus. Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Porventura, pode tornar a entrar no ventre de sua mãe e nascer? Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no Reino de Deus. O que é nascido da carne é carne, e o que é nascido do Espírito é espírito. Não te maravilhes de te ter dito: Necessário vos é nascer de novo. O vento assopra onde quer, e ouves a sua voz, mas não sabes donde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito. Nicodemos respondeu e disse-lhe: Como pode ser isso? Jesus respondeu e disse-lhe: Tu és mestre de Israel e não sabes isso? Na verdade, na verdade te digo que nós dizemos o que sabemos e testificamos o que vimos, e não aceitais o nosso testemunho. Se vos falei de coisas terrestres, e não crestes, como crereis, se vos falar das celestiais? 
+> ✝️ ▸ E havia entre os [fariseus](https://pt.m.wikipedia.org/wiki/Fariseus) um homem chamado [Nicodemos](https://pt.m.wikipedia.org/wiki/Nicodemos), príncipe dos judeus. Este foi ter de noite com Jesus e disse-lhe: [Rabi](https://pt.m.wiktionary.org/wiki/rabi), bem sabemos que és mestre vindo de [Deus](https://pt.m.wikipedia.org/wiki/Deus), porque ninguém pode fazer estes sinais que tu fazes, se Deus não for com ele. Jesus respondeu e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo não pode ver o [Reino de Deus](https://pt.m.wikipedia.org/wiki/Reino_de_Deus). Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Porventura, pode tornar a entrar no ventre de sua mãe e nascer? Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no Reino de Deus. O que é nascido da carne é carne, e o que é nascido do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é espírito. Não te maravilhes de te ter dito: Necessário vos é nascer de novo. O vento assopra onde quer, e ouves a sua voz, mas não sabes donde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito. Nicodemos respondeu e disse-lhe: Como pode ser isso? Jesus respondeu e disse-lhe: Tu és mestre de Israel e não sabes isso? Na verdade, na verdade te digo que nós dizemos o que sabemos e testificamos o que vimos, e não aceitais o nosso testemunho. Se vos falei de coisas terrestres, e não crestes, como crereis, se vos falar das celestiais? 
 > 
 > [📽️](./content/videos/renascer.html){:target="ext"}
 > [João](https://pt.m.wikipedia.org/wiki/João,_o_Evangelista), [cap. 03](https://pt.m.wikipedia.org/wiki/João_3), [vers. 01 a 12](https://www.bible.com/pt/bible/212/JHN.3.ARC), [ARC][ARC]
@@ -773,78 +773,89 @@ A [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarna%C3%A7%C3%A3o) fazia
 
 ###### 06
 
-A ideia de que João Batista era Elias e de que os profetas podiam reviver na Terra se nos depara em muitas passagens dos Evangelhos, notadamente nas acima reproduzidas (itens 1, 2, 3). Se fosse errônea essa crença, Jesus não houvera deixado de a combater, como combateu tantas outras. Longe disso, Ele a sanciona com toda a sua autoridade e a põe por princípio e como condição necessária quando diz: Ninguém pode ver o Reino de Deus se não nascer de novo. E insiste, acrescentando: Não te admires de que Eu te haja dito ser preciso nasças de novo.
+A ideia de que [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista) era [Elias](https://pt.m.wikipedia.org/wiki/Elias) e de que os profetas podiam reviver na Terra se nos depara em muitas passagens dos [Evangelhos](https://pt.m.wikipedia.org/wiki/Evangelho), notadamente nas acima reproduzidas (itens 1, 2, 3). Se fosse errônea essa crença, [Jesus][1] não houvera deixado de a combater, como combateu tantas outras. Longe disso, Ele a [sanciona](https://pt.m.wiktionary.org/wiki/sancionar) com toda a sua autoridade e a põe por princípio e como condição necessária quando diz: Ninguém pode ver o Reino de Deus se não nascer de novo. E insiste, acrescentando: Não te admires de que Eu te haja dito ser preciso nasças de novo.
 
 ###### 07
 
-Estas palavras: Se um homem não renasce da água e do Espírito foram interpretadas no sentido da regeneração pela água do batismo. O texto primitivo, porém, rezava simplesmente: não renasce da água e do Espírito, ao passo que nalgumas traduções as palavras — do Espírito — foram substituídas pelas seguintes: do Santo Espírito, o que já não corresponde ao mesmo pensamento. Esse ponto capital ressalta dos primeiros comentários a que os Evangelhos deram lugar, como se comprovará um dia, sem equívoco possível. [^7]
+Estas palavras: Se um homem não renasce da água e do Espírito foram interpretadas no sentido da regeneração pela água do [batismo](https://pt.m.wikipedia.org/wiki/Batismo). O texto primitivo, porém, rezava simplesmente: não renasce da água e do Espírito, ao passo que nalgumas traduções as palavras — do Espírito — foram substituídas pelas seguintes: do Santo Espírito, o que já não corresponde ao mesmo pensamento. Esse ponto capital ressalta dos primeiros comentários a que os Evangelhos deram lugar, como se comprovará um dia, sem equívoco possível. [^7]
 
 ###### 08
 
-Para se apanhar o verdadeiro sentido dessas palavras, cumpre também se atente na significação do termo água que ali não fora empregado na acepção que lhe é própria.
+Para se apanhar o verdadeiro sentido dessas palavras, cumpre também se atente na significação do termo água que ali não fora empregado na [acepção](https://pt.m.wiktionary.org/wiki/acepção) que lhe é própria.
 
-Muito imperfeitos eram os conhecimentos dos antigos sobre as ciências físicas. Eles acreditavam que a Terra saíra das águas e, por isso, consideravam a água como elemento gerador absoluto. Assim é que em Gênesis, capítulo 1, se lê: O Espírito de Deus era levado sobre as águas; flutuava sobre as águas; Que o firmamento seja feito no meio das águas; Que as águas que estão debaixo do céu se reúnam em um só lugar e que apareça o elemento árido; Que as águas produzam animais vivos que nadem na água e pássaros que voem sobre a terra e sob o firmamento.
+Muito imperfeitos eram os conhecimentos dos antigos sobre as ciências físicas. Eles acreditavam que a Terra saíra das águas e, por isso, consideravam a água como elemento gerador absoluto. Assim é que em [Gênesis](https://pt.m.wikipedia.org/wiki/Gênesis), capítulo 1, se lê: 
+
+> o Espírito de Deus se movia sobre a face das águas; E fez Deus a expansão e fez separação entre as águas que estavam debaixo da expansão e as águas que estavam sobre a expansão; E disse Deus: Ajuntem-se as águas debaixo dos céus num lugar; e apareça a porção seca ; E Deus os abençoou, dizendo: Frutificai, e multiplicai-vos, e enchei as águas nos mares; e as aves se multipliquem na terra.
+>
+>[Gênesis](https://pt.m.wikipedia.org/wiki/Gênesis), [cap. 01](https://pt.m.wikipedia.org/wiki/Gênesis#Primeiro_relato_da_criação), [vers. 02,  06, 09, 22](https://www.bible.com/pt/bible/212/GEN.1.ARC), [ARC][ARC]
+{:bible-multi}
 
 Segundo essa crença, a água se tornara o símbolo da natureza material, como o Espírito era o da natureza inteligente. Estas palavras: Se o homem não renasce da água e do Espírito, ou em água e em Espírito, significam pois: Se o homem não renasce com seu corpo e sua alma. É nesse sentido que a princípio as compreenderam.
 
-Tal interpretação se justifica, aliás, por estas outras palavras: O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Jesus estabelece aí uma distinção positiva entre o Espírito e o corpo. O que é nascido da carne é carne indica claramente que só o corpo procede do corpo e que o Espírito independe deste.
+Tal interpretação se justifica, aliás, por estas outras palavras: O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. [Jesus][1] estabelece aí uma distinção positiva entre o Espírito e o corpo. O que é nascido da carne é carne indica claramente que só o corpo procede do corpo e que o Espírito independe deste.
 
 ###### 09
 
-O Espírito sopra onde quer; ouves-lhe a voz, mas não sabes nem donde ele vem, nem para onde vai: pode-se entender que se trata do Espírito de Deus, que dá vida a quem ele quer, ou da alma do homem. Nesta última acepção — não sabes donde ele vem, nem para onde vai — significa que ninguém sabe o que foi, nem o que será o Espírito. Se o Espírito, ou alma, fosse criado ao mesmo tempo que o corpo, saber-se-ia donde ele veio, pois que se lhe conheceria o começo. Como quer que seja, essa passagem consagra o princípio da preexistência da alma e, por conseguinte, o da pluralidade das existências.
+O Espírito sopra onde quer; ouves-lhe a voz, mas não sabes nem donde ele vem, nem para onde vai: pode-se entender que se trata do Espírito de Deus, que dá vida a quem ele quer, ou da [alma](https://pt.m.wikipedia.org/wiki/Alma) do homem. Nesta última [acepção](https://pt.m.wiktionary.org/wiki/acepção) — não sabes donde ele vem, nem para onde vai — significa que ninguém sabe o que foi, nem o que será o Espírito. Se o Espírito, ou alma, fosse criado ao mesmo tempo que o corpo, saber-se-ia donde ele veio, pois que se lhe conheceria o começo. Como quer que seja, essa passagem consagra o princípio da preexistência da alma e, por conseguinte, o da [pluralidade](https://pt.m.wiktionary.org/wiki/pluralidade) das existências.
 
 ###### 10
 
-> ✝️ ▸ *Ora, desde o tempo de João Batista até o presente, o Reino dos Céus é tomado pela violência e são os violentos que o arrebatam; pois que assim o profetizaram todos os profetas até João, e também a lei. Se quiserdes compreender o que vos digo, ele mesmo é o Elias que há de vir. Ouça-o aquele que tiver ouvidos de ouvir.*
+> ✝️ ▸ *E, desde os dias de João Batista até agora, se faz violência ao Reino dos céus, e pela força se apoderam dele. Porque todos os profetas e a lei profetizaram até João. E, se quereis dar crédito, é este o Elias que havia de vir. Quem tem ouvidos para ouvir ouça.*
 >
 <!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
-> [Mateus][Mt], [cap. 11][Mt11], vers. 12 a 15, [ARC][ARC]
+> [Mateus][Mt], [cap. 11][Mt11], [vers. 12 a 15](https://www.bible.com/pt/bible/212/MAT.11.ARC), [ARC][ARC]
 {:.bible-multi}
 
 ###### 11
 
-Se o princípio da reencarnação, conforme se acha expresso em João, podia, a rigor, ser interpretado em sentido puramente místico, o mesmo já não acontece com esta passagem de [Mateus][Mt], que não permite equívoco: ele mesmo é o Elias que há de vir. Não há aí figura, nem alegoria: é uma afirmação positiva. — Desde o tempo de João Batista até o presente o Reino dos Céus é tomado pela violência. Que significam essas palavras, uma vez que João Batista ainda vivia naquele momento? Jesus as explica, dizendo: Se quiserdes compreender o que digo, ele mesmo é o Elias que há de vir. Ora, sendo João o próprio Elias, Jesus alude à época em que João vivia com o nome de Elias. Até o presente o Reino dos Céus é tomado pela violência: outra alusão à violência da lei moisaica, que ordenava o extermínio dos infiéis, para que os demais ganhassem a Terra Prometida, Paraíso dos Hebreus, ao passo que, segundo a nova lei, o céu se ganha pela caridade e pela brandura.
+Se o princípio da [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarnação), conforme se acha expresso em [João](https://pt.m.wikipedia.org/wiki/João,_o_Evangelista), podia, a rigor, ser interpretado em sentido puramente [místico](https://pt.m.wiktionary.org/wiki/místico), o mesmo já não acontece com esta passagem de [Mateus][Mt], que não permite equívoco: ele mesmo é o Elias que há de vir. Não há aí figura, nem [alegoria](https://pt.m.wiktionary.org/wiki/alegoria): é uma afirmação positiva. — Desde o tempo de [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista) até o presente o [Reino dos Céus](https://pt.m.wikipedia.org/wiki/Reino_de_Deus) é tomado pela violência. Que significam essas palavras, uma vez que João Batista ainda vivia naquele momento? [Jesus][1] as explica, dizendo: Se quiserdes compreender o que digo, ele mesmo é o [Elias](https://pt.m.wikipedia.org/wiki/Elias) que há de vir. Ora, sendo João o próprio Elias, Jesus alude à época em que João vivia com o nome de Elias. Até o presente o Reino dos Céus é tomado pela violência: outra alusão à violência da [lei moisaica](https://pt.m.wikipedia.org/wiki/Lei_de_Moisés), que ordenava o [extermínio](https://pt.m.wiktionary.org/wiki/extermínio) dos [infiéis](https://pt.m.wiktionary.org/wiki/infiel), para que os demais ganhassem a [Terra Prometida](https://pt.m.wikipedia.org/wiki/Terra_prometida), Paraíso dos Hebreus, ao passo que, segundo a nova lei, o céu se ganha pela caridade e pela [brandura](https://pt.m.wiktionary.org/wiki/brandura).
 
-E acrescentou: Ouça aquele que tiver ouvidos de ouvir. Essas palavras, que Jesus tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
+E acrescentou: 
+
+>  *Ouça aquele que tiver ouvidos de ouvir.*
+>
+>  Livro, cap X, vers. Y
+
+Essas palavras, que [Jesus][1] tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
 
 ###### 12
 
-> ✝️ ▸ *Aqueles do vosso povo a quem a morte foi dada viverão de novo; aqueles que estavam mortos em meio a mim ressuscitarão. Despertai do vosso sono e entoai louvores a Deus, vós que habitais no pó; porque o orvalho que cai sobre vós é um orvalho de luz e porque arruinareis a Terra e o reino dos gigantes.*
+> ✝️ ▸ *Os teus mortos viverão, os teus mortos ressuscitarão; despertai e exultai, vós que habitais no pó, porque o teu orvalho, ó Deus, será como o orvalho das ervas, e a terra lançará de si os mortos.*
 >
 <!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
-> Isaías, cap. 26, vers. 19, [ARC][ARC]
+> [Isaías](https://pt.m.wikipedia.org/wiki/Isaías), [cap. 26](https://www.bible.com/pt/bible/212/ISA.26.ARC), [vers. 19](https://www.bible.com/pt/bible/212/ISA.26.ARC), [ARC][ARC]
 {:.bible-multi}
 
 ###### 13
 
-É também muito explícita esta passagem de Isaías: Aqueles do vosso povo a quem a morte foi dada viverão de novo. Se o profeta houvera querido falar da vida espiritual, se houvera pretendido dizer que aqueles que tinham sido executados não estavam mortos em Espírito, teria dito: ainda vivem, e não: viverão de novo. No sentido espiritual, essas palavras seriam um contrassenso, pois que implicariam uma interrupção na vida da alma. No sentido de regeneração moral, seriam a negação das penas eternas, pois que estabelecem, em princípio, que todos os que estão mortos reviverão.
+É também muito [explícita](https://pt.m.wiktionary.org/wiki/explícito) esta passagem de Isaías: Aqueles do vosso povo a quem a [morte](https://pt.m.wikipedia.org/wiki/Morte) foi dada viverão de novo. Se o [profeta](https://pt.m.wikipedia.org/wiki/Profeta) houvera querido falar da vida espiritual, se houvera pretendido dizer que aqueles que tinham sido executados não estavam mortos em Espírito, teria dito: ainda vivem, e não: viverão de novo. No sentido espiritual, essas palavras seriam um contrassenso, pois que implicariam uma interrupção na vida da alma. No sentido de regeneração moral, seriam a negação das penas eternas, pois que estabelecem, em princípio, que todos os que estão mortos reviverão.
 
 ###### 14
 
 > ✝️ ▸ Mas quando o homem há morrido uma vez, quando seu corpo, separado de seu espírito, foi consumido, que é feito dele? Tendo morrido uma vez, poderia o homem reviver de novo? Nesta guerra em que me acho todos os dias da minha vida, espero que chegue a minha mutação.
 >
-> **Jó, cap. 14, vers. 10 e 14. Tradução de Lemaistre de Sacy**
+> Jó, cap. 14, vers. 10 e 14. Tradução de Lemaistre de Sacy
 {:.bible-multi}
 
 > ✝️ ▸ Quando o homem morre, perde toda a sua força, expira. Depois, onde está ele? — Se o homem morre, viverá de novo? Esperarei todos os dias de meu combate, até que venha alguma mutação?
 >
-> **Idem. Tradução protestante de Osterwald**
+> Idem. Tradução protestante de Osterwald
 {:.bible-multi}
 
 > ☦️ Quando o homem está morto, vive sempre; acabando os dias da minha existência terrestre, esperarei, porquanto a ela voltarei de novo.
 >
-> **Idem. Versão da Igreja grega**
+> Idem. Versão da Igreja grega
 {:.bible-multi}
 
 ###### 15
 
-Nessas três versões, o princípio da pluralidade das existências se acha claramente expresso. Ninguém poderá supor que Jó haja querido falar da regeneração pela água do batismo, que ele decerto não conhecia. Tendo o homem morrido uma vez, poderia reviver de novo?
+Nessas três versões, o princípio da pluralidade das existências se acha claramente expresso. Ninguém poderá supor que Jó haja querido falar da regeneração pela água do [batismo](https://pt.m.wikipedia.org/wiki/Batismo), que ele decerto não conhecia. Tendo o homem morrido uma vez, poderia reviver de novo?
 
-A ideia de morrer uma vez, e de reviver implica a de morrer e reviver muitas vezes. A versão da Igreja grega ainda é mais explícita, se é que isso é possível: Acabando os dias da minha existência terrena, esperarei, porquanto a ela voltarei, ou, voltarei à existência terrestre. Isso é tão claro, como se alguém dissesse: Saio de minha casa, mas a ela tornarei.
+A ideia de morrer uma vez, e de reviver implica a de morrer e reviver muitas vezes. A versão da [Igreja grega](https://pt.m.wikipedia.org/wiki/Igreja_Ortodoxa) ainda é mais explícita, se é que isso é possível: Acabando os dias da minha existência terrena, esperarei, porquanto a ela voltarei, ou, voltarei à existência terrestre. Isso é tão claro, como se alguém dissesse: Saio de minha casa, mas a ela tornarei.
 
-Nesta guerra em que me encontro todos os dias de minha vida, espero que se dê a minha mutação.
+Nesta guerra em que me encontro todos os dias de minha vida, espero que se dê a minha [mutação](https://pt.m.wiktionary.org/wiki/mutação).
 
-Jó, evidentemente, pretendeu referir-se à luta que sustentava contra as misérias da vida. Espera a sua mutação, isto é, resigna-se. Na versão grega, esperarei parece aplicar-se, preferentemente, a uma nova existência:
+[Jó](https://pt.m.wikipedia.org/wiki/Jó), evidentemente, pretendeu referir-se à luta que sustentava contra as [misérias](https://pt.m.wiktionary.org/wiki/miséria#Português) da vida. Espera a sua mutação, isto é, [resigna-se](https://pt.m.wiktionary.org/wiki/resignação). Na versão grega, esperarei parece aplicar-se, preferentemente, a uma nova existência:
 
 Quando a minha existência estiver acabada, esperarei, porquanto a ela voltarei.
 
@@ -852,13 +863,13 @@ Jó como que se coloca, após a morte, no intervalo que separa uma existência d
 
 ###### 16
 
-Não há, pois, duvidar de que, sob o nome de ressurreição, o princípio da reencarnação era ponto de uma das crenças fundamentais dos judeus, ponto que Jesus e os profetas confirmaram de modo formal; donde se segue que negar a reencarnação é negar as palavras do Cristo. Um dia, porém, suas palavras, quando forem meditadas sem ideias preconcebidas, reconhecer-se-ão autorizadas quanto a esse ponto, bem como em relação a muitos outros.
+Não há, pois, duvidar de que, sob o nome de [ressurreição](https://pt.m.wikipedia.org/wiki/Ressurreição), o princípio da [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarnação) era ponto de uma das crenças fundamentais dos judeus, ponto que [Jesus][1] e os profetas confirmaram de modo formal; donde se segue que negar a reencarnação é negar as palavras do [Cristo](https://pt.m.wikipedia.org/wiki/Cristo). Um dia, porém, suas palavras, quando forem [meditadas](https://pt.m.wiktionary.org/wiki/meditar) sem ideias preconcebidas, reconhecer-se-ão autorizadas quanto a esse ponto, bem como em relação a muitos outros.
 
 ###### 17
 
-A essa autoridade, do ponto de vista religioso, se adita, do ponto de vista filosófico, a das provas que resultam da observação dos fatos. Quando se trata de remontar dos efeitos às causas, a reencarnação surge como de necessidade absoluta, como condição inerente à Humanidade; numa palavra: como Lei da Natureza. Pelos seus resultados, ela se evidencia, de modo, por assim dizer, material, da mesma forma que o motor oculto se revela pelo movimento. Só ela pode dizer ao homem donde ele vem, para onde vai, por que está na Terra, e justificar todas as anomalias e todas as aparentes injustiças que a vida apresenta. [^8]
+A essa autoridade, do ponto de vista [religioso](https://pt.m.wikipedia.org/wiki/Religião), se adita, do ponto de vista [filosófico](https://pt.m.wikipedia.org/wiki/Filosofia), a das provas que resultam da observação dos fatos. Quando se trata de remontar dos efeitos às causas, a reencarnação surge como de necessidade absoluta, como condição inerente à [Humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana); numa palavra: como Lei da Natureza. Pelos seus resultados, ela se evidencia, de modo, por assim dizer, material, da mesma forma que o motor oculto se revela pelo movimento. Só ela pode dizer ao homem donde ele vem, para onde vai, por que está na [Terra](https://pt.m.wikipedia.org/wiki/Terra), e justificar todas as [anomalias](https://pt.m.wiktionary.org/wiki/anomalia) e todas as aparentes injustiças que a vida apresenta. [^8]
 
-Sem o princípio da preexistência da alma e da pluralidade das existências, são ininteligíveis, em sua maioria, as máximas do Evangelho, razão por que hão dado lugar a tão contraditórias interpretações. Está nesse princípio a chave que lhes restituirá o sentido verdadeiro.
+Sem o princípio da preexistência da alma e da [pluralidade](https://pt.m.wiktionary.org/wiki/pluralidade) das existências, são [ininteligíveis](https://pt.m.wiktionary.org/wiki/ininteligível), em sua maioria, as máximas do [Evangelho](https://pt.m.wikipedia.org/wiki/Evangelho), razão por que hão dado lugar a tão contraditórias interpretações. Está nesse princípio a chave que lhes restituirá o sentido verdadeiro.
 
 #### A reencarnação fortalece os laços de família, ao passo que a unicidade da existência os rompe
 
@@ -866,17 +877,17 @@ Sem o princípio da preexistência da alma e da pluralidade das existências, s�
 
 Os laços de família não sofrem destruição alguma com a reencarnação, como o pensam certas pessoas. Ao contrário, tornam-se mais fortalecidos e apertados. O princípio oposto, sim, os destrói.
 
-No Espaço, os Espíritos formam grupos ou famílias entrelaçados pela afeição, pela simpatia e pela semelhança das inclinações. Ditosos por se encontrarem juntos, esses Espíritos se buscam uns aos outros. A encarnação apenas momentaneamente os separa, porquanto, ao regressarem à erraticidade, novamente se reúnem como amigos que voltam de uma viagem. Muitas vezes, até, uns seguem a outros na encarnação, vindo aqui reunir-se numa mesma família, ou num mesmo círculo, a fim de trabalharem juntos pelo seu mútuo adiantamento. Se uns encarnam e outros não, nem por isso deixam de estar unidos pelo pensamento. Os que se conservam livres velam pelos que se acham em cativeiro. Os mais adiantados se esforçam por fazer que os retardatários progridam. Após cada existência, todos têm avançado um passo na senda do aperfeiçoamento. Cada vez menos presos à matéria, mais viva se lhes torna a afeição recíproca, pela razão mesma de que, mais depurada, não tem a perturbá-la o egoísmo, nem as sombras das paixões. Podem, portanto, percorrer, assim, ilimitado número de existências corpóreas, sem que nenhum golpe receba a mútua estima que os liga.
+No Espaço, os Espíritos formam grupos ou famílias entrelaçados pela afeição, pela simpatia e pela semelhança das inclinações. [Ditosos](https://pt.m.wiktionary.org/wiki/ditoso) por se encontrarem juntos, esses Espíritos se buscam uns aos outros. A encarnação apenas momentaneamente os separa, porquanto, ao regressarem à erraticidade, novamente se reúnem como amigos que voltam de uma viagem. Muitas vezes, até, uns seguem a outros na encarnação, vindo aqui reunir-se numa mesma família, ou num mesmo círculo, a fim de trabalharem juntos pelo seu mútuo adiantamento. Se uns encarnam e outros não, nem por isso deixam de estar unidos pelo pensamento. Os que se conservam livres velam pelos que se acham em [cativeiro](https://pt.m.wiktionary.org/wiki/cativeiro). Os mais adiantados se esforçam por fazer que os [retardatários](https://pt.m.wiktionary.org/wiki/retardatário) progridam. Após cada existência, todos têm avançado um passo na senda do aperfeiçoamento. Cada vez menos presos à matéria, mais viva se lhes torna a afeição [recíproca](https://pt.m.wiktionary.org/wiki/recíproco), pela razão mesma de que, mais [depurada](https://pt.m.wiktionary.org/wiki/depurar), não tem a perturbá-la o [egoísmo](https://pt.m.wiktionary.org/wiki/egoísmo), nem as sombras das paixões. Podem, portanto, percorrer, assim, ilimitado número de existências corpóreas, sem que nenhum golpe receba a mútua estima que os liga.
 
-Está bem visto que aqui se trata de afeição real, de alma a alma, única que sobrevive à destruição do corpo, porquanto os seres que neste mundo se unem apenas pelos sentidos nenhum motivo têm para se procurarem no mundo dos Espíritos. Duráveis somente o são as afeições espirituais; as de natureza carnal se extinguem com a causa que lhes deu origem. Ora, semelhante causa não subsiste no mundo dos Espíritos, enquanto a alma existe sempre. No que concerne às pessoas que se unem exclusivamente por motivo de interesse, essas nada realmente são umas para as outras: a morte as separa na Terra e no céu.
+Está bem visto que aqui se trata de afeição real, de [alma](https://pt.m.wikipedia.org/wiki/Alma) a alma, única que sobrevive à destruição do corpo, porquanto os seres que neste mundo se unem apenas pelos sentidos nenhum motivo têm para se procurarem no mundo dos Espíritos. Duráveis somente o são as afeições espirituais; as de natureza carnal se extinguem com a causa que lhes deu origem. Ora, semelhante causa não subsiste no mundo dos Espíritos, enquanto a alma existe sempre. No que concerne às pessoas que se unem exclusivamente por motivo de interesse, essas nada realmente são umas para as outras: a [morte](https://pt.m.wikipedia.org/wiki/Morte) as separa na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e no [céu](https://pt.m.wikipedia.org/wiki/Céu_(religião)).
 
 ###### 19
 
-A união e a afeição que existem entre pessoas parentes são um índice da simpatia anterior que as aproximou. Daí vem que, falando-se de alguém cujo caráter, gostos e pendores nenhuma semelhança apresentam com os dos seus parentes mais próximos, se costuma dizer que ela não é da família. Dizendo-se isso, enuncia-se uma verdade mais profunda do que se supõe. Deus permite que, nas famílias, ocorram essas encarnações de Espíritos antipáticos ou estranhos, com o duplo objetivo de servir de prova para uns e, para outros, de meio de progresso. Assim, os maus se melhoram pouco a pouco, ao contato dos bons e por efeito dos cuidados que se lhes dispensam. O caráter deles se abranda, seus costumes se apuram, as antipatias se esvaem. É desse modo que se opera a fusão das diferentes categorias de Espíritos, como se dá na Terra com as raças e os povos. [^9]
+A união e a afeição que existem entre pessoas parentes são um índice da simpatia anterior que as aproximou. Daí vem que, falando-se de alguém cujo caráter, gostos e pendores nenhuma semelhança apresentam com os dos seus parentes mais próximos, se costuma dizer que ela não é da família. Dizendo-se isso, enuncia-se uma [verdade](https://pt.m.wikipedia.org/wiki/Verdade) mais profunda do que se supõe. [Deus](https://pt.m.wikipedia.org/wiki/Deus) permite que, nas famílias, ocorram essas encarnações de Espíritos antipáticos ou estranhos, com o duplo objetivo de servir de prova para uns e, para outros, de meio de [progresso](https://pt.m.wiktionary.org/wiki/progresso). Assim, os maus se melhoram pouco a pouco, ao contato dos bons e por efeito dos cuidados que se lhes dispensam. O [caráter](https://pt.m.wiktionary.org/wiki/caráter) deles se abranda, seus costumes se apuram, as antipatias se esvaem. É desse modo que se opera a fusão das diferentes categorias de Espíritos, como se dá na Terra com as raças e os povos. [^9]
 
 ###### 20
 
-O temor de que a parentela aumente indefinidamente, em consequência da reencarnação, é de fundo egoístico: prova, naquele que o sente, falta de amor bastante amplo para abranger grande número de pessoas. Um pai, que tem muitos filhos, ama-os menos do que amaria a um deles se fosse único? Mas tranquilizem-se os egoístas: não há fundamento para semelhante temor. Do fato de um homem ter tido dez encarnações, não se segue que vá encontrar, no mundo dos Espíritos, dez pais, dez mães, dez mulheres e um número proporcional de filhos e de parentes novos. Lá encontrará sempre os que foram objeto da sua afeição, os quais se lhe terão ligado na Terra, a títulos diversos, e, talvez, sob o mesmo título.
+O temor de que a parentela aumente indefinidamente, em consequência da [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarnação), é de fundo egoístico: prova, naquele que o sente, falta de [amor](https://pt.m.wikipedia.org/wiki/Amor) bastante amplo para abranger grande número de pessoas. Um pai, que tem muitos filhos, ama-os menos do que amaria a um deles se fosse único? Mas tranquilizem-se os egoístas: não há fundamento para semelhante temor. Do fato de um homem ter tido dez encarnações, não se segue que vá encontrar, no mundo dos Espíritos, dez pais, dez mães, dez mulheres e um número proporcional de filhos e de parentes novos. Lá encontrará sempre os que foram objeto da sua afeição, os quais se lhe terão ligado na [Terra](https://pt.m.wikipedia.org/wiki/Terra), a títulos diversos, e, talvez, sob o mesmo título.
 
 ###### 21
 
@@ -884,13 +895,23 @@ Vejamos agora as consequências da doutrina antirreencarnacionista. Ela, necessa
 
 ###### 22
 
-Isso quanto ao passado. Quanto ao futuro, segundo um dos dogmas fundamentais que decorrem da não reencarnação, a sorte das almas se acha irrevogavelmente determinada, após uma só existência. A fixação definitiva da sorte implica a cessação de todo progresso, pois desde que haja qualquer progresso já não há sorte definitiva. Conforme tenham vivido bem ou mal, elas vão imediatamente para a mansão dos bem-aventurados ou para o inferno eterno. Ficam assim, imediatamente e para sempre, separadas e sem esperança de tornarem a juntar-se, de forma que pais, mães e filhos, maridos e mulheres, irmãos, irmãs e amigos jamais podem estar certos de se ver novamente; é a ruptura absoluta dos laços de família.
+Isso quanto ao passado. Quanto ao futuro, segundo um dos [dogmas](https://pt.m.wikipedia.org/wiki/Dogma) fundamentais que decorrem da não [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarnação), a sorte das almas se acha irrevogavelmente determinada, após uma só existência. A fixação definitiva da [sorte](https://pt.m.wikipedia.org/wiki/Sorte) implica a cessação de todo [progresso](https://pt.m.wikipedia.org/wiki/Progresso_(filosofia)), pois desde que haja qualquer progresso já não há sorte definitiva. Conforme tenham vivido bem ou mal, elas vão imediatamente para a mansão dos bem-aventurados ou para o [inferno](https://pt.m.wikipedia.org/wiki/Inferno) eterno. Ficam assim, imediatamente e para sempre, separadas e sem esperança de tornarem a juntar-se, de forma que pais, mães e filhos, maridos e mulheres, irmãos, irmãs e amigos jamais podem estar certos de se ver novamente; é a ruptura absoluta dos laços de família.
 
-Com a reencarnação e progresso a que dá lugar, todos os que se amaram tornam a encontrar-se na Terra e no Espaço e juntos gravitam para Deus. Se alguns fraquejam no caminho, esses retardam o seu adiantamento e a sua felicidade, mas não há para eles perda de toda esperança. Ajudados, encorajados e amparados pelos que os amam, um dia sairão do lodaçal em que se enterraram. Com a reencarnação, finalmente, há perpétua solidariedade entre os encarnados e os desencarnados, e, daí, estreitamento dos laços de afeição.
+Com a reencarnação e progresso a que dá lugar, todos os que se amaram tornam a encontrar-se na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e no Espaço e juntos gravitam para [Deus](https://pt.m.wikipedia.org/wiki/Deus). Se alguns fraquejam no caminho, esses retardam o seu adiantamento e a sua felicidade, mas não há para eles perda de toda esperança. Ajudados, encorajados e amparados pelos que os amam, um dia sairão do [lodaçal](https://pt.m.wiktionary.org/wiki/lodaçal) em que se enterraram. Com a reencarnação, finalmente, há [perpétua](https://pt.m.wiktionary.org/wiki/perpétuo) solidariedade entre os encarnados e os desencarnados, e, daí, estreitamento dos laços de afeição.
 
 ###### 23
 
-Em resumo, quatro alternativas se apresentam ao homem para o seu futuro de além-túmulo: 1a , o nada, de acordo com a doutrina materialista; 2a , a absorção no todo universal, de acordo com a doutrina panteísta; 3a , a individualidade, com fixação definitiva da sorte, segundo a doutrina da Igreja; 4a , a individualidade, com progressão indefinita, conforme a Doutrina Espírita. Segundo as duas primeiras, os laços de família se rompem por ocasião da morte e nenhuma esperança resta às almas de se encontrarem futuramente. Com a terceira, há para elas a possibilidade de se tornarem a ver, desde que sigam para a mesma região, que tanto pode ser o inferno como o paraíso. Com a pluralidade das existências, inseparável da progressão gradativa, há a certeza na continuidade das relações entre os que se amaram, e é isso o que constitui a verdadeira família.
+Em resumo, quatro alternativas se apresentam ao homem para o seu futuro de além-túmulo: 
+
+1. o nada, de acordo com a doutrina materialista; 
+
+2. a absorção no todo universal, de acordo com a doutrina panteísta;
+
+3. a individualidade, com fixação definitiva da sorte, segundo a doutrina da Igreja; 
+
+4. a individualidade, com progressão indefinita, conforme a Doutrina Espírita.  
+
+Segundo as duas primeiras, os laços de família se rompem por ocasião da [morte](https://pt.m.wikipedia.org/wiki/Morte) e nenhuma esperança resta às almas de se encontrarem futuramente. Com a terceira, há para elas a possibilidade de se tornarem a ver, desde que sigam para a mesma região, que tanto pode ser o [inferno](https://pt.m.wikipedia.org/wiki/Inferno) como o [paraíso](https://pt.m.wikipedia.org/wiki/Paraíso). Com a pluralidade das existências, inseparável da progressão gradativa, há a certeza na continuidade das relações entre os que se amaram, e é isso o que constitui a verdadeira família.
 
 #### Instruções dos Espíritos
 
@@ -900,15 +921,15 @@ Em resumo, quatro alternativas se apresentam ao homem para o seu futuro de além
 
 Quais os limites da encarnação?
 
-> 👻 ▸ A bem dizer, a encarnação carece de limites precisamente traçados, se tivermos em vista apenas o envoltório que constitui o corpo do Espírito, dado que a materialidade desse envoltório diminui à proporção que o Espírito se purifica. Em certos mundos mais adiantados do que a Terra, já ele é menos compacto, menos pesado e menos grosseiro e, por conseguinte, menos sujeito a vicissitudes. Em grau mais elevado, é diáfano e quase fluídico. Vai desmaterializando-se de grau em grau e acaba por se confundir com o perispírito. Conforme o mundo em que é levado a viver, o Espírito reveste o invólucro apropriado à natureza desse mundo.
+> 👻 ▸ A bem dizer, a encarnação carece de limites precisamente traçados, se tivermos em vista apenas o [envoltório](https://pt.m.wiktionary.org/wiki/envoltório) que constitui o corpo do Espírito, dado que a materialidade desse envoltório diminui à proporção que o Espírito se purifica. Em certos mundos mais adiantados do que a [Terra](https://pt.m.wikipedia.org/wiki/Terra), já ele é menos compacto, menos pesado e menos grosseiro e, por conseguinte, menos sujeito a [vicissitudes](https://pt.m.wiktionary.org/wiki/vicissitude). Em grau mais elevado, é [diáfano](https://pt.m.wiktionary.org/wiki/diáfano) e quase fluídico. Vai desmaterializando-se de grau em grau e acaba por se confundir com o perispírito. Conforme o mundo em que é levado a viver, o Espírito reveste o [invólucro](https://pt.m.wiktionary.org/wiki/invólucro) apropriado à natureza desse mundo.
 >
-> O próprio perispírito passa por transformações sucessivas. Torna-se cada vez mais etéreo, até a depuração completa, que é a condição dos puros Espíritos. Se mundos especiais são destinados a Espíritos de grande adiantamento, estes últimos não lhes ficam presos, como nos mundos inferiores. O estado de desprendimento em que se encontram lhes permite ir a toda parte onde os chamem as missões que lhes estejam confiadas.
+> O próprio [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito) passa por transformações sucessivas. Torna-se cada vez mais [etéreo](https://pt.m.wiktionary.org/wiki/etéreo), até a depuração completa, que é a condição dos puros Espíritos. Se mundos especiais são destinados a Espíritos de grande adiantamento, estes últimos não lhes ficam presos, como nos mundos inferiores. O estado de desprendimento em que se encontram lhes permite ir a toda parte onde os chamem as missões que lhes estejam confiadas.
 >
 > Se se considerar do ponto de vista material a encarnação, tal como se verifica na Terra, poder-se-á dizer que ela se limita aos mundos inferiores. Depende, portanto, de o Espírito libertar-se dela mais ou menos rapidamente, trabalhando pela sua purificação.
 >
 > Deve também considerar-se que no estado de desencarnado, isto é, no intervalo das existências corporais, a situação do Espírito guarda relação com a natureza do mundo a que o liga o grau do seu adiantamento. Assim, na erraticidade, é ele mais ou menos ditoso, livre e esclarecido, conforme está mais ou menos desmaterializado.
 >
-> São Luís, IX da França  
+> [São Luís, IX da França](https://pt.m.wikipedia.org/wiki/Luís_IX_de_França)  
 > [Paris](../content/maps/paris.html) 🇫🇷  
 > 1859  
 {:.spirit-multi}
@@ -917,9 +938,9 @@ Quais os limites da encarnação?
 
 ###### 25
 
-É um castigo a encarnação e somente os Espíritos culpados estão sujeitos a sofrê-la?
+É um [castigo](https://pt.m.wiktionary.org/wiki/castigo) a encarnação e somente os Espíritos culpados estão sujeitos a sofrê-la?
 >
-> 👻 ▸ A passagem dos Espíritos pela vida corporal é necessária para que eles possam cumprir, por meio de uma ação material, os desígnios cuja execução Deus lhes confia. É-lhes necessária, a bem deles, visto que a atividade que são obrigados a exercer lhes auxilia o desenvolvimento da inteligência. Sendo soberanamente justo, Deus tem de distribuir tudo igualmente por todos os seus filhos; assim é que estabeleceu para todos o mesmo ponto de partida, a mesma aptidão, as mesmas obrigações a cumprir e a mesma liberdade de proceder. Qualquer privilégio seria uma preferência, e toda preferência, uma injustiça; mas a encarnação, para todos os Espíritos, é apenas um estado transitório. É uma tarefa que Deus lhes impõe, quando iniciam a vida, como primeira experiência do uso que farão do livre-arbítrio. Os que desempenham com zelo essa tarefa transpõem rapidamente e menos penosamente os primeiros graus da iniciação e mais cedo gozam do fruto de seus labores. Os que, ao contrário, usam mal da liberdade que Deus lhes concede retardam a sua marcha e, tal seja a obstinação que demonstrem, podem prolongar indefinidamente a necessidade da reencarnação e é quando se torna um castigo.
+> 👻 ▸ A passagem dos Espíritos pela vida corporal é necessária para que eles possam cumprir, por meio de uma ação material, os [desígnios](https://pt.m.wiktionary.org/wiki/desígnio) cuja execução [Deus](https://pt.m.wikipedia.org/wiki/Deus) lhes confia. É-lhes necessária, a bem deles, visto que a atividade que são obrigados a exercer lhes auxilia o desenvolvimento da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência). Sendo soberanamente justo, Deus tem de distribuir tudo igualmente por todos os seus filhos; assim é que estabeleceu para todos o mesmo ponto de partida, a mesma [aptidão](https://pt.m.wiktionary.org/wiki/aptidão), as mesmas obrigações a cumprir e a mesma liberdade de proceder. Qualquer privilégio seria uma preferência, e toda preferência, uma injustiça; mas a encarnação, para todos os Espíritos, é apenas um estado transitório. É uma tarefa que Deus lhes impõe, quando iniciam a vida, como primeira experiência do uso que farão do livre-arbítrio. Os que desempenham com zelo essa tarefa transpõem rapidamente e menos penosamente os primeiros graus da iniciação e mais cedo gozam do fruto de seus labores. Os que, ao contrário, usam mal da liberdade que Deus lhes concede retardam a sua marcha e, tal seja a obstinação que demonstrem, podem prolongar indefinidamente a necessidade da reencarnação e é quando se torna um castigo.
 >
 > São Luís, IX da França  
 > [Paris](../content/maps/paris.html) 🇫🇷  
