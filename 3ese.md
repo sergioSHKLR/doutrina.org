@@ -83,8 +83,8 @@ layout: 3-ese
 >
 > Homens, irmãos a quem amamos, aqui estamos junto de vós. Amai-vos, também, uns aos outros e dizei do fundo do coração, fazendo as vontades do Pai, que está no Céu: Senhor! Senhor!… e podereis entrar no Reino dos Céus.
 >
-> <p style="text-align: right; font-weight: 400;">O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da Verdade</p>
-{:.spirit}
+> O Espírito da Verdade  
+{:.spirit-multi}
 
 **📝 Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
@@ -109,7 +109,7 @@ O Espiritismo se nos depara por toda a parte na Antiguidade e nas diferentes ép
 
 Como complemento de cada preceito, acrescentamos algumas instruções escolhidas, dentre as que os Espíritos ditaram em vários países e por diferentes médiuns. Se elas fossem tiradas de uma fonte única, houveram talvez sofrido uma influência pessoal ou a do meio, ao passo que a diversidade de origens prova que os Espíritos dão indistintamente seus ensinos e que ninguém a esse respeito goza de qualquer privilégio. [^1]
 
-Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu**que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
+Esta obra é para uso de todos. Dela podem todos haurir os meios de conformar com a moral do Cristo o respectivo proceder. Aos espíritas oferece aplicações que lhes concernem de modo especial. Graças às relações estabelecidas, doravante e permanentemente, entre os homens e o mundo invisível, a lei evangélica, que os próprios Espíritos ensinaram a todas as nações, já não será letra morta, porque cada um a compreenderá e se verá incessantemente compelido a pô-la em prática, a conselho de seus guias espirituais. As instruções que promanam dos Espíritos são verdadeiramente **as vozes do Céu** que vêm esclarecer os homens e convidá-los **à prática do Evangelho**.
 
 #### 0-03-02. 📄 Autoridade da doutrina espírita {#ese-0-03-02}
 
@@ -1611,7 +1611,7 @@ Perguntar-se-á: não poderia [Deus][0] tocá-los pessoalmente, por meio de mani
 
 > ✝️ ▸ *Bem-aventurados os que têm puro o coração, porquanto verão a Deus.*
 >
-> **[Mateus][Mt], [cap. 05][Mt05], vers. 8, [ARC][ARC]**
+> [Mateus][Mt], [cap. 05][Mt05], vers. 8, [ARC][ARC]
 {:.bible-multi}
 
 ###### 02
@@ -1817,7 +1817,7 @@ Quando uma aflição não é consequência dos atos da vida presente, deve-se-lh
 > ✝️ ▸ *… bem-aventurados os mansos, porque eles herdarão a [Terra](https://pt.m.wikipedia.org/wiki/Terra) …*
 >
 <!-- > [📽️](./content/videos/video-alt.html){:target="ext"} -->
-> **[Mateus][Mt], [cap. 05][Mt05], vers. 5, [ARC][ARC]**
+> [Mateus][Mt], [cap. 05][Mt05], vers. 5, [ARC][ARC]
 {:.bible-multi}
 
 ###### 02
@@ -2786,7 +2786,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 
 > ✝️ ▸ Disse-lhe ele: Quais? E [Jesus][1] disse: *Não matarás, não cometerás adultério, não furtarás, não dirás falso [testemunho](https://pt.m.wiktionary.org/wiki/testemunho); honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo.*
 >
-> **[Mateus][Mt], [cap. 19][Mt19], vers. 18-19 & Marcos, cap. 10, vers. 19 & Lucas, cap. 18, vers. 20, [ARC][ARC]**
+> [Mateus][Mt], [cap. 19][Mt19], vers. 18-19 & Marcos, cap. 10, vers. 19 & Lucas, cap. 18, vers. 20, [ARC][ARC]
 {:.bible-multi}
 
 ###### 02
@@ -3801,7 +3801,7 @@ Ver também: “Parábola do Festim das Bodas”, cap. XVIII, item 1
 
 > ✝️ ▸ *E Jesus, respondendo, disse-lhes: Acautelai-vos, que ninguém vos engane, porque muitos virão em meu nome, dizendo: Eu sou o Cristo; e enganarão a muitos. E surgirão muitos falsos profetas e enganarão a muitos. E, por se multiplicar a iniquidade, o amor de muitos se esfriará. Mas aquele que perseverar até ao fim será salvo. Então, se alguém vos disser: Eis que o Cristo está aqui ou ali, não lhe deis crédito, porque surgirão falsos cristos e falsos profetas e farão tão grandes sinais e prodígios, que, se possível fora, enganariam até os escolhidos.*
 >
-> **[Mateus][Mt], [cap. 22][Mt22], vers. 4-5, 11-13, 23-24 & Marcos, cap. 13, vers. 5-6, 21-22, [ARC][ARC]**
+> [Mateus][Mt], [cap. 22][Mt22], vers. 4-5, 11-13, 23-24 & Marcos, cap. 13, vers. 5-6, 21-22, [ARC][ARC]
 {:.bible-multi}
 
 #### Missão dos profetas
@@ -3998,7 +3998,7 @@ Estas notas encontram aplicação especial na interpretação das Santas Escritu
 
 > ✝️ ▸ *E todo aquele que tiver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou [Terra](https://pt.m.wikipedia.org/wiki/Terra)s, por amor do meu nome, receberá cem vezes tanto e herdará a vida eterna.*
 >
-> **[Mateus][Mt], [cap. 19][Mt19], vers. 29, [ARC][ARC]**
+> [Mateus][Mt], [cap. 19][Mt19], vers. 29, [ARC][ARC]
 {:.bible-multi}
 
 ###### 05
@@ -4108,7 +4108,7 @@ Essas palavras de [Jesus][1] devem, pois, entender-se com referência às cóler
 
 > ✝️ ▸ *Nem se acende a candeia e se coloca debaixo do alqueire, mas, no velador, e dá luz a todos que estão na casa.*
 >
-> **[Mateus][Mt], [cap. 05][Mt05], vers. 15, [ARC][ARC]**
+> [Mateus][Mt], [cap. 05][Mt05], vers. 15, [ARC][ARC]
 {:.bible-multi}
 
 ###### 02
