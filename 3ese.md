@@ -769,7 +769,7 @@ A [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarna%C3%A7%C3%A3o) fazia
 > 
 > [📽️](./content/videos/renascer.html){:target="ext"}
 > [João](https://pt.m.wikipedia.org/wiki/João,_o_Evangelista), [cap. 03](https://pt.m.wikipedia.org/wiki/João_3), [vers. 01 a 12](https://www.bible.com/pt/bible/212/JHN.3.ARC), [ARC][ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 ###### 06
 
