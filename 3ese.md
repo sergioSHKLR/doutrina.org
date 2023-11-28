@@ -933,10 +933,10 @@ Quais os limites da encarnação?
 ###### 25
 
 É um [castigo](https://pt.m.wiktionary.org/wiki/castigo) a encarnação e somente os Espíritos culpados estão sujeitos a sofrê-la?
->
+
 > 👻 ▸ A passagem dos Espíritos pela vida corporal é necessária para que eles possam cumprir, por meio de uma ação material, os [desígnios](https://pt.m.wiktionary.org/wiki/desígnio) cuja execução [Deus](https://pt.m.wikipedia.org/wiki/Deus) lhes confia. É-lhes necessária, a bem deles, visto que a atividade que são obrigados a exercer lhes auxilia o desenvolvimento da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência). Sendo soberanamente justo, Deus tem de distribuir tudo igualmente por todos os seus filhos; assim é que estabeleceu para todos o mesmo ponto de partida, a mesma [aptidão](https://pt.m.wiktionary.org/wiki/aptidão), as mesmas obrigações a cumprir e a mesma liberdade de proceder. Qualquer privilégio seria uma preferência, e toda preferência, uma injustiça; mas a encarnação, para todos os Espíritos, é apenas um estado transitório. É uma tarefa que Deus lhes impõe, quando iniciam a vida, como primeira experiência do uso que farão do livre-arbítrio. Os que desempenham com zelo essa tarefa transpõem rapidamente e menos penosamente os primeiros graus da iniciação e mais cedo gozam do fruto de seus labores. Os que, ao contrário, usam mal da liberdade que Deus lhes concede retardam a sua marcha e, tal seja a obstinação que demonstrem, podem prolongar indefinidamente a necessidade da reencarnação e é quando se torna um castigo.
 >
-> São Luís, IX da França  
+> [São Luís, IX da França](https://pt.m.wikipedia.org/wiki/Luís_IX_de_França)  
 > [Paris](../content/maps/paris.html) 🇫🇷  
 > 1859  
 {:.spirit-multi}
