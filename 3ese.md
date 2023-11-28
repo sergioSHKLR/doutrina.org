@@ -787,8 +787,8 @@ Muito imperfeitos eram os conhecimentos dos antigos sobre as ciências físicas.
 
 > o Espírito de Deus se movia sobre a face das águas; E fez Deus a expansão e fez separação entre as águas que estavam debaixo da expansão e as águas que estavam sobre a expansão; E disse Deus: Ajuntem-se as águas debaixo dos céus num lugar; e apareça a porção seca ; E Deus os abençoou, dizendo: Frutificai, e multiplicai-vos, e enchei as águas nos mares; e as aves se multipliquem na terra.
 >
->[Gênesis](https://pt.m.wikipedia.org/wiki/Gênesis), [cap. 01](https://pt.m.wikipedia.org/wiki/Gênesis#Primeiro_relato_da_criação), [vers. 02,  06, 09, 22](https://www.bible.com/pt/bible/212/GEN.1.ARC), [ARC][ARC]
-{:bible-multi}
+> [Gênesis](https://pt.m.wikipedia.org/wiki/Gênesis), [cap. 01](https://pt.m.wikipedia.org/wiki/Gênesis#Primeiro_relato_da_criação), [vers. 02,  06, 09, 22](https://www.bible.com/pt/bible/212/GEN.1.ARC), [ARC][ARC]
+{:.bible-multi}
 
 Segundo essa crença, a água se tornara o símbolo da natureza material, como o Espírito era o da natureza inteligente. Estas palavras: Se o homem não renasce da água e do Espírito, ou em água e em Espírito, significam pois: Se o homem não renasce com seu corpo e sua alma. É nesse sentido que a princípio as compreenderam.
 
