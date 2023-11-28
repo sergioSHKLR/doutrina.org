@@ -810,13 +810,7 @@ O Espírito sopra onde quer; ouves-lhe a voz, mas não sabes nem donde ele vem, 
 
 Se o princípio da [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarnação), conforme se acha expresso em [João](https://pt.m.wikipedia.org/wiki/João,_o_Evangelista), podia, a rigor, ser interpretado em sentido puramente [místico](https://pt.m.wiktionary.org/wiki/místico), o mesmo já não acontece com esta passagem de [Mateus][Mt], que não permite equívoco: ele mesmo é o Elias que há de vir. Não há aí figura, nem [alegoria](https://pt.m.wiktionary.org/wiki/alegoria): é uma afirmação positiva. — Desde o tempo de [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista) até o presente o [Reino dos Céus](https://pt.m.wikipedia.org/wiki/Reino_de_Deus) é tomado pela violência. Que significam essas palavras, uma vez que João Batista ainda vivia naquele momento? [Jesus][1] as explica, dizendo: Se quiserdes compreender o que digo, ele mesmo é o [Elias](https://pt.m.wikipedia.org/wiki/Elias) que há de vir. Ora, sendo João o próprio Elias, Jesus alude à época em que João vivia com o nome de Elias. Até o presente o Reino dos Céus é tomado pela violência: outra alusão à violência da [lei moisaica](https://pt.m.wikipedia.org/wiki/Lei_de_Moisés), que ordenava o [extermínio](https://pt.m.wiktionary.org/wiki/extermínio) dos [infiéis](https://pt.m.wiktionary.org/wiki/infiel), para que os demais ganhassem a [Terra Prometida](https://pt.m.wikipedia.org/wiki/Terra_prometida), Paraíso dos Hebreus, ao passo que, segundo a nova lei, o céu se ganha pela caridade e pela [brandura](https://pt.m.wiktionary.org/wiki/brandura).
 
-E acrescentou: 
-
->  *Ouça aquele que tiver ouvidos de ouvir.*
->
->  Livro, cap X, vers. Y
-
-Essas palavras, que [Jesus][1] tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
+E acrescentou: *Quem tem ouvidos para ouvir ouça.* Essas palavras, que [Jesus][1] tanto repetiu, claramente dizem que nem todos estavam em condições de compreender certas verdades.
 
 ###### 12
 
