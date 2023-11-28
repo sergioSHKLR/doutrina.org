@@ -414,8 +414,8 @@ A Lei de [Deus][0] está formulada nos dez mandamentos seguintes:
 >
 > 10. Não cobiceis a casa do vosso próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu asno, nem qualquer das coisas que lhe pertençam.
 >
-> <p style="text-align: right; font-weight: 400;">Exôdo, cap. 20, vers. 2-12</p>
-{:.bible}
+> Exôdo, cap. 20, vers. 2-12  
+{:.bible-multi}
 
 É de todos os tempos e de todos os países essa lei e tem, por isso mesmo, caráter divino. Todas as outras são leis que Moisés decretou, obrigado que se via a conter, pelo temor, um povo de seu natural turbulento e indisciplinado, no qual tinha ele de combater arraigados abusos e preconceitos, adquiridos durante a escravidão do Egito. Para imprimir autoridade às suas leis, houve de lhes atribuir origem divina, conforme o fizeram todos os legisladores dos povos primitivos. A autoridade do homem precisava apoiar-se na autoridade de Deus; mas só a ideia de um [Deus][0] terrível podia impressionar criaturas ignorantes, nas quais ainda pouco desenvolvidos se encontravam o senso moral e o sentimento de uma justiça reta. É evidente que aquele que incluíra, entre os seus mandamentos, este: *“Não matareis; não causareis dano ao vosso próximo”*, não poderia contradizer-se, fazendo da exterminação um dever. As leis moisaicas, propriamente ditas, revestiam, pois, um caráter essencialmente transitório.
 
