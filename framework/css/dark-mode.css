@@ -93,3 +93,5 @@
 .dark-mode iframe {
     filter: invert(87%)
 }
+
+.dark-mode .dropdown-content {background-color: #28343c;}

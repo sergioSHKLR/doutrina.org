@@ -89,7 +89,7 @@ button.tools {
     float: right;
     position: relative;
     display: inline-block;
-    left: 40px;
+    left: 42px;
 }
 
 .dropdown-content {
@@ -97,11 +97,12 @@ button.tools {
     position: absolute;
     z-index: 2;
     overflow: auto;
-    left: 11px;
+    left: 7px;
     top: 60px;
     border: 1px solid #59595980;
     border-radius: 20px;
     padding: 3px;
+    background-color: aliceblue;
 }
 
 .dropdown-content button {
@@ -112,8 +113,6 @@ button.tools {
     color: currentColor;
     z-index: 2;
 }
-
-.dropdown-content button:hover {outline: 3px solid orange}
 
 .show {
     display: block;
