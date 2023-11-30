@@ -13,7 +13,9 @@
     box-shadow: none;
 }
 
-.dark-mode #col1-body {background-color: #28343c;}
+.dark-mode #col1-body {
+    background-color: #28343c;
+}
 
 /*
 .dark-mode blockquote.bible,
@@ -94,4 +96,6 @@
     filter: invert(87%)
 }
 
-.dark-mode .dropdown-content {background-color: #28343c;}
+.dark-mode .dropdown-content {
+    background-color: #28343c;
+}
