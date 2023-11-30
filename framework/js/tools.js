@@ -292,6 +292,34 @@ function checkMode14() {
 
 //---------------------------------------------------
 
+
+function functionResetAll() {
+    localStorage.removeItem("text");
+    localStorage.removeItem("align");
+    localStorage.removeItem("font");
+    localStorage.removeItem("density");
+    localStorage.removeItem("bground");
+    var element = document.getElementById("col2-body");
+    element.classList.remove("td");
+    element.classList.remove("tn");
+    element.classList.remove("ti");
+    element.classList.remove("aj");
+    element.classList.remove("al");
+    element.classList.remove("f1");
+    element.classList.remove("f2");
+    element.classList.remove("f3");
+    element.classList.remove("f4");
+    element.classList.remove("dm");
+    element.classList.remove("dn");
+    element.classList.remove("ds");
+    element.classList.remove("b1");
+    element.classList.remove("b2");
+    element.classList.remove("b3");
+    element.classList.remove("b4");
+}
+
+//---------------------------------------------------
+
 function checkMode() {
     let text = localStorage.getItem("text");
     if (text == "increased") {
@@ -345,6 +373,10 @@ function checkMode() {
     }
     if (bground == "branco") {
         function14()
+    }
+    let mode = localStorage.getItem("contrast");
+    if (mode == "dark") {
+        darkMode3()
     }
 }
 

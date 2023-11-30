@@ -44,19 +44,3 @@ function lightMode3() {
     element.classList.remove("hide");
     localStorage.setItem("contrast","light");
 }
-
-// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
-function checkMode() {
-    let mode = localStorage.getItem("contrast");
-    if (mode == "dark") {
-        darkMode2()
-    }
-}
-
-// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
-function checkMode() {
-    let mode = localStorage.getItem("contrast");
-    if (mode == "dark") {
-        darkMode3()
-    }
-}
