@@ -29,9 +29,9 @@ layout: 1-lde
 
 # 👻 O Livro dos Espíritos {#lde}
 
-## 🗃️ Pré-textual {#lde-0}
+## 🗃️ Pré-textual ✅ {#lde-0}
 
-### 🗂️ Folha de rosto {#lde-0-01}
+### 🗂️ Folha de rosto ✅ {#lde-0-01}
 
 ><br>
 >[Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) [Espiritualista](https://pt.m.wikipedia.org/wiki/Espiritualismo)  
@@ -53,7 +53,7 @@ layout: 1-lde
 ><br>
 {:.grey-center}
 
-### 🗂️ Prefácio {#lde-0-02}
+### 🗂️ Prefácio ✅ {#lde-0-02}
 
 > ![Cepa Espírita](../content/images/vine.png)
 > 
@@ -98,13 +98,13 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 
 ### 🗂️ Introdução {#lde-0-03}
 
-#### 📑 Intro 01 {#lde-0-03-01}
+#### 📑 Intro 01 ✅ {#lde-0-03-01}
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão [inerente](https://pt.m.wiktionary.org/wiki/inerente) à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm [acepção](https://pt.m.wiktionary.org/wiki/acepção) [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) definida. Dar-lhes outra, para aplicá-los à [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), fora multiplicar as causas já numerosas de [anfibologia](https://pt.m.wiktionary.org/wiki/anfibologia). Com efeito, o [espiritualismo](https://pt.m.wikipedia.org/wiki/Espiritualismo) é o oposto do [materialismo](https://pt.m.wikipedia.org/wiki/Materialismo). Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **[Espiritismo][3]**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente [inteligíveis](https://pt.m.wiktionary.org/wiki/inteligível), deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) **Espírita** ou o **[Espiritismo][3]** tem por princípio as relações do mundo material com os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) ou seres do mundo invisível. Os adeptos do [Espiritismo][3] serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
-Como especialidade, 👻 [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos) contém a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita; como generalidade, prende-se à doutrina **espiritualista**, uma de cujas fases apresenta. Essa a [razão](https://pt.m.wikipedia.org/wiki/Razão) por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
+Como especialidade, 👻 [*O Livro dos Espíritos*](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos) contém a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita; como generalidade, prende-se à doutrina **espiritualista**, uma de cujas fases apresenta. Essa a [razão](https://pt.m.wikipedia.org/wiki/Razão) por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
-#### 📑 Intro 02 {#lde-0-03-02}
+#### 📑 Intro 02 ✅ {#lde-0-03-02}
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de [abóbada](https://pt.m.wiktionary.org/wiki/abóbada) de toda [doutrina](https://pt.m.wikipedia.org/wiki/Doutrina) [moral](https://pt.m.wikipedia.org/wiki/Moral) e ser objeto de inúmeras [controvérsias](https://pt.m.wiktionary.org/wiki/controvérsia), à míngua de uma acepção [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) determinada. É a palavra **[alma](https://pt.m.wikipedia.org/wiki/Alma)**. A [divergência](https://pt.m.wiktionary.org/wiki/divergência) de opiniões sobre a natureza da [alma](https://pt.m.wikipedia.org/wiki/Alma) provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -130,7 +130,7 @@ Julgamos dever insistir nestas explicações pela [razão](https://pt.m.wikipedi
 
 Passemos agora ao objeto principal desta instrução preliminar.
 
-#### 📑 Intro 03 {#lde-0-03-03}
+#### 📑 Intro 03 ✅ {#lde-0-03-03}
 
 Como tudo que constitui novidade, a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita conta [adeptos](https://pt.m.wiktionary.org/wiki/adepto) e contraditores. Vamos tentar responder a algumas das [objeções](https://pt.m.wiktionary.org/wiki/objeção) destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a [pretensão](https://pt.m.wiktionary.org/wiki/pretensão) de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de [boa-fé](https://pt.m.wiktionary.org/wiki/boa-fé), aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo [leviano](https://pt.m.wiktionary.org/wiki/leviano) e precipitadamente formado.
 
@@ -156,7 +156,7 @@ Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstân
 
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro escamoteador um sábio professor de Física a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso [razão](https://pt.m.wikipedia.org/wiki/Razão) para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero gracejo? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão fastidioso para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais austeras, veneráveis e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
-#### 📑 Intro 04 {#lde-0-03-04}
+#### 📑 Intro 04 ✅ {#lde-0-03-04}
 
 Se os [fenômenos](https://pt.m.wiktionary.org/wiki/fenómeno), com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem [singular](https://pt.m.wiktionary.org/wiki/singular). Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
 
@@ -176,7 +176,7 @@ O objeto a que se adapta o lápis, não passando de mero instrumento, completame
 
 A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de médiuns, isto é — meios ou intermediários entre os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há [médiuns](https://pt.m.wikipedia.org/wiki/Mediunidade) de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
 
-#### 📑 Intro 05 {#lde-0-03-05}
+#### 📑 Intro 05 ✅ {#lde-0-03-05}
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um [apêndice](https://pt.m.wiktionary.org/wiki/apêndice) da mão; e o [médium](https://pt.m.wikipedia.org/wiki/Mediunidade), tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais [razão](https://pt.m.wikipedia.org/wiki/Razão) quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -190,7 +190,7 @@ Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossa
 
 Muitas teorias foram [engendradas](https://pt.m.wiktionary.org/wiki/engendrar) a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem.
 
-#### 📑 Intro 06 {#lde-0-03-06}
+#### 📑 Intro 06 ✅ {#lde-0-03-06}
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -214,13 +214,13 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](https://pt
 
 9. há no homem três coisas:
 
- a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
+   a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
 
- b) a [alma](https://pt.m.wikipedia.org/wiki/Alma) ou ser imaterial, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado no corpo;
+   b) a [alma](https://pt.m.wikipedia.org/wiki/Alma) ou ser imaterial, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado no corpo;
 
- c) o laço que prende a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo, princípio intermediário entre a matéria e o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos);
+   c) o laço que prende a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo, princípio intermediário entre a matéria e o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos);
 
-10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos [instintos](https://pt.m.wikipedia.org/wiki/Instinto) lhe são comuns; pela alma, participa da natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos);
+10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos [instintos](https://pt.m.wikipedia.org/wiki/Instinto) lhe são comuns; pela alma, participa da natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos); 
 
 11. o laço ou **perispírito**, que prende ao corpo o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), é uma espécie de envoltório semimaterial. A [morte](https://pt.m.wikipedia.org/wiki/Morte) é a destruição do invólucro mais grosseiro. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) conserva o segundo, que lhe constitui um corpo [etéreo](https://pt.m.wiktionary.org/wiki/etéreo), invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo tangível, como sucede no fenômeno das [aparições](https://pt.m.wiktionary.org/wiki/aparição);
 
@@ -272,7 +272,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](https://pt
 
 Este o resumo da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, como resulta dos ensinamentos dados pelos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores. Vejamos agora as objeções que se lhe contrapõem.
 
-#### 📑 Intro 07 {#lde-0-03-07}
+#### 📑 Intro 07 ✅ {#lde-0-03-07}
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -290,7 +290,7 @@ Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao 
 
 O homem que julga infalível a sua [razão](https://pt.m.wikipedia.org/wiki/Razão) está [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria [razão](https://pt.m.wikipedia.org/wiki/Razão) e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a [Humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama [razão](https://pt.m.wikipedia.org/wiki/Razão) não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a [Deus][0]. Dirigimo-nos, pois, aos [ponderados](https://pt.m.wiktionary.org/wiki/ponderação), que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao [apogeu](https://pt.m.wiktionary.org/wiki/apogeu), nem que a Natureza lhe tenha facultado ler a última página do seu livro.
 
-#### 📑 Intro 08 {#lde-0-03-08}
+#### 📑 Intro 08 ✅ {#lde-0-03-08}
 
 Acrescentemos que o estudo de uma doutrina, qual a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, que nos lança de [súbito](https://pt.m.wiktionary.org/wiki/súbito) numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera [vontade](https://pt.m.wikipedia.org/wiki/Vontade) de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam [a priori](https://pt.m.wiktionary.org/wiki/a_priori), levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da [reputação](https://pt.m.wiktionary.org/wiki/reputação) de homens de espírito, se afadigam por achar um lado [burlesco](https://pt.m.wiktionary.org/wiki/burlesco) nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e [convicções](https://pt.m.wiktionary.org/wiki/convicção) lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -298,7 +298,7 @@ O que caracteriza um estudo sério é a [continuidade](https://pt.m.wiktionary.o
 
 Dissemos que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões [ociosas](https://pt.m.wiktionary.org/wiki/ocioso) os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à [turba](https://pt.m.wiktionary.org/wiki/turba) dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) mentirosos e frívolos, sempre à [espreita](https://pt.m.wiktionary.org/wiki/espreita) de ocasiões [propícias](https://pt.m.wiktionary.org/wiki/propiciar) para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de [doidivanas](https://pt.m.wiktionary.org/wiki/doidivanas), que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas [sisudas](https://pt.m.wiktionary.org/wiki/sisudo), haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores vos abandonarão, como faz um professor com os [discípulos](https://pt.m.wiktionary.org/wiki/discípulo) [negligentes](https://pt.m.wiktionary.org/wiki/negligente).
 
-#### 📑 Intro 09 {#lde-0-03-09}
+#### 📑 Intro 09 ✅ {#lde-0-03-09}
 
 O movimento dos objetos é um fato [incontestável](https://pt.m.wiktionary.org/wiki/incontestável). A questão está em saber se, nesse movimento, há ou não uma manifestação [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -308,7 +308,7 @@ Que respondem a essa [evidência](https://pt.m.wiktionary.org/wiki/evidência) o
 
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, que já conta milhões de adeptos, só os recruta entre os ignorantes? Os [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a [pretensão](https://pt.m.wiktionary.org/wiki/pretensão) de alguns incrédulos, a de terem o [monopólio](https://pt.m.wiktionary.org/wiki/monopólio) do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com [desplante](https://pt.m.wiktionary.org/wiki/desplante), de [ineptos](https://pt.m.wiktionary.org/wiki/inepto) os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma [presunção](https://pt.m.wiktionary.org/wiki/presunção), no mínimo, a seu favor, visto ter [logrado](https://pt.m.wiktionary.org/wiki/lograr) prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com [futilidades](https://pt.m.wiktionary.org/wiki/futilidade).
 
-#### 📑 Intro 10 {#lde-0-03-10}
+#### 📑 Intro 10 ✅ {#lde-0-03-10}
 
 Entre as [objeções](https://pt.m.wiktionary.org/wiki/objeção), algumas há das mais [especiosas](https://pt.m.wiktionary.org/wiki/especioso), ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -327,7 +327,7 @@ Como variante dessa opinião, temos a dos que não veem, nas comunicações esp�
 
 Efetivamente, como acreditar que [Deus][0] só ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)? Se Ele não o pode fazer, não é [onipotente](https://pt.m.wiktionary.org/wiki/onipotente); se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam [blasfemas](https://pt.m.wiktionary.org/wiki/blasfêmia). Note-se que admitir a comunicação dos maus [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de [Deus][0]. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da [religião](https://pt.m.wikipedia.org/wiki/Religião).
 
-#### 📑 Intro 11 {#lde-0-03-11}
+#### 📑 Intro 11 ✅ {#lde-0-03-11}
 
 Esquisito é, acrescentam, que só se fale dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, [oriundo](https://pt.m.wiktionary.org/wiki/oriundo), como tantos outros, de [superficial](https://pt.m.wiktionary.org/wiki/superficial) observação. Dentre os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos [ilustres](https://pt.m.wiktionary.org/wiki/ilustre), designando-se aqueles por um nome qualquer, muitas vezes por um nome [alegórico](https://pt.m.wiktionary.org/wiki/alegórico) ou característico. Quanto aos que se [evocam](https://pt.m.wiktionary.org/wiki/evocar), desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -340,7 +340,7 @@ Acham também singular que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espí
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na [Terra](https://pt.m.wikipedia.org/wiki/Terra) pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso [monarca](https://pt.m.wiktionary.org/wiki/monarca) pode achar-se lá muito abaixo do último dos seus soldados.
 
-#### 📑 Intro 12 {#lde-0-03-12}
+#### 📑 Intro 12 ✅ {#lde-0-03-12}
 
 Um fato demonstrado pela observação e confirmado pelos próprios [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é o de que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) inferiores muitas vezes [usurpam](https://pt.m.wiktionary.org/wiki/usurpar) nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, [Sócrates](https://pt.m.wikipedia.org/wiki/Sócrates), [Júlio César](https://pt.m.wikipedia.org/wiki/Júlio_César), [Carlos Magno](https://pt.m.wikipedia.org/wiki/Carlos_Magno), [Fénelon](https://pt.m.wikipedia.org/wiki/François_Fénelon), [Napoleão](https://pt.m.wikipedia.org/wiki/Napoleão_Bonaparte), [Washington](https://pt.m.wikipedia.org/wiki/George_Washington) entre outros, tenham realmente animado essas personagens? Esta [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) existe mesmo entre alguns adeptos fervorosos da [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, os quais admitem a intervenção e a manifestação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão [autêntico](https://pt.m.wiktionary.org/wiki/autêntico) como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -358,7 +358,7 @@ Inegavelmente a substituição dos [Espíritos](https://pt.m.wikipedia.org/wiki/
 
 Não sendo [lícito](https://pt.m.wiktionary.org/wiki/lícito) provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de [matizes](https://pt.m.wiktionary.org/wiki/matiz) característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
 
-#### 📑 Intro 13 {#lde-0-03-13}
+#### 📑 Intro 13 ✅ {#lde-0-03-13}
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da [divergência](https://pt.m.wiktionary.org/wiki/divergência) que se nota na linguagem dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos).
 
@@ -370,11 +370,11 @@ A contradição, demais, nem sempre é tão [real](https://pt.m.wikipedia.org/wi
 
 Tomemos, por exemplo, a definição de [alma](https://pt.m.wikipedia.org/wiki/Alma). Carecendo este termo de uma [acepção](https://pt.m.wiktionary.org/wiki/acepção) invariável, compreende-se que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da [vida](https://pt.m.wikipedia.org/wiki/Vida), outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu [ponto de vista](https://pt.m.wiktionary.org/wiki/ponto_de_vista). Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **[Deus][0]**. Será: o princípio de todas as coisas, o criador do [Universo](https://pt.m.wikipedia.org/wiki/Universo), a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) suprema, o infinito, o grande [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) etc. Em definitiva, será sempre [Deus][0]. Citemos, finalmente, a classificação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Eles formam uma série ininterrupta, desde o mais [ínfimo](https://pt.m.wiktionary.org/wiki/ínfimo) grau até o grau superior. A classificação é, pois, [arbitrária](https://pt.m.wiktionary.org/wiki/arbitrário). Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a [Botânica](https://pt.m.wikipedia.org/wiki/Botânica) pelo sistema de [Linneu](https://pt.m.wikipedia.org/wiki/Lineu), ou pelo de [Jussieu](https://pt.m.wikipedia.org/wiki/Antoine_Laurent_de_Jussieu), ou pelo de [Tournefort](https://pt.m.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort), nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma [similitude](https://pt.m.wiktionary.org/wiki/similitude) que escapara a um primeiro exame.
 
-#### 📑 Intro 14 {#lde-0-03-14}
+#### 📑 Intro 14 ✅ {#lde-0-03-14}
 
 Passaríamos brevemente pela objeção que fazem alguns [céticos](https://pt.m.wiktionary.org/wiki/cético), a propósito das faltas ortográficas que certos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é [irreprochável](https://pt.m.wiktionary.org/wiki/irreprochável), mas grande escassez de razões seria [mister](https://pt.m.wiktionary.org/wiki/mister) para se fazer disso objeto de [crítica](https://pt.m.wikipedia.org/wiki/Crítica) séria, dizendo que, visto saberem tudo, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) devem saber ortografia. Poderíamos opor-lhes os múltiplos [pecados](https://pt.m.wikipedia.org/wiki/Pecado) desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o [mérito](https://pt.m.wiktionary.org/wiki/mérito). Há, porém, no fato, uma questão mais grave. Para os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), principalmente para os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à [vontade](https://pt.m.wikipedia.org/wiki/Vontade) hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) liguem pouca importância à [puerilidade](https://pt.m.wiktionary.org/wiki/pueril) da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso [purista](https://pt.m.wiktionary.org/wiki/purista), **a despeito da ignorância do médium**.
 
-#### 📑 Intro 15 {#lde-0-03-15}
+#### 📑 Intro 15 ✅ {#lde-0-03-15}
 
 Há também pessoas que vêem [perigo](https://pt.m.wiktionary.org/wiki/perigo) por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a [razão](https://pt.m.wikipedia.org/wiki/Razão) alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao [Espiritismo][3]. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos [loucos](https://pt.m.wiktionary.org/wiki/louco) e maníacos os estudos da [Matemática](https://pt.m.wikipedia.org/wiki/Matemática), da [Medicina](https://pt.m.wikipedia.org/wiki/Medicina), da [Música](https://pt.m.wikipedia.org/wiki/Música), da [Filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) e outros têm produzido? Dever-se-ia, em consequência, [banir](https://pt.m.wiktionary.org/wiki/banir) esses estudos? Que prova isso? Nos trabalhos corporais, [estropiam](https://pt.m.wiktionary.org/wiki/estropiado)-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da [plenitude](https://pt.m.wiktionary.org/wiki/plenitude) das suas faculdades. No seu gênero, ele é, como homem, um [mártir](https://pt.m.wikipedia.org/wiki/Mártir) do trabalho.
 
@@ -386,7 +386,7 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as [d
 
 Cumpre também colocar entre as causas da [loucura](https://pt.m.wikipedia.org/wiki/Loucura) o pavor, sendo que o do [diabo](https://pt.m.wikipedia.org/wiki/Diabo) já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis [pormenores](https://pt.m.wiktionary.org/wiki/pormenor)? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las [ajuizadas](https://pt.m.wiktionary.org/wiki/ajuizar). Sim, é, do mesmo modo que o [papão](https://pt.m.wikipedia.org/wiki/Bicho-papão) e o [lobisomem](https://pt.m.wikipedia.org/wiki/Lobisomem). Quando, porém, elas deixam de ter [medo](https://pt.m.wikipedia.org/wiki/Medo), estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras [epilepsias](https://pt.m.wikipedia.org/wiki/Epilepsia) causadas pelo abalo de cérebros delicados. Bem frágil seria a [religião](https://pt.m.wikipedia.org/wiki/Religião) se, por não [infundir](https://pt.m.wiktionary.org/wiki/infundir) terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o [Espiritismo][3] lhe faculta, desde que ela os saiba utilizar. Ele mostra a [realidade](https://pt.m.wikipedia.org/wiki/Realidade) das coisas e só com isso neutraliza os [funestos](https://pt.m.wiktionary.org/wiki/funesto) efeitos de um temor exagerado.
 
-#### 📑 Intro 16 {#lde-0-03-16}
+#### 📑 Intro 16 ✅ {#lde-0-03-16}
 
 Resta-nos ainda examinar duas [objeções](https://pt.m.wiktionary.org/wiki/objeção), únicas que realmente merecem este nome, porque se baseiam em [teorias](https://pt.m.wikipedia.org/wiki/Teoria) racionais. Ambas admitem a realidade de todos os [fenônemos](https://pt.m.wiktionary.org/wiki/fenómeno) materiais e morais, mas [excluem](https://pt.m.wiktionary.org/wiki/excluir) a intervenção dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos).
 
@@ -410,7 +410,7 @@ A esse argumento [retrucam](https://pt.m.wiktionary.org/wiki/retrucar) os [adver
 
 Perguntaremos, finalmente, por que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem [súplicas](https://pt.m.wiktionary.org/wiki/súplica) que os façam voltar? Se o [médium](https://pt.m.wikipedia.org/wiki/Mediunidade) obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a [clarividência](https://pt.m.wikipedia.org/wiki/Clarividência). Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria [vontade](https://pt.m.wikipedia.org/wiki/Vontade) dele, é que o [médium](https://pt.m.wikipedia.org/wiki/Mediunidade) obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
 
-#### 📑 Intro 17 {#lde-0-03-17}
+#### 📑 Intro 17 ✅ {#lde-0-03-17}
 
 O [ceticismo](https://pt.m.wikipedia.org/wiki/Ceticismo), no [tocante](https://pt.m.wiktionary.org/wiki/tocante) à [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito [atilamento](https://pt.m.wiktionary.org/wiki/atilar), muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro [indício](https://pt.m.wiktionary.org/wiki/indício) da falta de bom senso está em crer alguém infalível o seu [juízo](https://pt.m.wiktionary.org/wiki/juízo). Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de [curiosidade](https://pt.m.wikipedia.org/wiki/Curiosidade). Confiamos em que, lendo este livro, encontrarão nesses extraordinários [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) alguma coisa mais do que simples [passatempo](https://pt.m.wiktionary.org/wiki/passatempo).
 
@@ -423,23 +423,23 @@ Concluamos, fazendo uma última consideração. Alguns [astrônomos](https://pt.
 
 ## 1. 🗃️ Causas Primárias {#lde-1}
 
-### 1-01. 🗂️ {#lde-1-01}
+### 1-01. 🗂️ Deus ✅ {#lde-1-01}
 
-#### Deus e o infinito
+#### 📑 Deus e o infinito ✅ {#lde-1-01-01}
 
-###### Q.1
+###### Q.1 {#q1}
 
 O que é [Deus][0]?
 
 > 👻 ▸ [Deus][0] é a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) suprema, causa primária de todas as coisas. [^4], [^5]
 
-###### Q.2
+###### Q.2 {#q2}
 
 Que se deve entender por infinito?
 
 > 👻 ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
 
-###### Q.3
+###### Q.3 {#q3}
 
 Poder-se-ia dizer que [Deus][0] é o infinito?
 
@@ -447,9 +447,9 @@ Poder-se-ia dizer que [Deus][0] é o infinito?
 
 [Deus][0] é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que [Deus][0] é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
-#### Provas da existência de Deus
+#### 📑 Provas da existência de Deus ✅ {#lde-1-01-02}
 
-###### Q.4
+###### Q.4 {#q4}
 
 Onde se pode encontrar a prova da existência de [Deus][0]?
 
@@ -457,13 +457,13 @@ Onde se pode encontrar a prova da existência de [Deus][0]?
 
 Para crer-se em [Deus][0], basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de [Deus][0] é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
-###### Q.5
+###### Q.5 {#q5}
 
 Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de [Deus][0]?
 
 > 👻 ▸ A de que [Deus][0] existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.
 
-###### Q.6
+###### Q.6 {#q6}
 
 O sentimento íntimo que temos da existência de [Deus][0] não poderia ser fruto da educação, resultado de ideias adquiridas?
 
@@ -471,7 +471,7 @@ O sentimento íntimo que temos da existência de [Deus][0] não poderia ser frut
 
 Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
-###### Q.7
+###### Q.7 {#q7}
 
 Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
 
@@ -479,7 +479,7 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 
 Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
-###### Q.8
+###### Q.8 {#q8}
 
 Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
 
@@ -489,7 +489,7 @@ A harmonia existente no mecanismo do Universo patenteia combinações e desígni
 
 Um acaso [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) já não seria acaso.
 
-###### Q.9
+###### Q.9 {#q9}
 
 Em que é que, na causa primária, se revela uma [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) suprema e superior a todas as inteligências?
 
@@ -499,15 +499,15 @@ O poder de uma [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) se
 
 Quaisquer que sejam os prodígios que a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 
-#### Atributos da Divindade
+#### 📑 Atributos da Divindade ✅ {#lde-1-01-03}
 
-###### Q.10
+###### Q.10 {#q10}
 
 Pode o homem compreender a natureza íntima de [Deus][0]?
 
 > 👻 ▸ Não; falta-lhe para isso o sentido.
 
-###### Q.11
+###### Q.11 {#q11}
 
 Será dado um dia ao homem compreender o mistério da Divindade?
 
@@ -515,13 +515,13 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 
 A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de [Deus][0]. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 
-###### Q.12
+###### Q.12 {#q12}
 
 Embora não possamos compreender a natureza íntima de [Deus][0], podemos formar idéia de algumas de suas perfeições?
 
 > 👻 ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
 
-###### Q.13
+###### Q.13 {#q13}
 
 Quando dizemos que [Deus][0] é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
@@ -539,21 +539,21 @@ Quando dizemos que [Deus][0] é eterno, infinito, imutável, imaterial, único, 
 
 **É soberanamente justo e bom.** A [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) não permite se duvide nem da Justiça nem da Bondade de [Deus][0].
 
-#### Panteísmo
+#### 📑 Panteísmo ✅ {#lde-1-01-04}
 
-###### Q.14
+###### Q.14 {#q14}
 
 [Deus][0] é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
 > 👻 ▸ Se fosse assim, [Deus][0] não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. [Deus][0] existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
 
-###### Q.15
+###### Q.15 {#q15}
 
 Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
 > 👻 ▸ Não podendo fazer-se [Deus][0], o homem quer ao menos ser uma parte de [Deus][0].
 
-###### Q.16
+###### Q.16 {#q16}
 
 Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de [Deus][0]: Sendo infinitos os mundos, [Deus][0] é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, [Deus][0] está por toda parte; estando [Deus][0] em toda parte, pois que tudo é parte integrante de [Deus][0], Ele dá a todos os [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) da Natureza uma [razão](https://pt.m.wikipedia.org/wiki/Razão) de ser inteligente. Que se pode opor a este raciocínio?
 
@@ -563,23 +563,23 @@ Esta doutrina faz de [Deus][0] um ser material que, embora dotado de suprema [in
 
 A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) de [Deus][0] se revela em suas obras como a de um pintor no seu quadro; mas, as obras de [Deus][0] não são o próprio [Deus][0], como o quadro não é o pintor que o concebeu e executou.
 
-### 1-02. 🗂️ {#lde-1-02}
+### 1-02. 🗂️ Elementos gerais do Universo {#lde-1-02}
 
-#### Conhecimento do princípio das coisas
+#### 📑 Conhecimento do princípio das coisas ✅ {#lde-1-02-01}
 
-###### Q.17
+###### Q.17 {#q17}
 
 É dado ao homem conhecer o princípio das coisas?
 
 > 👻 ▸ Não, [Deus][0] não permite que ao homem tudo seja revelado neste mundo.
 
-###### Q.18
+###### Q.18 {#q18}
 
 Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 > 👻 ▸ O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
 
-###### Q.19
+###### Q.19 {#q19}
 
 Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
@@ -587,7 +587,7 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 
 Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) do Criador. Entretanto, seja por orgulho, seja por fraqueza, sua própria [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
-###### Q.20
+###### Q.20 {#q20}
 
 Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
@@ -595,21 +595,21 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 
 Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
 
-#### Espírito e matéria
+#### 📑 Espírito e matéria ✅ {#lde-1-02-02}
 
-###### Q.21
+###### Q.21 {#q21}
 
 A matéria existe desde toda a eternidade, como [Deus][0], ou foi criada por Ele em dado momento?
 
 > 👻 ▸ Só [Deus][0] o sabe. Há uma coisa, todavia, que a [razão](https://pt.m.wikipedia.org/wiki/Razão) vos deve indicar: é que [Deus][0], modelo de [amor](https://pt.m.wikipedia.org/wiki/amor) e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?
 
-###### Q.22
+###### Q.22 {#q22}
 
 Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
 > 👻 ▸ Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
 
-###### Q.22.a
+###### Q.22.a {#q22a}
 
 Que definição podeis dar da matéria?
 
@@ -617,55 +617,55 @@ Que definição podeis dar da matéria?
 
 Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
-###### Q.23
+###### Q.23 {#q23}
 
 Que é o espírito?
 
 > 👻 ▸ O princípio [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) do Universo.
 
-###### Q.23.a
+###### Q.23.a {#q23a}
 
 Qual a natureza íntima do espírito?
 
 > 👻 ▸ Não é fácil analisar o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
 
-###### Q.24
+###### Q.24 {#q24}
 
 É o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) sinônimo de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência)?
 
 > 👻 ▸ A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
 
-###### Q.25
+###### Q.25 {#q25}
 
 O [espírito](https://pt.m.wikipedia.org/wiki/Espírito) independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
 > 👻 ▸ São distintos uma do outro; mas a união do [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e da matéria é necessária para intelectualizar a matéria.
 
-###### Q.25.a
+###### Q.25.a {#25a}
 
 Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por [espírito](https://pt.m.wikipedia.org/wiki/Espírito) o princípio da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), abstração feita das individualidades que por esse nome se designam.)
 
 > 👻 ▸ É necessária a vós outros, porque não tendes organização apta a perceber o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) sem a matéria. A isto não são apropriados os vossos sentidos.
 
-###### Q.26
+###### Q.26 {#q26}
 
 Poder-se-á conceber o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) sem a matéria e a matéria sem o espírito?
 
 > 👻 ▸ Pode-se, é fora de dúvida, pelo pensamento.
 
-###### Q.27
+###### Q.27 {#q27}
 
 Há então dois elementos gerais do Universo: a matéria e o espírito?
 
 > 👻 ▸ Sim e acima de tudo [Deus][0], o Criador, o Pai de todas as coisas. [Deus][0], [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e a matéria propriamente dita, por demais grosseira para que o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão](https://pt.m.wikipedia.org/wiki/Razão) não haveria para que também o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) não o fosse. Está colocado entre o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 
-###### Q.27.a
+###### Q.27.a {#q27a}
 
 Esse fluido será o que designamos pelo nome de eletricidade?
 
 > 👻 ▸ Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
 
-###### Q.28
+###### Q.28 {#q28}
 
 Pois que o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
@@ -675,9 +675,9 @@ Um fato patente domina todas as hipóteses: vemos matéria destituída de [intel
 
 A essa [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) suprema é que chamamos [Deus][0].
 
-#### Propriedades da matéria
+#### 📑 Propriedades da matéria ✅ {#lde-1-02-03}
 
-###### Q.29
+###### Q.29 {#q29}
 
 A ponderabilidade é um atributo essencial da matéria?
 
@@ -685,19 +685,19 @@ A ponderabilidade é um atributo essencial da matéria?
 
 A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo
 
-###### Q.30
+###### Q.30 {#q30}
 
 A matéria é formada de um só ou de muitos elementos?
 
 > 👻 ▸ De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
 
-###### Q.31
+###### Q.31 {#q31}
 
 Donde se originam as diversas propriedades da matéria?
 
 > 👻 ▸ São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
 
-###### Q.32
+###### Q.32 {#q32}
 
 De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
@@ -705,7 +705,7 @@ De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as 
 
 A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 
-###### Q.33
+###### Q.33 {#q33}
 
 A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
@@ -713,27 +713,27 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 
 O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
-###### Q.33.a
+###### Q.33.a {#q33a}
 
 Não parece que esta teoria dá [razão](https://pt.m.wikipedia.org/wiki/Razão) aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
 > 👻 ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 
-###### Q.34
+###### Q.34 {#q34}
 
 As moléculas têm forma determinada?
 
 > 👻 ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
 
-###### Q.34.a
+###### Q.34.a {#q34a}
 
 Essa forma é constante ou variável?
 
 > 👻 ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
 
-#### Espaço universal
+#### 📑 Espaço universal ✅ {#lde-1-02-04}
 
-###### Q.35
+###### Q.35 {#q35}
 
 O Espaço universal é infinito ou limitado?
 
@@ -741,20 +741,20 @@ O Espaço universal é infinito ou limitado?
 
 Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a [razão](https://pt.m.wikipedia.org/wiki/Razão) diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
 
-###### Q.36
+###### Q.36 {#q36}
 
 O vácuo absoluto existe em alguma parte no Espaço universal?
 
 > 👻 ▸ Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
 
-### 1-03. 🗂️ {#lde-1-03}
+### 1-03. 🗂️ Criação ✅ {#lde-1-03}
 
-#### Formação dos mundos
+#### 📑 Formação dos mundos ✅ {#lde-1-03-01}
 
 > O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.
 {:.grey}
 
-###### Q.37
+###### Q.37 {#q37}
 
 O Universo foi criado, ou existe de toda a eternidade, como [Deus][0]?
 
@@ -762,7 +762,7 @@ O Universo foi criado, ou existe de toda a eternidade, como [Deus][0]?
 
 Diz-nos a [razão](https://pt.m.wikipedia.org/wiki/Razão) não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de [Deus][0].
 
-###### Q.38
+###### Q.38 {#q38}
 
 Como criou [Deus][0] o Universo?
 
@@ -770,45 +770,45 @@ Como criou [Deus][0] o Universo?
 >  
 > ✝️ ▸ [Deus][0] disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC])
 
-###### Q.39
+###### Q.39 {#q39}
 
 Poderemos conhecer o modo de formação dos mundos?
 
 > 👻 ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
 
-###### Q.40
+###### Q.40 {#q40}
 
 Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
 
 > 👻 ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) físicos.
 
-###### Q.41
+###### Q.41 {#q41}
 
 Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a matéria que o compõe?
 
 > 👻 ▸ Sim, [Deus][0] renova os mundos, como renova os seres vivos.
 
-###### Q.42
+###### Q.42 {#q42}
 
 Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
 > 👻 ▸ Nada te posso dizer a respeito, porque só o [Criador](https://pt.m.wikipedia.org/wiki/Deus) o sabe e [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 
-#### Formação dos seres vivos
+#### 📑 Formação dos seres vivos ✅ {#lde-1-03-02}
 
-###### Q.43
+###### Q.43 {#q43}
 
 Quando começou a [Terra](https://pt.m.wikipedia.org/wiki/Terra) a ser povoada?
 
 > 👻 ▸ No começo tudo era caos; os elementos estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
 
-###### Q.44
+###### Q.44 {#q44}
 
 Donde vieram para a [Terra](https://pt.m.wikipedia.org/wiki/Terra) os seres vivos?
 
 > 👻 ▸ A [Terra](https://pt.m.wikipedia.org/wiki/Terra) lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 
-###### Q.45
+###### Q.45 {#q45}
 
 Onde estavam os elementos orgânicos, antes da formação da Terra?
 
@@ -816,39 +816,39 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 
 A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio latente de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de [Deus][0]? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é [verdade](https://pt.m.wikipedia.org/wiki/Verdade), a questão da origem dos elementos vitais; mas [Deus][0] tem seus mistérios e pôs limites às nossas investigações.
 
-###### Q.46
+###### Q.46 {#q46}
 
 Ainda há seres que nasçam espontaneamente?
 
 > 👻 ▸ Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
 
-###### Q.47
+###### Q.47 {#q47}
 
 A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
 
 > 👻 ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
 
-###### Q.48
+###### Q.48 {#q48}
 
 Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
 
 > 👻 ▸ Não; todos os vossos cálculos são quiméricos.
 
-###### Q.49
+###### Q.49 {#q49}
 
 Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 
 > 👻 ▸ O princípio das coisas está nos segredos de [Deus][0]. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
 
-#### Povoamento da Terra. Adão
+#### 📑 Povoamento da Terra. Adão ✅ {#lde-1-03-03}
 
-###### Q.50
+###### Q.50 {#q50}
 
 A espécie humana começou por um único homem?
 
 > 👻 ▸ Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.
 
-###### Q.51
+###### Q.51 {#q51}
 
 Poderemos saber em que época viveu Adão?
 
@@ -856,35 +856,35 @@ Poderemos saber em que época viveu Adão?
 
 O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do [Cristo][2], se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na [Terra](https://pt.m.wikipedia.org/wiki/Terra) senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo.
 
-#### Diversidade das raças humanas
+#### 📑 Diversidade das raças humanas ✅ {#lde-1-03-04}
 
-###### Q.52
+###### Q.52 {#q52}
 
 Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
 > 👻 ▸ Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.
 
-###### Q.53
+###### Q.53 {#q53}
 
 O homem surgiu em muitos pontos do globo?
 
 > 👻 ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
 
-###### Q.53.a
+###### Q.53.a {#q53a}
 
 Estas diferenças constituem espécies distintas?
 
 > 👻 ▸ Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?
 
-###### Q.54
+###### Q.54 {#q54}
 
 Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 
 > 👻 ▸ Todos os homens são irmãos em [Deus][0], porque são animados pelo [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
 
-#### Pluralidade dos mundos
+#### 📑 Pluralidade dos mundos ✅ {#lde-1-03-05}
 
-###### Q.55
+###### Q.55 {#q55}
 
 São habitados todos os globos que se movem no Espaço?
 
@@ -892,19 +892,19 @@ São habitados todos os globos que se movem no Espaço?
 
 [Deus][0] povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) de [Deus][0], que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 
-###### Q.56
+###### Q.56 {#q56}
 
 É a mesma a constituição física dos diferentes globos?
 
 > 👻 ▸ Não; de modo algum se assemelham.
 
-###### Q.57
+###### Q.57 {#q57}
 
 Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
 
 > 👻 ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
 
-###### Q.58
+###### Q.58 {#q58}
 
 Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
 
@@ -912,9 +912,9 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 
 As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) contêm elementos que desconhecemos. Não vemos na [Terra](https://pt.m.wikipedia.org/wiki/Terra) as longas noites polares iluminadas pela [eletricidade](https://pt.m.wikipedia.org/wiki/Eletricidade) das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
 
-#### Considerações e concordâncias bíblicas concernentes à Criação
+#### 📑 Considerações e concordâncias bíblicas concernentes à Criação ✅ {#lde-1-03-06}
 
-###### Q.59
+###### Q.59 {#q59}
 
 Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a [razão](https://pt.m.wikipedia.org/wiki/Razão) reconheceu a inverossimilhança de algumas dessas teorias. A que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
@@ -932,68 +932,68 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 
-### 1-04. 🗂️ {#lde-1-04}
+### 1-04. 🗂️ Princípio Vital ✅ {#lde-1-04}
 
-#### Seres orgânicos e inorgânicos
+#### Seres orgânicos e inorgânicos ✅ {#lde-1-04-01}
 
 > Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
 {:.grey}
 
-###### Q.60
+###### Q.60 {#q60}
 
 É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
 
 > 👻 ▸ Sim, a lei de atração é a mesma para todos.
 
-###### Q.61
+###### Q.61 {#q61}
 
 Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 
 > 👻 ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
 
-###### Q.62
+###### Q.62 {#q62}
 
 Qual a causa da animalização da matéria?
 
 > 👻 ▸ Sua união com o princípio vital.
 
-###### Q.63
+###### Q.63 {#q63}
 
 O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou causa?
 
 > 👻 ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
 
-###### Q.64
+###### Q.64 {#q64}
 
 Vimos que o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 
 > 👻 ▸ É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio.
 
-###### Q.64.a
+###### Q.64.a {#q64a}
 
 Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
 
-> Isto é consequência do que dissemos.
+> 👻 ▸ Isto é consequência do que dissemos.
 
-###### Q.65
+###### Q.65 {#q65}
 
 O princípio vital reside em algum dos corpos que conhecemos?
 
 > 👻 ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o [espírito](https://pt.m.wikipedia.org/wiki/Espírito) e a matéria.
 
-###### Q.66
+###### Q.66 {#q66}
 
 O princípio vital é um só para todos os seres orgânicos?
 
 > 👻 ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
 
-###### Q.67
+###### Q.67 {#q67}
 
 A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
 
 > 👻 ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
 
-###### Q.67.a
+###### Q.67.a {#q67a}
 
 Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
 
@@ -1001,27 +1001,27 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 
 O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor.
 
-#### A vida e a morte
+#### A vida e a morte ✅ {#lde-1-04-02}
 
-###### Q.68
+###### Q.68 {#q68}
 
 Qual a causa da [morte](https://pt.m.wikipedia.org/wiki/Morte) dos seres orgânicos?
 
 > 👻 ▸ Esgotamento dos órgãos.
 
-###### Q.68.a
+###### Q.68.a {#q68a}
 
 Poder-se-ia comparar a [morte](https://pt.m.wikipedia.org/wiki/Morte) à cessação do movimento de uma máquina desorganizada?
 
 > 👻 ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
 
-###### Q.69
+###### Q.69 {#q69}
 
 Por que uma lesão do coração mais depressa causa a [morte](https://pt.m.wikipedia.org/wiki/Morte) do que as de outros órgãos?
 
 > 👻 ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
 
-###### Q.70
+###### Q.70 {#q70}
 
 Que é feito da matéria e do princípio vital dos seres orgânicos, quando estes morrem?
 
@@ -1041,9 +1041,9 @@ A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conse
 
 O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se.
 
-#### Inteligência e instinto
+#### Inteligência e instinto ✅ {#lde-1-04-03}
 
-###### Q.71
+###### Q.71 {#q71}
 
 A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) é atributo do princípio vital?
 
@@ -1051,45 +1051,45 @@ A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) é atributo do 
 
 A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) é uma faculdade especial, peculiar a algumas classes de seres orgânicos e que lhes dá, com o pensamento, a [vontade](https://pt.m.wikipedia.org/wiki/Vontade) de atuar, a [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de que existem e de que constituem uma individualidade cada um, assim como os meios de estabelecerem relações com o mundo exterior e de proverem às suas necessidades.
 
-Podem distinguir-se assim:.
+Podem distinguir-se assim:  
 
-a) os seres inanimados, constituídos só de matéria, sem vitalidade nem [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência): são os corpos brutos;
+   a) os seres inanimados, constituídos só de matéria, sem vitalidade nem [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência): são os corpos brutos;  
 
-b) os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência);
+   b) os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência);  
 
-c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) que lhes outorga a faculdade de pensar.
+   c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) que lhes outorga a faculdade de pensar.
 
-###### Q.72
+###### Q.72 {#q72}
 
 Qual a fonte da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência)?
 
 > 👻 ▸ Já o dissemos; a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) universal.
 
-###### Q.72.a
+###### Q.72.a {#q72a}
 
 Poder-se-ia dizer que cada ser tira uma porção de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) da fonte universal e a assimila, como tira e assimila o princípio da vida material?
 
 > 👻 ▸ Isto não passa de simples comparação, todavia inexata, porque a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
 
-###### Q.73
+###### Q.73 {#q73}
 
 O instinto independe da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência)?
 
 > 👻 ▸ Precisamente, não, por isso que o instinto é uma espécie de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência). É uma [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
 
-###### Q.74
+###### Q.74 {#q74}
 
 Pode estabelecer-se uma linha de separação entre instinto e a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), isto é, precisar onde um acaba e começa a outra?
 
 > 👻 ▸ Não, porque muitas vezes se confundem, mas muito [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) se podem distinguir os atos que decorrem do instinto dos que são da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência).
 
-###### Q.75
+###### Q.75 {#q75}
 
 É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
 
 > 👻 ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
 
-###### Q.75.a
+###### Q.75.a {#q75a}
 
 Por que nem sempre é guia infalível a razão?
 
@@ -1101,11 +1101,11 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 ## 2. 🗃️ Mundo Espírita {#lde-2}
 
-### 2-01. 🗂️ {#lde-2-01}
+### 2-01. 🗂️ Espíritos ✅ {#lde-2-01}
 
-#### Origem e natureza dos Espíritos
+#### 📑 Origem e natureza dos Espíritos {#lde-2-01-01}
 
-###### Q.76
+###### Q.76 {#q76}
 
 Que definição se pode dar dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
@@ -1113,37 +1113,37 @@ Que definição se pode dar dos [Espíritos](https://pt.m.wikipedia.org/wiki/Esp
 
 📝 Nota – A palavra **Espírito** é empregada aqui para designar as individualidades dos seres extracorpóreos e não mais o elemento [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) do Universo.
 
-###### Q.77
+###### Q.77 {#q77}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são seres distintos da Divindade ou serão simples emanações ou porções desta e, por isto, denominados filhos de [Deus][0]?
 
 > 👻 ▸ Meu [Deus][0]! São obra de [Deus][0], exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a [Deus][0]: somos seus filhos, pois que somos obra sua.
 
-###### Q.78
+###### Q.78 {#q78}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) tiveram princípio ou existem, como [Deus][0], de toda a eternidade?
 
 > 👻 ▸ Se não tivessem tido princípio, seriam iguais a [Deus][0], quando, ao invés, são criação sua e se acham submetidos à sua vontade. [Deus][0] existe de toda a eternidade, é incontestável. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo eterno, [Deus][0] há de ter sempre criado ininterruptamente. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério.
 
-###### Q.79
+###### Q.79 {#q79}
 
 Pois que há dois elementos gerais no Universo: o elemento [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) e o elemento material, poder-se-á dizer que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são formados do elemento inteligente, como os corpos inertes o são do elemento material?
 
 > 👻 ▸ Evidentemente. Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos.
 
-###### Q.80
+###### Q.80 {#q80}
 
 A criação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é permanente ou só se deu na origem dos tempos?
 
 > 👻 ▸ É permanente. Quer dizer: [Deus][0] jamais deixou de criar.
 
-###### Q.81
+###### Q.81 {#q81}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se formam espontaneamente ou procedem uns dos outros?
 
 > 👻 ▸ [Deus][0] os cria, como a todas as outras criaturas, pela sua vontade. Mas repito ainda uma vez, a origem deles é mistério.
 
-###### Q.82
+###### Q.82 {#q82}
 
 Será certo dizer-se que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são imateriais?
 
@@ -1151,47 +1151,47 @@ Será certo dizer-se que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíri
 
 Dizemos que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
 
-###### Q.83
+###### Q.83 {#q83}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 
 > Há muitas coisas que não compreendeis, porque tendes limitada a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência). Isso, porém, não é [razão](https://pt.m.wikipedia.org/wiki/Razão) para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não tem fim. É tudo o que podemos, por agora, dizer.
 
-#### Mundo normal primitivo
+#### Mundo normal primitivo ✅ {#lde-2-01-02}
 
-###### Q.84
+###### Q.84 {#q84}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) constituem um mundo à parte, fora daquele que vemos?
 
 > 👻 ▸ Sim, o mundo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) ou das inteligências incorpóreas.
 
-###### Q.85
+###### Q.85 {#q85}
 
 Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?
 
 > 👻 ▸ O mundo espírita, que preexiste e sobrevive a tudo.
 
-###### Q.86
+###### Q.86 {#q86}
 
 O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso alterasse a essência do mundo espírita?
 
 > 👻 ▸ Decerto. Eles são independentes; contudo, é incessante a correlação entre ambos, porquanto um sobre o outro incessantemente reagem.
 
-###### Q.87
+###### Q.87 {#q87}
 
 Ocupam os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) uma região determinada e circunscrita no Espaço?
 
 > 👻 ▸ Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são uma das potências da natureza e os instrumentos de que [Deus][0] se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados.
 
-#### Forma e ubiquidade dos Espíritos
+#### Forma e ubiquidade dos Espíritos ✅ {#lde-2-01-03}
 
-###### Q.88
+###### Q.88 {#q88}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) têm forma determinada, limitada e constante?
 
 > 👻 ▸ Para vós, não; para nós, sim. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
 
-###### Q.88.a
+###### Q.88.a {#q88a}
 
 Essa chama ou centelha tem cor?
 
@@ -1199,37 +1199,37 @@ Essa chama ou centelha tem cor?
 
 Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Colocam-na no alto da cabeça, porque aí está a sede da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência).
 
-###### Q.89
+###### Q.89 {#q89}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) gastam algum tempo para percorrer o Espaço?
 
 > 👻 ▸ Sim, mas fazem-no com a rapidez do pensamento.
 
-###### Q.89.a
+###### Q.89.a {#q89a}
 
 O pensamento não é a própria [alma](https://pt.m.wikipedia.org/wiki/Alma) que se transporta?
 
 > 👻 ▸ Quando o pensamento está em alguma parte, a [alma](https://pt.m.wikipedia.org/wiki/Alma) também aí está, pois que é a [alma](https://pt.m.wikipedia.org/wiki/Alma) que pensa. O pensamento é um atributo.
 
-###### Q.90
+###### Q.90 {#q90}
 
 O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que se transporta de um lugar a outro tem [consciência](https://pt.m.wikipedia.org/wiki/Consciência) da distância que percorre e dos espaços que atravessa ou é subitamente transportado ao lugar aonde quer ir?
 
 > 👻 ▸ Dá-se uma e outra coisa. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode perfeitamente, se o quiser, inteirar-se da distância que percorre, mas também essa distância pode desaparecer completamente, dependendo isso da sua vontade, [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) como da sua natureza mais ou menos depurada.
 
-###### Q.91
+###### Q.91 {#q91}
 
 A matéria opõe obstáculo aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Nenhum; eles passam através de tudo. O ar, a terra, as águas e até mesmo o fogo lhes são igualmente acessíveis.
 
-###### Q.92
+###### Q.92 {#q92}
 
 Têm os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) o dom da ubiquidade? Por outras palavras: um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode dividir-se, ou existir em muitos pontos ao mesmo tempo?
 
 > 👻 ▸ Não pode haver divisão de um mesmo [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) em muitos lugares ao mesmo tempo. Vês o Sol? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide.
 
-###### Q.92.a
+###### Q.92.a {#q92a}
 
 Todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) irradiam com igual força?
 
@@ -1237,9 +1237,9 @@ Todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) irradiam com ig
 
 Cada [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos.
 
-#### Perispírito
+#### Perispírito ✅ {#lde-2-01-04}
 
-###### Q.93
+###### Q.93 {#q93}
 
 O [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
 
@@ -1247,53 +1247,53 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), propriamente dito, ne
 
 Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito), serve de envoltório ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) propriamente dito.
 
-###### Q.94
+###### Q.94 {#q94}
 
 De onde tira o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) o seu invólucro semimaterial?
 
 > 👻 ▸ Do fluido universal de cada globo, [razão](https://pt.m.wikipedia.org/wiki/Razão) por que não é idêntico em todos os mundos. Passando de um mundo a outro, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) muda de envoltório, como mudais de roupa.
 
-###### Q.94.a
+###### Q.94.a {#q94a}
 
 Assim, quando os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que habitam mundos superiores vêm ao nosso meio, tomam um [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito) mais grosseiro?
 
 > 👻 ▸ É necessário que se revistam da vossa matéria, já o dissemos.
 
-###### Q.95
+###### Q.95 {#q95}
 
 O invólucro semimaterial do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) tem formas determinadas e pode ser perceptível?
 
 > 👻 ▸ Tem a forma que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável.
 
-#### Diferentes ordens de Espíritos
+#### Diferentes ordens de Espíritos ✅ {#lde-2-01-05}
 
-###### Q.96
+###### Q.96 {#q96}
 
 São iguais os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), ou há entre eles qualquer hierarquia?
 
 > 👻 ▸ São de diferentes ordens, conforme o grau de perfeição que tenham alcançado.
 
-###### Q.97
+###### Q.97 {#q97}
 
 As ordens ou graus de perfeição dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são em número determinado?
 
 > 👻 ▸ São ilimitadas em número, porque entre elas não há linhas de demarcação traçadas como barreiras, de sorte que as divisões podem ser multiplicadas ou restringidas livremente. Todavia, considerando-se os caracteres gerais dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), elas podem reduzir-se a três principais. Na primeira, colocar-se-ão os que atingiram a perfeição máxima: os puros [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Formam a segunda os que chegaram ao meio da escala: o desejo do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) é o que neles predomina. Pertencerão à terceira os que ainda se acham na parte inferior da escala: os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) imperfeitos. A ignorância, o desejo do mal e todas as paixões más que lhes retardam o progresso, eis o que os caracteriza.
 
-###### Q.98
+###### Q.98 {#q98}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) da segunda ordem, para os quais o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) constitui a preocupação dominante, têm o poder de praticá-lo?
 
 > 👻 ▸ Cada um deles dispõe desse poder, de acordo com o grau de perfeição a que chegou. Assim, uns possuem a [ciência](https://pt.m.wikipedia.org/wiki/Ciência), outros a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) e a bondade. Todos, porém, ainda têm que sofrer provas.
 
-###### Q.99
+###### Q.99 {#q99}
 
 Os da terceira ordem são todos essencialmente maus?
 
 > 👻 ▸ Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem.
 
-#### Escala espírita
+#### Escala espírita ✅ {#lde-2-01-06}
 
-###### Q.100
+###### Q.100 {#q100}
 
 Observações preliminares. — A classificação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido.
 
@@ -1307,9 +1307,9 @@ Esta divisão nos pareceu perfeitamente racional e com caracteres [bem](https://
 
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de [confiança](https://pt.m.wiktionary.org/wiki/confiança) ou de estima que mereçam. É, de certo modo, a chave da [ciência](https://pt.m.wikipedia.org/wiki/Ciência) espírita, porquanto só ele pode explicar as [anomalias](https://pt.m.wiktionary.org/wiki/anomalia) que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre [gradual](https://pt.m.wiktionary.org/wiki/gradual) o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se.
 
-#### 3ª ordem – Espíritos imperfeitos
+#### 3ª ordem – Espíritos imperfeitos ✅ {#lde-2-01-07}
 
-###### Q.101
+###### Q.101 {#q101}
 
 Caracteres gerais. — Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
 
@@ -1327,7 +1327,7 @@ Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa 
 
 Podem compor cinco classes principais.
 
-###### Q.102
+###### Q.102 {#q102}
 
 Décima classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) impuros. — São inclinados ao mal, de que fazem o objeto de suas preocupações.
 
@@ -1339,29 +1339,29 @@ Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nom
 
 Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
 
-###### Q.103
+###### Q.103 {#q103}
 
 Nona classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) levianos. — São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a [verdade](https://pt.m.wikipedia.org/wiki/Verdade). Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
 
 Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
-###### Q.104
+###### Q.104 {#q104}
 
 Oitava classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
-###### Q.105
+###### Q.105 {#q105}
 
 Sétima classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência). Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
-###### Q.106
+###### Q.106 {#q106}
 
 Sexta classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) batedores e perturbadores. — Estes [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente.
 
 Todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) podem produzir tais [fenômenos](https://pt.m.wiktionary.org/wiki/fenómeno), mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência); quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
 
-#### 2ª ordem – Bons Espíritos
+#### 2ª ordem – Bons Espíritos ✅ {#lde-2-01-08}
 
-###### Q.107
+###### Q.107 {#q107}
 
 Caracteres gerais. — Predominância do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) sobre a matéria; desejo do bem. Suas qualidades e poderes para o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) estão em relação com o grau de adiantamento que hajam alcançado; uns têm a [ciência](https://pt.m.wikipedia.org/wiki/Ciência), outros a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) perfeitos.
 
@@ -1375,75 +1375,75 @@ A esta ordem pertencem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito
 
 Podem ser divididos em quatro grupos principais:
 
-###### Q.108
+###### Q.108 {#q108}
 
 Quinta classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
-###### Q.109
+###### Q.109 {#q109}
 
 Quarta classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a [ciência](https://pt.m.wikipedia.org/wiki/Ciência) do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) imperfeitos.
 
-###### Q.110
+###### Q.110 {#q110}
 
 Terceira classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
-###### Q.111
+###### Q.111 {#q111}
 
 Segunda classe. [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores. — Esses em si reúnem a [ciência](https://pt.m.wikipedia.org/wiki/Ciência), a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a [verdade](https://pt.m.wikipedia.org/wiki/Verdade) e cuja [alma](https://pt.m.wikipedia.org/wiki/Alma) já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a [Humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) pode aspirar neste mundo.
 
-#### 1ª ordem – Espíritos puros
+#### 1ª ordem – Espíritos puros ✅ {#lde-2-01-09}
 
-###### Q.112
+###### Q.112 {#q112}
 
 Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) das outras ordens.
 
-###### Q.113
+###### Q.113 {#q113}
 
 Primeira classe. Classe única. — Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de [Deus][0].
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de [Deus][0], cujas ordens executam para manutenção da harmonia universal. Comandam a todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
 
-#### Progressão dos Espíritos
+#### Progressão dos Espíritos ✅ {#lde-2-01-10}
 
-###### Q.114
+###### Q.114 {#q114}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são bons ou maus por natureza, ou são eles mesmos que se melhoram?
 
 > 👻 ▸ São os próprios [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se melhoram e, melhorando-se, passam de uma ordem inferior para outra mais elevada.
 
-###### Q.115
+###### Q.115 {#q115}
 
 Dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), uns terão sido criados bons e outros maus?
 
 > 👻 ▸ [Deus][0] criou todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da [verdade](https://pt.m.wikipedia.org/wiki/Verdade), para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade. Passando pelas provas que [Deus][0] lhes impõe é que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) adquirem aquele conhecimento. Uns aceitam submissos essas provas e chegam mais depressa à meta que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da perfeição e da prometida felicidade.
 
-###### Q.115.a
+###### Q.115.a {#q115a}
 
 Segundo o que acabais de dizer, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
 
 > 👻 ▸ Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se prolonga ao infinito.
 
-###### Q.116
+###### Q.116 {#q116}
 
 Haverá [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se conservem eternamente nas ordens inferiores?
 
 > 👻 ▸ Não; todos se tornarão perfeitos. Mudam de ordem, mas demoradamente, porquanto, como já doutra vez dissemos, um pai justo e misericordioso não pode banir seus filhos para sempre. Pretenderias que [Deus][0], tão grande, tão bom, tão justo, fosse pior do que vós mesmos?
 
-###### Q.117
+###### Q.117 {#q117}
 
 Depende dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) o progredirem mais ou menos rapidamente para a perfeição?
 
 > 👻 ▸ Certamente. Eles a alcançam mais ou menos rápido, conforme o desejo que têm de alcançá-la e a submissão que testemunham à [vontade](https://pt.m.wikipedia.org/wiki/Vontade) de [Deus][0]. Uma criança dócil não se instrui mais depressa do que outra recalcitrante?
 
-###### Q.118
+###### Q.118 {#q118}
 
 Podem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) degenerar?
 
 > 👻 ▸ Não; à medida que avançam, compreendem o que os distanciava da perfeição. Concluindo uma prova, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) fica com a [ciência](https://pt.m.wikipedia.org/wiki/Ciência) que daí lhe veio e não a esquece. Pode permanecer estacionário, mas não retrograda.
 
-###### Q.119
+###### Q.119 {#q119}
 
 Não podia [Deus][0] isentar os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) das provas que lhes cumpre sofrer para chegarem à primeira ordem?
 
@@ -1451,49 +1451,49 @@ Não podia [Deus][0] isentar os [Espíritos](https://pt.m.wikipedia.org/wiki/Esp
 
 Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo.
 
-###### Q.120
+###### Q.120 {#q120}
 
 Todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) passam pela fieira do mal para chegar ao bem?
 
 > 👻 ▸ Pela fieira do mal, não; pela fieira da ignorância.
 
-###### Q.121
+###### Q.121 {#q121}
 
 Por que alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) seguiram o caminho do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e outros o do mal?
 
 > 👻 ▸ Não têm eles o livre-arbítrio? [Deus][0] não os criou maus; criou-os simples e ignorantes, isto é, tendo tanta aptidão para o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) quanta para o mal. Os que são maus, assim se tornaram por [vontade](https://pt.m.wikipedia.org/wiki/Vontade) própria.
 
-###### Q.122
+###### Q.122 {#q122}
 
 Como podem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), em sua origem, quando ainda não têm [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmos, gozar da liberdade de escolha entre o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e o mal? Há neles algum princípio, qualquer tendência que os encaminhe para uma senda de preferência a outra?
 
 > 👻 ▸ O livre-arbítrio se desenvolve à medida que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) adquire a [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da [vontade](https://pt.m.wikipedia.org/wiki/Vontade) do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
 
-###### Q.122.a
+###### Q.122.a {#q122a}
 
 Donde vêm as influências que sobre ele se exercem?
 
 > 👻 ▸ Dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
 
-###### Q.122.b
+###### Q.122.b {#q122b}
 
 Tal influência só se exerce sobre o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) em sua origem?
 
 > 👻 ▸ Acompanha-o na sua vida de [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo.
 
-###### Q.123
+###### Q.123 {#q123}
 
 Por que há [Deus][0] permitido que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) possam tomar o caminho do mal?
 
 > 👻 ▸ Como ousais pedir a [Deus][0] contas de seus atos? Supondes poder penetrar-lhe os desígnios? Podeis, todavia, dizer o seguinte: A [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) de [Deus][0] está na liberdade de escolher que Ele deixa a cada um, porquanto, assim, cada um tem o mérito de suas obras.
 
-###### Q.124
+###### Q.124 {#q124}
 
 Pois que há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que desde o princípio seguem o caminho do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) absoluto e outros o do mal absoluto, deve haver, sem dúvida, gradações entre esses dois extremos. Não?
 
 > 👻 ▸ Sim, certamente, e os que se acham nos graus intermédios constituem a maioria.
 
-###### Q.125
+###### Q.125 {#q125}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que enveredaram pela senda do mal poderão chegar ao mesmo grau de superioridade que os outros?
 
@@ -1501,13 +1501,13 @@ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que enveredaram pela 
 
 Por estas palavras – **as eternidades** – se deve entender a ideia que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
 
-###### Q.126
+###### Q.126 {#q126}
 
 Chegados ao grau supremo da perfeição, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que andaram pelo caminho do mal têm, aos olhos de [Deus][0], menos mérito do que os outros?
 
 > 👻 ▸ [Deus][0] olha de igual maneira para os que se transviaram e para os outros e a todos ama com o mesmo coração. Aqueles são chamados maus, porque sucumbiram. Antes, não eram mais que simples [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos).
 
-###### Q.127
+###### Q.127 {#q127}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são criados iguais quanto às faculdades intelectuais?
 
@@ -1515,9 +1515,9 @@ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são criados iguais q
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que desde o princípio seguem o caminho do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) nem por isso são [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio.
 
-#### Anjos e demônios
+#### Anjos e demônios ✅ {#lde-2-01-11}
 
-###### Q.128
+###### Q.128 {#q128}
 
 Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
@@ -1525,19 +1525,19 @@ Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial
 
 A palavra **anjo** desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) bom e o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) mau; o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) de luz e o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção.
 
-###### Q.129
+###### Q.129 {#q129}
 
 Os [anjos](https://pt.m.wikipedia.org/wiki/Anjo) hão percorrido todos os graus da escala?
 
 > 👻 ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à perfeição.
 
-###### Q.130
+###### Q.130 {#q130}
 
 Sendo errônea a opinião dos que admitem a existência de seres criados perfeitos e superiores a todas as outras criaturas, como se explica que essa crença esteja na tradição de quase todos os povos?
 
 > 👻 ▸ Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
 
-###### Q.131
+###### Q.131 {#q131}
 
 Há demônios, no sentido que se dá a esta palavra?
 
@@ -1560,11 +1560,11 @@ Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram 
 
 Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](https://pt.m.wikipedia.org/wiki/Verdade) etc. Os modernos representaram os anjos, os puros [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
 
-### 2-02. 🗂️ {#lde-2-02}
+### 2-02. 🗂️ Encarnação ✅ {#lde-2-02}
 
-#### Objetivo da encarnação
+#### 📑 Objetivo da encarnação ✅ {#lde-2-02-01}
 
-###### Q.132
+###### Q.132 {#q132}
 
 Qual o objetivo da encarnação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
@@ -1572,45 +1572,45 @@ Qual o objetivo da encarnação dos [Espíritos](https://pt.m.wikipedia.org/wiki
 
 A ação dos seres corpóreos é necessária à marcha do Universo. [Deus][0], porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na Natureza.
 
-###### Q.133
+###### Q.133 {#q133}
 
 Têm necessidade de encarnação os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que, desde o princípio, seguiram o caminho do bem?
 
 > 👻 ▸ Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. [Deus][0], que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem mérito.
 
-###### Q.133.a
+###### Q.133.a {#q133a}
 
 Mas, então, de que serve aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
 
 > 👻 ▸ Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.
 
-#### A alma
+#### 📑 A alma ✅ {#lde-2-02-02}
 
-###### Q.134
+###### Q.134 {#q134}
 
 Que é a alma?
 
 > 👻 ▸ Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado.
 
-###### Q.134.a
+###### Q.134.a {#q134a}
 
 Que era a [alma](https://pt.m.wikipedia.org/wiki/Alma) antes de se unir ao corpo?
 
 > 👻 ▸ [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos).
 
-###### Q.134.b
+###### Q.134.b {#q134b}
 
 As almas e os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são, portanto, idênticos, a mesma coisa?
 
 > 👻 ▸ Sim, as almas não são senão os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Antes de se unir ao corpo, a [alma](https://pt.m.wikipedia.org/wiki/Alma) é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 
-###### Q.135
+###### Q.135 {#q135}
 
 Há no homem alguma outra coisa além da [alma](https://pt.m.wikipedia.org/wiki/Alma) e do corpo?
 
 > 👻 ▸ Há o laço que liga a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo.
 
-###### Q.135.a
+###### Q.135.a {#q135a}
 
 De que natureza é esse laço?
 
@@ -1618,31 +1618,31 @@ De que natureza é esse laço?
 
 O homem é, portanto, formado de três partes essenciais.
 
-- a) o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital.
+   a) o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital.
 
-- b) a alma, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado que tem no corpo a sua habitação.
+   b) a alma, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado que tem no corpo a sua habitação.
 
-- c) o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) e liga a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
+   c) o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) e liga a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
 
-###### Q.136
+###### Q.136 {#q136}
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) independe do princípio vital?
 
 > 👻 ▸ O corpo não é mais do que envoltório, repetimo-lo constantemente.
 
-###### Q.136.a
+###### Q.136.a {#q136a}
 
 Pode o corpo existir sem a alma?
 
 > 👻 ▸ Pode; entretanto, desde que cessa a vida do corpo, a [alma](https://pt.m.wikipedia.org/wiki/Alma) o abandona. Antes do nascimento, ainda não há união definitiva entre a [alma](https://pt.m.wikipedia.org/wiki/Alma) e o corpo; enquanto, depois de essa união se haver estabelecido, a [morte](https://pt.m.wikipedia.org/wiki/Morte) do corpo rompe os laços que o prendem à [alma](https://pt.m.wikipedia.org/wiki/Alma) e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a [alma](https://pt.m.wikipedia.org/wiki/Alma) não pode habitar um corpo privado de vida orgânica.
 
-###### Q.136.b
+###### Q.136.b {#q136b}
 
 Que seria o nosso corpo, se não tivesse alma?
 
 > 👻 ▸ Simples massa de carne sem [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), tudo o que quiserdes, exceto um homem.
 
-###### Q.137
+###### Q.137 {#q137}
 
 Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode encarnar a um tempo em dois corpos diferentes?
 
@@ -1650,13 +1650,13 @@ Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode encarnar a um tem
 
 👉 ([LDM-2-07 ↗️](/2LDM.html#LDM-2-07))
 
-###### Q.138
+###### Q.138 {#q138}
 
 Que se deve pensar da opinião dos que consideram a [alma](https://pt.m.wikipedia.org/wiki/Alma) o princípio da vida material?
 
 > 👻 ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente.
 
-###### Q.139
+###### Q.139 {#q139}
 
 Alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) e, antes deles, alguns filósofos definiram a [alma](https://pt.m.wikipedia.org/wiki/Alma) como: uma centelha anímica emanada do grande Todo. Por que essa contradição?
 
@@ -1666,13 +1666,13 @@ Tudo depende das acepções das palavras. Por que não tendes uma palavra para c
 
 O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam [alma](https://pt.m.wikipedia.org/wiki/Alma) ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de [alma](https://pt.m.wikipedia.org/wiki/Alma) e nesta acepção é que se pode dizer que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado. Dando da [alma](https://pt.m.wikipedia.org/wiki/Alma) definições diversas, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores nos dizem que primeiro nos entendamos acerca das palavras. [^8]
 
-###### Q.140
+###### Q.140 {#q140}
 
 Que se deve pensar da teoria da [alma](https://pt.m.wikipedia.org/wiki/Alma) subdividida em tantas partes quantos são os músculos e presidindo assim a cada uma das funções do corpo?
 
 > 👻 ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por [alma](https://pt.m.wikipedia.org/wiki/Alma) o fluido vital, essa teoria tem [razão](https://pt.m.wikipedia.org/wiki/Razão) de ser; se se entende por [alma](https://pt.m.wikipedia.org/wiki/Alma) o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado, é errônea. Já dissemos que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
 
-###### Q.140.a
+###### Q.140.a {#q140a}
 
 Entretanto, alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) deram essa definição.
 
@@ -1680,57 +1680,57 @@ Entretanto, alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) deram
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a [alma](https://pt.m.wikipedia.org/wiki/Alma) o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que habita o corpo durante a vida e o deixa por ocasião da morte.
 
-###### Q.141
+###### Q.141 {#q141}
 
 Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](https://pt.m.wikipedia.org/wiki/Alma) seja exterior ao corpo e o circunvolve?
 
 > 👻 ▸ A [alma](https://pt.m.wikipedia.org/wiki/Alma) não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é exterior, sem que por isso constitua o envoltório do corpo. A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito); outro, grosseiro, material e pesado, o corpo. A [alma](https://pt.m.wikipedia.org/wiki/Alma) é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
 
-###### Q.142
+###### Q.142 {#q142}
 
 Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai completando a cada período da vida?
 
 > 👻 ▸ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela causa.
 
-###### Q.143
+###### Q.143 {#q143}
 
 Por que todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não definem do mesmo modo a alma?
 
 > 👻 ▸ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não se acham todos esclarecidos igualmente sobre estes assuntos. Há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade.
 
-###### Q.144
+###### Q.144 {#q144}
 
 Que se deve entender por [alma](https://pt.m.wikipedia.org/wiki/Alma) do mundo?
 
 > 👻 ▸ O princípio universal da vida e da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo [alma](https://pt.m.wikipedia.org/wiki/Alma) é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à [Terra](https://pt.m.wikipedia.org/wiki/Terra) hão atribuído uma alma. Por [alma](https://pt.m.wikipedia.org/wiki/Alma) da [Terra](https://pt.m.wikipedia.org/wiki/Terra) se deve entender o conjunto dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) abnegados, que dirigem para o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de [Deus][0] com relação ao vosso planeta.
 
-###### Q.145
+###### Q.145 {#q145}
 
 Como se explica que tantos filósofos antigos e modernos, durante tão longo tempo, hajam discutido sobre a [ciência](https://pt.m.wikipedia.org/wiki/Ciência) psicológica e não tenham chegado ao conhecimento da [verdade](https://pt.m.wikipedia.org/wiki/Verdade)?
 
 > 👻 ▸ Esses homens eram os precursores da eterna [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a [verdade](https://pt.m.wikipedia.org/wiki/Verdade), mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis.
 
-###### Q.146
+###### Q.146 {#q146}
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem, no corpo, sede determinada e circunscrita?
 
 > 👻 ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
 
-###### Q.146.a
+###### Q.146.a {#q146a}
 
 Que se deve pensar da opinião dos que situam a [alma](https://pt.m.wikipedia.org/wiki/Alma) num centro vital?
 
 > 👻 ▸ Quer isso dizer que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da [alma](https://pt.m.wikipedia.org/wiki/Alma) se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
 
-#### Materialismo
+#### 📑 Materialismo ✅ {#lde-2-02-03}
 
-###### Q.147
+###### Q.147 {#q147}
 
 Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a [ciência](https://pt.m.wikipedia.org/wiki/Ciência) da Natureza, são, com tanta frequência, levados ao materialismo?
 
 > 👻 ▸ O fisiologista refere tudo ao que vê. Orgulho dos homens, que julgam saber tudo e não admitem haja coisa alguma que lhes esteja acima do entendimento. A própria [ciência](https://pt.m.wikipedia.org/wiki/Ciência) que cultivam os enche de presunção. Pensam que a Natureza nada lhes pode conservar oculto.
 
-###### Q.148
+###### Q.148 {#q148}
 
 Não é de lastimar que o materialismo seja uma consequência de estudos que deveriam, contrariamente, mostrar ao homem a superioridade da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) que governa o mundo? Deve-se daí concluir que são perigosos?
 
@@ -1744,41 +1744,41 @@ Não tem este quadro alguma coisa de horrível, de glacial? A [religião](https:
 
 É erro dizê-lo e a missão do [Espiritismo][3] consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O [Espiritismo][3] é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque [Deus][0] o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) pela perspectiva do futuro.
 
-### 2-03. 🗂️ {#lde-2-03}
+### 2-03. 🗂️ Retorno à vida espiritual ✅ {#lde-2-03}
 
-#### A [alma](https://pt.m.wikipedia.org/wiki/Alma) após a morte. Vida eterna
+#### 📑 A [alma](https://pt.m.wikipedia.org/wiki/Alma) após a morte. Vida eterna ✅ {#lde-2-03-01}
 
-###### Q.149
+###### Q.149 {#q149}
 
 Que sucede à [alma](https://pt.m.wikipedia.org/wiki/Alma) no instante da morte?
 
 > 👻 ▸ Volta a ser [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), isto é, volve ao mundo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), donde se apartara momentaneamente.
 
-###### Q.150
+###### Q.150 {#q150}
 
 A alma, após a morte, conserva a sua individualidade?
 
 > 👻 ▸ Sim; jamais a perde. Que seria ela, se não a conservasse?
 
-###### Q.150.a
+###### Q.150.a {#q150a}
 
 Como comprova a [alma](https://pt.m.wikipedia.org/wiki/Alma) a sua individualidade, uma vez que não tem mais corpo material?
 
 > 👻 ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito).
 
-###### Q.150.b
+###### Q.150.b {#q150b}
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) nada leva consigo deste mundo?
 
 > 👻 ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 
-###### Q.151
+###### Q.151 {#q151}
 
 Que pensar da opinião dos que dizem que após a [morte](https://pt.m.wikipedia.org/wiki/Morte) a [alma](https://pt.m.wikipedia.org/wiki/Alma) retorna ao todo universal?
 
 > 👻 ▸ O conjunto dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não forma um todo? não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade.
 
-###### Q.152
+###### Q.152 {#q152}
 
 Que prova podemos ter da individualidade da [alma](https://pt.m.wikipedia.org/wiki/Alma) depois da morte?
 
@@ -1790,21 +1790,21 @@ Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, 
 
 A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da [alma](https://pt.m.wikipedia.org/wiki/Alma) nos era ensinada em teoria, como artigo de fé. O [Espiritismo][3] a torna manifesta e, de certo modo, material.
 
-###### Q.153
+###### Q.153 {#q153}
 
 Em que sentido se deve entender a vida eterna?
 
 > 👻 ▸ A vida do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a [alma](https://pt.m.wikipedia.org/wiki/Alma) retoma a vida eterna.
 
-###### Q.153.a
+###### Q.153.a {#q153a}
 
 Não seria mais exato chamar vida eterna a dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
 
 > 👻 ▸ Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais.
 
-#### Separação da alma e do corpo
+#### 📑 Separação da alma e do corpo ✅ {#lde-2-03-02}
 
-###### Q.154
+###### Q.154 {#q154}
 
 É dolorosa a separação da [alma](https://pt.m.wikipedia.org/wiki/Alma) e do corpo?
 
@@ -1812,13 +1812,13 @@ Não seria mais exato chamar vida eterna a dos [Espíritos](https://pt.m.wikiped
 
 Na [morte](https://pt.m.wikipedia.org/wiki/Morte) natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
-###### Q.155
+###### Q.155 {#q155}
 
 Como se opera a separação da [alma](https://pt.m.wikipedia.org/wiki/Alma) e do corpo?
 
 > 👻 ▸ Rotos os laços que a retinham, ela se desprende.
 
-###### Q.155.a
+###### Q.155.a {#q155a}
 
 A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte?
 
@@ -1826,43 +1826,43 @@ A separação se dá instantaneamente por brusca transição? Haverá alguma lin
 
 Durante a vida, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se acha preso ao corpo pelo seu envoltório semi-material ou [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito). A [morte](https://pt.m.wikipedia.org/wiki/Morte) é a destruição do corpo somente, não a desse outro invólucro, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito) não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da [morte](https://pt.m.wikipedia.org/wiki/Morte) é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi toda material e sensual, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor vitalidade, nem a possibilidade de volver à vida, mas uma simples afinidade com o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), afinidade que guarda sempre proporção com a preponderância que, durante a vida, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) deu à matéria. É, com efeito, racional conceber-se que, quanto mais o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a [alma](https://pt.m.wikipedia.org/wiki/Alma) e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas.
 
-###### Q.156
+###### Q.156 {#q156}
 
 A separação definitiva da [alma](https://pt.m.wikipedia.org/wiki/Alma) e do corpo pode ocorrer antes da cessação completa da vida orgânica?
 
 > 👻 ▸ Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma.
 
-###### Q.157
+###### Q.157 {#q157}
 
 No momento da morte, a [alma](https://pt.m.wikipedia.org/wiki/Alma) sente, alguma vez, qualquer aspiração ou êxtase que lhe faça entrever o mundo onde vai de novo entrar?
 
 > 👻 ▸ Muitas vezes a [alma](https://pt.m.wikipedia.org/wiki/Alma) sente que se desfazem os laços que a prendem ao corpo. **Emprega então todos os esforços para desfazê-los inteiramente**. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos).
 
-###### Q.158
+###### Q.158 {#q158}
 
 O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra na sua crisálida em estado de [morte](https://pt.m.wikipedia.org/wiki/Morte) aparente, para enfim renascer com uma existência brilhante, pode dar-nos ideia da vida terrestre, do túmulo e, finalmente, da nossa nova existência?
 
 > 👻 ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao pé da letra, como frequentemente vos sucede.
 
-###### Q.159
+###### Q.159 {#q159}
 
 Que sensação experimenta a [alma](https://pt.m.wikipedia.org/wiki/Alma) no momento em que reconhece estar no mundo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a [alma](https://pt.m.wikipedia.org/wiki/Alma) do justo as coisas se passam de modo [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador.
 
-###### Q.160
+###### Q.160 {#q160}
 
 O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se encontra imediatamente com os que conheceu na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e que morreram antes dele?
 
 > 👻 ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na erraticidade, como vê os encarnados e os vai visitar.
 
-###### Q.161
+###### Q.161 {#q161}
 
 Em caso de [morte](https://pt.m.wikipedia.org/wiki/Morte) violenta e acidental, quando os órgãos ainda não se enfraqueceram em consequência da idade ou das moléstias, a separação da [alma](https://pt.m.wikipedia.org/wiki/Alma) e a cessação da vida ocorrem simultaneamente?
 
 > 👻 ▸ Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra.
 
-###### Q.162
+###### Q.162 {#q162}
 
 Após a decapitação, por exemplo, conserva o homem por alguns instantes a [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmo?
 
@@ -1870,23 +1870,23 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a [con
 
 Trata-se aqui da [consciência](https://pt.m.wikipedia.org/wiki/Consciência) que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Se não perdeu essa [consciência](https://pt.m.wikipedia.org/wiki/Consciência) antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito) esteja inteiramente separado do corpo. Ao contrário: em todos os casos de [morte](https://pt.m.wikipedia.org/wiki/Morte) violenta, quando a [morte](https://pt.m.wikipedia.org/wiki/Morte) não resulta da extinção [gradual](https://pt.m.wiktionary.org/wiki/gradual) das forças vitais, mais **tenazes** os laços que prendem o corpo ao [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito) e, portanto, mais lento o desprendimento completo.
 
-#### Perturbação espiritual
+#### 📑 Perturbação espiritual ✅ {#lde-2-03-03}
 
-###### Q.163
+###### Q.163 {#q163}
 
-A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesma imediatamente depois de deixar o corpo?
+###### A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesma imediatamente depois de deixar o corpo?
 
 > 👻 ▸ Imediatamente não é [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) o termo. A [alma](https://pt.m.wikipedia.org/wiki/Alma) passa algum tempo em estado de perturbação.
 
 Na [morte](https://pt.m.wikipedia.org/wiki/Morte) natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
-###### Q.164
+###### Q.164 {#q164}
 
 A perturbação que se segue à separação da [alma](https://pt.m.wikipedia.org/wiki/Alma) e do corpo é do mesmo grau e da mesma duração para todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Não; depende da elevação de cada um. Aquele que já está purificado, se reconhece quase imediatamente, pois que se libertou da matéria antes que cessasse a vida do corpo, enquanto o homem carnal, aquele cuja [consciência](https://pt.m.wikipedia.org/wiki/Consciência) ainda não está pura, guarda por muito mais tempo a impressão da matéria.
 
-###### Q.165
+###### Q.165 {#q165}
 
 O conhecimento do [Espiritismo][3] exerce alguma influência sobre a duração, mais ou menos longa, da perturbação?
 
@@ -1902,61 +1902,61 @@ A perturbação que se segue à [morte](https://pt.m.wikipedia.org/wiki/Morte) n
 
 Nos casos de [morte](https://pt.m.wikipedia.org/wiki/Morte) coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam.
 
-### 2-04. 🗂️ {#lde-2-04}
+### 2-04. 🗂️ Pluralidade das existências {#lde-2-04}
 
-#### A reencarnação
+#### 📑 A reencarnação ✅ {#lde-2-04-01}
 
-###### Q.166
+###### Q.166 {#q166}
 
 Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
 
 > 👻 ▸ Sofrendo a prova de uma nova existência.
 
-###### Q.166.a
+###### Q.166.a {#q166a}
 
 Como realiza essa nova existência? Será pela sua transformação como [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Depurando-se, a [alma](https://pt.m.wikipedia.org/wiki/Alma) indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
 
-###### Q.166.b
+###### Q.166.b {#q166b}
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) passa então por muitas existências corporais?
 
 > 👻 ▸ Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles.
 
-###### Q.166.c
+###### Q.166.c {#q166c}
 
 Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
 
 > 👻 ▸ Evidentemente.
 
-###### Q.167
+###### Q.167 {#q167}
 
 Qual o fim objetivado com a reencarnação?
 
 > 👻 ▸ Expiação, melhoramento progressivo da Humanidade. Sem isto, onde a justiça?
 
-###### Q.168
+###### Q.168 {#q168}
 
 É limitado o número das existências corporais, ou o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) reencarna perpetuamente?
 
 > 👻 ▸ A cada nova existência, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) dá um passo para diante na senda do progresso. Desde que se ache limpo de todas as impurezas, não tem mais necessidade das provas da vida corporal.
 
-###### Q.169
+###### Q.169 {#q169}
 
 É invariável o número das encarnações para todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Não; aquele que caminha depressa, a muitas provas se forra. Todavia, as encarnações sucessivas são sempre muito numerosas, porquanto o progresso é quase infinito.
 
-###### Q.170
+###### Q.170 {#q170}
 
 O que fica sendo o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) depois da sua última encarnação?
 
 > 👻 ▸ [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) bem-aventurado; puro [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos).
 
-#### Justiça da reencarnação
+#### 📑 Justiça da reencarnação ✅ {#lde-2-04-02}
 
-###### Q.171
+###### Q.171 {#q171}
 
 Em que se funda o dogma da reencarnação?
 
@@ -1970,119 +1970,119 @@ A doutrina da reencarnação, isto é, a que consiste em admitir para o [Espíri
 
 O homem, que tem [consciência](https://pt.m.wikipedia.org/wiki/Consciência) da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de [Deus][0], não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) a utilizará em nova existência.
 
-#### Encarnação nos diferentes mundos
+#### 📑 Encarnação nos diferentes mundos ✅ {#lde-2-04-03}
 
-###### Q.172
+###### Q.172 {#q172}
 
 As nossas diversas existências corporais se verificam todas na Terra?
 
 > 👻 ▸ Não; vivemo-las em diferentes mundos. As que aqui passamos não são as primeiras, nem as últimas; são, porém, das mais materiais e das mais distantes da perfeição.
 
-###### Q.173
+###### Q.173 {#q173}
 
 A cada nova existência corporal a [alma](https://pt.m.wikipedia.org/wiki/Alma) passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 
 > 👻 ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.
 
-###### Q.173.a
+###### Q.173.a {#q173a}
 
 Podemos então reaparecer muitas vezes na Terra?
 
 > 👻 ▸ Certamente.
 
-###### Q.173.b
+###### Q.173.b {#q173b}
 
 Podemos voltar a este, depois de termos vivido em outros mundos?
 
 > 👻 ▸ Sem dúvida. É possível que já tenhais vivido algures e na Terra.
 
-###### Q.174
+###### Q.174 {#q174}
 
 Tornar a viver na [Terra](https://pt.m.wikipedia.org/wiki/Terra) constitui uma necessidade?
 
 > 👻 ▸ Não; mas, se não progredistes, podereis ir para outro mundo que não valha mais do que a [Terra](https://pt.m.wikipedia.org/wiki/Terra) e que talvez até seja pior do que ela.
 
-###### Q.175
+###### Q.175 {#q175}
 
 Haverá alguma vantagem em voltar-se a habitar a Terra?
 
 > 👻 ▸ Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta.
 
-###### Q.175.a
+###### Q.175.a {#q175a}
 
 Não se seria mais feliz permanecendo na condição de [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Não, não; estacionar-se-ia e o que se quer é caminhar para [Deus][0].
 
-###### Q.176
+###### Q.176 {#q176}
 
 Depois de haverem encarnado noutros mundos, podem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) encarnar neste, sem que jamais aí tenham estado?
 
 > 👻 ▸ Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro.
 
-###### Q.176.a
+###### Q.176.a {#q176a}
 
 Assim, homens há que estão na [Terra](https://pt.m.wikipedia.org/wiki/Terra) pela primeira vez?
 
 > 👻 ▸ Muitos, e em graus diversos de adiantamento.
 
-###### Q.176.b
+###### Q.176.b {#q176b}
 
 Pode-se reconhecer, por um indício qualquer, que um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) está pela primeira vez na Terra?
 
 > 👻 ▸ Nenhuma utilidade teria isso.
 
-###### Q.177
+###### Q.177 {#q177}
 
 Para chegar à perfeição e à suprema felicidade, destino final de todos os homens, tem o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que passar pela fieira de todos os mundos existentes no Universo?
 
 > 👻 ▸ Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau.
 
-###### Q.177.a
+###### Q.177.a {#q177a}
 
 Como se explica então a pluralidade de suas existências em um mesmo globo?
 
 > 👻 ▸ De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência.
 
-###### Q.178
+###### Q.178 {#q178}
 
 Podem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) encarnar em um mundo relativamente inferior a outro onde já viveram?
 
 > 👻 ▸ Sim, quando em missão, com o objetivo de auxiliarem o progresso, caso em que aceitam alegres as tribulações de tal existência, por lhes proporcionar meio de se adiantarem.
 
-###### Q.178.a
+###### Q.178.a {#q178a}
 
 Mas não pode dar-se também por expiação? Não pode [Deus][0] degredar para mundos inferiores [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) rebeldes?
 
 > 👻 ▸ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas.
 
-###### Q.178.b
+###### Q.178.b {#q178b}
 
 Quais os que têm de recomeçar a mesma existência?
 
 > 👻 ▸ Os que faliram em suas missões ou em suas provas.
 
-###### Q.179
+###### Q.179 {#q179}
 
 Os seres que habitam cada mundo hão todos alcançado o mesmo nível de perfeição?
 
 > 👻 ▸ Não; dá-se em cada um o que ocorre na Terra: uns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são mais adiantados do que outros.
 
-###### Q.180
+###### Q.180 {#q180}
 
 Passando deste planeta para outro, conserva o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) que aqui tinha?
 
 > 👻 ▸ Sem dúvida; a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 
 
-👉 ([LDE-2-07-04](#LDE-2-07-04))
+👉 (Veja Influência do Organismo [LDE-2-07-04](#LDE-2-07-04))
 
-###### Q.181
+###### Q.181 {#q181}
 
 Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 > 👻 ▸ É fora de [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) que têm corpos, porque o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) precisa estar revestido de matéria para atuar sobre a matéria. Esse envoltório, porém, é mais ou menos material, conforme o grau de pureza a que chegaram os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). É isso o que assinala a diferença entre os mundos que temos de percorrer, porquanto muitas moradas há na casa de nosso Pai, sendo, conseguintemente, de muitos graus essas moradas. Alguns o sabem e desse fato têm [consciência](https://pt.m.wikipedia.org/wiki/Consciência) na Terra; com outros, no entanto, o mesmo não se dá.
 
-###### Q.182
+###### Q.182 {#q182}
 
 É-nos possível conhecer exatamente o estado físico e moral dos diferentes mundos?
 
@@ -2091,28 +2091,28 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 À medida que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se purifica, o corpo que o reveste se aproxima igualmente da natureza espírita. Torna-se-lhe menos densa a matéria, deixa de rastejar penosamente pela superfície do solo, menos grosseiras se lhe fazem as necessidades físicas, não mais sendo preciso que os seres vivos se destruam mutuamente para se nutrirem. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se acha mais livre e tem, das coisas longínquas, percepções que desconhecemos. Vê com os olhos do corpo o que só pelo pensamento entrevemos.
 
 Da purificação do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) decorre o aperfeiçoamento moral, para os seres que eles constituem, quando encarnados. As paixões animais se enfraquecem e o egoísmo cede lugar ao sentimento da fraternidade. Assim é que, nos mundos superiores ao nosso, se desconhecem as guerras, carecendo de objeto os ódios e as discórdias, porque ninguém pensa em causar dano ao seu semelhante. A intuição que seus habitantes têm do futuro, a segurança que uma [consciência](https://pt.m.wikipedia.org/wiki/Consciência) isenta de remorsos lhes dá, fazem que a [morte](https://pt.m.wikipedia.org/wiki/Morte) nenhuma apreensão lhes cause. Encaram-na de frente, sem temor, como simples transformação.
- 
+
 A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos.
 
-###### Q.183
+###### Q.183 {#q183}
 
 Indo de um mundo para outro, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) passa por nova infância?
 
 > 👻 ▸ Em toda parte a infância é uma transição necessária, mas não é, em toda parte, tão obtusa como no vosso mundo.
 
-###### Q.184
+###### Q.184 {#q184}
 
 Tem o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) a faculdade de escolher o mundo em que passe a habitar?
 
 > 👻 ▸ Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), depende do grau da elevação destes.
 
-###### Q.184.a
+###### Q.184.a {#q184a}
 
 Se o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) nada pedir, que é o que determina o mundo em que ele reencarnará?
 
 > 👻 ▸ O grau da sua elevação.
 
-###### Q.185
+###### Q.185 {#q185a}
 
 O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? [^9]
 
@@ -2120,51 +2120,51 @@ O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo?
 
 É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras.
 
-###### Q.186
+###### Q.186 {#q186}
 
 Haverá mundos em que o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), deixando de revestir corpos materiais, só tenha por envoltório o [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito)?
 
 > 👻 ▸ Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) puros.
 
-###### Q.186.a
+###### Q.186.a {#q186a}
 
 Parece resultar daí que, entre o estado correspondente às últimas encarnações e o de [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) puro, não há linha divisória perfeitamente demarcada; não?
 
 > 👻 ▸ Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer.
 
-###### Q.187
+###### Q.187 {#q1687}
 
 A substância do [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito) é a mesma em todos os mundos?
 
 > 👻 ▸ Não; é mais ou menos etérea. Passando de um mundo a outro, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se reveste da matéria própria desse outro, operando-se, porém, essa mudança com a rapidez do relâmpago.
 
-###### Q.188
+###### Q.188 {#q188}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) puros habitam mundos especiais, ou se acham no espaço universal, sem estarem mais ligados a um mundo do que a outros?
 
 > 👻 ▸ Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. [^10]
 
-#### Transmigrações progressivas
+#### 📑 Transmigrações progressivas ✅ {#lde-2-04-04}
 
-###### Q.189
+###### Q.189 {#q189}
 
 Desde o início de sua formação, goza o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da plenitude de suas faculdades?
 
 > 👻 ▸ Não, pois que para o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), como para o homem, também há infância. Em sua origem, a vida do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é apenas instintiva. Ele mal tem [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmo e de seus atos. A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) só pouco a pouco se desenvolve.
 
-###### Q.190
+###### Q.190 {#q190}
 
 Qual o estado da [alma](https://pt.m.wikipedia.org/wiki/Alma) na sua primeira encarnação?
 
 > 👻 ▸ O da infância na vida corporal. A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) então apenas desabrocha: a [alma](https://pt.m.wikipedia.org/wiki/Alma) se ensaia para a vida.
 
-###### Q.191
+###### Q.191 {#q191}
 
 As dos nossos selvagens são almas no estado de infância?
 
 > 👻 ▸ De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
 
-###### Q.191.a
+###### Q.191.a {#q191a}
 
 Então, as paixões são um sinal de desenvolvimento?
 
@@ -2172,31 +2172,31 @@ Então, as paixões são um sinal de desenvolvimento?
 
 A vida do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar.
 
-###### Q.192
+###### Q.192 {#q192}
 
 Pode alguém, por um proceder impecável na vida atual, transpor todos os graus da escala do aperfeiçoamento e tornar-se [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) puro, sem passar por outros graus intermédios?
 
 > 👻 ▸ Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) cumpre progredir em [ciência](https://pt.m.wikipedia.org/wiki/Ciência) e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem.
 
-###### Q.192.a
+###### Q.192.a {#q192a}
 
 Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
 
 > 👻 ▸ Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**.
 
-###### Q.193
+###### Q.193 {#q193}
 
 Pode um homem, nas suas novas existências, descer mais baixo do que esteja na atual?
 
 > 👻 ▸ Com relação à **posição social**, sim; como [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), não.
 
-###### Q.194
+###### Q.194 {#q194}
 
 É possível que, em nova encarnação, a [alma](https://pt.m.wikipedia.org/wiki/Alma) de um homem de [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) anime o corpo de um celerado?
 
 > 👻 ▸ Não, visto que não pode degenerar.
 
-###### Q.194.a
+###### Q.194.a {#q194a}
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) de um homem perverso pode tornar-se a de um homem de bem?
 
@@ -2204,7 +2204,7 @@ A [alma](https://pt.m.wikipedia.org/wiki/Alma) de um homem perverso pode tornar-
 
 A marcha dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Assim, a [alma](https://pt.m.wikipedia.org/wiki/Alma) de um potentado da [Terra](https://pt.m.wikipedia.org/wiki/Terra) pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na [razão](https://pt.m.wikipedia.org/wiki/Razão) inversa da elevação das qualidades morais. Herodes era rei e [Jesus][1], carpinteiro.
 
-###### Q.195
+###### Q.195 {#q195}
 
 A possibilidade de se melhorarem noutra existência não será de molde a fazer que certas pessoas perseverem no mau caminho, dominadas pela ideia de que poderão corrigir-se mais tarde?
 
@@ -2212,13 +2212,13 @@ A possibilidade de se melhorarem noutra existência não será de molde a fazer 
 >
 > O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita.
 
-###### Q.196
+###### Q.196 {#q196}
 
 Não podendo os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de **crisol** ou de **depurador**, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?
 
 > 👻 ▸ Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem.
 
-###### Q.196.a
+###### Q.196.a {#q196a}
 
 É o corpo que influi sobre o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) para que este se melhore, ou o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que influi sobre o corpo?
 
@@ -2226,33 +2226,33 @@ Não podendo os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) aperfei�
 
 O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama [espírito](https://pt.m.wikipedia.org/wiki/Espírito) ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a [alma](https://pt.m.wikipedia.org/wiki/Alma) tem que entrar para se purificar. Às matérias estranhas se assemelha o [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito), que também se depura, à medida que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se aproxima da perfeição.
 
-#### Sorte das crianças depois da morte
+#### 📑 Sorte das crianças depois da morte ✅ {#lde-2-04-05}
 
-###### Q.197
+###### Q.197 {#q197}
 
 Poderá ser tão adiantado quanto o de um adulto o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) de uma criança que morreu em tenra idade?
 
 > 👻 ▸ Algumas vezes o é muito mais, porquanto pode dar-se que muito mais já tenha vivido e adquirido maior soma de experiência, sobretudo se progrediu.
 
-###### Q.197.a
+###### Q.197.a {#q197a}
 
 Pode então o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) de uma criança ser mais adiantado que o de seu pai?
 
 > 👻 ▸ Isso é muito frequente. Não o vedes vós mesmos tão amiudadas vezes na Terra?
 
-###### Q.198
+###### Q.198 {#q198}
 
 Não tendo podido praticar o mal, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) de uma criança que morreu em tenra idade pertence a alguma das categorias superiores?
 
 > 👻 ▸ Se não fez o mal, igualmente não fez o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) e [Deus][0] não o isenta das provas que tenha de padecer. Se for um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) puro, não o é pelo fato de ter animado apenas uma criança, mas porque já progredira até à pureza.
 
-###### Q.199
+###### Q.199 {#q199}
 
 Por que tão frequentemente a vida se interrompe na infância?
 
 > 👻 ▸ A curta duração da vida da criança pode representar, para o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou expiação para os pais**.
 
-###### Q.199.a
+###### Q.199.a {#q199a}
 
 Que sucede ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) de uma criança que morre pequenina?
 
@@ -2264,21 +2264,21 @@ Semelhante ordem de coisas não corresponderia à Justiça de [Deus][0]. Com a r
 
 Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem [razão](https://pt.m.wikipedia.org/wiki/Razão) a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de [Deus][0].
 
-#### Sexos nos Espíritos
+#### 📑 Sexos nos Espíritos ✅ {#lde-2-04-06}
 
-###### Q.200
+###### Q.200 {#q200}
 
 Têm sexos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Não como o entendeis, pois que os sexos dependem da organização. Há entre eles [amor](https://pt.m.wikipedia.org/wiki/amor) e simpatia, mas baseados na concordância dos sentimentos.
 
-###### Q.201
+###### Q.201 {#q201}
 
 Em nova existência, pode o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que animou o corpo de um homem animar o de uma mulher e vice-versa?
 
 > 👻 ▸ Decerto; são os mesmos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que animam os homens e as mulheres.
 
-###### Q.202
+###### Q.202 {#q202}
 
 Quando errante, que prefere o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos): encarnar no corpo de um homem, ou no de uma mulher?
 
@@ -2286,107 +2286,107 @@ Quando errante, que prefere o [Espírito](https://pt.m.wikipedia.org/wiki/Espír
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens.
 
-#### Parentesco, filiação
+#### 📑 Parentesco, filiação ✅ {#lde-2-04-07}
 
-###### Q.203
+###### Q.203 {#q203}
 
 Transmitem os pais aos filhos uma parcela de suas almas, ou se limitam a lhes dar a vida animal a que, mais tarde, outra [alma](https://pt.m.wikipedia.org/wiki/Alma) vem adicionar a vida moral?
 
 > 👻 ▸ Dão-lhes apenas a vida animal, pois que a [alma](https://pt.m.wikipedia.org/wiki/Alma) **é indivisível**. Um pai obtuso pode ter filhos inteligentes e vice-versa.
 
-###### Q.204
+###### Q.204 {#q204}
 
 Uma vez que temos tido muitas existências, a nossa parentela vai além da que a existência atual nos criou?
 
 > 👻 ▸ Não pode ser de outra maneira. A sucessão das existências corporais estabelece entre os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) ligações que remontam às vossas existências anteriores. Daí, muitas vezes, a simpatia que vem a existir entre vós e certos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que vos parecem estranhos.
 
-###### Q.205
+###### Q.205 {#q205}
 
 A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
 
 > 👻 ▸ Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) a quem tenhais estado presos pelos laços da consanguinidade.
 
-###### Q.205.a
+###### Q.205.a {#q205a}
 
 Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. [^11]
 
 > 👻 ▸ É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que [Deus][0] formulou as Leis da Natureza.
 
-###### Q.206
+###### Q.206 {#q206}
 
 Do fato de não haver filiação entre os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) dos descendentes de qualquer família, seguir-se-á que o culto dos avoengos seja ridículo?
 
 > 👻 ▸ De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) elevados. Se [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais.
 
-#### Parecenças físicas e morais
+#### 📑 Parecenças físicas e morais ✅ {#lde-2-04-08}
 
-###### Q.207
+###### Q.207 {#q207}
 
 Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
 
 > 👻 ▸ Não, que diferentes são as almas ou [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de uns e outros. O corpo deriva do corpo, mas o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não procede do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Entre os descendentes das raças apenas há consanguinidade.
 
-###### Q.207.a
+###### Q.207.a {#q207a}
 
 Donde se originam as parecenças morais que costuma haver entre pais e filhos?
 
 > 👻 ▸ É que uns e outros são [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpáticos, que reciprocamente se atraíram pela analogia dos pendores.
 
-###### Q.208
+###### Q.208 {#q208}
 
 Nenhuma influência exercem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) dos pais sobre o filho depois do nascimento deste?
 
 > 👻 ▸ Ao contrário: [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) grande influência exercem. Conforme já dissemos, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) têm que contribuir para o progresso uns dos outros. Pois bem, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) dos pais têm por missão desenvolver os de seus filhos pela educação. Constitui-lhes isso uma tarefa. **Tornar-se-ão culpados, se vierem a falir no seu desempenho.**
 
-###### Q.209
+###### Q.209 {#q209}
 
 Por que de pais bons e virtuosos nascem filhos de natureza perversa? Por outra: por que as boas qualidades dos pais nem sempre atraem, por simpatia, um bom [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) para lhes animar o filho?
 
 > 👻 ▸ Não é raro que um mau [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) peça lhe sejam dados bons pais, na esperança de que seus conselhos o encaminhem por melhor senda e muitas vezes [Deus][0] lhe concede o que deseja.
 
-###### Q.210
+###### Q.210 {#q210}
 
 Pelos seus pensamentos e preces podem os pais atrair para o corpo, em formação, do filho um bom [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), de preferência a um inferior?
 
 > 👻 ▸ Não, mas podem melhorar o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) do filho que lhes nasceu e está confiado. Esse o dever deles. Os maus filhos são uma provação para os pais.
 
-###### Q.211
+###### Q.211 {#q211}
 
 Donde deriva a semelhança de caráter que muitas vezes existe entre dois irmãos, mormente se gêmeos?
 
 > 👻 ▸ São [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpáticos que se aproximam por analogia de sentimentos **e se sentem felizes por estar juntos**.
 
-###### Q.212
+###### Q.212 {#q212}
 
 Há dois [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), ou, por outra, duas almas, nas crianças cujos corpos nascem ligados, tendo comuns alguns órgãos?
 
 > 👻 ▸ Sim, mas a semelhança entre elas é tal que faz vos pareçam, em muitos casos, uma só.
 
-###### Q.213
+###### Q.213 {#q213}
 
 Pois que nos gêmeos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) encarnam por simpatia, donde provém a aversão que às vezes se nota entre eles?
 
 > 👻 ▸ Não é de regra que sejam simpáticos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) dos gêmeos. Acontece também que [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) maus entendam de lutar juntos no palco da vida.
 
-###### Q.214
+###### Q.214 {#q214}
 
 Que se deve pensar dessas histórias de crianças que lutam no seio materno?
 
 > 👻 ▸ Lendas! Para significarem quão inveterado era o ódio que reciprocamente se votavam, figuram-no a se fazer sentir antes do nascimento delas. Em geral, não levais muito em conta as imagens poéticas.
 
-###### Q.215
+###### Q.215 {#q215}
 
 O que dá origem ao caráter distintivo que se nota em cada povo?
 
 > 👻 ▸ Também os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se grupam em famílias, formando-as pela analogia de seus pendores mais ou menos puros, conforme a elevação que tenham alcançado. Pois bem! um povo é uma grande família formada pela reunião de [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpáticos. Na tendência que apresentam os membros dessas famílias, para se unirem, é que está a origem da semelhança que, existindo entre os indivíduos, constitui o caráter distintivo de cada povo. Julgas que [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) bons e humanitários procurem, para nele encarnar, um povo rude e grosseiro? Não. Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpatizam com as coletividades, como simpatizam com os indivíduos. Naquelas em cujo seio se encontrem, eles se acham no meio que lhes é próprio.
 
-###### Q.216
+###### Q.216 {#q216}
 
 Em suas novas existências conservará o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) traços do caráter moral de suas existências anteriores?
 
 > 👻 ▸ Isso pode dar-se. Mas, melhorando-se, ele muda. Pode também acontecer que sua posição social venha a ser outra. Se de senhor passa a escravo, inteiramente diversos serão os seus gostos e dificilmente o reconheceríeis. Sendo o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) sempre o mesmo nas diversas encarnações, podem existir certas analogias entre as suas manifestações, se [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) que modificadas pelos hábitos da posição que ocupe, até que um aperfeiçoamento notável lhe haja mudado completamente o caráter, porquanto, de orgulhoso e mau, pode tornar-se humilde e bondoso, se se arrependeu.
 
-###### Q.217
+###### Q.217 {#q217}
 
 E do caráter físico de suas existências pretéritas conserva o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) traços nas suas existências posteriores?
 
@@ -2394,53 +2394,53 @@ E do caráter físico de suas existências pretéritas conserva o [Espírito](ht
 
 Nenhuma relação **essencial** guardando o corpo que a [alma](https://pt.m.wikipedia.org/wiki/Alma) toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a **achar-se de novo** no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) foi antes?
 
-#### Ideias inatas
+#### 📑 Ideias inatas ✅ {#lde-2-04-09}
 
-###### Q.218
+###### Q.218 {#q218}
 
 Encarnado, conserva o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
 
 > 👻 ▸ Guarda vaga lembrança, que lhe dá o que se chama ideias inatas.
 
-###### Q.218.a
+###### Q.218.a {#q218a}
 
 Não é, então, quimérica a teoria das ideias inatas?
 
 > 👻 ▸ Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), é o em que, na existência precedente, ele ficou.
 
-###### Q.218.b
+###### Q.218.b {#q218b}
 
 Grande conexão deve então haver entre duas existências consecutivas?
 
 > 👻 ▸ Nem sempre, tão grande quanto talvez o suponhas, dado que [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) diferentes são, muitas vezes, as posições do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) nas duas e que, no intervalo de uma a outra, pode ele ter progredido. 
 
-👉 ([Q.216](#q216))
+👉 (Veja [Q.216](#q216))
 
-###### Q.219
+###### Q.219 {#q219}
 
 Qual a origem das faculdades extraordinárias dos indivíduos que, sem estudo prévio, parecem ter a intuição de certos conhecimentos, o das línguas, do cálculo etc.?
 
 > 👻 ▸ Lembrança do passado; progresso anterior da alma, mas de que ela não tem consciência. Donde queres que venham tais conhecimentos? O corpo muda, o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), porém, não muda, embora troque de roupagem.
 
-###### Q.220
+###### Q.220 {#q220}
 
 Pode o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), mudando de corpo, perder algumas faculdades intelectuais, deixar de ter, por exemplo, o gosto das artes?
 
 > 👻 ▸ Sim, desde que conspurcou a sua [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) ou a utilizou mal. Ademais, uma faculdade qualquer pode permanecer adormecida durante uma existência, por querer o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) exercitar outra, que nenhuma relação tem com aquela. Esta, então, fica em estado latente, para reaparecer mais tarde.
 
-###### Q.221
+###### Q.221 {#q221}
 
 Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que o homem, mesmo selvagem, possui da existência de [Deus][0] e o pressentimento da vida futura?
 
 > 👻 ▸ É uma lembrança que ele conserva do que sabia como [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) antes de encarnar, mas o orgulho amiudadamente abafa esse sentimento.
 
-###### Q.221.a
+###### Q.221.a {#q221a}
 
 Serão devidas a essa mesma lembrança certas crenças relativas à [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, que se observam em todos os povos?
 
 > 👻 ▸ Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado tem, instintivamente, [consciência](https://pt.m.wikipedia.org/wiki/Consciência) do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.
 
-### 2-05. 🗂️ {#lde-2-05}
+### 2-05. 🗂️ Considerações sobre a pluralidade das existências ✅ {#lde-2-05}
 
 #### 222
 
@@ -2454,72 +2454,78 @@ Muitos repelem a ideia da reencarnação pelo só motivo de ela não lhes convir
 
 Supomos dirigir-nos a pessoas que acreditam num futuro depois da [morte](https://pt.m.wikipedia.org/wiki/Morte) e não aos que criam para si a perspectiva do nada, ou pretendem que suas almas se vão afogar num todo universal, onde perdem a individualidade, como os pingos da chuva no oceano, o que vem a dar quase no mesmo. Ora, pois: se credes num futuro qualquer, certo não admitis que ele seja idêntico para todos, porquanto, de outro modo, qual a utilidade do bem? Por que haveria o homem de constranger-se? Por que deixaria de satisfazer a todas as suas paixões, a todos os seus desejos, embora à custa de outrem, uma vez que por isso não ficaria sendo melhor, nem pior? Credes, ao contrário, que esse futuro será mais ou menos ditoso ou inditoso, conforme o que houverdes feito durante a vida e então desejais que seja tão afortunado quanto possível, visto que há de durar pela eternidade, não? Mas, porventura, teríeis a pretensão de serdes dos homens mais perfeitos que hajam existido na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e, pois, com direito a alcançardes de um salto a suprema felicidade dos eleitos? Não. Admitis então que há homens de valor maior do que o vosso e com direito a um lugar melhor, sem daí resultar que vos conteis entre os réprobos. Pois bem! Colocai-vos mentalmente, por um instante, nessa situação intermédia, que será a vossa, como acabastes de reconhecer, e imaginai que alguém vos venha dizer:
 
-— Sofreis; não sois tão felizes quanto poderíeis ser, ao passo que diante de vós estão seres que gozam de completa ventura. Quereis mudar na deles a vossa posição?
-— Certamente — respondereis. Que devemos fazer?
-— Quase nada: recomeçar o trabalho mal executado e executá-lo melhor.
-Hesitaríeis em aceitar, ainda que a poder de muitas existências de provações? Façamos outra comparação mais prosaica. Figuremos que a um homem que, sem ter chegado à miséria extrema, sofre, no entanto, privações, por escassez de recursos, viessem dizer:
-— Aqui está uma riqueza imensa de que podes gozar; para isto, só é necessário que trabalhes arduamente durante um minuto.
-Fosse ele o mais preguiçoso da Terra, que sem hesitar diria:
-— Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a eternidade? Menos que um minuto, menos que um segundo.
+— Sofreis; não sois tão felizes quanto poderíeis ser, ao passo que diante de vós estão seres que gozam de completa ventura. Quereis mudar na deles a vossa posição?  
 
-Temos visto algumas pessoas raciocinarem deste modo: Não é possível que [Deus][0], soberanamente bom como é, imponha ao homem a obrigação de recomeçar uma série de misérias e tribulações. Acharão, porventura, essas pessoas que há mais bondade em condenar [Deus][0] o homem a sofrer perpetuamente, por motivo de alguns momentos de erro, do que em lhe facultar meios de reparar suas faltas?
+— Certamente — respondereis. Que devemos fazer?  
 
-Dois industriais contrataram dois operários, cada um dos quais podia aspirar a se tornar sócio do respectivo patrão. Aconteceu que esses dois operários certa vez empregaram muito mal o seu dia, merecendo ambos ser despedidos. Um dos industriais, não obstante as súplicas do seu operário, o mandou embora e o pobre operário, não tendo achado mais trabalho, acabou por morrer na miséria. O outro industrial disse ao seu operário:
+— Quase nada: recomeçar o trabalho mal executado e executá-lo melhor.  
 
-— Perdeste um dia; deves-me por isso uma compensação. Executaste mal o teu trabalho; ficaste a me dever uma reparação. Consinto que o recomeces. Trata de executá-lo bem, que te conservarei ao meu serviço e poderás continuar aspirando à posição superior que te prometi.
+Hesitaríeis em aceitar, ainda que a poder de muitas existências de provações? Façamos outra comparação mais prosaica. Figuremos que a um homem que, sem ter chegado à miséria extrema, sofre, no entanto, privações, por escassez de recursos, viessem dizer:  
 
-Será preciso perguntemos qual dos industriais foi mais humano? Dar-se-á que [Deus][0], que é a clemência mesma, seja mais inexorável do que um homem?
+— Aqui está uma riqueza imensa de que podes gozar; para isto, só é necessário que trabalhes arduamente durante um minuto.  
 
-Alguma coisa de pungente há na ideia de que a nossa sorte fique para sempre decidida, por efeito de alguns anos de provações, ainda quando de nós não tenha dependido o atingirmos a perfeição, ao passo que eminentemente consoladora é a ideia oposta, que nos permite a esperança. Assim, sem nos pronunciarmos pró ou contra a pluralidade das existências, sem preferirmos uma hipótese a outra, declaramos que, se aos homens fosse dado escolher, ninguém quereria o julgamento sem apelação. Disse um filósofo que, se [Deus][0] não existisse, fora mister inventá-lo, para felicidade do gênero humano. Outro tanto se poderia dizer da pluralidade das existências. Mas, conforme anteriormente ponderamos, [Deus][0] não nos pede permissão, nem consulta os nossos gostos. Ou isto é, ou não é. Vejamos de que lado estão as probabilidades e encaremos de outro ponto de vista o assunto, unicamente como estudo filosófico, sempre abstraindo do ensino dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos).
+Fosse ele o mais preguiçoso da Terra, que sem hesitar diria:  
 
-Se não há reencarnação, só há, evidentemente, uma existência corporal. Se a nossa atual existência corpórea é única, a [alma](https://pt.m.wikipedia.org/wiki/Alma) de cada homem foi criada por ocasião do seu nascimento, a menos que se admita a anterioridade da alma, caso em que caberia perguntar o que era ela antes do nascimento e se o estado em que se achava não constituía uma existência sob forma qualquer. Não há meio termo: ou a [alma](https://pt.m.wikipedia.org/wiki/Alma) existia, ou não existia antes do corpo. Se existia, qual a sua situação? Tinha, ou não, [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesma? Se não tinha, é quase como se não existisse. Se tinha individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo, de acordo com a crença vulgar, que a [alma](https://pt.m.wikipedia.org/wiki/Alma) nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só dispõe de faculdades negativas, perguntamos:
+— Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a eternidade? Menos que um minuto, menos que um segundo.  
 
-1. Por que mostra a [alma](https://pt.m.wikipedia.org/wiki/Alma) aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?
+Temos visto algumas pessoas raciocinarem deste modo: Não é possível que [Deus][0], soberanamente bom como é, imponha ao homem a obrigação de recomeçar uma série de misérias e tribulações. Acharão, porventura, essas pessoas que há mais bondade em condenar [Deus][0] o homem a sofrer perpetuamente, por motivo de alguns momentos de erro, do que em lhe facultar meios de reparar suas faltas?  
 
-2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela [ciência](https://pt.m.wikipedia.org/wiki/Ciência), enquanto outras se conservam inferiores ou medíocres durante a vida toda?
+Dois industriais contrataram dois operários, cada um dos quais podia aspirar a se tornar sócio do respectivo patrão. Aconteceu que esses dois operários certa vez empregaram muito mal o seu dia, merecendo ambos ser despedidos. Um dos industriais, não obstante as súplicas do seu operário, o mandou embora e o pobre operário, não tendo achado mais trabalho, acabou por morrer na miséria. O outro industrial disse ao seu operário:  
 
-3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?
+— Perdeste um dia; deves-me por isso uma compensação. Executaste mal o teu trabalho; ficaste a me dever uma reparação. Consinto que o recomeces. Trata de executá-lo bem, que te conservarei ao meu serviço e poderás continuar aspirando à posição superior que te prometi.  
 
-4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?
+Será preciso perguntemos qual dos industriais foi mais humano? Dar-se-á que [Deus][0], que é a clemência mesma, seja mais inexorável do que um homem?  
 
-5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?
+Alguma coisa de pungente há na ideia de que a nossa sorte fique para sempre decidida, por efeito de alguns anos de provações, ainda quando de nós não tenha dependido o atingirmos a perfeição, ao passo que eminentemente consoladora é a ideia oposta, que nos permite a esperança. Assim, sem nos pronunciarmos pró ou contra a pluralidade das existências, sem preferirmos uma hipótese a outra, declaramos que, se aos homens fosse dado escolher, ninguém quereria o julgamento sem apelação. Disse um filósofo que, se [Deus][0] não existisse, fora mister inventá-lo, para felicidade do gênero humano. Outro tanto se poderia dizer da pluralidade das existências. Mas, conforme anteriormente ponderamos, [Deus][0] não nos pede permissão, nem consulta os nossos gostos. Ou isto é, ou não é. Vejamos de que lado estão as probabilidades e encaremos de outro ponto de vista o assunto, unicamente como estudo filosófico, sempre abstraindo do ensino dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos).  
 
-6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?
+Se não há reencarnação, só há, evidentemente, uma existência corporal. Se a nossa atual existência corpórea é única, a [alma](https://pt.m.wikipedia.org/wiki/Alma) de cada homem foi criada por ocasião do seu nascimento, a menos que se admita a anterioridade da alma, caso em que caberia perguntar o que era ela antes do nascimento e se o estado em que se achava não constituía uma existência sob forma qualquer. Não há meio termo: ou a [alma](https://pt.m.wikipedia.org/wiki/Alma) existia, ou não existia antes do corpo. Se existia, qual a sua situação? Tinha, ou não, [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesma? Se não tinha, é quase como se não existisse. Se tinha individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo, de acordo com a crença vulgar, que a [alma](https://pt.m.wikipedia.org/wiki/Alma) nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só dispõe de faculdades negativas, perguntamos:  
 
-Qual a [filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) ou a teosofia capaz de resolver estes problemas? É fora de [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) que, ou as almas são iguais ao nascerem, ou são desiguais. Se são iguais, por que, entre elas, tão grande diversidade de aptidões? Dir-se-á que isso depende do organismo. Mas, então, achamo-nos em presença da mais monstruosa e imoral das doutrinas. O homem seria simples máquina, joguete da matéria; deixaria de ter a responsabilidade de seus atos, pois que poderia atribuir tudo às suas imperfeições físicas. Se as almas são desiguais, é que [Deus][0] as criou assim. Nesse caso, porém, por que a inata superioridade concedida a algumas? Corresponderá essa parcialidade à Justiça de [Deus][0] e ao [amor](https://pt.m.wikipedia.org/wiki/amor) que Ele consagra igualmente a todas as suas criaturas?
+1. Por que mostra a [alma](https://pt.m.wikipedia.org/wiki/Alma) aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?  
 
-Admitamos, ao contrário, uma série de progressivas existências anteriores para cada [alma](https://pt.m.wikipedia.org/wiki/Alma) e tudo se explica. Ao nascerem, trazem os homens a intuição do que aprenderam antes. São mais ou menos adiantados, conforme o número de existências que contêm, conforme já estejam mais ou menos afastados do ponto de partida. Dá-se aí exatamente o que se observa numa reunião de indivíduos de todas as idades, onde cada um terá desenvolvimento proporcionado ao número de anos que tenha vivido. As existências sucessivas serão, para a vida da alma, o que os anos são para a do corpo. Reuni, em certo dia, um milheiro de indivíduos de um a oitenta anos; suponde que um véu encubra todos os dias precedentes ao em que os reunistes e que, em consequência, acreditais que todos nasceram na mesma ocasião. Perguntareis naturalmente como é que uns são grandes e outros pequenos; uns velhos e jovens outros; instruídos uns, outros ainda ignorantes. Se, porém, dissipando-se a nuvem que lhes oculta o passado, vierdes a saber que todos hão vivido mais ou menos tempo, tudo se vos tornará explicado. [Deus][0], em sua justiça, não pode ter criado almas mais ou menos perfeitas. Com a pluralidade das existências, a desigualdade que notamos nada mais apresenta em oposição à mais rigorosa equidade: é que apenas vemos o presente e não o passado. A este raciocínio serve de base algum sistema, alguma suposição gratuita? Não. Partimos de um fato patente, incontestável: a desigualdade das aptidões e do desenvolvimento intelectual e moral e verificamos que nenhuma das teorias correntes o explica, ao passo que uma outra teoria — - a da pluralidade das existências — lhe dá explicação simples, natural e lógica. Será racional preferir-se à teoria que explica tudo a uma das que nada explicam?
+2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela [ciência](https://pt.m.wikipedia.org/wiki/Ciência), enquanto outras se conservam inferiores ou medíocres durante a vida toda?  
 
-À vista da sexta interrogação acima, dirão naturalmente que o hotentote é de raça inferior. Perguntaremos, então, se o hotentote é ou não um homem. Se é, por que a ele e à sua raça privou [Deus][0] dos privilégios concedidos à raça caucásica? Se não é, por que tentar fazê-lo cristão? A [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita tem mais amplitude do que tudo isto. Segundo ela, não há muitas espécies de homens, há tão somente homens cujos [espíritos](https://pt.m.wikipedia.org/wiki/Espírito) estão mais ou menos atrasados, porém todos suscetíveis de progredir. Não é este princípio mais conforme a Justiça de [Deus][0]?
+3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?  
 
-Vimos de apreciar a [alma](https://pt.m.wikipedia.org/wiki/Alma) com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu futuro, esbarraremos nas mesmas dificuldades.
+4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?  
 
-1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?
+5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?  
 
-2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?
+6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?  
 
-3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?
+Qual a [filosofia](https://pt.m.wikipedia.org/wiki/Filosofia) ou a teosofia capaz de resolver estes problemas? É fora de [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) que, ou as almas são iguais ao nascerem, ou são desiguais. Se são iguais, por que, entre elas, tão grande diversidade de aptidões? Dir-se-á que isso depende do organismo. Mas, então, achamo-nos em presença da mais monstruosa e imoral das doutrinas. O homem seria simples máquina, joguete da matéria; deixaria de ter a responsabilidade de seus atos, pois que poderia atribuir tudo às suas imperfeições físicas. Se as almas são desiguais, é que [Deus][0] as criou assim. Nesse caso, porém, por que a inata superioridade concedida a algumas? Corresponderá essa parcialidade à Justiça de [Deus][0] e ao [amor](https://pt.m.wikipedia.org/wiki/amor) que Ele consagra igualmente a todas as suas criaturas?  
 
-4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?
+Admitamos, ao contrário, uma série de progressivas existências anteriores para cada [alma](https://pt.m.wikipedia.org/wiki/Alma) e tudo se explica. Ao nascerem, trazem os homens a intuição do que aprenderam antes. São mais ou menos adiantados, conforme o número de existências que contêm, conforme já estejam mais ou menos afastados do ponto de partida. Dá-se aí exatamente o que se observa numa reunião de indivíduos de todas as idades, onde cada um terá desenvolvimento proporcionado ao número de anos que tenha vivido. As existências sucessivas serão, para a vida da alma, o que os anos são para a do corpo. Reuni, em certo dia, um milheiro de indivíduos de um a oitenta anos; suponde que um véu encubra todos os dias precedentes ao em que os reunistes e que, em consequência, acreditais que todos nasceram na mesma ocasião. Perguntareis naturalmente como é que uns são grandes e outros pequenos; uns velhos e jovens outros; instruídos uns, outros ainda ignorantes. Se, porém, dissipando-se a nuvem que lhes oculta o passado, vierdes a saber que todos hão vivido mais ou menos tempo, tudo se vos tornará explicado. [Deus][0], em sua justiça, não pode ter criado almas mais ou menos perfeitas. Com a pluralidade das existências, a desigualdade que notamos nada mais apresenta em oposição à mais rigorosa equidade: é que apenas vemos o presente e não o passado. A este raciocínio serve de base algum sistema, alguma suposição gratuita? Não. Partimos de um fato patente, incontestável: a desigualdade das aptidões e do desenvolvimento intelectual e moral e verificamos que nenhuma das teorias correntes o explica, ao passo que uma outra teoria — - a da pluralidade das existências — lhe dá explicação simples, natural e lógica. Será racional preferir-se à teoria que explica tudo a uma das que nada explicam?  
 
-5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?
+À vista da sexta interrogação acima, dirão naturalmente que o hotentote é de raça inferior. Perguntaremos, então, se o hotentote é ou não um homem. Se é, por que a ele e à sua raça privou [Deus][0] dos privilégios concedidos à raça caucásica? Se não é, por que tentar fazê-lo cristão? A [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita tem mais amplitude do que tudo isto. Segundo ela, não há muitas espécies de homens, há tão somente homens cujos [espíritos](https://pt.m.wikipedia.org/wiki/Espírito) estão mais ou menos atrasados, porém todos suscetíveis de progredir. Não é este princípio mais conforme a Justiça de [Deus][0]?  
 
-Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de [Deus][0]. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma [religião](https://pt.m.wikipedia.org/wiki/Religião) que proclama ser [Deus][0] a bondade e a [razão](https://pt.m.wikipedia.org/wiki/Razão) por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da [ciência](https://pt.m.wikipedia.org/wiki/Ciência), se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma [religião](https://pt.m.wikipedia.org/wiki/Religião) fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a [religião](https://pt.m.wikipedia.org/wiki/Religião) e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da [Terra](https://pt.m.wikipedia.org/wiki/Terra) e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
+Vimos de apreciar a [alma](https://pt.m.wikipedia.org/wiki/Alma) com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu futuro, esbarraremos nas mesmas dificuldades.  
 
-> ✝️ ▸ E, descendo eles do monte, [Jesus][1] lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus][1], respondendo, disse-lhes: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.
+1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?   
+
+2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?  
+
+3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?  
+
+4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?  
+
+5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?  
+
+Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de [Deus][0]. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma [religião](https://pt.m.wikipedia.org/wiki/Religião) que proclama ser [Deus][0] a bondade e a [razão](https://pt.m.wikipedia.org/wiki/Razão) por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da [ciência](https://pt.m.wikipedia.org/wiki/Ciência), se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma [religião](https://pt.m.wikipedia.org/wiki/Religião) fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a [religião](https://pt.m.wikipedia.org/wiki/Religião) e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da [Terra](https://pt.m.wikipedia.org/wiki/Terra) e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:  
+
+> ✝️ ▸ E, descendo eles do monte, [Jesus][1] lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus][1], respondendo, disse-lhes: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
 >  
 > [Mateus][Mt], [cap. 17][Mt17], [vers. 09 a 13](https://www.bible.com/pt/bible/212/MAT.17.ARC), [ARC][ARC]
 {:.bible-multi}
 
-Pois que João Batista fora Elias, houve reencarnação do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) ou da [alma](https://pt.m.wikipedia.org/wiki/Alma) de Elias no corpo de João Batista.
+Pois que João Batista fora Elias, houve reencarnação do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) ou da [alma](https://pt.m.wikipedia.org/wiki/Alma) de Elias no corpo de João Batista.  
 
-Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de [Deus][0], no livre-arbítrio do homem, na moral do [Cristo][2]. Logo, não é antirreligioso.
+Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de [Deus][0], no livre-arbítrio do homem, na moral do [Cristo][2]. Logo, não é antirreligioso.  
 
-Temos raciocinado, abstraindo, como dissemos, de qualquer ensinamento espírita que, para certas pessoas, carece de autoridade. Não é somente porque veio dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que nós e tantos outros nos fizemos adeptos da pluralidade das existências. É porque essa [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) nos pareceu a mais lógica e porque só ela resolve questões até então insolúveis.
+Temos raciocinado, abstraindo, como dissemos, de qualquer ensinamento espírita que, para certas pessoas, carece de autoridade. Não é somente porque veio dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que nós e tantos outros nos fizemos adeptos da pluralidade das existências. É porque essa [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) nos pareceu a mais lógica e porque só ela resolve questões até então insolúveis.  
 
-Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente adotado e não houvéramos hesitado um segundo mais em renunciar às ideias que esposávamos. Sendo demonstrado o erro, muito mais que perder do que ganhar tem o amor-próprio, com o se obstinar na sustentação de uma ideia falsa. Assim, também, tê-la-íamos repelido, mesmo que provindo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), se nos parecera contrária à razão, como repelimos muitas outras, pois sabemos, por experiência, que não se deve aceitar cegamente tudo o que venha deles, da mesma forma que se não deve adotar às cegas tudo que proceda dos homens. O melhor título que, ao nosso ver, recomenda a ideia da reencarnação é o de ser, antes de tudo, lógica. Outro, no entanto, ela apresenta: o de a confirmarem os fatos, fatos positivos e, por [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) dizer, materiais, que um estudo atento e criterioso revela a quem se dê ao trabalho de observar com paciência e perseverança e diante dos quais não há mais lugar para a dúvida. Quando esses fatos se houverem vulgarizado, como os da formação e do movimento da Terra, forçoso será que todos se rendam à evidência e os que se lhes colocaram em oposição ver-se-ão constrangidos a desdizer-se.
+Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente adotado e não houvéramos hesitado um segundo mais em renunciar às ideias que esposávamos. Sendo demonstrado o erro, muito mais que perder do que ganhar tem o amor-próprio, com o se obstinar na sustentação de uma ideia falsa. Assim, também, tê-la-íamos repelido, mesmo que provindo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), se nos parecera contrária à razão, como repelimos muitas outras, pois sabemos, por experiência, que não se deve aceitar cegamente tudo o que venha deles, da mesma forma que se não deve adotar às cegas tudo que proceda dos homens. O melhor título que, ao nosso ver, recomenda a ideia da reencarnação é o de ser, antes de tudo, lógica. Outro, no entanto, ela apresenta: o de a confirmarem os fatos, fatos positivos e, por [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) dizer, materiais, que um estudo atento e criterioso revela a quem se dê ao trabalho de observar com paciência e perseverança e diante dos quais não há mais lugar para a dúvida. Quando esses fatos se houverem vulgarizado, como os da formação e do movimento da Terra, forçoso será que todos se rendam à evidência e os que se lhes colocaram em oposição ver-se-ão constrangidos a desdizer-se.  
 
-Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que [Deus][0], por misericórdia, lhe concedeu.
+Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que [Deus][0], por misericórdia, lhe concedeu.  
 
 As próprias palavras de [Jesus][1] não permitem [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) a tal respeito:
 
@@ -2527,45 +2533,45 @@ As próprias palavras de [Jesus][1] não permitem [dúvida](https://pt.m.wikiped
 >  
 > João, cap. 3, vers. 3-7, [ARC][ARC]
 {:.bible-multi}
- 
 
-👉 ([Q.1010](#q1010))
 
-### 2-06. 🗂️ {#lde-2-06}
+👉 (Veja [Q.1010](#q1010))
 
-#### Espíritos errantes
+### 2-06. 🗂️ Vida espírita ✅ {#lde-2-06}
 
-###### Q.223
+#### 📑 Espíritos errantes ✅ {#lde-2-06-01}
+
+###### Q.223 {#q223}
 
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) reencarna logo depois de se haver separado do corpo?
 
 > 👻 ▸ Algumas vezes reencarna imediatamente, porém, de ordinário, só o faz depois de intervalos mais ou menos longos. Nos mundos superiores, a reencarnação é quase sempre imediata. Sendo aí menos grosseira a matéria corporal, o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), quando encarnado nesses mundos, goza quase que de todas as suas faculdades de [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), sendo o seu estado normal o dos sonâmbulos lúcidos entre vós.
 
-###### Q.224
+###### Q.224 {#q224}
 
 Que é a [alma](https://pt.m.wikipedia.org/wiki/Alma) no intervalo das encarnações?
 
 > 👻 ▸ [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) errante, que aspira a novo destino, que espera.
 
-###### Q.224.a
+###### Q.224.a {#q224a}
 
 Quanto podem durar esses intervalos?
 
 > 👻 ▸ Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
 
-###### Q.224.b
+###### Q.224.b {#q224b}
 
 Essa duração depende da [vontade](https://pt.m.wikipedia.org/wiki/Vontade) do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), ou lhe pode ser imposta como expiação?
 
 > 👻 ▸ É uma consequência do livre-arbítrio. Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) sabem perfeitamente o que fazem. Mas, também, para alguns, constitui uma punição que [Deus][0] lhes inflige. Outros pedem que ela se prolongue, a fim de continuarem estudos que só na condição de [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) livre podem efetuar-se com proveito.
 
-###### Q.225
+###### Q.225 {#q225}
 
 A erraticidade é, por si só, um sinal de inferioridade dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos)?
 
 > 👻 ▸ Não, porquanto há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) errantes de todos os graus. A encarnação é um estado transitório, já o dissemos. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se acha no seu estado normal, quando liberto da matéria.
 
-###### Q.226
+###### Q.226 {#q226}
 
 Poder-se-á dizer que são errantes todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que não estão encarnados?
 
@@ -2573,99 +2579,99 @@ Poder-se-á dizer que são errantes todos os [Espíritos](https://pt.m.wikipedia
 
 No tocante às qualidades íntimas, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são de diferentes ordens, ou graus, pelos quais vão passando sucessivamente, à medida que se purificam. Com relação ao estado em que se acham, podem ser: **encarnados**, isto é, ligados a um corpo; **errantes**, isto é, sem corpo material e aguardando nova encarnação para se melhorarem; **Espíritos puros**, isto é, perfeitos, não precisando mais de encarnação.
 
-###### Q.227
+###### Q.227 {#q227}
 
 De que modo se instruem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) errantes? Certo não o fazem do mesmo modo que nós outros?
 
 > 👻 ▸ Estudam e procuram meios de elevar-se. Veem, observam o que ocorre nos lugares aonde vão; ouvem os discursos dos homens doutos e os conselhos dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) mais elevados e tudo isso lhes incute ideias que antes não tinham.
 
-###### Q.228
+###### Q.228 {#q228}
 
 Conservam os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) algumas de suas paixões humanas?
 
 > 👻 ▸ Com o invólucro [imaterial](https://pt.m.wiktionary.org/wiki/imaterial) os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) elevados deixam as paixões más e só guardam as do bem. Quanto aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) inferiores, esses as conservam, pois do contrário pertenceriam à primeira ordem.
 
-###### Q.229
+###### Q.229 {#q229}
 
 Por que, deixando a Terra, não deixam aí os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) todas as más paixões, uma vez que lhes reconhecem os inconvenientes?
 
 > 👻 ▸ Vês nesse mundo pessoas excessivamente invejosas. Imaginas que, mal o deixam, perdem esse defeito? Acompanha os que da [Terra](https://pt.m.wikipedia.org/wiki/Terra) partem, sobretudo os que alimentaram paixões [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) acentuadas, uma espécie de atmosfera que os envolve, conservando-lhes o que têm de mau, por não se achar o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) inteiramente desprendido da matéria. Só por momentos ele entrevê a [verdade](https://pt.m.wikipedia.org/wiki/Verdade), que assim lhe aparece como que para mostrar-lhe o bom caminho.
 
-###### Q.230
+###### Q.230 {#q230}
 
 Na erraticidade, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) progride?
 
 > 👻 ▸ Pode melhorar-se muito, tais sejam a [vontade](https://pt.m.wikipedia.org/wiki/Vontade) e o desejo que tenha de consegui-lo. Todavia, na existência corporal é que põe em prática as ideias que adquiriu.
 
-###### Q.231
+###### Q.231 {#q231}
 
 São felizes ou desgraçados os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) errantes?
 
 > 👻 ▸ Mais ou menos, conforme seus méritos. Sofrem por efeito das paixões cuja essência conservaram, ou são felizes, de conformidade com o grau de desmaterialização a que hajam chegado. Na erraticidade, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) percebe o que lhe falta para ser mais feliz e, desde então, procura os meios de alcançá-lo. Nem sempre, porém, lhe é permitido reencarnar como fora de seu agrado, representando isso, para ele, uma punição.
 
-###### Q.232
+###### Q.232 {#q232}
 
 Podem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) errantes ir a todos os mundos?
 
 > 👻 ▸ Conforme. Pelo simples fato de haver deixado o corpo, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não se acha completamente desprendido da matéria e continua a pertencer ao mundo onde acabou de viver, ou a outro do mesmo grau, a menos que, durante a vida, se tenha elevado, o que, aliás, constitui o objetivo para que devem tender seus esforços, pois, do contrário, nunca se aperfeiçoaria. Pode, no entanto, ir a alguns mundos superiores, mas na qualidade de estrangeiro. A [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) dizer, consegue apenas entrevê-los, donde lhe nasce o desejo de melhorar-se, para ser digno da felicidade de que gozam os que os habitam, para ser digno também de habitá-los mais tarde.
 
-###### Q.233
+###### Q.233 {#q233}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) já purificados descem aos mundos inferiores?
 
 > 👻 ▸ Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.
 
-#### Mundos transitórios
+#### 📑 Mundos transitórios ✅ {#lde-2-06-02}
 
-###### Q.234
+###### Q.234 {#q234}
 
 Há, de fato, como já foi dito, mundos que servem de estações ou pontos de repouso aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) errantes?
 
 > 👻 ▸ Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa erraticidade, estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
 
-###### Q.234.a
+###### Q.234.a {#q234a}
 
 Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que habitam esses mundos podem deixá-los livremente?
 
 > 👻 ▸ Sim, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se encontram nesses mundos podem deixá-los, a fim de irem aonde devam ir. Figurai-os como bandos de aves que pousam numa ilha, para aí aguardarem que se lhes refaçam as forças, a fim de seguirem seu destino.
 
-###### Q.235
+###### Q.235 {#q235}
 
 Enquanto permanecem nos mundos transitórios, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) progridem?
 
 > 👻 ▸ Certamente. Os que vão a tais mundos levam o objetivo de se instruírem e de poderem mais facilmente obter permissão para passar a outros lugares melhores e chegar à perfeição que os eleitos atingem.
 
-###### Q.236
+###### Q.236 {#q236}
 
 Pela sua natureza especial, os mundos transitórios se conservam perpetuamente destinados aos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) errantes?
 
 > 👻 ▸ Não, a condição deles é meramente temporária.
 
-###### Q.236.a
+###### Q.236.a {#q236a}
 
 Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 
 > 👻 ▸ Não; estéril é neles a superfície. Os que os habitam de nada precisam.
 
-###### Q.236.b
+###### Q.236.b {#q236b}
 
 É permanente essa esterilidade e decorre da natureza especial que apresentam?
 
 > 👻 ▸ Não; são estéreis transitoriamente.
 
-###### Q.236.c
+###### Q.236.c {#q236c}
 
 Os mundos dessa categoria carecem então de belezas naturais?
 
 > 👻 ▸ A Natureza reflete as belezas da imensidade, que não são menos admiráveis do que aquilo a que dais o nome de belezas naturais.
 
-###### Q.236.d
+###### Q.236.d {#q236d}
 
 Sendo transitório o estado de semelhantes mundos, a [Terra](https://pt.m.wikipedia.org/wiki/Terra) pertencerá algum dia ao número deles?
 
 > 👻 ▸ Já pertenceu.
 
-###### Q.236.e
+###### Q.236.e {#q236e}
 
 Em que época?
 
@@ -2673,7 +2679,7 @@ Em que época?
 
 Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis [Deus][0] que, mesmo assim, ainda imperfeita, a [Terra](https://pt.m.wikipedia.org/wiki/Terra) servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia [Deus][0] feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema.
 
-#### Percepções, sensações e sofrimentos dos Espíritos
+#### 📑 Percepções, sensações e sofrimentos dos Espíritos ✅ {#lde-2-06-03}
 
 ###### Q.237
 
@@ -2763,7 +2769,7 @@ Para verem o que se passa em dois pontos diferentes, precisam transportar-se a e
 
 No [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz. 
 
-👉 ([Q.92](#q92))
+👉 (Veja [Q.92](#q92))
 
 ###### Q.248
 
@@ -2825,7 +2831,7 @@ Como é então que alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito
 
 > 👻 ▸ É reminiscência do que padecem durante a vida, reminiscência não raro tão aflitiva quanto a realidade. Muitas vezes, no que eles assim dizem apenas há uma comparação mediante a qual, em falta de coisa melhor, procuram exprimir a situação em que se acham. Quando se lembram do corpo que revestiram, têm impressão semelhante à de uma pessoa que, havendo tirado o manto que a envolvia, julga, passado algum tempo, que ainda o traz sobre os ombros.
 
-#### Ensaio teórico da sensação nos Espíritos
+#### 📑 Ensaio teórico da sensação nos Espíritos ✅ {#lde-2-06-04}
 
 ###### Q.257
 
@@ -2859,7 +2865,7 @@ Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes,
 
 Interrogamos, aos milhares, [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que na [Terra](https://pt.m.wikipedia.org/wiki/Terra) pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste.
 
-#### Escolha das provas
+#### 📑 Escolha das provas ✅ {#lde-2-06-05}
 
 ###### Q.258
 
@@ -2995,7 +3001,7 @@ Será possível que um homem de raça civilizada reencarne, por expiação, numa
 
 > 👻 ▸ É; mas depende do gênero da expiação. Um senhor, que tenha sido de grande crueldade para os seus escravos, poderá, por sua vez, tornar-se escravo e sofrer os maus-tratos que infligiu a seus semelhantes. Um, que em certa época exerceu o mando, pode, em nova existência, ter que obedecer aos que se curvavam ante a sua vontade. Ser-lhe-á isso uma expiação, que [Deus][0] lhe imponha, se ele abusou do seu poder. Também um bom [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode querer encarnar no seio daquelas raças, ocupando posição influente, para fazê-las progredir. Em tal caso, desempenha uma missão.
 
-#### As relações no além-túmulo
+#### 📑 As relações no além-túmulo ✅ {#lde-2-06-06}
 
 ###### Q.274
 
@@ -3121,7 +3127,7 @@ Os parentes e amigos sempre se reúnem depois da morte?
 
 > 👻 ▸ Depende isso da elevação deles e do caminho que seguem, procurando progredir. Se um está mais adiantado e caminha mais depressa do que outro, não podem os dois conservar-se juntos. Ver-se-ão de tempos a tempos, mas não estarão reunidos para sempre, senão quando puderem caminhar lado a lado, ou quando se houverem igualado na perfeição. Acresce que a privação de ver os parentes e amigos é, às vezes, uma punição.
 
-#### Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
+#### 📑 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas ✅ {#lde-2-07}
 
 ###### Q.291
 
@@ -3211,7 +3217,7 @@ Podem deixar de ser simpáticos um ao outro dois [Espíritos](https://pt.m.wikip
 
 A teoria das metades eternas encerra uma simples figura, representativa da união de dois [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo.
 
-#### Recordação da existência corpórea
+#### 📑 Recordação da existência corpórea ✅ {#lde-2-06-08}
 
 ###### Q.304
 
@@ -3333,9 +3339,9 @@ Já tendo o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) vivido a vida
 
 > 👻 ▸ Isso só se dá no primeiro momento e é efeito da perturbação que se segue ao despertar do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Mais tarde, ele se vai inteirando da sua condição, à medida que lhe volta a lembrança do passado e que a impressão da vida terrena se lhe apaga. 
 
-👉 ([Q.163](#q163) e seguintes.)
+👉 (Veja [Q.163](#q163) e seguintes.)
 
-#### Comemoração dos mortos. Funerais
+#### 📑 Comemoração dos mortos. Funerais ✅ {#lde-2-06-09}
 
 ###### Q.320
 
