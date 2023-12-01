@@ -69,13 +69,13 @@ a:any-link {
 
 #col2-body a:any-link {
     text-decoration: none;
-    color: #3366cc;
+    color: #2e5cb8;
 }
 
 #col2-body a:hover {
     text-decoration: underline;
     text-underline-offset: 2px;
-    text-decoration-color: #3366cc99;
+    text-decoration-color: #2e5cb899;
 }
 
 p.cursive {
