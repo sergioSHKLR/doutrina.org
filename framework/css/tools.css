@@ -89,7 +89,7 @@ button.tools {
     float: right;
     position: relative;
     display: inline-block;
-    left: 42px;
+    left: 55px;
 }
 
 .dropdown-content {
@@ -97,7 +97,7 @@ button.tools {
     position: absolute;
     z-index: 2;
     overflow: auto;
-    left: 7px;
+    left: 17px;
     top: 60px;
     border: 1px solid #59595980;
     border-radius: 20px;
