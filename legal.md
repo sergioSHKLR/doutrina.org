@@ -3,7 +3,7 @@ title: ⚖️ Avisos legais
 layout: 0-generic
 ---
 
-# ⚖️ Avisos legais
+# 🛡️ Avisos legais
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
