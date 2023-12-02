@@ -246,3 +246,18 @@ p.banner {
     text-align: center;
     border-left: 4px solid gold;
 }
+
+details,
+summary {
+    list-style-type: none;
+}
+
+details summary::before {
+    content: "＋ ";
+    font-weight: 700;
+}
+
+details[open] summary::before {
+    content: "－ ";
+    font-weight: 700;
+}
