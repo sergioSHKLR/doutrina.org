@@ -390,3 +390,5 @@ p.author {
 .dark-mode blockquote.image {
     background-color: #333;
 }
+
+.backlink a {font-size: 80% !important; transform: scale(.8);}

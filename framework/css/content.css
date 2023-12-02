@@ -175,3 +175,5 @@ strong {
 blockquote em {
     color: crimson
 }
+
+a.backlink {font-size: 80% !important; transform: scale(.8);}
