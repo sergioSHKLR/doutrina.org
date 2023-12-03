@@ -27,9 +27,9 @@
  content="Uma plataforma inédita de estudos integrados; permitindo anotações, a consulta de referências externas, sem a necessidade de sair da janela original.">
  <meta property="twitter:image" content="./framework/pwa/twitter.png">
 
- <!-- GOOGLE PRECONNECT 
+ <!-- GOOGLE PRECONNECT -->
  <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
  <!-- GOOGLE FONTS -->
  <link rel="stylesheet"
@@ -48,7 +48,6 @@
  <link rel="stylesheet" href="../framework/css/media-queries.css">
  <link rel="stylesheet" href="../framework/css/tools.css">
  <link rel="stylesheet" href="../framework/css/scrollbar.css">
-
 
  <!-- PWA -->
  <link rel="manifest" href="../framework/pwa/site.webmanifest">
@@ -85,7 +84,7 @@
  <div id="col1-body">
 
 <!-- COL1 TOC -->
- <p class="fs-2 fw-strong border-short">Sumário</p>
+ <p class="sidebar-heading">Sumário</p>
 
  <details class="ff-mono fs-4">
  <summary class="ff-mono">0. 🗃️ Pré-textual</summary>
@@ -143,39 +142,46 @@
  <br>
 
  <!-- COL1 LINKS -->
- <p class="sidebar-heading">Obras básicas</p>
+<details>
+ <summary class="sidebar-heading">Obras básicas</summary>
  <p><a href="./1lde.html" title="O Livro dos Espíritos">👻 O Livro dos Espíritos</a></p>
  <p><a href="./2ldm.html" title="O Livro dos Médiuns">✒️ O Livro dos Médiuns</a></p>
  <p><a href="./3ese.html" title="O Evangelho segundo o Espiritismo">🕊️ O Evangelho</a></p>
  <p><a href="./4ceu.html" title="O Céu e o Inferno">🔥 Céu e Inferno</a></p>
- <p><a href="./5gen.html" title="A Gênese">🌱 A Gênese</a></p>
-
+ <p><a href="./5gen.html" title="A Gênese">🌱 A Gênese</a></p></details><br>
+ 
  <!-- COL1 DETAILS -->
- <p class="sidebar-heading">Projeto</p>
+ <details>
+ <summary class="sidebar-heading">Projeto</summary>
  <p><a href="./home.html" title="início">🏠 Início</a></p>
  <p><a href="./info.html" title="informações">📋 Informações</a></p>
  <p><a href="./legal.html" title="Legal">⚖️ Avisos legais</a></p>
- <p><a href="./comments.html" title="Comentários">💌 Comentários</a></p>
-
+ <p><a href="./comments.html" title="Comentários">💌 Comentários</a></p></details><br>
+ 
  <!-- COL1 REPO -->
- <p class="sidebar-heading">Código fonte</p>
+ <details>
+ <summary class="sidebar-heading">Código fonte</summary>
  <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório">📦 Repositório</a>
  </p>
  <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros">🐛 Falhas de
- Código</a></p>
-
+ Código</a></p></details><br>
+ 
  <!-- STATS -->
- <p class="sidebar-heading">Detalhes</p>
+ <details>
+ <summary class="sidebar-heading">Detalhes</summary>
  <p>#️⃣ Versão <kbd>11.23a</kbd></p>
  <p>🗓️ Atualizado {{ "today" | date: "%b-%y" }}</p>
-
+ <p>🛡️ <a href="./legal.html">CC BY-NC-SA 4.0</a></p></details><br>
+ 
  <!-- COL1 LANG -->
- <p class="sidebar-heading">Idiomas</p>
- <p><a target="_self" href="https://en.doutrina.org/" title="Inglês Americano">🇺🇸 American English</a></p>
-
+ <details>
+ <summary class="sidebar-heading">Idiomas</summary>
+ <p><a target="_self" href="https://en.doutrina.org/" title="Inglês Americano">🇺🇸 American English</a></p></details><br>
+ 
  <!-- COL1 PART OF -->
- <p class="sidebar-heading">Parte de</p>
- <p><a target="_blank" href="https://pt.shklr.org" title="matriz">⭕ shklr.org</a></p>
+ <details>
+ <summary class="sidebar-heading">Parte de</summary>
+ <p><a target="_blank" href="https://pt.shklr.org" title="matriz">⭕ shklr.org</a></p></details>
  <br>
 
  <p>&nbsp;</p>
@@ -210,35 +216,35 @@
  <!-- COL2 BODY -->
  <div id="col2-body">
 
-    <div class="dropdown">
-        <button onclick="menuDropdown()" class="dropbtn">Aa</button>
-        <div id="myDropdown" class="dropdown-content" style="color: currentColor">
-        <button class="tools" id="ti-btn" onclick="function1()" title="aumentar letra"><span
-        class="icon">text_increase</span></button>
-        <button class="tools" id="td-btn" onclick="function2()" title="diminuir letra"><span
-        class="icon">text_decrease</span></button>
-        <button class="tools" id="aj-btn" onclick="function4()" title="texto justificado"><span
-        class="icon">format_align_justify</span></button>
-        <button class="tools" id="f1-btn" onclick="function5()" title="tipo sans"><span
-        class="icon">edit</span></button>
-        <button class="tools" id="f2-btn" onclick="function6()" title="tipo serif"><span
-        class="icon">ink_pen</span></button>
-        <button class="tools" id="f3-btn" onclick="function7()" title="tipo mono"><span
-        class="icon">ink_marker</span></button>
-        <button class="tools" id="ds-btn" onclick="function9()" title="entrelinhas menor"><span
-        class="icon">density_small</span></button>
-        <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span
-        class="icon">density_large</span></button>
-        <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span
-        class="icon">🟡</span></button>
-        <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span
-        class="icon">🟢</span></button>
-        <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span
-        class="icon">🟣</span></button>
-        <button class="tools" id="ra-btn" onclick="functionResetAll()" title="reverter tudo"><span
-           class="icon">restart_alt</span></button>  
-        </div>
-        </div>
+ <div class="dropdown">
+ <button onclick="menuDropdown()" class="dropbtn">Aa</button>
+ <div id="myDropdown" class="dropdown-content" style="color: currentColor">
+ <button class="tools" id="ti-btn" onclick="function1()" title="aumentar letra"><span
+ class="icon">text_increase</span></button>
+ <button class="tools" id="td-btn" onclick="function2()" title="diminuir letra"><span
+ class="icon">text_decrease</span></button>
+ <button class="tools" id="aj-btn" onclick="function4()" title="texto justificado"><span
+ class="icon">format_align_justify</span></button>
+ <button class="tools" id="f1-btn" onclick="function5()" title="tipo sans"><span
+ class="icon">edit</span></button>
+ <button class="tools" id="f2-btn" onclick="function6()" title="tipo serif"><span
+ class="icon">ink_pen</span></button>
+ <button class="tools" id="f3-btn" onclick="function7()" title="tipo mono"><span
+ class="icon">ink_marker</span></button>
+ <button class="tools" id="ds-btn" onclick="function9()" title="entrelinhas menor"><span
+ class="icon">density_small</span></button>
+ <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span
+ class="icon">density_large</span></button>
+ <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span
+ class="icon">🟡</span></button>
+ <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span
+ class="icon">🟢</span></button>
+ <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span
+ class="icon">🟣</span></button>
+ <button class="tools" id="ra-btn" onclick="functionResetAll()" title="reverter tudo"><span
+ class="icon">restart_alt</span></button> 
+ </div>
+ </div>
 
  {{ content }}
 
