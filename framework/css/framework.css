@@ -1,5 +1,7 @@
 /*---------- FRAMEWORK ----------*/
-html, iframe, img {
+html,
+iframe,
+img {
     overflow: clip !important
 }
 
@@ -216,6 +218,7 @@ a:any-link {
     font-family: 'Material Symbols Outlined';
     padding: 0 2px;
 }
+
 /*
 .icon:hover {
     outline: 3px solid orange;
@@ -269,6 +272,12 @@ details[open] summary::before {
     transition-duration: .15s;
 }
 
-summary.ff-mono {width: 90%}
+summary.ff-mono {
+    width: 90%
+}
 
-details.links {background-color: whitesmoke !important;}
+details.links {
+    background-color: whitesmoke !important;
+    margin: 10px;
+    padding: 10px 20px;
+}
