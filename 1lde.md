@@ -8540,7 +8540,7 @@ Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o e
 > 👻 ▸ Quanto maior é o mal, mais hediondo se torna. Era preciso que o egoísmo produzisse muito mal, para que compreensível se fizesse a necessidade de extirpá-lo. Os homens, quando se houverem despojado do egoísmo que os domina, viverão como irmãos, sem se fazerem mal algum, auxiliando-se reciprocamente, impelidos pelo sentimento mútuo da solidariedade. Então, o forte será o amparo e não o opressor do fraco e não mais serão vistos homens a quem falte o indispensável, porque todos praticarão a lei de justiça. Esse o reinado do bem, que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) estão incumbidos de preparar. 
 
 <details class="links"><summary>🔗</summary>
-👉 Veja [Q.784](#q784)
+👉 Veja <a href="#q784">Q.784</a>
 </details>
 
 ###### Q.917 {#q917}
@@ -8653,7 +8653,9 @@ O que para um é supérfluo não representará, para outro, o necessário, e rec
 
 > 👻 ▸ Sim, conforme as vossas ideias materiais, os vossos preconceitos, a vossa ambição e as vossas ridículas extravagâncias, a que o futuro fará justiça, quando compreenderdes a [verdade](https://pt.m.wikipedia.org/wiki/Verdade). Não há [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) de que aquele que tinha cinquenta mil libras de renda, vendo-se reduzido a só ter dez mil, se considera muito desgraçado, por não mais poder fazer a mesma figura, conservar o que chama a sua posição, ter cavalos, lacaios, satisfazer a todas as paixões etc. Acredita que lhe falta o necessário, mas, francamente, achas que seja digno de lástima, quando ao seu lado muitos há, morrendo de fome e frio, sem um abrigo onde repousem a cabeça? O homem criterioso, a fim de ser feliz, olha sempre para baixo e não para cima, a não ser para elevar sua [alma](https://pt.m.wikipedia.org/wiki/Alma) ao infinito. 
 
-👉 Veja [Q.715](#q715)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q715">Q.715</a>
+</details>
 
 ###### Q.924 {#q924}
 
@@ -8667,7 +8669,9 @@ Por que favorece [Deus][0], com os dons da riqueza, a certos homens que não par
 
 > 👻 ▸ Isso significa um favor aos olhos dos que apenas veem o presente, mas, fica sabendo, a riqueza é, de ordinário, prova mais perigosa do que a miséria. 
 
-👉 Veja [Q.814](#q814) e seguintes.
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q814">Q.814</a> e seguintes.
+</details>
 
 ###### Q.926 {#q926}
 
@@ -8711,7 +8715,9 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 
 Com uma organização social criteriosa e previdente, ao homem só por culpa sua pode faltar o necessário, porém suas próprias faltas são frequentemente resultado do meio onde se acha colocado. Quando praticar a Lei de [Deus][0], terá uma ordem social fundada na justiça e na solidariedade e ele próprio também será melhor. 
 
-👉 Veja [Q.793](#q793)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q793">Q.793</a>
+</details>
 
 ###### Q.931 {#q931}
 
@@ -8958,8 +8964,10 @@ Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de
 
 > 👻 ▸ Muito diverso do que esperam é o resultado que colhem. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por longo tempo, pois não é possível que [Deus][0] recompense um ato de covardia e o insulto que lhe fazem com o duvidarem da sua providência. Pagarão esse instante de [loucura](https://pt.m.wikipedia.org/wiki/Loucura) com aflições maiores do que as que pensaram abreviar e não terão, para compensá-las, a satisfação que esperavam.  
 
+<details class="links"><summary>🔗</summary>
 👉 Veja [Q.934](#q934) e seguintes.  
-↩️ Voltar para <a href="#q934">Q.934</a>  
+↩️ Voltar para <a href="#q934">Q.934</a> 
+</details> 
 
 ###### Q.957 {#q957}
 
@@ -9061,7 +9069,9 @@ Têm alguma coisa de material as penas e gozos da [alma](https://pt.m.wikipedia.
 
 > 👻 ▸ Não podem ser materiais, di-lo o bom senso, pois que a [alma](https://pt.m.wikipedia.org/wiki/Alma) não é matéria. Nada têm de carnal essas penas e esses gozos; entretanto, são mil vezes mais vivos do que os que experimentais na Terra, porque o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), uma vez liberto, é mais impressionável. Então, já a matéria não lhe embota as sensações. 
 
-👉 Veja [Q.237](#q237) a [Q.257](#q257)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q237">Q.237</a> a <a href="#q257">Q.257</a>
+</details>
 
 ###### Q.966 {#q966}
 
@@ -9107,7 +9117,9 @@ Assim, a [morte](https://pt.m.wikipedia.org/wiki/Morte) não nos livra da tenta�
 
 > 👻 ▸ Não, mas a ação dos maus [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é sempre menor sobre os outros [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) do que sobre os homens, porque lhes falta o auxílio das paixões materiais. 
 
-👉 Veja [Q.996](#q996)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q996">Q.996</a>
+</details>
 
 ###### Q.972 {#q972}
 
@@ -9247,7 +9259,9 @@ As vicissitudes da vida são sempre a punição das faltas atuais?
 
 > 👻 ▸ Não; já dissemos: são provas impostas por [Deus][0], ou que vós mesmos escolhestes como [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), antes de encarnardes, para expiação das faltas cometidas em outra existência, porque jamais fica impune a infração das Leis de [Deus][0] e, sobretudo, da lei de justiça. Se não for punida nesta existência, sê-lo-á necessariamente noutra. Eis por que um, que vos parece justo, muitas vezes sofre. É a punição do seu passado. 
 
-👉 Veja [Q.393](#q393)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q393">Q.393</a>
+</details>
 
 ###### Q.985 {#q985}
 
@@ -9265,7 +9279,9 @@ Pode o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), que progrediu em
 
 > 👻 ▸ Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação. 
 
-👉 Veja [Q.173](#q173)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q173">Q.173</a>
+</details>
 
 ###### Q.987 {#q987}
 
@@ -9301,7 +9317,9 @@ Qual a consequência do arrependimento no estado espiritual?
 
 > 👻 ▸ Desejar o arrependido uma nova encarnação para se purificar. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) compreende as imperfeições que o privam de ser feliz e por isso aspira a uma nova existência em que possa expiar suas faltas. 
 
-👉 Veja [Q.332](#q332) a [Q.975](#q975)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q332">Q.332</a> a <a href="#q975">Q.975</a>
+</details>
 
 ###### Q.992 {#q992}
 
@@ -9315,7 +9333,9 @@ Não há homens que só têm o instinto do mal e são inacessíveis ao arrependi
 
 > 👻 ▸ Já te disse que todo [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) tem que progredir incessantemente. Aquele que, nesta vida, só tem o instinto do mal, terá noutra o do [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) **e é para isso que renasce muitas vezes**, pois preciso é que todos progridam e atinjam a meta. A diferença está somente em que uns gastam mais tempo do que outros, porque assim o querem. Aquele, que só tem o instinto do bem, já se purificou, visto que talvez tenha tido o do mal em anterior existência. 
 
-👉 Veja [Q.804](#q804)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q804">Q.804</a>
+</details>
 
 ###### Q.994 {#q994}
 
@@ -9341,8 +9361,10 @@ Pois que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) veem o mal q
 
 > 👻 ▸ Assim procedem os de tardio arrependimento. Pode também acontecer que, depois de se haver arrependido, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se deixe arrastar de novo para o caminho do mal, por outros [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) ainda mais atrasados. 
 
-👉 Veja [Q.971](#q971)  
-↩️ Voltar para <a href="#q971a">Q.971a</a>  
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q971">Q.971</a><br> 
+↩️ Voltar para <a href="#q971a">Q.971a</a>
+</details>
 
 ###### Q.997 {#q997}
 
@@ -9386,7 +9408,9 @@ Já desde esta vida poderemos ir resgatando as nossas faltas?
 >
 > De que lhe serve, finalmente, humilhar-se diante de [Deus][0] se, perante os homens, conserva o seu orgulho? 
 
-👉 Veja [Q.720](#q720) e [Q.721](#q721)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q720">Q.720</a> e <a href="#q721">Q.721</a>
+</details>
 
 ###### Q.1001 {#q1001}
 
@@ -9394,7 +9418,9 @@ Nenhum mérito haverá em assegurarmos, para depois de nossa morte, emprego úti
 
 > 👻 ▸ Nenhum mérito não é o termo. Isso sempre é melhor do que nada. A desgraça, porém, é que aquele, que só depois de morto dá, é quase sempre mais egoísta do que generoso. Quer ter o fruto do bem, sem o trabalho de praticá-lo. Duplo proveito tira aquele que, em vida, se priva de alguma coisa: o mérito do sacrifício e o prazer de ver felizes os que lhe devem a felicidade. Lá, porém, está o egoísmo a dizer-lhe: O que dás tiras aos teus gozos; e, como o egoísmo fala mais alto do que o desinteresse e a caridade, o homem guarda o que possui, pretextando suas necessidades pessoais e as exigências da sua posição! Ah! lastimai aquele que desconhece o prazer de dar; acha-se verdadeiramente privado de um dos mais puros e suaves gozos. Submetendo-o à prova da riqueza, tão escorregadia e perigosa para o seu futuro, houve [Deus][0] por [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) conceder-lhe, como compensação, a ventura da generosidade, de que já neste mundo pode gozar. 
 
-👉 Veja [Q.814](#q814)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q814">Q.814</a>
+</details>
 
 ###### Q.1002 {#q1002}
 
@@ -9425,7 +9451,9 @@ Ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) sofredor, o tempo se a
 
 > 👻 ▸ Parece-lhe mais longo: para ele não existe o sono. Só para os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que já chegaram a certo grau de purificação, o tempo, por assim dizer, se apaga diante do infinito. 
 
-👉 Veja [Q.240](#q240)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q240">Q.240</a>
+</details>
 
 ###### Q.1006 {#q1006}
 
@@ -9563,7 +9591,9 @@ Que se deve entender por uma [alma](https://pt.m.wikipedia.org/wiki/Alma) a pena
 
 > 👻 ▸ Uma [alma](https://pt.m.wikipedia.org/wiki/Alma) errante e sofredora, incerta de seu futuro e à qual podeis proporcionar o alívio, que muitas vezes solicita, vindo comunicar-se convosco. 
 
-👉 Veja [Q.664](#q664)
+<details class="links"><summary>🔗</summary>
+👉 Veja <a href="#q664">Q.664</a>
+</details>
 
 ###### Q.1016 {#q1016}
 
