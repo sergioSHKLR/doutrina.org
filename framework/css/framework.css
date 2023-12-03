@@ -269,6 +269,6 @@ details[open] summary::before {
     transition-duration: .15s;
 }
 
-
 summary.ff-mono {width: 90%}
 
+details.links {background-color: whitesmoke !important;}
