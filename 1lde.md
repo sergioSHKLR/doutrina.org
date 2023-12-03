@@ -1462,6 +1462,7 @@ Não podia [Deus][0] isentar os [Espíritos](https://pt.m.wikipedia.org/wiki/Esp
 Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo.  
 
 [Voltar para Q.634 ↩️](#q634){:.backlink}  
+[Voltar para Q.871 ↩️](#q871){:.backlink}  
 
 ###### Q.120 {#q120}
 
@@ -2007,7 +2008,9 @@ As nossas diversas existências corporais se verificam todas na Terra?
 
 A cada nova existência corporal a [alma](https://pt.m.wikipedia.org/wiki/Alma) passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 
-> 👻 ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.
+> 👻 ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.  
+
+[Voltar para Q.986 ↩️](#q986){:.backlink}  
 
 ###### Q.173.a {#q173a}
 
@@ -2099,7 +2102,8 @@ Passando deste planeta para outro, conserva o [Espírito](https://pt.m.wikipedia
 
 > 👻 ▸ Sem dúvida; a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 
 
-👉 Veja Parte 2, Cap. 7 ([LDE-2-07-04](#LDE-2-07-04))
+👉 Veja [Influência do corpo](#lde-2-07-04)
+[Voltar para Q.805 ↩️](#q805){:.backlink}  
 
 ###### Q.181 {#q181}
 
@@ -2566,7 +2570,7 @@ Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente ado
 
 Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que [Deus][0], por misericórdia, lhe concedeu.  
 
-As próprias palavras de [Jesus][1] não permitem [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) a tal respeito<span id="222a">:</span>
+As próprias palavras de [Jesus][1] não permitem [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) a tal respeito:
 
 > ✝️ ▸ Respondendo a Nicodemos, disse [Jesus][1]: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade), em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de [Deus][0].*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu [Jesus][1]: *Em [verdade](https://pt.m.wikipedia.org/wiki/Verdade), em [verdade](https://pt.m.wikipedia.org/wiki/Verdade) te digo que, se um homem não renascer da água e do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), não poderá entrar no Reino de [Deus][0]. O que é nascido da carne é carne e o que é nascido do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
 >  
@@ -2914,7 +2918,7 @@ Interrogamos, aos milhares, [Espíritos](https://pt.m.wikipedia.org/wiki/Espíri
 
 #### 📄 Escolha das provas {#lde-2-06-05}
 
-###### Q.258 {#q2458}
+###### Q.258 {#q258}
 
 Quando na erraticidade, antes de começar nova existência corporal, tem o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) [consciência](https://pt.m.wikipedia.org/wiki/Consciência) e previsão do que lhe sucederá no curso da vida terrena?
 
@@ -3757,6 +3761,8 @@ Por que alguns homens muito inteligentes, o que indica acharem-se encarnados nel
 > 👻 ▸ É que não são ainda bastante puros os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) encarnados nesses homens, que, então, e por isso, cedem à influência de outros [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) mais imperfeitos. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) progride em insensível marcha ascendente, mas o progresso não se efetua simultaneamente em todos os sentidos. Durante um período da sua existência, ele se adianta em ciência; durante outro, em moralidade.  
 
 [Voltar para Q.780 ↩️](#q780){:.backlink}  
+[Voltar para Q.780.b ↩️](#q780b){:.backlink}  
+
 
 ###### Q.366 {#q366}
 
@@ -3816,7 +3822,9 @@ Encarnando, traz o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) certas
 
 Tem algum fundamento o pretender-se que a [alma](https://pt.m.wikipedia.org/wiki/Alma) dos cretinos e dos idiotas é de natureza inferior?
 
-> 👻 ▸ Nenhum. Eles trazem almas humanas, não raro mais inteligentes do que supondes, mas que sofrem da insuficiência dos meios de que dispõem para se comunicar, da mesma forma que o mudo sofre da impossibilidade de falar.
+> 👻 ▸ Nenhum. Eles trazem almas humanas, não raro mais inteligentes do que supondes, mas que sofrem da insuficiência dos meios de que dispõem para se comunicar, da mesma forma que o mudo sofre da impossibilidade de falar.  
+
+[Voltar para Q.847 ↩️](#q847){:.backlink}  
 
 ###### Q.372 {#q372}
 
@@ -4006,7 +4014,7 @@ Como pode o homem ser responsável por atos e resgatar faltas de que se não lem
 Não temos, é certo, durante a vida corpórea, lembrança exata do que fomos e do que fizemos em anteriores existências; mas temos de tudo isso a intuição, sendo as nossas tendências instintivas uma reminiscência do passado. E a nossa consciência, que é o desejo que experimentamos de não reincidir nas faltas já cometidas, nos concita à resistência àqueles pendores.  
 
 [Voltar para Q.959 ↩️](#q959){:.backlink}  
-[Voltar para Q.983 ↩️](#q983){:.backlink}  
+[Voltar para Q.984 ↩️](#q984){:.backlink}  
 
 ###### Q.394 {#q394}
 
@@ -5762,6 +5770,8 @@ Nos mundos superiores, os animais conhecem a [Deus][0]?
 
 > 👻 ▸ Não. Para eles o homem é um deus, como outrora os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) eram deuses para o homem.
 
+[Voltar para Q.668 ↩️](#q668){:.backlink}  
+
 ###### Q.604 {#q604}
 
 Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, são sempre inferiores ao homem, segue-se que [Deus][0] criou seres intelectuais perpetuamente destinados à inferioridade, o que parece em desacordo com a unidade de vistas e de progresso que todas as suas obras revelam.
@@ -6433,7 +6443,7 @@ Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores e
 
 > 👻 ▸ Isso é uma das piores ações. Todo aquele que tem o poder de mandar é responsável pelo excesso de trabalho que imponha a seus inferiores, porquanto, assim fazendo, transgride a Lei de [Deus][0]. 
 
-👉 Veja [Q.273](#q273){:.backlink}  
+👉 Veja [Q.273](#q273)  
 [Voltar para Q.807 ↩️](#q807){:.backlink}  
 
 ###### Q.685 {#q685}
@@ -6442,7 +6452,7 @@ Tem o homem o direito de repousar na velhice?
 
 > 👻 ▸ Sim, que a nada é obrigado, senão de acordo com as suas forças.  
 
-[Voltar para Q.813 ↩️](#q813){:.backlink}  
+[Voltar para Q.813 ↩️](#q813)  
 
 ###### Q.685.a {#q685a}
 
@@ -6735,15 +6745,14 @@ São meritórias aos olhos de [Deus][0] as privações voluntárias, com o objet
 
 > 👻 ▸ Fazei o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) aos vossos semelhantes e mais mérito tereis. 
 
+[Voltar para Q.724 ↩️](#q724){:.backlink} 
 [Voltar para Q.1000 ↩️](#q1000){:.backlink}  
 
 ###### Q.720.a {#q720a}
 
 Haverá privações voluntárias que sejam meritórias?
 
-> 👻 ▸ Há: a privação dos gozos inúteis, porque desprende da matéria o homem e lhe eleva a alma. Meritório é resistir à tentação que arrasta ao excesso ou ao gozo das coisas inúteis; é o homem tirar do que lhe é necessário para dar aos que carecem do bastante. Se a privação não passar de simulacro, será uma irrisão.  
-
-[Voltar para Q.724 ↩️](#q724){:.backlink}  
+> 👻 ▸ Há: a privação dos gozos inúteis, porque desprende da matéria o homem e lhe eleva a alma. Meritório é resistir à tentação que arrasta ao excesso ou ao gozo das coisas inúteis; é o homem tirar do que lhe é necessário para dar aos que carecem do bastante. Se a privação não passar de simulacro, será uma irrisão.   
 
 ###### Q.721 {#q721}
 
@@ -6868,7 +6877,6 @@ Com que fim fere [Deus][0] a [Humanidade](https://pt.m.wikipedia.org/wiki/Nature
 > 👻 ▸ Para fazê-la progredir mais depressa. Já não dissemos ser a destruição uma necessidade para a regeneração moral dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), que, em cada nova existência, sobem um degrau na escala do aperfeiçoamento? Preciso é que se veja o objetivo, para que os resultados possam ser apreciados. Somente do vosso ponto de vista pessoal os apreciais; daí vem que os qualificais de flagelos, por efeito do prejuízo que vos causam. Essas subversões, porém, são frequentemente necessárias para que mais pronto se dê o advento de uma melhor ordem de coisas e para que se realize em alguns anos o que teria exigido muitos séculos. 
 
 👉 Veja [Q.744](#q744)  
-[Voltar para Q.737 ↩️](#q737){:.backlink}  
 
 ###### Q.738 {#q738}
 
@@ -6933,6 +6941,8 @@ Que objetivou a Providência, tornando necessária a guerra?
 
 > 👻 ▸ A liberdade e o progresso.
 
+[Voltar para Q.737 ↩️](#q737){:.backlink}  
+
 ###### Q.744.a {#q744a}
 
 Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pode frequentemente ter por objetivo e resultado a escravização?
@@ -6983,6 +6993,7 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 
 > 👻 ▸ O desenvolvimento intelectual não implica a necessidade do bem. Um [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), superior em [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), pode ser mau. Isso se dá com aquele que muito tem vivido sem se melhorar: apenas sabe.   
 
+[Voltar para Q.780.b ↩️](#q780b){:.backlink}  
 [Voltar para Q.792.a ↩️](#q792a){:.backlink}  
 
 #### 📄 Crueldade {#lde-3-06-05}
@@ -7283,7 +7294,7 @@ Qual o maior obstáculo ao progresso?
 
 > 👻 ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura. 
 
-👉 Veja [LDE-3-12-03](#LDE-3-12-03)
+👉 Veja [O egoísmo](#lde-3-12-03)
 
 Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a [Humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.  
 
@@ -7338,8 +7349,8 @@ Outra dificuldade, no entanto, apresenta aqui o sistema da unicidade das existê
 
 Comparemos esta teoria do progresso com a que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) apresentaram. As almas vindas no tempo da civilização tiveram sua infância, como todas as outras, **mas já tinham vivido antes** e vêm adiantadas por efeito do progresso realizado anteriormente. Vêm atraídas por um meio que lhes é simpático e que se acha em relação com o estado em que atualmente se encontram. De sorte que, os cuidados dispensados à civilização de um povo não têm como consequência fazer que, de futuro, se criem almas mais perfeitas; têm, sim, o de atrair as que já progrediram, quer tenham vivido no seio do povo que se figura, ao tempo da sua barbaria, quer venham de outra parte. Aqui se nos depara igualmente a chave do progresso da [Humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) inteira. Quando todos os povos estiverem no mesmo nível, no tocante ao sentimento do bem, a [Terra](https://pt.m.wikipedia.org/wiki/Terra) será ponto de reunião exclusivamente de bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), que viverão fraternalmente unidos. Os maus, sentindo-se aí repelidos e deslocados, irão procurar, em mundos inferiores, o meio que lhes convém, até que sejam dignos de volver ao nosso, então transformado. Da teoria vulgar ainda resulta que os trabalhos de melhoria social só às gerações presentes e futuras aproveitam, sendo de resultados nulos para as gerações passadas, que cometeram o erro de vir muito cedo e que ficam sendo o que podem ser, sobrecarregadas com o peso de seus atos de barbaria. Segundo a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), os progressos ulteriores aproveitam igualmente às gerações pretéritas, que voltam a viver em melhores condições e podem assim aperfeiçoar-se no foco da civilização. 
 
-👉 Veja [Q.222](#q222)  
-[Voltar para LDE-5-04 ↩️](#lde-5-04){:.backlink}  
+👉 Veja [222](#222)  
+[Voltar para Conclusão 04 ↩️](#lde-5-04){:.backlink}  
 
 #### 📄 Civilização {#lde-3-08-04}
 
@@ -7386,7 +7397,7 @@ A civilização, como todas as coisas, apresenta gradações diversas. Uma civil
 De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima acepção do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro [amor](https://pt.m.wikipedia.org/wiki/amor) do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa [vontade](https://pt.m.wikipedia.org/wiki/Vontade) esteja certo de lhe não faltar o necessário.  
 
 [Voltar para Q.930 ↩️](#q930){:.backlink}  
-[Voltar para LDE-5-04 ↩️](#lde-5-04){:.backlink}  
+[Voltar para Conclusão 04 ↩️](#lde-5-04){:.backlink}  
 
 #### 📄 Progresso da legislação humana {#lde-3-08-05}
 
@@ -7404,7 +7415,7 @@ Qual a causa da instabilidade das leis humanas?
 
 A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte.  
 
-[Voltar para Q.885 ↩️](#q885)  
+[Voltar para Q.885 ↩️](#q885){:.backlink}  
 
 ###### Q.796 {#q796}
 
@@ -7487,7 +7498,7 @@ Passando de um mundo superior a outro inferior, conserva o [Espírito](https://p
 
 Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) encarnados neles. [Deus][0], portanto, não criou faculdades desiguais; permitiu, porém, que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir. 
 
-👉 Veja [Q.180](#q180){:.backlink}  
+👉 Veja [Q.180](#q180)
 
 #### 📄 Desigualdades sociais {#lde-3-09-03}
 
@@ -7579,6 +7590,7 @@ Por que [Deus][0] a uns concedeu as riquezas e o poder, e a outros, a miséria?
 
 > 👻 ▸ Para experimentá-los de modos diferentes. Além disso, como sabeis, essas provas foram escolhidas pelos próprios [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), que nelas, entretanto, sucumbem com frequência.  
 
+[Voltar para Q.925 ↩️](#q925){:.backlink}  
 [Voltar para Q.1001 ↩️](#q1001){:.backlink}  
 
 ###### Q.815 {#q815}
@@ -7832,7 +7844,7 @@ Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influê
 
 > 👻 ▸ É inegável que sobre o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) exerce influência a matéria, que pode embaraçar-lhe as manifestações. Daí vem que, nos mundos em que os corpos são menos materiais do que na Terra, as faculdades se desdobram mais livremente. Porém, o instrumento não dá a faculdade. Além disso, cumpre se distingam as faculdades morais das intelectuais. Tendo um homem o instinto do assassínio, seu próprio [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é, indubitavelmente, quem possui esse instinto e quem lho dá; não são seus órgãos que lho dão. Semelhante ao bruto, e ainda pior do que este, se torna aquele que nulifica o seu pensamento, para só se ocupar com a matéria, pois que não cuida mais de se premunir contra o mal. Nisto é que incorre em falta, porquanto assim procede por [vontade](https://pt.m.wikipedia.org/wiki/Vontade) sua. 
 
-👉 Veja [LDE-2-07-04](#LDE-2-07-04)
+👉 Veja [Influência do corpo](#lde-2-07-04)
 
 ###### Q.847 {#q847}
 
@@ -8652,6 +8664,8 @@ A perda dos entes que nos são caros não constitui para nós legítima causa de
 
 > 👻 ▸ Essa causa de dor atinge assim o rico, como o pobre: representa uma prova, ou expiação, e comum é a lei. Tendes, porém, uma consolação em poderdes comunicar-vos com os vossos amigos pelos meios que vos estão ao alcance, **enquanto não dispondes de outros mais diretos e mais acessíveis aos vossos sentidos.**
 
+[Voltar para Q.956 ↩️](#q956){:.backlink}  
+
 ###### Q.935 {#q935}
 
 Que se deve pensar da opinião dos que consideram profanação as comunicações com o além-túmulo?
@@ -9407,7 +9421,7 @@ O dogma da ressurreição da carne será a consagração da reencarnação ensin
 
 > 👻 ▸ Como quereríeis que fosse de outro modo? Conforme sucede com tantas outras, estas palavras só parecem despropositadas, no entender de algumas pessoas, porque as tomam ao pé da letra. Levam, por isso, à incredulidade. Dai-lhes uma interpretação lógica e os que chamais livres-pensadores as admitirão sem dificuldades, precisamente pela [razão](https://pt.m.wikipedia.org/wiki/Razão) de que refletem. Por que, não vos enganeis, esses livres-pensadores o que mais pedem e desejam é crer. Têm, como os outros, ou, talvez, mais que os outros, a sede do futuro, mas não podem admitir o que a [Ciência](https://pt.m.wikipedia.org/wiki/Ciência) desmente. A doutrina da pluralidade das existências é conforme com a Justiça de [Deus][0]; só ela explica o que, sem ela, é inexplicável. Como havíeis de pretender que o seu princípio não estivesse na própria religião?  
 
-[Voltar para 222 ↩️](#222a){:.backlink}  
+[Voltar para 222 ↩️](#222){:.backlink}  
 
 ###### Q.1011 {#q1011}
 
@@ -9630,7 +9644,7 @@ Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
-> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (👻 *O Livro dos Espíritos*, [LDE-q207](#LDE-q207)
+> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (👻 *O Livro dos Espíritos*, [Q.207](#q207)
 > 
 > [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 *Revista Espírita*, 1861)
 > 
@@ -9782,7 +9796,7 @@ A Editora
 
 [^7]: N.E.: Ano do calendário judaico.
 
-[^8]: A.K. Ver a explicação sobre o termo **alma** (👉 [LDE-0-02-02](#LDE-0-02-02)).
+[^8]: A.K. Ver a explicação sobre o termo **alma** (👉 [LDE-0-02-02](#lde-0-02-02)).
 
 [^9]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
 
