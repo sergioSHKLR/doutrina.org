@@ -97,5 +97,5 @@
 }
 
 .dark-mode .dropdown-content {
-    background-color: #28343c;
+    background-color: #28343c !important;
 }

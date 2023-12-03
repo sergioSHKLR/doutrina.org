@@ -80,7 +80,7 @@ button.tools {
 .dropbtn {
     cursor: pointer;
     position: relative;
-    top: 20px;
+    top: 32px;
     padding: 0 13px 2px 13px;
     border-radius: 50%;
 }
@@ -97,7 +97,7 @@ button.tools {
     position: absolute;
     z-index: 2;
     overflow: auto;
-    left: 17px;
+    left: 16px !important;
     top: 60px;
     border: 1px solid #59595980;
     border-radius: 20px;
