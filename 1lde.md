@@ -3436,6 +3436,10 @@ Serão devidas a essa mesma lembrança certas crenças relativas à [Doutrina](h
 
 > 👻 ▸ Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado tem, instintivamente, [consciência](https://pt.m.wikipedia.org/wiki/Consciência) do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Ancianidade, Espiritismo e  <a href="#ancianidade">↩️</a>
+</details>
+
 ### 2-05. 🗂️ Considerações sobre a pluralidade das existências {#lde-2-05}
 
 #### 222
@@ -5263,7 +5267,8 @@ Constitui crime a provocação do aborto, em qualquer período da gestação?
 > 👻 ▸ Há crime sempre que transgredis a Lei de [Deus][0]. Uma mãe, ou quem quer que seja, cometerá crime sempre que tirar a vida a uma criança antes do seu nascimento, pois isso impede uma [alma](https://pt.m.wikipedia.org/wiki/Alma) de passar pelas provas a que serviria de instrumento o corpo que se estava formando.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ Aborto, gestação e  <a href="#aborto">↩️</a>
+🏷️ Aborto, gestação e  <a href="#aborto">↩️</a><br>
+🏷️ Aborto, provocação do  <a href="#aborto">↩️</a>
 </details>
 
 ###### Q.359 {#q359}
