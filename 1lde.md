@@ -97,7 +97,8 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 {:.spirit}
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Allan Kardec, assistência espiritual a  <a href="#allan-kardec">↩️</a><br>
+🏷️ Allan Kardec, conselhos a  <a href="#allan-kardec">↩️</a><br>
 </details>
 
 ### 📑 Introdução {#lde-0-03}
@@ -139,7 +140,8 @@ Julgamos dever insistir nestas explicações pela [razão](https://pt.m.wikipedi
 Passemos agora ao objeto principal desta instrução preliminar.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, conceito espírita de  <a href="#alma">↩️</a><br>
+🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
 </details>
 
 #### 📄 Intro 03 {#lde-0-03-03}
@@ -1599,7 +1601,7 @@ O pensamento não é a própria [alma](https://pt.m.wikipedia.org/wiki/Alma) que
 > 👻 ▸ Quando o pensamento está em alguma parte, a [alma](https://pt.m.wikipedia.org/wiki/Alma) também aí está, pois que é a [alma](https://pt.m.wikipedia.org/wiki/Alma) que pensa. O pensamento é um atributo.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma,    <a href="#alma">↩️</a>
 </details>
 
 ###### Q.90 {#q90}
@@ -2133,7 +2135,8 @@ Que é a alma?
 > 👻 ▸ Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.134.a {#q134a}
@@ -2143,7 +2146,8 @@ Que era a [alma](https://pt.m.wikipedia.org/wiki/Alma) antes de se unir ao corpo
 > 👻 ▸ [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos).
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.134.b {#q134b}
@@ -2153,7 +2157,8 @@ As almas e os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são, port
 > 👻 ▸ Sim, as almas não são senão os [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos). Antes de se unir ao corpo, a [alma](https://pt.m.wikipedia.org/wiki/Alma) é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.135 {#q135}
@@ -2163,7 +2168,7 @@ Há no homem alguma outra coisa além da [alma](https://pt.m.wikipedia.org/wiki/
 > 👻 ▸ Há o laço que liga a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.135.a {#q135a}
@@ -2181,7 +2186,7 @@ O homem é, portanto, formado de três partes essenciais.
    c) o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) e liga a [alma](https://pt.m.wikipedia.org/wiki/Alma) ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, corpo, perispírito e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.136 {#q136}
@@ -2191,7 +2196,7 @@ A [alma](https://pt.m.wikipedia.org/wiki/Alma) independe do princípio vital?
 > 👻 ▸ O corpo não é mais do que envoltório, repetimo-lo constantemente.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.136.a {#q136a}
@@ -2201,7 +2206,8 @@ Pode o corpo existir sem a alma?
 > 👻 ▸ Pode; entretanto, desde que cessa a vida do corpo, a [alma](https://pt.m.wikipedia.org/wiki/Alma) o abandona. Antes do nascimento, ainda não há união definitiva entre a [alma](https://pt.m.wikipedia.org/wiki/Alma) e o corpo; enquanto, depois de essa união se haver estabelecido, a [morte](https://pt.m.wikipedia.org/wiki/Morte) do corpo rompe os laços que o prendem à [alma](https://pt.m.wikipedia.org/wiki/Alma) e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a [alma](https://pt.m.wikipedia.org/wiki/Alma) não pode habitar um corpo privado de vida orgânica.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, existência do corpo e  <a href="#alma">↩️</a><br>
 </details>
 
 ###### Q.136.b {#q136b}
@@ -2211,7 +2217,8 @@ Que seria o nosso corpo, se não tivesse alma?
 > 👻 ▸ Simples massa de carne sem [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), tudo o que quiserdes, exceto um homem.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, corpo físico e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.137 {#q137}
@@ -2220,7 +2227,10 @@ Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode encarnar a um tem
 
 > 👻 ▸ Não, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é indivisível e não pode animar simultaneamente dois seres distintos. 
 
-👉 Veja LDM, Cap. 7 ([LDM-2-07](/2LDM.html#LDM-2-07))
+<details class="links"><summary>🔗</summary><br>
+👉 Veja LDM, Cap. 7  
+🏷️ Alma  <a href="#alma">↩️</a>
+</details>
 
 ###### Q.138 {#q138}
 
@@ -2229,7 +2239,7 @@ Que se deve pensar da opinião dos que consideram a [alma](https://pt.m.wikipedi
 > 👻 ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.139 {#q139}
@@ -2240,7 +2250,12 @@ Alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) e, antes deles, a
 
 Tudo depende das acepções das palavras. Por que não tendes uma palavra para cada coisa?
 
-O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam [alma](https://pt.m.wikipedia.org/wiki/Alma) ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de [alma](https://pt.m.wikipedia.org/wiki/Alma) e nesta acepção é que se pode dizer que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado. Dando da [alma](https://pt.m.wikipedia.org/wiki/Alma) definições diversas, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores nos dizem que primeiro nos entendamos acerca das palavras. [^8]
+O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam [alma](https://pt.m.wikipedia.org/wiki/Alma) ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de [alma](https://pt.m.wikipedia.org/wiki/Alma) e nesta acepção é que se pode dizer que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado. Dando da [alma](https://pt.m.wikipedia.org/wiki/Alma) definições diversas, os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) superiores nos dizem que primeiro nos entendamos acerca das palavras. [^8]  
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
+</details>
 
 ###### Q.140 {#q140}
 
@@ -2249,7 +2264,7 @@ Que se deve pensar da teoria da [alma](https://pt.m.wikipedia.org/wiki/Alma) sub
 > 👻 ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por [alma](https://pt.m.wikipedia.org/wiki/Alma) o fluido vital, essa teoria tem [razão](https://pt.m.wikipedia.org/wiki/Razão) de ser; se se entende por [alma](https://pt.m.wikipedia.org/wiki/Alma) o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado, é errônea. Já dissemos que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.140.a {#q140a}
@@ -2261,7 +2276,7 @@ Entretanto, alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) deram
 A [alma](https://pt.m.wikipedia.org/wiki/Alma) atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a [alma](https://pt.m.wikipedia.org/wiki/Alma) o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que habita o corpo durante a vida e o deixa por ocasião da morte.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.141 {#q141}
@@ -2271,7 +2286,7 @@ Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](https:
 > 👻 ▸ A [alma](https://pt.m.wikipedia.org/wiki/Alma) não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a [alma](https://pt.m.wikipedia.org/wiki/Alma) é exterior, sem que por isso constitua o envoltório do corpo. A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito); outro, grosseiro, material e pesado, o corpo. A [alma](https://pt.m.wikipedia.org/wiki/Alma) é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, invólucros da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.142 {#q142}
@@ -2281,7 +2296,7 @@ Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai compl
 > 👻 ▸ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela causa.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.143 {#q143}
@@ -2291,7 +2306,7 @@ Por que todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não de
 > 👻 ▸ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não se acham todos esclarecidos igualmente sobre estes assuntos. Há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.144 {#q144}
@@ -2301,7 +2316,9 @@ Que se deve entender por [alma](https://pt.m.wikipedia.org/wiki/Alma) do mundo?
 > 👻 ▸ O princípio universal da vida e da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo [alma](https://pt.m.wikipedia.org/wiki/Alma) é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à [Terra](https://pt.m.wikipedia.org/wiki/Terra) hão atribuído uma alma. Por [alma](https://pt.m.wikipedia.org/wiki/Alma) da [Terra](https://pt.m.wikipedia.org/wiki/Terra) se deve entender o conjunto dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) abnegados, que dirigem para o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de [Deus][0] com relação ao vosso planeta.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a><br>
+🏷️ Alma, do mundo da Terra  <a href="#alma">↩️</a><br>
+🏷️ Alma, elasticidade do termo  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.145 {#q145}
@@ -2311,7 +2328,7 @@ Como se explica que tantos filósofos antigos e modernos, durante tão longo tem
 > 👻 ▸ Esses homens eram os precursores da eterna [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a [verdade](https://pt.m.wikipedia.org/wiki/Verdade), mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.146 {#q146}
@@ -2321,7 +2338,7 @@ A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem, no corpo, sede determinada e
 > 👻 ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.146.a {#q146a}
@@ -2329,6 +2346,10 @@ A [alma](https://pt.m.wikipedia.org/wiki/Alma) tem, no corpo, sede determinada e
 Que se deve pensar da opinião dos que situam a [alma](https://pt.m.wikipedia.org/wiki/Alma) num centro vital?
 
 > 👻 ▸ Quer isso dizer que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da [alma](https://pt.m.wikipedia.org/wiki/Alma) se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ Alma, corpo físico e sede da  <a href="#alma">↩️</a>
+</details>
 
 #### 📄 Materialismo {#lde-2-02-03}
 
@@ -2367,7 +2388,7 @@ Que sucede à [alma](https://pt.m.wikipedia.org/wiki/Alma) no instante da morte?
 > 👻 ▸ Volta a ser [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), isto é, volve ao mundo dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), donde se apartara momentaneamente.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.150 {#q150}
@@ -2376,6 +2397,11 @@ A alma, após a morte, conserva a sua individualidade?
 
 > 👻 ▸ Sim; jamais a perde. Que seria ela, se não a conservasse?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Alma, individualidade da   <a href="#alma">↩️</a><br>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
+</details>
+
 ###### Q.150.a {#q150a}
 
 Como comprova a [alma](https://pt.m.wikipedia.org/wiki/Alma) a sua individualidade, uma vez que não tem mais corpo material?
@@ -2383,7 +2409,7 @@ Como comprova a [alma](https://pt.m.wikipedia.org/wiki/Alma) a sua individualida
 > 👻 ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu [perispírito](https://pt.m.wikipedia.org/wiki/Perispírito).
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.150.b {#q150b}
@@ -2393,7 +2419,7 @@ A [alma](https://pt.m.wikipedia.org/wiki/Alma) nada leva consigo deste mundo?
 > 👻 ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.151 {#q151}
@@ -2403,7 +2429,7 @@ Que pensar da opinião dos que dizem que após a [morte](https://pt.m.wikipedia.
 > 👻 ▸ O conjunto dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não forma um todo? não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.152 {#q152}
@@ -2419,7 +2445,7 @@ Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, 
 A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da [alma](https://pt.m.wikipedia.org/wiki/Alma) nos era ensinada em teoria, como artigo de fé. O [Espiritismo][3] a torna manifesta e, de certo modo, material.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.153 {#q153}
@@ -2429,7 +2455,7 @@ Em que sentido se deve entender a vida eterna?
 > 👻 ▸ A vida do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a [alma](https://pt.m.wikipedia.org/wiki/Alma) retoma a vida eterna.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, morte e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.153.a {#q153a}
@@ -2459,7 +2485,8 @@ Como se opera a separação da [alma](https://pt.m.wikipedia.org/wiki/Alma) e do
 > 👻 ▸ Rotos os laços que a retinham, ela se desprende.  
 
 <details class="links"><summary>🔗</summary><br>
-↩️ Voltar para <a href="#q957">Q.957</a>
+↩️ Voltar para <a href="#q957">Q.957</a><br>
+🏷️ Alma, desprendimento da  <a href="#alma">↩️</a>
 </details> 
 
 ###### Q.155.a {#q155a}
@@ -3283,7 +3310,7 @@ Há dois [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), ou, por outra
 > 👻 ▸ Sim, mas a semelhança entre elas é tal que faz vos pareçam, em muitos casos, uma só.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, irmãos siameses e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.213 {#q213}
@@ -3499,7 +3526,10 @@ As próprias palavras de [Jesus][1] não permitem [dúvida](https://pt.m.wikiped
 <details class="links"><summary>🔗</summary><br> 
 👉 Veja <a href="#q1010](#q1010">Q.1010</a><br>
 ↩️ Voltar para <a href="#q619">Q.619</a><br> 
-↩️ Voltar para <a href="#q789">Q.789</a>
+↩️ Voltar para <a href="#q789">Q.789</a><br>
+🏷️ Alma, anterioridade da  <a href="#alma">↩️</a><br>
+🏷️ Alma, corpo físico e  <a href="#alma">↩️</a><br>
+🏷️ Alma, criação da  <a href="#alma">↩️</a><br>
 </details> 
 
 ### 2-06. 🗂️ Vida espírita {#lde-2-06}
@@ -3523,7 +3553,7 @@ Que é a [alma](https://pt.m.wikipedia.org/wiki/Alma) no intervalo das encarnaç
 > 👻 ▸ [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) errante, que aspira a novo destino, que espera.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, Espírito errante e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.224.a {#q224a}
@@ -5362,7 +5392,7 @@ O livre exercício das faculdades da [alma](https://pt.m.wikipedia.org/wiki/Alma
 > 👻 ▸ Os órgãos são os instrumentos da manifestação das faculdades da alma, manifestação que se acha subordinada ao desenvolvimento e ao grau de perfeição dos órgãos, como a excelência de um trabalho o está à da ferramenta própria à sua execução.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, organismo humano e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.370 {#q370}
@@ -5392,7 +5422,8 @@ Tem algum fundamento o pretender-se que a [alma](https://pt.m.wikipedia.org/wiki
 > 👻 ▸ Nenhum. Eles trazem almas humanas, não raro mais inteligentes do que supondes, mas que sofrem da insuficiência dos meios de que dispõem para se comunicar, da mesma forma que o mudo sofre da impossibilidade de falar.  
 
 <details class="links"><summary>🔗</summary><br>
-↩️ Voltar para <a href="#q847">Q.847</a>
+↩️ Voltar para <a href="#q847">Q.847</a><br>
+🏷️ Alma, dos cretinos e dos idiotas  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.372 {#q372}
@@ -5771,7 +5802,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado permanece de 
 > 👻 ▸ É como se perguntasses se ao encarcerado agrada o cárcere. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encarnado aspira constantemente à sua libertação e tanto mais deseja ver-se livre do seu invólucro, quanto mais grosseiro é este.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, emancipação da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.401 {#q401}
@@ -6085,7 +6116,7 @@ Qual a causa da clarividência sonambúlica?
 > 👻 ▸ Já o dissemos: É a [alma](https://pt.m.wikipedia.org/wiki/Alma) que vê.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, atributos da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.429 {#q429}
@@ -6223,7 +6254,7 @@ Se se deixasse o extático entregue a si mesmo, poderia sua [alma](https://pt.m.
 > 👻 ▸ Perfeitamente, poderia morrer. Por isso é que preciso se torna chamá-lo a voltar, apelando para tudo o que o prende a este mundo, fazendo-lhe sobretudo compreender que a maneira mais certa de não ficar lá, onde vê que seria feliz, consistiria em partir a cadeia que o tem preso ao planeta terreno.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, desgoverno do extático e abandono pela  <a href="#alma">↩️</a><br>
 </details>
 
 ###### Q.443 {#q443}
@@ -6271,7 +6302,7 @@ O fenômeno a que se dá a designação de **dupla vista** tem alguma relação 
 > 👻 ▸ Tudo isso é uma só coisa. O que se chama **dupla vista** é ainda resultado da libertação do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), sem que o corpo seja adormecido. A **dupla vista** ou **segunda vista** é a vista da alma.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, dupla vista e exteriorização da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.448 {#q448}
@@ -6353,7 +6384,7 @@ Poder-se-ia atribuir a uma espécie de segunda vista a perspicácia de algumas p
 > 👻 ▸ É sempre a [alma](https://pt.m.wikipedia.org/wiki/Alma) a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, irradiação da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.454.a {#q454a}
@@ -8205,7 +8236,7 @@ Será esse princípio uma [alma](https://pt.m.wikipedia.org/wiki/Alma) semelhant
 > 👻 ▸ É também uma alma, se quiserdes, dependendo isto do sentido que se der a esta palavra. É, porém, inferior à do homem. Há entre a [alma](https://pt.m.wikipedia.org/wiki/Alma) dos animais e a do homem distância equivalente à que medeia entre a [alma](https://pt.m.wikipedia.org/wiki/Alma) do homem e [Deus][0].
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, homem e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.598 {#q598}
@@ -8235,7 +8266,7 @@ Sobrevivendo ao corpo em que habitou, a [alma](https://pt.m.wikipedia.org/wiki/A
 > 👻 ▸ Fica numa espécie de erraticidade, pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmo é o que constitui o principal atributo do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). O do animal, depois da morte, é classificado pelos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, animais e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.601 {#q601}
@@ -8426,6 +8457,10 @@ As diferentes espécies de animais não procedem **intelectualmente** umas das o
 
 Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de [Deus][0], como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Alma, metempsicose e evolução da  <a href="#alma">↩️</a>
+</details>
+
 ## 3. 🗃️ Leis Morais {#lde-3}
 
 ### 3-01. 🗂️ Lei divina {#lde-3-01}
@@ -8515,7 +8550,7 @@ Antes de se unir ao corpo, a [alma](https://pt.m.wikipedia.org/wiki/Alma) compre
 > 👻 ▸ Compreende-a de acordo com o grau de perfeição que tenha atingido e dela guarda a intuição quando unida ao corpo. Os maus instintos, porém, fazem ordinariamente que o homem a esqueça.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, lei divina e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.621 {#q621}
@@ -9567,6 +9602,10 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 
 > 👻 ▸ Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Alimentação, mundos elevados e  <a href="#alimentacao">↩️</a>
+</details>
+
 #### 📄 Gozo dos bens terrenos {#lde-3-05-03}
 
 ###### Q.711 {#q711}
@@ -9712,7 +9751,7 @@ Será racional a abstenção de certos alimentos, prescrita a diversos povos?
 > 👻 ▸ Permitido é ao homem alimentar-se de tudo o que lhe não prejudique a saúde. Alguns legisladores, porém, com um fim útil, entenderam de interdizer o uso de certos alimentos e, para maior autoridade imprimirem às suas leis, apresentaram-nas como emanadas de [Deus][0].
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alimento, saúde e  <a href="#alimento">↩️</a>
 </details>
 
 ###### Q.723 {#q723}
@@ -9733,6 +9772,7 @@ Será meritório abster-se o homem da alimentação animal, ou de outra qualquer
 
 <details class="links"><summary>🔗</summary><br> 
 👉 Veja <a href="#q720">Q.720</a>
+🏷️ Alimentação, mortificação e  <a href="#alimentacao">↩️</a>
 </details>
 
 ###### Q.725 {#q725}
@@ -10503,7 +10543,7 @@ Qual será a sorte futura das almas que animam essas raças?
 > 👻 ▸ Chegarão, como todas as demais, à perfeição, passando por outras existências. [Deus][0] a ninguém deserda.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label   <a href="#term">↩️</a>
+🏷️ Alma, destino da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.787.b {#q787b}
@@ -10542,7 +10582,8 @@ Comparemos esta teoria do progresso com a que os [Espíritos](https://pt.m.wikip
 
 <details class="links"><summary>🔗</summary><br> 
 👉 Veja <a href="222">222</a><br> 
-↩️ Voltar para <a href="#lde-5-04">Conclusão 04</a>
+↩️ Voltar para <a href="#lde-5-04">Conclusão 04</a><br>
+🏷️ Alma, criação da  <a href="#alma">↩️</a><br>
 </details>
 
 #### 📄 Civilização {#lde-3-08-04}
@@ -12426,7 +12467,8 @@ Uma vez que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpátic
 Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequência tomar-se uma pela outra. Quando pura e simpática, a afeição da [alma](https://pt.m.wikipedia.org/wiki/Alma) é duradoura; efêmera a do corpo. Daí vem que, muitas vezes, os que julgavam amar-se com eterno [amor](https://pt.m.wikipedia.org/wiki/amor) passam a odiar-se, desde que a ilusão se desfaça.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ Afeição, física e espiritual   <a href="#afeicao">↩️</a>
+🏷️ Afeição, física e espiritual   <a href="#afeicao">↩️</a><br>
+🏷️ Alma, afeição do corpo e da  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.940 {#q940}
@@ -12787,7 +12829,8 @@ Têm alguma coisa de material as penas e gozos da [alma](https://pt.m.wikipedia.
 > 👻 ▸ Não podem ser materiais, di-lo o bom senso, pois que a [alma](https://pt.m.wikipedia.org/wiki/Alma) não é matéria. Nada têm de carnal essas penas e esses gozos; entretanto, são mil vezes mais vivos do que os que experimentais na Terra, porque o [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), uma vez liberto, é mais impressionável. Então, já a matéria não lhe embota as sensações. 
 
 <details class="links"><summary>🔗</summary><br>
-👉 Veja <a href="#q237">Q.237</a> a <a href="#q257">Q.257</a>
+👉 Veja <a href="#q237">Q.237</a> a <a href="#q257">Q.257</a><br>
+🏷️ Alma, matéria e  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.966 {#q966}
@@ -13455,7 +13498,8 @@ Que se deve entender por uma [alma](https://pt.m.wikipedia.org/wiki/Alma) a pena
 > 👻 ▸ Uma [alma](https://pt.m.wikipedia.org/wiki/Alma) errante e sofredora, incerta de seu futuro e à qual podeis proporcionar o alívio, que muitas vezes solicita, vindo comunicar-se convosco. 
 
 <details class="links"><summary>🔗</summary><br>
-👉 Veja <a href="#q664">Q.664</a>
+👉 Veja <a href="#q664">Q.664</a><br>
+🏷️ Alma, errante  <a href="#alma">↩️</a>
 </details>
 
 ###### Q.1016 {#q1016}
@@ -13789,7 +13833,8 @@ mundos elevados e – [Q.710](#q710)
 saúde e – [Q.722](#q722)  
 
 ##### 🏷️ Allan Kardec {#allan-kardec}
-assistência espiritual a – [Prefácio](#lde-0-02)
+assistência espiritual a – [Prefácio](#lde-0-02)  
+
 conselhos a – [Prefácio](#lde-0-02)
 
 ##### 🏷️ Alma {#alma}
