@@ -36,6 +36,10 @@
     font-style: normal;
 }
 
+#col2-body blockquote.grey em {
+    color: inherit !important;
+}
+
 #col2-body blockquote.bible::first-letter,
 #col2-body blockquote.bible-multi::first-letter {
     all: unset;
