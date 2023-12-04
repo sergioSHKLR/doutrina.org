@@ -98,7 +98,7 @@ button.tools {
     z-index: 2;
     overflow: auto;
     left: 16px !important;
-    top: 60px;
+    top: 70px;
     border: 1px solid #59595980;
     border-radius: 20px;
     padding: 3px;
@@ -117,3 +117,4 @@ button.tools {
 .show {
     display: block;
 }
+

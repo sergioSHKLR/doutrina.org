@@ -108,3 +108,7 @@
 }
 
 
+blockquote a {color: inherit !important}
+
+blockquote a:hover {color: unset !important}
+
