@@ -281,3 +281,5 @@ details.links {
     margin: 10px;
     padding: 10px 20px;
 }
+
+a:active, a:focus {background-color: inherit; outline: none;}
