@@ -283,3 +283,7 @@ details.links {
 }
 
 a:active, a:focus {background-color: inherit; outline: none;}
+
+details *:active {background-color: inherit; outline: none;}
+
+summary *:active {background-color: inherit; outline: none;}
