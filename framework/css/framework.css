@@ -283,8 +283,18 @@ details.links {
     padding: 10px 20px;
 }
 
-a:active, a:focus {background-color: inherit; outline: none;}
+a:active,
+a:focus {
+    background-color: inherit;
+    outline: none;
+}
 
-details *:active {background-color: inherit; outline: none;}
+details:active {
+    background-color: inherit;
+    outline: none;
+}
 
-summary *:active {background-color: inherit; outline: none;}
+summary:active {
+    background-color: inherit;
+    outline: none;
+}

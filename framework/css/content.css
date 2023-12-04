@@ -77,7 +77,7 @@ a:any-link {
     text-decoration: underline;
     text-underline-offset: 2px;
     text-decoration-color: #0080ff;
-    color: #0080ff !important;
+    color: #0080ff;
 }
 
 p.cursive {

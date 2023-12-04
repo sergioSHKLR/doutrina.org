@@ -100,4 +100,8 @@
     background-color: #28343c !important;
 }
 
-.dark-mode details.links {background-color: #333;}
+.dark-mode details.links {
+    background-color: #333;
+}
+
+.dark-mode #col2-body a:any-link:hover {color: dodgerblue !important}
