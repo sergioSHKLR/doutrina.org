@@ -253,7 +253,8 @@ p.banner {
 details,
 summary {
     list-style-type: none;
-    cursor: pointer
+    cursor: pointer;
+    color: currentColor;
 }
 
 details summary::before {
@@ -277,7 +278,7 @@ summary.ff-mono {
 }
 
 details.links {
-    background-color: whitesmoke !important;
+    background-color: whitesmoke;
     margin: 10px;
     padding: 10px 20px;
 }

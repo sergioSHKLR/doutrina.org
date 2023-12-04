@@ -99,3 +99,5 @@
 .dark-mode .dropdown-content {
     background-color: #28343c !important;
 }
+
+.dark-mode details.links {background-color: #333;}
