@@ -3258,6 +3258,10 @@ Do fato de não haver filiação entre os [Espíritos](https://pt.m.wikipedia.or
 
 > 👻 ▸ De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) elevados. Se [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Antpassados, culto aos  <a href="#antepassados">↩️</a>
+</details>
+
 #### 📄 Parecenças físicas e morais {#lde-2-04-08}
 
 ###### Q.207 {#q207}
@@ -6865,7 +6869,8 @@ Há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se ligam particu
 > 👻 ▸ Há o irmão espiritual, o que chamais o bom [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) ou o bom gênio.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ Anjo da guarda  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
+🏷️ Anjo da guarda, proteção de  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.490 {#q490}
@@ -6875,7 +6880,8 @@ Que se deve entender por [anjo](https://pt.m.wikipedia.org/wiki/Anjo) de guarda 
 > 👻 ▸ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor, pertencente a uma ordem elevada.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
+🏷️ Anjo da guarda, conceito de  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.491 {#q491}
@@ -6885,7 +6891,7 @@ Qual a missão do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) proteto
 > 👻 ▸ A de um pai com relação aos filhos; a de guiar o seu protegido pela senda do bem, auxiliá-lo com seus conselhos, consolá-lo nas suas aflições, levantar-lhe o ânimo nas provas da vida.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.492 {#q492}
@@ -6895,7 +6901,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor se dedica ao i
 > 👻 ▸ Desde o nascimento até a [morte](https://pt.m.wikipedia.org/wiki/Morte) e muitas vezes o acompanha na vida espírita, depois da morte, e mesmo através de muitas existências corpóreas, que mais não são do que fases curtíssimas da vida do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos).
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.493 {#q493}
@@ -6905,7 +6911,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor se dedica ao i
 > 👻 ▸ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) fica obrigado a vos assistir, uma vez que aceitou esse encargo. Cabe-lhe, porém, o direito de escolher, para seus protegidos, seres que lhe sejam simpáticos. Para alguns, é um prazer; para outros, missão ou dever.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.493.a {#q493a}
@@ -6915,7 +6921,7 @@ Dedicando-se a uma pessoa, renuncia o [Espírito](https://pt.m.wikipedia.org/wik
 > 👻 ▸ Não, mas protege-os menos exclusivamente.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.494 {#q494}
@@ -6925,7 +6931,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor fica fatalment
 > 👻 ▸ Frequentemente sucede que alguns [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) deixam suas posições de protetores para desempenhar diversas missões, mas, nesse caso, outros os substituem.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.495 {#q495}
@@ -6947,6 +6953,12 @@ Poderá dar-se que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) prot
 
 Nada tem de surpreendente a doutrina dos [anjos](https://pt.m.wikipedia.org/wiki/Anjo) guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na [Terra](https://pt.m.wikipedia.org/wiki/Terra) o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+🏷️ Anjo da guarda, assistência do  <a href="#anjo-da-guarda">↩️</a><br>
+🏷️ Anjo da guarda, doutrina de  <a href="#anjo-da-guarda">↩️</a>
+</details>
+
 ###### Q.496{#q496}
 
 O [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), que abandona o seu protegido, que deixa de lhe fazer bem, pode fazer-lhe mal?
@@ -6954,7 +6966,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), que abandona o seu pr
 > 👻 ▸ Os bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) nunca fazem mal. Deixam que o façam aqueles que lhes tomam o lugar. Costumais então lançar à conta da sorte as desgraças que vos acabrunham, quando só as sofreis por culpa vossa.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.497 {#q497}
@@ -6964,7 +6976,7 @@ Pode um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor deixar o
 > 👻 ▸ Os maus [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) se unem para neutralizar a ação dos bons, mas, se o quiser, o protegido dará toda a força ao seu protetor. Pode acontecer que o bom [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) encontre alhures uma boa [vontade](https://pt.m.wikipedia.org/wiki/Vontade) a ser auxiliada. Aplica-se então em auxiliá-la, aguardando que seu protegido lhe volte.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.498 {#q498}
@@ -6974,7 +6986,7 @@ Será por não poder lutar contra [Espíritos](https://pt.m.wikipedia.org/wiki/E
 > 👻 ▸ Não é porque não possa, mas porque não quer. E não quer, porque das provas sai o seu protegido mais instruído e perfeito. Assiste-o sempre com seus conselhos, dando-os por meio dos bons pensamentos que lhe inspira, porém, que quase nunca são atendidos. A fraqueza, o descuido ou o orgulho do homem são exclusivamente o que empresta força aos maus [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), cujo poder todo advém do fato de lhes não opordes resistência.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.499 {#q499}
@@ -6984,7 +6996,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor está constant
 > 👻 ▸ Há circunstâncias em que não é necessário esteja o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor junto do seu protegido.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.500 {#q500}
@@ -6994,7 +7006,7 @@ Momentos haverá em que o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito)
 > 👻 ▸ Sim, quando ele atinge o ponto de poder guiar-se a si mesmo, como sucede ao estudante, para o qual um momento chega em que não mais precisa de mestre. Isso, porém, não se dá na Terra.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.501 {#q501}
@@ -7004,7 +7016,7 @@ Por que é oculta a ação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Esp�
 > 👻 ▸ Se vos fosse dado contar sempre com a ação deles, não obraríeis por vós mesmos e o vosso [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não progrediria. Para que este possa adiantar-se, precisa de experiência, adquirindo-a frequentemente à sua custa. É necessário que exercite suas forças, sem o que, seria como a criança a quem não consentem que ande sozinha. A ação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que vos querem [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) é sempre regulada de maneira que não vos tolha o livre-arbítrio, porquanto, se não tivésseis responsabilidade, não avançaríeis na senda que vos há de conduzir a [Deus][0]. Não vendo quem o ampara, o homem se confia às suas próprias forças. Sobre ele, entretanto, vela o seu guia e, de tempos a tempos, lhe brada, advertindo-o do perigo.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.502 {#q502}
@@ -7014,7 +7026,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor, que consegue 
 > 👻 ▸ Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.502.a {#q502a}
@@ -7024,7 +7036,7 @@ O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor, que consegue 
 > 👻 ▸ Não, pois que fez o que de si dependia.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.503 {#q503}
@@ -7034,7 +7046,7 @@ Sofre o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor quando v
 > 👻 ▸ Compungem-no os erros do seu protegido, a quem lastima. Tal aflição, porém, não tem analogia com as angústias da paternidade terrena, porque ele sabe que há remédio para o mal e que o que não se faz hoje, amanhã se fará.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.504 {#q504}
@@ -7043,6 +7055,11 @@ Poderemos sempre saber o nome do [Espírito](https://pt.m.wikipedia.org/wiki/Esp
 
 > 👻 ▸ Como quereis saber nomes para vós inexistentes? Supondes que [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) só há os que conheceis?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
+🏷️ Anjo da guarda, identidade civil de  <a href="#anjo-da-guarda">↩️</a>
+</details>
+
 ###### Q.504.a {#q504a}
 
 Como então o podemos invocar, se o não conhecemos?
@@ -7050,7 +7067,7 @@ Como então o podemos invocar, se o não conhecemos?
 > 👻 ▸ Dai-lhe o nome que quiserdes, o de [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) são irmãos e se assistem mutuamente.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.505 {#q505}
@@ -7059,6 +7076,10 @@ Os protetores, que dão nomes conhecidos, sempre são, realmente, os [Espíritos
 
 > 👻 ▸ Não. Muitas vezes, os que os dão são [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) simpáticos aos que tais nomes usaram na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e, a mando destes, respondem ao vosso chamamento. Fazeis questão de nomes; eles tomam um que vos inspire confiança. Quando não podeis desempenhar pessoalmente determinada missão, não costumais mandar outro, por quem respondeis como por vós mesmos, obre em vosso nome?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+</details>
+
 ###### Q.506 {#q506}
 
 Na vida espírita, reconheceremos o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) nosso protetor?
@@ -7066,7 +7087,7 @@ Na vida espírita, reconheceremos o [Espírito](https://pt.m.wikipedia.org/wiki/
 > 👻 ▸ Decerto, pois não é raro que o tenhais conhecido antes de encarnardes.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.507 {#q507}
@@ -7076,7 +7097,7 @@ Pertencem todos os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) prote
 > 👻 ▸ Pode, mas a proteção pressupõe certo grau de elevação e um poder ou uma virtude a mais, concedidos por [Deus][0]. O pai, que protege seu filho, também pode ser assistido por um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) mais elevado.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.508 {#q508}
@@ -7086,7 +7107,7 @@ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se achavam em boa
 > 👻 ▸ Mais ou menos restrito é o poder de que desfrutam. A situação em que se encontram nem sempre lhes permite inteira liberdade de ação.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.509 {#q509}
@@ -7096,7 +7117,7 @@ Quando em estado de selvageria ou de inferioridade moral, têm os homens, igualm
 > 👻 ▸ Todo homem tem um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que por ele vela, mas as missões são relativas ao fim que visam. Não dais a uma criança, que está aprendendo a ler, um professor de [filosofia](https://pt.m.wikipedia.org/wiki/Filosofia). O progresso do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) familiar guarda relação com o do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protegido. Tendo um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) que vela por vós, podeis tornar-vos, a vosso turno, o protetor de outro que vos seja inferior e os progressos que este realize, com o auxílio que lhe dispensardes, contribuirão para o vosso adiantamento. [Deus][0] não exige do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) mais do que comportem a sua natureza e o grau de elevação a que já chegou.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.510 {#q510}
@@ -7108,7 +7129,7 @@ Quando o pai, que vela pelo filho, reencarna, continua a velar por ele?
 > Encarnado, mormente em mundo onde a existência é material, o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) se acha muito sujeito ao corpo para poder dedicar-se inteiramente a outro [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), isto é, para poder assisti-lo pessoalmente. Tanto assim que os que ainda se não elevaram bastante são também assistidos por outros, que lhes estão acima, de tal sorte que, se por qualquer circunstância um vem a faltar, outro lhe supre a falta.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.511 {#q511}
@@ -7118,7 +7139,7 @@ A cada indivíduo achar-se-á ligado, além do [Espírito](https://pt.m.wikipedi
 > 👻 ▸ Ligado, não é o termo. É certo que os maus [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) procuram desviar do bom caminho o homem, quando se lhes depara ocasião. Sempre, porém, que um deles se liga a um indivíduo, fá-lo por si mesmo, porque conta ser atendido. Há então luta entre o bom e o mau, vencendo aquele por quem o homem se deixe influenciar.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.512 {#q512}
@@ -7128,7 +7149,7 @@ Podemos ter muitos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) prote
 > 👻 ▸ Todo homem conta sempre [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), mais ou menos elevados, que com ele simpatizam, que lhe dedicam afeto e por ele se interessam, como também tem junto de si outros que o assistem no mal.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.513 {#q513}
@@ -7138,7 +7159,7 @@ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que conosco simpatiza
 > 👻 ▸ Não raro, desempenham missão temporária; porém, as mais das vezes, são apenas atraídos pela identidade de pensamentos e sentimentos, assim para o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) como para o mal.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.513.a {#q513a}
@@ -7148,7 +7169,7 @@ Parece lícito inferir-se daí que os [Espíritos](https://pt.m.wikipedia.org/wi
 > 👻 ▸ Sim, qualquer que seja o seu caráter, o homem sempre encontra [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que com ele simpatizem.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.514 {#q514}
@@ -7168,7 +7189,8 @@ Os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) familiares são os me
 > O mau gênio é um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) imperfeito ou perverso, que se liga ao homem para desviá-lo do bem. Obra, porém, por impulso próprio e não no desempenho de missão. A tenacidade da sua ação está em relação direta com a maior ou menor facilidade de acesso que encontre por parte do homem, que goza sempre da liberdade de escutar-lhe a voz ou de lhe cerrar os ouvidos.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
+🏷️ Anjo da guarda, conceito de  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.515 {#q515}
@@ -14119,7 +14141,7 @@ demônio e – [Q.128](#q128) a [Q.131](#q131)
 perfeição e – [Q.129](#q129)  
 
 ##### 🏷️ Anjo da guarda {#anjo-da-guarda}
-Anjo da guarda – [Q.489](#q489)  a [Q.514](#q514)  
+Anjo da guarda – [Q.489](#q489) a [Q.514](#q514)  
 
 assistência do – [Q.495](#q495)  
 
