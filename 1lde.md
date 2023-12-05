@@ -347,7 +347,7 @@ Que respondem a essa [evidência](https://pt.m.wiktionary.org/wiki/evidência) o
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a [Doutrina](https://pt.m.wikipedia.org/wiki/Espiritismo) Espírita, que já conta milhões de adeptos, só os recruta entre os ignorantes? Os [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a [pretensão](https://pt.m.wiktionary.org/wiki/pretensão) de alguns incrédulos, a de terem o [monopólio](https://pt.m.wiktionary.org/wiki/monopólio) do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com [desplante](https://pt.m.wiktionary.org/wiki/desplante), de [ineptos](https://pt.m.wiktionary.org/wiki/inepto) os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma [presunção](https://pt.m.wiktionary.org/wiki/presunção), no mínimo, a seu favor, visto ter [logrado](https://pt.m.wiktionary.org/wiki/lograr) prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com [futilidades](https://pt.m.wiktionary.org/wiki/futilidade).
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Autenticidade, fenômeno espírita e  <a href="#autenticidade">↩️</a>
 </details>
 
 #### 📄 Intro 10 {#lde-0-03-10}
@@ -4285,7 +4285,7 @@ Podem os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) inferiores subt
 > 👻 ▸ Eu disse: irresistível.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Autoridade, superioridade e  <a href="#autoridade">↩️</a>
 </details>
 
 ###### Q.275 {#q275}
@@ -6798,6 +6798,10 @@ A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplício
 
 Visto que esses [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) dependem de uma causa física e da ação de certos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve [razão](https://pt.m.wikipedia.org/wiki/Razão) para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) é direta e espontânea.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Autoridade, providências para o bem público e  <a href="#autoridade">↩️</a>
+</details>
+
 #### 📄 Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
 
 ###### Q.484 {#q484}
@@ -8180,7 +8184,7 @@ Independe da [vontade](https://pt.m.wikipedia.org/wiki/Vontade) delas a força q
 > 👻 ▸ Certo, porquanto não pensam. É uma força mecânica da matéria, que atua sobre a matéria, sem que elas possam a isso opor-se.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Automatismo, matéria e  <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.589 {#q589}
@@ -8192,7 +8196,8 @@ Algumas plantas, como a sensitiva e a dioneia, por exemplo, executam movimentos 
 O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Automatismo, rejeição e  <a href="#automatismo">↩️</a><br>
+🏷️ Automatismo, transição e  <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.590 {#q590}
@@ -8202,7 +8207,7 @@ Não haverá nas plantas, como nos animais, um instinto de conservação, que as
 > 👻 ▸ Há, se quiserdes, uma espécie de instinto, dependendo isso da extensão que se dê ao significado desta palavra. É, porém, um instinto puramente mecânico. Quando, nas operações químicas, observais que dois corpos se reúnem, é que um ao outro convém; quer dizer: é que há entre eles afinidade. Ora, a isto não dais o nome de instinto.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Automatismo, conveniência e  <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.591 {#q591}
@@ -12063,7 +12068,7 @@ Figuremos dois avarentos, um dos quais nega a si mesmo o necessário e morre de 
 > 👻 ▸ O que goza, porque é mais egoísta do que avarento. O outro já recebeu parte do seu castigo.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Avareza, demonstrações da  <a href="#avareza">↩️</a>
 </details>
 
 ###### Q.902 {#q902}
@@ -12107,7 +12112,7 @@ Alguns autores hão publicado belíssimas obras de grande moral, que auxiliam o 
 > 👻 ▸ A moral sem as ações é o mesmo que a semente sem o trabalho. De que vos serve a semente, se não a fazeis dar frutos que vos alimentem? Grave é a culpa desses homens, porque dispunham de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) para compreender. Não praticando as máximas que ofereciam aos outros, renunciaram a colher-lhes os frutos.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Autor, pregação e  <a href="#autor">↩️</a>
 </details>
 
 ###### Q.906 {#q906}
@@ -12283,7 +12288,8 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 > 👻 ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24]  
 
 <details class="links"><summary>🔗</summary><br>
-↩️ Voltar para <a href="#q906">Q.906</a>
+↩️ Voltar para <a href="#q906">Q.906</a><br>
+🏷️ Autenticidade, autoconhecimento e  <a href="#autenticidade">↩️</a>
 </details>
 
 ###### Q.919.a {#q919a}
@@ -12305,7 +12311,8 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Ação, mérito e  <a href="#acao">↩️</a><br>
-🏷️ Agostinho, conselho de  <a href="#agostinho">↩️</a>
+🏷️ Agostinho, conselho de  <a href="#agostinho">↩️</a><br>
+🏷️ Avaliação, ações e atitudes do cotidiano em constante  <a href="#avaliacao">↩️</a>
 </details>
 
 ## 4. 🗃️ Esperanças e Consolações {#lde-4}

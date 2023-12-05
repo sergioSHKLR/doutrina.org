@@ -6,4 +6,7 @@ repository: sergioSHKLR/doutrina.org
 markdown: kramdown
 
 kramdown:
+  parse_block_html: false
+
+kramdown:
   input: Kramdown
