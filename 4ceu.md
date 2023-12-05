@@ -5,7 +5,7 @@ layout: 4-ceu
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
-*[ESE]: O Evangelho segundo o [Espiritismo][f4r]
+*[ESE]: O Evangelho segundo o Espiritismo
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 
@@ -58,20 +58,20 @@ layout: 4-ceu
 ><br>
 > header
 ><br>
-> 🔥 [O Céu e o Inferno](https://pt.m.wikipedia.org/wiki/O_Céu_e_o_Inferno_(espiritismo)){:target="ext"}  
+> 🔥 [O Céu e o Inferno](https://pt.m.wikipedia.org/wiki/O_Céu_e_o_Inferno_(espiritismo))  
 ><br>
 > Ou a justiça divina segundo o [Espiritismo][f4r]  
 ><br>
 > Exame comparado das doutrinas sobre a passagem da [vida][r4f] corporal à [vida][r4f] espiritual, sobre as penalidades e recompensas futuras, sobre os anjos e demônios, sobre as penas etc., seguido de numerosos exemplos acerca da situação real da [alma][q3f] durante e depois da [morte][q4x].  
 ><br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.  
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec).  
 ><br>
-> Tradução de [Manuel Quintão](https://pt.m.wikipedia.org/wiki/Manuel_Quintão){:target="ext"}  
+> Tradução de [Manuel Quintão](https://pt.m.wikipedia.org/wiki/Manuel_Quintão)  
 ><br>
-> Baseado no original [ISBN 978-85-7328-731-8](http://www.febnet.org.br/wp-content/uploads/2014/05/ceu-e-inferno-Manuel-Quintao.pdf){:target="_blank"}  
+> Baseado no original [ISBN 978-85-7328-731-8](http://www.febnet.org.br/wp-content/uploads/2014/05/ceu-e-inferno-Manuel-Quintao.pdf) 
 ><br>
 > Modificado para o consumo digital por Sergio de  
-> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+> ⭕ [shklr.org](https://shklr.org)  
 ><br>
 {:.grey-center}
 

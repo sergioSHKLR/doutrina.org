@@ -19,6 +19,7 @@ layout: 1-lde
 [Mt22]: https://pt.m.wikipedia.org/wiki/Mateus_22
 [Mt23]: https://pt.m.wikipedia.org/wiki/Mateus_23
 [Mt24]: https://pt.m.wikipedia.org/wiki/Mateus_24
+[Mt26]: https://pt.m.wikipedia.org/wiki/Mateus_26
 [Mt29]: https://pt.m.wikipedia.org/wiki/Mateus_29
 [ARC]: https://www.bible.com/pt/versions/212
 
@@ -68,7 +69,7 @@ layout: 1-lde
 ><br>
 > Princípios da [Doutrina]([f4r]) Espírita  
 ><br>
-> Sobre a imortalidade da [alma][q3f], a natureza dos [Espíritos][g4f] (👻) e suas relações com os homens, as leis morais, a [vida][m0q] presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos][g4f] superiores com o concurso de diversos [médiuns][c8r].  
+> Sobre a imortalidade da [alma][q3f], a natureza dos [Espíritos][g4f] (👻) e suas relações com os homens, as leis morais, a [vida][r4f] presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos][g4f] superiores com o concurso de diversos [médiuns][c8r].  
 ><br>
 > por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻)  
 ><br>
@@ -155,7 +156,7 @@ Sem discutir o [mérito](https://pt.m.wiktionary.org/wiki/mérito) de tais opini
 
 Na ausência de um vocábulo especial para tradução de cada uma das duas outras ideias a que corresponde a palavra alma, denominamos:
 
-**Princípio vital** o princípio da [vida][m0q] material e orgânica, qualquer que seja a fonte donde promane, princípio esse comum a todos os seres vivos, desde as plantas até o homem. Pois que pode haver vida com [exclusão](https://pt.m.wiktionary.org/wiki/exclusão) da faculdade de pensar, o princípio vital é coisa distinta e independente. A palavra **vitalidade** não daria a mesma ideia. Para uns o princípio vital é uma propriedade da matéria, um efeito que se produz achando-se a matéria em dadas circunstâncias. Segundo outros, e esta é a ideia mais comum, ele reside em um fluido especial, universalmente espalhado e do qual cada ser absorve e assimila uma parcela durante a vida, tal como os corpos inertes absorvem a luz. Esse seria então o **fluido vital** que, na opinião de alguns, em nada difere do fluido elétrico animalizado, ao qual também se dão os nomes de **[fluido magnético](https://pt.m.wikipedia.org/wiki/Fluido_magnético)**, **fluido nervoso** etc.
+**Princípio vital** o princípio da [vida][r4f] material e orgânica, qualquer que seja a fonte donde promane, princípio esse comum a todos os seres vivos, desde as plantas até o homem. Pois que pode haver vida com [exclusão](https://pt.m.wiktionary.org/wiki/exclusão) da faculdade de pensar, o princípio vital é coisa distinta e independente. A palavra **vitalidade** não daria a mesma ideia. Para uns o princípio vital é uma propriedade da matéria, um efeito que se produz achando-se a matéria em dadas circunstâncias. Segundo outros, e esta é a ideia mais comum, ele reside em um fluido especial, universalmente espalhado e do qual cada ser absorve e assimila uma parcela durante a vida, tal como os corpos inertes absorvem a luz. Esse seria então o **fluido vital** que, na opinião de alguns, em nada difere do fluido elétrico animalizado, ao qual também se dão os nomes de **[fluido magnético](https://pt.m.wikipedia.org/wiki/Fluido_magnético)**, **fluido nervoso** etc.
 
 Seja como for, um fato há que ninguém ousaria contestar, pois que resulta da observação: é que os seres orgânicos têm em si uma força íntima que determina o fenômeno da vida, enquanto essa força existe; que a vida material é comum a todos os seres orgânicos e independe da [inteligência][y2h] e do [pensamento](https://pt.m.wikipedia.org/wiki/Pensamento); que a [inteligência][y2h] e o pensamento são faculdades próprias de certas espécies orgânicas; finalmente, que entre as espécies orgânicas dotadas de [inteligência][y2h] e de pensamento há uma dotada também de um senso moral especial, que lhe dá incontestável superioridade sobre as outras: a espécie humana.
 
@@ -450,7 +451,7 @@ Mas, ponderam, como se explica que os tidos por [Espíritos][g4f] de ordem super
 
 A contradição, demais, nem sempre é tão [real](https://pt.m.wikipedia.org/wiki/Realidade) quanto possa parecer. Não vemos todos os dias homens que professam a mesma [ciência][h4t] [divergirem](https://pt.m.wiktionary.org/wiki/divergir) na definição que dão de uma coisa, quer empreguem termos diferentes, quer a encarem de pontos de vista diversos, embora seja sempre a mesma a ideia fundamental? Conte quem puder as definições que se têm dado de gramática! Acrescentaremos que a forma da resposta depende muitas vezes da forma da questão. [Pueril](https://pt.m.wiktionary.org/wiki/pueril), portanto, seria apontar contradição onde frequentemente só há diferença de palavras. Os [Espíritos][g4f] superiores não se preocupam absolutamente com a forma. Para eles, o fundo do pensamento é tudo.
 
-Tomemos, por exemplo, a definição de [alma][q3f]. Carecendo este termo de uma [acepção](https://pt.m.wiktionary.org/wiki/acepção) invariável, compreende-se que os [Espíritos][g4f], como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da [vida][m0q], outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu [ponto de vista](https://pt.m.wiktionary.org/wiki/ponto_de_vista). Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **[Deus][c5m]**. Será: o princípio de todas as coisas, o criador do [Universo](https://pt.m.wikipedia.org/wiki/Universo), a [inteligência][y2h] suprema, o infinito, o grande [Espírito][g4f] etc. Em definitiva, será sempre [Deus][c5m]. Citemos, finalmente, a classificação dos [Espíritos][g4f]. Eles formam uma série ininterrupta, desde o mais [ínfimo](https://pt.m.wiktionary.org/wiki/ínfimo) grau até o grau superior. A classificação é, pois, [arbitrária](https://pt.m.wiktionary.org/wiki/arbitrário). Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a [Botânica](https://pt.m.wikipedia.org/wiki/Botânica) pelo sistema de [Linneu](https://pt.m.wikipedia.org/wiki/Lineu), ou pelo de [Jussieu](https://pt.m.wikipedia.org/wiki/Antoine_Laurent_de_Jussieu), ou pelo de [Tournefort](https://pt.m.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort), nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma [similitude](https://pt.m.wiktionary.org/wiki/similitude) que escapara a um primeiro exame.
+Tomemos, por exemplo, a definição de [alma][q3f]. Carecendo este termo de uma [acepção](https://pt.m.wiktionary.org/wiki/acepção) invariável, compreende-se que os [Espíritos][g4f], como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da [vida][r4f], outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu [ponto de vista](https://pt.m.wiktionary.org/wiki/ponto_de_vista). Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **[Deus][c5m]**. Será: o princípio de todas as coisas, o criador do [Universo](https://pt.m.wikipedia.org/wiki/Universo), a [inteligência][y2h] suprema, o infinito, o grande [Espírito][g4f] etc. Em definitiva, será sempre [Deus][c5m]. Citemos, finalmente, a classificação dos [Espíritos][g4f]. Eles formam uma série ininterrupta, desde o mais [ínfimo](https://pt.m.wiktionary.org/wiki/ínfimo) grau até o grau superior. A classificação é, pois, [arbitrária](https://pt.m.wiktionary.org/wiki/arbitrário). Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a [Botânica](https://pt.m.wikipedia.org/wiki/Botânica) pelo sistema de [Linneu](https://pt.m.wikipedia.org/wiki/Lineu), ou pelo de [Jussieu](https://pt.m.wikipedia.org/wiki/Antoine_Laurent_de_Jussieu), ou pelo de [Tournefort](https://pt.m.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort), nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma [similitude](https://pt.m.wiktionary.org/wiki/similitude) que escapara a um primeiro exame.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -10891,7 +10892,7 @@ Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos o
 > 👻 ▸ O progresso completo constitui o objetivo. Os povos, porém, como os indivíduos, só passo a passo o atingem. Enquanto não se lhes haja desenvolvido o senso moral, pode mesmo acontecer que se sirvam da [inteligência][y2h] para a prática do mal. O moral e a [inteligência][y2h] são duas forças que só com o tempo chegam a equilibrar-se. 
 
 <details class="links"><summary>🔗</summary><br> 
-👉 Veja <a href="#q365](#q365) a [Q.751](#q751)
+👉 Veja <a href="#q365">Q.365</a> a <a href="#q751">Q.751</a>
 </details>
 
 ###### Q.781 {#q781}
@@ -11874,7 +11875,7 @@ Há homens que afrontam os perigos dos combates, persuadidos, de certo modo, de 
 > 👻 ▸ Muito amiúde tem o homem o pressentimento do seu fim, como pode ter o de que ainda não morrerá. Esse pressentimento lhe vem dos [Espíritos][g4f] seus protetores, que assim o advertem para que esteja pronto a partir, ou lhe fortalecem a coragem nos momentos em que mais dela necessita. Pode vir-lhe também da intuição que tem da existência que escolheu, ou da missão que aceitou e que sabe ter que cumprir. 
 
 <details class="links"><summary>🔗</summary><br>
-👉 Veja [Q.411](#q411) a [Q.522](#q522)
+👉 Veja <a href="#q411">Q.411</a> a <a href="#q522">Q.522</a>
 </details>
 
 ###### Q.858 {#q858}
@@ -14308,7 +14309,7 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 > É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
 {:.grey}
 
-Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.[^27]
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. [^27]
 
 A Editora
 {:.author}
@@ -14953,3 +14954,5 @@ Avoengos ver Antepassados
 [^25]: N.E.: Na 2ª impressão da 2ª edição de 👻 [O Livro dos Espíritos][z2t], as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
 
 [^26]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+
+[^27]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).

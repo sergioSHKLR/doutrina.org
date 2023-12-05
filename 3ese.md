@@ -1,5 +1,5 @@
 ---
-title: 🕊️ O Evangelho segundo o [Espiritismo][f4r]
+title: 🕊️ O Evangelho segundo o Espiritismo
 layout: 3-ese
 ---
 
@@ -9,7 +9,7 @@ layout: 3-ese
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
-*[ESE]: O Evangelho segundo o [Espiritismo][f4r]
+*[ESE]: O Evangelho segundo o Espiritismo
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 
@@ -79,7 +79,7 @@ layout: 3-ese
 [v6l]: https://pt.m.wikipedia.org/wiki/Virtude
 [o8e]: https://pt.m.wikipedia.org/wiki/Vontade
 
-# 🕊️ O Evangelho segundo o [Espiritismo][f4r]
+# 🕊️ O Evangelho segundo o Espiritismo
 
 ## 0. 🗃️ Pré-textual
 

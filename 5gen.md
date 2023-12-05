@@ -5,7 +5,7 @@ layout: 5-gen
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
-*[ESE]: O Evangelho segundo o [Espiritismo][f4r]
+*[ESE]: O Evangelho segundo o Espiritismo
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 
@@ -58,20 +58,20 @@ layout: 5-gen
 ><br>
 > Ética Espírita  
 ><br>
-> 🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese){:target="ext"}  
+> 🌱 [A Gênese](https://pt.m.wikipedia.org/wiki/A_Gênese)  
 ><br>
 > Com a explicação das máximas morais do [Cristo][g0s] em concordância com o [Espiritismo][f4r] e suas aplicações às diversas circunstâncias da [vida][r4f].  
 ><br>
 > Fé inabalável só o é a que pode encarar frente a frente a [razão][f8m], em todas as épocas da humanidade.  
 ><br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.  
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) 
 ><br>
-> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}.  
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
 ><br>
-> Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="_blank"}  
+> Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf)  
 ><br>
 > Modificado para o consumo digital por Sergio de  
-> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+> ⭕ [shklr.org](https://shklr.org)  
 ><br> 
 {:.grey-center}
 

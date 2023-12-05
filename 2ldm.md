@@ -3,9 +3,9 @@ title: ✒️ O Livro dos [médiuns][c8r]
 layout: 2-ldm
 ---
 
-*[LDE]: **O Livro dos Espíritos**
-*[LDM]: O Livro dos [médiuns][c8r]
-*[ESE]: O Evangelho segundo o [Espiritismo][f4r]
+*[LDE]: O Livro dos Espíritos
+*[LDM]: O Livro dos Médiuns
+*[ESE]: O Evangelho segundo o Espiritismo
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 
@@ -54,18 +54,18 @@ layout: 2-ldm
 ><br>
 > [Espiritismo][f4r] Experimental   
 ><br>
-> ✒️ [O Livro dos [médiuns][c8r]](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){:target="ext"}  
+> ✒️ [O Livro dos [médiuns][c8r]](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns)
 ><br>
-> Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da [Mediunidade][c8r], as dificuldades e os tropeços que se podem encontrar na prática do [Espiritismo][f4r], constituindo o seguimento de 👻 [**O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}.  
+> Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da [Mediunidade][c8r], as dificuldades e os tropeços que se podem encontrar na prática do [Espiritismo][f4r], constituindo o seguimento de 👻 [**O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo)  
 ><br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.  
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec)
 ><br>
-> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){:target="ext"}  
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)
 ><br>
-> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){:target="_blank"}  
+> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf) 
 ><br>
 > Modificado para o consumo digital por Sergio de  
-> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+> ⭕ [shklr.org](https://shklr.org)
 ><br>
 {:.grey-center}
 
