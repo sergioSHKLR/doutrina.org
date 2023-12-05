@@ -9,10 +9,6 @@ layout: 4-ceu
 *[CEU]: O Céu e o Inferno
 *[GEN]: A Gênese
 
-[0]: https://pt.m.wikipedia.org/wiki/Deus
-[1]: https://pt.m.wikipedia.org/wiki/Jesus
-[2]: https://pt.m.wikipedia.org/wiki/Cristo
-[3]: https://pt.m.wikipedia.org/wiki/Espiritismo
 [Mt]: https://pt.m.wikipedia.org/wiki/Mateus_(evangelista)
 [ARC]: https://www.bible.com/pt/versions/212
 
