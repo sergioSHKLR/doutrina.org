@@ -2048,7 +2048,7 @@ Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial
 A palavra **anjo** desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) bom e o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) mau; o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) de luz e o [anjo](https://pt.m.wikipedia.org/wiki/Anjo) das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo, demônio e  <a href="#anjo">↩️</a>
 </details>
 
 ###### Q.129 {#q129}
@@ -2058,7 +2058,8 @@ Os [anjos](https://pt.m.wikipedia.org/wiki/Anjo) hão percorrido todos os graus 
 > 👻 ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à perfeição.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo, demônio e  <a href="#anjo">↩️</a><br>
+🏷️ Anjo, prefeição e  <a href="#anjo">↩️</a>
 </details>
 
 ###### Q.130 {#q130}
@@ -2068,7 +2069,7 @@ Sendo errônea a opinião dos que admitem a existência de seres criados perfeit
 > 👻 ▸ Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo, demônio e  <a href="#anjo">↩️</a>
 </details>
 
 ###### Q.131 {#q131}
@@ -2093,6 +2094,11 @@ Não temos visto a [Ciência](https://pt.m.wikipedia.org/wiki/Ciência) contradi
 Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram na existência de seres perfeitos desde toda a eternidade, tomaram os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) inferiores por seres perpetuamente maus. Por demônios se devem entender os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) impuros, que muitas vezes não valem mais do que as entidades designadas por esse nome, mas com a diferença de ser transitório o estado deles. São [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) imperfeitos, que se rebelam contra as provas que lhes tocam e que, por isso, as sofrem mais longamente, porém, que, a seu turno, chegarão a sair daquele estado, quando o quiserem. Poder-se-ia, pois, aceitar o termo demônio com esta restrição. Como o entendem atualmente, dando-se-lhe um sentido exclusivo, ele induziria em erro, com o fazer crer na existência de seres especiais criados para o mal.
 
 Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](https://pt.m.wikipedia.org/wiki/Verdade) etc. Os modernos representaram os anjos, os puros [Espíritos](https://pt.m.wikipedia.org/wiki/Espíritos), por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ Anjo, alegoria representativa de  <a href="#anjo">↩️</a><br>
+🏷️ Anjo, demônio e  <a href="#anjo">↩️</a>
+</details>
 
 ### 2-02. 🗂️ Encarnação {#lde-2-02}
 
@@ -6859,7 +6865,7 @@ Há [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) que se ligam particu
 > 👻 ▸ Há o irmão espiritual, o que chamais o bom [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) ou o bom gênio.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Anjo da guarda  <a href="#term">↩️</a>
 </details>
 
 ###### Q.490 {#q490}
@@ -8188,7 +8194,7 @@ Se, pelo que toca à [inteligência](https://pt.m.wikipedia.org/wiki/Inteligênc
 > 👻 ▸ A este respeito é completo o desacordo entre os vossos filósofos. Querem uns que o homem seja um animal e outros que o animal seja um homem. Estão todos em erro. O homem é um ser à parte, que desce muito baixo algumas vezes e que pode também elevar-se muito alto. Pelo físico, é como os animais e menos bem-dotado do que muitos destes. A Natureza lhes deu tudo o que o homem é obrigado a **inventar com a sua [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência)**, para satisfação de suas necessidades e para sua conservação. Seu corpo se destrói, como o dos animais, é certo, mas ao seu [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) está assinado um destino que só ele pode compreender, porque só ele é inteiramente livre. Pobres homens, que vos rebaixais mais do que os brutos! não sabeis distinguir-vos deles? Reconhecei o homem pela faculdade de pensar em [Deus][0].
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, homem e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.593 {#q593}
@@ -8200,7 +8206,8 @@ Poder-se-á dizer que os animais só obram por instinto?
 Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam [vontade](https://pt.m.wikipedia.org/wiki/Vontade) de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência), mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, instinto e  <a href="#animais">↩️</a><br>
+🏷️ Animais, inteligência rudimentar e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.594 {#q594}
@@ -8221,6 +8228,10 @@ Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguagem 
 
 Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) entre si se comuniquem sem o auxílio da palavra articulada?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Animais, comunicação entre os  <a href="#animais">↩️</a>
+</details>
+
 ###### Q.595 {#q595}
 
 Gozam de livre-arbítrio os animais, para a prática dos seus atos?
@@ -8228,7 +8239,8 @@ Gozam de livre-arbítrio os animais, para a prática dos seus atos?
 > 👻 ▸ Os animais não são simples máquinas, como supondes. Contudo, a liberdade de ação, de que desfrutam, é limitada pelas suas necessidades e não se pode comparar à do homem. Sendo muitíssimo inferiores a este, não têm os mesmos deveres que ele. A liberdade, possuem-na restrita aos atos da vida material.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, liberdade de ação dos  <a href="#animais">↩️</a><br>
+🏷️ Animais, livre-arbítrio e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.596 {#q596}
@@ -8248,7 +8260,7 @@ Pois que os animais possuem uma [inteligência](https://pt.m.wikipedia.org/wiki/
 > 👻 ▸ Há e que sobrevive ao corpo.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, princípio sobrevivente ao corpo dos  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.597.a {#q597a}
@@ -8268,7 +8280,7 @@ Após a morte, conserva a [alma](https://pt.m.wikipedia.org/wiki/Alma) dos anima
 > 👻 ▸ Conserva sua individualidade; quanto à [consciência](https://pt.m.wikipedia.org/wiki/Consciência) do seu eu, não. A vida [inteligente](https://pt.m.wikipedia.org/wiki/Inteligência) lhe permanece em estado latente.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, individualidade e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.599 {#q599}
@@ -8278,7 +8290,7 @@ Após a morte, conserva a [alma](https://pt.m.wikipedia.org/wiki/Alma) dos anima
 > 👻 ▸ Não, pois que lhe falta livre-arbítrio.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, encarnação e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.600 {#q600}
@@ -8288,7 +8300,8 @@ Sobrevivendo ao corpo em que habitou, a [alma](https://pt.m.wikipedia.org/wiki/A
 > 👻 ▸ Fica numa espécie de erraticidade, pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A [consciência](https://pt.m.wikipedia.org/wiki/Consciência) de si mesmo é o que constitui o principal atributo do [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos). O do animal, depois da morte, é classificado pelos [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ Alma, animais e  <a href="#alma">↩️</a>
+🏷️ Alma, animais e  <a href="#alma">↩️</a><br>
+🏷️ Animais, alma dos  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.601 {#q601}
@@ -8299,6 +8312,10 @@ Os animais estão sujeitos, como o homem, a uma lei progressiva?
 
 Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Animais, mundos superiores e  <a href="#animais">↩️</a>
+</details>
+
 ###### Q.602 {#q602}
 
 Os animais progridem, como o homem, por ato da própria vontade, ou pela força das coisas?
@@ -8306,7 +8323,8 @@ Os animais progridem, como o homem, por ato da própria vontade, ou pela força 
 > 👻 ▸ Pela força das coisas, [razão](https://pt.m.wikipedia.org/wiki/Razão) por que não estão sujeitos à expiação.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, evolução dos  <a href="#animais">↩️</a><br>
+🏷️ Animais, expiação e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.603 {#q603}
@@ -8316,7 +8334,8 @@ Nos mundos superiores, os animais conhecem a [Deus][0]?
 > 👻 ▸ Não. Para eles o homem é um deus, como outrora os [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) eram deuses para o homem.
 
 <details class="links"><summary>🔗</summary><br>
-↩️ Voltar para <a href="#q668">Q.668</a>
+↩️ Voltar para <a href="#q668">Q.668</a><br>
+🏷️ Animais, conhecimento de Deus nos mundos superiores e os  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.604 {#q604}
@@ -8336,7 +8355,7 @@ A [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) é então uma p
 > 👻 ▸ É, porém os animais só possuem a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) da vida material. No homem, a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) proporciona a vida moral.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, inteligência e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.605 {#q605}
@@ -9157,7 +9176,8 @@ De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Adoração, lei de  <a href="#adoracao">↩️</a><br>
-🏷️ Adoração, sacrifício animal e  <a href="#adoracao">↩️</a>
+🏷️ Adoração, sacrifício animal e  <a href="#adoracao">↩️</a><br>
+🏷️ Animais, sacrifício de  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.669.b {#q669b}
@@ -9253,7 +9273,7 @@ Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 > 👻 ▸ Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência) de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do [Criador](https://pt.m.wikipedia.org/wiki/Deus) e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) quase nunca lhe descubrais o resultado imediato.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, trabalho dos  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.678 {#q678}
@@ -9910,7 +9930,9 @@ Em seu estado atual, tem o homem direito ilimitado de destruição sobre os anim
 > 👻 ▸ Tal direito se acha regulado pela necessidade que ele tem de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ Abuso, direito e  <a href="#abuso">↩️</a>
+🏷️ Abuso, direito e  <a href="#abuso">↩️</a><br>
+🏷️ Animais, destruição sobre os  <a href="#animais">↩️</a><br>
+🏷️ Animais, respeito aos  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.735 {#q735}
@@ -10384,7 +10406,7 @@ Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde qu
 > 👻 ▸ Os animais vivem vida material e não vida moral. A ternura da mãe pelos filhos tem por princípio o instinto de conservação dos seres que ela deu à luz. Logo que esses seres podem cuidar de si mesmos, está ela com a sua tarefa concluída; nada mais lhe exige a Natureza. Por isso é que os abandona, a fim de se ocupar com os recém-vindos.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Animais, vida dos  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.774 {#q774}
@@ -14065,7 +14087,7 @@ expiação e – [Q.602](#q602)
 
 homem e – [Q.592](#q592)  
 
-individualidade e – [Q.598](#qX)  
+individualidade e – [Q.598](#q598)  
 
 instinto e – [Q.593](#q593)  
 
@@ -14081,7 +14103,7 @@ mundos superiores e – [Q.601](#q601)
 
 princípio sobrevivente ao corpo dos – [Q.597](#q597)  
 
-respeito aos – [Q.734](#q73669a)  
+respeito aos – [Q.734](#q734a)  
 
 sacrifício de – [Q.669a](#q669a)  
 
