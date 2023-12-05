@@ -42,6 +42,7 @@ layout: 4-ceu
 [i9b]: https://pt.m.wikipedia.org/wiki/Panteísmo
 [f8m]: https://pt.m.wikipedia.org/wiki/Razão
 [i8d]: https://pt.m.wikipedia.org/wiki/Sabedoria
+[g5i]: https://pt.m.wikipedia.org/wiki/Terra
 [a2j]: https://pt.m.wikipedia.org/wiki/Universo
 [x8k]: https://pt.m.wikipedia.org/wiki/Verdade
 [r4f]: https://pt.m.wikipedia.org/wiki/Vida
