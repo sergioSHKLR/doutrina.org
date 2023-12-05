@@ -4491,7 +4491,7 @@ Conservarão ressentimento um do outro, no mundo dos [Espíritos](https://pt.m.w
 Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Antipatia, e simpatia  <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.294 {#q294}
@@ -5682,7 +5682,7 @@ E a repulsão instintiva que se experimenta por algumas pessoas, donde se origin
 > 👻 ▸ São [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) antipáticos que se adivinham e reconhecem, sem se falarem.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Antipatia, instintiva <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.390 {#q390}
@@ -5692,7 +5692,7 @@ A antipatia instintiva é sempre sinal de natureza má?
 > 👻 ▸ De não simpatizarem um com o outro, não se segue que dois [Espíritos](https://pt.m.wikipedia.org/wiki/Espírito) sejam necessariamente maus. A antipatia, entre eles, pode derivar de diversidade no modo de pensar. À proporção, porém, que se forem elevando, essa divergência irá desaparecendo e a antipatia deixará de existir.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Antipatia, instintiva e retardamento na chegada à perfeição  <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.391 {#q391}
@@ -5700,6 +5700,10 @@ A antipatia instintiva é sempre sinal de natureza má?
 A antipatia entre duas pessoas nasce primeiro na que tem pior [Espírito](https://pt.m.wikipedia.org/wiki/Espíritos), ou na que o tem melhor?
 
 > 👻 ▸ Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ Antipatia, causa e efeitos da <a href="#antipatia">↩️</a>
+</details>
 
 #### 📄 Esquecimento do passado {#lde-2-07-08}
 
@@ -8710,13 +8714,17 @@ Por que a [verdade](https://pt.m.wikipedia.org/wiki/Verdade) não foi sempre pos
 >
 > Jamais permitiu [Deus][0] que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma [ciência](https://pt.m.wikipedia.org/wiki/Ciência) sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes [fenômenos](https://pt.m.wiktionary.org/wiki/fenómeno), deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de [filosofia](https://pt.m.wikipedia.org/wiki/Filosofia), nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o [Espiritismo][3] dá de uma imensidade de coisas que até agora se vos afiguraram sem [razão](https://pt.m.wikipedia.org/wiki/Razão) alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ Antiguidade, teor das comunicações mediúnicas na  <a href="#antiguidade">↩️</a>
+</details>
+
 #### 📄 O bem e o mal {#lde-3-01-03}
 
 ###### Q.629 {#q629}
 
 Que definição se pode dar da moral?
 
-> 👻 ▸ A moral é a regra de [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) proceder, isto é, de distinguir o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) do mal. Funda-se na observância da Lei de [Deus][0]. O homem procede [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) quando tudo faz pelo [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) de todos, porque então cumpre a Lei de [Deus][0].
+> 👻 ▸ A moral é a regra de bem proceder, isto é, de distinguir o [bem](https://pt.m.wikipedia.org/wiki/Bem_(filosofia)) do mal. Funda-se na observância da Lei de [Deus][0]. O homem procede bem quando tudo faz pelo bem de todos, porque então cumpre a Lei de Deus.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -12569,7 +12577,8 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 <details class="links"><summary>🔗</summary><br>
 🏷️ Afeição, física e espiritual  <a href="#afeicao">↩️</a><br>
 🏷️ Alma, afeição do corpo e da  <a href="#alma">↩️</a><br>
-🏷️ Amor, reciprocidade no  <a href="#amor">↩️</a>
+🏷️ Amor, reciprocidade no  <a href="#amor">↩️</a><br>
+🏷️ Antipatia, união e <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.940 {#q940}
@@ -12579,7 +12588,7 @@ Não constitui igualmente fonte de dissabores, tanto mais amargos quanto envenen
 > 👻 ▸ Amaríssimos, com efeito. Essa, porém, é uma das infelicidades de que sois, as mais das vezes, a causa principal. Em primeiro lugar, o erro é das vossas leis. Julgas, porventura, que [Deus][0] te constranja a permanecer junto dos que te desagradam? Depois, nessas uniões, ordinariamente buscais a satisfação do orgulho e da ambição, mais do que a ventura de uma afeição mútua. Sofreis então as consequências dos vossos prejuízos.
 
 <details class="links"><summary>🔗</summary><br>
-🏷️ label  <a href="#term">↩️</a>
+🏷️ Antipatia, casamento e  <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.940.a {#q940a}
