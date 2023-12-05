@@ -2532,7 +2532,7 @@ No momento da morte, a [alma](https://pt.m.wikipedia.org/wiki/Alma) sente, algum
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Alma, retorno ao mundo espiritual  <a href="#alma">↩️</a>
-</details
+</details>
 
 ###### Q.158 {#q158}
 
