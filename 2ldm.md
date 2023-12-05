@@ -1,5 +1,5 @@
 ---
-title: ✒️ O Livro dos [médiuns][c8r]
+title: ✒️ O Livro dos Médiuns
 layout: 2-ldm
 ---
 
@@ -45,7 +45,7 @@ layout: 2-ldm
 [v6l]: https://pt.m.wikipedia.org/wiki/Virtude
 [o8e]: https://pt.m.wikipedia.org/wiki/Vontade
 
-# ✒️ O Livro dos [médiuns][c8r]
+# ✒️ O Livro dos Médiuns
 
 ## 0. 🗃️ Pré-textual
 
@@ -54,15 +54,15 @@ layout: 2-ldm
 ><br>
 > [Espiritismo][f4r] Experimental   
 ><br>
-> ✒️ [O Livro dos [médiuns][c8r]](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns)
+> ✒️ [O Livro dos Médiuns](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns)  
 ><br>
-> Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da [Mediunidade][c8r], as dificuldades e os tropeços que se podem encontrar na prática do [Espiritismo][f4r], constituindo o seguimento de 👻 [**O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo)  
+> Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da [Mediunidade][c8r], as dificuldades e os tropeços que se podem encontrar na prática do [Espiritismo][f4r], constituindo o seguimento de 👻 [**O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo)    
 ><br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec)
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec)  
 ><br>
-> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)
+> Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
 ><br>
-> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf) 
+> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf)  
 ><br>
 > Modificado para o consumo digital por Sergio de  
 > ⭕ [shklr.org](https://shklr.org)
@@ -416,7 +416,7 @@ Aos que quiserem adquirir essas noções preliminares pela leitura das nossas ob
 
 - 👻 **O Livro dos Espíritos**. Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua [Filosofia][n2k] e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da  [vida][r4f] de Além-Túmulo. Quem o lê compreende que o [Espiritismo][f4r] objetiva um fim sério, que não constitui frívolo passatempo.
 
-- ✒️ **O Livro dos [médiuns][c8r]**. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os [médiuns][c8r] como para os evocadores, e o complemento de 👻 **O Livro dos Espíritos**.
+- ✒️ **O Livro dos Médiuns**. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os [médiuns][c8r] como para os evocadores, e o complemento de 👻 **O Livro dos Espíritos**.
 
 - 📓 **Revista Espírita**. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de 👻 **O Livro dos Espíritos**. [^5]
 
@@ -4345,7 +4345,7 @@ Não se segue daí que dos Espíritos não se possam obter úteis esclarecimento
 
 #### 287
 
-Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, 👻 **O Livro dos Espíritos** e O livro dos [médiuns][c8r] ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
+Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, 👻 **O Livro dos Espíritos** e O Livro dos Médiuns ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
 
 Têm ainda outra vantagem: a de concorrerem para o desmascaramento dos Espíritos mistificadores que, mais pretensiosos do que sábios, raramente suportam a prova das perguntas feitas com cerrada lógica, por meio das quais o interrogante os leva aos seus últimos redutos. Os Espíritos Superiores, como nada têm que temer de semelhante questionário, são os primeiros a provocar explicações sobre os pontos obscuros. Os outros, ao contrário, receando ter que se haver com antagonistas mais fortes, cuidadosamente as evitam. Por isso mesmo, em geral, recomendam aos [médiuns][c8r], que eles desejam dominar, e aos quais querem impor suas utopias, se abstenham de toda controvérsia a propósito de seus ensinos.
 
@@ -5712,7 +5712,7 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 
 1. 👻 **O Livro dos Espíritos** (1857),
 
-2. ✒️ **O Livro dos [médiuns][c8r]** (1861),
+2. ✒️ **O Livro dos Médiuns** (1861),
 
 3. 🕊️ **O Evangelho segundo o [Espiritismo][f4r]** (1864),
 

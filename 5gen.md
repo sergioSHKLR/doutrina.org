@@ -64,7 +64,7 @@ layout: 5-gen
 ><br>
 > Fé inabalável só o é a que pode encarar frente a frente a [razão][f8m], em todas as épocas da humanidade.  
 ><br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) 
+> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec)  
 ><br>
 > Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
 ><br>
