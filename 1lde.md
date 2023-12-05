@@ -52,7 +52,6 @@ layout: 1-lde
 [a2j]: https://pt.m.wikipedia.org/wiki/Universo
 [x8k]: https://pt.m.wikipedia.org/wiki/Verdade
 [r4f]: https://pt.m.wikipedia.org/wiki/Vida
-[m0q]: https://pt.m.wikipedia.org/wiki/Vida
 [v6l]: https://pt.m.wikipedia.org/wiki/Virtude
 [o8e]: https://pt.m.wikipedia.org/wiki/Vontade
 
