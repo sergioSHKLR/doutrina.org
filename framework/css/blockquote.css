@@ -38,6 +38,7 @@
 
 #col2-body blockquote.grey em {
     color: inherit !important;
+    font-weight: 700 !important;
 }
 
 #col2-body blockquote.bible::first-letter,

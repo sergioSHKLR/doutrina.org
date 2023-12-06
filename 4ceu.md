@@ -56,9 +56,9 @@ layout: 4-ceu
 ### 0-01. 🗂️ Folha de rosto {#ceu-0-01}
 
 ><br>
-> header
+> header  
 ><br>
-> 🔥 [O Céu e o Inferno](https://pt.m.wikipedia.org/wiki/O_Céu_e_o_Inferno_(espiritismo))  
+> 🔥 [*O Céu e o Inferno*](https://pt.m.wikipedia.org/wiki/O_Céu_e_o_Inferno_(espiritismo))  
 ><br>
 > Ou a justiça divina segundo o [Espiritismo][f4r]  
 ><br>
@@ -1516,7 +1516,7 @@ Do que precede se infere que os anjos decaídos pertenciam a uma categoria menos
 
 E ainda há uma outra que é, certamente, a mais séria e a mais grave.
 
-Dizem: “Este plano (a intervenção do [Cristo][g0s]), concebido desde toda a eternidade, foi manifestado aos anjos muito antes da sua execução.” [Deus][c5m] sabia, portanto, e de toda a eternidade, que os anjos, tanto quanto os homens, teriam necessidade dessa intervenção. Ainda mais: o [Deus][c5m] onisciente sabia que alguns dentre esses anjos viriam a falir, arcando com a eterna condenação e arrastando a igual sorte uma parte da humanidade. E assim, de caso pensado, previamente condenava o gênero humano, a sua própria criação. Deste raciocínio não há fugir, porquanto de outro modo teríamos que admitir a inconsciência divina, apregoando a não presciência de [Deus][c5m]. Para nós é impossível identificar uma tal criação com a soberana bondade. Em ambos os casos vemos a negação de atributos, sem a plenitude absoluta dos quais [Deus][c5m] não seria [Deus][c5m].
+Dizem: “Este plano (a intervenção do [Cristo][g0s], concebido desde toda a eternidade, foi manifestado aos anjos muito antes da sua execução.” [Deus][c5m] sabia, portanto, e de toda a eternidade, que os anjos, tanto quanto os homens, teriam necessidade dessa intervenção. Ainda mais: o [Deus][c5m] onisciente sabia que alguns dentre esses anjos viriam a falir, arcando com a eterna condenação e arrastando a igual sorte uma parte da humanidade. E assim, de caso pensado, previamente condenava o gênero humano, a sua própria criação. Deste raciocínio não há fugir, porquanto de outro modo teríamos que admitir a inconsciência divina, apregoando a não presciência de [Deus][c5m]. Para nós é impossível identificar uma tal criação com a soberana bondade. Em ambos os casos vemos a negação de atributos, sem a plenitude absoluta dos quais [Deus][c5m] não seria [Deus][c5m].
 
 ###### 12
 
@@ -2893,7 +2893,7 @@ O [Espírito][g4f] responde a uma reflexão sobre sua [morte][q4x] inesperada, e
 
 Evocação:
 
-👻 ▸ Acudo com prazer ao vosso chamado, senhora. Tendes [razão][f8m]; a perturbação espiritual não existe para mim (isso correspondia ao pensamento da [médium][c8r]); exilado voluntário, na Terra, onde devia lançar a primeira semente sólida das grandes verdades que neste momento envolvem o mundo, eu tive sempre a [consciência][h7z] da pátria espiritual e depressa me reconheci entre irmãos.
+👻 ▸ Acudo com prazer ao vosso chamado, senhora. Tendes [razão][f8m]; a perturbação espiritual não existe para mim (isso correspondia ao pensamento da [médium][c8r]; exilado voluntário, na Terra, onde devia lançar a primeira semente sólida das grandes verdades que neste momento envolvem o mundo, eu tive sempre a [consciência][h7z] da pátria espiritual e depressa me reconheci entre irmãos.
 
 - Agradeço a vossa presença, embora não creia que o simples desejo de conversar convosco determinasse a vossa vinda; deve haver necessariamente uma tão grande diferença entre nós, que só em considerá-la sinto-me possuído de respeito.
 
@@ -5719,24 +5719,24 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 ### 3.01 📄 Nota explicativa {#ceu-3-01}
 
-> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à [razão][f8m]. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do [Cristo][g0s], olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
+> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à [razão][f8m]. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do [Cristo][g0s], olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 *Revista Espírita* de 1868)
 {:.grey}
 
 A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. 👻 **O Livro dos Espíritos** (1857),
+1. 👻 *O Livro dos Espíritos* (1857),
 
-2. ✒️ **O Livro dos Médiuns** (1861),
+2. ✒️ *O Livro dos Médiuns* (1861),
 
 3. 🕊️ **O Evangelho segundo o [Espiritismo][f4r]** (1864),
 
-4. 🔥 **O Céu e o Inferno** (1865),
+4. 🔥 *O Céu e o Inferno* (1865),
 
-5. 🌱 **A Gênese** (1868),
+5. 🌱 *A Gênese* (1868),
 
-além da obra 🔍 **O Que é o [Espiritismo][f4r]** (1859), de uma série de opúsculos e 136 edições da 📓 **Revista Espírita** (de janeiro de 1858 a abril de 1869). Após sua [morte][q4x], foi editado o livro 🪦 **Obras Póstumas** (1890).
+além da obra 🔍 **O Que é o [Espiritismo][f4r]** (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua [morte][q4x], foi editado o livro 🪦 *Obras Póstumas* (1890).
 
 O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
 
@@ -5750,46 +5750,49 @@ O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básic
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de [civilização][t2q], vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
 
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de [Ciência][h4t], assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 **O Livro dos Espíritos** — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda [ciência][h4t] nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto [moral][h4c].
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de [Ciência][h4t], assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda [ciência][h4t] nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto [moral][h4c].
 
 O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
-Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, [razão][f8m] pela qual afirmou que o [Espiritismo][f4r] permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 **Revista Espírita**, 1862). De fato, as leis universais do [amor][c7p], da [caridade][c5q], da imortalidade da [alma][q3f], da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, [razão][f8m] pela qual afirmou que o [Espiritismo][f4r] permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 *Revista Espírita*, 1862). De fato, as leis universais do [amor][c7p], da [caridade][c5q], da imortalidade da [alma][q3f], da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
-> O corpo deriva do corpo, mas o [Espírito][g4f] não procede do [Espírito][g4f]. Entre os descendentes das raças apenas há consanguinidade. (👻 **O Livro dos Espíritos**, [`LDE-q207`](#LDE-q207))
+> O corpo deriva do corpo, mas o [Espírito][g4f] não procede do [Espírito][g4f]. Entre os descendentes das raças apenas há consanguinidade. (👻 *O Livro dos Espíritos*, [`LDE-q207`](#LDE-q207))
 > 
-> [...] o [Espiritismo][f4r], restituindo ao [Espírito][g4f] o seu verdadeiro papel na Criação, constatando a superioridade da [inteligência][y2h] sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 **Revista Espírita**, 1861)
+> [...] o [Espiritismo][f4r], restituindo ao [Espírito][g4f] o seu verdadeiro papel na Criação, constatando a superioridade da [inteligência][y2h] sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 *Revista Espírita*, 1861)
 > 
-> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a [vida][r4f] material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do [Espírito][g4f], preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a [vida][r4f] corporal não passa de um incidente, uma das fases da [vida][r4f] do [Espírito][g4f], necessária ao seu adiantamento intelectual e [moral][h4c]; que em vista desse avanço o [Espírito][g4f] pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o [Espiritismo][f4r]. Vós que negais a existência do [Espírito][g4f] para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a [vida][r4f] presente, repudiais o único princípio sobre o qual é fundada, com [razão][f8m], a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 **Revista Espírita**, 1867)
+> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a [vida][r4f] material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do [Espírito][g4f], preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a [vida][r4f] corporal não passa de um incidente, uma das fases da [vida][r4f] do [Espírito][g4f], necessária ao seu adiantamento intelectual e [moral][h4c]; que em vista desse avanço o [Espírito][g4f] pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o [Espiritismo][f4r]. Vós que negais a existência do [Espírito][g4f] para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a [vida][r4f] presente, repudiais o único princípio sobre o qual é fundada, com [razão][f8m], a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
 > 
-> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito][g4f] pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 **A Gênese**, cap. 1, item 36 Vide também 📓 **Revista Espírita**, 1867)
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito][g4f] pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
 {:.grey}
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
 É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
 
-> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de [caridade][c5q], de fraternidade e deveres sociais. (KARDEC, Allan. 📓 **Revista Espírita** de 1863)
+> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de [caridade][c5q], de fraternidade e deveres sociais. (KARDEC, Allan. 📓 *Revista Espírita* de 1863)
 > 
 > O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ **O Evangelho segundo o [Espiritismo][f4r]**, cap. 17, item 3)
 {:.grey}
 
-É importante compreender, também, que os textos publicados por Allan Kardec na 📓 **Revista Espírita** tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 **A Gênese**, o Codificador explica essa metodologia:
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 *A Gênese*, o Codificador explica essa metodologia:
 
-> Quando, na 📓 **Revista Espírita** de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 **A Gênese**, cap. 11, item 43, Nota)
+> Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 *A Gênese*, cap. 11, item 43, Nota)
 {:.grey}
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento [moral][h4c] do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
-> É [verdade][x8k] que esta e outras questões se afastam do ponto de vista [moral][h4c], que é a meta essencial do [Espiritismo][f4r]. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do [Espiritismo][f4r], precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 **Revista Espírita**, 1862, p. 38.)
+> É [verdade][x8k] que esta e outras questões se afastam do ponto de vista [moral][h4c], que é a meta essencial do [Espiritismo][f4r]. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do [Espiritismo][f4r], precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
 {:.grey}
 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a [caridade][c5q] no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia [Jesus][q3y], nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou [moral][h4c].[^27]
 
-A Editora
+A Editora (FEB)
 {:.author}
+
+---
+
 
 
 ### 3.02 📑 Índice geral {#ceu-3-02}
