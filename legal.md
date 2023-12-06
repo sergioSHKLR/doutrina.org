@@ -1,5 +1,5 @@
 ---
-title: ⚖️ Avisos legais
+title: 🛡️ Avisos legais
 layout: 0-generic
 ---
 
