@@ -33,7 +33,7 @@
         width: calc(100vw - 24px)
     }
 
-    #col2-body {
+    #col2-body, #col4-body {
         padding-left: 15px !important;
         padding-right: 15px !important;
     }
@@ -100,7 +100,7 @@
         background-color: aliceblue
     }
 
-    #col2-body {
+    #col2-body, #col4-body  {
         padding: 0 15px
     }
 
@@ -142,7 +142,7 @@
         background-color: aliceblue
     }
 
-    #col2-body {
+    #col2-body, #col4-body  {
         padding: 0 15px
     }
 
@@ -184,7 +184,7 @@
         background-color: aliceblue
     }
 
-    #col2-body {
+    #col2-body, #col4-body  {
         padding: 0 15px
     }
 

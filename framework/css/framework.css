@@ -92,7 +92,7 @@ img {
     top: 2px
 }
 
-#col2-body {
+#col2-body, #col4-body {
     border-collapse: collapse;
     border-top: 1px solid #59595980;
     box-sizing: border-box;
@@ -120,10 +120,10 @@ img {
     height: 50px;
     padding-top: 10px;
     position: fixed;
-    right: 23px !important;
+    right: 24px !important;
     top: 0;
-    width: calc((100vw - 273px) * .5);
-    
+    width: calc((100vw - 274px) * .5);
+
 }
 
 #col3-head button {
@@ -139,9 +139,9 @@ img {
     color: #000;
     height: calc(100vh - (50px));
     position: fixed;
-    right: 23px !important;
+    right: 24px !important;
     top: 50px;
-    width: calc((100vw - 273px) * .5);
+    width: calc((100vw - 274px) * .5);
 }
 
 #col1-head,
@@ -295,4 +295,8 @@ summary:active {
     outline: none;
 }
 
-.cd {cursor: default}
+.cd {
+    cursor: default
+}
+
+

@@ -1,21 +1,16 @@
 ---
-layout: blank
+layout: ext
 ---
 
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
-<style>
-/*
-#col1 {background-color: #E6E6E6;}
-#col2-body {background-color: #F2F2F2;}
-*/
-table {width: 100%; border: 1px solid gainsboro; border-collapse: collapse;}
-tr, td {width: 33%; text-align: center; border: 1px solid gainsboro; padding: 10px;}
-th {padding: 10px}
-#maps-button {display: none;}
-ul, li {line-height: 1.7;}
-</style>
-</head>
+# 🪧 Complementar
+
+Os links da coluna do meio, sempre que permitido pelo detentor dos direitos, são abertos aqui. Eles podem ser:
+
+- artigos do Wikipedia
+- definições de palavras do Wikicionáario
+- vídeos da Igreja de Jesus Cristo dos Santos dos Últimos Dias
+- mapas indicando locais citados
+- diagramas, ilustrações, ou pinturas representativas
+- bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil
+
 
