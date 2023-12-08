@@ -17,6 +17,7 @@ img {
     position: fixed;
     top: 0;
     width: 250px;
+    box-shadow: 0 5px 3px -3px #00000030;
 }
 
 #col1-body {
@@ -37,7 +38,8 @@ img {
     scroll-behavior: smooth;
     top: 50px;
     width: 250px;
-    z-index: 1
+    z-index: 1;
+    box-shadow: 5px 0px 3px -3px #00000030;
 }
 
 #col1-brand,
@@ -120,7 +122,8 @@ img {
     position: fixed;
     right: 23px !important;
     top: 0;
-    width: calc((100vw - 273px) * .5)
+    width: calc((100vw - 273px) * .5);
+    
 }
 
 #col3-head button {
