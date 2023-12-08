@@ -20,7 +20,6 @@ img {
 }
 
 #col1-body {
-    background-color: #fff;
     border-collapse: collapse;
     border-right: 1px solid #59595980;
     border-top: 1px solid #59595980;
@@ -43,6 +42,7 @@ img {
 
 #col1-brand,
 #col2-brand {
+    background-color: transparent;
     border: none;
     border-collapse: collapse;
     border-radius: 5px;
@@ -74,7 +74,6 @@ img {
 }
 
 #col2-head {
-    background-color: transparent;
     border-collapse: collapse;
     box-sizing: border-box;
     height: 50px;
@@ -92,7 +91,6 @@ img {
 }
 
 #col2-body {
-    background-color: transparent;
     border-collapse: collapse;
     border-top: 1px solid #59595980;
     box-sizing: border-box;
@@ -114,7 +112,6 @@ img {
 }
 
 #col3-head {
-    background-color: transparent;
     border: none;
     border-collapse: collapse;
     box-sizing: border-box;
@@ -132,7 +129,6 @@ img {
 }
 
 #col3-body {
-    background-color: transparent;
     border-collapse: collapse;
     border-left: 1px solid #59595980;
     border-top: 1px solid #59595980;
@@ -146,12 +142,9 @@ img {
 }
 
 #col1-head,
+#col1-body,
 #col2-head,
 #col3-head {
-    background-color: #4ec1f51a;
-}
-
-#col1-body {
     background-color: #4ec1f51a;
 }
 

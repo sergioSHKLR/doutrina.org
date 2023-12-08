@@ -1,21 +1,25 @@
 /*---------- MEDIA QUERIES ----------*/
-@media only screen and (max-width:479px) {
+@media only screen and (max-width:459px) {
 
     #col2-brand,
     #col2-menu-on {
         display: inline-block
     }
 
+    #col3-fn-btn,
+    #col3-dm-btn,
+    #col3-lm-btn,
+    #col3-fs-btn,
     #col1-head,
     #col1-body,
     #col3-head,
     #col3-body,
+    #col3-link1,
+    #col3-link2,
+    #col3-link3,
+    #col3-link4,
     .label {
         display: none
-    }
-
-    #col1-body {
-        background-color: aliceblue;
     }
 
     #col2-dm-btn,
@@ -26,7 +30,7 @@
     #col2-head,
     #col2-body {
         left: 0;
-        width: calc(100vw - 23px)
+        width: calc(100vw - 24px)
     }
 
     #col2-body {
@@ -45,346 +49,202 @@
 
     #col3-head {
         padding-right: 30px
-    }
-
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
-
-    tr.c {
-        display: table-row
-    }
-}
-
-@media only screen and (min-width:480px) and (max-width:782px) {
-
-    #col2-brand,
-    #col2-menu-on {
-        display: inline-block
-    }
-
-    #col1-head,
-    #col1-body,
-    #col3-head,
-    #col3-body {
-        display: none
     }
 
     #col1-body {
-        background-color: aliceblue;
-    }
-
-    #col2-dm-btn,
-    #col2-lm-btn {
-        padding-right: 15px
-    }
-
-    #col2-head,
-    #col2-body {
-        left: 0;
-        width: calc(100vw - 23px)
+        background-color: aliceblue
     }
 
     #col2-body {
-        padding-left: 15px !important;
-        padding-right: 15px !important;
+        padding: 0 15px
     }
 
-    .dropdown {
-        left: 15px !important;
+    .dropbtn {
+        right: 50px;
     }
 
     .dropdown-content {
-        left: 20px !important;
-        background-color: aliceblue !important;
+        left: -33px !important;
     }
 
-    #col3-head {
-        padding-right: 30px
-    }
-
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
-
-    tr.c {
-        display: table-row
-    }
 }
 
-@media only screen and (min-width:783px) and (max-width:1300px) {
+@media only screen and (min-width:460px) and (max-width:749px) {
 
-    #col2-dm-btn,
-    #col2-fs-btn,
     #col1-head,
     #col1-body,
+    #col3-fn-btn,
+    #col3-dm-btn,
+    #col3-lm-btn,
+    #col3-fs-btn,
+    #col3-head,
+    #col3-body,
+    #col3-link1,
+    #col3-link2,
+    #col3-link3,
+    #col3-link4   {
+    display: none
+}
+
+#col2-head,
+#col2-body {
+    width: calc(100vw - 24px)
+}
+
+#col2-head,
+#col2-body {
+    left: 0;
+}
+
+#col1-body {
+    background-color: aliceblue
+}
+
+#col2-body {
+    padding: 0 15px
+}
+
+.dropbtn {
+    right: 50px;
+}
+
+.dropdown-content {
+    left: -33px !important;
+}
+
+}
+
+@media only screen and (min-width:750px) and (max-width:999px) {
+
+    #col1-head,
+    #col1-body,
+    #col3-fn-btn,
+    #col3-dm-btn,
+    #col3-lm-btn,
+    #col3-fs-btn,
     .label {
-        display: none;
+        display: none
     }
 
-    #col1-body {
-        background-color: aliceblue;
+    #col2-head,
+    #col2-body,
+    #col3-head,
+    #col3-body {
+        width: calc((100vw - 24px) * .5)
     }
 
     #col2-head,
     #col2-body {
         left: 0;
-        width: calc(50vw - 12px)
+    }
+
+    #col1-body {
+        background-color: aliceblue
     }
 
     #col2-body {
-        padding-left: 15px !important;
-        padding-right: 15px !important;
+        padding: 0 15px
     }
 
-    .dropdown {
-        left: 15px !important;
+    .dropbtn {
+        right: 50px;
     }
 
     .dropdown-content {
-        left: 20px !important;
-        background-color: aliceblue !important;
+        left: -33px !important;
     }
+    
 
-    #col3-head {
-        padding-right: 30px
-    }
-
-    #col3-head,
-    #col3-body {
-        width: calc(50vw - 12px)
-    }
-
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
-
-    tr.t {
-        display: table-row
-    }
 }
 
-@media only screen and (min-width:1301px) and (max-width:1400px) {
+@media only screen and (min-width:1000px) and (max-width:1462px) {
 
-    #col2-brand,
-    #col2-menu-on {
-        display: inline-block
-    }
-
-
+    #col1-head,
     #col1-body,
-    #col1-head,
-    #col1-brand,
-    #col2-dm-btn,
-    #col2-fs-btn {
+    #col3-fn-btn,
+    #col3-dm-btn,
+    #col3-lm-btn,
+    #col3-fs-btn {
         display: none
     }
 
-    #col1-body {
-        background-color: aliceblue;
+    #col2-head,
+    #col2-body,
+    #col3-head,
+    #col3-body {
+        width: calc((100vw - 24px) * .5)
     }
 
     #col2-head,
     #col2-body {
         left: 0;
-        width: calc(50vw - 12px)
+    }
+
+    #col1-body {
+        background-color: aliceblue
     }
 
     #col2-body {
-        padding-left: 15px !important;
-        padding-right: 15px !important;
+        padding: 0 15px
     }
-
-    .dropdown {
-        left: 15px !important;
+    .dropbtn {
+        right: 50px;
     }
 
     .dropdown-content {
-        left: 20px !important;
-        background-color: aliceblue !important;
+        left: -33px !important;
     }
 
-    #col3-head {
-        padding-right: 30px
+}
+
+
+@media only screen and (min-width:1463px) and (max-width:1889px) {
+
+    #col1-head,
+    #col1-body,
+    #col3-fn-btn,
+    #col3-dm-btn,
+    #col3-lm-btn,
+    #col3-fs-btn {
+        display: none
     }
 
+    #col2-head,
+    #col2-body,
     #col3-head,
     #col3-body {
-        right: 0;
-        width: calc(50vw - 12px)
+        width: calc((100vw - 24px) * .5)
     }
 
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
-
-    tr.t {
-        display: table-row
-    }
-}
-
-@media only screen and (min-width:1401px) and (max-width:1711px) {
-
-    #col2-brand,
-    #col2-menu-on,
-    #col2-dm-btn,
-    #col1-head,
-    #col2-fs-btn,
-    #col3-fs-btn {
-        display: none
-    }
-
-    #col1-body {
-        background-color: aliceblue;
-    }
-
-    #col1-head {
-        display: inline-block
-    }
-
+    #col2-head,
     #col2-body {
-        padding-left: 15px !important;
-        padding-right: 15px !important;
-    }
-
-    .dropdown {
-        left: 15px !important;
-    }
-
-    .dropdown-content {
-        left: 20px !important;
-        background-color: aliceblue !important;
-    }
-
-    #col3-head {
-        padding-right: 30px
-    }
-
-    tr.d {
-        display: table-row
-    }
-
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
-}
-
-
-@media only screen and (min-width:1712px) and (max-width:1920px) {
-
-    #col2-brand,
-    #col2-menu-on,
-    #col2-dm-btn,
-    #col1-head,
-    #col2-fs-btn,
-    #col3-fs-btn {
-        display: none
+        left: 0;
     }
 
     #col1-body {
-        background-color: aliceblue;
+        background-color: aliceblue
     }
+    .dropdown-content {display: inline-block !important}
 
-    #col1-head {
-        display: inline-block
-    }
-
-    #col3-head {
-        padding-right: 30px
-    }
-
-    tr.d {
-        display: table-row
-    }
-
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
 }
 
-@media only screen and (min-width:1920px) {
+@media only screen and (min-width:1890px) {
 
     #col2-brand,
     #col2-menu-on,
-    #col2-dm-btn,
-    #col2-fs-btn,
+    #col3-fn-btn,
+    #col3-dm-btn,
+    #col3-lm-btn,
     #col3-fs-btn {
         display: none
     }
 
-    #col3-head {
-        padding-right: 30px
-    }
+    .dropdown-content {display: inline-block !important}
 
-    iframe#screenshot1 {
-        display: block
-    }
-
-    iframe#screenshot2 {
-        display: block
-    }
-
-    iframe#screenshot3 {
-        display: block
-    }
-
-    tr.d {
-        display: table-row
-    }
 }
 
 @media only screen and (display-mode: fullscreen) {
 
-    #col2-fs-btn,
-    #col2-ns-btn,
     #col3-fs-btn,
     #col3-ns-btn {
         display: none;

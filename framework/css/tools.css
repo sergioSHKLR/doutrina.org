@@ -97,7 +97,7 @@ button.tools {
     position: absolute;
     z-index: 2;
     overflow: auto;
-    left: 16px !important;
+    left: 16px;
     top: 70px;
     border: 1px solid #59595980;
     border-radius: 20px;
