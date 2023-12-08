@@ -82,35 +82,35 @@
     #col3-link1,
     #col3-link2,
     #col3-link3,
-    #col3-link4   {
-    display: none
-}
+    #col3-link4 {
+        display: none
+    }
 
-#col2-head,
-#col2-body {
-    width: calc(100vw - 24px)
-}
+    #col2-head,
+    #col2-body {
+        width: calc(100vw - 24px)
+    }
 
-#col2-head,
-#col2-body {
-    left: 0;
-}
+    #col2-head,
+    #col2-body {
+        left: 0;
+    }
 
-#col1-body {
-    background-color: aliceblue
-}
+    #col1-body {
+        background-color: aliceblue
+    }
 
-#col2-body {
-    padding: 0 15px
-}
+    #col2-body {
+        padding: 0 15px
+    }
 
-.dropbtn {
-    right: 50px;
-}
+    .dropbtn {
+        right: 50px;
+    }
 
-.dropdown-content {
-    left: -33px !important;
-}
+    .dropdown-content {
+        left: -33px !important;
+    }
 
 }
 
@@ -153,7 +153,7 @@
     .dropdown-content {
         left: -33px !important;
     }
-    
+
 
 }
 
@@ -187,6 +187,7 @@
     #col2-body {
         padding: 0 15px
     }
+
     .dropbtn {
         right: 50px;
     }
@@ -224,7 +225,10 @@
     #col1-body {
         background-color: aliceblue
     }
-    .dropdown-content {display: inline-block !important}
+
+    .dropdown-content {
+        display: inline-block !important
+    }
 
 }
 
@@ -239,7 +243,9 @@
         display: none
     }
 
-    .dropdown-content {display: inline-block !important}
+    .dropdown-content {
+        display: inline-block !important
+    }
 
 }
 
@@ -248,5 +254,10 @@
     #col3-fs-btn,
     #col3-ns-btn {
         display: none;
+    }
+
+    #col1-head,
+    #col1-body {
+        display: inline-block;
     }
 }
