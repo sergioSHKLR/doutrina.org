@@ -93,8 +93,7 @@
 */
 
 .dark-mode iframe {
-    filter: invert(87%)
-}
+   filter: invert(87%) hue-rotate(180deg)}
 
 .dark-mode .dropdown-content {
     background-color: #28343c !important;
