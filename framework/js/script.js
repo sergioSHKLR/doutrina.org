@@ -2,8 +2,8 @@
 
 // DARK MODE -------------------------------------------------------
 
-// DARK MODE COL2 --------------------------------------------------
-function darkMode2() {
+// DARK MODE  --------------------------------------------------
+function darkMode() {
     var element = document.body;
     element.classList.add("dark-mode");
     var element = document.getElementById("col2-dm-btn");
@@ -13,8 +13,8 @@ function darkMode2() {
     localStorage.setItem("contrast","dark");
 }
 
-// LIGHT MODE COL2--------------------------------------------------
-function lightMode2() {
+// LIGHT MODE --------------------------------------------------
+function lightMode() {
     var element = document.body;
     element.classList.remove("dark-mode");
     var element = document.getElementById("col2-lm-btn");
@@ -22,51 +22,13 @@ function lightMode2() {
     var element = document.getElementById("col2-dm-btn");
     element.classList.remove("hide");
     localStorage.setItem("contrast","light");
-}
-
-// DARK MODE COL3 --------------------------------------------------
-function darkMode3() {
-    var element = document.body;
-    element.classList.add("dark-mode");
-    var element = document.getElementById("col3-dm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col3-lm-btn");
-    element.classList.remove("hide");
-    localStorage.setItem("contrast","dark");
-}
-
-// LIGHT MODE COL3--------------------------------------------------
-function lightMode3() {
-    var element = document.body;
-    element.classList.remove("dark-mode");
-    var element = document.getElementById("col3-lm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col3-dm-btn");
-    element.classList.remove("hide");
-    localStorage.setItem("contrast","light");
-}
-
-// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
-function checkMode() {
-    let mode = localStorage.getItem("contrast");
-    if (mode == "dark") {
-        darkMode2()
-    }
-}
-
-// CHECK AND ACTIVATE DARK MODE COL3 -------------------------------
-function checkMode() {
-    let mode = localStorage.getItem("contrast");
-    if (mode == "dark") {
-        darkMode3()
-    }
 }
 
 // FULLSCREEN ---------------------------------------------------
 var elem = document.documentElement;
 
 // OPEN FULLSCREEN COL2 -----------------------------------------
-function openFullscreen2() {
+function openFullscreen() {
     if (elem.requestFullscreen) {
         elem.requestFullscreen();
     } else if (elem.webkitRequestFullscreen) { /* Safari */
@@ -81,7 +43,7 @@ function openFullscreen2() {
 }
 
 // CLOSE FULLSCREEN COL2 -----------------------------------------
-function closeFullscreen2() {
+function closeFullscreen() {
     if (document.exitFullscreen) {
         document.exitFullscreen();
     } else if (document.webkitExitFullscreen) { /* Safari */
@@ -97,36 +59,6 @@ function closeFullscreen2() {
 
 var elem = document.documentElement;
 
-// OPEN FULLSCREEN COL3 ------------------------------------------
-function openFullscreen3() {
-    if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-    } else if (elem.webkitRequestFullscreen) { /* Safari */
-        elem.webkitRequestFullscreen();
-    } else if (elem.msRequestFullscreen) { /* IE11 */
-        elem.msRequestFullscreen();
-    }
-    var element = document.getElementById("col3-fs-btn");
-    element.classList.toggle("hide");
-    var element = document.getElementById("col3-ns-btn");
-    element.classList.toggle("show");
-}
-
-// CLOSE FULLSCREEN COL3 -----------------------------------------
-function closeFullscreen3() {
-    if (document.exitFullscreen) {
-        document.exitFullscreen();
-    } else if (document.webkitExitFullscreen) { /* Safari */
-        document.webkitExitFullscreen();
-    } else if (document.msExitFullscreen) { /* IE11 */
-        document.msExitFullscreen();
-    }
-    var element = document.getElementById("col3-ns-btn");
-    element.classList.toggle("show");
-    var element = document.getElementById("col3-fs-btn");
-    element.classList.toggle("hide");
-
-}
 
 // MENU ----------------------------------------------------------
 
@@ -192,10 +124,10 @@ function shadesOff() {
 })();
 
 
-// CHECK AND ACTIVATE DARK MODE COL2 -------------------------------
+// CHECK AND ACTIVATE DARK MODE -------------------------------
 (function () {
     let mode = localStorage.getItem("mode");
-    if (mode === "dark2") {
-        activeDark2()
+    if (mode === "dark") {
+        activeDark()
     }
 });

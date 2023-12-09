@@ -248,16 +248,3 @@
     }
 
 }
-
-@media only screen and (display-mode: fullscreen) {
-
-    #col3-fs-btn,
-    #col3-ns-btn {
-        display: none;
-    }
-
-    #col1-head,
-    #col1-body {
-        display: inline-block;
-    }
-}

@@ -1,8 +1,6 @@
 
-// DARK MODE -------------------------------------------------------
-
-// DARK MODE COL2 --------------------------------------------------
-function darkMode2() {
+// DARK MODE  --------------------------------------------------
+function darkMode() {
     var element = document.body;
     element.classList.add("dark-mode");
     var element = document.getElementById("col2-dm-btn");
@@ -12,8 +10,8 @@ function darkMode2() {
     localStorage.setItem("contrast","dark");
 }
 
-// LIGHT MODE COL2--------------------------------------------------
-function lightMode2() {
+// LIGHT MODE --------------------------------------------------
+function lightMode() {
     var element = document.body;
     element.classList.remove("dark-mode");
     var element = document.getElementById("col2-lm-btn");
@@ -23,24 +21,3 @@ function lightMode2() {
     localStorage.setItem("contrast","light");
 }
 
-// DARK MODE COL3 --------------------------------------------------
-function darkMode3() {
-    var element = document.body;
-    element.classList.add("dark-mode");
-    var element = document.getElementById("col3-dm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col3-lm-btn");
-    element.classList.remove("hide");
-    localStorage.setItem("contrast","dark");
-}
-
-// LIGHT MODE COL3--------------------------------------------------
-function lightMode3() {
-    var element = document.body;
-    element.classList.remove("dark-mode");
-    var element = document.getElementById("col3-lm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col3-dm-btn");
-    element.classList.remove("hide");
-    localStorage.setItem("contrast","light");
-}

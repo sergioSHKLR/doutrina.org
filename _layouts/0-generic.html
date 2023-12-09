@@ -151,16 +151,16 @@
 
  <a href="./home.html" id="col2-brand">💧doutrina.org</a>
 
- <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen2()" title="tela cheia"><span
+ <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen()" title="tela cheia"><span
  class="icon">fullscreen</span><span class="label">tela cheia</span></button>
 
- <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen2()" title="tela normal"><span
+ <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen()" title="tela normal"><span
  class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
 
- <button id="col2-dm-btn" class="fr" onclick="darkMode2()" title="modo escuro"><span
+ <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span
  class="icon">dark_mode</span><span class="label">escuro</span></button>
 
- <button id="col2-lm-btn" class="fr hide" onclick="lightMode2()" title="modo claro"><span
+ <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
  class="icon">light_mode</span><span class="label">claro</span></button>
  </div>
 
@@ -191,26 +191,6 @@
  <button id="col3-link4"><span class="icon">video_call</span><span class="label">video chamada</span>
  </button></a>
 
- <button id="col3-fs-btn" class="fr" onclick="openFullscreen3()" title="tela cheia"><span
- class="icon">fullscreen</span><span class="label">tela cheia</span></button>
-
- <button id="col3-ns-btn" class="fr hide" onclick="closeFullscreen3()" title="tela normal"><span
- class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
-
- <button id="col3-dm-btn" class="fr" onclick="darkMode3()" title="modo escuro"><span
- class="icon">dark_mode</span><span class="label">escuro</span></button>
-
- <button id="col3-lm-btn" class="fr hide" onclick="lightMode3()" title="modo claro"><span
- class="icon">light_mode</span><span class="label">claro</span></button>
-
- <!--
-<button class="fr" id="col3-sh-on-btn" onclick="shadesOn()" title="ativar cortina anti-distração"><span
-class=" icon">visibility_off</span></button>
-
-<button class="fr" id="col3-sh-off-btn" hidden onclick="shadesOff()" title="desativar cortina anti-distração"><span
-class="icon">visibility</span></button>
--->
-
  </div>
 
  <!-- COL3 BODY -->
@@ -235,7 +215,7 @@ class="icon">visibility</span></button>
  window.hypothesisConfig = function () {
  return {
  branding: {
- appBackgroundColor: 'ivory',
+ appBackgroundColor: '#222',
  ctaBackgroundColor: '#BD1C2B',
  ctaTextColor: 'white',
  selectionFontFamily: 'helvetica, arial, sans serif',
@@ -247,8 +227,8 @@ class="icon">visibility</span></button>
 
 <script type="application/json" class="js-hypothesis-config">
   {
-  "showHighlights": false,
-  "openSidebar": true
+  "showHighlights": true,
+  "openSidebar": false
   }
   </script>
   <script async src="https://hypothes.is/embed.js"></script>

@@ -376,7 +376,7 @@ function checkMode() {
     }
     let mode = localStorage.getItem("contrast");
     if (mode == "dark") {
-        darkMode3()
+        darkMode()
     }
 }
 
