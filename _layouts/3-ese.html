@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- VERSION 23/11/25 -->
+<!-- VERSION 23/12/09 -->
 
 <head>
 
@@ -37,7 +37,7 @@
 
  <!-- GOOGLE ICONS -->
  <link rel="stylesheet"
- href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0" />
+ href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,0">
 
  <!-- CSS  -->
  <link rel="stylesheet" href="./framework/css/blockquote.css">
@@ -48,22 +48,24 @@
  <link rel="stylesheet" href="./framework/css/media-queries.css">
  <link rel="stylesheet" href="./framework/css/tools.css">
  <link rel="stylesheet" href="./framework/css/scrollbar.css"> 
+ 
  <!-- PWA -->
  <link rel="manifest" href="./framework/pwa/site.webmanifest">
  <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
  <meta name="theme-color" content="#4ec1f5">
- <script type="text/javascript" defer>
- if (typeof navigator.serviceWorker !== 'undefined') {
- navigator.serviceWorker.register('../framework/pwa/sw.js')
- }
- </script>
 
  <!-- SCRIPTS -->
- <script type="text/javascript" src="../framework/js/crisp.js"></script>
+ <script src="./framework/js/crisp.js"></script>
 
  <!-- STYLES -->
-
  <style>
+ #col3-link3 {
+ display: none;
+ }
+
+ #col2-body {
+ box-shadow: none !important;
+ }
  </style>
 
 </head>
@@ -73,7 +75,7 @@
 <body onload="checkMode()">
 
  <!-- COL1 HEAD -->
- <div id="col1-head">
+ <div id="col1-head" class="head">
 
  <a href="./home.html" id="col1-brand">💧doutrina.org</a>
 
@@ -190,145 +192,96 @@
  </div>
 
  <!-- COL2 HEAD -->
- <div id="col2-head">
+ <div id="col2-head" class="head">
 
- <button id="col2-menu-on" onclick="menuOn()" title="abrir/fechar menu"><span class="icon">menu</span></button>
-
- <button id="col2-menu-off" hidden onclick="menuOff()" title="abrir/fechar menu"><span
- class="icon">menu</span></button>
-
- <a href="./home.html" id="col2-brand">💧doutrina.org</a>
-
- <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen2()" title="tela cheia"><span
- class="icon">fullscreen</span><span class="label">tela cheia</span></button>
-
- <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen2()" title="tela normal"><span
- class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
-
- <button id="col2-dm-btn" class="fr" onclick="darkMode2()" title="modo escuro"><span
- class="icon">dark_mode</span><span class="label">escuro</span></button>
-
- <button id="col2-lm-btn" class="fr hide" onclick="lightMode2()" title="modo claro"><span
- class="icon">light_mode</span><span class="label">claro</span></button>
- </div>
-
- <!-- COL2 BODY -->
- <div id="col2-body">
-
- <div class="dropdown">
- <button onclick="menuDropdown()" class="dropbtn">Aa</button>
- <div id="myDropdown" class="dropdown-content" style="color: currentColor">
- <button class="tools" id="ti-btn" onclick="function1()" title="aumentar letra"><span
- class="icon">text_increase</span></button>
- <button class="tools" id="td-btn" onclick="function2()" title="diminuir letra"><span
- class="icon">text_decrease</span></button>
- <button class="tools" id="aj-btn" onclick="function4()" title="texto justificado"><span
- class="icon">format_align_justify</span></button>
- <button class="tools" id="f1-btn" onclick="function5()" title="tipo sans"><span
- class="icon">edit</span></button>
- <button class="tools" id="f2-btn" onclick="function6()" title="tipo serif"><span
- class="icon">ink_pen</span></button>
- <button class="tools" id="f3-btn" onclick="function7()" title="tipo mono"><span
- class="icon">ink_marker</span></button>
- <button class="tools" id="ds-btn" onclick="function9()" title="entrelinhas menor"><span
- class="icon">density_small</span></button>
- <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span
- class="icon">density_large</span></button>
- <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span
- class="icon">🟡</span></button>
- <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span
- class="icon">🟢</span></button>
- <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span
- class="icon">🟣</span></button>
- <button class="tools" id="ra-btn" onclick="functionResetAll()" title="reverter tudo"><span
- class="icon">restart_alt</span></button> 
- </div>
- </div>
-
- {{ content }}
-
- </div>
-
- <!-- COL3 HEAD -->
- <div id="col3-head">
-
- <a target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
- <button id="col3-link1"><span class="icon">language</span><span class="label">enciclopédia</span>
- </button></a>
-
- <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
- <button id="col3-link2"><span class="icon">book_2</span><span class="label">dicionário</span>
- </button></a>
-
- <a target="ext" href="./content/maps/paris.html" title="atlas">
- <button id="col3-link3"><span class="icon">location_on</span><span class="label">atlas</span>
- </button></a>
-
- <a target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
- title="vídeo chamada">
- <button id="col3-link4"><span class="icon">video_call</span><span class="label">video chamada</span>
- </button></a>
-
- <button id="col3-fs-btn" class="fr" onclick="openFullscreen3()" title="tela cheia"><span
- class="icon">fullscreen</span><span class="label">tela cheia</span></button>
-
- <button id="col3-ns-btn" class="fr hide" onclick="closeFullscreen3()" title="tela normal"><span
- class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
-
- <button id="col3-dm-btn" class="fr" onclick="darkMode3()" title="modo escuro"><span
- class="icon">dark_mode</span><span class="label">escuro</span></button>
-
- <button id="col3-lm-btn" class="fr hide" onclick="lightMode3()" title="modo claro"><span
- class="icon">light_mode</span><span class="label">claro</span></button>
-
- <!--
-<button class="fr" id="col3-sh-on-btn" onclick="shadesOn()" title="ativar cortina anti-distração"><span
-class=" icon">visibility_off</span></button>
-
-<button class="fr" id="col3-sh-off-btn" hidden onclick="shadesOff()" title="desativar cortina anti-distração"><span
-class="icon">visibility</span></button>
--->
-
- </div>
-
- <!-- COL3 BODY -->
- <div id="col3-body">
-
- <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar"
- src="https://pt.m.wikipedia.org/wiki/Espiritismo"></iframe>
- </div>
-
- <!-- SCRIPTS -->
- <script type="text/javascript" async src="../framework/js/ext-links.js"></script>
- <script type="text/javascript" async src="../framework/js/dark-mode.js"></script>
- <script type="text/javascript" async src="../framework/js/fullscreen.js"></script>
- <script type="text/javascript" async src="../framework/js/menu.js"></script>
- <script type="text/javascript" async src="../framework/js/tools.js"></script>
- 
- <script type="text/javascript" class="js-hypothesis-config">
- window.hypothesisConfig = function () {
- return {
- branding: {
- appBackgroundColor: 'ivory',
- ctaBackgroundColor: '#BD1C2B',
- ctaTextColor: 'white',
- selectionFontFamily: 'helvetica, arial, sans serif',
- annotationFontFamily: 'monospace'
- }
- };
- };
- </script>
-
- <script async src="https://hypothes.is/embed.js"></script>
-
- <div
- style="font-family: sans; font-size: 12px; transform: rotate(270deg); position: absolute; top: 165px; right: -26px; vertical-align: middle;">
- 🟨 anotações</div>
-
- <!-- STAND WIHT US -->
- <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel.svg"
- alt="Apoie Israel!" title="Apoie Israel!"></a>
-
-</body>
-
-</html>
+    <button id="col2-menu-on" onclick="menuOn()" title="abrir/fechar menu"><span class="icon">menu</span></button>
+   
+    <button id="col2-menu-off" hidden onclick="menuOff()" title="abrir/fechar menu"><span
+    class="icon">menu</span></button>
+   
+    <a href="./home.html" id="col2-brand">💧doutrina.org</a>
+   
+    <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen()" title="tela cheia"><span
+    class="icon">fullscreen</span></button>
+   
+    <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen()" title="tela normal"><span
+    class="icon">fullscreen_exit</span></button>
+   
+    <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span
+    class="icon">dark_mode</span></button>
+   
+    <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
+    class="icon">light_mode</span></button>
+    </div>
+   
+    <!-- COL2 BODY -->
+    <div id="col2-body" style="box-shadow: none !important; background-color: transparent;">
+   
+    {{ content }}
+   
+    </div>
+   
+    <!-- COL3 HEAD -->
+    <div id="col3-head" class="head">
+   
+    <a id="col3-link1-a" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
+    <span class="icon">language</span></a>
+   
+    <a id="col3-link2-a" target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
+    <span class="icon">book_2</span></a>
+   
+    <a id="col3-link3-a" target="ext" href="./content/maps/paris.html" title="atlas">
+    <span class="icon">location_on</span></a>
+   
+    <a id="col3-link4-a" target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
+    title="vídeo chamada"><span class="icon">video_call</span></a>
+   
+    </div>
+   
+    <!-- COL3 BODY -->
+    <div id="col3-body">
+   
+    <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar"
+    src="./ext.html"></iframe>
+   
+    </div>
+   
+    <div
+    style="font-family: sans; font-size: 12px; transform: rotate(270deg); position: absolute; top: 165px; right: -26px; vertical-align: middle;vertical-align: middle;">
+    🟨&nbsp;&nbsp;anotações</div>
+   
+    <!-- SCRIPTS -->
+    <script async src="./framework/js/dark-mode.js"></script>
+    <script async src="./framework/js/fullscreen.js"></script>
+    <script async src="./framework/js/menu.js"></script>
+    <script async src="./framework/js/tools.js"></script>
+   
+    <script class="js-hypothesis-config">
+    window.hypothesisConfig = function () {
+    return {
+    branding: {
+    appBackgroundColor: '#222',
+    ctaBackgroundColor: '#BD1C2B',
+    ctaTextColor: 'white',
+    selectionFontFamily: 'helvetica, arial, sans serif',
+    annotationFontFamily: 'monospace'
+    }
+    };
+    };
+    </script>
+   
+   <script type="application/json" class="js-hypothesis-config">
+     {
+     "showHighlights": true,
+     "openSidebar": false
+     }
+     </script>
+     <script async src="https://hypothes.is/embed.js"></script>
+   
+    <!-- STAND WIHT US -->
+    <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./framework/israel.svg"
+    alt="Apoie Israel!" title="Apoie Israel!"></a>
+   
+   </body>
+   
+   </html>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- VERSION 23/11/25 -->
+<!-- VERSION 23/12/09 -->
 
 <head>
 
@@ -53,10 +53,9 @@
  <link rel="manifest" href="./framework/pwa/site.webmanifest">
  <link rel="icon" href="./framework/pwa/favicon.svg" type="image/svg+xml">
  <meta name="theme-color" content="#4ec1f5">
- </script>
 
  <!-- SCRIPTS -->
- <script type="text/javascript" src="../framework/js/crisp.js"></script>
+ <script src="./framework/js/crisp.js"></script>
 
  <!-- STYLES -->
  <style>
@@ -76,7 +75,7 @@
 <body onload="checkMode()">
 
  <!-- COL1 HEAD -->
- <div id="col1-head">
+ <div id="col1-head" class="head">
 
  <a href="./home.html" id="col1-brand">💧doutrina.org</a>
 
@@ -103,7 +102,7 @@
    <p><a href="./home.html" title="início">🏠 Início</a></p>
    <p><a href="./info.html" title="informações">📋 Informações</a></p>
    <p><a href="./legal.html" title="Legal">🛡️ Avisos legais</a></p>
-   <p><a href="./comments.html" title="Comentários">❤️ Comentários</a></p>
+   <p><a href="./comments.html" title="Resenhas">❤️ Resenhas</a></p>
    </details><br>
 
  <!-- COL1 REPO -->
@@ -142,7 +141,7 @@
  </div>
 
  <!-- COL2 HEAD -->
- <div id="col2-head">
+ <div id="col2-head" class="head">
 
  <button id="col2-menu-on" onclick="menuOn()" title="abrir/fechar menu"><span class="icon">menu</span></button>
 
@@ -152,16 +151,16 @@
  <a href="./home.html" id="col2-brand">💧doutrina.org</a>
 
  <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen()" title="tela cheia"><span
- class="icon">fullscreen</span><span class="label">tela cheia</span></button>
+ class="icon">fullscreen</span></button>
 
  <button id="col2-ns-btn" class="fr mr-50 hide" onclick="closeFullscreen()" title="tela normal"><span
- class="icon">fullscreen_exit</span><span class="label">tela normal</span></button>
+ class="icon">fullscreen_exit</span></button>
 
  <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span
- class="icon">dark_mode</span><span class="label">escuro</span></button>
+ class="icon">dark_mode</span></button>
 
  <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
- class="icon">light_mode</span><span class="label">claro</span></button>
+ class="icon">light_mode</span></button>
  </div>
 
  <!-- COL2 BODY -->
@@ -172,24 +171,19 @@
  </div>
 
  <!-- COL3 HEAD -->
- <div id="col3-head">
+ <div id="col3-head" class="head">
 
- <a target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
- <button id="col3-link1"><span class="icon">language</span><span class="label">enciclopédia</span>
- </button></a>
+ <a id="col3-link1-a" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
+ <span class="icon">language</span></a>
 
- <a target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
- <button id="col3-link2"><span class="icon">book_2</span><span class="label">dicionário</span>
- </button></a>
+ <a id="col3-link2-a" target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
+ <span class="icon">book_2</span></a>
 
- <a target="ext" href="./content/maps/paris.html" title="atlas">
- <button id="col3-link3"><span class="icon">location_on</span><span class="label">atlas</span>
- </button></a>
+ <a id="col3-link3-a" target="ext" href="./content/maps/paris.html" title="atlas">
+ <span class="icon">location_on</span></a>
 
- <a target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
- title="vídeo chamada">
- <button id="col3-link4"><span class="icon">video_call</span><span class="label">video chamada</span>
- </button></a>
+ <a id="col3-link4-a" target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
+ title="vídeo chamada"><span class="icon">video_call</span></a>
 
  </div>
 
@@ -206,12 +200,12 @@
  🟨&nbsp;&nbsp;anotações</div>
 
  <!-- SCRIPTS -->
- <script type="text/javascript" async src="../framework/js/dark-mode.js"></script>
- <script type="text/javascript" async src="../framework/js/fullscreen.js"></script>
- <script type="text/javascript" async src="../framework/js/menu.js"></script>
- <script type="text/javascript" async src="../framework/js/tools.js"></script>
+ <script async src="./framework/js/dark-mode.js"></script>
+ <script async src="./framework/js/fullscreen.js"></script>
+ <script async src="./framework/js/menu.js"></script>
+ <script async src="./framework/js/tools.js"></script>
 
- <script type="text/javascript" class="js-hypothesis-config">
+ <script class="js-hypothesis-config">
  window.hypothesisConfig = function () {
  return {
  branding: {
@@ -234,7 +228,7 @@
   <script async src="https://hypothes.is/embed.js"></script>
 
  <!-- STAND WIHT US -->
- <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="../framework/israel.svg"
+ <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./framework/israel.svg"
  alt="Apoie Israel!" title="Apoie Israel!"></a>
 
 </body>

@@ -8,14 +8,8 @@ img {
 #col1-head {
     background-color: transparent;
     border: none;
-    border-collapse: collapse;
-    box-sizing: border-box;
-    height: 50px;
     left: 0;
-    padding-left: 10px;
-    padding-top: 10px;
-    position: fixed;
-    top: 0;
+    padding: 0 0 0 10px;
     width: 250px;
     box-shadow: 0 5px 3px -3px #00000030;
 }
@@ -71,28 +65,26 @@ img {
     color: currentColor
 }
 
-#col2-head {
-    box-shadow: 0 5px 3px -3px #00000030;
-}
 
 #col2-head {
-    border-collapse: collapse;
-    box-sizing: border-box;
-    height: 50px;
+    box-shadow: 0 5px 3px -3px #00000030;
     left: 250px;
-    padding-right: 20px;
-    padding-top: 3px;
-    position: fixed;
-    top: 0;
+    padding: 0 20px 0 0;
     width: calc((100vw - 273px) * .5)
 }
 
-#col2-head button {
-    position: relative;
-    top: 2px
+.head {
+    border-collapse: collapse;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    height: 50px;
+    line-height: 50px;
 }
 
-#col2-body, #col4-body {
+
+#col2-body,
+#col4-body {
     border-collapse: collapse;
     border-top: 1px solid #59595980;
     box-sizing: border-box;
@@ -115,20 +107,13 @@ img {
 
 #col3-head {
     border: none;
-    border-collapse: collapse;
-    box-sizing: border-box;
-    height: 50px;
-    padding-top: 10px;
-    position: fixed;
     right: 24px !important;
-    top: 0;
     width: calc((100vw - 274px) * .5);
-
+    padding: 0 20px 0 10px;
 }
 
-#col3-head button {
-    position: relative;
-    top: -5px
+#col3-head a {
+    padding: 10px !important;
 }
 
 #col3-body {
@@ -177,27 +162,26 @@ button {
     background-color: transparent;
     border: none;
     border-collapse: collapse;
-    border-radius: 50%;
     box-sizing: border-box;
     color: currentColor;
     cursor: pointer;
     font-size: 24px;
-    justify-content: center;
-    margin-left: 10px;
     outline: 0;
-    padding: 6px 5px 0 0;
-    text-align: center
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
 }
 
 a:any-link {
-    outline: 0
+    outline: none
 }
 
-.label {
-    font-size: 12px;
-    left: 5px;
-    position: relative;
-    top: -9px
+span.label {
+    font-size: 10px !important;
+    text-align: center;
+    justify-content: center;
 }
 
 .sidebar-heading {
@@ -300,3 +284,19 @@ summary:active {
 }
 
 
+a#col3-link1-a,
+a#col3-link2-a,
+a#col3-link3-a,
+a#col3-link4-a {
+    font-size: 24px;
+    font-family: 'Inter';
+    position: relative;
+    bottom: 2px;
+    color: currentColor;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    padding: 6px;
+    vertical-align: middle;
+}

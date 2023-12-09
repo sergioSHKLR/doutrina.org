@@ -2,13 +2,11 @@ button {
     background-color: transparent;
     border: none;
     border-collapse: collapse;
-    border-radius: 50%;
     box-sizing: border-box;
     color: currentColor;
     cursor: pointer;
     font-size: 24px;
     justify-content: center;
-    margin-left: 10px;
     outline: 0;
     padding: 6px 5px 0 0;
     text-align: center
@@ -178,4 +176,10 @@ blockquote.bible em {
     color: crimson
 }
 
-a.backlink {font-size: 80% !important; transform: scale(.8);}
+a.backlink {
+    font-size: 80% !important;
+    transform: scale(.8);
+}
+
+
+

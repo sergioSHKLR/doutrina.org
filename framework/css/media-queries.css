@@ -1,5 +1,5 @@
 /*---------- MEDIA QUERIES ----------*/
-@media only screen and (max-width:459px) {
+@media only screen and (max-width:460px) {
 
     #col2-brand,
     #col2-menu-on {
@@ -69,7 +69,7 @@
 
 }
 
-@media only screen and (min-width:460px) and (max-width:749px) {
+@media only screen and (min-width:460px) and (max-width:750px) {
 
     #col1-head,
     #col1-body,
@@ -114,7 +114,7 @@
 
 }
 
-@media only screen and (min-width:750px) and (max-width:999px) {
+@media only screen and (min-width:750px) and (max-width:1000px) {
 
     #col1-head,
     #col1-body,
@@ -157,7 +157,7 @@
 
 }
 
-@media only screen and (min-width:1000px) and (max-width:1462px) {
+@media only screen and (min-width:1000px) and (max-width:1463px) {
 
     #col1-head,
     #col1-body,
@@ -199,7 +199,7 @@
 }
 
 
-@media only screen and (min-width:1463px) and (max-width:1889px) {
+@media only screen and (min-width:1463px) and (max-width:1890px) {
 
     #col1-head,
     #col1-body,
