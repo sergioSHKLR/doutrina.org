@@ -32,7 +32,7 @@ layout: 1-lde
 [h7z]: https://pt.m.wikipedia.org/wiki/Consciência
 [g0s]: https://pt.m.wikipedia.org/wiki/Cristo
 [c5m]: https://pt.m.wikipedia.org/wiki/Deus
-[r2x]: https://pt.m.wikipedia.org/wiki/Divina Providência
+[r2x]: https://pt.m.wikipedia.org/wiki/Divina_Providência
 [f4r]: https://pt.m.wikipedia.org/wiki/Espiritismo
 [g4f]: https://pt.m.wikipedia.org/wiki/Espírito
 [w4q]: https://pt.m.wikipedia.org/wiki/Espiritualismo
@@ -3709,7 +3709,7 @@ As próprias palavras de [Jesus][q3y] não permitem [dúvida](https://pt.m.wikip
 {:.bible-multi}
 
 <details class="links"><summary>🔗</summary><br> 
-👉 Veja <a href="#q1010](#q1010">Q.1010</a><br>
+👉 Veja <a href="#q1010">Q.1010</a><br>
 ↩️ Voltar para <a href="#q619">Q.619</a><br> 
 ↩️ Voltar para <a href="#q789">Q.789</a><br>
 🏷️ Alma, anterioridade da  <a href="#alma">↩️</a><br>
@@ -4640,7 +4640,7 @@ Os parentes e amigos sempre se reúnem depois da morte?
 🏷️ label  <a href="#term">↩️</a>
 </details>
 
-#### 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas {#lde-2-07}
+#### 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas  
 
 ###### Q.291 {#q291}
 
@@ -9789,7 +9789,7 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 
 #### 📄 Obstáculos à reprodução {#lde-3-04-03}
 
-###### Q.693 {#q693a}
+###### Q.693 {#q693}
 
 São contrários à Lei da Natureza as leis e os costumes humanos que têm por fim ou por efeito criar obstáculos à reprodução?
 
@@ -11483,7 +11483,7 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 
 #### 📄 Igualdade perante o túmulo {#lde-3-09-07}
 
-###### Q.823 {#q823a}
+###### Q.823 {#q823}
 
 Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de monumentos fúnebres?
 
@@ -12737,7 +12737,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 #### 📄 Felicidade e infelicidade relativas
 
-###### Q.920 {#q921}
+###### Q.920 {#q920}
 
 Pode o homem gozar de completa felicidade na Terra?
 

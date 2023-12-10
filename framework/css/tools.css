@@ -1,16 +1,8 @@
 button.tools {
-    margin-left: 20px;
     font-family: 'Material Symbols Outlined' !important;
     font-size: 22px !important
 }
 
-#tools-group {
-    display: inline;
-    position: fixed;
-    top: 5px;
-    font-family: sans-serif !important;
-    font-size: 22px !important;
-}
 
 .ti {
     font-size: 18px !important;
@@ -61,54 +53,47 @@ button.tools {
 }
 
 .b1 {
-    background-color: #ffff001a !important; box-shadow: none !important; 
+    background-color: #ffff001a !important;
+    box-shadow: none !important;
 }
 
 .b2 {
-    background-color: #00ff001a !important; box-shadow: none !important; 
+    background-color: #00ff001a !important;
+    box-shadow: none !important;
 }
 
 .b3 {
-    background-color: #ffc0cb22 !important; box-shadow: none !important; 
+    background-color: #ffc0cb22 !important;
+    box-shadow: none !important;
 }
 
 .b4 {
-    background-color: #fff !important; box-shadow: none !important; 
+    background-color: #fff !important;
+    box-shadow: none !important;
 }
-
 
 .dropbtn {
     cursor: pointer;
-    position: relative;
-    top: 32px;
     padding: 0 13px 2px 13px;
-    border-radius: 50%;
-}
-
-.dropdown {
-    float: right;
-    position: relative;
-    display: inline-block;
-    left: 55px;
+    font-size: 18px;
+    width: 50px;
+    height: 50px;
 }
 
 .dropdown-content {
+    width: 50px;
     display: none;
-    position: absolute;
-    z-index: 2;
-    overflow: auto;
-    left: 16px;
-    top: 70px;
-    border: 1px solid #59595980;
-    border-radius: 20px;
-    padding: 3px;
-    background-color: aliceblue;
+    overflow: scroll;
+    background-color: #f0fcfc;
+    box-shadow: 5px 0px 3px -3px #00000030;
+    z-index: 1;
+    color: currentColor;
 }
 
 .dropdown-content button {
     display: block;
-    margin: 20px 0;
-    padding: 2px;
+    margin: 0;
+    padding: 0px;
     cursor: pointer;
     color: currentColor;
     z-index: 2;
@@ -118,3 +103,16 @@ button.tools {
     display: block;
 }
 
+#vert-tools {
+    position: fixed;
+    top: 50px;
+    left: 250px;
+    width: 50px;
+    display: inline-block;
+    background-color: inherit;
+    border-right: 1px solid #59595980;
+    border-collapse: collapse;
+    height: calc(100vh - 50px);
+    box-shadow: 5px 0 3px -3px #00000030;
+
+}

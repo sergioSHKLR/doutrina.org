@@ -10,14 +10,15 @@ img {
     border: none;
     left: 0;
     padding: 0 0 0 10px;
-    width: 250px;
+    width: 300px;
     box-shadow: 0 5px 3px -3px #00000030;
+    z-index: 3;
+    border-bottom: 1px solid #59595980;
 }
 
 #col1-body {
     border-collapse: collapse;
     border-right: 1px solid #59595980;
-    border-top: 1px solid #59595980;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
     font-size: 14px;
@@ -32,8 +33,9 @@ img {
     scroll-behavior: smooth;
     top: 50px;
     width: 250px;
+    background-color: #4ec1f51a;
     z-index: 1;
-    box-shadow: 5px 0px 3px -3px #00000030;
+    padding-top: 5px;
 }
 
 #col1-brand,
@@ -68,9 +70,11 @@ img {
 
 #col2-head {
     box-shadow: 0 5px 3px -3px #00000030;
-    left: 250px;
-    padding: 0 20px 0 0;
-    width: calc((100vw - 273px) * .5)
+    left: 300px;
+    padding: 0 17px 0 0;
+    width: calc((100vw - 324px) * .5);
+    z-index: 3;
+    border-bottom: 1px solid #59595980;
 }
 
 .head {
@@ -86,13 +90,12 @@ img {
 #col2-body,
 #col4-body {
     border-collapse: collapse;
-    border-top: 1px solid #59595980;
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
     font-size: 16px;
     font-weight: 300;
     height: calc(100vh - (50px));
-    left: 250px;
+    left: 300px;
     line-height: 1.5;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -101,15 +104,18 @@ img {
     position: fixed;
     scroll-behavior: smooth;
     top: 50px;
-    width: calc((100vw - 273px) * .5);
+    width: calc((100vw - 324px) * .5);
     box-shadow: inset 1px 1px 25px 6px rgba(246, 238, 227, 1);
 }
 
 #col3-head {
     border: none;
     right: 24px !important;
-    width: calc((100vw - 274px) * .5);
+    width: calc((100vw - 324px) * .5);
     padding: 0 20px 0 10px;
+    z-index: 3;
+    box-shadow: 0 5px 3px -3px #00000030;
+    border-bottom: 1px solid #59595980;
 }
 
 #col3-head a {
@@ -119,14 +125,13 @@ img {
 #col3-body {
     border-collapse: collapse;
     border-left: 1px solid #59595980;
-    border-top: 1px solid #59595980;
     box-sizing: border-box;
     color: #000;
     height: calc(100vh - (50px));
     position: fixed;
     right: 24px !important;
     top: 50px;
-    width: calc((100vw - 274px) * .5);
+    width: calc((100vw - 324px) * .5);
 }
 
 #col1-head,
@@ -155,12 +160,11 @@ img {
     position: fixed;
     transform: rotate(45deg);
     width: 141px;
-    z-index: 99
+    z-index: 3;
 }
 
 button {
     background-color: transparent;
-    border: none;
     border-collapse: collapse;
     box-sizing: border-box;
     color: currentColor;
@@ -298,5 +302,16 @@ a#col3-link4-a {
     justify-content: center;
     text-align: center;
     padding: 6px;
+    vertical-align: middle;
+}
+
+#hypo-label {
+    font-family: sans;
+    font-size: 12px;
+    transform: rotate(270deg);
+    position: absolute;
+    top: 165px;
+    right: -26px;
+    vertical-align: middle;
     vertical-align: middle;
 }
