@@ -843,7 +843,7 @@ O [espírito][g4f] independe da matéria, ou é apenas uma propriedade desta, co
 🏷️ label  <a href="#term">↩️</a>
 </details>
 
-###### Q.25.a {#25a}
+###### Q.25.a {#q25a}
 
 Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por [espírito][g4f] o princípio da [inteligência][y2h], abstração feita das individualidades que por esse nome se designam.)
 
@@ -7219,7 +7219,7 @@ Nada tem de surpreendente a doutrina dos [anjos](https://pt.m.wikipedia.org/wiki
 🏷️ Anjo da guarda, doutrina de  <a href="#anjo-da-guarda">↩️</a>
 </details>
 
-###### Q.496{#q496}
+###### Q.496 {#q496}
 
 O [Espírito][g4f], que abandona o seu protegido, que deixa de lhe fazer bem, pode fazer-lhe mal?
 
