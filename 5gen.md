@@ -51,7 +51,7 @@ layout: 5-gen
 
 # 🌱 A Gênese
 
-## 0. 🗃️ Pré-textual
+## 0. 🗃️ Pré-textual {#gen-0}
 
 ### 0-01. 🗂️ Folha de rosto {#gen-0-01}
 
@@ -103,7 +103,7 @@ Os mesmos escrúpulos havendo presidido à redação das nossas outras obras, po
 
 Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, sem dúvida, em forma de esboços, a maioria das ideias desenvolvidas aqui nesta obra, conforme o fizemos com relação às anteriores. A Revista, muita vez, representa para nós um terreno de ensaio, destinado a sondar a opinião dos homens e dos Espíritos sobre alguns princípios, antes de os admitir como partes constitutivas da Doutrina.
 
-## 1. 🗃️ A Gênese segundo o [Espiritismo][f4r]
+## 1. 🗃️ A Gênese segundo o Espiritismo {#gen-1}
 
 ### 1-01. 🗂️ Caráter da revelação espírita {#gen-1-01}
 
@@ -360,7 +360,7 @@ Qual, então, a utilidade dessas manifestações, ou, se o preferirem, dessa rev
 
 Uma comparação vulgar tornará ainda melhor compreensível a situação. Parte para destino longínquo um navio carregado de emigrantes. Leva homens de todas as condições, parentes e amigos dos que ficam. Vem-se a saber que esse navio naufragou. Nenhum vestígio resta dele, nenhuma notícia chega sobre a sua sorte. Acredita-se que todos os passageiros pereceram e o luto penetra em todas as suas famílias. Entretanto, a equipagem inteira, sem faltar um único homem, foi ter a uma ilha desconhecida, abundante e fértil, onde todos passam a viver ditosos, sob um céu clemente. Ninguém, todavia, sabe disso. Ora, um belo dia, outro navio aporta a essa terra e lá encontra sãos e salvos os náufragos. A feliz nova se espalha com a rapidez do relâmpago. Exclamam todos: “Não estão perdidos os nossos amigos!” E rendem graças a [Deus][c5m]. Não podem ver-se uns aos outros, mas correspondem-se; permutam demonstrações de afeto e assim a alegria substitui a tristeza. Tal a imagem da [vida][r4f] terrena e da [vida][r4f] de além-túmulo, antes e depois da revelação moderna. A última, semelhante ao segundo navio, nos traz a boa-nova da sobrevivência dos que nos são caros e a certeza de que a eles nos reuniremos um dia. Deixa de existir a dúvida sobre a sorte deles e a nossa. O desânimo se desfaz diante da esperança. Outros resultados fecundam essa revelação. Achando madura a humanidade para penetrar o mistério do seu destino e contemplar, a sangue-frio, novas maravilhas, permitiu [Deus][c5m] fosse erguido o véu que ocultava o mundo invisível ao mundo visível. Nada têm de extra-humanas as manifestações; é a humanidade espiritual que vem conversar com a humanidade corporal e dizer-lhe: “Nós existimos, logo, o nada não existe; eis o que somos e o que sereis; o futuro vos pertence, como a nós. Caminhais nas trevas, vimos clarear-vos o caminho e traçar-vos o roteiro; andais ao acaso, vimos apontar-vos a meta. A [vida][r4f] terrena era, para vós, tudo, porque nada víeis além dela; vimos dizer-vos, mostrando a [vida][r4f] espiritual: a [vida][r4f] terrestre nada é. A vossa visão se detinha no túmulo, nós vos desvendamos, para lá deste, um esplêndido horizonte. Não sabíeis por que sofreis na Terra; agora, no sofrimento, vedes a justiça de [Deus][c5m]. O bem nenhum fruto aparente produzia para o futuro. Doravante, ele terá uma finalidade e constituirá uma necessidade; a fraternidade, que não passava de bela teoria, assenta agora numa lei da natureza. Sob o domínio da crença de que tudo acaba com a [vida][r4f], a imensidade é o vazio, o egoísmo reina soberano entre vós e a vossa palavra de ordem é: ‘Cada um por si.’ Com a certeza do porvir, os espaços infinitos se povoam ao infinito, em parte alguma há o vazio e a solidão; a solidariedade liga todos os seres aquém e além da tumba. É o reino da [caridade][c5q], sob a divisa: ‘Um por todos e todos por um.’ Enfim, ao termo da [vida][r4f], dizíeis eterno adeus aos que vos são caros; agora, dir-lhes-eis: ‘Até breve!’” Tais são, em resumo, os resultados da revelação nova, que veio encher o vácuo que a incredulidade cavara, levantar os ânimos abatidos pela dúvida ou pela perspectiva do nada e imprimir a todas as coisas uma [razão][f8m] de ser. Carecerá de importância esse resultado, apenas porque os Espíritos não vêm resolver os problemas da [Ciência][h4t], dar saber aos ignorantes e aos preguiçosos os meios de se enriquecerem sem trabalho? Nem só, entretanto, à [vida][r4f] futura dizem respeito os frutos que o homem deve colher da nova revelação. Ele os saboreará na Terra, pela transformação que estas novas crenças hão de necessariamente operar no seu caráter, nos seus gostos, nas suas tendências e, por conseguinte, nos hábitos e nas relações sociais. Pondo fim ao reino do egoísmo, do orgulho e da incredulidade, as novas crenças preparam o do bem, que é o reino de [Deus][c5m], anunciado pelo [Cristo][g0s]. [^16]
 
-### 1-02. 🗂️ [Deus][c5m] {#gen-1-02}
+### 1-02. 🗂️ Deus {#gen-1-02}
 
 ######  Existência de [Deus][c5m]
 
@@ -623,7 +623,7 @@ Há também considerações morais de ordem elevada. É necessária a luta para 
 
 Nos seres inferiores da Criação, naqueles a quem ainda falta o senso [moral][h4c], nos quais a [inteligência][y2h] ainda não substituiu o instinto, a luta não pode ter por móvel senão a satisfação de uma necessidade material. Ora, uma das mais imperiosas dessas necessidades é a da alimentação. Eles, pois, lutam unicamente para viver, isto é, para fazer ou defender uma presa, visto que nenhum móvel mais elevado os poderia estimular. É nesse primeiro período que a [alma][q3f] se elabora e ensaia para a [vida][r4f]. No homem, há um período de transição em que ele mal se distingue do bruto. Nas primeiras idades, domina o instinto animal e a luta ainda tem por móvel a satisfação das necessidades materiais. Mais tarde, contrabalançam-se o instinto animal e o sentimento [moral][h4c]; luta então o homem, não mais para se alimentar, porém, para satisfazer à sua ambição, ao seu orgulho, a sua necessidade de dominar. Para isso, ainda lhe é preciso destruir. Todavia, à medida que o senso [moral][h4c] prepondera, desenvolve-se a sensibilidade, diminui a necessidade de destruir, acaba mesmo por desaparecer, por se tornar odiosa essa necessidade. O homem ganha horror ao sangue. Contudo, a luta é sempre necessária ao desenvolvimento do [Espírito][g4f], pois, mesmo chegando a esse ponto, que nos parece culminante, ele ainda está longe de ser perfeito. Só à custa de sua atividade que o [Espírito][g4f] adquire conhecimento, experiência e se despoja dos últimos vestígios da animalidade. Mas, nessa ocasião, a luta, de sangrenta e brutal que era, se torna puramente intelectual. O homem luta contra as dificuldades, não mais contra os seus semelhantes. [^23]
 
-### 1-04. 🗂️ Papel da [Ciência][h4t] na Gênese {#gen-1-04}
+### 1-04. 🗂️ Papel da Ciência na Gênese {#gen-1-04}
 
 ######  01
 
@@ -2537,7 +2537,7 @@ Eram necessários os conhecimentos que o [Espiritismo][f4r] ministrou acerca das
 
 Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que está na Terra e por que sofre. Sabe que tem nas mãos o seu futuro e que a duração do seu cativeiro neste mundo unicamente dele depende. Despida da alegoria acanhada e mesquinha, a Gênese se lhe apresenta grande e digna da majestade, da bondade e da justiça do Criador. Considerada desse ponto de vista, ela confundirá a incredulidade e triunfará.
 
-## 2. 🗃️ Os Milagres
+## 2. 🗃️ Os Milagres {#gen-2}
 
 ### 2-13. 🗂️ Caracteres dos milagres {#gen-2-13}
 
@@ -4085,7 +4085,7 @@ Não é nova essa ideia sobre a natureza do corpo de [Jesus][q3y]. No quarto sé
 
 [^183]: N.E.: Não somente foram anatematizados os apolinaristas, mas também os reencarnacionistas e os que se põem em comunicação com os mortos.
 
-## 3. 🗃️ As Predições
+## 3. 🗃️ As Predições {#gen-3}
 
 ### 3-16. 🗂️ Teoria da presciência {#gen-3-16}
 
@@ -5292,7 +5292,7 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 ---
 
-## 4. 🗃️ Pós-textual
+## 4. 🗃️ Pós-textual {#gen-4}
 
 ### 4.01 📄 Nota explicativa {#gen-4-01}
 

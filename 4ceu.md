@@ -51,7 +51,7 @@ layout: 4-ceu
 
 # 🔥 O Céu e o Inferno
 
-## 0. 🗃️ Pré-textual
+## 0. 🗃️ Pré-textual {#ceu-0}
 
 ### 0-01. 🗂️ Folha de rosto {#ceu-0-01}
 
@@ -75,7 +75,7 @@ layout: 4-ceu
 ><br>
 {:.grey-center}
 
-## 1. 🗃️ Doutrina
+## 1. 🗃️ Doutrina {#ceu-1}
 
 ### 1-01. 🗂️ O porvir e o nada {#ceu-1-01}
 
@@ -222,7 +222,7 @@ Instintivamente tem o homem a crença no futuro, mas não possuindo até agora n
 
 — congraçará, como já está acontecendo, as opiniões divergentes ou flutuantes e trará gradualmente, pela força das coisas, a unidade de crenças sobre esse ponto, não já baseada em simples hipótese, mas na certeza. A unificação feita relativamente à sorte futura das almas será o primeiro ponto de contato dos diversos cultos, um passo imenso para a tolerância religiosa em primeiro lugar e, mais tarde, para a completa fusão.
 
-### 1-02. 🗂️ Temor da [morte][q4x] {#ceu-1-01}
+### 1-02. 🗂️ Temor da morte {#ceu-1-02}
 
 #### Causas do temor da [morte][q4x]
 
@@ -312,7 +312,7 @@ Para os espíritas, a [alma][q3f] não é uma abstração; ela tem um corpo eté
 
 Não mais permissível sendo a dúvida sobre o futuro, desaparece o temor da [morte][q4x]; encara-se a sua aproximação a sangue-frio, como quem aguarda a libertação pela porta da [vida][r4f], e não do nada.
 
-### 1-03. 🗂️ O céu {#ceu-1-01}
+### 1-03. 🗂️ O céu {#ceu-1-03}
 
 #### 01
 
@@ -496,7 +496,7 @@ Os que recebem hoje uma revelação mais completa são os mesmos Espíritos que 
 
 Antes de a [Ciência][h4t] ter revelado aos homens as forças vivas da natureza, a constituição dos astros, o verdadeiro papel da Terra e sua formação, poderiam eles compreender a imensidade do Espaço e a pluralidade dos mundos? Antes de a Geologia comprovar a formação da Terra, poderiam os homens tirar-lhe o inferno das entranhas e compreender o sentido alegórico dos seis dias da Criação? Antes de a Astronomia descobrir as leis que regem o universo, poderiam compreender que não há alto nem baixo no Espaço, que o Céu não está acima das nuvens nem limitado pelas estrelas? Poderiam identificar-se com a [vida][r4f] espiritual antes dos progressos da [ciência][h4t] psicológica? conceber depois da [morte][q4x] uma [vida][r4f] feliz ou desgraçada, a não ser em lugar circunscrito e sob uma forma material? Não; compreendendo mais pelos sentidos que pelo pensamento, o universo era muito vasto para a sua concepção; era preciso restringi-lo ao seu ponto de vista para alargá-lo mais tarde. Uma revelação parcial tinha sua utilidade, e, embora sábia até então, não satisfaria hoje. O absurdo provém dos que pretendem poder governar os homens de pensamento, sem se darem conta do progresso das ideias, quais se fossem crianças. (Vede O evangelho segundo o espiritismo, cap. III.)
 
-### 1-04. 🗂️ O inferno {#ceu-1-01}
+### 1-04. 🗂️ O inferno {#ceu-1-04}
 
 #### Intuição das penas futuras
 
@@ -737,7 +737,7 @@ Incontestavelmente, há hoje, no seio da Igreja mesma, muitos homens sensatos qu
 
 Poderíamos perguntar como há homens que têm conseguido ver essas coisas em êxtase, se elas de fato não existem. Não cabe aqui explicar a origem das imagens fantásticas, tantas vezes reproduzidas com visos de realidade. Diremos apenas ser preciso considerar, em princípio, que o êxtase é a mais incerta de todas as revelações [^35], porquanto o estado de sobre-excitação nem sempre importa um desprendimento de [alma][q3f] tão completo que se imponha à crença absoluta, denotando muitas vezes o reflexo de preocupações da véspera. As ideias com que o [Espírito][g4f] se nutre e das quais o cérebro, ou antes o invólucro perispiritual correspondente a este, conserva a forma ou a estampa, se reproduzem amplificadas como em uma miragem, sob formas vaporosas que se cruzam, se confundem e compõem um todo extravagante. Os extáticos de todos os cultos sempre viram coisas em relação com a fé de que se presumem penetrados, não sendo, pois, extraordinário que Santa Teresa e outros, tal qual ela saturados de ideias infernais pelas descrições, verbais ou escritas, hajam tido visões, que não são, propriamente falando, mais que reproduções por efeito de um pesadelo. Um pagão fanático teria antes visto o Tártaro e as Fúrias, ou Júpiter, no Olimpo, empunhando o raio.
 
-### 1-05. 🗂️ O purgatório {#ceu-1-01}
+### 1-05. 🗂️ O purgatório {#ceu-1-05}
 
 #### 01
 
@@ -807,7 +807,7 @@ O [Cristo][g0s] serviu-se da palavra inferno, a única usada, como termo genéri
 
 Reservado ao futuro o esclarecimento sobre a natureza das penas, competia-lhe igualmente reduzir o inferno ao seu justo valor. Uma vez que a Igreja, após seis séculos, houve por bem suprir o silêncio de [Jesus][q3y] quanto ao purgatório, decretando-lhe a existência, é porque ela julgou que Ele não havia dito tudo. E por que não havia de dar-se sobre outros pontos o que com este se deu?
 
-### 1-06. 🗂️ Doutrina das penas eternas {#ceu-1-01}
+### 1-06. 🗂️ Doutrina das penas eternas {#ceu-1-06}
 
 #### Origem da doutrina das penas eternas
 
@@ -1084,7 +1084,7 @@ A quem pretenda encontrar na Bíblia a justificação da eternidade das penas, p
 > Ezequiel, cap. 33, vers. 11, ARC
 {:.bible-multi}
 
-### 1-07. 🗂️ As penas futuras segundo o [Espiritismo][f4r] {#ceu-1-01}
+### 1-07. 🗂️ As penas futuras segundo o Espiritismo {#ceu-1-07}
 
 #### A carne é fraca [^39]
 
@@ -1262,7 +1262,7 @@ A cada um segundo as suas obras, no Céu como na Terra
 
 — tal é a lei da Justiça divina.
 
-### 1-08. 🗂️ Os anjos {#ceu-1-01}
+### 1-08. 🗂️ Os anjos {#ceu-1-08}
 
 #### Os anjos segundo a Igreja
 
@@ -1408,7 +1408,7 @@ Realiza-se assim a grande lei de unidade da Criação; [Deus][c5m] nunca esteve 
 
 E, desse modo, completa-se com igualdade a soberana Justiça do Criador.
 
-### 1-09. 🗂️ Os demônios {#ceu-1-01}
+### 1-09. 🗂️ Os demônios {#ceu-1-09}
 
 #### Origem da crença nos demônios
 
@@ -1620,7 +1620,7 @@ Hoje, porém, alargou-se o círculo das ideias: o homem vê mais claro e tem no�
 
 E aqui está por que lhe repugna à [razão][f8m] toda e qualquer doutrina, na qual não resplenda a Justiça divina na plenitude integral da sua pureza.
 
-### 1-10. 🗂️ Intervenção dos demônios nas modernas manifestações {#ceu-1-01}
+### 1-10. 🗂️ Intervenção dos demônios nas modernas manifestações {#ceu-1-10}
 
 #### 01
 
@@ -1870,7 +1870,7 @@ Quem acreditaria que da misérrima manjedoura de Belém pudesse sair a palavra q
 
 Sim! O [Cristo][g0s] é bem o Messias divino. A sua palavra é bem a palavra da [verdade][x8k], fundada na qual a Religião se torna inabalável, mas sob condição de praticar os sublimes ensinamentos que ela contém, e não de fazer do [Deus][c5m] justo e bom, que nela reconhecemos, um [Deus][c5m] parcial, vingativo e cruel.
 
-### 1-11. 🗂️ Da proibição de evocar os mortos {#ceu-1-01}
+### 1-11. 🗂️ Da proibição de evocar os mortos {#ceu-1-11}
 
 #### 01
 
@@ -2087,7 +2087,7 @@ As seguintes palavras de um [Espírito][g4f] resumem admiravelmente as consequê
 >
 >**Bordeaux 🇫🇷, 1861**
 
-## 2. 🗃️ Exemplos
+## 2. 🗃️ Exemplos {#ceu-2}
 
 ### 2-01. 🗂️ O passamento {#ceu-2-01}
 
@@ -5715,7 +5715,7 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 ---
 
-## 3. 🗃️ Pós-textual
+## 3. 🗃️ Pós-textual {#ceu-3}
 
 ### 3.01 📄 Nota explicativa {#ceu-3-01}
 

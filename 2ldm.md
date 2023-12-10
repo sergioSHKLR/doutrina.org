@@ -47,7 +47,7 @@ layout: 2-ldm
 
 # ✒️ O Livro dos Médiuns
 
-## 0. 🗃️ Pré-textual
+## 0. 🗃️ Pré-textual {#ldm-0}
 
 ### 0-01. 📄 Folha de rosto {#ldm-0-01} 
 
@@ -99,7 +99,7 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 🏷️ Term  <a href="#term">↩️</a>
 </details>
 
-## 1. 🗃️ Noções Preliminares
+## 1. 🗃️ Noções Preliminares {#ldm-1}
 
 ### 1-01. 📄 Há Espíritos? {#ldm-1-01} 
 
@@ -809,7 +809,7 @@ Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram son
 🏷️ Term  <a href="#term">↩️</a>
 </details>
 
-## 2. 🗃️ Manifestações Espíritas
+## 2. 🗃️ Manifestações Espíritas {#ldm-2}
 
 ### 2-01. 🗂️ Ação sobre a matéria {#ldm-2-01} 
 
@@ -7741,7 +7741,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 ---
 
-## 3. 🗃️ Pós-textual
+## 3. 🗃️ Pós-textual {#ldm-3}
 
 ### 3.01 📄 Nota explicativa {#ldm-3-01} 
 
