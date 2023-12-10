@@ -38,6 +38,18 @@ img {
     padding-top: 5px;
 }
 
+#col1-body::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+#col1-body {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
 #col1-brand,
 #col2-brand {
     background-color: transparent;

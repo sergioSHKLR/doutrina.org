@@ -114,5 +114,17 @@ button.tools {
     border-collapse: collapse;
     height: calc(100vh - 50px);
     box-shadow: 5px 0 3px -3px #00000030;
+    overflow: auto;
+}
 
+#vert-tools::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+#vert-tools {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
 }
