@@ -31,7 +31,7 @@ layout: 0-generic
             border-top: none;
         }
     </style>
-         <!-- <script async src="https://hypothes.is/embed.js"></script> -->
+        <script async src="https://hypothes.is/embed.js"></script>
 </head>
 
      <div class="tab">
