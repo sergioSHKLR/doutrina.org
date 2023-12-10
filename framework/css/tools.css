@@ -32,7 +32,11 @@
     background-color:#ffff001a!important;
     box-shadow:none!important
     }
-    
+
+    .tools {filter: grayscale(1)}
+
+    .tools:hover {filter: grayscale(0)}
+        
     .b2 {
     background-color:#00ff001a!important;
     box-shadow:none!important

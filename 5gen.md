@@ -51,7 +51,15 @@ layout: 5-gen
 
 # 🌱 A Gênese
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ## 0. 🗃️ Pré-textual {#gen-0}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 0-01. 🗂️ Folha de rosto {#gen-0-01}
 
@@ -74,6 +82,10 @@ layout: 5-gen
 > ⭕ [shklr.org](https://shklr.org)  
 ><br> 
 {:.grey-center}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 0-02. 🗂️ Introdução {#gen-0-02}
 
@@ -103,734 +115,1492 @@ Os mesmos escrúpulos havendo presidido à redação das nossas outras obras, po
 
 Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, sem dúvida, em forma de esboços, a maioria das ideias desenvolvidas aqui nesta obra, conforme o fizemos com relação às anteriores. A Revista, muita vez, representa para nós um terreno de ensaio, destinado a sondar a opinião dos homens e dos Espíritos sobre alguns princípios, antes de os admitir como partes constitutivas da Doutrina.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ## 1. 🗃️ A Gênese segundo o Espiritismo {#gen-1}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-01. 🗂️ Caráter da revelação espírita {#gen-1-01}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 Pode o [Espiritismo][f4r] ser considerado uma revelação? Neste caso, qual o seu caráter? Em que se funda a sua autenticidade? A quem e de que maneira foi ela feita? É a Doutrina Espírita uma revelação, no sentido teológico da palavra, ou por outra, é, no seu todo, o produto do ensino oculto vindo do Alto? É absoluta ou suscetível de modificações? Trazendo aos homens a [verdade][x8k] integral, a revelação não teria por efeito impedi-los de fazer uso das suas faculdades, pois que lhes pouparia o trabalho da investigação? Qual a autoridade do ensino dos Espíritos, se eles não são infalíveis e superiores à humanidade? Qual a utilidade da [moral][h4c] que pregam, se essa [moral][h4c] não é diversa da do [Cristo][g0s], já conhecida? Quais as verdades novas que eles nos trazem? Precisará o homem de uma revelação? E não poderá achar em si mesmo e em sua [consciência][h7z] tudo quanto é mister para se conduzir na [vida][r4f]? Tais as questões que importa nos fixemos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Definamos primeiro o sentido da palavra revelação. Revelar, do latim revelāre, cuja raiz, vēlum, véu, significa literalmente sair de sob o véu — e, figuradamente, descobrir, dar a conhecer uma coisa secreta ou desconhecida. Em sua acepção vulgar mais genérica, essa palavra se emprega a respeito de qualquer coisa ignota que é divulgada, de qualquer ideia nova que nos põe ao corrente do que não sabíamos. Deste ponto de vista, todas as ciências que nos fazem conhecer os mistérios da natureza são revelações e pode dizer-se que há para a humanidade uma revelação incessante. A Astronomia revelou o mundo astral, que não conhecíamos; a Geologia revelou a formação da Terra; a Química, a lei das afinidades; a Fisiologia, as funções do organismo etc.; Copérnico, Galileu, Newton, Laplace, Lavoisier foram reveladores.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
 A característica essencial de qualquer revelação tem que ser a [verdade][x8k]. Revelar um segredo é tornar conhecido um fato; se é falso, já não é um fato e, por consequência, não existe revelação. Toda revelação desmentida por fatos deixa de o ser, se for atribuída a [Deus][c5m]. Não podendo [Deus][c5m] mentir, nem se enganar, ela não pode emanar dele: deve ser considerada produto de uma concepção humana.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 Qual o papel do professor diante dos seus discípulos, senão o de um revelador? O professor lhes ensina o que eles não sabem, o que não teriam tempo, nem possibilidade de descobrir por si mesmos, porque a [Ciência][h4t] é obra coletiva dos séculos e de uma multidão de homens que trazem, cada qual, o seu contingente de observações aproveitáveis àqueles que vêm depois. O ensino é, portanto, na realidade, a revelação de certas verdades científicas ou morais, físicas ou metafísicas, feitas por homens que as conhecem a outros que as ignoram e que, se assim não fora, as teriam ignorado sempre.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 Mas o professor não ensina senão o que aprendeu: é um revelador de segunda ordem; o homem de gênio ensina o que descobriu por si mesmo: é o revelador primitivo; traz a luz que pouco a pouco se vulgariza. Que seria da humanidade sem a revelação dos homens de gênio, que aparecem de tempos a tempos? Mas quem são esses homens de gênio? E por que são homens de gênio? Donde vieram? Que é feito deles? Notemos que na sua maioria traz, ao nascer, faculdades transcendentes e alguns conhecimentos inatos, que com pouco trabalho desenvolvem. Pertencem realmente à humanidade, pois nascem, vivem e morrem como nós. Onde, porém, adquiriram esses conhecimentos que não puderam aprender durante a [vida][r4f]? Dir-se-á, com os materialistas, que o acaso lhes deu a matéria cerebral em maior quantidade e de melhor qualidade? Neste caso, não teriam mais mérito que um legume maior e mais saboroso do que outro. Dir-se-á, como certos espiritualistas, que [Deus][c5m] lhes deu uma [alma][q3f] mais favorecida que a do comum dos homens? Suposição igualmente ilógica, pois que tacharia [Deus][c5m] de parcial. A única solução racional do problema está na preexistência da [alma][q3f] e na pluralidade das vidas. O homem de gênio é um [Espírito][g4f] que tem vivido mais tempo; que, por conseguinte, adquiriu e progrediu mais do que aqueles que estão menos adiantados. Encarnando, traz o que sabe e, como sabe muito mais do que os outros e não precisa aprender, é chamado homem de gênio. Mas seu saber é fruto de um trabalho anterior e não resultado de um privilégio. Antes de renascer, era ele, pois, [Espírito][g4f] adiantado: reencarna para fazer que os outros aproveitem do que já sabe, ou para adquirir mais do que possui. Os homens progridem incontestavelmente por si mesmos e pelos esforços da sua [inteligência][y2h]; mas, entregues às próprias forças, só muito lentamente progrediriam, se não fossem auxiliados por outros mais adiantados, como o estudante o é pelos professores. Todos os povos tiveram homens de gênio, surgidos em diversas épocas, para dar-lhes impulso e tirá-los da inércia.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 Desde que se admite a solicitude de [Deus][c5m] para com as suas criaturas, por que não se há de admitir que Espíritos capazes, por sua energia e superioridade de conhecimento, de fazerem que a humanidade avance, encarnem pela vontade de [Deus][c5m], com o fim de ativarem o progresso em determinado sentido? Por que não admitir que eles recebam missões, como um embaixador as recebe do seu soberano? Tal o papel dos grandes gênios. Que vêm eles fazer, senão ensinar aos homens verdades que estes ignoram e ainda ignorariam durante largos períodos, a fim de lhes dar um ponto de apoio mediante o qual possam elevar-se mais rapidamente? Esses gênios, que aparecem através dos séculos como estrelas brilhantes, deixando longo traço luminoso sobre a humanidade, são missionários ou, se o quiserem, messias. O que de novo ensinam aos homens, quer na ordem física, quer na filosófica, são revelações. Se [Deus][c5m] suscita reveladores para as verdades científicas, pode, com mais forte [razão][f8m], suscitá-los para as verdades morais, que constituem elementos essenciais do progresso. Tais são os filósofos cujas ideias atravessam os séculos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 No sentido especial da fé religiosa, a revelação se diz mais particularmente das coisas espirituais que o homem não pode descobrir por meio da [inteligência][y2h], nem com o auxílio dos sentidos; e esse conhecimento lhe dão [Deus][c5m] ou seus mensageiros, quer por meio da palavra direta, quer pela inspiração. Neste caso, a revelação é sempre feita a homens predispostos, designados sob o nome de profetas ou messias, isto é, enviados ou missionários, incumbidos de transmiti-la aos homens. Considerada debaixo deste ponto de vista, a revelação implica a passividade absoluta e é aceita sem verificação, sem exame, nem discussão.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 Todas as religiões tiveram seus reveladores e estes, embora longe estivessem de conhecer toda a [verdade][x8k], tinham uma [razão][f8m] de ser providencial, porque eram apropriados ao tempo e ao meio em que viviam, ao caráter particular dos povos a quem falavam e aos quais eram relativamente superiores. Apesar dos erros das suas doutrinas, não deixaram de agitar os espíritos e, por isso mesmo, de semear os germens do progresso, que mais tarde haviam de desabrochar, ou desabrochariam um dia sob o sol do ­Cristianismo. É, pois, injusto se lhes lance anátema em nome da ortodoxia, porque dia virá em que todas essas crenças, tão diversas na forma, mas que repousam realmente sobre um mesmo princípio fundamental — [Deus][c5m] e a imortalidade da [alma][q3f], se fundirão numa grande e vasta unidade, logo que a [razão][f8m] triunfe dos preconceitos. Infelizmente, as religiões hão sido sempre instrumentos de dominação; o papel de profeta há tentado as ambições secundárias, e tem-se visto surgir uma multidão de pretensos reveladores ou messias, que, valendo-se do prestígio deste nome, têm explorado a credulidade em proveito do seu orgulho, da sua ganância, ou da sua indolência, achando mais cômodo viver à custa dos iludidos. A religião cristã não pôde evitar esses parasitas. A tal propósito, chamamos toda atenção para o capítulo XXI de O evangelho segundo o espiritismo: Haverá falsos cristos e falsos profetas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
 Haverá revelações diretas de [Deus][c5m] aos homens? É uma questão que não ousaríamos resolver, nem afirmativamente, nem negativamente, de maneira absoluta. O fato não é radicalmente impossível, porém, nada nos dá dele prova certa. O que não padece dúvida é que os Espíritos mais próximos de [Deus][c5m] pela perfeição se imbuem do seu pensamento e podem transmiti-lo. Quanto aos reveladores encarnados, segundo a ordem hierárquica a que pertencem e o grau a que chegaram de saber, esses podem tirar dos seus próprios conhecimentos as instruções que ministram, ou recebê-las de Espíritos mais elevados, mesmo dos mensageiros diretos de [Deus][c5m], os quais, falando em nome de [Deus][c5m], têm sido às vezes tomados pelo próprio [Deus][c5m]. As comunicações deste gênero nada têm de estranho para quem conhece os fenômenos espíritas e a maneira pela qual se estabelecem as relações entre os encarnados e os desencarnados. As instruções podem ser transmitidas por diversos meios: pela simples inspiração, pela audição da palavra, pela visibilidade dos Espíritos instrutores, nas visões e aparições, quer em sonho, quer em estado de vigília, do que há muitos exemplos na Bíblia, no Evangelho e nos livros sagrados de todos os povos. É, pois, rigorosamente exato dizer-se que quase todos os reveladores são [médiuns][c8r] inspirados, audientes ou videntes. Daí, entretanto, não se deve concluir que todos os [médiuns][c8r] sejam reveladores, nem, ainda menos, intermediários diretos da divindade ou dos seus mensageiros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 Só os Espíritos puros recebem a palavra de [Deus][c5m] com a missão de transmiti-la; mas sabe-se hoje que nem todos os Espíritos são perfeitos e que existem muitos que se apresentem sob falsas aparências, o que levou João a dizer: “Não acrediteis em todos os Espíritos; vede antes se os Espíritos são de [Deus][c5m].” (1a Epístola, 4:1.) Pode, pois, haver revelações sérias e verdadeiras como as há apócrifas e mentirosas. O caráter essencial da revelação divina é o da eterna [verdade][x8k]. Toda revelação eivada de erros ou sujeita a modificação não pode emanar de [Deus][c5m]. É assim que a Lei do Decálogo tem todos os caracteres de sua origem, enquanto as outras leis moisaicas, fundamentalmente transitórias, muitas vezes em contradição com a lei do Sinai, são obra pessoal e política do legislador hebreu. Com o abrandarem-se os costumes do povo, essas leis por si mesmas caíram em desuso, ao passo que o Decálogo ficou sempre de pé, como farol da humanidade. O [Cristo][g0s] fez dele a base do seu edifício, abolindo as outras leis. Se estas fossem obra de [Deus][c5m], seriam conservadas intactas. O [Cristo][g0s] e Moisés foram os dois grandes reveladores que mudaram a face ao mundo e nisso está a prova da sua missão divina. Uma obra puramente humana careceria de tal poder.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
 Importante revelação se opera na época atual e mostra a possibilidade de nos comunicarmos com os seres do mundo espiritual. Não é novo, sem dúvida, esse conhecimento; mas ficara até os nossos dias, de certo modo, como letra morta, isto é, sem proveito para a humanidade. A ignorância das leis que regem essas relações estava abafada sob a superstição; o homem era incapaz de tirar daí qualquer dedução salutar; estava reservado à nossa época desembaraçá-las dos acessórios ridículos, compreender-lhes o alcance e fazer surgir delas a luz destinada a clarear o caminho do futuro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 O [Espiritismo][f4r], dando-nos a conhecer o mundo invisível que nos cerca e no meio do qual vivíamos sem o suspeitarmos, assim como as leis que o regem, suas relações com o mundo visível, a natureza e o estado dos seres que o habitam e, por conseguinte, o destino do homem depois da [morte][q4x], é uma verdadeira revelação, na acepção científica da palavra.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
 Por sua natureza, a revelação espírita tem duplo caráter: participa ao mesmo tempo da revelação divina e da revelação científica. Participa da revelação divina, porque foi providencial o seu aparecimento e não o resultado da iniciativa, nem de um desígnio premeditado do homem; porque os pontos fundamentais da Doutrina provêm do ensino que deram os Espíritos encarregados por [Deus][c5m] de esclarecer os homens acerca de coisas que eles ignoravam, que não podiam aprender por si mesmos e que lhes importa conhecer, hoje os homens estão aptos a compreendê-las. Participa da revelação científica, por não ser esse ensino privilégio de indivíduo algum, mas sim ministrado a todos do mesmo modo; por não serem os que o transmitem e os que o recebem seres passivos, dispensados do trabalho da observação e da pesquisa, por não renunciarem ao raciocínio e ao livre-arbítrio; porque não lhes é interdito o exame, mas, ao contrário, recomendado; enfim, porque a Doutrina não foi ditada completa, nem imposta à crença cega, porque é deduzida, pelo trabalho do homem, da observação dos fatos que os Espíritos lhe põem sob os olhos e das instruções que lhe dão, instruções que o homem estuda, comenta, compara, a fim de tirar ele próprio as ilações e aplicações. Numa palavra, o que caracteriza a revelação espírita é o ser divina a sua origem e da iniciativa dos Espíritos, sendo a sua elaboração fruto do trabalho do homem.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  14
 
 Como meio de elaboração, o [Espiritismo][f4r] procede exatamente da mesma forma que as ciências positivas, aplicando o método experimental. Fatos novos se apresentam, que não podem ser explicados pelas leis conhecidas; o [Espiritismo][f4r] os observa, compara, analisa e, remontando dos efeitos às causas, chega à lei que os rege; depois, deduz-lhes as consequências e busca as aplicações úteis. Não estabeleceu nenhuma teoria preconcebida; assim, não apresentou como hipóteses a existência e a intervenção dos Espíritos, nem o perispírito, nem a reencarnação, nem qualquer dos princípios da Doutrina; concluiu pela existência dos Espíritos, quando essa existência ressaltou evidente pela observação dos fatos, procedendo de igual maneira quanto aos outros princípios. Não foram os fatos que vieram a posteriori confirmar a teoria: a teoria é que veio subsequentemente explicar e resumir os fatos. É, pois, rigorosamente exato dizer-se que o [Espiritismo][f4r] é uma [ciência][h4t] de observação e não produto da imaginação. As ciências só fizeram progressos importantes depois que seus estudos se basearam sobre o método experimental; até então acreditou-se que esse método também só era aplicável à matéria, ao passo que o é também às coisas metafísicas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
 Citemos um exemplo: Passa-se no mundo dos Espíritos um fato muito singular, de que seguramente ninguém houvera suspeitado: o de haver Espíritos que se não consideram mortos. Pois bem, os Espíritos superiores, que conhecem perfeitamente esse fato, não vieram dizer antecipadamente: “Há Espíritos que julgam viver ainda a [vida][r4f] terrestre, que conservam seus gostos, costumes e instintos.” Provocaram a manifestação de Espíritos desta categoria para que os observássemos. Tendo-se visto Espíritos incertos quanto ao seu estado, ou afirmando ainda serem deste mundo, julgando-se aplicados às suas ocupações ordinárias, deduziu-se a regra. A multiplicidade de fatos análogos demonstrou que o caso não era excepcional, que constituía uma das fases da [vida][r4f] espírita; pode-se então estudar todas as variedades e as causas de tão singular ilusão, reconhecer que tal situação é sobretudo própria de Espíritos pouco adiantados moralmente e peculiar a certos gêneros de [morte][q4x]; que é temporária, podendo, todavia, durar semanas, meses e anos. Foi assim que a teoria nasceu da observação. O mesmo se deu com relação a todos os outros princípios da Doutrina.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 Assim como a [Ciência][h4t] propriamente dita tem por objeto o estudo das leis do princípio material, o objeto especial do [Espiritismo][f4r] é o conhecimento das leis do princípio espiritual. Ora, como este último princípio é uma das forças da natureza, a reagir incessantemente sobre o princípio material e reciprocamente, segue-se que o conhecimento de um não pode estar completo sem o conhecimento do outro. O [Espiritismo][f4r] e a [Ciência][h4t] se completam reciprocamente; a [Ciência][h4t], sem o [Espiritismo][f4r], se acha na impossibilidade de explicar certos fenômenos só pelas leis da matéria; ao [Espiritismo][f4r], sem a [Ciência][h4t], faltariam apoio e comprovação. O estudo das leis da matéria tinha que preceder o da espiritualidade, porque a matéria é que primeiro fere os sentidos. Se o [Espiritismo][f4r] tivesse vindo antes das descobertas científicas, teria abortado, como tudo quanto surge antes do tempo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
 Todas as ciências se encadeiam e sucedem numa ordem racional; nascem umas das outras, à proporção que acham ponto de apoio nas ideias e conhecimentos anteriores. A Astronomia, uma das primeiras cultivadas, conservou os erros da infância, até o momento em que a Física veio revelar a lei das forças dos agentes naturais; a Química, nada podendo sem a Física, teve de acompanhá-la de perto, para depois marcharem ambas de acordo, amparando-se uma à outra. A Anatomia, a Fisiologia, a Zoologia, a Botânica, a Mineralogia, só se tornaram ciências sérias com o auxílio das luzes que lhes trouxeram a Física e a Química. À Geologia nascida ontem, sem a Astronomia, a Física, a Química e todas as outras, teriam faltado elementos de vitalidade; ela só podia vir depois daquelas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  18
 
 A [Ciência][h4t] moderna refutou os quatro elementos primitivos [^2] dos antigos e, de observação em observação, chegou à concepção de um só elemento gerador de todas as transformações da matéria; mas a matéria, por si só, é inerte; carecendo de [vida][r4f], de pensamento, de sentimento, precisa estar unida ao princípio espiritual. O [Espiritismo][f4r] não descobriu, nem inventou este princípio; mas foi o primeiro a demonstrá-lo por provas inconcussas; estudou-o, analisou-o e tornou-lhe evidente a ação. Ao elemento material, juntou ele o elemento espiritual. Elemento material e elemento espiritual, esses os dois princípios, as duas forças vivas da natureza. Pela união indissolúvel deles, facilmente se explica uma multidão de fatos até então inexplicáveis. [^3] O [Espiritismo][f4r], tendo por objeto o estudo de um dos elementos constitutivos do universo, toca forçosamente na maior parte das ciências; só podia, portanto, vir depois da elaboração delas; nasceu pela força mesma das coisas, pela impossibilidade de tudo se explicar com o auxílio apenas das leis da matéria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  19
 
 Acusam-no de parentesco com a magia e a feitiçaria; porém, esquecem que a Astronomia tem por irmã mais velha a Astrologia judiciária, ainda não muito distante de nós; que a Química é filha da Alquimia, com a qual nenhum homem sensato ousaria hoje ocupar-se. Ninguém nega, entretanto, que na Astrologia e na Alquimia estivesse o gérmen das verdades de que saíram as ciências atuais. Apesar das suas ridículas fórmulas, a Alquimia encaminhou a descoberta dos corpos simples e da lei das afinidades. A Astrologia se apoiava na posição e no movimento dos astros, que ela estudara; mas, na ignorância das verdadeiras leis que regem o mecanismo do universo, os astros eram, para o vulgo, seres misteriosos aos quais a superstição atribuía uma influência [moral][h4c] e um sentido revelador. Quando Galileu, Newton e Kepler tornaram conhecidas essas leis, quando o telescópio rasgou o véu e mergulhou nas profundezas do espaço um olhar que algumas criaturas acharam indiscreto, os planetas apareceram como simples mundos semelhantes ao nosso e todo o castelo do maravilhoso desmoronou. O mesmo se dá com o [Espiritismo][f4r], relativamente à magia e à feitiçaria, que se apoiavam também na manifestação dos Espíritos, como a Astrologia no movimento dos astros; mas, ignorantes das leis que regem o mundo espiritual, a magia e a feitiçaria misturavam nessas relações espirituais práticas e crenças ridículas, com as quais o moderno [Espiritismo][f4r], fruto da experiência e da observação, acabou. Certamente, a distância que separa o [Espiritismo][f4r] da magia e da feitiçaria é maior do que a que existe entre a Astronomia e a Astrologia, a Química e a Alquimia. Confundi-las é provar que de nenhuma se sabe patavina.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  20
 
 O simples fato de poder o homem comunicar-se com os seres do mundo espiritual traz consequências incalculáveis da mais alta gravidade; é todo um mundo novo que se nos revela e que tem tanto mais importância, quanto a ele hão de voltar todos os homens, sem exceção. O conhecimento de tal fato não pode deixar de acarretar, generalizando-se, profunda modificação nos costumes, caráter, hábitos, assim como nas crenças que tão grande influência exerceram sobre as relações sociais. É uma revolução completa a operar-se nas ideias, revolução tanto maior, tanto mais poderosa, quanto não se circunscreve a um povo, nem a uma casta, visto que atinge simultaneamente, pelo coração, todas as classes, todas as nacionalidades, todos os cultos. Razão há, pois, para que o [Espiritismo][f4r] seja considerado a terceira das grandes revelações. Vejamos em que essas revelações diferem e qual o laço que as liga entre si.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  21
 
 Moisés, como profeta, revelou aos homens a existência de um [Deus][c5m] único, Soberano Senhor e Criador de todas as coisas; promulgou a lei do Sinai e lançou as bases da verdadeira fé. Como homem, foi o legislador do povo pelo qual essa primitiva fé, purificando-se, havia de espalhar-se por sobre a Terra.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  22
 
 O [Cristo][g0s], tomando da antiga lei o que é eterno e divino e rejeitando o que era transitório, puramente disciplinar e de concepção humana, acrescentou a revelação da [vida][r4f] futura, de que Moisés não falara, assim como a das penas e recompensas que aguardam o homem depois da [morte][q4x]. (Vede: Revista espírita, de março e de setembro de 1861.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  23
 
 A parte mais importante da revelação do [Cristo][g0s], no sentido de fonte primária, de pedra angular de toda a sua doutrina é o ponto de vista inteiramente novo sob que considera Ele a Divindade. Esta já não é o [Deus][c5m] terrível, ciumento, vingativo, de Moisés; o [Deus][c5m] cruel e implacável, que rega a terra com o sangue humano, que ordena o massacre e o extermínio dos povos, sem excetuar as mulheres, as crianças e os velhos, e que castiga aqueles que poupam as vítimas; o [Deus][c5m] que [Jesus][q3y] nos revela não é mais o [Deus][c5m] injusto, que pune um povo inteiro pela falta do seu chefe, que se vinga do culpado na pessoa do inocente, que fere os filhos pelas faltas dos pais; mas um [Deus][c5m] clemente, soberanamente justo e bom, cheio de mansidão e misericórdia, que perdoa ao pecador arrependido e dá a cada um segundo as suas obras. Já não é o [Deus][c5m] de um único povo privilegiado, o [Deus][c5m] dos exércitos, presidindo aos combates para sustentar a sua própria causa contra o [Deus][c5m] dos outros povos; mas o Pai comum do gênero humano, que estende a sua proteção por sobre todos os seus filhos e os chama todos a si; já não é o [Deus][c5m] que recompensa e pune só pelos bens da Terra, que faz consistir a glória e a felicidade na escravidão dos povos rivais e na multiplicidade da progenitura, mas sim um [Deus][c5m] que diz aos homens: “A vossa verdadeira pátria não é neste mundo, mas no reino celestial, lá onde os humildes de coração serão elevados e os orgulhosos serão humilhados.” Já não é o [Deus][c5m] que faz da vingança uma virtude e ordena se retribua olho por olho, dente por dente; mas o [Deus][c5m] de misericórdia, que diz: “Perdoai as ofensas, se quereis ser perdoados; fazei o bem em troca do mal; não façais aos outros o que não quereis vos façam.” Já não é o [Deus][c5m] mesquinho e meticuloso, que impõe, sob as mais rigorosas penas, o modo como quer ser adorado, que se ofende pela inobservância de uma fórmula; mas o [Deus][c5m] grande, que vê o pensamento e que se não honra com a forma. Enfim, já não é o [Deus][c5m] que quer ser temido, mas o [Deus][c5m] que quer ser amado.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  24
 
 Sendo [Deus][c5m] o eixo de todas as crenças religiosas e o objetivo de todos os cultos, o caráter de todas as religiões é conforme à ideia que elas dão de [Deus][c5m]. As religiões que fazem de [Deus][c5m] um ser vingativo e cruel julgam honrá-lo com atos de crueldade, com fogueiras e torturas; as que têm um [Deus][c5m] parcial e cioso são intolerantes e mais ou menos meticulosas na forma, por crerem-no mais ou menos contaminado das fraquezas e ninharias humanas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  25
 
 Toda a doutrina do [Cristo][g0s] se funda no caráter que Ele atribui à Divindade. Com um [Deus][c5m] imparcial, soberanamente justo, bom e misericordioso, Ele fez do [amor][c7p] de [Deus][c5m] e da [caridade][c5q] para com o próximo a condição indeclinável da salvação, dizendo: Amai a [Deus][c5m] sobre todas as coisas e o vosso próximo como a vós mesmos; nisto estão toda a lei e os profetas; não existe outra lei. Sobre esta crença, assentou Ele o princípio da igualdade dos homens perante [Deus][c5m] e o da fraternidade universal. Mas era possível amar o [Deus][c5m] de Moisés? Não; só se podia temê-lo. A revelação dos verdadeiros atributos da Divindade, de par com a da imortalidade da [alma][q3f] e da [vida][r4f] futura, modificava profundamente as relações mútuas dos homens, impunha-lhes novas obrigações, fazia-os encarar a [vida][r4f] presente sob outro aspecto e tinha, por isso mesmo, de reagir contra os costumes e as relações sociais. É esse incontestavelmente, por suas consequências, o ponto capital da revelação do [Cristo][g0s], cuja importância não foi compreendida suficientemente e, contrista dizê-lo, é também o ponto de que mais a humanidade se tem afastado, que mais há desconhecido na interpretação dos seus ensinos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  26
 
 Entretanto, o [Cristo][g0s] acrescenta: “Muitas das coisas que vos digo ainda não as compreendeis e muitas outras teria a dizer, que não compreenderíeis; por isso é que vos falo por parábolas; mais tarde, porém, enviar-vos-ei o Consolador, o [Espírito][g4f] de Verdade, que restabelecerá todas as coisas e vo-las explicará todas.” (João, 14 e 16; Mateus, 17.) Se o [Cristo][g0s] não disse tudo quanto poderia dizer, é que julgou conveniente deixar certas verdades na sombra, até que os homens chegassem ao estado de compreendê-las. Como Ele próprio o confessou, seu ensino era incompleto, pois anunciava a vinda daquele que o completaria; previra, pois, que suas palavras não seriam bem interpretadas, e que os homens se desviariam do seu ensino; em suma, que desfariam o que Ele fez, uma vez que todas as coisas hão de ser restabelecidas: ora, só se restabelece aquilo que foi desfeito.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  27
 
 Por que chama Ele ao novo messias Consolador? Este nome, significativo e sem ambiguidade, encerra toda uma revelação. Assim, Ele previra que os homens teriam necessidade de consolações, o que implica a insuficiência daquelas que eles achariam na crença que iam fundar. Talvez nunca o [Cristo][g0s] fosse tão claro, tão explícito, como nestas últimas palavras, às quais poucas pessoas deram atenção bastante, provavelmente porque evitaram esclarecê-las e aprofundar-lhes o sentido profético.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  28
 
 Se o [Cristo][g0s] não pôde desenvolver o seu ensino de maneira completa, é que faltavam aos homens conhecimentos que eles só podiam adquirir com o tempo e sem os quais não o compreenderiam; há muitas coisas que teriam parecido absurdas no estado dos conhecimentos de então. Completar o seu ensino deve entender-se no sentido de explicar e desenvolver, não no de ajuntar-lhe verdades novas, porque tudo nele se encontra em estado de gérmen, faltando-lhe só a chave para se apreender o sentido das palavras.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  29
 
 Mas quem toma a liberdade de interpretar as Escrituras Sagradas? Quem tem esse direito? Quem possui as necessárias luzes, senão os teólogos? Quem o ousa? Primeiro, a [Ciência][h4t], que a ninguém pede permissão para dar a conhecer as leis da natureza e que salta sobre os erros e os preconceitos. — Quem tem esse direito? Neste século [^4] de emancipação intelectual e de liberdade de [consciência][h7z], o direito de exame pertence a todos e as Escrituras não são mais a arca santa [^5] na qual ninguém se atreveria a tocar com a ponta do dedo, sem correr o risco de ser fulminado. Quanto às luzes especiais, necessárias, sem contestar as dos teólogos, por mais esclarecidos que fossem os da Idade Média, e, em particular, os Pais da Igreja, eles, contudo, não o eram bastante para não condenarem como heresia o movimento da Terra e a crença nos antípodas. Mesmo sem ir tão longe, os teólogos dos nossos dias não lançaram anátema à teoria dos períodos de formação da Terra? Os homens só puderam explicar as Escrituras com o auxílio do que sabiam, das noções falsas ou incompletas que tinham sobre as leis da natureza, mais tarde reveladas pela [Ciência][h4t]. Eis por que os próprios teólogos, de muito boa-fé, se enganaram sobre o sentido de certas palavras e fatos do Evangelho. Querendo a todo custo encontrar nele a confirmação de uma ideia preconcebida, giraram sempre no mesmo círculo, sem abandonar o seu ponto de vista, de modo que só viam o que queriam ver. Por muito instruídos que fossem, os teólogos não podiam compreender causas dependentes de leis que lhes eram desconhecidas. Mas quem julgará as interpretações diversas e muitas vezes contraditórias, dadas fora do campo da Teologia? O futuro, a lógica e o bom senso. Os homens, cada vez mais esclarecidos, à medida que novos fatos e novas leis se forem revelando, saberão separar da realidade os sistemas utópicos. Ora, as ciências tornam conhecidas algumas leis; o [Espiritismo][f4r] revela outras; todas são indispensáveis à [inteligência][y2h] dos Textos Sagrados de todas as religiões, desde Confúcio e Buda até o Cristianismo. Quanto à Teologia, essa não poderá judiciosamente alegar contradições da [Ciência][h4t], visto como também ela nem sempre está de acordo consigo mesma.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  30
 
 O [Espiritismo][f4r], partindo das próprias palavras do [Cristo][g0s], como este partiu das de Moisés, é consequência direta da sua Doutrina. À ideia vaga da [vida][r4f] futura, acrescenta a revelação da existência do mundo invisível que nos rodeia e povoa o espaço, e com isso precisa a crença, dá-lhe um corpo, uma consistência, uma realidade à ideia. Define os laços que unem a [alma][q3f] ao corpo e levanta o véu que ocultava aos homens os mistérios do nascimento e da [morte][q4x]. Pelo [Espiritismo][f4r], o homem sabe donde vem, para onde vai, por que está na Terra, por que sofre temporariamente e vê por toda parte a Justiça de [Deus][c5m]. Sabe que a [alma][q3f] progride incessantemente, através de uma série de existências sucessivas, até atingir o grau de perfeição que a aproxima de [Deus][c5m]. Sabe que todas as almas, tendo um mesmo ponto de origem, são criadas iguais, com idêntica aptidão para progredir, em virtude do seu livre-arbítrio; que todas são da mesma essência e que não há entre elas diferença, senão quanto ao progresso realizado; que todas têm o mesmo destino e alcançarão a mesma meta, mais ou menos rapidamente, pelo trabalho e boa vontade. Sabe que não há criaturas deserdadas, nem mais favorecidas umas do que outras; que [Deus][c5m] a nenhuma criou privilegiada e dispensada do trabalho imposto às outras para progredirem; que não há seres perpetuamente votados ao mal e ao sofrimento; que os que se designam pelo nome de demônios são Espíritos ainda atrasados e imperfeitos, que praticam o mal no Espaço, como o praticavam na Terra, mas que se adiantarão e aperfeiçoarão; que os anjos ou Espíritos puros não são seres à parte na Criação, mas Espíritos que chegaram à meta, depois de terem percorrido a estrada do progresso; que, por essa forma, não há criações múltiplas, nem diferentes categorias entre os seres inteligentes, mas que toda a Criação deriva da grande lei de unidade que rege o universo e que todos os seres gravitam para um fim comum que é a perfeição, sem que uns sejam favorecidos à custa de outros, visto serem todos filhos das suas próprias obras.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  31
 
 Pelas relações que hoje pode estabelecer com aqueles que deixaram a Terra, possui o homem não só a prova material da existência e da individualidade da [alma][q3f], como também compreende a solidariedade que liga os vivos aos mortos deste mundo e os deste mundo aos dos outros planetas. Conhece a situação deles no mundo dos Espíritos, acompanha-os em suas migrações, aprecia-lhes as alegrias e as penas; sabe a [razão][f8m] por que são felizes ou infelizes e a sorte que lhes está reservada, conforme o bem ou o mal que fizeram. Essas relações iniciam o homem na [vida][r4f] futura, que ele pode observar em todas as suas fases, em todas as suas peripécias; o futuro já não é uma vaga esperança: é um fato positivo, uma certeza matemática. Desde então, a [morte][q4x] nada mais tem de aterrador, por lhe ser a libertação, a porta da verdadeira [vida][r4f].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  32
 
 Pelo estudo da situação dos Espíritos, o homem sabe que a felicidade e a desdita, na [vida][r4f] espiritual, são inerentes ao grau de perfeição e de imperfeição; que cada qual sofre as consequências diretas e naturais de suas faltas, ou, por outra, que é punido no que pecou; que essas consequências duram tanto quanto a causa que as produziu; que, por conseguinte, o culpado sofreria eternamente se persistisse no mal, mas que o sofrimento cessa com o arrependimento e a reparação; ora, como depende de cada um o seu aperfeiçoamento, todos podem, em virtude do livre-arbítrio, prolongar ou abreviar seus sofrimentos, como o doente sofre, pelos seus excessos, enquanto não lhes põe termo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  33
 
 Se a [razão][f8m] repele, como incompatível com a bondade de [Deus][c5m], a ideia das penas irremissíveis, perpétuas e absolutas, muitas vezes infligidas por uma única falta; a dos suplícios do inferno, que não podem ser minorados nem sequer pelo arrependimento mais ardente e mais sincero, a mesma [razão][f8m] se inclina diante dessa justiça distributiva e imparcial, que leva tudo em conta, que nunca fecha a porta ao arrependimento e estende constantemente a mão ao náufrago, em vez de o empurrar para o abismo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  34
 
 A pluralidade das existências, cujo princípio o [Cristo][g0s] estabeleceu no Evangelho, sem todavia defini-lo como a muitos outros, é uma das mais importantes leis reveladas pelo [Espiritismo][f4r], pois que lhe demonstra a realidade e a necessidade para o progresso. Com esta lei, o homem explica todas as aparentes anomalias da [vida][r4f] humana; as diferenças de posição social; as mortes prematuras que, sem a reencarnação, tornariam inúteis à [alma][q3f] as existências breves; a desigualdade de aptidões intelectuais e morais, pela ancianidade do [Espírito][g4f] que mais ou menos aprendeu e progrediu, e traz, nascendo, o que adquiriu em suas existências anteriores (Item 5).
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  35
 
 Com a doutrina da criação da [alma][q3f] no instante do nascimento, vem-se a cair no sistema das criações privilegiadas; os homens são estranhos uns aos outros e nada os liga; os laços de família são puramente carnais; não são de nenhum modo solidários com um passado em que não existiam; com a doutrina do nada após a [morte][q4x], todas as relações cessam com a [vida][r4f]; os seres humanos não são solidários no futuro. Pela reencarnação, são solidários no passado e no futuro e, como as suas relações se perpetuam, tanto no mundo espiritual como no corporal, a fraternidade tem por base as próprias leis da natureza; o bem tem um objetivo e o mal consequências inevitáveis.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  36
 
 Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito][g4f] pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa lei da natureza o princípio da fraternidade universal, também funda na mesma Lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. [^6]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  37
 
 Tirai ao homem o [Espírito][g4f] livre e independente, sobrevivente à matéria, e fareis dele uma simples máquina organizada, sem finalidade, nem responsabilidade; sem outro freio além da lei civil e própria a ser explorada como um animal inteligente. Nada esperando depois da [morte][q4x], nada obsta a que aumente os gozos do presente; se sofre, só tem a perspectiva do desespero e o nada como refúgio. Com a certeza do futuro, de encontrar de novo aqueles a quem amou e com o temor de tornar a ver aqueles a quem ofendeu, todas as suas ideias mudam. O [Espiritismo][f4r], ainda que só fizesse forrar o homem à dúvida relativamente à [vida][r4f] futura, teria feito mais pelo seu aperfeiçoamento [moral][h4c] do que todas as leis disciplinares, que o detêm algumas vezes, mas que o não transformam.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  38
 
 Sem a preexistência da [alma][q3f], a doutrina do pecado original não seria somente inconciliável com a Justiça de [Deus][c5m], que tornaria todos os homens responsáveis pela falta de um só, seria também um contrassenso, e tanto menos justificável quanto, segundo essa doutrina, a [alma][q3f] não existia na época a que se pretende fazer que a sua responsabilidade remonte. Com a preexistência, o homem traz, ao renascer, o gérmen das suas imperfeições, dos defeitos de que se não corrigiu e que se traduzem pelos instintos naturais e pelos pendores para tal ou tal vício. É esse o seu verdadeiro pecado original, cujas consequências naturalmente sofre, mas com a diferença capital de que sofre a pena das suas próprias faltas, e não das de outrem; e com a outra diferença, ao mesmo tempo consoladora, animadora e soberanamente equitativa, de que cada existência lhe oferece os meios de se redimir pela reparação e de progredir, quer despojando-se de alguma imperfeição, quer adquirindo novos conhecimentos e, assim, até que, suficientemente purificado, não necessite mais da [vida][r4f] corporal e possa viver exclusivamente a [vida][r4f] espiritual, eterna e bem-aventurada. Pela mesma [razão][f8m], aquele que progrediu moralmente traz, ao renascer, qualidades naturais, como o que progrediu intelectualmente traz ideias inatas; identificado com o bem, pratica-o sem esforço, sem cálculo e, por assim dizer, sem pensar. Aquele que é obrigado a combater as suas más tendências vive ainda em luta; o primeiro já venceu, o segundo procura vencer. Existe, pois, a virtude original, como existe o saber original, e o pecado ou, antes, o vício original.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  39
 
 O [Espiritismo][f4r] experimental estudou as propriedades dos fluidos espirituais e a ação deles sobre a matéria. Demonstrou a existência do perispírito, suspeitado desde a antiguidade e designado por Paulo sob o nome de corpo espiritual, isto é, corpo fluídico da [alma][q3f], depois da destruição do corpo tangível. Sabe-se hoje que esse invólucro é inseparável da [alma][q3f], forma um dos elementos constitutivos do ser humano, é o veículo da transmissão do pensamento e, durante a [vida][r4f] do corpo, serve de laço entre o [Espírito][g4f] e a matéria. O perispírito representa importantíssimo papel no organismo e numa multidão de afecções, que se ligam à Fisiologia, assim como à Psicologia.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  40
 
 O estudo das propriedades do perispírito, dos fluidos espirituais e dos atributos fisiológicos da [alma][q3f] abre novos horizontes à [Ciência][h4t] e dá a chave de uma multidão de fenômenos incompreendidos até então, por falta de conhecimento da lei que os rege — fenômenos negados pelo [materialismo][m3n], por se prenderem à espiritualidade, e qualificados como milagres ou sortilégios por outras crenças. Tais são, entre muitos, os fenômenos da vista dupla, da visão a distância, do sonambulismo natural e artificial, dos efeitos psíquicos da catalepsia e da letargia, da presciência, dos pressentimentos, das aparições, das transfigurações, da transmissão do pensamento, da fascinação, das curas instantâneas, das obsessões e possessões etc. Demonstrando que esses fenômenos repousam em leis naturais, como os fenômenos elétricos, e em que condições normais se podem reproduzir, o [Espiritismo][f4r] derroca o império do maravilhoso e do sobrenatural e, conseguintemente, a fonte da maior parte das superstições. Se faz se creia na possibilidade de certas coisas consideradas por alguns como quiméricas, também impede que se creia em muitas outras, das quais o [Espiritismo][f4r] demonstra a impossibilidade e a irracionalidade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  41
 
 O [Espiritismo][f4r], longe de negar ou destruir o Evangelho, vem, ao contrário, confirmar, explicar e desenvolver, pelas novas leis da natureza, que revela, tudo quanto o [Cristo][g0s] disse e fez; elucida os pontos obscuros do ensino cristão, de tal sorte que aqueles para quem eram ininteligíveis certas partes do Evangelho, ou pareciam inadmissíveis, as compreendem e admitem, sem dificuldade, com o auxílio desta doutrina, veem melhor o seu alcance e podem distinguir entre a realidade e a alegoria; o [Cristo][g0s] lhes parece maior: já não é simplesmente um filósofo, é um Messias divino.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  42
 
 Demais, se se considerar o poder moralizador do [Espiritismo][f4r], pela finalidade que assina a todas as ações da [vida][r4f], por tornar quase tangíveis as consequências do bem e do mal, pela força [moral][h4c], a coragem e as consolações que dá nas aflições, mediante inalterável confiança no futuro, pela ideia de ter cada um perto de si os seres a quem amou, a certeza de os rever, a possibilidade de confabular com eles; enfim, pela certeza de que tudo quanto se fez, quanto se adquiriu em [inteligência][y2h], [sabedoria][i8d], moralidade, até a última hora da [vida][r4f], não fica perdido, que tudo aproveita ao adiantamento do [Espírito][g4f], reconhece-se que o [Espiritismo][f4r] realiza todas as promessas do [Cristo][g0s] a respeito do Consolador anunciado. Ora, como é o [Espírito][g4f] de Verdade que preside ao grande movimento da regeneração, a promessa da sua vinda se acha por essa forma cumprida, porque, de fato, é ele o verdadeiro Consolador. [^7]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  43
 
 Se a estes resultados adicionarmos a rapidez prodigiosa da propagação do [Espiritismo][f4r], apesar de tudo quanto fazem por abatê-lo, não se poderá negar que a sua vinda seja providencial, visto como ele triunfa de todas as forças e de toda a má vontade dos homens. A facilidade com que é aceito por grande número de pessoas, sem constrangimento, apenas pelo poder das ideias, prova que ele corresponde a uma necessidade, qual a de crer o homem em alguma coisa para encher o vácuo aberto pela incredulidade e que, portanto, veio no momento preciso.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  44
 
 São em grande número os aflitos; não é, pois, de admirar que tanta gente acolha uma doutrina que consola, de preferência às que desesperam, porque aos deserdados, mais do que aos felizes do mundo, é que o [Espiritismo][f4r] se dirige. O doente vê chegar o médico com maior satisfação do que aquele que está bem de saúde; ora, os aflitos são os doentes e o Consolador é o médico. Vós que combateis o [Espiritismo][f4r], se quereis que o abandonemos para vos seguir, dai-nos mais e melhor do que ele; curai com maior segurança as feridas da [alma][q3f]. Dai mais consolações, mais satisfações ao coração, esperanças mais legítimas, maiores certezas; fazei do futuro um quadro mais racional, mais sedutor; porém, não julgueis vencê-lo com a perspectiva do nada, com a alternativa das chamas do inferno, ou com a inútil contemplação perpétua.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  45
 
 A primeira revelação teve a sua personificação em Moisés, a segunda no [Cristo][g0s], a terceira não a tem em indivíduo algum. As duas primeiras foram individuais, a terceira foi coletiva; aí está um caráter essencial de grande importância. Ela é coletiva no sentido de não ser feita ou dada como privilégio a pessoa alguma; ninguém, por consequência, pode inculcar-se como seu profeta exclusivo; foi espalhada simultaneamente, por sobre a Terra, a milhões de pessoas, de todas as idades e condições, desde a mais baixa até a mais alta da escala, conforme esta predição registrada pelo autor dos Atos dos Apóstolos: “Nos últimos tempos, disse o Senhor, derramarei o meu espírito sobre toda a carne; os vossos filhos e filhas profetizarão, os mancebos terão visões, e os velhos, sonhos.” (Atos, 2:17 e 18.) Ela não proveio de nenhum culto especial, a fim de servir um dia a todos de ponto de ligação. [^8]
 
-
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  46
 
 As duas primeiras revelações, sendo fruto do ensino pessoal, ficaram forçosamente localizadas, isto é, apareceram num só ponto, em torno do qual a ideia se propagou pouco a pouco; mas, foram precisos muitos séculos para que atingissem as extremidades do mundo, sem mesmo o invadirem inteiramente. A terceira tem isto de particular: não estando personificada em um só indivíduo, surgiu simultaneamente em milhares de pontos diferentes, que se tornaram centros ou focos de irradiação. Multiplicando-se esses centros, seus raios se reúnem pouco a pouco, como os círculos formados por uma multidão de pedras lançadas na água, de tal sorte que, em dado tempo, acabarão por cobrir toda a superfície do globo.
 Essa uma das causas da rápida propagação da doutrina. Se ela tivesse surgido num só ponto, se fosse obra exclusiva de um homem, houvera formado seitas em torno dela; e talvez decorresse meio século sem que ela atingisse os limites do país onde começara, ao passo que, após dez anos, já estendeu raízes de um polo a outro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  47
 
 Esta circunstância, inaudita na história das doutrinas, lhe dá força excepcional e irresistível poder de ação; de fato, se a perseguirem num ponto, em determinado país, será materialmente impossível que a persigam em toda parte e em todos os países. Em contraposição a um lugar onde lhe embaracem a marcha, haverá mil outros em que florescerá. Ainda mais: se a ferirem num indivíduo, não poderão feri-la nos Espíritos, que são a fonte donde ela promana. Ora, como os Espíritos estão em toda parte e existirão sempre, se, por um acaso impossível, conseguissem sufocar a Doutrina Espírita em todo o globo, ela reapareceria pouco tempo depois, porque repousa sobre um fato que está na natureza e não se podem suprimir as leis da natureza. Eis aí o de que se devem persuadir aqueles que sonham com o aniquilamento do [Espiritismo][f4r]. (Revista espírita, fevereiro de 1865: Perpetuidade do [Espiritismo][f4r].)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  48
 
 Entretanto, disseminados os centros, poderiam ainda permanecer por muito tempo isolados uns dos outros, confinados como estão alguns em países longínquos. Faltava entre eles uma ligação, que os pusesse em comunhão de ideias com seus irmãos em crença, informando-os do que se fazia algures. Esse traço de união, que na antiguidade teria faltado ao [Espiritismo][f4r], hoje existe nas publicações que vão a toda parte, condensando, sob uma forma única, concisa e metódica, o ensino dado universalmente sob formas múltiplas e nas diversas línguas. [^9]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  49
 
 As duas primeiras revelações só podiam resultar de um ensino direto; como os homens não estivessem ainda bastante adiantados a fim de concorrerem para a sua elaboração, elas tinham que ser impostas pela fé, sob a autoridade da palavra do Mestre. Contudo, notam-se entre as duas bem sensível diferença, devida ao progresso dos costumes e das ideias, se bem que feitas ao mesmo povo e no mesmo meio, mas com dezoito séculos de intervalo. A doutrina de Moisés é absoluta, despótica; não admite discussão e se impõe ao povo pela força. A de [Jesus][q3y] é essencialmente conselheira; é livremente aceita e só se impõe pela persuasão; foi controvertida desde o tempo do seu fundador, que não desdenhava de discutir com os seus adversários.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  50
 
 A terceira revelação, vinda numa época de emancipação e madureza intelectual, em que a [inteligência][y2h], já desenvolvida, não se resigna a representar papel passivo; em que o homem nada aceita às cegas, mas quer ver aonde o conduzem, quer saber o porquê e o como de cada coisa — tinha ela que ser ao mesmo tempo o produto de um ensino e o fruto do trabalho, da pesquisa e do livre-exame. Os Espíritos não ensinam senão justamente o que é mister para guiar o homem no caminho da [verdade][x8k], mas abstêm-se de revelar o que ele homem pode descobrir por si mesmo, deixando-lhe o cuidado de discutir, verificar e submeter tudo ao cadinho da [razão][f8m], deixando mesmo, muitas vezes, que adquira experiência à sua custa. Fornecem-lhe o princípio, os materiais; cabe ao homem aproveitá-lo e pô-los em prática (Item 15).
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  51
 
 Tendo sido os elementos da revelação espírita ministrados simultaneamente em muitos pontos, a homens de todas as condições sociais e de diversos graus de instrução, é claro que as observações não podiam ser feitas em toda parte com o mesmo resultado; que as consequências a tirar, a dedução das leis que regem esta ordem de fenômenos, em suma, a conclusão sobre que haviam de firmar-se as ideias não podiam sair senão do conjunto e da correlação dos fatos. Ora, cada centro isolado, circunscrito dentro de um círculo restrito, não vendo as mais das vezes senão uma ordem particular de fatos, não raro contraditórios na aparência, geralmente provindos de uma mesma categoria de Espíritos e, ao demais, embaraçados por influências locais e pelo espírito de partido, se achava na impossibilidade material de abranger tudo o que ocorre e, por isso mesmo, incapaz de conjugar as observações isoladas a um princípio comum. Apreciando cada qual os fatos sob o ponto de vista dos seus conhecimentos e crenças anteriores, ou da opinião particular dos Espíritos que se manifestassem, bem cedo teriam surgido tantas teorias e sistemas, quantos fossem os centros, todos incompletos por falta de elementos de comparação e exame. Numa palavra, cada qual se teria imobilizado na sua revelação parcial, julgando possuir toda a [verdade][x8k], ignorando que em cem outros lugares se obtinha mais ou melhor.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  52
 
 Além disso, convém notar que em parte alguma o ensino espírita foi dado integralmente; ele diz respeito a tão grande número de observações, a assuntos tão diferentes, exigindo conhecimentos e aptidões mediúnicas especiais, que impossível era acharem-se reunidas num mesmo ponto todas as condições necessárias. Tendo o ensino que ser coletivo e não individual, os Espíritos dividiram o trabalho, disseminando os assuntos de estudo e observação como, em algumas fábricas, a confecção de cada parte de um mesmo objeto é repartida por diversos operários. A revelação fez-se assim parcialmente em diversos lugares e por uma multidão de intermediários e é dessa maneira que ela prossegue ainda, pois que nem tudo foi revelado. Cada centro encontra nos outros centros o complemento do que obtém, e foi o conjunto, a coordenação de todos os ensinos parciais que constituíram a Doutrina Espírita. Era, pois, necessário grupar os fatos espalhados, para se lhes apreender a correlação, reunir os documentos diversos, as instruções dadas pelos Espíritos sobre todos os pontos e sobre todos os assuntos, para as comparar, analisar, estudar-lhes as analogias e as diferenças. Vindo as comunicações de Espíritos de todas as ordens, mais ou menos esclarecidos, era preciso apreciar o grau de confiança que a [razão][f8m] permitia conceder-lhes, distinguir as ideias sistemáticas individuais ou isoladas das que tinham a sanção do ensino geral dos Espíritos; as utopias, das ideias práticas; afastar as que eram notoriamente desmentidas pelos dados da [ciência][h4t] positiva e da lógica, utilizar igualmente os erros, as informações fornecidas pelos Espíritos, mesmo os da mais baixa categoria, para conhecimento do estado do mundo invisível e formar com isso um todo homogêneo. Era preciso, numa palavra, um centro de elaboração, independente de qualquer ideia preconcebida, de todo preconceito de seita, resolvido a aceitar a [verdade][x8k] tornada evidente, embora contrária às opiniões pessoais. Este centro se formou por si mesmo, pela força das coisas e sem desígnio premeditado. [^10]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  53
 
 De todas essas coisas, originou-se dupla corrente de ideias: umas, dirigindo-se das extremidades para o centro; as outras, encaminhando-se do centro para a circunferência. Desse modo, a doutrina caminhou rapidamente para a unidade, malgrado a diversidade das fontes donde promanou; os sistemas divergentes ruíram pouco a pouco, devido ao isolamento em que ficaram, diante da ascensão da opinião da maioria, na qual não encontraram repercussão simpática. Desde então, uma comunhão de ideias se estabeleceu entre os diversos centros parciais. Falando a mesma linguagem espiritual, eles se entendem e estimam, de um extremo a outro do mundo. Sentiram-se assim mais fortes os espíritas, lutaram com mais coragem, caminharam com passo mais firme, desde que não mais se viram isolados, desde que perceberam um ponto de apoio, um laço a prendê-los à grande família. Não mais lhes pareceram singulares, anormais, nem contraditórios os fenômenos que presenciavam, desde que puderam conjugá-los a leis gerais de harmonia, perceber num piscar de olhos toda a obra e descobrir um fim grandioso e humanitário em todo o conjunto. [^11]
 Mas como se há de saber se um princípio é ensinado por toda parte, ou se apenas exprime uma opinião pessoal? Não estando os grupos isolados em condições de saber o que se dizia alhures, necessário se fazia que um centro reunisse todas as instruções, para proceder a uma espécie de apuro das vozes e transmitir a todos a opinião da maioria. [^12]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  54
 
 Nenhuma [ciência][h4t] existe que haja saído prontinha do cérebro de um homem. Todas, sem exceção, são fruto de observações sucessivas, apoiadas em observações precedentes, como sobre um ponto conhecido para chegar ao desconhecido. Foi assim que os Espíritos procederam com relação ao [Espiritismo][f4r], daí o ser gradativo o ensino que ministram, pois eles não enfrentam as questões, senão à medida que os princípios sobre que hajam de apoiar-se estejam suficientemente elaborados e amadurecida a opinião para os assimilar. É mesmo de notar-se que, de todas as vezes que os centros particulares têm querido tratar de questões prematuras, não obtiveram mais do que respostas contraditórias, nada concludentes. Quando, ao contrário, chega o momento oportuno, o ensino se generaliza e se unifica na quase universalidade dos centros. Há, todavia, capital diferença entre a marcha do [Espiritismo][f4r] e a das ciências; a de que estas não atingiram o ponto que alcançaram, senão após longos intervalos, ao passo que alguns anos bastaram ao [Espiritismo][f4r], quando não a galgar o ponto culminante, pelo menos a recolher uma soma de observações bem grande para formar uma doutrina. Decorre esse fato de ser inumerável a multidão de Espíritos que, por vontade de [Deus][c5m], se manifestaram simultaneamente, trazendo cada um o contingente de seus conhecimentos. Resultou daí que todas as partes da Doutrina, em vez de serem elaboradas sucessivamente durante vários séculos, o foram quase ao mesmo tempo, em alguns anos apenas, e que bastou reuni-las para que estruturassem um todo. Quis [Deus][c5m] fosse assim, primeiro, para que o edifício mais rapidamente chegasse à conclusão; em seguida, para que se pudesse, por meio da comparação, conseguir uma verificação, a bem dizer imediata e permanente, da universalidade do ensino, pois nenhuma de suas partes tem valor, nem autoridade, a não ser pela sua conexão com o conjunto, devendo todas harmonizar-se, achando cada uma o devido lugar e vindo cada um na hora oportuna. Não confiando a um único [Espírito][g4f] o encargo de promulgar a doutrina, quis [Deus][c5m], também, que, assim o mais pequenino, como o maior, tanto entre os Espíritos, quanto entre os homens, trouxesse sua pedra para o edifício, a fim de estabelecer entre eles um laço de solidariedade cooperativa, que faltou a todas as doutrinas decorrentes de um tronco único. Por outro lado, dispondo todo [Espírito][g4f], como todo homem, apenas de limitada soma de conhecimentos, não estavam eles aptos, individualmente, a tratar ex professo [^13] das inúmeras questões que o [Espiritismo][f4r] abrange. Essa ainda uma [razão][f8m] por que, em cumprimento dos desígnios do Criador, não podia a doutrina ser obra nem de um só [Espírito][g4f], nem de um só [médium][c8r]. Tinha que emergir da coletividade dos trabalhos, comprovados uns pelos outros. [^14]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  55
 
 Um último caráter da revelação espírita, a ressaltar das condições mesmas em que ela se produz, é que, apoiando-se em fatos, a Doutrina tem que ser, e não pode deixar de ser, essencialmente progressiva, como todas as ciências de observação. Pela sua substância, alia-se à [Ciência][h4t] que, sendo a exposição das leis da natureza, com relação a certa ordem de fatos, não pode ser contrária às Leis de [Deus][c5m], autor daquelas Leis. As descobertas que a [Ciência][h4t] realiza, longe de o rebaixarem, glorificam a [Deus][c5m]; unicamente destroem o que os homens edificaram sobre as falsas ideias que formaram de [Deus][c5m].
 O [Espiritismo][f4r], pois, estabelece como princípio absoluto somente o que se acha evidentemente demonstrado, ou o que ressalta logicamente da observação. Entendendo-se com todos os ramos da economia social, aos quais dá o apoio das suas próprias descobertas, assimilará sempre todas as doutrinas progressivas, de qualquer ordem que sejam, desde que hajam assumido o estado de verdades práticas e abandonado o domínio da utopia, sem o que o [Espiritismo][f4r] se suicidaria. Deixando de ser o que é, mentiria à sua origem e ao seu fim providencial. Caminhando de par com o progresso, o [Espiritismo][f4r] jamais será ultrapassado, porque, se novas descobertas lhe demonstrassem estar em erro acerca de um ponto qualquer, ele se modificaria nesse ponto. Se uma [verdade][x8k] nova se revelar, ele a aceitará. [^15]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  56
 
 Qual a utilidade da doutrina [moral][h4c] dos Espíritos, uma vez que não difere da do [Cristo][g0s]? Precisa o homem de uma revelação? Não pode achar em si próprio tudo o que lhe é necessário para conduzir-se? Do ponto de vista [moral][h4c], é fora de dúvida que [Deus][c5m] outorgou ao homem um guia, dando-lhe a [consciência][h7z], que lhe diz: “Não faças a outrem o que não quererias te fizessem.” A [moral][h4c] natural está positivamente inscrita no coração dos homens; porém, sabem todos lê-la nesse livro? Nunca lhe desprezaram os sábios preceitos? Que fizeram da [moral][h4c] do [Cristo][g0s]? Como a praticam aqueles mesmos que a ensinam? Não se tornou ela letra morta, ou bela teoria, boa para os outros, e não para si? Reprovareis que um pai repita a seus filhos dez vezes, cem vezes as mesmas instruções, desde que eles não as sigam? Por que haveria [Deus][c5m] de fazer menos do que um pai de família? Por que não enviaria, de tempos a tempos, mensageiros especiais aos homens, para lhes lembrar os deveres e reconduzi-los ao bom caminho, quando deste se afastam; para abrir os olhos da [inteligência][y2h] aos que os trazem fechados, assim como os homens mais adiantados enviam missionários aos selvagens e aos bárbaros? A [moral][h4c] que os Espíritos ensinam é a do [Cristo][g0s], pela [razão][f8m] de que não há outra melhor. Mas, então, de que serve o ensino oferecido por eles, se apenas repisam o que já sabemos? Outro tanto se poderia dizer da [moral][h4c] do [Cristo][g0s], que já era ensinada por Sócrates e Platão quinhentos anos antes e em termos quase idênticos. O mesmo se poderia dizer também das de todos os moralistas, que nada mais fazem do que repetir a mesma [moral][h4c] em todos os tons e sob todas as formas. Pois bem! os Espíritos vêm, muito simplesmente, aumentar o número dos moralistas, com a diferença de que, manifestando-se por toda parte, tanto se fazem ouvir na choupana, como no palácio, assim pelos ignorantes, como pelos instruídos. O que o ensino dos Espíritos acrescenta à [moral][h4c] do [Cristo][g0s] é o conhecimento dos princípios que regem as relações entre os mortos e os vivos, princípios que completam as noções vagas que se tinham da [alma][q3f], de seu passado e de seu futuro, dando por sanção à doutrina cristã as próprias leis da natureza. Com o auxílio das novas luzes que o [Espiritismo][f4r] e os Espíritos espargem, o homem compreende a solidariedade que o liga a todos os seres; a [caridade][c5q] e a fraternidade se tornam uma necessidade social; ele faz por convicção o que fazia unicamente por dever, e o faz melhor. Somente quando praticarem a [moral][h4c] do [Cristo][g0s], poderão os homens dizer que não mais precisam de moralistas encarnados ou desencarnados. [Deus][c5m], então, não mais lhos enviará.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  57
 
 Uma das questões mais importantes, entre as propostas no começo deste capítulo, é a seguinte: Que autoridade tem a revelação espírita, uma vez que emana de seres de limitadas luzes e que não são infalíveis? A objeção seria ponderosa, se essa revelação consistisse apenas no ensino dos Espíritos, se deles exclusivamente a devêssemos receber e houvéssemos de aceitá-la de olhos fechados. Ela perde, porém, todo valor, desde que o homem concorra para a revelação com o seu raciocínio e o seu julgamento; desde que os Espíritos se limitam a pôr o homem no caminho das deduções, que ele pode tirar da observação dos fatos. Ora, as manifestações, nas suas inumeráveis modalidades, são fatos; o homem as estuda para lhes deduzir a lei que as rege, auxiliado nesse trabalho por Espíritos de todas as categorias, que são mais colaboradores do que reveladores, no sentido usual do termo. Ele lhes submete os dizeres ao controle da lógica e do bom senso: desta maneira o homem se beneficia dos conhecimentos especiais de que os Espíritos dispõem pela posição em que se acham, sem abdicar do uso da própria [razão][f8m]. Sendo os Espíritos as almas dos homens, comunicando-nos com eles não saímos da condição de humanidade, circunstância capital a considerar-se. Os homens de gênio, que foram condutores da humanidade, vieram do mundo dos Espíritos e para lá voltaram ao deixar a Terra. Dado que os Espíritos podem comunicar-se com os homens, esses mesmos gênios podem dar-lhes instruções sob a forma espiritual, como o fizeram sob a forma corpórea. Podem instruir-nos, depois de terem morrido, tal qual faziam quando vivos; apenas são invisíveis, em vez de serem visíveis, essa a única diferença. Não devem ser menores do que eram a experiência e o saber que possuem e, se a palavra deles, como homens, tinha autoridade, ela não pode ter diminuído, somente por estarem no mundo dos Espíritos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  58
 
 Mas nem só os Espíritos superiores se manifestam; fazem-no igualmente os de todas as categorias e preciso era que assim acontecesse, para nos iniciarmos no que respeita ao verdadeiro caráter do mundo espiritual, apresentando-se-nos este por todas as suas faces. Daí resulta serem mais íntimas as relações entre o mundo visível e o mundo invisível e mais evidente a conexidade entre os dois. Vemos assim mais claramente donde procedemos e para onde iremos. Esse o objetivo essencial das manifestações. Todos os Espíritos, pois, qualquer que seja o grau de elevação em que se encontrem, alguma coisa nos ensinam; cabe-nos, porém, a nós, visto que eles são mais ou menos esclarecidos, discernir o que há de bom ou de mau no que nos digam e tirar, do ensino que nos deem, o proveito possível. Ora, todos, quaisquer que sejam, nos podem ensinar ou revelar coisas que ignoramos e que sem eles nunca saberíamos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  59
 
 Os grandes Espíritos encarnados são, sem contradita, individualidades poderosas, mas de ação restrita e lenta a propagação de seus ensinamentos. Viesse um só dentre eles, embora fosse Elias ou Moisés, Sócrates ou Platão, revelar, nos tempos modernos, aos homens, as condições do mundo espiritual, quem provaria a veracidade das suas asserções, nesta época de ceticismo? Não o tomariam por sonhador ou utopista? Mesmo que fosse [verdade][x8k] absoluta o que dissesse, séculos se escoariam antes que as massas humanas lhe aceitassem as ideias. [Deus][c5m], em sua [sabedoria][i8d], não quis que assim acontecesse; quis que o ensino fosse dado pelos próprios Espíritos, não por encarnados, a fim de que aqueles convencessem da sua existência a estes últimos e quis que isso ocorresse por toda a Terra simultaneamente, quer para que o ensino se propagasse com maior rapidez, quer para que, coincidindo em toda parte, constituísse uma prova da [verdade][x8k], tendo assim cada um o meio de convencer-se a si próprio.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  60
 
 Os Espíritos não se manifestam para libertar do estudo e das pesquisas o homem, nem para lhe transmitirem uma [ciência][h4t] pronta. Com relação ao que o homem pode achar por si mesmo, eles o deixam entregue às suas próprias forças. Isso sabem-no hoje perfeitamente os espíritas. De há muito, a experiência há demonstrado ser errôneo atribuir-se aos Espíritos todo o saber e toda a [sabedoria][i8d], e que bastaria dirigir-se ao primeiro [Espírito][g4f] que se apresente para conhecer todas as coisas. ­Saídos da humanidade, os Espíritos constituem uma de suas faces. Assim como na Terra, entre eles há os superiores e os vulgares; muitos deles, pois, científica e filosoficamente, sabem menos do que certos homens; eles dizem o que sabem, nem mais, nem menos. Do mesmo modo ocorre com os homens, os Espíritos mais adiantados podem instruir-nos sobre maior porção de coisas, dar-nos opiniões mais judiciosas, do que os atrasados. Pedir o homem conselhos aos Espíritos não é entrar em entendimento com potências sobrenaturais; é tratar com seus iguais, com aqueles mesmos a quem ele se dirigiria neste mundo físico; a seus parentes, seus amigos, ou a indivíduos mais esclarecidos do que ele. Disto é que importa se convençam todos e é o que ignoram os que, não tendo estudado o [Espiritismo][f4r], fazem ideia completamente falsa da natureza do mundo dos Espíritos e das relações com o além-túmulo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  61
 
 Qual, então, a utilidade dessas manifestações, ou, se o preferirem, dessa revelação, uma vez que os Espíritos não sabem mais do que nós, ou não nos dizem tudo o que sabem? Primeiramente, como já o declaramos, eles se abstêm de nos dar o que podemos adquirir pelo trabalho; em segundo lugar, há coisas cuja revelação não lhes é permitida, porque o grau do nosso adiantamento não as comporta. Afora isto, as condições da nova existência em que se acham lhes dilatam o círculo das percepções: os Espíritos veem o que não viam quando estavam na Terra; libertos dos entraves da matéria e dos cuidados da [vida][r4f] corpórea, julgam as coisas de um ponto de vista mais elevado e, portanto, mais são; a sua perspicácia abrange mais vasto horizonte; compreendem seus erros, retificam suas ideias e se desembaraçam dos prejuízos humanos. É nisto que consiste a superioridade dos Espíritos com relação à humanidade corpórea e daí vem a possibilidade de serem seus conselhos, segundo o grau de adiantamento que alcançaram, mais judiciosos e desinteressados do que os dos encarnados. O meio em que se encontram lhes permite, ademais, iniciar-nos nas coisas, que ignoramos, relativas à [vida][r4f] futura e que não podemos aprender no meio em que estamos. Até o presente, o homem apenas formulara hipóteses sobre o seu porvir; tal a [razão][f8m] por que suas crenças a esse respeito se fracionaram em tão numerosos e divergentes sistemas, desde o niilismo até as concepções fantásticas do inferno e do paraíso. Hoje, são as testemunhas oculares, os próprios atores da [vida][r4f] de além-túmulo que nos vêm dizer o que é essa [vida][r4f], o que só eles o podiam fazer. Suas manifestações, conseguintemente, serviram para dar-nos a conhecer o mundo invisível que nos rodeia e do qual nem suspeitávamos e só esse conhecimento seria de capital importância, supondo que nada mais pudessem os Espíritos ensinar-nos. Se fordes a um país que ainda não conheçais, recusareis as informações que vos dê o mais humilde campônio que encontrardes? Deixareis de interrogá-lo sobre o estado dos caminhos simplesmente por ser ele um camponês? Certamente não esperareis obter, por seu intermédio, esclarecimentos de grande alcance, mas, de acordo com o que ele é na sua esfera, poderá, sobre alguns pontos, informar-vos melhor do que um sábio que não conheça o país. Tirareis das suas indicações deduções que ele próprio não tiraria, sem que por isso deixe de ser um instrumento útil às vossas observações, embora apenas servisse para vos informar acerca dos costumes dos camponeses. Outro tanto se dá no que concerne às nossas relações com os Espíritos, entre os quais o menos qualificado pode servir para nos ensinar alguma coisa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  62
 
 Uma comparação vulgar tornará ainda melhor compreensível a situação. Parte para destino longínquo um navio carregado de emigrantes. Leva homens de todas as condições, parentes e amigos dos que ficam. Vem-se a saber que esse navio naufragou. Nenhum vestígio resta dele, nenhuma notícia chega sobre a sua sorte. Acredita-se que todos os passageiros pereceram e o luto penetra em todas as suas famílias. Entretanto, a equipagem inteira, sem faltar um único homem, foi ter a uma ilha desconhecida, abundante e fértil, onde todos passam a viver ditosos, sob um céu clemente. Ninguém, todavia, sabe disso. Ora, um belo dia, outro navio aporta a essa terra e lá encontra sãos e salvos os náufragos. A feliz nova se espalha com a rapidez do relâmpago. Exclamam todos: “Não estão perdidos os nossos amigos!” E rendem graças a [Deus][c5m]. Não podem ver-se uns aos outros, mas correspondem-se; permutam demonstrações de afeto e assim a alegria substitui a tristeza. Tal a imagem da [vida][r4f] terrena e da [vida][r4f] de além-túmulo, antes e depois da revelação moderna. A última, semelhante ao segundo navio, nos traz a boa-nova da sobrevivência dos que nos são caros e a certeza de que a eles nos reuniremos um dia. Deixa de existir a dúvida sobre a sorte deles e a nossa. O desânimo se desfaz diante da esperança. Outros resultados fecundam essa revelação. Achando madura a humanidade para penetrar o mistério do seu destino e contemplar, a sangue-frio, novas maravilhas, permitiu [Deus][c5m] fosse erguido o véu que ocultava o mundo invisível ao mundo visível. Nada têm de extra-humanas as manifestações; é a humanidade espiritual que vem conversar com a humanidade corporal e dizer-lhe: “Nós existimos, logo, o nada não existe; eis o que somos e o que sereis; o futuro vos pertence, como a nós. Caminhais nas trevas, vimos clarear-vos o caminho e traçar-vos o roteiro; andais ao acaso, vimos apontar-vos a meta. A [vida][r4f] terrena era, para vós, tudo, porque nada víeis além dela; vimos dizer-vos, mostrando a [vida][r4f] espiritual: a [vida][r4f] terrestre nada é. A vossa visão se detinha no túmulo, nós vos desvendamos, para lá deste, um esplêndido horizonte. Não sabíeis por que sofreis na Terra; agora, no sofrimento, vedes a justiça de [Deus][c5m]. O bem nenhum fruto aparente produzia para o futuro. Doravante, ele terá uma finalidade e constituirá uma necessidade; a fraternidade, que não passava de bela teoria, assenta agora numa lei da natureza. Sob o domínio da crença de que tudo acaba com a [vida][r4f], a imensidade é o vazio, o egoísmo reina soberano entre vós e a vossa palavra de ordem é: ‘Cada um por si.’ Com a certeza do porvir, os espaços infinitos se povoam ao infinito, em parte alguma há o vazio e a solidão; a solidariedade liga todos os seres aquém e além da tumba. É o reino da [caridade][c5q], sob a divisa: ‘Um por todos e todos por um.’ Enfim, ao termo da [vida][r4f], dizíeis eterno adeus aos que vos são caros; agora, dir-lhes-eis: ‘Até breve!’” Tais são, em resumo, os resultados da revelação nova, que veio encher o vácuo que a incredulidade cavara, levantar os ânimos abatidos pela dúvida ou pela perspectiva do nada e imprimir a todas as coisas uma [razão][f8m] de ser. Carecerá de importância esse resultado, apenas porque os Espíritos não vêm resolver os problemas da [Ciência][h4t], dar saber aos ignorantes e aos preguiçosos os meios de se enriquecerem sem trabalho? Nem só, entretanto, à [vida][r4f] futura dizem respeito os frutos que o homem deve colher da nova revelação. Ele os saboreará na Terra, pela transformação que estas novas crenças hão de necessariamente operar no seu caráter, nos seus gostos, nas suas tendências e, por conseguinte, nos hábitos e nas relações sociais. Pondo fim ao reino do egoísmo, do orgulho e da incredulidade, as novas crenças preparam o do bem, que é o reino de [Deus][c5m], anunciado pelo [Cristo][g0s]. [^16]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-02. 🗂️ Deus {#gen-1-02}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  Existência de [Deus][c5m]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 Sendo [Deus][c5m] a causa primária de todas as coisas, a origem de tudo o que existe, a base sobre que repousa o edifício da Criação, é também o ponto que importa consideremos antes de tudo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Constitui princípio elementar que pelos seus efeitos é que se julga de uma causa, mesmo quando ela se conserve oculta. Se, fendendo os ares, um pássaro é atingido por mortífero grão de chumbo, deduz-se que hábil atirador o alvejou, ainda que este último não seja visto. Nem sempre, pois, se faz necessário vejamos uma coisa, para sabermos que ela existe. Em tudo, observando os efeitos é que se chega ao conhecimento das causas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
 Outro princípio igualmente elementar e que, de tão verdadeiro, passou a axioma é o de que todo efeito inteligente tem que decorrer de uma causa inteligente. Se perguntassem qual o construtor de certo mecanismo engenhoso, que pensaríamos de quem respondesse que ele se fez a si mesmo? Quando se contempla uma obra-prima da arte ou da indústria, diz-se que há de tê-la produzido um homem de gênio, porque só uma alta [inteligência][y2h] poderia concebê-la. Reconhece-se, no entanto, que ela é obra de um homem, por se verificar que não está acima da capacidade humana; mas a ninguém acudirá a ideia de dizer que saiu do cérebro de um idiota ou de um ignorante, nem, ainda menos, que é trabalho de um animal, ou produto do acaso.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 Em toda parte se reconhece a presença do homem pelas suas obras. A existência dos homens antediluvianos não se provaria unicamente por meio dos fósseis humanos: provou-a também, e com muita certeza, a presença, nos terrenos daquela época, de objetos trabalhados pelos homens. Um fragmento de vaso, uma pedra talhada, uma arma, um tijolo bastarão para lhe atestar a presença. Pela grosseria ou perfeição do trabalho, reconhecer-se-á o grau de [inteligência][y2h] ou de adiantamento dos que o executaram. Se, pois, achando-vos numa região habitada exclusivamente por selvagens, descobrirdes uma estátua digna de Fídias,[^17] não hesitareis em dizer que, sendo incapazes de tê-la feito os selvagens, ela é obra de uma [inteligência][y2h] superior à destes.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 Pois bem! lançando o olhar em torno de si, sobre as obras da natureza, notando a providência, a [sabedoria][i8d], a harmonia que presidem a essas obras, reconhece o observador não haver nenhuma que não ultrapasse os limites da mais portentosa [inteligência][y2h] humana. Ora, desde que o homem não as pode produzir, é que elas são produto de uma [inteligência][y2h] superior à humanidade, a menos se sustente que há efeitos sem causa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 A isto opõem alguns o seguinte raciocínio: As obras ditas da natureza são produzidas por forças materiais que atuam mecanicamente, em virtude das leis de atração e repulsão; as moléculas dos corpos inertes se agregam e desagregam sob o império dessas leis. As plantas nascem, brotam, crescem e se multiplicam sempre da mesma maneira, cada uma na sua espécie, por efeito daquelas mesmas leis; cada indivíduo se assemelha ao de quem ele proveio; o crescimento, a floração, a frutificação, a coloração se acham subordinados a causas materiais, tais como o calor, a eletricidade, a luz, a umidade etc. O mesmo se dá com os animais. Os astros se formam pela atração molecular e se movem perpetuamente em suas órbitas por efeito da gravitação. Essa regularidade mecânica no emprego das forças naturais não acusa a ação de qualquer [inteligência][y2h] livre. O homem movimenta o braço quando quer e como quer; aquele, porém, que o movimentasse no mesmo sentido, desde o nascimento até a [morte][q4x], seria um autômato. Ora, as forças orgânicas da natureza são puramente automáticas. Tudo isso é [verdade][x8k], mas essas forças são efeitos que hão de ter uma causa e ninguém pretende que elas constituam a Divindade. Elas são forças materiais e mecânicas; não são por si mesmas inteligentes, o que também é [verdade][x8k]; mas são postas em ação, distribuídas, apropriadas às necessidades de cada coisa por uma [inteligência][y2h] que não é a dos homens. A aplicação útil dessas forças é um efeito inteligente que denota uma causa inteligente. Um pêndulo se move com automática regularidade e é nessa regularidade que lhe está o mérito. É toda material a força que o faz mover-se e nada tem de inteligente. Mas que seria esse pêndulo se uma [inteligência][y2h] não houvesse combinado, calculado, distribuído o emprego daquela força, para fazê-lo andar com precisão? Do fato de não estar a [inteligência][y2h] no mecanismo do pêndulo e do fato de que ninguém a vê, seria racional deduzir-se que ela não existe? Julgamo-la pelos seus efeitos. A existência do relógio atesta a existência do relojoeiro; a engenhosidade do mecanismo lhe atesta a [inteligência][y2h] e o saber. Quando um relógio vos indica a hora que desejais saber, quem se lembrará de dizer: aí está um relógio bem inteligente? Outro tanto ocorre com o mecanismo do universo: [Deus][c5m] não se mostra, mas se revela pelas suas obras.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 A existência de [Deus][c5m] é, pois, uma realidade comprovada não só pela revelação, como pela evidência material dos fatos. Os povos selvagens nenhuma revelação tiveram; entretanto, creem instintivamente na existência de um poder sobre-humano. Eles veem coisas que estão acima das possibilidades do homem e deduzem que essas coisas provêm de um ente superior à humanidade. Não demonstram raciocinar com mais lógica do que os que pretendem que tais coisas se fizeram a si mesmas?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  Da natureza divina
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  08
 
 Não é dado ao homem sondar a natureza íntima de [Deus][c5m]. Para compreender [Deus][c5m], ainda nos falta o sentido, que só se adquire com a completa depuração do [Espírito][g4f]. Mas se o homem não pode penetrar a essência de [Deus][c5m], pode ter como premissa a sua existência. O homem pode, então, pela [razão][f8m] chegar a conhecer-lhe os atributos necessários e concluir que esses atributos só podem ser divinos, deduzindo daí quem é [Deus][c5m]. Sem o conhecimento dos atributos de [Deus][c5m], impossível seria compreender-se a obra da Criação. Esse é o ponto de partida de todas as crenças religiosas e por não se terem reportado aos atributos, como ao farol capaz de as orientar, que a maioria das religiões errou em seus dogmas. As que não atribuíram a [Deus][c5m] a onipotência imaginaram muitos deuses; as que não lhe atribuíram soberana bondade fizeram dele um [Deus][c5m] ciumento, colérico, parcial e vingativo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  09
 
 Deus é a suprema e soberana [inteligência][y2h]. É limitada a [inteligência][y2h] do homem, pois que não pode fazer, nem compreender tudo o que existe. A de [Deus][c5m], abrangendo o infinito, tem que ser infinita. Se a supuséssemos limitada num ponto qualquer, poderíamos conceber outro ser mais inteligente, capaz de compreender e fazer o que o primeiro não faria e assim por diante, até o infinito.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  10
 
 Deus é eterno, isto é, não teve começo e não terá fim. Se tivesse tido princípio, houvera saído do nada. Ora, não sendo o nada coisa alguma, coisa nenhuma pode produzir. Ou, então, teria sido criado por outro ser anterior e, nesse caso, este ser é que seria [Deus][c5m]. Se lhe supuséssemos um começo ou fim, poderíamos conceber uma entidade existente antes dele e capaz de lhe sobreviver, e assim por diante, ao infinito.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  11
 
 Deus é imutável. Se estivesse sujeito a mudanças, nenhuma estabilidade teriam as leis que regem o universo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  12
 
 Deus é imaterial, isto é, a sua natureza difere de tudo o que chamamos matéria. De outro modo, não seria imutável, pois estaria sujeito às transformações da matéria. [Deus][c5m] carece de forma apreciável pelos nossos sentidos, sem o que seria matéria. Dizemos: a mão de [Deus][c5m], o olho de [Deus][c5m], a boca de [Deus][c5m], porque o homem, nada mais conhecendo além de si mesmo, toma a si próprio por termo de comparação para tudo o que não compreende. São ridículas essas imagens em que [Deus][c5m] é representado pela figura de um ancião de longas barbas e envolto num manto. Têm o inconveniente de rebaixar o Ente supremo até as mesquinhas proporções da humanidade. Daí a lhe emprestarem as paixões humanas e a fazerem-no um [Deus][c5m] colérico e ciumento não vai mais que um passo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  13
 
 Deus é onipotente. Se não possuísse o poder supremo, sempre se poderia conceber uma entidade mais poderosa e assim por diante, até chegar-se ao ser cuja potencialidade nenhum outro ultrapassasse. Esse então é que seria [Deus][c5m]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
 Deus é soberanamente justo e bom. A providencial [sabedoria][i8d] das Leis divinas se revela nas mais pequeninas coisas, como nas maiores, não permitindo essa [sabedoria][i8d] que se duvide da sua justiça, nem da sua bondade. O fato de ser infinita uma qualidade, exclui a possibilidade de uma qualidade contrária, porque esta a apoucaria ou anularia. Um ser infinitamente bom não poderia conter a mais insignificante parcela de malignidade, nem o ser infinitamente mau conter a mais insignificante parcela de bondade, do mesmo modo que um objeto não pode ser de um negro absoluto, com a mais ligeira nuança de branco, nem de um branco absoluto com a menor mancha preta. [Deus][c5m], pois, não poderia ser simultaneamente bom e mau, porque então, não possuindo qualquer dessas duas qualidades no grau supremo, não seria [Deus][c5m]; todas as coisas estariam sujeitas ao seu capricho e para nenhuma haveria estabilidade. Não poderia Ele, por conseguinte, deixar de ser ou infinitamente bom ou infinitamente mau. Ora, como suas obras dão testemunho da sua [sabedoria][i8d], da sua bondade e da sua solicitude, concluir-se-á que, não podendo ser ao mesmo tempo bom e mau sem deixar de ser [Deus][c5m], Ele necessariamente tem de ser infinitamente bom. A soberana bondade implica a soberana justiça, porquanto, se Ele procedesse injustamente ou com parcialidade numa só circunstância que fosse, ou com relação a uma só de suas criaturas, já não seria soberanamente justo e, em consequência, já não seria soberanamente bom.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  15
 
 Deus é infinitamente perfeito. É impossível conceber-se [Deus][c5m] sem o infinito das perfeições, sem o que não seria [Deus][c5m], pois sempre se poderia conceber um ser que possuísse o que lhe faltasse. Para que nenhum ser possa ultrapassá-lo, faz-se mister que Ele seja infinito em tudo. Sendo infinitos, os atributos de [Deus][c5m] não são suscetíveis nem de aumento, nem de diminuição, visto que do contrário não seriam infinitos e [Deus][c5m] não seria perfeito. Se lhe tirassem a qualquer dos atributos a mais mínima parcela, já não haveria [Deus][c5m], pois que poderia existir um ser mais perfeito.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  16
 
 Deus é único. A unicidade de [Deus][c5m] é consequência do fato de serem infinitas as suas perfeições. Não poderia existir outro [Deus][c5m], salvo sob a condição de ser igualmente infinito em todas as coisas, visto que, se houvesse entre eles a mais ligeira diferença, um seria inferior ao outro, subordinado ao poder desse outro e, então, não seria [Deus][c5m]. Se houvesse entre ambos igualdade absoluta, isso equivaleria a existir, por toda eternidade, um mesmo pensamento, uma mesma vontade, um mesmo poder. Confundidos quanto à identidade, não haveria, em realidade, mais que um único [Deus][c5m]. Se cada um tivesse atribuições especiais, um não faria o que o outro fizesse; mas, então, não existiria igualdade perfeita entre eles, pois que nenhum possuiria a autoridade soberana.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  17
 
 A ignorância do princípio de que são infinitas as perfeições de [Deus][c5m] foi que gerou o politeísmo, culto adotado por todos os povos primitivos, que davam o atributo de divindade a todo poder que lhes parecia acima dos poderes inerentes à humanidade. Mais tarde, a [razão][f8m] os levou a reunir essas diversas potências numa só. Depois, à proporção que os homens foram compreendendo a essência dos atributos divinos, retiraram dos símbolos, que haviam criado, a crença que implicava a negação desses atributos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  18
 
 Em resumo, [Deus][c5m] não pode ser [Deus][c5m], senão sob a condição de que nenhum outro o ultrapasse, porquanto o ser que o excedesse no que quer que fosse, ainda que apenas na grossura de um cabelo, é que seria o verdadeiro [Deus][c5m]. Para que tal não se dê, indispensável se torna que Ele seja infinito em tudo. É assim que, comprovada pelas suas obras a existência de [Deus][c5m], por simples dedução lógica se chega a determinar os atributos que o caracterizam.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  19
 
 Deus é, pois, a [inteligência][y2h] suprema e soberana, é único, eterno, imutável, imaterial, onipotente, soberanamente justo e bom, infinito em todas as perfeições, e não pode ser diverso disso. Tal o eixo sobre que repousa o edifício universal. Esse o farol cujos raios se estendem por sobre o universo inteiro, única luz capaz de guiar o homem na procura da [verdade][x8k]. Orientando-se por essa luz, ele nunca se transviará. Se, portanto, o homem há errado tantas vezes, é unicamente por não ter seguido o roteiro que lhe estava indicado. Tal também o critério infalível de todas as doutrinas filosóficas e religiosas. Para apreciá-las, dispõe o homem de uma medida rigorosamente exata nos atributos de [Deus][c5m] e pode afirmar a si mesmo que toda teoria, todo princípio, todo dogma, toda crença, toda prática que estiver em contradição com um só que seja desses atributos, que tenda não tanto a anulá-lo, mas simplesmente a diminuí-lo, não pode estar com a [verdade][x8k]. Em [Filosofia][n2k], em Psicologia, em Moral, em Religião, só há de verdadeiro o que não se afaste, nem um til, das qualidades essenciais da Divindade. A religião perfeita será aquela de cujos artigos de fé nenhum esteja em oposição àquelas qualidades; aquela cujos dogmas todos suportem a prova dessa verificação sem nada sofrerem.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  A Providência
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  20
 
 A providência é a solicitude de [Deus][c5m] para com as suas criaturas. Ele está em toda parte, tudo vê, a tudo preside, mesmo às menores coisas. É nisto que consiste a ação providencial. “Como pode [Deus][c5m], tão grande, tão poderoso, tão superior a tudo, imiscuir-se em pormenores ínfimos, preocupar-se com os menores atos e os menores pensamentos de cada indivíduo?” Esta a interrogação que a si mesmo dirige o incrédulo, concluindo por dizer que, admitida a existência de [Deus][c5m], só se pode admitir, quanto à sua ação, que ela se exerça sobre as leis gerais do universo; que o universo funcione de toda a eternidade em virtude dessas leis, às quais toda criatura se acha submetida na esfera de suas atividades, sem que haja mister a intervenção incessante da ­Providência.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  21
 
 No estado de inferioridade em que ainda se encontram, só muito dificilmente podem os homens compreender que [Deus][c5m] seja infinito, pois, vendo-se limitados e circunscritos, eles o imaginam também circunscrito e limitado. Imaginando-o circunscrito, figuram-no quais eles são, à imagem e semelhança deles. Os quadros em que o vemos com traços humanos não contribuem pouco para entreter esse erro no espírito das massas, que nele adoram mais a forma que o pensamento. Para a maioria, é Ele um soberano poderoso, sentado num trono inacessível e perdido na imensidade dos céus. Tendo restritas suas faculdades e percepções, não compreendem que [Deus][c5m] possa e se digne de intervir diretamente nas pequeninas coisas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  22
 
 Impotente para compreender a essência mesma da Divindade, o homem não pode fazer dela mais do que uma ideia aproximativa, mediante comparações necessariamente muito imperfeitas, mas que, ao menos, servem para lhe mostrar a possibilidade daquilo que, à primeira vista, lhe parece impossível. Suponhamos um fluido bastante sutil para penetrar todos os corpos. Sendo ininteligente, esse fluido atua mecanicamente, por meio tão só das forças materiais. Se, porém, o supusermos dotado de [inteligência][y2h], de faculdades perceptivas e sensitivas, ele já não atuará às cegas, mas com discernimento, com vontade e liberdade: verá, ouvirá e sentirá.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 As propriedades do fluido perispirítico podem nos dar uma ideia. Ele não é de si mesmo inteligente, pois que é matéria, mas é o veículo do pensamento, das sensações e percepções do [Espírito][g4f]. O fluido perispiritual não é o pensamento do [Espírito][g4f]; é, porém, o agente e o intermediário desse pensamento. Sendo ele que o transmite, fica, de certo modo, impregnado do pensamento transmitido, e na impossibilidade em que nos achamos de isolar o pensamento, a nós parece que ele faz corpo com o fluido, dando a entender que são uma coisa só, como sucede com o som e o ar, de maneira que podemos, a bem dizer, materializá-lo. Assim como dizemos que o ar se torna sonoro, poderíamos, tomando o efeito pela causa, dizer que o fluido se torna inteligente.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  24
 
 Seja ou não assim no que concerne ao pensamento de [Deus][c5m], isto é, que o pensamento de [Deus][c5m] atue diretamente ou por intermédio de um fluido, para facilitar a nossa [inteligência][y2h], figuremo-lo sob a forma concreta de um fluido inteligente que enche o universo infinito e penetra todas as partes da Criação: a natureza inteira está mergulhada no fluido divino. Ora, em virtude do princípio de que as partes de um todo são da mesma natureza e têm as mesmas propriedades que ele, cada átomo desse fluido, se assim nos podemos exprimir, possuindo o pensamento, isto é, os atributos essenciais da Divindade e estando o mesmo fluido em toda parte, tudo está submetido à sua ação inteligente, à sua previdência, à sua solicitude. Nenhum ser haverá, por mais ínfimo que o suponhamos, que não esteja saturado dele. Achamo-nos então, constantemente, em presença da Divindade; nenhuma das nossas ações lhe podemos subtrair ao olhar; o nosso pensamento está em contato ininterrupto com o seu pensamento, havendo, pois, [razão][f8m] para dizer-se que [Deus][c5m] vê os mais profundos refolhos do nosso coração. Estamos nele, como Ele está em nós, segundo a palavra do [Cristo][g0s] (1 João, 4:13). Para estender a sua solicitude a todas as criaturas, não precisa [Deus][c5m] lançar o olhar do Alto da imensidade. As nossas preces, para que Ele as ouça, não precisam transpor o espaço, nem ser ditas com voz retumbante, pois que, estando sempre ao nosso lado, os nossos pensamentos repercutem nele. Os nossos pensamentos são como os sons de um sino, que fazem vibrar todas as moléculas do ar ambiente.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  25
 
 Longe de nós a ideia de materializar a Divindade. A imagem de um fluido inteligente universal evidentemente não passa de uma comparação apropriada a dar de [Deus][c5m] uma ideia mais exata do que os quadros que o apresentam debaixo de uma figura humana. Essa imagem se destina a fazer compreensível a possibilidade que tem [Deus][c5m] de estar em toda parte e de se ocupar com todas as coisas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  26
 
 Temos constantemente sob as vistas um exemplo que nos permite fazer ideia do modo por que talvez se exerça a ação de [Deus][c5m] sobre as partes mais íntimas de todos os seres e, conseguintemente, do modo por que lhe chegam as mais sutis impressões de nossa [alma][q3f]. Esse exemplo tiramo-lo de certa instrução que a tal respeito deu um [Espírito][g4f].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  27
 
 “O homem é um pequeno mundo, que tem como diretor o [Espírito][g4f] e como dirigido o corpo. Nesse universo, o corpo representará uma criação cujo [Espírito][g4f] seria [Deus][c5m]. (Compreendei bem que aqui há uma simples questão de analogia e não de identidade.) Os membros desse corpo, os diferentes órgãos que o compõem, os músculos, os nervos, as articulações são outras tantas individualidades materiais, se assim se pode dizer, localizadas em pontos especiais do corpo. Se bem seja considerável o número de suas partes constitutivas, de natureza tão variada e diferente, a ninguém é lícito supor que se possam produzir movimentos, ou uma impressão em qualquer lugar, sem que o [Espírito][g4f] tenha [consciência][h7z] do que ocorra. Há sensações diversas em muitos lugares simultaneamente? O [Espírito][g4f] as sente todas, distingue, analisa, assinala a cada uma a causa determinante e o ponto em que se produziu, tudo por meio do fluido perispirítico. “Análogo fenômeno ocorre entre [Deus][c5m] e a Criação. [Deus][c5m] está em toda parte, na natureza, como o [Espírito][g4f] está em toda parte, no corpo. Todos os elementos da Criação se acham em relação constante com Ele, como todas as células do corpo humano se acham em contato imediato com o ser espiritual. Não há, pois, [razão][f8m] para que fenômenos da mesma ordem não se produzam de maneira idêntica, num e noutro caso. “Um membro se agita: o [Espírito][g4f] o sente; uma criatura pensa: [Deus][c5m] o sabe. Todos os membros estão em movimento, os diferentes órgãos estão a vibrar; o [Espírito][g4f] se ressente de todas as manifestações, as distingue e localiza. As diferentes criações, as diferentes criaturas se agitam, pensam, agem diversamente: [Deus][c5m] sabe o que se passa e assina a cada um o que lhe diz respeito. “Daí se pode igualmente deduzir a solidariedade da matéria e da [inteligência][y2h], a solidariedade entre si de todos os seres de um mundo, a de todos os mundos e, por fim, de todas as criações com o Criador.” (Quinemant, Sociedade de Paris, 1867.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  28
 
 Compreendemos o efeito: já é muito. Do efeito remontamos à causa e julgamos da sua grandeza pela grandeza do efeito. Escapa-nos, porém, a sua essência íntima, como a da causa de uma imensidade de fenômenos. Conhecemos os efeitos da eletricidade, do calor, da luz, da gravitação; calculamo-los e, entretanto, ignoramos a natureza íntima do princípio que os produz. [^18] Será então racional neguemos o princípio divino, porque não o compreendemos?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  29
 
 Nada obsta a que se admita, para o princípio da soberana [inteligência][y2h], um centro de ação, um foco principal a irradiar incessantemente, inundando o universo com seus eflúvios, como o Sol com a sua luz. Mas onde esse foco? É o que ninguém pode dizer. Provavelmente, não se acha fixado em determinado ponto, como não o está a sua ação, sendo também provável que percorra constantemente as regiões do espaço sem-fim. Se simples Espíritos têm o dom da ubiquidade, em [Deus][c5m] há de ser sem limites essa faculdade. Enchendo [Deus][c5m] o universo, poder-se-ia ainda admitir, a título de hipótese, que esse foco não precisa transportar-se, por se formar em todas as partes onde a soberana vontade julga conveniente que ele se produza, donde o poder dizer-se que está em toda parte e em parte nenhuma.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  30
 
 Diante desses problemas insondáveis, cumpre que a nossa [razão][f8m] se humilhe. [Deus][c5m] existe: disso não podemos duvidar. É infinitamente justo e bom: essa a sua essência. A tudo se estende a sua solicitude: compreendemo-lo. Só o nosso bem, portanto, pode Ele querer, donde se segue que devemos confiar nele, isso é essencial. Quanto ao mais, esperemos que nos tenhamos tornado dignos de o compreender.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  A visão de [Deus][c5m]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  31
 
 Se [Deus][c5m] está em toda parte, por que não o vemos? Vê-lo-emos quando deixarmos a Terra? Tais as perguntas que se formulam todos os dias. À primeira é fácil responder. Por serem limitadas as percepções dos nossos órgãos visuais, elas os tornam inaptos à visão de certas coisas, mesmo materiais. Assim é que alguns fluidos nos fogem totalmente à nossa visão e aos instrumentos de análise; entretanto, não duvidamos da existência deles. Vemos os efeitos da peste, mas não vemos o fluido que a transporta; [^19] vemos os corpos em movimento sob a influência da força de gravitação, mas não vemos essa força.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  32
 
 Os nossos órgãos materiais não podem perceber as coisas de essência espiritual. Unicamente com a visão espiritual é que podemos ver os Espíritos e as coisas do mundo imaterial. Somente a nossa [alma][q3f], portanto, pode ter a percepção de [Deus][c5m]. Dar-se-á que ela o veja logo após a [morte][q4x]? A esse respeito, só as comunicações de além-túmulo nos podem instruir. Por elas sabemos que a visão de [Deus][c5m] constitui privilégio das mais purificadas almas e que bem poucas, ao deixarem o envoltório terrestre, se encontram no grau de desmaterialização necessária a tal efeito. Uma comparação vulgar tornará facilmente compreensível essa condição.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  33
 
 Uma pessoa que se ache no fundo de um vale, envolvido por densa bruma, não vê o Sol. Entretanto, pela luz difusa, percebe a claridade do Sol. Se começa a subir a montanha, à medida que for ascendendo, o nevoeiro se irá dissipando e a luz ficará cada vez mais viva. Contudo, ainda não verá o Sol. Só depois que se haja elevado acima da camada brumosa e chegado a um ponto onde o ar esteja perfeitamente límpido, ela o contemplará em todo o seu esplendor. O mesmo se dá com a [alma][q3f]. O envoltório perispirítico, conquanto nos seja invisível e impalpável, é, com relação a ela, verdadeira matéria, ainda grosseira demais para certas percepções. Esse invólucro, porém, se espiritualiza, à proporção que a [alma][q3f] se eleva em moralidade. As imperfeições da [alma][q3f] são quais camadas nevoentas que lhe obscurecem a visão. Cada imperfeição de que ela se desfaz é uma mácula a menos; todavia, só depois de se haver depurado completamente é que goza da plenitude das suas faculdades.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  34
 
 Sendo [Deus][c5m] a essência divina por excelência, unicamente os Espíritos que atingiram o mais alto grau de desmaterialização o podem perceber. Pelo fato de os Espíritos imperfeitos não verem a [Deus][c5m], não se segue que eles estejam mais distantes de [Deus][c5m] do que os outros; esses Espíritos, como os demais, como todos os seres da natureza, se encontram mergulhados no fluido divino, do mesmo modo que nós o estamos na luz. O que há é que as imperfeições daqueles Espíritos são vapores que os impedem de vê-lo. Quando o nevoeiro se dissipar, vê-lo-ão resplandecer. Para isso, não lhes é preciso subir, nem procurá-lo nas profundezas do infinito. Desimpedida a visão espiritual das belidas que a obscureciam, eles o verão de todo lugar onde se achem, mesmo da Terra, porquanto [Deus][c5m] está em toda parte.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  35
 
 O [Espírito][g4f] só se depura com o tempo, sendo as diversas encarnações o alambique em cujo fundo deixa de cada vez algumas impurezas. Com o abandonar o seu invólucro corpóreo, os Espíritos não se despojam instantaneamente de suas imperfeições, [razão][f8m] por que, depois da [morte][q4x], não veem a [Deus][c5m] mais do que o viam quando vivos; mas, à medida que se depuram, têm dele uma intuição mais clara. Não o veem, mas compreendem-no melhor; a luz é menos difusa. Quando, pois, alguns Espíritos dizem que [Deus][c5m] lhes proíbe respondam a uma dada pergunta não é que [Deus][c5m] lhes apareça, ou dirija a palavra, para lhes ordenar ou proibir isto ou aquilo, não; eles, porém, o sentem; recebem os eflúvios do seu pensamento, como nos sucede com relação aos Espíritos que nos envolvem em seus fluidos, embora não os vejamos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  36
 
 Nenhum homem, conseguintemente, pode ver a [Deus][c5m] com os olhos da carne. Se essa graça fosse concedida a alguns, só o seria no estado de êxtase, quando a [alma][q3f] se acha tão desprendida dos laços da matéria que torna possível o fato durante a encarnação. Tal privilégio, aliás, exclusivamente pertenceria a almas de eleição, encarnadas em missão, que não em expiação. Mas como os Espíritos da mais elevada categoria refulgem de ofuscante brilho, pode dar-se que Espíritos menos elevados, encarnados ou desencarnados, maravilhados com o esplendor de que aqueles se mostram cercados, suponham estar vendo o próprio [Deus][c5m]. É como quem vê um ministro e o toma pelo seu soberano.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  37
 
 Sob que aparência se apresenta [Deus][c5m] aos que se tornaram dignos de vê-lo? Será sob uma forma qualquer? Sob uma figura humana, ou como um foco de resplendente luz? A linguagem humana é impotente para dizê-lo, porque não existe para nós nenhum ponto de comparação capaz de nos facultar uma ideia de tal coisa. Somos quais cegos de nascença a quem procurassem inutilmente fazer compreendessem o brilho do Sol. A nossa linguagem é limitada pelas nossas necessidades e pelo círculo das nossas ideias; a dos selvagens não poderia descrever as maravilhas da [civilização][t2q]; a dos povos mais civilizados é extremamente pobre para descrever os esplendores dos céus, a nossa [inteligência][y2h] muito restrita para os compreender e a nossa vista, por muito fraca, ficaria deslumbrada.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-03. 🗂️ O bem e o mal {#gen-1-03}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  Origem do bem e do mal
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 Sendo [Deus][c5m] o princípio de todas as coisas e sendo todo [sabedoria][i8d], todo bondade, todo justiça, tudo o que dele procede há de participar dos seus atributos, porquanto o que é infinitamente sábio, justo e bom nada pode produzir que seja ininteligente, mau e injusto. O mal que observamos não pode ter nele a sua origem.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Se o mal estivesse nas atribuições de um ser especial, quer se lhe chame Arimane, [^20] quer Satanás, ou ele seria igual a [Deus][c5m], e, por conseguinte, tão poderoso quanto este, e de toda a eternidade como Ele, ou lhe seria inferior. No primeiro caso, haveria duas potências rivais, incessantemente em luta, procurando cada uma desfazer o que fizesse a outra, contrariando-se mutuamente, hipótese esta inconciliável com a unidade de vistas que se revela na estrutura do universo. No segundo caso, sendo inferior a [Deus][c5m], aquele ser lhe estaria subordinado. Não podendo existir de toda a eternidade como [Deus][c5m], sem ser igual a este, teria tido um começo. Se fora criado, só o poderia ter sido por [Deus][c5m], que, então, houvera criado o [Espírito][g4f] do mal, o que implicaria negação da bondade infinita. (Veja-se: O céu e o inferno, cap. IX: Os demônios.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
 Entretanto, o mal existe e tem uma causa. Os males de toda espécie, físicos ou morais, que afligem a humanidade, formam duas categorias que importa distinguir: a dos males que o homem pode evitar e a dos que lhe independem da vontade. Entre os últimos, cumpre se incluam os flagelos naturais. O homem, cujas faculdades são restritas, não pode penetrar, nem abarcar o conjunto dos desígnios do Criador; aprecia as coisas do ponto de vista da sua personalidade, dos interesses factícios e convencionais que criou para si mesmo e que não se compreendem na ordem da natureza. Por isso é que, muitas vezes, se lhe afigura mau e injusto aquilo que consideraria justo e admirável, se lhe conhecesse a causa, o objetivo, o resultado definitivo. Pesquisando a [razão][f8m] de ser e a utilidade de cada coisa, verificará que tudo traz o sinete da [sabedoria][i8d] infinita e se dobrará a essa [sabedoria][i8d], mesmo com relação ao que lhe não seja compreensível.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 O homem recebeu em partilha uma [inteligência][y2h] com cujo auxílio lhe é possível conjurar, ou, pelo menos, atenuar muito os efeitos de todos os flagelos naturais. Quanto mais saber ele adquire e mais se adianta em [civilização][t2q], tanto menos desastrosos se tornam os flagelos. Com uma organização sábia e previdente, chegará mesmo a lhes neutralizar as consequências, quando não possam ser inteiramente evitados. Assim, com referência, até, aos flagelos que têm certa utilidade para a ordem geral da natureza e para o futuro, mas que, no presente, causam danos, facultou [Deus][c5m] ao homem os meios de lhes paralisar os efeitos. Assim é que ele saneia as regiões insalubres, imuniza contra os miasmas pestíferos, fertiliza terras áridas e se esforça em preservá-las das inundações; constrói habitações mais salubres, mais sólidas para resistirem aos ventos tão necessários à purificação da atmosfera e se coloca ao abrigo das intempéries. É assim, finalmente, que, pouco a pouco, a necessidade lhe fez criar as ciências, por meio das quais melhora as condições de habitabilidade do globo e aumenta o seu próprio bem-estar.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 Tendo o homem que progredir, os males a que se acha exposto são um estimulante para o exercício da sua [inteligência][y2h], de todas as suas faculdades físicas e morais, incitando-o a procurar os meios de evitá-los. Se ele nada houvesse de temer, nenhuma necessidade o induziria a procurar o melhor; o espírito se lhe entorpeceria na inatividade; nada inventaria, nem descobriria. A dor é o aguilhão que o impele para a frente, na senda do progresso.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 Porém, os males mais numerosos são os que o homem cria pelos seus vícios, os que provêm do seu orgulho, do seu egoísmo, da sua ambição, da sua cupidez, de seus excessos em tudo. Aí a causa das guerras e das calamidades que estas acarretam, das dissensões, das injustiças, da opressão do fraco pelo forte, da maior parte, afinal, das enfermidades. [Deus][c5m] promulgou leis plenas de [sabedoria][i8d], tendo por único objetivo o bem. Em si mesmo encontra o homem tudo o que lhe é necessário para cumpri-las. A [consciência][h7z] lhe traça a rota, a lei divina lhe está gravada no coração e, ademais, [Deus][c5m] lha lembra constantemente por intermédio de seus messias e profetas, de todos os Espíritos encarnados que trazem a missão de o esclarecer, moralizar e melhorar e, nestes últimos tempos, pela multidão dos Espíritos desencarnados que se manifestam em toda parte. Se o homem se conformasse rigorosamente com as Leis divinas, não há duvidar de que se pouparia aos mais agudos males e viveria ditoso na Terra. Se assim procede, é por virtude do seu livre-arbítrio: sofre então as consequências do seu proceder. (O evangelho segundo o espiritismo, cap. V, item 4 e seguintes.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 Entretanto, [Deus][c5m], todo bondade, pôs o remédio ao lado do mal, isto é, faz que do próprio mal saia o bem. Um momento chega em que o excesso do mal [moral][h4c] se torna intolerável e impõe ao homem a necessidade de mudar de [vida][r4f]. Instruído pela experiência, ele se sente compelido a procurar no bem o remédio, sempre por efeito do seu livre-arbítrio. Quando toma melhor caminho, é por sua vontade e porque reconheceu os inconvenientes do outro. A necessidade, pois, o constrange a melhorar-se moralmente, para ser mais feliz, do mesmo modo que o constrangeu a melhorar as condições materiais da sua existência (item 5).
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 Pode dizer-se que o mal é a ausência do bem, como o frio é a ausência do calor. Assim como o frio não é um fluido especial, também o mal não é atributo distinto; um é o negativo do outro. Onde não existe o bem, forçosamente existe o mal. Não praticar o mal, já é um princípio do bem. [Deus][c5m] somente quer o bem; só do homem procede o mal. Se na Criação houvesse um ser preposto ao mal, ninguém o poderia evitar; mas, tendo o homem a causa do mal em SI MESMO, tendo simultaneamente o livre-arbítrio e por guia as Leis divinas, evitá-lo-á sempre que o queira. Tomemos para comparação um fato vulgar. Sabe um proprietário que nos confins de suas terras há um lugar perigoso, onde poderia perecer ou ferir-se quem por lá se aventurasse. Que faz, a fim de prevenir os acidentes? Manda colocar perto um aviso, proibindo que prossigam os que por ali passem, devido ao perigo. Aí está a lei, que é sábia e previdente. Se, apesar de tudo, um imprudente desatende o aviso, vai além do ponto onde este se encontra e sai-se mal, de quem se pode ele queixar, senão de si próprio? Assim sucede com todo o mal: evitá-lo-ia o homem se cumprisse as Leis divinas. Por exemplo: [Deus][c5m] pôs limite à satisfação das necessidades; por meio da saciedade o homem é avisado desse limite; se o ultrapassa, fá-lo voluntariamente. As doenças, as enfermidades, a [morte][q4x], que daí podem resultar, provêm da sua imprevidência, não de [Deus][c5m].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  09
 
 Decorrendo, o mal, das imperfeições do homem e tendo sido este criado por [Deus][c5m], dir-se-á, [Deus][c5m] não deixa de ter criado, se não o mal, pelo menos, a causa do mal; se houvesse criado perfeito o homem, o mal não existiria. Se fora criado perfeito, o homem fatalmente penderia para o bem. Ora, em virtude do seu livre-arbítrio, ele não pende fatalmente nem para o bem, nem para o mal. Quis [Deus][c5m] que ele ficasse sujeito à lei do progresso e que o progresso resulte do seu trabalho, a fim de que lhe pertença o fruto deste, da mesma maneira que lhe cabe a responsabilidade do mal que por sua vontade pratique. A questão, pois, consiste em saber-se qual é, no homem, a origem da sua propensão para o mal. [^21]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  10
 
 Estudando-se todas as paixões e, mesmo, todos os vícios, vê-se que as raízes de umas e outros se acham no instinto de conservação, instinto que se encontra em toda a pujança nos animais e nos seres primitivos mais próximos da animalidade, nos quais ele exclusivamente domina, sem o contrapeso do senso [moral][h4c], por não ter ainda o ser nascido para a [vida][r4f] intelectual. O instinto se enfraquece, à medida que a [inteligência][y2h] se desenvolve, porque esta domina a matéria.
 O [Espírito][g4f] tem por destino a [vida][r4f] espiritual, porém, nas primeiras fases da sua existência corpórea, somente às exigências materiais lhe cumpre satisfazer e, para tal, o exercício das paixões constitui uma necessidade para a conservação da espécie e dos indivíduos, materialmente falando. Mas, uma vez saído desse período, outras necessidades se lhe apresentam, a princípio semimorais e semimateriais, depois exclusivamente morais. É então que o [Espírito][g4f] exerce domínio sobre a matéria, sacode-lhe o jugo, avança pela senda providencial que se lhe acha traçada e se aproxima do seu destino final. Se, ao contrário, ele se deixa dominar pela matéria, atrasa-se e se identifica com o bruto. Nessa situação, o que era outrora um bem, porque era uma necessidade da sua natureza, transforma-se num mal, não só porque já não constitui uma necessidade, como porque se torna prejudicial à espiritualização do ser. Muita coisa, que é qualidade na criança, torna-se defeito no adulto. O mal é, pois, relativo e a responsabilidade é proporcionada ao grau de adiantamento. Todas as paixões têm, portanto, uma utilidade providencial, pois, se assim não fosse, [Deus][c5m] teria feito coisas inúteis e até nocivas. No abuso é que reside o mal e o homem abusa em virtude do seu livre-arbítrio. Mais tarde, esclarecido pelo seu próprio interesse, livremente escolhe entre o bem e o mal.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  O instinto e a [inteligência][y2h]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
 Qual a diferença entre o instinto e a [inteligência][y2h]? Onde acaba um e o outro começa? Será o instinto uma [inteligência][y2h] rudimentar, ou será uma faculdade distinta, um atributo exclusivo da matéria? O instinto é a força oculta que solicita os seres orgânicos a atos espontâneos e involuntários, tendo em vista a conservação deles. Nos atos instintivos não há reflexão, nem combinação, nem premeditação. É assim que a planta procura o ar, se volta para a luz, dirige suas raízes para a água e para a terra nutriente; que a flor se abre e fecha alternadamente, conforme se lhe faz necessário; que as plantas trepadeiras se enroscam em torno daquilo que lhes serve de apoio, ou se lhe agarram com as gavinhas. É pelo instinto que os animais são avisados do que lhes é útil ou nocivo; que buscam, conforme a estação, os climas propícios; que constroem, sem ensino prévio, com mais ou menos arte, segundo as espécies, leitos macios e abrigos para as suas progênies, armadilhas para apanhar a presa de que se nutrem; que manejam destramente as armas ofensivas e defensivas de que são providos; que os sexos se aproximam; que a mãe choca os filhos e que estes procuram o seio materno. No homem, no começo da [vida][r4f] o instinto domina com exclusividade; é por instinto que a criança faz os primeiros movimentos, que toma o alimento, que grita para exprimir as suas necessidades, que imita o som da voz, que tenta falar e andar. No próprio adulto, certos atos são instintivos, tais como os movimentos espontâneos para evitar um risco, para fugir a um perigo, para manter o equilíbrio do corpo; tais ainda o piscar das pálpebras para moderar o brilho da luz, a respiração etc.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 A [inteligência][y2h] se revela por atos voluntários, refletidos, premeditados, combinados, de acordo com a oportunidade das circunstâncias. É incontestavelmente um atributo exclusivo da [alma][q3f]. Todo ato maquinal é instintivo; o ato que denota reflexão, combinação, deliberação é inteligente. Um é livre, o outro não o é. O instinto é guia seguro, que nunca se engana; a [inteligência][y2h], pelo simples fato de ser livre, está, por vezes, sujeita a errar. Ao ato instintivo falta o caráter do ato inteligente; revela, entretanto, uma causa inteligente, essencialmente apta a prever. Se se admitir que o instinto procede da matéria, ter-se-á de admitir que a matéria é inteligente, até mesmo bem mais inteligente e previdente do que a [alma][q3f], pois que o instinto não se engana, ao passo que a [inteligência][y2h] se equivoca. Se se considerar o instinto uma [inteligência][y2h] rudimentar, como se há de explicar que, em certos casos, seja superior à [inteligência][y2h] que raciocina? Como explicar que torne possível se executem atos que esta não pode realizar? Se ele é atributo de um princípio espiritual de especial natureza, qual vem a ser esse princípio? Pois que o instinto se apaga, dar-se-á que esse princípio se destrua? Se os animais são dotados apenas de instinto, não tem solução o destino deles e nenhuma compensação os seus sofrimentos, o que não estaria de acordo nem com a justiça, nem com a bondade de [Deus][c5m]. (Cap. II, 19.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
 Segundo outros sistemas, o instinto e a [inteligência][y2h] procederiam de um único princípio. Chegado a certo grau de desenvolvimento, esse princípio, que primeiramente apenas tivera as qualidades do instinto, passaria por uma transformação que lhe daria as da [inteligência][y2h] livre. Se fosse assim, no homem inteligente que perde a [razão][f8m] e entra a ser guiado exclusivamente pelo instinto, a [inteligência][y2h] voltaria ao seu estado primitivo e, quando o homem recobrasse a [razão][f8m], o instinto se tornaria [inteligência][y2h] e assim alternadamente, a cada acesso, o que não é admissível. Aliás, muitas vezes o instinto e a [inteligência][y2h] se revelam simultaneamente no mesmo ato. No caminhar, por exemplo, o movimento das pernas é instintivo; o homem põe maquinalmente um pé à frente do outro, sem nisso pensar; quando, porém, ele quer acelerar ou demorar o passo, levantar o pé ou desviar-se de um tropeço, há cálculo, combinação; ele age com deliberado propósito. A impulsão involuntária do movimento é o ato instintivo; a calculada direção do movimento é o ato inteligente. O animal carnívoro é impelido pelo instinto a se alimentar de carne, mas as precauções que toma e que variam conforme as circunstâncias, para segurar a presa, a sua previdência das eventualidades são atos da [inteligência][y2h].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  14
 
 Outra hipótese que, em suma, se conjuga perfeitamente à ideia da unidade de princípio, ressalta do caráter essencialmente previdente do instinto e concorda com o que o [Espiritismo][f4r] ensina, no tocante às relações do mundo espiritual com o mundo corpóreo. Sabe-se agora que muitos Espíritos desencarnados têm por missão velar pelos encarnados, dos quais se constituem protetores e guias; que os envolvem nos seus eflúvios fluídicos; que o homem age muitas vezes de modo inconsciente, sob a ação desses eflúvios. Sabe-se, ademais, que o instinto, que por si mesmo produz atos inconscientes, predomina nas crianças e, em geral, nos seres cuja [razão][f8m] é fraca. Ora, segundo esta hipótese, o instinto não seria atributo nem da [alma][q3f], nem da matéria; não pertenceria propriamente ao ser vivo, seria efeito da ação direta dos protetores invisíveis que supririam a imperfeição da [inteligência][y2h], provocando os atos inconscientes necessários à conservação do ser. Seria qual a andadeira com que se amparam as crianças que ainda não sabem andar. Então, do mesmo modo que se deixa gradualmente de usar a andadeira, à medida que a criança se equilibra sozinha, os Espíritos protetores deixam entregues a si mesmos os seus protegidos, à medida que estes se tornam aptos a guiar-se pela própria [inteligência][y2h]. Assim, o instinto, longe de ser produto de uma [inteligência][y2h] rudimentar e incompleta, sê-lo-ia de uma [inteligência][y2h] estranha, na plenitude da sua força, [inteligência][y2h] protetora, que supriria a insuficiência, quer de uma [inteligência][y2h] mais jovem, que aquela compeliria a fazer, inconscientemente, para seu bem, o que ainda fosse incapaz de fazer por si mesma, quer de uma [inteligência][y2h] madura, porém, momentaneamente tolhida no uso de suas faculdades, como se dá com o homem na infância e nos casos de idiotia e de afecções mentais. Diz-se proverbialmente que há um deus para as crianças, para os loucos e para os ébrios. É mais veraz do que se supõe esse ditado. Aquele deus, outro não é senão o [Espírito][g4f] protetor, que vela pelo ser incapaz de se proteger, utilizando-se da sua própria [razão][f8m].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
 Nesta ordem de ideias, ainda mais longe se pode ir. Por muito racional que seja, essa teoria não resolve todas as dificuldades da questão. Se observarmos os efeitos do instinto, notaremos, em primeiro lugar, uma unidade de vistas e de conjunto, uma segurança de resultados, que cessam logo que a [inteligência][y2h] livre substitui o instinto. Demais, reconheceremos profunda [sabedoria][i8d] na apropriação tão perfeita e tão constante das faculdades instintivas às necessidades de cada espécie. Semelhante unidade de vistas não poderia existir sem a unidade de pensamento e esta é incompatível com a diversidade das aptidões individuais; só ela poderia produzir esse conjunto tão harmonioso que se realiza desde a origem dos tempos e em todos os climas, com uma regularidade, uma precisão matemáticas, cuja ausência jamais se nota. A uniformidade no que resulta das faculdades instintivas é um fato característico, que forçosamente implica a unidade da causa. Se a causa fosse inerente a cada individualidade, haveria tantas variedades de instintos quantos fossem os indivíduos, desde a planta até o homem. Um efeito geral, uniforme e constante, há de ter uma causa geral, uniforme e constante; um efeito que atesta [sabedoria][i8d] e previdência há de ter uma causa sábia e previdente. Ora, uma causa dessa natureza, sendo por força inteligente, não pode ser exclusivamente material. Não se nos deparando nas criaturas, encarnadas ou desencarnadas, as qualidades necessárias à produção de tal resultado, temos que subir mais alto, isto é, ao próprio Criador. Se nos reportamos à explicação dada sobre a maneira por que se pode conceber a ação providencial (cap. II, item 24); se figurarmos todos os seres penetrados do fluido divino, soberanamente inteligente, compreenderemos a [sabedoria][i8d] previdente e a unidade de vistas que presidem a todos os movimentos instintivos que se efetuam para o bem de cada indivíduo. Tanto mais ativa é essa solicitude, quanto menos recursos tem o indivíduo em si mesmo e na sua [inteligência][y2h]. Por isso é que ela se mostra maior e mais absoluta nos animais e nos seres inferiores, do que no homem. Segundo essa teoria, compreende-se que o instinto seja um guia seguro. O instinto materno, o mais nobre de todos, que o [materialismo][m3n] rebaixa ao nível das forças atrativas da matéria, fica realçado e enobrecido. Em [razão][f8m] das suas consequências, não devia ele ser entregue às eventualidades caprichosas da [inteligência][y2h] e do livre-arbítrio. Por intermédio da mãe, o próprio [Deus][c5m] vela pelas suas criaturas que nascem.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 Esta teoria de nenhum modo anula o papel dos Espíritos protetores, cujo concurso é fato observado e comprovado pela experiência; mas deve-se notar que a ação desses Espíritos é essencialmente individual; que se modifica segundo as qualidades próprias do protetor e do protegido e que em parte nenhuma apresenta a uniformidade e a generalidade do instinto. [Deus][c5m], em sua [sabedoria][i8d], conduz Ele próprio os cegos, porém confia a inteligências livres o cuidado de guiar os clarividentes, para deixar a cada um a responsabilidade de seus atos. A missão dos Espíritos protetores constitui um dever que eles aceitam voluntariamente e lhes é um meio de se adiantarem, dependendo o adiantamento da forma por que o desempenhem.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
 Todas essas maneiras de considerar o instinto são forçosamente hipotéticas e nenhuma apresenta caráter seguro de autenticidade, para ser tida como solução definitiva. A questão, sem dúvida, será resolvida um dia, quando se houverem reunido os elementos de observação que ainda faltam. Até lá, temos que limitar-nos a submeter as diversas opiniões ao cadinho da [razão][f8m] e da lógica e esperar que a luz se faça. A solução que mais se aproxima da [verdade][x8k] será decerto a que melhor condiga com os atributos de [Deus][c5m], isto é, com a bondade suprema e a suprema justiça. (Cap. II, item 19.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  18
 
 Sendo o instinto o guia e as paixões as molas da [alma][q3f] no período inicial do seu desenvolvimento, por vezes aquele e estas se confundem nos efeitos. Há, contudo, entre esses dois princípios, diferenças que muito importa se considerem. O instinto é guia seguro, sempre bom. Pode, ao cabo de certo tempo, tornar-se inútil, porém nunca prejudicial. Enfraquece-se pela predominância da [inteligência][y2h]. As paixões, nas primeiras idades da [alma][q3f], têm de comum com o instinto o serem as criaturas solicitadas por uma força igualmente inconsciente. As paixões nascem principalmente das necessidades do corpo e dependem, mais do que o instinto, do organismo. O que, acima de tudo, as distingue do instinto é que são individuais e não produzem, como este último, efeitos gerais e uniformes; variam, ao contrário, de intensidade e de natureza, conforme os indivíduos. São úteis, como estimulante, até a eclosão do senso [moral][h4c], que faz nasça de um ser passivo, um ser racional. Nesse momento, as paixões tornam-se não só inúteis, como nocivas ao progresso do [Espírito][g4f], cuja desmaterialização retardam. Abrandam-se com o desenvolvimento da [razão][f8m].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  19
 
 O homem que constantemente só agisse pelo instinto poderia ser muito bom, mas conservaria adormecida a sua [inteligência][y2h]. Seria qual criança que não deixasse as andadeiras e não soubesse utilizar-se de seus membros. Aquele que não domina as suas paixões pode ser muito inteligente, porém, ao mesmo tempo, muito mau. O instinto se aniquila por si mesmo; as paixões somente pelo esforço da vontade podem domar-se.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  Destruição dos seres vivos uns pelos outros
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  20
 
 A destruição recíproca dos seres vivos é, dentre as leis da natureza, uma das que, à primeira vista, menos parecem conciliar-se com a Bondade de [Deus][c5m]. Pergunta-se por que lhes criou Ele a necessidade de mutuamente se destruírem, para se alimentarem uns à custa dos outros. Para quem apenas vê a matéria e restringe à [vida][r4f] presente a sua visão, há de isso, com efeito, parecer uma imperfeição na obra divina. É que, em geral, os homens apreciam a perfeição de [Deus][c5m] do ponto de vista humano; medindo-lhe a [sabedoria][i8d] pelo juízo que dela formam, pensam que [Deus][c5m] não poderia fazer coisa melhor do que eles próprios fariam. Não lhes permitindo a curta visão, de que dispõem, apreciar o conjunto, não compreendem que um bem real possa decorrer de um mal aparente. Só o conhecimento do princípio espiritual, considerado em sua verdadeira essência, e o da grande lei de unidade, que constitui a harmonia da Criação, pode dar ao homem a chave desse mistério e mostrar-lhe a [sabedoria][i8d] providencial e a harmonia, exatamente onde apenas vê uma anomalia e uma contradição.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  21
 
 A verdadeira [vida][r4f], tanto do animal como do homem, não está no invólucro corporal, do mesmo que não está no vestuário. Está no princípio inteligente que preexiste e sobrevive ao corpo. Esse princípio necessita do corpo para se desenvolver pelo trabalho que lhe cumpre realizar sobre a matéria bruta. O corpo se consome nesse trabalho, mas o [Espírito][g4f] não se gasta; ao contrário, sai dele cada vez mais forte, mais lúcido e mais apto. Que importa, pois, que o [Espírito][g4f] mude mais ou menos frequentemente de envoltório?! Não deixa por isso de ser [Espírito][g4f]. É precisamente como se um homem mudasse cem vezes no ano as suas vestes. Não deixaria por isso de ser homem. Por meio do incessante espetáculo da destruição, ensina [Deus][c5m] aos homens o pouco caso que devem fazer do envoltório material e lhes suscita a ideia da [vida][r4f] espiritual, fazendo que a desejem como uma compensação. Objetar-se-á: não podia [Deus][c5m] chegar ao mesmo resultado por outros meios, sem constranger os seres vivos a se destruírem mutuamente? Desde que na sua obra tudo é [sabedoria][i8d], devemos supor que esta [sabedoria][i8d] não existirá mais num ponto do que noutros; se não o compreendemos assim, devemos atribuí-lo à nossa falta de adiantamento. Contudo, podemos procurar a pesquisa da [razão][f8m] do que nos pareça defeituoso, tomando por bússola este princípio: [Deus][c5m] há de ser infinitamente justo e sábio. Procuremos, portanto, em tudo, a sua justiça e a sua [sabedoria][i8d] e curvemo-nos diante do que ultrapasse o nosso entendimento.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  22
 
 Uma primeira utilidade, que se apresenta de tal destruição, utilidade, sem dúvida, puramente física, é esta: os corpos orgânicos só se conservam com o auxílio das matérias orgânicas, matérias que contêm os elementos nutritivos necessários à sua transformação. Como instrumentos de ação do princípio inteligente, os corpos precisam ser constantemente renovados, a Providência faz que sirvam à sua mútua manutenção. Eis por que os seres se nutrem uns dos outros. Mas é o corpo que se nutre do corpo, sem que o [Espírito][g4f] se aniquile ou altere, fica apenas despojado do seu envoltório. [^22]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 Há também considerações morais de ordem elevada. É necessária a luta para o desenvolvimento do [Espírito][g4f]. Na luta é que ele exercita suas faculdades. O que ataca em busca do alimento e o que se defende para conservar a [vida][r4f] usam de habilidade e [inteligência][y2h], aumentando, em consequência, suas forças intelectuais. Um dos dois sucumbe; mas, em realidade, que foi o que o mais forte ou o mais destro tirou ao mais fraco? A veste de carne, nada mais; ulteriormente, o [Espírito][g4f], que não morreu, tomará outra.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  24
 
 Nos seres inferiores da Criação, naqueles a quem ainda falta o senso [moral][h4c], nos quais a [inteligência][y2h] ainda não substituiu o instinto, a luta não pode ter por móvel senão a satisfação de uma necessidade material. Ora, uma das mais imperiosas dessas necessidades é a da alimentação. Eles, pois, lutam unicamente para viver, isto é, para fazer ou defender uma presa, visto que nenhum móvel mais elevado os poderia estimular. É nesse primeiro período que a [alma][q3f] se elabora e ensaia para a [vida][r4f]. No homem, há um período de transição em que ele mal se distingue do bruto. Nas primeiras idades, domina o instinto animal e a luta ainda tem por móvel a satisfação das necessidades materiais. Mais tarde, contrabalançam-se o instinto animal e o sentimento [moral][h4c]; luta então o homem, não mais para se alimentar, porém, para satisfazer à sua ambição, ao seu orgulho, a sua necessidade de dominar. Para isso, ainda lhe é preciso destruir. Todavia, à medida que o senso [moral][h4c] prepondera, desenvolve-se a sensibilidade, diminui a necessidade de destruir, acaba mesmo por desaparecer, por se tornar odiosa essa necessidade. O homem ganha horror ao sangue. Contudo, a luta é sempre necessária ao desenvolvimento do [Espírito][g4f], pois, mesmo chegando a esse ponto, que nos parece culminante, ele ainda está longe de ser perfeito. Só à custa de sua atividade que o [Espírito][g4f] adquire conhecimento, experiência e se despoja dos últimos vestígios da animalidade. Mas, nessa ocasião, a luta, de sangrenta e brutal que era, se torna puramente intelectual. O homem luta contra as dificuldades, não mais contra os seus semelhantes. [^23]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-04. 🗂️ Papel da Ciência na Gênese {#gen-1-04}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 A história da origem de quase todos os povos antigos se confunde com a da sua religião, é por isso que seus primeiros livros versavam sobre religião. E como todas as religiões se ligam ao princípio das coisas, que é também o da humanidade, elas deram, sobre a formação e a ordem do universo, explicações em concordância com o estado dos conhecimentos da época e de seus fundadores. Daí resultou que os primeiros livros sagrados foram ao mesmo tempo os primeiros livros de [ciência][h4t], como foram, durante largo período, o código único das leis civis.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Nas eras primitivas, sendo necessariamente muito imperfeitos os meios de observação, muito eivadas de erros grosseiros haviam de ser as primeiras teorias sobre o sistema do mundo. Mas, ainda quando esses meios fossem tão completos quanto o são hoje, os homens não teriam sabido utilizá-los. Aliás, tais meios não podiam ser senão fruto do desenvolvimento da [inteligência][y2h] e do consequente conhecimento das leis da natureza. À medida que o homem se foi adiantando no conhecimento dessas leis, também foi penetrando os mistérios da criação e retificando as ideias que formara acerca da origem das coisas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
 . Impotente se mostrou o homem para resolver o problema da Criação, até o momento em que a [Ciência][h4t] lhe forneceu para isso a chave. Teve de esperar que a Astronomia lhe abrisse as portas do espaço infinito e lhe permitisse mergulhar aí o olhar; que, pelo poder de cálculo, determinasse com rigorosa exatidão o movimento, a posição, o volume, a natureza e o papel dos corpos celestes; que a Física lhe revelasse as leis da gravitação, do calor, da luz e da eletricidade; que a Química lhe mostrasse as transformações da matéria e a Mineralogia os materiais que formam a superfície do globo; que a Geologia lhe ensinasse a ler, nas camadas terrestres, a formação gradual desse mesmo globo. À Botânica, à Zoologia, à Paleontologia, à Antropologia coube iniciá-lo na filiação e sucessão dos seres organizados. Com a Arqueologia pôde ele acompanhar os traços que a humanidade deixou através das idades. Numa palavra, completando-se umas às outras, todas as ciências houveram de contribuir com o que era indispensável para o conhecimento da história do mundo. Em falta dessas contribuições, teve o homem como guia as suas primeiras hipóteses. Por isso, antes que ele entrasse na posse daqueles elementos de apreciação, todos os comentadores da Gênese, cuja [razão][f8m] esbarrava em impossibilidades materiais, giravam dentro de um círculo, sem conseguirem dele sair. Só o lograram, quando a [Ciência][h4t] abriu caminho, fendendo o velho edifício das crenças. Tudo então mudou de aspecto. Uma vez achado o fio condutor, as dificuldades prontamente se aplanaram. Em vez de uma Gênese imaginária, surgiu uma Gênese positiva e, de certo modo, experimental. O campo do universo se distendeu ao infinito. Acompanhou-se a formação gradual da Terra e dos astros, segundo leis eternas e imutáveis, que demonstram muito melhor a grandeza e a [sabedoria][i8d] de [Deus][c5m], do que uma criação miraculosa, tirada repentinamente do nada, qual mutação à vista, por efeito de súbita ideia da Divindade, após uma eternidade de inação. Pois que é impossível se conceba a Gênese sem os dados que a [Ciência][h4t] fornece, pode dizer-se com inteira [verdade][x8k] que: a [Ciência][h4t] é chamada a constituir a verdadeira Gênese, segundo a lei da natureza.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 No ponto a que chegou no século XIX, venceu a [Ciência][h4t] todas as dificuldades do problema da Gênese? Não, decerto; mas não há contestar que destruiu, sem remissão, todos os erros capitais e lhe lançou os fundamentos essenciais sobre dados irrecusáveis. Os pontos ainda duvidosos não passam, a bem dizer, de questões de minúcias, que a sua solução, qualquer que venha a ser no futuro, não poderá prejudicar o conjunto. Ademais, malgrado os recursos que ela há tido à sua disposição, faltou-lhe, até agora, um elemento importante, sem o qual jamais a obra poderia completar-se.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 De todas as Gêneses antigas, a que mais se aproxima dos modernos dados científicos, apesar dos erros que contém, que são demonstrados hoje até a evidência, é incontestavelmente a de Moisés. Alguns desses erros são mesmo mais aparentes do que reais e provêm, ou de falsa interpretação atribuída a certos termos, cuja primitiva significação se perdeu, ao passarem de língua em língua pela tradução, ou a acepção deles mudou com os costumes dos povos, ou, também, decorrem da forma alegórica peculiar ao estilo oriental e que foi tomada ao pé da letra, em vez de se lhe procurar o espírito, o significado mais fiel.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 A Bíblia, evidentemente, encerra fatos que a [razão][f8m], desenvolvida pela [Ciência][h4t], não poderia hoje aceitar e outros que parecem estranhos e repugnantes, pois derivam de costumes que já não são os nossos. Mas, a par disso, haveria parcialidade em se não reconhecer que ela guarda grandes e belas coisas. A alegoria ocupa ali considerável espaço, ocultando sob o seu véu sublimes verdades, que se patenteiam, desde que se desça ao âmago do pensamento, pois que logo desaparece o absurdo. Por que então não se lhe ergueu mais cedo o véu? De um lado, por falta de luzes que só a [Ciência][h4t] e uma sã filosofia podiam fornecer e, de outro lado, pelo princípio da imutabilidade absoluta da fé, consequência de um respeito demasiado cego pela letra, ao qual a [razão][f8m] deveria se submeter, e, assim, pelo temor de comprometer a estrutura das crenças, erguida sobre o sentido literal. Partindo tais crenças de um ponto primitivo, houve o receio de que, se se rompesse o primeiro anel da cadeia, todas as malhas da rede acabassem separando-se. Eis por que, apesar de tudo, os olhos se fecharam, mas fechar os olhos ao perigo não é evitá-lo. Quando uma construção se inclina, não manda a prudência que se substituam imediatamente as pedras ruins por pedras boas, em vez de se esperar, pelo respeito que infunda a vetustez do edifício, que o mal se torne irremediável e que se faça preciso reconstruí-lo de cima a baixo?
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 . Levando suas investigações às entranhas da Terra e às profundezas dos céus, demonstrou a [Ciência][h4t], de maneira irrefragável, os erros da Gênese moisaica tomada ao pé da letra e a impossibilidade material de se terem as coisas passado como são ali textualmente referidas. Assim procedendo, a [Ciência][h4t] desferiu fundo golpe nas crenças seculares. A fé ortodoxa ficou combalida, porque julgou que lhe tiravam a pedra fundamental. Mas com quem havia de estar a [razão][f8m]: com a [Ciência][h4t], que caminhava prudente e progressivamente pelos terrenos sólidos dos algarismos e da observação, sem nada afirmar antes de ter em mãos as provas, ou com uma narrativa escrita quando faltavam absolutamente os meios de observação? No fim de contas, quem há de levar a melhor: aquele que diz 2 e 2 fazem 5 e se nega a verificar, ou aquele que diz que 2 e 2 fazem 4 e o prova?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 Mas, objetam, se a Bíblia é uma revelação divina, então [Deus][c5m] se enganou. Se não é uma revelação divina, carece de autoridade e a religião desmorona, à falta de base. Uma de duas: ou a [Ciência][h4t] está em erro, ou tem [razão][f8m]. Se tem [razão][f8m], não pode fazer seja verdadeira uma opinião que lhe é contrária. Não há revelação que se possa sobrepor à autoridade dos fatos. Incontestavelmente, não é possível que [Deus][c5m], sendo todo [verdade][x8k], induza os homens em erro, nem ciente, nem inscientemente, pois, do contrário, não seria [Deus][c5m]. Logo, se os fatos contradizem as palavras que são atribuídas a Ele, o que se deve logicamente concluir é que Ele não as pronunciou, ou que tais palavras foram entendidas em sentido oposto ao que lhes é próprio. Se, com semelhantes contradições, a religião sofre dano, a culpa não é da [Ciência][h4t], que não pode fazer que o que é deixe de ser; mas dos homens por haverem prematuramente estabelecido dogmas absolutos, de cujo prevalecimento hão feito questão de [vida][r4f] ou de [morte][q4x], sobre hipóteses suscetíveis de serem desmentidas pela experiência. Há coisas com cujo sacrifício temos de resignar-nos, bom ou mau grado nosso, quando não consigamos evitá-lo. Desde que o mundo marcha, sem que a vontade de alguns possa detê-lo, o mais sensato é que o acompanhemos e nos acomodemos com o novo estado de coisas, em vez de nos agarrarmos ao passado que se esboroa, com o risco de sermos arrastados na queda.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
 Por guardar respeito aos textos recebidos como sagrados, dever-se-ia obrigar a [Ciência][h4t] a calar-se? Fora tão impossível isso, como impedir que a Terra gire. As religiões, sejam quais forem, jamais ganharam coisa alguma em sustentar erros manifestos. A [Ciência][h4t] tem por missão descobrir as leis da natureza. Ora, sendo essas leis obra de [Deus][c5m], não podem ser contrárias a religiões que se baseiem na [verdade][x8k]. Lançar anátema ao progresso, por atentatório à religião, é lançá-lo à própria obra de [Deus][c5m]. É ademais, trabalho inútil, porquanto nem todos os anátemas do mundo seriam capazes de obstar a que a [Ciência][h4t] avance e a que a [verdade][x8k] abra caminho. Se a Religião se nega a avançar com a [Ciência][h4t], esta avançará sozinha.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 Somente as religiões estacionárias podem temer as descobertas da [Ciência][h4t], as quais só são funestas às que se deixam distanciar pelas ideias progressistas, imobilizando-se no absolutismo de suas crenças. Elas, em geral, fazem tão mesquinha ideia da Divindade, que não compreendem que assimilar as leis da natureza, que a [Ciência][h4t] revela, é glorificar a [Deus][c5m] em suas obras. Na sua cegueira, porém, essas religiões preferem render homenagem ao [Espírito][g4f] do mal, atribuindo-lhe essas leis. Uma religião que não estivesse, por nenhum ponto, em contradição com as leis da natureza, nada teria que temer do progresso e seria invulnerável.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
 A Gênese se divide em duas partes: a história da formação do mundo material e da humanidade considerada em seu duplo princípio, corporal e espiritual. A [Ciência][h4t] se tem limitado à pesquisa das leis que regem a matéria. No próprio homem, ela apenas há estudado o envoltório carnal. Por esse lado, chegou a inteirar-se, com exatidão, das partes principais do mecanismo do universo e do organismo humano. Assim, sobre esse ponto capital, pôde completar a Gênese de Moisés e retificar-lhe as partes defeituosas. Mas a história do homem, considerado como ser espiritual, se prende a uma ordem especial de ideias, que não são do domínio da [Ciência][h4t] propriamente dita e das quais, por este motivo, não tem ela feito objeto de suas investigações. A [Filosofia][n2k], a cujas atribuições pertence, de modo mais particular, esse gênero de estudos, apenas há formulado, sobre o ponto, sistemas contraditórios, que vão desde a mais pura espiritualidade, até a negação do princípio espiritual e mesmo de [Deus][c5m], sem outras bases, afora as ideias pessoais de seus autores. Tem, pois, deixado sem decisão a questão, por falta de verificação suficiente.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 Esta questão, no entanto, é a mais importante para o homem, por isso que envolve o problema do seu passado e do seu futuro. A do mundo material apenas indiretamente o afeta. O que lhe importa saber, antes de tudo, é donde ele veio e para onde vai, se já viveu e se ainda viverá, qual a sorte que lhe está reservada. Sobre todos esses pontos, a [Ciência][h4t] se conserva muda. A [Filosofia][n2k] apenas emite opiniões que concluem em sentido diametralmente oposto, mas que, pelo menos, permitem se discuta, o que faz com que muitas pessoas se lhe coloquem do lado, de preferência a seguirem a religião, que não discute.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
 Todas as religiões são acordes quanto ao princípio da existência da [alma][q3f], sem, contudo, o demonstrarem. Não o são, porém, nem quanto à sua origem, nem com relação ao seu passado e ao seu futuro, nem, principalmente, e isso é o essencial, quanto às condições de que depende a sua sorte vindoura. Em sua maioria, elas apresentam como o futuro da [alma][q3f], e impõem à crença de seus adeptos, um quadro que somente a fé cega pode aceitar, visto que não suporta exame sério. Ligado aos seus dogmas, às ideias que nos tempos primitivos se faziam do mundo material e do mecanismo do universo, o destino que elas atribuem à [alma][q3f] não se concilia com o estado atual dos conhecimentos. Não podendo, pois, senão perder com o exame e a discussão, as religiões acham mais simples proscrever um e outra.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  14
 
 Dessas divergências no tocante ao futuro do homem nasceram a dúvida e a incredulidade. Entretanto, a incredulidade dá lugar a um penoso vácuo. O homem encara com ansiedade o desconhecido em que tem fatalmente de penetrar. Gela-o a ideia do nada. Diz-lhe a [consciência][h7z] que alguma coisa lhe está reservada para além do presente. Que será? Sua [razão][f8m], com o desenvolvimento que alcançou, já lhe não permite admitir as histórias com que o acalentaram na infância, nem aceitar como realidade a alegoria. Qual o sentido dessa alegoria? A [Ciência][h4t] lhe rasgou um canto do véu; não lhe revelou, porém, o que mais lhe importa saber. O homem interroga em vão, nada lhe responde ela de maneira peremptória e apropriada a lhe acalmar as apreensões. Por toda parte depara com a afirmação a se chocar com a negação, sem que de um lado ou de outro se apresentem provas positivas. Daí a incerteza, e a incerteza sobre o que concerne à [vida][r4f] futura faz que o homem se atire, tomado de uma espécie de frenesi, para as coisas da [vida][r4f] material. Esse o inevitável efeito das épocas de transição: rui o edifício do passado, sem que ainda o do futuro se ache construído. O homem se assemelha ao adolescente que, já não tendo a crença ingênua dos seus primeiros anos, ainda não possui os conhecimentos próprios da maturidade. Apenas sente vagas aspirações, que não sabe definir.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
 Se a questão do homem espiritual permaneceu, até os dias atuais, em estado de teoria, é que faltavam os meios de observação direta, existentes para comprovar o estado do mundo material, conservando-se, portanto, aberto o campo às concepções do espírito humano. Enquanto o homem não conheceu as leis que regem a matéria e não pôde aplicar o método experimental, andou a errar de sistema em sistema, no tocante ao mecanismo do universo e à formação da Terra. O que se deu na ordem física, deu-se também na ordem [moral][h4c]. Para fixar as ideias, faltou o elemento essencial: o conhecimento das leis a que se acha sujeito o princípio espiritual. Estava reservado à nossa época esse conhecimento, como o esteve aos dois últimos séculos [^24] o das leis da matéria.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 Até o presente, o estudo do princípio espiritual, compreendido na Metafísica, foi puramente especulativo e teórico. No [Espiritismo][f4r], esse estudo é inteiramente experimental. Com o auxílio da faculdade mediúnica, mais desenvolvida presentemente e, sobretudo, generalizada e mais bem estudada, o homem se achou de posse de um novo instrumento de observação. A [mediunidade][c8r] foi, para o mundo espiritual, o que o telescópio foi para o mundo astral e o microscópio para o dos infinitamente pequenos. Permitiu se explorassem, estudassem, por assim dizer, de visu, [^25] as relações do mundo espiritual com o mundo corpóreo; que, no homem vivo, se destacasse do ser material o ser inteligente e que se observassem os dois a atuar separadamente. Uma vez estabelecidas relações com os habitantes do mundo espiritual, possível se tornou ao homem seguir a [alma][q3f] em sua marcha ascendente, em suas migrações, em suas transformações. Pode-se, enfim, estudar o elemento espiritual. Eis aí o de que careciam os anteriores comentadores da Gênese, para a compreenderem e lhe retificarem os erros.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
 Estando o mundo espiritual e o mundo material em incessante contato, os dois são solidários um com o outro; ambos têm a sua parcela de ação na Gênese. Sem o conhecimento das leis que regem o primeiro, tão impossível seria constituir-se uma Gênese completa, quanto a um estatuário dar [vida][r4f] a uma estátua. Somente agora, conquanto nem a [Ciência][h4t] material, nem a [Ciência][h4t] espiritual hajam dito a última palavra, possui o homem os dois elementos próprios a lançar luz sobre esse imenso problema. Eram-lhe absolutamente indispensáveis essas duas chaves para chegar a uma solução, ainda que aproximativa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-05. 🗂️ Antigos e modernos sistemas do mundo {#gen-1-05}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 A primeira ideia que os homens formaram da Terra, do movimento dos astros e da constituição do universo, há de, a princípio, ter-se baseado unicamente no que os sentidos percebiam. Ignorando as mais elementares leis da Física e as forças da natureza, não dispondo senão da vista como meio de observação, apenas pelas aparências podiam eles julgar. Vendo o Sol aparecer pela manhã, de um lado do horizonte, e desaparecer, à tarde, do lado oposto, concluíram naturalmente que ele girava em torno da Terra, conservando-se esta imóvel. Se lhes dissessem então que o contrário é o que se dá, responderiam não ser possível tal coisa, objetando: vemos que o Sol muda de lugar e não sentimos que a Terra se mexa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 A pequena extensão das viagens, que naquela época raramente iam além dos limites da tribo ou do vale, não permitia se comprovasse a esfericidade da Terra. Como, ao demais, haviam de supor que a Terra fosse uma bola? Os seres, em tal caso, somente no ponto mais elevado poderiam manter-se e, supondo-a habitada em toda a superfície, como viveriam eles no hemisfério oposto, com a cabeça para baixo e os pés para cima? Ainda menos possível houvera parecido isso com o movimento de rotação. Quando, mesmo aos nossos dias, em que se conhece a lei de gravitação, se veem pessoas relativamente esclarecidas não perceberem esse fenômeno, como nos surpreendermos de que homens das primeiras idades não o tenham, sequer, suspeitado? Para eles, pois, a Terra era uma superfície plana e circular, qual uma mó de moinho, estendendo-se a perder de vista na direção horizontal. Daí a expressão ainda em uso: Ir ao fim do mundo. Desconheciam-lhe os limites, a espessura, o interior, a face inferior, o que lhe ficava por baixo. [^26]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
 Por se mostrar sob forma côncava, o céu, na crença vulgar, era tido como uma abóbada real, cujos bordos inferiores repousavam na Terra e lhe marcavam os confins, era uma vasta cúpula cuja capacidade o ar enchia completamente. Sem nenhuma noção do espaço infinito, incapazes mesmo de o conceberem, imaginavam os homens que essa abóbada era constituída de matéria sólida, donde a denominação de firmamento que lhe foi dada e que sobreviveu à crença, significando: firme, resistente (do latim firmamentum, derivado de firmus e do grego herma, hermatos, firme, sustentáculo, suporte, ponto de apoio).
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 As estrelas, de cuja natureza não podiam suspeitar, eram simplesmente pontos luminosos, maiores ou menores, engastados na abóbada, como lâmpadas suspensas, dispostas sobre uma única superfície e, por conseguinte, todas à mesma distância da Terra, tal como as que se veem no interior de certas cúpulas, pintadas de azul, figurando a do céu. Se bem hoje sejam outras as ideias, o uso das expressões antigas se conservou. Ainda se diz, por comparação: a abóbada estrelada; sob a cúpula do céu.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 Igualmente desconhecida era então a formação das nuvens pela evaporação das águas da Terra. A ninguém podia acudir a ideia de que a chuva, que cai do céu, tivesse origem na Terra, donde ninguém a via subir. Daí a crença na existência de águas superiores e de águas inferiores, de fontes celestes e de fontes terrestres, de reservatórios colocados nas altas regiões, suposição que concordava perfeitamente com a ideia de uma abóbada sólida, capaz de os sustentar. As águas superiores, escapando-se pelas frestas da abóbada, caíam em forma de chuva e, conforme fossem mais ou menos largas as frestas, a chuva era branda, torrencial e diluviana.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 A ignorância completa do conjunto do universo e das leis que o regem, da natureza, da constituição e da destinação dos astros, que, aliás, pareciam tão pequenos, comparativamente à Terra, fez necessariamente fosse esta considerada como a coisa principal, o fim único da criação e os astros como acessórios, exclusivamente criados em intenção dos seus habitantes. Esse preconceito se perpetuou até os nossos dias, apesar das descobertas da [Ciência][h4t], que mudaram, para o homem, o aspecto do mundo. Quanta gente ainda acredita que as estrelas são ornamentos do céu, destinados a recrear a vista dos habitantes da Terra!
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 Não tardou, porém, se apercebessem do movimento aparente das estrelas, que se deslocam em massa do Oriente para o Ocidente, despontando ao anoitecer e ocultando-se pela manhã, conservando suas respectivas posições. Semelhante observação, contudo, não teve, durante longo tempo, outra consequência que não fosse a de confirmar a ideia de uma abóbada sólida, a arrastar consigo as estrelas, no seu movimento de rotação. Essas ideias primárias, ingênuas, constituíram, no curso de largos períodos seculares, o fundo das crenças religiosas e serviram de base a todas as cosmogonias antigas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 Mais tarde, pela direção do movimento das estrelas e pelo periódico retorno delas, na mesma ordem, percebeu-se que a abóbada celeste não podia ser apenas uma semiesfera posta sobre a Terra, mas uma esfera inteira, oca, em cujo centro se achava a Terra, sempre chata, ou, quando muito, convexa e habitada somente na superfície superior. Já era um progresso. Mas qual o suporte da Terra? Fora inútil mencionar todas as suposições ridículas, geradas pela imaginação, desde a dos indianos,27 que a diziam suportada por quatro elefantes brancos, pousados estes sobre as asas de um imenso abutre. Os mais sensatos confessavam que nada sabiam a respeito.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
 Entretanto, uma opinião geralmente espalhada nas teogonias pagãs situava nos lugares baixos, ou, por outra, nas profundezas da Terra, ou debaixo desta, não se sabia bem, a morada dos réprobos, chamada inferno, isto é, lugares inferiores, e nos lugares altos, além da região das estrelas, a morada dos bem-aventurados. A palavra inferno se conservou até os nossos dias, se bem haja perdido a significação etimológica, desde que a Geologia retirou das entranhas da Terra o lugar dos suplícios eternos e a Astronomia demonstrou que no espaço infinito não há baixo nem alto.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 Sob o céu puro da Caldeia, da Índia e do Egito, berço das mais antigas civilizações, o movimento dos astros foi observado com tanta exatidão, quanto o permitia a falta de instrumentos especiais. Notou-se, primeiramente, que certas estrelas tinham movimento próprio, independente da massa, o que não consentia a suposição de que se achassem presas à abóbada. Chamaram-lhes estrelas errantes ou planetas, para distingui-las das estrelas fixas. Calcularam-se-lhes os movimentos e os retornos periódicos. No movimento diurno da esfera estrelada, foi notada a imobilidade da Estrela Polar, em cujo derredor as outras descreviam, em vinte e quatro horas, círculos oblíquos paralelos, uns maiores, outros menores, conforme a distância em que se encontravam da estrela central. Foi o primeiro passo para o conhecimento da obliquidade do eixo do mundo. Viagens mais longas deram lugar a que se observasse a diferença dos aspectos do céu, segundo as latitudes e as estações. A verificação de que a elevação da Estrela Polar acima do horizonte variava com a latitude, abriu caminho para a percepção da redondeza da Terra. Foi assim que, pouco a pouco, chegaram a fazer uma ideia mais exata do sistema do mundo. Pelo ano 600 a.C., Tales, de Mileto (Ásia Menor), descobriu a esfericidade da Terra, a obliquidade da eclíptica e a causa dos eclipses. Um século depois, Pitágoras, de Samos, descobre o movimento diurno da Terra, sobre o próprio eixo, seu movimento anual em torno do Sol e incorpora os planetas e os cometas ao sistema solar. Hiparco, de Alexandria (Egito), em 160 a.C. inventa o astrolábio, calcula e prediz os eclipses, observa as manchas do Sol, determina o ano trópico, a duração das revoluções da Lua. Embora preciosíssimas para o progresso da [Ciência][h4t], essas descobertas levaram perto de 2.000 anos a se popularizarem. Não dispondo senão de raros manuscritos para se propagarem, as ideias novas permaneciam como patrimônio de alguns filósofos, que as ensinavam a discípulos privilegiados. As massas, que ninguém cuidava de esclarecer, nenhum proveito tiravam das ideias novas e continuavam a nutrir-se das velhas crenças.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
 Cerca do ano 140 da Era Cristã, Ptolomeu, um dos homens mais ilustres da Escola de Alexandria, combinando suas próprias ideias com as crenças vulgares e com algumas das mais recentes descobertas astronômicas, compôs um sistema que se pode qualificar de misto, que traz o seu nome e que, por perto de quinze séculos, foi o único que o mundo civilizado adotou. Segundo o sistema de Ptolomeu, a Terra é uma esfera posta no centro do universo, composta de quatro elementos: terra, água, ar e fogo. Essa a primeira região, dita elementar. A segunda região, dita etérea, compreendia onze céus, ou esferas concêntricas, a girar em torno da Terra, a saber: o céu da Lua, os de Mercúrio, de Vênus, do Sol, de ­Marte, de Júpiter, de Saturno, das estrelas fixas, do primeiro cristalino, esfera sólida transparente; do segundo cristalino e, finalmente, do primeiro móvel, que dava movimento a todos os céus inferiores e os obrigava a fazer uma revolução em vinte e quatro horas. Para além dos onze céus estava o Empíreo, habitação dos bem-aventurados, denominação tirada do grego pyr ou pur, que significa fogo, porque se acreditava que essa região resplandecia de luz, como o fogo. Longo tempo prevaleceu a crença em muitos céus superpostos, o número deles, entretanto, variava. O sétimo era geralmente tido como o mais elevado, donde a expressão: ser arrebatado ao sétimo céu. Paulo disse que fora elevado ao terceiro céu. Afora o movimento comum, os astros, segundo Ptolomeu, tinham movimentos próprios, mais ou menos dilatados, conforme a distância em que se achavam do centro. As estrelas fixas faziam uma revolução em 25.816 anos, avaliação esta que denota conhecimento da precessão dos equinócios, que se realiza em 25.868 anos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 No começo do século XVI, Copérnico, astrônomo célebre, nascido em Thorn (Prússia), no ano de 1472 e morto no de 1543, reconsiderou as ideias de Pitágoras e concebeu um sistema que, confirmado todos os dias por novas observações, teve acolhimento favorável e não tardou a desbancar o de Ptolomeu. Segundo o sistema de Copérnico, o Sol está no centro e ao seu derredor os astros descrevem órbitas circulares, sendo a Lua um satélite da Terra. Decorrido um século, em 1609, Galileu, natural de Florença (­Itália), inventa o telescópio; em 1610, descobre os quatro [^28] satélites de Júpiter e lhe calcula as revoluções; reconhece que os planetas não têm luz própria como as estrelas, mas que são iluminados pelo Sol; que são esferas semelhantes à Terra; Galileu observa-lhes as fases e determina o tempo que duram as rotações deles em torno de seus eixos, oferecendo assim, por provas materiais, sanção definitiva ao sistema de Copérnico. Ruiu então a construção dos céus superpostos; reconheceu-se que os planetas são mundos semelhantes à Terra e, sem dúvida, habitados; que as estrelas são inumeráveis sóis, prováveis centros de outros tantos sistemas planetários, sendo o próprio Sol reconhecido como uma estrela, centro de um turbilhão de planetas que se lhe acham sujeitos. As estrelas deixaram de estar confinadas numa zona da esfera celeste, para estarem irregularmente disseminadas pelo espaço sem limites, encontrando-se a distâncias incomensuráveis umas das outras mesmo as que parecem tocar-se, sendo as aparentemente menores as mais afastadas de nós e as maiores as que nos estão mais perto, porém, ainda assim, a centenas de bilhões de léguas. Os grupos que tomaram o nome de constelações mais não são do que agregados aparentes, causados pela distância; suas figuras não passam de efeitos de perspectiva, como as que as luzes espalhadas por uma vasta planície ou as árvores de uma floresta formam, aos olhos de quem as observa colocado num ponto fixo. Na realidade, porém, tais agrupamentos de estrela não existem. Se nos pudéssemos transportar para a reunião de uma dessas constelações, à medida que nos aproximássemos dela, a sua forma se desmancharia e novos grupos se nos desenhariam à vista. Ora, não existindo esses agrupamentos senão na aparência, é ilusória a significação que uma supersticiosa crença vulgar lhe atribui e somente na imaginação pode existir. Para se distinguirem as constelações, deram-se-lhes nomes como estes: Leão, Touro, Gêmeos, Virgem, Balança ou Libra, Capricórnio, Câncer ou Caranguejo, Órion, Hércules, Grande Ursa ou Ursa Maior ou Carro de Davi, Pequena Ursa ou Ursa Menor, Lira etc., e, para representá-las, atribuíram-se-lhes as formas aparentes que esses nomes lembram, fantasiosas em sua maioria e, em nenhum caso, guardando qualquer relação com os grupos de estrelas assim chamados. Fora, pois, inútil procurar no céu tais formas. A crença na influência das constelações, sobretudo das que constituem os doze signos do zodíaco, proveio da ideia ligada aos nomes que elas trazem. Se à que se chama leão fosse dado o nome de asno ou de ovelha, certamente lhe teriam atribuído outra influência.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
 A partir de Copérnico e Galileu, as velhas cosmogonias jamais foram destruídas. A Astronomia só podia avançar, não recuar. A História diz das lutas que esses homens de gênio tiveram de sustentar contra os preconceitos e, sobretudo, contra o espírito de seita, interessado em manter erros sobre os quais se haviam fundado crenças, supostamente firmadas em bases inabaláveis. Bastou a invenção de um instrumento de óptica para derrocar uma construção de muitos milhares de anos. Nada, é claro, poderia prevalecer contra uma [verdade][x8k] reconhecida como tal. Graças à Tipografia, o público, iniciado nas novas ideias, entrou a não se deixar embalar com ilusões e tomou parte na luta. Já não era contra indivíduos que os sustentadores das velhas ideias tinham de combater, mas contra a opinião geral, que esposava a causa da [verdade][x8k]. Quão grande é o universo em face das mesquinhas proporções que nossos pais lhe assinavam! Quanto é sublime a obra de [Deus][c5m], desde que a vemos realizar-se conformemente às eternas leis da natureza! Mas, também, quanto tempo, que de esforços do gênio, que de devotamentos se fizeram necessários para descerrar os olhos às criaturas e arrancar-lhes, afinal, a venda da ignorância!
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  14
 
 Estava desde então aberto o caminho em que ilustres e numerosos sábios iam entrar, a fim de completarem a obra encetada. Na Alemanha, Kepler descobre as célebres leis que lhe conservam o nome e por meio das quais se reconhece que as órbitas que os planetas descrevem não são circulares, mas elipses, das quais o sol ocupa um dos focos. Newton, na Inglaterra, descobre a lei da gravitação universal. Laplace, na França, cria a mecânica celeste. Finalmente, a Astronomia deixa de ser um sistema fundado em conjeturas ou probabilidades e torna-se uma [ciência][h4t] assente nas mais rigorosas bases, as do cálculo e da geometria. Fica assim lançada uma das pedras fundamentais da Gênese, cerca de 3.300 anos depois de Moisés.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-06. 🗂️ Uranografia geral {#gen-1-06}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 Já muitas definições de espaço foram dadas, sendo a principal esta: o espaço é a extensão que separa dois corpos, na qual certos sofistas deduziram que onde não haja corpos não haverá espaço. Nisto foi que se basearam alguns doutores em Teologia para estabelecer que o espaço é necessariamente finito, alegando que certo número de corpos finitos não poderiam formar uma série infinita e que, onde acabassem os corpos, igualmente o espaço acabaria. Também definiram o espaço como o lugar onde se movem os mundos, o vazio onde a matéria atua etc. Deixemos todas essas definições, que nada definem, nos tratados onde repousam. Espaço é uma dessas palavras que exprimem uma ideia primitiva e axiomática, de si mesma evidente, e a respeito dela as diversas definições que se possam dar nada mais fazem do que obscurecê-la. Todos sabemos o que é o espaço e eu apenas quero firmar que ele é infinito, a fim de que os nossos estudos ulteriores não encontrem uma barreira opondo-se às investigações do nosso olhar. Ora, digo que o espaço é infinito, pela [razão][f8m] de ser impossível imaginar-se-lhe um limite qualquer e porque, apesar da dificuldade com que topamos para conceber o infinito, mais fácil nos é avançar eternamente pelo espaço, em pensamento, do que parar num ponto qualquer, depois do qual não mais encontrássemos extensão a percorrer. Para figurarmos, quanto no-lo permitam as nossas limitadas faculdades, a infinidade do espaço, suponhamos que, partindo da Terra, perdida no meio do infinito, para um ponto qualquer do universo, e isso com a velocidade prodigiosa da centelha elétrica, que percorre milhares de léguas por segundo, e que mal tendo deixado este globo já tenhamos percorrido milhões de léguas, nos achamos num lugar donde apenas divisamos a Terra sob o aspecto de pálida estrela. Passado um instante, seguindo sempre a mesma direção, chegamos a essas estrelas longínquas que mal percebeis da vossa estação terrestre. Daí, não só a Terra nos desaparece inteiramente do olhar nas profundezas do céu, como também o próprio Sol, com todo o seu esplendor, se há eclipsado pela extensão que dele nos separa. Animados sempre da mesma velocidade do relâmpago, a cada passo que avançamos na extensão, transpomos sistemas de mundos, ilhas de luz etérea, estradas estelíferas, paragens suntuosas onde [Deus][c5m] semeou mundos na mesma profusão com que semeou as plantas nas pradarias terrenas. Ora, há apenas poucos minutos que caminhamos e já centenas de milhões e milhões de léguas nos separam da Terra, bilhões de mundos nos passaram sob as vistas e, entretanto, escutai! em realidade, não avançamos um só passo que seja no universo. Se continuarmos durante anos, séculos, milhares de séculos, milhões de períodos cem vezes seculares e sempre com a mesma velocidade do relâmpago, nem um passo teremos avançado, qualquer que seja o lado para onde nos dirijamos e qualquer que seja o ponto para onde nos encaminhemos, a partir desse grãozinho invisível donde saímos e a que chamamos Terra. Eis aí o que é o espaço!
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Como a palavra espaço, tempo é também um termo já por si mesmo definido. Dele se faz ideia mais exata, relacionando-o com o todo infinito. O tempo é a sucessão das coisas. Está ligado à eternidade, do mesmo modo que as coisas estão ligadas ao infinito. Suponhamo-nos na origem do nosso mundo, na época primitiva em que a Terra ainda não se movia sob a divina impulsão; numa palavra: no começo da ­Gênese. O tempo então ainda não saíra do misterioso berço da natureza e ninguém pode dizer em que época de séculos nos achamos, porquanto o pêndulo dos séculos ainda não foi posto em movimento. Mas silêncio! soa na sineta eterna a primeira hora de uma Terra insulada, o planeta se move no espaço e desde então há tarde e manhã. Para lá da Terra, a eternidade permanece impassível e imóvel, embora o tempo marche com relação a muitos outros mundos. Para a Terra, o tempo a substitui e durante uma determinada série de gerações contar-se-ão os anos e os séculos. Transportemo-nos agora ao último dia desse mundo, à hora em que, curvado sob o peso da vetustez, ele se apagará do livro da [vida][r4f] para aí não mais reaparecer. Interrompe-se então a sucessão dos eventos; cessam os movimentos terrestres que mediam o tempo e o tempo acaba com eles. Esta simples exposição das coisas que dão nascimento ao tempo, que o alimentam e deixam que ele se extinga, basta para mostrar que, visto do ponto em que houvemos de colocar-nos para os nossos estudos, o tempo é uma gota de água que cai da nuvem no mar e sua queda é medida. Tantos mundos na vasta amplidão, quantos tempos diversos e incompatíveis. Fora dos mundos, somente a eternidade substitui essas efêmeras sucessões e enche tranquilamente da sua luz imóvel a imensidade dos céus. Imensidade sem limites e eternidade sem limites, tais as duas grandes propriedades da natureza universal. O olhar do observador, que atravessa, sem jamais encontrar o que o detenha, as incomensuráveis distâncias do espaço, e o do geólogo, que remonta além dos limites das idades, ou que desce às profundezas da eternidade de fauces escancaradas, em que ambos um dia se perderão, atuam em concordância, cada um na sua direção, para adquirir esta dupla noção do infinito: extensão e duração. Dentro desta ordem de ideias, fácil nos será conceber que, sendo o tempo apenas a relação das coisas transitórias e dependendo unicamente das coisas que se medem, se tomássemos os séculos terrestres por unidade e os empilhássemos aos milhares, para formar um número colossal, esse número nunca representaria mais que um ponto na eternidade, do mesmo modo que milhares de léguas adicionadas a milhares de léguas não dão mais que um ponto na extensão. Assim, por exemplo, estando os séculos fora da [vida][r4f] etérea da [alma][q3f], poderíamos escrever um número tão longo quanto o equador terrestre e supormo-nos envelhecidos desse número de séculos, sem que na realidade nossa [alma][q3f] conte um dia a mais. E juntando a esse número indefinível de séculos uma série de números semelhantes, longa como daqui ao Sol, ou ainda mais consideráveis, se imaginássemos viver durante uma sucessão prodigiosa de períodos seculares representados pela adição de tais números, quando chegássemos ao termo, o inconcebível amontoado de séculos que nos passaria sobre a cabeça seria como se não existisse: diante de nós estaria sempre toda a eternidade. O tempo é apenas uma medida relativa da sucessão das coisas transitórias; a eternidade não é suscetível de medida alguma, do ponto de vista da duração; para ela, não há começo, nem fim: tudo lhe é presente. Se séculos de séculos são menos que um segundo relativamente à eternidade, que vem a ser a duração da [vida][r4f] humana?!
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  A matéria
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
 À primeira vista, não há o que pareça tão profundamente variado, nem tão essencialmente distinto, como as diversas substâncias que compõem o mundo. Entre os objetos que a Arte ou a natureza nos fazem passar diariamente ante o olhar, haverá duas que revelem perfeita identidade, ou somente paridade de composição? Quanta dessemelhança, sob os aspectos da solidez, da compressibilidade, do peso e das múltiplas propriedades dos corpos, entre os gases atmosféricos e um filete de ouro, entre a molécula aquosa da nuvem e a do mineral que forma a carcaça óssea do globo! que diversidade entre o tecido químico das variadas plantas que adornam o reino vegetal e o dos representantes não menos numerosos da animalidade na Terra! Entretanto, podemos estabelecer como princípio absoluto que todas as substâncias conhecidas e desconhecidas, por mais dessemelhantes que pareçam, quer do ponto de vista da constituição íntima, quer pelo prisma de suas ações recíprocas, são, de fato, apenas modos diversos sob que a matéria se apresenta; variedades em que ela se transforma sob a direção das forças inumeráveis que a governam.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 A Química, cujos progressos foram tão rápidos depois da minha época, em que seus próprios adeptos ainda a relegavam para o domínio secreto da magia; esta nova [ciência][h4t] que se pode considerar, com justiça, filha do século da observação e baseada unicamente, de maneira bem mais sólida do que suas irmãs mais velhas, no método experimental; a Química, digo, fez tábua rasa dos quatro elementos primitivos que os antigos concordaram em reconhecer na natureza; mostrou que o elemento terrestre mais não é do que a combinação de diversas substâncias variadas ao infinito; que o ar e a água são igualmente decomponíveis e produtos de certo número de equivalentes de gás; que o fogo, longe de ser também um elemento principal, é apenas um estado da matéria, resultante do movimento universal a que esta se acha submetida e de uma combustão sensível ou latente. Em compensação, a Química fez surgir considerável número de princípios, até então desconhecidos, que lhe pareceram formar, por determinadas combinações, as diversas substâncias, os diversos corpos que ela estudou e que atuam simultaneamente, segundo certas leis e em certas proporções, nos trabalhos que se realizam dentro do grande laboratório da natureza. Deu a esses princípios o nome de corpos simples, indicando de tal modo que os considera primitivos e indecomponíveis e que nenhuma operação, até hoje, pôde reduzi-los a frações relativamente mais simples do que eles próprios. [^30], [^31]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 Mas onde param as apreciações do homem, mesmo ajudadas pelos mais impressionantes sentidos artificiais, prossegue a obra da natureza; onde o vulgo toma a aparência como realidade, onde o prático levanta o véu e percebe o começo das coisas, o olhar daquele que pode apreender o modo de agir da natureza apenas vê, nos materiais constitutivos do mundo, a matéria cósmica primitiva, simples e una, diversificada em certas regiões na época do seu aparecimento, repartida em corpos solidários entre si durante a sua [vida][r4f], e que um dia os materiais se desmembram, por efeitos da decomposição no receptáculo da imensidão.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 Há questões que nós mesmos, Espíritos amantes da [Ciência][h4t], não podemos aprofundar e sobre as quais não poderemos emitir senão opiniões pessoais, mais ou menos hipotéticas. Sobre essas questões, calar-me-ei ou justificarei a minha maneira de ver. A com que nos ocupamos, porém, não pertence a esse número. Àqueles, portanto, que fossem tentados a enxergar nas minhas palavras unicamente uma teoria ousada, direi: abarcai, se for possível, com olhar investigador, a multiplicidade das operações da natureza e reconhecereis que, se se não admitir a unidade da matéria, impossível será explicar, já não direi somente os sóis e as esferas, mas, sem ir tão longe, a germinação de uma semente na terra, ou a produção dum inseto.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 Se se observa tão grande diversidade na matéria, é porque, sendo em número ilimitado as forças que hão presidido às suas transformações e as condições em que estas se produziram, também as várias combinações da matéria não podiam deixar de ser ilimitadas. Logo, quer a substância que se considere pertença aos fluidos propriamente ditos, isto é, aos corpos imponderáveis, quer revista os caracteres e as propriedades ordinárias da matéria, não há, em todo o universo, senão uma única substância primitiva; o cosmo ou matéria cósmica dos uranógrafos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  As leis e as forças
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  08
 
 Se um desses seres desconhecidos que consomem a sua efêmera existência no fundo das tenebrosas regiões do oceano; se um desses poligástricos, uma dessas nereidas — miseráveis animálculos que da natureza mais não conhecem do que os peixes ictiófagos e as florestas submarinas — recebesse de repente o dom da [inteligência][y2h], a faculdade de estudar o seu mundo e de basear suas apreciações num raciocínio conjetural extensivo à universalidade das coisas, que ideia faria da natureza viva que se desenvolve no meio por ele habitado e do mundo terrestre que escapa ao campo de suas observações? Se, agora, por um efeito maravilhoso do seu novo poder, esse mesmo ser chegasse a se elevar acima das suas trevas eternas, à superfície do mar, não distante das margens opulentas de uma ilha de esplêndida vegetação, banhada pelo sol fecundante, dispensador de calor benéfico, que juízo faria ele então das suas antecipadas teorias sobre a criação universal, teoria que se apagaria logo diante de uma apreciação mais ampla, mas ainda relativamente tão incompleta quanto a primeira? Tal é, ó homens, a imagem da vossa [ciência][h4t] toda especulativa. [^32]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  09
 
 Vindo, pois, tratar aqui da questão das leis e das forças que regem o universo, eu, que apenas sou, como vós, um ser relativamente ignorante em face da [ciência][h4t] real, malgrado a aparente superioridade que, com relação aos meus irmãos da Terra, me advém da possibilidade de estudar problemas naturais que lhes são interditos na posição em que eles se encontram como habitantes da Terra, trago por único objetivo dar-vos uma noção geral das leis universais, sem explicar pormenorizadamente o modo de ação e a natureza das forças especiais que lhes são dependentes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 Há um fluido etéreo que enche o espaço e penetra os corpos. Esse fluido é o éter ou matéria cósmica primitiva, geradora do mundo e dos seres. Ao éter são inerentes as forças que presidiram às metamorfoses da matéria, as leis imutáveis e necessárias que regem o mundo. Essas múltiplas formas, indefinidamente variadas segundo as combinações da matéria, localizadas segundo as massas, diversificadas em seus modos de ação, segundo as circunstâncias e os meios, são conhecidas na Terra sob os nomes de gravidade, coesão, afinidade, atração, magnetismo, eletricidade ativa. Os movimentos vibratórios do agente são conhecidos sob os nomes de som, calor, luz etc. Em outros mundos, as formas se apresentam sob outros aspectos, revelam outros caracteres desconhecidos na Terra e, na imensa amplidão dos céus, forças em número indefinito se têm desenvolvido numa escala inimaginável, cuja grandeza tão incapazes somos de avaliar, como o é o crustáceo, no fundo do oceano, para apreender a universalidade dos fenômenos terrestres. [^33] Ora, assim como só há uma substância simples, primitiva, geradora de todos os corpos, mas diversificada em suas combinações, também todas essas forças dependem de uma lei universal diversificada em seus efeitos e que, pelos desígnios eternos, foi soberanamente imposta à criação, para lhe imprimir harmonia e estabilidade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
 A natureza jamais se encontra em oposição a si mesma. Uma só é a divisa do brasão do universo: unidade-variedade. Remontando à escala dos mundos, encontra-se unidade de harmonia e de criação, ao mesmo tempo que uma variedade infinita no imenso jardim de estrelas. Percorrendo os degraus da [vida][r4f], desde o último dos seres até [Deus][c5m], patenteia-se a grande lei de continuidade. Considerando as forças em si mesmas, pode-se formar com elas uma série, cuja resultante, confundindo-se com a geratriz, é a lei universal.
 Não podeis apreciar esta lei em toda a sua extensão, por serem restritas e limitadas as forças que a representam no campo das vossas observações. Entretanto, a gravitação e a eletricidade podem ser consideradas como uma larga aplicação da lei primordial, que impera para lá dos céus. Todas essas forças são eternas — explicaremos este termo — e universais como a criação. Sendo inerentes ao fluido cósmico, elas atuam necessariamente em tudo e em toda parte, modificando suas ações pela simultaneidade ou pela sucessividade, predominando aqui, apagando-se ali, pujantes e ativas em certos pontos, latentes ou ocultas noutros, mas, afinal, preparando, dirigindo, conservando e destruindo os mundos em seus diversos períodos de [vida][r4f], governando os maravilhosos trabalhos da natureza, onde quer que eles se executem, assegurando para sempre o eterno esplendor da criação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  A criação primária
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  12
 
 Depois de termos considerado o universo sob os pontos de vista gerais da sua composição, das suas leis e das suas propriedades, podemos estender os nossos estudos ao modo de formação que deu origem aos mundos e aos seres. Desceremos, em seguida, à criação da Terra, em particular, e ao seu estado atual na universalidade das coisas e daí, tomando esse globo por ponto de partida e por unidade relativa, procederemos aos nossos estudos planetários e siderais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  13
 
 Se bem compreendemos a relação, ou, antes, a oposição entre a eternidade e o tempo, se nos familiarizamos com a ideia de que o tempo não é mais do que uma medida relativa da sucessão das coisas transitórias, ao passo que a eternidade é essencialmente una, imóvel e permanente, insuscetível de qualquer medida, do ponto de vista da duração, compreenderemos que para ela não há começo, nem fim. Doutro lado, se fazemos ideia exata — embora necessariamente muito fraca — da infinidade do poder divino, compreenderemos como é possível que o universo haja existido sempre e sempre exista. Desde que [Deus][c5m] existiu, suas perfeições eternas falaram. Antes que houvessem nascido os tempos, a eternidade incomensurável recebeu a palavra divina e fecundou o espaço, eterno quanto ela.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
 Existindo, naturalmente, desde toda a eternidade, [Deus][c5m] criou por toda esta eternidade e não poderia ser de outro modo, visto que, por mais longínqua que seja a época a que recuemos, pela imaginação, os supostos limites da Criação, haverá sempre, além desse limite, uma eternidade — ponderai bem esta ideia —, uma eternidade durante a qual as divinas hipóstases, as volições infinitas teriam permanecido sepultadas em muda letargia inativa e infecunda, uma eternidade de [morte][q4x] aparente para o Pai eterno que dá [vida][r4f] aos seres; de mutismo indiferente para o Verbo que os governa; de esterilidade fria e egoísta para o [Espírito][g4f] de [amor][c7p] e vivificação. Compreendamos melhor a grandeza da ação divina e a sua perpetuidade sob a mão do Ser absoluto! [Deus][c5m] é o Sol dos seres, é a Luz do mundo. Ora, a aparição do Sol dá instantaneamente nascimento a ondas de luz que se vão espalhando por todos os lados na extensão. Do mesmo modo, o universo, nascido do eterno, remonta aos períodos inimagináveis do infinito de duração, ao fiat lux! do início.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  15
 
 O começo absoluto das coisas remonta, pois, a [Deus][c5m]. As sucessivas aparições delas no domínio da existência constituem a ordem da criação perpétua. Que mortal poderia dizer das magnificências desconhecidas e soberbamente veladas sob a noite das idades que se desdobraram nesses tempos antigos, em que nenhuma das maravilhas do universo atual existia; nessa época primitiva em que, tendo-se feito ouvir a voz do Senhor, os materiais que no futuro haviam de agregar-se por si mesmos e simetricamente, para formar o templo da natureza, se encontraram de súbito no seio dos vácuos infinitos; quando aquela voz misteriosa, que toda criatura venera e estima como a de uma mãe, produziu notas harmoniosamente variadas, para irem vibrar juntas e modular o concerto dos céus imensos! O mundo, ao nascer, não foi estabelecido na sua virilidade e na sua plenitude de [vida][r4f], não. O poder criador nunca se contradiz e, como todas as coisas, o universo nasceu criança. Revestido das leis mencionadas acima e da impulsão inicial inerente à sua formação mesma, a matéria cósmica primitiva fez que sucessivamente nascessem turbilhões, aglomerações desse fluido difuso, amontoados de matéria nebulosa que se cindiram por si próprios e se modificaram ao infinito para gerar, nas regiões incomensuráveis da amplidão, diversos centros de criações simultâneas ou sucessivas. Em virtude das forças que predominaram sobre um ou sobre outro deles e das circunstâncias ulteriores que presidiram aos seus desenvolvimentos, esses centros primitivos se tornaram focos de uma [vida][r4f] especial: uns, menos disseminados no espaço e mais ricos em princípios e em forças atuantes, começaram desde logo a sua particular [vida][r4f] astral; os outros, ocupando ilimitada extensão, cresceram com lentidão extrema, ou de novo se dividiram em outros centros secundários.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  16
 
 Transportando-nos a alguns milhões de séculos somente, além da época atual, verificamos que a nossa Terra ainda não existe, que mesmo o nosso sistema solar ainda não começou as evoluções da [vida][r4f] planetária; entretanto, já esplêndidos sóis iluminam o éter; já planetas habitados dão [vida][r4f] e existência a uma multidão de seres, nossos predecessores na carreira humana; que as produções opulentas de uma natureza desconhecida e os maravilhosos fenômenos do céu desdobram, sob outros olhares, os quadros da imensa Criação. Que digo! já deixaram de existir esplendores que outrora fizeram palpitar o coração de outros mortais, sob o pensamento da potência infinita! E nós, pobres seres pequeninos, que viemos após uma eternidade de [vida][r4f], nós nos cremos contemporâneos da ­Criação! Ainda uma vez, compreendamos melhor a natureza. Saibamos que atrás de nós, como à nossa frente, está a eternidade, que o espaço é teatro de inimaginável sucessão e simultaneidade de criações. Tais nebulosas, que mal percebemos nos mais longínquos pontos do céu, são aglomerados de sóis em vias de formação; tais outras são vias lácteas de mundos habitados; outras, finalmente, sedes de catástrofes e de deperecimento. Saibamos que, assim como estamos colocados no meio de uma infinidade de mundos, também estamos no meio de uma dupla infinidade de durações, anteriores e ulteriores; que a criação universal não se acha restrita a nós, que não nos é lícito aplicar essa expressão à formação isolada do nosso pequenino globo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  A criação universal
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
 Após haver remontado, tanto quanto o permitia a nossa fraqueza, em direção à fonte oculta donde dimanam os mundos, como de um rio as gotas de água, consideremos a marcha das criações sucessivas e dos seus desenvolvimentos seriais. A matéria cósmica primitiva continha os elementos materiais, fluídicos e vitais de todos os universos que estadeiam suas magnificências diante da eternidade. Ela é a mãe fecunda de todas as coisas, a primeira avó e, sobretudo, a eterna geratriz. Absolutamente não desapareceu essa substância donde provêm as esferas siderais; não morreu essa potência, pois que ainda, incessantemente, dá à luz novas criações e incessantemente recebe, reconstituídos, os princípios dos mundos que se apagam do livro eterno. A substância etérea, mais ou menos rarefeita, que se difunde pelos espaços interplanetários; esse fluido cósmico que enche o mundo, mais ou menos rarefeito, nas regiões imensas, ricas de aglomerações de estrelas; mais ou menos condensado onde o céu astral ainda não brilha; mais ou menos modificado por diversas combinações, de acordo com as localidades da extensão, nada mais é do que a substância primitiva onde residem as forças universais, donde a natureza há tirado todas as coisas. [^34]
 
 [^34]: A.K.: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  18
 
@@ -844,6 +1614,10 @@ Efetua-se assim a criação universal. É, pois, exato dizer-se que, sendo as op
 
 [^35]: N.E.: Atualmente, a Biologia classifica em cinco reinos os seres vivos: monera (bactérias e algas azuis ou cianobactérias), protista (amebas e paramécios), fungos (cogumelos e leveduras), vegetal e animal.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  19
 
 Até aqui, porém, temos guardado silêncio sobre o mundo espiritual, que também faz parte da Criação e cumpre seus destinos conforme as augustas prescrições do Senhor. 
@@ -854,6 +1628,10 @@ Aos que desejem religiosamente conhecer e se mostrem humildes perante [Deus][c5m
 
 De novo peço: não construais sobre as minhas palavras os vossos raciocínios, tão tristemente célebres na história da Metafísica. Eu preferiria mil vezes calar-me sobre tão elevadas questões, tão acima das nossas meditações ordinárias, a vos expor a desnaturar o sentido de meu ensino e a vos lançar, por culpa minha, nos inextricáveis dédalos do deísmo ou do fatalismo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  20
 
 Sucedeu que, num ponto do universo, perdido entre as miríades de mundos, a matéria cósmica se condensou sob a forma de imensa nebulosa, animada esta das leis universais que regem a matéria. Em virtude dessas leis, notadamente da força molecular de atração, [^36] tomou ela a forma de um esferoide, a única que pode assumir uma massa de matéria insulada no espaço. 
@@ -862,11 +1640,19 @@ O movimento circular produzido pela gravitação, rigorosamente igual, de todas 
 
 [^36]: N.E.: Atualmente, a força de atração molecular a que se refere Galileu é chamada pelos astrofísicos de colapso gravitacional.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  21
 
 Novas forças surgiram em consequência desse movimento de rotação: a força centrípeta e a força centrífuga, a primeira tendendo a reunir todas as partes no centro, tendendo a segunda a afastá-las dele. Ora, acelerando-se o movimento, à medida que a nebulosa se condensa, e aumentando o seu raio, à medida que ela se aproxima da forma lenticular, a força centrífuga, incessantemente desenvolvida por essas duas causas, logo predominou sobre a atração central. 
 
 Assim como um movimento demasiado rápido da funda [^37] lhe quebra a corda, indo o projetil cair longe, também a predominância da força centrífuga destacou o círculo equatorial da nebulosa e desse anel uma nova massa se formou, isolada da primeira, mas, todavia, submetida ao seu império. Aquela massa conservou o seu movimento equatorial que, modificado, se lhe tornou movimento de translação em torno do astro solar. Ademais, o seu novo estado lhe dá um movimento de rotação em torno do próprio centro.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  22
 
@@ -874,17 +1660,33 @@ A nebulosa geratriz, que deu origem a esse novo mundo, condensou-se e retomou a 
 
 Ela, pois, não terá dado nascimento a um só astro, mas a centenas de mundos destacados do foco central, saídos dela pelo modo de formação mencionado acima. Ora, cada um de seus mundos, revestido, como o mundo primitivo, das forças naturais que presidem à criação dos universos gerará sucessivamente novos globos que desde então lhe gravitarão em torno, como ele, juntamente com seus irmãos, gravita em torno do foco que lhes deu existência e [vida][r4f]. Cada um desses mundos será um Sol, centro de um turbilhão de planetas sucessivamente destacados do seu equador. Esses planetas receberão uma [vida][r4f] especial, particular, embora dependente do astro que os gerou.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 Os planetas são, assim, formados de massas de matéria condensada, porém, ainda não solidificada, destacadas da massa central pela ação de força centrífuga e que tomam, em virtude das leis do movimento, a forma esferoidal, mais ou menos elíptica, conforme o grau de fluidez que conservaram. Um desses planetas será a Terra que, antes de se resfriar e revestir de uma crosta sólida, dará nascimento à Lua, pelo mesmo processo de formação astral a que ela própria deveu a sua existência. A Terra, doravante inscrita no livro da [vida][r4f], berço de criaturas cuja fraqueza as asas da divina Providência protege, nova corda colocada na harpa infinita e que, no lugar que ocupa, tem de vibrar no concerto universal dos mundos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Os satélites
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  24
 
 Antes que as massas planetárias houvessem atingido um grau de resfriamento, bastante a lhes operar a solidificação, massas menores, verdadeiros glóbulos líquidos, se desprenderam de algumas no plano equatorial, plano em que é maior a força centrífuga, e, por efeito das mesmas leis, adquiriram um movimento de translação em torno do planeta que as gerou, como sucedeu a estes com relação ao astro central que lhes deu origem. 
 
 Foi assim que a Terra deu nascimento à Lua, cuja massa, menos considerável, teve que sofrer um resfriamento mais rápido. Ora, as leis e as forças que presidiram ao fato de ela se destacar do equador terreno, e o seu movimento de translação no mesmo plano, agiram de tal sorte que esse mundo, em vez de revestir a forma esferoidal, tomou a de um globo ovoide, isto é, a forma alongada de um ovo, com o centro de gravidade fixado na parte inferior.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  25
 
@@ -900,17 +1702,33 @@ A Lua leva o mesmo tempo (27,3 dias terrestres) para girar ao redor de seu eixo 
 
 Allan Kardec em suas palavras já demonstrou a necessidade da observação direta da Lua para confirmação de seus dados. Em 1959, a sonda soviética Luna 3 esteve na órbita da Lua, enviando mensagens do lado oculto, encerrando as especulações de que o campo gravitacional lunar seria mais intenso naquela face, tornando possível a existência de atmosfera e [vida][r4f]. Há uma dissimetria entre o lado oculto e o lado visível, uma vez que a crosta na face oculta atinge 100 quilômetros de espessura, enquanto na face visível só atinge um máximo de sessenta quilômetros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  26
 
 O número e o estado dos satélites de cada planeta têm variado de acordo com as condições especiais em que eles se formaram. Alguns não deram origem a nenhum astro secundário, como se verifica com Mercúrio, Vênus e Marte[^40], ao passo que outros, como a Terra, Júpiter, Saturno etc., formaram um ou vários desses astros secundários.
 
 [^40]: N.E.: Em 1877, foram descobertos dois satélites de Marte: Fobos e Deimos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  27
 
 Além de seus satélites ou luas, o planeta Saturno apresenta o fenômeno especial do anel que, visto de longe, parece cercá-lo de uma como auréola branca. Essa formação é para nós uma nova prova da universalidade das leis naturais. Esse anel é, com efeito, o resultado de uma separação que se operou no equador de Saturno, ainda nos tempos primitivos, do mesmo modo que uma zona equatorial se escapou da Terra para formar o seu satélite. A diferença consiste em que o anel de Saturno se formou, em todas as suas partes, de moléculas homogêneas, provavelmente já em certo estado de condensação, e pode, dessa maneira, continuar o seu movimento de rotação no mesmo sentido e em tempo quase igual ao do que anima o planeta. Se um dos pontos desse anel houvesse ficado mais denso do que outro, uma ou muitas aglomerações de substância se teriam subitamente operado e Saturno contaria muitos satélites a mais. Desde a época da sua formação, esse anel se solidificou, do mesmo modo que os outros corpos planetários.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Os cometas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  28
 
@@ -918,15 +1736,27 @@ Astros errantes, ainda mais do que os planetas que conservaram a denominação e
 
 Mas, antes de explorarmos os domínios celestes, com o auxílio desses viajantes do universo, bom será demos a conhecer, tanto quanto possível, a natureza intrínseca deles e o papel que lhes cabe na economia planetária.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  29
 
 Alguns hão visto, nesses astros dotados de cabeleira [^41], mundos nascentes, a elaborarem, no primitivo caos em que se acham, as condições de [vida][r4f] e de existência, que tocam em partilha às terras habitadas; outros imaginaram que esses corpos extraordinários eram mundos em estado de destruição e, para muitos, a singular aparência que têm foi motivo de apreciações errôneas acerca da natureza deles, isso a tal ponto que não houve, inclusive na astrologia judiciária, quem não os considerasse como pressagiadores de desgraças, enviados, por desígnios providenciais, à Terra, espantada e tremente.
 
 [^41]: 1 N.E.: Nuvem luminosa de gás e poeira, de aparência tênue e brumosa, que envolve o núcleo de um astro; coma.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  30
 
 A lei de variedade se aplica em tão larga escala nos trabalhos da natureza, que admira hajam os naturalistas, os astrônomos e os filósofos fabricado tantos sistemas para assimilar os cometas aos astros planetários e para somente verem neles astros em graus mais ou menos adiantados de desenvolvimento ou de caducidade. Entretanto, os quadros da natureza deveriam bastar amplamente para afastar o observador da preocupação de perquirir relações inexistentes e deixar aos cometas o papel modesto, porém, útil, de astros errantes, que servem de desbravadores dos impérios solares. Porque, os corpos celestes de que tratamos são coisa muito diversa dos corpos planetários; não têm por destinação, como estes, servir de habitação a humanidades. Eles vão sucessivamente de sóis em sóis, enriquecendo-se, às vezes, pelo caminho, de fragmentos planetários reduzidos ao estado de vapor, buscar, nos seus centros, os princípios vivificantes e renovadores que derramam sobre os mundos terrestres. (Cap. IX, item 12.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  31
 
@@ -940,11 +1770,23 @@ Chegamos ao mundo astral, nesse mundo deslumbrante dos vastos sóis que irradiam
 
 [^43]: N.E.: Ponto da órbita de um astro ou satélite em torno da Terra, no qual ele se encontra mais próximo de nosso planeta.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A Via Láctea
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  32
 
 Pelas belas noites estreladas e sem luar, toda gente há contemplado essa faixa esbranquiçada que atravessa o céu de uma extremidade a outra e que os antigos cognominaram de Via Láctea, por motivo da sua aparência leitosa. Esse clarão difuso o olho do telescópioo tem longamente explorado nos modernos tempos; essa estrada de poeira de ouro, esse regato de leite da mitologia antiga se transformou num vasto campo de desconhecidas maravilhas. As pesquisas dos observadores conduziram ao conhecimento da sua natureza e revelaram que, ali, onde o olhar errante apenas percebia uma fraca luminosidade, há milhões de sóis mais luminosos e mais importantes do que o que nos clareia a Terra.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  33
 
@@ -952,25 +1794,49 @@ Com efeito, a Via Láctea é uma campina semeada de flores solares e planetária
 
 [^44]: A.K.: Mais de 3 trilhões e 400 bilhões de léguas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  34
 
 Por esse cálculo aproximativo se pode julgar da extensão de tal região sideral e da relação que existe entre o nosso sistema planetário e a universalidade dos sistemas que o ocupam. Pode-se igualmente julgar da exiguidade do domínio solar e, a fortiori, do nada que é a nossa pequenina Terra. Que seria, então, se se considerassem os seres que a povoam! 
 
 Digo — “do nada” — porque as nossas determinações se aplicam não só à extensão material, física, dos corpos que estudamos — o que pouco seria — mas, também e sobretudo, ao estado [moral][h4c] deles como habitação e ao grau que ocupam na eterna hierarquia dos seres. A criação se mostra aí em toda a sua majestade, engendrando e propagando, em torno do mundo solar e em cada um dos sistemas que o rodeiam por todos os lados, as manifestações da [vida][r4f] e da [inteligência][y2h].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  35
 
 Assim, fica-se conhecendo a posição que o nosso Sol ou a Terra ocupam no mundo das estrelas. Ainda maior peso ganharão estas considerações, se refletirmos sobre o estado mesmo da Via Láctea que, na imensidade das criações siderais, não representa mais do que um ponto insensível e inapreciável, vista de longe, porquanto ela não é mais do que uma nebulosa estelar, entre os milhões das que existem no espaço. Se ela nos parece mais vasta e mais rica do que outras, é pela única [razão][f8m] de que nos cerca e se desenvolve em toda a sua extensão sob os nossos olhares, ao passo que as outras, sumidas nas profundezas insondáveis, mal se deixam entrever.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  36
 
 Ora, sabendo-se que a Terra nada é, ou quase nada, no sistema solar; que este nada é, ou quase nada, na Via Láctea; esta por sua vez é nada, ou quase nada, na universalidade das nebulosas e essa própria universalidade é bem pouca coisa dentro do imensurável infinito, começa-se a compreender o que é o globo terrestre.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### As estrelas fixas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  37
 
 As estrelas chamadas “fixas” e que constelam os dois hemisférios do firmamento não se acham de todo isentas de qualquer atração exterior, como geralmente se supõe. Longe disso: elas pertencem todas a uma mesma aglomeração de astros estelares, aglomeração que não é senão a grande nebulosa de que fazemos parte e cujo plano equatorial, projetado no céu, recebeu o nome de Via Láctea. Todos os sóis que a constituem são solidários; suas múltiplas influências reagem perpetuamente umas sobre as outras e a gravitação universal as grupa todas numa mesma família.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  38
 
@@ -978,23 +1844,43 @@ Esses diversos sóis estão na sua maioria, como o nosso, cercados de mundos sec
 
 [^45]: A.K.: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  39
 
 Malgrado o prodigioso número dessas estrelas e de seus sistemas, malgrado as distâncias incomensuráveis que as separam, elas pertencem todas à mesma nebulosa estelar que os olhos dos mais possantes telescópios mal conseguem atravessar e que as concepções da mais ousada imaginação apenas logram alcançar, nebulosa que, entretanto, é simplesmente uma unidade na ordem das nebulosas que compõem o mundo astral.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  40
 
 As estrelas chamadas fixas não estão imóveis na amplidão. As constelações que se figuraram na abóbada do firmamento não são reais criações simbólicas. A distância a que se acham da Terra e a perspectiva sob a qual se mede, da estação terrena, o universo, constituem as duas causas dessa dupla ilusão de óptica. (Cap. V, item 12.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  41
 
 Vimos que a totalidade dos astros que cintilam na cúpula azulada se acha encerrada numa aglomeração cósmica, numa mesma nebulosa a que chamais Via Láctea, mas, por pertencerem todos ao mesmo grupo, não se segue que esses astros não estejam animados todos de movimento de translação no espaço, cada um com o seu. Em parte nenhuma existe o repouso absoluto. Eles têm a regê-los as leis universais da gravitação e rolam no espaço ilimitado sob a impulsão incessante dessa força imensa. Rolam, não segundo roteiros traçados pelo acaso, mas segundo órbitas fechadas, cujo centro um astro superior ocupa. Para tornar, por meio de um exemplo, mais compreensíveis as minhas palavras, falarei de modo especial do vosso Sol.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  42
 
 Sabe-se, em consequência de modernas observações, que ele não é fixo, nem central, como se acreditava nos primeiros tempos da nova astronomia; que avança pelo espaço, arrastando consigo o seu vasto sistema de planetas, de satélites e de cometas.
 
 Ora, não é fortuita esta marcha e ele não vai, errando pelos vácuos infinitos, transviar seus filhos e seus súditos, longe das regiões que lhe estão assinadas. Não, sua órbita é determinada e, em concorrência com outros sóis da mesma ordem e rodeados todos de certo número de terras habitadas, ele gravita em torno de um sol central. Seu movimento de gravitação, como o dos sóis seus irmãos, é inapreciável a observações anuais, porque somente grande número de períodos seculares seriam suficientes para marcar um desses anos astrais.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  43
 
@@ -1003,6 +1889,10 @@ O sol central, de que acabamos de falar, também é um globo secundário relativ
 Poderíamos comprovar esta subordinação sucessiva de sóis a sóis, até que a nossa imaginação cansasse de subir a uma tal hierarquia, porquanto, não o esqueçamos, em números redondos, uma trintena de milhões de sóis se pode contar na Via Láctea [^46], subordinados uns aos outros, como rodas gigantescas de uma engrenagem imensa.
 
 [^46]: N.E.: Atualmente, a [Ciência][h4t] atribui à Via Láctea uma assombrosa quantidade de estrelas, que varia de 200 a 400 bilhões de sóis.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  44
 
@@ -1014,7 +1904,15 @@ Em parte nenhuma há imobilidade, nem silêncio, nem noite! O grande espetáculo
 
 Mas, até aqui, temos falado de uma única nebulosa, que com os milhões de sóis, e os seus milhões de terras habitadas, forma apenas, como já o dissemos, uma ilha no arquipélago infinito.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Os desertos do espaço
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  45
 
@@ -1022,9 +1920,17 @@ Inimaginável deserto, sem limites, se estende para lá da aglomeração de estr
 
 Ora, a nebulosa estelar mede, como já vimos, em números redondos, mil vezes a distância das estrelas mais aproximadas, tomada por unidade essa distância, isto é, alguns cem mil trilhões de léguas.47 A distância que existe entre elas, sendo muito mais vasta, não poderia ser expressa por números acessíveis à compreensão do nosso espírito. Só a imaginação, em suas concepções mais altas, é capaz de transpor tão prodigiosa imensidade, essas solidões mudas e baldas de toda aparência de [vida][r4f], e de encarar, de certa maneira, a ideia dessa infinidade relativa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  46
 
 Todavia, o deserto celeste, que envolve o nosso universo sideral e que parece estender-se como os afastados confins do nosso mundo astral, é abrangido pela visão e o poder infinito do Altíssimo que, além desses céus dos nossos céus, desenvolveu a trama da sua criação ilimitada.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  47
 
@@ -1040,11 +1946,23 @@ Se nos pudéssemos transportar da nossa nebulosa para outra, aí estaríamos com
 
 Tudo o que nos possa identificar com a imensidade da extensão e com a estrutura do universo é de utilidade para a ampliação das ideias, tão restringidas pelas crenças vulgares. [Deus][c5m] avulta aos nossos olhos, à medida que melhor compreendemos a grandeza de suas obras e nossa infimidade. Estamos longe, como se vê, da crença que a gênese moisaica implantou e que fez da nossa pequenina, imperceptível Terra, a criação principal de [Deus][c5m] e dos seus habitantes os únicos objetos da sua solicitude. Compreendemos a vaidade dos homens que creem que tudo no universo foi feito para eles e dos que ousam discutir a existência do Ente supremo. Dentro de alguns séculos, causará espanto que uma religião feita para glorificar a [Deus][c5m] o tenha rebaixado a tão mesquinhas proporções e que haja repelido, como concepção do espírito do mal, as descobertas que somente vieram aumentar a nossa admiração pela sua onipotência, iniciando-nos nos grandiosos mistérios da criação. Ainda maior será o espanto, quando souberem que essas descobertas foram repelidas porque emancipariam o espírito dos homens e tirariam a preponderância dos que se diziam representantes de [Deus][c5m] na Terra.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Eterna sucessão dos mundos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  48
 
 Vimos que uma única lei, primordial e geral, foi outorgada ao universo, para lhe assegurar eternamente a estabilidade, e que essa lei geral nos é perceptível aos sentidos por muitas ações particulares que nomeamos forças diretrizes da natureza. Vamos agora mostrar que a harmonia do mundo inteiro, considerada sob o duplo aspecto da eternidade e do espaço, é garantida por essa lei suprema.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  49
 
@@ -1052,11 +1970,19 @@ Com efeito, se remontarmos à origem primária das primitivas aglomerações da 
 
 Já sabemos que essas leis presidem à história do Cosmo; o que agora importa saber é que elas presidem igualmente à destruição dos astros, porquanto a [morte][q4x] não é apenas uma metamorfose do ser vivo, mas também uma transformação da matéria inanimada. Se é exato dizer-se, em sentido literal, que a [vida][r4f] só é acessível à foice da [morte][q4x], não menos exato é dizer-se que para a substância é de toda necessidade sofrer as transformações inerentes à sua constituição.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  50
 
 Temos aqui um mundo que, desde o primitivo berço, percorreu toda a extensão dos anos que a sua organização especial lhe permitia percorrer. Extinguiu-se-lhe o foco interior da existência, seus elementos perderam a virtude inicial; os fenômenos da natureza, que reclamavam, para se produzirem, a presença e a ação das forças outorgadas a esse mundo, já não mais podem produzir-se, porque a alavanca da atividade delas já não dispõe do ponto de apoio que lhe era indispensável. 
 
 Ora, dar-se-á que essa terra extinta e sem [vida][r4f] vai continuar a gravitar nos espaços celestes, sem uma finalidade, e passar como cinza inútil pelo turbilhão dos céus? Dar-se-á permaneça inscrita no livro da [vida][r4f] universal, quando já se tornou letra morta e vazia de sentido? Não. As mesmas leis que a elevaram acima do caos tenebroso e que a galardoaram com os esplendores da [vida][r4f], as mesmas forças que a governaram durante os séculos da sua adolescência, que lhe firmaram os primeiros passos na existência e que a conduziram à idade madura e à velhice, vão também presidir à desagregação de seus elementos constitutivos, a fim de os restituir ao laboratório onde a potência criadora haure incessantemente as condições da estabilidade geral. Esses elementos vão retornar à massa comum do éter, para se assimilarem a outros corpos, ou para regenerarem outros sóis. E a [morte][q4x] não será um acontecimento inútil, nem para a Terra que consideramos, nem para suas irmãs. Noutras regiões, ela renovará outras criações de natureza diferente e, lá onde os sistemas de mundos se desvaneceram, em breve renascerá outro jardim de flores mais brilhantes e mais perfumadas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  51
 
@@ -1068,25 +1994,49 @@ Que são os seis mil anos da humanidade histórica, diante dos períodos secular
 
 [^49]: A.K.: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma [razão][f8m], ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  52
 
 Logo, reconheçamos, aqui como nos nossos outros estudos, que a Terra e o homem são nada em confronto com o que existe e que as mais colossais operações do nosso pensamento ainda se estendem apenas sobre um campo imperceptível, diante da imensidade e da eternidade de um universo que nunca terá fim. 
 
 E, quando esses períodos da nossa imortalidade nos houverem passado sobre as cabeças, quando a história atual da Terra nos aparecer qual sombra vaporosa no fundo da nossa lembrança; quando, durante séculos incontáveis, houvermos habitado esses diversos degraus da nossa hierarquia cosmológica; quando os mais longínquos domínios das idades futuras tiverem sido por nós perlustrados em inúmeras peregrinações, teremos diante de nós a sucessão ilimitada dos mundos e por perspectiva a eternidade imóvel.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A [vida][r4f] universal
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  53
 
 Essa imortalidade das almas, tendo por base o sistema do mundo físico, pareceu imaginária a certos pensadores prevenidos; qualificaram-na ironicamente de imortalidade viajora e não compreenderam que só ela é verdadeira ante o espetáculo da criação. Entretanto, pode-se tornar compreensível toda a sua grandeza, quase diríamos: toda a sua perfeição.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  54
 
 Que as obras de [Deus][c5m] sejam criadas para o pensamento e a [inteligência][y2h]; que os mundos sejam moradas de seres que as contemplam e lhes descobrem, sob o véu, o poder e a [sabedoria][i8d] daquele que as formou, são questões que já nos não oferecem dúvida; mas, que sejam solidárias as almas que os povoam, é o que importa saber.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  55
 
 Com efeito, a [inteligência][y2h] humana encontra dificuldade em considerar esses globos radiosos que cintilam na amplidão como simples massas de matéria inerte e sem [vida][r4f]. Custa-lhe a pensar que não haja, nessas regiões distantes, magníficos crepúsculos e noites esplendorosas, sóis fecundos e dias transbordantes de luz, vales e montanhas, onde as produções múltiplas da natureza desenvolvam toda a sua luxuriante pompa. Custa-lhe a imaginar, digo, que o espetáculo divino em que a [alma][q3f] pode retemperar-se como em sua própria [vida][r4f], seja baldo da existência e carente de qualquer ser pensante que o possa conhecer.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  56
 
@@ -1094,19 +2044,39 @@ Mas a essa ideia eminentemente justa da Criação, faz-se mister acrescentar a d
 
 Uma mesma família humana foi criada na universalidade dos mundos e os laços de uma fraternidade que ainda não sabeis apreciar foram postos a esses mundos. Se os astros que se harmonizam em seus vastos sistemas são habitados por inteligências, não o são por seres desconhecidos uns dos outros, mas, ao contrário, por seres que trazem marcado na fronte o mesmo destino, que se hão de encontrar temporariamente segundo suas funções de [vida][r4f] e suas mútuas simpatias. É a grande família dos Espíritos que povoam as terras celestes; é a grande irradiação do [Espírito][g4f] divino que abrange a extensão dos céus e que permanece como tipo primitivo e final da perfeição espiritual.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  57
 
 Por que singular aberração se há podido crer fosse mister negar à imortalidade as vastas regiões do éter, quando a encerravam dentro de um limite inadmissível e de uma dualidade absoluta? O verdadeiro sistema do mundo deveria, então, preceder à verdadeira doutrina dogmática e a [Ciência][h4t] preceder à Teologia? Esta se transviará tanto que irá colocar sua base sobre a Metafísica? A resposta é fácil e nos mostra que a nova filosofia se assentará triunfante nas ruínas da antiga, porque sua base se terá erguido vitoriosa sobre os antigos erros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Diversidade dos mundos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  58
 
 Acompanhando-nos em nossas excursões celestes, visitastes conosco as regiões imensas do espaço. Debaixo das nossas vistas, os sóis sucederam aos sóis, os sistemas aos sistemas, as nebulosas às nebulosas; diante dos nossos passos, desenrolou-se o panorama esplêndido da harmonia do Cosmo e antegozamos a ideia do infinito, que somente de acordo com a nossa perfectibilidade futura poderemos compreender em toda a sua extensão. Os mistérios do éter nos desvendaram o seu enigma até aqui indecifrável e, pelo menos, concebemos a ideia da universalidade das coisas. Cumpre que agora nos detenhamos a refletir.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  59
 
 É belo, sem dúvida, haver reconhecido quanto é ínfima a Terra e medíocre a sua importância na hierarquia dos mundos; é belo haver abatido a presunção humana, que nos é tão cara, e nos termos humilhado ante a grandeza absoluta; ainda mais belo, no entanto, será que interpretemos em sentido [moral][h4c] o espetáculo de que fomos testemunhas. Quero falar do poder infinito da natureza e da ideia que devemos fazer do seu modo de ação nos diversos domínios do vasto universo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  60
 
@@ -1116,6 +2086,10 @@ Lançai por um instante o olhar sobre uma região qualquer do vosso globo e sobr
 
 Apliquem-se aos seres que adejam nos ares os vossos estudos, desçam eles à violeta dos prados, mergulhem nas profundezas do oceano, em tudo e por toda a parte lereis esta [verdade][x8k] universal: A natureza onipotente age conforme os lugares, os tempos e as circunstâncias; ela é una em sua harmonia geral, mas múltipla em suas produções; brinca com um Sol, como com uma gota de água; povoa de seres vivos um mundo imenso com a mesma facilidade com que faz se abra o ovo posto pela borboleta.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  61
 
 Ora, se é tal a variedade que a natureza nos há podido evidenciar em todos os sítios deste pequeno mundo tão acanhado, tão limitado, quão mais ampliado não deveis considerar esse modo de ação, ponderando nas perspectivas dos mundos enormes! quão mais desenvolvida e pujante não a deveis reconhecer, operando nesses mundos maravilhosos que, muito mais do que a Terra, lhe atestam a inapreciável perfeição! 
@@ -1124,27 +2098,55 @@ Não vejais, pois, em torno de cada um dos sóis do espaço, apenas sistemas pla
 
 Do fato de que a vossa natureza animada começa no zoófito para terminar no homem, de que a atmosfera alimenta a [vida][r4f] terrestre, de que o elemento líquido a renova incessantemente, de que as vossas estações fazem se sucedam nessa [vida][r4f] os fenômenos que as distinguem, não concluais que os milhões e milhões de terras que rolam pela amplidão sejam semelhantes à que habitais. Longe disso, aquelas diferem, de acordo com as diversas condições que lhes foram prescritas e de acordo com o papel que a cada uma coube no cenário do mundo. São pedrarias variegadas de um imenso mosaico, as diversificadas flores de admirável parque.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-07. 🗂️ Esboço geológico da Terra {#gen-1-07}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 #### Períodos geológicos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
 A Terra conserva em si os traços evidentes da sua formação. Acompanham-se-lhe as fases com precisão matemática, nos diferentes terrenos que lhe constituem o arcabouço. O conjunto desses estudos forma a [ciência][h4t] chamada Geologia, [ciência][h4t] nascida neste século (XIX) e que projetou luz sobre a tão controvertida questão da origem do globo terreno e da dos seres vivos que o habitam. Neste ponto, não há simples hipótese; há o resultado rigoroso da observação dos fatos e, diante dos fatos, nenhuma dúvida se justifica. A história da formação da Terra está escrita nas camadas geológicas, de maneira bem mais certa do que nos livros preconcebidos, porque é a própria natureza que fala, que se põe a nu, e não a imaginação dos homens a criar sistemas. Desde que se notem traços de fogo, pode dizer-se com certeza que houve fogo ali; onde se vejam os da água, pode dizer-se que a água ali esteve; desde que se observem os de animais, pode dizer-se que viveram aí animais. A Geologia é, pois, uma [ciência][h4t] toda de observação; só tira deduções do que vê; sobre os pontos duvidosos, nada afirma; não emite opiniões discutíveis, por esperar de observações mais completas a solução procurada. Sem as descobertas da Geologia, como sem as da Astronomia, a Gênese do mundo ainda estaria nas trevas da lenda. Graças a elas, o homem conhece hoje a história da sua habitação, tendo desmoronado, para não mais tornar a erguer-se, a estrutura de fábulas que lhe rodeavam o berço.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 02
 
 Em todos os terrenos onde existam valas, escavações naturais ou praticadas pelo homem, nota-se o a que se chama estratificações, isto é, camadas superpostas. Os que apresentam essa disposição se designam pelo nome de terrenos estratificados. Essas camadas, de espessura que varia desde alguns centímetros até 100 metros e mais, se distinguem entre si pela cor e pela natureza das substâncias de que se compõem. Os trabalhos de arte, a perfuração de poços, a exploração de pedreiras e, sobretudo, de minas facultaram observá-las até grande profundidade. 
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 03
 
 São em geral homogêneas as camadas, isto é, cada uma constituída da mesma substância, ou de substâncias diversas, mas que existiram juntas e formaram um todo compacto. A linha de separação que as isola umas das outras é sempre nitidamente sulcada, como nas fiadas de uma construção. Em nenhuma parte se apresentam misturadas e sumidas umas nas outras, nos pontos de seus respectivos limites, como se dá, por exemplo, com as cores do prisma e do arco-íris. Por esses caracteres, reconhece-se que elas se formaram sucessivamente, depositando-se uma sobre outra, em condições e por causas diferentes. As mais profundas são, naturalmente, as que se formaram em primeiro lugar, tendo-se formado posteriormente as mais superficiais. A última de todas, a que se acha na superfície, é a camada da terra vegetal, que deve suas propriedades aos detritos de matérias orgânicas provenientes das plantas e dos animais.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 04
 
 As camadas inferiores, colocadas abaixo da camada vegetal, receberam em Geologia o nome de rochas, palavra que, nessa acepção, nem sempre implica a ideia de uma substância pedrosa, significando antes um leito ou banco feito de uma substância mineral qualquer. Umas são formadas de areia, de argila ou de terra argilosa, de marna, de seixos rolados; outras o são de pedras propriamente ditas, mais ou menos duras, tais como os grés, os mármores, o cré, os calcários ou pedras calcárias, as pedras molares, ou carvões de pedra, os asfaltos etc. Diz-se que uma rocha é mais ou menos possante conforme é mais ou menos considerável a sua espessura. 
 
 Mediante o exame da natureza dessas rochas ou camadas, reconhece-se, por sinais certos, que umas provêm de matérias fundidas e, às vezes, vitrificadas sob a ação do fogo; outras, de substâncias terrosas depostas pelas águas; algumas de tais substâncias se conservaram desagregadas, como as areias; outras, a princípio em estado pastoso, sob a ação de certos agentes químicos ou por outras causas, endureceram e adquiriram, com o tempo, a consistência da pedra. Os bancos de pedras superpostas denunciam depósitos sucessivos. O fogo e a água participaram, pois, da formação dos materiais que compõem o arcabouço sólido do globo terráqueo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 05
 
@@ -1154,11 +2156,19 @@ A posição normal das camadas terrosas ou pedregosas, provenientes de depósito
 
 [^51]: N.E.: Solos de calcário e argila, usados em olarias e como corretivo de terras agrícolas
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 06
 
 Conquanto a horizontal seja a posição mais generalizada e a que normalmente assumem as formações aquosas, não é raro verem-se, nos países montanhosos e em extensões bem grandes, rochas duras, cuja natureza indica que foram formadas em posição inclinada e, até por vezes, vertical. Ora, como, segundo as leis de equilíbrio dos líquidos e da gravidade, os depósitos aquosos somente em planos horizontais podem formar-se, pois os que se formam sobre planos inclinados são arrastados pelas correntes e pelo próprio peso para as baixadas, evidente se torna que tais depósitos foram levantados por uma força qualquer, depois de se terem solidificado ou transformado em pedras.
 
 Destas considerações se pode concluir, com certeza, que todas as camadas pedrosas que, provindo de depósitos aquosos, se encontram em posição perfeitamente horizontal, foram formadas, durante séculos, por águas tranquilas e que, todas as vezes que se achem em posição inclinada, o solo foi convulsionado e deslocado posteriormente, por subversões gerais ou parciais, mais ou menos consideráveis.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 07
 
@@ -1174,9 +2184,17 @@ Os monumentos, inscrições e objetos produzidos por fabricação humana, esses 
 
 [^53]: N.E.: Sabemos que as primeiras formas de [vida][r4f] (bactérias e algas azul-esverdeadas) surgiram há cerca de 3.500 milhões de anos, e há 570 milhões de anos as plantas e os animais complexos começaram a se desenvolver.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 08
 
 Entre os despojos de vegetais e animais, alguns há que se mostram penetrados em todos os pontos de sua substância, sem que isso lhes alterasse a forma, de matérias silicosas ou calcárias que os transformaram em pedras, algumas das quais apresentam a dureza do mármore. São as petrificações propriamente ditas. Outros foram apenas envolvidos pela matéria no estado de flacidez; são encontrados intactos e, alguns, inteiros, nas mais duras pedras. Outros, finalmente, apenas deixaram marcas, mas de uma nitidez e uma delicadeza perfeitas. No interior de certas pedras, encontraram-se até marcas de passos e, pela forma do pé, dos dedos e das unhas, chegou-se a reconhecer a espécie animal a que pertenceram.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 09
 
@@ -1186,9 +2204,17 @@ São extremamente numerosos os peixes e os moluscos testáceos fósseis; só est
 
 [^54]: A.K.: No ponto a que Georges Cuvier [1769–1832, zoólogo e paleontólogo francês] levou a [ciência][h4t] paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 10
 
 Os seixos rolados, que em certos lugares formam rochas formidáveis, constituem inequívoco indício da origem deles. São arredondados como os calhaus de beira-mar, sinal certo do atrito que sofreram, por efeito das águas. As regiões onde eles se encontram enterrados, em massas consideráveis, foram incontestavelmente ocupadas pelo oceano, ou, durante longo tempo, por outras águas movediças, ou violentamente agitadas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 11
 
@@ -1196,21 +2222,41 @@ Além disso, os terrenos das diversas formações se caracterizam pela natureza 
 
 As perturbações, os cataclismos que se produziram na Terra, desde a sua origem, lhe mudaram as condições de aptidão para entretenimento da [vida][r4f] e fizeram desaparecessem gerações inteiras de seres vivos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 12
 
 Interrogando-se a natureza das camadas geológicas, vem-se a saber, de modo mais positivo, se, na época de sua formação, a região onde elas se apresentam era ocupada pelo mar, pelos lagos, ou por florestas e planícies povoadas de animais terrestres. Conseguintemente, se, numa mesma região, se encontra uma série de camadas superpostas, contendo alternativamente fósseis marinhos, terrestres e de água doce, muitas vezes repetidas, constitui esse fato prova irrecusável de que essa região foi muitas vezes invadida pelo mar, coberta de lagos e posta a seco. 
 
 E quantos séculos de séculos, certamente, quantos milhares de séculos, talvez, não foram precisos para que cada período se completasse! Que força poderosa não foi necessária para deslocar e recolocar o oceano, levantar montanhas! Por quantas revoluções físicas, comoções violentas não teve a Terra de passar, antes de ser qual a vemos desde os tempos históricos! E querer-se que tudo isso fosse obra executada em menos tempo do que o que leva uma planta para germinar!
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 13
 
 O estudo das camadas geológicas atesta, como já se disse, formações sucessivas, que mudaram o aspecto do Globo e lhe dividem a história em muitas épocas, que constituem os chamados períodos geológicos, cujo conhecimento é essencial para a determinação da Gênese. São em número de seis os principais, designados pelos nomes de períodos primário, de transição, secundário, terciário, diluviano, pós-diluviano ou atual. Os terrenos formados durante cada período também se chamam: terrenos primitivos, de transição, secundários etc. Diz-se, pois, que tal ou tal camada ou rocha, tal ou tal fóssil se encontram nos terrenos de tal ou tal período.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 14
 
 Cumpre se note que o número desses períodos não é absoluto, pois depende dos sistemas de classificação. Nos seis principais, mencionados acima, só se compreendem os que estão assinalados por uma mudança notável e geral no estado do planeta; mas a observação prova que muitas formações sucessivas se operaram, enquanto durou cada um deles. Por isso é que são divididos em seis períodos caracterizados pela natureza dos terrenos e que elevam a vinte e seis o número das formações gerais bem assinaladas, sem contar os que provêm de modificações devidas a causas puramente locais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Estado primitivo do globo [^55]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 15
 
@@ -1219,6 +2265,10 @@ O achatamento dos polos e outros fatos concludentes são indícios certos de que
 Costuma-se dizer, proverbialmente: não há fumaça sem fogo. Rigorosamente verdadeira, esta sentença constitui uma aplicação do princípio: não há efeito sem causa. Pela mesma [razão][f8m], pode-se dizer: não há fogo sem um foco. Ora, pelos fatos que se passam sob as nossas vistas, não é apenas fumaça o que se produz na Terra, mas fogo bastante real, que há de ter um foco. Vindo esse fogo do interior do planeta e não do alto, o foco lhe há de estar no interior e, como o fogo é permanente, o foco também o há de ser. 
 
 O calor, cujo aumento é progressivo à medida que se penetra no interior da Terra e que, a certa profundidade, chega a uma temperatura altíssima; as fontes térmicas, tanto mais quentes, quanto mais profunda lhes está a nascente; os fogos e as massas de matéria fundida esbraseada que os vulcões vomitam, como por vastos respiradouros, ou pelas fendas que alguns tremores de terra abrem, não deixam dúvida sobre a existência de um fogo interior.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 16
 
@@ -1230,11 +2280,19 @@ Aliás, é muito variável a espessura da crosta terrestre, porquanto há zonas,
 
 [^56]: N.E.: Estima-se que a espessura da crosta seja de 6km no leito dos oceanos e 40km na crosta continental.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 17
 
 Assim sendo, evidente se torna que o primitivo estado de fluidez ou de flacidez da Terra há de ter tido como causa a ação do calor e não a da água. Em sua origem, pois, a Terra era uma massa incandescente. Em virtude da irradiação do calórico [^57], deu-se o que se dá com toda matéria em fusão: ela esfriou pouco a pouco, principiando o resfriamento, como era natural, pela superfície, que então endureceu, ao passo que o interior se conservou fluido. Pode-se assim comparar a Terra a um bloco de carvão ao sair ígneo da fornalha e que sua superfície se apaga e resfria, ao contato do ar, mantendo-se-lhe o interior em estado de ignição, conforme se verificará, quebrando-o.
 
 [^57]: N.E.: Teoria Calórica é uma teoria obsoleta que supunha a existência de um fluido invisível e inodoro, chamado calórico, que todos os corpos conteriam em quantidades determinadas em sua composição, era considerado o causador das alterações de temperatura até metade do século XIX. Quanto maior fosse a temperatura de um corpo, maior seria a sua quantidade de calórico, limitada, para cada corpo, a uma quantidade finita. A teoria do calórico explicava o comportamento dos gases e do vapor em termos de uma distinção entre o estado livre e latente do calor. Calor livre podia ser sentido e medido por termômetros; calor latente, por estar intimamente ligado com as ligações da moléculas, não poderia.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 18
 
@@ -1242,7 +2300,15 @@ Na época em que o globo terrestre era uma massa incandescente, não continha ne
 
 [^58]: N.E.: Parece-nos que Kardec se referia apenas à Terra propriamente dita, não levando em conta os aerólitos e a poeira cósmica que a ela se vêm juntando.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Período primário [^59]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 19
 
@@ -1251,6 +2317,10 @@ O primeiro efeito do resfriamento foi a solidificação da superfície exterior 
 A camada granítica foi, pois, a primeira que se formou no globo, é a que o envolve por completo, constituindo de certo modo o seu arcabouço ósseo. É o produto direto da consolidação da matéria fundida. Sobre ela e nas cavidades que apresentava a sua superfície torturada foi que se depositaram sucessivamente as camadas dos outros terrenos, posteriormente formados. O que a distingue destes últimos é a ausência de toda e qualquer estratificação; quer dizer: ela forma uma massa compacta e uniforme em toda a sua espessura, que não é disposta em camadas. A efervescência da matéria incandescente havia de produzir nela numerosas e profundas fendas, pelas quais essa mesma matéria extravasava.
 
 [^59]: N.E.: Refere-se à parte da Era Pré-Cambriana, de acordo com a Escala de Tempo Geológico moderna. 
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 20
 
@@ -1262,6 +2332,10 @@ Vieram, a seguir, as águas que, caindo sobre um solo ardente, se vaporizavam de
 
 É a formação dos terrenos graníticos que dá começo à série dos períodos geológicos, aos quais conviria se acrescentasse o do estado primitivo, de incandescência do globo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 21
 
 Tal o aspecto do primeiro período, verdadeiro caos de todos os elementos confundidos, à procura de estabilização, período em que nenhum ser vivo podia existir. Por isso mesmo, um de seus caracteres distintivos, em Geologia, é a ausência de qualquer vestígio de [vida][r4f] vegetal ou animal. 
@@ -1270,7 +2344,15 @@ Impossível se torna assinar duração determinada a esse período, do mesmo mod
 
 [^60]: N.E.: No original francês foi usado o termo “boulet”, projetil esférico de metal, munição de canhões.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Período de transição [^61]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 22
 
@@ -1288,11 +2370,19 @@ Uma das últimas substâncias de que o ar teve de expurgar-se, por ser gasoso o 
 
 [^61]: N.E.: Refere-se à maior parte da Era Pré-Cambriana e toda a Era Paleozoica atuais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 23
 
 Por essa época, entraram a formar-se as camadas de terrenos de sedimento, depositadas pelas águas carregadas de limo e de matérias diversas, apropriadas à [vida][r4f] orgânica. 
 
 Surgem aí os primeiros seres vivos do reino vegetal e do reino animal. Deles se encontram vestígios, a princípio em número reduzido, porém, depois, cada vez mais frequentes, à medida que se vai passando às camadas mais elevadas dessa formação. É digno de nota que por toda parte a [vida][r4f] se manifesta, logo que lhe são propícias as condições, nascendo cada espécie desde que se realizam as condições próprias à sua existência.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 24
 
@@ -1304,17 +2394,29 @@ Os animais desse período, que apareceram em seguida aos primeiros vegetais, era
 
 [^63]: N.E.: Classe de animais invertebrados, cujos órgãos estão dispostos simetricamente em torno de um eixo, ex.: equinodermos e pólipos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 25
 
 Sob o império do calor e da umidade e em virtude do excesso de ácido carbônico espalhado no ar, gás impróprio à respiração dos animais terrestres, mas necessário às plantas, os terrenos expostos se cobriram rapidamente de uma vegetação pujante, ao mesmo tempo que as plantas aquáticas se multiplicavam no seio dos pântanos. Plantas que, nos dias atuais, são simples ervas de alguns centímetros, atingiam altura e grossura prodigiosas. Assim é que havia florestas de fetos arborescentes de 8 a 10 metros de altura e de proporcional grossura. Licopódios (marroio, gênero de musgo), do mesmo porte; cavalinhas [^64], de 4 a 5 metros, que a altura não passa hoje de um metro, e uma infinidade de espécies que não mais existem. Pelos fins do período, começam a aparecer algumas árvores do gênero conífero ou pinheiros.
 
 [^64]: A.K.: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 26
 
 Em consequência do deslocamento das águas, os terrenos que produziam essas massas de vegetais foram submergidos, cobertos de novos sedimentos terrosos, enquanto os que se achavam emersos se adornavam, a seu turno, de vegetação semelhante. Houve assim muitas gerações de vegetais alternativamente aniquiladas e renovadas. O mesmo não se deu com os animais que, sendo todos aquáticos, não estavam sujeitos a essas alternativas. Acumulados durante longa série de séculos, esses destroços formaram camadas de grande espessura. Sob a ação do calor, da umidade, da pressão exercida, pelos posteriores depósitos terrosos e, sem dúvida, de diversos agentes químicos, dos gases, dos ácidos e dos sais produzidos pela combinação dos elementos primitivos, aquelas matérias vegetais sofreram uma fermentação que as converteu em hulha ou carvão de pedra. As minas de hulha são, pois, produto direto da decomposição dos acervos de vegetais acumulados durante o período de transição. É por isso que são encontrados em quase todas as regiões. [^65]
 
 [^65]: A.K.: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 27
 
@@ -1324,7 +2426,15 @@ Os restos fósseis da pujante vegetação dessa época, achando-se hoje sob os g
 
 Não dando mais de mil anos para a formação de cada um desses níveis, já teríamos 68.000 anos só para essa camada de hulha.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Período secundário [^67]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 28
 
@@ -1332,11 +2442,19 @@ Com o período de transição desaparecem a vegetação colossal e os animais qu
 
 [^68]: N.E.: Consultar nota 31.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 29
 
 O período secundário se caracteriza, sob o aspecto mineral, por numerosas e fortes camadas que atestam uma formação lenta no seio das águas e marcam diferentes épocas bem caracterizadas.
 
 A vegetação é menos rápida e menos colossal que no período precedente, sem dúvida em virtude da diminuição do calor e da umidade e de modificações sobrevindas aos elementos constitutivos da atmosfera. Às plantas herbáceas e polpudas, juntam-se as de caule lenhoso e as primeiras árvores propriamente ditas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 30
 
@@ -1358,21 +2476,41 @@ O pterodátilo, animal estranho, do tamanho de um cisne, participando, simultane
 
 [^70]: N.E.: Somente após a desencarnação do autor, ocorrida em 1869, foram descobertos, na Inglaterra, fragmentos suficientes à montagem de um exemplar completo, pelos paleontólogos, permitindo melhor elucidar detalhes da descrição desse dinossauro. Ficou, então, claro que ele tinha uma calosidade óssea sobre o focinho, como os iguanídeos uma crista espinhosa no dorso, inexistindo chifres, que, no entanto, eram bastante evidentes em outros monstros, como nos saurópodes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 31
 
 Durante esse período, que há de ter sido muito longo, como o atestam o número e a pujança das camadas geológicas, a [vida][r4f] animal tomou enorme desenvolvimento no seio das águas, tal qual se dera com a vegetação no período que findara. Mais depurado e mais favorável à respiração, o ar começou a permitir que alguns animais vivessem em terra. O mar se deslocou muitas vezes, mas sem abalos violentos. Com esse período, desaparecem, por sua vez, aquelas raças de gigantescos animais aquáticos, substituídos mais tarde por espécies análogas, de formas menos desproporcionadas e de menor porte.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 32
 
 O orgulho levou o homem a dizer que todos os animais foram criados por sua causa e para satisfação de suas necessidades. Mas, qual o número dos que lhe servem diretamente, dos que lhe foi possível submeter, comparado ao número incalculável daqueles com os quais nunca teve ele, nem nunca terá, quaisquer relações? Como se pode sustentar semelhante tese, em face das inumeráveis espécies que exclusivamente povoaram a Terra por milhares e milhares de séculos, antes que ele aí surgisse, e que afinal desapareceram? Poder-se-á afirmar que elas foram criadas em seu proveito? Entretanto, tinham todas a sua [razão][f8m] de ser, a sua utilidade. [Deus][c5m], decerto, não as criou por simples capricho da sua vontade, para dar a si mesmo, em seguida, o prazer de as aniquilar, pois que todas tinham [vida][r4f], instintos, sensação de dor e de bem-estar. Com que fim ele o fez? Com um fim que há de ter sido soberanamente sábio, embora ainda o não compreendamos. Certamente, um dia será dado ao homem conhecê-lo, para confusão do seu orgulho; mas, enquanto isso não se verifica, como se lhe ampliam as ideias ante os novos horizontes em que lhe é permitido, agora, mergulhar a vista, em presença do imponente espetáculo dessa Criação, tão majestosa no seu lento caminhar, tão admirável na sua previdência, tão pontual, tão precisa e tão invariável nos seus resultados!
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Período terciário [^71]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 33
 
 Com o período terciário nova ordem de coisas começa para a Terra. O estado da sua superfície muda completamente de aspecto; modificam-se profundamente as condições de vitalidade e se aproximam do estado atual. Os primeiros tempos desse período se assinalam por uma interrupção da produção vegetal e animal; tudo revela traços de uma destruição quase geral dos seres vivos, depois do que aparecem sucessivamente novas espécies, cuja organização, mais perfeita, se adapta à natureza do meio onde são chamados a viver.
 
 [^71]: N.E.: Período Terciário da Era Cenozoica atual.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 34
 
@@ -1382,23 +2520,43 @@ A superfície do solo tornou-se então muito desigual; as águas que, até aquel
 
 Tal o grande fenômeno que se operou no período terciário e que transformou o aspecto do globo. Ele não se produziu instantânea, nem simultaneamente em todos os pontos, mas sucessivamente e em épocas mais ou menos distanciadas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 35
 
 Uma das primeiras consequências desses levantamentos foi, como já ficou dito, a inclinação das camadas de sedimento, primitivamente horizontais e assim conservadas onde quer que o solo não sofreu subversões. Foi, portanto, nos flancos e nas proximidades das montanhas que essas inclinações mais se pronunciaram.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 36
 
 Nas regiões onde as camadas de sedimento conservaram a horizontalidade, para se chegar às de formação primária tem-se que atravessar todas as outras, até considerável profundidade, ao cabo da qual se encontra inevitavelmente a rocha granítica. Quando, porém, se ergueram em montanhas, aquelas camadas foram levadas acima do seu nível normal, indo às vezes até a grande altura, de tal sorte que, feito um corte vertical no flanco da montanha, elas se mostram em toda a sua espessura e superpostas como as fiadas de uma construção. É assim que a grandes elevações se encontram enormes bancos de conchas, primitivamente formados no fundo dos mares. Está hoje perfeitamente comprovado que em nenhuma época o mar há podido alcançar semelhantes alturas, visto que para tanto não bastariam todas as águas existentes na Terra, ainda mesmo que fossem em quantidade cem vezes maior. Ter-se-ia, pois, de supor que a quantidade de água diminuiu e, então, caberia perguntar o que fora feito da porção que desapareceu. Os levantamentos, fato hoje incontestável, explicam de maneira lógica e rigorosa os depósitos marinhos que se encontram em certas montanhas. [^72]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 37
 
 Nos lugares onde o levantamento da rocha primitiva produziu completa rasgadura do solo, quer pela rapidez do fenômeno, quer pela forma, altura e volume da massa levantada, o granito foi posto a nu, qual um dente que irrompeu da gengiva. Levantadas, quebradas e arrumadas, as camadas que o revestiam ficaram a descoberto. É assim que terrenos pertencentes às mais antigas formações e que, na posição primitiva, se achavam a grande profundidade, compõem hoje o solo de certas regiões.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 38
 
 Deslocada por efeito dos soerguimentos, a massa granítica deixou nalguns sítios fendas por onde se escapa o fogo interior e se escoam as matérias em fusão; os vulcões, que são como que chaminés da imensa fornalha, ou, melhor, válvulas de segurança que, dando saída ao excesso das matérias ígneas, preservam o globo de comoções muito mais terríveis. Daí o poder dizer-se que os vulcões em atividade são uma segurança para o conjunto da superfície do solo.
 
 Da intensidade desse fogo é possível fazer-se ideia, ponderando-se que no seio mesmo dos mares se abrem vulcões e que a massa de água que os recobre e neles penetra não consegue extingui-los.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 39
 
@@ -1412,9 +2570,17 @@ As matérias carreadas pelas correntes de água formaram as camadas do período 
 
 As camadas dos períodos primário, de transição e secundário, formadas sobre uma superfície pouco acidentada, são mais ou menos uniformes na Terra toda; as do período terciário, formadas, em vez disso, sobre base muito desigual e pela ação carreadora das águas, apresentam caráter mais local. Por toda parte, fazendo-se escavações de certa profundidade, encontram-se todas as camadas anteriores, na ordem em que se formaram, ao passo que não se encontra por toda parte o terreno terciário, nem todas as suas camadas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 40
 
 Durante os reviramentos do solo, ocorridos no princípio deste período, a [vida][r4f] orgânica, como é fácil de conceber-se, teve que ficar estacionária por algum tempo, o que se reconhece examinando terrenos baldos de fósseis. Desde, porém, que sobreveio um estado mais calmo, reapareceram os vegetais e os animais. Estando mudadas as condições de vitalidade, mais depurada a atmosfera, formaram-se novas espécies, com organização mais perfeita. As plantas, sob o ponto de vista da estrutura, diferem pouco das de hoje.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 41
 
@@ -1426,11 +2592,23 @@ Assim como o período de transição assistiu ao nascimento de uma vegetação c
 
 [^74]: N.E.: A Paleontologia situa o surgimento dos pássaros na Era Mesozoica moderna, mais exatamente no Período Jurássico, que corresponde ao Período Secundário desta obra.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Período diluviano [^75]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 42
 
 Este período teve a assinalá-lo um dos maiores cataclismos que revolveram o globo, cuja superfície ele mudou mais uma vez de aspecto, destruindo uma imensidade de espécies vivas, das quais apenas restam despojos. Por toda a parte deixou traços que atestam a sua generalidade. As águas, violentamente arremessadas fora dos respectivos leitos, invadiram os continentes, arrastando consigo as terras e os rochedos, desnudando as montanhas, desarraigando as florestas seculares. Os novos depósitos que elas formaram são designados, em Geologia, pelo nome de terrenos diluvianos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 43
 
@@ -1440,15 +2618,27 @@ Um dos vestígios mais significativos desse grande desastre são os penedos cham
 
 [^76]: A.K.: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 44
 
 Outro fato não menos característico e cuja causa se não descobriu ainda é que só nos terrenos diluvianos se encontram os primeiros aerólitos. Pois que somente nessa época eles começaram a cair, segue-se que anteriormente não existia a causa que os produz.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 45
 
 Foi também por essa época que os polos começaram a cobrir-se de gelo e que se formaram as geleiras das montanhas, o que indica notável mudança na temperatura da Terra, mudança que deve ter sido súbita, porquanto, se se houvesse operado gradualmente, os animais, como os elefantes, que hoje só vivem nos climas quentes e que são encontrados em tão grande número no estado fóssil nas terras polares, teriam tido de retirar-se pouco a pouco para as regiões mais temperadas. Tudo denota, ao contrário, que eles provavelmente foram colhidos de surpresa por um grande frio e sitiados pelos gelos. [^77]
 
 [^77]: A.K.: Em 1771, o naturalista russo Pallas [Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia] encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 46
 
@@ -1458,15 +2648,27 @@ A suposição mais generalizada é a de que uma brusca mudança sofreu a posiç�
 
 O deslocamento repentino das águas também pode ter ocasionado o levantamento de certas partes da crosta sólida e a formação de novas montanhas dentro dos mares, conforme se verificou em começo do período terciário. Mas, além de que, então, o cataclismo não teria sido geral, isso não explicaria a mudança subitânea da temperatura dos polos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 47
 
 Na tormenta determinada pelo deslocamento das águas, pereceram muitos animais; outros, a fim de escaparem à inundação, se retiraram para os lugares altos, para as cavernas e fendas, onde sucumbiram em massa, ou de fome, ou entredevorando-se, ou, ainda, talvez, pela irrupção das águas nos sítios onde se tinham refugiado e donde não puderam fugir. Assim se explica a grande quantidade de ossadas de animais diversos, carnívoros e outros, que são encontrados de mistura em certas cavernas, que por essa [razão][f8m] foram chamadas brechas ou cavernas ossosas. São encontradas as mais das vezes sob as estalagmites. Nalgumas, as ossadas parecem ter sido arrastadas para ali pela correnteza das águas. [^78]
 
 Período pós-diluviano ou atual.[^79] Nascimento do homem
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 48
 
 Uma vez restabelecido o equilíbrio na superfície do planeta, prontamente a [vida][r4f] vegetal e animal retomou o seu curso. Consolidado, o solo assumiu uma colocação mais estável; o ar, purificado, se tornara apropriado a órgãos mais delicados. O Sol, brilhando em todo o seu esplendor através de uma atmosfera límpida, difundia, com a luz, um calor menos sufocante e mais vivificador do que o da fornalha interna. A Terra se povoava de animais menos ferozes e mais sociáveis; mais suculentos, os vegetais proporcionavam alimentação menos grosseira; tudo, enfim, se achava preparado no planeta para o novo hóspede que o viria habitar. Apareceu então o homem, último ser da criação, a [inteligência][y2h] desse ser concorreria, dali em diante, para o progresso geral, progredindo ele próprio.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 49
 
@@ -1485,9 +2687,21 @@ Como quer que seja, tenha o homem aparecido ou não antes do grande dilúvio uni
 
 [^81]: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-08. 🗂️ Teorias sobre a formação da Terra {#gen-1-08}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Teoria da projeção
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
@@ -1503,6 +2717,10 @@ Em virtude do gradual abaixamento do calor central, a Terra chegaria, ao cabo de
 
 Tal, segundo Buffon, o estado atual da Lua que, menor do que a Terra, seria hoje um mundo extinto, do qual a [vida][r4f] se acha para sempre excluída. O próprio Sol viria a ter, afinal, a mesma sorte. De acordo com os seus cálculos, a Terra teria gasto cerca de 74.000 anos para chegar à sua temperatura atual e dentro de 93.000 anos veria o termo da existência da natureza organizada.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 02
 
 A teoria de Buffon, contraditada pelas novas descobertas da [Ciência][h4t], está presentemente abandonada, quase de todo, pelas razões seguintes:
@@ -1517,7 +2735,6 @@ A teoria de Buffon, contraditada pelas novas descobertas da [Ciência][h4t], est
 
 5a Buffon unicamente considerou o calor central da Terra, sem levar em conta o dos raios solares. Ora, é sabido hoje, em presença de dados científicos de rigorosa precisão, obtidos pela experiência, que, em virtude da espessura da crosta terrestre, o calor interno do globo não contribui, de há muito, senão em parcela insignificante, para a temperatura da superfície exterior. São periódicas as variações que essa temperatura sofre e devidas à ação preponderante do calor solar (cap. VII, item 25). Permanente que é o efeito dessa causa, ao passo que o do calor central é nulo, ou quase nulo, a diminuição deste não pode trazer à superfície da Terra sensíveis modificações. Para que a Terra se tornasse inabitável pelo resfriamento, fora necessária a extinção do Sol. [^88]
 
-
 [^84]: N.E.: A [Ciência][h4t] atualmente define os cometas como blocos de gelo e rocha com alguns quilômetros de extensão; quando um cometa se aproxima do Sol, o gelo superficial se evapora, formando uma “bola” de vapor que adquire a forma de longa cauda. Hoje, sabemos que os cometas não são tão inofensivos quando se chocam com planetas; mas em choque com o Sol não causaria qualquer dano a essa estrela.
 
 [^85]: A.K.: Completa dissertação, à altura da [ciência][h4t] moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
@@ -1528,7 +2745,15 @@ A teoria de Buffon, contraditada pelas novas descobertas da [Ciência][h4t], est
 
 [^88]: A.K.: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da [ciência][h4t] moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Teoria da condensação
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 03
 
@@ -1538,7 +2763,15 @@ Estas duas teorias, como se vê, conduzem ao mesmo resultado: estado primitivo, 
 
 A Geologia toma a Terra no ponto em que é possível a observação direta. Seu estado anterior, por escapar à observação, só pode ser conjetural. Ora, entre duas hipóteses, o bom senso diz que se deve preferir a que a lógica sanciona e que mais acorde se mostra com os fatos observados.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Teoria da incrustação
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 04
 
@@ -1550,6 +2783,10 @@ Apenas por não deixar de mencioná-la, falamos desta teoria, que nada tem de ci
 
 “Assim, certos animais, de que apenas os despojos são encontrados, nunca teriam vivido na Terra atual, mas teriam sido transportados de outros mundos desmanchados pela velhice. Os fósseis, que se encontram em climas sob os quais não teriam podido existir neste mundo, viviam sem dúvida em zonas muito diferentes nos globos onde nasceram. Tais despojos na Terra se encontram nos polos, ao passo que os animais viviam no equador dos globos a que pertenciam.”
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 05
 
 Esta teoria tem contra si os mais positivos dados da [ciência][h4t] experimental, além de que deixa intacta a questão mesma que ela pretende resolver, a questão da origem. Diz, é certo, como a Terra se teria formado, mas não diz como se formaram os quatro mundos que se reuniram para constituí-la.
@@ -1557,6 +2794,10 @@ Esta teoria tem contra si os mais positivos dados da [ciência][h4t] experimenta
 Se as coisas se houvessem passado assim, como se explicaria a inexistência absoluta de quaisquer vestígios daquelas imensas soldaduras, não obstante terem ido até as entranhas do globo? Cada um daqueles mundos, o Ásia, o África, o Europa e o América, que se pretende haverem trazido os materiais que lhes eram próprios, teria uma geologia particular, diferente da dos demais, o que não é exato. Ao contrário, vê-se, primeiramente, que o núcleo granítico é uniforme, de composição homogênea em todas as partes do globo, sem solução de continuidade. Depois, as camadas geológicas se apresentam de formação igual, idênticas quanto à constituição, superpostas, em toda parte, na mesma ordem, contínuas, sem interrupção, de um lado a outro dos mares, da Europa à Ásia, à África, à América, e reciprocamente. Essas camadas que dão testemunho das transformações do globo, atestam que tais transformações se operaram em toda a sua superfície e não, apenas, numa porção desta; mostram os períodos de aparecimento, existência, e desaparecimento das mesmas espécies animais e vegetais, nas diferentes partes do mundo, igualmente; mostram a fauna e a flora desses períodos recuados a marcharem simultaneamente por toda parte, sob a influência de uma temperatura uniforme, e a mudar por toda parte de caráter, à medida que a temperatura se modifica. Semelhante estado de coisas não se concilia com a formação da Terra por adjunção de muitos mundos diferentes.
 
 Ademais, é de perguntar-se o que teria sido feito do mar, que ocupa o vazio deixado pela Lua, se esta não se houvesse recusado a reunir-se às suas irmãs. Que aconteceria à Terra atual, se um dia a Lua tivesse a fantasia de vir tomar o seu lugar, expulsando deste o mar?
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 06
 
@@ -1566,7 +2807,15 @@ Semelhante sistema seduziu algumas pessoas, porque parecia explicar a presença 
 
 [^91]: 
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### [Alma][q3f] da Terra
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 07
 
@@ -1578,13 +2827,29 @@ Por [alma][q3f] da Terra, pode entender-se, mais racionalmente, a coletividade d
 
 Um [Espírito][g4f], incumbido de missão tão importante qual a do governo de um mundo, não poderia ter caprichos, ou, então, teríamos de reconhecer em [Deus][c5m] a imprevidência de confiar a execução de suas leis a seres capazes de lhes contravir, a seu bel-prazer. Ora, segundo a doutrina da incrustação, a má vontade da [alma][q3f] da Lua é que houvera dado causa a que a Terra ficasse incompleta. Há ideias que a si mesmas se refutam. (Revista espírita, setembro de 1868.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-09. 🗂️ Revoluções do globo {#gen-1-09}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Revoluções gerais ou parciais
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
 Os períodos geológicos marcam as fases do aspecto geral do globo, em consequência das suas transformações. Mas, com exceção do período diluviano, que se caracterizou por uma subversão repentina, todos os demais transcorreram lentamente, sem transições bruscas. Durante todo o tempo que os elementos constitutivos do globo levaram para tomar suas posições definitivas, as mutações houveram de ser gerais. Uma vez consolidada a base, só se devem ter produzido modificações parciais, na superfície.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 02
 
@@ -1594,7 +2859,15 @@ O fogo atuou produzindo: ou erupções vulcânicas que sepultaram, sob espessas 
 
 Quanto à água, essa atuou, produzindo: ou a irrupção ou a retirada do mar nalgumas costas; ou desmoronamentos que, interceptando as correntes líquidas, formaram lagos; ou transbordamentos e inundações; ou, enfim, aterros nas embocaduras dos rios. Esses aterros, rechaçando o mar, criaram novos territórios. Tal a origem do delta do Nilo, ou Baixo Egito; do delta do Ródano ou Camarga.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Idade das montanhas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 03
 
@@ -1604,13 +2877,25 @@ Comprovou-se assim, por meio da observação, que as montanhas dos Vosges, da Br
 
 Esses levantamentos hão de ter ocasionado grandes perturbações locais e inundações mais ou menos consideráveis, pelo deslocamento das águas, pela interrupção e mudança do curso dos rios. [^92]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Dilúvio bíblico
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 04
 
 O dilúvio bíblico, também conhecido pela denominação de “grande dilúvio asiático”, é fato cuja realidade não se pode contestar. Deve tê-lo ocasionado o levantamento de uma parte das montanhas daquela região, como o do México. Corrobora esta opinião a existência de um mar interior, que ia outrora do mar Negro ao oceano Boreal, comprovada pelas observações geológicas. O mar de Azov, o mar Cáspio, cujas águas são salgadas, embora nenhuma comunicação tenham com nenhum outro mar; o lago Aral e os inúmeros lagos espalhados pelas imensas planícies da Tartália e as estepes da Rússia parecem restos daquele antigo mar. Por ocasião do levantamento das montanhas do Cáucaso, posterior ao dilúvio universal, parte daquelas águas foi recalcada para o Norte, na direção do oceano Boreal; outra parte, para o Sul, em direção ao oceano Índico. Estas inundaram e devastaram precisamente a ­Mesopotâmia e toda a região em que habitaram os antepassados do povo hebreu. Embora esse dilúvio se tenha estendido por uma superfície muito grande, é atualmente ponto averiguado que ele foi apenas local; que não pode ter sido causado pela chuva, pois, por muito copiosa que esta fosse e ainda que se prolongasse por quarenta dias, o cálculo prova que a quantidade de água caída das nuvens não podia bastar para cobrir toda a terra, até acima das mais altas montanhas.
 
 Para os homens de então, que não conheciam mais do que uma extensão muito limitada da superfície do globo e que nenhuma ideia tinham da sua configuração, desde que a inundação invadiu os países conhecidos, invadida fora, para eles, a Terra inteira. Se a essa crença aditarmos a forma imaginosa e hiperbólica da descrição, forma peculiar ao estilo oriental, já não nos surpreenderá o exagero da narração bíblica.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 05
 
@@ -1624,11 +2909,23 @@ O dilúvio asiático foi evidentemente posterior ao aparecimento do homem na Ter
 
 É flagrante a analogia desta lenda com a narrativa bíblica de Noé. Da Índia ela passara ao Egito, como uma multidão de outras crenças. Ora, sendo o livro dos Vedas anteriores ao de Moisés, a narração que naquele se encontra, do dilúvio, não pode ser uma cópia da deste último. O que é provável é que Moisés, que aprendera as doutrinas dos sacerdotes egípcios, haja tomado a estes a sua descrição.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Revoluções periódicas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 06
 
 Além do seu movimento anual em torno do Sol, origem das estações, do seu movimento de rotação sobre si mesma em 24 horas, origem do dia e da noite, tem a Terra um terceiro movimento que se completa em cerca de 25.000 anos, ou, mais exatamente, em 25.868 anos, e que produz o fenômeno denominado, em Astronomia, precessão dos equinócios (cap. V, item 11). Este movimento, que não se pode explicar em poucas palavras, sem o auxílio de figuras e sem uma demonstração geométrica, consiste numa espécie de oscilação circular, que se há comparado à de um pião a morrer, e por virtude da qual o eixo da Terra, mudando de inclinação, descreve um duplo cone, cujo vértice está no centro do planeta, abrangendo as bases desses cones a superfície circunscrita pelos círculos polares, isto é, uma amplitude de 23 graus e meio de raio.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 07
 
@@ -1638,11 +2935,19 @@ Mas em consequência da gradual mudança na obliquidade do eixo, o que acarreta 
 
 Com o tempo, esses poucos minutos fazem horas, dias, meses e anos, resultando daí que o equinócio da primavera, que agora se verifica no mês de março, em dado tempo se verificará em fevereiro, depois em janeiro, depois em dezembro. Então o mês de dezembro terá a temperatura de março e março a de junho e assim por diante, até que, voltando ao mês de março, as coisas se encontrarão de novo no estado atual, o que se dará ao cabo de 25.868 anos, para recomeçar indefinidamente a mesma revolução. [^94]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 08
 
 Desse movimento cônico do eixo, resulta que os polos da Terra não olham constantemente os mesmos pontos do céu; que a Estrela Polar não será sempre estrela polar; que os polos gradualmente se inclinam mais ou menos para o Sol e recebem dele raios mais ou menos diretos, donde se segue que a Islândia e a Lapônia, por exemplo, localizadas sob o círculo polar, poderão, em dado tempo, receber raios solares como se estivessem na latitude da Espanha e da Itália e que, na posição do extremo oposto, a Espanha e a Itália poderão ter a temperatura da Islândia e da Lapônia, e assim por diante, a cada renovação do período de 25.000 anos. [^95]
 
 [^95]: A.K.: O deslocamento gradual das linhas isotérmicas, fenômeno que a [Ciência][h4t] reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 09
 
@@ -1655,6 +2960,10 @@ Essas consequências são:
 2a O deslocamento gradativo do mar, fazendo-o invadir pouco a pouco umas terras e pôr a descoberto outras, para de novo as abandonar, voltando ao seu leito anterior. Esse movimento periódico, indefinidamente renovado, constituiria uma verdadeira maré universal de 25.000 anos.
 
 A lentidão com que se opera esse movimento do mar torna-o quase imperceptível para cada geração. Faz-se, porém, sensível ao cabo de alguns séculos. Nenhum cataclismo súbito pode ele causar, porque os homens se retiram, de geração em geração, à proporção que o mar avança, e avançam pelas terras donde o mar se retira. É a essa causa, mais que provável, que alguns sábios atribuem o afastamento do mar de certas costas e a invasão de outras por ele.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 10
 
@@ -1674,6 +2983,10 @@ Navegar-se-á por sobre regiões que atualmente se percorrem de caminho de ferro
 
 O dilúvio bíblico não pode ter tido essa causa, pois que foi repentina a invasão das águas e de curta duração a permanência delas, ao passo que, de outro modo, essa permanência houvera sido de muitos milhares de anos e ainda duraria, sem que os homens dessem por isso.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 11
 
 As grandes comoções telúricas se têm produzido nas épocas em que a crosta sólida da Terra, pela sua fraca espessura, quase nenhuma resistência oferecia à efervescência das matérias em ignição no seu interior. Tais comoções foram diminuindo à proporção que aquela crosta se consolidava. Numerosos vulcões já se acham extintos, outros os terrenos de formação posterior soterraram.
@@ -1681,6 +2994,10 @@ As grandes comoções telúricas se têm produzido nas épocas em que a crosta s
 Ainda, certamente, poderão produzir-se perturbações locais, por efeito de erupções vulcânicas, da eclosão de alguns vulcões novos, de inundações repentinas de algumas regiões; poderão do mar surgir ilhas e outras ser por ele tragadas; mas passou o tempo dos cataclismos gerais, como os que assinalaram os grandes períodos geológicos. A Terra adquiriu uma estabilidade que, sem ser absolutamente invariável, coloca doravante o gênero humano ao abrigo de perturbações gerais, a menos que intervenham causas desconhecidas, a ela estranhas e que de modo nenhum se possam prever. [^97]
 
 [^97]: N.E.: Em 15/2/2013, cai na Rússia (região dos Montes Urais) um meteoro. A rocha, estimada em 10 toneladas, entrou na atmosfera e começou a se desfazer; a onda de choque causada por sua queda quebrou vidraças, balançou prédios, causando ferimentos em 1-100 pessoas. (Fonte: Jornal O Globo)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 12
 
@@ -1694,6 +3011,10 @@ Ainda menos de temer é a cauda que arrastam, visto que essa mais não é do que
 
 [^99]: A.K.: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 13
 
 Deve-se igualmente lançar ao rol das hipóteses quiméricas a possibilidade do encontro da Terra com outro planeta. A regularidade e a invariabilidade das leis que presidem aos movimentos dos corpos celestes tornam carente de toda probabilidade semelhante encontro. [^100]
@@ -1702,11 +3023,23 @@ Deve-se igualmente lançar ao rol das hipóteses quiméricas a possibilidade do 
 
 A Terra, no entanto, terá um fim. Como? Isso ainda permanece no domínio das conjeturas; mas, visto estar ela ainda longe da perfeição que pode alcançar e da vetustez que lhe indicaria o declínio, seus habitantes atuais podem estar certos de que tal não se dará ao tempo deles. (Cap. VI, item 48 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 14
 
 Fisicamente, a Terra teve as convulsões da sua infância; entrou agora num período de relativa estabilidade: na do progresso pacífico, que se efetua pelo regular retorno dos mesmos fenômenos físicos e pelo concurso inteligente do homem. Está, porém, ainda, em pleno trabalho de gestação do progresso [moral][h4c]. Aí residirá a causa das suas maiores comoções. Até que a humanidade se haja avantajado suficientemente em perfeição, pela [inteligência][y2h] e pela observância das Leis divinas, as maiores perturbações ainda serão causadas pelos homens, mais do que pela natureza, isto é, serão antes morais e sociais do que físicas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Aumento ou diminuição do volume da Terra
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 15
 
@@ -1730,11 +3063,23 @@ Há uma opinião segundo a qual o globo aumentaria de massa e de volume pelo afl
 
 [^102]: N.E.: Ver Nota Explicativa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-10. 🗂️ Gênese orgânica {#gen-1-10}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
 Tempo houve em que não existiam animais; logo, eles tiveram começo. Cada espécie foi aparecendo, à proporção que o globo adquiria as condições necessárias à existência delas. Isto é positivo. Como se formaram os primeiros indivíduos de cada espécie? Compreende-se que, existindo um primeiro casal, os indivíduos se multiplicaram. Mas, esse primeiro casal, donde saiu? É um desses mistérios que entendem com o princípio das coisas e sobre os quais apenas se podem formular hipóteses. A [Ciência][h4t] ainda não pode resolver o problema; pode entretanto, pelo menos, encaminhá-lo para a solução.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 02
 
@@ -1750,9 +3095,17 @@ Tudo, pois, concorre a provar que houve criação simultânea e múltipla dos pr
 
 A teoria mais aceita atualmente é, então, a de que todas as espécies do planeta estão de alguma forma interligadas, das mais simples às mais complexas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 03
 
 A formação dos primeiros seres vivos se pode deduzir, por analogia, da mesma lei em virtude da qual se formaram e formam todos os dias os corpos inorgânicos. À medida que se aprofunda o estudo das leis da natureza, as engrenagens que, de início, pareciam tão complicadas se vão simplificando e confundindo na grande lei de unidade que preside a toda a obra da criação. Isso se compreenderá melhor, quando estiver compreendida a formação dos corpos inorgânicos, que é o degrau primário daquela outra.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 04
 
@@ -1760,9 +3113,17 @@ A Química considera elementares umas tantas substâncias, como o oxigênio, o h
 
 A combinação de dois corpos para formar um terceiro exige especial concurso de circunstâncias: seja um determinado grau de calor, de sequidão, ou de umidade; seja o movimento ou o repouso; seja uma corrente elétrica etc. Se essas circunstâncias não se verificarem, a combinação não se operará.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 05
 
 Quando há combinação, os corpos componentes perdem suas propriedades características, enquanto o composto que deles resulta adquire outras, diferentes das daqueles. É assim, por exemplo, que o oxigênio e o hidrogênio, que são gases invisíveis, quimicamente combinados formam a água, que é líquida, sólida ou vaporosa, conforme a temperatura. Na água, a bem dizer, já não há oxigênio nem hidrogênio, mas um corpo novo. Decomposta essa água, os dois gases, tornados livres, recobram suas propriedades: já não há água. A mesma quantidade desse líquido pode ser assim, alternativamente, decomposta e recomposta, ao infinito.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 06
 
@@ -1770,9 +3131,17 @@ A composição e decomposição dos corpos se dão em virtude do grau de afinida
 
 [^104]: N.E.: Eletronegatividade é a maior ou menor tendência de um átomo para receber elétrons e formar um íon negativo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 07
 
 Os corpos compostos se formam sempre em proporções definidas, isto é, pela combinação de uma certa quantidade dos princípios constituintes. Assim, para formar a água, são necessárias uma parte de oxigênio e duas de hidrogênio. Se duas partes de oxigênio forem combinadas com duas de hidrogênio, em vez de água ter-se-á o deutóxido de hidrogênio, líquido corrosivo, formado, no entanto, dos mesmos elementos que entram na composição da água, porém, noutra proporção.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 08
 
@@ -1782,6 +3151,10 @@ Por exemplo: o oxigênio, combinado em certas proporções, com o carbono, o enx
 
 O oxigênio, com os metais chamados cálcio, sódio, potássio, forma a cal, a soda, a potassa. A cal, unida ao ácido carbônico, forma os carbonatos de cal ou pedras calcárias, tais como o mármore, a cré, as estalactites das grutas; unida ao ácido sulfúrico, forma o sulfato de cálcio ou gesso e o alabastro; ao ácido fosfórico, o fosfato de cálcio, base sólida, dos ossos; o cloro e o hidrogênio formam o ácido clorídrico ou hidroclórico; o cloro e o sódio formam o cloreto de sódio ou sal marinho.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 09
 
 Todas essas combinações e milhares de outras se obtêm artificialmente, em pequenas quantidades, nos laboratórios de Química; elas se operam em larga escala no grande laboratório da natureza.
@@ -1790,9 +3163,17 @@ Em sua origem, a Terra não continha essas matérias em combinação, mas, apena
 
 Suponhamos que, por uma causa qualquer, a Terra voltasse ao estado primitivo de incandescência: tudo se decomporia; os elementos se separariam; todas as substâncias fusíveis se fundiriam; todas as que são volatilizáveis se volatilizariam. Depois, outro resfriamento determinaria nova precipitação e de novo se formariam as antigas combinações.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 10
 
 Estas considerações provam quanto a Química era necessária para a [inteligência][y2h] da Gênese. Antes de se conhecerem as leis da afinidade molecular, não era possível compreender-se a formação da Terra. Esta [ciência][h4t] lançou grande luz sobre a questão, como o fizeram a Astronomia e a Geologia, doutros pontos de vista.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 11
 
@@ -1801,6 +3182,10 @@ Na formação dos corpos sólidos, um dos mais notáveis fenômenos é o da cris
 A disposição regular dos cristais corresponde à forma particular das moléculas de cada corpo. Essas partículas, para nós infinitamente pequenas, mas que não deixam por isso de ocupar um certo espaço, solicitadas umas para as outras pela atração molecular, se arrumam e justapõem segundo o exigem suas formas, de maneira a tomar cada uma o seu lugar em torno do núcleo ou primeiro centro de atração e a constituir um conjunto simétrico.
 
 A cristalização só se opera em certas circunstâncias favoráveis, fora das quais ela não pode dar-se. São condições essenciais o grau da temperatura e o repouso absoluto. Compreende-se que um calor muito forte, mantendo afastadas as moléculas, não lhes permitiria condensarem-se e que a agitação, impossibilitando-lhes um arranjo simétrico, não lhes consentiria formar senão uma massa confusa e irregular, donde o não haver cristalização propriamente dita.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 12
 
@@ -1812,6 +3197,10 @@ A análise química mostra que todas as substâncias vegetais e animais são com
 
 [^106]: A.K.: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 13
 
 Alguns exemplos comuns darão a compreender as transformações que se operam no reino orgânico, pela só modificação dos elementos constitutivos.
@@ -1822,9 +3211,17 @@ No pão e nos legumes que se comem, não há certamente carne, nem sangue, nem o
 
 Na semente de uma árvore, não há madeiras, folhas, flores ou frutos e fora erro pueril crer-se que a árvore inteira, sob microscópica forma, ali se encontra. Quase não há, sequer, na semente, oxigênio, hidrogênio e carbono em quantidade necessária a formar uma folha da árvore. A semente107 contém um gérmen que desabrocha em favoráveis condições. Esse gérmen se desenvolve por efeito dos sucos que haure da terra e dos gases que aspira do ar. Tais sucos, que não são lenho, nem folhas, nem flores, nem frutos, infiltrando-se na planta, lhe formam a seiva, como nos animais formam o sangue. Levada pela circulação a todas as partes do vegetal, a seiva, conforme o órgão a que vai ter e onde sofre uma elaboração especial, se transforma em lenho, folhas e frutos, como o sangue se transforma em carne, osso, bile etc. Contudo, são sempre os mesmos elementos: oxigênio, hidrogênio, azoto e carbono, diversamente combinados.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 14
 
 As diferentes combinações dos elementos, para formação das substâncias minerais, vegetais e animais, não podem, pois, operar-se, a não ser nos meios e em circunstâncias propícias; fora dessas circunstâncias, os princípios elementares estão numa espécie de inércia. Mas desde que as circunstâncias se tornam favoráveis, começa um trabalho de elaboração; as moléculas entram em movimento, agitam-se, atraem-se, aproximando-se e se separam em virtude da lei de afinidades e, por suas múltiplas combinações, compõem a infinita variedade das substâncias. Desapareçam essas condições e o trabalho subitamente cessa, para recomeçar quando elas de novo se apresentarem. É assim que a vegetação se ativa, enfraquece, para e prossegue, sob a ação do calor, da luz, da umidade, do frio ou da seca; que esta planta prospera, num clima ou num terreno, e se estiola ou perece noutros.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 15
 
@@ -1836,7 +3233,15 @@ A semelhança de forma e de cores, na reprodução dos indivíduos de cada espé
 
 [^108]: 8 N.E.: Hoje sabemos que os processos de reprodução de qualquer ser vivo dependem das informações contidas nos genes dos ascendentes do ser que está sendo gerado. Cada indivíduo, com as características e funções de seus órgãos, está relacionado com o ambiente em que vive, o que o torna melhor adaptado e garante a sobrevivência da sua espécie.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Princípio vital
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 16
 
@@ -1844,11 +3249,19 @@ Dizendo que as plantas e os animais são formados dos mesmos princípios constit
 
 Sem falar do princípio inteligente, que é questão à parte, há, na matéria orgânica, um princípio especial, inapreensível e que ainda não pode ser definido: o princípio vital. Ativo no ser vivente, esse princípio se acha extinto no ser morto; mas nem por isso deixa de dar à substância propriedades que a distinguem das substâncias inorgânicas. A Química, que decompõe e recompõe a maior parte dos corpos inorgânicos, também conseguiu decompor os corpos orgânicos, porém, jamais chegou a reconstituir, sequer, uma folha morta, prova evidente de que há nestes últimos o que quer que seja, inexistente nos outros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 17
 
 Será o princípio vital alguma coisa particular, que tenha existência própria? Ou, integrado no sistema da unidade do elemento gerador, apenas será um estado especial, uma das modificações do fluido cósmico, pela qual este se torne princípio de [vida][r4f], como se torna luz, fogo, calor, eletricidade? É neste último sentido que as comunicações acima reproduzidas resolvem a questão. (Cap. VI, Uranografia geral.)
 
 Seja, porém, qual for a opinião que se tenha sobre a natureza do princípio vital, o certo é que ele existe, pois que se lhe apreciam os efeitos. Pode-se, portanto, logicamente, admitir que, ao se formarem, os seres orgânicos assimilaram o princípio vital, por ser necessário à destinação deles; ou, se o preferirem, que esse princípio se desenvolveu em cada indivíduo, por efeito mesmo da combinação dos elementos, tal como se desenvolvem, dadas certas circunstâncias, o calor, a luz e a eletricidade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 18
 
@@ -1856,13 +3269,25 @@ Combinando-se sem o princípio vital, o oxigênio, o hidrogênio, o azoto e o ca
 
 A atividade do princípio vital é alimentada durante a [vida][r4f] pela ação do funcionamento dos órgãos, do mesmo modo que o calor, pelo movimento de rotação de uma roda. Cessada aquela ação, por motivo da [morte][q4x], o princípio vital se extingue, como o calor, quando a roda deixa de girar. Mas o efeito produzido por esse princípio sobre o estado molecular do corpo subsiste, mesmo depois dele extinto, como a carbonização da madeira subsiste à extinção do calor. Na análise dos corpos orgânicos, a Química encontra os elementos que os constituem: oxigênio, hidrogênio, azoto e carbono; mas não pode reconstituir aqueles corpos, porque, já não existindo a causa, não lhe é possível reproduzir o efeito, ao passo que possível lhe é reconstituir uma pedra.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 19
 
 Tomamos para termo de comparação o calor que se desenvolve pelo movimento de uma roda, por ser um efeito vulgar, que todo mundo conhece, e mais fácil de compreender-se. Mais exato, no entanto, houvéramos sido, dizendo que, na combinação dos elementos para formarem os corpos orgânicos, desenvolve-se eletricidade. Os corpos orgânicos seriam, então, verdadeiras pilhas elétricas, que funcionam enquanto os elementos dessas pilhas se acham em condições de produzir eletricidade: é a [vida][r4f]; que deixam de funcionar, quando tais condições desaparecem: é a [morte][q4x]. Segundo essa maneira de ver, o princípio vital não seria mais do que uma espécie particular de eletricidade, denominada eletricidade animal, que durante a [vida][r4f] se desprende pela ação dos órgãos [^109] e cuja produção cessa, quando da [morte][q4x], por se extinguir tal ação.
 
 [^109]: N.E.: Hoje sabemos que se refere às células. O metabolismo celular, na troca iônica da bomba de sódio e potássio, produz uma diferença de potencial elétrico, ou seja, produz eletricidade animalizada, pois que é realizada por um ser vivo, a célula. Com a [morte][q4x] da célula, cessa a produção de eletricidade resultante de seu metabolismo, do conjunto dos órgãos, do corpo como um todo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Geração espontânea [^110]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 20
 
@@ -1872,9 +3297,17 @@ Sobre esse ponto, não pode deixar de lançar luz a questão da geração espont
 
 Os partidários da geração espontânea respondem afirmativamente, apoiando-se em observações diretas, que parecem concludentes. Pensam outros que todos os seres vivos se reproduzem uns pelos outros, firmados sobre o fato, que a experiência comprova, de que os germens de certas espécies vegetais e animais, mesmo dispersos, conservam latente vitalidade, durante longo tempo, até que as circunstâncias lhes favoreçam a eclosão. Esta maneira de entender deixa sempre em aberto a questão da formação dos primeiros tipos de cada espécie.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 21
 
 Sem discutir os dois sistemas, convém acentuar que o princípio da geração espontânea evidentemente só se pode aplicar aos seres das ordens mais ínfimas do reino vegetal e do reino animal, àqueles em os quais a [vida][r4f] começa a despontar, em organismo extremamente simples e, de certo modo, rudimentar. Foram esses, com efeito, os primeiros que apareceram na Terra e cuja formação houve de ser espontânea. Assistiríamos assim a uma criação permanente, análoga à que se produziu nas primeiras idades do mundo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 22
 
@@ -1886,6 +3319,10 @@ Param aí, por enquanto, as investigações; desaparece o fio condutor e, até q
 
 [^111]: N.E.: O planeta não apresenta as mesmas condições que possibilitaram a existência de seus primeiros habitantes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 23
 
 Se a geração espontânea é fato demonstrado [^112], por muito limitado que seja, não deixa de constituir um fato capital, um marco de natureza a indicar o caminho para novas observações. Sabe-se que os seres orgânicos complexos não se produzem dessa maneira; mas, quem sabe como eles começaram? Quem conhece o segredo de todas as transformações? Vendo o carvalho sair da glande, quem pode afirmar que não exista um laço misterioso entre o pólipo e o elefante? (Item 25.)
@@ -1896,7 +3333,15 @@ No estado atual dos nossos conhecimentos, não podemos estabelecer a teoria da g
 
 [^113]: A.K.: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. [Artigo: A geração espontânea e A gênese.]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Escala dos seres orgânicos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 24
 
@@ -1908,6 +3353,10 @@ O zoófito tem a aparência exterior da planta. Como planta, mantém-se preso ao
 
 Um degrau acima, o animal é livre e procura o alimento: em primeiro lugar, vêm as inúmeras variedades de pólipos, de corpos gelatinosos, sem órgãos bem definidos, só diferindo das plantas pela faculdade da locomoção; seguem-se, na ordem do desenvolvimento dos órgãos, da atividade vital e do instinto, os helmintos ou vermes intestinais; os moluscos, animais carnudos sem ossos, alguns deles nus, como as lesmas, os polvos, outros providos de conchas, como o caracol, a ostra; os crustáceos, cuja pele é revestida de uma crosta dura, como o caranguejo, a lagosta; os insetos, aos quais a [vida][r4f] assume prodigiosa atividade e se manifesta o instinto engenhoso, como a formiga, a abelha, a aranha. Alguns se metamorfoseiam, como a lagarta, que se transforma em elegante borboleta. Vem depois a ordem dos vertebrados, animais de esqueleto ósseo, ordem que abrange os peixes, os reptis, os pássaros; seguem-se, por fim, os mamíferos cuja organização é a mais completa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 25
 
 Se se considerarem apenas os dois pontos extremos da cadeia, nenhuma analogia aparente haverá; mas, se se passar de um anel a outro sem solução de continuidade, chega-se, sem transição brusca, da planta aos animais vertebrados. Compreende-se então a possibilidade de que os animais de organização complexa não sejam mais do que uma transformação, ou, se quiserem, um desenvolvimento gradual, a princípio insensível, da espécie imediatamente inferior e, assim, sucessivamente, até o primitivo ser elementar. Entre a glande e o carvalho é grande a diferença; entretanto, se acompanharmos passo a passo o desenvolvimento da glande, chegaremos ao carvalho e já não nos admiraremos de que este proceda de tão pequena semente. Ora, se a glande encerra em latência os elementos próprios à formação de uma árvore gigantesca, por que não se daria o mesmo do ácaro ao elefante? (Item 23.)
@@ -1916,25 +3365,49 @@ De acordo com o que fica dito, percebe-se que não exista geração espontânea 
 
 Esta teoria, sem estar admitida ainda, de maneira definitiva, é a que tende evidentemente a predominar hoje na [Ciência][h4t]. Os observadores sérios aceitam-na como a mais racional.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O homem corpóreo
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 26
 
 Do ponto de vista corpóreo e puramente anatômico, o homem pertence à classe dos mamíferos, dos quais unicamente difere por alguns matizes na forma exterior. Quanto ao mais, a mesma composição de todos os animais, os mesmos órgãos, as mesmas funções e os mesmos modos de nutrição, de respiração, de secreção, de reprodução. Ele nasce, vive e morre nas mesmas condições e, quando morre, seu corpo se decompõe, como tudo o que vive. Não há, em seu sangue, na sua carne, em seus ossos, um átomo diferente dos que se encontram no corpo dos animais. Como estes, ao morrer, o homem restitui à terra o oxigênio, o hidrogênio, o azoto e o carbono que se haviam combinado para formá-lo; e esses elementos, por meio de novas combinações, vão formar outros corpos minerais, vegetais e animais. É tão grande a analogia que suas funções orgânicas são estudadas em certos animais, quando as experiências não podem ser feitas nele próprio.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 27
 
 Na classe dos mamíferos, o homem pertence à ordem dos bímanos. Logo abaixo dele vêm os quadrúmanos (animais de quatro mãos) ou macacos, alguns dos quais, como o orangotango, o chimpanzé, o jocó,114 têm certos ademanes do homem, a tal ponto que, por muito tempo, foram denominados: homens das florestas. Como o homem, esses macacos caminham eretos, usam cajados, constroem choças e levam à boca, com a mão, os alimentos: sinais característicos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 28
 
 Por pouco que se observe a escala dos seres vivos, do ponto de vista do organismo, é-se forçado a reconhecer que, desde o líquen até a árvore e desde o zoófito até o homem, há uma cadeia que se eleva gradativamente, sem solução de continuidade e seus anéis todos têm um ponto de contato com o anel precedente. Acompanhando-se passo a passo a série dos seres, dir-se-ia que cada espécie é um aperfeiçoamento, uma transformação da espécie imediatamente inferior. Visto que são idênticas às dos outros corpos as condições do corpo do homem, química e constitucionalmente; visto que ele nasce, vive e morre da mesma maneira, também nas mesmas condições que os outros se há de ele ter formado.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 29
 
 Ainda que isso lhe fira o orgulho, tem o homem que se resignar a não ver no seu corpo material mais do que o último anel da animalidade na Terra. Aí está o inexorável argumento dos fatos, contra o qual seria inútil protestar.
 
 Todavia, quanto mais o corpo diminui de valor aos seus olhos, tanto mais cresce de importância o princípio espiritual. Se o primeiro o nivela ao bruto, o segundo o eleva a incomensurável altura. Vemos o limite extremo do animal: não vemos o limite a que chegará o espírito do homem.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 30
 
@@ -1946,7 +3419,15 @@ Pois bem! o [Espiritismo][f4r], a loucura do século XIX, segundo os que se obst
 
 Galgado o ponto em que nos achamos com relação à Gênese, o [materialismo][m3n] se detém, enquanto o [Espiritismo][f4r] prossegue em suas pesquisas no domínio da Gênese espiritual.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 11 - Gênese espiritual
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
@@ -1956,9 +3437,17 @@ De acordo com este princípio: “Todo efeito tendo uma causa, todo efeito intel
 
 Pela mesma [razão][f8m], ninguém terá a ideia de atribuir pensamento ao corpo de um homem morto. Se, pois, vivo, o homem pensa, é que há nele alguma coisa que não há quando está morto. A diferença que existe entre ele e o sino é que a [inteligência][y2h], que faz com que este se mova, está fora dele, ao passo que está no homem a que faz que este obre.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 O princípio espiritual é corolário da existência de [Deus][c5m]; sem esse princípio, [Deus][c5m] não teria [razão][f8m] de ser, visto que não se poderia conceber a soberana [inteligência][y2h] a reinar, pela eternidade afora, unicamente sobre a matéria bruta, como não se poderia conceber que um monarca terreno, durante toda a sua [vida][r4f], reinasse exclusivamente sobre pedras. Não se podendo admitir [Deus][c5m] sem os atributos essenciais da Divindade: a justiça e a bondade, inúteis seriam essas qualidades, se Ele as houvesse de exercitar somente sobre a matéria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
@@ -1966,17 +3455,29 @@ Por outro lado, não se poderia conceber um [Deus][c5m] soberanamente justo e bo
 
 Sem a sobrevivência do ser pensante, os sofrimentos da [vida][r4f] seriam, da parte de [Deus][c5m], uma crueldade sem objetivo. Eis por que o [materialismo][m3n] e o ateísmo são corolários um do outro; negando o efeito, não podem eles admitir a causa. O [materialismo][m3n] é, pois, consequente consigo mesmo, embora não o seja com a [razão][f8m].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 É inata no homem a ideia da perpetuidade do ser espiritual; essa ideia se acha nele em estado de intuição e de aspiração. O homem compreende que somente aí está a compensação às misérias da [vida][r4f]. Essa a [razão][f8m] por que sempre houve e haverá cada vez mais espiritualistas do que materialistas e mais devotos do que ateus.
 
 À ideia intuitiva e à força do raciocínio o [Espiritismo][f4r] junta a sanção dos fatos, a prova material da existência do ser espiritual, da sua sobrevivência, da sua imortalidade e da sua individualidade. Torna precisa e define o que aquela ideia tinha de vago e de abstrato. Mostra o ser inteligente a atuar fora da matéria, quer depois, quer durante a [vida][r4f] do corpo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  05
 
 São a mesma coisa o princípio espiritual e o princípio vital?
 
 Partindo, como sempre, da observação dos fatos, diremos que, se o princípio vital fosse inseparável do princípio inteligente, haveria certa [razão][f8m] para que os confundíssemos. Mas, havendo, como há, seres que vivem e não pensam, quais as plantas; corpos humanos que ainda se revelam animados de [vida][r4f] orgânica quando já não há qualquer manifestação de pensamento; uma vez que no ser vivo se produzem movimentos vitais independentes de qualquer intervenção da vontade; que durante o sono a [vida][r4f] orgânica se conserva em plena atividade, enquanto a [vida][r4f] intelectual por nenhum sinal exterior se manifesta, é cabível se admita que a [vida][r4f] orgânica reside num princípio inerente à matéria, independente da [vida][r4f] espiritual, que é inerente ao [Espírito][g4f]. Ora, desde que a matéria tem uma vitalidade independente do [Espírito][g4f] e que o [Espírito][g4f] tem uma vitalidade independente da matéria, evidente se torna que essa dupla vitalidade repousa em dois princípios diferentes. (Cap. X, itens 16 a 19.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  06
 
@@ -1986,6 +3487,10 @@ Se fosse assim, o princípio espiritual sofreria as vicissitudes da matéria; ex
 
 As propriedades sui generis (peculiares) que se reconhecem ao princípio espiritual provam que ele tem existência própria, pois que, se sua origem estivesse na matéria, aquelas propriedades lhe faltariam. Desde que a [inteligência][y2h] e o pensamento não podem ser atributos da matéria, chega-se, remontando dos efeitos à causa, à conclusão de que o elemento material e o elemento espiritual são os dois princípios constitutivos do universo. Individualizado, o elemento espiritual constitui os seres chamados Espíritos, como, individualizado, o elemento material constitui os diferentes corpos da natureza, orgânicos e inorgânicos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  07
 
 Admitido o ser espiritual e não podendo ele proceder da matéria, qual a sua origem, seu ponto de partida?
@@ -1994,9 +3499,17 @@ Aqui, falecem absolutamente os meios de investigação, como para tudo o que diz
 
 O que [Deus][c5m] permite que seus mensageiros lhe digam e o que, aliás, o próprio homem pode deduzir do princípio da soberana justiça, atributo essencial da Divindade, é que todos procedem do mesmo ponto de partida; que todos são criados simples e ignorantes, com igual aptidão para progredir pelas suas atividades individuais; que todos atingirão o grau máximo da perfeição com seus esforços pessoais; que todos, sendo filhos do mesmo Pai, são objeto de igual solicitude; que nenhum há mais favorecido ou melhor dotado do que os outros, nem dispensado do trabalho imposto aos demais para atingirem a meta.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 Ao mesmo tempo que criou, desde toda a eternidade, mundos materiais, [Deus][c5m] há criado, desde toda a eternidade, seres espirituais. Se assim não fora, os mundos materiais careceriam de finalidade. Mais fácil seria conceberem-se os seres espirituais sem os mundos materiais, do que estes últimos sem aqueles. Os mundos materiais é que teriam de fornecer aos seres espirituais elementos de atividade para o desenvolvimento de suas inteligências.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
@@ -2004,7 +3517,15 @@ Progredir é condição normal dos seres espirituais e a perfeição relativa o 
 
 Antes que existisse a Terra, mundos sem conta haviam sucedido a mundos e, quando a Terra saiu do caos dos elementos, o espaço estava povoado de seres espirituais em todos os graus de adiantamento, desde os que surgiam para a [vida][r4f] até os que, desde toda a eternidade, haviam tomado lugar entre os puros Espíritos, vulgarmente chamados anjos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### União do princípio espiritual à matéria
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  10
 
@@ -2012,19 +3533,35 @@ Tendo a matéria que ser objeto do trabalho do [Espírito][g4f] para desenvolvim
 
 O corpo é, pois, simultaneamente, o envoltório e o instrumento do [Espírito][g4f] e, à medida que este adquire novas aptidões, reveste outro invólucro apropriado ao novo gênero de trabalho que lhe cabe executar, tal qual se faz com o operário, a quem é dado instrumento menos grosseiro, à proporção que ele se vai mostrando apto a executar obra mais bem cuidada
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  11
 
 Para ser mais exato, é preciso dizer que é o próprio [Espírito][g4f] que modela o seu envoltório e o apropria às suas novas necessidades; aperfeiçoa-o e lhe desenvolve e completa o organismo, à medida que experimenta a necessidade de manifestar novas faculdades; numa palavra, talha-o de acordo com a sua [inteligência][y2h]. [Deus][c5m] fornece ao [Espírito][g4f] os materiais; cabe a ele empregá-los. É assim que as raças adiantadas têm um organismo ou, se quiserem, um aparelhamento cerebral mais aperfeiçoado do que as raças primitivas. Desse modo igualmente se explica o cunho especial que o caráter do [Espírito][g4f] imprime aos traços da fisionomia e às linhas do corpo. (Cap. VIII, item 7: [Alma][q3f] da Terra.) [^115]
 
 [^115]: N.E.: Ver Nota Explicativa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 Desde que um [Espírito][g4f] nasce para a [vida][r4f] espiritual, tem, por adiantar-se, que fazer uso de suas faculdades, rudimentares a princípio. Por isso é que reveste um envoltório adequado ao seu estado de infância intelectual, envoltório que ele abandona para tomar outro, à proporção que se lhe aumentam as forças. Ora, como em todos os tempos houve mundos e esses mundos deram nascimento a corpos organizados próprios a receber Espíritos, em todos os tempos os Espíritos, qualquer que fosse o grau de adiantamento que houvessem alcançado, encontraram os elementos necessários à sua [vida][r4f] carnal.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  13
 
 Por ser exclusivamente material, o corpo sofre as vicissitudes da matéria. Depois de funcionar por algum tempo, ele se desorganiza e decompõe. O princípio vital, não mais encontrando elemento para sua atividade, se extingue e o corpo morre. O [Espírito][g4f], para quem, este, carente de [vida][r4f], se torna inútil, deixa-o, como se deixa uma casa em ruínas, ou uma roupa imprestável
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
@@ -2034,7 +3571,15 @@ A não se considerar, pois, senão a matéria, abstraindo do [Espírito][g4f], o
 
 Ou numa choupana, ou envergando as vestes de um campônio, um nobre senhor não deixa de o ser. O mesmo se dá com o homem: não é a sua vestidura de carne que o coloca acima do bruto e faz dele um ser à parte; é o seu ser espiritual, seu [Espírito][g4f].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Hipótese sobre a origem do corpo humano
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
@@ -2042,13 +3587,25 @@ Da semelhança, que há, de formas exteriores entre o corpo do homem e o do maca
 
 Fique bem entendido que aqui unicamente se trata de uma hipótese, de modo algum posta como princípio, mas apresentada apenas para mostrar que a origem do corpo em nada prejudica o [Espírito][g4f], que é o ser principal, e que a semelhança do corpo do homem com o do macaco não implica paridade entre o seu [Espírito][g4f] e o do macaco.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 Admitida essa hipótese, pode dizer-se que, sob a influência e por efeito da atividade intelectual do seu novo habitante, o envoltório se modificou, embelezou-se nas particularidades, conservando a forma geral do conjunto (item 11). Melhorados, os corpos, pela procriação, se reproduziram nas mesmas condições, como sucede com as árvores de enxerto. Deram origem a uma espécie nova, que pouco a pouco se afastou do tipo primitivo, à proporção que o [Espírito][g4f] progrediu. O [Espírito][g4f] macaco, que não foi aniquilado, continuou a procriar, para seu uso, corpos de macaco, do mesmo modo que o fruto da árvore silvestre reproduz árvores dessa espécie, e o [Espírito][g4f] humano procriou corpos de homem, variantes do primeiro molde em que ele se meteu. O tronco se bifurcou: produziu um ramo, que por sua vez se tornou tronco.
 
 Como na natureza não há transições bruscas, é provável que os primeiros homens aparecidos na Terra pouco diferissem do macaco pela forma exterior e não muito também pela [inteligência][y2h]. Em nossos dias ainda há selvagens que, pelo comprimento dos braços e dos pés e pela conformação da cabeça, têm tanta parecença com o macaco, que só lhes falta ser peludos, para se tornar completa a semelhança.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Encarnação dos Espíritos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
@@ -2058,6 +3615,10 @@ Pela sua essência espiritual, o [Espírito][g4f] é um ser indefinido, abstrato
 
 O fluido perispirítico constitui, pois, o traço de união entre o [Espírito][g4f] e a matéria. Enquanto aquele se acha unido ao corpo, serve-lhe ele de veículo ao pensamento, para transmitir o movimento às diversas partes do organismo, as quais atuam sob a impulsão da sua vontade e para fazer que repercutam no [Espírito][g4f] as sensações que os agentes exteriores produzam. Servem-lhe de fios condutores os nervos como, no telégrafo, ao fluido elétrico serve de condutor o fio metálico.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  18
 
 Quando o [Espírito][g4f] tem de encarnar num corpo humano em vias de formação, um laço fluídico, que mais não é do que uma expansão Capítulo XI 190 do seu perispírito, o liga ao gérmen que o atrai por uma força irresistível, desde o momento da concepção. À medida que o gérmen se desenvolve, o laço se encurta. Sob a influência do princípio vital e material do gérmen, o perispírito, que possui certas propriedades da matéria, se une, molécula a molécula, ao corpo em formação, donde o poder dizer-se que o [Espírito][g4f], por intermédio do seu perispírito, se enraíza, de certa maneira, nesse gérmen, como uma planta na terra. Quando o gérmen chega ao seu pleno desenvolvimento, completa é a união; nasce então o ser para a [vida][r4f] exterior.
@@ -2066,21 +3627,41 @@ Por um efeito contrário, a união do perispírito e da matéria carnal, que se 
 
 Dado que, um instante após a [morte][q4x], completa é a integração do [Espírito][g4f]; que suas faculdades adquirem até maior poder de penetração, ao passo que o princípio de [vida][r4f] se acha extinto no corpo, provado evidentemente fica que são distintos o princípio vital e o princípio espiritual.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  19
 
 O [Espiritismo][f4r], pelos fatos cuja observação ele faculta, dá a conhecer os fenômenos que acompanham essa separação, que, às vezes, é rápida, fácil, suave e insensível, ao passo que doutras é lenta, laboriosa, horrivelmente penosa, conforme o estado [moral][h4c] do [Espírito][g4f], e pode durar meses inteiros.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  20
 
 Um fenômeno particular, que a observação igualmente assinala, acompanha sempre a encarnação do [Espírito][g4f]. Desde que este é apanhado no laço fluídico que o prende ao gérmen, entra em estado de perturbação, que aumenta, à medida que o laço se aperta, perdendo o [Espírito][g4f], nos últimos momentos, toda a [consciência][h7z] de si próprio, de sorte que jamais presencia o seu nascimento. Quando a criança respira, começa o [Espírito][g4f] a recobrar as faculdades, que se desenvolvem à proporção que se formam e consolidam os órgãos que lhe hão de servir às manifestações.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  21
 
 Mas, ao mesmo tempo que o [Espírito][g4f] recobra a [consciência][h7z] de si mesmo, perde a lembrança do seu passado, sem perder as faculdades, as qualidades e as aptidões anteriormente adquiridas, que haviam ficado temporariamente em estado de latência e que, voltando à atividade, vão ajudá-lo a fazer mais e melhor do que antes. Ele renasce qual se fizera pelo seu trabalho anterior; o seu renascimento lhe é um novo ponto de partida, um novo degrau a subir. Ainda aí a bondade do Criador se manifesta, porquanto, adicionada aos amargores de uma nova existência, a lembrança, muitas vezes aflitiva e humilhante, do passado, poderia turbá-lo e lhe criar embaraços. Ele apenas se lembra do que aprendeu, por lhe ser isso útil. Se às vezes lhe é dado ter uma intuição dos acontecimentos passados, essa intuição é como a lembrança de um sonho fugitivo. Ei-lo, pois, novo homem por mais antigo que seja como [Espírito][g4f]. Adota novos processos, auxiliado pelas suas aquisições precedentes. Quando retorna à [vida][r4f] espiritual, seu passado se lhe desdobra diante dos olhos e ele julga de como empregou o tempo, se bem ou mal.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  22
 
 Não há, portanto, solução de continuidade na [vida][r4f] espiritual, sem embargo do esquecimento do passado. Cada [Espírito][g4f] é sempre o mesmo eu, antes, durante e depois da encarnação, sendo esta, apenas, uma fase da sua existência. O próprio esquecimento se dá tão só no curso da [vida][r4f] exterior de relação. Durante o sono, desprendido, em parte, dos liames carnais, restituído à liberdade e à [vida][r4f] espiritual, o [Espírito][g4f] se lembra, pois que, então, já não tem a visão tão obscurecida pela matéria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  23
 
@@ -2092,9 +3673,17 @@ Este sistema, fundado na grande lei de unidade que preside à criação, corresp
 
 Mas este sistema levanta múltiplas questões, cujos prós e contras não é oportuno discutir aqui, como não o é o exame das diferentes hipóteses que se têm formulado sobre este assunto. Sem, pois, pesquisarmos a origem do [Espírito][g4f], sem procurarmos conhecer as fieiras pelas quais haja ele, porventura, passado, tomamo-lo ao entrar na humanidade, no ponto em que, dotado de senso [moral][h4c] e de livre-arbítrio, começa a pesar-lhe a responsabilidade dos seus atos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  24
 
 A obrigação que tem o [Espírito][g4f] encarnado de prover ao alimento do corpo, à sua segurança, ao seu bem-estar, o força a empregar suas faculdades em investigações, a exercitá-las e desenvolvê-las. Útil, portanto, ao seu adiantamento é a sua união com a matéria. Daí o constituir uma necessidade a encarnação. Além disso, pelo trabalho inteligente que ele executa em seu proveito, sobre a matéria, auxilia a transformação e o progresso material do globo que lhe serve de habitação. É assim que, progredindo, colabora na obra do Criador, da qual se torna fator inconsciente.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  25
 
@@ -2102,15 +3691,27 @@ Todavia, a encarnação do [Espírito][g4f] não é constante, nem perpétua: é
 
 No intervalo de suas encarnações, o [Espírito][g4f] progride igualmente, no sentido de que aplica ao seu adiantamento os conhecimentos e a experiência que alcançou no decorrer da [vida][r4f] corporal; examina o que fez enquanto habitou a Terra, passa em revista o que aprendeu, reconhece suas faltas, traça planos e toma resoluções pelas quais conta guiar-se em nova existência, com a ideia de melhor se conduzir. Desse jeito, cada existência representa um passo para a frente no caminho do progresso, uma espécie de escola de aplicação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  26
 
 Normalmente, a encarnação não é uma punição para o [Espírito][g4f], conforme pensam alguns, mas uma condição inerente à inferioridade do [Espírito][g4f] e um meio de ele progredir. (O céu e o inferno, cap. III, itens 8 e seguintes.)
 
 À medida que progride moralmente, o [Espírito][g4f] se desmaterializa, isto é, depura-se, com o subtrair-se à influência da matéria; sua [vida][r4f] se espiritualiza, suas faculdades e percepções se ampliam; sua felicidade se torna proporcional ao progresso realizado. Entretanto, como atua em virtude do seu livre-arbítrio, pode ele, por negligência ou má vontade, retardar o seu avanço; prolonga, conseguintemente, a duração de suas encarnações materiais, que, então, se lhe tornam uma punição, pois que, por falta sua, ele permanece nas categorias inferiores, obrigado a recomeçar a mesma tarefa. Depende, pois, do [Espírito][g4f] abreviar, pelo trabalho de depuração executado sobre si mesmo, a extensão do período das encarnações.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  27
 
 O progresso material de um planeta acompanha o progresso [moral][h4c] de seus habitantes. Ora, sendo incessante, como é a criação dos mundos e dos Espíritos e progredindo estes mais ou menos rapidamente, conforme o uso que façam do livre-arbítrio, segue-se que há mundos mais ou menos antigos, em graus diversos de adiantamento físico e [moral][h4c], onde é mais ou menos material a encarnação e onde, por conseguinte, o trabalho, para os Espíritos, é mais ou menos rude. Deste ponto de vista, a Terra é um dos menos adiantados. Povoada de Espíritos relativamente inferiores, a [vida][r4f] corpórea é aí mais penosa do que noutros orbes, havendo-os também mais atrasados, onde a existência é ainda mais penosa do que na Terra e em confronto com os quais esta seria, relativamente, um mundo ditoso.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  28
 
@@ -2120,9 +3721,17 @@ Assim, qualquer que seja o grau em que se achem na hierarquia espiritual, do mai
 
 A coletividade dos Espíritos constitui, de certo modo, a [alma][q3f] do universo. Por toda parte, o elemento espiritual é que atua em tudo, sob o influxo do pensamento divino. Sem esse elemento, só há matéria inerte, carente de finalidade, de [inteligência][y2h], tendo por único motor as forças materiais, cuja exclusividade deixa insolúveis uma imensidade de problemas. Com a ação do elemento espiritual individualizado, tudo tem uma finalidade, uma [razão][f8m] de ser, tudo se explica. Prescindindo da espiritualidade, o homem esbarra em dificuldades insuperáveis.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  29
 
 Quando a Terra se encontrou em condições climáticas apropriadas à existência da espécie humana, encarnaram nela Espíritos humanos. Donde vinham? Quer eles tenham sido criados naquele momento; quer tenham procedido, completamente formados, do espaço, de outros mundos, ou da própria Terra, a presença deles nesta, a partir de certa época, é um fato, pois que antes deles só animais havia. Revestiram-se de corpos adequados às suas necessidades especiais, às suas aptidões, e que, fisiologicamente, tinham as características da animalidade. Sob a influência deles e por meio do exercício de suas faculdades, esses corpos se modificaram e aperfeiçoaram: é o que a observação comprova. Deixemos então de lado a questão da origem, insolúvel por enquanto; consideremos o [Espírito][g4f], não em seu ponto de partida, mas no momento em que, manifestando-se nele os primeiros germens do livre-arbítrio e do senso [moral][h4c] o vemos a desempenhar o seu papel humanitário, sem cogitarmos do meio onde haja transcorrido o período de sua infância, ou, se o preferirem, de sua incubação. Malgrado a analogia do seu envoltório com o dos animais, poderemos diferençá-lo destes últimos pelas faculdades intelectuais e morais que o caracterizam, como, debaixo das mesmas vestes grosseiras, distinguimos o rústico do homem civilizado.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  30
 
@@ -2130,21 +3739,41 @@ Conquanto devessem ser pouco adiantados os primeiros que vieram, pela [razão][f
 
 [^116]: N.E.: Ver Nota Explicativa.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  31
 
 Podem comparar-se os Espíritos que vieram povoar a Terra a esses bandos de emigrantes de origens diversas, que vão estabelecer-se numa terra virgem, onde encontram madeira e pedra para erguerem habitações, cada um dando à sua um cunho especial, de acordo com o grau do seu saber e com o seu gênio particular. Grupam-se então por analogia de origens e de gostos, acabando os grupos por formar tribos, em seguida povos, cada qual com costumes e caracteres próprios.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  32
 
 Não foi, portanto, uniforme o progresso em toda a espécie humana. Como era natural, as raças mais inteligentes adiantaram-se às outras, mesmo sem se levar em conta que muitos Espíritos recém-nascidos para a [vida][r4f] espiritual, vindo encarnar na Terra com os primeiros aí chegados, tornaram ainda mais sensível a diferença em matéria de progresso. Fora, com efeito, impossível atribuir-se a mesma ancianidade de criação aos selvagens, que mal se distinguem do macaco, e aos chineses, nem, ainda menos, aos europeus civilizados. Entretanto, os Espíritos dos selvagens também fazem parte da humanidade e alcançarão um dia o nível em que se acham seus irmãos mais velhos. Mas sem dúvida, não será em corpos da mesma raça física, impróprios a um certo desenvolvimento intelectual e [moral][h4c]. Quando o instrumento já não estiver em correspondência com o progresso que hajam alcançado, eles emigrarão daquele meio, para encarnar noutro mais elevado e assim por diante, até que tenham conquistado todas as graduações terrestres, ponto em que deixarão a Terra, para passar a mundos mais avançados. (Revista espírita, abril de 1862: Perfectibilidade da Raça Negra.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Reencarnações
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  33
 
 O princípio da reencarnação é uma consequência necessária da lei de progresso. Sem a reencarnação, como se explicaria a diferença que existe entre o presente estado social e o dos tempos de barbárie? Se as almas são criadas ao mesmo tempo que os corpos, as que nascem hoje são tão novas, tão primitivas, quanto as que viviam há mil anos; acrescentemos que nenhuma conexão haveria entre elas, nenhuma relação necessária; seriam de todo estranhas umas às outras. Por que, então, as de hoje haviam de ser melhor dotadas por [Deus][c5m], do que as que as precederam? Por que têm aquelas melhor compreensão? Por que possuem instintos mais apurados, costumes mais brandos? Por que têm a intuição de certas coisas, sem as haverem aprendido? Duvidamos de que alguém saia desses dilemas, a menos admita que [Deus][c5m] cria almas de diversas qualidades, de acordo com os tempos e lugares, proposição inconciliável com a ideia de uma justiça soberana. (Cap. II, item 10.)
 
 Admiti, ao contrário, que as almas de agora já viveram em tempos distantes; que possivelmente foram bárbaras como os séculos em que estiveram no mundo, mas que progrediram; que para cada nova existência trazem o que adquiriram nas existências precedentes; que, por conseguinte, as dos tempos civilizados não são almas criadas mais perfeitas, porém que se aperfeiçoaram por si mesmas com o tempo, e tereis a única explicação plausível da causa do progresso social. (O livro dos espíritos, Parte 2a , caps. IV e V.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  34
 
@@ -2162,11 +3791,23 @@ Tudo na Criação tem uma finalidade, sem o que [Deus][c5m] não seria nem prude
 
 Para o progresso daqueles que cumprem na Terra uma missão normal, há vantagem real em volverem ao mesmo meio para aí continuarem o que deixaram inacabado, muitas vezes na mesma família ou em contato com as mesmas pessoas, a fim de repararem o mal que tenham feito, ou de sofrerem a pena de talião.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Emigrações e imigrações dos Espíritos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  35
 
 No intervalo de suas existências corporais, os Espíritos se encontram no estado de erraticidade e formam a população espiritual ambiente da Terra. Pelas mortes e pelos nascimentos, as duas populações, terrestre e espiritual, deságuam incessantemente uma na outra. Há, pois, diariamente, emigrações do mundo corpóreo para o mundo espiritual e imigrações deste para aquele: é o estado normal.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  36
 
@@ -2176,17 +3817,33 @@ As renovações rápidas, quase instantâneas, que se produzem no elemento espir
 
 É de notar-se que todas as grandes calamidades que dizimam as populações são sempre seguidas de uma era de progresso de ordem física, intelectual, ou [moral][h4c] e, por conseguinte, no estado social das nações que as experimentam. É que elas têm por fim operar uma remodelação na população espiritual, que é a população normal e ativa do globo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  37
 
 Essa transfusão, que se efetua entre a população encarnada e desencarnada de um planeta, igualmente se efetua entre os mundos, quer individualmente, nas condições normais, quer por massas, em circunstâncias especiais. Há, pois, emigrações e imigrações coletivas de um mundo para outro, donde resulta a introdução, na população de um deles, de elementos inteiramente novos. Novas raças de Espíritos, vindo misturar-se às existentes, constituem novas raças de homens. Ora, como os Espíritos nunca mais perdem o que adquiriram, consigo trazem eles sempre a [inteligência][y2h] e a intuição dos conhecimentos que possuem, o que faz que imprimam o caráter que lhes é peculiar à raça corpórea que venham animar. Para isso, só necessitam de que novos corpos sejam criados para serem por eles usados. Uma vez que a espécie corporal existe, eles encontram sempre corpos prontos para os receber. Não são mais, portanto, do que novos habitantes. chegando à Terra, integram-lhe, a princípio, a população espiritual; depois, encarnam, como os outros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Raça adâmica
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  38
 
 De acordo com o ensino dos Espíritos, foi uma dessas grandes imigrações, ou, se quiserem, uma dessas colônias de Espíritos, vinda de outra esfera, que deu origem à raça simbolizada na pessoa de Adão e, por essa [razão][f8m] mesma, chamada raça adâmica. Quando ela aqui chegou, a Terra já estava povoada desde tempos imemoriais, como a América, quando aí chegaram os europeus.
 
 Mais adiantada do que as que a tinham precedido neste planeta, a raça adâmica é, com efeito, a mais inteligente, a que impele ao progresso todas as outras. A Gênese no-la mostra, desde os seus primórdios, industriosa, apta às artes e às ciências, sem haver passado aqui pela infância espiritual, o que não se dá com as raças primitivas, mas concorda com a opinião de que ela se compunha de Espíritos que já tinham progredido bastante. Tudo prova que a raça adâmica não é antiga na Terra e nada se opõe a que seja considerada como habitando este globo desde apenas alguns milhares de anos, o que não estaria em contradição nem com os fatos geológicos, nem com as observações antropológicas, antes tenderia a confirmá-las.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  39
 
@@ -2196,9 +3853,17 @@ Do ponto de vista fisiológico, algumas raças apresentam característicos tipos
 
 Há, pois, de se considerar as raças negras, mongólicas, caucásicas como tendo origem própria, como tendo nascido simultânea ou sucessivamente em diversas partes do globo. O cruzamento delas produziu as raças mistas secundárias. Os caracteres fisiológicos das raças primitivas constituem indício evidente de que elas procedem de tipos especiais. As mesmas considerações se aplicam, conseguintemente, assim aos homens, quanto aos animais, no que concerne à pluralidade dos troncos. (Cap. X, itens 2 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  40
 
 Adão e seus descendentes são apresentados na Gênese como homens sobremaneira inteligentes, pois que, desde a segunda geração, constroem cidades, cultivam a terra, trabalham os metais. São rápidos e duradouros seus progressos nas artes e nas ciências. Não se conceberia, portanto, que esse tronco tenha tido, como ramos, numerosos povos tão atrasados, de [inteligência][y2h] tão rudimentar, que ainda em nossos dias rastejam a animalidade, que hajam perdido todos os traços e, até, a menor lembrança do que faziam seus pais. Tão radical diferença nas aptidões intelectuais e no desenvolvimento [moral][h4c] atesta, com evidência não menor, uma diferença de origem.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  41
 
@@ -2212,6 +3877,10 @@ Entretanto, nada se opõe a que o público saiba, desde já, que a exploração 
 
 É assim que todos os dias a [Ciência][h4t] opõe o desmentido dos fatos à doutrina que limita a 6.000 anos a aparição do homem na Terra e pretende fazê-lo derivar de um tronco único.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  42
 
 Ainda mais evidente se torna a impossibilidade, desde que se admita, com a Gênese, que o dilúvio destruiu todo o gênero humano, com exceção de Noé e de sua família, que não era numerosa, no ano de 1656 do mundo, ou seja, 2.348 anos antes da Era Cristã. Em realidade, pois, daquele patriarca é que dataria o povoamento da Terra. Ora, quando os hebreus se estabeleceram no Egito, 612 anos após o dilúvio, já o Egito era um poderoso império, que teria sido povoado, sem falar de outros países, em menos de seis séculos, só pelos descendentes de Noé, o que não é admissível.
@@ -2220,7 +3889,15 @@ Notemos, de passagem, que os egípcios acolheram os hebreus como estrangeiros. S
 
 Rigorosa lógica, com os fatos a corroborá-la da maneira mais peremptória, mostra, pois, que o homem está na Terra desde tempo indeterminado, muito anterior à época que a Gênese assinala. O mesmo ocorre com a diversidade dos troncos primitivos, porquanto demonstrar a impossibilidade de uma proposição é demonstrar a proposição contrária. Se a Geologia descobre traços autênticos da presença do homem antes do grande período diluviano, ainda mais completa é a demonstração.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### ##### Doutrina dos anjos decaídos e da perda do paraíso [^120]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  43
 
@@ -2232,11 +3909,19 @@ Que serão tais seres, entre essas outras populações, para eles novas, ainda n
 
 [^120]: A.K.: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  44
 
 Ao mesmo tempo que os maus se afastam do mundo em que habitavam, Espíritos melhores aí os substituem, vindos quer da erraticidade, concernente a esse mundo, quer de um mundo menos adiantado, que mereceram abandonar; Espíritos esses para os quais a nova habitação é uma recompensa. Assim renovada e depurada a população espiritual dos seus piores elementos, ao cabo de algum tempo o estado [moral][h4c] do mundo se encontra melhorado.
 
 São às vezes parciais essas mutações, isto é, circunscritas a um povo, a uma raça; doutras vezes, são gerais, quando chega para o globo o período de renovação.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  45
 
@@ -2246,11 +3931,19 @@ Relegando aquela raça para esta terra de labor e de sofrimentos, teve [Deus][c5
 
 É igualmente com o objetivo de fazer que a humanidade se adiante em determinado sentido que Espíritos superiores, embora não tenham as qualidades do [Cristo][g0s], encarnam de tempos a tempos na Terra para desempenhar missões especiais, proveitosas, simultaneamente, ao adiantamento pessoal deles, se as cumprirem de acordo com os desígnios do Criador
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  46
 
 Sem a reencarnação, a missão do [Cristo][g0s] seria um contrassenso, assim como a promessa feita por [Deus][c5m]. Suponhamos, com efeito, que a [alma][q3f] de cada homem seja criada por ocasião do nascimento do corpo e não faça mais do que aparecer e desaparecer da Terra: nenhuma relação haveria entre as que vieram desde Adão até [Jesus][q3y] [Cristo][g0s], nem entre as que vieram depois; todas são estranhas umas às outras. A promessa que [Deus][c5m] fez de um Salvador não poderia entender-se com os descendentes de Adão, uma vez que suas almas ainda não estavam criadas. Para que a missão do [Cristo][g0s] pudesse corresponder às palavras de [Deus][c5m], fora mister se aplicassem às mesmas almas. Se estas são novas, não podem estar maculadas pela falta do primeiro pai, que é apenas pai carnal e não pai espiritual. A não ser assim, [Deus][c5m] houvera criado almas com a mácula de uma falta que não podia deixar nelas vestígio, pois que elas não existiam. A doutrina vulgar do pecado original implica, conseguintemente, a necessidade de uma relação entre as almas do tempo do [Cristo][g0s] e as do tempo de Adão; implica, portanto, a reencarnação.
 
 Dizei que todas essas almas faziam parte da colônia de Espíritos exilados na Terra ao tempo de Adão e que se achavam manchadas dos vícios que lhes acarretaram ser excluídas de um mundo melhor e tereis a única interpretação racional do pecado original, pecado peculiar a cada indivíduo e não resultado da responsabilidade da falta de outrem a quem ele jamais conheceu. Dizei que essas almas ou Espíritos renascem diversas vezes na Terra para a [vida][r4f] corpórea, a fim de progredirem, depurando-se; que o [Cristo][g0s] veio esclarecer essas mesmas almas, não só acerca de suas vidas passadas, como também com relação às suas vidas ulteriores e então, mas só então, lhe dareis à missão um sentido real e sério, que a [razão][f8m] pode aceitar.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  47
 
@@ -2272,19 +3965,43 @@ Para aqueles homens, lançados ao seio da selvajaria, a mãe-pátria não é um 
 
 [^121]: N.E.: Território francês ultramarino.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  48
 
 À primeira vista, a ideia de decaimento parece em contradição com o princípio segundo o qual os Espíritos não podem retrogradar. Deve-se, porém, considerar que não se trata de um retrocesso ao estado primitivo. O [Espírito][g4f], ainda que numa posição inferior, nada perde do que adquiriu; seu desenvolvimento [moral][h4c] e intelectual é o mesmo, qualquer que seja o meio onde se ache colocado. Ele está na situação do homem do mundo condenado à prisão por seus delitos. Certamente, esse homem se encontra degradado, decaído, do ponto de vista social, mas não se torna nem mais estúpido, nem mais ignorante.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  49
 
 Será crível, perguntamos agora, que esses homens mandados para a Nova Caledônia vão transformar-se de súbito em modelos de virtude? Que vão abjurar repentinamente seus erros do passado? Para supor tal coisa, fora necessário desconhecer a humanidade. Pela mesma [razão][f8m], os Espíritos da raça adâmica, uma vez transplantados para a terra do exílio, não se despojaram instantaneamente do seu orgulho e de seus maus instintos; ainda por muito tempo conservaram as tendências que traziam, um resto da velha levedura. Ora, não é esse o pecado original?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 1-11. 🗂️ Gênese espiritual {#gen-1-11}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 1-12. 🗂️ Gênese moisaica {#gen-1-12}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Os seis dias
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
@@ -2322,13 +4039,25 @@ Será crível, perguntamos agora, que esses homens mandados para a Nova Caledôn
 {:.bible-multi}
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Depois das explanações contidas nos capítulos precedentes sobre a origem e a constituição do universo, conformemente aos dados fornecidos pela [Ciência][h4t], quanto à parte material, e pelo [Espiritismo][f4r], quanto à parte espiritual, convém ponhamos em confronto com tudo isso o próprio texto da Gênese de Moisés, a fim de que cada um faça a comparação e julgue com conhecimento de causa. Algumas explicações complementares bastarão para tornar compreensíveis as partes que precisam de esclarecimentos especiais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  03
 
 Sobre alguns pontos, há, sem dúvida, notável concordância entre a Gênese moisaica e a doutrina científica, mas fora erro acreditar que basta se substituam os seis dias de 24 horas da Criação por seis períodos indeterminados, para se tornar completa a analogia. Não menor erro seria o acreditar-se que, afora o sentido alegórico de algumas palavras, a Gênese e a [Ciência][h4t] caminham lado a lado, sendo uma, como se vê, simples paráfrase da outra.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  04
 
@@ -2337,6 +4066,10 @@ Notemos, em primeiro lugar, que, como já se disse (cap. VII, item 14), é intei
 Doutro lado, a Geologia, tomando por ponto de partida unicamente a formação dos terrenos graníticos, não abrange, no cômputo de seus períodos, o estado primitivo da Terra. Tampouco se ocupa com o Sol, com a Lua e com as estrelas, nem com o conjunto do universo, assuntos esses que pertencem à Astronomia. Para enquadrar tudo na ­Gênese, cumpre se acrescente um primeiro período, que abarque essa ordem de fenômenos e ao qual se poderia chamar — período astronômico.
 
 Além disso, nem todos os geólogos consideram o diluviano como formando um período distinto, mas como um fato transitório e passageiro, que não mudou sensivelmente o estado climático do globo, nem marcou uma fase nova para as espécies vegetais e animais, pois que, com poucas exceções, as mesmas espécies se encontram, assim antes, como depois do dilúvio. Pode-se, pois, abstrair desse período, sem menosprezo da [verdade][x8k].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
@@ -2351,6 +4084,10 @@ O quadro comparativo aqui abaixo, em o qual se acham resumidos os fenômenos que
 | V\. PERÍODO TERCIÁRIO – Grandes intumescimentos da crosta sólida; formação dos continentes\. Retirada das águas para os lugares baixos; formação dos mares\. – Atmosfera depurada; temperatura atual produzida pelo calor solar\. – Gigantescos animais terrestres\. Vegetais e animais da atualidade\. Pássaros\. | 5o DIA – Os peixes e os pássaros\. |
 | DILÚVIO UNIVERSAL | VI\. PERÍODO QUATERNÁRIO OU PÓS\-DILUVIANO – Terrenos de aluvião\. – Vegetais e animais da atualidade\. – O homem\. | 6o DIA – Os animais terrestres\. – O homem |
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 Desse quadro comparativo, o primeiro fato que ressalta é que a obra de cada um dos seis dias não corresponde de maneira rigorosa, como o supõem muitos, a cada um dos seis períodos geológicos. A concordância mais notável se verifica na sucessão dos seres orgânicos, que é quase a mesma, com pequena diferença, e no aparecimento do homem, por último. É esse um fato importante.
@@ -2359,11 +4096,19 @@ Há também coincidência, não quanto à ordem numérica dos períodos, mas qua
 
 [^122]: N.E.: Anfíbios e insetos foram os primeiros animais presentes no planeta, sugiram no Período Devoniano, da Era Paleozoica.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  07
 
 Dizendo que a Criação foi feita em seis dias, terá Moisés querido falar de dias de 24 horas, ou terá empregado essa palavra no sentido de período, de duração? É mais provável a primeira hipótese, se nos ativermos ao texto acima, primeiramente, porque esse é o sentido próprio da palavra hebraica iôm, traduzida por dia. Depois, a referência à tarde e à manhã, como limitações de cada um dos seis dias, dá lugar a que se suponha haja ele querido falar de dias comuns. Não se pode conceber qualquer dúvida a tal respeito, estando dito, no versículo 5: “Ele deu à luz o nome de dia e às trevas o nome de noite; e da tarde e da manhã se fez o primeiro dia.” Isto, evidentemente, só se pode aplicar ao dia de 24 horas, constituído de períodos de luz e de trevas. Ainda mais preciso se torna o sentido, quando ele diz, no versículo 17, falando do Sol, da Lua e das estrelas: “Colocou-as no firmamento do céu, para luzirem sobre a Terra; para presidirem ao dia e à noite e para separarem a luz das trevas. E da tarde e da manhã se fez o quarto dia.”
 
 Aliás, tudo, na Criação, era miraculoso e, desde que se envereda pela senda dos milagres, pode-se perfeitamente crer que a Terra foi feita em seis vezes 24 horas, sobretudo quando se ignoram as primeiras leis naturais. Todos os povos civilizados partilharam dessa crença, até o momento em que a Geologia surgiu a lhe demonstrar a impossibilidade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  08
 
@@ -2383,6 +4128,10 @@ O mesmo se dá com o Sol. O erro provém da ideia falsa, alimentada por longo te
 
 [^125]: 5N.E.: Aúra-Masda, Ormasde — deus supremo da Criação; princípio do bem, da harmonia, da beleza e da luz, na religião zoroastriana (antiga religião persa, fundada no século VII a.C. por Zoroastro, caracterizada pelo dualismo ético, cósmico e teogônico, que implica a luta primordial entre dois deuses, representantes do bem e do mal. O zoroastrismo influenciou em diversos aspectos doutrinários a tradição judaico-cristã).
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  09
 
 Moisés, evidentemente, partilhava das mais primitivas crenças sobre a cosmogonia. Como os do seu tempo, ele acreditava na solidez da abóbada celeste e em reservatórios superiores para as águas. Essa ideia se acha expressa sem alegoria, nem ambiguidade, neste passo (versículos 6 e seguintes): “Deus disse: ‘Faça-se o firmamento no meio das águas para separar das águas as águas.’ [Deus][c5m] fez o firmamento e separou as águas que estavam debaixo do firmamento das que estavam por cima do firmamento.” (Veja-se: cap. V, Antigos e modernos sistemas do mundo, itens 3 a 5.)
@@ -2391,11 +4140,19 @@ Segundo uma crença antiga, a água era tida como o princípio primitivo, o elem
 
 A fim de compreendermos certas partes da Gênese, faz-se indispensável que nos coloquemos no ponto de vista das ideias cosmogônicas da época que ela reflete.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 Em face dos progressos da Física e da Astronomia, é insustentável semelhante doutrina. [^126] Entretanto, Moisés atribui ao próprio [Deus][c5m] aquelas palavras. Ora, visto que elas exprimem um fato notoriamente falso, uma de duas: ou [Deus][c5m] se enganou na narrativa que fez da sua obra, ou essa narrativa não é de origem divina. Não sendo admissível a primeira hipótese, forçoso é concluir que Moisés apenas exprimiu suas próprias ideias. (Cap. I, item 3.)
 
 [^126]: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
@@ -2405,15 +4162,27 @@ A mulher formada de uma costela de Adão é uma alegoria, aparentemente pueril, 
 
 [^127]: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 Para espíritos incultos, sem nenhuma ideia das leis gerais, incapazes de apreender o conjunto e de conceber o infinito, essa criação milagrosa e instantânea apresentava qualquer coisa de fantástico que feria a imaginação. O quadro do universo tirado do nada em alguns dias, por um só ato da vontade criadora, era, para tais espíritos, o sinal mais evidente do poder de [Deus][c5m]. Que configuração, com efeito, mais sublime e mais poética desse poder, do que a que estas palavras traçam: “Deus disse: ‘Faça-se a luz e a luz foi feita!’” [Deus][c5m], a criar o universo pela ação lenta e gradual das leis da natureza, lhes houvera parecido menor e menos poderoso. Fazia-se-lhes indispensável qualquer coisa de maravilhoso, que saísse dos moldes comuns, do contrário teriam dito que [Deus][c5m] não era mais hábil do que os homens. Uma teoria científica e racional da Criação os deixaria frios e indiferentes.
 
 Não rejeitemos, pois, a Gênese bíblica; ao contrário, estudemo-la, como se estuda a história da infância dos povos. Trata-se de uma época rica de alegorias, e seu sentido oculto se deve pesquisar; que se devem comentar e explicar com o auxílio das luzes da [razão][f8m] e da [Ciência][h4t]. Fazendo, porém, ressaltar as suas belezas poéticas e os seus ensinamentos velados pela forma imaginosa, cumpre se lhe apontem expressamente os erros, no próprio interesse da religião. Esta será muito mais respeitada, quando esses erros deixarem de ser impostos à fé, como [verdade][x8k], e [Deus][c5m] parecerá maior e mais poderoso, quando não lhe envolverem o nome em fatos de pura invenção.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Perda do paraíso [^128] [^129]
 
 [^128]: A.K.: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
@@ -2424,6 +4193,10 @@ E plantou o Senhor [Deus][c5m] um jardim no Éden, da banda do Oriente, e pôs a
 E saía um rio do Éden para regar o jardim; e dali se dividia e se tornava em quatro braços. O nome do primeiro é Pisom; este é o que rodeia toda a terra de Havilá, onde há ouro. E o ouro dessa terra é bom; ali há o bdélio e a pedra sardônica. E o nome do segundo rio é Giom; este é o que rodeia toda a terra de Cuxe. E o nome do terceiro rio é  Hidéquel; este é o que vai para a banda do oriente da Assíria; e o quarto rio é o Eufrates.
 
 E tomou o Senhor [Deus][c5m] o homem e o pôs no jardim do Éden para o lavrar e o guardar. E ordenou o Senhor [Deus][c5m] ao homem, dizendo: De toda árvore do jardim comerás livremente, mas da árvore da [ciência][h4t] do bem e do mal, dela não comerás; porque, no dia em que dela comeres, certamente morrerás.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
@@ -2441,11 +4214,19 @@ Então, disse o Senhor [Deus][c5m]: Eis que o homem é como um de nós, sabendo 
 
 [^129]: A.K.: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  15
 
 Sob uma imagem pueril e às vezes ridícula, se nos ativermos à forma, a alegoria oculta frequentemente as maiores verdades. Haverá fábula mais absurda, à primeira vista, do que a de Saturno, o deus que devorava pedras, tomando-as por seus filhos? Todavia, que de mais profundamente filosófico e verdadeiro do que essa figura, se lhe procuramos o sentido [moral][h4c]! Saturno é a personificação do tempo; sendo todas as coisas obra do tempo, ele é o pai de tudo o que existe; mas, também, tudo se destrói com o tempo. Saturno a devorar pedras é o símbolo da destruição, pelo tempo, dos mais duros corpos, seus filhos, visto que se formaram com o tempo. E quem, segundo essa mesma alegoria, escapa a semelhante destruição? Somente Júpiter, símbolo da [inteligência][y2h] superior, do princípio espiritual, que é indestrutível. É mesmo tão natural essa imagem, que, na linguagem moderna, sem alusão à fábula antiga, se diz, de uma coisa que afinal se deteriorou, ter sido devorada pelo tempo, carcomida, devastada pelo tempo.
 
 Toda a mitologia pagã, aliás, nada mais é, em realidade, do que um vasto quadro alegórico das diversas faces, boas e más, da humanidade. Para quem lhe busca o espírito, é um curso completo da mais alta filosofia, como acontece com as modernas fábulas. O absurdo estava em tomarem a forma pelo fundo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  16
 
@@ -2463,6 +4244,10 @@ A [morte][q4x] de que ele é ameaçado, caso infrinja a proibição que se lhe f
 
 [^132]: A.K.: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, [moral][h4c], alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  17
 
 A serpente está longe hoje de ser tida como tipo da astúcia. Ela, pois, entra aqui mais pela sua forma do que pelo seu caráter, como alusão à perfídia dos maus conselhos, que se insinuam como a serpente e da qual, por essa [razão][f8m], o homem, muitas vezes, não desconfia. Ademais, se a serpente, por haver enganado a mulher, é que foi condenada a andar de rojo sobre o ventre, dever-se-á deduzir que antes esse animal tinha pernas; mas, neste caso, não era serpente. Por que, então, se há de impor à fé ingênua e crédula das crianças, como verdades, tão evidentes alegorias, com o que, falseando-se-lhes o juízo, se faz que mais tarde venham a considerar a Bíblia um tecido de fábulas absurdas?
@@ -2475,9 +4260,17 @@ A palavra nâhâsch só foi traduzida por serpente na versão dos Setenta — os
 
 É, pois, provável que Moisés tenha apresentado como sedutor da mulher o desejo de conhecer as coisas ocultas, suscitado pelo [Espírito][g4f] de adivinhação, o que concorda com o sentido primitivo da palavra nâhâsch, adivinhar, e, por outro lado, com estas palavras: “Deus sabe que, logo que houverdes comido desse fruto, vossos olhos se abrirão e sereis como deuses. — Ela, a mulher, viu que era cobiçável a árvore para compreender (léaskil) e tomou do seu fruto.” Não se deve esquecer que Moisés queria proscrever de entre os hebreus a arte da adivinhação praticada pelos egípcios, como o prova o haver proibido que aqueles interrogassem os mortos e o [Espírito][g4f] Píton. (O céu e o inferno, cap. XI.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  18
 
 A passagem que diz: “O Senhor passeava pelo jardim à tarde, quando se levanta vento brando”, é uma imagem ingênua e um tanto pueril, que a crítica não deixou de assinalar; mas nada tem que surpreenda, se nos reportamos à ideia que os hebreus dos tempos primitivos faziam de [Deus][c5m]. Para aquelas inteligências frustas, incapazes de conceber abstrações, [Deus][c5m] havia de ter uma forma concreta e eles tudo referiam à humanidade, como único ponto que conheciam. Moisés, por isso, lhes falava como a crianças, por meio de imagens sensíveis. No caso de que se trata, tem-se personificada a Potência Soberana, como os pagãos personificavam, em figuras alegóricas, as virtudes, os vícios e as ideias abstratas. Mais tarde, os homens despojaram da forma a ideia, do mesmo modo que a criança, tornada adulta, procura o sentido [moral][h4c] dos contos com que a acalentaram. Deve-se, portanto, considerar essa passagem como uma alegoria, figurando a Divindade a vigiar em pessoa os objetos da sua criação. O grande rabino Wogue a traduziu assim: “Eles ouviram a voz do eterno [Deus][c5m], percorrendo o jardim, do lado donde vem o dia.”
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  19
 
@@ -2487,11 +4280,19 @@ Deus não criara Adão e Eva para ficarem sós na Terra; a prova disso está nas
 
 O que deu crédito a essa suposição foi o sentimento de vergonha que Adão e Eva manifestaram ante o olhar de [Deus][c5m] e que os levou a se ocultarem. Mas essa própria vergonha é uma figura por comparação: simboliza a confusão que todo culpado experimenta em presença de quem foi por ele ofendido.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  20
 
 Qual, então, em definitivo, a falta tão grande que mereceu acarretar a reprovação perpétua de todos os descendentes daquele que a cometeu? Caim, o fratricida, não foi tratado tão severamente. Nenhum teólogo a pode definir logicamente, porque todos, apegados à letra, giraram dentro de um círculo vicioso.
 
 Sabemos hoje que essa falta não é um ato isolado, pessoal, de um indivíduo, mas que compreende, sob um único fato alegórico, o conjunto das prevaricações de que a humanidade da Terra, ainda imperfeita, pode tornar-se culpada e que se resumem nisto: infração da Lei de [Deus][c5m]. Eis por que a falta do primeiro homem, simbolizando este a humanidade, tem por símbolo um ato de desobediência.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  21
 
@@ -2501,17 +4302,29 @@ Lá está dito (Gênesis, 2:5 e 7): “O Senhor [Deus][c5m] ainda não havia fei
 
 Por que disse ele à mulher que, em consequência de haver cometido a falta, pariria com dor? Como pode a dor do parto ser um castigo, quando é um efeito do organismo e quando está provado que é uma necessidade fisiológica? Como pode ser punição uma coisa que se produz segundo as leis da natureza? É o que os teólogos absolutamente ainda não explicaram e que não poderão explicar, enquanto não abandonarem o ponto de vista em que se colocaram. Entretanto, podem justificar-se aquelas palavras que parecem tão contraditórias.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  22
 
 Notemos, antes de tudo, que, se no momento de serem criados os dois, as almas de Adão e Eva tivessem vindo do nada, como ainda se ensina, eles haviam de ser bisonhos em todas as coisas; haviam, pois, de ignorar o que é morrer. Estando sós na Terra, como estavam, enquanto viveram no paraíso, não tinham assistido à [morte][q4x] de ninguém. Como, então, teriam podido compreender em que consistia a ameaça de [morte][q4x] que [Deus][c5m] lhes fazia? Como teria Eva podido compreender que parir com dor seria uma punição, visto que, tendo acabado de nascer para a [vida][r4f], ela jamais tivera filhos e era a única mulher existente no mundo?
 
 Nenhum sentido, portanto, deviam ter, para Adão e Eva, as palavras de [Deus][c5m]. Mal surgidos do nada, eles não podiam saber como nem por que haviam surgido dali; não podiam compreender nem o Criador nem o motivo da proibição que lhes era feita. Sem nenhuma experiência das condições da [vida][r4f], pecaram como crianças que agem sem discernimento, o que ainda mais incompreensível torna a terrível responsabilidade que [Deus][c5m] fez pesar sobre eles e sobre a humanidade inteira.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 Entretanto, o que constitui para a Teologia um beco sem saída, o [Espiritismo][f4r] o explica sem dificuldade e de maneira racional, pela anterioridade da [alma][q3f] e pela pluralidade das existências, lei sem a qual tudo é mistério e anomalia na [vida][r4f] do homem. Com efeito, admitamos que Adão e Eva já tivessem vivido e tudo logo se justifica: [Deus][c5m] não lhes fala como a crianças, mas como a seres em estado de o compreenderem e que o compreendem, prova evidente de que ambos trazem aquisições anteriormente realizadas. Admitamos, ademais, que hajam vivido em um mundo mais adiantado e menos material do que o nosso, onde o trabalho do [Espírito][g4f] substituía o do corpo; que, por se haverem rebelado contra a Lei de [Deus][c5m], figurada na desobediência, tenham sido afastados de lá e exilados, por punição, para a Terra, onde o homem, pela natureza do globo, é constrangido a um trabalho corporal e reconheceremos que a [Deus][c5m] assistia [razão][f8m] para lhes dizer: “No mundo onde, daqui em diante, ides viver, cultivareis a terra e dela tirareis o alimento, com o suor da vossa fronte”; e, à mulher: “Parirás com dor”, porque tal é a condição desse mundo. (Cap. XI, item 31 e seguintes.)
 
 O paraíso terrestre, cujos vestígios têm sido inutilmente procurados na Terra, era, por conseguinte, a figura do mundo ditoso, onde vivera Adão, ou, antes, a raça dos Espíritos que ele personifica. A expulsão do paraíso marca o momento em que esses Espíritos vieram encarnar entre os habitantes do mundo terráqueo e a mudança de situação foi a consequência da expulsão. O anjo que, empunhando uma espada flamejante, veda a entrada do paraíso simboliza a impossibilidade em que se acham os Espíritos dos mundos inferiores, de penetrar nos mundos superiores, antes que o mereçam pela sua depuração. (Veja-se, adiante, o cap. XIV, itens 8 e seguintes.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  24
 
@@ -2520,6 +4333,10 @@ O paraíso terrestre, cujos vestígios têm sido inutilmente procurados na Terra
 > Gênesis, cap. 3, vers. 13-16, ARC
 {:.bible-multi}
 {:.bible-multi}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  25
 
@@ -2531,15 +4348,31 @@ Dessa própria narrativa, portanto, se tem de inferir que a região era povoada.
 
 Aliás, a presença de outros habitantes ressalta igualmente destas palavras de Caim: “Serei fugitivo e vagabundo e quem quer que me encontre matar-me-á”, e da resposta que [Deus][c5m] lhe deu. Quem poderia ele temer que o matasse e que utilidade teria o sinal que [Deus][c5m] lhe pôs para preservá-lo de ser morto, uma vez que ele a ninguém iria encontrar? Ora, se havia na Terra outros homens afora a família de Adão, é que esses homens aí estavam antes dele, donde se deduz esta consequência, tirada do texto mesmo do Gênesis: Adão não é nem o primeiro, nem o único pai do gênero humano. (Cap. XI, item 34.)135
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  26
 
 Eram necessários os conhecimentos que o [Espiritismo][f4r] ministrou acerca das relações do princípio espiritual com o princípio material, acerca da natureza da [alma][q3f], da sua criação em estado de simplicidade e de ignorância, da sua união com o corpo, da sua indefinida marcha progressiva através de sucessivas existências e através dos mundos, que são outros tantos degraus da senda do aperfeiçoamento, acerca da sua gradual libertação da influência da matéria, mediante o uso do livre-arbítrio, da causa dos seus pendores bons ou maus e de suas aptidões, do fenômeno do nascimento e da [morte][q4x], da situação do [Espírito][g4f] na erraticidade e, finalmente, do futuro como prêmio de seus esforços por se melhorar e da sua perseverança no bem, para que se fizesse luz sobre todas as partes da Gênese espiritual.
 
 Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que está na Terra e por que sofre. Sabe que tem nas mãos o seu futuro e que a duração do seu cativeiro neste mundo unicamente dele depende. Despida da alegoria acanhada e mesquinha, a Gênese se lhe apresenta grande e digna da majestade, da bondade e da justiça do Criador. Considerada desse ponto de vista, ela confundirá a incredulidade e triunfará.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ## 2. 🗃️ Os Milagres {#gen-2}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 2-13. 🗂️ Caracteres dos milagres {#gen-2-13}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
@@ -2551,6 +4384,10 @@ Um dos caracteres do milagre propriamente dito é o ser inexplicável, por isso 
 
 Outro caráter do milagre é o ser insólito, isolado, excepcional. Logo que um fenômeno se reproduz, quer espontânea, quer voluntariamente, é que está submetido a uma lei e, desde então, seja ou não seja conhecida a lei, já não pode haver milagres.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Aos olhos dos ignorantes, a [Ciência][h4t] faz milagres todos os dias. Se um homem, que se ache realmente morto, for chamado à [vida][r4f] por intervenção divina, haverá verdadeiro milagre, por ser esse um fato contrário às leis da natureza. Mas se em tal homem houver apenas aparências de [morte][q4x], se lhe restar uma vitalidade latente e a [Ciência][h4t], ou uma ação magnética, conseguir reanimá-lo, para as pessoas esclarecidas ter-se-á dado um fenômeno natural, mas, para o vulgo ignorante, o fato passará por miraculoso. Lance um físico, do meio de certas campinas, um papagaio elétrico e faça que o raio caia sobre uma árvore e certamente esse novo Prometeu [^136] será tido por armado de diabólico poder. Houvesse, porém, Josué [^137] detido o movimento do Sol, ou, antes, da Terra e teríamos aí o verdadeiro milagre, porquanto nenhum magnetizador existe dotado de bastante poder para operar semelhante prodígio.
@@ -2561,11 +4398,23 @@ Foram fecundos em milagres os séculos de ignorância, porque se considerava sob
 
 [^137]: N.E.: Também chamado de Oseias. Depois da [morte][q4x] de Moisés, Josué liderou o povo de Israel na conquista de Canaã e foi responsável por conduzir os israelitas à Terra Prometida. Sua liderança é narrada no Livro de Josué, em que se destaca a tomada da cidade de Jericó entre outros fatos que contaram com prodigiosa intervenção divina, como no dia em que o sol e a lua chegaram a parar durante a batalha de Josué em defesa dos gibeonitas, contra o ataque de reis cananeus.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  03
 
 Expulso do domínio da materialidade, pela [Ciência][h4t], o maravilhoso se encastelou no da espiritualidade, onde encontrou o seu último refúgio. Demonstrando que o elemento espiritual é uma das forças vivas da natureza, força que incessantemente atua em concorrência com a força material, o [Espiritismo][f4r] faz que voltem ao rol dos efeitos naturais os que dele haviam saído, porque, como os outros, também tais efeitos se acham sujeitos a leis. Se for expulso da espiritualidade, o maravilhoso já não terá [razão][f8m] de ser e só então se poderá dizer que passou o tempo dos milagres. (Cap. I, item 18.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O [Espiritismo][f4r] não faz milagres
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  04
 
@@ -2575,17 +4424,33 @@ Esses fenômenos, é certo, se prendem à existência dos Espíritos e à interv
 
 O [Espírito][g4f] mais não é do que a [alma][q3f] sobrevivente ao corpo; é o ser principal, pois que não morre, ao passo que o corpo é simples acessório sujeito à destruição. Sua existência, portanto, é tão natural depois, como durante a encarnação; está submetido às leis que regem o princípio espiritual, como o corpo o está às que regem o princípio material; mas como estes dois princípios têm necessária afinidade, como reagem incessantemente um sobre o outro, como da ação simultânea deles resultam o movimento e a harmonia do conjunto, segue-se que a espiritualidade e a materialidade são duas partes de um mesmo todo, tão natural uma quanto a outra, não sendo, pois, a primeira uma exceção, uma anomalia na ordem das coisas. O [Espiritismo][f4r], pois, vem, a seu turno, fazer o que cada [ciência][h4t] fez no seu advento: revelar novas leis e explicar, conseguintemente, os fenômenos compreendidos na alçada dessas leis. Esses fenômenos, é certo, se prendem à existência dos Espíritos e à intervenção deles no mundo material e isso é, dizem, o em que consiste o sobrenatural. Mas, então, fora mister se provasse que os Espíritos e suas manifestações são contrárias às leis da natureza; que aí não há, nem pode haver, a ação de uma dessas leis. O [Espírito][g4f] mais não é do que a [alma][q3f] sobrevivente ao corpo; é o ser principal, pois que não morre, ao passo que o corpo é simples acessório sujeito à destruição. Sua existência, portanto, é tão natural depois, como durante a encarnação; está submetido às leis que regem o princípio espiritual, como o corpo o está às que regem o princípio material; mas como estes dois princípios têm necessária afinidade, como reagem incessantemente um sobre o outro, como da ação simultânea deles resultam o movimento e a harmonia do conjunto, segue-se que a espiritualidade e a materialidade são duas partes de um mesmo todo, tão natural uma quanto a outra, não sendo, pois, a primeira uma exceção, uma anomalia na ordem das coisas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  05
 
 Durante a sua encarnação, o [Espírito][g4f] atua sobre a matéria por intermédio do seu corpo fluídico ou perispírito, dando-se o mesmo quando ele não está encarnado. Como [Espírito][g4f] e na medida de suas capacidades, faz o que fazia como homem; apenas, por já não ter o corpo carnal para instrumento, serve-se, quando necessário, dos órgãos materiais de um encarnado, que vem a ser o a que se chama [médium][c8r]. Procede então como um que, não podendo escrever por si mesmo, se vale de um secretário, ou que, não sabendo uma língua, recorre a um intérprete. O secretário e o intérprete são os [médiuns][c8r] de um encarnado, do mesmo modo que o [médium][c8r] é o secretário ou o intérprete de um [Espírito][g4f].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  06
 
 Já não sendo o mesmo que no estado de encarnação o meio em que atuam os Espíritos e os modos por que atuam, diferentes são os efeitos, que parecem sobrenaturais unicamente porque se produzem com o auxílio de agentes que não são os de que nos servimos. Desde, porém, que esses agentes estão na natureza e as manifestações se dão em virtude de certas leis, nada há de sobrenatural, ou de maravilhoso. Antes de se conhecerem as propriedades da eletricidade, os fenômenos elétricos passavam por prodígios para certa gente; desde que se tornou conhecida a causa, desapareceu o maravilhoso. O mesmo ocorre com os fenômenos espíritas, que não são mais aberrantes das leis naturais do que os fenômenos elétricos, acústicos, luminosos e outros, que serviram de fundamento a uma imensidade de crenças supersticiosas
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  07
 
 Entretanto, dir-se-á, admitis que um [Espírito][g4f] pode levantar uma mesa e mantê-la no espaço sem ponto de apoio; não está aí uma derrogação da lei da gravidade? — Sim, da lei conhecida. Conhecem-se, porém, todas as leis? Antes que se houvesse experimentado a força ascensional de alguns gases, quem diria que uma pesada máquina, transportando muitos homens, poderia triunfar da força de atração? Ao vulgo, isso não pareceria maravilhoso, diabólico? Aquele que se houvera proposto, há um século, a transmitir uma mensagem a 500 léguas e receber a resposta dentro de alguns minutos, teria passado por louco; se o fizesse, teriam acreditado estar o diabo às suas ordens, porquanto, então, só o diabo era capaz de andar tão depressa. Hoje, no entanto, não só se reconhece possível o fato, como ele parece naturalíssimo. Por que, pois, um fluido desconhecido careceria da propriedade de contrabalançar, em dadas circunstâncias, o efeito da gravidade, como o hidrogênio contrabalança o peso do balão? É, efetivamente, o que sucede, no caso de que se trata. (O livro dos [médiuns][c8r], 2a Parte, cap. IV.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  08
 
@@ -2593,13 +4458,25 @@ Uma vez que estão no quadro dos da natureza, os fenômenos espíritas se hão p
 
 Baseado em aparências inexplicadas, o sobrenatural deixa livre curso à imaginação que, a vagar pelo desconhecido, gera as crenças supersticiosas. Uma explicação racional, fundada nas leis da natureza, reconduzindo o homem ao terreno da realidade, fixa um ponto de parada aos transviamentos da imaginação e destrói as superstições. Longe de ampliar o domínio do sobrenatural, o [Espiritismo][f4r] o restringe até os seus limites extremos e lhe arrebata o último refúgio. Se é certo que ele faz crer na possibilidade de alguns fatos, não menos certo é que, por outro lado, impede a crença em diversos outros, porque demonstra, no campo da espiritualidade, a exemplo da [Ciência][h4t] no da materialidade, o que é possível e o que não o é. Todavia, como não alimenta a pretensão de haver dito a última palavra seja sobre o que for, nem mesmo sobre o que é da sua competência, ele não se apresenta como absoluto regulador do possível e deixa de parte os conhecimentos reservados ao futuro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  09
 
 Os fenômenos espíritas consistem nos diferentes modos de manifestação da [alma][q3f] ou [Espírito][g4f], quer durante a encarnação, quer no estado de erraticidade. É pelas manifestações que produz que a [alma][q3f] revela sua existência, sua sobrevivência e sua individualidade; julga-se dela pelos seus efeitos; sendo natural a causa, o efeito também o é. São esses efeitos que constituem objeto especial das pesquisas e do estudo do [Espiritismo][f4r], a fim de chegar-se a um conhecimento tão completo quanto possível, assim da natureza e dos atributos da [alma][q3f], como das leis que regem o princípio espiritual.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 Para os que negam a existência do princípio espiritual independente, que negam, por conseguinte, a da [alma][q3f] individual e sobrevivente, a natureza toda está na matéria tangível; todos os fenômenos que concernem à espiritualidade são, para esses negadores, sobrenaturais e, portanto, quiméricos. Não admitindo a causa não podem eles admitir os efeitos e, quando estes são patentes, os atribuem à imaginação, à ilusão, à alucinação e se negam a aprofundá-los. Daí, a opinião preconcebida em que se acastelam e que os torna inaptos a apreciar judiciosamente o [Espiritismo][f4r], porque parte do princípio de negação de tudo o que não seja material.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
@@ -2611,6 +4488,10 @@ Do fato, porém, de o [Espiritismo][f4r] admitir os efeitos, que são corolário
 
 [^140]: N.E.: A Possessão das Freiras de Loudun foi um suposto conjunto de possessões demoníacas que ocorreram em Loudun, França, em 1634; as freiras sofreram convulsões e proferiram linguagem abusiva.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 Os fenômenos espíritas são as mais das vezes espontâneos e se produzem sem nenhuma ideia preconcebida da parte das pessoas com quem eles se dão e que, em regra, são as que neles menos pensam. Alguns há que, em certas circunstâncias, podem ser provocados pelos agentes denominados [médiuns][c8r]. No primeiro caso, o [médium][c8r] é inconsciente do que se produz por seu intermédio; no segundo, age com conhecimento de causa, donde a classificação de [médiuns][c8r] conscientes e [médiuns][c8r] inconscientes. Estes últimos são os mais numerosos e se encontram com frequência entre os mais obstinados incrédulos que, assim, praticam o [Espiritismo][f4r] sem o saberem, nem quererem. Por isso mesmo, os fenômenos espontâneos revestem capital importância, visto não se poder suspeitar da boa-fé dos que os obtêm. Dá-se aqui o que se dá com o sonambulismo que, em certos indivíduos, é natural e involuntário, enquanto noutros é provocado pela ação magnética. [^141]
@@ -2619,18 +4500,33 @@ Resultem, porém, ou não esses fenômenos de um ato da vontade, a causa primár
 
 [^141]: A.K.: O livro dos [médiuns][c8r], 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  13
 
 A intervenção de inteligências ocultas nos fenômenos espíritas não os torna mais milagrosos do que todos os outros fenômenos devidos a agentes invisíveis, porque esses seres ocultos que povoam os espaços são uma das forças da natureza, força cuja ação é incessante sobre o mundo material, tanto quanto sobre o mundo [moral][h4c].
 
 Esclarecendo-nos acerca dessa força, o [Espiritismo][f4r] faculta a elucidação de uma imensidade de coisas inexplicadas e inexplicáveis por qualquer outro meio e que, por isso, passaram por prodígios nos tempos idos. Do mesmo modo que o magnetismo, ele revela uma lei, senão desconhecida, pelo menos mal compreendida; ou, melhor dizendo, conheciam-se os efeitos, porque eles em todos os tempos se produziram, porém não se conhecia a lei e foi o desconhecimento desta que gerou a superstição. Conhecida essa lei, desaparece o maravilhoso e os fenômenos entram na ordem das coisas naturais. Eis por que tanto operam um milagre os espíritas quando fazem que uma mesa se mova sozinha, ou que os mortos escrevam, como um milagre opera o médico, quando faz que um moribundo reviva, ou o físico, quando faz que o raio caia. Aquele que pretendesse, com o auxílio desta [ciência][h4t], fazer milagres seria ou um ignorante do assunto, ou um enganador de tolos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  14
 
 Pois que o [Espiritismo][f4r] repudia toda pretensão às coisas miraculosas, haverá, fora dele, milagres, na acepção usual desta palavra? Digamos, primeiramente, que, dos fatos reputados milagrosos, ocorridos antes do advento do [Espiritismo][f4r] e que ainda no presente ocorrem, a maior parte, senão todos, encontram explicação nas novas leis que ele veio revelar. Esses fatos, portanto, se compreendem, embora sob outro nome, na ordem dos fenômenos espíritas e, como tais, nada têm de sobrenatural. Fique, porém, bem entendido que nos referimos aos fatos autênticos e não aos que, com a denominação de milagres, são produto de uma indigna trampolinice, com o fito de explorar a credulidade. Tampouco nos referimos a certos fatos lendários que podem ter tido, originariamente, um fundo de [verdade][x8k], mas que a superstição ampliou até o absurdo. Sobre esses fatos é que o [Espiritismo][f4r] projeta luz, fornecendo meios de apartar do erro a [verdade][x8k].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ##### Faz [Deus][c5m] milagres?
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
@@ -2640,6 +4536,10 @@ Por que, então, faria milagres? Para atestar o seu poder, dizem. Mas o poder de
 
 Não é, pois, da alçada do [Espiritismo][f4r] a questão dos milagres; mas, ponderando que [Deus][c5m] não faz coisas inúteis, emite a seguinte opinião: Não sendo necessários os milagres para a glorificação de [Deus][c5m], nada no universo se produz fora do âmbito das leis gerais. [Deus][c5m] não faz milagres, porque, sendo, como são, perfeitas as suas leis, não lhe é necessário derrogá-las. Se há fatos que não compreendemos, é que ainda nos faltam os conhecimentos necessários.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 Admitido que [Deus][c5m] houvesse alguma vez, por motivos que nos escapam, derrogado acidentalmente leis por ele estabelecidas, tais leis já não seriam imutáveis. Mesmo, porém, que semelhante derrogação seja possível, ter-se-á, pelo menos, de reconhecer que só Ele, [Deus][c5m], dispõe desse poder; sem se negar ao [Espírito][g4f] do mal a onipotência, não se pode admitir lhe seja dado desfazer a obra divina, operando, de seu lado, prodígios capazes de seduzir até os eleitos, pois que isso implicaria a ideia de um poder igual ao de [Deus][c5m]. É, no entanto, o que ensinam. Se Satanás tem o poder de sustar o curso das leis naturais, que são obra de [Deus][c5m], sem a permissão deste, mais poderoso é ele do que a Divindade. Logo, [Deus][c5m] não possui a onipotência e se, como pretendem, delega poderes a Satanás, para mais facilmente induzir os homens ao mal, falta-lhe a soberana bondade. Em ambos os casos, há negação de um dos atributos sem os quais [Deus][c5m] não seria [Deus][c5m].
@@ -2648,11 +4548,23 @@ Daí vem a Igreja distinguir os bons milagres, que procedem de [Deus][c5m], dos 
 
 Reconhecida a possibilidade de alguns fatos considerados miraculosos, há de se concluir que, seja qual for a origem que se lhes atribua, eles são efeitos naturais de que se podem utilizar Espíritos desencarnados ou encarnados, como de tudo, como da própria [inteligência][y2h] e dos conhecimentos científicos de que disponham, para o bem ou para o mal, conforme neles preponderem a bondade ou a perversidade. Valendo-se do saber que haja adquirido, pode um ser perverso fazer coisas que passem por prodígios aos olhos dos ignorantes; mas quando tais efeitos dão em resultado um bem qualquer, fora ilógico atribuir-se-lhes uma origem diabólica.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  17
 
 Mas a religião, dizem, se apoia em fatos que nem explicados, nem explicáveis são. Inexplicados, talvez; inexplicáveis, é questão muito outra. Que sabe o homem das descobertas e dos conhecimentos que o futuro lhe reserva? Sem falar do milagre da criação, o maior de todos sem contestação possível, já pertencente ao domínio da lei universal, não vemos reproduzirem-se hoje, sob o império do magnetismo, do sonambulismo, do [Espiritismo][f4r], os êxtases, as visões, as aparições, as percepções a distância, as curas instantâneas, as suspensões, as comunicações orais e outras com os seres do mundo invisível, fenômenos esses conhecidos desde tempos imemoráveis, tidos outrora por maravilhosos e que presentemente se demonstra pertencerem à ordem das coisas naturais, de acordo com a lei constitutiva dos seres? Os livros sagrados estão cheios de fatos desse gênero, qualificados de sobrenaturais; como, porém, outros análogos e ainda mais maravilhosos se encontram em todas as religiões pagãs da Antiguidade, se a veracidade de uma religião dependesse do número e da natureza de tais fatos, não se saberia dizer qual a que devesse prevalecer.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O sobrenatural e as religiões
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  18
 
@@ -2662,19 +4574,39 @@ O [Espiritismo][f4r] considera de um ponto mais elevado a religião cristã; dá
 
 Deus não se torna menos digno da nossa admiração, do nosso reconhecimento, do nosso respeito, por não haver derrogado suas leis, grandiosas, sobretudo, pela imutabilidade que as caracteriza. Não se faz mister o sobrenatural, para que se preste a [Deus][c5m] o culto que lhe é devido. A natureza não é de si mesma tão imponente, que dispense se lhe acrescente seja o que for para provar a suprema potestade? Tanto menos incrédulos topará a religião, quanto mais a [razão][f8m] a sancionar em todos os pontos. O Cristianismo nada tem que perder com semelhante sanção; ao contrário, só tem que ganhar. Se alguma coisa o há prejudicado na opinião de muitas pessoas, foi precisamente o abuso do sobrenatural e do maravilhoso.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  19
 
 Se tomarmos a palavra milagre em sua acepção etimológica, no sentido de coisa admirável, teremos milagres incessantemente sob as vistas. Aspiramo-los no ar e calcamo-los aos pés, porque tudo então é milagre na natureza.
 
 Querem dar ao povo, aos ignorantes, aos pobres de espírito uma ideia do poder de [Deus][c5m]? Mostrem-no na [sabedoria][i8d] infinita que preside a tudo, no admirável organismo de tudo o que vive, na frutificação das plantas, na apropriação de todas as partes de cada ser às suas necessidades, de acordo com o meio onde ele é posto a viver. Mostrem-lhes a ação de [Deus][c5m] na vergôntea de um arbusto, na flor que desabrocha, no Sol que tudo vivifica. Mostrem-lhes a sua bondade na solicitude que dispensa a todas as criaturas, por mais ínfimas que sejam, a sua previdência, na [razão][f8m] de ser de todas as coisas, entre as quais nenhuma inútil se conta, no bem que sempre decorre de um mal aparente e temporário. Façam-lhes compreender, principalmente, que o mal real é obra do homem e não de [Deus][c5m]; não procurem espavori-los com o quadro das penas eternas, em que acabam não mais crendo e que os levam a duvidar da Bondade de [Deus][c5m]; antes, deem-lhes coragem, mediante a certeza de poderem um dia redimir-se e reparar o mal que hajam praticado. Apontem-lhes as descobertas da [Ciência][h4t] como revelações das Leis divinas e não como obras de Satanás. Ensinem-lhes, finalmente, a ler no livro da natureza, constantemente aberto diante deles; nesse livro inesgotável, em cada uma de cujas páginas se acham inscritas a [sabedoria][i8d] e a bondade do Criador. Eles, então, compreenderão que um Ser tão grande, que com tudo se ocupa, que por tudo vela, que tudo prevê, forçosamente dispõe do poder supremo. Vê-lo-á o lavrador, ao sulcar o seu campo; e o desditoso, nas suas aflições, o bendirá dizendo: Se sou infeliz, é por culpa minha. Então, os homens serão verdadeiramente religiosos, racionalmente religiosos, sobretudo, muito mais do que acreditando em pedras que suam sangue, ou em estátuas que piscam os olhos e derramam lágrimas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 2-14. 🗂️ Os fluidos {#gen-2-14}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Elementos fluídicos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 A [Ciência][h4t] resolveu a questão dos milagres que mais particularmente derivam do elemento material, quer explicando-os, quer lhes demonstrando a impossibilidade, em face das leis que regem a matéria. Mas os fenômenos em que prepondera o elemento espiritual, esses, não podendo ser explicados unicamente por meio das leis da natureza, escapam às investigações da [Ciência][h4t]. Tal a [razão][f8m] por que eles, mais do que os outros, apresentam os caracteres aparentes do maravilhoso. É, pois, nas leis que regem a [vida][r4f] espiritual que se pode encontrar a explicação dos milagres dessa categoria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  02
 
@@ -2686,6 +4618,10 @@ Cada um desses dois estados dá lugar, naturalmente, a fenômenos especiais: ao 
 
 [^143]: A.K.: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da [alma][q3f], ou, melhor, dos fluidos perispiríticos, inseparáveis da [alma][q3f]. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  03
 
 No estado de eterização, o fluido cósmico não é uniforme; sem deixar de ser etéreo, sofre modificações tão variadas em gênero e mais numerosas talvez do que no estado de matéria tangível. Essas modificações constituem fluidos distintos que, embora procedentes do mesmo princípio, são dotados de propriedades especiais e dão lugar aos fenômenos peculiares ao mundo invisível.
@@ -2694,11 +4630,19 @@ Dentro da relatividade de tudo, esses fluidos têm para os Espíritos, que tamb�
 
 Lá, porém, como neste mundo, somente aos Espíritos mais esclarecidos é dado compreender o papel que desempenham os elementos constitutivos do mundo onde eles se acham. Os ignorantes do mundo invisível são tão incapazes de explicar a si mesmos os fenômenos a que assistem e para os quais muitas vezes concorrem maquinalmente, como os ignorantes da Terra o são para explicar os efeitos da luz ou da eletricidade, para dizer de que modo é que veem e escutam.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 Os elementos fluídicos do mundo espiritual escapam aos nossos instrumentos de análise e à percepção dos nossos sentidos, feitos para perceberem a matéria tangível e não a matéria etérea. Alguns há, pertencentes a um meio diverso a tal ponto do nosso, que deles só podemos fazer ideia mediante comparações tão imperfeitas como aquelas mediante as quais um cego de nascença procura fazer ideia da teoria das cores.
 
 Mas entre tais fluidos, há os tão intimamente ligados à [vida][r4f] corporal, que, de certa forma, pertencem ao meio terreno. Em falta de observação direta, seus efeitos podem observar-se, como se observam os do fluido do ímã, fluido que jamais se viu, podendo-se adquirir sobre a natureza deles conhecimentos de alguma precisão. É essencial esse estudo, porque está nele a chave de uma imensidade de fenômenos que não se conseguem explicar unicamente com as leis da matéria.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
@@ -2708,21 +4652,41 @@ O mesmo se dá na superfície de todos os mundos, salvo as diferenças de consti
 
 Não é rigorosamente exata a qualificação de fluidos espirituais, pois que, em definitivo, eles são sempre matéria mais ou menos quintessenciada. De realmente espiritual, só a [alma][q3f] ou princípio inteligente. Dá-se-lhes essa denominação por comparação apenas e, sobretudo, pela afinidade que eles guardam com os Espíritos. Pode dizer-se que são a matéria do mundo espiritual, [razão][f8m] por que são chamados fluidos espirituais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 Quem conhece, aliás, a constituição íntima da matéria tangível? Ela talvez somente seja compacta em relação aos nossos sentidos; prová-lo-ia a facilidade com que a atravessam os fluidos espirituais e os Espíritos, aos quais não oferece maior obstáculo, do que o que os corpos transparentes oferecem à luz. [^144] Tendo por elemento primitivo o fluido cósmico etéreo, à matéria tangível há de ser possível, desagregando-se, voltar ao estado de eterização, do mesmo modo que o diamante, o mais duro dos corpos, pode volatilizar-se em gás impalpável. Na realidade, a solidificação da matéria não é mais do que um estado transitório do fluido universal, que pode volver ao seu estado primitivo, quando deixam de existir as condições de coesão. Quem sabe mesmo se, no estado de tangibilidade, a matéria não é suscetível de adquirir uma espécie de eterização que lhe daria propriedades particulares? Certos fenômenos, que parecem autênticos, tenderiam a fazer supor esse estado. Ainda não conhecemos senão as fronteiras do mundo invisível; o porvir, sem dúvida, nos reserva o conhecimento de novas leis, que nos permitirão compreender o que se nos conserva em mistério.
 
 [^144]: N.E.: Hoje, sabemos que a matéria parece ser compacta e impenetrável em [razão][f8m] da repulsão elétrica que existe entre os átomos que a constituem, impedindo que os seres e objetos materiais se interpenetrem. No mais, a massa do átomo se concentra no seu núcleo, seríamos então uma grande aglomerado de moléculas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Formação e propriedades do perispírito
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
 O perispírito, ou corpo fluídico dos Espíritos, é um dos mais importantes produtos do fluido cósmico; é uma condensação desse fluido em torno de um foco de [inteligência][y2h] ou [alma][q3f]. Já vimos que também o corpo carnal tem seu princípio de origem nesse mesmo fluido condensado e transformado em matéria tangível. No perispírito, a transformação molecular se opera diferentemente, porquanto o fluido conserva a sua imponderabilidade e suas qualidades etéreas. O corpo perispirítico e o corpo carnal têm pois origem no mesmo elemento primitivo; ambos são matéria, ainda que em dois estados diferentes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 Do meio onde se encontra é que o [Espírito][g4f] extrai o seu perispírito, isto é, esse envoltório ele o forma dos fluidos ambientes. Resulta daí que os elementos constitutivos do perispírito naturalmente variam, conforme os mundos. Dando-se Júpiter como orbe muito adiantado em comparação com a Terra, como um orbe onde a [vida][r4f] corpórea não apresenta a materialidade da nossa, os envoltórios perispirituais hão de ser lá de natureza muito mais quintessenciada do que aqui. Ora, assim como não poderíamos existir naquele mundo com o nosso corpo carnal, também os nossos Espíritos não poderiam nele penetrar com o perispírito terrestre que os reveste. Emigrando da Terra, o [Espírito][g4f] deixa aí o seu invólucro fluídico e toma outro apropriado ao mundo onde vai habitar.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
@@ -2731,6 +4695,10 @@ A natureza do envoltório fluídico está sempre em relação com o grau de adia
 Os Espíritos superiores, ao contrário, podem vir aos mundos inferiores, e, até, encarnar neles. Tiram, dos elementos constitutivos do mundo onde entram, os materiais para a formação do envoltório fluídico ou carnal apropriado ao meio em que se encontrem. Fazem como o nobre que despe temporariamente suas vestes, para envergar os trajes plebeus, sem deixar por isso de ser nobre.
 
 É assim que os Espíritos da categoria mais elevada podem manifestar-se aos habitantes da Terra ou encarnar em missão entre estes. Tais Espíritos trazem consigo, não o invólucro, mas a lembrança, por intuição, das regiões donde vieram e que, em pensamento, eles veem. São videntes entre cegos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  10
 
@@ -2745,9 +4713,17 @@ Também resulta que: o envoltório perispirítico de um [Espírito][g4f] se modi
 [^146]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico
 às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o [Espiritismo][f4r] —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  11
 
 O meio está sempre em relação com a natureza dos seres que têm de nele viver: os peixes, na água; os seres terrestres, no ar; os seres espirituais no fluido espiritual ou etéreo, mesmo que estejam na Terra. O fluido etéreo está para as necessidades do [Espírito][g4f], como a atmosfera para as dos encarnados. Ora, do mesmo modo que os peixes não podem viver no ar; que os animais terrestres não podem viver numa atmosfera muito rarefeita para seus pulmões, os Espíritos inferiores não podem suportar o brilho e a impressão dos fluidos mais etéreos. Não morreriam no meio desses fluidos, porque o [Espírito][g4f] não morre, mas uma força instintiva os mantêm afastados dali, como a criatura terrena se afasta de um fogo muito ardente ou de uma luz muito deslumbrante. Eis aí por que não podem sair do meio que lhes é apropriado à natureza; para mudarem de meio, precisam antes mudar de natureza, despojar-se dos instintos materiais que os retêm nos meios materiais; numa palavra, que se depurem e moralmente se transformem. Então, gradualmente se identificam com um meio mais depurado, que se lhes torna uma necessidade, como os olhos, para quem viveu longo tempo nas trevas, insensivelmente se habituam à luz do dia e ao fulgor do Sol.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  12
 
@@ -2759,11 +4735,23 @@ Tendes [razão][f8m] de dizer: “A fé vai-se.”, mas a que se vai é a fé em
 
 Efetivamente, tudo é milagre na natureza, porque tudo é admirável e dá testemunho da [sabedoria][i8d] divina! Esses milagres se patenteiam a toda gente, a todos os que têm olhos de ver e ouvidos de ouvir e não em proveito apenas de alguns! Não! milagres não há no sentido que comumente emprestam a essa palavra, porque tudo decorre das leis eternas da Criação, leis essas perfeitas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Ação dos Espíritos sobre os fluidos. Criações fluídicas. Fotografia do pensamento
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
 Os fluidos espirituais, que constituem um dos estados do fluido cósmico universal, são, a bem dizer, a atmosfera dos seres espirituais; o elemento donde eles tiram os materiais sobre que operam; o meio onde ocorrem os fenômenos especiais, perceptíveis à visão e à audição do [Espírito][g4f], mas que escapam aos sentidos carnais, impressionáveis somente à matéria tangível; o meio onde se forma a luz peculiar ao mundo espiritual, diferente, pela causa e pelos efeitos da luz ordinária; finalmente, o veículo do pensamento, como o ar o é do som.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
@@ -2777,6 +4765,10 @@ Por análogo efeito, o pensamento do [Espírito][g4f] cria fluidicamente os obje
 
 [^147]: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o [Espiritismo][f4r] —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  15
 
 Sendo os fluidos o veículo do pensamento, este atua sobre os fluidos como o som sobre o ar; eles nos trazem o pensamento, como o ar nos traz o som. Pode-se pois dizer, sem receio de errar, que há, nesses fluidos, ondas e raios de pensamentos, que se cruzam sem se confundirem, como há no ar ondas e vibrações sonoros.
@@ -2787,11 +4779,23 @@ O pensamento cria a imagem da vítima e a cena inteira é pintada, como num quad
 
 Desse modo é que os mais secretos movimentos da [alma][q3f] repercutem no envoltório fluídico; que uma [alma][q3f] pode ler noutra [alma][q3f] como num livro e ver o que não é perceptível aos olhos do corpo. Contudo, vendo a intenção, pode ela pressentir a execução do ato que lhe será a consequência, mas não pode determinar o instante em que o mesmo ato será executado, nem lhe assinalar os pormenores, nem, ainda, afirmar que ele se dê, porque circunstâncias ulteriores poderão modificar os planos assentados e mudar as disposições. Ele não pode ver o que ainda não esteja no pensamento do outro; o que vê é a preocupação habitual do indivíduo, seus desejos, seus projetos, seus desígnios bons ou maus.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Qualidades dos fluidos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  16
 
 Tem consequências de importância capital e direta para os encarnados a ação dos Espíritos sobre os fluidos espirituais. Sendo esses fluidos o veículo do pensamento e podendo este modificar-lhes as propriedades, é evidente que eles devem achar-se impregnados das qualidades boas ou más dos pensamentos que os fazem vibrar, modificando-se pela pureza ou impureza dos sentimentos. Os maus pensamentos corrompem os fluidos espirituais, como os miasmas deletérios corrompem o ar respirável. Os fluidos que envolvem os Espíritos maus, ou que estes projetam são, portanto, viciados, ao passo que os que recebem a influência dos bons Espíritos são tão puros quanto o comporta o grau da perfeição [moral][h4c] destes.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
@@ -2800,6 +4804,10 @@ Fora impossível fazer-se uma enumeração ou classificação dos bons e dos mau
 Os fluidos não possuem qualidades sui generis, mas as que adquirem no meio onde se elaboram; modificam-se pelos eflúvios desse meio, como o ar pelas exalações, a água pelos sais das camadas que atravessa. Conforme as circunstâncias, suas qualidades são, como as da água e do ar, temporárias ou permanentes, o que os torna muito especialmente apropriados à produção de tais ou tais efeitos.
 
 Também carecem de denominações particulares. Como os odores, eles são designados pelas suas propriedades, seus efeitos e tipos originais. Sob o ponto de vista [moral][h4c], trazem o cunho dos sentimentos de ódio, de inveja, de ciúme, de orgulho, de egoísmo, de violência, de hipocrisia, de bondade, de benevolência, de [amor][c7p], de [caridade][c5q], de doçura etc. Sob o aspecto físico, são excitantes, calmantes, penetrantes, adstringentes, irritantes, dulcificantes, soporíficos, narcóticos, tóxicos, reparadores, expulsivos; tornam-se força de transmissão, de propulsão etc. O quadro dos fluidos seria, pois, o de todas as paixões, das virtudes e dos vícios da humanidade e das propriedades da matéria, correspondentes aos efeitos que eles produzem.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  18
 
@@ -2817,6 +4825,10 @@ Atuando esses fluidos sobre o perispírito, este, a seu turno, reage sobre o org
 
 Os meios onde superabundam os maus Espíritos são, pois, impregnados de maus fluidos que o encarnado absorve pelos poros perispiríticos, como absorve pelos poros do corpo os miasmas pestilenciais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  19
 
 Assim se explicam os efeitos que se produzem nos lugares de reunião. Uma assembleia é um foco de irradiação de pensamentos diversos. É como uma orquestra, um coro de pensamentos, onde cada um emite uma nota. Resulta daí uma multiplicidade de correntes e de eflúvios fluídicos cuja impressão cada um recebe pelo sentido espiritual, como num coro musical cada um recebe a impressão dos sons pelo sentido da audição.
@@ -2825,11 +4837,19 @@ Mas, do mesmo modo que há radiações sonoras, harmoniosas ou dissonantes, tamb
 
 Tal a causa da satisfação que se experimenta numa reunião simpática, animada de pensamentos bons e benévolos. Envolve-a uma como salubre atmosfera [moral][h4c], onde se respira à vontade; sai-se reconfortado dali, porque impregnado de salutares eflúvios fluídicos. Basta, porém, que se lhe misturem alguns pensamentos maus, para produzirem o efeito de uma corrente de ar gelado num meio tépido, ou o de uma nota desafinada num concerto. Desse modo também se explica a ansiedade, o indefinível mal-estar que se experimenta numa reunião antipática, onde malévolos pensamentos provocam correntes de fluido nauseabundo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  20
 
 O pensamento, portanto, produz uma espécie de efeito físico que reage sobre o [moral][h4c], fato este que só o [Espiritismo][f4r] podia tornar compreensível. O homem o sente instintivamente, visto que procura as reuniões homogêneas e simpáticas, onde sabe que pode haurir novas forças morais, podendo-se dizer que, em tais reuniões, ele recupera as perdas fluídicas que sofre todos os dias pela irradiação do pensamento, como recupera, por meio dos alimentos, as perdas do corpo material. É que, com efeito, o pensamento é uma emissão que ocasiona perda real de fluidos espirituais e, conseguintemente, de fluidos materiais, de maneira tal que o homem precisa retemperar-se com os eflúvios que recebe do exterior.
 
 Quando se diz que um médico opera a cura de um doente, por meio de boas palavras, enuncia-se uma [verdade][x8k] absoluta, pois que um pensamento bondoso traz consigo fluidos reparadores que atuam sobre o físico, tanto quanto sobre o [moral][h4c].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  21
 
@@ -2841,9 +4861,17 @@ Que se faz quando está viciado o ar? Procede-se ao seu saneamento, cuida-se de 
 
 As moscas são atraídas pelos focos de corrupção; destruídos esses focos, elas desaparecerão. Os maus Espíritos, igualmente, vão para onde o mal os atrai; eliminado o mal, eles se afastarão. Os Espíritos realmente bons, encarnados ou desencarnados, nada têm que temer da influência dos maus.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### II. Explicação de alguns fenômenos considerados sobrenaturais
 
 **Vista espiritual ou psíquica. Dupla vista. Sonambulismo. Sonhos**
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  22
 
@@ -2857,6 +4885,10 @@ No homem, tais fenômenos constituem a manifestação da [vida][r4f] espiritual;
 
 [^148]: A.K.: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 Embora, durante a [vida][r4f], o [Espírito][g4f] se encontre preso ao corpo pelo perispírito, não se lhe acha tão escravizado, que não possa alongar a cadeia que o prende e transportar-se a um ponto distante, quer sobre a Terra, quer do espaço. Repugna ao [Espírito][g4f] estar ligado ao corpo, porque a sua [vida][r4f] normal é a de liberdade e a [vida][r4f] corporal é a do servo preso à gleba. 
@@ -2869,9 +4901,17 @@ O laço fluídico que o prende ao corpo só por ocasião da [morte][q4x] se romp
 
 Assim igualmente se explicam certos fenômenos característicos do sonambulismo natural e magnético, da catalepsia, da letargia, do êxtase etc., e que mais não são do que manifestações da [vida][r4f] espiritual.149
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  24
 
 Pois que a visão espiritual não se opera por meio dos olhos do corpo, segue-se que a percepção das coisas não se verifica mediante a luz ordinária: de fato, a luz material é feita para o mundo material; para o mundo espiritual, uma luz especial existe, cuja natureza desconhecemos, porém que é, sem dúvida, uma das propriedades do fluido etéreo, adequada às percepções visuais da [alma][q3f]. Há, portanto, luz material e luz espiritual. A primeira emana de focos circunscritos aos corpos luminosos; a segunda tem o seu foco em toda parte: tal a [razão][f8m] por que não há obstáculo para a visão espiritual, que não é embaraçada nem pela distância, nem pela opacidade da matéria, não existindo para ela a obscuridade. O mundo espiritual é, pois, iluminado pela luz espiritual, que tem seus efeitos próprios, como o mundo material é iluminado pela luz solar.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  25
 
@@ -2881,15 +4921,27 @@ Entretanto, a vista espiritual não é idêntica, quer em extensão, quer em pen
 
 Manifesta-se em diferentes graus, nos Espíritos encarnados, pelo fenômeno da segunda vista, tanto no sonambulismo natural ou magnético, quanto no estado de vigília. Conforme o grau de poder da faculdade, diz-se que a lucidez é maior ou menor. Com o auxílio dessa faculdade é que certas pessoas veem o interior do organismo humano e descrevem as causas das enfermidades.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  26
 
 A vista espiritual, portanto, faculta percepções especiais que, não tendo por sede os órgãos materiais, se operam em condições muito diversas das que decorrem da [vida][r4f] corporal. Efetuando-se fora do organismo, tem ela uma mobilidade que derrui todas as previsões. Indispensável se torna estudá-la em seus efeitos e em suas causas e não assimilando-a à vista ordinária, que ela não se destina a suprir, salvo casos excepcionais, que se não poderiam tomar como regra.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  27
 
 Necessariamente incompleta e imperfeita é a vista espiritual nos Espíritos encarnados e, por conseguinte, sujeita a aberrações. Tendo por sede a própria [alma][q3f], o estado desta há de influir nas percepções que aquela vista faculte. Segundo o grau de desenvolvimento, as circunstâncias e o estado [moral][h4c] do indivíduo, pode ela dar, quer durante o sono, quer no estado de vigília: 1o a percepção de certos fatos materiais e reais, como o conhecimento de alguns que ocorram a grande distância, os detalhes descritivos de uma localidade, as causas de uma enfermidade e os remédios convenientes; 2o a percepção de coisas igualmente reais do mundo espiritual, como a presença dos Espíritos; 3o imagens fantásticas criadas pela imaginação, análogas às criações fluídicas do pensamento (veja-se, acima, o item 14). Estas criações se acham sempre em relação com as disposições morais do [Espírito][g4f] que as gera. É assim que o pensamento de pessoas fortemente imbuídas de certas crenças religiosas e com elas preocupadas lhes apresenta o inferno, suas fornalhas, suas torturas e seus demônios, tais quais essas pessoas os imaginam. Às vezes, é toda uma epopeia. Os pagãos viam o Olimpo e o Tártaro, como os cristãos veem o inferno e o paraíso. Se, ao despertarem, ou ao saírem do êxtase, conservam lembrança exata de suas visões, os que as tiveram tomam-nas como realidades confirmativas de suas crenças, quando tudo não passa de produto de seus próprios pensamentos. [^150] Cumpre, pois, se faça uma distinção muito rigorosa nas visões extáticas, antes que se lhes dê crédito. A tal propósito, o remédio para a excessiva credulidade é o estudo das leis que regem o mundo espiritual.
 
 [^150]: A.K.: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do [Cristo][g0s], diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  28
 
@@ -2899,7 +4951,15 @@ Os sonhos propriamente ditos apresentam os três caracteres das visões acima de
 
 [^152]: A.K.: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Catalepsia. Ressurreições
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  29
 
@@ -2911,21 +4971,41 @@ A interrupção pode dar-se pela separação de um membro, ou pela secção de u
 
 A paralisia já não tem absolutamente a mesma causa: aí o efeito é todo orgânico; são os próprios nervos, os fios condutores que se tornam inaptos à circulação fluídica; são as cordas do instrumento que se alteraram.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  30
 
 Em certos estados patológicos, quando o [Espírito][g4f] há deixado o corpo e o perispírito só por alguns pontos se lhe acha aderido, apresenta ele, o corpo, todas as aparências da [morte][q4x] e enuncia-se uma [verdade][x8k] absoluta, dizendo que a [vida][r4f] aí está por um fio. Semelhante estado pode durar mais ou menos tempo; podem mesmo algumas partes do corpo entrar em decomposição, sem que, no entanto, a [vida][r4f] se ache definitivamente extinta. Enquanto não se haja rompido o último fio, pode o [Espírito][g4f], quer por uma ação enérgica, da sua própria vontade, quer por um influxo fluídico estranho, igualmente forte, ser chamado a volver ao corpo. É como se explicam certos fatos de prolongamento da [vida][r4f] contra todas as probabilidades e algumas supostas ressurreições. É a planta a renascer, como às vezes se dá, de uma só fibrila da raiz. Quando, porém, as últimas moléculas do corpo fluídico se têm destacado do corpo carnal, ou quando este último há chegado a um estado irreparável de degradação, impossível se torna todo regresso à [vida][r4f]. [^153]
 
 [^153]: A.K.: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Curas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  31
 
 Como se há visto, o fluido universal é o elemento primitivo do corpo carnal e do perispírito, os quais são simples transformações dele. Pela identidade da sua natureza, esse fluido, condensado no perispírito, pode fornecer princípios reparadores ao corpo; o [Espírito][g4f], encarnado ou desencarnado, é o agente propulsor que infiltra num corpo deteriorado uma parte da substância do seu envoltório fluídico. A cura se opera mediante a substituição de uma molécula malsã por uma molécula sã. O poder curativo estará, pois, na [razão][f8m] direta da pureza da substância inoculada; mas, depende também da energia da vontade que, quanto maior for, tanto mais abundante emissão fluídica provocará e tanto maior força de penetração dará ao fluido. Depende ainda das intenções daquele que deseje realizar a cura, seja homem ou [Espírito][g4f]. Os fluidos que emanam de uma fonte impura são quais substâncias medicamentosas alteradas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  32
 
 São extremamente variados os efeitos da ação fluídica sobre os doentes, de acordo com as circunstâncias. Algumas vezes é lenta e reclama tratamento prolongado, como no magnetismo ordinário; doutras vezes é rápida, como uma corrente elétrica. Há pessoas dotadas de tal poder, que operam curas instantâneas nalguns doentes, por meio apenas da imposição das mãos, ou, até, exclusivamente por ato da vontade. Entre os dois polos extremos dessa faculdade, há infinitos matizes. Todas as curas desse gênero são variedades do magnetismo e só diferem pela intensidade e pela rapidez da ação. O princípio é sempre o mesmo: o fluido, a desempenhar o papel de agente terapêutico e cujo efeito se acha subordinado à sua qualidade e a circunstâncias especiais.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  33
 
@@ -2939,17 +5019,33 @@ A ação magnética pode produzir-se de muitas maneiras:
 
 [^154]: A.K.: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  34
 
 É muito comum a faculdade de curar pela influência fluídica e pode desenvolver-se por meio do exercício; mas, a de curar instantaneamente, pela imposição das mãos, essa é mais rara e o seu grau máximo se deve considerar excepcional. No entanto, em épocas diversas e no seio de quase todos os povos, surgiram indivíduos que a possuíam em grau eminente. Nestes últimos tempos, apareceram muitos exemplos notáveis, cuja autenticidade não sofre contestação. Uma vez que as curas desse gênero assentam num princípio natural e que o poder de operá-las não constitui privilégio, o que se segue é que elas não se operam fora da natureza e que só são miraculosas na aparência. [^155]
 
 [^155]: A.K.: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Aparições. Transfigurações
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  35
 
 Para nós, o perispírito, no seu estado normal, é invisível; mas, como é formado de substância etérea, o [Espírito][g4f], em certos casos, pode, por ato da sua vontade, fazê-lo passar por uma modificação molecular que o torna momentaneamente visível. É assim que se produzem as aparições, que não se dão, do mesmo modo que os outros fenômenos, fora das leis da natureza. Nada tem esse de mais extraordinário, do que o do vapor que, quando muito rarefeito, é invisível, mas que se torna visível, quando condensado.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  36
 
@@ -2961,6 +5057,10 @@ Para nós, o perispírito, no seu estado normal, é invisível; mas, como é for
 
 [^159]: A.K.: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  37
 
 Sendo o mesmo o perispírito, assim nos encarnados, como nos desencarnados, um [Espírito][g4f] encarnado, por efeito completamente idêntico, pode, num momento de liberdade, aparecer em ponto diverso do em que repousa seu corpo, com os traços que lhe são habituais e com todos os sinais de sua identidade. Foi esse fenômeno, do qual se conhecem muitos casos autênticos, que deu lugar à crença nos homens duplos. [^160]
@@ -2969,9 +5069,17 @@ Sendo o mesmo o perispírito, assim nos encarnados, como nos desencarnados, um [
 
 [^161]: A.K.: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  38
 
 Um efeito peculiar aos fenômenos dessa espécie consiste em que as aparições vaporosas e, mesmo, tangíveis, não são perceptíveis a toda gente, indistintamente. Os Espíritos só se mostram quando o querem e a quem também o querem. Um [Espírito][g4f], pois, poderia aparecer, numa assembleia, a um ou a muitos dos presentes e não ser visto pelos demais. Dá-se isso, porque as percepções desse gênero se efetuam por meio da vista espiritual, e não por intermédio da vista carnal; pois não só aquela não é dada a toda gente, como pode, se for conveniente, ser retirada, pela só vontade do [Espírito][g4f], àquele a quem ele não queira mostrar-se, como pode dá-la, momentaneamente, se entender necessário. À condensação do fluido perispirítico nas aparições, indo mesmo até a tangibilidade, faltam as propriedades da matéria ordinária: se tal não se desse, as aparições seriam perceptíveis pelos olhos do corpo e, então, todas as pessoas presentes as perceberiam. [^161]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  39
 
@@ -2979,15 +5087,31 @@ Podendo o [Espírito][g4f] operar transformações na contextura do seu envoltó
 
 [^162]: 
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Manifestações físicas. Mediunidade
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  40
 
 Os fenômenos das mesas girantes e falantes, da suspensão etérea de corpos pesados, da escrita mediúnica, tão antigos quanto o mundo, porém vulgares hoje, facultam a explicação de alguns outros, análogos e espontâneos, aos quais, pela ignorância da lei que os rege, se atribuía caráter sobrenatural e miraculoso. Tais fenômenos têm por base as propriedades do fluido perispirítico, quer dos encarnados, quer dos Espíritos livres.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  41
 
 Por meio do seu perispírito é que o [Espírito][g4f] atuava sobre o seu corpo vivo; ainda por intermédio desse mesmo fluido é que ele se manifesta; atuando sobre a matéria inerte, é que produz ruídos, movimentos de mesa e outros objetos, que os levanta, derriba, ou transporta. Nada tem de surpreendente esse fenômeno, se considerarmos que, entre nós, os mais possantes motores se encontram nos fluidos mais rarefeitos e mesmo imponderáveis, como o ar, o vapor e a eletricidade. É igualmente com o concurso do seu perispírito que o [Espírito][g4f] faz que os [médiuns][c8r] escrevam, falem, desenhem. Já não dispondo de corpo tangível para agir ostensivamente quando quer manifestar-se, ele se serve do corpo do [médium][c8r], cujos órgãos toma de empréstimo, corpo ao qual faz que atue como se fora o seu próprio, mediante o eflúvio fluídico que verte sobre ele.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  42
 
@@ -2996,6 +5120,10 @@ Pelo mesmo processo atua o [Espírito][g4f] sobre a mesa, quer para que esta se 
 Praticam um ato ridículo as pessoas que, tomadas de emoção ao manifestar-se um ser que lhes é caro, abraçam a mesa; é exatamente como se abraçassem a bengala de que um amigo se sirva para bater no chão. O mesmo fazem os que dirigem a palavra à mesa, como se o [Espírito][g4f] se achasse metido na madeira, ou como se a madeira se houvesse tornado [Espírito][g4f].
 
 Quando comunicações são transmitidas por esse meio, deve-se imaginar que o [Espírito][g4f] está, não na mesa, mas ao lado, tal qual estaria se vivo se achasse e como seria visto, se no momento pudesse tornar-se visível. O mesmo ocorre nas comunicações pela escrita: ver-se-ia o [Espírito][g4f] ao lado do [médium][c8r], dirigindo-lhe a mão ou transmitindo-lhe pensamentos por meio de uma corrente fluídica.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  43
 
@@ -3011,6 +5139,10 @@ Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muit
 
 [^164]: A.K.: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  44
 
 Fenômeno muito frequente na [mediunidade][c8r] é a aptidão de certos [médiuns][c8r] para escrever em língua que lhes é estranha; a explanar, oralmente ou por escrito, assuntos que lhes estão fora do alcance da instrução recebida. Não é raro o caso de alguns que escrevem correntemente sem nunca terem aprendido a escrever; de outros que compõem poesias, sem jamais na [vida][r4f] terem sabido fazer um verso; de outros que desenham, pintam, esculpem, compõem música, tocam um instrumento, sem conhecerem desenho, pintura, escultura, ou a arte musical. Ocorre frequentemente o fato de um [médium][c8r] escrevente reproduzir com perfeição a grafia e a assinatura que os Espíritos, que por ele se comunicam, tinham quando vivos, se bem não as haja ele conhecido.
@@ -3021,13 +5153,25 @@ A aptidão de um [médium][c8r] para coisas que lhe são estranhas também tem f
 
 [^165]: A.K.: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora [médium][c8r], teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Obsessões e possessões
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  45
 
 Pululam em torno da Terra os maus Espíritos, em consequência da inferioridade [moral][h4c] de seus habitantes. A ação malfazeja desses Espíritos é parte integrante dos flagelos com que a humanidade se vê a braços neste mundo. A obsessão que é um dos efeitos de semelhante ação, como as enfermidades e todas as atribulações da [vida][r4f], deve, pois, ser considerada como provação ou expiação e aceita com esse caráter.
 
 Chama-se obsessão à ação persistente que um [Espírito][g4f] mau exerce sobre um indivíduo. Apresenta caracteres muito diferentes, que vão desde a simples influência [moral][h4c], sem perceptíveis sinais exteriores, até a perturbação completa do organismo e das faculdades mentais. Ela oblitera todas as faculdades mediúnicas. Na [mediunidade][c8r] audiente e psicográfica, traduz-se pela obstinação de um [Espírito][g4f] em querer manifestar-se, com exclusão de qualquer outro.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  46
 
@@ -3045,6 +5189,10 @@ O trabalho se torna mais fácil quando o obsidiado, compreendendo a sua situaç�
 
 Em todos os casos de obsessão, a prece é o mais poderoso meio de que se dispõe para demover de seus propósitos maléficos o obsessor.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  47
 
 Na obsessão, o [Espírito][g4f] atua exteriormente, com a ajuda do seu perispírito, que ele identifica com o do encarnado, ficando este afinal enlaçado por uma como teia e constrangido a proceder contra a sua vontade.
@@ -3052,6 +5200,10 @@ Na obsessão, o [Espírito][g4f] atua exteriormente, com a ajuda do seu perispí
 Na possessão, em vez de agir exteriormente, o [Espírito][g4f] atuante se substitui, por assim dizer, ao [Espírito][g4f] encarnado; toma-lhe o corpo para domicílio, sem que este, no entanto, seja abandonado pelo seu dono, pois que isso só se pode dar pela [morte][q4x]. A possessão, conseguintemente, é sempre temporária e intermitente, porque um [Espírito][g4f] desencarnado não pode tomar definitivamente o lugar de um encarnado, pela [razão][f8m] de que a união molecular do perispírito e do corpo só se pode operar no momento da concepção. (Cap. XI, item 18.)
 
 De posse momentânea do corpo do encarnado, o [Espírito][g4f] se serve dele como se seu próprio fora: fala pela sua boca, vê pelos seus olhos, opera com seus braços, conforme o faria se estivesse vivo. Não é como na [mediunidade][c8r] falante, em que o [Espírito][g4f] encarnado fala transmitindo o pensamento de um desencarnado; no caso da possessão é mesmo o último que fala e obra; quem o haja conhecido em [vida][r4f], reconhece-lhe a linguagem, a voz, os gestos e até a expressão da fisionomia.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  48
 
@@ -3063,22 +5215,41 @@ São numerosos os fatos deste gênero, em diferentes graus de intensidade, e nã
 
 [^166]: A.K.: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 49
 
 São as mais das vezes individuais a obsessão e a possessão; mas, não raro são epidêmicas. Quando sobre uma localidade se lança uma revoada de maus Espíritos, é como se uma tropa de inimigos a invadisse. Pode então ser muito considerável o número dos indivíduos atacados.[^167]
 
 [^167]: A.K.: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 2.15
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ##### Superioridade da natureza de [Jesus][q3y]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
 Os fatos que o Evangelho relata e que foram até hoje considerados milagrosos pertencem, na sua maioria, à ordem dos fenômenos psíquicos, isto é, dos que têm como causa primária as faculdades e os atributos da [alma][q3f]. Confrontando-os com os que ficaram descritos e explicados no capítulo precedente, reconhecer-se-á sem dificuldade que há entre eles identidade de causa e de efeito. A História registra outros análogos, em todos os tempos e no seio de todos os povos, pela [razão][f8m] de que, desde que há almas encarnadas e desencarnadas, os mesmos efeitos forçosamente se produziram. Pode-se, é certo, contestar, no que concerne a este ponto, a veracidade da História; mas, hoje, eles se produzem às nossas vistas e, por assim dizer, à vontade e por indivíduos que nada têm de excepcionais. O só fato da reprodução de um fenômeno, em condições idênticas, basta para provar que ele é possível e se acha submetido a uma lei, não sendo, portanto, miraculoso.
 
 O princípio dos fenômenos psíquicos repousa, como já vimos, nas propriedades do fluido perispiritual, que constitui o agente magnético; nas manifestações da [vida][r4f] espiritual durante a [vida][r4f] corpórea e depois da [morte][q4x]; e, finalmente, no estado constitutivo dos Espíritos e no papel que eles desempenham como força ativa da natureza. Conhecidos estes elementos e comprovados os seus efeitos, tem-se, como consequência, de admitir a possibilidade de certos fatos que eram rejeitados enquanto se lhes atribuía uma origem sobrenatural.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 02
 
@@ -3088,9 +5259,21 @@ Como homem, tinha a organização dos seres carnais; porém, como [Espírito][g4
 
 Agiria como [médium][c8r] nas curas que operava? Poder-se-á considerá-lo poderoso [médium][c8r] curador? Não, porquanto o [médium][c8r] é um intermediário, um instrumento de que se servem os Espíritos desencarnados e o [Cristo][g0s] não precisava de assistência, pois que era ele quem assistia os outros. Agia por si mesmo, em virtude do seu poder pessoal, como o podem fazer, em certos casos, os encarnados, na medida de suas forças. Que [Espírito][g4f], ao demais, ousaria insuflar-lhe seus próprios pensamentos e encarregá-lo de os transmitir? Se algum influxo estranho recebia, esse só de [Deus][c5m] lhe poderia vir. Segundo definição dada por um [Espírito][g4f], ele era [médium][c8r] de [Deus][c5m].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Sonhos
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 03
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ##### A volta do Egito
 
@@ -3099,9 +5282,21 @@ Agiria como [médium][c8r] nas curas que operava? Poder-se-á considerá-lo pode
 > Mateus, cap. 2, vers. 19-23, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Estrela dos magos
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 #### Os magos do Oriente
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 04
 
@@ -3113,9 +5308,21 @@ O que é certo é que, naquela circunstância, a luz não podia ser uma estrela.
 
 Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser possível o fato da aparição de uma luz com o aspecto de uma estrela. Um [Espírito][g4f] pode aparecer sob forma luminosa, ou transformar uma parte do seu fluido perispirítico em foco luminoso. Muitos fatos desse gênero, modernos e perfeitamente autênticos, não procedem de outra causa, que nada apresenta de sobrenatural. (Cap. XIV, itens 13 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Dupla vista
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Entrada de [Jesus][q3y] em Jerusalém
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 05
 
@@ -3124,6 +5331,10 @@ Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser pos
 > Zacarias, cap. 21, vers. 9-10, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A entrada triunfal de [Jesus][q3y] em Jerusalém
 
 > E, quando se aproximaram de Jerusalém e chegaram a Betfagé, ao monte das Oliveiras, enviou, então, [Jesus][q3y] dois discípulos, dizendo-lhes: Ide à aldeia que está defronte de vós e logo encontrareis uma jumenta presa e um jumentinho com ela; desprendei-a e trazei-mos. E, se alguém vos disser alguma coisa, direis que o Senhor precisa deles; e logo os enviará. Ora, tudo isso aconteceu para que se cumprisse o que foi dito pelo profeta, que diz: Dizei à filha de Sião: Eis que o teu Rei aí te vem, humilde e assentado sobre uma jumenta e sobre um jumentinho, filho de animal de carga. E, indo os discípulos e fazendo como [Jesus][q3y] lhes ordenara, trouxeram a jumenta e o jumentinho, e sobre eles puseram as suas vestes, e fizeram-no assentar em cima.
@@ -3131,7 +5342,15 @@ Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser pos
 > Mateus, cap. 21, vers. 1-7, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Beijo de Judas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 06
 
@@ -3140,7 +5359,15 @@ Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser pos
 > Mateus, cap. 26, vers. 46-50, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Pesca milagrosa
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 07
 
@@ -3149,7 +5376,15 @@ Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser pos
 > Lucas, cap. 5, vers. 1-7, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Vocação de Pedro, André, Tiago, João e Mateus
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 08
 
@@ -3163,6 +5398,10 @@ Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser pos
 > Mateus, cap. 4, vers. 09, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 09
 
 Nada apresentam de surpreendentes estes fatos, desde que se conheça o poder da dupla vista e a causa, muito natural, dessa faculdade. [Jesus][q3y] a possuía em grau elevado e pode dizer-se que ela constituía o seu estado normal, conforme o atesta grande número de atos da sua [vida][r4f], os quais, hoje, têm a explicá-los os fenômenos magnéticos e o ­Espiritismo. 
@@ -3175,9 +5414,21 @@ Em muitos passos do Evangelho se lê: “Mas [Jesus][q3y], conhecendo-lhes os pe
 
 Muitas vezes, supondo que um pensamento se acha sepultado nos refolhos da [alma][q3f], o homem não suspeita que traz em si um espelho onde se reflete aquele pensamento, um revelador na sua própria irradiação fluídica, impregnada dele. Se víssemos o mecanismo do mundo invisível que nos cerca, as ramificações dos fios condutores do pensamento, a ligarem todos os seres inteligentes, corporais e incorpóreos, os eflúvios fluídicos carregados das marcas do mundo [moral][h4c], os quais, como correntes aéreas, atravessam o espaço, muito menos surpreendidos ficaríamos diante de certos efeitos que a ignorância atribui ao acaso. (Cap. XIV, itens 15, 22 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Curas
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Perda de sangue
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 010
 
@@ -3185,6 +5436,10 @@ Muitas vezes, supondo que um pensamento se acha sepultado nos refolhos da [alma]
 >
 > Marcos, cap. 05, vers. 25-34, ARC
 {:.bible-multi}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 11
 
@@ -3198,7 +5453,15 @@ Com relação à corrente fluídica, o primeiro age como uma bomba calcante e o 
 
 Razão, pois, tinha [Jesus][q3y] para dizer: “Tua fé te salvou.” Compreende-se que a fé a que Ele se referia não é uma virtude mística, qual a entendem muitas pessoas, mas uma verdadeira força atrativa, de sorte que aquele que não a possui opõe à corrente fluídica uma força repulsiva, ou, pelo menos, uma força de inércia, que paralisa a ação. Assim sendo, também, se compreende que, apresentando-se ao curador dois doentes da mesma enfermidade, possa um ser curado e outro não. É este um dos mais importantes princípios da [mediunidade][c8r] curadora e que explica certas anomalias aparentes, apontando-lhes uma causa muito natural. (Cap. XIV, itens 31 a 33.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Cego de Betsaida
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 12
 
@@ -3207,9 +5470,17 @@ Razão, pois, tinha [Jesus][q3y] para dizer: “Tua fé te salvou.” Compreende
 > Marcos, cap. 08, vers. 22-26, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 13
 
 Aqui, é evidente o efeito magnético; a cura não foi instantânea, porém gradual e consequente a uma ação prolongada e reiterada, se bem que mais rápida do que na magnetização ordinária. A primeira sensação que o homem teve foi exatamente a que experimentam os cegos ao recobrarem a vista. Por um efeito de óptica, os objetos lhes parecem de tamanho exagerado.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 14
 
@@ -3218,11 +5489,19 @@ Aqui, é evidente o efeito magnético; a cura não foi instantânea, porém grad
 > Mateus, cap. 09, vers. 01-08, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 15
 
 Que significariam aquelas palavras: “Teus pecados te são remitidos” e em que podiam elas influir para a cura? O [Espiritismo][f4r] lhes dá a explicação, como a uma infinidade de outras palavras incompreendidas até hoje. Por meio da pluralidade das existências, ele ensina que os males e aflições da [vida][r4f] são muitas vezes expiações do passado, bem como que sofremos na [vida][r4f] presente as consequências das faltas que cometemos em existência anterior e, assim, até que tenhamos pago a dívida de nossas imperfeições, pois que as existências são solidárias umas com as outras. 
 
 Se, portanto, a enfermidade daquele homem era uma expiação do mal que ele praticara, o dizer-lhe [Jesus][q3y]: “Teus pecados te são remitidos” equivalia a dizer-lhe: “Pagaste a tua dívida; a fé que agora possuis elidiu a causa da tua enfermidade; conseguintemente, mereces ficar livre dela.” Daí o haver dito aos escribas: “Tão fácil é dizer: Teus pecados te são perdoados, como: Levanta-te e anda.” Cessada a causa, o efeito tem que cessar. É precisamente o caso do encarcerado a quem se declara: “Teu crime está expiado e perdoado”, o que equivaleria a se lhe dizer: “Podes sair da prisão.”
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 16
 
@@ -3231,11 +5510,23 @@ Se, portanto, a enfermidade daquele homem era uma expiação do mal que ele prat
 > Lucas, cap. 17, vers. 11-19, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 17
 
 Os samaritanos eram cismáticos [^168], mais ou menos como os protestantes com relação aos católicos, e os judeus os tinham em desprezo, como heréticos. Curando indistintamente os judeus e os samaritanos, dava [Jesus][q3y], ao mesmo tempo, uma lição e um exemplo de tolerância; e fazendo ressaltar que só o samaritano voltara a glorificar a [Deus][c5m], mostrava que havia nele maior soma de verdadeira fé e de reconhecimento, do que nos que se diziam ortodoxos. Acrescentando: “Tua fé te salvou”, fez ver que [Deus][c5m] considera o que há no âmago do coração e não a forma exterior da adoração. Entretanto, também os outros tinham sido curados. Fora mister que tal se verificasse, para que Ele pudesse dar a lição que tinha em vista e tornar-lhes evidente a ingratidão. Quem sabe, porém, o que daí lhes haja resultado; quem sabe se eles terão se beneficiado da graça que lhes foi concedida? Dizendo ao samaritano: “Tua fé te salvou”, dá [Jesus][q3y] a entender que o mesmo não aconteceu aos outros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Mão seca
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 18
 
@@ -3245,7 +5536,15 @@ E retirou-se [Jesus][q3y] com os seus discípulos para o mar, e seguia-o uma gra
 > Marcos, cap. 03, vers. 01-08, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A mulher curvada
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 19
 
@@ -3254,11 +5553,23 @@ E retirou-se [Jesus][q3y] com os seus discípulos para o mar, e seguia-o uma gra
 > Lucas, cap. 13, vers. 10-17, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 20
 
 Este fato prova que naquela época a maior parte das enfermidades era atribuída ao demônio e que todos confundiam, como ainda hoje, os possessos com os doentes, mas em sentido inverso, isto é, hoje, os que não acreditam nos maus Espíritos confundem as obsessões com as moléstias patológicas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O paralítico da piscina
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 21
 
@@ -3270,17 +5581,33 @@ E, por essa causa, os judeus perseguiram [Jesus][q3y] e procuravam matá-lo, por
 > João, cap. 05, vers. 01-17, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 22
 
 “Piscina” (da palavra latina piscis, peixe), entre os romanos, eram chamados os reservatórios ou viveiros onde se criavam peixes. Mais tarde, o termo se tornou extensivo aos tanques destinados a banhos em comum. A piscina de Betesda, em Jerusalém, era uma cisterna, próxima ao Templo, alimentada por uma fonte natural, cuja água parece ter tido propriedades curativas. Era, sem dúvida, uma fonte intermitente que, em certas épocas, jorrava com força, agitando a água. Segundo a crença vulgar, esse era o momento mais propício às curas. Talvez que, na realidade, ao brotar da fonte a água, mais ativas fossem as suas propriedades, ou que a agitação que o jorro produzia na água fizesse vir à tona a vasa [^169] salutar para algumas moléstias. Tais efeitos são muito naturais e perfeitamente conhecidos hoje; mas, então, as ciências estavam pouco adiantadas e à maioria dos fenômenos incompreendidos se atribuíam uma causa sobrenatural. Os judeus, pois, tinham a agitação da água como devida à presença de um anjo e tanto mais fundadas lhes pareciam essas crenças, quanto viam que, naquelas ocasiões, mais curativa se mostrava a água. Depois de haver curado aquele paralítico, disse-lhe [Jesus][q3y]: “Para o futuro não tornes a pecar, a fim de que não te aconteça coisa pior.” Por essas palavras, deu-lhe a entender que a sua doença era uma punição e que, se ele não se melhorasse, poderia vir a ser de novo punido e com mais rigor, doutrina essa inteiramente conforme à do [Espiritismo][f4r].
 
 [^169]: N.E.: Espécie de lama, fina e inconsistente, característica de certos fundos oceânicos, constituída por carapaças microscópicas de animais ou elementos minerais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 23
 
 Jesus como que fazia questão de operar suas curas em dia de sábado, para ter ensejo de protestar contra o rigorismo dos fariseus no tocante à guarda desse dia. Queria mostrar-lhes que a verdadeira piedade não consiste na observância das práticas exteriores e das formalidades; que a piedade está nos sentimentos do coração. Justificava-se, declarando: “Meu Pai não cessa de trabalhar até ao presente e eu também trabalho incessantemente.” Quer dizer: [Deus][c5m] não interrompe suas obras, nem sua ação sobre as coisas da natureza, em dia de sábado. Ele não deixa de fazer que se produza tudo quanto é necessário à vossa alimentação e à vossa saúde; eu lhe sigo o exemplo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Cedo de nascença
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 24
 
@@ -3290,6 +5617,10 @@ Os judeus, porém, não creram que ele tivesse sido cego e que agora visse, enqu
 Chamaram, pois, pela segunda vez o homem que tinha sido cego e disseram-lhe: Dá glória a [Deus][c5m]; nós sabemos que esse homem é pecador. Respondeu ele, pois, e disse: Se é pecador, não sei; uma coisa sei, e é que, havendo eu sido cego, agora vejo. E tornaram a dizer-lhe: Que te fez ele? Como te abriu os olhos? Respondeu-lhes: Já vo-lo disse e não ouvistes; para que o quereis tornar a ouvir? Quereis vós, porventura, fazer-vos também seus discípulos? Então, o injuriaram e disseram: Discípulo dele sejas tu; nós, porém, somos discípulos de Moisés. Nós bem sabemos que [Deus][c5m] falou a Moisés, mas este não sabemos de onde é. O homem respondeu e disse-lhes: Nisto, pois, está a maravilha: que vós não saibais de onde ele é e me abrisse os olhos. Ora, nós sabemos que [Deus][c5m] não ouve a pecadores; mas, se alguém é temente a [Deus][c5m] e faz a sua vontade, a esse ouve. Desde o princípio do mundo, nunca se ouviu que alguém abrisse os olhos a um cego de nascença. Se este não fosse de [Deus][c5m], nada poderia fazer. Responderam eles e disseram-lhe: Tu és nascido todo em pecados e nos ensinas a nós? E expulsaram-no.
 > 
 > João, cap. 09, vers. 01-34. ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 25
 
@@ -3303,7 +5634,15 @@ A pergunta dos discípulos: “Foi algum pecado deste homem que deu causa a que 
 
 Quanto ao meio empregado para a sua cura, evidentemente aquela espécie de lama feita de saliva e terra nenhuma virtude podia encerrar, a não ser pela ação do fluido curativo de que fora impregnada. É assim que as mais insignificantes substâncias, como a água, por exemplo, podem adquirir qualidades poderosas e efetivas, sob a ação do fluido espiritual ou magnético, ao qual elas servem de veículo, ou, se quiserem, de reservatório.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Numerosas curas operadas por [Jesus][q3y]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 26
 
@@ -3311,6 +5650,10 @@ Quanto ao meio empregado para a sua cura, evidentemente aquela espécie de lama 
 >
 > Mateus, cap. 04, vers. 23-25, ARC
 {:.bible-multi}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 27
 
@@ -3320,14 +5663,25 @@ Aliviando os sofrimentos, prendia a si as criaturas pelo coração e fazia pros�
 
 Assim, quando João Batista manda, por seus discípulos, perguntar-lhe se Ele era o [Cristo][g0s], a sua resposta não foi: “Eu o sou”, como qualquer impostor houvera podido dizer. Tampouco lhes fala de prodígios, nem de coisas maravilhosas; responde-lhes simplesmente: “Ide dizer a João: os cegos veem, os doentes são curados, os surdos ouvem, o Evangelho é anunciado aos pobres.” O mesmo era que dizer: “Reconhecei-me pelas minhas obras; julgai da árvore pelo fruto”, porquanto era esse o verdadeiro caráter da sua missão divina.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 28
 
 O [Espiritismo][f4r], igualmente, pelo bem que faz é que prova a sua missão providencial. Ele cura os males físicos, mas cura, sobretudo, as doenças morais e são esses os maiores prodígios que lhe atestam a procedência. Seus mais sinceros adeptos não são os que se sentem tocados pela observação de fenômenos extraordinários, mas os que dele recebem a consolação para suas almas; os a quem liberta das torturas da dúvida; aqueles a quem levantou o ânimo na aflição, que hauriram forças na certeza, que lhes trouxe, acerca do futuro, no conhecimento do seu ser espiritual e de seus destinos. Esses os de fé inabalável, porque sentem e compreendem. 
 
 Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe podem compreender a força [moral][h4c]. Daí vem que os incrédulos, que apenas o conhecem pelos fenômenos cuja causa primária não admitem, consideram os espíritas meros prestidigitadores e charlatães. Não será, pois, por meio de prodígios que o [Espiritismo][f4r] triunfará da incredulidade será pela multiplicação dos seus benefícios morais, porquanto, se é certo que os incrédulos não admitem os prodígios, não menos certo é que conhecem, como toda gente, o sofrimento e as aflições e ninguém recusa alívio e consolação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ##### Possessos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 29
 
@@ -3336,12 +5690,20 @@ Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe pod
 > Marcos, cap. 01, vers. 21-27, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 30
 
 > E, havendo-se eles retirado, trouxeram-lhe um homem mudo e endemoninhado. E, expulso o demônio, falou o mudo; e a multidão se maravilhou, dizendo: Nunca tal se viu em Israel. Mas os fariseus diziam: Ele expulsa os demônios pelo príncipe dos demônios.
 > 
 > Mateus, cap. 09, vers. 32-34, ARC
 {:.bible-multi}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 31
 
@@ -3350,6 +5712,10 @@ Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe pod
 > (Marcos, cap. 09, vers. 13-28, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 32
 
 > Trouxeram-lhe, então, um endemoninhado cego e mudo; e, de tal modo o curou, que o cego e mudo falava e via. E toda a multidão se admirava e dizia: Não é este o Filho de Davi? Mas os fariseus, ouvindo isso, diziam: Este não expulsa os demônios senão por Belzebu, príncipe dos demônios. [Jesus][q3y], porém, conhecendo os seus pensamentos, disse-lhes: Todo reino dividido contra si mesmo é devastado; e toda cidade ou casa dividida contra si mesma não subsistirá. E, se Satanás expulsa a Satanás, está dividido contra si mesmo; como subsistirá, pois, o seu reino? E, se eu expulso os demônios por Belzebu, por quem os expulsam, então, os vossos filhos? Portanto, eles mesmos serão os vossos juízes. Mas, se eu expulso os demônios pelo [Espírito][g4f] de [Deus][c5m], é conseguintemente chegado a vós o Reino de [Deus][c5m].
@@ -3357,19 +5723,35 @@ Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe pod
 > Mateus, cap. 12, vers. 22-28, ARC
 {:.bible-multi}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 33
 
 Com as curas, as libertações de possessos figuram entre os mais numerosos atos de [Jesus][q3y]. Alguns há, entre os fatos dessa natureza, como os acima narrados, no item 30, em que a possessão não é evidente. Provavelmente, naquela época, como ainda hoje acontece, atribuía-se à influência dos demônios todas as enfermidades cuja causa se não conhecia, principalmente a mudez, a epilepsia e a catalepsia. Outros há, todavia, em que nada tem de duvidosa a ação dos maus Espíritos, casos esses que guardam com os de que somos testemunhas tão frisante analogia, que neles se reconhecem todos os sintomas de tal gênero de afecção. A prova da participação de uma [inteligência][y2h] oculta, em tal caso, ressalta de um fato material: são as múltiplas curas radicais obtidas, nalguns centros espíritas, pela só evocação e doutrinação dos Espíritos obsessores, sem magnetização, nem medicamentos e, muitas vezes, na ausência do paciente e a grande distância deste. A imensa superioridade do [Cristo][g0s] lhe dava tal autoridade sobre os Espíritos imperfeitos, chamados então demônios, que lhe bastava ordenar se retirassem para que não pudessem resistir a essa injunção. (Cap. XIV, item 46.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 34
 
 O fato de serem alguns maus Espíritos mandados meter-se em corpos de porcos é o que pode haver de menos provável. Aliás, seria difícil explicar a existência de tão numeroso rebanho de porcos num país onde esse animal era tido em horror e nenhuma utilidade oferecia para a alimentação. Um [Espírito][g4f], porque mau, não deixa de ser um [Espírito][g4f] humano, embora tão imperfeito que continue a fazer mal, depois de desencarnar, como o fazia antes, e é contra todas as leis da natureza que lhe seja possível fazer morada no corpo de um animal. No fato, pois, a que nos referimos, temos que reconhecer a existência de uma dessas ampliações tão comuns nos tempos de ignorância e de superstição; ou, então, será uma alegoria destinada a caracterizar os pendores imundos de certos Espíritos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 35
 
 Parece que, ao tempo de [Jesus][q3y], eram em grande número, na Judeia, os obsidiados e os possessos, donde a oportunidade que Ele teve de curar a muitos. Sem dúvida, os Espíritos maus haviam invadido aquele país e causado uma epidemia de possessões. (Cap. XIV, item 49.)
 
 Sem apresentarem caráter epidêmico, as obsessões individuais são muitíssimo frequentes e se apresentam sob os mais variados aspectos que, entretanto, por um conhecimento amplo do [Espiritismo][f4r], facilmente se descobrem. Podem, não raro, trazer consequências danosas à saúde, seja agravando afecções orgânicas já existentes, seja ocasionando-as. Um dia, virão a ser, incontestavelmente, arroladas entre as causas patológicas que requerem, pela sua natureza especial, especiais meios de tratamento. Revelando a causa do mal, o [Espiritismo][f4r] rasga nova senda à arte de curar e fornece à [Ciência][h4t] meio de alcançar êxito onde até hoje quase sempre vê malogrados seus esforços, pela [razão][f8m] de não atender à primordial causa do mal. (O livro dos [médiuns][c8r], a 2a Parte, cap. XXIII.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 36
 
@@ -3381,7 +5763,15 @@ Os fariseus diziam que por influência dos demônios é que [Jesus][q3y] expulsa
 
 É precisamente o argumento que os espíritas opõem aos que atribuem ao demônio os bons conselhos que os Espíritos lhes dão. O demônio agiria então como um ladrão profissional que restituísse tudo o que houvesse roubado e exortasse os outros ladrões a se tornarem pessoas honestas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Ressurreições
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 37
 
@@ -3389,13 +5779,25 @@ Os fariseus diziam que por influência dos demônios é que [Jesus][q3y] expulsa
 > 
 > Marcos, cap. 05, vers. 21-43, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O filho da viúva de Naim
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 38
 
 > E aconteceu, pouco depois, ir ele à cidade chamada Naim, e com ele iam muitos dos seus discípulos e uma grande multidão. E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade. E, vendo-a, o Senhor moveu-se de íntima compaixão por ela e disse-lhe: Não chores. E, chegando-se, tocou o esquife (e os que o levavam pararam) e disse: Jovem, eu te digo: Levanta-te. E o defunto assentou-se e começou a falar. E entregou-o à sua mãe. E de todos se apoderou o temor, e glorificavam a [Deus][c5m], dizendo: Um grande profeta se levantou entre nós, e [Deus][c5m] visitou o seu povo. E correu dele esta fama por toda a Judeia e por toda a terra circunvizinha.
 > 
 > Lucas, cap. 07, vers. 11-17, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 39
 
@@ -3407,6 +5809,10 @@ Dado o poder fluídico que Ele possuía, nada de espantoso há em que esse fluid
 
 [^171]: A.K.: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o [Espírito][g4f] e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o [Espírito][g4f]. Aq
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 40
 
 A ressurreição de Lázaro, digam o que disserem, de nenhum modo infirma este princípio. Ele estava, dizem, havia quatro dias no sepulcro; sabe-se, porém, que há letargias que duram oito dias e até mais. Acrescentam que já cheirava mal, o que é sinal de decomposição. Esta alegação também nada prova, dado que em certos indivíduos há decomposição parcial do corpo, mesmo antes da [morte][q4x], havendo em tal caso cheiro de podridão. A [morte][q4x] só se verifica quando são atacados os órgãos essenciais à [vida][r4f].
@@ -3415,7 +5821,15 @@ E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o diss
 
 [^172]: A.K.: O fato seguinte prova que a decomposição precede algumas vezes a [morte][q4x]. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### [Jesus][q3y] caminha sobre a água
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 41
 
@@ -3423,6 +5837,10 @@ E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o diss
 Jesus, porém, lhes falou logo, dizendo: Tende bom ânimo, sou eu; não temais. E respondeu-lhe Pedro e disse: Senhor, se és tu, manda-me ir ter contigo por cima das águas. E ele disse: Vem. E Pedro, descendo do barco, andou sobre as águas para ir ter com [Jesus][q3y]. Mas, sentindo o vento forte, teve medo; e, começando a ir para o fundo, clamou, dizendo: Senhor, salva-me. E logo [Jesus][q3y], estendendo a mão, segurou-o e disse-lhe: Homem de pequena fé, por que duvidaste? E, quando subiram para o barco, acalmou o vento. Então, aproximaram-se os que estavam no barco e adoraram-no, dizendo: És verdadeiramente o Filho de [Deus][c5m].
 > 
 > Mateus, cap. 14, vers. 22-33, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 42
 
@@ -3434,7 +5852,15 @@ Jesus, embora estivesse vivo, pôde aparecer sobre a água, com uma forma tangí
 
 Por outro lado, também pode ter sucedido que seu corpo fosse sustentado e neutralizada a sua gravidade pela mesma força fluídica que mantém no espaço uma mesa, sem ponto de apoio. Idêntico efeito se produz muitas vezes com os corpos humanos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Transfiguração
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 43
 
@@ -3444,11 +5870,23 @@ E, descendo eles do monte, ordenou-lhes que a ninguém contassem o que tinham vi
 > 
 > Marcos, cap. 09, vers. 01-09, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 44
 
 É ainda nas propriedades do fluido perispirítico que se encontra a explicação deste fenômeno. A transfiguração, explicada no cap. XIV, item 39, é um fato muito comum que, em virtude da irradiação fluídica, pode modificar a aparência de um indivíduo; mas, a pureza do perispírito de [Jesus][q3y] permitiu que seu [Espírito][g4f] lhe desse excepcional fulgor. Quanto à aparição de Moisés e Elias cabe inteiramente no rol de todos os fenômenos do mesmo gênero. (Cap. XIV, itens 35 e seguintes.) De todas faculdades que [Jesus][q3y] revelou, nenhuma se pode apontar estranha às condições da humanidade e que se não encontre comumente nos homens, porque estão todas na ordem da natureza. Pela superioridade, porém, da sua essência [moral][h4c] e de suas qualidades fluídicas, aquelas faculdades atingiam nele proporções muito acima das que são vulgares. Posto de lado o seu envoltório carnal, Ele nos patenteava o estado dos puros Espíritos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Tempestade aplacada
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 45
 
@@ -3456,13 +5894,25 @@ E, descendo eles do monte, ordenou-lhes que a ninguém contassem o que tinham vi
 > 
 > Lucas, cap. 08, vers. 22-25, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 46
 
 Ainda não conhecemos bastante os segredos da natureza para dizer se há ou não inteligências ocultas presidindo à ação dos elementos. Na hipótese de haver, o fenômeno em questão poderia ter resultado de um ato de autoridade sobre essas inteligências e provaria um poder que a nenhum homem é dado exercer. 
 
 Como quer que seja, o fato de estar [Jesus][q3y] a dormir tranquilamente, durante a tempestade, atesta de sua parte uma segurança que se pode explicar pela circunstância de que seu [Espírito][g4f] via não haver perigo nenhum e que a tempestade ia amainar.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Bodas de Caná
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 47
 
@@ -3474,7 +5924,15 @@ Se bem que, a rigor, o fato se possa explicar, até certo ponto, por uma ação 
 
 Entre duas hipóteses, deve-se preferir a mais racional e os espíritas não são tão crédulos que por toda parte vejam manifestações, nem tão absolutos em suas opiniões, que pretendam explicar tudo por meio dos fluidos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Multiplicação dos pães
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 48
 
@@ -3490,7 +5948,15 @@ Desse modo, a par do sentido [moral][h4c] alegórico, produziu-se um efeito fisi
 
 Esta explicação, aliás, o próprio [Jesus][q3y] a confirmou nas duas passagens seguintes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O fermento dos fariseus
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 49
 
@@ -3498,50 +5964,133 @@ Esta explicação, aliás, o próprio [Jesus][q3y] a confirmou nas duas passagen
 > 
 > Mateus, cap. 16, vers. 05-12, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 50
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 51
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 52
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 53
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 54
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 55
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 56
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 57
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 58
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 59
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 60
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 61
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 62
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 63
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 64
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 65
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 2-15. 🗂️ Os milagres do Evangelho {#gen-2-15}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 66
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 67
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 Os fatos que o Evangelho relata e que foram até hoje considerados milagrosos pertencem, na sua maioria, à ordem dos fenômenos psíquicos, isto é, dos que têm como causa primária as faculdades e os atributos da [alma][q3f]. Confrontando-os com os que ficaram descritos e explicados no capítulo precedente, reconhecer-se-á sem dificuldade que há entre eles identidade de causa e de efeito. A História registra outros análogos, em todos os tempos e no seio de todos os povos, pela [razão][f8m] de que, desde que há almas encarnadas e desencarnadas, os mesmos efeitos forçosamente se produziram. Pode-se, é certo, contestar, no que concerne a este ponto, a veracidade da História; mas, hoje, eles se produzem às nossas vistas e, por assim dizer, à vontade e por indivíduos que nada têm de excepcionais. O só fato da reprodução de um fenômeno, em condições idênticas, basta para provar que ele é possível e se acha submetido a uma lei, não sendo, portanto, miraculoso.
 
 O princípio dos fenômenos psíquicos repousa, como já vimos, nas propriedades do fluido perispiritual, que constitui o agente magnético; nas manifestações da [vida][r4f] espiritual durante a [vida][r4f] corpórea e depois da [morte][q4x]; e, finalmente, no estado constitutivo dos Espíritos e no papel que eles desempenham como força ativa da natureza. Conhecidos estes elementos e comprovados os seus efeitos, tem-se, como consequência, de admitir a possibilidade de certos fatos que eram rejeitados enquanto se lhes atribuía uma origem sobrenatural.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  02
 
@@ -3551,7 +6100,15 @@ Como homem, tinha a organização dos seres carnais; porém, como [Espírito][g4
 
 Agiria como [médium][c8r] nas curas que operava? Poder-se-á considerá-lo poderoso [médium][c8r] curador? Não, porquanto o [médium][c8r] é um intermediário, um instrumento de que se servem os Espíritos desencarnados e o [Cristo][g0s] não precisava de assistência, pois que era ele quem assistia os outros. Agia por si mesmo, em virtude do seu poder pessoal, como o podem fazer, em certos casos, os encarnados, na medida de suas forças. Que [Espírito][g4f], ao demais, ousaria insuflar-lhe seus próprios pensamentos e encarregá-lo de os transmitir? Se algum influxo estranho recebia, esse só de [Deus][c5m] lhe poderia vir. Segundo definição dada por um [Espírito][g4f], ele era [médium][c8r] de [Deus][c5m].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Sonhos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
@@ -3561,7 +6118,15 @@ Agiria como [médium][c8r] nas curas que operava? Poder-se-á considerá-lo pode
 
 Os avisos por meio de sonhos desempenham grande papel nos livros sagrados de todas as religiões. Sem garantir a exatidão de todos os fatos narrados e sem os discutir, o fenômeno em si mesmo nada tem de anormal, sabendo-se, como se sabe, que, durante o sono, é quando o [Espírito][g4f], desprendido dos laços da matéria, entra momentaneamente na [vida][r4f] espiritual, onde se encontra com os que lhe são conhecidos. É com frequência essa a ocasião que os Espíritos protetores aproveitam para se manifestar a seus protegidos e lhes dar conselhos mais diretos. São numerosos os casos de avisos em sonho, porém, não se deve inferir daí que todos os sonhos são avisos, nem, ainda menos, que tem uma significação tudo o que se vê em sonho. Cumpre se inclua entre as crenças supersticiosas e absurdas a arte de interpretar os sonhos. (Cap. XIV, itens 27 e 28.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Estrela dos magos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  04
 
@@ -3571,9 +6136,17 @@ Os avisos por meio de sonhos desempenham grande papel nos livros sagrados de tod
 
 Não se trata de saber se o fato que Mateus narra é real, ou se não passa de uma figura indicativa de que os magos foram guiados de forma misteriosa ao lugar onde estava o menino, dado que não há meio algum de verificação; trata-se de saber se é possível um fato de tal natureza. O que é certo é que, naquela circunstância, a luz não podia ser uma estrela. Na época em que o fato ocorreu, era possível acreditassem que fosse, porquanto então se cria serem as estrelas pontos luminosos pregados no firmamento e suscetíveis de cair sobre a Terra; não hoje, quando se conhece a natureza das estrelas. Entretanto, por não ter como causa a que lhe atribuíram, não deixa de ser possível o fato da aparição de uma luz com o aspecto de uma estrela. Um [Espírito][g4f] pode aparecer sob forma luminosa, ou transformar uma parte do seu fluido perispirítico em foco luminoso. Muitos fatos desse gênero, modernos e perfeitamente autênticos, não procedem de outra causa, que nada apresenta de sobrenatural. (Cap. XIV, itens 13 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Dupla vista
 
 **Entrada de [Jesus][q3y] em Jerusalém**
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
@@ -3585,7 +6158,15 @@ Não se trata de saber se o fato que Mateus narra é real, ou se não passa de u
 >
 > Mateus, cap. 21, vers. 01-07, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Beijo de Judas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  06
 
@@ -3593,7 +6174,15 @@ Não se trata de saber se o fato que Mateus narra é real, ou se não passa de u
 >
 > Mateus, cap. 26, vers. 46-50, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Pesca milagrosa
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
@@ -3601,7 +6190,15 @@ Não se trata de saber se o fato que Mateus narra é real, ou se não passa de u
 >
 > Lucas, cap. 05, vers. 01-07, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Vocação de Pedro, André, Tiago, João e Mateus
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  08
 
@@ -3610,6 +6207,10 @@ Não se trata de saber se o fato que Mateus narra é real, ou se não passa de u
 > Mateus, cap. 04, vers. 18-22, ARC
 
 > **E disse-lhe: Tudo isto te darei se, prostrado, me adorares.** ERRADO Mateus 4:9
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
@@ -3623,15 +6224,27 @@ Em muitos passos do Evangelho se lê: “Mas [Jesus][q3y], conhecendo-lhes os pe
 
 Muitas vezes, supondo que um pensamento se acha sepultado nos refolhos da [alma][q3f], o homem não suspeita que traz em si um espelho onde se reflete aquele pensamento, um revelador na sua própria irradiação fluídica, impregnada dele. Se víssemos o mecanismo do mundo invisível que nos cerca, as ramificações dos fios condutores do pensamento, a ligarem todos os seres inteligentes, corporais e incorpóreos, os eflúvios fluídicos carregados das marcas do mundo [moral][h4c], os quais, como correntes aéreas, atravessam o espaço, muito menos surpreendidos ficaríamos diante de certos efeitos que a ignorância atribui ao acaso. (Cap. XIV, itens 15, 22 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Curas
 
 **Perda de sangue**
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  10
 
 > E certa mulher, que havia doze anos tinha um fluxo de sangue, e que havia padecido muito com muitos médicos, e despendido tudo quanto tinha, nada lhe aproveitando isso, antes indo a pior, ouvindo falar de [Jesus][q3y], veio por detrás, entre a multidão, e tocou na sua vestimenta. Porque dizia: Se tão somente tocar nas suas vestes, sararei. E logo se lhe secou a fonte do seu sangue, e sentiu no seu corpo estar já curada daquele mal. E logo [Jesus][q3y], conhecendo que a virtude de si mesmo saíra, voltou-se para a multidão e disse: Quem tocou nas minhas vestes? E disseram-lhe os seus discípulos: Vês que a multidão te aperta, e dizes: Quem me tocou? E ele olhava em redor, para ver a que isso fizera. Então, a mulher, que sabia o que lhe tinha acontecido, temendo e tremendo, aproximou-se, e prostrou-se diante dele, e disse-lhe toda a [verdade][x8k]. E ele lhe disse: Filha, a tua fé te salvou; vai em paz e sê curada deste teu mal.
 >
 > Marcos, cap. 05, vers. 25-34, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
@@ -3645,7 +6258,15 @@ Com relação à corrente fluídica, o primeiro age como uma bomba calcante e o 
 
 Razão, pois, tinha [Jesus][q3y] para dizer: “Tua fé te salvou.” Compreende-se que a fé a que Ele se referia não é uma virtude mística, qual a entendem muitas pessoas, mas uma verdadeira força atrativa, de sorte que aquele que não a possui opõe à corrente fluídica uma força repulsiva, ou, pelo menos, uma força de inércia, que paralisa a ação. Assim sendo, também, se compreende que, apresentando-se ao curador dois doentes da mesma enfermidade, possa um ser curado e outro não. É este um dos mais importantes princípios da [mediunidade][c8r] curadora e que explica certas anomalias aparentes, apontando-lhes uma causa muito natural. (Cap. XIV, itens 31 a 33.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Cego de Betsaida
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  12
 
@@ -3653,11 +6274,23 @@ Razão, pois, tinha [Jesus][q3y] para dizer: “Tua fé te salvou.” Compreende
 >
 > Marcos, cap. 08, vers. 22-26, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  13
 
 Aqui, é evidente o efeito magnético; a cura não foi instantânea, porém gradual e consequente a uma ação prolongada e reiterada, se bem que mais rápida do que na magnetização ordinária. A primeira sensação que o homem teve foi exatamente a que experimentam os cegos ao recobrarem a vista. Por um efeito de óptica, os objetos lhes parecem de tamanho exagerado.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Paralítico
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
@@ -3665,13 +6298,25 @@ Aqui, é evidente o efeito magnético; a cura não foi instantânea, porém grad
 >
 > Mateus, cap. 09, vers. 01-09, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  15
 
 Que significariam aquelas palavras: “Teus pecados te são remitidos” e em que podiam elas influir para a cura? O [Espiritismo][f4r] lhes dá a explicação, como a uma infinidade de outras palavras incompreendidas até hoje. Por meio da pluralidade das existências, ele ensina que os males e aflições da [vida][r4f] são muitas vezes expiações do passado, bem como que sofremos na [vida][r4f] presente as consequências das faltas que cometemos em existência anterior e, assim, até que tenhamos pago a dívida de nossas imperfeições, pois que as existências são solidárias umas com as outras. 
 
 Se, portanto, a enfermidade daquele homem era uma expiação do mal que ele praticara, o dizer-lhe [Jesus][q3y]: “Teus pecados te são remitidos” equivalia a dizer-lhe: “Pagaste a tua dívida; a fé que agora possuis elidiu a causa da tua enfermidade; conseguintemente, mereces ficar livre dela.” Daí o haver dito aos escribas: “Tão fácil é dizer: Teus pecados te são perdoados, como: Levanta-te e anda.” Cessada a causa, o efeito tem que cessar. É precisamente o caso do encarcerado a quem se declara: “Teu crime está expiado e perdoado”, o que equivaleria a se lhe dizer: “Podes sair da prisão.”
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Os dez leprosos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  16
 
@@ -3679,11 +6324,23 @@ Se, portanto, a enfermidade daquele homem era uma expiação do mal que ele prat
 >
 > Lucas, cap. 17, vers. 11-19, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  17
 
 Os samaritanos eram cismáticos,168 mais ou menos como os protestantes com relação aos católicos, e os judeus os tinham em desprezo, como heréticos. Curando indistintamente os judeus e os samaritanos, dava [Jesus][q3y], ao mesmo tempo, uma lição e um exemplo de tolerância; e fazendo ressaltar que só o samaritano voltara a glorificar a [Deus][c5m], mostrava que havia nele maior soma de verdadeira fé e de reconhecimento, do que nos que se diziam ortodoxos. Acrescentando: “Tua fé te salvou”, fez ver que [Deus][c5m] considera o que há no âmago do coração e não a forma exterior da adoração. Entretanto, também os outros tinham sido curados. Fora mister que tal se verificasse, para que Ele pudesse dar a lição que tinha em vista e tornar-lhes evidente a ingratidão. Quem sabe, porém, o que daí lhes haja resultado; quem sabe se eles terão se beneficiado da graça que lhes foi concedida? Dizendo ao samaritano: “Tua fé te salvou”, dá [Jesus][q3y] a entender que o mesmo não aconteceu aos outros.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Mão seca
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  18
 
@@ -3692,8 +6349,16 @@ E retirou-se [Jesus][q3y] com os seus discípulos para o mar, e seguia-o uma gra
 >
 > Marcos, cap. 03, vers. 01-08, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A mulher curvada
 >>>>>>> 6b625a448233f1c26d332370d0e6810dc2df55a0
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  19
 
@@ -3701,17 +6366,33 @@ E retirou-se [Jesus][q3y] com os seus discípulos para o mar, e seguia-o uma gra
 >
 > Lucas, cap. 13, vers. 10-17, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  20
 
 Este fato prova que naquela época a maior parte das enfermidades era atribuída ao demônio e que todos confundiam, como ainda hoje, os possessos com os doentes, mas em sentido inverso, isto é, hoje, os que não acreditam nos maus Espíritos confundem as obsessões com as moléstias patológicas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O paralítico da piscina
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  21
 
 > Depois disso, havia uma festa entre os judeus, e [Jesus][q3y] subiu a Jerusalém. Ora, em Jerusalém há, próximo à Porta das Ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres. Nestes jazia grande multidão de enfermos: cegos, coxos e paralíticos, esperando o movimento das águas. Porquanto um anjo descia em certo tempo ao tanque e agitava a água; e o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse. E estava ali um homem que, havia trinta e oito anos, se achava enfermo. E [Jesus][q3y], vendo este deitado e sabendo que estava neste estado havia muito tempo, disse-lhe: Queres ficar são? O enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me coloque no tanque; mas, enquanto eu vou, desce outro antes de mim. [Jesus][q3y] disse-lhe: Levanta-te, toma tua cama e anda. Logo, aquele homem ficou são, e tomou a sua cama, e partiu. E aquele dia era sábado. 10Então, os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar a cama. Ele respondeu-lhes: Aquele que me curou, ele próprio disse: Toma a tua cama e anda. Perguntaram-lhe, pois: Quem é o homem que te disse: Toma a tua cama e anda? E o que fora curado não sabia quem era, porque [Jesus][q3y] se havia retirado, em [razão][f8m] de naquele lugar haver grande multidão. Depois, [Jesus][q3y] encontrou-o no templo e disse-lhe: Eis que já estás são; não peques mais, para que te não suceda alguma coisa pior. E aquele homem foi e anunciou aos judeus que [Jesus][q3y] era o que o curara. E, por essa causa, os judeus perseguiram [Jesus][q3y] e procuravam matá-lo, porque fazia essas coisas no sábado. E [Jesus][q3y] lhes respondeu: Meu Pai trabalha até agora, e eu trabalho também.
 >
 > João, cap. 05, vers. 01-17, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  22
 
@@ -3723,17 +6404,33 @@ Depois de haver curado aquele paralítico, disse-lhe [Jesus][q3y]: “Para o fut
 
 [^169]: N.E.: Espécie de lama, fina e inconsistente, característica de certos fundos oceânicos, constituída por carapaças microscópicas de animais ou elementos minerais.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 Jesus como que fazia questão de operar suas curas em dia de sábado, para ter ensejo de protestar contra o rigorismo dos fariseus no tocante à guarda desse dia. Queria mostrar-lhes que a verdadeira piedade não consiste na observância das práticas exteriores e das formalidades; que a piedade está nos sentimentos do coração. Justificava-se, declarando: “Meu Pai não cessa de trabalhar até ao presente e eu também trabalho incessantemente.” Quer dizer: [Deus][c5m] não interrompe suas obras, nem sua ação sobre as coisas da natureza, em dia de sábado. Ele não deixa de fazer que se produza tudo quanto é necessário à vossa alimentação e à vossa saúde; eu lhe sigo o exemplo.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Cego de nascença
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  24
 
 > E, passando [Jesus][q3y], viu um homem cego de nascença. E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego? [Jesus][q3y] respondeu: Nem ele pecou, nem seus pais; mas foi assim para que se manifestem nele as obras de [Deus][c5m]. Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar. Enquanto estou no mundo, sou a luz do mundo. Tendo dito isso, cuspiu na terra, e, com a saliva, fez lodo, e untou com o lodo os olhos do cego. E disse-lhe: Vai, lava-te no tanque de Siloé (que significa o Enviado). Foi, pois, e lavou-se, e voltou vendo. Então, os vizinhos e aqueles que dantes tinham visto que era cego diziam: Não é este aquele que estava assentado e mendigava? Uns diziam: É este. E outros: Parece-se com ele. Ele dizia: Sou eu. Diziam-lhe, pois: Como se te abriram os olhos? Ele respondeu e disse-lhes: O homem chamado [Jesus][q3y] fez lodo, e untou-me os olhos, e disse-me: Vai ao tanque de Siloé e lava-te. Então, fui, e lavei-me, e vi. Disseram-lhe, pois: Onde está ele? Respondeu: Não sei. Levaram, pois, aos fariseus o que dantes era cego. E era sábado quando [Jesus][q3y] fez o lodo e lhe abriu os olhos. Tornaram, pois, também os fariseus a perguntar-lhe como vira, e ele lhes disse: Pôs-me lodo sobre os olhos, lavei-me e vejo. Então, alguns dos fariseus diziam: Este homem não é de [Deus][c5m], pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles. Tornaram, pois, a dizer ao cego: Tu que dizes daquele que te abriu os olhos? E ele respondeu: Que é profeta. Os judeus, porém, não creram que ele tivesse sido cego e que agora visse, enquanto não chamaram os pais do que agora via. E perguntaram-lhes, dizendo: É este o vosso filho, que vós dizeis ter nascido cego? Como, pois, vê agora? Seus pais responderam e disseram-lhes: Sabemos que este é nosso filho e que nasceu cego, mas como agora vê não sabemos; ou quem lhe tenha aberto os olhos não sabemos; tem idade; perguntai-lho a ele mesmo, e ele falará por si mesmo. Seus pais disseram isso, porque temiam os judeus, porquanto já os judeus tinham resolvido que, se alguém confessasse ser ele o [Cristo][g0s], fosse expulso da sinagoga. Por isso, é que seus pais disseram: Tem idade; perguntai-lho a ele mesmo. Chamaram, pois, pela segunda vez o homem que tinha sido cego e disseram-lhe: Dá glória a [Deus][c5m]; nós sabemos que esse homem é pecador. Respondeu ele, pois, e disse: Se é pecador, não sei; uma coisa sei, e é que, havendo eu sido cego, agora vejo. E tornaram a dizer-lhe: Que te fez ele? Como te abriu os olhos? Respondeu-lhes: Já vo-lo disse e não ouvistes; para que o quereis tornar a ouvir? Quereis vós, porventura, fazer-vos também seus discípulos? Então, o injuriaram e disseram: Discípulo dele sejas tu; nós, porém, somos discípulos de Moisés. Nós bem sabemos que [Deus][c5m] falou a Moisés, mas este não sabemos de onde é. O homem respondeu e disse-lhes: Nisto, pois, está a maravilha: que vós não saibais de onde ele é e me abrisse os olhos. Ora, nós sabemos que [Deus][c5m] não ouve a pecadores; mas, se alguém é temente a [Deus][c5m] e faz a sua vontade, a esse ouve. Desde o princípio do mundo, nunca se ouviu que alguém abrisse os olhos a um cego de nascença. Se este não fosse de [Deus][c5m], nada poderia fazer. Responderam eles e disseram-lhe: Tu és nascido todo em pecados e nos ensinas a nós? E expulsaram-no.
 >
 > João, cap. 09, vers. 01-34, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  25
 
@@ -3747,13 +6444,25 @@ A pergunta dos discípulos: “Foi algum pecado deste homem que deu causa a que 
 
 Quanto ao meio empregado para a sua cura, evidentemente aquela espécie de lama feita de saliva e terra nenhuma virtude podia encerrar, a não ser pela ação do fluido curativo de que fora impregnada. É assim que as mais insignificantes substâncias, como a água, por exemplo, podem adquirir qualidades poderosas e efetivas, sob a ação do fluido espiritual ou magnético, ao qual elas servem de veículo, ou, se quiserem, de reservatório.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Numerosas curas operadas por [Jesus][q3y]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  26
 
 > E percorria [Jesus][q3y] toda a Galileia, ensinando nas suas sinagogas, e pregando o evangelho do Reino, e curando todas as enfermidades e moléstias entre o povo. E a sua fama correu por toda a Síria; e traziam-lhe todos os que padeciam acometidos de várias enfermidades e tormentos, os endemoninhados, os lunáticos e os paralíticos, e ele os curava. E seguia-o uma grande multidão da Galileia, de Decápolis, de Jerusalém, da Judeia e dalém do Jordão.
 >
 > Mateus, cap. 04, vers. 23-25, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  27
 
@@ -3763,13 +6472,25 @@ Aliviando os sofrimentos, prendia a si as criaturas pelo coração e fazia pros�
 
 Assim, quando João Batista manda, por seus discípulos, perguntar-lhe se Ele era o [Cristo][g0s], a sua resposta não foi: “Eu o sou”, como qualquer impostor houvera podido dizer. Tampouco lhes fala de prodígios, nem de coisas maravilhosas; responde-lhes simplesmente: “Ide dizer a João: os cegos veem, os doentes são curados, os surdos ouvem, o Evangelho é anunciado aos pobres.” O mesmo era que dizer: “Reconhecei-me pelas minhas obras; julgai da árvore pelo fruto”, porquanto era esse o verdadeiro caráter da sua missão divina.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  28
 
 O [Espiritismo][f4r], igualmente, pelo bem que faz é que prova a sua missão providencial. Ele cura os males físicos, mas cura, sobretudo, as doenças morais e são esses os maiores prodígios que lhe atestam a procedência. Seus mais sinceros adeptos não são os que se sentem tocados pela observação de fenômenos extraordinários, mas os que dele recebem a consolação para suas almas; os a quem liberta das torturas da dúvida; aqueles a quem levantou o ânimo na aflição, que hauriram forças na certeza, que lhes trouxe, acerca do futuro, no conhecimento do seu ser espiritual e de seus destinos. Esses os de fé inabalável, porque sentem e compreendem. 
 
 Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe podem compreender a força [moral][h4c]. Daí vem que os incrédulos, que apenas o conhecem pelos fenômenos cuja causa primária não admitem, consideram os espíritas meros prestidigitadores e charlatães. Não será, pois, por meio de prodígios que o [Espiritismo][f4r] triunfará da incredulidade será pela multiplicação dos seus benefícios morais, porquanto, se é certo que os incrédulos não admitem os prodígios, não menos certo é que conhecem, como toda gente, o sofrimento e as aflições e ninguém recusa alívio e consolação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Possessos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  29
 
@@ -3777,11 +6498,19 @@ Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe pod
 >
 > Marcos, cap. 01, vers. 21-27, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  30
 
 > E, havendo-se eles retirado, trouxeram-lhe um homem mudo e endemoninhado. E, expulso o demônio, falou o mudo; e a multidão se maravilhou, dizendo: Nunca tal se viu em Israel. Mas os fariseus diziam: Ele expulsa os demônios pelo príncipe dos demônios.
 >
 > Mateus, 09, cap. vers. 32-34, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  31
 
@@ -3789,25 +6518,45 @@ Os que no [Espiritismo][f4r] unicamente procuram efeitos materiais, não lhe pod
 >
 > Marcos, cap. 09, vers. 13-28, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  32
 
 > Trouxeram-lhe, então, um endemoninhado cego e mudo; e, de tal modo o curou, que o cego e mudo falava e via. E toda a multidão se admirava e dizia: Não é este o Filho de Davi? Mas os fariseus, ouvindo isso, diziam: Este não expulsa os demônios senão por Belzebu, príncipe dos demônios. [Jesus][q3y], porém, conhecendo os seus pensamentos, disse-lhes: Todo reino dividido contra si mesmo é devastado; e toda cidade ou casa dividida contra si mesma não subsistirá. E, se Satanás expulsa a Satanás, está dividido contra si mesmo; como subsistirá, pois, o seu reino? E, se eu expulso os demônios por Belzebu, por quem os expulsam, então, os vossos filhos? Portanto, eles mesmos serão os vossos juízes. Mas, se eu expulso os demônios pelo [Espírito][g4f] de [Deus][c5m], é conseguintemente chegado a vós o Reino de [Deus][c5m].
 >
 > Mateus, cap. 12, vers. 22-28, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  33
 
 Com as curas, as libertações de possessos figuram entre os mais numerosos atos de [Jesus][q3y]. Alguns há, entre os fatos dessa natureza, como os acima narrados, no item 30, em que a possessão não é evidente. Provavelmente, naquela época, como ainda hoje acontece, atribuía-se à influência dos demônios todas as enfermidades cuja causa se não conhecia, principalmente a mudez, a epilepsia e a catalepsia. Outros há, todavia, em que nada tem de duvidosa a ação dos maus Espíritos, casos esses que guardam com os de que somos testemunhas tão frisante analogia, que neles se reconhecem todos os sintomas de tal gênero de afecção. A prova da participação de uma [inteligência][y2h] oculta, em tal caso, ressalta de um fato material: são as múltiplas curas radicais obtidas, nalguns centros espíritas, pela só evocação e doutrinação dos Espíritos obsessores, sem magnetização, nem medicamentos e, muitas vezes, na ausência do paciente e a grande distância deste. A imensa superioridade do [Cristo][g0s] lhe dava tal autoridade sobre os Espíritos imperfeitos, chamados então demônios, que lhe bastava ordenar se retirassem para que não pudessem resistir a essa injunção. (Cap. XIV, item 46.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  34
 
 O fato de serem alguns maus Espíritos mandados meter-se em corpos de porcos é o que pode haver de menos provável. Aliás, seria difícil explicar a existência de tão numeroso rebanho de porcos num país onde esse animal era tido em horror e nenhuma utilidade oferecia para a alimentação. Um [Espírito][g4f], porque mau, não deixa de ser um [Espírito][g4f] humano, embora tão imperfeito que continue a fazer mal, depois de desencarnar, como o fazia antes, e é contra todas as leis da natureza que lhe seja possível fazer morada no corpo de um animal. No fato, pois, a que nos referimos, temos que reconhecer a existência de uma dessas ampliações tão comuns nos tempos de ignorância e de superstição; ou, então, será uma alegoria destinada a caracterizar os pendores imundos de certos Espíritos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  35
 
 Parece que, ao tempo de [Jesus][q3y], eram em grande número, na Judeia, os obsidiados e os possessos, donde a oportunidade que Ele teve de curar a muitos. Sem dúvida, os Espíritos maus haviam invadido aquele país e causado uma epidemia de possessões. (Cap. XIV, item 49.) 
 
 Sem apresentarem caráter epidêmico, as obsessões individuais são muitíssimo frequentes e se apresentam sob os mais variados aspectos que, entretanto, por um conhecimento amplo do [Espiritismo][f4r], facilmente se descobrem. Podem, não raro, trazer consequências danosas à saúde, seja agravando afecções orgânicas já existentes, seja ocasionando-as. Um dia, virão a ser, incontestavelmente, arroladas entre as causas patológicas que requerem, pela sua natureza especial, especiais meios de tratamento. Revelando a causa do mal, o [Espiritismo][f4r] rasga nova senda à arte de curar e fornece à [Ciência][h4t] meio de alcançar êxito onde até hoje quase sempre vê malogrados seus esforços, pela [razão][f8m] de não atender à primordial causa do mal. (O livro dos [médiuns][c8r], 2a Parte, cap. XXIII.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  36
 
@@ -3819,15 +6568,31 @@ Os fariseus diziam que por influência dos demônios é que [Jesus][q3y] expulsa
 
 É precisamente o argumento que os espíritas opõem aos que atribuem ao demônio os bons conselhos que os Espíritos lhes dão. O demônio agiria então como um ladrão profissional que restituísse tudo o que houvesse roubado e exortasse os outros ladrões a se tornarem pessoas honestas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Ressurreições
 
 **A filha de Jairo**
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  37
 
 E, passando [Jesus][q3y] outra vez num barco para o outro lado, ajuntou-se a ele uma grande multidão; e ele estava junto do mar. E eis que chegou um dos principais da sinagoga, por nome Jairo, e, vendo-o, prostrou-se aos seus pés e rogava-lhe muito, dizendo: Minha filha está moribunda; rogo-te que venhas e lhe imponhas as mãos para que sare e viva. E foi com ele, e seguia-o uma grande multidão, que o apertava. E certa mulher, que havia doze anos tinha um fluxo de sangue, e que havia padecido muito com muitos médicos, e despendido tudo quanto tinha, nada lhe aproveitando isso, antes indo a pior, ouvindo falar de [Jesus][q3y], veio por detrás, entre a multidão, e tocou na sua vestimenta. Porque dizia: Se tão somente tocar nas suas vestes, sararei. E logo se lhe secou a fonte do seu sangue, e sentiu no seu corpo estar já curada daquele mal. E logo [Jesus][q3y], conhecendo que a virtude de si mesmo saíra, voltou-se para a multidão e disse: Quem tocou nas minhas vestes? E disseram-lhe os seus discípulos: Vês que a multidão te aperta, e dizes: Quem me tocou? E ele olhava em redor, para ver a que isso fizera. Então, a mulher, que sabia o que lhe tinha acontecido, temendo e tremendo, aproximou-se, e prostrou-se diante dele, e disse-lhe toda a [verdade][x8k]. E ele lhe disse: Filha, a tua fé te salvou; vai em paz e sê curada deste teu mal. Estando ele ainda falando, chegaram alguns do principal da sinagoga, a quem disseram: A tua filha está morta; para que enfadas mais o Mestre? E [Jesus][q3y], tendo ouvido essas palavras, disse ao principal da sinagoga: Não temas, crê somente. E não permitiu que alguém o seguisse, a não ser Pedro, e Tiago, e João, irmão de Tiago. E, tendo chegado à casa do principal da sinagoga, viu o alvoroço e os que choravam muito e pranteavam. E, entrando, disse-lhes: Por que vos alvoroçais e chorais? A menina não está morta, mas dorme. E riam-se dele; porém ele, tendo-os feito sair, tomou consigo o pai e a mãe da menina e os que com ele estavam e entrou onde a menina estava deitada. E, tomando a mão da menina, disse-lhe: Talitá cumi, que, traduzido, é: Menina, a ti te digo: levanta-te. E logo a menina se levantou e andava, pois já tinha doze anos; e assombraram-se com grande espanto. E mandou-lhes expressamente que ninguém o soubesse; e disse que lhe dessem de comer.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O filho da viúva de Naim
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  38
 
@@ -3836,6 +6601,10 @@ E, passando [Jesus][q3y] outra vez num barco para o outro lado, ajuntou-se a ele
 > E aconteceu, pouco depois, ir ele à cidade chamada Naim, e com ele iam muitos dos seus discípulos e uma grande multidão. E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade. E, vendo-a, o Senhor moveu-se de íntima compaixão por ela e disse-lhe: Não chores. E, chegando-se, tocou o esquife (e os que o levavam pararam) e disse: Jovem, eu te digo: Levanta-te. E o defunto assentou-se e começou a falar. E entregou-o à sua mãe. E de todos se apoderou o temor, e glorificavam a [Deus][c5m], dizendo: Um grande profeta se levantou entre nós, e [Deus][c5m] visitou o seu povo. E correu dele esta fama por toda a Judeia e por toda a terra circunvizinha.
 >
 > Lucas, cap. 07, vers. 11-17, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  39
 
@@ -3849,6 +6618,10 @@ Dado o poder fluídico que Ele possuía, nada de espantoso há em que esse fluid
 
 “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o [Espírito][g4f] e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o [Espírito][g4f]. Aqueles rapazes, voltando, a encontraram morta e, levando-a, enterraram-na junto do marido.”
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  40
 
 A ressurreição de Lázaro, digam o que disserem, de nenhum modo infirma este princípio. Ele estava, dizem, havia quatro dias no sepulcro; sabe-se, porém, que há letargias que duram oito dias e até mais. Acrescentam que já cheirava mal, o que é sinal de decomposição. Esta alegação também nada prova, dado que em certos indivíduos há decomposição parcial do corpo, mesmo antes da [morte][q4x], havendo em tal caso cheiro de podridão. A [morte][q4x] só se verifica quando são atacados os órgãos essenciais à [vida][r4f]. 
@@ -3857,7 +6630,15 @@ E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o diss
 
 [^172]: A.K.: O fato seguinte prova que a decomposição precede algumas vezes a [morte][q4x]. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### [Jesus][q3y] caminha sobre a água
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  41
 
@@ -3866,6 +6647,10 @@ E quem podia saber que Lázaro já cheirava mal? Foi sua irmã Maria quem o diss
 > Mateus, cap. 14, vers. 22-33, ARC
 
 [^173]: A.K.: O lago de Genesaré ou de Tiberíades.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  42
 
@@ -3877,7 +6662,15 @@ Jesus, embora estivesse vivo, pôde aparecer sobre a água, com uma forma tangí
 
 Por outro lado, também pode ter sucedido que seu corpo fosse sustentado e neutralizada a sua gravidade pela mesma força fluídica que mantém no espaço uma mesa, sem ponto de apoio. Idêntico efeito se produz muitas vezes com os corpos humanos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Transfiguração
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  43
 
@@ -3887,13 +6680,25 @@ Por outro lado, também pode ter sucedido que seu corpo fosse sustentado e neutr
 
 [^174]: A.K.: O Monte Tabor, a sudoeste do lago de Tabarich e a 11 quilômetros a sudeste de Nazaré, com cerca de 1.000 metros de altura.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  44
 
 É ainda nas propriedades do fluido perispirítico que se encontra a explicação deste fenômeno. A transfiguração, explicada no cap. XIV, item 39, é um fato muito comum que, em virtude da irradiação fluídica, pode modificar a aparência de um indivíduo; mas, a pureza do perispírito de [Jesus][q3y] permitiu que seu [Espírito][g4f] lhe desse excepcional fulgor. Quanto à aparição de Moisés e Elias cabe inteiramente no rol de todos os fenômenos do mesmo gênero. (Cap. XIV, itens 35 e seguintes.) 
 
 De todas faculdades que [Jesus][q3y] revelou, nenhuma se pode apontar estranha às condições da humanidade e que se não encontre comumente nos homens, porque estão todas na ordem da natureza. Pela superioridade, porém, da sua essência [moral][h4c] e de suas qualidades fluídicas, aquelas faculdades atingiam nele proporções muito acima das que são vulgares. Posto de lado o seu envoltório carnal, Ele nos patenteava o estado dos puros Espíritos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Tempestade aplacada
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  45
 
@@ -3901,13 +6706,25 @@ De todas faculdades que [Jesus][q3y] revelou, nenhuma se pode apontar estranha �
 >
 > Lucas, cap. 08, vers. 22-25, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  46
 
 Ainda não conhecemos bastante os segredos da natureza para dizer se há ou não inteligências ocultas presidindo à ação dos elementos. Na hipótese de haver, o fenômeno em questão poderia ter resultado de um ato de autoridade sobre essas inteligências e provaria um poder que a nenhum homem é dado exercer. 
 
 Como quer que seja, o fato de estar [Jesus][q3y] a dormir tranquilamente, durante a tempestade, atesta de sua parte uma segurança que se pode explicar pela circunstância de que seu [Espírito][g4f] via não haver perigo nenhum e que a tempestade ia amainar.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Bodas de Caná
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  47
 
@@ -3919,7 +6736,15 @@ Se bem que, a rigor, o fato se possa explicar, até certo ponto, por uma ação 
 
 Entre duas hipóteses, deve-se preferir a mais racional e os espíritas não são tão crédulos que por toda parte vejam manifestações, nem tão absolutos em suas opiniões, que pretendam explicar tudo por meio dos fluidos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Multiplicação dos pães
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  48
 
@@ -3935,7 +6760,15 @@ Desse modo, a par do sentido [moral][h4c] alegórico, produziu-se um efeito fisi
 
 Esta explicação, aliás, o próprio [Jesus][q3y] a confirmou nas duas passagens seguintes:
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O fermento dos fariseus
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  49
 
@@ -3943,11 +6776,23 @@ Esta explicação, aliás, o próprio [Jesus][q3y] a confirmou nas duas passagen
 >
 > Mateus, cap. 16, vers. 05-12, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### O pão do céu
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  50
 
 No dia seguinte, a multidão que estava do outro lado do mar, vendo que não havia ali mais do que um barquinho e que [Jesus][q3y] não entrara com seus discípulos naquele barquinho, mas que os seus discípulos tinham ido sós (contudo, outros barquinhos tinham chegado de Tiberíades, perto do lugar onde comeram o pão, havendo o Senhor dado graças); vendo, pois, a multidão que [Jesus][q3y] não estava ali, nem os seus discípulos, entraram eles também nos barcos e foram a Cafarnaum, em busca de [Jesus][q3y]. E, achando-o no outro lado do mar, disseram-lhe: Rabi, quando chegaste aqui? [Jesus][q3y] respondeu e disse-lhes: Na [verdade][x8k], na [verdade][x8k] vos digo que me buscais não pelos sinais que vistes, mas porque comestes do pão e vos saciastes. Trabalhai não pela comida que perece, mas pela comida que permanece para a [vida][r4f] eterna, a qual o Filho do Homem vos dará, porque a este o Pai, [Deus][c5m], o selou. Disseram-lhe, pois: Que faremos para executarmos as obras de [Deus][c5m]? [Jesus][q3y] respondeu e disse-lhes: A obra de [Deus][c5m] é esta: que creiais naquele que ele enviou. Disseram-lhe, pois: Que sinal, pois, fazes tu, para que o vejamos, e creiamos em ti? Que operas tu? Nossos pais comeram o maná no deserto, como está escrito: Deu-lhes a comer o pão do céu. Disse-lhes, pois, [Jesus][q3y]: Na [verdade][x8k], na [verdade][x8k] vos digo que Moisés não vos deu o pão do céu, mas meu Pai vos dá o verdadeiro pão do céu. Porque o pão de [Deus][c5m] é aquele que desce do céu e dá [vida][r4f] ao mundo. Disseram-lhe, pois: Senhor, dá-nos sempre desse pão. E [Jesus][q3y] lhes disse: Eu sou o pão da [vida][r4f]; aquele que vem a mim não terá fome; e quem crê em mim nunca terá sede. Mas já vos disse que também vós me vistes e, contudo, não credes.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  51
 
@@ -3957,13 +6802,25 @@ Na primeira passagem, lembrando o fato precedentemente operado, [Jesus][q3y] dá
 
 Tais distinções, porém, eram por demais sutis para aquelas naturezas rudes, que somente compreendiam as coisas tangíveis. Para eles, o maná, que alimentara o corpo de seus antepassados, era o verdadeiro pão do céu; aí é que estava o milagre. Se, portanto, houvesse ocorrido materialmente o fato da multiplicação dos pães, como teria Ele impressionado tão fracamente aqueles mesmos homens, a cujo benefício essa multiplicação se operara poucos dias antes, ao ponto de perguntarem a [Jesus][q3y]: “Que milagre farás para que, vendo-o, te creiamos? Que farás de extraordinário?” Eles entendiam por milagres os prodígios que os fariseus pediam, isto é, sinais que aparecessem no céu por ordem de [Jesus][q3y], como pela varinha de um mágico. Ora, o que [Jesus][q3y] fazia era extremamente simples e não se afastava das leis da natureza; as próprias curas não revelavam caráter muito singular, nem muito extraordinário. Para eles, os milagres espirituais não apresentavam grande vulto.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Tentação de [Jesus][q3y]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  52
 
 Jesus, transportado pelo diabo ao pináculo do Templo, depois ao cume de uma montanha e por ele tentado, constitui uma daquelas parábolas que lhe eram familiares e que a credulidade pública transformou em fatos materiais. [^175]
 
 [^175]: A.K.: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um [Espírito][g4f].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  53
 
@@ -3975,13 +6832,25 @@ Jesus, transportado pelo diabo ao pináculo do Templo, depois ao cume de uma mon
 
 “Pesai bem os ensinamentos que os Evangelhos contêm; sabei distinguir o que ali está em sentido próprio, ou em sentido figurado, e os erros que vos hão cegado durante tanto tempo se apagarão pouco a pouco, cedendo lugar à brilhante luz da Verdade.” — João Evangelista, Bordeaux, 1862.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Prodígios por ocasião da [morte][q4x] de [Jesus][q3y]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  54
 
 >
 >
 > Mateus, cap. 27, vers. 45, 51-53, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  55
 
@@ -3999,7 +6868,15 @@ Jesus é grande pelas suas obras e não pelos quadros fantásticos de que um ent
 
 [^176]: A.K.: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Aparição de [Jesus][q3y] após sua [morte][q4x]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  56
 
@@ -4007,11 +6884,19 @@ Jesus é grande pelas suas obras e não pelos quadros fantásticos de que um ent
 >
 > João, cap. 20, vers. 11-18, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  57
 
 >
 >
 > Lucas, cap. 24, vers. 13-49, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  58
 
@@ -4019,11 +6904,19 @@ Jesus é grande pelas suas obras e não pelos quadros fantásticos de que um ent
 >
 > João, cap. 20, vers. 24-29, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  59
 
 >
 >
 > João, cap. 21, vers. 01-08, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  60
 
@@ -4031,11 +6924,19 @@ Jesus é grande pelas suas obras e não pelos quadros fantásticos de que um ent
 >
 > Lucas, cap. 24, vers. 50-53, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  61
 
 Todos os evangelistas narram as aparições de [Jesus][q3y], após sua [morte][q4x], com circunstanciados pormenores que não permitem se duvide da realidade do fato. Elas, aliás, se explicam perfeitamente pelas leis fluídicas e pelas propriedades do perispírito e nada de anômalo apresentam em face dos fenômenos do mesmo gênero, cuja história, antiga e contemporânea, oferece numerosos exemplos, sem lhes faltar sequer a tangibilidade. Se notarmos as circunstâncias em que se deram as suas diversas aparições, nele reconheceremos, em tais ocasiões, todos os caracteres de um ser fluídico. Aparece inopinadamente e do mesmo modo desaparece; uns o veem, outros não, sob aparências que não o tornam reconhecível nem sequer aos seus discípulos; mostra-se em recintos fechados, onde um corpo carnal não poderia penetrar; sua própria linguagem carece da vivacidade da de um ser corpóreo; fala em tom breve e sentencioso, peculiar aos Espíritos que se manifestam daquela maneira; todas as suas atitudes, numa palavra, denotam alguma coisa que não é do mundo terreno. Sua presença causa simultaneamente surpresa e medo; ao vê-lo, seus discípulos não lhe falam com a mesma liberdade de antes; sentem que já não é um homem.
 
 Jesus, portanto, se mostrou com o seu corpo perispirítico, o que explica que só tenha sido visto pelos que Ele quis que o vissem. Se estivesse com o seu corpo carnal, todos o veriam, como quando estava vivo. Ignorando a causa originária do fenômeno das aparições, seus discípulos não se apercebiam dessas particularidades, a que, provavelmente, não davam atenção. Desde que viam o Senhor e o tocavam, haviam de achar que aquele era o seu corpo ressuscitado. (Cap. XIV, itens 14 e 35 a 38.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  62
 
@@ -4043,13 +6944,25 @@ Ao passo que a incredulidade rejeita todos os fatos que [Jesus][q3y] produziu, p
 
 [^178]: A.K.: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  63
 
 O maior milagre que [Jesus][q3y] operou, o que verdadeiramente atesta a sua superioridade, foi a revolução que seus ensinos produziram no mundo, malgrado a exiguidade dos seus meios de ação.
 
 Com efeito, [Jesus][q3y], obscuro, pobre, nascido na mais humilde condição, no seio de um povo pequenino, quase ignorado e sem preponderância política, artística ou literária, apenas durante três anos prega a sua doutrina; em todo esse curto espaço de tempo é desatendido e perseguido pelos seus concidadãos; vê-se obrigado a fugir para não ser lapidado; é traído por um de seus apóstolos, renegado por outro, abandonado por todos no momento em que cai nas mãos de seus inimigos. Só fazia o bem e isso não o punha ao abrigo da malevolência, que dos próprios serviços que Ele prestava tirava motivos para o acusar. Condenado ao suplício que só aos criminosos era infligido, morre ignorado do mundo, visto que a História daquela época nada diz a seu respeito.179 Nada escreveu; entretanto, ajudado por alguns homens tão obscuros quanto Ele, sua palavra bastou para regenerar o mundo; sua doutrina matou o paganismo onipotente e se tornou o facho da [civilização][t2q]. Tinha contra si tudo o que causa o malogro das obras dos homens, [razão][f8m] por que dizemos que o triunfo alcançado pela sua doutrina foi o maior dos seus milagres, ao mesmo tempo que prova ser divina a sua missão. Se, em vez de princípios sociais e regeneradores, fundados sobre o futuro espiritual do homem, Ele apenas houvesse legado à posteridade alguns fatos maravilhosos, talvez hoje mal o conhecessem de nome.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Desaparecimento do corpo de [Jesus][q3y]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  64
 
@@ -4058,6 +6971,10 @@ O desaparecimento do corpo de [Jesus][q3y] após sua [morte][q4x] há sido objet
 Segundo outra opinião, [Jesus][q3y] não teria tido um corpo carnal, mas apenas um corpo fluídico; não teria sido, em toda a sua [vida][r4f], mais do que uma aparição tangível; numa palavra: uma espécie de agênere. Seu nascimento, sua [morte][q4x] e todos os atos materiais de sua [vida][r4f] teriam sido apenas aparentes. Assim foi que, dizem, seu corpo, voltado ao estado fluídico, pôde desaparecer do sepulcro e com esse mesmo corpo é que Ele se teria mostrado depois de sua [morte][q4x].
 
 É fora de dúvida que semelhante fato não se pode considerar radicalmente impossível, dentro do que hoje se sabe acerca das propriedades dos fluidos; mas, seria, pelo menos, inteiramente excepcional e em formal oposição ao caráter dos agêneres. (Cap. XIV, item 36.) Trata-se, pois, de saber se tal hipótese é admissível, se os fatos a confirmam ou contradizem.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  65
 
@@ -4069,6 +6986,10 @@ Após o suplício de [Jesus][q3y], seu corpo se conservou inerte e sem [vida][r4
 
 Por virtude das suas propriedades materiais, o corpo carnal é a sede das sensações e das dores físicas, que repercutem no centro sensitivo ou [Espírito][g4f]. Quem sofre não é o corpo, é o [Espírito][g4f] recebendo o contragolpe das lesões ou alterações dos tecidos orgânicos. Num corpo sem [Espírito][g4f], absolutamente nula é a sensação. Pela mesma [razão][f8m], o [Espírito][g4f], sem corpo material, não pode experimentar os sofrimentos, visto que estes resultam da alteração da matéria, donde também forçoso é se conclua que, se [Jesus][q3y] sofreu materialmente, do que não se pode duvidar, é que Ele tinha um corpo material de natureza semelhante ao de toda gente.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  66
 
 Aos fatos materiais juntam-se fortíssimas considerações morais.
@@ -4079,15 +7000,31 @@ Jesus, pois, teve, como todo homem, um corpo carnal e um corpo fluídico, o que 
 
 [^182]: N.E.: Diante das comunicações e dos fenômenos surgidos após a partida de Kardec, concluiu-se que não houve realmente vão simulacro, como igualmente não houve simulacro de [Jesus][q3y], após a sua [morte][q4x], ao pronunciar as palavras que foram registradas por Lucas, 24:39: — “Sou eu mesmo, apalpaime e vede, porque um [Espírito][g4f] não tem carne nem osso, como vedes que eu tenho.”
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  67
 
 Não é nova essa ideia sobre a natureza do corpo de [Jesus][q3y]. No quarto século, Apolinário, de Laodiceia, chefe da seita dos apolinaristas, pretendia que [Jesus][q3y] não tomara um corpo como o nosso, mas um corpo impassível, que descera do céu ao seio da santa virgem e que não nascera dela; que, assim, [Jesus][q3y] não nascera, não sofrera e não morrera, senão em aparência. Os apolinaristas foram anatematizados no concílio de Alexandria, em 360; no de Roma, em 374; e no de Constantinopla, em 381. Tinham a mesma crença os docetas (do grego dokéō, aparecer), seita numerosa dos Gnósticos, que subsistiu durante os três primeiros séculos. [^183]
 
 [^183]: N.E.: Não somente foram anatematizados os apolinaristas, mas também os reencarnacionistas e os que se põem em comunicação com os mortos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ## 3. 🗃️ As Predições {#gen-3}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 3-16. 🗂️ Teoria da presciência {#gen-3-16}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
@@ -4095,9 +7032,17 @@ Como é possível o conhecimento do futuro? Compreende-se a possibilidade da pre
 
 Tomemos, para comparação, um exemplo nas coisas usuais. Ele nos ajudará a compreender o princípio que teremos de desenvolver.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  02
 
 Suponhamos um homem colocado no cume de uma alta montanha, a observar a vasta extensão da planície em derredor. Nessa situação, o espaço de uma légua pouca coisa será para ele, que poderá facilmente apanhar, de um golpe de vista, todos os acidentes do terreno, de um extremo a outro da estrada que lhe esteja diante dos olhos. O viajor, que pela primeira vez percorra essa estrada, sabe que, caminhando, chegará ao fim dela. Constitui isso uma simples previsão da consequência que terá a sua marcha. Entretanto, os acidentes do terreno, as subidas e descidas, os cursos de água que terá de transpor, os bosques que haja de atravessar, os precipícios em que poderá cair, as casas hospitaleiras onde lhe será possível repousar, os ladrões que o espreitem para roubá-lo, tudo isso independe da sua pessoa; é para ele o desconhecido, o futuro, porque a sua vista não vai além da pequena área que o cerca. Quanto à duração, mede-a pelo tempo que gasta em perlustrar o caminho. Tirai-lhe os pontos de referência e a duração desaparecerá. Para o homem que está em cima da montanha e que o acompanha com o olhar, tudo aquilo está presente. Suponhamos que esse homem desce do seu ponto de observação e, indo ao encontro do viajante, lhe diz: “Em tal momento, encontrarás tal coisa, serás atacado e socorrido.” Estará predizendo o futuro, mas, futuro para o viajante, não para ele, autor da previsão, pois que, para ele, esse futuro é presente.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
@@ -4107,15 +7052,27 @@ Bem se compreende, pois, que, de conformidade com o grau de sua perfeição, pos
 
 Se tal faculdade, mesmo restrita, se pode contar entre os atributos da criatura, em que grau de potencialidade não existirá no Criador, que abrange o infinito? Para o Criador, o tempo não existe: o princípio e o fim dos mundos lhe são o presente. Dentro desse panorama imenso, que é a duração da [vida][r4f] de um homem, de uma geração, de um povo?
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 Entretanto, como o homem tem de concorrer para o progresso geral, como certos acontecimentos devem resultar da sua cooperação, pode convir que, em casos especiais, ele pressinta esses acontecimentos, a fim de lhes preparar o encaminhamento e de estar pronto a agir, em chegando a ocasião. Por isso é que [Deus][c5m], às vezes, permite se levante uma ponta do véu; mas, sempre com fim útil, nunca para satisfação de vã curiosidade. Tal missão pode, pois, ser conferida, não a todos os Espíritos, porquanto muitos há que do futuro não conhecem mais do que os homens, porém a alguns Espíritos bastante adiantados para desempenhá-la. Ora, é de notar-se que as revelações dessa espécie são sempre feitas espontaneamente e jamais, ou, pelo menos, muito raramente, em resposta a uma pergunta direta.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
 Pode também semelhante missão ser confiada a certos homens, desta maneira:
 
 Aquele a quem é dado o encargo de revelar uma coisa oculta recebe, à sua revelia e por inspiração dos Espíritos que a conhecem, a revelação dela e a transmite maquinalmente, sem se aperceber do que faz. É sabido, ao demais, que, assim durante o sono, como em estado de vigília, nos êxtases da dupla vista, a [alma][q3f] se desprende e adquire, em grau mais ou menos alto, as faculdades do [Espírito][g4f] livre. Se for um [Espírito][g4f] adiantado, se, sobretudo, houver recebido, como os profetas, uma missão especial para esse efeito, gozará, nos momentos de emancipação da [alma][q3f], da faculdade de abarcar, por si mesmo, um período mais ou menos extenso, e verá, como presente, os sucessos desse período. Pode então revelá-los no mesmo instante, ou conservar lembrança deles ao despertar. Se os sucessos hajam de permanecer secretos, ele os esquecerá, ou apenas guardará uma vaga intuição do que lhe foi revelado, bastante para o guiar instintivamente.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  06
 
@@ -4125,9 +7082,17 @@ Nada, pois, tem de sobrenatural o dom da predição, mais do que uma imensidade 
 
 A teoria da presciência talvez não resolva de modo absoluto todos os casos que se possam apresentar de revelação do futuro, mas não se pode deixar de convir em que lhe estabelece o princípio fundamental.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  07
 
 Muitas vezes, as pessoas dotadas da faculdade de prever, seja no estado de êxtase, seja no de sonambulismo, veem os acontecimentos como que desenhados num quadro, o que também se poderia explicar pela fotografia do pensamento. Atravessando o pensamento o espaço, como os sons atravessam o ar, um sucesso que esteja no dos Espíritos que trabalham para que ele se dê, ou no dos homens cujos atos devam provocá-lo, pode formar uma imagem para o vidente; mas, como a sua realização pode ser apressada ou retardada por um concurso de circunstâncias, este último vê o fato, sem poder, todavia, determinar o momento em que se dará. Não raro acontece que aquele pensamento não passa de um projeto, de um desejo, que se não concretizem em realidade, donde os frequentes erros de fato e de data nas previsões. (Cap. XIV, itens13 e seguintes.)
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  08
 
@@ -4137,15 +7102,27 @@ Tal faculdade lhes é inerente ao estado de espiritualização, ou, se o preferi
 
 Para, portanto, gozar dessa percepção, não precisa o [Espírito][g4f] transportar-se a um ponto qualquer do espaço. Pode possuí-la em toda a sua plenitude aquele que na Terra se acha ao nosso lado, tanto quanto se achasse a mil léguas de distância, ao passo que nós nada vemos além do nosso horizonte visual. Não se operando a visão, nos Espíritos, do mesmo modo, nem com os mesmos elementos que no homem, muito diverso é o horizonte visual dos primeiros. Ora, é precisamente esse o sentido que nos falece para o concebermos. O [Espírito][g4f], ao lado do encarnado, é como o vidente ao lado do cego.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  09
 
 Devemos, além disso, ponderar que essa percepção não se limita ao que diz respeito à extensão; que ela abrange a penetração de todas as coisas. É, repetimo-lo, uma faculdade inerente e proporcionada ao estado de desmaterialização. A encarnação amortece-a, sem, contudo, a anular completamente, porque a [alma][q3f] não fica encerrada no corpo como numa caixa. O encarnado a possui, embora sempre em grau menor do que quando se acha completamente desprendido; é o que confere a certos homens um poder de penetração que a outros falece inteiramente; maior agudeza de visão [moral][h4c]; compreensão mais fácil das coisas extramateriais.
 
 O [Espírito][g4f] encarnado não somente percebe, como também se lembra do que viu no estado de [Espírito][g4f] livre e essa lembrança é como um quadro que se lhe desenha na mente. Na encarnação, ele vê, mas vagamente, como através de um véu; no estado de liberdade, vê e concebe claramente. O princípio da visão não lhe é exterior, está nele; essa a [razão][f8m] por que não precisa da luz exterior. Por efeito do desenvolvimento [moral][h4c], alarga-se o círculo das ideias e da concepção; por efeito da desmaterialização gradual do perispírito, este se purifica dos elementos grosseiros que lhe alteravam a delicadeza das percepções, o que torna fácil compreender-se que a ampliação de todas as faculdades acompanha o progresso do [Espírito][g4f].
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  10
 
 O grau da extensão das faculdades do [Espírito][g4f] é que, na encarnação, o torna mais ou menos apto a conceber as coisas espirituais. Essa aptidão, todavia, não é corolário forçoso do desenvolvimento da [inteligência][y2h]; a [ciência][h4t] vulgar não a dá, tanto assim que há homens de grande saber tão cegos para as coisas espirituais, quanto outros o são para as coisas materiais; são-lhes refratários, porque não as compreendem, o que significa que ainda não progrediram em tal sentido, ao passo que outros, de instrução e [inteligência][y2h] vulgares, as aprendem com a maior facilidade, o que prova que já tinham de tais coisas uma intuição prévia. É, para estes, uma lembrança retrospectiva do que viram e souberam, quer na erraticidade, quer em suas existências anteriores, como alguns têm a intuição das línguas e das ciências de que já foram conhecedores.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  11
 
@@ -4153,17 +7130,33 @@ Quanto ao futuro do [Espiritismo][f4r], os Espíritos, como se sabe, são unâni
 
 Transportem-se os espíritas, embora sem serem Espíritos desencarnados, a trinta anos apenas para diante, ao seio da geração que surge; daí considerem o que se passa hoje com o [Espiritismo][f4r]; acompanhem-lhe a marcha progressiva e verão consumir-se em vãos esforços os que se creem destinados a derrocá-lo. Verão que esses tais pouco a pouco desaparecem de cena e que, paralelamente, a árvore cresce e alonga cada dia mais as suas raízes.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  12
 
 As mais das vezes, os acontecimentos vulgares da [vida][r4f] privada são consequência da maneira de proceder de cada um: este, de acordo com as suas capacidades, com a sua habilidade, com a sua perseverança, prudência e energia, terá êxito naquilo em que outro verá malogrados todos os seus esforços, por efeito da sua inaptidão, de sorte que se pode dizer que cada um é o artífice do seu próprio futuro, futuro que jamais se encontra sujeito a uma cega fatalidade, independente da sua personalidade. Conhecendo-se o caráter de um indivíduo, facilmente se lhe pode predizer a sorte que o espera no caminho por onde haja ele enveredado.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  13
 
 Os acontecimentos que envolvem interesses gerais da humanidade têm a regulá-los a Providência. Quando uma coisa está nos desígnios de [Deus][c5m], ela se cumpre a despeito de tudo, ou por um meio, ou por outro. Os homens concorrem para que ela se execute; nenhum, porém, é indispensável, pois, do contrário, o próprio [Deus][c5m] estaria à mercê das suas criaturas. Se faltar aquele a quem incumba a missão de a executar, outro será dela encarregado. Não há missão fatal; o homem tem sempre a liberdade de cumprir ou não a que lhe foi confiada e que ele voluntariamente aceitou. Se não o faz, perde os benefícios que daí lhe resultariam e assume a responsabilidade dos atrasos que possam resultar da sua negligência ou da sua má vontade. Se se tornar um obstáculo a que ela se cumpra, está em [Deus][c5m] afastá-lo com um sopro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  14
 
 Pode, portanto, ser certo o resultado final de um acontecimento, por se achar este nos desígnios de [Deus][c5m]; como, porém, quase sempre, os pormenores e o modo de execução se encontram subordinados às circunstâncias e ao livre-arbítrio dos homens, podem ser eventuais as sendas e os meios. Está nas possibilidades dos Espíritos prevenir-nos do conjunto, se convier que sejamos avisados; mas, para determinarem lugar e data, fora mister conhecessem previamente a decisão que tomará este ou aquele indivíduo. Ora, se essa decisão ainda não lhe estiver na mente, poderá, tal venha ela a ser, apressar ou demorar a realização do fato, modificar os meios secundários de ação, embora o mesmo resultado chegue sempre a produzir-se. É assim, por exemplo, que, pelo conjunto das circunstâncias, podem os Espíritos prever que uma guerra se acha mais ou menos próxima, que é inevitável, sem, contudo, poderem predizer o dia em que começará, nem os incidentes pormenorizados que possam ser modificados pela vontade dos homens.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
@@ -4173,11 +7166,19 @@ O tempo, como o espaço, não pode ser avaliado senão com o auxílio de pontos 
 
 Há, pois, para cada mundo, um modo diferente de computar-se a duração, de acordo com a natureza das revoluções astrais que nele se efetuam. Já haverá aí uma dificuldade para que Espíritos que não conheçam o nosso mundo determinem datas com relação a nós. Além disso, fora dos mundos, não existem tais meios de apreciação. Para um [Espírito][g4f], no espaço, não há levantar nem pôr de sol a marcar os dias, nem revolução periódica a marcar os anos; só há, para ele, a duração e o espaço infinitos. (Cap. VI, itens 1 e seguintes.) Aquele, portanto, que jamais houvesse vindo à Terra nenhum conhecimento possuiria dos nossos cálculos que, aliás, lhe seriam completamente inúteis. Mais ainda: aquele que jamais houvesse encarnado em nenhum mundo, nenhuma noção teria das frações da duração. Quando um [Espírito][g4f] estranho à Terra vem aqui manifestar-se, não pode assinar datas aos acontecimentos, senão identificando-se com os nossos usos; ora, isso sem dúvida lhe é possível, porém, as mais das vezes, ele nenhuma utilidade descobre nessa identificação.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 Os Espíritos, que formam a população invisível do nosso globo, onde eles já viveram e onde continuam a imiscuir-se na nossa [vida][r4f], estão naturalmente identificados com os nossos hábitos, cuja lembrança conservam na erraticidade. Poderão, por conseguinte, com maior facilidade, determinar datas aos acontecimentos futuros, desde que os conheçam; mas, além de que isso nem sempre lhes é permitido, eles se veem impedidos pela [razão][f8m] de que, sempre que as circunstâncias de minúcias estão subordinadas ao livre-arbítrio e à decisão eventual do homem, nenhuma data precisa existe realmente, senão depois que o acontecimento se tenha dado.
 
 Eis aí por que as predições circunstanciadas não podem apresentar cunho de certeza e somente como prováveis devem ser acolhidas, mesmo que não tragam eiva que as torne legitimamente suspeitas. Por isso mesmo, os Espíritos verdadeiramente ponderados nada nunca predizem para épocas determinadas, limitando-se a prevenir-nos do seguimento das coisas que convenha conheçamos. Insistir por obter informes precisos é expor-se às mistificações dos Espíritos levianos que predizem tudo o que se queira, sem se preocuparem com a [verdade][x8k], divertindo-se com os terrores e as decepções que causem.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
@@ -4187,19 +7188,35 @@ Seja como for, não se pode deixar de convir em que algumas apresentam caráter 
 
 Hoje, as circunstâncias são outras; o positivismo do século dar-se-ia mal com a linguagem sibilina. Daí vem que presentemente as predições já não se revestem dessas formas singulares; nada têm de místicas as que os Espíritos fazem; eles usam a linguagem de toda gente, como o teriam feito quando vivos na Terra, porque não deixaram de pertencer à humanidade. Avisam-nos das coisas futuras, pessoais ou gerais, quando necessário, na medida da perspicácia de que são dotados, como o fariam conselheiros e amigos. Suas previsões, pois, são antes advertências, do que predições propriamente ditas, as quais implicariam numa fatalidade absoluta. Além disso, quase sempre motivam a opinião que manifestam, por não quererem que o homem anule a sua [razão][f8m] sob uma fé cega e desejarem que este último lhe aprecie a exatidão.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  18
 
 A humanidade contemporânea também conta seus profetas. Mais de um escritor, poeta, literato, historiador ou filósofo hão traçado, em seus escritos, a marcha futura de acontecimentos a cuja realização agora assistimos.
 
 Essa aptidão, sem dúvida, decorre, muitas vezes, da retidão do juízo, no deduzir as consequências lógicas do presente; mas, doutras vezes, também resulta de uma especial clarividência inconsciente, ou de uma inspiração vinda do exterior. O que tais homens fizeram quando vivos, podem, com [razão][f8m] mais forte e maior exatidão, fazer no estado de Espíritos livres, quando não têm a visão espiritual obscurecida pela matéria.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 3-17. 🗂️ Predições do Evangelho {#gen-3-17}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  01
 
 >
 >
 > Mateus, cap. 13, vers. 54-58, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  02
 
@@ -4219,7 +7236,15 @@ Pode-se fazer ideia dos sentimentos que para com Ele nutriam os que lhe eram apa
 
 Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo demônio; de outro, era tachado de louco pelos seus parentes mais próximos. Não é o que se dá em nossos dias com relação aos espíritas? E deverão estes queixar-se de que os seus concidadãos não os tratem melhor do que os de [Jesus][q3y] o tratavam? O que há de estranhável é que, no século XIX e no seio de nações civilizadas, se dê o que, há dois mil anos, nada tinha de espantoso, por parte de um povo ignorante.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Morte e paixão de [Jesus][q3y]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  03
 
@@ -4227,11 +7252,19 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Lucas, cap. 9, vers. 44-45, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  04
 
 >
 >
 > Mateus, cap. 16, vers. 21, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  05
 
@@ -4239,11 +7272,19 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Mateus, cap. 17, vers. 21-22, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  06
 
 >
 >
 > Mateus, cap. 20, vers. 17-19, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  07
 
@@ -4251,11 +7292,19 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Lucas, cap. 18, vers. 31-34, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  08
 
 >
 >
 > Mateus, cap. 26, vers. 01-05, ARC
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  09
 
@@ -4263,7 +7312,15 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Lucas, cap. 13, vers. 31-32, ARC
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Perseguição aos apóstolos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  10
 
@@ -4271,11 +7328,19 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Mateus, 10:17 e 18
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  11
 
 >
 >
 > João, 16:1 a 4
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  12
 
@@ -4283,14 +7348,25 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Lucas, 21:16 a 19
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  13
 
 >
 >
 > João, 21:18 e 19
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ##### Cidades impenitentes
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  14
 
@@ -4298,7 +7374,15 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Mateus, 11:20 a 24
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Ruína do Templo e de Jerusalém
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  15
 
@@ -4306,11 +7390,19 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Mateus, 24:1 e 2
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  16
 
 >
 >
 > Lucas, 19:41 a 44
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  17
 
@@ -4318,11 +7410,19 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Lucas, 13:33 a 35
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  18
 
 >
 >
 > Lucas, 21:20 a 24
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  19
 
@@ -4330,15 +7430,31 @@ Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo dem�
 >
 > Lucas, 23:27 a 31
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  20
 
 A faculdade de pressentir as coisas porvindouras é um dos atributos da [alma][q3f] e se explica pela teoria da presciência. [Jesus][q3y] a possuía, como todos os outros, em grau eminente. Pôde, portanto, prever os acontecimentos que se seguiriam à sua [morte][q4x], sem que nesse fato algo haja de sobrenatural, pois que o vemos reproduzir-se aos nossos olhos, nas mais vulgares condições. Não é raro que indivíduos anunciem com precisão o instante em que morrerão; é que a [alma][q3f] deles, no estado de desprendimento, está como o homem da montanha (cap. XVI, item 1): abarca a estrada a ser percorrida e lhe vê o termo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  21
 
 Tanto mais assim havia de dar-se com [Jesus][q3y], quanto, tendo [consciência][h7z] da missão que viera desempenhar, sabia que a [morte][q4x] no suplício forçosamente lhe seria a consequência. A visão espiritual, permanente nele, assim como a penetração do pensamento, haviam de mostrar-lhe as circunstâncias e a época fatal. Pela mesma [razão][f8m] podia prever a ruína do Templo, a de Jerusalém, as desgraças que se iam abater sobre seus habitantes e a dispersão dos judeus.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Maldição contra os fariseus
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  22
 
@@ -4346,13 +7462,25 @@ Tanto mais assim havia de dar-se com [Jesus][q3y], quanto, tendo [consciência][
 >
 > Mateus, 3:7 a 10
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  23
 
 >
 >
 > Mateus, 23:13 a 36
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Minhas palavras não passarão
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  24
 
@@ -4360,11 +7488,19 @@ Tanto mais assim havia de dar-se com [Jesus][q3y], quanto, tendo [consciência][
 >
 > Mateus, 15:12 a 14
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  25
 
 >
 >
 > Mateus, 24:35
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  26
 
@@ -4381,7 +7517,15 @@ O que não passará é o verdadeiro sentido das palavras de [Jesus][q3y]; o que 
 
 Tendo por missão transmitir aos homens o pensamento de [Deus][c5m], somente a sua doutrina, em toda a pureza, pode exprimir esse pensamento. Por isso foi que Ele disse: Toda planta que meu Pai celestial não plantou será arrancada.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A pedra angular
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 27
 
@@ -4389,18 +7533,33 @@ Tendo por missão transmitir aos homens o pensamento de [Deus][c5m], somente a s
 >
 > Mateus, 21:42 a 46
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 28
 
 A palavra de [Jesus][q3y] se tornou a pedra angular, isto é, a pedra de consolidação do novo edifício da fé, erguido sobre as ruínas do antigo. Havendo os judeus, os príncipes dos sacerdotes e os fariseus rejeitado essa pedra, ela os esmagou, do mesmo modo que esmagará os que, depois, a desconheceram, ou lhe desfiguraram o sentido em prol de suas ambições.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Parábola dos vinhateiros homicidas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 29
 
 >
 >
 > Mateus, 21:33 a 41
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 30
 
@@ -4416,13 +7575,25 @@ Que fizeram das suas máximas de [caridade][c5q], de [amor][c7p] e de tolerânci
 
 Que diria o [Cristo][g0s], se viesse hoje entre nós? Se visse os que se dizem seus representantes a ambicionar as honras, as riquezas, o poder e o fausto dos príncipes do mundo, ao passo que Ele, mais rei do que todos os reis da Terra, fez a sua entrada em Jerusalém montado num jumento? Não teria o direito de dizer-lhes: “Que fizestes dos meus ensinos, vós que incensais o bezerro de ouro, que dais a maior parte das vossas preces aos ricos, reservando uma parte insignificante aos pobres, sem embargo de haver eu dito: Os primeiros serão os últimos e os últimos serão os primeiros no reino dos céus?” Mas, se Ele não está carnalmente entre nós, está em [Espírito][g4f] e, como o senhor da parábola, virá pedir contas aos seus vinhateiros do produto da sua vinha, quando chegar o tempo da colheita.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Um só rebanho e um só pastor
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 31
 
 >
 >
 > João, 10:16
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 32
 
@@ -4438,7 +7609,15 @@ No estado atual da opinião e dos conhecimentos, a religião, que terá de congr
 
 O que alimenta o antagonismo entre as religiões é a ideia, generalizada por todas elas, de que cada uma tem o seu deus particular e a pretensão de que este é o único verdadeiro e o mais poderoso, em luta constante com os deuses dos outros cultos e ocupado em lhes combater a influência. Quando elas se houverem convencido de que só existe um [Deus][c5m] no universo e que, em definitiva, Ele é o mesmo que elas adoram sob os nomes de Jeová, Alá ou [Deus][c5m]; quando se puserem de acordo sobre os atributos essenciais da Divindade, compreenderão que, sendo um único o Ser, uma única tem que ser a vontade suprema; estender-se-ão as mãos umas às outras, como os servidores de um mesmo Mestre e os filhos de um mesmo Pai e, assim, grande passo terão dado para a unidade.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Advento de Elias
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 33
 
@@ -4446,11 +7625,23 @@ O que alimenta o antagonismo entre as religiões é a ideia, generalizada por to
 > 
 > Mateus, 17:10 a 13
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 34
 
 Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de modo explícito. Ora, como ele não pode voltar, senão tomando um novo corpo, aí temos a consagração formal do princípio da pluralidade das existências. (O evangelho segundo o espiritismo, cap. IV, item 10.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Anunciação do Consolador
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 35
 
@@ -4458,11 +7649,19 @@ Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de m
 >
 > João, 14:15 a 17 e 26; O evangelho segundo o espiritismo, cap. VI.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 36
 
 >
 >
 > João, 16:7 a 14
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 37
 
@@ -4470,13 +7669,25 @@ Esta predição, não há contestar, é uma das mais importantes, do ponto de vi
 
 Sob o nome de Consolador e de [Espírito][g4f] de Verdade, [Jesus][q3y] anunciou a vinda daquele que havia de ensinar todas as coisas e de lembrar o que Ele dissera. Logo, não estava completo o seu ensino. E, ao demais, prevê não só que ficaria esquecido, como também que seria desvirtuado o que por Ele fora dito, visto que o [Espírito][g4f] de Verdade viria tudo lembrar e, de combinação com Elias, restabelecer todas as coisas, isto é, pô-las de acordo com o verdadeiro pensamento de seus ensinos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 38
 
 Quando terá de vir esse novo revelador? É evidente que se, na época em que [Jesus][q3y] falava, os homens não se achavam em estado de compreender as coisas que lhe restavam a dizer, não seria em alguns anos apenas que poderiam adquirir as luzes necessárias a entendê-las. Para a [inteligência][y2h] de certas partes do Evangelho, excluídos os preceitos morais, faziam-se mister conhecimentos que só o progresso das ciências facultaria e que tinham de ser obra do tempo e de muitas gerações. Se, portanto, o novo Messias tivesse vindo pouco tempo depois do [Cristo][g0s], houvera encontrado o terreno ainda nas mesmas condições e não teria feito mais do que o mesmo [Cristo][g0s]. Ora, desde aquela época até os nossos dias, nenhuma grande revelação se produziu que haja completado o Evangelho e elucidado suas partes obscuras, indício seguro de que o Enviado ainda não aparecera.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 39
 
 Qual deverá ser esse Enviado? Dizendo: “Pedirei a meu Pai e Ele vos enviará outro Consolador”, [Jesus][q3y] claramente indica que esse Consolador não seria Ele, pois, do contrário, dissera: “Voltarei a completar o que vos tenho ensinado.” Não só tal não disse, como acrescentou: “A fim de que fique eternamente convosco e ele estará em vós.” Esta proposição não poderia referir-se a uma individualidade encarnada, visto que não poderia ficar eternamente conosco, nem, ainda menos, estar em nós; compreendemo-la, porém, muito bem com referência a uma doutrina, a qual, com efeito, quando a tenhamos assimilado, poderá estar eternamente em nós. O Consolador é, pois, segundo o pensamento de [Jesus][q3y], a personificação de uma doutrina soberanamente consoladora, cujo inspirador há de ser o [Espírito][g4f] de Verdade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 40
 
@@ -4484,15 +7695,31 @@ O [Espiritismo][f4r] realiza, como ficou demonstrado (cap. I, item 30), todas as
 
 A doutrina de Moisés, incompleta, ficou circunscrita ao povo judeu; a de [Jesus][q3y], mais completa, se espalhou por toda a Terra, mediante o Cristianismo, mas não converteu a todos; o [Espiritismo][f4r], ainda mais completo, com raízes em todas as crenças, converterá a humanidade. [^185]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 41
 
 Dizendo a seus apóstolos: “Outro virá mais tarde, que vos ensinará o que agora não posso ensinar”, proclamava [Jesus][q3y] a necessidade da reencarnação. Como poderiam aqueles homens aproveitar do ensino mais completo que ulteriormente seria ministrado; como estariam aptos a compreendê-lo, se não tivessem de viver novamente? [Jesus][q3y] houvera proferido uma coisa inconsequente se, de acordo com a doutrina vulgar, os homens futuros houvessem de ser homens novos, almas saídas do nada por ocasião do nascimento. Admita-se, ao contrário, que os apóstolos e os homens do tempo deles tenham vivido depois; que ainda hoje revivem, e plenamente justificada estará a promessa de [Jesus][q3y]. Tendo-se desenvolvido ao contato do progresso social, a [inteligência][y2h] deles pode presentemente comportar o que então não podia. Sem a reencarnação a promessa de [Jesus][q3y] fora ilusória.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 42
 
 Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da descida do [Espírito][g4f] Santo, poder-se-á responder que o [Espírito][g4f] Santo os inspirou, que lhes desanuviou a [inteligência][y2h], que desenvolveu neles as aptidões mediúnicas destinadas a facilitar-lhes a missão, porém que nada lhes ensinou além daquilo que [Jesus][q3y] já ensinara, porquanto, no que deixaram, nenhum vestígio se encontra de um ensinamento especial. O [Espírito][g4f] Santo, pois, não realizou o que [Jesus][q3y] anunciara relativamente ao Consolador; a não ser assim, os apóstolos teriam elucidado o que, no Evangelho, permaneceu obscuro até o dia de hoje e cuja interpretação contraditória deu origem às inúmeras seitas que dividiram o Cristianismo desde os primeiros séculos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Segundo advento do [Cristo][g0s]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 43
 
@@ -4500,11 +7727,19 @@ Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da desc
 >
 > Mateus, 16:24 a 28
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 44
 
 >
 >
 > Marcos, 16:60 a 63
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 45
 
@@ -4514,6 +7749,10 @@ Estas palavras: “Alguns há dos que aqui estão que não sofrerão a [morte][q
 
 Por outro lado, é indubitável que, se [Jesus][q3y] houvesse dito tudo o que pudera dizer, Ele se teria expressado sobre todas as coisas de modo claro e preciso, sem dar lugar a qualquer equívoco, conforme o fez com relação aos princípios de [moral][h4c], ao passo que foi obrigado a velar o seu pensamento acerca dos assuntos que não julgou conveniente aprofundar. Persuadidos de que a geração de que faziam parte testemunharia o que Ele anunciava, os discípulos foram levados a interpretar o pensamento de [Jesus][q3y] de acordo com aquela ideia. Assim é que redigiram do ponto de vista do presente o que o Mestre dissera, fazendo-o de maneira mais absoluta do que Ele próprio o teria feito. Seja como for, o fato é que as coisas não se passaram como eles o supuseram.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 46
 
 A grande e importante lei da reencarnação foi um dos pontos capitais que [Jesus][q3y] não pôde desenvolver, porque os homens do seu tempo não se achavam suficientemente preparados para ideias dessa ordem e para as suas consequências. Contudo, assentou o princípio da referida lei, como o fez relativamente a tudo mais. Estudada e posta em evidência nos dias atuais pelo [Espiritismo][f4r], a lei da reencarnação constitui a chave para o entendimento de muitas passagens do Evangelho que, sem ela, parecem verdadeiros contrassensos.
@@ -4522,7 +7761,15 @@ A grande e importante lei da reencarnação foi um dos pontos capitais que [Jesu
 
 Aliás, algumas de suas predições se realizaram no devido tempo, tais como a ruína de Jerusalém, as desgraças que se lhe seguiram e a dispersão dos judeus. Sua visão, porém, se projetava muito mais longe, de sorte que, quando falava do presente, sempre aludia ao futuro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Sinais precursores
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 47
 
@@ -4530,17 +7777,29 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > Mateus, 24:6 a 8
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 48
 
 >
 >
 > Marcos, 13:12 e 13
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 49
 
 >
 >
 > Mateus, 24:15 a 22
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 50
 
@@ -4552,11 +7811,19 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > Mateus, 24:37 a 39
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 51
 
 >
 >
 > Marcos, 13:32
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 52
 
@@ -4564,11 +7831,19 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > João, 16:20 a 22
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 53
 
 >
 >
 > Mateus, 24:11 a 14
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 54
 
@@ -4580,19 +7855,35 @@ O Filho do Homem, a vir sobre nuvens, com grande majestade, cercado de seus anjo
 
 No entanto, aquele pobre proletário da Judeia se tornou o maior entre os grandes; conquistou para a sua soberania maior número de reinos, do que os mais poderosos potentados; exclusivamente com a sua palavra e o concurso de alguns miseráveis pescadores, revolucionou o mundo e a Ele é que os judeus virão a dever sua reabilitação. Disse, pois, uma [verdade][x8k], quando, respondendo a esta pergunta de Pilatos: “És rei?” respondeu: “Tu o dizes.”
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 55
 
 É de notar-se que, entre os antigos, os tremores de terra e o obscurecimento do Sol eram acessórios forçados de todos os acontecimentos e de todos os presságios sinistros. Com eles deparamos, por ocasião da [morte][q4x] de [Jesus][q3y], da de César e num sem-número de outras circunstâncias da história do paganismo. Se tais fenômenos se houvessem produzido tão amiudadas vezes quantas são relatados, fora de ter-se por impossível que os homens não houvessem guardado deles lembrança pela tradição. Aqui, acrescenta-se a queda de estrelas do céu, como que a mostrar às gerações futuras, mais esclarecidas, que não há nisso senão uma ficção, pois que agora se sabe que as estrelas não podem cair.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 56
 
 Entretanto, sob essas alegorias, grandes verdades se ocultam. Há, primeiramente, a predição das calamidades de todo gênero que assolarão e dizimarão a humanidade, calamidades decorrentes da luta suprema entre o bem e o mal, entre a fé e a incredulidade, entre as ideias progressistas e as ideias retrógradas. Há, em segundo lugar, a da difusão, por toda a Terra, do Evangelho restaurado na sua pureza primitiva; depois, a do reinado do bem, que será o da paz e da fraternidade universais, a derivar do código de [moral][h4c] evangélica, posto em prática por todos os povos. Será, verdadeiramente, o reino de [Jesus][q3y], pois que Ele presidirá à sua implantação, passando os homens a viver sob a égide da sua lei. Será o reinado da felicidade, porquanto diz Ele que — “depois dos dias de aflição, virão os de alegria”.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 57
 
 Quando sucederão tais coisas? “Ninguém o sabe” diz [Jesus][q3y], “nem mesmo o Filho.” Mas, quando chegar o momento, os homens serão advertidos por meio de sinais precursores. Esses indícios, porém, não estarão nem no Sol, nem nas estrelas; mostrar-se-ão no estado social e nos fenômenos mais de ordem [moral][h4c] do que físicos e que, em parte, se podem deduzir das suas alusões.
 
 É indubitável que aquela mutação não poderia operar-se em [vida][r4f] dos apóstolos, pois, do contrário, [Jesus][q3y] não lhe desconheceria o momento. Aliás, semelhante transformação não era possível se desse dentro de apenas alguns anos. Contudo, dela lhes fala como se eles a houvessem de presenciar; é que, com efeito, eles poderão estar reencarnados quando a transformação se der e, até, colaborar na sua efetivação. Ele ora fala da sorte próxima de Jerusalém, ora toma esse fato por ponto de referência ao que ocorreria no futuro.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 58
 
@@ -4602,7 +7893,15 @@ Não é racional se suponha que [Deus][c5m] destrua o mundo precisamente quando 
 
 Devendo a prática geral do Evangelho determinar grande melhora no estado [moral][h4c] dos homens, ela, por isso mesmo, trará o reinado do bem e acarretará a queda do mal. É, pois, o fim do mundo velho, do mundo governado pelos preconceitos, pelo orgulho, pelo egoísmo, pelo fanatismo, pela incredulidade, pela cupidez, por todas as paixões pecaminosas, que o [Cristo][g0s] aludia, ao dizer: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim.” Esse fim, porém, para chegar, ocasionaria uma luta e é dessa luta que advirão os males por Ele previstos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Vossos filhos e vossas filhas profetizarão
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 59
 
@@ -4610,11 +7909,19 @@ Devendo a prática geral do Evangelho determinar grande melhora no estado [moral
 >
 > Atos, 2:17 e 18; Joel, 2:28 e 29
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 60
 
 Se considerarmos o estado atual do mundo físico e do mundo [moral][h4c], as tendências, aspirações e pressentimentos das massas, a decadência das ideias antigas que em vão se debatem há um século contra as ideias novas, não poderemos duvidar de que uma nova ordem de coisas se prepara e que o mundo velho chega a seu termo.
 
 Se, agora, levando em conta a forma alegórica de alguns quadros e perscrutando o sentido profundo das palavras de [Jesus][q3y], compararmos a situação atual com os tempos por Ele descritos, como assinaladores da era da renovação, não poderemos deixar de convir em que muitas das suas predições se estão presentemente realizando; donde a conclusão de que atingimos os tempos anunciados, o que confirmam, em todos os pontos do globo, os Espíritos que se manifestam.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 61
 
@@ -4622,7 +7929,15 @@ Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento 
 
 É a predição inequívoca da vulgarização da [mediunidade][c8r], que presentemente se revela em indivíduos de todas as idades, de ambos os sexos e de todas as condições; a predição, por conseguinte, da manifestação universal dos Espíritos, pois que sem os Espíritos não haveria [médiuns][c8r]. Isso, conforme está dito, acontecerá nos últimos tempos; ora, visto que não chegamos ao fim do mundo, mas, ao contrário, à época da sua regeneração, devemos entender aquelas palavras como indicativas dos últimos tempos do mundo [moral][h4c] que chega a seu termo. (O evangelho segundo o espiritismo, cap. XXI.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Juízo final
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 62
 
@@ -4630,19 +7945,35 @@ Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento 
 >
 > Mateus, 25:31 a 46; O evangelho segundo o espiritismo, cap. XV
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 63
 
 Tendo que reinar na Terra o bem, necessário é sejam dela excluídos os Espíritos endurecidos no mal e que possam acarretar-lhe perturbações. [Deus][c5m] permitiu que eles aí permanecessem o tempo de que precisavam para se melhorarem; mas, chegado o momento em que, pelo progresso [moral][h4c] de seus habitantes, o globo terráqueo tem de ascender na hierarquia dos mundos, interdito será ele, como morada, a encarnados e desencarnados que não hajam aproveitado os ensinamentos que uns e outros se achavam em condições de aí receber. Serão exilados para mundos inferiores, como o foram outrora para a Terra os da raça adâmica, vindo substituí-los Espíritos melhores. Essa separação, a que [Jesus][q3y] presidirá, é que se acha figurada por estas palavras sobre o juízo final: “Os bons passarão à minha direita e os maus à minha esquerda.” (Cap. XI, itens 31 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 64
 
 A doutrina de um juízo final, único e universal, pondo fim para sempre à humanidade, repugna à [razão][f8m], por implicar a inatividade de [Deus][c5m], durante a eternidade que precedeu à criação da Terra e durante a eternidade que se seguirá à sua destruição. Que utilidade teriam então o Sol, a Lua e as estrelas que, segundo a Gênese, foram feitos para iluminar o mundo? Causa espanto que tão imensa obra se haja produzido para tão pouco tempo e a benefício de seres votados de antemão, em sua maioria, aos suplícios eternos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 65
 
 Materialmente, a ideia de um julgamento único seria, até certo ponto, admissível para os que não procuram a [razão][f8m] das coisas, quando se cria que a humanidade toda se achava concentrada na Terra e que para seus habitantes fora feito tudo o que o universo contém. É, porém, inadmissível, desde que se sabe que há milhares de milhares de mundos semelhantes, que perpetuam as humanidades pela eternidade em fora e entre os quais a Terra é dos menos consideráveis, simples ponto imperceptível.
 
 Vê-se, só por este fato, que [Jesus][q3y] tinha [razão][f8m] de declarar a seus discípulos: “Há muitas coisas que não vos posso dizer, porque não as compreenderíeis”, dado que o progresso das ciências era indispensável para uma interpretação legítima de algumas de suas palavras. Certamente, os apóstolos, Paulo e os primeiros discípulos teriam estabelecido de modo muito diverso alguns dogmas se tivessem os conhecimentos astronômicos, geológicos, físicos, químicos, fisiológicos e psicológicos que hoje possuímos. Daí vem o ter [Jesus][q3y] adiado a completação de seus ensinos e anunciado que todas as coisas haviam de ser restabelecidas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 66
 
@@ -4652,19 +7983,39 @@ Além disso, se o juízo final houvesse de apanhar de improviso os homens, em me
 
 Conservem-nas os que se contentam com semelhantes crenças; estão no seu direito e ninguém nada tem que dizer a isso; mas, não achem mau que nem toda gente partilhe delas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 67
 
 O juízo, pelo processo da emigração, conforme ficou explicado acima (item 63), é racional; funda-se na mais rigorosa justiça, visto que conserva para o [Espírito][g4f], eternamente, o seu livre-arbítrio; não constitui privilégio para ninguém; a todas as suas criaturas, sem exceção alguma, concede [Deus][c5m] igual liberdade de ação para progredirem; o próprio aniquilamento de um mundo, acarretando a destruição do corpo, nenhuma interrupção ocasionará à marcha progressiva do [Espírito][g4f]. Tais as consequências da pluralidade dos mundos e da pluralidade das existências.
 
 Segundo essa interpretação, não é exata a qualificação de juízo final, pois que os Espíritos passam por análogas fieiras a cada renovação dos mundos por eles habitados, até que atinjam certo grau de perfeição. Não há, portanto, juízo final propriamente dito, mas juízos gerais em todas as épocas de renovação parcial ou total da população dos mundos, por efeito das quais se operam as grandes emigrações e imigrações de Espíritos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 3-18. 🗂️ São chegados os tempos {#gen-3-18}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Sinais dos tempos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
 São chegados os tempos, dizem-nos de todas as partes, marcados por [Deus][c5m], em que grandes acontecimentos se vão dar para regeneração da humanidade. Em que sentido se devem entender essas palavras proféticas? Para os incrédulos, nenhuma importância têm; aos seus olhos, nada mais exprimem que uma crença pueril, sem fundamento. Para a maioria dos crentes, elas apresentam qualquer coisa de místico e de sobrenatural, parecendo-lhes prenunciadoras da subversão das leis da natureza. São igualmente errôneas ambas essas interpretações: a primeira, porque envolve uma negação da Providência; a segunda, porque tais palavras não anunciam a perturbação das leis da natureza, mas o cumprimento dessas leis.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 02
 
@@ -4676,19 +8027,35 @@ De duas maneiras se executa esse duplo progresso: uma, lenta, gradual e insensí
 
 O progresso da humanidade se cumpre, pois, em virtude de uma lei. Ora, como todas as leis da natureza são obra eterna da [sabedoria][i8d] e da presciência divinas, tudo o que é efeito dessas leis resulta da vontade de [Deus][c5m], não de uma vontade acidental e caprichosa, mas de uma vontade imutável. Quando, por conseguinte, a humanidade está madura para subir um degrau, pode dizer-se que são chegados os tempos marcados por [Deus][c5m], como se pode dizer também que, em tal estação, eles chegam para a maturação dos frutos e sua colheita.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 03
 
 Do fato de ser inevitável, porque é da natureza o movimento progressivo da humanidade, não se segue que [Deus][c5m] lhe seja indiferente e que, depois de ter estabelecido leis, se haja recolhido à inação, deixando que as coisas caminhem por si sós. Sem dúvida, suas leis são eternas e imutáveis, mas porque a sua própria vontade é eterna e constante e porque o seu pensamento anima sem interrupção todas as coisas. Esse pensamento, que em tudo penetra, é a força inteligente e permanente que mantém a harmonia em tudo. Cessasse ele um só instante de atuar e o universo seria como um relógio sem pêndulo regulador. [Deus][c5m], pois, vela incessantemente pela execução de suas leis e os Espíritos que povoam o espaço são seus ministros, encarregados de atender aos pormenores, dentro de atribuições que correspondem ao grau de adiantamento que tenham alcançado.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 04
 
 O universo é, ao mesmo tempo, um mecanismo incomensurável, acionado por um número incontável de inteligências, e um imenso governo em o qual cada ser inteligente tem a sua parte de ação sob as vistas do soberano Senhor, cuja vontade única mantém por toda parte a unidade. Sob o império dessa vasta potência reguladora, tudo se move, tudo funciona em perfeita ordem. Onde nos parece haver perturbações, o que há são movimentos parciais e isolados, que se nos afiguram irregulares apenas porque circunscrita é a nossa visão. Se lhes pudéssemos abarcar o conjunto, veríamos que tais irregularidades são apenas aparentes e que se harmonizam com o todo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 05
 
 A humanidade tem realizado, até o presente, incontestáveis progressos. Os homens, com a sua [inteligência][y2h], chegaram a resultados que jamais haviam alcançado, sob o ponto de vista das ciências, das artes e do bem-estar material. Resta-lhes ainda um imenso progresso a realizar: o de fazerem que entre si reinem a [caridade][c5q], a fraternidade, a solidariedade, que lhes assegurem o bem-estar [moral][h4c]. Não poderiam consegui-lo nem com as suas crenças, nem com as suas instituições antiquadas, restos de outra idade, boas para certa época, suficientes para um estado transitório, mas que, havendo dado tudo o que comportavam, seriam hoje um entrave. Já não é somente de desenvolver a [inteligência][y2h] o de que os homens necessitam, mas de elevar o sentimento e, para isso, faz-se preciso destruir tudo o que superexcite neles o egoísmo e o orgulho.
 
 Tal o período em que doravante vão entrar e que marcará uma das fases principais da [vida][r4f] da humanidade. Essa fase, que neste momento se elabora, é o complemento indispensável do estado precedente, como a idade viril o é da juventude. Ela podia, pois, ser prevista e predita de antemão e é por isso que se diz que são chegados os tempos determinados por [Deus][c5m].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 06
 
@@ -4698,9 +8065,17 @@ Trata-se de um movimento universal, a operar-se no sentido do progresso [moral][
 
 Aliás, todos sabem quanto ainda deixa a desejar a atual ordem de coisas. Depois de se haver, de certo modo, considerado todo o bem-estar material, produto da [inteligência][y2h], logra-se compreender que o complemento desse bem-estar somente pode achar-se no desenvolvimento [moral][h4c]. Quanto mais se avança, tanto mais se sente o que falta, sem que, entretanto, se possa ainda definir claramente o que seja: é isso efeito do trabalho íntimo que se opera em prol da regeneração. Surgem desejos, aspirações, que são como que o pressentimento de um estado melhor.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 07
 
 Mas uma mudança tão radical como a que se está elaborando não pode realizar-se sem comoções. Há, inevitavelmente, luta de ideias. Desse conflito forçosamente se originarão passageiras perturbações, até que o terreno se ache aplanado e restabelecido o equilíbrio. É, pois, da luta das ideias que surgirão os graves acontecimentos preditos e não de cataclismos ou catástrofes puramente materiais. Os cataclismos gerais foram consequência do estado de formação da Terra. Hoje, não são mais as entranhas do planeta que se agitam: são as da humanidade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 08
 
@@ -4724,6 +8099,10 @@ Se a Terra já não tem que temer os cataclismos gerais, nem por isso deixa de e
 
 **Arago**
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 09
 
 Sim, decerto, a humanidade se transforma, como já se transformou noutras épocas, e cada transformação se assinala por uma crise que é, para o gênero humano, o que são, para os indivíduos, as crises de crescimento. Aquelas se tornam, muitas vezes, penosas, dolorosas, e arrebatam consigo as gerações e as instituições, mas, são sempre seguidas de uma fase de progresso material e [moral][h4c].
@@ -4738,6 +8117,10 @@ A humanidade terrestre, tendo chegado a um desses períodos de crescimento, est�
 
 **Doutor Barry**
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 10
 
 Do que precede resulta que, em consequência do movimento de translação que executam no espaço, os corpos celestes exercem, uns sobre os outros, maior ou menor influência, conforme a proximidade em que se achem entre si e as suas respectivas posições; que essa influência pode acarretar uma perturbação momentânea aos seus elementos constitutivos e modificar as condições de vitalidade dos seus habitantes; que a regularidade dos movimentos determina a volta periódica das mesmas causas e dos mesmos efeitos; que, se demasiado curta é a duração de certos períodos para que os homens os apreciem, outros veem passar gerações e raças que deles não se apercebem e às quais se afigura normal o estado de coisas que observam. Ao contrário, as gerações contemporâneas da transição lhe sofrem o contrachoque e tudo lhes parece fora das leis ordinárias. Essas gerações veem uma causa sobrenatural, maravilhosa, miraculosa no que, em realidade, mais não é do que a execução das leis da natureza.
@@ -4746,27 +8129,49 @@ Se, pelo encadeamento e a solidariedade das causas e dos efeitos, os períodos d
 
 Anunciando a época de renovação que se havia de abrir para a humanidade e determinar o fim do velho mundo, a [Jesus][q3y], pois, foi lícito dizer que ela se assinalaria por fenômenos extraordinários, tremores de terra, flagelos diversos, sinais no céu, que mais não são do que meteoros, sem ab-rogação das leis naturais. O vulgo, porém, ignorante, viu nessas palavras a predição de fatos miraculosos. [^189]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 11
 
 A previsão dos movimentos progressivos da humanidade nada apresenta de surpreendente, quando feita por seres desmaterializados, que veem o fim a que tendem todas as coisas, tendo alguns deles conhecimento direto do pensamento de [Deus][c5m]. Pelos movimentos parciais, esses seres veem em que época poderá operar-se um movimento geral, do mesmo modo que o homem pode calcular de antemão o tempo que uma árvore levará para dar frutos, do mesmo modo que os astrônomos calculam a época de um fenômeno astronômico, pelo tempo que um astro gasta para efetuar a sua revolução.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 12
 
 A humanidade é um ser coletivo em quem se operam as mesmas revoluções morais por que passa todo ser individual, com a diferença de que umas se realizam de ano em ano e as outras de século em século. Acompanhe-se a humanidade em suas evoluções através dos tempos e ver-se-á a [vida][r4f] das diversas raças marcada por períodos que dão a cada época uma fisionomia especial. [^190]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  28
 
 A palavra de [Jesus][q3y] se tornou a pedra angular, isto é, a pedra de consolidação do novo edifício da fé, erguido sobre as ruínas do antigo. Havendo os judeus, os príncipes dos sacerdotes e os fariseus rejeitado essa pedra, ela os esmagou, do mesmo modo que esmagará os que, depois, a desconheceram, ou lhe desfiguraram o sentido em prol de suas ambições.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Parábola dos vinhateiros homicidas
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  29
 
 >
 >
 > Mateus, 21:33 a 41
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  30
 
@@ -4782,13 +8187,25 @@ Que fizeram das suas máximas de [caridade][c5q], de [amor][c7p] e de tolerânci
 
 Que diria o [Cristo][g0s], se viesse hoje entre nós? Se visse os que se dizem seus representantes a ambicionar as honras, as riquezas, o poder e o fausto dos príncipes do mundo, ao passo que Ele, mais rei do que todos os reis da Terra, fez a sua entrada em Jerusalém montado num jumento? Não teria o direito de dizer-lhes: “Que fizestes dos meus ensinos, vós que incensais o bezerro de ouro, que dais a maior parte das vossas preces aos ricos, reservando uma parte insignificante aos pobres, sem embargo de haver eu dito: Os primeiros serão os últimos e os últimos serão os primeiros no reino dos céus?” Mas, se Ele não está carnalmente entre nós, está em [Espírito][g4f] e, como o senhor da parábola, virá pedir contas aos seus vinhateiros do produto da sua vinha, quando chegar o tempo da colheita.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Um só rebanho e um só pastor
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  31
 
 >
 >
 > João, 10:16
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  32
 
@@ -4806,7 +8223,15 @@ O que alimenta o antagonismo entre as religiões é a ideia, generalizada por to
 
 [^184]: N.E.: Kardec pressentia a supressão das barreiras linguísticas vinte anos antes do aparecimento do Esperanto, quando Zamenhof tinha somente sete anos. Hoje a profecia se cumpre sob nossos olhos com o progresso constante do Esperanto.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Advento de Elias
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  33
 
@@ -4814,11 +8239,23 @@ O que alimenta o antagonismo entre as religiões é a ideia, generalizada por to
 > 
 > Mateus, 17:10 a 13
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  34
 
 Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de modo explícito. Ora, como ele não pode voltar, senão tomando um novo corpo, aí temos a consagração formal do princípio da pluralidade das existências. (O evangelho segundo o espiritismo, cap. IV, item 10.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Anunciação do Consolador
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  35
 
@@ -4826,11 +8263,19 @@ Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de m
 >
 > João, 14:15 a 17 e 26; O evangelho segundo o espiritismo, cap. VI.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  36
 
 >
 >
 > João, 16:7 a 14
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  37
 
@@ -4838,13 +8283,25 @@ Esta predição, não há contestar, é uma das mais importantes, do ponto de vi
 
 Sob o nome de Consolador e de [Espírito][g4f] de Verdade, [Jesus][q3y] anunciou a vinda daquele que havia de ensinar todas as coisas e de lembrar o que Ele dissera. Logo, não estava completo o seu ensino. E, ao demais, prevê não só que ficaria esquecido, como também que seria desvirtuado o que por Ele fora dito, visto que o [Espírito][g4f] de Verdade viria tudo lembrar e, de combinação com Elias, restabelecer todas as coisas, isto é, pô-las de acordo com o verdadeiro pensamento de seus ensinos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  38
 
 Quando terá de vir esse novo revelador? É evidente que se, na época em que [Jesus][q3y] falava, os homens não se achavam em estado de compreender as coisas que lhe restavam a dizer, não seria em alguns anos apenas que poderiam adquirir as luzes necessárias a entendê-las. Para a [inteligência][y2h] de certas partes do Evangelho, excluídos os preceitos morais, faziam-se mister conhecimentos que só o progresso das ciências facultaria e que tinham de ser obra do tempo e de muitas gerações. Se, portanto, o novo Messias tivesse vindo pouco tempo depois do [Cristo][g0s], houvera encontrado o terreno ainda nas mesmas condições e não teria feito mais do que o mesmo [Cristo][g0s]. Ora, desde aquela época até os nossos dias, nenhuma grande revelação se produziu que haja completado o Evangelho e elucidado suas partes obscuras, indício seguro de que o Enviado ainda não aparecera.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  39
 
 Qual deverá ser esse Enviado? Dizendo: “Pedirei a meu Pai e Ele vos enviará outro Consolador”, [Jesus][q3y] claramente indica que esse Consolador não seria Ele, pois, do contrário, dissera: “Voltarei a completar o que vos tenho ensinado.” Não só tal não disse, como acrescentou: “A fim de que fique eternamente convosco e ele estará em vós.” Esta proposição não poderia referir-se a uma individualidade encarnada, visto que não poderia ficar eternamente conosco, nem, ainda menos, estar em nós; compreendemo-la, porém, muito bem com referência a uma doutrina, a qual, com efeito, quando a tenhamos assimilado, poderá estar eternamente em nós. O Consolador é, pois, segundo o pensamento de [Jesus][q3y], a personificação de uma doutrina soberanamente consoladora, cujo inspirador há de ser o [Espírito][g4f] de Verdade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  40
 
@@ -4854,15 +8311,31 @@ A doutrina de Moisés, incompleta, ficou circunscrita ao povo judeu; a de [Jesus
 
 [^185]: A.K.: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra [Espiritismo][f4r], ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  41
 
 Dizendo a seus apóstolos: “Outro virá mais tarde, que vos ensinará o que agora não posso ensinar”, proclamava [Jesus][q3y] a necessidade da reencarnação. Como poderiam aqueles homens aproveitar do ensino mais completo que ulteriormente seria ministrado; como estariam aptos a compreendê-lo, se não tivessem de viver novamente? [Jesus][q3y] houvera proferido uma coisa inconsequente se, de acordo com a doutrina vulgar, os homens futuros houvessem de ser homens novos, almas saídas do nada por ocasião do nascimento. Admita-se, ao contrário, que os apóstolos e os homens do tempo deles tenham vivido depois; que ainda hoje revivem, e plenamente justificada estará a promessa de [Jesus][q3y]. Tendo-se desenvolvido ao contato do progresso social, a [inteligência][y2h] deles pode presentemente comportar o que então não podia. Sem a reencarnação a promessa de [Jesus][q3y] fora ilusória.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  42
 
 Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da descida do [Espírito][g4f] Santo, poder-se-á responder que o [Espírito][g4f] Santo os inspirou, que lhes desanuviou a [inteligência][y2h], que desenvolveu neles as aptidões mediúnicas destinadas a facilitar-lhes a missão, porém que nada lhes ensinou além daquilo que [Jesus][q3y] já ensinara, porquanto, no que deixaram, nenhum vestígio se encontra de um ensinamento especial. O [Espírito][g4f] Santo, pois, não realizou o que [Jesus][q3y] anunciara relativamente ao Consolador; a não ser assim, os apóstolos teriam elucidado o que, no Evangelho, permaneceu obscuro até o dia de hoje e cuja interpretação contraditória deu origem às inúmeras seitas que dividiram o Cristianismo desde os primeiros séculos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Segundo advento do [Cristo][g0s]
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  43
 
@@ -4870,11 +8343,19 @@ Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da desc
 >
 > Mateus, 16:24 a 28
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  44
 
 >
 >
 > Marcos, 16:60 a 63
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  45
 
@@ -4884,6 +8365,10 @@ Estas palavras: “Alguns há dos que aqui estão que não sofrerão a [morte][q
 
 Por outro lado, é indubitável que, se [Jesus][q3y] houvesse dito tudo o que pudera dizer, Ele se teria expressado sobre todas as coisas de modo claro e preciso, sem dar lugar a qualquer equívoco, conforme o fez com relação aos princípios de [moral][h4c], ao passo que foi obrigado a velar o seu pensamento acerca dos assuntos que não julgou conveniente aprofundar. Persuadidos de que a geração de que faziam parte testemunharia o que Ele anunciava, os discípulos foram levados a interpretar o pensamento de [Jesus][q3y] de acordo com aquela ideia. Assim é que redigiram do ponto de vista do presente o que o Mestre dissera, fazendo-o de maneira mais absoluta do que Ele próprio o teria feito. Seja como for, o fato é que as coisas não se passaram como eles o supuseram.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  46
 
 A grande e importante lei da reencarnação foi um dos pontos capitais que [Jesus][q3y] não pôde desenvolver, porque os homens do seu tempo não se achavam suficientemente preparados para ideias dessa ordem e para as suas consequências. Contudo, assentou o princípio da referida lei, como o fez relativamente a tudo mais. Estudada e posta em evidência nos dias atuais pelo [Espiritismo][f4r], a lei da reencarnação constitui a chave para o entendimento de muitas passagens do Evangelho que, sem ela, parecem verdadeiros contrassensos.
@@ -4892,7 +8377,15 @@ A grande e importante lei da reencarnação foi um dos pontos capitais que [Jesu
 
 Aliás, algumas de suas predições se realizaram no devido tempo, tais como a ruína de Jerusalém, as desgraças que se lhe seguiram e a dispersão dos judeus. Sua visão, porém, se projetava muito mais longe, de sorte que, quando falava do presente, sempre aludia ao futuro.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Sinais precursores
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  47
 
@@ -4900,11 +8393,19 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > Mateus, 24:6 a 8
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  48
 
 >
 >
 > Marcos, 13:12 e 13
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  49
 
@@ -4913,6 +8414,10 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 > Mateus, 24:15 a 22
 
 [^186]: A.K.: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz [Jesus][q3y], se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  50
 
@@ -4924,11 +8429,19 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > Mateus, 24:37 a 39
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  51
 
 >
 >
 > Marcos, 13:32
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  52
 
@@ -4936,11 +8449,19 @@ Aliás, algumas de suas predições se realizaram no devido tempo, tais como a r
 >
 > João, 16:20 a 22
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  53
 
 >
 >
 > Mateus, 24:11 a 14
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  54
 
@@ -4952,19 +8473,35 @@ O Filho do Homem, a vir sobre nuvens, com grande majestade, cercado de seus anjo
 
 No entanto, aquele pobre proletário da Judeia se tornou o maior entre os grandes; conquistou para a sua soberania maior número de reinos, do que os mais poderosos potentados; exclusivamente com a sua palavra e o concurso de alguns miseráveis pescadores, revolucionou o mundo e a Ele é que os judeus virão a dever sua reabilitação. Disse, pois, uma [verdade][x8k], quando, respondendo a esta pergunta de Pilatos: “És rei?” respondeu: “Tu o dizes.”
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  55
 
 É de notar-se que, entre os antigos, os tremores de terra e o obscurecimento do Sol eram acessórios forçados de todos os acontecimentos e de todos os presságios sinistros. Com eles deparamos, por ocasião da [morte][q4x] de [Jesus][q3y], da de César e num sem-número de outras circunstâncias da história do paganismo. Se tais fenômenos se houvessem produzido tão amiudadas vezes quantas são relatados, fora de ter-se por impossível que os homens não houvessem guardado deles lembrança pela tradição. Aqui, acrescenta-se a queda de estrelas do céu, como que a mostrar às gerações futuras, mais esclarecidas, que não há nisso senão uma ficção, pois que agora se sabe que as estrelas não podem cair.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  56
 
 Entretanto, sob essas alegorias, grandes verdades se ocultam. Há, primeiramente, a predição das calamidades de todo gênero que assolarão e dizimarão a humanidade, calamidades decorrentes da luta suprema entre o bem e o mal, entre a fé e a incredulidade, entre as ideias progressistas e as ideias retrógradas. Há, em segundo lugar, a da difusão, por toda a Terra, do Evangelho restaurado na sua pureza primitiva; depois, a do reinado do bem, que será o da paz e da fraternidade universais, a derivar do código de [moral][h4c] evangélica, posto em prática por todos os povos. Será, verdadeiramente, o reino de [Jesus][q3y], pois que Ele presidirá à sua implantação, passando os homens a viver sob a égide da sua lei. Será o reinado da felicidade, porquanto diz Ele que — “depois dos dias de aflição, virão os de alegria”.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  57
 
 Quando sucederão tais coisas? “Ninguém o sabe” diz [Jesus][q3y], “nem mesmo o Filho.” Mas, quando chegar o momento, os homens serão advertidos por meio de sinais precursores. Esses indícios, porém, não estarão nem no Sol, nem nas estrelas; mostrar-se-ão no estado social e nos fenômenos mais de ordem [moral][h4c] do que físicos e que, em parte, se podem deduzir das suas alusões.
 
 É indubitável que aquela mutação não poderia operar-se em [vida][r4f] dos apóstolos, pois, do contrário, [Jesus][q3y] não lhe desconheceria o momento. Aliás, semelhante transformação não era possível se desse dentro de apenas alguns anos. Contudo, dela lhes fala como se eles a houvessem de presenciar; é que, com efeito, eles poderão estar reencarnados quando a transformação se der e, até, colaborar na sua efetivação. Ele ora fala da sorte próxima de Jerusalém, ora toma esse fato por ponto de referência ao que ocorreria no futuro.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  58
 
@@ -4974,7 +8511,15 @@ Não é racional se suponha que [Deus][c5m] destrua o mundo precisamente quando 
 
 Devendo a prática geral do Evangelho determinar grande melhora no estado [moral][h4c] dos homens, ela, por isso mesmo, trará o reinado do bem e acarretará a queda do mal. É, pois, o fim do mundo velho, do mundo governado pelos preconceitos, pelo orgulho, pelo egoísmo, pelo fanatismo, pela incredulidade, pela cupidez, por todas as paixões pecaminosas, que o [Cristo][g0s] aludia, ao dizer: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim.” Esse fim, porém, para chegar, ocasionaria uma luta e é dessa luta que advirão os males por Ele previstos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Vossos filhos e vossas filhas profetizarão
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  59
 
@@ -4982,11 +8527,19 @@ Devendo a prática geral do Evangelho determinar grande melhora no estado [moral
 >
 > Atos, 2:17 e 18; Joel, 2:28 e 29
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  60
 
 Se considerarmos o estado atual do mundo físico e do mundo [moral][h4c], as tendências, aspirações e pressentimentos das massas, a decadência das ideias antigas que em vão se debatem há um século contra as ideias novas, não poderemos duvidar de que uma nova ordem de coisas se prepara e que o mundo velho chega a seu termo.
 
 Se, agora, levando em conta a forma alegórica de alguns quadros e perscrutando o sentido profundo das palavras de [Jesus][q3y], compararmos a situação atual com os tempos por Ele descritos, como assinaladores da era da renovação, não poderemos deixar de convir em que muitas das suas predições se estão presentemente realizando; donde a conclusão de que atingimos os tempos anunciados, o que confirmam, em todos os pontos do globo, os Espíritos que se manifestam.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  61
 
@@ -4994,7 +8547,15 @@ Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento 
 
 É a predição inequívoca da vulgarização da [mediunidade][c8r], que presentemente se revela em indivíduos de todas as idades, de ambos os sexos e de todas as condições; a predição, por conseguinte, da manifestação universal dos Espíritos, pois que sem os Espíritos não haveria [médiuns][c8r]. Isso, conforme está dito, acontecerá nos últimos tempos; ora, visto que não chegamos ao fim do mundo, mas, ao contrário, à época da sua regeneração, devemos entender aquelas palavras como indicativas dos últimos tempos do mundo [moral][h4c] que chega a seu termo. (O evangelho segundo o espiritismo, cap. XXI.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Juízo final
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  62
 
@@ -5002,19 +8563,35 @@ Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento 
 >
 > Mateus, 25:31 a 46; O evangelho segundo o espiritismo, cap. XV
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  63
 
 Tendo que reinar na Terra o bem, necessário é sejam dela excluídos os Espíritos endurecidos no mal e que possam acarretar-lhe perturbações. [Deus][c5m] permitiu que eles aí permanecessem o tempo de que precisavam para se melhorarem; mas, chegado o momento em que, pelo progresso [moral][h4c] de seus habitantes, o globo terráqueo tem de ascender na hierarquia dos mundos, interdito será ele, como morada, a encarnados e desencarnados que não hajam aproveitado os ensinamentos que uns e outros se achavam em condições de aí receber. Serão exilados para mundos inferiores, como o foram outrora para a Terra os da raça adâmica, vindo substituí-los Espíritos melhores. Essa separação, a que [Jesus][q3y] presidirá, é que se acha figurada por estas palavras sobre o juízo final: “Os bons passarão à minha direita e os maus à minha esquerda.” (Cap. XI, itens 31 e seguintes.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  64
 
 A doutrina de um juízo final, único e universal, pondo fim para sempre à humanidade, repugna à [razão][f8m], por implicar a inatividade de [Deus][c5m], durante a eternidade que precedeu à criação da Terra e durante a eternidade que se seguirá à sua destruição. Que utilidade teriam então o Sol, a Lua e as estrelas que, segundo a Gênese, foram feitos para iluminar o mundo? Causa espanto que tão imensa obra se haja produzido para tão pouco tempo e a benefício de seres votados de antemão, em sua maioria, aos suplícios eternos.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  65
 
 Materialmente, a ideia de um julgamento único seria, até certo ponto, admissível para os que não procuram a [razão][f8m] das coisas, quando se cria que a humanidade toda se achava concentrada na Terra e que para seus habitantes fora feito tudo o que o universo contém. É, porém, inadmissível, desde que se sabe que há milhares de milhares de mundos semelhantes, que perpetuam as humanidades pela eternidade em fora e entre os quais a Terra é dos menos consideráveis, simples ponto imperceptível.
 
 Vê-se, só por este fato, que [Jesus][q3y] tinha [razão][f8m] de declarar a seus discípulos: “Há muitas coisas que não vos posso dizer, porque não as compreenderíeis”, dado que o progresso das ciências era indispensável para uma interpretação legítima de algumas de suas palavras. Certamente, os apóstolos, Paulo e os primeiros discípulos teriam estabelecido de modo muito diverso alguns dogmas se tivessem os conhecimentos astronômicos, geológicos, físicos, químicos, fisiológicos e psicológicos que hoje possuímos. Daí vem o ter [Jesus][q3y] adiado a completação de seus ensinos e anunciado que todas as coisas haviam de ser restabelecidas.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ######  66
 
@@ -5024,19 +8601,39 @@ Além disso, se o juízo final houvesse de apanhar de improviso os homens, em me
 
 Conservem-nas os que se contentam com semelhantes crenças; estão no seu direito e ninguém nada tem que dizer a isso; mas, não achem mau que nem toda gente partilhe delas.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ######  67
 
 O juízo, pelo processo da emigração, conforme ficou explicado acima (item 63), é racional; funda-se na mais rigorosa justiça, visto que conserva para o [Espírito][g4f], eternamente, o seu livre-arbítrio; não constitui privilégio para ninguém; a todas as suas criaturas, sem exceção alguma, concede [Deus][c5m] igual liberdade de ação para progredirem; o próprio aniquilamento de um mundo, acarretando a destruição do corpo, nenhuma interrupção ocasionará à marcha progressiva do [Espírito][g4f]. Tais as consequências da pluralidade dos mundos e da pluralidade das existências.
 
 Segundo essa interpretação, não é exata a qualificação de juízo final, pois que os Espíritos passam por análogas fieiras a cada renovação dos mundos por eles habitados, até que atinjam certo grau de perfeição. Não há, portanto, juízo final propriamente dito, mas juízos gerais em todas as épocas de renovação parcial ou total da população dos mundos, por efeito das quais se operam as grandes emigrações e imigrações de Espíritos.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ### 3.18
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### Sinais dos tempos
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 01
 
 São chegados os tempos, dizem-nos de todas as partes, marcados por [Deus][c5m], em que grandes acontecimentos se vão dar para regeneração da humanidade. Em que sentido se devem entender essas palavras proféticas? Para os incrédulos, nenhuma importância têm; aos seus olhos, nada mais exprimem que uma crença pueril, sem fundamento. Para a maioria dos crentes, elas apresentam qualquer coisa de místico e de sobrenatural, parecendo-lhes prenunciadoras da subversão das leis da natureza. São igualmente errôneas ambas essas interpretações: a primeira, porque envolve uma negação da Providência; a segunda, porque tais palavras não anunciam a perturbação das leis da natureza, mas o cumprimento dessas leis.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 02
 
@@ -5048,19 +8645,35 @@ De duas maneiras se executa esse duplo progresso: uma, lenta, gradual e insensí
 
 O progresso da humanidade se cumpre, pois, em virtude de uma lei. Ora, como todas as leis da natureza são obra eterna da [sabedoria][i8d] e da presciência divinas, tudo o que é efeito dessas leis resulta da vontade de [Deus][c5m], não de uma vontade acidental e caprichosa, mas de uma vontade imutável. Quando, por conseguinte, a humanidade está madura para subir um degrau, pode dizer-se que são chegados os tempos marcados por [Deus][c5m], como se pode dizer também que, em tal estação, eles chegam para a maturação dos frutos e sua colheita.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 03
 
 Do fato de ser inevitável, porque é da natureza o movimento progressivo da humanidade, não se segue que [Deus][c5m] lhe seja indiferente e que, depois de ter estabelecido leis, se haja recolhido à inação, deixando que as coisas caminhem por si sós. Sem dúvida, suas leis são eternas e imutáveis, mas porque a sua própria vontade é eterna e constante e porque o seu pensamento anima sem interrupção todas as coisas. Esse pensamento, que em tudo penetra, é a força inteligente e permanente que mantém a harmonia em tudo. Cessasse ele um só instante de atuar e o universo seria como um relógio sem pêndulo regulador. [Deus][c5m], pois, vela incessantemente pela execução de suas leis e os Espíritos que povoam o espaço são seus ministros, encarregados de atender aos pormenores, dentro de atribuições que correspondem ao grau de adiantamento que tenham alcançado.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 04
 
 O universo é, ao mesmo tempo, um mecanismo incomensurável, acionado por um número incontável de inteligências, e um imenso governo em o qual cada ser inteligente tem a sua parte de ação sob as vistas do soberano Senhor, cuja vontade única mantém por toda parte a unidade. Sob o império dessa vasta potência reguladora, tudo se move, tudo funciona em perfeita ordem. Onde nos parece haver perturbações, o que há são movimentos parciais e isolados, que se nos afiguram irregulares apenas porque circunscrita é a nossa visão. Se lhes pudéssemos abarcar o conjunto, veríamos que tais irregularidades são apenas aparentes e que se harmonizam com o todo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 05
 
 A humanidade tem realizado, até o presente, incontestáveis progressos. Os homens, com a sua [inteligência][y2h], chegaram a resultados que jamais haviam alcançado, sob o ponto de vista das ciências, das artes e do bem-estar material. Resta-lhes ainda um imenso progresso a realizar: o de fazerem que entre si reinem a [caridade][c5q], a fraternidade, a solidariedade, que lhes assegurem o bem-estar [moral][h4c]. Não poderiam consegui-lo nem com as suas crenças, nem com as suas instituições antiquadas, restos de outra idade, boas para certa época, suficientes para um estado transitório, mas que, havendo dado tudo o que comportavam, seriam hoje um entrave. Já não é somente de desenvolver a [inteligência][y2h] o de que os homens necessitam, mas de elevar o sentimento e, para isso, faz-se preciso destruir tudo o que superexcite neles o egoísmo e o orgulho.
 
 Tal o período em que doravante vão entrar e que marcará uma das fases principais da [vida][r4f] da humanidade. Essa fase, que neste momento se elabora, é o complemento indispensável do estado precedente, como a idade viril o é da juventude. Ela podia, pois, ser prevista e predita de antemão e é por isso que se diz que são chegados os tempos determinados por [Deus][c5m].
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 06
 
@@ -5070,9 +8683,17 @@ Trata-se de um movimento universal, a operar-se no sentido do progresso [moral][
 
 Aliás, todos sabem quanto ainda deixa a desejar a atual ordem de coisas. Depois de se haver, de certo modo, considerado todo o bem-estar material, produto da [inteligência][y2h], logra-se compreender que o complemento desse bem-estar somente pode achar-se no desenvolvimento [moral][h4c]. Quanto mais se avança, tanto mais se sente o que falta, sem que, entretanto, se possa ainda definir claramente o que seja: é isso efeito do trabalho íntimo que se opera em prol da regeneração. Surgem desejos, aspirações, que são como que o pressentimento de um estado melhor.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 07
 
 Mas uma mudança tão radical como a que se está elaborando não pode realizar-se sem comoções. Há, inevitavelmente, luta de ideias. Desse conflito forçosamente se originarão passageiras perturbações, até que o terreno se ache aplanado e restabelecido o equilíbrio. É, pois, da luta das ideias que surgirão os graves acontecimentos preditos e não de cataclismos ou catástrofes puramente materiais. Os cataclismos gerais foram consequência do estado de formação da Terra. Hoje, não são mais as entranhas do planeta que se agitam: são as da humanidade.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 08
 
@@ -5098,8 +8719,11 @@ Se a Terra já não tem que temer os cataclismos gerais, nem por isso deixa de e
 
 [^188]: N.E.: Ver Nota Explicativa.
 
-
 [^187]: A.K.: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 09
 
@@ -5115,6 +8739,10 @@ A humanidade terrestre, tendo chegado a um desses períodos de crescimento, est�
 
 **Doutor Barry**
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 10
 
 Do que precede resulta que, em consequência do movimento de translação que executam no espaço, os corpos celestes exercem, uns sobre os outros, maior ou menor influência, conforme a proximidade em que se achem entre si e as suas respectivas posições; que essa influência pode acarretar uma perturbação momentânea aos seus elementos constitutivos e modificar as condições de vitalidade dos seus habitantes; que a regularidade dos movimentos determina a volta periódica das mesmas causas e dos mesmos efeitos; que, se demasiado curta é a duração de certos períodos para que os homens os apreciem, outros veem passar gerações e raças que deles não se apercebem e às quais se afigura normal o estado de coisas que observam. Ao contrário, as gerações contemporâneas da transição lhe sofrem o contrachoque e tudo lhes parece fora das leis ordinárias. Essas gerações veem uma causa sobrenatural, maravilhosa, miraculosa no que, em realidade, mais não é do que a execução das leis da natureza.
@@ -5125,9 +8753,17 @@ Anunciando a época de renovação que se havia de abrir para a humanidade e det
 
 [^189]: A.K.: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 11
 
 A previsão dos movimentos progressivos da humanidade nada apresenta de surpreendente, quando feita por seres desmaterializados, que veem o fim a que tendem todas as coisas, tendo alguns deles conhecimento direto do pensamento de [Deus][c5m]. Pelos movimentos parciais, esses seres veem em que época poderá operar-se um movimento geral, do mesmo modo que o homem pode calcular de antemão o tempo que uma árvore levará para dar frutos, do mesmo modo que os astrônomos calculam a época de um fenômeno astronômico, pelo tempo que um astro gasta para efetuar a sua revolução.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 12
 
@@ -5136,11 +8772,19 @@ A humanidade é um ser coletivo em quem se operam as mesmas revoluções morais 
 [^190]:  N.E.: Ver Nota Explicativa.
 >>>>>>> 0aaf0c72692b3a8bb5d0f43d461803aaea712c69
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 13
 
 De duas maneiras se opera, como já o dissemos, a marcha progressiva da humanidade: uma, gradual, lenta, imperceptível, se se considerarem as épocas consecutivas, a traduzir-se por sucessivas melhoras nos costumes, nas leis, nos usos, melhoras que só com a continuação se podem perceber, como as mudanças que as correntes de água ocasionam na superfície do globo; a outra, por movimentos relativamente bruscos, semelhantes aos de uma torrente que, rompendo os diques que a continham, transpõe nalguns anos o espaço que levaria séculos a percorrer. É, então, um cataclismo [moral][h4c] que traga em breves instantes as instituições do passado e ao qual sobrevém uma nova ordem de coisas que pouco a pouco se estabiliza, à medida que se restabelece a calma, e que acaba por se tornar definitiva.
 
 Àquele que viva bastante para abranger com a vista as duas vertentes da nova fase, parecerá que um mundo novo surgiu das ruínas do antigo. O caráter, os costumes, os usos, tudo está mudado. É que, com efeito, surgiram homens novos, ou, melhor, regenerados. As ideias, que a geração que se extinguiu levou consigo, cederam lugar a ideias novas que desabrocham com a geração que se ergue.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 14
 
@@ -5150,24 +8794,39 @@ Tornada adulta, a humanidade tem novas necessidades, aspirações mais vastas e 
 
 E é no momento em que ela se encontra muito apertada na esfera material, em que transbordante se encontra de [vida][r4f] intelectual, em que o sentimento da espiritualidade lhe desabrocha no seio, que homens que se dizem filósofos pretendem encher o vazio com as doutrinas do niilismo e do [materialismo][m3n]! Singular aberração! Esses mesmos homens, que intentam impelir para a frente a humanidade, se esforçam por circunscrevê-la no acanhado círculo da matéria, donde ela anseia por escapar-se. Velam-lhe o aspecto da [vida][r4f] infinita e lhe dizem, apontando para o túmulo: Nec plus ultra! [^191]
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 15
 
 Quem quer que haja meditado sobre o [Espiritismo][f4r] e suas consequências e não o circunscreva à produção de alguns fenômenos terá compreendido que ele abre à humanidade uma estrada nova e lhe desvenda os horizontes do infinito. Iniciando-a nos mistérios do mundo invisível, mostra-lhe o seu verdadeiro papel na criação, papel perpetuamente ativo, tanto no estado espiritual, como no estado corporal. O homem já não caminha às cegas: sabe donde vem, para onde vai e por que está na Terra. O futuro se lhe revela em sua realidade, despojado dos prejuízos da ignorância e da superstição. Já não se trata de uma vaga esperança, mas de uma [verdade][x8k] palpável, tão certa como a sucessão do dia e da noite. Ele sabe que o seu ser não se acha limitado a alguns instantes de uma existência transitória; que a [vida][r4f] espiritual não se interrompe por efeito da [morte][q4x]; que já viveu e tornará a viver e que nada se perde do que haja ganho em perfeição; em suas existências anteriores depara com a [razão][f8m] do que é hoje e reconhece que: do que ele é hoje, qual se fez a si mesmo, poderá deduzir o que virá a ser um dia.
 
-
 [^191]: N.E.: Nada mais além.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 15
 
 Quem quer que haja meditado sobre o [Espiritismo][f4r] e suas consequências e não o circunscreva à produção de alguns fenômenos terá compreendido que ele abre à humanidade uma estrada nova e lhe desvenda os horizontes do infinito. Iniciando-a nos mistérios do mundo invisível, mostra-lhe o seu verdadeiro papel na criação, papel perpetuamente ativo, tanto no estado espiritual, como no estado corporal. O homem já não caminha às cegas: sabe donde vem, para onde vai e por que está na Terra. O futuro se lhe revela em sua realidade, despojado dos prejuízos da ignorância e da superstição. Já não se trata de uma vaga esperança, mas de uma [verdade][x8k] palpável, tão certa como a sucessão do dia e da noite. Ele sabe que o seu ser não se acha limitado a alguns instantes de uma existência transitória; que a [vida][r4f] espiritual não se interrompe por efeito da [morte][q4x]; que já viveu e tornará a viver e que nada se perde do que haja ganho em perfeição; em suas existências anteriores depara com a [razão][f8m] do que é hoje e reconhece que: do que ele é hoje, qual se fez a si mesmo, poderá deduzir o que virá a ser um dia.
 
 >>>>>>> 0aaf0c72692b3a8bb5d0f43d461803aaea712c69
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 16
 
 Com a ideia de que a atividade e a cooperação individuais na obra geral da [civilização][t2q] se limitam à [vida][r4f] presente, que, antes, a criatura nada foi e nada será depois, em que interessa ao homem o progresso ulterior da humanidade? Que lhe importa que no futuro os povos sejam mais bem governados, mais ditosos, mais esclarecidos, melhores uns para com os outros? Não fica perdido para ele todo o progresso, pois que deste nenhum proveito tirará? De que lhe serve trabalhar para os que hão de vir depois, se nunca lhe será dado conhecê-los, se os seus pósteros serão criaturas novas, que pouco depois voltarão por sua vez ao nada? Sob o domínio da negação do futuro individual, tudo forçosamente se amesquinha às insignificantes proporções do momento e da personalidade.
 
 Entretanto, que amplitude, ao contrário, dá ao pensamento do homem a certeza da perpetuidade do seu ser espiritual! Que de mais racional, de mais grandioso, de mais digno do Criador do que a lei segundo a qual a [vida][r4f] espiritual e a [vida][r4f] corpórea são apenas dois modos de existência, que se alternam para a realização do progresso! Que de mais justo há e de mais consolador do que a ideia de estarem os mesmos seres a progredir incessantemente, primeiro, pelas gerações de um mesmo mundo, de mundo em mundo depois, até a perfeição, sem solução de continuidade! Todas as ações têm, então, uma finalidade, porquanto, trabalhando para todos, cada um trabalha para si e reciprocamente, de sorte que nunca se podem considerar infecundos nem o progresso individual, nem o progresso coletivo. De ambos esses progressos aproveitarão as gerações e as individualidades porvindouras, que outras não virão a ser senão as gerações e as individualidades passadas, em mais alto grau de adiantamento.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 17
 
@@ -5175,9 +8834,17 @@ A fraternidade será a pedra angular da nova ordem social; mas, não há fratern
 
 Essa a fé que o [Espiritismo][f4r] faculta e que doravante será o eixo em torno do qual girará o gênero humano, quaisquer que sejam os cultos e as crenças particulares.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 18
 
 O progresso intelectual realizado até o presente, nas mais largas proporções, constitui um grande passo e marca uma primeira fase no avanço geral da humanidade; impotente, porém, ele é para regenerá-la. Enquanto o orgulho e o egoísmo o dominarem, o homem se servirá da sua [inteligência][y2h] e dos seus conhecimentos para satisfazer às suas paixões e aos seus interesses pessoais, [razão][f8m] por que os aplica em aperfeiçoar os meios de prejudicar os seus semelhantes e de os destruir.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 19
 
@@ -5189,6 +8856,10 @@ Será ainda o progresso [moral][h4c] que, secundado então pelo da [inteligênci
 
 A unidade de crença será o laço mais forte, o fundamento mais sólido da fraternidade universal, obstada, desde todos os tempos pelos antagonismos religiosos que dividem os povos e as famílias, que fazem sejam uns, os dissidentes, vistos, pelos outros, como inimigos a serem evitados, combatidos, exterminados, em vez de irmãos a serem amados.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 20
 
 Semelhante estado de coisas pressupõe uma mudança radical no sentimento das massas, um progresso geral que não se podia realizar senão fora do círculo das ideias acanhadas e corriqueiras que fomentam o egoísmo. Em diversas épocas, homens de escol procuraram impelir a humanidade por esse caminho; mas, ainda muito jovem, ela se conservou surda e os ensinamentos que eles ministraram foram como a boa semente caída no pedregulho.
@@ -5197,33 +8868,65 @@ Hoje, a humanidade está madura para lançar o olhar a alturas que nunca tentou 
 
 A geração que desaparece levará consigo seus erros e prejuízos; a geração que surge, retemperada em fonte mais pura, imbuída de ideias mais sãs, imprimirá ao mundo ascensional movimento, no sentido do progresso [moral][h4c] que assinalará a nova fase da evolução humana.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 21
 
 Essa fase já se revela por sinais inequívocos, por tentativas de reformas úteis e que começam a encontrar eco. Assim é que vemos fundar-se uma imensidade de instituições protetoras, civilizadoras e emancipadoras, sob o influxo e por iniciativa de homens evidentemente predestinados à obra da regeneração; que as leis penais se vão apresentando dia a dia impregnadas de sentimentos mais humanos. Enfraquecem-se os preconceitos de raça, os povos entram a considerar-se membros de uma grande família; pela uniformidade e facilidade dos meios de realizarem suas transações, eles suprimem as barreiras que os separavam e de todos os pontos do mundo reúnem-se em comícios universais, para as justas pacíficas da [inteligência][y2h].
 
 Falta, porém, a essas reformas uma base que permita se desenvolvam, completem e consolidem; falta uma predisposição [moral][h4c] mais generalizada, para fazer que elas frutifiquem e que as massas as acolham. Ainda aí há um sinal característico da época, porque há o prelúdio do que se efetuará em mais larga escala, à proporção que o terreno se for tornando mais favorável.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 22
 
 Outro sinal não menos característico do período em que entramos encontra-se na reação que se opera no sentido das ideias espiritualistas; na repulsão instintiva que se manifesta contra as ideias materialistas. O espírito de incredulidade, que se apoderara das massas, ignorantes ou esclarecidas, e as levava a rejeitar com a forma a substância mesma de toda crença, parece ter sido um sono, a cujo despertar se sente a necessidade de respirar um ar mais vivificante. Involuntariamente, lá onde o vácuo se fizera, procura-se alguma coisa, um ponto de apoio.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 23
 
 Se supusermos possuída desses sentimentos a maioria dos homens, poderemos facilmente imaginar as modificações que daí decorrerão para as relações sociais; todos terão por divisa: [caridade][c5q], fraternidade, benevolência para com todos, tolerância para todas as crenças. É a meta para que tende evidentemente a humanidade; esse o objeto de suas aspirações, de seus desejos, sem que, entretanto, ela perceba claramente por que meio as há de realizar. Ensaia, tateia, mas é detida por muitas resistências ativas, ou pela força de inércia dos preconceitos, das crenças estacionárias e refratárias ao progresso. Faz-se-lhe mister vencer tais resistências e essa será a obra da nova geração. Quem acompanhar o curso atual das coisas reconhecerá que tudo parece predestinado a lhe abrir caminho. Ela terá por si a dupla força do número e das ideias e, de acréscimo, a experiência do passado.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 24
 
 A nova geração marchará, pois, para a realização de todas as ideias humanitárias compatíveis com o grau de adiantamento a que houver chegado. Avançando para o mesmo alvo e realizando seus objetivos, o [Espiritismo][f4r] se encontrará com ela no mesmo terreno. Aos homens progressistas se deparará nas ideias espíritas poderosa alavanca e o [Espiritismo][f4r] achará, nos novos homens, espíritos inteiramente dispostos a acolhê-lo. Dado esse estado de coisas, que poderão fazer os que entendam de opor-se-lhe?
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 25
 
 O [Espiritismo][f4r] não cria a renovação social; a madureza da humanidade é que fará dessa renovação uma necessidade. Pelo seu poder moralizador, por suas tendências progressistas, pela amplitude de suas vistas, pela generalidade das questões que abrange, o [Espiritismo][f4r] é mais apto, do que qualquer outra doutrina, a secundar o movimento de regeneração; por isso, é ele contemporâneo desse movimento. Surgiu na hora em que podia ser de utilidade, visto que também para ele os tempos são chegados. Se viera mais cedo, teria esbarrado em obstáculos insuperáveis; houvera inevitavelmente sucumbido, porque, satisfeitos com o que tinham, os homens ainda não sentiriam falta do que ele lhes traz. Hoje, nascido com as ideias que fermentam, encontra preparado o terreno para recebê-lo. Os espíritos cansados da dúvida e da incerteza, horrorizados com o abismo que se lhes abre à frente, o acolhem como âncora de salvação e consolação suprema.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 26
 
 Grande, por certo, é ainda o número dos retardatários; mas, que podem eles contra a onda que se alteia, senão atirar-lhe algumas pedras? Essa onda é a geração que surge, ao passo que eles se somem com a geração que vai desaparecendo todos os dias a passos largos. Até lá, porém, eles defenderão palmo a palmo o terreno. Haverá, portanto, uma luta inevitável, mas luta desigual, porque é a do passado decrépito, a cair em frangalhos, contra o futuro juvenil. Será a luta da estagnação contra o progresso, da criatura contra a vontade do Criador, uma vez que chegados são os tempos por Ele determinados.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### A geração nova
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 27
 
@@ -5235,8 +8938,11 @@ Tudo, pois, se processará exteriormente, como sói acontecer, com a única, mas
 
 Muito menos, pois, se trata de uma nova geração corpórea, do que de uma nova geração de Espíritos. Sem dúvida, neste sentido é que [Jesus][q3y] entendia as coisas, quando declarava: “Digo-vos, em [verdade][x8k], que esta geração não passará sem que estes fatos tenham ocorrido.” Assim, decepcionados ficarão os que contem ver a transformação operar-se por efeitos sobrenaturais e maravilhosos. [^192]
 
-
 [^192]: 2 N.E.: Ver Nota Explicativa.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 28
 
@@ -5250,15 +8956,27 @@ O que, ao contrário, distingue os Espíritos atrasados é, em primeiro lugar, a
 
 Desses vícios é que a Terra tem de ser expurgada pelo afastamento dos que se obstinam em não emendar-se; porque são incompatíveis com o reinado da fraternidade e porque o contato com eles constituirá sempre um sofrimento para os homens de bem. Quando a Terra se achar livre deles, os homens caminharão sem óbices para o futuro melhor que lhes está reservado, mesmo neste mundo, por prêmio de seus esforços e de sua perseverança, enquanto esperem que uma depuração mais completa lhes abra o acesso aos mundos superiores.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 29
 
 Não se deve entender que por meio dessa emigração de Espíritos sejam expulsos da Terra e relegados para mundos inferiores todos os Espíritos retardatários. Muitos, ao contrário, aí voltarão, porquanto muitos há que o são porque cederam ao arrastamento das circunstâncias e do exemplo. Nesses, a casca é pior do que o cerne. Uma vez subtraídos à influência da matéria e dos prejuízos do mundo corporal, eles, em sua maioria, verão as coisas de maneira inteiramente diversa daquela por que as viam quando em [vida][r4f], conforme os múltiplos casos que conhecemos. Para isso, têm a auxiliá-los Espíritos benévolos que por eles se interessam e se dão pressa em esclarecê-los e em lhes mostrar quão falso era o caminho que seguiam. Nós mesmos, pelas nossas preces e exortações, podemos concorrer para que eles se melhorem, visto que entre mortos e vivos há perpétua solidariedade.
 
 É muito simples o modo por que se opera a transformação, sendo, como se vê, todo ele de ordem [moral][h4c], sem se afastar em nada das leis da natureza.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 30
 
 Sejam os que componham a nova geração Espíritos melhores, ou Espíritos antigos que se melhoraram, o resultado é o mesmo. Desde que trazem disposições melhores, há sempre uma renovação. Assim, segundo suas disposições naturais, os Espíritos encarnados formam duas categorias: de um lado, os retardatários, que partem; de outro, os progressistas, que chegam. O estado dos costumes e da sociedade estará, portanto, no seio de um povo, de uma raça, ou do mundo inteiro, em relação com aquela das duas categorias que preponderar.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 31
 
@@ -5266,11 +8984,19 @@ Uma comparação vulgar ainda melhor dará a compreender o que se passa nessa ci
 
 Suponhamos que esses homens são retirados um a um, dez a dez, cem a cem, do regimento e substituídos gradativamente por iguais números de bons soldados, mesmo por alguns dos que, já tendo sido expulsos, se corrigiram. Ao cabo de algum tempo, existirá o mesmo regimento, mas transformado. A boa ordem terá sucedido à desordem
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 32
 
 As grandes partidas coletivas, entretanto, não têm por único fim ativar as saídas; têm igualmente o de transformar mais rapidamente o espírito da massa, livrando-a das más influências e o de dar maior ascendente às ideias novas.
 
 Por estarem muitos, apesar de suas imperfeições, maduros para a transformação, é que muitos partem, a fim de apenas se retemperarem em fonte mais pura. Enquanto se conservassem no mesmo meio e sob as mesmas influências, persistiriam nas suas opiniões e nas suas maneiras de apreciar as coisas. Uma estada no mundo dos Espíritos bastará para lhes descerrar os olhos, por isso que aí veem o que não podiam ver na Terra. O incrédulo, o fanático, o absolutista, poderão, conseguintemente, voltar com ideias inatas de fé, tolerância e liberdade. Ao regressarem, acharão mudadas as coisas e experimentarão a influência do novo meio em que houverem nascido. Longe de se oporem às novas ideias, constituir-se-ão seus auxiliares
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 33
 
@@ -5280,9 +9006,17 @@ Quando insulado e individual, esse melhoramento passa despercebido e nenhuma inf
 
 É o que quase sempre se nota depois dos grandes choques que dizimam as populações. Os flagelos destruidores apenas destroem corpos, não atingem o [Espírito][g4f]; ativam o movimento de vaivém entre o mundo corporal e o mundo espiritual e, por conseguinte, o movimento progressivo dos Espíritos encarnados e desencarnados. É de notar-se que em todas as épocas da História, às grandes crises sociais se seguiu uma era de progresso.
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ###### 34
 
 Opera-se presentemente um desses movimentos gerais, destinados a realizar uma remodelação da humanidade. A multiplicidade das causas de destruição constitui sinal característico dos tempos, visto que elas apressarão a eclosão dos novos germens. São as folhas que caem no outono e às quais sucedem outras folhas cheias de [vida][r4f], porquanto a humanidade tem suas estações, como os indivíduos têm suas várias idades. As folhas mortas da humanidade caem batidas pelas rajadas e pelos golpes de vento, porém, para renascerem mais vivazes sob o mesmo sopro de [vida][r4f], que não se extingue, mas se purifica.
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ###### 35
 
@@ -5292,7 +9026,15 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 ---
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ## 4. 🗃️ Pós-textual {#gen-4}
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 4.01 📄 Nota explicativa {#gen-4-01}
 
@@ -5370,108 +9112,315 @@ A Editora (FEB)
 
 ---
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 4.02 📑 Índice geral {#gen-4-02}
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 #### A
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### B
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### C
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### D
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### E
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### F
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### G
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### H
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### I
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### J
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### K
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### L
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### M
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### N
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### P
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### Q
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### R
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### S
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### T
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### U
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### V
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### W
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### X
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### Y
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 #### Z
 
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
+
 ##### 🏷️ item
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ label <a href="#term">↩️</a>
+</details>
 
 ### 4.03 📃 Notas de rodapé {#gen-4-03}
 
@@ -5541,7 +9490,6 @@ Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima
 [^32]: A.K.: Tal também a situação dos negadores do mundo dos Espíritos, quando, após se haverem despojado do envoltório carnal, contemplam, desdobrados às suas vistas, os horizontes desse mundo. Compreendem, então, quão ocas eram as teorias com que pretendiam tudo explicar por meio exclusivamente da matéria. Contudo, esses horizontes ainda lhes ocultam mistérios que só posteriormente se lhes desvendam, à medida que, depurando-se, eles se elevam. Desde, porém, os seus primeiros momentos no outro mundo, veem-se forçados a reconhecer a própria cegueira e quão longe estavam da [verdade][x8k].
 
 [^33]: A.K.: Tudo reportamos ao que conhecemos e do que escapa à percepção dos nossos sentidos não compreendemos, como não compreende o cego de nascença os efeitos da luz e da utilidade dos olhos. Possível é, pois, que noutros meios, o fluido cósmico possua propriedades, seja suscetível de combinações de que não fazemos nenhuma ideia, produza efeitos apropriados a necessidades que desconhecemos, dando lugar a percepções novas ou a outros modos de percepção. Não compreendemos, por exemplo, que se possa ver sem os olhos do corpo e sem a luz. Quem nos diz, porém, que não existam outros agentes, afora a luz, aos quais são adequados organismos especiais? A vista sonambúlica, que nem a distância, nem os obstáculos materiais, nem a obscuridade detêm, nos oferece um exemplo disso. Suponhamos que, num mundo qualquer, os seres sejam normalmente o que só excepcionalmente o são os nossos sonâmbulos; eles, sem precisarem da nossa luz, nem dos nossos olhos, verão o que não podemos ver. O mesmo se dá com todas as outras sensações. As condições de vitalidade e de perceptibilidade, as sensações e as necessidades variam de conformidade com os meios.
-
 
 [^34]: A.K.: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
 
@@ -5886,7 +9834,6 @@ Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muit
 [^187]: A.K.: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
 
 [^188]: N.E.: Ver Nota Explicativa.
-
 
 [^189]: A.K.: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
 
