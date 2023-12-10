@@ -55,8 +55,8 @@
     }
     
     #col2-body blockquote.grey em {
-    color:inherit;
-    font-weight:700
+    color:inherit!important;
+    font-weight:700!important
     }
     
     #col2-body blockquote.grey-center {
@@ -110,11 +110,11 @@
     }
     
     blockquote a {
-    color:inherit
+    color:inherit!important
     }
     
     blockquote a:hover {
-    color:unset
+    color:unset!important
     }
 
     /* END BQUOTE */

@@ -10,8 +10,8 @@
     }
     
     #col2-body,#col4-body {
-    padding-left:15px;
-    padding-right:15px
+    padding-left:15px!important;
+    padding-right:15px!important
     }
     
     #col2-brand,#col2-menu-on {
@@ -36,11 +36,11 @@
     }
     
     .dropdown {
-    left:15px
+    left:15px!important
     }
     
     .dropdown-content {
-    left:20px;
+    left:20px!important;
     position:relative;
     top:-5px
     }

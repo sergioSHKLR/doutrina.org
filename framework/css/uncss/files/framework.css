@@ -112,7 +112,7 @@
     color:#000;
     height:calc(100vh - (50px));
     position:fixed;
-    right:24px;
+    right:24px!important;
     top:50px;
     width:calc((100vw - 324px) * .5)
     }
@@ -122,13 +122,13 @@
     border-bottom:1px solid #59595980;
     box-shadow:0 5px 3px -3px #00000030;
     padding:0 20px 0 10px;
-    right:24px;
+    right:24px!important;
     width:calc((100vw - 324px) * .5);
     z-index:3
     }
     
     #col3-head a {
-    padding:10px
+    padding:10px!important
     }
     
     #ext-iframe {
@@ -268,7 +268,7 @@
     }
     
     html,iframe,img {
-    overflow:clip
+    overflow:clip!important
     }
     
     p.banner {
@@ -281,7 +281,7 @@
     }
     
     span.label {
-    font-size:10px;
+    font-size:10px!important;
     justify-content:center;
     text-align:center
     }

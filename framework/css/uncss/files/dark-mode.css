@@ -10,11 +10,11 @@
     }
     
     .dark-mode #col2-body a:any-link:hover {
-    color:#1e90ff
+    color:#1e90ff!important
     }
     
     .dark-mode .dropdown-content {
-    background-color:#28343c
+    background-color:#28343c!important
     }
     
     .dark-mode details.links {
