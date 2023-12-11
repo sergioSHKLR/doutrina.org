@@ -38,13 +38,13 @@
   ],
   "icons": [
     {
-      "src": "https://pt.doutrina.org/framework/pwa/maskable.png",
+      "src": "maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://pt.doutrina.org/framework/pwa/favicon.png",
+      "src": "favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -52,20 +52,26 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot1.png",
-      "sizes": "2560x1387",
+      "src": "desktop.png",
+      "sizes": "2560x1440",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "tablet.png",
+      "sizes": "1274x1313",
       "type": "image/png"
     },
     {
-      "src": "screenshot2.png",
-      "sizes": "2560x1387",
+      "src": "mobile.png",
+      "sizes": "638x1313",
       "type": "image/png",
-      "form_factor": "wide"
+      "form_factor": "narrow"
     }
 
   ],
   "features": [
-    "Cross Platform",
+    "cross platform",
     "rápido",
     "simples"
   ],
