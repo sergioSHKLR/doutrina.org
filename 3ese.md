@@ -1,11 +1,7 @@
 ---
-title: 🕊️ O Evangelho segundo o Espiritismo
+title: 🕊️ O Evangelho
 layout: 3-ese
 ---
-
-<style>
-    h6 {margin-bottom: 0px;}
-</style>
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
