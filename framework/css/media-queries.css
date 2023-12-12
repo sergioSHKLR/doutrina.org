@@ -31,10 +31,6 @@
         width: calc(100vw - 24px)
     }
 
-    #col3-fn-btn,
-    #col3-dm-btn,
-    #col3-lm-btn,
-    #col3-fs-btn,
     #col1-head,
     #col1-body,
     #col3-head,
@@ -43,8 +39,7 @@
     #col3-link2,
     #col3-link3,
     #col3-link4,
-    #webshare,
-    .label {
+    #webshare {
         display: none
     }
 
@@ -70,10 +65,6 @@
 
     #col1-head,
     #col1-body,
-    #col3-fn-btn,
-    #col3-dm-btn,
-    #col3-lm-btn,
-    #col3-fs-btn,
     #col3-head,
     #col3-body,
     #col3-link1,
@@ -102,7 +93,9 @@
 
 @media only screen and (min-width:740px) and (max-width:850px) {
 
-    #webshare {display: none;}
+    #webshare {
+        display: none;
+    }
 }
 
 
@@ -113,11 +106,8 @@
 
     #col1-head,
     #col1-body,
-    #col3-fn-btn,
-    #col3-dm-btn,
-    #col3-lm-btn,
-    #col3-fs-btn,
-    .label {
+    #col2-fs-btn,
+    #webshare {
         display: none
     }
 
@@ -151,10 +141,9 @@
 
     #col1-head,
     #col1-body,
-    #col3-fn-btn,
-    #col3-dm-btn,
-    #col3-lm-btn,
-    #col3-fs-btn {
+    #col2-fs-btn,
+    #webshare,
+    #alert {
         display: none
     }
 
@@ -192,10 +181,8 @@
 
     #col1-head,
     #col1-body,
-    #col3-fn-btn,
-    #col3-dm-btn,
-    #col3-lm-btn,
-    #col3-fs-btn {
+    #col2-fs-btn,
+    #webshare, #alert {
         display: none
     }
 
@@ -221,10 +208,8 @@
 
     #col2-brand,
     #col2-menu-on,
-    #col3-fn-btn,
-    #col3-dm-btn,
-    #col3-lm-btn,
-    #col3-fs-btn {
+    #col2-fs-btn,
+    #webshare {
         display: none
     }
 
@@ -232,6 +217,21 @@
         left: 10px;
         top: 10px
     }
+
 }
+
+@media (orientation: landscape) {
+    #alert {
+        display: none;
+    }
+}
+
+@media  only screen and (max-width:750px) and (orientation: portrait)  {
+    #alert {
+        display: block;
+    }
+
+}
+
 
 /* END MEDIA QUERIES */

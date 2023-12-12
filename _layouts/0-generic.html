@@ -148,12 +148,12 @@
       <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span
           class="icon">density_large</span></button>
 
-      <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span
-          class="icon" style="border-radius: 50%; background-color: #fffce4; border: 1px solid #59595980;">&nbsp;</button>
-      <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span
-          class="icon" style="border-radius: 50%; background-color: #e8fce4; border: 1px solid #59595980;">&nbsp;</span></button>
-      <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span
-          class="icon" style="border-radius: 50%; background-color: #fff4fc; border: 1px solid #59595980;">&nbsp;</span></button>
+      <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span class="icon"
+          style="border-radius: 50%; background-color: #fffce4; border: 1px solid #59595980;">&nbsp;</button>
+      <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span class="icon"
+          style="border-radius: 50%; background-color: #e8fce4; border: 1px solid #59595980;">&nbsp;</span></button>
+      <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span class="icon"
+          style="border-radius: 50%; background-color: #fff4fc; border: 1px solid #59595980;">&nbsp;</span></button>
 
       <button class="tools" id="ra-btn" onclick="functionResetAll()" title="reverter tudo"><span
           class="icon">restart_alt</span></button>
@@ -163,8 +163,7 @@
   <!-- COL2 HEAD -->
   <div id="col2-head" class="head">
     <button id="col2-menu-on" onclick="menuOn()" title="abrir menu"><span class="icon">menu</span></button>
-    <button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span
-        class="icon">close</span></button>
+    <button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span class="icon">close</span></button>
     <a href="./home.html" id="col2-brand">💧doutrina.org</a>
 
     <button id="webshare" class="fr" label="compartilhe"><span class="icon">share</span></button>
@@ -177,6 +176,9 @@
         class="icon">dark_mode</span></button>
     <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
         class="icon">light_mode</span></button>
+
+    <button id="alert" class="fr blob hide" title="website melhor visto no modo deitado"><span id="blob-icon">🗘</span></button>
+    
   </div>
 
   <!-- COL2 BODY -->
@@ -186,11 +188,11 @@
 
   <!-- COL3 HEAD -->
   <div id="col3-head" class="head">
-    <a id="col3-link1-a" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
+    <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
       <span class="icon">language</span></a>
-    <a id="col3-link2-a" target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
+    <a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
       <span class="icon">book_2</span></a>
-    <a id="col3-link3-a" target="ext" href="./content/maps/paris.html" title="atlas">
+    <a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="atlas">
       <span class="icon">location_on</span></a>
     <!-- <a id="col3-link4-a" target="_blank"
 href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
@@ -201,9 +203,9 @@ title="vídeo chamada"><span class="icon">video_call</span></a> -->
   <div id="col3-body">
     <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" src="./ext.html"></iframe>
   </div>
+  <!--
   <div id="hypo-icon"><img src="../framework/pencil.gif"></div>
-  <div id="hypo-label">anotações</div>
-
+  <div id="hypo-label">anotações</div> -->
 
   <!-- SCRIPTS -->
   <script async src="./framework/js/ext-links.js"></script>

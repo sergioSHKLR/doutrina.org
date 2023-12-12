@@ -114,7 +114,8 @@
     left: 300px;
     padding: 0 17px 0 0;
     width: calc((100vw - 324px) * .5);
-    z-index: 3
+    z-index: 3;
+    overflow: hidden;
 }
 
 #col3-body {
@@ -140,7 +141,7 @@
 }
 
 #col3-head a {
-    padding: 10px
+    padding: 10px; position: relative; top: -5px;
 }
 
 #ext-iframe {
@@ -319,6 +320,47 @@ summary.ff-mono {
 summary:active {
     background-color: inherit;
     outline: none
+}
+
+#rotate-device {
+    color: red;
+}
+
+.blob {
+    background: orange;
+    border-radius: 50%;
+    margin: 10px;
+    height: 25px;
+    width: 25px;
+    vertical-align: middle;
+
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 1);
+    transform: scale(1);
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 165, 0, 0.7);
+    }
+
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 10px rgba(255, 165, 0, 0);
+    }
+
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 165, 0, 0);
+    }
+}
+
+#blob-icon {
+    position: relative;
+    top: -2px;
+    color: white;
+    font-size: 85%
 }
 
 /* END FRAMEWORK */
