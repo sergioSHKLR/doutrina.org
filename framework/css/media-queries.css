@@ -142,8 +142,7 @@
     #col1-head,
     #col1-body,
     #col2-fs-btn,
-    #webshare,
-    #alert {
+    #webshare {
         display: none
     }
 
@@ -182,7 +181,7 @@
     #col1-head,
     #col1-body,
     #col2-fs-btn,
-    #webshare, #alert {
+    #webshare {
         display: none
     }
 
@@ -220,13 +219,8 @@
 
 }
 
-@media (orientation: landscape) {
-    #alert {
-        display: none;
-    }
-}
 
-@media  only screen and (max-width:750px) and (orientation: portrait)  {
+@media  only screen and (max-width:749px) and (orientation: portrait)  {
     #alert {
         display: block;
     }

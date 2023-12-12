@@ -71,7 +71,7 @@
 
 <!-- BODY -->
 
-<body onload="checkMode()">
+<body onload="checkMode(); portraitAlert()">
 
   <!-- COL1 HEAD -->
   <div id="col1-head" class="head">
@@ -177,8 +177,6 @@
     <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
         class="icon">light_mode</span></button>
 
-    <button id="alert" class="fr blob hide" title="website melhor visto no modo deitado"><span id="blob-icon">🗘</span></button>
-    
   </div>
 
   <!-- COL2 BODY -->
@@ -188,14 +186,17 @@
 
   <!-- COL3 HEAD -->
   <div id="col3-head" class="head">
-    <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia">
-      <span class="icon">language</span></a>
-    <a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="dicionário">
-      <span class="icon">book_2</span></a>
-    <a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="atlas">
-      <span class="icon">location_on</span></a>
-    <!-- <a id="col3-link4-a" target="_blank"
-href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
+
+    <a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="atlas"><span
+        class="icon">location_on</span></a>
+
+    <a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="dicionário"><span
+        class="icon">book_2</span>
+
+      <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia"><span
+          class="icon">language</span></a>
+
+      <!-- <a id="col3-link4-a" target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
 title="vídeo chamada"><span class="icon">video_call</span></a> -->
   </div>
 
@@ -236,6 +237,8 @@ title="vídeo chamada"><span class="icon">video_call</span></a> -->
 }
 </script>
   <script async src="https://hypothes.is/embed.js"></script>
+
+<div id="alert" class="hide">No celular? Use-o no modo deitado.</span></div>
 
   <!-- STAND WIHT US 
 <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./framework/israel.svg"

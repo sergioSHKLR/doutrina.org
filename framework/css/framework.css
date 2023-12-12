@@ -141,7 +141,9 @@
 }
 
 #col3-head a {
-    padding: 10px; position: relative; top: -5px;
+    padding: 10px;
+    position: relative;
+    top: -5px;
 }
 
 #ext-iframe {
@@ -235,7 +237,7 @@ a#col3-link4-a {
 
 a:active,
 a:focus {
-    background-color: inherit;
+    background-color: transparent;
     outline: none
 }
 
@@ -361,6 +363,19 @@ summary:active {
     top: -2px;
     color: white;
     font-size: 85%
+}
+
+div#alert {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 23px;
+    background-color: #ffec80;
+    padding: 2px;
+    font-family: 'Inter';
+    font-size: 11px;
+width: calc(100% - 33px);
+    text-align: center;
 }
 
 /* END FRAMEWORK */
