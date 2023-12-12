@@ -16,7 +16,7 @@
     }
 
     #col2-brand,
-    #col2-menu-on {
+    #col2-menu-on, #col2-fs-btn {
         display: inline-block
     }
 
@@ -47,15 +47,6 @@
         padding-right: 30px
     }
 
-    .dropdown {
-        left: 15px
-    }
-
-    .dropdown-content {
-        left: 20px;
-        position: relative;
-        top: -5px
-    }
 }
 
 @media only screen and (min-width:450px) and (max-width:750px) {
@@ -85,17 +76,8 @@
         width: calc(100vw - 24px)
     }
 
-    .dropdown-content {
-        position: relative;
-        top: -5px
-    }
-}
+    #col2-fs-btn {display: inline-block;}
 
-@media only screen and (min-width:740px) and (max-width:850px) {
-
-    #webshare {
-        display: none;
-    }
 }
 
 
@@ -128,10 +110,8 @@
         width: calc((100vw - 24px) * .5)
     }
 
-    .dropdown-content {
-        position: relative;
-        top: -5px
-    }
+    #col2-fs-btn {display: inline-block;}
+
 }
 
 @media only screen and (min-width:1000px) and (max-width:1463px) {
@@ -163,14 +143,6 @@
         width: calc((100vw - 24px) * .5)
     }
 
-    #dropdown-btn {
-        left: 250px
-    }
-
-    .dropdown-content {
-        position: relative;
-        top: -5px
-    }
 }
 
 @media only screen and (min-width:1463px) and (max-width:1890px) {
@@ -196,11 +168,6 @@
     #col3-body {
         width: calc((100vw - 24px) * .5)
     }
-
-    .dropdown-content {
-        position: relative;
-        top: -5px
-    }
 }
 
 @media only screen and (min-width:1890px) {
@@ -210,11 +177,6 @@
     #col2-fs-btn,
     #webshare {
         display: none
-    }
-
-    button#dropdown-btn.dropbtn {
-        left: 10px;
-        top: 10px
     }
 
 }

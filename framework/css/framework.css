@@ -152,22 +152,14 @@
     width: 100%
 }
 
-#hypo-icon {
+#hypo {
     position: absolute;
-    right: -73px;
-    top: 15px;
-    transform: rotate(0deg) scale(.1);
-    z-index: 999;
-}
-
-#hypo-label {
-    font-family: sans;
-    font-size: 12px;
-    position: absolute;
-    right: -17px;
-    top: 165px;
-    transform: rotate(270deg);
-    vertical-align: middle;
+    right: 3px;
+    top: 120px;
+    color: gold;
+    background-color: #666;
+    padding: 2px 3px;
+    border-radius: 3px;;
 }
 
 #israel {

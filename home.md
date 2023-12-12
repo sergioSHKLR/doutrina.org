@@ -36,7 +36,7 @@ Por fim, ficaríamos gratos com o seu feedback!
 
 Tenha um bom estudo!
 
-<img src="./framework/baldy.webp" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; transform: scaleX(-1)">
+<img src="./framework/me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px;)">
 
 Sergio
 {:.cursive}
