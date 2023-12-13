@@ -1,9 +1,9 @@
 ---
-title: ❤️ Comentários
+title: ❤️ Contribuições
 layout: 0-generic
 ---
 
-# ❤️ Comentários
+# ❤️ Contribuições
 
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAwX4nigTYKmV-IhIzlhwayQm7PRwIkny8zG6HYLTmA2ZvCQ/viewform?embedded=true"  width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
