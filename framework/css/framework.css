@@ -156,12 +156,24 @@
     position: absolute;
     right: 3px;
     top: 120px;
-    color: #666;
-    border: 1px solid #59595980;
-    background-color: #fff;
-    padding: 5px 2px 0px 2px;
-    border-radius: 3px;
+    padding: 4px 2px 0px 2px;
     vertical-align: middle;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: #dbdbdb;
+    font-family: inherit;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 30px;
+    width: 30px;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    color: rgb(115 115 115 1);
+    cursor: pointer;
 }
 
 #israel {
@@ -368,7 +380,7 @@ div#alert {
     padding: 2px;
     font-family: 'Inter';
     font-size: 11px;
-width: calc(100% - 33px);
+    width: calc(100% - 33px);
     text-align: center;
 }
 
