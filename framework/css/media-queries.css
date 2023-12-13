@@ -16,7 +16,7 @@
     }
 
     #col2-brand,
-    #col2-menu-on, #col2-fs-btn {
+    #col2-menu-on {
         display: inline-block
     }
 
@@ -76,8 +76,6 @@
         width: calc(100vw - 24px)
     }
 
-    #col2-fs-btn {display: inline-block;}
-
 }
 
 
@@ -109,8 +107,6 @@
     #col3-body {
         width: calc((100vw - 24px) * .5)
     }
-
-    #col2-fs-btn {display: inline-block;}
 
 }
 

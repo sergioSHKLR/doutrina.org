@@ -156,10 +156,12 @@
     position: absolute;
     right: 3px;
     top: 120px;
-    color: gold;
-    background-color: #666;
-    padding: 2px 3px;
-    border-radius: 3px;;
+    color: #666;
+    border: 1px solid #59595980;
+    background-color: #fff;
+    padding: 5px 2px 0px 2px;
+    border-radius: 3px;
+    vertical-align: middle;
 }
 
 #israel {
