@@ -14,95 +14,25 @@ layout: 0-generic
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
-<!--
-Abaixo você verá uma representação de acordo a sua tela. Caso esteja usando um tablet ou celular, você pode mudar a orientação (de pé para deitado) para obter uma largura maior.
+Nos inspiramos nos esforços de:
 
-<iframe id="screenshot1" class="border-0 overflow-h w-100" src="./iframe_content/desktop.html" style="height: 350px;"></iframe>
+- [Portal Luz Espírita](https://www.luzespirita.org.br)
+- [Kardecpedia](https://kardecpedia.com/pt)
 
-<iframe id="screenshot2" class="border-0 overflow-h w-100" src="./iframe_content/tablet.html" style="height: 350px; "></iframe>
+Agregamos ferramentas externas de:
 
-<iframe id="screenshot3" class="border-0 overflow-h w-100" src="./iframe_content/celular.html" style="height: 350px; "></iframe>
+- [Hypothes.is](https://web.hypothes.is/everyone/)
+- [Whereby](https://whereby.com/)
 
-Os botões ao topo da página servem aos seguintes propósitos:
+Mostramos conteúdo proveniente de:
 
-<table class="border p-10 fs-3 ff-slab col2-w ml-10">
-<tr class="bg-lg"><th style="width: 20%">Ícone</th>
-<th  style="width: 30%">Nome</th><th>Ação</th></tr>
-<tr class="t c">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">menu</span></td>
-<td class="fs-3">menu</td>
-<td class="fs-3">mostrar/esconder menu</td>
-</tr>
-<tr class="d t">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">language</span></td>
-<td class="fs-3">enciclopédia</td>
-<td class="fs-3">abrir página inicial Wikipédia</td>
-</tr>
-<tr class="d t">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">book_2</span></td>
-<td class="fs-3">dicionário</td>
-<td class="fs-3">abrir página inicial Wikicionário</td>
-</tr>
-<tr class="d t">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">location_on</span></td>
-<td class="fs-3">atlas</td>
-<td class="fs-3">abrir atlas geográfico (somente ESE)</td>
-</tr>
-<tr class="d t">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">video_call</span></td>
-<td class="fs-3">vídeo chamada</td>
-<td class="fs-3">iniciar vídeo chamada (estudos em grupo)</td>
-</tr>
-
-<tr class="d t">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">visibility_off</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">visibility</span></td>
-<td class="fs-3">cortina anti-distração</td>
-<td class="fs-3">ativar ou desativar cortina anti-distração</td>
-</tr>
-
-<tr class="d t c">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">dark_mode</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">light_mode</span></td>
-<td class="fs-3">modo escuro/claro</td>
-<td class="fs-3">alternar entre modo escuro e modo claro (inativo)</td>
-</tr>
-<tr class="t c">
-<td style="vertical-align: bottom"><span class="fs-1a material-symbols-outlined">fullscreen</span>&nbsp;&nbsp;<span class="fs-1a material-symbols-outlined">fullscreen_exit</span></td>
-<td class="fs-3">tela cheia/normal</td>
-<td class="fs-3">alternar entre tela cheia e tela normal</td>
-</tr>
-</table> -->
-
-Nossas fases de desenvolvimento são: 
-
-| --- | --- |
-| Fase | Estado |
-| Estabelecer um padrão hierárquico, de diagramação, e de tipografia que permita seu uso através dos cinco livros distintos |  |
-| Copiar e colar cada parágrafo da obra original, utilizando-se do PDF livremente disponível no site da FEB (veja [Avisos legais](./legal.md)) |  |
-| Criar um repositório de nosso código fonte para acesso de programadores afins |  |
-| Verificar que cada termo grifado em itálico no original está também grifado em nosso projeto |  |
-| Substituir numerais romanos por seus equivalentes |  |
-| Substituir Bíblia de Sacy por Almeida Revista e Corrigida |  |
-| Assinalar cada comunicação mediúnica com o padrão determinado em fase anterior |  |
-| Assinalar cada trecho bíblico com o padrão determinado em fase anterior, adicionar livro, capítulo, versículos e versão |  |
-| Adicionar links de artigos, definicões, mapas, vídeos e etc |  |
-| Estabelecer links entre partes do mesmo livro e entre livros |  |
-| Digitalizar o indíce geral de cada livro e estabelecer links |  |
-| Criar um indíce combinado de todos os cinco livros |  |
-| Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas |  |
+- [Wikipedia](https://pt.m.wikipedia.org)
+- [Wikicionário](https://pt.m.wiktionary.org)
+- [Bible.com](https://www.bible.com/pt)
+- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)
+- [O Escolhido, Série](https://osescolhidos.tv/)
 
 Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
-
-- [Wikipedia](https://pt.m.wikipedia.org){:target="ext"}
-- [Wikicionário](https://pt.m.wiktionary.org){:target="ext"}
-- [Kardecpedia](https://kardecpedia.com/pt){:target="ext"}
-- [Portal Luz Espírita](https://www.luzespirita.org.br){:target="ext"}
-- [Bible.com](https://www.bible.com/pt){:target="ext"}
-- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
-- [O Escolhido, Série](https://www.youtube.com/@thechosentvbr){:target="_blank"}
-- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=pt-br){:target="_blank"}
-- [Hypothes.is](https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp){:target="_blank"}
-- [Whereby](https://whereby.com/){:target="ext"}
-- [Crisp](https://crisp.chat/pt/){:target="_blank"}
 
 <p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
 
@@ -299,6 +229,26 @@ Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digit
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
  
 Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
+
+---
+
+## Etapas de desenvolvimento
+
+| --- | --- |
+| Fase | Estado |
+| Estabelecer um padrão hierárquico, de diagramação, e de tipografia que permita seu uso através dos cinco livros distintos | 🟢 |
+| Copiar e colar cada parágrafo da obra original, utilizando-se do PDF livremente disponível no site da FEB (veja [Avisos legais](./legal.md)) | 🟢 |
+| Criar um repositório de nosso código fonte para acesso de programadores afins | 🟢 |
+| Verificar que cada termo grifado em itálico no original está também grifado em nosso projeto | 🟡 |
+| Substituir numerais romanos por seus equivalentes | 🟡 |
+| Substituir Bíblia de Sacy por Almeida Revista e Corrigida | 🟡 |
+| Assinalar cada comunicação mediúnica com o padrão determinado em fase anterior | 🟡 |
+| Assinalar cada trecho bíblico com o padrão determinado em fase anterior, adicionar livro, capítulo, versículos e versão | 🟡 |
+| Adicionar links de artigos, definicões, mapas, vídeos e etc | 🟡 |
+| Estabelecer links entre partes do mesmo livro e entre livros | 🟡 |
+| Digitalizar o indíce geral de cada livro e estabelecer links | 🟡 |
+| Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas | 🟡 |
+| Criar um indíce combinado de todos os cinco livros | 🔴 |
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

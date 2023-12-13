@@ -7,7 +7,7 @@ layout: ext
 Os links da coluna do meio são abertos aqui. Eles podem ser:
 
 - artigos do Wikipedia
-- definições de palavras do Wikicionáario
+- definições de palavras do Wikicionário
 - vídeos da Igreja de Jesus Cristo dos Santos dos Últimos Dias
 - mapas indicando locais citados
 - diagramas, ilustrações, ou pinturas representativas
