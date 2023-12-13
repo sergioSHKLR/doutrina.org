@@ -26,6 +26,12 @@ Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colun
 
 Consulte a página <kbd>📋 Informações</kbd> para ficar a par dos padrões utilizados em nosso projeto.
 
+Embora baseadas em obras impressas, nossas versões foram modificadas para:
+
+- realçar a origem mediúnica de mensagens
+- realçar a concordância bíblica
+- facilitar o consumo digital (telas de tamanho variado)
+
 Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). 
 
 <!--

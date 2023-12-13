@@ -49,6 +49,8 @@ Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e
 
 Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal de Pré-textual. Similarmente, nomeamos as seções posteriores ao conteúdo principal de Pós-textual. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
 
+Modificações feitas são uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
+
 ## Padrões
 
 ### Livros
