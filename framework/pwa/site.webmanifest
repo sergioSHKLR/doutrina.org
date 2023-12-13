@@ -64,9 +64,8 @@
     },
     {
       "src": "mobile.png",
-      "sizes": "638x1313",
-      "type": "image/png",
-      "form_factor": "narrow"
+      "sizes": "637x1209",
+      "type": "image/png"
     }
 
   ],
