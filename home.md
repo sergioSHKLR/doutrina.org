@@ -14,7 +14,7 @@ layout: 0-generic
 
 # 🏠 Início
 
-Inspirado em outras iniciativas de educação e comunicação digital, criamos esta alternativa que combina fontes e ferramentas dispersas de modo a permitir ao usuário uma plataforma inédita de estudos integrados.
+Inspirado em outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir ao usuário uma plataforma inédita de estudos integrados.
 
 Nossa interface é composta de três colunas, que são seletivamente mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
 

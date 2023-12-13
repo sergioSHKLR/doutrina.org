@@ -4,7 +4,7 @@ layout: ext
 
 # 🪧 Complementar
 
-Os links da coluna do meio são abertos aqui. Eles podem ser:
+Os links da coluna principal são abertos aqui. Eles podem ser:
 
 - artigos do Wikipedia
 - definições de palavras do Wikicionário
