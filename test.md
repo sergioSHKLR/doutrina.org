@@ -31,6 +31,26 @@ const shareData = {
 
 <button id="webshare">share</button>
 
+<button id="install">Install</button>
+
+<script>
+    // main.js
+
+installButton.addEventListener("click", async () => {
+  if (!installPrompt) {
+    return;
+  }
+  const result = await installPrompt.prompt();
+  console.log(`Install prompt was: ${result.outcome}`);
+  disableInAppInstallPrompt();
+});
+
+function disableInAppInstallPrompt() {
+  installPrompt = null;
+  installButton.setAttribute("hidden", "");
+}
+</script>
+
 > 👻 ▸ Mensagem *Jesus* [link](link.html)  (Spirit)
 {:.spirit}
 
@@ -60,5 +80,7 @@ const shareData = {
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <img src="./content/images/vine.png">
+
+
 
 

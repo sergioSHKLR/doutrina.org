@@ -1,6 +1,6 @@
 const shareData = {
     title: "💧 doutrina.org",
-    text: "❤️ Amai-vos e instruí-vos! Uma plataforma inédita de estudos integrados.",
+    text: "❤️ Amai-vos e 🎓 instruí-vos!",
     url: "https://doutrina.org",
 };
 
