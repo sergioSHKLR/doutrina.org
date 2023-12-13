@@ -376,12 +376,13 @@ div#alert {
     top: 50px;
     left: 0;
     right: 23px;
-    background-color: #ffec80;
+    background-color: #ff450066;
     padding: 2px;
     font-family: 'Inter';
     font-size: 11px;
     width: calc(100% - 33px);
     text-align: center;
+    color: currentColor;
 }
 
 /* END FRAMEWORK */
