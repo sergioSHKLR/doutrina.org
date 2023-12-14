@@ -22,7 +22,7 @@ function function1() {
     var element = document.getElementById("col2-body");
     element.classList.remove("td");
     element.classList.remove("tn");
-    element.classList.add("ti");
+    element.classList.toggle("ti");
 }
 
 function checkMode1() {
@@ -38,7 +38,7 @@ function function0() {
     var element = document.getElementById("col2-body");
     element.classList.remove("ti");
     element.classList.remove("td");
-    element.classList.add("tn");
+    element.classList.toggle("tn");
 }
 
 function checkMode0() {
@@ -54,7 +54,7 @@ function function2() {
     var element = document.getElementById("col2-body");
     element.classList.remove("ti");
     element.classList.remove("tn");
-    element.classList.add("td");
+    element.classList.toggle("td");
 }
 
 function checkMode2() {
@@ -70,7 +70,7 @@ function function3() {
     localStorage.setItem("align", "left");
     var element = document.getElementById("col2-body");
     element.classList.remove("aj");
-    element.classList.add("al");
+    element.classList.toggle("al");
 }
 
 function checkMode3() {
@@ -86,7 +86,7 @@ function function4() {
     localStorage.setItem("align", "justified");
     var element = document.getElementById("col2-body");
     element.classList.remove("al");
-    element.classList.add("aj");
+    element.classList.toggle("aj");
 }
 
 function checkMode4() {
@@ -104,7 +104,7 @@ function function5() {
     element.classList.remove("f2");
     element.classList.remove("f3");
     element.classList.remove("f4");
-    element.classList.add("f1");
+    element.classList.toggle("f1");
 }
 
 function checkMode5() {
@@ -122,7 +122,7 @@ function function6() {
     element.classList.remove("f1");
     element.classList.remove("f3");
     element.classList.remove("f4");
-    element.classList.add("f2");
+    element.classList.toggle("f2");
 }
 
 function checkMode6() {
@@ -140,7 +140,7 @@ function function7() {
     element.classList.remove("f1");
     element.classList.remove("f2");
     element.classList.remove("f4");
-    element.classList.add("f3");
+    element.classList.toggle("f3");
 }
 
 function checkMode7() {
@@ -158,7 +158,7 @@ function function8() {
     element.classList.remove("f1");
     element.classList.remove("f2");
     element.classList.remove("f3");
-    element.classList.add("f4");
+    element.classList.toggle("f4");
 }
 
 function checkMode8() {
@@ -175,7 +175,7 @@ function function9() {
     var element = document.getElementById("col2-body");
     element.classList.remove("dm");
     element.classList.remove("dn");
-    element.classList.add("ds");
+    element.classList.toggle("ds");
 }
 
 function checkMode9() {
@@ -191,7 +191,7 @@ function function9a() {
     var element = document.getElementById("col2-body");
     element.classList.remove("dm");
     element.classList.remove("dn");
-    element.classList.add("dn");
+    element.classList.toggle("dn");
 }
 
 function checkMode9a() {
@@ -208,7 +208,7 @@ function function10() {
     var element = document.getElementById("col2-body");
     element.classList.remove("ds");
     element.classList.remove("dn");
-    element.classList.add("dm");
+    element.classList.toggle("dm");
 }
 
 function checkMode10() {
@@ -225,7 +225,7 @@ function function11() {
     var element = document.getElementById("col2-body");
     element.classList.remove("b2");
     element.classList.remove("b3");
-    element.classList.add("b1");
+    element.classList.toggle("b1");
 }
 
 function checkMode11() {
@@ -243,7 +243,7 @@ function function12() {
     element.classList.remove("b1");
     element.classList.remove("b3");
     element.classList.remove("b4");
-    element.classList.add("b2");
+    element.classList.toggle("b2");
 }
 
 function checkMode12() {
@@ -261,7 +261,7 @@ function function13() {
     element.classList.remove("b1");
     element.classList.remove("b2");
     element.classList.remove("b4");
-    element.classList.add("b3");
+    element.classList.toggle("b3");
 }
 
 function checkMode13() {
@@ -280,7 +280,7 @@ function function14() {
     element.classList.remove("b1");
     element.classList.remove("b2");
     element.classList.remove("b3");
-    element.classList.add("b4");
+    element.classList.toggle("b4");
 }
 
 function checkMode14() {
