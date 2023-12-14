@@ -1,6 +1,8 @@
 ---
 layout: 0-generic
+version: 23.14
 ---
+
 <style>
 
 blockquote a {color: inherit !important}

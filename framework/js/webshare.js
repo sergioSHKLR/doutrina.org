@@ -1,3 +1,5 @@
+// VERSION 23.14
+
 const shareData = {
     title: "💧 doutrina.org",
     text: "❤️ Amai-vos e 🎓 instruí-vos!",

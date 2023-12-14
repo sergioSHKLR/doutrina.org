@@ -1,6 +1,7 @@
 ---
 title: 📋 Informações
 layout: 0-generic
+version: 23.14
 ---
 
 # 📋 Informações

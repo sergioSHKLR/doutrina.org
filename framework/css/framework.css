@@ -1,3 +1,5 @@
+/* VERSION 23.14 */
+
 /* START FRAMEWORK */
 
 #col1-body {
@@ -27,6 +29,9 @@
 #col1-body::-webkit-scrollbar {
     display: none
 }
+
+#col1-body p {text-indent: 10px;}
+#col1-body .sidebar-heading {text-indent: 0px !important;}
 
 #col1-brand,
 #col2-brand {

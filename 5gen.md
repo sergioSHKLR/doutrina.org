@@ -1,6 +1,7 @@
 ---
 title: 🌱 A Gênese
 layout: 5-gen
+version: 23.14
 ---
 
 *[LDE]: O Livro dos Espíritos

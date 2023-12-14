@@ -1,3 +1,5 @@
+// VERSION 23.14
+
 // FULLSCREEN ---------------------------------------------------
 var elem = document.documentElement;
 

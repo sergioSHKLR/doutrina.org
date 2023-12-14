@@ -1,3 +1,5 @@
+// VERSION 23.14
+
 // SETS COL2 LINKS TO TARGET EXT --------------------------------
 (function () {
   const links = document.querySelectorAll(
