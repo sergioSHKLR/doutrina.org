@@ -23,19 +23,21 @@ layout: 1-lde
 [Mt29]: https://pt.m.wikipedia.org/wiki/Mateus_29
 [ARC]: https://www.bible.com/pt/versions/212
 
-[q3f]: https://pt.m.wikipedia.org/wiki/Alma
+[q3f]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Alma
 [c7p]: https://pt.m.wikipedia.org/wiki/Amor
-[a9g]: https://pt.m.wikipedia.org/wiki/Bem_(filosofia)
-[c5q]: https://pt.m.wikipedia.org/wiki/Caridade
+[a9g]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Bem
+[c5q]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Caridade
 [h4t]: https://pt.m.wikipedia.org/wiki/Ciência
 [t2q]: https://pt.m.wikipedia.org/wiki/Civilização
 [h7z]: https://pt.m.wikipedia.org/wiki/Consciência
 [g0s]: https://pt.m.wikipedia.org/wiki/Cristo
-[c5m]: https://pt.m.wikipedia.org/wiki/Deus
+[c5m]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Deus
 [r2x]: https://pt.m.wikipedia.org/wiki/Divina_Providência
-[f4r]: https://pt.m.wikipedia.org/wiki/Espiritismo
+[t6b]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Erraticidade
+[f4r]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espiritismo
 [g4f]: https://pt.m.wikipedia.org/wiki/Espírito
-[w4q]: https://pt.m.wikipedia.org/wiki/Espiritualismo
+[w4q]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espiritualismo
+[x3m]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Expiação
 [n2k]: https://pt.m.wikipedia.org/wiki/Filosofia
 [n3e]: https://pt.m.wikipedia.org/wiki/Humano
 [y2h]: https://pt.m.wikipedia.org/wiki/Inteligência
@@ -46,8 +48,8 @@ layout: 1-lde
 [h4c]: https://pt.m.wikipedia.org/wiki/Moral
 [q4x]: https://pt.m.wikipedia.org/wiki/Morte
 [i0s]: https://pt.m.wikipedia.org/wiki/Natureza humana
-[z2t]: https://pt.m.wikipedia.org/wiki/O_Livro_dos_Espíritos
-[i9b]: https://pt.m.wikipedia.org/wiki/Panteísmo
+[z2t]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=O Livro%20dos%20Espíritos
+[i9b]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Panteísmo
 [f8m]: https://pt.m.wikipedia.org/wiki/Razão
 [i8d]: https://pt.m.wikipedia.org/wiki/Sabedoria
 [a2j]: https://pt.m.wikipedia.org/wiki/Universo
@@ -71,7 +73,7 @@ layout: 1-lde
 ><br>
 > Sobre a imortalidade da [alma][q3f], a natureza dos [Espíritos][g4f] (👻) e suas relações com os homens, as leis morais, a [vida][r4f] presente, a vida futura e o porvir da [humanidade](https://pt.m.wikipedia.org/wiki/Natureza_humana) — segundo os ensinos dados por [Espíritos][g4f] superiores com o concurso de diversos [médiuns][c8r].  
 ><br>
-> por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec) (👴🏻)  
+> por [Allan Kardec](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Allan%20Kardec) (👴🏻)  
 ><br>
 > Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
 ><br>
@@ -111,7 +113,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 >
 > Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos.
 >
-> Porás no [cabeçalho](https://pt.m.wiktionary.org/wiki/cabeçalho) do livro a [cepa](https://pt.m.wiktionary.org/wiki/cepa) que te desenhamos [^3], porque é o emblema do trabalho do [Criador][c5m]. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a [cepa](https://pt.m.wiktionary.org/wiki/cepa); o [espírito][g4f] é o licor; a [alma][q3f] ou [espírito][g4f] ligado à matéria é o [bago](https://pt.m.wiktionary.org/wiki/bago). O homem [quintessencia](https://pt.m.wiktionary.org/wiki/quintessência) o [espírito][g4f] pelo trabalho e tu sabes que só mediante o trabalho do corpo o [Espírito][g4f] adquire conhecimentos.
+> Porás no [cabeçalho](https://pt.m.wiktionary.org/wiki/cabeçalho) do livro a [cepa](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Videira%20Espírita) que te desenhamos [^3], porque é o emblema do trabalho do [Criador][c5m]. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a [cepa](https://pt.m.wiktionary.org/wiki/cepa); o [espírito][g4f] é o licor; a [alma][q3f] ou [espírito][g4f] ligado à matéria é o [bago](https://pt.m.wiktionary.org/wiki/bago). O homem [quintessencia](https://pt.m.wiktionary.org/wiki/quintessência) o [espírito][g4f] pelo trabalho e tu sabes que só mediante o trabalho do corpo o [Espírito][g4f] adquire conhecimentos.
 >
 > Não te deixes desanimar pela [crítica](https://pt.m.wikipedia.org/wiki/Crítica). Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os [Espíritos][g4f], por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) por [malícia](https://pt.m.wiktionary.org/wiki/malícia) ou [ignorância](https://pt.m.wiktionary.org/wiki/ignorância). Prossegue sempre. Crê em [Deus][c5m] e caminha com [confiança](https://pt.m.wiktionary.org/wiki/confiança): aqui estaremos para te amparar e vem próximo o tempo em que a [Verdade](https://pt.wikipedia.org/wiki/Verdade) brilhará de todos os lados.
 >
@@ -121,7 +123,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](https://pt.wiki
 >
 > Lembra-te de que os bons [Espíritos][g4f] só dispensam assistência aos que servem a [Deus][c5m] com [humildade](https://pt.m.wiktionary.org/wiki/humildade) e desinteresse e que [repudiam](https://pt.m.wiktionary.org/wiki/repudiar) a todo aquele que busca na [senda](https://pt.m.wiktionary.org/wiki/senda) do [Céu](https://pt.m.wikipedia.org/wiki/Céu_(religião)) um degrau para conquistar as coisas da [Terra][g5i]; que se afastam do [orgulhoso](https://pt.m.wiktionary.org/wiki/orgulhoso) e do [ambicioso](https://pt.m.wiktionary.org/wiki/ambicioso). O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus][c5m]. São um véu lançado sobre as claridades celestes, e [Deus][c5m] não pode servir-se do cego para fazer perceptível a luz.
 >
-> <p class="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://pt.m.wikipedia.org/wiki/O_Espírito_da_Verdade_(espiritismo)">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
+> <p class="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espírito Verdade">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
 >
 {:.spirit}
 
@@ -179,7 +181,7 @@ Como tudo que constitui novidade, a [Doutrina Espírita][f4r] conta [adeptos](ht
 
 Lembremos, antes de tudo, em poucas palavras, a série progressiva dos [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) que deram origem a esta Doutrina.
 
-O primeiro fato observado foi o da movimentação de objetos diversos. Designaram-no vulgarmente pelo nome de **[mesas girantes](https://pt.m.wikipedia.org/wiki/Mesas_girantes)** ou **dança das mesas**. Este fenômeno, que parece ter sido notado primeiramente na América, ou, melhor, que se repetiu nesse país, porquanto a História prova que ele remonta à mais alta antiguidade, se produziu rodeado de circunstâncias estranhas, tais como ruídos [insólitos](https://pt.m.wiktionary.org/wiki/insólito), pancadas sem nenhuma causa [ostensiva](https://pt.m.wiktionary.org/wiki/ostensivo). De lá, propagou-se rapidamente pela Europa e pelas outras partes do mundo. A princípio quase que só encontrou incredulidade, porém, ao cabo de pouco tempo, a [multiplicidade](https://pt.m.wiktionary.org/wiki/multiplicidade) das experiências não mais permitiu lhe pusessem em [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) a [realidade](https://pt.m.wikipedia.org/wiki/Realidade).
+O primeiro fato observado foi o da movimentação de objetos diversos. Designaram-no vulgarmente pelo nome de **[mesas girantes](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Mesas%20Girantes)** ou **dança das mesas**. Este fenômeno, que parece ter sido notado primeiramente na América, ou, melhor, que se repetiu nesse país, porquanto a História prova que ele remonta à mais alta antiguidade, se produziu rodeado de circunstâncias estranhas, tais como ruídos [insólitos](https://pt.m.wiktionary.org/wiki/insólito), pancadas sem nenhuma causa [ostensiva](https://pt.m.wiktionary.org/wiki/ostensivo). De lá, propagou-se rapidamente pela Europa e pelas outras partes do mundo. A princípio quase que só encontrou incredulidade, porém, ao cabo de pouco tempo, a [multiplicidade](https://pt.m.wiktionary.org/wiki/multiplicidade) das experiências não mais permitiu lhe pusessem em [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) a [realidade](https://pt.m.wikipedia.org/wiki/Realidade).
 
 Se tal fenômeno se houvesse limitado ao movimento de objetos materiais, poderia explicar-se por uma causa puramente física. Estamos longe de conhecer todos os agentes ocultos da [Natureza](https://pt.m.wikipedia.org/wiki/Natureza), ou todas as propriedades dos que conhecemos: a [eletricidade](https://pt.m.wikipedia.org/wiki/Eletricidade) multiplica diariamente os recursos que proporciona ao homem e parece destinada a iluminar a [Ciência][h4t] com uma nova luz. Nada de impossível haveria, portanto, em que a eletricidade, modificada por certas circunstâncias, ou qualquer outro agente desconhecido, fosse a causa dos movimentos observados. O fato de que a reunião de muitas pessoas aumenta a [potencialidade](https://pt.m.wiktionary.org/wiki/potencialidade) da ação parecia vir em apoio dessa [teoria](https://pt.m.wiktionary.org/wiki/teoria), visto poder-se considerar o conjunto dos assistentes como uma pilha múltipla, com o seu potencial na [razão][f8m] direta do número dos elementos.
 
@@ -303,7 +305,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina][f4r] que n
 
 23. os [Espíritos][g4f] encarnados habitam os diferentes globos do [Universo][a2j];
 
-24. os não encarnados ou [errantes](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Erraticidade) não ocupam uma região determinada e [circunscrita](https://pt.m.wiktionary.org/wiki/circunscrito); estão por toda parte no espaço e ao nosso lado, vendo-nos e acotovelando-nos de contínuo. É toda uma população invisível, a mover-se em torno de nós;
+24. os não encarnados ou [errantes](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=[erraticidade][t6b]) não ocupam uma região determinada e [circunscrita](https://pt.m.wiktionary.org/wiki/circunscrito); estão por toda parte no espaço e ao nosso lado, vendo-nos e acotovelando-nos de contínuo. É toda uma população invisível, a mover-se em torno de nós;
 
 25. os [Espíritos][g4f] exercem incessante ação sobre o mundo [moral][h4c] e mesmo sobre o mundo físico. Atuam sobre a matéria e sobre o [pensamento](https://pt.m.wikipedia.org/wiki/Pensamento) e constituem uma das potências da Natureza, causa eficiente de uma multidão de [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) até então inexplicados ou mal explicados e que não encontram explicação racional senão no [Espiritismo][f4r];
 
@@ -323,7 +325,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina][f4r] que n
 
 33. ensinam-nos que o [egoísmo](https://pt.m.wikipedia.org/wiki/Egoísmo), o [orgulho](https://pt.m.wikipedia.org/wiki/Orgulho), a [sensualidade](https://pt.m.wiktionary.org/wiki/sensualidade) são paixões que nos aproximam da natureza animal, prendendo-nos à matéria; que o homem que, já neste mundo, se desliga da matéria, desprezando as futilidades [mundanas](https://pt.m.wiktionary.org/wiki/mundano) e amando o próximo, se avizinha da natureza espiritual; que cada um deve tornar-se útil, de acordo com as faculdades e os meios que [Deus][c5m] lhe pôs nas mãos para experimentá-lo; que o **forte** e o **poderoso** devem amparo e proteção ao **fraco**, porquanto [transgride](https://pt.m.wiktionary.org/wiki/transgredir) a Lei de [Deus][c5m] aquele que abusa da força e do poder para oprimir o seu semelhante. Ensinam, finalmente, que, no mundo dos [Espíritos][g4f], nada podendo estar oculto, o [hipócrita](https://pt.m.wiktionary.org/wiki/hipócrita) será desmascarado e patenteadas todas as suas [torpezas](https://pt.m.wiktionary.org/wiki/torpeza); que a presença inevitável, e de todos os instantes, daqueles para com quem houvermos procedido mal constitui um dos [castigos](https://pt.m.wiktionary.org/wiki/castigo) que nos estão reservados; que ao estado de inferioridade e superioridade dos [Espíritos][g4f] correspondem penas e gozos desconhecidos na Terra;
 
-34. mas ensinam também não haver faltas [irremissíveis](https://pt.m.wiktionary.org/wiki/irremissível) que a expiação não possa apagar. Meio de consegui-lo encontra o homem nas diferentes existências que lhe permitem avançar, conforme os seus desejos e esforços, na senda do progresso, para a perfeição, que é o seu destino final.
+34. mas ensinam também não haver faltas [irremissíveis](https://pt.m.wiktionary.org/wiki/irremissível) que a [expiação][x3m] não possa apagar. Meio de consegui-lo encontra o homem nas diferentes existências que lhe permitem avançar, conforme os seus desejos e esforços, na senda do progresso, para a perfeição, que é o seu destino final.
 
 Este o resumo da [Doutrina][f4r] Espírita, como resulta dos ensinamentos dados pelos [Espíritos][g4f] superiores. Vejamos agora as objeções que se lhe contrapõem.
 
@@ -1989,7 +1991,7 @@ Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectua
 
 Primeira classe. Classe única. — Os [Espíritos][g4f] que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de [Deus][c5m].
 
-Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de [Deus][c5m], cujas ordens executam para manutenção da harmonia universal. Comandam a todos os [Espíritos][g4f] que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
+Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de [Deus][c5m], cujas ordens executam para manutenção da harmonia universal. Comandam a todos os [Espíritos][g4f] que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à [expiação][x3m] das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -2695,7 +2697,7 @@ Que sensação experimenta a [alma][q3f] no momento em que reconhece estar no mu
 
 O [Espírito][g4f] se encontra imediatamente com os que conheceu na [Terra](https://pt.m.wikipedia.org/wiki/Terra) e que morreram antes dele?
 
-> 👻 ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos [Espíritos][g4f] e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na erraticidade, como vê os encarnados e os vai visitar.
+> 👻 ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos [Espíritos][g4f] e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na [erraticidade][t6b], como vê os encarnados e os vai visitar.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -3312,7 +3314,7 @@ Não tendo podido praticar o mal, o [Espírito][g4f] de uma criança que morreu 
 
 Por que tão frequentemente a vida se interrompe na infância?
 
-> 👻 ▸ A curta duração da vida da criança pode representar, para o [Espírito][g4f] que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou expiação para os pais**.
+> 👻 ▸ A curta duração da vida da criança pode representar, para o [Espírito][g4f] que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou [expiação][x3m] para os pais**.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -3746,7 +3748,7 @@ Que é a [alma][q3f] no intervalo das encarnações?
 
 Quanto podem durar esses intervalos?
 
-> 👻 ▸ Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o [Espírito][g4f] terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
+> 👻 ▸ Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de [erraticidade][t6b], que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o [Espírito][g4f] terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -3764,7 +3766,7 @@ Essa duração depende da [vontade][o8e] do [Espírito][g4f], ou lhe pode ser im
 
 ###### Q.225 {#q225}
 
-A erraticidade é, por si só, um sinal de inferioridade dos [Espíritos][g4f]?
+A [erraticidade][t6b] é, por si só, um sinal de inferioridade dos [Espíritos][g4f]?
 
 > 👻 ▸ Não, porquanto há [Espíritos][g4f] errantes de todos os graus. A encarnação é um estado transitório, já o dissemos. O [Espírito][g4f] se acha no seu estado normal, quando liberto da matéria.
 
@@ -3816,7 +3818,7 @@ Por que, deixando a Terra, não deixam aí os [Espíritos][g4f] todas as más pa
 
 ###### Q.230 {#q230}
 
-Na erraticidade, o [Espírito][g4f] progride?
+Na [erraticidade][t6b], o [Espírito][g4f] progride?
 
 > 👻 ▸ Pode melhorar-se muito, tais sejam a [vontade][o8e] e o desejo que tenha de consegui-lo. Todavia, na existência corporal é que põe em prática as ideias que adquiriu.
 
@@ -3828,7 +3830,7 @@ Na erraticidade, o [Espírito][g4f] progride?
 
 São felizes ou desgraçados os [Espíritos][g4f] errantes?
 
-> 👻 ▸ Mais ou menos, conforme seus méritos. Sofrem por efeito das paixões cuja essência conservaram, ou são felizes, de conformidade com o grau de desmaterialização a que hajam chegado. Na erraticidade, o [Espírito][g4f] percebe o que lhe falta para ser mais feliz e, desde então, procura os meios de alcançá-lo. Nem sempre, porém, lhe é permitido reencarnar como fora de seu agrado, representando isso, para ele, uma punição.
+> 👻 ▸ Mais ou menos, conforme seus méritos. Sofrem por efeito das paixões cuja essência conservaram, ou são felizes, de conformidade com o grau de desmaterialização a que hajam chegado. Na [erraticidade][t6b], o [Espírito][g4f] percebe o que lhe falta para ser mais feliz e, desde então, procura os meios de alcançá-lo. Nem sempre, porém, lhe é permitido reencarnar como fora de seu agrado, representando isso, para ele, uma punição.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -3860,7 +3862,7 @@ Os [Espíritos][g4f] já purificados descem aos mundos inferiores?
 
 Há, de fato, como já foi dito, mundos que servem de estações ou pontos de repouso aos [Espíritos][g4f] errantes?
 
-> 👻 ▸ Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa erraticidade, estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos [Espíritos][g4f] que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
+> 👻 ▸ Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa [erraticidade][t6b], estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos [Espíritos][g4f] que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -4237,7 +4239,7 @@ Interrogamos, aos milhares, [Espíritos][g4f] que na [Terra](https://pt.m.wikipe
 
 ###### Q.258 {#q258}
 
-Quando na erraticidade, antes de começar nova existência corporal, tem o [Espírito][g4f] [consciência][h7z] e previsão do que lhe sucederá no curso da vida terrena?
+Quando na [erraticidade][t6b], antes de começar nova existência corporal, tem o [Espírito][g4f] [consciência][h7z] e previsão do que lhe sucederá no curso da vida terrena?
 
 > 👻 ▸ Ele próprio escolhe o gênero de provas por que há de passar e nisso consiste o seu livre-arbítrio.  
 
@@ -4329,7 +4331,7 @@ O [Espírito][g4f] faz a sua escolha logo depois da morte?
 
 Que é o que dirige o [Espírito][g4f] na escolha das provas que queira sofrer?
 
-> 👻 ▸ Ele escolhe, de acordo com a natureza de suas faltas, as que o levem à expiação destas e a progredir mais depressa. Uns, portanto, impõem a si mesmos uma vida de misérias e privações, objetivando suportá-las com coragem; outros preferem experimentar as tentações da riqueza e do poder, muito mais perigosas, pelos abusos e má aplicação a que podem dar lugar, pelas paixões inferiores que uma e outros desenvolvem; muitos, finalmente, se decidem a experimentar suas forças nas lutas que terão de sustentar em contato com o vício.
+> 👻 ▸ Ele escolhe, de acordo com a natureza de suas faltas, as que o levem à [expiação][x3m] destas e a progredir mais depressa. Uns, portanto, impõem a si mesmos uma vida de misérias e privações, objetivando suportá-las com coragem; outros preferem experimentar as tentações da riqueza e do poder, muito mais perigosas, pelos abusos e má aplicação a que podem dar lugar, pelas paixões inferiores que uma e outros desenvolvem; muitos, finalmente, se decidem a experimentar suas forças nas lutas que terão de sustentar em contato com o vício.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -4359,7 +4361,7 @@ Não vemos, aliás, todos os dias, exemplos de escolhas tais? Que faz o homem qu
 
 O viajante que atravessa profundo vale ensombrado por espesso nevoeiro não logra apanhar com a vista a extensão da estrada por onde vai, nem os seus pontos extremos. Chegando, porém, ao cume da montanha, abrange com o olhar quanto percorreu do caminho e quanto lhe resta dele a percorrer. Divisa-lhe o termo, vê os obstáculos que ainda terá de transpor e combina então os meios mais seguros de atingi-lo. O [Espírito][g4f] encarnado é qual viajante no sopé da montanha. Desenleado dos liames terrenais, sua visão tudo domina, como a daquele que subiu à crista da serrania. Para o viajor, no termo da sua jornada está o repouso após a fadiga; para o [Espírito][g4f], está a felicidade suprema, após as tribulações e as provas.
 
-Dizem todos os [Espíritos][g4f] que, na erraticidade, eles se aplicam a pesquisar, estudar, observar, a fim de fazerem a sua escolha. Na vida corporal não se nos oferece um exemplo deste fato? Não levamos, frequentemente, anos a procurar a carreira pela qual afinal nos decidimos, certos de ser a mais apropriada a nos facilitar o caminho da vida? Se numa o nosso intento se malogra, recorremos a outra. Cada uma das que abraçamos representa uma fase, um período da vida. Não nos ocupamos cada dia em cogitar do que faremos no dia seguinte? Ora, que são, para o [Espírito][g4f], as diversas existências corporais, senão fases, períodos, dias da sua vida espírita, que é, como sabemos, a vida normal, visto que a outra é transitória, passageira?  
+Dizem todos os [Espíritos][g4f] que, na [erraticidade][t6b], eles se aplicam a pesquisar, estudar, observar, a fim de fazerem a sua escolha. Na vida corporal não se nos oferece um exemplo deste fato? Não levamos, frequentemente, anos a procurar a carreira pela qual afinal nos decidimos, certos de ser a mais apropriada a nos facilitar o caminho da vida? Se numa o nosso intento se malogra, recorremos a outra. Cada uma das que abraçamos representa uma fase, um período da vida. Não nos ocupamos cada dia em cogitar do que faremos no dia seguinte? Ora, que são, para o [Espírito][g4f], as diversas existências corporais, senão fases, períodos, dias da sua vida espírita, que é, como sabemos, a vida normal, visto que a outra é transitória, passageira?  
 
 <details class="links"><summary>🔗</summary><br>
 ↩️ Voltar para <a href="#q816">Q.816</a>
@@ -4413,7 +4415,7 @@ A que se devem atribuir as vocações de certas pessoas e a [vontade][o8e] que s
 
 ###### Q.271 {#q271}
 
-Estudando, na erraticidade, as diversas condições em que poderá progredir, como pensa o [Espírito][g4f] consegui-lo, nascendo, por exemplo, entre canibais?
+Estudando, na [erraticidade][t6b], as diversas condições em que poderá progredir, como pensa o [Espírito][g4f] consegui-lo, nascendo, por exemplo, entre canibais?
 
 > 👻 ▸ Entre canibais não nascem [Espíritos][g4f] já adiantados, mas [Espíritos][g4f] da natureza dos canibais, ou ainda inferiores aos destes.
 
@@ -4914,7 +4916,7 @@ E a lembrança dos sofrimentos por que passaram na última existência corporal,
 
 O homem, que neste mundo foi feliz, deplora a felicidade que perdeu, deixando a Terra?
 
-> 👻 ▸ Só os [Espíritos][g4f] inferiores podem sentir saudades de gozos condizentes com uma natureza impura qual a deles, gozos que lhes acarretam a expiação pelo sofrimento. Para os [Espíritos][g4f] elevados, a felicidade eterna é mil vezes preferível aos prazeres efêmeros da Terra.
+> 👻 ▸ Só os [Espíritos][g4f] inferiores podem sentir saudades de gozos condizentes com uma natureza impura qual a deles, gozos que lhes acarretam a [expiação][x3m] pelo sofrimento. Para os [Espíritos][g4f] elevados, a felicidade eterna é mil vezes preferível aos prazeres efêmeros da Terra.
 
 Exatamente como sucede ao homem que, na idade da madureza, nenhuma importância liga ao que tanto o deliciava na infância.
 
@@ -4966,7 +4968,7 @@ As condições dos [Espíritos][g4f] e as maneiras por que veem as coisas variam
 
 ###### Q.318 {#q318}
 
-As ideias dos [Espíritos][g4f] se modificam quando na erraticidade?
+As ideias dos [Espíritos][g4f] se modificam quando na [erraticidade][t6b]?
 
 > 👻 ▸ Muito; sofrem grandes modificações, à proporção que o [Espírito][g4f] se desmaterializa. Pode este, algumas vezes, permanecer longo tempo imbuído das ideias que tinha na Terra; mas, pouco a pouco, a influência da matéria diminui e ele vê as coisas com maior clareza. É então que procura os meios de se tornar melhor.
 
@@ -5680,7 +5682,7 @@ Importa se distinga o estado normal do estado patológico. No primeiro, o moral 
 
 Qual será o mérito da existência de seres que, como os cretinos e os idiotas, não podendo fazer o bem nem o mal, se acham incapacitados de progredir?
 
-> 👻 ▸ É uma expiação decorrente do abuso que fizeram de certas faculdades. É um estacionamento temporário.
+> 👻 ▸ É uma [expiação][x3m] decorrente do abuso que fizeram de certas faculdades. É um estacionamento temporário.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -5987,7 +5989,7 @@ Nas existências corpóreas de natureza mais elevada do que a nossa, é mais cla
 
 Sendo os pendores instintivos uma reminiscência do seu passado, dar-se-á que, pelo estudo desses pendores, seja possível ao homem conhecer as faltas que cometeu?
 
-> 👻 ▸ Até certo ponto, assim é. Preciso se torna, porém, levar em conta a melhora que se possa ter operado no [Espírito][g4f] e as resoluções que ele haja tomado na erraticidade. Pode suceder que a existência atual seja muito melhor que a precedente.
+> 👻 ▸ Até certo ponto, assim é. Preciso se torna, porém, levar em conta a melhora que se possa ter operado no [Espírito][g4f] e as resoluções que ele haja tomado na [erraticidade][t6b]. Pode suceder que a existência atual seja muito melhor que a precedente.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -6005,11 +6007,11 @@ Poderá também ser pior, isto é, poderá o [Espírito][g4f] cometer, numa exis
 
 ###### Q.399 {#q399}
 
-Sendo as vicissitudes da vida corporal expiação das faltas do passado e, ao mesmo tempo, provas com vistas ao futuro, seguir-se-á que da natureza de tais vicissitudes se possa deduzir de que gênero foi a existência anterior?
+Sendo as vicissitudes da vida corporal [expiação][x3m] das faltas do passado e, ao mesmo tempo, provas com vistas ao futuro, seguir-se-á que da natureza de tais vicissitudes se possa deduzir de que gênero foi a existência anterior?
 
 > 👻 ▸ Muito amiúde é isso possível, pois que cada um é punido naquilo em que pecou. Entretanto, não há que tirar daí uma regra absoluta. As tendências instintivas constituem indício mais seguro, visto que as provas por que passa o [Espírito][g4f] o são, tanto pelo que respeita ao passado, quanto pelo que toca ao futuro.
 
-Chegado ao termo que a Providência lhe assinou à vida na erraticidade, o próprio [Espírito][g4f] escolhe as provas a que deseja submeter-se para apressar o seu adiantamento, isto é, escolhe meios de adiantar-se e tais provas estão sempre em relação com as faltas que lhe cumpre expiar. Se delas triunfa, eleva-se; se sucumbe, tem que recomeçar. O [Espírito][g4f] goza sempre do livre-arbítrio. Em virtude dessa liberdade é que escolhe, quando desencarnado, as provas da vida corporal e que, quando encarnado, decide fazer ou não uma coisa e procede à escolha entre o bem e o mal. Negar ao homem o livre-arbítrio fora reduzi-lo à condição de máquina.
+Chegado ao termo que a Providência lhe assinou à vida na [erraticidade][t6b], o próprio [Espírito][g4f] escolhe as provas a que deseja submeter-se para apressar o seu adiantamento, isto é, escolhe meios de adiantar-se e tais provas estão sempre em relação com as faltas que lhe cumpre expiar. Se delas triunfa, eleva-se; se sucumbe, tem que recomeçar. O [Espírito][g4f] goza sempre do livre-arbítrio. Em virtude dessa liberdade é que escolhe, quando desencarnado, as provas da vida corporal e que, quando encarnado, decide fazer ou não uma coisa e procede à escolha entre o bem e o mal. Negar ao homem o livre-arbítrio fora reduzi-lo à condição de máquina.
 
 Mergulhado na vida corpórea, perde o [Espírito][g4f], momentaneamente, a lembrança de suas existências anteriores, como se um véu as cobrisse. Todavia, conserva algumas vezes vaga [consciência][h7z] dessas vidas, que, mesmo em certas circunstâncias, lhe podem ser reveladas. Esta revelação, porém, só os [Espíritos][g4f] superiores espontaneamente lha fazem, com um fim útil, nunca para satisfazer a vã curiosidade.
 
@@ -6019,7 +6021,7 @@ O esquecimento das faltas praticadas não constitui obstáculo à melhoria do [E
 
 O homem não conhece os atos que praticou em suas existências pretéritas, mas pode sempre saber qual o gênero das faltas de que se tornou culpado e qual o cunho predominante do seu caráter. Bastará que se estude a si mesmo. Poderá então julgar do que foi, não pelo que é, mas pelas suas tendências.
 
-As vicissitudes da vida corpórea constituem expiação das faltas do passado e, simultaneamente, provas com relação ao futuro. Depuram-nos e elevam-nos, se as suportamos resignados e sem murmurar.
+As vicissitudes da vida corpórea constituem [expiação][x3m] das faltas do passado e, simultaneamente, provas com relação ao futuro. Depuram-nos e elevam-nos, se as suportamos resignados e sem murmurar.
 
 A natureza dessas vicissitudes e das provas que sofremos também nos podem esclarecer acerca do que fomos e do que fizemos, do mesmo modo que neste mundo julgamos dos atos de um culpado pelo castigo que lhe inflige a lei. Assim, o orgulhoso será castigado no seu orgulho, mediante a humilhação de uma existência subalterna; o mau rico, o avarento, pela miséria; o que foi cruel para os outros, pelas crueldades que sofrerá; o tirano, pela escravidão; o mau filho, pela ingratidão de seus filhos; o preguiçoso, por um trabalho forçado etc.  
 
@@ -8181,7 +8183,7 @@ Com as coisas deste mundo, os [Espíritos][g4f] se ocupam conforme o grau de ele
 
 ###### Q.568 {#q568}
 
-Os [Espíritos][g4f], que têm missões a cumprir, as cumprem na erraticidade, ou encarnados?
+Os [Espíritos][g4f], que têm missões a cumprir, as cumprem na [erraticidade][t6b], ou encarnados?
 
 > 👻 ▸ Podem tê-las num e noutro estado. Para certos [Espíritos][g4f] errantes, é uma grande ocupação.
 
@@ -8397,7 +8399,7 @@ Nenhuma parte tendo na produção do bem que dessas calamidades passageiras poss
 
 > 👻 ▸ Cada um é recompensado de acordo com as suas obras, com o bem que **intentou** fazer e com a retidão de suas intenções.
 
-Os [Espíritos][g4f] encarnados têm ocupações inerentes às suas existências corpóreas. No estado de erraticidade, ou de desmaterialização, tais ocupações são adequadas ao grau de adiantamento deles.
+Os [Espíritos][g4f] encarnados têm ocupações inerentes às suas existências corpóreas. No estado de [erraticidade][t6b], ou de desmaterialização, tais ocupações são adequadas ao grau de adiantamento deles.
 
 Uns percorrem os mundos, se instruem e preparam para nova encarnação.
 
@@ -8602,9 +8604,9 @@ Após a morte, conserva a [alma][q3f] dos animais a sua individualidade e a [con
 
 ###### Q.600 {#q600}
 
-Sobrevivendo ao corpo em que habitou, a [alma][q3f] do animal vem a achar-se, depois da morte, num estado de erraticidade, como a do homem?
+Sobrevivendo ao corpo em que habitou, a [alma][q3f] do animal vem a achar-se, depois da morte, num estado de [erraticidade][t6b], como a do homem?
 
-> 👻 ▸ Fica numa espécie de erraticidade, pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O [Espírito][g4f] errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A [consciência][h7z] de si mesmo é o que constitui o principal atributo do [Espírito][g4f]. O do animal, depois da morte, é classificado pelos [Espíritos][g4f] a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
+> 👻 ▸ Fica numa espécie de [erraticidade][t6b], pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O [Espírito][g4f] errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A [consciência][h7z] de si mesmo é o que constitui o principal atributo do [Espírito][g4f]. O do animal, depois da morte, é classificado pelos [Espíritos][g4f] a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Alma, animais e  <a href="#alma">↩️</a><br>
@@ -8631,7 +8633,7 @@ Os animais progridem, como o homem, por ato da própria vontade, ou pela força 
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Animais, evolução dos  <a href="#animais">↩️</a><br>
-🏷️ Animais, expiação e  <a href="#animais">↩️</a>
+🏷️ Animais, [expiação][x3m] e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.603 {#q603}
@@ -9587,7 +9589,7 @@ Por trabalho só se devem entender as ocupações materiais?
 
 Por que o trabalho se impõe ao homem?
 
-> 👻 ▸ Por ser uma consequência da sua natureza corpórea. É expiação e, ao mesmo tempo, meio de aperfeiçoamento da sua [inteligência][y2h]. Sem o trabalho, o homem permaneceria sempre na infância, quanto à [inteligência][y2h]. Por isso é que seu alimento, sua segurança e seu bem-estar dependem do seu trabalho e da sua atividade. Em compensação, ao extremamente fraco de corpo outorgou [Deus][c5m] a [inteligência][y2h], mas é sempre um trabalho.
+> 👻 ▸ Por ser uma consequência da sua natureza corpórea. É [expiação][x3m] e, ao mesmo tempo, meio de aperfeiçoamento da sua [inteligência][y2h]. Sem o trabalho, o homem permaneceria sempre na infância, quanto à [inteligência][y2h]. Por isso é que seu alimento, sua segurança e seu bem-estar dependem do seu trabalho e da sua atividade. Em compensação, ao extremamente fraco de corpo outorgou [Deus][c5m] a [inteligência][y2h], mas é sempre um trabalho.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -10126,7 +10128,7 @@ Merece censura o homem, por procurar o bem-estar?
 
 ###### Q.720 {#q720}
 
-São meritórias aos olhos de [Deus][c5m] as privações voluntárias, com o objetivo de uma expiação igualmente voluntária?
+São meritórias aos olhos de [Deus][c5m] as privações voluntárias, com o objetivo de uma [expiação][x3m] igualmente voluntária?
 
 > 👻 ▸ Fazei o bem aos vossos semelhantes e mais mérito tereis. 
 
@@ -10453,7 +10455,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 É crime aos olhos de [Deus][c5m] o assassínio?
 
-> 👻 ▸ Grande crime, pois que aquele que tira a vida ao seu semelhante corta o fio de **uma existência de expiação ou de missão**. Aí é que está o mal.
+> 👻 ▸ Grande crime, pois que aquele que tira a vida ao seu semelhante corta o fio de **uma existência de [expiação][x3m] ou de missão**. Aí é que está o mal.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -12044,7 +12046,7 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 
 A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de [Espírito][g4f], ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a [inteligência][y2h] pela instrução e o temperamento pela higiene.
 
-Desprendido da matéria e no estado de erraticidade, o [Espírito][g4f] procede à escolha de suas futuras existências corporais, de acordo com o grau de perfeição a que haja chegado e é nisto, como temos dito, que consiste sobretudo o seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de [Deus][c5m] e dos bons [Espíritos][g4f]. 
+Desprendido da matéria e no estado de [erraticidade][t6b], o [Espírito][g4f] procede à escolha de suas futuras existências corporais, de acordo com o grau de perfeição a que haja chegado e é nisto, como temos dito, que consiste sobretudo o seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de [Deus][c5m] e dos bons [Espíritos][g4f]. 
 
 👉 Veja [Q.337](#q337)
 
@@ -12310,7 +12312,7 @@ Lembrai-vos também de que, aos olhos de [Deus][c5m], a ostentação tira o mér
 > Deve-se distinguir a esmola, propriamente dita, da beneficência. Nem sempre o mais necessitado é o que pede. O temor de uma humilhação detém o verdadeiro pobre, que muita vez sofre sem se queixar. A esse é que o homem verdadeiramente humano sabe ir procurar, sem ostentação.
 Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa [Deus][c5m] os mundos. O [amor](https://pt.m.wikipedia.org/wiki/amor) é a lei de atração para os seres vivos e organizados. A atração é a lei de [amor](https://pt.m.wikipedia.org/wiki/amor) para a matéria inorgânica.
 >
-> Não esqueçais nunca que o [Espírito][g4f], qualquer que seja o grau de seu adiantamento, sua situação como reencarnado, ou na erraticidade, está **sempre** colocado entre um superior, que o guia e aperfeiçoa, e um inferior, para com o qual tem que cumprir esses mesmos deveres. Sede, pois, caridosos, praticando, não só a caridade que vos faz dar friamente o óbolo que tirais do bolso ao que vo-lo ousa pedir, mas a que vos leve ao encontro das misérias ocultas. Sede indulgentes com os defeitos dos vossos semelhantes. Em vez de votardes desprezo à ignorância e ao vício, instruí os ignorantes e moralizai os viciados. Sede brandos e benevolentes para com tudo o que vos seja inferior. Sede-o para com os seres mais ínfimos da criação e tereis obedecido à Lei de [Deus][c5m].
+> Não esqueçais nunca que o [Espírito][g4f], qualquer que seja o grau de seu adiantamento, sua situação como reencarnado, ou na [erraticidade][t6b], está **sempre** colocado entre um superior, que o guia e aperfeiçoa, e um inferior, para com o qual tem que cumprir esses mesmos deveres. Sede, pois, caridosos, praticando, não só a caridade que vos faz dar friamente o óbolo que tirais do bolso ao que vo-lo ousa pedir, mas a que vos leve ao encontro das misérias ocultas. Sede indulgentes com os defeitos dos vossos semelhantes. Em vez de votardes desprezo à ignorância e ao vício, instruí os ignorantes e moralizai os viciados. Sede brandos e benevolentes para com tudo o que vos seja inferior. Sede-o para com os seres mais ínfimos da criação e tereis obedecido à Lei de [Deus][c5m].
 >
 > São Vicente de Paulo
 
@@ -13139,7 +13141,7 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 
 Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha caia sobre os filhos, ou sobre a família?
 
-> 👻 ▸ O que assim procede não faz bem, mas como pensa que o faz, [Deus][c5m] lhe leva isso em conta, pois que é uma expiação que ele se impõe a si mesmo. A intenção lhe atenua a falta; entretanto, nem por isso deixa de haver falta. Ademais, eliminai da vossa sociedade os abusos e os preconceitos e deixará de haver desses suicídios.
+> 👻 ▸ O que assim procede não faz bem, mas como pensa que o faz, [Deus][c5m] lhe leva isso em conta, pois que é uma [expiação][x3m] que ele se impõe a si mesmo. A intenção lhe atenua a falta; entretanto, nem por isso deixa de haver falta. Ademais, eliminai da vossa sociedade os abusos e os preconceitos e deixará de haver desses suicídios.
 
 Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, prova que dá mais apreço à estima dos homens do que à de [Deus][c5m], visto que volta para a vida espiritual carregado de suas iniquidades, tendo-se privado dos meios de repará-las durante a vida corpórea. [Deus][c5m], geralmente, é menos inexorável do que os homens. Perdoa aos que sinceramente se arrependem e atende à reparação. O suicida nada repara.
 
@@ -13209,7 +13211,7 @@ Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; m
 
 Quais, nesse caso, as consequências de tal ato?
 
-> 👻 ▸ Uma expiação proporcionada, como sempre, à gravidade da falta, de acordo com as circunstâncias.
+> 👻 ▸ Uma [expiação][x3m] proporcionada, como sempre, à gravidade da falta, de acordo com as circunstâncias.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -13519,7 +13521,7 @@ Os [Espíritos][g4f] inferiores compreendem a felicidade do justo?
 >
 > Para o [Espírito][g4f] errante, já não há véus. **Ele se acha como tendo saído de um nevoeiro** e vê o que o distancia da felicidade. Mais sofre então, porque compreende quanto foi culpado. **Não tem mais ilusões**: vê as coisas na sua realidade.
 
-Na erraticidade, o [Espírito][g4f] descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada.  
+Na [erraticidade][t6b], o [Espírito][g4f] descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada.  
 
 <details class="links"><summary>🔗</summary><br>
 ↩️ Voltar para <a href="#q991">Q.991</a>
@@ -13635,11 +13637,11 @@ Não experimenta sofrimentos materiais o [Espírito][g4f] que expia suas faltas 
 
 > 👻 ▸ É bem [verdade](https://pt.m.wikipedia.org/wiki/Verdade) que, quando a [alma][q3f] está reencarnada, as tribulações da vida são-lhe um sofrimento; mas, só o corpo sofre materialmente.
 >
-> Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como [Espírito][g4f], está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são expiação das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis. 
+> Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como [Espírito][g4f], está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são [expiação][x3m] das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis. 
 
 👉 Veja [Q.273](#q273), [Q.393](#q393) e [Q.399](#q399)
 
-O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua expiação já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
+O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua [expiação][x3m] já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -13649,7 +13651,7 @@ O homem que se considera feliz na Terra, porque pode satisfazer às suas paixõe
 
 As vicissitudes da vida são sempre a punição das faltas atuais?
 
-> 👻 ▸ Não; já dissemos: são provas impostas por [Deus][c5m], ou que vós mesmos escolhestes como [Espíritos][g4f], antes de encarnardes, para expiação das faltas cometidas em outra existência, porque jamais fica impune a infração das Leis de [Deus][c5m] e, sobretudo, da lei de justiça. Se não for punida nesta existência, sê-lo-á necessariamente noutra. Eis por que um, que vos parece justo, muitas vezes sofre. É a punição do seu passado. 
+> 👻 ▸ Não; já dissemos: são provas impostas por [Deus][c5m], ou que vós mesmos escolhestes como [Espíritos][g4f], antes de encarnardes, para [expiação][x3m] das faltas cometidas em outra existência, porque jamais fica impune a infração das Leis de [Deus][c5m] e, sobretudo, da lei de justiça. Se não for punida nesta existência, sê-lo-á necessariamente noutra. Eis por que um, que vos parece justo, muitas vezes sofre. É a punição do seu passado. 
 
 <details class="links"><summary>🔗</summary><br>
 👉 Veja <a href="#q393">Q.393</a>
@@ -13800,9 +13802,9 @@ Não se deve perder de vista que o [Espírito][g4f] não se transforma subitamen
 
 ###### Q.998 {#q998}
 
-A expiação se cumpre no estado corporal ou no estado espiritual?
+A [expiação][x3m] se cumpre no estado corporal ou no estado espiritual?
 
-> 👻 ▸ A expiação se cumpre durante a existência corporal, mediante as provas a que o [Espírito][g4f] se acha submetido e, na vida espiritual, pelos sofrimentos morais, inerentes ao estado de inferioridade do [Espírito][g4f].
+> 👻 ▸ A [expiação][x3m] se cumpre durante a existência corporal, mediante as provas a que o [Espírito][g4f] se acha submetido e, na vida espiritual, pelos sofrimentos morais, inerentes ao estado de inferioridade do [Espírito][g4f].
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -14031,7 +14033,7 @@ Que se deve entender por purgatório?
 
 > 👻 ▸ Dores físicas e morais: o tempo da expiação. Quase sempre, na [Terra](https://pt.m.wikipedia.org/wiki/Terra) é que fazeis o vosso purgatório e que [Deus][c5m] vos obriga a expiar as vossas faltas.
 
-O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos [Espíritos][g4f] imperfeitos, que se acham em expiação até alcançarem a purificação completa, que os elevará à categoria dos [Espíritos][g4f] bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
+O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos [Espíritos][g4f] imperfeitos, que se acham em [expiação][x3m] até alcançarem a purificação completa, que os elevará à categoria dos [Espíritos][g4f] bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
