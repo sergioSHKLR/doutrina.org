@@ -1,7 +1,7 @@
 ---
 title: 👻 O Livro dos Espíritos
 layout: 1-lde
-version: 23.14
+version: 23.12.15
 ---
 
 *[LDE]: O Livro dos Espíritos
@@ -24,6 +24,74 @@ version: 23.14
 [Mt29]: https://pt.m.wikipedia.org/wiki/Mateus_29
 [ARC]: https://www.bible.com/pt/versions/212
 
+[word]: https://pt.m.wiktionary.org/wiki/
+[article]: https://pt.m.wikipedia.org/wiki/
+
+<!-- LUZ ESPÍRITA -->
+[q3f]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Alma
+[a9g]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Bem
+[c5q]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Caridade
+[c5m]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Deus
+[t6b]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Erraticidade
+[f4r]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espiritismo
+[w4q]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espiritualismo
+[x3m]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Expiação
+[z2t]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=O%20Livro%20dos%20Espíritos
+[i9b]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Panteísmo
+[x#z]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=WORD
+[x#z]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=WORD
+
+
+<!-- WIKIPEDIA -->
+[c7p]: https://pt.m.wikipedia.org/wiki/Amor
+[h4t]: https://pt.m.wikipedia.org/wiki/Ciência
+[t2q]: https://pt.m.wikipedia.org/wiki/Civilização
+[h7z]: https://pt.m.wikipedia.org/wiki/Consciência
+[g0s]: https://pt.m.wikipedia.org/wiki/Cristo
+[r2x]: https://pt.m.wikipedia.org/wiki/Divina_Providência
+[g4f]: https://pt.m.wikipedia.org/wiki/Espírito
+[n2k]: https://pt.m.wikipedia.org/wiki/Filosofia
+[n3e]: https://pt.m.wikipedia.org/wiki/Humano
+[y2h]: https://pt.m.wikipedia.org/wiki/Inteligência
+[q3y]: https://pt.m.wikipedia.org/wiki/Jesus
+[r0i]: https://pt.m.wikipedia.org/wiki/Luís_IX_de_França
+[m3n]: https://pt.m.wikipedia.org/wiki/Materialismo
+[c8r]: https://pt.m.wikipedia.org/wiki/Mediunidade
+[h4c]: https://pt.m.wikipedia.org/wiki/Moral
+[q4x]: https://pt.m.wikipedia.org/wiki/Morte
+[i0s]: https://pt.m.wikipedia.org/wiki/Natureza_Humana
+[f8m]: https://pt.m.wikipedia.org/wiki/Razão
+[i8d]: https://pt.m.wikipedia.org/wiki/Sabedoria
+[g5i]: https://pt.m.wikipedia.org/wiki/Terra
+[a2j]: https://pt.m.wikipedia.org/wiki/Universo
+[x8k]: https://pt.m.wikipedia.org/wiki/Verdade
+[r4f]: https://pt.m.wikipedia.org/wiki/Vida
+[v6l]: https://pt.m.wikipedia.org/wiki/Virtude
+[o8e]: https://pt.m.wikipedia.org/wiki/Vontade
+[x#z]: https://pt.m.wikipedia.org/wiki/Word
+
+
+<!-- WIKTIONARY -->
+[g3m]: https://pt.m.wiktionary.org/wiki/fenómeno
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+[x#z]: https://pt.m.wiktionary.org/wiki/Word
+
+
+<!--
 [q3f]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Alma
 [c7p]: https://pt.m.wikipedia.org/wiki/Amor
 [a9g]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Bem
@@ -39,6 +107,7 @@ version: 23.14
 [g4f]: https://pt.m.wikipedia.org/wiki/Espírito
 [w4q]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espiritualismo
 [x3m]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Expiação
+[g3m]: https://pt.m.wiktionary.org/wiki/fenómeno
 [n2k]: https://pt.m.wikipedia.org/wiki/Filosofia
 [n3e]: https://pt.m.wikipedia.org/wiki/Humano
 [y2h]: https://pt.m.wikipedia.org/wiki/Inteligência
@@ -48,16 +117,19 @@ version: 23.14
 [c8r]: https://pt.m.wikipedia.org/wiki/Mediunidade
 [h4c]: https://pt.m.wikipedia.org/wiki/Moral
 [q4x]: https://pt.m.wikipedia.org/wiki/Morte
-[i0s]: https://pt.m.wikipedia.org/wiki/Natureza humana
+[i0s]: https://pt.m.wikipedia.org/wiki/Natureza%20humana
 [z2t]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=O Livro%20dos%20Espíritos
 [i9b]: https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Panteísmo
 [f8m]: https://pt.m.wikipedia.org/wiki/Razão
 [i8d]: https://pt.m.wikipedia.org/wiki/Sabedoria
+[g5i]: https://pt.m.wikipedia.org/wiki/Terra
 [a2j]: https://pt.m.wikipedia.org/wiki/Universo
 [x8k]: https://pt.m.wikipedia.org/wiki/Verdade
 [r4f]: https://pt.m.wikipedia.org/wiki/Vida
 [v6l]: https://pt.m.wikipedia.org/wiki/Virtude
 [o8e]: https://pt.m.wikipedia.org/wiki/Vontade
+
+-->
 
 # 👻 O Livro dos Espíritos {#lde}
 
@@ -194,11 +266,11 @@ Os ruídos [insólitos](https://pt.m.wiktionary.org/wiki/insólito), as pancadas
 
 Até aí, como se vê, tudo pode caber no domínio dos fatos puramente físicos e fisiológicos. Sem sair desse [âmbito](https://pt.m.wiktionary.org/wiki/âmbito) de ideias, já ali havia, no entanto, matéria para estudos sérios e dignos de prender a atenção dos sábios. Por que assim não aconteceu? É penoso dizê-lo, mas o fato deriva de causas que provam, entre mil outros semelhantes, a leviandade do [espírito][g4f] humano. A vulgaridade do objeto principal que serviu de base às primeiras experiências não foi [alheia](https://pt.m.wiktionary.org/wiki/alheio) à indiferença dos sábios. Que influência não tem tido muitas vezes uma palavra sobre as coisas mais graves!
 
-Sem atenderem a que o movimento podia ser impresso a um objeto qualquer, a ideia das mesas prevaleceu, sem dúvida, por ser o objeto mais [cômodo](https://pt.m.wiktionary.org/wiki/cômodo) e porque, à roda de uma mesa, muito mais naturalmente do que em torno de qualquer outro móvel, se sentam diversas pessoas. Ora, os homens superiores são com frequência tão [pueris](https://pt.m.wiktionary.org/wiki/pueril) que não há como ter por impossível que certos [espíritos][g4f] de [escol](https://pt.m.wiktionary.org/wiki/escol) hajam considerado deprimente ocuparem-se com o que se convencionara chamar a **dança das mesas**. É mesmo provável que se o fenômeno observado por [Galvani](https://pt.m.wikipedia.org/wiki/Luigi_Galvani) o fora por homens [vulgares](https://pt.m.wiktionary.org/wiki/vulgar) e ficasse caracterizado por um nome [burlesco](https://pt.m.wiktionary.org/wiki/burlesco), ainda estaria relegado a fazer companhia à varinha mágica. Qual, com efeito, o sábio que não houvera julgado uma indignidade ocupar-se com a **dança das rãs**?
+Sem atenderem a que o movimento podia ser impresso a um objeto qualquer, a ideia das mesas prevaleceu, sem dúvida, por ser o objeto mais [cômodo](https://pt.m.wiktionary.org/wiki/cômodo) e porque, à roda de uma mesa, muito mais naturalmente do que em torno de qualquer outro móvel, se sentam diversas pessoas. Ora, os homens superiores são com frequência tão [pueris](https://pt.m.wiktionary.org/wiki/pueril) que não há como ter por impossível que certos [espíritos][g4f] de [escol](https://pt.m.wiktionary.org/wiki/escol) hajam considerado deprimente ocuparem-se com o que se convencionara chamar a **[dança das mesas](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Mesas%20Girantes)**. É mesmo provável que se o fenômeno observado por [Galvani](https://pt.m.wikipedia.org/wiki/Luigi_Galvani) o fora por homens [vulgares](https://pt.m.wiktionary.org/wiki/vulgar) e ficasse caracterizado por um nome [burlesco](https://pt.m.wiktionary.org/wiki/burlesco), ainda estaria relegado a fazer companhia à varinha mágica. Qual, com efeito, o sábio que não houvera julgado uma indignidade ocupar-se com a **dança das rãs**?
 
-Alguns, entretanto, muito modestos para convirem em que bem poderia dar-se não lhes ter ainda a [Natureza][https://pt.m.wikipedia.org/wiki/Natureza] dito a última palavra, quiseram ver, para tranquilidade de suas consciências. Mas aconteceu que o fenômeno nem sempre lhes correspondeu à expectativa e, do fato de não se haver produzido constantemente conforme a [vontade][o8e] deles e segundo a maneira de se comportarem na experimentação, concluíram pela negativa. [Malgrado](https://pt.m.wiktionary.org/wiki/malgrado), porém, o que decretaram, as mesas — pois que há mesas — continuam a girar e podemos dizer com [Galileu](https://pt.m.wikipedia.org/wiki/Galileu_Galilei): **todavia, elas se movem!** Acrescentaremos que os fatos se multiplicaram de tal modo que hoje são aceitos sem contestação, não mais se [cogitando](https://pt.m.wiktionary.org/wiki/cogitar) senão de lhes achar uma explicação racional.
+Alguns, entretanto, muito modestos para convirem em que bem poderia dar-se não lhes ter ainda a [Natureza][i0s] dito a última palavra, quiseram ver, para tranquilidade de suas consciências. Mas aconteceu que o fenômeno nem sempre lhes correspondeu à expectativa e, do fato de não se haver produzido constantemente conforme a [vontade][o8e] deles e segundo a maneira de se comportarem na experimentação, concluíram pela negativa. [Malgrado](https://pt.m.wiktionary.org/wiki/malgrado), porém, o que decretaram, as mesas — pois que há mesas — continuam a girar e podemos dizer com [Galileu](https://pt.m.wikipedia.org/wiki/Galileu_Galilei): **todavia, elas se movem!** Acrescentaremos que os fatos se multiplicaram de tal modo que hoje são aceitos sem contestação, não mais se [cogitando](https://pt.m.wiktionary.org/wiki/cogitar) senão de lhes achar uma explicação racional.
 
-Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstância de ele não se produzir de modo sempre idêntico, conforme a [vontade][o8e] e as exigências do observador? Os [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) de [eletricidade](https://pt.m.wikipedia.org/wiki/Eletricidade) e de [química](https://pt.m.wikipedia.org/wiki/Química) não estão subordinados a certas condições? Será [lícito](https://pt.m.wiktionary.org/wiki/lícito) negá-los, porque não se produzem fora dessas condições? Que há, pois, de surpreendente em que o [fenômeno][https://pt.m.wiktionary.org/wiki/fenómeno] do movimento dos objetos pelo fluido humano também se ache sujeito a determinadas condições e deixe de se produzir quando o observador, colocando-se no seu ponto de vista, pretende fazê-lo seguir a marcha que caprichosamente lhe imponha, ou queira sujeitá-lo às leis dos [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) conhecidos, sem considerar que para fatos novos pode e deve haver novas leis? Ora, para se conhecerem essas leis, preciso é que se estudem as circunstâncias em que os fatos se produzem e esse estudo não pode deixar de ser fruto de observação perseverante, atenta e às vezes muito longa.
+Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstância de ele não se produzir de modo sempre idêntico, conforme a [vontade][o8e] e as exigências do observador? Os [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) de [eletricidade](https://pt.m.wikipedia.org/wiki/Eletricidade) e de [química](https://pt.m.wikipedia.org/wiki/Química) não estão subordinados a certas condições? Será [lícito](https://pt.m.wiktionary.org/wiki/lícito) negá-los, porque não se produzem fora dessas condições? Que há, pois, de surpreendente em que o [fenômeno][g3m] do movimento dos objetos pelo fluido humano também se ache sujeito a determinadas condições e deixe de se produzir quando o observador, colocando-se no seu ponto de vista, pretende fazê-lo seguir a marcha que caprichosamente lhe imponha, ou queira sujeitá-lo às leis dos [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) conhecidos, sem considerar que para fatos novos pode e deve haver novas leis? Ora, para se conhecerem essas leis, preciso é que se estudem as circunstâncias em que os fatos se produzem e esse estudo não pode deixar de ser fruto de observação perseverante, atenta e às vezes muito longa.
 
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro [escamoteador](https://pt.m.wiktionary.org/wiki/escamoteado) um sábio professor de [Física](https://pt.m.wikipedia.org/wiki/Física) a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso [razão][f8m] para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero [gracejo](https://pt.m.wiktionary.org/wiki/gracejo)? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão [fastidioso](https://pt.m.wiktionary.org/wiki/fastidioso) para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais [austeras](https://pt.m.wiktionary.org/wiki/austero), [veneráveis](https://pt.m.wiktionary.org/wiki/veneração) e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
@@ -336,11 +408,11 @@ Este o resumo da [Doutrina][f4r] Espírita, como resulta dos ensinamentos dados 
 
 #### 📄 Intro 07 {#lde-0-03-07}
 
-Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
+Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte [presunção](https://pt.m.wiktionary.org/wiki/presunção) contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar [azo](https://pt.m.wiktionary.org/wiki/azo) a que de nós digam que [escouceamos](https://pt.m.wiktionary.org/wiki/escoucear). Temo-los, ao contrário, em grande [apreço](https://pt.m.wiktionary.org/wiki/apreço) e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença [irrevogável](https://pt.m.wiktionary.org/wiki/irrevogável).
 
-Desde que a [Ciência][h4t] sai da observação material dos fatos, tratando de os apreciar e explicar, o campo está aberto às conjeturas. Cada um arquiteta o seu sistemazinho, disposto a sustentá-lo com fervor, para fazê-lo prevalecer. Não vemos todos os dias as mais opostas opiniões serem alternativamente preconizadas e rejeitadas, ora repelidas como erros absurdos, para logo depois aparecerem proclamadas como verdades incontestáveis? Os fatos, eis o verdadeiro critério dos nossos juízos, o argumento sem réplica. Na ausência dos fatos, a [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) se justifica no homem ponderado.
+Desde que a [Ciência][h4t] sai da observação material dos fatos, tratando de os apreciar e explicar, o campo está aberto às [conjeturas](https://pt.m.wiktionary.org/wiki/conjecturar). Cada um arquiteta o seu sistemazinho, disposto a sustentá-lo com [fervor](https://pt.m.wiktionary.org/wiki/fervor), para fazê-lo prevalecer. Não vemos todos os dias as mais opostas opiniões serem alternativamente [preconizadas](https://pt.m.wiktionary.org/wiki/preconizar) e rejeitadas, ora repelidas como erros absurdos, para logo depois aparecerem proclamadas como verdades [incontestáveis](https://pt.m.wiktionary.org/wiki/incontestável)? Os fatos, eis o verdadeiro [critério](https://pt.m.wiktionary.org/wiki/critério) dos nossos juízos, o [argumento](https://pt.m.wiktionary.org/wiki/argumento) sem [réplica](https://pt.m.wiktionary.org/wiki/réplica). Na ausência dos fatos, a [dúvida](https://pt.m.wikipedia.org/wiki/Dúvida) se justifica no homem [ponderado](https://pt.m.wiktionary.org/wiki/ponderar).
 
-Com relação às coisas notórias, a opinião dos sábios é, com toda razão, fidedigna, porquanto eles sabem mais e melhor do que o vulgo. Mas, no tocante a princípios novos, a coisas desconhecidas, essa opinião quase nunca é mais do que hipotética, por isso que eles não se acham, menos que os outros, sujeitos a preconceitos. Direi mesmo que o sábio tem mais preconceitos que qualquer outro, porque uma propensão natural o leva a subordinar tudo ao ponto de vista donde mais aprofundou os seus conhecimentos: o matemático não vê prova senão numa demonstração algébrica, o químico refere tudo à ação dos elementos etc. Aquele que se fez um especialista prende todas as suas ideias à especialidade que adotou. Tirai-o daí e o vereis quase sempre desarrazoar, por querer submeter tudo ao mesmo cadinho: consequência da fraqueza humana. Assim, pois, consultarei, do melhor grado e com a maior confiança, um químico sobre uma questão de análise, um físico sobre a potência elétrica, um mecânico sobre uma força motriz. Hão de eles, porém, permitir-me, sem que isto afete a estima a que lhes dá direito o seu saber especial, que eu não tenha em melhor conta suas opiniões negativas acerca do [Espiritismo][f4r], do que o parecer de um arquiteto sobre uma questão de música.
+Com relação às coisas [notórias](https://pt.m.wiktionary.org/wiki/notório), a opinião dos sábios é, com toda razão, [fidedigna](https://pt.m.wiktionary.org/wiki/fidedigno), porquanto eles sabem mais e melhor do que o [vulgo](https://pt.m.wiktionary.org/wiki/vulgo). Mas, no [tocante](https://pt.m.wiktionary.org/wiki/tocante) a princípios novos, a coisas desconhecidas, essa opinião quase nunca é mais do que [hipotética](https://pt.m.wiktionary.org/wiki/hipotético), por isso que eles não se acham, menos que os outros, sujeitos a preconceitos. Direi mesmo que o sábio tem mais preconceitos que qualquer outro, porque uma [propensão](https://pt.m.wiktionary.org/wiki/propensão) natural o leva a [subordinar](https://pt.m.wiktionary.org/wiki/subordinar) tudo ao ponto de vista donde mais aprofundou os seus conhecimentos: o matemático não vê prova senão numa demonstração algébrica, o químico refere tudo à ação dos elementos etc. Aquele que se fez um especialista prende todas as suas ideias à especialidade que adotou. Tirai-o daí e o vereis quase sempre desarrazoar, por querer submeter tudo ao mesmo [cadinho](https://pt.m.wiktionary.org/wiki/cadinho): consequência da fraqueza humana. Assim, pois, consultarei, do melhor grado e com a maior confiança, um químico sobre uma questão de análise, um físico sobre a potência elétrica, um mecânico sobre uma força motriz. Hão de eles, porém, permitir-me, sem que isto afete a estima a que lhes dá direito o seu saber especial, que eu não tenha em melhor conta suas opiniões negativas acerca do [Espiritismo][f4r], do que o parecer de um arquiteto sobre uma questão de música.
 
 As ciências ordinárias assentam nas propriedades da matéria, que se pode experimentar e manipular livremente; os [fenônemo](https://pt.m.wiktionary.org/wiki/fenómeno) espíritas repousam na ação de inteligências dotadas de [vontade][o8e] própria e que nos provam a cada instante não se acharem subordinadas aos nossos caprichos. As observações não podem, portanto, ser feitas da mesma forma; requerem condições especiais e outro ponto de partida. Querer submetê-las aos processos comuns de investigação é estabelecer analogias que não existem. A Ciência, propriamente dita, é, pois, como [ciência][h4t], incompetente para se pronunciar na questão do [Espiritismo][f4r]: não tem que se ocupar com isso e qualquer que seja o seu julgamento, favorável ou não, nenhum peso poderá ter. O [Espiritismo][f4r] é o resultado de uma convicção pessoal, que os sábios, como indivíduos, podem adquirir, abstração feita da qualidade de sábios. Pretender deferir a questão à [Ciência][h4t] equivaleria a querer que a existência ou não da [alma][q3f] fosse decidida por uma assembleia de físicos ou de astrônomos. Com efeito, o [Espiritismo][f4r] está todo na existência da [alma][q3f] e no seu estado depois da morte. Ora, é soberanamente ilógico imaginar-se que um homem deva ser grande psicologista, porque é eminente matemático ou notável anatomista. Dissecando o corpo humano, o anatomista procura a [alma][q3f] e, porque não a encontra, debaixo do seu escalpelo, como encontra um nervo, ou porque não a vê evolar-se como um gás, conclui que ela não existe, colocado num ponto de vista exclusivamente material. Segue-se que tenha [razão][f8m] contra a opinião universal? Não. Vedes, portanto, que o [Espiritismo][f4r] não é da alçada da Ciência.
 
@@ -720,7 +792,7 @@ Pretendem os que professam esta [doutrina](https://pt.m.wiktionary.org/wiki/dout
 
 > 👻 ▸ A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.
 
-Esta [doutrina](https://pt.m.wiktionary.org/wiki/doutrina) faz de [Deus][c5m] um ser material que, embora dotado de suprema [inteligência][y2h], seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, [Deus][c5m], se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de [Deus][c5m], sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o [[Criador][c5m]][c5m] com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
+Esta [doutrina](https://pt.m.wiktionary.org/wiki/doutrina) faz de [Deus][c5m] um ser material que, embora dotado de suprema [inteligência][y2h], seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, [Deus][c5m], se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de [Deus][c5m], sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o [Criador][c5m] com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
 
 A [inteligência][y2h] de [Deus][c5m] se revela em suas obras como a de um pintor no seu quadro; mas, as obras de [Deus][c5m] não são o próprio [Deus][c5m], como o quadro não é o pintor que o concebeu e executou.
 
@@ -758,7 +830,7 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 
 > 👻 ▸ A [Ciência][h4t] lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que [Deus][c5m] estabeleceu.
 
-Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) do [Criador][c5m]. Entretanto, seja por orgulho, seja por fraqueza, sua própria [inteligência][y2h] o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
+Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](https://pt.m.wikipedia.org/wiki/Sabedoria) do [Criador][c5m] . Entretanto, seja por orgulho, seja por fraqueza, sua própria [inteligência][y2h] o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -870,7 +942,7 @@ Poder-se-á conceber o [espírito][g4f] sem a matéria e a matéria sem o espír
 
 Há então dois elementos gerais do Universo: a matéria e o espírito?
 
-> 👻 ▸ Sim e acima de tudo [Deus][c5m], o [Criador][c5m], o Pai de todas as coisas. [Deus][c5m], [espírito][g4f] e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o [espírito][g4f] e a matéria propriamente dita, por demais grosseira para que o [espírito][g4f] possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão][f8m] não haveria para que também o [espírito][g4f] não o fosse. Está colocado entre o [espírito][g4f] e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o [espírito][g4f] se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
+> 👻 ▸ Sim e acima de tudo [Deus][c5m], o [Criador][c5m] , o Pai de todas as coisas. [Deus][c5m], [espírito][g4f] e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o [espírito][g4f] e a matéria propriamente dita, por demais grosseira para que o [espírito][g4f] possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão][f8m] não haveria para que também o [espírito][g4f] não o fosse. Está colocado entre o [espírito][g4f] e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o [espírito][g4f] se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -1069,7 +1141,7 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 
 Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
-> 👻 ▸ Nada te posso dizer a respeito, porque só o [[Criador][c5m]][c5m] o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
+> 👻 ▸ Nada te posso dizer a respeito, porque só o [Criador][c5m] o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label  <a href="#term">↩️</a>
@@ -8634,7 +8706,7 @@ Os animais progridem, como o homem, por ato da própria vontade, ou pela força 
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Animais, evolução dos  <a href="#animais">↩️</a><br>
-🏷️ Animais, [expiação][x3m] e  <a href="#animais">↩️</a>
+🏷️ Animais, expiação e  <a href="#animais">↩️</a>
 </details>
 
 ###### Q.603 {#q603}
@@ -9600,7 +9672,7 @@ Por que o trabalho se impõe ao homem?
 
 Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 
-> 👻 ▸ Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a [inteligência][y2h] de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do [[Criador][c5m]][c5m] e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se bem quase nunca lhe descubrais o resultado imediato.
+> 👻 ▸ Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a [inteligência][y2h] de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do [Criador][c5m] e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se bem quase nunca lhe descubrais o resultado imediato.
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Animais, trabalho dos  <a href="#animais">↩️</a>

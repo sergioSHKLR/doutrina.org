@@ -1,7 +1,7 @@
 ---
 title: 🏠 Início
 layout: 0-generic
-version: 23.14
+version: 23.12.15
 ---
 
 *[LDE]: O Livro dos Espíritos

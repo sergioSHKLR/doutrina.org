@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- VERSION 23.14  -->
+<!-- VERSION 23.12.15  -->
 
 <head>
   <meta charset="utf-8">
@@ -55,6 +55,8 @@
 
   <!-- SCRIPTS -->
   <script src="./framework/js/crisp.js"></script>
+  <script src="./framework/js/link-prefix.js"></script>
+
 
   <!-- STYLES -->
   <style>
@@ -71,7 +73,7 @@
 
 <!-- BODY -->
 
-<body onload="checkMode(); portraitAlert()">
+<body onload="checkMode()">
 
   <!-- COL1 HEAD -->
   <div id="col1-head" class="head">
@@ -111,8 +113,8 @@
 
       <!-- STATS -->
       <p class="sidebar-heading">⌨️ Detalhes</summary>
-      <p>💾 Versão <kbd>23.14</kbd></p>
-      <p>🗓️ Atualizado em {{ "today" | date: "%b-%y" }}</p>
+      <p>💾 Versão <kbd>23.12.15</kbd></p>
+      <p>🗓️ Atualizado em {{ "today" | date: "%b-%Y" }}</p>
       <p>🛡️ <a href="./legal.html">CC BY-NC-SA 4.0</a></p>
 
       <!-- COL1 LANG -->
