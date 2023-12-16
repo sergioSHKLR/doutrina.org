@@ -13,19 +13,19 @@
     --bground-spirit-dark: #001b33;
     --bground-spirit-light: #f0f8ff;
     --body-color-dark: #fff;
-    --body-color-light: #000;
+    --body-color-light: #222;
     --body-height: calc(100vh - 50px);
     --border-color-bible: #da70d6ff;
     --border-color-dark: #ADADAD;
-    --border-color-light: #595959;
+    --border-color-light: #66666680;
     --border-color-spirit: #1e90ffff;
     --color-dark-jesus: #FF8A8A;
     --color-light-jesus: #B30000;
     --color-link-dark: #1E90FF;
     --color-link-light: #1E90FF;
     --column-width-desktop: calc((100vw - 374px) * .5);
-    --column-width-mobile: calc(100vw - 24px);
     --column-width-tablet: calc((100vw - 24px) * .5);
+    --column-width-mobile: calc(100vw - 24px);
     --head-height: 50px;
     --hypo-offset: 24px;
     --sidebar-width: 300px
@@ -62,11 +62,12 @@ body {
     top: 2px;
 }
 
+
 #col1-head a:any-link,
 #col1-body a:any-link,
 #col2-head a:any-link,
 #col3-head a:any-link {
-    color: var(--body-color-light);
+    color: currentColor;
     text-decoration: none;
 }
 
@@ -155,7 +156,7 @@ body {
     font: 300 16px/1.7 'Roboto Slab', serif;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
-    line-height: 1.7;
+    line-height: 1.5;
     overflow-x: hidden;
     overflow-y: scroll;
     overscroll-behavior: contain;
@@ -353,7 +354,7 @@ h3,
 h4 {
     border-bottom: 1px solid var(--border-color-light);
     font-family: 'Roboto Slab';
-    font-weight: 400
+    font-weight: 400;
 }
 
 h1:before {
@@ -365,7 +366,8 @@ h2,
 h3,
 h4,
 h5 {
-    font: 400 20px 'Roboto Slab'
+    font: 400 20px 'Roboto Slab';
+    padding-bottom: 2px;
 }
 
 h2:before {
@@ -408,7 +410,9 @@ details summary::before {
     float: right;
     font-weight: 700;
     transition-duration: .15s;
-    transition-property: all
+    transition-property: all;
+    position: relative;
+    top: -3px;
 }
 
 details,
@@ -435,8 +439,16 @@ details[open] summary::before {
     font-weight: 700;
     transform: rotate(45deg);
     transition-duration: .15s;
-    transition-property: all
+    transition-property: all;
+    position: relative;
+    top: -3px;
 }
+
+details > div > p > a {color: var(--body-color-light);}
+
+.dark-mode details > div > p > a {color: var(--body-color-dark);}
+
+
 /* DETAILS SUMMARY END */
 
 /* TOOLS START */
@@ -660,7 +672,8 @@ strong {
     border-collapse: collapse;
     box-sizing: border-box;
     font: 700 16px 'Inter', sans-serif;
-    width: 90%
+    width: 90%;
+    padding-bottom: 2px;
 }
 
 a#col3-link1-a,
@@ -707,12 +720,12 @@ blockquote a:hover {
     color: unset
 }
 
-blockquote.bible em {
-    color: var(--color-light-jesus)
+blockquote.bible > p > em {
+    color: var(--color-light-jesus) !important;
 }
 
-.dark-mode blockquote.bible em {
-    color: var(--color-dark-jesus)
+.dark-mode blockquote.bible > p > em {
+    color: var(--color-dark-jesus) !important
 }
 
 button {

@@ -7,7 +7,9 @@ body {
     color: var(--body-color-light)
 }
 
-a:any-link {color: var(--color-link-light)}
+a:any-link {
+    color: var(--color-link-light)
+}
 
 #col1-body {
     -ms-overflow-style: none;
