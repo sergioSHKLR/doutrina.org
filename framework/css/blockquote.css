@@ -1,122 +1,131 @@
-/* VERSION 23.12.15 */
+/* VERSION 23.12.15a */
 
 /* START BQUOTE */
 
 #col2-body {
-    line-height:1.7
-    }
-    
-    #col2-body blockquote {
-    background-color:#1e90ff1a;
-    border-left:4px solid #1e90ffff;
-    margin:10px;
-    padding:1px 20px
-    }
-    
-    #col2-body blockquote.bible,#col2-body blockquote.bible-multi {
-    background-color:#da70d61a;
-    border-left:4px solid #da70d6ff;
-    font-style:italic;
-    margin:10px;
-    padding:1px 20px
-    }
-    
-    #col2-body blockquote.bible-multi>p:last-child {
-    font-style:normal;
-    font-weight:400;
-    text-align:right
-    }
-    
-    #col2-body blockquote.bible::first-letter,#col2-body blockquote.bible-multi::first-letter {
-    all:unset;
-    font-style:normal
-    }
-    
-    #col2-body blockquote.greek {
-    background-color:#fcb8871a;
-    border-left:4px solid #fcb887ff;
-    margin:10px;
-    padding:1px 20px
-    }
-    
-    #col2-body blockquote.greek::first-letter {
-    background-color:#fcb887;
-    border-bottom:1.5px solid #e29f6d;
-    border-radius:2px;
-    border-right:1.5px solid #e29f6d;
-    font-size:80%;
-    font-style:normal;
-    padding:1px
-    }
-    
-    #col2-body blockquote.grey {
-    background-color:#8080801a;
-    border-left:4px solid #808080ff;
-    margin:10px;
-    padding:1px 20px
-    }
-    
-    #col2-body blockquote.grey em {
-    color:inherit;
-    font-weight:700
-    }
-    
-    #col2-body blockquote.grey-center {
-    background-color:#8080801a;
-    border-left:4px solid #808080ff;
-    margin:10px;
-    padding:1px 20px;
-    text-align:center
-    }
-    
-    #col2-body blockquote.grey::first-letter {
-    all:unset;
-    font-style:normal
-    }
-    
-    #col2-body blockquote.spirit,#col2-body blockquote.spirit-multi {
-    background-color:#1e90ff1a;
-    border-left:4px solid #1e90ffff;
-    margin:10px;
-    padding:1px 20px
-    }
-    
-    #col2-body blockquote.spirit-multi>p:last-child {
-    font-style:normal;
-    font-weight:400;
-    text-align:right
-    }
-    
-    #col2-body blockquote.spirit::first-letter,#col2-body blockquote.spirit-multi::first-letter {
-    background-color:#1e90ff;
-    border-bottom:1.5px solid #06c;
-    border-radius:2px;
-    border-right:1.5px solid #06c;
-    font-size:80%;
-    font-style:normal;
-    padding:1px
-    }
-    
-    #col2-body blockquote:first-letter {
-    background-color:#1e90ff;
-    border-bottom:1.5px solid #06c;
-    border-radius:2px;
-    border-right:1.5px solid #06c;
-    font-size:80%;
-    font-style:normal;
-    padding:1px
-    }
-    
-    #col2-body img {
-    width:100%
-    }
-    
-    blockquote a {
-    color:inherit
-    }
-    
-    blockquote a:hover {
-    color:unset
-    }
+    line-height: 1.7
+}
 
-    /* END BQUOTE */
+#col2-body blockquote {
+    background-color: var(--bground-color-spirit);
+    border-left: 4px solid var(--border-color-spirit);
+    margin: 10px;
+    padding: 1px 20px
+}
+
+#col2-body>blockquote.bible,
+#col2-body>blockquote.bible-multi {
+    background-color: var(--bground-color-bible) !important;
+    border-left: 4px solid var(--border-color-bible) !important;
+    font-style: italic;
+    margin: 10px;
+    padding: 1px 20px
+}
+
+#col2-body blockquote.bible-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right
+}
+
+#col2-body blockquote.bible::first-letter,
+#col2-body blockquote.bible-multi::first-letter {
+    all: unset;
+    font-style: normal
+}
+
+#col2-body blockquote.bible>em,
+#col2-body blockquote.bible-multi>em {
+    color: var(--color-light-jesus);
+}
+
+#col2-body blockquote.greek {
+    background-color: #fcb8871a;
+    border-left: 4px solid #fcb887ff;
+    margin: 10px;
+    padding: 1px 20px
+}
+
+#col2-body blockquote.greek::first-letter {
+    background-color: #fcb887;
+    border-bottom: 1.5px solid #e29f6d;
+    border-radius: 2px;
+    border-right: 1.5px solid #e29f6d;
+    font-size: 80%;
+    font-style: normal;
+    padding: 1px
+}
+
+#col2-body blockquote.grey {
+    background-color: #8080801a;
+    border-left: 4px solid #808080ff;
+    margin: 10px;
+    padding: 1px 20px
+}
+
+#col2-body blockquote.grey em {
+    color: inherit;
+    font-weight: 700
+}
+
+#col2-body blockquote.grey-center {
+    background-color: #8080801a;
+    border-left: 4px solid #808080ff;
+    margin: 10px;
+    padding: 1px 20px;
+    text-align: center
+}
+
+#col2-body blockquote.grey::first-letter {
+    all: unset;
+    font-style: normal
+}
+
+#col2-body blockquote.spirit,
+#col2-body blockquote.spirit-multi {
+    background-color: var(--bground-color-spirit);
+    border-left: 4px solid var(--border-color-spirit);
+    margin: 10px;
+    padding: 1px 20px
+}
+
+#col2-body blockquote.spirit-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right
+}
+
+#col2-body blockquote.spirit::first-letter,
+#col2-body blockquote.spirit-multi::first-letter {
+    background-color: var(--border-color-spirit);
+    border-bottom: 1.5px solid #06c;
+    border-radius: 2px;
+    border-right: 1.5px solid #06c;
+    font-size: 80%;
+    font-style: normal;
+    padding: 1px
+}
+
+#col2-body blockquote:first-letter {
+    background-color: #1e90ff;
+    border-bottom: 1.5px solid #06c;
+    border-radius: 2px;
+    border-right: 1.5px solid #06c;
+    font-size: 80%;
+    font-style: normal;
+    padding: 1px
+}
+
+#col2-body img {
+    width: 100%
+}
+
+blockquote a {
+    color: inherit
+}
+
+blockquote a:hover {
+    color: unset
+}
+
+/* END BQUOTE */

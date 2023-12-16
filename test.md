@@ -3,56 +3,6 @@ layout: 0-generic
 version: 23.12.15
 ---
 
-<style>
-
-blockquote a {color: inherit !important}
-
-blockquote a:hover {color: unset !important}
-    </style>
-
-<script>
-const shareData = {
-    title: "💧 doutrina.org",
-    text: "Venha estudar ativamente!",
-    url: "https://pt.doutrina.org",
-  };
-  
-  const btn = document.querySelector("#webshare");
-  const resultPara = document.querySelector(".result");
-  
-  // Share must be triggered by "user activation"
-  btn.addEventListener("click", async () => {
-    try {
-      await navigator.share(shareData);
-      resultPara.textContent = "Compartilhado com sucesso!";
-    } catch (err) {
-      resultPara.textContent = `Erro ao compartilhar`;
-    }
-  });
-</script>
-
-<button id="webshare">share</button>
-
-<button id="install">Install</button>
-
-<script>
-    // main.js
-
-installButton.addEventListener("click", async () => {
-  if (!installPrompt) {
-    return;
-  }
-  const result = await installPrompt.prompt();
-  console.log(`Install prompt was: ${result.outcome}`);
-  disableInAppInstallPrompt();
-});
-
-function disableInAppInstallPrompt() {
-  installPrompt = null;
-  installButton.setAttribute("hidden", "");
-}
-</script>
-
 > 👻 ▸ Mensagem *Jesus* [link](link.html)  (Spirit)
 {:.spirit}
 

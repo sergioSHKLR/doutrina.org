@@ -1,4 +1,4 @@
-// VERSION 23.12.15
+// VERSION 23.12.15a
 
 const shareData = {
     title: "💧 doutrina.org",

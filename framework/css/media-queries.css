@@ -1,12 +1,9 @@
-/* VERSION 23.12.15 */
+/* VERSION 23.12.15a */
 
 /* START MEDIA QUERIES */
 
 @media only screen and (max-width: 450px) {
-    #col1-body {
-        background-color: #f0fcfc
-    }
-
+   
     #col2-body {
         padding: 0 15px
     }
@@ -52,9 +49,6 @@
 }
 
 @media only screen and (min-width:450px) and (max-width:750px) {
-    #col1-body {
-        background-color: #f0fcfc
-    }
 
     #col1-head,
     #col1-body,
@@ -82,9 +76,6 @@
 
 
 @media only screen and (min-width:750px) and (max-width:1005px) {
-    #col1-body {
-        background-color: #f0fcfc
-    }
 
     #col1-head,
     #col1-body,
@@ -112,9 +103,6 @@
 }
 
 @media only screen and (min-width:1005px) and (max-width:1463px) {
-    #col1-body {
-        background-color: #f0fcfc
-    }
 
     #col1-head,
     #col1-body,
@@ -143,10 +131,7 @@
 }
 
 @media only screen and (min-width:1463px) and (max-width:1890px) {
-    #col1-body {
-        background-color: #f0fcfc
-    }
-
+  
     #col1-head,
     #col1-body,
     #col2-fs-btn,
@@ -163,7 +148,7 @@
     #col2-body,
     #col3-head,
     #col3-body {
-        width: calc((100vw - 24px) * .5)
+        width: var(--column-width-tablet)
     }
 }
 
