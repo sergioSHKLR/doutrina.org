@@ -595,7 +595,7 @@ button.tools {
     height: 30px;
     justify-content: center;
     margin: 0;
-    padding: 3px;
+    padding: 4px 3px 2px 3px;
     position: absolute;
     right: 3px;
     top: 120px;
