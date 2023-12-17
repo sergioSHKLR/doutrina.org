@@ -760,8 +760,8 @@ button {
 }
 
 div#alert {
-    background-color: #dc143c80;
-    color: currentColor;
+    background-color: #f8b9c6;
+    color: #000;
     font: 11px 'Inter';
     left: 0;
     padding: 2px;
