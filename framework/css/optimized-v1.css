@@ -440,7 +440,6 @@ details.links {
 
 details:active,
 summary:active {
-    background-color: inherit;
     outline: none
 }
 

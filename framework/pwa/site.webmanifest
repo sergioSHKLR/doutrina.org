@@ -1,9 +1,9 @@
 {
   "id": "/",
-  "scope": "https://pt.doutrina.org/",
+  "scope": "https://doutrina.org/",
   "name": "doutrina",
   "display": "fullscreen",
-  "start_url": "https://pt.doutrina.org/",
+  "start_url": "https://doutrina.org/",
   "short_name": "doutrina",
   "theme_color": "#4ec1f5",
   "description": "Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.",
@@ -28,12 +28,12 @@
     "enctype": "application/x-www-form-urlencoded",
     "params": {
       "title": "doutrina.org",
-      "url": "https://pt.doutrina.org"
+      "url": "https://doutrina.org"
     }
   },
   "scope_extensions": [
     {
-      "origin": "pt.doutrina.org/*"
+      "origin": "doutrina.org/*"
     }
   ],
   "icons": [
