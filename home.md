@@ -63,7 +63,7 @@ Por fim, ficaríamos gratos com seus:
 
 Tenha um bom estudo!
 
-<img src="./framework/me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px;)">
+<img src="./framework/me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; overflow:clip !important">
 
 Sergio
 {:.cursive}
