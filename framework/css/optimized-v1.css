@@ -783,7 +783,7 @@ kbd {
     border-radius: 3px;
     color: currentColor;
     font: 14px 'Inter';
-    padding: 3px 3px 2px 0;
+    padding: 3px;
     vertical-align: middle;
     white-space: nowrap
 }

@@ -41,7 +41,7 @@ Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de 
 
 ## Licensa
 
-Nossos arquivos MD e seus respectivos variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível, clique no link <kbd>📦 Repo</kbd> do menu da esquerda.
+Nossos arquivos MD e seus respectivos variantes em HTML são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente accessível, clique no link <kbd>📦 Repositório</kbd> do menu à esquerda.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

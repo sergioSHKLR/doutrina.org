@@ -17,21 +17,21 @@ version: 23.12.15
 
 Nos inspiramos nos esforços de:
 
-- [Portal Luz Espírita](https://www.luzespirita.org.br)
-- [Kardecpedia](https://kardecpedia.com/pt)
+- [Portal Luz Espírita](https://www.luzespirita.org.br){:target="ext"}
+- [Kardecpedia](https://kardecpedia.com/pt){:target="ext"}
 
 Agregamos ferramentas externas de:
 
-- [Hypothes.is](https://web.hypothes.is/everyone/)
-- [Whereby](https://whereby.com/)
+- [Hypothes.is](https://web.hypothes.is/everyone/){:target="ext"}
+- [Whereby](https://whereby.com/){:target="ext"}
 
 Mostramos conteúdo proveniente de:
 
-- [Wikipedia](https://pt.m.wikipedia.org)
-- [Wikicionário](https://pt.m.wiktionary.org)
-- [Bible.com](https://www.bible.com/pt)
-- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)
-- [O Escolhido, Série](https://osescolhidos.tv/)
+- [Wikipedia](https://pt.m.wikipedia.org){:target="ext"}
+- [Wikicionário](https://pt.m.wiktionary.org){:target="ext"}
+- [Bible.com](https://www.bible.com/pt){:target="ext"}
+- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
+- [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
 
 Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
 
