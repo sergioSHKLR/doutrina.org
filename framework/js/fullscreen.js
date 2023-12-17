@@ -1,9 +1,9 @@
-// VERSION 23.12.15a
+// VERSION 23.12.16
 
-// FULLSCREEN ---------------------------------------------------
+// FULLSCREEN START
 var elem = document.documentElement;
 
-// OPEN FULLSCREEN  -----------------------------------------
+// OPEN FULLSCREEN  
 function openFullscreen() {
     if (elem.requestFullscreen) {
         elem.requestFullscreen();
@@ -18,7 +18,7 @@ function openFullscreen() {
     element.classList.toggle("show");
 }
 
-// CLOSE FULLSCREEN  -----------------------------------------
+// CLOSE FULLSCREEN  
 function closeFullscreen() {
     if (document.exitFullscreen) {
         document.exitFullscreen();
@@ -34,3 +34,5 @@ function closeFullscreen() {
 }
 
 var elem = document.documentElement;
+
+// FULLSCREEN END

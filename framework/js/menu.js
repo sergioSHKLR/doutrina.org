@@ -1,17 +1,19 @@
-// VERSION 23.12.15a
+// VERSION 23.12.16
 
-// MENU ----------------------------------------------------------
+// MENU START
 
-// MENU ON -------------------------------------------------------
+// MENU ON 
 function menuOn() {
     document.getElementById("col1-body").style.display = 'inline-block';
     document.getElementById("col2-menu-on").style.display = 'none';
     document.getElementById("col2-menu-off").style.display = 'inline-block';
 }
 
-// MENU OFF -------------------------------------------------------
+// MENU OFF 
 function menuOff() {
     document.getElementById("col1-body").style.display = 'none';
     document.getElementById("col2-menu-off").style.display = 'none';
     document.getElementById("col2-menu-on").style.display = 'inline-block';
 }
+
+// MENU END

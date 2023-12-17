@@ -8,19 +8,19 @@
     --bground-bible-light: #ffe4e1;
     --bground-color-bible: #da70d61a;
     --bground-color-spirit: #1e90ff1a;
-    --bground-color-grey: #8080801a;
     --bground-dark: #222;
     --bground-light: #fff;
     --bground-spirit-dark: #001b33;
     --bground-spirit-light: #f0f8ff;
+    --bground-color-greek: #f8c9a080;
     --body-color-dark: #fff;
     --body-color-light: #222;
     --body-height: calc(100vh - 50px);
-    --border-color-grey: #808080ff;
     --border-color-bible: #da70d6ff;
     --border-color-dark: #ADADAD;
     --border-color-light: #66666680;
     --border-color-spirit: #1e90ffff;
+    --border-color-greek: #fcb887ff;
     --color-dark-jesus: #FF8A8A;
     --color-light-jesus: #B30000;
     --color-link-dark: #1E90FF;
@@ -67,7 +67,6 @@ body {
     top: 2px;
 }
 
-
 #col1-head a:any-link,
 #col1-body a:any-link,
 #col2-head a:any-link,
@@ -113,7 +112,9 @@ body {
     border-collapse: collapse;
     border-right: 1px solid var(--border-color-light);
     box-sizing: border-box;
-    font: 14px/1.5 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Inter', sans-serif;
     height: var(--body-height);
     left: 0;
     overflow-x: hidden;
@@ -130,7 +131,7 @@ body {
 }
 
 #col1-body .sidebar-heading {
-    text-indent: 0 !important
+    text-indent: 0
 }
 
 #col1-body p {
@@ -160,7 +161,9 @@ body {
     border-collapse: collapse;
     box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
     box-sizing: border-box;
-    font: 300 16px/1.7 'Roboto Slab', serif;
+    font-weight: 300; 
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
     line-height: 1.5;
@@ -229,8 +232,8 @@ body {
 }
 
 #col2-body blockquote.greek {
-    background-color: #fcb8871a;
-    border-left: 4px solid #fcb887ff;
+    background-color: var(--bground-color-greek);
+    border-left: 4px solid var(--border-color-greek);
     margin: 10px;
     padding: 1px 20px
 }
@@ -246,8 +249,8 @@ body {
 }
 
 #col2-body blockquote.grey {
-    background-color: #8080801a;
-    border-left: 4px solid #808080ff;
+    background-color: var(--bground-color-grey);
+    border-left: 4px solid var(--border-color-grey);
     margin: 10px;
     padding: 1px 20px
 }
@@ -258,8 +261,8 @@ body {
 }
 
 #col2-body blockquote.grey-center {
-    background-color: #8080801a;
-    border-left: 4px solid #808080ff;
+    background-color: var(--bground-color-grey);
+    border-left: 4px solid var(--border-color-grey);
     margin: 10px;
     padding: 1px 20px;
     text-align: center
@@ -288,7 +291,6 @@ body {
 
 #col2-body img {
     width: 100%;
-    width: 100%
 }
 
 #col2-body pre {
@@ -318,8 +320,8 @@ body {
 
 #col2-body>blockquote.bible,
 #col2-body>blockquote.bible-multi {
-    background-color: var(--bground-color-bible) !important;
-    border-left: 4px solid var(--border-color-bible) !important;
+    background-color: var(--bground-color-bible);
+    border-left: 4px solid var(--border-color-bible);
     font-style: italic;
     margin: 10px;
     padding: 1px 20px
@@ -487,59 +489,59 @@ details>div>p>a {
 }
 
 .aj {
-    text-align: justify !important
+    text-align: justify
 }
 
 .al {
-    text-align: left !important
+    text-align: left
 }
 
 .b1 {
-    background-color: #ffff001a !important;
-    box-shadow: none !important
+    background-color: #ffff001a;
+    box-shadow: none
 }
 
 .b2 {
-    background-color: #00ff001a !important;
-    box-shadow: none !important
+    background-color: #00ff001a;
+    box-shadow: none
 }
 
 .b3 {
-    background-color: #ffc0cb22 !important;
-    box-shadow: none !important
+    background-color: #ffc0cb22;
+    box-shadow: none
 }
 
 .b4 {
-    background-color: #fff !important;
-    box-shadow: none !important
+    background-color: #fff;
+    box-shadow: none
 }
 
 .dm {
-    line-height: 1.7 !important
+    line-height: 1.7
 }
 
 .dn {
-    line-height: 1.5 !important
+    line-height: 1.5
 }
 
 .ds {
-    line-height: 1.3 !important
+    line-height: 1.3
 }
 
 .f1 {
-    font-family: 'Inter' !important
+    font-family: 'Inter', sans-serif
 }
 
 .f2 {
-    font-family: 'Georgia' !important
+    font-family: 'Georgia', serif
 }
 
 .f3 {
-    font-family: 'Roboto Mono' !important
+    font-family: 'Roboto Mono', monospace
 }
 
 .f4 {
-    font-family: 'Roboto Slab' !important
+    font-family: 'Roboto Slab', serif
 }
 
 .show {
@@ -547,19 +549,20 @@ details>div>p>a {
 }
 
 .td {
-    font-size: 14px !important
+    font-size: 14px
 }
 
 .ti {
-    font-size: 18px !important
+    font-size: 18px
 }
 
 .tn {
-    font-size: 16px !important
+    font-size: 16px
 }
 
 button.tools {
-    font: 22px "'Material Symbols Outlined'!important" !important
+    font-size: 22px;
+    font-family: 'Material Symbols Outlined'
 }
 
 /* TOOLS END */
@@ -579,7 +582,10 @@ button.tools {
     border-collapse: collapse;
     box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
     box-sizing: border-box;
-    font: 300 16px/1.5 'Roboto Slab', serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Roboto Slab', serif;
     height: var(--body-height);
     overflow-x: hidden;
     overflow-y: scroll;
@@ -620,18 +626,6 @@ button.tools {
     box-shadow: 0 4px 3px -3px #00000030;
 }
 
-#israel {
-    border-collapse: collapse;
-    bottom: -10px;
-    box-shadow: 0 4px 8px 0 #0003 0 6px 20px 0 #00000030;
-    box-sizing: border-box;
-    left: -50px;
-    position: fixed;
-    transform: rotate(45deg);
-    width: 141px;
-    z-index: 3;
-}
-
 .author,
 strong {
     font-weight: 400
@@ -646,7 +640,7 @@ strong {
 }
 
 .ff-mono {
-    font-family: 'Roboto Mono'
+    font-family: 'Roboto Mono', monospace
 }
 
 .fr {
@@ -686,7 +680,9 @@ strong {
     border-bottom: 1px solid var(--border-color-light);
     border-collapse: collapse;
     box-sizing: border-box;
-    font: 700 16px 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
     width: 90%;
     padding-bottom: 2px;
 }
@@ -697,7 +693,8 @@ a#col3-link3-a,
 a#col3-link4-a {
     bottom: 2px;
     color: var(--body-color-light);
-    font: 24px 'Inter';
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
     height: 40px;
     justify-content: center;
     padding: 6px;
@@ -736,11 +733,11 @@ blockquote a:hover {
 }
 
 blockquote.bible>p>em {
-    color: var(--color-light-jesus) !important;
+    color: var(--color-light-jesus);
 }
 
 .dark-mode blockquote.bible>p>em {
-    color: var(--color-dark-jesus) !important
+    color: var(--color-dark-jesus)
 }
 
 button {
@@ -763,7 +760,8 @@ button {
 div#alert {
     background-color: #dc143c80;
     color: currentColor;
-    font: 11px 'Inter';
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
     left: 0;
     padding: 2px;
     position: absolute;
@@ -782,7 +780,8 @@ kbd {
     border: 1px solid var(--border-color-light);
     border-radius: 3px;
     color: currentColor;
-    font: 14px 'Inter';
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
     padding: 3px 3px 2px 0;
     vertical-align: middle;
     white-space: nowrap
@@ -798,7 +797,8 @@ p.banner {
 }
 
 p.cursive {
-    font: 60px 'Zeyada';
+    font-size: 60px;
+    font-family: 'Zeyada', cursive;
     margin-top: -20px
 }
 
@@ -826,7 +826,7 @@ summary.ff-mono {
 }
 
 .dark-mode #col1-brand {
-    color: #fff !important
+    color: #fff
 }
 
 .dark-mode #col1-head,
@@ -861,7 +861,7 @@ summary.ff-mono {
 .dark-mode #col2-body {
     background-color: var(--bground-dark);
     box-shadow: none;
-    color: #fff
+    color: var(--bground-light)
 }
 
 /* DARK MODE END */

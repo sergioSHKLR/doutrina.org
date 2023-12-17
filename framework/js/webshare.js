@@ -1,4 +1,6 @@
-// VERSION 23.12.15a
+// VERSION 23.12.16
+
+// WEBSHARE START
 
 const shareData = {
     title: "💧 doutrina.org",
@@ -18,3 +20,5 @@ btn.addEventListener("click", async () => {
         resultPara.textContent = `Erro ao compartilhar`;
     }
 });
+
+// WEBSHARE END

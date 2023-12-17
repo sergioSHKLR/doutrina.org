@@ -1,4 +1,6 @@
-// VERSION 23.12.15a
+// VERSION 23.12.16
+
+// EXT LINKS START
 
 // SETS COL2 LINKS TO TARGET EXT --------------------------------
 (function () {
@@ -15,3 +17,5 @@
     link.setAttribute("rel", "noopener")
   })
 })()
+
+// EXT LINKS END

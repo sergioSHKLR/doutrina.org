@@ -1,6 +1,7 @@
-// VERSION 23.12.15a
+// VERSION 23.12.16
 
-// DARK MODE  --------------------------------------------------
+// DARK MODE START
+
 function darkMode() {
     var element = document.body;
     element.classList.add("dark-mode");
@@ -21,4 +22,6 @@ function lightMode() {
     element.classList.remove("hide");
     localStorage.setItem("contrast","light");
 }
+
+// DARK MODE END
 
