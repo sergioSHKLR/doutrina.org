@@ -52,8 +52,6 @@ Analisando a divisão dos livro em partes, decidimos por nomear as seções ante
 
 Modificações feitas são uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
 
-## Padrões
-
 ### Livros
 
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
@@ -225,7 +223,7 @@ Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras av
 | ⚜️ | fim | término de um elemento | 
 -->
 
-## Padrões estabelecidos
+## Tipografia
 
 Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
 

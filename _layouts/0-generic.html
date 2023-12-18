@@ -55,6 +55,12 @@
       box-shadow: none;
       background-color: transparent;
     }
+    #col1-body > ul {list-style-type: none; margin-left: -25px; line-height: 2.4}
+
+    #col1-body > ul > li > ul > li {list-style-type: none; margin-left: -25px; line-height: 2.4}
+
+    li.toc > a::before {content: "#" " "; font-weight: bold;}
+
   </style>
 </head>
 
@@ -70,8 +76,10 @@
   <!-- COL1 BODY -->
   <div id="col1-body">
 
-    <!-- COL1 TOC 
-<p class="sidebar-heading">{{ page.title }}</p> --> <br>
+    <!-- COL1 TOC -->
+<p class="sidebar-heading">{{ page.title }}</p>
+
+{% include toc.html html=content  h_min=2 h_max=3 item_class="toc" %}
 
     <!-- COL1 LINKS -->
     <details open>
