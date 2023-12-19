@@ -69,12 +69,6 @@ body {
     z-index: 3
 }
 
-.dark-mode #col1-head,
-.dark-mode #col2-head,
-.dark-mode #col3-head {
-    box-shadow: 0 5px 3px -3px #ffffff80;
-}
-
 #col2-menu-on button,
 #col2-menu-off button {
     position: relative;

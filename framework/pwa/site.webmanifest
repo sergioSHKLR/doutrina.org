@@ -7,7 +7,7 @@
   "short_name": "doutrina",
   "theme_color": "#4ec1f5",
   "description": "Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.",
-  "orientation": "any",
+  "orientation": "landscape",
   "background_color": "#222222",
   "related_applications": [],
   "prefer_related_applications": false,
