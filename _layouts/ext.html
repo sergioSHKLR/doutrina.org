@@ -5,16 +5,20 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
 
-    <!-- CSS  -->
-    <link rel="stylesheet" href="./framework/css/blockquote.css">
-    <link rel="stylesheet" href="./framework/css/content.css">
-    <link rel="stylesheet" href="./framework/css/headings.css">
-
     <style>
         body {
             margin: 28px 0;
             font-family: 'Roboto Slab', serif;
             padding: 0 55px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            border-bottom: 1px solid var(--border-color-light);
+            font-family: 'Roboto Slab';
+            font-weight: 500;
         }
 
         ul,
@@ -32,9 +36,7 @@
 </head>
 
 <body>
-    <div id="col4-body">
-        {{ content }}
-    </div>
+    {{ content }}
 </body>
 
 </html>

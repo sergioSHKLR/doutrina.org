@@ -2,35 +2,46 @@
 
 /* VARIABLES START */
 :root {
-    --accent-color-dark: #20282f;
-    --accent-color-light: #f0f8ff;
-    --bground-bible-dark: #330500;
-    --bground-bible-light: #ffe4e1;
-    --bground-color-bible: #da70d61a;
-    --bground-color-spirit: #1e90ff1a;
-    --bground-color-grey: #8080801a;
-    --bground-dark: #222;
-    --bground-light: #fff;
-    --bground-spirit-dark: #001b33;
-    --bground-spirit-light: #f0f8ff;
-    --body-color-dark: #fff;
-    --body-color-light: #222;
+    --accent-color-lite: whitesmoke;
+    --accent-color-dark: #222;
+
+    --bground-color-grey: #808080;
+    --body-bground-dark: #111;
+    --body-bground-lite: #fff;
+    --body-color-dark: #eee;
+    --body-color-lite: #222;
     --body-height: calc(100vh - 50px);
-    --border-color-grey: #808080ff;
-    --border-color-bible: #da70d6ff;
     --border-color-dark: #ADADAD;
-    --border-color-light: #66666680;
-    --border-color-spirit: #1e90ffff;
-    --color-dark-jesus: #FF8A8A;
-    --color-light-jesus: #B30000;
-    --color-link-dark: #1E90FF;
-    --color-link-light: #1E90FF;
+    --border-color-grey: #808080;
+    --border-color-lite: #666666;
+
+    --bquote-bible-bground-lite: hsl(302, 59%, 97%);
+    --bquote-bible-bground-dark: hsl(302, 20%, 13%);
+    --bquote-bible-border: hsl(302, 59%, 65%);
+
+    --bquote-greek-bground-lite: hsl(25, 95%, 97%);
+    --bquote-greek-bground-dark: hsl(25, 20%, 13%);
+    --bquote-greek-border: hsl(25, 95%, 65%);
+
+    --bquote-grey-bground-lite: hsl(0, 0%, 97%);
+    --bquote-grey-bground-dark: hsl(0, 0%, 15%);
+    --bquote-grey-border: hsl(0, 0%, 65%);
+
+    --bquote-spirit-bground-lite: hsl(208, 100%, 97%);
+    --bquote-spirit-bground-dark: hsl(208, 20%, 13%);
+    --bquote-spirit-border: hsl(208, 100%, 65%);
+
     --column-width-desktop: calc((100vw - 374px) * .5);
     --column-width-tablet: calc((100vw - 24px) * .5);
     --column-width-mobile: calc(100vw - 24px);
+
     --head-height: 50px;
     --hypo-offset: 24px;
-    --sidebar-width: 300px
+    --jesus-color-dark: #FF9E9E;
+    --jesus-color-lite: #B30000;
+    --link-color-dark: #1E90FF;
+    --link-color-lite: #1E90FF;
+    --sidebar-width: 300px;
 }
 
 /* VARIABLES END */
@@ -42,31 +53,33 @@ img {
 }
 
 body {
-    background-color: var(--bground-light);
-    color: var(--body-color-light)
+    background-color: var(--body-bground-lite);
+    color: var(--body-color-lite)
 }
-
-
 
 /* FRAMEWORK START */
 #col1-head {
     background-color: transparent;
     border: none;
-    border-bottom: 1px solid var(--border-color-light);
-    box-shadow: 0 5px 3px -3px #00000030;
+    border-bottom: 1px solid var(--border-color-lite);
+    box-shadow: 0 5px 3px -3px #00000080;
     left: 0;
     padding: 0 0 0 10px;
     width: calc(var(--sidebar-width) + var(--head-height));
     z-index: 3
 }
 
+.dark-mode #col1-head,
+.dark-mode #col2-head,
+.dark-mode #col3-head {
+    box-shadow: 0 5px 3px -3px #ffffff80;
+}
 
 #col2-menu-on button,
 #col2-menu-off button {
     position: relative;
     top: 2px;
 }
-
 
 #col1-head a:any-link,
 #col1-body a:any-link,
@@ -80,7 +93,7 @@ body {
 #col1-body,
 #col2-head,
 #col3-head {
-    background-color: var(--accent-color-light)
+    background-color: var(--accent-color-lite)
 }
 
 #col1-brand,
@@ -90,7 +103,7 @@ body {
     border-collapse: collapse;
     border-radius: 5px;
     box-sizing: border-box;
-    color: var(--body-color-light);
+    color: var(--body-color-lite);
     font: 24px 'Russo One', sans-serif;
     margin-left: -5px;
     padding-bottom: 5px;
@@ -109,9 +122,9 @@ body {
 
 #col1-body {
     -ms-overflow-style: none;
-    background-color: #f0f8ff;
+    background-color: var(--accent-color-lite);
     border-collapse: collapse;
-    border-right: 1px solid var(--border-color-light);
+    border-right: 1px solid var(--border-color-lite);
     box-sizing: border-box;
     font: 14px/1.5 'Inter', sans-serif;
     height: var(--body-height);
@@ -142,7 +155,7 @@ body {
 }
 
 #col2-head {
-    border-bottom: 1px solid var(--border-color-light);
+    border-bottom: 1px solid var(--border-color-lite);
     box-shadow: 0 5px 3px -3px #00000030;
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow: hidden;
@@ -192,26 +205,23 @@ body {
 
 #col2-body a:any-link {
     color: inherit;
-    text-decoration: underline 1.5px var(--color-link-light);
+    text-decoration: underline 1.5px var(--link-color-lite);
     text-underline-offset: 2px
 }
-
-/*
-#col2-body a:hover {
-    color: #0080ff;
-    text-decoration: underline;
-    text-decoration-color: #0080ff;
-    text-underline-offset: 2px
-}
-*/
 
 #col2-body blockquote,
 #col2-body blockquote.spirit,
 #col2-body blockquote.spirit-multi {
-    background-color: var(--bground-color-spirit);
-    border-left: 4px solid var(--border-color-spirit);
+    background-color: var(--bquote-spirit-bground-lite);
+    border-left: 4px solid var(--bquote-spirit-border);
     margin: 10px;
     padding: 1px 20px
+}
+
+.dark-mode #col2-body blockquote,
+.dark-mode #col2-body blockquote.spirit,
+.dark-mode #col2-body blockquote.spirit-multi {
+    background-color: var(--bquote-spirit-bground-dark);
 }
 
 #col2-body blockquote.bible-multi>p:last-child,
@@ -229,10 +239,14 @@ body {
 }
 
 #col2-body blockquote.greek {
-    background-color: #fcb8871a;
-    border-left: 4px solid #fcb887ff;
+    background-color: var(--bquote-greek-bground-lite);
+    border-left: 4px solid var(--bquote-greek-border);
     margin: 10px;
     padding: 1px 20px
+}
+
+.dark-mode #col2-body blockquote.greek {
+    background-color: var(--bquote-greek-bground-dark);
 }
 
 #col2-body blockquote.greek::first-letter {
@@ -246,10 +260,14 @@ body {
 }
 
 #col2-body blockquote.grey {
-    background-color: #8080801a;
-    border-left: 4px solid #808080ff;
+    background-color: var(--bquote-grey-bground-lite);
+    border-left: 4px solid var(--bquote-grey-border);
     margin: 10px;
     padding: 1px 20px
+}
+
+.dark-mode #col2-body blockquote.grey {
+    background-color: var(--bquote-grey-bground-dark);
 }
 
 #col2-body blockquote.grey em {
@@ -267,13 +285,18 @@ body {
 
 #col2-body blockquote.spirit::first-letter,
 #col2-body blockquote.spirit-multi::first-letter {
-    background-color: var(--border-color-spirit);
+    background-color: var(--bquote-spirit-border);
     border-bottom: 1.5px solid #06c;
     border-radius: 2px;
     border-right: 1.5px solid #06c;
     font-size: 80%;
     font-style: normal;
     padding: 1px
+}
+
+.dark-mode #col2-body blockquote.spirit::first-letter,
+.dark-mode #col2-body blockquote.spirit-multi::first-letter {
+    background-color: var(--bquote-spirit-border);
 }
 
 #col2-body blockquote:first-letter {
@@ -293,7 +316,7 @@ body {
 
 #col2-body pre {
     background-color: #e6e6e61a;
-    border: 1px solid var(--border-color-light);
+    border: 1px solid var(--border-color-lite);
     border-collapse: collapse;
     width: 100%
 }
@@ -305,29 +328,34 @@ body {
 
 #col2-body td {
     background-color: #e6e6e61a;
-    border: 1px solid var(--border-color-light);
+    border: 1px solid var(--border-color-lite);
     padding: 0 10px
 }
 
 #col2-body th {
     background-color: #e6e6e64d;
-    border: 1px solid var(--border-color-light);
+    border: 1px solid var(--border-color-lite);
     font-weight: 400;
     padding: 0 10px
 }
 
 #col2-body>blockquote.bible,
 #col2-body>blockquote.bible-multi {
-    background-color: var(--bground-color-bible) !important;
-    border-left: 4px solid var(--border-color-bible) !important;
+    background-color: var(--bquote-bible-bground-lite);
+    border-left: 4px solid var(--bquote-bible-border);
     font-style: italic;
     margin: 10px;
     padding: 1px 20px
 }
 
+.dark-mode #col2-body>blockquote.bible,
+.dark-mode #col2-body>blockquote.bible-multi {
+    background-color: var(--bquote-bible-bground-dark);
+}
+
 #col3-head {
     border: none;
-    border-bottom: 1px solid var(--border-color-light);
+    border-bottom: 1px solid var(--border-color-lite);
     box-shadow: 0 5px 3px -3px #00000030;
     padding: 0 20px 0 10px;
     right: 24px;
@@ -343,9 +371,9 @@ body {
 
 #col3-body {
     border-collapse: collapse;
-    border-left: 1px solid var(--border-color-light);
+    border-left: 1px solid var(--border-color-lite);
     box-sizing: border-box;
-    color: var(--body-color-light);
+    color: var(--body-color-lite);
     height: var(--body-height);
     position: fixed;
     right: 24px;
@@ -361,7 +389,7 @@ h1,
 h2,
 h3,
 h4 {
-    border-bottom: 1px solid var(--border-color-light);
+    border-bottom: 1px solid var(--border-color-lite);
     font-family: 'Roboto Slab';
     font-weight: 400;
 }
@@ -400,7 +428,7 @@ h5:before {
 }
 
 h6 {
-    border-bottom: 1px solid var(--border-color-light);
+    border-bottom: 1px solid var(--border-color-lite);
     font: 16px 'Roboto Slab';
     margin-bottom: -15px;
     margin-top: 0;
@@ -454,7 +482,7 @@ details[open] summary::before {
 }
 
 details>div>p>a {
-    color: var(--body-color-light);
+    color: var(--body-color-lite);
 }
 
 .dark-mode details>div>p>a {
@@ -469,7 +497,7 @@ details>div>p>a {
     -ms-overflow-style: none;
     background-color: inherit;
     border-collapse: collapse;
-    border-right: 1px solid var(--border-color-light);
+    border-right: 1px solid var(--border-color-lite);
     box-shadow: 5px 0 3px -3px #00000030;
     display: inline-block;
     height: var(--body-height);
@@ -557,8 +585,12 @@ details>div>p>a {
     font-size: 16px !important
 }
 
+.lo a {
+     text-decoration: none !important
+}
+
 button.tools {
-    font: 22px "'Material Symbols Outlined'!important" !important
+    font: 22px 'Material Symbols Outlined'!important
 }
 
 /* TOOLS END */
@@ -682,7 +714,7 @@ strong {
 }
 
 .sidebar-heading {
-    border-bottom: 1px solid var(--border-color-light);
+    border-bottom: 1px solid var(--border-color-lite);
     border-collapse: collapse;
     box-sizing: border-box;
     font: 700 16px 'Inter', sans-serif;
@@ -695,7 +727,7 @@ a#col3-link2-a,
 a#col3-link3-a,
 a#col3-link4-a {
     bottom: 2px;
-    color: var(--body-color-light);
+    color: var(--body-color-lite);
     font: 24px 'Inter';
     height: 40px;
     justify-content: center;
@@ -718,7 +750,7 @@ a:focus {
 }
 
 a:any-link {
-    color: var(--color-link-light);
+    color: var(--link-color-lite);
     outline: 0;
 }
 
@@ -735,11 +767,11 @@ blockquote a:hover {
 }
 
 blockquote.bible>p>em {
-    color: var(--color-light-jesus) !important;
+    color: var(--jesus-color-lite) !important;
 }
 
 .dark-mode blockquote.bible>p>em {
-    color: var(--color-dark-jesus) !important
+    color: var(--jesus-color-dark) !important
 }
 
 button {
@@ -748,7 +780,7 @@ button {
     border-collapse: collapse;
     box-sizing: border-box;
     color: currentColor;
-    color: var(--body-color-light);
+    color: var(--body-color-lite);
     cursor: pointer;
     font-size: 24px;
     height: var(--head-height);
@@ -778,7 +810,7 @@ em {
 
 kbd {
     background-color: #8080801a;
-    border: 1px solid var(--border-color-light);
+    border: 1px solid var(--border-color-lite);
     border-radius: 3px;
     color: currentColor;
     font: 14px 'Inter';
@@ -815,7 +847,7 @@ summary.ff-mono {
 
 /* DARK MODE START */
 .dark-mode {
-    background-color: var(--bground-dark);
+    background-color: var(--body-bground-dark);
     color: currentColor
 }
 
@@ -837,13 +869,13 @@ summary.ff-mono {
 
 /*
 .dark-mode #col2-body a:any-link:hover {
-    color: var(--color-link-dark);
-    text-decoration-color: var(--color-link-dark)
+    color: var(--link-color-dark);
+    text-decoration-color: var(--link-color-dark)
 }
 */
 
 .dark-mode #col2-body a:any-link {
-    text-decoration-color: var(--color-link-dark)
+    text-decoration-color: var(--link-color-dark)
 }
 
 .dark-mode details.links {
@@ -858,7 +890,7 @@ summary.ff-mono {
 .dark-mode html,
 .dark-mode body,
 .dark-mode #col2-body {
-    background-color: var(--bground-dark);
+    background-color: var(--body-bground-dark);
     box-shadow: none;
     color: #fff
 }

@@ -395,6 +395,21 @@ function checkMode14() {
 
 //---------------------------------------------------
 
+function function15() {
+    localStorage.setItem("links", "hidden");
+    var element = document.getElementById("col2-body");
+    element.classList.toggle("lo");
+}
+
+function checkMode15() {
+    let bground = localStorage.getItem("links");
+    if (bground == "hidden") {
+        function15()
+    }
+}
+
+//---------------------------------------------------
+
 function functionResetAll() {
     localStorage.removeItem("text");
     localStorage.removeItem("align");
