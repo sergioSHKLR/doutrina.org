@@ -11,9 +11,10 @@
     --body-color-dark: #eee;
     --body-color-lite: #222;
     --body-height: calc(100vh - 50px);
-    --border-color-dark: #ADADAD;
-    --border-color-grey: #808080;
-    --border-color-lite: #666666;
+
+    --border-color-dark: #ADADAD80;
+    --border-color-grey: #80808080;
+    --border-color-lite: #66666680;
 
     --bquote-bible-bground-lite: hsl(302, 59%, 97%);
     --bquote-bible-bground-dark: hsl(302, 20%, 13%);

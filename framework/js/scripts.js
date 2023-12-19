@@ -58,9 +58,9 @@ function openFullscreen() {
         elem.msRequestFullscreen();
     }
     var element = document.getElementById("col2-fs-btn");
-    element.classList.toggle("hide");
+    element.classList.add("hide");
     var element = document.getElementById("col2-ns-btn");
-    element.classList.toggle("show");
+    element.classList.add("show");
 }
 
 // CLOSE FULLSCREEN  
@@ -73,9 +73,9 @@ function closeFullscreen() {
         document.msExitFullscreen();
     }
     var element = document.getElementById("col2-ns-btn");
-    element.classList.toggle("show");
+    element.classList.add("show");
     var element = document.getElementById("col2-fs-btn");
-    element.classList.toggle("hide");
+    element.classList.add("hide");
 }
 
 var elem = document.documentElement;
@@ -103,7 +103,7 @@ function menuOff() {
 // TOOLS START
 
 function menuDropdown() {
-    document.getElementById("myDropdown").classList.toggle("show");
+    document.getElementById("myDropdown").classList.add("show");
 }
 
 // Close the dropdown if the user clicks outside of it
@@ -126,7 +126,7 @@ function function1() {
     var element = document.getElementById("col2-body");
     element.classList.remove("td");
     element.classList.remove("tn");
-    element.classList.toggle("ti");
+    element.classList.add("ti");
 }
 
 function checkMode1() {
@@ -142,7 +142,7 @@ function function0() {
     var element = document.getElementById("col2-body");
     element.classList.remove("ti");
     element.classList.remove("td");
-    element.classList.toggle("tn");
+    element.classList.add("tn");
 }
 
 function checkMode0() {
@@ -158,7 +158,7 @@ function function2() {
     var element = document.getElementById("col2-body");
     element.classList.remove("ti");
     element.classList.remove("tn");
-    element.classList.toggle("td");
+    element.classList.add("td");
 }
 
 function checkMode2() {
@@ -174,7 +174,7 @@ function function3() {
     localStorage.setItem("align", "left");
     var element = document.getElementById("col2-body");
     element.classList.remove("aj");
-    element.classList.toggle("al");
+    element.classList.add("al");
 }
 
 function checkMode3() {
@@ -190,7 +190,7 @@ function function4() {
     localStorage.setItem("align", "justified");
     var element = document.getElementById("col2-body");
     element.classList.remove("al");
-    element.classList.toggle("aj");
+    element.classList.add("aj");
 }
 
 function checkMode4() {
@@ -208,7 +208,7 @@ function function5() {
     element.classList.remove("f2");
     element.classList.remove("f3");
     element.classList.remove("f4");
-    element.classList.toggle("f1");
+    element.classList.add("f1");
 }
 
 function checkMode5() {
@@ -226,7 +226,7 @@ function function6() {
     element.classList.remove("f1");
     element.classList.remove("f3");
     element.classList.remove("f4");
-    element.classList.toggle("f2");
+    element.classList.add("f2");
 }
 
 function checkMode6() {
@@ -244,7 +244,7 @@ function function7() {
     element.classList.remove("f1");
     element.classList.remove("f2");
     element.classList.remove("f4");
-    element.classList.toggle("f3");
+    element.classList.add("f3");
 }
 
 function checkMode7() {
@@ -262,7 +262,7 @@ function function8() {
     element.classList.remove("f1");
     element.classList.remove("f2");
     element.classList.remove("f3");
-    element.classList.toggle("f4");
+    element.classList.add("f4");
 }
 
 function checkMode8() {
@@ -279,7 +279,7 @@ function function9() {
     var element = document.getElementById("col2-body");
     element.classList.remove("dm");
     element.classList.remove("dn");
-    element.classList.toggle("ds");
+    element.classList.add("ds");
 }
 
 function checkMode9() {
@@ -295,7 +295,7 @@ function function9a() {
     var element = document.getElementById("col2-body");
     element.classList.remove("dm");
     element.classList.remove("dn");
-    element.classList.toggle("dn");
+    element.classList.add("dn");
 }
 
 function checkMode9a() {
@@ -312,7 +312,7 @@ function function10() {
     var element = document.getElementById("col2-body");
     element.classList.remove("ds");
     element.classList.remove("dn");
-    element.classList.toggle("dm");
+    element.classList.add("dm");
 }
 
 function checkMode10() {
@@ -329,7 +329,7 @@ function function11() {
     var element = document.getElementById("col2-body");
     element.classList.remove("b2");
     element.classList.remove("b3");
-    element.classList.toggle("b1");
+    element.classList.add("b1");
 }
 
 function checkMode11() {
@@ -347,7 +347,7 @@ function function12() {
     element.classList.remove("b1");
     element.classList.remove("b3");
     element.classList.remove("b4");
-    element.classList.toggle("b2");
+    element.classList.add("b2");
 }
 
 function checkMode12() {
@@ -365,7 +365,7 @@ function function13() {
     element.classList.remove("b1");
     element.classList.remove("b2");
     element.classList.remove("b4");
-    element.classList.toggle("b3");
+    element.classList.add("b3");
 }
 
 function checkMode13() {
@@ -383,7 +383,7 @@ function function14() {
     element.classList.remove("b1");
     element.classList.remove("b2");
     element.classList.remove("b3");
-    element.classList.toggle("b4");
+    element.classList.add("b4");
 }
 
 function checkMode14() {
@@ -398,12 +398,12 @@ function checkMode14() {
 function function15() {
     localStorage.setItem("links", "hidden");
     var element = document.getElementById("col2-body");
-    element.classList.toggle("lo");
+    element.classList.add("lo");
 }
 
 function checkMode15() {
-    let bground = localStorage.getItem("links");
-    if (bground == "hidden") {
+    let links = localStorage.getItem("links");
+    if (links == "hidden") {
         function15()
     }
 }
@@ -416,6 +416,7 @@ function functionResetAll() {
     localStorage.removeItem("font");
     localStorage.removeItem("density");
     localStorage.removeItem("bground");
+    localStorage.removeItem("links");
     var element = document.getElementById("col2-body");
     element.classList.remove("td");
     element.classList.remove("tn");
@@ -433,6 +434,7 @@ function functionResetAll() {
     element.classList.remove("b2");
     element.classList.remove("b3");
     element.classList.remove("b4");
+    element.classList.remove("lo");
 }
 
 //---------------------------------------------------
@@ -490,6 +492,10 @@ function checkMode() {
     }
     if (bground == "branco") {
         function14()
+    }
+    let links = localStorage.getItem("links");
+    if (links == "hidden") {
+        function15()
     }
     let mode = localStorage.getItem("contrast");
     if (mode == "dark") {

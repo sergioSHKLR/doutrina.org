@@ -3,6 +3,8 @@ layout: 0-generic
 version: 23.12.15
 ---
 
+# Admonitions
+
 > ✝️ ▸ Mensagem (*Jesus*) [link](link.html)  (Bible)
 {:.bible}
 
