@@ -5,10 +5,10 @@ version: 23.12.15
 
 # Admonitions
 
-> ✝️ ▸ Mensagem (*Jesus*) [link](link.html)  (Bible)
+> ✝️ ▸ Mensagem (*Jesus*) [Jesus](https://pt.m.wikipedia.org/wiki/Jesus)  (Bible)
 {:.bible}
 
-> ✝️ ▸ Mensagem (*Jesus*) [link](link.html)  (Bible-Multi)
+> ✝️ ▸ Mensagem (*Jesus*) [Deus](https://pt.m.wikipedia.org/wiki/Deus)  (Bible-Multi)
 >
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
