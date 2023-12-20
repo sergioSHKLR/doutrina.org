@@ -11,6 +11,8 @@ version: 23.12.15
 
 [luz espírita short link](Deus){:.l}
 
+[maps](houston, tx){:.m}
+
 > ✝️ ▸ Mensagem (*Jesus*) [Jesus](Jesus){:.w}  (Bible)
 {:.bible}
 
@@ -38,8 +40,3 @@ version: 23.12.15
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.
 
 <img src="./content/images/vine.png">
-
-  <!-- SCRIPTS -->
-  <script src="../framework/js/string-replace1.js" ></script>
-    <script src="../framework/js/string-replace2.js" ></script>  <script src="../framework/js/string-replace3.js" ></script>
-      <script src="../framework/js/ext-links.js" ></script>
