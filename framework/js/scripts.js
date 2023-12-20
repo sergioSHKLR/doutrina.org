@@ -28,20 +28,40 @@ function lightMode() {
 // EXT LINKS START
 
 // SETS COL2 LINKS TO TARGET EXT 
-(function () {
-    const links = document.querySelectorAll(
-        "a[href^='https://pt'], a[href^='https://www'")
-    const host = window.location.hostname
+window.onload = function() {
+    /* onload code */
+ 
+ var anchors = document.getElementsByClassName("w");
+ 
+ for (var x = 0; i < anchors.length; i++) {
+     anchors[x].href = "https://pt.m.wikipedia.org/wiki" + anchors[x].pathname
+ }
+ 
+ var anchors = document.getElementsByClassName("d");
+ 
+ for (var y = 0; y < anchors.length; y++) {
+     anchors[y].href = "https://pt.m.wiktionary.org/wiki" + anchors[y].pathname
+ }
 
-    const isInternalLink = link => new URL(link).hostname === host
-
-    links.forEach(link => {
-        if (isInternalLink(link)) return
-
-        link.setAttribute("target", "ext")
-        link.setAttribute("rel", "noopener")
-    })
-})()
+ var anchors = document.getElementsByClassName("l");
+ 
+ for (var z = 0; z < anchors.length; z++) {
+     anchors[z].href = "https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=" + anchors[z].pathname
+ }
+ 
+     const links = document.querySelectorAll(
+         "a[href^='https://pt'], a[href^='https://www'")
+     const host = window.location.hostname
+ 
+     const isInternalLink = link => new URL(link).hostname === host
+ 
+     links.forEach(link => {
+         if (isInternalLink(link)) return
+ 
+         link.setAttribute("target", "ext")
+         link.setAttribute("rel", "noopener")
+     })
+ }
 
 // EXT LINKS END
 

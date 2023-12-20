@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <style>
+
+        </style>
+    </head>
+
+    <body>
+
+     
+        <div id='text-target'>
+  
+        </div>
+
+        <script>
+
+const linkRegex = w-
+
+function replacer(matched) {
+  let withProtocol = matched
+  
+  if(!withProtocol.startsWith("http")) {
+    withProtocol = "http://pt.m.wikipedia.org/wiki/" + matched
+  }
+ 
+  const newStr = `<a
+    class="text-link"
+    href="${withProtocol}"
+  >
+    ${matched}
+  </a>`
+  
+  return newStr
+}
+
+const modifiedStr = str.replace(linkRegex, replacer)
+
+const textTarget = document.getElementById('text-target')
+
+textTarget.innerHTML = modifiedStr
+        </script>
+ 
+
+
+    </body>
+</html>
