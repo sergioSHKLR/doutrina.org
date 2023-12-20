@@ -2,8 +2,8 @@
 
 /* VARIABLES START */
 :root {
-    --accent-color-lite: whitesmoke;
-    --accent-color-dark: #222;
+    --accent-color-lite: hsl(198, 65%, 97%);
+    --accent-color-dark: hsl(198, 65%, 13%);
 
     --bground-color-grey: #808080;
     --body-bground-dark: #111;
@@ -63,7 +63,7 @@ body {
     background-color: transparent;
     border: none;
     border-bottom: 1px solid var(--border-color-lite);
-    box-shadow: 0 5px 3px -3px #00000080;
+    box-shadow: 0 5px 3px -3px #00000030;
     left: 0;
     padding: 0 0 0 10px;
     width: calc(var(--sidebar-width) + var(--head-height));
@@ -581,11 +581,11 @@ details>div>p>a {
 }
 
 .lo a {
-     text-decoration: none !important
+    text-decoration: none !important
 }
 
 button.tools {
-    font: 22px 'Material Symbols Outlined'!important
+    font: 22px 'Material Symbols Outlined' !important
 }
 
 /* TOOLS END */
@@ -1051,6 +1051,14 @@ summary.ff-mono {
 @media only screen and (max-width:749px) and (orientation: portrait) {
     #alert {
         display: block
+    }
+}
+
+@media all and (display-mode: fullscreen) {
+
+    #col2-fs-btn,
+    #col2-ns-btn {
+        display: none;
     }
 }
 

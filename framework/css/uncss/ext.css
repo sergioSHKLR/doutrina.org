@@ -1,0 +1,25 @@
+     body {
+            margin: 28px 0;
+            font-family: 'Roboto Slab', serif;
+            padding: 0 55px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            border-bottom: 1px solid #66666680;
+            font-family: 'Roboto Slab';
+            font-weight: 500;
+        }
+
+        ul,
+        li {
+            font-family: 'Roboto Slab', serif;
+            font-weight: 300;
+        }
+
+        @media only screen and (max-width:731px) {
+            body {
+                padding: 0 15px !important;
+            }}
