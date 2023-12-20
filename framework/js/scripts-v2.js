@@ -12,7 +12,7 @@ function darkMode() {
     localStorage.setItem("contrast", "dark");
 }
 
-// LIGHT MODE 
+// LIGHT MODE
 function lightMode() {
     var element4 = document.body;
     element4.classList.remove("dark-mode");
@@ -28,7 +28,7 @@ function lightMode() {
 // FULLSCREEN START
 var elem = document.documentElement;
 
-// OPEN FULLSCREEN  
+// OPEN FULLSCREEN
 function openFullscreen() {
     if (elem.requestFullscreen) {
         elem.requestFullscreen();
@@ -43,7 +43,7 @@ function openFullscreen() {
     element8.classList.add("show");
 }
 
-// CLOSE FULLSCREEN  
+// CLOSE FULLSCREEN
 function closeFullscreen() {
     if (document.exitFullscreen) {
         document.exitFullscreen();
@@ -64,14 +64,14 @@ var elem = document.documentElement;
 
 // MENU START
 
-// MENU ON 
+// MENU ON
 function menuOn() {
     document.getElementById("col1-body").style.display = 'inline-block';
     document.getElementById("col2-menu-on").style.display = 'none';
     document.getElementById("col2-menu-off").style.display = 'inline-block';
 }
 
-// MENU OFF 
+// MENU OFF
 function menuOff() {
     document.getElementById("col1-body").style.display = 'none';
     document.getElementById("col2-menu-off").style.display = 'none';
