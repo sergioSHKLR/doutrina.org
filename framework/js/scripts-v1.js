@@ -3,23 +3,23 @@
 // DARK MODE START
 
 function darkMode() {
-    var element = document.body;
-    element.classList.add("dark-mode");
-    var element = document.getElementById("col2-dm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col2-lm-btn");
-    element.classList.remove("hide");
+    var element1 = document.body;
+    element1.classList.add("dark-mode");
+    var element2 = document.getElementById("col2-dm-btn");
+    element2.classList.add("hide");
+    var element3 = document.getElementById("col2-lm-btn");
+    element3.classList.remove("hide");
     localStorage.setItem("contrast", "dark");
 }
 
 // LIGHT MODE 
 function lightMode() {
-    var element = document.body;
-    element.classList.remove("dark-mode");
-    var element = document.getElementById("col2-lm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col2-dm-btn");
-    element.classList.remove("hide");
+    var element4 = document.body;
+    element4.classList.remove("dark-mode");
+    var element5 = document.getElementById("col2-lm-btn");
+    element5.classList.add("hide");
+    var element6 = document.getElementById("col2-dm-btn");
+    element6.classList.remove("hide");
     localStorage.setItem("contrast", "light");
 }
 
@@ -44,10 +44,10 @@ function openFullscreen() {
     } else if (elem.msRequestFullscreen) { /* IE11 */
         elem.msRequestFullscreen();
     }
-    var element = document.getElementById("col2-fs-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col2-ns-btn");
-    element.classList.add("show");
+    var element7 = document.getElementById("col2-fs-btn");
+    element7.classList.add("hide");
+    var element8 = document.getElementById("col2-ns-btn");
+    element8.classList.add("show");
 }
 
 // CLOSE FULLSCREEN  
@@ -59,10 +59,10 @@ function closeFullscreen() {
     } else if (document.msExitFullscreen) { /* IE11 */
         document.msExitFullscreen();
     }
-    var element = document.getElementById("col2-ns-btn");
-    element.classList.add("show");
-    var element = document.getElementById("col2-fs-btn");
-    element.classList.add("hide");
+    var element9 = document.getElementById("col2-ns-btn");
+    element9.classList.add("show");
+    var element10 = document.getElementById("col2-fs-btn");
+    element10.classList.add("hide");
 }
 
 var elem = document.documentElement;
@@ -99,9 +99,9 @@ function function1() {
 }
 
 function checkMode1() {
-    let text = localStorage.getItem("text");
+    var text = localStorage.getItem("text");
     if (text == "increased") {
-        function1()
+        function1();
     }
 }
 
@@ -115,9 +115,9 @@ function function0() {
 }
 
 function checkMode0() {
-    let text = localStorage.getItem("text");
+    var text = localStorage.getItem("text");
     if (text == "normal") {
-        function0()
+        function0();
     }
 }
 //---------------------------------------------------
@@ -131,9 +131,9 @@ function function2() {
 }
 
 function checkMode2() {
-    let text = localStorage.getItem("text");
+    var text = localStorage.getItem("text");
     if (text == "decreased") {
-        function2()
+        function2();
     }
 }
 
@@ -147,9 +147,9 @@ function function3() {
 }
 
 function checkMode3() {
-    let align = localStorage.getItem("align");
+    var align = localStorage.getItem("align");
     if (align == "left") {
-        function3()
+        function3();
     }
 }
 
@@ -163,9 +163,9 @@ function function4() {
 }
 
 function checkMode4() {
-    let align = localStorage.getItem("align");
+    var align = localStorage.getItem("align");
     if (align == "justified") {
-        function4()
+        function4();
     }
 }
 
@@ -181,9 +181,9 @@ function function5() {
 }
 
 function checkMode5() {
-    let font = localStorage.getItem("font");
+    var font = localStorage.getItem("font");
     if (font == "sans") {
-        function5()
+        function5();
     }
 }
 
@@ -199,9 +199,9 @@ function function6() {
 }
 
 function checkMode6() {
-    let font = localStorage.getItem("font");
+    var font = localStorage.getItem("font");
     if (font == "serif") {
-        function6()
+        function6();
     }
 }
 
@@ -217,9 +217,9 @@ function function7() {
 }
 
 function checkMode7() {
-    let font = localStorage.getItem("font");
+    var font = localStorage.getItem("font");
     if (font == "mono") {
-        function7()
+        function7();
     }
 }
 
@@ -235,9 +235,9 @@ function function8() {
 }
 
 function checkMode8() {
-    let font = localStorage.getItem("font");
+    var font = localStorage.getItem("font");
     if (font == "slab") {
-        function8()
+        function8();
     }
 }
 
@@ -252,9 +252,9 @@ function function9() {
 }
 
 function checkMode9() {
-    let density = localStorage.getItem("density");
+    var density = localStorage.getItem("density");
     if (density == "small") {
-        function9()
+        function9();
     }
 }
 
@@ -268,9 +268,9 @@ function function9a() {
 }
 
 function checkMode9a() {
-    let density = localStorage.getItem("density");
+    var density = localStorage.getItem("density");
     if (density == "normal") {
-        function9a()
+        function9a();
     }
 }
 
@@ -285,16 +285,16 @@ function function10() {
 }
 
 function checkMode10() {
-    let density = localStorage.getItem("density");
+    var density = localStorage.getItem("density");
     if (density == "medium") {
-        function10()
+        function10();
     }
 }
 
 //---------------------------------------------------
 
 function function11() {
-    localStorage.setItem("bground", "amarelado");
+    localStorage.setItem("bground", "yellow");
     var element = document.getElementById("col2-body");
     element.classList.remove("b2");
     element.classList.remove("b3");
@@ -302,16 +302,16 @@ function function11() {
 }
 
 function checkMode11() {
-    let bground = localStorage.getItem("bground");
-    if (bground == "amarelado") {
-        function11()
+    var bground = localStorage.getItem("bground");
+    if (bground == "yellow") {
+        function11();
     }
 }
 
 //---------------------------------------------------
 
 function function12() {
-    localStorage.setItem("bground", "esverdeado");
+    localStorage.setItem("bground", "green");
     var element = document.getElementById("col2-body");
     element.classList.remove("b1");
     element.classList.remove("b3");
@@ -320,16 +320,16 @@ function function12() {
 }
 
 function checkMode12() {
-    let bground = localStorage.getItem("bground");
-    if (bground == "esverdeado") {
-        function12()
+    var bground = localStorage.getItem("bground");
+    if (bground == "green") {
+        function12();
     }
 }
 
 //---------------------------------------------------
 
 function function13() {
-    localStorage.setItem("bground", "roseado");
+    localStorage.setItem("bground", "pink");
     var element = document.getElementById("col2-body");
     element.classList.remove("b1");
     element.classList.remove("b2");
@@ -338,9 +338,9 @@ function function13() {
 }
 
 function checkMode13() {
-    let bground = localStorage.getItem("bground");
-    if (bground == "roseado") {
-        function13()
+    var bground = localStorage.getItem("bground");
+    if (bground == "pink") {
+        function13();
     }
 }
 
@@ -356,9 +356,9 @@ function function14() {
 }
 
 function checkMode14() {
-    let bground = localStorage.getItem("bground");
+    var bground = localStorage.getItem("bground");
     if (bground == "branco") {
-        function14()
+        function14();
     }
 }
 
@@ -371,9 +371,9 @@ function function15() {
 }
 
 function checkMode15() {
-    let links = localStorage.getItem("links");
+    var links = localStorage.getItem("links");
     if (links == "hidden") {
-        function15()
+        function15();
     }
 }
 
@@ -409,66 +409,66 @@ function functionResetAll() {
 //---------------------------------------------------
 
 function checkMode() {
-    let text = localStorage.getItem("text");
+    var text = localStorage.getItem("text");
     if (text == "increased") {
-        function1()
+        function1();
     }
     if (text == "normal") {
-        function0()
+        function0();
     }
     if (text == "decreased") {
-        function2()
+        function2();
     }
-    let align = localStorage.getItem("align");
+    var align = localStorage.getItem("align");
     if (align == "left") {
-        function3()
+        function3();
     }
     if (align == "justified") {
-        function4()
+        function4();
     }
-    let font = localStorage.getItem("font");
+    var font = localStorage.getItem("font");
     if (font == "sans") {
-        function5()
+        function5();
     }
     if (font == "serif") {
-        function6()
+        function6();
     }
     if (font == "mono") {
-        function7()
+        function7();
     }
     if (font == "slab") {
-        function8()
+        function8();
     }
-    let density = localStorage.getItem("density");
+    var density = localStorage.getItem("density");
     if (density == "small") {
-        function9()
+        function9();
     }
     if (density == "normal") {
-        function9a()
+        function9a();
     }
     if (density == "medium") {
-        function10()
+        function10();
     }
-    let bground = localStorage.getItem("bground");
+    var bground = localStorage.getItem("bground");
     if (bground == "yellow") {
-        function11()
+        function11();
     }
     if (bground == "green") {
-        function12()
+        function12();
     }
     if (bground == "pink") {
-        function13()
+        function13();
     }
-    if (bground == "brawhitenco") {
-        function14()
+    if (bground == "white") {
+        function14();
     }
-    let links = localStorage.getItem("links");
+    var links = localStorage.getItem("links");
     if (links == "hidden") {
-        function15()
+        function15();
     }
-    let contrast = localStorage.getItem("contrast");
+    var contrast = localStorage.getItem("contrast");
     if (contrast == "dark") {
-        darkMode()
+        darkMode();
     }
 }
 
