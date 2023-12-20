@@ -5,18 +5,16 @@ version: 23.12.15
 
 # Admonitions
 
-[wikipedia short link](Deus){:.wik}
+[wikipedia short link](Deus){:.w}
 
-[wiktionary short link](Deus){:.dic}
+[wiktionary short link](Deus){:.d}
 
-[luz espírita short link](Deus){:.luz}
+[luz espírita short link](Deus){:.l}
 
-<a href="Deus">Deus</a>
-
-> ✝️ ▸ Mensagem (*Jesus*) [Jesus](https://pt.m.wikipedia.org/wiki/Jesus)  (Bible)
+> ✝️ ▸ Mensagem (*Jesus*) [Jesus](Jesus){:.w}  (Bible)
 {:.bible}
 
-> ✝️ ▸ Mensagem (*Jesus*) [Deus](https://pt.m.wikipedia.org/wiki/Deus)  (Bible-Multi)
+> ✝️ ▸ Mensagem (*Jesus*) [Deus](Deus){:.w}  (Bible-Multi)
 >
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
@@ -41,41 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <img src="./content/images/vine.png">
 
-<script>
-var links, i, le;
-links = document.getElementsByClassName('wik');
-for (i = 0, le = links.length; i < le; i++) {
-    links[i].href = "https://pt.m.wikipedia.org/wiki" + (links[i].pathname);
-}
-</script>
-
-<script>
-var links, i, le;
-links = document.getElementsByClassName('dic');
-for (i = 0, le = links.length; i < le; i++) {
-    links[i].href = "https://pt.m.wiktionary.org/wiki" + (links[i].pathname);
-}
-</script>
-
-<script>
-var links, i, le;
-links = document.getElementsByClassName('luz');
-for (i = 0, le = links.length; i < le; i++) {
-    links[i].href = "https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=" + (links[i].pathname.slice(1));
-}
-</script>
-
-<script>
-         const links = document.querySelectorAll(
-         "a[href^='https://pt'], a[href^='https://www'")
-     const host = window.location.hostname
- 
-     const isInternalLink = link => new URL(link).hostname === host
- 
-     links.forEach(link => {
-         if (isInternalLink(link)) return
- 
-         link.setAttribute("target", "ext")
-         link.setAttribute("rel", "noopener")
-     })
- </script>
+  <!-- SCRIPTS -->
+  <script src="../framework/js/string-replace1.js" ></script>
+    <script src="../framework/js/string-replace2.js" ></script>  <script src="../framework/js/string-replace3.js" ></script>
+      <script src="../framework/js/ext-links.js" ></script>
