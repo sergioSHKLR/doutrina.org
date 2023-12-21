@@ -5,7 +5,7 @@
   "display": "fullscreen",
   "start_url": "https://doutrina.org/",
   "short_name": "doutrina",
-  "theme_color": "#47acd8",
+  "theme_color": "#F0FAFF",
   "description": "Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.",
   "orientation": "landscape",
   "background_color": "#222222",
