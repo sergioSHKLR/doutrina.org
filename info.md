@@ -239,6 +239,9 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos d
 | Fase | Estado |
 | Estabelecer um padrão hierárquico, de diagramação, e de tipografia que permita seu uso através dos cinco livros distintos | 🟢 |
 | Copiar e colar cada parágrafo da obra original, utilizando-se do PDF livremente disponível no site da FEB (veja [Avisos legais](./legal.md)) | 🟢 |
+| Desenvolver uma interface que permita a leitura e consulta de fontes complementares sem que saia da janela original | 🟢 |
+| Combinar ferramentas de EAD, leitor eBook, e outros numa plataforma integrada | 🟢 |
+| Estabelecer um padrão programático para facilitar a inclusão de links no arquivo MD | 🟢 |
 | Criar um repositório de nosso código fonte para acesso de programadores afins | 🟢 |
 | Verificar que cada termo grifado em itálico no original está também grifado em nosso projeto | 🟡 |
 | Substituir numerais romanos por seus equivalentes | 🟡 |
