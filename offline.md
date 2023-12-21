@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: offline
-version: 23.12.20
+version: 23.12.21
 ---
 
 # Seu dispositivo está sem conexão de rede. Por favor tente de novo quando esta falha estiver resolvida.
