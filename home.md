@@ -71,3 +71,8 @@ Sergio
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+<script type="application/json" class="js-hypothesis-config">
+{
+"openSidebar": true
+}
+</script>
