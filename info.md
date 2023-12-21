@@ -235,8 +235,8 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos d
 
 ## Etapas de desenvolvimento
 
-| --- | --- |
-| Fase | Estado |
+|---|:---:|
+| **Fase** | **Estado** |
 | Estabelecer um padrão hierárquico, de diagramação, e de tipografia que permita seu uso através dos cinco livros distintos | 🟢 |
 | Copiar e colar cada parágrafo da obra original, utilizando-se do PDF livremente disponível no site da FEB (veja [Avisos legais](./legal.md)) | 🟢 |
 | Desenvolver uma interface que permita a leitura e consulta de fontes complementares sem que saia da janela original | 🟢 |
