@@ -1,4 +1,4 @@
-// VERSION 23.12.17
+// VERSION 23.12.20
 
 // FULLSCREEN START
 var elem = document.documentElement;

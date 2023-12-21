@@ -1,7 +1,7 @@
 ---
 title: 👻 O Livro dos Espíritos
 layout: 1-lde
-version: 23.12.15
+version: 23.12.20
 ---
 
 *[LDE]: O Livro dos Espíritos

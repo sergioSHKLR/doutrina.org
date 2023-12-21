@@ -1,7 +1,7 @@
 ---
 title: ✒️ O Livro dos Médiuns
 layout: 2-ldm
-version: 23.12.15
+version: 23.12.20
 ---
 
 *[LDE]: O Livro dos Espíritos

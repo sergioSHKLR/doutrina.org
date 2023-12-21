@@ -1,7 +1,7 @@
 ---
 title: symbols
 layout: blank
-version: 23.12.15
+version: 23.12.20
 ---
 
 🢒 ⏵
