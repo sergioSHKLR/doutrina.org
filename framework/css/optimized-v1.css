@@ -646,18 +646,6 @@ button.tools {
     box-shadow: 0 4px 3px -3px #00000030;
 }
 
-#israel {
-    border-collapse: collapse;
-    bottom: -10px;
-    box-shadow: 0 4px 8px 0 #0003 0 6px 20px 0 #00000030;
-    box-sizing: border-box;
-    left: -50px;
-    position: fixed;
-    transform: rotate(45deg);
-    width: 141px;
-    z-index: 3;
-}
-
 .author,
 strong {
     font-weight: 400
