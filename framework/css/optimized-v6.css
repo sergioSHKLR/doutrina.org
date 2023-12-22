@@ -133,7 +133,7 @@ body {
   font: 300 16px/1.7 'Roboto Slab', serif;
   height: var(--body-height);
   left: calc(var(--sidebar-width) + var(--head-height));
-  line-height: 1.5;
+  line-height: 1.65;
   overflow-x: hidden;
   overflow-y: scroll;
   overscroll-behavior: contain;
