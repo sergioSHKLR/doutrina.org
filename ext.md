@@ -3,17 +3,17 @@ layout: ext
 version: 23.12.22
 ---
 
-# 🪧 Complementar
+# <span class="emoji">🪧</span> Complementar
 
 ## Conteúdo
 
 Os links da coluna principal são abertos aqui. Eles podem ser:
 
-- 📰 artigos do Wikipedia
-- 📔 definições de palavras do Wikicionário
-- 🎬 vídeos da Igreja de Jesus Cristo dos Santos dos Últimos Dias
-- 🎬 vídeos do show de TV Os Escolhidos
-- 🎬 vídeos de Bible Project (Brasil)
-- :map: mapas de OpenStreetMap (Leaflet) indicando locais citados
-- 🖼️ diagramas, ilustrações, ou pinturas representativas da Wikimedia
-- ✝️ bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com
+- <span class="emoji">📰</span> artigos do Wikipedia
+- <span class="emoji">📔</span> definições de palavras do Wikicionário
+- <span class="emoji">🎬 vídeos da Igreja de Jesus Cristo dos Santos dos Últimos Dias
+- <span class="emoji">🎬</span> vídeos do show de TV Os Escolhidos
+- <span class="emoji">🎬</span> vídeos de Bible Project (Brasil)
+- <span class="emoji">🗺️</span> mapas de OpenStreetMap (Leaflet) indicando locais citados
+- <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da Wikimedia
+- <span class="emoji">✝️</span> bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com

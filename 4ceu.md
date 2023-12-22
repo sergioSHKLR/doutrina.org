@@ -2086,7 +2086,7 @@ As seguintes palavras de um [Espírito][g4f] resumem admiravelmente as consequê
 
 > 👻 ▸ Todo [Espírito][g4f] sofredor e desolado vos contará a causa da sua queda, os desvarios que o perderam. Esperanças, combates e terrores; remorsos, desesperos e dores, tudo vos dirá, mostrando [Deus][c5m] justamente irritado a punir o culpado com toda a severidade. Ao ouvi-lo, dois sentimentos vos acometerão: o da compaixão e o do temor! compaixão por ele, temor por vós mesmos. E se o seguirdes nos seus queixumes, vereis então que [Deus][c5m] jamais o perde de vista, esperando o pecador arrependido e estendendo-lhe os braços logo que procure regenerar-se. Do culpado vereis, enfim, os progressos benéficos para os quais tereis a felicidade e a glória de contribuir, com a solicitude e o carinho do cirurgião acompanhando a cicatrização da ferida que pensa diariamente.
 >
->**Bordeaux 🇫🇷, 1861**
+>**Bordeaux <span class="emoji">🇫🇷</span>, 1861**
 
 ## 2. 🗃️ Exemplos {#ceu-2}
 
