@@ -677,7 +677,7 @@ A [Ciência][h4t] e a Religião não puderam, até hoje, entender-se, porque, en
 >São chegados os tempos em que se hão de desenvolver as ideias, para que se realizem os progressos que estão nos desígnios de [Deus][c5m]. Têm elas de seguir a mesma rota que percorreram as ideias de liberdade, suas precursoras. Não se acredite, porém, que esse desenvolvimento se efetue sem lutas. Não; aquelas ideias precisam, para atingirem a maturidade, de abalos e discussões, a fim de que atraiam a atenção das massas. Uma vez isso conseguido, a beleza e a santidade da [moral][h4c] tocarão os espíritos, que então abraçarão uma [ciência][h4t] que lhes dá a chave da [vida][r4f] futura e descerra as portas da felicidade eterna. Moisés abriu o caminho; [Jesus][q3y] continuou a obra; o [Espiritismo][f4r] a concluirá.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) israelita  
-> [Mulhouse](../content/maps/mulhouse.html) <span class="emoji">🇫🇷</span>  
+> [Mulhouse](mulhouse, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861
 {:.spirit-multi}
 
@@ -694,7 +694,7 @@ A [Ciência][h4t] e a Religião não puderam, até hoje, entender-se, porque, en
 > A revolução que se apresta é antes [moral][h4c] do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
 >
 > Fénelon  
-> [Poitiers](../content/maps/poitiers.html) <span class="emoji">🇫🇷</span>  
+> [Poitiers](poitiers, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861
 {:.spirit-multi}
 
@@ -707,7 +707,7 @@ A [Ciência][h4t] e a Religião não puderam, até hoje, entender-se, porque, en
 > 👻 ▸ Santo Agostinho é um dos maiores vulgarizadores do [Espiritismo][f4r]. Manifesta-se quase por toda parte. A [razão][f8m] disso encontramo-la na [vida][r4f] desse grande filósofo cristão. Pertence ele à vigorosa falange dos Pais da Igreja, aos quais deve a cristandade seus mais sólidos esteios. Como vários outros, foi arrancado ao paganismo, ou melhor, à impiedade mais profunda, pelo fulgor da [verdade][x8k]. Quando, entregue aos maiores excessos, sentiu em sua [alma](https://pt.m.wikipedia.org/wiki/Alma) aquela singular vibração que o fez voltar a si e compreender que a felicidade estava alhures, que não nos prazeres enervantes e fugitivos; quando, afinal, no seu caminho de Damasco, também lhe foi dado ouvir a santa voz a clamar-lhe: “Saulo, Saulo, por que me persegues?”, exclamou: “Meu [Deus][c5m]! Meu [Deus][c5m]! perdoai-me, creio, sou cristão!” E desde então tornou-se um dos mais fortes sustentáculos do Evangelho. Podem ler-se, nas notáveis confissões que esse eminente [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) deixou, as características e, ao mesmo tempo, proféticas palavras que proferiu, depois da [morte][q4x] de Santa Mônica: Estou convencido de que minha mãe me virá visitar e dar conselhos, revelando-me o que nos espera na [vida][r4f] futura. Que ensinamento nessas palavras e que retumbante previsão da doutrina porvindoura! Essa a [razão][f8m] por que hoje, vendo chegada a hora de divulgar-se a [verdade][x8k] que ele outrora pressentira, se constituiu seu ardoroso disseminador e, por assim dizer, se multiplica para responder a todos os que o chamam.
 >
 > Erasto, discípulo de Paulo  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863
 {:.spirit-multi}
 
@@ -825,7 +825,7 @@ O [Espiritismo][f4r] dilata o pensamento e lhe rasga horizontes novos. Em vez de
 > Compadecei-vos dos que não ganharam o Reino dos Céus; ajudai-os com as vossas preces, porquanto a prece aproxima do Altíssimo o homem; é o traço de união entre o céu e a [Terra][g5i]: não o esqueçais.
 >
 > Uma Rainha da França  
-> [Havre](../content/maps/havre.html) <span class="emoji">🇫🇷</span>  
+> [Havre](havre, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -993,7 +993,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 > 👻 ▸ A [Terra][g5i], conseguintemente, oferece um dos tipos de mundos expiatórios, cuja variedade é infinita, mas revelando todos, como caráter comum, o servirem de lugar de exílio para Espíritos rebeldes à Lei de [Deus][c5m]. Esses Espíritos têm aí de lutar, ao mesmo tempo, com a perversidade dos homens e com a inclemência da Natureza, duplo e árduo trabalho que simultaneamente desenvolve as qualidades do coração e as da [inteligência][y2h]. É assim que [Deus][c5m], em sua bondade, faz que o próprio castigo redunde em proveito do progresso do [Espírito][g4f].
 >
 > Santo Agostinho  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -1028,7 +1028,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 > Contemplai, pois, à noite, à hora do repouso e da prece, a abóbada azulada e, das inúmeras esferas que brilham sobre as vossas cabeças, indagai de vós mesmos quais as que conduzem a [Deus][c5m] e pedi-lhe que um mundo regenerador vos abra seu seio após a expiação na [Terra][g5i].
 >
 > Santo Agostinho  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -1047,7 +1047,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 > Segundo aquela lei, este mundo esteve material e moralmente num estado inferior ao em que hoje se acha e se alçará sob esse duplo aspecto a um grau mais elevado. Ele há chegado a um dos seus períodos de transformação, em que, de orbe expiatório, mudar-se-á em planeta de regeneração, onde os homens serão ditosos, porque nele imperará a Lei de [Deus][c5m].
 >
 > Santo Agostinho  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -1345,7 +1345,7 @@ Quais os limites da encarnação?
 > Deve também considerar-se que no estado de desencarnado, isto é, no intervalo das existências corporais, a situação do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) guarda relação com a natureza do mundo a que o liga o grau do seu adiantamento. Assim, na erraticidade(https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Erraticidade), é ele mais ou menos ditoso, livre e esclarecido, conforme está mais ou menos desmaterializado.
 >
 > [São Luís, IX da França](https://pt.m.wikipedia.org/wiki/Luís_IX_de_França)  
-> [Paris](../content/maps/paris.html){:target="ext"} <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1859  
 {:.spirit-multi}
 
@@ -1363,7 +1363,7 @@ Quais os limites da encarnação?
 > 👻 ▸ A passagem dos Espíritos pela [vida][r4f] corporal é necessária para que eles possam cumprir, por meio de uma ação material, os [desígnios](https://pt.m.wiktionary.org/wiki/desígnio) cuja execução [Deus](https://pt.m.wikipedia.org/wiki/Deus) lhes confia. É-lhes necessária, a bem deles, visto que a atividade que são obrigados a exercer lhes auxilia o desenvolvimento da [inteligência](https://pt.m.wikipedia.org/wiki/Inteligência). Sendo soberanamente justo, [Deus][c5m] tem de distribuir tudo igualmente por todos os seus filhos; assim é que estabeleceu para todos o mesmo ponto de partida, a mesma [aptidão](https://pt.m.wiktionary.org/wiki/aptidão), as mesmas obrigações a cumprir e a mesma liberdade de proceder. Qualquer privilégio seria uma preferência, e toda preferência, uma injustiça; mas a encarnação, para todos os Espíritos, é apenas um estado transitório. É uma tarefa que [Deus][c5m] lhes impõe, quando iniciam a [vida][r4f], como primeira experiência do uso que farão do livre-arbítrio. Os que desempenham com zelo essa tarefa transpõem rapidamente e menos penosamente os primeiros graus da iniciação e mais cedo gozam do fruto de seus labores. Os que, ao contrário, usam mal da liberdade que [Deus][c5m] lhes concede retardam a sua marcha e, tal seja a obstinação que demonstrem, podem prolongar indefinidamente a necessidade da reencarnação e é quando se torna um castigo.
 >  
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html){:target="ext"} <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1859  
 {:.spirit-multi}
 
@@ -1613,7 +1613,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Bem-aventurados os aflitos pode então traduzir-se assim: Bem-aventurados os que têm ocasião de provar sua fé, sua firmeza, sua perseverança e sua submissão à vontade de [Deus][c5m], porque terão centuplicada a alegria que lhes falta na [Terra][g5i], porque depois do labor virá o repouso.
 >
 > Lacordaire  
-> [Havre](../content/maps/havre.html) <span class="emoji">🇫🇷</span>  
+> [Havre](havre, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -1636,7 +1636,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Ditosos os que sofrem e choram! Alegres estejam suas almas, porque [Deus][c5m] as cumulará de bem-aventuranças.
 >
 > Santo Agostinho  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -1665,7 +1665,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Assim, pois, meus queridos filhos, que uma santa emulação vos anime e que cada um de vós se despoje do homem velho. Deveis todos consagrar-vos à propagação desse [Espiritismo][f4r] que já deu começo à vossa própria regeneração. Corre-vos o dever de fazer que os vossos irmãos participem dos raios da sagrada luz. Mãos, portanto, à obra, meus muito queridos filhos! Que nesta reunião solene todos os vossos corações aspirem a esse grandioso objetivo de preparar para as gerações porvindouras um mundo no qual já não seja vã a palavra felicidade.
 >
 > François-Nicolas-Madeleine, cardeal Morlot  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -1690,7 +1690,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Vós que compreendeis a [vida][r4f] espiritual, escutai as pulsações do vosso coração a chamar esses entes bem-amados e, se pedirdes a [Deus][c5m] que os abençoe, em vós sentireis fortes consolações, dessas que secam as lágrimas; sentireis aspirações grandiosas que vos mostrarão o porvir que o soberano Senhor prometeu.
 >
 > Sanson, ex-membro da Sociedade Espírita  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -1709,7 +1709,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Habituai-vos a não censurar o que não podeis compreender e crede que [Deus][c5m] é justo em todas as coisas. Muitas vezes, o que vos parece um mal é um bem. Tão limitadas, no entanto, são as vossas faculdades, que o conjunto do grande todo não o apreendem os vossos sentidos obtusos. Esforçai-vos por sair, pelo pensamento, da vossa acanhada esfera e, à medida que vos elevardes, diminuirá para vós a importância da [vida][r4f] material que, nesse caso, se vos apresentará como simples incidente, no curso infinito da vossa existência espiritual, única existência verdadeira.
 >
 > Fénelon  
-> [Sens](../content/maps/sens.html) <span class="emoji">🇫🇷</span>  
+> [Sens](sens, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -1730,7 +1730,8 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > E não será uma felicidade a calma, em meio das tempestades da [vida][r4f]?
 >
 > Fénelon  
-> <span class="emoji">🇫🇷</span> [Lyon](../content/maps/lyon.html), 1860  
+>[Lyon](lyon, fr){:.m}, <span class="emoji">🇫🇷</span>   
+> 1860  
 {:.spirit-multi}
 
 <details class="links"><summary>🔗</summary><br>
@@ -1752,7 +1753,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Que, pois, o [Espiritismo][f4r] vos esclareça e recoloque, para vós, sob verdadeiros prismas, a [verdade][x8k] e o erro, tão singularmente deformados pela vossa cegueira! Agireis então como bravos soldados que, longe de fugirem ao perigo, preferem as lutas dos combates arriscados à paz que lhes não pode dar glória, nem promoção! Que importa ao soldado perder na refrega armas, bagagens e uniforme, desde que saia vencedor e com glória? Que importa ao que tem fé no futuro deixar no campo de batalha da [vida][r4f] a riqueza e o manto de carne, contanto que sua [alma](https://pt.m.wikipedia.org/wiki/Alma) entre gloriosa no Reino celeste?
 >
 > Delfina de Girardin  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -1791,7 +1792,7 @@ O [Espiritismo][f4r] ainda produz, sob esse aspecto, outro resultado igualmente 
 > Vós, porém, que vos retirais do mundo, para lhe evitar as seduções e viver no insulamento, que utilidade tendes na [Terra][g5i]? Onde a vossa coragem nas provações, uma vez que fugis à luta e desertais do combate? Se quereis um cilício, aplicai-o às vossas almas, e não aos vossos corpos; mortificai o vosso [Espírito][g4f], e não a vossa carne; fustigai o vosso orgulho, recebei sem murmurar as humilhações; flagiciai o vosso [amor][c7p]-próprio; enrijai-vos contra a dor da injúria e da calúnia, mais pungente do que a dor física. Aí tendes o verdadeiro cilício cujas feridas vos serão contadas, porque atestarão a vossa coragem e a vossa submissão à vontade de [Deus][c5m].
 >
 > Um anjo guardião  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -1820,7 +1821,7 @@ Deve alguém pôr termo às provas do seu próximo quando o possa, ou deve, para
 > Não haveria imenso orgulho, da parte do homem, em se considerar no direito de, por assim dizer, revirar a arma dentro da ferida? De aumentar a dose do veneno nas vísceras daquele que está sofrendo, sob o pretexto de que tal é a sua expiação? Oh! considerai-vos sempre como instrumento para fazê-la cessar. Resumindo: todos estais na [Terra][g5i] para expiar; mas todos, sem exceção, deveis esforçar-vos por abrandar a expiação dos vossos semelhantes, de acordo com a lei de [amor][c7p] e [caridade][c5q].
 >
 > Bernardino, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -1845,7 +1846,7 @@ Um homem está agonizante, presa de cruéis sofrimentos. Sabe-se que seu estado 
 > O materialista, que apenas vê o corpo e em nenhuma conta tem a [alma][q3f], é inapto a compreender essas coisas; o espírita, porém, que já sabe o que se passa no além-túmulo, conhece o valor de um último pensamento. Minorai os derradeiros sofrimentos, quanto o puderdes; mas guardai-vos de abreviar a [vida][r4f], ainda que de um minuto, porque esse minuto pode evitar muitas lágrimas no futuro.
 >
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -1866,7 +1867,7 @@ Aquele que se acha desgostoso da [vida][r4f], mas que não quer extingui-la por 
 > Que o homem se mate ele próprio, ou faça que outrem o mate, seu propósito é sempre cortar o fio da existência: há, por conseguinte, suicídio intencional, se não de fato. É ilusória a ideia de que sua [morte][q4x] servirá para alguma coisa; isso não passa de pretexto para colorir o ato e escusá-lo aos seus próprios olhos. Se ele desejasse seriamente servir ao seu país, cuidaria de viver para defendê-lo; não procuraria morrer, pois que, morto, de nada mais lhe serviria. O verdadeiro devotamento consiste em não temer a [morte][q4x], quando se trate de ser útil, em afrontar o perigo, em fazer, de antemão e sem pesar, o sacrifício da [vida][r4f], se for necessário; mas buscar a [morte][q4x] com premeditada intenção, expondo-se a um perigo, ainda que para prestar serviço, anula o mérito da ação.
 >  
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -1881,7 +1882,7 @@ Se um homem se expõe a um perigo iminente para salvar a [vida][r4f] a um de seu
 > Desde que no ato não entre a intenção de buscar a [morte][q4x], não há suicídio, e sim, apenas, devotamento e abnegação, embora também haja a certeza de que morrerá. Mas quem pode ter essa certeza? Quem poderá dizer que a Providência não reserva um inesperado meio de salvação para o momento mais crítico? Não poderia ela salvar mesmo aquele que se achasse diante da boca de um canhão? Pode muitas vezes dar-se que ela queira levar ao extremo limite a prova da resignação e, nesse caso, uma circunstância inopinada desvia o golpe fatal.
 >  
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -1898,7 +1899,7 @@ Os que aceitam resignados os sofrimentos, por submissão à vontade de [Deus][c5
 > Podem esses sofrimentos ser de proveito para outrem, material e moralmente: materialmente se, pelo trabalho, pelas privações e pelos sacrifícios que tais criaturas se imponham, contribuem para o bem-estar material de seus semelhantes; moralmente, pelo exemplo que elas oferecem de sua submissão à vontade de [Deus][c5m]. Esse exemplo do poder da fé espírita pode induzir os desgraçados à resignação e salvá-los do desespero e de suas consequências funestas para o futuro.  
 >  
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -1985,7 +1986,7 @@ Assim, o [Espiritismo][f4r] realiza o que [Jesus][q3y] disse do Consolador prome
 > Espíritas! amai-vos, este o primeiro ensinamento; instruí-vos, este o segundo. No Cristianismo encontram-se todas as verdades; são de origem humana os erros que nele se enraizaram. Eis que do além-túmulo, que julgáveis o nada, vozes vos clamam: “Irmãos! nada perece. [Jesus][q3y] [Cristo][g0s] é o vencedor do mal, sede os vencedores da impiedade.”
 >
 > O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da Verdade  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -2002,7 +2003,7 @@ Assim, o [Espiritismo][f4r] realiza o que [Jesus][q3y] disse do Consolador prome
 > Em [verdade][x8k] vos digo: os que carregam seus fardos e assistem os seus irmãos são bem-amados meus. Instruí-vos na preciosa doutrina que dissipa o erro das revoltas e vos mostra o sublime objetivo da provação humana. Assim como o vento varre a poeira, que também o sopro dos Espíritos dissipe os vossos despeitos contra os ricos do mundo, que são, não raro, muito miseráveis, porquanto se acham sujeitos a provas mais perigosas do que as vossas. Estou convosco e meu apóstolo vos instrui. Bebei na fonte viva do [amor][c7p] e preparai-vos, cativos da [vida][r4f], a lançar-vos um dia, livres e alegres, no seio daquele que vos criou fracos para vos tornar perfectíveis e que quer modeleis vós mesmos a vossa maleável argila, a fim de serdes os artífices da vossa imortalidade.
 >
 > O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da Verdade  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -2015,7 +2016,7 @@ Assim, o [Espiritismo][f4r] realiza o que [Jesus][q3y] disse do Consolador prome
 > 👻 ▸ Sou o grande médico das almas e venho trazer-vos o remédio que vos há de curar. Os fracos, os sofredores e os enfermos são os meus filhos prediletos. Venho salvá-los. Vinde, pois, a mim, vós que sofreis e vos achais oprimidos, e sereis aliviados e consolados. Não busqueis alhures a força e a consolação, pois que o mundo é impotente para dá-las. [Deus][c5m] dirige um supremo apelo aos vossos corações, por meio do [Espiritismo][f4r]. Escutai-o. Extirpados sejam de vossas almas doloridas a impiedade, a mentira, o erro, a incredulidade. São monstros que sugam o vosso mais puro sangue e que vos abrem chagas quase sempre mortais. Que, no futuro, humildes e submissos ao Criador, pratiqueis a sua Lei divina. Amai e orai; sede dóceis aos Espíritos do Senhor; invocai-o do fundo de vossos corações. Ele, então, vos enviará o seu Filho bem-amado, para vos instruir e dizer estas boas palavras: “Eis-me aqui; venho até vós, porque me chamastes.”
 >
 > O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da Verdade  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -2028,7 +2029,7 @@ Assim, o [Espiritismo][f4r] realiza o que [Jesus][q3y] disse do Consolador prome
 > 👻 ▸ [Deus][c5m] consola os humildes e dá força aos aflitos que lha pedem. Seu poder cobre a [Terra][g5i] e, por toda a parte, junto de cada lágrima colocou Ele um bálsamo que consola. A abnegação e o devotamento são uma prece contínua e encerram um ensinamento profundo. A [sabedoria][i8d] humana reside nessas duas palavras. Possam todos os Espíritos sofredores compreender essa [verdade][x8k], em vez de clamarem contra suas dores, contra os sofrimentos morais que neste mundo vos cabem em partilha. Tomai, pois, por divisa estas duas palavras: devotamento e abnegação, e sereis fortes, porque elas resumem todos os deveres que a [caridade][c5q] e a humildade vos impõem. O sentimento do dever cumprido vos dará repouso ao [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) e resignação. O coração bate então melhor, a [alma](https://pt.m.wikipedia.org/wiki/Alma) se asserena e o corpo se forra aos desfalecimentos, por isso que o corpo tanto menos forte se sente, quanto mais profundamente golpeado é o espírito.
 >
 > O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da Verdade  
-> [Havre](../content/maps/havre.html) <span class="emoji">🇫🇷</span>  
+> [Havre](havre, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2255,7 +2256,7 @@ Perguntar-se-á: não poderia [Deus][c5m] tocá-los pessoalmente, por meio de ma
 > A [inteligência][y2h] é rica de méritos para o futuro, mas sob a condição de ser bem empregada. Se todos os homens que a possuem dela se servissem de conformidade com a vontade de [Deus][c5m], fácil seria, para os Espíritos, a tarefa de fazer que a Humanidade avance. Infelizmente, muitos a tornam instrumento de orgulho e de perdição contra si mesmos. O homem abusa da [inteligência][y2h] como de todas as suas outras faculdades e, no entanto, não lhe faltam ensinamentos que o advirtam de que uma poderosa mão pode retirar o que lhe concedeu.
 >
 > Ferdinando, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>   
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>   
 > 1862  
 {:.spirit-multi}
 
@@ -2502,7 +2503,7 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 > Meus bem-amados, são chegados os tempos em que, explicados, os erros se tornarão verdades. Ensinar-vos-emos o sentido exato das parábolas e vos mostraremos a forte correlação que existe entre o que foi e o que é. Digo-vos, em [verdade][x8k]: a manifestação espírita avulta no horizonte, e aqui está o seu enviado, que vai resplandecer como o Sol no cume dos montes.
 >
 > João Evangelista  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2517,7 +2518,7 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 > Se tendes [amor][c7p], possuís tudo o que há de desejável na [Terra][g5i], possuís preciosíssima pérola, que nem os acontecimentos, nem as maldades dos que vos odeiem e persigam poderão arrebatar. Se tendes [amor][c7p], tereis colocado o vosso tesouro lá onde os vermes e a ferrugem não o podem atacar e vereis apagar-se da vossa [alma](https://pt.m.wikipedia.org/wiki/Alma) tudo o que seja capaz de lhe conspurcar a pureza; sentireis diminuir dia a dia o peso da matéria e, qual pássaro que adeja nos ares e já não se lembra da [Terra][g5i], subireis continuamente, subireis sempre, até que vossa [alma][q3f], inebriada, se farte do seu elemento de [vida][r4f] no seio do Senhor.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -2544,7 +2545,7 @@ Se vossa mão é causa de escândalo, cortai-a. Figura enérgica esta, que seria
 > Antes que me vá, recebei todos vós, que aqui vos achais reunidos, a minha bênção.
 >
 > Vianney, cura d’Ars  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2640,7 +2641,7 @@ Por aquelas palavras quis dizer que até agora os bens da [Terra][g5i] são aça
 > Não basta que dos lábios manem leite e mel. Se o coração de modo algum lhes está associado, só há hipocrisia. Aquele cuja afabilidade e doçura não são fingidas nunca se desmente: é o mesmo, tanto em sociedade, como na intimidade. Esse, ademais, sabe que se, pelas aparências, se consegue enganar os homens, a [Deus][c5m] ninguém engana.
 >
 > Lázaro  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -2661,7 +2662,7 @@ Por aquelas palavras quis dizer que até agora os bens da [Terra][g5i] são aça
 > Coragem, amigos! Tendes no [Cristo][g0s] o vosso modelo. Mais sofreu Ele do que qualquer de vós e nada tinha de que se penitenciar, ao passo que vós tendes de expiar o vosso passado e de vos fortalecer para o futuro. Sede, pois, pacientes, sede cristãos. Essa palavra resume tudo.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) amigo  
-> [Havre](../content/maps/havre.html) <span class="emoji">🇫🇷</span>  
+> [Havre](havre, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -2678,7 +2679,7 @@ Por aquelas palavras quis dizer que até agora os bens da [Terra][g5i] são aça
 > Cada época é marcada, assim, com o cunho da virtude ou do vício que a tem de salvar ou perder. A virtude da vossa geração é a atividade intelectual; seu vício é a indiferença [moral][h4c]. Digo, apenas, atividade, porque o gênio se eleva de repente e descobre, por si só, horizontes que a multidão somente mais tarde verá, enquanto a atividade é a reunião dos esforços de todos para atingir um fim menos brilhante, mas que prova a elevação intelectual de uma época. Submetei-vos à impulsão que vimos dar aos vossos espíritos; obedecei à grande lei do progresso, que é a palavra da vossa geração. Ai do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) preguiçoso, ai daquele que cerra o seu entendimento! Ai dele! porquanto nós, que somos os guias da Humanidade em marcha, lhe aplicaremos o látego e lhe submeteremos a vontade rebelde, por meio da dupla ação do freio e da espora. Toda resistência orgulhosa terá de, cedo ou tarde, ser vencida. Bem-aventurados, no entanto, os que são brandos, pois prestarão dócil ouvido aos ensinos.
 >
 > Lázaro  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2701,7 +2702,7 @@ Por aquelas palavras quis dizer que até agora os bens da [Terra][g5i] são aça
 > Em suma, a cólera não exclui certas qualidades do coração, mas impede se faça muito bem e pode levar à prática de muito mal. Isto deve bastar para induzir o homem a esforçar-se pela dominar. O espírita, ademais, é concitado a isso por outro motivo: o de que a cólera é contrária à [caridade][c5q] e à humildade cristãs.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2718,7 +2719,7 @@ Por aquelas palavras quis dizer que até agora os bens da [Terra][g5i] são aça
 > O corpo não dá cólera àquele que não na tem, do mesmo modo que não dá os outros vícios. Todas as virtudes e todos os vícios são inerentes ao [Espírito][g4f]. A não ser assim, onde estariam o mérito e a responsabilidade? O homem deformado não pode tornar-se direito, porque o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) nisso não pode atuar; mas pode modificar o que é do [Espírito][g4f], quando o quer com vontade firme. Não vos mostra a experiência, a vós espíritas, até onde é capaz de ir o poder da vontade, pelas transformações verdadeiramente miraculosas que se operam sob as vossas vistas? Compenetrai-vos, pois, de que o homem não se conserva vicioso, senão porque quer permanecer vicioso; de que aquele que queira corrigir-se sempre o pode. De outro modo, não existiria para o homem a lei do progresso.
 >
 > Hahnemann  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2904,7 +2905,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > Espíritas, jamais vos esqueçais de que, tanto por palavras como por atos, o perdão das injúrias não deve ser um termo vão. Pois que vos dizeis espíritas, sede-o. Olvidai o mal que vos hajam feito e não penseis senão numa coisa: no bem que podeis fazer. Aquele que enveredou por esse caminho não tem que se afastar daí, ainda que por pensamento, uma vez que sois responsáveis pelos vossos pensamentos, os quais todos [Deus][c5m] conhece. Cuidai, portanto, de os expungir de todo sentimento de rancor. [Deus][c5m] sabe o que demora no fundo do coração de cada um de seus filhos. Feliz, pois, daquele que pode todas as noites adormecer, dizendo: Nada tenho contra o meu próximo.
 >
 > Simeão  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -2919,7 +2920,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > Há, porém, duas maneiras bem diferentes de perdoar: há o perdão dos lábios e o perdão do coração. Muitas pessoas dizem, com referência ao seu adversário: “Eu lhe perdoo”, mas, interiormente, alegram-se com o mal que lhe advém, comentando que ele tem o que merece. Quantos não dizem: “Perdoo” e acrescentam: “mas não me reconciliarei nunca; não quero tornar a vê-lo em toda a minha [vida][r4f].” Será esse o perdão, segundo o Evangelho? Não; o perdão verdadeiro, o perdão cristão é aquele que lança um véu sobre o passado; esse o único que vos será levado em conta, visto que [Deus][c5m] não se satisfaz com as aparências. Ele sonda o recesso do coração e os mais secretos pensamentos. Ninguém se lhe impõe por meio de vãs palavras e de simulacros. O esquecimento completo e absoluto das ofensas é peculiar às grandes almas; o rancor é sempre sinal de baixeza e de inferioridade. Não olvideis que o verdadeiro perdão se reconhece muito mais pelos atos do que pelas palavras.
 >
 > Paulo, apóstolo  
-> [Lyon](../content/maps/lyon.html) <span class="emoji">🇫🇷</span>  
+> [Lyon](lyon, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -2942,7 +2943,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > Sede indulgentes, meus amigos, porquanto a indulgência atrai, acalma, ergue, ao passo que o rigor desanima, afasta e irrita.
 >
 > José, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -2961,7 +2962,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > Quando perdoardes aos vossos irmãos, não vos contenteis com o estender o véu do esquecimento sobre suas faltas, porquanto, as mais das vezes, muito transparente é esse véu para os olhares vossos. Levai-lhes, simultaneamente, com o perdão, o [amor][c7p]; fazei por eles o que pediríeis fizesse o vosso Pai celestial por vós. Substituí a cólera que conspurca, pelo [amor][c7p] que purifica. Pregai, exemplificando, essa [caridade][c5q] ativa, infatigável, que [Jesus][q3y] vos ensinou; pregai-a, como Ele o fez durante todo o tempo em que esteve na [Terra][g5i], visível aos olhos corporais e como ainda a prega incessantemente, desde que se tornou visível tão somente aos olhos do [Espírito][g4f]. Segui esse modelo divino; caminhai em suas pegadas; elas vos conduzirão ao refúgio onde encontrareis o repouso após a luta. Como Ele, carregai todos vós as vossas cruzes e subi penosamente, mas com coragem, o vosso calvário, em cujo cimo está a glorificação.
 >
 > João, bispo  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -2976,7 +2977,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > [Espiritismo][f4r]! Doutrina consoladora e bendita! felizes dos que te conhecem e tiram proveito dos salutares ensinamentos dos Espíritos do Senhor! Para esses, iluminado está o caminho, ao longo do qual podem ler estas palavras que lhes indicam o meio de chegarem ao termo da jornada: [caridade][c5q] prática, [caridade][c5q] do coração, [caridade][c5q] para com o próximo, como para si mesmo; numa palavra: [caridade][c5q] para com todos e [amor][c7p] a [Deus][c5m] acima de todas as coisas, porque o [amor][c7p] a [Deus][c5m] resume todos os deveres e porque impossível é amar realmente a [Deus][c5m], sem praticar a [caridade][c5q], da qual fez Ele uma lei para todas as criaturas.
 >
 > Dufêtre, bispo de Nevers  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 {:.spirit-multi}
 
 <details class="links"><summary>🔗</summary><br>
@@ -2996,7 +2997,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > Certamente que não é essa a conclusão a tirar-se, porquanto cada um de vós deve trabalhar pelo progresso de todos e, sobretudo, daqueles cuja tutela vos foi confiada. Por isso mesmo, deveis fazê-lo com moderação, para um fim útil, e não, como as mais das vezes, pelo prazer de denegrir. Neste último caso, a repreensão é uma maldade; no primeiro, é um dever que a [caridade][c5q] manda seja cumprido com todo o cuidado possível. Ademais, a censura que alguém faça a outrem deve ao mesmo tempo dirigi-la a si próprio, procurando saber se não a terá merecido.
 >
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -3011,7 +3012,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > Tudo depende da intenção. Decerto, a ninguém é defeso ver o mal, quando ele existe. Fora mesmo inconveniente ver em toda a parte só o bem. Semelhante ilusão prejudicaria o progresso. O erro está no fazer-se que a observação redunde em detrimento do próximo, desacreditando-o, sem necessidade, na opinião geral. Igualmente repreensível seria fazê-lo alguém apenas para dar expansão a um sentimento de malevolência e à satisfação de apanhar os outros em falta. Dá-se inteiramente o contrário quando, estendendo sobre o mal um véu, para que o público não o veja, aquele que note os defeitos do próximo o faça em seu proveito pessoal, isto é, para se exercitar em evitar o que reprova nos outros. Essa observação, em suma, não é proveitosa ao moralista? Como pintaria ele os defeitos humanos, se não estudasse os modelos?
 >
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -3026,7 +3027,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 > É muito delicada esta questão e, para resolvê-la, necessário se torna apelar para a [caridade][c5q] bem compreendida. Se as imperfeições de uma pessoa só a ela prejudicam, nenhuma utilidade haverá nunca em divulgá-la. Se, porém, podem acarretar prejuízo a terceiros, deve-se atender de preferência ao interesse do maior número. Segundo as circunstâncias, desmascarar a hipocrisia e a mentira pode constituir um dever, pois mais vale caia um homem, do que virem muitos a ser suas vítimas. Em tal caso, deve-se pesar a soma das vantagens e dos inconvenientes.
 >
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -3148,7 +3149,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > Disse eu que em seus começos o homem só instintos possuía. Mais próximo, portanto, ainda se acha do ponto de partida do que da meta, aquele em quem predominam os instintos. A fim de avançar para a meta, tem a criatura que vencer os instintos, em proveito dos sentimentos, isto é, que aperfeiçoar estes últimos, sufocando os germens latentes da matéria. Os instintos são a germinação e os embriões do sentimento; trazem consigo o progresso, como a glande encerra em si o carvalho, e os seres menos adiantados são os que, emergindo pouco a pouco de suas crisálidas, se conservam escravizados aos instintos. O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) precisa ser cultivado, como um campo. Toda a riqueza futura depende do labor atual, que vos granjeará muito mais do que bens terrenos: a elevação gloriosa. É então que, compreendendo a lei de [amor][c7p] que liga todos os seres, buscareis nela os gozos suavíssimos da [alma][q3f], prelúdios das alegrias celestes.
 >
 > Lázaro  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3173,7 +3174,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > Amados irmãos, aproveitai dessas lições; é difícil o praticá-las, porém, a [alma](https://pt.m.wikipedia.org/wiki/Alma) colhe delas imenso bem. Crede-me, fazei o sublime esforço que vos peço: “Amai-vos” e vereis a [Terra][g5i] em breve transformada num Paraíso onde as almas dos justos virão repousar.
 >
 > Fénelon  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3194,7 +3195,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > Grande conceito de renovação pelo [Espiritismo][f4r], tão bem exposto em O livro dos espíritos; tu produzirás o portentoso milagre do século vindouro, o da harmonização de todos os interesses materiais e espirituais dos homens, pela aplicação deste preceito bem compreendido: “Amai bastante, para serdes amados.”
 >
 > Sanson, ex-membro da Sociedade Espírita  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -3213,7 +3214,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > É a esse antagonismo entre a [caridade][c5q] e o egoísmo, à invasão do coração humano por essa chaga [moral][h4c] que se deve atribuir o fato de não haver ainda o Cristianismo desempenhado por completo a sua missão. Cabem a vós, novos apóstolos da fé, que os Espíritos superiores esclarecem, o encargo e o dever de extirpar esse mal, a fim de dar ao Cristianismo toda a sua força e desobstruir o caminho dos pedrouços que lhe embaraçam a marcha. Expulsai da [Terra][g5i] o egoísmo para que ela possa subir na escala dos mundos, porquanto já é tempo de a Humanidade envergar sua veste viril, para o que cumpre que primeiramente o expilais dos vossos corações.
 >
 > Emmanuel  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3230,7 +3231,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > O egoísmo é a negação da [caridade][c5q]. Ora, sem a [caridade][c5q] não haverá descanso para a sociedade humana. Digo mais: não haverá segurança. Com o egoísmo e o orgulho, que andam de mãos dadas, a [vida][r4f] será sempre uma carreira em que vencerá o mais esperto, uma luta de interesses, em que se calcarão aos pés as mais santas afeições, em que nem sequer os sagrados laços da família merecerão respeito.
 >
 > Pascal  
-> [Sens](../content/maps/sens.html) <span class="emoji">🇫🇷</span>  
+> [Sens](sens, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3276,7 +3277,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > Deveis, àqueles de quem falo, o socorro das vossas preces: é a verdadeira [caridade][c5q]. Não vos cabe dizer de um criminoso: “É um miserável; deve-se expurgar da sua presença a [Terra][g5i]; muito branda é, para um ser de tal espécie, a [morte][q4x] que lhe infligem.” Não, não é assim que vos compete falar. Observai o vosso modelo: [Jesus][q3y]. Que diria Ele, se visse junto de si um desses desgraçados? Lamentá-lo-ia; considerá-lo-ia um doente bem digno de piedade; estender-lhe-ia a mão. Em realidade, não podeis fazer o mesmo; mas, pelo menos, podeis orar por ele, assistir-lhe o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) durante o tempo que ainda haja de passar na [Terra][g5i]. Pode ele ser tocado de arrependimento, se orardes com fé. É tanto vosso próximo, como o melhor dos homens; sua [alma][q3f], transviada e revoltada, foi criada, como a vossa, para se aperfeiçoar; ajudai-o, pois, a sair do lameiro e orai por ele.
 >
 > Isabel da França  
-> [Havre](../content/maps/havre.html) <span class="emoji">🇫🇷</span>  
+> [Havre](havre, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3297,7 +3298,7 @@ Esta sentença: *Dai a César o que é de César*, não deve, entretanto, ser en
 > Questão muito grave é esta e que naturalmente se pode apresentar ao espírito. Responderei, na conformidade do meu adiantamento [moral][h4c], pois o de que se trata é de saber se se deve expor a [vida][r4f], mesmo por um malfeitor. O devotamento é cego; socorre-se um inimigo; deve-se, portanto, socorrer o inimigo da sociedade, a um malfeitor, em suma. Julgais que será somente à [morte][q4x] que, em tal caso, se corre a arrancar o desgraçado? É, talvez, a toda a sua [vida][r4f] passada. Imaginai, com efeito, que, nos rápidos instantes que lhe arrebatam os derradeiros alentos de [vida][r4f], o homem perdido volve ao seu passado, ou que, antes, este se ergue diante dele. A [morte][q4x], quiçá, lhe chega cedo demais; a reencarnação poderá vir a ser-lhe terrível. Lançai-vos, então, ó homens; lançai-vos todos vós a quem a [ciência][h4t] espírita esclareceu; lançai-vos, arrancai-o à sua condenação e, talvez, esse homem, que teria morrido a blasfemar, se atirará nos vossos braços. Todavia, não tendes que indagar se o fará, ou não; socorrei-o, porquanto, salvando-o, obedeceis a essa voz do coração, que vos diz: “Podes salvá-lo, salva-o!”
 >
 > Lamennais  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3429,7 +3430,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > Fora, pois, com esses costumes selvagens! Fora com esses processos de outros tempos! Todo espírita que ainda hoje pretendesse ter o direito de vingar-se seria indigno de figurar por mais tempo na falange que tem como divisa: Sem [caridade][c5q] não há salvação! Mas não, não posso deter-me a pensar que um membro da grande família espírita ouse jamais, de futuro, ceder ao impulso da vingança, senão para perdoar.
 >
 > Júlio Olivier  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3444,7 +3445,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > 👻 ▸ Amai-vos uns aos outros e sereis felizes. Tomai sobretudo a peito amar os que vos inspiram indiferença, ódio, ou desprezo. O [Cristo][g0s], que deveis considerar modelo, deu-vos o exemplo desse devotamento. Missionário do [amor][c7p], Ele amou até dar o sangue e a [vida][r4f] por [amor][c7p]. Penoso vos é o sacrifício de amardes os que vos ultrajam e perseguem; mas, precisamente, esse sacrifício é que vos torna superiores a eles. Se os odiásseis, como vos odeiam, não valeríeis mais do que eles. Amá-los é a hóstia imácula que ofereceis a [Deus][c5m] na ara dos vossos corações, hóstia de agradável aroma e cujo perfume lhe sobe até o seio. Se bem a lei de [amor][c7p] mande que cada um ame indistintamente a todos os seus irmãos, ela não couraça o coração contra os maus procederes; esta é, ao contrário, a prova mais angustiosa, e eu o sei bem, porquanto, durante a minha última existência terrena, experimentei essa tortura; mas [Deus][c5m] lá está e pune nesta [vida][r4f] e na outra os que violam a lei de [amor][c7p]. Não esqueçais, meus queridos filhos, que o [amor][c7p] aproxima de [Deus][c5m] a criatura e o ódio a distancia dele.
 >
 > Fénelon  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3461,7 +3462,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > Há crime no homicídio em duelo; a vossa própria legislação o reconhece. Ninguém tem o direito, em caso algum, de atentar contra a [vida][r4f] de seu semelhante: é um crime aos olhos de [Deus][c5m], que vos traçou a linha de conduta que tendes de seguir. Nisso, mais do que em qualquer outra circunstância, sois juízes em causa própria. Lembrai-vos de que somente vos será perdoado, conforme perdoardes; pelo perdão vos acercais da Divindade, pois a clemência é irmã do poder. Enquanto na [Terra][g5i] correr uma gota de sangue humano, vertida pela mão dos homens, o verdadeiro [Reino de [Deus][c5m]](https://pt.m.wikipedia.org/wiki/Reino_de_Deus) ainda se não terá implantado aí, reino de paz e de [amor][c7p], que há de banir para sempre do vosso planeta a animosidade, a discórdia, a guerra. Então, a palavra duelo somente existirá na vossa linguagem como longínqua e vaga recordação de um passado que se foi. Nenhum outro antagonismo existirá entre os homens, afora a nobre rivalidade do bem.
 >
 > Adolfo, bispo de Argel  
-> [Marmande](../content/maps/marmande.html) <span class="emoji">🇫🇷</span>  
+> [Marmande](marmande, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3476,7 +3477,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > Amigos, lembrai-vos deste preceito: “Amai-vos uns aos outros” e, então, a um golpe desferido pelo ódio respondereis com um sorriso, e ao ultraje com o perdão. O mundo, sem dúvida, se levantará furioso e vos tratará de covardes; erguei bem alto a fronte e mostrai que também ela se não temeria de cingir-se de espinhos, a exemplo do [Cristo][g0s], mas, que a vossa mão não quer ser cúmplice de um assassínio autorizado por falsos ares de honra, que, entretanto, não passa de orgulho e [amor][c7p]-próprio. Dar-se-á que, ao criar-vos, [Deus][c5m] vos outorgou o direito de [vida][r4f] e de [morte][q4x], uns sobre os outros? Não, só à Natureza conferiu Ele esse direito, para se reformar e reconstruir; quanto a vós, não permite, sequer, que disponhais de vós mesmos. Como o suicida, o duelista se achará marcado com sangue, quando comparecer perante [Deus][c5m], e a um e outro o Soberano Juiz reserva rudes e longos castigos. Se Ele ameaçou com a sua justiça aquele que disser raca a seu irmão, quão mais severa não será a pena que comine ao que chegar à sua presença com as mãos tintas do sangue de seu irmão!
 >
 > Santo Agostinho  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3491,7 +3492,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > Ó estúpido [amor][c7p]-próprio, tola vaidade e louco orgulho, quando sereis substituídos pela [caridade][c5q] cristã, pelo [amor][c7p] do próximo e pela humildade que o [Cristo][g0s] exemplificou e preceituou? Só quando isso se der desaparecerão esses preceitos monstruosos que ainda governam os homens, e que as leis são impotentes para reprimir, porque não basta interditar o mal e prescrever o bem; é preciso que o princípio do bem e o horror ao mal morem no coração do homem.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Boardeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Boardeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3506,7 +3507,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > Quando a [caridade][c5q] regular a conduta dos homens, eles conformarão seus atos e palavras a esta máxima: “Não façais aos outros o que não quiserdes que vos façam.” Verificando-se isso, desaparecerão todas as causas de dissensões e, com elas, as dos duelos e das guerras, que são os duelos de povo a povo.
 >
 > Francisco Xavier [^13]  
-> [Boardeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Boardeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3519,7 +3520,7 @@ Dizendo que apresentemos a outra face àquele que nos haja batido numa, disse, s
 > 👻 ▸ O homem do mundo, o homem venturoso, que por uma palavra chocante, uma coisa ligeira, joga a [vida][r4f] que lhe veio de [Deus][c5m], joga a [vida][r4f] do seu semelhante, que só a [Deus][c5m] pertence, esse é cem vezes mais culpado do que o miserável que, impelido pela cupidez, algumas vezes pela necessidade, se introduz numa habitação para roubar e matar os que se lhe opõem aos desígnios. Trata-se quase sempre de uma criatura sem educação, com imperfeitas noções do bem e do mal, ao passo que o duelista pertence, em regra, à classe mais culta. Um mata brutalmente, enquanto o outro o faz com método e polidez, pelo que a sociedade o desculpa. Acrescentarei mesmo que o duelista é infinitamente mais culpado do que o desgraçado que, cedendo a um sentimento de vingança, mata num momento de exasperação. O duelista não tem por escusa o arrebatamento da paixão, pois que, entre o insulto e a reparação, dispõe ele sempre de tempo para refletir. Age, portanto, friamente e com premeditado desígnio; estuda e calcula tudo, para com mais segurança matar o seu adversário. É certo que também expõe a [vida][r4f] e é isso o que reabilita o duelo aos olhos do mundo, que nele então só vê um ato de coragem e pouco caso da [vida][r4f]. Mas haverá coragem da parte daquele que está seguro de si? O duelo, remanescente dos tempos de barbárie, em os quais o direito do mais forte constituía a lei, desaparecerá por efeito de uma melhor apreciação do verdadeiro ponto de honra e à medida que o homem for depositando fé mais viva na [vida][r4f] futura.
 >  
 > Agostinho  
-> [Boardeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Boardeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3679,7 +3680,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Lembrai-vos de que [Jesus][q3y] disse que todos somos irmãos e pensai sempre nisso, antes de repelirdes o leproso ou o mendigo. Adeus: pensai nos que sofrem e orai.
 >
 > Irmã Rosália  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -3698,7 +3699,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Meus amigos, a cada regimento novo o general entrega um estandarte. Eu vos dou por divisa esta máxima do [Cristo][g0s]: “Amai-vos uns aos outros.” Observai esse preceito, reuni-vos todos sob essa bandeira e tereis ventura e consolação.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Lyon](../content/maps/lyon.html) <span class="emoji">🇫🇷</span>  
+> [Lyon](lyon, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -3715,7 +3716,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Caridade! Sublime palavra que sintetiza todas as virtudes, és tu que hás de conduzir os povos à felicidade. Praticando-te, criarão eles para si infinitos gozos no futuro e, quando se acharem exilados na [Terra][g5i], tu lhes serás a consolação, o prelibar das alegrias de que fruirão mais tarde, quando se encontrarem reunidos no seio do [Deus][c5m] de [amor][c7p]. Foste tu, virtude divina, que me proporcionaste os únicos momentos de satisfação de que gozei na [Terra][g5i]. Que os meus irmãos encarnados creiam na palavra do amigo que lhes fala, dizendo-lhes: “É na [caridade][c5q] que deveis procurar a paz do coração, o contentamento da [alma][q3f], o remédio para as aflições da [vida][r4f].” Oh! quando estiverdes a ponto de acusar a [Deus][c5m], lançai um olhar para baixo de vós; vede que de misérias a aliviar, que de pobres crianças sem família, que de velhos sem qualquer mão amiga que os ampare e lhes feche os olhos quando a [morte][q4x] os reclame! Quanto bem a fazer! Oh! não vos queixeis; ao contrário, agradecei a [Deus][c5m] e prodigalizai a mancheias a vossa simpatia, o vosso [amor][c7p], o vosso dinheiro por todos os que, deserdados dos bens desse mundo, enlanguescem na dor e no insulamento! Colhereis nesse mundo bem doces alegrias e, mais tarde… só [Deus][c5m] o sabe!…
 >
 > Adolfo, bispo de Argel  
-> [Boardeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Boardeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3738,7 +3739,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Não ouso falar do que fiz, porque também os Espíritos têm o pudor de suas obras; considero, porém, a que iniciei como uma das que mais hão de contribuir para o alívio dos vossos semelhantes. Vejo com frequência os Espíritos a pedirem lhes seja dado, por missão, continuar a minha tarefa. Vejo-os, minhas bondosas e queridas irmãs, no piedoso e divino ministério; vejo-os praticando a virtude que vos recomendo, com todo o júbilo que deriva de uma existência de dedicação e sacrifícios. Imensa dita é a minha, por ver quanto lhes honra o caráter, quão estimada e protegida é a missão que desempenham. Homens de bem, de boa e firme vontade, uni-vos para continuar amplamente a obra de propagação da [caridade][c5q]; no exercício mesmo dessa virtude, encontrareis a vossa recompensa; não há alegria espiritual que ela não proporcione já na [vida][r4f] presente. Sede unidos, amai-vos uns aos outros, segundo os preceitos do [Cristo][g0s]. Assim seja.
 >
 > São Vicente de Paulo  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1858  
 {:.spirit-multi}
 
@@ -3757,7 +3758,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Mas, se peço, também dou e dou muito. Convido-vos para um grande banquete e forneço a árvore onde todos vos saciareis! Vede quanto é bela, como está carregada de flores e de frutos! Ide, ide, colhei, apanhai todos os frutos dessa magnificente árvore que se chama a beneficência. No lugar dos ramos que lhe tirardes, atarei todas as boas ações que praticardes e levarei a árvore a [Deus][c5m], que a carregará de novo, porquanto a beneficência é inexaurível. Acompanhai-me, pois, meus amigos, a fim de que eu vos conte entre os que se arrolam sob a minha bandeira. Nada temais; eu vos conduzirei pelo caminho da salvação, porque sou — a Caridade.
 >
 > Cárita, martirizada em Roma  
-> [Lyon](../content/maps/lyon.html) <span class="emoji">🇫🇷</span>  
+> [Lyon](lyon, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3776,7 +3777,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Como essas trabalhadoras precisam de encorajamento, vejo chegarem-lhes de todos os lados as comunicações dos bons Espíritos. Os homens que fazem parte dessa sociedade lhes trazem também seu concurso, fazendo-lhes uma dessas leituras que agradam tanto. E nós, para recompensarmos o zelo de todos e de cada um em particular, prometemos às laboriosas obreiras boa clientela, que lhes pagará à vista, em bênçãos, única moeda que tem curso no Céu, garantindo-lhes, além disso, sem receio de errar, que essa moeda não lhes faltará.
 >
 > Cárita  
-> [Lyon](../content/maps/lyon.html) <span class="emoji">🇫🇷</span>  
+> [Lyon](lyon, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3791,7 +3792,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Dois homens acabavam de morrer. Dissera [Deus][c5m]: “Enquanto esses dois homens viverem, deitar-se-ão em sacos diferentes as boas ações de cada um deles, para que por ocasião de sua [morte][q4x] sejam pesados.” Quando ambos chegaram aos últimos momentos, mandou [Deus][c5m] que lhe trouxessem os dois sacos. Um estava cheio, volumoso, atochado, e nele ressoava o metal que o enchia; o outro era pequenino e tão vazio que se podiam contar as moedas que continha. “Este o meu”, disse um, “reconheço-o; fui rico e dei muito.” “Este o meu”, disse o outro, “sempre fui pobre, oh! quase nada tinha para repartir.” Mas, oh! surpresa! postos na balança os dois sacos, o mais volumoso se revelou leve, mostrando-se pesado o outro, tanto que fez se elevasse muito o primeiro no prato da balança. [Deus][c5m], então, disse ao rico: “Deste muito, é certo, mas deste por ostentação e para que o teu nome figurasse em todos os templos do orgulho e, ademais, dando, de nada te privaste. Vai para a esquerda e fica satisfeito com o te serem as tuas esmolas contadas por qualquer coisa.” Depois, disse ao pobre: “Tu deste pouco, meu amigo; mas cada uma das moedas que estão nesta balança representa uma privação que te impuseste; não deste esmolas, entretanto, praticaste a [caridade][c5q], e, o que vale muito mais, fizeste a [caridade][c5q] naturalmente, sem cogitar de que te fosse levada em conta; foste indulgente; não te constituíste juiz do teu semelhante; ao contrário, todas as suas ações lhe relevaste: passa à direita e vai receber a tua recompensa.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Lyon](../content/maps/lyon.html) <span class="emoji">🇫🇷</span>  
+> [Lyon](lyon, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3812,7 +3813,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Todos vós podeis dar. Qualquer que seja a classe a que pertençais, de alguma coisa dispondes que podeis dividir. Seja o que for que [Deus][c5m] vos haja outorgado, uma parte do que Ele vos deu deveis àquele que carece do necessário, porquanto, em seu lugar, muito gostaríeis que outro dividisse convosco. Os vossos tesouros da [Terra][g5i] serão um pouco menores; contudo, os vossos tesouros do céu ficarão acrescidos. Lá colhereis pelo cêntuplo o que houverdes semeado em benefícios neste mundo.
 >
 > João  
-> [Boardeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Boardeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -3833,7 +3834,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > Quão longe, no entanto, se acha a piedade de causar o distúrbio e o aborrecimento de que se arreceia o egoísta! Sem dúvida, ao contato da desgraça de outrem, a [alma][q3f], voltando-se para si mesma, experimenta um confrangimento natural e profundo, que põe em vibração todo o ser e o abala penosamente. Grande, porém, é a compensação, quando chegais a dar coragem e esperança a um irmão infeliz que se enternece ao aperto de uma mão amiga e cujo olhar, úmido, por vezes, de emoção e de reconhecimento, para vós se dirige docemente, antes de se fixar no Céu em agradecimento por lhe ter enviado um consolador, um amparo. A piedade é o melancólico, mas celeste precursor da [caridade][c5q], primeira das virtudes que a tem por irmã e cujos benefícios ela prepara e enobrece.
 >
 > Miguel  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -3848,7 +3849,7 @@ Todavia, aquela advertência também pode ser aplicada em sentido mais literal. 
 > 👻 ▸ Meus irmãos, amai os órfãos. Se soubésseis quanto é triste ser só e abandonado, sobretudo na infância! [Deus][c5m] permite que haja órfãos, para exortar-nos a servir-lhes de pais. Que divina [caridade][c5q] amparar uma pobre criaturinha abandonada, evitar que sofra fome e frio, dirigir-lhe a [alma][q3f], a fim de que não desgarre para o vício! Agrada a [Deus][c5m] quem estende a mão a uma criança abandonada, porque compreende e pratica a sua lei. Ponderai também que muitas vezes a criança que socorreis vos foi cara noutra encarnação, caso em que, se pudésseis lembrar-vos, já não estaríeis praticando a [caridade][c5q], mas cumprindo um dever. Assim, pois, meus amigos, todo sofredor é vosso irmão e tem direito à vossa [caridade][c5q]; não, porém, a essa [caridade][c5q] que magoa o coração, não a essa esmola que queima a mão em que cai, pois frequentemente bem amargos são os vossos óbolos! Quantas vezes seriam eles recusados, se na choupana a enfermidade e a miséria não os estivessem esperando! Dai delicadamente, juntai ao benefício que fizerdes o mais precioso de todos os benefícios: o de uma boa palavra, de uma carícia, de um sorriso amistoso. Evitai esse ar de proteção, que equivale a revolver a lâmina no coração que sangra e considerai que, fazendo o bem, trabalhais por vós mesmos e pelos vossos.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) familiar  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -3888,7 +3889,7 @@ Que se deve pensar dos que, recebendo a ingratidão em paga de benefícios que f
 > 👻 ▸ Não, porquanto precisamente o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) de seita e de partido é que precisa ser abolido, visto que são irmãos todos os homens. O verdadeiro cristão vê somente irmãos em seus semelhantes e não procura saber, antes de socorrer o necessitado, qual a sua crença, ou a sua opinião, seja sobre o que for. Obedeceria o cristão, porventura, ao preceito de [Jesus][q3y] [Cristo][g0s], segundo o qual devemos amar os nossos inimigos, se repelisse o desgraçado, por professar uma crença diferente da sua? Socorra-o, portanto, sem lhe pedir contas à [consciência][h7z], pois, se for um inimigo da religião, esse será o meio de conseguir que ele a ame; repelindo-o, faria que a odiasse.
 >
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -4041,7 +4042,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 > Acolhei-os, portanto, como irmãos; auxiliai-os, e depois, no mundo dos Espíritos, a família se felicitará por haver salvo alguns náufragos que, a seu turno, poderão salvar outros.
 >
 > Santo Agostinho  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -4187,7 +4188,7 @@ Fora da [verdade][x8k] não há salvação equivaleria ao Fora da Igreja não h�
 > Meus amigos, agradecei a [Deus][c5m] o haver permitido que pudésseis gozar a luz do [Espiritismo][f4r]. Não é que somente os que a possuem hajam de ser salvos; é que, ajudando-vos a compreender os ensinos do [Cristo][g0s], ela vos faz melhores cristãos. Esforçai-vos, pois, para que os vossos irmãos, observando-vos, sejam induzidos a reconhecer que verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa, dado que todos quantos praticam a [caridade][c5q] são discípulos de [Jesus][q3y], sem embargo da seita a que pertençam.
 >
 > Paulo, o apóstolo  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -4371,7 +4372,7 @@ Deploram-se, com [razão][f8m], o péssimo uso que alguns fazem das suas riqueza
 > Qual, então, o melhor emprego que se pode dar à riqueza? Procurai nestas palavras: “Amai-vos uns aos outros”, a solução do problema. Elas guardam o segredo do bom emprego das riquezas. Aquele que se acha animado do [amor][c7p] do próximo tem aí toda traçada a sua linha de proceder. Na [caridade][c5q] está, para as riquezas, o emprego que mais apraz a [Deus][c5m]. Não nos referimos, é claro, a essa [caridade][c5q] fria e egoísta, que consiste em a criatura espalhar ao seu derredor o supérfluo de uma existência dourada. Referimo-nos à [caridade][c5q] plena de [amor][c7p], que procura a desgraça e a ergue, sem a humilhar. Rico!... dá do que te sobra; faze mais: dá um pouco do que te é necessário, porquanto o de que necessitas ainda é supérfluo; mas dá com [sabedoria][i8d]. Não repilas o que se queixa, com receio de que te engane; vai às origens do mal. Alivia, primeiro; em seguida, informa-te, e vê se o trabalho, os conselhos, mesmo a afeição não serão mais eficazes do que a tua esmola. Difunde em torno de ti, como os socorros materiais, o [amor][c7p] de [Deus][c5m], o [amor][c7p] do trabalho, o [amor][c7p] do próximo. Coloca tuas riquezas sobre uma base que nunca lhes faltará e que te trará grandes lucros: a das boas obras. A riqueza da [inteligência][y2h] deves utilizá-la como a do ouro. Derrama em torno de ti os tesouros da instrução; derrama sobre teus irmãos os tesouros do teu [amor][c7p] e eles frutificarão.
 >
 > Cheverus  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -4453,7 +4454,7 @@ O princípio, segundo o qual ele é apenas depositário da fortuna de que [Deus]
 > 👻 ▸ O homem pode perfeitamente transmitir, por sua [morte][q4x], aquilo de que gozou durante a [vida][r4f], porque o efeito desse direito está subordinado sempre à vontade de [Deus][c5m], que pode, quando quiser, impedir que aqueles descendentes gozem do que lhes foi transmitido. Não é outra a [razão][f8m] por que desmoronam fortunas que parecem solidamente constituídas. É, pois, impotente a vontade do homem para conservar nas mãos da sua descendência a fortuna que possua. Isso, entretanto, não o priva do direito de transmitir o empréstimo que recebeu de [Deus][c5m], uma vez que [Deus][c5m] pode retirá-lo, quando o julgue oportuno.
 >
 > São Luís, IX da França  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1860  
 {:.spirit-multi}
 
@@ -4604,7 +4605,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 > O dever cresce e irradia sob mais elevada forma, em cada um dos estágios superiores da Humanidade. Jamais cessa a obrigação [moral][h4c] da criatura para com [Deus][c5m]. Tem esta de refletir as virtudes do Eterno, que não aceita esboços imperfeitos, porque quer que a beleza da sua obra resplandeça a seus próprios olhos.
 >
 > Lázaro  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -4627,7 +4628,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 > Ó vós todos a quem a fé espírita aqueceu com seus raios, e que sabeis quão longe da perfeição está o homem, jamais esbarreis em semelhante escolho. A virtude é uma graça que desejo a todos os espíritas sinceros. Contudo, dir-lhes-ei: Mais vale pouca virtude com modéstia do que muita com orgulho. Pelo orgulho é que as humanidades sucessivamente se hão perdido; pela humildade é que um dia elas se hão de redimir.
 >
 > François-Nicolas-Madeleine  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -4650,7 +4651,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 > Se o superior tem deveres a cumprir, o inferior, de seu lado, também os tem e não menos sagrados. Se for espírita, sua [consciência][h7z] ainda mais imperiosamente lhe dirá que não pode considerar-se dispensado de cumpri-los, nem mesmo quando o seu chefe deixe de dar cumprimento aos que lhe correm, porquanto sabe muito bem não ser lícito retribuir o mal com o mal e que as faltas de uns não justificam as de outrem. Se a sua posição lhe acarreta sofrimentos, reconhecerá que sem dúvida os mereceu, porque, provavelmente, abusou outrora da autoridade que tinha, cabendo-lhe, portanto, experimentar a seu turno o que fizera sofressem os outros. Se se vê forçado a suportar essa posição, por não encontrar outra melhor, o [Espiritismo][f4r] lhe ensina a resignar-se, como constituindo isso uma prova para a sua humildade, necessária ao seu adiantamento. Sua crença lhe orienta a conduta e o induz a proceder como quereria que seus subordinados procedessem para com ele, caso fosse o chefe. Por isso mesmo, mais escrupuloso se mostra no cumprimento de suas obrigações, pois compreende que toda [negligência](https://pt.m.wiktionary.org/wiki/negligência) no trabalho que lhe está determinado redunda em prejuízo para aquele que o remunera e a quem deve ele o seu tempo e os seus esforços. Numa palavra: solicita-o o sentimento do dever, oriundo da sua fé, e a certeza de que todo afastamento do caminho reto implica uma dívida que, cedo ou tarde, terá de pagar.
 >
 > François-Nicolas-Madeleine, cardeal Morlot  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -4675,7 +4676,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 > Não imagineis, portanto, que, para viverdes em comunicação constante conosco, para viverdes sob as vistas do Senhor, seja preciso vos cilicieis e cubrais de cinzas. Não, não, ainda uma vez vos dizemos. Ditosos sede, segundo as necessidades da Humanidade; mas que jamais na vossa felicidade entre um pensamento ou um ato que o possa ofender, ou fazer se vele o semblante dos que vos amam e dirigem. [Deus][c5m] é [amor][c7p], e aqueles que amam santamente Ele os abençoa.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -4692,7 +4693,7 @@ Não menos justa aplicação encontra ela nas diferentes categorias espíritas. 
 > Dois sistemas se defrontam: o dos ascetas, que tem por base o aniquilamento do corpo, e o dos materialistas, que se baseia no rebaixamento da [alma][q3f]. Duas violências quase tão insensatas uma quanto a outra. Ao lado desses dois grandes partidos, formiga a numerosa tribo dos indiferentes que, sem convicção e sem paixão, são mornos no amar e econômicos no gozar. Onde, então, a [sabedoria][i8d]? Onde, então, a [ciência][h4t] de viver? Em parte alguma; e o grande problema ficaria sem solução, se o [Espiritismo][f4r] não viesse em auxílio dos pesquisadores, demonstrando-lhes as relações que existem entre o corpo e a [alma](https://pt.m.wikipedia.org/wiki/Alma) e dizendo-lhes que, por se acharem em dependência mútua, importa cuidar de ambos. Amai, pois, a vossa [alma][q3f], porém, cuidai igualmente do vosso corpo, instrumento daquela. Desatender as necessidades que a própria Natureza indica, é desatender a Lei de [Deus][c5m]. Não castigueis o corpo pelas faltas que o vosso livre-arbítrio o induziu a cometer e pelas quais é ele tão responsável quanto o cavalo mal dirigido, pelos acidentes que causa. Sereis, porventura, mais perfeitos se, martirizando o corpo, não vos tornardes menos egoístas, nem menos orgulhosos e mais caritativos para com o vosso próximo? Não, a perfeição não está nisso: está toda nas reformas por que fizerdes passar o vosso [Espírito][g4f]. Dobrai-o, submetei-o, humilhai-o, mortificai-o: esse o meio de o tornardes dócil à vontade de [Deus][c5m] e o único de alcançardes a perfeição.
 >  
 > Georges, [Espírito][g4f] protetor  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -4910,7 +4911,7 @@ O [Espiritismo][f4r] vem multiplicar o número dos chamados. Pela fé que facult
 > Aquele que não cultiva o campo que o trabalho de seu pai lhe granjeou, e que lhe coube em herança, o vê cobrir-se de ervas parasitas. É seu pai quem lhe tira as colheitas que ele não quis preparar? Se, à falta de cuidado, deixou fenecessem as sementes destinadas a produzir nesse campo, é a seu pai que lhe cabe acusar por nada produzirem elas? Não e não. Em vez de acusar aquele que tudo lhe preparara [Deus][c5m], de criticar as suas doações, queixe-se do verdadeiro autor de suas misérias si mesmo e, arrependido e operoso, meta, corajoso, mãos à obra; arroteie o solo ingrato com o esforço de sua vontade; lavre-o fundo com auxílio do arrependimento e da esperança; lance nele, confiante, a semente que haja separado, por boa, dentre as más; regue-o com o seu [amor][c7p] e a sua [caridade][c5q], e [Deus][c5m], o [Deus][c5m] de [amor][c7p] e de [caridade][c5q], dará àquele que já recebera. Verá ele, então, coroados de êxito os seus esforços e um grão produzir cem e outro mil. Ânimo, trabalhadores! Tomai dos vossos arados e das vossas charruas; lavrai os vossos corações; arrancai deles a cizânia; semeai a boa semente que o Senhor vos confia e o orvalho do [amor][c7p] lhe fará produzir frutos de [caridade][c5q].
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) amigo  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -4937,7 +4938,7 @@ O [Espiritismo][f4r] vem multiplicar o número dos chamados. Pela fé que facult
 > Que o Senhor de bênçãos vos abençoe; que o [Deus][c5m] de luz vos ilumine; que a árvore da [vida][r4f] vos ofereça abundantemente seus frutos! Crede e orai.
 >
 > Simeão  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -5079,7 +5080,7 @@ Os [médiuns][c8r] são os intérpretes dos Espíritos; suprem, nestes últimos,
 > Tende, pois, a fé, com o que ela contém de belo e de bom, com a sua pureza, com a sua racionalidade. Não admitais a fé sem comprovação, cega filha da cegueira. Amai a [Deus][c5m], mas sabendo porque o amais; crede nas suas promessas, mas sabendo porque acreditais nelas; segui os nossos conselhos, mas compenetrados do fim que vos apontamos e dos meios que vos trazemos para o atingirdes. Crede e esperai sem desfalecimento: os milagres são obras da fé.
 >
 > José, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -5102,7 +5103,7 @@ Os [médiuns][c8r] são os intérpretes dos Espíritos; suprem, nestes últimos,
 > Repito: a fé é humana e divina. Se todos os encarnados se achassem bem persuadidos da força que em si trazem, e se quisessem pôr a vontade a serviço dessa força, seriam capazes de realizar o a que, até hoje, eles chamaram prodígios e que, no entanto, não passa de um desenvolvimento das faculdades humanas.
 >
 > Um [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -5151,7 +5152,7 @@ Ver também: “Parábola do Festim das Bodas”, cap. XVIII, item 1
 > Bons espíritas, meus bem-amados, sois todos obreiros da última hora. Bem orgulhoso seria aquele que dissesse: Comecei o trabalho ao alvorecer do dia e só o terminarei ao anoitecer. Todos viestes quando fostes chamados, um pouco mais cedo, um pouco mais tarde, para a encarnação cujos grilhões arrastais; mas há quantos séculos e séculos o Senhor vos chamava para a sua vinha, sem que quisésseis penetrar nela! Eis-vos no momento de embolsar o salário; empregai bem a hora que vos resta e não esqueçais nunca que a vossa existência, por longa que vos pareça, mais não é do que um instante fugitivo na imensidade dos tempos que formam para vós a eternidade.
 >
 > Constantino, [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) protetor  
-> [Bordeaux](../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux](bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -5168,7 +5169,7 @@ Ver também: “Parábola do Festim das Bodas”, cap. XVIII, item 1
 > Tal um dos verdadeiros sentidos desta parábola, que encerra, como todas as de que [Jesus][q3y] se utilizou falando ao povo, o gérmen do futuro e também, sob todas as formas, sob todas as imagens, a revelação da magnífica unidade que harmoniza todas as coisas no [Universo][a2j], da solidariedade que liga todos os seres presentes ao passado e ao futuro.
 >
 > Henri Heine  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863  
 {:.spirit-multi}
 
@@ -5207,7 +5208,7 @@ Ver também: “Parábola do Festim das Bodas”, cap. XVIII, item 1
 > Resposta. – Reconhecê-los-eis pelos princípios da verdadeira [caridade][c5q] que eles ensinarão e praticarão. Reconhecê-los-eis pelo número de aflitos a que levem consolo; reconhecê-los-eis pelo seu [amor][c7p] ao próximo, pela sua abnegação, pelo seu desinteresse pessoal; reconhecê-los-eis, finalmente, pelo triunfo de seus princípios, porque [Deus][c5m] quer o triunfo de sua lei; os que seguem sua lei, esses são os escolhidos e Ele lhes dará a vitória; mas Ele destruirá aqueles que falseiam o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) dessa lei e fazem dela degrau para contentar sua vaidade e sua ambição.
 >
 > Erasto, anjo da guarda do [médium][c8r]  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1863 [^19]  
 {:.spirit-multi}
 
@@ -5224,7 +5225,7 @@ Ver também: “Parábola do Festim das Bodas”, cap. XVIII, item 1
 > [Deus][c5m] procede, neste momento, ao censo dos seus servidores fiéis e já marcou com o dedo aqueles cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos, pois aos que não recuarem diante de suas tarefas é que Ele vai confiar os postos mais difíceis na grande obra da regeneração pelo [Espiritismo][f4r]. Cumprir-se-ão estas palavras: “Os primeiros serão os últimos e os últimos serão os primeiros no Reino dos Céus.”
 >
 > O [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) da [verdade][x8k]  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -5339,7 +5340,7 @@ O [Espiritismo][f4r] revela outra categoria bem mais perigosa de falsos cristos 
 > Ide, portanto, meus filhos bem-amados, caminhai sem tergiversações, sem pensamentos ocultos, na rota bendita que tomastes. Ide, ide sempre, sem temor; afastai, cuidadosamente, tudo o que vos possa entravar a marcha para o objetivo eterno. Viajores, só por pouco tempo mais estareis nas trevas e nas dores da provação, se abrirdes o vosso coração a essa suave doutrina que vos vem revelar as leis eternas e satisfazer a todas as aspirações de vossa [alma](https://pt.m.wikipedia.org/wiki/Alma) acerca do desconhecido. Já podeis dar corpo a esses silfos ligeiros que vedes passar nos vossos sonhos e que, efêmeros, apenas vos encantavam o espírito, sem coisa alguma dizerem ao vosso coração. Agora, meus amados, a [morte][q4x] desapareceu, dando lugar ao anjo radioso que conheceis, o anjo do novo encontro e da reunião! Agora, vós que bem desempenhado haveis a tarefa que o Criador confia às suas criaturas, nada mais tendes de temer da sua justiça, pois Ele é pai e perdoa sempre aos filhos transviados que clamam por misericórdia. Continuai, portanto, avançai incessantemente. Seja vossa divisa a do progresso, do progresso contínuo em todas as coisas, até que, finalmente, chegueis ao termo feliz da jornada, onde vos esperam todos os que vos precederam.
 >
 > Luís  
-> [Bordeaux]((../content/maps/bordeaux.html) <span class="emoji">🇫🇷</span>  
+> [Bordeaux]((bordeaux, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1861  
 {:.spirit-multi}
 
@@ -5364,7 +5365,7 @@ O [Espiritismo][f4r] revela outra categoria bem mais perigosa de falsos cristos 
 > Desconfiai, pois, dos falsos profetas, máxime numa época de renovação, qual a presente, porque muitos impostores se dirão enviados de [Deus][c5m]. Eles procuram satisfazer na [Terra][g5i] à sua vaidade; mas uma terrível justiça os espera, podeis estar certos.
 >
 > Erasto  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 
@@ -5395,7 +5396,7 @@ O [Espiritismo][f4r] revela outra categoria bem mais perigosa de falsos cristos 
 > É incontestável que, submetendo ao crivo da [razão][f8m] e da lógica todos os dados e todas as comunicações dos Espíritos, fácil se torna rejeitar a absurdidade e o erro. Pode um [médium][c8r] ser fascinado, e iludido um grupo; mas a verificação severa a que procedam os outros grupos, a [ciência][h4t] adquirida, a alta autoridade [moral][h4c] dos diretores de grupos, as comunicações que os principais [médiuns][c8r] recebam, com um cunho de lógica e de autenticidade dos melhores Espíritos, justiçarão rapidamente esses ditados mentirosos e astuciosos, emanados de uma turba de Espíritos mistificadores ou maus.
 >
 > Erasto, discípulo de Paulo  
-> [Paris](../content/maps/paris.html) <span class="emoji">🇫🇷</span>  
+> [Paris](paris, fr){:.m} <span class="emoji">🇫🇷</span>  
 > 1862  
 {:.spirit-multi}
 

@@ -222,10 +222,6 @@ body {
   width: var(--column-width-desktop)
 }
 
-#col3-link3-a {
-  display: none;
-}
-
 a#col3-link1-a,
 a#col3-link2-a,
 a#col3-link3-a,
