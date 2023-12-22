@@ -1,7 +1,7 @@
 ---
 title: ⚖️ Avisos legais
 layout: 0-generic
-version: 23.12.21
+version: 23.12.22
 ---
 
 # ⚖️ Avisos legais

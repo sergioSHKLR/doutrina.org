@@ -1,7 +1,7 @@
 ---
 title: 🕊️ O Evangelho
 layout: 3-ese
-version: 23.12.21
+version: 23.12.22
 ---
 
 *[LDE]: O Livro dos Espíritos
