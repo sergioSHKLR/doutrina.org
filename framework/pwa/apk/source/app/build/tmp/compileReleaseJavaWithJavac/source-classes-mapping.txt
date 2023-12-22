@@ -1,8 +1,0 @@
-org/doutrina/twa/DelegationService.java
- org.doutrina.twa.DelegationService
-org/doutrina/twa/LauncherActivity.java
- org.doutrina.twa.LauncherActivity
-org/doutrina/twa/BuildConfig.java
- org.doutrina.twa.BuildConfig
-org/doutrina/twa/Application.java
- org.doutrina.twa.Application
