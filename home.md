@@ -42,8 +42,7 @@ Embora baseadas em obras impressas, nossas versões foram modificadas para:
 
 Para efeito de corroboração, apresentamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do LDE.
 
-> 👻 Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma …  
-{:spirit}
+<blockquote class="spirit" style="font-family: 'Georgia', serif; padding: 10px 20px">👻 Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma …</blockquote>
 
 ## Contato
 
@@ -73,6 +72,6 @@ Sergio
 
 <script type="application/json" class="js-hypothesis-config">
 {
-"openSidebar": true
+"openSidebar": false
 }
 </script>

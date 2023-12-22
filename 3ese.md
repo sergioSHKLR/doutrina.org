@@ -689,7 +689,7 @@ A [Ciência][h4t] e a Religião não puderam, até hoje, entender-se, porque, en
 
 > 👻 ▸ Um dia, [Deus][c5m], em sua inesgotável [caridade][c5q], permitiu que o homem visse a [verdade][x8k] varar as trevas. Esse dia foi o do advento do [Cristo][g0s]. Depois da luz viva, voltaram as trevas. Após alternativas de [verdade][x8k] e obscuridade, o mundo novamente se perdia. Então, semelhantemente aos profetas do Antigo Testamento, os Espíritos se puseram a falar e a vos advertir. O mundo está abalado em seus fundamentos; reboará o trovão. Sede firmes!
 >
-> O [Espiritismo][f4r] é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a [Ciência][h4t], desenvolvida à custa do que é de ordem [moral][h4c], mas conduzindo-vos ao bem-estar material, redundava em proveito do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) das trevas. Como sabeis, cristãos, o coração e o [amor][c7p] têm de caminhar unidos à [Ciência][h4t]. O reino do [Cristo][g0s], ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o [amor][c7p] o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas [🎬](./content/videos/virgens.html){:target="ext"}, que foram apanhadas desprevenidas à chegada do esposo.
+> O [Espiritismo][f4r] é de ordem divina, pois que se assenta nas próprias Leis da Natureza, e estai certos de que tudo o que é de ordem divina tem grande e útil objetivo. O vosso mundo se perdia; a [Ciência][h4t], desenvolvida à custa do que é de ordem [moral][h4c], mas conduzindo-vos ao bem-estar material, redundava em proveito do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) das trevas. Como sabeis, cristãos, o coração e o [amor][c7p] têm de caminhar unidos à [Ciência][h4t]. O reino do [Cristo][g0s], ah! passados que são dezoito séculos e apesar do sangue de tantos mártires, ainda não veio. Cristãos, voltai para o Mestre, que vos quer salvar. Tudo é fácil àquele que crê e ama; o [amor][c7p] o enche de inefável alegria. Sim, meus filhos, o mundo está abalado; os bons Espíritos vo-lo dizem sobejamente; dobrai-vos à rajada que anuncia a tempestade, a fim de não serdes derribados, isto é, preparai-vos e não imiteis as virgens loucas [🎬](aCoffKDwx5U?&rel=0){:.v}, que foram apanhadas desprevenidas à chegada do esposo.
 >
 > A revolução que se apresta é antes [moral][h4c] do que material. Os grandes Espíritos, mensageiros divinos, sopram a fé, para que todos vós, obreiros esclarecidos e ardorosos, façais ouvir a vossa voz humilde, porquanto sois o grão de areia; mas sem grãos de areia não existiriam as montanhas. Assim, pois, que estas palavras — “Somos pequenos” — careçam para vós de significação. A cada um a sua missão, a cada um o seu trabalho. Não constrói a formiga o edifício de sua república e imperceptíveis animálculos não elevam continentes? Começou a nova cruzada. Apóstolos da paz universal, que não de uma guerra, modernos São Bernardos, olhai e marchai para frente; a lei dos mundos é a do progresso.
 >
@@ -1066,7 +1066,7 @@ Ora, assim como, numa cidade, a população não se encontra toda nos hospitais 
 
 > ✝️ ▸ E, chegando [Jesus][q3y] às partes de [Cesareia](https://pt.m.wikipedia.org/wiki/Cesareia_(Israel)) de [Filipe](https://pt.m.wikipedia.org/wiki/Filipe,_o_Evangelista), interrogou os seus [discípulos](https://pt.m.wiktionary.org/wiki/discípulo), dizendo: *Quem dizem os homens ser o [Filho do Homem](https://pt.m.wikipedia.org/wiki/Filho_do_Homem)?* E eles disseram: Uns, [João Batista](https://pt.m.wikipedia.org/wiki/João_Batista); outros, [Elias](https://pt.m.wikipedia.org/wiki/Elias), e outros, [Jeremias](https://pt.m.wikipedia.org/wiki/Jeremias) ou um dos [profetas](https://pt.m.wikipedia.org/wiki/Profeta). Disse-lhes ele: *E vós, quem dizeis que eu sou?* E [Simão Pedro](https://pt.m.wikipedia.org/wiki/Pedro_(apóstolo)), respondendo, disse: Tu és o [Cristo](https://pt.m.wikipedia.org/wiki/Cristo), o Filho do [Deus](0) vivo. E [Jesus][q3y], respondendo, disse-lhe: *Bem-aventurado és tu, Simão Barjonas, porque não foi carne e sangue quem to revelou, mas meu Pai, que está nos [céus](https://pt.m.wikipedia.org/wiki/Céu_(religião)).*
 >
-> [🎬](./content/videos/filho.html){:target="ext"}
+> [🎬](e1x0ZfrHZYw?&rel=0){:.v}
 > [Mateus][Mt], [cap. 16][Mt16], [vers. 13 a 17](https://www.bible.com/pt/bible/212/MAT.16.ARC); [Marcos][Mc], [cap. 08](https://pt.m.wikipedia.org/wiki/Marcos_8), [vers. 27 a 30](https://www.bible.com/pt/bible/212/MRK.8.ARC), [ARC][ARC]  
 {:.bible-multi}
 
@@ -1112,7 +1112,7 @@ A [reencarnação](https://pt.m.wikipedia.org/wiki/Reencarnação) fazia parte d
 
 > ✝️ ▸ E havia entre os [fariseus](https://pt.m.wikipedia.org/wiki/Fariseus) um homem chamado [Nicodemos](https://pt.m.wikipedia.org/wiki/Nicodemos), príncipe dos judeus. Este foi ter de noite com [Jesus][q3y] e disse-lhe: [Rabi](https://pt.m.wiktionary.org/wiki/rabi), bem sabemos que és mestre vindo de [Deus](https://pt.m.wikipedia.org/wiki/Deus), porque ninguém pode fazer estes sinais que tu fazes, se [Deus][c5m] não for com ele. [Jesus][q3y] respondeu e disse-lhe: Na [verdade][x8k], na [verdade][x8k] te digo que aquele que não nascer de novo não pode ver o [Reino de [Deus][c5m]](https://pt.m.wikipedia.org/wiki/Reino_de_Deus). Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Porventura, pode tornar a entrar no ventre de sua mãe e nascer? [Jesus][q3y] respondeu: Na [verdade][x8k], na [verdade][x8k] te digo que aquele que não nascer da [água](https://pt.m.wikipedia.org/wiki/Água#Significados_religiosos) e do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) não pode entrar no Reino de [Deus][c5m]. O que é nascido da carne é carne, e o que é nascido do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) é espírito. Não te maravilhes de te ter dito: Necessário vos é nascer de novo. O vento assopra onde quer, e ouves a sua voz, mas não sabes donde vem, nem para onde vai; assim é todo aquele que é nascido do [Espírito][g4f]. Nicodemos respondeu e disse-lhe: Como pode ser isso? [Jesus][q3y] respondeu e disse-lhe: Tu és mestre de [Israel](https://pt.m.wikipedia.org/wiki/Israel) e não sabes isso? Na [verdade][x8k], na [verdade][x8k] te digo que nós dizemos o que sabemos e testificamos o que vimos, e não aceitais o nosso [testemunho](https://pt.m.wiktionary.org/wiki/testemunho). Se vos falei de coisas terrestres, e não crestes, como crereis, se vos falar das celestiais? 
 > 
-> [🎬](./content/videos/renascer.html){:target="ext"}
+> [🎬](-2Lxvg16oJg?&rel=0start=42&end=180){:.v}
 > [João](https://pt.m.wikipedia.org/wiki/João,_o_Evangelista), [cap. 03](https://pt.m.wikipedia.org/wiki/João_3), [vers. 01 a 12](https://www.bible.com/pt/bible/212/JHN.3.ARC), [ARC][ARC]
 {:.bible-multi}
 
@@ -2288,7 +2288,7 @@ Perguntar-se-á: não poderia [Deus][c5m] tocá-los pessoalmente, por meio de ma
 > ✝️ ▸ Apresentaram-lhe então algumas crianças, a fim de que Ele as tocasse, e, como seus discípulos afastassem com palavras ásperas os que lhas apresentavam, [Jesus][q3y], vendo isso, zangou-se e lhes disse:
 — *Deixai que venham a mim as criancinhas e não as impeçais, porquanto o Reino dos Céus é para os que se lhes assemelham. Digo-vos, em [verdade][x8k], que aquele que não receber o [Reino de [Deus][c5m]](https://pt.m.wikipedia.org/wiki/Reino_de_Deus) como uma criança, nele não entrará.*E, depois de as abraçar, abençoou-as, impondo-lhes as mãos.
 >
-> [🎬](./content/videos/pequeninos.html){:target="ext"}
+> [🎬](aBS_iQuAyis?&rel=0){:.v}
 > Marcos, cap. 10, vers. 13 a 16, [ARC][ARC]
 {:.bible-multi}
 
@@ -2431,7 +2431,7 @@ Não basta se tenham as aparências da pureza; acima de tudo, é preciso ter a d
 >
 >Se a vossa mão ou o vosso pé vos é objeto de escândalo, cortai-os e lançai-os longe de vós; melhor será para vós que entreis na [vida][r4f] tendo um só pé ou uma só mão, do que terdes dois e serdes lançados no fogo eterno. Se o vosso olho vos é objeto de escândalo, arrancai-o e lançai-o longe de vós; melhor para vós será que entreis na [vida][r4f] tendo um só olho, do que terdes dois e serdes precipitados no fogo do inferno.
 >
-> [🎬](./content/videos/escandalo.html){:target="ext"}
+> [🎬](aBS_iQuAyis?&rel=0){:.v}
 > [Mateus][Mt], 05:29 e 30; 18:6 a 11
 {:.bible-multi}
 
@@ -2763,7 +2763,7 @@ Por aquelas palavras quis dizer que até agora os bens da [Terra][g5i] são aça
 
 > ✝️ ▸ *Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão. Então, Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? [Jesus][q3y] lhe disse: Não te digo que até sete, mas até setenta vezes sete.*
 >
-> [🎬](./content/videos/setenta.html)
+> [🎬](dU_68Us-_zk?&rel=0&end=37){:.v}
 > [Mateus][Mt], [cap. 18][Mt18], vers. 15, 21-22, [ARC][ARC]
 {:.bible-multi}
 
@@ -2869,7 +2869,7 @@ Uma das insensatezes da Humanidade consiste em vermos o mal de outrem, antes de 
 >
 > E, endireitando-se [Jesus][q3y] e não vendo ninguém mais do que a mulher, disse-lhe: *Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?*E ela disse: Ninguém, Senhor. E disse-lhe [Jesus][q3y]: *Nem eu também te condeno; vai-te e não peques mais.*
 >
-> [🎬](./content/videos/peque.html){:target="ext"}
+> [🎬](htnHQYGrMMU?&rel=0){:.v}
 > João, cap. 8, vers. 3-11, [ARC][ARC]
 {:.bible-multi}
 
@@ -3107,7 +3107,7 @@ Não é possível que [Jesus][q3y] haja proibido se profligue o mal, uma vez que
 >
 > E eles, ouvindo isso, maravilharam-se e, deixando-o, se retiraram.
 >
-> [🎬](./content/videos/cesar.html){:target="ext"}
+> [🎬](ZhtmZzTKPa8?&rel=0){:.v}
 > [Mateus][Mt], [cap. 18][Mt18], vers. 23-35 & Marcos, cap. 12, vers. 13-17, [ARC][ARC]
 {:.bible-multi}
 
@@ -3562,7 +3562,7 @@ O [Espiritismo][f4r] apagará esses últimos vestígios da barbárie, incutindo 
 
 > ✝️ ▸ E, descendo ele do monte, seguiu-o uma grande multidão. E eis que veio um leproso [^14] e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo. E [Jesus][q3y], estendendo a mão, tocou-o, dizendo: *Quero; sê limpo.*E logo ficou purificado da lepra. Disse-lhe, então, [Jesus][q3y]: *Olha, não o digas a alguém, mas vai, mostra-te ao sacerdote e apresenta a oferta que Moisés determinou, para lhes servir de [testemunho](https://pt.m.wiktionary.org/wiki/testemunho).*
 >
-> [🎬](./content/videos/leproso.html){:target="ext"}
+> [🎬](JDr8pFj_7dQ?&rel=0){:.v}
 > [Mateus][Mt], cap. 8, vers. 1-4, [ARC][ARC]
 {:.bible-multi}
 
@@ -3604,7 +3604,7 @@ Em casa, é a mulher do mundo, porque a sua posição o exige. Ignoram, porém, 
 
 > ✝️ ▸ E, estando [Jesus][q3y] assentado defronte da arca do tesouro, observava a maneira como a multidão lançava o dinheiro na arca do tesouro; e muitos ricos depositavam muito. Vindo, porém, uma pobre viúva, depositou duas pequenas moedas, que valiam cinco réis. E, chamando os seus discípulos, disse-lhes: *Em [verdade][x8k] vos digo que esta pobre viúva depositou mais do que todos os que depositaram na arca do tesouro; porque todos ali depositaram do que lhes sobejava, mas esta, da sua pobreza, depositou tudo o que tinha, todo o seu sustento.*
 >
-> [🎬](./content/videos/viuva.html){:target="ext"}
+> [🎬](8DvBpqRVdg4?&rel=0){:.v}
 > [Mateus][Mt], [cap. 05][Mt05], vers. 38-42 & Lucas, cap. 21, vers. 1-4, [ARC][ARC]
 {:.bible-multi}
 
@@ -4070,7 +4070,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 >
 > *Então, eles também lhe responderão, dizendo: Senhor, quando te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou enfermo, ou na prisão e não te servimos? Então, lhes responderá, dizendo: Em [verdade][x8k] vos digo que, quando a um destes pequeninos o não fizestes, não o fizestes a mim. E irão estes para o tormento eterno, mas os justos, para a [vida][r4f] eterna.*
 >
-> [🎬](./content/videos/fizeste.html){:target="ext"}
+> [🎬](711Zul16HLY?&rel=0){:.v}
 > [Mateus][Mt], [cap. 25][Mt25]; vers. 31-46, [ARC][ARC]
 {:.bible-multi}
 
@@ -4090,7 +4090,7 @@ A hostilidade que lhe moviam seus irmãos se acha claramente expressa em a narra
 >
 > Disse, pois, [Jesus][q3y]: *Vai e faze da mesma maneira.*
 >
-> [🎬](./content/videos/samaritano.html){:target="ext"}
+> [🎬](CcFknJoSjXE?&rel=0){:.v}
 > Lucas, cap. 10; vers. 25-37, [ARC][ARC]
 {:.bible-multi}
 
@@ -4140,7 +4140,7 @@ Caridade e humildade, tal a senda única da salvação. Egoísmo e orgulho, tal 
 >
 > Agora, pois, permanecem a fé, a esperança e o [amor][c7p], estes três; mas o maior destes é o [amor][c7p].
 >
-> [🎬](./content/videos/amor.html){:target="ext"}
+> [🎬](mSl0n_Tj39k?&rel=0){:.v}
 > 1Coríntios, cap. 13; vers. 1-7, 13, [ARC][ARC]
 {:.bible-multi}
 
@@ -4220,7 +4220,7 @@ Fora da [verdade][x8k] não há salvação equivaleria ao Fora da Igreja não h�
 
 > ✝️ ▸ E eis que, aproximando-se dele um jovem, disse-lhe: Bom Mestre, que bem farei, para conseguir a [vida][r4f] eterna? E ele disse-lhe: *Por que me chamas bom? Não há bom, senão um só que é [Deus][c5m]. Se queres, porém, entrar na [vida][r4f], guarda os mandamentos.*Disse-lhe ele: Quais? E [Jesus][q3y] disse: *Não matarás, não cometerás adultério, não furtarás, não dirás falso [testemunho](https://pt.m.wiktionary.org/wiki/testemunho); honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo.*Disse-lhe o jovem: Tudo isso tenho guardado desde a minha mocidade; que me falta ainda? Disse-lhe [Jesus][q3y]: *Se queres ser perfeito, vai, vende tudo o que tens, dá-o aos pobres e terás um tesouro no céu; e vem e segue-me.*E o jovem, ouvindo essa palavra, retirou-se triste, porque possuía muitas propriedades. Disse, então, [Jesus][q3y] aos seus discípulos: *Em [verdade][x8k] vos digo que é difícil entrar um rico no Reino dos céus. E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus][c5m].*[^15]
 >
-> [🎬](./content/videos/jovem-rico.html){:target="ext"}
+> [🎬](1ZRDcE39IYA?&rel=0){:.v}
 > Mateus cap. 19, vers. 16-24 & Lucas, cap. 18, vers. 18-25 & Marcos, cap. 10, vers. 17-25, [ARC][ARC]
 {:.bible-multi}
 
@@ -4288,7 +4288,7 @@ Fora da [verdade][x8k] não há salvação equivaleria ao Fora da Igreja não h�
 
 > ✝️ ▸ *Porque isto é também como um homem que, partindo para fora da [Terra][g5i], chamou os seus servos, e entregou-lhes os seus bens, e a um deu cinco talentos, e a outro, dois, e a outro, um, a cada um segundo a sua capacidade, e ausentou-se logo para longe. E, tendo ele partido, o que recebera cinco talentos negociou com eles e granjeou outros cinco talentos. Da mesma sorte, o que recebera dois granjeou também outros dois. Mas o que recebera um foi, e cavou na [Terra][g5i], e escondeu o dinheiro do seu senhor. E, muito tempo depois, veio o senhor daqueles servos e ajustou contas com eles. Então, aproximou-se o que recebera cinco talentos e trouxe-lhe outros cinco talentos, dizendo: Senhor, entregaste-me cinco talentos; eis aqui outros cinco talentos que ganhei com eles. E o seu senhor lhe disse: Bem está, servo bom e fiel. Sobre o pouco foste fiel, sobre muito te colocarei; entra no gozo do teu senhor. E, chegando também o que tinha recebido dois talentos, disse: Senhor, entregaste-me dois talentos; eis que com eles ganhei outros dois talentos. Disse-lhe o seu senhor: Bem está, bom e fiel servo. Sobre o pouco foste fiel, sobre muito te colocarei; entra no gozo do teu senhor. Mas, chegando também o que recebera um talento disse: Senhor, eu conhecia-te, que és um homem duro, que ceifas onde não semeaste e ajuntas onde não espalhaste; e, atemorizado, escondi na [Terra][g5i] o teu talento; aqui tens o que é teu. Respondendo, porém, o seu senhor, disse-lhe: Mau e negligente servo; sabes que ceifo onde não semeei e ajunto onde não espalhei; devias, então, ter dado o meu dinheiro aos banqueiros, e, quando eu viesse, receberia o que é meu com os juros. Tirai-lhe, pois, o talento e dai-o ao que tem os dez talentos. Porque a qualquer que tiver será dado, e terá em abundância; mas ao que não tiver, até o que tem ser-lhe-á tirado. Lançai, pois, o servo inútil nas trevas exteriores; ali, haverá pranto e ranger de dentes.*
 >
-> [🎬](./content/videos/talentos.html){:target="ext"}
+> [🎬](G2TBfz6R5P4?&rel=0){:.v}
 > [Mateus][Mt], [cap. 25][Mt25], vers. 14-30, [ARC][ARC]
 {:.bible-multi}
 
@@ -4562,13 +4562,12 @@ Aquele que pode ser, com [razão][f8m], qualificado de espírita verdadeiro e si
 
 > ✝️ ▸ Tendo [Jesus][q3y] saído de casa naquele dia, estava assentado junto ao mar. E ajuntou-se muita gente ao pé dele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia. E falou-lhe de muitas coisas por parábolas, dizendo: *Eis que o semeador saiu a semear. E, quando semeava, uma parte da semente caiu ao pé do caminho, e vieram as aves e comeram-na; e outra parte caiu em pedregais, onde não havia [Terra][g5i] bastante, e logo nasceu, porque não tinha [Terra][g5i] funda. Mas, vindo o sol, queimou-se e secou-se, porque não tinha raiz. E outra caiu entre espinhos, e os espinhos cresceram e sufocaram-na. E outra caiu em boa [Terra][g5i] e deu fruto: um, a cem, outro, a sessenta, e outro, a trinta. Quem tem ouvidos para ouvir, que ouça.*
 >
-> [🎬](./content/videos/semeador.html){:target="ext"}
+> [🎬](lj58vmJsTWc?&rel=0&start=55&end=118){:.v}
 > Mateus cap. 13, vers. 1-9, [ARC][ARC]
 {:.bible-multi}
 
 > ✝️ ▸ *Escutai vós, pois, a parábola do semeador. Ouvindo alguém a palavra do Reino e não a entendendo, vem o maligno e arrebata o que foi semeado no seu coração; este é o que foi semeado ao pé do caminho; porém o que foi semeado em pedregais é o que ouve a palavra e logo a recebe com alegria; mas não tem raiz em si mesmo; antes, é de pouca duração; e, chegada a angústia e a perseguição por causa da palavra, logo se ofende; e o que foi semeado entre espinhos é o que ouve a palavra, mas os cuidados deste mundo e a sedução das riquezas sufocam a palavra, e fica infrutífera; mas o que foi semeado em boa [Terra][g5i] é o que ouve e compreende a palavra; e dá fruto, e um produz cem, outro, sessenta, e outro, trinta.*
 >
-> [🎬](./content/videos/semeador.html){:target="ext"}
 > Mateus cap. 13, vers. 18-23, [ARC][ARC]
 {:.bible-multi}
 
@@ -4882,7 +4881,7 @@ O [Espiritismo][f4r] vem multiplicar o número dos chamados. Pela fé que facult
 
 > ✝️ ▸ E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? Ele, respondendo, disse-lhes: *Porque a vós é dado conhecer os mistérios do Reino dos céus, mas a eles não lhes é dado; porque àquele que tem se dará, e terá em abundância; mas aquele que não tem, até aquilo que tem lhe será tirado. Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem. E neles se cumpre a profecia de Isaías, que diz: Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
-> [🎬](./content/videos/parabolas.html){:target="ext"}
+> [🎬](lj58vmJsTWc?&rel=0){:.v}
 > [Mateus][Mt], [cap. 13][Mt13], vers. 10-14, [ARC][ARC]
 {:.bible-multi}
 
@@ -5126,7 +5125,7 @@ Os [médiuns][c8r] são os intérpretes dos Espíritos; suprem, nestes últimos,
 >
 > *Mas ele, respondendo, disse a um deles: Amigo, não te faço injustiça; não ajustaste tu comigo um dinheiro? Toma o que é teu e retira-te; eu quero dar a este derradeiro tanto como a ti. Ou não me é lícito fazer o que quiser do que é meu? Ou é mau o teu olho porque eu sou bom? Assim, os derradeiros serão primeiros, e os primeiros, derradeiros, porque muitos são chamados, mas poucos, escolhidos.*
 >  
-> [🎬](./content/videos/vinha.html){:target="ext"}  
+> [🎬](bNm6Tt-_YF4?&rel=0){:.v}  
 > [Mateus][Mt], [cap. 20][Mt20], vers. 1-16, [ARC][ARC]  
 {:.bible-multi}
 
@@ -6018,7 +6017,7 @@ Tal o sentido das palavras: buscai e achareis; batei e abrir-se-vos-á.
 >
 > *Mas buscai primeiro o Reino de [Deus][c5m], e a sua justiça, e todas essas coisas vos serão acrescentadas. Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal.*
 >
-> [🎬](./content/videos/reino.html){:target="ext"}
+> [🎬](hBLrSip1cd4?&rel=0){:.v}
 > [Mateus][Mt], [cap. 06][Mt06], vers. 19-21, 25-34, [ARC][ARC]
 {:.bible-multi}
 

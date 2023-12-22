@@ -112,7 +112,7 @@ body {
   scrollbar-width: none;
   top: var(--head-height);
   width: var(--sidebar-width);
-  z-index: 1
+  z-index: 1;
 }
 
 #col2-head {
@@ -189,6 +189,8 @@ body {
 }
 
 #col1-body .sidebar-heading {
+  position: relative;
+  top: 6px;
   text-indent: 0 !important
 }
 
@@ -506,7 +508,8 @@ summary {
 
 details:active,
 summary:active {
-  outline: none
+  outline: none;
+  background-color: none;
 }
 
 details[open] summary::before {
@@ -994,7 +997,7 @@ a.backlink {
 
 a:active,
 a:focus {
-  background-color: transparent;
+  background-color: none;
   outline: none
 }
 
