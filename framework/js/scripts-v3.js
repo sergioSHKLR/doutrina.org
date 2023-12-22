@@ -527,6 +527,18 @@ for (u = 0, le = links.length; u < le; u++) {
 
 // STRING REPLACE 5 END
 
+// STRING REPLACE 6 START
+
+var links, b, le;
+links = document.getElementsByClassName('b');
+for (b = 0, le = links.length; b < le; b++) {
+    links[b].href = "https://www.bible.com/pt/bible/212/" + (links[b].pathname);
+}
+
+// STRING REPLACE 6 END
+
+https://www.bible.com/pt/bible/212/
+
 // EXT LINKS START
 
 window.onload = function() {

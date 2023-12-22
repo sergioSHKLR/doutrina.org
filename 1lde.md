@@ -152,7 +152,7 @@ Sem atenderem a que o movimento podia ser impresso a um objeto qualquer, a ideia
 
 Alguns, entretanto, muito modestos para convirem em que bem poderia dar-se não lhes ter ainda a [Natureza](Natureza_Humana){:.w} dito a última palavra, quiseram ver, para tranquilidade de suas consciências. Mas aconteceu que o fenômeno nem sempre lhes correspondeu à expectativa e, do fato de não se haver produzido constantemente conforme a [vontade](Vontade){:.w} deles e segundo a maneira de se comportarem na experimentação, concluíram pela negativa. [Malgrado](malgrado){:.d}, porém, o que decretaram, as mesas — pois que há mesas — continuam a girar e podemos dizer com [Galileu](Galileu_Galilei){:.w}: **todavia, elas se movem!** Acrescentaremos que os fatos se multiplicaram de tal modo que hoje são aceitos sem contestação, não mais se [cogitando](cogitar){:.d} senão de lhes achar uma explicação racional.
 
-Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstância de ele não se produzir de modo sempre idêntico, conforme a [vontade](Vontade){:.w} e as exigências do observador? Os [fenônemo](fenómeno){:.d} de [eletricidade](Eletricidade){:.w} e de [química](Química){:.w} não estão subordinados a certas condições? Será [lícito](lícito){:.d} negá-los, porque não se produzem fora dessas condições? Que há, pois, de surpreendente em que o [fenômeno][g3m] do movimento dos objetos pelo fluido humano também se ache sujeito a determinadas condições e deixe de se produzir quando o observador, colocando-se no seu ponto de vista, pretende fazê-lo seguir a marcha que caprichosamente lhe imponha, ou queira sujeitá-lo às leis dos [fenônemo](fenómeno){:.d} conhecidos, sem considerar que para fatos novos pode e deve haver novas leis? Ora, para se conhecerem essas leis, preciso é que se estudem as circunstâncias em que os fatos se produzem e esse estudo não pode deixar de ser fruto de observação perseverante, atenta e às vezes muito longa.
+Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstância de ele não se produzir de modo sempre idêntico, conforme a [vontade](Vontade){:.w} e as exigências do observador? Os [fenônemos](fenómeno){:.d} de [eletricidade](Eletricidade){:.w} e de [química](Química){:.w} não estão subordinados a certas condições? Será [lícito](lícito){:.d} negá-los, porque não se produzem fora dessas condições? Que há, pois, de surpreendente em que o [fenômeno][g3m] do movimento dos objetos pelo fluido humano também se ache sujeito a determinadas condições e deixe de se produzir quando o observador, colocando-se no seu ponto de vista, pretende fazê-lo seguir a marcha que caprichosamente lhe imponha, ou queira sujeitá-lo às leis dos [fenônemo](fenómeno){:.d} conhecidos, sem considerar que para fatos novos pode e deve haver novas leis? Ora, para se conhecerem essas leis, preciso é que se estudem as circunstâncias em que os fatos se produzem e esse estudo não pode deixar de ser fruto de observação perseverante, atenta e às vezes muito longa.
 
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro [escamoteador](escamoteado){:.d} um sábio professor de [Física](Física){:.w} a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso [razão](Razão){:.w} para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero [gracejo](gracejo){:.d}? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão [fastidioso](fastidioso){:.d} para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais [austeras](austero){:.d}, [veneráveis](veneração){:.d} e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
@@ -348,7 +348,7 @@ Perguntam eles: os [Espíritos](Espírito){:.w} de escol descem até nós? Respo
 
 > ✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 13](Mateus_13){:.w}, [vers. 14](https://www.bible.com/pt/bible/212/MAT.13.ARC), [ARC][ARC]
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 13](Mateus_13){:.w}, [vers. 14](MAT.13.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo [Proteu](Proteu){:.d} que revestiria todas as formas, para melhor nos enganar. Não a julgamos [suscetível](suscetível){:.d} de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está [refutada](refutar){:.d} pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o [diabo](Diabo){:.w} é às vezes bastante [criterioso](critério){:.d} e [ponderado](ponderar){:.d}, sobretudo, muito [moral](Moral){:.w}; ou, então, em que há bons diabos.
@@ -367,7 +367,7 @@ Acham também singular que os [Espíritos](Espírito){:.w} dos homens [eminentes
 
 > ✝️ ▸ *E o que a si mesmo se [exaltar](exaltar){:.d} será humilhado; e o que a si mesmo se humilhar será exaltado.* 
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC), [ARC][ARC] 
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC] 
 {:.bible-multi}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na [Terra](Terra){:.w} pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso [monarca](monarca){:.d} pode achar-se lá muito abaixo do último dos seus soldados.
@@ -2172,7 +2172,7 @@ A primeira condição de toda [doutrina](doutrina){:.d} é ser lógica. Ora, à 
 
 > ✝️ ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 24](Mateus_24){:.w}, [vers. 29 e 34](https://www.bible.com/pt/bible/212/MAT.24.ARC), [ARC][ARC]
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 24](Mateus_24){:.w}, [vers. 29 e 34](MAT.24.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 Não temos visto a [Ciência](Ciência){:.w} contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o [Cristo](Cristo){:.w}, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
@@ -3645,7 +3645,7 @@ Haverá alguma [doutrina](doutrina){:.d} capaz de resolver esses problemas? Admi
 
 > ✝️ ▸ E, descendo eles do monte, [Jesus](Jesus){:.w} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus](Jesus){:.w}, respondendo, disse-lhes: *Em [verdade](Verdade){:.w} Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 17](Mateus_17){:.w}, [vers. 09 a 13](https://www.bible.com/pt/bible/212/MAT.17.ARC), [ARC][ARC]
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 17](Mateus_17){:.w}, [vers. 09 a 13](MAT.17.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 Pois que João Batista fora Elias, houve reencarnação do [Espírito](Espírito){:.w} ou da [alma](Alma){:.l} de Elias no corpo de João Batista.  
@@ -4437,7 +4437,7 @@ Como devemos entender essa elevação e esse rebaixamento?
 
 > 👻 ▸ Não sabes que os [Espíritos](Espírito){:.w} são de diferentes ordens, conforme seus méritos? Pois bem! O maior da [Terra](Terra){:.w} pode pertencer à última categoria entre os [Espíritos](Espírito){:.w}, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse [Jesus](Jesus){:.w}: 
 >  
-> ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](https://www.bible.com/pt/bible/212/MAT.23.ARC), [ARC][ARC]
+> ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC]
 
 ###### Q.276 {#q276}
 
@@ -6847,7 +6847,7 @@ Por que meio podemos neutralizar a influência dos maus [Espíritos](Espírito){
 
 > 👻 ▸ Praticando o bem e pondo em [Deus](Deus){:.l} toda a vossa confiança, repelireis a influência dos [Espíritos](Espírito){:.w} inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos [Espíritos](Espírito){:.w} que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a [razão](Razão){:.w} por que [Jesus](Jesus){:.w}, na oração dominical, vos ensinou a dizer:
 >  
-> ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC]
+> ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 
 ###### Q.470 {#q470}
 
@@ -9002,7 +9002,7 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 
 > 👻 ▸ [Jesus](Jesus){:.w} disse:
 >  
-> ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 12](https://www.bible.com/pt/bible/212/MAT.7.ARC), [ARC][ARC]
+> ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 12](MAT.7.ARC){:.b}, [ARC][ARC]
 
 ###### Q.633 {#q633}
 
@@ -9391,7 +9391,7 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 
 > 👻 ▸ Aos homens disse o [Cristo](Cristo){:.w}:
 >  
-> ✝️ ▸ *Amarás o teu próximo como a ti mesmo.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](https://www.bible.com/pt/bible/212/MAT.22.ARC), [ARC][ARC]
+> ✝️ ▸ *Amarás o teu próximo como a ti mesmo.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o [Criador](Deus){:.l}, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do [Espírito](Espírito){:.w}, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma [alma](Alma){:.l} simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa [alma](Alma){:.l} lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o [amor](Amor){:.w} que o [Cristo](Cristo){:.w} recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de [amor](Amor){:.w} e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do [Espírito](Espírito){:.w}. [^16]
 
@@ -10623,11 +10623,11 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 
 ###### Q.764 {#q764}
 
-Disse [Jesus](Jesus){:.w}: ✝️ ▸ *todos os que lançarem mão da espada à espada morrerão.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 26](Mateus_26){:.w}, [vers. 51-52](https://www.bible.com/pt/bible/212/MAT.26.ARC), [ARC][ARC] Estas palavras não consagram a pena de talião e, assim, a [morte](Morte){:.w} dada ao assassino não constitui uma aplicação dessa pena?
+Disse [Jesus](Jesus){:.w}: ✝️ ▸ *todos os que lançarem mão da espada à espada morrerão.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 26](Mateus_26){:.w}, [vers. 51-52](MAT.26.ARC){:.b}, [ARC][ARC] Estas palavras não consagram a pena de talião e, assim, a [morte](Morte){:.w} dada ao assassino não constitui uma aplicação dessa pena?
 
 > 👻 ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus](Deus){:.l}. É [Deus](Deus){:.l} quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus](Jesus){:.w}. Não vos disse Ele também:
 >  
-> ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 14](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC]
+> ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 14](MAT.6.ARC){:.b}, [ARC][ARC]
 >
 > E não vos ensinou a pedir a [Deus](Deus){:.l} que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?
 
@@ -11361,7 +11361,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 
 > ✝️ ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus](Deus){:.l}.*
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 19](Mateus_19){:.w}, [vers. 24](https://www.bible.com/pt/bible/212/MAT.19.ARC), [ARC][ARC]
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 19](Mateus_19){:.w}, [vers. 24](MAT.19.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 <details class="links"><summary>🔗</summary><br> 
@@ -12019,7 +12019,7 @@ Segundo a [doutrina](doutrina){:.d} vulgar, de si mesmo tiraria o homem todos os
 
 > ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC]
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os [Espíritos](Espírito){:.w} hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um [Espírito](Espírito){:.w} encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como [Espírito](Espírito){:.w}. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio [Espírito](Espírito){:.w}, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros [Espíritos](Espírito){:.w} imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na [razão](Razão){:.w} de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus [Espíritos](Espírito){:.w}.
@@ -12158,7 +12158,7 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 >
 > E [Jesus](Jesus){:.w} não disse: 
 >
-> ✝️ ▸ *Dai, pois, a César o que é de César e a [Deus](Deus){:.l}, o que é de [Deus](Deus){:.l}.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 21](https://www.bible.com/pt/bible/212/MAT.22.ARC), [ARC][ARC]
+> ✝️ ▸ *Dai, pois, a César o que é de César e a [Deus](Deus){:.l}, o que é de [Deus](Deus){:.l}.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 21](MAT.22.ARC){:.b}, [ARC][ARC]
 >
 >O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -12222,7 +12222,7 @@ O [amor](Amor){:.w} e a caridade são o complemento da lei de justiça, pois ama
 
 > ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
 >  
-> [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](https://www.bible.com/pt/bible/212/MAT.22.ARC), [ARC][ARC]
+> [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 A caridade, segundo [Jesus](Jesus){:.w}, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
@@ -12233,7 +12233,7 @@ A caridade, segundo [Jesus](Jesus){:.w}, não se restringe à esmola, abrange to
 
 ###### Q.887 {#q887}
 
-[Jesus](Jesus){:.w} também disse: ✝️ ▸ *Amai a vossos inimigos* ( [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 44](https://www.bible.com/pt/bible/212/MAT.5.ARC), [ARC][ARC] ) Ora, o [amor](Amor){:.w} aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os [Espíritos](Espírito){:.w}?
+[Jesus](Jesus){:.w} também disse: ✝️ ▸ *Amai a vossos inimigos* ( [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 44](MAT.5.ARC){:.b}, [ARC][ARC] ) Ora, o [amor](Amor){:.w} aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os [Espíritos](Espírito){:.w}?
 
 > 👻 ▸ Certo, ninguém pode votar aos seus inimigos um [amor](Amor){:.w} terno e apaixonado. Não foi isso o que [Jesus](Jesus){:.w} entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
@@ -12260,7 +12260,7 @@ Dar-se-á reproveis a esmola?
 > A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 Lembrai-vos também de que, aos olhos de [Deus](Deus){:.l}, a ostentação tira o mérito ao benefício. Disse [Jesus](Jesus){:.w}:
 >
-> ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 03](https://www.bible.com/pt/bible/212/MAT.6.ARC), [ARC][ARC]
+> ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 03](MAT.6.ARC){:.b}, [ARC][ARC]
 >
 > Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
 >
@@ -12448,7 +12448,7 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 
 > 👻 ▸ Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de [Jesus](Jesus){:.w}:
 >
-> ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 3](https://www.bible.com/pt/bible/212/MAT.7.ARC), [ARC][ARC]
+> ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 3](MAT.7.ARC){:.b}, [ARC][ARC]
 
 ###### Q.904 {#q904}
 
@@ -12764,7 +12764,7 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 
 > 👻 ▸ Os males deste mundo estão na [razão](Razão){:.w} das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. [Deus](Deus){:.l} algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de [Jesus](Jesus){:.w}:
 >
-> ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 04](https://www.bible.com/pt/bible/212/MAT.5.ARC), [ARC][ARC]
+> ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 04](MAT.5.ARC){:.b}, [ARC][ARC]
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Aflição, desejo e  <a href="#aflicao">↩️</a><br>

@@ -233,6 +233,18 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos d
 
 ---
 
+## Adicionais
+
+<details class="links"><summary>🔗</summary><br>
+🏷️ Alma, conceito espírita de  <a href="#alma">↩️</a><br>
+🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
+</details>
+
+Nota de rodapé [^1]
+
+[^1]: Texto da nota de rodapé. Clique na seta para voltar ao local original da nota.
+
+
 ## Etapas de desenvolvimento
 
 |---|:---:|
