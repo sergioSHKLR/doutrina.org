@@ -1,5 +1,5 @@
 ---
-title: ✒️ O Livro dos Médiuns
+title: O Livro dos Médiuns
 layout: 2-ldm
 version: 23.12.22
 ---
@@ -46,7 +46,7 @@ version: 23.12.22
 [v6l]: https://pt.m.wikipedia.org/wiki/Virtude
 [o8e]: https://pt.m.wikipedia.org/wiki/Vontade
 
-# ✒️ O Livro dos Médiuns
+# <span class="emoji">✒️</span> O Livro dos Médiuns
 
 ## 0. 🗃️ Pré-textual {#ldm-0}
 
@@ -55,7 +55,7 @@ version: 23.12.22
 ><br>
 > [Espiritismo][f4r] Experimental   
 ><br>
-> ✒️ [*O Livro dos Médiuns*](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns)  
+> <span class="emoji">✒️</span> [*O Livro dos Médiuns*](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns)  
 ><br>
 > Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da [Mediunidade][c8r], as dificuldades e os tropeços que se podem encontrar na prática do [Espiritismo][f4r], constituindo o seguimento de 👻 [*O Livro dos Espíritos*](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo)    
 ><br>
@@ -66,7 +66,7 @@ version: 23.12.22
 > Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf)  
 ><br>
 > Modificado para o consumo digital por Sergio de  
-> ⭕ [shklr.org](https://shklr.org)
+> <span class="emoji">⭕</span> [shklr.org](https://shklr.org)
 ><br>
 {:.grey-center}
 
@@ -549,7 +549,7 @@ Aos que quiserem adquirir essas noções preliminares pela leitura das nossas ob
 
 - 👻 *O Livro dos Espíritos*. Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua [Filosofia][n2k] e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da  [vida][r4f] de Além-Túmulo. Quem o lê compreende que o [Espiritismo][f4r] objetiva um fim sério, que não constitui frívolo passatempo.
 
-- ✒️ *O Livro dos Médiuns*. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os [médiuns][c8r] como para os evocadores, e o complemento de 👻 *O Livro dos Espíritos*.
+- <span class="emoji">✒️</span> *O Livro dos Médiuns*. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os [médiuns][c8r] como para os evocadores, e o complemento de 👻 *O Livro dos Espíritos*.
 
 - 📓 *Revista Espírita*. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de 👻 *O Livro dos Espíritos*. [^5]
 
@@ -7755,13 +7755,13 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 
 1. 👻 *O Livro dos Espíritos* (1857),
 
-2. ✒️ *O Livro dos Médiuns* (1861),
+2. <span class="emoji">✒️</span> *O Livro dos Médiuns* (1861),
 
-3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
+3. <span class="emoji">🕊️</span> *O Evangelho segundo o Espiritismo* (1864),
 
-4. 🔥 *O Céu e o Inferno* (1865),
+4. <span class="emoji">🔥</span> *O Céu e o Inferno* (1865),
 
-5. 🌱 *A Gênese* (1868),
+5. <span class="emoji">🌱</span> *A Gênese* (1868),
 
 além da obra 🔍 *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua [morte][q4x], foi editado o livro 🪦 *Obras Póstumas* (1890).
 
@@ -7791,7 +7791,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 > 
 > Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a  [vida][r4f] material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do [Espírito][g4f], preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a  [vida][r4f] corporal não passa de um incidente, uma das fases da  [vida][r4f] do [Espírito][g4f], necessária ao seu adiantamento intelectual e [moral][h4c]; que em vista desse avanço o [Espírito][g4f] pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o [Espiritismo][f4r]. Vós que negais a existência do [Espírito][g4f] para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a  [vida][r4f] presente, repudiais o único princípio sobre o qual é fundada, com [razão][f8m], a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
 > 
-> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito][g4f] pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito][g4f] pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (<span class="emoji">🌱</span> *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
 {:.grey}
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
@@ -7800,12 +7800,12 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 
 > Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de [caridade][c5q], de fraternidade e deveres sociais. (KARDEC, Allan. 📓 *Revista Espírita* de 1863)
 > 
-> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (<span class="emoji">🕊️</span> *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
 {:.grey}
 
-É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 *A Gênese*, o Codificador explica essa metodologia:
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro <span class="emoji">🌱</span> *A Gênese*, o Codificador explica essa metodologia:
 
-> Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 *A Gênese*, cap. 11, item 43, Nota)
+> Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (<span class="emoji">🌱</span> *A Gênese*, cap. 11, item 43, Nota)
 {:.grey}
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento [moral][h4c] do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
@@ -8480,7 +8480,7 @@ Espíritos de usurários e – 295, 31a
 
 [^4]: Nota de Allan Kardec (A.K.): O nosso ensino teórico e prático é sempre gratuito.
 
-[^5]: N.E.: De Kardec são ainda as obras: 🕊️ O Evangelho segundo o [Espiritismo][f4r]; 🔥 O Céu e o Inferno; 🌱 A Gênese e 🪦 Obras Póstumas.
+[^5]: N.E.: De Kardec são ainda as obras: <span class="emoji">🕊️</span> O Evangelho segundo o [Espiritismo][f4r]; <span class="emoji">🔥</span> O Céu e o Inferno; <span class="emoji">🌱</span> A Gênese e 🪦 Obras Póstumas.
 
 [^6]: A.K.: Foi o Sr. Jobert (de Lamballe). Para sermos justos, devemos dizer que a descoberta é devida ao Sr. Schiff. O Sr. Jobert lhe deduziu as consequências perante a Academia de Medicina, pretendendo dar, assim, o golpe de [morte][q4x] nos Espíritos batedores. Na 📓 Revista Espírita, do mês de junho de 1859, encontrar-se-ão todos os pormenores da explicação do Sr. Jobert.
 

@@ -1,5 +1,5 @@
 ---
-title: 🏠 Início
+title: Início
 layout: 0-generic
 version: 23.12.22
 ---
@@ -13,7 +13,7 @@ version: 23.12.22
 *[ARC]: Almeida Revista e Corrigida
 *[MD]: Markdown file
 
-# 🏠 Início
+# <span class="emoji">🏠</span> Início
 
 
 ## Inspiração 
@@ -30,7 +30,7 @@ Nossa interface é composta de três colunas, que são seletivamente mostradas d
 
 Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colunas e em telas pequenas, somente 1 coluna.
 
-Consulte a página 📋 [Informações](./info.md) para ficar a par dos padrões utilizados em nosso projeto.
+Consulte a página <span class="emoji">📋</span> [Informações](./info.md) para ficar a par dos padrões utilizados em nosso projeto.
 
 ## Modificações
 

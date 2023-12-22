@@ -1,10 +1,10 @@
 ---
-title: ❤️ Contribuições
+title: <span class="emoji">❤️</span> Contribuições
 layout: 0-generic
 version: 23.12.22
 ---
 
-# ❤️ Contribuições
+# <span class="emoji">❤️</span> Contribuições
 
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAwX4nigTYKmV-IhIzlhwayQm7PRwIkny8zG6HYLTmA2ZvCQ/viewform?embedded=true"  width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

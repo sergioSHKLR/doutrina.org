@@ -3,8 +3,8 @@
 // WEBSHARE START
 
 const shareData = {
-    title: "💧 doutrina.org",
-    text: "❤️ Amai-vos e 🎓 instruí-vos!",
+    title: "<span class="emoji">💧</span> doutrina.org",
+    text: "<span class="emoji">❤️</span> Amai-vos e 🎓 instruí-vos!",
     url: "https://doutrina.org",
 };
 

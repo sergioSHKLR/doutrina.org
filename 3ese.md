@@ -1,5 +1,5 @@
 ---
-title: 🕊️ O Evangelho
+title: O Evangelho
 layout: 3-ese
 version: 23.12.22
 ---
@@ -76,7 +76,7 @@ version: 23.12.22
 [v6l]: https://pt.m.wikipedia.org/wiki/Virtude
 [o8e]: https://pt.m.wikipedia.org/wiki/Vontade
 
-# 🕊️ O Evangelho segundo o Espiritismo
+# <span class="emoji">🕊️</span> O Evangelho segundo o Espiritismo
 
 ## 0. 🗃️ Pré-textual {#ese-0}
 
@@ -85,7 +85,7 @@ version: 23.12.22
 ><br>
 > Ética Espírita  
 ><br>
-> 🕊️ [*O Evangelho segundo o Espiritismo*](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo)  
+> <span class="emoji">🕊️</span> [*O Evangelho segundo o Espiritismo*](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo)  
 ><br>
 > Com a explicação das máximas morais do [Cristo][g0s] em concordância com o [Espiritismo][f4r] e suas aplicações às diversas circunstâncias da [vida][r4f].  
 ><br>
@@ -98,7 +98,7 @@ version: 23.12.22
 > Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf)  
 ><br>
 > Modificado para o consumo digital por Sergio de  
-> ⭕ [shklr.org](https://shklr.org)   
+> <span class="emoji">⭕</span> [shklr.org](https://shklr.org)   
 ><br>
 {:.grey-center}
 
@@ -192,7 +192,7 @@ A nossa opinião não passa, aos nossos próprios olhos, de uma opinião pessoal
 
 Na posição em que nos encontramos, a receber comunicações de perto de mil centros espíritas sérios, disseminados pelos mais diversos pontos da [Terra][g5i], achamo-nos em condições de observar sobre que princípio se estabelece a concordância. Essa observação é que nos tem guiado até hoje e é a que nos guiará em novos campos que o [Espiritismo][f4r] terá de explorar. Porque, estudando atentamente as comunicações vindas tanto da França como do estrangeiro, reconhecemos, pela natureza toda especial das revelações, que ele tende a entrar por um novo caminho e que lhe chegou o momento de dar um passo para diante. Essas revelações, feitas muitas vezes com palavras veladas, hão frequentemente passado despercebidas a muitos dos que as obtiveram. Outros julgaram-se os únicos a possuí-las. Tomadas insuladamente, elas, para nós, nenhum valor teriam; somente a coincidência lhes imprime gravidade. Depois, chegado o momento de serem entregues à publicidade, cada um se lembrará de haver obtido instruções no mesmo sentido. Esse movimento geral, que observamos e estudamos, com a assistência dos nossos guias espirituais, é que nos auxilia a julgar da oportunidade de fazermos ou não alguma coisa.
 
-Essa verificação universal constitui uma garantia para a unidade futura do [Espiritismo][f4r] e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da [verdade][x8k]. O que deu lugar ao êxito da doutrina exposta em 👻 [*O Livro dos Espíritos*](./1lde.html) e em ✒️ [*O Livro dos Médiuns*](./2ldm.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
+Essa verificação universal constitui uma garantia para a unidade futura do [Espiritismo][f4r] e anulará todas as teorias contraditórias. Aí é que, no porvir, se encontrará o critério da [verdade][x8k]. O que deu lugar ao êxito da doutrina exposta em 👻 [*O Livro dos Espíritos*](./1lde.html) e em <span class="emoji">✒️</span> [*O Livro dos Médiuns*](./2ldm.html) foi que em toda a parte todos receberam diretamente dos Espíritos a confirmação do que esses livros contêm. Se de todos os lados tivessem vindo os Espíritos contradizê-la, já de há muito haveriam aquelas obras experimentado a sorte de todas as concepções fantásticas. Nem mesmo o apoio da imprensa as salvaria do naufrágio, ao passo que, privadas como se viram desse apoio, não deixaram elas de abrir caminho e de avançar celeremente. É que tiveram o apoio dos Espíritos, cuja boa vontade não só compensou, como também sobrepujou o malquerer dos homens. Assim sucederá a todas as ideias que, emanando quer dos Espíritos, quer dos homens, não possam suportar a prova desse confronto, cuja força a ninguém é lícito contestar.
 
 Suponhamos praza a alguns Espíritos ditar, sob qualquer título, um livro em sentido contrário; suponhamos mesmo que, com intenção hostil, objetivando desacreditar a doutrina, a malevolência suscitasse comunicações apócrifas; que influência poderiam exercer tais escritos, desde que de todos os lados os desmentissem os Espíritos? É com a adesão destes que se deve garantir aquele que queira lançar, em seu nome, um sistema qualquer. Do sistema de um só ao de todos, medeia a distância que vai da unidade ao infinito. Que poderão conseguir os argumentos dos detratores, sobre a opinião das massas, quando milhões de vozes amigas, provindas do Espaço, se façam ouvir em todos os recantos do [Universo][a2j] e no seio das famílias, a infirmá-los? A esse respeito já não foi a teoria confirmada pela experiência? Que é feito das inúmeras publicações que traziam a pretensão de arrasar o [Espiritismo][f4r]? Qual a que nem lhe retardou a marcha? Até agora, não se considera a questão desse ponto de vista, sem contestação um dos mais graves. Cada um contou consigo, sem contar com os Espíritos.
 
@@ -313,7 +313,7 @@ Assim, ilude a si mesmo o homem que considera as coisas de modo [Terra][g5i] a [
 > 🏺 ▸ Enquanto tivermos o nosso corpo e a [alma](https://pt.m.wikipedia.org/wiki/Alma) se achar mergulhada nessa corrupção, nunca possuiremos o objeto dos nossos desejos: a [verdade][x8k]. Com efeito, o corpo nos suscita mil obstáculos pela necessidade em que nos achamos de cuidar dele. Ademais, ele nos enche de desejos, de apetites, de temores, de mil quimeras e de mil tolices, de maneira que, com ele, impossível se nos torna ser ajuizados, nem por um instante. Todavia se não nos é possível conhecer puramente coisa alguma enquanto a [alma](https://pt.m.wikipedia.org/wiki/Alma) nos está ligada ao corpo, de duas uma: ou jamais conheceremos a [verdade][x8k], ou só a conheceremos após a [morte][q4x]. Libertos da loucura do corpo, conversaremos então, lícito é esperá-lo, com homens igualmente libertos e conheceremos, por nós mesmos, a essência das coisas. Essa a [razão][f8m] por que os verdadeiros filósofos se exercitam em morrer e a [morte][q4x] não se lhes afigura, de modo nenhum, temível.
 {:.greek}
 
-Está aí o princípio das faculdades da [alma](https://pt.m.wikipedia.org/wiki/Alma) obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da [morte][q4x]. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (**🔥 O Céu e o Inferno**, 1a Parte, cap. 2; 2a Parte, cap. 1.)
+Está aí o princípio das faculdades da [alma](https://pt.m.wikipedia.org/wiki/Alma) obscurecidas por motivo dos órgãos corporais e o da expansão dessas faculdades depois da [morte][q4x]. Trata-se, porém, apenas de almas já depuradas; o mesmo não se dá com as almas impuras. (**<span class="emoji">🔥</span> O Céu e o Inferno**, 1a Parte, cap. 2; 2a Parte, cap. 1.)
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label <a href="#term">↩️</a>
@@ -324,7 +324,7 @@ Está aí o princípio das faculdades da [alma](https://pt.m.wikipedia.org/wiki/
 > 🏺 ▸ A [alma](https://pt.m.wikipedia.org/wiki/Alma) impura, nesse estado, se encontra oprimida e se vê de novo arrastada para o mundo visível, pelo horror do que é invisível e imaterial. Erra, então, diz-se, em torno dos monumentos e dos túmulos, junto aos quais já se têm visto tenebrosos fantasmas, quais devem ser as imagens das almas que deixaram o corpo sem estarem ainda inteiramente puras, que ainda conservam alguma coisa da forma material, o que faz que a vista humana possa percebê-las. Não são as almas dos bons; são, porém, as dos maus, que se veem forçadas a vagar por esses lugares, onde arrastam consigo a pena da primeira [vida][r4f] que tiveram e onde continuam a vagar até que os apetites inerentes à forma material de que se revestiram as reconduzam a um corpo. Então, sem dúvida, retomam os mesmos costumes que durante a primeira [vida][r4f] constituíam objeto de suas predileções.
 {:.greek}
 
-Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o [Espiritismo][f4r] nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da [alma][q3f], enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o [Espiritismo][f4r], acrescentando apenas que a [alma][q3f], que boas resoluções tomou na [erraticidade](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Erraticidade) e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e [moral][h4c]. (🔥 O Céu e o Inferno, 2a Parte: Exemplos.)
+Não somente o princípio da reencarnação se acha aí claramente expresso, mas também o estado das almas que se mantêm sob o jugo da matéria é descrito qual o mostra o [Espiritismo][f4r] nas evocações. Mais ainda: no tópico acima se diz que a reencarnação num corpo material é consequência da impureza da [alma][q3f], enquanto as almas purificadas se encontram isentas de reencarnar. Outra coisa não diz o [Espiritismo][f4r], acrescentando apenas que a [alma][q3f], que boas resoluções tomou na [erraticidade](https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Erraticidade) e que possui conhecimentos adquiridos, traz, ao renascer, menos defeitos, mais virtudes e ideias intuitivas do que tinha na sua existência precedente. Assim, cada existência lhe marca um progresso intelectual e [moral][h4c]. (<span class="emoji">🔥</span> O Céu e o Inferno, 2a Parte: Exemplos.)
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label <a href="#term">↩️</a>
@@ -368,7 +368,7 @@ A palavra daïmon, da qual fizeram o termo demônio, não era, na Antiguidade, t
 > 🏺 ▸ Se a [alma](https://pt.m.wikipedia.org/wiki/Alma) é imaterial, tem de passar, após essa [vida][r4f], a um mundo igualmente invisível e imaterial, do mesmo modo que o corpo, decompondo-se, volta à matéria. Muito importa, no entanto, distinguir bem a [alma](https://pt.m.wikipedia.org/wiki/Alma) pura, verdadeiramente imaterial, que se alimente, como [Deus][c5m], de [ciência][h4t] e pensamentos, da [alma](https://pt.m.wikipedia.org/wiki/Alma) mais ou menos maculada de impurezas materiais, que a impedem de elevar-se para o divino e a retêm nos lugares da sua estada na [Terra][g5i].
 {:.greek}
 
-Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da [alma][q3f]. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o [Espiritismo][f4r] o prova com os inúmeros exemplos que nos põe sob as vistas. (**🔥 O Céu e o Inferno**, 2a Parte.)
+Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus de desmaterialização da [alma][q3f]. Insistem na diversidade de situação que resulta para elas da sua maior ou menor pureza. O que eles diziam, por intuição, o [Espiritismo][f4r] o prova com os inúmeros exemplos que nos põe sob as vistas. (**<span class="emoji">🔥</span> O Céu e o Inferno**, 2a Parte.)
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label <a href="#term">↩️</a>
@@ -379,7 +379,7 @@ Sócrates e Platão, como se vê, compreendiam perfeitamente os diferentes graus
 > 🏺 ▸ Se a [morte][q4x] fosse a dissolução completa do homem, muito ganhariam com a [morte][q4x] os maus, pois se veriam livres, ao mesmo tempo, do corpo, da [alma](https://pt.m.wikipedia.org/wiki/Alma) e dos vícios. Aquele que guarnecer a [alma][q3f], não de ornatos estranhos, mas com os que lhe são próprios, só esse poderá aguardar tranquilamente a hora da sua partida para o outro mundo.
 {:.greek}
 
-Equivale isso a dizer que o [materialismo][m3n], com o proclamar para depois da [morte][q4x] o nada, anula toda responsabilidade [moral][h4c] ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra [vida][r4f]. Por meio de exemplos, que todos os dias nos apresenta, o [Espiritismo][f4r] mostra quão penoso é, para o mau, o passar desta à outra [vida][r4f], a entrada na [vida][r4f] futura. (**🔥 O Céu e o Inferno**, 2a Parte, cap. 1.)
+Equivale isso a dizer que o [materialismo][m3n], com o proclamar para depois da [morte][q4x] o nada, anula toda responsabilidade [moral][h4c] ulterior, sendo, conseguintemente, um incentivo para o mal; que o mau tem tudo a ganhar do nada. Somente o homem que se despojou dos vícios e se enriqueceu de virtudes, pode esperar com tranquilidade o despertar na outra [vida][r4f]. Por meio de exemplos, que todos os dias nos apresenta, o [Espiritismo][f4r] mostra quão penoso é, para o mau, o passar desta à outra [vida][r4f], a entrada na [vida][r4f] futura. (**<span class="emoji">🔥</span> O Céu e o Inferno**, 2a Parte, cap. 1.)
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ label <a href="#term">↩️</a>
@@ -7808,13 +7808,13 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 
 1. 👻 *O Livro dos Espíritos* (1857),
 
-2. ✒️ *O Livro dos Médiuns* (1861),
+2. <span class="emoji">✒️</span> *O Livro dos Médiuns* (1861),
 
-3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
+3. <span class="emoji">🕊️</span> *O Evangelho segundo o Espiritismo* (1864),
 
-4. 🔥 *O Céu e o Inferno* (1865),
+4. <span class="emoji">🔥</span> *O Céu e o Inferno* (1865),
 
-5. 🌱 *A Gênese* (1868),
+5. <span class="emoji">🌱</span> *A Gênese* (1868),
 
 além da obra 🔍 **O Que é o [Espiritismo][f4r]** (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua [morte][q4x], foi editado o livro 🪦 *Obras Póstumas* (1890).
 
@@ -7844,7 +7844,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 > 
 > Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da [filiação](https://pt.m.wiktionary.org/wiki/filiação) consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a [vida][r4f] material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do [Espírito][g4f], preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a [vida][r4f] corporal não passa de um incidente, uma das fases da [vida][r4f] do [Espírito][g4f], necessária ao seu adiantamento intelectual e [moral][h4c]; que em vista desse avanço o [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o [Espiritismo][f4r]. Vós que negais a existência do [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a [vida][r4f] presente, repudiais o único princípio sobre o qual é fundada, com [razão][f8m], a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
 > 
-> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo [Espírito](https://pt.m.wikipedia.org/wiki/Espírito) pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (<span class="emoji">🌱</span> *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
 {:.grey}
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
@@ -7853,12 +7853,12 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 
 > Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de [caridade][c5q], de fraternidade e deveres sociais. (KARDEC, Allan. 📓 *Revista Espírita* de 1863)
 > 
-> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (<span class="emoji">🕊️</span> *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
 {:.grey}
 
-É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 *A Gênese*, o Codificador explica essa metodologia:
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro <span class="emoji">🌱</span> *A Gênese*, o Codificador explica essa metodologia:
 
-> Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 *A Gênese*, cap. 11, item 43, Nota)
+> Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de [Deus][c5m], mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (<span class="emoji">🌱</span> *A Gênese*, cap. 11, item 43, Nota)
 {:.grey}
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento [moral][h4c] do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:

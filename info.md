@@ -1,10 +1,10 @@
 ---
-title: 📋 Informações
+title: Informações
 layout: 0-generic
 version: 23.12.22
 ---
 
-# 📋 Informações
+# <span class="emoji">📋</span> Informações
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
@@ -84,22 +84,22 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
  <td>O Livro dos Espíritos</td>
  </tr>
  <tr>
- <td class="center"><span style="transform: scaleX(-1);">✒️</span><br>(ponta de caneta tinteiro)</td>
+ <td class="center"><span style="transform: scaleX(-1);"><span class="emoji">✒️</span></span><br>(ponta de caneta tinteiro)</td>
  <td class="center">LDM</td>
  <td>O Livro dos Médiuns</td>
  </tr>
  <tr>
- <td class="center">🕊️<br>(pomba branca)</td>
+ <td class="center"><span class="emoji">🕊️</span><br>(pomba branca)</td>
  <td class="center">ESE</td>
  <td>O Evangelho segundo o Espiritismo</td>
  </tr>
  <tr>
- <td class="center">🔥<br>(fogo)</td>
+ <td class="center"><span class="emoji">🔥</span><br>(fogo)</td>
  <td class="center">CEU</td>
  <td>O Céu e o Inferno</td>
  </tr>
  <tr>
- <td class="center">🌱<br>(muda de planta)</td>
+ <td class="center"><span class="emoji">🌱</span><br>(muda de planta)</td>
  <td class="center">GEN</td>
  <td>A Gênese</td>
  </tr>
@@ -111,7 +111,7 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
 
 <pre class="fs-3 col2-w bg-lg">
-❓ livro (👻, ✒️, 🕊️, 🔥 ou 🌱)
+❓ livro (👻, <span class="emoji">✒️</span>, <span class="emoji">🕊️</span>, <span class="emoji">🔥</span> ou <span class="emoji">🌱</span>)
  |
  └── 🗂️ parte
       |
