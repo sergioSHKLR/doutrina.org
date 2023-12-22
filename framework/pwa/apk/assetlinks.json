@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "org.doutrina.twa",
+        "sha256_cert_fingerprints": ["51:79:3E:03:7C:C0:63:76:67:E9:7F:1A:B9:F9:A7:AD:59:79:19:36:ED:8F:0D:76:CE:51:50:E4:7A:56:0C:12"]
+      }
+    }]
