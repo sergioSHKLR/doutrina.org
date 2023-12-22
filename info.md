@@ -15,25 +15,38 @@ version: 23.12.21
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
-Nos inspiramos nos esforços de:
-
-- [Portal Luz Espírita](https://www.luzespirita.org.br){:target="ext"}
-- [Kardecpedia](https://kardecpedia.com/pt){:target="ext"}
-
-Agregamos ferramentas externas de:
-
-- [Hypothes.is](https://web.hypothes.is/everyone/){:target="ext"}
-- [Whereby](https://whereby.com/){:target="ext"}
-
-Mostramos conteúdo proveniente de:
-
-- [Wikipedia](https://pt.m.wikipedia.org){:target="ext"}
-- [Wikicionário](https://pt.m.wiktionary.org){:target="ext"}
-- [Bible.com](https://www.bible.com/pt){:target="ext"}
-- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
-- [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
-
 Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
+
+<p>While on book pages, you have the option of making the text / background adjustments. These get saved to your browser so you don’t have to redo at every reload. If you don’t want to have these settings applied, click on Reset All button at the bottom. Unfortunately the menu is only availble at the top of the page. I haven’t been able to fix this. Please let me know if you have a solution.</p>
+
+<table class="border p-10 fs-3 ff-slab col2-w ml-10">
+<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr><td class="center"><span class="icon" style="font-size: 150%">text_increase</span></td><td>Letras maiores</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%">text_decrease</span></td><td>Letras menores</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%">format_align_justify</span></td><td>Parágrafo justificado</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%; font-family: 'Georgia', serif">Se</span></td><td>Tipo serifa</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%; font-family: 'Inter', serif">Sa</span></td><td>Tipo sem-serifa</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%; font-family: 'Roboto Slab', serif">Mo</span></td><td>Tipo mono-espaço</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%">density_small</span></td><td>Linhas estreitas</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%">density_large</span></td><td>Linhas largas maiores</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%" style="border-radius: 50%; background-color: #fffce4; border: 1px solid #59595980;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%" style="border-radius: 50%; background-color: #e8fce4; border: 1px solid #59595980;">&nbsp;</span></td><td>Fundo verde</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%" style="border-radius: 50%; background-color: #fff4fc; border: 1px solid #59595980;">&nbsp;</span></td><td>Fundo rosa</td></tr>
+
+<tr><td class="center"><span class="icon" style="font-size: 150%">restart_alt</span></td><td>Reverter tudo</td></tr>
+ </table>
+
+ <br/?>
 
 <p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
 
@@ -244,6 +257,23 @@ Nota de rodapé [^1]
 
 [^1]: Texto da nota de rodapé. Clique na seta para voltar ao local original da nota.
 
+Nos inspiramos nos esforços de:
+
+- [Portal Luz Espírita](https://www.luzespirita.org.br){:target="ext"}
+- [Kardecpedia](https://kardecpedia.com/pt){:target="ext"}
+
+Agregamos ferramentas externas de:
+
+- [Hypothes.is](https://web.hypothes.is/everyone/){:target="ext"}
+- [Whereby](https://whereby.com/){:target="ext"}
+
+Mostramos conteúdo proveniente de:
+
+- [Wikipedia](https://pt.m.wikipedia.org){:target="ext"}
+- [Wikicionário](https://pt.m.wiktionary.org){:target="ext"}
+- [Bible.com](https://www.bible.com/pt){:target="ext"}
+- [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
+- [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
 
 ## Etapas de desenvolvimento
 
