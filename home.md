@@ -59,7 +59,7 @@ Por fim, ficaríamos gratos com seus:
 - sugestões
 - correções
 
-Tenha um bom estudo!
+Tenha um bom estudo! 🌢
 
 <img src="./framework/me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; overflow:clip !important">
 
@@ -67,6 +67,9 @@ Sergio
 {:.cursive}
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
 <p>&nbsp;</p>
 
 <script type="application/json" class="js-hypothesis-config">

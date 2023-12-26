@@ -88,7 +88,7 @@ function function08() {
 //---------------------------------------------------
 
 function function09() {
-    localStorage.setItem("backgroundColor", "#ffc0cb22");
+    localStorage.setItem("backgroundColor", "#fff0f51a");
     var element = document.getElementById("col2-body");
     element.classList.remove("bg-yellow");
     element.classList.remove("bg-green");

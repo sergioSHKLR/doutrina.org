@@ -46,3 +46,5 @@ Nossos arquivos MD e seus respectivos variantes em HTML são licenciados sob [CC
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>

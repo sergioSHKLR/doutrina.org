@@ -9,7 +9,7 @@ version: 23.12.22
 
 Os links da coluna principal são abertos aqui. Eles podem ser:
 
-- <span class="emoji">📰</span> artigos do Wikipedia
+- <span class="emoji">📰</span> artigos do Wikipédia
 - <span class="emoji">📔</span> definições de palavras do Wikicionário
 - <span class="emoji">🎬 vídeos da Igreja de Jesus Cristo dos Santos dos Últimos Dias
 - <span class="emoji">🎬</span> vídeos do show de TV Os Escolhidos

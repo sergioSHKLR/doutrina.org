@@ -15,42 +15,34 @@ version: 23.12.22
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
+## Descrição
+
 Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
 
-<p>While on book pages, you have the option of making the text / background adjustments. These get saved to your browser so you don’t have to redo at every reload. If you don’t want to have these settings applied, click on Reset All button at the bottom. Unfortunately the menu is only availble at the top of the page. I haven’t been able to fix this. Please let me know if you have a solution.</p>
+## Ajustes
 
-<table class="border p-10 fs-3 ff-slab col2-w ml-10">
-<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td class="center"><span class="icon" style="font-size: 120%">text_increase</span></td><td>Letras maiores</td></tr>
+Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, e links) clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
 
-<tr><td class="center"><span class="icon" style="font-size: 120%">text_decrease</span></td><td>Letras menores</td></tr>
-
-<tr><td class="center"><span class="icon" style="font-size: 120%">format_align_justify</span></td><td>Parágrafo justificado</td></tr>
-
+<table> 
+<tr><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr><td class="center"><span class="icon tools-120">text_increase</span></td><td>Letras maiores</td></tr>
+<tr><td class="center"><span class="icon tools-120">text_decrease</span></td><td>Letras menores</td></tr>
+<tr><td class="center"><span class="icon tools-120">format_align_justify</span></td><td>Parágrafo justificado</td></tr>
 <tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Georgia', serif">Se</span></td><td>Tipo serifa</td></tr>
-
 <tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Inter', serif">Sa</span></td><td>Tipo sem-serifa</td></tr>
-
 <tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Roboto Slab', serif">Mo</span></td><td>Tipo mono-espaço</td></tr>
-
-<tr><td class="center"><span class="icon" style="font-size: 120%">density_small</span></td><td>Linhas estreitas</td></tr>
-
-<tr><td class="center"><span class="icon" style="font-size: 120%">density_large</span></td><td>Linhas largas maiores</td></tr>
-
-<tr><td class="center"><span class="icon" style="font-size: 120%" style="border-radius: 50%; background-color: #fffce4; border: 1px solid #59595980;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
-
-<tr><td class="center"><span class="icon" style="font-size: 120%" style="border-radius: 50%; background-color: #e8fce4; border: 1px solid #59595980;">&nbsp;</span></td><td>Fundo verde</td></tr>
-
-<tr><td class="center"><span class="icon" style="font-size: 120%" style="border-radius: 50%; background-color: #fff4fc; border: 1px solid #59595980;">&nbsp;</span></td><td>Fundo rosa</td></tr>
-
-<tr><td class="center"><span class="icon" style="color: blue;">link_off</span></td><td>Esconder links</td></tr>
-
+<tr><td class="center"><span class="icon" style="font-size: 120%">density_small</span></td><td>Entrelinhas estreitas</td></tr>
+<tr><td class="center"><span class="icon" style="font-size: 120%">density_large</span></td><td>Entrelinhas largas</td></tr>
+<tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #fffce4;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
+<tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #e8fce4;">&nbsp;</span></td><td>Fundo verde</td></tr>
+<tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #fff4fc;">&nbsp;</span></td><td>Fundo rosa</td></tr>
+<tr><td class="center"><span class="icon" style="color: royalblue;">link_off</span></td><td>Esconder links</td></tr>
 <tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
- </table>
+ </table>  
 
- <br>
+## Anotador
 
-<p>Os botões no canto superior direito pertencem ao Anotador <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e servem para:</p>
+<p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
@@ -271,7 +263,7 @@ Agregamos ferramentas externas de:
 
 Mostramos conteúdo proveniente de:
 
-- [Wikipedia](https://pt.m.wikipedia.org){:target="ext"}
+- [Wikipédia](https://pt.m.wikipedia.org){:target="ext"}
 - [Wikicionário](https://pt.m.wiktionary.org){:target="ext"}
 - [Bible.com](https://www.bible.com/pt){:target="ext"}
 - [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
@@ -301,3 +293,11 @@ Mostramos conteúdo proveniente de:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<hr>
+
+<script type="application/json" class="js-hypothesis-config">
+{
+"openSidebar": true
+}
+</script>
