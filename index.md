@@ -4,6 +4,19 @@ layout: splash
 version: 23.12.22
 ---
 
+ <!-- GOOGLE PRECONNECT -->
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+ <!-- GOOGLE EMOJI -->
+ <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
+
+<style>
+    span.emoji {
+  font-family: 'Noto Color Emoji', sans-serif;
+}
+</style>
+
 > Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna?  
 ><br>
 > São Luiz e &nbsp;Santo Agostinho
