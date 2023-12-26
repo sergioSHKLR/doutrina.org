@@ -1,4 +1,4 @@
-// VERSION 23.12.22
+// VERSION 23.12.24
 
 // DARK MODE START
 
@@ -22,5 +22,14 @@ function lightMode() {
     localStorage.setItem("contrast","light");
 }
 
+function checkMode() {
+    if (localStorage.getItem("contrast") == "dark") {
+      darkMode(); //if dark mode was on, run this function
+    } else {
+      lightMode(); //if dark mode was on, run this function
+    }
+  }
+
 // DARK MODE END
+
 

@@ -15,7 +15,6 @@ version: 23.12.22
 
 # <span class="emoji">🏠</span> Início
 
-
 ## Inspiração 
 
 Inspirado em outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir ao usuário uma plataforma inédita de estudos integrados.

@@ -59,7 +59,7 @@
 
 <!-- BODY -->
 
-<body onload="checkMode()">
+<body>
 
   <!-- COL1 HEAD -->
   <div id="col1-head" class="head">
@@ -120,50 +120,66 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
 
-    <!-- COL1 VERT TOOLS-->
-    <div id="vert-tools">
+     <!-- COL1 VERT TOOLS-->
+     <div id="vert-tools">
 
-      <button title="ajustar letra, parágrafo e fundo" style="border-bottom: 1px solid #59595980;"><span
-          class="icon">instant_mix</span></button>
+      <button id="tools-menu" onclick="function00()" title="ajustar letra, parágrafo e fundo">Aa</button>
 
-      <button class="tools" id="ti-btn" onclick="function1()" title="aumentar letra"><span
-          class="icon">text_increase</span></button>
+      <div id="vert-tools-buttons" class="hide">
 
-      <button class="tools" id="td-btn" onclick="function2()" title="diminuir letra"><span
-          class="icon">text_decrease</span></button>
+        <button class="tools fontSize" id="decreasetext" type="button" value="-1"><span
+            class="icon">text_decrease</span></button>
 
-      <button class="tools" id="aj-btn" onclick="function4()" title="texto justificado"><span
-          class="icon">format_align_justify</span></button>
+        <button class="tools fontSize" id="increasetext" type="button" value="+1">
+          <span class="icon">text_increase</span></button>
 
-      <button class="tools" id="f2-btn" onclick="function6()" title="tipo serif"><span
-          style="font-family: 'Georgia', serif;">Se</span></button>
+        <button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span
+            class="icon">density_small</span></button>
 
-      <button class="tools" id="f1-btn" onclick="function5()" title="tipo sans"><span
-          style="font-family: 'Inter', sans;">Sa</span></button>
+        <button class="tools lineHeight" id="increaselineheight" type="button" value="+1">
+          <span class="icon">density_large</span></button>
 
-      <button class="tools" id="f3-btn" onclick="function7()" title="tipo mono"><span
-          style="font-family: 'Roboto Mono', monospace;">Mo</span></button>
+        <!-- <button class="tools" id="fs-sm-btn" onclick="toolsFSSM()" title="diminuir letra"><span
+        class="icon">text_decrease</span></button>
 
-      <button class="tools" id="ds-btn" onclick="function9()" title="entrelinhas menor"><span
+      <button class="tools" id="fs-lg-btn" onclick="toolsFSLG()" title="aumentar letra"><span
+        class="icon">text_increase</span></button> -->
+
+        <button class="tools" id="ff-se-btn" onclick="function02()" title="tipo serif"><span
+            style="font-family: 'Georgia', serif;">Se</span></button>
+
+        <button class="tools" id="ff-sa-btn" onclick="function03()" title="tipo sans"><span
+            style="font-family: 'Inter', sans;">Sa</span></button>
+
+        <button class="tools" id="ff-mo-btn" onclick="function04()" title="tipo mono"><span
+            style="font-family: 'Roboto Mono', monospace;">Mo</span></button>
+
+        <!--
+      <button class="tools" id="lh-na-btn" onclick="function05()" title="entrelinhas menor"><span
           class="icon">density_small</span></button>
 
-      <button class="tools" id="dm-btn" onclick="function10()" title="entrelinhas maior"><span
-          class="icon">density_large</span></button>
+      <button class="tools" id="lh-wd-btn" onclick="function06()" title="entrelinhas maior"><span
+          class="icon">density_large</span></button> -->
 
-      <button class="tools" id="b1-btn" onclick="function11()" title="fundo amarelado"><span class="icon"
-          style="border-radius: 50%; background-color: #fffce4; border: 1px solid #59595980;">&nbsp;</span></button>
+        <button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelado"><span class="icon"
+            style="border-radius: 50%; background-color: #fffce4; border: 1px solid #59595980;">&nbsp;</span></button>
 
-      <button class="tools" id="b2-btn" onclick="function12()" title="fundo esverdeado"><span class="icon"
-          style="border-radius: 50%; background-color: #e8fce4; border: 1px solid #59595980;">&nbsp;</span></button>
+        <button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo esverdeado"><span class="icon"
+            style="border-radius: 50%; background-color: #e8fce4; border: 1px solid #59595980;">&nbsp;</span></button>
 
-      <button class="tools" id="b3-btn" onclick="function13()" title="fundo roseado"><span class="icon"
-          style="border-radius: 50%; background-color: #fff4fc; border: 1px solid #59595980;">&nbsp;</span></button>
+        <button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo roseado"><span class="icon"
+            style="border-radius: 50%; background-color: #fff4fc; border: 1px solid #59595980;">&nbsp;</span></button>
 
-      <button class="tools" id="lo-btn" onclick="function15()" title="esconder links"><span
-          class="icon">link_off</span></button>
+        <button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span
+            class="icon">format_align_justify</span></button>
 
-      <button class="tools" id="ra-btn" onclick="functionResetAll()" title="reverter tudo"><span
-          class="icon">restart_alt</span></button>
+        <button class="tools" id="al-off-btn" onclick="function10()" title="esconder links"><span
+          class="icon" style="color: blue;">link_off</span></button>
+
+        <button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo"><span class="icon"
+            style="color: red;">restart_alt</span></button>
+
+      </div>
     </div>
   </div>
 
@@ -219,9 +235,23 @@ title="vídeo chamada"><span class="icon">video_call</span></a> -->
     </span></div>
 
   <!-- SCRIPTS -->
+  <!-- SCRIPTS -->
   <script src="./framework/js/crisp.js"></script>
+  <script src="./framework/js/new/check-mode-01.js"></script>
+  <script src="./framework/js/new/check-mode-02-03-04.js"></script>
+  <script src="./framework/js/new/check-mode-07-08-09.js"></script>
+  <script src="./framework/js/new/check-mode-10.js"></script>
 
-  <script src="./framework/js/scripts-v3.js"></script>
+  <script src="./framework/js/new/dark-mode-v1.js"></script>
+  <script src="./framework/js/new/ext-links.js"></script>
+  <script src="./framework/js/new/line-height.js"></script>
+  <script src="./framework/js/new/font-sizer.js"></script>
+  <script src="./framework/js/new/fullscreen.js"></script>
+  <script src="./framework/js/new/hypo-alert.js"></script>
+  <script src="./framework/js/new/menu.js"></script>
+  <script src="./framework/js/new/string-replace.js"></script>
+  <script src="./framework/js/new/tools.js"></script>
+  <script src="./framework/js/new/webshare.js"></script>
 
   <script class="js-hypothesis-config">
     window.hypothesisConfig = function () {
@@ -243,8 +273,7 @@ title="vídeo chamada"><span class="icon">video_call</span></a> -->
 "theme": "clean",
 }
 </script>
-  <script async src="https://hypothes.is/embed.js"></script>
-
+<script async src="https://hypothes.is/embed.js"></script>
   <div id="alert" class="hide">No celular? Use-o no modo deitado.</div>
 
 </body>

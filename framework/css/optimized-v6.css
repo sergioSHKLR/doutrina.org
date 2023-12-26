@@ -430,8 +430,8 @@ h2,
 h3,
 h4 {
   border-bottom: 1px solid var(--border-color-lite);
-  font-family: 'Roboto Slab';
-  font-weight: 400
+  font-weight: 400;
+  line-height: 1.65;
 }
 
 h1:before {
@@ -443,8 +443,9 @@ h2,
 h3,
 h4,
 h5 {
-  font: 400 20px 'Roboto Slab';
-  padding-bottom: 2px
+  font-weight: 400;
+  font-size: 20px;
+    padding-bottom: 2px
 }
 
 h2:before {
@@ -525,7 +526,8 @@ details[open] summary::before {
 /* TOOLS START */
 #vert-tools {
   -ms-overflow-style: none;
-  background-color: inherit;
+  color: currentColor;
+  background-color: whitesmoke;
   border-collapse: collapse;
   border-right: 1px solid var(--border-color-lite);
   box-shadow: 5px 0 3px -3px #00000030;
@@ -543,80 +545,58 @@ details[open] summary::before {
   display: none
 }
 
-.aj {
+
+#vert-tools button {
+  padding: 2px 2px 3px 0px;
+  border-bottom: 1px solid var(--border-color-lite)
+}
+
+.ta-justify {
   text-align: justify !important
 }
 
-.al {
-  text-align: left !important
+.ff-serif {
+  font-family: 'Georgia', serif !important
 }
 
-.b1 {
+.ff-sans {
+  font-family: 'Inter', sans-serif !important
+}
+
+.ff-mono {
+  font-family: 'Roboto Mono', monospace !important
+}
+
+.lh-narrow {
+  line-height: 1.2 !important
+}
+
+.lh-wide {
+  line-height: 1.8 !important
+}
+
+.bg-yellow {
   background-color: #ffff001a !important;
   box-shadow: none !important
 }
 
-.b2 {
+.bg-green {
   background-color: #00ff001a !important;
   box-shadow: none !important
 }
 
-.b3 {
-  background-color: #ffc0cb22 !important;
+.bg-pink {
+  background-color: #FFF5EE1a !important;
+  /* background-color: #fff0f522 !important; */
   box-shadow: none !important
 }
 
-.b4 {
-  background-color: #fff !important;
-  box-shadow: none !important
-}
-
-.dm {
-  line-height: 1.7 !important
-}
-
-.dn {
-  line-height: 1.5 !important
-}
-
-.ds {
-  line-height: 1.3 !important
-}
-
-.f1 {
-  font-family: 'Inter' !important
-}
-
-.f2 {
-  font-family: 'Georgia' !important
-}
-
-.f3 {
-  font-family: 'Roboto Mono' !important
-}
-
-.f4 {
-  font-family: 'Roboto Slab' !important
+.links-off a {
+  text-decoration: none !important
 }
 
 .show {
   display: block
-}
-
-.td {
-  font-size: 14px !important
-}
-
-.ti {
-  font-size: 18px !important
-}
-
-.tn {
-  font-size: 16px !important
-}
-
-.lo a {
-  text-decoration: none !important
 }
 
 button.tools {
@@ -625,7 +605,6 @@ button.tools {
 
 /* TOOLS END */
 /*------------------------------------------------*/
-
 
 /* DARK MODE START */
 .dark-mode #col2-body blockquote,
@@ -700,6 +679,13 @@ button.tools {
   background-color: var(--body-bground-dark);
   box-shadow: none;
   color: #fff
+}
+
+.dark-mode #vert-tools,
+.dark-mode #vert-tools button {
+  background-color: var(--body-color-lite);
+  color: var(--body-bground-lite);
+  border-color: var(--border-color-dark);
 }
 
 /* DARK MODE END */
@@ -1087,7 +1073,89 @@ summary.ff-mono {
   width: 90%
 }
 
-span.emoji {font-family: 'Noto Color Emoji', sans-serif;}
+span.emoji {
+  font-family: 'Noto Color Emoji', sans-serif;
+}
 
 /* OTHERS END */
 /*------------------------------------------------*/
+
+/* PREFERS DARK */
+
+@media (prefers-color-scheme: dark) {
+
+  .dark-mode #col2-body blockquote,
+  .dark-mode #col2-body blockquote.spirit,
+  .dark-mode #col2-body blockquote.spirit-multi {
+    background-color: var(--bquote-spirit-bground-dark)
+  }
+
+  .dark-mode #col2-body blockquote.greek {
+    background-color: var(--bquote-greek-bground-dark)
+  }
+
+  .dark-mode #col2-body blockquote.grey {
+    background-color: var(--bquote-grey-bground-dark)
+  }
+
+  .dark-mode #col2-body blockquote.spirit::first-letter,
+  .dark-mode #col2-body blockquote.spirit-multi::first-letter {
+    background-color: var(--bquote-spirit-border)
+  }
+
+  .dark-mode #col2-body>blockquote.bible,
+  .dark-mode #col2-body>blockquote.bible-multi {
+    background-color: var(--bquote-bible-bground-dark)
+  }
+
+  .dark-mode details>div>p>a {
+    color: var(--body-color-dark)
+  }
+
+  .dark-mode blockquote.bible>p>em {
+    color: var(--jesus-color-dark) !important
+  }
+
+  .dark-mode {
+    background-color: var(--body-bground-dark);
+    color: currentColor
+  }
+
+  .dark-mode #col1-body>details>p>a,
+  .dark-mode #vert-tools>button>span {
+    color: #fff
+  }
+
+  .dark-mode #col1-brand {
+    color: #fff !important
+  }
+
+  .dark-mode #col1-head,
+  .dark-mode #col2-head,
+  .dark-mode #col3-head,
+  .dark-mode #col1-body {
+    background-color: var(--accent-color-dark)
+  }
+
+  .dark-mode #col2-body a:any-link {
+    text-decoration-color: var(--link-color-dark)
+  }
+
+  .dark-mode details.links {
+    background-color: #333
+  }
+
+  .dark-mode iframe {
+    filter: invert(87%) hue-rotate(180deg)
+  }
+
+  .dark-mode,
+  .dark-mode html,
+  .dark-mode body,
+  .dark-mode #col2-body {
+    background-color: var(--body-bground-dark);
+    box-shadow: none;
+    color: #fff
+  }
+
+}

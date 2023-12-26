@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- VERSION 23.12.22  -->
+<!-- VERSION 23.12.22 -->
 
 <head>
   <meta charset="utf-8">
@@ -51,84 +51,38 @@
 
   <!-- STYLES -->
   <style>
-    h6 {
-      margin-bottom: 0px;
+    #col3-link3-a {
+      display: none;
     }
   </style>
+
+  <!-- SCRIPTS -->
 </head>
+
 <!-- BODY -->
 
 <body>
 
   <!-- COL1 HEAD -->
   <div id="col1-head" class="head">
-    <a href="./home.html" id="col1-brand"><span class="emoji">💧</span>doutrina.org</a>
+    <a href="./home.html" id="col1-brand"><span class="emoji">💧</span> doutrina.org</a>
   </div>
 
   <!-- COL1 BODY -->
   <div id="col1-body">
 
     <!-- COL1 TOC -->
-    <p class="sidebar-heading" style="padding-top: 4px;">{{ page.title }}</p>
-    <details class="ff-mono fs-4">
-      <summary class="ff-mono">0. 🗃️ Pré-textual</summary>
-      <p><a href="#ese-0-01">0-01. 📄 Folha de rosto</a></p>
-      <p><a href="#ese-0-02">0-02. 📄 Prefácio</a></p>
-      <p><a href="#ese-0-03">0-03. 🗂️ Introdução</a></p>
-      <p><a href="#ese-0-03-01">0-03-01. 📄 Objetivo</a></p>
-      <p><a href="#ese-0-03-02">0-03-02. 📄 Autoridade</a></p>
-      <p><a href="#ese-0-03-03">0-03-03. 📄 História</a></p>
-      <p><a href="#ese-0-03-04">0-03-04. 📄 Sócrates & Platão</a></p>
-    </details>
-    <br>
-    <details class="ff-mono fs-4">
-      <summary class="ff-mono">1. 🗃️ Miolo</summary>
-      <p><a href="#ese-1-01">1-01. 🗂️ Não vim destruir a lei</a></p>
-      <p><a href="#ese-1-02">1-02. 🗂️ Meu Reino não é deste mundo</a></p>
-      <p><a href="#ese-1-03">1-03. 🗂️ Há muitas moradas na casa de meu Pai</a></p>
-      <p><a href="#ese-1-04">1-04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer
-          de novo</a></p>
-      <p><a href="#ese-1-05">1-05. 🗂️ Bem-aventurados os aflitos</a></p>
-      <p><a href="#ese-1-06">1-06. 🗂️ O Cristo Consolador</a></p>
-      <p><a href="#ese-1-07">1-07. 🗂️ Bem-aventurados os pobres de espírito</a></p>
-      <p><a href="#ese-1-08">1-08. 🗂️ Bem-aventurados os que têm puro o coração</a></p>
-      <p><a href="#ese-1-09">1-09. 🗂️ Bem-aventurados os que são brandos e pacíficos</a></p>
-      <p><a href="#ese-1-10">1-10. 🗂️ Bem-aventurados os que são misericordiosos</a></p>
-      <p><a href="#ese-1-11">1-11. 🗂️ Amar o próximo como a si mesmo</a></p>
-      <p><a href="#ese-1-12">1-12. 🗂️ Amai os vossos inimigos</a></p>
-      <p><a href="#ese-1-13">1-13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa
-          mão direita</a></p>
-      <p><a href="#ese-1-14">1-14. 🗂️ Honrai a vosso pai e a vossa mãe</a></p>
-      <p><a href="#ese-1-15">1-15. 🗂️ Fora da caridade não há salvação</a></p>
-      <p><a href="#ese-1-16">1-16. 🗂️ Não se pode servir a Deus e a Mamon</a></p>
-      <p><a href="#ese-1-17">1-17. 🗂️ Sede perfeitos</a></p>
-      <p><a href="#ese-1-18">1-18. 🗂️ Muitos os chamados, poucos os escolhidos</a></p>
-      <p><a href="#ese-1-19">1-19. 🗂️ A fé transporta montanhas</a></p>
-      <p><a href="#ese-1-20">1-20. 🗂️ Os trabalhadores da última hora</a></p>
-      <p><a href="#ese-1-21">1-21. 🗂️ Haverá falsos cristos e falsos profetas</a></p>
-      <p><a href="#ese-1-22">1-22. 🗂️ Não separeis o que Deus juntou</a></p>
-      <p><a href="#ese-1-23">1-23. 🗂️ Estranha moral</a></p>
-      <p><a href="#ese-1-24">1-24. 🗂️ Não ponhais a candeia debaixo do alqueire</a></p>
-      <p><a href="#ese-1-25">1-25. 🗂️ Buscai e achareis</a></p>
-      <p><a href="#ese-1-26">1-26. 🗂️ Dai gratuitamente o que gratuitamente recebestes</a></p>
-      <p><a href="#ese-1-27">1-27. 🗂️ Pedi e obtereis</a></p>
-      <p><a href="#ese-1-28">1-28. 🗂️ Coletânea de preces espíritas</a></p>
-    </details>
-    <br>
-    <details class="ff-mono fs-4">
-      <summary class="ff-mono ml-0">2. 🗃️ Pós-textual</summary>
-      <p><a href="#ese-2-01">2-01. 📄 Nota explicativa</a></p>
-      <p><a href="#ese-2-02">2-02. 🏷️ Índice geral</a></p>
-      <p><a href="#ese-2-03">2-03. ✏️ Notas de rodapé</a></p>
-    </details>
-    <br>
+    <p class="sidebar-heading">{{ page.title }}</p>
+
+    {% include toc.html html=content h_min=2 h_max=3 item_class="toc" %}
 
     <!-- COL1 LINKS -->
-    <details>
+    <details open>
       <summary class="sidebar-heading"><span class="emoji">📚</span> Obras básicas</summary>
       <p><a href="./1lde.html" title="O Livro dos Espíritos">👻 O Livro dos Espíritos</a></p>
       <p><a href="./2ldm.html" title="O Livro dos Médiuns"><span class="emoji">✒️</span> O Livro dos Médiuns</a></p>
-      <p><a href="./3ese.html" title="O Evangelho segundo o Espiritismo"><span class="emoji">🕊️</span> O Evangelho</a></p>
+      <p><a href="./3ese.html" title="O Evangelho segundo o Espiritismo"><span class="emoji">🕊️</span> O Evangelho</a>
+      </p>
       <p><a href="./4ceu.html" title="O Céu e o Inferno"><span class="emoji">🔥</span> Céu e Inferno</a></p>
       <p><a href="./5gen.html" title="A Gênese"><span class="emoji">🌱</span> A Gênese</a></p>
     </details><br>
@@ -143,22 +97,24 @@
 
       <!-- COL1 REPO -->
       <p class="sidebar-heading"><span class="emoji">🖥️</span> Código fonte</p>
-      <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório"><span class="emoji">📦</span> Repositório</a>
+      <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="repositório"><span
+            class="emoji">📦</span> Repositório</a>
       </p>
-      <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros"><span class="emoji">🐛</span> Falhas de
+      <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="erros"><span
+            class="emoji">🐛</span> Falhas de
           Código</a></p>
 
       <!-- STATS -->
       <div style="cursor: default !important">
         <p class="sidebar-heading">⌨️ Detalhes</p>
         <p><span class="emoji">💾</span> Versão <kbd>23.12.22</kbd></p>
-        <p><span class="emoji">🗓️</span> Atualizado em {{ "today" | date: "%b-%y" }}</p>
+        <p><span class="emoji">🗓️</span> Atualizado em {{ "today" | date: "%b-%Y" }}</p>
         <p><span class="emoji">🛡️</span> <a href="./legal.html">CC BY-NC-SA 4.0</a></p>
       </div>
 
       <!-- COL1 LANG 
-      <p class="sidebar-heading">💬 Idiomas</summary>
-      <p><a target="_self" href="https://en.doutrina.org/" title="Inglês Americano">🇺🇸 American English</a></p> -->
+ <p class="sidebar-heading">💬 Idiomas</summary>
+ <p><a target="_self" href="https://en.doutrina.org/" title="Inglês Americano">🇺🇸 American English</a></p> -->
 
       <!-- COL1 PART OF -->
       <p class="sidebar-heading"><span class="emoji">💼</span> Parte de</p>
@@ -236,10 +192,9 @@
   <div id="col2-head" class="head">
     <button id="col2-menu-on" onclick="menuOn()" title="abrir menu"><span class="icon">menu</span></button>
     <button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span class="icon">close</span></button>
-    <a href="./home.html" id="col2-brand"><span class="emoji">💧</span>doutrina.org</a>
+    <a href="./home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
 
-    <!-- 
-<button id="webshare" class="fr" label="compartilhe"><span class="icon">share</span></button> -->
+    <button id="webshare" class="fr" label="compartilhe"><span class="icon">share</span></button>
 
     <button id="col2-fs-btn" class="fr mr-50" onclick="openFullscreen()" title="tela cheia"><span
         class="icon">fullscreen</span></button>
@@ -249,19 +204,16 @@
         class="icon">dark_mode</span></button>
     <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
         class="icon">light_mode</span></button>
+
   </div>
 
   <!-- COL2 BODY -->
   <div id="col2-body">
     {{ content }}
   </div>
-  
+
   <!-- COL3 HEAD -->
   <div id="col3-head" class="head">
-
-    <a id="col3-link4-a" class="fr" target="_blank"
-      href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
-      title="vídeo chamada"><span class="icon">video_call</span></a>
 
     <a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="atlas"><span
         class="icon">location_on</span></a>
@@ -271,6 +223,9 @@
 
     <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia"><span
         class="icon">language</span></a>
+
+    <!-- <a id="col3-link4-a" class="fr" target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514"
+title="vídeo chamada"><span class="icon">video_call</span></a> -->
   </div>
 
   <!-- COL3 BODY -->
@@ -283,7 +238,7 @@
       help
     </span></div>
 
- <!-- SCRIPTS -->
+  <!-- SCRIPTS -->
   <script src="./framework/js/crisp.js"></script>
   <script src="./framework/js/new/check-mode-01.js"></script>
   <script src="./framework/js/new/check-mode-02-03-04.js"></script>
@@ -309,7 +264,8 @@
           ctaBackgroundColor: '#BD1C2B',
           ctaTextColor: 'white',
           selectionFontFamily: 'helvetica, arial, sans serif',
-          annotationFontFamily: 'monospace'
+          annotationFontFamily: 'monospace',
+          height: '90'
         }
       };
     };
@@ -317,12 +273,10 @@
   <script type="application/json" class="js-hypothesis-config">
 {
 "showHighlights": true,
-"openSidebar": false
+"theme": "clean",
 }
 </script>
-
-  <script async src="https://hypothes.is/embed.js"></script>
-
+<script async src="https://hypothes.is/embed.js"></script>
   <div id="alert" class="hide">No celular? Use-o no modo deitado.</div>
 
 </body>
