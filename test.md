@@ -5,29 +5,29 @@ version: 23.12.22
 
 # Admonitions
 
-> ✝️ ▸ Mensagem (*Jesus*) [Jesus](Jesus){:.w}  (Bible)
+> <span class="emoji">✝️</span> ▸ Mensagem (*Jesus*) [Jesus](Jesus){:.w}  (Bible)
 {:.bible}
 
-> ✝️ ▸ Mensagem (*Jesus*) [Deus](Deus){:.w}  (Bible-Multi)
+> <span class="emoji">✝️</span> ▸ Mensagem (*Jesus*) [Deus](Deus){:.w}  (Bible-Multi)
 >
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
 
-> 🏺 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.
+> <span class="emoji">🏺</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.
 {:.greek}
 
 > Grey blockquote - Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do reprehenderit in [voluptate](page.html) velit cupidatat non laborum.
 {:.grey}
 
-> 👻 ▸ Mensagem *Jesus* [link](link.html)  (Spirit)
+> <span class="emoji">👻</span> ▸ Mensagem *Jesus* [link](link.html)  (Spirit)
 {:.spirit}
 
-> 👻 ▸ Mensagem *Jesus* [link](link.html) (Spirit-Multi)
+> <span class="emoji">👻</span> ▸ Mensagem *Jesus* [link](link.html) (Spirit-Multi)
 >
 > Espírito
 {:.spirit-multi}
 
-> 👻 Regular - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna dolor in.
+> <span class="emoji">👻</span> Regular - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna dolor in.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.
 
