@@ -1,1 +1,0 @@
-ps -ef | grep z-serve
