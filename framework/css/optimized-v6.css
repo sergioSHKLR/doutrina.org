@@ -286,7 +286,7 @@ a#col3-link4-a {
 
 #col2-body a:any-link {
   color: inherit;
-  text-decoration: underline 1.5px #1E90FF;
+  text-decoration: underline #1E90FF 1.5px;
   text-underline-offset: 2px
 }
 
@@ -506,7 +506,8 @@ details,
 summary {
   color: currentColor;
   cursor: pointer;
-  list-style-type: none
+  list-style-type: none;
+  text-indent: 5px;
 }
 
 details:active,
@@ -596,7 +597,7 @@ details[open] summary::before {
   box-shadow: none !important
 }
 
-.links-off a {
+.links-off #col2-body a {
   text-decoration: none !important
 }
 
@@ -1015,14 +1016,6 @@ a:any-link {
 
 abbr {
   text-underline-offset: 2px
-}
-
-blockquote a {
-  color: inherit
-}
-
-blockquote a:hover {
-  color: unset
 }
 
 blockquote.bible>p>em {

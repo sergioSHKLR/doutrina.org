@@ -11,9 +11,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <!-- GOOGLE FONTS -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;600;700&display=swap"
+        rel="stylesheet">
 
     <style>
+        :root {
+
+            --border-color-lite: #66666680;
+        }
+
         body {
             margin: 20px 0;
             padding: 0 55px;
@@ -22,19 +28,18 @@
             font-family: 'Roboto Slab', sans-serif;
         }
 
-        h1,
-        h2,
-        h3,
-        h4 {
-            border-bottom: 1px solid #66666680;
+        h1 {
+            border-bottom: 1px solid var(--border-color-lite);
+            line-height: 1.65;
+            font-size: 32px;
             font-weight: 400;
-            margin-bottom: -2px;
         }
 
-        h2,
-        h3,
-        h4 {
+        h2 {
+            border-bottom: 1px solid var(--border-color-lite);
+            line-height: 1.65;
             font-size: 20px;
+            font-weight: 400;
         }
 
         h1:before {
