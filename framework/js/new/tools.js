@@ -51,56 +51,56 @@ function function04() {
 
 function function05() {
     localStorage.setItem("lineHeight", "narrow");
-    var element = document.getElementById("col2-body");
-    element.classList.remove("lh-wide");
-    element.classList.add("lh-narrow");
+    var element05 = document.getElementById("col2-body");
+    element05.classList.remove("lh-wide");
+    element05.classList.add("lh-narrow");
 }
 
 //---------------------------------------------------
 
 function function06() {
     localStorage.setItem("lineHeight", "wide");
-    var element = document.getElementById("col2-body");
-    element.classList.remove("lh-narrow");
-    element.classList.add("lh-wide");
+    var element06 = document.getElementById("col2-body");
+    element06.classList.remove("lh-narrow");
+    element06.classList.add("lh-wide");
 }
 
 //---------------------------------------------------
 
 function function07() {
     localStorage.setItem("backgroundColor", "#ffff001a");
-    var element = document.getElementById("col2-body");
-    element.classList.remove("bg-green");
-    element.classList.remove("bg-pink");
-    element.classList.add("bg-yellow");
+    var element07 = document.getElementById("col2-body");
+    element07.classList.remove("bg-green");
+    element07.classList.remove("bg-pink");
+    element07.classList.add("bg-yellow");
 }
 
 //---------------------------------------------------
 
 function function08() {
     localStorage.setItem("backgroundColor", "#00ff001a");
-    var element = document.getElementById("col2-body");
-    element.classList.remove("bg-yellow");
-    element.classList.remove("bg-pink");
-    element.classList.add("bg-green");
+    var element08 = document.getElementById("col2-body");
+    element08.classList.remove("bg-yellow");
+    element08.classList.remove("bg-pink");
+    element08.classList.add("bg-green");
 }
 
 //---------------------------------------------------
 
 function function09() {
-    localStorage.setItem("backgroundColor", "#fff0f51a");
-    var element = document.getElementById("col2-body");
-    element.classList.remove("bg-yellow");
-    element.classList.remove("bg-green");
-    element.classList.add("bg-pink");
+    localStorage.setItem("backgroundColor", "#ff00001a");
+    var element09 = document.getElementById("col2-body");
+    element09.classList.remove("bg-yellow");
+    element09.classList.remove("bg-green");
+    element09.classList.add("bg-pink");
 }
 
 //---------------------------------------------------
 
 function function10() {
     localStorage.setItem("textDecoration", "none");
-    var element = document.getElementById("col2-body");
-    element.classList.add("links-off");
+    var element10 = document.querySelectorAll("#col2-body a:link");
+    element10.classList.add("links-off");
 }
 
 //---------------------------------------------------

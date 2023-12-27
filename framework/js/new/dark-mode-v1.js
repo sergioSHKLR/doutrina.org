@@ -22,14 +22,6 @@ function lightMode() {
     localStorage.setItem("contrast","light");
 }
 
-function checkMode() {
-    if (localStorage.getItem("contrast") == "dark") {
-      darkMode(); //if dark mode was on, run this function
-    } else {
-      lightMode(); //if dark mode was on, run this function
-    }
-  }
-
 // DARK MODE END
 
 

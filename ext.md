@@ -30,3 +30,4 @@ Os links da coluna principal são abertos aqui. Eles podem ser:
 - <span class="emoji">🗺️</span> mapas de OpenStreetMap (Leaflet) indicando locais citados
 - <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da Wikimedia
 - <span class="emoji">✝️</span> bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com
+

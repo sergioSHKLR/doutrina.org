@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo bundle exec jekyll build --watch --incremental
+sudo bundle exec jekyll build --watch

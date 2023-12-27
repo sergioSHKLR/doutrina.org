@@ -1,11 +1,11 @@
 ---
-title: ❤️ Contribuições
+title: Contribuições
 layout: 0-generic
-version: 23.12.22
+version: 23.12.27
 ---
 
 <style>
-#toc-title {display: none
+#toc-title, li.toc {display: none
 }
 </style>
 

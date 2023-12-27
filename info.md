@@ -1,7 +1,7 @@
 ---
 title: Informações
 layout: 0-generic
-version: 23.12.22
+version: 23.12.27
 ---
 
 # <span class="emoji">📋</span> Informações
@@ -36,7 +36,7 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 <tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #fffce4;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
 <tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #e8fce4;">&nbsp;</span></td><td>Fundo verde</td></tr>
 <tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #fff4fc;">&nbsp;</span></td><td>Fundo rosa</td></tr>
-<tr><td class="center"><span class="icon" style="color: royalblue;">link_off</span></td><td>Esconder links</td></tr>
+<!-- <tr><td class="center"><span class="icon" style="color: royalblue;">link_off</span></td><td>Esconder links</td></tr> -->
 <tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
  </table>  
 

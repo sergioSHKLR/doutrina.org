@@ -1,28 +1,28 @@
 ---
 layout: test
-version: 23.12.22
+version: 23.12.27
 ---
 
 # Admonitions
 
-> <span class="emoji">✝️</span> ▸ Mensagem (*Jesus*) [Jesus](Jesus){:.w}  (Bible)
+> <span class="emoji">✝️</span> ▸ Mensagem *Jesus* [Jesus](Jesus){:.w}  (Bible)
 {:.bible}
 
-> <span class="emoji">✝️</span> ▸ Mensagem (*Jesus*) [Deus](Deus){:.w}  (Bible-Multi)
+> <span class="emoji">✝️</span> ▸ Mensagem *Jesus* [Deus](Deus){:.w}  (Bible-Multi)
 >
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
 
-> <span class="emoji">🏺</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.
+> <span class="emoji">🏺</span> ▸ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.
 {:.greek}
 
-> Grey blockquote - Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do reprehenderit in [voluptate](page.html) velit cupidatat non laborum.
+> Grey blockquote - Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do reprehenderit in voluptate velit cupidatat non laborum.
 {:.grey}
 
-> <span class="emoji">👻</span> ▸ Mensagem *Jesus* [link](link.html)  (Spirit)
+> <span class="emoji">👻</span> ▸ Mensagem *Jesus* (Spirit)
 {:.spirit}
 
-> <span class="emoji">👻</span> ▸ Mensagem *Jesus* [link](link.html) (Spirit-Multi)
+> <span class="emoji">👻</span> ▸ Mensagem *Jesus* (Spirit-Multi)
 >
 > Espírito
 {:.spirit-multi}
@@ -57,3 +57,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [video start end no rel](PKtnafFtfEo?&start=15&end=18&rel=0){:.v}
 
 [video no rel](PKtnafFtfEo?&rel=0){:.v}
+

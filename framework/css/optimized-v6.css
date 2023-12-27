@@ -25,6 +25,7 @@
   --bquote-spirit-bground-dark: hsl(208, 20%, 13%);
   --bquote-spirit-bground-lite: hsl(208, 100%, 97%);
   --bquote-spirit-border: hsl(208, 100%, 65%);
+  --button-width: 50px;
   --column-width-desktop: calc((100vw - 374px) * .5);
   --column-width-tablet: calc((100vw - 24px) * .5);
   --column-width-mobile: calc(100vw - 24px);
@@ -203,12 +204,6 @@ body {
   display: none
 }
 
-#col3-head a {
-  padding: 10px;
-  position: relative;
-  top: 6px
-}
-
 #col4-body {
   border-collapse: collapse;
   box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
@@ -232,7 +227,7 @@ a#col3-link4-a {
   font: 24px Inter;
   height: 40px;
   justify-content: center;
-  padding: 6px;
+  padding: 12px 6px 0px 6px;
   position: relative;
   text-align: center;
   vertical-align: middle;
@@ -414,14 +409,12 @@ a#col3-link4-a {
 
 #col2-body blockquote.grey em {
   color: inherit;
-  font-weight: 700
 }
 
 #col2-body>blockquote.bible,
 #col2-body>blockquote.bible-multi {
   background-color: var(--bquote-bible-bground-lite);
   border-left: 4px solid var(--bquote-bible-border);
-  font-style: italic;
   margin: 10px;
   padding: 1px 20px
 }
@@ -504,6 +497,7 @@ details summary::before {
 
 details,
 summary {
+  background-color: transparent;
   color: currentColor;
   cursor: pointer;
   list-style-type: none;
@@ -512,8 +506,14 @@ summary {
 
 details:active,
 summary:active {
-  outline: none;
-  background-color: none;
+  outline: 0px solid transparent;
+  background-color: transparent;
+}
+
+details:focus,
+summary:focus {
+  outline: 0px solid transparent;
+  background-color: transparent;
 }
 
 details[open] summary::before {
@@ -550,7 +550,6 @@ details[open] summary::before {
 #vert-tools::-webkit-scrollbar {
   display: none
 }
-
 
 #vert-tools button {
   padding: 2px 2px 3px 0px;
@@ -592,12 +591,11 @@ details[open] summary::before {
 }
 
 .bg-pink {
-  background-color: #FFF5EE1a !important;
-  /* background-color: #fff0f522 !important; */
+  background-color: #ff00001a !important;
   box-shadow: none !important
 }
 
-.links-off #col2-body a {
+.links-off a:link {
   text-decoration: none !important
 }
 
@@ -661,7 +659,7 @@ button.tools:hover {
   color: var(--body-color-dark)
 }
 
-.dark-mode blockquote.bible>p>em {
+.dark-mode blockquote>p>em {
   color: var(--jesus-color-dark) !important
 }
 
@@ -787,6 +785,7 @@ button.tools:hover {
     left: 0;
     width: var(--column-width-mobile)
   }
+
 }
 
 @media only screen and (min-width:750px) and (max-width:1005px) {
@@ -812,6 +811,10 @@ button.tools:hover {
   #col3-head,
   #col3-body {
     width: var(--column-width-tablet)
+  }
+
+  #col4-head {
+    left: var(--column-width-tablet);
   }
 }
 
@@ -840,6 +843,7 @@ button.tools:hover {
   #col3-body {
     width: var(--column-width-tablet)
   }
+
 }
 
 @media only screen and (min-width:1463px) and (max-width:1890px) {
@@ -862,6 +866,7 @@ button.tools:hover {
   #col3-body {
     width: var(--column-width-tablet)
   }
+
 }
 
 @media only screen and (min-width:1890px) {
@@ -872,6 +877,7 @@ button.tools:hover {
   #webshare {
     display: none
   }
+
 }
 
 @media only screen and (max-width:749px) and (orientation: portrait) {
@@ -1005,21 +1011,27 @@ a.backlink {
 
 a:active,
 a:focus {
-  background-color: none;
-  outline: none
+  background-color: transparent;
+  outline: transparent
 }
 
 a:any-link {
   color: var(--link-color-lite);
-  outline: 0
+  outline: transparent
 }
 
 abbr {
   text-underline-offset: 2px
 }
 
-blockquote.bible>p>em {
-  color: var(--jesus-color-lite) !important
+blockquote>p>em,
+blockquote.bible>p>em,
+blockquote.bible-multi>p>em,
+blockquote.spirit>p>em,
+blockquote.spirit-multi>p>em,
+blockquote.grey>p>em {
+  color: var(--jesus-color-lite) !important;
+  font-weight: 300 !important;
 }
 
 button {
@@ -1048,10 +1060,6 @@ div#alert {
   text-align: center;
   top: var(--head-height);
   width: calc(100% - 33px)
-}
-
-em {
-  font-style: italic
 }
 
 kbd {
@@ -1107,4 +1115,5 @@ span.emoji {
 }
 
 /* OTHERS END */
+
 /*------------------------------------------------*/
