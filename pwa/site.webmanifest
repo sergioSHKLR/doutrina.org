@@ -504,7 +504,7 @@
       "src": "mobile.png",
       "sizes": "496x944",
       "type": "image/png"
-    },
+    }
   ],
   "features": [
     "cross platform",

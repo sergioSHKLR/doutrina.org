@@ -1,7 +1,7 @@
 ---
 title: O Céu e o Inferno
 layout: 4-ceu
-version: 23.12.22
+version: 23.12.27
 ---
 
 *[LDE]: O Livro dos Espíritos
