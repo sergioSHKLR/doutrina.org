@@ -28,7 +28,7 @@ version: 23.12.27
 ><br>
 > Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por [Espíritos](Espírito){:.w} superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.  
 ><br>
-> por [Allan Kardec](Allan%20Kardec){:.l} (👴🏻)  
+> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>)  
 ><br>
 > Tradução de [Guillon Ribeiro](Guillon_Ribeiro){:.w}
 ><br>
@@ -87,7 +87,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 <span class="emoji">🏷️</span> Allan Kardec, conselhos a  <a href="#allan-kardec">↩️</a><br>
 </details>
 
-### 📑 Introdução {#lde-0-03}
+### <span class="emoji">📄</span> Introdução {#lde-0-03}
 
 #### <span class="emoji">📄</span> Intro 01 {#lde-0-03-01}
 
@@ -346,7 +346,7 @@ Julgar a questão dos [Espíritos](Espírito){:.w} por esses fatos seria tão po
 
 Perguntam eles: os [Espíritos](Espírito){:.w} de escol descem até nós? Responderemos: Não fiqueis no [subúrbio](subúrbio){:.d}; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de [Jesus](Jesus){:.w}:
 
-> ✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
+> <span class="emoji">✝️</span> ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 13](Mateus_13){:.w}, [vers. 14](MAT.13.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
@@ -365,7 +365,7 @@ Esquisito é, acrescentam, que só se fale dos [Espíritos](Espírito){:.w} de p
 
 Acham também singular que os [Espíritos](Espírito){:.w} dos homens [eminentes](eminente){:.d} acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma [supremacia](supremacia){:.d} lhes dá no mundo espírita. Nisto, os [Espíritos](Espírito){:.w} confirmam estas palavras do [Evangelho](Evangelho){:.w}:
 
-> ✝️ ▸ *E o que a si mesmo se [exaltar](exaltar){:.d} será humilhado; e o que a si mesmo se humilhar será exaltado.* 
+> <span class="emoji">✝️</span> ▸ *E o que a si mesmo se [exaltar](exaltar){:.d} será humilhado; e o que a si mesmo se humilhar será exaltado.* 
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC] 
 {:.bible-multi}
@@ -474,7 +474,7 @@ A [ciência](Ciência){:.w} espírita compreende duas partes: experimental uma, 
 
 Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo){:.d}, sondando o espaço, encontraram, na distribuição dos corpos celestes, [lacunas](lacuna){:.d} não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja causa lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma [causa](Causalidade){:.w}. Julgando então da causa pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este [raciocínio](Raciocínio_lógico){:.w} a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a matéria bruta até o homem mais inteligente. Entre o homem e [Deus](Deus){:.l}, porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A [razão](Razão){:.w} nos diz que entre o homem e [Deus](Deus){:.l} outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que [filosofia](Filosofia){:.w} já preencheu essa lacuna? O [Espiritismo](Espiritismo){:.l} no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os [Espíritos](Espírito){:.w} dos homens, nos diferentes graus que levam à [perfeição](Perfeição){:.w}. Tudo então se liga, tudo se encadeia, desde o [alfa até o ômega](Alfa_e_ómega){:.w}. Vós, que negais a existência dos [Espíritos](Espírito){:.w}, cumulai o [vácuo](Vácuo){:.w} que eles ocupam. E vós, que rides deles, ousai rir das obras de [Deus](Deus){:.l} e da sua [onipotência](Omnipotência){:.w}!
 
-<p class="ff-gv fs-lg" style="text-align: right;">👴🏻 ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
+<p class="ff-gv fs-lg" style="text-align: right;"> <span class="emoji">👴🏻</span> ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
@@ -987,7 +987,7 @@ Como criou [Deus](Deus){:.l} o Universo?
 
 > <span class="emoji">👻</span> ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa [vontade](Vontade){:.w} onipotente do que estas belas palavras:
 >  
-> ✝️ ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC]
 
 ###### Q.39 {#q39}
 
@@ -2170,7 +2170,7 @@ Por demônios, segundo a [acepção](acepção){:.d} vulgar da palavra, se enten
 
 A primeira condição de toda [doutrina](doutrina){:.d} é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de [Deus](Deus){:.l}, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de [Deus](Deus){:.l} suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do [Cristo](Cristo){:.w}. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 
-> ✝️ ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
+> <span class="emoji">✝️</span> ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 24](Mateus_24){:.w}, [vers. 29 e 34](MAT.24.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
@@ -3643,7 +3643,7 @@ Vimos de apreciar a [alma](Alma){:.l} com relação ao seu passado e ao seu pres
 
 Haverá alguma [doutrina](doutrina){:.d} capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de [Deus](Deus){:.l}. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a [doutrina](doutrina){:.d} da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela [doutrina](doutrina){:.d} é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma [religião](Religião){:.w} que proclama ser [Deus](Deus){:.l} a bondade e a [razão](Razão){:.w} por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da [ciência](Ciência){:.w}, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma [religião](Religião){:.w} fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta [doutrina](doutrina){:.d} e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da [doutrina](doutrina){:.d} das vidas sucessivas, separa a [religião](Religião){:.w} e que a esta não faria aquela [doutrina](doutrina){:.d} maior mal do que lhe fizeram as descobertas do movimento da [Terra](Terra){:.w} e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:  
 
-> ✝️ ▸ E, descendo eles do monte, [Jesus](Jesus){:.w} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus](Jesus){:.w}, respondendo, disse-lhes: *Em [verdade](Verdade){:.w} Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
+> <span class="emoji">✝️</span> ▸ E, descendo eles do monte, [Jesus](Jesus){:.w} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus](Jesus){:.w}, respondendo, disse-lhes: *Em [verdade](Verdade){:.w} Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 17](Mateus_17){:.w}, [vers. 09 a 13](MAT.17.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
@@ -3660,7 +3660,7 @@ Reconheçamos, portanto, em resumo, que só a [doutrina](doutrina){:.d} da plura
 
 As próprias palavras de [Jesus](Jesus){:.w} não permitem [dúvida](Dúvida){:.w} a tal respeito:
 
-> ✝️ ▸ Respondendo a Nicodemos, disse [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de [Deus](Deus){:.l}.*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem não renascer da água e do [Espírito](Espírito){:.w}, não poderá entrar no Reino de [Deus](Deus){:.l}. O que é nascido da carne é carne e o que é nascido do [Espírito](Espírito){:.w} é [Espírito](Espírito){:.w}. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
+> <span class="emoji">✝️</span> ▸ Respondendo a Nicodemos, disse [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de [Deus](Deus){:.l}.*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem não renascer da água e do [Espírito](Espírito){:.w}, não poderá entrar no Reino de [Deus](Deus){:.l}. O que é nascido da carne é carne e o que é nascido do [Espírito](Espírito){:.w} é [Espírito](Espírito){:.w}. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
 >  
 > João, cap. 3, vers. 3-7, [ARC][ARC]
 {:.bible-multi}
@@ -4437,7 +4437,7 @@ Como devemos entender essa elevação e esse rebaixamento?
 
 > <span class="emoji">👻</span> ▸ Não sabes que os [Espíritos](Espírito){:.w} são de diferentes ordens, conforme seus méritos? Pois bem! O maior da [Terra](Terra){:.w} pode pertencer à última categoria entre os [Espíritos](Espírito){:.w}, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse [Jesus](Jesus){:.w}: 
 >  
-> ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC]
 
 ###### Q.276 {#q276}
 
@@ -6847,7 +6847,7 @@ Por que meio podemos neutralizar a influência dos maus [Espíritos](Espírito){
 
 > <span class="emoji">👻</span> ▸ Praticando o bem e pondo em [Deus](Deus){:.l} toda a vossa confiança, repelireis a influência dos [Espíritos](Espírito){:.w} inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos [Espíritos](Espírito){:.w} que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a [razão](Razão){:.w} por que [Jesus](Jesus){:.w}, na oração dominical, vos ensinou a dizer:
 >  
-> ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 
 ###### Q.470 {#q470}
 
@@ -9002,7 +9002,7 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 
 > <span class="emoji">👻</span> ▸ [Jesus](Jesus){:.w} disse:
 >  
-> ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 12](MAT.7.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 12](MAT.7.ARC){:.b}, [ARC][ARC]
 
 ###### Q.633 {#q633}
 
@@ -9145,7 +9145,7 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 
 > <span class="emoji">👻</span> ▸ O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem [Deus](Deus){:.l} o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o [Jesus](Jesus){:.w}, a propósito do óbolo da viúva. 
 >  
-> ✝️ ▸ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4, [ARC][ARC]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
@@ -9391,7 +9391,7 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 
 > <span class="emoji">👻</span> ▸ Aos homens disse o [Cristo](Cristo){:.w}:
 >  
-> ✝️ ▸ *Amarás o teu próximo como a ti mesmo.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *Amarás o teu próximo como a ti mesmo.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o [Criador](Deus){:.l}, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do [Espírito](Espírito){:.w}, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma [alma](Alma){:.l} simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa [alma](Alma){:.l} lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o [amor](Amor){:.w} que o [Cristo](Cristo){:.w} recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de [amor](Amor){:.w} e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do [Espírito](Espírito){:.w}. [^16]
 
@@ -10623,11 +10623,11 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 
 ###### Q.764 {#q764}
 
-Disse [Jesus](Jesus){:.w}: ✝️ ▸ *todos os que lançarem mão da espada à espada morrerão.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 26](Mateus_26){:.w}, [vers. 51-52](MAT.26.ARC){:.b}, [ARC][ARC] Estas palavras não consagram a pena de talião e, assim, a [morte](Morte){:.w} dada ao assassino não constitui uma aplicação dessa pena?
+Disse [Jesus](Jesus){:.w}: <span class="emoji">✝️</span> ▸ *todos os que lançarem mão da espada à espada morrerão.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 26](Mateus_26){:.w}, [vers. 51-52](MAT.26.ARC){:.b}, [ARC][ARC] Estas palavras não consagram a pena de talião e, assim, a [morte](Morte){:.w} dada ao assassino não constitui uma aplicação dessa pena?
 
 > <span class="emoji">👻</span> ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus](Deus){:.l}. É [Deus](Deus){:.l} quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus](Jesus){:.w}. Não vos disse Ele também:
 >  
-> ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 14](MAT.6.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 14](MAT.6.ARC){:.b}, [ARC][ARC]
 >
 > E não vos ensinou a pedir a [Deus](Deus){:.l} que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?
 
@@ -11359,7 +11359,7 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que [Jesus](Jesus){:.w} disse:
 
-> ✝️ ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus](Deus){:.l}.*
+> <span class="emoji">✝️</span> ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus](Deus){:.l}.*
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 19](Mateus_19){:.w}, [vers. 24](MAT.19.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
@@ -12017,7 +12017,7 @@ No que concerne à [morte](Morte){:.w} é que o homem se acha submetido, em abso
 
 Segundo a [doutrina](doutrina){:.d} vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a [Doutrina](Espiritismo){:.l} Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a [Doutrina](Espiritismo){:.l} Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a [Deus](Deus){:.l} a força necessária e reclamando, para tal fim, a assistência dos bons [Espíritos](Espírito){:.w}. Foi o que [Jesus](Jesus){:.w} nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos:
 
-> ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
+> <span class="emoji">✝️</span> ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
@@ -12080,7 +12080,7 @@ Posto de parte o direito que a lei humana consagra, qual a base da justiça, seg
 
 > <span class="emoji">👻</span> ▸ Disse o [Cristo](Cristo){:.w}:
 >  
-> ✝️ ▸ *Queira cada um para os outros o que quereria para si mesmo.* (Livro, cap. X, vers. Y)
+> <span class="emoji">✝️</span> ▸ *Queira cada um para os outros o que quereria para si mesmo.* (Livro, cap. X, vers. Y)
 >
 > No coração do homem imprimiu [Deus](Deus){:.l} a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria [consciência](Consciência){:.w} não lhe podia [Deus](Deus){:.l} haver dado.
 >
@@ -12154,11 +12154,11 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 
 > <span class="emoji">👻</span> ▸ Não disse [Deus](Deus){:.l}:
 >
-> ✝️ ▸ Não furtarás. (Êxodo, cap. 20, vers. 15, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ Não furtarás. (Êxodo, cap. 20, vers. 15, [ARC][ARC]
 >
 > E [Jesus](Jesus){:.w} não disse: 
 >
-> ✝️ ▸ *Dai, pois, a César o que é de César e a [Deus](Deus){:.l}, o que é de [Deus](Deus){:.l}.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 21](MAT.22.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *Dai, pois, a César o que é de César e a [Deus](Deus){:.l}, o que é de [Deus](Deus){:.l}.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 21](MAT.22.ARC){:.b}, [ARC][ARC]
 >
 >O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -12220,7 +12220,7 @@ Qual o verdadeiro sentido da palavra caridade, como a entendia [Jesus](Jesus){:.
 
 O [amor](Amor){:.w} e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de [Jesus](Jesus){:.w}:
 
-> ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
+> <span class="emoji">✝️</span> ▸ *Amarás o teu próximo como a ti mesmo.*
 >  
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
@@ -12233,7 +12233,7 @@ A caridade, segundo [Jesus](Jesus){:.w}, não se restringe à esmola, abrange to
 
 ###### Q.887 {#q887}
 
-[Jesus](Jesus){:.w} também disse: ✝️ ▸ *Amai a vossos inimigos* ( [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 44](MAT.5.ARC){:.b}, [ARC][ARC] ) Ora, o [amor](Amor){:.w} aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os [Espíritos](Espírito){:.w}?
+[Jesus](Jesus){:.w} também disse: <span class="emoji">✝️</span> ▸ *Amai a vossos inimigos* ( [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 44](MAT.5.ARC){:.b}, [ARC][ARC] ) Ora, o [amor](Amor){:.w} aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os [Espíritos](Espírito){:.w}?
 
 > <span class="emoji">👻</span> ▸ Certo, ninguém pode votar aos seus inimigos um [amor](Amor){:.w} terno e apaixonado. Não foi isso o que [Jesus](Jesus){:.w} entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
@@ -12260,7 +12260,7 @@ Dar-se-á reproveis a esmola?
 > A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 Lembrai-vos também de que, aos olhos de [Deus](Deus){:.l}, a ostentação tira o mérito ao benefício. Disse [Jesus](Jesus){:.w}:
 >
-> ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 03](MAT.6.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 03](MAT.6.ARC){:.b}, [ARC][ARC]
 >
 > Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
 >
@@ -12448,7 +12448,7 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 
 > <span class="emoji">👻</span> ▸ Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de [Jesus](Jesus){:.w}:
 >
-> ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 3](MAT.7.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 3](MAT.7.ARC){:.b}, [ARC][ARC]
 
 ###### Q.904 {#q904}
 
@@ -12764,7 +12764,7 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 
 > <span class="emoji">👻</span> ▸ Os males deste mundo estão na [razão](Razão){:.w} das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. [Deus](Deus){:.l} algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de [Jesus](Jesus){:.w}:
 >
-> ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 04](MAT.5.ARC){:.b}, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 04](MAT.5.ARC){:.b}, [ARC][ARC]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Aflição, desejo e  <a href="#aflicao">↩️</a><br>
@@ -13887,7 +13887,7 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 
 > <span class="emoji">👻</span> ▸ Interrogai o vosso bom senso, a vossa [razão](Razão){:.w} e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de [Deus](Deus){:.l}. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por causa de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do Universo um [Deus](Deus){:.l} terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o [Deus](Deus){:.l} dos cristãos, que classifica como virtudes primordiais o amor, a caridade, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a [verdade](Verdade){:.w} desta sentença:
 > 
-> ✝️ ▸ *A cada um segundo as suas obras.* (Romanos, cap. 2, vers. 6, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ *A cada um segundo as suas obras.* (Romanos, cap. 2, vers. 6, [ARC][ARC]
 >
 > Santo Agostinho
 {:.spirit-multi}
