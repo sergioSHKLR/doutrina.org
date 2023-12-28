@@ -1,7 +1,7 @@
 {
   "name": "doutrina.org",
   "short_name": "doutrina",
-  "description": "versão 23.12.22",
+  "description": "versão 23.12.27",
   "theme_color": "#F0FAFF",
   "background_color": "#222222",
   "display": "fullscreen",
@@ -491,10 +491,20 @@
   ],
   "screenshots": [
     {
-      "src": "mobile.png",
-      "sizes": "1180x621",
+      "src": "desktop.png",
+      "sizes": "1918x944",
       "type": "image/png"
-    }
+    },
+  {
+      "src": "tablet.png",
+      "sizes": "958x944",
+      "type": "image/png"
+    },
+  {
+      "src": "mobile.png",
+      "sizes": "496x944",
+      "type": "image/png"
+    },
   ],
   "features": [
     "cross platform",
