@@ -20,21 +20,21 @@ version: 23.12.27
 ### <span class="emoji">📄</span> Folha de rosto {#lde-0-01}
 
 ><br>
->[Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l}  
+>[Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l} 
 ><br>
-> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}  
+> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} 
 ><br>
-> Princípios da [Doutrina](Espiritismo){:.l} Espírita  
+> Princípios da [Doutrina](Espiritismo){:.l} Espírita 
 ><br>
-> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por [Espíritos](Espírito){:.w} superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.  
+> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por [Espíritos](Espírito){:.w} superiores com o concurso de diversos [médiuns](Mediunidade){:.w}. 
 ><br>
-> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>)  
+> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>) 
 ><br>
 > Tradução de [Guillon Ribeiro](Guillon_Ribeiro){:.w}
 ><br>
 >Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}
 ><br>
-> Modificado para o consumo digital por Sergio de  
+> Modificado para o consumo digital por Sergio de 
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"} 
 ><br>
 {:.grey-center}
@@ -83,8 +83,8 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 {:.spirit}
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Allan Kardec, assistência espiritual a  <a href="#allan-kardec">↩️</a><br>
-<span class="emoji">🏷️</span> Allan Kardec, conselhos a  <a href="#allan-kardec">↩️</a><br>
+<span class="emoji">🏷️</span> Allan Kardec, assistência espiritual a <a href="#allan-kardec">↩️</a><br>
+<span class="emoji">🏷️</span> Allan Kardec, conselhos a <a href="#allan-kardec">↩️</a><br>
 </details>
 
 ### <span class="emoji">📄</span> Introdução {#lde-0-03}
@@ -96,7 +96,7 @@ Para se designarem coisas novas são precisos termos novos. Assim o exige a clar
 Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} contém a [Doutrina Espírita](Espiritismo){:.l}; como generalidade, prende-se à [doutrina](doutrina){:.d} **espiritualista**, uma de cujas fases apresenta. Essa a [razão](Razão){:.w} por que traz no cabeçalho do seu título as palavras: **[Filosofia](Filosofia){:.w} espiritualista**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 02 {#lde-0-03-02}
@@ -126,8 +126,8 @@ Julgamos dever insistir nestas explicações pela [razão](Razão){:.w} de que a
 Passemos agora ao objeto principal desta instrução preliminar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, conceito espírita de  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, conceitos de  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, conceito espírita de <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, conceitos de <a href="#alma">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 03 {#lde-0-03-03}
@@ -157,7 +157,7 @@ Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstân
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro [escamoteador](escamoteado){:.d} um sábio professor de [Física](Física){:.w} a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso [razão](Razão){:.w} para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero [gracejo](gracejo){:.d}? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão [fastidioso](fastidioso){:.d} para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais [austeras](austero){:.d}, [veneráveis](veneração){:.d} e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 04 {#lde-0-03-04}
@@ -181,7 +181,7 @@ O objeto a que se adapta o lápis, não passando de mero instrumento, completame
 A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de [médiuns](Mediunidade){:.w}, isto é — meios ou intermediários entre os [Espíritos](Espírito){:.w} e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há [médiuns](Mediunidade){:.w} de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ação, dos mortos como força invisível  <a href="#acao">↩️</a>
+<span class="emoji">🏷️</span> Ação, dos mortos como força invisível <a href="#acao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 05 {#lde-0-03-05}
@@ -199,7 +199,7 @@ Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossa
 Muitas teorias foram [engendradas](engendrar){:.d} a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres [distintos](distinto){:.d} dos humanos, pois que esta é a explicação ministrada pelas [Inteligências](Inteligência){:.w} que se manifestam, e vejamos o que eles nos dizem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 06 {#lde-0-03-06}
@@ -226,11 +226,11 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritism
 
 9. há no homem três coisas:
 
-  a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
+ a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
 
-  b) a [alma](Alma){:.l} ou ser imaterial, [Espírito](Espírito){:.w} encarnado no corpo;
+ b) a [alma](Alma){:.l} ou ser imaterial, [Espírito](Espírito){:.w} encarnado no corpo;
 
-  c) o laço que prende a [alma](Alma){:.l} ao corpo, princípio intermediário entre a matéria e o [Espírito](Espírito){:.w};
+ c) o laço que prende a [alma](Alma){:.l} ao corpo, princípio intermediário entre a matéria e o [Espírito](Espírito){:.w};
 
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos [instintos](Instinto){:.w} lhe são comuns; pela alma, participa da natureza dos [Espíritos](Espírito){:.w}; 
 
@@ -285,7 +285,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritism
 Este o resumo da [Doutrina](Espiritismo){:.l} Espírita, como resulta dos ensinamentos dados pelos [Espíritos](Espírito){:.w} superiores. Vejamos agora as objeções que se lhe contrapõem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 07 {#lde-0-03-07}
@@ -307,7 +307,7 @@ Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao 
 O homem que julga infalível a sua [razão](Razão){:.w} está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria [razão](Razão){:.w} e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a [Humanidade](Natureza_humana){:.w} se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama [razão](Razão){:.w} não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a [Deus](Deus){:.l}. Dirigimo-nos, pois, aos [ponderados](ponderação){:.d}, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao [apogeu](apogeu){:.d}, nem que a Natureza lhe tenha facultado ler a última página do seu livro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 08 {#lde-0-03-08}
@@ -319,7 +319,7 @@ O que caracteriza um estudo sério é a [continuidade](continuidade){:.d} que se
 Dissemos que os [Espíritos](Espírito){:.w} superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões [ociosas](ocioso){:.d} os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à [turba](turba){:.d} dos [Espíritos](Espírito){:.w} mentirosos e frívolos, sempre à [espreita](espreita){:.d} de ocasiões [propícias](propiciar){:.d} para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de [doidivanas](doidivanas){:.d}, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas [sisudas](sisudo){:.d}, haveis de comportar-vos com toda a sisudez, na mais ampla [acepção](acepção){:.d} do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os [Espíritos](Espírito){:.w} superiores vos abandonarão, como faz um professor com os [discípulos](discípulo){:.d} [negligentes](negligente){:.d}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 09 {#lde-0-03-09}
@@ -333,7 +333,7 @@ Que respondem a essa [evidência](evidência){:.d} os [antagonistas](antagonista
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a [Doutrina](Espiritismo){:.l} Espírita, que já conta milhões de adeptos, só os recruta entre os ignorantes? Os [fenônemo](fenómeno){:.d} em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a [pretensão](pretensão){:.d} de alguns incrédulos, a de terem o [monopólio](monopólio){:.d} do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com [desplante](desplante){:.d}, de [ineptos](inepto){:.d} os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma [presunção](presunção){:.d}, no mínimo, a seu favor, visto ter [logrado](lograr){:.d} prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com [futilidades](futilidade){:.d}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Autenticidade, fenômeno espírita e  <a href="#autenticidade">↩️</a>
+<span class="emoji">🏷️</span> Autenticidade, fenômeno espírita e <a href="#autenticidade">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 10 {#lde-0-03-10}
@@ -347,7 +347,7 @@ Julgar a questão dos [Espíritos](Espírito){:.w} por esses fatos seria tão po
 Perguntam eles: os [Espíritos](Espírito){:.w} de escol descem até nós? Responderemos: Não fiqueis no [subúrbio](subúrbio){:.d}; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de [Jesus](Jesus){:.w}:
 
 > <span class="emoji">✝️</span> ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
->  
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 13](Mateus_13){:.w}, [vers. 14](MAT.13.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
@@ -356,7 +356,7 @@ Como variante dessa opinião, temos a dos que não veem, nas comunicações esp�
 Efetivamente, como acreditar que [Deus](Deus){:.l} só ao [Espírito](Espírito){:.w} do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons [Espíritos](Espírito){:.w}? Se Ele não o pode fazer, não é [onipotente](onipotente){:.d}; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam [blasfemas](blasfêmia){:.d}. Note-se que admitir a comunicação dos maus [Espíritos](Espírito){:.w} é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de [Deus](Deus){:.l}. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante [doutrina](doutrina){:.d} é contrária às mais simples noções do bom senso e da [religião](Religião){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 11 {#lde-0-03-11}
@@ -366,14 +366,14 @@ Esquisito é, acrescentam, que só se fale dos [Espíritos](Espírito){:.w} de p
 Acham também singular que os [Espíritos](Espírito){:.w} dos homens [eminentes](eminente){:.d} acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma [supremacia](supremacia){:.d} lhes dá no mundo espírita. Nisto, os [Espíritos](Espírito){:.w} confirmam estas palavras do [Evangelho](Evangelho){:.w}:
 
 > <span class="emoji">✝️</span> ▸ *E o que a si mesmo se [exaltar](exaltar){:.d} será humilhado; e o que a si mesmo se humilhar será exaltado.* 
->  
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC] 
 {:.bible-multi}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na [Terra](Terra){:.w} pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso [monarca](monarca){:.d} pode achar-se lá muito abaixo do último dos seus soldados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 12 {#lde-0-03-12}
@@ -395,7 +395,7 @@ Inegavelmente a substituição dos [Espíritos](Espírito){:.w} pode dar lugar a
 Não sendo [lícito](lícito){:.d} provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de [matizes](matiz){:.d} característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 13 {#lde-0-03-13}
@@ -411,7 +411,7 @@ A contradição, demais, nem sempre é tão [real](Realidade){:.w} quanto possa 
 Tomemos, por exemplo, a definição de [alma](Alma){:.l}. Carecendo este termo de uma [acepção](acepção){:.d} invariável, compreende-se que os [Espíritos](Espírito){:.w}, como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da [vida](Vida){:.w}, outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu [ponto de vista](ponto_de_vista){:.d}. Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **[Deus](Deus){:.l}**. Será: o princípio de todas as coisas, o criador do [Universo](Universo){:.w}, a [inteligência](Inteligência){:.w} suprema, o infinito, o grande [Espírito](Espírito){:.w} etc. Em definitiva, será sempre [Deus](Deus){:.l}. Citemos, finalmente, a classificação dos [Espíritos](Espírito){:.w}. Eles formam uma série ininterrupta, desde o mais [ínfimo](ínfimo){:.d} grau até o grau superior. A classificação é, pois, [arbitrária](arbitrário){:.d}. Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a [Botânica](Botânica){:.w} pelo sistema de [Linneu](Lineu){:.w}, ou pelo de [Jussieu](Antoine_Laurent_de_Jussieu){:.w}, ou pelo de [Tournefort](Joseph_Pitton_de_Tournefort){:.w}, nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma [similitude](similitude){:.d} que escapara a um primeiro exame.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 14 {#lde-0-03-14}
@@ -419,7 +419,7 @@ Tomemos, por exemplo, a definição de [alma](Alma){:.l}. Carecendo este termo d
 Passaríamos brevemente pela objeção que fazem alguns [céticos](cético){:.d}, a propósito das faltas ortográficas que certos [Espíritos](Espírito){:.w} cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é [irreprochável](irreprochável){:.d}, mas grande escassez de razões seria [mister](mister){:.d} para se fazer disso objeto de [crítica](Crítica){:.w} séria, dizendo que, visto saberem tudo, os [Espíritos](Espírito){:.w} devem saber ortografia. Poderíamos opor-lhes os múltiplos [pecados](Pecado){:.w} desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o [mérito](mérito){:.d}. Há, porém, no fato, uma questão mais grave. Para os [Espíritos](Espírito){:.w}, principalmente para os [Espíritos](Espírito){:.w} superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à [vontade](Vontade){:.w} hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os [Espíritos](Espírito){:.w} liguem pouca importância à [puerilidade](pueril){:.d} da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso [purista](purista){:.d}, **a despeito da ignorância do médium**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 15 {#lde-0-03-15}
@@ -435,7 +435,7 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as [d
 Cumpre também colocar entre as causas da [loucura](Loucura){:.w} o pavor, sendo que o do [diabo](Diabo){:.w} já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis [pormenores](pormenor){:.d}? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las [ajuizadas](ajuizar){:.d}. Sim, é, do mesmo modo que o [papão](Bicho-papão){:.w} e o [lobisomem](Lobisomem){:.w}. Quando, porém, elas deixam de ter [medo](Medo){:.w}, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras [epilepsias](Epilepsia){:.w} causadas pelo abalo de cérebros delicados. Bem frágil seria a [religião](Religião){:.w} se, por não [infundir](infundir){:.d} terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o [Espiritismo](Espiritismo){:.l} lhe faculta, desde que ela os saiba utilizar. Ele mostra a [realidade](Realidade){:.w} das coisas e só com isso neutraliza os [funestos](funesto){:.d} efeitos de um temor exagerado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 16 {#lde-0-03-16}
@@ -463,7 +463,7 @@ A esse argumento [retrucam](retrucar){:.d} os [adversários](adversário){:.d}, 
 Perguntaremos, finalmente, por que os [Espíritos](Espírito){:.w} vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem [súplicas](súplica){:.d} que os façam voltar? Se o [médium](Mediunidade){:.w} obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a [clarividência](Clarividência){:.w}. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria [vontade](Vontade){:.w} dele, é que o [médium](Mediunidade){:.w} obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 17 {#lde-0-03-17}
@@ -477,7 +477,7 @@ Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo)
 <p class="ff-gv fs-lg" style="text-align: right;"> <span class="emoji">👴🏻</span> ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ## 1. <span class="emoji">🗃️</span> Causas Primárias {#lde-1}
@@ -493,7 +493,7 @@ O que é [Deus](Deus){:.l}?
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} é a [inteligência](Inteligência){:.w} suprema, causa primária de todas as coisas. [^4], [^5]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.2 {#q2}
@@ -503,7 +503,7 @@ Que se deve entender por infinito?
 > <span class="emoji">👻</span> ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.3 {#q3}
@@ -525,7 +525,7 @@ Onde se pode encontrar a prova da existência de [Deus](Deus){:.l}?
 Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de [Deus](Deus){:.l} é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.5 {#q5}
@@ -535,7 +535,7 @@ Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem
 > <span class="emoji">👻</span> ▸ A de que [Deus](Deus){:.l} existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.6 {#q6}
@@ -547,7 +547,7 @@ O sentimento íntimo que temos da existência de [Deus](Deus){:.l} não poderia 
 Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.7 {#q7}
@@ -559,7 +559,7 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.8 {#q8}
@@ -573,7 +573,7 @@ A harmonia existente no mecanismo do Universo patenteia combinações e desígni
 Um acaso [inteligente](Inteligência){:.w} já não seria acaso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.9 {#q9}
@@ -587,7 +587,7 @@ O poder de uma [inteligência](Inteligência){:.w} se julga pelas suas obras. N�
 Quaisquer que sejam os prodígios que a [inteligência](Inteligência){:.w} humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela [inteligência](Inteligência){:.w} superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Atributos da Divindade {#lde-1-01-03}
@@ -599,7 +599,7 @@ Pode o homem compreender a natureza íntima de [Deus](Deus){:.l}?
 > <span class="emoji">👻</span> ▸ Não; falta-lhe para isso o sentido.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.11 {#q11}
@@ -611,7 +611,7 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de [Deus](Deus){:.l}. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.12 {#q12}
@@ -621,7 +621,7 @@ Embora não possamos compreender a natureza íntima de [Deus](Deus){:.l}, podemo
 > <span class="emoji">👻</span> ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.13 {#q13}
@@ -643,7 +643,7 @@ Quando dizemos que [Deus](Deus){:.l} é eterno, infinito, imutável, imaterial, 
 **É soberanamente justo e bom.** A [sabedoria](Sabedoria){:.w} providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa [sabedoria](Sabedoria){:.w} não permite se duvide nem da Justiça nem da Bondade de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Panteísmo {#lde-1-01-04}
@@ -655,7 +655,7 @@ Quando dizemos que [Deus](Deus){:.l} é eterno, infinito, imutável, imaterial, 
 > <span class="emoji">👻</span> ▸ Se fosse assim, [Deus](Deus){:.l} não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. [Deus](Deus){:.l} existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.15 {#q15}
@@ -665,7 +665,7 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 > <span class="emoji">👻</span> ▸ Não podendo fazer-se [Deus](Deus){:.l}, o homem quer ao menos ser uma parte de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.16 {#q16}
@@ -679,7 +679,7 @@ Esta [doutrina](doutrina){:.d} faz de [Deus](Deus){:.l} um ser material que, emb
 A [inteligência](Inteligência){:.w} de [Deus](Deus){:.l} se revela em suas obras como a de um pintor no seu quadro; mas, as obras de [Deus](Deus){:.l} não são o próprio [Deus](Deus){:.l}, como o quadro não é o pintor que o concebeu e executou.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 1-02. <span class="emoji">🗂️</span> Elementos gerais do Universo {#lde-1-02}
@@ -693,7 +693,7 @@ A [inteligência](Inteligência){:.w} de [Deus](Deus){:.l} se revela em suas obr
 > <span class="emoji">👻</span> ▸ Não, [Deus](Deus){:.l} não permite que ao homem tudo seja revelado neste mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.18 {#q18}
@@ -703,7 +703,7 @@ Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 > <span class="emoji">👻</span> ▸ O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.19 {#q19}
@@ -715,7 +715,7 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](Sabedoria){:.w} do [Criador](Deus){:.l} . Entretanto, seja por orgulho, seja por fraqueza, sua própria [inteligência](Inteligência){:.w} o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.20 {#q20}
@@ -727,7 +727,7 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Espírito e matéria {#lde-1-02-02}
@@ -745,7 +745,7 @@ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos 
 > <span class="emoji">👻</span> ▸ Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.22.a {#q22a}
@@ -757,7 +757,7 @@ Que definição podeis dar da matéria?
 Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.23 {#q23}
@@ -767,7 +767,7 @@ Que é o espírito?
 > <span class="emoji">👻</span> ▸ O princípio [inteligente](Inteligência){:.w} do Universo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.23.a {#q23a}
@@ -777,7 +777,7 @@ Qual a natureza íntima do espírito?
 > <span class="emoji">👻</span> ▸ Não é fácil analisar o [espírito](Espírito){:.w} com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.24 {#q24}
@@ -787,7 +787,7 @@ Qual a natureza íntima do espírito?
 > <span class="emoji">👻</span> ▸ A [inteligência](Inteligência){:.w} é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.25 {#q25}
@@ -797,7 +797,7 @@ O [espírito](Espírito){:.w} independe da matéria, ou é apenas uma propriedad
 > <span class="emoji">👻</span> ▸ São distintos uma do outro; mas a união do [espírito](Espírito){:.w} e da matéria é necessária para intelectualizar a matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.25.a {#q25a}
@@ -807,7 +807,7 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 > <span class="emoji">👻</span> ▸ É necessária a vós outros, porque não tendes organização apta a perceber o [espírito](Espírito){:.w} sem a matéria. A isto não são apropriados os vossos sentidos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.26 {#q26}
@@ -817,7 +817,7 @@ Poder-se-á conceber o [espírito](Espírito){:.w} sem a matéria e a matéria s
 > <span class="emoji">👻</span> ▸ Pode-se, é fora de dúvida, pelo pensamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.27 {#q27}
@@ -827,7 +827,7 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 > <span class="emoji">👻</span> ▸ Sim e acima de tudo [Deus](Deus){:.l}, o [Criador](Deus){:.l} , o Pai de todas as coisas. [Deus](Deus){:.l}, [espírito](Espírito){:.w} e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o [espírito](Espírito){:.w} e a matéria propriamente dita, por demais grosseira para que o [espírito](Espírito){:.w} possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão](Razão){:.w} não haveria para que também o [espírito](Espírito){:.w} não o fosse. Está colocado entre o [espírito](Espírito){:.w} e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o [espírito](Espírito){:.w} se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.27.a {#q27a}
@@ -837,7 +837,7 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 > <span class="emoji">👻</span> ▸ Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.28 {#q28}
@@ -851,7 +851,7 @@ Um fato patente domina todas as hipóteses: vemos matéria destituída de [intel
 A essa [inteligência](Inteligência){:.w} suprema é que chamamos [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Propriedades da matéria {#lde-1-02-03}
@@ -871,7 +871,7 @@ A matéria é formada de um só ou de muitos elementos?
 > <span class="emoji">👻</span> ▸ De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.31 {#q31}
@@ -881,7 +881,7 @@ Donde se originam as diversas propriedades da matéria?
 > <span class="emoji">👻</span> ▸ São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.32 {#q32}
@@ -893,7 +893,7 @@ De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as 
 A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.33 {#q33}
@@ -905,7 +905,7 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.33.a {#q33a}
@@ -915,7 +915,7 @@ Não parece que esta teoria dá [razão](Razão){:.w} aos que não admitem na ma
 > <span class="emoji">👻</span> ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.34 {#q34}
@@ -925,7 +925,7 @@ As moléculas têm forma determinada?
 > <span class="emoji">👻</span> ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.34.a {#q34a}
@@ -935,7 +935,7 @@ Essa forma é constante ou variável?
 > <span class="emoji">👻</span> ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Espaço universal {#lde-1-02-04}
@@ -949,7 +949,7 @@ O Espaço universal é infinito ou limitado?
 Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a [razão](Razão){:.w} diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.36 {#q36}
@@ -959,7 +959,7 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 > <span class="emoji">👻</span> ▸ Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 1-03. <span class="emoji">🗂️</span> Criação {#lde-1-03}
@@ -978,7 +978,7 @@ O Universo foi criado, ou existe de toda a eternidade, como [Deus](Deus){:.l}?
 Diz-nos a [razão](Razão){:.w} não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.38 {#q38}
@@ -986,7 +986,7 @@ Diz-nos a [razão](Razão){:.w} não ser possível que o Universo se tenha feito
 Como criou [Deus](Deus){:.l} o Universo?
 
 > <span class="emoji">👻</span> ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa [vontade](Vontade){:.w} onipotente do que estas belas palavras:
->  
+> 
 > <span class="emoji">✝️</span> ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC]
 
 ###### Q.39 {#q39}
@@ -996,7 +996,7 @@ Poderemos conhecer o modo de formação dos mundos?
 > <span class="emoji">👻</span> ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.40 {#q40}
@@ -1006,7 +1006,7 @@ Serão os cometas, como agora se pensa, um começo de condensação da matéria,
 > <span class="emoji">👻</span> ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos [fenônemo](fenómeno){:.d} físicos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.41 {#q41}
@@ -1016,7 +1016,7 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 > <span class="emoji">👻</span> ▸ Sim, [Deus](Deus){:.l} renova os mundos, como renova os seres vivos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.42 {#q42}
@@ -1026,7 +1026,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 > <span class="emoji">👻</span> ▸ Nada te posso dizer a respeito, porque só o [Criador](Deus){:.l} o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Formação dos seres vivos {#lde-1-03-02}
@@ -1038,7 +1038,7 @@ Quando começou a [Terra](Terra){:.w} a ser povoada?
 > <span class="emoji">👻</span> ▸ No começo tudo era caos; os elementos estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.44 {#q44}
@@ -1048,7 +1048,7 @@ Donde vieram para a [Terra](Terra){:.w} os seres vivos?
 > <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.45 {#q45}
@@ -1060,7 +1060,7 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio latente de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de [Deus](Deus){:.l}? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é [verdade](Verdade){:.w}, a questão da origem dos elementos vitais; mas [Deus](Deus){:.l} tem seus mistérios e pôs limites às nossas investigações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.46 {#q46}
@@ -1070,7 +1070,7 @@ Ainda há seres que nasçam espontaneamente?
 > <span class="emoji">👻</span> ▸ Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.47 {#q47}
@@ -1080,7 +1080,7 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 > <span class="emoji">👻</span> ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.48 {#q48}
@@ -1090,7 +1090,7 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 > <span class="emoji">👻</span> ▸ Não; todos os vossos cálculos são quiméricos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.49 {#q49}
@@ -1100,7 +1100,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 > <span class="emoji">👻</span> ▸ O princípio das coisas está nos segredos de [Deus](Deus){:.l}. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Povoamento da Terra. Adão {#lde-1-03-03}
@@ -1112,7 +1112,7 @@ A espécie humana começou por um único homem?
 > <span class="emoji">👻</span> ▸ Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adão, povoamento da Terra e  <a href="#adao">↩️</a>
+<span class="emoji">🏷️</span> Adão, povoamento da Terra e <a href="#adao">↩️</a>
 </details>
 
 ###### Q.51 {#q51}
@@ -1124,7 +1124,7 @@ Poderemos saber em que época viveu Adão?
 O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do [Cristo](Cristo){:.w}, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na [Terra](Terra){:.w} senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adão, notícia histórica sobre  <a href="#adao">↩️</a>
+<span class="emoji">🏷️</span> Adão, notícia histórica sobre <a href="#adao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Diversidade das raças humanas {#lde-1-03-04}
@@ -1136,7 +1136,7 @@ Donde provêm as diferenças físicas e morais que distinguem as raças humanas 
 > <span class="emoji">👻</span> ▸ Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.53 {#q53}
@@ -1146,7 +1146,7 @@ O homem surgiu em muitos pontos do globo?
 > <span class="emoji">👻</span> ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.53.a {#q53a}
@@ -1162,7 +1162,7 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 > <span class="emoji">👻</span> ▸ Todos os homens são irmãos em [Deus](Deus){:.l}, porque são animados pelo [espírito](Espírito){:.w} e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Pluralidade dos mundos {#lde-1-03-05}
@@ -1176,7 +1176,7 @@ São habitados todos os globos que se movem no Espaço?
 [Deus](Deus){:.l} povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da [sabedoria](Sabedoria){:.w} de [Deus](Deus){:.l}, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.56 {#q56}
@@ -1186,7 +1186,7 @@ São habitados todos os globos que se movem no Espaço?
 > <span class="emoji">👻</span> ▸ Não; de modo algum se assemelham.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.57 {#q57}
@@ -1196,7 +1196,7 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 > <span class="emoji">👻</span> ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.58 {#q58}
@@ -1208,7 +1208,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem [dúvida](Dúvida){:.w} contêm elementos que desconhecemos. Não vemos na [Terra](Terra){:.w} as longas noites polares iluminadas pela [eletricidade](Eletricidade){:.w} das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na [Terra](Terra){:.w} e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
@@ -1232,7 +1232,7 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adão, criação dos mundos e  <a href="#adao">↩️</a>
+<span class="emoji">🏷️</span> Adão, criação dos mundos e <a href="#adao">↩️</a>
 </details>
 
 ### 1-04. <span class="emoji">🗂️</span> Princípio Vital {#lde-1-04}
@@ -1249,7 +1249,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 > <span class="emoji">👻</span> ▸ Sim, a lei de atração é a mesma para todos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.61 {#q61}
@@ -1259,7 +1259,7 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 > <span class="emoji">👻</span> ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.62 {#q62}
@@ -1269,7 +1269,7 @@ Qual a causa da animalização da matéria?
 > <span class="emoji">👻</span> ▸ Sua união com o princípio vital.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.63 {#q63}
@@ -1279,14 +1279,14 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 > <span class="emoji">👻</span> ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.64 {#q64}
 
 Vimos que o [espírito](Espírito){:.w} e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 
-> <span class="emoji">👻</span> ▸ É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio.  
+> <span class="emoji">👻</span> ▸ É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q680">Q.680</a>
@@ -1296,7 +1296,7 @@ Vimos que o [espírito](Espírito){:.w} e a matéria são dois elementos constit
 
 Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
 
-> <span class="emoji">👻</span> ▸ Isto é consequência do que dissemos.  
+> <span class="emoji">👻</span> ▸ Isto é consequência do que dissemos. 
 
 ###### Q.65 {#q65}
 
@@ -1305,7 +1305,7 @@ O princípio vital reside em algum dos corpos que conhecemos?
 > <span class="emoji">👻</span> ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o [espírito](Espírito){:.w} e a matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.66 {#q66}
@@ -1315,7 +1315,7 @@ O princípio vital é um só para todos os seres orgânicos?
 > <span class="emoji">👻</span> ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.67 {#q67}
@@ -1325,7 +1325,7 @@ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pe
 > <span class="emoji">👻</span> ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.67.a {#q67a}
@@ -1337,7 +1337,7 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> A vida e a morte {#lde-1-04-02}
@@ -1349,7 +1349,7 @@ Qual a causa da [morte](Morte){:.w} dos seres orgânicos?
 > <span class="emoji">👻</span> ▸ Esgotamento dos órgãos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.68.a {#q68a}
@@ -1359,7 +1359,7 @@ Poder-se-ia comparar a [morte](Morte){:.w} à cessação do movimento de uma má
 > <span class="emoji">👻</span> ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.69 {#q69}
@@ -1369,7 +1369,7 @@ Por que uma lesão do coração mais depressa causa a [morte](Morte){:.w} do que
 > <span class="emoji">👻</span> ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.70 {#q70}
@@ -1393,7 +1393,7 @@ A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conse
 O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Inteligência e instinto {#lde-1-04-03}
@@ -1406,16 +1406,16 @@ A [inteligência](Inteligência){:.w} é atributo do princípio vital?
 
 A [inteligência](Inteligência){:.w} é uma faculdade especial, peculiar a algumas classes de seres orgânicos e que lhes dá, com o pensamento, a [vontade](Vontade){:.w} de atuar, a [consciência](Consciência){:.w} de que existem e de que constituem uma individualidade cada um, assim como os meios de estabelecerem relações com o mundo exterior e de proverem às suas necessidades.
 
-Podem distinguir-se assim:  
+Podem distinguir-se assim: 
 
-  a) os seres inanimados, constituídos só de matéria, sem vitalidade nem [inteligência](Inteligência){:.w}: são os corpos brutos;  
+ a) os seres inanimados, constituídos só de matéria, sem vitalidade nem [inteligência](Inteligência){:.w}: são os corpos brutos; 
 
-  b) os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de [inteligência](Inteligência){:.w};  
+ b) os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de [inteligência](Inteligência){:.w}; 
 
-  c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio [inteligente](Inteligência){:.w} que lhes outorga a faculdade de pensar.
+ c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio [inteligente](Inteligência){:.w} que lhes outorga a faculdade de pensar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.72 {#q72}
@@ -1425,7 +1425,7 @@ Qual a fonte da [inteligência](Inteligência){:.w}?
 > <span class="emoji">👻</span> ▸ Já o dissemos; a [inteligência](Inteligência){:.w} universal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.72.a {#q72a}
@@ -1435,7 +1435,7 @@ Poder-se-ia dizer que cada ser tira uma porção de [inteligência](Inteligênci
 > <span class="emoji">👻</span> ▸ Isto não passa de simples comparação, todavia inexata, porque a [inteligência](Inteligência){:.w} é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.73 {#q73}
@@ -1445,7 +1445,7 @@ O instinto independe da [inteligência](Inteligência){:.w}?
 > <span class="emoji">👻</span> ▸ Precisamente, não, por isso que o instinto é uma espécie de [inteligência](Inteligência){:.w}. É uma [inteligência](Inteligência){:.w} sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.74 {#q74}
@@ -1455,7 +1455,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a [inteligência](
 > <span class="emoji">👻</span> ▸ Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da [inteligência](Inteligência){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.75 {#q75}
@@ -1465,7 +1465,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a [inteligência](
 > <span class="emoji">👻</span> ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.75.a {#q75a}
@@ -1479,7 +1479,7 @@ O instinto é uma [inteligência](Inteligência){:.w} rudimentar, que difere da 
 O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a [consciência](Consciência){:.w} e a percepção das coisas exteriores, ele se alia à [inteligência](Inteligência){:.w}, isto é, à [vontade](Vontade){:.w} e à liberdade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ## 2. <span class="emoji">🗃️</span> Mundo Espírita {#lde-2}
@@ -1497,7 +1497,7 @@ Que definição se pode dar dos [Espíritos](Espírito){:.w}?
 📝 Nota – A palavra **Espírito** é empregada aqui para designar as individualidades dos seres extracorpóreos e não mais o elemento [inteligente](Inteligência){:.w} do Universo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.77 {#q77}
@@ -1507,7 +1507,7 @@ Os [Espíritos](Espírito){:.w} são seres distintos da Divindade ou serão simp
 > <span class="emoji">👻</span> ▸ Meu [Deus](Deus){:.l}! São obra de [Deus](Deus){:.l}, exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a [Deus](Deus){:.l}: somos seus filhos, pois que somos obra sua.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.78 {#q78}
@@ -1517,7 +1517,7 @@ Os [Espíritos](Espírito){:.w} tiveram princípio ou existem, como [Deus](Deus)
 > <span class="emoji">👻</span> ▸ Se não tivessem tido princípio, seriam iguais a [Deus](Deus){:.l}, quando, ao invés, são criação sua e se acham submetidos à sua vontade. [Deus](Deus){:.l} existe de toda a eternidade, é incontestável. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo eterno, [Deus](Deus){:.l} há de ter sempre criado ininterruptamente. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.79 {#q79}
@@ -1527,7 +1527,7 @@ Pois que há dois elementos gerais no Universo: o elemento [inteligente](Intelig
 > <span class="emoji">👻</span> ▸ Evidentemente. Os [Espíritos](Espírito){:.w} são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.80 {#q80}
@@ -1537,7 +1537,7 @@ A criação dos [Espíritos](Espírito){:.w} é permanente ou só se deu na orig
 > <span class="emoji">👻</span> ▸ É permanente. Quer dizer: [Deus](Deus){:.l} jamais deixou de criar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.81 {#q81}
@@ -1547,7 +1547,7 @@ Os [Espíritos](Espírito){:.w} se formam espontaneamente ou procedem uns dos ou
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} os cria, como a todas as outras criaturas, pela sua vontade. Mas repito ainda uma vez, a origem deles é mistério.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.82 {#q82}
@@ -1559,7 +1559,7 @@ Será certo dizer-se que os [Espíritos](Espírito){:.w} são imateriais?
 Dizemos que os [Espíritos](Espírito){:.w} são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.83 {#q83}
@@ -1569,7 +1569,7 @@ Os [Espíritos](Espírito){:.w} têm fim? Compreende-se que seja eterno o princ�
 > Há muitas coisas que não compreendeis, porque tendes limitada a [inteligência](Inteligência){:.w}. Isso, porém, não é [razão](Razão){:.w} para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos [Espíritos](Espírito){:.w} não tem fim. É tudo o que podemos, por agora, dizer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Mundo normal primitivo {#lde-2-01-02}
@@ -1581,14 +1581,14 @@ Os [Espíritos](Espírito){:.w} constituem um mundo à parte, fora daquele que v
 > <span class="emoji">👻</span> ▸ Sim, o mundo dos [Espíritos](Espírito){:.w} ou das inteligências incorpóreas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.85 {#q85}
 
 Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?
 
-> <span class="emoji">👻</span> ▸ O mundo espírita, que preexiste e sobrevive a tudo.  
+> <span class="emoji">👻</span> ▸ O mundo espírita, que preexiste e sobrevive a tudo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q738a">Q.738a</a>
@@ -1601,7 +1601,7 @@ O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso 
 > <span class="emoji">👻</span> ▸ Decerto. Eles são independentes; contudo, é incessante a correlação entre ambos, porquanto um sobre o outro incessantemente reagem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.87 {#q87}
@@ -1611,7 +1611,7 @@ Ocupam os [Espíritos](Espírito){:.w} uma região determinada e circunscrita no
 > <span class="emoji">👻</span> ▸ Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os [Espíritos](Espírito){:.w} são uma das potências da natureza e os instrumentos de que [Deus](Deus){:.l} se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Forma e ubiquidade dos Espíritos {#lde-2-01-03}
@@ -1623,7 +1623,7 @@ Os [Espíritos](Espírito){:.w} têm forma determinada, limitada e constante?
 > <span class="emoji">👻</span> ▸ Para vós, não; para nós, sim. O [Espírito](Espírito){:.w} é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.88.a {#q88a}
@@ -1635,7 +1635,7 @@ Essa chama ou centelha tem cor?
 Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos [Espíritos](Espírito){:.w}. Colocam-na no alto da cabeça, porque aí está a sede da [inteligência](Inteligência){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.89 {#q89}
@@ -1645,7 +1645,7 @@ Os [Espíritos](Espírito){:.w} gastam algum tempo para percorrer o Espaço?
 > <span class="emoji">👻</span> ▸ Sim, mas fazem-no com a rapidez do pensamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.89.a {#q89a}
@@ -1655,7 +1655,7 @@ O pensamento não é a própria [alma](Alma){:.l} que se transporta?
 > <span class="emoji">👻</span> ▸ Quando o pensamento está em alguma parte, a [alma](Alma){:.l} também aí está, pois que é a [alma](Alma){:.l} que pensa. O pensamento é um atributo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, pensamento e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, pensamento e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.90 {#q90}
@@ -1665,7 +1665,7 @@ O [Espírito](Espírito){:.w} que se transporta de um lugar a outro tem [consci�
 > <span class="emoji">👻</span> ▸ Dá-se uma e outra coisa. O [Espírito](Espírito){:.w} pode perfeitamente, se o quiser, inteirar-se da distância que percorre, mas também essa distância pode desaparecer completamente, dependendo isso da sua vontade, bem como da sua natureza mais ou menos depurada.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.91 {#q91}
@@ -1675,14 +1675,14 @@ A matéria opõe obstáculo aos [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Nenhum; eles passam através de tudo. O ar, a terra, as águas e até mesmo o fogo lhes são igualmente acessíveis.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.92 {#q92}
 
 Têm os [Espíritos](Espírito){:.w} o dom da ubiquidade? Por outras palavras: um [Espírito](Espírito){:.w} pode dividir-se, ou existir em muitos pontos ao mesmo tempo?
 
-> <span class="emoji">👻</span> ▸ Não pode haver divisão de um mesmo [Espírito](Espírito){:.w}, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um [Espírito](Espírito){:.w} em muitos lugares ao mesmo tempo. Vês o Sol? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide.  
+> <span class="emoji">👻</span> ▸ Não pode haver divisão de um mesmo [Espírito](Espírito){:.w}, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um [Espírito](Espírito){:.w} em muitos lugares ao mesmo tempo. Vês o Sol? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q247">Q.247</a>
@@ -1697,7 +1697,7 @@ Todos os [Espíritos](Espírito){:.w} irradiam com igual força?
 Cada [Espírito](Espírito){:.w} é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos [Espíritos](Espírito){:.w}. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Perispírito {#lde-2-01-04}
@@ -1711,7 +1711,7 @@ O [Espírito](Espírito){:.w}, propriamente dito, nenhuma cobertura tem ou, como
 Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar [perispírito](Perispírito){:.w}, serve de envoltório ao [Espírito](Espírito){:.w} propriamente dito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.94 {#q94}
@@ -1721,7 +1721,7 @@ De onde tira o [Espírito](Espírito){:.w} o seu invólucro semimaterial?
 > <span class="emoji">👻</span> ▸ Do fluido universal de cada globo, [razão](Razão){:.w} por que não é idêntico em todos os mundos. Passando de um mundo a outro, o [Espírito](Espírito){:.w} muda de envoltório, como mudais de roupa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.94.a {#q94a}
@@ -1731,7 +1731,7 @@ Assim, quando os [Espíritos](Espírito){:.w} que habitam mundos superiores vêm
 > <span class="emoji">👻</span> ▸ É necessário que se revistam da vossa matéria, já o dissemos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.95 {#q95}
@@ -1741,7 +1741,7 @@ O invólucro semimaterial do [Espírito](Espírito){:.w} tem formas determinadas
 > <span class="emoji">👻</span> ▸ Tem a forma que o [Espírito](Espírito){:.w} queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Diferentes ordens de Espíritos {#lde-2-01-05}
@@ -1753,7 +1753,7 @@ São iguais os [Espíritos](Espírito){:.w}, ou há entre eles qualquer hierarqu
 > <span class="emoji">👻</span> ▸ São de diferentes ordens, conforme o grau de perfeição que tenham alcançado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.97 {#q97}
@@ -1763,7 +1763,7 @@ As ordens ou graus de perfeição dos [Espíritos](Espírito){:.w} são em núme
 > <span class="emoji">👻</span> ▸ São ilimitadas em número, porque entre elas não há linhas de demarcação traçadas como barreiras, de sorte que as divisões podem ser multiplicadas ou restringidas livremente. Todavia, considerando-se os caracteres gerais dos [Espíritos](Espírito){:.w}, elas podem reduzir-se a três principais. Na primeira, colocar-se-ão os que atingiram a perfeição máxima: os puros [Espíritos](Espírito){:.w}. Formam a segunda os que chegaram ao meio da escala: o desejo do bem é o que neles predomina. Pertencerão à terceira os que ainda se acham na parte inferior da escala: os [Espíritos](Espírito){:.w} imperfeitos. A ignorância, o desejo do mal e todas as paixões más que lhes retardam o progresso, eis o que os caracteriza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.98 {#q98}
@@ -1773,7 +1773,7 @@ Os [Espíritos](Espírito){:.w} da segunda ordem, para os quais o bem constitui 
 > <span class="emoji">👻</span> ▸ Cada um deles dispõe desse poder, de acordo com o grau de perfeição a que chegou. Assim, uns possuem a [ciência](Ciência){:.w}, outros a [sabedoria](Sabedoria){:.w} e a bondade. Todos, porém, ainda têm que sofrer provas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.99 {#q99}
@@ -1783,7 +1783,7 @@ Os da terceira ordem são todos essencialmente maus?
 > <span class="emoji">👻</span> ▸ Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Escala espírita {#lde-2-01-06}
@@ -1803,7 +1803,7 @@ Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivado
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de [confiança](confiança){:.d} ou de estima que mereçam. É, de certo modo, a chave da [ciência](Ciência){:.w} espírita, porquanto só ele pode explicar as [anomalias](anomalia){:.d} que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos [Espíritos](Espírito){:.w}. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre [gradual](gradual){:.d} o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> 3ª ordem – Espíritos imperfeitos {#lde-2-01-07}
@@ -1827,7 +1827,7 @@ Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa 
 Podem compor cinco classes principais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.102 {#q102}
@@ -1843,7 +1843,7 @@ Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nom
 Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.103 {#q103}
@@ -1853,7 +1853,7 @@ Nona classe. [Espíritos](Espírito){:.w} levianos. — São ignorantes, malicio
 Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.104 {#q104}
@@ -1861,7 +1861,7 @@ Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, 
 Oitava classe. [Espíritos](Espírito){:.w} pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.105 {#q105}
@@ -1869,7 +1869,7 @@ Oitava classe. [Espíritos](Espírito){:.w} pseudossábios. — Dispõem de conh
 Sétima classe. [Espíritos](Espírito){:.w} neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à [inteligência](Inteligência){:.w}. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.106 {#q106}
@@ -1879,7 +1879,7 @@ Sexta classe. [Espíritos](Espírito){:.w} batedores e perturbadores. — Estes 
 Todos os [Espíritos](Espírito){:.w} podem produzir tais [fenômenos](fenómeno){:.d}, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da [inteligência](Inteligência){:.w}; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> 2ª ordem – Bons Espíritos {#lde-2-01-08}
@@ -1903,7 +1903,7 @@ Podem ser divididos em quatro grupos principais:
 Quinta classe. [Espíritos](Espírito){:.w} benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.109 {#q109}
@@ -1911,7 +1911,7 @@ Quinta classe. [Espíritos](Espírito){:.w} benévolos. — A bondade é neles a
 Quarta classe. [Espíritos](Espírito){:.w} sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a [ciência](Ciência){:.w} do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos [Espíritos](Espírito){:.w} imperfeitos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.110 {#q110}
@@ -1919,7 +1919,7 @@ Quarta classe. [Espíritos](Espírito){:.w} sábios. — Distinguem-se especialm
 Terceira classe. [Espíritos](Espírito){:.w} de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.111 {#q111}
@@ -1929,7 +1929,7 @@ Segunda classe. [Espíritos](Espírito){:.w} superiores. — Esses em si reúnem
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a [Humanidade](Natureza_humana){:.w} pode aspirar neste mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> 1ª ordem – Espíritos puros {#lde-2-01-09}
@@ -1939,7 +1939,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos [Espíritos](Espírito){:.w} das outras ordens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.113 {#q113}
@@ -1949,7 +1949,7 @@ Primeira classe. Classe única. — Os [Espíritos](Espírito){:.w} que a compõ
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de [Deus](Deus){:.l}, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os [Espíritos](Espírito){:.w} que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à [expiação](Expiação){:.l} das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Progressão dos Espíritos {#lde-2-01-10}
@@ -1961,14 +1961,14 @@ Os [Espíritos](Espírito){:.w} são bons ou maus por natureza, ou são eles mes
 > <span class="emoji">👻</span> ▸ São os próprios [Espíritos](Espírito){:.w} que se melhoram e, melhorando-se, passam de uma ordem inferior para outra mais elevada.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.115 {#q115}
 
 Dos [Espíritos](Espírito){:.w}, uns terão sido criados bons e outros maus?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} criou todos os [Espíritos](Espírito){:.w} simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da [verdade](Verdade){:.w}, para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade. Passando pelas provas que [Deus](Deus){:.l} lhes impõe é que os [Espíritos](Espírito){:.w} adquirem aquele conhecimento. Uns aceitam submissos essas provas e chegam mais depressa à meta que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da perfeição e da prometida felicidade.  
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} criou todos os [Espíritos](Espírito){:.w} simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da [verdade](Verdade){:.w}, para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade. Passando pelas provas que [Deus](Deus){:.l} lhes impõe é que os [Espíritos](Espírito){:.w} adquirem aquele conhecimento. Uns aceitam submissos essas provas e chegam mais depressa à meta que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da perfeição e da prometida felicidade. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q634">Q.634</a>
@@ -1981,7 +1981,7 @@ Segundo o que acabais de dizer, os [Espíritos](Espírito){:.w}, em sua origem, 
 > <span class="emoji">👻</span> ▸ Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos [Espíritos](Espírito){:.w} se prolonga ao infinito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.116 {#q116}
@@ -2000,7 +2000,7 @@ Depende dos [Espíritos](Espírito){:.w} o progredirem mais ou menos rapidamente
 
 Podem os [Espíritos](Espírito){:.w} degenerar?
 
-> <span class="emoji">👻</span> ▸ Não; à medida que avançam, compreendem o que os distanciava da perfeição. Concluindo uma prova, o [Espírito](Espírito){:.w} fica com a [ciência](Ciência){:.w} que daí lhe veio e não a esquece. Pode permanecer estacionário, mas não retrograda.  
+> <span class="emoji">👻</span> ▸ Não; à medida que avançam, compreendem o que os distanciava da perfeição. Concluindo uma prova, o [Espírito](Espírito){:.w} fica com a [ciência](Ciência){:.w} que daí lhe veio e não a esquece. Pode permanecer estacionário, mas não retrograda. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q612">Q.612</a>
@@ -2012,10 +2012,10 @@ Não podia [Deus](Deus){:.l} isentar os [Espíritos](Espírito){:.w} das provas 
 
 > <span class="emoji">👻</span> ▸ Se [Deus](Deus){:.l} os houvesse criado perfeitos, nenhum mérito teriam para gozar dos benefícios dessa perfeição. Onde estaria o merecimento sem a luta? Demais, a desigualdade entre eles existente é necessária às suas personalidades. Acresce ainda que as missões que desempenham nos diferentes graus da escala estão nos desígnios da Providência, para a harmonia do Universo.
 
-Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo.  
+Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-↩️ Voltar para <a href="#q634">Q.634</a>  
+↩️ Voltar para <a href="#q634">Q.634</a> 
 ↩️ Voltar para <a href="#q871">Q.871</a>
 </details>
 
@@ -2026,7 +2026,7 @@ Todos os [Espíritos](Espírito){:.w} passam pela fieira do mal para chegar ao b
 > <span class="emoji">👻</span> ▸ Pela fieira do mal, não; pela fieira da ignorância.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.121 {#q121}
@@ -2036,7 +2036,7 @@ Por que alguns [Espíritos](Espírito){:.w} seguiram o caminho do bem e outros o
 > <span class="emoji">👻</span> ▸ Não têm eles o livre-arbítrio? [Deus](Deus){:.l} não os criou maus; criou-os simples e ignorantes, isto é, tendo tanta aptidão para o bem quanta para o mal. Os que são maus, assim se tornaram por [vontade](Vontade){:.w} própria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.122 {#q122}
@@ -2046,7 +2046,7 @@ Como podem os [Espíritos](Espírito){:.w}, em sua origem, quando ainda não tê
 > <span class="emoji">👻</span> ▸ O livre-arbítrio se desenvolve à medida que o [Espírito](Espírito){:.w} adquire a [consciência](Consciência){:.w} de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.122.a {#q122a}
@@ -2056,7 +2056,7 @@ Donde vêm as influências que sobre ele se exercem?
 > <span class="emoji">👻</span> ▸ Dos [Espíritos](Espírito){:.w} imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.122.b {#q122b}
@@ -2066,7 +2066,7 @@ Tal influência só se exerce sobre o [Espírito](Espírito){:.w} em sua origem?
 > <span class="emoji">👻</span> ▸ Acompanha-o na sua vida de [Espírito](Espírito){:.w}, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.123 {#q123}
@@ -2076,7 +2076,7 @@ Por que há [Deus](Deus){:.l} permitido que os [Espíritos](Espírito){:.w} poss
 > <span class="emoji">👻</span> ▸ Como ousais pedir a [Deus](Deus){:.l} contas de seus atos? Supondes poder penetrar-lhe os desígnios? Podeis, todavia, dizer o seguinte: A [sabedoria](Sabedoria){:.w} de [Deus](Deus){:.l} está na liberdade de escolher que Ele deixa a cada um, porquanto, assim, cada um tem o mérito de suas obras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.124 {#q124}
@@ -2086,7 +2086,7 @@ Pois que há [Espíritos](Espírito){:.w} que desde o princípio seguem o caminh
 > <span class="emoji">👻</span> ▸ Sim, certamente, e os que se acham nos graus intermédios constituem a maioria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.125 {#q125}
@@ -2098,7 +2098,7 @@ Os [Espíritos](Espírito){:.w} que enveredaram pela senda do mal poderão chega
 Por estas palavras – **as eternidades** – se deve entender a ideia que os [Espíritos](Espírito){:.w} inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.126 {#q126}
@@ -2108,7 +2108,7 @@ Chegados ao grau supremo da perfeição, os [Espíritos](Espírito){:.w} que and
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} olha de igual maneira para os que se transviaram e para os outros e a todos ama com o mesmo coração. Aqueles são chamados maus, porque sucumbiram. Antes, não eram mais que simples [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.127 {#q127}
@@ -2120,7 +2120,7 @@ Os [Espíritos](Espírito){:.w} são criados iguais quanto às faculdades intele
 Os [Espíritos](Espírito){:.w} que desde o princípio seguem o caminho do bem nem por isso são [Espíritos](Espírito){:.w} perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há [Espíritos](Espírito){:.w} que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o [Espírito](Espírito){:.w}, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Anjos e demônios {#lde-2-01-11}
@@ -2134,7 +2134,7 @@ Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial
 A palavra **anjo** desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o [anjo](Anjo){:.w} bom e o [anjo](Anjo){:.w} mau; o [anjo](Anjo){:.w} de luz e o [anjo](Anjo){:.w} das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo, demônio e  <a href="#anjo">↩️</a>
+<span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a>
 </details>
 
 ###### Q.129 {#q129}
@@ -2144,8 +2144,8 @@ Os [anjos](Anjo){:.w} hão percorrido todos os graus da escala?
 > <span class="emoji">👻</span> ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à perfeição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo, demônio e  <a href="#anjo">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo, prefeição e  <a href="#anjo">↩️</a>
+<span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo, prefeição e <a href="#anjo">↩️</a>
 </details>
 
 ###### Q.130 {#q130}
@@ -2155,7 +2155,7 @@ Sendo errônea a opinião dos que admitem a existência de seres criados perfeit
 > <span class="emoji">👻</span> ▸ Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia [Espíritos](Espírito){:.w} que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo, demônio e  <a href="#anjo">↩️</a>
+<span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a>
 </details>
 
 ###### Q.131 {#q131}
@@ -2171,7 +2171,7 @@ Por demônios, segundo a [acepção](acepção){:.d} vulgar da palavra, se enten
 A primeira condição de toda [doutrina](doutrina){:.d} é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de [Deus](Deus){:.l}, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de [Deus](Deus){:.l} suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do [Cristo](Cristo){:.w}. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 
 > <span class="emoji">✝️</span> ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
->  
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 24](Mateus_24){:.w}, [vers. 29 e 34](MAT.24.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
@@ -2182,8 +2182,8 @@ Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram 
 Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](Verdade){:.w} etc. Os modernos representaram os anjos, os puros [Espíritos](Espírito){:.w}, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo, alegoria representativa de  <a href="#anjo">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo, demônio e  <a href="#anjo">↩️</a>
+<span class="emoji">🏷️</span> Anjo, alegoria representativa de <a href="#anjo">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a>
 </details>
 
 ### 2-02. <span class="emoji">🗂️</span> Encarnação {#lde-2-02}
@@ -2199,7 +2199,7 @@ Qual o objetivo da encarnação dos [Espíritos](Espírito){:.w}?
 A ação dos seres corpóreos é necessária à marcha do Universo. [Deus](Deus){:.l}, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na Natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.133 {#q133}
@@ -2209,7 +2209,7 @@ Têm necessidade de encarnação os [Espíritos](Espírito){:.w} que, desde o pr
 > <span class="emoji">👻</span> ▸ Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. [Deus](Deus){:.l}, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem mérito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.133.a {#q133a}
@@ -2219,7 +2219,7 @@ Mas, então, de que serve aos [Espíritos](Espírito){:.w} terem seguido o camin
 > <span class="emoji">👻</span> ▸ Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do [Espírito](Espírito){:.w}. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> A alma {#lde-2-02-02}
@@ -2231,8 +2231,8 @@ Que é a alma?
 > <span class="emoji">👻</span> ▸ Um [Espírito](Espírito){:.w} encarnado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, conceitos de  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, conceitos de <a href="#alma">↩️</a>
 </details>
 
 ###### Q.134.a {#q134a}
@@ -2242,8 +2242,8 @@ Que era a [alma](Alma){:.l} antes de se unir ao corpo?
 > <span class="emoji">👻</span> ▸ [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, conceitos de  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, conceitos de <a href="#alma">↩️</a>
 </details>
 
 ###### Q.134.b {#q134b}
@@ -2253,8 +2253,8 @@ As almas e os [Espíritos](Espírito){:.w} são, portanto, idênticos, a mesma c
 > <span class="emoji">👻</span> ▸ Sim, as almas não são senão os [Espíritos](Espírito){:.w}. Antes de se unir ao corpo, a [alma](Alma){:.l} é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, conceitos de  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, conceitos de <a href="#alma">↩️</a>
 </details>
 
 ###### Q.135 {#q135}
@@ -2264,7 +2264,7 @@ Há no homem alguma outra coisa além da [alma](Alma){:.l} e do corpo?
 > <span class="emoji">👻</span> ▸ Há o laço que liga a [alma](Alma){:.l} ao corpo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.135.a {#q135a}
@@ -2275,14 +2275,14 @@ De que natureza é esse laço?
 
 O homem é, portanto, formado de três partes essenciais.
 
-  a) o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital.
+ a) o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital.
 
-  b) a alma, [Espírito](Espírito){:.w} encarnado que tem no corpo a sua habitação.
+ b) a alma, [Espírito](Espírito){:.w} encarnado que tem no corpo a sua habitação.
 
-  c) o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao [Espírito](Espírito){:.w} e liga a [alma](Alma){:.l} ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
+ c) o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao [Espírito](Espírito){:.w} e liga a [alma](Alma){:.l} ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, corpo, perispírito e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, corpo, perispírito e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.136 {#q136}
@@ -2292,7 +2292,7 @@ A [alma](Alma){:.l} independe do princípio vital?
 > <span class="emoji">👻</span> ▸ O corpo não é mais do que envoltório, repetimo-lo constantemente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.136.a {#q136a}
@@ -2302,8 +2302,8 @@ Pode o corpo existir sem a alma?
 > <span class="emoji">👻</span> ▸ Pode; entretanto, desde que cessa a vida do corpo, a [alma](Alma){:.l} o abandona. Antes do nascimento, ainda não há união definitiva entre a [alma](Alma){:.l} e o corpo; enquanto, depois de essa união se haver estabelecido, a [morte](Morte){:.w} do corpo rompe os laços que o prendem à [alma](Alma){:.l} e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a [alma](Alma){:.l} não pode habitar um corpo privado de vida orgânica.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, existência do corpo e  <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, existência do corpo e <a href="#alma">↩️</a><br>
 </details>
 
 ###### Q.136.b {#q136b}
@@ -2313,8 +2313,8 @@ Que seria o nosso corpo, se não tivesse alma?
 > <span class="emoji">👻</span> ▸ Simples massa de carne sem [inteligência](Inteligência){:.w}, tudo o que quiserdes, exceto um homem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, corpo físico e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, corpo físico e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.137 {#q137}
@@ -2324,8 +2324,8 @@ Um [Espírito](Espírito){:.w} pode encarnar a um tempo em dois corpos diferente
 > <span class="emoji">👻</span> ▸ Não, o [Espírito](Espírito){:.w} é indivisível e não pode animar simultaneamente dois seres distintos. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-👉 Veja LDM, Cap. 7  
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+👉 Veja LDM, Cap. 7 
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.138 {#q138}
@@ -2335,8 +2335,8 @@ Que se deve pensar da opinião dos que consideram a [alma](Alma){:.l} o princíp
 > <span class="emoji">👻</span> ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, vida material e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, vida material e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.139 {#q139}
@@ -2347,11 +2347,11 @@ Alguns [Espíritos](Espírito){:.w} e, antes deles, alguns filósofos definiram 
 
 Tudo depende das acepções das palavras. Por que não tendes uma palavra para cada coisa?
 
-O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam [alma](Alma){:.l} ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a [alma](Alma){:.l} é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de [alma](Alma){:.l} e nesta [acepção](acepção){:.d} é que se pode dizer que a [alma](Alma){:.l} é um [Espírito](Espírito){:.w} encarnado. Dando da [alma](Alma){:.l} definições diversas, os [Espíritos](Espírito){:.w} falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os [Espíritos](Espírito){:.w} superiores nos dizem que primeiro nos entendamos acerca das palavras. [^8]  
+O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam [alma](Alma){:.l} ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a [alma](Alma){:.l} é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de [alma](Alma){:.l} e nesta [acepção](acepção){:.d} é que se pode dizer que a [alma](Alma){:.l} é um [Espírito](Espírito){:.w} encarnado. Dando da [alma](Alma){:.l} definições diversas, os [Espíritos](Espírito){:.w} falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os [Espíritos](Espírito){:.w} superiores nos dizem que primeiro nos entendamos acerca das palavras. [^8] 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, conceitos de  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, conceitos de <a href="#alma">↩️</a>
 </details>
 
 ###### Q.140 {#q140}
@@ -2361,8 +2361,8 @@ Que se deve pensar da teoria da [alma](Alma){:.l} subdividida em tantas partes q
 > <span class="emoji">👻</span> ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por [alma](Alma){:.l} o fluido vital, essa teoria tem [razão](Razão){:.w} de ser; se se entende por [alma](Alma){:.l} o [Espírito](Espírito){:.w} encarnado, é errônea. Já dissemos que o [Espírito](Espírito){:.w} é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, teoria da subdivisão da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, teoria da subdivisão da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.140.a {#q140a}
@@ -2374,7 +2374,7 @@ Entretanto, alguns [Espíritos](Espírito){:.w} deram essa definição.
 A [alma](Alma){:.l} atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a [alma](Alma){:.l} o [Espírito](Espírito){:.w} que habita o corpo durante a vida e o deixa por ocasião da morte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.141 {#q141}
@@ -2384,7 +2384,7 @@ Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](Alma){
 > <span class="emoji">👻</span> ▸ A [alma](Alma){:.l} não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a [alma](Alma){:.l} é exterior, sem que por isso constitua o envoltório do corpo. A [alma](Alma){:.l} tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas [perispírito](Perispírito){:.w}; outro, grosseiro, material e pesado, o corpo. A [alma](Alma){:.l} é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, invólucros da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, invólucros da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.142 {#q142}
@@ -2394,7 +2394,7 @@ Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai compl
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela causa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.143 {#q143}
@@ -2404,7 +2404,7 @@ Por que todos os [Espíritos](Espírito){:.w} não definem do mesmo modo a alma?
 > <span class="emoji">👻</span> ▸ Os [Espíritos](Espírito){:.w} não se acham todos esclarecidos igualmente sobre estes assuntos. Há [Espíritos](Espírito){:.w} de [inteligência](Inteligência){:.w} ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há [Espíritos](Espírito){:.w} pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios [Espíritos](Espírito){:.w} esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.144 {#q144}
@@ -2414,9 +2414,9 @@ Que se deve entender por [alma](Alma){:.l} do mundo?
 > <span class="emoji">👻</span> ▸ O princípio universal da vida e da [inteligência](Inteligência){:.w}, do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo [alma](Alma){:.l} é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à [Terra](Terra){:.w} hão atribuído uma alma. Por [alma](Alma){:.l} da [Terra](Terra){:.w} se deve entender o conjunto dos [Espíritos](Espírito){:.w} abnegados, que dirigem para o bem as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de [Deus](Deus){:.l} com relação ao vosso planeta.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, do mundo da Terra  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, elasticidade do termo  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, do mundo da Terra <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, elasticidade do termo <a href="#alma">↩️</a>
 </details>
 
 ###### Q.145 {#q145}
@@ -2426,7 +2426,7 @@ Como se explica que tantos filósofos antigos e modernos, durante tão longo tem
 > <span class="emoji">👻</span> ▸ Esses homens eram os precursores da eterna [Doutrina](Espiritismo){:.l} Espírita, prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a [verdade](Verdade){:.w}, mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
 </details>
 
 ###### Q.146 {#q146}
@@ -2436,7 +2436,7 @@ A [alma](Alma){:.l} tem, no corpo, sede determinada e circunscrita?
 > <span class="emoji">👻</span> ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, sede da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, sede da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.146.a {#q146a}
@@ -2446,7 +2446,7 @@ Que se deve pensar da opinião dos que situam a [alma](Alma){:.l} num centro vit
 > <span class="emoji">👻</span> ▸ Quer isso dizer que o [Espírito](Espírito){:.w} habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da [alma](Alma){:.l} se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, corpo físico e sede da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, corpo físico e sede da <a href="#alma">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Materialismo {#lde-2-02-03}
@@ -2458,7 +2458,7 @@ Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a [ciên
 > <span class="emoji">👻</span> ▸ O fisiologista refere tudo ao que vê. Orgulho dos homens, que julgam saber tudo e não admitem haja coisa alguma que lhes esteja acima do entendimento. A própria [ciência](Ciência){:.w} que cultivam os enche de presunção. Pensam que a Natureza nada lhes pode conservar oculto.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.148 {#q148}
@@ -2476,7 +2476,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A [religião](Religi
 É erro dizê-lo e a missão do [Espiritismo](Espiritismo){:.l} consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O [Espiritismo](Espiritismo){:.l} é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque [Deus](Deus){:.l} o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, questionamentos sobre a  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, questionamentos sobre a <a href="#alma">↩️</a>
 </details>
 
 ### 2-03. <span class="emoji">🗂️</span> Retorno à vida espiritual {#lde-2-03}
@@ -2490,7 +2490,7 @@ Que sucede à [alma](Alma){:.l} no instante da morte?
 > <span class="emoji">👻</span> ▸ Volta a ser [Espírito](Espírito){:.w}, isto é, volve ao mundo dos [Espíritos](Espírito){:.w}, donde se apartara momentaneamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.150 {#q150}
@@ -2500,8 +2500,8 @@ A alma, após a morte, conserva a sua individualidade?
 > <span class="emoji">👻</span> ▸ Sim; jamais a perde. Que seria ela, se não a conservasse?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, individualidade da  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, individualidade da <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.150.a {#q150a}
@@ -2511,7 +2511,7 @@ Como comprova a [alma](Alma){:.l} a sua individualidade, uma vez que não tem ma
 > <span class="emoji">👻</span> ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu [perispírito](Perispírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.150.b {#q150b}
@@ -2521,7 +2521,7 @@ A [alma](Alma){:.l} nada leva consigo deste mundo?
 > <span class="emoji">👻</span> ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.151 {#q151}
@@ -2531,8 +2531,8 @@ Que pensar da opinião dos que dizem que após a [morte](Morte){:.w} a [alma](Al
 > <span class="emoji">👻</span> ▸ O conjunto dos [Espíritos](Espírito){:.w} não forma um todo? não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, todo universal e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, todo universal e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.152 {#q152}
@@ -2548,7 +2548,7 @@ Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, 
 A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da [alma](Alma){:.l} nos era ensinada em teoria, como artigo de fé. O [Espiritismo](Espiritismo){:.l} a torna manifesta e, de certo modo, material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.153 {#q153}
@@ -2558,7 +2558,7 @@ Em que sentido se deve entender a vida eterna?
 > <span class="emoji">👻</span> ▸ A vida do [Espírito](Espírito){:.w} é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a [alma](Alma){:.l} retoma a vida eterna.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, morte e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.153.a {#q153a}
@@ -2568,7 +2568,7 @@ Não seria mais exato chamar vida eterna a dos [Espíritos](Espírito){:.w} puro
 > <span class="emoji">👻</span> ▸ Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Separação da alma e do corpo {#lde-2-03-02}
@@ -2582,18 +2582,18 @@ Não seria mais exato chamar vida eterna a dos [Espíritos](Espírito){:.w} puro
 Na [morte](Morte){:.w} natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, separação do corpo  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, separação do corpo <a href="#alma">↩️</a>
 </details>
 
 ###### Q.155 {#q155}
 
 Como se opera a separação da [alma](Alma){:.l} e do corpo?
 
-> <span class="emoji">👻</span> ▸ Rotos os laços que a retinham, ela se desprende.  
+> <span class="emoji">👻</span> ▸ Rotos os laços que a retinham, ela se desprende. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q957">Q.957</a><br>
-<span class="emoji">🏷️</span> Alma, desprendimento da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, desprendimento da <a href="#alma">↩️</a>
 </details> 
 
 ###### Q.155.a {#q155a}
@@ -2605,7 +2605,7 @@ A separação se dá instantaneamente por brusca transição? Haverá alguma lin
 Durante a vida, o [Espírito](Espírito){:.w} se acha preso ao corpo pelo seu envoltório semi-material ou [perispírito](Perispírito){:.w}. A [morte](Morte){:.w} é a destruição do corpo somente, não a desse outro invólucro, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do [perispírito](Perispírito){:.w} não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da [morte](Morte){:.w} é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi toda material e sensual, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor vitalidade, nem a possibilidade de volver à vida, mas uma simples afinidade com o [Espírito](Espírito){:.w}, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o [Espírito](Espírito){:.w} deu à matéria. É, com efeito, racional conceber-se que, quanto mais o [Espírito](Espírito){:.w} se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a [alma](Alma){:.l} e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o [Espírito](Espírito){:.w} pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.156 {#q156}
@@ -2615,7 +2615,7 @@ A separação definitiva da [alma](Alma){:.l} e do corpo pode ocorrer antes da c
 > <span class="emoji">👻</span> ▸ Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem [consciência](Consciência){:.w} de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, separação definitiva do corpo  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, separação definitiva do corpo <a href="#alma">↩️</a>
 </details>
 
 ###### Q.157 {#q157}
@@ -2625,7 +2625,7 @@ No momento da morte, a [alma](Alma){:.l} sente, alguma vez, qualquer aspiração
 > <span class="emoji">👻</span> ▸ Muitas vezes a [alma](Alma){:.l} sente que se desfazem os laços que a prendem ao corpo. **Emprega então todos os esforços para desfazê-los inteiramente**. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, retorno ao mundo espiritual  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, retorno ao mundo espiritual <a href="#alma">↩️</a>
 </details>
 
 ###### Q.158 {#q158}
@@ -2635,7 +2635,7 @@ O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra
 > <span class="emoji">👻</span> ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao pé da letra, como frequentemente vos sucede.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Além-túmulo, continuação da existência no  <a href="#alem-tumulo">↩️</a>
+<span class="emoji">🏷️</span> Além-túmulo, continuação da existência no <a href="#alem-tumulo">↩️</a>
 </details>
 
 ###### Q.159 {#q159}
@@ -2645,7 +2645,7 @@ Que sensação experimenta a [alma](Alma){:.l} no momento em que reconhece estar
 > <span class="emoji">👻</span> ▸ Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a [alma](Alma){:.l} do justo as coisas se passam de modo bem diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, retorno ao mundo espiritual  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, retorno ao mundo espiritual <a href="#alma">↩️</a>
 </details>
 
 ###### Q.160 {#q160}
@@ -2655,7 +2655,7 @@ O [Espírito](Espírito){:.w} se encontra imediatamente com os que conheceu na [
 > <span class="emoji">👻</span> ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos [Espíritos](Espírito){:.w} e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na [erraticidade](Erraticidade){:.l}, como vê os encarnados e os vai visitar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.161 {#q161}
@@ -2665,7 +2665,7 @@ Em caso de [morte](Morte){:.w} violenta e acidental, quando os órgãos ainda n�
 > <span class="emoji">👻</span> ▸ Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.162 {#q162}
@@ -2677,7 +2677,7 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a [con
 Trata-se aqui da [consciência](Consciência){:.w} que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como [Espírito](Espírito){:.w}. Se não perdeu essa [consciência](Consciência){:.w} antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o [perispírito](Perispírito){:.w} esteja inteiramente separado do corpo. Ao contrário: em todos os casos de [morte](Morte){:.w} violenta, quando a [morte](Morte){:.w} não resulta da extinção [gradual](gradual){:.d} das forças vitais, mais **tenazes** os laços que prendem o corpo ao [perispírito](Perispírito){:.w} e, portanto, mais lento o desprendimento completo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Perturbação espiritual {#lde-2-03-03}
@@ -2686,9 +2686,9 @@ Trata-se aqui da [consciência](Consciência){:.w} que o supliciado pode ter de 
 
 A [alma](Alma){:.l} tem [consciência](Consciência){:.w} de si mesma imediatamente depois de deixar o corpo?
 
-> <span class="emoji">👻</span> ▸ Imediatamente não é bem o termo. A [alma](Alma){:.l} passa algum tempo em estado de perturbação.  
+> <span class="emoji">👻</span> ▸ Imediatamente não é bem o termo. A [alma](Alma){:.l} passa algum tempo em estado de perturbação. 
 
-Na [morte](Morte){:.w} natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.  
+Na [morte](Morte){:.w} natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q319">Q.319</a>
@@ -2701,7 +2701,7 @@ A perturbação que se segue à separação da [alma](Alma){:.l} e do corpo é d
 > <span class="emoji">👻</span> ▸ Não; depende da elevação de cada um. Aquele que já está purificado, se reconhece quase imediatamente, pois que se libertou da matéria antes que cessasse a vida do corpo, enquanto o homem carnal, aquele cuja [consciência](Consciência){:.w} ainda não está pura, guarda por muito mais tempo a impressão da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.165 {#q165}
@@ -2718,10 +2718,10 @@ Aquela perturbação apresenta circunstâncias especiais, de acordo com os carac
 
 A perturbação que se segue à [morte](Morte){:.w} nada tem de penosa para o homem de bem, que se conserva calmo, semelhante em tudo a quem acompanha as fases de um tranquilo despertar. Para aquele cuja [consciência](Consciência){:.w} ainda não está pura, a perturbação é cheia de ansiedade e de angústias, que aumentam à proporção que ele da sua situação se compenetra.
 
-Nos casos de [morte](Morte){:.w} coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam.  
+Nos casos de [morte](Morte){:.w} coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-↩️ Voltar para <a href="#q957">Q.957</a>  
+↩️ Voltar para <a href="#q957">Q.957</a> 
 ↩️ Voltar para <a href="#q982">Q.982</a>
 </details> 
 
@@ -2733,7 +2733,7 @@ Nos casos de [morte](Morte){:.w} coletiva, tem sido observado que todos os que p
 
 Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
 
-> <span class="emoji">👻</span> ▸ Sofrendo a prova de uma nova existência.  
+> <span class="emoji">👻</span> ▸ Sofrendo a prova de uma nova existência. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q330">Q.330</a> 
@@ -2746,7 +2746,7 @@ Como realiza essa nova existência? Será pela sua transformação como [Espíri
 > <span class="emoji">👻</span> ▸ Depurando-se, a [alma](Alma){:.l} indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.166.b {#q166b}
@@ -2756,7 +2756,7 @@ A [alma](Alma){:.l} passa então por muitas existências corporais?
 > <span class="emoji">👻</span> ▸ Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.166.c {#q166c}
@@ -2766,7 +2766,7 @@ Parece resultar desse princípio que a alma, depois de haver deixado um corpo, t
 > <span class="emoji">👻</span> ▸ Evidentemente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.167 {#q167}
@@ -2782,7 +2782,7 @@ Qual o fim objetivado com a reencarnação?
 > <span class="emoji">👻</span> ▸ A cada nova existência, o [Espírito](Espírito){:.w} dá um passo para diante na senda do progresso. Desde que se ache limpo de todas as impurezas, não tem mais necessidade das provas da vida corporal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.169 {#q169}
@@ -2792,7 +2792,7 @@ Qual o fim objetivado com a reencarnação?
 > <span class="emoji">👻</span> ▸ Não; aquele que caminha depressa, a muitas provas se forra. Todavia, as encarnações sucessivas são sempre muito numerosas, porquanto o progresso é quase infinito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.170 {#q170}
@@ -2802,7 +2802,7 @@ O que fica sendo o [Espírito](Espírito){:.w} depois da sua última encarnaçã
 > <span class="emoji">👻</span> ▸ [Espírito](Espírito){:.w} bem-aventurado; puro [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Justiça da reencarnação {#lde-2-04-02}
@@ -2823,7 +2823,7 @@ O homem, que tem [consciência](Consciência){:.w} da sua inferioridade, haure c
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q619">Q.619</a><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Encarnação nos diferentes mundos {#lde-2-04-03}
@@ -2832,7 +2832,7 @@ O homem, que tem [consciência](Consciência){:.w} da sua inferioridade, haure c
 
 As nossas diversas existências corporais se verificam todas na Terra?
 
-> <span class="emoji">👻</span> ▸ Não; vivemo-las em diferentes mundos. As que aqui passamos não são as primeiras, nem as últimas; são, porém, das mais materiais e das mais distantes da perfeição.  
+> <span class="emoji">👻</span> ▸ Não; vivemo-las em diferentes mundos. As que aqui passamos não são as primeiras, nem as últimas; são, porém, das mais materiais e das mais distantes da perfeição. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q985">Q.985</a>
@@ -2842,7 +2842,7 @@ As nossas diversas existências corporais se verificam todas na Terra?
 
 A cada nova existência corporal a [alma](Alma){:.l} passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 
-> <span class="emoji">👻</span> ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.  
+> <span class="emoji">👻</span> ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q986">Q.986</a>
@@ -2855,7 +2855,7 @@ Podemos então reaparecer muitas vezes na Terra?
 > <span class="emoji">👻</span> ▸ Certamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.173.b {#q173b}
@@ -2865,7 +2865,7 @@ Podemos voltar a este, depois de termos vivido em outros mundos?
 > <span class="emoji">👻</span> ▸ Sem dúvida. É possível que já tenhais vivido algures e na Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.174 {#q174}
@@ -2875,7 +2875,7 @@ Tornar a viver na [Terra](Terra){:.w} constitui uma necessidade?
 > <span class="emoji">👻</span> ▸ Não; mas, se não progredistes, podereis ir para outro mundo que não valha mais do que a [Terra](Terra){:.w} e que talvez até seja pior do que ela.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.175 {#q175}
@@ -2885,7 +2885,7 @@ Haverá alguma vantagem em voltar-se a habitar a Terra?
 > <span class="emoji">👻</span> ▸ Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.175.a {#q175a}
@@ -2895,7 +2895,7 @@ Não se seria mais feliz permanecendo na condição de [Espírito](Espírito){:.
 > <span class="emoji">👻</span> ▸ Não, não; estacionar-se-ia e o que se quer é caminhar para [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.176 {#q176}
@@ -2905,7 +2905,7 @@ Depois de haverem encarnado noutros mundos, podem os [Espíritos](Espírito){:.w
 > <span class="emoji">👻</span> ▸ Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.176.a {#q176a}
@@ -2915,7 +2915,7 @@ Assim, homens há que estão na [Terra](Terra){:.w} pela primeira vez?
 > <span class="emoji">👻</span> ▸ Muitos, e em graus diversos de adiantamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.176.b {#q176b}
@@ -2925,7 +2925,7 @@ Pode-se reconhecer, por um indício qualquer, que um [Espírito](Espírito){:.w}
 > <span class="emoji">👻</span> ▸ Nenhuma utilidade teria isso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.177 {#q177}
@@ -2935,7 +2935,7 @@ Para chegar à perfeição e à suprema felicidade, destino final de todos os ho
 > <span class="emoji">👻</span> ▸ Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o [Espírito](Espírito){:.w}, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.177.a {#q177a}
@@ -2945,7 +2945,7 @@ Como se explica então a pluralidade de suas existências em um mesmo globo?
 > <span class="emoji">👻</span> ▸ De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.178 {#q178}
@@ -2955,7 +2955,7 @@ Podem os [Espíritos](Espírito){:.w} encarnar em um mundo relativamente inferio
 > <span class="emoji">👻</span> ▸ Sim, quando em missão, com o objetivo de auxiliarem o progresso, caso em que aceitam alegres as tribulações de tal existência, por lhes proporcionar meio de se adiantarem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.178.a {#q178a}
@@ -2965,7 +2965,7 @@ Mas não pode dar-se também por expiação? Não pode [Deus](Deus){:.l} degreda
 > <span class="emoji">👻</span> ▸ Os [Espíritos](Espírito){:.w} podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.178.b {#q178b}
@@ -2975,7 +2975,7 @@ Quais os que têm de recomeçar a mesma existência?
 > <span class="emoji">👻</span> ▸ Os que faliram em suas missões ou em suas provas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.179 {#q179}
@@ -2985,7 +2985,7 @@ Os seres que habitam cada mundo hão todos alcançado o mesmo nível de perfeiç
 > <span class="emoji">👻</span> ▸ Não; dá-se em cada um o que ocorre na Terra: uns [Espíritos](Espírito){:.w} são mais adiantados do que outros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.180 {#q180}
@@ -3006,7 +3006,7 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 > <span class="emoji">👻</span> ▸ É fora de [dúvida](Dúvida){:.w} que têm corpos, porque o [Espírito](Espírito){:.w} precisa estar revestido de matéria para atuar sobre a matéria. Esse envoltório, porém, é mais ou menos material, conforme o grau de pureza a que chegaram os [Espíritos](Espírito){:.w}. É isso o que assinala a diferença entre os mundos que temos de percorrer, porquanto muitas moradas há na casa de nosso Pai, sendo, conseguintemente, de muitos graus essas moradas. Alguns o sabem e desse fato têm [consciência](Consciência){:.w} na Terra; com outros, no entanto, o mesmo não se dá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.182 {#q182}
@@ -3019,7 +3019,7 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 Da purificação do [Espírito](Espírito){:.w} decorre o aperfeiçoamento moral, para os seres que eles constituem, quando encarnados. As paixões animais se enfraquecem e o egoísmo cede lugar ao sentimento da fraternidade. Assim é que, nos mundos superiores ao nosso, se desconhecem as guerras, carecendo de objeto os ódios e as discórdias, porque ninguém pensa em causar dano ao seu semelhante. A intuição que seus habitantes têm do futuro, a segurança que uma [consciência](Consciência){:.w} isenta de remorsos lhes dá, fazem que a [morte](Morte){:.w} nenhuma apreensão lhes cause. Encaram-na de frente, sem temor, como simples transformação.
 
-A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o [Espírito](Espírito){:.w}, menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos.  
+A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o [Espírito](Espírito){:.w}, menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q985">Q.985</a>
@@ -3032,7 +3032,7 @@ Indo de um mundo para outro, o [Espírito](Espírito){:.w} passa por nova infân
 > <span class="emoji">👻</span> ▸ Em toda parte a infância é uma transição necessária, mas não é, em toda parte, tão obtusa como no vosso mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.184 {#q184}
@@ -3042,7 +3042,7 @@ Tem o [Espírito](Espírito){:.w} a faculdade de escolher o mundo em que passe a
 > <span class="emoji">👻</span> ▸ Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os [Espíritos](Espírito){:.w}, depende do grau da elevação destes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.184.a {#q184a}
@@ -3052,7 +3052,7 @@ Se o [Espírito](Espírito){:.w} nada pedir, que é o que determina o mundo em q
 > <span class="emoji">👻</span> ▸ O grau da sua elevação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.185 {#q185a}
@@ -3064,7 +3064,7 @@ O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo?
 É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.186 {#q186}
@@ -3074,7 +3074,7 @@ Haverá mundos em que o [Espírito](Espírito){:.w}, deixando de revestir corpos
 > <span class="emoji">👻</span> ▸ Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos [Espíritos](Espírito){:.w} puros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.186.a {#q186a}
@@ -3084,7 +3084,7 @@ Parece resultar daí que, entre o estado correspondente às últimas encarnaçõ
 > <span class="emoji">👻</span> ▸ Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.187 {#q1687}
@@ -3094,14 +3094,14 @@ A substância do [perispírito](Perispírito){:.w} é a mesma em todos os mundos
 > <span class="emoji">👻</span> ▸ Não; é mais ou menos etérea. Passando de um mundo a outro, o [Espírito](Espírito){:.w} se reveste da matéria própria desse outro, operando-se, porém, essa mudança com a rapidez do relâmpago.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.188 {#q188}
 
 Os [Espíritos](Espírito){:.w} puros habitam mundos especiais, ou se acham no espaço universal, sem estarem mais ligados a um mundo do que a outros?
 
-> <span class="emoji">👻</span> ▸ Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. [^10]  
+> <span class="emoji">👻</span> ▸ Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte. [^10] 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q613">Q.613</a>
@@ -3116,14 +3116,14 @@ Desde o início de sua formação, goza o [Espírito](Espírito){:.w} da plenitu
 > <span class="emoji">👻</span> ▸ Não, pois que para o [Espírito](Espírito){:.w}, como para o homem, também há infância. Em sua origem, a vida do [Espírito](Espírito){:.w} é apenas instintiva. Ele mal tem [consciência](Consciência){:.w} de si mesmo e de seus atos. A [inteligência](Inteligência){:.w} só pouco a pouco se desenvolve.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.190 {#q190}
 
 Qual o estado da [alma](Alma){:.l} na sua primeira encarnação?
 
-> <span class="emoji">👻</span> ▸ O da infância na vida corporal. A [inteligência](Inteligência){:.w} então apenas desabrocha: a [alma](Alma){:.l} se ensaia para a vida.  
+> <span class="emoji">👻</span> ▸ O da infância na vida corporal. A [inteligência](Inteligência){:.w} então apenas desabrocha: a [alma](Alma){:.l} se ensaia para a vida. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q607">Q.607</a>
@@ -3148,14 +3148,14 @@ Então, as paixões são um sinal de desenvolvimento?
 A vida do [Espírito](Espírito){:.w}, em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o [Espírito](Espírito){:.w} não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do [Espírito](Espírito){:.w}, pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do [Espírito](Espírito){:.w}, há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.192 {#q192}
 
 Pode alguém, por um proceder impecável na vida atual, transpor todos os graus da escala do aperfeiçoamento e tornar-se [Espírito](Espírito){:.w} puro, sem passar por outros graus intermédios?
 
-> <span class="emoji">👻</span> ▸ Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o [Espírito](Espírito){:.w} o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao [Espírito](Espírito){:.w} cumpre progredir em [ciência](Ciência){:.w} e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem.  
+> <span class="emoji">👻</span> ▸ Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o [Espírito](Espírito){:.w} o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao [Espírito](Espírito){:.w} cumpre progredir em [ciência](Ciência){:.w} e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q780">Q.780</a>
@@ -3168,7 +3168,7 @@ Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma e
 > <span class="emoji">👻</span> ▸ Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.193 {#q193}
@@ -3178,7 +3178,7 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 > <span class="emoji">👻</span> ▸ Com relação à **posição social**, sim; como [Espírito](Espírito){:.w}, não.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.194 {#q194}
@@ -3188,7 +3188,7 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 > <span class="emoji">👻</span> ▸ Não, visto que não pode degenerar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.194.a {#q194a}
@@ -3200,7 +3200,7 @@ A [alma](Alma){:.l} de um homem perverso pode tornar-se a de um homem de bem?
 A marcha dos [Espíritos](Espírito){:.w} é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como [Espíritos](Espírito){:.w}. Assim, a [alma](Alma){:.l} de um potentado da [Terra](Terra){:.w} pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na [razão](Razão){:.w} inversa da elevação das qualidades morais. Herodes era rei e [Jesus](Jesus){:.w}, carpinteiro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.195 {#q195}
@@ -3212,7 +3212,7 @@ A possibilidade de se melhorarem noutra existência não será de molde a fazer 
 > O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.196 {#q196}
@@ -3222,7 +3222,7 @@ Não podendo os [Espíritos](Espírito){:.w} aperfeiçoar-se, a não ser por mei
 > <span class="emoji">👻</span> ▸ Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.196.a {#q196a}
@@ -3234,7 +3234,7 @@ Não podendo os [Espíritos](Espírito){:.w} aperfeiçoar-se, a não ser por mei
 O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama [espírito](Espírito){:.w} ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a [alma](Alma){:.l} tem que entrar para se purificar. Às matérias estranhas se assemelha o [perispírito](Perispírito){:.w}, que também se depura, à medida que o [Espírito](Espírito){:.w} se aproxima da perfeição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Sorte das crianças depois da morte {#lde-2-04-05}
@@ -3246,7 +3246,7 @@ Poderá ser tão adiantado quanto o de um adulto o [Espírito](Espírito){:.w} d
 > <span class="emoji">👻</span> ▸ Algumas vezes o é muito mais, porquanto pode dar-se que muito mais já tenha vivido e adquirido maior soma de experiência, sobretudo se progrediu.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.197.a {#q197a}
@@ -3262,7 +3262,7 @@ Não tendo podido praticar o mal, o [Espírito](Espírito){:.w} de uma criança 
 > <span class="emoji">👻</span> ▸ Se não fez o mal, igualmente não fez o bem e [Deus](Deus){:.l} não o isenta das provas que tenha de padecer. Se for um [Espírito](Espírito){:.w} puro, não o é pelo fato de ter animado apenas uma criança, mas porque já progredira até à pureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.199 {#q199}
@@ -3272,7 +3272,7 @@ Por que tão frequentemente a vida se interrompe na infância?
 > <span class="emoji">👻</span> ▸ A curta duração da vida da criança pode representar, para o [Espírito](Espírito){:.w} que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou [expiação](Expiação){:.l} para os pais**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.199.a {#q199a}
@@ -3288,7 +3288,7 @@ Semelhante ordem de coisas não corresponderia à Justiça de [Deus](Deus){:.l}.
 Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem [razão](Razão){:.w} a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do [Espírito](Espírito){:.w}, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus [Espíritos](Espírito){:.w} muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Sexos nos Espíritos {#lde-2-04-06}
@@ -3300,7 +3300,7 @@ Têm sexos os [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Não como o entendeis, pois que os sexos dependem da organização. Há entre eles [amor](Amor){:.w} e simpatia, mas baseados na concordância dos sentimentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.201 {#q201}
@@ -3310,7 +3310,7 @@ Em nova existência, pode o [Espírito](Espírito){:.w} que animou o corpo de um
 > <span class="emoji">👻</span> ▸ Decerto; são os mesmos os [Espíritos](Espírito){:.w} que animam os homens e as mulheres.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.202 {#q202}
@@ -3322,7 +3322,7 @@ Quando errante, que prefere o [Espírito](Espírito){:.w}: encarnar no corpo de 
 Os [Espíritos](Espírito){:.w} encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Parentesco, filiação {#lde-2-04-07}
@@ -3334,7 +3334,7 @@ Transmitem os pais aos filhos uma parcela de suas almas, ou se limitam a lhes da
 > <span class="emoji">👻</span> ▸ Dão-lhes apenas a vida animal, pois que a [alma](Alma){:.l} **é indivisível**. Um pai obtuso pode ter filhos inteligentes e vice-versa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.204 {#q204}
@@ -3344,14 +3344,14 @@ Uma vez que temos tido muitas existências, a nossa parentela vai além da que a
 > <span class="emoji">👻</span> ▸ Não pode ser de outra maneira. A sucessão das existências corporais estabelece entre os [Espíritos](Espírito){:.w} ligações que remontam às vossas existências anteriores. Daí, muitas vezes, a simpatia que vem a existir entre vós e certos [Espíritos](Espírito){:.w} que vos parecem estranhos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.205 {#q205}
 
 A algumas pessoas a [doutrina](doutrina){:.d} da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
 
-> <span class="emoji">👻</span> ▸ Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa [doutrina](doutrina){:.d} amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um [Espírito](Espírito){:.w} a quem tenhais estado presos pelos laços da consanguinidade.  
+> <span class="emoji">👻</span> ▸ Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa [doutrina](doutrina){:.d} amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um [Espírito](Espírito){:.w} a quem tenhais estado presos pelos laços da consanguinidade. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q681">Q.681</a><br>
@@ -3366,7 +3366,7 @@ Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que
 > <span class="emoji">👻</span> ▸ É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que [Deus](Deus){:.l} formulou as Leis da Natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.206 {#q206}
@@ -3376,7 +3376,7 @@ Do fato de não haver filiação entre os [Espíritos](Espírito){:.w} dos desce
 > <span class="emoji">👻</span> ▸ De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram [Espíritos](Espírito){:.w} elevados. Se bem os [Espíritos](Espírito){:.w} não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antpassados, culto aos  <a href="#antepassados">↩️</a>
+<span class="emoji">🏷️</span> Antpassados, culto aos <a href="#antepassados">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Parecenças físicas e morais {#lde-2-04-08}
@@ -3388,7 +3388,7 @@ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirã
 > <span class="emoji">👻</span> ▸ Não, que diferentes são as almas ou [Espíritos](Espírito){:.w} de uns e outros. O corpo deriva do corpo, mas o [Espírito](Espírito){:.w} não procede do [Espírito](Espírito){:.w}. Entre os descendentes das raças apenas há consanguinidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.207.a {#q207a}
@@ -3398,7 +3398,7 @@ Donde se originam as parecenças morais que costuma haver entre pais e filhos?
 > <span class="emoji">👻</span> ▸ É que uns e outros são [Espíritos](Espírito){:.w} simpáticos, que reciprocamente se atraíram pela analogia dos pendores.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.208 {#q208}
@@ -3414,7 +3414,7 @@ Por que de pais bons e virtuosos nascem filhos de natureza perversa? Por outra: 
 > <span class="emoji">👻</span> ▸ Não é raro que um mau [Espírito](Espírito){:.w} peça lhe sejam dados bons pais, na esperança de que seus conselhos o encaminhem por melhor senda e muitas vezes [Deus](Deus){:.l} lhe concede o que deseja.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.210 {#q210}
@@ -3424,7 +3424,7 @@ Pelos seus pensamentos e preces podem os pais atrair para o corpo, em formação
 > <span class="emoji">👻</span> ▸ Não, mas podem melhorar o [Espírito](Espírito){:.w} do filho que lhes nasceu e está confiado. Esse o dever deles. Os maus filhos são uma provação para os pais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.211 {#q211}
@@ -3434,7 +3434,7 @@ Donde deriva a semelhança de caráter que muitas vezes existe entre dois irmão
 > <span class="emoji">👻</span> ▸ São [Espíritos](Espírito){:.w} simpáticos que se aproximam por analogia de sentimentos **e se sentem felizes por estar juntos**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.212 {#q212}
@@ -3444,7 +3444,7 @@ Há dois [Espíritos](Espírito){:.w}, ou, por outra, duas almas, nas crianças 
 > <span class="emoji">👻</span> ▸ Sim, mas a semelhança entre elas é tal que faz vos pareçam, em muitos casos, uma só.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, irmãos siameses e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, irmãos siameses e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.213 {#q213}
@@ -3454,7 +3454,7 @@ Pois que nos gêmeos os [Espíritos](Espírito){:.w} encarnam por simpatia, dond
 > <span class="emoji">👻</span> ▸ Não é de regra que sejam simpáticos os [Espíritos](Espírito){:.w} dos gêmeos. Acontece também que [Espíritos](Espírito){:.w} maus entendam de lutar juntos no palco da vida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.214 {#q214}
@@ -3464,7 +3464,7 @@ Que se deve pensar dessas histórias de crianças que lutam no seio materno?
 > <span class="emoji">👻</span> ▸ Lendas! Para significarem quão inveterado era o ódio que reciprocamente se votavam, figuram-no a se fazer sentir antes do nascimento delas. Em geral, não levais muito em conta as imagens poéticas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.215 {#q215}
@@ -3474,14 +3474,14 @@ O que dá origem ao caráter distintivo que se nota em cada povo?
 > <span class="emoji">👻</span> ▸ Também os [Espíritos](Espírito){:.w} se grupam em famílias, formando-as pela analogia de seus pendores mais ou menos puros, conforme a elevação que tenham alcançado. Pois bem! um povo é uma grande família formada pela reunião de [Espíritos](Espírito){:.w} simpáticos. Na tendência que apresentam os membros dessas famílias, para se unirem, é que está a origem da semelhança que, existindo entre os indivíduos, constitui o caráter distintivo de cada povo. Julgas que [Espíritos](Espírito){:.w} bons e humanitários procurem, para nele encarnar, um povo rude e grosseiro? Não. Os [Espíritos](Espírito){:.w} simpatizam com as coletividades, como simpatizam com os indivíduos. Naquelas em cujo seio se encontrem, eles se acham no meio que lhes é próprio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.216 {#q216}
 
 Em suas novas existências conservará o [Espírito](Espírito){:.w} traços do caráter moral de suas existências anteriores?
 
-> <span class="emoji">👻</span> ▸ Isso pode dar-se. Mas, melhorando-se, ele muda. Pode também acontecer que sua posição social venha a ser outra. Se de senhor passa a escravo, inteiramente diversos serão os seus gostos e dificilmente o reconheceríeis. Sendo o [Espírito](Espírito){:.w} sempre o mesmo nas diversas encarnações, podem existir certas analogias entre as suas manifestações, se bem que modificadas pelos hábitos da posição que ocupe, até que um aperfeiçoamento notável lhe haja mudado completamente o caráter, porquanto, de orgulhoso e mau, pode tornar-se humilde e bondoso, se se arrependeu.  
+> <span class="emoji">👻</span> ▸ Isso pode dar-se. Mas, melhorando-se, ele muda. Pode também acontecer que sua posição social venha a ser outra. Se de senhor passa a escravo, inteiramente diversos serão os seus gostos e dificilmente o reconheceríeis. Sendo o [Espírito](Espírito){:.w} sempre o mesmo nas diversas encarnações, podem existir certas analogias entre as suas manifestações, se bem que modificadas pelos hábitos da posição que ocupe, até que um aperfeiçoamento notável lhe haja mudado completamente o caráter, porquanto, de orgulhoso e mau, pode tornar-se humilde e bondoso, se se arrependeu. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q218b">Q.218b</a>
@@ -3496,7 +3496,7 @@ E do caráter físico de suas existências pretéritas conserva o [Espírito](Es
 Nenhuma relação **essencial** guardando o corpo que a [alma](Alma){:.l} toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do [Espírito](Espírito){:.w} frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a **achar-se de novo** no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o [Espírito](Espírito){:.w} foi antes?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Ideias inatas {#lde-2-04-09}
@@ -3508,7 +3508,7 @@ Encarnado, conserva o [Espírito](Espírito){:.w} algum vestígio das percepçõ
 > <span class="emoji">👻</span> ▸ Guarda vaga lembrança, que lhe dá o que se chama ideias inatas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.218.a {#q218a}
@@ -3518,7 +3518,7 @@ Não é, então, quimérica a teoria das ideias inatas?
 > <span class="emoji">👻</span> ▸ Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o [Espírito](Espírito){:.w} sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o [Espírito](Espírito){:.w}, é o em que, na existência precedente, ele ficou.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.218.b {#q218b}
@@ -3538,7 +3538,7 @@ Qual a origem das faculdades extraordinárias dos indivíduos que, sem estudo pr
 > <span class="emoji">👻</span> ▸ Lembrança do passado; progresso anterior da alma, mas de que ela não tem consciência. Donde queres que venham tais conhecimentos? O corpo muda, o [Espírito](Espírito){:.w}, porém, não muda, embora troque de roupagem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.220 {#q220}
@@ -3548,7 +3548,7 @@ Pode o [Espírito](Espírito){:.w}, mudando de corpo, perder algumas faculdades 
 > <span class="emoji">👻</span> ▸ Sim, desde que conspurcou a sua [inteligência](Inteligência){:.w} ou a utilizou mal. Ademais, uma faculdade qualquer pode permanecer adormecida durante uma existência, por querer o [Espírito](Espírito){:.w} exercitar outra, que nenhuma relação tem com aquela. Esta, então, fica em estado latente, para reaparecer mais tarde.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.221 {#q221}
@@ -3558,7 +3558,7 @@ Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que
 > <span class="emoji">👻</span> ▸ É uma lembrança que ele conserva do que sabia como [Espírito](Espírito){:.w} antes de encarnar, mas o orgulho amiudadamente abafa esse sentimento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.221.a {#q221a}
@@ -3568,7 +3568,7 @@ Serão devidas a essa mesma lembrança certas crenças relativas à [Doutrina](E
 > <span class="emoji">👻</span> ▸ Esta [doutrina](doutrina){:.d} é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de [Espírito](Espírito){:.w}, o [Espírito](Espírito){:.w} encarnado tem, instintivamente, [consciência](Consciência){:.w} do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ancianidade, Espiritismo e  <a href="#ancianidade">↩️</a>
+<span class="emoji">🏷️</span> Ancianidade, Espiritismo e <a href="#ancianidade">↩️</a>
 </details>
 
 ### 2-05. <span class="emoji">🗂️</span> Considerações sobre a pluralidade das existências {#lde-2-05}
@@ -3585,83 +3585,83 @@ Muitos repelem a ideia da reencarnação pelo só motivo de ela não lhes convir
 
 Supomos dirigir-nos a pessoas que acreditam num futuro depois da [morte](Morte){:.w} e não aos que criam para si a perspectiva do nada, ou pretendem que suas almas se vão afogar num todo universal, onde perdem a individualidade, como os pingos da chuva no oceano, o que vem a dar quase no mesmo. Ora, pois: se credes num futuro qualquer, certo não admitis que ele seja idêntico para todos, porquanto, de outro modo, qual a utilidade do bem? Por que haveria o homem de constranger-se? Por que deixaria de satisfazer a todas as suas paixões, a todos os seus desejos, embora à custa de outrem, uma vez que por isso não ficaria sendo melhor, nem pior? Credes, ao contrário, que esse futuro será mais ou menos ditoso ou inditoso, conforme o que houverdes feito durante a vida e então desejais que seja tão afortunado quanto possível, visto que há de durar pela eternidade, não? Mas, porventura, teríeis a pretensão de serdes dos homens mais perfeitos que hajam existido na [Terra](Terra){:.w} e, pois, com direito a alcançardes de um salto a suprema felicidade dos eleitos? Não. Admitis então que há homens de valor maior do que o vosso e com direito a um lugar melhor, sem daí resultar que vos conteis entre os réprobos. Pois bem! Colocai-vos mentalmente, por um instante, nessa situação intermédia, que será a vossa, como acabastes de reconhecer, e imaginai que alguém vos venha dizer:
 
-— Sofreis; não sois tão felizes quanto poderíeis ser, ao passo que diante de vós estão seres que gozam de completa ventura. Quereis mudar na deles a vossa posição?  
+— Sofreis; não sois tão felizes quanto poderíeis ser, ao passo que diante de vós estão seres que gozam de completa ventura. Quereis mudar na deles a vossa posição? 
 
-— Certamente — respondereis. Que devemos fazer?  
+— Certamente — respondereis. Que devemos fazer? 
 
-— Quase nada: recomeçar o trabalho mal executado e executá-lo melhor.  
+— Quase nada: recomeçar o trabalho mal executado e executá-lo melhor. 
 
-Hesitaríeis em aceitar, ainda que a poder de muitas existências de provações? Façamos outra comparação mais prosaica. Figuremos que a um homem que, sem ter chegado à miséria extrema, sofre, no entanto, privações, por escassez de recursos, viessem dizer:  
+Hesitaríeis em aceitar, ainda que a poder de muitas existências de provações? Façamos outra comparação mais prosaica. Figuremos que a um homem que, sem ter chegado à miséria extrema, sofre, no entanto, privações, por escassez de recursos, viessem dizer: 
 
-— Aqui está uma riqueza imensa de que podes gozar; para isto, só é necessário que trabalhes arduamente durante um minuto.  
+— Aqui está uma riqueza imensa de que podes gozar; para isto, só é necessário que trabalhes arduamente durante um minuto. 
 
-Fosse ele o mais preguiçoso da Terra, que sem hesitar diria:  
+Fosse ele o mais preguiçoso da Terra, que sem hesitar diria: 
 
-— Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a eternidade? Menos que um minuto, menos que um segundo.  
+— Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a eternidade? Menos que um minuto, menos que um segundo. 
 
-Temos visto algumas pessoas raciocinarem deste modo: Não é possível que [Deus](Deus){:.l}, soberanamente bom como é, imponha ao homem a obrigação de recomeçar uma série de misérias e tribulações. Acharão, porventura, essas pessoas que há mais bondade em condenar [Deus](Deus){:.l} o homem a sofrer perpetuamente, por motivo de alguns momentos de erro, do que em lhe facultar meios de reparar suas faltas?  
+Temos visto algumas pessoas raciocinarem deste modo: Não é possível que [Deus](Deus){:.l}, soberanamente bom como é, imponha ao homem a obrigação de recomeçar uma série de misérias e tribulações. Acharão, porventura, essas pessoas que há mais bondade em condenar [Deus](Deus){:.l} o homem a sofrer perpetuamente, por motivo de alguns momentos de erro, do que em lhe facultar meios de reparar suas faltas? 
 
-Dois industriais contrataram dois operários, cada um dos quais podia aspirar a se tornar sócio do respectivo patrão. Aconteceu que esses dois operários certa vez empregaram muito mal o seu dia, merecendo ambos ser despedidos. Um dos industriais, não obstante as súplicas do seu operário, o mandou embora e o pobre operário, não tendo achado mais trabalho, acabou por morrer na miséria. O outro industrial disse ao seu operário:  
+Dois industriais contrataram dois operários, cada um dos quais podia aspirar a se tornar sócio do respectivo patrão. Aconteceu que esses dois operários certa vez empregaram muito mal o seu dia, merecendo ambos ser despedidos. Um dos industriais, não obstante as súplicas do seu operário, o mandou embora e o pobre operário, não tendo achado mais trabalho, acabou por morrer na miséria. O outro industrial disse ao seu operário: 
 
-— Perdeste um dia; deves-me por isso uma compensação. Executaste mal o teu trabalho; ficaste a me dever uma reparação. Consinto que o recomeces. Trata de executá-lo bem, que te conservarei ao meu serviço e poderás continuar aspirando à posição superior que te prometi.  
+— Perdeste um dia; deves-me por isso uma compensação. Executaste mal o teu trabalho; ficaste a me dever uma reparação. Consinto que o recomeces. Trata de executá-lo bem, que te conservarei ao meu serviço e poderás continuar aspirando à posição superior que te prometi. 
 
-Será preciso perguntemos qual dos industriais foi mais humano? Dar-se-á que [Deus](Deus){:.l}, que é a clemência mesma, seja mais inexorável do que um homem?  
+Será preciso perguntemos qual dos industriais foi mais humano? Dar-se-á que [Deus](Deus){:.l}, que é a clemência mesma, seja mais inexorável do que um homem? 
 
-Alguma coisa de pungente há na ideia de que a nossa sorte fique para sempre decidida, por efeito de alguns anos de provações, ainda quando de nós não tenha dependido o atingirmos a perfeição, ao passo que eminentemente consoladora é a ideia oposta, que nos permite a esperança. Assim, sem nos pronunciarmos pró ou contra a pluralidade das existências, sem preferirmos uma hipótese a outra, declaramos que, se aos homens fosse dado escolher, ninguém quereria o julgamento sem apelação. Disse um filósofo que, se [Deus](Deus){:.l} não existisse, fora mister inventá-lo, para felicidade do gênero humano. Outro tanto se poderia dizer da pluralidade das existências. Mas, conforme anteriormente ponderamos, [Deus](Deus){:.l} não nos pede permissão, nem consulta os nossos gostos. Ou isto é, ou não é. Vejamos de que lado estão as probabilidades e encaremos de outro ponto de vista o assunto, unicamente como estudo filosófico, sempre abstraindo do ensino dos [Espíritos](Espírito){:.w}.  
+Alguma coisa de pungente há na ideia de que a nossa sorte fique para sempre decidida, por efeito de alguns anos de provações, ainda quando de nós não tenha dependido o atingirmos a perfeição, ao passo que eminentemente consoladora é a ideia oposta, que nos permite a esperança. Assim, sem nos pronunciarmos pró ou contra a pluralidade das existências, sem preferirmos uma hipótese a outra, declaramos que, se aos homens fosse dado escolher, ninguém quereria o julgamento sem apelação. Disse um filósofo que, se [Deus](Deus){:.l} não existisse, fora mister inventá-lo, para felicidade do gênero humano. Outro tanto se poderia dizer da pluralidade das existências. Mas, conforme anteriormente ponderamos, [Deus](Deus){:.l} não nos pede permissão, nem consulta os nossos gostos. Ou isto é, ou não é. Vejamos de que lado estão as probabilidades e encaremos de outro ponto de vista o assunto, unicamente como estudo filosófico, sempre abstraindo do ensino dos [Espíritos](Espírito){:.w}. 
 
-Se não há reencarnação, só há, evidentemente, uma existência corporal. Se a nossa atual existência corpórea é única, a [alma](Alma){:.l} de cada homem foi criada por ocasião do seu nascimento, a menos que se admita a anterioridade da alma, caso em que caberia perguntar o que era ela antes do nascimento e se o estado em que se achava não constituía uma existência sob forma qualquer. Não há meio termo: ou a [alma](Alma){:.l} existia, ou não existia antes do corpo. Se existia, qual a sua situação? Tinha, ou não, [consciência](Consciência){:.w} de si mesma? Se não tinha, é quase como se não existisse. Se tinha individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo, de acordo com a crença vulgar, que a [alma](Alma){:.l} nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só dispõe de faculdades negativas, perguntamos:  
+Se não há reencarnação, só há, evidentemente, uma existência corporal. Se a nossa atual existência corpórea é única, a [alma](Alma){:.l} de cada homem foi criada por ocasião do seu nascimento, a menos que se admita a anterioridade da alma, caso em que caberia perguntar o que era ela antes do nascimento e se o estado em que se achava não constituía uma existência sob forma qualquer. Não há meio termo: ou a [alma](Alma){:.l} existia, ou não existia antes do corpo. Se existia, qual a sua situação? Tinha, ou não, [consciência](Consciência){:.w} de si mesma? Se não tinha, é quase como se não existisse. Se tinha individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo, de acordo com a crença vulgar, que a [alma](Alma){:.l} nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só dispõe de faculdades negativas, perguntamos: 
 
-1. Por que mostra a [alma](Alma){:.l} aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?  
+1. Por que mostra a [alma](Alma){:.l} aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir? 
 
-2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela [ciência](Ciência){:.w}, enquanto outras se conservam inferiores ou medíocres durante a vida toda?  
+2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela [ciência](Ciência){:.w}, enquanto outras se conservam inferiores ou medíocres durante a vida toda? 
 
-3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?  
+3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem? 
 
-4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?  
+4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram? 
 
-5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?  
+5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros? 
 
-6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?  
+6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton? 
 
-Qual a [filosofia](Filosofia){:.w} ou a teosofia capaz de resolver estes problemas? É fora de [dúvida](Dúvida){:.w} que, ou as almas são iguais ao nascerem, ou são desiguais. Se são iguais, por que, entre elas, tão grande diversidade de aptidões? Dir-se-á que isso depende do organismo. Mas, então, achamo-nos em presença da mais monstruosa e imoral das doutrinas. O homem seria simples máquina, joguete da matéria; deixaria de ter a responsabilidade de seus atos, pois que poderia atribuir tudo às suas imperfeições físicas. Se as almas são desiguais, é que [Deus](Deus){:.l} as criou assim. Nesse caso, porém, por que a inata superioridade concedida a algumas? Corresponderá essa parcialidade à Justiça de [Deus](Deus){:.l} e ao [amor](Amor){:.w} que Ele consagra igualmente a todas as suas criaturas?  
+Qual a [filosofia](Filosofia){:.w} ou a teosofia capaz de resolver estes problemas? É fora de [dúvida](Dúvida){:.w} que, ou as almas são iguais ao nascerem, ou são desiguais. Se são iguais, por que, entre elas, tão grande diversidade de aptidões? Dir-se-á que isso depende do organismo. Mas, então, achamo-nos em presença da mais monstruosa e imoral das doutrinas. O homem seria simples máquina, joguete da matéria; deixaria de ter a responsabilidade de seus atos, pois que poderia atribuir tudo às suas imperfeições físicas. Se as almas são desiguais, é que [Deus](Deus){:.l} as criou assim. Nesse caso, porém, por que a inata superioridade concedida a algumas? Corresponderá essa parcialidade à Justiça de [Deus](Deus){:.l} e ao [amor](Amor){:.w} que Ele consagra igualmente a todas as suas criaturas? 
 
-Admitamos, ao contrário, uma série de progressivas existências anteriores para cada [alma](Alma){:.l} e tudo se explica. Ao nascerem, trazem os homens a intuição do que aprenderam antes. São mais ou menos adiantados, conforme o número de existências que contêm, conforme já estejam mais ou menos afastados do ponto de partida. Dá-se aí exatamente o que se observa numa reunião de indivíduos de todas as idades, onde cada um terá desenvolvimento proporcionado ao número de anos que tenha vivido. As existências sucessivas serão, para a vida da alma, o que os anos são para a do corpo. Reuni, em certo dia, um milheiro de indivíduos de um a oitenta anos; suponde que um véu encubra todos os dias precedentes ao em que os reunistes e que, em consequência, acreditais que todos nasceram na mesma ocasião. Perguntareis naturalmente como é que uns são grandes e outros pequenos; uns velhos e jovens outros; instruídos uns, outros ainda ignorantes. Se, porém, dissipando-se a nuvem que lhes oculta o passado, vierdes a saber que todos hão vivido mais ou menos tempo, tudo se vos tornará explicado. [Deus](Deus){:.l}, em sua justiça, não pode ter criado almas mais ou menos perfeitas. Com a pluralidade das existências, a desigualdade que notamos nada mais apresenta em oposição à mais rigorosa equidade: é que apenas vemos o presente e não o passado. A este raciocínio serve de base algum sistema, alguma suposição gratuita? Não. Partimos de um fato patente, incontestável: a desigualdade das aptidões e do desenvolvimento intelectual e moral e verificamos que nenhuma das teorias correntes o explica, ao passo que uma outra teoria — - a da pluralidade das existências — lhe dá explicação simples, natural e lógica. Será racional preferir-se à teoria que explica tudo a uma das que nada explicam?  
+Admitamos, ao contrário, uma série de progressivas existências anteriores para cada [alma](Alma){:.l} e tudo se explica. Ao nascerem, trazem os homens a intuição do que aprenderam antes. São mais ou menos adiantados, conforme o número de existências que contêm, conforme já estejam mais ou menos afastados do ponto de partida. Dá-se aí exatamente o que se observa numa reunião de indivíduos de todas as idades, onde cada um terá desenvolvimento proporcionado ao número de anos que tenha vivido. As existências sucessivas serão, para a vida da alma, o que os anos são para a do corpo. Reuni, em certo dia, um milheiro de indivíduos de um a oitenta anos; suponde que um véu encubra todos os dias precedentes ao em que os reunistes e que, em consequência, acreditais que todos nasceram na mesma ocasião. Perguntareis naturalmente como é que uns são grandes e outros pequenos; uns velhos e jovens outros; instruídos uns, outros ainda ignorantes. Se, porém, dissipando-se a nuvem que lhes oculta o passado, vierdes a saber que todos hão vivido mais ou menos tempo, tudo se vos tornará explicado. [Deus](Deus){:.l}, em sua justiça, não pode ter criado almas mais ou menos perfeitas. Com a pluralidade das existências, a desigualdade que notamos nada mais apresenta em oposição à mais rigorosa equidade: é que apenas vemos o presente e não o passado. A este raciocínio serve de base algum sistema, alguma suposição gratuita? Não. Partimos de um fato patente, incontestável: a desigualdade das aptidões e do desenvolvimento intelectual e moral e verificamos que nenhuma das teorias correntes o explica, ao passo que uma outra teoria — - a da pluralidade das existências — lhe dá explicação simples, natural e lógica. Será racional preferir-se à teoria que explica tudo a uma das que nada explicam? 
 
-À vista da sexta interrogação acima, dirão naturalmente que o hotentote é de raça inferior. Perguntaremos, então, se o hotentote é ou não um homem. Se é, por que a ele e à sua raça privou [Deus](Deus){:.l} dos privilégios concedidos à raça caucásica? Se não é, por que tentar fazê-lo cristão? A [Doutrina](Espiritismo){:.l} Espírita tem mais amplitude do que tudo isto. Segundo ela, não há muitas espécies de homens, há tão somente homens cujos [espíritos](Espírito){:.w} estão mais ou menos atrasados, porém todos suscetíveis de progredir. Não é este princípio mais conforme a Justiça de [Deus](Deus){:.l}?  
+À vista da sexta interrogação acima, dirão naturalmente que o hotentote é de raça inferior. Perguntaremos, então, se o hotentote é ou não um homem. Se é, por que a ele e à sua raça privou [Deus](Deus){:.l} dos privilégios concedidos à raça caucásica? Se não é, por que tentar fazê-lo cristão? A [Doutrina](Espiritismo){:.l} Espírita tem mais amplitude do que tudo isto. Segundo ela, não há muitas espécies de homens, há tão somente homens cujos [espíritos](Espírito){:.w} estão mais ou menos atrasados, porém todos suscetíveis de progredir. Não é este princípio mais conforme a Justiça de [Deus](Deus){:.l}? 
 
-Vimos de apreciar a [alma](Alma){:.l} com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu futuro, esbarraremos nas mesmas dificuldades.  
+Vimos de apreciar a [alma](Alma){:.l} com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu futuro, esbarraremos nas mesmas dificuldades. 
 
-1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?  
+1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba? 
 
-2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?  
+2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor? 
 
-3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?  
+3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele? 
 
-4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?  
+4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros? 
 
-5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?  
+5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida? 
 
-Haverá alguma [doutrina](doutrina){:.d} capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de [Deus](Deus){:.l}. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a [doutrina](doutrina){:.d} da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela [doutrina](doutrina){:.d} é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma [religião](Religião){:.w} que proclama ser [Deus](Deus){:.l} a bondade e a [razão](Razão){:.w} por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da [ciência](Ciência){:.w}, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma [religião](Religião){:.w} fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta [doutrina](doutrina){:.d} e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da [doutrina](doutrina){:.d} das vidas sucessivas, separa a [religião](Religião){:.w} e que a esta não faria aquela [doutrina](doutrina){:.d} maior mal do que lhe fizeram as descobertas do movimento da [Terra](Terra){:.w} e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:  
+Haverá alguma [doutrina](doutrina){:.d} capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de [Deus](Deus){:.l}. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a [doutrina](doutrina){:.d} da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela [doutrina](doutrina){:.d} é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma [religião](Religião){:.w} que proclama ser [Deus](Deus){:.l} a bondade e a [razão](Razão){:.w} por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da [ciência](Ciência){:.w}, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma [religião](Religião){:.w} fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta [doutrina](doutrina){:.d} e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da [doutrina](doutrina){:.d} das vidas sucessivas, separa a [religião](Religião){:.w} e que a esta não faria aquela [doutrina](doutrina){:.d} maior mal do que lhe fizeram as descobertas do movimento da [Terra](Terra){:.w} e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho: 
 
-> <span class="emoji">✝️</span> ▸ E, descendo eles do monte, [Jesus](Jesus){:.w} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus](Jesus){:.w}, respondendo, disse-lhes: *Em [verdade](Verdade){:.w} Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
->  
+> <span class="emoji">✝️</span> ▸ E, descendo eles do monte, [Jesus](Jesus){:.w} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus](Jesus){:.w}, respondendo, disse-lhes: *Em [verdade](Verdade){:.w} Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista. 
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 17](Mateus_17){:.w}, [vers. 09 a 13](MAT.17.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
-Pois que João Batista fora Elias, houve reencarnação do [Espírito](Espírito){:.w} ou da [alma](Alma){:.l} de Elias no corpo de João Batista.  
+Pois que João Batista fora Elias, houve reencarnação do [Espírito](Espírito){:.w} ou da [alma](Alma){:.l} de Elias no corpo de João Batista. 
 
-Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos [Espíritos](Espírito){:.w} é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de [Deus](Deus){:.l}, no livre-arbítrio do homem, na moral do [Cristo](Cristo){:.w}. Logo, não é antirreligioso.  
+Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos [Espíritos](Espírito){:.w} é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de [Deus](Deus){:.l}, no livre-arbítrio do homem, na moral do [Cristo](Cristo){:.w}. Logo, não é antirreligioso. 
 
-Temos raciocinado, abstraindo, como dissemos, de qualquer ensinamento espírita que, para certas pessoas, carece de autoridade. Não é somente porque veio dos [Espíritos](Espírito){:.w} que nós e tantos outros nos fizemos adeptos da pluralidade das existências. É porque essa [Doutrina](Espiritismo){:.l} nos pareceu a mais lógica e porque só ela resolve questões até então insolúveis.  
+Temos raciocinado, abstraindo, como dissemos, de qualquer ensinamento espírita que, para certas pessoas, carece de autoridade. Não é somente porque veio dos [Espíritos](Espírito){:.w} que nós e tantos outros nos fizemos adeptos da pluralidade das existências. É porque essa [Doutrina](Espiritismo){:.l} nos pareceu a mais lógica e porque só ela resolve questões até então insolúveis. 
 
-Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente adotado e não houvéramos hesitado um segundo mais em renunciar às ideias que esposávamos. Sendo demonstrado o erro, muito mais que perder do que ganhar tem o amor-próprio, com o se obstinar na sustentação de uma ideia falsa. Assim, também, tê-la-íamos repelido, mesmo que provindo dos [Espíritos](Espírito){:.w}, se nos parecera contrária à razão, como repelimos muitas outras, pois sabemos, por experiência, que não se deve aceitar cegamente tudo o que venha deles, da mesma forma que se não deve adotar às cegas tudo que proceda dos homens. O melhor título que, ao nosso ver, recomenda a ideia da reencarnação é o de ser, antes de tudo, lógica. Outro, no entanto, ela apresenta: o de a confirmarem os fatos, fatos positivos e, por bem dizer, materiais, que um estudo atento e criterioso revela a quem se dê ao trabalho de observar com paciência e perseverança e diante dos quais não há mais lugar para a dúvida. Quando esses fatos se houverem vulgarizado, como os da formação e do movimento da Terra, forçoso será que todos se rendam à evidência e os que se lhes colocaram em oposição ver-se-ão constrangidos a desdizer-se.  
+Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente adotado e não houvéramos hesitado um segundo mais em renunciar às ideias que esposávamos. Sendo demonstrado o erro, muito mais que perder do que ganhar tem o amor-próprio, com o se obstinar na sustentação de uma ideia falsa. Assim, também, tê-la-íamos repelido, mesmo que provindo dos [Espíritos](Espírito){:.w}, se nos parecera contrária à razão, como repelimos muitas outras, pois sabemos, por experiência, que não se deve aceitar cegamente tudo o que venha deles, da mesma forma que se não deve adotar às cegas tudo que proceda dos homens. O melhor título que, ao nosso ver, recomenda a ideia da reencarnação é o de ser, antes de tudo, lógica. Outro, no entanto, ela apresenta: o de a confirmarem os fatos, fatos positivos e, por bem dizer, materiais, que um estudo atento e criterioso revela a quem se dê ao trabalho de observar com paciência e perseverança e diante dos quais não há mais lugar para a dúvida. Quando esses fatos se houverem vulgarizado, como os da formação e do movimento da Terra, forçoso será que todos se rendam à evidência e os que se lhes colocaram em oposição ver-se-ão constrangidos a desdizer-se. 
 
-Reconheçamos, portanto, em resumo, que só a [doutrina](doutrina){:.d} da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que [Deus](Deus){:.l}, por misericórdia, lhe concedeu.  
+Reconheçamos, portanto, em resumo, que só a [doutrina](doutrina){:.d} da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que [Deus](Deus){:.l}, por misericórdia, lhe concedeu. 
 
 As próprias palavras de [Jesus](Jesus){:.w} não permitem [dúvida](Dúvida){:.w} a tal respeito:
 
 > <span class="emoji">✝️</span> ▸ Respondendo a Nicodemos, disse [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de [Deus](Deus){:.l}.*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem não renascer da água e do [Espírito](Espírito){:.w}, não poderá entrar no Reino de [Deus](Deus){:.l}. O que é nascido da carne é carne e o que é nascido do [Espírito](Espírito){:.w} é [Espírito](Espírito){:.w}. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
->  
+> 
 > João, cap. 3, vers. 3-7, [ARC][ARC]
 {:.bible-multi}
 
@@ -3669,10 +3669,10 @@ As próprias palavras de [Jesus](Jesus){:.w} não permitem [dúvida](Dúvida){:.
 👉 Veja <a href="#q1010">Q.1010</a><br>
 ↩️ Voltar para <a href="#q619">Q.619</a><br> 
 ↩️ Voltar para <a href="#q789">Q.789</a><br>
-<span class="emoji">🏷️</span> Alma, anterioridade da  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, corpo físico e  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, criação da  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, teoria da unicidade das existências e dificuldades da * na vida futura  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, anterioridade da <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, corpo físico e <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, criação da <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, teoria da unicidade das existências e dificuldades da * na vida futura <a href="#alma">↩️</a>
 </details> 
 
 ### 2-06. <span class="emoji">🗂️</span> Vida espírita {#lde-2-06}
@@ -3686,7 +3686,7 @@ A [alma](Alma){:.l} reencarna logo depois de se haver separado do corpo?
 > <span class="emoji">👻</span> ▸ Algumas vezes reencarna imediatamente, porém, de ordinário, só o faz depois de intervalos mais ou menos longos. Nos mundos superiores, a reencarnação é quase sempre imediata. Sendo aí menos grosseira a matéria corporal, o [Espírito](Espírito){:.w}, quando encarnado nesses mundos, goza quase que de todas as suas faculdades de [Espírito](Espírito){:.w}, sendo o seu estado normal o dos sonâmbulos lúcidos entre vós.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, reencarnação da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, reencarnação da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.224 {#q224}
@@ -3696,7 +3696,7 @@ Que é a [alma](Alma){:.l} no intervalo das encarnações?
 > <span class="emoji">👻</span> ▸ [Espírito](Espírito){:.w} errante, que aspira a novo destino, que espera.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, Espírito errante e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, Espírito errante e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.224.a {#q224a}
@@ -3706,7 +3706,7 @@ Quanto podem durar esses intervalos?
 > <span class="emoji">👻</span> ▸ Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de [erraticidade](Erraticidade){:.l}, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o [Espírito](Espírito){:.w} terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.224.b {#q224b}
@@ -3716,7 +3716,7 @@ Essa duração depende da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}
 > <span class="emoji">👻</span> ▸ É uma consequência do livre-arbítrio. Os [Espíritos](Espírito){:.w} sabem perfeitamente o que fazem. Mas, também, para alguns, constitui uma punição que [Deus](Deus){:.l} lhes inflige. Outros pedem que ela se prolongue, a fim de continuarem estudos que só na condição de [Espírito](Espírito){:.w} livre podem efetuar-se com proveito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.225 {#q225}
@@ -3726,7 +3726,7 @@ A [erraticidade](Erraticidade){:.l} é, por si só, um sinal de inferioridade do
 > <span class="emoji">👻</span> ▸ Não, porquanto há [Espíritos](Espírito){:.w} errantes de todos os graus. A encarnação é um estado transitório, já o dissemos. O [Espírito](Espírito){:.w} se acha no seu estado normal, quando liberto da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.226 {#q226}
@@ -3738,7 +3738,7 @@ Poder-se-á dizer que são errantes todos os [Espíritos](Espírito){:.w} que n�
 No tocante às qualidades íntimas, os [Espíritos](Espírito){:.w} são de diferentes ordens, ou graus, pelos quais vão passando sucessivamente, à medida que se purificam. Com relação ao estado em que se acham, podem ser: **encarnados**, isto é, ligados a um corpo; **errantes**, isto é, sem corpo material e aguardando nova encarnação para se melhorarem; **Espíritos puros**, isto é, perfeitos, não precisando mais de encarnação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.227 {#q227}
@@ -3748,7 +3748,7 @@ De que modo se instruem os [Espíritos](Espírito){:.w} errantes? Certo não o f
 > <span class="emoji">👻</span> ▸ Estudam e procuram meios de elevar-se. Veem, observam o que ocorre nos lugares aonde vão; ouvem os discursos dos homens doutos e os conselhos dos [Espíritos](Espírito){:.w} mais elevados e tudo isso lhes incute ideias que antes não tinham.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.228 {#q228}
@@ -3758,7 +3758,7 @@ Conservam os [Espíritos](Espírito){:.w} algumas de suas paixões humanas?
 > <span class="emoji">👻</span> ▸ Com o invólucro [imaterial](imaterial){:.d} os [Espíritos](Espírito){:.w} elevados deixam as paixões más e só guardam as do bem. Quanto aos [Espíritos](Espírito){:.w} inferiores, esses as conservam, pois do contrário pertenceriam à primeira ordem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.229 {#q229}
@@ -3768,7 +3768,7 @@ Por que, deixando a Terra, não deixam aí os [Espíritos](Espírito){:.w} todas
 > <span class="emoji">👻</span> ▸ Vês nesse mundo pessoas excessivamente invejosas. Imaginas que, mal o deixam, perdem esse defeito? Acompanha os que da [Terra](Terra){:.w} partem, sobretudo os que alimentaram paixões bem acentuadas, uma espécie de atmosfera que os envolve, conservando-lhes o que têm de mau, por não se achar o [Espírito](Espírito){:.w} inteiramente desprendido da matéria. Só por momentos ele entrevê a [verdade](Verdade){:.w}, que assim lhe aparece como que para mostrar-lhe o bom caminho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.230 {#q230}
@@ -3778,7 +3778,7 @@ Na [erraticidade](Erraticidade){:.l}, o [Espírito](Espírito){:.w} progride?
 > <span class="emoji">👻</span> ▸ Pode melhorar-se muito, tais sejam a [vontade](Vontade){:.w} e o desejo que tenha de consegui-lo. Todavia, na existência corporal é que põe em prática as ideias que adquiriu.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.231 {#q231}
@@ -3788,7 +3788,7 @@ São felizes ou desgraçados os [Espíritos](Espírito){:.w} errantes?
 > <span class="emoji">👻</span> ▸ Mais ou menos, conforme seus méritos. Sofrem por efeito das paixões cuja essência conservaram, ou são felizes, de conformidade com o grau de desmaterialização a que hajam chegado. Na [erraticidade](Erraticidade){:.l}, o [Espírito](Espírito){:.w} percebe o que lhe falta para ser mais feliz e, desde então, procura os meios de alcançá-lo. Nem sempre, porém, lhe é permitido reencarnar como fora de seu agrado, representando isso, para ele, uma punição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.232 {#q232}
@@ -3798,7 +3798,7 @@ Podem os [Espíritos](Espírito){:.w} errantes ir a todos os mundos?
 > <span class="emoji">👻</span> ▸ Conforme. Pelo simples fato de haver deixado o corpo, o [Espírito](Espírito){:.w} não se acha completamente desprendido da matéria e continua a pertencer ao mundo onde acabou de viver, ou a outro do mesmo grau, a menos que, durante a vida, se tenha elevado, o que, aliás, constitui o objetivo para que devem tender seus esforços, pois, do contrário, nunca se aperfeiçoaria. Pode, no entanto, ir a alguns mundos superiores, mas na qualidade de estrangeiro. A bem dizer, consegue apenas entrevê-los, donde lhe nasce o desejo de melhorar-se, para ser digno da felicidade de que gozam os que os habitam, para ser digno também de habitá-los mais tarde.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.233 {#q233}
@@ -3808,7 +3808,7 @@ Os [Espíritos](Espírito){:.w} já purificados descem aos mundos inferiores?
 > <span class="emoji">👻</span> ▸ Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Mundos transitórios {#lde-2-06-02}
@@ -3820,7 +3820,7 @@ Há, de fato, como já foi dito, mundos que servem de estações ou pontos de re
 > <span class="emoji">👻</span> ▸ Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa [erraticidade](Erraticidade){:.l}, estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos [Espíritos](Espírito){:.w} que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.234.a {#q234a}
@@ -3830,7 +3830,7 @@ Os [Espíritos](Espírito){:.w} que habitam esses mundos podem deixá-los livrem
 > <span class="emoji">👻</span> ▸ Sim, os [Espíritos](Espírito){:.w} que se encontram nesses mundos podem deixá-los, a fim de irem aonde devam ir. Figurai-os como bandos de aves que pousam numa ilha, para aí aguardarem que se lhes refaçam as forças, a fim de seguirem seu destino.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.235 {#q235}
@@ -3840,7 +3840,7 @@ Enquanto permanecem nos mundos transitórios, os [Espíritos](Espírito){:.w} pr
 > <span class="emoji">👻</span> ▸ Certamente. Os que vão a tais mundos levam o objetivo de se instruírem e de poderem mais facilmente obter permissão para passar a outros lugares melhores e chegar à perfeição que os eleitos atingem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.236 {#q236}
@@ -3850,7 +3850,7 @@ Pela sua natureza especial, os mundos transitórios se conservam perpetuamente d
 > <span class="emoji">👻</span> ▸ Não, a condição deles é meramente temporária.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.236.a {#q236a}
@@ -3860,7 +3860,7 @@ Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 > <span class="emoji">👻</span> ▸ Não; estéril é neles a superfície. Os que os habitam de nada precisam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.236.b {#q236b}
@@ -3870,7 +3870,7 @@ Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 > <span class="emoji">👻</span> ▸ Não; são estéreis transitoriamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.236.c {#q236c}
@@ -3880,7 +3880,7 @@ Os mundos dessa categoria carecem então de belezas naturais?
 > <span class="emoji">👻</span> ▸ A Natureza reflete as belezas da imensidade, que não são menos admiráveis do que aquilo a que dais o nome de belezas naturais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.236.d {#q236d}
@@ -3890,7 +3890,7 @@ Sendo transitório o estado de semelhantes mundos, a [Terra](Terra){:.w} pertenc
 > <span class="emoji">👻</span> ▸ Já pertenceu.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.236.e {#q236e}
@@ -3902,7 +3902,7 @@ Em que época?
 Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis [Deus](Deus){:.l} que, mesmo assim, ainda imperfeita, a [Terra](Terra){:.w} servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia [Deus](Deus){:.l} feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a [sabedoria](Sabedoria){:.w} que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Percepções, sensações e sofrimentos dos Espíritos {#lde-2-06-03}
@@ -3911,7 +3911,7 @@ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum h
 
 Uma vez de volta ao mundo dos [Espíritos](Espírito){:.w}, conserva a [alma](Alma){:.l} as percepções que tinha quando na Terra?
 
-> <span class="emoji">👻</span> ▸ Sim, além de outras de que aí não dispunha, porque o corpo, qual véu sobre elas lançado, as obscurecia. A [inteligência](Inteligência){:.w} é um atributo, que tanto mais livremente se manifesta no [Espírito](Espírito){:.w}, quanto menos entraves tenha que vencer.  
+> <span class="emoji">👻</span> ▸ Sim, além de outras de que aí não dispunha, porque o corpo, qual véu sobre elas lançado, as obscurecia. A [inteligência](Inteligência){:.w} é um atributo, que tanto mais livremente se manifesta no [Espírito](Espírito){:.w}, quanto menos entraves tenha que vencer. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q965">Q.965</a><br>
@@ -3925,7 +3925,7 @@ São ilimitadas as percepções e os conhecimentos dos [Espíritos](Espírito){:
 > <span class="emoji">👻</span> ▸ Quanto mais se aproximam da perfeição, tanto mais sabem. Se são [Espíritos](Espírito){:.w} superiores, sabem muito. Os [Espíritos](Espírito){:.w} inferiores são mais ou menos ignorantes acerca de tudo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.239 {#q239}
@@ -3935,7 +3935,7 @@ Conhecem os [Espíritos](Espírito){:.w} o princípio das coisas?
 > <span class="emoji">👻</span> ▸ Conforme a elevação e a pureza que hajam atingido. Os de ordem inferior não sabem mais do que os homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.240 {#q240}
@@ -3944,7 +3944,7 @@ A duração, os [Espíritos](Espírito){:.w} a compreendem como nós?
 
 > <span class="emoji">👻</span> ▸ Não e daí vem que nem sempre nos compreendeis, quando se trata de determinar datas ou épocas.
 
-Os [Espíritos](Espírito){:.w} vivem fora do tempo como o compreendemos. A duração, para eles, deixa, por assim dizer, de existir. Os séculos, para nós tão longos, não passam, aos olhos deles, de instantes que se movem na eternidade, do mesmo modo que os relevos do solo se apagam e desaparecem para quem se eleva no espaço.  
+Os [Espíritos](Espírito){:.w} vivem fora do tempo como o compreendemos. A duração, para eles, deixa, por assim dizer, de existir. Os séculos, para nós tão longos, não passam, aos olhos deles, de instantes que se movem na eternidade, do mesmo modo que os relevos do solo se apagam e desaparecem para quem se eleva no espaço. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q1005">Q.1005</a>
@@ -3957,7 +3957,7 @@ Os [Espíritos](Espírito){:.w} fazem do presente mais precisa e exata ideia do 
 > <span class="emoji">👻</span> ▸ Do mesmo modo que aquele, que vê bem, faz mais exata ideia das coisas do que o cego. Os [Espíritos](Espírito){:.w} veem o que não vedes. Tudo apreciam, pois, diversamente do modo por que o fazeis, mas também isso depende da elevação deles.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.242 {#q242}
@@ -3967,7 +3967,7 @@ Como é que os [Espíritos](Espírito){:.w} têm conhecimento do passado? E esse
 > <span class="emoji">👻</span> ▸ O passado, quando com ele nos ocupamos, é presente. Verifica-se então, precisamente, o que se passa contigo quando recordas qualquer coisa que te impressionou no curso do teu exílio. Simplesmente, como já nenhum véu material nos tolda a [inteligência](Inteligência){:.w}, lembramo-nos mesmo daquilo que se te apagou da memória. Nem tudo os [Espíritos](Espírito){:.w} sabem, porém, a começar pela sua própria criação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.243 {#q243}
@@ -3977,7 +3977,7 @@ E o futuro, os [Espíritos](Espírito){:.w} o conhecem?
 > <span class="emoji">👻</span> ▸ Ainda isto depende da elevação que tenham conquistado. Muitas vezes, apenas o entreveem, **porém, nem sempre lhes é permitido revelá-lo**. Quando o veem, parece-lhes presente. À medida que se aproxima de [Deus](Deus){:.l}, tanto mais claramente o [Espírito](Espírito){:.w} descortina o futuro. Depois da morte, a [alma](Alma){:.l} vê e apreende num golpe de vista **suas passadas migrações**, mas não pode ver o que [Deus](Deus){:.l} lhe reserva. Para que tal aconteça, preciso é que, ao cabo de múltiplas existências, se haja integrado nele.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.243.a {#q243a}
@@ -3987,7 +3987,7 @@ Os [Espíritos](Espírito){:.w} que alcançaram a perfeição absoluta têm conh
 > <span class="emoji">👻</span> ▸ Completo não se pode dizer, por isso que só [Deus](Deus){:.l} é soberano Senhor e ninguém o pode igualar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.244 {#q244}
@@ -3997,7 +3997,7 @@ Os [Espíritos](Espírito){:.w} veem a [Deus](Deus){:.l}?
 > <span class="emoji">👻</span> ▸ Só os [Espíritos](Espírito){:.w} superiores o veem e compreendem. Os inferiores o sentem e adivinham.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.244.a {#q244a}
@@ -4007,7 +4007,7 @@ Quando um [Espírito](Espírito){:.w} inferior diz que [Deus](Deus){:.l} lhe pro
 > <span class="emoji">👻</span> ▸ Ele não vê a [Deus](Deus){:.l}, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais sutil do que as vossas a essência dos [Espíritos](Espírito){:.w}, podem estes receber melhor as advertências divinas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.244.b {#q244b}
@@ -4017,7 +4017,7 @@ Quando um [Espírito](Espírito){:.w} inferior diz que [Deus](Deus){:.l} lhe pro
 > <span class="emoji">👻</span> ▸ Ela não lhe vem direta de [Deus](Deus){:.l}. Para se comunicar com [Deus](Deus){:.l}, é-lhe necessário ser digno disso. [Deus](Deus){:.l} lhe transmite suas ordens por intermédio dos [Espíritos](Espírito){:.w} imediatamente superiores em perfeição e instrução.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.245 {#q245}
@@ -4027,7 +4027,7 @@ O [Espírito](Espírito){:.w} tem circunscrita a visão como os seres corpóreos
 > <span class="emoji">👻</span> ▸ Não, ela reside em todo ele.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.246 {#q246}
@@ -4037,7 +4037,7 @@ Precisam da luz para ver?
 > <span class="emoji">👻</span> ▸ Veem por si mesmos, sem precisarem de luz exterior. Para os [Espíritos](Espírito){:.w}, não há trevas, salvo as em que podem achar-se por expiação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.247 {#q247}
@@ -4046,7 +4046,7 @@ Para verem o que se passa em dois pontos diferentes, precisam transportar-se a e
 
 > <span class="emoji">👻</span> ▸ Como o [Espírito](Espírito){:.w} se transporta aonde queira, com a rapidez do pensamento, pode-se dizer que vê em toda parte ao mesmo tempo. Seu pensamento é suscetível de irradiar, dirigindo-se a um tempo para muitos pontos diferentes, mas esta faculdade depende da sua pureza. Quanto menos puro é o [Espírito](Espírito){:.w}, tanto mais limitada tem a visão. Só os [Espíritos](Espírito){:.w} superiores podem com a vista abranger um conjunto.
 
-No [Espírito](Espírito){:.w}, a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No [Espírito](Espírito){:.w}, como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz.  
+No [Espírito](Espírito){:.w}, a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No [Espírito](Espírito){:.w}, como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q92">Q.92</a>
@@ -4059,7 +4059,7 @@ O [Espírito](Espírito){:.w} vê as coisas tão distintamente como nós?
 > <span class="emoji">👻</span> ▸ Mais distintamente, pois que sua vista penetra onde a vossa não pode penetrar. Nada a obscurece.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.249 {#q249}
@@ -4069,7 +4069,7 @@ Percebe os sons?
 > <span class="emoji">👻</span> ▸ Sim, percebe mesmo sons imperceptíveis para os vossos sentidos obtusos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.249.a {#q249a}
@@ -4079,7 +4079,7 @@ No [Espírito](Espírito){:.w}, a faculdade de ouvir está em todo ele, como a d
 > <span class="emoji">👻</span> ▸ Todas as percepções constituem atributos do [Espírito](Espírito){:.w} e lhe são inerentes ao ser. Quando o reveste um corpo material, elas só lhe chegam pelo conduto dos órgãos. Deixam, porém, de estar localizadas, em se achando ele na condição de [Espírito](Espírito){:.w} livre.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.250 {#q250}
@@ -4089,7 +4089,7 @@ Constituindo elas atributos próprios do [Espírito](Espírito){:.w}, ser-lhe-á
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} unicamente vê e ouve o que quer. Dizemos isto de um ponto de vista geral e, em particular, com referência aos [Espíritos](Espírito){:.w} elevados, porquanto os imperfeitos muitas vezes ouvem e veem, a seu mau grado, o que lhes possa ser útil ao aperfeiçoamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.251 {#q251}
@@ -4099,7 +4099,7 @@ São sensíveis à música os [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Aludes à música terrena? Que é ela comparada à música celeste? a esta harmonia de que nada na [Terra](Terra){:.w} vos pode dar ideia? Uma está para a outra como o canto do selvagem para uma doce melodia. Não obstante, [Espíritos](Espírito){:.w} vulgares podem experimentar certo prazer em ouvir a vossa música, por lhes não ser dado ainda compreenderem outra mais sublime. A música possui infinitos encantos para os [Espíritos](Espírito){:.w}, por terem eles muito desenvolvidas as qualidades sensitivas. Refiro-me à música celeste, que é tudo o que de mais belo e delicado pode a imaginação espiritual conceber.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.252 {#q252}
@@ -4109,7 +4109,7 @@ São sensíveis, os [Espíritos](Espírito){:.w}, às magnificências da Naturez
 > <span class="emoji">👻</span> ▸ Tão diferentes são as belezas naturais dos mundos, que longe estamos de as conhecer. Sim, os [Espíritos](Espírito){:.w} são sensíveis a essas belezas, de acordo com as aptidões que tenham para as apreciar e compreender. Para os [Espíritos](Espírito){:.w} elevados, há belezas de conjunto que, por assim dizer, apagam as das particularidades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.253 {#q253}
@@ -4119,7 +4119,7 @@ Os [Espíritos](Espírito){:.w} experimentam as nossas necessidades e sofrimento
 > <span class="emoji">👻</span> ▸ Eles os conhecem, porque os sofreram, não os experimentam, porém, materialmente, com vós outros: são [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.254 {#q254}
@@ -4129,7 +4129,7 @@ E a fadiga, a necessidade de repouso, experimentam-nas?
 > <span class="emoji">👻</span> ▸ Não podem sentir a fadiga, como a entendeis; conseguintemente, não precisam de descanso corporal, como vós, pois que não possuem órgãos cujas forças devam ser reparadas. O [Espírito](Espírito){:.w}, entretanto, repousa, no sentido de não estar em constante atividade. Ele não atua materialmente. Sua ação é toda intelectual e inteiramente moral o seu repouso. Quer isto dizer que momentos há em que o seu pensamento deixa de ser tão ativo quanto de ordinário e não se fixa em qualquer objeto determinado. É um verdadeiro repouso, mas de nenhum modo comparável ao do corpo. A espécie de fadiga que os [Espíritos](Espírito){:.w} são suscetíveis de sentir guarda relação com a inferioridade deles. Quanto mais elevados sejam, tanto menos precisarão de repousar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.255 {#q255}
@@ -4139,7 +4139,7 @@ Quando um [Espírito](Espírito){:.w} diz que sofre, de que natureza é o seu so
 > <span class="emoji">👻</span> ▸ Angústias morais, que o torturam mais dolorosamente do que todos os sofrimentos físicos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.256 {#q256}
@@ -4149,7 +4149,7 @@ Como é então que alguns [Espíritos](Espírito){:.w} se têm queixado de sofre
 > <span class="emoji">👻</span> ▸ É reminiscência do que padecem durante a vida, reminiscência não raro tão aflitiva quanto a realidade. Muitas vezes, no que eles assim dizem apenas há uma comparação mediante a qual, em falta de coisa melhor, procuram exprimir a situação em que se acham. Quando se lembram do corpo que revestiram, têm impressão semelhante à de uma pessoa que, havendo tirado o manto que a envolvia, julga, passado algum tempo, que ainda o traz sobre os ombros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
@@ -4184,7 +4184,7 @@ Objetarão, talvez: toda esta teoria nada tem de tranquilizadora. Pensávamos qu
 
 Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes, contudo, são devidos à nossa vontade. Remonte cada um à origem deles e verá que a maior parte de tais sofrimentos são efeitos de causas que lhe teria sido possível evitar. Quantos males, quantas enfermidades não deve o homem aos seus excessos, à sua ambição, numa palavra: às suas paixões? Aquele que sempre vivesse com sobriedade, que de nada abusasse, que fosse sempre simples nos gostos e modesto nos desejos, a muitas tribulações se forraria. O mesmo se dá com o [Espírito](Espírito){:.w}. Os sofrimentos por que passa são sempre a consequência da maneira por que viveu na Terra. Certo já não sofrerá mais de gota, nem de reumatismo; no entanto, experimentará outros sofrimentos que nada ficam a dever àqueles. Vimos que seu sofrer resulta dos laços que ainda o prendem à matéria; que quanto mais livre estiver da influência desta, ou, por outra, quanto mais desmaterializado se achar, menos dolorosas sensações experimentará. Ora, está nas suas mãos libertar-se de tal influência desde a vida atual. Ele tem o livre-arbítrio, tem, por conseguinte, a faculdade de escolha entre o fazer e o não fazer. Dome suas paixões animais; não alimente ódio, nem inveja, nem ciúme, nem orgulho; não se deixe dominar pelo egoísmo; purifique-se, nutrindo bons sentimentos; pratique o bem; não ligue às coisas deste mundo importância que não merecem; e, então, embora revestido do invólucro corporal, já estará depurado, já estará liberto do jugo da matéria e, quando deixar esse invólucro, não mais lhe sofrerá a influência. Nenhuma recordação dolorosa lhe advirá dos sofrimentos físicos que haja padecido; nenhuma impressão desagradável eles lhe deixarão, porque apenas terão atingido o corpo e não a alma. Sentir-se-á feliz por se haver libertado deles e a paz da sua [consciência](Consciência){:.w} o isentará de qualquer sofrimento moral.
 
-Interrogamos, aos milhares, [Espíritos](Espírito){:.w} que na [Terra](Terra){:.w} pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste.  
+Interrogamos, aos milhares, [Espíritos](Espírito){:.w} que na [Terra](Terra){:.w} pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q965">Q.965</a>
@@ -4196,7 +4196,7 @@ Interrogamos, aos milhares, [Espíritos](Espírito){:.w} que na [Terra](Terra){:
 
 Quando na [erraticidade](Erraticidade){:.l}, antes de começar nova existência corporal, tem o [Espírito](Espírito){:.w} [consciência](Consciência){:.w} e previsão do que lhe sucederá no curso da vida terrena?
 
-> <span class="emoji">👻</span> ▸ Ele próprio escolhe o gênero de provas por que há de passar e nisso consiste o seu livre-arbítrio.  
+> <span class="emoji">👻</span> ▸ Ele próprio escolhe o gênero de provas por que há de passar e nisso consiste o seu livre-arbítrio. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q871">Q.871</a>
@@ -4209,7 +4209,7 @@ Não é [Deus](Deus){:.l}, então, quem lhe impõe as tribulações da vida, com
 > <span class="emoji">👻</span> ▸ Nada ocorre sem a permissão de [Deus](Deus){:.l}, porquanto foi [Deus](Deus){:.l} quem estabeleceu todas as leis que regem o Universo. Ide agora perguntar por que decretou Ele esta lei e não aquela. Dando ao [Espírito](Espírito){:.w} a liberdade de escolher, [Deus](Deus){:.l} lhe deixa a inteira responsabilidade de seus atos e das consequências que estes tiverem. Nada lhe estorva o futuro; abertos se lhe acham, assim, o caminho do bem, como o do mal. Se vier a sucumbir, restar-lhe-á a consolação de que nem tudo se lhe acabou e que a Bondade divina lhe concede a liberdade de recomeçar o que foi malfeito. Ademais, cumpre se distinga o que é obra da [vontade](Vontade){:.w} de [Deus](Deus){:.l} do que o é da [vontade](Vontade){:.w} do homem. Se um perigo vos ameaça, não fostes vós quem o criou e sim [Deus](Deus){:.l}. Vosso, porém, foi o desejo de a ele vos expordes, por haverdes visto nisso um meio de progredirdes, e [Deus](Deus){:.l} o permitiu.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.259 {#q259}
@@ -4219,7 +4219,7 @@ Do fato de pertencer ao [Espírito](Espírito){:.w} a escolha do gênero de prov
 > <span class="emoji">👻</span> ▸ Todas, não, pois ninguém pode dizer que haveis previsto e buscado tudo o que vos sucede no mundo, até às mínimas coisas. Escolhestes apenas o gênero das provações. As particularidades correm por conta da posição em que vos achais; são, muitas vezes, consequências das vossas próprias ações. Escolhendo, por exemplo, nascer entre malfeitores, sabia o [Espírito](Espírito){:.w} a que arrastamentos se expunha; ignorava, porém, quais os atos que viria a praticar. Esses atos resultam do exercício da sua vontade, ou do seu livre-arbítrio. Sabe o [Espírito](Espírito){:.w} que, escolhendo tal caminho, terá que sustentar lutas de determinada espécie; sabe, portanto, de que natureza serão as vicissitudes que se lhe depararão, mas ignora se se verificará este ou aquele êxito. Os acontecimentos secundários se originam das circunstâncias e da força mesma das coisas. Previstos só são os fatos principais, os que influem no destino. Se tomares uma estrada cheia de sulcos profundos, sabes que terás de andar cautelosamente, porque há muitas probabilidades de caíres; ignoras, contudo, em que ponto cairás e bem pode suceder que não caias, se fores bastante prudente. Se, ao percorreres uma rua, uma telha te cair na cabeça, não creias que estava escrito, segundo vulgarmente se diz.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.260 {#q260}
@@ -4229,7 +4229,7 @@ Como pode o [Espírito](Espírito){:.w} desejar nascer entre gente de má vida?
 > <span class="emoji">👻</span> ▸ Forçoso é que seja posto num meio onde possa sofrer a prova que pediu. Pois bem! É necessário que haja analogia. Para lutar contra o instinto do roubo, preciso é que se ache em contato com gente dada à prática de roubar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.260.a {#q260a}
@@ -4239,7 +4239,7 @@ Assim, se não houvesse na [Terra](Terra){:.w} gente de maus costumes, o [Espír
 > <span class="emoji">👻</span> ▸ E seria isso de lastimar-se? É o que ocorre nos mundos superiores, onde o mal não penetra. Eis por que, nesses mundos, só há [Espíritos](Espírito){:.w} bons. Fazei que em breve o mesmo se dê na Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ambiente, provas e  <a href="#ambiente">↩️</a>
+<span class="emoji">🏷️</span> Ambiente, provas e <a href="#ambiente">↩️</a>
 </details>
 
 ###### Q.261 {#q261}
@@ -4249,7 +4249,7 @@ Nas provações por que lhe cumpre passar para atingir a perfeição, tem o [Esp
 > <span class="emoji">👻</span> ▸ Certo que não, pois bem sabeis haver [Espíritos](Espírito){:.w} que desde o começo tomam um caminho que os exime de muitas provas. Aquele, porém, que se deixa arrastar para o mau caminho, corre todos os perigos que o inçam. Pode um [Espírito](Espírito){:.w}, por exemplo, pedir a riqueza e ser-lhe esta concedida. Então, conforme o seu caráter, poderá tornar-se avaro ou pródigo, egoísta ou generoso, ou ainda lançar-se a todos os gozos da sensualidade. Daí não se segue, entretanto, que haja de forçosamente passar por todas estas tendências.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.262 {#q262}
@@ -4259,7 +4259,7 @@ Como pode o [Espírito](Espírito){:.w}, que, em sua origem, é simples, ignoran
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} lhe supre a inexperiência, traçando-lhe o caminho que deve seguir, como fazeis com a criancinha. Deixa-o, porém, pouco a pouco, à medida que o seu livre-arbítrio se desenvolve, senhor de proceder à escolha e só então é que muitas vezes lhe acontece extraviar-se, tomando o mau caminho, por desatender os conselhos dos bons [Espíritos](Espírito){:.w}. A isso é que se pode chamar a queda do homem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.262.a {#q262a}
@@ -4269,7 +4269,7 @@ Quando o [Espírito](Espírito){:.w} goza do livre-arbítrio, a escolha, que lhe
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} sabe esperar, não apressa a expiação. Todavia, pode impor certa existência a um [Espírito](Espírito){:.w}, quando este, pela sua inferioridade ou má vontade, não se mostra apto a compreender o que lhe seria mais útil, e quando vê que tal existência servirá para a purificação e o progresso do [Espírito](Espírito){:.w}, ao mesmo tempo que lhe sirva de expiação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.263 {#q263}
@@ -4279,7 +4279,7 @@ O [Espírito](Espírito){:.w} faz a sua escolha logo depois da morte?
 > <span class="emoji">👻</span> ▸ Não, muitos acreditam na eternidade das penas, o que, como já se vos disse, é um castigo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.264 {#q264}
@@ -4289,7 +4289,7 @@ Que é o que dirige o [Espírito](Espírito){:.w} na escolha das provas que quei
 > <span class="emoji">👻</span> ▸ Ele escolhe, de acordo com a natureza de suas faltas, as que o levem à [expiação](Expiação){:.l} destas e a progredir mais depressa. Uns, portanto, impõem a si mesmos uma vida de misérias e privações, objetivando suportá-las com coragem; outros preferem experimentar as tentações da riqueza e do poder, muito mais perigosas, pelos abusos e má aplicação a que podem dar lugar, pelas paixões inferiores que uma e outros desenvolvem; muitos, finalmente, se decidem a experimentar suas forças nas lutas que terão de sustentar em contato com o vício.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.265 {#q265}
@@ -4299,7 +4299,7 @@ Havendo [Espíritos](Espírito){:.w} que, por provação, escolhem o contato do 
 > <span class="emoji">👻</span> ▸ Há, sem dúvida, mas tão somente entre aqueles cujo senso moral ainda está pouco desenvolvido. **A prova vem por si mesma e eles a sofrem mais demoradamente**. Cedo ou tarde, compreendem que a satisfação de suas paixões brutais lhes acarretou deploráveis consequências, que eles sofrerão durante um tempo que lhes parecerá eterno. E [Deus](Deus){:.l} os deixará nessa persuasão, até que se tornem conscientes da falta em que incorreram e peçam, por impulso próprio, lhes seja concedido resgatá-la, mediante úteis provações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.266 {#q266}
@@ -4316,7 +4316,7 @@ Não vemos, aliás, todos os dias, exemplos de escolhas tais? Que faz o homem qu
 
 O viajante que atravessa profundo vale ensombrado por espesso nevoeiro não logra apanhar com a vista a extensão da estrada por onde vai, nem os seus pontos extremos. Chegando, porém, ao cume da montanha, abrange com o olhar quanto percorreu do caminho e quanto lhe resta dele a percorrer. Divisa-lhe o termo, vê os obstáculos que ainda terá de transpor e combina então os meios mais seguros de atingi-lo. O [Espírito](Espírito){:.w} encarnado é qual viajante no sopé da montanha. Desenleado dos liames terrenais, sua visão tudo domina, como a daquele que subiu à crista da serrania. Para o viajor, no termo da sua jornada está o repouso após a fadiga; para o [Espírito](Espírito){:.w}, está a felicidade suprema, após as tribulações e as provas.
 
-Dizem todos os [Espíritos](Espírito){:.w} que, na [erraticidade](Erraticidade){:.l}, eles se aplicam a pesquisar, estudar, observar, a fim de fazerem a sua escolha. Na vida corporal não se nos oferece um exemplo deste fato? Não levamos, frequentemente, anos a procurar a carreira pela qual afinal nos decidimos, certos de ser a mais apropriada a nos facilitar o caminho da vida? Se numa o nosso intento se malogra, recorremos a outra. Cada uma das que abraçamos representa uma fase, um período da vida. Não nos ocupamos cada dia em cogitar do que faremos no dia seguinte? Ora, que são, para o [Espírito](Espírito){:.w}, as diversas existências corporais, senão fases, períodos, dias da sua vida espírita, que é, como sabemos, a vida normal, visto que a outra é transitória, passageira?  
+Dizem todos os [Espíritos](Espírito){:.w} que, na [erraticidade](Erraticidade){:.l}, eles se aplicam a pesquisar, estudar, observar, a fim de fazerem a sua escolha. Na vida corporal não se nos oferece um exemplo deste fato? Não levamos, frequentemente, anos a procurar a carreira pela qual afinal nos decidimos, certos de ser a mais apropriada a nos facilitar o caminho da vida? Se numa o nosso intento se malogra, recorremos a outra. Cada uma das que abraçamos representa uma fase, um período da vida. Não nos ocupamos cada dia em cogitar do que faremos no dia seguinte? Ora, que são, para o [Espírito](Espírito){:.w}, as diversas existências corporais, senão fases, períodos, dias da sua vida espírita, que é, como sabemos, a vida normal, visto que a outra é transitória, passageira? 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q816">Q.816</a>
@@ -4329,7 +4329,7 @@ Pode o [Espírito](Espírito){:.w} proceder à escolha de suas provas, enquanto 
 > <span class="emoji">👻</span> ▸ O desejo que então alimenta pode influir na escolha que venha a fazer, dependendo isso da intenção que o anime. Dá-se, porém, que, como [Espírito](Espírito){:.w} livre, quase sempre vê as coisas de modo diferente. O [Espírito](Espírito){:.w} por si só é quem faz a escolha; entretanto, ainda uma vez o dizemos, possível lhe é fazê-la, mesmo na vida material, por isso que há sempre momentos em que o [Espírito](Espírito){:.w} se torna independente da matéria que lhe serve de habitação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.267.a {#q267a}
@@ -4339,7 +4339,7 @@ Não é decerto como expiação, ou como prova, que muita gente deseja as grande
 > <span class="emoji">👻</span> ▸ Indubitavelmente, não. A matéria deseja essa grandeza para gozá-la e o [Espírito](Espírito){:.w} para conhecer-lhe as vicissitudes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.268 {#q268}
@@ -4349,7 +4349,7 @@ Até que chegue ao estado de pureza perfeita, tem o [Espírito](Espírito){:.w} 
 > <span class="emoji">👻</span> ▸ Sim, mas que não são como o entendeis, pois que só considerais provas as tribulações materiais. Ora, havendo-se elevado a um certo grau, o [Espírito](Espírito){:.w}, embora não seja ainda perfeito, já não tem que sofrer provas. Continua, porém, sujeito a deveres nada penosos, cuja satisfação lhe auxilia o aperfeiçoamento, mesmo que consistam apenas em auxiliar os outros a se aperfeiçoarem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.269 {#q269}
@@ -4359,7 +4359,7 @@ Pode o [Espírito](Espírito){:.w} enganar-se quanto à eficiência da prova que
 > <span class="emoji">👻</span> ▸ Pode escolher uma que esteja acima de suas forças e sucumbir. Pode também escolher alguma que nada lhe aproveite, como sucederá se buscar vida ociosa e inútil. Mas, então, voltando ao mundo dos [Espíritos](Espírito){:.w}, verifica que nada ganhou e pede outra que lhe faculte recuperar o tempo perdido.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.270 {#q270}
@@ -4385,14 +4385,14 @@ Poderá dar-se que [Espíritos](Espírito){:.w} vindos de um mundo inferior à T
 Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilização. Voltando para o meio dos canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.273 {#q273}
 
 Será possível que um homem de raça civilizada reencarne, por expiação, numa raça de selvagens? [^13]
 
-> <span class="emoji">👻</span> ▸ É; mas depende do gênero da expiação. Um senhor, que tenha sido de grande crueldade para os seus escravos, poderá, por sua vez, tornar-se escravo e sofrer os maus-tratos que infligiu a seus semelhantes. Um, que em certa época exerceu o mando, pode, em nova existência, ter que obedecer aos que se curvavam ante a sua vontade. Ser-lhe-á isso uma expiação, que [Deus](Deus){:.l} lhe imponha, se ele abusou do seu poder. Também um bom [Espírito](Espírito){:.w} pode querer encarnar no seio daquelas raças, ocupando posição influente, para fazê-las progredir. Em tal caso, desempenha uma missão.  
+> <span class="emoji">👻</span> ▸ É; mas depende do gênero da expiação. Um senhor, que tenha sido de grande crueldade para os seus escravos, poderá, por sua vez, tornar-se escravo e sofrer os maus-tratos que infligiu a seus semelhantes. Um, que em certa época exerceu o mando, pode, em nova existência, ter que obedecer aos que se curvavam ante a sua vontade. Ser-lhe-á isso uma expiação, que [Deus](Deus){:.l} lhe imponha, se ele abusou do seu poder. Também um bom [Espírito](Espírito){:.w} pode querer encarnar no seio daquelas raças, ocupando posição influente, para fazê-las progredir. Em tal caso, desempenha uma missão. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q684">Q.684</a><br>
@@ -4408,7 +4408,7 @@ Da existência de diferentes ordens de [Espíritos](Espírito){:.w}, resulta par
 > <span class="emoji">👻</span> ▸ Muito grande. Os [Espíritos](Espírito){:.w} têm uns sobre os outros a autoridade correspondente ao grau de superioridade que hajam alcançado, autoridade que eles exercem por um ascendente moral irresistível.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Além-túmulo, relações no  <a href="#alem-tumulo">↩️</a>
+<span class="emoji">🏷️</span> Além-túmulo, relações no <a href="#alem-tumulo">↩️</a>
 </details>
 
 ###### Q.274.a {#q274a}
@@ -4418,7 +4418,7 @@ Podem os [Espíritos](Espírito){:.w} inferiores subtrair-se à autoridade dos q
 > <span class="emoji">👻</span> ▸ Eu disse: irresistível.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Autoridade, superioridade e  <a href="#autoridade">↩️</a>
+<span class="emoji">🏷️</span> Autoridade, superioridade e <a href="#autoridade">↩️</a>
 </details>
 
 ###### Q.275 {#q275}
@@ -4428,7 +4428,7 @@ O poder e a consideração de que um homem gozou na [Terra](Terra){:.w} lhe dão
 > <span class="emoji">👻</span> ▸ Não; pois que os pequenos serão elevados e os grandes rebaixados. Lê os salmos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.275.a {#q275a}
@@ -4436,7 +4436,7 @@ O poder e a consideração de que um homem gozou na [Terra](Terra){:.w} lhe dão
 Como devemos entender essa elevação e esse rebaixamento?
 
 > <span class="emoji">👻</span> ▸ Não sabes que os [Espíritos](Espírito){:.w} são de diferentes ordens, conforme seus méritos? Pois bem! O maior da [Terra](Terra){:.w} pode pertencer à última categoria entre os [Espíritos](Espírito){:.w}, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse [Jesus](Jesus){:.w}: 
->  
+> 
 > <span class="emoji">✝️</span> ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC][ARC]
 
 ###### Q.276 {#q276}
@@ -4446,7 +4446,7 @@ Aquele que foi grande na [Terra](Terra){:.w} e que, como [Espírito](Espírito){
 > <span class="emoji">👻</span> ▸ Às vezes bem grande, mormente se era orgulhoso e invejoso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.277 {#q277}
@@ -4456,7 +4456,7 @@ O soldado que depois da batalha se encontra com o seu general, no mundo dos [Esp
 > <span class="emoji">👻</span> ▸ O título nada vale, a superioridade real é que tem valor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.278 {#q278}
@@ -4468,7 +4468,7 @@ Os [Espíritos](Espírito){:.w} das diferentes ordens se acham misturados uns co
 Tal uma grande cidade onde os homens de todas as classes e de todas as condições se veem e encontram, sem se confundirem; onde as sociedades se formam pela analogia dos gostos; onde a virtude e o vício se acotovelam, sem trocarem palavra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.279 {#q279}
@@ -4478,7 +4478,7 @@ Todos os [Espíritos](Espírito){:.w} têm reciprocamente acesso aos diferentes 
 > <span class="emoji">👻</span> ▸ Os bons vão a toda parte e assim deve ser, para que possam influir sobre os maus. As regiões, porém, que os bons habitam estão interditadas aos [Espíritos](Espírito){:.w} imperfeitos, a fim de que não as perturbem com suas paixões inferiores.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.280 {#q280}
@@ -4488,7 +4488,7 @@ De que natureza são as relações entre os bons e os maus [Espíritos](Espírit
 > <span class="emoji">👻</span> ▸ Os bons se ocupam em combater as más inclinações dos outros, a fim de ajudá-los a subir. É uma missão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.281 {#q281}
@@ -4504,7 +4504,7 @@ Como se comunicam entre si os [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Eles se veem e se compreendem. A palavra é material, é o reflexo do [Espírito](Espírito){:.w}. O fluido universal estabelece entre eles constante comunicação; é o veículo da transmissão de seus pensamentos, como, para vós, o ar o é do som. É uma espécie de telégrafo universal, que liga todos os mundos e permite que os [Espíritos](Espírito){:.w} se correspondam de um mundo a outro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.283 {#q283}
@@ -4514,7 +4514,7 @@ Podem os [Espíritos](Espírito){:.w}, reciprocamente, dissimular seus pensament
 > <span class="emoji">👻</span> ▸ Não; para os [Espíritos](Espírito){:.w}, tudo é patente, sobretudo para os perfeitos. Podem afastar-se uns dos outros, mas sempre se veem. Isto, porém, não constitui regra absoluta, porquanto certos [Espíritos](Espírito){:.w} podem muito bem tornar-se invisíveis a outros [Espíritos](Espírito){:.w}, se julgarem útil fazê-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.284 {#q284}
@@ -4524,7 +4524,7 @@ Como podem os [Espíritos](Espírito){:.w}, não tendo corpo, comprovar suas ind
 > <span class="emoji">👻</span> ▸ Comprovam suas individualidades pelo [perispírito](Perispírito){:.w}, que os torna distinguíveis uns dos outros, como faz o corpo entre os homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.285 {#q285}
@@ -4534,7 +4534,7 @@ Os [Espíritos](Espírito){:.w} se reconhecem por terem coabitado a Terra? O fil
 > <span class="emoji">👻</span> ▸ Perfeitamente e, assim, de geração em geração.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.285.a {#q285a}
@@ -4544,7 +4544,7 @@ Como é que os que se conheceram na [Terra](Terra){:.w} se reconhecem no mundo d
 > <span class="emoji">👻</span> ▸ Vemos a nossa vida pretérita e lemos nela como em um livro. Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.286 {#q286}
@@ -4554,7 +4554,7 @@ Deixando seus despojos mortais, a [alma](Alma){:.l} vê imediatamente os parente
 > <span class="emoji">👻</span> ▸ Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, percepção visual da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, percepção visual da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.287 {#q287}
@@ -4564,7 +4564,7 @@ Como é acolhida a [alma](Alma){:.l} no seu regresso ao mundo dos [Espíritos](E
 > <span class="emoji">👻</span> ▸ A do justo, como bem-amado irmão, desde muito tempo esperado. A do mau, como um ser desprezível.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.288 {#q288}
@@ -4574,7 +4574,7 @@ Que sentimento desperta nos [Espíritos](Espírito){:.w} impuros a chegada entre
 > <span class="emoji">👻</span> ▸ Os maus ficam satisfeitos quando veem seres que se lhes assemelham e privados, também, da infinita ventura, qual na [Terra](Terra){:.w} um tratante entre seus iguais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.289 {#q289}
@@ -4584,7 +4584,7 @@ Nossos parentes e amigos costumam vir-nos ao encontro quando deixamos a Terra?
 > <span class="emoji">👻</span> ▸ Sim, os [Espíritos](Espírito){:.w} vão ao encontro da [alma](Alma){:.l} a quem são afeiçoados. Felicitam-na, como se regressasse de uma viagem, por haver escapado aos perigos da estrada, **e ajudam-na a desprender-se dos liames corporais**. É uma graça concedida aos bons [Espíritos](Espírito){:.w} o lhes virem ao encontro os que os amam, ao passo que aquele que se acha maculado permanece em isolamento, ou só tem a rodeá-lo os que lhe são semelhantes. É uma punição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.290 {#q290}
@@ -4594,10 +4594,10 @@ Os parentes e amigos sempre se reúnem depois da morte?
 > <span class="emoji">👻</span> ▸ Depende isso da elevação deles e do caminho que seguem, procurando progredir. Se um está mais adiantado e caminha mais depressa do que outro, não podem os dois conservar-se juntos. Ver-se-ão de tempos a tempos, mas não estarão reunidos para sempre, senão quando puderem caminhar lado a lado, ou quando se houverem igualado na perfeição. Acresce que a privação de ver os parentes e amigos é, às vezes, uma punição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
-#### <span class="emoji">📄</span> Relações de simpatia e de antipatia entre os Espíritos. Metades eternas  
+#### <span class="emoji">📄</span> Relações de simpatia e de antipatia entre os Espíritos. Metades eternas 
 
 ###### Q.291 {#q291}
 
@@ -4606,7 +4606,7 @@ Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se 
 > <span class="emoji">👻</span> ▸ Do mesmo modo que os homens, sendo, porém que mais forte é o laço que prende os [Espíritos](Espírito){:.w} uns aos outros, quando carentes de corpo material, porque então esse laço não se acha exposto às vicissitudes das paixões.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Amor, espíritos e sentimento de  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amor, espíritos e sentimento de <a href="#amor">↩️</a>
 </details>
 
 ###### Q.292 {#q292}
@@ -4616,7 +4616,7 @@ Alimentam ódio entre si os [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Só entre os [Espíritos](Espírito){:.w} impuros há ódio e são eles que insuflam nos homens as inimizades e as dissensões.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.293 {#q293}
@@ -4628,7 +4628,7 @@ Conservarão ressentimento um do outro, no mundo dos [Espíritos](Espírito){:.w
 Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antipatia, e simpatia  <a href="#antipatia">↩️</a>
+<span class="emoji">🏷️</span> Antipatia, e simpatia <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.294 {#q294}
@@ -4638,7 +4638,7 @@ A lembrança dos atos maus que dois homens praticaram um contra o outro constitu
 > <span class="emoji">👻</span> ▸ Essa lembrança os induz a se afastarem um do outro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.295 {#q295}
@@ -4648,7 +4648,7 @@ Que sentimento anima, depois da morte, aqueles a quem fizemos mal neste mundo?
 > <span class="emoji">👻</span> ▸ Se são bons, eles vos perdoam, segundo o vosso arrependimento. Se maus, é possível que guardem ressentimento do mal que lhes fizestes e vos persigam até, não raro, em outra existência. [Deus](Deus){:.l} pode permitir que assim seja, por castigo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.296 {#q296}
@@ -4658,7 +4658,7 @@ São suscetíveis de alterar-se as afeições individuais dos [Espíritos](Espí
 > <span class="emoji">👻</span> ▸ Não, por não estarem eles sujeitos a enganar-se. **Falta-lhes a máscara sob que se escondem os hipócritas**. Daí vem que, sendo puros, suas afeições são inalteráveis. Suprema felicidade lhes advém do [amor](Amor){:.w} que os une.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.297 {#q297}
@@ -4668,7 +4668,7 @@ Continua a existir sempre, no mundo dos [Espíritos](Espírito){:.w}, a afeiçã
 > <span class="emoji">👻</span> ▸ Sem dúvida, desde que originada de verdadeira simpatia. Se, porém, nasceu principalmente de causas de ordem física, desaparece com a causa. As afeições entre os [Espíritos](Espírito){:.w} são mais sólidas e duráveis do que na Terra, porque não se acham subordinadas aos caprichos dos interesses materiais e do amor-próprio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.298 {#q298}
@@ -4678,7 +4678,7 @@ As almas que devam unir-se estão, desde suas origens, predestinadas a essa uni�
 > <span class="emoji">👻</span> ▸ Não; não há união particular e fatal, de duas almas. A união que há é a de todos os [Espíritos](Espírito){:.w}, mas em graus diversos, segundo a categoria que ocupam, isto é, segundo a perfeição que tenham adquirido. Quanto mais perfeitos, tanto mais unidos. Da discórdia nascem todos os males dos humanos; da concórdia resulta a completa felicidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.299 {#q299}
@@ -4688,7 +4688,7 @@ Em que sentido se deve entender a palavra metade, de que alguns [Espíritos](Esp
 > <span class="emoji">👻</span> ▸ A expressão é inexata. Se um [Espírito](Espírito){:.w} fosse a metade de outro, separados os dois, estariam ambos incompletos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.300 {#q300}
@@ -4698,7 +4698,7 @@ Se dois [Espíritos](Espírito){:.w} perfeitamente simpáticos se reunirem, esta
 > <span class="emoji">👻</span> ▸ Todos os [Espíritos](Espírito){:.w} estão reciprocamente unidos. Falo dos que atingiram a perfeição. Nas esferas inferiores, desde que um [Espírito](Espírito){:.w} se eleva, já não simpatiza, como dantes, com os que lhe ficaram abaixo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.301 {#q301}
@@ -4708,7 +4708,7 @@ Dois [Espíritos](Espírito){:.w} simpáticos são complemento um do outro, ou a
 > <span class="emoji">👻</span> ▸ A simpatia que atrai um [Espírito](Espírito){:.w} para outro resulta da perfeita concordância de seus pendores e instintos. Se um tivesse que completar o outro, perderia a sua individualidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.302 {#q302}
@@ -4718,7 +4718,7 @@ A identidade necessária à existência da simpatia perfeita apenas consiste na 
 > <span class="emoji">👻</span> ▸ Na igualdade dos graus de elevação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.303 {#q303}
@@ -4728,7 +4728,7 @@ Podem tornar-se de futuro simpáticos, [Espíritos](Espírito){:.w} que presente
 > <span class="emoji">👻</span> ▸ Todos o serão. Um [Espírito](Espírito){:.w}, que hoje está numa esfera inferior, ascenderá, aperfeiçoando-se, à em que se acha tal outro [Espírito](Espírito){:.w}. E ainda mais depressa se dará o encontro dos dois, se o mais elevado, por suportar mal as provas a que esteja submetido, permanecer estacionário.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.303.a {#q303a}
@@ -4740,7 +4740,7 @@ Podem deixar de ser simpáticos um ao outro dois [Espíritos](Espírito){:.w} qu
 A teoria das metades eternas encerra uma simples figura, representativa da união de dois [Espíritos](Espírito){:.w} simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os [Espíritos](Espírito){:.w} que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois [Espíritos](Espírito){:.w} tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Recordação da existência corpórea {#lde-2-06-08}
@@ -4754,7 +4754,7 @@ Lembra-se o [Espírito](Espírito){:.w} da sua existência corporal?
 Tal qual o homem, que chegou à madureza e que ri das suas loucuras de moço, ou das suas puerilidades na meninice.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.305 {#q305}
@@ -4764,7 +4764,7 @@ A lembrança da existência corporal se apresenta ao [Espírito](Espírito){:.w}
 > <span class="emoji">👻</span> ▸ Não; vem-lhe pouco a pouco, qual imagem que surge gradualmente de uma névoa, à medida que nela fixa ele a sua atenção.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.306 {#q306}
@@ -4774,7 +4774,7 @@ O [Espírito](Espírito){:.w} se lembra, pormenorizadamente, de todos os acontec
 > <span class="emoji">👻</span> ▸ Lembra-se das coisas, de conformidade com as consequências que delas resultaram para o estado em que se encontra como [Espírito](Espírito){:.w} errante. Bem compreendes, portanto, que muitas circunstâncias haverá de sua vida a que não ligará importância alguma e das quais nem sequer procurará recordar-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.306.a {#q306a}
@@ -4784,7 +4784,7 @@ Mas, se o quisesse, poderia lembrar-se delas?
 > <span class="emoji">👻</span> ▸ Pode lembrar-se dos mais minuciosos pormenores e incidentes, assim relativos aos fatos, como até aos seus pensamentos. Não o faz, porém, desde que não tenha utilidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.306.b {#q306b}
@@ -4794,7 +4794,7 @@ Entrevê o [Espírito](Espírito){:.w} o objetivo da vida terrestre com relaçã
 > <span class="emoji">👻</span> ▸ Certo que o vê e compreende muito melhor do que em vida do seu corpo. Compreende a necessidade da sua purificação para chegar ao infinito e percebe que em cada existência deixa algumas impurezas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.307 {#q307}
@@ -4804,7 +4804,7 @@ Como é que ao [Espírito](Espírito){:.w} se lhe desenha na memória a sua vida
 > <span class="emoji">👻</span> ▸ De uma e outra formas. São-lhe como que presentes todos os atos de que tenha interesse em lembrar-se. Os outros lhe permanecem mais ou menos vagos na mente, ou esquecidos de todo. Quanto mais desmaterializado estiver, tanto menos importância dará às coisas materiais. Essa a [razão](Razão){:.w} por que muitas vezes evocas um [Espírito](Espírito){:.w} que acabou de deixar a [Terra](Terra){:.w} e verificas que não se lembra dos nomes das pessoas que lhe eram caras, nem de uma porção de coisas que te parecem importantes. É que tudo isso, pouco lhe importando, logo caiu em esquecimento. Ele só se recorda perfeitamente bem dos fatos principais que concorrem para a sua melhoria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.308 {#q308}
@@ -4814,7 +4814,7 @@ O [Espírito](Espírito){:.w} se recorda de todas as existências que precederam
 > <span class="emoji">👻</span> ▸ Todo o seu passado se lhe desdobra à vista, quais a um viajor os trechos do caminho que percorreu. Mas, como já dissemos, não se recorda, de modo absoluto, de todos os seus atos. Lembra-se destes conforme a influência que tiveram na criação do seu estado atual. Quanto às primeiras existências, as que se podem considerar como a infância do [Espírito](Espírito){:.w}, essas se perdem no vago e desaparecem na noite do esquecimento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.309 {#q309}
@@ -4824,7 +4824,7 @@ Como considera o [Espírito](Espírito){:.w} o corpo de que vem de separar-se?
 > <span class="emoji">👻</span> ▸ Como veste imprestável, que o embaraçava, sentindo-se feliz por estar livre dela.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.309.a {#q309a}
@@ -4834,7 +4834,7 @@ Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 > <span class="emoji">👻</span> ▸ Quase sempre se conserva indiferente a isso, como a uma coisa que em nada o interessa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.310 {#q310}
@@ -4844,7 +4844,7 @@ Ao cabo de algum tempo, reconhecerá o [Espírito](Espírito){:.w} os ossos ou o
 > <span class="emoji">👻</span> ▸ Algumas vezes, dependendo do ponto de vista mais ou menos elevado, donde considere as coisas terrenas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.311 {#q311}
@@ -4854,7 +4854,7 @@ A veneração que se tenha pelos objetos materiais que pertenceram ao [Espírito
 > <span class="emoji">👻</span> ▸ É sempre grato ao [Espírito](Espírito){:.w} que se lembrem dele, e os objetos que lhe pertenceram trazem-no à memória dos que ele no mundo deixou. O que o atrai, porém, é o pensamento destas pessoas e não aqueles objetos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.312 {#q312}
@@ -4864,7 +4864,7 @@ E a lembrança dos sofrimentos por que passaram na última existência corporal,
 > <span class="emoji">👻</span> ▸ Frequentemente assim acontece e essa lembrança lhes faz compreender melhor o valor da felicidade de que podem gozar como [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.313 {#q313}
@@ -4876,7 +4876,7 @@ O homem, que neste mundo foi feliz, deplora a felicidade que perdeu, deixando a 
 Exatamente como sucede ao homem que, na idade da madureza, nenhuma importância liga ao que tanto o deliciava na infância.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.314 {#q314}
@@ -4886,7 +4886,7 @@ Aquele que deu começo a trabalhos de vulto com um fim útil e, que os vê inter
 > <span class="emoji">👻</span> ▸ Não, porque vê que outros estão destinados a concluí-los. Trata, ao contrário, de influenciar outros [Espíritos](Espírito){:.w} humanos, para que os ultimem. Seu objetivo, na Terra, era o bem da Humanidade; o mesmo objetivo continua a ter no mundo dos [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.315 {#q315}
@@ -4896,7 +4896,7 @@ E o que deixou trabalhos de arte ou de literatura, conserva pelas suas obras o [
 > <span class="emoji">👻</span> ▸ De acordo com a sua elevação, aprecia-as de outro ponto de vista e não é raro condene o que maior admiração lhe causava.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.316 {#q316}
@@ -4906,7 +4906,7 @@ No além, o [Espírito](Espírito){:.w} se interessa pelos trabalhos que se exec
 > <span class="emoji">👻</span> ▸ Conforme a sua elevação ou a missão que possa ter que desempenhar. Muitas vezes, o que vos parece magnífico bem pouco é para certos [Espíritos](Espírito){:.w}, que, então, o admiram, como o sábio admira a obra de um estudante. Atentam apenas no que prove a elevação dos encarnados e seus progressos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.317 {#q317}
@@ -4918,7 +4918,7 @@ Após a morte, conservam os [Espíritos](Espírito){:.w} o [amor](Amor){:.w} da 
 As condições dos [Espíritos](Espírito){:.w} e as maneiras por que veem as coisas variam ao infinito, de conformidade com os graus de desenvolvimento moral e intelectual em que se achem. Geralmente, os [Espíritos](Espírito){:.w} de ordem elevada só por breve tempo se aproximam da Terra. Tudo o que aí se faz é tão mesquinho em comparação com as grandezas do infinito, tão pueris são, aos olhos deles, as coisas a que os homens mais importância ligam, que quase nenhum atrativo lhes oferece o nosso mundo, a menos que para aí os leve o propósito de concorrerem para o progresso da Humanidade. Os [Espíritos](Espírito){:.w} de ordem intermédia são os que mais frequentemente baixam a este planeta, se bem considerem as coisas de um ponto de vista mais alto do que quando encarnados. Os [Espíritos](Espírito){:.w} vulgares, esses são os que aí mais se comprazem e constituem a massa da população invisível do globo terráqueo. Conservam quase que as mesmas ideias, os mesmos gostos e as mesmas inclinações que tinham quando revestidos do invólucro corpóreo. Metem-se em nossas reuniões, negócios, divertimentos, nos quais tomam parte mais ou menos ativa, segundo seus caracteres. Não podendo satisfazer às suas paixões, gozam na companhia dos que a elas se entregam e os excitam a cultivá-las. Entre eles, no entanto, muitos há, sérios, que veem e observam para se instruírem e aperfeiçoarem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.318 {#q318}
@@ -4928,7 +4928,7 @@ As ideias dos [Espíritos](Espírito){:.w} se modificam quando na [erraticidade]
 > <span class="emoji">👻</span> ▸ Muito; sofrem grandes modificações, à proporção que o [Espírito](Espírito){:.w} se desmaterializa. Pode este, algumas vezes, permanecer longo tempo imbuído das ideias que tinha na Terra; mas, pouco a pouco, a influência da matéria diminui e ele vê as coisas com maior clareza. É então que procura os meios de se tornar melhor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.319 {#q319}
@@ -4940,7 +4940,7 @@ Já tendo o [Espírito](Espírito){:.w} vivido a vida espírita antes da sua enc
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q163">Q.613</a> e seguintes.<br>
 ↩️ Voltar para <a href="#q385">Q.385</a><br>
-<span class="emoji">🏷️</span> Alma, percepção visual da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, percepção visual da <a href="#alma">↩️</a>
 </details> 
 
 #### <span class="emoji">📄</span> Comemoração dos mortos. Funerais {#lde-2-06-09}
@@ -4949,7 +4949,7 @@ Já tendo o [Espírito](Espírito){:.w} vivido a vida espírita antes da sua enc
 
 Sensibiliza os [Espíritos](Espírito){:.w} o lembrarem-se deles os que lhes foram caros na Terra?
 
-> <span class="emoji">👻</span> ▸ Muito mais do que podeis supor. Se são felizes, esse fato lhes aumenta a felicidade. Se são desgraçados, serve-lhes de lenitivo.  
+> <span class="emoji">👻</span> ▸ Muito mais do que podeis supor. Se são felizes, esse fato lhes aumenta a felicidade. Se são desgraçados, serve-lhes de lenitivo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q824">Q.824</a>
@@ -4962,7 +4962,7 @@ O dia da comemoração dos mortos é, para os [Espíritos](Espírito){:.w}, mais
 > <span class="emoji">👻</span> ▸ Os [Espíritos](Espírito){:.w} acodem nesse dia ao chamado dos que da [Terra](Terra){:.w} lhes dirigem seus pensamentos, como o fazem noutro dia qualquer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.321.a {#q321a}
@@ -4972,7 +4972,7 @@ Mas o de finados é, para eles, um dia especial de reunião junto de suas sepult
 > <span class="emoji">👻</span> ▸ Nesse dia, em maior número se reúnem nas necrópoles, porque então também é maior, em tais lugares, o das pessoas que os chamam pelo pensamento. Porém, cada [Espírito](Espírito){:.w} vai lá somente pelos seus amigos e não pela multidão dos indiferentes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.321.b {#q321b}
@@ -4982,7 +4982,7 @@ Sob que forma aí comparecem e como os veríamos, se pudessem tornar-se visívei
 > <span class="emoji">👻</span> ▸ Sob a que tinham quando encarnados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.322 {#q322}
@@ -4992,7 +4992,7 @@ E os esquecidos, cujos túmulos ninguém vai visitar, também lá, não obstante
 > <span class="emoji">👻</span> ▸ Que lhes importa a Terra? Só pelo coração nos achamos a ela presos. Desde que aí ninguém mais lhe vota afeição, nada mais prende a esse planeta o [Espírito](Espírito){:.w}, que tem para si o Universo inteiro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.323 {#q323}
@@ -5002,7 +5002,7 @@ A visita de um [espírito](Espírito){:.w} a um túmulo causa maior contentament
 > <span class="emoji">👻</span> ▸ Aquele que visita um túmulo apenas manifesta, por essa forma, que pensa no [Espírito](Espírito){:.w} ausente. A visita é a representação exterior de um fato íntimo. Já dissemos que a prece é que santifica o ato da rememoração. Nada importa o lugar, desde que é feita com o coração.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.324 {#q324}
@@ -5012,7 +5012,7 @@ Os [Espíritos](Espírito){:.w} das pessoas a quem se erigem estátuas ou monume
 > <span class="emoji">👻</span> ▸ Muitos comparecem a tais solenidades, quando podem; porém, menos os sensibiliza a homenagem que lhes prestam, do que a lembrança que deles guardam os homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.325 {#q325}
@@ -5028,7 +5028,7 @@ Deve-se considerar futilidade a reunião dos despojos mortais de todos os membro
 > <span class="emoji">👻</span> ▸ Não; é um costume piedoso e um testemunho de simpatia que dão os que assim procedem aos que lhes foram entes queridos. Conquanto destituída de importância para os [Espíritos](Espírito){:.w}, essa reunião é útil aos homens: mais concentradas se tornam suas recordações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.326 {#q326}
@@ -5038,7 +5038,7 @@ Comovem a [alma](Alma){:.l} que volta à vida espiritual as honras que lhe prest
 > <span class="emoji">👻</span> ▸ Quando já ascendeu a certo grau de perfeição, o [Espírito](Espírito){:.w} se acha escoimado de vaidades terrenas e compreende a futilidade de todas essas coisas. Fica sabendo, porém, há [Espíritos](Espírito){:.w} que, nos primeiros momentos que se seguem à sua [morte](Morte){:.w} material, experimentam grande prazer com as honras que lhes tributam, ou se aborrecem com o pouco caso que façam de seus envoltórios corporais. É que ainda conservam alguns dos preconceitos desse mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.327 {#q327}
@@ -5048,7 +5048,7 @@ O [Espírito](Espírito){:.w} assiste ao seu enterro?
 > <span class="emoji">👻</span> ▸ Frequentemente assiste, mas, algumas vezes, se ainda está perturbado, não percebe o que se passa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.327.a {#q327a}
@@ -5058,7 +5058,7 @@ Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 > <span class="emoji">👻</span> ▸ Mais ou menos, conforme o sentimento que as anima.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.328 {#q328}
@@ -5068,7 +5068,7 @@ O [Espírito](Espírito){:.w} daquele que acaba de morrer assiste à reunião de
 > <span class="emoji">👻</span> ▸ Quase sempre. Para seu ensinamento e castigo dos culpados, [Deus](Deus){:.l} permite que assim aconteça. Nessa ocasião, o [Espírito](Espírito){:.w} julga do valor dos protestos que lhe faziam. Todos os sentimentos se lhe patenteiam e a decepção que lhe causa a rapacidade dos que entre si partilham os bens por ele deixados o esclarece acerca daqueles sentimentos. Chegará, porém, a vez dos que lhe motivam essa decepção.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.329 {#q329}
@@ -5078,7 +5078,7 @@ O instintivo respeito que, em todos os tempos e entre todos os povos, o homem co
 > <span class="emoji">👻</span> ▸ É a consequência natural dessa intuição. Se assim não fosse, nenhuma [razão](Razão){:.w} de ser teria esse respeito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 2-07. <span class="emoji">🗂️</span> Volta à vida material {#lde-2-07}
@@ -5102,7 +5102,7 @@ Então, a reencarnação é uma necessidade da vida espírita, como a [morte](Mo
 > <span class="emoji">👻</span> ▸ Certamente; assim é.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.331 {#q331}
@@ -5112,14 +5112,14 @@ Todos os [Espíritos](Espírito){:.w} se preocupam com a sua reencarnação?
 > <span class="emoji">👻</span> ▸ Muitos há que em tal coisa não pensam, que nem sequer a compreendem. Depende de estarem mais ou menos adiantados. Para alguns, a incerteza em que se acham do futuro que os aguarda constitui punição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.332 {#q332}
 
 Pode o [Espírito](Espírito){:.w} apressar ou retardar o momento da sua reencarnação?
 
-> <span class="emoji">👻</span> ▸ Pode apressá-lo, atraindo-o por um desejo ardente. Pode igualmente distanciá-lo, recuando diante da prova, pois entre os [Espíritos](Espírito){:.w} também há covardes e indiferentes. Nenhum, porém, assim procede impunemente, visto que sofre por isso, como aquele que recusa o remédio capaz de curá-lo.  
+> <span class="emoji">👻</span> ▸ Pode apressá-lo, atraindo-o por um desejo ardente. Pode igualmente distanciá-lo, recuando diante da prova, pois entre os [Espíritos](Espírito){:.w} também há covardes e indiferentes. Nenhum, porém, assim procede impunemente, visto que sofre por isso, como aquele que recusa o remédio capaz de curá-lo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q991">Q.991</a>
@@ -5132,7 +5132,7 @@ Se se considerasse bastante feliz, numa condição mediana entre os [Espíritos]
 > <span class="emoji">👻</span> ▸ Indefinidamente, não. Cedo ou tarde, o [Espírito](Espírito){:.w} sente a necessidade de progredir. Todos têm que se elevar; esse o destino de todos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.334 {#q334}
@@ -5142,7 +5142,7 @@ Há predestinação na união da [alma](Alma){:.l} com tal ou tal corpo, ou só 
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} é sempre, de antemão, designado. Tendo escolhido a prova a que queira submeter-se, pede para encarnar. Ora, [Deus](Deus){:.l}, que tudo sabe e vê, já antecipadamente sabia e vira que tal [Espírito](Espírito){:.w} se uniria a tal corpo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.335 {#q335}
@@ -5152,7 +5152,7 @@ Cabe ao [Espírito](Espírito){:.w} a escolha do corpo em que encarne, ou soment
 > <span class="emoji">👻</span> ▸ Pode também escolher o corpo, porquanto as imperfeições que este apresente ainda serão, para o [Espírito](Espírito){:.w}, provas que lhe auxiliarão o progresso, se vencer os obstáculos que lhe oponha. Nem sempre, porém, lhe é permitida a escolha do seu invólucro corpóreo; mas, simplesmente, a faculdade de pedir que seja tal ou qual.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.335.a {#q335a}
@@ -5162,7 +5162,7 @@ Poderia o [Espírito](Espírito){:.w} recusar, à última hora, tomar o corpo po
 > <span class="emoji">👻</span> ▸ Se recusasse, sofreria muito mais do que aquele que não tentasse prova alguma.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.336 {#q336}
@@ -5172,14 +5172,14 @@ Poderia dar-se não haver [Espírito](Espírito){:.w} que aceitasse encarnar num
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} a isso proveria. Quando uma criança tem que nascer vital, está predestinada sempre a ter uma alma. Nada se cria sem que à criação presida um desígnio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.337 {#q337}
 
 Pode a união do [Espírito](Espírito){:.w} a determinado corpo ser imposta por [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ Certo, do mesmo modo que as diferentes provas, mormente quando ainda o [Espírito](Espírito){:.w} não está apto a proceder a uma escolha com conhecimento de causa. Por expiação, pode o [Espírito](Espírito){:.w} ser constrangido a se unir ao corpo de determinada criança que, pelo seu nascimento e pela posição que venha a ocupar no mundo, se lhe torne instrumento de castigo.  
+> <span class="emoji">👻</span> ▸ Certo, do mesmo modo que as diferentes provas, mormente quando ainda o [Espírito](Espírito){:.w} não está apto a proceder a uma escolha com conhecimento de causa. Por expiação, pode o [Espírito](Espírito){:.w} ser constrangido a se unir ao corpo de determinada criança que, pelo seu nascimento e pela posição que venha a ocupar no mundo, se lhe torne instrumento de castigo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q872">Q.872</a>
@@ -5192,7 +5192,7 @@ Se acontecesse que muitos [Espíritos](Espírito){:.w} se apresentassem para tom
 > <span class="emoji">👻</span> ▸ Muitos podem pedi-lo; mas, em tal caso, [Deus](Deus){:.l} é quem julga qual o mais capaz de desempenhar a missão a que a criança se destina. Porém, como já eu disse, o [Espírito](Espírito){:.w} é designado antes que soe o instante em que haja de unir-se ao corpo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.339 {#q339}
@@ -5202,7 +5202,7 @@ No momento de encarnar, o [Espírito](Espírito){:.w} sofre perturbação semelh
 > <span class="emoji">👻</span> ▸ Muito maior e sobretudo mais longa. Pela morte, o [Espírito](Espírito){:.w} sai da escravidão; pelo nascimento, entra para ela.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.340 {#q340}
@@ -5214,7 +5214,7 @@ No momento de encarnar, o [Espírito](Espírito){:.w} sofre perturbação semelh
 O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará. O mesmo se dá com o [Espírito](Espírito){:.w}: conhece o gênero das provas a que se submete, mas não sabe se sucumbirá. Assim como, para o [Espírito](Espírito){:.w}, a [morte](Morte){:.w} do corpo é uma espécie de renascimento, a reencarnação é uma espécie de morte, ou antes, de exílio, de clausura. Ele deixa o mundo dos [Espíritos](Espírito){:.w} pelo mundo corporal, como o homem deixa este mundo por aquele. Sabe que reencarnará, como o homem sabe que morrerá. Mas, como este com relação à morte, o [Espírito](Espírito){:.w} só no instante supremo, quando chegou o momento predestinado, tem [consciência](Consciência){:.w} de que vai reencarnar. Então, qual o homem em agonia, dele se apodera a perturbação, que se prolonga até que a nova existência se ache positivamente encetada. À aproximação do momento de reencarnar, sente uma espécie de agonia.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.341 {#q341}
@@ -5224,7 +5224,7 @@ Na incerteza em que se vê, quanto às eventualidades do seu triunfo nas provas 
 > <span class="emoji">👻</span> ▸ De ansiedade bem grande, pois que as provas da sua existência o retardarão ou farão avançar, conforme as suporte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.342 {#q342}
@@ -5234,7 +5234,7 @@ No momento de reencarnar, o [Espírito](Espírito){:.w} se acha acompanhado de o
 > <span class="emoji">👻</span> ▸ Depende da esfera a que pertença. Se já está nas em que reina a afeição, os [Espíritos](Espírito){:.w} que lhe querem o acompanham até o último momento, animam e mesmo lhe seguem, muitas vezes, os passos pela vida afora.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.343 {#q343}
@@ -5244,7 +5244,7 @@ Os que vemos, em sonho, que nos testemunham afeto e que se nos apresentam com de
 > <span class="emoji">👻</span> ▸ Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> União do espírito e do corpo {#lde-2-07-02}
@@ -5256,7 +5256,7 @@ Em que momento a [alma](Alma){:.l} se une ao corpo?
 > <span class="emoji">👻</span> ▸ A união começa na concepção, mas só é completa por ocasião do nascimento. Desde o instante da concepção, o [Espírito](Espírito){:.w} designado para habitar certo corpo a este se liga por um laço fluídico, que cada vez mais se vai apertando até o instante em que a criança vê a luz. O grito, que o recém-nascido solta, anuncia que ele se conta no número dos vivos e dos servos de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, união do corpo e da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, união do corpo e da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.345 {#q345}
@@ -5266,7 +5266,7 @@ Em que momento a [alma](Alma){:.l} se une ao corpo?
 > <span class="emoji">👻</span> ▸ É definitiva a união, no sentido de que outro [Espírito](Espírito){:.w} não poderia substituir o que está designado para aquele corpo. Como os laços que ao corpo prendem o [Espírito](Espírito){:.w} são ainda muito fracos, facilmente se rompem e podem romper-se por [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}, se este recua diante da prova que escolheu. Em tal caso, porém, a criança não vinga.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.346 {#q346}
@@ -5276,7 +5276,7 @@ Que faz o [Espírito](Espírito){:.w}, se o corpo que ele escolheu morre antes d
 > <span class="emoji">👻</span> ▸ Escolhe outro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.346.a {#q346a}
@@ -5286,7 +5286,7 @@ Qual a utilidade dessas mortes prematuras?
 > <span class="emoji">👻</span> ▸ Dão-lhes causa, as mais das vezes, as imperfeições da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.347 {#q347}
@@ -5296,7 +5296,7 @@ Que utilidade encontrará um [Espírito](Espírito){:.w} na sua encarnação em 
 > <span class="emoji">👻</span> ▸ O ser não tem então [consciência](Consciência){:.w} plena da sua existência. Assim, a importância da [morte](Morte){:.w} é quase nenhuma. Conforme já dissemos, o que há nesses casos de [morte](Morte){:.w} prematura é uma prova para os pais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.348 {#q348}
@@ -5306,7 +5306,7 @@ Sabe o [Espírito](Espírito){:.w}, previamente, que o corpo de sua escolha não
 > <span class="emoji">👻</span> ▸ Sabe-o algumas vezes; mas, se nessa circunstância reside o motivo da escolha, isso significa que está fugindo à prova.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.349 {#q349}
@@ -5316,7 +5316,7 @@ Quando falha por qualquer causa a encarnação de um [Espírito](Espírito){:.w}
 > <span class="emoji">👻</span> ▸ Nem sempre o é imediatamente. Faz-se mister dar ao [Espírito](Espírito){:.w} tempo para proceder a nova escolha, a menos que a reencarnação imediata corresponda a anterior determinação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.350 {#q350}
@@ -5326,7 +5326,7 @@ Uma vez unido ao corpo da criança e quando já lhe não é possível voltar atr
 > <span class="emoji">👻</span> ▸ Perguntas se, como homem, se queixa da vida que tem? Se desejara que outra fosse ela? Sim. Se se arrepende da escolha que fez? Não, pois não sabe ter sido sua a escolha. Depois de encarnado, não pode o [Espírito](Espírito){:.w} lastimar uma escolha de que não tem consciência. Pode, entretanto, achar pesada demais a carga e considerá-la superior às suas forças. É quando isso acontece que recorre ao suicídio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.351 {#q351}
@@ -5336,7 +5336,7 @@ No intervalo que medeia da concepção ao nascimento, goza o [Espírito](Espíri
 > <span class="emoji">👻</span> ▸ Mais ou menos, conforme o ponto em que se ache dessa fase, porquanto ainda não está encarnado, apenas ligado. A partir do instante da concepção, começa o [Espírito](Espírito){:.w} a ser tomado de perturbação, que o adverte de que lhe soou o momento de começar nova existência corpórea. Essa perturbação cresce de contínuo até ao nascimento. Nesse intervalo, seu estado é quase idêntico ao de um [Espírito](Espírito){:.w} encarnado durante o sono. À medida que a hora do nascimento se aproxima, suas ideias se apagam, assim como a lembrança do passado, do qual deixa de ter [consciência](Consciência){:.w} na condição de homem, logo que entra na vida. Essa lembrança, porém, lhe volta pouco a pouco ao retornar ao estado de [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.352 {#q352}
@@ -5346,7 +5346,7 @@ Imediatamente ao nascer recobra o [Espírito](Espírito){:.w} a plenitude das su
 > <span class="emoji">👻</span> ▸ Não, elas se desenvolvem gradualmente com os órgãos. O [Espírito](Espírito){:.w} se acha numa existência nova; preciso é que aprenda a servir-se dos instrumentos de que dispõe. As ideias lhe voltam pouco a pouco, como a uma pessoa que desperta e se vê em situação diversa da que ocupava na véspera.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.353 {#q353}
@@ -5356,7 +5356,7 @@ Não sendo completa a união do [Espírito](Espírito){:.w} ao corpo, não estan
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} que o vai animar existe, de certo modo, fora dele. O feto não tem pois, propriamente falando, uma alma, visto que a encarnação está apenas em via de operar-se. Acha-se, entretanto, ligado à [alma](Alma){:.l} que virá a possuir.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.354 {#q354}
@@ -5366,7 +5366,7 @@ Como se explica a vida intrauterina?
 > <span class="emoji">👻</span> ▸ É a da planta que vegeta. A criança vive vida animal. O homem tem a vida vegetal e a vida animal que, pelo seu nascimento, se completam com a vida espiritual.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.355 {#q355}
@@ -5376,7 +5376,7 @@ Há, de fato, como o indica a Ciência, crianças que já no seio materno não s
 > <span class="emoji">👻</span> ▸ Frequentemente isso se dá e [Deus](Deus){:.l} o permite como prova, quer para os pais do nascituro, quer para o [Espírito](Espírito){:.w} designado a tomar lugar entre os vivos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.356 {#q356}
@@ -5386,7 +5386,7 @@ Entre os natimortos alguns haverá que não tenham sido destinados à encarnaç�
 > <span class="emoji">👻</span> ▸ Alguns há, efetivamente, a cujos corpos nunca nenhum [Espírito](Espírito){:.w} esteve destinado. Nada tinha que se efetuar para eles. Tais crianças então só vêm por seus pais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.356.a {#q356a}
@@ -5396,7 +5396,7 @@ Pode chegar a termo de nascimento um ser dessa natureza?
 > <span class="emoji">👻</span> ▸ Algumas vezes; mas não vive.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.356.b {#q356b}
@@ -5406,7 +5406,7 @@ Segue-se daí que toda criança que vive após o nascimento tem forçosamente en
 > <span class="emoji">👻</span> ▸ Que seria ela, se assim não acontecesse? Não seria um ser humano.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.357 {#q357}
@@ -5416,7 +5416,7 @@ Que consequências tem para o [Espírito](Espírito){:.w} o aborto?
 > <span class="emoji">👻</span> ▸ É uma existência nulificada e que ele terá de recomeçar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Aborto, consequências do  <a href="#aborto">↩️</a>
+<span class="emoji">🏷️</span> Aborto, consequências do <a href="#aborto">↩️</a>
 </details>
 
 ###### Q.358 {#q358} 
@@ -5426,8 +5426,8 @@ Constitui crime a provocação do aborto, em qualquer período da gestação?
 > <span class="emoji">👻</span> ▸ Há crime sempre que transgredis a Lei de [Deus](Deus){:.l}. Uma mãe, ou quem quer que seja, cometerá crime sempre que tirar a vida a uma criança antes do seu nascimento, pois isso impede uma [alma](Alma){:.l} de passar pelas provas a que serviria de instrumento o corpo que se estava formando.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Aborto, gestação e  <a href="#aborto">↩️</a><br>
-<span class="emoji">🏷️</span> Aborto, provocação do  <a href="#aborto">↩️</a>
+<span class="emoji">🏷️</span> Aborto, gestação e <a href="#aborto">↩️</a><br>
+<span class="emoji">🏷️</span> Aborto, provocação do <a href="#aborto">↩️</a>
 </details>
 
 ###### Q.359 {#q359}
@@ -5437,8 +5437,8 @@ Dado o caso que o nascimento da criança pusesse em perigo a vida da mãe dela, 
 > <span class="emoji">👻</span> ▸ Preferível é se sacrifique o ser que ainda não existe a sacrificar-se o que já existe.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Aborto, provocação do  <a href="#aborto">↩️</a><br>
-<span class="emoji">🏷️</span> Aborto, vida da mãe em perigo e  <a href="#aborto">↩️</a>
+<span class="emoji">🏷️</span> Aborto, provocação do <a href="#aborto">↩️</a><br>
+<span class="emoji">🏷️</span> Aborto, vida da mãe em perigo e <a href="#aborto">↩️</a>
 </details>
 
 ###### Q.360 {#q360}
@@ -5448,7 +5448,7 @@ Será racional ter-se para com um feto as mesmas atenções que se costuma dispe
 > <span class="emoji">👻</span> ▸ Em tudo vede o cumprimento da [vontade](Vontade){:.w} de [Deus](Deus){:.l}. Não trateis, pois, desatenciosamente, coisas que deveis respeitar. Por que não respeitar as obras da Criação, uma vez que, se se não completaram, é que assim o quis o [Criador](Deus){:.l}? Tudo ocorre segundo os seus desígnios e a ninguém é lícito julgar desses desígnios.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Faculdades morais e intelectuais do homem {#lde-2-07-03}
@@ -5457,7 +5457,7 @@ Será racional ter-se para com um feto as mesmas atenções que se costuma dispe
 
 Qual a origem das qualidades morais, boas ou más, do homem?
 
-> <span class="emoji">👻</span> ▸ São as do [Espírito](Espírito){:.w} nele encarnado. Quanto mais puro é esse [Espírito](Espírito){:.w}, tanto mais propenso ao bem é o homem.  
+> <span class="emoji">👻</span> ▸ São as do [Espírito](Espírito){:.w} nele encarnado. Quanto mais puro é esse [Espírito](Espírito){:.w}, tanto mais propenso ao bem é o homem. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q804">Q.804</a><br>
@@ -5472,7 +5472,7 @@ Seguir-se-á daí que o homem de bem é a encarnação de um bom [Espírito](Esp
 > <span class="emoji">👻</span> ▸ Sim, mas, dize antes que o homem vicioso é a encarnação de um [Espírito](Espírito){:.w} imperfeito, pois, do contrário, poderias fazer crer na existência de [Espíritos](Espírito){:.w} sempre maus, a que chamais demônios.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.362 {#q362}
@@ -5482,7 +5482,7 @@ Qual o caráter dos indivíduos em que encarnam [Espíritos](Espírito){:.w} des
 > <span class="emoji">👻</span> ▸ São indivíduos estúrdios, maliciosos e, não raro, criaturas malfazejas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.363 {#q363}
@@ -5492,7 +5492,7 @@ Têm os [Espíritos](Espírito){:.w} paixões de que não partilhe a Humanidade?
 > <span class="emoji">👻</span> ▸ Não, que, de outro modo, vo-las teriam comunicado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.364 {#q364}
@@ -5502,14 +5502,14 @@ O mesmo [Espírito](Espírito){:.w} dá ao homem as qualidades morais e as da [i
 > <span class="emoji">👻</span> ▸ Certamente e isso em virtude do grau de adiantamento a que se haja elevado. O homem não tem em si dois [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.365 {#q365}
 
 Por que alguns homens muito inteligentes, o que indica acharem-se encarnados neles [Espíritos](Espírito){:.w} superiores, são ao mesmo tempo profundamente viciosos?
 
-> <span class="emoji">👻</span> ▸ É que não são ainda bastante puros os [Espíritos](Espírito){:.w} encarnados nesses homens, que, então, e por isso, cedem à influência de outros [Espíritos](Espírito){:.w} mais imperfeitos. O [Espírito](Espírito){:.w} progride em insensível marcha ascendente, mas o progresso não se efetua simultaneamente em todos os sentidos. Durante um período da sua existência, ele se adianta em ciência; durante outro, em moralidade.  
+> <span class="emoji">👻</span> ▸ É que não são ainda bastante puros os [Espíritos](Espírito){:.w} encarnados nesses homens, que, então, e por isso, cedem à influência de outros [Espíritos](Espírito){:.w} mais imperfeitos. O [Espírito](Espírito){:.w} progride em insensível marcha ascendente, mas o progresso não se efetua simultaneamente em todos os sentidos. Durante um período da sua existência, ele se adianta em ciência; durante outro, em moralidade. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q780">Q.780</a><br>
@@ -5525,7 +5525,7 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 > O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos [fenômenos](fenómeno){:.d}, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados [fenônemos](fenómeno){:.d} consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do [Espírito](Espírito){:.w} encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos [Espíritos](Espírito){:.w} teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de [Espíritos](Espírito){:.w}, em que estes provam suas personalidades e identidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Influência do corpo {#lde-2-07-04}
@@ -5541,7 +5541,7 @@ Unindo-se ao corpo, o [Espírito](Espírito){:.w} se identifica com a matéria?
 > <span class="emoji">👻</span> ▸ A matéria é apenas o envoltório do [Espírito](Espírito){:.w}, como o vestuário o é do corpo. Unindo-se a este, o [Espírito](Espírito){:.w} conserva os atributos da natureza espiritual.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.368 {#q368}
@@ -5551,7 +5551,7 @@ Após sua união com o corpo, exerce o [Espírito](Espírito){:.w}, com liberdad
 > <span class="emoji">👻</span> ▸ O exercício das faculdades depende dos órgãos que lhes servem de instrumento. A grosseria da matéria as enfraquece.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.368.a {#q368a}
@@ -5563,7 +5563,7 @@ Assim, o invólucro material é obstáculo à livre manifestação das faculdade
 Pode-se comparar a ação que a matéria grosseira exerce sobre o [Espírito](Espírito){:.w} à de um charco lodoso sobre um corpo nele mergulhado, ao qual tira a liberdade dos movimentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.369 {#q369} 
@@ -5573,7 +5573,7 @@ O livre exercício das faculdades da [alma](Alma){:.l} está subordinado ao dese
 > <span class="emoji">👻</span> ▸ Os órgãos são os instrumentos da manifestação das faculdades da alma, manifestação que se acha subordinada ao desenvolvimento e ao grau de perfeição dos órgãos, como a excelência de um trabalho o está à da ferramenta própria à sua execução.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, organismo humano e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, organismo humano e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.370 {#q370}
@@ -5583,7 +5583,7 @@ Da influência dos órgãos se pode inferir a existência de uma relação entre
 > <span class="emoji">👻</span> ▸ Não confundais o efeito com a causa. O [Espírito](Espírito){:.w} dispõe sempre das faculdades que lhe são próprias. Ora, não são os órgãos que dão as faculdades, e sim estas que impulsionam o desenvolvimento dos órgãos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.370.a {#q370a}
@@ -5595,7 +5595,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 Encarnando, traz o [Espírito](Espírito){:.w} certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Idiotismo, loucura {#lde-2-07-05}
@@ -5604,11 +5604,11 @@ Encarnando, traz o [Espírito](Espírito){:.w} certas predisposições e, se se 
 
 Tem algum fundamento o pretender-se que a [alma](Alma){:.l} dos cretinos e dos idiotas é de natureza inferior?
 
-> <span class="emoji">👻</span> ▸ Nenhum. Eles trazem almas humanas, não raro mais inteligentes do que supondes, mas que sofrem da insuficiência dos meios de que dispõem para se comunicar, da mesma forma que o mudo sofre da impossibilidade de falar.  
+> <span class="emoji">👻</span> ▸ Nenhum. Eles trazem almas humanas, não raro mais inteligentes do que supondes, mas que sofrem da insuficiência dos meios de que dispõem para se comunicar, da mesma forma que o mudo sofre da impossibilidade de falar. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q847">Q.847</a><br>
-<span class="emoji">🏷️</span> Alma, dos cretinos e dos idiotas  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, dos cretinos e dos idiotas <a href="#alma">↩️</a>
 </details>
 
 ###### Q.372 {#q372}
@@ -5618,7 +5618,7 @@ Que objetivo visa a Providência criando seres desgraçados, como os cretinos e 
 > <span class="emoji">👻</span> ▸ Os que habitam corpos de idiotas são [Espíritos](Espírito){:.w} sujeitos a uma punição. Sofrem por efeito do constrangimento que experimentam e da impossibilidade em que estão de se manifestarem mediante órgãos não desenvolvidos ou desmantelados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.372.a {#q372a}
@@ -5630,7 +5630,7 @@ Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as f
 Importa se distinga o estado normal do estado patológico. No primeiro, o moral vence os obstáculos que a matéria lhe opõe. Há, porém, casos em que a matéria oferece tal resistência que as manifestações anímicas ficam obstadas ou desnaturadas, como nos de idiotismo e de loucura. São casos patológicos e, não gozando nesse estado a [alma](Alma){:.l} de toda a sua liberdade, a própria lei humana a isenta da responsabilidade de seus atos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.373 {#q373}
@@ -5640,7 +5640,7 @@ Qual será o mérito da existência de seres que, como os cretinos e os idiotas,
 > <span class="emoji">👻</span> ▸ É uma [expiação](Expiação){:.l} decorrente do abuso que fizeram de certas faculdades. É um estacionamento temporário.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.373.a {#q373a}
@@ -5652,7 +5652,7 @@ Pode assim o corpo de um idiota conter um [Espírito](Espírito){:.w} que tenha 
 A superioridade moral nem sempre guarda proporção com a superioridade intelectual e os grandes gênios podem ter muito que expiar. Daí, frequentemente, lhes resulta uma existência inferior à que tiveram e uma causa de sofrimentos. Os embaraços que o [Espírito](Espírito){:.w} encontra para suas manifestações se lhe assemelham às algemas que tolhem os movimentos a um homem vigoroso. Pode dizer-se que os cretinos e os idiotas são estropiados do cérebro, como o coxo o é das pernas e dos olhos o cego.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.374 {#q374}
@@ -5662,7 +5662,7 @@ Na condição de [Espírito](Espírito){:.w} livre, tem o idiota [consciência](
 > <span class="emoji">👻</span> ▸ Frequentemente tem. Compreende que as cadeias que lhe obstam ao voo são prova e expiação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.375 {#q375}
@@ -5682,7 +5682,7 @@ Então, o desorganizado é sempre o corpo e não o [Espírito](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Exatamente, mas convém não perder de vista que, assim como o [Espírito](Espírito){:.w} atua sobre a matéria, também esta reage sobre ele, dentro de certos limites, e que pode acontecer impressionar-se o [Espírito](Espírito){:.w} temporariamente com a alteração dos órgãos pelos quais se manifesta e recebe as impressões. Pode mesmo suceder que, com a continuação, durando longo tempo a loucura, a repetição dos mesmos atos acabe por exercer sobre o [Espírito](Espírito){:.w} uma influência, de que ele não se libertará senão depois de se haver libertado de toda impressão material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ação, reciprocidade de  <a href="#acao">↩️</a>
+<span class="emoji">🏷️</span> Ação, reciprocidade de <a href="#acao">↩️</a>
 </details>
 
 ###### Q.376 {#q376}
@@ -5692,7 +5692,7 @@ Por que [razão](Razão){:.w} a [loucura](Loucura){:.w} leva o homem algumas vez
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} sofre pelo constrangimento em que se acha e pela impossibilidade em que se vê de manifestar-se livremente, donde o procurar na [morte](Morte){:.w} um meio de quebrar seus grilhões.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.377 {#q377}
@@ -5702,7 +5702,7 @@ Depois da morte, o [Espírito](Espírito){:.w} do alienado se ressente do desarr
 > <span class="emoji">👻</span> ▸ Pode ressentir-se, durante algum tempo após a morte, até que se desligue completamente da matéria, como o homem que desperta se ressente, por algum tempo, da perturbação em que o lançara o sono.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.378 {#q378}
@@ -5712,7 +5712,7 @@ De que modo a alteração do cérebro reage sobre o [Espírito](Espírito){:.w} 
 > <span class="emoji">👻</span> ▸ Como uma recordação. Um peso oprime o [Espírito](Espírito){:.w} e, como ele não teve a compreensão de tudo o que se passou durante a sua loucura, sempre se faz mister um certo tempo, a fim de se pôr ao corrente de tudo. Por isso é que, quanto mais durar a [loucura](Loucura){:.w} no curso da vida terrena, tanto mais lhe durará a incerteza, o constrangimento, depois da morte. Liberto do corpo, o [Espírito](Espírito){:.w} se ressente, por certo tempo, da impressão dos laços que àquele o prendiam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> A infância {#lde-2-07-06}
@@ -5721,7 +5721,7 @@ De que modo a alteração do cérebro reage sobre o [Espírito](Espírito){:.w} 
 
 É tão desenvolvido, quanto o de um adulto, o [Espírito](Espírito){:.w} que anima o corpo de uma criança?
 
-> <span class="emoji">👻</span> ▸ Pode até ser mais, se mais progrediu. Apenas a imperfeição dos órgãos infantis o impede de se manifestar. Obra de conformidade com o instrumento de que dispõe.  
+> <span class="emoji">👻</span> ▸ Pode até ser mais, se mais progrediu. Apenas a imperfeição dos órgãos infantis o impede de se manifestar. Obra de conformidade com o instrumento de que dispõe. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q871">Q.871</a>
@@ -5736,7 +5736,7 @@ Abstraindo do obstáculo que a imperfeição dos órgãos opõe à sua livre man
 Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, não apresentam o caráter dos de um adulto. Quase sempre pueril é o objeto dos sonhos infantis, o que indica de que natureza são as preocupações do respectivo [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.381 {#q381}
@@ -5746,7 +5746,7 @@ Por [morte](Morte){:.w} da criança, readquire o [Espírito](Espírito){:.w}, im
 > <span class="emoji">👻</span> ▸ Assim tem que ser, pois que se vê desembaraçado de seu invólucro corporal. Entretanto, não readquire a anterior lucidez, senão quando se tenha completamente separado daquele envoltório, isto é, quando mais nenhum laço exista entre ele e o corpo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.382 {#q382}
@@ -5756,7 +5756,7 @@ Durante a infância sofre o [Espírito](Espírito){:.w} encarnado, em consequên
 > <span class="emoji">👻</span> ▸ Não. Esse estado corresponde a uma necessidade, está na ordem da natureza e de acordo com as vistas da Providência. É um período de repouso do [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.383 {#q383}
@@ -5766,7 +5766,7 @@ Qual, para este, a utilidade de passar pelo estado de infância?
 > <span class="emoji">👻</span> ▸ Encarnando, com o objetivo de se aperfeiçoar, o [Espírito](Espírito){:.w}, durante esse período, é mais acessível às impressões que recebe, capazes de lhe auxiliarem o adiantamento, para o que devem contribuir os incumbidos de educá-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.384 {#q384}
@@ -5776,7 +5776,7 @@ Por que é o choro a primeira manifestação da criança ao nascer?
 > <span class="emoji">👻</span> ▸ Para estimular o interesse da genitora e provocar os cuidados de que há mister. Não é evidente que se suas manifestações fossem todas de alegria, quando ainda não sabe falar, pouco se inquietariam os que o cercam com os cuidados que lhe são indispensáveis? Admirai, pois, em tudo a [sabedoria](Sabedoria){:.w} da Providência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.385 {#q385}
@@ -5791,11 +5791,11 @@ Que é o que motiva a mudança que se opera no caráter do indivíduo em certa i
 >
 > Não foi, todavia, por elas somente que [Deus](Deus){:.l} lhes deu esse aspecto de inocência; foi também e sobretudo por seus pais, de cujo [amor](Amor){:.w} necessita a fraqueza que as caracteriza. Ora, esse [amor](Amor){:.w} se enfraqueceria grandemente à vista de um caráter áspero e intratável, ao passo que, julgando seus filhos bons e dóceis, os pais lhes dedicam toda a afeição e os cercam dos mais minuciosos cuidados. Desde que, porém, os filhos não mais precisam da proteção e assistência que lhes foram dispensadas durante 15 ou 20 anos, surge-lhes o caráter real e individual em toda a nudez. Conservam-se bons, se eram fundamentalmente bons, mas sempre irisados de matizes que a primeira infância manteve ocultos. Como vedes, os processos de [Deus](Deus){:.l} são sempre os melhores e, quando se tem o coração puro, facilmente se lhes apreende a explicação. Com efeito, ponderai que nos vossos lares possivelmente nascem crianças cujos [Espíritos](Espírito){:.w} vêm de mundos onde contraíram hábitos diferentes dos vossos e dizei-me como poderiam estar no vosso meio esses seres, trazendo paixões diversas das que nutris, inclinações, gostos, inteiramente opostos aos vossos; como poderiam enfileirar-se entre vós, senão como [Deus](Deus){:.l} o determinou, isto é, passando pelo tamis da infância? Nesta se vêm confundir todas as ideias, todos os caracteres, todas as variedades de seres gerados pela infinidade dos mundos em que medram as criaturas. E vós mesmos, ao morrerdes, vos achareis num estado que é uma espécie de infância, entre novos irmãos. Ao volverdes à existência extraterrena, ignorareis os hábitos, os costumes, as relações que se observam nesse mundo, para vós, novo. Manejareis com dificuldade uma linguagem que não estais acostumado a falar, linguagem mais vivaz do que o é agora o vosso pensamento. (👉 Veja [Q.319](#q319)) A infância ainda tem outra utilidade. Os [Espíritos](Espírito){:.w} só entram na vida corporal para se aperfeiçoarem, para se melhorarem. A delicadeza da idade infantil os torna brandos, acessíveis aos conselhos da experiência e dos que devam fazê-los progredir. Nessa fase é que se lhes pode reformar os caracteres e reprimir os maus pendores. Tal o dever que [Deus](Deus){:.l} impôs aos pais, missão sagrada de que terão de dar contas.
 >
-> Assim, portanto, a infância é não só útil, necessária, indispensável, mas também consequência natural das Leis que [Deus](Deus){:.l} estabeleceu e que regem o Universo.  
+> Assim, portanto, a infância é não só útil, necessária, indispensável, mas também consequência natural das Leis que [Deus](Deus){:.l} estabeleceu e que regem o Universo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q890">Q.890</a><br>
-<span class="emoji">🏷️</span> Adolescência, caráter na  <a href="#adolescencia">↩️</a>
+<span class="emoji">🏷️</span> Adolescência, caráter na <a href="#adolescencia">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Simpatia e antipatia materiais {#lde-2-07-07}
@@ -5807,7 +5807,7 @@ Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência
 > <span class="emoji">👻</span> ▸ Reconhecer-se, não. Podem, porém, sentir-se atraídos um para o outro. E, frequentemente, diversa não é a causa de íntimas ligações fundadas em sincera afeição. Um do outro dois seres se aproximam devido a circunstâncias aparentemente fortuitas, mas que na realidade resultam da atração de dois [Espíritos](Espírito){:.w}, **que se buscam reciprocamente por entre a multidão**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.386.a {#q386a}
@@ -5827,7 +5827,7 @@ A simpatia tem sempre por princípio um anterior conhecimento?
 > <span class="emoji">👻</span> ▸ Não. Dois [Espíritos](Espírito){:.w}, que se ligam bem, naturalmente se procuram um ao outro, sem que se tenham conhecido como homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.388 {#q388}
@@ -5837,7 +5837,7 @@ Os encontros, que costumam dar-se, de algumas pessoas e que comumente se atribue
 > <span class="emoji">👻</span> ▸ Entre os seres pensantes há ligação que ainda não conheceis. O magnetismo é o piloto desta [ciência](Ciência){:.w}, que mais tarde compreendereis melhor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.389 {#q389}
@@ -5857,7 +5857,7 @@ A antipatia instintiva é sempre sinal de natureza má?
 > <span class="emoji">👻</span> ▸ De não simpatizarem um com o outro, não se segue que dois [Espíritos](Espírito){:.w} sejam necessariamente maus. A antipatia, entre eles, pode derivar de diversidade no modo de pensar. À proporção, porém, que se forem elevando, essa divergência irá desaparecendo e a antipatia deixará de existir.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antipatia, instintiva e retardamento na chegada à perfeição  <a href="#antipatia">↩️</a>
+<span class="emoji">🏷️</span> Antipatia, instintiva e retardamento na chegada à perfeição <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.391 {#q391}
@@ -5876,7 +5876,7 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior [Espírito](Espír
 
 Por que perde o [Espírito](Espírito){:.w} encarnado a lembrança do seu passado?
 
-> <span class="emoji">👻</span> ▸ Não pode o homem, nem deve, saber tudo. [Deus](Deus){:.l} assim o quer em sua sabedoria. Sem o véu que lhe oculta certas coisas, ficaria ofuscado, como quem, sem transição, saísse do escuro para o claro. **Esquecido de seu passado, o homem é mais senhor de si**.  
+> <span class="emoji">👻</span> ▸ Não pode o homem, nem deve, saber tudo. [Deus](Deus){:.l} assim o quer em sua sabedoria. Sem o véu que lhe oculta certas coisas, ficaria ofuscado, como quem, sem transição, saísse do escuro para o claro. **Esquecido de seu passado, o homem é mais senhor de si**. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q386a">Q.386a</a><br>
@@ -5889,7 +5889,7 @@ Como pode o homem ser responsável por atos e resgatar faltas de que se não lem
 
 > <span class="emoji">👻</span> ▸ Em cada nova existência, o homem dispõe de mais [inteligência](Inteligência){:.w} e melhor pode distinguir o bem do mal. Onde o seu mérito se se lembrasse de todo o passado? Quando o [Espírito](Espírito){:.w} volta à vida anterior (a vida espírit- a), diante dos olhos se lhe estende toda a sua vida pretérita. Vê as faltas que cometeu e que deram causa ao seu sofrer, assim como de que modo as teria evitado. Reconhece justa a situação em que se acha e busca então uma existência capaz de reparar a que vem de transcorrer. Escolhe provas análogas às de que não soube aproveitar, ou as lutas que considere apropriadas ao seu adiantamento e pede a [Espíritos](Espírito){:.w} que lhe são superiores que o ajudem na nova empresa que sobre si toma, ciente de que o [Espírito](Espírito){:.w}, que lhe for dado por guia nessa outra existência, se esforçará por levá-lo a reparar suas faltas, dando-lhe uma espécie de **intuição** das em que incorreu. Tendes essa intuição no pensamento, no desejo criminoso que frequentemente vos assalta e a que instintivamente resistis, atribuindo, as mais das vezes, essa resistência aos princípios que recebestes de vossos pais, quando é a voz da [consciência](Consciência){:.w} que vos fala. Essa voz, que é a lembrança do passado, vos adverte para não recairdes nas faltas de que já vos fizestes culpados. Na nova existência, se sofre com coragem aquelas provas e resiste, o [Espírito](Espírito){:.w} se eleva e ascende na hierarquia dos [Espíritos](Espírito){:.w}, ao voltar para o meio deles.
 
-Não temos, é certo, durante a vida corpórea, lembrança exata do que fomos e do que fizemos em anteriores existências; mas temos de tudo isso a intuição, sendo as nossas tendências instintivas uma reminiscência do passado. E a nossa consciência, que é o desejo que experimentamos de não reincidir nas faltas já cometidas, nos concita à resistência àqueles pendores.  
+Não temos, é certo, durante a vida corpórea, lembrança exata do que fomos e do que fizemos em anteriores existências; mas temos de tudo isso a intuição, sendo as nossas tendências instintivas uma reminiscência do passado. E a nossa consciência, que é o desejo que experimentamos de não reincidir nas faltas já cometidas, nos concita à resistência àqueles pendores. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q959">Q.959</a><br>
@@ -5907,7 +5907,7 @@ No esquecimento das existências anteriormente transcorridas, sobretudo quando f
 Gravíssimos inconvenientes teria o nos lembrarmos das nossas individualidades anteriores. Em certos casos, humilhar-nos-ia sobremaneira. Em outros, nos exaltaria o orgulho, peando-nos, em consequência, o livre-arbítrio. Para nos melhorarmos, dá-nos [Deus](Deus){:.l} exatamente o que nos é necessário e basta: a voz da [consciência](Consciência){:.w} e os pendores instintivos. Priva-nos do que nos prejudicaria. Acrescentemos que, se nos recordássemos dos nossos precedentes atos pessoais, igualmente nos recordaríamos dos dos outros homens, do que resultaria talvez os mais desastrosos efeitos para as relações sociais. Nem sempre podendo honrar-nos do nosso passado, melhor é que sobre ele um véu seja lançado. Isto concorda perfeitamente com a [Doutrina](Espiritismo){:.l} dos [Espíritos](Espírito){:.w} acerca dos mundos superiores à Terra. Nesses mundos, em que só reina o bem, a reminiscência do passado nada tem de dolorosa. Tal a [razão](Razão){:.w} por que neles as criaturas se lembram da sua antecedente existência, como nos lembramos do que fizemos na véspera. Quanto à estada em mundos inferiores, não passa então, como já dissemos, de mau sonho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.395 {#q395}
@@ -5917,7 +5917,7 @@ Podemos ter algumas revelações a respeito de nossas vidas anteriores?
 > <span class="emoji">👻</span> ▸ Nem sempre. Contudo, muitos sabem o que foram e o que faziam. Se se lhes permitisse dizê-lo abertamente, extraordinárias revelações fariam sobre o passado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.396 {#q396}
@@ -5927,7 +5927,7 @@ Algumas pessoas julgam ter vaga recordação de um passado desconhecido, que se 
 > <span class="emoji">👻</span> ▸ Algumas vezes, é uma impressão real; mas também, frequentemente, não passa de mera ilusão, contra a qual precisa o homem pôr-se em guarda, porquanto pode ser efeito de superexcitada imaginação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.397 {#q397}
@@ -5937,7 +5937,7 @@ Nas existências corpóreas de natureza mais elevada do que a nossa, é mais cla
 > <span class="emoji">👻</span> ▸ Sim, à medida que o corpo se torna menos material, com mais exatidão o homem se lembra do seu passado. Esta lembrança, os que habitam os mundos de ordem superior a têm mais nítida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.398 {#q398}
@@ -5947,7 +5947,7 @@ Sendo os pendores instintivos uma reminiscência do seu passado, dar-se-á que, 
 > <span class="emoji">👻</span> ▸ Até certo ponto, assim é. Preciso se torna, porém, levar em conta a melhora que se possa ter operado no [Espírito](Espírito){:.w} e as resoluções que ele haja tomado na [erraticidade](Erraticidade){:.l}. Pode suceder que a existência atual seja muito melhor que a precedente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.398.a {#q398a}
@@ -5957,7 +5957,7 @@ Poderá também ser pior, isto é, poderá o [Espírito](Espírito){:.w} cometer
 > <span class="emoji">👻</span> ▸ Depende do seu adiantamento. Se não souber triunfar das provas, possivelmente será arrastado a novas faltas, consequentes, então, da posição que escolheu. Mas, em geral, estas faltas denotam mais um estacionamento que uma retrogradação, porquanto o [Espírito](Espírito){:.w} é suscetível de se adiantar ou de parar, nunca, porém, de retroceder.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.399 {#q399}
@@ -5978,7 +5978,7 @@ O homem não conhece os atos que praticou em suas existências pretéritas, mas 
 
 As vicissitudes da vida corpórea constituem [expiação](Expiação){:.l} das faltas do passado e, simultaneamente, provas com relação ao futuro. Depuram-nos e elevam-nos, se as suportamos resignados e sem murmurar.
 
-A natureza dessas vicissitudes e das provas que sofremos também nos podem esclarecer acerca do que fomos e do que fizemos, do mesmo modo que neste mundo julgamos dos atos de um culpado pelo castigo que lhe inflige a lei. Assim, o orgulhoso será castigado no seu orgulho, mediante a humilhação de uma existência subalterna; o mau rico, o avarento, pela miséria; o que foi cruel para os outros, pelas crueldades que sofrerá; o tirano, pela escravidão; o mau filho, pela ingratidão de seus filhos; o preguiçoso, por um trabalho forçado etc.  
+A natureza dessas vicissitudes e das provas que sofremos também nos podem esclarecer acerca do que fomos e do que fizemos, do mesmo modo que neste mundo julgamos dos atos de um culpado pelo castigo que lhe inflige a lei. Assim, o orgulhoso será castigado no seu orgulho, mediante a humilhação de uma existência subalterna; o mau rico, o avarento, pela miséria; o que foi cruel para os outros, pelas crueldades que sofrerá; o tirano, pela escravidão; o mau filho, pela ingratidão de seus filhos; o preguiçoso, por um trabalho forçado etc. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q983">Q.983</a>
@@ -5995,7 +5995,7 @@ O [Espírito](Espírito){:.w} encarnado permanece de bom grado no seu envoltóri
 > <span class="emoji">👻</span> ▸ É como se perguntasses se ao encarcerado agrada o cárcere. O [Espírito](Espírito){:.w} encarnado aspira constantemente à sua libertação e tanto mais deseja ver-se livre do seu invólucro, quanto mais grosseiro é este.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, emancipação da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, emancipação da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.401 {#q401}
@@ -6005,7 +6005,7 @@ Durante o sono, a [alma](Alma){:.l} repousa como o corpo?
 > <span class="emoji">👻</span> ▸ Não, o [Espírito](Espírito){:.w} jamais está inativo. Durante o sono, afrouxam-se os laços que o prendem ao corpo e, não precisando este então da sua presença, ele se lança pelo Espaço e **entra em relação mais direta com os outros [Espíritos](Espírito){:.w}**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.402 {#q402}
@@ -6029,7 +6029,7 @@ Como podemos julgar da liberdade do [Espírito](Espírito){:.w} durante o sono?
 Os sonhos são efeito da emancipação da alma, que mais independente se torna pela suspensão da vida ativa e de relação. Daí uma espécie de clarividência indefinida que se alonga até aos mais afastados lugares e até mesmo a outros mundos. Daí também a lembrança que traz à memória acontecimentos da precedente existência ou das existências anteriores. As singulares imagens do que se passa ou se passou em mundos desconhecidos, entremeados de coisas do mundo atual, é que formam esses conjuntos estranhos e confusos, que nenhum sentido ou ligação parecem ter. A incoerência dos sonhos ainda se explica pelas lacunas que apresenta a recordação incompleta que conservamos do que nos apareceu quando sonhávamos. É como se a uma narração se truncassem frases ou trechos ao acaso. Reunidos depois, os fragmentos restantes nenhuma significação racional teriam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, sonhos e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, sonhos e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.403 {#q403}
@@ -6039,7 +6039,7 @@ Por que não nos lembramos sempre dos sonhos?
 > <span class="emoji">👻</span> ▸ Em o que chamas sono, só há o repouso do corpo, visto que o [Espírito](Espírito){:.w} está constantemente em atividade. Recobra, durante o sono, um pouco da sua liberdade e se corresponde com os que lhe são caros, quer neste mundo, quer em outros. Mas, como é pesada e grosseira a matéria que o compõe, o corpo dificilmente conserva as impressões que o [Espírito](Espírito){:.w} recebeu, porque a este não chegaram por intermédio dos órgãos corporais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.404 {#q404}
@@ -6055,7 +6055,7 @@ Acontece com frequência verem-se em sonho coisas que parecem um pressentimento,
 > <span class="emoji">👻</span> ▸ Pode suceder que tais pressentimentos venham a confirmar-se apenas para o [Espírito](Espírito){:.w}. Quer dizer que este viu aquilo que desejava, **foi ao seu encontro**. É preciso não esquecer que, durante o sono, a [alma](Alma){:.l} está mais ou menos sob a influência da matéria e que, por conseguinte, nunca se liberta completamente de suas ideias terrenas, donde resulta que as preocupações do estado de vigília podem dar ao que se vê a aparência do que se deseja, ou do que se teme. A isto é que, em [verdade](Verdade){:.w}, cabe chamar-se efeito da imaginação. Sempre que uma ideia nos preocupa fortemente, tudo o que vemos se nos mostra ligado a essa ideia.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.406 {#q406}
@@ -6065,7 +6065,7 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 > <span class="emoji">👻</span> ▸ De que absolutamente não cogitam, dizes. Que sabes a tal respeito? Os [Espíritos](Espírito){:.w} dessas pessoas vêm visitar o teu, como o teu os vai visitar, sem que saibas sempre o em que eles pensam. Ademais, não é raro atribuirdes, de acordo com o que desejais, a pessoas que conheceis, o que se deu ou se está dando em outras existências.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.407 {#q407}
@@ -6077,7 +6077,7 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 É assim que a sonolência ou o simples torpor dos sentidos apresenta, frequentemente, as mesmas imagens do sonho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.408 {#q408}
@@ -6087,7 +6087,7 @@ E qual a [razão](Razão){:.w} de ouvirmos, algumas vezes em nós mesmos, palavr
 > <span class="emoji">👻</span> ▸ É fato: ouvis até mesmo frases inteiras, principalmente quando os sentidos começam a entorpecer-se. É, quase sempre, fraco eco do que diz um [Espírito](Espírito){:.w} que convosco se quer comunicar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.409 {#q409}
@@ -6097,7 +6097,7 @@ Doutras vezes, num estado que ainda não é bem o do adormecimento, estando com 
 > <span class="emoji">👻</span> ▸ Estando entorpecido o corpo, o [Espírito](Espírito){:.w} trata de desprender-se. Transporta-se e vê. Se já fosse completo o sono, haveria sonho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.410 {#q410}
@@ -6107,7 +6107,7 @@ Dá-se também que, durante o sono, ou quando nos achamos apenas ligeiramente ad
 > <span class="emoji">👻</span> ▸ Provêm da liberdade do [Espírito](Espírito){:.w} que se emancipa e que, emancipado, goza de suas faculdades com maior amplitude. Também são, frequentemente, conselhos que outros [Espíritos](Espírito){:.w} dão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.410.a {#q410a}
@@ -6117,14 +6117,14 @@ De que servem essas ideias e esses conselhos, desde que, por esquecê-los, não 
 > <span class="emoji">👻</span> ▸ Essas ideias, em regra, mais dizem respeito ao mundo dos [Espíritos](Espírito){:.w} do que ao mundo corpóreo. Pouco importa que comumente o [Espírito](Espírito){:.w} as esqueça, quando unido ao corpo. Na ocasião oportuna, voltar-lhe-ão como inspiração de momento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.411 {#q411}
 
 Estando desprendido da matéria e atuando como [Espírito](Espírito){:.w}, sabe o [Espírito](Espírito){:.w} encarnado qual será a época de sua morte?
 
-> <span class="emoji">👻</span> ▸ Acontece pressenti-la. Também sucede ter plena [consciência](Consciência){:.w} dessa época, o que dá lugar a que, em estado de vigília, tenha a intuição do fato. Por isso é que algumas pessoas preveem com grande exatidão a data em que virão a morrer.  
+> <span class="emoji">👻</span> ▸ Acontece pressenti-la. Também sucede ter plena [consciência](Consciência){:.w} dessa época, o que dá lugar a que, em estado de vigília, tenha a intuição do fato. Por isso é que algumas pessoas preveem com grande exatidão a data em que virão a morrer. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q857">Q.857</a>
@@ -6137,7 +6137,7 @@ Pode a atividade do [Espírito](Espírito){:.w}, durante o repouso, ou o sono co
 > <span class="emoji">👻</span> ▸ Pode, pois que o [Espírito](Espírito){:.w} se acha preso ao corpo qual balão cativo ao poste. Assim como as sacudiduras do balão abalam o poste, a atividade do [Espírito](Espírito){:.w} reage sobre o corpo e pode fatigá-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Visitas espíritas entre pessoas vivas {#lde-2-08-02}
@@ -6149,7 +6149,7 @@ Do princípio da emancipação da [alma](Alma){:.l} parece decorrer que temos du
 > <span class="emoji">👻</span> ▸ No estado de emancipação, prima a vida da alma. Contudo, não há, verdadeiramente, duas existências. São antes duas fases de uma só existência, porquanto o homem não vive duplamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.414 {#q414}
@@ -6159,7 +6159,7 @@ Podem duas pessoas que se conhecem visitar-se durante o sono?
 > <span class="emoji">👻</span> ▸ Certo e muitos que julgam não se conhecerem costumam reunir-se e falar-se. Podes ter, sem que o suspeites, amigos em outro país. É tão habitual o fato de irdes encontrar-vos, durante o sono, com amigos e parentes, com os que conheceis e que vos podem ser úteis, que quase todas as noites fazeis essas visitas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.415 {#q415}
@@ -6169,7 +6169,7 @@ Que utilidade podem elas ter, se as olvidamos?
 > <span class="emoji">👻</span> ▸ De ordinário, ao despertardes, guardais a intuição desse fato, do qual se originam certas ideias que vos vêm espontaneamente, sem que possais explicar como vos acudiram. São ideias que adquiristes nessas confabulações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.416 {#q416}
@@ -6179,7 +6179,7 @@ Pode o homem, pela sua vontade, provocar as visitas espíritas? Pode, por exempl
 > <span class="emoji">👻</span> ▸ O que se dá é o seguinte: Adormecendo o homem, seu [Espírito](Espírito){:.w} desperta e, muitas vezes, nada disposto se mostra a fazer o que o homem resolvera, porque a vida deste pouco interessa ao seu [Espírito](Espírito){:.w}, uma vez desprendido da matéria. Isto com relação a homens já bastante elevados espiritualmente. Os outros passam de modo muito diverso a fase espiritual de sua existência terrena. Entregam-se às paixões que os escravizaram, ou se mantêm inativos. Pode, pois, suceder, tais sejam os motivos que a isso o induzem, que o [Espírito](Espírito){:.w} vá visitar aqueles com quem deseja encontrar-se, mas não constitui razão, para que semelhante coisa se verifique, o simples fato de ele o querer quando desperto.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.417 {#q417}
@@ -6191,7 +6191,7 @@ Podem [Espíritos](Espírito){:.w} encarnados reunir-se em certo número e forma
 Pelo termo **antigos** se devem entender os laços de amizade contraída em existências anteriores. Ao despertar, guardamos intuição das ideias que haurimos nesses colóquios, mas ficamos na ignorância da fonte donde promanaram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.418 {#q418}
@@ -6201,7 +6201,7 @@ Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, 
 > <span class="emoji">👻</span> ▸ Como [Espírito](Espírito){:.w}, a pessoa que figuras pode ver o seu amigo e conhecer-lhe a sorte. Se lhe não houver sido imposto, por prova, crer na [morte](Morte){:.w} desse amigo, poderá ter um pressentimento da sua existência, como poderá tê-lo de sua morte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Transmissão oculta do pensamento {#lde-2-08-03}
@@ -6215,7 +6215,7 @@ Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja 
 Desse modo, o nosso próprio [Espírito](Espírito){:.w} revela muitas vezes, a outros [Espíritos](Espírito){:.w}, mau grado nosso, o que constituía objeto de nossas preocupações no estado de vigília.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.420 {#q420}
@@ -6225,7 +6225,7 @@ Podem os [Espíritos](Espírito){:.w} comunicar-se, estando completamente desper
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} não se acha encerrado no corpo como numa caixa; irradia por todos os lados. Segue-se que pode comunicar-se com outros [Espíritos](Espírito){:.w}, mesmo em estado de vigília, se bem que mais dificilmente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.421 {#q421}
@@ -6237,7 +6237,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 Há, entre os [Espíritos](Espírito){:.w} que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Letargia, catalepsia, mortes aparentes {#lde-2-08-04}
@@ -6249,7 +6249,7 @@ Os letárgicos e os catalépticos, em geral, veem e ouvem o que em derredor se d
 > <span class="emoji">👻</span> ▸ Não; pelo [Espírito](Espírito){:.w}. O [Espírito](Espírito){:.w} tem [consciência](Consciência){:.w} de si, mas não pode comunicar-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.422.a {#q422a}
@@ -6259,7 +6259,7 @@ Por quê?
 > <span class="emoji">👻</span> ▸ Porque a isso se opõe o estado do corpo. E esse estado especial dos órgãos vos prova que no homem há alguma coisa mais do que o corpo, pois que, então, o corpo já não funciona e, no entanto, o [Espírito](Espírito){:.w} se mostra ativo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.423 {#q423}
@@ -6269,7 +6269,7 @@ Na letargia, pode o [Espírito](Espírito){:.w} separar-se inteiramente do corpo
 > <span class="emoji">👻</span> ▸ Na letargia, o corpo não está morto, porquanto há funções que continuam a executar-se. Sua vitalidade se encontra em estado latente, como na crisálida, porém não aniquilada. Ora, enquanto o corpo vive, o [Espírito](Espírito){:.w} se lhe acha ligado. Rompendo-se, por efeito da [morte](Morte){:.w} **real** e pela desagregação dos órgãos, os laços que prendem um ao outro, integral se torna a separação e o [Espírito](Espírito){:.w} não volta mais ao seu envoltório. Desde que um homem, aparentemente morto, volve à vida, é que não era completa a morte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.424 {#q424}
@@ -6281,7 +6281,7 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a [inteligência](Inteligência){:.w} se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Sonambulismo {#lde-2-08-05}
@@ -6295,7 +6295,7 @@ O sonambulismo natural tem alguma relação com os sonhos? Como explicá-lo?
 No sonambulismo, o [Espírito](Espírito){:.w} está na posse plena de si mesmo. Os órgãos materiais, achando-se de certa forma em estado de catalepsia, deixam de receber as impressões **exteriores**. Esse estado se apresenta principalmente durante o sono, ocasião em que o [Espírito](Espírito){:.w} pode abandonar provisoriamente o corpo, por se encontrar este gozando do repouso indispensável à matéria. Quando se produzem os fatos do sonambulismo, é que o [Espírito](Espírito){:.w}, preocupado com uma coisa ou outra, se aplica a uma ação qualquer, para cuja prática necessita de utilizar-se do corpo. Serve-se então deste, como se serve de uma mesa ou de outro objeto material no fenômeno das manifestações físicas, ou mesmo como se utiliza da mão do [médium](Mediunidade){:.w} nas comunicações escritas. Nos sonhos de que se tem consciência, os órgãos, inclusive os da memória, começam a despertar. Recebem imperfeitamente as impressões produzidas por objetos ou causas externas e as comunicam ao [Espírito](Espírito){:.w}, que, então, também em repouso, só experimenta, do que lhe é transmitido, sensações confusas e, amiúde, desordenadas, sem nenhuma aparente [razão](Razão){:.w} de ser, mescladas que se apresentam de vagas recordações, quer da existência atual, quer de anteriores. Facilmente, portanto, se compreende por que os sonâmbulos nenhuma lembrança guardam do que se passou quando estiveram no estado sonambúlico e por que os sonhos, de que se conserva memória, as mais das vezes não têm sentido. Digo — as mais das vezes, porque também sucede serem a consequência de lembrança exata de acontecimentos de uma vida anterior e até, não raro, uma espécie de intuição do futuro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.426 {#q426}
@@ -6305,7 +6305,7 @@ O chamado sonambulismo magnético tem alguma relação com o sonambulismo natura
 > <span class="emoji">👻</span> ▸ É a mesma coisa, com a só diferença de ser provocado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.427 {#q427}
@@ -6315,7 +6315,7 @@ De que natureza é o agente que se chama fluido magnético?
 > <span class="emoji">👻</span> ▸ Fluido vital, [eletricidade](Eletricidade){:.w} animalizada, que são modificações do fluido universal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.428 {#q428}
@@ -6325,7 +6325,7 @@ Qual a causa da clarividência sonambúlica?
 > <span class="emoji">👻</span> ▸ Já o dissemos: É a [alma](Alma){:.l} que vê.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, atributos da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, atributos da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.429 {#q429}
@@ -6335,7 +6335,7 @@ Como pode o sonâmbulo ver através dos corpos opacos?
 > <span class="emoji">👻</span> ▸ Não há corpos opacos senão para os vossos grosseiros órgãos. Já precedentemente não dissemos que a matéria nenhum obstáculo oferece ao [Espírito](Espírito){:.w}, que livremente a atravessa? Frequentemente ouvis o sonâmbulo dizer que vê pela fronte, pelo punho etc., porque, achando-vos inteiramente presos à matéria, não compreendeis lhe seja possível ver sem o auxílio dos órgãos. Ele próprio, pelo desejo que manifestais, julga precisar dos órgãos. Se, porém, o deixásseis livre, compreenderia que vê por todas as partes do seu corpo, ou, melhor falando, que vê de fora do seu corpo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.430 {#q430}
@@ -6345,7 +6345,7 @@ Pois que a sua clarividência é a de sua [alma](Alma){:.l} ou de seu [Espírito
 > <span class="emoji">👻</span> ▸ Primeiramente, aos [Espíritos](Espírito){:.w} imperfeitos não é dado verem tudo e tudo saberem. Não ignoras que ainda partilham dos vossos erros e prejuízos. Depois, quando unidos à matéria, não gozam de todas as suas faculdades de [Espírito](Espírito){:.w}. [Deus](Deus){:.l} outorgou ao homem a faculdade sonambúlica para fim útil e sério, não para que se informe do que não deva saber. Eis por que os sonâmbulos nem tudo podem dizer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.431 {#q431}
@@ -6357,7 +6357,7 @@ Qual a origem das ideias inatas do sonâmbulo e como pode falar com exatidão de
 Mostra a experiência que os sonâmbulos também recebem comunicações de outros [Espíritos](Espírito){:.w}, que lhes transmitem o que devam dizer e suprem à incapacidade que denotam. Isto se verifica principalmente nas prescrições médicas. O [Espírito](Espírito){:.w} do sonâmbulo vê o mal, outro lhe indica o remédio. Essa dupla ação é às vezes patente e se revela, além disso, por estas expressões muito frequentes: **dizem-me** que diga, ou proíbem-me que diga tal coisa. Neste último caso, há sempre perigo em insistir-se por uma revelação negada, porque se dá azo a que intervenham [Espíritos](Espírito){:.w} levianos, que falam de tudo sem escrúpulo e sem se importarem com a [verdade](Verdade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.432 {#q432}
@@ -6367,7 +6367,7 @@ Como se explica a visão a distância em certos sonâmbulos?
 > <span class="emoji">👻</span> ▸ Durante o sono, a [alma](Alma){:.l} não se transporta? O mesmo se dá no sonambulismo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.433 {#q433}
@@ -6377,7 +6377,7 @@ O desenvolvimento maior ou menor da clarividência sonambúlica depende da organ
 > <span class="emoji">👻</span> ▸ De uma e outra. Há disposições físicas que permitem ao [Espírito](Espírito){:.w} desprender-se mais ou menos facilmente da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.434 {#q434}
@@ -6387,7 +6387,7 @@ As faculdades de que goza o sonâmbulo são as que tem o [Espírito](Espírito){
 > <span class="emoji">👻</span> ▸ Somente até certo ponto, pois cumpre se atenda à influência da matéria a que ainda se acha ligado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.435 {#q435}
@@ -6399,7 +6399,7 @@ Pode o sonâmbulo ver os outros [Espíritos](Espírito){:.w}?
 O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma alteração notando ao seu derredor e parecendo-lhes que os [Espíritos](Espírito){:.w} têm corpos iguais aos nossos, tomam por corpos reais os corpos aparentes com que os mesmos [Espíritos](Espírito){:.w} se lhes apresentam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.436 {#q436}
@@ -6415,7 +6415,7 @@ Posto que o que se dá, nos [fenônemo](fenómeno){:.d} sonambúlicos, é que a 
 > <span class="emoji">👻</span> ▸ A alma, em tais casos, não tem deixado inteiramente o corpo; conserva-se-lhe presa pelo laço que os liga e que então desempenha o papel de condutor das sensações. Quando duas pessoas se comunicam de uma cidade para outra, por meio da eletricidade, esta constitui o laço que lhes liga os pensamentos. Daí vem que confabulam como se estivessem ao lado uma da outra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.438 {#q438}
@@ -6425,7 +6425,7 @@ O uso que um sonâmbulo faz da sua faculdade influi no estado do seu [Espírito]
 > <span class="emoji">👻</span> ▸ Muito, como o bom ou mau uso que o homem faz de todas as faculdades com que [Deus](Deus){:.l} o dotou.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Êxtase {#lde-2-08-06}
@@ -6437,7 +6437,7 @@ Que diferença há entre o êxtase e o sonambulismo?
 > <span class="emoji">👻</span> ▸ O êxtase é um sonambulismo mais apurado. A [alma](Alma){:.l} do extático ainda é mais independente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.440 {#q440}
@@ -6447,7 +6447,7 @@ O [Espírito](Espírito){:.w} do extático penetra realmente nos mundos superior
 > <span class="emoji">👻</span> ▸ Vê esses mundos e compreende a felicidade dos que os habitam, donde lhe nasce o desejo de lá permanecer. Há, porém, mundos inacessíveis aos [Espíritos](Espírito){:.w} que ainda não estão bastante purificados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.441 {#q441}
@@ -6457,7 +6457,7 @@ Quando o extático manifesta o desejo de deixar a Terra, fala sinceramente, não
 > <span class="emoji">👻</span> ▸ Isso depende do grau de purificação do [Espírito](Espírito){:.w}. Se verifica que a sua futura situação será melhor do que a sua vida presente, esforça-se por desatar os laços que o prendem à Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.442 {#q442}
@@ -6467,7 +6467,7 @@ Se se deixasse o extático entregue a si mesmo, poderia sua [alma](Alma){:.l} ab
 > <span class="emoji">👻</span> ▸ Perfeitamente, poderia morrer. Por isso é que preciso se torna chamá-lo a voltar, apelando para tudo o que o prende a este mundo, fazendo-lhe sobretudo compreender que a maneira mais certa de não ficar lá, onde vê que seria feliz, consistiria em partir a cadeia que o tem preso ao planeta terreno.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, desgoverno do extático e abandono pela  <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, desgoverno do extático e abandono pela <a href="#alma">↩️</a><br>
 </details>
 
 ###### Q.443 {#q443}
@@ -6477,7 +6477,7 @@ Pretendendo que lhe é dado ver coisas que evidentemente são produto de uma ima
 > <span class="emoji">👻</span> ▸ O que o extático vê é real para ele, mas como seu [Espírito](Espírito){:.w} se conserva sempre debaixo da influência das ideias terrenas, pode acontecer que veja a seu modo, ou melhor, que exprima o que vê numa linguagem moldada pelos preconceitos e ideias de que se acha imbuído, ou, então, pelos vossos preconceitos e ideias, a fim de ser mais bem compreendido. Neste sentido, principalmente, é que lhe sucede errar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.444 {#q444}
@@ -6487,7 +6487,7 @@ Que [confiança](confiança){:.d} se pode depositar nas revelações dos extáti
 > <span class="emoji">👻</span> ▸ O extático está sujeito a enganar-se muito frequentemente, sobretudo quando pretende penetrar no que deva continuar a ser mistério para o homem, porque, então, se deixa levar pela corrente das suas próprias ideias, ou se torna joguete de [Espíritos](Espírito){:.w} mistificadores, **que se aproveitam da sua exaltação** para fasciná-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.445 {#q445}
@@ -6497,7 +6497,7 @@ Que deduções se podem tirar dos [fenônemos](fenómeno){:.d} do sonambulismo e
 > <span class="emoji">👻</span> ▸ A bem dizer, mediante esses [fenômenos](fenómeno){:.d}, o homem entrevê a vida passada e a vida futura. Estude-os e achará o aclaramento de mais de um mistério, que a sua [razão](Razão){:.w} inutilmente procura devassar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.446 {#q446}
@@ -6507,7 +6507,7 @@ Poderiam tais [fenônemos](fenómeno){:.d} adequar-se às ideias materialistas?
 > <span class="emoji">👻</span> ▸ Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Dupla vista {#lde-2-08-07}
@@ -6519,7 +6519,7 @@ O fenômeno a que se dá a designação de **dupla vista** tem alguma relação 
 > <span class="emoji">👻</span> ▸ Tudo isso é uma só coisa. O que se chama **dupla vista** é ainda resultado da libertação do [Espírito](Espírito){:.w}, sem que o corpo seja adormecido. A **dupla vista** ou **segunda vista** é a vista da alma.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, dupla vista e exteriorização da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, dupla vista e exteriorização da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.448 {#q448}
@@ -6529,7 +6529,7 @@ O fenômeno a que se dá a designação de **dupla vista** tem alguma relação 
 > <span class="emoji">👻</span> ▸ A faculdade é, o exercício não. Nos mundos menos materiais do que o vosso, os [Espíritos](Espírito){:.w} se desprendem mais facilmente e se põem em comunicação apenas pelo pensamento, sem que, todavia, fique abolida a linguagem articulada. Por isso mesmo, em tais mundos, a dupla vista é faculdade permanente, para a maioria de seus habitantes, cujo estado normal se pode comparar ao dos vossos sonâmbulos lúcidos. Essa também a [razão](Razão){:.w} por que esses [Espíritos](Espírito){:.w} se vos manifestam com maior facilidade do que os encarnados em corpos mais grosseiros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.449 {#q449}
@@ -6539,7 +6539,7 @@ A segunda vista aparece espontaneamente ou por efeito da [vontade](Vontade){:.w}
 > <span class="emoji">👻</span> ▸ As mais das vezes é espontânea, porém, a [vontade](Vontade){:.w} também desempenha com grande frequência importante papel no seu aparecimento. Toma, para exemplo, de umas dessas pessoas a quem se dá o nome de ledoras da buena-dicha, algumas das quais dispõem desta faculdade, e verás que é com o auxílio da própria [vontade](Vontade){:.w} que se colocam no estado de terem a dupla vista e o que chamas visão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.450 {#q450}
@@ -6549,7 +6549,7 @@ A dupla vista é suscetível de desenvolver-se pelo exercício?
 > <span class="emoji">👻</span> ▸ Sim, do trabalho sempre resulta o progresso e a dissipação do véu que encobre as coisas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.450.a {#q450a}
@@ -6559,7 +6559,7 @@ Esta faculdade tem qualquer ligação com a organização física?
 > <span class="emoji">👻</span> ▸ Incontestavelmente, o organismo influi para a sua existência. Há organismos que lhe são refratários.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.451 {#q451}
@@ -6569,7 +6569,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 > <span class="emoji">👻</span> ▸ Por semelhança da organização, que se transmite como as outras qualidades físicas. Depois, a faculdade se desenvolve por uma espécie de educação, que também se transmite de um a outro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.452 {#q452}
@@ -6581,7 +6581,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, enfim, de superexcitação do moral provocam não raro o desenvolvimento da dupla vista. Parece que a Providência, quando um perigo nos ameaça, nos dá o meio de conjurá-lo. Todas as seitas e partidos perseguidos oferecem múltiplos exemplos desse fato.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.453 {#q453}
@@ -6591,7 +6591,7 @@ As pessoas dotadas de dupla vista sempre têm [consciência](Consciência){:.w} 
 > <span class="emoji">👻</span> ▸ Nem sempre. Consideram isso coisa perfeitamente natural e muitos creem que, se cada um observasse o que se passa consigo, todos verificariam que são como eles.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.454 {#q454}
@@ -6601,7 +6601,7 @@ Poder-se-ia atribuir a uma espécie de segunda vista a perspicácia de algumas p
 > <span class="emoji">👻</span> ▸ É sempre a [alma](Alma){:.l} a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, irradiação da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, irradiação da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.454.a {#q454a}
@@ -6611,7 +6611,7 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 > <span class="emoji">👻</span> ▸ Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
@@ -6665,9 +6665,9 @@ O poder da vista dupla varia, indo desde a sensação confusa até a percepção
 O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses [fenômenos](fenómeno){:.d}, como os sonhos, estão na ordem da natureza. Tal a [razão](Razão){:.w} por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, prova da existência e independência da  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, separação parcial do corpo e da  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, vista da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, prova da existência e independência da <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, separação parcial do corpo e da <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, vista da <a href="#alma">↩️</a>
 </details>
 
 ### 2-09. <span class="emoji">🗂️</span> Intervenção no mundo material {#lde-2-09}
@@ -6681,7 +6681,7 @@ Veem os [Espíritos](Espírito){:.w} tudo o que fazemos?
 > <span class="emoji">👻</span> ▸ Podem ver, pois que constantemente vos rodeiam. Cada um, porém, só vê aquilo a que dá atenção. Não se ocupam com o que lhes é indiferente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.457 {#q457}
@@ -6691,7 +6691,7 @@ Podem os [Espíritos](Espírito){:.w} conhecer os nossos mais secretos pensament
 > <span class="emoji">👻</span> ▸ Muitas vezes chegam a conhecer o que desejaríeis ocultar de vós mesmos. Nem atos, nem pensamentos se lhes podem dissimular.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.457.a {#q457a}
@@ -6701,7 +6701,7 @@ Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do que a
 > <span class="emoji">👻</span> ▸ Certamente. Quando vos julgais muito ocultos, é comum terdes ao vosso lado uma multidão de [Espíritos](Espírito){:.w} que vos observam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.458 {#q458}
@@ -6711,7 +6711,7 @@ Que pensam de nós os [Espíritos](Espírito){:.w} que nos cercam e observam?
 > <span class="emoji">👻</span> ▸ Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os [Espíritos](Espírito){:.w} sérios se condoem dos vossos reveses e procuram ajudar-vos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Influência oculta dos Espíritos em nossos pensamentos e atos {#lde-2-09-02}
@@ -6720,7 +6720,7 @@ Que pensam de nós os [Espíritos](Espírito){:.w} que nos cercam e observam?
 
 Influem os [Espíritos](Espírito){:.w} em nossos pensamentos e em nossos atos?
 
-> <span class="emoji">👻</span> ▸ Muito mais do que imaginais. Influem a tal ponto que, de ordinário, são eles que vos dirigem.  
+> <span class="emoji">👻</span> ▸ Muito mais do que imaginais. Influem a tal ponto que, de ordinário, são eles que vos dirigem. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q872">Q.872</a><br>
@@ -6734,7 +6734,7 @@ De par com os pensamentos que nos são próprios, outros haverá que nos sejam s
 > <span class="emoji">👻</span> ▸ Vossa [alma](Alma){:.l} é um [Espírito](Espírito){:.w} que pensa. Não ignorais que, frequentemente, muitos pensamentos vos acodem a um tempo sobre o mesmo assunto e, não raro, contrários uns aos outros. Pois bem! No conjunto deles, estão sempre de mistura os vossos com os nossos. Daí a incerteza em que vos vedes. É que tendes em vós duas ideias a se combaterem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.461 {#q461}
@@ -6744,7 +6744,7 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 > <span class="emoji">👻</span> ▸ Quando um pensamento vos é sugerido, tendes a impressão de que alguém vos fala. Geralmente, os pensamentos próprios são os que acodem em primeiro lugar. Afinal, não vos é de grande interesse estabelecer essa distinção. Muitas vezes, é útil que não saibais fazê-la. Não a fazendo, obra o homem com mais liberdade. Se se decide pelo bem, é voluntariamente que o pratica; se toma o mau caminho, maior será a sua responsabilidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.462 {#q462}
@@ -6756,7 +6756,7 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 Se fora útil que pudéssemos distinguir claramente os nossos pensamentos próprios dos que nos são sugeridos, [Deus](Deus){:.l} nos houvera proporcionado os meios de o conseguirmos, como nos concedeu o de diferençarmos o dia da noite. Quando uma coisa se conserva imprecisa, é que convém assim aconteça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.463 {#q463}
@@ -6766,7 +6766,7 @@ Diz-se comumente ser sempre bom o primeiro impulso. É exato?
 > <span class="emoji">👻</span> ▸ Pode ser bom ou mau, conforme a natureza do [Espírito](Espírito){:.w} encarnado. É sempre bom naquele que atende às boas inspirações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.464 {#q464}
@@ -6776,7 +6776,7 @@ Como distinguirmos se um pensamento sugerido procede de um bom [Espírito](Espí
 > <span class="emoji">👻</span> ▸ Estudai o caso. Os bons [Espíritos](Espírito){:.w} só para o bem aconselham. Compete-vos discernir.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.465 {#q465}
@@ -6786,7 +6786,7 @@ Com que fim os [Espíritos](Espírito){:.w} imperfeitos nos induzem ao mal?
 > <span class="emoji">👻</span> ▸ Para que sofrais como eles sofrem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.465.a {#q465a}
@@ -6796,7 +6796,7 @@ E isso lhes diminui os sofrimentos?
 > <span class="emoji">👻</span> ▸ Não, mas fazem-no por inveja, por não poderem suportar que haja seres felizes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.465.b {#q465b}
@@ -6806,7 +6806,7 @@ De que natureza é o sofrimento que procuram infligir aos outros?
 > <span class="emoji">👻</span> ▸ Os que resultam de ser de ordem inferior a criatura e de estar afastada de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.466 {#q466}
@@ -6818,7 +6818,7 @@ Por que permite [Deus](Deus){:.l} que [Espíritos](Espírito){:.w} nos excitem a
 É assim que [Deus](Deus){:.l} confia à nossa [consciência](Consciência){:.w} a escolha do caminho que devamos seguir e a liberdade de ceder a uma ou outra das influências contrárias que se exercem sobre nós.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.467 {#q467}
@@ -6828,7 +6828,7 @@ Pode o homem eximir-se da influência dos [Espíritos](Espírito){:.w} que procu
 > <span class="emoji">👻</span> ▸ Pode, visto que tais [Espíritos](Espírito){:.w} só se apegam aos que, pelos seus desejos, os chamam, ou aos que, pelos seus pensamentos, os atraem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.468 {#q468}
@@ -6838,7 +6838,7 @@ Renunciam às suas tentativas os [Espíritos](Espírito){:.w} cuja influência a
 > <span class="emoji">👻</span> ▸ Que querias que fizessem? Quando nada conseguem, abandonam o campo. Entretanto, ficam à espreita de um momento propício, como o gato que tocaia o rato.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.469 {#q469}
@@ -6846,7 +6846,7 @@ Renunciam às suas tentativas os [Espíritos](Espírito){:.w} cuja influência a
 Por que meio podemos neutralizar a influência dos maus [Espíritos](Espírito){:.w}?
 
 > <span class="emoji">👻</span> ▸ Praticando o bem e pondo em [Deus](Deus){:.l} toda a vossa confiança, repelireis a influência dos [Espíritos](Espírito){:.w} inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos [Espíritos](Espírito){:.w} que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a [razão](Razão){:.w} por que [Jesus](Jesus){:.w}, na oração dominical, vos ensinou a dizer:
->  
+> 
 > <span class="emoji">✝️</span> ▸ *E não nos induzas à tentação, mas livra-nos do mal ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 
 ###### Q.470 {#q470}
@@ -6856,7 +6856,7 @@ Os [Espíritos](Espírito){:.w}, que ao mal procuram induzir-nos e que põem ass
 > <span class="emoji">👻</span> ▸ A nenhum [Espírito](Espírito){:.w} é dada a missão de praticar o mal. Aquele que o faz fá-lo por conta própria, sujeitando-se, portanto, às consequências. Pode [Deus](Deus){:.l} permitir-lhe que assim proceda, para vos experimentar; nunca, porém, lhe determina tal procedimento. Compete-vos, pois, repeli-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.471 {#q471}
@@ -6866,7 +6866,7 @@ Quando experimentamos uma sensação de angústia, de ansiedade indefinível, ou
 > <span class="emoji">👻</span> ▸ É quase sempre efeito das comunicações em que inconscientemente entrais com os [Espíritos](Espírito){:.w}, ou da que com eles tivestes durante o sono.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.472 {#q472}
@@ -6876,7 +6876,7 @@ Os [Espíritos](Espírito){:.w} que procuram atrair-nos para o mal se limitam a 
 > <span class="emoji">👻</span> ▸ Aproveitam as circunstâncias ocorrentes, mas também costumam criá-las, impelindo-vos, mau grado vosso, para aquilo que cobiçais. Assim, por exemplo, encontra um homem, no seu caminho, certa quantia. Não penseis tenham sido os [Espíritos](Espírito){:.w} que a trouxeram para ali, mas eles podem inspirar ao homem a ideia de tomar aquela direção e sugerir-lhe depois a de se apoderar da importância achada, enquanto outros lhe sugerem a de restituir o dinheiro ao seu legítimo dono. O mesmo se dá com relação a todas as demais tentações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Possessos {#lde-2-09-03}
@@ -6888,7 +6888,7 @@ Pode um [Espírito](Espírito){:.w} tomar temporariamente o invólucro corporal 
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} não entra em um corpo como entras numa casa. Identifica-se com um [Espírito](Espírito){:.w} encarnado, cujos defeitos e qualidades sejam os mesmos que os seus, a fim de obrar com ele. O encarnado é sempre quem atua, conforme quer, sobre a matéria de que se acha revestido. Um [Espírito](Espírito){:.w} não pode substituir-se ao que está encarnado, por isso que este terá que permanecer ligado ao seu corpo até ao termo fixado para sua existência material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.474 {#q474}
@@ -6900,7 +6900,7 @@ Desde que não há possessão propriamente dita, isto é, coabitação de dois [
 O vocábulo possesso, na sua [acepção](acepção){:.d} vulgar, supõe a existência de demônios, isto é, de uma categoria de seres maus por natureza, e a coabitação de um desses seres com a [alma](Alma){:.l} de um indivíduo, no seu corpo. Pois que, nesse sentido, não há demônios e que dois [Espíritos](Espírito){:.w} não podem habitar simultaneamente o mesmo corpo, não há possessos na conformidade da ideia a que esta palavra se acha associada. O termo possesso só se deve admitir como exprimindo a dependência absoluta em que uma [alma](Alma){:.l} pode achar-se com relação a [Espíritos](Espírito){:.w} imperfeitos que a subjuguem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.475 {#q475}
@@ -6910,7 +6910,7 @@ Pode alguém por si mesmo afastar os maus [Espíritos](Espírito){:.w} e liberta
 > <span class="emoji">👻</span> ▸ Sempre é possível, a quem quer que seja, subtrair-se a um jugo, desde que com [vontade](Vontade){:.w} firme o queira.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.476 {#q476}
@@ -6920,7 +6920,7 @@ Pode acontecer que a fascinação exercida pelo mau [Espírito](Espírito){:.w} 
 > <span class="emoji">👻</span> ▸ Sendo ela um homem de bem, a sua [vontade](Vontade){:.w} poderá ter eficácia, desde que apele para o concurso dos bons [Espíritos](Espírito){:.w}, porque, quanto **mais digna** for a pessoa, tanto maior poder terá sobre os [Espíritos](Espírito){:.w} imperfeitos, para afastá-los, e sobre os bons, para os atrair. Todavia, nada poderá, se o que estiver **subjugado** não lhe prestar o seu concurso. Há pessoas a quem agrada uma dependência que lhes lisonjeia os gostos e os desejos. Qualquer, porém, que seja o caso, aquele que não tiver puro o coração nenhuma influência exercerá. Os bons [Espíritos](Espírito){:.w} não lhe atendem ao chamado e os maus não o temem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.477 {#q477}
@@ -6930,7 +6930,7 @@ As fórmulas de exorcismo têm qualquer eficácia sobre os maus [Espíritos](Esp
 > <span class="emoji">👻</span> ▸ Não. Estes últimos riem e se obstinam, quando veem alguém tomar isso a sério.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.478 {#q478}
@@ -6940,7 +6940,7 @@ Pessoas há, animadas de boas intenções e que, nada obstante, não deixam de s
 > <span class="emoji">👻</span> ▸ Cansar-lhes a paciência, nenhum valor lhes dar às sugestões, mostrar-lhes que perdem o tempo. Vendo que nada conseguem, afastam-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.479 {#q479}
@@ -6950,7 +6950,7 @@ A prece é meio eficiente para a cura da obsessão?
 > <span class="emoji">👻</span> ▸ A prece é em tudo um poderoso auxílio, mas crede que não basta que alguém murmure algumas palavras, para que obtenha o que deseja. [Deus](Deus){:.l} assiste os que obram, não os que se limitam a pedir. É, pois, indispensável que o obsidiado faça, por sua parte, o que se torne necessário para destruir em si mesmo a causa da atração dos maus [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.480 {#q480}
@@ -6960,7 +6960,7 @@ Que se deve pensar da expulsão dos demônios, mencionada no Evangelho?
 > <span class="emoji">👻</span> ▸ Depende da interpretação que se lhe dê. Se chamais demônio ao mau [Espírito](Espírito){:.w} que subjugue um indivíduo, desde que se lhe destrua a influência, ele terá sido verdadeiramente expulso. Se ao demônio atribuirdes a causa de uma enfermidade, quando a houverdes curado direis com acerto que expulsastes o demônio. Uma coisa pode ser verdadeira ou falsa, conforme o sentido que empresteis às palavras. As maiores verdades estão sujeitas a parecer absurdos, uma vez que se atenda apenas à forma, ou que se considere como realidade a alegoria. Compreendei bem isto e não o esqueçais nunca, pois que se presta a uma aplicação geral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Convulsionários {#lde-2-09-04}
@@ -6972,7 +6972,7 @@ Desempenham os [Espíritos](Espírito){:.w} algum papel nos [fenônemo](fenómen
 > <span class="emoji">👻</span> ▸ Sim e muito importante, bem como o magnetismo, que é a causa originária de tais [fenômenos](fenómeno){:.d}. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.481.a {#q481a}
@@ -6990,7 +6990,7 @@ Como é que sucede estender-se subitamente a toda uma população o estado anorm
 Entre as singulares faculdades que se notam nos convulsionários, algumas facilmente se reconhecem, de que numerosos exemplos oferecem o sonambulismo e o magnetismo, tais como, além de outras, a insensibilidade física, a leitura do pensamento, a transmissão das dores, por simpatia etc. Não há, pois, duvidar de que aqueles em quem tais crises se manifestam estejam numa espécie de sonambulismo desperto, provocado pela influência que exercem uns sobre os outros. Eles são ao mesmo tempo magnetizadores e magnetizados, inconscientemente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.483 {#q483}
@@ -7004,7 +7004,7 @@ A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplício
 Visto que esses [fenônemo](fenómeno){:.d} dependem de uma causa física e da ação de certos [Espíritos](Espírito){:.w}, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos [Espíritos](Espírito){:.w}, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve [razão](Razão){:.w} para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos [Espíritos](Espírito){:.w} é direta e espontânea.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Autoridade, providências para o bem público e  <a href="#autoridade">↩️</a>
+<span class="emoji">🏷️</span> Autoridade, providências para o bem público e <a href="#autoridade">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
@@ -7016,7 +7016,7 @@ Os [Espíritos](Espírito){:.w} se afeiçoam de preferência a certas pessoas?
 > <span class="emoji">👻</span> ▸ Os bons [Espíritos](Espírito){:.w} simpatizam com os homens de bem, ou suscetíveis de se melhorarem. Os [Espíritos](Espírito){:.w} inferiores com os homens viciosos, ou que podem tornar-se tais. Daí suas afeições, como consequência da conformidade dos sentimentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Afeição, espíritos, encarnados e  <a href="#afeicao">↩️</a>
+<span class="emoji">🏷️</span> Afeição, espíritos, encarnados e <a href="#afeicao">↩️</a>
 </details>
 
 ###### Q.485 {#q485}
@@ -7026,8 +7026,8 @@ Os [Espíritos](Espírito){:.w} se afeiçoam de preferência a certas pessoas?
 > <span class="emoji">👻</span> ▸ A verdadeira afeição nada tem de carnal, mas quando um [Espírito](Espírito){:.w} se apega a uma pessoa, nem sempre o faz só por afeição. À estima que essa pessoa lhe inspira pode agregar-se uma reminiscência das paixões humanas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Afeição, espíritos, encarnados e  <a href="#afeicao">↩️</a><br>
-<span class="emoji">🏷️</span> Amor, espíritos e sentimento de  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Afeição, espíritos, encarnados e <a href="#afeicao">↩️</a><br>
+<span class="emoji">🏷️</span> Amor, espíritos e sentimento de <a href="#amor">↩️</a>
 </details>
 
 ###### Q.486 {#q486}
@@ -7037,7 +7037,7 @@ Interessam-se os [Espíritos](Espírito){:.w} pelas nossas desgraças e pela nos
 > <span class="emoji">👻</span> ▸ Os bons [Espíritos](Espírito){:.w} fazem todo o bem que lhes seja possível e se sentem ditosos com as vossas alegrias. Afligem-se com os vossos males, quando os não suportais com resignação, porque nenhum benefício então tirais deles, assemelhando-vos, em tais casos, ao doente que rejeita a beberagem amarga que o há de curar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.487 {#q487}
@@ -7053,7 +7053,7 @@ Pouco se incomodam com as desgraças que apenas atingem as nossas ideias mundana
 Vendo nas amarguras da vida um meio de nos adiantarmos, os [Espíritos](Espírito){:.w} as consideram como a crise ocasional de que resultará a salvação do doente. Compadecem-se dos nossos sofrimentos, como nos compadecemos dos de um amigo. Porém, enxergando as coisas de um ponto de vista mais justo, os apreciam de um modo diverso do nosso. Então, ao passo que os bons nos levantam o ânimo no interesse do nosso futuro, os outros nos impelem ao desespero, objetivando comprometer-nos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.488 {#q488}
@@ -7063,8 +7063,8 @@ Os parentes e amigos, que nos precederam na outra vida, maior simpatia nos votam
 > <span class="emoji">👻</span> ▸ Sem [dúvida](Dúvida){:.w} e quase sempre vos protegem como [Espíritos](Espírito){:.w}, de acordo com o poder de que dispõem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Além-túmulo, amizade e  <a href="#alem-tumulo">↩️</a><br>
-<span class="emoji">🏷️</span> Amizade, além-túmulo e  <a href="#amizade">↩️</a><br>
+<span class="emoji">🏷️</span> Além-túmulo, amizade e <a href="#alem-tumulo">↩️</a><br>
+<span class="emoji">🏷️</span> Amizade, além-túmulo e <a href="#amizade">↩️</a><br>
 </details>
 
 ###### Q.488.a {#q488a}
@@ -7074,7 +7074,7 @@ São sensíveis à afeição que lhes conservamos?
 > <span class="emoji">👻</span> ▸ Muito sensíveis, mas esquecem-se dos que os olvidam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Anjos da guarda. Espíritos protetores, familiares ou simpáticos {#lde-2-09-06}
@@ -7086,8 +7086,8 @@ Há [Espíritos](Espírito){:.w} que se ligam particularmente a um indivíduo pa
 > <span class="emoji">👻</span> ▸ Há o irmão espiritual, o que chamais o bom [Espírito](Espírito){:.w} ou o bom gênio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo da guarda, proteção de  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo da guarda, proteção de <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.490 {#q490}
@@ -7097,8 +7097,8 @@ Que se deve entender por [anjo](Anjo){:.w} de guarda ou [anjo](Anjo){:.w} guardi
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} protetor, pertencente a uma ordem elevada.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo da guarda, conceito de  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo da guarda, conceito de <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.491 {#q491}
@@ -7108,7 +7108,7 @@ Qual a missão do [Espírito](Espírito){:.w} protetor?
 > <span class="emoji">👻</span> ▸ A de um pai com relação aos filhos; a de guiar o seu protegido pela senda do bem, auxiliá-lo com seus conselhos, consolá-lo nas suas aflições, levantar-lhe o ânimo nas provas da vida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.492 {#q492}
@@ -7118,7 +7118,7 @@ O [Espírito](Espírito){:.w} protetor se dedica ao indivíduo desde o seu nasci
 > <span class="emoji">👻</span> ▸ Desde o nascimento até a [morte](Morte){:.w} e muitas vezes o acompanha na vida espírita, depois da morte, e mesmo através de muitas existências corpóreas, que mais não são do que fases curtíssimas da vida do [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.493 {#q493}
@@ -7128,7 +7128,7 @@ O [Espírito](Espírito){:.w} protetor se dedica ao indivíduo desde o seu nasci
 > <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} fica obrigado a vos assistir, uma vez que aceitou esse encargo. Cabe-lhe, porém, o direito de escolher, para seus protegidos, seres que lhe sejam simpáticos. Para alguns, é um prazer; para outros, missão ou dever.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.493.a {#q493a}
@@ -7138,7 +7138,7 @@ Dedicando-se a uma pessoa, renuncia o [Espírito](Espírito){:.w} a proteger out
 > <span class="emoji">👻</span> ▸ Não, mas protege-os menos exclusivamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.494 {#q494}
@@ -7148,7 +7148,7 @@ O [Espírito](Espírito){:.w} protetor fica fatalmente preso à criatura confiad
 > <span class="emoji">👻</span> ▸ Frequentemente sucede que alguns [Espíritos](Espírito){:.w} deixam suas posições de protetores para desempenhar diversas missões, mas, nesse caso, outros os substituem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.495 {#q495}
@@ -7171,9 +7171,9 @@ Poderá dar-se que o [Espírito](Espírito){:.w} protetor abandone o seu protegi
 Nada tem de surpreendente a [doutrina](doutrina){:.d} dos [anjos](Anjo){:.w} guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na [Terra](Terra){:.w} o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os [Espíritos](Espírito){:.w} possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
-<span class="emoji">🏷️</span> Anjo da guarda, assistência do  <a href="#anjo-da-guarda">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo da guarda, [doutrina](doutrina){:.d} de  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda, assistência do <a href="#anjo-da-guarda">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo da guarda, [doutrina](doutrina){:.d} de <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.496 {#q496}
@@ -7183,7 +7183,7 @@ O [Espírito](Espírito){:.w}, que abandona o seu protegido, que deixa de lhe fa
 > <span class="emoji">👻</span> ▸ Os bons [Espíritos](Espírito){:.w} nunca fazem mal. Deixam que o façam aqueles que lhes tomam o lugar. Costumais então lançar à conta da sorte as desgraças que vos acabrunham, quando só as sofreis por culpa vossa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.497 {#q497}
@@ -7193,7 +7193,7 @@ Pode um [Espírito](Espírito){:.w} protetor deixar o seu protegido à mercê de
 > <span class="emoji">👻</span> ▸ Os maus [Espíritos](Espírito){:.w} se unem para neutralizar a ação dos bons, mas, se o quiser, o protegido dará toda a força ao seu protetor. Pode acontecer que o bom [Espírito](Espírito){:.w} encontre alhures uma boa [vontade](Vontade){:.w} a ser auxiliada. Aplica-se então em auxiliá-la, aguardando que seu protegido lhe volte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.498 {#q498}
@@ -7203,7 +7203,7 @@ Será por não poder lutar contra [Espíritos](Espírito){:.w} malévolos que um
 > <span class="emoji">👻</span> ▸ Não é porque não possa, mas porque não quer. E não quer, porque das provas sai o seu protegido mais instruído e perfeito. Assiste-o sempre com seus conselhos, dando-os por meio dos bons pensamentos que lhe inspira, porém, que quase nunca são atendidos. A fraqueza, o descuido ou o orgulho do homem são exclusivamente o que empresta força aos maus [Espíritos](Espírito){:.w}, cujo poder todo advém do fato de lhes não opordes resistência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.499 {#q499}
@@ -7213,7 +7213,7 @@ O [Espírito](Espírito){:.w} protetor está constantemente com o seu protegido?
 > <span class="emoji">👻</span> ▸ Há circunstâncias em que não é necessário esteja o [Espírito](Espírito){:.w} protetor junto do seu protegido.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.500 {#q500}
@@ -7223,7 +7223,7 @@ Momentos haverá em que o [Espírito](Espírito){:.w} deixe de precisar, de ent�
 > <span class="emoji">👻</span> ▸ Sim, quando ele atinge o ponto de poder guiar-se a si mesmo, como sucede ao estudante, para o qual um momento chega em que não mais precisa de mestre. Isso, porém, não se dá na Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.501 {#q501}
@@ -7233,7 +7233,7 @@ Por que é oculta a ação dos [Espíritos](Espírito){:.w} sobre a nossa exist�
 > <span class="emoji">👻</span> ▸ Se vos fosse dado contar sempre com a ação deles, não obraríeis por vós mesmos e o vosso [Espírito](Espírito){:.w} não progrediria. Para que este possa adiantar-se, precisa de experiência, adquirindo-a frequentemente à sua custa. É necessário que exercite suas forças, sem o que, seria como a criança a quem não consentem que ande sozinha. A ação dos [Espíritos](Espírito){:.w} que vos querem bem é sempre regulada de maneira que não vos tolha o livre-arbítrio, porquanto, se não tivésseis responsabilidade, não avançaríeis na senda que vos há de conduzir a [Deus](Deus){:.l}. Não vendo quem o ampara, o homem se confia às suas próprias forças. Sobre ele, entretanto, vela o seu guia e, de tempos a tempos, lhe brada, advertindo-o do perigo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.502 {#q502}
@@ -7243,7 +7243,7 @@ O [Espírito](Espírito){:.w} protetor, que consegue trazer ao bom caminho o seu
 > <span class="emoji">👻</span> ▸ Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.502.a {#q502a}
@@ -7253,7 +7253,7 @@ O [Espírito](Espírito){:.w} protetor, que consegue trazer ao bom caminho o seu
 > <span class="emoji">👻</span> ▸ Não, pois que fez o que de si dependia.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.503 {#q503}
@@ -7263,7 +7263,7 @@ Sofre o [Espírito](Espírito){:.w} protetor quando vê que seu protegido segue 
 > <span class="emoji">👻</span> ▸ Compungem-no os erros do seu protegido, a quem lastima. Tal aflição, porém, não tem analogia com as angústias da paternidade terrena, porque ele sabe que há remédio para o mal e que o que não se faz hoje, amanhã se fará.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.504 {#q504}
@@ -7273,8 +7273,8 @@ Poderemos sempre saber o nome do [Espírito](Espírito){:.w} nosso protetor ou [
 > <span class="emoji">👻</span> ▸ Como quereis saber nomes para vós inexistentes? Supondes que [Espíritos](Espírito){:.w} só há os que conheceis?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo da guarda, identidade civil de  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo da guarda, identidade civil de <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.504.a {#q504a}
@@ -7284,7 +7284,7 @@ Como então o podemos invocar, se o não conhecemos?
 > <span class="emoji">👻</span> ▸ Dai-lhe o nome que quiserdes, o de [Espírito](Espírito){:.w} superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons [Espíritos](Espírito){:.w} são irmãos e se assistem mutuamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.505 {#q505}
@@ -7294,7 +7294,7 @@ Os protetores, que dão nomes conhecidos, sempre são, realmente, os [Espíritos
 > <span class="emoji">👻</span> ▸ Não. Muitas vezes, os que os dão são [Espíritos](Espírito){:.w} simpáticos aos que tais nomes usaram na [Terra](Terra){:.w} e, a mando destes, respondem ao vosso chamamento. Fazeis questão de nomes; eles tomam um que vos inspire confiança. Quando não podeis desempenhar pessoalmente determinada missão, não costumais mandar outro, por quem respondeis como por vós mesmos, obre em vosso nome?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.506 {#q506}
@@ -7304,7 +7304,7 @@ Na vida espírita, reconheceremos o [Espírito](Espírito){:.w} nosso protetor?
 > <span class="emoji">👻</span> ▸ Decerto, pois não é raro que o tenhais conhecido antes de encarnardes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.507 {#q507}
@@ -7314,7 +7314,7 @@ Pertencem todos os [Espíritos](Espírito){:.w} protetores à classe dos [Espír
 > <span class="emoji">👻</span> ▸ Pode, mas a proteção pressupõe certo grau de elevação e um poder ou uma virtude a mais, concedidos por [Deus](Deus){:.l}. O pai, que protege seu filho, também pode ser assistido por um [Espírito](Espírito){:.w} mais elevado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.508 {#q508}
@@ -7324,7 +7324,7 @@ Os [Espíritos](Espírito){:.w} que se achavam em boas condições ao deixarem a
 > <span class="emoji">👻</span> ▸ Mais ou menos restrito é o poder de que desfrutam. A situação em que se encontram nem sempre lhes permite inteira liberdade de ação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.509 {#q509}
@@ -7334,7 +7334,7 @@ Quando em estado de selvageria ou de inferioridade moral, têm os homens, igualm
 > <span class="emoji">👻</span> ▸ Todo homem tem um [Espírito](Espírito){:.w} que por ele vela, mas as missões são relativas ao fim que visam. Não dais a uma criança, que está aprendendo a ler, um professor de [filosofia](Filosofia){:.w}. O progresso do [Espírito](Espírito){:.w} familiar guarda relação com o do [Espírito](Espírito){:.w} protegido. Tendo um [Espírito](Espírito){:.w} que vela por vós, podeis tornar-vos, a vosso turno, o protetor de outro que vos seja inferior e os progressos que este realize, com o auxílio que lhe dispensardes, contribuirão para o vosso adiantamento. [Deus](Deus){:.l} não exige do [Espírito](Espírito){:.w} mais do que comportem a sua natureza e o grau de elevação a que já chegou.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.510 {#q510}
@@ -7346,7 +7346,7 @@ Quando o pai, que vela pelo filho, reencarna, continua a velar por ele?
 > Encarnado, mormente em mundo onde a existência é material, o [Espírito](Espírito){:.w} se acha muito sujeito ao corpo para poder dedicar-se inteiramente a outro [Espírito](Espírito){:.w}, isto é, para poder assisti-lo pessoalmente. Tanto assim que os que ainda se não elevaram bastante são também assistidos por outros, que lhes estão acima, de tal sorte que, se por qualquer circunstância um vem a faltar, outro lhe supre a falta.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.511 {#q511}
@@ -7356,7 +7356,7 @@ A cada indivíduo achar-se-á ligado, além do [Espírito](Espírito){:.w} prote
 > <span class="emoji">👻</span> ▸ Ligado, não é o termo. É certo que os maus [Espíritos](Espírito){:.w} procuram desviar do bom caminho o homem, quando se lhes depara ocasião. Sempre, porém, que um deles se liga a um indivíduo, fá-lo por si mesmo, porque conta ser atendido. Há então luta entre o bom e o mau, vencendo aquele por quem o homem se deixe influenciar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.512 {#q512}
@@ -7366,7 +7366,7 @@ Podemos ter muitos [Espíritos](Espírito){:.w} protetores?
 > <span class="emoji">👻</span> ▸ Todo homem conta sempre [Espíritos](Espírito){:.w}, mais ou menos elevados, que com ele simpatizam, que lhe dedicam afeto e por ele se interessam, como também tem junto de si outros que o assistem no mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.513 {#q513}
@@ -7376,7 +7376,7 @@ Os [Espíritos](Espírito){:.w} que conosco simpatizam atuam em cumprimento de m
 > <span class="emoji">👻</span> ▸ Não raro, desempenham missão temporária; porém, as mais das vezes, são apenas atraídos pela identidade de pensamentos e sentimentos, assim para o bem como para o mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.513.a {#q513a}
@@ -7386,7 +7386,7 @@ Parece lícito inferir-se daí que os [Espíritos](Espírito){:.w} a quem somos 
 > <span class="emoji">👻</span> ▸ Sim, qualquer que seja o seu caráter, o homem sempre encontra [Espíritos](Espírito){:.w} que com ele simpatizem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.514 {#q514}
@@ -7406,8 +7406,8 @@ Os [Espíritos](Espírito){:.w} familiares são os mesmos a quem chamamos [Espí
 > O mau gênio é um [Espírito](Espírito){:.w} imperfeito ou perverso, que se liga ao homem para desviá-lo do bem. Obra, porém, por impulso próprio e não no desempenho de missão. A tenacidade da sua ação está em relação direta com a maior ou menor facilidade de acesso que encontre por parte do homem, que goza sempre da liberdade de escutar-lhe a voz ou de lhe cerrar os ouvidos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Anjo da guarda  <a href="#anjo-da-guarda">↩️</a><br>
-<span class="emoji">🏷️</span> Anjo da guarda, conceito de  <a href="#anjo-da-guarda">↩️</a>
+<span class="emoji">🏷️</span> Anjo da guarda <a href="#anjo-da-guarda">↩️</a><br>
+<span class="emoji">🏷️</span> Anjo da guarda, conceito de <a href="#anjo-da-guarda">↩️</a>
 </details>
 
 ###### Q.515 {#q515}
@@ -7417,7 +7417,7 @@ Que se há de pensar dessas pessoas que se ligam a certos indivíduos para levá
 > <span class="emoji">👻</span> ▸ Efetivamente, certas pessoas exercem sobre outras uma espécie de fascinação que parece irresistível. Quando isso se dá no sentido do mal, são maus [Espíritos](Espírito){:.w}, de que outros [Espíritos](Espírito){:.w} também maus se servem para subjugá-las. [Deus](Deus){:.l} permite que tal coisa ocorra para vos experimentar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.516 {#q516}
@@ -7427,7 +7427,7 @@ Poderiam os nossos bom e mau gênios encarnar, a fim de mais de perto nos acompa
 > <span class="emoji">👻</span> ▸ Isso às vezes se dá, porém, o que mais frequentemente se verifica é encarregarem dessa missão outros [Espíritos](Espírito){:.w} encarnados que lhes são simpáticos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.517 {#q517}
@@ -7437,7 +7437,7 @@ Haverá [Espíritos](Espírito){:.w} que se liguem a uma família inteira para p
 > <span class="emoji">👻</span> ▸ Alguns [Espíritos](Espírito){:.w} se ligam aos membros de uma determinada família, que vivem juntos e unidos pela afeição; mas não acrediteis em [Espíritos](Espírito){:.w} protetores do orgulho das raças.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.518 {#q518}
@@ -7447,7 +7447,7 @@ Assim como são atraídos, pela simpatia, para certos indivíduos, são-no igual
 > <span class="emoji">👻</span> ▸ Os [Espíritos](Espírito){:.w} preferem estar no meio dos que se lhes assemelham. Acham-se aí mais à [vontade](Vontade){:.w} e mais certos de serem ouvidos. É pelas suas tendências que o homem atrai os [Espíritos](Espírito){:.w} e isso quer esteja só, quer faça parte de um todo coletivo, como uma sociedade, uma cidade ou um povo. Portanto, as sociedades, as cidades e os povos são, de acordo com as paixões e o caráter neles predominantes, assistidos por [Espíritos](Espírito){:.w} mais ou menos elevados. Os [Espíritos](Espírito){:.w} imperfeitos se afastam dos que os repelem. Segue-se que o aperfeiçoamento moral das **coletividades**, como o dos indivíduos, tende a afastar os maus [Espíritos](Espírito){:.w} e a atrair os bons, que estimulam e alimentam nelas o sentimento do bem, como outros lhes podem insuflar as paixões grosseiras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.519 {#q519}
@@ -7457,7 +7457,7 @@ As aglomerações de indivíduos, como as sociedades, as cidades, as nações, t
 > <span class="emoji">👻</span> ▸ Têm, pela [razão](Razão){:.w} de que esses agregados são individualidades coletivas que, caminhando para um objetivo comum, precisam de uma direção superior.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.520 {#q520}
@@ -7467,7 +7467,7 @@ Os [Espíritos](Espírito){:.w} protetores das coletividades são de natureza ma
 > <span class="emoji">👻</span> ▸ Tudo é relativo ao grau de adiantamento, quer se trate de coletividades, quer de indivíduos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.521 {#q521}
@@ -7483,7 +7483,7 @@ Podem certos [Espíritos](Espírito){:.w} auxiliar o progresso das artes, proteg
 > Nos povos, determinam a atração dos [Espíritos](Espírito){:.w} os costumes, os hábitos, o caráter dominante e sobretudo as leis, porque o caráter de uma nação se reflete nas suas leis. Fazendo reinar em seu seio a justiça, os homens combatem a influência dos maus [Espíritos](Espírito){:.w}. Onde quer que as leis consagrem coisas injustas, contrárias à Humanidade, os bons [Espíritos](Espírito){:.w} ficam em minoria e a multidão que aflui dos maus mantém a nação aferrada às suas ideias e paralisa as boas influências parciais, que ficam perdidas no conjunto, como insuladas espigas entre espinheiros. Estudando-se os costumes dos povos ou de qualquer reunião de homens, facilmente se forma ideia da população oculta que se lhes imiscui no modo de pensar e nos atos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Afinidade, atração por  <a href="#afinidade">↩️</a>
+<span class="emoji">🏷️</span> Afinidade, atração por <a href="#afinidade">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Pressentimentos {#lde-2-09-07}
@@ -7492,7 +7492,7 @@ Podem certos [Espíritos](Espírito){:.w} auxiliar o progresso das artes, proteg
 
 O pressentimento é sempre um aviso do [Espírito](Espírito){:.w} protetor?
 
-> <span class="emoji">👻</span> ▸ É o conselho íntimo e oculto de um [Espírito](Espírito){:.w} que vos quer bem. Também está na intuição da escolha que se haja feito. É a voz do instinto. Antes de encarnar, tem o [Espírito](Espírito){:.w} conhecimento das fases principais de sua existência, isto é, do gênero das provas a que se submete. Tendo estas caráter assinalado, ele conserva, no seu foro íntimo, uma espécie de impressão de tais provas e esta impressão, que é a voz do instinto, fazendo-se ouvir quando lhe chega o momento de sofrê-las, se torna pressentimento.  
+> <span class="emoji">👻</span> ▸ É o conselho íntimo e oculto de um [Espírito](Espírito){:.w} que vos quer bem. Também está na intuição da escolha que se haja feito. É a voz do instinto. Antes de encarnar, tem o [Espírito](Espírito){:.w} conhecimento das fases principais de sua existência, isto é, do gênero das provas a que se submete. Tendo estas caráter assinalado, ele conserva, no seu foro íntimo, uma espécie de impressão de tais provas e esta impressão, que é a voz do instinto, fazendo-se ouvir quando lhe chega o momento de sofrê-las, se torna pressentimento. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q857">Q.857</a>
@@ -7505,7 +7505,7 @@ Acontecendo que os pressentimentos e a voz do instinto são sempre algum tanto v
 > <span class="emoji">👻</span> ▸ Quando te achares na incerteza, invoca o teu bom [Espírito](Espírito){:.w}, ou ora a [Deus](Deus){:.l}, soberano senhor de todos, e Ele te enviará um de seus mensageiros, um de nós.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.524 {#q524}
@@ -7517,7 +7517,7 @@ Os avisos dos [Espíritos](Espírito){:.w} protetores objetivam unicamente o nos
 Os [Espíritos](Espírito){:.w} protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Influência dos Espíritos nos acontecimentos da vida {#lde-2-09-08}
@@ -7526,7 +7526,7 @@ Os [Espíritos](Espírito){:.w} protetores nos ajudam com seus conselhos, median
 
 Exercem os [Espíritos](Espírito){:.w} alguma influência nos acontecimentos da vida?
 
-> <span class="emoji">👻</span> ▸ Certamente, pois que te aconselham.  
+> <span class="emoji">👻</span> ▸ Certamente, pois que te aconselham. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q866">Q.866</a>
@@ -7541,14 +7541,14 @@ Exercem essa influência por outra forma que não apenas pelos pensamentos que s
 Imaginamos erradamente que aos [Espíritos](Espírito){:.w} só caiba manifestar sua ação por [fenônemo](fenómeno){:.d} extraordinários. Quiséramos que nos viessem auxiliar por meio de milagres e os figuramos sempre armados de uma varinha mágica. Por não ser assim é que oculta nos parece a intervenção que têm nas coisas deste mundo e muito natural o que se executa com o concurso deles. Assim é que, provocando, por exemplo, o encontro de duas pessoas, que suporão encontrar-se por acaso; inspirando a alguém a ideia de passar por determinado lugar; chamando-lhe a atenção para certo ponto, se disso resulta o que tenham em vista, eles obram de tal maneira que o homem, crente de que obedece a um impulso próprio, conserva sempre o seu livre-arbítrio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.526 {#q526}
 
 Tendo, como têm, ação sobre a matéria, podem os [Espíritos](Espírito){:.w} provocar certos efeitos, com o objetivo de que se dê um acontecimento? Por exemplo: um homem tem que morrer; sobe uma escada, a escada se quebra e ele morre da queda. Foram os [Espíritos](Espírito){:.w} que quebraram a escada, para que o destino daquele homem se cumprisse?
 
-> <span class="emoji">👻</span> ▸ É exato que os [Espíritos](Espírito){:.w} têm ação sobre a matéria, mas para cumprimento das Leis da Natureza, não para as derrogar, fazendo que, em dado momento, ocorra um sucesso inesperado e em contrário àquelas leis. No exemplo que figuraste, a escada se quebrou porque se achava podre, ou por não ser bastante forte para suportar o peso de um homem. Se era destino daquele homem perecer de tal maneira, os [Espíritos](Espírito){:.w} lhe inspirariam a ideia de subir a escada em questão, que teria de quebrar-se com o seu peso, resultando-lhe daí a [morte](Morte){:.w} por um efeito natural e sem que para isso fosse mister a produção de um milagre.  
+> <span class="emoji">👻</span> ▸ É exato que os [Espíritos](Espírito){:.w} têm ação sobre a matéria, mas para cumprimento das Leis da Natureza, não para as derrogar, fazendo que, em dado momento, ocorra um sucesso inesperado e em contrário àquelas leis. No exemplo que figuraste, a escada se quebrou porque se achava podre, ou por não ser bastante forte para suportar o peso de um homem. Se era destino daquele homem perecer de tal maneira, os [Espíritos](Espírito){:.w} lhe inspirariam a ideia de subir a escada em questão, que teria de quebrar-se com o seu peso, resultando-lhe daí a [morte](Morte){:.w} por um efeito natural e sem que para isso fosse mister a produção de um milagre. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q855">Q.855</a>
@@ -7561,7 +7561,7 @@ Tomemos outro exemplo, em que não entre a matéria em seu estado natural. Um ho
 > <span class="emoji">👻</span> ▸ Dá-se o mesmo que anteriormente. O raio caiu sobre aquela árvore em tal momento, porque estava nas Leis da Natureza que assim acontecesse. Não foi encaminhado para a árvore, por se achar debaixo dela o homem. A este, sim, foi inspirada a ideia de se abrigar debaixo de uma árvore sobre a qual cairia o raio, porquanto a árvore não deixaria de ser atingida, só por não lhe estar debaixo da fronde o homem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.528 {#q528}
@@ -7571,7 +7571,7 @@ No caso de uma pessoa mal-intencionada disparar sobre outra um projetil que apen
 > <span class="emoji">👻</span> ▸ Se o indivíduo alvejado não tem que perecer desse modo, o [Espírito](Espírito){:.w} bondoso lhe inspirará a ideia de se desviar, ou então poderá ofuscar o que empunha a arma, de sorte a fazê-lo apontar mal, porquanto, uma vez disparada a arma, o projetil segue a linha que tem de percorrer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.529 {#q529}
@@ -7581,7 +7581,7 @@ Que se deve pensar das balas encantadas, de que falam algumas lendas e que fatal
 > <span class="emoji">👻</span> ▸ Pura imaginação. O homem gosta do maravilhoso e não se contenta com as maravilhas da Natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.529.a {#q529a}
@@ -7591,7 +7591,7 @@ Podem os [Espíritos](Espírito){:.w} que dirigem os acontecimentos terrenos ter
 > <span class="emoji">👻</span> ▸ O que [Deus](Deus){:.l} quer se executa. Se houver demora na execução, ou lhe surjam obstáculos, é porque Ele assim o quis.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.530 {#q530}
@@ -7601,7 +7601,7 @@ Não podem os [Espíritos](Espírito){:.w} levianos e zombeteiros criar pequenos
 > <span class="emoji">👻</span> ▸ Eles se comprazem em vos causar aborrecimentos que representam para vós provas destinadas a exercitar a vossa paciência. Cansam-se, porém, quando veem que nada conseguem. Entretanto, não seria justo, nem acertado, imputar-lhes todas as decepções que experimentais e de que sois os principais culpados pela vossa irreflexão. Fica certo de que, se a tua louça se quebra, é mais por desazo teu do que por culpa dos [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.530.a {#q530a}
@@ -7611,7 +7611,7 @@ Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, 
 > <span class="emoji">👻</span> ▸ Por uma e outra coisa. Às vezes os que assim vos molestam são inimigos que granjeastes nesta ou em precedente existência. Doutras vezes, nenhum motivo há.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.531 {#q531}
@@ -7621,7 +7621,7 @@ Extingue-se-lhes com a vida corpórea a malevolência dos seres que nos fizeram 
 > <span class="emoji">👻</span> ▸ Muitas vezes reconhecem a injustiça com que procederam e o mal que causaram, mas, também, não é raro que continuem a perseguir-vos, cheios de animosidade, se [Deus](Deus){:.l} o permitir, por ainda vos experimentar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.531.a {#q531a}
@@ -7633,7 +7633,7 @@ Pode-se pôr termo a isso? Por que meio?
 A experiência demonstra que alguns [Espíritos](Espírito){:.w} continuam em outra existência a exercer as vinganças que vinham tomando e que assim, cedo ou tarde, o homem paga o mal que tenha feito a outrem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.532 {#q532}
@@ -7644,7 +7644,7 @@ Têm os [Espíritos](Espírito){:.w} o poder de afastar de certas pessoas os mal
 >
 > Ficai igualmente sabendo que de vós depende muitas vezes poupar-vos aos males, ou, quando menos, atenuá-los. A [inteligência](Inteligência){:.w}, [Deus](Deus){:.l} vo-la outorgou para que dela vos sirvais e é principalmente por meio da vossa [inteligência](Inteligência){:.w} que os [Espíritos](Espírito){:.w} vos auxiliam, sugerindo-vos ideias propícias ao vosso bem, porém não assistem senão os que sabem assistir-se a si mesmos. Esse o sentido destas palavras: Buscai e achareis, batei e se vos abrirá.
 >
-> Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do que considerais um mal sairá um bem muito maior. Quase nunca compreendeis isso, porque só atentais no momento presente ou na vossa própria pessoa.  
+> Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do que considerais um mal sairá um bem muito maior. Quase nunca compreendeis isso, porque só atentais no momento presente ou na vossa própria pessoa. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q855">Q.855</a>
@@ -7657,7 +7657,7 @@ Podem os [Espíritos](Espírito){:.w} fazer que obtenham riquezas os que lhes pe
 > <span class="emoji">👻</span> ▸ Algumas vezes, como prova. Quase sempre, porém, recusam, como se recusa à criança a satisfação de um pedido inconsiderado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.533.a {#q533a}
@@ -7667,14 +7667,14 @@ São os bons ou os maus [Espíritos](Espírito){:.w} que concedem esses favores?
 > <span class="emoji">👻</span> ▸ Uns e outros. Depende da intenção. As mais das vezes, entretanto, os que os concedem são os [Espíritos](Espírito){:.w} que vos querem arrastar para o mal e que encontram meio fácil de o conseguirem, facilitando-vos os gozos que a riqueza proporciona.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.534 {#q534}
 
 Será por influência de algum [Espírito](Espírito){:.w} que, fatalmente, a realização dos nossos projetos parece encontrar obstáculos?
 
-> <span class="emoji">👻</span> ▸ Algumas vezes é isso efeito da ação dos [Espíritos](Espírito){:.w}; muito mais vezes, porém, é que andais errados na elaboração e na execução dos vossos projetos. Muito influem nesses casos a posição e o caráter do indivíduo. Se vos obstinais em ir por um caminho que não deveis seguir, os [Espíritos](Espírito){:.w} nenhuma culpa têm dos vossos insucessos. Vós mesmos vos constituís em vossos maus gênios.  
+> <span class="emoji">👻</span> ▸ Algumas vezes é isso efeito da ação dos [Espíritos](Espírito){:.w}; muito mais vezes, porém, é que andais errados na elaboração e na execução dos vossos projetos. Muito influem nesses casos a posição e o caráter do indivíduo. Se vos obstinais em ir por um caminho que não deveis seguir, os [Espíritos](Espírito){:.w} nenhuma culpa têm dos vossos insucessos. Vós mesmos vos constituís em vossos maus gênios. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q707">Q.707</a>
@@ -7687,7 +7687,7 @@ Quando algo de venturoso nos sucede é ao [Espírito](Espírito){:.w} nosso prot
 > <span class="emoji">👻</span> ▸ Agradecei primeiramente a [Deus](Deus){:.l}, sem cuja permissão nada se faz; depois, aos bons [Espíritos](Espírito){:.w} que foram os agentes da sua vontade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Agradecimento, providência divina e  <a href="#agradecimento">↩️</a>
+<span class="emoji">🏷️</span> Agradecimento, providência divina e <a href="#agradecimento">↩️</a>
 </details>
 
 ###### Q.535.a {#q535a}
@@ -7697,7 +7697,7 @@ Que sucederia se nos esquecêssemos de agradecer?
 > <span class="emoji">👻</span> ▸ O que sucede aos ingratos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.535.b {#q535b}
@@ -7707,7 +7707,7 @@ No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 > <span class="emoji">👻</span> ▸ Assim é, de fato, mas importa ver o fim. Pagarão bem caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Ação dos Espíritos nos fenônemos da Natureza {#lde-2-09-09}
@@ -7719,7 +7719,7 @@ São devidos a causas fortuitas, ou, ao contrário, têm todos um fim providenci
 > <span class="emoji">👻</span> ▸ Tudo tem uma [razão](Razão){:.w} de ser e nada acontece sem a permissão de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.536.a {#q536a}
@@ -7729,7 +7729,7 @@ Objetivam sempre o homem esses [fenômenos](fenómeno){:.d}?
 > <span class="emoji">👻</span> ▸ Às vezes têm, como imediata [razão](Razão){:.w} de ser, o homem. Na maioria dos casos, entretanto, têm por único motivo o restabelecimento do equilíbrio e da harmonia das forças físicas da Natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.536.b {#q536b}
@@ -7739,7 +7739,7 @@ Concebemos perfeitamente que a [vontade](Vontade){:.w} de [Deus](Deus){:.l} seja
 > <span class="emoji">👻</span> ▸ Evidentemente. Nem poderia ser de outro modo. [Deus](Deus){:.l} não exerce ação direta sobre a matéria. Ele encontra agentes dedicados em todos os graus da escala dos mundos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.537 {#q537}
@@ -7749,7 +7749,7 @@ A mitologia dos antigos se fundava inteiramente em ideias espíritas, com a úni
 > <span class="emoji">👻</span> ▸ Tão pouco destituída é de fundamento, que ainda está muito aquém da [verdade](Verdade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.537.a {#q537a}
@@ -7759,7 +7759,7 @@ Poderá então haver [Espíritos](Espírito){:.w} que habitem o interior da [Ter
 > <span class="emoji">👻</span> ▸ Tais [Espíritos](Espírito){:.w} não habitam positivamente a Terra. Presidem aos [fenônemo](fenómeno){:.d} e os dirigem de acordo com as atribuições que têm. Dia virá em que recebereis a explicação de todos esses [fenônemo](fenómeno){:.d} e os compreendereis melhor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.538 {#q538}
@@ -7769,7 +7769,7 @@ Formam categoria especial no mundo espírita os [Espíritos](Espírito){:.w} que
 > <span class="emoji">👻</span> ▸ Que foram ou que o serão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.538.a {#q538a}
@@ -7779,7 +7779,7 @@ Pertencem esses [Espíritos](Espírito){:.w} às ordens superiores ou às inferi
 > <span class="emoji">👻</span> ▸ Isso é conforme seja mais ou menos material, mais ou menos [inteligente](Inteligência){:.w} o papel que desempenhem. Uns mandam, outros executam. Os que executam coisas materiais são sempre de ordem inferior, assim entre os [Espíritos](Espírito){:.w}, como entre os homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.539 {#q539}
@@ -7789,14 +7789,14 @@ A produção de certos [fenômenos](fenómeno){:.d}, das tempestades, por exempl
 > <span class="emoji">👻</span> ▸ Reúnem-se em massas inumeráveis.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.540 {#q540}
 
 Os [Espíritos](Espírito){:.w} que exercem ação nos [fenônemo](fenómeno){:.d} da Natureza operam com conhecimento de causa, usando do livre-arbítrio, ou por efeito de instintivo ou irrefletido impulso?
 
-> <span class="emoji">👻</span> ▸ Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de [Deus](Deus){:.l}. Pois bem, do mesmo modo, os [Espíritos](Espírito){:.w} mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena [consciência](Consciência){:.w} de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos [fenômenos](fenómeno){:.d}, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado [espírito](Espírito){:.w} ainda não pode apreender em seu conjunto!  
+> <span class="emoji">👻</span> ▸ Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de [Deus](Deus){:.l}. Pois bem, do mesmo modo, os [Espíritos](Espírito){:.w} mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena [consciência](Consciência){:.w} de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos [fenômenos](fenómeno){:.d}, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado [espírito](Espírito){:.w} ainda não pode apreender em seu conjunto! 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q559">Q.559</a>
@@ -7813,7 +7813,7 @@ Durante uma batalha, há [Espíritos](Espírito){:.w} assistindo e amparando cad
 Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses deuses eram simplesmente [Espíritos](Espírito){:.w} representados por alegorias.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.542 {#q542}
@@ -7823,7 +7823,7 @@ Estando, numa guerra, a justiça sempre de um dos lados, como pode haver [Espír
 > <span class="emoji">👻</span> ▸ Bem sabeis haver [Espíritos](Espírito){:.w} que só se comprazem na discórdia e na destruição. Para esses, a guerra é a guerra. A justiça da causa pouco os preocupa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.543 {#q543}
@@ -7833,7 +7833,7 @@ Podem alguns [Espíritos](Espírito){:.w} influenciar o general na concepção d
 > <span class="emoji">👻</span> ▸ Sem [dúvida](Dúvida){:.w} alguma. Podem influenciá-lo nesse sentido, como com relação a todas as concepções.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.544 {#q544}
@@ -7843,7 +7843,7 @@ Poderiam maus [Espíritos](Espírito){:.w} suscitar-lhe planos errôneos com o f
 > <span class="emoji">👻</span> ▸ Podem, mas não tem ele o livre-arbítrio? Se não tiver critério bastante para distinguir uma ideia falsa, sofrerá as consequências e melhor faria se obedecesse, em vez de comandar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.545 {#q545}
@@ -7853,7 +7853,7 @@ Pode, alguma vez, o general ser guiado por uma espécie de dupla vista, por uma 
 > <span class="emoji">👻</span> ▸ Isso se dá amiúde com o homem de gênio. É o que ele chama inspiração e o que faz que obre com uma espécie de certeza. Essa inspiração lhe vem dos [Espíritos](Espírito){:.w} que o dirigem, os quais se aproveitam das faculdades de que o veem dotado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.546 {#q546}
@@ -7865,7 +7865,7 @@ No tumulto dos combates, que se passa com os [Espíritos](Espírito){:.w} dos qu
 Dá-se, nos combates, o que ocorre em todos os casos de [morte](Morte){:.w} violenta: no primeiro momento, o [Espírito](Espírito){:.w} fica surpreendido e como que atordoado. Julga não estar morto. Parece-lhe que ainda toma parte na ação. Só pouco a pouco a realidade lhe surge.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.547 {#q547}
@@ -7875,7 +7875,7 @@ Após a morte, os [Espíritos](Espírito){:.w}, que como vivos se guerreavam, co
 > <span class="emoji">👻</span> ▸ Nessas ocasiões, o [Espírito](Espírito){:.w} nunca está calmo. Pode acontecer que nos primeiros instantes depois da [morte](Morte){:.w} ainda odeie o seu inimigo e mesmo o persiga. Quando, porém, se lhe restabelece a serenidade nas ideias, vê que nenhum fundamento há mais para sua animosidade. Contudo, não é impossível que dela guarde vestígios mais ou menos fortes, conforme o seu caráter.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.547.a {#q547a}
@@ -7885,7 +7885,7 @@ Continua a ouvir o rumor da batalha?
 > <span class="emoji">👻</span> ▸ Perfeitamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.548 {#q548}
@@ -7895,7 +7895,7 @@ O [Espírito](Espírito){:.w} que, como espectador, assiste calmamente a um comb
 > <span class="emoji">👻</span> ▸ Raras são as mortes verdadeiramente instantâneas. Na maioria dos casos, o [Espírito](Espírito){:.w}, cujo corpo acaba de ser mortalmente ferido, não tem [consciência](Consciência){:.w} imediata desse fato. Somente quando ele começa a reconhecer a nova condição em que se acha, é que os assistentes podem distingui-lo, a mover-se ao lado do cadáver. Parece isso tão natural, que nenhum efeito desagradável lhe causa a vista do corpo morto. Tendo-se a vida toda concentrado no [Espírito](Espírito){:.w}, só ele prende a atenção dos outros. É com ele que estes conversam, ou a ele é que fazem determinações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Pactos {#lde-2-09-11}
@@ -7909,7 +7909,7 @@ Algo de [verdade](Verdade){:.w} haverá nos pactos com os maus [Espíritos](Esp�
 O fato de o homem ficar, às vezes, na dependência dos [Espíritos](Espírito){:.w} inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e [Espíritos](Espírito){:.w} malfazejos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.550 {#q550}
@@ -7919,7 +7919,7 @@ Qual o sentido das lendas fantásticas em que figuram indivíduos que teriam ven
 > <span class="emoji">👻</span> ▸ Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra. Isso a que te referes é uma alegoria, que se pode explicar desta maneira: aquele que chama em seu auxílio os [Espíritos](Espírito){:.w}, para deles obter riquezas, ou qualquer outro favor, rebela-se contra a Providência; renuncia à missão que recebeu e às provas que lhe cumpre suportar neste mundo. Sofrerá na vida futura as consequências desse ato. Não quer isto dizer que sua [alma](Alma){:.l} fique para sempre condenada à desgraça, mas, desde que, em lugar de se desprender da matéria, nela cada vez se enterra mais, não terá, no mundo dos [Espíritos](Espírito){:.w}, a satisfação de que haja gozado na Terra, até que tenha resgatado a sua falta, por meio de novas provas, talvez maiores e mais penosas. Coloca-se, por [amor](Amor){:.w} dos gozos materiais, na dependência dos [Espíritos](Espírito){:.w} impuros. Estabelece-se assim, tacitamente, entre estes e ele, o [Espírito](Espírito){:.w} delinquente, um pacto que o leva à sua perda, mas que lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos bons [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Poder oculto. Talismãs. Feiticeiros {#lde-2-09-12}
@@ -7931,7 +7931,7 @@ Pode um homem mau, com o auxílio de um mau [Espírito](Espírito){:.w} que lhe 
 > <span class="emoji">👻</span> ▸ Não; [Deus](Deus){:.l} não o permitiria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.552 {#q552}
@@ -7941,7 +7941,7 @@ Que se deve pensar da crença no poder, que certas pessoas teriam, de enfeitiça
 > <span class="emoji">👻</span> ▸ Algumas pessoas dispõem de grande força magnética, de que podem fazer mau uso, se maus forem seus próprios [Espíritos](Espírito){:.w}, caso em que possível se torna serem secundados por outros [Espíritos](Espírito){:.w} maus. Não creias, porém, num pretenso poder mágico, que só existe na imaginação de criaturas supersticiosas, ignorantes das verdadeiras Leis da Natureza. Os fatos que citam, como prova da existência desse poder, são fatos naturais, mal observados e sobretudo mal compreendidos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.553 {#q553}
@@ -7951,7 +7951,7 @@ Que efeito podem produzir as fórmulas e práticas mediante as quais pessoas há
 > <span class="emoji">👻</span> ▸ O efeito de torná-las ridículas, se procedem de boa-fé. No caso contrário, são tratantes que merecem castigo. Todas as fórmulas são mera charlatanaria. Não há palavra sacramental nenhuma, nenhum sinal cabalístico, nem talismã, que tenha qualquer ação sobre os [Espíritos](Espírito){:.w}, porquanto estes só são atraídos pelo pensamento e não pelas coisas materiais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.553.a {#q553a}
@@ -7961,7 +7961,7 @@ Mas não é exato que alguns [Espíritos](Espírito){:.w} têm ditado, eles pró
 > <span class="emoji">👻</span> ▸ Efetivamente, [Espíritos](Espírito){:.w} há que indicam sinais, palavras estranhas, ou prescrevem a prática de atos, por meio dos quais se fazem os chamados conjuros. Ficai certos, porém, de que são [Espíritos](Espírito){:.w} que de vós outros escarnecem e zombam da vossa credulidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.554 {#q554}
@@ -7971,7 +7971,7 @@ Não pode aquele que, com ou sem razão, confia no que chama a virtude de um tal
 > <span class="emoji">👻</span> ▸ É [verdade](Verdade){:.w}, mas da pureza da intenção e da elevação dos sentimentos depende a natureza do [Espírito](Espírito){:.w} que é atraído. Ora, muito raramente aquele que seja bastante simplório para acreditar na virtude de um talismã deixará de colimar um fim mais material do que moral. Qualquer, porém, que seja o caso, essa crença denuncia uma inferioridade e uma fraqueza de ideias que favorecem a ação dos [Espíritos](Espírito){:.w} imperfeitos e escarninhos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.555 {#q555}
@@ -7983,7 +7983,7 @@ Que sentido se deve dar ao qualificativo de feiticeiro?
 O [Espiritismo](Espiritismo){:.l} e o magnetismo nos dão a chave de uma imensidade de [fenônemo](fenómeno){:.d} sobre os quais a ignorância teceu um sem-número de fábulas, em que os fatos se apresentam exagerados pela imaginação. O conhecimento lúcido dessas duas ciências que, a bem dizer, formam uma única, mostrando a realidade das coisas e suas verdadeiras causas, constitui o melhor preservativo contra as ideias supersticiosas, porque revela o que é possível e o que é impossível, o que está nas Leis da Natureza e o que não passa de ridícula crendice.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.556 {#q556}
@@ -7993,7 +7993,7 @@ Têm algumas pessoas, verdadeiramente, o poder de curar pelo simples contato?
 > <span class="emoji">👻</span> ▸ A força magnética pode chegar até aí, quando secundada pela pureza dos sentimentos e por um ardente desejo de fazer o bem, porque então os bons [Espíritos](Espírito){:.w} lhe vêm em auxílio. Cumpre, porém, desconfiar da maneira pela qual contam as coisas pessoas muito crédulas e muito entusiastas, sempre dispostas a considerar maravilhoso o que há de mais simples e mais natural. Importa desconfiar também das narrativas interesseiras, que costumam fazer os que exploram, em seu proveito, a credulidade alheia.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Bênçãos e maldições {#lde-2-09-13}
@@ -8013,7 +8013,7 @@ Alguma outra coisa incumbe aos [Espíritos](Espírito){:.w} fazer, que não seja
 > <span class="emoji">👻</span> ▸ Concorrem para a harmonia do Universo, executando as vontades de [Deus](Deus){:.l}, cujos ministros eles são. A vida espírita é uma ocupação contínua, mas que nada tem de penosa, como a vida na Terra, porque não há a fadiga corporal, nem as angústias das necessidades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.559 {#q559}
@@ -8033,7 +8033,7 @@ Tem atribuições especiais cada [Espírito](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Todos temos que habitar em toda parte e adquirir o conhecimento de todas as coisas, presidindo sucessivamente ao que se efetua em todos os pontos do Universo. Como diz o **Eclesiastes**, há tempo para tudo. Assim, tal [Espírito](Espírito){:.w} cumpre hoje neste mundo o seu destino, tal outro cumprirá ou já cumpriu o seu, em época diversa, na terra, na água, no ar etc.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.561 {#q561}
@@ -8045,7 +8045,7 @@ São permanentes para cada um e estão nas atribuições exclusivas de certas cl
 É o que sucede entre os homens, onde ninguém chega ao supremo grau de perfeição numa arte qualquer, sem que tenha adquirido os conhecimentos necessários, praticando os rudimentos dessa arte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.562 {#q562}
@@ -8055,7 +8055,7 @@ Já não tendo o que adquirir, os [Espíritos](Espírito){:.w} da ordem mais ele
 > <span class="emoji">👻</span> ▸ Que quererias que fizessem na eternidade? A ociosidade eterna seria um eterno suplício.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.562.a {#q562a}
@@ -8065,7 +8065,7 @@ De que natureza são as suas ocupações?
 > <span class="emoji">👻</span> ▸ Receber diretamente as ordens de [Deus](Deus){:.l}, transmiti-las ao Universo inteiro e velar por que sejam cumpridas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.563 {#q563}
@@ -8075,7 +8075,7 @@ São incessantes as ocupações dos [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Incessantes, sim, atendendo-se a que sempre ativos são os seus pensamentos, porquanto vivem pelo pensamento. Importa, porém, não identifiqueis as ocupações dos [Espíritos](Espírito){:.w} com as ocupações materiais dos homens. Essa mesma atividade lhes constitui um gozo, pela [consciência](Consciência){:.w} que têm de ser úteis.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.563.a {#q563a}
@@ -8091,7 +8091,7 @@ Haverá [Espíritos](Espírito){:.w} que se conservem ociosos, que em coisa algu
 > <span class="emoji">👻</span> ▸ Há, mas esse estado é temporário e dependendo do desenvolvimento de suas inteligências. Há, certamente, como há homens que só para si mesmos vivem. Pesa-lhes, porém, essa ociosidade e, cedo ou tarde, o desejo de progredir lhes faz necessária a atividade e felizes se sentirão por poderem tornar-se úteis. Referimo-nos aos [Espíritos](Espírito){:.w} que hão chegado ao ponto de terem [consciência](Consciência){:.w} de si mesmos e do seu livre-arbítrio; porquanto, em sua origem, todos são quais crianças que acabam de nascer e que obram mais por instinto que por [vontade](Vontade){:.w} expressa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.565 {#q565}
@@ -8101,7 +8101,7 @@ Atentam os [Espíritos](Espírito){:.w} em nossos trabalhos de arte e por eles s
 > <span class="emoji">👻</span> ▸ Atentam no que prove a elevação dos [Espíritos](Espírito){:.w} e seus progressos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.566 {#q566}
@@ -8111,7 +8111,7 @@ Um [Espírito](Espírito){:.w}, que haja cultivado na [Terra](Terra){:.w} uma es
 > <span class="emoji">👻</span> ▸ Tudo se confunde num objetivo geral. Se for um [Espírito](Espírito){:.w} bom, esses trabalhos o interessarão na medida do ensejo que lhe proporcionem de auxiliar as almas a se elevarem para [Deus](Deus){:.l}. Ademais, esqueceis que um [Espírito](Espírito){:.w} que cultivou certa arte, na existência em que o conhecestes, pode ter cultivado outra em anterior existência, pois que lhe cumpre saber tudo para ser perfeito. Assim, conforme o grau do seu adiantamento, pode suceder que nada seja para ele uma especialidade. Foi o que eu quis significar, dizendo que tudo se confunde num objetivo geral. Notai ainda o seguinte: o que, no vosso mundo atrasado, considerais sublime, não passa de infantilidade, comparado ao que há em mundos mais adiantados. Como pretenderíeis que os [Espíritos](Espírito){:.w} que habitam esses mundos, onde existem artes que desconheceis, admirem o que, aos seus olhos, corresponde a trabalhos de colegiais? Por isso disse eu: atentam no que demonstre progresso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.566.a {#q566a}
@@ -8121,7 +8121,7 @@ Concebemos que seja assim, em se tratando de [Espíritos](Espírito){:.w} muito 
 > <span class="emoji">👻</span> ▸ Com relação a esses, o caso é diferente. Mais restrito é o ponto de vista donde observam as coisas. Podem, portanto, admirar o que vos cause admiração.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.567 {#q567}
@@ -8133,7 +8133,7 @@ Costumam os [Espíritos](Espírito){:.w} imiscuir-se em nossos prazeres e ocupa�
 Com as coisas deste mundo, os [Espíritos](Espírito){:.w} se ocupam conforme o grau de elevação ou de inferioridade em que se achem. Os [Espíritos](Espírito){:.w} superiores dispõem, sem dúvida, da faculdade de examiná-las nas suas mínimas particularidades, mas só o fazem na medida em que isso seja útil ao progresso. Unicamente os [Espíritos](Espírito){:.w} inferiores ligam a essas coisas uma importância relativa às reminiscências que ainda conservam e às ideias materiais que ainda se não extinguiram neles.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.568 {#q568}
@@ -8143,7 +8143,7 @@ Os [Espíritos](Espírito){:.w}, que têm missões a cumprir, as cumprem na [err
 > <span class="emoji">👻</span> ▸ Podem tê-las num e noutro estado. Para certos [Espíritos](Espírito){:.w} errantes, é uma grande ocupação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.569 {#q569}
@@ -8155,7 +8155,7 @@ Em que consistem as missões de que podem ser encarregados os [Espíritos](Espí
 As missões dos [Espíritos](Espírito){:.w} têm sempre por objeto o bem. Quer como [Espíritos](Espírito){:.w}, quer como homens, são incumbidos de auxiliar o progresso da Humanidade, dos povos ou dos indivíduos, dentro de um círculo de ideias mais ou menos amplas, mais ou menos especiais e de velar pela execução de determinadas coisas. Alguns desempenham missões mais restritas e, de certo modo, pessoais ou inteiramente locais, como sejam assistir os enfermos, os agonizantes, os aflitos, velar por aqueles de quem se constituíram guias e protetores, dirigi-los, dando-lhes conselhos ou inspirando-lhes bons pensamentos. Pode dizer-se que há tantos gêneros de missões quantas as espécies de interesses a resguardar, assim no mundo físico, como no moral. O [Espírito](Espírito){:.w} se adianta conforme a maneira por que desempenha a sua tarefa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.570 {#q570}
@@ -8165,7 +8165,7 @@ Os [Espíritos](Espírito){:.w} percebem sempre os desígnios que lhes compete e
 > <span class="emoji">👻</span> ▸ Não. Muitos há que são instrumentos cegos. Outros, porém, sabem muito bem com que fim atuam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.571 {#q571}
@@ -8175,7 +8175,7 @@ Só os [Espíritos](Espírito){:.w} elevados desempenham missões?
 > <span class="emoji">👻</span> ▸ A importância das missões corresponde às capacidades e à elevação do [Espírito](Espírito){:.w}. O estafeta que leva um telegrama ao seu destinatário também desempenha uma missão, se bem que diversa da de um general.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.572 {#q572}
@@ -8185,7 +8185,7 @@ A missão de um [Espírito](Espírito){:.w} lhe é imposta, ou depende da sua vo
 > <span class="emoji">👻</span> ▸ Ele a pede e ditoso se considera se a obtém.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.572.a {#q572a}
@@ -8195,7 +8195,7 @@ Pode uma mesma missão ser pedida por muitos [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Sim, é frequente apresentarem-se muitos candidatos, mas nem todos são aceitos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.573 {#q573}
@@ -8205,7 +8205,7 @@ Em que consiste a missão dos [Espíritos](Espírito){:.w} encarnados?
 > <span class="emoji">👻</span> ▸ Em instruir os homens, em lhes auxiliar o progresso; em lhes melhorar as instituições, por meios diretos e materiais. As missões, porém, são mais ou menos gerais e importantes. O que cultiva a terra desempenha tão nobre missão, como o que governa, ou o que instrui. Tudo na Natureza se encadeia. Ao mesmo tempo que o [Espírito](Espírito){:.w} se depura pela encarnação, concorre, dessa forma, para a execução dos desígnios da Providência. Cada um tem neste mundo a sua missão, porque todos podem ter alguma utilidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.574 {#q574}
@@ -8215,7 +8215,7 @@ Qual pode ser, na Terra, a missão das criaturas voluntariamente inúteis?
 > <span class="emoji">👻</span> ▸ Há efetivamente pessoas que só para si mesmas vivem e que não sabem tornar-se úteis ao que quer que seja. São pobres seres dignos de compaixão, porquanto expiarão duramente sua voluntária inutilidade, começando-lhes muitas vezes, já neste mundo, o castigo, pelo aborrecimento e pelo desgosto que a vida lhes causa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.574.a {#q574a}
@@ -8225,7 +8225,7 @@ Pois que lhes era facultada a escolha, por que preferiram uma existência que ne
 > <span class="emoji">👻</span> ▸ Entre os [Espíritos](Espírito){:.w} também há preguiçosos que recuam diante de uma vida de labor. [Deus](Deus){:.l} consente que assim procedam. ­Mais tarde compreenderão, à própria custa, os inconvenientes da inutilidade a que se votaram e serão os primeiros a pedir que se lhes conceda recuperar o tempo perdido. Pode também acontecer que tenham escolhido uma vida útil e que hajam recuado diante da execução da obra, deixando-se levar pelas sugestões dos [Espíritos](Espírito){:.w} que os induzem a permanecer na ociosidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.575 {#q575}
@@ -8235,7 +8235,7 @@ As ocupações comuns mais nos parecem deveres do que missões propriamente dita
 > <span class="emoji">👻</span> ▸ Pelas grandes coisas que opera, pelos progressos a cuja realização conduz seus semelhantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.576 {#q576}
@@ -8245,7 +8245,7 @@ Foram predestinados a isso, antes de nascerem, os homens que trazem uma importan
 > <span class="emoji">👻</span> ▸ Algumas vezes, assim é. Quase sempre, porém, o ignoram. Baixando à Terra, colimam um vago objetivo. Depois do nascimento e de acordo com as circunstâncias é que suas missões se lhes desenham às vistas. [Deus](Deus){:.l} os impele para a senda onde devam executar-lhe os desígnios.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.577 {#q577}
@@ -8255,7 +8255,7 @@ Quando um homem faz alguma coisa útil, fá-la sempre em virtude da missão em q
 > <span class="emoji">👻</span> ▸ Nem tudo o que o homem faz resulta de missão a que tenha sido predestinado. Amiudadas vezes é o instrumento de que se serve um [Espírito](Espírito){:.w} para fazer que se execute uma coisa que julga útil. Por exemplo, entende um [Espírito](Espírito){:.w} ser útil que se escreva um livro que ele próprio escreveria se estivesse encarnado. Procura então o escritor mais apto a lhe compreender e executar o pensamento. Transmite-lhe a ideia do livro e o dirige na execução. Ora, esse escritor não veio à [Terra](Terra){:.w} com a missão de publicar tal obra. O mesmo ocorre com diversos trabalhos artísticos e muitas descobertas. Devemos acrescentar que, durante o sono corporal, o [Espírito](Espírito){:.w} encarnado se comunica diretamente com o [Espírito](Espírito){:.w} errante, entendendo-se os dois acerca da execução.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.578 {#q578}
@@ -8265,7 +8265,7 @@ Poderá o [Espírito](Espírito){:.w}, por própria culpa, falir na sua missão?
 > <span class="emoji">👻</span> ▸ Sim, se não for um [Espírito](Espírito){:.w} superior.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.578.a {#q578a}
@@ -8275,7 +8275,7 @@ Que consequências lhe advirão da sua falência?
 > <span class="emoji">👻</span> ▸ Terá que retomar a tarefa; essa a sua punição. Também sofrerá as consequências do mal que haja causado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.579 {#q579}
@@ -8285,7 +8285,7 @@ Pois se é de [Deus](Deus){:.l} que o [Espírito](Espírito){:.w} recebe a sua m
 > <span class="emoji">👻</span> ▸ Não sabe [Deus](Deus){:.l} se o seu general obterá a vitória ou se será vencido? Sabe-o, crede, e seus planos, **quando importantes**, não se apoiam nos que hajam de abandonar em meio a obra. Toda a questão, para vós, está no conhecimento que [Deus](Deus){:.l} tem do futuro, mas que não vos é concedido.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.580 {#q580}
@@ -8295,7 +8295,7 @@ O [Espírito](Espírito){:.w}, que encarna para desempenhar determinada missão,
 > <span class="emoji">👻</span> ▸ Não, porque traz a experiência adquirida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.581 {#q581}
@@ -8305,14 +8305,14 @@ Certamente desempenham missão os homens que servem de faróis ao gênero humano
 > <span class="emoji">👻</span> ▸ Como falseadas por eles próprios. Estão abaixo da tarefa que tomaram sobre os ombros. Contudo, mister se faz levar em conta as circunstâncias. Os homens de gênio têm que falar de acordo com as épocas em que vivem e, assim, um ensinamento que pareceu errôneo ou pueril, numa época adiantada, pode ter sido o que convinha no século em que foi divulgado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.582 {#q582}
 
 Pode-se considerar como missão a paternidade?
 
-> <span class="emoji">👻</span> ▸ É, sem contestação possível, uma verdadeira missão. É ao mesmo tempo grandíssimo dever e que envolve, mais do que o pensa o homem, a sua responsabilidade quanto ao futuro. [Deus](Deus){:.l} colocou o filho sob a tutela dos pais, a fim de que estes o dirijam pela senda do bem, e lhes facilitou a tarefa dando àquele uma organização débil e delicada, que o torna propício a todas as impressões. Muitos há, no entanto, que mais cuidam de aprumar as árvores do seu jardim e de fazê-las dar bons frutos em abundância, do que de formar o caráter de seu filho. Se este vier a sucumbir por culpa deles, suportarão os desgostos resultantes dessa queda e partilharão dos sofrimentos do filho na vida futura, por não terem feito o que lhes estava ao alcance para que ele avançasse na estrada do bem.  
+> <span class="emoji">👻</span> ▸ É, sem contestação possível, uma verdadeira missão. É ao mesmo tempo grandíssimo dever e que envolve, mais do que o pensa o homem, a sua responsabilidade quanto ao futuro. [Deus](Deus){:.l} colocou o filho sob a tutela dos pais, a fim de que estes o dirijam pela senda do bem, e lhes facilitou a tarefa dando àquele uma organização débil e delicada, que o torna propício a todas as impressões. Muitos há, no entanto, que mais cuidam de aprumar as árvores do seu jardim e de fazê-las dar bons frutos em abundância, do que de formar o caráter de seu filho. Se este vier a sucumbir por culpa deles, suportarão os desgostos resultantes dessa queda e partilharão dos sofrimentos do filho na vida futura, por não terem feito o que lhes estava ao alcance para que ele avançasse na estrada do bem. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q892">Q.892</a>
@@ -8322,7 +8322,7 @@ Pode-se considerar como missão a paternidade?
 
 São responsáveis os pais pelo transviamento de um filho que envereda pelo caminho do mal, apesar dos cuidados que lhe dispensaram?
 
-> <span class="emoji">👻</span> ▸ Não; porém, quanto piores forem as propensões do filho, tanto mais pesada é a tarefa e tanto maior o mérito dos pais, se conseguirem desviá-lo do mau caminho.  
+> <span class="emoji">👻</span> ▸ Não; porém, quanto piores forem as propensões do filho, tanto mais pesada é a tarefa e tanto maior o mérito dos pais, se conseguirem desviá-lo do mau caminho. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q892">Q.892</a>
@@ -8335,7 +8335,7 @@ Se um filho se torna homem de bem, não obstante a negligência ou os maus exemp
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} é justo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.584 {#q584}
@@ -8345,7 +8345,7 @@ De que natureza será a missão do conquistador que apenas visa satisfazer à su
 > <span class="emoji">👻</span> ▸ As mais das vezes não passa de um instrumento de que se serve [Deus](Deus){:.l} para cumprimento de seus desígnios, representando essas calamidades um meio de que ele se utiliza para fazer que um povo progrida mais rapidamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.584.a {#q584a}
@@ -8383,7 +8383,7 @@ Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes:
 Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A matéria inerte, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de matéria inerte, são dotadas de vitalidade. Os animais, também compostos de matéria inerte e igualmente dotados de vitalidade, possuem, além disso, uma espécie de [inteligência](Inteligência){:.w} instintiva, limitada, e a [consciência](Consciência){:.w} de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma [inteligência](Inteligência){:.w} especial, indefinida, que lhe dá a [consciência](Consciência){:.w} do seu futuro, a percepção das coisas extra-materiais e o conhecimento de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.586 {#q586}
@@ -8393,7 +8393,7 @@ Têm as plantas [consciência](Consciência){:.w} de que existem?
 > <span class="emoji">👻</span> ▸ Não, pois que não pensam; só têm vida orgânica.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.587 {#q587}
@@ -8403,7 +8403,7 @@ Experimentam sensações? Sofrem quando as mutilam?
 > <span class="emoji">👻</span> ▸ Recebem impressões físicas que atuam sobre a matéria, mas não têm percepções. Conseguintemente, não têm a sensação da dor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.588 {#q588}
@@ -8413,7 +8413,7 @@ Independe da [vontade](Vontade){:.w} delas a força que as atrai umas para as ou
 > <span class="emoji">👻</span> ▸ Certo, porquanto não pensam. É uma força mecânica da matéria, que atua sobre a matéria, sem que elas possam a isso opor-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Automatismo, matéria e  <a href="#automatismo">↩️</a>
+<span class="emoji">🏷️</span> Automatismo, matéria e <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.589 {#q589}
@@ -8425,8 +8425,8 @@ Algumas plantas, como a sensitiva e a dioneia, por exemplo, executam movimentos 
 O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Automatismo, rejeição e  <a href="#automatismo">↩️</a><br>
-<span class="emoji">🏷️</span> Automatismo, transição e  <a href="#automatismo">↩️</a>
+<span class="emoji">🏷️</span> Automatismo, rejeição e <a href="#automatismo">↩️</a><br>
+<span class="emoji">🏷️</span> Automatismo, transição e <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.590 {#q590}
@@ -8436,7 +8436,7 @@ Não haverá nas plantas, como nos animais, um instinto de conservação, que as
 > <span class="emoji">👻</span> ▸ Há, se quiserdes, uma espécie de instinto, dependendo isso da extensão que se dê ao significado desta palavra. É, porém, um instinto puramente mecânico. Quando, nas operações químicas, observais que dois corpos se reúnem, é que um ao outro convém; quer dizer: é que há entre eles afinidade. Ora, a isto não dais o nome de instinto.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Automatismo, conveniência e  <a href="#automatismo">↩️</a>
+<span class="emoji">🏷️</span> Automatismo, conveniência e <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.591 {#q591}
@@ -8446,7 +8446,7 @@ Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros
 > <span class="emoji">👻</span> ▸ Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Os animais e o homem {#lde-2-11-02}
@@ -8458,7 +8458,7 @@ Se, pelo que toca à [inteligência](Inteligência){:.w}, comparamos o homem e o
 > <span class="emoji">👻</span> ▸ A este respeito é completo o desacordo entre os vossos filósofos. Querem uns que o homem seja um animal e outros que o animal seja um homem. Estão todos em erro. O homem é um ser à parte, que desce muito baixo algumas vezes e que pode também elevar-se muito alto. Pelo físico, é como os animais e menos bem-dotado do que muitos destes. A Natureza lhes deu tudo o que o homem é obrigado a **inventar com a sua [inteligência](Inteligência){:.w}**, para satisfação de suas necessidades e para sua conservação. Seu corpo se destrói, como o dos animais, é certo, mas ao seu [Espírito](Espírito){:.w} está assinado um destino que só ele pode compreender, porque só ele é inteiramente livre. Pobres homens, que vos rebaixais mais do que os brutos! não sabeis distinguir-vos deles? Reconhecei o homem pela faculdade de pensar em [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, homem e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, homem e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.593 {#q593}
@@ -8470,8 +8470,8 @@ Poder-se-á dizer que os animais só obram por instinto?
 Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam [vontade](Vontade){:.w} de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de [inteligência](Inteligência){:.w}, mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, instinto e  <a href="#animais">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, inteligência rudimentar e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, instinto e <a href="#animais">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, inteligência rudimentar e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.594 {#q594}
@@ -8481,7 +8481,7 @@ Têm os animais alguma linguagem?
 > <span class="emoji">👻</span> ▸ Se vos referis a uma linguagem formada de sílabas e palavras, não. Meio, porém, de se comunicarem entre si, têm. Dizem uns aos outros muito mais coisas do que imaginais, mas essa mesma linguagem de que dispõem é restrita às necessidades, como restritas também são as ideias que podem ter.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.594.a {#q594a}
@@ -8493,7 +8493,7 @@ Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguagem 
 Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os [Espíritos](Espírito){:.w} entre si se comuniquem sem o auxílio da palavra articulada?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, comunicação entre os  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, comunicação entre os <a href="#animais">↩️</a>
 </details>
 
 ###### Q.595 {#q595}
@@ -8503,8 +8503,8 @@ Gozam de livre-arbítrio os animais, para a prática dos seus atos?
 > <span class="emoji">👻</span> ▸ Os animais não são simples máquinas, como supondes. Contudo, a liberdade de ação, de que desfrutam, é limitada pelas suas necessidades e não se pode comparar à do homem. Sendo muitíssimo inferiores a este, não têm os mesmos deveres que ele. A liberdade, possuem-na restrita aos atos da vida material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, liberdade de ação dos  <a href="#animais">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, livre-arbítrio e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, liberdade de ação dos <a href="#animais">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, livre-arbítrio e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.596 {#q596}
@@ -8514,7 +8514,7 @@ Donde procede a aptidão que certos animais denotam para imitar a linguagem do h
 > <span class="emoji">👻</span> ▸ Origina-se de uma particular conformação dos órgãos vocais, reforçada pelo instinto de imitação. O macaco imita os gestos; algumas aves imitam a voz.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.597 {#q597}
@@ -8524,7 +8524,7 @@ Pois que os animais possuem uma [inteligência](Inteligência){:.w} que lhes fac
 > <span class="emoji">👻</span> ▸ Há e que sobrevive ao corpo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, princípio sobrevivente ao corpo dos  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, princípio sobrevivente ao corpo dos <a href="#animais">↩️</a>
 </details>
 
 ###### Q.597.a {#q597a}
@@ -8534,7 +8534,7 @@ Será esse princípio uma [alma](Alma){:.l} semelhante à do homem?
 > <span class="emoji">👻</span> ▸ É também uma alma, se quiserdes, dependendo isto do sentido que se der a esta palavra. É, porém, inferior à do homem. Há entre a [alma](Alma){:.l} dos animais e a do homem distância equivalente à que medeia entre a [alma](Alma){:.l} do homem e [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, homem e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, homem e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.598 {#q598}
@@ -8544,7 +8544,7 @@ Após a morte, conserva a [alma](Alma){:.l} dos animais a sua individualidade e 
 > <span class="emoji">👻</span> ▸ Conserva sua individualidade; quanto à [consciência](Consciência){:.w} do seu eu, não. A vida [inteligente](Inteligência){:.w} lhe permanece em estado latente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, individualidade e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, individualidade e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.599 {#q599}
@@ -8554,7 +8554,7 @@ Após a morte, conserva a [alma](Alma){:.l} dos animais a sua individualidade e 
 > <span class="emoji">👻</span> ▸ Não, pois que lhe falta livre-arbítrio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, encarnação e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, encarnação e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.600 {#q600}
@@ -8564,8 +8564,8 @@ Sobrevivendo ao corpo em que habitou, a [alma](Alma){:.l} do animal vem a achar-
 > <span class="emoji">👻</span> ▸ Fica numa espécie de [erraticidade](Erraticidade){:.l}, pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O [Espírito](Espírito){:.w} errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A [consciência](Consciência){:.w} de si mesmo é o que constitui o principal atributo do [Espírito](Espírito){:.w}. O do animal, depois da morte, é classificado pelos [Espíritos](Espírito){:.w} a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, animais e  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, alma dos  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Alma, animais e <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, alma dos <a href="#animais">↩️</a>
 </details>
 
 ###### Q.601 {#q601}
@@ -8577,7 +8577,7 @@ Os animais estão sujeitos, como o homem, a uma lei progressiva?
 Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, mundos superiores e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, mundos superiores e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.602 {#q602}
@@ -8587,8 +8587,8 @@ Os animais progridem, como o homem, por ato da própria vontade, ou pela força 
 > <span class="emoji">👻</span> ▸ Pela força das coisas, [razão](Razão){:.w} por que não estão sujeitos à expiação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, evolução dos  <a href="#animais">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, expiação e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, evolução dos <a href="#animais">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, expiação e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.603 {#q603}
@@ -8599,7 +8599,7 @@ Nos mundos superiores, os animais conhecem a [Deus](Deus){:.l}?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q668">Q.668</a><br>
-<span class="emoji">🏷️</span> Animais, conhecimento de Deus nos mundos superiores e os  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, conhecimento de Deus nos mundos superiores e os <a href="#animais">↩️</a>
 </details>
 
 ###### Q.604 {#q604}
@@ -8609,7 +8609,7 @@ Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, 
 > <span class="emoji">👻</span> ▸ Tudo na Natureza se encadeia por elos que ainda não podeis apreender. Assim, as coisas aparentemente mais díspares têm pontos de contato que o homem, no seu estado atual, nunca chegará a compreender. Por um esforço da [inteligência](Inteligência){:.w} poderá entrevê-los, mas, somente quando essa [inteligência](Inteligência){:.w} estiver no máximo grau de desenvolvimento e liberta dos preconceitos do orgulho e da ignorância, logrará ver claro na obra de [Deus](Deus){:.l}. Até lá, suas muito restritas ideias lhe farão observar as coisas por um mesquinho e acanhado prisma. Sabei não ser possível que [Deus](Deus){:.l} se contradiga e que, na Natureza, tudo se harmoniza mediante leis gerais, que por nenhum de seus pontos deixam de corresponder à sublime [sabedoria](Sabedoria){:.w} do [Criador](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.604.a {#q604a}
@@ -8619,7 +8619,7 @@ A [inteligência](Inteligência){:.w} é então uma propriedade comum, um ponto 
 > <span class="emoji">👻</span> ▸ É, porém os animais só possuem a [inteligência](Inteligência){:.w} da vida material. No homem, a [inteligência](Inteligência){:.w} proporciona a vida moral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, inteligência e  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, inteligência e <a href="#animais">↩️</a>
 </details>
 
 ###### Q.605 {#q605}
@@ -8629,7 +8629,7 @@ Considerando-se todos os pontos de contato que existem entre o homem e os animai
 > <span class="emoji">👻</span> ▸ Não, o homem não tem duas almas. O corpo, porém, tem seus instintos, resultantes da sensação peculiar aos órgãos. Dupla, no homem, só é a natureza. Há nele a natureza animal e a natureza espiritual. Participa, pelo seu corpo, da natureza dos animais e de seus instintos. Por sua alma, participa da dos [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.605.a {#q605a}
@@ -8641,7 +8641,7 @@ De modo que, além de suas próprias imperfeições de que cumpre ao [Espírito]
 Encarnando no corpo do homem, o [Espírito](Espírito){:.w} lhe traz o princípio intelectual e moral, que o torna superior aos animais. As duas naturezas nele existentes dão às suas paixões duas origens diferentes: umas provêm dos instintos da natureza animal, provindo as outras das impurezas do [Espírito](Espírito){:.w}, de cuja encarnação é ele a imagem e que mais ou menos simpatiza com a grosseria dos apetites animais. Purificando-se, o [Espírito](Espírito){:.w} se liberta pouco a pouco da influência da matéria. Sob essa influência, aproxima-se do bruto. Isento dela, eleva-se à sua verdadeira destinação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.606 {#q606}
@@ -8651,7 +8651,7 @@ Donde tiram os animais o princípio [inteligente](Inteligência){:.w} que consti
 > <span class="emoji">👻</span> ▸ Do elemento [inteligente](Inteligência){:.w} universal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.606.a {#q606a}
@@ -8661,7 +8661,7 @@ Então, emanam de um único princípio a [inteligência](Inteligência){:.w} do 
 > <span class="emoji">👻</span> ▸ Sem [dúvida](Dúvida){:.w} alguma, porém, no homem, passou por uma elaboração que a coloca acima da que existe no animal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.607 {#q607}
@@ -8671,7 +8671,7 @@ Dissestes (👉 Veja [Q.190](#q190)) que o estado da [alma](Alma){:.l} do homem,
 > <span class="emoji">👻</span> ▸ Numa série de existências que precedem o período a que chamais Humanidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, primeira encarnação da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, primeira encarnação da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.607.a {#q607a}
@@ -8681,7 +8681,7 @@ Parece que, assim, se pode considerar a [alma](Alma){:.l} como tendo sido o prin
 > <span class="emoji">👻</span> ▸ Já não dissemos que tudo na Natureza se encadeia e tende para a unidade? Nesses seres, cuja totalidade estais longe de conhecer, é que o princípio [inteligente](Inteligência){:.w} se elabora, se individualiza pouco a pouco e se ensaia para a vida, conforme acabamos de dizer. É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio [inteligente](Inteligência){:.w} sofre uma transformação e se torna **Espírito**. Entra então no período da humanização, começando a ter [consciência](Consciência){:.w} do seu futuro, capacidade de distinguir o bem do mal e a responsabilidade dos seus atos. Assim, à fase da infância se segue a da adolescência, vindo depois a da juventude e da madureza. Nessa origem, coisa alguma há de humilhante para o homem. Sentir-se-ão humilhados os grandes gênios por terem sido fetos informes nas entranhas que os geraram? Se alguma coisa há que lhe seja humilhante, é a sua inferioridade perante [Deus](Deus){:.l} e sua impotência para lhe sondar a profundeza dos desígnios e para apreciar a [sabedoria](Sabedoria){:.w} das leis que regem a harmonia do Universo. Reconhecei a grandeza de [Deus](Deus){:.l} nessa admirável harmonia, mediante a qual tudo é solidário na Natureza. Acreditar que [Deus](Deus){:.l} haja feito, seja o que for, sem um fim, e criado seres inteligentes sem futuro, fora blasfemar da sua bondade, que se estende por sobre todas as suas criaturas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.607.b {#q607b}
@@ -8691,7 +8691,7 @@ Esse período de humanização principia na Terra?
 > <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} não é o ponto de partida da primeira encarnação humana. O período da humanização começa, geralmente, em mundos ainda inferiores à Terra. Isto, entretanto, não constitui regra absoluta, pois pode suceder que um [Espírito](Espírito){:.w}, desde o seu início humano, esteja apto a viver na Terra. Não é frequente o caso; constitui antes uma exceção.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.608 {#q608}
@@ -8701,7 +8701,7 @@ O [Espírito](Espírito){:.w} do homem tem, após a morte, [consciência](Consci
 > <span class="emoji">👻</span> ▸ Não, pois não é desse período que começa a sua vida de [Espírito](Espírito){:.w}. Difícil é mesmo que se lembre de suas primeiras existências humanas, como difícil é que o homem se lembre dos primeiros tempos de sua infância e ainda menos do tempo que passou no seio materno. Essa a [razão](Razão){:.w} por que os [Espíritos](Espírito){:.w} dizem que não sabem como começaram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.609 {#q609}
@@ -8713,7 +8713,7 @@ Uma vez no período da humanidade, conserva o [Espírito](Espírito){:.w} traço
 > Há sempre anéis que ligam as extremidades da cadeia dos seres e dos acontecimentos. Aqueles vestígios, porém, se apagam com o desenvolvimento do livre-arbítrio. Os primeiros progressos só muito lentamente se efetuam, porque ainda não têm a secundá-los a vontade. Vão em progressão mais rápida, à medida que o [Espírito](Espírito){:.w} adquire mais perfeita [consciência](Consciência){:.w} de si mesmo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.610 {#q610}
@@ -8723,7 +8723,7 @@ Ter-se-ão enganado os [Espíritos](Espírito){:.w} que disseram constituir o ho
 > <span class="emoji">👻</span> ▸ Não, mas a questão não fora desenvolvida. Ademais, há coisas que só a seu tempo podem ser esclarecidas. O homem é, com efeito, um ser à parte, visto possuir faculdades que o distinguem de todos os outros e ter outro destino. A espécie humana é a que [Deus](Deus){:.l} escolheu para a encarnação dos seres **que podem conhecê-lo**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Metempsicose {#lde-2-11-03}
@@ -8735,7 +8735,7 @@ O terem os seres vivos uma origem comum no princípio [inteligente](Inteligênci
 > <span class="emoji">👻</span> ▸ Duas coisas podem ter a mesma origem e absolutamente não se assemelharem mais tarde. Quem reconheceria a árvore, com suas folhas, flores e frutos, no germe informe que se contém na semente donde ela surge? Desde que o princípio [inteligente](Inteligência){:.w} atinge o grau necessário para ser [Espírito](Espírito){:.w} e entrar no período da humanização, já não guarda relação com o seu estado primitivo e já não é a [alma](Alma){:.l} dos animais, como a árvore já não é a semente. De animal só há no homem o corpo e as paixões que nascem da influência do corpo e do instinto de conservação inerente à matéria. Não se pode, pois, dizer que tal homem é a encarnação do [espírito](Espírito){:.w} de tal animal. Conseguintemente, a metempsicose, como a entendem, não é verdadeira.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.612 {#q612}
@@ -8767,7 +8767,7 @@ As diferentes espécies de animais não procedem **intelectualmente** umas das o
 Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de [Deus](Deus){:.l}, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, metempsicose e evolução da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, metempsicose e evolução da <a href="#alma">↩️</a>
 </details>
 
 ## 3. <span class="emoji">🗃️</span> Leis Morais {#lde-3}
@@ -8783,7 +8783,7 @@ Que se deve entender por lei natural?
 > <span class="emoji">👻</span> ▸ A lei natural é a Lei de [Deus](Deus){:.l}. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer e ele só é infeliz quando dela se afasta.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.615 {#q615}
@@ -8793,7 +8793,7 @@ Que se deve entender por lei natural?
 > <span class="emoji">👻</span> ▸ Eterna e imutável como o próprio [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.616 {#q616}
@@ -8803,7 +8803,7 @@ Será possível que [Deus](Deus){:.l} em certa época haja prescrito aos homens 
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} não se engana. Os homens é que são obrigados a modificar suas leis, por imperfeitas. As de [Deus](Deus){:.l}, essas são perfeitas. A harmonia que reina no universo material, como no universo moral, se funda em leis estabelecidas por [Deus](Deus){:.l} desde toda a eternidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.617 {#q617}
@@ -8813,7 +8813,7 @@ As leis divinas, que é o que compreendem no seu âmbito? Concernem a alguma out
 > <span class="emoji">👻</span> ▸ Todas as da Natureza são leis divinas, pois que [Deus](Deus){:.l} é o autor de tudo. O sábio estuda as leis da matéria, o homem de bem estuda e pratica as da alma.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.617.a {#q617a}
@@ -8829,7 +8829,7 @@ Entre as leis divinas, umas regulam o movimento e as relações da matéria brut
 As outras dizem respeito especialmente ao homem considerado em si mesmo e nas suas relações com [Deus](Deus){:.l} e com seus semelhantes. Contêm as regras da vida do corpo, bem como as da vida da alma: são as leis morais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.618 {#q618}
@@ -8839,7 +8839,7 @@ São as mesmas, para todos os mundos, as leis divinas?
 > <span class="emoji">👻</span> ▸ A [razão](Razão){:.w} está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Conhecimento da lei natural {#lde-3-01-02}
@@ -8863,7 +8863,7 @@ Antes de se unir ao corpo, a [alma](Alma){:.l} compreende melhor a Lei de [Deus]
 > <span class="emoji">👻</span> ▸ Compreende-a de acordo com o grau de perfeição que tenha atingido e dela guarda a intuição quando unida ao corpo. Os maus instintos, porém, fazem ordinariamente que o homem a esqueça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, lei divina e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, lei divina e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.621 {#q621}
@@ -8873,7 +8873,7 @@ Onde está escrita a Lei de [Deus](Deus){:.l}?
 > <span class="emoji">👻</span> ▸ Na consciência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.621.a {#q621a}
@@ -8883,7 +8883,7 @@ Visto que o homem traz em sua [consciência](Consciência){:.w} a Lei de [Deus](
 > <span class="emoji">👻</span> ▸ Ele a esquecera e desprezara. Quis então [Deus](Deus){:.l} lhe fosse lembrada.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.622 {#q622}
@@ -8893,7 +8893,7 @@ Confiou [Deus](Deus){:.l} a certos homens a missão de revelarem a sua Lei?
 > <span class="emoji">👻</span> ▸ Indubitavelmente. Em todos os tempos houve homens que tiveram essa missão. São [Espíritos](Espírito){:.w} superiores, que encarnam com o fim de fazer progredir a Humanidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.623 {#q623}
@@ -8903,7 +8903,7 @@ Os que hão pretendido instruir os homens na Lei de [Deus](Deus){:.l} não se t�
 > <span class="emoji">👻</span> ▸ Certamente hão dado causa a que os homens se transviassem, aqueles que não eram inspirados por [Deus](Deus){:.l} e que, por ambição, tomaram sobre si um encargo que lhes não fora cometido. Todavia, como eram, afinal, homens de gênio, mesmo entre os erros que ensinaram, grandes verdades muitas vezes se encontram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.624 {#q624}
@@ -8913,7 +8913,7 @@ Qual o caráter do verdadeiro profeta?
 > <span class="emoji">👻</span> ▸ O verdadeiro profeta é um homem de bem, inspirado por [Deus](Deus){:.l}. Podeis reconhecê-lo pelas suas palavras e pelos seus atos. Impossível é que [Deus](Deus){:.l} se sirva da boca do mentiroso para ensinar a [verdade](Verdade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.625 {#q625}
@@ -8927,7 +8927,7 @@ Para o homem, [Jesus](Jesus){:.w} constitui o tipo da perfeição moral a que a 
 Quanto aos que, pretendendo instruir o homem na Lei de [Deus](Deus){:.l}, o têm transviado, ensinando-lhe falsos princípios, isso aconteceu por haverem deixado que os dominassem sentimentos demasiado terrenos e por terem confundido as leis que regulam as condições da vida da alma, com as que regem a vida do corpo. Muitos hão apresentado como leis divinas simples leis humanas estatuídas para servir às paixões e dominar os homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.626 {#q626}
@@ -8937,7 +8937,7 @@ Só por [Jesus](Jesus){:.w} foram reveladas as leis divinas e naturais? Antes do
 > <span class="emoji">👻</span> ▸ Já não dissemos que elas estão escritas por toda parte? Desde os séculos mais longínquos, todos os que meditaram sobre a [sabedoria](Sabedoria){:.w} hão podido compreendê-las e ensiná-las. Pelos ensinos, mesmo incompletos, que espalharam, prepararam o terreno para receber a semente. Estando as Leis divinas escritas no livro da natureza, possível foi ao homem conhecê-las, logo que as quis procurar. Por isso é que os preceitos que consagram foram, desde todos os tempos, proclamados pelos homens de bem; e também por isso é que elementos delas se encontram, se bem que incompletos ou adulterados pela ignorância, na [doutrina](doutrina){:.d} moral de todos os povos saídos da barbárie.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.627 {#q627}
@@ -8949,7 +8949,7 @@ Uma vez que [Jesus](Jesus){:.w} ensinou as verdadeiras Leis de [Deus](Deus){:.l}
 > Faz-se mister agora que a [verdade](Verdade){:.w} se torne inteligível para todo mundo. Muito necessário é que aquelas leis sejam explicadas e desenvolvidas, tão poucos são os que as compreendem e ainda menos os que as praticam. A nossa missão consiste em abrir os olhos e os ouvidos a todos, confundindo os orgulhosos e desmascarando os hipócritas: os que vestem a capa da virtude e da religião, a fim de ocultarem suas torpezas. O ensino dos [Espíritos](Espírito){:.w} tem que ser claro e sem equívocos, para que ninguém possa pretextar ignorância e para que todos o possam julgar e apreciar com a razão. Estamos incumbidos de preparar o reino do bem que [Jesus](Jesus){:.w} anunciou. Daí a necessidade de que a ninguém seja possível interpretar a Lei de [Deus](Deus){:.l} ao sabor de suas paixões, nem falsear o sentido de uma lei toda de [amor](Amor){:.w} e de caridade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.628 {#q628}
@@ -8961,7 +8961,7 @@ Por que a [verdade](Verdade){:.w} não foi sempre posta ao alcance de toda gente
 > Jamais permitiu [Deus](Deus){:.l} que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma [ciência](Ciência){:.w} sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes [fenômenos](fenómeno){:.d}, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de [filosofia](Filosofia){:.w}, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o [Espiritismo](Espiritismo){:.l} dá de uma imensidade de coisas que até agora se vos afiguraram sem [razão](Razão){:.w} alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antiguidade, teor das comunicações mediúnicas na  <a href="#antiguidade">↩️</a>
+<span class="emoji">🏷️</span> Antiguidade, teor das comunicações mediúnicas na <a href="#antiguidade">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> O bem e o mal {#lde-3-01-03}
@@ -8973,7 +8973,7 @@ Que definição se pode dar da moral?
 > <span class="emoji">👻</span> ▸ A moral é a regra de bem proceder, isto é, de distinguir o bem do mal. Funda-se na observância da Lei de [Deus](Deus){:.l}. O homem procede bem quando tudo faz pelo bem de todos, porque então cumpre a Lei de Deus.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.630 {#q630}
@@ -8983,7 +8983,7 @@ Como se pode distinguir o bem do mal?
 > <span class="emoji">👻</span> ▸ O bem é tudo o que é conforme a Lei de [Deus](Deus){:.l}; o mal, tudo o que lhe é contrário. Assim, fazer o bem é proceder de acordo com a Lei de [Deus](Deus){:.l}. Fazer o mal é infringi-la.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.631 {#q631}
@@ -8993,7 +8993,7 @@ Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 > <span class="emoji">👻</span> ▸ Sim, quando crê em [Deus](Deus){:.l} e o quer saber. [Deus](Deus){:.l} lhe deu a [inteligência](Inteligência){:.w} para distinguir um do outro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.632 {#q632}
@@ -9001,7 +9001,7 @@ Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal?
 
 > <span class="emoji">👻</span> ▸ [Jesus](Jesus){:.w} disse:
->  
+> 
 > <span class="emoji">✝️</span> ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 07](Mateus_7){:.w}, [vers. 12](MAT.7.ARC){:.b}, [ARC][ARC]
 
 ###### Q.633 {#q633}
@@ -9011,17 +9011,17 @@ A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **soli
 > <span class="emoji">👻</span> ▸ Quando comeis em excesso, verificais que isso vos faz mal. Pois bem, é [Deus](Deus){:.l} quem vos dá a medida daquilo de que necessitais. Quando excedeis dessa medida, sois punidos. Em tudo é assim. A lei natural traça para o homem o limite das suas necessidades. Se ele ultrapassa esse limite, é punido pelo sofrimento. Se atendesse sempre à voz que lhe diz — basta, evitaria a maior parte dos males, cuja culpa lança à Natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.634 {#q634}
 
 Por que está o mal na natureza das coisas? Falo do mal moral. Não podia [Deus](Deus){:.l} ter criado a [Humanidade](Natureza_humana){:.w} em melhores condições?
 
-> <span class="emoji">👻</span> ▸ Já te dissemos: os [Espíritos](Espírito){:.w} foram criados simples e ignorantes (👉 Veja [Q.115](#q115)). [Deus](Deus){:.l} deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o [Espírito](Espírito){:.w} ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo.  
+> <span class="emoji">👻</span> ▸ Já te dissemos: os [Espíritos](Espírito){:.w} foram criados simples e ignorantes (👉 Veja [Q.115](#q115)). [Deus](Deus){:.l} deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o [Espírito](Espírito){:.w} ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
-👉 Veja <a href="#q119">Q.119</a><br>  
+👉 Veja <a href="#q119">Q.119</a><br> 
 ↩️ Voltar para <a href="#q871">Q.871</a>
 </details>
 
@@ -9034,7 +9034,7 @@ Das diferentes posições sociais nascem necessidades que não são idênticas p
 As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de [Deus](Deus){:.l}, lei que não deixa de ser una quanto ao seu princípio. À [razão](Razão){:.w} cabe distinguir as necessidades reais das factícias ou convencionais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.636 {#q636}
@@ -9044,7 +9044,7 @@ São absolutos, para todos os homens, o bem e o mal?
 > <span class="emoji">👻</span> ▸ A Lei de [Deus](Deus){:.l} é a mesma para todos, porém o mal depende principalmente da [vontade](Vontade){:.w} que se tenha de o praticar. O bem é sempre o bem e o mal sempre o mal, qualquer que seja a posição do homem. Diferença só há quanto ao grau da responsabilidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.637 {#q637}
@@ -9056,7 +9056,7 @@ Será culpado o selvagem que, cedendo ao seu instinto, se nutre de carne humana?
 As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete o homem faltas, que, nem por serem consequência da posição em que a sociedade o colocou, se tornam menos repreensíveis. A responsabilidade do homem é proporcionada aos meios de que ele dispõe para compreender o bem e o mal. Assim, mais culpado é, aos olhos de [Deus](Deus){:.l}, o homem instruído que pratica uma simples injustiça, do que o selvagem ignorante que se entrega aos seus instintos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.638 {#q638}
@@ -9066,7 +9066,7 @@ Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por
 > <span class="emoji">👻</span> ▸ Embora necessário, o mal não deixa de ser o mal. Essa necessidade desaparece, entretanto, à medida que a [alma](Alma){:.l} se depura, passando de uma a outra existência. Então, mais culpado é o homem, quando o pratica, porque melhor o compreende.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.639 {#q639}
@@ -9076,14 +9076,14 @@ Não sucede frequentemente resultar o mal, que o homem pratica, da posição em 
 > <span class="emoji">👻</span> ▸ O mal recai sobre quem lhe foi o causador. Nessas condições, aquele que é levado a praticar o mal pela posição em que seus semelhantes o colocam tem menos culpa do que os que, assim procedendo, o ocasionaram. Porque, cada um será punido, não só pelo mal que haja feito, mas também pelo mal a que tenha dado lugar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.640 {#q640}
 
 Aquele que não pratica o mal, mas que se aproveita do mal praticado por outrem, é tão culpado quanto este?
 
-> <span class="emoji">👻</span> ▸ É como se o houvera praticado. Aproveitar do mal é participar dele. Talvez não fosse capaz de praticá-lo; mas, desde que, achando-o feito, dele tira partido, é que o aprova; é que o teria praticado, se pudera, ou se ousara  
+> <span class="emoji">👻</span> ▸ É como se o houvera praticado. Aproveitar do mal é participar dele. Talvez não fosse capaz de praticá-lo; mas, desde que, achando-o feito, dele tira partido, é que o aprova; é que o teria praticado, se pudera, ou se ousara 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q657">Q.657</a>
@@ -9096,7 +9096,7 @@ Será tão repreensível, quanto fazer o mal, o desejá-lo?
 > <span class="emoji">👻</span> ▸ Conforme. Há virtude em resistir-se voluntariamente ao mal que se deseja praticar, sobretudo quando há possibilidade de satisfazer-se a esse desejo. Se apenas não o pratica por falta de ocasião, é culpado quem o deseja.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.642 {#q642}
@@ -9106,7 +9106,7 @@ Para agradar a [Deus](Deus){:.l} e assegurar a sua posição futura, bastará qu
 > <span class="emoji">👻</span> ▸ Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.643 {#q643}
@@ -9116,7 +9116,7 @@ Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 > <span class="emoji">👻</span> ▸ Não há quem não possa fazer o bem. Somente o egoísta nunca encontra ensejo de o praticar. Basta que se esteja em relações com outros homens para que se tenha ocasião de fazer o bem, e não há dia da existência que não ofereça, a quem não se ache cego pelo egoísmo, oportunidade de praticá-lo. Porque, fazer o bem não consiste, para o homem, apenas em ser caridoso, mas em ser útil, na medida do possível, todas as vezes que o seu concurso venha a ser necessário.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.644 {#q644}
@@ -9126,7 +9126,7 @@ Para certos homens, o meio onde se acham colocados não representa a causa prim�
 > <span class="emoji">👻</span> ▸ Sim, mas ainda aí há uma prova que o [Espírito](Espírito){:.w} escolheu, quando em liberdade, levado pelo desejo de expor-se à tentação para ter o mérito da resistência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ambiente, criminalidade e  <a href="#ambiente">↩️</a>
+<span class="emoji">🏷️</span> Ambiente, criminalidade e <a href="#ambiente">↩️</a>
 </details>
 
 ###### Q.645 {#q645}
@@ -9136,7 +9136,7 @@ Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal 
 > <span class="emoji">👻</span> ▸ Arrastamento, sim; irresistível, não; porquanto, mesmo dentro da atmosfera do vício, com grandes virtudes às vezes deparas. São [Espíritos](Espírito){:.w} que tiveram a força de resistir e que, ao mesmo tempo, receberam a missão de exercer boa influência sobre os seus semelhantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.646 {#q646}
@@ -9144,11 +9144,11 @@ Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal 
 Estará subordinado a determinadas condições o mérito do bem que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 
 > <span class="emoji">👻</span> ▸ O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem [Deus](Deus){:.l} o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o [Jesus](Jesus){:.w}, a propósito do óbolo da viúva. 
->  
+> 
 > <span class="emoji">✝️</span> ▸ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4, [ARC][ARC]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Divisão da lei natural {#lde-3-01-04}
@@ -9160,7 +9160,7 @@ A Lei de [Deus](Deus){:.l} se acha contida toda no preceito do [amor](Amor){:.w}
 > <span class="emoji">👻</span> ▸ Certamente. Esse preceito encerra todos os deveres dos homens uns para com os outros. Cumpre, porém, se lhes mostre a aplicação que comporta, do contrário deixarão de cumpri-lo, como o fazem presentemente. Ademais, a lei natural abrange todas as circunstâncias da vida e esse preceito compreende só uma parte da lei. Aos homens são necessárias regras precisas; os preceitos gerais e muito vagos deixam grande número de portas abertas à interpretação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.648 {#q648}
@@ -9170,7 +9170,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 > <span class="emoji">👻</span> ▸ Essa divisão da Lei de [Deus](Deus){:.l} em dez partes é a de Moisés e de natureza a abranger todas as circunstâncias da vida, o que é essencial. Podes, pois, adotá-la, sem que, por isso, tenha qualquer coisa de absoluta, como não o tem nenhum dos outros sistemas de classificação, que todos dependem do prisma pelo qual se considere o que quer que seja. A última lei é a mais importante, por ser a que faculta ao homem adiantar-se mais na vida espiritual, visto que resume todas as outras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-02. <span class="emoji">🗂️</span> Lei de adoração {#lde-3-02}
@@ -9184,7 +9184,7 @@ Em que consiste a adoração?
 > <span class="emoji">👻</span> ▸ Na elevação do pensamento a [Deus](Deus){:.l}. Deste, pela adoração, aproxima o homem sua alma.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.650 {#q650}
@@ -9194,9 +9194,9 @@ Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 > <span class="emoji">👻</span> ▸ Sentimento inato, como o da existência de [Deus](Deus){:.l}. A [consciência](Consciência){:.w} da sua fraqueza leva o homem a curvar-se diante daquele que o pode proteger.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, busca de amparo e  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, fraqueza e  <a href="#adoracao">↩️</a>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, busca de amparo e <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, fraqueza e <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.651 {#q651}
@@ -9206,7 +9206,7 @@ Terá havido povos destituídos de todo sentimento de adoração?
 > <span class="emoji">👻</span> ▸ Não, que nunca houve povos de ateus. Todos compreendem que acima de tudo há um Ente supremo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.652 {#q652}
@@ -9216,8 +9216,8 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 > <span class="emoji">👻</span> ▸ A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa [razão](Razão){:.w} é que existe entre todos os povos, se bem que sob formas diferentes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
-<span class="emoji">🏷️</span> Adoração, lei natural e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei natural e <a href="#adoracao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Adoração exterior {#lde-3-02-02}
@@ -9229,8 +9229,8 @@ Precisa de manifestações exteriores a adoração?
 > <span class="emoji">👻</span> ▸ A adoração verdadeira é do coração. Em todas as vossas ações, lembrai-vos sempre de que o Senhor tem sobre vós o seu olhar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, sentimento puro e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, sentimento puro e <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.653.a {#q653a}
@@ -9240,7 +9240,7 @@ Será útil a adoração exterior?
 > <span class="emoji">👻</span> ▸ Sim, se não consistir num vão simulacro. É sempre útil dar um bom exemplo, mas os que somente por afetação e amor-próprio o fazem, desmentindo com o proceder a aparente piedade, mau exemplo dão e não imaginam o mal que causam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, bom exemplo e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, bom exemplo e <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.654 {#q654}
@@ -9258,8 +9258,8 @@ Tem [Deus](Deus){:.l} preferência pelos que o adoram desta ou daquela maneira?
 > Não pergunteis, pois, se alguma forma de adoração há que mais convenha, porque equivaleria a perguntardes se mais agrada a [Deus](Deus){:.l} ser adorado num idioma do que noutro. Ainda uma vez vos digo: até ele não chegam os cânticos, senão quando passam pela porta do coração.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, rituais e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, rituais e <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.655 {#q655}
@@ -9269,7 +9269,7 @@ Merece censura aquele que pratica uma [religião](Religião){:.w} em que não cr
 > <span class="emoji">👻</span> ▸ Nisto, como em muitas outras coisas, a intenção constitui a regra. Não procede mal aquele que, assim fazendo, só tenha em vista respeitar as crenças de outrem. Procede melhor do que um que as ridiculize, porque, então, falta à caridade. Aquele, porém, que a pratique por interesse e por ambição se torna desprezível aos olhos de [Deus](Deus){:.l} e dos homens. A [Deus](Deus){:.l} não podem agradar os que fingem humilhar-se diante dele tão somente para granjear o aplauso dos homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.656 {#q656}
@@ -9280,7 +9280,7 @@ Merece censura aquele que pratica uma [religião](Religião){:.w} em que não cr
 O mesmo se dá quando se reúnem para adorar a [Deus](Deus){:.l}. Não creiais, todavia, que menos valiosa seja a adoração particular, pois que cada um pode adorar a [Deus](Deus){:.l} pensando nele.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Vida contemplativa {#lde-3-02-03}
@@ -9293,7 +9293,7 @@ Têm, perante [Deus](Deus){:.l}, algum mérito os que se consagram à vida conte
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q640">Q.640</a><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> A prece {#lde-3-02-04}
@@ -9305,7 +9305,7 @@ Agrada a [Deus](Deus){:.l} a prece?
 > <span class="emoji">👻</span> ▸ A prece é sempre agradável a [Deus](Deus){:.l}, quando ditada pelo coração, pois, para Ele, a intenção é tudo. Assim, preferível lhe é a prece do íntimo à prece lida, por muito bela que seja, se for lida mais com os lábios do que com o coração. Agrada-lhe a prece, quando dita com fé, com fervor e sinceridade. Não creiais, porém, que toque a [Deus](Deus){:.l} a prece do homem fútil, orgulhoso e egoísta, a menos que signifique, de sua parte, um ato de sincero arrependimento e de verdadeira humildade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.659 {#q659}
@@ -9315,7 +9315,7 @@ Qual o caráter geral da prece?
 > <span class="emoji">👻</span> ▸ A prece é um ato de adoração. Orar a [Deus](Deus){:.l} é pensar nele; é aproximar-se dele; é pôr-se em comunicação com Ele. A três coisas podemos propor-nos por meio da prece: louvar, pedir, agradecer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.660 {#q660}
@@ -9325,7 +9325,7 @@ A prece torna melhor o homem?
 > <span class="emoji">👻</span> ▸ Sim, porquanto aquele que ora com fervor e [confiança](confiança){:.d} se faz mais forte contra as tentações do mal e [Deus](Deus){:.l} lhe envia bons [Espíritos](Espírito){:.w} para assisti-lo. É este um socorro que jamais se lhe recusa, quando pedido com sinceridade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.660.a {#q660a}
@@ -9335,7 +9335,7 @@ Como é que certas pessoas, que oram muito, são, não obstante, de mau caráter
 > <span class="emoji">👻</span> ▸ O essencial não é orar muito, mas orar bem. Essas pessoas supõem que todo o mérito está na longura da prece e fecham os olhos para os seus próprios defeitos. Fazem da prece uma ocupação, um emprego do tempo, nunca, porém, um estudo de si mesmas. A ineficácia, em tais casos, não é do remédio, sim da maneira por que o aplicam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.661 {#q661}
@@ -9345,7 +9345,7 @@ Poderemos utilmente pedir a [Deus](Deus){:.l} que perdoe as nossas faltas?
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} sabe discernir o bem do mal; a prece não esconde as faltas. Aquele que a [Deus](Deus){:.l} pede perdão de suas faltas só o obtém mudando de proceder. As boas ações são a melhor prece, por isso que os atos valem mais que as palavras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.662 {#q662}
@@ -9357,7 +9357,7 @@ Pode-se, com utilidade, orar por outrem?
 O pensamento e a [vontade](Vontade){:.w} representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons [Espíritos](Espírito){:.w}, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.663 {#q663}
@@ -9369,20 +9369,20 @@ Podem as preces, que por nós mesmos fizermos, mudar a natureza das nossas prova
 > Ele é punido naquilo em que pecou. Todavia, as súplicas justas são atendidas mais vezes do que supondes. Julgais, de ordinário, que [Deus](Deus){:.l} não vos ouve, porque não faz a vosso favor um milagre, enquanto vos assiste por meios tão naturais que vos parecem obra do acaso ou da força das coisas. Muitas vezes também, as mais das vezes mesmo, ele vos sugere a ideia que vos fará sair da dificuldade pelo vosso próprio esforço.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Acaso, Deus e  <a href="#acaso">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Acaso, Deus e <a href="#acaso">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.664 {#q664}
 
 Será útil que oremos pelos mortos e pelos [Espíritos](Espírito){:.w} sofredores? E, neste caso, como podem as nossas preces lhes proporcionar alívio e abreviar os sofrimentos? Têm elas o poder de abrandar a Justiça de [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ A prece não pode ter por efeito mudar os desígnios de [Deus](Deus){:.l}, mas a [alma](Alma){:.l} por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do [Espírito](Espírito){:.w} sofredor [Espíritos](Espírito){:.w} melhores, que o vão esclarecer, consolar e dar-lhe esperanças. [Jesus](Jesus){:.w} orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces.  
+> <span class="emoji">👻</span> ▸ A prece não pode ter por efeito mudar os desígnios de [Deus](Deus){:.l}, mas a [alma](Alma){:.l} por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do [Espírito](Espírito){:.w} sofredor [Espíritos](Espírito){:.w} melhores, que o vão esclarecer, consolar e dar-lhe esperanças. [Jesus](Jesus){:.w} orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q997">Q.997</a><br>
 ↩️ Voltar para <a href="#q1015">Q.1015</a><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.665 {#q665}
@@ -9390,13 +9390,13 @@ Será útil que oremos pelos mortos e pelos [Espíritos](Espírito){:.w} sofredo
 Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 
 > <span class="emoji">👻</span> ▸ Aos homens disse o [Cristo](Cristo){:.w}:
->  
+> 
 > <span class="emoji">✝️</span> ▸ *Amarás o teu próximo como a ti mesmo.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o [Criador](Deus){:.l}, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do [Espírito](Espírito){:.w}, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma [alma](Alma){:.l} simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa [alma](Alma){:.l} lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o [amor](Amor){:.w} que o [Cristo](Cristo){:.w} recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de [amor](Amor){:.w} e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do [Espírito](Espírito){:.w}. [^16]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.666 {#q666}
@@ -9406,7 +9406,7 @@ Pode-se orar aos [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Pode-se orar aos bons [Espíritos](Espírito){:.w}, como os mensageiros de [Deus](Deus){:.l} e os executores de suas vontades. O poder deles, porém, está em relação com a superioridade que tenham alcançado e dimana sempre do Senhor de todas as coisas, sem cuja permissão nada se faz. Eis por que as preces que se lhes dirigem só são eficazes se bem-aceitas por [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Politeísmo {#lde-3-02-05}
@@ -9418,7 +9418,7 @@ Por que razão, não obstante ser falsa, a crença politeísta é uma das mais a
 > <span class="emoji">👻</span> ▸ A concepção de um [Deus](Deus){:.l} único não poderia existir no homem, senão como resultado do desenvolvimento de suas ideias. Incapaz, pela sua ignorância, de conceber um ser imaterial, sem forma determinada, atuando sobre a matéria, conferiu-lhe o homem atributos da natureza corpórea, isto é, uma forma e um aspecto e, desde então, tudo o que parecia ultrapassar os limites da [inteligência](Inteligência){:.w} comum era, para ele, uma divindade. Tudo o que não compreendia devia ser obra de uma potência sobrenatural. Daí a crer em tantas potências distintas quantos os efeitos que observava, não havia mais que um passo. Em todos os tempos, porém, houve homens instruídos, que compreenderam ser impossível a existência desses poderes múltiplos a governarem o mundo, sem uma direção superior, e que, em consequência, se elevaram à concepção de um [Deus](Deus){:.l} único.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.668 {#q668}
@@ -9431,12 +9431,12 @@ Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idad
 
 A palavra deus tinha, entre os Antigos, [acepção](acepção){:.d} muito ampla. Não indicava, como presentemente, uma personificação do Senhor da Natureza. Era uma qualificação genérica, que se dava a todo ser existente fora das condições da Humanidade. Ora, tendo-lhes as manifestações espíritas revelado a existência de seres incorpóreos a atuarem como potência da Natureza, a esses seres deram eles o nome de **deuses**, como lhes damos atualmente o de **Espíritos**. Pura questão de palavras, com a única diferença de que, na ignorância em que se achavam, mantida intencionalmente pelos que nisso tinham interesse, eles erigiram templos e altares muito lucrativos a tais deuses, ao passo que hoje os consideramos simples criaturas como nós, mais ou menos perfeitas e despidas de seus invólucros terrestres. Se estudarmos atentamente os diversos atributos das divindades pagãs, reconheceremos, sem esforço, todos os de que vemos dotados os [Espíritos](Espírito){:.w} nos diferentes graus da escala espírita, o estado físico em que se encontram nos mundos superiores, todas as propriedades do [perispírito](Perispírito){:.w} e os papéis que desempenham nas coisas da Terra.
 
-Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos [Espíritos](Espírito){:.w}, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a [religião](Religião){:.w} essas manifestações eram [fenônemo](fenómeno){:.d} miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o [Espiritismo](Espiritismo){:.l}, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza.  
+Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos [Espíritos](Espírito){:.w}, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a [religião](Religião){:.w} essas manifestações eram [fenônemo](fenómeno){:.d} miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o [Espiritismo](Espiritismo){:.l}, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q668">Q.668</a><br>
-<span class="emoji">🏷️</span> Adoração, Cristianismo e  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, Cristianismo e <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Sacrifícios {#lde-3-02-06}
@@ -9448,8 +9448,8 @@ Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica
 > <span class="emoji">👻</span> ▸ Primeiramente, porque não compreendia [Deus](Deus){:.l} como a fonte da bondade. Nos povos primitivos, a matéria sobrepuja o espírito; eles se entregam aos instintos do animal selvagem. Por isso é que, em geral, são cruéis; é que neles o senso moral ainda não se acha desenvolvido. Em segundo lugar, é natural que os homens primitivos acreditassem ter uma criatura animada muito mais valor, aos olhos de [Deus](Deus){:.l}, do que um corpo material. Foi isto que os levou a imolarem, primeiro, animais e, mais tarde, homens. De conformidade com a falsa crença que possuíam, pensavam que o valor do sacrifício era proporcional à importância da vítima. Na vida material, como geralmente a praticais, se houverdes de oferecer a alguém um presente, escolhê-lo-eis sempre de tanto maior valor quanto mais afeto e consideração quiserdes testemunhar a esse alguém. Assim tinha que ser, com relação a [Deus](Deus){:.l}, entre homens ignorantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, sacrifício humano e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, sacrifício humano e <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.669.a {#q669a}
@@ -9459,9 +9459,9 @@ De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 > <span class="emoji">👻</span> ▸ Sobre isso não pode haver a menor dúvida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, sacrifício animal e  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, sacrifício de  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, sacrifício animal e <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, sacrifício de <a href="#animais">↩️</a>
 </details>
 
 ###### Q.669.b {#q669b}
@@ -9471,8 +9471,8 @@ Então, de acordo com a explicação que vindes de dar, não foi de um sentiment
 > <span class="emoji">👻</span> ▸ Não; originaram-se de uma ideia errônea quanto à maneira de agradar a [Deus](Deus){:.l}. Considerai o que se deu com Abraão. Com o correr dos tempos, os homens entraram a abusar dessas práticas, imolando seus inimigos comuns, até mesmo seus inimigos particulares. [Deus](Deus){:.l}, entretanto, nunca exigiu sacrifícios, nem de homens, nem, sequer, de animais. Não há como imaginar-se que se lhe possa prestar culto, mediante a destruição inútil de suas criaturas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, sacrifício humano e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, sacrifício humano e <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.670 {#q670}
@@ -9482,7 +9482,7 @@ Dar-se-á que alguma vez possam ter sido agradáveis a [Deus](Deus){:.l} os sacr
 > <span class="emoji">👻</span> ▸ Não, nunca. [Deus](Deus){:.l}, porém, julga pela intenção. Sendo ignorantes os homens, natural era que supusessem praticar ato louvável imolando seus semelhantes. Nesses casos, [Deus](Deus){:.l} atentava unicamente na ideia que presidia ao ato e não neste. À proporção que se foram melhorando, os homens tiveram que reconhecer o erro em que laboravam e que reprovar tais sacrifícios, com que não podiam conformar-se as ideias de [Espíritos](Espírito){:.w} esclarecidos. Digo — esclarecidos, porque os [Espíritos](Espírito){:.w} tinham então a envolvê-los o véu material, mas, por meio do livre-arbítrio, possível lhes era vislumbrar suas origens e fim, e muitos, por intuição, já compreendiam o mal que praticavam, se bem que nem por isso deixassem de praticá-lo, para satisfazer às suas paixões.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.671 {#q671}
@@ -9492,7 +9492,7 @@ Que devemos pensar das chamadas guerras santas? O sentimento que impele os povos
 > <span class="emoji">👻</span> ▸ São impelidos pelos maus [Espíritos](Espírito){:.w} e, fazendo a guerra aos seus semelhantes, contravêm à [vontade](Vontade){:.w} de [Deus](Deus){:.l}, que manda ame cada um o seu irmão, como a si mesmo. Todas as religiões, ou, antes, todos os povos adoram um mesmo [Deus](Deus){:.l}, qualquer que seja o nome que lhe deem. Por que então há de um fazer guerra a outro, sob o fundamento de ser a [religião](Religião){:.w} deste diferente da sua, ou por não ter ainda atingido o grau de progresso da [religião](Religião){:.w} dos povos cultos? Se são desculpáveis os povos de não crerem na palavra daquele que o [Espírito](Espírito){:.w} de [Deus](Deus){:.l} animava e que [Deus](Deus){:.l} enviou, sobretudo os que não o viram e não lhe testemunharam os atos, como pretenderdes que creiam nessa palavra de paz, quando lhes ides levá-la de espada em punho? Eles têm que ser esclarecidos e devemos esforçar-nos por fazê-los conhecer a [doutrina](doutrina){:.d} do Salvador, mediante a persuasão e com brandura, nunca a ferro e fogo. Em vossa maioria, não acreditais nas comunicações que temos com certos mortais; como quereríeis que estranhos acreditassem na vossa palavra, quando desmentis com os atos a [doutrina](doutrina){:.d} que pregais?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.672 {#q672}
@@ -9502,7 +9502,7 @@ A oferenda feita a [Deus](Deus){:.l}, de frutos da terra, tinha a seus olhos mai
 > <span class="emoji">👻</span> ▸ Já vos respondi, declarando que [Deus](Deus){:.l} julga segundo a intenção e que para Ele pouca importância tinha o fato. Mais agradável evidentemente era a [Deus](Deus){:.l} que lhe oferecessem frutos da terra, em vez do sangue das vítimas. Como temos dito e sempre repetiremos, a prece proferida do fundo da [alma](Alma){:.l} é cem vezes mais agradável a [Deus](Deus){:.l} do que todas as oferendas que lhe possais fazer. Repito que a intenção é tudo, que o fato nada vale.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
 ###### Q.673 {#q673}
@@ -9512,8 +9512,8 @@ Não seria um meio de tornar essas oferendas agradáveis a [Deus](Deus){:.l} con
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} abençoa sempre os que fazem o bem. O melhor meio de honrá-lo consiste em minorar os sofrimentos dos pobres e dos aflitos. Não quero dizer com isto que Ele desaprove as cerimônias que praticais para lhe dirigirdes as vossas preces. Muito dinheiro, porém, aí se gasta que poderia ser empregado mais utilmente do que o é. [Deus](Deus){:.l} ama a simplicidade em tudo. O homem que se atém às exterioridades e não ao coração é um [Espírito](Espírito){:.w} de vistas acanhadas. Dizei, em consciência, se [Deus](Deus){:.l} deve atender mais à forma do que ao fundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Adoração, lei de  <a href="#adoracao">↩️</a><br>
-<span class="emoji">🏷️</span> Adoração, prática do bem e  <a href="#adoracao">↩️</a>
+<span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a><br>
+<span class="emoji">🏷️</span> Adoração, prática do bem e <a href="#adoracao">↩️</a>
 </details>
 
 ### 3-03. <span class="emoji">🗂️</span> Lei do trabalho {#lde-3-03}
@@ -9527,7 +9527,7 @@ A necessidade do trabalho é Lei da Natureza?
 > <span class="emoji">👻</span> ▸ O trabalho é Lei da Natureza, por isso mesmo que constitui uma necessidade, e a civilização obriga o homem a trabalhar mais, porque lhe aumenta as necessidades e os gozos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.675 {#q675}
@@ -9537,7 +9537,7 @@ Por trabalho só se devem entender as ocupações materiais?
 > <span class="emoji">👻</span> ▸ Não; o [Espírito](Espírito){:.w} trabalha, assim como o corpo. Toda ocupação útil é trabalho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.676 {#q676}
@@ -9547,7 +9547,7 @@ Por que o trabalho se impõe ao homem?
 > <span class="emoji">👻</span> ▸ Por ser uma consequência da sua natureza corpórea. É [expiação](Expiação){:.l} e, ao mesmo tempo, meio de aperfeiçoamento da sua [inteligência](Inteligência){:.w}. Sem o trabalho, o homem permaneceria sempre na infância, quanto à [inteligência](Inteligência){:.w}. Por isso é que seu alimento, sua segurança e seu bem-estar dependem do seu trabalho e da sua atividade. Em compensação, ao extremamente fraco de corpo outorgou [Deus](Deus){:.l} a [inteligência](Inteligência){:.w}, mas é sempre um trabalho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.677 {#q677}
@@ -9557,7 +9557,7 @@ Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 > <span class="emoji">👻</span> ▸ Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a [inteligência](Inteligência){:.w} de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do [Criador](Deus){:.l} e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se bem quase nunca lhe descubrais o resultado imediato.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, trabalho dos  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, trabalho dos <a href="#animais">↩️</a>
 </details>
 
 ###### Q.678 {#q678}
@@ -9567,7 +9567,7 @@ Nos mundos mais aperfeiçoados, os homens se acham submetidos à mesma necessida
 > <span class="emoji">👻</span> ▸ A natureza do trabalho está em relação com a natureza das necessidades. Quanto menos materiais são estas, menos material é o trabalho. Não deduzais daí, porém, que o homem se conserve inativo e inútil. A ociosidade seria um suplício, em vez de ser um benefício.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.679 {#q679}
@@ -9579,7 +9579,7 @@ Achar-se-á isento da lei do trabalho o homem que possua bens suficientes para l
 > Aquele a quem [Deus](Deus){:.l} facultou a posse de bens suficientes a lhe garantirem a existência não está, é certo, constrangido a alimentar-se com o suor do seu rosto, mas tanto maior lhe é a obrigação de ser útil aos seus semelhantes, quanto mais ocasiões de praticar o bem lhe proporciona o adiantamento que lhe foi feito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.680 {#q680}
@@ -9600,7 +9600,7 @@ A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q205">Q.205</a><br>
-<span class="emoji">🏷️</span> Amor, filial e paterno  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amor, filial e paterno <a href="#amor">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Limite do trabalho. Repouso {#lde-3-03-02}
@@ -9612,7 +9612,7 @@ Sendo uma necessidade para todo aquele que trabalha, o repouso não é também u
 > <span class="emoji">👻</span> ▸ Sem dúvida. O repouso serve para a reparação das forças do corpo e também é necessário para dar um pouco mais de liberdade à [inteligência](Inteligência){:.w}, a fim de que se eleve acima da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.683 {#q683}
@@ -9622,7 +9622,7 @@ Qual o limite do trabalho?
 > <span class="emoji">👻</span> ▸ O das forças. Em suma, a esse respeito [Deus](Deus){:.l} deixa inteiramente livre o homem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.684 {#q684}
@@ -9640,7 +9640,7 @@ Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores e
 
 Tem o homem o direito de repousar na velhice?
 
-> <span class="emoji">👻</span> ▸ Sim, que a nada é obrigado, senão de acordo com as suas forças.  
+> <span class="emoji">👻</span> ▸ Sim, que a nada é obrigado, senão de acordo com as suas forças. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q813">Q.813</a>
@@ -9655,7 +9655,7 @@ Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que aquele que tem de prover à sua existência por meio do trabalho encontre em que se ocupar, o que nem sempre acontece. Quando se generaliza, a suspensão do trabalho assume as proporções de um flagelo, qual a miséria. A [ciência](Ciência){:.w} econômica procura remédio para isso no equilíbrio entre a produção e o consumo. Esse equilíbrio, porém, dado seja possível estabelecer-se, sofrerá sempre intermitências, durante as quais não deixa o trabalhador de ter que viver. Há um elemento, que se não costuma fazer pesar na balança e sem o qual a [ciência](Ciência){:.w} econômica não passa de simples teoria. Esse elemento é a **educação**, não a educação intelectual, mas a educação moral. Não nos referimos, porém, à educação moral pelos livros e sim à que consiste na **arte de formar os caracteres**, à que **incute** **hábitos**, porquanto **a educação é o conjunto dos hábitos adquiridos**. Considerando-se a aluvião de indivíduos que todos os dias são lançados na torrente da população, sem princípios, sem freio e entregues a seus próprios instintos, serão de espantar as consequências desastrosas que daí decorrem? Quando essa arte for conhecida, compreendida e praticada, o homem terá no mundo hábitos de **ordem e de previdência** para consigo mesmo e para com os seus, **de respeito a tudo o que é respeitável**, hábitos que lhe permitirão atravessar menos penosamente os maus dias inevitáveis. A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-04. <span class="emoji">🗂️</span> Lei de reprodução {#lde-3-04}
@@ -9669,7 +9669,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 > <span class="emoji">👻</span> ▸ Evidentemente. Sem a reprodução, o mundo corporal pereceria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.687 {#q687}
@@ -9679,7 +9679,7 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 > <span class="emoji">👻</span> ▸ Não, [Deus](Deus){:.l} a isso provê e mantém sempre o equilíbrio. Ele coisa alguma inútil faz. O homem, que apenas vê um canto do quadro da Natureza, não pode julgar da harmonia do conjunto.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
@@ -9691,7 +9691,7 @@ Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em
 > <span class="emoji">👻</span> ▸ Assim acontecerá, de fato. É que outras lhes terão tomado o lugar, como outras um dia tomarão o da vossa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.689 {#q689}
@@ -9701,7 +9701,7 @@ Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados 
 > <span class="emoji">👻</span> ▸ São os mesmos [Espíritos](Espírito){:.w} que **voltaram**, para se aperfeiçoar em novos corpos, mas que ainda estão longe da perfeição. Assim, a atual raça humana, que, pelo seu crescimento, tende a invadir toda a [Terra](Terra){:.w} e a substituir as raças que se extinguem, terá sua fase de decrescimento e de desaparição. Substituí-la-ão outras raças mais aperfeiçoadas, que descenderão da atual, como os homens civilizados de hoje descendem dos seres brutos e selvagens dos tempos primitivos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.690 {#q690}
@@ -9711,7 +9711,7 @@ Do ponto de vista físico, são de criação especial os corpos da raça atual, 
 > <span class="emoji">👻</span> ▸ A origem das raças se perde na noite dos tempos. Como todas pertencem, porém, à grande família humana, qualquer que tenha sido o tronco de cada uma, elas puderam aliar-se entre si e produzir tipos novos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.691 {#q691}
@@ -9721,7 +9721,7 @@ Qual, do ponto de vista físico, o caráter distintivo e dominante das raças pr
 > <span class="emoji">👻</span> ▸ Desenvolvimento da força bruta, à custa da força intelectual. Agora, dá-se o contrário: o homem faz mais pela [inteligência](Inteligência){:.w} do que pela força do corpo. Todavia, faz cem vezes mais, porque soube tirar proveito das forças da Natureza, o que não conseguem os animais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.692 {#q692}
@@ -9731,7 +9731,7 @@ Será contrário à Lei da Natureza o aperfeiçoamento das raças animais e vege
 > <span class="emoji">👻</span> ▸ Tudo se deve fazer para chegar à perfeição e o próprio homem é um instrumento de que [Deus](Deus){:.l} se serve para atingir seus fins. Sendo a perfeição a meta para que tende a Natureza, favorecer essa perfeição é corresponder às vistas de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.692.a {#q692a}
@@ -9741,7 +9741,7 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 > <span class="emoji">👻</span> ▸ Que importa seja nulo o seu merecimento, desde que o progresso se realize? Cabe-lhe tornar meritório, pela intenção, o seu trabalho. Ademais, mediante esse trabalho, ele exercita e desenvolve a [inteligência](Inteligência){:.w} e sob este aspecto é que maior proveito tira.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Obstáculos à reprodução {#lde-3-04-03}
@@ -9753,7 +9753,7 @@ São contrários à Lei da Natureza as leis e os costumes humanos que têm por f
 > <span class="emoji">👻</span> ▸ Tudo o que embaraça a Natureza em sua marcha é contrário à lei geral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.693.a {#q693a}
@@ -9763,7 +9763,7 @@ Entretanto, há espécies de seres vivos, animais e plantas, cuja reprodução i
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} concedeu ao homem, sobre todos os seres vivos, um poder de que ele deve usar, sem abusar. Pode, pois, regular a reprodução, de acordo com as necessidades. Não deve opor-se-lhe sem necessidade. A ação [inteligente](Inteligência){:.w} do homem é um contrapeso que [Deus](Deus){:.l} dispôs para restabelecer o equilíbrio entre as forças da Natureza e é ainda isso o que o distingue dos animais, porque ele obra com conhecimento de causa. Os mesmos animais, porém, também concorrem para a existência desse equilíbrio, porquanto o instinto de destruição que lhes foi dado faz com que, provendo à própria conservação, obstem ao desenvolvimento excessivo, quiçá perigoso, das espécies animais e vegetais de que se alimentam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.694 {#q694}
@@ -9773,7 +9773,7 @@ Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, par
 > <span class="emoji">👻</span> ▸ Isso prova a predominância do corpo sobre a [alma](Alma){:.l} e quanto o homem é material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Casamento e celibato {#lde-3-04-04}
@@ -9785,7 +9785,7 @@ Será contrário à Lei da Natureza o casamento, isto é, a união permanente de
 > <span class="emoji">👻</span> ▸ É um progresso na marcha da Humanidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.696 {#q696}
@@ -9797,7 +9797,7 @@ Que efeito teria sobre a sociedade humana a abolição do casamento?
 O estado de natureza é o da união livre e fortuita dos sexos. O casamento constitui um dos primeiros atos de progresso nas sociedades humanas, porque estabelece a solidariedade fraterna e se observa entre todos os povos, se bem que em condições diversas. A abolição do casamento seria, pois, regredir à infância da [Humanidade](Natureza_humana){:.w} e colocaria o homem abaixo mesmo de certos animais que lhe dão o exemplo de uniões constantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.697 {#q697}
@@ -9807,7 +9807,7 @@ Está na Lei da Natureza, ou somente na lei humana, a indissolubilidade absoluta
 > <span class="emoji">👻</span> ▸ É uma lei humana muito contrária à da Natureza, mas os homens podem modificar suas leis; só as da Natureza são imutáveis.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.698 {#q698}
@@ -9817,7 +9817,7 @@ O celibato voluntário representa um estado de perfeição meritório aos olhos 
 > <span class="emoji">👻</span> ▸ Não, e os que assim vivem, por egoísmo, desagradam a [Deus](Deus){:.l} e enganam o mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.699 {#q699}
@@ -9829,7 +9829,7 @@ Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o
 Não é possível que [Deus](Deus){:.l} se contradiga, nem que ache mau o que Ele próprio fez. Nenhum mérito, portanto, pode haver na violação da sua lei. Se o celibato, em si mesmo, não é um estado meritório, outro tanto não se dá quando constitui, pela renúncia, às alegrias da família, um sacrifício praticado em prol da Humanidade. Todo sacrifício pessoal, tendo em vista o bem **e sem qualquer ideia egoísta**, eleva o homem acima da sua condição material.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Poligamia {#lde-3-04-05}
@@ -9841,7 +9841,7 @@ A igualdade numérica, que mais ou menos existe entre os sexos, constitui indíc
 > <span class="emoji">👻</span> ▸ Sim, porquanto tudo, na Natureza, tem um fim.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.701 {#q701}
@@ -9855,7 +9855,7 @@ Se a poligamia fosse conforme a Lei da Natureza, devera ter possibilidade de tor
 Deve ser considerada como um uso ou legislação especial apropriada a certos costumes e que o aperfeiçoamento social fez que desaparecesse pouco a pouco.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-05. <span class="emoji">🗂️</span> Lei de conservação {#lde-3-05}
@@ -9869,7 +9869,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 > <span class="emoji">👻</span> ▸ Sem dúvida. Todos os seres vivos o possuem, qualquer que seja o grau de sua [inteligência](Inteligência){:.w}. Nuns é puramente maquinal, raciocinado em outros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.703 {#q703}
@@ -9879,7 +9879,7 @@ Com que fim outorgou [Deus](Deus){:.l} a todos os seres vivos o instinto de cons
 > <span class="emoji">👻</span> ▸ Porque todos têm que concorrer para cumprimento dos desígnios da Providência. Por isso foi que [Deus](Deus){:.l} lhes deu a necessidade de viver. Acresce que a vida é necessária ao aperfeiçoamento dos seres. Eles o sentem instintivamente, sem disso se aperceberem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Meios de conservação {#lde-3-05-02}
@@ -9891,7 +9891,7 @@ Tendo dado ao homem a necessidade de viver, [Deus](Deus){:.l} lhe facultou, em t
 > <span class="emoji">👻</span> ▸ Certo, e se ele os não encontra, é que não os compreende. Não fora possível que [Deus](Deus){:.l} criasse para o homem a necessidade de viver, sem lhe dar os meios de consegui-lo. Essa a [razão](Razão){:.w} por que faz que a [Terra](Terra){:.w} produza de modo a proporcionar o necessário aos que a habitam, visto que só o necessário é útil. O supérfluo nunca o é.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.705 {#q705}
@@ -9901,7 +9901,7 @@ Por que nem sempre a [Terra](Terra){:.w} produz bastante para fornecer ao homem 
 > <span class="emoji">👻</span> ▸ É que, ingrato, o homem a despreza! Ela, no entanto, é excelente mãe. Muitas vezes, também, ele acusa a Natureza do que só é resultado da sua imperícia ou da sua imprevidência. A [Terra](Terra){:.w} produziria sempre o necessário, se com o necessário soubesse o homem contentar-se. Se o que ela produz não lhe basta a todas as necessidades, é que ele emprega no supérfluo o que poderia ser aplicado no necessário. Olha o árabe no deserto. Acha sempre de que viver, porque não cria para si necessidades factícias. Desde que haja desperdiçado a metade dos produtos em satisfazer a fantasias, que motivos tem o homem para se espantar de nada encontrar no dia seguinte e para se queixar de estar desprovido de tudo, quando chegam os dias de penúria? Em [verdade](Verdade){:.w} vos digo, imprevidente não é a Natureza, é o homem, que não sabe regrar o seu viver.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.706 {#q706}
@@ -9911,7 +9911,7 @@ Por bens da [Terra](Terra){:.w} unicamente se devem entender os produtos do solo
 > <span class="emoji">👻</span> ▸ O solo é a fonte primacial donde dimanam todos os outros recursos, pois que, em definitivo, estes recursos são simples transformações dos produtos do solo. Por bens da [Terra](Terra){:.w} se deve, pois, entender tudo de que o homem pode gozar neste mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.707 {#q707}
@@ -9938,7 +9938,7 @@ Não há situações nas quais os meios de subsistência de maneira alguma depen
 > <span class="emoji">👻</span> ▸ É isso uma prova, muitas vezes cruel, que lhe compete sofrer e à qual sabia ele de antemão que viria a estar exposto. Seu mérito então consiste em submeter-se à [vontade](Vontade){:.w} de [Deus](Deus){:.l}, desde que a sua [inteligência](Inteligência){:.w} nenhum meio lhe faculta de sair da dificuldade. Se a [morte](Morte){:.w} vier colhê-lo, cumpre-lhe recebê-la sem murmurar, ponderando que a hora da verdadeira libertação soou e que o desespero no derradeiro momento pode ocasionar-lhe a perda do fruto de toda a sua resignação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.709 {#q709}
@@ -9948,7 +9948,7 @@ Terão cometido crime os que, em certas situações críticas, se viram na conti
 > <span class="emoji">👻</span> ▸ Já respondi, quando disse que há mais merecimento em sofrer todas as provações da vida com coragem e abnegação. Em tal caso, há homicídio e crime de lesa-natureza, falta que é duplamente punida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.710 {#q710}
@@ -9958,7 +9958,7 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 > <span class="emoji">👻</span> ▸ Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alimentação, mundos elevados e  <a href="#alimentacao">↩️</a>
+<span class="emoji">🏷️</span> Alimentação, mundos elevados e <a href="#alimentacao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Gozo dos bens terrenos {#lde-3-05-03}
@@ -9970,7 +9970,7 @@ O uso dos bens da [Terra](Terra){:.w} é um direito de todos os homens?
 > <span class="emoji">👻</span> ▸ Esse direito é consequente da necessidade de viver. [Deus](Deus){:.l} não imporia um dever sem dar ao homem o meio de cumpri-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.712 {#q712}
@@ -9980,7 +9980,7 @@ Com que fim pôs [Deus](Deus){:.l} atrativos no gozo dos bens materiais?
 > <span class="emoji">👻</span> ▸ Para instigar o homem ao cumprimento da sua missão e para experimentá-lo por meio da tentação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.712.a {#q712a}
@@ -9992,7 +9992,7 @@ Qual o objetivo dessa tentação?
 Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm, sua indiferença houvera talvez comprometido a harmonia do Universo. [Deus](Deus){:.l} imprimiu a esse uso o atrativo do prazer, porque assim é o homem impelido ao cumprimento dos desígnios providenciais. Além disso, porém, dando àquele uso esse atrativo, quis [Deus](Deus){:.l} também experimentar o homem por meio da tentação, que o arrasta para o abuso, de que deve a [razão](Razão){:.w} defendê-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.713 {#q713}
@@ -10002,7 +10002,7 @@ Traçou a Natureza limites aos gozos?
 > <span class="emoji">👻</span> ▸ Traçou, para vos indicar o limite do necessário; mas, pelos vossos excessos, chegais à saciedade e vos punis a vós mesmos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.714 {#q714}
@@ -10020,7 +10020,7 @@ Perto da [morte](Morte){:.w} física, ou da [morte](Morte){:.w} moral?
 O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da [razão](Razão){:.w} que [Deus](Deus){:.l} lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Necessário e supérfluo {#lde-3-05-04}
@@ -10029,11 +10029,11 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 
 Como pode o homem conhecer o limite do necessário?
 
-> <span class="emoji">👻</span> ▸ Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa.  
+> <span class="emoji">👻</span> ▸ Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q923">Q.923</a><br>
-<span class="emoji">🏷️</span> Acerto, erro e  <a href="#acerto">↩️</a>
+<span class="emoji">🏷️</span> Acerto, erro e <a href="#acerto">↩️</a>
 </details>
 
 ###### Q.716 {#q716}
@@ -10043,7 +10043,7 @@ Mediante a organização que nos deu, não traçou a Natureza o limite das nossa
 > <span class="emoji">👻</span> ▸ Sem dúvida, mas o homem é insaciável. Por meio da organização que lhe deu, a Natureza lhe traçou o limite das necessidades; porém os vícios lhe alteraram a constituição e lhe criaram necessidades que não são reais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.717 {#q717}
@@ -10055,8 +10055,8 @@ Que se há de pensar dos que açambarcam os bens da [Terra](Terra){:.w} para se 
 Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os [Espíritos](Espírito){:.w} que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à [razão](Razão){:.w} regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da [religião](Religião){:.w} só têm a máscara.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ambição, privação alheia e  <a href="#ambicao">↩️</a><br>
-<span class="emoji">🏷️</span> Ambição, supérfluo e  <a href="#ambicao">↩️</a><br>
+<span class="emoji">🏷️</span> Ambição, privação alheia e <a href="#ambicao">↩️</a><br>
+<span class="emoji">🏷️</span> Ambição, supérfluo e <a href="#ambicao">↩️</a><br>
 </details>
 
 #### <span class="emoji">📄</span> Privações voluntárias. Mortificações {#lde-3-05-05}
@@ -10068,7 +10068,7 @@ A lei de conservação obriga o homem a prover às necessidades do corpo?
 > <span class="emoji">👻</span> ▸ Sim, porque, sem força e saúde, impossível é o trabalho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.719 {#q719}
@@ -10078,7 +10078,7 @@ Merece censura o homem, por procurar o bem-estar?
 > <span class="emoji">👻</span> ▸ É natural o desejo do bem-estar. [Deus](Deus){:.l} só proíbe o abuso, por ser contrário à conservação. Ele não condena a procura do bem-estar, desde que não seja conseguido à custa de outrem e não venha a diminuir-vos nem as forças físicas, nem as forças morais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.720 {#q720}
@@ -10096,13 +10096,13 @@ São meritórias aos olhos de [Deus](Deus){:.l} as privações voluntárias, com
 
 Haverá privações voluntárias que sejam meritórias?
 
-> <span class="emoji">👻</span> ▸ Há: a privação dos gozos inúteis, porque desprende da matéria o homem e lhe eleva a alma. Meritório é resistir à tentação que arrasta ao excesso ou ao gozo das coisas inúteis; é o homem tirar do que lhe é necessário para dar aos que carecem do bastante. Se a privação não passar de simulacro, será uma irrisão.  
+> <span class="emoji">👻</span> ▸ Há: a privação dos gozos inúteis, porque desprende da matéria o homem e lhe eleva a alma. Meritório é resistir à tentação que arrasta ao excesso ou ao gozo das coisas inúteis; é o homem tirar do que lhe é necessário para dar aos que carecem do bastante. Se a privação não passar de simulacro, será uma irrisão. 
 
 ###### Q.721 {#q721}
 
 É meritória, de qualquer ponto de vista, a vida de mortificações ascéticas que desde a mais remota antiguidade teve praticantes no seio de diversos povos?
 
-> <span class="emoji">👻</span> ▸ Procurai saber a quem ela aproveita e tereis a resposta. Se somente serve para quem a pratica e o impede de fazer o bem, é egoísmo, seja qual for o pretexto com que entendam de colori-la. Privar-se a si mesmo e trabalhar para os outros, tal a verdadeira mortificação, segundo a caridade cristã.  
+> <span class="emoji">👻</span> ▸ Procurai saber a quem ela aproveita e tereis a resposta. Se somente serve para quem a pratica e o impede de fazer o bem, é egoísmo, seja qual for o pretexto com que entendam de colori-la. Privar-se a si mesmo e trabalhar para os outros, tal a verdadeira mortificação, segundo a caridade cristã. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q1000">Q.1000</a>
@@ -10115,7 +10115,7 @@ Será racional a abstenção de certos alimentos, prescrita a diversos povos?
 > <span class="emoji">👻</span> ▸ Permitido é ao homem alimentar-se de tudo o que lhe não prejudique a saúde. Alguns legisladores, porém, com um fim útil, entenderam de interdizer o uso de certos alimentos e, para maior autoridade imprimirem às suas leis, apresentaram-nas como emanadas de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alimento, saúde e  <a href="#alimento">↩️</a>
+<span class="emoji">🏷️</span> Alimento, saúde e <a href="#alimento">↩️</a>
 </details>
 
 ###### Q.723 {#q723}
@@ -10125,7 +10125,7 @@ A alimentação animal é, com relação ao homem, contrária à Lei da Natureza
 > <span class="emoji">👻</span> ▸ Dada a vossa constituição física, a carne alimenta a carne, do contrário o homem se debilita. A lei de conservação lhe prescreve, como um dever, que mantenha suas forças e sua saúde, para cumprir a lei do trabalho. Ele, pois, tem que se alimentar conforme o reclame a sua organização.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.724 {#q724}
@@ -10136,24 +10136,24 @@ Será meritório abster-se o homem da alimentação animal, ou de outra qualquer
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q720">Q.720</a>
-<span class="emoji">🏷️</span> Alimentação, mortificação e  <a href="#alimentacao">↩️</a>
+<span class="emoji">🏷️</span> Alimentação, mortificação e <a href="#alimentacao">↩️</a>
 </details>
 
 ###### Q.725 {#q725}
 
 Que se deve pensar das mutilações operadas no corpo do homem ou dos animais?
 
-> <span class="emoji">👻</span> ▸ A que propósito, semelhante questão? Ainda uma vez: inquiri sempre vós mesmos se é útil aquilo de que porventura se trate. A [Deus](Deus){:.l} não pode agradar o que seja inútil e o que for nocivo lhe será sempre desagradável. Porque, ficai sabendo, [Deus](Deus){:.l} só é sensível aos sentimentos que elevam para Ele a alma. Obedecendo-lhe à Lei e não a violando é que podereis forrar-vos ao jugo da vossa matéria terrestre.   
+> <span class="emoji">👻</span> ▸ A que propósito, semelhante questão? Ainda uma vez: inquiri sempre vós mesmos se é útil aquilo de que porventura se trate. A [Deus](Deus){:.l} não pode agradar o que seja inútil e o que for nocivo lhe será sempre desagradável. Porque, ficai sabendo, [Deus](Deus){:.l} só é sensível aos sentimentos que elevam para Ele a alma. Obedecendo-lhe à Lei e não a violando é que podereis forrar-vos ao jugo da vossa matéria terrestre. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, sentimento e  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, sentimento e <a href="#alma">↩️</a>
 </details>
 
 ###### Q.726 {#q726}
 
 Visto que os sofrimentos deste mundo nos elevam, se os suportarmos devidamente, dar-se-á que também nos elevam os que nós mesmos nos criamos?
 
-> <span class="emoji">👻</span> ▸ Os sofrimentos naturais são os únicos que elevam, porque vêm de [Deus](Deus){:.l}. Os sofrimentos voluntários de nada servem, quando não concorrem para o bem de outrem. Supões que se adiantam no caminho do progresso os que abreviam a vida, mediante rigores sobre-humanos, como o fazem os bonzos, os faquires e alguns fanáticos de muitas seitas? Por que de preferência não trabalham pelo bem de seus semelhantes? Vistam o indigente; consolem o que chora; trabalhem pelo que está enfermo; sofram privações para alívio dos infelizes e então suas vidas serão úteis e, portanto, agradáveis a [Deus](Deus){:.l}. Sofrer alguém voluntariamente, apenas por seu próprio bem, é egoísmo; sofrer pelos outros é caridade: tais os preceitos do [Cristo](Cristo){:.w}.  
+> <span class="emoji">👻</span> ▸ Os sofrimentos naturais são os únicos que elevam, porque vêm de [Deus](Deus){:.l}. Os sofrimentos voluntários de nada servem, quando não concorrem para o bem de outrem. Supões que se adiantam no caminho do progresso os que abreviam a vida, mediante rigores sobre-humanos, como o fazem os bonzos, os faquires e alguns fanáticos de muitas seitas? Por que de preferência não trabalham pelo bem de seus semelhantes? Vistam o indigente; consolem o que chora; trabalhem pelo que está enfermo; sofram privações para alívio dos infelizes e então suas vidas serão úteis e, portanto, agradáveis a [Deus](Deus){:.l}. Sofrer alguém voluntariamente, apenas por seu próprio bem, é egoísmo; sofrer pelos outros é caridade: tais os preceitos do [Cristo](Cristo){:.w}. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q1000">Q.1000</a>
@@ -10166,7 +10166,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 > <span class="emoji">👻</span> ▸ Contra os perigos e os sofrimentos é que o instinto de conservação foi dado a todos os seres. Fustigai o vosso [espírito](Espírito){:.w} e não o vosso corpo, mortificai o vosso orgulho, sufocai o vosso egoísmo, que se assemelha a uma serpente a vos roer o coração, e fareis muito mais pelo vosso adiantamento do que infligindo-vos rigores que já não são deste século.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-06. <span class="emoji">🗂️</span> Lei de destruição {#lde-3-06}
@@ -10180,7 +10180,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 > <span class="emoji">👻</span> ▸ Preciso é que tudo se destrua para renascer e se regenerar. Porque, o que chamais destruição não passa de uma transformação, que tem por fim a renovação e melhoria dos seres vivos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.728.a {#q728a}
@@ -10190,7 +10190,7 @@ O instinto de destruição teria sido dado aos seres vivos por desígnios provid
 > <span class="emoji">👻</span> ▸ As criaturas são instrumentos de que [Deus](Deus){:.l} se serve para chegar aos fins que objetiva. Para se alimentarem, os seres vivos reciprocamente se destroem, destruição esta que obedece a um duplo fim: manutenção do equilíbrio na reprodução, que poderia tornar-se excessiva, e utilização dos despojos do invólucro exterior que sofre a destruição. Esse invólucro é simples acessório e não a parte essencial do ser pensante. A parte essencial é o princípio inteligente, que não se pode destruir e se elabora nas metamorfoses diversas por que passa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.729 {#q729}
@@ -10200,14 +10200,14 @@ Se a regeneração dos seres faz necessária a destruição, por que os cerca a 
 > <span class="emoji">👻</span> ▸ A fim de que a destruição não se dê antes de tempo. Toda destruição antecipada obsta ao desenvolvimento do princípio inteligente. Por isso foi que [Deus](Deus){:.l} fez que cada ser experimentasse a necessidade de viver e de se reproduzir.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.730 {#q730}
 
 Uma vez que a [morte](Morte){:.w} nos faz passar a uma vida melhor, nos livra dos males desta, sendo, pois, mais de desejar do que de temer, por que lhe tem o homem, instintivamente, tal horror, que ela lhe é sempre motivo de apreensão?
 
-> <span class="emoji">👻</span> ▸ Já dissemos que o homem deve procurar prolongar a vida, para cumprir a sua tarefa. Tal o motivo por que [Deus](Deus){:.l} lhe deu o instinto de conservação, instinto que o sustenta nas provas. A não ser assim, ele muito frequentemente se entregaria ao desânimo. A voz íntima, que o induz a repelir a morte, lhe diz que ainda pode realizar alguma coisa pelo seu progresso. A ameaça de um perigo constitui aviso para que se aproveite da dilação que [Deus](Deus){:.l} lhe concede, mas, ingrato! o homem rende graças mais vezes à sua estrela do que ao seu [Criador](Deus){:.l}.  
+> <span class="emoji">👻</span> ▸ Já dissemos que o homem deve procurar prolongar a vida, para cumprir a sua tarefa. Tal o motivo por que [Deus](Deus){:.l} lhe deu o instinto de conservação, instinto que o sustenta nas provas. A não ser assim, ele muito frequentemente se entregaria ao desânimo. A voz íntima, que o induz a repelir a morte, lhe diz que ainda pode realizar alguma coisa pelo seu progresso. A ameaça de um perigo constitui aviso para que se aproveite da dilação que [Deus](Deus){:.l} lhe concede, mas, ingrato! o homem rende graças mais vezes à sua estrela do que ao seu [Criador](Deus){:.l}. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q941">Q.941</a>
@@ -10220,7 +10220,7 @@ Por que, ao lado dos meios de conservação, colocou a Natureza os agentes de de
 > <span class="emoji">👻</span> ▸ É o remédio ao lado do mal. Já dissemos: para manter o equilíbrio e servir de contrapeso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.732 {#q732}
@@ -10230,7 +10230,7 @@ Será idêntica, em todos os mundos, a necessidade de destruição?
 > <span class="emoji">👻</span> ▸ Guarda proporções com o estado mais ou menos material dos mundos. Cessa, quando o físico e o moral se acham mais depurados. Muito diversas são as condições de existência nos mundos mais adiantados do que o vosso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.733 {#q733}
@@ -10240,7 +10240,7 @@ Entre os homens da [Terra](Terra){:.w} existirá sempre a necessidade da destrui
 > <span class="emoji">👻</span> ▸ Essa necessidade se enfraquece no homem, à medida que o [Espírito](Espírito){:.w} sobrepuja a matéria. Assim é que, como podeis observar, o horror à destruição cresce com o desenvolvimento intelectual e moral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.734 {#q734}
@@ -10250,9 +10250,9 @@ Em seu estado atual, tem o homem direito ilimitado de destruição sobre os anim
 > <span class="emoji">👻</span> ▸ Tal direito se acha regulado pela necessidade que ele tem de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Abuso, direito e  <a href="#abuso">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, destruição sobre os  <a href="#animais">↩️</a><br>
-<span class="emoji">🏷️</span> Animais, respeito aos  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Abuso, direito e <a href="#abuso">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, destruição sobre os <a href="#animais">↩️</a><br>
+<span class="emoji">🏷️</span> Animais, respeito aos <a href="#animais">↩️</a>
 </details>
 
 ###### Q.735 {#q735}
@@ -10262,7 +10262,7 @@ Que se deve pensar da destruição, quando ultrapassa os limites que as necessid
 > <span class="emoji">👻</span> ▸ Predominância da bestialidade sobre a natureza espiritual. Toda destruição que excede os limites da necessidade é uma violação da Lei de [Deus](Deus){:.l}. Os animais só destroem para satisfação de suas necessidades; enquanto o homem, dotado de livre-arbítrio, destrói sem necessidade. Terá que prestar contas do abuso da liberdade que lhe foi concedida, pois isso significa que cede aos maus instintos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.736 {#q736}
@@ -10272,7 +10272,7 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 > <span class="emoji">👻</span> ▸ Esse excesso, no tocante a um sentimento louvável em si mesmo, se torna abusivo e o seu merecimento fica neutralizado por abusos de muitas outras espécies. Entre tais povos, há mais temor supersticioso do que verdadeira bondade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Flagelos destruidores {#lde-3-06-02}
@@ -10294,7 +10294,7 @@ Para conseguir a melhora da Humanidade, não podia [Deus](Deus){:.l} empregar ou
 > <span class="emoji">👻</span> ▸ Pode e os emprega todos os dias, pois que deu a cada um os meios de progredir pelo conhecimento do bem e do mal. O homem, porém, não se aproveita desses meios. Necessário, portanto, se torna que seja castigado no seu orgulho e que se lhe faça sentir a sua fraqueza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.738.a {#q738a}
@@ -10305,7 +10305,7 @@ Mas nesses flagelos tanto sucumbe o homem de bem como o perverso. Será justo is
 Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa pensa depois da morte. Ora, conforme temos dito, a vida do corpo bem pouca coisa é. Um século no vosso mundo não passa de um **relâmpago na eternidade**. Logo, nada são os sofrimentos de alguns dias ou de alguns meses, de que tanto vos queixais. Representam um ensino que se vos dá e que vos servirá no futuro. Os [Espíritos](Espírito){:.w}, que preexistem e sobrevivem a tudo, formam o mundo real (👉 Veja [Q.85](#q85)). Esses os filhos de [Deus](Deus){:.l} e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.738.b {#q738b}
@@ -10317,7 +10317,7 @@ Mas nem por isso as vítimas desses flagelos deixam de o ser.
 Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de morrer, desde que haja soado a hora da partida. A única diferença, em caso de flagelo, é que maior número parte ao mesmo tempo. Se, pelo pensamento, pudéssemos elevar-nos de maneira a dominar a [Humanidade](Natureza_humana){:.w} e a abrangê-la em seu conjunto, esses tão terríveis flagelos não nos pareceriam mais do que passageiras tempestades no destino do mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.739 {#q739}
@@ -10327,7 +10327,7 @@ Têm os flagelos destruidores utilidade, do ponto de vista físico, não obstant
 > <span class="emoji">👻</span> ▸ Têm. Muitas vezes mudam as condições de uma região, mas o bem que deles resulta só as gerações vindouras o experimentam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.740 {#q740}
@@ -10337,7 +10337,7 @@ Não serão os flagelos, igualmente, provas morais para o homem, por porem-no a 
 > <span class="emoji">👻</span> ▸ Os flagelos são provas que dão ao homem ocasião de exercitar a sua [inteligência](Inteligência){:.w}, de demonstrar sua paciência e resignação ante a [vontade](Vontade){:.w} de [Deus](Deus){:.l} e que lhe oferecem ensejo de manifestar seus sentimentos de abnegação, de desinteresse e de [amor](Amor){:.w} ao próximo, se o não domina o egoísmo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.741 {#q741}
@@ -10361,7 +10361,7 @@ Que é o que impele o homem à guerra?
 > <span class="emoji">👻</span> ▸ Predominância da natureza animal sobre a natureza espiritual e transbordamento das paixões. No estado de barbaria, os povos um só direito conhecem — o do mais forte. Por isso é que, para tais povos, o de guerra é um estado normal. À medida que o homem progride, menos frequente se torna a guerra, porque ele lhe evita as causas, fazendo-a com humanidade, quando a sente necessária.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.743 {#q743}
@@ -10371,7 +10371,7 @@ Da face da Terra, algum dia, a guerra desaparecerá?
 > <span class="emoji">👻</span> ▸ Sim, quando os homens compreenderem a justiça e praticarem a Lei de [Deus](Deus){:.l}. Nessa época, todos os povos serão irmãos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.744 {#q744}
@@ -10391,7 +10391,7 @@ Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pod
 > <span class="emoji">👻</span> ▸ Escravização temporária, para **oprimir** os povos, a fim de fazê-los progredir mais depressa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.745 {#q745}
@@ -10401,7 +10401,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 > <span class="emoji">👻</span> ▸ Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja [morte](Morte){:.w} tenha causado para satisfazer à sua ambição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ambição, culpa por guerras e  <a href="#ambicao">↩️</a>
+<span class="emoji">🏷️</span> Ambição, culpa por guerras e <a href="#ambicao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Assassínio {#lde-3-06-04}
@@ -10413,7 +10413,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 > <span class="emoji">👻</span> ▸ Grande crime, pois que aquele que tira a vida ao seu semelhante corta o fio de **uma existência de [expiação](Expiação){:.l} ou de missão**. Aí é que está o mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.747 {#q747}
@@ -10423,7 +10423,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 > <span class="emoji">👻</span> ▸ Já o temos dito: [Deus](Deus){:.l} é justo, julga mais pela intenção do que pelo fato.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.748 {#q748}
@@ -10433,7 +10433,7 @@ Em caso de legítima defesa, escusa [Deus](Deus){:.l} o assassínio?
 > <span class="emoji">👻</span> ▸ Só a necessidade o pode escusar mas, desde que o agredido possa preservar sua vida, sem atentar contra a de seu agressor, deve fazê-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.749 {#q749}
@@ -10443,7 +10443,7 @@ Tem o homem culpa dos assassínios que pratica durante a guerra?
 > <span class="emoji">👻</span> ▸ Não, quando constrangido pela força; mas é culpado das crueldades que cometa, sendo-lhe também levado em conta o sentimento de [humanidade](Natureza_humana){:.w} com que proceda.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.750 {#q750}
@@ -10453,14 +10453,14 @@ Qual o mais condenável aos olhos de [Deus](Deus){:.l}, o parricídio ou o infan
 > <span class="emoji">👻</span> ▸ Ambos o são igualmente, porque todo crime é um crime.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.751 {#q751}
 
 Como se explica que entre alguns povos, já adiantados sob o ponto de vista intelectual, o infanticídio seja um costume e esteja consagrado pela legislação?
 
-> <span class="emoji">👻</span> ▸ O desenvolvimento intelectual não implica a necessidade do bem. Um [Espírito](Espírito){:.w}, superior em [inteligência](Inteligência){:.w}, pode ser mau. Isso se dá com aquele que muito tem vivido sem se melhorar: apenas sabe.  
+> <span class="emoji">👻</span> ▸ O desenvolvimento intelectual não implica a necessidade do bem. Um [Espírito](Espírito){:.w}, superior em [inteligência](Inteligência){:.w}, pode ser mau. Isso se dá com aquele que muito tem vivido sem se melhorar: apenas sabe. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q780b">Q.780b</a><br> 
@@ -10476,7 +10476,7 @@ Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
 > <span class="emoji">👻</span> ▸ É o instinto de destruição no que tem de pior, porquanto, se, algumas vezes, a destruição constitui uma necessidade, com a crueldade jamais se dá o mesmo. Ela resulta sempre de uma natureza má.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.753 {#q753}
@@ -10486,7 +10486,7 @@ Por que [razão](Razão){:.w} a crueldade forma o caráter predominante dos povo
 > <span class="emoji">👻</span> ▸ Nos povos primitivos, como lhes chamas, a matéria prepondera sobre o [Espírito](Espírito){:.w}. Eles se entregam aos instintos do bruto e, como não experimentam outras necessidades além das da vida do corpo, só da conservação pessoal cogitam e é o que os torna, em geral, cruéis. Ademais, os povos de imperfeito desenvolvimento se conservam sob o império de [Espíritos](Espírito){:.w} também imperfeitos, que lhes são simpáticos, até que povos mais adiantados venham destruir ou enfraquecer essa influência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.754 {#q754}
@@ -10498,7 +10498,7 @@ A crueldade não derivará da carência de senso moral?
 Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolvem-se, conforme lhes sejam mais ou menos favoráveis as circunstâncias. O desenvolvimento excessivo de umas detém ou neutraliza o das outras. A sobre-excitação dos instintos materiais abafa, por assim dizer, o senso moral, como o desenvolvimento do senso moral enfraquece pouco a pouco as faculdades puramente animais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.755 {#q755}
@@ -10508,7 +10508,7 @@ Como pode dar-se que, no seio da mais adiantada civilização, se encontrem sere
 > <span class="emoji">👻</span> ▸ Do mesmo modo que numa árvore carregada de bons frutos se encontram verdadeiros abortos. São, se quiseres, selvagens que da civilização só têm o exterior, lobos extraviados em meio de cordeiros. [Espíritos](Espírito){:.w} de ordem inferior e muito atrasados podem encarnar entre homens adiantados, na esperança de também se adiantarem, mas desde que a prova é por demais pesada predomina a natureza primitiva.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.756 {#q756}
@@ -10518,7 +10518,7 @@ A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 > <span class="emoji">👻</span> ▸ A [Humanidade](Natureza_humana){:.w} progride. Esses homens, em quem o instinto do mal domina e que se acham deslocados entre pessoas de bem, desaparecerão gradualmente, como o mau grão se separa do bom, quando este é joeirado, mas desaparecerão para renascer sob outros invólucros. Como então terão mais experiência, compreenderão melhor o bem e o mal. Tens disso um exemplo nas plantas e nos animais que o homem há conseguido aperfeiçoar, desenvolvendo neles qualidades novas. Pois bem! só ao cabo de muitas gerações o desenvolvimento se torna completo. É a imagem das diversas existências do homem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Duelo {#lde-3-06-06}
@@ -10530,7 +10530,7 @@ Pode-se considerar o duelo como um caso de legítima defesa?
 > <span class="emoji">👻</span> ▸ Não; é um assassínio e um costume absurdo, digno dos bárbaros. Com uma civilização mais adiantada e **mais moral**, o homem compreenderá que o duelo é tão ridículo quanto os combates que outrora se consideravam como o juízo de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.758 {#q758}
@@ -10540,7 +10540,7 @@ Poder-se-á considerar o duelo como um assassínio por parte daquele que, conhec
 > <span class="emoji">👻</span> ▸ É um suicídio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.758.a {#q758a}
@@ -10552,7 +10552,7 @@ E quando as probabilidades são as mesmas para ambos os duelistas, haverá assas
 Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os combatentes, o duelista incorre em culpa, primeiro, porque atenta friamente e de propósito deliberado contra a vida de seu semelhante; depois, porque expõe inutilmente a sua própria vida, sem proveito para ninguém.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.759 {#q759}
@@ -10562,7 +10562,7 @@ Que valor tem o que se chama **ponto de honra**, em matéria de duelo?
 > <span class="emoji">👻</span> ▸ Orgulho e vaidade: dupla chaga da Humanidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.759.a {#q759a}
@@ -10574,7 +10574,7 @@ Mas não há casos em que a honra se acha verdadeiramente empenhada e em que uma
 Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu alguma falta, ou em perdoar, se de seu lado esteja a razão, e, qualquer que seja o caso, em desprezar os insultos, que o não podem atingir.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Pena de morte {#lde-3-06-07}
@@ -10588,7 +10588,7 @@ Desaparecerá algum dia, da legislação humana, a pena de morte?
 Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto para com a sociedade moderna, no seio dos povos mais adiantados, quem não visse um progresso nas restrições postas à pena de [morte](Morte){:.w} e à natureza dos crimes a que a sua aplicação se acha limitada. Se, entre esses mesmos povos, compararmos as garantias de que a justiça procura cercar o acusado, a [humanidade](Natureza_humana){:.w} de que usa para com ele, mesmo quando o reconhece culpado, com o que se praticava em tempos que ainda não vão muito longe, não poderemos negar o avanço do gênero humano na senda do progresso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.761 {#q761}
@@ -10598,7 +10598,7 @@ A lei de conservação dá ao homem o direito de preservar sua vida. Não usará
 > <span class="emoji">👻</span> ▸ Há outros meios de ele se preservar do perigo, que não matando. Ademais, é preciso abrir e não fechar ao criminoso a porta do arrependimento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.762 {#q762}
@@ -10608,7 +10608,7 @@ A pena de morte, que pode vir a ser banida das sociedades civilizadas, não ter�
 > <span class="emoji">👻</span> ▸ Necessidade não é o termo. O homem julga necessária uma coisa, sempre que não descobre outra melhor. À proporção que se instrui, vai compreendendo melhor o que é justo e o que é injusto e repudia os excessos cometidos, nos tempos de ignorância, em nome da justiça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.763 {#q763}
@@ -10618,7 +10618,7 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 > <span class="emoji">👻</span> ▸ Podes duvidar disso? Não se revolta o teu [Espírito](Espírito){:.w}, quando lês a narrativa das carnificinas humanas que outrora se faziam em nome da justiça e, não raro, em honra da Divindade; das torturas que se infligiam ao condenado e até ao simples acusado, para lhe arrancar, pela agudeza do sofrimento, a confissão de um crime que muitas vezes não cometera? Pois bem! Se houvesses vivido nessas épocas, terias achado tudo isso natural e talvez mesmo, se foras juiz, fizesses outro tanto. Assim é que o que pareceu justo, numa época, parece bárbaro em outra. Só as Leis divinas são eternas; as humanas mudam com o progresso e continuarão a mudar, até que tenham sido postas de acordo com aquelas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.764 {#q764}
@@ -10626,7 +10626,7 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 Disse [Jesus](Jesus){:.w}: <span class="emoji">✝️</span> ▸ *todos os que lançarem mão da espada à espada morrerão.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 26](Mateus_26){:.w}, [vers. 51-52](MAT.26.ARC){:.b}, [ARC][ARC] Estas palavras não consagram a pena de talião e, assim, a [morte](Morte){:.w} dada ao assassino não constitui uma aplicação dessa pena?
 
 > <span class="emoji">👻</span> ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus](Deus){:.l}. É [Deus](Deus){:.l} quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus](Jesus){:.w}. Não vos disse Ele também:
->  
+> 
 > <span class="emoji">✝️</span> ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 14](MAT.6.ARC){:.b}, [ARC][ARC]
 >
 > E não vos ensinou a pedir a [Deus](Deus){:.l} que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?
@@ -10638,7 +10638,7 @@ Que se deve pensar da pena de [morte](Morte){:.w} imposta em nome de [Deus](Deus
 > <span class="emoji">👻</span> ▸ É tomar o homem o lugar de [Deus](Deus){:.l} na distribuição da justiça. Os que assim procedem mostram quão longe estão de compreender [Deus](Deus){:.l} e que muito ainda têm que expiar. A pena de [morte](Morte){:.w} é um crime, quando aplicada em nome de [Deus](Deus){:.l}; e os que a impõem se sobrecarregam de outros tantos assassínios.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-07. <span class="emoji">🗂️</span> Lei de sociedade {#lde-3-07}
@@ -10652,7 +10652,7 @@ A vida social está na Natureza?
 > <span class="emoji">👻</span> ▸ Certamente. [Deus](Deus){:.l} fez o homem para viver em sociedade. Não lhe deu inutilmente a palavra e todas as outras faculdades necessárias à vida de relação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.767 {#q767}
@@ -10662,7 +10662,7 @@ A vida social está na Natureza?
 > <span class="emoji">👻</span> ▸ Sem dúvida, pois que por instinto os homens buscam a sociedade e todos devem concorrer para o progresso, auxiliando-se mutuamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.768 {#q768}
@@ -10674,7 +10674,7 @@ Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento 
 Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Vida de insulamento. Voto de silêncio {#lde-3-07-02}
@@ -10686,7 +10686,7 @@ Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, um
 > <span class="emoji">👻</span> ▸ Satisfação egoísta. Também há homens que experimentam satisfação na embriaguez. Merece-te isso aprovação? Não pode agradar a [Deus](Deus){:.l} uma vida pela qual o homem se condena a não ser útil a ninguém.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.770 {#q770}
@@ -10696,7 +10696,7 @@ Que se deve pensar dos que vivem em absoluta reclusão, fugindo ao pernicioso co
 > <span class="emoji">👻</span> ▸ Duplo egoísmo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.770.a {#q770a}
@@ -10706,7 +10706,7 @@ Mas não será meritório esse retraimento, se tiver por fim uma expiação, imp
 > <span class="emoji">👻</span> ▸ Fazer maior soma de bem do que de mal constitui a melhor expiação. Evitando um mal, aquele que por tal motivo se insula cai noutro, pois esquece a lei de [amor](Amor){:.w} e de caridade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.771 {#q771}
@@ -10716,7 +10716,7 @@ Que pensar dos que fogem do mundo para se votarem ao mister de socorrer os desgr
 > <span class="emoji">👻</span> ▸ Esses se elevam, rebaixando-se. Têm o duplo mérito de se colocarem acima dos gozos materiais e de fazerem o bem, obedecendo à lei do trabalho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.771.a {#q771a}
@@ -10726,7 +10726,7 @@ E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 > <span class="emoji">👻</span> ▸ Isso não é retraimento absoluto do egoísta. Esses não se insulam da sociedade, porquanto para ela trabalham.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.772 {#q772}
@@ -10738,7 +10738,7 @@ Que pensar do voto de silêncio prescrito por algumas seitas, desde a mais remot
 O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o homem das relações sociais que lhe podem facultar ocasiões de fazer o bem e de cumprir a lei do progresso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Laços de família {#lde-3-07-03}
@@ -10750,7 +10750,7 @@ Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde qu
 > <span class="emoji">👻</span> ▸ Os animais vivem vida material e não vida moral. A ternura da mãe pelos filhos tem por princípio o instinto de conservação dos seres que ela deu à luz. Logo que esses seres podem cuidar de si mesmos, está ela com a sua tarefa concluída; nada mais lhe exige a Natureza. Por isso é que os abandona, a fim de se ocupar com os recém-vindos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Animais, vida dos  <a href="#animais">↩️</a>
+<span class="emoji">🏷️</span> Animais, vida dos <a href="#animais">↩️</a>
 </details>
 
 ###### Q.774 {#q774}
@@ -10770,7 +10770,7 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 > <span class="emoji">👻</span> ▸ Uma recrudescência do egoísmo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-08. <span class="emoji">🗂️</span> Lei do progresso {#lde-3-08}
@@ -10786,7 +10786,7 @@ Serão coisas idênticas o estado de natureza e a lei natural?
 O estado de natureza é a infância da [Humanidade](Natureza_humana){:.w} e o ponto de partida do seu desenvolvimento intelectual e moral. Sendo perfectível e trazendo em si o gérmen do seu aperfeiçoamento, o homem não foi destinado a viver perpetuamente no estado de natureza, como não o foi a viver eternamente na infância. Aquele estado é transitório para o homem, que dele sai por virtude do progresso e da civilização. A lei natural, ao contrário, rege a [Humanidade](Natureza_humana){:.w} inteira e o homem se melhora à medida que melhor a compreende e pratica.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.777 {#q777}
@@ -10796,7 +10796,7 @@ Tendo o homem, no estado de natureza, menos necessidades, isento se acha das tri
 > <span class="emoji">👻</span> ▸ Que queres! é a felicidade do bruto. Há pessoas que não compreendem outra. É ser feliz à maneira dos animais. As crianças também são mais felizes do que os homens feitos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.778 {#q778}
@@ -10806,7 +10806,7 @@ Pode o homem retrogradar para o estado de natureza?
 > <span class="emoji">👻</span> ▸ Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque [Deus](Deus){:.l} assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Marcha do progresso {#lde-3-08-02}
@@ -10818,14 +10818,14 @@ A força para progredir, haure-a o homem em si mesmo, ou o progresso é apenas f
 > <span class="emoji">👻</span> ▸ O homem se desenvolve por si mesmo, naturalmente, mas nem todos progridem simultaneamente e do mesmo modo. Dá-se então que os mais adiantados auxiliam o progresso dos outros, por meio do contato social.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.780 {#q780}
 
 O progresso moral acompanha sempre o progresso intelectual?
 
-> <span class="emoji">👻</span> ▸ Decorre deste, mas nem sempre o segue imediatamente.  
+> <span class="emoji">👻</span> ▸ Decorre deste, mas nem sempre o segue imediatamente. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q192">Q.192</a> a <a href="#q365">Q.365</a><br>
@@ -10839,7 +10839,7 @@ Como pode o progresso intelectual engendrar progresso moral?
 > <span class="emoji">👻</span> ▸ Fazendo compreensíveis o bem e o mal. O homem, desde então, pode escolher. O desenvolvimento do livre-arbítrio acompanha o da [inteligência](Inteligência){:.w} e aumenta a responsabilidade dos atos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.780.b {#q780b}
@@ -10859,7 +10859,7 @@ Tem o homem o poder de paralisar a marcha do progresso?
 > <span class="emoji">👻</span> ▸ Não, mas tem, às vezes, o de embaraçá-la.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.781.a {#q781a}
@@ -10871,7 +10871,7 @@ Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a [Hum
 Sendo o progresso uma condição da natureza humana, não está no poder do homem opor-se-lhe. É uma **força viva**, cuja ação pode ser retardada, porém não anulada, por leis humanas más. Quando estas se tornam incompatíveis com ele, despedaça-as juntamente com os que se esforcem por mantê-las. Assim será, até que o homem tenha posto suas leis em concordância com a Justiça divina, que quer que todos participem do bem e não a vigência de leis feitas pelo forte em detrimento do fraco.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.782 {#q782}
@@ -10881,7 +10881,7 @@ Não há homens que de boa-fé obstam ao progresso, acreditando favorecê-lo, po
 > <span class="emoji">👻</span> ▸ Assemelham-se a pequeninas pedras que, colocadas debaixo da roda de uma grande viatura, não a impedem de avançar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.783 {#q783}
@@ -10893,17 +10893,17 @@ Segue sempre marcha progressiva e lenta o aperfeiçoamento da Humanidade?
 O homem não pode conservar-se indefinidamente na ignorância, porque tem de atingir a finalidade que a Providência lhe assinalou. Ele se instrui pela força das coisas. As revoluções morais, como as revoluções sociais, se infiltram nas ideias pouco a pouco; germinam durante séculos; depois, irrompem subitamente e produzem o desmoronamento do carunchoso edifício do passado, que deixou de estar em harmonia com as necessidades novas e com as novas aspirações. Nessas comoções, o homem quase nunca percebe senão a desordem e a confusão momentâneas que o ferem nos seus interesses materiais. Aquele, porém, que eleva o pensamento acima da sua própria personalidade, admira os desígnios da Providência, que do mal faz sair o bem. São a procela, a tempestade que saneiam a atmosfera, depois de a terem agitado violentamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.784 {#q784}
 
 Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto de vista moral, ele, em vez de avançar, caminha aos recuos?
 
-> <span class="emoji">👻</span> ▸ Enganas-te. Observa bem o conjunto e verás que o homem se adianta, pois que melhor compreende o que é mal, e vai dia a dia reprimindo os abusos. Faz-se mister que o mal chegue ao excesso, para tornar compreensível a necessidade do bem e das reformas.  
+> <span class="emoji">👻</span> ▸ Enganas-te. Observa bem o conjunto e verás que o homem se adianta, pois que melhor compreende o que é mal, e vai dia a dia reprimindo os abusos. Faz-se mister que o mal chegue ao excesso, para tornar compreensível a necessidade do bem e das reformas. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-↩️ Voltar para <a href="#q916">Q.916</a><br>  
+↩️ Voltar para <a href="#q916">Q.916</a><br> 
 ↩️ Voltar para <a href="#q917">Q.917</a>
 </details>
 
@@ -10915,10 +10915,10 @@ Qual o maior obstáculo ao progresso?
 
 👉 Veja [O egoísmo](#lde-3-12-03)
 
-Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a [Humanidade](Natureza_humana){:.w} está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.  
+Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a [Humanidade](Natureza_humana){:.w} está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-↩️ Voltar para <a href="#q785">Q.785</a><br>  
+↩️ Voltar para <a href="#q785">Q.785</a><br> 
 ↩️ Voltar para <a href="#q917">Q.917</a>
 </details>
 
@@ -10933,7 +10933,7 @@ Mostra-nos a História que muitos povos, depois de abalos que os revolveram prof
 Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os [Espíritos](Espírito){:.w} que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.787 {#q787}
@@ -10943,7 +10943,7 @@ Não há raças rebeldes, por sua natureza, ao progresso?
 > <span class="emoji">👻</span> ▸ Há, mas vão aniquilando-se corporalmente, todos os dias.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.787.a {#q787a}
@@ -10953,7 +10953,7 @@ Qual será a sorte futura das almas que animam essas raças?
 > <span class="emoji">👻</span> ▸ Chegarão, como todas as demais, à perfeição, passando por outras existências. [Deus](Deus){:.l} a ninguém deserda.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, destino da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, destino da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.787.b {#q787b}
@@ -10963,7 +10963,7 @@ Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e antrop
 > <span class="emoji">👻</span> ▸ Tu mesmo o foste mais de uma vez, antes de seres o que és.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.788 {#q788}
@@ -10973,7 +10973,7 @@ Os povos são individualidades coletivas que, como os indivíduos, passam pela i
 > <span class="emoji">👻</span> ▸ Os povos, que apenas vivem a vida do corpo, aqueles cuja grandeza unicamente assenta na força e na extensão territorial, nascem, crescem e morrem, porque a força de um povo se exaure, como a de um homem. Aqueles, cujas leis egoísticas obstam ao progresso das luzes e da caridade, morrem, porque a luz mata as trevas e a caridade mata o egoísmo. Mas, para os povos, como para os indivíduos, há a vida da alma. Aqueles, cujas leis se harmonizam com as leis eternas do [Criador](Deus){:.l}, viverão e servirão de farol aos outros povos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.789 {#q789}
@@ -10993,7 +10993,7 @@ Comparemos esta teoria do progresso com a que os [Espíritos](Espírito){:.w} ap
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="222">222</a><br> 
 ↩️ Voltar para <a href="#lde-5-04">Conclusão 04</a><br>
-<span class="emoji">🏷️</span> Alma, criação da  <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, criação da <a href="#alma">↩️</a><br>
 </details>
 
 #### <span class="emoji">📄</span> Civilização {#lde-3-08-04}
@@ -11005,7 +11005,7 @@ Comparemos esta teoria do progresso com a que os [Espíritos](Espírito){:.w} ap
 > <span class="emoji">👻</span> ▸ Progresso incompleto. O homem não passa subitamente da infância à madureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.790.a {#q790a}
@@ -11015,7 +11015,7 @@ Será racional condenar-se a civilização?
 > <span class="emoji">👻</span> ▸ Condenai antes os que dela abusam e não a obra de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.791 {#q791}
@@ -11025,7 +11025,7 @@ Apurar-se-á algum dia a civilização, de modo a fazer que desapareçam os male
 > <span class="emoji">👻</span> ▸ Sim, quando o moral estiver tão desenvolvido quanto a [inteligência](Inteligência){:.w}. O fruto não pode surgir antes da flor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.792 {#q792}
@@ -11035,7 +11035,7 @@ Por que não efetua a civilização, imediatamente, todo o bem que poderia produ
 > <span class="emoji">👻</span> ▸ Porque os homens ainda não estão aptos nem dispostos a alcançá-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.792.a {#q792a}
@@ -11056,7 +11056,7 @@ Por que indícios se pode reconhecer uma civilização completa?
 
 A civilização, como todas as coisas, apresenta gradações diversas. Uma civilização incompleta é um estado transitório, que gera males especiais, desconhecidos do homem no estado primitivo. Nem por isso, entretanto, constitui menos um progresso natural, necessário, que traz consigo o remédio para o mal que causa. À medida que a civilização se aperfeiçoa, faz cessar alguns dos males que gerou, males que desaparecerão todos com o progresso moral.
 
-De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima [acepção](acepção){:.d} do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a [inteligência](Inteligência){:.w} possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro [amor](Amor){:.w} do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa [vontade](Vontade){:.w} esteja certo de lhe não faltar o necessário.  
+De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima [acepção](acepção){:.d} do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a [inteligência](Inteligência){:.w} possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro [amor](Amor){:.w} do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa [vontade](Vontade){:.w} esteja certo de lhe não faltar o necessário. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q930">Q.930</a><br> 
@@ -11072,7 +11072,7 @@ Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das 
 > <span class="emoji">👻</span> ▸ Poderia, se todos as compreendessem bem. Se os homens as quisessem praticar, elas bastariam. A sociedade, porém, tem suas exigências. São-lhe necessárias leis especiais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.795 {#q795}
@@ -11081,7 +11081,7 @@ Qual a causa da instabilidade das leis humanas?
 
 > <span class="emoji">👻</span> ▸ Nas épocas de barbaria, são os mais fortes que fazem as leis e eles as fizeram para si. À proporção que os homens foram compreendendo melhor a justiça, indispensável se tornou a modificação delas. Quanto mais se aproximam da vera justiça, tanto menos instáveis são as leis humanas, isto é, tanto mais estáveis se vão tornando, conforme vão sendo feitas para todos e se identificam com a lei natural.
 
-A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte.  
+A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q885">Q.885</a>
@@ -11094,7 +11094,7 @@ No estado atual da sociedade, a severidade das leis penais não constitui uma ne
 > <span class="emoji">👻</span> ▸ Uma sociedade depravada certamente precisa de leis severas. Infelizmente, essas leis mais se destinam a punir o mal depois de feito, do que a lhe secar a fonte. Só a educação poderá reformar os homens, que, então, não precisarão mais de leis tão rigorosas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.797 {#q797}
@@ -11104,7 +11104,7 @@ Como poderá o homem ser levado a reformar suas leis?
 > <span class="emoji">👻</span> ▸ Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Influência do Espiritismo no progresso {#lde-3-08-06}
@@ -11118,14 +11118,14 @@ O [Espiritismo](Espiritismo){:.l} se tornará crença comum, ou ficará sendo pa
 As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o [Espiritismo](Espiritismo){:.l}. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o [Espiritismo](Espiritismo){:.l} só tem que edificar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.799 {#q799}
 
 De que maneira pode o [Espiritismo](Espiritismo){:.l} contribuir para o progresso?
 
-> <span class="emoji">👻</span> ▸ Destruindo o materialismo, que é uma das chagas da sociedade, ele faz que os homens compreendam onde se encontram seus verdadeiros interesses. Deixando a vida futura de estar velada pela dúvida, o homem perceberá melhor que, por meio do presente, lhe é dado preparar o seu futuro. Abolindo os prejuízos de seitas, castas e cores, ensina aos homens a grande solidariedade que os há de unir como irmãos.  
+> <span class="emoji">👻</span> ▸ Destruindo o materialismo, que é uma das chagas da sociedade, ele faz que os homens compreendam onde se encontram seus verdadeiros interesses. Deixando a vida futura de estar velada pela dúvida, o homem perceberá melhor que, por meio do presente, lhe é dado preparar o seu futuro. Abolindo os prejuízos de seitas, castas e cores, ensina aos homens a grande solidariedade que os há de unir como irmãos. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q982">Q.982</a>
@@ -11138,7 +11138,7 @@ Não será de temer que o [Espiritismo](Espiritismo){:.l} não consiga triunfar 
 > <span class="emoji">👻</span> ▸ Conhece bem pouco os homens quem imagine que uma causa qualquer os possa transformar como que por encanto. As ideias só pouco a pouco se modificam, conforme os indivíduos, e preciso é que algumas gerações passem, para que se apaguem totalmente os vestígios dos velhos hábitos. A transformação, pois, somente com o tempo, [gradual](gradual){:.d} e progressivamente, se pode operar. Para cada geração uma parte do véu se dissipa. O [Espiritismo](Espiritismo){:.l} vem rasgá-lo de alto a baixo. Entretanto, conseguisse ele unicamente corrigir num homem um único defeito que fosse e já o haveria forçado a dar um passo. Ter-lhe-ia feito, só com isso, grande bem, pois esse primeiro passo lhe facilitará os outros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.801 {#q801}
@@ -11148,7 +11148,7 @@ Por que não ensinaram os [Espíritos](Espírito){:.w}, em todos os tempos, o qu
 > <span class="emoji">👻</span> ▸ Não ensinais às crianças o que ensinais aos adultos e não dais ao recém-nascido um alimento que ele não possa digerir. Cada coisa tem seu tempo. Eles ensinaram muitas coisas que os homens não compreenderam ou adulteraram, mas que podem compreender agora. Com seus ensinos, embora incompletos, prepararam o terreno para receber a semente que vai frutificar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.802 {#q802}
@@ -11158,7 +11158,7 @@ Visto que o [Espiritismo](Espiritismo){:.l} tem que marcar um progresso da Human
 > <span class="emoji">👻</span> ▸ Desejaríeis milagres, mas [Deus](Deus){:.l} os espalha a mancheias diante dos vossos passos e, no entanto, ainda há homens que o negam. Conseguiu, porventura, o próprio [Cristo](Cristo){:.w} convencer os seus contemporâneos, mediante os prodígios que operou? Não conheceis presentemente alguns que negam os fatos mais patentes, ocorridos às suas vistas? Não há os que dizem que não acreditariam, mesmo que vissem? Não; não é por meio de prodígios que [Deus](Deus){:.l} quer encaminhar os homens. Em sua bondade, Ele lhes deixa o mérito de se convencerem pela razão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-09. <span class="emoji">🗂️</span> Lei de igualdade {#lde-3-09}
@@ -11171,7 +11171,7 @@ Perante [Deus](Deus){:.l}, são iguais todos os homens?
 
 > <span class="emoji">👻</span> ▸ Sim, todos tendem para o mesmo fim e [Deus](Deus){:.l} fez suas leis para todos. Dizeis frequentemente: ‘O Sol luz para todos’ e enunciais assim uma [verdade](Verdade){:.w} maior e mais geral do que pensais.
 
-Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. [Deus](Deus){:.l} a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais.  
+Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. [Deus](Deus){:.l} a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q831">Q.831</a>
@@ -11211,7 +11211,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 > <span class="emoji">👻</span> ▸ Não; é obra do homem e não de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.806.a {#q806a}
@@ -11221,7 +11221,7 @@ Algum dia essa desigualdade desaparecerá?
 > <span class="emoji">👻</span> ▸ Eternas somente as Leis de [Deus](Deus){:.l} o são. Não vês que dia a dia ela gradualmente se apaga? Desaparecerá quando o egoísmo e o orgulho deixarem de predominar. Restará apenas a desigualdade do merecimento. Dia virá em que os membros da grande família dos filhos de [Deus](Deus){:.l} deixarão de considerar-se como de sangue mais ou menos puro. Só o [Espírito](Espírito){:.w} é mais ou menos puro e isso não depende da posição social.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.807 {#q807}
@@ -11240,7 +11240,7 @@ Que se deve pensar dos que abusam da superioridade de suas posições sociais, p
 
 A desigualdade das riquezas não se originará da das faculdades, em virtude da qual uns dispõem de mais meios de adquirir bens do que outros?
 
-> <span class="emoji">👻</span> ▸ Sim e não. Da velhacaria e do roubo, que dizes?  
+> <span class="emoji">👻</span> ▸ Sim e não. Da velhacaria e do roubo, que dizes? 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q884">Q.884</a>
@@ -11253,7 +11253,7 @@ Mas, a riqueza herdada, essa não é fruto de paixões más.
 > <span class="emoji">👻</span> ▸ Que sabes a esse respeito? Busca a fonte de tal riqueza e verás que nem sempre é pura. Sabes, porventura, se não se originou de uma espoliação ou de uma injustiça? Mesmo, porém, sem falar da origem, que pode ser má, acreditas que a cobiça da riqueza, ainda quando bem adquirida, os desejos secretos de possuí-la o mais depressa possível, sejam sentimentos louváveis? Isso é o que [Deus](Deus){:.l} julga e eu te asseguro que o seu juízo é mais severo que o dos homens.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.809 {#q809}
@@ -11263,7 +11263,7 @@ Aos que, mais tarde, herdam uma riqueza inicialmente mal adquirida, alguma respo
 > <span class="emoji">👻</span> ▸ É fora de [dúvida](Dúvida){:.w} que não são responsáveis pelo mal que outros hajam feito, sobretudo se o ignoram, como é possível que aconteça. Mas, fica sabendo que, muitas vezes, a riqueza só vem ter às mãos de um homem, para lhe proporcionar ensejo de reparar uma injustiça. Feliz dele, se assim o compreende! Se a fizer em nome daquele que cometeu a injustiça, a ambos será a reparação levada em conta, porquanto, não raro, é este último quem a provoca.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.810 {#q810}
@@ -11273,7 +11273,7 @@ Sem quebra da legalidade, quem quer que seja pode dispor de seus bens de modo ma
 > <span class="emoji">👻</span> ▸ Toda ação produz seus frutos; doces são os das boas ações, amargos sempre os das outras. **Sempre**, entendei-o bem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.811 {#q811}
@@ -11283,7 +11283,7 @@ Será possível e já terá existido a igualdade absoluta das riquezas?
 > <span class="emoji">👻</span> ▸ Não; nem é possível. A isso se opõe a diversidade das faculdades e dos caracteres.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.811.a {#q811a}
@@ -11293,7 +11293,7 @@ Há, no entanto, homens que julgam ser esse o remédio aos males da sociedade. Q
 > <span class="emoji">👻</span> ▸ São sistemáticos esses tais, ou ambiciosos cheios de inveja. Não compreendem que a igualdade com que sonham seria a curto prazo desfeita pela força das coisas. Combatei o egoísmo, que é a vossa chaga social, e não corrais atrás de quimeras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.812 {#q812}
@@ -11303,7 +11303,7 @@ Por não ser possível a igualdade das riquezas, o mesmo se dará com o bem-esta
 > <span class="emoji">👻</span> ▸ Não, mas o bem-estar é relativo e todos poderiam dele gozar, se se entendessem convenientemente, porque o verdadeiro bem-estar consiste em cada um empregar o seu tempo como lhe apraza e não na execução de trabalhos pelos quais nenhum gosto sente. Como cada um tem aptidões diferentes, nenhum trabalho útil ficaria por fazer. Em tudo existe o equilíbrio; o homem é quem o perturba.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.812.a {#q812a}
@@ -11313,7 +11313,7 @@ Será possível que todos se entendam?
 > <span class="emoji">👻</span> ▸ Os homens se entenderão quando praticarem a lei de justiça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.813 {#q813}
@@ -11332,7 +11332,7 @@ Há pessoas que, por culpa sua, caem na miséria. Nenhuma responsabilidade caber
 
 Por que [Deus](Deus){:.l} a uns concedeu as riquezas e o poder, e a outros, a miséria?
 
-> <span class="emoji">👻</span> ▸ Para experimentá-los de modos diferentes. Além disso, como sabeis, essas provas foram escolhidas pelos próprios [Espíritos](Espírito){:.w}, que nelas, entretanto, sucumbem com frequência.  
+> <span class="emoji">👻</span> ▸ Para experimentá-los de modos diferentes. Além disso, como sabeis, essas provas foram escolhidas pelos próprios [Espíritos](Espírito){:.w}, que nelas, entretanto, sucumbem com frequência. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 ↩️ Voltar para <a href="#q925">Q.925</a><br>
@@ -11346,7 +11346,7 @@ Qual das duas provas é mais terrível para o homem, a da desgraça ou a da riqu
 > <span class="emoji">👻</span> ▸ São-no tanto uma quanto outra. A miséria provoca as queixas contra a Providência, a riqueza incita a todos os excessos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.816 {#q816}
@@ -11360,7 +11360,7 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que [Jesus](Jesus){:.w} disse:
 
 > <span class="emoji">✝️</span> ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus](Deus){:.l}.*
->  
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 19](Mateus_19){:.w}, [vers. 24](MAT.19.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
@@ -11383,7 +11383,7 @@ Donde provém a inferioridade moral da mulher em certos países?
 > <span class="emoji">👻</span> ▸ Do predomínio injusto e cruel que sobre ela assumiu o homem. É resultado das instituições sociais e do abuso da força sobre a fraqueza. Entre homens moralmente pouco adiantados, a força faz o direito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.819 {#q819}
@@ -11393,7 +11393,7 @@ Com que fim mais fraca fisicamente do que o homem é a mulher?
 > <span class="emoji">👻</span> ▸ Para lhe determinar funções especiais. Ao homem, por ser o mais forte, os trabalhos rudes; à mulher, os trabalhos leves; a ambos o dever de se ajudarem mutuamente a suportar as provas de uma vida cheia de amargor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.820 {#q820}
@@ -11405,7 +11405,7 @@ A fraqueza física da mulher não a coloca naturalmente sob a dependência do ho
 [Deus](Deus){:.l} apropriou a organização de cada ser às funções que lhe cumpre desempenhar. Tendo dado à mulher menor força física, deu-lhe ao mesmo tempo maior sensibilidade, em relação com a delicadeza das funções maternais e com a fraqueza dos seres confiados aos seus cuidados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.821 {#q821}
@@ -11415,7 +11415,7 @@ As funções a que a mulher é destinada pela natureza terão importância tão 
 > <span class="emoji">👻</span> ▸ Sim, maior até. É ela quem lhe dá as primeiras noções da vida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.822 {#q822}
@@ -11425,7 +11425,7 @@ Sendo iguais perante a Lei de [Deus](Deus){:.l}, devem os homens ser iguais tamb
 > <span class="emoji">👻</span> ▸ O primeiro princípio de justiça é este: Não façais aos outros o que não quereríeis que vos fizessem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.822.a {#q822a}
@@ -11435,7 +11435,7 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 > <span class="emoji">👻</span> ▸ Dos direitos, sim; das funções, não. Preciso é que cada um esteja no lugar que lhe compete. Ocupe-se do exterior o homem e do interior a mulher, cada um de acordo com a sua aptidão. A lei humana, para ser equitativa, deve consagrar a igualdade dos direitos do homem e da mulher. Todo privilégio a um ou a outro concedido é contrário à justiça. **A emancipação da mulher acompanha o progresso da civilização**. Sua escravização marcha de par com a barbaria. Os sexos, além disso, só existem na organização física. Visto que os [Espíritos](Espírito){:.w} podem encarnar num e noutro, sob esse aspecto nenhuma diferença há entre eles. Devem, por conseguinte, gozar dos mesmos direitos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Igualdade perante o túmulo {#lde-3-09-07}
@@ -11447,7 +11447,7 @@ Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de mon
 > <span class="emoji">👻</span> ▸ Último ato de orgulho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.823.a {#q823a}
@@ -11479,7 +11479,7 @@ Haverá no mundo posições em que o homem possa jactar-se de gozar de absoluta 
 > <span class="emoji">👻</span> ▸ Não, porque todos precisais uns dos outros, assim os pequenos como os grandes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.826 {#q826}
@@ -11495,7 +11495,7 @@ A obrigação de respeitar os direitos alheios tira ao homem o de pertencer-se a
 > <span class="emoji">👻</span> ▸ De modo algum, porquanto este é um direito que lhe vem da natureza.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.828 {#q828}
@@ -11505,7 +11505,7 @@ Como se podem conciliar as opiniões liberais de certos homens com o despotismo 
 > <span class="emoji">👻</span> ▸ Eles têm a compreensão da lei natural, mas contrabalançada pelo orgulho e pelo egoísmo. Quando não representam calculadamente uma comédia, sustentando princípios liberais, compreendem como as coisas devem ser, mas não as fazem assim.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.828.a {#q828a}
@@ -11515,7 +11515,7 @@ Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram nes
 > <span class="emoji">👻</span> ▸ Quanto mais [inteligência](Inteligência){:.w} tem o homem para compreender um princípio, tanto menos escusável é de o não aplicar a si mesmo. Em [verdade](Verdade){:.w} vos digo que o homem simples, porém sincero, está mais adiantado no caminho de [Deus](Deus){:.l}, do que um que pretenda parecer o que não é.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Escravidão {#lde-3-10-02}
@@ -11529,7 +11529,7 @@ Haverá homens que estejam, por natureza, destinados a ser propriedades de outro
 É contrária à Natureza a lei humana que consagra a escravidão, pois que assemelha o homem ao irracional e o degrada física e moralmente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.830 {#q830}
@@ -11539,7 +11539,7 @@ Quando a escravidão faz parte dos costumes de um povo, são censuráveis os que
 > <span class="emoji">👻</span> ▸ O mal é sempre o mal e não há sofisma que faça se torne boa uma ação má. A responsabilidade, porém, do mal é relativa aos meios de que o homem disponha para compreendê-lo. Aquele que tira proveito da lei da escravidão é sempre culpado de violação da Lei da Natureza, mas aí, como em tudo, a culpabilidade é relativa. Tendo-se a escravidão introduzido nos costumes de certos povos, possível se tornou que, de boa-fé, o homem se aproveitasse dela como de uma coisa que lhe parecia natural. Entretanto, desde que, mais desenvolvida e, sobretudo, esclarecida pelas luzes do Cristianismo, sua [razão](Razão){:.w} lhe mostrou que o escravo era um seu igual perante [Deus](Deus){:.l}, nenhuma desculpa mais ele tem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.831 {#q831}
@@ -11559,7 +11559,7 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 > <span class="emoji">👻</span> ▸ Digo que esses compreendem melhor os seus interesses. Igual cuidado dispensam aos seus bois e cavalos, para que obtenham bom preço no mercado. Não são tão culpados como os que maltratam os escravos, mas nem por isso deixam de dispor deles como de uma mercadoria, privando-os do direito de se pertencerem a si mesmos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Liberdade de pensar {#lde-3-10-03}
@@ -11571,7 +11571,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 > <span class="emoji">👻</span> ▸ No pensamento goza o homem de ilimitada liberdade, pois que não há como pôr-lhe peias. Pode-se-lhe deter o voo, não aniquilá-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.834 {#q834}
@@ -11581,7 +11581,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 > <span class="emoji">👻</span> ▸ Perante [Deus](Deus){:.l}, é. Somente a [Deus](Deus){:.l} sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Liberdade de consciência {#lde-3-10-04}
@@ -11593,7 +11593,7 @@ Será a liberdade de [consciência](Consciência){:.w} uma consequência da de p
 > <span class="emoji">👻</span> ▸ A [consciência](Consciência){:.w} é um pensamento íntimo, que pertence ao homem, como todos os outros pensamentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.836 {#q836}
@@ -11603,7 +11603,7 @@ Tem o homem direito de pôr embaraços à liberdade de consciência?
 > <span class="emoji">👻</span> ▸ Falece-lhe tanto esse direito, quanto com referência à liberdade de pensar, por isso que só a [Deus](Deus){:.l} cabe o de julgar a consciência. Assim como os homens, pelas suas leis, regulam as relações de homem para homem, [Deus](Deus){:.l}, pelas Leis da Natureza, regula as relações entre Ele e o homem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.837 {#q837}
@@ -11613,7 +11613,7 @@ Que é o que resulta dos embaraços que se oponham à liberdade de consciência?
 > <span class="emoji">👻</span> ▸ Constranger os homens a procederem em desacordo com o seu modo de pensar, fazê-los hipócritas. A liberdade de [consciência](Consciência){:.w} é um dos caracteres da verdadeira civilização e do progresso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.838 {#q838}
@@ -11623,7 +11623,7 @@ Será respeitável toda e qualquer crença, ainda quando notoriamente falsa?
 > <span class="emoji">👻</span> ▸ Toda crença é respeitável, quando sincera e conducente à prática do bem. Condenáveis são as crenças que conduzam ao mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.839 {#q839}
@@ -11633,7 +11633,7 @@ Será repreensível aquele que escandalize com a sua crença um outro que não p
 > <span class="emoji">👻</span> ▸ Isso é faltar com a caridade e atentar contra a liberdade de pensamento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.840 {#q840}
@@ -11645,7 +11645,7 @@ Será atentar contra a liberdade de [consciência](Consciência){:.w} pôr óbic
 Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo a terceiros, não é atentar contra a liberdade de consciência, pois que essa repressão em nada tira à crença a liberdade, que ela conserva integral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.841 {#q841}
@@ -11655,7 +11655,7 @@ Para respeitar a liberdade de consciência, dever-se-á deixar que se propaguem 
 > <span class="emoji">👻</span> ▸ Certamente que podeis e até deveis; mas, ensinai, a exemplo de [Jesus](Jesus){:.w}, **servindo-vos da brandura e da persuasão** e não da força, o que seria pior do que a crença daquele a quem desejaríeis convencer. Se alguma coisa se pode impor, é o bem e a fraternidade. Mas não cremos que o melhor meio de fazê-los admitidos seja obrar com violência. A convicção não se impõe.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.842 {#q842}
@@ -11665,7 +11665,7 @@ Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam 
 > <span class="emoji">👻</span> ▸ Será aquela que mais homens de bem e menos hipócritas fizer, isto é, pela prática da lei de [amor](Amor){:.w} na sua maior pureza e na sua mais ampla aplicação. Esse o sinal por que reconhecereis que uma [doutrina](doutrina){:.d} é boa, visto que toda [doutrina](doutrina){:.d} que tiver por efeito semear a desunião e estabelecer uma linha de separação entre os filhos de [Deus](Deus){:.l} não pode deixar de ser falsa e perniciosa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Livre-arbítrio {#lde-3-10-05}
@@ -11677,7 +11677,7 @@ Tem o homem o livre-arbítrio de seus atos?
 > <span class="emoji">👻</span> ▸ Pois que tem a liberdade de pensar, tem igualmente a de obrar. Sem o livre-arbítrio, o homem seria máquina.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.844 {#q844}
@@ -11687,7 +11687,7 @@ Do livre-arbítrio goza o homem desde o seu nascimento?
 > <span class="emoji">👻</span> ▸ Há liberdade de agir, desde que haja [vontade](Vontade){:.w} de fazê-lo. Nas primeiras fases da vida, quase nula é a liberdade, que se desenvolve e muda de objeto com o desenvolvimento das faculdades. Estando seus pensamentos em concordância com o que a sua idade reclama, a criança aplica o seu livre-arbítrio àquilo que lhe é necessário.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.845 {#q845}
@@ -11714,11 +11714,11 @@ Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influê
 
 A aberração das faculdades tira ao homem o livre-arbítrio?
 
-> <span class="emoji">👻</span> ▸ Já não é senhor do seu pensamento aquele cuja [inteligência](Inteligência){:.w} se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o [Espírito](Espírito){:.w} que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse [Espírito](Espírito){:.w}, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O [Espírito](Espírito){:.w}, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria.  
+> <span class="emoji">👻</span> ▸ Já não é senhor do seu pensamento aquele cuja [inteligência](Inteligência){:.w} se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o [Espírito](Espírito){:.w} que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse [Espírito](Espírito){:.w}, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O [Espírito](Espírito){:.w}, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria. 
 
-<details class="links"><summary><span class="emoji">🔗</span></summary><br>  
+<details class="links"><summary><span class="emoji">🔗</span></summary><br> 
 👉 Veja <a href="#q371">Q.371</a> e seguintes.<br>
-<span class="emoji">🏷️</span> Aberração, faculdades do homem e  <a href="#aberracao">↩️</a>
+<span class="emoji">🏷️</span> Aberração, faculdades do homem e <a href="#aberracao">↩️</a>
 </details>
 
 ###### Q.848 {#q848}
@@ -11728,7 +11728,7 @@ Servirá de escusa aos atos reprováveis o ser devida à embriaguez a aberraçã
 > <span class="emoji">👻</span> ▸ Não, porque foi voluntariamente que o ébrio se privou da sua razão, para satisfazer a paixões brutais. Em vez de uma falta, comete duas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.849 {#q849}
@@ -11738,7 +11738,7 @@ Qual a faculdade predominante no homem em estado de selvageria: o instinto ou o 
 > <span class="emoji">👻</span> ▸ O instinto, o que não o impede de agir com inteira liberdade, no tocante a certas coisas. Mas, aplica, como a criança, essa liberdade às suas necessidades e ela se amplia com a [inteligência](Inteligência){:.w}. Conseguintemente, tu, que és mais esclarecido do que um selvagem, também és mais responsável pelo que fazes do que um selvagem o é pelos seus atos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.850 {#q850}
@@ -11748,7 +11748,7 @@ A posição social não constitui às vezes, para o homem, obstáculo à inteira
 > <span class="emoji">👻</span> ▸ É fora de [dúvida](Dúvida){:.w} que o mundo tem suas exigências. [Deus](Deus){:.l} é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Fatalidade {#lde-3-10-06}
@@ -11760,7 +11760,7 @@ Haverá fatalidade nos acontecimentos da vida, conforme o sentido que se dá a e
 > <span class="emoji">👻</span> ▸ A fatalidade existe unicamente pela escolha que o [Espírito](Espírito){:.w} fez, ao encarnar, desta ou daquela prova para sofrer. Escolhendo-a, instituiu para si uma espécie de destino, que é a consequência mesma da posição em que vem a achar-se colocado. Falo das provas físicas, pois, pelo que toca às provas morais e às tentações, o [Espírito](Espírito){:.w}, conservando o livre-arbítrio quanto ao bem e ao mal, é sempre senhor de ceder ou de resistir. Ao vê-lo fraquear, um bom [Espírito](Espírito){:.w} pode vir-lhe em auxílio, mas não pode influir sobre ele de maneira a dominar-lhe a vontade. Um [Espírito](Espírito){:.w} mau, isto é, inferior, mostrando-lhe, exagerando aos seus olhos um perigo físico, o poderá abalar e amedrontar. Nem por isso, entretanto, a [vontade](Vontade){:.w} do [Espírito](Espírito){:.w} encarnado deixa de se conservar livre de quaisquer peias.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.852 {#q852}
@@ -11772,7 +11772,7 @@ Há pessoas que parecem perseguidas por uma fatalidade, independente da maneira 
 As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsucedidos, de acordo com o nosso caráter e a nossa posição social. Achamos mais simples e menos humilhante para o nosso amor-próprio atribuir antes à sorte ou ao destino os insucessos que experimentamos, do que à nossa própria falta. É certo que para isso contribui algumas vezes a influência dos [Espíritos](Espírito){:.w}, mas também o é que podemos sempre forrar-nos a essa influência, repelindo as ideias que eles nos sugerem, quando más.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.853 {#q853}
@@ -11782,7 +11782,7 @@ Algumas pessoas só escapam de um perigo mortal para cair em outro. Parece que n
 > <span class="emoji">👻</span> ▸ Fatal, no verdadeiro sentido da palavra, só o instante da [morte](Morte){:.w} o é. Chegado esse momento, de uma forma ou doutra, a ele não podeis furtar-vos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.853.a {#q853a}
@@ -11792,7 +11792,7 @@ Assim, qualquer que seja o perigo que nos ameace, se a hora da [morte](Morte){:.
 > <span class="emoji">👻</span> ▸ Não; não perecerás e tens disso milhares de exemplos. Quando, porém, soe a hora da tua partida, nada poderá impedir que partas. [Deus](Deus){:.l} sabe de antemão de que gênero será a [morte](Morte){:.w} do homem e muitas vezes seu [Espírito](Espírito){:.w} também o sabe, por lhe ter sido isso revelado, quando escolheu tal ou qual existência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.854 {#q854}
@@ -11802,7 +11802,7 @@ Do fato de ser infalível a hora da morte, poder-se-á deduzir que sejam inútei
 > <span class="emoji">👻</span> ▸ Não, visto que as precauções que tomais vos são sugeridas com o fito de evitardes a [morte](Morte){:.w} que vos ameaça. São um dos meios empregados para que ela não se dê.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.855 {#q855}
@@ -11822,7 +11822,7 @@ Sabe o [Espírito](Espírito){:.w} antecipadamente de que gênero será sua mort
 > <span class="emoji">👻</span> ▸ Sabe que o gênero de vida que escolheu o expõe mais a morrer desta do que daquela maneira. Sabe igualmente quais as lutas que terá de sustentar para evitá-lo e que, se [Deus](Deus){:.l} o permitir, não sucumbirá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.857 {#q857}
@@ -11842,7 +11842,7 @@ Por que [razão](Razão){:.w} os que pressentem a [morte](Morte){:.w} a temem ge
 > <span class="emoji">👻</span> ▸ Quem teme a [morte](Morte){:.w} é o homem, não o [Espírito](Espírito){:.w}. Aquele que a pressente pensa mais como [Espírito](Espírito){:.w} do que como homem. Compreende ser ela a sua libertação e espera-a.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.859 {#q859}
@@ -11852,7 +11852,7 @@ Com todos os acidentes, que nos sobrevêm no curso da vida, se dá o mesmo que c
 > <span class="emoji">👻</span> ▸ São de ordinário coisas muito insignificantes, de sorte que vos podemos prevenir deles e fazer que os eviteis algumas vezes, dirigindo o vosso pensamento, pois nos desagradam os sofrimentos materiais. Isso, porém, nenhuma importância tem na vida que escolhestes. A fatalidade, verdadeiramente, só existe quanto ao momento em que deveis aparecer e desaparecer deste mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.859.a {#q859a}
@@ -11862,7 +11862,7 @@ Haverá fatos que forçosamente devam dar-se e que os [Espíritos](Espírito){:.
 > <span class="emoji">👻</span> ▸ Há, mas que tu viste e pressentiste quando, no estado de [Espírito](Espírito){:.w}, fizeste a tua escolha. Não creias, entretanto, que tudo o que sucede esteja escrito, como costumam dizer. Um acontecimento qualquer pode ser a consequência de um ato que praticaste por tua livre vontade, de tal sorte que, se não o houvesses praticado, o acontecimento não se teria dado. Imagina que queimas o dedo. Isso nada mais é senão resultado da tua imprudência e efeito da matéria. Só as grandes dores, os fatos importantes e capazes de influir no moral, [Deus](Deus){:.l} os prevê, porque são úteis à tua depuração e à tua instrução.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.860 {#q860}
@@ -11872,7 +11872,7 @@ Pode o homem, pela sua [vontade](Vontade){:.w} e por seus atos, fazer que se nã
 > <span class="emoji">👻</span> ▸ Pode-o, se essa aparente mudança na ordem dos fatos tiver cabimento na sequência da vida que ele escolheu. Acresce que, para fazer o bem, como lhe cumpre, pois que isso constitui o objetivo único da vida, facultado lhe é impedir o mal, sobretudo aquele que possa concorrer para a produção de um mal maior.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.861 {#q861}
@@ -11884,7 +11884,7 @@ Ao escolher a sua existência, o [Espírito](Espírito){:.w} daquele que comete 
 Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da vida e os atos da vida moral. A fatalidade, que algumas vezes há, só existe com relação àqueles sucessos materiais, cuja causa reside fora de vós e que independem da vossa vontade. Quanto aos atos da vida moral, esses emanam sempre do próprio homem que, por conseguinte, tem sempre a liberdade de escolher. No tocante, pois, a esses atos, nunca há fatalidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.862 {#q862}
@@ -11894,7 +11894,7 @@ Pessoas existem que nunca logram bom êxito em coisa alguma, que parecem persegu
 > <span class="emoji">👻</span> ▸ Será uma fatalidade, se lhe quiseres dar esse nome, mas que decorre do gênero da existência escolhida. É que essas pessoas quiseram ser provadas por uma vida de decepções, a fim de exercitarem a paciência e a resignação. Entretanto, não creias seja absoluta essa fatalidade. Resulta muitas vezes do caminho falso que tais pessoas tomam, em discordância com suas inteligências e aptidões. Grandes probabilidades têm de se afogar quem pretender atravessar a nado um rio, sem saber nadar. O mesmo se dá relativamente à maioria dos acontecimentos da vida. Quase sempre obteria o homem bom êxito, se só tentasse o que estivesse em relação com as suas faculdades. O que o perde são o seu amor-próprio e a sua ambição, que o desviam da senda que lhe é própria e o fazem considerar vocação o que não passa de desejo de satisfazer a certas paixões. Fracassa por sua culpa. Mas, em vez de culpar-se a si mesmo, prefere queixar-se da sua estrela. Um, por exemplo, que seria bom operário e ganharia honestamente a vida, mete-se a ser mau poeta e morre de fome. Para todos haveria lugar no mundo, desde que cada um soubesse colocar-se no lugar que lhe compete.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.863 {#q863}
@@ -11904,7 +11904,7 @@ Os costumes sociais não obrigam muitas vezes o homem a enveredar por um caminho
 > <span class="emoji">👻</span> ▸ São os homens e não [Deus](Deus){:.l} quem faz os costumes sociais. Se eles a estes se submetem, é porque lhes convêm. Tal submissão, portanto, representa um ato de livre-arbítrio, pois que, se o quisessem, poderiam libertar-se de semelhante jugo. Por que, então, se queixam? Falece-lhes [razão](Razão){:.w} para acusarem os costumes sociais. A culpa de tudo devem lançá-la ao tolo amor-próprio de que vivem cheios e que os faz preferirem morrer de fome a infringi-los. Ninguém lhes leva em conta esse sacrifício feito à opinião pública, ao passo que [Deus](Deus){:.l} lhes levará em conta o sacrifício que fizerem de suas vaidades. Não quer isto dizer que o homem deva afrontar sem necessidade aquela opinião, como fazem alguns em quem há mais originalidade do que verdadeira [filosofia](Filosofia){:.w}. Tanto desatino há em procurar alguém ser apontado a dedo, ou considerado animal curioso, quanto acerto em descer voluntariamente e sem murmurar, desde que não possa manter-se no alto da escala.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.864 {#q864}
@@ -11914,7 +11914,7 @@ Assim como há pessoas a quem a sorte em tudo é contrária, outras parecem favo
 > <span class="emoji">👻</span> ▸ De ordinário, é que essas pessoas sabem conduzir-se melhor nas suas empresas, mas também pode ser um gênero de prova. O bom êxito as embriaga; fiam-se no seu destino e muitas vezes pagam mais tarde esse bom êxito, mediante revezes cruéis, que a prudência as teria feito evitar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.865 {#q865}
@@ -11924,14 +11924,14 @@ Como se explica que a boa sorte favoreça a algumas pessoas em circunstâncias c
 > <span class="emoji">👻</span> ▸ Alguns [Espíritos](Espírito){:.w} hão escolhido previamente certas espécies de prazer. A fortuna que os favorece é uma tentação. Aquele que, como homem, ganha, perde como [Espírito](Espírito){:.w}. É uma prova para o seu orgulho e para a sua cupidez.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.866 {#q866}
 
 Então, a fatalidade que parece presidir aos destinos materiais de nossa vida também é resultante do nosso livre-arbítrio?
 
-> <span class="emoji">👻</span> ▸ Tu mesmo escolheste a tua prova. Quanto mais rude ela for e melhor a suportares, tanto mais te elevarás. Os que passam a vida na abundância e na ventura humana são [Espíritos](Espírito){:.w} pusilânimes, que permanecem estacionários. Assim, o número dos desafortunados é muito superior ao dos felizes deste mundo, atento que os [Espíritos](Espírito){:.w}, na sua maioria, procuram as provas que lhes sejam mais proveitosas. Eles veem perfeitamente bem a futilidade das vossas grandezas e gozos. Acresce que a mais ditosa existência é sempre agitada, sempre perturbada, quando mais não seja, pela ausência da dor.  
+> <span class="emoji">👻</span> ▸ Tu mesmo escolheste a tua prova. Quanto mais rude ela for e melhor a suportares, tanto mais te elevarás. Os que passam a vida na abundância e na ventura humana são [Espíritos](Espírito){:.w} pusilânimes, que permanecem estacionários. Assim, o número dos desafortunados é muito superior ao dos felizes deste mundo, atento que os [Espíritos](Espírito){:.w}, na sua maioria, procuram as provas que lhes sejam mais proveitosas. Eles veem perfeitamente bem a futilidade das vossas grandezas e gozos. Acresce que a mais ditosa existência é sempre agitada, sempre perturbada, quando mais não seja, pela ausência da dor. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 👉 Veja <a href="#q525">Q.525</a> e seguintes.
@@ -11944,7 +11944,7 @@ Donde vem a expressão: Nascer sob uma boa estrela?
 > <span class="emoji">👻</span> ▸ Antiga superstição, que prendia às estrelas os destinos dos homens. Alegoria que algumas pessoas fazem a tolice de tomar ao pé da letra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Conhecimento do futuro {#lde-3-10-07}
@@ -11956,7 +11956,7 @@ Pode o futuro ser revelado ao homem?
 > <span class="emoji">👻</span> ▸ Em princípio, o futuro lhe é oculto e só em casos raros e excepcionais permite [Deus](Deus){:.l} que seja revelado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.869 {#q869}
@@ -11966,7 +11966,7 @@ Com que fim o futuro se conserva oculto ao homem?
 > <span class="emoji">👻</span> ▸ Se o homem conhecesse o futuro, negligenciaria do presente e não obraria com a liberdade com que o faz, porque o dominaria a ideia de que, se uma coisa tem que acontecer, inútil será ocupar-se com ela, ou então procuraria obstar a que acontecesse. Não quis [Deus](Deus){:.l} que assim fosse, a fim de que cada um concorra para a realização das coisas, **até daquelas a que desejaria opor-se**. Assim é que tu mesmo preparas muitas vezes os acontecimentos que hão de sobrevir no curso da tua existência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.870 {#q870}
@@ -11976,7 +11976,7 @@ Mas, se convém que o futuro permaneça oculto, por que permite [Deus](Deus){:.l
 > <span class="emoji">👻</span> ▸ Permite-o, quando o conhecimento prévio do futuro facilite a execução de uma coisa, em vez de a estorvar, obrigando o homem a agir diversamente do modo por que agiria, se lhe não fosse feita a revelação. Não raro, também é uma prova. A perspectiva de um acontecimento pode sugerir pensamentos mais ou menos bons. Se um homem vem a saber, por exemplo, que vai receber uma herança, com que não conta, pode dar-se que a revelação desse fato desperte nele o sentimento da cobiça, pela perspectiva de se lhe tornarem possíveis maiores gozos terrenos, pela ânsia de possuir mais depressa a herança, desejando talvez, para que tal se dê, a [morte](Morte){:.w} daquele de quem herdará. Ou, então, essa perspectiva lhe inspirará bons sentimentos e pensamentos generosos. Se a predição não se cumpre, aí está outra prova, consistente na maneira por que suportará a decepção. Nem por isso, entretanto, lhe caberá menos o mérito ou o demérito dos pensamentos bons ou maus que a crença na ocorrência daquele fato lhe fez nascer no íntimo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.871 {#q871}
@@ -11992,7 +11992,7 @@ Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande 
 Quanto mais se reflete nas consequências que teria para o homem o conhecimento do futuro, melhor se vê quanto foi sábia a Providência em lho ocultar. A certeza de um acontecimento venturoso o lançaria na inação. A de um acontecimento infeliz o encheria de desânimo. Em ambos os casos, suas forças ficariam paralisadas. Daí o não lhe ser mostrado o futuro, senão como **meta** que lhe cumpre atingir por seus esforços, mas ignorando os trâmites por que terá de passar para alcançá-la. O conhecimento de todos os incidentes da jornada lhe tolheria a iniciativa e o uso do livre-arbítrio. Ele se deixaria resvalar pelo declive fatal dos acontecimentos, sem exercer suas faculdades. Quando o feliz êxito de uma coisa está assegurado, ninguém mais com ela se preocupa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Resumo teórico do móvel das ações humanas
@@ -12018,7 +12018,7 @@ No que concerne à [morte](Morte){:.w} é que o homem se acha submetido, em abso
 Segundo a [doutrina](doutrina){:.d} vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a [Doutrina](Espiritismo){:.l} Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a [Doutrina](Espiritismo){:.l} Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a [Deus](Deus){:.l} a força necessária e reclamando, para tal fim, a assistência dos bons [Espíritos](Espírito){:.w}. Foi o que [Jesus](Jesus){:.w} nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos:
 
 > <span class="emoji">✝️</span> ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
->  
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
@@ -12041,7 +12041,7 @@ O sentimento da justiça está na natureza, ou é resultado de ideias adquiridas
 > <span class="emoji">👻</span> ▸ Está de tal modo na natureza, que vos revoltais à simples ideia de uma injustiça. É fora de [dúvida](Dúvida){:.w} que o progresso moral desenvolve esse sentimento, mas não o dá. [Deus](Deus){:.l} o pôs no coração do homem. Daí vem que, frequentemente, em homens simples e incultos se vos deparam noções mais exatas da justiça do que nos que possuem grande cabedal de saber.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.874 {#q874}
@@ -12051,7 +12051,7 @@ Sendo a justiça uma Lei da Natureza, como se explica que os homens a entendam d
 > <span class="emoji">👻</span> ▸ É porque a esse sentimento se misturam paixões que o alteram, como sucede à maior parte dos outros sentimentos naturais, fazendo que os homens vejam as coisas por um prisma falso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.875 {#q875}
@@ -12061,7 +12061,7 @@ Como se pode definir a justiça?
 > <span class="emoji">👻</span> ▸ A justiça consiste em cada um respeitar os direitos dos demais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.875.a {#q875a}
@@ -12071,7 +12071,7 @@ Que é o que determina esses direitos?
 > <span class="emoji">👻</span> ▸ Duas coisas: a lei humana e a lei natural. Tendo os homens formulado leis apropriadas a seus costumes e caracteres, elas estabeleceram direitos mutáveis com o progresso das luzes. Vede se hoje as vossas leis, aliás imperfeitas, consagram os mesmos direitos que as da Idade Média. Entretanto, esses direitos antiquados, que agora se vos afiguram monstruosos, pareciam justos e naturais naquela época. Nem sempre, pois, é acorde com a justiça o direito que os homens prescrevem. Ademais, este direito regula apenas algumas relações sociais, quando é certo que, na vida particular, há uma imensidade de atos unicamente da alçada do tribunal da consciência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.876 {#q876}
@@ -12079,7 +12079,7 @@ Que é o que determina esses direitos?
 Posto de parte o direito que a lei humana consagra, qual a base da justiça, segundo a lei natural?
 
 > <span class="emoji">👻</span> ▸ Disse o [Cristo](Cristo){:.w}:
->  
+> 
 > <span class="emoji">✝️</span> ▸ *Queira cada um para os outros o que quereria para si mesmo.* (Livro, cap. X, vers. Y)
 >
 > No coração do homem imprimiu [Deus](Deus){:.l} a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria [consciência](Consciência){:.w} não lhe podia [Deus](Deus){:.l} haver dado.
@@ -12093,7 +12093,7 @@ Da necessidade que o homem tem de viver em sociedade, nascem-lhe obrigações es
 > <span class="emoji">👻</span> ▸ Certo e a primeira de todas é a de respeitar os direitos de seus semelhantes. Aquele que respeitar esses direitos procederá sempre com justiça. No vosso mundo, porque a maioria dos homens não pratica a lei de justiça, cada um usa de represálias. Essa a causa da perturbação e da confusão em que vivem as sociedades humanas. A vida social outorga direitos e impõe deveres recíprocos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.878 {#q878}
@@ -12103,7 +12103,7 @@ Podendo o homem enganar-se quanto à extensão do seu direito, que é o que lhe 
 > <span class="emoji">👻</span> ▸ O limite do direito que, com relação a si mesmo, reconhecer ao seu semelhante, em idênticas circunstâncias e reciprocamente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.878.a {#q878a}
@@ -12113,7 +12113,7 @@ Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que vi
 > <span class="emoji">👻</span> ▸ Os direitos naturais são os mesmos para todos os homens, desde os de condição mais humilde até os de posição mais elevada. [Deus](Deus){:.l} não fez uns de limo mais puro do que o de que se serviu para fazer os outros, e todos, aos seus olhos, são iguais. Esses direitos são eternos. Os que o homem estabeleceu perecem com as suas instituições. Ademais, cada um sente bem a sua força ou a sua fraqueza e saberá sempre ter uma certa deferência para com os que o mereçam por suas virtudes e sabedoria. É importante acentuar isto, para que os que se julgam superiores conheçam seus deveres, a fim de merecer essas deferências. A subordinação não se achará comprometida, quando a autoridade for deferida à sabedoria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.879 {#q879}
@@ -12123,7 +12123,7 @@ Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 > <span class="emoji">👻</span> ▸ O do verdadeiro justo, a exemplo de [Jesus](Jesus){:.w}, porquanto praticaria também o [amor](Amor){:.w} do próximo e a caridade, sem os quais não há verdadeira justiça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Direito de propriedade. Roubo {#lde-3-11-02}
@@ -12135,7 +12135,7 @@ Qual o primeiro de todos os direitos naturais do homem?
 > <span class="emoji">👻</span> ▸ O de viver. Por isso é que ninguém tem o de atentar contra a vida de seu semelhante, nem de fazer o que quer que possa comprometer-lhe a existência corporal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.881 {#q881}
@@ -12145,7 +12145,7 @@ O direito de viver dá ao homem o de acumular bens que lhe permitam repousar qua
 > <span class="emoji">👻</span> ▸ Dá, mas ele deve fazê-lo em família, como a abelha, por meio de um trabalho honesto, e não como egoísta. Há mesmo animais que lhe dão o exemplo de previdência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.882 {#q882}
@@ -12163,7 +12163,7 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 >O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.883 {#q883}
@@ -12173,7 +12173,7 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 > <span class="emoji">👻</span> ▸ Sim, mas quando o homem deseja possuir para si somente e para sua satisfação pessoal, o que há é egoísmo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.883.a {#q883a}
@@ -12183,7 +12183,7 @@ Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que te
 > <span class="emoji">👻</span> ▸ Há homens insaciáveis, que acumulam bens sem utilidade para ninguém, ou apenas para saciar suas paixões. Julgas que [Deus](Deus){:.l} vê isso com bons olhos? Aquele que, ao contrário, junta pelo trabalho, tendo em vista socorrer os seus semelhantes, pratica a lei de [amor](Amor){:.w} e caridade, e [Deus](Deus){:.l} abençoa o seu trabalho.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.884 {#q884}
@@ -12197,7 +12197,7 @@ Qual o caráter da legítima propriedade?
 Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, a lei de [amor](Amor){:.w} e de justiça nos proíbe, **ipso facto**, a aquisição de bens por quaisquer meios que lhe sejam contrários.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.885 {#q885}
@@ -12221,14 +12221,14 @@ Qual o verdadeiro sentido da palavra caridade, como a entendia [Jesus](Jesus){:.
 O [amor](Amor){:.w} e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de [Jesus](Jesus){:.w}:
 
 > <span class="emoji">✝️</span> ▸ *Amarás o teu próximo como a ti mesmo.*
->  
+> 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
 A caridade, segundo [Jesus](Jesus){:.w}, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.887 {#q887}
@@ -12238,7 +12238,7 @@ A caridade, segundo [Jesus](Jesus){:.w}, não se restringe à esmola, abrange to
 > <span class="emoji">👻</span> ▸ Certo, ninguém pode votar aos seus inimigos um [amor](Amor){:.w} terno e apaixonado. Não foi isso o que [Jesus](Jesus){:.w} entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Amor, inimigos e  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amor, inimigos e <a href="#amor">↩️</a>
 </details>
 
 ###### Q.888 {#q888}
@@ -12248,7 +12248,7 @@ Que se deve pensar da esmola?
 > <span class="emoji">👻</span> ▸ Condenando-se a pedir esmola, o homem se degrada física e moralmente: embrutece-se. Uma sociedade que se baseie na Lei de [Deus](Deus){:.l} e na justiça deve prover à vida do **fraco**, sem que haja para ele humilhação. Deve assegurar a existência dos que não podem trabalhar, sem lhes deixar a vida à **mercê do acaso** e da boa [vontade](Vontade){:.w} de alguns.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.888.a {#q888a}
@@ -12272,7 +12272,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa [D
 > São Vicente de Paulo
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Amor, conceito de  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amor, conceito de <a href="#amor">↩️</a>
 </details>
 
 ###### Q.889 {#q889}
@@ -12295,7 +12295,7 @@ Será uma virtude o [amor](Amor){:.w} materno, ou um sentimento instintivo, comu
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 👉 Veja <a href="#q205">Q.205</a> a <a href="#q.385">Q.385</a><br>
-<span class="emoji">🏷️</span> Amor, materno e filial  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amor, materno e filial <a href="#amor">↩️</a>
 </details>
 
 ###### Q.891 {#q891}
@@ -12305,7 +12305,7 @@ Estando na Natureza o [amor](Amor){:.w} materno, como é que há mães que odeia
 > <span class="emoji">👻</span> ▸ Às vezes, é uma prova que o [Espírito](Espírito){:.w} do filho escolheu, ou uma expiação, se aconteceu ter sido mau pai, ou mãe perversa, ou mau filho, noutra existência (👉 Veja [Q.392](#q392)). Em todos os casos, a mãe má não pode deixar de ser animada por um mau [Espírito](Espírito){:.w} que procura criar embaraços ao filho, a fim de que sucumba na prova que buscou. Essa violação das Leis da Natureza, porém, não ficará impune e o [Espírito](Espírito){:.w} do filho será recompensado pelos obstáculos de que haja triunfado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.892 {#q892}
@@ -12315,7 +12315,7 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 > <span class="emoji">👻</span> ▸ Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por encaminhar os filhos para o bem (👉 Veja [Q.582](#q582) a [Q.583](#q583)). Ademais, esses desgostos são, amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que semearam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ### 3-12. <span class="emoji">🗂️</span> Perfeição moral {#lde-3-12}
@@ -12329,7 +12329,7 @@ Qual a mais meritória de todas as virtudes?
 > <span class="emoji">👻</span> ▸ Toda virtude tem seu mérito próprio, porque todas indicam progresso na senda do bem. Há virtude sempre que há resistência voluntária ao arrastamento dos maus pendores. A sublimidade da virtude, porém, está no sacrifício do interesse pessoal, pelo bem do próximo, sem pensamento oculto. A mais meritória é a que assenta na mais desinteressada caridade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.894 {#q894}
@@ -12338,7 +12338,7 @@ Há pessoas que fazem o bem espontaneamente, sem que precisem vencer quaisquer s
 
 > <span class="emoji">👻</span> ▸ Só não têm que lutar aqueles em quem já há progresso realizado. Esses lutaram outrora e triunfaram. Por isso é que os bons sentimentos nenhum esforço lhes custam e suas ações lhes parecem simplíssimas. O bem se lhes tornou um hábito. Devidas lhes são as honras que se costuma tributar a velhos guerreiros que conquistaram seus altos postos.
 
-Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contraste com o que tendes à vista e tanto mais os admirais, quanto mais raros são. Ficai sabendo, porém, que, nos mundos mais adiantados do que o vosso, constitui a regra o que entre vós representa a exceção. Em todos os pontos desses mundos, o sentimento do bem é espontâneo, porque somente bons [Espíritos](Espírito){:.w} os habitam. Lá, uma só intenção maligna seria monstruosa exceção. Eis por que neles os homens são ditosos. O mesmo se dará na Terra, quando a [Humanidade](Natureza_humana){:.w} se houver transformado, quando compreender e praticar a caridade na sua verdadeira acepção.  
+Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contraste com o que tendes à vista e tanto mais os admirais, quanto mais raros são. Ficai sabendo, porém, que, nos mundos mais adiantados do que o vosso, constitui a regra o que entre vós representa a exceção. Em todos os pontos desses mundos, o sentimento do bem é espontâneo, porque somente bons [Espíritos](Espírito){:.w} os habitam. Lá, uma só intenção maligna seria monstruosa exceção. Eis por que neles os homens são ditosos. O mesmo se dará na Terra, quando a [Humanidade](Natureza_humana){:.w} se houver transformado, quando compreender e praticar a caridade na sua verdadeira acepção. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q897a">Q.897a</a>
@@ -12353,7 +12353,7 @@ Postos de lado os defeitos e os vícios acerca dos quais ninguém se pode equivo
 O apego às coisas materiais constitui sinal notório de inferioridade, porque, quanto mais se aferra aos bens deste mundo, tanto menos compreende o homem o seu destino. Pelo desinteresse, ao contrário, demonstra que encara de um ponto mais elevado o futuro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.896 {#q896}
@@ -12363,7 +12363,7 @@ Há pessoas desinteressadas, mas sem discernimento, que prodigalizam seus havere
 > <span class="emoji">👻</span> ▸ Têm o do desinteresse, porém, não o do bem que poderiam fazer. O desinteresse é uma virtude, mas a prodigalidade irrefletida constitui sempre, pelo menos, falta de juízo. A riqueza, assim como não é dada a uns para ser aferrolhada num cofre forte, também não o é a outros para ser dispersada ao vento. Representa um depósito de que uns e outros terão de prestar contas, porque terão de responder por todo o bem que podiam fazer e não fizeram, por todas as lágrimas que podiam ter estancado com o dinheiro que deram aos que dele não precisavam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.897 {#q897}
@@ -12373,7 +12373,7 @@ Merecerá reprovação aquele que faz o bem, sem visar a qualquer recompensa na 
 > <span class="emoji">👻</span> ▸ O bem deve ser feito caritativamente, isto é, com desinteresse.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.897.a {#q897a}
@@ -12393,7 +12393,7 @@ Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fazer
 > <span class="emoji">👻</span> ▸ Não, não. Quando dizemos — fazer o bem, queremos significar — ser caridoso. Procede como egoísta todo aquele que calcula o que lhe possa cada uma de suas boas ações render na vida futura, tanto quanto na vida terrena. Nenhum egoísmo, porém, há em querer o homem melhorar-se, para se aproximar de [Deus](Deus){:.l}, pois que é o fim para o qual devem todos tender.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.898 {#q898b}
@@ -12403,7 +12403,7 @@ Sendo a vida corpórea apenas uma estada temporária neste mundo e devendo o fut
 > <span class="emoji">👻</span> ▸ Sem dúvida. Primeiramente, isso vos põe em condições de auxiliar os vossos irmãos; depois, o vosso [Espírito](Espírito){:.w} subirá mais depressa, se já houver progredido em [inteligência](Inteligência){:.w}. Nos intervalos das encarnações, aprendereis numa hora o que na [Terra](Terra){:.w} vos exigiria anos de aprendizado. Nenhum conhecimento é inútil; todos mais ou menos contribuem para o progresso, porque o [Espírito](Espírito){:.w}, para ser perfeito, tem que saber tudo, e porque, cumprindo que o progresso se efetue em todos os sentidos, todas as ideias adquiridas ajudam o desenvolvimento do [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.899 {#q899}
@@ -12413,7 +12413,7 @@ Qual o mais culpado de dois homens ricos que empregam exclusivamente em gozos pe
 > <span class="emoji">👻</span> ▸ Aquele que conheceu os sofrimentos, porque sabe o que é sofrer. A dor, a que nenhum alívio procura dar, ele a conhece; porém, como frequentemente sucede, já dela se não lembra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.900 {#q900}
@@ -12423,7 +12423,7 @@ Aquele que incessantemente acumula haveres, sem fazer o bem a quem quer que seja
 > <span class="emoji">👻</span> ▸ É um compromisso com a [consciência](Consciência){:.w} má.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.901 {#q901}
@@ -12433,7 +12433,7 @@ Figuremos dois avarentos, um dos quais nega a si mesmo o necessário e morre de 
 > <span class="emoji">👻</span> ▸ O que goza, porque é mais egoísta do que avarento. O outro já recebeu parte do seu castigo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Avareza, demonstrações da  <a href="#avareza">↩️</a>
+<span class="emoji">🏷️</span> Avareza, demonstrações da <a href="#avareza">↩️</a>
 </details>
 
 ###### Q.902 {#q902}
@@ -12457,7 +12457,7 @@ Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em públ
 > <span class="emoji">👻</span> ▸ Depende do sentimento que o mova. Se o escritor apenas visa produzir escândalo, não faz mais do que proporcionar a si mesmo um gozo pessoal, apresentando quadros que constituem antes mau do que bom exemplo. O [Espírito](Espírito){:.w} aprecia isso, mas pode vir a ser punido por essa espécie de prazer que encontra em revelar o mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.904.a {#q904a}
@@ -12467,7 +12467,7 @@ Como, em tal caso, julgar da pureza das intenções e da sinceridade do escritor
 > <span class="emoji">👻</span> ▸ Nem sempre há nisso utilidade. Se ele escrever boas coisas, aproveitai-as. Se proceder mal, é uma questão de [consciência](Consciência){:.w} que lhe diz respeito, exclusivamente. Ademais, se o escritor tem empenho em provar a sua sinceridade, apoie o que disser nos exemplos que dê.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.905 {#q905}
@@ -12477,7 +12477,7 @@ Alguns autores hão publicado belíssimas obras de grande moral, que auxiliam o 
 > <span class="emoji">👻</span> ▸ A moral sem as ações é o mesmo que a semente sem o trabalho. De que vos serve a semente, se não a fazeis dar frutos que vos alimentem? Grave é a culpa desses homens, porque dispunham de [inteligência](Inteligência){:.w} para compreender. Não praticando as máximas que ofereciam aos outros, renunciaram a colher-lhes os frutos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Autor, pregação e  <a href="#autor">↩️</a>
+<span class="emoji">🏷️</span> Autor, pregação e <a href="#autor">↩️</a>
 </details>
 
 ###### Q.906 {#q906}
@@ -12499,7 +12499,7 @@ Será substancialmente mau o princípio originário das paixões, embora esteja 
 > <span class="emoji">👻</span> ▸ Não; a paixão está no excesso de que se acresceu a vontade, visto que o princípio que lhe dá origem foi posto no homem para o bem, tanto que as paixões podem levá-lo à realização de grandes coisas. O abuso que delas se faz é que causa o mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.908 {#q908}
@@ -12517,7 +12517,7 @@ Toda paixão que aproxima o homem da natureza animal afasta-o da natureza espiri
 Todo sentimento que eleva o homem acima da natureza animal denota predominância do [Espírito](Espírito){:.w} sobre a matéria e o aproxima da perfeição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.909 {#q909}
@@ -12543,7 +12543,7 @@ Não haverá paixões tão vivas e irresistíveis, que a [vontade](Vontade){:.w}
 > <span class="emoji">👻</span> ▸ Há muitas pessoas que dizem: Quero, mas a [vontade](Vontade){:.w} só lhes está nos lábios. Querem, porém muito satisfeitas ficam que não seja como ‘querem’. Quando o homem crê que não pode vencer as suas paixões, é que seu [Espírito](Espírito){:.w} se compraz nelas, em consequência da sua inferioridade. Compreende a sua natureza espiritual aquele que as procura reprimir. Vencê-las é, para ele, uma vitória do [Espírito](Espírito){:.w} sobre a matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.912 {#q912}
@@ -12553,7 +12553,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 > <span class="emoji">👻</span> ▸ Praticar a abnegação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> O egoísmo {#lde-3-12-03}
@@ -12565,7 +12565,7 @@ Dentre os vícios, qual o que se pode considerar radical?
 > <span class="emoji">👻</span> ▸ Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a causa. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o [amor](Amor){:.w} e a caridade. Ele neutraliza todas as outras qualidades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.914 {#q914}
@@ -12575,7 +12575,7 @@ Fundando-se o egoísmo no sentimento do interesse pessoal, bem difícil parece e
 > <span class="emoji">👻</span> ▸ À medida que os homens se instruem acerca das coisas espirituais, menos valor dão às coisas materiais. Depois, necessário é que se reformem as instituições humanas que o entretêm e excitam. Isso depende da educação.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.915 {#q915}
@@ -12601,9 +12601,9 @@ Qual o meio de destruir-se o egoísmo?
 > <span class="emoji">👻</span> ▸ De todas as imperfeições humanas, o egoísmo é a mais difícil de desenraizar-se porque deriva da influência da matéria, influência de que o homem, ainda muito próximo de sua origem, não pôde libertar-se e para cujo entretenimento tudo concorre: suas leis, sua organização social, sua educação. O egoísmo se enfraquecerá à proporção que a vida moral for predominando sobre a vida material e, sobretudo, com a compreensão, que o [Espiritismo](Espiritismo){:.l} vos faculta, do vosso estado futuro, real e não desfigurado por ficções alegóricas. Quando, bem compreendido, se houver identificado com os costumes e as crenças, o [Espiritismo](Espiritismo){:.l} transformará os hábitos, os usos, as relações sociais. O egoísmo assenta na importância da personalidade. Ora, o [Espiritismo](Espiritismo){:.l}, bem compreendido, repito, mostra as coisas de tão alto que o sentimento da personalidade desaparece, de certo modo, diante da imensidade. Destruindo essa importância, ou, pelo menos, reduzindo-a às suas legítimas proporções, ele necessariamente combate o egoísmo.
 >
 > O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes o faz egoísta, por sentir a necessidade de colocar-se na defensiva. Notando que os outros pensam em si próprios e não nele, ei-lo levado a ocupar-se consigo, mais do que com os outros. Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade e cada um pensará menos na sua pessoa, assim veja que outros nela pensaram. Todos experimentarão a influência moralizadora do exemplo e do contato. Em face do atual extravasamento de egoísmo, grande virtude é verdadeiramente necessária, para que alguém renuncie à sua personalidade em proveito dos outros, que, de ordinário, absolutamente lhe não agradecem. Principalmente para os que possuem essa virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos, pois em [verdade](Verdade){:.w} vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver, todo aquele que em si somente houver pensado. 
->  
-> 👉 Veja [Q.785](#q785)  
->  
+> 
+> <span class="emoji">👉</span> Veja [Q.785](#q785) 
+> 
 > Fénelon
 {:.spirit-multi}
 
@@ -12620,7 +12620,7 @@ O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo.
 O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Caracteres do homem de bem {#lde-3-12-04}
@@ -12648,8 +12648,8 @@ Não é vingativo. A exemplo de [Jesus](Jesus){:.w}, perdoa as ofensas, para só
 Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Amor, felicidade e  <a href="#amor">↩️</a><br>
-<span class="emoji">🏷️</span> Amor, homem de bem e o  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amor, felicidade e <a href="#amor">↩️</a><br>
+<span class="emoji">🏷️</span> Amor, homem de bem e o <a href="#amor">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Conhecimento de si mesmo {#lde-3-12-05}
@@ -12658,11 +12658,11 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal?
 
-> <span class="emoji">👻</span> ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24]  
+> <span class="emoji">👻</span> ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24] 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q906">Q.906</a><br>
-<span class="emoji">🏷️</span> Autenticidade, autoconhecimento e  <a href="#autenticidade">↩️</a>
+<span class="emoji">🏷️</span> Autenticidade, autoconhecimento e <a href="#autenticidade">↩️</a>
 </details>
 
 ###### Q.919.a {#q919a}
@@ -12683,9 +12683,9 @@ Concebemos toda a [sabedoria](Sabedoria){:.w} desta máxima, porém a dificuldad
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Ação, mérito e  <a href="#acao">↩️</a><br>
-<span class="emoji">🏷️</span> Agostinho, conselho de  <a href="#agostinho">↩️</a><br>
-<span class="emoji">🏷️</span> Avaliação, ações e atitudes do cotidiano em constante  <a href="#avaliacao">↩️</a>
+<span class="emoji">🏷️</span> Ação, mérito e <a href="#acao">↩️</a><br>
+<span class="emoji">🏷️</span> Agostinho, conselho de <a href="#agostinho">↩️</a><br>
+<span class="emoji">🏷️</span> Avaliação, ações e atitudes do cotidiano em constante <a href="#avaliacao">↩️</a>
 </details>
 
 ## 4. <span class="emoji">🗃️</span> Esperanças e Consolações {#lde-4}
@@ -12701,7 +12701,7 @@ Pode o homem gozar de completa felicidade na Terra?
 > <span class="emoji">👻</span> ▸ Não, por isso que a vida lhe foi dada como prova ou expiação. Dele, porém, depende a suavização de seus males e o ser tão feliz quanto possível na Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.921 {#q921}
@@ -12715,7 +12715,7 @@ Aquele que se acha bem compenetrado de seu destino futuro não vê na vida corpo
 Já nesta vida somos punidos pelas infrações que cometemos das leis que regem a existência corpórea, sofrendo os males consequentes dessas mesmas infrações e dos nossos próprios excessos. Se, gradativamente, remontarmos à origem do que chamamos as nossas desgraças terrenas, veremos que, na maioria dos casos, elas são a consequência de um primeiro afastamento nosso do caminho reto. Desviando-nos deste, enveredamos por outro, mau, e, de consequência em consequência, caímos na desgraça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.922 {#q922}
@@ -12725,7 +12725,7 @@ A felicidade terrestre é relativa à posição de cada um. O que basta para a f
 > <span class="emoji">👻</span> ▸ Com relação à vida material, é a posse do necessário. Com relação à vida moral, a [consciência](Consciência){:.w} tranquila e a fé no futuro.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.923 {#q923}
@@ -12745,7 +12745,7 @@ Há males que independem da maneira de proceder do homem e que atingem mesmo os 
 > <span class="emoji">👻</span> ▸ Deve resignar-se e sofrê-los sem murmurar, se quer progredir. Sempre, porém, lhe é dado haurir consolação na própria consciência, que lhe proporciona a esperança de melhor futuro, se fizer o que é preciso para obtê-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.925 {#q925}
@@ -12767,9 +12767,9 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 > <span class="emoji">✝️</span> ▸ *… bem-aventurados os que choram, porque eles serão consolados ….* [Mateus](Mateus_(evangelista)){:.w}, [cap. 05](Mateus_5){:.w}, [vers. 04](MAT.5.ARC){:.b}, [ARC][ARC]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Aflição, desejo e  <a href="#aflicao">↩️</a><br>
-<span class="emoji">🏷️</span> Aflição, inveja e  <a href="#aflicao">↩️</a><br>
-<span class="emoji">🏷️</span> Aflição, necessidades e  <a href="#aflicao">↩️</a>
+<span class="emoji">🏷️</span> Aflição, desejo e <a href="#aflicao">↩️</a><br>
+<span class="emoji">🏷️</span> Aflição, inveja e <a href="#aflicao">↩️</a><br>
+<span class="emoji">🏷️</span> Aflição, necessidades e <a href="#aflicao">↩️</a>
 </details>
 
 ###### Q.927 {#q927}
@@ -12779,7 +12779,7 @@ Não há [dúvida](Dúvida){:.w} que, à felicidade, o supérfluo não é forço
 > <span class="emoji">👻</span> ▸ Verdadeiramente infeliz o homem só o é quando sofre da falta do necessário à vida e à saúde do corpo. Todavia, pode acontecer que essa privação seja de sua culpa. Então, só tem que se queixar de si mesmo. Se for ocasionada por outrem, a responsabilidade recairá sobre aquele que lhe houver dado causa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.928 {#q928}
@@ -12789,7 +12789,7 @@ Evidentemente, por meio da especialidade das aptidões naturais, [Deus](Deus){:.
 > <span class="emoji">👻</span> ▸ Assim é, de fato, e muitas vezes são os pais que, por orgulho ou avareza, desviam seus filhos da senda que a natureza lhes traçou, comprometendo-lhes a felicidade, por efeito desse desvio. Responderão por ele.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.928.a {#q928a}
@@ -12801,7 +12801,7 @@ Acharíeis então justo que o filho de um homem altamente colocado na sociedade 
 No afastarem-se os homens da sua esfera intelectual reside indubitavelmente uma das mais frequentes causas de decepção. A inaptidão para a carreira abraçada constitui fonte inesgotável de reveses. Depois, o amor-próprio, sobrevindo a tudo isso, impede que o que fracassou recorra a uma profissão mais humilde e lhe mostra o suicídio como remédio para escapar ao que se lhe afigura humilhação. Se uma educação moral o houvesse colocado acima dos tolos preconceitos do orgulho, jamais se teria deixado apanhar desprevenido.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.929 {#q929}
@@ -12811,7 +12811,7 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 > <span class="emoji">👻</span> ▸ Nunca ninguém deve ter a ideia de deixar-se morrer de fome. O homem acharia sempre meio de se alimentar, se o orgulho não se colocasse entre a necessidade e o trabalho. Costuma-se dizer: ‘Não há ofício desprezível; o seu estado não é o que desonra o homem’. Isso, porém, cada um diz para os outros e não para si.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.930 {#q930}
@@ -12833,7 +12833,7 @@ Por que são mais numerosas, na sociedade, as classes sofredoras do que as feliz
 > <span class="emoji">👻</span> ▸ Nenhuma é perfeitamente feliz e o que julgais ser a felicidade muitas vezes oculta pungentes aflições. O sofrimento está por toda parte. Entretanto, para responder ao teu pensamento, direi que as classes a que chamas sofredoras são mais numerosas, por ser a [Terra](Terra){:.w} lugar de expiação. Quando a houver transformado em morada do bem e de [Espíritos](Espírito){:.w} bons, o homem deixará de ser infeliz aí e ela lhe será o paraíso terrestre.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.932 {#q932}
@@ -12843,7 +12843,7 @@ Por que, no mundo, tão amiúde, a influência dos maus sobrepuja a dos bons?
 > <span class="emoji">👻</span> ▸ Por fraqueza destes. Os maus são intrigantes e audaciosos, os bons são tímidos. Quando estes o quiserem, preponderarão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.933 {#q933}
@@ -12863,7 +12863,7 @@ Aquele que só vê felicidade na satisfação do orgulho e dos apetites grosseir
 Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra no **sentimento cristão, que lhe dá a esperança de melhor futuro, e no [Espiritismo](Espiritismo){:.l}, que lhe dá a certeza desse futuro**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, torturas da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, torturas da <a href="#alma">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Perda dos entes queridos
@@ -12887,7 +12887,7 @@ Que se deve pensar da opinião dos que consideram profanação as comunicações
 A possibilidade de nos pormos em comunicação com os [Espíritos](Espírito){:.w} é uma dulcíssima consolação, pois que nos proporciona meio de conversarmos com os nossos parentes e amigos, que deixaram antes de nós a Terra. Pela evocação, aproximamo-los de nós, eles vêm colocar-se ao nosso lado, nos ouvem e respondem. Cessa assim, por bem dizer, toda separação entre eles e nós. Auxiliam-nos com seus conselhos, testemunham-nos o afeto que nos guardam e a alegria que experimentam por nos lembrarmos deles. Para nós, grande satisfação é sabê-los ditosos, informar-nos, **por seu intermédio**, dos pormenores da nova existência a que passaram e adquirir a certeza de que um dia nos iremos a eles juntar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Além-túmulo, comunicação com o  <a href="#alem-tumulo">↩️</a>
+<span class="emoji">🏷️</span> Além-túmulo, comunicação com o <a href="#alem-tumulo">↩️</a>
 </details>
 
 ###### Q.936 {#q936}
@@ -12905,7 +12905,7 @@ Pelas provas patentes, que ministra, da vida futura, da presença, em torno de n
 Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Aceitação, perda de entes queridos e  <a href="#aceitacao">↩️</a>
+<span class="emoji">🏷️</span> Aceitação, perda de entes queridos e <a href="#aceitacao">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Decepções. Ingratidão. Afeições destruídas
@@ -12917,7 +12917,7 @@ Para o homem de coração, as decepções oriundas da ingratidão e da fragilida
 > <span class="emoji">👻</span> ▸ São, porém, deveis lastimar os ingratos e os infiéis; serão muito mais infelizes do que vós. A ingratidão é filha do egoísmo e o egoísta topará mais tarde com corações insensíveis, como o seu próprio o foi. Lembrai-vos de todos os que hão feito mais bem do que vós, que valeram muito mais do que vós e que tiveram por paga a ingratidão. Lembrai-vos de que o próprio [Jesus](Jesus){:.w} foi, quando no mundo, injuriado e menosprezado, tratado de velhaco e impostor, e não vos admireis de que o mesmo vos suceda. Seja o bem que houverdes feito a vossa recompensa na [Terra](Terra){:.w} e não atenteis no que dizem os que hão recebido os vossos benefícios. A ingratidão é uma prova para a vossa perseverança na prática do bem; ser-vos-á levada em conta e os que vos forem ingratos serão tanto mais punidos, quanto maior lhes tenha sido a ingratidão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Amizade, ingratidão e  <a href="#amizade">↩️</a>
+<span class="emoji">🏷️</span> Amizade, ingratidão e <a href="#amizade">↩️</a>
 </details>
 
 ###### Q.938 {#q938}
@@ -12927,7 +12927,7 @@ As decepções oriundas da ingratidão não serão de molde a endurecer o coraç
 > <span class="emoji">👻</span> ▸ Fora um erro, porquanto o homem de coração, como dizes, se sente sempre feliz pelo bem que faz. Sabe que, se esse bem for esquecido nesta vida, será lembrado em outra e que o ingrato se envergonhará e terá remorsos da sua ingratidão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.938.a {#q938a}
@@ -12939,9 +12939,9 @@ Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nasce
 A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores gozos que lhe são concedidos na [Terra](Terra){:.w} é o de encontrar corações que com o seu simpatizem. Dá-lhe ela, assim, as primícias da felicidade que o aguarda no mundo dos [Espíritos](Espírito){:.w} perfeitos, onde tudo é [amor](Amor){:.w} e benignidade. Desse gozo está excluído o egoísta.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Amizade, ingratidão e  <a href="#amizade">↩️</a><br>
-<span class="emoji">🏷️</span> Amor, espíritos e sentimento de  <a href="#amor">↩️</a><br>
-<span class="emoji">🏷️</span> Amor, necessidade do  <a href="#amor">↩️</a>
+<span class="emoji">🏷️</span> Amizade, ingratidão e <a href="#amizade">↩️</a><br>
+<span class="emoji">🏷️</span> Amor, espíritos e sentimento de <a href="#amor">↩️</a><br>
+<span class="emoji">🏷️</span> Amor, necessidade do <a href="#amor">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Uniões antipáticas
@@ -12955,9 +12955,9 @@ Uma vez que os [Espíritos](Espírito){:.w} simpáticos são induzidos a unir-se
 Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequência tomar-se uma pela outra. Quando pura e simpática, a afeição da [alma](Alma){:.l} é duradoura; efêmera a do corpo. Daí vem que, muitas vezes, os que julgavam amar-se com eterno [amor](Amor){:.w} passam a odiar-se, desde que a ilusão se desfaça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Afeição, física e espiritual  <a href="#afeicao">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, afeição do corpo e da  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Amor, reciprocidade no  <a href="#amor">↩️</a><br>
+<span class="emoji">🏷️</span> Afeição, física e espiritual <a href="#afeicao">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, afeição do corpo e da <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Amor, reciprocidade no <a href="#amor">↩️</a><br>
 <span class="emoji">🏷️</span> Antipatia, união e <a href="#antipatia">↩️</a>
 </details>
 
@@ -12968,7 +12968,7 @@ Não constitui igualmente fonte de dissabores, tanto mais amargos quanto envenen
 > <span class="emoji">👻</span> ▸ Amaríssimos, com efeito. Essa, porém, é uma das infelicidades de que sois, as mais das vezes, a causa principal. Em primeiro lugar, o erro é das vossas leis. Julgas, porventura, que [Deus](Deus){:.l} te constranja a permanecer junto dos que te desagradam? Depois, nessas uniões, ordinariamente buscais a satisfação do orgulho e da ambição, mais do que a ventura de uma afeição mútua. Sofreis então as consequências dos vossos prejuízos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antipatia, casamento e  <a href="#antipatia">↩️</a>
+<span class="emoji">🏷️</span> Antipatia, casamento e <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.940.a {#q940a}
@@ -12978,7 +12978,7 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 > <span class="emoji">👻</span> ▸ Há e para ela é uma dura expiação, mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores. Se a luz da [verdade](Verdade){:.w} já lhe houver penetrado a alma, em sua fé no futuro haurirá consolação. Todavia, à medida que os preconceitos se enfraquecerem, as causas dessas desgraças íntimas também desaparecerão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Temor da morte
@@ -12997,7 +12997,7 @@ O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na 
 O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao [Espírito](Espírito){:.w} calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.942 {#q942}
@@ -13007,7 +13007,7 @@ Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz
 > <span class="emoji">👻</span> ▸ Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Desgosto da vida. Suicídio
@@ -13019,7 +13019,7 @@ Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de cert
 > <span class="emoji">👻</span> ▸ Efeito da ociosidade, da falta de fé e, também, da saciedade. Para aquele que usa de suas faculdades com fim útil **e de acordo com as suas aptidões naturais**, o trabalho nada tem de árido e a vida se escoa mais rapidamente. Ele lhe suporta as vicissitudes com tanto mais paciência e resignação, quanto obra com o fito da felicidade mais sólida e mais durável que o espera.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.944 {#q944}
@@ -13029,7 +13029,7 @@ Tem o homem o direito de dispor da sua vida?
 > <span class="emoji">👻</span> ▸ Não; só a [Deus](Deus){:.l} assiste esse direito. O suicídio voluntário importa numa transgressão desta lei.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.944.a {#q944a}
@@ -13039,7 +13039,7 @@ Não é sempre voluntário o suicídio?
 > <span class="emoji">👻</span> ▸ O louco que se mata não sabe o que faz.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.945 {#q945}
@@ -13049,7 +13049,7 @@ Que se deve pensar do suicídio que tem como causa o desgosto da vida?
 > <span class="emoji">👻</span> ▸ Insensatos! Por que não trabalhavam? A existência não lhes teria sido tão pesada.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.946 {#q946}
@@ -13059,7 +13059,7 @@ E do suicídio cujo fim é fugir, aquele que o comete, às misérias e às decep
 > <span class="emoji">👻</span> ▸ Pobres [Espíritos](Espírito){:.w}, que não têm a coragem de suportar as misérias da existência! [Deus](Deus){:.l} ajuda aos que sofrem e não aos que carecem de energia e de coragem. As tribulações da vida são provas ou expiações. Felizes os que as suportam sem se queixar, porque serão recompensados! Ai, porém, daqueles que esperam a salvação do que, na sua impiedade, chamam acaso ou fortuna! O acaso, ou a fortuna, para me servir da linguagem deles, podem, com efeito, favorecê-los por um momento, mas para lhes fazer sentir mais tarde, cruelmente, a vacuidade dessas palavras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.946.a {#q946a}
@@ -13069,7 +13069,7 @@ Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as conseq
 > <span class="emoji">👻</span> ▸ Oh! esses, ai deles! Responderão como por um assassínio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.947 {#q947}
@@ -13079,7 +13079,7 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 > <span class="emoji">👻</span> ▸ É um suicídio, mas os que lhe foram causa, ou que teriam podido impedi-lo, são mais culpados do que ele, a quem a indulgência espera. Todavia, não penseis que seja totalmente absolvido, se lhe faltaram firmeza e perseverança e se não usou de toda a sua [inteligência](Inteligência){:.w} para sair do atoleiro. Ai dele, sobretudo, se o seu desespero nasce do orgulho. Quero dizer: se for desses homens em quem o orgulho anula os recursos da [inteligência](Inteligência){:.w}, que corariam de dever a existência ao trabalho de suas mãos e que preferem morrer de fome a renunciar ao que chamam sua posição social! Não haverá mil vezes mais grandeza e dignidade em lutar contra a adversidade, em afrontar a crítica de um mundo fútil e egoísta, que só tem boa [vontade](Vontade){:.w} para com aqueles a quem nada falta e que vos volta as costas assim precisais dele? Sacrificar a vida à consideração desse mundo é estultícia, porquanto ele a isso nenhum apreço dá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.948 {#q948}
@@ -13089,7 +13089,7 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 > <span class="emoji">👻</span> ▸ O suicídio não apaga a falta. Ao contrário, em vez de uma, haverá duas. Quando se teve a coragem de praticar o mal, é preciso ter-se a de lhe sofrer as consequências. [Deus](Deus){:.l}, que julga, pode, conforme a causa, abrandar os rigores de sua justiça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.949 {#q949}
@@ -13101,7 +13101,7 @@ Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha cai
 Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, prova que dá mais apreço à estima dos homens do que à de [Deus](Deus){:.l}, visto que volta para a vida espiritual carregado de suas iniquidades, tendo-se privado dos meios de repará-las durante a vida corpórea. [Deus](Deus){:.l}, geralmente, é menos inexorável do que os homens. Perdoa aos que sinceramente se arrependem e atende à reparação. O suicida nada repara.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.950 {#q950}
@@ -13111,7 +13111,7 @@ Que pensar daquele que se mata, na esperança de chegar mais depressa a uma vida
 > <span class="emoji">👻</span> ▸ Outra loucura! Que faça o bem e mais certo estará de lá chegar, pois, matando-se, retarda a sua entrada num mundo melhor e terá que pedir lhe seja permitido voltar, para concluir a vida a que pôs termo sob o influxo de uma ideia falsa. Uma falta, seja qual for, jamais abre a ninguém o santuário dos eleitos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.951 {#q951}
@@ -13123,7 +13123,7 @@ Não é, às vezes, meritório o sacrifício da vida, quando aquele que o faz vi
 Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato soberanamente meritório aos olhos de [Deus](Deus){:.l}, porque resulta da prática da lei de caridade. Ora, sendo a vida o bem terreno a que maior apreço dá o homem, não comete atentado o que a ela renuncia pelo bem de seus semelhantes: cumpre um sacrifício; mas, antes de o cumprir, deve refletir sobre se sua vida não será mais útil do que sua morte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.952 {#q952}
@@ -13133,7 +13133,7 @@ Comete suicídio o homem que perece vítima de paixões que ele sabia lhe haviam
 > <span class="emoji">👻</span> ▸ É um suicídio moral. Não percebeis que, nesse caso, o homem é duplamente culpado? Há nele então falta de coragem e bestialidade, acrescidas do esquecimento de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.952.a {#q952a}
@@ -13143,7 +13143,7 @@ Será mais, ou menos, culpado do que o que tira a si mesmo a vida por desespero?
 > <span class="emoji">👻</span> ▸ É mais culpado, porque tem tempo de refletir sobre o seu suicídio. Naquele que o faz instantaneamente, há, muitas vezes, uma espécie de desvairamento, que alguma coisa tem da loucura. O outro será muito mais punido, por isso que as penas são proporcionadas sempre à [consciência](Consciência){:.w} que o culpado tem das faltas que comete.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.953 {#q953}
@@ -13159,7 +13159,7 @@ Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; m
 > <span class="emoji">👻</span> ▸ É sempre uma falta de resignação e de submissão à [vontade](Vontade){:.w} do [Criador](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.953.b {#q953b}
@@ -13169,7 +13169,7 @@ Quais, nesse caso, as consequências de tal ato?
 > <span class="emoji">👻</span> ▸ Uma [expiação](Expiação){:.l} proporcionada, como sempre, à gravidade da falta, de acordo com as circunstâncias.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.954 {#q954}
@@ -13179,7 +13179,7 @@ Será condenável uma imprudência que compromete a vida sem necessidade?
 > <span class="emoji">👻</span> ▸ Não há culpabilidade, quando não há intenção ou [consciência](Consciência){:.w} perfeita da prática do mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.955 {#q955}
@@ -13189,19 +13189,19 @@ Podem ser consideradas suicidas e sofrem as consequências de um suicídio as mu
 > <span class="emoji">👻</span> ▸ Obedecem a um preconceito e, muitas vezes, mais à força do que por vontade. Julgam cumprir um dever e esse não é o caráter do suicídio. Encontram desculpa na nulidade moral que as caracteriza, na sua maioria, e na ignorância em que se acham. Esses usos bárbaros e estúpidos desaparecem com o advento da civilização.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.956 {#q956}
 
 Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de pessoas que lhes eram caras, se matam na esperança de ir juntar-se-lhes?
 
-> <span class="emoji">👻</span> ▸ Muito diverso do que esperam é o resultado que colhem. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por longo tempo, pois não é possível que [Deus](Deus){:.l} recompense um ato de covardia e o insulto que lhe fazem com o duvidarem da sua providência. Pagarão esse instante de [loucura](Loucura){:.w} com aflições maiores do que as que pensaram abreviar e não terão, para compensá-las, a satisfação que esperavam.  
+> <span class="emoji">👻</span> ▸ Muito diverso do que esperam é o resultado que colhem. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por longo tempo, pois não é possível que [Deus](Deus){:.l} recompense um ato de covardia e o insulto que lhe fazem com o duvidarem da sua providência. Pagarão esse instante de [loucura](Loucura){:.w} com aflições maiores do que as que pensaram abreviar e não terão, para compensá-las, a satisfação que esperavam. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 👉 Veja <a href="#q934">Q.934</a> e seguintes.<br>
 ↩️ Voltar para <a href="#q934">Q.934</a><br>
-<span class="emoji">🏷️</span> Além-túmulo, suicídio e falso entendimento das relações no  <a href="#alem-tumulo">↩️</a>
+<span class="emoji">🏷️</span> Além-túmulo, suicídio e falso entendimento das relações no <a href="#alem-tumulo">↩️</a>
 </details> 
 
 ###### Q.957 {#q957}
@@ -13219,7 +13219,7 @@ A afinidade que permanece entre o [Espírito](Espírito){:.w} e o corpo produz, 
 A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao [Espiritismo](Espiritismo){:.l} estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Afinidade, Espírito e corpo físico em total  <a href="#afinidade">↩️</a>
+<span class="emoji">🏷️</span> Afinidade, Espírito e corpo físico em total <a href="#afinidade">↩️</a>
 </details>
 
 ### 4-02. <span class="emoji">🗂️</span> Penas e felicidades futuras {#lde-4-02}
@@ -13233,7 +13233,7 @@ Por que tem o homem, instintivamente, horror ao nada?
 > <span class="emoji">👻</span> ▸ Porque o nada não existe.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.959 {#q959}
@@ -13250,7 +13250,7 @@ A ideia do nada tem qualquer coisa que repugna à razão. O homem que mais despr
 
 Crer em [Deus](Deus){:.l}, sem admitir a vida futura, fora um contrassenso. O sentimento de uma existência melhor reside no foro íntimo de todos os homens e não é possível que [Deus](Deus){:.l} aí o tenha colocado em vão.
 
-A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada.  
+A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q984">Q.984</a>
@@ -13265,7 +13265,7 @@ Donde se origina a crença, com que deparamos entre todos os povos, na existênc
 > <span class="emoji">👻</span> ▸ É sempre a mesma coisa: pressentimento da realidade, trazido ao homem pelo [Espírito](Espírito){:.w} nele encarnado. Porque, sabei-o bem, não é debalde que uma voz interior vos fala. O vosso erro consiste em não lhe prestardes bastante atenção. Melhores vos tornaríeis, se nisso pensásseis muito, e muitas vezes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.961 {#q961}
@@ -13275,7 +13275,7 @@ Qual o sentimento que domina a maioria dos homens no momento da morte: a dúvida
 > <span class="emoji">👻</span> ▸ A dúvida, nos céticos empedernidos; o temor, nos culpados; a esperança, nos homens de bem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.962 {#q962}
@@ -13289,7 +13289,7 @@ A responsabilidade dos nossos atos é a consequência da realidade da vida futur
 A ideia que, mediante a [sabedoria](Sabedoria){:.w} de suas leis, [Deus](Deus){:.l} nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intervenção de Deus nas penas e recompensas
@@ -13301,7 +13301,7 @@ Com cada homem, pessoalmente, [Deus](Deus){:.l} se ocupa? Não é Ele muito gran
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} se ocupa com todos os seres que criou, por mais pequeninos que sejam. Nada, para a sua bondade, é destituído de valor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.964 {#q964}
@@ -13323,7 +13323,7 @@ Um pai deu a seu filho educação e instrução, isto é, os meios de se guiar. 
 Não é [verdade](Verdade){:.w} que esse campo produzirá na [razão](Razão){:.w} dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. [Deus](Deus){:.l} ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os [Espíritos](Espírito){:.w} para nos inspirarem, porém não os escutamos. Há mais esta diferença: [Deus](Deus){:.l} faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Natureza das penas e gozos futuros
@@ -13336,8 +13336,8 @@ Têm alguma coisa de material as penas e gozos da [alma](Alma){:.l} depois da mo
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 👉 Veja <a href="#q237">Q.237</a> a <a href="#q257">Q.257</a><br>
-<span class="emoji">🏷️</span> Alma, matéria e  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, sensações da  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, matéria e <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, sensações da <a href="#alma">↩️</a>
 </details>
 
 ###### Q.966 {#q966}
@@ -13347,7 +13347,7 @@ Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira 
 > <span class="emoji">👻</span> ▸ Inteligência que ainda se não desenvolveu bastante. Compreende a criança as coisas como o adulto? Isso, ademais, depende também do que se lhe ensinou: aí é que há necessidade de uma reforma. Muitíssimo incompleta é a vossa linguagem, para exprimir o que está fora de vós. Teve-se então que recorrer a comparações e tomastes como realidade as imagens e figuras que serviram para essas comparações. À medida, porém, que o homem se instrui, melhor vai compreendendo o que a sua linguagem não pode exprimir.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.967 {#q967}
@@ -13357,7 +13357,7 @@ Em que consiste a felicidade dos bons [Espíritos](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Em conhecerem todas as coisas; em não sentirem ódio, nem ciúme, nem inveja, nem ambição, nem qualquer das paixões que ocasionam a desgraça dos homens. O [amor](Amor){:.w} que os une lhes é fonte de suprema felicidade. Não experimentam as necessidades, nem os sofrimentos, nem as angústias da vida material. São felizes pelo bem que fazem. Contudo, a felicidade dos [Espíritos](Espírito){:.w} é proporcional à elevação de cada um. Somente os puros [Espíritos](Espírito){:.w} gozam, é exato, da felicidade suprema, mas nem todos os outros são infelizes. Entre os maus e os perfeitos há uma infinidade de graus em que os gozos são relativos ao estado moral. Os que já estão bastante adiantados compreendem a ventura dos que os precederam e aspiram a alcançá-la, mas esta aspiração lhes constitui uma causa de emulação, não de ciúme. Sabem que deles depende o consegui-la e para a conseguirem trabalham, porém com a calma da [consciência](Consciência){:.w} tranquila e ditosos se consideram por não terem que sofrer o que sofrem os maus.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.968 {#q968}
@@ -13367,7 +13367,7 @@ Citais, entre as condições da felicidade dos bons [Espíritos](Espírito){:.w}
 > <span class="emoji">👻</span> ▸ Sim, gozos do animal. Quando não podes satisfazer a essas necessidades, passas por uma tortura.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.969 {#q969}
@@ -13377,7 +13377,7 @@ Que se deve entender quando é dito que os [Espíritos](Espírito){:.w} puros se
 > <span class="emoji">👻</span> ▸ É uma alegoria indicativa da [inteligência](Inteligência){:.w} que eles têm das perfeições de [Deus](Deus){:.l}, porque o veem e compreendem, mas que, como muitas outras, não se deve tomar ao pé da letra. Tudo na Natureza, desde o grão de areia, canta, isto é, proclama o poder, a [sabedoria](Sabedoria){:.w} e a bondade de [Deus](Deus){:.l}. Não creias, todavia, que os [Espíritos](Espírito){:.w} bem-aventurados estejam em contemplação por toda a eternidade. Seria uma bem-aventurança estúpida e monótona. Fora, além disso, a felicidade do egoísta, porquanto a existência deles seria uma inutilidade sem-termo. Estão isentos das tribulações da vida corpórea: já é um gozo. Depois, como dissemos, conhecem e sabem todas as coisas; dão útil emprego à [inteligência](Inteligência){:.w} que adquiriram, auxiliando os progressos dos outros [Espíritos](Espírito){:.w}. Essa a sua ocupação, que ao mesmo tempo é um gozo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.970 {#q970}
@@ -13387,14 +13387,14 @@ Em que consistem os sofrimentos dos [Espíritos](Espírito){:.w} inferiores?
 > <span class="emoji">👻</span> ▸ São tão variados como as causas que os determinam e proporcionados ao grau de inferioridade, como os gozos o são ao de superioridade. Podem resumir-se assim: Invejarem o que lhes falta para ser felizes e não obterem; verem a felicidade e não na poderem alcançar; pesar, ciúme, raiva, desespero, motivados pelo que os impede de ser ditosos; remorsos, ansiedade moral indefinível. Desejam todos os gozos e não os podem satisfazer: eis o que os tortura.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.971 {#q971}
 
 É sempre boa a influência que os [Espíritos](Espírito){:.w} exercem uns sobre os outros?
 
-> <span class="emoji">👻</span> ▸ Sempre boa, está claro, da parte dos bons [Espíritos](Espírito){:.w}. Os [Espíritos](Espírito){:.w} perversos, esses procuram desviar da senda do bem e do arrependimento os que lhes parecem suscetíveis de se deixarem levar e que são, muitas vezes, os que eles mesmos arrastaram ao mal durante a vida terrena.  
+> <span class="emoji">👻</span> ▸ Sempre boa, está claro, da parte dos bons [Espíritos](Espírito){:.w}. Os [Espíritos](Espírito){:.w} perversos, esses procuram desviar da senda do bem e do arrependimento os que lhes parecem suscetíveis de se deixarem levar e que são, muitas vezes, os que eles mesmos arrastaram ao mal durante a vida terrena. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q996">Q.996</a>
@@ -13417,7 +13417,7 @@ Como procedem os maus [Espíritos](Espírito){:.w} para tentar os outros [Espír
 > <span class="emoji">👻</span> ▸ As paixões não existem materialmente, mas existem no pensamento dos [Espíritos](Espírito){:.w} atrasados. Os maus dão pasto a esses pensamentos, conduzindo suas vítimas aos lugares onde se lhes ofereça o espetáculo daquelas paixões e de tudo o que as possa excitar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.972.a {#q972a}
@@ -13427,7 +13427,7 @@ Mas de que servem essas paixões se já não têm objeto real?
 > <span class="emoji">👻</span> ▸ Nisso precisamente é que lhes está o suplício: o avarento vê ouro que lhe não é dado possuir; o devasso, orgias em que não pode tomar parte; o orgulhoso, honras que lhe causam inveja e de que não pode gozar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.973 {#q973}
@@ -13443,7 +13443,7 @@ Das penas e gozos da [alma](Alma){:.l} após a [morte](Morte){:.w} forma o homem
 As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.974 {#q974}
@@ -13465,7 +13465,7 @@ Mas o temor desse fogo não produzirá bom resultado?
 Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o homem não encontrou comparação mais enérgica do que a do fogo, pois, para ele, o fogo é o tipo do mais cruel suplício e o símbolo da ação mais violenta. Por isso é que a crença no fogo eterno data da mais remota antiguidade, tendo-a os povos modernos herdado dos mais antigos. Por isso também é que o homem diz, em sua linguagem figurada: o fogo das paixões; abrasar de amor, de ciúme etc.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.975 {#q975}
@@ -13476,7 +13476,7 @@ Os [Espíritos](Espírito){:.w} inferiores compreendem a felicidade do justo?
 >
 > Para o [Espírito](Espírito){:.w} errante, já não há véus. **Ele se acha como tendo saído de um nevoeiro** e vê o que o distancia da felicidade. Mais sofre então, porque compreende quanto foi culpado. **Não tem mais ilusões**: vê as coisas na sua realidade.
 
-Na [erraticidade](Erraticidade){:.l}, o [Espírito](Espírito){:.w} descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada.  
+Na [erraticidade](Erraticidade){:.l}, o [Espírito](Espírito){:.w} descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q991">Q.991</a>
@@ -13489,7 +13489,7 @@ O espetáculo dos sofrimentos dos [Espíritos](Espírito){:.w} inferiores não c
 > <span class="emoji">👻</span> ▸ Não constitui motivo de aflição, pois que sabem que o mal terá fim. Auxiliam os outros a se melhorarem e lhes estendem as mãos. Essa a ocupação deles, ocupação que lhes proporciona gozo quando são bem-sucedidos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.976.a {#q976a}
@@ -13499,7 +13499,7 @@ Isto se concebe da parte de [Espíritos](Espírito){:.w} estranhos ou indiferent
 > <span class="emoji">👻</span> ▸ Se não vissem esses sofrimentos, é que eles vos seriam estranhos depois da morte. Ora, a [religião](Religião){:.w} vos diz que as almas vos veem, mas eles consideram de outro ponto de vista os vossos sofrimentos. Sabem que estes são úteis ao vosso progresso, se os suportardes com resignação. Afligem-se, portanto, muito mais com a falta de ânimo que vos retarda, do que com os sofrimentos considerados em si mesmos, todos passageiros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.977 {#q977}
@@ -13509,7 +13509,7 @@ Não podendo os [Espíritos](Espírito){:.w} ocultar reciprocamente seus pensame
 > <span class="emoji">👻</span> ▸ Não pode ser de outro modo, di-lo o bom senso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.977.a {#q977a}
@@ -13523,7 +13523,7 @@ Quando nos achamos no mundo dos [Espíritos](Espírito){:.w}, estando patente to
 Para o mau, não há maior tormento, na Terra, do que a presença de suas vítimas, [razão](Razão){:.w} pela qual as evita continuamente. Que será quando, dissipada a ilusão das paixões, compreender o mal que fez, vir patenteados os seus atos mais secretos, desmascarada a sua hipocrisia e não puder subtrair-se à visão delas? Enquanto a [alma](Alma){:.l} do homem perverso é presa da vergonha, do pesar e do remorso, a do justo goza perfeita serenidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.978 {#q978}
@@ -13533,7 +13533,7 @@ A lembrança das faltas que a alma, quando imperfeita, tenha cometido, não lhe 
 > <span class="emoji">👻</span> ▸ Não, porque resgatou suas faltas e saiu vitoriosa das provas a que se submetera **para esse fim**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.979 {#q979}
@@ -13545,7 +13545,7 @@ Não serão, para a alma, causa de penosa apreensão, que lhe altera a felicidad
 Goza da felicidade a [alma](Alma){:.l} que chegou a um certo grau de pureza. Domina-a um sentimento de grata satisfação. Sente-se feliz por tudo o que vê, por tudo o que a cerca. Levanta-se-lhe o véu que encobria os mistérios e as maravilhas da Criação e as perfeições divinas em todo o esplendor lhe aparecem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.980 {#q980}
@@ -13557,7 +13557,7 @@ O laço de simpatia que une os [Espíritos](Espírito){:.w} da mesma ordem const
 Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam almas com as quais pode confundir-se numa união pura e santa. Em uma vida mais purificada, inefável e ilimitado será esse gozo, pois aí ele só encontrará almas simpáticas, **que o egoísmo não tornará frias**. Porque, na Natureza, tudo é amor: o egoísmo é que o mata.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.981 {#q981}
@@ -13567,7 +13567,7 @@ Com relação ao estado futuro do [Espírito](Espírito){:.w}, haverá diferenç
 > <span class="emoji">👻</span> ▸ Muito grande pode ser a diferença. Entretanto, apaga-se com frequência em face das causas determinantes desse temor ou desse desejo. Quer a tema, quer a deseje, pode o homem ser propelido por sentimentos muito diversos e são estes sentimentos que influem no estado do [Espírito](Espírito){:.w}. É evidente, por exemplo, que naquele que deseja a morte, unicamente porque vê nela o termo de suas tribulações, há uma espécie de queixa contra a Providência e contra as provas que lhe cumpre suportar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.982 {#q982}
@@ -13581,7 +13581,7 @@ Será necessário que professemos o [Espiritismo](Espiritismo){:.l} e creiamos n
 A crença no [Espiritismo](Espiritismo){:.l} ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O [Espiritismo](Espiritismo){:.l} ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Penas temporais
@@ -13599,7 +13599,7 @@ Não experimenta sofrimentos materiais o [Espírito](Espírito){:.w} que expia s
 O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua [expiação](Expiação){:.l} já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.984 {#q984}
@@ -13636,7 +13636,7 @@ Pode o [Espírito](Espírito){:.w}, que progrediu em sua existência terrena, re
 
 Que sucede ao homem que, não fazendo o mal, também nada faz para libertar-se da influência da matéria?
 
-> <span class="emoji">👻</span> ▸ Pois que nenhum passo dá para a perfeição, tem que recomeçar uma existência de natureza idêntica à precedente. Fica estacionário, podendo assim prolongar os sofrimentos da expiação.  
+> <span class="emoji">👻</span> ▸ Pois que nenhum passo dá para a perfeição, tem que recomeçar uma existência de natureza idêntica à precedente. Fica estacionário, podendo assim prolongar os sofrimentos da expiação. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q986">Q.986</a>
@@ -13649,7 +13649,7 @@ Há pessoas cuja vida se escoa em perfeita calma; que, nada precisando fazer por
 > <span class="emoji">👻</span> ▸ Conheces muitas dessas pessoas? Enganas-te, se pensas que as há em grande número. Não raro, a calma é apenas aparente. Talvez elas tenham escolhido tal existência, mas, quando a deixam, percebem que não lhes serviu para progredirem. Então, como o preguiçoso, lamentam o tempo perdido. Sabei que o [Espírito](Espírito){:.w} não pode adquirir conhecimentos e elevar-se senão exercendo a sua atividade. Se adormece na indolência, não se adianta. Assemelha-se a um que (segundo os vossos usos) precisa trabalhar e que vai passear ou deitar-se, com a intenção de nada fazer. **Sabei também que cada um terá que dar contas da inutilidade voluntária da sua existência, inutilidade sempre fatal à felicidade futura**. Para cada um, o total dessa felicidade futura corresponde à soma do bem que tenha feito, estando o da infelicidade na proporção do mal que haja praticado e daqueles a quem haja desgraçado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.989 {#q989}
@@ -13659,7 +13659,7 @@ Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos s
 > <span class="emoji">👻</span> ▸ Inquestionavelmente, essas pessoas não são boas. Expiarão suas faltas, tendo sempre diante da vista aqueles a quem infelicitaram, valendo-lhes isso por uma exprobração. Depois, noutra existência, sofrerão o que fizeram sofrer.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Expiação e arrependimento
@@ -13671,7 +13671,7 @@ O arrependimento se dá no estado corporal ou no estado espiritual?
 > <span class="emoji">👻</span> ▸ No estado espiritual; mas, também pode ocorrer no estado corporal, quando bem compreendeis a diferença entre o bem e o mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.991 {#q991}
@@ -13691,7 +13691,7 @@ Que consequência produz o arrependimento no estado corporal?
 > <span class="emoji">👻</span> ▸ Fazer que, já na vida atual, o [Espírito](Espírito){:.w} progrida, se tiver tempo de reparar suas faltas. Quando a [consciência](Consciência){:.w} o exprobra e lhe mostra uma imperfeição, o homem pode sempre melhorar-se.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.993 {#q993}
@@ -13711,7 +13711,7 @@ O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reco
 > <span class="emoji">👻</span> ▸ Sempre as reconhece e, então, mais sofre, porque **sente em si todo o mal que praticou**, ou de que foi voluntariamente causa. Contudo, o arrependimento nem sempre é imediato. Há [Espíritos](Espírito){:.w} que se obstinam em permanecer no mau caminho, não obstante os sofrimentos por que passam. Porém, cedo ou tarde, reconhecerão errada a senda que tomaram e o arrependimento virá. Para esclarecê-los, trabalham os bons [Espíritos](Espírito){:.w} e também vós podeis trabalhar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.995 {#q995}
@@ -13721,7 +13721,7 @@ Haverá [Espíritos](Espírito){:.w} que, sem serem maus, se conservem indiferen
 > <span class="emoji">👻</span> ▸ Há [Espíritos](Espírito){:.w} que de coisa alguma útil se ocupam. Estão na expectativa, mas nesse caso sofrem proporcionalmente. Devendo em tudo haver progresso, neles o progresso se manifesta pela dor.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.995.a {#q995a}
@@ -13752,7 +13752,7 @@ Veem-se [Espíritos](Espírito){:.w}, de notória inferioridade, acessíveis aos
 Não se deve perder de vista que o [Espírito](Espírito){:.w} não se transforma subitamente, após a [morte](Morte){:.w} do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a [morte](Morte){:.w} não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.998 {#q998}
@@ -13762,7 +13762,7 @@ A [expiação](Expiação){:.l} se cumpre no estado corporal ou no estado espiri
 > <span class="emoji">👻</span> ▸ A [expiação](Expiação){:.l} se cumpre durante a existência corporal, mediante as provas a que o [Espírito](Espírito){:.w} se acha submetido e, na vida espiritual, pelos sofrimentos morais, inerentes ao estado de inferioridade do [Espírito](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.999 {#q999}
@@ -13772,7 +13772,7 @@ Basta o arrependimento durante a vida para que as faltas do [Espírito](Espírit
 > <span class="emoji">👻</span> ▸ O arrependimento concorre para a melhoria do [Espírito](Espírito){:.w}, mas ele tem que expiar o seu passado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.999.a {#q999a}
@@ -13782,7 +13782,7 @@ Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, expiar
 > <span class="emoji">👻</span> ▸ Tornar-se mais longa e mais penosa a sua expiação, desde que ele se torne obstinado no mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1000 {#q1000}
@@ -13790,7 +13790,7 @@ Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, expiar
 Já desde esta vida poderemos ir resgatando as nossas faltas?
 
 > <span class="emoji">👻</span> ▸ Sim, reparando-as; mas não creiais que as resgateis mediante algumas privações pueris, ou distribuindo em esmolas o que possuirdes, depois que morrerdes, quando de nada mais precisais. [Deus](Deus){:.l} não dá valor a um arrependimento estéril, sempre fácil e que apenas custa o esforço de bater no peito. A perda de um dedo mínimo, quando se esteja prestando um serviço, apaga mais faltas do que o suplício da carne suportado durante anos, com objetivo exclusivamente **pessoal**. (👉 [Q.726](#q726)).
->  
+> 
 > Só por meio do bem se repara o mal e a reparação nenhum mérito apresenta, se não atinge o homem **nem no seu orgulho, nem nos seus interesses materiais.**
 >
 > De que serve, para sua justificação, que restitua, depois de morrer, os bens mal adquiridos, quando se lhe tornaram inúteis e deles tirou todo o proveito.
@@ -13820,7 +13820,7 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 > <span class="emoji">👻</span> ▸ O arrependimento lhe apressa a reabilitação, mas não o absolve. Diante dele não se desdobra o futuro, que jamais se lhe tranca?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Duração das penas futuras
@@ -13832,7 +13832,7 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} nunca obra caprichosamente e tudo, no Universo, se rege por leis, em que a sua [sabedoria](Sabedoria){:.w} e a sua bondade se revelam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1004 {#q1004}
@@ -13926,7 +13926,7 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 > Ademais, a [doutrina](doutrina){:.d} do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral (👉 Veja [Q.974](#q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a [religião](Religião){:.w} admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Agostinho, eternidade das penas  <a href="#agostinho">↩️</a>
+<span class="emoji">🏷️</span> Agostinho, eternidade das penas <a href="#agostinho">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Ressurreição da carne
@@ -13935,7 +13935,7 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 
 O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos [Espíritos](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Como quereríeis que fosse de outro modo? Conforme sucede com tantas outras, estas palavras só parecem despropositadas, no entender de algumas pessoas, porque as tomam ao pé da letra. Levam, por isso, à incredulidade. Dai-lhes uma interpretação lógica e os que chamais livres-pensadores as admitirão sem dificuldades, precisamente pela [razão](Razão){:.w} de que refletem. Por que, não vos enganeis, esses livres-pensadores o que mais pedem e desejam é crer. Têm, como os outros, ou, talvez, mais que os outros, a sede do futuro, mas não podem admitir o que a [Ciência](Ciência){:.w} desmente. A [doutrina](doutrina){:.d} da pluralidade das existências é conforme com a Justiça de [Deus](Deus){:.l}; só ela explica o que, sem ela, é inexplicável. Como havíeis de pretender que o seu princípio não estivesse na própria religião?  
+> <span class="emoji">👻</span> ▸ Como quereríeis que fosse de outro modo? Conforme sucede com tantas outras, estas palavras só parecem despropositadas, no entender de algumas pessoas, porque as tomam ao pé da letra. Levam, por isso, à incredulidade. Dai-lhes uma interpretação lógica e os que chamais livres-pensadores as admitirão sem dificuldades, precisamente pela [razão](Razão){:.w} de que refletem. Por que, não vos enganeis, esses livres-pensadores o que mais pedem e desejam é crer. Têm, como os outros, ou, talvez, mais que os outros, a sede do futuro, mas não podem admitir o que a [Ciência](Ciência){:.w} desmente. A [doutrina](doutrina){:.d} da pluralidade das existências é conforme com a Justiça de [Deus](Deus){:.l}; só ela explica o que, sem ela, é inexplicável. Como havíeis de pretender que o seu princípio não estivesse na própria religião? 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#222">222</a>
@@ -13955,7 +13955,7 @@ Efetivamente, a [Ciência](Ciência){:.w} demonstra a impossibilidade da ressurr
 É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a [Doutrina](Espiritismo){:.l} Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a [doutrina](doutrina){:.d} do juízo final, a [Terra](Terra){:.w} passa por ser o único mundo habitado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Paraíso, inferno e purgatório
@@ -13967,7 +13967,7 @@ Haverá no Universo lugares circunscritos para as penas e gozos dos [Espíritos]
 > <span class="emoji">👻</span> ▸ Já respondemos a esta pergunta. As penas e os gozos são inerentes ao grau de perfeição dos [Espíritos](Espírito){:.w}. Cada um tira de si mesmo o princípio de sua felicidade ou de sua desgraça. E como eles estão por toda parte, nenhum lugar circunscrito ou fechado existe especialmente destinado a uma ou outra coisa. Quanto aos encarnados, esses são mais ou menos felizes ou desgraçados, conforme é mais ou menos adiantado o mundo em que habitam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1012.a {#q1012a}
@@ -13979,7 +13979,7 @@ De acordo, então, com o que vindes de dizer, o inferno e o paraíso não existe
 A localização absoluta das regiões das penas e das recompensas só na imaginação do homem existe. Provém da sua tendência a materializar e circunscrever as coisas, cuja essência infinita não lhe é possível compreender.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1013 {#q1013}
@@ -13991,7 +13991,7 @@ Que se deve entender por purgatório?
 O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos [Espíritos](Espírito){:.w} imperfeitos, que se acham em [expiação](Expiação){:.l} até alcançarem a purificação completa, que os elevará à categoria dos [Espíritos](Espírito){:.w} bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1014 {#q1014}
@@ -14001,7 +14001,7 @@ Como se explica que [Espíritos](Espírito){:.w}, cuja superioridade se revela n
 > <span class="emoji">👻</span> ▸ É que falam uma linguagem que possa ser compreendida pelas pessoas que os interrogam. Quando estas se mostram imbuídas de certas ideias, eles evitam chocá-las muito bruscamente, a fim de lhes não ferir as convicções. Se um [Espírito](Espírito){:.w} dissesse a um muçulmano, sem precauções oratórias, que Maomé não foi profeta, seria muito mal acolhido.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1014.a {#q1014a}
@@ -14011,7 +14011,7 @@ Concebe-se que assim procedam os [Espíritos](Espírito){:.w} que nos querem ins
 > <span class="emoji">👻</span> ▸ Quando são inferiores e ainda não completamente desmaterializados, os [Espíritos](Espírito){:.w} conservam uma parte de suas ideias terrenas e, para dar suas impressões, se servem dos termos que lhes são familiares. Acham-se num meio que só imperfeitamente lhes permite sondar o futuro. Essa a causa de alguns [Espíritos](Espírito){:.w} errantes, ou recém-desencarnados, falarem como o fariam se estivessem encarnados. **Inferno** se pode traduzir por uma vida de provações, extremamente dolorosa, com a **incerteza** de haver outra melhor; **purgatório**, por uma vida também de provações, mas com a [consciência](Consciência){:.w} de melhor futuro. Quando experimentas uma grande dor, não costumas dizer que sofres como um danado? Tudo isso são apenas palavras e sempre ditas em sentido figurado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1015 {#q1015}
@@ -14022,8 +14022,8 @@ Que se deve entender por uma [alma](Alma){:.l} a penar?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 👉 Veja <a href="#q664">Q.664</a><br>
-<span class="emoji">🏷️</span> Alma, errante  <a href="#alma">↩️</a><br>
-<span class="emoji">🏷️</span> Alma, sofredora  <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, errante <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, sofredora <a href="#alma">↩️</a>
 </details>
 
 ###### Q.1016 {#q1016}
@@ -14033,7 +14033,7 @@ Em que sentido se deve entender a palavra **céu**?
 > <span class="emoji">👻</span> ▸ Julgas que seja um lugar, como os campos elísios dos antigos, onde todos os bons [Espíritos](Espírito){:.w} estão promiscuamente aglomerados, sem outra preocupação que a de gozar, pela eternidade toda, de uma felicidade passiva? Não; é o espaço universal; são os planetas, as estrelas e todos os mundos superiores, onde os [Espíritos](Espírito){:.w} gozam plenamente de suas faculdades, sem as tribulações da vida material, nem as angústias peculiares à inferioridade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1017 {#q1017}
@@ -14047,7 +14047,7 @@ O mesmo ocorre com outras expressões análogas, tais como: cidade das flores, c
 De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a [Terra](Terra){:.w} era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, **o céu era situado no alto e o inferno embaixo**. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a [Ciência](Ciência){:.w} demonstrou ser a [Terra](Terra){:.w} apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao [Espiritismo](Espiritismo){:.l} dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1018 {#q1018}
@@ -14057,7 +14057,7 @@ Em que sentido se devem entender estas palavras do [Cristo](Cristo){:.w}: Meu Re
 > <span class="emoji">👻</span> ▸ Respondendo assim, o [Cristo](Cristo){:.w} falava em sentido figurado. Queria dizer que o seu reinado se exerce unicamente sobre os corações puros e desinteressados. Ele está onde quer que domine o [amor](Amor){:.w} do bem. Ávidos, porém, das coisas deste mundo e apegados aos bens da Terra, os homens com Ele não estão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ###### Q.1019 {#q1019}
@@ -14080,15 +14080,15 @@ Poderá jamais implantar-se na [Terra](Terra){:.w} o reinado do bem?
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do [Espiritismo](Espiritismo){:.l}, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da [Humanidade](Natureza_humana){:.w} uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias. Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma [ciência](Ciência){:.w}, assim como a solução dos problemas que nenhuma [filosofia](Filosofia){:.w} pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta [filosofia](Filosofia){:.w} como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos [Espíritos](Espírito){:.w}. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca. Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra de um homem e dizei, do íntimo e em consciência, se, depois de o terdes lido **seriamente**, achais nele matéria para zombaria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
-#### 5-02. <span class="emoji">📄</span> Conclusão 02  {#lde-5-02}
+#### 5-02. <span class="emoji">📄</span> Conclusão 02 {#lde-5-02}
 
 O [Espiritismo](Espiritismo){:.l} é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma [doutrina](doutrina){:.d} cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciênci- a), eles se acobertam com o manto da [razão](Razão){:.w} e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao [Espiritismo](Espiritismo){:.l}. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o [Espiritismo](Espiritismo){:.l} se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o **maravilhoso** e o **sobrenatural**, também condenam a religião. Com efeito, a [religião](Religião){:.w} se funda na revelação e nos milagres. Ora, que é a revelação, senão um conjunto de comunicações extraterrenas? Todos os autores sagrados, desde Moisés, têm falado dessa espécie de comunicações. Que são os milagres, senão fatos maravilhosos e sobrenaturais, por excelência, visto que, no sentido litúrgico, constituem derrogações das Leis da Natureza? Logo, rejeitando o maravilhoso e o sobrenatural, eles rejeitam as bases mesmas da religião. Não é deste ponto de vista, porém, que devemos encarar a questão. Ao [Espiritismo](Espiritismo){:.l} não compete examinar se há ou não milagres, isto é, se em certos casos houve [Deus](Deus){:.l} por bem derrogar as leis eternas que regem o Universo. Permite, a este respeito, inteira liberdade de crença. Diz e prova que os [fenônemo](fenómeno){:.d} em que se baseia, de sobrenaturais só têm a aparência. E parecem tais a algumas pessoas, apenas porque são insólitos e diferentes dos fatos conhecidos. Não são, contudo, mais sobrenaturais do que todos os [fenômenos](fenómeno){:.d}, cuja explicação a [Ciência](Ciência){:.w} hoje dá e que pareceram maravilhosos noutra época. Todos os [fenônemo](fenómeno){:.d} espíritas, sem exceção, resultam de leis gerais. Revelam-nos uma das forças da Natureza, força desconhecida, ou, por melhor dizer, incompreendida até agora, mas que a observação demonstra estar na ordem das coisas. Assim, pois, o [Espiritismo](Espiritismo){:.l} se apoia menos no maravilhoso e no sobrenatural do que a própria religião. Conseguintemente, os que o atacam por esse lado mostram que o não conhecem e, ainda quando fossem os maiores sábios, lhes diríamos: se a vossa [ciência](Ciência){:.w}, que vos instruiu em tantas coisas, não vos ensinou que o domínio da Natureza é infinito, sois apenas meio sábios.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### 5-03. <span class="emoji">📄</span> Conclusão 03 {#lde-5-03}
@@ -14098,7 +14098,7 @@ Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mun
 Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e do progresso, mas a fraternidade pressupõe desinteresse, abnegação da personalidade. Onde há verdadeira fraternidade, o orgulho é uma anomalia. Com que direito impondes um sacrifício àquele a quem dizeis que, com a morte, tudo se lhe acabará; que amanhã, talvez, ele não será mais do que uma velha máquina desmantelada e atirada ao monturo? Que razões terá ele para impor a si mesmo uma privação qualquer? Não será mais natural que trate de viver o melhor possível, durante os breves instantes que lhe concedeis? Daí o desejo de possuir muito para melhor gozar. Do desejo nasce a inveja dos que possuem mais e, dessa inveja à [vontade](Vontade){:.w} de apoderar-se do que a estes pertence, o passo é curto. Que é que o detém? A lei? A lei, porém, não abrange todos os casos. Direis que a consciência, o sentimento do dever, mas em que baseais o sentimento do dever? Terá [razão](Razão){:.w} de ser esse sentimento, de par com a crença de que tudo se acaba com a vida? Onde essa crença exista, uma só máxima é racional: cada um por si, não passando de vãs palavras as ideias de fraternidade, de consciência, de dever, de humanidade, mesmo de progresso. Oh! vós, que proclamais semelhantes doutrinas, não sabeis quão grande é o mal que fazeis à sociedade, nem de quantos crimes assumis a responsabilidade! Para o cético, tal coisa não existe. Só à matéria rende ele homenagem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### 5-04. <span class="emoji">📄</span> Conclusão 04 {#lde-5-04}
@@ -14106,7 +14106,7 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 O progresso da [Humanidade](Natureza_humana){:.w} tem seu princípio na aplicação da lei de justiça, de [amor](Amor){:.w} e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único [Deus](Deus){:.l}. Falamos dos povos que marcham à testa da civilização. (👉 [Q.789](#q789) e [Q.793](#q793)) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o [Espiritismo](Espiritismo){:.l} lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. [^26]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### 5-05. <span class="emoji">📄</span> Conclusão 05 {#lde-5-05}
@@ -14118,7 +14118,7 @@ Por meio do [Espiritismo](Espiritismo){:.l}, a [Humanidade](Natureza_humana){:.w
 Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o da curiosidade, que a singularidade dos [fenônemo](fenómeno){:.d} produzidos desperta; segundo, o do raciocínio e da [filosofia](Filosofia){:.w}; terceiro, o da aplicação e das consequências. O período da curiosidade passou; a curiosidade dura pouco. Uma vez satisfeita, muda de objeto. O mesmo não acontece com o que desafia a meditação séria e o raciocínio. Começou o segundo período, o terceiro virá inevitavelmente. O [Espiritismo](Espiritismo){:.l} progrediu principalmente depois que foi sendo mais bem compreendido na sua essência íntima, depois que lhe perceberam o alcance, porque tange a corda mais sensível do homem: a da sua felicidade, mesmo neste mundo. Aí a causa da sua propagação, o segredo da força que o fará triunfar. Enquanto a sua influência não atinge as massas, ele vai felicitando os que o compreendem. Mesmo os que nenhum fenômeno têm testemunhado, dizem: à parte esses [fenômenos](fenómeno){:.d}, há a [filosofia](Filosofia){:.w}, que me explica o que NENHUMA OUTRA me havia explicado. Nela encontro, por meio unicamente do raciocínio, uma solução **racional** para os problemas que no mais alto grau interessam ao meu futuro. Ela me dá calma, firmeza, confiança; livra-me do tormento da incerteza. Ao lado de tudo isto, secundária se torna a questão dos fatos materiais. Quereis, vós todos que o atacais, um meio de combatê-lo com êxito? Aqui o tendes. Substituí-o por alguma coisa melhor; indicai solução MAIS FILOSÓFICA para todas as questões que ele resolveu; dai ao homem OUTRA CERTEZA que o faça mais feliz, porém compreendei bem o alcance desta palavra **certeza**, porquanto o homem não aceita, como **certo**, senão o que lhe parece **lógico**. Não vos contenteis com dizer: isto não é assim; demasiado fácil é semelhante afirmativa. Provai, não por negação, mas por fatos, que isto não é real, nunca o foi e NÃO PODE ser. Se não é, dizei o que o é, em seu lugar. Provai, finalmente, que as consequências do [Espiritismo](Espiritismo){:.l} não são tornar melhor o homem e, portanto, mais feliz, pela prática da mais pura moral evangélica, moral a que se tecem muitos louvores, mas que muito pouco se pratica. Quando houverdes feito isso, tereis o direito de o atacar. O [Espiritismo](Espiritismo){:.l} é forte porque assenta sobre as próprias bases da religião: [Deus](Deus){:.l}, a alma, as penas e as recompensas futuras; sobretudo, porque mostra que essas penas e recompensas são consequências naturais da vida terrestre e, ainda, porque, no quadro que apresenta do futuro, nada há que a [razão](Razão){:.w} mais exigente possa recusar. Que compensação ofereceis aos sofrimentos deste mundo, vós cuja [doutrina](doutrina){:.d} consiste unicamente na negação do futuro? Enquanto vos apoiais na incredulidade, ele se apoia na [confiança](confiança){:.d} em [Deus](Deus){:.l}; ao passo que convida os homens à felicidade, à esperança, à verdadeira fraternidade, vós lhes ofereceis o **nada** por perspectiva e o **egoísmo** por consolação. Ele tudo explica, vós nada explicais. Ele prova pelos fatos, vós nada provais. Como quereis que se hesite entre as duas doutrinas?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### 5-06. <span class="emoji">📄</span> Conclusão 06 {#lde-5-06}
@@ -14133,7 +14133,7 @@ Que faz a moderna [ciência](Ciência){:.w} espírita? Reúne em corpo de [doutr
 Que interesse, ademais, haveria em obstar-se a propagação das ideias espíritas? É exato que elas se erguem contra os abusos que nascem do orgulho e do egoísmo, mas, se é certo que desses abusos há quem aproveite, à coletividade humana eles prejudicam. A coletividade, portanto, será favorável a tais ideias, contando-se-lhes por adversários sérios apenas os interessados em manter aqueles abusos. As ideias espíritas, ao contrário, são um penhor de ordem e tranquilidade, porque, pela sua influência, os homens se tornam melhores uns para com os outros, menos ávidos das coisas materiais e mais resignados aos decretos da Providência.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### 5-07. <span class="emoji">📄</span> Conclusão 07 {#lde-5-07}
@@ -14157,7 +14157,7 @@ O segundo efeito, quase tão geral quanto o primeiro, é a resignação nas vici
 O terceiro efeito é o de estimular no homem a indulgência para com os defeitos alheios. Todavia, cumpre dizê-lo, o princípio egoísta e tudo que dele decorre são o que há de mais tenaz no homem e, por conseguinte, de mais difícil de desarraigar. Toda gente faz voluntariamente sacrifícios, contanto que nada custem e de nada privem. Para a maioria dos homens, o dinheiro tem ainda irresistível atrativo e bem poucos compreendem a palavra supérfluo, quando de suas pessoas se trata. Por isso mesmo, a abnegação da personalidade constitui sinal de grandíssimo progresso.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 #### 5-08. <span class="emoji">📄</span> Conclusão 08 {#lde-5-08}
@@ -14171,7 +14171,7 @@ O mesmo acontecerá com relação ao [Espiritismo](Espiritismo){:.l}, que, em br
 As comunicações com os seres de além-túmulo deram em resultado fazer-nos compreender a vida futura, fazer-nos vê-la, iniciar-nos no conhecimento das penas e gozos que nos estão reservados, de acordo com os nossos méritos e, desse modo, encaminhar para o **espiritualismo** os que no homem somente viam a matéria, a máquina organizada. Razão, portanto, tivemos para dizer que o [Espiritismo](Espiritismo){:.l}, com os fatos, matou o materialismo. Fosse este único resultado por ele produzido e já muita gratidão lhe deveria a ordem social. Ele, porém, faz mais: mostra os inevitáveis efeitos do mal e, conseguintemente, a necessidade do bem. Muito maior do que se pensa é, e cresce todos os dias, o número daqueles em que ele há melhorado os sentimentos, neutralizado as más tendências e desviado do mal. É que para esses o futuro deixou de ser coisa imprecisa, simples esperança, por se haver tornado uma [verdade](Verdade){:.w} que se compreende e explica, quando se **veem** e **ouvem** os que partiram lamentar-se ou felicitar-se pelo que fizeram na Terra. Quem disso é testemunha entra a refletir e sente a necessidade de a si mesmo se conhecer, julgar e emendar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alcorão  <a href="#alcorao">↩️</a>
+<span class="emoji">🏷️</span> Alcorão <a href="#alcorao">↩️</a>
 </details>
 
 #### 5-09. <span class="emoji">📄</span> Conclusão 09 {#lde-5-09}
@@ -14190,7 +14190,7 @@ Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam 
 {:.spirit-multi}
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> label  <a href="#term">↩️</a>
+<span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
 ---
@@ -14199,7 +14199,7 @@ Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam 
 
 ### 6.01 <span class="emoji">📄</span> Nota explicativa {#lde-6-01}
 
-> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem [acepção](acepção){:.d} de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 *Revista Espírita* de 1868)
+> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem [acepção](acepção){:.d} de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. <span class="emoji">📓</span> *Revista Espírita* de 1868)
 {:.grey}
 
 A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
@@ -14216,7 +14216,7 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 
 5. <span class="emoji">🌱</span> *A Gênese* (1868),
 
-além da obra 🔍 *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
+além da obra <span class="emoji">🔍</span> *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da <span class="emoji">📓</span> *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro <span class="emoji">🪦</span> *Obras Póstumas* (1890).
 
 O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
 
@@ -14244,21 +14244,21 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 > 
 > Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
 > 
-> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (<span class="emoji">🌱</span> *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
+> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (<span class="emoji">🌱</span> *A Gênese*, cap. 1, item 36 Vide também <span class="emoji">📓</span> *Revista Espírita*, 1867)
 {:.grey}
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
 É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
 
-> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 *Revista Espírita* de 1863)
+> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. <span class="emoji">📓</span> *Revista Espírita* de 1863)
 > 
 > O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (<span class="emoji">🕊️</span> *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
 {:.grey}
 
-É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro <span class="emoji">🌱</span> *A Gênese*, o Codificador explica essa metodologia:
+É importante compreender, também, que os textos publicados por Allan Kardec na <span class="emoji">📓</span> *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro <span class="emoji">🌱</span> *A Gênese*, o Codificador explica essa metodologia:
 
-> Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da [doutrina](doutrina){:.d} dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (<span class="emoji">🌱</span> *A Gênese*, cap. 11, item 43, Nota)
+> Quando, na <span class="emoji">📓</span> *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da [doutrina](doutrina){:.d} dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (<span class="emoji">🌱</span> *A Gênese*, cap. 11, item 43, Nota)
 {:.grey}
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
@@ -14279,489 +14279,489 @@ A Editora (FEB)
 #### A
 
 ##### <span class="emoji">🏷️</span> Aberração {#aberracao}
-faculdades do homem e – [Q.847](#q847)  
+faculdades do homem e – [Q.847](#q847) 
 
 ##### <span class="emoji">🏷️</span> Aborto {#aborto}
-consequências do – [Q.357](#q357)  
+consequências do – [Q.357](#q357) 
 
-gestação e – [Q.358](#q358)  
+gestação e – [Q.358](#q358) 
 
-provocação do – [Q.358](#q358)  
+provocação do – [Q.358](#q358) 
 
-vida da mãe em perigo e – [Q.359](#q359)  
+vida da mãe em perigo e – [Q.359](#q359) 
 
 ##### <span class="emoji">🏷️</span> Abuso {#abuso}
-direito e – [Q.734](#q734)  
+direito e – [Q.734](#q734) 
 
 ##### <span class="emoji">🏷️</span> Acaso {#acaso}
-Deus e – [Q.663](#q663)  
+Deus e – [Q.663](#q663) 
 
 ##### <span class="emoji">🏷️</span> Ação {#acao}
-dos mortos como força invisível – [Intro 04](#lde-0-03-04)  
+dos mortos como força invisível – [Intro 04](#lde-0-03-04) 
 
-mérito e – [Q.919a](#q919a)  
+mérito e – [Q.919a](#q919a) 
 
-reciprocidade de – [Q.375a](#q375a)  
+reciprocidade de – [Q.375a](#q375a) 
 
 ##### <span class="emoji">🏷️</span> Aceitação {#aceitacao}
-perda de entes queridos e – [Q.936](#q936)  
+perda de entes queridos e – [Q.936](#q936) 
 
 ##### <span class="emoji">🏷️</span> Acerto {#acerto}
-erro e – [Q.715](#q715)  
+erro e – [Q.715](#q715) 
 
 ##### <span class="emoji">🏷️</span> Adão {#adao}
-criação dos mundos e – [Q.59](#q59)  
+criação dos mundos e – [Q.59](#q59) 
 
-notícia histórica sobre – [Q.51](#q51)  
+notícia histórica sobre – [Q.51](#q51) 
 
-povoamento da Terra e – [Q.50](#q50)  
+povoamento da Terra e – [Q.50](#q50) 
 
 ##### <span class="emoji">🏷️</span> Adolescência {#adolescencia}
-caráter na – [Q.385](#q385)  
+caráter na – [Q.385](#q385) 
 
 ##### <span class="emoji">🏷️</span> Adoração {#adoracao}
-bom exemplo e – [Q.653a](#q653a)  
+bom exemplo e – [Q.653a](#q653a) 
 
-busca de amparo e – [Q.650](#q650)  
+busca de amparo e – [Q.650](#q650) 
 
-Cristianismo e – [Q.668](#q668)  
+Cristianismo e – [Q.668](#q668) 
 
-fraqueza e – [Q.650](#q650)  
+fraqueza e – [Q.650](#q650) 
 
-lei de – [Q.649](#q649) a [Q.673](#q673)  
+lei de – [Q.649](#q649) a [Q.673](#q673) 
 
-lei natural e – [Q.652](#q652)  
+lei natural e – [Q.652](#q652) 
 
-objetivo da – [Q.649](#q649)  
+objetivo da – [Q.649](#q649) 
 
-prática do bem e – [Q.673](#q673)  
+prática do bem e – [Q.673](#q673) 
 
-rituais e – [Q.654](#q654)  
+rituais e – [Q.654](#q654) 
 
-sacrifício animal e – [Q.669a](#q669a)  
+sacrifício animal e – [Q.669a](#q669a) 
 
-sacrifício humano e – [Q.669](#q669), [Q.669b](#q669b)  
+sacrifício humano e – [Q.669](#q669), [Q.669b](#q669b) 
 
-sentimento puro e – [Q.653](#q653)  
+sentimento puro e – [Q.653](#q653) 
 
 ##### <span class="emoji">🏷️</span> Afeição {#afeicao}
-espíritos, encarnados e – [Q.484](#q484) a [Q.485](#q485)  
+espíritos, encarnados e – [Q.484](#q484) a [Q.485](#q485) 
 
-física e espiritual – [Q.939](#q939)  
+física e espiritual – [Q.939](#q939) 
 
 ##### <span class="emoji">🏷️</span> Afinidade {#afinidade}
-atração por – [Q.521](#q521)  
+atração por – [Q.521](#q521) 
 
-Espírito e corpo físico em total – [Q.957](#q957)  
+Espírito e corpo físico em total – [Q.957](#q957) 
 
 ##### <span class="emoji">🏷️</span> Aflição {#aflicao}
-desejos e – [Q.926](#q926)  
+desejos e – [Q.926](#q926) 
 
-inveja e – [Q.926](#q926)  
+inveja e – [Q.926](#q926) 
 
-necessidades e – [Q.926](#q926)  
+necessidades e – [Q.926](#q926) 
 
 ##### <span class="emoji">🏷️</span> Agostinho (Santo) {#agostinho}
-conselho de – [Q.919a](#q919a), [Conclusão 09](#lde-5-09)  
+conselho de – [Q.919a](#q919a), [Conclusão 09](#lde-5-09) 
 
-eternidade das penas – [Q.1009](#q1009)  
+eternidade das penas – [Q.1009](#q1009) 
 
 ##### <span class="emoji">🏷️</span> Agradecimento {#agradecimento}
-providência divina e – [Q.535](#q535)  
+providência divina e – [Q.535](#q535) 
 
 ##### <span class="emoji">🏷️</span> Alcorão {#alcorao}
 Alcorão – [Conclusão 08](#lde-5-08)
 
 ##### <span class="emoji">🏷️</span> Além-túmulo {#alem-tumulo}
-amizade e – [Q.488](#q488)  
+amizade e – [Q.488](#q488) 
 
-comunicação com o – [Q.935](#q935)  
+comunicação com o – [Q.935](#q935) 
 
-continuação da existência no – [Q.158](#q158)  
+continuação da existência no – [Q.158](#q158) 
 
-relações no – [Q.274](#q274)  
+relações no – [Q.274](#q274) 
 
-suicídio e falso entendimento das relações no – [Q.956](#q956)  
+suicídio e falso entendimento das relações no – [Q.956](#q956) 
 
 ##### <span class="emoji">🏷️</span> Alimentação {#alimentacao}
-mortificação e – [Q.724](#q724)  
+mortificação e – [Q.724](#q724) 
 
-mundos elevados e – [Q.710](#q710)  
+mundos elevados e – [Q.710](#q710) 
 
 ##### <span class="emoji">🏷️</span> Alimento {#alimento}
-saúde e – [Q.722](#q722)  
+saúde e – [Q.722](#q722) 
 
 ##### <span class="emoji">🏷️</span> Allan Kardec {#allan-kardec}
-assistência espiritual a – [Prefácio](#lde-0-02)  
+assistência espiritual a – [Prefácio](#lde-0-02) 
 
 conselhos a – [Prefácio](#lde-0-02)
 
 ##### <span class="emoji">🏷️</span> Alma {#alma}
-Alma – [Q.134](#q134) a [Q.146](#q146)  
+Alma – [Q.134](#q134) a [Q.146](#q146) 
 
-afeição do corpo e da – [Q.939](#q939)  
+afeição do corpo e da – [Q.939](#q939) 
 
-animais e – [Q.600](#q600)  
+animais e – [Q.600](#q600) 
 
-animais, homem e – [Q.597a](#q597a)  
+animais, homem e – [Q.597a](#q597a) 
 
-anterioridade da – [222](#222)  
+anterioridade da – [222](#222) 
 
-atributos da – [Q.428](#q428)  
+atributos da – [Q.428](#q428) 
 
-conceito espírita de – [Intro 02](#lde-0-03-02)  
+conceito espírita de – [Intro 02](#lde-0-03-02) 
 
-conceitos de – [Intro 02](#lde-0-03-02), [Q.134](#q134), [Q.134a](#q134a), [Q.134b](#q134b), [Q.139](#q139)  
+conceitos de – [Intro 02](#lde-0-03-02), [Q.134](#q134), [Q.134a](#q134a), [Q.134b](#q134b), [Q.139](#q139) 
 
-corpo físico e – [Q.136b](#q136b), [222](#222)  
+corpo físico e – [Q.136b](#q136b), [222](#222) 
 
-corpo físico e sede da – [Q.146a](#q146a)  
+corpo físico e sede da – [Q.146a](#q146a) 
 
-corpo, perispírito e – [Q.135a](#q135a)  
+corpo, perispírito e – [Q.135a](#q135a) 
 
-criação da – [222](#222), [Q.789](#q789)  
+criação da – [222](#222), [Q.789](#q789) 
 
-desgoverno do extático e abandono pela – [Q.442](#q442)  
+desgoverno do extático e abandono pela – [Q.442](#q442) 
 
-desprendimento da – [Q.155](#q155)  
+desprendimento da – [Q.155](#q155) 
 
-destino da – [Q.787a](#q787a)  
+destino da – [Q.787a](#q787a) 
 
-do mundo da Terra – [Q.144](#q144)  
+do mundo da Terra – [Q.144](#q144) 
 
-dos cretinos e dos idiotas – [Q.371](#q371)  
+dos cretinos e dos idiotas – [Q.371](#q371) 
 
-dupla vista e exteriorização da – [Q.447](#q447)  
+dupla vista e exteriorização da – [Q.447](#q447) 
 
-elasticidade do termo – [Q.144](#q144)  
+elasticidade do termo – [Q.144](#q144) 
 
-emancipação da – [Q.400](#q400)  
+emancipação da – [Q.400](#q400) 
 
-errante – [Q.1015](#q1015)  
+errante – [Q.1015](#q1015) 
 
-Espírito errante e – [Q.224](#q224)  
+Espírito errante e – [Q.224](#q224) 
 
-existência do corpo e – [Q.136a](#q136a)  
+existência do corpo e – [Q.136a](#q136a) 
 
-individualidade da – [Q.150](#q150)  
+individualidade da – [Q.150](#q150) 
 
-invólucros da – [Q.141](#q141)  
+invólucros da – [Q.141](#q141) 
 
-irmãos siameses e – [Q.212](#q212)  
+irmãos siameses e – [Q.212](#q212) 
 
-irradiação da – [Q.454](#q454)  
+irradiação da – [Q.454](#q454) 
 
-lei divina e – [Q.620](#q620)  
+lei divina e – [Q.620](#q620) 
 
-matéria e – [Q.965](#q965)  
+matéria e – [Q.965](#q965) 
 
-metempsicose e evolução da – [Q.613](#q613)  
+metempsicose e evolução da – [Q.613](#q613) 
 
-morte e – [Q.149](#q149) a [Q.153](#q153)  
+morte e – [Q.149](#q149) a [Q.153](#q153) 
 
-organismo humano e – [Q.369](#q369)  
+organismo humano e – [Q.369](#q369) 
 
-pensamento e – [Q.89a](#q89a)  
+pensamento e – [Q.89a](#q89a) 
 
-percepção visual da – [Q.286](#q286)  
+percepção visual da – [Q.286](#q286) 
 
-perturbação espiritual da – [Q.163](#q163)  
+perturbação espiritual da – [Q.163](#q163) 
 
-primeira encarnação da – [Q.190](#q190)  
+primeira encarnação da – [Q.190](#q190) 
 
-prova da existência e independência da – [Q.455](#q455)  
+prova da existência e independência da – [Q.455](#q455) 
 
-questionamentos sobre a – [Q.148](#q148)  
+questionamentos sobre a – [Q.148](#q148) 
 
-reencarnação da – [Q.223](#q223)  
+reencarnação da – [Q.223](#q223) 
 
-retorno ao mundo espiritual – [Q.157](#q157), [Q.159](#q159)  
+retorno ao mundo espiritual – [Q.157](#q157), [Q.159](#q159) 
 
-sede da – [Q.146](#q146)  
+sede da – [Q.146](#q146) 
 
-selvagens e – [Q.191](#q191)  
+selvagens e – [Q.191](#q191) 
 
-sensações da – [Q.965](#q965)  
+sensações da – [Q.965](#q965) 
 
-sentimento e – [Q.725](#q725)  
+sentimento e – [Q.725](#q725) 
 
-separação definitiva do corpo – [Q.156](#q156)  
+separação definitiva do corpo – [Q.156](#q156) 
 
-separação do corpo – [Q.154](#q154)  
+separação do corpo – [Q.154](#q154) 
 
-separação parcial do corpo e da – [Q.455](#q455)  
+separação parcial do corpo e da – [Q.455](#q455) 
 
-sofredora – [Q.1015](#q1015)  
+sofredora – [Q.1015](#q1015) 
 
-sonhos e – [Q.402](#q402)  
+sonhos e – [Q.402](#q402) 
 
-teoria da subdivisão da – [Q.140](#q140)  
+teoria da subdivisão da – [Q.140](#q140) 
 
-teoria da unicidade das existências e dificuldades da * na vida futura – [222](#222)  
+teoria da unicidade das existências e dificuldades da * na vida futura – [222](#222) 
 
-todo universal e – [Q.151](#q151)  
+todo universal e – [Q.151](#q151) 
 
-torturas da – [Q.933](#q933)  
+torturas da – [Q.933](#q933) 
 
-união do corpo e da – [Q.344](#q344)  
+união do corpo e da – [Q.344](#q344) 
 
-vida material e – [Q.138](#q138)  
+vida material e – [Q.138](#q138) 
 
-vista da – [Q.455](#q455)  
+vista da – [Q.455](#q455) 
 
 ##### <span class="emoji">🏷️</span> Ambição {#ambicao}
-culpa por guerras e – [Q.745](#q745)  
+culpa por guerras e – [Q.745](#q745) 
 
-privação alheia e – [Q.717](#q717)  
+privação alheia e – [Q.717](#q717) 
 
-supérfluo e – [Q.717](#q717)  
+supérfluo e – [Q.717](#q717) 
 
 ##### <span class="emoji">🏷️</span> Ambiente {#ambiente}
-criminalidade e – [Q.644](#q644)  
+criminalidade e – [Q.644](#q644) 
 
-provas e – [Q.260a](#q260a)  
+provas e – [Q.260a](#q260a) 
 
 ##### <span class="emoji">🏷️</span> Amizade {#amizade}
-além-túmulo e – [Q.488](#q488)  
+além-túmulo e – [Q.488](#q488) 
 
-ingratidão e – [Q.937](#q937), [Q.938a](#q938a)  
+ingratidão e – [Q.937](#q937), [Q.938a](#q938a) 
 
 ##### <span class="emoji">🏷️</span> Amor {#amor}
-conceito de – [Q.888a](#q888a)  
+conceito de – [Q.888a](#q888a) 
 
-espíritos e sentimento de – [Q.291](#q291), [Q.485](#q485)  
+espíritos e sentimento de – [Q.291](#q291), [Q.485](#q485) 
 
-felicidade e – [Q.938a](#q938a)  
+felicidade e – [Q.938a](#q938a) 
 
-filial e paterno – [Q.681](#q681)  
+filial e paterno – [Q.681](#q681) 
 
-homem de bem e o – [Q.918](#q918)  
+homem de bem e o – [Q.918](#q918) 
 
-inimigos e – [Q.887](#q887)  
+inimigos e – [Q.887](#q887) 
 
-materno e filial – [Q.890](#q890)  
+materno e filial – [Q.890](#q890) 
 
-necessidade do – [Q.938a](#q938a)  
+necessidade do – [Q.938a](#q938a) 
 
-reciprocidade no – [Q.939](#q939)  
+reciprocidade no – [Q.939](#q939) 
 
 ##### <span class="emoji">🏷️</span> Ancianidade {#ancianidade}
-Espiritismo e – [Q.221a](#q221a)  
+Espiritismo e – [Q.221a](#q221a) 
 
 ##### <span class="emoji">🏷️</span> Animais {#animais}
-alma dos – [Q.600](#q600)  
+alma dos – [Q.600](#q600) 
 
-comunicação entre os – [Q.594a](#q594a)  
+comunicação entre os – [Q.594a](#q594a) 
 
-conhecimento de Deus nos mundos superiores e os – [Q.603](#q603)  
+conhecimento de Deus nos mundos superiores e os – [Q.603](#q603) 
 
-destruição sobre os – [Q.734](#q734)  
+destruição sobre os – [Q.734](#q734) 
 
-encarnação e – [Q.599](#q599)  
+encarnação e – [Q.599](#q599) 
 
-evolução dos – [Q.602](#q602)  
+evolução dos – [Q.602](#q602) 
 
-expiação e – [Q.602](#q602)  
+expiação e – [Q.602](#q602) 
 
-homem e – [Q.592](#q592)  
+homem e – [Q.592](#q592) 
 
-individualidade e – [Q.598](#q598)  
+individualidade e – [Q.598](#q598) 
 
-instinto e – [Q.593](#q593)  
+instinto e – [Q.593](#q593) 
 
-inteligência e – [Q.604a](#q604a)  
+inteligência e – [Q.604a](#q604a) 
 
-inteligência rudimentar e – [Q.593](#q593)  
+inteligência rudimentar e – [Q.593](#q593) 
 
-liberdade de ação dos – [Q.595](#q595)  
+liberdade de ação dos – [Q.595](#q595) 
 
-livre-arbítrio e – [Q.595](#q595)  
+livre-arbítrio e – [Q.595](#q595) 
 
-mundos superiores e – [Q.601](#q601)  
+mundos superiores e – [Q.601](#q601) 
 
-princípio sobrevivente ao corpo dos – [Q.597](#q597)  
+princípio sobrevivente ao corpo dos – [Q.597](#q597) 
 
-respeito aos – [Q.734](#q734a)  
+respeito aos – [Q.734](#q734a) 
 
-sacrifício de – [Q.669a](#q669a)  
+sacrifício de – [Q.669a](#q669a) 
 
-trabalho dos – [Q.677](#q677)  
+trabalho dos – [Q.677](#q677) 
 
-vida dos – [Q.773](#q773)  
+vida dos – [Q.773](#q773) 
 
 ##### <span class="emoji">🏷️</span> Anjo {#anjo}
-alegoria representativa de – [Q.131](#q131)  
+alegoria representativa de – [Q.131](#q131) 
 
-demônio e – [Q.128](#q128) a [Q.131](#q131)  
+demônio e – [Q.128](#q128) a [Q.131](#q131) 
 
-perfeição e – [Q.129](#q129)  
+perfeição e – [Q.129](#q129) 
 
 ##### <span class="emoji">🏷️</span> Anjo da guarda {#anjo-da-guarda}
-Anjo da guarda – [Q.489](#q489) a [Q.514](#q514)  
+Anjo da guarda – [Q.489](#q489) a [Q.514](#q514) 
 
-assistência do – [Q.495](#q495)  
+assistência do – [Q.495](#q495) 
 
-conceito de – [Q.490](#q490), [Q.514](#q514)  
+conceito de – [Q.490](#q490), [Q.514](#q514) 
 
-doutrina de – [Q.495](#q495)  
+doutrina de – [Q.495](#q495) 
 
-identidade civil de – [Q.504](#q504)  
+identidade civil de – [Q.504](#q504) 
 
-proteção de – [Q.489](#q489)  
+proteção de – [Q.489](#q489) 
 
 ##### <span class="emoji">🏷️</span> Antepassados {#antepassados}
-culto aos – [Q.206](#q206)  
+culto aos – [Q.206](#q206) 
 
 ##### <span class="emoji">🏷️</span> Antiguidade {#antiguidade}
-teor das comunicações mediúnicas na – [Q.628](#q628)  
+teor das comunicações mediúnicas na – [Q.628](#q628) 
 
 ##### <span class="emoji">🏷️</span> Antipatia {#antipatia}
-casamento e – [Q.940](#q940)  
+casamento e – [Q.940](#q940) 
 
-causas e efeitos da – [Q.391](#q391)  
+causas e efeitos da – [Q.391](#q391) 
 
-instintiva – [Q.389](#q389)  
+instintiva – [Q.389](#q389) 
 
-instintiva e retardamento na chegada à perfeição – [Q.390](#q390)  
+instintiva e retardamento na chegada à perfeição – [Q.390](#q390) 
 
-simpatia e – [Q.293](#q293)  
+simpatia e – [Q.293](#q293) 
 
-união e – [Q.939](#q939)  
+união e – [Q.939](#q939) 
 
 ##### <span class="emoji">🏷️</span> Antropofagia {#antropofagia}
-fome e – [Q.709](#q709)  
+fome e – [Q.709](#q709) 
 
-homicídio e crime de lesa-natureza na – [Q.709](#q709)  
+homicídio e crime de lesa-natureza na – [Q.709](#q709) 
 
-mal e – [Q.637](#q637)  
+mal e – [Q.637](#q637) 
 
-selvagem e – [Q.637](#q637)  
+selvagem e – [Q.637](#q637) 
 
 ##### <span class="emoji">🏷️</span> Apego {#apego}
-bens terrenos e – [Q.895](#q895)  
+bens terrenos e – [Q.895](#q895) 
 
-produção intelectual e – [Q.315](#q315)  
+produção intelectual e – [Q.315](#q315) 
 
 ##### <span class="emoji">🏷️</span> Aperfeiçoamento {#aperfeicoamento}
-esforço e – [Q.988](#q988)  
+esforço e – [Q.988](#q988) 
 
-necessidade do – [Q.988](#q988)  
+necessidade do – [Q.988](#q988) 
 
-reprovação aos sacrifícios e – [Q.670](#q670)  
+reprovação aos sacrifícios e – [Q.670](#q670) 
 
-seres vivos e – [Q.703](#q703)  
+seres vivos e – [Q.703](#q703) 
 
 ##### <span class="emoji">🏷️</span> Aposentadoria {#aposentadoria}
-idoso e – [Q.685a](#q685a)  
+idoso e – [Q.685a](#q685a) 
 
 ##### <span class="emoji">🏷️</span> Aptidão {#aptidao}
-aquisições de – [Q.366](#q366), [Q.804](#q804)  
+aquisições de – [Q.366](#q366), [Q.804](#q804) 
 
-desigualdade de – [222](#222), [Q.804](#q804)  
+desigualdade de – [222](#222), [Q.804](#q804) 
 
-exercício de – [Q.370a](#q370a)  
+exercício de – [Q.370a](#q370a) 
 
-grau de aperfeiçoamento e – [Q.805](#q805)  
+grau de aperfeiçoamento e – [Q.805](#q805) 
 
-influência do organismo e – [Q.372a](#q372a)  
+influência do organismo e – [Q.372a](#q372a) 
 
-nascimento e desenvolvimento de – [Q.352](#q352)  
+nascimento e desenvolvimento de – [Q.352](#q352) 
 
-trabalho conforme a – [Q.680](#q680)  
+trabalho conforme a – [Q.680](#q680) 
 
 ##### <span class="emoji">🏷️</span> Arrependimento {#arrependimento}
-demora para o – [Q.993](#q993)  
+demora para o – [Q.993](#q993) 
 
-desencarnado e – [Q.990](#q990), [Q.994](#q994)  
+desencarnado e – [Q.990](#q990), [Q.994](#q994) 
 
-encarnado e – [Q.990](#q990), [Q.992](#q992)  
+encarnado e – [Q.990](#q990), [Q.992](#q992) 
 
-evolução e – [Q.992](#q992)  
+evolução e – [Q.992](#q992) 
 
-expiação e – [Q.999](#q999)  
+expiação e – [Q.999](#q999) 
 
-lei do progresso e – [Q.1007](#q1007)  
+lei do progresso e – [Q.1007](#q1007) 
 
-necessidade do – [Q.999a](#q99a)  
+necessidade do – [Q.999a](#q99a) 
 
-reabilitação e – [Q.1002](#q1002)  
+reabilitação e – [Q.1002](#q1002) 
 
-reencarnação e – [Q.194a](#q194a), [Q.991](#q991)  
+reencarnação e – [Q.194a](#q194a), [Q.991](#q991) 
 
-tardio – [Q.1007](#q1007)  
+tardio – [Q.1007](#q1007) 
 
-última hora para o – [Q.1002](#q1002)  
+última hora para o – [Q.1002](#q1002) 
 
 ##### <span class="emoji">🏷️</span> Arte {#arte}
-assistência espiritual e – [Q.521](#q521)  
+assistência espiritual e – [Q.521](#q521) 
 
 ##### <span class="emoji">🏷️</span> Assassinato {#assassinato}
-culpa e – [Q.747](#q747)  
+culpa e – [Q.747](#q747) 
 
-guerra e – [Q.749](#q749)  
+guerra e – [Q.749](#q749) 
 
-legítima defesa e – [Q.748](#q748), [Q.757](#q757)  
+legítima defesa e – [Q.748](#q748), [Q.757](#q757) 
 
-responsabilidade decorrente do – [Q.746](#q746)  
+responsabilidade decorrente do – [Q.746](#q746) 
 
-suicídio e – [Q.758a](#q758a)  
+suicídio e – [Q.758a](#q758a) 
 
 ##### <span class="emoji">🏷️</span> Assembleia {#assembleia}
-espíritos encarnados em – [Q.417](#q417)  
+espíritos encarnados em – [Q.417](#q417) 
 
 ##### <span class="emoji">🏷️</span> Assistência espiritual {#assitencia-espiritual}
-Allan Kardec e – [Prefácio](#lde-0-02)  
+Allan Kardec e – [Prefácio](#lde-0-02) 
 
-artes, artistas e – [Q.521](#q521)  
+artes, artistas e – [Q.521](#q521) 
 
-de superior a inferior – [Q.495](#q495)  
+de superior a inferior – [Q.495](#q495) 
 
-família e – [Q.517](#q517)  
+família e – [Q.517](#q517) 
 
-gradações na – [Q.514](#q514)  
+gradações na – [Q.514](#q514) 
 
-oportunidade para – [Q.410](#q410)  
+oportunidade para – [Q.410](#q410) 
 
-pedidos de – [Q.910](#q910)  
+pedidos de – [Q.910](#q910) 
 
-ser humano e – [Q.512](#q512)  
+ser humano e – [Q.512](#q512) 
 
 ##### <span class="emoji">🏷️</span> Assistência social {#assistencia-social}
-previdência e – [Q.685a](#q685a)  
+previdência e – [Q.685a](#q685a) 
 
 ##### <span class="emoji">🏷️</span> Ateísmo {#ateismo}
-sentimento de adoração e – [Q.651](#q651)  
+sentimento de adoração e – [Q.651](#q651) 
 
 ##### <span class="emoji">🏷️</span> Atração {#atracao}
-minerais e – [Q.888a](#q888a)  
+minerais e – [Q.888a](#q888a) 
 
 ##### <span class="emoji">🏷️</span> Autenticidade {#autenticidade}
-autoconhecimento e – [Q.919](#q919)  
+autoconhecimento e – [Q.919](#q919) 
 
 fenômeno espírita e – [Intro 09](#lde-0-03-09)
 
 ##### <span class="emoji">🏷️</span> Automatismo {#automatismo}
-conveniência e – [Q.590](#q590)  
+conveniência e – [Q.590](#q590) 
 
-matéria e – [Q.588](#q588)  
+matéria e – [Q.588](#q588) 
 
-rejeição e – [Q.589](#q589)  
+rejeição e – [Q.589](#q589) 
 
-transição e – [Q.589](#q589)  
+transição e – [Q.589](#q589) 
 
 ##### <span class="emoji">🏷️</span> Autor {#autor}
-pregação e – [Q.905](#q905)  
+pregação e – [Q.905](#q905) 
 
 ##### <span class="emoji">🏷️</span> Autoridade {#autoridade}
-providências para o bem público e – [Q.483](#q483)  
+providências para o bem público e – [Q.483](#q483) 
 
-superioridade e – [Q.274a](#q274a)  
+superioridade e – [Q.274a](#q274a) 
 
 ##### <span class="emoji">🏷️</span> Avaliação {#avaliacao}
-ações e atitudes do cotidiano em constante – [Q.919a](#q919a)  
+ações e atitudes do cotidiano em constante – [Q.919a](#q919a) 
 
 ##### <span class="emoji">🏷️</span> Avareza {#avareza}
-demonstrações da – [Q.901](#q901)  
+demonstrações da – [Q.901](#q901) 
 
 Avoengos ver Antepassados
 
@@ -14861,7 +14861,7 @@ Avoengos ver Antepassados
 
 ##### ##### <span class="emoji">🏷️</span> item
 
-### 6.03 📃 Notas de rodapé {#lde-6-03}
+### 6.03 <span class="emoji">📃</span> Notas de rodapé {#lde-6-03}
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
@@ -14877,42 +14877,42 @@ Avoengos ver Antepassados
 
 [^7]: N.E.: Ano do calendário judaico.
 
-[^8]: A.K. Ver a explicação sobre o termo **alma** (👉 [LDE-0-02-02](#lde-0-02-02)).
+[^8]: A.K. Ver a explicação sobre o termo **alma** ( <span class="emoji">👉</span> [LDE-0-02-02](#lde-0-02-02)).
 
-[^9]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^9]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
 [^10]: A.K.: Segundo os [Espíritos](Espírito){:.w}, de todos os mundos que compõem o nosso sistema planetário, a [Terra](Terra){:.w} é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos [Espíritos](Espírito){:.w} superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de [Espíritos](Espírito){:.w} menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga. O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a [Terra](Terra){:.w} e Saturno menos do que Júpiter. Muitos [Espíritos](Espírito){:.w}, que na [Terra](Terra){:.w} animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos [Espíritos](Espírito){:.w}, habitantes daquele planeta, foram mandados à [Terra](Terra){:.w} para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na [Terra](Terra){:.w} e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um [Espírito](Espírito){:.w} habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris. As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na [Terra](Terra){:.w} e as idades não se podem comparar. Evocado, um [Espírito](Espírito){:.w} que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à [inteligência](Inteligência){:.w}, tenho trinta anos da idade que tive na Terra. Muitas respostas análogas foram dadas por outros [Espíritos](Espírito){:.w} e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na [Terra](Terra){:.w} aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a [Deus](Deus){:.l}.
 
-[^11]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^11]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^12]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^12]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^13]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^13]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^14]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^14]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^15]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^15]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
 [^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, 664, é do [Espírito](Espírito){:.w} **São Luís, IX de França**.
 
-[^17]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^17]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^18]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^18]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^19]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^19]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^20]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^20]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^21]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^21]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^22]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^22]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^23]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^23]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
 [^24]: N.E.: Frase atribuída ao filósofo grego **Sócrates** (470–399 a.C.)
 
 [^25]: N.E.: Na 2ª impressão da 2ª edição de *O Livro dos Espíritos*, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
 
-[^26]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^26]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
 
-[^27]: N.E.: Ver 👉 [Nota explicativa](#lde-6-01).
+[^27]: N.E.: Ver <span class="emoji">👉</span> [Nota explicativa](#lde-6-01).
