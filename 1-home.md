@@ -48,7 +48,7 @@ Para efeito de corroboração, apresentamos aqui uma mensagem mediúnica, de vá
 Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). 
 
 <!--
-<img src="./crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;">
+<img src="./images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;">
 -->
 
 ## Contribuições
@@ -61,7 +61,7 @@ Por fim, ficaríamos gratos com seus:
 
 Tenha um bom estudo! 🌢
 
-<img src="./me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; overflow:clip !important">
+<img src="./images/me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; overflow:clip !important">
 
 Sergio
 {:.cursive}
