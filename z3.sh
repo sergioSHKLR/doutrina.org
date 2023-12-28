@@ -1,1 +1,1 @@
-ps -ef | grep z-serve
+ps -ef | grep jekyll
