@@ -3,20 +3,19 @@ layout: ext
 version: 23.12.27
 ---
 
- <!-- GOOGLE PRECONNECT -->
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
- <!-- GOOGLE EMOJI -->
- <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
-
 <style>
-    span.emoji {
-  font-family: 'Noto Color Emoji', sans-serif;
-}
+   .footnotes {
+         font-size: 80%;
+         position: absolute;
+         bottom: 0px;
+         padding-bottom: 20px;
+      }
+      div.footnotes {
+         border-top: 1px solid #66666680;
+      }
 </style>
 
-# <span class="emoji">🪧</span> Complementar
+# <span class="emoji">🪧</span> Complementar [^1]
 
 ## Conteúdo
 
@@ -31,3 +30,4 @@ Os links da coluna principal são abertos aqui. Eles podem ser:
 - <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da Wikimedia
 - <span class="emoji">✝️</span> bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com
 
+[^1]: Dentro das limitações técnicas, legais e éticas.

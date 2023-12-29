@@ -46,9 +46,9 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td class="center"><img src="./hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td class="center"><img src="./hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td class="center"><img src="./hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
+<tr><td class="center"><img src="./images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td class="center"><img src="./images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td class="center"><img src="./images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
 </table>
 
 ## Método
