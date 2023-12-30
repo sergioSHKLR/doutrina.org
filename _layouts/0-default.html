@@ -126,53 +126,37 @@
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
-      <!-- COL1 VERT TOOLS-->
-      <div id="vert-tools">
-         <button id="tools-menu" onclick="function00()" title="ajustar letra, parágrafo e fundo">Aa</button>
-         <div id="vert-tools-buttons" class="hide">
-            <button class="tools fontSize" id="decreasetext" type="button" value="-1"><span
-                  class="icon">text_decrease</span></button>
-            <button class="tools fontSize" id="increasetext" type="button" value="+1"><span
-                  class="icon">text_increase</span></button>
-            <button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span
-                  class="icon">density_small</span></button>
-            <button class="tools lineHeight" id="increaselineheight" type="button" value="+1"><span
-                  class="icon">density_large</span></button>
-            <button class="tools" id="ff-se-btn" onclick="function02()" title="tipo serif"><span
-                  style="font-family: 'Georgia', serif;">Se</span></button>
-            <button class="tools" id="ff-sa-btn" onclick="function03()" title="tipo sans"><span
-                  style="font-family: 'Inter', sans;">Sa</span></button>
-            <button class="tools" id="ff-mo-btn" onclick="function04()" title="tipo mono"><span
-                  style="font-family: 'Roboto Mono', monospace;">Mo</span></button>
-            <button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelo"><span
-                  class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span></button>
-            <button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo verde"><span
-                  class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span></button>
-            <button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo rosa"><span
-                  class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span></button>
-            <button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span
-                  class="icon">format_align_justify</span></button>
-            <!--<button class="tools" id="al-off-btn" onclick="function10()" title="esconder links"><span class="icon" style="color: royalblue;">link_off</span></button> -->
-            <button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo"><span class="icon"
-                  style="color: crimson;">restart_alt</span></button>
-         </div>
-      </div>
+<!-- COL1 VERT TOOLS-->
+<div id="vert-tools">
+   <button id="tools-menu" onclick="function00()" title="ajustar letra, parágrafo e fundo" style="padding-top: 5px;">Aa<br><span class="label" style="position: relative; top: -12px;">ajustes</span></button>
+   <div id="vert-tools-buttons" class="hide">
+   <button class="tools fontSize" id="decreasetext" type="button" value="-1"><span class="icon">text_decrease</span></button>
+   <button class="tools fontSize" id="increasetext" type="button" value="+1"><span class="icon">text_increase</span></button>
+   <button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span class="icon">density_small</span></button>
+   <button class="tools lineHeight" id="increaselineheight" type="button" value="+1"><span class="icon">density_large</span></button>
+   <button class="tools" id="ff-se-btn" onclick="function02()" title="tipo serif"><span style="font-family: 'Georgia', serif;">Se</span></button>
+   <button class="tools" id="ff-sa-btn" onclick="function03()" title="tipo sans"><span style="font-family: 'Inter', sans;">Sa</span></button>
+   <button class="tools" id="ff-mo-btn" onclick="function04()" title="tipo mono"><span style="font-family: 'Roboto Mono', monospace;">Mo</span></button>
+   <button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelo"><span class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span></button>
+   <button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo verde"><span class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span></button>
+   <button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo rosa"><span class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span></button>
+   <button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span class="icon">format_align_justify</span></button>
+   <!--<button class="tools" id="al-off-btn" onclick="function10()" title="esconder links"><span class="icon" style="color: royalblue;">link_off</span></button> -->
+   <button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo"><span class="icon" style="color: crimson;">restart_alt</span></button>
+   </div>
+   </div>
    </div>
 
-   <!-- COL2 HEAD -->
-   <div id="col2-head" class="head">
-      <button id="col2-menu-on" onclick="menuOn()" title="abrir menu"><span class="icon">menu</span></button>
-      <button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span class="icon">close</span></button>
-      <a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
-      <!--<button id="webshare" class="fr" label="compartilhe"><span class="icon">share</span></button> -->
-      <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="tela cheia"><span
-            class="icon">fullscreen</span></button>
-      <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="tela normal"><span
-            class="icon">fullscreen_exit</span></button>
-      <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span
-            class="icon">contrast</span></button>
-      <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
-            class="icon">contrast_rtl_off</span></button>
+<!-- COL2 HEAD -->
+<div id="col2-head" class="head">
+   <button id="col2-menu-on" onclick="menuOn()" title="abrir menu"><span class="icon">menu</span></button>
+   <button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span class="icon">close</span></button>
+   <a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
+   <!--<button id="webshare" class="fr" label="compartilhe"><span class="icon">share</span></button> -->
+   <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="tela cheia"><span class="icon">fullscreen</span></button>
+   <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="tela normal"><span class="icon">fullscreen_exit</span></button>
+   <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
+   <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
    </div>
 
    <!-- COL2 BODY -->
@@ -180,15 +164,12 @@
       {{ content }}
    </div>
 
-   <!-- COL3 HEAD -->
-   <div id="col3-head" class="head">
-      <a id="col3-link3-a" class="fr" target="ext" href="./maps/map-ese.html" title="atlas"><span
-            class="icon">location_on</span></a>
-      <a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="dicionário"><span
-            class="icon">book_2</span></a>
-      <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia"><span
-            class="icon">language</span></a>
-      <!--<a id="col3-link4-a" class="fr" target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514" title="vídeo chamada"><span class="icon">video_call</span></a> -->
+<!-- COL3 HEAD -->
+<div id="col3-head" class="head">
+   <a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="atlas"><span class="icon">location_on</span><br><span class="label">atlas</span></a>
+   <a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="dicionário"><span class="icon">book_2</span><br><span class="label">dicio.</span></a>
+   <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="enciclopédia"><span class="icon">language</span><br><span class="label">encic.</span></a>
+   <!--<a id="col3-link4-a" class="fr" target="_blank" href="https://doutrina.whereby.com/whereby-2023-8maxc22cd350-c33a-4f52-bd16-862eaddd5514" title="vídeo chamada"><span class="icon">video_call</span></a> -->
    </div>
 
    <!-- COL3 BODY -->

@@ -2,7 +2,7 @@
 
 /* VARIABLES START */
 :root {
-    --accent-color: hsl(198, 65%, 97%);
+    --accent-color: hsl(198, 65%, 95%);
     --bground-color-grey: gray;
     --body-bground: #fff;
     --body-color: #222;
@@ -36,7 +36,8 @@ img {
     overflow: clip;
 }
 
-html {    color-scheme: dark;
+html {
+    color-scheme: dark;
 }
 
 body {
@@ -157,7 +158,9 @@ body {
     width: var(--column-width);
 }
 
-iframe {filter: brightness(1)}
+iframe {
+    filter: brightness(1)
+}
 
 /* FRAMEWORK DIVS END */
 /*------------------------------------------------*/
@@ -213,7 +216,7 @@ a#col3-link1-a,
 a#col3-link2-a,
 a#col3-link3-a,
 a#col3-link4-a {
-    bottom: 2px;
+    bottom: 10px;
     color: var(--body-color);
     font: 24px Inter;
     height: 40px;
@@ -624,13 +627,22 @@ button.tools:hover {
     top: 3px;
 }
 
+.label {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    justify-content: center;
+    position: relative;
+    top: -17px;
+    left: 1px;
+}
+
 /* TOOLS END */
 /*------------------------------------------------*/
 
 /* DARK MODE START */
 
 .dark-mode {
-    --accent-color: hsl(198, 65%, 6%);
+    --accent-color: hsl(198, 65%, 10%);
     --body-bground: #222;
     --body-color: #eee;
     --border-color: #ADADAD80;
@@ -705,7 +717,8 @@ button.tools:hover {
     background-color: #333
 }
 
-.dark-mode iframe {  filter: var(--iframe-filter)
+.dark-mode iframe {
+    filter: var(--iframe-filter)
 }
 
 .dark-mode,
@@ -731,7 +744,7 @@ button.tools:hover {
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --accent-color: hsl(198, 65%, 6%);
+        --accent-color: hsl(198, 65%, 10%);
         --body-bground: #222;
         --body-color: #eee;
         --border-color: #ADADAD80;
@@ -750,7 +763,8 @@ button.tools:hover {
         display: none;
     }
 
-    iframe {  filter: var(--iframe-filter)
+    iframe {
+        filter: var(--iframe-filter)
     }
 }
 
@@ -793,7 +807,7 @@ button.tools:hover {
 
     #col2-dm-btn,
     #col2-lm-btn {
-        padding-right: 25px
+        padding-right: 25px;
     }
 
     #col2-head,
@@ -1044,13 +1058,6 @@ strong {
     padding: 0 2px
 }
 
-.label {
-    font-size: 12px;
-    left: 5px;
-    position: relative;
-    top: -9px
-}
-
 .show {
     display: block
 }
@@ -1152,12 +1159,6 @@ p.cursive {
     margin-top: -20px
 }
 
-span.label {
-    font-size: 10px;
-    justify-content: center;
-    text-align: center
-}
-
 summary.ff-mono {
     width: 90%
 }
@@ -1177,6 +1178,12 @@ span.emoji {
 
 .footnotes {
     font-size: 80%;
+}
+
+#col2-dm-btn,
+#col2-lm-btn {
+    position: relative !important;
+    top: -4px !important;
 }
 
 /* OTHERS END */
