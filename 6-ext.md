@@ -15,6 +15,9 @@ version: 23.12.27
          margin-top: 50vh;
          border-top: 1px solid #66666680;
       }
+span.emoji {
+    font-family: 'Noto Color Emoji', sans-serif;
+}
 </style>
 
 # <span class="emoji">🪧</span> Complementar
