@@ -4,6 +4,10 @@ layout: 0-default
 version: 23.12.27
 ---
 
+<style>
+     .spirit-multi, .bible-multi {font-family: 'Roboto Slab', serif; }
+     </style>
+
 # <span class="emoji">📋</span> Informações
 
 *[LDE]: O Livro dos Espíritos
@@ -31,11 +35,11 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 <tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Georgia', serif">Se</span></td><td>Tipo serifa</td></tr>
 <tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Inter', serif">Sa</span></td><td>Tipo sem-serifa</td></tr>
 <tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Roboto Slab', serif">Mo</span></td><td>Tipo mono-espaço</td></tr>
-<tr><td class="center"><span class="icon" style="font-size: 120%">density_small</span></td><td>Entrelinhas estreitas</td></tr>
-<tr><td class="center"><span class="icon" style="font-size: 120%">density_large</span></td><td>Entrelinhas largas</td></tr>
-<tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #fffce4;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
-<tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #e8fce4;">&nbsp;</span></td><td>Fundo verde</td></tr>
-<tr><td class="center"><span class="icon tools-120 tools-round" style="background-color: #fff4fc;">&nbsp;</span></td><td>Fundo rosa</td></tr>
+<tr><td class="center"><span class="icon tools-120">density_small</span></td><td>Entrelinhas estreitas</td></tr>
+<tr><td class="center"><span class="icon tools-120">density_large</span></td><td>Entrelinhas largas</td></tr>
+<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #fffce4;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
+<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #e8fce4;">&nbsp;</span></td><td>Fundo verde</td></tr>
+<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #fff4fc;">&nbsp;</span></td><td>Fundo rosa</td></tr>
 <!-- <tr><td class="center"><span class="icon" style="color: royalblue;">link_off</span></td><td>Esconder links</td></tr> -->
 <tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
  </table>  
@@ -215,7 +219,7 @@ De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens
 > Espírito
 {:.spirit-multi}
 
-e este outro formato para mensagesn bíblicas
+e este outro formato para mensagens bíblicas
 
 > ✝️ ▸ Mensagem (*Jesus*)
 >
@@ -289,12 +293,6 @@ Mostramos conteúdo proveniente de:
 | Digitalizar o indíce geral de cada livro e estabelecer links | 🟡 |
 | Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas | 🟡 |
 | Criar um indíce combinado de todos os cinco livros | 🔴 |
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<hr>
 
 <script type="application/json" class="js-hypothesis-config">
 {

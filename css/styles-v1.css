@@ -607,16 +607,21 @@ button.tools:hover {
 
 .tools-100 {
     font-size: 100%;
+    position: relative;
+    top: 3px;
 }
 
 .tools-120 {
     font-size: 120%;
+    position: relative;
+    top: 3px;
 }
 
 .tools-round {
     border-radius: 50%;
     border: 1px solid #59595980;
-    transform: scale(.5);
+    position: relative;
+    top: 3px;
 }
 
 /* TOOLS END */

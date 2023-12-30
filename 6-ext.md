@@ -4,22 +4,24 @@ version: 23.12.27
 ---
 
 <style>
+   body {font-family: 'Inter', sans-serif; }
    .footnotes {
          font-size: 80%;
-         position: absolute;
+         position: relative;
          bottom: 0px;
          padding-bottom: 20px;
       }
       div.footnotes {
+         margin-top: 50vh;
          border-top: 1px solid #66666680;
       }
 </style>
 
-# <span class="emoji">🪧</span> Complementar [^1]
+# <span class="emoji">🪧</span> Complementar
 
 ## Conteúdo
 
-Os links da coluna principal são abertos aqui. Eles podem ser:
+Os links da coluna principal são abertos aqui [^1]. Eles podem ser:
 
 - <span class="emoji">📰</span> artigos do Wikipédia
 - <span class="emoji">📔</span> definições de palavras do Wikicionário
