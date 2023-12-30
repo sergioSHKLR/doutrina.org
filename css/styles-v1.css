@@ -1181,7 +1181,10 @@ span.emoji {
 }
 
 #col2-dm-btn,
-#col2-lm-btn {
+#col2-lm-btn,
+#col2-fs-btn,
+#col2-ns-btn,
+#webshare {
     position: relative !important;
     top: -4px !important;
 }
