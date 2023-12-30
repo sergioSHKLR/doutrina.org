@@ -303,11 +303,6 @@ a#col3-link4-a {
     background-color: transparent;
 }
 
-#col2-head button {
-    position: relative;
-    top: -1px
-}
-
 #col2-body blockquote:first-letter {
     background-color: #1e90ff;
     border-bottom: 1.5px solid #06c;
