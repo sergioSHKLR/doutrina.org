@@ -26,6 +26,7 @@ version: 23.12.27
 
  <small>Lançamento em 18-Abr-2024<br>
  (em <span id="demo"></span>)<br>
+ <br>
  Não otimizado para Apple/IOS</small>
  {:.banner}
 
