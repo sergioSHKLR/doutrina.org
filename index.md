@@ -25,8 +25,11 @@ version: 23.12.27
 {:class="hero"}
 
  <small>Lançamento em 18-Abr-2024<br>
- (em <span id="demo"></span>)</small>
+ (em <span id="demo"></span>)<br>
+ Não otimizado para Apple/IOS</small>
  {:.banner}
+
+
 
 <script>
     // Set the date we're counting down to
