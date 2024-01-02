@@ -3,10 +3,6 @@ layout: ext
 version: 23.12.27
 ---
 
-<style>
-
-</style>
-
 # <span class="emoji">🪧</span> Complementar
 
 ## Conteúdo
