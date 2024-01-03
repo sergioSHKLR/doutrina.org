@@ -1095,11 +1095,12 @@ blockquote>p>em,
 blockquote.bible>p>em,
 blockquote.bible-multi>p>em,
 blockquote.spirit>p>em,
-blockquote.spirit-multi>p>em,
-blockquote.grey>p>em {
-    color: var(--jesus-color) !important;
-    font-weight: 300 !important;
+blockquote.spirit-multi>p>em {
+    color: var(--jesus-color);
+    font-weight: 300;
 }
+
+blockquote.grey>p>em {color: inherit;}
 
 button {
     background-color: transparent;

@@ -19,24 +19,24 @@ version: 23.12.27
 
 ### <span class="emoji">📄</span> Folha de rosto {#lde-0-01}
 
-><br>
->[Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l} 
-><br>
-> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} 
-><br>
-> Princípios da [Doutrina](Espiritismo){:.l} Espírita 
-><br>
-> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por [Espíritos](Espírito){:.w} superiores com o concurso de diversos [médiuns](Mediunidade){:.w}. 
-><br>
-> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>) 
-><br>
-> Tradução de [Guillon Ribeiro](Guillon_Ribeiro){:.w}
-><br>
->Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}
-><br>
-> Modificado para o consumo digital por Sergio de 
-> <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"} 
-><br>
+> <br>
+> [Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l}  
+>  
+> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}  
+>  
+> Princípios da [Doutrina](Espiritismo){:.l} Espírita  
+>  
+> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por [Espíritos](Espírito){:.w} superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.  
+>  
+> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>)  
+>  
+> Tradução de [Guillon Ribeiro](Guillon_Ribeiro){:.w}  
+>  
+> Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}  
+>  
+> Modificado para o consumo digital por Sergio de  
+> <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"}  
+>  
 {:.grey-center}
 
 ### <span class="emoji">📄</span> Prefácio {#lde-0-02}
@@ -109,7 +109,7 @@ Pensam outros que a [alma](Alma){:.l} é o princípio da [inteligência](Intelig
 
 Segundo outros, finalmente, a [alma](Alma){:.l} é um ser [moral](Moral){:.w}, distinto, independente da matéria e que conserva sua individualidade após a [morte](Morte){:.w}. Esta [acepção](acepção){:.d} é, sem contradita, a mais geral, porque, debaixo de um nome ou de outro, a ideia desse ser que sobrevive ao corpo se encontra, no estado de crença instintiva, não derivada de ensino, entre todos os povos, qualquer que seja o grau de [civilização](Civilização){:.w} de cada um. Essa doutrina, segundo a qual a [alma](Alma){:.l} é **[causa](Causalidade){:.w}** e não **efeito**, é a dos espiritualistas.
 
-Sem discutir o [mérito](mérito){:.d} de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo **alma** correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice [acepção](acepção){:.d} e cada um, do seu ponto de vista, pode com [razão](Razão){:.w} defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo [equívoco](equívoco){:.d}, seria necessário restringir-se a [acepção](acepção){:.d} do termo **alma** a uma daquelas ideias. A escolha é indiferente; o que se faz [mister](mister){:.d} é o entendimento entre todos, reduzindo-se o problema a uma simples questão de convenção. Julgamos mais lógico tomá-lo na sua [acepção](acepção){:.d} vulgar e por isso chamamos [alma](Alma){:.l} **ao ser [imaterial](imaterial){:.d} e individual que em nós reside e sobrevive ao corpo**. Mesmo quando esse ser não existisse, não passasse de produto da [imaginação](Imaginação){:.w}, ainda assim seria preciso um termo para designá-lo.
+Sem discutir o [mérito](mérito){:.d} de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo **alma** correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice [acepção](acepção){:.d} e cada um, do seu ponto de vista, pode com [razão](Razão){:.w} defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo [equívoco](equívoco){:.d}, seria necessário restringir-se a [acepção](acepção){:.d} do termo **alma** a uma daquelas ideias. A escolha é indiferente; o que se faz [mister](mister){:.d} é o entendimento entre todos, reduzindo-se o problema a uma simples questão de [convenção](convenção){:.d}. Julgamos mais lógico tomá-lo na sua [acepção](acepção){:.d} vulgar e por isso chamamos [ALMA](Alma){:.l} **ao ser [imaterial](imaterial){:.d} e individual que em nós reside e sobrevive ao corpo**. Mesmo quando esse ser não existisse, não passasse de produto da [imaginação](Imaginação){:.w}, ainda assim seria preciso um termo para designá-lo.
 
 Na ausência de um vocábulo especial para tradução de cada uma das duas outras ideias a que corresponde a palavra [alma](Alma){:.l}, denominamos:
 
@@ -119,7 +119,7 @@ Seja como for, um fato há que ninguém ousaria contestar, pois que resulta da o
 
 Concebe-se que, com uma [acepção](acepção){:.d} múltipla, o termo [alma](Alma){:.l} não exclui o [materialismo](Materialismo){:.w}, nem o [panteísmo](Panteísmo){:.l}. O próprio [espiritualismo](Espiritualismo){:.l} pode entender a [alma](Alma){:.l} de acordo com uma ou outra das duas primeiras definições, sem prejuízo do ser [imaterial](imaterial){:.d} distinto, a que então dará um nome qualquer. Assim, aquela palavra não representa uma opinião: é um [Proteu](Proteu){:.w} [^1], que cada um ajeita a seu [bel-prazer](bel-prazer){:.d}. Daí tantas disputas intermináveis.
 
-Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três casos, desde que se lhe acrescentasse um qualificativo especificando o ponto de vista em que se está colocado, ou a aplicação que se faz da palavra. Esta teria, então, um caráter genérico, designando, ao mesmo tempo, o princípio da vida material, o da [inteligência](Inteligência){:.w} e o do senso moral, que se distinguiriam mediante um atributo, como os **gases**, por exemplo, que se distinguem aditando-se ao termo genérico as palavras **hidrogênio**, **oxigênio**, ou **nitrogênio**. Poder-se-ia, assim, dizer, e talvez fosse o melhor, a **alma vital** — indicando o princípio da vida material; a **alma intelectual** — o princípio da [inteligência](Inteligência){:.w}, e a **alma espírita** — o da nossa individualidade após a [morte](Morte){:.w}. Como se vê, tudo isto não passa de uma questão de palavras, mas questão muito importante quando se trata de nos fazermos entendidos. De [conformidade](conformidade){:.d} com essa maneira de falar, a [alma](Alma){:.l} vital seria comum a todos os seres orgânicos: plantas, animais e homens; a **alma intelectual** pertenceria aos animais e aos homens; e a **alma espírita** somente ao homem.
+Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três casos, desde que se lhe acrescentasse um qualificativo especificando o ponto de vista em que se está colocado, ou a aplicação que se faz da palavra. Esta teria, então, um caráter genérico, designando, ao mesmo tempo, o princípio da vida material, o da [inteligência](Inteligência){:.w} e o do senso moral, que se distinguiriam mediante um atributo, como os **gases**, por exemplo, que se distinguem aditando-se ao termo genérico as palavras **hidrogênio**, **oxigênio**, ou **[azoto](azoto){:.d}**. Poder-se-ia, assim, dizer, e talvez fosse o melhor, a **alma vital** — indicando o princípio da vida material; a **alma intelectual** — o princípio da [inteligência](Inteligência){:.w}, e a **alma espírita** — o da nossa individualidade após a [morte](Morte){:.w}. Como se vê, tudo isto não passa de uma questão de palavras, mas questão muito importante quando se trata de nos fazermos entendidos. De [conformidade](conformidade){:.d} com essa maneira de falar, a [alma](Alma){:.l} vital seria comum a todos os seres orgânicos: plantas, animais e homens; a **alma intelectual** pertenceria aos animais e aos homens; e a **alma espírita** somente ao homem.
 
 Julgamos dever insistir nestas explicações pela [razão](Razão){:.w} de que a [Doutrina](Espiritismo){:.l} Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
 
@@ -14266,7 +14266,7 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 > É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
 {:.grey}
 
-Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. [^27]
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
 
 A Editora (FEB)
 {:.author}
