@@ -19,6 +19,7 @@ version: 23.12.27
 
 ### <span class="emoji">📄</span> Folha de rosto {#lde-0-01}
 
+<<<<<<< HEAD
 > <br>
 > [Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l}  
 >  
@@ -37,6 +38,28 @@ version: 23.12.27
 > Modificado para o consumo digital por Sergio de  
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"}  
 >  
+=======
+><br>
+>[Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l} 
+><br>
+> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} 
+><br>
+> Princípios da [Doutrina](Espiritismo){:.l} Espírita 
+><br>
+> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por [Espíritos](Espírito){:.w} superiores com o concurso de diversos [médiuns](Mediunidade){:.w} — recebidos e coordenados
+><br>
+> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>) 
+><br>
+> Tradução de [Guillon Ribeiro](Guillon_Ribeiro){:.w}
+><br>
+>Baseado no original [ISBN 978-85-7328-728-8](https://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}
+><br>
+>[Editora FEB](https://febeditora.com.br)  
+><br>
+> Modificado para o consumo digital por Sergio de 
+> <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"} 
+><br>
+>>>>>>> 36c1175938ab5fb37392f212176b13d073119661
 {:.grey-center}
 
 ### <span class="emoji">📄</span> Prefácio {#lde-0-02}
@@ -89,9 +112,9 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 
 ### <span class="emoji">📄</span> Introdução {#lde-0-03}
 
-#### <span class="emoji">📄</span> Intro 01 {#lde-0-03-01}
+#### <span class="emoji">📄</span> Intro 01 ✔️ {#lde-0-03-01}
 
-Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão [inerente](inerente){:.d} à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm [acepção](acepção){:.d} bem definida. Dar-lhes outra, para aplicá-los à [Doutrina](Espiritismo){:.l} dos [Espíritos](Espírito){:.w}, fora multiplicar as causas já numerosas de [anfibologia](anfibologia){:.d}. Com efeito, o [espiritualismo](Espiritualismo){:.l} é o oposto do [materialismo](Materialismo){:.w}. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos [Espíritos](Espírito){:.w} ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **[Espiritismo](Espiritismo){:.l}**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente [inteligíveis](inteligível){:.d}, deixando ao vocábulo **espiritualismo** a [acepção](acepção){:.d} que lhe é própria. Diremos, pois, que a [Doutrina](Espiritismo){:.l} **Espírita** ou o **[Espiritismo](Espiritismo){:.l}** tem por princípio as relações do mundo material com os [Espíritos](Espírito){:.w} ou seres do mundo invisível. Os adeptos do [Espiritismo](Espiritismo){:.l} serão os **espíritas**, ou, se quiserem, os **espiritistas**.
+Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão [inerente](inerente){:.d} à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm [acepção](acepção){:.d} bem definida. Dar-lhes outra, para aplicá-los à [Doutrina](Espiritismo){:.l} dos [Espíritos](Espírito){:.w}, fora multiplicar as causas já numerosas de [anfibologia](anfibologia){:.d}. Com efeito, o [espiritualismo](Espiritualismo){:.l} é o oposto do [materialismo](Materialismo){:.w}. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos [Espíritos](Espírito){:.w} ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **[espiritismo](Espiritismo){:.l}**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente [inteligíveis](inteligível){:.d}, deixando ao vocábulo **espiritualismo** a [acepção](acepção){:.d} que lhe é própria. Diremos, pois, que a [Doutrina](Espiritismo){:.l} **Espírita** ou o **[Espiritismo](Espiritismo){:.l}** tem por princípio as relações do mundo material com os [Espíritos](Espírito){:.w} ou seres do mundo invisível. Os adeptos do [Espiritismo](Espiritismo){:.l} serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
 Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} contém a [Doutrina Espírita](Espiritismo){:.l}; como generalidade, prende-se à [doutrina](doutrina){:.d} **espiritualista**, uma de cujas fases apresenta. Essa a [razão](Razão){:.w} por que traz no cabeçalho do seu título as palavras: **[Filosofia](Filosofia){:.w} espiritualista**.
 

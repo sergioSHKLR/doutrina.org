@@ -3,23 +3,6 @@ layout: ext
 version: 23.12.27
 ---
 
-<style>
-   body {font-family: 'Inter', sans-serif; }
-   .footnotes {
-         font-size: 80%;
-         position: relative;
-         bottom: 0px;
-         padding-bottom: 20px;
-      }
-      div.footnotes {
-         margin-top: 50vh;
-         border-top: 1px solid #66666680;
-      }
-span.emoji {
-    font-family: 'Noto Color Emoji', sans-serif;
-}
-</style>
-
 # <span class="emoji">🪧</span> Complementar
 
 ## Conteúdo
