@@ -69,8 +69,7 @@ body {
     border-radius: 5px;
     box-sizing: border-box;
     color: var(--body-color);
-    font-size: 24px;
-    font-family: 'Russo One', sans-serif;
+    font: 24px 'Russo One', sans-serif;
     margin-left: -5px;
     padding-bottom: 5px;
     padding-left: 0;
@@ -123,8 +122,7 @@ body {
     border-collapse: collapse;
     box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
     box-sizing: border-box;
-    font-weight: 300;
-    font-size: 16px;
+    font: 300 16px/1.7 'Roboto Slab', serif;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
     line-height: 1.65;
@@ -204,8 +202,7 @@ iframe {
     border-collapse: collapse;
     box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
     box-sizing: border-box;
-    font-weight: 300;
-    font-size: 16px;
+    font: 300 16px/1.5 'Roboto Slab', serif;
     height: var(--body-height);
     overflow-x: hidden;
     overflow-y: scroll;
@@ -221,8 +218,7 @@ a#col3-link3-a,
 a#col3-link4-a {
     bottom: 10px;
     color: var(--body-color);
-    font-size: 24px;
-    font-family: 'Inter', sans-serif;
+    font: 24px Inter;
     height: 40px;
     justify-content: center;
     padding: 12px 6px 0px 6px;
@@ -462,7 +458,7 @@ h5:before {
 
 h6 {
     border-bottom: 1px solid var(--border-color);
-    font-size: 16px;
+    font: 16px 'Roboto Slab';
     margin-bottom: -15px;
     margin-top: 0;
     padding-top: 20px
@@ -598,8 +594,7 @@ details[open] summary::before {
 }
 
 button.tools {
-    font-family: 'Material Symbols Outlined' !important;
-    font-size: 22px;
+    font: 22px 'Material Symbols Outlined' !important;
     opacity: 70%;
 }
 
@@ -1071,9 +1066,7 @@ li.toc>a::before {
     border-bottom: 1px solid var(--border-color);
     border-collapse: collapse;
     box-sizing: border-box;
-    font-weight: 700;
-    font-size: 16px;
-    font-family: 'Inter', sans-serif;
+    font: 700 16px Inter, sans-serif;
     padding-bottom: 2px;
     width: 90%
 }
@@ -1127,8 +1120,7 @@ button {
 div#alert {
     background-color: #f8b9c6;
     color: #000;
-    font-size: 11px;
-    font-family: 'Inter', sans-serif;
+    font: 11px Inter;
     left: 0;
     padding: 2px;
     position: absolute;
@@ -1143,8 +1135,7 @@ kbd {
     border: 1px solid var(--border-color);
     border-radius: 3px;
     color: currentColor;
-    font-size: 14px;
-    font-family: 'Inter', sans-serif ;
+    font: 14px Inter;
     padding: 3px;
     vertical-align: middle;
     white-space: nowrap
@@ -1160,8 +1151,8 @@ p.banner {
 }
 
 p.cursive {
-    font-size: 60px;
-    font-family: 'Zeyada', cursive ;
+    font: 60px Zeyada;
+    margin-top: -20px
 }
 
 summary.ff-mono {
