@@ -36,7 +36,7 @@ version: 23.12.27
 >  
 > Modificado para o consumo digital por Sergio de  
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"}  
->  
+>  ✅
 {:.grey-center}
 
 ### <span class="emoji">📄</span> Prefácio {#lde-0-02}
@@ -76,7 +76,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 >
 > Com a [perseverança](perseverança){:.d} é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a [Doutrina](Espiritismo){:.l} propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os [incrédulos](incrédulo){:.d} ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.
 >
-> Lembra-te de que os bons [Espíritos](Espírito){:.w} só dispensam assistência aos que servem a [Deus](Deus){:.l} com [humildade](humildade){:.d} e desinteresse e que [repudiam](repudiar){:.d} a todo aquele que busca na [senda](senda){:.d} do [Céu](Céu_(religião)){:.w} um degrau para conquistar as coisas da [Terra](Terra){:.w}; que se afastam do [orgulhoso](orgulhoso){:.d} e do [ambicioso](ambicioso){:.d}. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus](Deus){:.l}. São um véu lançado sobre as claridades celestes, e [Deus](Deus){:.l} não pode servir-se do cego para fazer perceptível a luz.
+> Lembra-te de que os bons [Espíritos](Espírito){:.w} só dispensam assistência aos que servem a [Deus](Deus){:.l} com [humildade](humildade){:.d} e desinteresse e que [repudiam](repudiar){:.d} a todo aquele que busca na [senda](senda){:.d} do [Céu](Céu_(religião)){:.w} um degrau para conquistar as coisas da [Terra](Terra){:.w}; que se afastam do [orgulhoso](orgulhoso){:.d} e do [ambicioso](ambicioso){:.d}. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus](Deus){:.l}. São um véu lançado sobre as claridades celestes, e [Deus](Deus){:.l} não pode servir-se do cego para fazer perceptível a luz. ✅
 >
 > <p class="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espírito Verdade">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
 >
@@ -93,7 +93,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão [inerente](inerente){:.d} à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm [acepção](acepção){:.d} bem definida. Dar-lhes outra, para aplicá-los à [Doutrina](Espiritismo){:.l} dos [Espíritos](Espírito){:.w}, fora multiplicar as causas já numerosas de [anfibologia](anfibologia){:.d}. Com efeito, o [espiritualismo](Espiritualismo){:.l} é o oposto do [materialismo](Materialismo){:.w}. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos [Espíritos](Espírito){:.w} ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **[Espiritismo](Espiritismo){:.l}**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente [inteligíveis](inteligível){:.d}, deixando ao vocábulo **espiritualismo** a [acepção](acepção){:.d} que lhe é própria. Diremos, pois, que a [Doutrina](Espiritismo){:.l} **Espírita** ou o **[Espiritismo](Espiritismo){:.l}** tem por princípio as relações do mundo material com os [Espíritos](Espírito){:.w} ou seres do mundo invisível. Os adeptos do [Espiritismo](Espiritismo){:.l} serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
-Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} contém a [Doutrina Espírita](Espiritismo){:.l}; como generalidade, prende-se à [doutrina](doutrina){:.d} **espiritualista**, uma de cujas fases apresenta. Essa a [razão](Razão){:.w} por que traz no cabeçalho do seu título as palavras: **[Filosofia](Filosofia){:.w} espiritualista**.
+Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} contém a [Doutrina Espírita](Espiritismo){:.l}; como generalidade, prende-se à [doutrina](doutrina){:.d} **espiritualista**, uma de cujas fases apresenta. Essa a [razão](Razão){:.w} por que traz no cabeçalho do seu título as palavras: **[Filosofia](Filosofia){:.w} espiritualista**. ✅
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -123,7 +123,7 @@ Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três
 
 Julgamos dever insistir nestas explicações pela [razão](Razão){:.w} de que a [Doutrina](Espiritismo){:.l} Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
 
-Passemos agora ao objeto principal desta instrução preliminar.
+Passemos agora ao objeto principal desta instrução preliminar. ✅
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, conceito espírita de <a href="#alma">↩️</a><br>
@@ -14266,7 +14266,7 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 > É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
 {:.grey}
 
-Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_ ”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_ ”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. ✅
 
 A Editora (FEB)
 {:.author}
