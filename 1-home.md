@@ -21,7 +21,7 @@ Inspirado em outras iniciativas de educação e comunicação digital, criei [^1
 
 ## Interface
 
-A interface é composta de três colunas, que são seletivamente mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
+A interface é composta de três colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
 
 1. Menu
 2. Principal
@@ -52,7 +52,7 @@ Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto i
 <img src="./images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;">
 -->
 
-## Contribuições
+## Contato
 
 Por fim, ficarei grato com seus:
 
