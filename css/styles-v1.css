@@ -121,7 +121,7 @@ body {
     overflow: hidden;
     padding: 0 17px 0 0;
     width: var(--column-width);
-    z-index: 3
+    z-index: 3;
 }
 
 #col2-body {
@@ -133,7 +133,7 @@ body {
  */
     font-weight: 300;
     font-size: 16px;
-    line-height: 1.8;
+    line-height: 1.7;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow-x: hidden;
@@ -182,7 +182,8 @@ iframe {
 #col2-head a:any-link,
 #col3-head button,
 #col3-head a:any-link {
-    color: currentColor
+    color: currentColor;
+    border: none;
 }
 
 #col1-head a:any-link,
@@ -232,27 +233,31 @@ a#col3-link1-a,
 a#col3-link2-a,
 a#col3-link3-a,
 a#col3-link4-a {
-    bottom: 15px;
     color: var(--body-color);
     /*
     font: 24px Inter;
      */
-    line-height: 40px;
     font-size: 24px;
     font-family: 'Inter', sans-serif;
-    height: 40px;
-    justify-content: center;
-    padding: 12px 6px 0px 6px;
-    position: relative;
+    height: var(--head-height);
     text-align: center;
-    vertical-align: middle;
-    width: 40px;
+    width: var(--button-width);
 }
 
-#col3-head a>span.label {
-    position: relative;
-    top: -30px;
-}
+#col3-link1-a > span.icon,
+#col3-link2-a > span.icon,
+#col3-link3-a > span.icon,
+#col3-link4-a > span.icon {position: relative; top: -9px}
+
+#col2-menu-on,
+#col2-menu-off {position: relative; top: -4px;}
+
+#col1-brand, #col2-brand {position: relative; top: 0px;}
+
+#col3-link1-a > span.label,
+#col3-link2-a > span.label,
+#col3-link3-a > span.label,
+#col3-link4-a > span.label {position: relative; top: -46px}
 
 #col1-body>ul {
     list-style-type: none;
@@ -279,8 +284,7 @@ a#col3-link4-a {
 /* CONTENT START */
 #col2-menu-on button,
 #col2-menu-off button {
-    position: relative;
-    top: 2px
+    border: none;
 }
 
 #col2-body::-webkit-scrollbar {
@@ -666,8 +670,7 @@ button.tools {
     font-size: 10px;
     justify-content: center;
     position: relative;
-    top: -17px;
-    left: 1px;
+    top: -15px;
 }
 
 /* TOOLS END */
@@ -1156,11 +1159,8 @@ button {
     cursor: pointer;
     font-size: 24px;
     height: var(--head-height);
-    justify-content: center;
     outline: 0;
-    padding: 6px 5px 0 0;
-    text-align: center;
-    width: var(--head-height)
+    width: var(--head-height);
 }
 
 div#alert {
@@ -1233,15 +1233,6 @@ span.emoji {
 
 .footnotes {
     font-size: 80%;
-}
-
-#col2-dm-btn,
-#col2-lm-btn,
-#col2-fs-btn,
-#col2-ns-btn,
-#webshare {
-    position: relative !important;
-    top: -4px !important;
 }
 
 .footnotes {
