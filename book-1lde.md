@@ -36,7 +36,7 @@ version: 24.1.4
 >  
 > Modificado para o consumo digital por Sergio de  
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"}  
->  ✅
+>  <span class="emoji">✅</span>
 {:.grey-center}
 
 ### <span class="emoji">📄</span> Prefácio {#lde-0-02}
@@ -76,7 +76,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 >
 > Com a [perseverança](perseverança){:.d} é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a [Doutrina](Espiritismo){:.l} propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os [incrédulos](incrédulo){:.d} ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.
 >
-> Lembra-te de que os bons [Espíritos](Espírito){:.w} só dispensam assistência aos que servem a [Deus](Deus){:.l} com [humildade](humildade){:.d} e desinteresse e que [repudiam](repudiar){:.d} a todo aquele que busca na [senda](senda){:.d} do [Céu](Céu_(religião)){:.w} um degrau para conquistar as coisas da [Terra](Terra){:.w}; que se afastam do [orgulhoso](orgulhoso){:.d} e do [ambicioso](ambicioso){:.d}. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus](Deus){:.l}. São um véu lançado sobre as claridades celestes, e [Deus](Deus){:.l} não pode servir-se do cego para fazer perceptível a luz. ✅
+> Lembra-te de que os bons [Espíritos](Espírito){:.w} só dispensam assistência aos que servem a [Deus](Deus){:.l} com [humildade](humildade){:.d} e desinteresse e que [repudiam](repudiar){:.d} a todo aquele que busca na [senda](senda){:.d} do [Céu](Céu_(religião)){:.w} um degrau para conquistar as coisas da [Terra](Terra){:.w}; que se afastam do [orgulhoso](orgulhoso){:.d} e do [ambicioso](ambicioso){:.d}. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e [Deus](Deus){:.l}. São um véu lançado sobre as claridades celestes, e [Deus](Deus){:.l} não pode servir-se do cego para fazer perceptível a luz. <span class="emoji">✅</span>
 >
 > <p class="author" style="text-align: right;"><a href="https://pt.m.wikipedia.org/wiki/João,_o_Evangelista">João Evangelista</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Agostinho_de_Hipona">Santo Agostinho</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Vicente_de_Paulo">São Vicente de Paulo</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Luís_IX_de_França">São Luís, IX de França</a>,<br><a href="https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Espírito Verdade">O Espírito da Verdade</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Sócrates">Sócrates</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Platão">Platão</a>,<br><a href="https://pt.m.wikipedia.org/wiki/François_Fénelon">Fénelon</a>,<br><a href="https://pt.m.wikipedia.org/wiki/Benjamin_Franklin">Franklin</a>, <br><a href="https://pt.m.wikipedia.org/wiki/Emanuel_Swedenborg">Swedenborg</a>,<br>entre outros.</p>
 >
@@ -93,7 +93,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão [inerente](inerente){:.d} à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm [acepção](acepção){:.d} bem definida. Dar-lhes outra, para aplicá-los à [Doutrina](Espiritismo){:.l} dos [Espíritos](Espírito){:.w}, fora multiplicar as causas já numerosas de [anfibologia](anfibologia){:.d}. Com efeito, o [espiritualismo](Espiritualismo){:.l} é o oposto do [materialismo](Materialismo){:.w}. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos [Espíritos](Espírito){:.w} ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **[Espiritismo](Espiritismo){:.l}**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente [inteligíveis](inteligível){:.d}, deixando ao vocábulo **espiritualismo** a [acepção](acepção){:.d} que lhe é própria. Diremos, pois, que a [Doutrina](Espiritismo){:.l} **Espírita** ou o **[Espiritismo](Espiritismo){:.l}** tem por princípio as relações do mundo material com os [Espíritos](Espírito){:.w} ou seres do mundo invisível. Os adeptos do [Espiritismo](Espiritismo){:.l} serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
-Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} contém a [Doutrina Espírita](Espiritismo){:.l}; como generalidade, prende-se à [doutrina](doutrina){:.d} **espiritualista**, uma de cujas fases apresenta. Essa a [razão](Razão){:.w} por que traz no cabeçalho do seu título as palavras: **[Filosofia](Filosofia){:.w} espiritualista**. ✅
+Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l} contém a [Doutrina Espírita](Espiritismo){:.l}; como generalidade, prende-se à [doutrina](doutrina){:.d} **espiritualista**, uma de cujas fases apresenta. Essa a [razão](Razão){:.w} por que traz no cabeçalho do seu título as palavras: **[Filosofia](Filosofia){:.w} espiritualista**. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -123,7 +123,7 @@ Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três
 
 Julgamos dever insistir nestas explicações pela [razão](Razão){:.w} de que a [Doutrina](Espiritismo){:.l} Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
 
-Passemos agora ao objeto principal desta instrução preliminar. ✅
+Passemos agora ao objeto principal desta instrução preliminar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, conceito espírita de <a href="#alma">↩️</a><br>
@@ -154,7 +154,7 @@ Alguns, entretanto, muito modestos para convirem em que bem poderia dar-se não 
 
 Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstância de ele não se produzir de modo sempre idêntico, conforme a [vontade](Vontade){:.w} e as exigências do observador? Os [fenônemos](fenómeno){:.d} de [eletricidade](Eletricidade){:.w} e de [química](Química){:.w} não estão subordinados a certas condições? Será [lícito](lícito){:.d} negá-los, porque não se produzem fora dessas condições? Que há, pois, de surpreendente em que o [fenômeno][g3m] do movimento dos objetos pelo fluido humano também se ache sujeito a determinadas condições e deixe de se produzir quando o observador, colocando-se no seu ponto de vista, pretende fazê-lo seguir a marcha que caprichosamente lhe imponha, ou queira sujeitá-lo às leis dos [fenônemo](fenómeno){:.d} conhecidos, sem considerar que para fatos novos pode e deve haver novas leis? Ora, para se conhecerem essas leis, preciso é que se estudem as circunstâncias em que os fatos se produzem e esse estudo não pode deixar de ser fruto de observação perseverante, atenta e às vezes muito longa.
 
-Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro [escamoteador](escamoteado){:.d} um sábio professor de [Física](Física){:.w} a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso [razão](Razão){:.w} para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero [gracejo](gracejo){:.d}? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão [fastidioso](fastidioso){:.d} para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais [austeras](austero){:.d}, [veneráveis](veneração){:.d} e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
+Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro [escamoteador](escamoteado){:.d} um sábio professor de [Física](Física){:.w} a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso [razão](Razão){:.w} para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero [gracejo](gracejo){:.d}? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão [fastidioso](fastidioso){:.d} para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais [austeras](austero){:.d}, [veneráveis](veneração){:.d} e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -178,7 +178,7 @@ Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito [le
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
 
-A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de [médiuns](Mediunidade){:.w}, isto é — meios ou intermediários entre os [Espíritos](Espírito){:.w} e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há [médiuns](Mediunidade){:.w} de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
+A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de [médiuns](Mediunidade){:.w}, isto é — meios ou intermediários entre os [Espíritos](Espírito){:.w} e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há [médiuns](Mediunidade){:.w} de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Ação, dos mortos como força invisível <a href="#acao">↩️</a>
@@ -196,7 +196,7 @@ Em certos casos, as respostas revelam tal cunho de [sabedoria](Sabedoria){:.w}, 
 
 Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossas observações; que não ocorrem misteriosamente, mas, ao contrário, à luz meridiana, que toda gente pode ver e comprovar; que não constituem [privilégio](privilégio){:.d} de um único indivíduo e que milhares de pessoas repetem todos os dias. Esses efeitos têm necessariamente uma causa e, do momento que detonam a ação de uma [inteligência](Inteligência){:.w} e de uma vontade, saem do domínio puramente físico.
 
-Muitas teorias foram [engendradas](engendrar){:.d} a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres [distintos](distinto){:.d} dos humanos, pois que esta é a explicação ministrada pelas [Inteligências](Inteligência){:.w} que se manifestam, e vejamos o que eles nos dizem.
+Muitas teorias foram [engendradas](engendrar){:.d} a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres [distintos](distinto){:.d} dos humanos, pois que esta é a explicação ministrada pelas [Inteligências](Inteligência){:.w} que se manifestam, e vejamos o que eles nos dizem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -226,12 +226,13 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritism
 
 9. há no homem três coisas:
 
- a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
+   a) o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
 
- b) a [alma](Alma){:.l} ou ser imaterial, [Espírito](Espírito){:.w} encarnado no corpo;
+   b) a [alma](Alma){:.l} ou ser imaterial, [Espírito](Espírito){:.w} encarnado no corpo;
 
- c) o laço que prende a [alma](Alma){:.l} ao corpo, princípio intermediário entre a matéria e o [Espírito](Espírito){:.w};
+   c) o laço que prende a [alma](Alma){:.l} ao corpo, princípio intermediário entre a matéria e o [Espírito](Espírito){:.w};
 
+{:start="10"}
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos [instintos](Instinto){:.w} lhe são comuns; pela alma, participa da natureza dos [Espíritos](Espírito){:.w}; 
 
 11. o laço ou **perispírito**, que prende ao corpo o [Espírito](Espírito){:.w}, é uma espécie de envoltório semimaterial. A [morte](Morte){:.w} é a destruição do invólucro mais grosseiro. O [Espírito](Espírito){:.w} conserva o segundo, que lhe constitui um corpo [etéreo](etéreo){:.d}, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo [tangível](tangível){:.d}, como sucede no fenômeno das [aparições](aparição){:.d};
@@ -14199,14 +14200,18 @@ Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam 
 
 ### 6.01 <span class="emoji">📄</span> Nota explicativa {#lde-6-01}
 
-> Hoje crêem e sua [fé](Fé){:.w} é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a [fé](Fé){:.w} dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do [Cristo](Cristo){:.w}, olhando todos os homens como irmãos, sem [acepção](acepção){:.d} de raças, de [castas](Casta){:.w}, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. <span class="emoji">📓</span> [*Revista Espírita*](https://kardecpedia.com/pt/roteiro-de-estudos/902/revista-espirita-jornal-de-estudos-psicologicos-1868/6202/janeiro/o-espiritismo-ante-a-historia-e-a-igreja-sua-origem-sua-natureza-sua-certeza-seus-perigos){:target="ext"}
-{:.grey}
+> <span class="emoji">👴🏻</span> ▸ Hoje crêem e sua [fé](Fé){:.w} é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a [fé](Fé){:.w} dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do [Cristo](Cristo){:.w}, olhando todos os homens como irmãos, sem [acepção](acepção){:.d} de raças, de [castas](Casta){:.w}, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
+>
+> Allan Kardec  
+> <span class="emoji">📓</span> [<i>Revista Espírita</i>  
+> Janeiro, 1868](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1868.pdf#page=28){:target="ext"}
+{:.grey-multi}
 
-A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por [Allan Kardec](Allan_Kardec){:.w}, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por [Allan Kardec](Allan_Kardec){:.w}, resultou na estruturação da [Doutrina Espírita](Espiritismo){:.w}, sistematizada sob os aspectos científico, filosófico e religioso.
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. <span class="emoji">👻</span> *O Livro dos Espíritos* (1857),
+1. <span class="emoji">👻</span> [*O Livro dos Espíritos*](./book-1lde.md) (1857),
 
 2. <span class="emoji">✒️</span> [*O Livro dos Médiuns*](./book-2ldm.html) (1861),
 
@@ -14216,7 +14221,7 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 
 5. <span class="emoji">🌱</span> [*A Gênese*](./book-5gen.html) (1868),
 
-além da obra <span class="emoji">🔍</span> [*O Que é o Espiritismo*](https://kardecpedia.com/pt/roteiro-de-estudos/885/o-que-e-o-espiritismo){:target="ext"} (1859), de uma série de opúsculos e 136 edições da <span class="emoji">📓</span> *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua [morte](Morte){:.w}, foi editado o livro <span class="emoji">🪦</span> *Obras Póstumas* (1890).
+além da obra <span class="emoji">🔍</span> [*O Que é o Espiritismo*](https://kardecpedia.com/pt/roteiro-de-estudos/885/o-que-e-o-espiritismo){:target="ext"} (1859), de uma série de opúsculos e 136 edições da <span class="emoji">📓</span> *[Revista Espírita](https://www.febnet.org.br/portal/2021/09/02/downloads-material-completo/){:target="ext"}* (de janeiro de 1858 a abril de 1869). Após sua [morte](Morte){:.w}, foi editado o livro <span class="emoji">🪦</span> *Obras Póstumas* (1890).
 
 O estudo [meticuloso](meticuloso){:.d} e isento dessas obras permite-nos extrair conclusões básicas:
 
@@ -14230,49 +14235,88 @@ O estudo [meticuloso](meticuloso){:.d} e isento dessas obras permite-nos extrair
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos [incultas](inculto){:.d} e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de [civilização](Civilização){:.w}, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as [etnias](Grupo_étnico){:.w}, independentemente da coloração de sua pele.
 
-Na época de Allan Kardec, as ideias [frenológicas](Frenologia){:.w} de [Gall](Franz_Joseph_Gall){:.w}, e as da [fisiognomonia](Fisiognomia){:.w} de [Lavater](Johann_Kaspar_Lavater){:.w}, eram aceitas por [eminentes](eminente){:.w} homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de *O Livro dos Espíritos* — do livro sobre a [Evolução das Espécies](A_Origem_das_Espécies){:.w}, de [Charles Darwin](Charles_Darwin){:.w}, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+Na época de [Allan Kardec](Allan_Kardec){:.w}, as ideias [frenológicas](Frenologia){:.w} de [Gall](Franz_Joseph_Gall){:.w}, e as da [fisiognomonia](Fisiognomia){:.w} de [Lavater](Johann_Kaspar_Lavater){:.w}, eram aceitas por [eminentes](eminente){:.w} homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de  <span class="emoji">👻</span> *O Livro dos Espíritos* — do livro sobre a [Evolução das Espécies](A_Origem_das_Espécies){:.w}, de [Charles Darwin](Charles_Darwin){:.w}, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
 
 O Codificador não concordava com diversos aspectos apresentados por essas [assim chamadas ciências](Pseudociência){:.w}. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
-Allan Kardec encontrou, nos princípios da [Doutrina Espírita](Espiritismo){:.w}, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, [arqueológicos](Arqueologia){:.w}, [antropológicos](Antropologia){:.w}, [teológicos](Teologia){:.w}, [psicológicos](Psicologia){:.w}, morais, sociais etc._ ” (📓 *Revista Espírita*, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do [Orbe](orbe){:.d}.
+Allan Kardec encontrou, nos princípios da [Doutrina Espírita](Espiritismo){:.w}, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite 
+
+> <span class="emoji">👴🏻</span> ▸ … resolver os milhares de problemas históricos, [arqueológicos](Arqueologia){:.w}, [antropológicos](Antropologia){:.w}, [teológicos](Teologia){:.w}, [psicológicos](Psicologia){:.w}, morais, sociais etc. 
+>
+> <span class="emoji">📓</span> [<i>Revista Espírita</i>  
+> Outubro, 1862](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1862.pdf#page=391){:target="ext"}
+{:.grey-multi}
+
+De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do [Orbe](orbe){:.d}.
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
-> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há [consanguinidade](consanguinidade){:.d}. (*O Livro dos Espíritos*, [Q.207](#q207))
-> 
-> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da [inteligência](Inteligência){:.w} sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 *Revista Espírita*, 1861)
-> 
-> Os [privilégios](privilégio){:.d} de raças têm sua origem na [abstração](abstração){:.d} que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na [opulência](opulência){:.d} ou na miséria, da filiação [consanguínea](consanguíneo){:.d} nobre ou [plebeia](plebe){:.d}, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
-> 
-> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (<span class="emoji">🌱</span> *A Gênese*, cap. 1, item 36 Vide também <span class="emoji">📓</span> *Revista Espírita*, 1867)
-{:.grey}
+> <span class="emoji">👻</span> ▸ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há [consanguinidade](consanguinidade){:.d}.
+>
+> LDE, [Q.207](#q207)
+{:.spirit-multi}
 
-Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+>  <span class="emoji">👴🏻</span> ▸ … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da [inteligência](Inteligência){:.w} sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e [mundanas](mundano){:.d}, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.  
+>
+>  <span class="emoji">📓</span> [<i>Revista Espírita</i>   
+>  Outubro, 1861](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1861.pdf#page=420){:target="ext"}  
+{:.grey-multi}
+
+>  <span class="emoji">👴🏻</span> ▸ Os [privilégios](privilégio){:.d} de raças têm sua origem na [abstração](abstração){:.d} que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na [opulência](opulência){:.d} ou na miséria, da filiação [consanguínea](consanguíneo){:.d} nobre ou [plebeia](plebe){:.d}, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.  
+>
+>  Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do [Espírito](Espírito){:.w}, preexistente e sobrevivente a tudo cujo corpo não passa de um [invólucro](invólucro){:.d} temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e [moral](Moral){:.w}; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à [abolição](abolição){:.d} dos privilégios de raças. Eis o que ensina o [Espiritismo](Espiritismo){:.w}.  
+>
+>  Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser [inteligente](Inteligência){:.w} para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
+>
+>  <span class="emoji">📓</span> [<i>Revista Espírita</i>   
+>  Junho, 1867](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1867.pdf#page=229){:target="ext"}
+{:.grey-multi}
+
+>  <span class="emoji">👴🏻</span> ▸ Com a [reencarnação](Reencarnação){:.w}, desaparecem os preconceitos de raças e de [castas](Casta){:.w}, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou [proletário](proletário){:.d}, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
+>
+>  <span class="emoji">🌱</span> <i>A Gênese</i>   
+>  cap. 1, item 36  
+>  <span class="emoji">📓</span> [<i>Revista Espírita</i>  
+>  Setembro, 1867](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1867.pdf#page=364){:target="ext"}
+{:.grey-multi}
+
+Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
 É baseado nesses informes “_científicos_ ” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
 
-> Nós trabalhamos para dar a [fé](Fé){:.w} aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. <span class="emoji">📓</span> *Revista Espírita* de 1863)
-> 
-> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (<span class="emoji">🕊️</span> *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
-{:.grey}
+>  <span class="emoji">👴🏻</span> ▸ Nós trabalhamos para dar a [fé](Fé){:.w} aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de [caridade](caridade){:.d}, de [fraternidade](fraternidade){:.d} e deveres sociais.
+>
+>  Allan Kardec  
+>  <span class="emoji">📓</span>  <i>Revista Espírita</i>   
+>  Janeiro, 1863
+{:.grey-multi}
+
+> <span class="emoji">👴🏻</span> ▸ O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.  
+>
+> <span class="emoji">🕊️</span> <i>O Evangelho segundo o Espiritismo</i>  
+> cap. 17, item 3
+{:.grey-multi}
 
 É importante compreender, também, que os textos publicados por Allan Kardec na <span class="emoji">📓</span> *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro <span class="emoji">🌱</span> *A Gênese*, o Codificador explica essa metodologia:
 
-> Quando, na <span class="emoji">📓</span> *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da [doutrina](doutrina){:.d} dos anjos decaídos_ ”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (<span class="emoji">🌱</span> *A Gênese*, cap. 11, item 43, Nota)
-{:.grey}
+>  <span class="emoji">👴🏻</span> ▸ Quando, na <span class="emoji">📓</span> <i>Revista Espírita</i> de janeiro de 1862, publicamos um artigo sobre a <i>“interpretação da [doutrina](doutrina){:.d} dos anjos decaídos”</i>, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+>
+>  <span class="emoji">🌱</span> <i>A Gênese</i>  
+>  cap. 11, item 43, Nota  
+{:.grey-multi}
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
-> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
-{:.grey}
+> <span class="emoji">👴🏻</span> ▸ É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
+>
+> <span class="emoji">📓</span> [<i>Revista Espírita</i>  
+> Janeiro, 1862](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1862.pdf#page=38){:target="ext"}
+{:.grey-multi}
 
-Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_ ”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. ✅
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_ ”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. <span class="emoji">✅</span>
 
 A Editora (FEB)
 {:.author}
-
----
-
 
 ### 6.02 <span class="emoji">📄</span> Índice geral {#lde-6-02}
 
@@ -14915,4 +14959,6 @@ Avoengos ver Antepassados
 
 [^26]: N.E.: Ver <span class="emoji"> <span class="emoji"> 👉 </span> </span> [Nota explicativa](#lde-6-01).
 
-[^27]: N.E.: Ver <span class="emoji"> <span class="emoji"> 👉 </span> </span> [Nota explicativa](#lde-6-01).
+[^27]: N.E.: Esta Nota explicativa, publicada de acordo com o Termo de Compromisso com o Ministério Público Federal/Procuradoria da República no Estado da Bahia, datado de 28 de setembro de
+2007, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de
+fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.

@@ -332,7 +332,7 @@ a#col3-link4-a {
     border-right: 1.5px solid #06c;
     font-size: 80%;
     font-style: normal;
-    padding: 2px
+    padding: 3px 2px 3px 2px;
 }
 
 #col2-body {
@@ -347,7 +347,7 @@ a#col3-link4-a {
     border-right: 1.5px solid #06c;
     font-size: 80%;
     font-style: normal;
-    padding: 2px
+    padding: 3px 2px 3px 2px;
 }
 
 #col2-body img {
@@ -395,6 +395,34 @@ a#col3-link4-a {
     padding: 1px 20px
 }
 
+#col2-body blockquote.grey,
+#col2-body blockquote.grey-multi {
+    background-color: var(--bquote-grey-bground);
+    border-left: 4px solid var(--bquote-grey-border);
+    margin: 10px;
+    padding: 1px 20px
+}
+
+#col2-body blockquote.grey-multi>p:last-child,
+#col2-body blockquote.grey-multi>p:last-child {
+    font-style: normal;
+    font-weight: 400;
+    text-align: right
+}
+
+#col2-body blockquote.grey::first-letter,
+#col2-body blockquote.grey-multi::first-letter {
+    background-color: var(--bquote-grey-border);
+    border-bottom: 1.5px solid #666;
+    border-radius: 2px;
+    border-right: 1.5px solid #666;
+    font-size: 80%;
+    font-style: normal;
+    padding: 3px 2px 3px 2px;
+}
+
+#col2-body>blockquote.grey>p>em {color: currentColor !important}
+
 #col2-body blockquote.bible-multi>p:last-child,
 #col2-body blockquote.spirit-multi>p:last-child {
     font-style: normal;
@@ -423,7 +451,7 @@ a#col3-link4-a {
     border-right: 1.5px solid #e29f6d;
     font-size: 80%;
     font-style: normal;
-    padding: 2px
+    padding: 3px 2px 3px 2px;
 }
 
 #col2-body blockquote.grey {
@@ -717,7 +745,7 @@ button.tools {
 }
 
 .dark-mode blockquote>p>em {
-    color: var(--jesus-color) !important
+    color: var(--jesus-color)
 }
 
 .dark-mode {
@@ -1011,7 +1039,7 @@ button.tools {
 
 /* OTHERS START */
 details.links {
-    background-color: #f5f5f5;
+    background-color: var(--bquote-grey-bground);
     margin: 10px;
     padding: 10px 20px
 }
