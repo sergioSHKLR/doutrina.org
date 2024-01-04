@@ -99,9 +99,7 @@ body {
     left: 0;
     overflow-x: hidden;
     overflow-y: scroll;
-/*
-overscroll-behavior: contain;
-*/
+    overscroll-behavior: auto;
     padding-left: 15px;
     padding-top: 5px;
     position: fixed;
@@ -134,9 +132,7 @@ overscroll-behavior: contain;
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow-x: hidden;
     overflow-y: scroll;
-/*
-overscroll-behavior: contain;
-*/
+    overscroll-behavior: auto;
     padding: 0 55px;
     position: fixed;
     scroll-behavior: smooth;
@@ -218,9 +214,7 @@ iframe {
     height: var(--body-height);
     overflow-x: hidden;
     overflow-y: scroll;
-/*
-overscroll-behavior: contain;
-*/
+    overscroll-behavior: auto;
     padding: 0 55px;
     scroll-behavior: smooth;
     width: var(--column-width)
@@ -238,20 +232,33 @@ a#col3-link4-a {
     width: var(--button-width);
 }
 
-#col3-link1-a > span.icon,
-#col3-link2-a > span.icon,
-#col3-link3-a > span.icon,
-#col3-link4-a > span.icon {position: relative; top: -9px}
+#col3-link1-a>span.icon,
+#col3-link2-a>span.icon,
+#col3-link3-a>span.icon,
+#col3-link4-a>span.icon {
+    position: relative;
+    top: -9px
+}
 
 #col2-menu-on,
-#col2-menu-off {position: relative; top: -4px;}
+#col2-menu-off {
+    position: relative;
+    top: -4px;
+}
 
-#col1-brand, #col2-brand {position: relative; top: 0px;}
+#col1-brand,
+#col2-brand {
+    position: relative;
+    top: 0px;
+}
 
-#col3-link1-a > span.label,
-#col3-link2-a > span.label,
-#col3-link3-a > span.label,
-#col3-link4-a > span.label {position: relative; top: -46px}
+#col3-link1-a>span.label,
+#col3-link2-a>span.label,
+#col3-link3-a>span.label,
+#col3-link4-a>span.label {
+    position: relative;
+    top: -46px
+}
 
 #col1-body>ul {
     list-style-type: none;
@@ -770,17 +777,17 @@ button.tools {
 
     :root {
         --accent-color: hsl(198, 65%, 15%);
-    --body-bground: #222;
-    --body-color: #eee;
-    --border-color: #ADADAD80;
-    --bquote-bible-bground: hsl(302, 30%, 20%);
-    --bquote-greek-bground: hsl(25, 30%, 20%);
-    --bquote-grey-bground: hsl(0, 0%, 20%);
-    --bquote-spirit-bground: hsl(208, 30%, 20%);
-    --jesus-color: #FF9E9E;
-    --link-color: #66B3FF;
-    --vert-tools: #111;
-    --iframe-filter: invert(87%) hue-rotate(180deg);
+        --body-bground: #222;
+        --body-color: #eee;
+        --border-color: #ADADAD80;
+        --bquote-bible-bground: hsl(302, 30%, 20%);
+        --bquote-greek-bground: hsl(25, 30%, 20%);
+        --bquote-grey-bground: hsl(0, 0%, 20%);
+        --bquote-spirit-bground: hsl(208, 30%, 20%);
+        --jesus-color: #FF9E9E;
+        --link-color: #66B3FF;
+        --vert-tools: #111;
+        --iframe-filter: invert(87%) hue-rotate(180deg);
     }
 
     #col2-dm-btn,

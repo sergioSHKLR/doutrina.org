@@ -5,6 +5,11 @@ version: 24.1.4
 
 # Admonitions
 
+<details class="links"><summary><span class="emoji">🔗</span></summary><br>
+<span class="emoji">🏷️</span> Allan Kardec, assistência espiritual a <a href="#allan-kardec">↩️</a><br>
+<span class="emoji">🏷️</span> Allan Kardec, conselhos a <a href="#allan-kardec">↩️</a><br>
+</details>
+
 > <span class="emoji">✝️</span> ▸ Mensagem *Jesus* [Jesus](Jesus){:.w}  (Bible)
 {:.bible}
 
