@@ -87,7 +87,7 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 <span class="emoji">🏷️</span> Allan Kardec, conselhos a <a href="#allan-kardec">↩️</a><br>
 </details>
 
-### <span class="emoji">📄</span> Introdução {#lde-0-03}
+### <span class="emoji">🗂️</span> Introdução {#lde-0-03}
 
 #### <span class="emoji">📄</span> Intro 01 {#lde-0-03-01}
 

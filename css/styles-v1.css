@@ -190,7 +190,7 @@ iframe {
 
 #col1-body .sidebar-heading {
     position: relative;
-    top: 6px;
+    top: 1px;
     text-indent: 0 !important;
     margin-bottom: 20px;
 }
@@ -421,7 +421,9 @@ a#col3-link4-a {
     padding: 3px 2px 3px 2px;
 }
 
-#col2-body>blockquote.grey>p>em {color: currentColor !important}
+#col2-body>blockquote.grey>p>em {
+    color: currentColor !important
+}
 
 #col2-body blockquote.bible-multi>p:last-child,
 #col2-body blockquote.spirit-multi>p:last-child {
@@ -712,7 +714,7 @@ button.tools {
     --bquote-spirit-bground: hsl(208, 30%, 20%);
     --jesus-color: #FF9E9E;
     --link-color: #66B3FF;
-    --vert-tools: #111;
+    --vert-tools: #1a1a1a;
     --iframe-filter: invert(87%) hue-rotate(180deg);
 }
 
@@ -814,7 +816,7 @@ button.tools {
         --bquote-spirit-bground: hsl(208, 30%, 20%);
         --jesus-color: #FF9E9E;
         --link-color: #66B3FF;
-        --vert-tools: #111;
+        --vert-tools: #1a1a1a;
         --iframe-filter: invert(87%) hue-rotate(180deg);
     }
 
@@ -1123,9 +1125,18 @@ strong {
 }
 
 li.toc>a::before {
-    content: "#" " ";
+    /*
+    content: "#" " "; */
     font-weight: bold;
+    margin-left: -10px;
 }
+
+li.toc {
+    margin-left: -40px;
+    list-style-type: none;
+}
+
+
 
 .sidebar-heading {
     border-bottom: 1px solid var(--border-color);
