@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- VERSION 23.12.27 -->
+<!-- VERSION 24.1.4 -->
 
 <!-- HEAD -->
 <head>
@@ -84,7 +84,7 @@
 <!-- STATS -->
 <div style="cursor: default !important">
 <p class="sidebar-heading">⌨️ Detalhes</p>
-<p><span class="emoji">💾</span> Versão <kbd>23.12.27</kbd></p>
+<p><span class="emoji">💾</span> Versão <kbd>24.1.4</kbd></p>
 <p><span class="emoji">🗓️</span> Atualizado em {{ "today" | date: "%b-%Y" }}</p>
 <p><span class="emoji">🛡️</span><a href="./3-legal.html">CC BY-NC-SA 4.0</a></p>
 </div>
@@ -119,17 +119,22 @@
 </div>
 </div>
 
-<!-- COL2 HEAD -->
-<div id="col2-head" class="head">
-<button id="col2-menu-on" onclick="menuOn()" title="abrir menu"><span class="icon">menu</span></button>
-<button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span class="icon">close</span></button>
-<a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
-<!--<button id="webshare" class="fr" label="compartilhe"><span class="icon">share</span></button> -->
-<button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="tela cheia"><span class="icon">fullscreen</span></button>
-<button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="tela normal"><span class="icon">fullscreen_exit</span></button>
-<button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
-<button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
-</div>
+   <!-- COL2 HEAD -->
+   <div id="col2-head" class="head">
+      <button id="col2-menu-on" onclick="menuOn()" title="abrir menu"><span class="icon">menu</span><br><span class="label">menu</span></button>
+      <button id="col2-menu-off" hidden onclick="menuOff()" title="fechar menu"><span class="icon">close</span><br><span class="label">fechar</span></button>
+      <a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
+      <button id="webshare" class="fr" label="compartilhe" onclick="webShare()"><span class="icon">share</span><br><span
+            class="label">comp.</span></button>
+      <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="tela cheia"><span
+            class="icon">fullscreen</span><br><span class="label">cheia</span></button>
+      <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="tela normal"><span
+            class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
+      <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="modo escuro"><span
+            class="icon">contrast</span><br><span class="label">escuro</span></button>
+      <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="modo claro"><span
+            class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
+   </div>
 
 <!-- COL2 BODY -->
 <div id="col2-body">

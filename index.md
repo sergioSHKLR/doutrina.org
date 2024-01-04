@@ -1,7 +1,7 @@
 ---
 title: doutrina.org
 layout: splash
-version: 23.12.27
+version: 24.1.4
 ---
 
  <!-- GOOGLE PRECONNECT -->
