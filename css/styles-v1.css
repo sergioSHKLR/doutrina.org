@@ -112,7 +112,7 @@ body {
 }
 
 #toc * {
-    font-family: 'Roboto Mono', monospace
+    font-family: 'Roboto Mono', monospace;
 }
 
 #col2-head {
@@ -579,22 +579,21 @@ summary {
     color: currentColor;
     cursor: pointer;
     list-style-type: none;
-    text-indent: 5px;
+    text-indent: 4px;
+    margin: 0;
 }
 
-details:active,
-summary:active {
-    outline: 0px solid transparent;
-    background-color: transparent;
+#toc > details>p {line-height: 1.7; }
+
+details[open] {
+    background-color: var(--body-bground);
 }
 
-details:focus,
-summary:focus {
-    outline: 0px solid transparent;
-    background-color: transparent;
-}
+#toc > details > p {margin-left: -6px; padding: 5px 0 5px 0;}
 
+#toc > details > div > p {margin: -6px; padding: 15px 0 15px 0;}
 
+#col1-body > details {margin-left: -15px; padding: 10px 5px 5px 15px;}
 
 /* DETAILS SUMMARY END */
 /*------------------------------------------------*/
