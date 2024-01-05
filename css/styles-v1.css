@@ -24,6 +24,7 @@
     --link-color: #0052A3;
     --sidebar-width: 300px;
     --vert-tools: whitesmoke;
+    --label-color: #666;
 }
 
 /* VARIABLES END */
@@ -108,6 +109,10 @@ body {
     top: var(--head-height);
     width: var(--sidebar-width);
     z-index: 1;
+}
+
+#toc * {
+    font-family: 'Roboto Mono', monospace
 }
 
 #col2-head {
@@ -540,16 +545,32 @@ h6:before {
 /* HEADINGS END */
 /*------------------------------------------------*/
 
+#col1-body>details>p {
+    margin-left: -4px;
+}
+
+#col1-body>details>div>p {
+    margin-left: -4px
+}
 
 /* DETAILS SUMMARY START */
 details summary::before {
     content: "＋ ";
     float: right;
+    margin-right: 20px;
     font-weight: 700;
-    position: relative;
-    top: -3px;
+    vertical-align: middle;
     transition-duration: .15s;
-    transition-property: all
+    transition-property: all;
+}
+
+details[open] summary::before {
+    content: "＋ ";
+    font-weight: 700;
+    vertical-align: middle;
+    transform: rotate(45deg);
+    transition-duration: .15s;
+    transition-property: all;
 }
 
 details,
@@ -573,15 +594,7 @@ summary:focus {
     background-color: transparent;
 }
 
-details[open] summary::before {
-    content: "＋ ";
-    font-weight: 700;
-    position: relative;
-    top: -3px;
-    transform: rotate(45deg);
-    transition-duration: .15s;
-    transition-property: all
-}
+
 
 /* DETAILS SUMMARY END */
 /*------------------------------------------------*/
@@ -687,7 +700,8 @@ button.tools {
     border-radius: 50%;
     border: 1px solid #59595980;
     position: relative;
-    top: 3px;
+    top: -3px;
+    font-size: 50%;
 }
 
 .label {
@@ -696,6 +710,16 @@ button.tools {
     justify-content: center;
     position: relative;
     top: -15px;
+    color: var(--label-color)
+}
+
+.label2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    justify-content: center;
+    position: relative;
+    top: -12px;
+    color: var(--label-color)
 }
 
 /* TOOLS END */
@@ -716,6 +740,7 @@ button.tools {
     --link-color: #66B3FF;
     --vert-tools: #1a1a1a;
     --iframe-filter: invert(87%) hue-rotate(180deg);
+    --label-color: #aaa;
 }
 
 .dark-mode #col2-body blockquote,
@@ -818,6 +843,7 @@ button.tools {
         --link-color: #66B3FF;
         --vert-tools: #1a1a1a;
         --iframe-filter: invert(87%) hue-rotate(180deg);
+        --label-color: #aaa;
     }
 
     #col2-dm-btn,
@@ -1143,8 +1169,7 @@ li.toc {
     font-weight: 700;
     font-size: 16px;
     font-family: 'Inter', sans-serif;
-    padding-bottom: 2px;
-    width: 90%
+    padding-bottom: 1.5px;
 }
 
 a.backlink {
