@@ -1132,11 +1132,9 @@ li.toc>a::before {
 }
 
 li.toc {
-    margin-left: -40px;
+    margin-left: -13px;
     list-style-type: none;
 }
-
-
 
 .sidebar-heading {
     border-bottom: 1px solid var(--border-color);
