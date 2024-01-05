@@ -69,12 +69,13 @@
 <!-- COL1 TOC -->
 <p id="toc-title" class="sidebar-heading"><span class="emoji"><span class="emoji">📄</span></span> Nesta página</p>
 <div id="toc">
-<p style="text-indent: 0px;">{{ page.title }}</b></p>
+<p style="text-indent: 0px;"><b>{{ page.title }}</b></p>
  {% include toc.html html=content h_min=1 h_max=3 item_class="toc" %}
 </div>
 <br><br>
     
 <!-- COL1 LINKS -->
+<details>
       <summary class="sidebar-heading"><span class="emoji">📚</span> Estante</summary>
       <p><a href="./book-1lde.html" title="O Livro dos Espíritos"><span class="emoji">👻</span> O Livro dos Espíritos</a></p>
       <p><a href="./book-2ldm.html" title="O Livro dos Médiuns"><span class="emoji">✒️</span> O Livro dos Médiuns</a></p>
@@ -142,7 +143,7 @@
       <button id="col2-menu-on" onclick="menuOn()" title="Abrir menu"><span class="icon">menu</span><br><span class="label">menu</span></button>
       <button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu"><span class="icon">close</span><br><span class="label">fechar</span></button>
       <a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
-      <button id="webshare" class="fr" label="Compartilhar" onclick="webShare()"><span class="icon">share</span><br><span class="label">comp.</span></button>
+      <button id="webshare" class="fr" title="Compartilhar" onclick="webShare()"><span class="icon">share</span><br><span class="label">comp.</span></button>
       <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
       <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
       <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
