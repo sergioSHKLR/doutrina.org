@@ -24,7 +24,7 @@
     --link-color: #0052A3;
     --sidebar-width: 300px;
     --vert-tools: whitesmoke;
-    --label-color: #666;
+    --label-color: #000;
 }
 
 /* VARIABLES END */
@@ -48,6 +48,12 @@ body {
     color: var(--body-color)
 }
 
+button:focus,
+a:focus {
+    outline: 2px solid orange;
+    border-radius: 3px;
+}
+
 /* ELEMENTS END */
 /*------------------------------------------------*/
 
@@ -57,7 +63,7 @@ body {
     background-color: var(--accent-color);
     border: none;
     border-bottom: 1px solid var(--border-color);
-    box-shadow: 0 5px 3px -3px #00000030;
+    /* box-shadow: 0 5px 3px -3px #00000030; */
     left: 0;
     padding: 0 0 0 10px;
     width: calc(var(--sidebar-width) + var(--head-height));
@@ -73,7 +79,7 @@ body {
     box-sizing: border-box;
     font-size: 24px;
     font-family: 'Russo One', sans-serif;
-    margin-left: -5px;
+    margin-left: 5px;
     padding-bottom: 5px;
     padding-left: 0;
 }
@@ -112,7 +118,7 @@ body {
 #col2-head {
     background-color: var(--accent-color);
     border-bottom: 1px solid var(--border-color);
-    box-shadow: 0 5px 3px -3px #00000030;
+    /* box-shadow: 0 5px 3px -3px #00000030; */
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow: hidden;
     padding: 0 17px 0 0;
@@ -141,7 +147,7 @@ body {
     background-color: var(--accent-color);
     border: none;
     border-bottom: 1px solid var(--border-color);
-    box-shadow: 0 5px 3px -3px #00000030;
+    /* box-shadow: 0 5px 3px -3px #00000030; */
     padding: 0 20px 0 10px;
     right: 24px;
     width: var(--column-width);
@@ -689,6 +695,49 @@ button.tools {
     color: var(--label-color)
 }
 
+.book-buttons {
+    position: relative;
+    top: -5.5px;
+    left: -20px;
+    padding-left: 10px;
+    border-bottom: 1px solid var(--border-color);
+    display: inline-flex;
+    width: 105%
+}
+
+.book-buttons span.emoji {
+    font-size: 18px;
+    position: relative;
+    top: 0px;
+}
+
+.book-buttons > a {
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    height: var(--head-height);
+    text-align: center;
+    width: var(--button-width);
+    color: currentColor;
+    text-decoration: none;
+    margin-right: 8px;
+    position: relative;
+    top: -2px;
+}
+
+#col1-body hr {
+    border-top: none;
+    border-bottom: 1px solid var(--border-color)
+}
+
+.label3 {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    justify-content: center;
+    position: relative;
+    top: -18px;
+    color: currentColor
+}
+
 /* TOOLS END */
 /*------------------------------------------------*/
 
@@ -707,7 +756,7 @@ button.tools {
     --link-color: #66B3FF;
     --vert-tools: #1a1a1a;
     --iframe-filter: invert(87%) hue-rotate(180deg);
-    --label-color: #aaa;
+    --label-color: #fff;
 }
 
 .dark-mode #col2-body blockquote,
@@ -809,7 +858,7 @@ button.tools {
         --link-color: #66B3FF;
         --vert-tools: #1a1a1a;
         --iframe-filter: invert(87%) hue-rotate(180deg);
-        --label-color: #aaa;
+        --label-color: #fff;
     }
 
     #col2-dm-btn,
@@ -1145,7 +1194,6 @@ a.backlink {
 a:active,
 a:focus {
     background-color: transparent;
-    outline: transparent
 }
 
 
