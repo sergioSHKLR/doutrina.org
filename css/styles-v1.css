@@ -4,7 +4,7 @@
 :root {
     --accent-color: hsl(198, 65%, 95%);
     --bground-color-grey: gray;
-    --body-bground: #fff;
+    --body-bground: white;
     --body-color: #222;
     --body-height: calc(100vh - 50px);
     --border-color-grey: #80808080;
@@ -31,10 +31,12 @@
 /*------------------------------------------------*/
 
 /* ELEMENTS START */
+
 html,
 iframe,
 img {
     overflow: clip;
+    -webkit-tap-highlight-color: transparent;
 }
 
 html {
@@ -532,6 +534,7 @@ h6:before {
 }
 
 /* DETAILS SUMMARY START */
+
 details summary::before {
     content: "＋ ";
     float: right;
@@ -553,25 +556,12 @@ details[open] summary::before {
 
 details,
 summary {
-    background-color: transparent;
     color: currentColor;
     cursor: pointer;
     list-style-type: none;
     text-indent: 4px;
     margin: 0;
 }
-
-#toc > details>p {line-height: 1.7; }
-
-details[open] {
-    background-color: var(--body-bground);
-}
-
-#toc > details > p {margin-left: -6px; padding: 5px 0 5px 0;}
-
-#toc > details > div > p {margin: -6px; padding: 15px 0 15px 0;}
-
-#col1-body > details {margin-left: -15px; padding: 10px 5px 5px 15px;}
 
 /* DETAILS SUMMARY END */
 /*------------------------------------------------*/
@@ -1158,9 +1148,6 @@ a:focus {
     outline: transparent
 }
 
-a:any-link {
-    outline: transparent
-}
 
 abbr {
     text-underline-offset: 2px
@@ -1187,7 +1174,6 @@ button {
     cursor: pointer;
     font-size: 24px;
     height: var(--head-height);
-    outline: 0;
     width: var(--head-height);
 }
 
