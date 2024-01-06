@@ -69,18 +69,11 @@ body {
     border-collapse: collapse;
     border-radius: 5px;
     box-sizing: border-box;
-    color: var(--body-color);
     font-size: 24px;
     font-family: 'Russo One', sans-serif;
     margin-left: -5px;
     padding-bottom: 5px;
     padding-left: 0;
-    position: relative;
-    text-decoration: none
-}
-
-#col1-brand {
-    top: 2px
 }
 
 #col2-brand {
@@ -90,13 +83,12 @@ body {
 #col1-body {
     -ms-overflow-style: none;
     background-color: var(--accent-color);
-    border-collapse: collapse;
     border-right: 1px solid var(--border-color);
     box-sizing: border-box;
+    height: var(--body-height);
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     line-height: 1.5;
-    font-family: 'Inter', sans-serif;
-    height: var(--body-height);
     left: 0;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -128,11 +120,9 @@ body {
 
 #col2-body {
     border-collapse: collapse;
-    box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
+    /* box-shadow: inset 1px 1px 25px 6px #f6eee3ff; */
     box-sizing: border-box;
     font-weight: 300;
-    font-size: 16px;
-    line-height: 1.8;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow-x: hidden;
@@ -198,10 +188,7 @@ iframe {
     top: 1px;
     text-indent: 0 !important;
     margin-bottom: 20px;
-}
-
-#col1-body p {
-    text-indent: 10px
+    margin-right: -5px;
 }
 
 #col1-body::-webkit-scrollbar {
@@ -215,7 +202,6 @@ iframe {
     font-weight: 300;
     font-size: 16px;
     line-height: 1.5;
-    font-family: 'Roboto Slab', serif;
     height: var(--body-height);
     overflow-x: hidden;
     overflow-y: scroll;
@@ -229,7 +215,6 @@ a#col3-link1-a,
 a#col3-link2-a,
 a#col3-link3-a,
 a#col3-link4-a {
-    color: var(--body-color);
     font-size: 24px;
     font-family: 'Inter', sans-serif;
     height: var(--head-height);
@@ -266,7 +251,6 @@ a#col3-link4-a {
 }
 
 #col1-body>ul {
-    list-style-type: none;
     margin-left: -25px;
     line-height: 2.4
 }
@@ -338,11 +322,6 @@ a#col3-link4-a {
     font-size: 80%;
     font-style: normal;
     padding: 3px 2px 3px 2px;
-}
-
-#col2-body {
-    box-shadow: none;
-    background-color: transparent;
 }
 
 #col2-body blockquote:first-letter {
@@ -531,7 +510,6 @@ h5:before {
 h6 {
     border-bottom: 1px solid var(--border-color);
     font-size: 16px;
-    font-family: 'Roboto Slab', serif;
     margin-bottom: -15px;
     margin-top: 0;
     padding-top: 20px
@@ -812,7 +790,6 @@ button.tools {
 .dark-mode body,
 .dark-mode #col2-body {
     background-color: var(--body-bground);
-    box-shadow: none;
     color: #fff
 }
 
@@ -1128,7 +1105,6 @@ strong {
 }
 
 .head {
-    border-collapse: collapse;
     box-sizing: border-box;
     height: var(--head-height);
     line-height: var(--head-height);
@@ -1183,7 +1159,6 @@ a:focus {
 }
 
 a:any-link {
-    color: var(--link-color);
     outline: transparent
 }
 
