@@ -589,9 +589,9 @@ summary {
 }
 
 #vert-tools button {
-    padding: 2px 2px 3px 0px;
-    border-bottom: 1px solid var(--border-color);
+/*    border-bottom: 1px solid var(--border-color); */
     color: currentColor;
+    margin-bottom: 10px;
 }
 
 .ta-justify {
@@ -664,11 +664,9 @@ button.tools {
 }
 
 .tools-round {
+    border: 1px solid var(--border-color-grey);
     border-radius: 50%;
-    border: 1px solid #59595980;
-    position: relative;
-    top: -3px;
-    font-size: 50%;
+    font-size: 70%;
 }
 
 .label {
@@ -689,37 +687,6 @@ button.tools {
     color: var(--label-color)
 }
 
-.book-buttons {
-    position: relative;
-    top: -5.5px;
-    left: -20px;
-    padding-left: 10px;
-    border-bottom: 1px solid var(--border-color);
-    display: inline-flex;
-    width: 105%;
-    background-color: var(--vert-tools);
-}
-
-.book-buttons span.emoji {
-    font-size: 18px;
-    position: relative;
-    top: 0px;
-}
-
-.book-buttons > a {
-    font-size: 24px;
-    font-family: 'Inter', sans-serif;
-    height: var(--head-height);
-    text-align: center;
-    width: var(--button-width);
-    color: currentColor;
-    text-decoration: none;
-    margin-right: 8px;
-    position: relative;
-    top: -2px;
-    background-color: var(--vert-tools);
-}
-
 #col1-body hr {
     border-top: none;
     border-bottom: 1px solid var(--border-color)
@@ -732,6 +699,15 @@ button.tools {
     position: relative;
     top: -18px;
     color: currentColor
+}
+
+.label4 {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    justify-content: center;
+    position: relative;
+    bottom: 15px;
+    color: #999
 }
 
 /* TOOLS END */
