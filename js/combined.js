@@ -1,3 +1,193 @@
+// VER 23.12.24
+
+// PERSIST MODE 01 START
+
+const EL_body2 = document.querySelector("#col2-body");
+const ELS_textAlign = document.querySelectorAll(".textAlign");
+localStorage.textAlign = localStorage.textAlign || "left"; // Read or default to left
+function changeAlign() {
+  EL_body2.style.textAlign = `${localStorage.textAlign}`;
+}
+
+// Change size on subsequent page load
+changeAlign();
+
+// PERSIST MODE 01 END
+
+// VER 23.12.24
+
+// PERSIST MODE 07-08-09 START
+
+const EL_body4 = document.querySelector("#col2-body");
+const ELS_bground = document.querySelectorAll(".bground");
+localStorage.backgroundColor = localStorage.backgroundColor || "transparent"; // Read or default to transparent
+function changeBground() {
+  EL_body4.style.backgroundColor = localStorage.backgroundColor};
+
+
+// Change size on subsequent page load
+changeBground();
+
+// PERSIST MODE 07-08-09 END
+
+// VER 23.12.24
+
+let contrastMode = localStorage.getItem("contrast");
+
+if (contrastMode === "dark") {
+    darkMode(); // set state of darkMode on page load
+  }
+
+  // VER 23.12.24
+
+// PERSIST MODE 02-03-04 START
+
+const EL_body3 = document.querySelector("#col2-body");
+const ELS_fontFamily = document.querySelectorAll(".fontFamily");
+localStorage.fontFamily = localStorage.fontFamily || "Roboto Serif"; // Read or default to serif
+function changeFamily() {
+  EL_body3.style.fontFamily = `${localStorage.fontFamily}`;
+}
+
+// Change size on subsequent page load
+changeFamily();
+
+// PERSIST MODE 02-03-04 END
+
+// VER 23.12.24
+
+// LINE HEIGHT START
+
+const EL_body1 = document.querySelector("#col2-body");
+const ELS_lineHeight = document.querySelectorAll(".lineHeight");
+localStorage.lineHeight = localStorage.lineHeight || 24; // Read or default to 16px
+function changeHeight() {
+  EL_body1.style.lineHeight = `${localStorage.lineHeight}px`;
+}
+ELS_lineHeight.forEach(el => el.addEventListener("click", function () {
+  localStorage.lineHeight = parseInt(localStorage.lineHeight) + parseInt(el.value);
+  changeHeight();
+}));
+// Change height on subsequent page load
+changeHeight();
+
+// LINE HEIGHT END
+
+// VER 23.12.24
+
+// FONT SIZER START
+
+const EL_body = document.querySelector("#col2-body");
+const ELS_fontSize = document.querySelectorAll(".fontSize");
+localStorage.fontSize = localStorage.fontSize || 16; // Read or default to 16px
+function changeSize() {
+  EL_body.style.fontSize = `${localStorage.fontSize}px`;
+}
+ELS_fontSize.forEach(el => el.addEventListener("click", function () {
+  localStorage.fontSize = parseInt(localStorage.fontSize) + parseInt(el.value);
+  changeSize();
+}));
+// Change size on subsequent page load
+changeSize();
+
+// FONT SIZER END
+
+// VERSION 23.12.24
+
+// DARK MODE START
+
+function darkMode() {
+    var element = document.body;
+    element.classList.add("dark-mode");
+    var element = document.getElementById("col2-dm-btn");
+    element.classList.add("hide");
+    var element = document.getElementById("col2-lm-btn");
+    element.classList.remove("hide");
+    localStorage.setItem("contrast","dark");
+}
+
+function lightMode() {
+    var element = document.body;
+    element.classList.remove("dark-mode");
+    var element = document.getElementById("col2-lm-btn");
+    element.classList.add("hide");
+    var element = document.getElementById("col2-dm-btn");
+    element.classList.remove("hide");
+    localStorage.setItem("contrast","light");
+}
+
+// DARK MODE END
+
+// EXT LINKS START
+
+window.onload = function () {
+    /* onload code */
+  
+    var extLinks = document.querySelectorAll(
+        "a[href^='https://pt'], a[href^='https://maps'], a[href^='https://www']");
+    var host = window.location.hostname;
+  
+    var isInternalLink = link => new URL(link).hostname === host;
+  
+    extLinks.forEach(link => {
+        if (isInternalLink(link)) return;
+  
+        link.setAttribute("target", "ext");
+        link.setAttribute("rel", "noopener");
+    });
+  };
+  
+  // EXT LINKS END
+
+  // VERSION 23.12.24
+
+// FULLSCREEN START
+var elem = document.documentElement;
+
+// OPEN FULLSCREEN  
+function openFullscreen() {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) { /* Safari */
+        elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { /* IE11 */
+        elem.msRequestFullscreen();
+    }
+    var element = document.getElementById("col2-fs-btn");
+    element.classList.toggle("hide");
+    var element = document.getElementById("col2-ns-btn");
+    element.classList.toggle("show");
+}
+
+// CLOSE FULLSCREEN  
+function closeFullscreen() {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.webkitExitFullscreen) { /* Safari */
+        document.webkitExitFullscreen();
+    } else if (document.msExitFullscreen) { /* IE11 */
+        document.msExitFullscreen();
+    }
+    var element = document.getElementById("col2-ns-btn");
+    element.classList.toggle("show");
+    var element = document.getElementById("col2-fs-btn");
+    element.classList.toggle("hide");
+}
+
+var elem = document.documentElement;
+
+// FULLSCREEN END
+
+// VERSION 23.12.24
+
+// HYPO ALERT START
+
+function hypoAlert() {
+    alert("Caso a aba de anotações não esteja abrindo, clique e arraste o botão do topo.");
+}
+
+// HYPO ALERT END
+
 // VERSION 23.12.24
 
 // MENU START
@@ -18,205 +208,6 @@ function menuOff() {
 
 // MENU END
 
-//-----------------------------------------------------------------------------
-
-// CHECK ALIGN START
-
-const EL_body2 = document.querySelector("#col2-body");
-const ELS_textAlign = document.querySelectorAll(".textAlign");
-localStorage.textAlign = localStorage.textAlign || "left"; // Read or default to left
-function changeAlign() {
-    EL_body2.style.textAlign = `${localStorage.textAlign}`;
-}
-
-// Change size on subsequent page load
-changeAlign();
-
-// CHECK ALIGN END
-
-//-----------------------------------------------------------------------------
-
-// CHECK BGROUND START
-
-const EL_body4 = document.querySelector("#col2-body");
-const ELS_bground = document.querySelectorAll(".bground");
-localStorage.backgroundColor = localStorage.backgroundColor || "transparent"; // Read or default to transparent
-function changeBground() {
-    EL_body4.style.backgroundColor = localStorage.backgroundColor
-};
-
-
-// Change size on subsequent page load
-changeBground();
-
-// CHECK BGROUND END
-
-//-----------------------------------------------------------------------------
-
-// CHECK CONTRAST START
-
-let contrastMode = localStorage.getItem("contrast");
-
-if (contrastMode === "dark") {
-    darkMode(); // set state of darkMode on page load
-}
-
-// CHECK CONTRAST END
-
-//-----------------------------------------------------------------------------
-
-// CHECK FAMILY START
-
-const EL_body3 = document.querySelector("#col2-body");
-const ELS_fontFamily = document.querySelectorAll(".fontFamily");
-localStorage.fontFamily = localStorage.fontFamily || "Roboto Slab"; // Read or default to slab
-function changeFamily() {
-    EL_body3.style.fontFamily = `${localStorage.fontFamily}`;
-}
-
-// Change size on subsequent page load
-changeFamily();
-
-// CHECK FAMILY END
-
-//-----------------------------------------------------------------------------
-
-// CHECK LINE START
-
-const EL_body1 = document.querySelector("#col2-body");
-const ELS_lineHeight = document.querySelectorAll(".lineHeight");
-localStorage.lineHeight = localStorage.lineHeight || 24; // Read or default to 16px
-function changeHeight() {
-    EL_body1.style.lineHeight = `${localStorage.lineHeight}px`;
-}
-ELS_lineHeight.forEach(el => el.addEventListener("click", function () {
-    localStorage.lineHeight = parseInt(localStorage.lineHeight) + parseInt(el.value);
-    changeHeight();
-}));
-// Change height on subsequent page load
-changeHeight();
-
-// CHECK LINE END
-
-//-----------------------------------------------------------------------------
-
-// CHECK SIZE START
-
-const EL_body = document.querySelector("#col2-body");
-const ELS_fontSize = document.querySelectorAll(".fontSize");
-localStorage.fontSize = localStorage.fontSize || 16; // Read or default to 16px
-function changeSize() {
-    EL_body.style.fontSize = `${localStorage.fontSize}px`;
-}
-ELS_fontSize.forEach(el => el.addEventListener("click", function () {
-    localStorage.fontSize = parseInt(localStorage.fontSize) + parseInt(el.value);
-    changeSize();
-}));
-// Change size on subsequent page load
-changeSize();
-
-// CHECK SIZE END
-
-//-----------------------------------------------------------------------------
-
-// DARK MODE START
-
-function darkMode() {
-    var element00 = document.body;
-    element00.classList.add("dark-mode");
-    var element01 = document.getElementById("col2-dm-btn");
-    element01.classList.add("hide");
-    var element02 = document.getElementById("col2-lm-btn");
-    element02.classList.remove("hide");
-    localStorage.setItem("contrast", "dark");
-}
-
-function lightMode() {
-    var element03 = document.body;
-    element03.classList.remove("dark-mode");
-    var element04 = document.getElementById("col2-lm-btn");
-    element04.classList.add("hide");
-    var element05 = document.getElementById("col2-dm-btn");
-    element05.classList.remove("hide");
-    localStorage.setItem("contrast", "light");
-}
-
-// DARK MODE END
-
-//-----------------------------------------------------------------------------
-
-// EXT LINKS START
-
-window.onload = function () {
-    /* onload code */
-
-    var extLinks = document.querySelectorAll(
-        "a[href^='https://pt'], a[href^='https://maps'], a[href^='https://www']");
-    var host = window.location.hostname;
-
-    var isInternalLink = link => new URL(link).hostname === host;
-
-    extLinks.forEach(link => {
-        if (isInternalLink(link)) return;
-
-        link.setAttribute("target", "ext");
-        link.setAttribute("rel", "noopener");
-    });
-};
-
-// EXT LINKS END
-
-//-----------------------------------------------------------------------------
-
-// FULLSCREEN START
-var elem = document.documentElement;
-
-// OPEN FULLSCREEN  
-function openFullscreen() {
-    if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-    } else if (elem.webkitRequestFullscreen) { /* Safari */
-        elem.webkitRequestFullscreen();
-    } else if (elem.msRequestFullscreen) { /* IE11 */
-        elem.msRequestFullscreen();
-    }
-    var element15 = document.getElementById("col2-fs-btn");
-    element15.classList.toggle("hide");
-    var element16 = document.getElementById("col2-ns-btn");
-    element16.classList.toggle("show");
-}
-
-// CLOSE FULLSCREEN  
-function closeFullscreen() {
-    if (document.exitFullscreen) {
-        document.exitFullscreen();
-    } else if (document.webkitExitFullscreen) { /* Safari */
-        document.webkitExitFullscreen();
-    } else if (document.msExitFullscreen) { /* IE11 */
-        document.msExitFullscreen();
-    }
-    var element18 = document.getElementById("col2-ns-btn");
-    element18.classList.toggle("show");
-    var element19 = document.getElementById("col2-fs-btn");
-    element19.classList.toggle("hide");
-}
-
-var elem = document.documentElement;
-
-// FULLSCREEN END
-
-//-----------------------------------------------------------------------------
-
-// HYPO ALERT START
-
-function hypoAlert() {
-    alert("Caso a aba de anotações não esteja abrindo, clique e arraste o botão do topo.");
-}
-
-// HYPO ALERT END
-
-//-----------------------------------------------------------------------------
-
 // STRING REPLACE 1 START
 
 var links, x, le;
@@ -226,8 +217,6 @@ for (x = 0, le = links.length; x < le; x++) {
 }
 
 // STRING REPLACE 1 END
-
-//-----------------------------------------------------------------------------
 
 // STRING REPLACE 2 START
 
@@ -239,8 +228,6 @@ for (y = 0, le = links.length; y < le; y++) {
 
 // STRING REPLACE 2 END
 
-//-----------------------------------------------------------------------------
-
 // STRING REPLACE 3 START
 
 var links, z, le;
@@ -250,8 +237,6 @@ for (z = 0, le = links.length; z < le; z++) {
 }
 
 // STRING REPLACE 3 END
-
-//-----------------------------------------------------------------------------
 
 // STRING REPLACE 4 START
 
@@ -263,8 +248,6 @@ for (k = 0, le = links.length; k < le; k++) {
 
 // STRING REPLACE 4 END
 
-//-----------------------------------------------------------------------------
-
 // STRING REPLACE 5 START
 
 var links, u, le;
@@ -274,8 +257,6 @@ for (u = 0, le = links.length; u < le; u++) {
 }
 
 // STRING REPLACE 5 END
-
-//-----------------------------------------------------------------------------
 
 // STRING REPLACE 6 START
 
@@ -287,111 +268,101 @@ for (b = 0, le = links.length; b < le; b++) {
 
 // STRING REPLACE 6 END
 
-//-----------------------------------------------------------------------------
-
 // VERSION 23.12.24
 
 // TOOLS START
 
 // SHOW MENU
 
-function function04() {
-    var element04 = document.getElementById("vert-tools-buttons");
-    element04.classList.toggle("hide");
+function function00() {
+    var element00 = document.getElementById("vert-tools-buttons");
+    element00.classList.toggle("hide");
   }
 
 //---------------------------------------------------
 
-function function05() {
+function function01() {
     localStorage.setItem("textAlign", "justify");
+    var element01 = document.getElementById("col2-body");
+    element01.classList.add("ta-justify");
+}
+
+//---------------------------------------------------
+
+function function02() {
+    localStorage.setItem("fontFamily", "Roboto Serif");
+    var element02 = document.getElementById("col2-body");
+    element02.classList.remove("ff-sans");
+    element02.classList.remove("ff-mono");
+    element02.classList.add("ff-serif");
+}
+
+//---------------------------------------------------
+
+function function03() {
+    localStorage.setItem("fontFamily", "sans");
+    var element03 = document.getElementById("col2-body");
+    element03.classList.remove("ff-serif");
+    element03.classList.remove("ff-mono");
+    element03.classList.add("ff-sans");
+}
+
+//---------------------------------------------------
+
+function function04() {
+    localStorage.setItem("fontFamily", "mono");
+    var element04 = document.getElementById("col2-body");
+    element04.classList.remove("ff-serif");
+    element04.classList.remove("ff-sans");
+    element04.classList.add("ff-mono");
+}
+
+//---------------------------------------------------
+
+function function05() {
+    localStorage.setItem("lineHeight", "narrow");
     var element05 = document.getElementById("col2-body");
-    element05.classList.add("ta-justify");
+    element05.classList.remove("lh-wide");
+    element05.classList.add("lh-narrow");
 }
 
 //---------------------------------------------------
 
 function function06() {
-    localStorage.setItem("fontFamily", "serif");
+    localStorage.setItem("lineHeight", "wide");
     var element06 = document.getElementById("col2-body");
-    element06.classList.remove("ff-sans");
-    element06.classList.remove("ff-mono");
-    element06.classList.add("ff-serif");
+    element06.classList.remove("lh-narrow");
+    element06.classList.add("lh-wide");
 }
 
 //---------------------------------------------------
 
 function function07() {
-    localStorage.setItem("fontFamily", "sans");
+    localStorage.setItem("backgroundColor", "#ffff001a");
     var element07 = document.getElementById("col2-body");
-    element07.classList.remove("ff-serif");
-    element07.classList.remove("ff-mono");
-    element07.classList.add("ff-sans");
+    element07.classList.remove("bg-green");
+    element07.classList.remove("bg-pink");
+    element07.classList.add("bg-yellow");
 }
 
 //---------------------------------------------------
 
 function function08() {
-    localStorage.setItem("fontFamily", "mono");
+    localStorage.setItem("backgroundColor", "#00ff001a");
     var element08 = document.getElementById("col2-body");
-    element08.classList.remove("ff-serif");
-    element08.classList.remove("ff-sans");
-    element08.classList.add("ff-mono");
+    element08.classList.remove("bg-yellow");
+    element08.classList.remove("bg-pink");
+    element08.classList.add("bg-green");
 }
 
 //---------------------------------------------------
 
 function function09() {
-    localStorage.setItem("lineHeight", "narrow");
+    localStorage.setItem("backgroundColor", "#ff00001a");
     var element09 = document.getElementById("col2-body");
-    element09.classList.remove("lh-wide");
-    element09.classList.add("lh-narrow");
-}
-
-//---------------------------------------------------
-
-function function10() {
-    localStorage.setItem("lineHeight", "wide");
-    var element10 = document.getElementById("col2-body");
-    element10.classList.remove("lh-narrow");
-    element10.classList.add("lh-wide");
-}
-
-//---------------------------------------------------
-
-function function11() {
-    localStorage.setItem("backgroundColor", "#ffff001a");
-    var element11 = document.getElementById("col2-body");
-    element11.classList.remove("bg-green");
-    element11.classList.remove("bg-pink");
-    element11.classList.add("bg-yellow");
-}
-
-//---------------------------------------------------
-
-function function12() {
-    localStorage.setItem("backgroundColor", "#00ff001a");
-    var element12 = document.getElementById("col2-body");
-    element12.classList.remove("bg-yellow");
-    element12.classList.remove("bg-pink");
-    element12.classList.add("bg-green");
-}
-
-//---------------------------------------------------
-
-function function13() {
-    localStorage.setItem("backgroundColor", "#fff0f51a");
-    var element13 = document.getElementById("col2-body");
-    element13.classList.remove("bg-yellow");
-    element13.classList.remove("bg-green");
-    element13.classList.add("bg-pink");
-}
-
-//---------------------------------------------------
-
-function function14() {
-    localStorage.setItem("textDecoration", "none");
-    var element14 = document.querySelectorAll("#col2-body a:link");
-    element14.classList.add("links-off");
+    element09.classList.remove("bg-yellow");
+    element09.classList.remove("bg-green");
+    element09.classList.add("bg-pink");
 }
 
 //---------------------------------------------------
@@ -416,31 +387,22 @@ function functionReset() {
     element.classList.remove("none");
 }
 
+//---------------------------------------------------
+
 // TOOLS END
 
-//---------------------------------------------------
+// VERSION 24.1.4
 
 // WEBSHARE START
 
+function webShare() {
+    navigator.share(shareData);
+}
+
 const shareData = {
-    title: "💧 doutrina.org",
-    text: "❤️ Amai-vos e 🎓 instruí-vos!",
-    url: "https://doutrina.org",
+title: "💧 doutrina.org",
+text: "❤️ Amai-vos e 🎓 instruí-vos!",
+url: "https://doutrina.org",
 };
 
-const btn = document.querySelector("#webshare");
-const resultPara = document.querySelector(".result");
-
-// Share must be triggered by "user activation"
-btn.addEventListener("click", async () => {
-    try {
-        await navigator.share(shareData);
-        resultPara.textContent = "Compartilhado com sucesso!";
-    } catch (err) {
-        resultPara.textContent = "Erro ao compartilhar";
-    }
-});
-
 // WEBSHARE END
-
-//---------------------------------------------------

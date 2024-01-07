@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.title }} | doutrina.org</title>
 <meta name="description"
-      content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
+ content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
 <meta name="author" content="sergioSHKLR, doutrina@shklr.org">
 
 <!-- OPEN GRAPH / FACEBOOK -->
@@ -16,7 +16,7 @@
 <meta property="og:url" content="https://doutrina.org/">
 <meta property="og:title" content="doutrina.org">
 <meta property="og:description"
-      content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
+ content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
 <meta property="og:image" content="./pwa/opengraph.png">
 
 <!-- TWITTER / X -->
@@ -24,7 +24,7 @@
 <meta property="twitter:url" content="https://doutrina.org/">
 <meta property="twitter:title" content="doutrina.org">
 <meta property="twitter:description"
-      content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
+ content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
 <meta property="twitter:image" content="./pwa/twitter.png">
 
 <!-- GOOGLE PRECONNECT -->
@@ -36,7 +36,7 @@
 
 <!-- GOOGLE ICONS -->
 <link rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..300,0..1,-50..200">
+ href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..300,0..1,-50..200">
 
 <!-- GOOGLE EMOJI -->
 <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
@@ -47,7 +47,7 @@
 <!-- PWA -->
 <link rel="manifest" href="./pwa/site.webmanifest">
 <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
-<meta name="theme-color" content="#F0FAFF">
+<meta name="theme-color" content="#F0F8FF">
 
 <!-- STYLES -->
 <style>
@@ -59,7 +59,7 @@
 </head>
 
 <!-- BODY -->
-<body onload="changeFamily">
+<body>
 
 <!-- COL1 HEAD -->
 <div id="col1-head" class="head"><a href="./1-home.html" id="col1-brand"><span class="emoji">💧</span> doutrina.org</a>
@@ -70,12 +70,12 @@
 
 <!-- COL1 BOOK BUTTONS -->
 <div class="book-buttons">
-   <a href="./book-1lde.html" title="O Livro dos Espíritos" tabindex="3"><span class="emoji">👻</span><br><span class="label3">LDE</span></a><br>
-   <a href="./book-2ldm.html" title="O Livro dos Médiuns"  tabindex="4"><span class="emoji">✒️</span><br><span class="label3">LDM</span></a><br>
-   <a href="./book-3ese.html" title="O Evangelho"  tabindex="5"><span class="emoji">🕊️</span><br><span class="label3">ESE</span></a><br>
-   <a href="./book-4ceu.html" title="O Céu e o Inferno"  tabindex="6"><span class="emoji">🔥</span><br><span class="label3">CEU</span></a><br>
-   <a href="./book-5gen.html" title="A Gênese"  tabindex="7"><span class="emoji">🌱</span><br><span class="label3">GEN</span></a>
-   </div>
+<a href="./book-1lde.html" title="O Livro dos Espíritos" tabindex="3"><span class="emoji">👻</span><br><span class="label3">LDE</span></a><br>
+<a href="./book-2ldm.html" title="O Livro dos Médiuns" tabindex="4"><span class="emoji">✒️</span><br><span class="label3">LDM</span></a><br>
+<a href="./book-3ese.html" title="O Evangelho" tabindex="5"><span class="emoji">🕊️</span><br><span class="label3">ESE</span></a><br>
+<a href="./book-4ceu.html" title="O Céu e o Inferno" tabindex="6"><span class="emoji">🔥</span><br><span class="label3">CEU</span></a><br>
+<a href="./book-5gen.html" title="A Gênese" tabindex="7"><span class="emoji">🌱</span><br><span class="label3">GEN</span></a>
+</div>
 
 <!-- COL1 TOC -->
 <p id="toc-title" class="sidebar-heading"><span class="emoji"><span class="emoji">📄</span></span> Nesta página</p>
@@ -84,104 +84,93 @@
  {% include toc.html html=content h_min=1 h_max=3 item_class="toc" %}
 </div>
 <br><br>
-    
+ 
 <!-- COL1 LINKS 
 <details>
-   <summary class="sidebar-heading"><span class="emoji">📚</span> Estante</summary>
-   <p><a href="./book-1lde.html" title="O Livro dos Espíritos"><span class="emoji">👻</span> O Livro dos Espíritos</a></p>
-   <p><a href="./book-2ldm.html" title="O Livro dos Médiuns"><span class="emoji">✒️</span> O Livro dos Médiuns</a></p>
-   <p><a href="./book-3ese.html" title="O Evangelho segundo o Espiritismo"><span class="emoji">🕊️</span> O Evangelho</a></p>
-   <p><a href="./book-4ceu.html" title="O Céu e o Inferno"><span class="emoji"><span class="emoji">🔥</span></span> Céu e Inferno</a></p>
-   <p><a href="./book-5gen.html" title="A Gênese"><span class="emoji"><span class="emoji">🌱</span></span> A Gênese</a></p>
-   </details><br> -->
+<summary class="sidebar-heading"><span class="emoji">📚</span> Estante</summary>
+<p><a href="./book-1lde.html" title="O Livro dos Espíritos"><span class="emoji">👻</span> O Livro dos Espíritos</a></p>
+<p><a href="./book-2ldm.html" title="O Livro dos Médiuns"><span class="emoji">✒️</span> O Livro dos Médiuns</a></p>
+<p><a href="./book-3ese.html" title="O Evangelho segundo o Espiritismo"><span class="emoji">🕊️</span> O Evangelho</a></p>
+<p><a href="./book-4ceu.html" title="O Céu e o Inferno"><span class="emoji"><span class="emoji">🔥</span></span> Céu e Inferno</a></p>
+<p><a href="./book-5gen.html" title="A Gênese"><span class="emoji"><span class="emoji">🌱</span></span> A Gênese</a></p>
+</details><br> -->
 
-   <!-- COL1 PROJECT -->
-   <details>
-   <summary class="sidebar-heading"><span class="emoji">📈</span> Projeto</summary>
-   <p><a href="./1-home.html" title="Ínício"><span class="emoji">🏠</span> Início</a></p>
-   <p><a href="./2-info.html" title="Informações"><span class="emoji">📋</span> Informações</a></p>
-   <p><a href="./3-legal.html" title="Legal"><span class="emoji">⚖️</span> Avisos legais</a></p>
-   <p><a href="./4-contact.html" title="Contato"><span class="emoji">📧</span> Contato</a></p>
-   <p><a target="_blank" href="https://pt.shklr.org" title="Fundação"><span class="emoji">⭕</span> Fundação</a></p>
-   <hr style="margin-right: 30px">
-   <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="Código fonte"><span class="emoji">⌨️</span> Código fonte</a></p>
-   <p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="Erros"><span class="emoji">🐛</span> Falhas de código</a></p>
-   <div style="cursor: default !important">
-      <hr style="margin-right: 30px">
-      <p><span class="emoji">💾</span> Versão <kbd>24.1.6</kbd></p>
-   <p><span class="emoji">🗓️</span> Atualizado em {{ "today" | date: "%b-%Y" }}</p>
-   <p><span class="emoji">🛡️</span>CC BY-NC-SA 4.0</p>
-   </div>
+<!-- COL1 PROJECT -->
+<details>
+<summary class="sidebar-heading"><span class="emoji">📈</span> Projeto</summary>
+<p><a href="./1-home.html" title="Ínício"><span class="emoji">🏠</span> Início</a></p>
+<p><a href="./2-info.html" title="Informações"><span class="emoji">📋</span> Informações</a></p>
+<p><a href="./3-legal.html" title="Legal"><span class="emoji">⚖️</span> Avisos legais</a></p>
+<p><a href="./4-contact.html" title="Contato"><span class="emoji">📧</span> Contato</a></p>
+<p><a target="_blank" href="https://pt.shklr.org" title="Fundação"><span class="emoji">⭕</span> Fundação</a></p>
+<hr style="margin-right: 30px">
+<p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="Código fonte"><span class="emoji">⌨️</span> Código fonte</a></p>
+<p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="Erros"><span class="emoji">🐛</span> Falhas de código</a></p>
+<div style="cursor: default !important">
+<hr style="margin-right: 30px">
+<p><span class="emoji">💾</span> Versão <kbd>24.1.6</kbd></p>
+<p><span class="emoji">🗓️</span> Atualizado em {{ "today" | date: "%b-%Y" }}</p>
+<p><span class="emoji">🛡️</span>CC BY-NC-SA 4.0</p>
+</div>
 </details>
 
 <!-- COL1 VERT TOOLS-->
 <div id="vert-tools">
-   <button id="tools-menu" onclick="function00()" title="ajustar letra, parágrafo e fundo" style="padding-top: 5px;">Aa<br><span class="label2" >ajustes</span></button>
-   <div id="vert-tools-buttons" class="hide">
-   <button class="tools fontSize" id="decreasetext" type="button" value="-1"><span class="icon">text_decrease</span><br><span class="label2" >letra</span></button>
-   <button class="tools fontSize" id="increasetext" type="button" value="+1"><span class="icon">text_increase</span><br><span class="label2" >letra</span></button>
-   <button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span class="icon">density_small</span><br><span class="label2" >linhas</span></button>
-   <button class="tools lineHeight" id="increaselineheight" type="button" value="+1"><span class="icon">density_large</span><br><span class="label2" >linhas</span></button>
-   <button class="tools" id="ff-se-btn" onclick="function02()" title="tipo serif"><span style="font-family: 'Georgia', serif;">Se</span><br><span class="label2" >serifa</span></button>
-   <button class="tools" id="ff-sa-btn" onclick="function03()" title="tipo sans"><span style="font-family: 'Inter', sans;">Sa</span><br><span class="label2" >sans</span></button>
-   <button class="tools" id="ff-mo-btn" onclick="function04()" title="tipo mono"><span style="font-family: 'Roboto Mono', monospace;">Mo</span><br><span class="label2" >mono</span></button>
-   <button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelo"><span class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span><br><span class="label2" >amarelo</span></button>
-   <button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo verde"><span class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span><br><span class="label2" >verde</span></button>
-   <button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo rosa"><span class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span><br><span class="label2" >rosa</span></button>
-   <button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span class="icon">format_align_justify</span><br><span class="label2" >justif.</span></button>
-   <button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo"><span class="icon" style="color: crimson;">restart_alt</span><br><span class="label2" >reverter</span></button>
-   </div>
-   </div>
-   </div>
-  
+<button id="tools-menu" onclick="function00()" title="ajustar letra, parágrafo e fundo" style="padding-top: 5px;">Aa<br><span class="label2" >ajustes</span></button>
+<div id="vert-tools-buttons" class="hide">
+<button class="tools fontSize" id="decreasetext" type="button" value="-1"><span class="icon">text_decrease</span><br><span class="label2" >letra</span></button>
+<button class="tools fontSize" id="increasetext" type="button" value="+1"><span class="icon">text_increase</span><br><span class="label2" >letra</span></button>
+<button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span class="icon">density_small</span><br><span class="label2" >linhas</span></button>
+<button class="tools lineHeight" id="increaselineheight" type="button" value="+1"><span class="icon">density_large</span><br><span class="label2" >linhas</span></button>
+<button class="tools" id="ff-se-btn" onclick="function02()" title="tipo serif"><span style="font-family: 'Georgia', serif;">Se</span><br><span class="label2" >serifa</span></button>
+<button class="tools" id="ff-sa-btn" onclick="function03()" title="tipo sans"><span style="font-family: 'Inter', sans;">Sa</span><br><span class="label2" >sans</span></button>
+<button class="tools" id="ff-mo-btn" onclick="function04()" title="tipo mono"><span style="font-family: 'Roboto Mono', monospace;">Mo</span><br><span class="label2" >mono</span></button>
+<button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelo"><span class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span><br><span class="label2" >amarelo</span></button>
+<button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo verde"><span class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span><br><span class="label2" >verde</span></button>
+<button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo rosa"><span class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span><br><span class="label2" >rosa</span></button>
+<button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span class="icon">format_align_justify</span><br><span class="label2" >justif.</span></button>
+<button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo"><span class="icon" style="color: crimson;">restart_alt</span><br><span class="label2" >reverter</span></button>
+</div>
+</div>
+</div>
+ 
 <!-- COL2 HEAD -->
 <div id="col2-head" class="head">
-   <button id="col2-menu-on" onclick="menuOn()" title="Abrir menu"><span class="icon">menu</span><br><span class="label">menu</span></button>
-   <button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu"><span class="icon">close</span><br><span class="label">fechar</span></button>
-   <a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
-   <button id="webshare" class="fr" title="Compartilhar" onclick="webShare()"><span class="icon">share</span><br><span class="label">comp.</span></button>
-   <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
-   <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
-   <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
-   <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="Modo claro"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
-   </div>
-  
+<button id="col2-menu-on" onclick="menuOn()" title="Abrir menu"><span class="icon">menu</span><br><span class="label">menu</span></button>
+<button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu"><span class="icon">close</span><br><span class="label">fechar</span></button>
+<a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
+<button id="webshare" class="fr" title="Compartilhar" onclick="webShare()"><span class="icon">share</span><br><span class="label">comp.</span></button>
+<button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
+<button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
+<button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
+<button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="Modo claro"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
+</div>
+ 
 <!-- COL2 BODY -->
 <div id="col2-body">
-   {{ content }}
+ {{ content }}
 </div>
-  
+ 
 <!-- COL3 HEAD -->
 <div id="col3-head" class="head">
-   <a id="col3-link4-a" class="fr" target="_blank" href="https://doutrina.whereby.com/estudos41936e66-2cc4-470a-aa9e-727a361496d0" title="Vídeo chamada"><span class="icon">video_call</span><br><span class="label">vídeo</span></a>
-   <a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="Atlas"><span class="icon">location_on</span><br><span class="label">atlas</span></a>
-   <a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="Dicionário"><span class="icon">book_2</span><br><span class="label">dicio.</span></a>
-   <a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="Enciclopédia"><span class="icon">language</span><br><span class="label">encic.</span></a>
-   </div>
-  
+<a id="col3-link4-a" class="fr" target="_blank" href="https://doutrina.whereby.com/estudos41936e66-2cc4-470a-aa9e-727a361496d0" title="Vídeo chamada"><span class="icon">video_call</span><br><span class="label">vídeo</span></a>
+<a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="Atlas"><span class="icon">location_on</span><br><span class="label">atlas</span></a>
+<a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="Dicionário"><span class="icon">book_2</span><br><span class="label">dicio.</span></a>
+<a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="Enciclopédia"><span class="icon">language</span><br><span class="label">encic.</span></a>
+</div>
+ 
 <!-- COL3 BODY -->
 <div id="col3-body">
-   <iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" src="./6-ext.html" allowfullscreen></iframe>
-   </div>
-  
+<iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" src="./6-ext.html" allowfullscreen></iframe>
+</div>
+ 
 <!-- ALERTS -->
 <div id="hypo" onclick="hypoAlert()" title="Problemas?"><span class="material-symbols-outlined">help</span></div>
 <div id="alert" class="hide">No celular? Use-o no modo deitado.</div>
-  
+ 
 <!-- SCRIPTS -->
-<script src="./js/check-align.js"></script>
-<script src="./js/check-line.js"></script>
-<script src="./js/check-family-serif.js"></script>
-<script src="./js/check-bground.js"></script>
-<script src="./js/dark-mode.js"></script>
-<script src="./js/check-contrast.js"></script>
-<script src="./js/ext-links.js"></script>
-<script src="./js/check-size.js"></script>
-<script src="./js/fullscreen.js"></script>
-<script src="./js/hypo-alert.js"></script>
-<script src="./js/menu.js"></script>
-<script src="./js/string-replace.js"></script>
-<script src="./js/tools.js"></script>
+<!-- SCRIPTS -->
+<script src="./js/combined.js"></script>
 
 </body>
 </html>

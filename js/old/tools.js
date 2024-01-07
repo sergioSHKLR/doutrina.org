@@ -97,14 +97,6 @@ function function09() {
 
 //---------------------------------------------------
 
-function function10() {
-    localStorage.setItem("textDecoration", "none");
-    var element10 = document.querySelectorAll("#col2-body a:link");
-    element10.classList.add("links-off");
-}
-
-//---------------------------------------------------
-
 function functionReset() {
     localStorage.removeItem("fontSize");
     localStorage.removeItem("textAlign");

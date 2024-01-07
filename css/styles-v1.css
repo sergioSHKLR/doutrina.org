@@ -2,7 +2,7 @@
 
 /* VARIABLES START */
 :root {
-    --accent-color: hsl(198, 65%, 95%);
+    --accent-color: hsl(208, 65%, 95%);
     --bground-color-grey: gray;
     --body-bground: white;
     --body-color: #222;
@@ -46,12 +46,6 @@ html {
 body {
     background-color: var(--body-bground);
     color: var(--body-color)
-}
-
-button:focus,
-a:focus {
-    outline: 2px solid orange;
-    border-radius: 3px;
 }
 
 /* ELEMENTS END */
@@ -140,7 +134,7 @@ a:focus {
     position: fixed;
     scroll-behavior: smooth;
     top: var(--head-height);
-    width: var(--column-width)
+    width: var(--column-width);
 }
 
 #col3-head {
@@ -205,7 +199,7 @@ iframe {
 
 #col4-body {
     border-collapse: collapse;
-    box-shadow: inset 1px 1px 25px 6px #f6eee3ff;
+    /* box-shadow: inset 1px 1px 25px 6px #f6eee3ff; */
     box-sizing: border-box;
     font-weight: 300;
     font-size: 16px;
@@ -579,7 +573,7 @@ summary {
     background-color: var(--vert-tools);
     border-collapse: collapse;
     border-right: 1px solid var(--border-color);
-    box-shadow: 5px 0 3px -3px #00000030;
+    /* box-shadow: 5px 0 3px -3px #00000030; */
     display: inline-block;
     height: var(--body-height);
     left: var(--sidebar-width);
@@ -702,7 +696,8 @@ button.tools {
     padding-left: 10px;
     border-bottom: 1px solid var(--border-color);
     display: inline-flex;
-    width: 105%
+    width: 105%;
+    background-color: var(--vert-tools);
 }
 
 .book-buttons span.emoji {
@@ -722,6 +717,7 @@ button.tools {
     margin-right: 8px;
     position: relative;
     top: -2px;
+    background-color: var(--vert-tools);
 }
 
 #col1-body hr {
@@ -744,7 +740,7 @@ button.tools {
 /* DARK MODE START */
 
 .dark-mode {
-    --accent-color: hsl(198, 65%, 15%);
+    --accent-color: hsl(208, 65%, 15%);
     --body-bground: #222;
     --body-color: #eee;
     --border-color: #ADADAD80;
@@ -846,7 +842,7 @@ button.tools {
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --accent-color: hsl(198, 65%, 15%);
+        --accent-color: hsl(208, 65%, 15%);
         --body-bground: #222;
         --body-color: #eee;
         --border-color: #ADADAD80;
@@ -1190,12 +1186,6 @@ a.backlink {
     font-size: 80%;
     transform: scale(.8)
 }
-
-a:active,
-a:focus {
-    background-color: transparent;
-}
-
 
 abbr {
     text-underline-offset: 2px
