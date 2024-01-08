@@ -66,8 +66,8 @@ Utilize a página 📧 [Contato](./4-contact.html) para tais fins.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<div style="text-align: right">
-<p style="font-family: 'Inter', sans;">Confiem em Deus e tenham um bom estudo!</p>
+<div style="text-align: right; margin-right: 15px;">
+<p style="font-family: 'Inter', sans;"><span class="emoji">🙏🏼</span> Confiem em Deus e<br>tenham um bom estudo!</p>
 
 <p style="font-family: 'Zeyada', cursive; font-size: 44px">Mai & Sergio</p>
 
