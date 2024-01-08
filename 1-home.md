@@ -17,7 +17,7 @@ version: 24.1.4
 
 ## Inspiração 
 
-Inspirado em outras iniciativas de educação e comunicação digital, criei [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir ao usuário uma plataforma inédita de estudos integrados.
+Inspirado em outras iniciativas de educação e comunicação digital, criamos [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
 
 ## Interface
 
@@ -54,20 +54,20 @@ Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto i
 
 ## Contato
 
-Por fim, ficarei grato com seus:
+Por fim, ficaremos gratos com seus:
 
 - comentários
 - sugestões
 - correções
 
-Tenha um bom estudo!
+Tenham um bom estudo!
 
-<img src="./images/me-dec-2023.jpg" width="100" height="100" alt="bitmoji de sergio" style="all: unset; background-color: transparent;  width: 100px; overflow:clip !important">
+<img src="./images/us-round.png" width="200" height="200" alt="foto do casal" style="all: unset; background-color: transparent;  width: 200px; overflow:clip !important">
 
-Sergio
+Mai & Sergio
 {:.cursive}
 
-[^1]: Sou um militar aposentado, auto-didata em front-end e não um programador formado.
+[^1]: Sergio é um militar aposentado, auto-didata em front-end mas não é um programador formalmente treinado.
 
 <script type="application/json" class="js-hypothesis-config">
 {
