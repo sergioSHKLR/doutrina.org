@@ -62,20 +62,11 @@
 <body>
 
 <!-- COL1 HEAD -->
-<div id="col1-head" class="head"><a href="./1-home.html" id="col1-brand"><span class="emoji">💧</span> doutrina.org</a>
+<div id="col1-head" class="head"><a href="./1-home.html" id="col1-brand" tabindex="1"><span class="emoji">💧</span> doutrina.org</a>
 </div>
 
 <!-- COL1 BODY -->
 <div id="col1-body">
-
-<!-- COL1 BOOK BUTTONS -->
-<div class="book-buttons">
-<a href="./book-1lde.html" title="O Livro dos Espíritos" tabindex="3"><span class="emoji">👻</span><br><span class="label3">LDE</span></a><br>
-<a href="./book-2ldm.html" title="O Livro dos Médiuns" tabindex="4"><span class="emoji">✒️</span><br><span class="label3">LDM</span></a><br>
-<a href="./book-3ese.html" title="O Evangelho" tabindex="5"><span class="emoji">🕊️</span><br><span class="label3">ESE</span></a><br>
-<a href="./book-4ceu.html" title="O Céu e o Inferno" tabindex="6"><span class="emoji">🔥</span><br><span class="label3">CEU</span></a><br>
-<a href="./book-5gen.html" title="A Gênese" tabindex="7"><span class="emoji">🌱</span><br><span class="label3">GEN</span></a>
-</div>
 
 <!-- COL1 TOC -->
 <p id="toc-title" class="sidebar-heading"><span class="emoji"><span class="emoji">📄</span></span> Nesta página</p>
@@ -85,7 +76,7 @@
 </div>
 <br><br>
  
-<!-- COL1 LINKS 
+<!-- COL1 LINKS -->
 <details>
 <summary class="sidebar-heading"><span class="emoji">📚</span> Estante</summary>
 <p><a href="./book-1lde.html" title="O Livro dos Espíritos"><span class="emoji">👻</span> O Livro dos Espíritos</a></p>
@@ -93,7 +84,7 @@
 <p><a href="./book-3ese.html" title="O Evangelho segundo o Espiritismo"><span class="emoji">🕊️</span> O Evangelho</a></p>
 <p><a href="./book-4ceu.html" title="O Céu e o Inferno"><span class="emoji"><span class="emoji">🔥</span></span> Céu e Inferno</a></p>
 <p><a href="./book-5gen.html" title="A Gênese"><span class="emoji"><span class="emoji">🌱</span></span> A Gênese</a></p>
-</details><br> -->
+</details><br>
 
 <!-- COL1 PROJECT -->
 <details>
@@ -116,35 +107,37 @@
 
 <!-- COL1 VERT TOOLS-->
 <div id="vert-tools">
-<button id="tools-menu" onclick="function00()" title="ajustar letra, parágrafo e fundo" style="padding-top: 5px;">Aa<br><span class="label2" >ajustes</span></button>
-<div id="vert-tools-buttons" class="hide">
-<button class="tools fontSize" id="decreasetext" type="button" value="-1"><span class="icon">text_decrease</span><br><span class="label2" >letra</span></button>
-<button class="tools fontSize" id="increasetext" type="button" value="+1"><span class="icon">text_increase</span><br><span class="label2" >letra</span></button>
-<button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span class="icon">density_small</span><br><span class="label2" >linhas</span></button>
-<button class="tools lineHeight" id="increaselineheight" type="button" value="+1"><span class="icon">density_large</span><br><span class="label2" >linhas</span></button>
-<button class="tools" id="ff-se-btn" onclick="function02()" title="tipo serif"><span style="font-family: 'Georgia', serif;">Se</span><br><span class="label2" >serifa</span></button>
-<button class="tools" id="ff-sa-btn" onclick="function03()" title="tipo sans"><span style="font-family: 'Inter', sans;">Sa</span><br><span class="label2" >sans</span></button>
-<button class="tools" id="ff-mo-btn" onclick="function04()" title="tipo mono"><span style="font-family: 'Roboto Mono', monospace;">Mo</span><br><span class="label2" >mono</span></button>
-<button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelo"><span class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span><br><span class="label2" >amarelo</span></button>
-<button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo verde"><span class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span><br><span class="label2" >verde</span></button>
-<button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo rosa"><span class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span><br><span class="label2" >rosa</span></button>
-<button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span class="icon">format_align_justify</span><br><span class="label2" >justif.</span></button>
-<button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo"><span class="icon" style="color: crimson;">restart_alt</span><br><span class="label2" >reverter</span></button>
-</div>
-</div>
-</div>
- 
-<!-- COL2 HEAD -->
-<div id="col2-head" class="head">
-<button id="col2-menu-on" onclick="menuOn()" title="Abrir menu"><span class="icon">menu</span><br><span class="label">menu</span></button>
-<button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu"><span class="icon">close</span><br><span class="label">fechar</span></button>
-<a href="./1-home.html" id="col2-brand"><span class="emoji">💧</span> doutrina.org</a>
-<button id="webshare" class="fr" title="Compartilhar" onclick="webShare()"><span class="icon">share</span><br><span class="label">comp.</span></button>
-<button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
-<button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
-<button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
-<button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="Modo claro"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
-</div>
+    <button id="tools-menu" onclick="function00()" title="Ajustar letra, parágrafo e fundo">Aa<br><span class="label">ajustes</span></button>
+    <div id="vert-tools-buttons" class="hide">
+    <button class="tools fontSize" id="decreasetext" type="button" value="-1"><span class="icon">text_decrease</span><br><span class="label">letra</span></button>
+    <button class="tools fontSize" id="increasetext" type="button" value="+1"><span class="icon">text_increase</span><br><span class="label">letra</span></button>
+    <button class="tools lineHeight" id="decreaselineheight" type="button" value="-1"><span class="icon">density_small</span><br><span class="label">linhas</span></button>
+    <button class="tools lineHeight" id="increaselineheight" type="button" value="+1"><span class="icon">density_large</span><br><span class="label">linhas</span></button>
+    <button disabled class="tools" id="ff-se-btn" onclick="function02()" title="desligado"><span style="font-family: 'Georgia', serif; color: #999">Se</span><br><span class="label">serifa</span></button>
+    <button disabled class="tools" id="ff-sa-btn" onclick="function03()" title="desligado"><span style="font-family: 'Inter', sans; color: #999">Sa</span><br><span class="label">sans</span></button>
+    <button disabled class="tools" id="ff-mo-btn" onclick="function04()" title="desligado"><span style="font-family: 'Roboto Mono', monospace; color: #999">Mo</span><br><span class="label">mono</span></button>
+    <button class="tools" id="bc-ye-btn" onclick="function07()" title="fundo amarelo"><span class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span><br><span class="label">amarelo</span></button>
+    <button class="tools" id="bc-gr-btn" onclick="function08()" title="fundo verde"><span class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span><br><span class="label">verde</span></button>
+    <button class="tools" id="bc-pi-btn" onclick="function09()" title="fundo rosa"><span class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span><br><span class="label">rosa</span></button>
+    <button class="tools" id="ta-ju-btn" onclick="function01()" title="texto justificado"><span class="icon">format_align_justify</span><br><span class="label">justif.</span></button>
+    <button class="tools" id="ra-btn" onclick="functionReset()" title="reverter tudo (necessita recarregar página)"><span class="icon" style="color: crimson;">restart_alt</span><br><span class="label">reverter</span></button>
+    </div>
+    </div>
+    </div>
+    
+    <!-- COL2 HEAD -->
+    <div id="col2-head" class="head">
+    <button id="col2-menu-on" onclick="menuOn()" title="Abrir menu" tabindex="1"><span class="icon">menu</span><br><span class="label">menu</span></button>
+    <button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu" tabindex="2"><span class="icon">close</span><br><span class="label">fechar</span></button>
+    <a href="./1-home.html" id="col2-brand" tabindex="3"><span class="emoji">💧</span> doutrina.org</a>
+    <button id="webshare" class="fr" title="Compartilhar" onclick="webShare()" tabindex="12"><span class="icon">share</span><br><span class="label">comp.</span></button>
+    <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia" tabindex="5"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
+    <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal" tabindex="10"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
+    <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro" tabindex="4"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
+    <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="Modo claro" tabindex="0"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
+    <button id="col2-loff-btn" class="fr" onclick="labelOff()" title="Esconder etiquetas"><span class="icon">label_off</span><br><span class="label">escond.</span></button>
+    <button id="col2-lon-btn" class="fr hide" onclick="labelOn()" title="Mostrar etiquetas"><span class="icon">label</span></button>
+    </div>
  
 <!-- COL2 BODY -->
 <div id="col2-body">
@@ -153,11 +146,11 @@
  
 <!-- COL3 HEAD -->
 <div id="col3-head" class="head">
-<a id="col3-link4-a" class="fr" target="_blank" href="https://doutrina.whereby.com/estudos41936e66-2cc4-470a-aa9e-727a361496d0" title="Vídeo chamada"><span class="icon">video_call</span><br><span class="label">vídeo</span></a>
-<a id="col3-link3-a" class="fr" target="ext" href="./content/maps/paris.html" title="Atlas"><span class="icon">location_on</span><br><span class="label">atlas</span></a>
-<a id="col3-link2-a" class="fr" target="ext" href="https://pt.m.wiktionary.org" title="Dicionário"><span class="icon">book_2</span><br><span class="label">dicio.</span></a>
-<a id="col3-link1-a" class="fr" target="ext" href="https://pt.m.wikipedia.org/" title="Enciclopédia"><span class="icon">language</span><br><span class="label">encic.</span></a>
-</div>
+    <button id="col3-link4-a" class="fr" onclick="window.open('https://doutrina.whereby.com/estudos41936e66-2cc4-470a-aa9e-727a361496d0', '_blank');return false;" title="Vídeo chamada" tabindex="9"><span class="icon">video_call</span><br><span class="label">vídeo</span></button>
+    <button id="col3-link3-a" class="fr" onclick="window.open('./content/maps/map-ese.html', 'ext');return false;" title="Atlas" tabindex="8"><span class="icon">location_on</span><br><span class="label">atlas</span></button>
+    <button id="col3-link2-a" class="fr" onclick="window.open('https://pt.m.wiktionary.org', 'ext');return false;" title="Dicionário" tabindex="7"><span class="icon">book_2</span><br><span class="label">dicio.</span></button>
+    <button id="col3-link1-a" class="fr" onclick="window.open('https://pt.m.wikipedia.org/', 'ext');return false;" title="Enciclopédia" tabindex="6"><span class="icon">language</span><br><span class="label">encic.</span></button>
+    </div>
  
 <!-- COL3 BODY -->
 <div id="col3-body">
@@ -169,8 +162,11 @@
 <div id="alert" class="hide">No celular? Use-o no modo deitado.</div>
  
 <!-- SCRIPTS -->
-<!-- SCRIPTS -->
 <script src="./js/combined.js"></script>
+
+<script type="text/javascript">
+    window.onload = labelOff
+ </script>
 
 </body>
 </html>

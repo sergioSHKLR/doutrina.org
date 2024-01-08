@@ -76,7 +76,7 @@ body {
     height: var(--button-width);
     width: var(--button-width);
     position: relative;
-    top: 9px;
+    top: 8px;
 
 }
 
@@ -202,7 +202,7 @@ iframe {
 
 #col1-body .sidebar-heading {
     position: relative;
-    top: 3px;
+    top: 6px;
     text-indent: 0 !important;
     margin-bottom: 20px;
     margin-right: -5px;
@@ -534,8 +534,6 @@ summary {
     list-style-type: none;
     text-indent: 4px;
     margin: 0;
-    margin-left: -20px;
-    padding-left: 20px;
 }
 
 /* DETAILS SUMMARY END */
@@ -625,6 +623,8 @@ button.tools {
     font-family: 'Material Symbols Outlined' !important;
 
 }
+
+#tools-menu {margin-top: 5px;}
 
 .tools-100 {
     font-size: 100%;
@@ -1222,8 +1222,7 @@ pre {
 a:focus,
 button:focus {
     outline: none;
-    background-color: orange !important;
-}
+} 
 
 /* OTHERS END */
 
