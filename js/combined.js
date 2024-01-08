@@ -411,7 +411,7 @@ const shareData = {
 // SUMMARY DETAILS ONE AT A TIME
 
 document.querySelectorAll('details').forEach((D, _, A) => {
-    
+
     D.ontoggle = _ => { if (D.open) A.forEach(d => { if (d != D) d.open = false }) }
 })
 
@@ -472,9 +472,10 @@ function labelOff() {
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-lon-btn");
     element.classList.toggle("hide");
-  }
+    localStorage.setItem("label", "none");
+}
 
-  function labelOn() {
+function labelOn() {
     var element = document.querySelector("#col2-menu-on > span.label");
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-menu-off > span.label");
@@ -527,6 +528,13 @@ function labelOff() {
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-lon-btn");
     element.classList.toggle("hide");
-  }
+    localStorage.setItem("label", "block");
+}
+
+let labelVisibility = localStorage.getItem("label");
+
+if (labelVisibility === "none") {
+    labelOff(); // set state of label visibility on page load
+}
 
 // LABEL END
