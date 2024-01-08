@@ -17,7 +17,7 @@ version: 24.1.4
 
 ## Inspiração 
 
-Inspirados em outras iniciativas de educação e comunicação digital, criamos [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
+Com admiração em outras iniciativas de educação e comunicação digital, criamos [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
 
 ## Interface
 
