@@ -6,8 +6,8 @@
   "background_color": "#222222",
   "display": "fullscreen",
   "orientation": "landscape",
-  "scope": "https://doutrina.org/",
-  "start_url": "https://doutrina.org/",
+  "scope": "https://doutrina.org/*",
+  "start_url": "https://doutrina.org/1-home.html",
   "id": "/",
   "prefer_related_applications": true,
   "related_applications": [
@@ -30,14 +30,15 @@
   "iarc_rating_id": "",
   "scope_extensions": [
     {
-      "origin": "https://doutrina.org/*"
+      "origin": "https://doutrina.org/1-home.html"
     }
   ],
   "screenshots": [
     {
       "src": "desktop.png",
       "sizes": "1918x944",
-      "type": "image/png"
+      "type": "image/png",
+      "form_factor": "wide"
     },
   {
       "src": "tablet.png",
