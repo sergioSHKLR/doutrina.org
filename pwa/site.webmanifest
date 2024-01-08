@@ -36,18 +36,18 @@
   "screenshots": [
     {
       "src": "desktop.png",
-      "sizes": "1918x944",
+      "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide"
     },
   {
       "src": "tablet.png",
-      "sizes": "958x944",
+      "sizes": "768x1024",
       "type": "image/png"
     },
   {
       "src": "mobile.png",
-      "sizes": "496x944",
+      "sizes": "414x896",
       "type": "image/png"
     }
   ],

@@ -844,7 +844,7 @@ button.tools {
     }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 850px) {
 
     #col2-brand>span.label2 {
         display: none;
