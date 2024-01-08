@@ -6,8 +6,8 @@
   "background_color": "#222222",
   "display": "fullscreen",
   "orientation": "landscape",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://doutrina.org/",
+  "start_url": "https://doutrina.org/",
   "icons": [
     {
       "src": "maskable.png",
@@ -475,7 +475,7 @@
   "related_applications": [
     {
     "platform": "play",
-    "id": "com.google.samples.apps.iosched"
+    "id": ""
     }
 ],
   "display_override": [
