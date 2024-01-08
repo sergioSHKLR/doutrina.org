@@ -17,7 +17,7 @@ version: 24.1.4
 
 ## Inspiração 
 
-Inspirado em outras iniciativas de educação e comunicação digital, criamos [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
+Inspirados em outras iniciativas de educação e comunicação digital, criamos [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
 
 ## Interface
 
@@ -39,7 +39,7 @@ Embora baseadas em obras impressas, nossas versões foram modificadas para:
 - realçar a concordância entre a Doutrina e a Bíblia
 - facilitar o consumo digital (telas de tamanho variado)
 
-Para efeito de corroboração, apresento aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do LDE.
+Para efeito de corroboração, apresentamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do LDE.
 
 <blockquote class="spirit" style="font-family: 'Georgia', serif; padding: 10px 20px">👻 Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma …</blockquote>
 
@@ -54,7 +54,7 @@ Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto i
 
 ## Contato
 
-Por fim, ficaremos gratos com seus:
+Por fim, ficaríamos gratos com seus:
 
 - comentários
 - sugestões
