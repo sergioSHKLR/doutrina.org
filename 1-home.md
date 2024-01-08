@@ -17,7 +17,7 @@ version: 24.1.4
 
 ## Inspiração 
 
-Com admiração em outras iniciativas de educação e comunicação digital, criamos [^1] esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
+Com admiração em outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
 
 ## Interface
 
@@ -63,8 +63,6 @@ Por fim, ficaríamos gratos com seus:
 Utilize a página 📧 [Contato](./4-contact.html) para tais fins.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <div style="text-align: right; margin-right: 15px;">
 <p style="font-family: 'Inter', sans;"><span class="emoji">🙏🏼</span> Confiem em Deus e<br>tenham um bom estudo!</p>
@@ -78,9 +76,4 @@ Utilize a página 📧 [Contato](./4-contact.html) para tais fins.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-[^1]: Sergio é um militar aposentado, auto-didata em front-end mas não é um programador formalmente treinado.
-
-<p>&nbsp;</p>
-
 
