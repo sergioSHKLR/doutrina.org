@@ -21,11 +21,11 @@ Com admiração em outras iniciativas de educação e comunicação digital, cri
 
 ## Interface
 
-A interface é composta de três colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
+Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
 
 1. Menu
-2. Principal
-3. Complementar
+2. Painel Principal
+3. Painel Complementar
 
 Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colunas e em telas pequenas, somente 1 coluna.
 
