@@ -8,6 +8,56 @@
   "orientation": "landscape",
   "scope": "https://doutrina.org/",
   "start_url": "https://doutrina.org/",
+  "id": "/",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://doutrina.org/1-home.html",
+      "id": "24.1.7"
+    }
+],
+  "display_override": [
+    "window-controls-overlay",
+    "fullscreen"
+  ],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "iarc_rating_id": "",
+  "scope_extensions": [
+    {
+      "origin": "https://doutrina.org/*"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "desktop.png",
+      "sizes": "1918x944",
+      "type": "image/png"
+    },
+  {
+      "src": "tablet.png",
+      "sizes": "958x944",
+      "type": "image/png"
+    },
+  {
+      "src": "mobile.png",
+      "sizes": "496x944",
+      "type": "image/png"
+    }
+  ],
+  "features": [
+    "cross platform",
+    "rápido",
+    "simples"
+  ],
+  "categories": [
+    "education"
+  ],
   "icons": [
     {
       "src": "maskable.png",
@@ -469,54 +519,5 @@
       "src": "ios/1024.png",
       "sizes": "1024x1024"
     }
-  ],
-  "id": "/",
-  "prefer_related_applications": true,
-  "related_applications": [
-    {
-    "platform": "play",
-    "id": ""
-    }
-],
-  "display_override": [
-    "window-controls-overlay",
-    "fullscreen"
-  ],
-  "lang": "pt-BR",
-  "dir": "ltr",
-  "handle_links": "preferred",
-  "launch_handler": {
-    "client_mode": "navigate-existing"
-  },
-  "iarc_rating_id": "",
-  "scope_extensions": [
-    {
-      "origin": "https://doutrina.org/*"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "desktop.png",
-      "sizes": "1918x944",
-      "type": "image/png"
-    },
-  {
-      "src": "tablet.png",
-      "sizes": "958x944",
-      "type": "image/png"
-    },
-  {
-      "src": "mobile.png",
-      "sizes": "496x944",
-      "type": "image/png"
-    }
-  ],
-  "features": [
-    "cross platform",
-    "rápido",
-    "simples"
-  ],
-  "categories": [
-    "education"
   ]
 }
