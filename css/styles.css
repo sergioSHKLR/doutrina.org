@@ -625,7 +625,9 @@ button.tools {
 
 }
 
-#tools-menu {margin-top: 5px;}
+#tools-menu {
+    margin-top: 5px;
+}
 
 .tools-100 {
     font-size: 100%;
@@ -812,8 +814,7 @@ button.tools {
     #col3-link1,
     #col3-link2,
     #col3-link3,
-    #col3-link4,
-    #webshare {
+    #col3-link4 {
         display: none
     }
 
@@ -832,11 +833,6 @@ button.tools {
         display: inline-block
     }
 
-    #col2-dm-btn,
-    #col2-lm-btn {
-        padding-right: 25px;
-    }
-
     #col2-head,
     #col2-body {
         left: 0;
@@ -847,6 +843,14 @@ button.tools {
         padding-right: 30px
     }
 }
+
+@media only screen and (max-width: 500px) {
+
+    #col2-brand>span.label2 {
+        display: none;
+    }
+}
+
 
 @media only screen and (min-width:450px) and (max-width:750px) {
 
@@ -1223,7 +1227,7 @@ pre {
 a:focus,
 button:focus {
     outline: none;
-} 
+}
 
 /* OTHERS END */
 
