@@ -60,17 +60,23 @@ Por fim, ficaríamos gratos com seus:
 - sugestões
 - correções
 
-Tenham um bom estudo!
+Utilize a página 📧 [Contato](./4-contact.html) para tais fins.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<div style="text-align: right">
+<p style="font-family: 'Inter', sans;">Confiem em Deus e tenham um bom estudo!</p>
+
+<p style="font-family: 'Zeyada', cursive; font-size: 44px">Mai & Sergio</p>
 
 <img src="./images/us-round.png" width="200" height="200" alt="foto do casal" style="all: unset; background-color: transparent;  width: 200px; overflow:clip !important">
 
-Mai & Sergio
-{:.cursive}
+</div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 [^1]: Sergio é um militar aposentado, auto-didata em front-end mas não é um programador formalmente treinado.
-
-<script type="application/json" class="js-hypothesis-config">
-{
-"openSidebar": false
-}
-</script>
