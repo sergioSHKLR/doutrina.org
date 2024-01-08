@@ -6,7 +6,7 @@ const EL_body2 = document.querySelector("#col2-body");
 const ELS_textAlign = document.querySelectorAll(".textAlign");
 localStorage.textAlign = localStorage.textAlign || "left"; // Read or default to left
 function changeAlign() {
-  EL_body2.style.textAlign = `${localStorage.textAlign}`;
+    EL_body2.style.textAlign = `${localStorage.textAlign}`;
 }
 
 // Change size on subsequent page load
@@ -22,7 +22,8 @@ const EL_body4 = document.querySelector("#col2-body");
 const ELS_bground = document.querySelectorAll(".bground");
 localStorage.backgroundColor = localStorage.backgroundColor || "transparent"; // Read or default to transparent
 function changeBground() {
-  EL_body4.style.backgroundColor = localStorage.backgroundColor};
+    EL_body4.style.backgroundColor = localStorage.backgroundColor
+};
 
 
 // Change size on subsequent page load
@@ -36,9 +37,9 @@ let contrastMode = localStorage.getItem("contrast");
 
 if (contrastMode === "dark") {
     darkMode(); // set state of darkMode on page load
-  }
+}
 
-  // VER 23.12.24
+// VER 23.12.24
 
 // PERSIST MODE 02-03-04 START
 
@@ -46,7 +47,7 @@ const EL_body3 = document.querySelector("#col2-body");
 const ELS_fontFamily = document.querySelectorAll(".fontFamily");
 localStorage.fontFamily = localStorage.fontFamily || "Roboto Serif"; // Read or default to serif
 function changeFamily() {
-  EL_body3.style.fontFamily = `${localStorage.fontFamily}`;
+    EL_body3.style.fontFamily = `${localStorage.fontFamily}`;
 }
 
 // Change size on subsequent page load
@@ -62,11 +63,11 @@ const EL_body1 = document.querySelector("#col2-body");
 const ELS_lineHeight = document.querySelectorAll(".lineHeight");
 localStorage.lineHeight = localStorage.lineHeight || 24; // Read or default to 16px
 function changeHeight() {
-  EL_body1.style.lineHeight = `${localStorage.lineHeight}px`;
+    EL_body1.style.lineHeight = `${localStorage.lineHeight}px`;
 }
 ELS_lineHeight.forEach(el => el.addEventListener("click", function () {
-  localStorage.lineHeight = parseInt(localStorage.lineHeight) + parseInt(el.value);
-  changeHeight();
+    localStorage.lineHeight = parseInt(localStorage.lineHeight) + parseInt(el.value);
+    changeHeight();
 }));
 // Change height on subsequent page load
 changeHeight();
@@ -81,11 +82,11 @@ const EL_body = document.querySelector("#col2-body");
 const ELS_fontSize = document.querySelectorAll(".fontSize");
 localStorage.fontSize = localStorage.fontSize || 16; // Read or default to 16px
 function changeSize() {
-  EL_body.style.fontSize = `${localStorage.fontSize}px`;
+    EL_body.style.fontSize = `${localStorage.fontSize}px`;
 }
 ELS_fontSize.forEach(el => el.addEventListener("click", function () {
-  localStorage.fontSize = parseInt(localStorage.fontSize) + parseInt(el.value);
-  changeSize();
+    localStorage.fontSize = parseInt(localStorage.fontSize) + parseInt(el.value);
+    changeSize();
 }));
 // Change size on subsequent page load
 changeSize();
@@ -97,23 +98,23 @@ changeSize();
 // DARK MODE START
 
 function darkMode() {
-    var element = document.body;
-    element.classList.add("dark-mode");
-    var element = document.getElementById("col2-dm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col2-lm-btn");
-    element.classList.remove("hide");
-    localStorage.setItem("contrast","dark");
+    var elementA = document.body;
+    elementA.classList.add("dark-mode");
+    var elementB = document.getElementById("col2-dm-btn");
+    elementB.classList.add("hide");
+    var elementC = document.getElementById("col2-lm-btn");
+    elementC.classList.remove("hide");
+    localStorage.setItem("contrast", "dark");
 }
 
 function lightMode() {
-    var element = document.body;
-    element.classList.remove("dark-mode");
-    var element = document.getElementById("col2-lm-btn");
-    element.classList.add("hide");
-    var element = document.getElementById("col2-dm-btn");
-    element.classList.remove("hide");
-    localStorage.setItem("contrast","light");
+    var elementD = document.body;
+    elementD.classList.remove("dark-mode");
+    var elementE = document.getElementById("col2-lm-btn");
+    elementE.classList.add("hide");
+    var elementF = document.getElementById("col2-dm-btn");
+    elementF.classList.remove("hide");
+    localStorage.setItem("contrast", "light");
 }
 
 // DARK MODE END
@@ -122,24 +123,24 @@ function lightMode() {
 
 window.onload = function () {
     /* onload code */
-  
+
     var extLinks = document.querySelectorAll(
         "a[href^='https://pt'], a[href^='https://maps'], a[href^='https://www']");
     var host = window.location.hostname;
-  
+
     var isInternalLink = link => new URL(link).hostname === host;
-  
+
     extLinks.forEach(link => {
         if (isInternalLink(link)) return;
-  
+
         link.setAttribute("target", "ext");
         link.setAttribute("rel", "noopener");
     });
-  };
-  
-  // EXT LINKS END
+};
 
-  // VERSION 23.12.24
+// EXT LINKS END
+
+// VERSION 23.12.24
 
 // FULLSCREEN START
 var elem = document.documentElement;
@@ -153,10 +154,10 @@ function openFullscreen() {
     } else if (elem.msRequestFullscreen) { /* IE11 */
         elem.msRequestFullscreen();
     }
-    var element = document.getElementById("col2-fs-btn");
-    element.classList.toggle("hide");
-    var element = document.getElementById("col2-ns-btn");
-    element.classList.toggle("show");
+    var elementG = document.getElementById("col2-fs-btn");
+    elementG.classList.toggle("hide");
+    var elementH = document.getElementById("col2-ns-btn");
+    elementH.classList.toggle("show");
 }
 
 // CLOSE FULLSCREEN  
@@ -168,10 +169,10 @@ function closeFullscreen() {
     } else if (document.msExitFullscreen) { /* IE11 */
         document.msExitFullscreen();
     }
-    var element = document.getElementById("col2-ns-btn");
-    element.classList.toggle("show");
-    var element = document.getElementById("col2-fs-btn");
-    element.classList.toggle("hide");
+    var elementI = document.getElementById("col2-ns-btn");
+    elementI.classList.toggle("show");
+    var elementJ = document.getElementById("col2-fs-btn");
+    elementJ.classList.toggle("hide");
 }
 
 var elem = document.documentElement;
@@ -277,7 +278,7 @@ for (b = 0, le = links.length; b < le; b++) {
 function function00() {
     var element00 = document.getElementById("vert-tools-buttons");
     element00.classList.toggle("hide");
-  }
+}
 
 //---------------------------------------------------
 
@@ -374,17 +375,17 @@ function functionReset() {
     localStorage.removeItem("lineHeight");
     localStorage.removeItem("backgroundColor");
     localStorage.removeItem("textDecoration");
-    var element = document.getElementById("col2-body");
-    element.classList.remove("justify");
-    element.classList.remove("ff-se");
-    element.classList.remove("ff-sa");
-    element.classList.remove("ff-mo");
-    element.classList.remove("lh-narrow");
-    element.classList.remove("lh-wide");
-    element.classList.remove("bg-yellow");
-    element.classList.remove("bg-green");
-    element.classList.remove("bg-pink");
-    element.classList.remove("none");
+    var element10 = document.getElementById("col2-body");
+    element10.classList.remove("justify");
+    element10.classList.remove("ff-se");
+    element10.classList.remove("ff-sa");
+    element10.classList.remove("ff-mo");
+    element10.classList.remove("lh-narrow");
+    element10.classList.remove("lh-wide");
+    element10.classList.remove("bg-yellow");
+    element10.classList.remove("bg-green");
+    element10.classList.remove("bg-pink");
+    element10.classList.remove("none");
 }
 
 //---------------------------------------------------
@@ -400,9 +401,128 @@ function webShare() {
 }
 
 const shareData = {
-title: "💧 doutrina.org",
-text: "❤️ Amai-vos e 🎓 instruí-vos!",
-url: "https://doutrina.org",
+    title: "💧 doutrina.org",
+    text: "❤️ Amai-vos e 🎓 instruí-vos!",
+    url: "https://doutrina.org",
 };
 
 // WEBSHARE END
+
+// SUMMARY DETAILS ONE AT A TIME
+
+document.querySelectorAll('details').forEach((D, _, A) => {
+    
+    D.ontoggle = _ => { if (D.open) A.forEach(d => { if (d != D) d.open = false }) }
+})
+
+// LABEL ON OFF
+
+// LABEL START
+
+function labelOff() {
+    var element = document.querySelector("#col2-menu-on > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-menu-off > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-dm-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-lm-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-fs-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-ns-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link1-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link2-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link3-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link4-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#tools-menu > span");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#decreasetext > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#increasetext > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#decreaselineheight > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#increaselineheight > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ff-se-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ff-sa-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ff-mo-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#bc-ye-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#bc-gr-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#bc-pi-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ta-ju-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ra-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-loff-btn");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-lon-btn");
+    element.classList.toggle("hide");
+  }
+
+  function labelOn() {
+    var element = document.querySelector("#col2-menu-on > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-menu-off > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-dm-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-lm-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-fs-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-ns-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link1-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link2-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link3-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-link4-a > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#tools-menu > span");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#decreasetext > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#increasetext > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#decreaselineheight > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#increaselineheight > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ff-se-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ff-sa-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ff-mo-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#bc-ye-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#bc-gr-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#bc-pi-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ta-ju-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#ra-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-loff-btn");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col2-lon-btn");
+    element.classList.toggle("hide");
+  }
+
+// LABEL END

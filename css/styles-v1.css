@@ -18,7 +18,7 @@
     --bquote-spirit-bground: hsl(208, 100%, 97%);
     --bquote-spirit-border: hsl(208, 100%, 65%);
     --button-width: 50px;
-    --head-height: 50px;
+    --head-height: 52px;
     --hypo-offset: 24px;
     --jesus-color: #B30000;
     --link-color: #0052A3;
@@ -51,7 +51,6 @@ body {
 /* ELEMENTS END */
 /*------------------------------------------------*/
 
-
 /* FRAMEWORK DIVS START */
 #col1-head {
     background-color: var(--accent-color);
@@ -61,7 +60,8 @@ body {
     left: 0;
     padding: 0 0 0 10px;
     width: calc(var(--sidebar-width) + var(--head-height));
-    z-index: 3
+    z-index: 3;
+    height:var(--head-height);
 }
 
 #col1-brand,
@@ -69,13 +69,13 @@ body {
     background-color: transparent;
     border: none;
     border-collapse: collapse;
-    border-radius: 5px;
     box-sizing: border-box;
     font-size: 24px;
     font-family: 'Russo One', sans-serif;
-    margin-left: 5px;
-    padding-bottom: 5px;
-    padding-left: 0;
+    margin-left: -5px;
+    padding: 13px 15px 13px 10px;
+    height: var(--button-width);
+    width: var(--button-width)
 }
 
 #col2-brand {
@@ -115,9 +115,9 @@ body {
     /* box-shadow: 0 5px 3px -3px #00000030; */
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow: hidden;
-    padding: 0 17px 0 0;
     width: var(--column-width);
     z-index: 3;
+    height: var(--head-height);
 }
 
 #col2-body {
@@ -145,7 +145,8 @@ body {
     padding: 0 20px 0 10px;
     right: 24px;
     width: var(--column-width);
-    z-index: 3
+    z-index: 3;
+    height: var(--head-height);
 }
 
 #col3-body {
@@ -187,7 +188,7 @@ iframe {
 
 #col1-body .sidebar-heading {
     position: relative;
-    top: 1px;
+    top: 3px;
     text-indent: 0 !important;
     margin-bottom: 20px;
     margin-right: -5px;
@@ -197,45 +198,32 @@ iframe {
     display: none
 }
 
-#col4-body {
-    border-collapse: collapse;
-    /* box-shadow: inset 1px 1px 25px 6px #f6eee3ff; */
-    box-sizing: border-box;
-    font-weight: 300;
-    font-size: 16px;
-    line-height: 1.5;
-    height: var(--body-height);
-    overflow-x: hidden;
-    overflow-y: scroll;
-    overscroll-behavior: auto;
-    padding: 0 55px;
-    scroll-behavior: smooth;
-    width: var(--column-width)
-}
-
 a#col3-link1-a,
 a#col3-link2-a,
 a#col3-link3-a,
 a#col3-link4-a {
     font-size: 24px;
     font-family: 'Inter', sans-serif;
-    height: var(--head-height);
     text-align: center;
-    width: var(--button-width);
+    vertical-align: middle;
+    justify-content: center;
+    height: var(--button-width);
+    width: var(--button-width); 
 }
 
+/*
 #col3-link1-a>span.icon,
 #col3-link2-a>span.icon,
 #col3-link3-a>span.icon,
 #col3-link4-a>span.icon {
     position: relative;
     top: -9px
-}
+} 
 
 #col2-menu-on,
 #col2-menu-off {
     position: relative;
-    top: -4px;
+    top: -3px;
 }
 
 #col1-brand,
@@ -251,6 +239,7 @@ a#col3-link4-a {
     position: relative;
     top: -46px
 }
+*/
 
 #col1-body>ul {
     margin-left: -25px;
@@ -561,6 +550,8 @@ summary {
     list-style-type: none;
     text-indent: 4px;
     margin: 0;
+    margin-left: -20px;
+    padding-left: 20px;
 }
 
 /* DETAILS SUMMARY END */
@@ -581,7 +572,7 @@ summary {
     position: fixed;
     scrollbar-width: none;
     top: var(--head-height);
-    width: var(--head-height);
+    width: var(--button-width);
 }
 
 #vert-tools::-webkit-scrollbar {
@@ -589,7 +580,7 @@ summary {
 }
 
 #vert-tools button {
-/*    border-bottom: 1px solid var(--border-color); */
+    /*    border-bottom: 1px solid var(--border-color); */
     color: currentColor;
     margin-bottom: 10px;
 }
@@ -653,14 +644,16 @@ button.tools {
 
 .tools-100 {
     font-size: 100%;
+    /*
     position: relative;
-    top: 3px;
+    top: 3px; */
 }
 
 .tools-120 {
     font-size: 120%;
+    /*
     position: relative;
-    top: 3px;
+    top: 3px; */
 }
 
 .tools-round {
@@ -678,36 +671,10 @@ button.tools {
     color: var(--label-color)
 }
 
-.label2 {
-    font-family: 'Inter', sans-serif;
-    font-size: 10px;
-    justify-content: center;
-    position: relative;
-    top: -12px;
-    color: var(--label-color)
-}
-
 #col1-body hr {
     border-top: none;
-    border-bottom: 1px solid var(--border-color)
-}
-
-.label3 {
-    font-family: 'Inter', sans-serif;
-    font-size: 10px;
-    justify-content: center;
-    position: relative;
-    top: -18px;
-    color: currentColor
-}
-
-.label4 {
-    font-family: 'Inter', sans-serif;
-    font-size: 10px;
-    justify-content: center;
-    position: relative;
-    bottom: 15px;
-    color: #999
+    border-bottom: 1px solid var(--border-color);
+    margin-right: 30px
 }
 
 /* TOOLS END */
@@ -1118,7 +1085,6 @@ strong {
 .head {
     box-sizing: border-box;
     height: var(--head-height);
-    line-height: var(--head-height);
     position: fixed;
     top: 0
 }
@@ -1187,8 +1153,8 @@ button {
     box-sizing: border-box;
     cursor: pointer;
     font-size: 24px;
-    height: var(--head-height);
-    width: var(--head-height);
+    height: var(--button-width);
+    width: var(--button-width);
 }
 
 div#alert {
