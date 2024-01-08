@@ -466,6 +466,8 @@ function labelOff() {
     element.classList.toggle("hide");
     var element = document.querySelector("#ra-btn > span.label");
     element.classList.toggle("hide");
+    var element = document.querySelector("#webshare > span.label")
+    element.classList.toggle("hide");
     var element = document.querySelector("#col2-loff-btn");
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-lon-btn");
@@ -518,6 +520,8 @@ function labelOff() {
     var element = document.querySelector("#ta-ju-btn > span.label");
     element.classList.toggle("hide");
     var element = document.querySelector("#ra-btn > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#webshare > span.label")
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-loff-btn");
     element.classList.toggle("hide");

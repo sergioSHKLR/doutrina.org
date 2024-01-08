@@ -18,7 +18,8 @@
     --bquote-spirit-bground: hsl(208, 100%, 97%);
     --bquote-spirit-border: hsl(208, 100%, 65%);
     --button-width: 50px;
-    --head-height: 52px;
+    --focus-bground: hsla(208, 65%, 95%, .25);
+    --head-height: 50px;
     --hypo-offset: 24px;
     --jesus-color: #B30000;
     --link-color: #0052A3;
@@ -61,13 +62,27 @@ body {
     padding: 0 0 0 10px;
     width: calc(var(--sidebar-width) + var(--head-height));
     z-index: 3;
-    height:var(--head-height);
+    height: var(--head-height);
 }
 
-#col1-brand,
+#col1-brand {
+    background-color: transparent;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    font-size: 24px;
+    font-family: 'Russo One', sans-serif;
+    margin-left: -10px;
+    padding: 13px 15px 13px 10px;
+    height: var(--button-width);
+    width: var(--button-width);
+    position: relative;
+    top: 9px;
+
+}
+
 #col2-brand {
     background-color: transparent;
-    border: none;
+    border: 1px solid blue;
     border-collapse: collapse;
     box-sizing: border-box;
     font-size: 24px;
@@ -75,11 +90,10 @@ body {
     margin-left: -5px;
     padding: 13px 15px 13px 10px;
     height: var(--button-width);
-    width: var(--button-width)
-}
-
-#col2-brand {
-    top: -6px
+    width: var(--button-width);
+    position: absolute;
+    top: -2px;
+    display: inline-flex;
 }
 
 #col1-body {
@@ -208,38 +222,8 @@ a#col3-link4-a {
     vertical-align: middle;
     justify-content: center;
     height: var(--button-width);
-    width: var(--button-width); 
+    width: var(--button-width);
 }
-
-/*
-#col3-link1-a>span.icon,
-#col3-link2-a>span.icon,
-#col3-link3-a>span.icon,
-#col3-link4-a>span.icon {
-    position: relative;
-    top: -9px
-} 
-
-#col2-menu-on,
-#col2-menu-off {
-    position: relative;
-    top: -3px;
-}
-
-#col1-brand,
-#col2-brand {
-    position: relative;
-    top: 0px;
-}
-
-#col3-link1-a>span.label,
-#col3-link2-a>span.label,
-#col3-link3-a>span.label,
-#col3-link4-a>span.label {
-    position: relative;
-    top: -46px
-}
-*/
 
 #col1-body>ul {
     margin-left: -25px;
@@ -1233,6 +1217,12 @@ div.footnotes {
 
 pre {
     font-family: 'Roboto Mono', sans-serif;
+}
+
+a:focus,
+button:focus {
+    outline: none;
+    background-color: orange !important;
 }
 
 /* OTHERS END */
