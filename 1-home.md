@@ -69,7 +69,7 @@ Utilize a página 📧 [Contato](./4-contact.html) para tais fins.
 
 <p style="font-family: 'Zeyada', cursive; font-size: 44px">Mai & Sergio</p>
 
-<img src="./images/us-round.png" width="200" height="200" alt="foto do casal" style="all: unset; background-color: transparent;  width: 200px; overflow:clip !important">
+<img src="./images/us-round.jpg" width="200" height="200" alt="foto do casal" style="all: unset; background-color: transparent;  width: 200px; overflow:clip !important">
 
 </div>
 
