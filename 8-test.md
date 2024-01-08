@@ -3,6 +3,8 @@ layout: test
 version: 24.1.4
 ---
 
+<button id="install" hidden>Install</button>
+
 # Admonitions
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
