@@ -80,3 +80,7 @@ Utilize a página 📧 [Contato](./4-contact.html) para tais fins.
 <p>&nbsp;</p>
 
 [^1]: Sergio é um militar aposentado, auto-didata em front-end mas não é um programador formalmente treinado.
+
+<p>&nbsp;</p>
+
+
