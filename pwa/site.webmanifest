@@ -6,8 +6,8 @@
   "background_color": "#222222",
   "display": "fullscreen",
   "orientation": "landscape",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "maskable.png",
