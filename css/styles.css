@@ -1229,6 +1229,10 @@ button:focus {
     outline: none;
 }
 
+.original {text-indent: 4px;
+    margin: 10px;
+    padding: 10px 20px; background-color: floralwhite;}
+
 /* OTHERS END */
 
 /*------------------------------------------------*/

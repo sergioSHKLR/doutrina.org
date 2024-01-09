@@ -7,6 +7,8 @@ version: 24.1.4
 
 # Admonitions
 
+<details><summary><span class="emoji">👁‍🗨</span></summary>Têm olhos e não veem; têm ouvidos e não ouvem.</details>{:.original}
+
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Allan Kardec, assistência espiritual a <a href="#allan-kardec">↩️</a><br>
 <span class="emoji">🏷️</span> Allan Kardec, conselhos a <a href="#allan-kardec">↩️</a><br>

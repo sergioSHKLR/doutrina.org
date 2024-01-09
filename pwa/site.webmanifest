@@ -7,7 +7,7 @@
   "display": "fullscreen",
   "orientation": "landscape",
   "scope": "/",
-  "start_url": "https://doutrina.org/1-home.html",
+  "start_url": "https://doutrina.org",
   "id": "/",
   "prefer_related_applications": true,
   "related_applications": [
