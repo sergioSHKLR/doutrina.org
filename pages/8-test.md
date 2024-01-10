@@ -7,6 +7,14 @@ version: 24.1.4
 
 # Admonitions
 
+## h2
+
+### h3
+
+#### h4
+
+##### h5
+
 <details><summary><span class="emoji">👁‍🗨</span></summary>Têm olhos e não veem; têm ouvidos e não ouvem.</details>{:.original}
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>

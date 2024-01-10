@@ -41,7 +41,7 @@ version: 24.1.10
 
 ### <span class="emoji">📄</span> Prefácio {#lde-0-02}
 
-> ![Cepa Espírita](../images/vine.png)
+> ![Cepa Espírita](../assets/images/vine.png)
 >
 > <small>Interpretação artística do desenho original (mediúnico).<small>
 {:.grey-center}
@@ -14211,15 +14211,15 @@ A investigação rigorosamente racional e científica de fatos que revelavam a c
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. <span class="emoji">👻</span> [*O Livro dos Espíritos*](./book-1lde.md) (1857),
+1. <span class="emoji">👻</span> [*O Livro dos Espíritos*](./1lde.md) (1857),
 
-2. <span class="emoji">✒️</span> [*O Livro dos Médiuns*](./book-2ldm.html) (1861),
+2. <span class="emoji">✒️</span> [*O Livro dos Médiuns*](./2ldm.html) (1861),
 
-3. <span class="emoji">🕊️</span> [*O Evangelho segundo o Espiritismo*](./book-3ese.html) (1864),
+3. <span class="emoji">🕊️</span> [*O Evangelho segundo o Espiritismo*](./3ese.html) (1864),
 
-4. <span class="emoji">🔥</span> [*O Céu e o Inferno*](./book-4ceu.html) (1865),
+4. <span class="emoji">🔥</span> [*O Céu e o Inferno*](./4ceu.html) (1865),
 
-5. <span class="emoji">🌱</span> [*A Gênese*](./book-5gen.html) (1868),
+5. <span class="emoji">🌱</span> [*A Gênese*](./5gen.html) (1868),
 
 além da obra <span class="emoji">🔍</span> [*O Que é o Espiritismo*](https://kardecpedia.com/pt/roteiro-de-estudos/885/o-que-e-o-espiritismo){:target="ext"} (1859), de uma série de opúsculos e 136 edições da <span class="emoji">📓</span> *[Revista Espírita](https://www.febnet.org.br/portal/2021/09/02/downloads-material-completo/){:target="ext"}* (de janeiro de 1858 a abril de 1869). Após sua [morte](Morte){:.w}, foi editado o livro <span class="emoji">🪦</span> *Obras Póstumas* (1890).
 
