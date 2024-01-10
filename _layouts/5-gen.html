@@ -3,71 +3,24 @@
 <!-- VERSION 24.1.8 -->
 
 <!-- HEAD -->
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ page.title }} | doutrina.org</title>
-<meta name="description"
- content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
-
-<!-- OPEN GRAPH / FACEBOOK -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://doutrina.org/">
-<meta property="og:title" content="doutrina.org">
-<meta property="og:description"
- content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
-<meta property="og:image" content="./pwa/opengraph.png">
-
-<!-- TWITTER / X -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://doutrina.org/">
-<meta property="twitter:title" content="doutrina.org">
-<meta property="twitter:description"
- content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
-<meta property="twitter:image" content="./pwa/twitter.png">
-
-<!-- GOOGLE PRECONNECT -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<!-- GOOGLE FONTS -->
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Homemade+Apple&family=Inter:wght@200;300;400;500;600;700&family=Roboto+Mono:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&family=Roboto+Serif:ital,opsz,wght@0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;0,8..144,600;0,8..144,700;1,8..144,200;1,8..144,300;1,8..144,400;1,8..144,500;1,8..144,600;1,8..144,700&family=Russo+One&family=Zeyada&display=swap" rel="stylesheet">
-
-<!-- GOOGLE ICONS -->
-<link rel="stylesheet"
- href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..300,0..1,-50..200">
-
-<!-- GOOGLE EMOJI -->
-<link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
-
-<!-- CSS -->
-<link rel="stylesheet" href="./css/styles.css">
-
-<!-- PWA -->
-<link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
-<meta name="theme-color" content="#F0F8FF">
+{% include 0-head.html %}
 
 <!-- STYLES -->
 <style>
- #col3-link3-a {
+ #col3-maps-lnk {
  display: none;
  }
 </style>
- 
 </head>
 
 <!-- BODY -->
 <body>
 
-<!-- COL1 HEAD -->
-<div id="col1-head" class="head"><a href="./1-home.html" id="col1-brand" tabindex="1"><span class="emoji">💧</span><span class="label2"> doutrina.org</span></a>
-</div>
-
-<!-- COL1 BODY -->
-<div id="col1-body">
+<!-- COL1 HEAD & BODY-->
+{% include 1-col1-head-body.html %}
 
 <!-- COL1 TOC -->
-<p id="toc-title" class="sidebar-heading"><span class="emoji"><span class="emoji">📄</span></span> Nesta página</p>
+<p id="toc-title" class="sidebar-heading"><span class="emoji">📄</span> Nesta página</p>
 <div id="toc">
 <p style="text-indent: 0px;"><span class="emoji">🌱</span> <b>{{ page.title }}</b></p>
 
@@ -116,67 +69,16 @@
 <br><br>
  
 <!-- COL1 LINKS -->
-<details>
-<summary class="sidebar-heading"><span class="emoji">📚</span> Estante</summary>
-<p><a href="./book-1lde.html" title="O Livro dos Espíritos"><span class="emoji">👻</span> O Livro dos Espíritos</a></p>
-<p><a href="./book-2ldm.html" title="O Livro dos Médiuns"><span class="emoji">✒️</span> O Livro dos Médiuns</a></p>
-<p><a href="./book-3ese.html" title="O Evangelho segundo o Espiritismo"><span class="emoji">🕊️</span> O Evangelho</a></p>
-<p><a href="./book-4ceu.html" title="O Céu e o Inferno"><span class="emoji"><span class="emoji">🔥</span></span> Céu e Inferno</a></p>
-<p><a href="./book-5gen.html" title="A Gênese"><span class="emoji"><span class="emoji">🌱</span></span> A Gênese</a></p>
-</details><br>
-
+{% include 2-col1-links.html %}
+ 
 <!-- COL1 PROJECT -->
-<details>
-<summary class="sidebar-heading"><span class="emoji">📈</span> Projeto</summary>
-<p><a href="./1-home.html" title="Ínício"><span class="emoji">🏠</span> Início</a></p>
-<p><a href="./2-info.html" title="Informações"><span class="emoji">📋</span> Informações</a></p>
-<p><a href="./3-legal.html" title="Legal"><span class="emoji">⚖️</span> Avisos legais</a></p>
-<p><a href="./4-contact.html" title="Contato"><span class="emoji">📧</span> Contato</a></p>
-<p><a target="_blank" href="https://pt.shklr.org" title="Fundação"><span class="emoji">⭕</span> Fundação</a></p>
-<hr style="margin-right: 30px">
-<p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org" title="Código fonte"><span class="emoji">⌨️</span> Código fonte</a></p>
-<p><a target="_blank" href="https://github.com/sergioSHKLR/doutrina.org/issues" title="Erros"><span class="emoji">🐛</span> Falhas de código</a></p>
-<div style="cursor: default !important">
-<hr style="margin-right: 30px">
-<p><span class="emoji">💾</span> Versão <kbd>24.1.8</kbd></p>
-<p><span class="emoji">🗓️</span> Atualizado em {{ "today" | date: "%b-%Y" }}</p>
-<p><span class="emoji">🛡️</span>CC BY-NC-SA 4.0</p>
-</div>
-</details>
+{% include 3-col1-project.html %}
 
-<!-- COL1 VERT TOOLS-->
-<div id="vert-tools">
-<button id="tools-menu" onclick="function00()" title="Ajustar letras, linhas, cor de fundo, e parágrafo">Aa<br><span class="label">ajustes</span></button>
-<div id="vert-tools-buttons" class="hide">
-<button class="tools fontSize" id="decreasetext" type="button" value="-1" title="Letra menor"><span class="icon">text_decrease</span><br><span class="label">letra</span></button>
-<button class="tools fontSize" id="increasetext" type="button" value="+1" title="Letra maior"><span class="icon">text_increase</span><br><span class="label">letra</span></button>
-<button class="tools lineHeight" id="decreaselineheight" type="button" value="-1" title="Linhas estreitas"><span class="icon">density_small</span><br><span class="label">linhas</span></button>
-<button class="tools lineHeight" id="increaselineheight" type="button" value="+1" title="Linhas largas"><span class="icon">density_large</span><br><span class="label">linhas</span></button>
-<button class="tools" id="ff-se-btn" onclick="function02()" title="Tipo Serifa (padrão)"><span style="font-family: 'Georgia', serif">Se</span><br><span class="label">serifa</span></button>
-<button class="tools" id="ff-sa-btn" onclick="function03()" title="Tipo Sem Serifa"><span style="font-family: 'Inter', sans;">Sa</span><br><span class="label">sans</span></button>
-<button class="tools" id="ff-mo-btn" onclick="function04()" title="Tipo Mono"><span style="font-family: 'Roboto Mono', monospace;">Mo</span><br><span class="label">mono</span></button>
-<button class="tools" id="bc-ye-btn" onclick="function07()" title="Fundo amarelo"><span class="icon tools-round" style="background-color: #fffce4;">&nbsp;</span><br><span class="label">amarelo</span></button>
-<button class="tools" id="bc-gr-btn" onclick="function08()" title="Fundo verde"><span class="icon tools-round" style="background-color: #e8fce4;">&nbsp;</span><br><span class="label">verde</span></button>
-<button class="tools" id="bc-pi-btn" onclick="function09()" title="Fundo rosa"><span class="icon tools-round" style="background-color: #fff0f5;">&nbsp;</span><br><span class="label">rosa</span></button>
-<button class="tools" id="ta-ju-btn" onclick="function01()" title="Parágrafo justificado"><span class="icon">format_align_justify</span><br><span class="label">justif.</span></button>
-<button class="tools" id="ra-btn" onclick="functionReset()" title="Restaurar tudo (recarrege a página)"><span class="icon" style="color: crimson;">restart_alt</span><br><span class="label">reverter</span></button>
-</div>
-</div>
-</div>
+<!-- COL1 VERT TOOLS -->
+{% include 4-col1-tools.html %}
     
 <!-- COL2 HEAD -->
-<div id="col2-head" class="head">
-<button id="col2-menu-on" onclick="menuOn()" title="Abrir menu" tabindex="1"><span class="icon">menu</span><br><span class="label">menu</span></button>
-<button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu" tabindex="2"><span class="icon">close</span><br><span class="label">fechar</span></button>
-<a href="./1-home.html" id="col2-brand" tabindex="3"><span class="emoji">💧</span><span class="label2"> doutrina.org</span></a>
-<button id="webshare" class="fr" title="Compartilhar" onclick="webShare()" tabindex="12"><span class="icon">share</span><br><span class="label">comp.</span></button>
-<button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia" tabindex="5"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
-<button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal" tabindex="10"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
-<button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro" tabindex="4"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
-<button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="Modo claro" tabindex="0"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
-<button id="col2-loff-btn" class="fr" onclick="labelOff()" title="Esconder etiquetas"><span class="icon">label_off</span><br><span class="label">escond.</span></button>
-<button id="col2-lon-btn" class="fr hide" onclick="labelOn()" title="Mostrar etiquetas"><span class="icon">label</span></button>
-</div>
+{% include 5-col2-head.html %}
  
 <!-- COL2 BODY -->
 <div id="col2-body">
@@ -184,27 +86,18 @@
 </div>
  
 <!-- COL3 HEAD -->
-<div id="col3-head" class="head">
-<button id="col3-link4-a" class="fr" onclick="window.open('https://doutrina.whereby.com/estudos41936e66-2cc4-470a-aa9e-727a361496d0', '_blank');return false;" title="Vídeo chamada" tabindex="9"><span class="icon">video_call</span><br><span class="label">vídeo</span></button>
-<button id="col3-link3-a" class="fr" onclick="window.open('./content/maps/map-ese.html', 'ext');return false;" title="Atlas" tabindex="8"><span class="icon">location_on</span><br><span class="label">atlas</span></button>
-<button id="col3-link2-a" class="fr" onclick="window.open('https://pt.m.wiktionary.org', 'ext');return false;" title="Dicionário" tabindex="7"><span class="icon">book_2</span><br><span class="label">dicio.</span></button>
-<button id="col3-link1-a" class="fr" onclick="window.open('https://pt.m.wikipedia.org/', 'ext');return false;" title="Enciclopédia" tabindex="6"><span class="icon">language</span><br><span class="label">encic.</span></button>
-</div>
+{% include 6-col3-head.html %}
  
 <!-- COL3 BODY -->
-<div id="col3-body">
-<iframe id="ext-iframe" loading="lazy" name="ext" title="painel complementar" src="./6-ext.html" allowfullscreen></iframe>
-</div>
+{% include 7-col3-body.html %}
  
 <!-- ALERTS -->
-<div id="hypo" onclick="hypoAlert()" title="Problemas?"><span class="material-symbols-outlined">help</span></div>
-<div id="alert" class="hide">No celular? Use-o no modo deitado.</div>
+{% include 8-hypo-alert.html %}
  
 <!-- SCRIPTS -->
 <script src="./js/combined.js"></script>
 <script src="./js/crisp.js"></script>
 <script async src="https://hypothes.is/embed.js"></script>
-
 
 </body>
 </html>

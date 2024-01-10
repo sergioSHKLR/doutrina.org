@@ -82,7 +82,7 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
  <td>O Livro dos Espíritos</td>
  </tr>
  <tr>
- <td class="center"><span style="transform: scaleX(-1);"><span class="emoji">✒️</span></span><br>(ponta de caneta tinteiro)</td>
+ <td class="center"><span style="transform: scaleX(-1);"><span class="emoji">✒️</span><br>(ponta de caneta tinteiro)</td>
  <td class="center">LDM</td>
  <td>O Livro dos Médiuns</td>
  </tr>

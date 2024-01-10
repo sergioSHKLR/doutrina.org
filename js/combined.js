@@ -29,13 +29,13 @@ function labelOff() {
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-ns-btn > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link1-a > span.label");
+    var element = document.querySelector("#col3-wiki-lnk > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link2-a > span.label");
+    var element = document.querySelector("#col3-dict-lnk > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link3-a > span.label");
+    var element = document.querySelector("#col3-maps-lnk > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link4-a > span.label");
+    var element = document.querySelector("#col3-vid-lnk > span.label");
     element.classList.toggle("hide");
     var element = document.querySelector("#tools-menu > span");
     element.classList.toggle("hide");
@@ -63,7 +63,7 @@ function labelOff() {
     element.classList.toggle("hide");
     var element = document.querySelector("#ra-btn > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#webshare > span.label")
+    var element = document.querySelector("#col2-sha-btn > span.label")
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-loff-btn");
     element.classList.toggle("hide");
@@ -84,13 +84,13 @@ function labelOn() {
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-ns-btn > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link1-a > span.label");
+    var element = document.querySelector("#col3-vid-lnk > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link2-a > span.label");
+    var element = document.querySelector("#col3-maps-lnk > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link3-a > span.label");
+    var element = document.querySelector("#col3-dict-lnk > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#col3-link4-a > span.label");
+    var element = document.querySelector("#col3-wiki-lnk > span.label");
     element.classList.toggle("hide");
     var element = document.querySelector("#tools-menu > span");
     element.classList.toggle("hide");
@@ -118,7 +118,7 @@ function labelOn() {
     element.classList.toggle("hide");
     var element = document.querySelector("#ra-btn > span.label");
     element.classList.toggle("hide");
-    var element = document.querySelector("#webshare > span.label")
+    var element = document.querySelector("#col2-sha-btn > span.label")
     element.classList.toggle("hide");
     var element = document.querySelector("#col2-loff-btn");
     element.classList.toggle("hide");
