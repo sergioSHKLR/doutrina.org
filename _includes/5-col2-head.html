@@ -1,12 +1,42 @@
 <div id="col2-head" class="head">
-    <button id="col2-menu-on" onclick="menuOn()" title="Abrir menu" tabindex="1"><span class="icon">menu</span><br><span class="label">menu</span></button>
-    <button id="col2-menu-off" hidden onclick="menuOff()" title="Fechar menu" tabindex="2"><span class="icon">close</span><br><span class="label">fechar</span></button>
-     <a id="col2-brand" href="./1-home.html" tabindex="3" title="Retornar ao Ínicio"><span class="emoji">💧</span><span class="label2"> doutrina.org</span></a>
-    <button id="col2-sha-btn" class="fr" title="Compartilhar" onclick="col2-sha-btn()" tabindex="12"><span class="icon">share</span><br><span class="label">comp.</span></button>
-    <button id="col2-fs-btn" class="fr" onclick="openFullscreen()" title="Tela cheia" tabindex="5"><span class="icon">fullscreen</span><br><span class="label">cheia</span></button>
-    <button id="col2-ns-btn" class="fr hide" onclick="closeFullscreen()" title="Tela normal" tabindex="10"><span class="icon">fullscreen_exit</span><br><span class="label">normal</span></button>
-    <button id="col2-dm-btn" class="fr" onclick="darkMode()" title="Modo escuro" tabindex="4"><span class="icon">contrast</span><br><span class="label">escuro</span></button>
-    <button id="col2-lm-btn" class="fr hide" onclick="lightMode()" title="Modo claro" tabindex="0"><span class="icon">contrast_rtl_off</span><br><span class="label">claro</span></button>
-    <button id="col2-loff-btn" class="fr" onclick="labelOff()" title="Esconder etiquetas"><span class="icon">label_off</span><br><span class="label">escond.</span></button>
-    <button id="col2-lon-btn" class="fr hide" onclick="labelOn()" title="Mostrar etiquetas"><span class="icon">label</span></button>
-    </div>
+
+    <button id="col2-menu-on" title="Abrir menu" onclick="menuOn()" tabindex="1">
+        <span class="icon">menu</span>
+        <br><span class="label">menu</span></button>
+
+    <button id="col2-menu-off" title="Fechar menu" hidden onclick="menuOff()" tabindex="2">
+        <span class="icon">close</span>
+        <br><span class="label">fechar</span></button>
+
+    <a id="col2-brand" title="Voltar ao Ínicio" href="./1-home.html" tabindex="3">
+        <span class="emoji">💧</span>
+        <span class="label2"> doutrina.org</span></a>
+
+    <button title="Compartilhar" id="col2-sha-btn" class="fr" onclick="col2-sha-btn()" tabindex="12">
+        <span class="icon">share</span>
+        <br><span class="label">comp.</span></button>
+
+    <button id="col2-fs-btn" title="Tela cheia" class="fr" onclick="openFullscreen()" tabindex="5">
+        <span class="icon">fullscreen</span>
+        <br><span class="label">cheia</span></button>
+
+    <button id="col2-ns-btn" title="Tela normal" class="fr hide" onclick="closeFullscreen()" tabindex="10">
+        <span class="icon">fullscreen_exit</span>
+        <br><span class="label">normal</span></button>
+
+    <button id="col2-dm-btn" title="Modo escuro" class="fr" onclick="darkMode()" tabindex="4">
+        <span class="icon">contrast</span>
+        <br><span class="label">escuro</span></button>
+
+    <button id="col2-lm-btn" title="Modo claro" class="fr hide" onclick="lightMode()" tabindex="0">
+        <span class="icon">contrast_rtl_off</span>
+        <br><span class="label">claro</span></button>
+
+    <button id="col2-loff-btn" title="Esconder etiquetas" class="fr" onclick="labelOff()">
+        <span class="icon">label_off</span>
+        <br><span class="label">escond.</span></button>
+
+    <button id="col2-lon-btn" title="Mostrar etiquetas" class="fr hide" onclick="labelOn()">
+        <span class="icon">label</span></button>
+
+</div>
