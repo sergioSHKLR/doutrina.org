@@ -1,7 +1,7 @@
 ---
 title: Hypothes.is
 layout: blank
-version: 24.1.4
+version: 24.1.11
 ---
 
 [url search doutrina.org](https://hypothes.is/search?q=url:https://doutrina.org/*)

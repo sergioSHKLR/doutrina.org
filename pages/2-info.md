@@ -1,7 +1,7 @@
 ---
 title: Informações
 layout: 0-default
-version: 24.1.4
+version: 24.1.11
 ---
 
 <style>
@@ -11,7 +11,7 @@ version: 24.1.4
 <p><span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span></p>
 {:.banner}
 
-# <span class="emoji">📋</span> Informações
+# <span class="emoji">📋</span> Informações  
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
@@ -22,17 +22,15 @@ version: 24.1.4
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
-
-
-## Descrição
+## Descrição  
 
 Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
 
-## Ajustes
+## Ajustes  
 
 Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, e links) clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
 
-<table> 
+<table>
 <tr><th style="width: 20%">Ícone</th><th>Ação</th></tr>
 <tr><td class="center"><span class="icon tools-120">text_increase</span></td><td>Letras maiores</td></tr>
 <tr><td class="center"><span class="icon tools-120">text_decrease</span></td><td>Letras menores</td></tr>
@@ -49,18 +47,18 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 <tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
  </table>  
 
-## Anotador
+## Anotador  
 
 <p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td class="center"><img src="./images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td class="center"><img src="./images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td class="center"><img src="./images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
 </table>
 
-## Método
+## Método  
 
 Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
@@ -68,9 +66,9 @@ Analisando a divisão dos livro em partes, decidimos por nomear as seções ante
 
 Modificações feitas são uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
 
-### Livros
+### Livros  
 
-Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
+Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.  
 
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
@@ -109,9 +107,9 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
  </tbody>
 </table>
 
-### Hierarquia
+### Hierarquia  
 
-Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
+Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.  
 
 <pre class="fs-3 col2-w bg-lg">
 ❓ livro (👻, <span class="emoji">✒️</span>, <span class="emoji">🕊️</span>, <span class="emoji">🔥</span> ou <span class="emoji">🌱</span>)
@@ -125,9 +123,9 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
                 └── #️⃣ questão
 </pre>
 
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.  
 
-### Código chave
+### Código chave  
 
 <pre class="fs-3 col2-w bg-lg">
 LIV-X-XX-XX
@@ -141,7 +139,7 @@ LIV-X-XX-XX
  └── 📔 livro (LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
-E em especial no LDE, o código para questões é modificado da sequência lógica de LDE-X-XX-XX-XXXX para:
+E em especial no LDE, o código para questões é modificado da sequência lógica de LDE-X-XX-XX-XXXX para:  
 
 <pre class="fs-3 col2-w bg-lg">
 LIV-qXXXXa
@@ -153,9 +151,9 @@ LIV-qXXXXa
  └── livro (LDE, LDM, ESE, CEU ou GEN)
 </pre>
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra <kbd>q</kbd>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra <kbd>p</kbd>, de um a quatro dígitos, para identificar parágrafos numericamente.
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra <kbd>q</kbd>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`). Nos outros livros, usamos a letra <kbd>p</kbd>, de um a quatro dígitos, para identificar parágrafos numericamente.  
 
-Em suma, temos esta tabela descritiva abaixo:
+Em suma, temos esta tabela descritiva abaixo:  
 
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
@@ -194,9 +192,9 @@ Em suma, temos esta tabela descritiva abaixo:
  </tbody>
 </table>
 
-Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
+Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.  
 
-**Adicionais**
+**Adicionais**  
 
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
@@ -215,9 +213,9 @@ Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
  </tbody>
 </table>
 
-Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
+Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.  
 
-De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica
+De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica  
 
 > 👻 ▸ Mensagem
 >
@@ -239,17 +237,17 @@ Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras av
 | ⚜️ | fim | término de um elemento | 
 -->
 
-## Tipografia
+## Tipografia  
 
-Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
+Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.  
 
-Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
+Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).  
  
-Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.
+Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.  
 
 ---
 
-## Adicionais
+## Adicionais  
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Alma, conceito espírita de  <a href="#alma">↩️</a><br>

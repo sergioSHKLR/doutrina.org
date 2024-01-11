@@ -1,7 +1,7 @@
 ---
 title: Início
 layout: 0-default
-version: 24.1.4
+version: 24.1.11
 ---
 
 *[LDE]: O Livro dos Espíritos
