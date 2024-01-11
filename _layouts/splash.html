@@ -2,46 +2,14 @@
 <html lang="pt-BR">
 <!-- VERSION 24.1.10 -->
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>doutrina.org</title>
-  <meta name="description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
-
-  <!-- OPEN GRAPH / FACEBOOK -->
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://doutrina.org/">
-  <meta property="og:title" content="doutrina.org">
-  <meta property="og:description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
-  <meta property="og:image" content="./pwa/opengraph.png">
-
-  <!-- TWITTER / X -->
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://doutrina.org/">
-  <meta property="twitter:title" content="doutrina.org">
-  <meta property="twitter:description"
-    content="Uma plataforma inédita de estudos integrados; permitindo anotações, e a consulta de referências externas, sem sair da janela original.">
-  <meta property="twitter:image" content="./pwa/twitter.png">
-
-  <!-- GOOGLE FONTS -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Inter:wght@100;200;300;400;500;600;700&family=Roboto+Slab:wght@200;300;400;500;600;700&family=Russo+One&family=Zeyada&display=swap"
-    rel="stylesheet">
-
-  <!-- PWA -->
-  <link rel="manifest" href="./pwa/site.webmanifest">
-  <meta name="theme-color" content="#F0F8FF">
-  <link rel="icon" href="./pwa/favicon.svg" type="image/svg+xml">
+<!-- HEAD -->
+{% include 0-head.html %}
 
   <!-- STYLES -->
   <style>
     .hero {
       background-color: lightyellow;
-      box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+      box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
       color: #555;
       font-family: 'Homemade Apple', cursive;
       font-size: 20px;
@@ -149,7 +117,8 @@
 
 <body>
   <!-- BRAND 1 -->
-  <p style="font-family: 'Russo One'; font-size: 24px; text-align: center; color: #fff"><span class="emoji">💧</span> doutrina.org</p>
+  <p style="font-family: 'Russo One'; font-size: 24px; text-align: center; color: #fff"><span class="emoji">💧</span>
+    doutrina.org</p>
 
   {{ content }}
 
@@ -157,6 +126,33 @@
 
   <!-- <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./israel.svg"
       alt="Stand With Us" title="Stand With Us"></a> -->
+
+      <script>
+        // Set the date we're counting down to
+    var countDownDate = new Date("Apr 18, 2024 09:00").getTime();
+    
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+    
+      // Get today's date and time
+      var now = new Date().getTime();
+        
+      // Find the distance between now and the count down date
+      var distance = countDownDate - now;
+        
+      // Time calculations for days, hours, minutes and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        
+      // Output the result in an element with id="demo"
+      document.getElementById("demo").innerHTML = days + " dias" ;
+        
+      // If the count down is over, write some text 
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "Oficialmente Aberto";
+      }
+    }, 1000);
+    </script>
 
 </body>
 

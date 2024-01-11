@@ -1173,8 +1173,6 @@ kbd {
 }
 
 p.banner {
-    background-color: #ff06;
-    border-left: 4px solid #ffd700;
     color: currentColor;
     font-family: 'Inter';
     padding: 10px;
