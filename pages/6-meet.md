@@ -4,7 +4,6 @@ version: 24.1.4
 ---
 
 <style>
-
     iframe, html, body {border: none; margin: 0; padding: 0}
 </style>
 

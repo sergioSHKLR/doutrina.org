@@ -1,7 +1,7 @@
 {
   "name": "doutrina.org",
   "short_name": "doutrina",
-  "description": "versão 24.1.8",
+  "description": "versão 24.1.10",
   "theme_color": "#F0FAFF",
   "background_color": "#222222",
   "display": "fullscreen",
@@ -14,7 +14,7 @@
     {
       "platform": "webapp",
       "url": "https://doutrina.org/",
-      "id": "24.1.8"
+      "id": "24.1.10"
     }
 ],
   "display_override": [

@@ -1229,9 +1229,18 @@ button:focus {
     outline: none;
 }
 
-.original {text-indent: 4px;
+.original {
+    text-indent: 4px;
     margin: 10px;
-    padding: 10px 20px; background-color: floralwhite;}
+    padding: 10px 20px;
+    background-color: floralwhite;
+}
+
+
+#my-awesome-nav li.active a {
+    font-weight: bold !important;
+    outline: 3px solid orange;
+}
 
 /* OTHERS END */
 

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- VERSION 24.1.8 -->
+<!-- VERSION 24.1.10 -->
 
 <!-- HEAD -->
 {% include 0-head.html %}
@@ -9,6 +9,8 @@
 <style>
 
 </style>
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/gumshoe/dist/gumshoe.polyfills.min.js"></script>
+
 </head>
 
 <!-- BODY -->
@@ -19,10 +21,8 @@
 
 <!-- COL1 TOC -->
 <p id="toc-title" class="sidebar-heading"><span class="emoji">📄</span> Nesta página</p>
-<div id="toc">
 <p style="text-indent: 0px;"><b>{{ page.title }}</b></p>
- {% include toc.html html=content h_min=1 h_max=3 item_class="toc" %}
-</div>
+ {% include toc.html html=content h_min=1 h_max=3 id="my-awesome-nav" flat_toc="true" %}
 <br><br>
  
 <!-- COL1 LINKS -->
@@ -55,7 +55,6 @@
 <script src="../assets/js/combined.js"></script>
 <script src="../assets/js/crisp.js"></script>
 <script src="../assets/js/push-engage.js"></script>
-
 <script async src="https://hypothes.is/embed.js"></script>
 
 </body>

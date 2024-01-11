@@ -3,17 +3,7 @@ layout: test
 version: 24.1.4
 ---
 
-<button id="install" hidden>Install</button>
-
 # Admonitions
-
-## h2
-
-### h3
-
-#### h4
-
-##### h5
 
 <details><summary><span class="emoji">👁‍🗨</span></summary>Têm olhos e não veem; têm ouvidos e não ouvem.</details>{:.original}
 
@@ -73,4 +63,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [video start end no rel](PKtnafFtfEo?&start=15&end=18&rel=0){:.v}
 
 [video no rel](PKtnafFtfEo?&rel=0){:.v}
-
