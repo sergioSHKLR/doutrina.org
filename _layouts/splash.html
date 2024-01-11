@@ -7,111 +7,97 @@
 
 <link rel="manifest" href="../assets/pwa/site.webmanifest" />
 
-  <!-- STYLES -->
-  <style>
-    .hero {
-      background-color: lightyellow;
-      box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-      color: #555;
-      font-family: 'Homemade Apple', cursive;
-      font-size: 20px;
-      margin: 40px;
-      padding: 30px;
-      text-align: center;
-      transform: rotate(1deg);
-      word-spacing: 5px
-    }
+<!-- STYLES -->
+<style>
+  .note {
+    box-shadow: 2px 2px 20px #aaa, 0 0 125px #efd3b8 inset;
+	background: #fffef0;
+    color: #555;
+    font-family: 'Homemade Apple', cursive;
+    font-size: 20px;
+    margin: 40px;
+    padding: 30px;
+    text-align: center;
+    transform: rotate(2deg);
+    word-spacing: 5px
+  }
 
-    .center-button {
-      background-color: #4ec1f5;
-      border: none;
-      border-radius: 5px;
-      display: block;
-      font-family: sans-serif;
+  .center-button {
+    background-color: #4ec1f5;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 12px 18px;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button > a:any-link {text-decoration: none; color: #fff !important;
+}
+
+  @media (orientation:landscape) {
+    .note {
       font-size: 18px;
       margin-left: auto;
       margin-right: auto;
-      padding: 12px 18px;
-      text-align: center;
-      text-decoration: none;
-      width: 100px;
-      cursor: pointer;
+      max-height: 430px;
+      max-width: 430px
     }
+  }
 
-    a:any-link {
-      color: #000;
-      text-decoration: none
-    }
-
-    @media (orientation:landscape) {
-      .hero {
-        font-size: 18px;
-        margin-left: auto;
-        margin-right: auto;
-        max-height: 430px;
-        max-width: 430px
-      }
-    }
-
-    @media (orientation:portrait) {
-      .hero {
-        font-size: 17px;
-        margin-left: auto;
-        margin-right: auto;
-        max-height: 380px;
-        max-width: 380px
-      }
-    }
-
-    img#israel {
-      bottom: -10px;
-      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-      left: -50px;
-      position: fixed;
-      transform: rotate(45deg);
-      width: 141px;
-      z-index: 99
-    }
-
-    #col2-body table {
-      width: 80%
-    }
-
-    body {
-      background-color: #333;
-      margin-top: calc(100vw * .1)
-    }
-
-    .banner {
-      color: white;
-      font-family: sans-serif;
+  @media (orientation:portrait) {
+    .note {
+      font-size: 17px;
       margin-left: auto;
       margin-right: auto;
-      text-align: center
+      max-height: 380px;
+      max-width: 380px
+    }
+  }
+
+  html,
+  body {
+    margin: 10px;
+    padding: 0;
+    overflow: scroll;
+  }
+
+  .banner {
+    color: white;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+  }
+
+  .enter {
+    bottom: 0;
+    color: transparent;
+    position: absolute;
+    right: 0
+  }
+
+  .center-button {
+    animation: fade-me-in 5s
+  }
+
+  @keyframes fade-me-in {
+    100% {
+      opacity: 1
     }
 
-    .enter {
-      bottom: 0;
-      color: transparent;
-      position: absolute;
-      right: 0
+    0%,
+    80% {
+      opacity: 0
     }
-
-    .center-button {
-      animation: fade-me-in 5s
-    }
-
-    @keyframes fade-me-in {
-      100% {
-        opacity: 1
-      }
-
-      0%,
-      80% {
-        opacity: 0
-      }
-    }
-  </style>
+  }
+</style>
 
 </head>
 
@@ -119,43 +105,48 @@
 
 <body>
   <!-- BRAND 1 -->
-  <p style="font-family: 'Russo One'; font-size: 24px; text-align: center; color: #fff"><span class="emoji">💧</span>&nbsp;doutrina.org</p>
+  <p style="font-family: 'Russo One'; font-size: 24px; text-align: center; color: currentColor"><span
+      class="emoji">💧</span>&nbsp;doutrina.org</p>
 
   {{ content }}
 
-  <a href="./pages/1-home.html"><button class="center-button">entrar</button></a>
+  <button class="center-button"><a href="">entrar</a></button>
+
+  <p style="font-family: 'Inter', sans-serif; text-align: center; color: #666"><small>Não otimizado para
+      Apple/IOS</small></p>
+
 
   <!-- <a href="https://standwithus.com/brazil" target="_blank"><img id="israel" src="./israel.svg"
       alt="Stand With Us" title="Stand With Us"></a> -->
 
-      <script>
-        // Set the date we're counting down to
+  <script>
+    // Set the date we're counting down to
     var countDownDate = new Date("Apr 18, 2024 09:00").getTime();
-    
+
     // Update the count down every 1 second
-    var x = setInterval(function() {
-    
+    var x = setInterval(function () {
+
       // Get today's date and time
       var now = new Date().getTime();
-        
+
       // Find the distance between now and the count down date
       var distance = countDownDate - now;
-        
+
       // Time calculations for days, hours, minutes and seconds
       var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        
+
       // Output the result in an element with id="demo"
-      document.getElementById("demo").innerHTML = days + " dias" ;
-        
+      document.getElementById("demo").innerHTML = days + " dias";
+
       // If the count down is over, write some text 
       if (distance < 0) {
         clearInterval(x);
         document.getElementById("demo").innerHTML = "Oficialmente Aberto";
       }
     }, 1000);
-    </script>
+  </script>
 
-<script src="../assets/js/push-engage.js"></script>
+  <script src="../assets/js/push-engage.js"></script>
 
 </body>
 
