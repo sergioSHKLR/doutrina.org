@@ -6,7 +6,10 @@ version: 24.1.4
 
 <style>
      .spirit-multi, .bible-multi {font-family: 'Roboto Slab', serif; }
-     </style>
+</style>
+
+<p><span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span></p>
+{:.banner}
 
 # <span class="emoji">📋</span> Informações
 
@@ -18,6 +21,8 @@ version: 24.1.4
 *[PDF]: Portable Document Format
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
+
+
 
 ## Descrição
 
