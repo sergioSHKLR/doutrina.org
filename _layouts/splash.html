@@ -5,6 +5,8 @@
 <!-- HEAD -->
 {% include 0-head.html %}
 
+<link rel="manifest" href="../assets/pwa/site.webmanifest" />
+
   <!-- STYLES -->
   <style>
     .hero {
@@ -117,8 +119,7 @@
 
 <body>
   <!-- BRAND 1 -->
-  <p style="font-family: 'Russo One'; font-size: 24px; text-align: center; color: #fff"><span class="emoji">💧</span>
-    doutrina.org</p>
+  <p style="font-family: 'Russo One'; font-size: 24px; text-align: center; color: #fff"><span class="emoji">💧</span>&nbsp;doutrina.org</p>
 
   {{ content }}
 
@@ -153,6 +154,8 @@
       }
     }, 1000);
     </script>
+
+<script src="../assets/js/push-engage.js"></script>
 
 </body>
 
