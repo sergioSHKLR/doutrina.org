@@ -46,9 +46,9 @@ version: 24.1.12
 > <small>Interpretação artística do desenho original (mediúnico).<small>
 {:.grey-center}
 
-[Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.d} que os produz a ação de uma [vontade](Vontade){:.w} livre e [inteligente](Inteligência){:.w}.
+[Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.w} que os produz a ação de uma [vontade](Vontade){:.w} livre e [inteligente](Inteligência){:.w}.
 
-A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como [causa](Causalidade){:.d} uma força inteligente, e os fatos hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
+A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como causa uma força inteligente, e os fatos hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
 
 Interrogada acerca da sua natureza, essa força declarou pertencer ao mundo dos seres espirituais que se [despojaram](despojar){:.d} do [invólucro](invólucro){:.d} corporal do [homem](Humano){:.w}. Assim é que foi revelada a [Doutrina dos Espíritos](Espiritismo){:.l}.
 
@@ -103,11 +103,11 @@ Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de [abóbada](abóbada){:.d} de toda [doutrina](Doutrina){:.w} [moral](Moral){:.w} e ser objeto de inúmeras [controvérsias](controvérsia){:.d}, à míngua de uma [acepção](acepção){:.d} bem determinada. É a palavra **[alma](Alma){:.l}**. A [divergência](divergência){:.d} de opiniões sobre a natureza da [alma](Alma){:.l} provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
-Segundo uns, a [alma](Alma){:.l} é o princípio da vida material orgânica. Não tem existência própria e se aniquila com a vida: é o materialismo puro. Neste sentido e por comparação, diz-se de um instrumento rachado, que nenhum som mais emite: não tem alma. De conformidade com essa opinião, a [alma](Alma){:.l} seria efeito e não [causa](Causalidade){:.d}
+Segundo uns, a [alma](Alma){:.l} é o princípio da vida material orgânica. Não tem existência própria e se aniquila com a vida: é o materialismo puro. Neste sentido e por comparação, diz-se de um instrumento rachado, que nenhum som mais emite: não tem alma. De conformidade com essa opinião, a [alma](Alma){:.l} seria efeito e não [causa](Causalidade){:.w}
 
 Pensam outros que a [alma](Alma){:.l} é o princípio da [inteligência](Inteligência){:.w}, agente universal do qual cada ser absorve uma certa porção. Segundo esses, não haveria em todo o [Universo](Universo){:.w} senão uma só [alma](Alma){:.l} a distribuir centelhas pelos diversos seres inteligentes durante a vida destes, voltando cada centelha, mortos os seres, à fonte comum, a se confundir com o todo, como os regatos e os rios voltam ao mar, donde saíram. Essa opinião difere da precedente em que, nesta [hipótese](Hipótese){:.w}, não há em nós somente matéria, subsistindo alguma coisa após a morte. Mas é quase como se nada subsistisse, porquanto, [destituídos](destituído){:.d} de [individualidade](individualidade){:.d}, não mais teríamos [consciência](Consciência){:.w} de nós mesmos. Dentro desta opinião, a [alma](Alma){:.l} universal seria [Deus](Deus){:.l}, e cada ser um fragmento da divindade. Simples variante do **[panteísmo](Panteísmo){:.w}**.
 
-Segundo outros, finalmente, a [alma](Alma){:.l} é um ser [moral](Moral){:.w}, distinto, independente da matéria e que conserva sua individualidade após a [morte](Morte){:.w}. Esta [acepção](acepção){:.d} é, sem contradita, a mais geral, porque, debaixo de um nome ou de outro, a ideia desse ser que sobrevive ao corpo se encontra, no estado de crença instintiva, não derivada de ensino, entre todos os povos, qualquer que seja o grau de [civilização](Civilização){:.w} de cada um. Essa doutrina, segundo a qual a [alma](Alma){:.l} é **[causa](Causalidade){:.w}** e não **efeito**, é a dos espiritualistas.
+Segundo outros, finalmente, a [alma](Alma){:.l} é um ser [moral](Moral){:.w}, distinto, independente da matéria e que conserva sua individualidade após a [morte](Morte){:.w}. Esta [acepção](acepção){:.d} é, sem contradita, a mais geral, porque, debaixo de um nome ou de outro, a ideia desse ser que sobrevive ao corpo se encontra, no estado de crença instintiva, não derivada de ensino, entre todos os povos, qualquer que seja o grau de [civilização](Civilização){:.w} de cada um. Essa doutrina, segundo a qual a [alma](Alma){:.l} é **causa** e não **efeito**, é a dos espiritualistas.
 
 Sem discutir o [mérito](mérito){:.d} de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo **alma** correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice [acepção](acepção){:.d} e cada um, do seu ponto de vista, pode com [razão](Razão){:.w} defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo [equívoco](equívoco){:.d}, seria necessário restringir-se a [acepção](acepção){:.d} do termo **alma** a uma daquelas ideias. A escolha é indiferente; o que se faz [mister](mister){:.d} é o entendimento entre todos, reduzindo-se o problema a uma simples questão de [convenção](convenção){:.d}. Julgamos mais lógico tomá-lo na sua [acepção](acepção){:.d} vulgar e por isso chamamos [ALMA](Alma){:.l} **ao ser [imaterial](imaterial){:.d} e individual que em nós reside e sobrevive ao corpo**. Mesmo quando esse ser não existisse, não passasse de produto da [imaginação](Imaginação){:.w}, ainda assim seria preciso um termo para designá-lo.
 
@@ -136,15 +136,15 @@ Como tudo que constitui novidade, a [Doutrina Espírita](Espiritismo){:.l} conta
 
 Lembremos, antes de tudo, em poucas palavras, a série progressiva dos [fenônemos](fenómeno){:.w} que deram origem a esta [Doutrina](Espiritismo){:.l}.
 
-O primeiro fato observado foi o da movimentação de objetos diversos. Designaram-no vulgarmente pelo nome de **[mesas girantes](Mesas%20Girantes){:.l}** ou **[dança das mesas](Mesas%20Girantes){:.l}**. Este [fenômeno](Fenómeno){:.w}, que parece ter sido notado primeiramente na América, ou, melhor, que se repetiu nesse país, porquanto a História prova que ele remonta à mais alta antiguidade, se produziu rodeado de circunstâncias estranhas, tais como ruídos [insólitos](insólito){:.d}, pancadas sem nenhuma [causa](Causalidade){:.d} [ostensiva](ostensivo){:.d}. De lá, propagou-se rapidamente pela Europa e pelas outras partes do mundo. A princípio quase que só encontrou incredulidade, porém, ao cabo de pouco tempo, a [multiplicidade](multiplicidade){:.d} das experiências não mais permitiu lhe pusessem em [dúvida](Dúvida){:.w} a [realidade](Realidade){:.w}.
+O primeiro fato observado foi o da movimentação de objetos diversos. Designaram-no vulgarmente pelo nome de **[mesas girantes](Mesas%20Girantes){:.l}** ou **[dança das mesas](Mesas%20Girantes){:.l}**. Este [fenômeno](Fenómeno){:.w}, que parece ter sido notado primeiramente na América, ou, melhor, que se repetiu nesse país, porquanto a História prova que ele remonta à mais alta antiguidade, se produziu rodeado de circunstâncias estranhas, tais como ruídos [insólitos](insólito){:.d}, pancadas sem nenhuma causa [ostensiva](ostensivo){:.d}. De lá, propagou-se rapidamente pela Europa e pelas outras partes do mundo. A princípio quase que só encontrou incredulidade, porém, ao cabo de pouco tempo, a [multiplicidade](multiplicidade){:.d} das experiências não mais permitiu lhe pusessem em [dúvida](Dúvida){:.w} a [realidade](Realidade){:.w}.
 
-Se tal [fenômeno](Fenómeno){:.w} se houvesse limitado ao movimento de objetos materiais, poderia explicar-se por uma [causa](Causalidade){:.d} puramente física. Estamos longe de conhecer todos os agentes ocultos da [Natureza](Natureza){:.w}, ou todas as propriedades dos que conhecemos: a [eletricidade](Eletricidade){:.w} multiplica diariamente os recursos que proporciona ao homem e parece destinada a iluminar a [Ciência](Ciência){:.w} com uma nova luz. Nada de impossível haveria, portanto, em que a eletricidade, modificada por certas circunstâncias, ou qualquer outro agente desconhecido, fosse a [causa](Causalidade){:.d} dos movimentos observados. O fato de que a reunião de muitas pessoas aumenta a [potencialidade](potencialidade){:.d} da ação parecia vir em apoio dessa [teoria](teoria){:.d}, visto poder-se considerar o conjunto dos assistentes como uma pilha múltipla, com o seu potencial na [razão](Razão){:.w} direta do número dos elementos.
+Se tal [fenômeno](Fenómeno){:.w} se houvesse limitado ao movimento de objetos materiais, poderia explicar-se por uma [causa](Causalidade){:.w} puramente física. Estamos longe de conhecer todos os agentes ocultos da [Natureza](Natureza){:.w}, ou todas as propriedades dos que conhecemos: a [eletricidade](Eletricidade){:.w} multiplica diariamente os recursos que proporciona ao homem e parece destinada a iluminar a [Ciência](Ciência){:.w} com uma nova luz. Nada de impossível haveria, portanto, em que a eletricidade, modificada por certas circunstâncias, ou qualquer outro agente desconhecido, fosse a causa dos movimentos observados. O fato de que a reunião de muitas pessoas aumenta a [potencialidade](potencialidade){:.d} da ação parecia vir em apoio dessa [teoria](teoria){:.d}, visto poder-se considerar o conjunto dos assistentes como uma pilha múltipla, com o seu potencial na [razão](Razão){:.w} direta do número dos elementos.
 
-O movimento circular nada apresentava de [extraordinário](extraordinário){:.d}: está na [Natureza](Natureza){:.w}. Todos os [astros](Objeto_astronômico){:.w} se movem em curvas [elipsoides](Elipse){:.w}; poderíamos, pois, ter ali, em ponto menor, um reflexo do movimento geral do [Universo](Universo){:.w}, ou melhor, uma [causa](Causalidade){:.d}, até então desconhecida, produzindo acidentalmente, com pequenos objetos em dadas condições, uma corrente [análoga](análogo){:.d} à que impele os mundos.
+O movimento circular nada apresentava de [extraordinário](extraordinário){:.d}: está na [Natureza](Natureza){:.w}. Todos os [astros](Objeto_astronômico){:.w} se movem em curvas [elipsoides](Elipse){:.w}; poderíamos, pois, ter ali, em ponto menor, um reflexo do movimento geral do [Universo](Universo){:.w}, ou melhor, uma causa, até então desconhecida, produzindo acidentalmente, com pequenos objetos em dadas condições, uma corrente [análoga](análogo){:.d} à que impele os mundos.
 
 O movimento, no entanto, nem sempre era circular; muitas vezes era [brusco](brusco){:.d} e desordenado, sendo o objeto violentamente sacudido, derribado, levado numa direção qualquer e, contrariamente a todas as leis da [estática](Estática){:.w}, levantado e mantido em suspensão. Ainda aqui nada havia que se não pudesse explicar pela ação de um agente físico invisível. Não vemos a [eletricidade](Eletricidade){:.w} deitar por terra edifícios, desarraigar árvores, atirar longe os mais pesados corpos, atraí-los ou repeli-los?
 
-Os ruídos [insólitos](insólito){:.d}, as pancadas, ainda que não fossem um dos efeitos [ordinários](ordinário){:.d} da [dilatação](dilatação){:.d} da madeira, ou de qualquer outra [causa](Causalidade){:.d} acidental, podiam muito bem ser produzidos pela acumulação de um fluido oculto: a [eletricidade](Eletricidade){:.w} não produz formidáveis ruídos?
+Os ruídos [insólitos](insólito){:.d}, as pancadas, ainda que não fossem um dos efeitos [ordinários](ordinário){:.d} da [dilatação](dilatação){:.d} da madeira, ou de qualquer outra [causa](Causalidade){:.w} acidental, podiam muito bem ser produzidos pela acumulação de um fluido oculto: a [eletricidade](Eletricidade){:.w} não produz formidáveis ruídos?
 
 Até aí, como se vê, tudo pode caber no domínio dos fatos puramente físicos e fisiológicos. Sem sair desse [âmbito](âmbito){:.d} de ideias, já ali havia, no entanto, matéria para estudos sérios e dignos de prender a atenção dos sábios. Por que assim não aconteceu? É penoso dizê-lo, mas o fato deriva de causas que provam, entre mil outros semelhantes, a leviandade do [espírito](Espírito){:.w} humano. A vulgaridade do objeto principal que serviu de base às primeiras experiências não foi [alheia](alheio){:.d} à indiferença dos sábios. Que [influência](influência){:.d} não tem tido muitas vezes uma palavra sobre as coisas mais graves!
 
@@ -162,7 +162,7 @@ Objetam, porém, algumas pessoas: há frequentemente [fraudes](fraude){:.d} mani
 
 #### <span class="emoji">📄</span> Intro 04 {#lde-0-03-04}
 
-Se os [fenômenos](fenómeno){:.d}, com que nos estamos ocupando, houvessem ficado [restritos](restrito){:.d} ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem [singular](singular){:.d}. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a [intervenção](intervenção){:.d} de uma [causa](Causalidade){:.d} inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência [inteligente](Inteligência){:.w}? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da [Humanidade](Humano){:.w}? Eis outras questões que decorrem da anterior
+Se os [fenômenos](fenómeno){:.d}, com que nos estamos ocupando, houvessem ficado [restritos](restrito){:.d} ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem [singular](singular){:.d}. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a [intervenção](intervenção){:.d} de uma [causa](Causalidade){:.w} inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência [inteligente](Inteligência){:.w}? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da [Humanidade](Humano){:.w}? Eis outras questões que decorrem da anterior
 
 As primeiras manifestações inteligentes se produziram por meio de mesas que se levantavam e, com um dos pés, davam certo número de pancadas, respondendo desse modo — **sim** ou **não** —, conforme fora convencionado, a uma pergunta feita. Até aí nada de [convincente](convincente){:.d} havia para os [céticos](cético){:.d}, porquanto bem podiam crer que tudo fosse obra do [acaso](acaso){:.d}. Obtiveram-se depois respostas mais desenvolvidas com o auxílio das letras do alfabeto: dando o móvel um número de pancadas correspondente ao número de ordem de cada letra, chegava-se a formar palavras e frases que respondiam às questões propostas. A precisão das respostas e a [correlação](correlação){:.d} que denotavam com as perguntas causaram espanto. O ser misterioso que assim respondia, interrogado sobre a sua natureza, declarou que era **Espírito** ou [**Gênio**](gênio){:.d}, [declinou](correlação){:.d} um nome e prestou diversas informações a seu respeito. Há aqui uma circunstância muito importante, que se deve assinalar. É que ninguém imaginou os **Espíritos** como meio de explicar o [fenômeno](Fenómeno){:.w}; foi o próprio [fenômeno](Fenómeno){:.w} que revelou a palavra. Muitas vezes, tratando-se das [ciências exatas](Ciência_exata){:.w}, formulam-se hipóteses para dar-se uma base ao raciocínio. Não é aqui o caso.
 
@@ -194,7 +194,7 @@ A segunda circunstância resulta da natureza mesma das respostas que, as mais da
 
 Em certos casos, as respostas revelam tal [cunho](cunho){:.d} de [sabedoria](Sabedoria){:.w}, de profundeza e de oportunidade; exprimem pensamentos tão elevados, tão [sublimes](sublime){:.d}, que não podem [emanar](emanar){:.d} senão de uma [Inteligência](Inteligência){:.w} superior, impregnada da mais pura moralidade. Doutras vezes, são tão [levianas](leviano){:.d}, tão [frívolas](frívolo){:.d}, tão [triviais](trivial){:.d}, que a [razão](Razão){:.w} recusa admitir derivem da mesma fonte. Tal diversidade de linguagem não se pode explicar senão pela diversidade das [Inteligências](Inteligência){:.w} que se manifestam. E essas Inteligências estão na [Humanidade](Natureza_humana){:.w} ou fora da Humanidade? Este o ponto a esclarecer-se e cuja explicação se encontrará completa nesta obra, como a deram os próprios [Espíritos](Espírito){:.w}.
 
-Eis, pois, efeitos [patentes](patente){:.d}, que se produzem fora do círculo habitual das nossas observações; que não ocorrem misteriosamente, mas, ao contrário, à luz meridiana, que toda gente pode ver e comprovar; que não constituem [privilégio](privilégio){:.d} de um único indivíduo e que milhares de pessoas repetem todos os dias. Esses efeitos têm necessariamente uma [causa](Causalidade){:.d} e, do momento que detonam a ação de uma [inteligência](Inteligência){:.w} e de uma [vontade](Vontade){:.w}, saem do domínio puramente físico.
+Eis, pois, efeitos [patentes](patente){:.d}, que se produzem fora do círculo habitual das nossas observações; que não ocorrem misteriosamente, mas, ao contrário, à luz meridiana, que toda gente pode ver e comprovar; que não constituem [privilégio](privilégio){:.d} de um único indivíduo e que milhares de pessoas repetem todos os dias. Esses efeitos têm necessariamente uma [causa](Causalidade){:.w} e, do momento que detonam a ação de uma [inteligência](Inteligência){:.w} e de uma [vontade](Vontade){:.w}, saem do domínio puramente físico.
 
 Muitas teorias foram [engendradas](engendrar){:.d} a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres [distintos](distinto){:.d} dos humanos, pois que esta é a explicação [ministrada](ministrar){:.d} pelas [Inteligências](Inteligência){:.w} que se manifestam, e vejamos o que eles nos dizem. <span class="emoji">✅</span>
 
@@ -208,7 +208,7 @@ Conforme notamos acima, os próprios seres que se comunicam se designam a si mes
 
 Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritismo){:.l} que nos transmitiram, a fim de mais facilmente respondermos a certas objeções:
 
-1. [Deus](Deus){:.l} é [eterno](eterno){:.d}, [imutável](imutável){:.d}, [imaterial](imaterial){:.d}, único, [onipotente](onipotente){:.d}, soberanamente [justo](justiça){:.d} e bom;
+1. [Deus](Deus){:.l} é [eterno](eterno){:.d}, [imutável](imutável){:.d}, [imaterial](imaterial){:.d}, único,  [onipotente](onipotente){:.d}, soberanamente [justo](justiça){:.d} e bom;
 
 2. criou o [Universo](Universo){:.w}, que abrange todos os seres animados e inanimados, materiais e imateriais;
 
@@ -235,7 +235,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritism
 {:start="10"}
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos [instintos](Instinto){:.w} lhe são comuns; pela alma, participa da natureza dos [Espíritos](Espírito){:.w}; 
 
-11. o laço ou **perispírito**, que prende ao corpo o [Espírito](Espírito){:.w}, é uma espécie de [envoltório](envoltório){:.d} semimaterial. A [morte](Morte){:.w} é a destruição do [invólucro](invólucro){:.d} mais grosseiro. O [Espírito](Espírito){:.w} conserva o segundo, que lhe constitui um corpo [etéreo](etéreo){:.d}, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo [tangível](tangível){:.d}, como sucede no [fenômeno](Fenómeno){:.w} das [aparições](aparição){:.d};
+11. o laço ou **perispírito**, que prende ao corpo o [Espírito](Espírito){:.w}, é uma espécie de [envoltório](envoltório){:.d} semimaterial. A [morte](Morte){:.w} é a destruição do [invólucro](invólucro){:.d} mais grosseiro. O [Espírito](Espírito){:.w} conserva o segundo, que lhe constitui um corpo [[etéreo](etéreo){:.d}]([etéreo](etéreo){:.d}){:.d}, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo [tangível](tangível){:.d}, como sucede no [fenômeno](Fenómeno){:.w} das [aparições](aparição){:.d};
 
 12. o [Espírito](Espírito){:.w} não é, pois, um ser [abstrato](abstrato){:.d}, indefinido, só possível de conceber-se pelo pensamento. É um ser real, [circunscrito](circunscrito){:.d}, que, em certos casos, se torna apreciável **pela vista**, **pelo ouvido** e **pelo tato**;
 
@@ -263,7 +263,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritism
 
 24. os não encarnados ou [errantes](Erraticidade){:.l} não ocupam uma região determinada e [circunscrita](circunscrito){:.d}; estão por toda parte no espaço e ao nosso lado, vendo-nos e acotovelando-nos de contínuo. É toda uma população invisível, a mover-se em torno de nós;
 
-25. os [Espíritos](Espírito){:.w} exercem [incessante](incessante){:.d} ação sobre o mundo [moral](Moral){:.w} e mesmo sobre o mundo físico. Atuam sobre a matéria e sobre o [pensamento](Pensamento){:.w} e constituem uma das potências da Natureza, [causa](Causalidade){:.d} eficiente de uma multidão de [fenônemos](fenómeno){:.w} até então inexplicados ou mal explicados e que não encontram explicação racional senão no [Espiritismo](Espiritismo){:.l};
+25. os [Espíritos](Espírito){:.w} exercem [incessante](incessante){:.d} ação sobre o mundo [moral](Moral){:.w} e mesmo sobre o mundo físico. Atuam sobre a matéria e sobre o [pensamento](Pensamento){:.w} e constituem uma das potências da Natureza, [causa](Causalidade){:.w} eficiente de uma multidão de [fenônemos](fenómeno){:.w} até então inexplicados ou mal explicados e que não encontram explicação racional senão no [Espiritismo](Espiritismo){:.l};
 
 26. as relações dos [Espíritos](Espírito){:.w} com os homens são constantes. Os bons [Espíritos](Espírito){:.w} nos atraem para o bem, nos sustentam nas provas da vida e nos ajudam a suportá-las com [coragem](coragem){:.d} e [resignação](resignação){:.d}. Os maus nos impelem para o [mal](Mal){:.w}: é-lhes um gozo ver-nos [sucumbir](sucumbir){:.d} e assemelhar-nos a eles;
 
@@ -303,7 +303,7 @@ Quando as crenças espíritas se houverem vulgarizado, quando estiverem aceitas 
 
 Esses erros de alguns homens [eminentes](eminente){:.d} — conquanto [deploráveis](deplorável){:.d} para a memória deles —, não lhes diminuem os [méritos](mérito){:.d} dos títulos que obtiveram e que com eles conquistaram a nossa [estima](estima){:.d}, mas será preciso a posse de um [diploma](diploma){:.d} oficial para se ter [bom senso](bom_senso){:.d}? Dar-se-á que fora das [cátedras](cátedra){:.d} acadêmicas só se encontrem tolos e imbecis? Dignem-se de lançar os olhos para os adeptos da [Doutrina Espírita](Espiritismo){:.l}  e digam se só com ignorantes deparam e se a imensa [legião](legião){:.d} de homens de mérito que a tem abraçado autoriza seja ela atirada ao [rol](rol){:.d} das [crendices](crendice){:.d} de [simplórios](simplório){:.d}. O [caráter](caráter){:.d} e o saber desses homens dão peso a esta proposição: pois que eles afirmam, forçoso é reconhecer que alguma coisa há.
 
-Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao movimento mecânico dos corpos, a [indagação](indagação){:.d} da [causa](Causalidade){:.d} física desse [fenômeno](Fenómeno){:.w} caberia no domínio da Ciência; porém, desde que se trata de uma manifestação que se produz com [exclusão](exclusão){:.d} das leis da Humanidade, ela escapa à [competência](competência){:.d} da [ciência](Ciência){:.w} material, visto não poder explicar-se por [algarismos](algarismo){:.d}, nem por uma força mecânica. Quando surge um fato novo, que não guarda relação com alguma [ciência](Ciência){:.w} conhecida, o sábio, para estudá-lo, tem que abstrair da sua [ciência](Ciência){:.w} e dizer a si mesmo que o que se lhe oferece constitui um estudo novo, impossível de ser feito com ideias preconcebidas.
+Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao movimento mecânico dos corpos, a [indagação](indagação){:.d} da [causa](Causalidade){:.w} física desse [fenômeno](Fenómeno){:.w} caberia no domínio da Ciência; porém, desde que se trata de uma manifestação que se produz com [exclusão](exclusão){:.d} das leis da Humanidade, ela escapa à [competência](competência){:.d} da [ciência](Ciência){:.w} material, visto não poder explicar-se por [algarismos](algarismo){:.d}, nem por uma força mecânica. Quando surge um fato novo, que não guarda relação com alguma [ciência](Ciência){:.w} conhecida, o sábio, para estudá-lo, tem que abstrair da sua [ciência](Ciência){:.w} e dizer a si mesmo que o que se lhe oferece constitui um estudo novo, impossível de ser feito com ideias preconcebidas.
 
 O homem que julga infalível a sua [razão](Razão){:.w} está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria [razão](Razão){:.w} e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a [Humanidade](Natureza_humana){:.w} se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama [razão](Razão){:.w} não é muitas vezes senão [orgulho](Orgulho){:.w} disfarçado e quem quer que se considere infalível apresenta-se como igual a [Deus](Deus){:.l}. Dirigimo-nos, pois, aos [ponderados](ponderação){:.d}, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao [apogeu](apogeu){:.d}, nem que a Natureza lhe tenha facultado ler a última página do seu livro. <span class="emoji">✅</span>
 
@@ -354,7 +354,7 @@ Perguntam eles: os [Espíritos](Espírito){:.w} de escol descem até nós? Respo
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a [intervenção](intervenção){:.d} de uma potência diabólica, novo [Proteu](Proteu){:.d} que revestiria todas as formas, para melhor nos enganar. Não a julgamos [suscetível](suscetível){:.d} de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está [refutada](refutar){:.d} pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o [diabo](Diabo){:.w} é às vezes bastante [criterioso](critério){:.d} e [ponderado](ponderar){:.d}, sobretudo, muito [moral](Moral){:.w}; ou, então, em que há bons diabos.
 
-Efetivamente, como acreditar que [Deus](Deus){:.l} só ao [Espírito](Espírito){:.w} do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons [Espíritos](Espírito){:.w}? Se Ele não o pode fazer, não é [onipotente](onipotente){:.d}; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam [blasfemas](blasfêmia){:.d}. Note-se que admitir a comunicação dos maus [Espíritos](Espírito){:.w} é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de [Deus](Deus){:.l}. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do [bom senso](bom_senso){:.d} e da [religião](Religião){:.w}. <span class="emoji">✅</span>
+Efetivamente, como acreditar que [Deus](Deus){:.l} só ao [Espírito](Espírito){:.w} do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons [Espíritos](Espírito){:.w}? Se Ele não o pode fazer, não é  [onipotente](onipotente){:.d}; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam [blasfemas](blasfêmia){:.d}. Note-se que admitir a comunicação dos maus [Espíritos](Espírito){:.w} é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de [Deus](Deus){:.l}. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do [bom senso](bom_senso){:.d} e da [religião](Religião){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -405,7 +405,7 @@ As observações que aí ficam nos levam a dizer alguma coisa acerca de outra di
 
 [Diferindo](diferir){:.d} estes muito uns dos outros, do ponto de vista dos conhecimentos e da [moralidade](moralidade){:.d}, é evidente que uma questão pode ser por eles resolvida em sentidos opostos, conforme a categoria que ocupam, exatamente como sucederia, entre os homens, se a propusessem ora a um sábio, ora a um ignorante, ora a um [gracejador](gracejo){:.d} de mau gosto. O ponto essencial, temo-lo dito, é sabermos a quem nos dirigimos.
 
-Mas, ponderam, como se explica que os tidos por [Espíritos](Espírito){:.w} de ordem superior nem sempre estejam de acordo? Diremos, em primeiro lugar, que, independentemente da [causa](Causalidade){:.d} que vimos de assinalar, outras há de molde a exercerem certa influência sobre a natureza das respostas, abstração feita da [probidade](probidade){:.d} dos [Espíritos](Espírito){:.w}. Este é um ponto capital, cuja explicação alcançaremos pelo estudo. Por isso é que dizemos que estes estudos requerem atenção demorada, observação profunda e, sobretudo, como aliás o exigem todas as ciências humanas, continuidade e perseverança. Anos são precisos para formar-se um médico [medíocre](medíocre){:.d} e três quartas partes da vida para chegar-se a ser um sábio. Como pretender-se em algumas horas adquirir a [Ciência](Ciência){:.w} do Infinito! Ninguém, pois, se iluda: o estudo do [Espiritismo](Espiritismo){:.l} é imenso; interessa a todas as questões da [metafísica](Metafísica){:.w} e da ordem social; é um mundo que se abre diante de nós. Será de admirar que o efetuá-lo demande [tempo](Tempo){:.w}, muito tempo mesmo?
+Mas, ponderam, como se explica que os tidos por [Espíritos](Espírito){:.w} de ordem superior nem sempre estejam de acordo? Diremos, em primeiro lugar, que, independentemente da [causa](Causalidade){:.w} que vimos de assinalar, outras há de molde a exercerem certa influência sobre a natureza das respostas, abstração feita da [probidade](probidade){:.d} dos [Espíritos](Espírito){:.w}. Este é um ponto capital, cuja explicação alcançaremos pelo estudo. Por isso é que dizemos que estes estudos requerem atenção demorada, observação profunda e, sobretudo, como aliás o exigem todas as ciências humanas, continuidade e perseverança. Anos são precisos para formar-se um médico [medíocre](medíocre){:.d} e três quartas partes da vida para chegar-se a ser um sábio. Como pretender-se em algumas horas adquirir a [Ciência](Ciência){:.w} do Infinito! Ninguém, pois, se iluda: o estudo do [Espiritismo](Espiritismo){:.l} é imenso; interessa a todas as questões da [metafísica](Metafísica){:.w} e da ordem social; é um mundo que se abre diante de nós. Será de admirar que o efetuá-lo demande [tempo](Tempo){:.w}, muito tempo mesmo?
 
 A contradição, demais, nem sempre é tão [real](Realidade){:.w} quanto possa parecer. Não vemos todos os dias homens que professam a mesma [ciência](Ciência){:.w} [divergirem](divergir){:.d} na definição que dão de uma coisa, quer empreguem termos diferentes, quer a encarem de pontos de vista diversos, embora seja sempre a mesma a ideia fundamental? Conte quem puder as definições que se têm dado de gramática! Acrescentaremos que a forma da resposta depende muitas vezes da forma da questão. [Pueril](pueril){:.d}, portanto, seria apontar contradição onde frequentemente só há diferença de palavras. Os [Espíritos](Espírito){:.w} superiores não se preocupam absolutamente com a forma. Para eles, o fundo do pensamento é tudo.
 
@@ -427,11 +427,11 @@ Passaríamos brevemente pela objeção que fazem alguns [céticos](cético){:.d}
 
 Há também pessoas que vêem [perigo](perigo){:.d} por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a [razão](Razão){:.w} alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao [Espiritismo](Espiritismo){:.l}. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos [loucos](louco){:.d} e maníacos os estudos da [Matemática](Matemática){:.w}, da [Medicina](Medicina){:.w}, da [Música](Música){:.w}, da [Filosofia](Filosofia){:.w} e outros têm produzido? Dever-se-ia, em consequência, [banir](banir){:.d} esses estudos? Que prova isso? Nos trabalhos corporais, [estropiam](estropiado){:.d}-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da [inteligência](Inteligência){:.w}, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao [Espírito](Espírito){:.w}. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da [plenitude](plenitude){:.d} das suas faculdades. No seu gênero, ele é, como homem, um [mártir](Mártir){:.w} do trabalho.
 
-Todas as grandes preocupações do [Espírito](Espírito){:.w} podem ocasionar a loucura: as [Ciências](Ciência){:.w}, as [Artes](Arte){:.w} e até a [Religião](Religião){:.w} lhe fornecem [contingentes](contingente){:.d}. A [loucura](Loucura){:.w} tem como [causa](Causalidade){:.d} primária uma predisposição orgânica do cérebro, que o torna mais ou menos acessível a certas impressões. Dada a predisposição para a loucura, esta tomará o caráter de preocupação principal, que então se muda em ideia fixa, podendo tanto ser a dos [Espíritos](Espírito){:.w}, em quem com eles se ocupou, como a de [Deus](Deus){:.l}, dos [anjos](Anjo){:.w}, do [diabo](Diabo){:.w}, da fortuna, do poder, de uma arte, de uma [ciência](Ciência){:.w}, da maternidade, de um [sistema político](Forma_de_governo){:.w} ou social. Provavelmente, o louco religioso se houvera tornado um louco espírita, se o [Espiritismo](Espiritismo){:.l} fora a sua preocupação dominante, do mesmo modo que o louco espírita o seria sob outra forma, de acordo com as circunstâncias.
+Todas as grandes preocupações do [Espírito](Espírito){:.w} podem ocasionar a loucura: as [Ciências](Ciência){:.w}, as [Artes](Arte){:.w} e até a [Religião](Religião){:.w} lhe fornecem [contingentes](contingente){:.d}. A [loucura](Loucura){:.w} tem como [causa](Causalidade){:.w} primária uma predisposição orgânica do cérebro, que o torna mais ou menos acessível a certas impressões. Dada a predisposição para a loucura, esta tomará o caráter de preocupação principal, que então se muda em ideia fixa, podendo tanto ser a dos [Espíritos](Espírito){:.w}, em quem com eles se ocupou, como a de [Deus](Deus){:.l}, dos [anjos](Anjo){:.w}, do [diabo](Diabo){:.w}, da fortuna, do poder, de uma arte, de uma [ciência](Ciência){:.w}, da maternidade, de um [sistema político](Forma_de_governo){:.w} ou social. Provavelmente, o louco religioso se houvera tornado um louco espírita, se o [Espiritismo](Espiritismo){:.l} fora a sua preocupação dominante, do mesmo modo que o louco espírita o seria sob outra forma, de acordo com as circunstâncias.
 
 Digo, pois, que o [Espiritismo](Espiritismo){:.l} não tem [privilégio](privilégio){:.d} algum a esse respeito. Vou mais longe: digo que, bem compreendido, ele é um preservador contra a loucura.
 
-Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as [decepções](decepção){:.d}, os [infortúnios](infortúnio){:.d}, as afeições contrariadas, que, ao mesmo tempo, são as causas mais frequentes de [suicídio](Suicídio){:.w}. Ora, o verdadeiro espírita vê as coisas deste mundo de um ponto de vista tão elevado; elas lhe parecem tão pequenas, tão [mesquinhas](mesquinho){:.d}, a par do futuro que o aguarda; a vida se lhe mostra tão curta, tão [fugaz](fugaz){:.d}, que, aos seus olhos, as [tribulações](tribulação){:.d} não passam de incidentes desagradáveis, no curso de uma viagem. O que, em outro, produziria violenta emoção, mediocremente o afeta. Demais, ele sabe que as amarguras da vida são provas úteis ao seu adiantamento, se as sofrer sem [murmurar](murmurar){:.d}, porque será [recompensado](recompensa){:.d} na medida da [coragem](Coragem){:.w} com que as houver suportado. Suas convicções lhe dão, assim, uma [resignação](Resignação){:.w} que o preserva do desespero e, por conseguinte, de uma [causa](Causalidade){:.d} permanente de [loucura](Loucura){:.w} e suicídio. Conhece também, pelo espetáculo que as comunicações com os [Espíritos](Espírito){:.w} lhe proporcionam, qual a sorte dos que voluntariamente abreviam seus dias e esse quadro é bem de molde a fazê-lo refletir, tanto que a [cifra](cifra){:.d} muito considerável já ascende o número dos que foram detidos em meio desse [declive](declive){:.d} [funesto](funesto){:.d}. Este é um dos resultados do [Espiritismo](Espiritismo){:.l}. Riam quanto queiram os incrédulos. Desejo-lhes as [consolações](consolar){:.d} que ele prodigaliza a todos os que se hão dado ao trabalho de lhe sondar as misteriosas profundezas.
+Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as [decepções](decepção){:.d}, os [infortúnios](infortúnio){:.d}, as afeições contrariadas, que, ao mesmo tempo, são as causas mais frequentes de [suicídio](Suicídio){:.w}. Ora, o verdadeiro espírita vê as coisas deste mundo de um ponto de vista tão elevado; elas lhe parecem tão pequenas, tão [mesquinhas](mesquinho){:.d}, a par do futuro que o aguarda; a vida se lhe mostra tão curta, tão [fugaz](fugaz){:.d}, que, aos seus olhos, as [tribulações](tribulação){:.d} não passam de incidentes desagradáveis, no curso de uma viagem. O que, em outro, produziria violenta emoção, mediocremente o afeta. Demais, ele sabe que as amarguras da vida são provas úteis ao seu adiantamento, se as sofrer sem [murmurar](murmurar){:.d}, porque será [recompensado](recompensa){:.d} na medida da [coragem](Coragem){:.w} com que as houver suportado. Suas convicções lhe dão, assim, uma [resignação](Resignação){:.w} que o preserva do desespero e, por conseguinte, de uma [causa](Causalidade){:.w} permanente de [loucura](Loucura){:.w} e suicídio. Conhece também, pelo espetáculo que as comunicações com os [Espíritos](Espírito){:.w} lhe proporcionam, qual a sorte dos que voluntariamente abreviam seus dias e esse quadro é bem de molde a fazê-lo refletir, tanto que a [cifra](cifra){:.d} muito considerável já ascende o número dos que foram detidos em meio desse [declive](declive){:.d} [funesto](funesto){:.d}. Este é um dos resultados do [Espiritismo](Espiritismo){:.l}. Riam quanto queiram os incrédulos. Desejo-lhes as [consolações](consolar){:.d} que ele prodigaliza a todos os que se hão dado ao trabalho de lhe sondar as misteriosas profundezas.
 
 Cumpre também colocar entre as causas da [loucura](Loucura){:.w} o pavor, sendo que o do [diabo](Diabo){:.w} já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis [pormenores](pormenor){:.d}? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las [ajuizadas](ajuizar){:.d}. Sim, é, do mesmo modo que o [papão](Bicho-papão){:.w} e o [lobisomem](Lobisomem){:.w}. Quando, porém, elas deixam de ter [medo](Medo){:.w}, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras [epilepsias](Epilepsia){:.w} causadas pelo abalo de cérebros delicados. Bem frágil seria a [religião](Religião){:.w} se, por não [infundir](infundir){:.d} terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o [Espiritismo](Espiritismo){:.l} lhe faculta, desde que ela os saiba utilizar. Ele mostra a [realidade](Realidade){:.w} das coisas e só com isso neutraliza os [funestos](funesto){:.d} efeitos de um temor exagerado. <span class="emoji">✅</span>
 
@@ -451,7 +451,7 @@ Segundo outra opinião, o [médium](Mediunidade){:.w} é a única fonte produtor
 
 Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que certas comunicações do [médium](Mediunidade){:.w} são completamente estranhas aos pensamentos, aos conhecimentos, às opiniões mesmo de todos os assistentes, que essas comunicações frequentemente são [espontâneas](espontâneo){:.d} e contradizem todas as ideias preconcebidas, ah! eles não se embaraçam com tão pouca coisa. Respondem que a [irradiação](irradiação){:.d} vai muito além do círculo imediato que nos envolve; o [médium](Mediunidade){:.w} é o [reflexo](reflexo){:.d} de toda a [Humanidade](Natureza_humana){:.w}, de tal sorte que, se as inspirações não lhe vêm dos que se acham a seu lado, ele as vai beber fora, na cidade, no país, em todo o globo e até nas outras esferas.
 
-Não me parece que em semelhante teoria se encontre explicação mais simples e mais provável que a do [Espiritismo](Espiritismo){:.l}, visto que ela se baseia numa [causa](Causalidade){:.d} bem mais maravilhosa. A ideia de que seres que povoam os espaços e que, em contato conosco, nos comunicam seus pensamentos, nada tem que choque mais a [razão](Razão){:.w} do que a suposição dessa irradiação universal, vindo, de todos os pontos do [Universo](Universo){:.w}, concentrar-se no cérebro de um indivíduo.
+Não me parece que em semelhante teoria se encontre explicação mais simples e mais provável que a do [Espiritismo](Espiritismo){:.l}, visto que ela se baseia numa [causa](Causalidade){:.w} bem mais maravilhosa. A ideia de que seres que povoam os espaços e que, em contato conosco, nos comunicam seus pensamentos, nada tem que choque mais a [razão](Razão){:.w} do que a suposição dessa irradiação universal, vindo, de todos os pontos do [Universo](Universo){:.w}, concentrar-se no cérebro de um indivíduo.
 
 Ainda uma vez, e este é ponto capital sobre que nunca insistiremos bastante: a teoria sonambúlica e a que se poderia chamar **refletiva** foram imaginadas por alguns homens; são opiniões individuais, criadas para explicar um fato, ao passo que a [Doutrina](Espiritismo){:.l} dos [Espíritos](Espírito){:.w} não é de concepção humana. Foi ditada pelas próprias inteligências que se manifestaram, quando ninguém disso [cogitava](cogitar){:.d}, quando até a opinião geral a repelia. Ora, perguntamos, onde foram os [médiuns](Mediunidade){:.w} beber uma doutrina que não passava pelo pensamento de ninguém na [Terra](Terra){:.w}? Perguntamos ainda mais: por que estranha coincidência milhares de [médiuns](Mediunidade){:.w} espalhados por todos os pontos do globo terráqueo, e que jamais se viram, acordaram em dizer a mesma coisa? Se o primeiro [médium](Mediunidade){:.w} que apareceu na [França](França){:.w} sofreu a influência de opiniões já aceitas na América, por que singularidade foi ele buscá-las a duas mil léguas além-mar e no seio de um povo tão diferente pelos costumes e pela linguagem, em vez de as tomar ao seu [derredor](derredor){:.d}?
 
@@ -473,7 +473,7 @@ O [ceticismo](Ceticismo){:.w}, no [tocante](tocante){:.d} à [Doutrina Espírita
 
 A [ciência](Ciência){:.w} espírita compreende duas partes: experimental uma, relativa às manifestações em geral; filosófica, outra, relativa às manifestações inteligentes. Aquele que apenas haja observado a primeira se acha na posição de quem não conhecesse a [Física](Física){:.w} senão por experiências recreativas, sem haver penetrado no [âmago](âmago){:.d} da ciência. A verdadeira [Doutrina Espírita](Espiritismo){:.l}  está no ensino que os [Espíritos](Espírito){:.w} deram, e os conhecimentos que esse ensino comporta são por demais profundos e extensos para serem adquiridos de qualquer modo, que não por um estudo perseverante, feito no silêncio e no recolhimento. Porque, só dentro desta condição se pode observar um número infinito de fatos e particularidades que passam despercebidos ao observador superficial, e firmar opinião. Não produzisse este livro outro resultado além do de mostrar o lado sério da questão e de provocar estudos neste sentido e [rejubilaríamos](jubiloso){:.d} por haver sido eleito para executar uma obra em que, aliás, nenhum mérito pessoal pretendemos ter, pois que os princípios nela exarados não são de criação nossa. O mérito que apresenta cabe todo aos [Espíritos](Espírito){:.w} que a ditaram. Esperamos que dará outro resultado, o de guiar os homens que desejem esclarecer-se, mostrando-lhes, nestes estudos, um fim grande e sublime: o do progresso individual e social e o de lhes indicar o caminho que conduz a esse fim.
 
-Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo){:.d}, sondando o espaço, encontraram, na distribuição dos corpos celestes, [lacunas](lacuna){:.d} não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja [causa](Causalidade){:.d} lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma [causa](Causalidade){:.w}. Julgando então da [causa](Causalidade){:.d} pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este [raciocínio](Raciocínio_lógico){:.w} a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a matéria bruta até o homem mais inteligente. Entre o homem e [Deus](Deus){:.l}, porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A [razão](Razão){:.w} nos diz que entre o homem e [Deus](Deus){:.l} outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que [filosofia](Filosofia){:.w} já preencheu essa lacuna? O [Espiritismo](Espiritismo){:.l} no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os [Espíritos](Espírito){:.w} dos homens, nos diferentes graus que levam à [perfeição](Perfeição){:.w}. Tudo então se liga, tudo se encadeia, desde o [alfa até o ômega](Alfa_e_ómega){:.w}. Vós, que negais a existência dos [Espíritos](Espírito){:.w}, cumulai o [vácuo](Vácuo){:.w} que eles ocupam. E vós, que rides deles, ousai rir das obras de [Deus](Deus){:.l} e da sua [onipotência](Omnipotência){:.w}! <span class="emoji">✅</span>
+Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo){:.d}, sondando o espaço, encontraram, na distribuição dos corpos celestes, [lacunas](lacuna){:.d} não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja [causa](Causalidade){:.w} lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma causa. Julgando então da causa pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este [raciocínio](Raciocínio_lógico){:.w} a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a matéria bruta até o homem mais inteligente. Entre o homem e [Deus](Deus){:.l}, porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A [razão](Razão){:.w} nos diz que entre o homem e [Deus](Deus){:.l} outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que [filosofia](Filosofia){:.w} já preencheu essa lacuna? O [Espiritismo](Espiritismo){:.l} no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os [Espíritos](Espírito){:.w} dos homens, nos diferentes graus que levam à [perfeição](Perfeição){:.w}. Tudo então se liga, tudo se encadeia, desde o [alfa até o ômega](Alfa_e_ómega){:.w}. Vós, que negais a existência dos [Espíritos](Espírito){:.w}, cumulai o [vácuo](Vácuo){:.w} que eles ocupam. E vós, que rides deles, ousai rir das obras de [Deus](Deus){:.l} e da sua [onipotência](Omnipotência){:.w}! <span class="emoji">✅</span>
 
 <p class="ff-gv fs-lg" style="text-align: right;"> <span class="emoji">👴🏻</span> ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
 
@@ -491,7 +491,7 @@ Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo)
 
 O que é [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} é a [inteligência](Inteligência){:.w} suprema, [causa](Causalidade){:.d} primária de todas as coisas. [^4], [^5]
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} é a [inteligência](Inteligência){:.w} suprema, [causa](Causalidade){:.w} primária de todas as coisas. [^4], [^5]
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -521,9 +521,9 @@ Poder-se-ia dizer que [Deus](Deus){:.l} é o [infinito](Infinito){:.w}?
 
 Onde se pode encontrar a prova da existência de [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ Num [axioma](Axioma){:.w} que aplicais às vossas ciências. Não há efeito sem [causa](Causalidade){:.d}. Procurai a [causa](Causalidade){:.d} de tudo o que não é obra do homem e a vossa [razão](Razão){:.w} responderá.
+> <span class="emoji">👻</span> ▸ Num [axioma](Axioma){:.w} que aplicais às vossas ciências. Não há efeito sem [causa](Causalidade){:.w}. Procurai a [causa](Causalidade){:.w} de tudo o que não é obra do homem e a vossa [razão](Razão){:.w} responderá.
 
-Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Criação. O [Universo](Universo){:.w} existe, logo, tem uma [causa](Causalidade){:.d}. Duvidar da existência de [Deus](Deus){:.l} é negar que todo efeito tem uma [causa](Causalidade){:.d} e avançar que o nada pôde fazer alguma coisa.
+Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Criação. O [Universo](Universo){:.w} existe, logo, tem uma causa. Duvidar da existência de [Deus](Deus){:.l} é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -533,7 +533,7 @@ Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Cria
 
 Que [dedução](dedução){:.d} se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ A de que [Deus](Deus){:.l} existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem [causa](Causalidade){:.d}.
+> <span class="emoji">👻</span> ▸ A de que [Deus](Deus){:.l} existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem [causa](Causalidade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -553,11 +553,11 @@ Se o sentimento da existência de um ser supremo fosse tão somente produto de u
 
 ###### Q.7 {#q7}
 
-Poder-se-ia achar nas propriedades íntimas da matéria a [causa](Causalidade){:.d} primária da formação das coisas?
+Poder-se-ia achar nas propriedades íntimas da matéria a [causa](Causalidade){:.w} primária da formação das coisas?
 
-> <span class="emoji">👻</span> ▸ Mas, então, qual seria a [causa](Causalidade){:.d} dessas propriedades? É indispensável sempre uma [causa](Causalidade){:.d} primária.
+> <span class="emoji">👻</span> ▸ Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária.
 
-Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela [causa](Causalidade){:.d}, porquanto essas propriedades são, também elas, um efeito que há de ter uma [causa](Causalidade){:.d}.
+Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela [causa](Causalidade){:.w}, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -579,19 +579,19 @@ Um acaso [inteligente](Inteligência){:.w} já não seria acaso.
 
 ###### Q.9 {#q9}
 
-Em que é que, na [causa](Causalidade){:.d} primária, se revela uma [inteligência](Inteligência){:.w} suprema e superior a todas as inteligências?
+Em que é que, na [causa](Causalidade){:.w} primária, se revela uma [inteligência](Inteligência){:.w} suprema e superior a todas as inteligências?
 
 > <span class="emoji">👻</span> ▸ Tendes um provérbio que diz: ‘Pela obra se reconhece o autor.’ Pois bem! Vede a obra e procurai o autor. O [orgulho](Orgulho){:.w} é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de [espírito](Espírito){:.w} forte. Pobre ser, que um sopro de [Deus](Deus){:.l} pode abater!
 
-O poder de uma [inteligência](Inteligência){:.w} se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a [causa](Causalidade){:.d} primária é, conseguintemente, uma [inteligência](Inteligência){:.w} superior à Humanidade.
+O poder de uma [inteligência](Inteligência){:.w} se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a [causa](Causalidade){:.w} primária é, conseguintemente, uma [inteligência](Inteligência){:.w} superior à Humanidade.
 
-Quaisquer que sejam os prodígios que a [inteligência](Inteligência){:.w} humana tenha operado, ela própria tem uma [causa](Causalidade){:.d} e, quanto maior for o que opere, tanto maior há de ser a [causa](Causalidade){:.d} primária. Aquela [inteligência](Inteligência){:.w} superior é que é a [causa](Causalidade){:.d} primária de todas as coisas, seja qual for o nome que lhe deem.
+Quaisquer que sejam os prodígios que a [inteligência](Inteligência){:.w} humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela [inteligência](Inteligência){:.w} superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
-#### <span class="emoji">📄</span> Atributos da[Divindade](Divindade){:.w} {#lde-1-01-03}
+#### <span class="emoji">📄</span> Atributos da Divindade {#lde-1-01-03}
 
 ###### Q.10 {#q10}
 
@@ -605,11 +605,11 @@ Pode o homem compreender a natureza íntima de [Deus](Deus){:.l}?
 
 ###### Q.11 {#q11}
 
-Será dado um dia ao homem compreender o mistério da[Divindade](Divindade){:.w}?
+Será dado um dia ao homem compreender o mistério da [Divindade](Divindade){:.w}?
 
 > <span class="emoji">👻</span> ▸ Quando não mais tiver o [espírito](Espírito){:.w} obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de [Deus](Deus){:.l}, ele o verá e compreenderá.
 
-A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de [Deus](Deus){:.l}. Na [infância](infância){:.d} da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no [âmago](âmago){:.d} das coisas; então, faz ideia mais justa da[Divindade](Divindade){:.w} e, ainda que sempre incompleta, mais conforme a sã razão.
+A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de [Deus](Deus){:.l}. Na [infância](infância){:.d} da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no [âmago](âmago){:.d} das coisas; então, faz ideia mais justa da [Divindade](Divindade){:.w} e, ainda que sempre incompleta, mais conforme a sã razão.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -627,11 +627,11 @@ Embora não possamos compreender a natureza íntima de [Deus](Deus){:.l}, podemo
 
 ###### Q.13 {#q13}
 
-Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infinito){:.w}, imutável,[imaterial](imaterial){:.d}, único,[onipotente](onipotente){:.d}, soberanamente justo e bom, temos ideia completa de seus atributos?
+Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infinito){:.w}, imutável,[imaterial](imaterial){:.d}, único, [onipotente](onipotente){:.d}, soberanamente justo e bom, temos ideia completa de seus atributos?
 
 > <span class="emoji">👻</span> ▸ Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da [inteligência](Inteligência){:.w} do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que [Deus](Deus){:.l} deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, [Deus](Deus){:.l}. Para estar acima de todas as coisas, [Deus](Deus){:.l} tem que se achar [isento](isento){:.d} de qualquer [vicissitude](vicissitude){:.d} e de qualquer das imperfeições que a imaginação possa conceber.
 
-**[Deus](Deus){:.l} é [eterno](eterno){:.d}.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
+**[Deus](Deus){:.l} é [eterno](eterno){:.d}.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à [eternidade](Eternidade){:.w}.
 
 **É imutável.** Se estivesse sujeito a mudanças, as leis que regem o [Universo](Universo){:.w} nenhuma estabilidade teriam.
 
@@ -651,9 +651,9 @@ Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infini
 
 ###### Q.14 {#q14}
 
-[Deus](Deus){:.l} é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do [Universo](Universo){:.w} reunidas?
+[Deus](Deus){:.l} é um ser [distinto](distinto){:.d}, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do [Universo](Universo){:.w} reunidas?
 
-> <span class="emoji">👻</span> ▸ Se fosse assim, [Deus](Deus){:.l} não existiria, porquanto seria efeito e não [causa](Causalidade){:.d}. Ele não pode ser ao mesmo tempo uma e outra coisa. [Deus](Deus){:.l} existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
+> <span class="emoji">👻</span> ▸ Se fosse assim, [Deus](Deus){:.l} não existiria, porquanto seria efeito e não [causa](Causalidade){:.w}. Ele não pode ser ao mesmo tempo uma e outra coisa. [Deus](Deus){:.l} existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não [lograríeis](lograr){:.d} sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -661,9 +661,9 @@ Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infini
 
 ###### Q.15 {#q15}
 
-Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do [Universo](Universo){:.w} seriam partes da[Divindade](Divindade){:.w} e constituiriam, em conjunto, a própria[Divindade](Divindade){:.w}, ou, por outra, que se deve pensar da doutrina panteísta?
+Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do [Universo](Universo){:.w} seriam partes da [Divindade](Divindade){:.w} e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da [doutrina panteísta](Panteísmo){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não podendo fazer-se [Deus](Deus){:.l}, o homem quer ao menos ser uma parte de [Deus](Deus){:.l}.
+> <span class="emoji">👻</span> ▸ Não podendo fazer-se [Deus](Deus){:.l}, o homem quer ao menos ser uma parte de Deus.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -671,19 +671,19 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 
 ###### Q.16 {#q16}
 
-Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de [Deus](Deus){:.l}: Sendo infinitos os mundos, [Deus](Deus){:.l} é, por isso mesmo, [infinito](Infinito){:.w}; não havendo o vazio, ou o nada em parte alguma, [Deus](Deus){:.l} está por toda parte; estando [Deus](Deus){:.l} em toda parte, pois que tudo é parte integrante de [Deus](Deus){:.l}, Ele dá a todos os [fenônemo](fenómeno){:.w} da Natureza uma [razão](Razão){:.w} de ser inteligente. Que se pode opor a este raciocínio?
+Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos [atributos](atributo){:.d} de [Deus](Deus){:.l}: Sendo infinitos os mundos, Deus é, por isso mesmo, [infinito](Infinito){:.w}; não havendo o vazio, ou o [nada](Nada){:.w} em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de [Deus](Deus){:.l}, Ele dá a todos os [fenônemo](fenómeno){:.w} da [Natureza](Natureza){:.w} uma [razão](Razão){:.w} de ser inteligente. Que se pode opor a este raciocínio?
 
 > <span class="emoji">👻</span> ▸ A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.
 
-Esta doutrina faz de [Deus](Deus){:.l} um ser material que, embora dotado de suprema [inteligência](Inteligência){:.w}, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, [Deus](Deus){:.l}, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da[Divindade](Divindade){:.w}: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de [Deus](Deus){:.l}, sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o [Criador](Deus){:.l} com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
+Esta doutrina faz de [Deus](Deus){:.l} um ser material que, embora dotado de suprema [inteligência](Inteligência){:.w}, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as [vicissitudes](vicissitudes){:.d}, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da [Divindade](Divindade){:.w}: a [imutabilidade](imutabilidade){:.d}. Não se podem aliar as propriedades da matéria à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá [sutil](sutil){:.d}ezas de [sofismas](sofisma){:.d} que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em [contradição](contradição){:.d} com as suas mais essenciais propriedades. Ele confunde o [Criador](Deus){:.l} com a criatura, exatamente como o faria quem pretendesse que [engenhosa](engenhoso){:.d} máquina fosse parte integrante do mecânico que a imaginou.
 
-A [inteligência](Inteligência){:.w} de [Deus](Deus){:.l} se revela em suas obras como a de um pintor no seu quadro; mas, as obras de [Deus](Deus){:.l} não são o próprio [Deus](Deus){:.l}, como o quadro não é o pintor que o concebeu e executou.
+A [inteligência](Inteligência){:.w} de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio [Deus](Deus){:.l}, como o quadro não é o pintor que o concebeu e executou.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
 </details>
 
-### 1-02. <span class="emoji">🗂️</span> Elementos gerais do [Universo](Universo){:.w} {#lde-1-02}
+### 1-02. <span class="emoji">🗂️</span> Elementos gerais do Universo {#lde-1-02}
 
 #### <span class="emoji">📄</span> Conhecimento do princípio das coisas {#lde-1-02-01}
 
@@ -701,7 +701,7 @@ A [inteligência](Inteligência){:.w} de [Deus](Deus){:.l} se revela em suas obr
 
 Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
-> <span class="emoji">👻</span> ▸ O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
+> <span class="emoji">👻</span> ▸ O véu se levanta a seus olhos, à medida que ele se [depura](depurar){:.d}; mas, para compreender certas coisas, são-lhe precisas [faculdades](faculdade){:.d} que ainda não possui.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -713,7 +713,7 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 
 > <span class="emoji">👻</span> ▸ A [Ciência](Ciência){:.w} lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que [Deus](Deus){:.l} estabeleceu.
 
-Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](Sabedoria){:.w} do [Criador](Deus){:.l} . Entretanto, seja por [orgulho](Orgulho){:.w}, seja por fraqueza, sua própria [inteligência](Inteligência){:.w} o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu [orgulho](Orgulho){:.w}.
+Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](Sabedoria){:.w} do [Criador](Deus){:.l} . Entretanto, seja por [orgulho](Orgulho){:.w}, seja por fraqueza, sua própria [inteligência](Inteligência){:.w} o faz [joguete](joguete){:.d} da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas [decepções](decepção){:.d} para o seu [orgulho](Orgulho){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -721,9 +721,9 @@ Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração
 
 ###### Q.20 {#q20}
 
-Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
+Dado é ao homem receber, sem ser por meio das investigações da [Ciência](Ciência){:.w}, comunicações de ordem mais elevada acerca do que lhe escapa ao [testemunho](testemunho){:.d} dos sentidos?
 
-> <span class="emoji">👻</span> ▸ Sim, se o julgar conveniente, [Deus](Deus){:.l} pode revelar o que à [Ciência](Ciência){:.w} não é dado apreender.
+> <span class="emoji">👻</span> ▸ Sim, se o julgar conveniente, [Deus](Deus){:.l} pode revelar o que à Ciência não é dado apreender.
 
 Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
 
@@ -735,15 +735,15 @@ Por essas comunicações é que o homem adquire, dentro de certos limites, o con
 
 ###### Q.21 {#q21}
 
-A matéria existe desde toda a eternidade, como [Deus](Deus){:.l}, ou foi criada por Ele em dado momento?
+A matéria existe desde toda a [eternidade](Eternidade){:.w}, como [Deus](Deus){:.l}, ou foi criada por Ele em dado momento?
 
-> <span class="emoji">👻</span> ▸ Só [Deus](Deus){:.l} o sabe. Há uma coisa, todavia, que a [razão](Razão){:.w} vos deve indicar: é que [Deus](Deus){:.l}, modelo de [amor](Amor){:.w} e [caridade](caridade){:.l}, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?
+> <span class="emoji">👻</span> ▸ Só [Deus](Deus){:.l} o sabe. Há uma coisa, todavia, que a [razão](Razão){:.w} vos deve indicar: é que Deus, modelo de [amor](Amor){:.w} e [caridade](caridade){:.l}, nunca esteve inativo. Por mais distante que [logreis](lograr){:.d} figurar o início de sua ação, podereis concebê-lo [ocioso](ocioso){:.d}, um momento que seja?
 
 ###### Q.22 {#q22}
 
 Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
-> <span class="emoji">👻</span> ▸ Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
+> <span class="emoji">👻</span> ▸ Do vosso [ponto de vista](Ponto_de_vista_(filosofia)){:.w}, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão [etérea](etéreo){:.d} e [sutil](sutil){:.d}, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -775,7 +775,7 @@ Que é o espírito?
 
 Qual a natureza íntima do espírito?
 
-> <span class="emoji">👻</span> ▸ Não é fácil analisar o [espírito](Espírito){:.w} com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
+> <span class="emoji">👻</span> ▸ Não é fácil analisar o [espírito](Espírito){:.w} com a vossa linguagem. Para vós, ele nada é, por não ser [palpável](palpável){:.d}. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o [nada](nada){:.d} e o nada não existe.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -785,7 +785,7 @@ Qual a natureza íntima do espírito?
 
 É o [espírito](Espírito){:.w} sinônimo de [inteligência](Inteligência){:.w}?
 
-> <span class="emoji">👻</span> ▸ A [inteligência](Inteligência){:.w} é um [atributo](atributo){:.d} essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
+> <span class="emoji">👻</span> ▸ A [inteligência](Inteligência){:.w} é um [atributo](atributo){:.d} essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de [sorte](Sorte){:.w} que, para vós, são a mesma coisa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -795,7 +795,7 @@ Qual a natureza íntima do espírito?
 
 O [espírito](Espírito){:.w} independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
-> <span class="emoji">👻</span> ▸ São distintos uma do outro; mas a união do [espírito](Espírito){:.w} e da matéria é necessária para intelectualizar a matéria.
+> <span class="emoji">👻</span> ▸ São [distintos](distinto){:.d} uma do outro; mas a união do [espírito](Espírito){:.w} e da matéria é necessária para intelectualizar a matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -815,7 +815,7 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 
 Poder-se-á conceber o [espírito](Espírito){:.w} sem a matéria e a matéria sem o espírito?
 
-> <span class="emoji">👻</span> ▸ Pode-se, é fora de dúvida, pelo pensamento.
+> <span class="emoji">👻</span> ▸ Pode-se, é fora de dúvida, pelo [pensamento](Pensamento){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -825,7 +825,7 @@ Poder-se-á conceber o [espírito](Espírito){:.w} sem a matéria e a matéria s
 
 Há então dois elementos gerais do [Universo](Universo){:.w}: a matéria e o espírito?
 
-> <span class="emoji">👻</span> ▸ Sim e acima de tudo [Deus](Deus){:.l}, o [Criador](Deus){:.l} , o Pai de todas as coisas. [Deus](Deus){:.l}, [espírito](Espírito){:.w} e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o [espírito](Espírito){:.w} e a matéria propriamente dita, por demais grosseira para que o [espírito](Espírito){:.w} possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão](Razão){:.w} não haveria para que também o [espírito](Espírito){:.w} não o fosse. Está colocado entre o [espírito](Espírito){:.w} e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o [espírito](Espírito){:.w} se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
+> <span class="emoji">👻</span> ▸ Sim e acima de tudo [Deus](Deus){:.l}, o Criador, o Pai de todas as coisas. Deus, [espírito](Espírito){:.w} e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja [lícito](lícito){:.d} classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão](Razão){:.w} não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e [suscetível](suscetível){:.d}, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou [primitivo](primitivo){:.d}, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em [perpétuo](perpétuo){:.d} estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -835,7 +835,7 @@ Há então dois elementos gerais do [Universo](Universo){:.w}: a matéria e o es
 
 Esse fluido será o que designamos pelo nome de eletricidade?
 
-> <span class="emoji">👻</span> ▸ Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
+> <span class="emoji">👻</span> ▸ Dissemos que ele é [suscetível](suscetível){:.d} de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais [sutil](sutil){:.d} e que se pode considerar independente.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -845,9 +845,9 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 
 Pois que o [espírito](Espírito){:.w} é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
-> <span class="emoji">👻</span> ▸ As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.
+> <span class="emoji">👻</span> ▸ As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas [controvérsias](controvérsias){:.d} provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.
 
-Um fato patente domina todas as hipóteses: vemos matéria destituída de [inteligência](Inteligência){:.w} e vemos um princípio [inteligente](Inteligência){:.w} que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a [inteligência](Inteligência){:.w} tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da[Divindade](Divindade){:.w}, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do [Universo](Universo){:.w}. Vemos acima de tudo isso uma [inteligência](Inteligência){:.w} que domina todas as outras, que as governa, que se distingue delas por atributos essenciais
+Um fato patente domina todas as [hipóteses](hipótese){:.d}: vemos matéria destituída de [inteligência](Inteligência){:.w} e vemos um princípio [inteligente](Inteligência){:.w} que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a [inteligência](Inteligência){:.w} tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da [Divindade](Divindade){:.w}, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do [Universo](Universo){:.w}. Vemos acima de tudo isso uma [inteligência](Inteligência){:.w} que domina todas as outras, que as governa, que se distingue delas por atributos essenciais
 
 A essa [inteligência](Inteligência){:.w} suprema é que chamamos [Deus](Deus){:.l}.
 
@@ -861,15 +861,15 @@ A essa [inteligência](Inteligência){:.w} suprema é que chamamos [Deus](Deus){
 
 A ponderabilidade é um [atributo](atributo){:.d} essencial da matéria?
 
-> <span class="emoji">👻</span> ▸ Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.
+> <span class="emoji">👻</span> ▸ Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria [etérea](etéreo){:.d} e [sutil](sutil){:.d} que constitui esse fluido vos é [imponderável](imponderável){:.d}. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.
 
-A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo
+A [gravidade](Gravidade){:.w} é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo
 
 ###### Q.30 {#q30}
 
 A matéria é formada de um só ou de muitos elementos?
 
-> <span class="emoji">👻</span> ▸ De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
+> <span class="emoji">👻</span> ▸ De um só elemento [primitivo](primitivo){:.d}. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -879,7 +879,7 @@ A matéria é formada de um só ou de muitos elementos?
 
 Donde se originam as diversas propriedades da matéria?
 
-> <span class="emoji">👻</span> ▸ São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
+> <span class="emoji">👻</span> ▸ São modificações que as [moléculas](Molécula){:.w} elementares sofrem, por efeito da sua união, em certas circunstâncias.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -887,7 +887,7 @@ Donde se originam as diversas propriedades da matéria?
 
 ###### Q.32 {#q32}
 
-De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
+De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou [salutares](salutar){:.d} dos corpos não passam de modificações de uma única substância primitiva?
 
 > <span class="emoji">👻</span> ▸ Sem [dúvida](Dúvida){:.w} e que só existem devido à disposição dos órgãos destinados a percebê-las.
 
@@ -899,11 +899,11 @@ A demonstração deste princípio se encontra no fato de que nem todos percebemo
 
 ###### Q.33 {#q33}
 
-A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
+A mesma matéria elementar é [suscetível](suscetível){:.d} de experimentar todas as modificações e de adquirir todas as propriedades?
 
 > <span class="emoji">👻</span> ▸ Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo! [^6]
 
-O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
+O oxigênio, o hidrogênio, o [azoto](azoto){:.d}, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -913,7 +913,7 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 
 Não parece que esta teoria dá [razão](Razão){:.w} aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
-> <span class="emoji">👻</span> ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
+> <span class="emoji">👻</span> ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo [opaco](opaco){:.d}, que pode tornar-se transparente e vice-versa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -947,7 +947,7 @@ O Espaço universal é [infinito](Infinito){:.w} ou limitado?
 
 > <span class="emoji">👻</span> ▸ Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a [razão](Razão){:.w} te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo.
 
-Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a [razão](Razão){:.w} diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
+Supondo-se um limite ao [Espaço](Espaço_sideral){:.w}, por mais distante que a imaginação o coloque, a [razão](Razão){:.w} diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o [vazio](Vazio_(astronomia)){:.w} absoluto, ainda seria Espaço.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -955,9 +955,9 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 
 ###### Q.36 {#q36}
 
-O vácuo absoluto existe em alguma parte no Espaço universal?
+O [vácuo](vácuo){:.d} absoluto existe em alguma parte no Espaço universal?
 
-> <span class="emoji">👻</span> ▸ Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
+> <span class="emoji">👻</span> ▸ Não, não há o vácuo. O que te parece [vazio](Vazio_(astronomia)){:.w} está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -972,11 +972,11 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 
 ###### Q.37 {#q37}
 
-O [Universo](Universo){:.w} foi criado, ou existe de toda a eternidade, como [Deus](Deus){:.l}?
+O [Universo](Universo){:.w} foi criado, ou existe de toda a [eternidade](Eternidade){:.w}, como [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ É fora de [dúvida](Dúvida){:.w} que ele não pode ter-se feito a si mesmo. Se existisse, como [Deus](Deus){:.l}, de toda a eternidade, não seria obra de [Deus](Deus){:.l}.
+> <span class="emoji">👻</span> ▸ É fora de [dúvida](Dúvida){:.w} que ele não pode ter-se feito a si mesmo. Se existisse, como [Deus](Deus){:.l}, de toda a eternidade, não seria obra de Deus.
 
-Diz-nos a [razão](Razão){:.w} não ser possível que o [Universo](Universo){:.w} se tenha feito a si mesmo e que, não podendo também ser obra do [acaso](acaso){:.d}, há de ser obra de [Deus](Deus){:.l}.
+Diz-nos a [razão](Razão){:.w} não ser possível que o [Universo](Universo){:.w} se tenha feito a si mesmo e que, não podendo também ser obra do [acaso](acaso){:.d}, há de ser obra de Deus.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -986,15 +986,15 @@ Diz-nos a [razão](Razão){:.w} não ser possível que o [Universo](Universo){:.
 
 Como criou [Deus](Deus){:.l} o [Universo](Universo){:.w}?
 
-> <span class="emoji">👻</span> ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa [vontade](Vontade){:.w}[onipotente](onipotente){:.d} do que estas belas palavras:
+> <span class="emoji">👻</span> ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa [vontade](Vontade){:.w} [onipotente](onipotente){:.d} do que estas belas palavras:
 >
-> <span class="emoji">✝️</span> ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC]
+> <span class="emoji">✝️</span> ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC][ARC])
 
 ###### Q.39 {#q39}
 
 Poderemos conhecer o modo de formação dos mundos?
 
-> <span class="emoji">👻</span> ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
+> <span class="emoji">👻</span> ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela [condensação](condensação){:.d} da matéria disseminada no Espaço.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1002,9 +1002,9 @@ Poderemos conhecer o modo de formação dos mundos?
 
 ###### Q.40 {#q40}
 
-Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
+Serão os [cometas](Cometa){:.w}, como agora se pensa, um começo de [condensação](condensação){:.d} da matéria, mundos em via de formação?
 
-> <span class="emoji">👻</span> ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos [fenônemo](fenómeno){:.w} físicos.
+> <span class="emoji">👻</span> ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os [corpos celestes](Objeto_astronômico){:.w} influem de algum modo em certos [fenônemo](fenómeno){:.w} físicos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1022,7 +1022,7 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 
 ###### Q.42 {#q42}
 
-Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
+Poder-se-á conhecer o tempo que dura a formação dos mundos: da [Terra](Terra){:.w}, por exemplo?
 
 > <span class="emoji">👻</span> ▸ Nada te posso dizer a respeito, porque só o [Criador](Deus){:.l} o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 
@@ -1036,7 +1036,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 
 Quando começou a [Terra](Terra){:.w} a ser povoada?
 
-> <span class="emoji">👻</span> ▸ No começo tudo era caos; os elementos estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
+> <span class="emoji">👻</span> ▸ No começo tudo era caos; os [elementos](Elemento_(química)){:.w} estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1046,7 +1046,7 @@ Quando começou a [Terra](Terra){:.w} a ser povoada?
 
 Donde vieram para a [Terra](Terra){:.w} os seres vivos?
 
-> <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
+> <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de [inércia](inércia){:.d}, como a [crisálida](Crisálida){:.w} e as sementes das plantas, até o momento [propício](propício){:.d} ao [surto](surto){:.d} de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1222,7 +1222,7 @@ A objeção que se lhe pode fazer é a de estar em contradição com o texto dos
 
 Diz também a **Bíblia** que o mundo foi criado em seis dias e põe a época da sua criação há quatro mil anos, mais ou menos, antes da Era Cristã. Anteriormente, a [Terra](Terra){:.w} não existia; foi tirada do nada: o texto é formal. Eis, porém, que a [Ciência](Ciência){:.w} positiva, a inexorável Ciência, prova o contrário. A história da formação do globo terráqueo está escrita em caracteres irrecusáveis no mundo fóssil, achando-se provado que os seis dias da criação indicam outros tantos períodos, cada um de, talvez, muitas centenas de milhares de anos. Isto não é um sistema, uma doutrina, uma opinião isolada; é um fato tão certo como o do movimento da [Terra](Terra){:.w} e que a Teologia não pode negar-se a admitir, o que demonstra evidentemente o erro em que se está sujeito a cair tomando ao [pé da letra](ao_pé_da_letra){:.d} expressões de uma linguagem frequentemente figurada. Dever-se-á daí concluir que a **Bíblia** é um erro? Não; a conclusão a tirar-se é que os homens se equivocaram ao interpretá-la.
 
-Escavando os arquivos da Terra, a [Ciência](Ciência){:.w} descobriu em que ordem os seres vivos lhe apareceram na superfície, ordem que está de acordo com o que diz em **Gênesis**, havendo apenas a notar-se a diferença de que essa obra, em vez de executada milagrosamente por [Deus](Deus){:.l} em algumas horas, se realizou, sempre pela sua vontade, mas conforme a lei das forças da Natureza, em alguns milhões de anos. Ficou sendo [Deus](Deus){:.l}, por isso, menor e menos poderoso? Perdeu em sublimidade a sua obra, por não ter o prestígio da instantaneidade? Indubitavelmente, não. Fora mister fazer-se da[Divindade](Divindade){:.w} bem mesquinha idéia, para se não reconhecer a sua onipotência nas leis eternas que ela estabeleceu para regerem os mundos. A Ciência, longe de apoucar a obra divina, no-la mostra sob aspecto mais grandioso e mais acorde com as noções que temos do poder e da majestade de [Deus](Deus){:.l}, pela [razão](Razão){:.w} mesma de ela se haver efetuado sem derrogação das Leis da Natureza.
+Escavando os arquivos da Terra, a [Ciência](Ciência){:.w} descobriu em que ordem os seres vivos lhe apareceram na superfície, ordem que está de acordo com o que diz em **Gênesis**, havendo apenas a notar-se a diferença de que essa obra, em vez de executada milagrosamente por [Deus](Deus){:.l} em algumas horas, se realizou, sempre pela sua vontade, mas conforme a lei das forças da Natureza, em alguns milhões de anos. Ficou sendo [Deus](Deus){:.l}, por isso, menor e menos poderoso? Perdeu em sublimidade a sua obra, por não ter o prestígio da instantaneidade? Indubitavelmente, não. Fora mister fazer-se da [Divindade](Divindade){:.w} bem mesquinha idéia, para se não reconhecer a sua onipotência nas leis eternas que ela estabeleceu para regerem os mundos. A Ciência, longe de apoucar a obra divina, no-la mostra sob aspecto mais grandioso e mais acorde com as noções que temos do poder e da majestade de [Deus](Deus){:.l}, pela [razão](Razão){:.w} mesma de ela se haver efetuado sem derrogação das Leis da Natureza.
 
 De acordo, neste ponto, com Moisés, a [Ciência](Ciência){:.w} coloca o homem em último lugar na ordem da criação dos seres vivos. Moisés, porém, indica, como o do dilúvio universal, o ano 1654 [^7] da formação do mundo, ao passo que a Geologia nos aponta o grande cataclismo como anterior ao aparecimento do homem, atendendo a que, até hoje, não se encontrou, nas camadas primitivas, traço algum de sua presença, nem da dos animais de igual categoria, do ponto de vista físico. Contudo, nada prova que isso seja impossível. Muitas descobertas já fizeram surgir dúvidas a tal respeito. Pode dar-se que, de um momento para outro, se adquira a certeza material da anterioridade da raça humana e então se reconhecerá que, a esse propósito, como a tantos outros, o texto bíblico encerra uma figura. A questão está em saber se o cataclismo geológico é o mesmo a que assistiu Noé. Ora, o tempo necessário à formação das camadas fósseis não permite confundi-los e, desde que se achem vestígios da existência do homem antes da grande catástrofe, provado ficará, ou que Adão não foi o primeiro homem, ou que a sua criação se perde na noite dos tempos. Contra a evidência não há raciocínios possíveis; forçoso será aceitar-se esse fato, como se aceitaram o do movimento da [Terra](Terra){:.w} e os seis períodos da Criação.
 
@@ -1265,7 +1265,7 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 
 ###### Q.62 {#q62}
 
-Qual a [causa](Causalidade){:.d} da animalização da matéria?
+Qual a [causa](Causalidade){:.w} da animalização da matéria?
 
 > <span class="emoji">👻</span> ▸ Sua união com o princípio vital.
 
@@ -1275,7 +1275,7 @@ Qual a [causa](Causalidade){:.d} da animalização da matéria?
 
 ###### Q.63 {#q63}
 
-O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou [causa](Causalidade){:.d}?
+O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou [causa](Causalidade){:.w}?
 
 > <span class="emoji">👻</span> ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
 
@@ -1287,7 +1287,7 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 
 Vimos que o [espírito](Espírito){:.w} e a matéria são dois elementos constitutivos do [Universo](Universo){:.w}. O princípio vital será um terceiro?
 
-> <span class="emoji">👻</span> ▸ É, sem dúvida, um dos elementos necessários à constituição do [Universo](Universo){:.w}, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio. 
+> <span class="emoji">👻</span> ▸ É, sem dúvida, um dos elementos necessários à constituição do [Universo](Universo){:.w}, mas que também tem sua origem na matéria universal modificada. É, para vós, um [elemento](Elemento_(química)){:.w}, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q680">Q.680</a>
@@ -1345,7 +1345,7 @@ O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão
 
 ###### Q.68 {#q68}
 
-Qual a [causa](Causalidade){:.d} da [morte](Morte){:.w} dos seres orgânicos?
+Qual a [causa](Causalidade){:.w} da [morte](Morte){:.w} dos seres orgânicos?
 
 > <span class="emoji">👻</span> ▸ Esgotamento dos órgãos.
 
@@ -1365,7 +1365,7 @@ Poder-se-ia comparar a [morte](Morte){:.w} à cessação do movimento de uma má
 
 ###### Q.69 {#q69}
 
-Por que uma lesão do coração mais depressa [causa](Causalidade){:.d} a [morte](Morte){:.w} do que as de outros órgãos?
+Por que uma lesão do coração mais depressa [causa](Causalidade){:.w} a [morte](Morte){:.w} do que as de outros órgãos?
 
 > <span class="emoji">👻</span> ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
 
@@ -1383,9 +1383,9 @@ Morto o ser orgânico, os elementos que o compõem sofrem novas combinações, d
 
 Os órgãos se impregnam, por assim dizer, desse fluido vital e esse fluido dá a todas as partes do organismo uma atividade que as põe em comunicação entre si, nos casos de certas lesões, e normaliza as funções momentaneamente perturbadas. Mas quando os elementos essenciais ao funcionamento dos órgãos estão destruídos ou muito profundamente alterados, o fluido vital se torna impotente para lhes transmitir o movimento da vida, e o ser morre.
 
-Mais ou menos necessariamente, os órgãos reagem uns sobre os outros, resultando essa ação recíproca da [harmonia](harmonia){:.d} do conjunto por eles formado. Destruída que seja, por uma [causa](Causalidade){:.d} qualquer, esta [harmonia](harmonia){:.d}, o funcionamento dos órgãos cessa, como o movimento da máquina cujas peças principais se desarranjem. É o que se verifica, por exemplo, com um relógio gasto pelo uso ou que sofreu um choque por acidente, no qual a força motriz fica impotente para pô-lo de novo a andar.
+Mais ou menos necessariamente, os órgãos reagem uns sobre os outros, resultando essa ação recíproca da [harmonia](harmonia){:.d} do conjunto por eles formado. Destruída que seja, por uma [causa](Causalidade){:.w} qualquer, esta [harmonia](harmonia){:.d}, o funcionamento dos órgãos cessa, como o movimento da máquina cujas peças principais se desarranjem. É o que se verifica, por exemplo, com um relógio gasto pelo uso ou que sofreu um choque por acidente, no qual a força motriz fica impotente para pô-lo de novo a andar.
 
-Num aparelho elétrico temos imagem mais exata da vida e da morte. Esse aparelho, como todos os corpos da Natureza, contém [eletricidade](Eletricidade){:.w} em estado latente. Os [fenônemo](fenómeno){:.w} elétricos, porém, não se produzem senão quando o fluido é posto em atividade por uma [causa](Causalidade){:.d} especial. Poder-se-ia então dizer que o aparelho está vivo. Vindo a cessar a [causa](Causalidade){:.d} da atividade, cessa o [fenômeno](Fenómeno){:.w}: o aparelho volta ao estado de inércia. Os corpos orgânicos são, assim, uma espécie de pilhas ou aparelhos elétricos, nos quais a atividade do fluido determina o [fenômeno](Fenómeno){:.w} da vida. A cessação dessa atividade [causa](Causalidade){:.d} a morte.
+Num aparelho elétrico temos imagem mais exata da vida e da morte. Esse aparelho, como todos os corpos da Natureza, contém [eletricidade](Eletricidade){:.w} em estado latente. Os [fenônemo](fenómeno){:.w} elétricos, porém, não se produzem senão quando o fluido é posto em atividade por uma [causa](Causalidade){:.w} especial. Poder-se-ia então dizer que o aparelho está vivo. Vindo a cessar a causa da atividade, cessa o [fenômeno](Fenómeno){:.w}: o aparelho volta ao estado de [inércia](inércia){:.d}. Os corpos orgânicos são, assim, uma espécie de pilhas ou aparelhos elétricos, nos quais a atividade do fluido determina o [fenômeno](Fenómeno){:.w} da vida. A cessação dessa atividade causa a morte.
 
 A quantidade de fluido vital não é absoluta em todos os seres orgânicos. Varia segundo as espécies e não é constante, quer em cada indivíduo, quer nos indivíduos de uma espécie. Alguns há, que se acham, por assim dizer, saturados desse fluido, enquanto outros o possuem em quantidade apenas suficiente. Daí, para alguns, vida mais ativa, mais tenaz e, de certo modo, superabundante.
 
@@ -1503,7 +1503,7 @@ Que definição se pode dar dos [Espíritos](Espírito){:.w}?
 
 ###### Q.77 {#q77}
 
-Os [Espíritos](Espírito){:.w} são seres distintos da[Divindade](Divindade){:.w} ou serão simples emanações ou porções desta e, por isto, denominados filhos de [Deus](Deus){:.l}?
+Os [Espíritos](Espírito){:.w} são seres distintos da [Divindade](Divindade){:.w} ou serão simples emanações ou porções desta e, por isto, denominados filhos de [Deus](Deus){:.l}?
 
 > <span class="emoji">👻</span> ▸ Meu [Deus](Deus){:.l}! São obra de [Deus](Deus){:.l}, exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a [Deus](Deus){:.l}: somos seus filhos, pois que somos obra sua.
 
@@ -1513,7 +1513,7 @@ Os [Espíritos](Espírito){:.w} são seres distintos da[Divindade](Divindade){:.
 
 ###### Q.78 {#q78}
 
-Os [Espíritos](Espírito){:.w} tiveram princípio ou existem, como [Deus](Deus){:.l}, de toda a eternidade?
+Os [Espíritos](Espírito){:.w} tiveram princípio ou existem, como [Deus](Deus){:.l}, de toda a [eternidade](Eternidade){:.w}?
 
 > <span class="emoji">👻</span> ▸ Se não tivessem tido princípio, seriam iguais a [Deus](Deus){:.l}, quando, ao invés, são criação sua e se acham submetidos à sua vontade. [Deus](Deus){:.l} existe de toda a eternidade, é incontestável. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo [eterno](eterno){:.d}, [Deus](Deus){:.l} há de ter sempre criado ininterruptamente. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério.
 
@@ -1555,7 +1555,7 @@ Os [Espíritos](Espírito){:.w} se formam espontaneamente ou procedem uns dos ou
 
 Será certo dizer-se que os [Espíritos](Espírito){:.w} são imateriais?
 
-> <span class="emoji">👻</span> ▸ Como se pode definir uma coisa, quando faltam termos de comparação e com uma linguagem deficiente? Pode um cego de nascença definir a luz? Imaterial não é bem o termo; incorpóreo seria mais exato, pois deves compreender que, sendo uma criação, o [Espírito](Espírito){:.w} há de ser alguma coisa. É a matéria quintessenciada, mas sem analogia para vós outros, e tão etérea que escapa inteiramente ao alcance dos vossos sentidos.
+> <span class="emoji">👻</span> ▸ Como se pode definir uma coisa, quando faltam termos de comparação e com uma linguagem deficiente? Pode um cego de nascença definir a luz? Imaterial não é bem o termo; incorpóreo seria mais exato, pois deves compreender que, sendo uma criação, o [Espírito](Espírito){:.w} há de ser alguma coisa. É a matéria quintessenciada, mas sem analogia para vós outros, e tão [etérea](etéreo){:.d} que escapa inteiramente ao alcance dos vossos sentidos.
 
 Dizemos que os [Espíritos](Espírito){:.w} são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
 
@@ -1565,7 +1565,7 @@ Dizemos que os [Espíritos](Espírito){:.w} são imateriais, porque, pela sua es
 
 ###### Q.83 {#q83}
 
-Os [Espíritos](Espírito){:.w} têm fim? Compreende-se que seja [eterno](eterno){:.d} o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
+Os [Espíritos](Espírito){:.w} têm fim? Compreende-se que seja [eterno](eterno){:.d} o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o [elemento](Elemento_(química)){:.w} de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 
 > Há muitas coisas que não compreendeis, porque tendes limitada a [inteligência](Inteligência){:.w}. Isso, porém, não é [razão](Razão){:.w} para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos [Espíritos](Espírito){:.w} não tem fim. É tudo o que podemos, por agora, dizer.
 
@@ -1621,7 +1621,7 @@ Ocupam os [Espíritos](Espírito){:.w} uma região determinada e circunscrita no
 
 Os [Espíritos](Espírito){:.w} têm forma determinada, limitada e constante?
 
-> <span class="emoji">👻</span> ▸ Para vós, não; para nós, sim. O [Espírito](Espírito){:.w} é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
+> <span class="emoji">👻</span> ▸ Para vós, não; para nós, sim. O [Espírito](Espírito){:.w} é, se quiserdes, uma chama, um clarão, ou uma centelha [etérea](etéreo){:.d}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1875,7 +1875,7 @@ Sétima classe. [Espíritos](Espírito){:.w} neutros. — Nem bastante bons para
 
 ###### Q.106 {#q106}
 
-Sexta classe. [Espíritos](Espírito){:.w} batedores e perturbadores. — Estes [Espíritos](Espírito){:.w}, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses [fenônemo](fenómeno){:.w} não derivam de uma [causa](Causalidade){:.d} [fortuita](fortuito){:.d} ou física, quando denotam caráter intencional e inteligente.
+Sexta classe. [Espíritos](Espírito){:.w} batedores e perturbadores. — Estes [Espíritos](Espírito){:.w}, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses [fenônemo](fenómeno){:.w} não derivam de uma [causa](Causalidade){:.w} [fortuita](fortuito){:.d} ou física, quando denotam caráter intencional e inteligente.
 
 Todos os [Espíritos](Espírito){:.w} podem produzir tais [fenômenos](fenómeno){:.d}, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da [inteligência](Inteligência){:.w}; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
 
@@ -2044,7 +2044,7 @@ Por que alguns [Espíritos](Espírito){:.w} seguiram o caminho do bem e outros o
 
 Como podem os [Espíritos](Espírito){:.w}, em sua origem, quando ainda não têm [consciência](Consciência){:.w} de si mesmos, gozar da liberdade de escolha entre o bem e o mal? Há neles algum princípio, qualquer tendência que os encaminhe para uma senda de preferência a outra?
 
-> <span class="emoji">👻</span> ▸ O livre-arbítrio se desenvolve à medida que o [Espírito](Espírito){:.w} adquire a [consciência](Consciência){:.w} de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma [causa](Causalidade){:.d} independente da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}. A [causa](Causalidade){:.d} não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
+> <span class="emoji">👻</span> ▸ O livre-arbítrio se desenvolve à medida que o [Espírito](Espírito){:.w} adquire a [consciência](Consciência){:.w} de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma [causa](Causalidade){:.w} independente da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -2094,7 +2094,7 @@ Pois que há [Espíritos](Espírito){:.w} que desde o princípio seguem o caminh
 
 Os [Espíritos](Espírito){:.w} que enveredaram pela senda do mal poderão chegar ao mesmo grau de superioridade que os outros?
 
-> <span class="emoji">👻</span> ▸ Sim; mas **as eternidades** lhes serão mais longas.
+> <span class="emoji">👻</span> ▸ Sim; mas **as [eternidade](Eternidade){:.w}s** lhes serão mais longas.
 
 Por estas palavras – **as eternidades** – se deve entender a ideia que os [Espíritos](Espírito){:.w} inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
 
@@ -2153,7 +2153,7 @@ Os [anjos](Anjo){:.w} hão percorrido todos os graus da escala?
 
 Sendo errônea a opinião dos que admitem a existência de seres criados perfeitos e superiores a todas as outras criaturas, como se explica que essa crença esteja na tradição de quase todos os povos?
 
-> <span class="emoji">👻</span> ▸ Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia [Espíritos](Espírito){:.w} que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
+> <span class="emoji">👻</span> ▸ Fica sabendo que o mundo onde te achas não existe de toda a [eternidade](Eternidade){:.w} e que, muito tempo antes que ele existisse, já havia [Espíritos](Espírito){:.w} que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a>
@@ -2167,7 +2167,7 @@ Há demônios, no sentido que se dá a esta palavra?
 
 A palavra **demônio** não implica a ideia de [Espírito](Espírito){:.w} mau, senão na sua [acepção](acepção){:.d} moderna, porquanto o termo grego **daïmon**, donde ela derivou, significa **gênio**, [inteligência](Inteligência){:.w} e se aplicava aos seres incorpóreos, bons ou maus, indistintamente.
 
-Por demônios, segundo a [acepção](acepção){:.d} vulgar da palavra, se entendem seres essencialmente malfazejos. Como todas as coisas, eles teriam sido criados por [Deus](Deus){:.l}. Ora, [Deus](Deus){:.l}, que é soberanamente justo e bom, não pode ter criado seres prepostos, por sua natureza, ao mal e condenados por toda a eternidade. Se não fossem obra de [Deus](Deus){:.l}, existiriam, como Ele, desde toda a eternidade, ou então haveria muitas potências soberanas.
+Por demônios, segundo a [acepção](acepção){:.d} vulgar da palavra, se entendem seres essencialmente malfazejos. Como todas as coisas, eles teriam sido criados por [Deus](Deus){:.l}. Ora, [Deus](Deus){:.l}, que é soberanamente justo e bom, não pode ter criado seres prepostos, por sua natureza, ao mal e condenados por toda a [eternidade](Eternidade){:.w}. Se não fossem obra de [Deus](Deus){:.l}, existiriam, como Ele, desde toda a eternidade, ou então haveria muitas potências soberanas.
 
 A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de [Deus](Deus){:.l}, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de [Deus](Deus){:.l} suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do [Cristo](Cristo){:.w}. Não seremos nós quem conteste a [autoridade](Autoridade){:.w} de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao [pé da letra](ao_pé_da_letra){:.d} tudo o que o [Evangelho](Evangelho){:.l} contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 
@@ -2178,9 +2178,9 @@ A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no
 
 Não temos visto a [Ciência](Ciência){:.w} contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o [Cristo](Cristo){:.w}, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 
-Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram na existência de seres perfeitos desde toda a eternidade, tomaram os [Espíritos](Espírito){:.w} inferiores por seres perpetuamente maus. Por demônios se devem entender os [Espíritos](Espírito){:.w} impuros, que muitas vezes não valem mais do que as entidades designadas por esse nome, mas com a diferença de ser transitório o estado deles. São [Espíritos](Espírito){:.w} imperfeitos, que se rebelam contra as provas que lhes tocam e que, por isso, as sofrem mais longamente, porém, que, a seu turno, chegarão a sair daquele estado, quando o quiserem. Poder-se-ia, pois, aceitar o termo demônio com esta restrição. Como o entendem atualmente, dando-se-lhe um sentido exclusivo, ele induziria em erro, com o fazer crer na existência de seres especiais criados para o mal.
+Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram na existência de seres perfeitos desde toda a [eternidade](Eternidade){:.w}, tomaram os [Espíritos](Espírito){:.w} inferiores por seres perpetuamente maus. Por demônios se devem entender os [Espíritos](Espírito){:.w} impuros, que muitas vezes não valem mais do que as entidades designadas por esse nome, mas com a diferença de ser transitório o estado deles. São [Espíritos](Espírito){:.w} imperfeitos, que se rebelam contra as provas que lhes tocam e que, por isso, as sofrem mais longamente, porém, que, a seu turno, chegarão a sair daquele estado, quando o quiserem. Poder-se-ia, pois, aceitar o termo demônio com esta restrição. Como o entendem atualmente, dando-se-lhe um sentido exclusivo, ele induziria em erro, com o fazer crer na existência de seres especiais criados para o mal.
 
-Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a[Divindade](Divindade){:.w} e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](Verdade){:.w} etc. Os modernos representaram os anjos, os puros [Espíritos](Espírito){:.w}, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao [pé da letra](ao_pé_da_letra){:.d}, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
+Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a [Divindade](Divindade){:.w} e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](Verdade){:.w} etc. Os modernos representaram os anjos, os puros [Espíritos](Espírito){:.w}, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao [pé da letra](ao_pé_da_letra){:.d}, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Anjo, alegoria representativa de <a href="#anjo">↩️</a><br>
@@ -2370,7 +2370,7 @@ Que se deve pensar da teoria da [alma](Alma){:.l} subdividida em tantas partes q
 
 Entretanto, alguns [Espíritos](Espírito){:.w} deram essa definição.
 
-> <span class="emoji">👻</span> ▸ Os [Espíritos](Espírito){:.w} ignorantes podem tomar o efeito pela [causa](Causalidade){:.d}.
+> <span class="emoji">👻</span> ▸ Os [Espíritos](Espírito){:.w} ignorantes podem tomar o efeito pela [causa](Causalidade){:.w}.
 
 A [alma](Alma){:.l} atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a [alma](Alma){:.l} o [Espírito](Espírito){:.w} que habita o corpo durante a vida e o deixa por ocasião da morte.
 
@@ -2382,7 +2382,7 @@ A [alma](Alma){:.l} atua por intermédio dos órgãos e os órgãos são animado
 
 Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](Alma){:.l} seja exterior ao corpo e o circunvolve?
 
-> <span class="emoji">👻</span> ▸ A [alma](Alma){:.l} não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a [alma](Alma){:.l} é exterior, sem que por isso constitua o envoltório do corpo. A [alma](Alma){:.l} tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas [perispírito](Perispírito){:.w}; outro, grosseiro, material e pesado, o corpo. A [alma](Alma){:.l} é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
+> <span class="emoji">👻</span> ▸ A [alma](Alma){:.l} não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a [alma](Alma){:.l} é exterior, sem que por isso constitua o envoltório do corpo. A [alma](Alma){:.l} tem dois invólucros: um, [sutil](sutil){:.d} e leve, é o primeiro, ao qual chamas [perispírito](Perispírito){:.w}; outro, grosseiro, material e pesado, o corpo. A [alma](Alma){:.l} é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, invólucros da <a href="#alma">↩️</a>
@@ -2392,7 +2392,7 @@ Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](Alma){
 
 Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai completando a cada período da vida?
 
-> <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela [causa](Causalidade){:.d}.
+> <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela [causa](Causalidade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2631,7 +2631,7 @@ No momento da morte, a [alma](Alma){:.l} sente, alguma vez, qualquer aspiração
 
 ###### Q.158 {#q158}
 
-O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra na sua crisálida em estado de [morte](Morte){:.w} aparente, para enfim renascer com uma existência brilhante, pode dar-nos ideia da vida terrestre, do túmulo e, finalmente, da nossa nova existência?
+O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra na sua [crisálida](Crisálida){:.w} em estado de [morte](Morte){:.w} aparente, para enfim renascer com uma existência brilhante, pode dar-nos ideia da vida terrestre, do túmulo e, finalmente, da nossa nova existência?
 
 > <span class="emoji">👻</span> ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao [pé da letra](ao_pé_da_letra){:.d}, como frequentemente vos sucede.
 
@@ -2715,7 +2715,7 @@ Por ocasião da morte, tudo, a princípio, é confuso. De algum tempo precisa a 
 
 Muito variável é o tempo que dura a perturbação que se segue à morte. Pode ser de algumas horas, como também de muitos meses e até de muitos anos. Aqueles que, desde quando ainda viviam na Terra, se identificaram com o estado futuro que os aguardava, são os em quem menos longa ela é, porque esses compreendem imediatamente a posição em que se encontram.
 
-Aquela perturbação apresenta circunstâncias especiais, de acordo com os caracteres dos indivíduos e, principalmente, com o gênero de morte. Nos casos de [morte](Morte){:.w} violenta, por suicídio, suplício, acidente, apoplexia, ferimentos etc., o [Espírito](Espírito){:.w} fica surpreendido, espantado e não acredita estar morto. Obstinadamente sustenta que não o está. No entanto, vê o seu próprio corpo, reconhece que esse corpo é seu, mas não compreende que se ache separado dele. Acerca-se das pessoas a quem estima, fala-lhes e não percebe por que elas não o ouvem. Semelhante ilusão se prolonga até ao completo desprendimento do [perispírito](Perispírito){:.w}. Só então o [Espírito](Espírito){:.w} se reconhece como tal e compreende que não pertence mais ao número dos vivos. Este [fenômeno](Fenómeno){:.w} se explica facilmente. Surpreendido de improviso pela morte, o [Espírito](Espírito){:.w} fica atordoado com a brusca mudança que nele se operou; considera ainda a [morte](Morte){:.w} como sinônimo de destruição, de aniquilamento. Ora, porque pensa, vê, ouve, tem a sensação de não estar morto. Mais lhe aumenta a ilusão o fato de se ver com um corpo semelhante, na forma, ao precedente, mas cuja natureza etérea ainda não teve tempo de estudar. Julga-o sólido e compacto como o primeiro e, quando se lhe chama a atenção para esse ponto, admira-se de não poder palpá-lo. Esse [fenômeno](Fenómeno){:.w} é análogo ao que ocorre com alguns sonâmbulos inexperientes, que não creem dormir. É que têm o sono por sinônimo de suspensão das faculdades. Ora, como pensam livremente e veem, julgam que não dormem. Certos [Espíritos](Espírito){:.w} revelam essa particularidade, se bem que a [morte](Morte){:.w} não lhes tenha sobrevindo inopinadamente. Todavia, sempre mais generalizada se apresenta essa particularidade entre os que, mesmo doentes, não pensavam em morrer. Observa-se então o singular espetáculo de um [Espírito](Espírito){:.w} assistir ao seu próprio enterramento como se fora o de um estranho, falando desse ato como de coisa que lhe não diz respeito, até o momento em que compreende a [verdade](Verdade){:.w}.
+Aquela perturbação apresenta circunstâncias especiais, de acordo com os caracteres dos indivíduos e, principalmente, com o gênero de morte. Nos casos de [morte](Morte){:.w} violenta, por suicídio, suplício, acidente, apoplexia, ferimentos etc., o [Espírito](Espírito){:.w} fica surpreendido, espantado e não acredita estar morto. Obstinadamente sustenta que não o está. No entanto, vê o seu próprio corpo, reconhece que esse corpo é seu, mas não compreende que se ache separado dele. Acerca-se das pessoas a quem estima, fala-lhes e não percebe por que elas não o ouvem. Semelhante ilusão se prolonga até ao completo desprendimento do [perispírito](Perispírito){:.w}. Só então o [Espírito](Espírito){:.w} se reconhece como tal e compreende que não pertence mais ao número dos vivos. Este [fenômeno](Fenómeno){:.w} se explica facilmente. Surpreendido de improviso pela morte, o [Espírito](Espírito){:.w} fica atordoado com a brusca mudança que nele se operou; considera ainda a [morte](Morte){:.w} como sinônimo de destruição, de aniquilamento. Ora, porque pensa, vê, ouve, tem a sensação de não estar morto. Mais lhe aumenta a ilusão o fato de se ver com um corpo semelhante, na forma, ao precedente, mas cuja natureza [etérea](etéreo){:.d} ainda não teve tempo de estudar. Julga-o sólido e compacto como o primeiro e, quando se lhe chama a atenção para esse ponto, admira-se de não poder palpá-lo. Esse [fenômeno](Fenómeno){:.w} é análogo ao que ocorre com alguns sonâmbulos inexperientes, que não creem dormir. É que têm o sono por sinônimo de suspensão das faculdades. Ora, como pensam livremente e veem, julgam que não dormem. Certos [Espíritos](Espírito){:.w} revelam essa particularidade, se bem que a [morte](Morte){:.w} não lhes tenha sobrevindo inopinadamente. Todavia, sempre mais generalizada se apresenta essa particularidade entre os que, mesmo doentes, não pensavam em morrer. Observa-se então o singular espetáculo de um [Espírito](Espírito){:.w} assistir ao seu próprio enterramento como se fora o de um estranho, falando desse ato como de coisa que lhe não diz respeito, até o momento em que compreende a [verdade](Verdade){:.w}.
 
 A perturbação que se segue à [morte](Morte){:.w} nada tem de penosa para o homem de bem, que se conserva calmo, semelhante em tudo a quem acompanha as fases de um tranquilo despertar. Para aquele cuja [consciência](Consciência){:.w} ainda não está pura, a perturbação é cheia de ansiedade e de angústias, que aumentam à proporção que ele da sua situação se compenetra.
 
@@ -3072,7 +3072,7 @@ O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo?
 
 Haverá mundos em que o [Espírito](Espírito){:.w}, deixando de revestir corpos materiais, só tenha por envoltório o [perispírito](Perispírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos [Espíritos](Espírito){:.w} puros.
+> <span class="emoji">👻</span> ▸ Há e mesmo esse envoltório se torna tão [etéreo](etéreo){:.d} que para vós é como se não existisse. Esse o estado dos [Espíritos](Espírito){:.w} puros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -3092,7 +3092,7 @@ Parece resultar daí que, entre o estado correspondente às últimas encarnaçõ
 
 A substância do [perispírito](Perispírito){:.w} é a mesma em todos os mundos?
 
-> <span class="emoji">👻</span> ▸ Não; é mais ou menos etérea. Passando de um mundo a outro, o [Espírito](Espírito){:.w} se reveste da matéria própria desse outro, operando-se, porém, essa mudança com a rapidez do relâmpago.
+> <span class="emoji">👻</span> ▸ Não; é mais ou menos [etérea](etéreo){:.d}. Passando de um mundo a outro, o [Espírito](Espírito){:.w} se reveste da matéria própria desse outro, operando-se, porém, essa mudança com a rapidez do relâmpago.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -3282,7 +3282,7 @@ Que sucede ao [Espírito](Espírito){:.w} de uma criança que morre pequenina?
 
 > <span class="emoji">👻</span> ▸ Recomeça outra existência.
 
-Se uma única existência tivesse o homem e se, extinguindo-se-lhe ela, sua sorte ficasse decidida para a eternidade, qual seria o mérito de metade do gênero humano, da que morre na [infância](infância){:.d}, para gozar, sem esforços, da felicidade eterna e com que direito se acharia isenta das condições, às vezes tão duras, a que se vê submetida a outra metade.
+Se uma única existência tivesse o homem e se, extinguindo-se-lhe ela, sua sorte ficasse decidida para a [eternidade](Eternidade){:.w}, qual seria o mérito de metade do gênero humano, da que morre na [infância](infância){:.d}, para gozar, sem esforços, da felicidade eterna e com que direito se acharia isenta das condições, às vezes tão duras, a que se vê submetida a outra metade.
 
 Semelhante ordem de coisas não corresponderia à Justiça de [Deus](Deus){:.l}. Com a reencarnação, a igualdade é real para todos. O futuro a todos toca sem exceção e sem favor para quem quer que seja. Os retardatários só de si mesmos se podem queixar. Forçoso é que o homem tenha o merecimento de seus atos, como tem deles a responsabilidade.
 
@@ -3584,7 +3584,7 @@ Examinemos de outro ponto de vista a matéria e, abstraindo de qualquer [interve
 
 Muitos repelem a ideia da reencarnação pelo só motivo de ela não lhes convir. Dizem que uma existência já lhes chega de sobra e que, portanto, não desejariam recomeçar outra semelhante. De alguns sabemos que saltam em fúria só com o pensarem que tenham de voltar à Terra. Perguntar-lhes-emos apenas se imaginam que [Deus](Deus){:.l} lhes pediu o parecer, ou consultou os gostos, para regular o [Universo](Universo){:.w}. Uma de duas: ou a reencarnação existe, ou não existe; se existe, nada importa que os contrarie; terão que a sofrer, sem que para isso lhes peça [Deus](Deus){:.l} permissão. Afiguram-se-nos os que assim falam um doente a dizer: Sofri hoje bastante, não quero sofrer mais amanhã. Qualquer que seja o seu mau humor, não terá por isso que sofrer menos no dia seguinte, nem nos que se sucederem, até que se ache curado. Conseguintemente, se os que de tal maneira se externam tiverem que viver de novo, corporalmente, tornarão a viver, reencarnarão. Nada lhes adiantará rebelarem-se, quais crianças que não querem ir para o colégio, ou condenados, para a prisão. Passarão pelo que têm de passar. São demasiado pueris semelhantes objeções, para merecerem mais seriamente examinadas. Diremos, todavia, aos que as formulam que se tranquilizem, que a [Doutrina Espírita](Espiritismo){:.l} , no tocante à reencarnação, não é tão terrível como a julgam; que, se a houvessem estudado a fundo, não se mostrariam tão aterrorizados; saberiam que deles dependem as condições da nova existência, que será feliz ou desgraçada, conforme o que tiverem feito neste mundo; **que desde agora poderão elevar-se tão alto que a recaída no lodaçal não lhes seja mais de temer.**
 
-Supomos dirigir-nos a pessoas que acreditam num futuro depois da [morte](Morte){:.w} e não aos que criam para si a perspectiva do nada, ou pretendem que suas almas se vão afogar num todo universal, onde perdem a individualidade, como os pingos da chuva no oceano, o que vem a dar quase no mesmo. Ora, pois: se credes num futuro qualquer, certo não admitis que ele seja idêntico para todos, porquanto, de outro modo, qual a utilidade do bem? Por que haveria o homem de constranger-se? Por que deixaria de satisfazer a todas as suas paixões, a todos os seus desejos, embora à custa de outrem, uma vez que por isso não ficaria sendo melhor, nem pior? Credes, ao contrário, que esse futuro será mais ou menos ditoso ou inditoso, conforme o que houverdes feito durante a vida e então desejais que seja tão afortunado quanto possível, visto que há de durar pela eternidade, não? Mas, porventura, teríeis a pretensão de serdes dos homens mais perfeitos que hajam existido na [Terra](Terra){:.w} e, pois, com direito a alcançardes de um salto a suprema felicidade dos eleitos? Não. Admitis então que há homens de valor maior do que o vosso e com direito a um lugar melhor, sem daí resultar que vos conteis entre os réprobos. Pois bem! Colocai-vos mentalmente, por um instante, nessa situação intermédia, que será a vossa, como acabastes de reconhecer, e imaginai que alguém vos venha dizer:
+Supomos dirigir-nos a pessoas que acreditam num futuro depois da [morte](Morte){:.w} e não aos que criam para si a perspectiva do nada, ou pretendem que suas almas se vão afogar num todo universal, onde perdem a individualidade, como os pingos da chuva no oceano, o que vem a dar quase no mesmo. Ora, pois: se credes num futuro qualquer, certo não admitis que ele seja idêntico para todos, porquanto, de outro modo, qual a utilidade do bem? Por que haveria o homem de constranger-se? Por que deixaria de satisfazer a todas as suas paixões, a todos os seus desejos, embora à custa de outrem, uma vez que por isso não ficaria sendo melhor, nem pior? Credes, ao contrário, que esse futuro será mais ou menos ditoso ou inditoso, conforme o que houverdes feito durante a vida e então desejais que seja tão afortunado quanto possível, visto que há de durar pela [eternidade](Eternidade){:.w}, não? Mas, porventura, teríeis a pretensão de serdes dos homens mais perfeitos que hajam existido na [Terra](Terra){:.w} e, pois, com direito a alcançardes de um salto a suprema felicidade dos eleitos? Não. Admitis então que há homens de valor maior do que o vosso e com direito a um lugar melhor, sem daí resultar que vos conteis entre os réprobos. Pois bem! Colocai-vos mentalmente, por um instante, nessa situação intermédia, que será a vossa, como acabastes de reconhecer, e imaginai que alguém vos venha dizer:
 
 — Sofreis; não sois tão felizes quanto poderíeis ser, ao passo que diante de vós estão seres que gozam de completa ventura. Quereis mudar na deles a vossa posição? 
 
@@ -3598,7 +3598,7 @@ Hesitaríeis em aceitar, ainda que a poder de muitas existências de provações
 
 Fosse ele o mais preguiçoso da Terra, que sem hesitar diria: 
 
-— Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a eternidade? Menos que um minuto, menos que um segundo. 
+— Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a [eternidade](Eternidade){:.w}? Menos que um minuto, menos que um segundo. 
 
 Temos visto algumas pessoas raciocinarem deste modo: Não é possível que [Deus](Deus){:.l}, soberanamente bom como é, imponha ao homem a obrigação de recomeçar uma série de misérias e tribulações. Acharão, porventura, essas pessoas que há mais bondade em condenar [Deus](Deus){:.l} o homem a sofrer perpetuamente, por motivo de alguns momentos de erro, do que em lhe facultar meios de reparar suas faltas? 
 
@@ -3945,7 +3945,7 @@ A duração, os [Espíritos](Espírito){:.w} a compreendem como nós?
 
 > <span class="emoji">👻</span> ▸ Não e daí vem que nem sempre nos compreendeis, quando se trata de determinar datas ou épocas.
 
-Os [Espíritos](Espírito){:.w} vivem fora do tempo como o compreendemos. A duração, para eles, deixa, por assim dizer, de existir. Os séculos, para nós tão longos, não passam, aos olhos deles, de instantes que se movem na eternidade, do mesmo modo que os relevos do solo se apagam e desaparecem para quem se eleva no espaço. 
+Os [Espíritos](Espírito){:.w} vivem fora do tempo como o compreendemos. A duração, para eles, deixa, por assim dizer, de existir. Os séculos, para nós tão longos, não passam, aos olhos deles, de instantes que se movem na [eternidade](Eternidade){:.w}, do mesmo modo que os relevos do solo se apagam e desaparecem para quem se eleva no espaço. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q1005">Q.1005</a>
@@ -4005,7 +4005,7 @@ Os [Espíritos](Espírito){:.w} veem a [Deus](Deus){:.l}?
 
 Quando um [Espírito](Espírito){:.w} inferior diz que [Deus](Deus){:.l} lhe proíbe ou permite uma coisa, como sabe que isso lhe vem dele?
 
-> <span class="emoji">👻</span> ▸ Ele não vê a [Deus](Deus){:.l}, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais sutil do que as vossas a essência dos [Espíritos](Espírito){:.w}, podem estes receber melhor as advertências divinas.
+> <span class="emoji">👻</span> ▸ Ele não vê a [Deus](Deus){:.l}, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais [sutil](sutil){:.d} do que as vossas a essência dos [Espíritos](Espírito){:.w}, podem estes receber melhor as advertências divinas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -4157,11 +4157,11 @@ Como é então que alguns [Espíritos](Espírito){:.w} se têm queixado de sofre
 
 ###### Q.257 {#q257}
 
-O corpo é o instrumento da dor. Se não é a [causa](Causalidade){:.d} primária desta é, pelo menos, a [causa](Causalidade){:.d} imediata. A [alma](Alma){:.l} tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a [alma](Alma){:.l} conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do [Espírito](Espírito){:.w} após a morte. Um estudo aprofundado do [perispírito](Perispírito){:.w}, que tão importante papel desempenha em todos os [fenônemo](fenómeno){:.w} espíritas; nas aparições vaporosas ou tangíveis; no estado em que o [Espírito](Espírito){:.w} vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
+O corpo é o instrumento da dor. Se não é a [causa](Causalidade){:.w} primária desta é, pelo menos, a causa imediata. A [alma](Alma){:.l} tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a [alma](Alma){:.l} conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do [Espírito](Espírito){:.w} após a morte. Um estudo aprofundado do [perispírito](Perispírito){:.w}, que tão importante papel desempenha em todos os [fenônemo](fenómeno){:.w} espíritas; nas aparições vaporosas ou tangíveis; no estado em que o [Espírito](Espírito){:.w} vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
 
 O [perispírito](Perispírito){:.w} é o laço que à matéria do corpo prende o [Espírito](Espírito){:.w}, que o tira do meio ambiente, do fluido universal. Participa ao mesmo tempo da eletricidade, do fluido magnético e, até certo ponto, da matéria inerte. Poder-se-ia dizer que é a quintessência da matéria. É o princípio da vida orgânica, porém, não o da vida intelectual, que reside no [Espírito](Espírito){:.w}. É, além disso, o agente das sensações exteriores. No corpo, os órgãos, servindo-lhes de condutos, localizam essas sensações. Destruído o corpo, elas se tornam gerais. Daí o [Espírito](Espírito){:.w} não dizer que sofre mais da cabeça do que dos pés, ou vice-versa. Não se confundam, porém, as sensações do [perispírito](Perispírito){:.w}, que se tornou independente, com as do corpo. Estas últimas só por termo de comparação as podemos tomar e não por analogia. Liberto do corpo, o [Espírito](Espírito){:.w} pode sofrer, mas esse sofrimento não é corporal, embora não seja exclusivamente moral, como o remorso, pois que ele se queixa de frio e calor. Também não sofre mais no inverno do que no verão: temo-los visto atravessar chamas, sem experimentarem qualquer dor.
 
-Nenhuma impressão lhes [causa](Causalidade){:.d}, conseguintemente, a temperatura. A dor que sentem não é, pois, uma dor física propriamente dita: é um vago sentimento íntimo, que o próprio [Espírito](Espírito){:.w} nem sempre compreende bem, precisamente porque a dor não se acha localizada e porque não a produzem agentes exteriores; é mais uma reminiscência do que uma realidade, reminiscência, porém, igualmente penosa. Algumas vezes, entretanto, há mais do que isso, como vamos ver.
+Nenhuma impressão lhes [causa](Causalidade){:.w}, conseguintemente, a temperatura. A dor que sentem não é, pois, uma dor física propriamente dita: é um vago sentimento íntimo, que o próprio [Espírito](Espírito){:.w} nem sempre compreende bem, precisamente porque a dor não se acha localizada e porque não a produzem agentes exteriores; é mais uma reminiscência do que uma realidade, reminiscência, porém, igualmente penosa. Algumas vezes, entretanto, há mais do que isso, como vamos ver.
 
 Ensina-nos a experiência que, por ocasião da morte, o [perispírito](Perispírito){:.w} se desprende mais ou menos lentamente do corpo; que, durante os primeiros minutos depois da desencarnação, o [Espírito](Espírito){:.w} não encontra explicação para a situação em que se acha. Crê não estar morto, por isso que se sente vivo; vê a um lado o corpo, sabe que lhe pertence, mas não compreende que esteja separado dele. Essa situação dura enquanto haja qualquer ligação entre o corpo e o [perispírito](Perispírito){:.w}. Disse-nos, certa vez, um suicida:
 
@@ -4173,11 +4173,11 @@ E acrescentava:
 
 Ora, indubitavelmente, os vermes não lhe roíam o [perispírito](Perispírito){:.w} e ainda menos o [Espírito](Espírito){:.w}; roíam-lhe apenas o corpo. Como, porém, não era completa a separação do corpo e do [perispírito](Perispírito){:.w}, uma espécie de repercussão moral se produzia, transmitindo ao [Espírito](Espírito){:.w} o que estava ocorrendo no corpo. Repercussão talvez não seja o termo próprio, porque pode induzir à suposição de um efeito muito material. Era antes a visão do que se passava com o corpo, ao qual ainda o conservava ligado o [perispírito](Perispírito){:.w}, o que lhe causava a ilusão, que ele tomava por realidade. Assim, pois, não haveria no caso uma reminiscência, porquanto ele não fora, em vida, roído pelos vermes: havia o sentimento de um fato da atualidade. Isto mostra que deduções se podem tirar dos fatos, quando atentamente observados.
 
-Durante a vida, o corpo recebe impressões exteriores e as transmite ao [Espírito](Espírito){:.w} por intermédio do [perispírito](Perispírito){:.w}, que constitui, provavelmente, o que se chama fluido nervoso. Uma vez morto, o corpo nada mais sente, por já não haver nele [Espírito](Espírito){:.w}, nem [perispírito](Perispírito){:.w}. Este, desprendido do corpo, experimenta a sensação, porém, como já não lhe chega por um conduto limitado, ela se lhe torna geral. Ora, não sendo o [perispírito](Perispírito){:.w}, realmente, mais do que simples agente de transmissão, pois que no [Espírito](Espírito){:.w} é que está a consciência, lógico será deduzir-se que, se pudesse existir [perispírito](Perispírito){:.w} sem [Espírito](Espírito){:.w}, aquele nada sentiria, exatamente como um corpo que morreu. Do mesmo modo, se o [Espírito](Espírito){:.w} não tivesse [perispírito](Perispírito){:.w}, seria inacessível a toda e qualquer sensação dolorosa. É o que se dá com os [Espíritos](Espírito){:.w} completamente purificados. Sabemos que quanto mais eles se purificam, tanto mais etérea se torna a essência do [perispírito](Perispírito){:.w}, donde se segue que a influência material diminui à medida que o [Espírito](Espírito){:.w} progride, isto é, à medida que o próprio [perispírito](Perispírito){:.w} se torna menos grosseiro.
+Durante a vida, o corpo recebe impressões exteriores e as transmite ao [Espírito](Espírito){:.w} por intermédio do [perispírito](Perispírito){:.w}, que constitui, provavelmente, o que se chama fluido nervoso. Uma vez morto, o corpo nada mais sente, por já não haver nele [Espírito](Espírito){:.w}, nem [perispírito](Perispírito){:.w}. Este, desprendido do corpo, experimenta a sensação, porém, como já não lhe chega por um conduto limitado, ela se lhe torna geral. Ora, não sendo o [perispírito](Perispírito){:.w}, realmente, mais do que simples agente de transmissão, pois que no [Espírito](Espírito){:.w} é que está a consciência, lógico será deduzir-se que, se pudesse existir [perispírito](Perispírito){:.w} sem [Espírito](Espírito){:.w}, aquele nada sentiria, exatamente como um corpo que morreu. Do mesmo modo, se o [Espírito](Espírito){:.w} não tivesse [perispírito](Perispírito){:.w}, seria inacessível a toda e qualquer sensação dolorosa. É o que se dá com os [Espíritos](Espírito){:.w} completamente purificados. Sabemos que quanto mais eles se purificam, tanto mais [etérea](etéreo){:.d} se torna a essência do [perispírito](Perispírito){:.w}, donde se segue que a influência material diminui à medida que o [Espírito](Espírito){:.w} progride, isto é, à medida que o próprio [perispírito](Perispírito){:.w} se torna menos grosseiro.
 
 Mas, dir-se-á, desde que pelo [perispírito](Perispírito){:.w} é que as sensações agradáveis, da mesma forma que as desagradáveis, se transmitem ao [Espírito](Espírito){:.w}, sendo o [Espírito](Espírito){:.w} puro inacessível a umas, deve sê-lo igualmente às outras. Assim é, de fato, com relação às que provêm unicamente da influência da matéria que conhecemos. O som dos nossos instrumentos, o perfume das nossas flores nenhuma impressão lhe causam. Entretanto, ele experimenta sensações íntimas, de um encanto indefinível, das quais ideia alguma podemos formar, porque, a esse respeito, somos quais cegos de nascença diante da luz. Sabemos que isso é real; mas por que meio se produz? Até lá não vai a nossa ciência. Sabemos que no [Espírito](Espírito){:.w} há percepção, sensação, audição, visão; que essas faculdades são atributos do ser todo e não, como no homem, de uma parte apenas do ser; mas de que modo ele as tem? Ignoramo-lo. Os próprios [Espíritos](Espírito){:.w} nada nos podem informar sobre isso, por inadequada a nossa linguagem a exprimir ideias que não possuímos, precisamente como o é, por falta de termos próprios, a dos selvagens, para traduzir ideias referentes às nossas artes, ciências e doutrinas filosóficas.
 
-Dizendo que os [Espíritos](Espírito){:.w} são inacessíveis às impressões da matéria que conhecemos, referimo-nos aos [Espíritos](Espírito){:.w} muito elevados, cujo envoltório etéreo não encontra analogia neste mundo. Outro tanto não acontece com os de [perispírito](Perispírito){:.w} mais denso, os quais percebem os nossos sons e odores, não, porém, apenas por uma parte limitada de suas individualidades, conforme lhes sucedia quando vivos. Pode-se dizer que, neles, as vibrações moleculares se fazem sentir em todo o ser e lhes chegam assim ao sensorium commune, que é o próprio [Espírito](Espírito){:.w}, embora de modo diverso e talvez, também, dando uma impressão diferente, o que modifica a percepção. Eles ouvem o som da nossa voz, entretanto nos compreendem sem o auxílio da palavra, somente pela transmissão do pensamento. Em apoio do que dizemos há o fato de que essa penetração é tanto mais fácil, quanto mais desmaterializado está o [Espírito](Espírito){:.w}. Pelo que concerne à vista, essa, para o [Espírito](Espírito){:.w}, independe da luz, qual a temos. A faculdade de ver é um [atributo](atributo){:.d} essencial da alma, para quem a obscuridade não existe. É, contudo, mais extensa, mais penetrante nas mais purificadas. A alma, ou o [Espírito](Espírito){:.w}, tem, pois, em si mesma, a faculdade de todas as percepções. Estas, na vida corpórea, se obliteram pela grosseria dos órgãos do corpo; na vida extracorpórea se vão desanuviando, à proporção que o invólucro semimaterial se eteriza.
+Dizendo que os [Espíritos](Espírito){:.w} são inacessíveis às impressões da matéria que conhecemos, referimo-nos aos [Espíritos](Espírito){:.w} muito elevados, cujo envoltório [etéreo](etéreo){:.d} não encontra analogia neste mundo. Outro tanto não acontece com os de [perispírito](Perispírito){:.w} mais denso, os quais percebem os nossos sons e odores, não, porém, apenas por uma parte limitada de suas individualidades, conforme lhes sucedia quando vivos. Pode-se dizer que, neles, as vibrações moleculares se fazem sentir em todo o ser e lhes chegam assim ao sensorium commune, que é o próprio [Espírito](Espírito){:.w}, embora de modo diverso e talvez, também, dando uma impressão diferente, o que modifica a percepção. Eles ouvem o som da nossa voz, entretanto nos compreendem sem o auxílio da palavra, somente pela transmissão do pensamento. Em apoio do que dizemos há o fato de que essa penetração é tanto mais fácil, quanto mais desmaterializado está o [Espírito](Espírito){:.w}. Pelo que concerne à vista, essa, para o [Espírito](Espírito){:.w}, independe da luz, qual a temos. A faculdade de ver é um [atributo](atributo){:.d} essencial da alma, para quem a obscuridade não existe. É, contudo, mais extensa, mais penetrante nas mais purificadas. A alma, ou o [Espírito](Espírito){:.w}, tem, pois, em si mesma, a faculdade de todas as percepções. Estas, na vida corpórea, se obliteram pela grosseria dos órgãos do corpo; na vida extracorpórea se vão desanuviando, à proporção que o invólucro semimaterial se eteriza.
 
 Haurido do meio ambiente, esse invólucro varia de acordo com a natureza dos mundos. Ao passarem de um mundo a outro, os [Espíritos](Espírito){:.w} mudam de envoltório, como nós mudamos de roupa, quando passamos do inverno ao verão, ou do polo ao Equador. Quando vêm visitar-nos, os mais elevados se revestem do [perispírito](Perispírito){:.w} terrestre e então suas percepções se produzem como no comum dos [Espíritos](Espírito){:.w}. Todos, porém, assim os inferiores como os superiores, não ouvem, nem sentem, senão o que queiram ouvir ou sentir. Não possuindo órgãos sensitivos, eles podem, livremente, tornar ativas ou nulas suas percepções. Uma só coisa são obrigados a ouvir — os conselhos dos [Espíritos](Espírito){:.w} bons. A vista, essa é sempre ativa; mas eles podem fazer-se invisíveis uns aos outros. Conforme a categoria que ocupem, podem ocultar-se dos que lhes são inferiores, porém, não dos que lhes são superiores. Nos primeiros instantes que se seguem à morte, a visão do [Espírito](Espírito){:.w} é sempre turbada e confusa. Aclara-se, à medida que ele se desprende, e pode alcançar a nitidez que tinha durante a vida terrena, independentemente da possibilidade de penetrar através dos corpos que nos são opacos. Quanto à sua extensão através do espaço indefinito, do futuro e do passado, depende do grau de pureza e de elevação do [Espírito](Espírito){:.w}.
 
@@ -4255,7 +4255,7 @@ Nas provações por que lhe cumpre passar para atingir a perfeição, tem o [Esp
 
 ###### Q.262 {#q262}
 
-Como pode o [Espírito](Espírito){:.w}, que, em sua origem, é simples, ignorante e carecido de experiência, escolher uma existência com conhecimento de [causa](Causalidade){:.d} e ser responsável por essa escolha?
+Como pode o [Espírito](Espírito){:.w}, que, em sua origem, é simples, ignorante e carecido de experiência, escolher uma existência com conhecimento de [causa](Causalidade){:.w} e ser responsável por essa escolha?
 
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} lhe supre a inexperiência, traçando-lhe o caminho que deve seguir, como fazeis com a criancinha. Deixa-o, porém, pouco a pouco, à medida que o seu livre-arbítrio se desenvolve, senhor de proceder à escolha e só então é que muitas vezes lhe acontece extraviar-se, tomando o mau caminho, por desatender os conselhos dos bons [Espíritos](Espírito){:.w}. A isso é que se pode chamar a queda do homem.
 
@@ -4277,7 +4277,7 @@ Quando o [Espírito](Espírito){:.w} goza do livre-arbítrio, a escolha, que lhe
 
 O [Espírito](Espírito){:.w} faz a sua escolha logo depois da morte?
 
-> <span class="emoji">👻</span> ▸ Não, muitos acreditam na eternidade das penas, o que, como já se vos disse, é um castigo.
+> <span class="emoji">👻</span> ▸ Não, muitos acreditam na [eternidade](Eternidade){:.w} das penas, o que, como já se vos disse, é um castigo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -4496,7 +4496,7 @@ De que natureza são as relações entre os bons e os maus [Espíritos](Espírit
 
 Por que os [Espíritos](Espírito){:.w} inferiores se comprazem em nos induzir ao mal?
 
-> <span class="emoji">👻</span> ▸ Pelo despeito que lhes [causa](Causalidade){:.d} o não terem merecido estar entre os bons. O desejo que neles predomina é o de impedirem, quanto possam, que os [Espíritos](Espírito){:.w} ainda inexperientes alcancem o supremo bem. Querem que os outros experimentem o que eles próprios experimentam. Isto não se dá também entre vós outros?
+> <span class="emoji">👻</span> ▸ Pelo despeito que lhes [causa](Causalidade){:.w} o não terem merecido estar entre os bons. O desejo que neles predomina é o de impedirem, quanto possam, que os [Espíritos](Espírito){:.w} ainda inexperientes alcancem o supremo bem. Querem que os outros experimentem o que eles próprios experimentam. Isto não se dá também entre vós outros?
 
 ###### Q.282 {#q282}
 
@@ -4624,7 +4624,7 @@ Alimentam ódio entre si os [Espíritos](Espírito){:.w}?
 
 Conservarão ressentimento um do outro, no mundo dos [Espíritos](Espírito){:.w}, dois seres que foram inimigos na Terra?
 
-> <span class="emoji">👻</span> ▸ Não; compreenderão que era estúpido o ódio que se votavam mutuamente e pueril o motivo que o inspirava. Apenas os [Espíritos](Espírito){:.w} imperfeitos conservam uma espécie de animosidade, enquanto se não purificam. Se foi unicamente um interesse material o que os inimizou, nisso não pensarão mais, por pouco desmaterializados que estejam. Não havendo entre eles antipatia e tendo deixado de existir a [causa](Causalidade){:.d} de suas desavenças, aproximam-se uns dos outros com prazer.
+> <span class="emoji">👻</span> ▸ Não; compreenderão que era estúpido o ódio que se votavam mutuamente e pueril o motivo que o inspirava. Apenas os [Espíritos](Espírito){:.w} imperfeitos conservam uma espécie de animosidade, enquanto se não purificam. Se foi unicamente um interesse material o que os inimizou, nisso não pensarão mais, por pouco desmaterializados que estejam. Não havendo entre eles antipatia e tendo deixado de existir a [causa](Causalidade){:.w} de suas desavenças, aproximam-se uns dos outros com prazer.
 
 Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
 
@@ -4666,7 +4666,7 @@ São suscetíveis de alterar-se as afeições individuais dos [Espíritos](Espí
 
 Continua a existir sempre, no mundo dos [Espíritos](Espírito){:.w}, a afeição mútua que dois seres se consagraram na Terra?
 
-> <span class="emoji">👻</span> ▸ Sem dúvida, desde que originada de verdadeira simpatia. Se, porém, nasceu principalmente de causas de ordem física, desaparece com a [causa](Causalidade){:.d}. As afeições entre os [Espíritos](Espírito){:.w} são mais sólidas e duráveis do que na Terra, porque não se acham subordinadas aos caprichos dos interesses materiais e do amor-próprio.
+> <span class="emoji">👻</span> ▸ Sem dúvida, desde que originada de verdadeira simpatia. Se, porém, nasceu principalmente de causas de ordem física, desaparece com a [causa](Causalidade){:.w}. As afeições entre os [Espíritos](Espírito){:.w} são mais sólidas e duráveis do que na Terra, porque não se acham subordinadas aos caprichos dos interesses materiais e do amor-próprio.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -4738,7 +4738,7 @@ Podem deixar de ser simpáticos um ao outro dois [Espíritos](Espírito){:.w} qu
 
 > <span class="emoji">👻</span> ▸ Certamente, se um deles for preguiçoso.
 
-A teoria das metades eternas encerra uma simples figura, representativa da união de dois [Espíritos](Espírito){:.w} simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao [pé da letra](ao_pé_da_letra){:.d}. Não pertencem decerto a uma ordem elevada os [Espíritos](Espírito){:.w} que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois [Espíritos](Espírito){:.w} tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo.
+A teoria das metades eternas encerra uma simples figura, representativa da união de dois [Espíritos](Espírito){:.w} simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao [pé da letra](ao_pé_da_letra){:.d}. Não pertencem decerto a uma ordem elevada os [Espíritos](Espírito){:.w} que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois [Espíritos](Espírito){:.w} tenham, fatalmente, que se reunir um dia na [eternidade](Eternidade){:.w}, depois de haverem estado separados por tempo mais ou menos longo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -4830,7 +4830,7 @@ Como considera o [Espírito](Espírito){:.w} o corpo de que vem de separar-se?
 
 ###### Q.309.a {#q309a}
 
-Que sensação lhe [causa](Causalidade){:.d} o espetáculo do seu corpo em decomposição?
+Que sensação lhe [causa](Causalidade){:.w} o espetáculo do seu corpo em decomposição?
 
 > <span class="emoji">👻</span> ▸ Quase sempre se conserva indiferente a isso, como a uma coisa que em nada o interessa.
 
@@ -4998,7 +4998,7 @@ E os esquecidos, cujos túmulos ninguém vai visitar, também lá, não obstante
 
 ###### Q.323 {#q323}
 
-A visita de um [espírito](Espírito){:.w} a um túmulo [causa](Causalidade){:.d} maior contentamento ao [Espírito](Espírito){:.w}, cujos despojos corporais aí se encontrem, do que a [prece](Prece){:.l} que por ele faça essa pessoa em sua casa?
+A visita de um [espírito](Espírito){:.w} a um túmulo [causa](Causalidade){:.w} maior contentamento ao [Espírito](Espírito){:.w}, cujos despojos corporais aí se encontrem, do que a [prece](Prece){:.l} que por ele faça essa pessoa em sua casa?
 
 > <span class="emoji">👻</span> ▸ Aquele que visita um túmulo apenas manifesta, por essa forma, que pensa no [Espírito](Espírito){:.w} ausente. A visita é a representação exterior de um fato íntimo. Já dissemos que a [prece](Prece){:.l} é que santifica o ato da rememoração. Nada importa o lugar, desde que é feita com o coração.
 
@@ -5066,7 +5066,7 @@ Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 O [Espírito](Espírito){:.w} daquele que acaba de morrer assiste à reunião de seus herdeiros?
 
-> <span class="emoji">👻</span> ▸ Quase sempre. Para seu ensinamento e castigo dos culpados, [Deus](Deus){:.l} permite que assim aconteça. Nessa ocasião, o [Espírito](Espírito){:.w} julga do valor dos protestos que lhe faziam. Todos os sentimentos se lhe patenteiam e a decepção que lhe [causa](Causalidade){:.d} a rapacidade dos que entre si partilham os bens por ele deixados o esclarece acerca daqueles sentimentos. Chegará, porém, a vez dos que lhe motivam essa decepção.
+> <span class="emoji">👻</span> ▸ Quase sempre. Para seu ensinamento e castigo dos culpados, [Deus](Deus){:.l} permite que assim aconteça. Nessa ocasião, o [Espírito](Espírito){:.w} julga do valor dos protestos que lhe faziam. Todos os sentimentos se lhe patenteiam e a decepção que lhe [causa](Causalidade){:.w} a rapacidade dos que entre si partilham os bens por ele deixados o esclarece acerca daqueles sentimentos. Chegará, porém, a vez dos que lhe motivam essa decepção.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5180,7 +5180,7 @@ Poderia dar-se não haver [Espírito](Espírito){:.w} que aceitasse encarnar num
 
 Pode a união do [Espírito](Espírito){:.w} a determinado corpo ser imposta por [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ Certo, do mesmo modo que as diferentes provas, mormente quando ainda o [Espírito](Espírito){:.w} não está apto a proceder a uma escolha com conhecimento de [causa](Causalidade){:.d}. Por expiação, pode o [Espírito](Espírito){:.w} ser constrangido a se unir ao corpo de determinada criança que, pelo seu nascimento e pela posição que venha a ocupar no mundo, se lhe torne instrumento de castigo. 
+> <span class="emoji">👻</span> ▸ Certo, do mesmo modo que as diferentes provas, mormente quando ainda o [Espírito](Espírito){:.w} não está apto a proceder a uma escolha com conhecimento de [causa](Causalidade){:.w}. Por expiação, pode o [Espírito](Espírito){:.w} ser constrangido a se unir ao corpo de determinada criança que, pelo seu nascimento e pela posição que venha a ocupar no mundo, se lhe torne instrumento de castigo. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q872">Q.872</a>
@@ -5220,7 +5220,7 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 
 ###### Q.341 {#q341}
 
-Na incerteza em que se vê, quanto às eventualidades do seu triunfo nas provas que vai suportar na vida, tem o [Espírito](Espírito){:.w} uma [causa](Causalidade){:.d} de ansiedade antes da sua encarnação?
+Na incerteza em que se vê, quanto às eventualidades do seu triunfo nas provas que vai suportar na vida, tem o [Espírito](Espírito){:.w} uma [causa](Causalidade){:.w} de ansiedade antes da sua encarnação?
 
 > <span class="emoji">👻</span> ▸ De ansiedade bem grande, pois que as provas da sua existência o retardarão ou farão avançar, conforme as suporte.
 
@@ -5284,7 +5284,7 @@ Que faz o [Espírito](Espírito){:.w}, se o corpo que ele escolheu morre antes d
 
 Qual a utilidade dessas mortes prematuras?
 
-> <span class="emoji">👻</span> ▸ Dão-lhes [causa](Causalidade){:.d}, as mais das vezes, as imperfeições da matéria.
+> <span class="emoji">👻</span> ▸ Dão-lhes [causa](Causalidade){:.w}, as mais das vezes, as imperfeições da matéria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5312,7 +5312,7 @@ Sabe o [Espírito](Espírito){:.w}, previamente, que o corpo de sua escolha não
 
 ###### Q.349 {#q349}
 
-Quando falha por qualquer [causa](Causalidade){:.d} a encarnação de um [Espírito](Espírito){:.w}, é ela suprida imediatamente por outra existência?
+Quando falha por qualquer [causa](Causalidade){:.w} a encarnação de um [Espírito](Espírito){:.w}, é ela suprida imediatamente por outra existência?
 
 > <span class="emoji">👻</span> ▸ Nem sempre o é imediatamente. Faz-se mister dar ao [Espírito](Espírito){:.w} tempo para proceder a nova escolha, a menos que a reencarnação imediata corresponda a anterior determinação.
 
@@ -5521,9 +5521,9 @@ Por que alguns homens muito inteligentes, o que indica acharem-se encarnados nel
 
 Que se deve pensar da opinião dos que pretendem que as diferentes faculdades intelectuais e morais do homem resultam da encarnação, nele, de outros tantos [Espíritos](Espírito){:.w}, diferentes entre si, cada um com uma aptidão especial?
 
-> <span class="emoji">👻</span> ▸ Refletindo, reconhecereis que é absurda. O [Espírito](Espírito){:.w} tem que ter todas as aptidões. Para progredir, precisa de uma [vontade](Vontade){:.w} única. Se o homem fosse um amálgama de [Espíritos](Espírito){:.w}, essa [vontade](Vontade){:.w} não existiria e ele careceria de individualidade, pois que, por sua morte, todos aqueles [Espíritos](Espírito){:.w} formariam um bando de pássaros escapados da gaiola. Queixa-se, amiúde, o homem de não compreender certas coisas e, no entanto, curioso é ver-se como multiplica as dificuldades, quando tem ao seu alcance explicações muito simples e naturais. Ainda neste caso tomam o efeito pela [causa](Causalidade){:.d}. Fazem, com relação à criatura humana, o que, com relação a [Deus](Deus){:.l}, faziam os pagãos, que acreditavam em tantos deuses quantos eram os [fenônemo](fenómeno){:.w} no [Universo](Universo){:.w}, se bem que as pessoas sensatas, com eles coexistentes, apenas viam em tais [fenônemos](fenómeno){:.w} efeitos provindos de uma [causa](Causalidade){:.d} única — [Deus](Deus){:.l}.
+> <span class="emoji">👻</span> ▸ Refletindo, reconhecereis que é absurda. O [Espírito](Espírito){:.w} tem que ter todas as aptidões. Para progredir, precisa de uma [vontade](Vontade){:.w} única. Se o homem fosse um amálgama de [Espíritos](Espírito){:.w}, essa [vontade](Vontade){:.w} não existiria e ele careceria de individualidade, pois que, por sua morte, todos aqueles [Espíritos](Espírito){:.w} formariam um bando de pássaros escapados da gaiola. Queixa-se, amiúde, o homem de não compreender certas coisas e, no entanto, curioso é ver-se como multiplica as dificuldades, quando tem ao seu alcance explicações muito simples e naturais. Ainda neste caso tomam o efeito pela [causa](Causalidade){:.w}. Fazem, com relação à criatura humana, o que, com relação a [Deus](Deus){:.l}, faziam os pagãos, que acreditavam em tantos deuses quantos eram os [fenônemo](fenómeno){:.w} no [Universo](Universo){:.w}, se bem que as pessoas sensatas, com eles coexistentes, apenas viam em tais [fenônemos](fenómeno){:.w} efeitos provindos de uma causa única — [Deus](Deus){:.l}.
 >
-> O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos [fenômenos](fenómeno){:.d}, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados [fenônemos](fenómeno){:.w} consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma [causa](Causalidade){:.d}, que é a alma, ou do [Espírito](Espírito){:.w} encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos [Espíritos](Espírito){:.w} teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de [Espíritos](Espírito){:.w}, em que estes provam suas personalidades e identidade.
+> O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos [fenômenos](fenómeno){:.d}, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados [fenônemos](fenómeno){:.w} consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do [Espírito](Espírito){:.w} encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos [Espíritos](Espírito){:.w} teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de [Espíritos](Espírito){:.w}, em que estes provam suas personalidades e identidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5581,7 +5581,7 @@ O livre exercício das faculdades da [alma](Alma){:.l} está subordinado ao dese
 
 Da influência dos órgãos se pode inferir a existência de uma relação entre o desenvolvimento dos do cérebro e o das faculdades morais e intelectuais?
 
-> <span class="emoji">👻</span> ▸ Não confundais o efeito com a [causa](Causalidade){:.d}. O [Espírito](Espírito){:.w} dispõe sempre das faculdades que lhe são próprias. Ora, não são os órgãos que dão as faculdades, e sim estas que impulsionam o desenvolvimento dos órgãos.
+> <span class="emoji">👻</span> ▸ Não confundais o efeito com a [causa](Causalidade){:.w}. O [Espírito](Espírito){:.w} dispõe sempre das faculdades que lhe são próprias. Ora, não são os órgãos que dão as faculdades, e sim estas que impulsionam o desenvolvimento dos órgãos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5593,7 +5593,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 
 > <span class="emoji">👻</span> ▸ O termo — unicamente — não exprime com toda a exatidão o que ocorre. O princípio dessa diversidade reside nas qualidades do [Espírito](Espírito){:.w}, que pode ser mais ou menos adiantado. Cumpre, porém, se leve em conta a influência da matéria, que mais ou menos lhe cerceia o exercício de suas faculdades.
 
-Encarnando, traz o [Espírito](Espírito){:.w} certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não [causa](Causalidade){:.d}. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o [acaso](acaso){:.d} lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades.
+Encarnando, traz o [Espírito](Espírito){:.w} certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não [causa](Causalidade){:.w}. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o [acaso](acaso){:.d} lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5650,7 +5650,7 @@ Pode assim o corpo de um idiota conter um [Espírito](Espírito){:.w} que tenha 
 
 > <span class="emoji">👻</span> ▸ Certo. O gênio se torna por vezes um flagelo, quando dele abusa o homem.
 
-A superioridade moral nem sempre guarda proporção com a superioridade intelectual e os grandes gênios podem ter muito que expiar. Daí, frequentemente, lhes resulta uma existência inferior à que tiveram e uma [causa](Causalidade){:.d} de sofrimentos. Os embaraços que o [Espírito](Espírito){:.w} encontra para suas manifestações se lhe assemelham às algemas que tolhem os movimentos a um homem vigoroso. Pode dizer-se que os cretinos e os idiotas são estropiados do cérebro, como o coxo o é das pernas e dos olhos o cego.
+A superioridade moral nem sempre guarda proporção com a superioridade intelectual e os grandes gênios podem ter muito que expiar. Daí, frequentemente, lhes resulta uma existência inferior à que tiveram e uma [causa](Causalidade){:.w} de sofrimentos. Os embaraços que o [Espírito](Espírito){:.w} encontra para suas manifestações se lhe assemelham às algemas que tolhem os movimentos a um homem vigoroso. Pode dizer-se que os cretinos e os idiotas são estropiados do cérebro, como o coxo o é das pernas e dos olhos o cego.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5805,7 +5805,7 @@ Que é o que motiva a mudança que se opera no caráter do indivíduo em certa i
 
 Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência corporal e reconhecer-se?
 
-> <span class="emoji">👻</span> ▸ Reconhecer-se, não. Podem, porém, sentir-se atraídos um para o outro. E, frequentemente, diversa não é a [causa](Causalidade){:.d} de íntimas ligações fundadas em sincera afeição. Um do outro dois seres se aproximam devido a circunstâncias aparentemente fortuitas, mas que na realidade resultam da atração de dois [Espíritos](Espírito){:.w}, **que se buscam reciprocamente por entre a multidão**.
+> <span class="emoji">👻</span> ▸ Reconhecer-se, não. Podem, porém, sentir-se atraídos um para o outro. E, frequentemente, diversa não é a [causa](Causalidade){:.w} de íntimas ligações fundadas em sincera afeição. Um do outro dois seres se aproximam devido a circunstâncias aparentemente fortuitas, mas que na realidade resultam da atração de dois [Espíritos](Espírito){:.w}, **que se buscam reciprocamente por entre a multidão**.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -5868,7 +5868,7 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior [Espírito](Espír
 > <span class="emoji">👻</span> ▸ Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um [Espírito](Espírito){:.w} mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom [Espírito](Espírito){:.w} sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antipatia, [causa](Causalidade){:.d} e efeitos da <a href="#antipatia">↩️</a>
+<span class="emoji">🏷️</span> Antipatia, [causa](Causalidade){:.w} e efeitos da <a href="#antipatia">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Esquecimento do passado {#lde-2-07-08}
@@ -5888,7 +5888,7 @@ Por que perde o [Espírito](Espírito){:.w} encarnado a lembrança do seu passad
 
 Como pode o homem ser responsável por atos e resgatar faltas de que se não lembra? Como pode aproveitar da experiência de vidas de que se esqueceu? Conceber-se-ia que as tribulações da existência lhe servissem de lição, se se recordasse do que as tenha podido ocasionar. Desde que, porém, disso não se recorda, cada existência é, para ele, como se fosse a primeira e eis que então está sempre a recomeçar. Como conciliar isto com a Justiça de [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ Em cada nova existência, o homem dispõe de mais [inteligência](Inteligência){:.w} e melhor pode distinguir o bem do mal. Onde o seu mérito se se lembrasse de todo o passado? Quando o [Espírito](Espírito){:.w} volta à vida anterior (a vida espírit- a), diante dos olhos se lhe estende toda a sua vida pretérita. Vê as faltas que cometeu e que deram [causa](Causalidade){:.d} ao seu sofrer, assim como de que modo as teria evitado. Reconhece justa a situação em que se acha e busca então uma existência capaz de reparar a que vem de transcorrer. Escolhe provas análogas às de que não soube aproveitar, ou as lutas que considere apropriadas ao seu adiantamento e pede a [Espíritos](Espírito){:.w} que lhe são superiores que o ajudem na nova empresa que sobre si toma, ciente de que o [Espírito](Espírito){:.w}, que lhe for dado por guia nessa outra existência, se esforçará por levá-lo a reparar suas faltas, dando-lhe uma espécie de **intuição** das em que incorreu. Tendes essa intuição no pensamento, no desejo criminoso que frequentemente vos assalta e a que instintivamente resistis, atribuindo, as mais das vezes, essa resistência aos princípios que recebestes de vossos pais, quando é a voz da [consciência](Consciência){:.w} que vos fala. Essa voz, que é a lembrança do passado, vos adverte para não recairdes nas faltas de que já vos fizestes culpados. Na nova existência, se sofre com coragem aquelas provas e resiste, o [Espírito](Espírito){:.w} se eleva e ascende na hierarquia dos [Espíritos](Espírito){:.w}, ao voltar para o meio deles.
+> <span class="emoji">👻</span> ▸ Em cada nova existência, o homem dispõe de mais [inteligência](Inteligência){:.w} e melhor pode distinguir o bem do mal. Onde o seu mérito se se lembrasse de todo o passado? Quando o [Espírito](Espírito){:.w} volta à vida anterior (a vida espírit- a), diante dos olhos se lhe estende toda a sua vida pretérita. Vê as faltas que cometeu e que deram [causa](Causalidade){:.w} ao seu sofrer, assim como de que modo as teria evitado. Reconhece justa a situação em que se acha e busca então uma existência capaz de reparar a que vem de transcorrer. Escolhe provas análogas às de que não soube aproveitar, ou as lutas que considere apropriadas ao seu adiantamento e pede a [Espíritos](Espírito){:.w} que lhe são superiores que o ajudem na nova empresa que sobre si toma, ciente de que o [Espírito](Espírito){:.w}, que lhe for dado por guia nessa outra existência, se esforçará por levá-lo a reparar suas faltas, dando-lhe uma espécie de **intuição** das em que incorreu. Tendes essa intuição no pensamento, no desejo criminoso que frequentemente vos assalta e a que instintivamente resistis, atribuindo, as mais das vezes, essa resistência aos princípios que recebestes de vossos pais, quando é a voz da [consciência](Consciência){:.w} que vos fala. Essa voz, que é a lembrança do passado, vos adverte para não recairdes nas faltas de que já vos fizestes culpados. Na nova existência, se sofre com coragem aquelas provas e resiste, o [Espírito](Espírito){:.w} se eleva e ascende na hierarquia dos [Espíritos](Espírito){:.w}, ao voltar para o meio deles.
 
 Não temos, é certo, durante a vida corpórea, lembrança exata do que fomos e do que fizemos em anteriores existências; mas temos de tudo isso a intuição, sendo as nossas tendências instintivas uma reminiscência do passado. E a nossa consciência, que é o desejo que experimentamos de não reincidir nas faltas já cometidas, nos concita à resistência àqueles pendores. 
 
@@ -6209,7 +6209,7 @@ Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, 
 
 ###### Q.419 {#q419}
 
-Que é o que dá [causa](Causalidade){:.d} a que uma ideia, a de uma descoberta, por exemplo, surja em muitos pontos ao mesmo tempo?
+Que é o que dá [causa](Causalidade){:.w} a que uma ideia, a de uma descoberta, por exemplo, surja em muitos pontos ao mesmo tempo?
 
 > <span class="emoji">👻</span> ▸ Já dissemos que durante o sono os [Espíritos](Espírito){:.w} se comunicam entre si. Ora bem! Quando se dá o despertar, o [Espírito](Espírito){:.w} se lembra do que aprendeu e o homem julga ser isso um invento de sua autoria. Assim é que muitos podem simultaneamente descobrir a mesma coisa. Quando dizeis que uma ideia paira no ar, usais de uma figura de linguagem mais exata do que supondes. Todos, sem o suspeitarem, contribuem para propagá-la.
 
@@ -6235,7 +6235,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 
 > <span class="emoji">👻</span> ▸ São dois [Espíritos](Espírito){:.w} simpáticos, que se comunicam e veem reciprocamente seus pensamentos respectivos, embora não estejam adormecidos os corpos.
 
-Há, entre os [Espíritos](Espírito){:.w} que se encontram, uma comunicação de pensamento, que dá [causa](Causalidade){:.d} a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos [Espíritos](Espírito){:.w}.
+Há, entre os [Espíritos](Espírito){:.w} que se encontram, uma comunicação de pensamento, que dá [causa](Causalidade){:.w} a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -6267,7 +6267,7 @@ Por quê?
 
 Na letargia, pode o [Espírito](Espírito){:.w} separar-se inteiramente do corpo, de modo a imprimir-lhe todas as aparências da [morte](Morte){:.w} e voltar depois a habitá-lo?
 
-> <span class="emoji">👻</span> ▸ Na letargia, o corpo não está morto, porquanto há funções que continuam a executar-se. Sua vitalidade se encontra em estado latente, como na crisálida, porém não aniquilada. Ora, enquanto o corpo vive, o [Espírito](Espírito){:.w} se lhe acha ligado. Rompendo-se, por efeito da [morte](Morte){:.w} **real** e pela desagregação dos órgãos, os laços que prendem um ao outro, integral se torna a separação e o [Espírito](Espírito){:.w} não volta mais ao seu envoltório. Desde que um homem, aparentemente morto, volve à vida, é que não era completa a morte.
+> <span class="emoji">👻</span> ▸ Na letargia, o corpo não está morto, porquanto há funções que continuam a executar-se. Sua vitalidade se encontra em estado latente, como na [crisálida](Crisálida){:.w}, porém não aniquilada. Ora, enquanto o corpo vive, o [Espírito](Espírito){:.w} se lhe acha ligado. Rompendo-se, por efeito da [morte](Morte){:.w} **real** e pela desagregação dos órgãos, os laços que prendem um ao outro, integral se torna a separação e o [Espírito](Espírito){:.w} não volta mais ao seu envoltório. Desde que um homem, aparentemente morto, volve à vida, é que não era completa a morte.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -6279,7 +6279,7 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 
 > <span class="emoji">👻</span> ▸ Sem [dúvida](Dúvida){:.w} e todos os dias tendes a prova disso. O magnetismo, em tais casos, constitui, muitas vezes, poderoso meio de ação, porque restitui ao corpo o fluido vital que lhe falta para manter o funcionamento dos órgãos.
 
-A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma [causa](Causalidade){:.d} fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a [inteligência](Inteligência){:.w} se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética.
+A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma [causa](Causalidade){:.w} fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a [inteligência](Inteligência){:.w} se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -6321,7 +6321,7 @@ De que natureza é o agente que se chama fluido magnético?
 
 ###### Q.428 {#q428}
 
-Qual a [causa](Causalidade){:.d} da clarividência sonambúlica?
+Qual a [causa](Causalidade){:.w} da clarividência sonambúlica?
 
 > <span class="emoji">👻</span> ▸ Já o dissemos: É a [alma](Alma){:.l} que vê.
 
@@ -6619,7 +6619,7 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 ###### Q.455 {#q455}
 
-Os [fenônemos](fenómeno){:.w} do sonambulismo natural se produzem espontaneamente e independem de qualquer [causa](Causalidade){:.d} exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
+Os [fenônemos](fenómeno){:.w} do sonambulismo natural se produzem espontaneamente e independem de qualquer [causa](Causalidade){:.w} exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
 
 O estado que se designa pelo nome de **sonambulismo magnético** apenas difere do sonambulismo natural em que um é provocado, enquanto o outro é espontâneo.
 
@@ -6627,7 +6627,7 @@ O sonambulismo natural constitui fato notório, que ninguém mais se lembra de p
 
 Para o [Espiritismo](Espiritismo){:.l}, o sonambulismo é mais do que um [fenômeno](Fenómeno){:.w} psicológico, é uma luz projetada sobre a psicologia. É aí que se pode estudar a alma, porque é onde esta se mostra a descoberto. Ora, um dos [fenônemo](fenómeno){:.w} que a caracterizam é o da clarividência independente dos órgãos ordinários da vista. Fundam-se os que contestam este fato em que o sonâmbulo nem sempre vê, e à [vontade](Vontade){:.w} do experimentador, como com os olhos. Será de admirar que difiram os efeitos, quando diferentes são os meios? Será racional que se pretenda obter os mesmos efeitos, quando há e quando não há o instrumento? A [alma](Alma){:.l} tem suas propriedades, como os olhos têm as suas. Cumpre julgá-las em si mesmas e não por analogia.
 
-De uma [causa](Causalidade){:.d} única se originam a clarividência do sonâmbulo magnético e a do sonâmbulo natural. **É um atributo da alma**, uma faculdade inerente a todas as partes do ser incorpóreo que existe em nós e cujos limites não são outros senão os assinados à própria alma. O sonâmbulo vê em todos os lugares em que sua [alma](Alma){:.l} possa transportar-se, qualquer que seja a longitude.
+De uma [causa](Causalidade){:.w} única se originam a clarividência do sonâmbulo magnético e a do sonâmbulo natural. **É um atributo da alma**, uma faculdade inerente a todas as partes do ser incorpóreo que existe em nós e cujos limites não são outros senão os assinados à própria alma. O sonâmbulo vê em todos os lugares em que sua [alma](Alma){:.l} possa transportar-se, qualquer que seja a longitude.
 
 No caso de visão a distância, o sonâmbulo não vê as coisas de onde está o seu corpo, como por meio de um telescópio. Vê as presentes, como se se achasse no lugar onde elas existem, porque sua alma, em realidade, lá está. Por isso é que seu corpo fica como que aniquilado e privado de sensação, até que a [alma](Alma){:.l} volte a habitá-lo novamente. Essa separação parcial da [alma](Alma){:.l} e do corpo constitui um estado anormal, suscetível de duração mais ou menos longa, porém, não indefinida. Daí a fadiga que o corpo experimenta após certo tempo, mormente quando aquela se entrega a um trabalho ativo.
 
@@ -6643,17 +6643,17 @@ O sonâmbulo vê ao mesmo tempo o seu próprio [Espírito](Espírito){:.w} e o s
 
 Em cada uma de suas existências corporais, o [Espírito](Espírito){:.w} adquire um acréscimo de conhecimentos e de experiência. Esquece-os parcialmente, quando encarnado em matéria por demais grosseira, **porém, deles se recorda como [Espírito](Espírito){:.w}**. Assim é que certos sonâmbulos revelam conhecimentos acima do grau da instrução que possuem e mesmo superiores às suas aparentes capacidades intelectuais. Portanto, da inferioridade intelectual e científica do sonâmbulo, quando desperto, nada se pode inferir com relação aos conhecimentos que porventura revele no estado de lucidez. Conforme as circunstâncias e o fim que se tenha em vista, ele os pode haurir da sua própria experiência, da sua clarividência relativa às coisas presentes, ou dos conselhos que receba de outros [Espíritos](Espírito){:.w}. Podendo o seu próprio [Espírito](Espírito){:.w} ser mais ou menos adiantado, possível lhe é dizer coisas mais ou menos certas.
 
-Pelos [fenônemo](fenómeno){:.w} do sonambulismo, quer natural, quer magnético, a Providência nos dá a prova irrecusável da existência e da independência da [alma](Alma){:.l} e nos faz assistir ao sublime espetáculo da sua emancipação. Abre-nos, dessa maneira, o livro do nosso destino. Quando o sonâmbulo descreve o que se passa a distância, é evidente que vê, mas não com os olhos do corpo. Vê-se a si mesmo e se sente transportado ao lugar onde vê o que descreve. Lá se acha, pois, alguma coisa dele e, não podendo essa alguma coisa ser o seu corpo, necessariamente é sua [alma](Alma){:.l} ou [Espírito](Espírito){:.w}. Enquanto o homem se perde nas sutilezas de uma metafísica abstrata e ininteligível, em busca das causas da nossa existência moral, [Deus](Deus){:.l} cotidianamente nos põe sob os olhos e ao alcance da mão os mais simples e patentes meios de estudarmos a psicologia experimental.
+Pelos [fenônemo](fenómeno){:.w} do sonambulismo, quer natural, quer magnético, a Providência nos dá a prova irrecusável da existência e da independência da [alma](Alma){:.l} e nos faz assistir ao sublime espetáculo da sua emancipação. Abre-nos, dessa maneira, o livro do nosso destino. Quando o sonâmbulo descreve o que se passa a distância, é evidente que vê, mas não com os olhos do corpo. Vê-se a si mesmo e se sente transportado ao lugar onde vê o que descreve. Lá se acha, pois, alguma coisa dele e, não podendo essa alguma coisa ser o seu corpo, necessariamente é sua [alma](Alma){:.l} ou [Espírito](Espírito){:.w}. Enquanto o homem se perde nas [sutil](sutil){:.d}ezas de uma metafísica abstrata e ininteligível, em busca das causas da nossa existência moral, [Deus](Deus){:.l} cotidianamente nos põe sob os olhos e ao alcance da mão os mais simples e patentes meios de estudarmos a psicologia experimental.
 
 O êxtase é o estado em que a independência da alma, com relação ao corpo, se manifesta de modo mais sensível e se torna, de certa forma, palpável.
 
-No sonho e no sonambulismo, o [Espírito](Espírito){:.w} anda em giro pelos mundos terrestres. No êxtase, penetra em um mundo desconhecido, o dos [Espíritos](Espírito){:.w} etéreos, com os quais entra em comunicação, sem que, todavia, lhe seja lícito ultrapassar certos limites, porque, se os transpusesse, totalmente se partiriam os laços que o prendem ao corpo. Cerca-o então resplendente e desusado fulgor, inebriam-no harmonias que na [Terra](Terra){:.w} se desconhecem, indefinível bem-estar o invade: goza antecipadamente da beatitude celeste **e bem se pode dizer que pousa um pé no limiar da eternidade**.
+No sonho e no sonambulismo, o [Espírito](Espírito){:.w} anda em giro pelos mundos terrestres. No êxtase, penetra em um mundo desconhecido, o dos [Espíritos](Espírito){:.w} [etéreo](etéreo){:.d}s, com os quais entra em comunicação, sem que, todavia, lhe seja lícito ultrapassar certos limites, porque, se os transpusesse, totalmente se partiriam os laços que o prendem ao corpo. Cerca-o então resplendente e desusado fulgor, inebriam-no harmonias que na [Terra](Terra){:.w} se desconhecem, indefinível bem-estar o invade: goza antecipadamente da beatitude celeste **e bem se pode dizer que pousa um pé no limiar da [eternidade](Eternidade){:.w}**.
 
 No estado de êxtase, o aniquilamento do corpo é quase completo. Fica-lhe somente, pode-se dizer, a vida orgânica. Sente-se que a [alma](Alma){:.l} se lhe acha presa unicamente por um fio, que mais um pequenino esforço quebraria sem remissão.
 
 Nesse estado, desaparecem todos os pensamentos terrestres, cedendo lugar ao sentimento apurado, que constitui a essência mesma do nosso ser[imaterial](imaterial){:.d}. Inteiramente entregue a tão sublime contemplação, o extático encara a vida apenas como paragem momentânea. Considera os bens e os males, as alegrias grosseiras e as misérias deste mundo quais incidentes fúteis de uma viagem, cujo termo tem a dita de avistar.
 
-Dá-se com os extáticos o que se dá com os sonâmbulos: mais ou menos perfeita podem ter a lucidez e o [Espírito](Espírito){:.w} mais ou menos apto a conhecer e compreender as coisas, conforme seja mais ou menos elevado. Muitas vezes, porém, há neles mais excitação do que verdadeira lucidez, ou, melhor, muitas vezes a exaltação lhes prejudica a lucidez. Daí o serem, frequentemente, suas revelações um misto de verdades e erros, de coisas grandiosas e coisas absurdas, até ridículas. Dessa exaltação, que é sempre uma [causa](Causalidade){:.d} de fraqueza, quando o indivíduo não sabe reprimi-la, [Espíritos](Espírito){:.w} inferiores costumam aproveitar-se para dominar o extático, tomando, com tal intuito, aos seus olhos, **aparências** que mais o aferram às ideias que nutre no estado de vigília. Há nisso um escolho, mas nem todos são assim. Cabe-nos tudo julgar friamente e pesar-lhes as revelações na balança da razão.
+Dá-se com os extáticos o que se dá com os sonâmbulos: mais ou menos perfeita podem ter a lucidez e o [Espírito](Espírito){:.w} mais ou menos apto a conhecer e compreender as coisas, conforme seja mais ou menos elevado. Muitas vezes, porém, há neles mais excitação do que verdadeira lucidez, ou, melhor, muitas vezes a exaltação lhes prejudica a lucidez. Daí o serem, frequentemente, suas revelações um misto de verdades e erros, de coisas grandiosas e coisas absurdas, até ridículas. Dessa exaltação, que é sempre uma [causa](Causalidade){:.w} de fraqueza, quando o indivíduo não sabe reprimi-la, [Espíritos](Espírito){:.w} inferiores costumam aproveitar-se para dominar o extático, tomando, com tal intuito, aos seus olhos, **aparências** que mais o aferram às ideias que nutre no estado de vigília. Há nisso um escolho, mas nem todos são assim. Cabe-nos tudo julgar friamente e pesar-lhes as revelações na balança da razão.
 
 A emancipação da [alma](Alma){:.l} se verifica às vezes no estado de vigília e produz o [fenômeno](Fenómeno){:.w} conhecido pelo nome de **segunda vista** ou **dupla vista**, que é a faculdade graças à qual quem a possui vê, ouve e sente **além dos limites dos sentidos humanos**. Percebe o que exista até onde estende a [alma](Alma){:.l} a sua ação. Vê, por assim dizer, através da vista ordinária e como por uma espécie de miragem.
 
@@ -6663,7 +6663,7 @@ Aos dotados desta faculdade ela se afigura tão natural, como a que todos temos 
 
 O poder da vista dupla varia, indo desde a sensação confusa até a percepção clara e nítida das coisas presentes ou ausentes. Quando rudimentar, confere a certas pessoas o tato, a perspicácia, uma certa segurança nos atos, a que se pode dar o qualificativo de **precisão de golpe de vista moral**. Um pouco desenvolvida, desperta os pressentimentos. Mais desenvolvida, mostra os acontecimentos que deram ou estão para dar-se.
 
-O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma [causa](Causalidade){:.d}. Esses [fenômenos](fenómeno){:.d}, como os sonhos, estão na ordem da natureza. Tal a [razão](Razão){:.w} por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
+O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma [causa](Causalidade){:.w}. Esses [fenômenos](fenómeno){:.d}, como os sonhos, estão na ordem da natureza. Tal a [razão](Razão){:.w} por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, prova da existência e independência da <a href="#alma">↩️</a><br>
@@ -6862,7 +6862,7 @@ Os [Espíritos](Espírito){:.w}, que ao mal procuram induzir-nos e que põem ass
 
 ###### Q.471 {#q471}
 
-Quando experimentamos uma sensação de angústia, de ansiedade indefinível, ou de íntima satisfação, sem que lhe conheçamos a [causa](Causalidade){:.d}, devemos atribuí-la unicamente a uma disposição física?
+Quando experimentamos uma sensação de angústia, de ansiedade indefinível, ou de íntima satisfação, sem que lhe conheçamos a [causa](Causalidade){:.w}, devemos atribuí-la unicamente a uma disposição física?
 
 > <span class="emoji">👻</span> ▸ É quase sempre efeito das comunicações em que inconscientemente entrais com os [Espíritos](Espírito){:.w}, ou da que com eles tivestes durante o sono.
 
@@ -6948,7 +6948,7 @@ Pessoas há, animadas de boas intenções e que, nada obstante, não deixam de s
 
 A [prece](Prece){:.l} é meio eficiente para a cura da [obsessão](Obsessão){:.l}?
 
-> <span class="emoji">👻</span> ▸ A [prece](Prece){:.l} é em tudo um poderoso auxílio, mas crede que não basta que alguém murmure algumas palavras, para que obtenha o que deseja. [Deus](Deus){:.l} assiste os que obram, não os que se limitam a pedir. É, pois, indispensável que o obsidiado faça, por sua parte, o que se torne necessário para destruir em si mesmo a [causa](Causalidade){:.d} da atração dos maus [Espíritos](Espírito){:.w}.
+> <span class="emoji">👻</span> ▸ A [prece](Prece){:.l} é em tudo um poderoso auxílio, mas crede que não basta que alguém murmure algumas palavras, para que obtenha o que deseja. [Deus](Deus){:.l} assiste os que obram, não os que se limitam a pedir. É, pois, indispensável que o obsidiado faça, por sua parte, o que se torne necessário para destruir em si mesmo a [causa](Causalidade){:.w} da atração dos maus [Espíritos](Espírito){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -6958,7 +6958,7 @@ A [prece](Prece){:.l} é meio eficiente para a cura da [obsessão](Obsessão){:.
 
 Que se deve pensar da expulsão dos demônios, mencionada no [Evangelho](Evangelho){:.l}?
 
-> <span class="emoji">👻</span> ▸ Depende da interpretação que se lhe dê. Se chamais demônio ao mau [Espírito](Espírito){:.w} que subjugue um indivíduo, desde que se lhe destrua a influência, ele terá sido verdadeiramente expulso. Se ao demônio atribuirdes a [causa](Causalidade){:.d} de uma enfermidade, quando a houverdes curado direis com acerto que expulsastes o demônio. Uma coisa pode ser verdadeira ou falsa, conforme o sentido que empresteis às palavras. As maiores verdades estão sujeitas a parecer absurdos, uma vez que se atenda apenas à forma, ou que se considere como realidade a alegoria. Compreendei bem isto e não o esqueçais nunca, pois que se presta a uma aplicação geral.
+> <span class="emoji">👻</span> ▸ Depende da interpretação que se lhe dê. Se chamais demônio ao mau [Espírito](Espírito){:.w} que subjugue um indivíduo, desde que se lhe destrua a influência, ele terá sido verdadeiramente expulso. Se ao demônio atribuirdes a [causa](Causalidade){:.w} de uma enfermidade, quando a houverdes curado direis com acerto que expulsastes o demônio. Uma coisa pode ser verdadeira ou falsa, conforme o sentido que empresteis às palavras. As maiores verdades estão sujeitas a parecer absurdos, uma vez que se atenda apenas à forma, ou que se considere como realidade a alegoria. Compreendei bem isto e não o esqueçais nunca, pois que se presta a uma aplicação geral.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -6970,7 +6970,7 @@ Que se deve pensar da expulsão dos demônios, mencionada no [Evangelho](Evangel
 
 Desempenham os [Espíritos](Espírito){:.w} algum papel nos [fenônemo](fenómeno){:.w} que se dão com os indivíduos chamados convulsionários?
 
-> <span class="emoji">👻</span> ▸ Sim e muito importante, bem como o magnetismo, que é a [causa](Causalidade){:.d} originária de tais [fenômenos](fenómeno){:.d}. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
+> <span class="emoji">👻</span> ▸ Sim e muito importante, bem como o magnetismo, que é a [causa](Causalidade){:.w} originária de tais [fenômenos](fenómeno){:.d}. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -6996,13 +6996,13 @@ Entre as singulares faculdades que se notam nos convulsionários, algumas facilm
 
 ###### Q.483 {#q483}
 
-Qual a [causa](Causalidade){:.d} da insensibilidade física que se observa em alguns convulsionários, assim como em outros indivíduos submetidos às mais atrozes torturas?
+Qual a [causa](Causalidade){:.w} da insensibilidade física que se observa em alguns convulsionários, assim como em outros indivíduos submetidos às mais atrozes torturas?
 
 > <span class="emoji">👻</span> ▸ Em alguns é, exclusivamente, efeito do magnetismo, que atua sobre o sistema nervoso, do mesmo modo que certas substâncias. Em outros, a exaltação do pensamento embota a sensibilidade. Dir-se-ia que nestes a vida se retirou do corpo, para se concentrar toda no [Espírito](Espírito){:.w}. Não sabeis que, quando o [Espírito](Espírito){:.w} está vivamente preocupado com uma coisa, o corpo nada sente, nada vê e nada ouve?
 
 A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplícios, múltiplos exemplos de uma calma e de um sangue frio que não seriam capazes de triunfar de uma dor aguda, senão admitindo-se que a sensibilidade se acha neutralizada, como por efeito de um anestésico. Sabe-se que, no ardor da batalha, combatentes há que não se apercebem de que estão gravemente feridos, ao passo que, em circunstâncias ordinárias, uma simples arranhadura os poria trêmulos.
 
-Visto que esses [fenônemo](fenómeno){:.w} dependem de uma [causa](Causalidade){:.d} física e da ação de certos [Espíritos](Espírito){:.w}, lícito se torna perguntar como há podido uma [autoridade](Autoridade){:.w} pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos [Espíritos](Espírito){:.w}, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a [causa](Causalidade){:.d} que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve [razão](Razão){:.w} para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante [intervenção](intervenção){:.d} nenhum poder absolutamente tem, quando a ação dos [Espíritos](Espírito){:.w} é direta e espontânea.
+Visto que esses [fenônemo](fenómeno){:.w} dependem de uma [causa](Causalidade){:.w} física e da ação de certos [Espíritos](Espírito){:.w}, lícito se torna perguntar como há podido uma [autoridade](Autoridade){:.w} pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos [Espíritos](Espírito){:.w}, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve [razão](Razão){:.w} para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante [intervenção](intervenção){:.d} nenhum poder absolutamente tem, quando a ação dos [Espíritos](Espírito){:.w} é direta e espontânea.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Autoridade, providências para o bem público e <a href="#autoridade">↩️</a>
@@ -7043,7 +7043,7 @@ Interessam-se os [Espíritos](Espírito){:.w} pelas nossas desgraças e pela nos
 
 ###### Q.487 {#q487}
 
-Dentre os nossos males, de que natureza são os de que mais se afligem os [Espíritos](Espírito){:.w} por nossa [causa](Causalidade){:.d}? Serão os males físicos ou os morais?
+Dentre os nossos males, de que natureza são os de que mais se afligem os [Espíritos](Espírito){:.w} por nossa [causa](Causalidade){:.w}? Serão os males físicos ou os morais?
 
 > <span class="emoji">👻</span> ▸ O vosso egoísmo e a dureza dos vossos corações. Daí decorre tudo o mais. Riem-se de todos esses males imaginários que nascem do [orgulho](Orgulho){:.w} e da ambição. Rejubilam com os que redundam na abreviação do tempo das vossas provas.
 
@@ -7259,7 +7259,7 @@ O [Espírito](Espírito){:.w} protetor, que consegue trazer ao bom caminho o seu
 
 ###### Q.503 {#q503}
 
-Sofre o [Espírito](Espírito){:.w} protetor quando vê que seu protegido segue mau caminho, não obstante os avisos que dele recebe? Não há aí uma [causa](Causalidade){:.d} de turbação da sua felicidade?
+Sofre o [Espírito](Espírito){:.w} protetor quando vê que seu protegido segue mau caminho, não obstante os avisos que dele recebe? Não há aí uma [causa](Causalidade){:.w} de turbação da sua felicidade?
 
 > <span class="emoji">👻</span> ▸ Compungem-no os erros do seu protegido, a quem lastima. Tal aflição, porém, não tem analogia com as angústias da paternidade terrena, porque ele sabe que há remédio para o mal e que o que não se faz hoje, amanhã se fará.
 
@@ -7735,7 +7735,7 @@ Objetivam sempre o homem esses [fenômenos](fenómeno){:.d}?
 
 ###### Q.536.b {#q536b}
 
-Concebemos perfeitamente que a [vontade](Vontade){:.w} de [Deus](Deus){:.l} seja a [causa](Causalidade){:.d} primária, nisto como em tudo; porém, sabendo que os [Espíritos](Espírito){:.w} exercem ação sobre a matéria e que são os agentes da [vontade](Vontade){:.w} de [Deus](Deus){:.l}, perguntamos se alguns dentre eles não exercerão certa influência sobre os elementos para os agitar, acalmar ou dirigir?
+Concebemos perfeitamente que a [vontade](Vontade){:.w} de [Deus](Deus){:.l} seja a [causa](Causalidade){:.w} primária, nisto como em tudo; porém, sabendo que os [Espíritos](Espírito){:.w} exercem ação sobre a matéria e que são os agentes da [vontade](Vontade){:.w} de [Deus](Deus){:.l}, perguntamos se alguns dentre eles não exercerão certa influência sobre os elementos para os agitar, acalmar ou dirigir?
 
 > <span class="emoji">👻</span> ▸ Evidentemente. Nem poderia ser de outro modo. [Deus](Deus){:.l} não exerce ação direta sobre a matéria. Ele encontra agentes dedicados em todos os graus da escala dos mundos.
 
@@ -7795,7 +7795,7 @@ A produção de certos [fenômenos](fenómeno){:.d}, das tempestades, por exempl
 
 ###### Q.540 {#q540}
 
-Os [Espíritos](Espírito){:.w} que exercem ação nos [fenônemo](fenómeno){:.w} da Natureza operam com conhecimento de [causa](Causalidade){:.d}, usando do livre-arbítrio, ou por efeito de instintivo ou irrefletido impulso?
+Os [Espíritos](Espírito){:.w} que exercem ação nos [fenônemo](fenómeno){:.w} da Natureza operam com conhecimento de [causa](Causalidade){:.w}, usando do livre-arbítrio, ou por efeito de instintivo ou irrefletido impulso?
 
 > <span class="emoji">👻</span> ▸ Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à [harmonia](harmonia){:.d} geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de [Deus](Deus){:.l}. Pois bem, do mesmo modo, os [Espíritos](Espírito){:.w} mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena [consciência](Consciência){:.w} de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos [fenômenos](fenómeno){:.d}, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de [harmonia](harmonia){:.d}, que o vosso acanhado [espírito](Espírito){:.w} ainda não pode apreender em seu conjunto! 
 
@@ -7819,9 +7819,9 @@ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses de
 
 ###### Q.542 {#q542}
 
-Estando, numa guerra, a justiça sempre de um dos lados, como pode haver [Espíritos](Espírito){:.w} que tomem o partido dos que se batem por uma [causa](Causalidade){:.d} injusta?
+Estando, numa guerra, a justiça sempre de um dos lados, como pode haver [Espíritos](Espírito){:.w} que tomem o partido dos que se batem por uma [causa](Causalidade){:.w} injusta?
 
-> <span class="emoji">👻</span> ▸ Bem sabeis haver [Espíritos](Espírito){:.w} que só se comprazem na discórdia e na destruição. Para esses, a guerra é a guerra. A justiça da [causa](Causalidade){:.d} pouco os preocupa.
+> <span class="emoji">👻</span> ▸ Bem sabeis haver [Espíritos](Espírito){:.w} que só se comprazem na discórdia e na destruição. Para esses, a guerra é a guerra. A justiça da causa pouco os preocupa.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -7893,7 +7893,7 @@ Continua a ouvir o rumor da batalha?
 
 O [Espírito](Espírito){:.w} que, como espectador, assiste calmamente a um combate observa o ato de separar-se a [alma](Alma){:.l} do corpo? Como é que esse [fenômeno](Fenómeno){:.w} se lhe apresenta à observação?
 
-> <span class="emoji">👻</span> ▸ Raras são as mortes verdadeiramente instantâneas. Na maioria dos casos, o [Espírito](Espírito){:.w}, cujo corpo acaba de ser mortalmente ferido, não tem [consciência](Consciência){:.w} imediata desse fato. Somente quando ele começa a reconhecer a nova condição em que se acha, é que os assistentes podem distingui-lo, a mover-se ao lado do cadáver. Parece isso tão natural, que nenhum efeito desagradável lhe [causa](Causalidade){:.d} a vista do corpo morto. Tendo-se a vida toda concentrado no [Espírito](Espírito){:.w}, só ele prende a atenção dos outros. É com ele que estes conversam, ou a ele é que fazem determinações.
+> <span class="emoji">👻</span> ▸ Raras são as mortes verdadeiramente instantâneas. Na maioria dos casos, o [Espírito](Espírito){:.w}, cujo corpo acaba de ser mortalmente ferido, não tem [consciência](Consciência){:.w} imediata desse fato. Somente quando ele começa a reconhecer a nova condição em que se acha, é que os assistentes podem distingui-lo, a mover-se ao lado do cadáver. Parece isso tão natural, que nenhum efeito desagradável lhe [causa](Causalidade){:.w} a vista do corpo morto. Tendo-se a vida toda concentrado no [Espírito](Espírito){:.w}, só ele prende a atenção dos outros. É com ele que estes conversam, ou a ele é que fazem determinações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -8053,7 +8053,7 @@ São permanentes para cada um e estão nas atribuições exclusivas de certas cl
 
 Já não tendo o que adquirir, os [Espíritos](Espírito){:.w} da ordem mais elevada se acham em repouso absoluto, ou também lhes tocam ocupações?
 
-> <span class="emoji">👻</span> ▸ Que quererias que fizessem na eternidade? A ociosidade eterna seria um [eterno](eterno){:.d} suplício.
+> <span class="emoji">👻</span> ▸ Que quererias que fizessem na [eternidade](Eternidade){:.w}? A ociosidade eterna seria um [eterno](eterno){:.d} suplício.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -8213,7 +8213,7 @@ Em que consiste a missão dos [Espíritos](Espírito){:.w} encarnados?
 
 Qual pode ser, na Terra, a missão das criaturas voluntariamente inúteis?
 
-> <span class="emoji">👻</span> ▸ Há efetivamente pessoas que só para si mesmas vivem e que não sabem tornar-se úteis ao que quer que seja. São pobres seres dignos de compaixão, porquanto expiarão duramente sua voluntária inutilidade, começando-lhes muitas vezes, já neste mundo, o castigo, pelo aborrecimento e pelo desgosto que a vida lhes [causa](Causalidade){:.d}.
+> <span class="emoji">👻</span> ▸ Há efetivamente pessoas que só para si mesmas vivem e que não sabem tornar-se úteis ao que quer que seja. São pobres seres dignos de compaixão, porquanto expiarão duramente sua voluntária inutilidade, começando-lhes muitas vezes, já neste mundo, o castigo, pelo aborrecimento e pelo desgosto que a vida lhes [causa](Causalidade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -8801,7 +8801,7 @@ Que se deve entender por lei natural?
 
 Será possível que [Deus](Deus){:.l} em certa época haja prescrito aos homens o que noutra época lhes proibiu?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} não se engana. Os homens é que são obrigados a modificar suas leis, por imperfeitas. As de [Deus](Deus){:.l}, essas são perfeitas. A [harmonia](harmonia){:.d} que reina no universo material, como no universo moral, se funda em leis estabelecidas por [Deus](Deus){:.l} desde toda a eternidade.
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} não se engana. Os homens é que são obrigados a modificar suas leis, por imperfeitas. As de [Deus](Deus){:.l}, essas são perfeitas. A [harmonia](harmonia){:.d} que reina no universo material, como no universo moral, se funda em leis estabelecidas por [Deus](Deus){:.l} desde toda a [eternidade](Eternidade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -8901,7 +8901,7 @@ Confiou [Deus](Deus){:.l} a certos homens a missão de revelarem a sua Lei?
 
 Os que hão pretendido instruir os homens na Lei de [Deus](Deus){:.l} não se têm enganado algumas vezes, fazendo-os transviar-se por meio de falsos princípios?
 
-> <span class="emoji">👻</span> ▸ Certamente hão dado [causa](Causalidade){:.d} a que os homens se transviassem, aqueles que não eram inspirados por [Deus](Deus){:.l} e que, por ambição, tomaram sobre si um encargo que lhes não fora cometido. Todavia, como eram, afinal, homens de gênio, mesmo entre os erros que ensinaram, grandes verdades muitas vezes se encontram.
+> <span class="emoji">👻</span> ▸ Certamente hão dado [causa](Causalidade){:.w} a que os homens se transviassem, aqueles que não eram inspirados por [Deus](Deus){:.l} e que, por ambição, tomaram sobre si um encargo que lhes não fora cometido. Todavia, como eram, afinal, homens de gênio, mesmo entre os erros que ensinaram, grandes verdades muitas vezes se encontram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -9122,7 +9122,7 @@ Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 
 ###### Q.644 {#q644}
 
-Para certos homens, o meio onde se acham colocados não representa a [causa](Causalidade){:.d} primária de muitos vícios e crimes?
+Para certos homens, o meio onde se acham colocados não representa a [causa](Causalidade){:.w} primária de muitos vícios e crimes?
 
 > <span class="emoji">👻</span> ▸ Sim, mas ainda aí há uma prova que o [Espírito](Espírito){:.w} escolheu, quando em liberdade, levado pelo desejo de expor-se à tentação para ter o mérito da resistência.
 
@@ -9761,7 +9761,7 @@ São contrários à Lei da Natureza as leis e os costumes humanos que têm por f
 
 Entretanto, há espécies de seres vivos, animais e plantas, cuja reprodução indefinida seria nociva a outras espécies e das quais o próprio homem acabaria por ser vítima. Pratica ele ato repreensível, impedindo essa reprodução?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} concedeu ao homem, sobre todos os seres vivos, um poder de que ele deve usar, sem abusar. Pode, pois, regular a reprodução, de acordo com as necessidades. Não deve opor-se-lhe sem necessidade. A ação [inteligente](Inteligência){:.w} do homem é um contrapeso que [Deus](Deus){:.l} dispôs para restabelecer o equilíbrio entre as forças da Natureza e é ainda isso o que o distingue dos animais, porque ele obra com conhecimento de [causa](Causalidade){:.d}. Os mesmos animais, porém, também concorrem para a existência desse equilíbrio, porquanto o instinto de destruição que lhes foi dado faz com que, provendo à própria conservação, obstem ao desenvolvimento excessivo, quiçá perigoso, das espécies animais e vegetais de que se alimentam.
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} concedeu ao homem, sobre todos os seres vivos, um poder de que ele deve usar, sem abusar. Pode, pois, regular a reprodução, de acordo com as necessidades. Não deve opor-se-lhe sem necessidade. A ação [inteligente](Inteligência){:.w} do homem é um contrapeso que [Deus](Deus){:.l} dispôs para restabelecer o equilíbrio entre as forças da Natureza e é ainda isso o que o distingue dos animais, porque ele obra com conhecimento de [causa](Causalidade){:.w}. Os mesmos animais, porém, também concorrem para a existência desse equilíbrio, porquanto o instinto de destruição que lhes foi dado faz com que, provendo à própria conservação, obstem ao desenvolvimento excessivo, quiçá perigoso, das espécies animais e vegetais de que se alimentam.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -10315,7 +10315,7 @@ Mas nem por isso as vítimas desses flagelos deixam de o ser.
 
 > <span class="emoji">👻</span> ▸ Se considerásseis a vida qual ela é e quão pouca coisa representa com relação ao [infinito](Infinito){:.w}, menos importância lhe daríeis. Em outra vida, essas vítimas acharão ampla compensação aos seus sofrimentos, se souberem suportá-los sem murmurar.
 
-Venha por um flagelo a morte, ou por uma [causa](Causalidade){:.d} comum, ninguém deixa por isso de morrer, desde que haja soado a hora da partida. A única diferença, em caso de flagelo, é que maior número parte ao mesmo tempo. Se, pelo pensamento, pudéssemos elevar-nos de maneira a dominar a [Humanidade](Natureza_humana){:.w} e a abrangê-la em seu conjunto, esses tão terríveis flagelos não nos pareceriam mais do que passageiras tempestades no destino do mundo.
+Venha por um flagelo a morte, ou por uma [causa](Causalidade){:.w} comum, ninguém deixa por isso de morrer, desde que haja soado a hora da partida. A única diferença, em caso de flagelo, é que maior número parte ao mesmo tempo. Se, pelo pensamento, pudéssemos elevar-nos de maneira a dominar a [Humanidade](Natureza_humana){:.w} e a abrangê-la em seu conjunto, esses tão terríveis flagelos não nos pareceriam mais do que passageiras tempestades no destino do mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -10399,7 +10399,7 @@ Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pod
 
 Que se deve pensar daquele que suscita a guerra para proveito seu?
 
-> <span class="emoji">👻</span> ▸ Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido [causa](Causalidade){:.d}, porquanto responderá por todos os homens cuja [morte](Morte){:.w} tenha causado para satisfazer à sua ambição.
+> <span class="emoji">👻</span> ▸ Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido [causa](Causalidade){:.w}, porquanto responderá por todos os homens cuja [morte](Morte){:.w} tenha causado para satisfazer à sua ambição.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Ambição, culpa por guerras e <a href="#ambicao">↩️</a>
@@ -10616,7 +10616,7 @@ A pena de morte, que pode vir a ser banida das sociedades civilizadas, não ter�
 
 Será um [indício](indício){:.d} de progresso da civilização a restrição dos casos em que se aplica a pena de morte?
 
-> <span class="emoji">👻</span> ▸ Podes duvidar disso? Não se revolta o teu [Espírito](Espírito){:.w}, quando lês a narrativa das carnificinas humanas que outrora se faziam em nome da justiça e, não raro, em honra da[Divindade](Divindade){:.w}; das torturas que se infligiam ao condenado e até ao simples acusado, para lhe arrancar, pela agudeza do sofrimento, a confissão de um crime que muitas vezes não cometera? Pois bem! Se houvesses vivido nessas épocas, terias achado tudo isso natural e talvez mesmo, se foras juiz, fizesses outro tanto. Assim é que o que pareceu justo, numa época, parece bárbaro em outra. Só as Leis divinas são eternas; as humanas mudam com o progresso e continuarão a mudar, até que tenham sido postas de acordo com aquelas.
+> <span class="emoji">👻</span> ▸ Podes duvidar disso? Não se revolta o teu [Espírito](Espírito){:.w}, quando lês a narrativa das carnificinas humanas que outrora se faziam em nome da justiça e, não raro, em honra da [Divindade](Divindade){:.w}; das torturas que se infligiam ao condenado e até ao simples acusado, para lhe arrancar, pela agudeza do sofrimento, a confissão de um crime que muitas vezes não cometera? Pois bem! Se houvesses vivido nessas épocas, terias achado tudo isso natural e talvez mesmo, se foras juiz, fizesses outro tanto. Assim é que o que pareceu justo, numa época, parece bárbaro em outra. Só as Leis divinas são eternas; as humanas mudam com o progresso e continuarão a mudar, até que tenham sido postas de acordo com aquelas.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -10626,7 +10626,7 @@ Será um [indício](indício){:.d} de progresso da civilização a restrição d
 
 Disse [Jesus](Jesus){:.w}: <span class="emoji">✝️</span> ▸ *todos os que lançarem mão da espada à espada morrerão.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 26](Mateus_26){:.w}, [vers. 51-52](MAT.26.ARC){:.b}, [ARC][ARC] Estas palavras não consagram a pena de talião e, assim, a [morte](Morte){:.w} dada ao assassino não constitui uma aplicação dessa pena?
 
-> <span class="emoji">👻</span> ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus](Deus){:.l}. É [Deus](Deus){:.l} quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi [causa](Causalidade){:.d} do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus](Jesus){:.w}. Não vos disse Ele também:
+> <span class="emoji">👻</span> ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de [Deus](Deus){:.l}. É [Deus](Deus){:.l} quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi [causa](Causalidade){:.w} do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de [Jesus](Jesus){:.w}. Não vos disse Ele também:
 >
 > <span class="emoji">✝️</span> ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.* [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 14](MAT.6.ARC){:.b}, [ARC][ARC]
 >
@@ -11055,7 +11055,7 @@ Por que indícios se pode reconhecer uma civilização completa?
 
 > <span class="emoji">👻</span> ▸ Reconhecê-la-eis pelo desenvolvimento moral. Credes que estais muito adiantados, porque tendes feito grandes descobertas e obtido maravilhosas invenções; porque vos alojais e vestis melhor do que os selvagens. Todavia, não tereis verdadeiramente o direito de dizer-vos civilizados, senão quando de vossa sociedade houverdes banido os vícios que a desonram e quando viverdes como irmãos, praticando a [caridade](caridade){:.l} cristã. Até então, sereis apenas povos esclarecidos, que hão percorrido a primeira fase da civilização.
 
-A civilização, como todas as coisas, apresenta gradações diversas. Uma civilização incompleta é um estado transitório, que gera males especiais, desconhecidos do homem no estado primitivo. Nem por isso, entretanto, constitui menos um progresso natural, necessário, que traz consigo o remédio para o mal que [causa](Causalidade){:.d}. À medida que a civilização se aperfeiçoa, faz cessar alguns dos males que gerou, males que desaparecerão todos com o progresso moral.
+A civilização, como todas as coisas, apresenta gradações diversas. Uma civilização incompleta é um estado transitório, que gera males especiais, desconhecidos do homem no estado primitivo. Nem por isso, entretanto, constitui menos um progresso natural, necessário, que traz consigo o remédio para o mal que [causa](Causalidade){:.w}. À medida que a civilização se aperfeiçoa, faz cessar alguns dos males que gerou, males que desaparecerão todos com o progresso moral.
 
 De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima [acepção](acepção){:.d} do termo, aquela em que exista menos egoísmo, menos cobiça e menos [orgulho](Orgulho){:.w}; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a [inteligência](Inteligência){:.w} possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro [amor](Amor){:.w} do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa [vontade](Vontade){:.w} esteja certo de lhe não faltar o necessário. 
 
@@ -11078,7 +11078,7 @@ Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das 
 
 ###### Q.795 {#q795}
 
-Qual a [causa](Causalidade){:.d} da instabilidade das leis humanas?
+Qual a [causa](Causalidade){:.w} da instabilidade das leis humanas?
 
 > <span class="emoji">👻</span> ▸ Nas épocas de barbaria, são os mais fortes que fazem as leis e eles as fizeram para si. À proporção que os homens foram compreendendo melhor a justiça, indispensável se tornou a modificação delas. Quanto mais se aproximam da vera justiça, tanto menos instáveis são as leis humanas, isto é, tanto mais estáveis se vão tornando, conforme vão sendo feitas para todos e se identificam com a lei natural.
 
@@ -11136,7 +11136,7 @@ De que maneira pode o [Espiritismo](Espiritismo){:.l} contribuir para o progress
 
 Não será de temer que o [Espiritismo](Espiritismo){:.l} não consiga triunfar da negligência dos homens e do seu apego às coisas materiais?
 
-> <span class="emoji">👻</span> ▸ Conhece bem pouco os homens quem imagine que uma [causa](Causalidade){:.d} qualquer os possa transformar como que por encanto. As ideias só pouco a pouco se modificam, conforme os indivíduos, e preciso é que algumas gerações passem, para que se apaguem totalmente os vestígios dos velhos hábitos. A transformação, pois, somente com o tempo, [gradual](gradual){:.d} e progressivamente, se pode operar. Para cada geração uma parte do véu se dissipa. O [Espiritismo](Espiritismo){:.l} vem rasgá-lo de alto a baixo. Entretanto, conseguisse ele unicamente corrigir num homem um único defeito que fosse e já o haveria forçado a dar um passo. Ter-lhe-ia feito, só com isso, grande bem, pois esse primeiro passo lhe facilitará os outros.
+> <span class="emoji">👻</span> ▸ Conhece bem pouco os homens quem imagine que uma [causa](Causalidade){:.w} qualquer os possa transformar como que por encanto. As ideias só pouco a pouco se modificam, conforme os indivíduos, e preciso é que algumas gerações passem, para que se apaguem totalmente os vestígios dos velhos hábitos. A transformação, pois, somente com o tempo, [gradual](gradual){:.d} e progressivamente, se pode operar. Para cada geração uma parte do véu se dissipa. O [Espiritismo](Espiritismo){:.l} vem rasgá-lo de alto a baixo. Entretanto, conseguisse ele unicamente corrigir num homem um único defeito que fosse e já o haveria forçado a dar um passo. Ter-lhe-ia feito, só com isso, grande bem, pois esse primeiro passo lhe facilitará os outros.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -11715,7 +11715,7 @@ Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influê
 
 A aberração das faculdades tira ao homem o livre-arbítrio?
 
-> <span class="emoji">👻</span> ▸ Já não é senhor do seu pensamento aquele cuja [inteligência](Inteligência){:.w} se ache turbada por uma [causa](Causalidade){:.d} qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o [Espírito](Espírito){:.w} que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse [Espírito](Espírito){:.w}, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O [Espírito](Espírito){:.w}, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria. 
+> <span class="emoji">👻</span> ▸ Já não é senhor do seu pensamento aquele cuja [inteligência](Inteligência){:.w} se ache turbada por uma [causa](Causalidade){:.w} qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o [Espírito](Espírito){:.w} que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse [Espírito](Espírito){:.w}, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O [Espírito](Espírito){:.w}, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br> 
  <span class="emoji"> 👉 </span>  Veja <a href="#q371">Q.371</a> e seguintes.<br>
@@ -11810,7 +11810,7 @@ Do fato de ser infalível a hora da morte, poder-se-á deduzir que sejam inútei
 
 Com que fim nos faz a Providência correr perigos que nenhuma consequência devem ter?
 
-> <span class="emoji">👻</span> ▸ O fato de ser a tua vida posta em perigo constitui um aviso que tu mesmo desejaste, a fim de te desviares do mal e te tornares melhor. Se escapas desse perigo, quando ainda sob a impressão do risco que correste, cogitas, mais ou menos seriamente, de te melhorares, conforme seja mais ou menos forte sobre ti a influência dos [Espíritos](Espírito){:.w} bons. Sobrevindo o mau [Espírito](Espírito){:.w} (digo mau, subentendendo o mal que ainda existe nele), entras a pensar que do mesmo modo escaparás a outros perigos e deixas que de novo tuas paixões se desencadeiem. Por meio dos perigos que correis, [Deus](Deus){:.l} vos lembra a vossa fraqueza e a fragilidade da vossa existência. Se examinardes a [causa](Causalidade){:.d} e a natureza do perigo, verificareis que, quase sempre, suas consequências teriam sido a punição de uma falta cometida ou da **negligência no cumprimento de um dever**. [Deus](Deus){:.l}, por essa forma, exorta o [Espírito](Espírito){:.w} a cair em si e a se emendar. 
+> <span class="emoji">👻</span> ▸ O fato de ser a tua vida posta em perigo constitui um aviso que tu mesmo desejaste, a fim de te desviares do mal e te tornares melhor. Se escapas desse perigo, quando ainda sob a impressão do risco que correste, cogitas, mais ou menos seriamente, de te melhorares, conforme seja mais ou menos forte sobre ti a influência dos [Espíritos](Espírito){:.w} bons. Sobrevindo o mau [Espírito](Espírito){:.w} (digo mau, subentendendo o mal que ainda existe nele), entras a pensar que do mesmo modo escaparás a outros perigos e deixas que de novo tuas paixões se desencadeiem. Por meio dos perigos que correis, [Deus](Deus){:.l} vos lembra a vossa fraqueza e a fragilidade da vossa existência. Se examinardes a [causa](Causalidade){:.w} e a natureza do perigo, verificareis que, quase sempre, suas consequências teriam sido a punição de uma falta cometida ou da **negligência no cumprimento de um dever**. [Deus](Deus){:.l}, por essa forma, exorta o [Espírito](Espírito){:.w} a cair em si e a se emendar. 
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
  <span class="emoji"> 👉 </span>  Veja <a href="#q526">Q.526</a> a <a href="#q532">Q.532</a>
@@ -11882,7 +11882,7 @@ Ao escolher a sua existência, o [Espírito](Espírito){:.w} daquele que comete 
 
 > <span class="emoji">👻</span> ▸ Não. Escolhendo uma vida de lutas, sabe que terá ensejo de matar um de seus semelhantes, mas não sabe se o fará, visto que ao crime precederá quase sempre, de sua parte, a deliberação de praticá-lo. Ora, aquele que delibera sobre uma coisa é sempre livre de fazê-la, ou não. Se soubesse previamente que, como homem, teria que cometer um crime, o [Espírito](Espírito){:.w} estaria a isso predestinado. Ficai, porém, sabendo que ninguém há predestinado ao crime e que todo crime, como qualquer outro ato, resulta sempre da [vontade](Vontade){:.w} e do livre-arbítrio.
 
-Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da vida e os atos da vida moral. A fatalidade, que algumas vezes há, só existe com relação àqueles sucessos materiais, cuja [causa](Causalidade){:.d} reside fora de vós e que independem da vossa vontade. Quanto aos atos da vida moral, esses emanam sempre do próprio homem que, por conseguinte, tem sempre a liberdade de escolher. No tocante, pois, a esses atos, nunca há fatalidade.
+Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da vida e os atos da vida moral. A fatalidade, que algumas vezes há, só existe com relação àqueles sucessos materiais, cuja [causa](Causalidade){:.w} reside fora de vós e que independem da vossa vontade. Quanto aos atos da vida moral, esses emanam sempre do próprio homem que, por conseguinte, tem sempre a liberdade de escolher. No tocante, pois, a esses atos, nunca há fatalidade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -12023,7 +12023,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC][ARC]
 {:.bible-multi}
 
-Essa teoria da [causa](Causalidade){:.d} determinante dos nossos atos ressalta, com evidência, de todo o ensino que os [Espíritos](Espírito){:.w} hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um [Espírito](Espírito){:.w} encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como [Espírito](Espírito){:.w}. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio [Espírito](Espírito){:.w}, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros [Espíritos](Espírito){:.w} imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na [razão](Razão){:.w} de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus [Espíritos](Espírito){:.w}.
+Essa teoria da [causa](Causalidade){:.w} determinante dos nossos atos ressalta, com evidência, de todo o ensino que os [Espíritos](Espírito){:.w} hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um [Espírito](Espírito){:.w} encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como [Espírito](Espírito){:.w}. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio [Espírito](Espírito){:.w}, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros [Espíritos](Espírito){:.w} imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na [razão](Razão){:.w} de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus [Espíritos](Espírito){:.w}.
 
 Todos os [Espíritos](Espírito){:.w}, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de [Espíritos](Espírito){:.w} maus do que de bons. Tal a [razão](Razão){:.w} por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário.
 
@@ -12091,7 +12091,7 @@ Posto de parte o direito que a lei humana consagra, qual a base da justiça, seg
 
 Da necessidade que o homem tem de viver em sociedade, nascem-lhe obrigações especiais?
 
-> <span class="emoji">👻</span> ▸ Certo e a primeira de todas é a de respeitar os direitos de seus semelhantes. Aquele que respeitar esses direitos procederá sempre com justiça. No vosso mundo, porque a maioria dos homens não pratica a lei de justiça, cada um usa de represálias. Essa a [causa](Causalidade){:.d} da perturbação e da confusão em que vivem as sociedades humanas. A vida social outorga direitos e impõe deveres recíprocos.
+> <span class="emoji">👻</span> ▸ Certo e a primeira de todas é a de respeitar os direitos de seus semelhantes. Aquele que respeitar esses direitos procederá sempre com justiça. No vosso mundo, porque a maioria dos homens não pratica a lei de justiça, cada um usa de represálias. Essa a [causa](Causalidade){:.w} da perturbação e da confusão em que vivem as sociedades humanas. A vida social outorga direitos e impõe deveres recíprocos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -12497,7 +12497,7 @@ Será passível de censura o homem, por ter [consciência](Consciência){:.w} do
 
 Será substancialmente mau o princípio originário das paixões, embora esteja na natureza?
 
-> <span class="emoji">👻</span> ▸ Não; a paixão está no excesso de que se acresceu a vontade, visto que o princípio que lhe dá origem foi posto no homem para o bem, tanto que as paixões podem levá-lo à realização de grandes coisas. O abuso que delas se faz é que [causa](Causalidade){:.d} o mal.
+> <span class="emoji">👻</span> ▸ Não; a paixão está no excesso de que se acresceu a vontade, visto que o princípio que lhe dá origem foi posto no homem para o bem, tanto que as paixões podem levá-lo à realização de grandes coisas. O abuso que delas se faz é que [causa](Causalidade){:.w} o mal.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -12511,7 +12511,7 @@ Como se poderá determinar o limite em que as paixões deixam de ser boas para s
 
 As paixões são alavancas que decuplicam as forças do homem e o auxiliam na execução dos desígnios da Providência. Se o homem, porém, em vez de as dirigir, deixa que elas o dirijam, cai o homem nos excessos e a própria força que, manejada pelas suas mãos, poderia produzir o bem, contra ele se volta e o esmaga.
 
-Todas as paixões têm seu princípio num sentimento ou numa necessidade natural. O princípio das paixões não é, assim, um mal, pois que assenta numa das condições providenciais da nossa existência. A paixão propriamente dita é a exageração de uma necessidade ou de um sentimento. Está no excesso e não na [causa](Causalidade){:.d} e este excesso se torna um mal, quando tem como consequência um mal qualquer.
+Todas as paixões têm seu princípio num sentimento ou numa necessidade natural. O princípio das paixões não é, assim, um mal, pois que assenta numa das condições providenciais da nossa existência. A paixão propriamente dita é a exageração de uma necessidade ou de um sentimento. Está no excesso e não na [causa](Causalidade){:.w} e este excesso se torna um mal, quando tem como consequência um mal qualquer.
 
 Toda paixão que aproxima o homem da natureza animal afasta-o da natureza espiritual.
 
@@ -12563,7 +12563,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
 Dentre os vícios, qual o que se pode considerar radical?
 
-> <span class="emoji">👻</span> ▸ Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a [causa](Causalidade){:.d}. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o [amor](Amor){:.w} e a [caridade](caridade){:.l}. Ele neutraliza todas as outras qualidades.
+> <span class="emoji">👻</span> ▸ Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a [causa](Causalidade){:.w}. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o [amor](Amor){:.w} e a [caridade](caridade){:.l}. Ele neutraliza todas as outras qualidades.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -12587,7 +12587,7 @@ Por ser inerente à espécie humana, o egoísmo não constituirá sempre um obst
 
 ###### Q.916 {#q916}
 
-Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o excita e mantém. Como poderá a [causa](Causalidade){:.d} destruir o efeito?
+Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o excita e mantém. Como poderá a [causa](Causalidade){:.w} destruir o efeito?
 
 > <span class="emoji">👻</span> ▸ Quanto maior é o mal, mais hediondo se torna. Era preciso que o egoísmo produzisse muito mal, para que compreensível se fizesse a necessidade de extirpá-lo. Os homens, quando se houverem despojado do egoísmo que os domina, viverão como irmãos, sem se fazerem mal algum, auxiliando-se reciprocamente, impelidos pelo sentimento mútuo da solidariedade. Então, o forte será o amparo e não o opressor do fraco e não mais serão vistos homens a quem falte o indispensável, porque todos praticarão a lei de justiça. Esse o reinado do bem, que os [Espíritos](Espírito){:.w} estão incumbidos de preparar. 
 
@@ -12777,7 +12777,7 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 
 Não há [dúvida](Dúvida){:.w} que, à felicidade, o supérfluo não é forçosamente indispensável, porém o mesmo não se dá com o necessário. Ora, não será real a infelicidade daqueles a quem falta o necessário?
 
-> <span class="emoji">👻</span> ▸ Verdadeiramente infeliz o homem só o é quando sofre da falta do necessário à vida e à saúde do corpo. Todavia, pode acontecer que essa privação seja de sua culpa. Então, só tem que se queixar de si mesmo. Se for ocasionada por outrem, a responsabilidade recairá sobre aquele que lhe houver dado [causa](Causalidade){:.d}.
+> <span class="emoji">👻</span> ▸ Verdadeiramente infeliz o homem só o é quando sofre da falta do necessário à vida e à saúde do corpo. Todavia, pode acontecer que essa privação seja de sua culpa. Então, só tem que se queixar de si mesmo. Se for ocasionada por outrem, a responsabilidade recairá sobre aquele que lhe houver dado [causa](Causalidade){:.w}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -12871,9 +12871,9 @@ Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as
 
 ###### Q.934 {#q934}
 
-A perda dos entes que nos são caros não constitui para nós legítima [causa](Causalidade){:.d} de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
+A perda dos entes que nos são caros não constitui para nós legítima [causa](Causalidade){:.w} de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
 
-> <span class="emoji">👻</span> ▸ Essa [causa](Causalidade){:.d} de dor atinge assim o rico, como o pobre: representa uma prova, ou expiação, e comum é a lei. Tendes, porém, uma consolação em poderdes comunicar-vos com os vossos amigos pelos meios que vos estão ao alcance, **enquanto não dispondes de outros mais diretos e mais acessíveis aos vossos sentidos.**
+> <span class="emoji">👻</span> ▸ Essa causa de dor atinge assim o rico, como o pobre: representa uma prova, ou expiação, e comum é a lei. Tendes, porém, uma consolação em poderdes comunicar-vos com os vossos amigos pelos meios que vos estão ao alcance, **enquanto não dispondes de outros mais diretos e mais acessíveis aos vossos sentidos.**
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q956">Q.956</a>
@@ -12966,7 +12966,7 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 
 Não constitui igualmente fonte de dissabores, tanto mais amargos quanto envenenam toda a existência, a falta de simpatia entre seres destinados a viver juntos?
 
-> <span class="emoji">👻</span> ▸ Amaríssimos, com efeito. Essa, porém, é uma das infelicidades de que sois, as mais das vezes, a [causa](Causalidade){:.d} principal. Em primeiro lugar, o erro é das vossas leis. Julgas, porventura, que [Deus](Deus){:.l} te constranja a permanecer junto dos que te desagradam? Depois, nessas uniões, ordinariamente buscais a satisfação do [orgulho](Orgulho){:.w} e da ambição, mais do que a ventura de uma afeição mútua. Sofreis então as consequências dos vossos prejuízos.
+> <span class="emoji">👻</span> ▸ Amaríssimos, com efeito. Essa, porém, é uma das infelicidades de que sois, as mais das vezes, a [causa](Causalidade){:.w} principal. Em primeiro lugar, o erro é das vossas leis. Julgas, porventura, que [Deus](Deus){:.l} te constranja a permanecer junto dos que te desagradam? Depois, nessas uniões, ordinariamente buscais a satisfação do [orgulho](Orgulho){:.w} e da ambição, mais do que a ventura de uma afeição mútua. Sofreis então as consequências dos vossos prejuízos.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Antipatia, casamento e <a href="#antipatia">↩️</a>
@@ -12986,7 +12986,7 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 ###### Q.941 {#q941}
 
-Para muitas pessoas, o temor da [morte](Morte){:.w} é uma [causa](Causalidade){:.d} de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
+Para muitas pessoas, o temor da [morte](Morte){:.w} é uma [causa](Causalidade){:.w} de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
 
 > <span class="emoji">👻</span> ▸ Falece-lhes fundamento para semelhante temor. Mas que queres! se procuram persuadi-las, quando crianças, de que há um inferno e um paraíso e que mais certo é irem para o inferno, visto que também lhes disseram que o que está na Natureza constitui pecado mortal para a alma! Sucede então que, tornadas adultas, essas pessoas, se algum juízo têm, não podem admitir tal coisa e se fazem ateias ou materialistas. São assim levadas a crer que, além da vida presente, nada mais há. Quanto aos que persistiram nas suas crenças da [infância](infância){:.d}, esses temem aquele fogo [eterno](eterno){:.d} que os queimará sem os consumir.
 > Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza do futuro. A **esperança** fá-lo contar com uma vida melhor; e a **caridade**, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. 
@@ -13045,7 +13045,7 @@ Não é sempre voluntário o suicídio?
 
 ###### Q.945 {#q945}
 
-Que se deve pensar do suicídio que tem como [causa](Causalidade){:.d} o desgosto da vida?
+Que se deve pensar do suicídio que tem como [causa](Causalidade){:.w} o desgosto da vida?
 
 > <span class="emoji">👻</span> ▸ Insensatos! Por que não trabalhavam? A existência não lhes teria sido tão pesada.
 
@@ -13077,7 +13077,7 @@ Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as conseq
 
 Pode ser considerado suicida aquele que, a braços com a maior penúria, se deixa morrer de fome?
 
-> <span class="emoji">👻</span> ▸ É um suicídio, mas os que lhe foram [causa](Causalidade){:.d}, ou que teriam podido impedi-lo, são mais culpados do que ele, a quem a indulgência espera. Todavia, não penseis que seja totalmente absolvido, se lhe faltaram firmeza e perseverança e se não usou de toda a sua [inteligência](Inteligência){:.w} para sair do atoleiro. Ai dele, sobretudo, se o seu desespero nasce do [orgulho](Orgulho){:.w}. Quero dizer: se for desses homens em quem o [orgulho](Orgulho){:.w} anula os recursos da [inteligência](Inteligência){:.w}, que corariam de dever a existência ao trabalho de suas mãos e que preferem morrer de fome a renunciar ao que chamam sua posição social! Não haverá mil vezes mais grandeza e dignidade em lutar contra a adversidade, em afrontar a crítica de um mundo fútil e egoísta, que só tem boa [vontade](Vontade){:.w} para com aqueles a quem nada falta e que vos volta as costas assim precisais dele? Sacrificar a vida à consideração desse mundo é estultícia, porquanto ele a isso nenhum apreço dá.
+> <span class="emoji">👻</span> ▸ É um suicídio, mas os que lhe foram [causa](Causalidade){:.w}, ou que teriam podido impedi-lo, são mais culpados do que ele, a quem a indulgência espera. Todavia, não penseis que seja totalmente absolvido, se lhe faltaram firmeza e perseverança e se não usou de toda a sua [inteligência](Inteligência){:.w} para sair do atoleiro. Ai dele, sobretudo, se o seu desespero nasce do [orgulho](Orgulho){:.w}. Quero dizer: se for desses homens em quem o [orgulho](Orgulho){:.w} anula os recursos da [inteligência](Inteligência){:.w}, que corariam de dever a existência ao trabalho de suas mãos e que preferem morrer de fome a renunciar ao que chamam sua posição social! Não haverá mil vezes mais grandeza e dignidade em lutar contra a adversidade, em afrontar a crítica de um mundo fútil e egoísta, que só tem boa [vontade](Vontade){:.w} para com aqueles a quem nada falta e que vos volta as costas assim precisais dele? Sacrificar a vida à consideração desse mundo é estultícia, porquanto ele a isso nenhum apreço dá.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -13085,9 +13085,9 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 
 ###### Q.948 {#q948}
 
-É tão reprovável, como o que tem por [causa](Causalidade){:.d} o desespero, o suicídio daquele que procura escapar à vergonha de uma ação má?
+É tão reprovável, como o que tem por [causa](Causalidade){:.w} o desespero, o suicídio daquele que procura escapar à vergonha de uma ação má?
 
-> <span class="emoji">👻</span> ▸ O suicídio não apaga a falta. Ao contrário, em vez de uma, haverá duas. Quando se teve a coragem de praticar o mal, é preciso ter-se a de lhe sofrer as consequências. [Deus](Deus){:.l}, que julga, pode, conforme a [causa](Causalidade){:.d}, abrandar os rigores de sua justiça.
+> <span class="emoji">👻</span> ▸ O suicídio não apaga a falta. Ao contrário, em vez de uma, haverá duas. Quando se teve a coragem de praticar o mal, é preciso ter-se a de lhe sofrer as consequências. [Deus](Deus){:.l}, que julga, pode, conforme a causa, abrandar os rigores de sua justiça.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -13245,7 +13245,7 @@ Donde nasce, para o homem, o sentimento instintivo da vida futura?
 
  <span class="emoji"> 👉 </span>  Veja [Q.393](#q393)
 
-Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.
+Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da [eternidade](Eternidade){:.w}. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.
 
 A ideia do nada tem qualquer coisa que repugna à razão. O homem que mais despreocupado seja durante a vida, em chegando o momento supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 
@@ -13355,7 +13355,7 @@ Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira 
 
 Em que consiste a felicidade dos bons [Espíritos](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Em conhecerem todas as coisas; em não sentirem ódio, nem ciúme, nem inveja, nem ambição, nem qualquer das paixões que ocasionam a desgraça dos homens. O [amor](Amor){:.w} que os une lhes é fonte de suprema felicidade. Não experimentam as necessidades, nem os sofrimentos, nem as angústias da vida material. São felizes pelo bem que fazem. Contudo, a felicidade dos [Espíritos](Espírito){:.w} é proporcional à elevação de cada um. Somente os puros [Espíritos](Espírito){:.w} gozam, é exato, da felicidade suprema, mas nem todos os outros são infelizes. Entre os maus e os perfeitos há uma infinidade de graus em que os gozos são relativos ao estado moral. Os que já estão bastante adiantados compreendem a ventura dos que os precederam e aspiram a alcançá-la, mas esta aspiração lhes constitui uma [causa](Causalidade){:.d} de emulação, não de ciúme. Sabem que deles depende o consegui-la e para a conseguirem trabalham, porém com a calma da [consciência](Consciência){:.w} tranquila e ditosos se consideram por não terem que sofrer o que sofrem os maus.
+> <span class="emoji">👻</span> ▸ Em conhecerem todas as coisas; em não sentirem ódio, nem ciúme, nem inveja, nem ambição, nem qualquer das paixões que ocasionam a desgraça dos homens. O [amor](Amor){:.w} que os une lhes é fonte de suprema felicidade. Não experimentam as necessidades, nem os sofrimentos, nem as angústias da vida material. São felizes pelo bem que fazem. Contudo, a felicidade dos [Espíritos](Espírito){:.w} é proporcional à elevação de cada um. Somente os puros [Espíritos](Espírito){:.w} gozam, é exato, da felicidade suprema, mas nem todos os outros são infelizes. Entre os maus e os perfeitos há uma infinidade de graus em que os gozos são relativos ao estado moral. Os que já estão bastante adiantados compreendem a ventura dos que os precederam e aspiram a alcançá-la, mas esta aspiração lhes constitui uma [causa](Causalidade){:.w} de emulação, não de ciúme. Sabem que deles depende o consegui-la e para a conseguirem trabalham, porém com a calma da [consciência](Consciência){:.w} tranquila e ditosos se consideram por não terem que sofrer o que sofrem os maus.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -13375,7 +13375,7 @@ Citais, entre as condições da felicidade dos bons [Espíritos](Espírito){:.w}
 
 Que se deve entender quando é dito que os [Espíritos](Espírito){:.w} puros se acham reunidos no seio de [Deus](Deus){:.l} e ocupados em lhe entoar louvores?
 
-> <span class="emoji">👻</span> ▸ É uma alegoria indicativa da [inteligência](Inteligência){:.w} que eles têm das perfeições de [Deus](Deus){:.l}, porque o veem e compreendem, mas que, como muitas outras, não se deve tomar ao [pé da letra](ao_pé_da_letra){:.d}. Tudo na Natureza, desde o grão de areia, canta, isto é, proclama o poder, a [sabedoria](Sabedoria){:.w} e a bondade de [Deus](Deus){:.l}. Não creias, todavia, que os [Espíritos](Espírito){:.w} bem-aventurados estejam em contemplação por toda a eternidade. Seria uma bem-aventurança estúpida e monótona. Fora, além disso, a felicidade do egoísta, porquanto a existência deles seria uma inutilidade sem-termo. Estão isentos das tribulações da vida corpórea: já é um gozo. Depois, como dissemos, conhecem e sabem todas as coisas; dão útil emprego à [inteligência](Inteligência){:.w} que adquiriram, auxiliando os progressos dos outros [Espíritos](Espírito){:.w}. Essa a sua ocupação, que ao mesmo tempo é um gozo.
+> <span class="emoji">👻</span> ▸ É uma alegoria indicativa da [inteligência](Inteligência){:.w} que eles têm das perfeições de [Deus](Deus){:.l}, porque o veem e compreendem, mas que, como muitas outras, não se deve tomar ao [pé da letra](ao_pé_da_letra){:.d}. Tudo na Natureza, desde o grão de areia, canta, isto é, proclama o poder, a [sabedoria](Sabedoria){:.w} e a bondade de [Deus](Deus){:.l}. Não creias, todavia, que os [Espíritos](Espírito){:.w} bem-aventurados estejam em contemplação por toda a [eternidade](Eternidade){:.w}. Seria uma bem-aventurança estúpida e monótona. Fora, além disso, a felicidade do egoísta, porquanto a existência deles seria uma inutilidade sem-termo. Estão isentos das tribulações da vida corpórea: já é um gozo. Depois, como dissemos, conhecem e sabem todas as coisas; dão útil emprego à [inteligência](Inteligência){:.w} que adquiriram, auxiliando os progressos dos outros [Espíritos](Espírito){:.w}. Essa a sua ocupação, que ao mesmo tempo é um gozo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -13473,7 +13473,7 @@ Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o hom
 
 Os [Espíritos](Espírito){:.w} inferiores compreendem a felicidade do justo?
 
-> <span class="emoji">👻</span> ▸ Sim, e isso lhes é um suplício, porque compreendem que estão dela privados por sua culpa. Daí resulta que o [Espírito](Espírito){:.w}, liberto da matéria, aspira à nova vida corporal, pois que cada existência, se for bem empregada, abrevia um tanto a duração desse suplício. É então que procede à escolha das provas por meio das quais possa expiar suas faltas. Porque, ficai sabendo, o [Espírito](Espírito){:.w} sofre por todo o mal que praticou, ou de que foi [causa](Causalidade){:.d} voluntária, por todo o bem que houvera podido fazer e não fez **e por todo o mal que decorra de não haver feito o bem**.
+> <span class="emoji">👻</span> ▸ Sim, e isso lhes é um suplício, porque compreendem que estão dela privados por sua culpa. Daí resulta que o [Espírito](Espírito){:.w}, liberto da matéria, aspira à nova vida corporal, pois que cada existência, se for bem empregada, abrevia um tanto a duração desse suplício. É então que procede à escolha das provas por meio das quais possa expiar suas faltas. Porque, ficai sabendo, o [Espírito](Espírito){:.w} sofre por todo o mal que praticou, ou de que foi [causa](Causalidade){:.w} voluntária, por todo o bem que houvera podido fazer e não fez **e por todo o mal que decorra de não haver feito o bem**.
 >
 > Para o [Espírito](Espírito){:.w} errante, já não há véus. **Ele se acha como tendo saído de um nevoeiro** e vê o que o distancia da felicidade. Mais sofre então, porque compreende quanto foi culpado. **Não tem mais ilusões**: vê as coisas na sua realidade.
 
@@ -13485,7 +13485,7 @@ Na [erraticidade](Erraticidade){:.l}, o [Espírito](Espírito){:.w} descortina, 
 
 ###### Q.976 {#q976}
 
-O espetáculo dos sofrimentos dos [Espíritos](Espírito){:.w} inferiores não constitui, para os bons, uma [causa](Causalidade){:.d} de aflição e, nesse caso, que fica sendo a felicidade deles, se é assim turbada?
+O espetáculo dos sofrimentos dos [Espíritos](Espírito){:.w} inferiores não constitui, para os bons, uma [causa](Causalidade){:.w} de aflição e, nesse caso, que fica sendo a felicidade deles, se é assim turbada?
 
 > <span class="emoji">👻</span> ▸ Não constitui motivo de aflição, pois que sabem que o mal terá fim. Auxiliam os outros a se melhorarem e lhes estendem as mãos. Essa a ocupação deles, ocupação que lhes proporciona gozo quando são bem-sucedidos.
 
@@ -13539,7 +13539,7 @@ A lembrança das faltas que a alma, quando imperfeita, tenha cometido, não lhe 
 
 ###### Q.979 {#q979}
 
-Não serão, para a alma, [causa](Causalidade){:.d} de penosa apreensão, que lhe altera a felicidade, as provas por que ainda tenha de passar para acabar a sua purificação?
+Não serão, para a alma, [causa](Causalidade){:.w} de penosa apreensão, que lhe altera a felicidade, as provas por que ainda tenha de passar para acabar a sua purificação?
 
 > <span class="emoji">👻</span> ▸ Para a [alma](Alma){:.l} ainda maculada, são. Daí vem que ela não pode gozar de felicidade perfeita, senão quando esteja completamente pura. Para aquela, porém, que já se elevou, nada tem de penoso o pensar nas provas que ainda haja de sofrer.
 
@@ -13709,7 +13709,7 @@ Não há homens que só têm o instinto do mal e são inacessíveis ao arrependi
 
 O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reconhece depois da morte?
 
-> <span class="emoji">👻</span> ▸ Sempre as reconhece e, então, mais sofre, porque **sente em si todo o mal que praticou**, ou de que foi voluntariamente [causa](Causalidade){:.d}. Contudo, o arrependimento nem sempre é imediato. Há [Espíritos](Espírito){:.w} que se obstinam em permanecer no mau caminho, não obstante os sofrimentos por que passam. Porém, cedo ou tarde, reconhecerão errada a senda que tomaram e o arrependimento virá. Para esclarecê-los, trabalham os bons [Espíritos](Espírito){:.w} e também vós podeis trabalhar.
+> <span class="emoji">👻</span> ▸ Sempre as reconhece e, então, mais sofre, porque **sente em si todo o mal que praticou**, ou de que foi voluntariamente [causa](Causalidade){:.w}. Contudo, o arrependimento nem sempre é imediato. Há [Espíritos](Espírito){:.w} que se obstinam em permanecer no mau caminho, não obstante os sofrimentos por que passam. Porém, cedo ou tarde, reconhecerão errada a senda que tomaram e o arrependimento virá. Para esclarecê-los, trabalham os bons [Espíritos](Espírito){:.w} e também vós podeis trabalhar.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -13884,9 +13884,9 @@ Depende sempre da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w} a dura�
 
 ###### Q.1009 {#q1009}
 
-Assim, as penas impostas jamais o são por toda a eternidade?
+Assim, as penas impostas jamais o são por toda a [eternidade](Eternidade){:.w}?
 
-> <span class="emoji">👻</span> ▸ Interrogai o vosso [bom senso](bom_senso){:.d}, a vossa [razão](Razão){:.w} e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de [Deus](Deus){:.l}. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por [causa](Causalidade){:.d} de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do [Universo](Universo){:.w} um [Deus](Deus){:.l} terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o [Deus](Deus){:.l} dos cristãos, que classifica como virtudes primordiais o amor, a [caridade](caridade){:.l}, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a [verdade](Verdade){:.w} desta sentença:
+> <span class="emoji">👻</span> ▸ Interrogai o vosso [bom senso](bom_senso){:.d}, a vossa [razão](Razão){:.w} e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de [Deus](Deus){:.l}. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por [causa](Causalidade){:.w} de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do [Universo](Universo){:.w} um [Deus](Deus){:.l} terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o [Deus](Deus){:.l} dos cristãos, que classifica como virtudes primordiais o amor, a [caridade](caridade){:.l}, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a [verdade](Verdade){:.w} desta sentença:
 >
 > <span class="emoji">✝️</span> ▸ *A cada um segundo as suas obras.* (Romanos, cap. 2, vers. 6, [ARC][ARC]
 >
@@ -13900,7 +13900,7 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 > Lamennais
 {:.spirit-multi}
 
-> <span class="emoji">👻</span> ▸ Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: eternidade das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. Eternidade dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa [razão](Razão){:.w} humana, porém, tal como a tendes, ela é uma dádiva de [Deus](Deus){:.l} e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por [eterno](eterno){:.d} o mal. Somente [Deus](Deus){:.l} é [eterno](eterno){:.d} e não poderia ter criado o mal [eterno](eterno){:.d}; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um [Deus](Deus){:.l} intrinsecamente bom, absolutamente poderoso, essencialmente justo.
+> <span class="emoji">👻</span> ▸ Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: [eternidade](Eternidade){:.w} das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. [Eternidade](Eternidade){:.w} dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa [razão](Razão){:.w} humana, porém, tal como a tendes, ela é uma dádiva de [Deus](Deus){:.l} e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por [eterno](eterno){:.d} o mal. Somente [Deus](Deus){:.l} é [eterno](eterno){:.d} e não poderia ter criado o mal [eterno](eterno){:.d}; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um [Deus](Deus){:.l} intrinsecamente bom, absolutamente poderoso, essencialmente justo.
 >
 > Platão
 {:.spirit-multi}
@@ -13911,7 +13911,7 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 >
 > Que é o castigo? A consequência natural, derivada desse falso movimento; uma certa soma de dores necessária a desgostá-lo da sua deformidade, pela experimentação do sofrimento. O castigo é o aguilhão que estimula a alma, pela amargura, a se dobrar sobre si mesma e a buscar o porto de salvação. O castigo só tem por fim a reabilitação, a redenção. Querê-lo [eterno](eterno){:.d}, por uma falta não eterna, é negar-lhe toda a [razão](Razão){:.w} de ser.
 >
-> Oh! em [verdade](Verdade){:.w} vos digo, cessai, cessai de pôr em paralelo, na sua eternidade, o Bem, essência do [Criador](Deus){:.l}, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento [gradual](gradual){:.d} dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
+> Oh! em [verdade](Verdade){:.w} vos digo, cessai, cessai de pôr em paralelo, na sua [eternidade](Eternidade){:.w}, o Bem, essência do [Criador](Deus){:.l}, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento [gradual](gradual){:.d} dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
 >
 > Paulo, apóstolo
 {:.spirit-multi}
@@ -14009,7 +14009,7 @@ Como se explica que [Espíritos](Espírito){:.w}, cuja superioridade se revela n
 
 Concebe-se que assim procedam os [Espíritos](Espírito){:.w} que nos querem instruir. Como, porém, se explica que, interrogados acerca da situação em que se achavam, alguns [Espíritos](Espírito){:.w} tenham respondido que sofriam as torturas do inferno ou do purgatório?
 
-> <span class="emoji">👻</span> ▸ Quando são inferiores e ainda não completamente desmaterializados, os [Espíritos](Espírito){:.w} conservam uma parte de suas ideias terrenas e, para dar suas impressões, se servem dos termos que lhes são familiares. Acham-se num meio que só imperfeitamente lhes permite sondar o futuro. Essa a [causa](Causalidade){:.d} de alguns [Espíritos](Espírito){:.w} errantes, ou recém-desencarnados, falarem como o fariam se estivessem encarnados. **Inferno** se pode traduzir por uma vida de provações, extremamente dolorosa, com a **incerteza** de haver outra melhor; **purgatório**, por uma vida também de provações, mas com a [consciência](Consciência){:.w} de melhor futuro. Quando experimentas uma grande dor, não costumas dizer que sofres como um danado? Tudo isso são apenas palavras e sempre ditas em sentido figurado.
+> <span class="emoji">👻</span> ▸ Quando são inferiores e ainda não completamente desmaterializados, os [Espíritos](Espírito){:.w} conservam uma parte de suas ideias terrenas e, para dar suas impressões, se servem dos termos que lhes são familiares. Acham-se num meio que só imperfeitamente lhes permite sondar o futuro. Essa a [causa](Causalidade){:.w} de alguns [Espíritos](Espírito){:.w} errantes, ou recém-desencarnados, falarem como o fariam se estivessem encarnados. **Inferno** se pode traduzir por uma vida de provações, extremamente dolorosa, com a **incerteza** de haver outra melhor; **purgatório**, por uma vida também de provações, mas com a [consciência](Consciência){:.w} de melhor futuro. Quando experimentas uma grande dor, não costumas dizer que sofres como um danado? Tudo isso são apenas palavras e sempre ditas em sentido figurado.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -14031,7 +14031,7 @@ Que se deve entender por uma [alma](Alma){:.l} a penar?
 
 Em que sentido se deve entender a palavra **céu**?
 
-> <span class="emoji">👻</span> ▸ Julgas que seja um lugar, como os campos elísios dos antigos, onde todos os bons [Espíritos](Espírito){:.w} estão promiscuamente aglomerados, sem outra preocupação que a de gozar, pela eternidade toda, de uma felicidade passiva? Não; é o espaço universal; são os planetas, as estrelas e todos os mundos superiores, onde os [Espíritos](Espírito){:.w} gozam plenamente de suas faculdades, sem as tribulações da vida material, nem as angústias peculiares à inferioridade.
+> <span class="emoji">👻</span> ▸ Julgas que seja um lugar, como os campos elísios dos antigos, onde todos os bons [Espíritos](Espírito){:.w} estão promiscuamente aglomerados, sem outra preocupação que a de gozar, pela [eternidade](Eternidade){:.w} toda, de uma felicidade passiva? Não; é o espaço universal; são os planetas, as estrelas e todos os mundos superiores, onde os [Espíritos](Espírito){:.w} gozam plenamente de suas faculdades, sem as tribulações da vida material, nem as angústias peculiares à inferioridade.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -14112,11 +14112,11 @@ O progresso da [Humanidade](Natureza_humana){:.w} tem seu princípio na aplicaç
 
 #### 5-05. <span class="emoji">📄</span> Conclusão 05 {#lde-5-05}
 
-Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, **ipso facto**, a força do [Espiritismo](Espiritismo){:.l}, porque jamais poderia tornar-se universal uma ideia sem fundamento e destituída de lógica. Assim, se o [Espiritismo](Espiritismo){:.l} se implanta por toda parte, se, principalmente nas classes cultas, recruta adeptos, como todos facilmente reconhecerão, é que tem um fundo de [verdade](Verdade){:.w}. Baldados, contra essa tendência, serão todos os esforços dos seus detratores e a prova é que o próprio ridículo, de que procuram cobri-lo, longe de lhe amortecer o ímpeto, parece ter-lhe dado novo vigor, resultado que plenamente justifica o que repetidas vezes os [Espíritos](Espírito){:.w} hão dito: Não vos inquieteis com a oposição; tudo o que contra vós fizerem se tornará a vosso favor e **os vossos maiores adversários, sem o quererem, servirão à vossa [causa](Causalidade){:.d}**. Contra a [vontade](Vontade){:.w} de [Deus](Deus){:.l} não poderá prevalecer a má [vontade](Vontade){:.w} dos homens.
+Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, **ipso facto**, a força do [Espiritismo](Espiritismo){:.l}, porque jamais poderia tornar-se universal uma ideia sem fundamento e destituída de lógica. Assim, se o [Espiritismo](Espiritismo){:.l} se implanta por toda parte, se, principalmente nas classes cultas, recruta adeptos, como todos facilmente reconhecerão, é que tem um fundo de [verdade](Verdade){:.w}. Baldados, contra essa tendência, serão todos os esforços dos seus detratores e a prova é que o próprio ridículo, de que procuram cobri-lo, longe de lhe amortecer o ímpeto, parece ter-lhe dado novo vigor, resultado que plenamente justifica o que repetidas vezes os [Espíritos](Espírito){:.w} hão dito: Não vos inquieteis com a oposição; tudo o que contra vós fizerem se tornará a vosso favor e **os vossos maiores adversários, sem o quererem, servirão à vossa [causa](Causalidade){:.w}**. Contra a [vontade](Vontade){:.w} de [Deus](Deus){:.l} não poderá prevalecer a má [vontade](Vontade){:.w} dos homens.
 
-Por meio do [Espiritismo](Espiritismo){:.l}, a [Humanidade](Natureza_humana){:.w} tem que entrar numa nova fase, a do progresso moral que lhe é consequência inevitável. Não mais, pois, vos espanteis da rapidez com que as ideias espíritas se propagam. A [causa](Causalidade){:.d} dessa celeridade reside na satisfação que trazem a todos os que as aprofundam e que nelas veem alguma coisa mais do que fútil passatempo. Ora, como cada um o que acima de tudo quer é a sua felicidade, nada há de surpreendente em que cada um se apegue a uma ideia que faz ditosos os que a esposam.
+Por meio do [Espiritismo](Espiritismo){:.l}, a [Humanidade](Natureza_humana){:.w} tem que entrar numa nova fase, a do progresso moral que lhe é consequência inevitável. Não mais, pois, vos espanteis da rapidez com que as ideias espíritas se propagam. A [causa](Causalidade){:.w} dessa celeridade reside na satisfação que trazem a todos os que as aprofundam e que nelas veem alguma coisa mais do que fútil passatempo. Ora, como cada um o que acima de tudo quer é a sua felicidade, nada há de surpreendente em que cada um se apegue a uma ideia que faz ditosos os que a esposam.
 
-Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o da [curiosidade](curiosidade){:.d}, que a singularidade dos [fenônemo](fenómeno){:.w} produzidos desperta; segundo, o do raciocínio e da [filosofia](Filosofia){:.w}; terceiro, o da aplicação e das consequências. O período da curiosidade passou; a curiosidade dura pouco. Uma vez satisfeita, muda de objeto. O mesmo não acontece com o que desafia a meditação séria e o raciocínio. Começou o segundo período, o terceiro virá inevitavelmente. O [Espiritismo](Espiritismo){:.l} progrediu principalmente depois que foi sendo mais bem compreendido na sua essência íntima, depois que lhe perceberam o alcance, porque tange a corda mais sensível do homem: a da sua felicidade, mesmo neste mundo. Aí a [causa](Causalidade){:.d} da sua propagação, o segredo da força que o fará triunfar. Enquanto a sua influência não atinge as massas, ele vai felicitando os que o compreendem. Mesmo os que nenhum [fenômeno](Fenómeno){:.w} têm testemunhado, dizem: à parte esses [fenômenos](fenómeno){:.d}, há a [filosofia](Filosofia){:.w}, que me explica o que NENHUMA OUTRA me havia explicado. Nela encontro, por meio unicamente do raciocínio, uma solução **racional** para os problemas que no mais alto grau interessam ao meu futuro. Ela me dá calma, firmeza, confiança; livra-me do tormento da incerteza. Ao lado de tudo isto, secundária se torna a questão dos fatos materiais. Quereis, vós todos que o atacais, um meio de combatê-lo com êxito? Aqui o tendes. Substituí-o por alguma coisa melhor; indicai solução MAIS FILOSÓFICA para todas as questões que ele resolveu; dai ao homem OUTRA CERTEZA que o faça mais feliz, porém compreendei bem o alcance desta palavra **certeza**, porquanto o homem não aceita, como **certo**, senão o que lhe parece **lógico**. Não vos contenteis com dizer: isto não é assim; demasiado fácil é semelhante afirmativa. Provai, não por negação, mas por fatos, que isto não é real, nunca o foi e NÃO PODE ser. Se não é, dizei o que o é, em seu lugar. Provai, finalmente, que as consequências do [Espiritismo](Espiritismo){:.l} não são tornar melhor o homem e, portanto, mais feliz, pela prática da mais pura moral evangélica, moral a que se tecem muitos louvores, mas que muito pouco se pratica. Quando houverdes feito isso, tereis o direito de o atacar. O [Espiritismo](Espiritismo){:.l} é forte porque assenta sobre as próprias bases da [religião](Religião){:.l}: [Deus](Deus){:.l}, a alma, as penas e as recompensas futuras; sobretudo, porque mostra que essas penas e recompensas são consequências naturais da vida terrestre e, ainda, porque, no quadro que apresenta do futuro, nada há que a [razão](Razão){:.w} mais exigente possa recusar. Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina consiste unicamente na negação do futuro? Enquanto vos apoiais na incredulidade, ele se apoia na [confiança](confiança){:.d} em [Deus](Deus){:.l}; ao passo que convida os homens à felicidade, à esperança, à verdadeira fraternidade, vós lhes ofereceis o **nada** por perspectiva e o **egoísmo** por consolação. Ele tudo explica, vós nada explicais. Ele prova pelos fatos, vós nada provais. Como quereis que se hesite entre as duas doutrinas?
+Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o da [curiosidade](curiosidade){:.d}, que a singularidade dos [fenônemo](fenómeno){:.w} produzidos desperta; segundo, o do raciocínio e da [filosofia](Filosofia){:.w}; terceiro, o da aplicação e das consequências. O período da curiosidade passou; a curiosidade dura pouco. Uma vez satisfeita, muda de objeto. O mesmo não acontece com o que desafia a meditação séria e o raciocínio. Começou o segundo período, o terceiro virá inevitavelmente. O [Espiritismo](Espiritismo){:.l} progrediu principalmente depois que foi sendo mais bem compreendido na sua essência íntima, depois que lhe perceberam o alcance, porque tange a corda mais sensível do homem: a da sua felicidade, mesmo neste mundo. Aí a [causa](Causalidade){:.w} da sua propagação, o segredo da força que o fará triunfar. Enquanto a sua influência não atinge as massas, ele vai felicitando os que o compreendem. Mesmo os que nenhum [fenômeno](Fenómeno){:.w} têm testemunhado, dizem: à parte esses [fenômenos](fenómeno){:.d}, há a [filosofia](Filosofia){:.w}, que me explica o que NENHUMA OUTRA me havia explicado. Nela encontro, por meio unicamente do raciocínio, uma solução **racional** para os problemas que no mais alto grau interessam ao meu futuro. Ela me dá calma, firmeza, confiança; livra-me do tormento da incerteza. Ao lado de tudo isto, secundária se torna a questão dos fatos materiais. Quereis, vós todos que o atacais, um meio de combatê-lo com êxito? Aqui o tendes. Substituí-o por alguma coisa melhor; indicai solução MAIS FILOSÓFICA para todas as questões que ele resolveu; dai ao homem OUTRA CERTEZA que o faça mais feliz, porém compreendei bem o alcance desta palavra **certeza**, porquanto o homem não aceita, como **certo**, senão o que lhe parece **lógico**. Não vos contenteis com dizer: isto não é assim; demasiado fácil é semelhante afirmativa. Provai, não por negação, mas por fatos, que isto não é real, nunca o foi e NÃO PODE ser. Se não é, dizei o que o é, em seu lugar. Provai, finalmente, que as consequências do [Espiritismo](Espiritismo){:.l} não são tornar melhor o homem e, portanto, mais feliz, pela prática da mais pura moral evangélica, moral a que se tecem muitos louvores, mas que muito pouco se pratica. Quando houverdes feito isso, tereis o direito de o atacar. O [Espiritismo](Espiritismo){:.l} é forte porque assenta sobre as próprias bases da [religião](Religião){:.l}: [Deus](Deus){:.l}, a alma, as penas e as recompensas futuras; sobretudo, porque mostra que essas penas e recompensas são consequências naturais da vida terrestre e, ainda, porque, no quadro que apresenta do futuro, nada há que a [razão](Razão){:.w} mais exigente possa recusar. Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina consiste unicamente na negação do futuro? Enquanto vos apoiais na incredulidade, ele se apoia na [confiança](confiança){:.d} em [Deus](Deus){:.l}; ao passo que convida os homens à felicidade, à esperança, à verdadeira fraternidade, vós lhes ofereceis o **nada** por perspectiva e o **egoísmo** por consolação. Ele tudo explica, vós nada explicais. Ele prova pelos fatos, vós nada provais. Como quereis que se hesite entre as duas doutrinas?
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -14143,7 +14143,7 @@ O [Espiritismo](Espiritismo){:.l} se apresenta sob três aspectos diferentes: o 
 
 Quanto aos adversários, também podemos classificá-los em três categorias.
 
-1. A dos que negam sistematicamente tudo o que é novo, ou deles não venha, e que falam sem conhecimento de [causa](Causalidade){:.d}. A esta classe pertencem todos os que não admitem senão o que possa ter o testemunho dos sentidos. Nada viram, nada querem ver e ainda menos aprofundar. Ficariam mesmo aborrecidos se vissem as coisas muito claramente, porque forçoso lhes seria convir em que não têm razão. Para eles, o [Espiritismo](Espiritismo){:.l} é uma quimera, uma loucura, uma utopia, não existe: está dito tudo. São os incrédulos de caso pensado. Ao lado desses, podem colocar-se os que não se dignam de dar aos fatos a mínima atenção, sequer por desencargo de consciência, a fim de poderem dizer: Quis ver e nada vi. Não compreendem que seja preciso mais de meia hora para alguém se inteirar de uma ciência.
+1. A dos que negam sistematicamente tudo o que é novo, ou deles não venha, e que falam sem conhecimento de [causa](Causalidade){:.w}. A esta classe pertencem todos os que não admitem senão o que possa ter o testemunho dos sentidos. Nada viram, nada querem ver e ainda menos aprofundar. Ficariam mesmo aborrecidos se vissem as coisas muito claramente, porque forçoso lhes seria convir em que não têm razão. Para eles, o [Espiritismo](Espiritismo){:.l} é uma quimera, uma loucura, uma utopia, não existe: está dito tudo. São os incrédulos de caso pensado. Ao lado desses, podem colocar-se os que não se dignam de dar aos fatos a mínima atenção, sequer por desencargo de consciência, a fim de poderem dizer: Quis ver e nada vi. Não compreendem que seja preciso mais de meia hora para alguém se inteirar de uma ciência.
 
 2. A dos que, sabendo muito bem o que pensar da realidade dos atos, os combatem, todavia, por motivos de interesse pessoal. Para estes, o [Espiritismo](Espiritismo){:.l} existe, mas lhe receiam as consequências. Atacam-no como a um inimigo.
 
@@ -14183,7 +14183,7 @@ Os adversários do [Espiritismo](Espiritismo){:.l} não se esqueceram de armar-s
 >
 > Aliás, que importam algumas dissidências, mais de forma que de fundo! Notai que os princípios fundamentais são os mesmos por toda parte e vos hão de unir num pensamento comum: o [amor](Amor){:.w} de [Deus](Deus){:.l} e a prática do bem. Quaisquer que se suponham ser o modo de progressão ou as condições normais da existência futura, o objetivo final é um só: fazer o bem. Ora, não há duas maneiras de fazê-lo.
 
-Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam os que divergem de opinião sobre alguns pontos da teoria, menos certo não é que todos estejam de acordo quanto aos pontos fundamentais. Há, portanto, unidade, excluídos apenas os que, em número muito reduzido, ainda não admitem a [intervenção](intervenção){:.d} dos [Espíritos](Espírito){:.w} nas manifestações; os que as atribuem a causas puramente físicas, o que é contrário a este [axioma](Axioma){:.w}: Todo efeito [inteligente](Inteligência){:.w} há de ter uma [causa](Causalidade){:.d} inteligente; ou ainda a um reflexo do nosso próprio pensamento, o que os fatos desmentem. Os outros pontos são secundários e em nada comprometem as bases fundamentais. Pode, pois, haver escolas que procurem esclarecer-se acerca das partes ainda controvertidas da ciência; não deve haver seitas rivais umas das outras. Antagonismo só poderia existir entre os que querem o bem e os que quisessem ou praticassem o mal. Ora, não há espírita sincero e compenetrado das grandes máximas morais, ensinadas pelos [Espíritos](Espírito){:.w}, que possa querer o mal, nem desejar mal ao seu próximo, sem distinção de opiniões. Se errônea for alguma destas, cedo ou tarde a luz para ela brilhará, se a buscar de boa-fé e sem prevenções. Enquanto isso não se dá, um laço comum existe que as deve unir a todos num só pensamento; uma só meta para todas. Pouco, por conseguinte, importa qual seja o caminho, uma vez que conduza a essa meta. Nenhuma deve impor-se por meio do constrangimento material ou moral e em caminho falso estaria unicamente aquela que lançasse anátema sobre outra, porque então procederia evidentemente sob a influência de maus [Espíritos](Espírito){:.w}. O argumento supremo deve ser a [razão](Razão){:.w} e a moderação garantirá melhor a vitória da [verdade](Verdade){:.w} do que as diatribes envenenadas pela inveja e pelo ciúme. Os bons [Espíritos](Espírito){:.w} só pregam a união e o [amor](Amor){:.w} ao próximo, e nunca um pensamento malévolo ou contrário à [caridade](caridade){:.l} pode provir de fonte pura. Ouçamos sobre este assunto, e para terminar, os conselhos do [Espírito](Espírito){:.w} Santo Agostinho:
+Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam os que divergem de opinião sobre alguns pontos da teoria, menos certo não é que todos estejam de acordo quanto aos pontos fundamentais. Há, portanto, unidade, excluídos apenas os que, em número muito reduzido, ainda não admitem a [intervenção](intervenção){:.d} dos [Espíritos](Espírito){:.w} nas manifestações; os que as atribuem a causas puramente físicas, o que é contrário a este [axioma](Axioma){:.w}: Todo efeito [inteligente](Inteligência){:.w} há de ter uma [causa](Causalidade){:.w} inteligente; ou ainda a um reflexo do nosso próprio pensamento, o que os fatos desmentem. Os outros pontos são secundários e em nada comprometem as bases fundamentais. Pode, pois, haver escolas que procurem esclarecer-se acerca das partes ainda controvertidas da ciência; não deve haver seitas rivais umas das outras. Antagonismo só poderia existir entre os que querem o bem e os que quisessem ou praticassem o mal. Ora, não há espírita sincero e compenetrado das grandes máximas morais, ensinadas pelos [Espíritos](Espírito){:.w}, que possa querer o mal, nem desejar mal ao seu próximo, sem distinção de opiniões. Se errônea for alguma destas, cedo ou tarde a luz para ela brilhará, se a buscar de boa-fé e sem prevenções. Enquanto isso não se dá, um laço comum existe que as deve unir a todos num só pensamento; uma só meta para todas. Pouco, por conseguinte, importa qual seja o caminho, uma vez que conduza a essa meta. Nenhuma deve impor-se por meio do constrangimento material ou moral e em caminho falso estaria unicamente aquela que lançasse anátema sobre outra, porque então procederia evidentemente sob a influência de maus [Espíritos](Espírito){:.w}. O argumento supremo deve ser a [razão](Razão){:.w} e a moderação garantirá melhor a vitória da [verdade](Verdade){:.w} do que as diatribes envenenadas pela inveja e pelo ciúme. Os bons [Espíritos](Espírito){:.w} só pregam a união e o [amor](Amor){:.w} ao próximo, e nunca um pensamento malévolo ou contrário à [caridade](caridade){:.l} pode provir de fonte pura. Ouçamos sobre este assunto, e para terminar, os conselhos do [Espírito](Espírito){:.w} Santo Agostinho:
 
 > <span class="emoji">👻</span> ▸ Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um [Deus](Deus){:.l} de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O [Espiritismo](Espiritismo){:.l} é o laço que um dia os unirá, porque lhes mostrará onde está a [verdade](Verdade){:.w}, onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o [Cristo](Cristo){:.w}. Quereis saber sob a influência de que [Espíritos](Espírito){:.w} estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons [Espíritos](Espírito){:.w} foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de [Jesus](Jesus){:.w}, porque seguem a estrada que este lhes indicou para chegarem até Ele.
 >
@@ -14211,15 +14211,15 @@ A investigação rigorosamente racional e científica de fatos que revelavam a c
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. <span class="emoji">👻</span> [*O Livro dos Espíritos*](./1lde.md) (1857),
+1. <span class="emoji">👻</span> [*O Livro dos Espíritos*](../books/1lde.md) (1857),
 
-2. <span class="emoji">✒️</span> [*O Livro dos Médiuns*](./2ldm.html) (1861),
+2. <span class="emoji">✒️</span> [*O Livro dos Médiuns*](../books/2ldm.html) (1861),
 
-3. <span class="emoji">🕊️</span> [*O Evangelho segundo o Espiritismo*](./3ese.html) (1864),
+3. <span class="emoji">🕊️</span> [*O Evangelho segundo o Espiritismo*](../books/3ese.html) (1864),
 
-4. <span class="emoji">🔥</span> [*O Céu e o Inferno*](./4ceu.html) (1865),
+4. <span class="emoji">🔥</span> [*O Céu e o Inferno*](../books/4ceu.html) (1865),
 
-5. <span class="emoji">🌱</span> [*A Gênese*](./5gen.html) (1868),
+5. <span class="emoji">🌱</span> [*A Gênese*](../books/5gen.html) (1868),
 
 além da obra <span class="emoji">🔍</span> [*O Que é o Espiritismo*](https://kardecpedia.com/pt/roteiro-de-estudos/885/o-que-e-o-espiritismo){:target="ext"} (1859), de uma série de opúsculos e 136 edições da <span class="emoji">📓</span> *[Revista Espírita](https://www.febnet.org.br/portal/2021/09/02/downloads-material-completo/){:target="ext"}* (de janeiro de 1858 a abril de 1869). Após sua [morte](Morte){:.w}, foi editado o livro <span class="emoji">🪦</span> *Obras Póstumas* (1890).
 
@@ -14260,7 +14260,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 >
 >  <span class="emoji">📓</span> [<i>Revista Espírita</i>   
 >  Outubro, 1861](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1861.pdf#page=420){:target="ext"}  
->  {:.grey-multi}
+{:.grey-multi}
 
 >  <span class="emoji">👴🏻</span> ▸ Os [privilégios](privilégio){:.d} de raças têm sua origem na [abstração](abstração){:.d} que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na [opulência](opulência){:.d} ou na miséria, da filiação [consanguínea](consanguíneo){:.d} nobre ou [plebeia](plebe){:.d}, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.  
 >
@@ -14270,7 +14270,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 >
 >  <span class="emoji">📓</span> [<i>Revista Espírita</i>   
 >  Junho, 1867](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1867.pdf#page=229){:target="ext"}
->  {:.grey-multi}
+{:.grey-multi}
 
 >  <span class="emoji">👴🏻</span> ▸ Com a [reencarnação](Reencarnação){:.w}, desaparecem os preconceitos de raças e de [castas](Casta){:.w}, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou [proletário](proletário){:.d}, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 >
@@ -14278,7 +14278,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 >  cap. 1, item 36  
 >  <span class="emoji">📓</span> [<i>Revista Espírita</i>  
 >  Setembro, 1867](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1867.pdf#page=364){:target="ext"}
->  {:.grey-multi}
+{:.grey-multi}
 
 Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
@@ -14289,7 +14289,7 @@ Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores 
 >  Allan Kardec  
 >  <span class="emoji">📓</span>  <i>Revista Espírita</i>   
 >  Janeiro, 1863
->  {:.grey-multi}
+{:.grey-multi}
 
 > <span class="emoji">👴🏻</span> ▸ O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.  
 >
@@ -14303,7 +14303,7 @@ Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores 
 >
 >  <span class="emoji">🌱</span> <i>A Gênese</i>  
 >  cap. 11, item 43, Nota  
->  {:.grey-multi}
+{:.grey-multi}
 
 Por fim, urge reconhecer que o escopo principal da [Doutrina Espírita](Espiritismo){:.l} reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
@@ -14925,7 +14925,7 @@ Avoengos ver Antepassados
 
 [^9]: N.E.: Ver <span class="emoji"> <span class="emoji"> 👉 </span> </span> [Nota explicativa](#lde-6-01).
 
-[^10]: A.K.: Segundo os [Espíritos](Espírito){:.w}, de todos os mundos que compõem o nosso sistema planetário, a [Terra](Terra){:.w} é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos [Espíritos](Espírito){:.w} superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de [Espíritos](Espírito){:.w} menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga. O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a [Terra](Terra){:.w} e Saturno menos do que Júpiter. Muitos [Espíritos](Espírito){:.w}, que na [Terra](Terra){:.w} animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos [Espíritos](Espírito){:.w}, habitantes daquele planeta, foram mandados à [Terra](Terra){:.w} para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na [Terra](Terra){:.w} e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um [Espírito](Espírito){:.w} habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris. As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na [Terra](Terra){:.w} e as idades não se podem comparar. Evocado, um [Espírito](Espírito){:.w} que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à [inteligência](Inteligência){:.w}, tenho trinta anos da idade que tive na Terra. Muitas respostas análogas foram dadas por outros [Espíritos](Espírito){:.w} e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na [Terra](Terra){:.w} aos trinta anos talvez não passe de uma espécie de [infância](infância){:.d}, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a[Divindade](Divindade){:.w} o imaginar-se que, fora o homem, nada mais seja possível a [Deus](Deus){:.l}.
+[^10]: A.K.: Segundo os [Espíritos](Espírito){:.w}, de todos os mundos que compõem o nosso sistema planetário, a [Terra](Terra){:.w} é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos [Espíritos](Espírito){:.w} superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de [Espíritos](Espírito){:.w} menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga. O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a [Terra](Terra){:.w} e Saturno menos do que Júpiter. Muitos [Espíritos](Espírito){:.w}, que na [Terra](Terra){:.w} animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos [Espíritos](Espírito){:.w}, habitantes daquele planeta, foram mandados à [Terra](Terra){:.w} para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na [Terra](Terra){:.w} e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um [Espírito](Espírito){:.w} habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris. As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na [Terra](Terra){:.w} e as idades não se podem comparar. Evocado, um [Espírito](Espírito){:.w} que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à [inteligência](Inteligência){:.w}, tenho trinta anos da idade que tive na Terra. Muitas respostas análogas foram dadas por outros [Espíritos](Espírito){:.w} e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na [Terra](Terra){:.w} aos trinta anos talvez não passe de uma espécie de [infância](infância){:.d}, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a [Divindade](Divindade){:.w} o imaginar-se que, fora o homem, nada mais seja possível a [Deus](Deus){:.l}.
 
 [^11]: N.E.: Ver <span class="emoji"> <span class="emoji"> 👉 </span> </span> [Nota explicativa](#lde-6-01).
 

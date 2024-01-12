@@ -486,7 +486,7 @@ h5:before {
 h6 {
     border-bottom: 1px solid var(--border-color);
     font-size: 16px;
-    margin-bottom: -15px;
+    margin-bottom: -5px;
     margin-top: 0;
     padding-top: 20px
 }
@@ -609,10 +609,6 @@ summary {
 .bg-pink {
     background-color: #ff00001a !important;
     box-shadow: none !important
-}
-
-.links-off a:link {
-    text-decoration: none !important
 }
 
 .show {
@@ -743,7 +739,8 @@ button.tools {
 }
 
 .dark-mode details.links {
-    background-color: #333
+    background-color: #333;
+    font-size: 14px;
 }
 
 .dark-mode iframe {
@@ -1012,8 +1009,11 @@ button.tools {
 details.links {
     background-color: var(--bquote-grey-bground);
     margin: 10px;
-    padding: 10px 20px
+    padding: 10px 20px;
+    font-size: 14px;
 }
+
+.font-smaller {font-size: 14px;}
 
 details>div>p>a {
     color: var(--body-color)

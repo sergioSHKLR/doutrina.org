@@ -46,7 +46,8 @@ Embora baseadas em obras impressas, nossas versões foram modificadas para:
 
 Para efeito de corroboração, apresentamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do LDE.
 
-<blockquote class="spirit" style="font-family: 'Georgia', serif; padding: 10px 20px"><span class="emoji">👻</span> Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma …</blockquote>
+<blockquote class="spirit" style="font-family: 'Georgia', serif; padding: 10px 20px">
+<span class="emoji">👻</span> Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma …</blockquote>
 
 <!--
 ## Contato
@@ -65,7 +66,7 @@ Por fim, ficaríamos gratos com seus:
 - sugestões
 - correções
 
-Utilize a página <span class="emoji">📧</span> [Contato](./4-contact.html) para tais fins.
+Utilize a página <span class="emoji">❤️</span> [Contato](./4-contact.html) para tais fins.
 
 <p>&nbsp;</p>
 
