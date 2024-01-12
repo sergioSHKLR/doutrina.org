@@ -384,31 +384,31 @@ window.onload = function () {
 var links, x, le;
 links = document.getElementsByClassName('w');
 for (x = 0, le = links.length; x < le; x++) {
-    links[x].href = "https://pt.m.wikipedia.org/wiki" + (links[x].pathname);
+    links[x].href = "https://pt.m.wikipedia.org/wiki" + (links[x].pathname.slice(6));
 }
 
 var links, y, le;
 links = document.getElementsByClassName('d');
 for (y = 0, le = links.length; y < le; y++) {
-    links[y].href = "https://pt.m.wiktionary.org/wiki" + (links[y].pathname);
+    links[y].href = "https://pt.m.wiktionary.org/wiki" + (links[y].pathname.slice(6));
 }
 
 var links, z, le;
 links = document.getElementsByClassName('l');
 for (z = 0, le = links.length; z < le; z++) {
-    links[z].href = "https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=" + (links[z].pathname.slice(1));
+    links[z].href = "https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=" + (links[z].pathname.slice(7));
 }
 
 var links, k, le;
 links = document.getElementsByClassName('m');
 for (k = 0, le = links.length; k < le; k++) {
-    links[k].href = "https://maps.google.com/maps?hl=en&t=k&z=12&ie=UTF8&iwloc=B&output=embed&q=" + (links[k].pathname.slice(1));
+    links[k].href = "https://maps.google.com/maps?hl=en&t=k&z=12&ie=UTF8&iwloc=B&output=embed&q=" + (links[k].pathname.slice(7));
 }
 
 var links, u, le;
 links = document.getElementsByClassName('v');
 for (u = 0, le = links.length; u < le; u++) {
-    links[u].href = "https://www.youtube.com/embed/" + (links[u].pathname.slice(1)) + (links[u].search);
+    links[u].href = "https://www.youtube.com/embed/" + (links[u].pathname.slice(7)) + (links[u].search);
 }
 
 var links, b, le;

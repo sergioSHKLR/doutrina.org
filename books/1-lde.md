@@ -1,7 +1,7 @@
 ---
 title: O Livro dos Espíritos
 layout: 1-lde
-version: 24.1.10
+version: 24.1.12
 ---
 
 *[LDE]: O Livro dos Espíritos

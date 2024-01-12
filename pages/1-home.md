@@ -4,6 +4,11 @@ layout: 0-default
 version: 24.1.11
 ---
 
+<style>
+#ff-se-btn *, #ff-sa-btn *, #ff-mo-btn * { color: #aaa !important;
+}    
+</style>
+
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
 *[ESE]: O Evangelho segundo o Espiritismo
