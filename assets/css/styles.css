@@ -509,6 +509,10 @@ h6:before {
 
 /* DETAILS SUMMARY START */
 
+::-webkit-details-marker {
+    display: none;
+}
+
 details summary::before {
     content: "＋ ";
     float: right;
@@ -1013,7 +1017,9 @@ details.links {
     font-size: 14px;
 }
 
-.font-smaller {font-size: 14px;}
+.font-smaller {
+    font-size: 14px;
+}
 
 details>div>p>a {
     color: var(--body-color)
@@ -1190,6 +1196,10 @@ summary.ff-mono {
 }
 
 span.emoji {
+    font-family: 'Noto Color Emoji', sans-serif;
+}
+
+#toc>p>span {
     font-family: 'Noto Color Emoji', sans-serif;
 }
 
