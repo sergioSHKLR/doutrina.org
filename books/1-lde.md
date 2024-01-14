@@ -1046,7 +1046,7 @@ Quando começou a [Terra](Terra){:.w} a ser povoada?
 
 Donde vieram para a [Terra](Terra){:.w} os seres vivos?
 
-> <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de [inércia](inércia){:.d}, como a [crisálida](Crisálida){:.w} e as sementes das plantas, até o momento [propício](propício){:.d} ao [surto](surto){:.d} de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
+> <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os [germes](germe){:.d}, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado [latente](latente){:.d} de [inércia](inércia){:.d}, como a [crisálida](Crisálida){:.w} e as sementes das plantas, até o momento [propício](propício){:.d} ao [surto](surto){:.d} de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1056,9 +1056,9 @@ Donde vieram para a [Terra](Terra){:.w} os seres vivos?
 
 Onde estavam os elementos orgânicos, antes da formação da Terra?
 
-> <span class="emoji">👻</span> ▸ Achavam-se, por assim dizer, em estado de fluido no Espaço, no meio dos [Espíritos](Espírito){:.w}, ou em outros planetas, à espera da criação da [Terra](Terra){:.w} para começarem existência nova em novo globo.
+> <span class="emoji">👻</span> ▸ Achavam-se, por assim dizer, em estado de [fluido](fluido){:.d} no Espaço, no meio dos [Espíritos](Espírito){:.w}, ou em outros planetas, à espera da criação da [Terra](Terra){:.w} para começarem existência nova em novo globo.
 
-A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio latente de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de [Deus](Deus){:.l}? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é [verdade](Verdade){:.w}, a questão da origem dos elementos vitais; mas [Deus](Deus){:.l} tem seus mistérios e pôs limites às nossas investigações.
+A [Química](Química){:.w} nos mostra as [moléculas](Molécula){:.w} dos corpos [inorgânicos](inorgânico){:.d} unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio [latente](latente){:.d} de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do [caos](Caos){;.w} pela força mesma da natureza, diminui de alguma coisa a grandeza de [Deus](Deus){:.l}? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta [teoria](teoria){:.d} não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1068,7 +1068,7 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 
 Ainda há seres que nasçam espontaneamente?
 
-> <span class="emoji">👻</span> ▸ Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse [fenômeno](Fenómeno){:.w}. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
+> <span class="emoji">👻</span> ▸ Sim, mas o [germe](germe){:.d} [primitivo](primitivo){:.d} já existia em estado [latente](latente){:.d}. Sois todos os dias testemunhas desse [fenômeno](Fenómeno){:.w}. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação [pútrida](pútrida){;.d} que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1078,7 +1078,7 @@ Ainda há seres que nasçam espontaneamente?
 
 A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
 
-> <span class="emoji">👻</span> ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
+> <span class="emoji">👻</span> ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do [limo](limo){:.d} da terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1088,7 +1088,7 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 
 Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
 
-> <span class="emoji">👻</span> ▸ Não; todos os vossos cálculos são quiméricos.
+> <span class="emoji">👻</span> ▸ Não; todos os vossos cálculos são [quiméricos](quimérico){;.d}.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1110,7 +1110,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 
 A espécie humana começou por um único homem?
 
-> <span class="emoji">👻</span> ▸ Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.
+> <span class="emoji">👻</span> ▸ Não; aquele a quem chamais [Adão](Adão){:.w} não foi o primeiro, nem o único a povoar a Terra.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Adão, povoamento da Terra e <a href="#adao">↩️</a>
@@ -1118,11 +1118,11 @@ A espécie humana começou por um único homem?
 
 ###### Q.51 {#q51}
 
-Poderemos saber em que época viveu Adão?
+Poderemos saber em que época viveu [Adão](Adão){:.w}?
 
 > <span class="emoji">👻</span> ▸ Mais ou menos na que lhe assinais: cerca de 4.000 anos antes do [Cristo](Cristo){:.w}.
 
-O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do [Cristo](Cristo){:.w}, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na [Terra](Terra){:.w} senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo.
+O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes [cataclismos](cataclismo){:} que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do [Cristo](Cristo){:.w}, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na [Terra](Terra){:.w} senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um [mito](mito){:.d} ou uma [alegoria](alegoria){:.d} que personifica as primeiras idades do mundo.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Adão, notícia histórica sobre <a href="#adao">↩️</a>
@@ -1172,9 +1172,9 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 
 São habitados todos os globos que se movem no Espaço?
 
-> <span class="emoji">👻</span> ▸ Sim e o homem terreno está longe de ser, como supõe, o primeiro em [inteligência](Inteligência){:.w}, em bondade e em perfeição. Entretanto, há homens que se têm por [espíritos](Espírito){:.w} muito fortes e que imaginam pertencer a este pequenino globo o privilégio de conter seres racionais. Orgulho e vaidade! Julgam que só para eles criou [Deus](Deus){:.l} o [Universo](Universo){:.w}.
+> <span class="emoji">👻</span> ▸ Sim e o homem terreno está longe de ser, como supõe, o primeiro em [inteligência](Inteligência){:.w}, em bondade e em perfeição. Entretanto, há homens que se têm por [espíritos](Espírito){:.w} muito fortes e que imaginam pertencer a este pequenino globo o [privilégio](privilégio){:.d} de conter seres racionais. [Orgulho](orgulho){:.d} e [vaidade](vaidade){:.d}! Julgam que só para eles criou [Deus](Deus){:.l} o [Universo](Universo){:.w}.
 
-[Deus](Deus){:.l} povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da [sabedoria](Sabedoria){:.w} de [Deus](Deus){:.l}, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
+[Deus](Deus){:.l} povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da [Providência](Divina_Providência){:.w}. Acreditar que só os haja no Planeta que habitamos fora duvidar da [sabedoria](Sabedoria){:.w} de [Deus](Deus){:.l}, que não fez coisa alguma [inútil](inútil){:.d}. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da [Terra](Terra){:.w}, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>
@@ -1202,11 +1202,11 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 
 ###### Q.58 {#q58}
 
-Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
+Os mundos mais afastados do [Sol](Sol){:.w} estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma [estrela](Estrela){:.w}?
 
 > <span class="emoji">👻</span> ▸ Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a [eletricidade](Eletricidade){:.w} que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma [matéria](Matéria){:.w} que vós outros e com órgãos de conformação idêntica à dos vossos.
 
-As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem [dúvida](Dúvida){:.w} contêm elementos que desconhecemos. Não vemos na [Terra](Terra){:.w} as longas noites polares iluminadas pela [eletricidade](Eletricidade){:.w} das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na [Terra](Terra){:.w} e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
+As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem [dúvida](Dúvida){:.w} contêm elementos que desconhecemos. Não vemos na [Terra](Terra){:.w} as longas noites polares iluminadas pela [eletricidade](Eletricidade){:.w} das [auroras boreais](Aurora_polar){:.w}? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na [Terra](Terra){:.w} e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
 
 <details class="links"><summary><span class="emoji">🔗</span></summary><br>
 <span class="emoji">🏷️</span> label <a href="#term">↩️</a>

@@ -1195,11 +1195,11 @@ summary.ff-mono {
     width: 90%
 }
 
-span.emoji {
-    font-family: 'Noto Color Emoji', sans-serif;
-}
-
-#toc>p>span {
+span.emoji,
+#toc>p>span.emoji,
+#toc>details>summary>span.emoji,
+#toc>details>p>span.emoji,
+#toc>details>p>a>span.emoji {
     font-family: 'Noto Color Emoji', sans-serif;
 }
 
