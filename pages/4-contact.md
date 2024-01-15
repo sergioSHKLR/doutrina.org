@@ -13,7 +13,7 @@ version: 24.1.11
 
 ## Notificações
 
-Esta página lhe pedirá permissão para que possamos lhe mandar ocasionais notificações. Clique em <kbd>Allow</kbd> para consentir.
+Esta página lhe pedirá permissão para que possamos lhe mandar ocasionais notificações. Clique em <kbd>Sim</kbd> para consentir.
 
 O formato de tais notificações dependerá do sistema operacional do dispositivo em uso.
 
