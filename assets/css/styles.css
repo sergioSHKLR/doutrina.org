@@ -175,10 +175,6 @@ body {
     width: var(--column-width);
 }
 
-iframe {
-    filter: brightness(1)
-}
-
 /* FRAMEWORK DIVS END */
 /*------------------------------------------------*/
 
@@ -793,7 +789,7 @@ button.tools {
         display: none;
     }
 
-    .dark-mode iframe {
+    iframe {
         filter: var(--iframe-filter)
     }
 }
