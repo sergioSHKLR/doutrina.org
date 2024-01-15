@@ -4,6 +4,11 @@ layout: 0-default
 version: 24.1.11
 ---
 
+<head>
+<link rel="manifest" href="../assets/pwa/site.webmanifest" />
+<script src="../assets/js/push-engage.js"></script>
+</head>
+
 # <span class="emoji">❤️</span> Contato
 
 ## Notificações
