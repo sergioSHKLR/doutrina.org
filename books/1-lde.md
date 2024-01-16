@@ -33,14 +33,14 @@ version: 24.1.12
 > Modificado para o consumo digital por Sergio de
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"}
 > <span class="emoji">✅</span>
-> {:.grey-center}
+{:.grey-center}
 
 ### <span class="emoji">📄</span> Prefácio {#lde-0-02}
 
 > ![Cepa Espírita](../assets/images/vine.png)
 >
 > <small>Interpretação artística do desenho original (mediúnico).<small>
-> {:.grey-center}
+{:.grey-center}
 
 [Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.w} que os produz a ação de uma [vontade](Vontade){:.w} livre e [inteligente](Inteligência){:.w}.
 
@@ -315,7 +315,7 @@ Perguntam eles: os [Espíritos](Espírito){:.w} de escol descem até nós? Respo
 > <span class="emoji">✝️</span> ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 13](Mateus_13){:.w}, [vers. 14](MAT.13.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a [intervenção](intervenção){:.d} de uma potência diabólica, novo [Proteu](Proteu){:.d} que revestiria todas as formas, para melhor nos enganar. Não a julgamos [suscetível](suscetível){:.d} de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está [refutada](refutar){:.d} pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o [diabo](Diabo){:.w} é às vezes bastante [criterioso](critério){:.d} e [ponderado](ponderar){:.d}, sobretudo, muito [moral](Moral){:.w}; ou, então, em que há bons diabos.
 
@@ -334,7 +334,7 @@ Acham também singular que os [Espíritos](Espírito){:.w} dos homens [eminentes
 > <span class="emoji">✝️</span> ▸ *E o que a si mesmo se [exaltar](exaltar){:.d} será humilhado; e o que a si mesmo se humilhar será exaltado.*
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 23](Mateus_23){:.w}, [vers. 12](MAT.23.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na [Terra](Terra){:.w} pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso [monarca](monarca){:.d} pode achar-se lá muito abaixo do último dos seus soldados. <span class="emoji">✅</span>
 
@@ -456,7 +456,7 @@ Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo)
 
 O que é [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} é a [inteligência](Inteligência){:.w} suprema, [causa](Causalidade){:.w} primária de todas as coisas. [^4], [^5]
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} é a [inteligência](Inteligência){:.w} suprema, [causa](Causalidade){:.w} primária de todas as coisas. [^4], [^5] <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -466,7 +466,7 @@ O que é [Deus](Deus){:.l}?
 
 Que se deve entender por [infinito](Infinito){:.w}?
 
-> <span class="emoji">👻</span> ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
+> <span class="emoji">👻</span> ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -478,7 +478,7 @@ Poder-se-ia dizer que [Deus](Deus){:.l} é o [infinito](Infinito){:.w}?
 
 > <span class="emoji">👻</span> ▸ Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.
 
-[Deus](Deus){:.l} é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que [Deus](Deus){:.l} é o infinito é tomar o [atributo](atributo){:.d} de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
+[Deus](Deus){:.l} é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que [Deus](Deus){:.l} é o infinito é tomar o [atributo](atributo){:.d} de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. <span class="emoji">✅</span>
 
 #### <span class="emoji">📄</span> Provas da existência de Deus {#lde-1-01-02}
 
@@ -488,7 +488,7 @@ Onde se pode encontrar a prova da existência de [Deus](Deus){:.l}?
 
 > <span class="emoji">👻</span> ▸ Num [axioma](Axioma){:.w} que aplicais às vossas ciências. Não há efeito sem [causa](Causalidade){:.w}. Procurai a [causa](Causalidade){:.w} de tudo o que não é obra do homem e a vossa [razão](Razão){:.w} responderá.
 
-Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Criação. O [Universo](Universo){:.w} existe, logo, tem uma causa. Duvidar da existência de [Deus](Deus){:.l} é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
+Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Criação. O [Universo](Universo){:.w} existe, logo, tem uma causa. Duvidar da existência de [Deus](Deus){:.l} é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -498,7 +498,7 @@ Para crer-se em [Deus](Deus){:.l}, basta se lance o olhar sobre as obras da Cria
 
 Que [dedução](dedução){:.d} se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ A de que [Deus](Deus){:.l} existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem [causa](Causalidade){:.w}.
+> <span class="emoji">👻</span> ▸ A de que [Deus](Deus){:.l} existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem [causa](Causalidade){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -510,7 +510,7 @@ O sentimento íntimo que temos da existência de [Deus](Deus){:.l} não poderia 
 
 > <span class="emoji">👻</span> ▸ Se assim fosse, por que existiria nos vossos selvagens esse sentimento?
 
-Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
+Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -522,7 +522,7 @@ Poder-se-ia achar nas propriedades íntimas da [matéria](Matéria){:.w} a [caus
 
 > <span class="emoji">👻</span> ▸ Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária.
 
-Atribuir a formação primária das coisas às propriedades íntimas da [matéria](Matéria){:.w} seria tomar o efeito pela [causa](Causalidade){:.w}, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
+Atribuir a formação primária das coisas às propriedades íntimas da [matéria](Matéria){:.w} seria tomar o efeito pela [causa](Causalidade){:.w}, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -536,7 +536,7 @@ Que se deve pensar da opinião dos que atribuem a formação primária a uma com
 
 A [harmonia](harmonia){:.d} existente no mecanismo do [Universo](Universo){:.w} patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a [inteligência](Inteligência){:.w} produz.
 
-Um acaso [inteligente](Inteligência){:.w} já não seria acaso.
+Um acaso [inteligente](Inteligência){:.w} já não seria acaso. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -550,7 +550,7 @@ Em que é que, na [causa](Causalidade){:.w} primária, se revela uma [inteligên
 
 O poder de uma [inteligência](Inteligência){:.w} se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a [causa](Causalidade){:.w} primária é, conseguintemente, uma [inteligência](Inteligência){:.w} superior à Humanidade.
 
-Quaisquer que sejam os prodígios que a [inteligência](Inteligência){:.w} humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela [inteligência](Inteligência){:.w} superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
+Quaisquer que sejam os prodígios que a [inteligência](Inteligência){:.w} humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela [inteligência](Inteligência){:.w} superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -574,7 +574,7 @@ Será dado um dia ao homem compreender o mistério da [Divindade](Divindade){:.w
 
 > <span class="emoji">👻</span> ▸ Quando não mais tiver o [espírito](Espírito){:.w} obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de [Deus](Deus){:.l}, ele o verá e compreenderá.
 
-A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de [Deus](Deus){:.l}. Na [infância](infância){:.d} da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no [âmago](âmago){:.d} das coisas; então, faz ideia mais justa da [Divindade](Divindade){:.w} e, ainda que sempre incompleta, mais conforme a sã razão.
+A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de [Deus](Deus){:.l}. Na [infância](infância){:.d} da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no [âmago](âmago){:.d} das coisas; então, faz ideia mais justa da [Divindade](Divindade){:.w} e, ainda que sempre incompleta, mais conforme a sã razão. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -584,7 +584,7 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 
 Embora não possamos compreender a natureza íntima de [Deus](Deus){:.l}, podemos formar idéia de algumas de suas perfeições?
 
-> <span class="emoji">👻</span> ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
+> <span class="emoji">👻</span> ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -606,7 +606,7 @@ Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infini
 
 **É onipotente.** Ele o é, porque é único. Se não dispusesse do soberano poder, algo haveria mais poderoso ou tão poderoso quanto ele, que então não teria feito todas as coisas. As que não houvesse feito seriam obra de outro [Deus](Deus){:.l}.
 
-**É soberanamente justo e bom.** A [sabedoria](Sabedoria){:.w} providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa [sabedoria](Sabedoria){:.w} não permite se duvide nem da Justiça nem da Bondade de [Deus](Deus){:.l}.
+**É soberanamente justo e bom.** A [sabedoria](Sabedoria){:.w} providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa [sabedoria](Sabedoria){:.w} não permite se duvide nem da Justiça nem da Bondade de [Deus](Deus){:.l}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -618,7 +618,7 @@ Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infini
 
 [Deus](Deus){:.l} é um ser [distinto](distinto){:.d}, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do [Universo](Universo){:.w} reunidas?
 
-> <span class="emoji">👻</span> ▸ Se fosse assim, [Deus](Deus){:.l} não existiria, porquanto seria efeito e não [causa](Causalidade){:.w}. Ele não pode ser ao mesmo tempo uma e outra coisa. [Deus](Deus){:.l} existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não [lograríeis](lograr){:.d} sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
+> <span class="emoji">👻</span> ▸ Se fosse assim, [Deus](Deus){:.l} não existiria, porquanto seria efeito e não [causa](Causalidade){:.w}. Ele não pode ser ao mesmo tempo uma e outra coisa. [Deus](Deus){:.l} existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não [lograríeis](lograr){:.d} sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -628,7 +628,7 @@ Quando dizemos que [Deus](Deus){:.l} é [eterno](eterno){:.d}, [infinito](Infini
 
 Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do [Universo](Universo){:.w} seriam partes da [Divindade](Divindade){:.w} e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da [doutrina panteísta](Panteísmo){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não podendo fazer-se [Deus](Deus){:.l}, o homem quer ao menos ser uma parte de Deus.
+> <span class="emoji">👻</span> ▸ Não podendo fazer-se [Deus](Deus){:.l}, o homem quer ao menos ser uma parte de Deus. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -642,7 +642,7 @@ Pretendem os que professam esta doutrina achar nela a demonstração de alguns d
 
 Esta doutrina faz de Deus um ser material que, embora dotado de suprema [inteligência](Inteligência){:.w}, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a [matéria](Matéria){:.w} incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as [vicissitudes](vicissitudes){:.d}, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da [Divindade](Divindade){:.w}: a [imutabilidade](imutabilidade){:.d}. Não se podem aliar as propriedades da [matéria](Matéria){:.w} à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá [sutilezas](sutil){:.d} de [sofismas](sofisma){:.d} que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em [contradição](contradição){:.d} com as suas mais essenciais propriedades. Ele confunde o [Criador](Deus){:.l} com a criatura, exatamente como o faria quem pretendesse que [engenhosa](engenhoso){:.d} máquina fosse parte integrante do mecânico que a imaginou.
 
-A [inteligência](Inteligência){:.w} de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio [Deus](Deus){:.l}, como o quadro não é o pintor que o concebeu e executou.
+A [inteligência](Inteligência){:.w} de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio [Deus](Deus){:.l}, como o quadro não é o pintor que o concebeu e executou. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -656,7 +656,7 @@ A [inteligência](Inteligência){:.w} de Deus se revela em suas obras como a de 
 
 É dado ao homem conhecer o princípio das coisas?
 
-> <span class="emoji">👻</span> ▸ Não, [Deus](Deus){:.l} não permite que ao homem tudo seja revelado neste mundo.
+> <span class="emoji">👻</span> ▸ Não, [Deus](Deus){:.l} não permite que ao homem tudo seja revelado neste mundo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -666,7 +666,7 @@ A [inteligência](Inteligência){:.w} de Deus se revela em suas obras como a de 
 
 Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
-> <span class="emoji">👻</span> ▸ O véu se levanta a seus olhos, à medida que ele se [depura](depurar){:.d}; mas, para compreender certas coisas, são-lhe precisas [faculdades](faculdade){:.d} que ainda não possui.
+> <span class="emoji">👻</span> ▸ O véu se levanta a seus olhos, à medida que ele se [depura](depurar){:.d}; mas, para compreender certas coisas, são-lhe precisas [faculdades](faculdade){:.d} que ainda não possui. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -678,7 +678,7 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 
 > <span class="emoji">👻</span> ▸ A [Ciência](Ciência){:.w} lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que [Deus](Deus){:.l} estabeleceu.
 
-Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](Sabedoria){:.w} do [Criador](Deus){:.l} . Entretanto, seja por [orgulho](Orgulho){:.w}, seja por fraqueza, sua própria [inteligência](Inteligência){:.w} o faz [joguete](joguete){:.d} da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas [decepções](decepção){:.d} para o seu [orgulho](Orgulho){:.w}.
+Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a [sabedoria](Sabedoria){:.w} do [Criador](Deus){:.l} . Entretanto, seja por [orgulho](Orgulho){:.w}, seja por fraqueza, sua própria [inteligência](Inteligência){:.w} o faz [joguete](joguete){:.d} da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas [decepções](decepção){:.d} para o seu [orgulho](Orgulho){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -690,7 +690,7 @@ Dado é ao homem receber, sem ser por meio das investigações da [Ciência](Ci�
 
 > <span class="emoji">👻</span> ▸ Sim, se o julgar conveniente, [Deus](Deus){:.l} pode revelar o que à Ciência não é dado apreender.
 
-Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
+Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -702,13 +702,17 @@ Por essas comunicações é que o homem adquire, dentro de certos limites, o con
 
 A [matéria](Matéria){:.w} existe desde toda a [eternidade](Eternidade){:.w}, como [Deus](Deus){:.l}, ou foi criada por Ele em dado momento?
 
-> <span class="emoji">👻</span> ▸ Só Deus o sabe. Há uma coisa, todavia, que a [razão](Razão){:.w} vos deve indicar: é que Deus, modelo de [amor](Amor){:.w} e [caridade](caridade){:.l}, nunca esteve inativo. Por mais distante que [logreis](lograr){:.d} figurar o início de sua ação, podereis concebê-lo [ocioso](ocioso){:.d}, um momento que seja?
+> <span class="emoji">👻</span> ▸ Só Deus o sabe. Há uma coisa, todavia, que a [razão](Razão){:.w} vos deve indicar: é que Deus, modelo de [amor](Amor){:.w} e [caridade](caridade){:.l}, nunca esteve inativo. Por mais distante que [logreis](lograr){:.d} figurar o início de sua ação, podereis concebê-lo [ocioso](ocioso){:.d}, um momento que seja? <span class="emoji">✅</span>
+
+<details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
+<span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
+</details>
 
 ###### Q.22 {#q22}
 
 Define-se geralmente a [matéria](Matéria){:.w} como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
-> <span class="emoji">👻</span> ▸ Do vosso [ponto de vista](Ponto_de_vista_(filosofia)){:.w}, elas o são, porque não falais senão do que conheceis. Mas a [matéria](Matéria){:.w} existe em estados que ignorais. Pode ser, por exemplo, tão [etérea](etéreo){:.d} e [sutil](sutil){:.d}, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
+> <span class="emoji">👻</span> ▸ Do vosso [ponto de vista](Ponto_de_vista_(filosofia)){:.w}, elas o são, porque não falais senão do que conheceis. Mas a [matéria](Matéria){:.w} existe em estados que ignorais. Pode ser, por exemplo, tão [etérea](etéreo){:.d} e [sutil](sutil){:.d}, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -720,7 +724,7 @@ Que definição podeis dar da matéria?
 
 > <span class="emoji">👻</span> ▸ A [matéria](Matéria){:.w} é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.
 
-Deste ponto de vista, pode-se dizer que a [matéria](Matéria){:.w} é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
+Deste ponto de vista, pode-se dizer que a [matéria](Matéria){:.w} é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -730,7 +734,7 @@ Deste ponto de vista, pode-se dizer que a [matéria](Matéria){:.w} é o agente,
 
 Que é o espírito?
 
-> <span class="emoji">👻</span> ▸ O princípio [inteligente](Inteligência){:.w} do [Universo](Universo){:.w}.
+> <span class="emoji">👻</span> ▸ O princípio [inteligente](Inteligência){:.w} do [Universo](Universo){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -740,7 +744,7 @@ Que é o espírito?
 
 Qual a natureza íntima do espírito?
 
-> <span class="emoji">👻</span> ▸ Não é fácil analisar o [espírito](Espírito){:.w} com a vossa linguagem. Para vós, ele nada é, por não ser [palpável](palpável){:.d}. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o [nada](Nada){:.W} e o nada não existe.
+> <span class="emoji">👻</span> ▸ Não é fácil analisar o [espírito](Espírito){:.w} com a vossa linguagem. Para vós, ele nada é, por não ser [palpável](palpável){:.d}. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o [nada](Nada){:.W} e o nada não existe. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -750,7 +754,7 @@ Qual a natureza íntima do espírito?
 
 É o [espírito](Espírito){:.w} sinônimo de [inteligência](Inteligência){:.w}?
 
-> <span class="emoji">👻</span> ▸ A [inteligência](Inteligência){:.w} é um [atributo](atributo){:.d} essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de [sorte](Sorte){:.w} que, para vós, são a mesma coisa.
+> <span class="emoji">👻</span> ▸ A [inteligência](Inteligência){:.w} é um [atributo](atributo){:.d} essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de [sorte](Sorte){:.w} que, para vós, são a mesma coisa. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -760,7 +764,7 @@ Qual a natureza íntima do espírito?
 
 O [espírito](Espírito){:.w} independe da [matéria](Matéria){:.w}, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
-> <span class="emoji">👻</span> ▸ São [distintos](distinto){:.d} uma do outro; mas a união do [espírito](Espírito){:.w} e da [matéria](Matéria){:.w} é necessária para intelectualizar a matéria.
+> <span class="emoji">👻</span> ▸ São [distintos](distinto){:.d} uma do outro; mas a união do [espírito](Espírito){:.w} e da [matéria](Matéria){:.w} é necessária para intelectualizar a matéria. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -770,7 +774,7 @@ O [espírito](Espírito){:.w} independe da [matéria](Matéria){:.w}, ou é apen
 
 Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por [espírito](Espírito){:.w} o princípio da [inteligência](Inteligência){:.w}, abstração feita das individualidades que por esse nome se designam.)
 
-> <span class="emoji">👻</span> ▸ É necessária a vós outros, porque não tendes organização apta a perceber o [espírito](Espírito){:.w} sem a matéria. A isto não são apropriados os vossos sentidos.
+> <span class="emoji">👻</span> ▸ É necessária a vós outros, porque não tendes organização apta a perceber o [espírito](Espírito){:.w} sem a matéria. A isto não são apropriados os vossos sentidos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -780,7 +784,7 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 
 Poder-se-á conceber o [espírito](Espírito){:.w} sem a [matéria](Matéria){:.w} e a [matéria](Matéria){:.w} sem o espírito?
 
-> <span class="emoji">👻</span> ▸ Pode-se, é fora de dúvida, pelo [pensamento](Pensamento){:.w}.
+> <span class="emoji">👻</span> ▸ Pode-se, é fora de dúvida, pelo [pensamento](Pensamento){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -790,7 +794,7 @@ Poder-se-á conceber o [espírito](Espírito){:.w} sem a [matéria](Matéria){:.
 
 Há então dois elementos gerais do [Universo](Universo){:.w}: a [matéria](Matéria){:.w} e o espírito?
 
-> <span class="emoji">👻</span> ▸ Sim e acima de tudo [Deus](Deus){:.l}, o Criador, o Pai de todas as coisas. Deus, [espírito](Espírito){:.w} e [matéria](Matéria){:.w} constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a [matéria](Matéria){:.w} propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja [lícito](lícito){:.d} classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão](Razão){:.w} não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a [matéria](Matéria){:.w} é matéria, e [suscetível](suscetível){:.d}, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou [primitivo](primitivo){:.d}, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a [matéria](Matéria){:.w} estaria em [perpétuo](perpétuo){:.d} estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
+> <span class="emoji">👻</span> ▸ Sim e acima de tudo [Deus](Deus){:.l}, o Criador, o Pai de todas as coisas. Deus, [espírito](Espírito){:.w} e [matéria](Matéria){:.w} constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a [matéria](Matéria){:.w} propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja [lícito](lícito){:.d} classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, [razão](Razão){:.w} não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a [matéria](Matéria){:.w} é matéria, e [suscetível](suscetível){:.d}, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou [primitivo](primitivo){:.d}, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a [matéria](Matéria){:.w} estaria em [perpétuo](perpétuo){:.d} estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -800,7 +804,7 @@ Há então dois elementos gerais do [Universo](Universo){:.w}: a [matéria](Mat�
 
 Esse fluido será o que designamos pelo nome de eletricidade?
 
-> <span class="emoji">👻</span> ▸ Dissemos que ele é [suscetível](suscetível){:.d} de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão [matéria](Matéria){:.w} mais perfeita, mais [sutil](sutil){:.d} e que se pode considerar independente.
+> <span class="emoji">👻</span> ▸ Dissemos que ele é [suscetível](suscetível){:.d} de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão [matéria](Matéria){:.w} mais perfeita, mais [sutil](sutil){:.d} e que se pode considerar independente. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -814,7 +818,7 @@ Pois que o [espírito](Espírito){:.w} é, em si, alguma coisa, não seria mais 
 
 Um fato [patente](patente){:.d} domina todas as [hipóteses](hipótese){:.d}: vemos [matéria](Matéria){:.w} destituída de [inteligência](Inteligência){:.w} e vemos um princípio [inteligente](Inteligência){:.w} que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a [inteligência](Inteligência){:.w} tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da [Divindade](Divindade){:.w}, ignoramos. Elas se nos mostram [distintas](distinto){:.d}; daí o considerarmo-las formando os dois princípios constitutivos do [Universo](Universo){:.w}. Vemos acima de tudo isso uma [inteligência](Inteligência){:.w} que domina todas as outras, que as governa, que se distingue delas por atributos essenciais.
 
-A essa [inteligência](Inteligência){:.w} suprema é que chamamos [Deus](Deus){:.l}.
+A essa [inteligência](Inteligência){:.w} suprema é que chamamos [Deus](Deus){:.l}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -828,13 +832,13 @@ A ponderabilidade é um [atributo](atributo){:.d} essencial da [matéria](Matér
 
 > <span class="emoji">👻</span> ▸ Da [matéria](Matéria){:.w} como a entendeis, sim; não, porém, da [matéria](Matéria){:.w} considerada fluido universal. A [matéria](Matéria){:.w} [etérea](etéreo){:.d} e [sutil](sutil){:.d} que constitui esse fluido vos é [imponderável](imponderável){:.d}. Nem por isso, entretanto, deixa de ser o princípio da vossa [matéria](Matéria){:.w} pesada.
 
-A [gravidade](Gravidade){:.w} é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo.
+A [gravidade](Gravidade){:.w} é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo. <span class="emoji">✅</span>
 
 ###### Q.30 {#q30}
 
 A [matéria](Matéria){:.w} é formada de um só ou de muitos elementos?
 
-> <span class="emoji">👻</span> ▸ De um só elemento [primitivo](primitivo){:.d}. Os corpos que considerais simples não são verdadeiros elementos, são transformações da [matéria](Matéria){:.w} primitiva.
+> <span class="emoji">👻</span> ▸ De um só elemento [primitivo](primitivo){:.d}. Os corpos que considerais simples não são verdadeiros elementos, são transformações da [matéria](Matéria){:.w} primitiva. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -844,7 +848,7 @@ A [matéria](Matéria){:.w} é formada de um só ou de muitos elementos?
 
 Donde se originam as diversas propriedades da [matéria](Matéria){:.w}?
 
-> <span class="emoji">👻</span> ▸ São modificações que as [moléculas](Molécula){:.w} elementares sofrem, por efeito da sua união, em certas circunstâncias.
+> <span class="emoji">👻</span> ▸ São modificações que as [moléculas](Molécula){:.w} elementares sofrem, por efeito da sua união, em certas circunstâncias. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -856,7 +860,7 @@ De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as 
 
 > <span class="emoji">👻</span> ▸ Sem [dúvida](Dúvida){:.w} e que só existem devido à disposição dos órgãos destinados a percebê-las.
 
-A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
+A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -868,7 +872,7 @@ A mesma [matéria](Matéria){:.w} elementar é [suscetível](suscetível){:.d} d
 
 > <span class="emoji">👻</span> ▸ Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo! [^6]
 
-O oxigênio, o hidrogênio, o [azoto](azoto){:.d}, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta [matéria](Matéria){:.w} primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
+O oxigênio, o hidrogênio, o [azoto](azoto){:.d}, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta [matéria](Matéria){:.w} primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -878,7 +882,7 @@ O oxigênio, o hidrogênio, o [azoto](azoto){:.d}, o carbono e todos os corpos q
 
 Não parece que esta teoria dá [razão](Razão){:.w} aos que não admitem na [matéria](Matéria){:.w} senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
-> <span class="emoji">👻</span> ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo [opaco](opaco){:.d}, que pode tornar-se transparente e vice-versa.
+> <span class="emoji">👻</span> ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo [opaco](opaco){:.d}, que pode tornar-se transparente e vice-versa. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -888,7 +892,7 @@ Não parece que esta teoria dá [razão](Razão){:.w} aos que não admitem na [m
 
 As moléculas têm forma determinada?
 
-> <span class="emoji">👻</span> ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
+> <span class="emoji">👻</span> ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -898,7 +902,7 @@ As moléculas têm forma determinada?
 
 Essa forma é constante ou variável?
 
-> <span class="emoji">👻</span> ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
+> <span class="emoji">👻</span> ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -912,7 +916,7 @@ O Espaço universal é [infinito](Infinito){:.w} ou limitado?
 
 > <span class="emoji">👻</span> ▸ Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a [razão](Razão){:.w} te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo.
 
-Supondo-se um limite ao [Espaço](Espaço_sideral){:.w}, por mais distante que a imaginação o coloque, a [razão](Razão){:.w} diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o [vazio](Vazio_(astronomia)){:.w} absoluto, ainda seria Espaço.
+Supondo-se um limite ao [Espaço](Espaço_sideral){:.w}, por mais distante que a imaginação o coloque, a [razão](Razão){:.w} diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o [vazio](Vazio_(astronomia)){:.w} absoluto, ainda seria Espaço. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -922,7 +926,7 @@ Supondo-se um limite ao [Espaço](Espaço_sideral){:.w}, por mais distante que a
 
 O [vácuo](vácuo){:.d} absoluto existe em alguma parte no Espaço universal?
 
-> <span class="emoji">👻</span> ▸ Não, não há o vácuo. O que te parece [vazio](Vazio_(astronomia)){:.w} está ocupado por [matéria](Matéria){:.w} que te escapa aos sentidos e aos instrumentos.
+> <span class="emoji">👻</span> ▸ Não, não há o vácuo. O que te parece [vazio](Vazio_(astronomia)){:.w} está ocupado por [matéria](Matéria){:.w} que te escapa aos sentidos e aos instrumentos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -941,7 +945,7 @@ O [Universo](Universo){:.w} foi criado, ou existe de toda a [eternidade](Eternid
 
 > <span class="emoji">👻</span> ▸ É fora de [dúvida](Dúvida){:.w} que ele não pode ter-se feito a si mesmo. Se existisse, como [Deus](Deus){:.l}, de toda a eternidade, não seria obra de Deus.
 
-Diz-nos a [razão](Razão){:.w} não ser possível que o [Universo](Universo){:.w} se tenha feito a si mesmo e que, não podendo também ser obra do [acaso](acaso){:.d}, há de ser obra de Deus.
+Diz-nos a [razão](Razão){:.w} não ser possível que o [Universo](Universo){:.w} se tenha feito a si mesmo e que, não podendo também ser obra do [acaso](acaso){:.d}, há de ser obra de Deus. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -953,13 +957,13 @@ Como criou [Deus](Deus){:.l} o [Universo](Universo){:.w}?
 
 > <span class="emoji">👻</span> ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa [vontade](Vontade){:.w} [onipotente](onipotente){:.d} do que estas belas palavras:
 >
-> <span class="emoji">✝️</span> ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC])
+> <span class="emoji">✝️</span> ▸ [Deus](Deus){:.l} disse: Faça-se a luz e a luz foi feita. (Gênesis, cap. 1, vers. 3, [ARC]) <span class="emoji">✅</span>
 
 ###### Q.39 {#q39}
 
 Poderemos conhecer o modo de formação dos mundos?
 
-> <span class="emoji">👻</span> ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela [condensação](condensação){:.d} da [matéria](Matéria){:.w} disseminada no Espaço.
+> <span class="emoji">👻</span> ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela [condensação](condensação){:.d} da [matéria](Matéria){:.w} disseminada no Espaço. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -969,7 +973,7 @@ Poderemos conhecer o modo de formação dos mundos?
 
 Serão os [cometas](Cometa){:.w}, como agora se pensa, um começo de [condensação](condensação){:.d} da matéria, mundos em via de formação?
 
-> <span class="emoji">👻</span> ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os [corpos celestes](Objeto_astronômico){:.w} influem de algum modo em certos [fenônemo](fenómeno){:.w} físicos.
+> <span class="emoji">👻</span> ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os [corpos celestes](Objeto_astronômico){:.w} influem de algum modo em certos [fenônemo](fenómeno){:.w} físicos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -979,7 +983,7 @@ Serão os [cometas](Cometa){:.w}, como agora se pensa, um começo de [condensaç
 
 Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a [matéria](Matéria){:.w} que o compõe?
 
-> <span class="emoji">👻</span> ▸ Sim, [Deus](Deus){:.l} renova os mundos, como renova os seres vivos.
+> <span class="emoji">👻</span> ▸ Sim, [Deus](Deus){:.l} renova os mundos, como renova os seres vivos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -989,7 +993,7 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 
 Poder-se-á conhecer o tempo que dura a formação dos mundos: da [Terra](Terra){:.w}, por exemplo?
 
-> <span class="emoji">👻</span> ▸ Nada te posso dizer a respeito, porque só o [Criador](Deus){:.l} o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
+> <span class="emoji">👻</span> ▸ Nada te posso dizer a respeito, porque só o [Criador](Deus){:.l} o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1001,7 +1005,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da [Terra](Terra)
 
 Quando começou a [Terra](Terra){:.w} a ser povoada?
 
-> <span class="emoji">👻</span> ▸ No começo tudo era caos; os [elementos](Elemento_(química)){:.w} estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
+> <span class="emoji">👻</span> ▸ No começo tudo era caos; os [elementos](Elemento_(química)){:.w} estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1011,7 +1015,7 @@ Quando começou a [Terra](Terra){:.w} a ser povoada?
 
 Donde vieram para a [Terra](Terra){:.w} os seres vivos?
 
-> <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os [germes](germe){:.d}, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado [latente](latente){:.d} de [inércia](inércia){:.d}, como a [crisálida](Crisálida){:.w} e as sementes das plantas, até o momento [propício](propício){:.d} ao [surto](surto){:.d} de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
+> <span class="emoji">👻</span> ▸ A [Terra](Terra){:.w} lhes continha os [germes](germe){:.d}, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado [latente](latente){:.d} de [inércia](inércia){:.d}, como a [crisálida](Crisálida){:.w} e as sementes das plantas, até o momento [propício](propício){:.d} ao [surto](surto){:.d} de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1023,7 +1027,7 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 
 > <span class="emoji">👻</span> ▸ Achavam-se, por assim dizer, em estado de [fluido](fluido){:.d} no Espaço, no meio dos [Espíritos](Espírito){:.w}, ou em outros planetas, à espera da criação da [Terra](Terra){:.w} para começarem existência nova em novo globo.
 
-A [Química](Química){:.w} nos mostra as [moléculas](Molécula){:.w} dos corpos [inorgânicos](inorgânico){:.d} unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio [latente](latente){:.d} de [vitalidade](vitalidade){:.d}, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do [caos](Caos){;.w} pela força mesma da natureza, diminui de alguma coisa a grandeza de [Deus](Deus){:.l}? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta [teoria](teoria){:.d} não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações.
+A [Química](Química){:.w} nos mostra as [moléculas](Molécula){:.w} dos corpos [inorgânicos](inorgânico){:.d} unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio [latente](latente){:.d} de [vitalidade](vitalidade){:.d}, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do [caos](Caos){:.w} pela força mesma da natureza, diminui de alguma coisa a grandeza de [Deus](Deus){:.l}? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta [teoria](teoria){:.d} não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1033,7 +1037,7 @@ A [Química](Química){:.w} nos mostra as [moléculas](Molécula){:.w} dos corpo
 
 Ainda há seres que nasçam espontaneamente?
 
-> <span class="emoji">👻</span> ▸ Sim, mas o [germe](germe){:.d} [primitivo](primitivo){:.d} já existia em estado [latente](latente){:.d}. Sois todos os dias testemunhas desse [fenômeno](Fenómeno){:.w}. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação [pútrida](pútrida){;.d} que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
+> <span class="emoji">👻</span> ▸ Sim, mas o [germe](germe){:.d} [primitivo](primitivo){:.d} já existia em estado [latente](latente){:.d}. Sois todos os dias testemunhas desse [fenômeno](Fenómeno){:.w}. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação [pútrida](pútrida){:.d} que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1043,7 +1047,7 @@ Ainda há seres que nasçam espontaneamente?
 
 A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
 
-> <span class="emoji">👻</span> ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do [limo](limo){:.d} da terra.
+> <span class="emoji">👻</span> ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do [limo](limo){:.d} da terra. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1053,7 +1057,7 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 
 Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
 
-> <span class="emoji">👻</span> ▸ Não; todos os vossos cálculos são [quiméricos](quimérico){;.d}.
+> <span class="emoji">👻</span> ▸ Não; todos os vossos cálculos são [quiméricos](quimérico){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1063,7 +1067,7 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 
 Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 
-> <span class="emoji">👻</span> ▸ O princípio das coisas está nos segredos de [Deus](Deus){:.l}. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
+> <span class="emoji">👻</span> ▸ O princípio das coisas está nos segredos de [Deus](Deus){:.l}. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1075,7 +1079,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 
 A espécie humana começou por um único homem?
 
-> <span class="emoji">👻</span> ▸ Não; aquele a quem chamais [Adão](Adão){:.w} não foi o primeiro, nem o único a povoar a Terra.
+> <span class="emoji">👻</span> ▸ Não; aquele a quem chamais [Adão](Adão){:.w} não foi o primeiro, nem o único a povoar a Terra. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Adão, povoamento da Terra e <a href="#adao">↩️</a>
@@ -1087,7 +1091,7 @@ Poderemos saber em que época viveu [Adão](Adão){:.w}?
 
 > <span class="emoji">👻</span> ▸ Mais ou menos na que lhe assinais: cerca de 4.000 anos antes do [Cristo](Cristo){:.w}.
 
-O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes [cataclismos](cataclismo){:.d} que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do [Cristo](Cristo){:.w}, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na [Terra](Terra){:.w} senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um [mito](mito){:.d} ou uma [alegoria](alegoria){:.d} que personifica as primeiras idades do mundo.
+O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes [cataclismos](cataclismo){:.d} que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do [Cristo](Cristo){:.w}, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na [Terra](Terra){:.w} senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um [mito](mito){:.d} ou uma [alegoria](alegoria){:.d} que personifica as primeiras idades do mundo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Adão, notícia histórica sobre <a href="#adao">↩️</a>
@@ -1099,7 +1103,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 
 Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
-> <span class="emoji">👻</span> ▸ Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.
+> <span class="emoji">👻</span> ▸ Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1109,7 +1113,7 @@ Donde provêm as diferenças físicas e morais que distinguem as raças humanas 
 
 O homem surgiu em muitos pontos do globo?
 
-> <span class="emoji">👻</span> ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
+> <span class="emoji">👻</span> ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1119,13 +1123,13 @@ O homem surgiu em muitos pontos do globo?
 
 Estas diferenças constituem espécies [distintas](distinto){:.d}?
 
-> <span class="emoji">👻</span> ▸ Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?
+> <span class="emoji">👻</span> ▸ Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie? <span class="emoji">✅</span>
 
 ###### Q.54 {#q54}
 
 Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 
-> <span class="emoji">👻</span> ▸ Todos os homens são irmãos em [Deus](Deus){:.l}, porque são animados pelo [espírito](Espírito){:.w} e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
+> <span class="emoji">👻</span> ▸ Todos os homens são irmãos em [Deus](Deus){:.l}, porque são animados pelo [espírito](Espírito){:.w} e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1139,7 +1143,7 @@ São habitados todos os globos que se movem no Espaço?
 
 > <span class="emoji">👻</span> ▸ Sim e o homem terreno está longe de ser, como supõe, o primeiro em [inteligência](Inteligência){:.w}, em bondade e em perfeição. Entretanto, há homens que se têm por [espíritos](Espírito){:.w} muito fortes e que imaginam pertencer a este pequenino globo o [privilégio](privilégio){:.d} de conter seres racionais. [Orgulho](orgulho){:.d} e [vaidade](vaidade){:.d}! Julgam que só para eles criou [Deus](Deus){:.l} o [Universo](Universo){:.w}.
 
-[Deus](Deus){:.l} povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da [Providência](Divina_Providência){:.w}. Acreditar que só os haja no Planeta que habitamos fora duvidar da [sabedoria](Sabedoria){:.w} de [Deus](Deus){:.l}, que não fez coisa alguma [inútil](inútil){:.d}. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da [Terra](Terra){:.w}, que possa induzir à suposição de que ela goze do [privilégio](privilégio){:.d} de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
+[Deus](Deus){:.l} povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da [Providência](Divina_Providência){:.w}. Acreditar que só os haja no Planeta que habitamos fora duvidar da [sabedoria](Sabedoria){:.w} de [Deus](Deus){:.l}, que não fez coisa alguma [inútil](inútil){:.d}. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da [Terra](Terra){:.w}, que possa induzir à suposição de que ela goze do [privilégio](privilégio){:.d} de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1149,7 +1153,7 @@ São habitados todos os globos que se movem no Espaço?
 
 É a mesma a constituição física dos diferentes globos?
 
-> <span class="emoji">👻</span> ▸ Não; de modo algum se assemelham.
+> <span class="emoji">👻</span> ▸ Não; de modo algum se assemelham. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1159,7 +1163,7 @@ São habitados todos os globos que se movem no Espaço?
 
 Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
 
-> <span class="emoji">👻</span> ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
+> <span class="emoji">👻</span> ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1171,7 +1175,7 @@ Os mundos mais afastados do [Sol](Sol){:.w} estarão privados de luz e calor, po
 
 > <span class="emoji">👻</span> ▸ Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a [eletricidade](Eletricidade){:.w} que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma [matéria](Matéria){:.w} que vós outros e com órgãos de conformação idêntica à dos vossos.
 
-As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem [dúvida](Dúvida){:.w} contêm elementos que desconhecemos. Não vemos na [Terra](Terra){:.w} as longas noites polares iluminadas pela [eletricidade](Eletricidade){:.w} das [auroras boreais](Aurora_polar){:.w}? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na [Terra](Terra){:.w} e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
+As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem [dúvida](Dúvida){:.w} contêm elementos que desconhecemos. Não vemos na [Terra](Terra){:.w} as longas noites polares iluminadas pela [eletricidade](Eletricidade){:.w} das [auroras boreais](Aurora_polar){:.w}? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na [Terra](Terra){:.w} e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1195,7 +1199,7 @@ A existência do homem antes do [dilúvio](Dilúvio){:.w} geológico ainda é, c
 
 A diversidade das raças corrobora, igualmente, esta opinião. O clima e os costumes produzem, é certo, modificações no caráter físico; sabe-se, porém, até onde pode ir a influência dessas causas. Entretanto, o exame fisiológico demonstra haver, entre certas raças, diferenças constitucionais mais profundas do que as que o clima é capaz de determinar. O cruzamento das raças dá origem aos tipos intermediários. Ele tende a apagar os caracteres extremos, mas não os cria; apenas produz variedades. Ora, para que tenha havido cruzamento de raças, preciso era que houvesse raças [distintas](distinto){:.d}. Como, porém, se explicará a existência delas, atribuindo-se-lhes uma origem comum e, sobretudo, tão pouco afastada? Como se há de admitir que, em poucos séculos, alguns descendentes de [Noé](Noé){:.w} se tenham transformado ao ponto de produzirem a raça [etíope](Etíopes){:.w}, por exemplo? Tão pouco admissível é semelhante [metamorfose](metamorfose){:.d}, quanto à [hipótese](hipótese){:.d} de uma origem comum para o lobo e o cordeiro, para o elefante e o pulgão, para o pássaro e o peixe. Ainda uma vez: nada pode prevalecer contra a evidência dos fatos.
 
-Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o [dilúvio](Dilúvio){:.w} de [Noé](Noé){:.w} foi uma [catástrofe](catástrofe){:.d} parcial, confundida com o [cataclismo](cataclismo){:.d} geológico; e atentando-se, finalmente, na forma [alegórica](alegoria){:.d}, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a [pecha](pecha){:.d} de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a [Ciência](Ciência){:.w}. Esse o meio único de não apresentarem lado vulnerável ao [ceticismo](ceticismo){:.d}.
+Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o [dilúvio](Dilúvio){:.w} de [Noé](Noé){:.w} foi uma [catástrofe](catástrofe){:.d} parcial, confundida com o [cataclismo](cataclismo){:.d} geológico; e atentando-se, finalmente, na forma [alegórica](alegoria){:.d}, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a [pecha](pecha){:.d} de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a [Ciência](Ciência){:.w}. Esse o meio único de não apresentarem lado vulnerável ao [ceticismo](ceticismo){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Adão, criação dos mundos e <a href="#adao">↩️</a>
@@ -1212,7 +1216,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 É a mesma a força que une os elementos da [matéria](Matéria){:.w} nos corpos orgânicos e nos inorgânicos?
 
-> <span class="emoji">👻</span> ▸ Sim, a lei de atração é a mesma para todos.
+> <span class="emoji">👻</span> ▸ Sim, a lei de atração é a mesma para todos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1222,7 +1226,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 Há diferença entre a [matéria](Matéria){:.w} dos corpos orgânicos e a dos inorgânicos?
 
-> <span class="emoji">👻</span> ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
+> <span class="emoji">👻</span> ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1232,7 +1236,7 @@ Há diferença entre a [matéria](Matéria){:.w} dos corpos orgânicos e a dos i
 
 Qual a [causa](Causalidade){:.w} da animalização da [matéria](Matéria){:.w}?
 
-> <span class="emoji">👻</span> ▸ Sua união com o princípio vital.
+> <span class="emoji">👻</span> ▸ Sua união com o princípio vital. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1242,7 +1246,7 @@ Qual a [causa](Causalidade){:.w} da animalização da [matéria](Matéria){:.w}?
 
 O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da [matéria](Matéria){:.w} organizada? Numa palavra, é efeito ou [causa](Causalidade){:.w}?
 
-> <span class="emoji">👻</span> ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
+> <span class="emoji">👻</span> ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1252,7 +1256,7 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 
 Vimos que o [espírito](Espírito){:.w} e a [matéria](Matéria){:.w} são dois elementos constitutivos do [Universo](Universo){:.w}. O princípio vital será um terceiro?
 
-> <span class="emoji">👻</span> ▸ É, sem dúvida, um dos elementos necessários à constituição do [Universo](Universo){:.w}, mas que também tem sua origem na matéria universal modificada. É, para vós, um [elemento](Elemento_(química)){:.w}, como o oxigênio e o hidrogênio, que, entretanto, não são elementos [primitivos](primitivo){:.d}, pois que tudo isso deriva de um só princípio.
+> <span class="emoji">👻</span> ▸ É, sem dúvida, um dos elementos necessários à constituição do [Universo](Universo){:.w}, mas que também tem sua origem na matéria universal modificada. É, para vós, um [elemento](Elemento_(química)){:.w}, como o oxigênio e o hidrogênio, que, entretanto, não são elementos [primitivos](primitivo){:.d}, pois que tudo isso deriva de um só princípio. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q680">Q.680</a>
@@ -1262,13 +1266,13 @@ Vimos que o [espírito](Espírito){:.w} e a [matéria](Matéria){:.w} são dois 
 
 Parece resultar daí que a [vitalidade](vitalidade){:.d} não tem seu princípio num agente [primitivo](primitivo){:.d} distinto e sim numa propriedade especial da [matéria](Matéria){:.w} universal, devida a certas modificações.
 
-> <span class="emoji">👻</span> ▸ Isto é consequência do que dissemos.
+> <span class="emoji">👻</span> ▸ Isto é consequência do que dissemos. <span class="emoji">✅</span>
 
 ###### Q.65 {#q65}
 
 O princípio vital reside em algum dos corpos que conhecemos?
 
-> <span class="emoji">👻</span> ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o [espírito](Espírito){:.w} e a [matéria](Matéria){:.w}.
+> <span class="emoji">👻</span> ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o [espírito](Espírito){:.w} e a [matéria](Matéria){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1278,7 +1282,7 @@ O princípio vital reside em algum dos corpos que conhecemos?
 
 O princípio vital é um só para todos os seres orgânicos?
 
-> <span class="emoji">👻</span> ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da [matéria](Matéria){:.w} inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
+> <span class="emoji">👻</span> ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da [matéria](Matéria){:.w} inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1288,7 +1292,7 @@ O princípio vital é um só para todos os seres orgânicos?
 
 A [vitalidade](vitalidade){:.d} é [atributo](atributo){:.d} permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
 
-> <span class="emoji">👻</span> ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a [matéria](Matéria){:.w} não é a vida? A união dos dois é necessária para produzir a vida.
+> <span class="emoji">👻</span> ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a [matéria](Matéria){:.w} não é a vida? A união dos dois é necessária para produzir a vida. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1300,7 +1304,7 @@ Poder-se-á dizer que a [vitalidade](vitalidade){:.d} se acha em estado [latente
 
 > <span class="emoji">👻</span> ▸ Sim, é isso.
 
-O conjunto dos órgãos constitui uma espécie de [mecanismo](mecanismo){:.d} que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força [motriz](motriz){:.d} dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade daquele agente, quase como sucede com o [atrito](Atrito){:.w}, que desenvolve o calor.
+O conjunto dos órgãos constitui uma espécie de [mecanismo](mecanismo){:.d} que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força [motriz](motriz){:.d} dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade daquele agente, quase como sucede com o [atrito](Atrito){:.w}, que desenvolve o calor. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1312,7 +1316,7 @@ O conjunto dos órgãos constitui uma espécie de [mecanismo](mecanismo){:.d} qu
 
 Qual a [causa](Causalidade){:.w} da [morte](Morte){:.w} dos seres orgânicos?
 
-> <span class="emoji">👻</span> ▸ Esgotamento dos órgãos.
+> <span class="emoji">👻</span> ▸ Esgotamento dos órgãos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1322,7 +1326,7 @@ Qual a [causa](Causalidade){:.w} da [morte](Morte){:.w} dos seres orgânicos?
 
 Poder-se-ia comparar a [morte](Morte){:.w} à cessação do movimento de uma máquina desorganizada?
 
-> <span class="emoji">👻</span> ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
+> <span class="emoji">👻</span> ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1332,7 +1336,7 @@ Poder-se-ia comparar a [morte](Morte){:.w} à cessação do movimento de uma má
 
 Por que uma lesão do coração mais depressa causa a [morte](Morte){:.w} do que as de outros órgãos?
 
-> <span class="emoji">👻</span> ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
+> <span class="emoji">👻</span> ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1356,7 +1360,7 @@ A quantidade de fluido vital não é absoluta em todos os seres orgânicos. Vari
 
 A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conservação da vida, se não for renovada pela absorção e [assimilação](assimilação){:.d} das substâncias que o contêm.
 
-O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se.
+O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1378,7 +1382,7 @@ a) os seres inanimados, constituídos só de matéria, sem [vitalidade](vitalida
 
 b) os seres animados que não pensam, formados de [matéria](Matéria){:.w} e dotados de vitalidade, porém destituídos de [inteligência](Inteligência){:.w};
 
-c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio [inteligente](Inteligência){:.w} que lhes outorga a faculdade de pensar.
+c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio [inteligente](Inteligência){:.w} que lhes outorga a faculdade de pensar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1388,7 +1392,7 @@ c) os seres animados pensantes, formados de matéria, dotados de vitalidade e te
 
 Qual a fonte da [inteligência](Inteligência){:.w}?
 
-> <span class="emoji">👻</span> ▸ Já o dissemos; a [inteligência](Inteligência){:.w} universal.
+> <span class="emoji">👻</span> ▸ Já o dissemos; a [inteligência](Inteligência){:.w} universal. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1398,7 +1402,7 @@ Qual a fonte da [inteligência](Inteligência){:.w}?
 
 Poder-se-ia dizer que cada ser tira uma porção de [inteligência](Inteligência){:.w} da fonte universal e a assimila, como tira e assimila o princípio da vida material?
 
-> <span class="emoji">👻</span> ▸ Isto não passa de simples comparação, todavia [inexata](inexato){:.d}, porque a [inteligência](Inteligência){:.w} é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
+> <span class="emoji">👻</span> ▸ Isto não passa de simples comparação, todavia [inexata](inexato){:.d}, porque a [inteligência](Inteligência){:.w} é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1408,7 +1412,7 @@ Poder-se-ia dizer que cada ser tira uma porção de [inteligência](Inteligênci
 
 O instinto independe da [inteligência](Inteligência){:.w}?
 
-> <span class="emoji">👻</span> ▸ Precisamente, não, por isso que o instinto é uma espécie de [inteligência](Inteligência){:.w}. É uma [inteligência](Inteligência){:.w} sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
+> <span class="emoji">👻</span> ▸ Precisamente, não, por isso que o instinto é uma espécie de [inteligência](Inteligência){:.w}. É uma [inteligência](Inteligência){:.w} sem raciocínio. Por ele é que todos os seres proveem às suas necessidades. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1418,7 +1422,7 @@ O instinto independe da [inteligência](Inteligência){:.w}?
 
 Pode estabelecer-se uma linha de separação entre instinto e a [inteligência](Inteligência){:.w}, isto é, precisar onde um acaba e começa a outra?
 
-> <span class="emoji">👻</span> ▸ Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da [inteligência](Inteligência){:.w}.
+> <span class="emoji">👻</span> ▸ Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da [inteligência](Inteligência){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1428,7 +1432,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a [inteligência](
 
 É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
 
-> <span class="emoji">👻</span> ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
+> <span class="emoji">👻</span> ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1442,7 +1446,7 @@ Por que nem sempre é guia infalível a razão?
 
 O instinto é uma [inteligência](Inteligência){:.w} rudimentar, que difere da [inteligência](Inteligência){:.w} propriamente dita, em que suas manifestações são quase sempre espontâneas, ao passo que as da [inteligência](Inteligência){:.w} resultam de uma combinação e de um ato deliberado.
 
-O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a [consciência](Consciência){:.w} e a percepção das coisas exteriores, ele se alia à [inteligência](Inteligência){:.w}, isto é, à [vontade](Vontade){:.w} e à liberdade.
+O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a [consciência](Consciência){:.w} e a percepção das coisas exteriores, ele se alia à [inteligência](Inteligência){:.w}, isto é, à [vontade](Vontade){:.w} e à liberdade. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1460,7 +1464,7 @@ Que definição se pode dar dos [Espíritos](Espírito){:.w}?
 
 > <span class="emoji">👻</span> ▸ Pode dizer-se que os [Espíritos](Espírito){:.w} são os seres inteligentes da criação. Povoam o [Universo](Universo){:.w}, fora do mundo material.
 
-📝 Nota – A palavra **Espírito** é empregada aqui para designar as individualidades dos seres extracorpóreos e não mais o elemento [inteligente](Inteligência){:.w} do [Universo](Universo){:.w}.
+📝 Nota – A palavra **Espírito** é empregada aqui para designar as individualidades dos seres extracorpóreos e não mais o elemento [inteligente](Inteligência){:.w} do [Universo](Universo){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1470,7 +1474,7 @@ Que definição se pode dar dos [Espíritos](Espírito){:.w}?
 
 Os [Espíritos](Espírito){:.w} são seres distintos da [Divindade](Divindade){:.w} ou serão simples [emanações](emanação){:.d} ou porções desta e, por isto, denominados filhos de [Deus](Deus){:.l}?
 
-> <span class="emoji">👻</span> ▸ Meu [Deus](Deus){:.l}! São obra de [Deus](Deus){:.l}, exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a [Deus](Deus){:.l}: somos seus filhos, pois que somos obra sua.
+> <span class="emoji">👻</span> ▸ Meu [Deus](Deus){:.l}! São obra de [Deus](Deus){:.l}, exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a [Deus](Deus){:.l}: somos seus filhos, pois que somos obra sua. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2139,7 +2143,7 @@ A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no
 > <span class="emoji">✝️</span> ▸ *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 24](Mateus_24){:.w}, [vers. 29 e 34](MAT.24.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 Não temos visto a [Ciência](Ciência){:.w} contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o [Cristo](Cristo){:.w}, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 
@@ -3603,7 +3607,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 > <span class="emoji">✝️</span> ▸ E, descendo eles do monte, [Jesus](Jesus){:.w} lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E [Jesus](Jesus){:.w}, respondendo, disse-lhes: *Em [verdade](Verdade){:.w} Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 17](Mateus_17){:.w}, [vers. 09 a 13](MAT.17.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 Pois que João Batista fora Elias, houve reencarnação do [Espírito](Espírito){:.w} ou da [alma](Alma){:.l} de Elias no corpo de João Batista.
 
@@ -3620,7 +3624,7 @@ As próprias palavras de [Jesus](Jesus){:.w} não permitem [dúvida](Dúvida){:.
 > <span class="emoji">✝️</span> ▸ Respondendo a Nicodemos, disse [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de [Deus](Deus){:.l}.*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu [Jesus](Jesus){:.w}: *Em [verdade](Verdade){:.w}, em [verdade](Verdade){:.w} te digo que, se um homem não renascer da água e do [Espírito](Espírito){:.w}, não poderá entrar no Reino de [Deus](Deus){:.l}. O que é nascido da carne é carne e o que é nascido do [Espírito](Espírito){:.w} é [Espírito](Espírito){:.w}. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
 >
 > João, cap. 3, vers. 3-7, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br> 
  <span class="emoji">  <span class="emoji"> 👉 </span>  </span>  Veja <a href="#q1010">Q.1010</a><br>
@@ -7123,7 +7127,7 @@ Poderá dar-se que o [Espírito](Espírito){:.w} protetor abandone o seu protegi
 > Não receeis fatigar-nos com as vossas perguntas. Ao contrário, procurai estar sempre em relação conosco. Sereis assim mais fortes e mais felizes. São essas comunicações de cada um com o seu [Espírito](Espírito){:.w} familiar que fazem sejam [médiuns](Mediunidade){:.w} todos os homens, [médiuns](Mediunidade){:.w} ignorados hoje, mas que se manifestarão mais tarde e se espalharão qual oceano sem margens, levando de roldão a incredulidade e a ignorância. Homens doutos, instruí os vossos semelhantes; homens de talento, educai os vossos irmãos. Não imaginais que obra fazeis desse modo: a do [Cristo](Cristo){:.w}, a que [Deus](Deus){:.l} vos impõe. Para que vos outorgou [Deus](Deus){:.l} a [inteligência](Inteligência){:.w} e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna.
 >
 > São Luís, IX de França e Santo Agostinho
-> {:.spirit-multi}
+{:.spirit-multi}
 
 Nada tem de surpreendente a doutrina dos [anjos](Anjo){:.w} guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na [Terra](Terra){:.w} o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os [Espíritos](Espírito){:.w} possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 
@@ -11319,7 +11323,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à [matéria]
 > <span class="emoji">✝️</span> ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de [Deus](Deus){:.l}.*
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 19](Mateus_19){:.w}, [vers. 24](MAT.19.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br> 
  <span class="emoji"> 👉 </span>  Veja <a href="#q266">Q.266</a>
@@ -11977,7 +11981,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 > <span class="emoji">✝️</span> ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 06](Mateus_6){:.w}, [vers. 13](MAT.6.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 Essa teoria da [causa](Causalidade){:.w} determinante dos nossos atos ressalta, com evidência, de todo o ensino que os [Espíritos](Espírito){:.w} hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um [Espírito](Espírito){:.w} encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como [Espírito](Espírito){:.w}. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio [Espírito](Espírito){:.w}, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros [Espíritos](Espírito){:.w} imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na [razão](Razão){:.w} de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus [Espíritos](Espírito){:.w}.
 
@@ -12180,7 +12184,7 @@ O [amor](Amor){:.w} e a [caridade](caridade){:.l} são o complemento da lei de j
 > <span class="emoji">✝️</span> ▸ *Amarás o teu próximo como a ti mesmo.*
 >
 > [Mateus](Mateus_(evangelista)){:.w}, [cap. 22](Mateus_22){:.w}, [vers. 39](MAT.22.ARC){:.b}, [ARC]
-> {:.bible-multi}
+{:.bible-multi}
 
 A [caridade](caridade){:.l}, segundo [Jesus](Jesus){:.w}, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 
@@ -12562,7 +12566,7 @@ Qual o meio de destruir-se o egoísmo?
 > <span class="emoji"> <span class="emoji"> 👉 </span> </span> Veja [Q.785](#q785)
 >
 > Fénelon
-> {:.spirit-multi}
+{:.spirit-multi}
 
 Louváveis esforços indubitavelmente se empregam para fazer que a [Humanidade](Natureza_humana){:.w} progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência.
 
@@ -12635,7 +12639,7 @@ Concebemos toda a [sabedoria](Sabedoria){:.w} desta máxima, porém a dificuldad
 > Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma [dúvida](Dúvida){:.w} em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de [fenônemo](fenómeno){:.w} capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}.
 >
 > Santo Agostinho
-> {:.spirit-multi}
+{:.spirit-multi}
 
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós.
 
@@ -13799,7 +13803,7 @@ Em que se baseia a duração dos sofrimentos do culpado?
 > <span class="emoji">👻</span> ▸ No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do [Espírito](Espírito){:.w}, a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.
 >
 > São Luís, IX de França
-> {:.spirit-multi}
+{:.spirit-multi}
 
 ###### Q.1005 {#q1005}
 
@@ -13818,7 +13822,7 @@ Poderão durar eternamente os sofrimentos do [Espírito](Espírito){:.w}?
 > <span class="emoji">👻</span> ▸ Poderiam, se ele pudesse ser eternamente mau, isto é, se jamais se arrependesse e melhorasse, sofreria eternamente. [Deus](Deus){:.l}, porém, não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da [vontade](Vontade){:.w} de cada um. Mais ou menos tardia pode ser a vontade, do mesmo modo que há crianças mais ou menos precoces, porém, cedo ou tarde, ela aparece, por efeito da irresistível necessidade que o [Espírito](Espírito){:.w} sente de sair da inferioridade e de se tornar feliz. Eminentemente sábia e magnânima é, pois, a lei que rege a duração das penas, porquanto subordina essa duração aos esforços do [Espírito](Espírito){:.w}. Jamais o priva do seu livre-arbítrio: se deste faz ele mau uso, sofre as consequências.
 >
 > São Luís, IX de França
-> {:.spirit-multi}
+{:.spirit-multi}
 
 ###### Q.1007 {#q1007}
 
@@ -13827,7 +13831,7 @@ Haverá [Espíritos](Espírito){:.w} que nunca se arrependem?
 > <span class="emoji">👻</span> ▸ Há os de arrependimento muito tardio; porém, pretender-se que nunca se melhorarão fora negar a lei do progresso e dizer que a criança não pode tornar-se homem.
 >
 > São Luís, IX de França
-> {:.spirit-multi}
+{:.spirit-multi}
 
 ###### Q.1008 {#q1008}
 
@@ -13836,7 +13840,7 @@ Depende sempre da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w} a dura�
 > <span class="emoji">👻</span> ▸ Sim, ao [Espírito](Espírito){:.w} podem ser impostas penas por determinado tempo; mas [Deus](Deus){:.l}, que só quer o bem de suas criaturas, acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o [Espírito](Espírito){:.w} manifeste de se melhorar.
 >
 > São Luís, IX de França
-> {:.spirit-multi}
+{:.spirit-multi}
 
 ###### Q.1009 {#q1009}
 
@@ -13847,19 +13851,19 @@ Assim, as penas impostas jamais o são por toda a [eternidade](Eternidade){:.w}?
 > <span class="emoji">✝️</span> ▸ *A cada um segundo as suas obras.* (Romanos, cap. 2, vers. 6, [ARC]
 >
 > Santo Agostinho
-> {:.spirit-multi}
+{:.spirit-multi}
 
 > <span class="emoji">👻</span> ▸ Aplicai-vos, por todos os meios ao vosso alcance, em combater, em aniquilar a ideia da eternidade das penas, ideia blasfematória da justiça e da bondade de [Deus](Deus){:.l}, gérmen fecundo da incredulidade, do materialismo e da indiferença que invadiram as massas humanas, desde que as inteligências começaram a desenvolver-se. O [Espírito](Espírito){:.w}, prestes a esclarecer-se, ou mesmo apenas desbastado, logo lhe apreendeu a monstruosa injustiça. Sua [razão](Razão){:.w} a repele e, então, raro é que não englobe no mesmo repúdio a pena que o revolta e o [Deus](Deus){:.l} a quem a atribui. Daí os males sem conta que hão desabado sobre vós e aos quais vimos trazer remédio. Tanto mais fácil será a tarefa que vos apontamos, quanto é certo que todas as autoridades em quem se apoiam os defensores de tal crença evitaram todas pronunciar-se formalmente a respeito. Nem os concílios, nem os Pais da Igreja resolveram essa grave questão. Muito embora, segundo os evangelistas e tomadas ao [pé da letra](ao_pé_da_letra){:.d} as palavras emblemáticas do [Cristo](Cristo){:.w}, Ele tenha ameaçado os culpados com um fogo que se não extingue, com um fogo [eterno](eterno){:.d}, absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado **eternamente**.
 >
 > Pobres ovelhas desgarradas, aprendei a ver aproximar-se de vós o Bom Pastor, que, longe de vos banir para todo o sempre de sua presença, vem pessoalmente ao vosso encontro, para vos reconduzir ao aprisco. Filhos pródigos, deixai o vosso voluntário exílio; encaminhai vossos passos para a morada paterna. O Pai vos estende os braços e está sempre pronto a festejar o vosso regresso ao seio da família.
 >
 > Lamennais
-> {:.spirit-multi}
+{:.spirit-multi}
 
 > <span class="emoji">👻</span> ▸ Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: [eternidade](Eternidade){:.w} das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. [Eternidade](Eternidade){:.w} dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa [razão](Razão){:.w} humana, porém, tal como a tendes, ela é uma dádiva de [Deus](Deus){:.l} e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por [eterno](eterno){:.d} o mal. Somente [Deus](Deus){:.l} é [eterno](eterno){:.d} e não poderia ter criado o mal [eterno](eterno){:.d}; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um [Deus](Deus){:.l} intrinsecamente bom, absolutamente poderoso, essencialmente justo.
 >
 > Platão
-> {:.spirit-multi}
+{:.spirit-multi}
 
 > <span class="emoji">👻</span> ▸ Gravitar para a unidade divina, eis o fim da Humanidade. Para atingi-lo, três coisas são necessárias: a justiça, o [amor](Amor){:.w} e a ciência. Três coisas lhe são opostas e contrárias: a ignorância, o ódio e a injustiça. Pois bem! digo-vos, em [verdade](Verdade){:.w}, que mentis a estes princípios fundamentais, comprometendo a ideia de [Deus](Deus){:.l}, com o lhe exagerardes a severidade. Duplamente a comprometeis, deixando que no [Espírito](Espírito){:.w} da criatura penetre a suposição de que há nela mais clemência, mais virtude, [amor](Amor){:.w} e verdadeira justiça, do que atribuís ao ser [infinito](Infinito){:.w}. Destruís mesmo a ideia do inferno, tornando-o ridículo e inadmissível às vossas crenças, como o é aos vossos corações o horrendo espetáculo das execuções, das fogueiras e das torturas da Idade Média! Pois quê! Quando banida se acha para sempre das legislações humanas a era das cegas represálias, é que esperais mantê-la no ideal? Oh! crede-me, crede-me, irmãos em [Deus](Deus){:.l} e em [Jesus](Jesus){:.w} [Cristo](Cristo){:.w}, crede-me: ou vos resignais a deixar que pereçam nas vossas mãos todos os vossos dogmas, de preferência a que se modifiquem, ou, então, vivificai-os, abrindo-os aos benfazejos eflúvios que os Bons, neste momento, derramam neles. A ideia do inferno, com as suas fornalhas ardentes, com as suas caldeiras a ferver, pôde ser tolerada, isto é, perdoável, num século de ferro; porém, no século XIX, não passa de vão fantasma, próprio, quando muito, para amedrontar criancinhas e em que estas, crescendo um pouco, logo deixam de crer. Se persistirdes nessa mitologia aterradora, engendrareis a incredulidade, mãe de toda a desorganização social. Tremo, entrevendo toda uma ordem social abalada e a ruir sobre os seus fundamentos, por falta de sanção penal. Homens de [fé](Fé){:.w} ardente e viva, vanguardeiros do dia da luz, mãos à obra, não para manter fábulas que envelheceram e se desacreditaram, mas para reavivar, revivificar a verdadeira sanção penal, sob formas condizentes com os vossos costumes, os vossos sentimentos e as luzes da vossa época.
 >
@@ -13870,7 +13874,7 @@ Assim, as penas impostas jamais o são por toda a [eternidade](Eternidade){:.w}?
 > Oh! em [verdade](Verdade){:.w} vos digo, cessai, cessai de pôr em paralelo, na sua [eternidade](Eternidade){:.w}, o Bem, essência do [Criador](Deus){:.l}, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento [gradual](gradual){:.d} dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
 >
 > Paulo, apóstolo
-> {:.spirit-multi}
+{:.spirit-multi}
 
 > <span class="emoji">👻</span> ▸ Com o atrativo de recompensas e temor de castigos, procura-se estimular o homem para o bem e desviá-lo do mal. Se esses castigos, porém, lhe são apresentados de forma que a sua [razão](Razão){:.w} se recuse a admiti-los, nenhuma influência terão sobre ele. Longe disso, rejeitará tudo: a forma e o fundo. Se, ao contrário, lhe apresentarem o futuro de maneira lógica, ele não o repelirá. O [Espiritismo](Espiritismo){:.l} lhe dá essa explicação.
 >
@@ -13905,7 +13909,7 @@ Assim, pelo [dogma](dogma){:.l} da ressurreição da carne, a própria Igreja en
 > <span class="emoji">👻</span> ▸ É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o [Espiritismo](Espiritismo){:.l} ressalta a cada passo do texto mesmo das Escrituras sagradas. Os [Espíritos](Espírito){:.w}, portanto, não vêm subverter a [religião](Religião){:.l}, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.
 >
 > São Luís, IX de França
-> {:.spirit-multi}
+{:.spirit-multi}
 
 Efetivamente, a [Ciência](Ciência){:.w} demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a [matéria](Matéria){:.w} e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do [fenômeno](Fenómeno){:.w} da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 
@@ -14028,7 +14032,7 @@ Poderá jamais implantar-se na [Terra](Terra){:.w} o reinado do bem?
 > Todos vós, homens de [fé](Fé){:.w} e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.
 >
 > São Luís, IX de França
-> {:.spirit-multi}
+{:.spirit-multi}
 
 ## 5. <span class="emoji">🗃️</span> Conclusão {#lde-5}
 
@@ -14142,7 +14146,7 @@ Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam 
 > <span class="emoji">👻</span> ▸ Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um [Deus](Deus){:.l} de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O [Espiritismo](Espiritismo){:.l} é o laço que um dia os unirá, porque lhes mostrará onde está a [verdade](Verdade){:.w}, onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o [Cristo](Cristo){:.w}. Quereis saber sob a influência de que [Espíritos](Espírito){:.w} estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons [Espíritos](Espírito){:.w} foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de [Jesus](Jesus){:.w}, porque seguem a estrada que este lhes indicou para chegarem até Ele.
 >
 > Santo Agostinho
-> {:.spirit-multi}
+{:.spirit-multi}
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -14159,7 +14163,7 @@ Se é certo que, entre os adeptos do [Espiritismo](Espiritismo){:.l}, se contam 
 > Allan Kardec
 > <span class="emoji">📓</span> [<i>Revista Espírita</i>
 > Janeiro, 1868](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1868.pdf#page=28){:target="ext"}
-> {:.grey-multi}
+{:.grey-multi}
 
 A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por [Allan Kardec](Allan_Kardec){:.w}, resultou na estruturação da [Doutrina Espírita](Espiritismo){:.l}, sistematizada sob os aspectos científico, filosófico e religioso.
 
@@ -14192,7 +14196,7 @@ Allan Kardec encontrou, nos princípios da [Doutrina Espírita](Espiritismo){:.l
 >
 > <span class="emoji">📓</span> [<i>Revista Espírita</i>
 > Outubro, 1862](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1862.pdf#page=391){:target="ext"}
-> {:.grey-multi}
+{:.grey-multi}
 
 De fato, as leis universais do amor, da [caridade](caridade){:.l}, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do [Orbe](orbe){:.d}.
 
@@ -14201,13 +14205,13 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 > <span class="emoji">👻</span> ▸ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há [consanguinidade](consanguinidade){:.d}.
 >
 > LDE, [Q.207](#q207)
-> {:.spirit-multi}
+{:.spirit-multi}
 
 > <span class="emoji">👴🏻</span> ▸ … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da [inteligência](Inteligência){:.w} sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e [mundanas](mundano){:.d}, sobre as quais só o [orgulho](Orgulho){:.w} fundou as castas e os estúpidos preconceitos de cor.
 >
 > <span class="emoji">📓</span> [<i>Revista Espírita</i>
 > Outubro, 1861](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1861.pdf#page=420){:target="ext"}
-> {:.grey-multi}
+{:.grey-multi}
 
 > <span class="emoji">👴🏻</span> ▸ Os [privilégios](privilégio){:.d} de raças têm sua origem na [abstração](abstração){:.d} que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na [opulência](opulência){:.d} ou na miséria, da filiação [consanguínea](consanguíneo){:.d} nobre ou [plebeia](plebe){:.d}, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.
 >
@@ -14217,7 +14221,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 >
 > <span class="emoji">📓</span> [<i>Revista Espírita</i>
 > Junho, 1867](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1867.pdf#page=229){:target="ext"}
-> {:.grey-multi}
+{:.grey-multi}
 
 > <span class="emoji">👴🏻</span> ▸ Com a [reencarnação](Reencarnação){:.w}, desaparecem os preconceitos de raças e de [castas](Casta){:.w}, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou [proletário](proletário){:.d}, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 >
@@ -14225,7 +14229,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 > cap. 1, item 36
 > <span class="emoji">📓</span> [<i>Revista Espírita</i>
 > Setembro, 1867](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1867.pdf#page=364){:target="ext"}
-> {:.grey-multi}
+{:.grey-multi}
 
 Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
@@ -14236,13 +14240,13 @@ Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores 
 > Allan Kardec
 > <span class="emoji">📓</span>  <i>Revista Espírita</i>
 > Janeiro, 1863
-> {:.grey-multi}
+{:.grey-multi}
 
 > <span class="emoji">👴🏻</span> ▸ O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.
 >
 > <span class="emoji">🕊️</span> <i>O Evangelho segundo o Espiritismo</i>
 > cap. 17, item 3
-> {:.grey-multi}
+{:.grey-multi}
 
 É importante compreender, também, que os textos publicados por Allan Kardec na <span class="emoji">📓</span> *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro <span class="emoji">🌱</span> *A Gênese*, o Codificador explica essa metodologia:
 
@@ -14250,7 +14254,7 @@ Na época, [Allan Kardec](Allan_Kardec){:.w} sabia apenas o que vários autores 
 >
 > <span class="emoji">🌱</span> <i>A Gênese</i>
 > cap. 11, item 43, Nota
-> {:.grey-multi}
+{:.grey-multi}
 
 Por fim, urge reconhecer que o escopo principal da [Doutrina Espírita](Espiritismo){:.l} reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
@@ -14258,7 +14262,7 @@ Por fim, urge reconhecer que o escopo principal da [Doutrina Espírita](Espiriti
 >
 > <span class="emoji">📓</span> [<i>Revista Espírita</i>
 > Janeiro, 1862](https://www.febnet.org.br/wp-content/uploads/2012/06/WEB-Revista-Espirita-1862.pdf#page=38){:target="ext"}
-> {:.grey-multi}
+{:.grey-multi}
 
 Feitas essas considerações, é lícito concluir que na [Doutrina Espírita](Espiritismo){:.l} vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a [caridade](caridade){:.l} no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_ ”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. <span class="emoji">✅</span>
 
