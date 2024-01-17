@@ -34,7 +34,7 @@ Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mos
 
 Assim sendo, em telas largas você verá as 3 colunas, em telas médias, 2 colunas e em telas pequenas, somente 1 coluna.
 
-Consulte a página <span class="emoji">📋</span> [Informações](./info.md) para ficar a par dos padrões utilizados em nosso projeto.
+Consulte a página <span class="emoji">📋</span> [Informações](./2-info.html) para ficar a par dos padrões utilizados em nosso projeto.
 
 ## Modificações
 

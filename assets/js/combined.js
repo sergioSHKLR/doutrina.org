@@ -300,6 +300,7 @@ function functionReset() {
     element10.classList.remove("bg-green");
     element10.classList.remove("bg-pink");
     element10.classList.remove("none");
+    location.reload();
 }
 
 // Align ------------------------------
