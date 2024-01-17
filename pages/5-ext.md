@@ -7,7 +7,7 @@ version: 24.1.11
 
 ## Conteúdo
 
-Os links da coluna principal são abertos aqui [^1]. Eles podem ser:
+Os links da coluna principal são abertos aqui (dentro das limitações técnicas, legais e éticas). Eles podem ser:
 
 - <span class="emoji">📰</span> artigos do Wikipédia
 - <span class="emoji">📔</span> definições de palavras do Wikicionário
@@ -17,5 +17,3 @@ Os links da coluna principal são abertos aqui [^1]. Eles podem ser:
 - <span class="emoji">🗺️</span> mapas de OpenStreetMap (Leaflet) indicando locais citados
 - <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da Wikimedia
 - <span class="emoji">✝️</span> bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com
-
-[^1]: Dentro das limitações técnicas, legais e éticas.
