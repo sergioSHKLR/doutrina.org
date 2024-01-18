@@ -26,38 +26,6 @@ version: 24.1.11
 
 Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
 
-## Ajustes  
-
-Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, e links) clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
-
-<table>
-<tr><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td class="center"><span class="icon tools-120">text_increase</span></td><td>Letras maiores</td></tr>
-<tr><td class="center"><span class="icon tools-120">text_decrease</span></td><td>Letras menores</td></tr>
-<tr><td class="center"><span class="icon tools-120">format_align_justify</span></td><td>Parágrafo justificado</td></tr>
-<tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Georgia', serif">Se</span></td><td>Tipo serifa</td></tr>
-<tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Inter', serif">Sa</span></td><td>Tipo sem-serifa</td></tr>
-<tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Roboto Slab', serif">Mo</span></td><td>Tipo mono-espaço</td></tr>
-<tr><td class="center"><span class="icon tools-120">density_small</span></td><td>Entrelinhas estreitas</td></tr>
-<tr><td class="center"><span class="icon tools-120">density_large</span></td><td>Entrelinhas largas</td></tr>
-<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #fffce4;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
-<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #e8fce4;">&nbsp;</span></td><td>Fundo verde</td></tr>
-<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #fff4fc;">&nbsp;</span></td><td>Fundo rosa</td></tr>
-<!-- <tr><td class="center"><span class="icon" style="color: royalblue;">link_off</span></td><td>Esconder links</td></tr> -->
-<tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
- </table>  
-
-## Anotador  
-
-<p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
-
-<table class="border p-10 fs-3 ff-slab col2-w ml-10">
-<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td class="center"><img src="../assets/images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td class="center"><img src="../assets/images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
-</table>
-
 ## Método  
 
 Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
@@ -85,7 +53,7 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
  <td>O Livro dos Espíritos</td>
  </tr>
  <tr>
- <td class="center"><span style="transform: scaleX(-1);"><span class="emoji">✒️</span><br>(ponta de caneta tinteiro)</td>
+ <td class="center"><span style="transform: scaleX(-1);"><span class="emoji">✒️</span><br>(ponta de caneta tinteiro)</span></td>
  <td class="center">LDM</td>
  <td>O Livro dos Médiuns</td>
  </tr>
@@ -257,6 +225,41 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos d
 Nota de rodapé [^1]
 
 [^1]: Texto da nota de rodapé. Clique na seta para voltar ao local original da nota.
+
+## Ajustes  
+
+Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, e links) clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
+
+<table>
+<tr><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr><td class="center"><span class="icon tools-120">text_increase</span></td><td>Letras maiores</td></tr>
+<tr><td class="center"><span class="icon tools-120">text_decrease</span></td><td>Letras menores</td></tr>
+<tr><td class="center"><span class="icon tools-120">format_align_justify</span></td><td>Parágrafo justificado</td></tr>
+<tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Georgia', serif">Se</span></td><td>Tipo serifa</td></tr>
+<tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Inter', serif">Sa</span></td><td>Tipo sem-serifa</td></tr>
+<tr><td class="center"><span class="icon" style="font-size: 100%; font-family: 'Roboto Slab', serif">Mo</span></td><td>Tipo mono-espaço</td></tr>
+<tr><td class="center"><span class="icon tools-120">density_small</span></td><td>Entrelinhas estreitas</td></tr>
+<tr><td class="center"><span class="icon tools-120">density_large</span></td><td>Entrelinhas largas</td></tr>
+<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #fffce4;">&nbsp;</span></td><td>Fundo amarelo</td></tr>
+<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #e8fce4;">&nbsp;</span></td><td>Fundo verde</td></tr>
+<tr><td class="center"><span class="icon tools-100 tools-round" style="background-color: #fff4fc;">&nbsp;</span></td><td>Fundo rosa</td></tr>
+<!-- <tr><td class="center"><span class="icon" style="color: royalblue;">link_off</span></td><td>Esconder links</td></tr> -->
+<tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
+ </table>  
+
+## Anotador  
+
+<p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
+
+<table class="border p-10 fs-3 ff-slab col2-w ml-10">
+<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr><td class="center"><img src="../assets/images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
+</table>
+
+
+
 
 Nos inspiramos nos esforços de:
 

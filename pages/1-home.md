@@ -31,13 +31,12 @@ Com admiração em outras iniciativas de educação e comunicação digital, cri
 
 Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
 
-| 1. Menu | 2. Painel Principal | 3. Painel Complementar
+| --- |
+| 1. Menu | 2. Painel Principal | 3. Painel Complementar  |
 
-Assim sendo:
+<br>
 
-- 🖥️ em telas largas, as 3 colunas [ 1 \| 2 \| 3 ]
-- 💻 em telas médias, 2 colunas [ 2 \| 3 ]
-- 📱 em telas pequenas, somente 1 coluna [ 2 ]
+<iframe style="filter: none" src="https://docs.google.com/presentation/d/e/2PACX-1vRESbamVWKVF0_u4WuiG5c4dksBqoLB8F4JR7PYJbIKSZwUIgUilb5MtxrbbvdQpkNvtTEs_iQO0XMW/embed?start=true&loop=true&delayms=2000" frameborder="0" width="100%" height="40%%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Consulte a página <span class="emoji">📋</span> [Informações](./2-info.html) para ficar a par dos padrões utilizados em nosso projeto.
 
