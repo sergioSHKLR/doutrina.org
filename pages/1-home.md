@@ -38,7 +38,7 @@ Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mos
 
 <iframe style="filter: none" src="https://docs.google.com/presentation/d/e/2PACX-1vRESbamVWKVF0_u4WuiG5c4dksBqoLB8F4JR7PYJbIKSZwUIgUilb5MtxrbbvdQpkNvtTEs_iQO0XMW/embed?start=true&loop=true&delayms=2000" frameborder="0" width="100%" height="40%%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Consulte a página <span class="emoji">📋</span> [Informações](./2-info.html) para ficar a par dos padrões utilizados em nosso projeto.
+Consulte a página <kbd><a href="./2-info.html" style="text-decoration: none;"><span class="emoji">📋</span> Informações</a></kbd> para ficar a par dos padrões utilizados em nosso projeto.
 
 ## Modificações
 
@@ -70,7 +70,7 @@ Por fim, ficaríamos gratos com seus:
 - sugestões
 - correções
 
-Utilize a página <span class="emoji">❤️</span> [Contato](./4-contact.html) para tais fins.
+Utilize a página <kbd><a href="./4-contact.html" style="text-decoration: none;"><span class="emoji">❤️</span> Contato</a></kbd> para tais fins.
 
 ---
 
