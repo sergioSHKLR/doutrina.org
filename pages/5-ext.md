@@ -7,7 +7,7 @@ version: 24.1.11
 
 ## Conteúdo
 
-Os links da coluna principal são abertos aqui (dentro das limitações técnicas, legais e éticas). Eles podem ser:
+Os links da coluna Principal (1) são abertos aqui (dentro das limitações técnicas, legais e éticas). Eles podem ser:
 
 - <span class="emoji">📰</span> artigos do Wikipédia
 - <span class="emoji">📔</span> definições de palavras do Wikicionário

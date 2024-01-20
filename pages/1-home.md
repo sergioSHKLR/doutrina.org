@@ -131,8 +131,8 @@ Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mos
   <tbody>
     <tr>
       <td>1. Menu</td>
-      <td>2. Painel Principal</td>
-      <td>3. Painel Complementar</td>
+      <td>2. Principal</td>
+      <td>3. Complementar</td>
     </tr>
   </tbody>
 </table>
