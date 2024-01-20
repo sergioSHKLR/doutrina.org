@@ -258,9 +258,6 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 <tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
 </table>
 
-
-
-
 Nos inspiramos nos esforços de:
 
 - [Portal Luz Espírita](https://www.luzespirita.org.br){:target="ext"}
@@ -299,6 +296,14 @@ Mostramos conteúdo proveniente de:
 | Digitalizar o indíce geral de cada livro e estabelecer links | 🟡 |
 | Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas | 🟡 |
 | Criar um indíce combinado de todos os cinco livros | 🔴 |
+
+## Manutenção diária
+
+Ao decorrer do ano de 2024, estaremos adicionando links para os items relacionados acima. Nosso objetivo diário é equivalente à 7 páginas da obra original, culminando com o término de A Gênese em 31 de Dezembro.
+
+Concomitantemente, estaremos verificando cada parágrafo manualmente, verificando a ortografia e a diagramação. Itens já verificados, receberão o emoji <span class="emoji">✅</span> ao fim do mesmo.
+
+No ano de 2025, iremos nos concentrar na digitalização dos Índices gerais de cada obra. Ao fim deste, iremos criar um Índice geral combinando todas as cinco obras. Acreditamos que este compêndio será de extremo valor e conveniência para pesquisadores, palestrantes, e líderes de estudo em grupo.
 
 <script type="application/json" class="js-hypothesis-config">
 {

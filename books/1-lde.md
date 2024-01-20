@@ -30,8 +30,10 @@ version: 24.1.17
 >
 > Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}
 >
-> Modificado para o consumo digital por Sergio de
+> Modificado para o consumo digital  
+> por Sergio de  
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org){:target="_blank"}
+>  
 > <span class="emoji">✅</span>
 {:.grey-center}
 
@@ -1484,7 +1486,7 @@ Os [Espíritos](Espírito){:.w} são seres distintos da [Divindade](Divindade){:
 
 Os [Espíritos](Espírito){:.w} tiveram princípio ou existem, como [Deus](Deus){:.l}, de toda a [eternidade](Eternidade){:.w}?
 
-> <span class="emoji">👻</span> ▸ Se não tivessem tido princípio, seriam iguais a [Deus](Deus){:.l}, quando, ao invés, são criação sua e se acham submetidos à sua [vontade](vontade){:.d}. [Deus](Deus){:.l} existe de toda a [eternidade](eternidade){:.d}, é [incontestável](incontestável){:.d}. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo [eterno](eterno){:.d}, [Deus](Deus){:.l} há de ter sempre criado [ininterruptamente](ininterruptamente){:.d}. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério.
+> <span class="emoji">👻</span> ▸ Se não tivessem tido princípio, seriam iguais a [Deus](Deus){:.l}, quando, ao invés, são criação sua e se acham submetidos à sua [vontade](vontade){:.d}. [Deus](Deus){:.l} existe de toda a [eternidade](eternidade){:.d}, é [incontestável](incontestável){:.d}. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo [eterno](eterno){:.d}, [Deus](Deus){:.l} há de ter sempre criado [ininterruptamente](ininterruptamente){:.d}. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1494,7 +1496,7 @@ Os [Espíritos](Espírito){:.w} tiveram princípio ou existem, como [Deus](Deus)
 
 Pois que há dois elementos gerais no [Universo](Universo){:.w}: o elemento [inteligente](Inteligência){:.w} e o elemento material, poder-se-á dizer que os [Espíritos](Espírito){:.w} são formados do elemento inteligente, como os corpos inertes o são do elemento material?
 
-> <span class="emoji">👻</span> ▸ Evidentemente. Os [Espíritos](Espírito){:.w} são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos.
+> <span class="emoji">👻</span> ▸ Evidentemente. Os [Espíritos](Espírito){:.w} são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1504,7 +1506,7 @@ Pois que há dois elementos gerais no [Universo](Universo){:.w}: o elemento [int
 
 A criação dos [Espíritos](Espírito){:.w} é [permanente](permanente){:.d} ou só se deu na origem dos tempos?
 
-> <span class="emoji">👻</span> ▸ É [permanente](permanente){:.d}. Quer dizer: [Deus](Deus){:.l} jamais deixou de criar.
+> <span class="emoji">👻</span> ▸ É [permanente](permanente){:.d}. Quer dizer: [Deus](Deus){:.l} jamais deixou de criar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1514,7 +1516,7 @@ A criação dos [Espíritos](Espírito){:.w} é [permanente](permanente){:.d} ou
 
 Os [Espíritos](Espírito){:.w} se formam [espontaneamente](espontâneo){:.d} ou procedem uns dos outros?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} os cria, como a todas as outras criaturas, pela sua [vontade](vontade){:.d}. Mas repito ainda uma vez, a origem deles é mistério.
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} os cria, como a todas as outras criaturas, pela sua [vontade](vontade){:.d}. Mas repito ainda uma vez, a origem deles é mistério. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1526,7 +1528,7 @@ Será certo dizer-se que os [Espíritos](Espírito){:.w} são [imateriais](imate
 
 > <span class="emoji">👻</span> ▸ Como se pode definir uma coisa, quando faltam termos de comparação e com uma linguagem deficiente? Pode um cego de nascença definir a [luz](Luz){:.w}? Imaterial não é bem o termo; [incorpóreo](incorpóreo){:.d} seria mais exato, pois deves compreender que, sendo uma criação, o [Espírito](Espírito){:.w} há de ser alguma coisa. É a [matéria](Matéria){:.w} [quintessenciada](quintessência){:.d}, mas sem [analogia](analogia){:.d} para vós outros, e tão [etérea](etéreo){:.d} que escapa inteiramente ao alcance dos vossos sentidos.
 
-Dizemos que os [Espíritos](Espírito){:.w} são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
+Dizemos que os [Espíritos](Espírito){:.w} são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1536,7 +1538,7 @@ Dizemos que os [Espíritos](Espírito){:.w} são imateriais, porque, pela sua es
 
 Os [Espíritos](Espírito){:.w} têm fim? Compreende-se que seja [eterno](eterno){:.d} o princípio donde eles [emanam](emanar){:.d}, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o [elemento](Elemento_(química)){:.w} de que são formados não se [dissemina](disseminar){:.d} e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 
-> <span class="emoji">👻</span> ▸ Há muitas coisas que não compreendeis, porque tendes limitada a [inteligência](Inteligência){:.w}. Isso, porém, não é [razão](Razão){:.w} para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o [sábio](sábio){:.d} apreende. Dizemos que a existência dos [Espíritos](Espírito){:.w} não tem fim. É tudo o que podemos, por agora, dizer.
+> <span class="emoji">👻</span> ▸ Há muitas coisas que não compreendeis, porque tendes limitada a [inteligência](Inteligência){:.w}. Isso, porém, não é [razão](Razão){:.w} para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o [sábio](sábio){:.d} apreende. Dizemos que a existência dos [Espíritos](Espírito){:.w} não tem fim. É tudo o que podemos, por agora, dizer. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1548,7 +1550,7 @@ Os [Espíritos](Espírito){:.w} têm fim? Compreende-se que seja [eterno](eterno
 
 Os [Espíritos](Espírito){:.w} constituem um mundo à parte, fora daquele que vemos?
 
-> <span class="emoji">👻</span> ▸ Sim, o mundo dos [Espíritos](Espírito){:.w} ou das inteligências incorpóreas.
+> <span class="emoji">👻</span> ▸ Sim, o mundo dos [Espíritos](Espírito){:.w} ou das inteligências incorpóreas. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1558,7 +1560,7 @@ Os [Espíritos](Espírito){:.w} constituem um mundo à parte, fora daquele que v
 
 Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?
 
-> <span class="emoji">👻</span> ▸ O mundo espírita, que preexiste e sobrevive a tudo.
+> <span class="emoji">👻</span> ▸ O mundo espírita, que preexiste e sobrevive a tudo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q738a">Q.738a</a>
@@ -1568,7 +1570,7 @@ Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem 
 
 O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso alterasse a essência do mundo espírita?
 
-> <span class="emoji">👻</span> ▸ [Decerto](decerto){:.d}. Eles são independentes; contudo, é incessante a [correlação](correlação){:.d} entre ambos, porquanto um sobre o outro incessantemente reagem.
+> <span class="emoji">👻</span> ▸ [Decerto](decerto){:.d}. Eles são independentes; contudo, é incessante a [correlação](correlação){:.d} entre ambos, porquanto um sobre o outro incessantemente reagem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1578,7 +1580,7 @@ O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso 
 
 Ocupam os [Espíritos](Espírito){:.w} uma região determinada e [circunscrita](circunscrito){:.d} no Espaço?
 
-> <span class="emoji">👻</span> ▸ Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os [Espíritos](Espírito){:.w} são uma das potências da natureza e os instrumentos de que [Deus](Deus){:.l} se serve para execução de seus [desígnios](desígnio){:.d} providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões [interditas](interdito){:.d} aos menos adiantados.
+> <span class="emoji">👻</span> ▸ Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os [Espíritos](Espírito){:.w} são uma das potências da natureza e os instrumentos de que [Deus](Deus){:.l} se serve para execução de seus [desígnios](desígnio){:.d} providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões [interditas](interdito){:.d} aos menos adiantados. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1590,7 +1592,7 @@ Ocupam os [Espíritos](Espírito){:.w} uma região determinada e [circunscrita](
 
 Os [Espíritos](Espírito){:.w} têm forma determinada, limitada e constante?
 
-> <span class="emoji">👻</span> ▸ Para vós, não; para nós, sim. O [Espírito](Espírito){:.w} é, se quiserdes, uma chama, um clarão, ou uma [centelha](centelha){:.d} [etérea](etéreo){:.d}.
+> <span class="emoji">👻</span> ▸ Para vós, não; para nós, sim. O [Espírito](Espírito){:.w} é, se quiserdes, uma chama, um clarão, ou uma [centelha](centelha){:.d} [etérea](etéreo){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1602,7 +1604,7 @@ Essa chama ou [centelha](centelha){:.d} tem cor?
 
 > <span class="emoji">👻</span> ▸ Tem uma cor que, para vós, vai do escuro ao brilho do [rubi](Rubi){:.w}, conforme o [Espírito](Espírito){:.w} é mais ou menos puro.
 
-Representam-se de [ordinário](ordinário){:.d} os gênios com uma chama ou estrela na [fronte](fronte){:.d}. É uma alegoria, que lembra a natureza essencial dos [Espíritos](Espírito){:.w}. Colocam-na no alto da cabeça, porque aí está a sede da [inteligência](Inteligência){:.w}.
+Representam-se de [ordinário](ordinário){:.d} os gênios com uma chama ou estrela na [fronte](fronte){:.d}. É uma alegoria, que lembra a natureza essencial dos [Espíritos](Espírito){:.w}. Colocam-na no alto da cabeça, porque aí está a sede da [inteligência](Inteligência){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1612,7 +1614,7 @@ Representam-se de [ordinário](ordinário){:.d} os gênios com uma chama ou estr
 
 Os [Espíritos](Espírito){:.w} gastam algum tempo para percorrer o Espaço?
 
-> <span class="emoji">👻</span> ▸ Sim, mas fazem-no com a rapidez do pensamento.
+> <span class="emoji">👻</span> ▸ Sim, mas fazem-no com a rapidez do pensamento. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1622,7 +1624,7 @@ Os [Espíritos](Espírito){:.w} gastam algum tempo para percorrer o Espaço?
 
 O pensamento não é a própria [alma](Alma){:.l} que se transporta?
 
-> <span class="emoji">👻</span> ▸ Quando o pensamento está em alguma parte, a [alma](Alma){:.l} também aí está, pois que é a [alma](Alma){:.l} que pensa. O pensamento é um [atributo](atributo){:.d}.
+> <span class="emoji">👻</span> ▸ Quando o pensamento está em alguma parte, a [alma](Alma){:.l} também aí está, pois que é a [alma](Alma){:.l} que pensa. O pensamento é um [atributo](atributo){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, pensamento e <a href="#alma">↩️</a>
@@ -1632,7 +1634,7 @@ O pensamento não é a própria [alma](Alma){:.l} que se transporta?
 
 O [Espírito](Espírito){:.w} que se transporta de um lugar a outro tem [consciência](Consciência){:.w} da distância que percorre e dos espaços que atravessa ou é subitamente transportado ao lugar aonde quer ir?
 
-> <span class="emoji">👻</span> ▸ Dá-se uma e outra coisa. O [Espírito](Espírito){:.w} pode perfeitamente, se o quiser, inteirar-se da distância que percorre, mas também essa distância pode desaparecer completamente, dependendo isso da sua [vontade](vontade){:.d}, bem como da sua natureza mais ou menos depurada.
+> <span class="emoji">👻</span> ▸ Dá-se uma e outra coisa. O [Espírito](Espírito){:.w} pode perfeitamente, se o quiser, inteirar-se da distância que percorre, mas também essa distância pode desaparecer completamente, dependendo isso da sua [vontade](vontade){:.d}, bem como da sua natureza mais ou menos depurada. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1642,7 +1644,7 @@ O [Espírito](Espírito){:.w} que se transporta de um lugar a outro tem [consci�
 
 A [matéria](Matéria){:.w} opõe obstáculo aos [Espíritos](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Nenhum; eles passam através de tudo. O ar, a terra, as águas e até mesmo o fogo lhes são igualmente acessíveis.
+> <span class="emoji">👻</span> ▸ Nenhum; eles passam através de tudo. O ar, a terra, as águas e até mesmo o fogo lhes são igualmente acessíveis. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1652,7 +1654,7 @@ A [matéria](Matéria){:.w} opõe obstáculo aos [Espíritos](Espírito){:.w}?
 
 Têm os [Espíritos](Espírito){:.w} o dom da [ubiquidade](ubiquidade){:.d}? Por outras palavras: um Espírito pode dividir-se, ou existir em muitos pontos ao mesmo tempo?
 
-> <span class="emoji">👻</span> ▸ Não pode haver divisão de um mesmo Espírito, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um Espírito em muitos lugares ao mesmo tempo. Vês o [Sol](Sol){:.w}? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide.
+> <span class="emoji">👻</span> ▸ Não pode haver divisão de um mesmo Espírito, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um Espírito em muitos lugares ao mesmo tempo. Vês o [Sol](Sol){:.w}? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q247">Q.247</a>
@@ -1664,7 +1666,7 @@ Todos os [Espíritos](Espírito){:.w} irradiam com igual força?
 
 > <span class="emoji">👻</span> ▸ Longe disso. Essa força depende do grau de pureza de cada um.
 
-Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da [ubiquidade](ubiquidade){:.d} atribuído aos Espíritos. Dá-se com eles o que se dá com uma [centelha](centelha){:.d}, que projeta longe a sua claridade e pode ser percebida de todos os pontos do [horizonte](horizonte){:.d}; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos.
+Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da [ubiquidade](ubiquidade){:.d} atribuído aos Espíritos. Dá-se com eles o que se dá com uma [centelha](centelha){:.d}, que projeta longe a sua claridade e pode ser percebida de todos os pontos do [horizonte](horizonte){:.d}; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1678,7 +1680,7 @@ O [Espírito](Espírito){:.w}, propriamente dito, nenhuma cobertura tem ou, como
 
 > <span class="emoji">👻</span> ▸ Envolve-o uma substância, vaporosa para os teus olhos, mas ainda bastante grosseira para nós; assaz vaporosa, entretanto, para poder elevar-se na atmosfera e transportar-se aonde queira.
 
-Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar [perispírito](Perispírito){:.w}, serve de [envoltório](envoltório){:.d} ao [Espírito](Espírito){:.w} propriamente dito.
+Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar [perispírito](Perispírito){:.w}, serve de [envoltório](envoltório){:.d} ao [Espírito](Espírito){:.w} propriamente dito. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1688,7 +1690,7 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 De onde tira o [Espírito](Espírito){:.w} o seu [invólucro](invólucro){:.d} semimaterial?
 
-> <span class="emoji">👻</span> ▸ Do fluido universal de cada globo, [razão](Razão){:.w} por que não é [idêntico](idêntico){:.d} em todos os mundos. Passando de um mundo a outro, o [Espírito](Espírito){:.w} muda de [envoltório](envoltório){:.d}, como mudais de roupa.
+> <span class="emoji">👻</span> ▸ Do fluido universal de cada globo, [razão](Razão){:.w} por que não é [idêntico](idêntico){:.d} em todos os mundos. Passando de um mundo a outro, o [Espírito](Espírito){:.w} muda de [envoltório](envoltório){:.d}, como mudais de roupa. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1698,7 +1700,7 @@ De onde tira o [Espírito](Espírito){:.w} o seu [invólucro](invólucro){:.d} s
 
 Assim, quando os [Espíritos](Espírito){:.w} que habitam mundos superiores vêm ao nosso meio, tomam um [perispírito](Perispírito){:.w} mais grosseiro?
 
-> <span class="emoji">👻</span> ▸ É necessário que se revistam da vossa matéria, já o dissemos.
+> <span class="emoji">👻</span> ▸ É necessário que se revistam da vossa matéria, já o dissemos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1708,7 +1710,7 @@ Assim, quando os [Espíritos](Espírito){:.w} que habitam mundos superiores vêm
 
 O [invólucro](invólucro){:.d} semimaterial do [Espírito](Espírito){:.w} tem formas determinadas e pode ser [perceptível](perceptível){:.d}?
 
-> <span class="emoji">👻</span> ▸ Tem a forma que o [Espírito](Espírito){:.w} queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de [vigília](vigília){:.d}, e que pode tomar forma visível, mesmo [palpável](palpável){:.d}.
+> <span class="emoji">👻</span> ▸ Tem a forma que o [Espírito](Espírito){:.w} queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de [vigília](vigília){:.d}, e que pode tomar forma visível, mesmo [palpável](palpável){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1720,7 +1722,7 @@ O [invólucro](invólucro){:.d} semimaterial do [Espírito](Espírito){:.w} tem 
 
 São iguais os [Espíritos](Espírito){:.w}, ou há entre eles qualquer [hierarquia](hierarquia){:.d}?
 
-> <span class="emoji">👻</span> ▸ São de diferentes ordens, conforme o grau de [perfeição](perfeição){:.d} que tenham alcançado.
+> <span class="emoji">👻</span> ▸ São de diferentes ordens, conforme o grau de [perfeição](perfeição){:.d} que tenham alcançado. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1730,7 +1732,7 @@ São iguais os [Espíritos](Espírito){:.w}, ou há entre eles qualquer [hierarq
 
 As ordens ou graus de [perfeição](perfeição){:.d} dos [Espíritos](Espírito){:.w} são em número determinado?
 
-> <span class="emoji">👻</span> ▸ São ilimitadas em número, porque entre elas não há linhas de [demarcação](demarcação){:.d} traçadas como barreiras, de sorte que as divisões podem ser multiplicadas ou restringidas livremente. Todavia, considerando-se os caracteres gerais dos [Espíritos](Espírito){:.w}, elas podem reduzir-se a três principais. Na primeira, colocar-se-ão os que atingiram a perfeição máxima: os puros Espíritos. Formam a segunda os que chegaram ao meio da escala: o desejo do bem é o que neles predomina. Pertencerão à terceira os que ainda se acham na parte inferior da escala: os Espíritos imperfeitos. A [ignorância](Ignorância){:.w}, o desejo do mal e todas as paixões más que lhes retardam o [progresso](progresso){:.d}, eis o que os caracteriza.
+> <span class="emoji">👻</span> ▸ São ilimitadas em número, porque entre elas não há linhas de [demarcação](demarcação){:.d} traçadas como barreiras, de sorte que as divisões podem ser multiplicadas ou restringidas livremente. Todavia, considerando-se os caracteres gerais dos [Espíritos](Espírito){:.w}, elas podem reduzir-se a três principais. Na primeira, colocar-se-ão os que atingiram a perfeição máxima: os puros Espíritos. Formam a segunda os que chegaram ao meio da escala: o desejo do bem é o que neles predomina. Pertencerão à terceira os que ainda se acham na parte inferior da escala: os Espíritos imperfeitos. A [ignorância](Ignorância){:.w}, o desejo do mal e todas as paixões más que lhes retardam o [progresso](progresso){:.d}, eis o que os caracteriza. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1740,7 +1742,7 @@ As ordens ou graus de [perfeição](perfeição){:.d} dos [Espíritos](Espírito
 
 Os [Espíritos](Espírito){:.w} da segunda ordem, para os quais o bem constitui a preocupação dominante, têm o poder de praticá-lo?
 
-> <span class="emoji">👻</span> ▸ Cada um deles dispõe desse poder, de acordo com o grau de [perfeição](perfeição){:.d} a que chegou. Assim, uns possuem a [ciência](Ciência){:.w}, outros a [sabedoria](Sabedoria){:.w} e a bondade. Todos, porém, ainda têm que sofrer provas.
+> <span class="emoji">👻</span> ▸ Cada um deles dispõe desse poder, de acordo com o grau de [perfeição](perfeição){:.d} a que chegou. Assim, uns possuem a [ciência](Ciência){:.w}, outros a [sabedoria](Sabedoria){:.w} e a bondade. Todos, porém, ainda têm que sofrer provas. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1750,7 +1752,7 @@ Os [Espíritos](Espírito){:.w} da segunda ordem, para os quais o bem constitui 
 
 Os da terceira ordem são todos essencialmente maus?
 
-> <span class="emoji">👻</span> ▸ Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os [levianos](leviano){:.d} ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na [malícia](malícia){:.d} do que na malvadez e cujo prazer consiste em mistificar e causar pequenas [contrariedades](contrariedade){:.d}, de que se riem.
+> <span class="emoji">👻</span> ▸ Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os [levianos](leviano){:.d} ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na [malícia](malícia){:.d} do que na malvadez e cujo prazer consiste em mistificar e causar pequenas [contrariedades](contrariedade){:.d}, de que se riem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1770,7 +1772,7 @@ Os [Espíritos](Espírito){:.w}, em geral, admitem três categorias principais, 
 
 Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivados. Só nos restava pôr em relevo, mediante subdivisões em número suficiente, os principais [matizes](matiz){:.d} do conjunto. Foi o que fizemos, com o concurso dos [Espíritos](Espírito){:.w}, cujas benévolas instruções jamais nos faltaram.
 
-Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de [confiança](confiança){:.d} ou de [estima](estima){:.d} que mereçam. É, de certo modo, a chave da [ciência](Ciência){:.w} espírita, porquanto só ele pode explicar as [anomalias](anomalia){:.d} que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos [Espíritos](Espírito){:.w}. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre [gradual](gradual){:.d} o [progresso](progresso){:.d} deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se.
+Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de [confiança](confiança){:.d} ou de [estima](estima){:.d} que mereçam. É, de certo modo, a chave da [ciência](Ciência){:.w} espírita, porquanto só ele pode explicar as [anomalias](anomalia){:.d} que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos [Espíritos](Espírito){:.w}. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre [gradual](gradual){:.d} o [progresso](progresso){:.d} deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1792,7 +1794,7 @@ Restritos conhecimentos têm das coisas do mundo espírita e o pouco que sabem s
 
 Na linguagem de que usam se lhes revela o caráter. Todo [Espírito](Espírito){:.w} que, em suas comunicações, trai um mau pensamento, pode ser classificado na terceira ordem. Conseguintemente, todo mau pensamento que nos é sugerido vem de um [Espírito](Espírito){:.w} desta ordem. Eles veem a felicidade dos bons e esse espetáculo lhes constitui incessante [tormento](tormento){:.d}, porque os faz experimentar todas as [angústias](angústia){:.d} que a [inveja](Inveja){:.w} e o [ciúme](Ciúme){:.w} podem causar.
 
-Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa impressão é muitas vezes mais penosa do que a realidade. Sofrem, pois, verdadeiramente, pelos males de que padeceram em vida e pelos que ocasionam aos outros. E, como sofrem por longo tempo, julgam que sofrerão para sempre. [Deus](Deus){:.l}, para puni-los, quer que assim julguem.
+Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa impressão é muitas vezes mais penosa do que a realidade. Sofrem, pois, verdadeiramente, pelos males de que padeceram em vida e pelos que ocasionam aos outros. E, como sofrem por longo tempo, julgam que sofrerão para sempre. [Deus](Deus){:.l}, para puni-los, quer que assim julguem. <span class="emoji">✅</span>
 
 Podem compor cinco classes principais.
 
@@ -1810,7 +1812,7 @@ Nas manifestações, os [Espíritos](Espírito){:.w} se dão a conhecer pela lin
 
 Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nomes de [demônios](Demônio){:.w}, maus gênios, [Espíritos](Espírito){:.w} do mal.
 
-Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os [vícios](vício){:.d} geradores das paixões vis e degradantes: a sensualidade, a crueldade, a [felonia](felonia){:.d}, a [hipocrisia](hipocrisia){:.d}, a [cupidez](cupidez){:.d}, a [avareza](avareza){:.d} [sórdida](sórdida){:.d}. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São [flagelos](flagelo){:.d} para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao [opróbrio](opróbrio){:.d} e à [ignomínia](ignomínia){:.d}.
+Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os [vícios](vício){:.d} geradores das paixões vis e degradantes: a sensualidade, a crueldade, a [felonia](felonia){:.d}, a [hipocrisia](hipocrisia){:.d}, a [cupidez](cupidez){:.d}, a [avareza](avareza){:.d} [sórdida](sórdida){:.d}. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São [flagelos](flagelo){:.d} para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao [opróbrio](opróbrio){:.d} e à [ignomínia](ignomínia){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1820,7 +1822,7 @@ Quando encarnados, os seres vivos que eles constituem se mostram propensos a tod
 
 Nona classe. [Espíritos](Espírito){:.w} [levianos](leviano){:.d}. — São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a [verdade](Verdade){:.w}. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os [Espíritos](Espírito){:.w} vulgarmente tratados de **[duendes](Duende){:.w}**, **[trasgos](Trasgo){:.w}**, **[gnomos](Gnomo){:.w}**, **[diabretes](Diabrete){:.w}**. Acham-se sob a dependência dos [Espíritos](Espírito){:.w} superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
 
-Em suas comunicações com os homens, a linguagem de que se servem é, [amiúde](amiúde){:.d}, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por [malícia](malícia){:.d} do que por maldade.
+Em suas comunicações com os homens, a linguagem de que se servem é, [amiúde](amiúde){:.d}, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por [malícia](malícia){:.d} do que por maldade. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1828,7 +1830,7 @@ Em suas comunicações com os homens, a linguagem de que se servem é, [amiúde]
 
 ###### Q.104 {#q104}
 
-Oitava classe. [Espíritos](Espírito){:.w} pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um [cunho](cunho){:.d} de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a [presunção](presunção){:.d}, o [orgulho](Orgulho){:.w}, o [ciúme](Ciúme){:.w} e a [obstinação](obstinação){:.d}, de que ainda não puderam despir-se.
+Oitava classe. [Espíritos](Espírito){:.w} pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um [cunho](cunho){:.d} de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a [presunção](presunção){:.d}, o [orgulho](Orgulho){:.w}, o [ciúme](Ciúme){:.w} e a [obstinação](obstinação){:.d}, de que ainda não puderam despir-se. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1836,7 +1838,7 @@ Oitava classe. [Espíritos](Espírito){:.w} pseudossábios. — Dispõem de conh
 
 ###### Q.105 {#q105}
 
-Sétima classe. [Espíritos](Espírito){:.w} neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à [inteligência](Inteligência){:.w}. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem [saudades](Saudades){:.w}.
+Sétima classe. [Espíritos](Espírito){:.w} neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à [inteligência](Inteligência){:.w}. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem [saudades](Saudades){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1846,7 +1848,7 @@ Sétima classe. [Espíritos](Espírito){:.w} neutros. — Nem bastante bons para
 
 Sexta classe. [Espíritos](Espírito){:.w} batedores e perturbadores. — Estes [Espíritos](Espírito){:.w}, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das [vicissitudes](vicissitude){:.d} dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses [fenônemos](fenómeno){:.w} não derivam de uma [causa](Causalidade){:.w} [fortuita](fortuito){:.d} ou física, quando denotam caráter [intencional](intencional){:.d} e inteligente.
 
-Todos os [Espíritos](Espírito){:.w} podem produzir tais [fenômenos](fenómeno){:.d}, mas os de ordem elevada os deixam, de [ordinário](ordinário){:.d}, como atribuições dos [subalternos](subalterno){:.d}, mais [aptos](apto){:.d} para as coisas materiais do que para as coisas da [inteligência](Inteligência){:.w}; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
+Todos os [Espíritos](Espírito){:.w} podem produzir tais [fenômenos](fenómeno){:.d}, mas os de ordem elevada os deixam, de [ordinário](ordinário){:.d}, como atribuições dos [subalternos](subalterno){:.d}, mais [aptos](apto){:.d} para as coisas materiais do que para as coisas da [inteligência](Inteligência){:.w}; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1864,13 +1866,13 @@ Como [Espíritos](Espírito){:.w}, [suscitam](suscitar){:.d} bons pensamentos, d
 
 Quando encarnados, são bondosos e benevolentes com os seus semelhantes. Não os movem o [orgulho](Orgulho){:.w}, nem o [egoísmo](Egoísmo){:.w}, ou a [ambição](ambição){:.d}. Não experimentam [ódio](Ódio){:.w}, [rancor](rancor){:.d}, [inveja](inveja){:.w} ou [ciúme](Ciúme){:.w} e fazem o bem pelo bem.
 
-A esta ordem pertencem os [Espíritos](Espírito){:.w} designados, nas crenças vulgares, pelos nomes de **bons gênios**, **gênios protetores**, **Espíritos do bem**. Em épocas de [superstições](Superstição){:.w} e de [ignorância](Ignorância){:.w}, eles hão sido elevados à categoria de divindades benfazejas.
+A esta ordem pertencem os [Espíritos](Espírito){:.w} designados, nas crenças vulgares, pelos nomes de **bons gênios**, **gênios protetores**, **Espíritos do bem**. Em épocas de [superstições](Superstição){:.w} e de [ignorância](Ignorância){:.w}, eles hão sido elevados à categoria de divindades benfazejas. <span class="emoji">✅</span>
 
 Podem ser divididos em quatro grupos principais:
 
 ###### Q.108 {#q108}
 
-Quinta classe. [Espíritos](Espírito){:.w} benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
+Quinta classe. [Espíritos](Espírito){:.w} benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1878,7 +1880,7 @@ Quinta classe. [Espíritos](Espírito){:.w} benévolos. — A bondade é neles a
 
 ###### Q.109 {#q109}
 
-Quarta classe. [Espíritos](Espírito){:.w} sábios. — Distinguem-se especialmente pela [amplitude](amplitude){:.d} de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior [aptidão](aptidão){:.d}. Entretanto, só encaram a [ciência](Ciência){:.w} do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos [Espíritos](Espírito){:.w} imperfeitos.
+Quarta classe. [Espíritos](Espírito){:.w} sábios. — Distinguem-se especialmente pela [amplitude](amplitude){:.d} de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior [aptidão](aptidão){:.d}. Entretanto, só encaram a [ciência](Ciência){:.w} do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos [Espíritos](Espírito){:.w} imperfeitos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1886,7 +1888,7 @@ Quarta classe. [Espíritos](Espírito){:.w} sábios. — Distinguem-se especialm
 
 ###### Q.110 {#q110}
 
-Terceira classe. [Espíritos](Espírito){:.w} de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
+Terceira classe. [Espíritos](Espírito){:.w} de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1896,7 +1898,7 @@ Terceira classe. [Espíritos](Espírito){:.w} de sabedoria. — As qualidades mo
 
 Segunda classe. [Espíritos](Espírito){:.w} superiores. — Esses em si reúnem a [ciência](Ciência){:.w}, a [sabedoria](Sabedoria){:.w} e a bondade. Da linguagem que empregam se [exala](exalar){:.d} sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, [sublime](sublime){:.d}. Sua superioridade os torna mais [aptos](apto){:.d} do que os outros a nos darem noções exatas sobre as coisas do mundo [incorpóreo](incorpóreo){:.d}, dentro dos limites do que é permitido ao homem saber. Comunicam-se [complacentemente](complacente){:.d} com os que procuram de boa-fé a [verdade](Verdade){:.w} e cuja [alma](Alma){:.l} já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a [curiosidade](curiosidade){:.d} [impele](impelir){:.d}, ou que, por influência da matéria, fogem à prática do bem.
 
-Quando, por [exceção](exceção){:.d}, encarnam na Terra, é para cumprir missão de [progresso](progresso){:.d} e então nos oferecem o tipo da [perfeição](perfeição){:.d} a que a [Humanidade](Natureza_humana){:.w} pode aspirar neste mundo.
+Quando, por [exceção](exceção){:.d}, encarnam na Terra, é para cumprir missão de [progresso](progresso){:.d} e então nos oferecem o tipo da [perfeição](perfeição){:.d} a que a [Humanidade](Natureza_humana){:.w} pode aspirar neste mundo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1906,7 +1908,7 @@ Quando, por [exceção](exceção){:.d}, encarnam na Terra, é para cumprir miss
 
 ###### Q.112 {#q112}
 
-Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos [Espíritos](Espírito){:.w} das outras ordens.
+Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos [Espíritos](Espírito){:.w} das outras ordens. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1916,7 +1918,7 @@ Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectua
 
 Primeira classe. Classe única. — Os [Espíritos](Espírito){:.w} que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de [perfeição](perfeição){:.d} de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida [eterna](eterna){:.d} no seio de [Deus](Deus){:.l}.
 
-Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às [vicissitudes](vicissitude){:.d} da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de [Deus](Deus){:.l}, cujas ordens executam para manutenção da [harmonia](harmonia){:.d} universal. Comandam a todos os [Espíritos](Espírito){:.w} que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à [expiação](Expiação){:.l} das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
+Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às [vicissitudes](vicissitude){:.d} da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de [Deus](Deus){:.l}, cujas ordens executam para manutenção da [harmonia](harmonia){:.d} universal. Comandam a todos os [Espíritos](Espírito){:.w} que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à [expiação](Expiação){:.l} das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1928,7 +1930,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 Os [Espíritos](Espírito){:.w} são bons ou maus por natureza, ou são eles mesmos que se melhoram?
 
-> <span class="emoji">👻</span> ▸ São os próprios [Espíritos](Espírito){:.w} que se melhoram e, melhorando-se, passam de uma ordem inferior para outra mais elevada.
+> <span class="emoji">👻</span> ▸ São os próprios [Espíritos](Espírito){:.w} que se melhoram e, melhorando-se, passam de uma ordem inferior para outra mais elevada. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1938,7 +1940,7 @@ Os [Espíritos](Espírito){:.w} são bons ou maus por natureza, ou são eles mes
 
 Dos [Espíritos](Espírito){:.w}, uns terão sido criados bons e outros maus?
 
-> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} criou todos os [Espíritos](Espírito){:.w} simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à [perfeição](perfeição){:.d}, pelo conhecimento da [verdade](Verdade){:.w}, para aproximá-los de si. Nesta [perfeição](perfeição){:.d} é que eles encontram a pura e [eterna](eterna){:.d} felicidade. Passando pelas provas que [Deus](Deus){:.l} lhes impõe é que os [Espíritos](Espírito){:.w} adquirem aquele conhecimento. Uns aceitam [submissos](submisso){:.d} essas provas e chegam mais depressa à [meta](meta){:.d} que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da [perfeição](perfeição){:.d} e da prometida felicidade.
+> <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} criou todos os [Espíritos](Espírito){:.w} simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à [perfeição](perfeição){:.d}, pelo conhecimento da [verdade](Verdade){:.w}, para aproximá-los de si. Nesta [perfeição](perfeição){:.d} é que eles encontram a pura e [eterna](eterna){:.d} felicidade. Passando pelas provas que [Deus](Deus){:.l} lhes impõe é que os [Espíritos](Espírito){:.w} adquirem aquele conhecimento. Uns aceitam [submissos](submisso){:.d} essas provas e chegam mais depressa à [meta](meta){:.d} que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da [perfeição](perfeição){:.d} e da prometida felicidade. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q634">Q.634</a>
@@ -1948,7 +1950,7 @@ Dos [Espíritos](Espírito){:.w}, uns terão sido criados bons e outros maus?
 
 Segundo o que acabais de dizer, os [Espíritos](Espírito){:.w}, em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
 
-> <span class="emoji">👻</span> ▸ Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor [docilidade](docilidade){:.d}. Mas a vida do homem tem termo, ao passo que a dos [Espíritos](Espírito){:.w} se prolonga ao [infinito](Infinito){:.w}.
+> <span class="emoji">👻</span> ▸ Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor [docilidade](docilidade){:.d}. Mas a vida do homem tem termo, ao passo que a dos [Espíritos](Espírito){:.w} se prolonga ao [infinito](Infinito){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -1958,19 +1960,19 @@ Segundo o que acabais de dizer, os [Espíritos](Espírito){:.w}, em sua origem, 
 
 Haverá [Espíritos](Espírito){:.w} que se conservem eternamente nas ordens inferiores?
 
-> <span class="emoji">👻</span> ▸ Não; todos se tornarão perfeitos. Mudam de ordem, mas demoradamente, porquanto, como já doutra vez dissemos, um pai justo e misericordioso não pode banir seus filhos para sempre. Pretenderias que [Deus](Deus){:.l}, tão grande, tão bom, tão justo, fosse pior do que vós mesmos?
+> <span class="emoji">👻</span> ▸ Não; todos se tornarão perfeitos. Mudam de ordem, mas demoradamente, porquanto, como já doutra vez dissemos, um pai justo e misericordioso não pode banir seus filhos para sempre. Pretenderias que [Deus](Deus){:.l}, tão grande, tão bom, tão justo, fosse pior do que vós mesmos? <span class="emoji">✅</span>
 
 ###### Q.117 {#q117}
 
 Depende dos [Espíritos](Espírito){:.w} o progredirem mais ou menos rapidamente para a [perfeição](perfeição){:.d}?
 
-> <span class="emoji">👻</span> ▸ Certamente. Eles a alcançam mais ou menos rápido, conforme o desejo que têm de alcançá-la e a submissão que testemunham à [vontade](Vontade){:.w} de [Deus](Deus){:.l}. Uma criança dócil não se instrui mais depressa do que outra [recalcitrante](recalcitrante){:.d}?
+> <span class="emoji">👻</span> ▸ Certamente. Eles a alcançam mais ou menos rápido, conforme o desejo que têm de alcançá-la e a submissão que testemunham à [vontade](Vontade){:.w} de [Deus](Deus){:.l}. Uma criança dócil não se instrui mais depressa do que outra [recalcitrante](recalcitrante){:.d}? <span class="emoji">✅</span>
 
 ###### Q.118 {#q118}
 
 Podem os [Espíritos](Espírito){:.w} degenerar?
 
-> <span class="emoji">👻</span> ▸ Não; à medida que avançam, compreendem o que os distanciava da [perfeição](perfeição){:.d}. Concluindo uma prova, o [Espírito](Espírito){:.w} fica com a [ciência](Ciência){:.w} que daí lhe veio e não a esquece. Pode permanecer [estacionário](estacionário){:.d}, mas não [retrograda](retrógrado){:.d}.
+> <span class="emoji">👻</span> ▸ Não; à medida que avançam, compreendem o que os distanciava da [perfeição](perfeição){:.d}. Concluindo uma prova, o [Espírito](Espírito){:.w} fica com a [ciência](Ciência){:.w} que daí lhe veio e não a esquece. Pode permanecer [estacionário](estacionário){:.d}, mas não [retrograda](retrógrado){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q612">Q.612</a>
@@ -1982,7 +1984,7 @@ Não podia [Deus](Deus){:.l} [isentar](isentar){:.d} os [Espíritos](Espírito){
 
 > <span class="emoji">👻</span> ▸ Se [Deus](Deus){:.l} os houvesse criado perfeitos, nenhum [mérito](mérito){:.d} teriam para gozar dos benefícios dessa [perfeição](perfeição){:.d}. Onde estaria o merecimento sem a luta? Demais, a desigualdade entre eles existente é necessária às suas personalidades. Acresce ainda que as missões que desempenham nos diferentes graus da escala estão nos [desígnios](desígnio){:.d} da [Providência](Divina_Providência){:.w}, para a [harmonia](harmonia){:.d} do [Universo](Universo){:.w}.
 
-Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados [subalternos](subalterno){:.d} não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo.
+Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados [subalternos](subalterno){:.d} não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q634">Q.634</a> 
@@ -1993,7 +1995,7 @@ Pois que, na vida social, todos os homens podem chegar às mais altas funções,
 
 Todos os [Espíritos](Espírito){:.w} passam pela [fieira](fieira){:.d} do mal para chegar ao bem?
 
-> <span class="emoji">👻</span> ▸ Pela fieira do mal, não; pela fieira da [ignorância](Ignorância){:.w}.
+> <span class="emoji">👻</span> ▸ Pela fieira do mal, não; pela fieira da [ignorância](Ignorância){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2003,7 +2005,7 @@ Todos os [Espíritos](Espírito){:.w} passam pela [fieira](fieira){:.d} do mal p
 
 Por que alguns [Espíritos](Espírito){:.w} seguiram o caminho do bem e outros o do mal?
 
-> <span class="emoji">👻</span> ▸ Não têm eles o [livre-arbítrio](Livre-arbítrio){:.w}? [Deus](Deus){:.l} não os criou maus; criou-os simples e ignorantes, isto é, tendo tanta [aptidão](aptidão){:.d} para o bem quanta para o mal. Os que são maus, assim se tornaram por [vontade](Vontade){:.w} própria.
+> <span class="emoji">👻</span> ▸ Não têm eles o [livre-arbítrio](Livre-arbítrio){:.w}? [Deus](Deus){:.l} não os criou maus; criou-os simples e ignorantes, isto é, tendo tanta [aptidão](aptidão){:.d} para o bem quanta para o mal. Os que são maus, assim se tornaram por [vontade](Vontade){:.w} própria. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2013,7 +2015,7 @@ Por que alguns [Espíritos](Espírito){:.w} seguiram o caminho do bem e outros o
 
 Como podem os [Espíritos](Espírito){:.w}, em sua origem, quando ainda não têm [consciência](Consciência){:.w} de si mesmos, gozar da liberdade de escolha entre o bem e o mal? Há neles algum princípio, qualquer tendência que os encaminhe para uma [senda](senda){:.d} de preferência a outra?
 
-> <span class="emoji">👻</span> ▸ O [livre-arbítrio](Livre-arbítrio){:.w} se desenvolve à medida que o [Espírito](Espírito){:.w} adquire a [consciência](Consciência){:.w} de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma [causa](Causalidade){:.w} independente da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre [vontade](vontade){:.d}. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
+> <span class="emoji">👻</span> ▸ O [livre-arbítrio](Livre-arbítrio){:.w} se desenvolve à medida que o [Espírito](Espírito){:.w} adquire a [consciência](Consciência){:.w} de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma [causa](Causalidade){:.w} independente da [vontade](Vontade){:.w} do [Espírito](Espírito){:.w}. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre [vontade](vontade){:.d}. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2023,7 +2025,7 @@ Como podem os [Espíritos](Espírito){:.w}, em sua origem, quando ainda não tê
 
 Donde vêm as influências que sobre ele se exercem?
 
-> <span class="emoji">👻</span> ▸ Dos [Espíritos](Espírito){:.w} imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de [Satanás](Satanás){:.w}.
+> <span class="emoji">👻</span> ▸ Dos [Espíritos](Espírito){:.w} imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de [Satanás](Satanás){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2033,7 +2035,7 @@ Donde vêm as influências que sobre ele se exercem?
 
 Tal influência só se exerce sobre o [Espírito](Espírito){:.w} em sua origem?
 
-> <span class="emoji">👻</span> ▸ Acompanha-o na sua vida de [Espírito](Espírito){:.w}, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo.
+> <span class="emoji">👻</span> ▸ Acompanha-o na sua vida de [Espírito](Espírito){:.w}, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
