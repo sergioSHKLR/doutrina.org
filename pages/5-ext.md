@@ -18,3 +18,4 @@ Os links da coluna Principal (1) são abertos aqui (dentro das limitações téc
 - <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da Wikimedia
 - <span class="emoji">✝️</span> bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com
 
+                                                                                                                                                                                                                                                                                                                                                                            

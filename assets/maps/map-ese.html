@@ -33,9 +33,10 @@
 <body>
 
 	<div id="map" style="width: 100vw; height: 100vh;"></div>
+	
 	<script>
 
-		var map = L.map('map').setView([45.911, 24.987], 1);
+		var map = L.map('map').setView([45.4642, 9.1900], 1);
 
 		var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			minZoom: 4,
@@ -43,7 +44,7 @@
 		}).addTo(map);
 
 		var marker = L.marker([48.2006, 3.2827]).addTo(map);
-		marker.bindPopup("<b>👻 Fénelon<br>Pascal<br>Guia protetor<br><br> 🇫🇷 Sens </b>").openPopup();
+		marker.bindPopup("<b>👻 Fénelon<br>👻 Pascal<br>👻 Guia protetor<br><br> 🇫🇷 Sens </b>").openPopup();
 
 		var marker = L.marker([49.4944, 0.1079]).addTo(map);
 		marker.bindPopup("<b>👻 Uma Rainha da França<br>👻 Lacordaire<br>👻 O Espírito da Verdade<br>👻 Um Espírito amigo<br>👻 Isabel da França<br><br> 🇫🇷 Havre </b>").openPopup();
@@ -54,23 +55,23 @@
 		var marker = L.marker([45.7640, 4.8357]).addTo(map);
 		marker.bindPopup("<b>👻 Fénelon<br>👻 Paulo<br>👻 Um Espírito protetor<br>👻 Cárita<br><br> 🇫🇷 Lyon </b>").openPopup();
 
-		var marker = L.marker([44.8378, 0.5792]).addTo(map);
+		var marker = L.marker([44.8378, -0.5792]).addTo(map);
 		marker.bindPopup("<b>👻 François de Genève<br>👻 Bernardino<br>👻 O Espírito da Verdade<br>👻 Ferdinando<br>👻 Um Espírito protetor<br>👻 Simeão<br>👻 José<br>👻 João<br>👻 Dufêtre<br>👻 Fénelon<br>👻 Francisco Xavier<br>👻 Agostinho<br>👻 Adolfo<br>👻 Miguel<br>👻 Cheverus<br>👻 Um Espírito amigo<br>👻 Constantino<br>👻 Luís<br><br> 🇫🇷 Bordeaux </b>").openPopup();
 
 		var marker = L.marker([44.5005, 0.1599]).addTo(map);
 		marker.bindPopup("<b>👻 Adolfo<br><br> 🇫🇷 Marmande </b>").openPopup();
 
-		var marker = L.marker([36.3570, 6.6390]).addTo(map);
+		var marker = L.marker([46.2044, 6.1432]).addTo(map);
 		marker.bindPopup("<b>👻 Pascal<br><br> 🇨🇭 Genebra </b>").openPopup();
 
 		var marker = L.marker([50.8476, 4.3572]).addTo(map);
 		marker.bindPopup("<b>👻 M., Espírito Protetor<br><br> 🇧🇪 Bruxelas </b>").openPopup();
 
-		var marker = L.marker([46.2044, 6.1432]).addTo(map);
+		var marker = L.marker([36.3570, 6.6390]).addTo(map);
 		marker.bindPopup("<b>👻 Lacordaire<br><br> 🇩🇿 Constantine </b>").openPopup();
 
-		var marker = L.marker([40.3706, 44.5965]).addTo(map);
-		marker.bindPopup("<b>👻 Fenélon<br><br> 🇦🇲 Argel </b>").openPopup();
+		var marker = L.marker([36.7538, 3.0588]).addTo(map);
+		marker.bindPopup("<b>👻 Fenélon<br><br> 🇩🇿 Argel </b>").openPopup();
 
 		var marker = L.marker([49.0069, 8.4037]).addTo(map);
 		marker.bindPopup("<b>👻 Fenélon<br><br> 🇩🇪 Karlsruhe </b>").openPopup();
