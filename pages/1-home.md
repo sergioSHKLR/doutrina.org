@@ -146,7 +146,7 @@ Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mos
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
   <img src="../assets/images/doutrina-column-demo-1.png" style="width:100%">
-  <div class="text">Funciona conforme seu dispositivo</div>
+  <div class="text">Adaptação automática</div>
 </div>
 
 <div class="mySlides fade">
