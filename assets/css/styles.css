@@ -278,7 +278,7 @@ a#col3-vid-lnk {
 }
 
 #col2-body blockquote.grey-center {
-    background-color: #8080801a;
+    background-color: #8080801a !important;
     border-left: 4px solid #808080ff;
     margin: 10px;
     padding: 1px 20px;
@@ -353,7 +353,7 @@ a#col3-vid-lnk {
 
 #col2-body blockquote.grey,
 #col2-body blockquote.grey-multi {
-    background-color: var(--bquote-grey-bground);
+    background-color: var(--bquote-grey-bground) !important;
     border-left: 4px solid var(--bquote-grey-border);
     margin: 10px;
     padding: 1px 20px

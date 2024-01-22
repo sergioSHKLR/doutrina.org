@@ -5,7 +5,8 @@ version: 24.1.11
 ---
 
 <style>
-     .spirit-multi, .bible-multi {font-family: 'Roboto Slab', serif; }
+     .spirit-multi, .bible-multi, .grey-multi {font-family: 'Roboto Serif', serif; }
+     td, pre {font-family: 'Roboto Mono', monospace;}
 </style>
 
 <p><span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span></p>
@@ -24,17 +25,19 @@ version: 24.1.11
 
 ## Descrição  
 
-Nosso projeto integra ferramentas geralmente achadas em eReaders (dicionário, tipo de letra, fundo de contraste, espaço entre-linhas, etc)
+Nosso projeto integra ferramentas dispersas numa plataforma integrada, aonde se permite a consulta de fontes externas sem que se saia da janela original. Além disso, adicionamos várias ferramentas comunmente achadas em aplicativos que abrem arquivos eBook (livro eletrônico). Estas são: dicionário, enciclopédia, ferramentas de grifo de texto (highlight), anotações, e ajustes tipográficos (tamanho de letra, espaço entre-linhas, tipo de letra, e fundo de contraste).
 
-## Método  
+## Livros
 
-Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
+### Método  
+
+Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo. Modificações feitas são uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
+
+### Elementos  
 
 Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal de Pré-textual. Similarmente, nomeamos as seções posteriores ao conteúdo principal de Pós-textual. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
 
-Modificações feitas são uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
-
-### Livros  
+### Obras  
 
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.  
 
@@ -92,6 +95,8 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
 </pre>
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.  
+
+<!-- 
 
 ### Código chave  
 
@@ -160,9 +165,48 @@ Em suma, temos esta tabela descritiva abaixo:
  </tbody>
 </table>
 
-Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.  
+Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN. --> 
 
-**Adicionais**  
+### Cores de realce
+
+Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.  
+
+De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica  
+
+> 👻 ▸ Mensagem
+>
+> Espírito
+{:.spirit-multi}
+
+e este outro formato para mensagens bíblicas. Nestas, palavras de Jesus, quando presentes, estarão na cor vermelha.
+
+> ✝️ ▸ Mensagem (*Jesus*)
+>
+> Livro, cap. X, vers. Y, ARC
+{:.bible-multi}
+
+Por fim, temos o seguinte formato para passagens de Kardec.
+
+<!--
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
+| ⚜️ | fim | término de um elemento | 
+-->
+
+> 👴🏻 ▸ Mensagem
+>
+> Allan Kardec
+{:.grey-multi}
+
+### Tipografia  
+
+Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.  
+
+Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).  
+ 
+Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.  
+
+### Adicionais  
 
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
@@ -181,42 +225,6 @@ Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN.
  </tbody>
 </table>
 
-Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.  
-
-De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica  
-
-> 👻 ▸ Mensagem
->
-> Espírito
-{:.spirit-multi}
-
-e este outro formato para mensagens bíblicas
-
-> ✝️ ▸ Mensagem (*Jesus*)
->
-> Livro, cap. X, vers. Y, ARC
-{:.bible-multi}
-
-Nas passagens acima, trechos atribuídos à Jesus serão indicados por letras avermelhadas.
-
-<!--
-| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
-| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
-| ⚜️ | fim | término de um elemento | 
--->
-
-## Tipografia  
-
-Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.  
-
-Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).  
- 
-Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.  
-
----
-
-## Adicionais  
-
 <details class="links"><summary>🔗</summary><br>
 🏷️ Alma, conceito espírita de  <a href="#alma">↩️</a><br>
 🏷️ Alma, conceitos de  <a href="#alma">↩️</a>
@@ -226,7 +234,24 @@ Nota de rodapé [^1]
 
 [^1]: Texto da nota de rodapé. Clique na seta para voltar ao local original da nota.
 
-## Ajustes  
+
+
+
+## Ferramentas  
+
+### Anotador  
+
+<p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
+
+<table class="border p-10 fs-3 ff-slab col2-w ml-10">
+<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
+<tr><td class="center"><img src="../assets/images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
+<tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
+</table>
+
+
+### Ajustes  
 
 Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, e links) clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
 
@@ -247,16 +272,7 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 <tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
  </table>  
 
-## Anotador  
-
-<p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
-
-<table class="border p-10 fs-3 ff-slab col2-w ml-10">
-<tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>
-<tr><td class="center"><img src="../assets/images//hypo-a.svg" style="all: unset; height: 45px; vertical-align: middle; padding: 5px"></td><td>Mostrar/esconder barra de anotações</td></tr>
-<tr><td class="center"><img src="../assets/images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
-<tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
-</table>
+## Planejamento
 
 Nos inspiramos nos esforços de:
 
@@ -276,7 +292,7 @@ Mostramos conteúdo proveniente de:
 - [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
 - [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
 
-## Etapas de desenvolvimento
+### Etapas de desenvolvimento
 
 |---|:---:|
 | **Fase** | **Estado** |
@@ -297,7 +313,7 @@ Mostramos conteúdo proveniente de:
 | Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas | 🟡 |
 | Criar um indíce combinado de todos os cinco livros | 🔴 |
 
-## Manutenção diária
+### Manutenção diária
 
 Ao decorrer do ano de 2024, estaremos adicionando links para os items relacionados acima. Nosso objetivo diário é equivalente à 7 páginas da obra original, culminando com o término de A Gênese em 31 de Dezembro.
 
