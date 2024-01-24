@@ -2962,7 +2962,7 @@ Os seres que habitam cada mundo hão todos alcançado o mesmo nível de [perfei�
 
 Passando deste planeta para outro, conserva o [Espírito](Espírito){:.w} a [inteligência](Inteligência){:.w} que aqui tinha?
 
-> <span class="emoji">👻</span> ▸ Sem dúvida; a [inteligência](Inteligência){:.w} não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar.
+> <span class="emoji">👻</span> ▸ Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
  <span class="emoji">  <span class="emoji"> 👉 </span>  </span>  Veja <a href="#lde-2-07-04">Influência do corpo</a><br>
@@ -2985,7 +2985,7 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 > <span class="emoji">👻</span> ▸ Nós, [Espíritos](Espírito){:.w}, só podemos responder de acordo com o grau de adiantamento em que vos achais. Quer dizer que não devemos revelar estas coisas a todos, porque nem todos estão em estado de compreendê-las **e semelhante revelação os perturbaria**.
 
-À medida que o [Espírito](Espírito){:.w} se purifica, o corpo que o reveste se aproxima igualmente da natureza espírita. Torna-se-lhe menos densa a matéria, deixa de rastejar penosamente pela superfície do solo, menos grosseiras se lhe fazem as necessidades físicas, não mais sendo preciso que os seres vivos se destruam mutuamente para se nutrirem. O Espírito se acha mais livre e tem, das coisas longínquas, percepções que desconhecemos. Vê com os olhos do corpo o que só pelo pensamento entrevemos.
+À medida que o Espírito se purifica, o corpo que o reveste se aproxima igualmente da natureza espírita. Torna-se-lhe menos densa a matéria, deixa de rastejar penosamente pela superfície do solo, menos grosseiras se lhe fazem as necessidades físicas, não mais sendo preciso que os seres vivos se destruam mutuamente para se nutrirem. O Espírito se acha mais livre e tem, das coisas longínquas, percepções que desconhecemos. Vê com os olhos do corpo o que só pelo pensamento entrevemos.
 
 Da purificação do Espírito decorre o aperfeiçoamento moral, para os seres que eles constituem, quando encarnados. As paixões animais se enfraquecem e o [egoísmo](egoísmo){:.w} cede lugar ao sentimento da fraternidade. Assim é que, nos mundos superiores ao nosso, se desconhecem as guerras, carecendo de objeto os ódios e as discórdias, porque ninguém pensa em causar dano ao seu semelhante. A intuição que seus habitantes têm do futuro, a segurança que uma [consciência](Consciência){:.w} isenta de remorsos lhes dá, fazem que a [morte](Morte){:.w} nenhuma apreensão lhes cause. Encaram-na de frente, sem temor, como simples transformação.
 
@@ -2999,7 +2999,7 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 Indo de um mundo para outro, o [Espírito](Espírito){:.w} passa por nova [infância](infância){:.d}?
 
-> <span class="emoji">👻</span> ▸ Em toda parte a [infância](infância){:.d} é uma transição necessária, mas não é, em toda parte, tão obtusa como no vosso mundo.
+> <span class="emoji">👻</span> ▸ Em toda parte a infância é uma transição necessária, mas não é, em toda parte, tão obtusa como no vosso mundo.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -3009,7 +3009,7 @@ Indo de um mundo para outro, o [Espírito](Espírito){:.w} passa por nova [infâ
 
 Tem o [Espírito](Espírito){:.w} a faculdade de escolher o mundo em que passe a habitar?
 
-> <span class="emoji">👻</span> ▸ Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os [Espíritos](Espírito){:.w}, depende do grau da elevação destes.
+> <span class="emoji">👻</span> ▸ Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os Espíritos, depende do grau da elevação destes.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -3041,7 +3041,7 @@ O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo?
 
 Haverá mundos em que o [Espírito](Espírito){:.w}, deixando de revestir corpos materiais, só tenha por [envoltório](envoltório){:.d} o [perispírito](Perispírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Há e mesmo esse [envoltório](envoltório){:.d} se torna tão [etéreo](etéreo){:.d} que para vós é como se não existisse. Esse o estado dos [Espíritos](Espírito){:.w} puros.
+> <span class="emoji">👻</span> ▸ Há e mesmo esse envoltório se torna tão [etéreo](etéreo){:.d} que para vós é como se não existisse. Esse o estado dos Espíritos puros.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -3103,7 +3103,7 @@ Qual o estado da [alma](Alma){:.l} na sua primeira encarnação?
 
 As dos nossos selvagens são almas no estado de [infância](infância){:.d}?
 
-> <span class="emoji">👻</span> ▸ De [infância](infância){:.d} relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
+> <span class="emoji">👻</span> ▸ De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, selvagens e <a href="#alma">↩️</a>

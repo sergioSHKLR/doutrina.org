@@ -219,7 +219,6 @@ Caso precise de assistência imediata, entre em contato utilizando o botão azul
 
 <!-- <img src="../assets/images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;"> -->
 
-
 ## Contato
 
 Por fim, ficaríamos gratos com seus:
