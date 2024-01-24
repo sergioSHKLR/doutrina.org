@@ -213,14 +213,12 @@ Em suporte às nossas alterações, citamos aqui uma mensagem mediúnica, de vá
 <blockquote class="spirit" style="font-family: 'Roboto Serif', serif; padding: 10px 20px">
 <span class="emoji">👻</span> … Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e <strong>se unirão por um laço fraterno</strong>, que prenderá o mundo inteiro. Estes <strong>deixarão de lado as miseráveis questões de palavras</strong>, para só se ocuparem com o que é essencial. <strong>E a Doutrina será sempre a mesma</strong> … </blockquote>
 
-<!--
-## Contato
+## Chat
 
-Caso tenha alguma dúvida, entre em contato utilizando o botão do chat (canto inferior direito). 
+Caso precise de assistência imediata, entre em contato utilizando o botão azul do chat.
 
-<!--
-<img src="./images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;">
--->
+<!-- <img src="../assets/images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;"> -->
+
 
 ## Contato
 
