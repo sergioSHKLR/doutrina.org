@@ -2045,7 +2045,7 @@ Tal influência só se exerce sobre o [Espírito](Espírito){:.w} em sua origem?
 
 Por que há [Deus](Deus){:.l} permitido que os [Espíritos](Espírito){:.w} possam tomar o caminho do mal?
 
-> <span class="emoji">👻</span> ▸ Como ousais pedir a Deus contas de seus atos? Supondes poder penetrar-lhe os [desígnios](desígnio){:.d}? Podeis, todavia, dizer o seguinte: A [sabedoria](Sabedoria){:.w} de Deus está na liberdade de escolher que Ele deixa a cada um, porquanto, assim, cada um tem o [mérito](mérito){:.d} de suas obras.
+> <span class="emoji">👻</span> ▸ Como ousais pedir a Deus contas de seus atos? Supondes poder penetrar-lhe os [desígnios](desígnio){:.d}? Podeis, todavia, dizer o seguinte: A [sabedoria](Sabedoria){:.w} de Deus está na liberdade de escolher que Ele deixa a cada um, porquanto, assim, cada um tem o [mérito](mérito){:.d} de suas obras. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2055,7 +2055,7 @@ Por que há [Deus](Deus){:.l} permitido que os [Espíritos](Espírito){:.w} poss
 
 Pois que há [Espíritos](Espírito){:.w} que desde o princípio seguem o caminho do bem absoluto e outros o do mal absoluto, deve haver, sem dúvida, [gradações](gradação){:.d} entre esses dois extremos. Não?
 
-> <span class="emoji">👻</span> ▸ Sim, certamente, e os que se acham nos graus intermédios constituem a maioria.
+> <span class="emoji">👻</span> ▸ Sim, certamente, e os que se acham nos graus intermédios constituem a maioria. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2067,7 +2067,7 @@ Os [Espíritos](Espírito){:.w} que enveredaram pela [senda](senda){:.d} do mal 
 
 > <span class="emoji">👻</span> ▸ Sim; mas **as [eternidade](Eternidade){:.w}s** lhes serão mais longas.
 
-Por estas palavras – **as eternidades** – se deve entender a ideia que os Espíritos inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
+Por estas palavras – **as eternidades** – se deve entender a ideia que os Espíritos inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2077,7 +2077,7 @@ Por estas palavras – **as eternidades** – se deve entender a ideia que os Es
 
 Chegados ao grau supremo da [perfeição](perfeição){:.d}, os [Espíritos](Espírito){:.w} que andaram pelo caminho do mal têm, aos olhos de [Deus](Deus){:.l}, menos [mérito](mérito){:.d} do que os outros?
 
-> <span class="emoji">👻</span> ▸ Deus olha de igual maneira para os que se transviaram e para os outros e a todos ama com o mesmo coração. Aqueles são chamados maus, porque sucumbiram. Antes, não eram mais que simples Espíritos.
+> <span class="emoji">👻</span> ▸ Deus olha de igual maneira para os que se transviaram e para os outros e a todos ama com o mesmo coração. Aqueles são chamados maus, porque sucumbiram. Antes, não eram mais que simples Espíritos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2089,7 +2089,7 @@ Os [Espíritos](Espírito){:.w} são criados iguais quanto às faculdades intele
 
 > <span class="emoji">👻</span> ▸ São criados iguais, porém, não sabendo donde vêm, preciso é que o [livre-arbítrio](Livre-arbítrio){:.w} siga seu curso. Eles progridem mais ou menos rapidamente em [inteligência](Inteligência){:.w} como em moralidade.
 
-Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a [perfeição](perfeição){:.d}. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da [infância](infância){:.d} à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a [infância](infância){:.d}, também há [Espíritos](Espírito){:.w} que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o [Espírito](Espírito){:.w}, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio.
+Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a [perfeição](perfeição){:.d}. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da [infância](infância){:.d} à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a [infância](infância){:.d}, também há [Espíritos](Espírito){:.w} que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o [Espírito](Espírito){:.w}, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2103,7 +2103,7 @@ Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial
 
 > <span class="emoji">👻</span> ▸ Não; são os Espíritos puros: os que se acham no mais alto grau da escala e reúnem todas as perfeições.
 
-A palavra **anjo** desperta geralmente a ideia de [perfeição](perfeição){:.d} moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o [anjo](Anjo){:.w} bom e o [anjo](Anjo){:.w} mau; o [anjo](Anjo){:.w} de luz e o [anjo](Anjo){:.w} das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção.
+A palavra **anjo** desperta geralmente a ideia de [perfeição](perfeição){:.d} moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o [anjo](Anjo){:.w} bom e o [anjo](Anjo){:.w} mau; o [anjo](Anjo){:.w} de luz e o [anjo](Anjo){:.w} das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a>
@@ -2113,7 +2113,7 @@ A palavra **anjo** desperta geralmente a ideia de [perfeição](perfeição){:.d
 
 Os [anjos](Anjo){:.w} hão percorrido todos os graus da escala?
 
-> <span class="emoji">👻</span> ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à [perfeição](perfeição){:.d}.
+> <span class="emoji">👻</span> ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à [perfeição](perfeição){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a><br>
@@ -2124,7 +2124,7 @@ Os [anjos](Anjo){:.w} hão percorrido todos os graus da escala?
 
 Sendo errônea a opinião dos que admitem a existência de seres criados perfeitos e superiores a todas as outras criaturas, como se explica que essa crença esteja na tradição de quase todos os povos?
 
-> <span class="emoji">👻</span> ▸ Fica sabendo que o mundo onde te achas não existe de toda a [eternidade](Eternidade){:.w} e que, muito tempo antes que ele existisse, já havia [Espíritos](Espírito){:.w} que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
+> <span class="emoji">👻</span> ▸ Fica sabendo que o mundo onde te achas não existe de toda a [eternidade](Eternidade){:.w} e que, muito tempo antes que ele existisse, já havia [Espíritos](Espírito){:.w} que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Anjo, demônio e <a href="#anjo">↩️</a>
@@ -2151,7 +2151,7 @@ Não temos visto a [Ciência](Ciência){:.w} contraditar a **forma** do texto b�
 
 Os homens fizeram com os demônios o que fizeram com os anjos. Como acreditaram na existência de seres perfeitos desde toda a [eternidade](Eternidade){:.w}, tomaram os [Espíritos](Espírito){:.w} inferiores por seres perpetuamente maus. Por demônios se devem entender os Espíritos impuros, que muitas vezes não valem mais do que as entidades designadas por esse nome, mas com a diferença de ser transitório o estado deles. São Espíritos imperfeitos, que se rebelam contra as provas que lhes tocam e que, por isso, as sofrem mais longamente, porém, que, a seu turno, chegarão a sair daquele estado, quando o quiserem. Poder-se-ia, pois, aceitar o termo [demônio](Demônio){:.w} com esta restrição. Como o entendem atualmente, dando-se-lhe um sentido exclusivo, ele induziria em erro, com o fazer crer na existência de seres especiais criados para o mal.
 
-[Satanás](Satanás){:.w} é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a [Divindade](Divindade){:.w} e cuja única preocupação consistisse em lhe contrariar os [desígnios](desígnio){:.d}. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](Verdade){:.w} etc. Os modernos representaram os anjos, os puros [Espíritos](Espírito){:.w}, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao [pé da letra](ao_pé_da_letra){:.d}, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
+[Satanás](Satanás){:.w} é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a [Divindade](Divindade){:.w} e cuja única preocupação consistisse em lhe contrariar os [desígnios](desígnio){:.d}. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da [verdade](Verdade){:.w} etc. Os modernos representaram os anjos, os puros [Espíritos](Espírito){:.w}, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao [pé da letra](ao_pé_da_letra){:.d}, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Anjo, alegoria representativa de <a href="#anjo">↩️</a><br>
@@ -2168,7 +2168,7 @@ Qual o objetivo da encarnação dos [Espíritos](Espírito){:.w}?
 
 > <span class="emoji">👻</span> ▸ [Deus](Deus){:.l} lhes impõe a encarnação com o fim de fazê-los chegar à [perfeição](perfeição){:.d}. Para uns, é expiação; para outros, missão. Mas, para alcançarem essa [perfeição](perfeição){:.d}, **têm que sofrer todas as [vicissitudes](vicissitude){:.d} da existência corporal**: nisso é que está a expiação. Visa ainda outro fim a encarnação: o de pôr o [Espírito](Espírito){:.w} em condições de suportar a parte que lhe toca na obra da Criação. Para executá-la é que, em cada mundo, toma o Espírito um instrumento, de [harmonia](harmonia){:.d} com a [matéria](Matéria){:.w} essencial desse mundo, a fim de aí cumprir, daquele ponto de vista, as ordens de Deus. É assim que, concorrendo para a obra geral, ele próprio se adianta.
 
-A ação dos seres corpóreos é necessária à marcha do [Universo](Universo){:.w}. [Deus](Deus){:.l}, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da [Providência](Divina_Providência){:.w}, tudo se encadeia, tudo é [solidário](solidário){:.d} na [Natureza](Natureza){:.w}.
+A ação dos seres corpóreos é necessária à marcha do [Universo](Universo){:.w}. [Deus](Deus){:.l}, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da [Providência](Divina_Providência){:.w}, tudo se encadeia, tudo é [solidário](solidário){:.d} na [Natureza](Natureza){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2178,7 +2178,7 @@ A ação dos seres corpóreos é necessária à marcha do [Universo](Universo){:
 
 Têm necessidade de encarnação os [Espíritos](Espírito){:.w} que, desde o princípio, seguiram o caminho do bem?
 
-> <span class="emoji">👻</span> ▸ Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. [Deus](Deus){:.l}, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem [mérito](mérito){:.d}.
+> <span class="emoji">👻</span> ▸ Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. [Deus](Deus){:.l}, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem [mérito](mérito){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2188,7 +2188,7 @@ Têm necessidade de encarnação os [Espíritos](Espírito){:.w} que, desde o pr
 
 Mas, então, de que serve aos [Espíritos](Espírito){:.w} terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
 
-> <span class="emoji">👻</span> ▸ Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do [Espírito](Espírito){:.w}. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.
+> <span class="emoji">👻</span> ▸ Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do [Espírito](Espírito){:.w}. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2200,7 +2200,7 @@ Mas, então, de que serve aos [Espíritos](Espírito){:.w} terem seguido o camin
 
 Que é a alma?
 
-> <span class="emoji">👻</span> ▸ Um [Espírito](Espírito){:.w} encarnado.
+> <span class="emoji">👻</span> ▸ Um [Espírito](Espírito){:.w} encarnado. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2209,7 +2209,7 @@ Que é a alma?
 
 ###### Q.134.a {#q134a}
 
-Que era a [alma](Alma){:.l} antes de se unir ao corpo?
+Que era a [alma](Alma){:.l} antes de se unir ao corpo? <span class="emoji">✅</span>
 
 > <span class="emoji">👻</span> ▸ [Espírito](Espírito){:.w}.
 
@@ -2222,7 +2222,7 @@ Que era a [alma](Alma){:.l} antes de se unir ao corpo?
 
 As almas e os [Espíritos](Espírito){:.w} são, portanto, idênticos, a mesma coisa?
 
-> <span class="emoji">👻</span> ▸ Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a [alma](Alma){:.l} é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um [invólucro](invólucro){:.d} carnal para se purificarem e esclarecerem.
+> <span class="emoji">👻</span> ▸ Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a [alma](Alma){:.l} é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um [invólucro](invólucro){:.d} carnal para se purificarem e esclarecerem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2233,7 +2233,7 @@ As almas e os [Espíritos](Espírito){:.w} são, portanto, idênticos, a mesma c
 
 Há no homem alguma outra coisa além da [alma](Alma){:.l} e do corpo?
 
-> <span class="emoji">👻</span> ▸ Há o laço que liga a alma ao corpo.
+> <span class="emoji">👻</span> ▸ Há o laço que liga a alma ao corpo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2251,7 +2251,7 @@ O homem é, portanto, formado de três partes essenciais.
 
 2. a alma, Espírito encarnado que tem no corpo a sua habitação.  
 
-3. o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro [envoltório](envoltório){:.d} ao Espírito e liga a [alma](Alma){:.l} ao corpo. Tal, num fruto, o germe, o perisperma e a casca.  
+3. o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro [envoltório](envoltório){:.d} ao Espírito e liga a [alma](Alma){:.l} ao corpo. Tal, num fruto, o germe, o perisperma e a casca. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, corpo, perispírito e <a href="#alma">↩️</a>
@@ -2261,7 +2261,7 @@ O homem é, portanto, formado de três partes essenciais.
 
 A [alma](Alma){:.l} independe do princípio vital?
 
-> <span class="emoji">👻</span> ▸ O corpo não é mais do que [envoltório](envoltório){:.d}, repetimo-lo constantemente.
+> <span class="emoji">👻</span> ▸ O corpo não é mais do que [envoltório](envoltório){:.d}, repetimo-lo constantemente. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2271,7 +2271,7 @@ A [alma](Alma){:.l} independe do princípio vital?
 
 Pode o corpo existir sem a alma?
 
-> <span class="emoji">👻</span> ▸ Pode; entretanto, desde que cessa a vida do corpo, a [alma](Alma){:.l} o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a [morte](Morte){:.w} do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica.
+> <span class="emoji">👻</span> ▸ Pode; entretanto, desde que cessa a vida do corpo, a [alma](Alma){:.l} o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a [morte](Morte){:.w} do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2282,7 +2282,7 @@ Pode o corpo existir sem a alma?
 
 Que seria o nosso corpo, se não tivesse alma?
 
-> <span class="emoji">👻</span> ▸ Simples massa de carne sem [inteligência](Inteligência){:.w}, tudo o que quiserdes, exceto um homem.
+> <span class="emoji">👻</span> ▸ Simples massa de carne sem [inteligência](Inteligência){:.w}, tudo o que quiserdes, exceto um homem. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2293,7 +2293,7 @@ Que seria o nosso corpo, se não tivesse alma?
 
 Um [Espírito](Espírito){:.w} pode encarnar a um tempo em dois corpos diferentes?
 
-> <span class="emoji">👻</span> ▸ Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos.
+> <span class="emoji">👻</span> ▸ Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
  <span class="emoji">  <span class="emoji"> 👉 </span>  </span>  Veja LDM, Cap. 7 
@@ -2304,7 +2304,7 @@ Um [Espírito](Espírito){:.w} pode encarnar a um tempo em dois corpos diferente
 
 Que se deve pensar da opinião dos que consideram a [alma](Alma){:.l} o princípio da vida material?
 
-> <span class="emoji">👻</span> ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente.
+> <span class="emoji">👻</span> ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2317,9 +2317,8 @@ Alguns [Espíritos](Espírito){:.w} e, antes deles, alguns filósofos definiram 
 
 > <span class="emoji">👻</span> ▸ Não há contradição. Tudo depende das [acepções](acepção){:.d} das palavras. Por que não tendes uma palavra para cada coisa?
 
-O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a alma é uma [centelha](centelha){:.d} anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a [morte](Morte){:.w}, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da [matéria](Matéria){:.w} e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e 6589+
-+02
-ñhcfv
+O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a alma é uma [centelha](centelha){:.d} anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a [morte](Morte){:.w}, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da [matéria](Matéria){:.w} e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e ???MISSING???
+
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
 <span class="emoji">🏷️</span> Alma, conceitos de <a href="#alma">↩️</a>
@@ -2329,7 +2328,7 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 Que se deve pensar da teoria da [alma](Alma){:.l} subdividida em tantas partes quantos são os músculos e presidindo assim a cada uma das funções do corpo?
 
-> <span class="emoji">👻</span> ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem [razão](Razão){:.w} de ser; se se entende por alma o [Espírito](Espírito){:.w} encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
+> <span class="emoji">👻</span> ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem [razão](Razão){:.w} de ser; se se entende por alma o [Espírito](Espírito){:.w} encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2342,7 +2341,7 @@ Entretanto, alguns [Espíritos](Espírito){:.w} deram essa definição.
 
 > <span class="emoji">👻</span> ▸ Os Espíritos ignorantes podem tomar o efeito pela [causa](Causalidade){:.w}.
 
-A [alma](Alma){:.l} atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o [Espírito](Espírito){:.w} que habita o corpo durante a vida e o deixa por ocasião da [morte](Morte){:.w}.
+A [alma](Alma){:.l} atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o [Espírito](Espírito){:.w} que habita o corpo durante a vida e o deixa por ocasião da [morte](Morte){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2352,7 +2351,7 @@ A [alma](Alma){:.l} atua por intermédio dos órgãos e os órgãos são animado
 
 Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](Alma){:.l} seja exterior ao corpo e o circunvolve?
 
-> <span class="emoji">👻</span> ▸ A alma não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a alma é exterior, sem que por isso constitua o [envoltório](envoltório){:.d} do corpo. A alma tem dois invólucros: um, [sutil](sutil){:.d} e leve, é o primeiro, ao qual chamas [perispírito](Perispírito){:.w}; outro, grosseiro, material e pesado, o corpo. A alma é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
+> <span class="emoji">👻</span> ▸ A alma não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a alma é exterior, sem que por isso constitua o [envoltório](envoltório){:.d} do corpo. A alma tem dois invólucros: um, [sutil](sutil){:.d} e leve, é o primeiro, ao qual chamas [perispírito](Perispírito){:.w}; outro, grosseiro, material e pesado, o corpo. A alma é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, invólucros da <a href="#alma">↩️</a>
@@ -2362,7 +2361,7 @@ Há alguma coisa de verdadeiro na opinião dos que pretendem que a [alma](Alma){
 
 Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai completando a cada período da vida?
 
-> <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela [causa](Causalidade){:.w}.
+> <span class="emoji">👻</span> ▸ O [Espírito](Espírito){:.w} é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela [causa](Causalidade){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2372,7 +2371,7 @@ Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai compl
 
 Por que todos os [Espíritos](Espírito){:.w} não definem do mesmo modo a alma?
 
-> <span class="emoji">👻</span> ▸ Os Espíritos não se acham todos esclarecidos igualmente sobre estes assuntos. Há Espíritos de [inteligência](Inteligência){:.w} ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há Espíritos pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios Espíritos esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade.
+> <span class="emoji">👻</span> ▸ Os Espíritos não se acham todos esclarecidos igualmente sobre estes assuntos. Há Espíritos de [inteligência](Inteligência){:.w} ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há Espíritos pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios Espíritos esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2382,7 +2381,7 @@ Por que todos os [Espíritos](Espírito){:.w} não definem do mesmo modo a alma?
 
 Que se deve entender por [alma](Alma){:.l} do mundo?
 
-> <span class="emoji">👻</span> ▸ O princípio universal da vida e da [inteligência](Inteligência){:.w}, do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo alma é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à [Terra](Terra){:.w} hão atribuído uma alma. Por alma da Terra se deve entender o conjunto dos [Espíritos](Espírito){:.w} abnegados, que dirigem para o bem as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de [Deus](Deus){:.l} com relação ao vosso planeta.
+> <span class="emoji">👻</span> ▸ O princípio universal da vida e da [inteligência](Inteligência){:.w}, do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo alma é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à [Terra](Terra){:.w} hão atribuído uma alma. Por alma da Terra se deve entender o conjunto dos [Espíritos](Espírito){:.w} abnegados, que dirigem para o bem as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de [Deus](Deus){:.l} com relação ao vosso planeta. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a><br>
@@ -2394,7 +2393,7 @@ Que se deve entender por [alma](Alma){:.l} do mundo?
 
 Como se explica que tantos filósofos antigos e modernos, durante tão longo tempo, hajam discutido sobre a [ciência](Ciência){:.w} psicológica e não tenham chegado ao conhecimento da [verdade](Verdade){:.w}?
 
-> <span class="emoji">👻</span> ▸ Esses homens eram os precursores da [eterna](eterna){:.d} [Doutrina Espírita](Espiritismo){:.l} , prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a [verdade](Verdade){:.w}, mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis.
+> <span class="emoji">👻</span> ▸ Esses homens eram os precursores da [eterna](eterna){:.d} [Doutrina Espírita](Espiritismo){:.l} , prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a [verdade](Verdade){:.w}, mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma <a href="#alma">↩️</a>
@@ -2404,7 +2403,7 @@ Como se explica que tantos filósofos antigos e modernos, durante tão longo tem
 
 A [alma](Alma){:.l} tem, no corpo, sede determinada e [circunscrita](circunscrito){:.d}?
 
-> <span class="emoji">👻</span> ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
+> <span class="emoji">👻</span> ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, sede da <a href="#alma">↩️</a>
@@ -2414,7 +2413,7 @@ A [alma](Alma){:.l} tem, no corpo, sede determinada e [circunscrita](circunscrit
 
 Que se deve pensar da opinião dos que situam a [alma](Alma){:.l} num centro vital?
 
-> <span class="emoji">👻</span> ▸ Quer isso dizer que o [Espírito](Espírito){:.w} habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da [vitalidade](vitalidade){:.d}, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
+> <span class="emoji">👻</span> ▸ Quer isso dizer que o [Espírito](Espírito){:.w} habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da [vitalidade](vitalidade){:.d}, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, corpo físico e sede da <a href="#alma">↩️</a>
@@ -2426,7 +2425,7 @@ Que se deve pensar da opinião dos que situam a [alma](Alma){:.l} num centro vit
 
 Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a [ciência](Ciência){:.w} da [Natureza](Natureza){:.w}, são, com tanta frequência, levados ao materialismo?
 
-> <span class="emoji">👻</span> ▸ O fisiologista refere tudo ao que vê. Orgulho dos homens, que julgam saber tudo e não admitem haja coisa alguma que lhes esteja acima do entendimento. A própria [ciência](Ciência){:.w} que cultivam os enche de [presunção](presunção){:.d}. Pensam que a Natureza nada lhes pode conservar oculto.
+> <span class="emoji">👻</span> ▸ O fisiologista refere tudo ao que vê. Orgulho dos homens, que julgam saber tudo e não admitem haja coisa alguma que lhes esteja acima do entendimento. A própria [ciência](Ciência){:.w} que cultivam os enche de [presunção](presunção){:.d}. Pensam que a Natureza nada lhes pode conservar oculto. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2444,7 +2443,7 @@ O homem tem, instintivamente, a convicção de que nem tudo se lhe acaba com a v
 
 Não tem este quadro alguma coisa de horrível, de glacial? A [religião](Religião){:.w} ensina que não pode ser assim e a [razão](Razão){:.w} no-lo confirma. Uma existência futura, porém, vaga e indefinida não apresenta o que satisfaça ao nosso desejo do positivo. Essa, em muitos, a origem da dúvida. Possuímos alma, está bem; mas que é a nossa alma? Tem forma, uma aparência qualquer? É um ser limitado ou indefinido? Dizem alguns que é um sopro de [Deus](Deus){:.l}; outros, uma [centelha](centelha){:.d}; outros, uma parcela do grande Todo, o princípio da vida e da [inteligência](Inteligência){:.w}. Que é, porém, o que de tudo isto ficamos sabendo? Que nos importa ter uma alma, se, extinguindo-se-nos a vida, ela desaparece na imensidade, como as gotas de água no oceano? A perda da nossa individualidade não equivale, para nós, ao nada? Diz-se também que a [alma](Alma){:.l} é [imaterial](imaterial){:.d}. Ora, uma coisa [imaterial](imaterial){:.d} carece de proporções determinadas. Desde então, nada é, para nós. A [religião](Religião){:.w} ainda nos ensina que seremos felizes ou desgraçados, conforme o bem ou o mal que houvermos feito. Que vem a ser, porém, essa felicidade que nos aguarda no seio de Deus? Será uma beatitude, uma contemplação [eterna](eterna){:.d}, sem outra ocupação mais do que entoar louvores ao [Criador](Deus){:.l}? As chamas do inferno serão uma realidade ou um símbolo? A própria Igreja lhes dá esta última significação; mas, então, que são aqueles sofrimentos? Onde esse lugar de suplício? Numa palavra, que é o que se faz, que é o que se vê, nesse outro mundo que a todos nos espera? Dizem que ninguém jamais voltou de lá para nos dar informações.
 
-É erro dizê-lo e a missão do [Espiritismo](Espiritismo){:.l} consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples [presunção](presunção){:.d}, de uma probabilidade sobre a qual cada um conjeture à [vontade](vontade){:.d}, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a [fé](Fé){:.w} e os tíbios a renovação do fervor e da confiança. O [Espiritismo](Espiritismo){:.l} é, pois, o mais potente auxiliar da [religião](Religião){:.l}. Se ele aí está, é porque [Deus](Deus){:.l} o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à [senda](senda){:.d} do bem pela perspectiva do futuro.
+É erro dizê-lo e a missão do [Espiritismo](Espiritismo){:.l} consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples [presunção](presunção){:.d}, de uma probabilidade sobre a qual cada um conjeture à [vontade](vontade){:.d}, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a [fé](Fé){:.w} e os tíbios a renovação do fervor e da confiança. O [Espiritismo](Espiritismo){:.l} é, pois, o mais potente auxiliar da [religião](Religião){:.l}. Se ele aí está, é porque [Deus](Deus){:.l} o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à [senda](senda){:.d} do bem pela perspectiva do futuro. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, questionamentos sobre a <a href="#alma">↩️</a>
@@ -2458,7 +2457,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A [religião](Religi
 
 Que sucede à [alma](Alma){:.l} no instante da [morte](Morte){:.w}?
 
-> <span class="emoji">👻</span> ▸ Volta a ser [Espírito](Espírito){:.w}, isto é, volve ao mundo dos Espíritos, donde se apartara momentaneamente.
+> <span class="emoji">👻</span> ▸ Volta a ser [Espírito](Espírito){:.w}, isto é, volve ao mundo dos Espíritos, donde se apartara momentaneamente. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
@@ -2468,7 +2467,7 @@ Que sucede à [alma](Alma){:.l} no instante da [morte](Morte){:.w}?
 
 A alma, após a [morte](Morte){:.w}, conserva a sua individualidade?
 
-> <span class="emoji">👻</span> ▸ Sim; jamais a perde. Que seria ela, se não a conservasse?
+> <span class="emoji">👻</span> ▸ Sim; jamais a perde. Que seria ela, se não a conservasse? <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, individualidade da <a href="#alma">↩️</a><br>
@@ -2479,7 +2478,7 @@ A alma, após a [morte](Morte){:.w}, conserva a sua individualidade?
 
 Como comprova a [alma](Alma){:.l} a sua individualidade, uma vez que não tem mais corpo material?
 
-> <span class="emoji">👻</span> ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu [perispírito](Perispírito){:.w}.
+> <span class="emoji">👻</span> ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu [perispírito](Perispírito){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
@@ -2489,7 +2488,7 @@ Como comprova a [alma](Alma){:.l} a sua individualidade, uma vez que não tem ma
 
 A [alma](Alma){:.l} nada leva consigo deste mundo?
 
-> <span class="emoji">👻</span> ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na [Terra](Terra){:.w}.
+> <span class="emoji">👻</span> ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na [Terra](Terra){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
@@ -2499,7 +2498,7 @@ A [alma](Alma){:.l} nada leva consigo deste mundo?
 
 Que pensar da opinião dos que dizem que após a [morte](Morte){:.w} a [alma](Alma){:.l} retorna ao todo universal?
 
-> <span class="emoji">👻</span> ▸ O conjunto dos [Espíritos](Espírito){:.w} não forma um todo? não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade.
+> <span class="emoji">👻</span> ▸ O conjunto dos [Espíritos](Espírito){:.w} não forma um todo? não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a><br>
@@ -2516,7 +2515,7 @@ Os que pensam que, pela morte, a [alma](Alma){:.l} reingressa no todo universal 
 
 Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, nada as distinguiria umas das outras. Careceriam de [inteligência](Inteligência){:.w} e de qualidades pessoais quando, ao contrário, em tºodas as comunicações, denotam ter [consciência](Consciência){:.w} do seu eu e [vontade](Vontade){:.w} própria.
 
-A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, [levianos](leviano){:.d} e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da [alma](Alma){:.l} nos era ensinada em teoria, como artigo de fé. O [Espiritismo](Espiritismo){:.l} a torna manifesta e, de certo modo, material.
+A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, [levianos](leviano){:.d} e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da [alma](Alma){:.l} nos era ensinada em teoria, como artigo de fé. O [Espiritismo](Espiritismo){:.l} a torna manifesta e, de certo modo, material. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
@@ -2526,7 +2525,7 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 
 Em que sentido se deve entender a vida [eterna](eterna){:.d}?
 
-> <span class="emoji">👻</span> ▸ A vida do [Espírito](Espírito){:.w} é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a [alma](Alma){:.l} retoma a vida eterna.
+> <span class="emoji">👻</span> ▸ A vida do [Espírito](Espírito){:.w} é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a [alma](Alma){:.l} retoma a vida eterna. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, morte e <a href="#alma">↩️</a>
@@ -2536,7 +2535,7 @@ Em que sentido se deve entender a vida [eterna](eterna){:.d}?
 
 Não seria mais exato chamar vida [eterna](eterna){:.d} a dos [Espíritos](Espírito){:.w} puros, dos que, tendo atingido a [perfeição](perfeição){:.d}, não estão sujeitos a sofrer mais prova alguma?
 
-> <span class="emoji">👻</span> ▸ Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais.
+> <span class="emoji">👻</span> ▸ Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2550,7 +2549,7 @@ Não seria mais exato chamar vida [eterna](eterna){:.d} a dos [Espíritos](Espí
 
 > <span class="emoji">👻</span> ▸ Não; o corpo quase sempre sofre mais durante a vida do que no momento da [morte](Morte){:.w}; a [alma](Alma){:.l} nenhuma parte toma nisso. Os sofrimentos que algumas vezes se experimentam no instante da morte são um gozo para o [Espírito](Espírito){:.w}, que vê chegar o termo do seu exílio.
 
-Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
+Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, separação do corpo <a href="#alma">↩️</a>
@@ -2560,7 +2559,7 @@ Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequênci
 
 Como se opera a separação da [alma](Alma){:.l} e do corpo?
 
-> <span class="emoji">👻</span> ▸ Rotos os laços que a retinham, ela se desprende.
+> <span class="emoji">👻</span> ▸ Rotos os laços que a retinham, ela se desprende. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q957">Q.957</a><br>
@@ -2573,7 +2572,7 @@ A separação se dá instantaneamente por brusca transição? Haverá alguma lin
 
 > <span class="emoji">👻</span> ▸ Não; a [alma](Alma){:.l} se desprende gradualmente, não se escapa como um pássaro cativo a que se restitua subitamente a liberdade. Aqueles dois estados se tocam e confundem, de sorte que o [Espírito](Espírito){:.w} se solta pouco a pouco dos laços que o prendiam. **Estes laços se desatam, não se quebram**.
 
-Durante a vida, o Espírito se acha preso ao corpo pelo seu [envoltório](envoltório){:.d} semi-material ou [perispírito](Perispírito){:.w}. A morte é a destruição do corpo somente, não a desse outro [invólucro](invólucro){:.d}, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do [perispírito](Perispírito){:.w} não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da morte é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi toda material e sensual, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor [vitalidade](vitalidade){:.d}, nem a possibilidade de volver à vida, mas uma simples afinidade com o Espírito, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria. É, com efeito, racional conceber-se que, quanto mais o Espírito se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a alma e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o Espírito pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas.
+Durante a vida, o Espírito se acha preso ao corpo pelo seu [envoltório](envoltório){:.d} semi-material ou [perispírito](Perispírito){:.w}. A morte é a destruição do corpo somente, não a desse outro [invólucro](invólucro){:.d}, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do [perispírito](Perispírito){:.w} não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da morte é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi toda material e sensual, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor [vitalidade](vitalidade){:.d}, nem a possibilidade de volver à vida, mas uma simples afinidade com o Espírito, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria. É, com efeito, racional conceber-se que, quanto mais o Espírito se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a alma e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o Espírito pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2583,7 +2582,7 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu [envoltório](envolt
 
 A separação definitiva da [alma](Alma){:.l} e do corpo pode ocorrer antes da cessação completa da vida orgânica?
 
-> <span class="emoji">👻</span> ▸ Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem [consciência](Consciência){:.w} de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma.
+> <span class="emoji">👻</span> ▸ Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem [consciência](Consciência){:.w} de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, separação definitiva do corpo <a href="#alma">↩️</a>
@@ -2593,7 +2592,7 @@ A separação definitiva da [alma](Alma){:.l} e do corpo pode ocorrer antes da c
 
 No momento da [morte](Morte){:.w}, a [alma](Alma){:.l} sente, alguma vez, qualquer aspiração ou êxtase que lhe faça entrever o mundo onde vai de novo entrar?
 
-> <span class="emoji">👻</span> ▸ Muitas vezes a alma sente que se desfazem os laços que a prendem ao corpo. **Emprega então todos os esforços para desfazê-los inteiramente**. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de [Espírito](Espírito){:.w}.
+> <span class="emoji">👻</span> ▸ Muitas vezes a alma sente que se desfazem os laços que a prendem ao corpo. **Emprega então todos os esforços para desfazê-los inteiramente**. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de [Espírito](Espírito){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, retorno ao mundo espiritual <a href="#alma">↩️</a>
@@ -2603,7 +2602,7 @@ No momento da [morte](Morte){:.w}, a [alma](Alma){:.l} sente, alguma vez, qualqu
 
 O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra na sua [crisálida](Crisálida){:.w} em estado de [morte](Morte){:.w} aparente, para enfim renascer com uma existência brilhante, pode dar-nos ideia da vida terrestre, do túmulo e, finalmente, da nossa nova existência?
 
-> <span class="emoji">👻</span> ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao [pé da letra](ao_pé_da_letra){:.d}, como frequentemente vos sucede.
+> <span class="emoji">👻</span> ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao [pé da letra](ao_pé_da_letra){:.d}, como frequentemente vos sucede. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Além-túmulo, continuação da existência no <a href="#alem-tumulo">↩️</a>
@@ -2613,7 +2612,7 @@ O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra
 
 Que sensação experimenta a [alma](Alma){:.l} no momento em que reconhece estar no mundo dos [Espíritos](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a alma do justo as coisas se passam de modo bem diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador.
+> <span class="emoji">👻</span> ▸ Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a alma do justo as coisas se passam de modo bem diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Alma, retorno ao mundo espiritual <a href="#alma">↩️</a>
@@ -2623,7 +2622,7 @@ Que sensação experimenta a [alma](Alma){:.l} no momento em que reconhece estar
 
 O [Espírito](Espírito){:.w} se encontra imediatamente com os que conheceu na [Terra](Terra){:.w} e que morreram antes dele?
 
-> <span class="emoji">👻</span> ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos [Espíritos](Espírito){:.w} e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na [erraticidade](Erraticidade){:.l}, como vê os encarnados e os vai visitar.
+> <span class="emoji">👻</span> ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos [Espíritos](Espírito){:.w} e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na [erraticidade](Erraticidade){:.l}, como vê os encarnados e os vai visitar. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2633,7 +2632,7 @@ O [Espírito](Espírito){:.w} se encontra imediatamente com os que conheceu na [
 
 Em caso de [morte](Morte){:.w} violenta e acidental, quando os órgãos ainda não se enfraqueceram em consequência da idade ou das moléstias, a separação da [alma](Alma){:.l} e a cessação da vida ocorrem simultaneamente?
 
-> <span class="emoji">👻</span> ▸ Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra.
+> <span class="emoji">👻</span> ▸ Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2645,7 +2644,7 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a [con
 
 > <span class="emoji">👻</span> ▸ Não raro a conserva durante alguns minutos, até que a vida orgânica se tenha extinguido completamente. Mas, também, quase sempre a apreensão da [morte](Morte){:.w} lhe faz perder aquela consciência{:.w} antes do momento do suplício.
 
-Trata-se aqui da consciência{:.w} que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como [Espírito](Espírito){:.w}. Se não perdeu essa consciência{:.w} antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o [perispírito](Perispírito){:.w} esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção [gradual](gradual){:.d} das forças vitais, mais **tenazes** os laços que prendem o corpo ao [perispírito](Perispírito){:.w} e, portanto, mais lento o desprendimento completo.
+Trata-se aqui da consciência{:.w} que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como [Espírito](Espírito){:.w}. Se não perdeu essa consciência{:.w} antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o [perispírito](Perispírito){:.w} esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção [gradual](gradual){:.d} das forças vitais, mais **tenazes** os laços que prendem o corpo ao [perispírito](Perispírito){:.w} e, portanto, mais lento o desprendimento completo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2659,7 +2658,7 @@ A [alma](Alma){:.l} tem [consciência](Consciência){:.w} de si mesma imediatame
 
 > <span class="emoji">👻</span> ▸ Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação.
 
-Na [morte](Morte){:.w} natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
+Na [morte](Morte){:.w} natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q319">Q.319</a>
@@ -2669,7 +2668,7 @@ Na [morte](Morte){:.w} natural, a que sobrevém pelo esgotamento dos órgãos, e
 
 A perturbação que se segue à separação da [alma](Alma){:.l} e do corpo é do mesmo grau e da mesma duração para todos os [Espíritos](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não; depende da elevação de cada um. Aquele que já está purificado, se reconhece quase imediatamente, pois que se libertou da [matéria](Matéria){:.w} antes que cessasse a vida do corpo, enquanto o homem carnal, aquele cuja [consciência](Consciência){:.w} ainda não está pura, guarda por muito mais tempo a impressão da matéria.
+> <span class="emoji">👻</span> ▸ Não; depende da elevação de cada um. Aquele que já está purificado, se reconhece quase imediatamente, pois que se libertou da [matéria](Matéria){:.w} antes que cessasse a vida do corpo, enquanto o homem carnal, aquele cuja [consciência](Consciência){:.w} ainda não está pura, guarda por muito mais tempo a impressão da matéria. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2689,7 +2688,7 @@ Aquela perturbação apresenta circunstâncias especiais, de acordo com os carac
 
 A perturbação que se segue à morte nada tem de penosa para o homem de bem, que se conserva calmo, semelhante em tudo a quem acompanha as fases de um tranquilo despertar. Para aquele cuja [consciência](Consciência){:.w} ainda não está pura, a perturbação é cheia de ansiedade e de [angústias](angústia){:.d}, que aumentam à proporção que ele da sua situação se compenetra.
 
-Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam.
+Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q957">Q.957</a> 
@@ -2704,7 +2703,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 Como pode a alma, que não alcançou a [perfeição](perfeição){:.d} durante a vida corpórea, acabar de depurar-se?
 
-> <span class="emoji">👻</span> ▸ Sofrendo a prova de uma nova existência.
+> <span class="emoji">👻</span> ▸ Sofrendo a prova de uma nova existência. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q330">Q.330</a> 
@@ -2714,7 +2713,7 @@ Como pode a alma, que não alcançou a [perfeição](perfeição){:.d} durante a
 
 Como realiza essa nova existência? Será pela sua transformação como [Espírito](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Depurando-se, a [alma](Alma){:.l} indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
+> <span class="emoji">👻</span> ▸ Depurando-se, a [alma](Alma){:.l} indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2724,7 +2723,7 @@ Como realiza essa nova existência? Será pela sua transformação como [Espíri
 
 A [alma](Alma){:.l} passa então por muitas existências corporais?
 
-> <span class="emoji">👻</span> ▸ Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na [ignorância](Ignorância){:.w} em que eles próprios se encontram. Esse o desejo deles.
+> <span class="emoji">👻</span> ▸ Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na [ignorância](Ignorância){:.w} em que eles próprios se encontram. Esse o desejo deles. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2734,7 +2733,7 @@ A [alma](Alma){:.l} passa então por muitas existências corporais?
 
 Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
 
-> <span class="emoji">👻</span> ▸ Evidentemente.
+> <span class="emoji">👻</span> ▸ Evidentemente. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2744,13 +2743,13 @@ Parece resultar desse princípio que a alma, depois de haver deixado um corpo, t
 
 Qual o fim objetivado com a reencarnação?
 
-> <span class="emoji">👻</span> ▸ Expiação, melhoramento progressivo da Humanidade. Sem isto, onde a justiça?
+> <span class="emoji">👻</span> ▸ Expiação, melhoramento progressivo da Humanidade. Sem isto, onde a justiça? <span class="emoji">✅</span>
 
 ###### Q.168 {#q168}
 
 É limitado o número das existências corporais, ou o [Espírito](Espírito){:.w} reencarna perpetuamente?
 
-> <span class="emoji">👻</span> ▸ A cada nova existência, o Espírito dá um passo para diante na [senda](senda){:.d} do [progresso](progresso){:.d}. Desde que se ache limpo de todas as impurezas, não tem mais necessidade das provas da vida corporal.
+> <span class="emoji">👻</span> ▸ A cada nova existência, o Espírito dá um passo para diante na [senda](senda){:.d} do [progresso](progresso){:.d}. Desde que se ache limpo de todas as impurezas, não tem mais necessidade das provas da vida corporal. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2760,7 +2759,7 @@ Qual o fim objetivado com a reencarnação?
 
 É invariável o número das encarnações para todos os [Espíritos](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não; aquele que caminha depressa, a muitas provas se forra. Todavia, as encarnações sucessivas são sempre muito numerosas, porquanto o [progresso](progresso){:.d} é quase [infinito](Infinito){:.w}.
+> <span class="emoji">👻</span> ▸ Não; aquele que caminha depressa, a muitas provas se forra. Todavia, as encarnações sucessivas são sempre muito numerosas, porquanto o [progresso](progresso){:.d} é quase [infinito](Infinito){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2770,7 +2769,7 @@ Qual o fim objetivado com a reencarnação?
 
 O que fica sendo o [Espírito](Espírito){:.w} depois da sua última encarnação?
 
-> <span class="emoji">👻</span> ▸ Espírito bem-aventurado; puro Espírito.
+> <span class="emoji">👻</span> ▸ Espírito bem-aventurado; puro Espírito. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2790,7 +2789,7 @@ Não obraria Deus com equidade, nem de acordo com a sua bondade, se condenasse p
 
 A doutrina da reencarnação, isto é, a que consiste em admitir para o Espírito muitas existências sucessivas, é a única que corresponde à ideia que formamos da Justiça de Deus para com os homens que se acham em condição moral inferior; a única que pode explicar o futuro e firmar as nossas esperanças, pois que nos oferece os meios de resgatarmos os nossos erros por novas provações. A [razão](Razão){:.w} no-la indica e os Espíritos a ensinam.
 
-O homem, que tem [consciência](Consciência){:.w} da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência.
+O homem, que tem [consciência](Consciência){:.w} da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q619">Q.619</a><br>
@@ -2803,7 +2802,7 @@ O homem, que tem [consciência](Consciência){:.w} da sua inferioridade, haure c
 
 As nossas diversas existências corporais se verificam todas na [Terra](Terra){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não; vivemo-las em diferentes mundos. As que aqui passamos não são as primeiras, nem as últimas; são, porém, das mais materiais e das mais distantes da [perfeição](perfeição){:.d}.
+> <span class="emoji">👻</span> ▸ Não; vivemo-las em diferentes mundos. As que aqui passamos não são as primeiras, nem as últimas; são, porém, das mais materiais e das mais distantes da [perfeição](perfeição){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q985">Q.985</a>
@@ -2813,7 +2812,7 @@ As nossas diversas existências corporais se verificam todas na [Terra](Terra){:
 
 A cada nova existência corporal a [alma](Alma){:.l} passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 
-> <span class="emoji">👻</span> ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.
+> <span class="emoji">👻</span> ▸ Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 ↩️ Voltar para <a href="#q986">Q.986</a>
@@ -2823,7 +2822,7 @@ A cada nova existência corporal a [alma](Alma){:.l} passa de um mundo para outr
 
 Podemos então reaparecer muitas vezes na Terra?
 
-> <span class="emoji">👻</span> ▸ Certamente.
+> <span class="emoji">👻</span> ▸ Certamente. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2833,7 +2832,7 @@ Podemos então reaparecer muitas vezes na Terra?
 
 Podemos voltar a este, depois de termos vivido em outros mundos?
 
-> <span class="emoji">👻</span> ▸ Sem dúvida. É possível que já tenhais vivido algures e na [Terra](Terra){:.w}.
+> <span class="emoji">👻</span> ▸ Sem dúvida. É possível que já tenhais vivido algures e na [Terra](Terra){:.w}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2843,7 +2842,7 @@ Podemos voltar a este, depois de termos vivido em outros mundos?
 
 Tornar a viver na [Terra](Terra){:.w} constitui uma necessidade?
 
-> <span class="emoji">👻</span> ▸ Não; mas, se não progredistes, podereis ir para outro mundo que não valha mais do que a Terra e que talvez até seja pior do que ela.
+> <span class="emoji">👻</span> ▸ Não; mas, se não progredistes, podereis ir para outro mundo que não valha mais do que a Terra e que talvez até seja pior do que ela. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2853,7 +2852,7 @@ Tornar a viver na [Terra](Terra){:.w} constitui uma necessidade?
 
 Haverá alguma vantagem em voltar-se a habitar a [Terra](Terra){:.w}?
 
-> <span class="emoji">👻</span> ▸ Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta.
+> <span class="emoji">👻</span> ▸ Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2863,7 +2862,7 @@ Haverá alguma vantagem em voltar-se a habitar a [Terra](Terra){:.w}?
 
 Não se seria mais feliz permanecendo na condição de [Espírito](Espírito){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não, não; estacionar-se-ia e o que se quer é caminhar para [Deus](Deus){:.l}.
+> <span class="emoji">👻</span> ▸ Não, não; estacionar-se-ia e o que se quer é caminhar para [Deus](Deus){:.l}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2873,7 +2872,7 @@ Não se seria mais feliz permanecendo na condição de [Espírito](Espírito){:.
 
 Depois de haverem encarnado noutros mundos, podem os [Espíritos](Espírito){:.w} encarnar neste, sem que jamais aí tenham estado?
 
-> <span class="emoji">👻</span> ▸ Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro.
+> <span class="emoji">👻</span> ▸ Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2883,7 +2882,7 @@ Depois de haverem encarnado noutros mundos, podem os [Espíritos](Espírito){:.w
 
 Assim, homens há que estão na [Terra](Terra){:.w} pela primeira vez?
 
-> <span class="emoji">👻</span> ▸ Muitos, e em graus diversos de adiantamento.
+> <span class="emoji">👻</span> ▸ Muitos, e em graus diversos de adiantamento. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2893,7 +2892,7 @@ Assim, homens há que estão na [Terra](Terra){:.w} pela primeira vez?
 
 Pode-se reconhecer, por um [indício](indício){:.d} qualquer, que um [Espírito](Espírito){:.w} está pela primeira vez na [Terra](Terra){:.w}?
 
-> <span class="emoji">👻</span> ▸ Nenhuma utilidade teria isso.
+> <span class="emoji">👻</span> ▸ Nenhuma utilidade teria isso. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2903,7 +2902,7 @@ Pode-se reconhecer, por um [indício](indício){:.d} qualquer, que um [Espírito
 
 Para chegar à [perfeição](perfeição){:.d} e à suprema felicidade, destino final de todos os homens, tem o [Espírito](Espírito){:.w} que passar pela [fieira](fieira){:.d} de todos os mundos existentes no [Universo](Universo){:.w}?
 
-> <span class="emoji">👻</span> ▸ Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o Espírito, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau.
+> <span class="emoji">👻</span> ▸ Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o Espírito, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -2913,7 +2912,7 @@ Para chegar à [perfeição](perfeição){:.d} e à suprema felicidade, destino 
 
 Como se explica então a pluralidade de suas existências em um mesmo globo?
 
-> <span class="emoji">👻</span> ▸ De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência.
+> <span class="emoji">👻</span> ▸ De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
