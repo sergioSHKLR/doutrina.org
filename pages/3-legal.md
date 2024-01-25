@@ -1,7 +1,7 @@
 ---
 title: Avisos legais
 layout: 0-default
-version: 24.1.11
+version: 24.1.25
 ---
 
 # <span class="emoji">⚖️</span> Avisos legais

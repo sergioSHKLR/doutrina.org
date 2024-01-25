@@ -1,7 +1,7 @@
 ---
 title: O Evangelho
 layout: 3-ese
-version: 24.1.11
+version: 24.1.25
 ---
 
 *[LDE]: O Livro dos Espíritos

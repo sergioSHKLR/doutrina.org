@@ -1,110 +1,127 @@
 ---
 title: Início
 layout: 0-default
-version: 24.1.11
+version: 24.1.25
 ---
 
 <style>
-#ff-se-btn *,
-#ff-sa-btn *,
-#ff-mo-btn * { 
-    color: #aaa !important;
-}  
-
-.wrapper {border-left: 1px solid var(--border-color); border-right: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); background-color: #eeeeee10
+.wrapper {
+    border-left: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    background-color: #eeeeee10
 }
-.mySlides {display: none}
-img {vertical-align: middle;}
+
+.mySlides {
+    display: none
+}
+
+img {
+    vertical-align: middle;
+}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 90%;
-  position: relative;
-  margin: auto;
+    max-width: 90%;
+    position: relative;
+    margin: auto;
 }
 
 /* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: grey;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  margin-left: -35px;
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: grey;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    margin-left: -35px;
 }
 
 /* Position the "next button" to the right */
 .next {
-  right: -35px;
-  border-radius: 3px 0 0 3px;
+    right: -35px;
+    border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(200,200,200.8);
-  color: white;
+.prev:hover,
+.next:hover {
+    background-color: rgba(200, 200, 200.8);
+    color: white;
 }
 
 /* Caption text */
 .text {
-  color: grey;
-  font-size: 16px;
-  padding: 20px 12px;
-  position: absolute;
-  bottom: -40px;
-  width: 100%;
-  margin-left: -12px;
-  text-align: center;
-  font-family: sans-serif;
+    color: grey;
+    font-size: 16px;
+    padding: 20px 12px;
+    position: absolute;
+    bottom: -40px;
+    width: 100%;
+    margin-left: -12px;
+    text-align: center;
+    font-family: sans-serif;
 }
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: currentColor;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-  font-family: sans-serif;
+    color: currentColor;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+    font-family: sans-serif;
 }
 
 /* The dots/bullets/indicators */
 .dot {
-  cursor: pointer;
-  height: 10px;
-  width: 10px;
-  margin: 0 5px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+    margin: 0 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
-  background-color: #717171;
+.active,
+.dot:hover {
+    background-color: #717171;
 }
 
 /* Fading animation */
 .fade {
-  animation-name: fade;
-  animation-duration: 0.5s;
+    animation-name: fade;
+    animation-duration: 0.5s;
 }
 
 @keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
 }
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+
+    .prev,
+    .next,
+    .text {
+        font-size: 11px
+    }
 }
 </style>
 

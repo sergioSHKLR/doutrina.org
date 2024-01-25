@@ -1,7 +1,7 @@
 ---
 title: Informações
 layout: 0-default
-version: 24.1.11
+version: 24.1.25
 ---
 
 <style>
@@ -9,7 +9,7 @@ version: 24.1.11
      td, pre {font-family: 'Roboto Mono', monospace;}
 </style>
 
-<p><span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span></p>
+<p style="background-color: var(--body-bground); position: sticky; top: 0px; color: var(--body-color); border-bottom: 1px solid var(--border-color)"><span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span></p>
 {:.banner}
 
 # <span class="emoji">📋</span> Informações  
@@ -25,17 +25,19 @@ version: 24.1.11
 
 ## Descrição  
 
-Nosso projeto integra ferramentas dispersas numa plataforma integrada, aonde se permite a consulta de fontes externas sem que se saia da janela original. Além disso, adicionamos várias ferramentas comunmente achadas em aplicativos que abrem arquivos eBook (livro eletrônico). Estas são: dicionário, enciclopédia, ferramentas de grifo de texto (highlight), anotações, e ajustes tipográficos (tamanho de letra, espaço entre-linhas, tipo de letra, e fundo de contraste).
+Nosso projeto integra ferramentas dispersas em uma plataforma integrada, aonde se permite a consulta de fontes externas sem que se saia da janela original. Além disso, adicionamos várias ferramentas normalmente achadas em aplicativos de leitura digital (eBooks). Estas são: consulta à dicionário, consulta à enciclopédia, ferramentas de grifo de texto (highlight), anotações, e ajustes tipográficos (tamanho de letra, espaço entre-linhas, tipo de letra, e fundo de contraste).
 
 ## Livros
 
+Decidimos por utilizar os cinco livros das Obras Básicas, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas como online. Veja a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;"><span class="emoji">⚖️</span> Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
+
 ### Método  
 
-Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo. Modificações feitas são uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
+Em primeiro lugar, estabelecemos padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo. Todas as modificações são produto de uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
 
 ### Elementos  
 
-Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal de Pré-textual. Similarmente, nomeamos as seções posteriores ao conteúdo principal de Pós-textual. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
+Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal como **Pré-textual**. Similarmente, nomeamos as seções posteriores ao conteúdo principal de **Pós-textual**. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
 
 ### Obras  
 
@@ -80,7 +82,7 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
 ### Hierarquia  
 
-Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.  
+Dentro de cada livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos.  
 
 <pre class="fs-3 col2-w bg-lg">
 ❓ livro (👻, <span class="emoji">✒️</span>, <span class="emoji">🕊️</span>, <span class="emoji">🔥</span> ou <span class="emoji">🌱</span>)
@@ -94,9 +96,13 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
                 └── #️⃣ questão
 </pre>
 
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.  
+| <span class="emoji">🗃️</span> | Índice Geral | coleção de <span class="emoji">🏷️</span> _tags_ |
+| <span class="emoji">🏷️</span> | _tag_ | agrupa <span class="emoji">#️⃣</span> questões e/ou <span class="emoji">📃</span> seções por assunto |
+| <span class="emoji">⚜️</span> | fim | término de um elemento | 
 
 <!-- 
+
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.  
 
 ### Código chave  
 
@@ -169,9 +175,9 @@ Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN. -->
 
 ### Cores de realce
 
-Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.  
+Usaremos o _blockquote_ para realçar as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre o Espiritismo e a Bíblia Judaica-Cristã.  
 
-De modo a realçar certos trechos, usaremos o seguinte formato para as mensagens de origem mediúnica  
+O seguintes formato será utilizado para as mensagens de origem mediúnica  
 
 > 👻 ▸ Mensagem
 >
@@ -187,11 +193,7 @@ e este outro formato para mensagens bíblicas. Nestas, palavras de Jesus, quando
 
 Por fim, temos o seguinte formato para passagens de Kardec.
 
-<!--
-| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
-| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
-| ⚜️ | fim | término de um elemento | 
--->
+
 
 > 👴🏻 ▸ Mensagem
 >
