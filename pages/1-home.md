@@ -4,6 +4,9 @@ layout: 0-default
 version: 24.1.25
 ---
 
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Zeyada&display=swap" rel="stylesheet">
+
 <style>
 .wrapper {
     border-left: 1px solid var(--border-color);
@@ -124,6 +127,7 @@ img {
     }
 }
 </style>
+</head>
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns

@@ -221,7 +221,7 @@ function function01() {
 }
 //-------------------------------------
 function function02() {
-    localStorage.setItem("fontFamily", "Roboto Serif");
+    localStorage.setItem("fontFamily", "serif");
     var element02 = document.getElementById("col2-body");
     element02.classList.remove("ff-sans");
     element02.classList.remove("ff-mono");
@@ -229,7 +229,7 @@ function function02() {
 }
 //-------------------------------------
 function function03() {
-    localStorage.setItem("fontFamily", "sans");
+    localStorage.setItem("fontFamily", "sans-serif");
     var element03 = document.getElementById("col2-body");
     element03.classList.remove("ff-serif");
     element03.classList.remove("ff-mono");
@@ -237,7 +237,7 @@ function function03() {
 }
 //-------------------------------------
 function function04() {
-    localStorage.setItem("fontFamily", "mono");
+    localStorage.setItem("fontFamily", "monospace");
     var element04 = document.getElementById("col2-body");
     element04.classList.remove("ff-serif");
     element04.classList.remove("ff-sans");
@@ -329,7 +329,7 @@ changeBground();
 
 const EL_body3 = document.querySelector("#col2-body");
 const ELS_fontFamily = document.querySelectorAll(".fontFamily");
-localStorage.fontFamily = localStorage.fontFamily || "Inter"; // Read or default to serif
+localStorage.fontFamily = localStorage.fontFamily || "sans-serif"; // Read or default to sans-serif
 function changeFamily() {
     EL_body3.style.fontFamily = `${localStorage.fontFamily}`;
 }

@@ -46,7 +46,8 @@ html {
 
 body {
     background-color: var(--body-bground);
-    color: var(--body-color)
+    color: var(--body-color);
+    font-family: sans-serif;
 }
 
 /* ELEMENTS END */
@@ -102,7 +103,7 @@ body {
     border-right: 1px solid var(--border-color);
     box-sizing: border-box;
     height: var(--body-height);
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     font-size: 14px;
     line-height: 1.5;
     left: 0;
@@ -120,7 +121,7 @@ body {
 }
 
 #toc * {
-    font-family: 'Roboto Mono', monospace;
+    font-family: monospace;
 }
 
 #col2-head {
@@ -214,7 +215,7 @@ a#col3-dict-lnk,
 a#col3-maps-lnk,
 a#col3-vid-lnk {
     font-size: 24px;
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     text-align: center;
     vertical-align: middle;
     justify-content: center;
@@ -573,7 +574,7 @@ summary {
 }
 
 .ff-serif {
-    font-family: 'Roboto Serif', serif !important;
+    font-family: serif !important;
 }
 
 .ff-serif #col2-body>p>strong {
@@ -581,11 +582,11 @@ summary {
 }
 
 .ff-sans {
-    font-family: 'Inter', sans-serif !important
+    font-family: sans-serif !important
 }
 
 .ff-mono {
-    font-family: 'Roboto Mono', monospace !important
+    font-family: monospace !important
 }
 
 .lh-narrow {
@@ -646,7 +647,7 @@ button.tools {
 }
 
 .label {
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     font-size: 10px;
     justify-content: center;
     position: relative;
@@ -1066,7 +1067,7 @@ strong {
 }
 
 .ff-mono {
-    font-family: 'Roboto Mono'
+    font-family: monospace;
 }
 
 .fr {
@@ -1111,7 +1112,7 @@ li.toc {
     box-sizing: border-box;
     font-weight: 700;
     font-size: 16px;
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     padding-bottom: 1.5px;
 }
 
@@ -1152,7 +1153,7 @@ div#alert {
     background-color: #f8b9c6;
     color: #000;
     font-size: 11px;
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     left: 0;
     padding: 2px;
     position: absolute;
@@ -1168,7 +1169,7 @@ kbd {
     border-radius: 3px;
     color: currentColor;
     font-size: 14px;
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
     padding: 3px;
     vertical-align: middle;
     white-space: nowrap
@@ -1176,7 +1177,7 @@ kbd {
 
 p.banner {
     color: currentColor;
-    font-family: 'Inter';
+    font-family: sans-serif;
     padding: 10px;
     text-align: center
 }
@@ -1205,7 +1206,7 @@ span.emoji,
     position: relative;
     top: -15px;
     color: #666;
-    font-family: 'Inter', sans-serif;
+    font-family: sans-serif;
 }
 
 .footnotes {
@@ -1225,7 +1226,7 @@ div.footnotes {
 }
 
 pre {
-    font-family: 'Roboto Mono', sans-serif;
+    font-family: monospace
 }
 
 a:focus,

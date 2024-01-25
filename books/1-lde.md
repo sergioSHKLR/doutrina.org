@@ -18,13 +18,13 @@ version: 24.1.25
 > <br>
 > [Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l}
 >
-> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}
+> <span style="font-size: 200%;"> <span class="emoji">👻</span> [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}
 >
 > Princípios da [Doutrina Espírita](Espiritismo){:.l}
 >
-> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} (<span class="emoji">👻</span>) e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.
+> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos [Espíritos](Espírito){:.w} e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.
 >
-> por [Allan Kardec](Allan%20Kardec){:.l} (<span class="emoji">👴🏻</span>)
+> por <span style="font-family: 'Great Vibes'; font-size: 200%; text-align: right;"> <span class="emoji">👴🏻</span> <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></span>
 >
 > Tradução de [Guillon Ribeiro](Guillon_Ribeiro){:.w}
 >
@@ -442,7 +442,7 @@ A [ciência](Ciência){:.w} espírita compreende duas partes: experimental uma, 
 
 Concluamos, fazendo uma última consideração. Alguns [astrônomos](astrônomo){:.d}, sondando o espaço, encontraram, na distribuição dos corpos celestes, [lacunas](lacuna){:.d} não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja [causa](Causalidade){:.w} lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma causa. Julgando então da causa pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este [raciocínio](Raciocínio_lógico){:.w} a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a [matéria](Matéria){:.w} bruta até o homem mais inteligente. Entre o homem e [Deus](Deus){:.l}, porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A [razão](Razão){:.w} nos diz que entre o homem e Deus outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que [filosofia](Filosofia){:.w} já preencheu essa lacuna? O [Espiritismo](Espiritismo){:.l} no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os [Espíritos](Espírito){:.w} dos homens, nos diferentes graus que levam à [perfeição](Perfeição){:.w}. Tudo então se liga, tudo se encadeia, desde o [alfa até o ômega](Alfa_e_ómega){:.w}. Vós, que negais a existência dos Espíritos, cumulai o [vácuo](Vácuo){:.w} que eles ocupam. E vós, que rides deles, ousai rir das obras de Deus e da sua [onipotência](Omnipotência){:.w}! <span class="emoji">✅</span>
 
-<p class="ff-gv fs-lg" style="text-align: right;"> <span class="emoji">👴🏻</span> ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
+<p style="font-family: 'Great Vibes'; font-size: 200%; text-align: right;"> <span class="emoji">👴🏻</span> ▸ <a href="https://pt.m.wikipedia.org/wiki/Allan_Kardec">Allan Kardec</a></p>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
