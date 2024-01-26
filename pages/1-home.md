@@ -80,7 +80,8 @@ img {
     font-size: 12px;
     padding: 8px 12px;
     position: absolute;
-    top: 0;
+    bottom: -30px;
+    right: 0;
     font-family: sans-serif;
 }
 
