@@ -23,6 +23,22 @@ version: 24.1.25
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
+## Interface
+
+Lorem ipsum
+
+### Colunas
+
+Lorem ipsum
+
+### Ajustes de interface
+
+Lorem ipsum
+
+### Ajustes tipográficos
+
+Lorem ipsum
+
 ## Descrição  
 
 Nosso projeto integra ferramentas dispersas em uma plataforma integrada, aonde se permite a consulta de fontes externas sem que se saia da janela original. Além disso, adicionamos várias ferramentas normalmente achadas em aplicativos de leitura digital (eBooks). Estas são: consulta à dicionário, consulta à enciclopédia, ferramentas de grifo de texto (highlight), anotações, e ajustes tipográficos (tamanho de letra, espaço entre-linhas, tipo de letra, e fundo de contraste).
@@ -236,9 +252,6 @@ Nota de rodapé [^1]
 
 [^1]: Texto da nota de rodapé. Clique na seta para voltar ao local original da nota.
 
-
-
-
 ## Ferramentas  
 
 ### Anotador  
@@ -251,7 +264,6 @@ Nota de rodapé [^1]
 <tr><td class="center"><img src="../assets/images//hypo-b.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Mostras/esconder anotações (grifados em amarelo)</td></tr>
 <tr><td class="center"><img src="../assets/images//hypo-c.svg" style="all: unset; width: 30px; vertical-align: middle; padding: 5px"></td><td>Criar nova anotação de página</td></tr>
 </table>
-
 
 ### Ajustes  
 

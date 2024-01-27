@@ -147,7 +147,7 @@ Com admiração em outras iniciativas de educação e comunicação digital, cri
 
 ## Interface
 
-Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
+Nosso <i>layout</i> é composto de quatro colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
 
 <table style="font-family: sans-serif; font-size: 14px; background-color: #eeeeee80">
   <tbody>
@@ -155,6 +155,7 @@ Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mos
       <td>1. Menu</td>
       <td>2. Principal</td>
       <td>3. Complementar</td>
+      <td>4. Anotações</td>
     </tr>
   </tbody>
 </table>
@@ -167,37 +168,37 @@ Nosso <i>layout</i> é composto de três colunas, que são **seletivamente** mos
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="../assets/images/doutrina-column-demo-1.png" style="width:100%">
+  <img src="../assets/images/doutrina-column-demo-1b.svg" style="width:100%">
   <div class="text">Adaptação automática</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="../assets/images/doutrina-column-demo-2.png" style="width:100%">
+  <img src="../assets/images/doutrina-column-demo-2b.svg" style="width:100%">
   <div class="text">Desktop</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-  <img src="../assets/images/doutrina-column-demo-3.png" style="width:100%">
+  <img src="../assets/images/doutrina-column-demo-3b.svg" style="width:100%">
   <div class="text">Notebook</div>
 </div>
 
 <div class="mySlides fade">
     <div class="numbertext">4 / 6</div>
-    <img src="../assets/images/doutrina-column-demo-4.png" style="width:100%">
+    <img src="../assets/images/doutrina-column-demo-4b.svg" style="width:100%">
     <div class="text">Tablet</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">5 / 6</div>
-    <img src="../assets/images/doutrina-column-demo-5.png" style="width:100%">
+    <img src="../assets/images/doutrina-column-demo-5b.svg" style="width:100%">
     <div class="text">Mobile (de pé)</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">6 / 6</div>
-    <img src="../assets/images/doutrina-column-demo-6.png" style="width:100%">
+    <img src="../assets/images/doutrina-column-demo-6b.svg" style="width:100%">
     <div class="text">Mobile (deitado)</div>
   </div>
 
