@@ -29,7 +29,7 @@ Nosso projeto integra ferramentas dispersas em uma plataforma integrada, aonde s
 
 ## Livros
 
-Decidimos por utilizar os cinco livros das Obras Básicas, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas como online. Veja a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;"><span class="emoji">⚖️</span> Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
+Decidimos por utilizar os cinco livros das [Obras Básicas](Obras%20Básicas%20do%20Espiritismo){:.l}, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas como online. Veja a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;"><span class="emoji">⚖️</span> Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
 
 ### Método  
 
