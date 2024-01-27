@@ -1,7 +1,7 @@
 ---
 title: A Gênese
 layout: 5-gen
-version: 24.1.25
+version: 24.1.27
 ---
 
 *[LDE]: O Livro dos Espíritos

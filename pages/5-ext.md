@@ -1,6 +1,6 @@
 ---
 layout: ext
-version: 24.1.25
+version: 24.1.27
 ---
 
 # <span class="emoji">🪧</span> Complementar
