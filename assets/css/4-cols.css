@@ -668,7 +668,7 @@ button.tools {
 /* DARK MODE START */
 
 .dark-mode {
-    --accent-color: hsl(208, 65%, 15%);
+    --accent-color: hsl(208, 35%, 9%);
     --body-bground: #222;
     --body-color: #eee;
     --border-color: #ADADAD80;
@@ -771,7 +771,7 @@ button.tools {
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --accent-color: hsl(208, 65%, 15%);
+        --accent-color: hsl(208, 35%, 9%);
         --body-bground: #222;
         --body-color: #eee;
         --border-color: #ADADAD80;
