@@ -35,19 +35,14 @@
   ],
   "screenshots": [
     {
-      "src": "desktop.png",
-      "sizes": "1920x1080",
+      "src": "opengraph.png",
+      "sizes": "1200x630",
       "type": "image/png",
       "form_factor": "wide"
     },
   {
-      "src": "tablet.png",
-      "sizes": "768x1024",
-      "type": "image/png"
-    },
-  {
-      "src": "mobile.png",
-      "sizes": "414x896",
+      "src": "twitter.png",
+      "sizes": "1440x1440",
       "type": "image/png"
     }
   ],
