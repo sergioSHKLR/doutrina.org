@@ -7,15 +7,17 @@ version: 24.1.27
 
 ## Conteúdo
 
-Os links da coluna Principal (1) são abertos aqui (dentro das limitações técnicas, legais e éticas). Eles podem ser:
+Os links da coluna Principal podem ser:
 
-- <span class="emoji">📰</span> artigos do Wikipédia
-- <span class="emoji">📔</span> definições de palavras do Wikicionário
-- <span class="emoji">🎬</span> vídeos da Igreja de Jesus Cristo dos Santos dos Últimos Dias
-- <span class="emoji">🎬</span> vídeos do show de TV Os Escolhidos
-- <span class="emoji">🎬</span> vídeos de Bible Project (Brasil)
-- <span class="emoji">🗺️</span> mapas de OpenStreetMap (Leaflet) indicando locais citados
-- <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da Wikimedia
-- <span class="emoji">✝️</span> bíblia Almeida Revista e Corrigida, pela Sociedade Bíblica do Brasil & Bible.com
+- <span class="emoji">📰</span> artigos do [Wikipédia](https://pt.m.wikipedia.org/)
+- <span class="emoji">📰</span> artigos do Portal [Luz Espírita](https://www.luzespirita.org.br/)
+- <span class="emoji">📔</span> definições de palavras do [Wikicionário](https://pt.m.wiktionary.org/)
+- <span class="emoji">🎬</span> vídeos da [Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)
+- <span class="emoji">🎬</span> vídeos do show de TV [Os Escolhidos](https://osescolhidos.tv/)
+- <span class="emoji">🎬</span> vídeos do canal [Amigos da Luz](https://amigosdaluz.com/)
+- <span class="emoji">🎬</span> vídeos de [Bible Project](https://bibleproject.com/portugues){:target="_blank"} (Brasil)
+- <span class="emoji">🗺️</span> mapas de [OpenStreetMap](https://www.openstreetmap.org/){:target="_blank"} via [Leaflet](https://leafletjs.com/) indicando locais citados
+- <span class="emoji">🖼️</span> diagramas, ilustrações, ou pinturas representativas da [Wikimedia Commons](https://commons.wikimedia.org/)
+- <span class="emoji">✝️</span> bíblia [Almeida Revista e Corrigida](https://pt.m.wikipedia.org/wiki/Almeida_Revista_e_Corrigida), pela [Sociedade Bíblica do Brasil](https://www.sbb.org.br/) via [Bible.com](https://www.bible.com/)
 
                                                                                                                                                                                                                                                                                                                                                                             
