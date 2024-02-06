@@ -37,6 +37,8 @@ function labelOff() {
     element.classList.toggle("hide");
     var element = document.querySelector("#col3-vid-lnk > span.label");
     element.classList.toggle("hide");
+    var element = document.querySelector("#col3-back-nav > span.label");
+    element.classList.toggle("hide");
     var element = document.querySelector("#tools-menu > span");
     element.classList.toggle("hide");
     var element = document.querySelector("#decreasetext > span.label");
@@ -91,6 +93,8 @@ function labelOn() {
     var element = document.querySelector("#col3-dict-lnk > span.label");
     element.classList.toggle("hide");
     var element = document.querySelector("#col3-wiki-lnk > span.label");
+    element.classList.toggle("hide");
+    var element = document.querySelector("#col3-back-nav > span.label");
     element.classList.toggle("hide");
     var element = document.querySelector("#tools-menu > span");
     element.classList.toggle("hide");
