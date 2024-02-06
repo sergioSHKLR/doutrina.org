@@ -1,18 +1,33 @@
 ---
-title: Informações
+title: Manual
 layout: 0-default
 version: 24.1.27
 ---
 
 <style>
-     .spirit-multi, .bible-multi, .grey-multi {font-family: 'Roboto Serif', serif; }
-     td, pre {font-family: 'Roboto Mono', monospace;}
+  .spirit-multi,
+  .bible-multi,
+  .grey-multi {
+    font-family: 'Roboto Serif', serif;
+  }
+
+  td,
+  pre {
+    font-family: 'Roboto Mono', monospace;
+  }
 </style>
 
-<p style="background-color: var(--body-bground); position: sticky; top: 0px; color: var(--body-color); border-bottom: 1px solid var(--border-color)"><span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span></p>
-{:.banner}
+<!--
+<p style="
+ background-color: var(--body-bground);
+ position: sticky;
+ top: 0px;
+ color: var(--body-color);
+ border-bottom: 1px solid var(--border-color)">
+  <span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span>
+</p> {:.banner} -->
 
-# <span class="emoji">📋</span> Informações  
+# <span class="emoji">📋</span> Manual  
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
@@ -23,33 +38,57 @@ version: 24.1.27
 *[MD]: Markdown file
 *[LIV]: Abreviatura de livro
 
+## Descrição  
+
+Nosso projeto visa suprir os usuários interessados no estudo ativo da Doutrina Espírita, integrando as obras orginais numa plataforma que integra várias ferramentas, previamente dispersas. Nossos cuidados principais são:
+
+- manter a fidelidade ao conteúdo, ajustando o formato
+- ampliar o alcance da obra original com links
+- facilitar seu consumo em telas diversas
+- criar uma interface livre de elementos gráficos desnecessários ou distrações
+
+Embora o uso ideal de nossa plataforma é através de um computador de teclado (desktop, laptop ou certos tablets), esta se adapta automaticamente para telas mais estreitas (tablets e celulares) também. Este estudo pode ser invididual ou em grupo, lembrando ainda que a ferramenta de anotações permite a criação de grupos para tal.
+
 ## Interface
 
-Lorem ipsum
+A diferença principal de nossa plataforma é nossa interface em colunas. Essas permitem ao usuário navegar o conteúdo principal usando os links do sumário e visualizar mídia complementar sem se sair da tela principal, prevenindo distrações. Igualmente importante é a coluna de anotações, que facilita o estudo ativo, no qual grifos são feitos e notas são escritas. Veja mais abaixo sobre como utilizar esta ferramenta incrível.
 
 ### Colunas
 
-Lorem ipsum
+Da esquerda para a direita (dependendo da largura da sua tela), temos:
 
-### Ajustes de interface
+1. Menu - sumário da página principal e links para outras páginas
+2. Principal - conteúdo da obra original, com links para mídia complementar
+3. Complementar - mídia complementar, links da coluna Principal abrem aqui
+4. Anotações - grifos e notas relacionadas à coluna Principal (requere conta)
 
-Lorem ipsum
+#### Adaptável
+
+Nossa plataforma utiliza de regras na linguagem CSS que determinam quais colunas serão mostradas. Assim sendo, temos em telas:
+
+- extra largas, tipo desktop: 4 colunas
+- largas, tipo notebook: 3 colunas
+- médias, tipo tablet: 2 colunas
+- pequenas, tipo celular: 1 colunas
+
+Volte à pagina inicial para ver uma representação gráfica deste arranjo.
 
 ### Ajustes tipográficos
 
-Lorem ipsum
+Tomando por exemplo os aplicativos de leitura digital (eBook reader), como Kindle e similares, visamos por recriar as seguintes ferramentas:
 
-## Descrição  
-
-Nosso projeto integra ferramentas dispersas em uma plataforma integrada, aonde se permite a consulta de fontes externas sem que se saia da janela original. Além disso, adicionamos várias ferramentas normalmente achadas em aplicativos de leitura digital (eBooks). Estas são: consulta à dicionário, consulta à enciclopédia, ferramentas de grifo de texto (highlight), anotações, e ajustes tipográficos (tamanho de letra, espaço entre-linhas, tipo de letra, e fundo de contraste).
+- consulta à dicionário
+- consulta à enciclopédia
+- grifos, marcações e notas
+- ajustes tipográficos (letra, parágrafo, fundo, etc)
 
 ## Livros
 
-Decidimos por utilizar os cinco livros das [Obras Básicas](Obras%20Básicas%20do%20Espiritismo){:.l}, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas como online. Veja a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;"><span class="emoji">⚖️</span> Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
+Decidimos por utilizar os cinco livros das [Obras Básicas](Obras%20Básicas%20do%20Espiritismo){:.l}, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas, como por sua livre disponibilidade online. Consulte a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;"><span class="emoji">⚖️</span> Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
 
 ### Método  
 
-Em primeiro lugar, estabelecemos padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo. Todas as modificações são produto de uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
+Em primeiro lugar, estabelecemos padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em formato, mas em espírito. Todas as modificações são produto de uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
 
 ### Elementos  
 
@@ -209,8 +248,6 @@ e este outro formato para mensagens bíblicas. Nestas, palavras de Jesus, quando
 
 Por fim, temos o seguinte formato para passagens de Kardec.
 
-
-
 > 👴🏻 ▸ Mensagem
 >
 > Allan Kardec
@@ -305,35 +342,6 @@ Mostramos conteúdo proveniente de:
 - [Bible.com](https://www.bible.com/pt){:target="ext"}
 - [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
 - [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
-
-### Etapas de desenvolvimento
-
-|---|:---:|
-| **Fase** | **Estado** |
-| Estabelecer um padrão hierárquico, de diagramação, e de tipografia que permita seu uso através dos cinco livros distintos | 🟢 |
-| Copiar e colar cada parágrafo da obra original, utilizando-se do PDF livremente disponível no site da FEB (veja [Avisos legais](./legal.md)) | 🟢 |
-| Desenvolver uma interface que permita a leitura e consulta de fontes complementares sem que saia da janela original | 🟢 |
-| Combinar ferramentas de EAD, leitor eBook, e outros numa plataforma integrada | 🟢 |
-| Estabelecer um padrão programático para facilitar a inclusão de links no arquivo MD | 🟢 |
-| Criar um repositório de nosso código fonte para acesso de programadores afins | 🟢 |
-| Verificar que cada termo grifado em itálico no original está também grifado em nosso projeto | 🟡 |
-| Substituir numerais romanos por seus equivalentes | 🟡 |
-| Substituir Bíblia de Sacy por Almeida Revista e Corrigida | 🟡 |
-| Assinalar cada comunicação mediúnica com o padrão determinado em fase anterior | 🟡 |
-| Assinalar cada trecho bíblico com o padrão determinado em fase anterior, adicionar livro, capítulo, versículos e versão | 🟡 |
-| Adicionar links de artigos, definicões, mapas, vídeos e etc | 🟡 |
-| Estabelecer links entre partes do mesmo livro e entre livros | 🟡 |
-| Digitalizar o indíce geral de cada livro e estabelecer links | 🟡 |
-| Implementar uma licensa que permita a utilização, modificação, e tradução de nosso projeto para o mesmo sirva outras obras originais, em línguas diversas | 🟡 |
-| Criar um indíce combinado de todos os cinco livros | 🔴 |
-
-### Manutenção diária
-
-Ao decorrer do ano de 2024, estaremos adicionando links para os items relacionados acima. Nosso objetivo diário é equivalente à 7 páginas da obra original, culminando com o término de A Gênese em 31 de Dezembro.
-
-Concomitantemente, estaremos verificando cada parágrafo manualmente, verificando a ortografia e a diagramação. Itens já verificados, receberão o emoji <span class="emoji">✅</span> ao fim do mesmo.
-
-No ano de 2025, iremos nos concentrar na digitalização dos Índices gerais de cada obra. Ao fim deste, iremos criar um Índice geral combinando todas as cinco obras. Acreditamos que este compêndio será de extremo valor e conveniência para pesquisadores, palestrantes, e líderes de estudo em grupo.
 
 <script type="application/json" class="js-hypothesis-config">
 {

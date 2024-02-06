@@ -3,6 +3,20 @@ layout: ext
 version: 24.1.27
 ---
 
+<style>
+:root {
+    --link-color: #0052A3;
+}
+a {text-decoration: none;
+    color: var(--link-color)}
+
+a:any-link:hover {
+    text-decoration: underline solid var(--link-color) 1px;
+    text-underline-offset: 3px;
+    text-decoration-skip-ink: auto;
+}
+</style>
+
 # <span class="emoji">🪧</span> Complementar
 
 ## Conteúdo

@@ -175,7 +175,14 @@ body {
     width: var(--column-width);
 }
 
-#col4 {width: var(--hypo-width); height: 100vh; background-color: #eee; position: fixed; right: 0; top: 0;}
+#col4 {
+    width: var(--hypo-width);
+    height: 100vh;
+    background-color: #eee;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
 
 /* FRAMEWORK DIVS END */
 /*------------------------------------------------*/
@@ -669,7 +676,7 @@ button.tools {
 /* DARK MODE START */
 
 .dark-mode {
-    --accent-color: hsl(208, 35%, 9%);
+    --accent-color: hsl(208, 35%, 20%);
     --body-bground: #222;
     --body-color: #eee;
     --border-color: #ADADAD80;
@@ -772,7 +779,7 @@ button.tools {
 @media (prefers-color-scheme: dark) {
 
     :root {
-        --accent-color: hsl(208, 35%, 9%);
+        --accent-color: hsl(208, 35%, 20%);
         --body-bground: #222;
         --body-color: #eee;
         --border-color: #ADADAD80;
@@ -843,7 +850,10 @@ button.tools {
     #col3-head {
         padding-right: 30px
     }
-    #col4 {display: none;}
+
+    #col4 {
+        display: none;
+    }
 
 }
 
@@ -884,7 +894,9 @@ button.tools {
         width: var(--column-width)
     }
 
-    #col4 {display: none;}
+    #col4 {
+        display: none;
+    }
 
 
 }
@@ -923,7 +935,9 @@ button.tools {
         left: var(--column-width);
     }
 
-    #col4 {display: none;}
+    #col4 {
+        display: none;
+    }
 
 }
 
@@ -958,7 +972,9 @@ button.tools {
         width: var(--column-width)
     }
 
-    #col4 {display: none;}
+    #col4 {
+        display: none;
+    }
 
 }
 
