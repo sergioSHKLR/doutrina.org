@@ -11,8 +11,8 @@ a {text-decoration: none;
     color: var(--link-color)}
 
 a:any-link:hover {
-    text-decoration: underline solid var(--link-color) 1px;
-    text-underline-offset: 3px;
+    text-decoration: underline solid var(--link-color) 1.5px;
+    text-underline-offset: 1.5px;
     text-decoration-skip-ink: auto;
 }
 </style>

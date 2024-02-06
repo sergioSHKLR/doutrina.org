@@ -282,8 +282,8 @@ a#col3-back-nav {
 
 #col2-body a:any-link:hover {
     text-decoration-color: var(--link-color);
-    text-decoration: underline solid var(--link-color) 1px;
-    text-underline-offset: 3px;
+    text-decoration: underline solid var(--link-color) 1.5px;
+    text-underline-offset: 1.5px;
     text-decoration-skip-ink: auto;
 }
 
