@@ -32,3 +32,7 @@ Ao decorrer do ano de 2024, estaremos adicionando links para os items relacionad
 Concomitantemente, estaremos verificando cada parágrafo manualmente, verificando a ortografia e a diagramação. Itens já verificados, receberão o emoji <span class="emoji">✅</span> ao fim do mesmo.
 
 No ano de 2025, iremos nos concentrar na digitalização dos Índices gerais de cada obra. Ao fim deste, iremos criar um Índice geral combinando todas as cinco obras. Acreditamos que este compêndio será de extremo valor e conveniência para pesquisadores, palestrantes, e líderes de estudo em grupo.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

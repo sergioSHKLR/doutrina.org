@@ -267,6 +267,8 @@ width: 200px;
 overflow:clip !important">
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <script>
 let slideIndex = 1;
