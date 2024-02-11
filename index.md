@@ -1,7 +1,7 @@
 ---
 title: doutrina.org
 layout: splash
-version: 24.1.27
+version: 24.2.11
 ---
 
 ><br>

@@ -1,4 +1,4 @@
-/* VERSION 24.1.27 */
+/* VERSION 24.2.11 */
 
 /* VARIABLES START */
 :root {
@@ -456,8 +456,8 @@ h4 {
 }
 
 h1:before {
-    color: #ddd9;
-    content: "h1 "
+    /* color: #ddd9; */
+    /* content: "h1 " */
 }
 
 h2,
@@ -470,23 +470,27 @@ h5 {
 }
 
 h2:before {
-    color: #ddd9;
-    content: "h2 "
+    /* color: #ddd9; */
+    content: "# "
+    /* content: "h2 " */
 }
 
 h3:before {
-    color: #ddd9;
-    content: "h3 "
+    /* color: #ddd9; */
+    content: "# "
+    /* content: "h3 " */
 }
 
 h4:before {
-    color: #ddd9;
-    content: "h4 "
+    /* color: #ddd9; */
+    content: "# "
+    /* content: "h4 " */
 }
 
 h5:before {
-    color: #ddd9;
-    content: "h5 "
+    /* color: #ddd9; */
+    content: "# "
+    /* content: "h5 " */
 }
 
 h6 {
@@ -498,8 +502,9 @@ h6 {
 }
 
 h6:before {
-    color: #ddd9;
-    content: "h6 "
+    /* color: #ddd9; */
+    content: "# "
+    /* content: "h6 " */
 }
 
 /* HEADINGS END */
@@ -1139,10 +1144,9 @@ strong {
 }
 
 li.toc>a::before {
-    /*
-    content: "#" " "; */
+    content: "#" " ";
     font-weight: bold;
-    margin-left: -10px;
+    margin-left: 0px;
 }
 
 li.toc {

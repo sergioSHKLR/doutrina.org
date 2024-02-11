@@ -1,10 +1,10 @@
 ---
 title: Avisos legais
 layout: 0-default
-version: 24.1.27
+version: 24.2.11
 ---
 
-# <span class="emoji">⚖️</span> Avisos legais
+# <span class="emoji">🛡️</span> Avisos legais
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
