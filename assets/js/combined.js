@@ -419,7 +419,7 @@ for (u = 0, le = links.length; u < le; u++) {
 var links, b, le;
 links = document.getElementsByClassName('b');
 for (b = 0, le = links.length; b < le; b++) {
-    links[b].href = "https://www.bible.com/pt/bible/212/" + (links[b].pathname);
+    links[b].href = "https://www.bible.com/bible/212/" + (links[b].pathname.slice(7));
 }
 
 // HYPO ALERT -----------------------------------------------------------------
