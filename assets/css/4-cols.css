@@ -154,7 +154,7 @@ body {
 
 #col3-head {
     background-color: var(--accent-color);
-    border: none;
+    border-right: 1px solid var(--border-color);
     border-bottom: 1px solid var(--border-color);
     /* box-shadow: 0 5px 3px -3px #00000030; */
     padding: 0 20px 0 10px;
@@ -177,11 +177,27 @@ body {
 
 #col4 {
     width: var(--hypo-width);
-    height: 100vh;
+    height: 100%;
     background-color: #eee;
     position: fixed;
     right: 0;
     top: 0;
+    overflow: scroll;
+    border-left: 1px solid var(--border-color)
+}
+
+#col4>p {
+    margin: 15px 35px 15px 15px;
+    font-family: sans-serif;
+    color: #555
+}
+
+#col4> a> img {
+    width: 82%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 15px;
 }
 
 /* FRAMEWORK DIVS END */
@@ -472,25 +488,25 @@ h5 {
 h2:before {
     /* color: #ddd9; */
     content: "# "
-    /* content: "h2 " */
+        /* content: "h2 " */
 }
 
 h3:before {
     /* color: #ddd9; */
     content: "# "
-    /* content: "h3 " */
+        /* content: "h3 " */
 }
 
 h4:before {
     /* color: #ddd9; */
     content: "# "
-    /* content: "h4 " */
+        /* content: "h4 " */
 }
 
 h5:before {
     /* color: #ddd9; */
     content: "# "
-    /* content: "h5 " */
+        /* content: "h5 " */
 }
 
 h6 {
@@ -504,7 +520,7 @@ h6 {
 h6:before {
     /* color: #ddd9; */
     content: "# "
-    /* content: "h6 " */
+        /* content: "h6 " */
 }
 
 /* HEADINGS END */
