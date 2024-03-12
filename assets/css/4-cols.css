@@ -1124,6 +1124,7 @@ details>div>p>a {
 #hypo {
     align-items: center;
     background-color: #fff;
+    opacity: 1;
     border-color: #dbdbdb;
     border-radius: .25rem;
     border-style: solid;
