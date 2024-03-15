@@ -576,6 +576,7 @@ details summary::before {
     vertical-align: middle;
     transition-duration: .15s;
     transition-property: all;
+    font-size: 110%;
 }
 
 details[open] summary::before {
@@ -585,6 +586,10 @@ details[open] summary::before {
     transform: rotate(45deg);
     transition-duration: .15s;
     transition-property: all;
+    position: relative;
+    top: -.5px;
+    font-size: 110%;
+    color: crimson;
 }
 
 details,

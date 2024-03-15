@@ -143,7 +143,7 @@ img {
 
 ## Inspiração 
 
-Com admiração em outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
+Com imensa admiração por outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
 
 ## Interface
 
@@ -218,7 +218,6 @@ Nosso <i>layout</i> é composto de quatro colunas, que são **seletivamente** mo
 </div>
 </div>
 
-
 <!-- <iframe style="filter: none" src="https://docs.google.com/presentation/d/e/2PACX-1vRESbamVWKVF0_u4WuiG5c4dksBqoLB8F4JR7PYJbIKSZwUIgUilb5MtxrbbvdQpkNvtTEs_iQO0XMW/embed?start=true&loop=true&delayms=2000" frameborder="0" width="100%" height="40%%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
 Consulte a página <kbd><a href="./2-manual.html" style="text-decoration: none;"><span class="emoji">📋</span> Manual</a></kbd> para ficar a par dos padrões utilizados em nosso projeto.
@@ -233,7 +232,7 @@ Embora baseadas nas obras impressas, nossas versões foram modificadas para:
 
 Em suporte às nossas alterações, citamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do Prefácio de O Livro dos Espíritos (grifo nosso).
 
-<blockquote class="spirit" style="font-family: serif; padding: 10px 20px">
+<blockquote class="spirit" style="font-family: serif; padding: 10px 20px; font-size: 110%;">
 <span class="emoji">👻</span> … Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e <strong>se unirão por um laço fraterno</strong>, que prenderá o mundo inteiro. Estes <strong>deixarão de lado as miseráveis questões de palavras</strong>, para só se ocuparem com o que é essencial. <strong>E a Doutrina será sempre a mesma</strong> … </blockquote>
 
 ## Chat
