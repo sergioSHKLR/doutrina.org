@@ -1347,4 +1347,15 @@ button:focus {
 
 /* OTHERS END */
 
+/* solution from Fotie this will target only webkit based browsers */
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    #vert-tools {
+        overflow-x: hidden; /* This will prevent horizontal scrolling on Safari */
+  }
+#vert-tools button {
+  padding: 0px; /* This will fix the issue with centering */
+  }
+}
+
 /*------------------------------------------------*/
