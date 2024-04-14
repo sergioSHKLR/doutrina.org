@@ -47,11 +47,11 @@ Nosso projeto visa suprir os usuários interessados no estudo ativo da Doutrina 
 - facilitar seu consumo em telas diversas
 - criar uma interface livre de elementos gráficos desnecessários ou distrações
 
-Embora o uso ideal de nossa plataforma é através de um computador de teclado (desktop, laptop ou certos tablets), esta se adapta automaticamente para telas mais estreitas (tablets e celulares) também. Este estudo pode ser invididual ou em grupo, lembrando ainda que a ferramenta de anotações permite a criação de grupos para tal.
+Embora o uso ideal de nossa plataforma seja através de um computador com teclado (desktop, laptop ou certos tablets), a mesma se adapta automaticamente para telas mais estreitas (tablets e celulares). A sessão de estudo pode ser invididual ou coletiva, lembrando que a ferramenta de anotações Hypothes.is permite a seleção de compartilhamento (privada, pública, ou de grupo).
 
 ## Interface
 
-A diferença principal de nossa plataforma é nossa interface em colunas. Essas permitem ao usuário navegar o conteúdo principal usando os links do sumário e visualizar mídia complementar sem se sair da tela principal, prevenindo distrações. Igualmente importante é a coluna de anotações, que facilita o estudo ativo, no qual grifos são feitos e notas são escritas. Veja mais abaixo sobre como utilizar esta ferramenta incrível.
+Nossa plataforma se distingue pela interface em colunas. Essas permitem ao usuário navegar o conteúdo principal usando os links do sumário e visualizar mídia complementar sem sair da tela principal, prevenindo distrações e perda de concentração. Igualmente importante é a coluna de anotações, que facilita o estudo ativo, no qual grifos são feitos e notas são tomadas. Veja mais abaixo sobre como utilizar esta ferramenta incrível.
 
 ### Colunas
 
@@ -64,7 +64,7 @@ Da esquerda para a direita (dependendo da largura da sua tela), temos:
 
 #### Adaptável
 
-Nossa plataforma utiliza de regras na linguagem CSS que determinam quais colunas serão mostradas. Assim sendo, temos em telas:
+Nossa plataforma utiliza de regras automáticas que determinam quais colunas serão mostradas. Assim sendo, temos em telas:
 
 - extra largas, tipo desktop: 4 colunas
 - largas, tipo notebook: 3 colunas
@@ -80,7 +80,7 @@ Tomando por exemplo os aplicativos de leitura digital (eBook reader), como Kindl
 - consulta à dicionário
 - consulta à enciclopédia
 - grifos, marcações e notas
-- ajustes tipográficos (letra, parágrafo, fundo, etc)
+- ajustes tipográficos (letra, linhas, parágrafo, fundo, etc)
 
 ## Livros
 
@@ -232,7 +232,7 @@ Aonde LIV é substituído por LDE, LDM, ESE, CEU ou GEN. -->
 
 Usaremos o _blockquote_ para realçar as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre o Espiritismo e a Bíblia Judaica-Cristã.  
 
-O seguintes formato será utilizado para as mensagens de origem mediúnica  
+O seguinte formato será utilizado para as mensagens de origem mediúnica  
 
 > 👻 ▸ Mensagem
 >
@@ -323,6 +323,8 @@ Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, 
 <tr><td class="center"><span class="icon" style="font-size: 120%; color: red">restart_alt</span></td><td>Reverter tudo</td></tr>
  </table>  
 
+<!--
+
 ## Planejamento
 
 Nos inspiramos nos esforços de:
@@ -342,6 +344,8 @@ Mostramos conteúdo proveniente de:
 - [Bible.com](https://www.bible.com/pt){:target="ext"}
 - [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
 - [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
+
+-->
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
