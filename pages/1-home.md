@@ -230,10 +230,10 @@ Embora baseadas nas obras impressas, nossas versões foram modificadas para:
 - realçar a concordância entre a Doutrina e a Bíblia
 - facilitar o consumo digital (telas de tamanho variado)
 
-Em suporte às nossas alterações, citamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do Prefácio de O Livro dos Espíritos (grifo nosso).
+Em suporte às nossas alterações, citamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do Prefácio de O Livro dos Espíritos.
 
 <blockquote class="spirit" style="font-family: serif; padding: 10px 20px; font-size: 110%;">
-<span class="emoji">👻</span> … Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e <strong>se unirão por um laço fraterno</strong>, que prenderá o mundo inteiro. Estes <strong>deixarão de lado as miseráveis questões de palavras</strong>, para só se ocuparem com o que é essencial. <strong>E a Doutrina será sempre a mesma</strong> … </blockquote>
+<span class="emoji">👻</span> … Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma … </blockquote>
 
 ## Contato
 
