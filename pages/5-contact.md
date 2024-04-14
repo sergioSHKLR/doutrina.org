@@ -11,6 +11,8 @@ version: 24.2.11
 
 # <span class="emoji">❤️</span> Contato
 
+<!--
+
 ## Notificações
 
 Esta página lhe pedirá permissão para que possamos lhe mandar ocasionais notificações. Clique em <kbd>Sim</kbd> para consentir. Geralmente, você será notificado da adição de conteúdo novo ou correções.
@@ -20,6 +22,8 @@ O formato de tais notificações dependerá do sistema operacional do dispositiv
 Obrigado pelo seu interesse e permissão!
 
 ---
+
+-->
 
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAwX4nigTYKmV-IhIzlhwayQm7PRwIkny8zG6HYLTmA2ZvCQ/viewform?embedded=true"  width="100%" height="80%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
