@@ -235,12 +235,6 @@ Em suporte às nossas alterações, citamos aqui uma mensagem mediúnica, de vá
 <blockquote class="spirit" style="font-family: serif; padding: 10px 20px; font-size: 110%;">
 <span class="emoji">👻</span> … Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e <strong>se unirão por um laço fraterno</strong>, que prenderá o mundo inteiro. Estes <strong>deixarão de lado as miseráveis questões de palavras</strong>, para só se ocuparem com o que é essencial. <strong>E a Doutrina será sempre a mesma</strong> … </blockquote>
 
-## Chat
-
-Caso precise de assistência imediata, entre em contato utilizando o botão azul do chat.
-
-<!-- <img src="../assets/images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;"> -->
-
 ## Contato
 
 Por fim, ficaríamos gratos com seus:
@@ -250,6 +244,12 @@ Por fim, ficaríamos gratos com seus:
 - correções
 
 Utilize a página <kbd><a href="./5-contact.html" style="text-decoration: none;"><span class="emoji">❤️</span> Contato</a></kbd> para tais fins.
+
+## Chat
+
+Caso precise de assistência imediata, entre em contato utilizando o botão azul do chat.
+
+<!-- <img src="../assets/images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;"> -->
 
 ---
 
