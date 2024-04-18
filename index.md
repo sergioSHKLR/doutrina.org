@@ -13,9 +13,5 @@ version: 24.2.11
 ><br>
 {:.note}
 
- <small>Uma plataforma inédita e sem paralelo, facilitando o estudo integrado e sem distrações.
-<br><br>
-Lançamento em 18-Abr-2024, às 09:00 (horário de Houston, TX, EUA)<br>
- (em <span id="demo"></span>)</small>
  <br>
  {:.banner}

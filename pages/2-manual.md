@@ -345,6 +345,28 @@ Mostramos conteúdo proveniente de:
 - [A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por){:target="ext"}
 - [O Escolhido, Série](https://osescolhidos.tv/){:target="ext"}
 
+
+|  | Livro impresso | PDF no seu PC | PDF online | eBook (Kindle, etc) | Livro online | doutrina.org
+|--|--|--|--|--|--|--|
+| Cópia física | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Marcações | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 |  
+| Grifos | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 |  |
+| Comentários | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 |  |
+| Discussões | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 |  |
+| Sincronização | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 |  |
+| Consulta enciclopédia | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 |  |
+| Consulta dicionário | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 |  |
+| Ajustes de texto | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 |  |
+| Compartilhamento | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 |  |
+| Cores | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+| Ilustrações | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+| Artigos | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+| Vídeos | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+| Mapas | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+| Consulta bíblia | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+| Modo escuro | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |🟢  |  |
+| Interface única | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 |  |
+
 -->
 
 <p>&nbsp;</p>
