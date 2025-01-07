@@ -22,7 +22,7 @@ version: 24.2.11
 >
 > Princípios da [Doutrina Espírita](Espiritismo){:.l}
 >
-> Sobre a imortalidade da [alma](Alma){:.l}, a natureza dos Espíritos e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.
+> Sobre a [imortalidade](imortal){:.d} da [alma](Alma){:.l}, a [natureza](natureza){:.d} dos Espíritos e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o porvir da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](Mediunidade){:.w}.
 >
 > por <span style="font-family: 'Great Vibes'; font-size: 200%; text-align: right;"> <span class="emoji">👴🏻</span> <a href="https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Allan%20Kardec">Allan Kardec</a></span>
 >
@@ -54,7 +54,7 @@ As comunicações entre o mundo espírita e o mundo corpóreo estão na ordem na
 
 Os Espíritos anunciam que chegaram os tempos marcados pela [Providência](Divina_Providência){:.w} para uma manifestação universal e que, sendo eles os ministros de [Deus](Deus){:.l} e os agentes de sua [vontade](vontade){:.d}, têm por missão instruir e esclarecer os homens, abrindo uma nova era para a [regeneração](regenerar){:.d} da [Humanidade](Sociedade){:.w}.
 
-Este livro é o [repositório](repositório){:.d} de seus ensinos. Foi escrito por ordem e mediante ditado de Espíritos superiores, para estabelecer os fundamentos de uma [filosofia](Filosofia){:.w} racional, isenta dos [preconceitos](preconceito){:.d} do espírito de sistema. Nada contém que não seja a expressão do pensamento deles e que não tenha sido por eles examinado. Só a ordem e a distribuição [metódica](método){:.d} das matérias, assim como as notas e a forma de algumas partes da redação, constituem obra daquele que recebeu a missão de os publicar.
+Este livro é o [repositório](repositório){:.d} de seus ensinos. Foi escrito por ordem e mediante ditado de Espíritos superiores, para estabelecer os fundamentos de uma [filosofia](Filosofia){:.w} racional, [isenta](isento){:.d} dos [preconceitos](preconceito){:.d} do espírito de sistema. Nada contém que não seja a expressão do pensamento deles e que não tenha sido por eles examinado. Só a ordem e a distribuição [metódica](método){:.d} das matérias, assim como as notas e a forma de algumas partes da redação, constituem obra daquele que recebeu a missão de os publicar.
 
 No número dos Espíritos que concorreram para a execução desta obra, muitos se contam que viveram, em épocas diversas, na [Terra](Terra){:.w}, onde pregaram e praticaram a [virtude](Virtude){:.w} e a [sabedoria](Sabedoria){:.w}. Outros, pelos seus nomes, não pertencem a nenhuma personagem, cuja lembrança a [História](História){:.w} guarde, mas cuja elevação é atestada pela pureza de seus ensinamentos e pela união em que se acham com os que usam de nomes [venerados](venerado){:.d}.
 
