@@ -225,7 +225,7 @@ Vamos resumir, em poucas palavras, os pontos principais da [Doutrina](Espiritism
 {:start="10"}
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos [instintos](instinto){:.d} lhe são comuns; pela alma, participa da natureza dos Espíritos;
 
-11. o laço ou **perispírito**, que prende ao corpo o Espírito, é uma espécie de [envoltório](envoltório){:.d} semimaterial. A [morte](Morte){:.w} é a destruição do [invólucro](invólucro){:.d} mais grosseiro. O Espírito conserva o segundo, que lhe constitui um corpo [[etéreo](etéreo){:.d}]([etéreo](etéreo){:.d}){:.d}, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo [tangível](tangível){:.d}, como sucede no [fenômeno](Fenómeno){:.w} das [aparições](aparição){:.d};
+11. o laço ou **perispírito**, que prende ao corpo o Espírito, é uma espécie de [envoltório](envoltório){:.d} semimaterial. A [morte](Morte){:.w} é a destruição do [invólucro](invólucro){:.d} mais grosseiro. O Espírito conserva o segundo, que lhe constitui um corpo [etéreo](etéreo){:.d}, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo [tangível](tangível){:.d}, como sucede no [fenômeno](Fenómeno){:.w} das [aparições](aparição){:.d};
 12. o Espírito não é, pois, um ser [abstrato](abstrato){:.d}, indefinido, só possível de conceber-se pelo pensamento. É um ser real, [circunscrito](circunscrito){:.d}, que, em certos casos, se torna apreciável **pela vista**, **pelo ouvido** e **pelo tato**;
 13. os Espíritos pertencem a diferentes classes e não são iguais, nem em poder, nem em [inteligência](Inteligência){:.w}, nem em saber, nem em [moralidade](Moral){:.w}. Os da primeira ordem são os Espíritos superiores, que se distinguem dos outros pela sua [perfeição](perfeição){:.d}, seus conhecimentos, sua proximidade de [Deus](Deus){:.l}, pela pureza de seus sentimentos e por seu [amor](Amor){:.w} do [bem](Bem){:.l}: são os [anjos](Anjo){:.w} ou puros Espíritos. Os das outras classes se acham cada vez mais distanciados dessa [perfeição](perfeição){:.d}, mostrando-se os das categorias inferiores, na sua maioria, [eivados](eivado){:.d} das nossas paixões: o [ódio](ódio){:.d}, a [inveja](inveja){:.d}, o [ciúme](ciúme){:.d}, o [orgulho](Orgulho){:.w} etc. Comprazem-se no [mal](Mal){:.w}. Há também, entre os inferiores, os que não são nem muito bons nem muito maus, antes perturbadores e [enredadores](enredar){:.d}, do que [perversos](perverso){:.d}. A [malícia](malícia){:.d} e as [inconsequências](inconsequência){:.d} parecem ser o que neles predomina. São os Espíritos [estúrdios](estúrdio){:.d} ou [levianos](leviano){:.d};
 14. os Espíritos não ocupam [perpetuamente](perpetuamente){:.d} a mesma categoria. Todos se melhoram passando pelos diferentes graus da [hierarquia](hierarquia){:.d} espírita. Esta melhora se efetua por meio da [encarnação](Encarnação){:.w}, que é imposta a uns como [expiação](Expiação){:.l}, a outros como missão. A vida material é uma prova que lhes cumpre sofrer repetidamente, até que hajam atingido a absoluta [perfeição](perfeição){:.d} [moral](Moral){:.w};
@@ -301,7 +301,7 @@ Que respondem a essa [evidência](evidência){:.d} os [antagonistas](antagonista
 Dizem então que, se não há [fraude](fraude){:.d}, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a [Doutrina Espírita](Espiritismo){:.l} , que já conta milhões de adeptos, só os recruta entre os ignorantes? Os [fenônemos](fenómeno){:.w} em que ela se baseia são tão [extraordinários](extraordinário){:.d} que concebemos a existência da dúvida. O que, porém, não podemos admitir é a [pretensão](pretensão){:.d} de alguns [incrédulos](incrédulo){:.d}, a de terem o [monopólio](monopólio){:.d} do [bom senso](bom_senso){:.d} e que, sem guardarem as conveniências e respeitarem o valor [moral](Moral){:.w} de seus adversários, tachem, com [desplante](desplante){:.d}, de [ineptos](inepto){:.d} os que lhes não seguem o parecer. Aos olhos de qualquer pessoa [judiciosa](judicioso){:.d}, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma [presunção](presunção){:.d}, no mínimo, a seu favor, visto ter [logrado](lograr){:.d} prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com [futilidades](futilidade){:.d}. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Autenticidade, [fenômeno](Fenómeno){:.w} espírita e <a href="#autenticidade">↩️</a>
+<span class="emoji">🏷️</span> Autenticidade, fenómeno espírita e <a href="#autenticidade">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Intro 10 {#lde-0-03-10}
@@ -370,7 +370,7 @@ Não sendo [lícito](lícito){:.d} provocarem-se os fatos, tem-se que esperar qu
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da [divergência](divergência){:.d} que se nota na linguagem dos Espíritos.
 
-[Diferindo](diferir){:.d} estes muito uns dos outros, do ponto de vista dos conhecimentos e da [[moralidade](Moral){:.w}]([moralidade](Moral){:.w}){:.d}, é evidente que uma questão pode ser por eles resolvida em sentidos opostos, conforme a categoria que ocupam, exatamente como sucederia, entre os homens, se a propusessem ora a um [sábio](sábio){:.d}, ora a um ignorante, ora a um [gracejador](gracejo){:.d} de mau gosto. O ponto essencial, temo-lo dito, é sabermos a quem nos dirigimos.
+[Diferindo](diferir){:.d} estes muito uns dos outros, do ponto de vista dos conhecimentos e da [moralidade](Moral){:.w}, é evidente que uma questão pode ser por eles resolvida em sentidos opostos, conforme a categoria que ocupam, exatamente como sucederia, entre os homens, se a propusessem ora a um [sábio](sábio){:.d}, ora a um ignorante, ora a um [gracejador](gracejo){:.d} de mau gosto. O ponto essencial, temo-lo dito, é sabermos a quem nos dirigimos.
 
 Mas, ponderam, como se explica que os tidos por Espíritos de ordem superior nem sempre estejam de acordo? Diremos, em primeiro lugar, que, independentemente da [causa](Causalidade){:.w} que vimos de assinalar, outras há de molde a exercerem certa influência sobre a natureza das respostas, abstração feita da [probidade](probidade){:.d} dos Espíritos. Este é um ponto capital, cuja explicação alcançaremos pelo estudo. Por isso é que dizemos que estes estudos requerem atenção demorada, observação profunda e, sobretudo, como aliás o exigem todas as ciências humanas, continuidade e [perseverança](perseverança){:.d}. Anos são precisos para formar-se um médico [medíocre](medíocre){:.d} e três quartas partes da vida para chegar-se a ser um [sábio](sábio){:.d}. Como pretender-se em algumas horas adquirir a [Ciência](Ciência){:.w} do Infinito! Ninguém, pois, se iluda: o estudo do [Espiritismo](Espiritismo){:.l} é imenso; interessa a todas as questões da [metafísica](Metafísica){:.w} e da ordem social; é um mundo que se abre diante de nós. Será de admirar que o efetuá-lo demande [tempo](Tempo){:.w}, muito tempo mesmo?
 
@@ -698,7 +698,7 @@ Por essas comunicações é que o homem adquire, dentro de certos limites, o con
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
 </details>
 
-#### <span class="emoji">📄</span> Espírito e [matéria](Matéria) {:.w} {#lde-1-02-02}
+#### <span class="emoji">📄</span> Espírito e Matéria {#lde-1-02-02}
 
 ###### Q.21 {#q21}
 
@@ -826,7 +826,7 @@ A essa [inteligência](Inteligência){:.w} suprema é que chamamos [Deus](Deus){
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
 </details>
 
-#### <span class="emoji">📄</span> Propriedades da [matéria](Matéria) {:.w} {#lde-1-02-03}
+#### <span class="emoji">📄</span> Propriedades da Matéria {#lde-1-02-03}
 
 ###### Q.29 {#q29}
 
@@ -2642,9 +2642,9 @@ Em caso de [morte](Morte){:.w} violenta e acidental, quando os órgãos ainda n�
 
 Após a [decapitação](Decapitação){:.w}, por exemplo, conserva o homem por alguns instantes a [consciência](Consciência){:.w} de si mesmo?
 
-> <span class="emoji">👻</span> ▸ Não raro a conserva durante alguns minutos, até que a vida orgânica se tenha extinguido completamente. Mas, também, quase sempre a [apreensão](apreensão){:.d} da [morte](Morte){:.w} lhe faz perder aquela consciência{:.w} antes do momento do [suplício](suplício){:.d}.
+> <span class="emoji">👻</span> ▸ Não raro a conserva durante alguns minutos, até que a vida orgânica se tenha extinguido completamente. Mas, também, quase sempre a [apreensão](apreensão){:.d} da [morte](Morte){:.w} lhe faz perder aquela consciência antes do momento do [suplício](suplício){:.d}.
 
-Trata-se aqui da consciência{:.w} que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência{:.w} antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o [perispírito](Perispírito){:.w} esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da [extinção](extinção){:.d} [gradual](gradual){:.d} das forças vitais, mais **tenazes** os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo. <span class="emoji">✅</span>
+Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o [perispírito](Perispírito){:.w} esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da [extinção](extinção){:.d} [gradual](gradual){:.d} das forças vitais, mais **tenazes** os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo. <span class="emoji">✅</span>
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -5676,7 +5676,7 @@ De que modo a alteração do cérebro reage sobre o Espírito depois da [morte](
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
 </details>
 
-#### <span class="emoji">📄</span> A [infância](infância) {:.d} {#lde-2-07-06}
+#### <span class="emoji">📄</span> A infância {#lde-2-07-06}
 
 ###### Q.379 {#q379}
 
@@ -5818,7 +5818,7 @@ A antipatia instintiva é sempre sinal de natureza má?
 > <span class="emoji">👻</span> ▸ De não simpatizarem um com o outro, não se segue que dois Espíritos sejam necessariamente maus. A antipatia, entre eles, pode derivar de diversidade no modo de pensar. À proporção, porém, que se forem elevando, essa divergência irá desaparecendo e a antipatia deixará de existir.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antipatia, instintiva e retardamento na chegada à [perfeição](perfeição){:.d} <a href="#antipatia">↩️</a>
+<span class="emoji">🏷️</span> Antipatia, instintiva e retardamento na chegada à perfeição <a href="#antipatia">↩️</a>
 </details>
 
 ###### Q.391 {#q391}
@@ -5828,7 +5828,7 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior Espírito, ou na q
 > <span class="emoji">👻</span> ▸ Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um Espírito mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em [ódio](ódio){:.d}, em [inveja](Inveja){:.w} e lhe inspira o desejo de praticar o mal. O bom Espírito sente [repulsão](repulsão){:.d} pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Antipatia, [causa](Causalidade){:.w} e efeitos da <a href="#antipatia">↩️</a>
+<span class="emoji">🏷️</span> Antipatia, causa e efeitos da <a href="#antipatia">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Esquecimento do passado {#lde-2-07-08}
@@ -8341,7 +8341,7 @@ Que pensais da divisão da [Natureza](Natureza){:.w} em três reinos, ou melhor,
 
 > <span class="emoji">👻</span> ▸ Todas são boas, conforme o ponto de vista. Do ponto de vista material, apenas há seres orgânicos e inorgânicos. Do ponto de vista [moral](Moral){:.w}, há evidentemente quatro graus.
 
-Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A [matéria](Matéria){:.w} [inerte](inerte){:.d}, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de [matéria](Matéria){:.w} [inerte](inerte){:.d}, são dotadas de [vitalidade](vitalidade){:.d}. Os animais, também compostos de [matéria](Matéria){:.w} [inerte](inerte){:.d} e igualmente dotados de vitalidade, possuem, além disso, uma espécie de [inteligência](Inteligência){:.w} instintiva, limitada, e a [consciência](Consciência){:.w} de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma [inteligência](Inteligência){:.w} especial, indefinida, que lhe dá a consciência{:.w} do seu futuro, a percepção das coisas extra-materiais e o conhecimento de [Deus](Deus){:.l}.
+Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A [matéria](Matéria){:.w} [inerte](inerte){:.d}, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de [matéria](Matéria){:.w} [inerte](inerte){:.d}, são dotadas de [vitalidade](vitalidade){:.d}. Os animais, também compostos de [matéria](Matéria){:.w} [inerte](inerte){:.d} e igualmente dotados de vitalidade, possuem, além disso, uma espécie de [inteligência](Inteligência){:.w} instintiva, limitada, e a [consciência](Consciência){:.w} de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma [inteligência](Inteligência){:.w} especial, indefinida, que lhe dá a consciência do seu futuro, a percepção das coisas extra-materiais e o conhecimento de [Deus](Deus){:.l}.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -8374,7 +8374,7 @@ Independe da [vontade](Vontade){:.w} delas a força que as atrai umas para as ou
 > <span class="emoji">👻</span> ▸ Certo, porquanto não pensam. É uma força mecânica da matéria, que atua sobre a matéria, sem que elas possam a isso opor-se.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Automatismo, [matéria](Matéria){:.w} e <a href="#automatismo">↩️</a>
+<span class="emoji">🏷️</span> Automatismo, matéria e <a href="#automatismo">↩️</a>
 </details>
 
 ###### Q.589 {#q589}
@@ -8502,7 +8502,7 @@ Será esse princípio uma [alma](Alma){:.l} semelhante à do homem?
 
 Após a [morte](Morte){:.w}, conserva a [alma](Alma){:.l} dos animais a sua [individualidade](individualidade){:.d} e a [consciência](Consciência){:.w} de si mesma?
 
-> <span class="emoji">👻</span> ▸ Conserva sua individualidade; quanto à consciência{:.w} do seu eu, não. A vida [inteligente](Inteligência){:.w} lhe permanece em estado [latente](latente){:.d}.
+> <span class="emoji">👻</span> ▸ Conserva sua individualidade; quanto à consciência do seu eu, não. A vida [inteligente](Inteligência){:.w} lhe permanece em estado [latente](latente){:.d}.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> Animais, individualidade e <a href="#animais">↩️</a>
@@ -8728,7 +8728,7 @@ As diferentes espécies de animais não procedem **intelectualmente** umas das o
 Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de [Deus](Deus){:.l}, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso [progresso](progresso){:.d} e sobre as quais seria inútil determo-nos.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Alma, [metempsicose](Metempsicose){:.l} e evolução da <a href="#alma">↩️</a>
+<span class="emoji">🏷️</span> Alma, metempsicose e evolução da <a href="#alma">↩️</a>
 </details>
 
 ## 3. <span class="emoji">🗃️</span> Leis Morais {#lde-3}
@@ -9257,7 +9257,7 @@ Têm, perante [Deus](Deus){:.l}, algum [mérito](mérito){:.d} os que se consagr
 <span class="emoji">🏷️</span> Adoração, lei de <a href="#adoracao">↩️</a>
 </details>
 
-#### <span class="emoji">📄</span> A [prece](Prece) {:.l} {#lde-3-02-04}
+#### <span class="emoji">📄</span> A prece {#lde-3-02-04}
 
 ###### Q.658 {#q658}
 
@@ -11551,7 +11551,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 
 Será a liberdade de [consciência](Consciência){:.w} uma consequência da de pensar?
 
-> <span class="emoji">👻</span> ▸ A consciência{:.w} é um pensamento íntimo, que pertence ao homem, como todos os outros pensamentos.
+> <span class="emoji">👻</span> ▸ A consciência é um pensamento íntimo, que pertence ao homem, como todos os outros pensamentos.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
 <span class="emoji">🏷️</span> *em construção* <a href="#term">↩️</a>
@@ -11991,7 +11991,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 ↩️ Voltar para <a href="#q917">Q.917</a>
 </details>
 
-### 3-11. <span class="emoji">🗂️</span> Lei de justiça, de amor, e de [caridade](caridade) {:.l} {#lde-3-11}
+### 3-11. <span class="emoji">🗂️</span> Lei de justiça, de amor, e de caridade {#lde-3-11}
 
 #### <span class="emoji">📄</span> Justiça e direitos naturais {#lde-3-11-01}
 
@@ -12445,7 +12445,7 @@ Alguns autores hão publicado belíssimas obras de grande [moral](Moral){:.w}, q
 
 Será passível de censura o homem, por ter [consciência](Consciência){:.w} do [bem](Bem){:.l} que faz e por confessá-lo a si mesmo?
 
-> <span class="emoji">👻</span> ▸ Pois que pode ter consciência{:.w} do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de [Deus](Deus){:.l} e, sobretudo, na da lei de justiça, [amor](Amor){:.w} e [caridade](Caridade){:.l}, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus [pendores](pendor){:.d} e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta.
+> <span class="emoji">👻</span> ▸ Pois que pode ter consciência do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de [Deus](Deus){:.l} e, sobretudo, na da lei de justiça, [amor](Amor){:.w} e [caridade](Caridade){:.l}, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus [pendores](pendor){:.d} e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
  <span class="emoji"> 👉 </span>  Veja <a href="#q919">Q.919</a>
@@ -13162,7 +13162,7 @@ Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
  <span class="emoji"> 👉 </span>  Veja <a href="#q934">Q.934</a> e seguintes.<br>
 ↩️ Voltar para <a href="#q934">Q.934</a><br>
-<span class="emoji">🏷️</span> Além-túmulo, [suicídio](Suicídio){:.w} e falso entendimento das relações no <a href="#alem-tumulo">↩️</a>
+<span class="emoji">🏷️</span> Além-túmulo, suicídio e falso entendimento das relações no <a href="#alem-tumulo">↩️</a>
 </details>
 
 ###### Q.957 {#q957}
@@ -13297,7 +13297,7 @@ Têm alguma coisa de material as penas e gozos da [alma](Alma){:.l} depois da [m
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
  <span class="emoji"> 👉 </span>  Veja <a href="#q237">Q.237</a> a <a href="#q257">Q.257</a><br>
-<span class="emoji">🏷️</span> Alma, [matéria](Matéria){:.w} e <a href="#alma">↩️</a><br>
+<span class="emoji">🏷️</span> Alma, matéria e <a href="#alma">↩️</a><br>
 <span class="emoji">🏷️</span> Alma, sensações da <a href="#alma">↩️</a>
 </details>
 
@@ -13887,7 +13887,7 @@ Assim, as penas impostas jamais o são por toda a [eternidade](Eternidade){:.w}?
 > Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo [moral](Moral){:.w} ( <span class="emoji"> 👉 </span>  Veja [Q.974](#q974)). Os que têm acompanhado, como nós, as [peripécias](peripécia){:.d} da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a [religião](Religião){:.l} admitir esta interpretação, assim como algumas outras também decorrentes do [progresso](progresso){:.d} das luzes, muitas ovelhas desgarradas reunirá.
 
 <details class="links"><summary><span class="emoji" title="Itens relacionados">🔗</span></summary><br>
-<span class="emoji">🏷️</span> Agostinho, [eternidade](eternidade){:.d} das penas <a href="#agostinho">↩️</a>
+<span class="emoji">🏷️</span> Agostinho, eternidade das penas <a href="#agostinho">↩️</a>
 </details>
 
 #### <span class="emoji">📄</span> Ressurreição da carne
