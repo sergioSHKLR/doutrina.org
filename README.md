@@ -40,6 +40,8 @@ Este projeto é uma combinação de ferramentas achadas em plataformas distintas
 
 ## 🥼 Voluntários
 
+##### A maior parte deste README foi criada por @JLeoBRx
+
 Como não tenho formação profissional, meu conhecimento provém exclusivamente de ser um auto-didata e de muitos erros e acertos no decorrer deste projeto. No momento, necessito de voluntários com conhecimentos específicos para que possamos efetuar as seguintes melhorias:
 
 1️. Análise de Código & Conformidade
