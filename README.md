@@ -152,7 +152,7 @@ O site estará acessível em:
 
 [http://localhost:4000/](http://localhost:4000/)
 
-> Os scripts z1.sh e z2.sh foram criados para brevidade e economia de *keystrokes* mas não são de uso requerido. 
+> Os scripts z1.sh, z2.sh e z3.sh foram criados para brevidade e economia de *keystrokes* mas não são de uso requerido. 
 
 #### 📌 Tecnologias Utilizadas
 
