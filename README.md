@@ -154,7 +154,7 @@ O site estará acessível em:
 
 [http://localhost:4000/](http://localhost:4000/)
 
-> Os scripts z1.sh, z2.sh e z3.sh foram criados para brevidade e economia de *keystrokes* mas não são de uso requerido. 
+> Os scripts z1.sh, z2.sh e z3.sh foram criados para brevidade e economia de *keystrokes* em Linux mas não funcionarão em Windows. 
 
 #### 📌 Tecnologias Utilizadas
 
@@ -182,7 +182,75 @@ O site estará acessível em:
 
 E mais! (use bundle list para ver todas)
 
-Se precisar de ajuda, abra uma [issue](https://github.com/sergioSHKLR/doutrina.org/issues) no repositório! 🚀
+## 🎲 Clone Local (Chromebook)
 
+Comece por garantir que seu sistema está atualizado rodando o comando abaixo.
+
+```
+sudo apt update && sudo apt upgrade -y
+```
+
+Se você não tiver Ruby instalado, instale agora:
+
+```
+sudo apt-get install ruby-full build-essential zlib1g-dev -y
+```
+```
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+```
+```
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+```
+```
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+```
+```
+source ~/.bashrc
+```
+
+Se não tiver Jekyll, instale agora via Bundler
+
+```
+gem install jekyll bundler
+```
+
+Se não tiver VSCode instalado, instale a dependência abaixo:
+
+```
+sudo apt install gnome-keyring -y
+```
+
+Baixar VSCode .deb file [link](https://code.visualstudio.com/docs/?dv=linux64_deb)
+
+Após a instalação, configure seu username e email antes de logar no Github e clonar o repositório.
+
+```
+git config --global user.name "user.name"
+```
+> [!NOTE]
+> Substitua "user.name" pelo seu nome de usuário atual no Github
+```
+git config --global user.email "user.name@example.com"
+```
+> [!NOTE]
+> Substitua "user.name@example.com" pelo seu email atual no Github
+
+Faça o login no Github através do VScode e clone o repo para o seu disco, na pasta escolhida.
+
+Depois disso, abra duas abas de terminal e rode os dois scripts abaixo:
+
+```
+sudo ./z1.sh
+```
+Este irá rodar o SSG e criar HTML a partir dos arquivos MD.
+
+```
+sudo ./z2.sh
+```
+Este irá servir o site localmente e mostrar o link.
+
+A partir disso, crie um fork ou submita suas contribuições para que possa ser adicionados ao main branch.
+
+Se precisar de ajuda, abra uma [issue](https://github.com/sergioSHKLR/doutrina.org/issues) no repositório! 🚀
 
 Mais uma vez, grato pela sua contribuição!
