@@ -10,7 +10,6 @@ TABELA DE CONTEÚDO
    * [🥼 Voluntários](#-voluntários)
    * [🎲 Clone Local (Windows)](#-clone-local-windows)
       + [📌 Requisitos necessários](#-requisitos-necessários)
-            * [🔹 Verificar versões instaladas:](#-verificar-versões-instaladas)
          - [📥 Clonando o Repositório](#-clonando-o-repositório)
          - [🔧 Instalando as Dependências](#-instalando-as-dependências)
          - [🚀 Executando o Servidor Local](#-executando-o-servidor-local)
