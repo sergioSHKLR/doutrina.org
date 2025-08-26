@@ -1,23 +1,27 @@
-# Tabela de Conteúdo
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [🫱🏻‍🫲🏼 Bem-vindo](#-bem-vindo)
-  - [👔 Apresentação](#-apresentação)
-  - [🏗️ Estrutura](#-estrutura)
-  - [🥼 Voluntários](#-voluntários)
-  - [🎲 Clone Local (Windows)](#-clone-local-windows)
-    - [📌 Requisitos necessários](#-requisitos-necessários)
-        - [🔹 Verificar versões instaladas:](#-verificar-versões-instaladas)
-      - [📥 Clonando o Repositório](#-clonando-o-repositório)
-      - [🔧 Instalando as Dependências](#-instalando-as-dependências)
-      - [🚀 Executando o Servidor Local](#-executando-o-servidor-local)
-      - [📌 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-      - [💎 Gems utilizadas:](#-gems-utilizadas)
-  - [🎲 Clone Local (Chromebook)](#-clone-local-chromebook)
+   * [👔 Apresentação](#-apresentação)
+   * [🏗️ Estrutura](#-estrutura)
+   * [🥼 Voluntários](#-voluntários)
+   * [🎲 Clone Local (Windows)](#-clone-local-windows)
+      + [📌 Requisitos necessários](#-requisitos-necessários)
+            * [🔹 Verificar versões instaladas:](#-verificar-versões-instaladas)
+         - [📥 Clonando o Repositório](#-clonando-o-repositório)
+         - [🔧 Instalando as Dependências](#-instalando-as-dependências)
+         - [🚀 Executando o Servidor Local](#-executando-o-servidor-local)
+         - [📌 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+         - [💎 Gems utilizadas:](#-gems-utilizadas)
+   * [🎲 Clone Local (Chromebook)](#-clone-local-chromebook)
 
+<!-- TOC end -->
+
+<!-- TOC --><a name="-bem-vindo"></a>
 # 🫱🏻‍🫲🏼 Bem-vindo
 
 Agradeço muito a sua visita. Espero que fique e contribua. Deus nos paga por todos os atos que fazemos em Seu nome. Amém.
 
+<!-- TOC --><a name="-apresentação"></a>
 ## 👔 Apresentação
 
 Este projeto é uma combinação de ferramentas achadas em plataformas distintas de leitura & ensino e refletem todos os métodos nos quais me esforcei em utilizar. Para exemplificar:
@@ -36,6 +40,7 @@ Passei então a criar uma estrutura de site que facilitaria o consumo digital do
 
 Manualmente, copiei e colei cada parágrafo do PDF disponibilizado pela FEB para compor os longos arquivos MD que formam cada livro. Depois de reformatar cada um de acordo com o padrão de estilo e diagramação nosso (cores, tipos, símbolos, etc), começo o trabalho de incluir links para artigos externos, sequencialmente, do LDE ao GEN.
 
+<!-- TOC --><a name="-estrutura"></a>
 ## 🏗️ Estrutura
 
 Depois de longas e exaustivas tentativas de encontrar o mais perfeito SSG (Static Site Generator), acabei por me decidir em usar o Jekyll pela sua popularidade e simplicidade.
@@ -51,6 +56,7 @@ Depois de longas e exaustivas tentativas de encontrar o mais perfeito SSG (Stati
 
 A aplicação que uso para codificar é o VSCODE principalmente mas com auxílio de várias outras ferramentas online e de criação minha. Tenho tentado manter o código bem simples e limpo mas sei que devo estar defasado em muitos aspectos.
 
+<!-- TOC --><a name="-voluntários"></a>
 ## 🥼 Voluntários
 
 > A maior parte deste README foi criada por @JLeoBRx
@@ -78,8 +84,10 @@ Como não tenho formação profissional na área, meu conhecimento provém exclu
 
 - Após as revisões estruturais, podemos discutir ajustes focados na experiência do usuário.
 
+<!-- TOC --><a name="-clone-local-windows"></a>
 ## 🎲 Clone Local (Windows)
 
+<!-- TOC --><a name="-requisitos-necessários"></a>
 ### 📌 Requisitos necessários
 
 Antes de começar, verifique se você tem os seguintes softwares instalados:
@@ -92,6 +100,7 @@ Antes de começar, verifique se você tem os seguintes softwares instalados:
 
 • Bundler 2.6.5 (será instalado com o Ruby)
 
+<!-- TOC --><a name="-verificar-versões-instaladas"></a>
 ##### 🔹 Verificar versões instaladas:
 
 ```
@@ -119,6 +128,7 @@ node -v
 ```
 > no mínimo versão 14.20.0
 
+<!-- TOC --><a name="-clonando-o-repositório"></a>
 #### 📥 Clonando o Repositório
 
 Abra o Prompt de Comando (CMD) e execute:
@@ -135,6 +145,7 @@ git clone https://github.com/sergioSHKLR/doutrina.org.git
 cd doutrina.org
 ```
 
+<!-- TOC --><a name="-instalando-as-dependências"></a>
 #### 🔧 Instalando as Dependências
 
 Remova o arquivo Gemfile.lock para evitar conflitos:
@@ -153,6 +164,7 @@ gem install bundler -v 2.6.5
 bundle install
 ```
 
+<!-- TOC --><a name="-executando-o-servidor-local"></a>
 #### 🚀 Executando o Servidor Local
 
 Para rodar o Jekyll e visualizar o site localmente, execute:
@@ -169,6 +181,7 @@ O site estará acessível em:
 
 > Os scripts z1.sh, z2.sh e z3.sh foram criados para brevidade e economia de *keystrokes* em Linux mas não funcionarão em Windows. 
 
+<!-- TOC --><a name="-tecnologias-utilizadas"></a>
 #### 📌 Tecnologias Utilizadas
 
 • Ruby 3.2.7
@@ -182,6 +195,7 @@ O site estará acessível em:
 • Node.js 14.20.0
 
 
+<!-- TOC --><a name="-gems-utilizadas"></a>
 #### 💎 Gems utilizadas:
 
 • github-pages (228)
@@ -195,6 +209,7 @@ O site estará acessível em:
 
 E mais! (use bundle list para ver todas)
 
+<!-- TOC --><a name="-clone-local-chromebook"></a>
 ## 🎲 Clone Local (Chromebook)
 
 Comece por garantir que seu sistema está atualizado rodando o comando abaixo.
