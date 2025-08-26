@@ -1,48 +1,45 @@
-# 💧 doutrina.org
+# Bem-vindo
+
+Agradeço muito a sua visita. Espero que fique e contribua. Deus nos paga por todos os atos que fazemos em Seu nome. Amém.
 
 ## Apresentação
 
 Este projeto é uma combinação de ferramentas achadas em plataformas distintas de leitura & ensino e refletem todos os métodos nos quais me esforcei em utilizar. Para exemplificar:
 
-### 📕 Livro
+|                |                                                                   ✅ Vantagens                                                                  |                                                         ❌ Desvantagens                                                        |
+|----------------|:----------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| 📕 Livro        |                                                presença física, fácil de usar, tátil, paginação                                                | estático, sem links, pouco espaço para notas, sem links, sem imagens, sem vídeos, sem ajustes de texto, sem modo claro/escuro |
+| 📄 PDF          |                               digital, fácil de compartilhar, links (abrem fora), mesma paginação do livro, notas                              |          estático, não responsivo ao tamanho da tela, notas individuais, sem ajustes de texto, sem modo claro/escuro          |
+| 📱 eBook        |        digital, links (abrem fora), notas, dicionário, wikipédia, responsivo ao tamanho da tela, com ajustes de texto, modo claro/escuro       |                                            copyrighted, estático, notas individuais                                           |
+| 💻 Kardecpedia  |                           digital, público, links (abrem fora), responsivo ao tamanho de tela, dicionário, wikipédia                           |                                                sem notas, sem ajustes de texto                                                |
+| 💧 doutrina.org | digital, público, links (abrem dentro), responsivo ao tamanho de tela, dicionário, wikipédia, ajustes de texto, modo claro/escuro, atualizavél |                          fidelidade ao texto original/traduzido, implementação e manutenção intensiva                         |
 
-- ✅ Pró: presença física, fácil de usar, tátil, paginação
+Estes achados foram uma culminação de mais de 10 anos de esforços em aprimorar o estudo digital. Eu pessoalmente utilizei de cada um dos formatos acima, passando por etapas de criar PDFs, web apps, eBooks e até sites estáticos de mais de 1000 páginas. Enfim descobri esta plataforma na qual eu poderia tornar o projeto público e colaborativo.
 
-- ❌ Contra: estático, sem links, pouco espaço para notas, sem links, sem imagens, sem vídeos, sem ajustes de texto, sem modo claro/escuro
+Passei então a criar uma estrutura de site que facilitaria o consumo digital do material de referência, sendo automaticamente ajustável ao tamanho de tela, e agregando várias das ferramentas até então exclusivas de outras plataformas.
 
-### 📄 PDF
+Manualmente, copiei e colei cada parágrafo do PDF disponibilizado pela FEB para compor os longos arquivos MD que formam cada livro. Depois de reformatar cada um de acordo com o padrão de estilo e diagramação nosso (cores, tipos, símbolos, etc), começo o trabalho de incluir links para artigos externos, sequencialmente, do LDE ao GEN.
 
+## Estrutura
 
-- ✅ Pró: digital, fácil de compartilhar, links (abrem fora), mesma paginação do livro, notas
+Depois de longas e exaustivas tentativas de encontrar o mais perfeito SSG (Static Site Generator), acabei por me decidir em usar o Jekyll pela sua popularidade e simplicidade.
 
-- ❌ Contra: estático, não responsivo ao tamanho da tela, notas individuais, sem ajustes de texto, sem modo claro/escuro
+| Nome      |                    Descrição                    |
+|-----------|:-----------------------------------------------:|
+| _includes | contém partes pré-formatadas que compõe páginas |
+| _layouts  |       estabelece pré-formatação de páginas      |
+| _site     |     contém todo o site formatado por Jekyll     |
+| assets    |     contém CSS, JS, imagens, mapas, PWA, etc    |
+| books     |    contém os longos arquivos MD de cada livro   |
+| pages     |       contém as várias páginas do projeto       |
 
-### 📄eBook
-
-
-- ✅ Pró: digital, links (abrem fora), notas, dicionário, wikipédia, responsivo ao tamanho da tela, com ajustes de texto, modo claro/escuro
-
-- ❌ Contra: copyrighted, estático, notas individuais
-
-### 📱 Livro online
-
-
-- ✅ Pró: digital, público, links (abrem fora), responsivo ao tamanho de tela, dicionário, wikipédia
-
-- ❌ Contra: sem notas, sem ajustes de texto
-
-### 🖥️ doutrina.org / librus.app
-
-
-- ✅ Pró: digital, público, links (abrem dentro), responsivo ao tamanho de tela, dicionário, wikipédia, ajustes de texto, modo claro/escuro, atualizavél
-
-- ❌ Contra: fidelidade ao texto original/traduzido, implementação e manutenção intensiva
+A aplicação que uso para codificar é o VSCODE principalmente mas com auxílio de várias outras ferramentas online e de criação minha. Tenho tentado manter o código bem simples e limpo mas sei que devo estar defasado em muitos aspectos.
 
 ## 🥼 Voluntários
 
 ##### A maior parte deste README foi criada por @JLeoBRx
 
-Como não tenho formação profissional, meu conhecimento provém exclusivamente de ser um auto-didata e de muitos erros e acertos no decorrer deste projeto. No momento, necessito de voluntários com conhecimentos específicos para que possamos efetuar as seguintes melhorias:
+Como não tenho formação profissional na área, meu conhecimento provém exclusivamente dos esforços DIY/auto-didata e de muitos e muitos erros nesta caminhada. Apesar de não listar seus antecessores, saibam que dezenas de outros projetos, e mais de uma década, contribuiram para que eu chegasse aqui. No momento, necessito de voluntários com conhecimentos específicos para que possamos efetuar as seguintes melhorias:
 
 1️. Análise de Código & Conformidade
 
