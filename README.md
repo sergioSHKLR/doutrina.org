@@ -1,8 +1,8 @@
 # Tabela de Conteúdo
 
-- [Bem-vindo](#bem-vindo)
-  - [Apresentação](#apresentação)
-  - [Estrutura](#estrutura)
+- [🫱🏻‍🫲🏼 Bem-vindo](#bem-vindo)
+  - [👔 Apresentação](#apresentação)
+  - [🏗️ Estrutura](#estrutura)
   - [🥼 Voluntários](#-voluntários)
   - [🎲 Clone Local (Windows)](#-clone-local-windows)
     - [📌 Requisitos necessários](#-requisitos-necessários)
@@ -14,11 +14,11 @@
       - [💎 Gems utilizadas:](#-gems-utilizadas)
   - [🎲 Clone Local (Chromebook)](#-clone-local-chromebook)
 
-# Bem-vindo
+# 🫱🏻‍🫲🏼 Bem-vindo
 
 Agradeço muito a sua visita. Espero que fique e contribua. Deus nos paga por todos os atos que fazemos em Seu nome. Amém.
 
-## Apresentação
+## 👔 Apresentação
 
 Este projeto é uma combinação de ferramentas achadas em plataformas distintas de leitura & ensino e refletem todos os métodos nos quais me esforcei em utilizar. Para exemplificar:
 
@@ -36,7 +36,7 @@ Passei então a criar uma estrutura de site que facilitaria o consumo digital do
 
 Manualmente, copiei e colei cada parágrafo do PDF disponibilizado pela FEB para compor os longos arquivos MD que formam cada livro. Depois de reformatar cada um de acordo com o padrão de estilo e diagramação nosso (cores, tipos, símbolos, etc), começo o trabalho de incluir links para artigos externos, sequencialmente, do LDE ao GEN.
 
-## Estrutura
+## 🏗️ Estrutura
 
 Depois de longas e exaustivas tentativas de encontrar o mais perfeito SSG (Static Site Generator), acabei por me decidir em usar o Jekyll pela sua popularidade e simplicidade.
 
