@@ -1,5 +1,7 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
+TABELA DE CONTEÚDO
+
 - [🫱🏻‍🫲🏼 Bem-vindo](#-bem-vindo)
    * [👔 Apresentação](#-apresentação)
    * [🏗️ Estrutura](#-estrutura)
