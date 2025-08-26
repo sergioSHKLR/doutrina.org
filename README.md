@@ -1,3 +1,20 @@
+# Tabela de Conteúdo
+
+- [Bem-vindo](#bem-vindo)
+  - [Apresentação](#apresentao)
+  - [Estrutura](#estrutura)
+  - [🥼 Voluntários](#-voluntrios)
+        - [A maior parte deste README foi criada por @JLeoBRx](#a-maior-parte-deste-readme-foi-criada-por-jleobrx)
+  - [🎲 Clone Local (Windows)](#-clone-local-windows)
+    - [📌 Requisitos necessários](#-requisitos-necessrios)
+        - [🔹 Verificar versões instaladas:](#-verificar-verses-instaladas)
+      - [📥 Clonando o Repositório](#-clonando-o-repositrio)
+      - [🔧 Instalando as Dependências](#-instalando-as-dependncias)
+      - [🚀 Executando o Servidor Local](#-executando-o-servidor-local)
+      - [📌 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+      - [💎 Gems utilizadas:](#-gems-utilizadas)
+  - [🎲 Clone Local (Chromebook)](#-clone-local-chromebook)
+
 # Bem-vindo
 
 Agradeço muito a sua visita. Espero que fique e contribua. Deus nos paga por todos os atos que fazemos em Seu nome. Amém.
