@@ -1,8 +1,8 @@
 # Tabela de Conteúdo
 
-- [🫱🏻‍🫲🏼 Bem-vindo](#bem-vindo)
-  - [👔 Apresentação](#apresentação)
-  - [🏗️ Estrutura](#estrutura)
+- [🫱🏻‍🫲🏼 Bem-vindo](#-bem-vindo)
+  - [👔 Apresentação](#-apresentação)
+  - [🏗️ Estrutura](#-estrutura)
   - [🥼 Voluntários](#-voluntários)
   - [🎲 Clone Local (Windows)](#-clone-local-windows)
     - [📌 Requisitos necessários](#-requisitos-necessários)
