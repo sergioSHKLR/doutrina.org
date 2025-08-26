@@ -4,7 +4,6 @@
   - [Apresentação](#apresentao)
   - [Estrutura](#estrutura)
   - [🥼 Voluntários](#-voluntrios)
-        - [A maior parte deste README foi criada por @JLeoBRx](#a-maior-parte-deste-readme-foi-criada-por-jleobrx)
   - [🎲 Clone Local (Windows)](#-clone-local-windows)
     - [📌 Requisitos necessários](#-requisitos-necessrios)
         - [🔹 Verificar versões instaladas:](#-verificar-verses-instaladas)
@@ -54,7 +53,7 @@ A aplicação que uso para codificar é o VSCODE principalmente mas com auxílio
 
 ## 🥼 Voluntários
 
-##### A maior parte deste README foi criada por @JLeoBRx
+> A maior parte deste README foi criada por @JLeoBRx
 
 Como não tenho formação profissional na área, meu conhecimento provém exclusivamente dos esforços DIY/auto-didata e de muitos e muitos erros nesta caminhada. Apesar de não listar seus antecessores, saibam que dezenas de outros projetos, e mais de uma década, contribuiram para que eu chegasse aqui. No momento, necessito de voluntários com conhecimentos específicos para que possamos efetuar as seguintes melhorias:
 
