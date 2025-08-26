@@ -1,6 +1,7 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-💧 doutrina.org
+| **💧 doutrina.org** |
+|:------------------:|
 
 TABELA DE CONTEÚDO
 
