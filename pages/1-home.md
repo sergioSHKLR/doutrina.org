@@ -258,7 +258,7 @@ Confiem em Deus e tenham um bom estudo!
 Mai & Sergio
 {:.cursive}
 
-<img src="../assets/images/us-round.jpg" width="200" height="200" alt="foto do casal" style="
+<img src="../assets/images/us-round.png" width="200" height="200" alt="foto do casal" style="
 all: unset; 
 background-color: transparent;
 margin-top: -30px;
