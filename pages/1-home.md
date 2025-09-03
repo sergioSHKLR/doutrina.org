@@ -168,38 +168,38 @@ Nosso <i>layout</i> é composto de quatro colunas, que são **seletivamente** mo
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="../assets/images/doutrina-column-demo-1b.svg" style="width:100%">
+  <img src="../assets/images/slide-0.svg" style="width:100%">
   <div class="text">Adaptação automática</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="../assets/images/doutrina-column-demo-2b.svg" style="width:100%">
+  <img src="../assets/images/slide-1.svg" style="width:100%">
   <div class="text">Desktop</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-  <img src="../assets/images/doutrina-column-demo-3b.svg" style="width:100%">
-  <div class="text">Notebook</div>
+  <img src="../assets/images/slide-2.svg" style="width:100%">
+  <div class="text">Laptop</div>
 </div>
 
 <div class="mySlides fade">
     <div class="numbertext">4 / 6</div>
-    <img src="../assets/images/doutrina-column-demo-4b.svg" style="width:100%">
+    <img src="../assets/images/slide-3.svg" style="width:100%">
     <div class="text">Tablet</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">5 / 6</div>
-    <img src="../assets/images/doutrina-column-demo-5b.svg" style="width:100%">
-    <div class="text">Mobile (de pé)</div>
+    <img src="../assets/images/slide-4.svg" style="width:100%">
+    <div class="text">Celular (de pé)</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">6 / 6</div>
-    <img src="../assets/images/doutrina-column-demo-6b.svg" style="width:100%">
-    <div class="text">Mobile (deitado)</div>
+    <img src="../assets/images/slide-5.svg" style="width:100%">
+    <div class="text">Celular (deitado)</div>
   </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
