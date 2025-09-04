@@ -14,7 +14,7 @@
     {
       "platform": "webapp",
       "url": "https://doutrina.org/",
-      "id": "24.2.11"
+      "id": "25.09.04"
     }
 ],
   "display_override": [
@@ -42,7 +42,7 @@
     },
   {
       "src": "twitter.png",
-      "sizes": "1536x1536",
+      "sizes": "1440x1440",
       "type": "image/png"
     }
   ],
