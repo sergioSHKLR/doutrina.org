@@ -27,7 +27,7 @@ Os links da coluna Principal serão primariamente:
 
 - <span class="emoji">📔</span> definições de palavras do [Wikicionário](https://pt.m.wiktionary.org/)
 - <span class="emoji">📰</span> artigos do [Wikipédia](https://pt.m.wikipedia.org/)
-- <span class="emoji">📰</span> artigos do Portal [Luz Espírita](https://www.luzespirita.org.br/){:target="_blank"} ❗ TEMPORARIAMENTE INATIVOS
+- <span class="emoji">📰</span> artigos do Portal [Luz Espírita](https://www.luzespirita.org.br/){:target="_blank"}
 - <span class="emoji">✝️</span> passagens da bíblia [ARC](https://pt.m.wikipedia.org/wiki/Almeida_Revista_e_Corrigida), pela [SBB](https://www.sbb.org.br/){:target="_blank"} via [Bible.com](https://www.bible.com/)
 
 Adicionalmente, conteúdo ilustrativo ou audio/visual de:
