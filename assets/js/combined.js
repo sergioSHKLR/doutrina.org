@@ -424,5 +424,5 @@ for (b = 0, le = links.length; b < le; b++) {
 
 // HYPO ALERT -----------------------------------------------------------------
 function hypoAlert() {
-    alert("Caso a aba de anotações não esteja abrindo, clique e arraste o botão do topo.");
+    alert("Caso a aba de anotações (Hypothes.is) não esteja abrindo, clique E arraste o botão de abrir para a esquerda.");
 }

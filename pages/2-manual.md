@@ -27,7 +27,7 @@ version: 24.2.11
   <span class="emoji">🚧</span> Página em desenvolvimento <span class="emoji">🚧</span>
 </p> {:.banner} -->
 
-# <span class="emoji">📋</span> Manual  
+# 📋 Manual  
 
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
@@ -69,7 +69,7 @@ Nossa plataforma utiliza de regras automáticas que determinam quais colunas ser
 - extra largas, tipo desktop: 4 colunas
 - largas, tipo notebook: 3 colunas
 - médias, tipo tablet: 2 colunas
-- pequenas, tipo celular: 1 colunas
+- pequenas, tipo celular: 1 coluna
 
 Volte à pagina inicial para ver uma representação gráfica deste arranjo.
 
@@ -84,7 +84,7 @@ Tomando por exemplo os aplicativos de leitura digital (eBook reader), como Kindl
 
 ## Livros
 
-Decidimos por utilizar os cinco livros das [Obras Básicas](Obras%20Básicas%20do%20Espiritismo){:.l}, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas, como por sua livre disponibilidade online. Consulte a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;"><span class="emoji">⚖️</span> Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
+Decidimos por utilizar os cinco livros das [Obras Básicas](Obras%20Básicas%20do%20Espiritismo){:.l}, sendo especificamente os da Editora FEB, pela sua maior disseminação, tanto nas sociedades Espíritas, como por sua livre disponibilidade online. Consulte a página <kbd><a href="../pages/3-legal.html" style="text-decoration: none;">⚖️ Avisos Legais</a></kbd> para detalhes acerca de direitos autorais e uso justo.
 
 ### Método  
 
@@ -92,11 +92,21 @@ Em primeiro lugar, estabelecemos padrões de divisão, hierarquia, e formataçã
 
 ### Elementos  
 
-Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal como **Pré-textual**. Similarmente, nomeamos as seções posteriores ao conteúdo principal de **Pós-textual**. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
+Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal como _Pré-textual_. Similarmente, nomeamos as seções posteriores ao conteúdo principal de _Pós-textual_. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
 
 ### Obras  
 
 Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.  
+
+|             _Emoji_             | _Sigla_ |              _Livro_               |
+|:-----------------------------|:-----:|:---------------------------------|
+|         👻  (fantasma)         |  LDE  |       O Livro dos Espíritos       |
+| ✒️  (ponta de caneta tinteiro) |  LDM  |        O Livro dos Médiuns        |
+|       🕊️  (pomba branca)       |  ESE  | O Evangelho segundo o Espiritismo |
+|           🔥  (fogo)           |  CEU  |         O Céu e o Inferno         |
+|      🌱  (muda de planta)      |  GEN  |              A Gênese             |  
+
+<!--
 
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
@@ -133,14 +143,14 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
  <td>A Gênese</td>
  </tr>
  </tbody>
-</table>
+</table> -->
 
 ### Hierarquia  
 
 Dentro de cada livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos.  
 
 <pre class="fs-3 col2-w bg-lg">
-❓ livro (👻, <span class="emoji">✒️</span>, <span class="emoji">🕊️</span>, <span class="emoji">🔥</span> ou <span class="emoji">🌱</span>)
+❓ livro (👻, ✒️, 🕊️, 🔥 ou 🌱)
  |
  └── 🗂️ parte
       |
@@ -151,9 +161,9 @@ Dentro de cada livro, usaremos os emojis abaixo para identificar elementos indiv
                 └── #️⃣ questão
 </pre>
 
-| <span class="emoji">🗃️</span> | Índice Geral | coleção de <span class="emoji">🏷️</span> _tags_ |
-| <span class="emoji">🏷️</span> | _tag_ | agrupa <span class="emoji">#️⃣</span> questões e/ou <span class="emoji">📃</span> seções por assunto |
-| <span class="emoji">⚜️</span> | fim | término de um elemento | 
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
+| ⚜️ | fim | término de um elemento | 
 
 <!-- 
 
@@ -246,7 +256,7 @@ e este outro formato para mensagens bíblicas. Nestas, palavras de Jesus, quando
 > Livro, cap. X, vers. Y, ARC
 {:.bible-multi}
 
-Por fim, temos o seguinte formato para passagens de Kardec.
+Por fim, temos o seguinte formato para certas passagens de Kardec.
 
 > 👴🏻 ▸ Mensagem
 >
@@ -263,6 +273,11 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos d
 
 ### Adicionais  
 
+| _Emoji_ | _Descrição_ | _Conteúdo_ |
+|---|---|---|
+| 👉 (dedo indicando à direita) | segmento relacionado | indicação para leitura complementar |
+
+<!--
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
  <tr>
@@ -278,7 +293,7 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos d
  <td class="center">indicação para leitura complementar</td>
  </tr>
  </tbody>
-</table>
+</table> -->
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Alma, conceito espírita de  <a href="#alma">↩️</a><br>
@@ -294,6 +309,14 @@ Nota de rodapé [^1]
 ### Anotador  
 
 <p>Os botões no canto superior direito pertencem à ferramenta <a target="_blank" href="https://web-hypothes-is.translate.goog/everyone/?_x_tr_sl=es&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Hypothes.is</a> e realizam as seguintes funções:</p>
+
+<!--
+| Ícone | Ação |
+|---|---|
+| ![](../assets/images//hypo-a.svg) | Mostrar/esconder barra de anotações |
+| ![](../assets/images//hypo-b.svg) | Mostras/esconder anotações (grifados em amarelo) |
+| ![](../assets/images//hypo-c.svg) | Criar nova anotação de página |  -->
+
 
 <table class="border p-10 fs-3 ff-slab col2-w ml-10">
 <tr class="bg-lg"><th style="width: 20%">Ícone</th><th>Ação</th></tr>

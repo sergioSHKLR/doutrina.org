@@ -143,12 +143,31 @@ img {
 
 ## Inspiração 
 
-Com imensa admiração por outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas de modo a permitir aos usuários uma plataforma inédita de estudos integrados.
+Com imensa admiração por outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas fornecendo aos usuários uma plataforma inédita de estudo, permitindo grifos, anotações, e consulta de referências externas, sem sair da janela original e escalável para qualquer tamanho de tela.
+
+## Uso Indicado
+
+Apesar de poder ser utilizada por leigos e de maneira individual, achamos que o melhor aproveitamento desta plataforma seja alcançado por um estudo em grupo, liderado por pessoa versada na doutrina e TAMBÉM nas ferramentas aqui empregadas (incluindo Hypothes.is e sintaxe MD). Use a página <kbd><a href="./5-contact.html" style="text-decoration: none;"><span class="emoji">❤️</span> Contato</a></kbd> para marcar sessões de treinamento gratuitas.
 
 ## Interface
 
-Nosso <i>layout</i> é composto de quatro colunas, que são **seletivamente** mostradas de acordo com a largura do dispositivo em que é visualizada. Da esquerda para a direita, temos:
+Nosso <i>layout</i> é composto de quatro abas ou colunas.
 
+![](../assets/images/doutrina-demo.gif)
+
+Estas são **seletivamente** mostradas de acordo com:
+
+1. a largura do dispositivo em que é visualizada 😀
+2. por comando do leitor 🫥
+
+| Número |  Conteudo | Desktop | Laptop | Tablet | Celular (em pé) | Celular (deitado) |
+|:------:|:---------:|:-------:|:------:|:------:|:---------------:|:-----------------:|
+|    1   |    Menu   |    😀    |    🫥   |    🫥   |        🫥        |         🫥         |
+|    2   |   Livro   |    😀    |    😀   |    😀   |        😀        |         😀         |
+|    3   |  Artigos  |    😀    |    😀   |    😀   |        ❌        |         😀         |
+|    4   | Anotações |    😀    |    😀   |    🫥   |        🫥        |         🫥         |
+
+<!--
 <table style="font-family: sans-serif; font-size: 14px; background-color: #eeeeee80">
   <tbody>
     <tr>
@@ -220,7 +239,7 @@ Nosso <i>layout</i> é composto de quatro colunas, que são **seletivamente** mo
 
 <!-- <iframe style="filter: none" src="https://docs.google.com/presentation/d/e/2PACX-1vRESbamVWKVF0_u4WuiG5c4dksBqoLB8F4JR7PYJbIKSZwUIgUilb5MtxrbbvdQpkNvtTEs_iQO0XMW/embed?start=true&loop=true&delayms=2000" frameborder="0" width="100%" height="40%%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
 
-Consulte a página <kbd><a href="./2-manual.html" style="text-decoration: none;"><span class="emoji">📋</span> Manual</a></kbd> para ficar a par dos padrões utilizados em nosso projeto.
+Consulte a página <kbd><a href="./2-manual.html" style="text-decoration: none;"><span class="emoji">📋</span> Manual</a></kbd> para ficar ciente dos padrões utilizados em nosso projeto.
 
 ## Modificações
 

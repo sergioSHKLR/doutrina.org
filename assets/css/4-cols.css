@@ -1136,7 +1136,7 @@ details>div>p>a {
     border-width: 1px;
     box-shadow: 0 4px 3px -3px #00000030;
     box-sizing: border-box;
-    color: #666;
+    color: red;
     cursor: pointer;
     display: flex;
     font-family: inherit;
@@ -1294,7 +1294,9 @@ span.emoji,
 #toc>p>span.emoji,
 #toc>details>summary>span.emoji,
 #toc>details>p>span.emoji,
-#toc>details>p>a>span.emoji {
+#toc>details>p>a>span.emoji,
+#col2-body blockquote.spirit::first-letter,
+#col2-body blockquote.spirit-multi::first-letter {
     font-family: 'Noto Color Emoji', sans-serif;
 }
 
