@@ -46,7 +46,7 @@ version: 25.09.04 (removed emoji span)
 
 [Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.w} que os produz a ação de uma [vontade](Vontade){:.w} livre e [inteligente](Inteligência){:.w}.
 
-A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como causa uma força inteligente, e os fatos hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
+A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como causa uma força inteligente, e os fatos[fato]{:.d} hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
 
 Interrogada acerca da sua natureza, essa força declarou pertencer ao mundo dos seres espirituais que se [despojaram](despojar){:.d} do [invólucro](invólucro){:.d} corporal do [homem](Humano){:.w}. Assim é que foi revelada a [Doutrina dos Espíritos](Espiritismo){:.l}.
 
