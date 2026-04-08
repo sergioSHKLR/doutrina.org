@@ -1,7 +1,7 @@
 ---
 title: O Livro dos Espíritos
 layout: 1-lde
-version: 25.09.04 (removed emoji span)
+version: 26.04.08  
 ---
 *[LDE]: O Livro dos Espíritos
 *[LDM]: O Livro dos Médiuns
@@ -47,19 +47,19 @@ version: 25.09.04 (removed emoji span)
 
 [Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.w} que os produz a ação de uma [vontade](Vontade){:.w} [livre](Liberdade){:.w} e [inteligente](Inteligência){:.w}.
 
-A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como causa uma força inteligente, e os [fatos](fato){:.d} hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
+A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como causa uma força inteligente, e os [fatos](fato){:.w} hão provado que essa [força](Força){:.w} é capaz de entrar em [comunicação](Comunicação){:.w} com os homens por meio de sinais materiais.
 
 Interrogada acerca da sua natureza, essa força declarou pertencer ao mundo dos seres espirituais que se [despojaram](despojar){:.d} do [invólucro](invólucro){:.d} corporal do [homem](Humano){:.w}. Assim é que foi revelada a [Doutrina dos Espíritos](Espiritismo){:.l}.
 
-As comunicações entre o mundo espírita e o mundo corpóreo estão na ordem natural das coisas e não constituem fato [sobrenatural](sobrenatural){:.d}, tanto que de tais comunicações se acham [vestígios](vestígio){:.d} entre todos os povos e em todas as épocas. Hoje se generalizaram e tornaram [patentes](patente){:.d} a todos.
+As [comunicações](Comunicabilidade%20Espiritual){:.l} entre o mundo espírita e o mundo corpóreo estão na ordem natural das coisas e não constituem fato [sobrenatural](sobrenatural){:.w}, tanto que de tais comunicações se acham [vestígios](vestígio){:.d} entre todos os povos e em todas as épocas. Hoje se generalizaram e tornaram [patentes](patente){:.d} a todos.
 
 Os Espíritos anunciam que chegaram os tempos marcados pela [Providência](Divina_Providência){:.w} para uma manifestação universal e que, sendo eles os ministros de [Deus](Deus){:.l} e os agentes de sua [vontade](vontade){:.d}, têm por missão instruir e esclarecer os homens, abrindo uma nova era para a [regeneração](regenerar){:.d} da [Humanidade](Sociedade){:.w}.
 
 Este livro é o [repositório](repositório){:.d} de seus ensinos. Foi escrito por ordem e mediante ditado de Espíritos superiores, para estabelecer os fundamentos de uma [filosofia](Filosofia){:.w} racional, [isenta](isento){:.d} dos [preconceitos](preconceito){:.d} do espírito de sistema. Nada contém que não seja a expressão do pensamento deles e que não tenha sido por eles examinado. Só a ordem e a distribuição [metódica](método){:.d} das matérias, assim como as notas e a forma de algumas partes da redação, constituem obra daquele que recebeu a missão de os publicar.
 
-No número dos Espíritos que concorreram para a execução desta obra, muitos se contam que viveram, em épocas diversas, na [Terra](Terra){:.w}, onde pregaram e praticaram a [virtude](Virtude){:.w} e a [sabedoria](Sabedoria){:.w}. Outros, pelos seus nomes, não pertencem a nenhuma personagem, cuja lembrança a [História](História){:.w} guarde, mas cuja elevação é atestada pela pureza de seus ensinamentos e pela união em que se acham com os que usam de nomes [venerados](venerado){:.d}.
+No número dos Espíritos que concorreram para a execução desta obra, muitos se contam que viveram, em épocas diversas, na [Terra](Terra){:.w}, onde pregaram e praticaram a [virtude](Virtude){:.w} e a [sabedoria](Sabedoria){:.w}. Outros, pelos seus nomes, não pertencem a nenhuma personagem, cuja lembrança a [História](História){:.w} guarde, mas cuja elevação é atestada pela [pureza](pureza){:.d} de seus ensinamentos e pela união em que se acham com os que usam de nomes [venerados](venerado){:.d}.
 
-Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.l}, a missão de escrever este livro:
+Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.l}, a [missão](missão){:.d} de escrever este livro:
 
 > 👻 ▸ Ocupa-te, cheio de [zelo](zelo){:.d} e [perseverança](perseverança){:.d}, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de [amor](Amor){:.w} e [caridade](Caridade){:.w}. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as [minúcias](minúcia){:.d}.
 >
@@ -69,11 +69,11 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 >
 > Porás no [cabeçalho](cabeçalho){:.d} do livro a [cepa](Videira%20Espírita){:.l} que te desenhamos [^3], porque é o emblema do trabalho do [Criador](Deus){:.l}. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a [alma](Alma){:.l} ou espírito ligado à [matéria](Matéria){:.w} é o [bago](bago){:.d}. O homem [quintessencia](quintessência){:.d} o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.
 >
-> Não te deixes desanimar pela [crítica](Crítica){:.w}. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a [dúvida](Dúvida){:.w} por [malícia](malícia){:.d} ou [ignorância](Ignorância){:.w}. Prossegue sempre. Crê em [Deus](Deus){:.l} e caminha com [confiança](confiança){:.d}: aqui estaremos para te amparar e vem próximo o tempo em que a [Verdade](Verdade){:.w} brilhará de todos os lados.
+> Não te deixes desanimar pela [crítica](Crítica){:.w}. Encontrarás [contraditores](contradizer){:.d} encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a [dúvida](Dúvida){:.w} por [malícia](malícia){:.d} ou [ignorância](Ignorância){:.w}. Prossegue sempre. Crê em [Deus](Deus){:.l} e caminha com [confiança](confiança){:.d}: aqui estaremos para te [amparar](amparo){:.d} e vem próximo o tempo em que a [Verdade](Verdade){:.w} brilhará de todos os lados.
 >
-> A [vaidade](vaidade){:.d} de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões [dissidentes](dissidente){:.d}. Mas todos os que tiverem em vista o grande princípio de [Jesus](Jesus){:.w} se confundirão num só sentimento: o do [amor](amor){:.d} do [bem](Bem){:.l} e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a [Doutrina](Espiritismo){:.l} será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores.
+> A [vaidade](vaidade){:.d} de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões [dissidentes](dissidente){:.d}. Mas todos os que tiverem em vista o grande princípio de [Jesus](Jesus){:.w} se confundirão num só sentimento: o do [amor](amor){:.d} do [bem](Bem){:.l} e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é [essencial](essencial){:.d}. E a [Doutrina](Espiritismo){:.l} será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores.
 >
-> Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a [Doutrina](Espiritismo){:.l} propagar-se e bem compreendida, será uma [recompensa](recompensa){:.d}, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os [incrédulos](incrédulo){:.d} ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.
+> Com a [perseverança](perseverança){:.d} é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a [Doutrina](Espiritismo){:.l} propagar-se e bem compreendida, será uma [recompensa](recompensa){:.d}, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os [incrédulos](incrédulo){:.d} ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.
 >
 > Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a [Deus](Deus){:.l} com [humildade](humildade){:.d} e desinteresse e que [repudiam](repudiar){:.d} a todo aquele que busca na [senda](senda){:.d} do [Céu](Céu_(religião)){:.w} um degrau para conquistar as coisas da [Terra](Terra){:.w}; que se afastam do [orgulhoso](orgulhoso){:.d} e do [ambicioso](ambicioso){:.d}. O [orgulho](Orgulho){:.w} e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer [perceptível](perceptível){:.d} a luz.
 >
@@ -89,6 +89,8 @@ Eis em que termos nos deram, por escrito e por muitos [médiuns](Mediunidade){:.
 > [Swedenborg](Emanuel_Swedenborg){:.w},  
 > entre outros.
 {:.spirit-multi}
+
+<div align="center">✅</div>
 
 <details class="links"><summary>🔗</summary><br>
 🏷️ Allan Kardec, assistência espiritual a <a href="#allan-kardec">↩️</a><br>
