@@ -143,11 +143,11 @@ img {
 
 ## Inspiração 
 
-Com imensa admiração por outras iniciativas de educação e comunicação digital, criamos esta alternativa que agrega ferramentas e fontes dispersas fornecendo aos usuários uma plataforma inédita de estudo, permitindo grifos, anotações, e consulta de referências externas, sem sair da janela original e escalável para qualquer tamanho de tela.
+Com imensa admiração por outras iniciativas de educação e comunicação digital, criei esta alternativa que agrega ferramentas e fontes dispersas, fornecendo aos usuários uma plataforma inédita de estudo, permitindo grifos, anotações e consulta de referências externas, sem se sair da janela original e escalável para qualquer tamanho de tela.
 
 ## Uso Indicado
 
-Apesar de poder ser utilizada por leigos e de maneira individual, achamos que o melhor aproveitamento desta plataforma seja alcançado por um estudo em grupo, liderado por pessoa versada na doutrina e TAMBÉM nas ferramentas aqui empregadas (incluindo Hypothes.is e sintaxe MD). Use a página <kbd><a href="./5-contact.html" style="text-decoration: none;"><span class="emoji">❤️</span> Contato</a></kbd> para marcar sessões de treinamento gratuitas.
+Apesar de poder ser utilizada por leigos e de maneira individual, digo que o melhor aproveitamento desta plataforma seja alcançado por um estudo em grupo, liderado por pessoa versada na doutrina e TAMBÉM nas ferramentas aqui empregadas (incluindo Hypothes.is e sintaxe MD). Use a página <kbd><a href="./5-contact.html" style="text-decoration: none;"><span class="emoji">❤️</span> Contato</a></kbd> para marcar sessões de treinamento gratuitas.
 
 ## Interface
 
@@ -245,30 +245,14 @@ Consulte a página <kbd><a href="./2-manual.html" style="text-decoration: none;"
 
 Embora baseadas nas obras impressas, nossas versões foram modificadas para:
 
-- realçar a origem mediúnica de mensagens
-- realçar a concordância entre a Doutrina e a Bíblia
-- facilitar o consumo digital (telas de tamanho variado)
+- Realçar a origem mediúnica de mensagens.
+- Realçar a concordância entre a Doutrina e a Bíblia.
+- Facilitar o consumo digital (telas de tamanho variado)
 
 Em suporte às nossas alterações, citamos aqui uma mensagem mediúnica, de vários Espíritos Superiores, extraída do Prefácio de O Livro dos Espíritos.
 
 <blockquote class="spirit" style="font-family: serif; padding: 10px 20px; font-size: 110%;">
 <span class="emoji">👻</span> … Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma … </blockquote>
-
-## Contato
-
-Por fim, ficaríamos gratos com seus:
-
-- comentários
-- sugestões
-- correções
-
-Utilize a página <kbd><a href="./5-contact.html" style="text-decoration: none;"><span class="emoji">❤️</span> Contato</a></kbd> para tais fins.
-
-## Chat
-
-Caso precise de assistência imediata, entre em contato utilizando o botão azul do chat.
-
-<!-- <img src="../assets/images/crisp-logo.svg" width="30" height="30" alt="botão do crisp chat" style="all: unset; height: 30px; vertical-align: text-bottom;"> -->
 
 ---
 

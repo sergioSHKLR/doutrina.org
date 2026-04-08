@@ -1,7 +1,7 @@
 ---
 title: O Céu e o Inferno
 layout: 4-ceu
-version: 24.2.11
+version: 26.04.07
 ---
 
 *[LDE]: O Livro dos Espíritos
@@ -69,7 +69,7 @@ version: 24.2.11
 ><br>
 > Tradução de [Manuel Quintão](https://pt.m.wikipedia.org/wiki/Manuel_Quintão)  
 ><br>
-> Baseado no original [ISBN 978-85-7328-731-8](http://www.febnet.org.br/wp-content/uploads/2014/05/ceu-e-inferno-Manuel-Quintao.pdf) 
+> Baseado no original [ISBN 978-85-7328-731-8](http://www.febnet.org.br/wp-content/uploads/2012/07/WEB-O-Ceu-e-o-inferno-Guillon.pdf){:target="ext"} 
 ><br>
 > Modificado para o consumo digital por Sergio de  
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org)  

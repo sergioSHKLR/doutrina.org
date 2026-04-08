@@ -1,15 +1,17 @@
 ---
 title: Contato
 layout: 0-default
-version: 24.2.11
+version: 26.4.07
 ---
 
 <head>
 <link rel="manifest" href="../assets/pwa/site.webmanifest" />
-<script src="../assets/js/push-engage.js"></script>
+<!-- <script src="../assets/js/push-engage.js"></script> -->
 </head>
 
 # <span class="emoji">❤️</span> Contato
+
+Utilize o botão de chat no canto inferior esquerdo (círculo azul com logo branco) ou este formulário abaixo.
 
 <!--
 

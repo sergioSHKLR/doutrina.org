@@ -1,7 +1,7 @@
 ---
 title: O Livro dos Médiuns
 layout: 2-ldm
-version: 24.2.11
+version: 26.04.07
 ---
 
 *[LDE]: O Livro dos Espíritos
@@ -63,7 +63,7 @@ version: 24.2.11
 ><br>
 > Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)  
 ><br>
-> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf)  
+> Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Mediuns-Guillon-1.pdf){:target="ext"}  
 ><br>
 > Modificado para o consumo digital por Sergio de  
 > <span class="emoji">⭕</span> [shklr.org](https://shklr.org)

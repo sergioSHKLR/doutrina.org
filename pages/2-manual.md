@@ -40,14 +40,14 @@ version: 24.2.11
 
 ## Descrição  
 
-Nosso projeto visa suprir os usuários interessados no estudo ativo da Doutrina Espírita, integrando as obras orginais numa plataforma que integra várias ferramentas, previamente dispersas. Nossos cuidados principais são:
+Nosso projeto visa suprir os usuários interessados no estudo ativo da Doutrina Espírita, integrando as obras originais numa plataforma que integra várias ferramentas, previamente dispersas. Nossos cuidados principais são:
 
-- manter a fidelidade ao conteúdo, ajustando o formato
-- ampliar o alcance da obra original com links
-- facilitar seu consumo em telas diversas
-- criar uma interface livre de elementos gráficos desnecessários ou distrações
+- Manter a fidelidade ao conteúdo, ajustando o formato.
+- Ampliar o alcance da obra original com links.
+- Facilitar seu consumo em telas diversas.
+- Criar uma interface livre de elementos gráficos desnecessários ou distrações.
 
-Embora o uso ideal de nossa plataforma seja através de um computador com teclado (desktop, laptop ou certos tablets), a mesma se adapta automaticamente para telas mais estreitas (tablets e celulares). A sessão de estudo pode ser invididual ou coletiva, lembrando que a ferramenta de anotações Hypothes.is permite a seleção de compartilhamento (privada, pública, ou de grupo).
+Embora o uso ideal de nossa plataforma seja por meio de um computador com teclado (desktop, laptop ou certos tablets), a mesma se adapta automaticamente para telas mais estreitas (tablets e celulares). A sessão de estudo pode ser individual ou coletiva, lembrando que a ferramenta de anotações Hypothes.is permite a seleção de compartilhamento (privada, pública ou de grupo).
 
 ## Interface
 
@@ -57,30 +57,30 @@ Nossa plataforma se distingue pela interface em colunas. Essas permitem ao usuá
 
 Da esquerda para a direita (dependendo da largura da sua tela), temos:
 
-1. Menu - sumário da página principal e links para outras páginas
-2. Principal - conteúdo da obra original, com links para mídia complementar
-3. Complementar - mídia complementar, links da coluna Principal abrem aqui
+1. Menu - sumário da página principal e links para outras páginas.
+2. Principal - conteúdo da obra original, com links para mídia complementar.
+3. Complementar - mídia complementar, links da coluna Principal abrem aqui.
 4. Anotações - grifos e notas relacionadas à coluna Principal (requere conta)
 
 #### Adaptável
 
-Nossa plataforma utiliza de regras automáticas que determinam quais colunas serão mostradas. Assim sendo, temos em telas:
+Nossa plataforma utiliza regras automáticas que determinam quais colunas serão mostradas. Assim sendo, temos em telas:
 
-- extra largas, tipo desktop: 4 colunas
-- largas, tipo notebook: 3 colunas
-- médias, tipo tablet: 2 colunas
-- pequenas, tipo celular: 1 coluna
+- Extra largas, tipo desktop: 4 colunas.
+- Largas, tipo notebook: 3 colunas.
+- Médias, tipo tablet: 2 colunas.
+- Pequenas, tipo celular: 1 coluna.
 
 Volte à pagina inicial para ver uma representação gráfica deste arranjo.
 
 ### Ajustes tipográficos
 
-Tomando por exemplo os aplicativos de leitura digital (eBook reader), como Kindle e similares, visamos por recriar as seguintes ferramentas:
+Tomando por exemplo os aplicativos de leitura digital (eBook reader), como Kindle e similares, visamos recriar as seguintes ferramentas:
 
-- consulta à dicionário
-- consulta à enciclopédia
-- grifos, marcações e notas
-- ajustes tipográficos (letra, linhas, parágrafo, fundo, etc)
+- Consulta ao dicionário.
+- Consulta à enciclopédia.
+- Grifos, marcações e notas.
+- Ajustes tipográficos (letra, linhas, parágrafo, fundo, etc.)
 
 ## Livros
 
@@ -88,11 +88,11 @@ Decidimos por utilizar os cinco livros das [Obras Básicas](Obras%20Básicas%20d
 
 ### Método  
 
-Em primeiro lugar, estabelecemos padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em formato, mas em espírito. Todas as modificações são produto de uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
+Em primeiro lugar, estabelecemos padrões de divisão, hierarquia e formatação de texto que mantivessem a fidelidade ao original, não em formato, mas em espírito. Todas as modificações são produto de uma escolha racional e visam atender ao padrão de formatação melhor disposto ao consumo digital.
 
 ### Elementos  
 
-Analisando a divisão dos livro em partes, decidimos por nomear as seções anteriores ao conteúdo principal como _Pré-textual_. Similarmente, nomeamos as seções posteriores ao conteúdo principal de _Pós-textual_. Partes Pré-textuais são numeradas 0 (zero) e as Pós-textuais assumem o número posterior ao último capítulo original.
+Analisando a divisão dos livros em partes, decidimos por nomear as seções anteriores ao conteúdo principal como _Pré-textual_. Similarmente, nomeamos as seções posteriores ao conteúdo principal de _Pós-textual_. Partes pré-textuais são numeradas 0 (zero) e as pós-textuais assumem o número posterior ao último capítulo original.
 
 ### Obras  
 
@@ -265,11 +265,11 @@ Por fim, temos o seguinte formato para certas passagens de Kardec.
 
 ### Tipografia  
 
-Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital e formatar todo o texto em estilo normal com as seguinte exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.  
+Decidimos utilizar um tipo *serif* moderno, mais apropriado para o consumo digital, e formatar todo o texto em estilo normal com as seguintes exceções: comunicações mediúnicas e trechos bíblicos serão em *itálico* e trechos originalmente realçados em _itálico_ serão mudados para **negrito**.  
 
-Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).  
+Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís IX da França, e séculos). 
  
-Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos de emojis, painéis coloridos, e ilustrações.  
+Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos emojis, painéis coloridos e ilustrações.  
 
 ### Adicionais  
 
@@ -327,7 +327,7 @@ Nota de rodapé [^1]
 
 ### Ajustes  
 
-Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo, e links) clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
+Para realizar ajustes tipográficos (letras, linhas, parágrafos, cor de fundo e links), clique no botão <kbd>Aa</kbd> e escolha dentre as opções abaixo. Suas preferências ficam gravadas e valem para as outras páginas deste site. Para reverter, clique no botão em vermelho e refresque a página.
 
 <table>
 <tr><th style="width: 20%">Ícone</th><th>Ação</th></tr>

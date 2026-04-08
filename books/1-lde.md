@@ -20,19 +20,20 @@ version: 25.09.04 (removed emoji span)
 >
 > <span style="font-size: 200%;"> 👻 [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}
 >
-> Princípios da [Doutrina Espírita](Espiritismo){:.l}
+> [Princípios](Princípio){:.w} da [Doutrina Espírita](Espiritismo){:.l}
 >
-> Sobre a [imortalidade](imortal){:.d} da [alma](Alma){:.l}, a [natureza](natureza){:.d} dos Espíritos e suas relações com os homens, as leis morais, a [vida](Vida){:.w} presente, a vida futura e o [porvir](porvir){:.d} da [humanidade](Natureza_humana){:.w} — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](Mediunidade){:.l}, recebidos e coordenanados
+> Sobre a [imortalidade](imortal){:.d} da [alma](Alma){:.l}, a [natureza](natureza){:.d} dos Espíritos e suas relações com os [homens](Natureza_humana){:.w}, as leis [morais](Moral){:.w}, a [vida](Vida){:.w} presente, a vida futura e o [porvir](porvir){:.d} da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos [médiuns](Mediunidade){:.l}, recebidos e coordenados
 >
 > por <span style="font-family: 'Great Vibes'; font-size: 200%; text-align: right;"> 👴🏻 <a href="https://www.luzespirita.org.br/index.php?lisPage=enciclopedia&item=Allan%20Kardec">Allan Kardec</a></span>
 >
 > Tradução de [Guillon Ribeiro](https://uemmg.org.br/biografias/luis-olimpio-guillon-ribeiro/){:target="ext"}
 >
-> Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf){:target="_blank"}
+> Baseado no original [ISBN 978-85-7328-728-8](http://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Espíritos-Guillon-1.pdf){:target="ext"}
 >
 > Modificado para o consumo digital  
 > por Sergio de  
-> ⭕ [shklr.org](https://shklr.org){:target="_blank"}
+> ⭕ [shklr.org](https://shklr.org){:target="_blank"}  
+> [⚖️ Avisos Legais](../pages/4-legal.html){:target="_self"}
 >  
 > ✅
 {:.grey-center}
@@ -44,7 +45,7 @@ version: 25.09.04 (removed emoji span)
 > <small>Interpretação artística do desenho original (mediúnico).<small>
 {:.grey-center}
 
-[Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.w} que os produz a ação de uma [vontade](Vontade){:.w} livre e [inteligente](Inteligência){:.w}.
+[Fenômenos](Fenómeno){:.w} [alheios](alheio){:.d} às leis da [ciência](Ciência){:.w} humana se dão por toda parte, revelando na [causa](Causalidade){:.w} que os produz a ação de uma [vontade](Vontade){:.w} [livre](Liberdade){:.w} e [inteligente](Inteligência){:.w}.
 
 A [razão](Razão){:.w} diz que um efeito [inteligente](Inteligência){:.w} há de ter como causa uma força inteligente, e os [fatos](fato){:.d} hão provado que essa força é capaz de entrar em comunicação com os homens por meio de sinais materiais.
 
