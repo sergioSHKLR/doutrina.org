@@ -276,7 +276,8 @@ Ao invés do tradicional livro, exclusivamente em preto e branco, utilizaremos e
 | _Emoji_ | _Descrição_ | _Conteúdo_ |
 |---|---|---|
 | 👉 (dedo indicando à direita) | segmento relacionado | indicação para leitura complementar |
-
+| ⚜️ (livros) | seção fiel ao original | |
+| 📚 (flor-de-lis) | seção com links | |
 <!--
 <table class="ff-slab fs-3 border">
  <thead class="bg-lg">
