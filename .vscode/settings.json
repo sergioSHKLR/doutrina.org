@@ -1,0 +1,5 @@
+{
+    "notebook.showFoldingControls": "always",
+    "editor.defaultFoldingRangeProvider": "hnw.vscode-auto-open-markdown-preview",
+    "editor.showFoldingControls": "always"
+}
