@@ -139,7 +139,7 @@ body {
     border-collapse: collapse;
     /* box-shadow: inset 1px 1px 25px 6px #f6eee3ff; */
     box-sizing: border-box;
-    font-weight: 300;
+    font-weight: 400;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow-x: hidden;
@@ -1154,7 +1154,7 @@ details>div>p>a {
 
 .author,
 strong {
-    font-weight: 500
+    font-weight: 700
 }
 
 .cd {

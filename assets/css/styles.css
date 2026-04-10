@@ -140,6 +140,7 @@ body {
     border-collapse: collapse;
     /* box-shadow: inset 1px 1px 25px 6px #f6eee3ff; */
     box-sizing: border-box;
+    font-weight: 400;
     height: var(--body-height);
     left: calc(var(--sidebar-width) + var(--head-height));
     overflow-x: hidden;
