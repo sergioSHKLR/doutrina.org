@@ -33,9 +33,7 @@ version: 24.2.11
 
 ## Manutenção diária
 
-Ao decorrer deste ano, estaremos adicionando links para os itens relacionados acima. 
-
-Concomitantemente, estaremos verificando cada parágrafo manualmente, verificando a ortografia e a diagramação. Itens já verificados receberão o emoji <span class="emoji">✅</span> ao fim do mesmo.
+Decidi por retirar os livros/trechos que ainda estão sendo revisados. Assim sendo, somente o que está disponível está pronto (exceção do índice). 
 
 Futuramente, iremos nos concentrar na digitalização dos índices gerais de cada obra. Ao fim deste, iremos criar um índice geral combinando todas as cinco obras. Acreditamos que este compêndio será de extremo valor e conveniência para pesquisadores, palestrantes e líderes de estudo em grupo.
 
