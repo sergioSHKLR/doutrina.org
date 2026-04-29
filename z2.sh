@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo bundle exec jekyll build
+bundle exec jekyll serve --watch --incremental --port 7003
