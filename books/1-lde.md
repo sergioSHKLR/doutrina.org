@@ -19,7 +19,7 @@ version: 26.04.08
 > <br>
 > [Filosofia](Filosofia){:.w} [Espiritualista](Espiritualismo){:.l}
 >
-> <span style="font-size: 200%;"> 👻 [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}
+> <span style="font-size: 200%;"> 👻 [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l}</span>
 >
 > [Princípios](Princípio){:.w} da [Doutrina Espírita](Espiritismo){:.l}
 >
@@ -111,8 +111,6 @@ Como especialidade, [*O Livro dos Espíritos*](O%20Livro%20dos%20Espíritos){:.l
 <details class="links"><summary>🔗</summary><br>
 🏷️ *em construção* <a href="#term">↩️</a>
 </details>
-
-<!-->
 
 #### 📄 Intro 02 {#lde-0-03-02}
 
